@@ -26,8 +26,8 @@ Lägg BigQuery-datamängderna för Shopify, GA4 och Search Console i **samma pla
 
 ```bash
 gcloud auth login
-gcloud projects create gorilla-data-se --name "Gorilla data"   # välj eget id
-gcloud config set project gorilla-data-se
+gcloud projects create gorilla-sports-data --name "Gorilla Sports Data"   # välj eget id
+gcloud config set project gorilla-sports-data
 # Koppla ett faktureringskonto i konsolen: Billing -> Link a billing account
 ```
 
@@ -58,7 +58,7 @@ printf '%s' 'postgresql://...' | gcloud secrets create supabase-db-url --data-fi
 ### 4. Driftsätt
 
 ```bash
-PROJECT_ID=gorilla-data-se \
+PROJECT_ID=gorilla-sports-data \
 SHOPIFY_SHOP_DOMAIN=din-butik.myshopify.com \
 SINKS=bigquery,postgres \
 ./deploy/cloudrun.sh
@@ -134,8 +134,8 @@ SELECT
   SUM(li.quantity) AS sold,
   SUM(li.removed_quantity) AS removed,
   SAFE_DIVIDE(SUM(li.removed_quantity), SUM(li.quantity)) AS removal_rate
-FROM `gorilla-data-se.shopify.order_line_items` li
-JOIN `gorilla-data-se.shopify.orders` o ON o.id = li.order_id
+FROM `gorilla-sports-data.shopify.order_line_items` li
+JOIN `gorilla-sports-data.shopify.orders` o ON o.id = li.order_id
 WHERE o.created_at >= TIMESTAMP_SUB(CURRENT_TIMESTAMP(), INTERVAL 365 DAY)
 GROUP BY li.title
 HAVING sold >= 10
