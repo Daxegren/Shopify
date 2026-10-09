@@ -48,7 +48,15 @@ gcloud projects add-iam-policy-binding "$PROJECT_ID" \
 echo "== Bygger image"
 gcloud artifacts repositories describe "$REPO" --location "$REGION" >/dev/null 2>&1 || \
   gcloud artifacts repositories create "$REPO" --repository-format docker --location "$REGION"
-gcloud builds submit --tag "$IMAGE" .
+# Cloud Build först; faller tillbaka på lokal Docker (finns i Cloud Shell) om det nekas,
+# t.ex. medan behörigheter i ett nytt projekt fortfarande sprids.
+if ! gcloud builds submit --tag "$IMAGE" .; then
+  command -v docker >/dev/null || { echo "Cloud Build misslyckades och Docker saknas."; exit 1; }
+  echo "== Cloud Build misslyckades, bygger med Docker i stället"
+  gcloud auth configure-docker "${REGION}-docker.pkg.dev" --quiet
+  docker build -t "$IMAGE" .
+  docker push "$IMAGE"
+fi
 
 echo "== Hemligheter"
 SECRETS=""
