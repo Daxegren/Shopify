@@ -1,0 +1,81 @@
+#!/usr/bin/env bash
+# Driftsätter shopify-sync som Cloud Run Job som körs varje timme via Cloud Scheduler.
+#
+# Förutsättningar:
+#   - gcloud är inloggat (gcloud auth login) mot rätt projekt.
+#   - Hemligheterna finns i Secret Manager (se README, steg 3).
+#
+# Användning:
+#   PROJECT_ID=mitt-projekt SHOPIFY_SHOP_DOMAIN=butik.myshopify.com ./deploy/cloudrun.sh
+set -euo pipefail
+
+: "${PROJECT_ID:?Sätt PROJECT_ID}"
+: "${SHOPIFY_SHOP_DOMAIN:?Sätt SHOPIFY_SHOP_DOMAIN}"
+REGION="${REGION:-europe-north1}"
+BQ_LOCATION="${BQ_LOCATION:-EU}"
+SINKS="${SINKS:-bigquery}"
+SCHEDULE="${SCHEDULE:-7 * * * *}"          # minut 7 varje timme
+JOB="${JOB:-shopify-sync}"
+SA_NAME="${SA_NAME:-shopify-sync}"
+SA="${SA_NAME}@${PROJECT_ID}.iam.gserviceaccount.com"
+REPO="${REPO:-containers}"
+IMAGE="${REGION}-docker.pkg.dev/${PROJECT_ID}/${REPO}/${JOB}:$(date +%Y%m%d%H%M%S)"
+
+cd "$(dirname "$0")/.."
+gcloud config set project "$PROJECT_ID" >/dev/null
+
+echo "== Aktiverar API:er"
+gcloud services enable run.googleapis.com cloudscheduler.googleapis.com \
+  secretmanager.googleapis.com bigquery.googleapis.com \
+  artifactregistry.googleapis.com cloudbuild.googleapis.com
+
+echo "== Tjänstkonto"
+gcloud iam service-accounts describe "$SA" >/dev/null 2>&1 || \
+  gcloud iam service-accounts create "$SA_NAME" --display-name "Shopify sync"
+for role in roles/bigquery.dataEditor roles/bigquery.jobUser roles/secretmanager.secretAccessor; do
+  gcloud projects add-iam-policy-binding "$PROJECT_ID" --member "serviceAccount:$SA" \
+    --role "$role" --condition=None >/dev/null
+done
+
+echo "== Bygger image"
+gcloud artifacts repositories describe "$REPO" --location "$REGION" >/dev/null 2>&1 || \
+  gcloud artifacts repositories create "$REPO" --repository-format docker --location "$REGION"
+gcloud builds submit --tag "$IMAGE" .
+
+echo "== Hemligheter"
+SECRETS=""
+add_secret() {  # env-namn, secret-namn
+  if gcloud secrets describe "$2" >/dev/null 2>&1; then
+    SECRETS="${SECRETS:+$SECRETS,}$1=$2:latest"
+  fi
+}
+add_secret SHOPIFY_ACCESS_TOKEN shopify-access-token
+add_secret SHOPIFY_CLIENT_ID shopify-client-id
+add_secret SHOPIFY_CLIENT_SECRET shopify-client-secret
+add_secret SUPABASE_DB_URL supabase-db-url
+[ -n "$SECRETS" ] || { echo "Inga hemligheter hittades i Secret Manager, se README."; exit 1; }
+
+echo "== Cloud Run Job"
+ENV_VARS="SHOPIFY_SHOP_DOMAIN=${SHOPIFY_SHOP_DOMAIN},SINKS=${SINKS},BQ_PROJECT=${PROJECT_ID},BQ_LOCATION=${BQ_LOCATION}"
+if gcloud run jobs describe "$JOB" --region "$REGION" >/dev/null 2>&1; then
+  ACTION=update
+else
+  ACTION=create
+fi
+gcloud run jobs "$ACTION" "$JOB" --region "$REGION" --image "$IMAGE" \
+  --service-account "$SA" --set-env-vars "$ENV_VARS" --set-secrets "$SECRETS" \
+  --task-timeout 3600 --max-retries 1 --memory 1Gi
+
+echo "== Schemaläggning"
+gcloud run jobs add-iam-policy-binding "$JOB" --region "$REGION" \
+  --member "serviceAccount:$SA" --role roles/run.invoker >/dev/null
+URI="https://run.googleapis.com/v2/projects/${PROJECT_ID}/locations/${REGION}/jobs/${JOB}:run"
+if gcloud scheduler jobs describe "$JOB" --location "$REGION" >/dev/null 2>&1; then
+  gcloud scheduler jobs update http "$JOB" --location "$REGION" --schedule "$SCHEDULE" \
+    --uri "$URI" --http-method POST --oauth-service-account-email "$SA"
+else
+  gcloud scheduler jobs create http "$JOB" --location "$REGION" --schedule "$SCHEDULE" \
+    --time-zone "Europe/Stockholm" --uri "$URI" --http-method POST --oauth-service-account-email "$SA"
+fi
+
+echo "Klart. Första körningen (full backfill): gcloud run jobs execute $JOB --region $REGION --wait"
