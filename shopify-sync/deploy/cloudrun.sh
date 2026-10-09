@@ -12,6 +12,8 @@ set -euo pipefail
 : "${PROJECT_ID:?Sätt PROJECT_ID}"
 : "${SHOPIFY_SHOP_DOMAIN:?Sätt SHOPIFY_SHOP_DOMAIN}"
 REGION="${REGION:-europe-north1}"
+# Cloud Scheduler finns inte i alla regioner; europe-west1 är säker.
+SCHEDULER_REGION="${SCHEDULER_REGION:-europe-west1}"
 BQ_LOCATION="${BQ_LOCATION:-EU}"
 SINKS="${SINKS:-bigquery}"
 SCHEDULE="${SCHEDULE:-7 * * * *}"          # minut 7 varje timme
@@ -31,11 +33,17 @@ gcloud services enable run.googleapis.com cloudscheduler.googleapis.com \
 
 echo "== Tjänstkonto"
 gcloud iam service-accounts describe "$SA" >/dev/null 2>&1 || \
-  gcloud iam service-accounts create "$SA_NAME" --display-name "Shopify sync"
+  { gcloud iam service-accounts create "$SA_NAME" --display-name "Shopify sync" && sleep 15; }
 for role in roles/bigquery.dataEditor roles/bigquery.jobUser roles/secretmanager.secretAccessor; do
   gcloud projects add-iam-policy-binding "$PROJECT_ID" --member "serviceAccount:$SA" \
     --role "$role" --condition=None >/dev/null
 done
+
+# Nya projekt bygger med Compute-standardkontot, som behöver byggrättigheter.
+PROJECT_NUMBER="$(gcloud projects describe "$PROJECT_ID" --format='value(projectNumber)')"
+gcloud projects add-iam-policy-binding "$PROJECT_ID" \
+  --member "serviceAccount:${PROJECT_NUMBER}-compute@developer.gserviceaccount.com" \
+  --role roles/cloudbuild.builds.builder --condition=None >/dev/null
 
 echo "== Bygger image"
 gcloud artifacts repositories describe "$REPO" --location "$REGION" >/dev/null 2>&1 || \
@@ -70,11 +78,11 @@ echo "== Schemaläggning"
 gcloud run jobs add-iam-policy-binding "$JOB" --region "$REGION" \
   --member "serviceAccount:$SA" --role roles/run.invoker >/dev/null
 URI="https://run.googleapis.com/v2/projects/${PROJECT_ID}/locations/${REGION}/jobs/${JOB}:run"
-if gcloud scheduler jobs describe "$JOB" --location "$REGION" >/dev/null 2>&1; then
-  gcloud scheduler jobs update http "$JOB" --location "$REGION" --schedule "$SCHEDULE" \
+if gcloud scheduler jobs describe "$JOB" --location "$SCHEDULER_REGION" >/dev/null 2>&1; then
+  gcloud scheduler jobs update http "$JOB" --location "$SCHEDULER_REGION" --schedule "$SCHEDULE" \
     --uri "$URI" --http-method POST --oauth-service-account-email "$SA"
 else
-  gcloud scheduler jobs create http "$JOB" --location "$REGION" --schedule "$SCHEDULE" \
+  gcloud scheduler jobs create http "$JOB" --location "$SCHEDULER_REGION" --schedule "$SCHEDULE" \
     --time-zone "Europe/Stockholm" --uri "$URI" --http-method POST --oauth-service-account-email "$SA"
 fi
 
