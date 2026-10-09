@@ -79,6 +79,8 @@ def test_order_transform():
 
     order = rows[0][1]
     assert order["total_price"] == "8699.0"
+    assert order["presentment_currency"] == "DKK"
+    assert order["total_price_presentment"] == "5690.0"
     assert order["discount_codes"] == "HOST15"
     assert order["customer_id"] == "gid://shopify/Customer/55"
     assert order["first_visit_utm_medium"] == "cpc"

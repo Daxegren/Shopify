@@ -19,7 +19,8 @@ ORDERS = """
         displayFinancialStatus
         displayFulfillmentStatus
         currencyCode
-        totalPriceSet { shopMoney { amount currencyCode } }
+        presentmentCurrencyCode
+        totalPriceSet { shopMoney { amount currencyCode } presentmentMoney { amount } }
         currentTotalPriceSet { shopMoney { amount } }
         subtotalPriceSet { shopMoney { amount } }
         totalDiscountsSet { shopMoney { amount } }

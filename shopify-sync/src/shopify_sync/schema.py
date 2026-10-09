@@ -65,7 +65,10 @@ ORDERS = Table(
         C("financial_status", "STRING"),
         C("fulfillment_status", "STRING"),
         C("currency_code", "STRING"),
+        # Valutan kunden betalade i (Shopify Markets), t.ex. DKK på gorillasports.dk.
+        C("presentment_currency", "STRING"),
         C("total_price", "NUMERIC"),
+        C("total_price_presentment", "NUMERIC"),
         C("current_total_price", "NUMERIC"),
         C("subtotal_price", "NUMERIC"),
         C("total_discounts", "NUMERIC"),
