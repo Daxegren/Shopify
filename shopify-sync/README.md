@@ -41,6 +41,23 @@ Du kan autentisera på två sätt:
 - med **Client ID och Client secret**, då hämtar jobbet en token själv via client credentials, eller
 - med en färdig **Admin API access token** (`shpat_...`) om du har en från en befintlig app.
 
+#### Om appen ägs av ett partnerkonto (annan organisation än butiken)
+
+Då fungerar inte client credentials. Hämta i stället en permanent offline-token en gång via OAuth. Det görs enklast i **Cloud Shell**, där gcloud redan är inloggat:
+
+```bash
+cd shopify-sync
+read -s SHOPIFY_CLIENT_ID && export SHOPIFY_CLIENT_ID          # klistra in, Enter
+read -s SHOPIFY_CLIENT_SECRET && export SHOPIFY_CLIENT_SECRET  # klistra in, Enter
+PYTHONPATH=src python3 -m shopify_sync.main authorize \
+  --shop BUTIK.myshopify.com \
+  --base-url https://8080-<din-web-preview-adress>.cloudshell.dev
+```
+
+- Ange **App URL** `<base-url>/` och **Redirect URL** `<base-url>/callback` i appens version, och slå av inbäddning i Shopify admin.
+- Installera appen i butiken via installationslänken (Distribution → Custom distribution).
+- Tokenen sparas direkt i Secret Manager som `shopify-access-token` och skrivs aldrig ut.
+
 ### 3. Lägg hemligheterna i Secret Manager
 
 Lägg bara in de hemligheter du använder:

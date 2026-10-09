@@ -53,6 +53,31 @@ def _print_ddl(args: argparse.Namespace) -> int:
     return 0
 
 
+def _authorize(args: argparse.Namespace) -> int:
+    import os
+
+    from .authorize import OAuthFlow, serve, store_in_file, store_in_secret_manager
+
+    client_id = os.environ.get("SHOPIFY_CLIENT_ID")
+    client_secret = os.environ.get("SHOPIFY_CLIENT_SECRET")
+    if not client_id or not client_secret:
+        raise ConfigError("Sätt SHOPIFY_CLIENT_ID och SHOPIFY_CLIENT_SECRET först.")
+    if args.secret_file:
+        store = lambda token: store_in_file(token, args.secret_file)  # noqa: E731
+    else:
+        store = lambda token: store_in_secret_manager(token, args.secret, args.project)  # noqa: E731
+
+    flow = OAuthFlow(args.shop, client_id, client_secret, args.base_url, args.scopes, store)
+    print(f"\nApp URL (ange i appens konfiguration):      {args.base_url.rstrip('/')}/")
+    print(f"Redirect URL (ange i appens konfiguration): {flow.redirect_uri}")
+    print("\nInstallera sedan appen i butiken via installationslänken, eller öppna:")
+    print(f"  {args.base_url.rstrip('/')}/\n")
+    serve(flow, args.port)
+    target = args.secret_file or f"Secret Manager: {args.secret} ({args.project})"
+    print(f"\nToken sparad i {target}. Beviljade scopes: {flow.granted_scopes}")
+    return 0
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(prog="shopify-sync")
     parser.add_argument("--log-level", default="INFO")
@@ -68,7 +93,21 @@ def main(argv: list[str] | None = None) -> int:
     ddl.add_argument("--schema", default="shopify", help="Postgres-schema eller BigQuery-dataset.")
     ddl.set_defaults(func=_print_ddl)
 
+    auth = sub.add_parser("authorize", help="Installera appen via OAuth och spara en offline-token.")
+    auth.add_argument("--shop", required=True, help="t.ex. gorilla-sports.myshopify.com")
+    auth.add_argument("--base-url", required=True, help="Publik https-adress till den här datorn, t.ex. Cloud Shell Web Preview.")
+    auth.add_argument("--port", type=int, default=8080)
+    auth.add_argument("--scopes", default=None, help="Kommaseparerade scopes. Default: läsbehörigheterna jobbet behöver.")
+    auth.add_argument("--project", default="gorilla-sports-data", help="GCP-projekt för Secret Manager.")
+    auth.add_argument("--secret", default="shopify-access-token", help="Namn på hemligheten.")
+    auth.add_argument("--secret-file", help="Spara i en lokal fil (0600) i stället för Secret Manager.")
+    auth.set_defaults(func=_authorize)
+
     args = parser.parse_args(argv)
+    if getattr(args, "scopes", "x") is None:
+        from .authorize import DEFAULT_SCOPES
+
+        args.scopes = DEFAULT_SCOPES
     logging.basicConfig(
         level=args.log_level.upper(),
         format="%(asctime)s %(levelname)s %(name)s: %(message)s",
