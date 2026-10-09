@@ -58,10 +58,13 @@ def _authorize(args: argparse.Namespace) -> int:
 
     from .authorize import OAuthFlow, serve, store_in_file, store_in_secret_manager
 
-    client_id = os.environ.get("SHOPIFY_CLIENT_ID")
-    client_secret = os.environ.get("SHOPIFY_CLIENT_SECRET")
+    import getpass
+
+    client_id = os.environ.get("SHOPIFY_CLIENT_ID") or input("Client ID: ").strip()
+    # getpass visar inte det som klistras in.
+    client_secret = os.environ.get("SHOPIFY_CLIENT_SECRET") or getpass.getpass("Client secret (syns inte): ").strip()
     if not client_id or not client_secret:
-        raise ConfigError("Sätt SHOPIFY_CLIENT_ID och SHOPIFY_CLIENT_SECRET först.")
+        raise ConfigError("Client ID och Client secret krävs.")
     if args.secret_file:
         store = lambda token: store_in_file(token, args.secret_file)  # noqa: E731
     else:
