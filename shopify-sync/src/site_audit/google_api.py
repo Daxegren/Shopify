@@ -116,6 +116,9 @@ def load_rows(store, table: str, schema, rows: Iterator[dict[str, Any]], replace
     omkörningar inte dubblerar."""
     bq = store.bq
     full = f"{store.dataset}.{table}"
+    ds = bq.Dataset(store.dataset)
+    ds.location = store.location
+    store.client.create_dataset(ds, exists_ok=True)  # datasetet finns inte före första genomlysningen
     t = bq.Table(full, schema=[bq.SchemaField(n, ty, mode=m) for n, ty, m in schema])
     t.time_partitioning = bq.TimePartitioning(field=schema[0][0])
     store.client.create_table(t, exists_ok=True)
