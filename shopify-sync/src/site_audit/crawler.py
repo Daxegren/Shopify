@@ -81,7 +81,9 @@ class CrawlResult:
 PRIVATE_PATHS = re.compile(r"^(/[a-z]{2}(-[a-z]{2})?)?/(customer_authentication|account|cart|checkouts?)(/|$)", re.I)
 RETRY_MAX = 500
 
-TRACKING_PARAMS = re.compile(r"^(pr_[a-z_]+|shpxid|_pos|_sid|_ss|_psq|_v|_fid|srsltid|gclid|fbclid|utm_[a-z]+|variant)$", re.I)
+TRACKING_PARAMS = re.compile(r"^(pr_[a-z_]+|shpxid|_pos|_sid|_psid|_ss|_psq|_v|_fid|srsltid|gclid|fbclid|utm_[a-z]+|variant)$", re.I)
+# I omdirigeringsmål kan variant= vara avsiktligt (en viss storlek eller färg) och behålls.
+REDIRECT_TRACKING_PARAMS = re.compile(r"^(pr_[a-z_]+|shpxid|_pos|_sid|_psid|_ss|_psq|_v|_fid|srsltid|gclid|fbclid|utm_[a-z]+)$", re.I)
 
 
 def normalize_url(url: str) -> str:
@@ -96,12 +98,12 @@ def normalize_url(url: str) -> str:
     return urlunsplit((p.scheme.lower(), p.netloc.lower(), path, query, ""))
 
 
-def strip_tracking(url: str) -> str:
+def strip_tracking(url: str, pattern: re.Pattern = REDIRECT_TRACKING_PARAMS) -> str:
     """Tar bort spårningsparametrar men behåller resten av adressen som den är."""
     from urllib.parse import parse_qsl, urlencode
 
     p = urlsplit(url)
-    query = urlencode([(k, v) for k, v in parse_qsl(p.query, keep_blank_values=True) if not TRACKING_PARAMS.match(k)])
+    query = urlencode([(k, v) for k, v in parse_qsl(p.query, keep_blank_values=True) if not pattern.match(k)])
     return urlunsplit((p.scheme, p.netloc, p.path, query, p.fragment))
 
 

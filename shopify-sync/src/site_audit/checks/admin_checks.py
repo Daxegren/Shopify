@@ -8,7 +8,7 @@ from datetime import datetime, timedelta, timezone
 from urllib.parse import parse_qsl, urlsplit
 
 from ..config import SiteConfig
-from ..crawler import TRACKING_PARAMS, strip_tracking
+from ..crawler import REDIRECT_TRACKING_PARAMS, strip_tracking
 from ..findings import Finding
 from ..html_parse import split_locale
 from ..shopify_admin import AdminData
@@ -276,9 +276,14 @@ def check_redirect_table(admin: AdminData, site: SiteConfig) -> list[Finding]:
                          f"Omdirigeringens mål '{target}' saknar domän och fungerar inte",
                          url=site.base_url + r["path"], resource=r["id"], evidence={"target": target}))
             continue
-        params = [k for k, _ in parse_qsl(urlsplit(target).query) if TRACKING_PARAMS.match(k)]
+        thost = urlsplit(target).netloc.lower()
+        if thost and thost != site.host:
+            out.append(F("redirect_table_other_domain", "high", "international",
+                         f"Omdirigeringen pekar på en annan domän ({thost}). Tabellen gäller alla domäner i butiken.",
+                         url=site.base_url + r["path"], resource=r["id"], evidence={"target": target}))
+        params = [k for k, _ in parse_qsl(urlsplit(target).query) if REDIRECT_TRACKING_PARAMS.match(k)]
         if params:
-            out.append(F("redirect_target_tracking_params", "medium", "redirects",
+            out.append(F("redirect_target_tracking_params", "low", "redirects",
                          f"Omdirigeringens mål innehåller spårningsparametrar ({', '.join(sorted(set(params))[:3])})",
                          url=site.base_url + r["path"], resource=r["id"],
                          evidence={"target": target, "clean_target": strip_tracking(target)}))

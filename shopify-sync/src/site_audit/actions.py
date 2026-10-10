@@ -19,6 +19,11 @@ from .findings import SEVERITY_RANK, Finding
 from .html_parse import split_locale
 
 PRIORITY = {"critical": 100, "high": 60, "medium": 30, "low": 10, "info": 0}
+SURE_SCORE = 0.6  # förslag under detta hamnar i redirects_review.csv i stället för importfilen
+STOPWORDS = {"products", "collections", "pages", "blogs", "blogg", "blog", "editorials", "butikk", "p", "s",
+             "och", "for", "att", "med", "av", "det", "du", "en", "ett", "i", "pa", "som", "til", "og", "the", "and",
+             "dk", "se", "no", "fi"}
+UNIT = re.compile(r"^\d+([.,]\d+)?(kg|g|mm|cm|m|oz|l|st)?$")
 
 
 @dataclass
@@ -37,7 +42,8 @@ def _path(url: str) -> str:
 
 def _tokens(path: str) -> set[str]:
     _, rest = split_locale(path)
-    return {t for t in re.split(r"[/\-_]+", rest.lower()) if t and not t.isdigit() and t not in {"products", "collections", "pages", "blogs"}}
+    return {t for t in re.split(r"[/\-_]+", rest.lower())
+            if len(t) >= 3 and not UNIT.match(t) and t not in STOPWORDS}
 
 
 def _similar(a: str, b: str) -> bool:
@@ -45,7 +51,11 @@ def _similar(a: str, b: str) -> bool:
     if a == b:
         return True
     n = min(len(a), len(b))
-    return n >= 5 and a[:5] == b[:5] and abs(len(a) - len(b)) <= 3
+    if abs(len(a) - len(b)) > 3:
+        return False
+    if n >= 4 and (a.startswith(b) or b.startswith(a)):  # rope/ropes, boll/bollar
+        return True
+    return n >= 5 and a[:5] == b[:5]
 
 
 def _overlap(want: set[str], have: set[str]) -> float:
@@ -87,11 +97,14 @@ def _keep_first(items: list[str], prefix: str, clicks: dict[str, float]) -> list
     return sorted(items, key=lambda h: -clicks.get(f"{prefix}{h}".rstrip("/"), 0))
 
 
-def build_actions(findings: list[Finding], cr: CrawlResult | None,
-                  clicks: dict[str, float] | None = None) -> tuple[list[Action], list[tuple[str, str]]]:
+def build_actions(findings: list[Finding], cr: CrawlResult | None, clicks: dict[str, float] | None = None,
+                  with_review: bool = False):
+    """Returnerar (åtgärder, omdirigeringar). Med with_review=True även en lista med osäkra förslag
+    (från, förslag, säkerhet), som då inte ingår i omdirigeringarna."""
     clicks = clicks or {}
     actions: list[Action] = []
     redirects: dict[str, str] = {}
+    unsure: dict[str, float] = {}
     live = live_paths(cr) if cr else []
     for f in findings:
         p = PRIORITY[f.severity] + int(f.evidence.get("clicks", 0) or 0)
@@ -99,7 +112,10 @@ def build_actions(findings: list[Finding], cr: CrawlResult | None,
         if f.check in ("sitemap_url_error", "traffic_page_broken", "broken_internal_link") and cr:
             src = _path(url)
             tgt, score = suggest_target(src, live)
-            redirects.setdefault(src, tgt)
+            if src not in redirects:
+                redirects[src] = tgt
+                if score < SURE_SCORE:
+                    unsure[src] = score
             actions.append(Action(p, "Skapa 301", src, tgt,
                                   f"{f.message}. Förslag med säkerhet {score:.2f}" + (" (kontrollera manuellt)" if score < 0.6 else ""), f.check))
         elif f.check == "redirect_target_tracking_params":
@@ -114,15 +130,21 @@ def build_actions(findings: list[Finding], cr: CrawlResult | None,
             src = _path(url)
             if cu and cu.status == 200:
                 redirects[src] = _path(cu.final_url)
+                unsure.pop(src, None)
                 actions.append(Action(p, "Peka om omdirigering", src, _path(cu.final_url), f.message, f.check))
             else:
-                tgt, _ = suggest_target(src, live)
+                tgt, score = suggest_target(src, live)
                 redirects[src] = tgt
-                actions.append(Action(p, "Byt mål på omdirigering", src, tgt, f.message, f.check))
+                if score < SURE_SCORE:
+                    unsure[src] = score
+                actions.append(Action(p, "Byt mål på omdirigering", src, tgt,
+                                      f.message + ("" if score >= SURE_SCORE else f" (förslag med säkerhet {score:.2f}, kontrollera manuellt)"),
+                                      f.check))
         elif f.check == "large_inline_script_sitewide":
             actions.append(Action(p + f.evidence.get("pages", 0) // 10, "Flytta ut inline-skript", "tema/app",
                                   f"Skriptet börjar: {f.evidence.get('starts_with', '')[:60]}", f.message, f.check))
-        elif f.check in ("redirect_changes_locale", "redirect_table_locale", "geo_redirect", "redirect_to_other_market"):
+        elif f.check in ("redirect_changes_locale", "redirect_table_locale", "geo_redirect", "redirect_to_other_market",
+                         "redirect_table_other_domain"):
             actions.append(Action(p, "Rätta marknad/språk", url, "Peka svenska URL:er på svensk version, eller ta bort geo-omdirigering från roten",
                                   f.message, f.check))
         elif f.check in ("duplicate_collection_products", "near_duplicate_collection", "duplicate_collection_description", "collection_clones"):
@@ -165,6 +187,9 @@ def build_actions(findings: list[Finding], cr: CrawlResult | None,
             tgt = redirects[tgt]
         redirects[src] = tgt
     pairs = sorted((s, t) for s, t in redirects.items() if s != t)
+    if with_review:
+        review = [(s, t, unsure[s]) for s, t in pairs if s in unsure]
+        pairs = [(s, t) for s, t in pairs if s not in unsure]
     # En åtgärd per (åtgärd, mål); behåll högsta prioritet och samla orsakerna.
     merged: dict[tuple[str, str], Action] = {}
     for a in actions:
@@ -178,14 +203,25 @@ def build_actions(findings: list[Finding], cr: CrawlResult | None,
         else:
             merged[key] = a
     actions = sorted(merged.values(), key=lambda a: (-a.priority, a.action, a.target))
+    if with_review:
+        return actions, pairs, review
     return actions, pairs
+
+
+def clicks_or_zero(clicks: dict[str, float] | None, path: str) -> float:
+    return (clicks or {}).get(path, 0) or 0
 
 
 def write_action_files(findings: list[Finding], cr: CrawlResult | None, out_dir: str | Path,
                        clicks: dict[str, float] | None = None) -> tuple[Path, Path]:
-    actions, pairs = build_actions(findings, cr, clicks)
+    actions, pairs, review = build_actions(findings, cr, clicks, with_review=True)
     out = Path(out_dir)
     a_path, r_path = out / "actions.csv", out / "redirects_import.csv"
+    with open(out / "redirects_review.csv", "w", newline="") as fh:
+        w = csv.writer(fh)
+        w.writerow(["Redirect from", "Förslag", "Säkerhet", "Klick i Google"])
+        for src, tgt, score in sorted(review, key=lambda r: -clicks_or_zero(clicks, r[0])):
+            w.writerow([src, tgt, f"{score:.2f}", int(clicks_or_zero(clicks, src))])
     with open(a_path, "w", newline="") as fh:
         w = csv.writer(fh)
         w.writerow(["prioritet", "åtgärd", "mål", "förslag", "orsak", "kontroll"])

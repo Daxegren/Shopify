@@ -83,7 +83,7 @@ def check_lost_traffic(cr: CrawlResult, sd: SearchData, site: SiteConfig) -> lis
             out.append(F("traffic_page_broken", "critical", "indexing",
                          f"Sidan hade {m['clicks']:.0f} klick senaste {sd.days} dagarna men ger nu {cu.status}",
                          url=cu.url, evidence={"clicks": m["clicks"], "impressions": m["impressions"]}))
-        elif cu.redirect_count and m["clicks"] >= 10:
+        elif cu.redirect_count and m["clicks"] >= 10 and not _https_only(cu.url, cu.final_url):
             out.append(F("traffic_page_redirected", "medium", "redirects",
                          f"Sida med {m['clicks']:.0f} klick omdirigeras (kontrollera att målet är rätt)",
                          url=cu.url, evidence={"final_url": cu.final_url, "clicks": m["clicks"]}))
@@ -140,3 +140,8 @@ def run_data_checks(cr: CrawlResult, sd: SearchData, site: SiteConfig) -> list[F
     for check in (check_lost_traffic, check_zero_impressions, check_ctr, check_cannibalization):
         out.extend(check(cr, sd, site))
     return out
+
+
+def _https_only(url: str, final_url: str) -> bool:
+    """http://x/a → https://x/a är Shopifys vanliga omdirigering och inget fel."""
+    return url.startswith("http://") and final_url.rstrip("/") == "https://" + url[7:].rstrip("/")

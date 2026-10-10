@@ -439,11 +439,16 @@ def test_second_review_fixes():
     # Omdirigeringstabellen: mål utan domän och mål med spårningsparametrar
     admin = AdminData(redirects=[
         {"id": "1", "path": "/wall-ball/s/283", "target": "//collections/wall-ball"},
-        {"id": "2", "path": "/bumper/p/1", "target": "/products/bumper?pr_prod_strat=e5&pr_rec_id=1&color=red"},
+        {"id": "2", "path": "/bumper/p/1", "target": "/products/bumper?pr_prod_strat=e5&pr_rec_id=1&_psid=x&variant=7"},
+        {"id": "3", "path": "/curl/p/2", "target": "https://www.x.dk/products/curl?_pos=32&shpxid=1"},
     ])
-    by = {f.check: f for f in check_redirect_table(admin, site)}
+    by = {}
+    for f in check_redirect_table(admin, site):
+        by.setdefault(f.check, f)
     assert by["redirect_invalid_target"].url.endswith("/wall-ball/s/283")
-    assert by["redirect_target_tracking_params"].evidence["clean_target"] == "/products/bumper?color=red"
+    # variant= behålls, spårning tas bort
+    assert by["redirect_target_tracking_params"].evidence["clean_target"] == "/products/bumper?variant=7"
+    assert by["redirect_table_other_domain"].url.endswith("/curl/p/2")
 
     # Om-hämtning efter 429: lyckas den andra gången ersätts resultatet
     class FlakyFetcher:
@@ -464,3 +469,29 @@ def test_second_review_fixes():
     results = {first.url: first}
     c._retry_failed(results)
     assert results[first.url].status == 200 and results[first.url].in_sitemap
+
+
+def test_unsure_redirects_go_to_review(tmp_path):
+    import csv
+
+    from site_audit.actions import _tokens, build_actions, write_action_files
+    from site_audit.findings import Finding
+
+    # Enheter, korta ord och plattformsord räknas inte som gemensamma ord
+    assert _tokens("/battle-rope-10-20m_30-40mm-dk/p/728") == {"battle", "rope"}
+
+    class CU:
+        def __init__(self, url):
+            self.url, self.status, self.redirect_count, self.facts, self.final_url = url, 200, 0, object(), url
+
+    class CR:
+        urls = {u: CU(u) for u in ("https://x.se/collections/battle-ropes", "https://x.se/collections/all")}
+
+    fs = [Finding("redirect_target_missing", "critical", "redirects", "m", url="https://x.se/battle-rope-10m/p/728"),
+          Finding("redirect_target_missing", "critical", "redirects", "m", url="https://x.se/boksepakke-profi/p/1129")]
+    _, sure, review = build_actions(fs, CR(), with_review=True)
+    assert dict(sure) == {"/battle-rope-10m/p/728": "/collections/battle-ropes"}
+    assert [r[0] for r in review] == ["/boksepakke-profi/p/1129"]
+    write_action_files(fs, CR(), tmp_path)
+    rows = list(csv.reader(open(tmp_path / "redirects_review.csv")))
+    assert rows[1][0] == "/boksepakke-profi/p/1129" and rows[1][1] == "/collections/all"

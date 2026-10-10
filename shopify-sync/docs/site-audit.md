@@ -161,3 +161,17 @@ WHERE status = 'åtgärdad' GROUP BY 1 ORDER BY 2 DESC;
   ```bash
   gcloud storage cp -r gs://gorilla-sports-data-site-audit/audits/gorillasports-se/latest .
   ```
+
+## Tillägg 2026-10-10: justeringar efter tredje körningen mot gorillasports.se
+
+- **`redirect_target_tracking_params`** har nu allvarlighetsgrad låg. Målet fungerar, men adressen innehåller sökspårning (`_pos`, `_ss`, `_psq`, `_psid`, `_v`) eller rekommendationsspårning (`pr_*`). `variant=` räknas inte längre som spårning i omdirigeringsmål, eftersom den kan peka på en viss storlek eller färg. `_psid` har lagts till i listan över spårningsparametrar.
+- **`redirect_table_other_domain`** (hög) är ny. Den gäller omdirigeringar i Shopify vars mål är en fullständig adress på en annan domän, till exempel `https://www.gorillasports.dk/...`. Omdirigeringstabellen gäller alla domäner i butiken, så även besökare på .se skickas till .dk.
+- **`traffic_page_redirected`** bortser nu från `http://` → `https://` till samma sökväg. Det är Shopifys vanliga omdirigering och inget fel.
+- **Förslag på nya mål** jämför bara ord som betyder något. Enheter (`10kg`, `40mm`), ord kortare än tre tecken, plattformsord (`p`, `blogg`, `butikk`), landskoder och vanliga småord ignoreras. Singular och plural räknas som samma ord (`rope`/`ropes`).
+- **`redirects_import.csv`** innehåller nu bara säkra omdirigeringar:
+  - kedjor som pekas om till sitt fungerande slutmål
+  - rensade spårningsparametrar
+  - sammanslagningar
+  - förslag med säkerhet 0,6 eller mer
+
+  Osäkra förslag, till exempel fallback till `/collections/all`, hamnar i **`redirects_review.csv`** med säkerhet och antal klick från Google. Den filen ska gås igenom manuellt och importeras inte direkt.
