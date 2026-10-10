@@ -82,7 +82,14 @@ def suggest_target(path: str, candidates: list[str]) -> tuple[str, float]:
     return best, round(score, 2)
 
 
-def build_actions(findings: list[Finding], cr: CrawlResult | None) -> tuple[list[Action], list[tuple[str, str]]]:
+def _keep_first(items: list[str], prefix: str, clicks: dict[str, float]) -> list[str]:
+    """Sorterar så att sidan med flest klick i Google behålls vid sammanslagning."""
+    return sorted(items, key=lambda h: -clicks.get(f"{prefix}{h}".rstrip("/"), 0))
+
+
+def build_actions(findings: list[Finding], cr: CrawlResult | None,
+                  clicks: dict[str, float] | None = None) -> tuple[list[Action], list[tuple[str, str]]]:
+    clicks = clicks or {}
     actions: list[Action] = []
     redirects: dict[str, str] = {}
     live = live_paths(cr) if cr else []
@@ -110,7 +117,7 @@ def build_actions(findings: list[Finding], cr: CrawlResult | None) -> tuple[list
                                   f.message, f.check))
         elif f.check in ("duplicate_collection_products", "near_duplicate_collection", "duplicate_collection_description", "collection_clones"):
             cols = f.evidence.get("collections") or [url.rsplit("/", 1)[-1], f.evidence.get("other")]
-            cols = [c for c in cols if c]
+            cols = _keep_first([c for c in cols if c], "/collections/", clicks)
             if len(cols) > 1:
                 keep = cols[0]
                 for c in cols[1:]:
@@ -122,7 +129,7 @@ def build_actions(findings: list[Finding], cr: CrawlResult | None) -> tuple[list
         elif f.check in ("test_page_published", "test_or_draft_page", "app_generated_page", "outdated_page", "thin_page"):
             actions.append(Action(p, "Avpublicera sida", url, "Avpublicera, eller slå ihop med relevant sida och 301", f.message, f.check))
         elif f.check == "duplicate_role_page":
-            handles = f.evidence.get("handles") or []
+            handles = _keep_first(f.evidence.get("handles") or [], "/pages/", clicks)
             if len(handles) > 1:
                 for h in handles[1:]:
                     redirects.setdefault(f"/pages/{h}", f"/pages/{handles[0]}")
@@ -164,8 +171,9 @@ def build_actions(findings: list[Finding], cr: CrawlResult | None) -> tuple[list
     return actions, pairs
 
 
-def write_action_files(findings: list[Finding], cr: CrawlResult | None, out_dir: str | Path) -> tuple[Path, Path]:
-    actions, pairs = build_actions(findings, cr)
+def write_action_files(findings: list[Finding], cr: CrawlResult | None, out_dir: str | Path,
+                       clicks: dict[str, float] | None = None) -> tuple[Path, Path]:
+    actions, pairs = build_actions(findings, cr, clicks)
     out = Path(out_dir)
     a_path, r_path = out / "actions.csv", out / "redirects_import.csv"
     with open(a_path, "w", newline="") as fh:

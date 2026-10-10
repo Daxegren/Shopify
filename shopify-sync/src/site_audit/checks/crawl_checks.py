@@ -33,6 +33,12 @@ def check_status(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
     out = []
     for err_url, err in cr.sitemap.errors:
         out.append(F("sitemap_unreadable", "high", "indexing", f"Sitemap kunde inte läsas ({err})", url=err_url))
+    unique_sitemap = {normalize_url(e.url) for e in cr.sitemap.entries}
+    crawled_sitemap = sum(1 for cu in cr.urls.values() if cu.in_sitemap)
+    if len(unique_sitemap) > crawled_sitemap:
+        out.append(F("crawl_truncated", "info", "indexing",
+                     f"Crawlen täckte {crawled_sitemap} av {len(unique_sitemap)} sitemap-URL:er (höj crawl.max_pages för full täckning)",
+                     url=site.base_url, evidence={"crawled": crawled_sitemap, "in_sitemap": len(unique_sitemap), "max_pages": site.crawl.max_pages}))
     if not cr.sitemap.entries:
         out.append(F("sitemap_empty", "high", "indexing", "Inga URL:er hittades i sitemapen", url=site.base_url + "/sitemap.xml"))
     for cu in cr.urls.values():

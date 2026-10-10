@@ -363,3 +363,27 @@ def test_psi(crawl_run):
     fs = {f.check: f for f in findings_from_psi("https://x/", data)}
     assert fs["cwv_lcp"].severity == "high" and fs["cwv_cls"].severity == "medium" and "cwv_inp" not in fs
     assert fs["lighthouse_performance"].evidence["top_opportunities"] == ["Reduce unused JavaScript"]
+
+
+def test_interleave_and_truncation(fixture_site):
+    from site_audit.crawler import interleave_by_sitemap
+
+    site = make_site(fixture_site)
+    site.crawl.max_pages = 4
+    site.crawl.follow_internal_links = False
+    run = run_audit(site, admin=False, crawler=Crawler(site, fetcher()))
+    sitemaps = {cu.sitemap for cu in run.crawl.urls.values() if cu.in_sitemap}
+    assert len(sitemaps) == 2  # båda sitemaps representerade trots gränsen
+    assert any(f.check == "crawl_truncated" for f in run.findings)
+    order = interleave_by_sitemap(run.crawl.sitemap)
+    assert "products" in order[0] and "pages" in order[1]
+
+
+def test_merge_keeps_page_with_most_clicks():
+    from site_audit.actions import build_actions
+    from site_audit.findings import Finding
+
+    f = Finding("duplicate_collection_products", "high", "content", "dubbletter", url="https://x/collections/a",
+                evidence={"collections": ["a", "b", "c"]})
+    _, pairs = build_actions([f], None, clicks={"/collections/b": 50, "/collections/a": 3})
+    assert dict(pairs) == {"/collections/a": "/collections/b", "/collections/c": "/collections/b"}

@@ -84,6 +84,24 @@ def normalize_url(url: str) -> str:
     return urlunsplit((p.scheme.lower(), p.netloc.lower(), path, p.query, ""))
 
 
+def interleave_by_sitemap(sm: SitemapResult) -> list[str]:
+    """Varvar URL:er från varje sitemap (produkter, kollektioner, sidor, språk), så att en
+    begränsad crawl ändå täcker alla sidtyper och språk."""
+    buckets: dict[str, list[str]] = {}
+    for e in sm.entries:
+        buckets.setdefault(e.sitemap, []).append(normalize_url(e.url))
+    out, seen = [], set()
+    lists = list(buckets.values())
+    i = 0
+    while any(i < len(l) for l in lists):
+        for l in lists:
+            if i < len(l) and l[i] not in seen:
+                seen.add(l[i])
+                out.append(l[i])
+        i += 1
+    return out
+
+
 def _hops(res: FetchResult) -> list[dict[str, Any]]:
     return [{"url": h.url, "status": h.status, "location": h.location} for h in res.hops]
 
@@ -132,7 +150,7 @@ class Crawler:
         results: dict[str, CrawledUrl] = {}
         sitemap_map = {normalize_url(e.url): e for e in sm.entries}
         frontier: list[tuple[str, str, int]] = [(normalize_url(base + "/"), "seed", 0)]
-        frontier += [(u, "sitemap", 0) for u in sitemap_map]
+        frontier += [(u, "sitemap", 0) for u in interleave_by_sitemap(sm)]
         frontier += [(normalize_url(u), src, 0) for u, src in extra_urls]
         queued: set[str] = set()
         links_from: dict[str, set[str]] = {}

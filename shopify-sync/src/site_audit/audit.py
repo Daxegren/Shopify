@@ -28,6 +28,7 @@ class AuditRun:
     crawl: CrawlResult | None = None
     admin: AdminData | None = None
     findings: list[Finding] = field(default_factory=list)
+    search: Any = None  # SearchData när --search-data används
 
     def summary(self) -> dict[str, Any]:
         s = summarize(self.findings)
@@ -87,6 +88,7 @@ def run_audit(site: SiteConfig, crawl: bool = True, admin: bool = True, admin_cl
 
             try:
                 sd = fetch_search_data(search_store, site, search_days)
+                run.search = sd
                 run.findings += run_data_checks(run.crawl, sd, site)
             except Exception:  # noqa: BLE001 - sökdata är ett tillägg, inte ett krav
                 log.exception("%s: Search Console-data kunde inte hämtas", site.name)

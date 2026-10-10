@@ -55,7 +55,8 @@ def cmd_run(args) -> int:
         (d / "report.html").write_text(to_html(summary, run.findings))
         from .actions import write_action_files
 
-        write_action_files(run.findings, run.crawl, d)
+        clicks = {k: v["clicks"] for k, v in run.search.by_path.items()} if run.search else None
+        write_action_files(run.findings, run.crawl, d, clicks)
         print(f"{name}: {summary['total']} fynd ({summary['by_severity']}) -> {d}")
         if args.bigquery:
             store.save_run(run)
