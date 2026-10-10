@@ -5,10 +5,11 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "shopify-sync"
 version = "0.1.0"
-description = "Inkrementell synk av Shopify-data (ordrar, produkter, kunder) till BigQuery och/eller Postgres (Supabase)."
+description = "Synk av Shopify-data till BigQuery/Postgres och genomlysning av Shopify-sajter."
 requires-python = ">=3.11"
 dependencies = [
     "requests>=2.31",
+    "beautifulsoup4>=4.12",
 ]
 
 [project.optional-dependencies]
@@ -19,6 +20,7 @@ dev = ["pytest>=8"]
 
 [project.scripts]
 shopify-sync = "shopify_sync.main:main"
+site-audit = "site_audit.main:main"
 
 [tool.setuptools.packages.find]
 where = ["src"]

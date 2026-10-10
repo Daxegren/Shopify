@@ -1,0 +1,71 @@
+# Konfiguration för site-audit. Kopiera till sites.toml och anpassa.
+# Gemensamma värden ligger i [defaults]; varje [[site]] kan skriva över dem.
+
+[defaults]
+bq_project = "gorilla-sports-data"
+bq_dataset = "site_audit"
+api_version = "2026-07"
+
+[defaults.crawl]
+max_pages = 5000
+requests_per_second = 3.0
+concurrency = 4
+max_link_depth = 2
+geo_probe_paths = ["/", "/collections/all"]
+
+[defaults.thresholds]
+html_bytes_warn = 1000000
+inline_script_bytes_warn = 100000
+hreflang_variants_warn = 12
+
+[[site]]
+name = "gorillasports-se"
+base_url = "https://www.gorillasports.se"
+shop_domain = "gs-nordic-production.myshopify.com"
+shopify_token_env = "SHOPIFY_ACCESS_TOKEN"       # läses från miljön/Secret Manager
+brand_terms = ["Gorilla Sports", "Gorilla"]
+primary_locale = "sv"
+expected_locales = ["sv", "da"]
+expected_org_schema = ["Organization", "OnlineStore", "Store", "SportingGoodsStore"]
+gsc_table = "gorilla-sports-data.searchconsole.searchdata_url_impression"
+ga4_dataset = "gorilla-sports-data.analytics_000000000"  # byt till ert egendoms-id
+shopify_dataset = "gorilla-sports-data.shopify"
+
+  [[site.geo_profiles]]
+  name = "Sverige"
+  accept_language = "sv-SE,sv;q=0.9"
+
+  [[site.geo_profiles]]
+  name = "Danmark"
+  accept_language = "da-DK,da;q=0.9"
+
+  [[site.page_groups]]
+  name = "racks"
+  pattern = "^/collections/(power-rack|racks)"
+
+  [[site.page_groups]]
+  name = "produkter"
+  pattern = "^/products/"
+
+[[site]]
+name = "gorillasports-dk"
+base_url = "https://www.gorillasports.dk"
+shop_domain = "gs-nordic-production.myshopify.com"
+brand_terms = ["Gorilla Sports"]
+primary_locale = "da"
+gsc_table = "gorilla-sports-data.searchconsole_dk.searchdata_url_impression"
+
+[[site]]
+name = "mankovsky"
+base_url = "https://www.mankovskygallery.com"
+# shop_domain och token läggs till när appen är installerad i butiken
+shopify_token_env = "MANKOVSKY_SHOPIFY_TOKEN"
+brand_terms = ["Mankovsky"]
+known_misspellings = ["Mankosvky"]
+primary_locale = "sv"
+expected_locales = ["sv", "en"]
+expected_org_schema = ["ArtGallery", "Organization"]
+
+  [[site.page_groups]]
+  name = "konstnarer"
+  pattern = "^/(?:[a-z]{2}(?:-[a-z]{2})?/)?(collections|pages)/(artist|konstnar)"
