@@ -41,7 +41,7 @@ done
 ARGS="--config,/app/sites.toml,run,--site,${SITES},--out,/tmp/audits,--bigquery,--search-data"
 if gcloud run jobs describe "$JOB" --region "$REGION" >/dev/null 2>&1; then ACTION=update; else ACTION=create; fi
 gcloud run jobs "$ACTION" "$JOB" --region "$REGION" --image "$IMAGE" --service-account "$SA" \
-  --command site-audit --args "$ARGS" ${SECRETS:+--set-secrets "$SECRETS"} \
+  --command site-audit --args="$ARGS" ${SECRETS:+--set-secrets "$SECRETS"} \
   --task-timeout 7200 --max-retries 0 --memory 2Gi --cpu 1
 
 gcloud run jobs add-iam-policy-binding "$JOB" --region "$REGION" \
