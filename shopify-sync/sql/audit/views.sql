@@ -86,3 +86,30 @@ UNION ALL
 SELECT a.data_date, a.site_url, a.url, a.query, a.is_anonymized_query, a.search_type, a.clicks, a.impressions, a.sum_position
 FROM `PROJ.site_audit.gsc_api_url_gorillasports_se` a, export_start e
 WHERE e.d IS NULL OR a.data_date < e.d;
+
+-- En rad per landningssida senaste 90 dagarna: Google-klick, GA4-sessioner och Shopify-ordrar.
+-- Grunden för frågor som "vilka kollektioner drar trafik men säljer inte?"
+CREATE OR REPLACE VIEW `PROJ.site_audit.landing_performance_90d` AS
+WITH gsc AS (
+  SELECT COALESCE(NULLIF(RTRIM(REGEXP_EXTRACT(url, r'^https?://[^/]+(/[^?#]*)'), '/'), ''), '/') AS path,
+         SUM(clicks) AS clicks, SUM(impressions) AS impressions,
+         SAFE_DIVIDE(SUM(sum_position), SUM(impressions)) + 1 AS avg_position
+  FROM `PROJ.site_audit.gsc_combined_gorillasports_se`
+  WHERE data_date >= DATE_SUB(CURRENT_DATE(), INTERVAL 90 DAY) GROUP BY 1
+),
+ga4 AS (
+  SELECT COALESCE(NULLIF(RTRIM(REGEXP_EXTRACT(landing, r'^([^?#]*)'), '/'), ''), '/') AS path,
+         SUM(sessions) AS sessions, SUM(purchases) AS purchases, SUM(revenue) AS ga4_revenue
+  FROM `PROJ.site_audit.ga4_landing_daily_gorillasports_se`
+  WHERE d >= DATE_SUB(CURRENT_DATE(), INTERVAL 90 DAY) GROUP BY 1
+),
+shop AS (
+  SELECT COALESCE(NULLIF(RTRIM(REGEXP_EXTRACT(first_visit_landing_page, r'^(?:https?://[^/]+)?(/[^?#]*)'), '/'), ''), '/') AS path,
+         COUNT(*) AS orders, SUM(CAST(total_price AS FLOAT64)) AS shopify_revenue
+  FROM `PROJ.shopify.orders`
+  WHERE created_at >= TIMESTAMP_SUB(CURRENT_TIMESTAMP(), INTERVAL 90 DAY) AND cancelled_at IS NULL GROUP BY 1
+)
+SELECT COALESCE(gsc.path, ga4.path, shop.path) AS path, gsc.clicks, gsc.impressions, gsc.avg_position,
+       ga4.sessions, ga4.purchases, ga4.ga4_revenue, shop.orders, shop.shopify_revenue,
+       SAFE_DIVIDE(shop.orders, ga4.sessions) AS conversion_rate
+FROM gsc FULL OUTER JOIN ga4 USING (path) FULL OUTER JOIN shop USING (path);
