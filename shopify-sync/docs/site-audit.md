@@ -72,6 +72,8 @@ Vyerna i `sql/audit/views.sql` ger samma data i BigQuery: `check_trend`, `open_f
 sed 's/PROJ/gorilla-sports-data/g' sql/audit/views.sql | bq query --use_legacy_sql=false
 ```
 
+*Tillägg 2026-10-10:* kör först `sql/audit/views_sources.sql`, som innehåller de kombinerade Search Console-vyerna `gsc_combined_<sajt>`. Den första genomlysningen behöver dem. Kör `views.sql` efter den första genomlysningen, eftersom vyerna där läser tabellerna `runs`, `findings` och `pages` som genomlysningen skapar.
+
 ## Historik från dag ett
 
 Bulkexporterna fyller inte i bakåt i tiden. Hämta därför historiken via API:erna en gång, och därefter vid behov:
