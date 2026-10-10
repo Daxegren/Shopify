@@ -13,9 +13,9 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
-bigquery = ["google-cloud-bigquery>=3.20"]
+bigquery = ["google-cloud-bigquery>=3.20", "google-cloud-storage>=2.14"]
 postgres = ["psycopg[binary]>=3.1"]
-all = ["google-cloud-bigquery>=3.20", "psycopg[binary]>=3.1"]
+all = ["google-cloud-bigquery>=3.20", "google-cloud-storage>=2.14", "psycopg[binary]>=3.1"]
 dev = ["pytest>=8"]
 
 [project.scripts]

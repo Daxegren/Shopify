@@ -145,3 +145,19 @@ WHERE status = 'åtgärdad' GROUP BY 1 ORDER BY 2 DESC;
 - Spårningsparametrar (`pr_*`, `shpxid`, `utm_*` m.fl.) tas bort före crawl, så att samma sida inte hämtas flera gånger.
 - `fetch_failed` anger nu orsaken, till exempel `429 Too Many Requests`. Crawlern försöker fem gånger i stället för tre.
 - Översättningsgraden för sidor använder resurstypen `PAGE`. `ONLINE_STORE_PAGE` var fel. En typ som API:et inte känner till hoppas nu över i stället för att stoppa hela översättningsdelen.
+
+## Tillägg 2026-10-10: justeringar efter andra körningen mot gorillasports.se
+
+- **`redirect_to_error`** gäller nu bara omdirigeringar som slutar i 4xx eller 5xx. Meddelandet anger antalet hopp. En kedja som slutar i fel räknas inte längre också som `redirect_chain`, så samma URL ger ett fynd i stället för två.
+- **`redirect_unverified`** (låg) är ny. Den visas när slutmålet inte kunde hämtas, till exempel efter 429. Tidigare räknades sådana omdirigeringar som `redirect_to_error` (kritisk).
+- **`redirect_invalid_target`** (kritisk) är ny. Den gäller omdirigeringar vars mål saknar domän, till exempel `//collections/wall-ball`, som webbläsaren tolkar som domänen "collections". Fyndet kommer både från crawlen och från omdirigeringstabellen i Shopify. Tidigare syntes felet som `fetch_failed` med ett DNS-fel.
+- **`redirect_target_tracking_params`** (medel) är ny. Den gäller mål i omdirigeringstabellen som innehåller spårningsparametrar, till exempel `pr_prod_strat` eller `shpxid`. Det rensade målet läggs i `redirects_import.csv`.
+- **Kundkonto, kassa och varukorg** (`/customer_authentication`, `/account`, `/cart`, `/checkout`) crawlas inte längre. Sidorna omdirigerar alltid till inloggning och är inga fel.
+- **Om-hämtning:** URL:er som föll på 429 eller nätverksfel hämtas en gång till i slutet av crawlen, efter 30 sekunders paus och med 1 anrop per sekund. Högst 500 URL:er hämtas om.
+- **`fetch_failed`** gäller bara URL:er som inte omdirigeras. Omdirigerade URL:er redovisas under omdirigeringskontrollerna.
+- **`redirects_import.csv`** innehåller nu även ersättare för `redirect_target_missing` och `redirect_invalid_target`, samt rensade mål för `redirect_target_tracking_params`.
+- **Filerna sparas i Cloud Storage:** `run --upload gs://<bucket>/audits` laddar upp rapporten, `actions.csv` och `redirects_import.csv` till `.../<sajt>/<körning>/` och `.../<sajt>/latest/`. Jobbet i Cloud Run gör det automatiskt till bucketen `<projekt>-site-audit`, som `deploy/site_audit_job.sh` skapar. Hämta filerna med:
+
+  ```bash
+  gcloud storage cp -r gs://gorilla-sports-data-site-audit/audits/gorillasports-se/latest .
+  ```

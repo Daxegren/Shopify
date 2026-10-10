@@ -5,8 +5,10 @@ from __future__ import annotations
 import re
 from collections import defaultdict
 from datetime import datetime, timedelta, timezone
+from urllib.parse import parse_qsl, urlsplit
 
 from ..config import SiteConfig
+from ..crawler import TRACKING_PARAMS, strip_tracking
 from ..findings import Finding
 from ..html_parse import split_locale
 from ..shopify_admin import AdminData
@@ -269,6 +271,17 @@ def check_redirect_table(admin: AdminData, site: SiteConfig) -> list[Finding]:
     for r in admin.redirects:
         path = r["path"].rstrip("/").lower() or "/"
         target = r["target"]
+        if target.startswith("//") or re.match(r"^https?://[^./]+(/|$)", target):
+            out.append(F("redirect_invalid_target", "critical", "redirects",
+                         f"Omdirigeringens mål '{target}' saknar domän och fungerar inte",
+                         url=site.base_url + r["path"], resource=r["id"], evidence={"target": target}))
+            continue
+        params = [k for k, _ in parse_qsl(urlsplit(target).query) if TRACKING_PARAMS.match(k)]
+        if params:
+            out.append(F("redirect_target_tracking_params", "medium", "redirects",
+                         f"Omdirigeringens mål innehåller spårningsparametrar ({', '.join(sorted(set(params))[:3])})",
+                         url=site.base_url + r["path"], resource=r["id"],
+                         evidence={"target": target, "clean_target": strip_tracking(target)}))
         tpath = re.sub(r"^https?://[^/]+", "", target).split("?")[0].rstrip("/").lower() or "/"
         if tpath == path:
             out.append(F("redirect_self", "high", "redirects", "Omdirigering pekar på sig själv", url=site.base_url + r["path"], resource=r["id"]))

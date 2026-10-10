@@ -74,7 +74,13 @@ def test_crawl_finds_expected_problems(crawl_run):
     assert any(f.url.endswith("/collections/artist-gone") for f in by["sitemap_url_error"])
     # Omdirigeringskedja som slutar i 404
     assert any(f.url.endswith("/old") for f in by["redirect_to_error"])
-    assert any(f.url.endswith("/old") for f in by["redirect_chain"])
+    assert any("2 hopp" in f.message for f in by["redirect_to_error"] if f.url.endswith("/old"))
+    # En kedja som slutar i fel räknas en gång, inte också som kedja
+    assert not any(f.url.endswith("/old") for f in by.get("redirect_chain", []))
+    assert any(f.url.endswith("/chain-ok") for f in by["redirect_chain"])
+    # Mål utan domän ('//collections/...') är ett eget kritiskt fel, inte ett nätverksfel
+    assert any(f.url.endswith("/bad-target") for f in by["redirect_invalid_target"])
+    assert not any(f.url.endswith("/bad-target") for f in by.get("fetch_failed", []))
     # Svensk URL skickas till /en-ca/ med 302
     assert any(f.url.endswith("/sv/products/good") for f in by["redirect_changes_locale"])
     assert c["temporary_redirect"] >= 1
@@ -105,7 +111,7 @@ def test_crawl_finds_expected_problems(crawl_run):
 
 def test_summary_report_and_local_save(crawl_run, tmp_path):
     s = crawl_run.summary()
-    assert s["crawl"]["sitemap_urls"] == 10 and s["crawl"]["errors_4xx"] >= 2
+    assert s["crawl"]["sitemap_urls"] == 12 and s["crawl"]["errors_4xx"] >= 2
     md = to_markdown(s, crawl_run.findings)
     html = to_html(s, crawl_run.findings)
     assert "## Förbättringar" in md and "<details>" in html
@@ -415,3 +421,46 @@ def test_review_fixes():
     out = {f.url: f for f in reconcile_redirect_targets(fs, CR())}
     assert "https://x.se/a" not in out
     assert out["https://x.se/b"].severity == "critical" and out["https://x.se/c"].check == "redirect_target_unverified"
+
+
+def test_second_review_fixes():
+    from site_audit.checks.admin_checks import check_redirect_table
+    from site_audit.crawler import CrawledUrl
+    from site_audit.fetch import FetchResult, Hop
+    from site_audit.shopify_admin import AdminData
+
+    site = make_site("https://www.x.se")
+    cr = Crawler(site, fetcher())
+    # Kundkonto och kassa crawlas inte
+    assert not cr.allowed("https://www.x.se/customer_authentication/redirect?locale=sv")
+    assert not cr.allowed("https://www.x.se/en/account/login")
+    assert cr.allowed("https://www.x.se/collections/accounting-books")
+
+    # Omdirigeringstabellen: mål utan domän och mål med spårningsparametrar
+    admin = AdminData(redirects=[
+        {"id": "1", "path": "/wall-ball/s/283", "target": "//collections/wall-ball"},
+        {"id": "2", "path": "/bumper/p/1", "target": "/products/bumper?pr_prod_strat=e5&pr_rec_id=1&color=red"},
+    ])
+    by = {f.check: f for f in check_redirect_table(admin, site)}
+    assert by["redirect_invalid_target"].url.endswith("/wall-ball/s/283")
+    assert by["redirect_target_tracking_params"].evidence["clean_target"] == "/products/bumper?color=red"
+
+    # Om-hämtning efter 429: lyckas den andra gången ersätts resultatet
+    class FlakyFetcher:
+        def __init__(self):
+            self.calls = 0
+            self.limiter = None
+
+        def fetch(self, url, **kw):
+            self.calls += 1
+            if self.calls == 1:
+                return FetchResult(url, url, 0, [Hop(url, 0)], error="429 Too Many Requests (Shopify bromsar)")
+            return FetchResult(url, url, 200, [Hop(url, 200)], headers={"content-type": "text/plain"})
+
+    c = Crawler(site, FlakyFetcher())
+    c.retry_cooldown_s = 0
+    first = c._crawl_one("https://www.x.se/a", "sitemap", 0)
+    first.in_sitemap = True
+    results = {first.url: first}
+    c._retry_failed(results)
+    assert results[first.url].status == 200 and results[first.url].in_sitemap

@@ -102,7 +102,14 @@ def build_actions(findings: list[Finding], cr: CrawlResult | None,
             redirects.setdefault(src, tgt)
             actions.append(Action(p, "Skapa 301", src, tgt,
                                   f"{f.message}. Förslag med säkerhet {score:.2f}" + (" (kontrollera manuellt)" if score < 0.6 else ""), f.check))
-        elif f.check in ("redirect_chain", "redirect_to_error", "redirect_table_chain") and cr:
+        elif f.check == "redirect_target_tracking_params":
+            clean = urlsplit(f.evidence.get("clean_target", ""))
+            tgt = (clean.path or "/") + (f"?{clean.query}" if clean.query else "")
+            src = _path(url)
+            redirects[src] = tgt
+            actions.append(Action(p, "Peka om omdirigering", src, tgt, f.message, f.check))
+        elif f.check in ("redirect_chain", "redirect_to_error", "redirect_table_chain",
+                         "redirect_target_missing", "redirect_invalid_target") and cr:
             cu = cr.urls.get(url.rstrip("/")) or cr.urls.get(url)
             src = _path(url)
             if cu and cu.status == 200:

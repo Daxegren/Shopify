@@ -49,7 +49,7 @@ def build_routes(base: str) -> dict:
         "/sitemap_pages_1.xml": (200, {"Content-Type": "application/xml"},
                                  "<?xml version='1.0'?><urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>" +
                                  "".join(f"<url><loc>{base}{p}</loc></url>" for p in
-                                         ["/pages/about", "/pages/about-us", "/pages/test-page", "/sv/pages/om-oss", "/old"]) + "</urlset>"),
+                                         ["/pages/about", "/pages/about-us", "/pages/test-page", "/sv/pages/om-oss", "/old", "/chain-ok", "/bad-target"]) + "</urlset>"),
         "/": (200, {}, page("Mankovsky Gallery – konst", ["Välkommen"] * 6, LOREM_SV + "<a href='/products/good'>x</a><a href='/collections/gone-link'>y</a>",
                             lang="sv", canonical=base + "/", head=jsonld({"@type": "Organization", "name": "Mankovsky"}) + big_script)),
         "/products/good": (200, {}, page("Tavla av Mankovsky | Galleri", ["Tavla"], LOREM_SV + "<img src='/a.jpg' alt='Tavla'><img src='/b.jpg'>",
@@ -65,6 +65,9 @@ def build_routes(base: str) -> dict:
         "/en-ca/products/good": (200, {}, page("Painting", ["Painting"], LOREM_EN, lang="en-ca", canonical=base + "/en-ca/products/good")),
         "/old": (301, {"Location": "/older"}, ""),
         "/older": (301, {"Location": "/missing"}, ""),
+        "/chain-ok": (301, {"Location": "/chain-ok-2"}, ""),
+        "/chain-ok-2": (301, {"Location": "/pages/about"}, ""),
+        "/bad-target": (301, {"Location": "//collections/wall-ball"}, ""),
         "/redir-a": (301, {"Location": "/redir-b"}, ""),
         "/redir-b": (301, {"Location": "/redir-a"}, ""),
     }

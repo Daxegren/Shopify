@@ -7,13 +7,20 @@ import logging
 import threading
 import time
 from dataclasses import dataclass, field
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlsplit
 
 import requests
 
 log = logging.getLogger(__name__)
 
 MAX_HOPS = 10
+INVALID_TARGET = "ogiltigt omdirigeringsmål (saknar domän)"
+
+
+def valid_host(url: str) -> bool:
+    """Ett mål som '//collections/x' blir värden 'collections', som inte finns. Webbläsaren misslyckas också."""
+    host = urlsplit(url).hostname or ""
+    return "." in host or host == "localhost"
 
 
 @dataclass
@@ -85,6 +92,10 @@ class Fetcher:
                 result.loop = True
                 break
             seen.add(current)
+            if not valid_host(current):
+                result.error = f"{INVALID_TARGET}: {current}"
+                result.hops.append(Hop(current, 0))
+                break
             resp = self._request(method, current, headers, cookies)
             if resp is None:
                 result.error = getattr(self._local, "last_error", None) or "nätverksfel"

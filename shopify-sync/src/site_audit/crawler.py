@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import logging
 import re
+import time
 from collections.abc import Iterable
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass, field
@@ -13,7 +14,7 @@ from typing import Any
 from urllib.parse import urlsplit, urlunsplit
 
 from .config import SiteConfig
-from .fetch import FetchResult, Fetcher
+from .fetch import INVALID_TARGET, FetchResult, Fetcher, RateLimiter
 from .html_parse import PageFacts, parse_page
 from .sitemap import SitemapResult, read_sitemaps
 
@@ -76,6 +77,10 @@ class CrawlResult:
     robots_txt: str | None = None
 
 
+# Kundkonto, kassa och varukorg: privata sidor som alltid omdirigerar och inte ska granskas.
+PRIVATE_PATHS = re.compile(r"^(/[a-z]{2}(-[a-z]{2})?)?/(customer_authentication|account|cart|checkouts?)(/|$)", re.I)
+RETRY_MAX = 500
+
 TRACKING_PARAMS = re.compile(r"^(pr_[a-z_]+|shpxid|_pos|_sid|_ss|_psq|_v|_fid|srsltid|gclid|fbclid|utm_[a-z]+|variant)$", re.I)
 
 
@@ -89,6 +94,15 @@ def normalize_url(url: str) -> str:
         path = path.rstrip("/")
     query = urlencode([(k, v) for k, v in parse_qsl(p.query, keep_blank_values=True) if not TRACKING_PARAMS.match(k)])
     return urlunsplit((p.scheme.lower(), p.netloc.lower(), path, query, ""))
+
+
+def strip_tracking(url: str) -> str:
+    """Tar bort spårningsparametrar men behåller resten av adressen som den är."""
+    from urllib.parse import parse_qsl, urlencode
+
+    p = urlsplit(url)
+    query = urlencode([(k, v) for k, v in parse_qsl(p.query, keep_blank_values=True) if not TRACKING_PARAMS.match(k)])
+    return urlunsplit((p.scheme, p.netloc, p.path, query, p.fragment))
 
 
 def interleave_by_sitemap(sm: SitemapResult) -> list[str]:
@@ -120,10 +134,14 @@ class Crawler:
         self.fetcher = fetcher or Fetcher(s.user_agent, s.requests_per_second, s.timeout_s)
         self.include = [re.compile(p) for p in s.include_patterns]
         self.exclude = [re.compile(p) for p in s.exclude_patterns]
+        self.retry_cooldown_s = 30.0
+        self.retry_rps = 1.0
 
     def allowed(self, url: str) -> bool:
         p = urlsplit(url)
         if p.netloc.lower() != self.site.host:
+            return False
+        if PRIVATE_PATHS.match(p.path):
             return False
         target = p.path + ("?" + p.query if p.query else "")
         if any(rx.search(target) for rx in self.exclude):
@@ -196,6 +214,7 @@ class Crawler:
                     elif cu.facts:
                         for link in cu.facts.internal_links:
                             links_from.setdefault(normalize_url(link), set()).add(u)
+        self._retry_failed(results)
         for url, sources in links_from.items():
             if url in results:
                 results[url].linked_from = sorted(sources)
@@ -203,6 +222,26 @@ class Crawler:
         geo = self.geo_probe()
         return CrawlResult(self.site.name, started, datetime.now(timezone.utc).isoformat(), sm, results, geo,
                            robots.body.decode(errors="replace") if robots.status == 200 else None)
+
+    def _retry_failed(self, results: dict[str, CrawledUrl]) -> None:
+        """Hämtar om URL:er som föll på 429 eller nätverksfel, efter en paus och i lägre takt."""
+        failed = [cu for cu in results.values()
+                  if cu.status == 0 and not cu.loop and not (cu.error or "").startswith(INVALID_TARGET)][:RETRY_MAX]
+        if not failed:
+            return
+        log.info("%s: hämtar om %d URL:er som misslyckades", self.site.name, len(failed))
+        time.sleep(self.retry_cooldown_s)
+        old = self.fetcher.limiter
+        self.fetcher.limiter = RateLimiter(self.retry_rps)
+        try:
+            for cu in failed:
+                new = self._crawl_one(cu.url, cu.source, cu.depth)
+                if new.status == 0:
+                    continue
+                new.in_sitemap, new.sitemap = cu.in_sitemap, cu.sitemap
+                results[cu.url] = new
+        finally:
+            self.fetcher.limiter = old
 
     def geo_probe(self) -> list[GeoProbe]:
         probes = []

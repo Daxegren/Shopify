@@ -38,7 +38,15 @@ for pair in "${PAIRS[@]}"; do
   gcloud secrets describe "$secret" >/dev/null 2>&1 && SECRETS="${SECRETS:+$SECRETS,}${pair%%=*}=${secret}:latest"
 done
 
-ARGS="--config,/app/sites.toml,run,--site,${SITES},--out,/tmp/audits,--bigquery,--search-data"
+# Rapport, actions.csv och redirects_import.csv sparas i en bucket, eftersom jobbets disk töms efter körningen.
+BUCKET="${BUCKET:-${PROJECT_ID}-site-audit}"
+if ! gcloud storage buckets describe "gs://${BUCKET}" >/dev/null 2>&1; then
+  gcloud storage buckets create "gs://${BUCKET}" --location "$REGION" --uniform-bucket-level-access
+fi
+gcloud storage buckets add-iam-policy-binding "gs://${BUCKET}" \
+  --member "serviceAccount:$SA" --role roles/storage.objectAdmin >/dev/null
+
+ARGS="--config,/app/sites.toml,run,--site,${SITES},--out,/tmp/audits,--bigquery,--search-data,--upload,gs://${BUCKET}/audits"
 if gcloud run jobs describe "$JOB" --region "$REGION" >/dev/null 2>&1; then ACTION=update; else ACTION=create; fi
 gcloud run jobs "$ACTION" "$JOB" --region "$REGION" --image "$IMAGE" --service-account "$SA" \
   --command site-audit --args="$ARGS" ${SECRETS:+--set-secrets "$SECRETS"} \
@@ -56,4 +64,5 @@ else
 fi
 
 echo "Klart. Kör direkt: gcloud run jobs execute $JOB --region $REGION --wait"
+echo "Hämta filer:      gcloud storage cp -r gs://${BUCKET}/audits/<sajt>/latest ."
 echo "Skapa vyer:       sed 's/PROJ/${PROJECT_ID}/g' sql/audit/views.sql | bq query --use_legacy_sql=false"

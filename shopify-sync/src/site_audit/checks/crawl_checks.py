@@ -9,6 +9,7 @@ from urllib.parse import urlsplit
 
 from ..config import SiteConfig
 from ..crawler import CrawlResult, CrawledUrl, normalize_url
+from ..fetch import INVALID_TARGET
 from ..findings import Finding
 from ..html_parse import is_noindex, split_locale
 from ..textutil import find_misspellings, locale_language
@@ -51,7 +52,7 @@ def check_status(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
                          url=cu.url, evidence={"final_url": cu.final_url, "hops": cu.redirect_count}))
         elif final >= 500:
             out.append(F("server_error", "high", "indexing", f"Serverfel {final}", url=cu.url))
-        elif final == 0:
+        elif final == 0 and not cu.redirect_count and not cu.loop:  # omdirigerade och loopar hanteras i check_redirects
             out.append(F("fetch_failed", "medium", "indexing", f"Kunde inte hämtas: {cu.error}", url=cu.url,
                          evidence={"error": cu.error, "source": cu.source}))
         elif final == 404 and cu.linked_from:
@@ -82,10 +83,18 @@ def check_redirects(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
         if cu.loop:
             out.append(F("redirect_loop", "critical", "redirects", "Omdirigeringsloop", url=cu.url, evidence={"chain": chain}))
             continue
-        if cu.status >= 400 or cu.status == 0:
-            out.append(F("redirect_to_error", "critical", "redirects", f"Omdirigeringen slutar i {cu.status or 'fel'}",
+        if cu.status == 0 and (cu.error or "").startswith(INVALID_TARGET):
+            out.append(F("redirect_invalid_target", "critical", "redirects",
+                         "Omdirigeringens mål saknar domän (t.ex. '//collections/...') och fungerar inte i webbläsare heller",
+                         url=cu.url, evidence={"chain": chain, "error": cu.error}))
+        elif cu.status == 0:
+            out.append(F("redirect_unverified", "low", "redirects", "Slutmålet kunde inte hämtas, omdirigeringen är inte kontrollerad",
+                         url=cu.url, evidence={"chain": chain, "codes": codes, "error": cu.error}))
+        elif cu.status >= 400:
+            out.append(F("redirect_to_error", "critical", "redirects",
+                         f"Omdirigeringen slutar i {cu.status} efter {cu.redirect_count} hopp",
                          url=cu.url, evidence={"chain": chain, "codes": codes}))
-        if cu.redirect_count >= t.redirect_chain_warn:
+        elif cu.redirect_count >= t.redirect_chain_warn:
             out.append(F("redirect_chain", "high", "redirects", f"Omdirigeringskedja med {cu.redirect_count} hopp",
                          url=cu.url, evidence={"chain": chain, "codes": codes}))
         if any(c in (302, 303, 307) for c in codes[:-1]):

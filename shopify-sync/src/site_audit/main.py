@@ -36,6 +36,22 @@ def _store(site: SiteConfig):
     return BigQueryStore(site.bq_project, site.bq_dataset)
 
 
+def upload_dir(d: Path, uri: str, site: str) -> str:
+    """Laddar upp körningens filer till gs://bucket/prefix/<sajt>/<körning>/ och till .../<sajt>/latest/."""
+    from google.cloud import storage
+
+    if not uri.startswith("gs://"):
+        raise ConfigError("--upload ska vara en gs://-adress")
+    bucket_name, _, prefix = uri[5:].partition("/")
+    bucket = storage.Client().bucket(bucket_name)
+    base = "/".join(x for x in (prefix.strip("/"), site) if x)
+    for f in sorted(Path(d).iterdir()):
+        if f.is_file():
+            for folder in (d.name, "latest"):
+                bucket.blob(f"{base}/{folder}/{f.name}").upload_from_filename(str(f))
+    return f"gs://{bucket_name}/{base}/{d.name}/"
+
+
 def cmd_run(args) -> int:
     from .audit import run_audit, save_local
     from .report import to_html, to_markdown
@@ -58,6 +74,8 @@ def cmd_run(args) -> int:
         clicks = {k: v["clicks"] for k, v in run.search.by_path.items()} if run.search else None
         write_action_files(run.findings, run.crawl, d, clicks)
         print(f"{name}: {summary['total']} fynd ({summary['by_severity']}) -> {d}")
+        if args.upload:
+            print(f"{name}: filer uppladdade till {upload_dir(d, args.upload, name)}")
         if args.bigquery:
             store.save_run(run)
             print(f"{name}: sparad i BigQuery {site.bq_project}.{site.bq_dataset}")
@@ -187,6 +205,7 @@ def main(argv: list[str] | None = None) -> int:
     r.add_argument("--max-pages", type=int)
     r.add_argument("--bigquery", action="store_true", help="Spara körningen i BigQuery")
     r.add_argument("--search-data", action="store_true", help="Kombinera med Search Console-data i BigQuery")
+    r.add_argument("--upload", metavar="GS_URI", help="Ladda upp rapport och åtgärdsfiler till Cloud Storage, t.ex. gs://bucket/audits")
     r.add_argument("--psi", type=int, default=0, metavar="N", help="Mät Core Web Vitals för N sidor per sidtyp (kräver PSI_API_KEY)")
     r.set_defaults(func=cmd_run)
 
