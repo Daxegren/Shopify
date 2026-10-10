@@ -83,7 +83,7 @@ Förutsättningar:
 - Tjänstkontot `shopify-sync@<projekt>.iam.gserviceaccount.com` läggs till som användare i Search Console-egendomen och som *Viewer* i GA4-egendomen.
 - *Search Console API* och *Google Analytics Data API* är aktiverade i projektet.
 
-Vyn `gsc_combined` använder API-data fram till den dag bulkexporten började, och därefter exporten. Effekt- och trendanalyserna fungerar mot båda källorna.
+Vyn `gsc_combined_<sajt>` använder API-data fram till den dag bulkexporten började, och därefter exporten. Effekt- och trendanalyserna fungerar mot båda källorna.
 
 ## Köra varje natt i Google Cloud
 

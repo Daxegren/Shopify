@@ -144,13 +144,14 @@ def cmd_backfill(args) -> int:
             raise ConfigError("gsc_property saknas i konfigurationen (t.ex. sc-domain:gorillasports.se).")
         session = g.authorized_session([g.GSC_SCOPE])
         rows = g.gsc_rows(session, site.gsc_property, start, end, with_query=args.queries)
-        table = args.table or ("gsc_api_url_query" if args.queries else "gsc_api_url")
+        slug = site.name.replace("-", "_")
+        table = args.table or (f"gsc_api_url_query_{slug}" if args.queries else f"gsc_api_url_{slug}")
         n = g.load_rows(store, table, g.GSC_SCHEMA, rows, ("data_date", start, end))
     else:
         if not site.ga4_property_id:
             raise ConfigError("ga4_property_id saknas i konfigurationen.")
         session = g.authorized_session([g.GA4_SCOPE])
-        table = args.table or "ga4_landing_daily"
+        table = args.table or f"ga4_landing_daily_{site.name.replace('-', '_')}"
         n = g.load_rows(store, table, g.GA4_SCHEMA, g.ga4_rows(session, site.ga4_property_id, start, end), ("d", start, end))
     print(f"{n} rader laddade till {store.dataset}.{table} ({start} – {end})")
     return 0
