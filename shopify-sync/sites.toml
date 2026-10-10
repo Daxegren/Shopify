@@ -1,0 +1,85 @@
+# Konfiguration för site-audit (produktion). Innehåller inga hemligheter; tokens läses
+# från Secret Manager via miljövariabler. Ändringar loggas i docs/ANDRINGSLOGG.md.
+
+[defaults]
+bq_project = "gorilla-sports-data"
+bq_dataset = "site_audit"
+api_version = "2026-07"
+
+[defaults.crawl]
+max_pages = 6000
+requests_per_second = 3.0
+concurrency = 4
+max_link_depth = 2
+geo_probe_paths = ["/", "/collections/all"]
+
+[defaults.thresholds]
+html_bytes_warn = 1000000
+inline_script_bytes_warn = 100000
+hreflang_variants_warn = 12
+
+[[site]]
+name = "gorillasports-se"
+base_url = "https://www.gorillasports.se"
+shop_domain = "gs-nordic-production.myshopify.com"
+shopify_token_env = "SHOPIFY_ACCESS_TOKEN"
+brand_terms = ["Gorilla Sports"]
+primary_locale = "sv"
+expected_org_schema = ["Organization", "OnlineStore", "Store", "SportingGoodsStore"]
+gsc_property = "sc-domain:gorillasports.se"
+gsc_table = "gorilla-sports-data.site_audit.gsc_combined_gorillasports_se"
+ga4_property_id = "320165929"
+ga4_api_table = "gorilla-sports-data.site_audit.ga4_landing_daily_gorillasports_se"
+ga4_dataset = "gorilla-sports-data.analytics_320165929"
+shopify_dataset = "gorilla-sports-data.shopify"
+shopify_currency = "SEK"
+
+  [[site.geo_profiles]]
+  name = "Sverige"
+  accept_language = "sv-SE,sv;q=0.9"
+
+  [[site.geo_profiles]]
+  name = "Danmark"
+  accept_language = "da-DK,da;q=0.9"
+
+  [[site.page_groups]]
+  name = "racks"
+  pattern = "^/collections/(power-rack|racks)"
+
+  [[site.page_groups]]
+  name = "kollektioner"
+  pattern = "^/collections/"
+
+  [[site.page_groups]]
+  name = "produkter"
+  pattern = "^/products/"
+
+[[site]]
+name = "gorillasports-dk"
+base_url = "https://www.gorillasports.dk"
+shop_domain = "gs-nordic-production.myshopify.com"
+shopify_token_env = "SHOPIFY_ACCESS_TOKEN"
+brand_terms = ["Gorilla Sports"]
+primary_locale = "da"
+expected_org_schema = ["Organization", "OnlineStore", "Store", "SportingGoodsStore"]
+gsc_property = "sc-domain:gorillasports.dk"
+gsc_table = "gorilla-sports-data.site_audit.gsc_combined_gorillasports_dk"
+ga4_property_id = "320165929"
+ga4_api_table = "gorilla-sports-data.site_audit.ga4_landing_daily_gorillasports_dk"
+ga4_dataset = "gorilla-sports-data.analytics_320165929"
+shopify_dataset = "gorilla-sports-data.shopify"
+shopify_currency = "DKK"
+
+  [[site.geo_profiles]]
+  name = "Danmark"
+  accept_language = "da-DK,da;q=0.9"
+
+  [[site.page_groups]]
+  name = "kollektioner"
+  pattern = "^/collections/"
+
+  [[site.page_groups]]
+  name = "produkter"
+  pattern = "^/products/"
+
+# Mankovsky läggs till när domän, butik och token finns.

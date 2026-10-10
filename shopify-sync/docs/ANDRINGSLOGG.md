@@ -4,5 +4,6 @@ Den här filen fylls bara på, nya poster överst. Befintliga poster ändras ald
 
 | Datum | Fil | Vad | Varför | Beslut |
 |---|---|---|---|---|
+| 2026-10-10 | `sites.toml` (ny), `sql/audit/views.sql` (tillägg), kod | Produktionskonfiguration för gorillasports.se och .dk (GA4 320165929, `sc-domain:`-egendomar). Filter på värdnamn (GA4) och valuta (Shopify), eftersom .se och .dk delar GA4-egendom och butik. Ny vy `gsc_combined_gorillasports_dk`. | Utan filter blandas trafik och ordrar från båda domänerna | David (uppgifter 2026-10-10) |
 | 2026-10-10 | `CLAUDE.md`, `docs/ANDRINGSLOGG.md` | Regel om att dokumentation inte får skrivas över utan beslut, plus denna logg | Davids krav på kontroll över dokumentationen | David |
 | 2026-10-10 | `docs/site-audit.md` | Dokumentet skapat och utökat i samma arbetspass: kontroller, kom igång, uppföljning, historik via API, nattligt jobb, behörigheter, Core Web Vitals | Första versionen av site-audit | David (uppdrag 2026-10-10) |

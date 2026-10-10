@@ -85,6 +85,7 @@ class SiteConfig:
     gsc_table: str | None = None   # t.ex. "proj.searchconsole.searchdata_url_impression"
     ga4_dataset: str | None = None  # t.ex. "proj.analytics_123456789"
     shopify_dataset: str | None = None  # t.ex. "proj.shopify"
+    shopify_currency: str | None = None  # filtrerar ordrar per marknad när butiken delas, t.ex. "SEK"
     gsc_property: str | None = None   # t.ex. "sc-domain:gorillasports.se" (för API-hämtning)
     ga4_property_id: str | None = None  # t.ex. "123456789" (för API-hämtning)
     ga4_api_table: str | None = None  # t.ex. "proj.site_audit.ga4_landing_daily"

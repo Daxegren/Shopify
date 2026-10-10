@@ -65,6 +65,7 @@ sessions AS (
 tagged AS (
   SELECT *, REGEXP_CONTAINS({_p('landing')}, @pattern) AS in_group, IF(d < @change_date, 'before', 'after') AS period
   FROM sessions WHERE landing IS NOT NULL
+    AND (@host IS NULL OR LOWER(REGEXP_EXTRACT(landing, r'^https?://([^/]+)')) = @host)
 )
 SELECT in_group, period, COUNT(*) AS sessions, SUM(purchases) AS purchases, SUM(revenue) AS revenue
 FROM tagged GROUP BY 1, 2
@@ -79,6 +80,7 @@ WITH o AS (
          CAST(total_price AS FLOAT64) AS revenue
   FROM `{shopify_dataset}.orders`
   WHERE DATE(created_at) BETWEEN @before_start AND @after_end AND cancelled_at IS NULL
+    AND (@currency IS NULL OR presentment_currency = @currency)
 )
 SELECT REGEXP_CONTAINS(IFNULL(landing, ''), @pattern) AS in_group, IF(d < @change_date, 'before', 'after') AS period,
        COUNT(*) AS orders, SUM(revenue) AS revenue
@@ -119,13 +121,16 @@ class Window:
         return self.change_date + timedelta(days=self.days - 1)
 
 
-def params(bq, window: Window, pattern: str, site_url: str | None = None) -> list:
+def params(bq, window: Window, pattern: str, site_url: str | None = None,
+           host: str | None = None, currency: str | None = None) -> list:
     return [
         bq.ScalarQueryParameter("change_date", "DATE", window.change_date),
         bq.ScalarQueryParameter("before_start", "DATE", window.before_start),
         bq.ScalarQueryParameter("after_end", "DATE", window.after_end),
         bq.ScalarQueryParameter("pattern", "STRING", pattern),
         bq.ScalarQueryParameter("site_url", "STRING", site_url),
+        bq.ScalarQueryParameter("host", "STRING", host),
+        bq.ScalarQueryParameter("currency", "STRING", currency),
     ]
 
 
@@ -173,9 +178,9 @@ def run_impact(store, site, pattern: str, change_date: date, days: int = 90, lab
         from .google_api import ga4_api_window_sql
 
         sql = ga4_api_window_sql(site.ga4_api_table) if site.ga4_api_table else ga4_window_sql(site.ga4_dataset)
-        rows = store.query(sql, params(bq, window, pattern))
+        rows = store.query(sql, params(bq, window, pattern, host=site.host))
         result["ga4"] = compare(rows, ["sessions", "purchases", "revenue"])
     if site.shopify_dataset:
-        rows = store.query(shopify_window_sql(site.shopify_dataset), params(bq, window, pattern))
+        rows = store.query(shopify_window_sql(site.shopify_dataset), params(bq, window, pattern, currency=site.shopify_currency))
         result["shopify"] = compare(rows, ["orders", "revenue"])
     return result, describe(result, label or pattern, window)

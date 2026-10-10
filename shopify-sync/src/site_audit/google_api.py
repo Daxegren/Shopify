@@ -30,7 +30,8 @@ GSC_SCHEMA = [
     ("clicks", "INT64", "NULLABLE"), ("impressions", "INT64", "NULLABLE"), ("sum_position", "FLOAT64", "NULLABLE"),
 ]
 GA4_SCHEMA = [
-    ("d", "DATE", "REQUIRED"), ("property_id", "STRING", "NULLABLE"), ("landing", "STRING", "NULLABLE"),
+    ("d", "DATE", "REQUIRED"), ("property_id", "STRING", "NULLABLE"), ("hostname", "STRING", "NULLABLE"),
+    ("landing", "STRING", "NULLABLE"),
     ("sessions", "INT64", "NULLABLE"), ("purchases", "INT64", "NULLABLE"), ("revenue", "FLOAT64", "NULLABLE"),
 ]
 
@@ -90,7 +91,8 @@ def ga4_rows(session, property_id: str, start: date, end: date, page_size: int =
     while True:
         body = {
             "dateRanges": [{"startDate": start.isoformat(), "endDate": end.isoformat()}],
-            "dimensions": [{"name": "date"}, {"name": "landingPage"}],
+            # hostName skiljer domäner åt när flera sajter delar GA4-egendom (.se/.dk)
+            "dimensions": [{"name": "date"}, {"name": "hostName"}, {"name": "landingPage"}],
             "metrics": [{"name": "sessions"}, {"name": "ecommercePurchases"}, {"name": "purchaseRevenue"}],
             "limit": page_size, "offset": offset, "keepEmptyRows": False,
         }
@@ -99,7 +101,8 @@ def ga4_rows(session, property_id: str, start: date, end: date, page_size: int =
         for r in rows:
             dv, mv = r["dimensionValues"], r["metricValues"]
             ds = dv[0]["value"]
-            yield {"d": f"{ds[:4]}-{ds[4:6]}-{ds[6:]}", "property_id": property_id, "landing": dv[1]["value"],
+            yield {"d": f"{ds[:4]}-{ds[4:6]}-{ds[6:]}", "property_id": property_id,
+                   "hostname": dv[1]["value"].lower(), "landing": dv[2]["value"],
                    "sessions": int(float(mv[0]["value"])), "purchases": int(float(mv[1]["value"])),
                    "revenue": float(mv[2]["value"])}
         offset += len(rows)
@@ -141,6 +144,6 @@ SELECT REGEXP_CONTAINS(COALESCE(NULLIF(RTRIM(REGEXP_EXTRACT(landing, r'^([^?#]*)
        IF(d < @change_date, 'before', 'after') AS period,
        SUM(sessions) AS sessions, SUM(purchases) AS purchases, SUM(revenue) AS revenue
 FROM `{table}`
-WHERE d BETWEEN @before_start AND @after_end
+WHERE d BETWEEN @before_start AND @after_end AND (@host IS NULL OR hostname = @host)
 GROUP BY 1, 2
 """

@@ -341,12 +341,14 @@ def test_google_api_parsers():
 
     class Ga4Session:
         def post(self, url, json, timeout):
-            return Resp({"rowCount": 1, "rows": [{"dimensionValues": [{"value": "20260105"}, {"value": "/collections/a"}],
+            return Resp({"rowCount": 1, "rows": [{"dimensionValues": [{"value": "20260105"}, {"value": "www.X.se"}, {"value": "/collections/a"}],
                                                    "metricValues": [{"value": "12"}, {"value": "2"}, {"value": "1999.5"}]}]})
 
     r = list(g.ga4_rows(Ga4Session(), "123", date(2026, 1, 1), date(2026, 1, 31)))
-    assert r == [{"d": "2026-01-05", "property_id": "123", "landing": "/collections/a", "sessions": 12, "purchases": 2, "revenue": 1999.5}]
-    assert "@pattern" in g.ga4_api_window_sql("p.d.t")
+    assert r == [{"d": "2026-01-05", "property_id": "123", "hostname": "www.x.se", "landing": "/collections/a",
+                  "sessions": 12, "purchases": 2, "revenue": 1999.5}]
+    assert "@pattern" in g.ga4_api_window_sql("p.d.t") and "@host" in g.ga4_api_window_sql("p.d.t")
+    assert "@currency" in shopify_window_sql("p.shopify") and "@host" in ga4_window_sql("p.analytics_1")
 
 
 def test_psi(crawl_run):
