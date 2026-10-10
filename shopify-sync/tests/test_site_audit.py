@@ -308,3 +308,38 @@ def test_actions_and_redirect_import(crawl_run, tmp_path):
     a, r = write_action_files(crawl_run.findings, crawl_run.crawl, tmp_path)
     rows = list(csv.reader(open(r)))
     assert rows[0] == ["Redirect from", "Redirect to"] and len(rows) > 1
+
+
+def test_google_api_parsers():
+    from datetime import date
+
+    from site_audit import google_api as g
+
+    class Resp:
+        def __init__(self, data, code=200):
+            self.data, self.status_code, self.text = data, code, ""
+
+        def json(self):
+            return self.data
+
+    class GscSession:
+        def __init__(self):
+            self.calls = []
+
+        def post(self, url, json, timeout):
+            self.calls.append((url, json))
+            return Resp({"rows": [{"keys": [json["startDate"], "https://x.se/a"], "clicks": 3, "impressions": 10, "position": 2.5}]})
+
+    s = GscSession()
+    rows = list(g.gsc_rows(s, "sc-domain:x.se", date(2026, 1, 1), date(2026, 1, 2)))
+    assert len(rows) == 2 and rows[0]["sum_position"] == 15.0 and rows[0]["data_date"] == "2026-01-01"
+    assert "sc-domain%3Ax.se" in s.calls[0][0]
+
+    class Ga4Session:
+        def post(self, url, json, timeout):
+            return Resp({"rowCount": 1, "rows": [{"dimensionValues": [{"value": "20260105"}, {"value": "/collections/a"}],
+                                                   "metricValues": [{"value": "12"}, {"value": "2"}, {"value": "1999.5"}]}]})
+
+    r = list(g.ga4_rows(Ga4Session(), "123", date(2026, 1, 1), date(2026, 1, 31)))
+    assert r == [{"d": "2026-01-05", "property_id": "123", "landing": "/collections/a", "sessions": 12, "purchases": 2, "revenue": 1999.5}]
+    assert "@pattern" in g.ga4_api_window_sql("p.d.t")

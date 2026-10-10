@@ -130,6 +130,32 @@ def cmd_trend(args) -> int:
     return 0
 
 
+def cmd_backfill(args) -> int:
+    from datetime import timedelta
+
+    from . import google_api as g
+
+    site = _site(args)
+    store = _store(site)
+    end = date.today() - timedelta(days=3)  # GSC-data är slutgiltig efter ca 3 dagar
+    start = date.fromisoformat(args.since) if args.since else end - timedelta(days=args.days)
+    if args.source == "gsc":
+        if not site.gsc_property:
+            raise ConfigError("gsc_property saknas i konfigurationen (t.ex. sc-domain:gorillasports.se).")
+        session = g.authorized_session([g.GSC_SCOPE])
+        rows = g.gsc_rows(session, site.gsc_property, start, end, with_query=args.queries)
+        table = args.table or ("gsc_api_url_query" if args.queries else "gsc_api_url")
+        n = g.load_rows(store, table, g.GSC_SCHEMA, rows, ("data_date", start, end))
+    else:
+        if not site.ga4_property_id:
+            raise ConfigError("ga4_property_id saknas i konfigurationen.")
+        session = g.authorized_session([g.GA4_SCOPE])
+        table = args.table or "ga4_landing_daily"
+        n = g.load_rows(store, table, g.GA4_SCHEMA, g.ga4_rows(session, site.ga4_property_id, start, end), ("d", start, end))
+    print(f"{n} rader laddade till {store.dataset}.{table} ({start} – {end})")
+    return 0
+
+
 def cmd_sql(args) -> int:
     from . import impact
 
@@ -188,6 +214,15 @@ def main(argv: list[str] | None = None) -> int:
     t.add_argument("--since", required=True)
     t.add_argument("--grain", default="MONTH", choices=["DAY", "WEEK", "MONTH"])
     t.set_defaults(func=cmd_trend)
+
+    b = sub.add_parser("backfill", help="Hämta historik via Search Console API eller GA4 Data API")
+    b.add_argument("source", choices=["gsc", "ga4"])
+    b.add_argument("--site", required=True)
+    b.add_argument("--days", type=int, default=480, help="Antal dagar bakåt (GSC max ca 16 mån)")
+    b.add_argument("--since", help="Startdatum i stället för --days")
+    b.add_argument("--queries", action="store_true", help="GSC: även sökfraser (större tabell)")
+    b.add_argument("--table", help="Måltabell i site_audit-datasetet")
+    b.set_defaults(func=cmd_backfill)
 
     q = sub.add_parser("sql")
     q.add_argument("--site", required=True)

@@ -169,8 +169,11 @@ def run_impact(store, site, pattern: str, change_date: date, days: int = 90, lab
     if site.gsc_table:
         rows = store.query(gsc_window_sql(site.gsc_table), params(bq, window, pattern))
         result["gsc"] = compare(rows, ["clicks", "impressions"])
-    if site.ga4_dataset:
-        rows = store.query(ga4_window_sql(site.ga4_dataset), params(bq, window, pattern))
+    if site.ga4_api_table or site.ga4_dataset:
+        from .google_api import ga4_api_window_sql
+
+        sql = ga4_api_window_sql(site.ga4_api_table) if site.ga4_api_table else ga4_window_sql(site.ga4_dataset)
+        rows = store.query(sql, params(bq, window, pattern))
         result["ga4"] = compare(rows, ["sessions", "purchases", "revenue"])
     if site.shopify_dataset:
         rows = store.query(shopify_window_sql(site.shopify_dataset), params(bq, window, pattern))

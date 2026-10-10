@@ -69,6 +69,22 @@ Vyerna i `sql/audit/views.sql` ger samma data i BigQuery: `check_trend`, `open_f
 sed 's/PROJ/gorilla-sports-data/g' sql/audit/views.sql | bq query --use_legacy_sql=false
 ```
 
+## Historik från dag ett
+
+Bulkexporterna fyller inte i bakåt i tiden. Hämta därför historiken via API:erna en gång, och därefter vid behov:
+
+```bash
+site-audit backfill gsc --site gorillasports-se --days 480   # ca 16 månader, sidnivå
+site-audit backfill gsc --site gorillasports-se --days 90 --queries   # med sökfraser
+site-audit backfill ga4 --site gorillasports-se --since 2025-01-01    # landningssidor, sessioner, köp, intäkt
+```
+
+Förutsättningar:
+- Tjänstkontot `shopify-sync@<projekt>.iam.gserviceaccount.com` läggs till som användare i Search Console-egendomen och som *Viewer* i GA4-egendomen.
+- *Search Console API* och *Google Analytics Data API* är aktiverade i projektet.
+
+Vyn `gsc_combined` använder API-data fram till den dag bulkexporten började, och därefter exporten. Effekt- och trendanalyserna fungerar mot båda källorna.
+
 ## Köra varje natt i Google Cloud
 
 ```bash
