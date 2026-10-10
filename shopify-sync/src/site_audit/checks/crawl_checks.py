@@ -52,7 +52,8 @@ def check_status(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
         elif final >= 500:
             out.append(F("server_error", "high", "indexing", f"Serverfel {final}", url=cu.url))
         elif final == 0:
-            out.append(F("fetch_failed", "medium", "indexing", f"Kunde inte hämtas: {cu.error}", url=cu.url))
+            out.append(F("fetch_failed", "medium", "indexing", f"Kunde inte hämtas: {cu.error}", url=cu.url,
+                         evidence={"error": cu.error, "source": cu.source}))
         elif final == 404 and cu.linked_from:
             out.append(F("broken_internal_link", "high", "links", "Interna länkar pekar på en sida som ger 404",
                          url=cu.url, evidence={"linked_from": cu.linked_from[:10], "count": len(cu.linked_from)}))
@@ -96,9 +97,14 @@ def check_redirects(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
             out.append(F("redirect_changes_locale", "high", "international",
                          f"Omdirigering byter marknad/språk ({src_loc or 'rot'} → {dst_loc})",
                          url=cu.url, evidence={"final_url": cu.final_url}))
-        if urlsplit(cu.final_url).netloc != site.host:
-            out.append(F("redirect_offsite", "medium", "redirects", "Omdirigerar till en annan domän",
-                         url=cu.url, evidence={"final_url": cu.final_url}))
+        dest_host = urlsplit(cu.final_url).netloc
+        if dest_host != site.host:
+            brand = site.host.split(".")[-2] if site.host.count(".") >= 1 else ""
+            sibling = brand and brand in dest_host
+            out.append(F("redirect_to_other_market" if sibling else "redirect_offsite", "high" if sibling else "medium",
+                         "international" if sibling else "redirects",
+                         f"Skickar besökaren till {dest_host}" + (" (annan marknad)" if sibling else ""),
+                         url=cu.url, evidence={"final_url": cu.final_url, "linked_from": cu.linked_from[:5]}))
     return out
 
 
@@ -254,6 +260,10 @@ def check_schema(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
             for p in f.product_schema:
                 if not p["images"]:
                     out.append(F("product_schema_no_image", "high", "schema", "Product-schemat saknar bild", url=cu.url))
+                elif p.get("relative_images") and not p["invalid_images"]:
+                    out.append(F("product_schema_relative_image", "low", "schema",
+                                 "Bild-URL i Product-schemat saknar https: (protokollrelativ)",
+                                 url=cu.url, evidence={"images": p["relative_images"][:2]}))
                 elif p["invalid_images"]:
                     out.append(F("product_schema_bad_image", "high", "schema", "Trasig bild-URL i Product-schemat",
                                  url=cu.url, evidence={"images": p["invalid_images"][:3]}))
@@ -291,6 +301,7 @@ def check_performance(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
     out = []
     t = site.thresholds
     sizes = []
+    big_scripts: dict[str, list[tuple[str, int]]] = defaultdict(list)
     for cu in cr.urls.values():
         f = cu.facts
         if not f:
@@ -300,9 +311,17 @@ def check_performance(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
             out.append(F("html_too_large", "medium", "performance", f"HTML är {f.html_bytes / 1_000_000:.2f} MB",
                          url=cu.url, evidence={"bytes": f.html_bytes, "page_type": f.page_type}))
         if f.largest_inline_script >= t.inline_script_bytes_warn:
-            out.append(F("large_inline_script", "medium", "performance",
-                         f"Inline-skript på {f.largest_inline_script // 1000} KB", url=cu.url,
-                         evidence={"bytes": f.largest_inline_script, "starts_with": f.largest_inline_script_hint}))
+            big_scripts[(f.largest_inline_script_hint or "")[:60]].append((cu.url, f.largest_inline_script))
+    for hint, pages in big_scripts.items():
+        if len(pages) >= 10:
+            kb = max(b for _, b in pages) // 1000
+            out.append(F("large_inline_script_sitewide", "medium", "performance",
+                         f"Samma inline-skript (upp till {kb} KB) på {len(pages)} sidor – tema eller app, åtgärdas på ett ställe",
+                         url=pages[0][0], evidence={"pages": len(pages), "starts_with": hint, "sample": [u for u, _ in pages[:10]], "count": len(pages)}))
+        else:
+            for url, b in pages:
+                out.append(F("large_inline_script", "medium", "performance", f"Inline-skript på {b // 1000} KB", url=url,
+                             evidence={"bytes": b, "starts_with": hint}))
     if sizes:
         sizes.sort()
         out.append(F("html_size_stats", "info", "performance",

@@ -76,12 +76,19 @@ class CrawlResult:
     robots_txt: str | None = None
 
 
+TRACKING_PARAMS = re.compile(r"^(pr_[a-z_]+|shpxid|_pos|_sid|_ss|_psq|_v|_fid|srsltid|gclid|fbclid|utm_[a-z]+|variant)$", re.I)
+
+
 def normalize_url(url: str) -> str:
+    """Normaliserar och tar bort Shopifys rekommendations- och spårningsparametrar."""
+    from urllib.parse import parse_qsl, urlencode
+
     p = urlsplit(url)
     path = p.path or "/"
     if path != "/" and path.endswith("/"):
         path = path.rstrip("/")
-    return urlunsplit((p.scheme.lower(), p.netloc.lower(), path, p.query, ""))
+    query = urlencode([(k, v) for k, v in parse_qsl(p.query, keep_blank_values=True) if not TRACKING_PARAMS.match(k)])
+    return urlunsplit((p.scheme.lower(), p.netloc.lower(), path, query, ""))
 
 
 def interleave_by_sitemap(sm: SitemapResult) -> list[str]:

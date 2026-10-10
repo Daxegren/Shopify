@@ -71,6 +71,7 @@ class Fetcher:
         self.session = session or requests.Session()
         self.session.headers.update({"User-Agent": user_agent, "Accept": "text/html,application/xml;q=0.9,*/*;q=0.8"})
         self.limiter = RateLimiter(requests_per_second)
+        self._local = threading.local()  # senaste felorsak per tråd
         self.timeout_s = timeout_s
 
     def fetch(self, url: str, headers: dict[str, str] | None = None, cookies: dict[str, str] | None = None,
@@ -86,7 +87,7 @@ class Fetcher:
             seen.add(current)
             resp = self._request(method, current, headers, cookies)
             if resp is None:
-                result.error = "nätverksfel"
+                result.error = getattr(self._local, "last_error", None) or "nätverksfel"
                 result.hops.append(Hop(current, 0))
                 break
             location = resp.headers.get("Location")
@@ -110,17 +111,20 @@ class Fetcher:
         return result
 
     def _request(self, method, url, headers, cookies) -> requests.Response | None:
-        for attempt in range(3):
+        self._local.last_error = None
+        for attempt in range(5):
             self.limiter.wait()
             try:
                 resp = self.session.request(method, url, headers=headers, cookies=cookies,
                                             allow_redirects=False, timeout=self.timeout_s)
             except requests.RequestException as exc:
                 log.warning("Fel vid hämtning av %s: %s", url, exc)
+                self._local.last_error = f"{type(exc).__name__}: {str(exc)[:120]}"
                 time.sleep(2 ** attempt)
                 continue
             if resp.status_code == 429:
-                wait = float(resp.headers.get("Retry-After", 2 ** (attempt + 1)))
+                self._local.last_error = "429 Too Many Requests (Shopify bromsar)"
+                wait = min(float(resp.headers.get("Retry-After", 2 ** (attempt + 1))), 60)
                 log.warning("429 från %s, väntar %.0fs", url, wait)
                 resp.close()
                 time.sleep(wait)

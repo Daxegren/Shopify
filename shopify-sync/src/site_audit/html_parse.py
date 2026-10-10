@@ -113,6 +113,11 @@ def _image_urls(value: Any) -> list[str]:
     return []
 
 
+def _protocol_relative(u: str) -> bool:
+    """'//www.butik.se/cdn/...' fungerar, men Google rekommenderar absoluta URL:er."""
+    return isinstance(u, str) and u.startswith("//") and valid_absolute_url("https:" + u)
+
+
 def valid_absolute_url(u: str) -> bool:
     if not u or "{{" in u or "{%" in u or " " in u.strip():
         return False
@@ -164,7 +169,8 @@ def parse_page(url: str, html: bytes, site_host: str) -> PageFacts:
                 facts.product_schema.append({
                     "name": item.get("name"),
                     "images": imgs,
-                    "invalid_images": [u for u in imgs if not valid_absolute_url(u)],
+                    "invalid_images": [u for u in imgs if not valid_absolute_url(u) and not _protocol_relative(u)],
+                    "relative_images": [u for u in imgs if _protocol_relative(u)],
                     "has_offers": bool(offers),
                     "has_brand": bool(item.get("brand")),
                     "has_sku": bool(item.get("sku")),

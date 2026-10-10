@@ -135,3 +135,13 @@ WHERE status = 'åtgärdad' GROUP BY 1 ORDER BY 2 DESC;
 
   Saknas en behörighet visas det som `admin_fetch_error` i rapporten, och resten av körningen fortsätter.
 - **Google Ads:** koppla kontot med BigQuery Data Transfer Service (*Google Ads* som källa) till samma projekt och plats `EU`. Då kan annonsdatan kopplas ihop med landningssidorna i tabellerna ovan.
+
+## Tillägg 2026-10-10: justeringar efter första körningen mot gorillasports.se
+
+- `redirect_target_missing` stäms nu av mot crawlen. Mål som svarar 200 räknas inte längre som fel, eftersom 716 av 892 fungerade. Det kan bero på översatta handles eller på Shopifys egna omdirigeringar. Mål som inte gick att hämta blir `redirect_target_unverified` (låg).
+- `product_schema_relative_image` (låg) är ny. Bild-URL:er som `//www.gorillasports.se/cdn/...` räknas inte längre som trasiga (`product_schema_bad_image`). De rapporteras i stället som en rekommendation om att lägga till `https:`.
+- `large_inline_script_sitewide` är ny. Samma skript på 10 sidor eller fler blir ett enda fynd med antal sidor, i stället för ett fynd per sida.
+- `redirect_to_other_market` (hög) är ny. Den visas när en URL på .se skickar besökaren till .dk, eller tvärtom.
+- Spårningsparametrar (`pr_*`, `shpxid`, `utm_*` m.fl.) tas bort före crawl, så att samma sida inte hämtas flera gånger.
+- `fetch_failed` anger nu orsaken, till exempel `429 Too Many Requests`. Crawlern försöker fem gånger i stället för tre.
+- Översättningsgraden för sidor använder resurstypen `PAGE`. `ONLINE_STORE_PAGE` var fel. En typ som API:et inte känner till hoppas nu över i stället för att stoppa hela översättningsdelen.

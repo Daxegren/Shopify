@@ -112,7 +112,10 @@ def build_actions(findings: list[Finding], cr: CrawlResult | None,
                 tgt, _ = suggest_target(src, live)
                 redirects[src] = tgt
                 actions.append(Action(p, "Byt mål på omdirigering", src, tgt, f.message, f.check))
-        elif f.check in ("redirect_changes_locale", "redirect_table_locale", "geo_redirect"):
+        elif f.check == "large_inline_script_sitewide":
+            actions.append(Action(p + f.evidence.get("pages", 0) // 10, "Flytta ut inline-skript", "tema/app",
+                                  f"Skriptet börjar: {f.evidence.get('starts_with', '')[:60]}", f.message, f.check))
+        elif f.check in ("redirect_changes_locale", "redirect_table_locale", "geo_redirect", "redirect_to_other_market"):
             actions.append(Action(p, "Rätta marknad/språk", url, "Peka svenska URL:er på svensk version, eller ta bort geo-omdirigering från roten",
                                   f.message, f.check))
         elif f.check in ("duplicate_collection_products", "near_duplicate_collection", "duplicate_collection_description", "collection_clones"):

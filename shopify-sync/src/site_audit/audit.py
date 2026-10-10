@@ -62,6 +62,32 @@ def _shopify_client(site: SiteConfig):
     return ShopifyClient(ShopifyConfig(site.shop_domain, site.api_version, token, None, None))
 
 
+def reconcile_redirect_targets(findings: list[Finding], crawl: CrawlResult) -> list[Finding]:
+    """Admin-kontrollen ser bara primära handles. Ett mål kan ändå fungera (översatt handle,
+    Shopifys automatiska omdirigering), så crawlens utfall avgör: 200 = inget fel, fel = kvar,
+    ej hämtad = sänkt till 'kunde inte verifieras'."""
+    from .crawler import normalize_url
+
+    out = []
+    for f in findings:
+        if f.check != "redirect_target_missing" or not f.url:
+            out.append(f)
+            continue
+        cu = crawl.urls.get(normalize_url(f.url))
+        if cu is None:
+            out.append(f)
+        elif cu.status == 200:
+            continue
+        elif cu.status == 0:
+            f.severity, f.check = "low", "redirect_target_unverified"
+            f.message = "Omdirigeringens mål saknas i admin och kunde inte verifieras i crawlen"
+            out.append(f)
+        else:
+            f.evidence["crawl_status"] = cu.status
+            out.append(f)
+    return out
+
+
 def run_audit(site: SiteConfig, crawl: bool = True, admin: bool = True, admin_client=None, crawler: Crawler | None = None,
               search_store=None, search_days: int = 90, psi_per_type: int = 0) -> AuditRun:
     run = AuditRun(run_id=f"{site.name}-{datetime.now(timezone.utc):%Y%m%dT%H%M%S}-{uuid.uuid4().hex[:6]}",
@@ -79,6 +105,7 @@ def run_audit(site: SiteConfig, crawl: bool = True, admin: bool = True, admin_cl
         run.findings += run_crawl_checks(run.crawl, site)
         if run.admin:
             run.findings += run_cross_checks(run.crawl, run.admin, site)
+            run.findings = reconcile_redirect_targets(run.findings, run.crawl)
         if psi_per_type:
             from .psi import psi_findings
 

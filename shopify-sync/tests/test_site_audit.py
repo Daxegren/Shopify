@@ -389,3 +389,29 @@ def test_merge_keeps_page_with_most_clicks():
                 evidence={"collections": ["a", "b", "c"]})
     _, pairs = build_actions([f], None, clicks={"/collections/b": 50, "/collections/a": 3})
     assert dict(pairs) == {"/collections/a": "/collections/b", "/collections/c": "/collections/b"}
+
+
+def test_review_fixes():
+    from site_audit.audit import reconcile_redirect_targets
+    from site_audit.crawler import normalize_url
+    from site_audit.findings import Finding
+    from site_audit.html_parse import parse_page
+
+    # Spårningsparametrar tas bort
+    assert normalize_url("https://x.se/products/a?pr_prod_strat=e5&pr_rec_id=1&shpxid=2&color=red") == "https://x.se/products/a?color=red"
+    # Protokollrelativ bild är inte trasig
+    html = b"<html><head><script type='application/ld+json'>{\"@type\":\"Product\",\"image\":\"//www.x.se/cdn/a.jpg\",\"offers\":{}}</script></head><body></body></html>"
+    p = parse_page("https://www.x.se/products/a", html, "www.x.se").product_schema[0]
+    assert p["invalid_images"] == [] and p["relative_images"] == ["//www.x.se/cdn/a.jpg"]
+
+    class CU:
+        def __init__(self, status):
+            self.status = status
+
+    class CR:
+        urls = {"https://x.se/a": CU(200), "https://x.se/b": CU(404), "https://x.se/c": CU(0)}
+
+    fs = [Finding("redirect_target_missing", "critical", "redirects", "m", url=u) for u in ("https://x.se/a", "https://x.se/b", "https://x.se/c")]
+    out = {f.url: f for f in reconcile_redirect_targets(fs, CR())}
+    assert "https://x.se/a" not in out
+    assert out["https://x.se/b"].severity == "critical" and out["https://x.se/c"].check == "redirect_target_unverified"

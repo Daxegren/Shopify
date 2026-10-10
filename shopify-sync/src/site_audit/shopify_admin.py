@@ -145,7 +145,7 @@ query($cursor: String, $type: TranslatableResourceType!, $locale: String!) {
   }
 }
 """
-TRANSLATION_TYPES = ("PRODUCT", "COLLECTION", "ONLINE_STORE_PAGE")
+TRANSLATION_TYPES = ("PRODUCT", "COLLECTION", "PAGE")
 TEXT_KEYS = {"title", "body_html", "meta_title", "meta_description"}
 
 
@@ -158,7 +158,11 @@ def translation_coverage(client, locales: list[str], sample: int = 300) -> dict[
             stats = {"resources": 0, "title_translated": 0, "fully_translated": 0, "outdated": 0}
             cursor = None
             while stats["resources"] < sample:
-                data = client.graphql(TRANSLATIONS_Q, {"cursor": cursor, "type": rtype, "locale": locale})["translatableResources"]
+                try:
+                    data = client.graphql(TRANSLATIONS_Q, {"cursor": cursor, "type": rtype, "locale": locale})["translatableResources"]
+                except Exception as exc:  # noqa: BLE001 - en typ som API-versionen inte känner till hoppas över
+                    log.warning("Översättningar %s/%s hoppades över: %s", locale, rtype, exc)
+                    break
                 for node in data["nodes"]:
                     source = {c["key"] for c in node["translatableContent"] if c["key"] in TEXT_KEYS and (c.get("value") or "").strip()}
                     done = {t["key"] for t in node["translations"] if (t.get("value") or "").strip()}
