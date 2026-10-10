@@ -48,7 +48,7 @@ def cmd_run(args) -> int:
             site.crawl.max_pages = args.max_pages
         store = _store(site) if (args.bigquery or args.search_data) else None
         run = run_audit(site, crawl=not args.no_crawl, admin=not args.no_admin,
-                        search_store=store if args.search_data else None)
+                        search_store=store if args.search_data else None, psi_per_type=args.psi)
         d = save_local(run, args.out)
         summary = run.summary()
         (d / "report.md").write_text(to_markdown(summary, run.findings))
@@ -186,6 +186,7 @@ def main(argv: list[str] | None = None) -> int:
     r.add_argument("--max-pages", type=int)
     r.add_argument("--bigquery", action="store_true", help="Spara körningen i BigQuery")
     r.add_argument("--search-data", action="store_true", help="Kombinera med Search Console-data i BigQuery")
+    r.add_argument("--psi", type=int, default=0, metavar="N", help="Mät Core Web Vitals för N sidor per sidtyp (kräver PSI_API_KEY)")
     r.set_defaults(func=cmd_run)
 
     pg = sub.add_parser("page", help="Analysera en enskild URL")

@@ -62,7 +62,7 @@ def _shopify_client(site: SiteConfig):
 
 
 def run_audit(site: SiteConfig, crawl: bool = True, admin: bool = True, admin_client=None, crawler: Crawler | None = None,
-              search_store=None, search_days: int = 90) -> AuditRun:
+              search_store=None, search_days: int = 90, psi_per_type: int = 0) -> AuditRun:
     run = AuditRun(run_id=f"{site.name}-{datetime.now(timezone.utc):%Y%m%dT%H%M%S}-{uuid.uuid4().hex[:6]}",
                    site=site, started_at=datetime.now(timezone.utc).isoformat())
     if admin:
@@ -78,6 +78,10 @@ def run_audit(site: SiteConfig, crawl: bool = True, admin: bool = True, admin_cl
         run.findings += run_crawl_checks(run.crawl, site)
         if run.admin:
             run.findings += run_cross_checks(run.crawl, run.admin, site)
+        if psi_per_type:
+            from .psi import psi_findings
+
+            run.findings += psi_findings(run.crawl, psi_per_type)
         if search_store is not None and site.gsc_table:
             from .checks.data_checks import fetch_search_data, run_data_checks
 

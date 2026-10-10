@@ -16,6 +16,9 @@
 | Bilder | `images_missing_alt`, `product_images_no_alt`, `alt_text_summary`, `insecure_resources` | Alt-text saknas på nya produkter |
 | Prestanda | `html_too_large`, `large_inline_script`, `html_size_stats` | HTML på 1,35–1,78 MB, trust-badge-skript på 300 KB inline |
 | Trafik | `traffic_page_broken`, `traffic_page_redirected` | Sidor som hade klick i Google men nu ger 404 |
+| Struktur | `inventory`, `orphan_page` | Sidtyp × språk, sidor i sitemapen som ingen sida länkar till |
+| Översättning | `partial_translation`, `outdated_translation` | "'de': bara 34 % av produkterna är fullt översatta" |
+| Core Web Vitals | `cwv_lcp`, `cwv_inp`, `cwv_cls`, `lighthouse_performance` | LCP 4,8 s för verkliga mobilbesökare (kräver `--psi N` och `PSI_API_KEY`) |
 
 Varje fynd har en allvarlighetsgrad (kritisk, hög, medel, låg eller info), en URL eller Shopify-resurs, och detaljer (`evidence`).
 

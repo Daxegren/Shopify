@@ -347,3 +347,19 @@ def test_google_api_parsers():
     r = list(g.ga4_rows(Ga4Session(), "123", date(2026, 1, 1), date(2026, 1, 31)))
     assert r == [{"d": "2026-01-05", "property_id": "123", "landing": "/collections/a", "sessions": 12, "purchases": 2, "revenue": 1999.5}]
     assert "@pattern" in g.ga4_api_window_sql("p.d.t")
+
+
+def test_psi(crawl_run):
+    from site_audit.psi import findings_from_psi, sample_urls
+
+    urls = sample_urls(crawl_run.crawl, 1)
+    assert urls[0].rstrip("/") == crawl_run.site.base_url and len(urls) >= 3
+    data = {"loadingExperience": {"metrics": {
+        "LARGEST_CONTENTFUL_PAINT_MS": {"percentile": 4800, "category": "SLOW"},
+        "CUMULATIVE_LAYOUT_SHIFT_SCORE": {"percentile": 15, "category": "AVERAGE"},
+        "INTERACTION_TO_NEXT_PAINT": {"percentile": 120, "category": "FAST"}}},
+        "lighthouseResult": {"categories": {"performance": {"score": 0.31}}, "audits": {
+            "unused-javascript": {"title": "Reduce unused JavaScript", "numericValue": 1200, "details": {"type": "opportunity"}}}}}
+    fs = {f.check: f for f in findings_from_psi("https://x/", data)}
+    assert fs["cwv_lcp"].severity == "high" and fs["cwv_cls"].severity == "medium" and "cwv_inp" not in fs
+    assert fs["lighthouse_performance"].evidence["top_opportunities"] == ["Reduce unused JavaScript"]
