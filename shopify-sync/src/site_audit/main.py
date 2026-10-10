@@ -46,14 +46,16 @@ def cmd_run(args) -> int:
         site = sites[name]
         if args.max_pages:
             site.crawl.max_pages = args.max_pages
-        run = run_audit(site, crawl=not args.no_crawl, admin=not args.no_admin)
+        store = _store(site) if (args.bigquery or args.search_data) else None
+        run = run_audit(site, crawl=not args.no_crawl, admin=not args.no_admin,
+                        search_store=store if args.search_data else None)
         d = save_local(run, args.out)
         summary = run.summary()
         (d / "report.md").write_text(to_markdown(summary, run.findings))
         (d / "report.html").write_text(to_html(summary, run.findings))
         print(f"{name}: {summary['total']} fynd ({summary['by_severity']}) -> {d}")
         if args.bigquery:
-            _store(site).save_run(run)
+            store.save_run(run)
             print(f"{name}: sparad i BigQuery {site.bq_project}.{site.bq_dataset}")
     return 0
 
@@ -153,6 +155,7 @@ def main(argv: list[str] | None = None) -> int:
     r.add_argument("--no-admin", action="store_true")
     r.add_argument("--max-pages", type=int)
     r.add_argument("--bigquery", action="store_true", help="Spara körningen i BigQuery")
+    r.add_argument("--search-data", action="store_true", help="Kombinera med Search Console-data i BigQuery")
     r.set_defaults(func=cmd_run)
 
     pg = sub.add_parser("page", help="Analysera en enskild URL")

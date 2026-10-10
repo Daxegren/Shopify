@@ -1,5 +1,7 @@
 # shopify-sync
 
+> Paketet innehåller också **site-audit**, genomlysning av Shopify-sajter med crawl, admin-kontroller, rapport och effektmätning. Se [docs/site-audit.md](docs/site-audit.md).
+
 Synkar Shopify-data till **BigQuery** och/eller **Postgres (Supabase)**. Jobbet är inkrementellt och kan köras om utan dubbletter.
 
 - **Data:** ordrar, orderrader, produkter, varianter och kunder. Kunder sparas utan namn, e-post, telefon och adress.

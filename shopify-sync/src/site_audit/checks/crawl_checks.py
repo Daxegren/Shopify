@@ -342,7 +342,63 @@ def check_content(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
     return out
 
 
-ALL_CRAWL_CHECKS = [check_status, check_redirects, check_geo, check_onpage, check_canonicals, check_hreflang,
+def blocks_all(robots: str, agents: tuple[str, ...]) -> bool:
+    """Sant om någon av agenternas grupper har 'Disallow: /'. Shopify blockerar t.ex. Nutch
+    helt som standard, vilket inte ska räknas."""
+    groups: list[tuple[set[str], list[str]]] = []
+    current_agents: set[str] = set()
+    rules: list[str] = []
+    last_was_agent = False
+    for raw in robots.splitlines():
+        line = raw.split("#")[0].strip()
+        if not line or ":" not in line:
+            continue
+        key, value = (x.strip() for x in line.split(":", 1))
+        key = key.lower()
+        if key == "user-agent":
+            if not last_was_agent and current_agents:
+                groups.append((current_agents, rules))
+                current_agents, rules = set(), []
+            current_agents.add(value.lower())
+            last_was_agent = True
+        else:
+            if key == "disallow":
+                rules.append(value)
+            last_was_agent = False
+    if current_agents:
+        groups.append((current_agents, rules))
+    return any(set(agents) & ua and "/" in r for ua, r in groups)
+
+
+def check_shopify_specifics(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
+    out = []
+    # Produkter nåbara via /collections/x/products/y ska ha canonical till /products/y.
+    for cu in cr.urls.values():
+        f = cu.facts
+        if not f or cu.status != 200:
+            continue
+        _, rest = split_locale(f.path)
+        m = re.match(r"^/collections/[^/]+/products/([^/]+)", rest)
+        if m and (not f.canonical or "/collections/" in urlsplit(f.canonical).path):
+            out.append(F("collection_product_url_indexable", "medium", "indexing",
+                         "Produkt-URL under kollektion saknar canonical till /products/", url=cu.url,
+                         evidence={"canonical": f.canonical}))
+        if "page=" in urlsplit(cu.url).query and f.canonical and normalize_url(f.canonical) == normalize_url(cu.url) and cu.in_sitemap:
+            out.append(F("paginated_in_sitemap", "low", "indexing", "Paginerad URL i sitemapen", url=cu.url))
+    # robots.txt
+    robots = cr.robots_txt
+    if robots is None:
+        out.append(F("robots_missing", "medium", "indexing", "robots.txt kunde inte hämtas", url=site.base_url + "/robots.txt"))
+    else:
+        low = robots.lower()
+        if "sitemap:" not in low:
+            out.append(F("robots_no_sitemap", "low", "indexing", "robots.txt anger ingen sitemap", url=site.base_url + "/robots.txt"))
+        if blocks_all(robots, ("*", "googlebot")):
+            out.append(F("robots_blocks_all", "critical", "indexing", "robots.txt blockerar hela sajten", url=site.base_url + "/robots.txt"))
+    return out
+
+
+ALL_CRAWL_CHECKS = [check_shopify_specifics, check_status, check_redirects, check_geo, check_onpage, check_canonicals, check_hreflang,
                     check_language, check_schema, check_media, check_performance, check_content]
 
 

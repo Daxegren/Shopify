@@ -114,7 +114,8 @@ class Crawler:
             hops=_hops(res), error=res.error, loop=res.loop, elapsed_ms=res.elapsed_ms,
             content_type=res.content_type, x_robots_tag=res.headers.get("x-robots-tag"),
         )
-        if res.status == 200 and res.is_html and res.body:
+        # Omdirigerade URL:er analyseras inte; målet crawlas separat och räknas en gång.
+        if res.status == 200 and res.is_html and res.body and not res.redirect_count:
             try:
                 cu.facts = parse_page(res.final_url, res.body, self.site.host)
             except Exception:  # en trasig sida ska inte stoppa hela crawlen

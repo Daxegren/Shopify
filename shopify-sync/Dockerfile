@@ -5,6 +5,7 @@ WORKDIR /app
 
 COPY pyproject.toml ./
 COPY src ./src
+COPY sites*.toml ./
 RUN pip install --no-cache-dir '.[all]'
 
 # Körs som icke-root.

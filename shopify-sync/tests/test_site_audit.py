@@ -243,3 +243,28 @@ def test_load_example_config():
     assert "gorillasports-se" in sites
     s = sites["gorillasports-se"]
     assert s.crawl.max_pages > 0 and s.page_groups
+
+
+def test_data_checks(crawl_run):
+    from site_audit.checks.data_checks import SearchData, run_data_checks
+
+    sd = SearchData(days=90, by_path={
+        "/collections/artist-gone": {"clicks": 40, "impressions": 900, "position": 8.0},
+        "/products/good": {"clicks": 5, "impressions": 2000, "position": 4.0},
+        "/sv/products/good": {"clicks": 12, "impressions": 300, "position": 9.0},
+    }, cannibal=[{"query": "tavla", "impressions": 500, "urls": [{"path": "/products/good"}, {"path": "/collections/artists"}]}])
+    c = Counter(f.check for f in run_data_checks(crawl_run.crawl, sd, crawl_run.site))
+    assert c["traffic_page_broken"] == 1
+    assert c["traffic_page_redirected"] == 1
+    assert c["low_ctr_top10"] == 1
+    assert c["keyword_cannibalization"] == 1
+    assert c["no_search_impressions"] >= 3 and c["no_impressions_summary"] == 1
+
+
+def test_robots_parser():
+    from site_audit.checks.crawl_checks import blocks_all
+
+    shopify_default = "User-agent: *\nDisallow: /admin\nDisallow: /cart\n\nUser-agent: Nutch\nDisallow: /\n"
+    assert not blocks_all(shopify_default, ("*", "googlebot"))
+    assert blocks_all("User-agent: *\nDisallow: /\n", ("*",))
+    assert blocks_all("User-agent: Bingbot\nUser-agent: Googlebot\nDisallow: /\n", ("googlebot",))

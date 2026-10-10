@@ -61,7 +61,8 @@ def _shopify_client(site: SiteConfig):
     return ShopifyClient(ShopifyConfig(site.shop_domain, site.api_version, token, None, None))
 
 
-def run_audit(site: SiteConfig, crawl: bool = True, admin: bool = True, admin_client=None, crawler: Crawler | None = None) -> AuditRun:
+def run_audit(site: SiteConfig, crawl: bool = True, admin: bool = True, admin_client=None, crawler: Crawler | None = None,
+              search_store=None, search_days: int = 90) -> AuditRun:
     run = AuditRun(run_id=f"{site.name}-{datetime.now(timezone.utc):%Y%m%dT%H%M%S}-{uuid.uuid4().hex[:6]}",
                    site=site, started_at=datetime.now(timezone.utc).isoformat())
     if admin:
@@ -77,6 +78,14 @@ def run_audit(site: SiteConfig, crawl: bool = True, admin: bool = True, admin_cl
         run.findings += run_crawl_checks(run.crawl, site)
         if run.admin:
             run.findings += run_cross_checks(run.crawl, run.admin, site)
+        if search_store is not None and site.gsc_table:
+            from .checks.data_checks import fetch_search_data, run_data_checks
+
+            try:
+                sd = fetch_search_data(search_store, site, search_days)
+                run.findings += run_data_checks(run.crawl, sd, site)
+            except Exception:  # noqa: BLE001 - sökdata är ett tillägg, inte ett krav
+                log.exception("%s: Search Console-data kunde inte hämtas", site.name)
     run.findings = sort_findings(run.findings)
     run.finished_at = datetime.now(timezone.utc).isoformat()
     return run
