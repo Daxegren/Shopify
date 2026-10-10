@@ -175,3 +175,12 @@ WHERE status = 'åtgärdad' GROUP BY 1 ORDER BY 2 DESC;
   - förslag med säkerhet 0,6 eller mer
 
   Osäkra förslag, till exempel fallback till `/collections/all`, hamnar i **`redirects_review.csv`** med säkerhet och antal klick från Google. Den filen ska gås igenom manuellt och importeras inte direkt.
+
+## Tillägg 2026-10-10: gissade mål importeras inte automatiskt
+
+`redirects_import.csv` innehåller nu bara omdirigeringar vars slutmål verktyget har kontrollerat att det fungerar:
+- kedjor som pekas om direkt till sitt fungerande slutmål
+- rensade spårningsparametrar
+- sammanslagningar av dubbletter
+
+Alla mål som har gissats fram genom ordlikhet hamnar i `redirects_review.csv`, oavsett säkerhet. Skälet är körning 4: i ett stickprov på 15 av 61 gissningar var ungefär var fjärde fel. Exempel: danska "løbebånd" (löpband) gissades till crosstrainer och "speedbike" till päronboll.

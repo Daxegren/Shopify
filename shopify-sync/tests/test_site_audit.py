@@ -490,8 +490,10 @@ def test_unsure_redirects_go_to_review(tmp_path):
     fs = [Finding("redirect_target_missing", "critical", "redirects", "m", url="https://x.se/battle-rope-10m/p/728"),
           Finding("redirect_target_missing", "critical", "redirects", "m", url="https://x.se/boksepakke-profi/p/1129")]
     _, sure, review = build_actions(fs, CR(), with_review=True)
-    assert dict(sure) == {"/battle-rope-10m/p/728": "/collections/battle-ropes"}
-    assert [r[0] for r in review] == ["/boksepakke-profi/p/1129"]
+    # Gissningar importeras aldrig automatiskt, även när de är bra
+    assert sure == []
+    assert {r[0]: r[1] for r in review} == {"/battle-rope-10m/p/728": "/collections/battle-ropes",
+                                            "/boksepakke-profi/p/1129": "/collections/all"}
     write_action_files(fs, CR(), tmp_path)
     rows = list(csv.reader(open(tmp_path / "redirects_review.csv")))
-    assert rows[1][0] == "/boksepakke-profi/p/1129" and rows[1][1] == "/collections/all"
+    assert {r[0] for r in rows[1:]} == {"/battle-rope-10m/p/728", "/boksepakke-profi/p/1129"}

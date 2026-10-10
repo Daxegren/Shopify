@@ -19,7 +19,9 @@ from .findings import SEVERITY_RANK, Finding
 from .html_parse import split_locale
 
 PRIORITY = {"critical": 100, "high": 60, "medium": 30, "low": 10, "info": 0}
-SURE_SCORE = 0.6  # förslag under detta hamnar i redirects_review.csv i stället för importfilen
+# Gissade mål (ordlikhet) importeras aldrig automatiskt: körning 4 visade fel i ungefär var fjärde,
+# t.ex. danska "løbebånd" (löpband) → crosstrainer. Alla gissningar hamnar i redirects_review.csv.
+SURE_SCORE = float("inf")
 STOPWORDS = {"products", "collections", "pages", "blogs", "blogg", "blog", "editorials", "butikk", "p", "s",
              "och", "for", "att", "med", "av", "det", "du", "en", "ett", "i", "pa", "som", "til", "og", "the", "and",
              "dk", "se", "no", "fi"}
@@ -138,7 +140,7 @@ def build_actions(findings: list[Finding], cr: CrawlResult | None, clicks: dict[
                 if score < SURE_SCORE:
                     unsure[src] = score
                 actions.append(Action(p, "Byt mål på omdirigering", src, tgt,
-                                      f.message + ("" if score >= SURE_SCORE else f" (förslag med säkerhet {score:.2f}, kontrollera manuellt)"),
+                                      f.message + f" (gissat mål, säkerhet {score:.2f}, kontrollera manuellt)",
                                       f.check))
         elif f.check == "large_inline_script_sitewide":
             actions.append(Action(p + f.evidence.get("pages", 0) // 10, "Flytta ut inline-skript", "tema/app",
