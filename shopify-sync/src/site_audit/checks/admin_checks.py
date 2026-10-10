@@ -311,6 +311,21 @@ def check_locales(admin: AdminData, site: SiteConfig) -> list[Finding]:
         if extra:
             out.append(F("unexpected_locales", "medium", "international",
                          f"{len(extra)} publicerade språk utanför plan: {', '.join(sorted(extra))}", url=site.base_url))
+    labels = {"PRODUCT": "produkter", "COLLECTION": "kollektioner", "ONLINE_STORE_PAGE": "sidor"}
+    for locale, types in admin.translations.items():
+        for rtype, st in types.items():
+            if not st["resources"]:
+                continue
+            share = st["fully_translated"] / st["resources"]
+            if share < 0.9:
+                sev = "high" if share < 0.5 else "medium"
+                out.append(F("partial_translation", sev, "international",
+                             f"'{locale}': bara {share * 100:.0f} % av {labels.get(rtype, rtype)} är fullt översatta",
+                             url=site.base_url, evidence={"locale": locale, "type": rtype, **st}))
+            if st["outdated"]:
+                out.append(F("outdated_translation", "low", "international",
+                             f"'{locale}': {st['outdated']} översättningar av {labels.get(rtype, rtype)} är inaktuella",
+                             url=site.base_url, evidence={"locale": locale, "type": rtype}))
     for name, err in admin.errors.items():
         out.append(F("admin_fetch_error", "info", "indexing", f"Admin-data '{name}' kunde inte hämtas", url=site.base_url, evidence={"error": err}))
     return out

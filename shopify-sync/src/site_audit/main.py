@@ -53,6 +53,9 @@ def cmd_run(args) -> int:
         summary = run.summary()
         (d / "report.md").write_text(to_markdown(summary, run.findings))
         (d / "report.html").write_text(to_html(summary, run.findings))
+        from .actions import write_action_files
+
+        write_action_files(run.findings, run.crawl, d)
         print(f"{name}: {summary['total']} fynd ({summary['by_severity']}) -> {d}")
         if args.bigquery:
             store.save_run(run)

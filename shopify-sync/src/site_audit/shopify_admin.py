@@ -77,7 +77,7 @@ LOCALES_Q = """
 """
 
 MARKETS_Q = """
-{ markets(first: 50) { nodes { id name handle enabled } } }
+{ markets(first: 50) { nodes { id name handle status } } }
 """
 
 SHOP_Q = """
@@ -95,6 +95,7 @@ class AdminData:
     redirects: list[dict[str, Any]] = field(default_factory=list)
     locales: list[dict[str, Any]] = field(default_factory=list)
     markets: list[dict[str, Any]] = field(default_factory=list)
+    translations: dict[str, dict[str, dict[str, int]]] = field(default_factory=dict)  # locale -> typ -> mått
     errors: dict[str, str] = field(default_factory=dict)
 
     def counts(self) -> dict[str, int]:
@@ -132,6 +133,46 @@ def _bulk_tree(client, query: str, child_key: str, poll_s: float, timeout_s: flo
     return order
 
 
+TRANSLATIONS_Q = """
+query($cursor: String, $type: TranslatableResourceType!, $locale: String!) {
+  translatableResources(first: 50, after: $cursor, resourceType: $type) {
+    pageInfo { hasNextPage endCursor }
+    nodes {
+      resourceId
+      translatableContent { key value digest locale }
+      translations(locale: $locale) { key value outdated }
+    }
+  }
+}
+"""
+TRANSLATION_TYPES = ("PRODUCT", "COLLECTION", "ONLINE_STORE_PAGE")
+TEXT_KEYS = {"title", "body_html", "meta_title", "meta_description"}
+
+
+def translation_coverage(client, locales: list[str], sample: int = 300) -> dict[str, dict[str, dict[str, int]]]:
+    """Andel resurser (stickprov) som har översättning per språk och typ."""
+    out: dict[str, dict[str, dict[str, int]]] = {}
+    for locale in locales:
+        out[locale] = {}
+        for rtype in TRANSLATION_TYPES:
+            stats = {"resources": 0, "title_translated": 0, "fully_translated": 0, "outdated": 0}
+            cursor = None
+            while stats["resources"] < sample:
+                data = client.graphql(TRANSLATIONS_Q, {"cursor": cursor, "type": rtype, "locale": locale})["translatableResources"]
+                for node in data["nodes"]:
+                    source = {c["key"] for c in node["translatableContent"] if c["key"] in TEXT_KEYS and (c.get("value") or "").strip()}
+                    done = {t["key"] for t in node["translations"] if (t.get("value") or "").strip()}
+                    stats["resources"] += 1
+                    stats["title_translated"] += "title" in done
+                    stats["fully_translated"] += bool(source) and source <= done
+                    stats["outdated"] += sum(1 for t in node["translations"] if t.get("outdated"))
+                if not data["pageInfo"]["hasNextPage"]:
+                    break
+                cursor = data["pageInfo"]["endCursor"]
+            out[locale][rtype] = stats
+    return out
+
+
 def fetch_admin_data(client, limit: int | None = None, poll_s: float = 3, timeout_s: float = 3600) -> AdminData:
     data = AdminData()
     jobs = [
@@ -151,4 +192,11 @@ def fetch_admin_data(client, limit: int | None = None, poll_s: float = 3, timeou
         except Exception as exc:  # noqa: BLE001 - registreras och visas i rapporten
             log.warning("Admin: %s kunde inte hämtas: %s", name, exc)
             data.errors[name] = str(exc)[:500]
+    secondary = [l["locale"] for l in data.locales if l.get("published") and not l.get("primary")]
+    if secondary:
+        try:
+            data.translations = translation_coverage(client, secondary)
+        except Exception as exc:  # noqa: BLE001 - kräver read_translations
+            log.warning("Admin: översättningar kunde inte hämtas: %s", exc)
+            data.errors["translations"] = str(exc)[:500]
     return data

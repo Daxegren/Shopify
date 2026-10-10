@@ -268,3 +268,43 @@ def test_robots_parser():
     assert not blocks_all(shopify_default, ("*", "googlebot"))
     assert blocks_all("User-agent: *\nDisallow: /\n", ("*",))
     assert blocks_all("User-agent: Bingbot\nUser-agent: Googlebot\nDisallow: /\n", ("googlebot",))
+
+
+def test_translation_coverage_and_check():
+    from site_audit.shopify_admin import translation_coverage
+
+    class Client:
+        def graphql(self, q, v):
+            nodes = [
+                {"resourceId": "1", "translatableContent": [{"key": "title", "value": "A"}, {"key": "body_html", "value": "B"}],
+                 "translations": [{"key": "title", "value": "a", "outdated": False}, {"key": "body_html", "value": "b", "outdated": True}]},
+                {"resourceId": "2", "translatableContent": [{"key": "title", "value": "A"}, {"key": "body_html", "value": "B"}],
+                 "translations": [{"key": "title", "value": "a", "outdated": False}]},
+                {"resourceId": "3", "translatableContent": [{"key": "title", "value": "A"}], "translations": []},
+            ]
+            return {"translatableResources": {"nodes": nodes, "pageInfo": {"hasNextPage": False, "endCursor": None}}}
+
+    cov = translation_coverage(Client(), ["en"])
+    st = cov["en"]["PRODUCT"]
+    assert st == {"resources": 3, "title_translated": 2, "fully_translated": 1, "outdated": 1}
+    admin = AdminData(translations=cov)
+    fs = run_admin_checks(admin, make_site("https://shop.example"))
+    assert any(f.check == "partial_translation" and f.severity == "high" for f in fs)
+    assert any(f.check == "outdated_translation" for f in fs)
+
+
+def test_actions_and_redirect_import(crawl_run, tmp_path):
+    import csv
+
+    from site_audit.actions import build_actions, suggest_target, write_action_files
+
+    assert suggest_target("/collections/artist-anna-berg", ["/collections/artist-anna", "/pages/about"])[0] == "/collections/artist-anna"
+    assert suggest_target("/sv/pages/x", ["/pages/x"])[0] == "/sv"  # aldrig över språkgräns
+    actions, pairs = build_actions(crawl_run.findings, crawl_run.crawl)
+    srcs = dict(pairs)
+    assert "/collections/artist-gone" in srcs and "/old" in srcs
+    assert all(s != t for s, t in pairs)
+    assert actions[0].priority >= actions[-1].priority
+    a, r = write_action_files(crawl_run.findings, crawl_run.crawl, tmp_path)
+    rows = list(csv.reader(open(r)))
+    assert rows[0] == ["Redirect from", "Redirect to"] and len(rows) > 1

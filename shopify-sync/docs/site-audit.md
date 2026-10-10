@@ -38,6 +38,8 @@ Varje körning skapar `audits/<körning>/` med följande filer:
 - `findings.jsonl`: alla fynd
 - `pages.jsonl`: alla URL:er med sidfakta
 - `summary.json` och `geo.json`
+- `actions.csv`: prioriterad åtgärdslista, där flera fynd på samma mål slås ihop till en rad
+- `redirects_import.csv`: färdiga 301:or i Shopifys importformat, för döda URL:er, kedjor som ska peka direkt på slutmålet och sammanslagna kollektioner eller sidor. Importera under *Online Store → Navigation → URL Redirects → Import*. Förslag som verktyget är osäkert på är märkta "kontrollera manuellt" i `actions.csv`. **Gå igenom filen innan du importerar.**
 
 ## Följa förändringar
 
@@ -99,5 +101,16 @@ WHERE status = 'åtgärdad' GROUP BY 1 ORDER BY 2 DESC;
 
 - **Geo-omdirigeringar:** Shopify styr dem på IP-adress. Crawlern simulerar språk med `Accept-Language` och kan sätta en `localization`-cookie. Det fångar språkstyrda omdirigeringar och omdirigeringar i Shopify-tabellen, men för att se exakt vad en svensk IP-adress får måste jobbet köras från en server i Sverige.
 - **Språkgissningen** bygger på stoppord och fungerar på sidor med minst cirka 80 ord. Den ska användas för att hitta halvöversatta sidor, inte som en exakt mätning.
-- **Admin-kontrollerna** kräver en token med `read_products`, `read_content` och `read_online_store_pages` för sidor och artiklar. Omdirigeringar kräver `read_online_store_navigation`. Saknas en behörighet visas det som `admin_fetch_error` i rapporten, och resten av körningen fortsätter.
+- **Admin-kontrollerna** kräver följande behörigheter för Shopify-appen (alla validerade mot Admin API 2026-07):
+
+  | Data | Behörighet |
+  |---|---|
+  | Produkter, kollektioner, regler | `read_products` |
+  | Sidor och artiklar | `read_content`, `read_online_store_pages` |
+  | URL-omdirigeringar | `read_online_store_navigation` |
+  | Språk | `read_locales` |
+  | Marknader | `read_markets` |
+  | Översättningsgrad per språk | `read_translations` |
+
+  Saknas en behörighet visas det som `admin_fetch_error` i rapporten, och resten av körningen fortsätter.
 - **Google Ads:** koppla kontot med BigQuery Data Transfer Service (*Google Ads* som källa) till samma projekt och plats `EU`. Då kan annonsdatan kopplas ihop med landningssidorna i tabellerna ovan.
