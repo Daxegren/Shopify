@@ -342,6 +342,26 @@ def check_content(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
     return out
 
 
+def check_structure(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
+    """Inventering (sidtyp × språk) och föräldralösa sidor. Alla sitemap-URL:er crawlas och deras
+    länkar registreras, så en sitemap-sida som ingen annan sida länkar till är verkligen oländad."""
+    out = []
+    matrix: dict[str, dict[str, int]] = defaultdict(lambda: defaultdict(int))
+    for cu in cr.urls.values():
+        if cu.facts and cu.status == 200 and not cu.redirect_count:
+            matrix[cu.facts.page_type][cu.facts.locale_prefix or "standard"] += 1
+    if matrix:
+        total = sum(sum(v.values()) for v in matrix.values())
+        out.append(F("inventory", "info", "content", f"{total} levande sidor fördelade på {len(matrix)} sidtyper",
+                     url=site.base_url, evidence={k: dict(v) for k, v in sorted(matrix.items())}))
+    for cu in cr.urls.values():
+        if cu.in_sitemap and cu.status == 200 and not cu.redirect_count and cu.facts and not cu.linked_from \
+                and cu.facts.page_type in ("product", "collection", "page", "article", "blog"):
+            out.append(F("orphan_page", "low", "links", f"Ingen intern länk pekar hit ({cu.facts.page_type})",
+                         url=cu.url, evidence={"page_type": cu.facts.page_type}))
+    return out
+
+
 def blocks_all(robots: str, agents: tuple[str, ...]) -> bool:
     """Sant om någon av agenternas grupper har 'Disallow: /'. Shopify blockerar t.ex. Nutch
     helt som standard, vilket inte ska räknas."""
@@ -398,7 +418,7 @@ def check_shopify_specifics(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
     return out
 
 
-ALL_CRAWL_CHECKS = [check_shopify_specifics, check_status, check_redirects, check_geo, check_onpage, check_canonicals, check_hreflang,
+ALL_CRAWL_CHECKS = [check_structure, check_shopify_specifics, check_status, check_redirects, check_geo, check_onpage, check_canonicals, check_hreflang,
                     check_language, check_schema, check_media, check_performance, check_content]
 
 

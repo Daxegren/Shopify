@@ -38,6 +38,15 @@ def _example_cell(f: Finding) -> str:
     return s[:200]
 
 
+def inventory_table(findings: list[Finding]) -> tuple[list[str], list[list[Any]]] | None:
+    inv = next((f for f in findings if f.check == "inventory"), None)
+    if not inv:
+        return None
+    locales = sorted({l for v in inv.evidence.values() for l in v})
+    rows = [[ptype] + [v.get(l, 0) for l in locales] + [sum(v.values())] for ptype, v in inv.evidence.items()]
+    return ["Sidtyp"] + locales + ["Totalt"], rows
+
+
 def to_markdown(summary: dict[str, Any], findings: list[Finding]) -> str:
     lines = [f"# Genomlysning: {summary['site']}", "",
              f"Körning `{summary['run_id']}` · {summary['started_at'][:16].replace('T', ' ')} UTC", ""]
@@ -53,6 +62,11 @@ def to_markdown(summary: dict[str, Any], findings: list[Finding]) -> str:
         a = summary["admin"]
         lines += ["Shopify: " + ", ".join(f"{v} {k}" for k, v in a.items()) + ".", ""]
     lines += ["## Förbättringar", ""] + [f"- {b}" for b in headline_bullets(findings)] + [""]
+    inv = inventory_table(findings)
+    if inv:
+        head, rows = inv
+        lines += ["## Struktur: levande sidor per typ och språk", "", "| " + " | ".join(head) + " |",
+                  "|" + "---|" * len(head)] + ["| " + " | ".join(str(c) for c in r) + " |" for r in rows] + [""]
 
     by_cat: dict[str, list[Finding]] = defaultdict(list)
     for f in findings:
@@ -105,6 +119,13 @@ def to_html(summary: dict[str, Any], findings: list[Finding]) -> str:
     parts.append("</div><h2>Förbättringar</h2><ul class='bul'>")
     parts += [f"<li>{e(b)}</li>" for b in headline_bullets(findings)]
     parts.append("</ul>")
+    inv = inventory_table(findings)
+    if inv:
+        head, rows = inv
+        parts.append("<h2>Struktur: levande sidor per typ och språk</h2><div style='overflow-x:auto'><table>")
+        parts.append("<tr>" + "".join(f"<td><b>{e(str(h))}</b></td>" for h in head) + "</tr>")
+        parts += ["<tr>" + "".join(f"<td>{e(str(c))}</td>" for c in r) + "</tr>" for r in rows]
+        parts.append("</table></div>")
     by_cat: dict[str, list[Finding]] = defaultdict(list)
     for f in findings:
         by_cat[f.category].append(f)

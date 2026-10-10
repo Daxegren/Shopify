@@ -95,6 +95,10 @@ def test_crawl_finds_expected_problems(crawl_run):
     assert c["images_missing_alt"] >= 1
     # Intern länk till 404
     assert any(f.url.endswith("/collections/gone-link") for f in by["broken_internal_link"])
+    # Struktur: /pages/about-us länkas inte från någon sida, /pages/about gör det (från navigeringen)
+    orphans = {f.url.rsplit("/", 2)[-2] + "/" + f.url.rsplit("/", 1)[-1] for f in by["orphan_page"]}
+    assert "pages/about-us" in orphans and "pages/about" not in orphans
+    assert c["inventory"] == 1
     # Felsidan räknas inte som soft 404 eftersom den svarar 404
     assert c["soft_404"] == 0
 
