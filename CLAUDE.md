@@ -13,3 +13,15 @@ Gäller alla filer under `shopify-sync/docs/` och `rapporter/`.
    Vänta på ett uttryckligt ja innan ändringen görs.
 3. **Varje ändring loggas** i `shopify-sync/docs/ANDRINGSLOGG.md`: datum, fil, vad, varför och vem som beslutade. Loggen fylls bara på. Gamla poster ändras aldrig.
 4. **Om innehåll blir inaktuellt** och David inte har beslutat något: lägg till en markering *"Inaktuellt sedan ÅÅÅÅ-MM-DD, se ändringsloggen"* i stället för att skriva om texten.
+
+## Beslutsunderlag efter varje arbetspass
+
+David ska kunna ta ställning utan att följa varje kommando. Varje arbetspass avslutas därför med en fil `rapporter/beslut-ÅÅÅÅ-MM-DD.md` (lägg till `-2`, `-3` om det blir flera samma dag). Filen committas och pushas. Den ska ha exakt dessa rubriker:
+
+1. **Sammanfattning:** högst fem meningar på vanlig svenska om vad som gjordes och varför.
+2. **Resultat:** siffror före och efter, och hur resultatet kontrollerades.
+3. **Beslut som behövs:** en punkt per beslut, med alternativ, rekommendation, risk och vad som händer om inget beslutas.
+4. **Ändrat:** filer, tabeller och tjänster som ändrades. Ange uttryckligen om något ändrades i Shopify (normalt: nej).
+5. **Nästa steg:** vad som görs härnäst om David säger ja.
+
+Skriv för en beslutsfattare, inte för en utvecklare: inga kommandon i sammanfattningen, och förklara facktermer första gången de används.
