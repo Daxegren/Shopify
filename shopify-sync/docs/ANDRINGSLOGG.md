@@ -4,6 +4,7 @@ Den här filen fylls bara på, nya poster överst. Befintliga poster ändras ald
 
 | Datum | Fil | Vad | Varför | Beslut |
 |---|---|---|---|---|
+| 2026-10-12 | `rapporter/beslut-2026-10-12-2.md`, `rapporter/omsattning-30d-resultat-2026-10-12.txt` (nya) | Analys av omsättningen senaste 30 dagarna mot perioden innan, med rådata. GA4-hämtningen nekades (behörighet saknas), inget skrevs till BigQuery. Inget ändrat i Shopify. | Davids uppdrag 2026-10-12 | David (uppdrag 2026-10-12) |
 | 2026-10-12 | `rapporter/beslut-2026-10-12.md` (tillägg), `rapporter/redirects_import_2026-10-12.csv` (ny) | Davids beslut A–H antecknade; samlad importfil med 94 omdirigeringar (D, E och F) | Underlag för import och fortsatt arbete | David (beslut 2026-10-12) |
 | 2026-10-12 | `rapporter/beslut-2026-10-12.md` (ny) | Beslutsunderlag för arbetspasset 2026-10-12 enligt den nya regeln i `CLAUDE.md` | Krav på beslutsunderlag efter varje arbetspass | David (regel i `CLAUDE.md`) |
 | 2026-10-12 | `rapporter/granskning-2026-10-12.md`, `rapporter/titlar-lag-ctr.csv`, `rapporter/redirects_granskade.csv`, `rapporter/redirects_granskade_motivering.csv`, `rapporter/redirects_osakra.csv` (nya) | Granskning av körningen 2026-10-12: Giraffly/SEOWILL Trust Badges identifierad som källan till inline-skriptet på 284 KB, med förslag på åtgärd; nya SEO-titlar och beskrivningar för 68 sidor; 81 granskade omdirigeringar för import och 13 osäkra. Inget ändrat i Shopify eller Google Cloud. | Davids uppdrag 2026-10-12 | David (uppdrag 2026-10-12) |

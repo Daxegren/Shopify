@@ -1,0 +1,158 @@
+# Rådata: sql/analys/omsattning_30d.sql körd 2026-10-12 mot gorilla-sports-data
+# P1 = 2026-09-12–2026-10-11, P0 = 2026-08-13–2026-09-11 (svensk tid). Belopp i SEK om inget annat anges.
+# Avsnitt 6 (GA4) gav inga rader: tabellen är tom eftersom hämtningen nekades.
+
+
+CREATE TEMP TABLE o AS
+SELECT o.*,
+       DATE(o.created_at, 'Europe/Stockholm') AS d,
+       CASE WHEN DATE(o.created_at, 'Europe/Stockholm') BETWEEN p1_start AND p1_end THEN 'P1'
+            WHEN DATE(o.created_at, 'Europe/Stockholm') BETWEEN p0_start AND p0_end THEN 'P0' END AS period,
+       CASE o.presentment_currency WHEN 'SEK' THEN 'SE' WHEN 'DKK' THEN 'DK' ELSE o.presentment_currency END AS marknad
+FROM `gorilla-sports-data.shopify.orders` o
+WHERE o.cancelled_at IS NULL AND DATE(o.created_at, 'Europe/Stockholm') BETWEEN p0_start AND p1_end; -- at [15:1]
+Created gorilla-sports-data._script5d08562254a5512655e087dae61fad7dc22bf7d0.o
+
+SELECT marknad, period, COUNT(*) AS ordrar,
+       ROUND(SUM(total_price)) AS oms_butiksvaluta,
+       ROUND(SUM(total_price_presentment)) AS oms_kundvaluta,
+       ROUND(AVG(total_price_presentment)) AS snittorder_kundvaluta,
+       ROUND(SUM(total_discounts) / NULLIF(SUM(subtotal_price + total_discounts), 0) * 100, 1) AS rabatt_pct,
+       ROUND(SUM(total_refunded)) AS aterbetalt,
+       COUNT(DISTINCT customer_id) AS kunder
+FROM o GROUP BY 1, 2 ORDER BY 1, 2; -- at [25:1]
++---------+--------+--------+------------------+----------------+-----------------------+------------+------------+--------+
+| marknad | period | ordrar | oms_butiksvaluta | oms_kundvaluta | snittorder_kundvaluta | rabatt_pct | aterbetalt | kunder |
++---------+--------+--------+------------------+----------------+-----------------------+------------+------------+--------+
+| DK      | P0     |    412 |           673256 |         453671 |                  1101 |        3.3 |       6146 |    397 |
+| DK      | P1     |    285 |           452901 |         300230 |                  1053 |        3.2 |       5145 |    277 |
+| SE      | P0     |    476 |           852474 |         852474 |                  1791 |       10.1 |      10589 |    452 |
+| SE      | P1     |    364 |           665021 |         665021 |                  1827 |       11.7 |       1044 |    341 |
++---------+--------+--------+------------------+----------------+-----------------------+------------+------------+--------+
+WITH s AS (
+  SELECT marknad,
+         COUNTIF(period = 'P0') AS n0, COUNTIF(period = 'P1') AS n1,
+         SUM(IF(period = 'P0', total_price, 0)) AS r0, SUM(IF(period = 'P1', total_price, 0)) AS r1
+  FROM o GROUP BY 1)
+SELECT marknad, n0, n1, ROUND(r0) AS oms_p0, ROUND(r1) AS oms_p1, ROUND(r1 - r0) AS forandring,
+       ROUND((n1 - n0) * SAFE_DIVIDE(r0, n0)) AS varav_antal_ordrar,
+       ROUND(n1 * (SAFE_DIVIDE(r1, n1) - SAFE_DIVIDE(r0, n0))) AS varav_ordervarde
+FROM s ORDER BY marknad; -- at [35:1]
++---------+-----+-----+--------+--------+------------+--------------------+------------------+
+| marknad | n0  | n1  | oms_p0 | oms_p1 | forandring | varav_antal_ordrar | varav_ordervarde |
++---------+-----+-----+--------+--------+------------+--------------------+------------------+
+| DK      | 412 | 285 | 673256 | 452901 |    -220355 |            -207533 |           -12822 |
+| SE      | 476 | 364 | 852474 | 665021 |    -187453 |            -200582 |            13129 |
++---------+-----+-----+--------+--------+------------+--------------------+------------------+
+SELECT marknad, DATE_TRUNC(d, ISOWEEK) AS vecka, COUNT(*) AS ordrar, ROUND(SUM(total_price)) AS oms
+FROM o GROUP BY 1, 2 ORDER BY 1, 2; -- at [46:1]
++---------+------------+--------+--------+
+| marknad |   vecka    | ordrar |  oms   |
++---------+------------+--------+--------+
+| DK      | 2026-08-10 |     54 |  86552 |
+| DK      | 2026-08-17 |     92 | 157378 |
+| DK      | 2026-08-24 |     84 | 123152 |
+| DK      | 2026-08-31 |    118 | 201404 |
+| DK      | 2026-09-07 |     91 | 144704 |
+| DK      | 2026-09-14 |     62 |  96298 |
+| DK      | 2026-09-21 |     70 | 111731 |
+| DK      | 2026-09-28 |     68 | 116065 |
+| DK      | 2026-10-05 |     58 |  88875 |
+| SE      | 2026-08-10 |     57 | 102167 |
+| SE      | 2026-08-17 |    130 | 216185 |
+| SE      | 2026-08-24 |    110 | 223666 |
+| SE      | 2026-08-31 |    107 | 197932 |
+| SE      | 2026-09-07 |     97 | 180573 |
+| SE      | 2026-09-14 |     90 | 161110 |
+| SE      | 2026-09-21 |     97 | 153618 |
+| SE      | 2026-09-28 |     76 | 180740 |
+| SE      | 2026-10-05 |     76 | 101504 |
++---------+------------+--------+--------+
+SELECT marknad,
+       COALESCE(NULLIF(last_visit_utm_source, ''), NULLIF(last_visit_source, ''), source_name, 'okänd') AS kanal,
+       COUNTIF(period = 'P0') AS ordrar_p0, COUNTIF(period = 'P1') AS ordrar_p1,
+       ROUND(SUM(IF(period = 'P0', total_price, 0))) AS oms_p0, ROUND(SUM(IF(period = 'P1', total_price, 0))) AS oms_p1,
+       ROUND(SUM(IF(period = 'P1', total_price, 0)) - SUM(IF(period = 'P0', total_price, 0))) AS forandring
+FROM o GROUP BY 1, 2 HAVING ordrar_p0 + ordrar_p1 >= 5 ORDER BY marknad, forandring; -- at [50:1]
++---------+-------------------------------+-----------+-----------+--------+--------+------------+
+| marknad |             kanal             | ordrar_p0 | ordrar_p1 | oms_p0 | oms_p1 | forandring |
++---------+-------------------------------+-----------+-----------+--------+--------+------------+
+| DK      | Google                        |       150 |        96 | 258468 | 137236 |    -121232 |
+| DK      | web                           |        59 |        31 |  95302 |  48199 |     -47103 |
+| DK      | facebook                      |        50 |        35 |  56290 |  31408 |     -24883 |
+| DK      | https://www.gorillasports.dk/ |        11 |        14 |  50902 |  29948 |     -20954 |
+| DK      | direct                        |        42 |        37 |  84211 |  72427 |     -11784 |
+| DK      | adtraction                    |        30 |        20 |  28158 |  24124 |      -4034 |
+| DK      | pricerunner                   |         7 |         3 |   7836 |   4151 |      -3685 |
+| DK      | shopify_draft_order           |        18 |         9 |    234 |      0 |       -234 |
+| DK      | chatgpt.com                   |         8 |         8 |   9846 |  10027 |        181 |
+| DK      | Facebook                      |         3 |         3 |   4050 |   8235 |       4185 |
+| SE      | Google                        |       153 |        97 | 266197 | 198128 |     -68069 |
+| SE      | google                        |        28 |        21 |  70972 |  29861 |     -41111 |
+| SE      | web                           |        64 |        48 | 120811 |  85619 |     -35191 |
+| SE      | Facebook                      |         5 |         0 |  15684 |      0 |     -15684 |
+| SE      | facebook                      |        19 |        14 |  25951 |  17607 |      -8344 |
+| SE      | adtraction                    |        28 |        22 |  38910 |  32847 |      -6064 |
+| SE      | kelkoose                      |         5 |         6 |  10423 |   5126 |      -5297 |
+| SE      | shopify_draft_order           |        38 |        33 |   3697 |   1617 |      -2080 |
+| SE      | chatgpt.com                   |         7 |         7 |   6436 |   6719 |        284 |
+| SE      | direct                        |       110 |        98 | 239151 | 242414 |       3262 |
+| SE      | Bing                          |         2 |         4 |   9518 |  21310 |      11792 |
++---------+-------------------------------+-----------+-----------+--------+--------+------------+
+SELECT o.marknad, li.title,
+       SUM(IF(o.period = 'P0', li.quantity, 0)) AS st_p0, SUM(IF(o.period = 'P1', li.quantity, 0)) AS st_p1,
+       ROUND(SUM(IF(o.period = 'P1', li.discounted_total, 0)) - SUM(IF(o.period = 'P0', li.discounted_total, 0))) AS forandring
+FROM o JOIN `gorilla-sports-data.shopify.order_line_items` li ON li.order_id = o.id
+GROUP BY 1, 2 ORDER BY ABS(forandring) DESC LIMIT 25; -- at [58:1]
++---------+----------------------------------------------------------+-------+-------+------------+
+| marknad |                          title                           | st_p0 | st_p1 | forandring |
++---------+----------------------------------------------------------+-------+-------+------------+
+| DK      | Kombinerad Chinsstång och Dipsställning Vägg             |    26 |     1 |     -48035 |
+| SE      | Rygglyftsbänk Hyperextension Hopfällbar                  |    26 |    11 |     -27935 |
+| SE      | Multibänk Med Skivstångsställningsstativ 100kg           |     0 |     3 |      27157 |
+| SE      | Multigym BASIC Black 100kg Viktpaket Lats Gymgolv        |     2 |     0 |     -21438 |
+| SE      | Multigym MAXXUS 6.0                                      |     0 |     1 |      19099 |
+| SE      | Bänkpress BLACK Skivstång Curlstång Hantelset Golv 100kg |     3 |     0 |     -18867 |
+| SE      | AirBike MAXXUS Pro                                       |     2 |     0 |     -17598 |
+| SE      | Träningsgolv Gymgolv Gymmatta 100x100x2cm                |     0 |     9 |      16011 |
+| SE      | Skivstångsställnings-stativ GS                           |    11 |     3 |     -15164 |
+| SE      | Träningsbänk 200 Hopfällbar Ställbar                     |    12 |     4 |     -14573 |
+| DK      | Ryggresning MAXXUS Hyperextension                        |    17 |    10 |     -14521 |
+| DK      | Kettlebell GS Svart 2-20kg                               |    29 |     2 |     -13846 |
+| SE      | Kettlebell Fitness 2-20kg                                |    35 |     7 |     -13042 |
+| DK      | Hexagonhantlar PREMIUM 2-50kg                            |    24 |     6 |     -12232 |
+| DK      | Multigym GUMMI 108kg                                     |     1 |     0 |     -12082 |
+| SE      | Kombinerad Chinsstång och Dipsställning Vägg             |     6 |     0 |     -12054 |
+| DK      | Bänkpress PRO Skivstång Curlstång Hantelset 100kg        |     2 |     0 |     -11970 |
+| SE      | Bänkpress 2.0 BLACK Skivstång Hantlar 70kg               |     2 |     0 |     -11138 |
+| SE      | Multigym TRIGRIP 100kg - Viktpaket, Lats, Gymgolv        |     0 |     1 |      10719 |
+| SE      | Kettlebell GS Vinyl 2-32kg                               |    27 |    16 |     -10679 |
+| SE      | Skivstång Curlstång Hantlar Trigrip PRO 100kg            |     3 |     0 |     -10497 |
+| SE      | Viktskivor PRO 31mm Trigrip 1,25-15kg                    |    94 |    48 |     -10467 |
+| SE      | Soft Plyo Box 15-60cm                                    |     0 |     4 |      10116 |
+| SE      | Träningsbänk 400 Justerbar Ställbar                      |     6 |     2 |     -10076 |
+| SE      | Bänkpress WHITE Skivstång Hantlar 70kg                   |     2 |     0 |      -9958 |
++---------+----------------------------------------------------------+-------+-------+------------+
+SELECT hostname,
+       CASE WHEN d BETWEEN p1_start AND p1_end THEN 'P1'
+            WHEN d BETWEEN p0_start AND p0_end THEN 'P0'
+            WHEN d BETWEEN DATE_SUB(p1_start, INTERVAL 1 YEAR) AND DATE_SUB(p1_end, INTERVAL 1 YEAR) THEN 'P1 i fjol'
+            WHEN d BETWEEN DATE_SUB(p0_start, INTERVAL 1 YEAR) AND DATE_SUB(p0_end, INTERVAL 1 YEAR) THEN 'P0 i fjol' END AS period,
+       SUM(sessions) AS sessioner, SUM(purchases) AS kop, ROUND(SUM(revenue)) AS intakt_ga4,
+       ROUND(SAFE_DIVIDE(SUM(purchases), SUM(sessions)) * 100, 2) AS konvertering_pct,
+       MAX(d) AS senaste_dag
+FROM `gorilla-sports-data.site_audit.ga4_landing_daily_gorillasports_se`
+WHERE hostname IN ('www.gorillasports.se', 'www.gorillasports.dk')
+GROUP BY 1, 2 HAVING period IS NOT NULL ORDER BY 1, 2; -- at [65:1]
+SELECT CASE WHEN data_date BETWEEN p1_start AND p1_end THEN 'P1' ELSE 'P0' END AS period,
+       SUM(clicks) AS klick, SUM(impressions) AS visningar,
+       ROUND(SAFE_DIVIDE(SUM(clicks), SUM(impressions)) * 100, 2) AS ctr_pct
+FROM `gorilla-sports-data.site_audit.gsc_combined_gorillasports_se`
+WHERE data_date BETWEEN p0_start AND p1_end
+GROUP BY 1 ORDER BY 1; -- at [78:1]
++--------+-------+-----------+---------+
+| period | klick | visningar | ctr_pct |
++--------+-------+-----------+---------+
+| P0     |  5321 |    445085 |     1.2 |
+| P1     |  4687 |    375621 |    1.25 |
++--------+-------+-----------+---------+
