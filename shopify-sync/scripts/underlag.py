@@ -48,7 +48,7 @@ def titlar() -> str:
     rows = _bq(f"""
         WITH q AS (
           SELECT RTRIM(url, '/') AS url, query, SUM(impressions) AS impr, SUM(clicks) AS clicks,
-                 ROUND(SUM(sum_top_position) / NULLIF(SUM(impressions), 0) + 1, 1) AS pos
+                 ROUND(SUM(sum_position) / NULLIF(SUM(impressions), 0) + 1, 1) AS pos
           FROM `{PROJECT}.searchconsole.searchdata_url_impression`
           WHERE data_date >= DATE_SUB(CURRENT_DATE(), INTERVAL 90 DAY)
             AND NOT is_anonymized_query AND RTRIM(url, '/') IN ({in_list})
