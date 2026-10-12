@@ -1,0 +1,36 @@
+{
+  "permissions": {
+    "ask": [
+      "Bash(gcloud * delete *)",
+      "Bash(gcloud * remove-iam-policy-binding *)",
+      "Bash(gcloud * add-iam-policy-binding *)",
+      "Bash(gcloud run deploy *)",
+      "Bash(gcloud run jobs create *)",
+      "Bash(gcloud run jobs update *)",
+      "Bash(gcloud run jobs execute *)",
+      "Bash(gcloud scheduler *)",
+      "Bash(gcloud secrets *)",
+      "Bash(gcloud projects *)",
+      "Bash(gcloud iam *)",
+      "Bash(gcloud services *)",
+      "Bash(gcloud storage rm *)",
+      "Bash(gsutil rm *)",
+      "Bash(bq rm *)",
+      "Bash(bq update *)",
+      "Bash(bq mk *)",
+      "Bash(bq load *)",
+      "Bash(*deploy/*.sh*)",
+      "Bash(*shopify-sync run*)",
+      "Bash(*shopify-sync authorize*)",
+      "Bash(git push --force*)",
+      "Bash(git push -f*)",
+      "Bash(git reset --hard*)",
+      "Bash(rm -rf *)",
+      "Edit(shopify-sync/docs/**)",
+      "Write(shopify-sync/docs/**)",
+      "Edit(rapporter/**)",
+      "Edit(CLAUDE.md)",
+      "Write(CLAUDE.md)"
+    ]
+  }
+}
