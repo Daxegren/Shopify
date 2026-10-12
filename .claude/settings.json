@@ -30,7 +30,16 @@
       "Write(shopify-sync/docs/**)",
       "Edit(rapporter/**)",
       "Edit(CLAUDE.md)",
-      "Write(CLAUDE.md)"
+      "Write(CLAUDE.md)",
+      "Bash(shopify theme push*)",
+      "Bash(shopify theme publish*)",
+      "Bash(shopify theme delete*)",
+      "Bash(*shopify * theme push*)",
+      "Bash(*shopify * theme publish*)"
+    ],
+    "deny": [
+      "Bash(shopify theme publish*)",
+      "Bash(*shopify * theme publish*)"
     ]
   }
 }
