@@ -4,6 +4,7 @@ Den här filen fylls bara på, nya poster överst. Befintliga poster ändras ald
 
 | Datum | Fil | Vad | Varför | Beslut |
 |---|---|---|---|---|
+| 2026-10-12 | `docs/ny-sajt.md` (ny), `deploy/cloudrun.sh` | Steg-för-steg-guide för att lägga till fler sajter; synkjobbet kan köras per butik med eget dataset (`BQ_DATASET`) och egen token (`TOKEN_SECRET`). Standardvärdena är oförändrade, så gorillasports-jobbet påverkas inte | Davids fråga om att göra samma arbete på andra sajter | David (fråga 2026-10-12) |
 | 2026-10-12 | `rapporter/beslut-2026-10-12-2.md`, `rapporter/omsattning-30d-resultat-2026-10-12.txt` (nya) | Analys av omsättningen senaste 30 dagarna mot perioden innan, med rådata. GA4-hämtningen nekades (behörighet saknas), inget skrevs till BigQuery. Inget ändrat i Shopify. | Davids uppdrag 2026-10-12 | David (uppdrag 2026-10-12) |
 | 2026-10-12 | `rapporter/beslut-2026-10-12.md` (tillägg), `rapporter/redirects_import_2026-10-12.csv` (ny) | Davids beslut A–H antecknade; samlad importfil med 94 omdirigeringar (D, E och F) | Underlag för import och fortsatt arbete | David (beslut 2026-10-12) |
 | 2026-10-12 | `rapporter/beslut-2026-10-12.md` (ny) | Beslutsunderlag för arbetspasset 2026-10-12 enligt den nya regeln i `CLAUDE.md` | Krav på beslutsunderlag efter varje arbetspass | David (regel i `CLAUDE.md`) |

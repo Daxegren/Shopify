@@ -7,6 +7,10 @@
 #
 # Användning:
 #   PROJECT_ID=mitt-projekt SHOPIFY_SHOP_DOMAIN=butik.myshopify.com ./deploy/cloudrun.sh
+#
+# Fler butiker i samma projekt: ett jobb per butik, med eget dataset och egen token, t.ex.
+#   PROJECT_ID=... SHOPIFY_SHOP_DOMAIN=mankovsky.myshopify.com JOB=shopify-sync-mankovsky \
+#     BQ_DATASET=shopify_mankovsky TOKEN_SECRET=mankovsky-token ./deploy/cloudrun.sh
 set -euo pipefail
 
 : "${PROJECT_ID:?Sätt PROJECT_ID}"
@@ -18,6 +22,8 @@ BQ_LOCATION="${BQ_LOCATION:-EU}"
 SINKS="${SINKS:-bigquery}"
 SCHEDULE="${SCHEDULE:-7 * * * *}"          # minut 7 varje timme
 JOB="${JOB:-shopify-sync}"
+BQ_DATASET="${BQ_DATASET:-shopify}"
+TOKEN_SECRET="${TOKEN_SECRET:-shopify-access-token}"
 SA_NAME="${SA_NAME:-shopify-sync}"
 SA="${SA_NAME}@${PROJECT_ID}.iam.gserviceaccount.com"
 REPO="${REPO:-containers}"
@@ -65,14 +71,14 @@ add_secret() {  # env-namn, secret-namn
     SECRETS="${SECRETS:+$SECRETS,}$1=$2:latest"
   fi
 }
-add_secret SHOPIFY_ACCESS_TOKEN shopify-access-token
+add_secret SHOPIFY_ACCESS_TOKEN "$TOKEN_SECRET"
 add_secret SHOPIFY_CLIENT_ID shopify-client-id
 add_secret SHOPIFY_CLIENT_SECRET shopify-client-secret
 add_secret SUPABASE_DB_URL supabase-db-url
 [ -n "$SECRETS" ] || { echo "Inga hemligheter hittades i Secret Manager, se README."; exit 1; }
 
 echo "== Cloud Run Job"
-ENV_VARS="SHOPIFY_SHOP_DOMAIN=${SHOPIFY_SHOP_DOMAIN},SINKS=${SINKS},BQ_PROJECT=${PROJECT_ID},BQ_LOCATION=${BQ_LOCATION}"
+ENV_VARS="SHOPIFY_SHOP_DOMAIN=${SHOPIFY_SHOP_DOMAIN},SINKS=${SINKS},BQ_PROJECT=${PROJECT_ID},BQ_DATASET=${BQ_DATASET},BQ_LOCATION=${BQ_LOCATION}"
 if gcloud run jobs describe "$JOB" --region "$REGION" >/dev/null 2>&1; then
   ACTION=update
 else
