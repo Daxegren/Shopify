@@ -35,6 +35,12 @@ GA4_SCHEMA = [
     ("sessions", "INT64", "NULLABLE"), ("purchases", "INT64", "NULLABLE"), ("revenue", "FLOAT64", "NULLABLE"),
 ]
 
+GA4_CHANNEL_SCHEMA = [
+    ("d", "DATE", "REQUIRED"), ("property_id", "STRING", "NULLABLE"), ("hostname", "STRING", "NULLABLE"),
+    ("channel", "STRING", "NULLABLE"), ("source_medium", "STRING", "NULLABLE"), ("campaign", "STRING", "NULLABLE"),
+    ("sessions", "INT64", "NULLABLE"), ("purchases", "INT64", "NULLABLE"), ("revenue", "FLOAT64", "NULLABLE"),
+]
+
 
 def authorized_session(scopes: list[str]):
     import google.auth
@@ -85,29 +91,45 @@ def gsc_rows(session, site_url: str, start: date, end: date, with_query: bool = 
         d += timedelta(days=1)
 
 
-def ga4_rows(session, property_id: str, start: date, end: date, page_size: int = 100000) -> Iterator[dict[str, Any]]:
+def _ga4_report(session, property_id: str, start: date, end: date, dims: list[str],
+                page_size: int) -> Iterator[tuple[str, list[str], list[str]]]:
+    """Ger (datum, övriga dimensioner, mått) per rad. Första dimensionen är alltid date."""
     endpoint = f"https://analyticsdata.googleapis.com/v1beta/properties/{property_id}:runReport"
     offset = 0
     while True:
         body = {
             "dateRanges": [{"startDate": start.isoformat(), "endDate": end.isoformat()}],
-            # hostName skiljer domäner åt när flera sajter delar GA4-egendom (.se/.dk)
-            "dimensions": [{"name": "date"}, {"name": "hostName"}, {"name": "landingPage"}],
+            "dimensions": [{"name": n} for n in ["date", *dims]],
             "metrics": [{"name": "sessions"}, {"name": "ecommercePurchases"}, {"name": "purchaseRevenue"}],
             "limit": page_size, "offset": offset, "keepEmptyRows": False,
         }
         data = _post(session, endpoint, body)
         rows = data.get("rows", [])
         for r in rows:
-            dv, mv = r["dimensionValues"], r["metricValues"]
-            ds = dv[0]["value"]
-            yield {"d": f"{ds[:4]}-{ds[4:6]}-{ds[6:]}", "property_id": property_id,
-                   "hostname": dv[1]["value"].lower(), "landing": dv[2]["value"],
-                   "sessions": int(float(mv[0]["value"])), "purchases": int(float(mv[1]["value"])),
-                   "revenue": float(mv[2]["value"])}
+            dv = [v["value"] for v in r["dimensionValues"]]
+            ds = dv[0]
+            yield f"{ds[:4]}-{ds[4:6]}-{ds[6:]}", dv[1:], [v["value"] for v in r["metricValues"]]
         offset += len(rows)
         if not rows or offset >= int(data.get("rowCount", 0)):
             break
+
+
+def _ga4_metrics(mv: list[str]) -> dict[str, Any]:
+    return {"sessions": int(float(mv[0])), "purchases": int(float(mv[1])), "revenue": float(mv[2])}
+
+
+def ga4_rows(session, property_id: str, start: date, end: date, page_size: int = 100000) -> Iterator[dict[str, Any]]:
+    # hostName skiljer domäner åt när flera sajter delar GA4-egendom (.se/.dk)
+    for d, (host, landing), mv in _ga4_report(session, property_id, start, end, ["hostName", "landingPage"], page_size):
+        yield {"d": d, "property_id": property_id, "hostname": host.lower(), "landing": landing, **_ga4_metrics(mv)}
+
+
+def ga4_channel_rows(session, property_id: str, start: date, end: date, page_size: int = 100000) -> Iterator[dict[str, Any]]:
+    """Besök, köp och intäkt per dag, domän och kanal (GA4:s standardgruppering), källa/medium och kampanj."""
+    dims = ["hostName", "sessionDefaultChannelGroup", "sessionSourceMedium", "sessionCampaignName"]
+    for d, (host, channel, sm, campaign), mv in _ga4_report(session, property_id, start, end, dims, page_size):
+        yield {"d": d, "property_id": property_id, "hostname": host.lower(), "channel": channel,
+               "source_medium": sm, "campaign": campaign, **_ga4_metrics(mv)}
 
 
 def load_rows(store, table: str, schema, rows: Iterator[dict[str, Any]], replace_range: tuple[str, date, date] | None = None,

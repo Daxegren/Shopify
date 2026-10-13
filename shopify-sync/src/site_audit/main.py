@@ -170,8 +170,14 @@ def cmd_backfill(args) -> int:
         if not site.ga4_property_id:
             raise ConfigError("ga4_property_id saknas i konfigurationen.")
         session = g.authorized_session([g.GA4_SCOPE])
-        table = args.table or f"ga4_landing_daily_{site.name.replace('-', '_')}"
-        n = g.load_rows(store, table, g.GA4_SCHEMA, g.ga4_rows(session, site.ga4_property_id, start, end), ("d", start, end))
+        slug = site.name.replace("-", "_")
+        if args.source == "ga4-kanal":
+            table = args.table or f"ga4_channel_daily_{slug}"
+            rows, schema = g.ga4_channel_rows(session, site.ga4_property_id, start, end), g.GA4_CHANNEL_SCHEMA
+        else:
+            table = args.table or f"ga4_landing_daily_{slug}"
+            rows, schema = g.ga4_rows(session, site.ga4_property_id, start, end), g.GA4_SCHEMA
+        n = g.load_rows(store, table, schema, rows, ("d", start, end))
     print(f"{n} rader laddade till {store.dataset}.{table} ({start} – {end})")
     return 0
 
@@ -238,7 +244,7 @@ def main(argv: list[str] | None = None) -> int:
     t.set_defaults(func=cmd_trend)
 
     b = sub.add_parser("backfill", help="Hämta historik via Search Console API eller GA4 Data API")
-    b.add_argument("source", choices=["gsc", "ga4"])
+    b.add_argument("source", choices=["gsc", "ga4", "ga4-kanal"], help="ga4-kanal: besök och köp per kanal")
     b.add_argument("--site", required=True)
     b.add_argument("--days", type=int, default=480, help="Antal dagar bakåt (GSC max ca 16 mån)")
     b.add_argument("--since", help="Startdatum i stället för --days")
