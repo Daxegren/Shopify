@@ -1,0 +1,44 @@
+Annonsdata för Gorilla Sports, läst ur Cockpit X (Gorilla Sports är testkund där). Bara läsfrågor (Lovable query_database), 2026-10-14.
+Konton: Google Ads "Gorilla Sports SE" (8331390722, SEK), "Gorillasports DK" (5836710921, DKK); Meta "Gorilla Sports Sweden" (act_1448542818538699, SEK), "Gorilla Sports Denmark" (act_1658223790903933, DKK). Data från 2026-06-28/07-02, senaste synk 2026-10-14 03:00.
+P0 = 2026-08-13–09-11, P1 = 2026-09-12–10-11. Belopp i kontots valuta. Konverteringsvärde = plattformens egen tillskrivning (överlappar mellan Google och Meta, är inte Shopify-omsättning).
+
+1. Per kanal och marknad
+källa       land per  kostnad  klick  visningar konv  konv_värde  ROAS  CPC
+Google Ads  DK   P0    54 519   8 211   532 363  209   266 562   4,89  6,64
+Google Ads  DK   P1    31 685   5 193   296 857  102   115 717   3,65  6,10
+Google Ads  SE   P0   109 519  11 673   899 303  288   632 017   5,77  9,38
+Google Ads  SE   P1    76 596   8 873   675 830  165   299 477   3,91  8,63
+Meta        DK   P0    25 258   9 592   341 961  128   149 832   5,93  2,63
+Meta        DK   P1    25 586   8 595   323 986   82    85 774   3,35  2,98
+Meta        SE   P0    56 975  14 193   769 904  122   238 871   4,19  4,01
+Meta        SE   P1    57 689  12 322   772 305  103   202 455   3,51  4,68
+
+2. Google Ads per kampanj (största förändringar i kostnad)
+land kampanj                                         typ    kost_p0 kost_p1 klick_p0 klick_p1 värde_p0 värde_p1
+SE   RUDE: Performance Max                           PMAX    94 990  63 956  10 546   7 883  553 584  239 367
+DK   RUDE: Performance Max - Denmark - All Products  PMAX    43 568  24 273   6 314   3 774  221 086   69 561
+DK   Finch Gorilla Sports Search DK (June 2022)      SEARCH  10 950   7 412   1 897   1 419   45 477   46 156
+SE   Search Brand Exact                              SEARCH   4 744   3 317     602     450   48 497   50 335
+SE   Search Brand - Mixed                            SEARCH   8 302   7 852     372     369   28 657    8 267
+SE   Rude: Search Non-Brand                          SEARCH   1 483   1 471     153     171    1 279    1 508
+Inställningar i dag (synk 2026-10-14): SE PMax dagsbudget 13 565 kr, mål-ROAS 4,55, status LIMITED. DK PMax dagsbudget 2 500 kr, mål-ROAS 5, status LIMITED. Budstrategi: maximera konverteringsvärde. Ändringshistorik finns inte i datan.
+
+3. Google Ads per produkt (största förändringar i konverteringsvärde)
+land titel                                                kl_p0 kl_p1 kost_p0 kost_p1 värde_p0 värde_p1
+SE   Hemmagympaketet – Budget                              497   345   6 575   4 604   31 636      534
+SE   Kettlebellpaket GS Svart 17-30kg                       90    19     513     100   23 276        0
+SE   Multigym MAXXUS 6.0                                     5     4      32     133        0   21 077
+SE   Fot och handledsvikt Paket 10kg                       258   107   1 978     720   15 342    1 796
+DK   Kombineret Pull Up Chins Dip Station Væg              445    27   1 763     113   13 953      732
+SE   Viktskivor PRO 31mm Trigrip 1,25-15kg                  28    22     257     197   11 926        0
+SE   Hemmaträningspaket - Mellan                            27    15     612     112   11 664        0
+SE   Curlstång Hantlar PRO Trigrip 70kg                     14     7     185     234   12 319      972
+DK   Hyperextension MAXXUS Bænk                            243   186   2 397   1 782   17 358    6 215
+SE   Soft Plyo Box Set 150cm                                 5     3     233      98   10 924        0
+SE   Styrketräningspaket - 60kg                            108    29   2 124     467   10 462        0
+SE   Curlstång PRO Trigrip 25kg                             87    86     699     844   10 951    1 799
+
+4. Vecka för vecka (måndag, kostnad / klick / konverteringsvärde) – se frågan i loggen; sammanfattning:
+Google SE kostnad per vecka: 35,8k (v. 3 aug) → 34,1k → 28,2k → 27,0k → 23,3k → 17,6k (v. 7 sep) → 17,6k → 15,4k → 16,3k → 21,2k (v. 5 okt).
+Google DK kostnad per vecka: 15,1k (v. 3 aug) → 14,1k → 12,7k → 12,0k → 14,8k → 10,7k (v. 7 sep) → 7,2k → 6,5k → 9,4k → 5,3k.
+Meta SE och DK: kostnad jämn (SE ca 13,4k, DK ca 5,9k per vecka), konverteringsvärdet faller från september (DK 48,9k v. 31 aug → 10,6k v. 5 okt).
