@@ -6,9 +6,9 @@ andra produkters kod. Samma mönster som google_api.py: en funktion per källa s
 
 Behörighet:
 - Google Ads: tjänstkontot (Application Default Credentials, omfång adwords) läggs till som
-  användare i varje Google Ads-konto, och utvecklartoken ligger i en hemlighet
-  (env GOOGLE_ADS_DEVELOPER_TOKEN). Går kontona via en hanterarkonto (MCC) anges dess id som
-  login-customer-id.
+  användare i hanterarkontot (MCC) eller i varje Google Ads-konto, och Google Ads API aktiveras i Cloud-projektet.
+  Utvecklartoken är valfri (env GOOGLE_ADS_DEVELOPER_TOKEN, skickas om den finns). Går kontona via en
+  hanterarkonto anges dess id som login-customer-id.
 - Meta: en systemanvändartoken med läsrätt (ads_read) ligger i en hemlighet (env META_ACCESS_TOKEN).
   Token skickas i huvudet Authorization och hamnar aldrig i en URL eller i loggen.
 
@@ -72,12 +72,16 @@ def _sleep_retry(attempt: int) -> None:
 
 # ---------------------------------------------------------------- Google Ads
 
-def google_ads_session(developer_token: str, login_customer_id: str | None = None):
-    """Session med tjänstkontots inloggning och Google Ads-huvudena. Hemligheter hålls i huvudena."""
+def google_ads_session(developer_token: str | None = None, login_customer_id: str | None = None):
+    """Session med tjänstkontots inloggning och Google Ads-huvudena. Hemligheter hålls i huvudena.
+
+    Utvecklartoken är valfri: Google meddelade 2026 att den inte längre krävs för att använda API:et (åtkomstnivåer
+    hanteras i Google Cloud Console). Finns en token skickas den ändå med."""
     from .google_api import authorized_session
 
     session = authorized_session([GOOGLE_ADS_SCOPE])
-    session.headers["developer-token"] = developer_token
+    if developer_token:
+        session.headers["developer-token"] = developer_token
     if login_customer_id:
         session.headers["login-customer-id"] = _digits(login_customer_id)
     return session

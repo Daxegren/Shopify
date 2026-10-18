@@ -35,6 +35,8 @@ Konverteringsvärdet i annonstabellerna är plattformarnas egen tillskrivning. G
 ## Behörigheter som David ordnar (aldrig i chatten)
 
 1. **Google Ads:** lägg tjänstkontot `shopify-sync@<projekt>.iam.gserviceaccount.com` som användare med läsrätt i båda Google Ads-kontona (SE och DK). Skaffa en utvecklartoken (kräver ansökan hos Google om den inte finns) och lägg den som hemligheten `google-ads-developer-token`. Går kontona via en hanterarkonto (MCC), ange dess id som `google_ads_login_customer_id` i `sites.toml`.
+
+*Inaktuellt sedan 2026-10-18, se ändringsloggen: Google har tagit bort kravet på utvecklartoken för Google Ads API (meddelande i API-center). Token är nu valfri, och åtkomstnivåer hanteras i Google Cloud Console. Tjänstkontot behöver åtkomst till hanterarkontot, och Google Ads API måste vara aktiverat i Cloud-projektet.*
 2. **Meta:** skapa en systemanvändare i Meta Business Manager med läsrätt (`ads_read`) till de två annonskontona och lägg dess token som hemligheten `meta-access-token`. Systemanvändartoken går inte ut, till skillnad från en personlig token.
 3. **Google Cloud:** `deploy/data_refresh_job.sh` skapar jobbet `data-refresh` (05:30 varje morgon). Hemligheterna kopplas om de finns.
 

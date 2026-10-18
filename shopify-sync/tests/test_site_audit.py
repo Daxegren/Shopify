@@ -656,3 +656,16 @@ def test_portfolio_draft_parses_and_has_one_view_owner_per_store():
         owners = [m for m in members if m.growth_views]
         assert len(owners) == 1, f"{key}: exakt en sajt per butik ska äga vyerna"
         assert owners[0].hostname_markets, f"{key}: hostname_markets saknas"
+
+
+def test_google_ads_developer_token_is_optional(monkeypatch):
+    from site_audit import ads_api as a
+
+    class Fake:
+        def __init__(self):
+            self.headers = {}
+
+    monkeypatch.setattr("site_audit.google_api.authorized_session", lambda scopes: Fake())
+    assert "developer-token" not in a.google_ads_session(None, "234-712-0945").headers
+    h = a.google_ads_session("tok", "234-712-0945").headers
+    assert h["developer-token"] == "tok" and h["login-customer-id"] == "2347120945"

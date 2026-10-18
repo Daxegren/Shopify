@@ -181,9 +181,7 @@ def fetch_source(site: SiteConfig, store, source: str, start: date, end: date, q
     if source in ("google-ads", "google-ads-produkter"):
         if not site.google_ads_customer_ids:
             raise ConfigError("google_ads_customer_ids saknas i konfigurationen.")
-        token = os.environ.get(site.google_ads_developer_token_env)
-        if not token:
-            raise ConfigError(f"Utvecklartoken saknas: sätt miljövariabeln {site.google_ads_developer_token_env} (hemlighet).")
+        token = os.environ.get(site.google_ads_developer_token_env)  # valfri sedan Google tog bort kravet
         session = a.google_ads_session(token, site.google_ads_login_customer_id)
         per_account = a.google_ads_product_rows if source == "google-ads-produkter" else a.google_ads_campaign_rows
         schema = a.GOOGLE_ADS_PRODUCT_SCHEMA if source == "google-ads-produkter" else a.GOOGLE_ADS_SCHEMA

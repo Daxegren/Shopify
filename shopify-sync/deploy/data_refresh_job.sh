@@ -32,7 +32,7 @@ for pair in "${PAIRS[@]}"; do
   if gcloud secrets describe "$secret" >/dev/null 2>&1; then
     SECRETS="${SECRETS:+$SECRETS,}${pair%%=*}=${secret}:latest"
   else
-    echo "Varning: hemligheten '$secret' finns inte än. Källan som behöver den rapporteras som misslyckad tills den läggs in."
+    echo "Varning: hemligheten '$secret' finns inte än. Meta-hämtningen kräver sin token och rapporteras som misslyckad tills den läggs in. Utvecklartoken för Google Ads är valfri."
   fi
 done
 
