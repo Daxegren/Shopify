@@ -89,6 +89,22 @@ class SiteConfig:
     gsc_property: str | None = None   # t.ex. "sc-domain:gorillasports.se" (för API-hämtning)
     ga4_property_id: str | None = None  # t.ex. "123456789" (för API-hämtning)
     ga4_api_table: str | None = None  # t.ex. "proj.site_audit.ga4_landing_daily"
+    # Annonser. Konto-id:n är inga hemligheter; utvecklartoken och Meta-token läses från miljön.
+    google_ads_customer_ids: list[str] = field(default_factory=list)  # t.ex. ["8331390722", "5836710921"]
+    google_ads_login_customer_id: str | None = None  # hanterarkonto (MCC), om kontona nås via ett sådant
+    google_ads_developer_token_env: str = "GOOGLE_ADS_DEVELOPER_TOKEN"
+    google_ads_api_version: str = "v21"  # kontrollera mot Googles versionsplan; äldre versioner stängs av
+    meta_ad_account_ids: list[str] = field(default_factory=list)  # t.ex. ["act_1448542818538699"]
+    meta_token_env: str = "META_ACCESS_TOKEN"
+    meta_api_version: str = "v23.0"
+    # Flera sajter och marknader. GA4-, annons- och Shopify-data hör till butiken, inte till domänen: en butik med
+    # flera domäner (.se, .dk, .fi) har en uppsättning tabeller. Sajten som har growth_views = true äger butikens vyer.
+    data_key: str | None = None  # tabellsuffix för GA4 och annonser (standard: sajtens namn), t.ex. "bestofsports"
+    growth_views: bool = False  # ta med butiken i `site-audit growth-sql` (sätt på en sajt per butik)
+    company: str | None = None  # bolaget som äger butiken; styr vilka butiker som får jämföras på kundnivå
+    vertical: str | None = None  # bransch, t.ex. "traning", "husdjur"; jämförelser görs främst inom en bransch
+    hostname_markets: dict[str, str] = field(default_factory=dict)  # GA4-värdnamn -> marknad, t.ex. {"www.x.dk": "DK"}
+    currency_markets: dict[str, str] = field(default_factory=lambda: {"SEK": "SE", "DKK": "DK", "NOK": "NO", "EUR": "FI"})
 
     @property
     def host(self) -> str:
@@ -98,6 +114,15 @@ class SiteConfig:
 
     def shopify_token(self) -> str | None:
         return os.environ.get(self.shopify_token_env)
+
+    @property
+    def slug(self) -> str:
+        return self.name.replace("-", "_")
+
+    @property
+    def table_key(self) -> str:
+        """Suffix för tabeller som hör till butiken (GA4, annonser). Search Console är per domän och använder slug."""
+        return (self.data_key or self.name).replace("-", "_")
 
 
 def _build(cls, data: dict[str, Any]):

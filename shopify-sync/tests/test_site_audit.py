@@ -353,6 +353,18 @@ def test_google_api_parsers():
     r = list(g.ga4_rows(Ga4Session(), "123", date(2026, 1, 1), date(2026, 1, 31)))
     assert r == [{"d": "2026-01-05", "property_id": "123", "hostname": "www.x.se", "landing": "/collections/a",
                   "sessions": 12, "purchases": 2, "revenue": 1999.5}]
+    class Ga4ChannelSession:
+        def post(self, url, json, timeout):
+            assert [d["name"] for d in json["dimensions"]][2] == "sessionDefaultChannelGroup"
+            return Resp({"rowCount": 1, "rows": [{"dimensionValues": [{"value": "20260105"}, {"value": "www.X.se"},
+                                                                     {"value": "Paid Search"}, {"value": "google / cpc"},
+                                                                     {"value": "Shopping SE"}],
+                                                   "metricValues": [{"value": "40"}, {"value": "1"}, {"value": "899"}]}]})
+
+    r = list(g.ga4_channel_rows(Ga4ChannelSession(), "123", date(2026, 1, 1), date(2026, 1, 31)))
+    assert r == [{"d": "2026-01-05", "property_id": "123", "hostname": "www.x.se", "channel": "Paid Search",
+                  "source_medium": "google / cpc", "campaign": "Shopping SE", "sessions": 40, "purchases": 1, "revenue": 899.0}]
+    assert [n for n, _, _ in g.GA4_CHANNEL_SCHEMA] == list(r[0])
     assert "@pattern" in g.ga4_api_window_sql("p.d.t") and "@host" in g.ga4_api_window_sql("p.d.t")
     assert "@currency" in shopify_window_sql("p.shopify") and "@host" in ga4_window_sql("p.analytics_1")
 
@@ -497,3 +509,163 @@ def test_unsure_redirects_go_to_review(tmp_path):
     write_action_files(fs, CR(), tmp_path)
     rows = list(csv.reader(open(tmp_path / "redirects_review.csv")))
     assert {r[0] for r in rows[1:]} == {"/battle-rope-10m/p/728", "/boksepakke-profi/p/1129"}
+
+
+def test_ads_parsers():
+    from datetime import date
+
+    from site_audit import ads_api as a
+
+    class Resp:
+        def __init__(self, data, code=200):
+            self.data, self.status_code, self.text = data, code, ""
+
+        def json(self):
+            return self.data
+
+    class GoogleSession:
+        def __init__(self):
+            self.calls = []
+
+        def post(self, url, json, timeout):
+            self.calls.append((url, json))
+            return Resp([{"results": [{"segments": {"date": "2026-10-01"}, "campaign": {"id": "7", "name": "PMax", "advertisingChannelType": "PERFORMANCE_MAX"},
+                                       "customer": {"currencyCode": "SEK"},
+                                       "metrics": {"costMicros": "12500000", "impressions": "100", "clicks": "5", "conversions": 1.5, "conversionsValue": 1999.0}}]},
+                         {"results": []}])
+
+    gs = GoogleSession()
+    rows = list(a.google_ads_campaign_rows(gs, "833-139-0722", date(2026, 10, 1), date(2026, 10, 1), "v21"))
+    assert rows == [{"d": "2026-10-01", "customer_id": "8331390722", "campaign_id": "7", "campaign_name": "PMax",
+                     "channel_type": "PERFORMANCE_MAX", "currency": "SEK", "cost": 12.5, "impressions": 100, "clicks": 5,
+                     "conversions": 1.5, "conversions_value": 1999.0}]
+    assert "customers/8331390722/googleAds:searchStream" in gs.calls[0][0] and "BETWEEN '2026-10-01'" in gs.calls[0][1]["query"]
+    assert [n for n, _, _ in a.GOOGLE_ADS_SCHEMA] == list(rows[0])
+
+    class ProductSession(GoogleSession):
+        def post(self, url, json, timeout):
+            return Resp([{"results": [{"segments": {"date": "2026-10-01", "productItemId": "SKU1", "productTitle": "Kettlebell", "productBrand": "GS"},
+                                       "customer": {"currencyCode": "DKK"}, "metrics": {"costMicros": "1000000"}}]}])
+
+    prod = list(a.google_ads_product_rows(ProductSession(), "1", date(2026, 10, 1), date(2026, 10, 1)))
+    assert prod[0]["item_id"] == "SKU1" and prod[0]["cost"] == 1.0 and prod[0]["clicks"] == 0
+    assert [n for n, _, _ in a.GOOGLE_ADS_PRODUCT_SCHEMA] == list(prod[0])
+
+    class MetaSession:
+        def __init__(self):
+            self.urls = []
+
+        def get(self, url, params, timeout):
+            self.urls.append((url, params))
+            if len(self.urls) == 1:
+                return Resp({"data": [{"date_start": "2026-10-01", "campaign_id": "9", "campaign_name": "Retarget", "account_currency": "DKK",
+                                       "spend": "100.5", "impressions": "1000", "reach": "800", "clicks": "20",
+                                       "actions": [{"action_type": "omni_purchase", "value": "3"}, {"action_type": "purchase", "value": "3"},
+                                                   {"action_type": "link_click", "value": "20"}],
+                                       "action_values": [{"action_type": "omni_purchase", "value": "4500"}, {"action_type": "purchase", "value": "4500"}]}],
+                             "paging": {"next": "https://graph.facebook.com/next-page"}})
+            return Resp({"data": [{"date_start": "2026-10-02", "campaign_id": "9", "campaign_name": "Retarget", "account_currency": "DKK",
+                                   "spend": "0", "impressions": "0", "reach": "0", "clicks": "0"}]})
+
+    ms = MetaSession()
+    meta = list(a.meta_ads_rows(ms, "act_123", date(2026, 10, 1), date(2026, 10, 2)))
+    assert [m["d"] for m in meta] == ["2026-10-01", "2026-10-02"]
+    assert meta[0]["purchases"] == 3.0 and meta[0]["purchase_value"] == 4500.0  # omni_purchase och purchase räknas inte dubbelt
+    assert meta[0]["account_id"] == "123" and meta[1]["purchases"] == 0.0
+    assert ms.urls[0][0].endswith("/act_123/insights") and ms.urls[1] == ("https://graph.facebook.com/next-page", None)
+    assert "access_token" not in ms.urls[0][1]  # token ligger i huvudet, aldrig i URL:en
+    assert [n for n, _, _ in a.META_ADS_SCHEMA] == list(meta[0])
+
+
+def test_refresh_skips_unconfigured_and_continues_after_failure(monkeypatch, capsys, tmp_path):
+    from site_audit import main as m
+    from site_audit.config import site_from_dict
+
+    site = site_from_dict({"name": "x-se", "base_url": "https://x.se", "bq_project": "p", "ga4_property_id": "1",
+                           "meta_ad_account_ids": ["act_1"]})
+    calls = []
+
+    def fake_fetch(site_, store, source, start, end, **kw):
+        calls.append((source, (end - start).days + 1))
+        if source == "ga4":
+            raise RuntimeError("nekad")
+        return 5, f"t_{source}"
+
+    monkeypatch.setattr(m, "fetch_source", fake_fetch)
+    monkeypatch.setattr(m, "_site", lambda args: site)
+    monkeypatch.setattr(m, "_store", lambda s: type("S", (), {"dataset": "site_audit"})())
+    args = type("A", (), {"site": "x-se", "days": 30, "source": None})()
+    assert m.cmd_refresh(args) == 1  # ga4 misslyckades, men de andra kördes
+    out = capsys.readouterr().out
+    assert "ga4: MISSLYCKADES" in out and "google-ads: hoppas över" in out and "meta-ads: 5 rader" in out
+    assert ("ga4-kanal", 30) in calls and ("meta-ads", 30) in calls and not any(c[0].startswith("google-ads") for c in calls)
+
+
+def test_growth_sql_per_store_and_portfolio():
+    from site_audit.config import site_from_dict
+    from site_audit.growth_sql import growth_sql
+
+    common = {"bq_project": "proj-a", "ga4_property_id": "1", "shopify_dataset": "proj-a.shopify", "growth_views": True}
+    sites = {
+        "g-se": site_from_dict({"name": "g-se", "base_url": "https://g.se", **common, "google_ads_customer_ids": ["1"],
+                                "meta_ad_account_ids": ["act_2"], "vertical": "traning",
+                                "hostname_markets": {"www.g.se": "SE", "www.g.dk": "DK"}}),
+        "g-dk": site_from_dict({"name": "g-dk", "base_url": "https://g.dk", "bq_project": "proj-a", "ga4_property_id": "1"}),
+        "bos-se": site_from_dict({"name": "bos-se", "base_url": "https://bos.se", **common, "data_key": "bestofsports",
+                                  "company": "Annat AB", "currency_markets": {"SEK": "SE", "DKK": "DK", "EUR": "FI"}}),
+    }
+    sql = growth_sql(sites)
+    assert sql.count("CREATE OR REPLACE VIEW `proj-a.site_audit.growth_daily_") == 2  # g-dk har inte growth_views
+    assert "growth_daily_g_se" in sql and "growth_daily_bestofsports" in sql and "growth_daily_g_dk" not in sql
+    assert "`proj-a.site_audit.google_ads_daily_g_se`" in sql and "`proj-a.site_audit.meta_ads_daily_g_se`" in sql
+    # butiken utan annonser får inget annonsunderlag men fungerar ändå
+    bos = sql[sql.index("-- Butik: bos-se"):sql.index("CREATE SCHEMA")]
+    assert "growth_ads_daily_bestofsports" not in bos and "CAST(NULL AS FLOAT64) AS google_cost" in bos
+    assert "ENDS_WITH(hostname, '.se')" in bos and "CASE hostname WHEN 'www.g.se' THEN 'SE'" in sql
+    assert "'Annat AB' AS company" in sql and "WHEN 'FI' THEN 'EUR'" in sql
+    assert "portfolio_daily" in sql and "portfolio_weekly" in sql
+
+    import pytest
+
+    with pytest.raises(ValueError):
+        growth_sql({"x": site_from_dict({"name": "x", "base_url": "https://x.se", "bq_project": "p"})})
+    sqlglot = pytest.importorskip("sqlglot")
+    assert len(sqlglot.parse(sql, read="bigquery")) >= 7  # fler vyer och schemat, utan syntaxfel
+
+
+def test_table_key_separates_store_tables_from_domain_tables():
+    from site_audit.config import site_from_dict
+
+    s = site_from_dict({"name": "bos-fi", "base_url": "https://bos.fi", "data_key": "best-of-sports"})
+    assert s.table_key == "best_of_sports" and s.slug == "bos_fi"  # GA4/annonser per butik, Search Console per domän
+    assert site_from_dict({"name": "g-se", "base_url": "https://g.se"}).table_key == "g_se"
+
+
+def test_portfolio_draft_parses_and_has_one_view_owner_per_store():
+    from pathlib import Path
+
+    from site_audit.config import load_sites
+
+    sites = load_sites(Path(__file__).resolve().parents[1] / "sites.portfolio.draft.toml")
+    stores = {}
+    for s in sites.values():
+        stores.setdefault(s.table_key, []).append(s)
+    assert len(stores) == 7  # utkastet: 7 butiker (Gorilla ligger redan i sites.toml, totalt 8 butiker och 13 domäner)
+    assert len(sites) == 11
+    for key, members in stores.items():
+        owners = [m for m in members if m.growth_views]
+        assert len(owners) == 1, f"{key}: exakt en sajt per butik ska äga vyerna"
+        assert owners[0].hostname_markets, f"{key}: hostname_markets saknas"
+
+
+def test_google_ads_developer_token_is_optional(monkeypatch):
+    from site_audit import ads_api as a
+
+    class Fake:
+        def __init__(self):
+            self.headers = {}
+
+    monkeypatch.setattr("site_audit.google_api.authorized_session", lambda scopes: Fake())
+    assert "developer-token" not in a.google_ads_session(None, "234-712-0945").headers
+    h = a.google_ads_session("tok", "234-712-0945").headers
+    assert h["developer-token"] == "tok" and h["login-customer-id"] == "2347120945"
