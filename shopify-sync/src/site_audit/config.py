@@ -97,6 +97,12 @@ class SiteConfig:
     meta_ad_account_ids: list[str] = field(default_factory=list)  # t.ex. ["act_1448542818538699"]
     meta_token_env: str = "META_ACCESS_TOKEN"
     meta_api_version: str = "v23.0"
+    # Merchant Center (produktstatus) och Klaviyo (e-post). Konto-id och revision är inga hemligheter; nyckeln läses från miljön.
+    merchant_account_id: str | None = None
+    merchant_api_version: str = "v1"
+    klaviyo_enabled: bool = False
+    klaviyo_api_key_env: str = "KLAVIYO_API_KEY"
+    klaviyo_revision: str = "2025-10-15"
     # Flera sajter och marknader. GA4-, annons- och Shopify-data hör till butiken, inte till domänen: en butik med
     # flera domäner (.se, .dk, .fi) har en uppsättning tabeller. Sajten som har growth_views = true äger butikens vyer.
     data_key: str | None = None  # tabellsuffix för GA4 och annonser (standard: sajtens namn), t.ex. "bestofsports"

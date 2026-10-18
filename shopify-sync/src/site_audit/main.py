@@ -16,7 +16,7 @@ import json
 import logging
 import os
 import sys
-from datetime import date
+from datetime import date, timedelta
 from pathlib import Path
 
 from .config import ConfigError, SiteConfig, load_sites
@@ -169,7 +169,7 @@ def cmd_trend(args) -> int:
     return 0
 
 
-SOURCES = ("gsc", "ga4", "ga4-kanal", "google-ads", "google-ads-produkter", "meta-ads", "lager")
+SOURCES = ("gsc", "ga4", "ga4-kanal", "google-ads", "google-ads-produkter", "meta-ads", "lager", "merchant", "klaviyo")
 
 
 def fetch_source(site: SiteConfig, store, source: str, start: date, end: date, queries: bool = False,
@@ -219,6 +219,24 @@ def fetch_source(site: SiteConfig, store, source: str, start: date, end: date, q
         rows = (r for acct in site.meta_ad_account_ids
                 for r in a.meta_ads_rows(session, acct, start, end, site.meta_api_version))
         return g.load_rows(store, table, a.META_ADS_SCHEMA, rows, ("d", start, end)), table
+    if source == "merchant":
+        if not site.merchant_account_id:
+            raise ConfigError("merchant_account_id saknas i konfigurationen.")
+        from . import merchant_api as m
+
+        today = date.today()  # ögonblicksbild: dagens rader ersätts
+        table = table or f"merchant_products_{key}"
+        rows = m.merchant_product_rows(m.merchant_session(), site.merchant_account_id, today, site.merchant_api_version)
+        return g.load_rows(store, table, m.MERCHANT_SCHEMA, rows, ("d", today, today)), table
+    if source == "klaviyo":
+        from . import klaviyo_api as k
+
+        api_key = os.environ.get(site.klaviyo_api_key_env)
+        if not site.klaviyo_enabled or not api_key:
+            raise ConfigError(f"Klaviyo är inte påslaget eller nyckeln saknas (miljövariabeln {site.klaviyo_api_key_env}).")
+        table = table or f"klaviyo_daily_{key}"
+        rows = k.klaviyo_order_rows(k.klaviyo_session(api_key, site.klaviyo_revision), start, end)
+        return g.load_rows(store, table, k.KLAVIYO_SCHEMA, rows, ("d", start, end)), table
     if source == "lager":
         if not site.shopify_dataset:
             raise ConfigError("shopify_dataset saknas i konfigurationen.")
@@ -284,7 +302,8 @@ def cmd_refresh(args) -> int:
             continue  # Search Console fylls av massexporten; historiken hämtas med backfill
         configured = {"ga4": site.ga4_property_id, "ga4-kanal": site.ga4_property_id,
                       "google-ads": site.google_ads_customer_ids, "google-ads-produkter": site.google_ads_customer_ids,
-                      "meta-ads": site.meta_ad_account_ids, "lager": site.shopify_dataset}.get(source)
+                      "meta-ads": site.meta_ad_account_ids, "lager": site.shopify_dataset,
+                      "merchant": site.merchant_account_id, "klaviyo": site.klaviyo_enabled}.get(source)
         if not configured:
             print(f"{source}: hoppas över (inte konfigurerad för {site.name})")
             continue
@@ -328,6 +347,67 @@ def cmd_weekly(args) -> int:
     if args.upload:
         print("Laddade upp " + upload_report(report.markdown, args.upload, site.name, day))
     return 2 if (args.fail_on_alert and report.has_high) else 0
+
+
+def cmd_check_access(args) -> int:
+    """Läser en rad från varje konfigurerad källa och visar vilka som fungerar. Ändrar ingenting."""
+    from .access_check import check_access, format_access
+
+    site = _site(args)
+    results = check_access(site, _store(site))
+    print(format_access(site.name, results))
+    return 1 if any(s == "FEL" for _, s, _ in results) else 0
+
+
+def cmd_portfolio_weekly(args) -> int:
+    """Portföljrapport: butiker och marknader mot medianen. Läser portfolio_daily."""
+    from .portfolio_report import build_portfolio_report
+
+    site = _site(args)
+    text = build_portfolio_report(_store(site), args.portfolio_project or site.bq_project, args.portfolio_dataset,
+                                  date.fromisoformat(args.date) if args.date else None)
+    if args.out:
+        Path(args.out).write_text(text)
+        print(f"Skrev {args.out}")
+    else:
+        print(text)
+    return 0
+
+
+def cmd_test(args) -> int:
+    """Testlogg för tillväxtarbetet: add, list och evaluate."""
+    from . import growth_tests as t
+    from .growth_report import daily_sql, periods
+
+    site = _site(args)
+    store = _store(site)
+    if args.action == "add":
+        tid = t.add_test(store, site, start=date.fromisoformat(args.start), channel=args.channel, metric=args.metric,
+                         hypothesis=args.hypothesis, action=args.what, market=args.market, expected_pct=args.expect,
+                         days=args.days, owner=args.owner)
+        print(f"Test {tid} loggat: {args.hypothesis}")
+        return 0
+    tests = t.list_tests(store, site)
+    if args.action == "list":
+        for x in tests:
+            print(f"{x['test_id']}  {x['start_date']}  {x['status']:<10} {x['channel']:<10} {x.get('market') or 'alla':<5} {x['metric']:<10} {x['hypothesis']}")
+        return 0
+    test = next((x for x in tests if x["test_id"] == args.id), None)
+    if not test:
+        raise ConfigError(f"Hittar inget test med id {args.id}. Kör 'test list' för att se id:n.")
+    today = date.fromisoformat(args.date) if args.date else date.today()
+    span = int(test["evaluate_days"])
+    first = test["start_date"] - timedelta(days=span)
+    sql = (daily_sql(site, today).split(" WHERE")[0] + f" WHERE d >= '{first.isoformat()}'")
+    rows_by_market: dict[str, list] = {}
+    for r in store.query(sql):
+        rows_by_market.setdefault(r["market"], []).append(r)
+    ev = t.evaluate(rows_by_market, test, today)
+    print(t.format_evaluation(test, ev))
+    if args.save:
+        t.save_evaluation(store, test["test_id"], ev)
+        print("Resultatet sparat i testloggen.")
+    return 0
 
 
 def cmd_sql(args) -> int:
@@ -419,6 +499,35 @@ def main(argv: list[str] | None = None) -> int:
     wk.add_argument("--upload", metavar="GS_URI", help="Spara rapporten i Cloud Storage, t.ex. gs://bucket/weekly (skriver inte till skärmen)")
     wk.add_argument("--fail-on-alert", action="store_true", help="Avsluta med kod 2 om något larm är högt (för schemalagd körning)")
     wk.set_defaults(func=cmd_weekly)
+
+    ca = sub.add_parser("check-access", help="Kontrollera åtkomst till varje datakälla för en butik (läser, ändrar inget)")
+    ca.add_argument("--site", required=True)
+    ca.set_defaults(func=cmd_check_access)
+
+    pw = sub.add_parser("portfolio-weekly", help="Portföljrapport: butiker och marknader mot medianen")
+    pw.add_argument("--site", required=True, help="Sajt vars BigQuery-projekt används")
+    pw.add_argument("--portfolio-project")
+    pw.add_argument("--portfolio-dataset", default="portfolio")
+    pw.add_argument("--date")
+    pw.add_argument("--out")
+    pw.set_defaults(func=cmd_portfolio_weekly)
+
+    tp = sub.add_parser("test", help="Testlogg: logga en åtgärd med hypotes, lista och utvärdera")
+    tp.add_argument("action", choices=["add", "list", "evaluate"])
+    tp.add_argument("--site", required=True)
+    tp.add_argument("--start", help="Startdatum för åtgärden (add)")
+    tp.add_argument("--channel", help="google_ads, meta, email, site, pris, sortiment eller annat (add)")
+    tp.add_argument("--market", help="Marknad som berörs, t.ex. SE. Utelämnas om alla berörs")
+    tp.add_argument("--metric", help="orders, revenue, sessions, ad_cost, mer eller order_rate (add)")
+    tp.add_argument("--hypothesis", help="Vad vi tror händer och varför (add)")
+    tp.add_argument("--what", help="Vad som ändras (add)")
+    tp.add_argument("--expect", type=float, help="Förväntad förändring i procent, t.ex. 10 (add)")
+    tp.add_argument("--days", type=int, default=28, help="Utvärderingsfönster i dagar (add)")
+    tp.add_argument("--owner", help="Vem som ansvarar (add)")
+    tp.add_argument("--id", help="Testets id (evaluate)")
+    tp.add_argument("--date", help="Räkna från detta datum (evaluate)")
+    tp.add_argument("--save", action="store_true", help="Spara utvärderingen i loggen (evaluate)")
+    tp.set_defaults(func=cmd_test)
 
     q = sub.add_parser("sql")
     q.add_argument("--site", required=True)

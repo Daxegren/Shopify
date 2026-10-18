@@ -805,3 +805,159 @@ def test_inventory_snapshot_is_idempotent_per_day():
     sqlglot = pytest.importorskip("sqlglot")
     for sql in stmts:
         sqlglot.parse_one(sql, read="bigquery")
+
+
+def test_growth_test_log_add_and_evaluate():
+    from datetime import date, timedelta
+
+    import pytest
+
+    from site_audit import growth_tests as t
+    from site_audit.config import site_from_dict
+
+    site = site_from_dict({"name": "g-se", "base_url": "https://g.se", "bq_project": "p"})
+    ran = []
+
+    class Job:
+        def result(self):
+            return None
+
+    class Client:
+        def query(self, sql):
+            ran.append(sql)
+            return Job()
+
+    store = type("S", (), {"dataset": "p.site_audit", "client": Client()})()
+    tid = t.add_test(store, site, start=date(2026, 10, 20), channel="google_ads", metric="mer", hypothesis="Lägre mål-ROAS ger fler ordrar",
+                     action="Sänk mål-ROAS i SE till 3,8", market="SE", expected_pct=10)
+    assert len(tid) == 8 and ran[0].startswith("CREATE TABLE IF NOT EXISTS") and "INSERT INTO `p.site_audit.growth_tests`" in ran[1]
+    assert "'planerad'" in ran[1] and "DATE '2026-10-20'" in ran[1]
+    with pytest.raises(ValueError):
+        t.add_test(store, site, start=date(2026, 10, 20), channel="google_ads", metric="finns_inte", hypothesis="x", action="y")
+    # citattecken i fritext får inte bryta SQL:en
+    t.add_test(store, site, start=date(2026, 10, 20), channel="meta", metric="orders", hypothesis="It's \"bra\"", action="a")
+    assert "It\\'s" in ran[-1]
+
+    start = date(2026, 10, 1)
+    def rows(market, before_orders, after_orders):
+        out = []
+        for i in range(-28, 28):
+            d = start + timedelta(days=i)
+            out.append({"d": d, "market": market, "orders": after_orders if i >= 0 else before_orders, "revenue": 100.0, "sessions": 1000,
+                        "google_cost": 50.0, "meta_cost": 0.0})
+        return out
+
+    data = {"SE": rows("SE", 10, 13), "DK": rows("DK", 10, 11)}  # SE +30 %, DK +10 % (kontroll)
+    test = {"test_id": "x", "start_date": start, "evaluate_days": 28, "metric": "orders", "market": "SE", "expected_change_pct": 15,
+            "hypothesis": "h", "action": "a", "channel": "google_ads"}
+    ev = t.evaluate(data, test, date(2026, 11, 30))
+    assert round(ev["result_pct"]) == 30 and round(ev["control_pct"]) == 10 and round(ev["uplift_pct"]) == 20
+    assert ev["complete"] and ev["verdict"].startswith("Förväntat utfall uppnåtts")
+    early = t.evaluate(data, test, date(2026, 10, 10))
+    assert not early["complete"] and "Preliminärt" in early["verdict"]
+    t.save_evaluation(store, "x", ev)
+    assert "SET status = 'utvärderad'" in ran[-1] and "uplift_pct = 20.0000" in ran[-1]
+    assert "Netto: +20.0 %" in t.format_evaluation(test, ev)
+
+
+class _Resp:
+    def __init__(self, data, status=200):
+        self._d, self.status_code, self.text, self.headers = data, status, "", {}
+
+    def json(self):
+        return self._d
+
+
+def test_merchant_product_rows_pages_and_status():
+    from datetime import date
+
+    from site_audit.merchant_api import merchant_product_rows
+
+    pages = [
+        {"products": [{"offerId": "A1", "contentLanguage": "sv", "feedLabel": "SE", "productAttributes": {"title": "Hantel"},
+                       "productStatus": {"destinationStatuses": [{"approvedCountries": ["SE"], "disapprovedCountries": []}],
+                                         "itemLevelIssues": [{"code": "x", "severity": "DEMOTED", "description": "Låg bildkvalitet"}]}}],
+         "nextPageToken": "t2"},
+        {"products": [{"offerId": "B2", "productStatus": {"destinationStatuses": [{"disapprovedCountries": ["SE"]}],
+                                                          "itemLevelIssues": [{"code": "p", "severity": "DISAPPROVED", "description": "Pris saknas"}]}}]},
+    ]
+    calls = []
+
+    class S:
+        def get(self, url, params=None, timeout=0):
+            calls.append((url, dict(params)))
+            return _Resp(pages[len(calls) - 1])
+
+    rows = list(merchant_product_rows(S(), "123-45", date(2026, 10, 19)))
+    assert [r["offer_id"] for r in rows] == ["A1", "B2"] and calls[0][0].endswith("/accounts/12345/products")
+    assert calls[1][1]["pageToken"] == "t2"
+    assert rows[0]["is_disapproved"] is False and rows[0]["top_issue"] == "Låg bildkvalitet"
+    assert rows[1]["is_disapproved"] is True and rows[1]["top_issue"] == "Pris saknas" and rows[1]["title"] == ""
+
+
+def test_klaviyo_order_rows_and_key_not_in_url():
+    from datetime import date
+
+    from site_audit.klaviyo_api import klaviyo_order_rows, klaviyo_session
+
+    s = klaviyo_session("pk_secret", "2025-10-15")
+    assert s.headers["Authorization"] == "Klaviyo-API-Key pk_secret" and s.headers["revision"] == "2025-10-15"
+    urls = []
+
+    def request(method, url, **kw):
+        urls.append(url)
+        if url.endswith("/metrics/"):
+            return _Resp({"data": [{"id": "M1", "attributes": {"name": "Placed Order"}}]})
+        return _Resp({"data": {"attributes": {"dates": ["2026-10-01T00:00:00+02:00", "2026-10-02T00:00:00+02:00"], "data": [
+            {"dimensions": ["EMAIL"], "measurements": {"count": [3, 0], "sum_value": [900.0, 0]}},
+            {"dimensions": [""], "measurements": {"count": [10, 12], "sum_value": [4000.0, 5000.0]}}]}}})
+
+    s.request = request
+    rows = list(klaviyo_order_rows(s, date(2026, 10, 1), date(2026, 10, 2)))
+    assert {"d": "2026-10-01", "channel": "email", "orders": 3.0, "revenue": 900.0} in rows
+    assert len(rows) == 3 and any(r["channel"] == "ingen" and r["d"] == "2026-10-02" for r in rows)
+    assert all("pk_secret" not in u for u in urls)
+
+
+def test_check_access_reports_each_source():
+    from site_audit.access_check import check_access, format_access
+
+    def boom():
+        raise RuntimeError("403 nekad\nrad två")
+
+    res = check_access(None, None, {"ga4": (True, lambda: None), "meta-ads": (True, boom), "klaviyo": (False, boom)})
+    assert res == [("ga4", "OK", ""), ("meta-ads", "FEL", "403 nekad rad två"), ("klaviyo", "saknas", "inte konfigurerad")]
+    assert "meta-ads" in format_access("x", res)
+
+
+def test_portfolio_rank_against_median():
+    from datetime import date, timedelta
+
+    from site_audit.portfolio_report import format_report, rank
+
+    today = date(2026, 10, 19)
+
+    def rows(store, w0, w1):
+        out = []
+        for i in range(1, 15):
+            d = today - timedelta(days=i)
+            out.append({"d": d, "store": store, "market": "SE", "vertical": "v", "orders": w1 if i <= 7 else w0, "revenue": 1000.0,
+                        "sessions": 500, "google_cost": 100.0, "meta_cost": 0.0})
+        return out
+
+    data = rows("a", 100, 100) + rows("b", 100, 102) + rows("c", 100, 60)  # c tappar 40 %, medianen är +0 %
+    ranked = rank(data, today)
+    c = next(o for o in ranked if o["store"] == "c")
+    assert round(c["orders_chg"]) == -40 and round(c["orders_rel"]) == -40
+    text = format_report(ranked, today)
+    assert "c SE: ordrar -40 %" in text and "sämre" in text
+    assert "Ingen data" in format_report([], today)
+
+
+def test_new_analysis_sql_parses():
+    from pathlib import Path
+
+    sqlglot = pytest.importorskip("sqlglot")
+    for name in ("merchant_avvisade.sql", "epost_andel.sql"):
+        sql = Path(__file__).parent.parent.joinpath("sql", "analys", name).read_text().replace("PROJ", "p").replace("KEY", "k")
+        assert sqlglot.parse(sql, read="bigquery")
