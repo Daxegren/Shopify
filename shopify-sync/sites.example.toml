@@ -34,6 +34,11 @@ ga4_property_id = "000000000"                        # GA4-egendomens id (siffro
 ga4_api_table = "gorilla-sports-data.site_audit.ga4_landing_daily_gorillasports_se"
 ga4_dataset = "gorilla-sports-data.analytics_000000000"  # byt till ert egendoms-id
 shopify_dataset = "gorilla-sports-data.shopify"
+# Annonser (valfritt). Konto-id:n är inga hemligheter. Utvecklartoken och Meta-token läses från miljövariablerna
+# GOOGLE_ADS_DEVELOPER_TOKEN och META_ACCESS_TOKEN (Secret Manager), se docs/tillvaxtdata.md.
+# google_ads_customer_ids = ["0000000000"]
+# google_ads_login_customer_id = "0000000000"        # hanterarkonto (MCC), om kontona nås via ett sådant
+# meta_ad_account_ids = ["act_000000000000000"]
 
   [[site.geo_profiles]]
   name = "Sverige"

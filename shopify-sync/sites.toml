@@ -33,6 +33,9 @@ ga4_api_table = "gorilla-sports-data.site_audit.ga4_landing_daily_gorillasports_
 ga4_dataset = "gorilla-sports-data.analytics_320165929"
 shopify_dataset = "gorilla-sports-data.shopify"
 shopify_currency = "SEK"
+# Annonskonton för båda marknaderna. Tabellerna får sajtens namn (…_gorillasports_se) på samma sätt som GA4-tabellen.
+google_ads_customer_ids = ["8331390722", "5836710921"]  # SE, DK
+meta_ad_account_ids = ["act_1448542818538699", "act_1658223790903933"]  # SE, DK
 
   [[site.geo_profiles]]
   name = "Sverige"

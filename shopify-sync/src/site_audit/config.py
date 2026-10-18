@@ -89,6 +89,14 @@ class SiteConfig:
     gsc_property: str | None = None   # t.ex. "sc-domain:gorillasports.se" (för API-hämtning)
     ga4_property_id: str | None = None  # t.ex. "123456789" (för API-hämtning)
     ga4_api_table: str | None = None  # t.ex. "proj.site_audit.ga4_landing_daily"
+    # Annonser. Konto-id:n är inga hemligheter; utvecklartoken och Meta-token läses från miljön.
+    google_ads_customer_ids: list[str] = field(default_factory=list)  # t.ex. ["8331390722", "5836710921"]
+    google_ads_login_customer_id: str | None = None  # hanterarkonto (MCC), om kontona nås via ett sådant
+    google_ads_developer_token_env: str = "GOOGLE_ADS_DEVELOPER_TOKEN"
+    google_ads_api_version: str = "v21"  # kontrollera mot Googles versionsplan; äldre versioner stängs av
+    meta_ad_account_ids: list[str] = field(default_factory=list)  # t.ex. ["act_1448542818538699"]
+    meta_token_env: str = "META_ACCESS_TOKEN"
+    meta_api_version: str = "v23.0"
 
     @property
     def host(self) -> str:
@@ -98,6 +106,10 @@ class SiteConfig:
 
     def shopify_token(self) -> str | None:
         return os.environ.get(self.shopify_token_env)
+
+    @property
+    def slug(self) -> str:
+        return self.name.replace("-", "_")
 
 
 def _build(cls, data: dict[str, Any]):

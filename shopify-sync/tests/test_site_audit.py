@@ -509,3 +509,93 @@ def test_unsure_redirects_go_to_review(tmp_path):
     write_action_files(fs, CR(), tmp_path)
     rows = list(csv.reader(open(tmp_path / "redirects_review.csv")))
     assert {r[0] for r in rows[1:]} == {"/battle-rope-10m/p/728", "/boksepakke-profi/p/1129"}
+
+
+def test_ads_parsers():
+    from datetime import date
+
+    from site_audit import ads_api as a
+
+    class Resp:
+        def __init__(self, data, code=200):
+            self.data, self.status_code, self.text = data, code, ""
+
+        def json(self):
+            return self.data
+
+    class GoogleSession:
+        def __init__(self):
+            self.calls = []
+
+        def post(self, url, json, timeout):
+            self.calls.append((url, json))
+            return Resp([{"results": [{"segments": {"date": "2026-10-01"}, "campaign": {"id": "7", "name": "PMax", "advertisingChannelType": "PERFORMANCE_MAX"},
+                                       "customer": {"currencyCode": "SEK"},
+                                       "metrics": {"costMicros": "12500000", "impressions": "100", "clicks": "5", "conversions": 1.5, "conversionsValue": 1999.0}}]},
+                         {"results": []}])
+
+    gs = GoogleSession()
+    rows = list(a.google_ads_campaign_rows(gs, "833-139-0722", date(2026, 10, 1), date(2026, 10, 1), "v21"))
+    assert rows == [{"d": "2026-10-01", "customer_id": "8331390722", "campaign_id": "7", "campaign_name": "PMax",
+                     "channel_type": "PERFORMANCE_MAX", "currency": "SEK", "cost": 12.5, "impressions": 100, "clicks": 5,
+                     "conversions": 1.5, "conversions_value": 1999.0}]
+    assert "customers/8331390722/googleAds:searchStream" in gs.calls[0][0] and "BETWEEN '2026-10-01'" in gs.calls[0][1]["query"]
+    assert [n for n, _, _ in a.GOOGLE_ADS_SCHEMA] == list(rows[0])
+
+    class ProductSession(GoogleSession):
+        def post(self, url, json, timeout):
+            return Resp([{"results": [{"segments": {"date": "2026-10-01", "productItemId": "SKU1", "productTitle": "Kettlebell", "productBrand": "GS"},
+                                       "customer": {"currencyCode": "DKK"}, "metrics": {"costMicros": "1000000"}}]}])
+
+    prod = list(a.google_ads_product_rows(ProductSession(), "1", date(2026, 10, 1), date(2026, 10, 1)))
+    assert prod[0]["item_id"] == "SKU1" and prod[0]["cost"] == 1.0 and prod[0]["clicks"] == 0
+    assert [n for n, _, _ in a.GOOGLE_ADS_PRODUCT_SCHEMA] == list(prod[0])
+
+    class MetaSession:
+        def __init__(self):
+            self.urls = []
+
+        def get(self, url, params, timeout):
+            self.urls.append((url, params))
+            if len(self.urls) == 1:
+                return Resp({"data": [{"date_start": "2026-10-01", "campaign_id": "9", "campaign_name": "Retarget", "account_currency": "DKK",
+                                       "spend": "100.5", "impressions": "1000", "reach": "800", "clicks": "20",
+                                       "actions": [{"action_type": "omni_purchase", "value": "3"}, {"action_type": "purchase", "value": "3"},
+                                                   {"action_type": "link_click", "value": "20"}],
+                                       "action_values": [{"action_type": "omni_purchase", "value": "4500"}, {"action_type": "purchase", "value": "4500"}]}],
+                             "paging": {"next": "https://graph.facebook.com/next-page"}})
+            return Resp({"data": [{"date_start": "2026-10-02", "campaign_id": "9", "campaign_name": "Retarget", "account_currency": "DKK",
+                                   "spend": "0", "impressions": "0", "reach": "0", "clicks": "0"}]})
+
+    ms = MetaSession()
+    meta = list(a.meta_ads_rows(ms, "act_123", date(2026, 10, 1), date(2026, 10, 2)))
+    assert [m["d"] for m in meta] == ["2026-10-01", "2026-10-02"]
+    assert meta[0]["purchases"] == 3.0 and meta[0]["purchase_value"] == 4500.0  # omni_purchase och purchase räknas inte dubbelt
+    assert meta[0]["account_id"] == "123" and meta[1]["purchases"] == 0.0
+    assert ms.urls[0][0].endswith("/act_123/insights") and ms.urls[1] == ("https://graph.facebook.com/next-page", None)
+    assert "access_token" not in ms.urls[0][1]  # token ligger i huvudet, aldrig i URL:en
+    assert [n for n, _, _ in a.META_ADS_SCHEMA] == list(meta[0])
+
+
+def test_refresh_skips_unconfigured_and_continues_after_failure(monkeypatch, capsys, tmp_path):
+    from site_audit import main as m
+    from site_audit.config import site_from_dict
+
+    site = site_from_dict({"name": "x-se", "base_url": "https://x.se", "bq_project": "p", "ga4_property_id": "1",
+                           "meta_ad_account_ids": ["act_1"]})
+    calls = []
+
+    def fake_fetch(site_, store, source, start, end, **kw):
+        calls.append((source, (end - start).days + 1))
+        if source == "ga4":
+            raise RuntimeError("nekad")
+        return 5, f"t_{source}"
+
+    monkeypatch.setattr(m, "fetch_source", fake_fetch)
+    monkeypatch.setattr(m, "_site", lambda args: site)
+    monkeypatch.setattr(m, "_store", lambda s: type("S", (), {"dataset": "site_audit"})())
+    args = type("A", (), {"site": "x-se", "days": 30, "source": None})()
+    assert m.cmd_refresh(args) == 1  # ga4 misslyckades, men de andra kördes
+    out = capsys.readouterr().out
+    assert "ga4: MISSLYCKADES" in out and "google-ads: hoppas över" in out and "meta-ads: 5 rader" in out
+    assert ("ga4-kanal", 30) in calls and ("meta-ads", 30) in calls and not any(c[0].startswith("google-ads") for c in calls)

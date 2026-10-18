@@ -14,6 +14,7 @@ from __future__ import annotations
 import argparse
 import json
 import logging
+import os
 import sys
 from datetime import date
 from pathlib import Path
@@ -149,37 +150,108 @@ def cmd_trend(args) -> int:
     return 0
 
 
-def cmd_backfill(args) -> int:
-    from datetime import timedelta
+SOURCES = ("gsc", "ga4", "ga4-kanal", "google-ads", "google-ads-produkter", "meta-ads")
 
+
+def fetch_source(site: SiteConfig, store, source: str, start: date, end: date, queries: bool = False,
+                 table: str | None = None) -> tuple[int, str]:
+    """Hämtar en källa för perioden och ersätter den i BigQuery. Ger (antal rader, måltabell)."""
+    from . import ads_api as a
     from . import google_api as g
 
-    site = _site(args)
-    store = _store(site)
-    end = date.today() - timedelta(days=3)  # GSC-data är slutgiltig efter ca 3 dagar
-    start = date.fromisoformat(args.since) if args.since else end - timedelta(days=args.days)
-    if args.source == "gsc":
+    slug = site.slug
+    if source == "gsc":
         if not site.gsc_property:
             raise ConfigError("gsc_property saknas i konfigurationen (t.ex. sc-domain:gorillasports.se).")
         session = g.authorized_session([g.GSC_SCOPE])
-        rows = g.gsc_rows(session, site.gsc_property, start, end, with_query=args.queries)
-        slug = site.name.replace("-", "_")
-        table = args.table or (f"gsc_api_url_query_{slug}" if args.queries else f"gsc_api_url_{slug}")
-        n = g.load_rows(store, table, g.GSC_SCHEMA, rows, ("data_date", start, end))
-    else:
+        rows = g.gsc_rows(session, site.gsc_property, start, end, with_query=queries)
+        table = table or (f"gsc_api_url_query_{slug}" if queries else f"gsc_api_url_{slug}")
+        return g.load_rows(store, table, g.GSC_SCHEMA, rows, ("data_date", start, end)), table
+    if source in ("ga4", "ga4-kanal"):
         if not site.ga4_property_id:
             raise ConfigError("ga4_property_id saknas i konfigurationen.")
         session = g.authorized_session([g.GA4_SCOPE])
-        slug = site.name.replace("-", "_")
-        if args.source == "ga4-kanal":
-            table = args.table or f"ga4_channel_daily_{slug}"
+        if source == "ga4-kanal":
+            table = table or f"ga4_channel_daily_{slug}"
             rows, schema = g.ga4_channel_rows(session, site.ga4_property_id, start, end), g.GA4_CHANNEL_SCHEMA
         else:
-            table = args.table or f"ga4_landing_daily_{slug}"
+            table = table or f"ga4_landing_daily_{slug}"
             rows, schema = g.ga4_rows(session, site.ga4_property_id, start, end), g.GA4_SCHEMA
-        n = g.load_rows(store, table, schema, rows, ("d", start, end))
+        return g.load_rows(store, table, schema, rows, ("d", start, end)), table
+    if source in ("google-ads", "google-ads-produkter"):
+        if not site.google_ads_customer_ids:
+            raise ConfigError("google_ads_customer_ids saknas i konfigurationen.")
+        token = os.environ.get(site.google_ads_developer_token_env)
+        if not token:
+            raise ConfigError(f"Utvecklartoken saknas: sätt miljövariabeln {site.google_ads_developer_token_env} (hemlighet).")
+        session = a.google_ads_session(token, site.google_ads_login_customer_id)
+        per_account = a.google_ads_product_rows if source == "google-ads-produkter" else a.google_ads_campaign_rows
+        schema = a.GOOGLE_ADS_PRODUCT_SCHEMA if source == "google-ads-produkter" else a.GOOGLE_ADS_SCHEMA
+        table = table or (f"google_ads_products_daily_{slug}" if source == "google-ads-produkter" else f"google_ads_daily_{slug}")
+        rows = (r for cid in site.google_ads_customer_ids
+                for r in per_account(session, cid, start, end, site.google_ads_api_version))
+        return g.load_rows(store, table, schema, rows, ("d", start, end)), table
+    if source == "meta-ads":
+        if not site.meta_ad_account_ids:
+            raise ConfigError("meta_ad_account_ids saknas i konfigurationen.")
+        token = os.environ.get(site.meta_token_env)
+        if not token:
+            raise ConfigError(f"Meta-token saknas: sätt miljövariabeln {site.meta_token_env} (hemlighet).")
+        session = a.meta_session(token)
+        table = table or f"meta_ads_daily_{slug}"
+        rows = (r for acct in site.meta_ad_account_ids
+                for r in a.meta_ads_rows(session, acct, start, end, site.meta_api_version))
+        return g.load_rows(store, table, a.META_ADS_SCHEMA, rows, ("d", start, end)), table
+    raise ConfigError(f"Okänd källa: {source}. Välj bland {', '.join(SOURCES)}.")
+
+
+def _source_end(source: str) -> date:
+    from datetime import timedelta
+
+    # Search Console är slutgiltig efter ca 3 dagar; övriga källor har data till och med i går.
+    return date.today() - timedelta(days=3 if source == "gsc" else 1)
+
+
+def cmd_backfill(args) -> int:
+    from datetime import timedelta
+
+    site = _site(args)
+    store = _store(site)
+    end = _source_end(args.source)
+    start = date.fromisoformat(args.since) if args.since else end - timedelta(days=args.days)
+    n, table = fetch_source(site, store, args.source, start, end, queries=args.queries, table=args.table)
     print(f"{n} rader laddade till {store.dataset}.{table} ({start} – {end})")
     return 0
+
+
+def cmd_refresh(args) -> int:
+    """Nattlig hämtning: de senaste N dagarna från alla källor som är konfigurerade för sajten.
+
+    Konverteringar revideras i efterhand, så perioden ersätts varje gång. Ett fel i en källa stoppar
+    inte de andra; kommandot returnerar 1 om någon källa misslyckades, så att jobbet syns som felat."""
+    from datetime import timedelta
+
+    site = _site(args)
+    store = _store(site)
+    wanted = args.source or list(SOURCES)
+    failed = 0
+    for source in wanted:
+        if source == "gsc":
+            continue  # Search Console fylls av massexporten; historiken hämtas med backfill
+        configured = {"ga4": site.ga4_property_id, "ga4-kanal": site.ga4_property_id,
+                      "google-ads": site.google_ads_customer_ids, "google-ads-produkter": site.google_ads_customer_ids,
+                      "meta-ads": site.meta_ad_account_ids}.get(source)
+        if not configured:
+            print(f"{source}: hoppas över (inte konfigurerad för {site.name})")
+            continue
+        end = _source_end(source)
+        try:
+            n, table = fetch_source(site, store, source, end - timedelta(days=args.days - 1), end)
+            print(f"{source}: {n} rader till {store.dataset}.{table}")
+        except Exception as exc:  # noqa: BLE001 - en källa får inte stoppa de andra
+            failed += 1
+            print(f"{source}: MISSLYCKADES: {exc}")
+    return 1 if failed else 0
 
 
 def cmd_sql(args) -> int:
@@ -244,13 +316,19 @@ def main(argv: list[str] | None = None) -> int:
     t.set_defaults(func=cmd_trend)
 
     b = sub.add_parser("backfill", help="Hämta historik via Search Console API eller GA4 Data API")
-    b.add_argument("source", choices=["gsc", "ga4", "ga4-kanal"], help="ga4-kanal: besök och köp per kanal")
+    b.add_argument("source", choices=list(SOURCES), help="ga4-kanal: besök per kanal; google-ads, google-ads-produkter, meta-ads: annonsdata")
     b.add_argument("--site", required=True)
     b.add_argument("--days", type=int, default=480, help="Antal dagar bakåt (GSC max ca 16 mån)")
     b.add_argument("--since", help="Startdatum i stället för --days")
     b.add_argument("--queries", action="store_true", help="GSC: även sökfraser (större tabell)")
     b.add_argument("--table", help="Måltabell i site_audit-datasetet")
     b.set_defaults(func=cmd_backfill)
+
+    rf = sub.add_parser("refresh", help="Hämta om de senaste dagarna från alla konfigurerade datakällor")
+    rf.add_argument("--site", required=True)
+    rf.add_argument("--days", type=int, default=30, help="Antal dagar som ersätts (konverteringar revideras i efterhand)")
+    rf.add_argument("--source", action="append", choices=list(SOURCES), help="Begränsa till vissa källor (kan anges flera gånger)")
+    rf.set_defaults(func=cmd_refresh)
 
     q = sub.add_parser("sql")
     q.add_argument("--site", required=True)
