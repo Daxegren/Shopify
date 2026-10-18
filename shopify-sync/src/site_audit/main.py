@@ -169,7 +169,7 @@ def cmd_trend(args) -> int:
     return 0
 
 
-SOURCES = ("gsc", "ga4", "ga4-kanal", "google-ads", "google-ads-produkter", "meta-ads")
+SOURCES = ("gsc", "ga4", "ga4-kanal", "google-ads", "google-ads-produkter", "meta-ads", "lager")
 
 
 def fetch_source(site: SiteConfig, store, source: str, start: date, end: date, queries: bool = False,
@@ -219,7 +219,34 @@ def fetch_source(site: SiteConfig, store, source: str, start: date, end: date, q
         rows = (r for acct in site.meta_ad_account_ids
                 for r in a.meta_ads_rows(session, acct, start, end, site.meta_api_version))
         return g.load_rows(store, table, a.META_ADS_SCHEMA, rows, ("d", start, end)), table
+    if source == "lager":
+        if not site.shopify_dataset:
+            raise ConfigError("shopify_dataset saknas i konfigurationen.")
+        table = table or f"inventory_daily_{key}"
+        return snapshot_inventory(store, site.shopify_dataset, table), table
     raise ConfigError(f"Okänd källa: {source}. Välj bland {', '.join(SOURCES)}.")
+
+
+def inventory_snapshot_sql(store_dataset: str, table: str, shopify_dataset: str) -> list[str]:
+    """SQL som sparar dagens lagersaldo per variant. Körs om samma dag ersätter dagens rader (inga dubbletter).
+    Shopify-synken ger bara nuläget, så historiken byggs genom att ta en ögonblicksbild varje natt."""
+    full = f"{store_dataset}.{table}"
+    return [
+        f"CREATE TABLE IF NOT EXISTS `{full}` (d DATE NOT NULL, variant_id STRING, product_id STRING, sku STRING, "
+        f"product_title STRING, product_status STRING, inventory_quantity INT64, price NUMERIC) PARTITION BY d",
+        f"DELETE FROM `{full}` WHERE d = CURRENT_DATE('Europe/Stockholm')",
+        f"INSERT INTO `{full}` SELECT CURRENT_DATE('Europe/Stockholm'), v.id, v.product_id, v.sku, p.title, p.status, "
+        f"v.inventory_quantity, v.price FROM `{shopify_dataset}.product_variants` v LEFT JOIN `{shopify_dataset}.products` p ON p.id = v.product_id",
+    ]
+
+
+def snapshot_inventory(store, shopify_dataset: str, table: str) -> int:
+    n = 0
+    for sql in inventory_snapshot_sql(store.dataset, table, shopify_dataset):
+        job = store.client.query(sql)
+        job.result()
+        n = job.num_dml_affected_rows or n if sql.startswith("INSERT") else n
+    return int(n or 0)
 
 
 def _source_end(source: str) -> date:
@@ -257,7 +284,7 @@ def cmd_refresh(args) -> int:
             continue  # Search Console fylls av massexporten; historiken hämtas med backfill
         configured = {"ga4": site.ga4_property_id, "ga4-kanal": site.ga4_property_id,
                       "google-ads": site.google_ads_customer_ids, "google-ads-produkter": site.google_ads_customer_ids,
-                      "meta-ads": site.meta_ad_account_ids}.get(source)
+                      "meta-ads": site.meta_ad_account_ids, "lager": site.shopify_dataset}.get(source)
         if not configured:
             print(f"{source}: hoppas över (inte konfigurerad för {site.name})")
             continue
@@ -365,7 +392,7 @@ def main(argv: list[str] | None = None) -> int:
     t.set_defaults(func=cmd_trend)
 
     b = sub.add_parser("backfill", help="Hämta historik via Search Console API eller GA4 Data API")
-    b.add_argument("source", choices=list(SOURCES), help="ga4-kanal: besök per kanal; google-ads, google-ads-produkter, meta-ads: annonsdata")
+    b.add_argument("source", choices=list(SOURCES), help="ga4-kanal: besök per kanal; google-ads, google-ads-produkter, meta-ads: annonsdata; lager: ögonblicksbild av dagens lagersaldo (ignorerar datum)")
     b.add_argument("--site", required=True)
     b.add_argument("--days", type=int, default=480, help="Antal dagar bakåt (GSC max ca 16 mån)")
     b.add_argument("--since", help="Startdatum i stället för --days")

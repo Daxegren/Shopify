@@ -775,3 +775,33 @@ def test_weekly_upload_target_parsing():
     assert split_gs_uri("gs://bucket/weekly/") == ("bucket", "weekly") and split_gs_uri("gs://bucket") == ("bucket", "")
     with pytest.raises(ConfigError):
         split_gs_uri("/tmp/x")
+
+
+def test_inventory_snapshot_is_idempotent_per_day():
+    import pytest
+
+    from site_audit.main import inventory_snapshot_sql, snapshot_inventory
+
+    stmts = inventory_snapshot_sql("p.site_audit", "inventory_daily_x", "p.shopify")
+    assert stmts[0].startswith("CREATE TABLE IF NOT EXISTS") and stmts[1].startswith("DELETE FROM") and stmts[2].startswith("INSERT INTO")
+    assert "WHERE d = CURRENT_DATE('Europe/Stockholm')" in stmts[1]  # omkörning samma dag ersätter dagens rader
+
+    class Job:
+        def __init__(self, sql):
+            self.num_dml_affected_rows = 321 if sql.startswith("INSERT") else 0
+
+        def result(self):
+            return None
+
+    ran = []
+
+    class Client:
+        def query(self, sql):
+            ran.append(sql)
+            return Job(sql)
+
+    store = type("S", (), {"dataset": "p.site_audit", "client": Client()})()
+    assert snapshot_inventory(store, "p.shopify", "inventory_daily_x") == 321 and len(ran) == 3
+    sqlglot = pytest.importorskip("sqlglot")
+    for sql in stmts:
+        sqlglot.parse_one(sql, read="bigquery")

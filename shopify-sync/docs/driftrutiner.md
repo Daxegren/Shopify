@@ -48,5 +48,6 @@ Om en nyckel har visats i en chatt eller i en logg ska den återkallas och bytas
 
 - Larm som skickas ut. Veckorapporten visar larmen, men ingen får ett mejl. Nästa steg är att koppla jobbets fel och rapportens höga larm till e-post.
 - Lagerhistorik. Vi ser dagens lagersaldo per variant, inte hur det såg ut den dag annonsen tappade.
+  *Inaktuellt sedan 2026-10-18, se ändringsloggen: källan `lager` sparar en ögonblicksbild av lagersaldot per variant varje natt i `inventory_daily_<butik>`. Den börjar gälla när imagen har byggts om, och historiken börjar då. Det går inte att få saldo för tiden före.*
 - Rabattkoder och kampanjer. De ligger i Shopify-ordrarna men är inte uppdelade i någon vy än.
 - Klaviyo (e-post) som datakälla.
