@@ -18,6 +18,8 @@ Syftet är att alla siffror som behövs för att styra tillväxten ligger på et
 
 Vyerna i `sql/growth/views.sql` slår ihop källorna: `growth_ads_daily` (alla annonser) och `growth_daily` (en rad per dag och marknad med ordrar, omsättning, besök, annonskostnad och MER, omsättning per annonskrona).
 
+*Inaktuellt sedan 2026-10-18, se ändringsloggen: vyerna heter nu `growth_ads_daily_<butik>` och `growth_daily_<butik>` och genereras med `site-audit growth-sql` (se `docs/flera-sajter.md`).*
+
 ## Så fungerar det
 
 ```bash

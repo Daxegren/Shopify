@@ -159,7 +159,7 @@ def fetch_source(site: SiteConfig, store, source: str, start: date, end: date, q
     from . import ads_api as a
     from . import google_api as g
 
-    slug = site.slug
+    slug, key = site.slug, site.table_key  # Search Console är per domän; GA4 och annonser per butik
     if source == "gsc":
         if not site.gsc_property:
             raise ConfigError("gsc_property saknas i konfigurationen (t.ex. sc-domain:gorillasports.se).")
@@ -172,10 +172,10 @@ def fetch_source(site: SiteConfig, store, source: str, start: date, end: date, q
             raise ConfigError("ga4_property_id saknas i konfigurationen.")
         session = g.authorized_session([g.GA4_SCOPE])
         if source == "ga4-kanal":
-            table = table or f"ga4_channel_daily_{slug}"
+            table = table or f"ga4_channel_daily_{key}"
             rows, schema = g.ga4_channel_rows(session, site.ga4_property_id, start, end), g.GA4_CHANNEL_SCHEMA
         else:
-            table = table or f"ga4_landing_daily_{slug}"
+            table = table or f"ga4_landing_daily_{key}"
             rows, schema = g.ga4_rows(session, site.ga4_property_id, start, end), g.GA4_SCHEMA
         return g.load_rows(store, table, schema, rows, ("d", start, end)), table
     if source in ("google-ads", "google-ads-produkter"):
@@ -187,7 +187,7 @@ def fetch_source(site: SiteConfig, store, source: str, start: date, end: date, q
         session = a.google_ads_session(token, site.google_ads_login_customer_id)
         per_account = a.google_ads_product_rows if source == "google-ads-produkter" else a.google_ads_campaign_rows
         schema = a.GOOGLE_ADS_PRODUCT_SCHEMA if source == "google-ads-produkter" else a.GOOGLE_ADS_SCHEMA
-        table = table or (f"google_ads_products_daily_{slug}" if source == "google-ads-produkter" else f"google_ads_daily_{slug}")
+        table = table or (f"google_ads_products_daily_{key}" if source == "google-ads-produkter" else f"google_ads_daily_{key}")
         rows = (r for cid in site.google_ads_customer_ids
                 for r in per_account(session, cid, start, end, site.google_ads_api_version))
         return g.load_rows(store, table, schema, rows, ("d", start, end)), table
@@ -198,7 +198,7 @@ def fetch_source(site: SiteConfig, store, source: str, start: date, end: date, q
         if not token:
             raise ConfigError(f"Meta-token saknas: sätt miljövariabeln {site.meta_token_env} (hemlighet).")
         session = a.meta_session(token)
-        table = table or f"meta_ads_daily_{slug}"
+        table = table or f"meta_ads_daily_{key}"
         rows = (r for acct in site.meta_ad_account_ids
                 for r in a.meta_ads_rows(session, acct, start, end, site.meta_api_version))
         return g.load_rows(store, table, a.META_ADS_SCHEMA, rows, ("d", start, end)), table
@@ -252,6 +252,19 @@ def cmd_refresh(args) -> int:
             failed += 1
             print(f"{source}: MISSLYCKADES: {exc}")
     return 1 if failed else 0
+
+
+def cmd_growth_sql(args) -> int:
+    """Skriver BigQuery-vyerna för alla butiker (growth_views = true) och portföljen. Kör inget mot BigQuery."""
+    from .growth_sql import growth_sql
+
+    sql = growth_sql(load_sites(args.config), args.portfolio_project, args.portfolio_dataset)
+    if args.out:
+        Path(args.out).write_text(sql)
+        print(f"Skrev {args.out}")
+    else:
+        print(sql)
+    return 0
 
 
 def cmd_sql(args) -> int:
@@ -329,6 +342,12 @@ def main(argv: list[str] | None = None) -> int:
     rf.add_argument("--days", type=int, default=30, help="Antal dagar som ersätts (konverteringar revideras i efterhand)")
     rf.add_argument("--source", action="append", choices=list(SOURCES), help="Begränsa till vissa källor (kan anges flera gånger)")
     rf.set_defaults(func=cmd_refresh)
+
+    gs = sub.add_parser("growth-sql", help="Generera vyerna för tillväxtarbetet (per butik och för portföljen)")
+    gs.add_argument("--out", help="Skriv till fil i stället för skärmen")
+    gs.add_argument("--portfolio-project", help="Projekt för portföljvyerna (standard: första butikens projekt)")
+    gs.add_argument("--portfolio-dataset", default="portfolio")
+    gs.set_defaults(func=cmd_growth_sql)
 
     q = sub.add_parser("sql")
     q.add_argument("--site", required=True)

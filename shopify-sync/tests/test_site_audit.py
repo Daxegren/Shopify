@@ -599,3 +599,60 @@ def test_refresh_skips_unconfigured_and_continues_after_failure(monkeypatch, cap
     out = capsys.readouterr().out
     assert "ga4: MISSLYCKADES" in out and "google-ads: hoppas över" in out and "meta-ads: 5 rader" in out
     assert ("ga4-kanal", 30) in calls and ("meta-ads", 30) in calls and not any(c[0].startswith("google-ads") for c in calls)
+
+
+def test_growth_sql_per_store_and_portfolio():
+    from site_audit.config import site_from_dict
+    from site_audit.growth_sql import growth_sql
+
+    common = {"bq_project": "proj-a", "ga4_property_id": "1", "shopify_dataset": "proj-a.shopify", "growth_views": True}
+    sites = {
+        "g-se": site_from_dict({"name": "g-se", "base_url": "https://g.se", **common, "google_ads_customer_ids": ["1"],
+                                "meta_ad_account_ids": ["act_2"], "vertical": "traning",
+                                "hostname_markets": {"www.g.se": "SE", "www.g.dk": "DK"}}),
+        "g-dk": site_from_dict({"name": "g-dk", "base_url": "https://g.dk", "bq_project": "proj-a", "ga4_property_id": "1"}),
+        "bos-se": site_from_dict({"name": "bos-se", "base_url": "https://bos.se", **common, "data_key": "bestofsports",
+                                  "company": "Annat AB", "currency_markets": {"SEK": "SE", "DKK": "DK", "EUR": "FI"}}),
+    }
+    sql = growth_sql(sites)
+    assert sql.count("CREATE OR REPLACE VIEW `proj-a.site_audit.growth_daily_") == 2  # g-dk har inte growth_views
+    assert "growth_daily_g_se" in sql and "growth_daily_bestofsports" in sql and "growth_daily_g_dk" not in sql
+    assert "`proj-a.site_audit.google_ads_daily_g_se`" in sql and "`proj-a.site_audit.meta_ads_daily_g_se`" in sql
+    # butiken utan annonser får inget annonsunderlag men fungerar ändå
+    bos = sql[sql.index("-- Butik: bos-se"):sql.index("CREATE SCHEMA")]
+    assert "growth_ads_daily_bestofsports" not in bos and "CAST(NULL AS FLOAT64) AS google_cost" in bos
+    assert "ENDS_WITH(hostname, '.se')" in bos and "CASE hostname WHEN 'www.g.se' THEN 'SE'" in sql
+    assert "'Annat AB' AS company" in sql and "WHEN 'FI' THEN 'EUR'" in sql
+    assert "portfolio_daily" in sql and "portfolio_weekly" in sql
+
+    import pytest
+
+    with pytest.raises(ValueError):
+        growth_sql({"x": site_from_dict({"name": "x", "base_url": "https://x.se", "bq_project": "p"})})
+    sqlglot = pytest.importorskip("sqlglot")
+    assert len(sqlglot.parse(sql, read="bigquery")) >= 7  # fler vyer och schemat, utan syntaxfel
+
+
+def test_table_key_separates_store_tables_from_domain_tables():
+    from site_audit.config import site_from_dict
+
+    s = site_from_dict({"name": "bos-fi", "base_url": "https://bos.fi", "data_key": "best-of-sports"})
+    assert s.table_key == "best_of_sports" and s.slug == "bos_fi"  # GA4/annonser per butik, Search Console per domän
+    assert site_from_dict({"name": "g-se", "base_url": "https://g.se"}).table_key == "g_se"
+
+
+def test_portfolio_draft_parses_and_has_one_view_owner_per_store():
+    from pathlib import Path
+
+    from site_audit.config import load_sites
+
+    sites = load_sites(Path(__file__).resolve().parents[1] / "sites.portfolio.draft.toml")
+    stores = {}
+    for s in sites.values():
+        stores.setdefault(s.table_key, []).append(s)
+    assert len(stores) == 7  # utkastet: 7 butiker (Gorilla ligger redan i sites.toml, totalt 8 butiker och 13 domäner)
+    assert len(sites) == 11
+    for key, members in stores.items():
+        owners = [m for m in members if m.growth_views]
+        assert len(owners) == 1, f"{key}: exakt en sajt per butik ska äga vyerna"
+        assert owners[0].hostname_markets, f"{key}: hostname_markets saknas"

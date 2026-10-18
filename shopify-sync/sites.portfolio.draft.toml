@@ -1,0 +1,174 @@
+# UTKAST för övriga butiker. Läses inte av något jobb (jobben läser sites.toml). Fyll i alla TODO, flytta ett block i taget
+# till sites.toml när butikens åtkomst (Shopify, Search Console, GA4) är ordnad, och följ docs/ny-sajt.md.
+#
+# Regler:
+#  - En butik = en uppsättning GA4-, annons- och Shopify-tabeller. Alla domäner i butiken har samma data_key.
+#  - En domän = ett [[site]] (egen genomlysning och Search Console). Sajten med growth_views = true äger butikens vyer och
+#    är den som har ga4_property_id, annonskonton och shopify_dataset.
+#  - Butiker som tillhör ett annat bolag än Gorilla Sports får eget Google Cloud-projekt (bq_project), enligt docs/ny-sajt.md.
+#  - Bransch (vertical) är en gissning utifrån namnet och ska bekräftas.
+# Läggs inte i sites.toml förrän allt är ifyllt: SITES=all i nattjobbet genomlyser alla sajter där.
+
+[defaults]
+bq_dataset = "site_audit"
+api_version = "2026-07"
+
+# ------------------------------------------------------------------------------------------------ Best of Sports (SE, DK, FI)
+[[site]]
+name = "bestofsports-se"
+base_url = "https://www.bestofsports.se"
+shop_domain = "TODO.myshopify.com"
+shopify_token_env = "BESTOFSPORTS_SHOPIFY_TOKEN"
+bq_project = "TODO"
+data_key = "bestofsports"
+growth_views = true
+company = "TODO"
+vertical = "TODO"            # gissning: sport/träning
+primary_locale = "sv"
+gsc_property = "sc-domain:bestofsports.se"
+ga4_property_id = "TODO"
+shopify_dataset = "TODO.shopify_bestofsports"
+google_ads_customer_ids = []  # TODO
+meta_ad_account_ids = []      # TODO
+hostname_markets = { "www.bestofsports.se" = "SE", "www.bestofsports.dk" = "DK", "www.bestofsports.fi" = "FI" }
+
+[[site]]
+name = "bestofsports-dk"
+base_url = "https://www.bestofsports.dk"
+shop_domain = "TODO.myshopify.com"
+data_key = "bestofsports"
+primary_locale = "da"
+gsc_property = "sc-domain:bestofsports.dk"
+
+[[site]]
+name = "bestofsports-fi"
+base_url = "https://www.bestofsports.fi"
+shop_domain = "TODO.myshopify.com"
+data_key = "bestofsports"
+primary_locale = "fi"
+gsc_property = "sc-domain:bestofsports.fi"
+
+# ------------------------------------------------------------------------------------------------ Workout Brands
+[[site]]
+name = "workoutbrands"
+base_url = "https://workoutbrands.com"
+shop_domain = "TODO.myshopify.com"
+shopify_token_env = "WORKOUTBRANDS_SHOPIFY_TOKEN"
+bq_project = "TODO"
+growth_views = true
+company = "TODO"
+vertical = "TODO"            # gissning: träning/varumärken
+gsc_property = "sc-domain:workoutbrands.com"
+ga4_property_id = "TODO"
+shopify_dataset = "TODO.shopify_workoutbrands"
+google_ads_customer_ids = []
+meta_ad_account_ids = []
+# Butiken säljer troligen på flera valutor: kontrollera och ange värdnamn och valutor
+hostname_markets = { "workoutbrands.com" = "ALL" }
+currency_markets = { "SEK" = "SE", "DKK" = "DK", "EUR" = "EU", "USD" = "US" }
+
+# ------------------------------------------------------------------------------------------------ Mankovsky Gallery
+[[site]]
+name = "mankovsky"
+base_url = "https://mankovskygallery.com"
+shop_domain = "TODO.myshopify.com"
+shopify_token_env = "MANKOVSKY_SHOPIFY_TOKEN"
+bq_project = "TODO"          # annat bolag än Gorilla: eget projekt
+growth_views = true
+company = "TODO"
+vertical = "konst"           # gissning
+gsc_property = "sc-domain:mankovskygallery.com"
+ga4_property_id = "TODO"
+shopify_dataset = "TODO.shopify_mankovsky"
+google_ads_customer_ids = []
+meta_ad_account_ids = []
+hostname_markets = { "mankovskygallery.com" = "ALL" }
+currency_markets = { "SEK" = "SE", "EUR" = "EU", "USD" = "US", "GBP" = "UK" }
+
+# ------------------------------------------------------------------------------------------------ Alpha Zoo (SE, DK, FI)
+[[site]]
+name = "alphazoo-se"
+base_url = "https://alphazoo.se"
+shop_domain = "TODO.myshopify.com"
+shopify_token_env = "ALPHAZOO_SHOPIFY_TOKEN"
+bq_project = "TODO"
+data_key = "alphazoo"
+growth_views = true
+company = "TODO"
+vertical = "husdjur"         # gissning
+primary_locale = "sv"
+gsc_property = "sc-domain:alphazoo.se"
+ga4_property_id = "TODO"
+shopify_dataset = "TODO.shopify_alphazoo"
+google_ads_customer_ids = []
+meta_ad_account_ids = []
+hostname_markets = { "alphazoo.se" = "SE", "alphazoo.dk" = "DK", "alphazoo.fi" = "FI" }
+
+[[site]]
+name = "alphazoo-dk"
+base_url = "https://alphazoo.dk"
+shop_domain = "TODO.myshopify.com"
+data_key = "alphazoo"
+primary_locale = "da"
+gsc_property = "sc-domain:alphazoo.dk"
+
+[[site]]
+name = "alphazoo-fi"
+base_url = "https://alphazoo.fi"
+shop_domain = "TODO.myshopify.com"
+data_key = "alphazoo"
+primary_locale = "fi"
+gsc_property = "sc-domain:alphazoo.fi"
+
+# ------------------------------------------------------------------------------------------------ Happy Parent
+[[site]]
+name = "happyparent"
+base_url = "https://happyparent.store"
+shop_domain = "TODO.myshopify.com"
+shopify_token_env = "HAPPYPARENT_SHOPIFY_TOKEN"
+bq_project = "TODO"
+growth_views = true
+company = "TODO"
+vertical = "foralder"        # gissning
+gsc_property = "sc-domain:happyparent.store"
+ga4_property_id = "TODO"
+shopify_dataset = "TODO.shopify_happyparent"
+google_ads_customer_ids = []
+meta_ad_account_ids = []
+hostname_markets = { "happyparent.store" = "ALL" }
+
+# ------------------------------------------------------------------------------------------------ HYPR Nutrition
+[[site]]
+name = "hyprnutrition"
+base_url = "https://hyprnutrition.se"
+shop_domain = "TODO.myshopify.com"
+shopify_token_env = "HYPRNUTRITION_SHOPIFY_TOKEN"
+bq_project = "TODO"          # HYPR Sthlm AB är ett annat bolag än Gorilla: eget projekt eller samma som HYPR
+growth_views = true
+company = "TODO"
+vertical = "kosttillskott"   # gissning
+primary_locale = "sv"
+gsc_property = "sc-domain:hyprnutrition.se"
+ga4_property_id = "TODO"
+shopify_dataset = "TODO.shopify_hyprnutrition"
+google_ads_customer_ids = []
+meta_ad_account_ids = []
+hostname_markets = { "hyprnutrition.se" = "SE" }
+
+# ------------------------------------------------------------------------------------------------ B You Underwear
+[[site]]
+name = "byouunderwear"
+base_url = "https://byouunderwear.se"
+shop_domain = "TODO.myshopify.com"
+shopify_token_env = "BYOUUNDERWEAR_SHOPIFY_TOKEN"
+bq_project = "TODO"
+growth_views = true
+company = "TODO"
+vertical = "underklader"     # gissning
+primary_locale = "sv"
+gsc_property = "sc-domain:byouunderwear.se"
+ga4_property_id = "TODO"
+shopify_dataset = "TODO.shopify_byouunderwear"
+google_ads_customer_ids = []
+meta_ad_account_ids = []
+hostname_markets = { "byouunderwear.se" = "SE" }
