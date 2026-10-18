@@ -15,6 +15,19 @@ SELECT d, 'meta' AS platform, CASE currency WHEN 'SEK' THEN 'SE' WHEN 'DKK' THEN
        spend AS cost, impressions, clicks, purchases AS conversions, purchase_value AS conversions_value
 FROM `gorilla-sports-data.site_audit.meta_ads_daily_gorillasports_se`;
 
+CREATE OR REPLACE VIEW `gorilla-sports-data.site_audit.growth_product_daily_gorillasports_se` AS
+WITH v AS (
+  SELECT REGEXP_EXTRACT(v.id, r'(\d+)$') AS variant_key, v.sku, v.price, v.unit_cost, v.inventory_quantity,
+         pr.title AS shopify_title, pr.status, pr.total_inventory, pr.handle
+  FROM `gorilla-sports-data.shopify.product_variants` v LEFT JOIN `gorilla-sports-data.shopify.products` pr ON pr.id = v.product_id
+)
+SELECT a.d, CASE a.currency WHEN 'SEK' THEN 'SE' WHEN 'DKK' THEN 'DK' WHEN 'NOK' THEN 'NO' WHEN 'EUR' THEN 'FI' ELSE a.currency END AS market, a.currency, a.item_id, a.title AS ads_title,
+       v.shopify_title, v.status, v.sku, v.price, v.unit_cost, v.inventory_quantity, v.total_inventory, v.handle,
+       v.variant_key IS NOT NULL AS matched,
+       a.cost, a.impressions, a.clicks, a.conversions, a.conversions_value
+FROM `gorilla-sports-data.site_audit.google_ads_products_daily_gorillasports_se` a
+LEFT JOIN v ON v.variant_key = REGEXP_EXTRACT(a.item_id, r'(\d+)$');
+
 CREATE OR REPLACE VIEW `gorilla-sports-data.site_audit.growth_daily_gorillasports_se` AS
 WITH orders AS (
   SELECT DATE(created_at, 'Europe/Stockholm') AS d, CASE presentment_currency WHEN 'SEK' THEN 'SE' WHEN 'DKK' THEN 'DK' WHEN 'NOK' THEN 'NO' WHEN 'EUR' THEN 'FI' ELSE presentment_currency END AS market,

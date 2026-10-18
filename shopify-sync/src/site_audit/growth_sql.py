@@ -81,6 +81,24 @@ def store_sql(site: SiteConfig) -> str:
     if ads:
         out.append(f"CREATE OR REPLACE VIEW `{p}.{ds}.growth_ads_daily_{key}` AS\n" + "\nUNION ALL\n".join(ads) + ";")
 
+    if site.google_ads_customer_ids and site.shopify_dataset:
+        shop = _safe(site.shopify_dataset, "shopify_dataset")
+        # item_id i annonsflödet är Shopify-variantens id (eller slutar på det, som i "shopify_SE_<produkt>_<variant>").
+        # Kopplingen görs på sista talet; kolumnen matched visar hur stor andel som hittade en produkt.
+        out.append(
+            f"CREATE OR REPLACE VIEW `{p}.{ds}.growth_product_daily_{key}` AS\n"
+            "WITH v AS (\n"
+            "  SELECT REGEXP_EXTRACT(v.id, r'(\\d+)$') AS variant_key, v.sku, v.price, v.unit_cost, v.inventory_quantity,\n"
+            "         pr.title AS shopify_title, pr.status, pr.total_inventory, pr.handle\n"
+            f"  FROM `{shop}.product_variants` v LEFT JOIN `{shop}.products` pr ON pr.id = v.product_id\n"
+            ")\n"
+            f"SELECT a.d, {cur_case('a.currency')} AS market, a.currency, a.item_id, a.title AS ads_title,\n"
+            "       v.shopify_title, v.status, v.sku, v.price, v.unit_cost, v.inventory_quantity, v.total_inventory, v.handle,\n"
+            "       v.variant_key IS NOT NULL AS matched,\n"
+            "       a.cost, a.impressions, a.clicks, a.conversions, a.conversions_value\n"
+            f"FROM `{p}.{ds}.google_ads_products_daily_{key}` a\n"
+            "LEFT JOIN v ON v.variant_key = REGEXP_EXTRACT(a.item_id, r'(\\d+)$');")
+
     ctes: list[str] = []
     joined: list[str] = []
     if site.shopify_dataset:

@@ -21,7 +21,7 @@ from __future__ import annotations
 import json
 import logging
 import time
-from datetime import date
+from datetime import date, timedelta
 from typing import Any, Iterator
 
 log = logging.getLogger(__name__)
@@ -60,6 +60,16 @@ _PRODUCT_GAQL = (
     "metrics.conversions, metrics.conversions_value FROM shopping_performance_view "
     "WHERE segments.date BETWEEN '{start}' AND '{end}'"
 )
+
+
+def windows(start: date, end: date, days: int = 31) -> Iterator[tuple[date, date]]:
+    """Delar [start, end] i fönster om högst `days` dagar. Ett långt svar läses in i minnet på en gång, så långa
+    historiker hämtas i bitar (ett minnesfel vid 15 månader var orsaken till att produkthistoriken stoppade)."""
+    cur = start
+    while cur <= end:
+        stop = min(cur + timedelta(days=days - 1), end)
+        yield cur, stop
+        cur = stop + timedelta(days=1)
 
 
 def _digits(value: str) -> str:
@@ -109,25 +119,27 @@ def _gads_metrics(m: dict[str, Any]) -> dict[str, Any]:
 
 
 def google_ads_campaign_rows(session, customer_id: str, start: date, end: date,
-                             version: str = "v21") -> Iterator[dict[str, Any]]:
+                             version: str = "v21", chunk_days: int = 31) -> Iterator[dict[str, Any]]:
     """Kostnad, klick och konverteringar per dag och kampanj. Kostnad i kontots valuta."""
-    q = _CAMPAIGN_GAQL.format(start=start.isoformat(), end=end.isoformat())
-    for r in _google_ads_stream(session, version, customer_id, q):
-        c = r.get("campaign", {})
-        yield {"d": r["segments"]["date"], "customer_id": _digits(customer_id), "campaign_id": str(c.get("id", "")),
-               "campaign_name": c.get("name", ""), "channel_type": c.get("advertisingChannelType", ""),
-               "currency": r.get("customer", {}).get("currencyCode", ""), **_gads_metrics(r.get("metrics", {}))}
+    for w_start, w_end in windows(start, end, chunk_days):
+        q = _CAMPAIGN_GAQL.format(start=w_start.isoformat(), end=w_end.isoformat())
+        for r in _google_ads_stream(session, version, customer_id, q):
+            c = r.get("campaign", {})
+            yield {"d": r["segments"]["date"], "customer_id": _digits(customer_id), "campaign_id": str(c.get("id", "")),
+                   "campaign_name": c.get("name", ""), "channel_type": c.get("advertisingChannelType", ""),
+                   "currency": r.get("customer", {}).get("currencyCode", ""), **_gads_metrics(r.get("metrics", {}))}
 
 
 def google_ads_product_rows(session, customer_id: str, start: date, end: date,
-                            version: str = "v21") -> Iterator[dict[str, Any]]:
+                            version: str = "v21", chunk_days: int = 31) -> Iterator[dict[str, Any]]:
     """Resultat per dag och produkt i Shopping och Performance Max. Kopplas till Shopify via item_id."""
-    q = _PRODUCT_GAQL.format(start=start.isoformat(), end=end.isoformat())
-    for r in _google_ads_stream(session, version, customer_id, q):
-        s = r["segments"]
-        yield {"d": s["date"], "customer_id": _digits(customer_id), "item_id": s.get("productItemId", ""),
-               "title": s.get("productTitle", ""), "brand": s.get("productBrand", ""),
-               "currency": r.get("customer", {}).get("currencyCode", ""), **_gads_metrics(r.get("metrics", {}))}
+    for w_start, w_end in windows(start, end, chunk_days):
+        q = _PRODUCT_GAQL.format(start=w_start.isoformat(), end=w_end.isoformat())
+        for r in _google_ads_stream(session, version, customer_id, q):
+            s = r["segments"]
+            yield {"d": s["date"], "customer_id": _digits(customer_id), "item_id": s.get("productItemId", ""),
+                   "title": s.get("productTitle", ""), "brand": s.get("productBrand", ""),
+                   "currency": r.get("customer", {}).get("currencyCode", ""), **_gads_metrics(r.get("metrics", {}))}
 
 
 # ---------------------------------------------------------------------- Meta

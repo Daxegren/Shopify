@@ -624,6 +624,9 @@ def test_growth_sql_per_store_and_portfolio():
     assert "ENDS_WITH(hostname, '.se')" in bos and "CASE hostname WHEN 'www.g.se' THEN 'SE'" in sql
     assert "'Annat AB' AS company" in sql and "WHEN 'FI' THEN 'EUR'" in sql
     assert "portfolio_daily" in sql and "portfolio_weekly" in sql
+    # produktvyn kopplar annonsprodukter till Shopify-varianter, bara för butiker med både annonser och Shopify-data
+    assert "growth_product_daily_g_se" in sql and "growth_product_daily_bestofsports" not in sql
+    assert "REGEXP_EXTRACT(a.item_id, r'(\\d+)$')" in sql and "v.variant_key IS NOT NULL AS matched" in sql
 
     import pytest
 
@@ -669,3 +672,106 @@ def test_google_ads_developer_token_is_optional(monkeypatch):
     assert "developer-token" not in a.google_ads_session(None, "234-712-0945").headers
     h = a.google_ads_session("tok", "234-712-0945").headers
     assert h["developer-token"] == "tok" and h["login-customer-id"] == "2347120945"
+
+
+def test_google_ads_history_is_fetched_in_windows():
+    from datetime import date
+
+    from site_audit import ads_api as a
+
+    ws = list(a.windows(date(2025, 7, 1), date(2025, 9, 5), 31))
+    assert ws[0] == (date(2025, 7, 1), date(2025, 7, 31)) and ws[1] == (date(2025, 8, 1), date(2025, 8, 31))
+    assert ws[-1] == (date(2025, 9, 1), date(2025, 9, 5)) and len(ws) == 3
+    assert list(a.windows(date(2026, 1, 1), date(2026, 1, 1))) == [(date(2026, 1, 1), date(2026, 1, 1))]
+
+    class Resp:
+        status_code, text = 200, ""
+
+        def json(self):
+            return []
+
+    class S:
+        def __init__(self):
+            self.queries = []
+
+        def post(self, url, json, timeout):
+            self.queries.append(json["query"])
+            return Resp()
+
+    s = S()
+    assert list(a.google_ads_product_rows(s, "1", date(2025, 7, 1), date(2025, 10, 31), "v26")) == []
+    assert len(s.queries) == 4 and "BETWEEN '2025-07-01' AND '2025-07-31'" in s.queries[0] and "'2025-10-31'" in s.queries[-1]
+
+
+def test_weekly_report_alerts_and_formatting():
+    from datetime import date, timedelta
+
+    from site_audit.config import site_from_dict
+    from site_audit.growth_report import build_report, kpis, pct, periods
+
+    today = date(2026, 10, 19)
+    site = site_from_dict({"name": "g-se", "base_url": "https://g.se", "bq_project": "p", "ga4_property_id": "1", "growth_views": True,
+                           "shopify_dataset": "p.shopify", "google_ads_customer_ids": ["1"], "meta_ad_account_ids": ["act_1"]})
+    per = periods(today)
+    assert per["w1"] == (date(2026, 10, 12), date(2026, 10, 18)) and per["w0"] == (date(2026, 10, 5), date(2026, 10, 11))
+    assert per["base"] == (date(2026, 9, 7), date(2026, 10, 4))
+
+    rows = []
+    d = per["base"][0]
+    while d <= per["w1"][1]:
+        weak = d >= per["w1"][0]  # i veckan faller ordrar och intäkt per annonskrona kraftigt för SE
+        rows.append({"d": d, "market": "SE", "orders": 6 if weak else 14, "revenue": 8000.0 if weak else 20000.0,
+                     "sessions": 900 if weak else 1000, "google_cost": 2000.0, "meta_cost": 1000.0})
+        rows.append({"d": d, "market": "DK", "orders": 10, "revenue": 9000.0, "sessions": 800, "google_cost": 700.0, "meta_cost": 300.0})
+        d += timedelta(days=1)
+
+    def fake_query(sql, params=None):
+        if "MAX(" in sql:
+            return [{"source": "Shopify-ordrar", "latest": today - timedelta(days=1)}, {"source": "GA4 landningssidor", "latest": today - timedelta(days=9)}]
+        if "growth_daily" in sql:
+            return rows
+        if "ga4_channel_daily" in sql:
+            return [{"hostname": "www.g.se", "channel": "Paid Search", "s1": 900, "sb": 4000, "p1": 5, "pb": 30},
+                    {"hostname": "www.g.se", "channel": "Direct", "s1": 2000, "sb": 7000, "p1": 20, "pb": 80}]
+        if "growth_product_daily" in sql:
+            return [{"market": "DK", "item_id": "1", "title": "Chinsstång", "v1": 0, "v0": 14000, "c1": 27, "c0": 445, "stock": 0, "matched": True, "status": "ACTIVE"},
+                    {"market": "SE", "item_id": "2", "title": "Hantlar", "v1": 5000, "v0": 4800, "c1": 120, "c0": 110, "stock": 0, "matched": True, "status": "ACTIVE"},
+                    {"market": "SE", "item_id": "3", "title": "Kettlebell", "v1": 100, "v0": 90, "c1": 5, "c0": 4, "stock": 12, "matched": True, "status": "ACTIVE"}]
+        raise AssertionError(sql)
+
+    store = type("S", (), {"query": staticmethod(fake_query)})()
+    rep = build_report(store, site, today)
+    texts = [(a.level, a.source, a.text) for a in rep.alerts]
+    assert rep.has_high
+    assert any(l == "hög" and src == "GA4 landningssidor" for l, src, _ in texts)  # föråldrad källa
+    assert any(l == "hög" and src == "SE" and "Ordrar" in t for l, src, t in texts)  # ordrar −57 % mot snittet
+    assert any(l == "hög" and src == "SE" and "MER" in t for l, src, t in texts)
+    assert not any(src == "DK" and l == "hög" for l, src, _ in texts)  # DK oförändrad
+    assert any(l == "hög" and "Hantlar" in t for l, src, t in texts)  # klick utan lager
+    assert any(l == "medel" and "Chinsstång" in t for l, src, t in texts)  # annonsvärdet gick till noll
+    assert not any("Kettlebell" in t for _, _, t in texts)
+    assert rep.alerts[0].level == "hög" and "## Nyckeltal per marknad" in rep.markdown and "## Larm" in rep.markdown
+    assert "### SE" in rep.markdown and "### DK" in rep.markdown and "Paid Search" in rep.markdown
+
+    assert pct(110, 100) == 10.0 and pct(1, 0) is None and pct(None, 5) is None
+    k = kpis([{"d": today, "orders": 3, "revenue": 300.0, "sessions": None, "google_cost": 100.0, "meta_cost": 50.0}], (today, today))
+    assert k["sessions"] is None and k["order_rate"] is None and k["mer"] == 2.0 and k["days_with_sessions"] == 0
+
+    import pytest
+
+    sqlglot = pytest.importorskip("sqlglot")
+    from site_audit import growth_report as g
+
+    for sql in (g.freshness_sql(site), g.daily_sql(site, today), g.channel_sql(site, today), g.product_sql(site, today)):
+        sqlglot.parse_one(sql, read="bigquery")
+
+
+def test_weekly_upload_target_parsing():
+    import pytest
+
+    from site_audit.config import ConfigError
+    from site_audit.main import split_gs_uri
+
+    assert split_gs_uri("gs://bucket/weekly/") == ("bucket", "weekly") and split_gs_uri("gs://bucket") == ("bucket", "")
+    with pytest.raises(ConfigError):
+        split_gs_uri("/tmp/x")

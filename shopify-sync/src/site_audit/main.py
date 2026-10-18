@@ -53,6 +53,25 @@ def upload_dir(d: Path, uri: str, site: str) -> str:
     return f"gs://{bucket_name}/{base}/{d.name}/"
 
 
+def split_gs_uri(uri: str) -> tuple[str, str]:
+    if not uri.startswith("gs://"):
+        raise ConfigError("--upload ska vara en gs://-adress")
+    bucket, _, prefix = uri[5:].partition("/")
+    return bucket, prefix.strip("/")
+
+
+def upload_report(markdown: str, uri: str, site: str, day: date) -> str:
+    """Sparar veckorapporten som <prefix>/<sajt>/vecka-<datum>.md och som .../latest.md. Ger adressen till den dagliga filen."""
+    from google.cloud import storage
+
+    bucket_name, prefix = split_gs_uri(uri)
+    bucket = storage.Client().bucket(bucket_name)
+    base = "/".join(x for x in (prefix, site) if x)
+    for name in (f"vecka-{day.isoformat()}.md", "latest.md"):
+        bucket.blob(f"{base}/{name}").upload_from_string(markdown, content_type="text/markdown; charset=utf-8")
+    return f"gs://{bucket_name}/{base}/vecka-{day.isoformat()}.md"
+
+
 def cmd_run(args) -> int:
     from .audit import run_audit, save_local
     from .report import to_html, to_markdown
@@ -265,6 +284,25 @@ def cmd_growth_sql(args) -> int:
     return 0
 
 
+def cmd_weekly(args) -> int:
+    """Veckorapport med nyckeltal, kanaler, produkter och larm för en butik. Läser bara från BigQuery."""
+    from .growth_report import build_report
+
+    site = _site(args)
+    if not site.growth_views:
+        raise ConfigError(f"{site.name} har inte growth_views = true. Sätt det på butikens huvudsajt och kör growth-sql först.")
+    report = build_report(_store(site), site, date.fromisoformat(args.date) if args.date else None)
+    day = date.fromisoformat(args.date) if args.date else date.today()
+    if args.out:
+        Path(args.out).write_text(report.markdown)
+        print(f"Skrev {args.out} ({len(report.alerts)} larm, varav {sum(a.level == 'hög' for a in report.alerts)} höga)")
+    elif not args.upload:
+        print(report.markdown)
+    if args.upload:
+        print("Laddade upp " + upload_report(report.markdown, args.upload, site.name, day))
+    return 2 if (args.fail_on_alert and report.has_high) else 0
+
+
 def cmd_sql(args) -> int:
     from . import impact
 
@@ -346,6 +384,14 @@ def main(argv: list[str] | None = None) -> int:
     gs.add_argument("--portfolio-project", help="Projekt för portföljvyerna (standard: första butikens projekt)")
     gs.add_argument("--portfolio-dataset", default="portfolio")
     gs.set_defaults(func=cmd_growth_sql)
+
+    wk = sub.add_parser("weekly", help="Veckorapport och larm för en butik (läser tillväxtvyerna)")
+    wk.add_argument("--site", required=True)
+    wk.add_argument("--date", help="Räkna från detta datum i stället för i dag, ÅÅÅÅ-MM-DD")
+    wk.add_argument("--out", help="Skriv rapporten till en fil, t.ex. rapporter/vecka-2026-10-19.md")
+    wk.add_argument("--upload", metavar="GS_URI", help="Spara rapporten i Cloud Storage, t.ex. gs://bucket/weekly (skriver inte till skärmen)")
+    wk.add_argument("--fail-on-alert", action="store_true", help="Avsluta med kod 2 om något larm är högt (för schemalagd körning)")
+    wk.set_defaults(func=cmd_weekly)
 
     q = sub.add_parser("sql")
     q.add_argument("--site", required=True)
