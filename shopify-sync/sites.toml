@@ -35,6 +35,7 @@ shopify_dataset = "gorilla-sports-data.shopify"
 shopify_currency = "SEK"
 # Annonskonton för båda marknaderna. Tabellerna får sajtens namn (…_gorillasports_se) på samma sätt som GA4-tabellen.
 google_ads_customer_ids = ["8331390722", "5836710921"]  # SE, DK
+google_ads_login_customer_id = "2347120945"  # hanterarkontot Gorillasports Nordics, som SE och DK ligger under
 meta_ad_account_ids = ["act_1448542818538699", "act_1658223790903933"]  # SE, DK
 # Flera sajter: butikens vyer och portföljjämförelse (se docs/flera-sajter.md). En sajt per butik har growth_views = true.
 growth_views = true
