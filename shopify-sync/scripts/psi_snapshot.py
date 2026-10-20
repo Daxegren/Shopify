@@ -3,7 +3,8 @@
 
 Bara läsning: sidorna hämtas av Googles tjänst, inget ändras på sajten. Bara standardbiblioteket behövs.
 
-  export PSI_API_KEY=...   # skapas i Cloud Console, läggs aldrig i chatten eller i filer
+  read -rs PSI_API_KEY && export PSI_API_KEY   # nyckeln skapas i Cloud Console (APIs & Services > Credentials), begränsas till PageSpeed Insights API
+                                               # och klistras bara in här (syns inte). Skapa den inte med gcloud i terminalen: kommandot skriver ut nyckeln.
   python3 scripts/psi_snapshot.py                        # standardsidor för gorillasports.se, mobil
   python3 scripts/psi_snapshot.py --urls https://a/ https://b/ --strategy desktop
 

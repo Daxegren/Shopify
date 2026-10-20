@@ -39,3 +39,5 @@ Inget i genomgången ändrar något i Shopify. Alla fynd är förslag som gransk
 ## Tillägg 2026-10-20: sidhastighet och kategorisökord
 - `scripts/psi_snapshot.py` mäter fem representativa sidor (startsida, kategori, produkt, blogg) med Googles PageSpeed Insights och listar verkliga besökares LCP/INP/CLS, största element, tyngsta tredjepartsskript och möjliga vinster i millisekunder. Kräver en API-nyckel i miljövariabeln `PSI_API_KEY`; nyckeln läggs aldrig i chatten eller i filer.
 - `sql/analys/kategori_sokord.sql` visar för valda sökord vilka sidor som rankar och vilka närliggande frågor besökarna skriver. Underlag för att förbättra en kategorisida.
+- Sidhastighet i externa rapporter kan vara ett 24-månadersmedel eller labbvärden. Verkliga besökare (p75 i Chrome UX Report) är det Google använder. Mät alltid med `scripts/psi_snapshot.py` innan hastighet prioriteras: för gorillasports.se visade en extern rapport LCP 5,8 s och underkänd, medan verkliga besökare hade 1,1–1,5 s (godkänt).
+- Skapa API-nycklar för mätningar i Cloud Console och mata in dem med `read -rs`; `gcloud services api-keys create` skriver ut nyckeln i terminalen.
