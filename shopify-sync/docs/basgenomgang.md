@@ -32,3 +32,6 @@ Inget i genomgången ändrar något i Shopify. Alla fynd är förslag som gransk
 - Samma siffra på flera orelaterade poster (till exempel 1 191) tyder på en artefakt i genomsökningen.
 - Rekommendationer om FAQ-schema för rich results har liten effekt för de flesta sajter eftersom Google begränsat de utdragen; fyll FAQ för användarnas skull.
 - Förändringar i synlighet som sammanfaller med Googles uppdateringar är korrelation, inte bevisad orsak.
+
+## Tillägg 2026-10-20: översatta adresser
+`doda_sidor_med_trafik.sql` jämför mot handles i Shopify och fungerar därför bara för domäner där adresserna inte är översatta (gorillasports.se). På marknader med översatta adresser (till exempel gorillasports.dk) ger den falska träffar; där används genomsökningen (`traffic_page_broken` i `site-audit`) i stället. Det första försöket på .dk gav 100 falska träffar innan vi kontrollerade sidorna för hand.
