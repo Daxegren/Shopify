@@ -1005,3 +1005,36 @@ def test_new_seo_sql_parses_and_uses_word_boundaries():
         assert sqlglot.parse(sql, read="bigquery")
     text = (base / "sokfragor_luckor.sql").read_text()
     assert "|kan|ska|" in text and ")\\s|" in text  # frågeord kräver mellanslag efter ordet (kanin, skateboard matchas inte)
+
+
+def test_psi_snapshot_summarize_and_render():
+    import importlib.util
+    from pathlib import Path
+
+    spec = importlib.util.spec_from_file_location("psi_snapshot", Path(__file__).parent.parent / "scripts" / "psi_snapshot.py")
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    data = {
+        "loadingExperience": {"metrics": {"LARGEST_CONTENTFUL_PAINT_MS": {"percentile": 5800, "category": "SLOW"},
+                                          "CUMULATIVE_LAYOUT_SHIFT_SCORE": {"percentile": 8, "category": "FAST"}}},
+        "lighthouseResult": {"categories": {"performance": {"score": 0.42}}, "audits": {
+            "largest-contentful-paint": {"numericValue": 6100.0},
+            "largest-contentful-paint-element": {"details": {"items": [{"items": [{"node": {"snippet": "<img class=\"hero\">"}}]}]}},
+            "unused-javascript": {"title": "Reduce unused JavaScript", "details": {"type": "opportunity", "overallSavingsMs": 900, "overallSavingsBytes": 204800}},
+            "uses-text-compression": {"title": "x", "details": {"type": "opportunity", "overallSavingsMs": 0}},
+            "third-party-summary": {"details": {"items": [{"entity": "Klaviyo", "blockingTime": 310.4, "transferSize": 51200}]}},
+            "total-byte-weight": {"numericValue": 3145728}}}}
+    s = mod.summarize(data)
+    assert s["score"] == 42 and s["field"]["LCP"]["p75"] == 5800 and s["field"]["CLS"]["p75"] == 0.08
+    assert s["opportunities"] == [(900, "Reduce unused JavaScript", 204800)] and s["third_party"][0]["blocking_ms"] == 310
+    text = mod.render("https://x/", s)
+    assert "LCP 5.8 s" in text and "Möjlig vinst 900 ms" in text and "Klaviyo" in text and "3072 kB" in text
+    assert mod.summarize({})["field"] == {} and "ingen fältdata" in mod.render("u", mod.summarize({}))
+
+
+def test_category_keyword_sql_parses():
+    from pathlib import Path
+
+    sqlglot = pytest.importorskip("sqlglot")
+    sql = (Path(__file__).parent.parent / "sql" / "analys" / "kategori_sokord.sql").read_text().replace("GSCTABLE", "p.d.t")
+    assert sqlglot.parse(sql, read="bigquery")

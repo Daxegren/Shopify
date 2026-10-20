@@ -35,3 +35,7 @@ Inget i genomgången ändrar något i Shopify. Alla fynd är förslag som gransk
 
 ## Tillägg 2026-10-20: översatta adresser
 `doda_sidor_med_trafik.sql` jämför mot handles i Shopify och fungerar därför bara för domäner där adresserna inte är översatta (gorillasports.se). På marknader med översatta adresser (till exempel gorillasports.dk) ger den falska träffar; där används genomsökningen (`traffic_page_broken` i `site-audit`) i stället. Det första försöket på .dk gav 100 falska träffar innan vi kontrollerade sidorna för hand.
+
+## Tillägg 2026-10-20: sidhastighet och kategorisökord
+- `scripts/psi_snapshot.py` mäter fem representativa sidor (startsida, kategori, produkt, blogg) med Googles PageSpeed Insights och listar verkliga besökares LCP/INP/CLS, största element, tyngsta tredjepartsskript och möjliga vinster i millisekunder. Kräver en API-nyckel i miljövariabeln `PSI_API_KEY`; nyckeln läggs aldrig i chatten eller i filer.
+- `sql/analys/kategori_sokord.sql` visar för valda sökord vilka sidor som rankar och vilka närliggande frågor besökarna skriver. Underlag för att förbättra en kategorisida.
