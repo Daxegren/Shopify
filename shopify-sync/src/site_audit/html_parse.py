@@ -174,6 +174,7 @@ def parse_page(url: str, html: bytes, site_host: str) -> PageFacts:
                     "has_offers": bool(offers),
                     "has_brand": bool(item.get("brand")),
                     "has_sku": bool(item.get("sku")),
+                    "has_rating": bool(item.get("aggregateRating")),
                 })
     facts.jsonld_types = sorted(set(facts.jsonld_types))
 

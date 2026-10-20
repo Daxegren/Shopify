@@ -280,6 +280,9 @@ def check_schema(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
                     out.append(F("product_schema_no_offers", "medium", "schema", "Product-schemat saknar offers/pris", url=cu.url))
                 if not p["has_brand"]:
                     out.append(F("product_schema_no_brand", "low", "schema", "Product-schemat saknar brand", url=cu.url))
+                if "has_rating" in p and not p["has_rating"]:
+                    out.append(F("product_schema_no_rating", "info", "schema",
+                                 "Product-schemat saknar aggregateRating (inga omdömen i strukturerad data)", url=cu.url))
         if f.page_type in ("product", "collection", "article") and not f.has_breadcrumb_schema and _indexable(cu):
             out.append(F("breadcrumb_schema_missing", "low", "schema", f"BreadcrumbList saknas ({f.page_type})", url=cu.url))
     expected = set(site.expected_org_schema)
@@ -452,8 +455,35 @@ def check_shopify_specifics(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
     return out
 
 
+SEARCH_PARAMS = ("_pos", "_psq", "_ss", "_sid", "_v", "_fid", "pr_prod_strat", "pr_rec_id", "pr_rec_pid", "pr_ref_pid", "pr_seq")
+
+
+def check_link_hygiene(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
+    """Interna länkar med söknings- och rekommendationsparametrar (?_pos=2&_psq=...) i stället för rena adresser.
+
+    Parametrarna ger dubbla adresser att crawla och gör att rapporter räknar samma sida flera gånger. En fil per sida räknas,
+    inte varje länk, och exemplen visar vilken sida som länkar."""
+    pages: dict[str, list[str]] = defaultdict(list)
+    for cu in cr.urls.values():
+        f = cu.facts
+        if not f or cu.status != 200:
+            continue
+        for link in f.internal_links:
+            q = urlsplit(link).query
+            if q and any(f"{k}=" in q for k in SEARCH_PARAMS):
+                pages[cu.url].append(link)
+    out = []
+    if pages:
+        total = sum(len(v) for v in pages.values())
+        sample = sorted(pages)[:5]
+        out.append(F("internal_links_tracking_params", "medium", "links",
+                     f"{total} interna länkar på {len(pages)} sidor har söknings- eller rekommendationsparametrar",
+                     url=site.base_url, evidence={"pages_sample": sample, "link_sample": pages[sample[0]][:3]}))
+    return out
+
+
 ALL_CRAWL_CHECKS = [check_structure, check_shopify_specifics, check_status, check_redirects, check_geo, check_onpage, check_canonicals, check_hreflang,
-                    check_language, check_schema, check_media, check_performance, check_content]
+                    check_language, check_schema, check_media, check_performance, check_content, check_link_hygiene]
 
 
 def run_crawl_checks(cr: CrawlResult, site: SiteConfig) -> list[Finding]:

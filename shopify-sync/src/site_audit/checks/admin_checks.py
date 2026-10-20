@@ -349,7 +349,33 @@ def check_locales(admin: AdminData, site: SiteConfig) -> list[Finding]:
     return out
 
 
-ALL_ADMIN_CHECKS = [check_collections, check_products, check_pages, check_redirect_table, check_locales]
+RESIDUE_RE = re.compile(
+    r"(```|&lt;/?(div|p|span|ul|li|h[1-6])\b|</?(div|span|ul|li|h[1-6])\b[^>]*>|\bstyle=[\"']|"
+    r"\b(certainly|sure)[,!]? here( is|'s)|\bhär är (en|ett) (omskriven|förbättrad|optimerad)|as an ai\b|som en ai\b|chatgpt)",
+    re.I,
+)
+
+
+def check_product_text_residue(admin: AdminData, site: SiteConfig) -> list[Finding]:
+    """Aktiva produkter vars beskrivning innehåller kod- eller AI-rester (kodstaket, synliga HTML-taggar, AI-fraser).
+
+    Kontrollen läser beskrivningen som text. Heuristik: den hittar inte allt och kan ge enstaka falska träffar, så träffarna
+    ska granskas innan något ändras. Ingen text ändras av verktyget."""
+    hits = []
+    for p in admin.products:
+        if p.get("status") != "ACTIVE":
+            continue
+        m = RESIDUE_RE.search(p.get("description") or "")
+        if m:
+            hits.append((p, m.group(0)))
+    out = []
+    for p, found in hits:
+        out.append(F("product_text_residue", "medium", "content", "Produktbeskrivningen innehåller kod- eller AI-rester",
+                     url=f"{site.base_url}/products/{p['handle']}", resource=p["id"], evidence={"match": found[:40]}))
+    return out
+
+
+ALL_ADMIN_CHECKS = [check_collections, check_products, check_pages, check_redirect_table, check_locales, check_product_text_residue]
 
 
 def run_admin_checks(admin: AdminData, site: SiteConfig) -> list[Finding]:

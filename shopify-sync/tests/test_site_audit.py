@@ -961,3 +961,47 @@ def test_new_analysis_sql_parses():
     for name in ("merchant_avvisade.sql", "epost_andel.sql"):
         sql = Path(__file__).parent.parent.joinpath("sql", "analys", name).read_text().replace("PROJ", "p").replace("KEY", "k")
         assert sqlglot.parse(sql, read="bigquery")
+
+
+def test_audit_checks_from_seo_report():
+    from site_audit.checks.admin_checks import check_product_text_residue
+    from site_audit.checks.crawl_checks import check_link_hygiene, check_schema
+    from site_audit.findings import Finding
+
+    site = site_from_dict({"name": "s", "base_url": "https://s.example"})
+    clean = {"id": "1", "handle": "a", "status": "ACTIVE", "description": "En vanlig beskrivning av produkten."}
+    fence = {"id": "2", "handle": "b", "status": "ACTIVE", "description": "Text ```html <div style=\"x\">hej</div> ```"}
+    draft = {"id": "3", "handle": "c", "status": "DRAFT", "description": "ChatGPT skrev detta"}
+    ai = {"id": "4", "handle": "d", "status": "ACTIVE", "description": "Certainly! Here is a better description"}
+    found = check_product_text_residue(AdminData(products=[clean, fence, draft, ai]), site)
+    assert sorted(f.resource for f in found) == ["2", "4"] and all(isinstance(f, Finding) for f in found)
+
+    class Facts:
+        def __init__(self, links, schema=None):
+            self.internal_links, self.product_schema = links, schema or []
+            self.jsonld_types, self.jsonld_errors, self.page_type, self.has_breadcrumb_schema = [], 0, "product", True
+
+    class CU:
+        def __init__(self, url, facts):
+            self.url, self.facts, self.status, self.source = url, facts, 200, "link"
+
+    prod = {"name": "x", "images": ["https://i/x.jpg"], "invalid_images": [], "relative_images": [], "has_offers": True,
+            "has_brand": True, "has_rating": False}
+    cr = type("CR", (), {"urls": {
+        "u1": CU("https://s.example/a", Facts(["https://s.example/collections/x?_pos=2&_psq=latsdrag", "https://s.example/ok"], [prod])),
+        "u2": CU("https://s.example/b", Facts(["https://s.example/p?pr_prod_strat=x"]))}})()
+    links = check_link_hygiene(cr, site)
+    assert len(links) == 1 and links[0].check == "internal_links_tracking_params" and "2 interna länkar på 2 sidor" in links[0].message
+    assert any(f.check == "product_schema_no_rating" for f in check_schema(cr, site))
+
+
+def test_new_seo_sql_parses_and_uses_word_boundaries():
+    from pathlib import Path
+
+    sqlglot = pytest.importorskip("sqlglot")
+    base = Path(__file__).parent.parent / "sql" / "analys"
+    for name in ("doda_sidor_med_trafik.sql", "sokfragor_luckor.sql"):
+        sql = (base / name).read_text().replace("PROJ", "p").replace("KEY", "k").replace("GSCTABLE", "p.d.t")
+        assert sqlglot.parse(sql, read="bigquery")
+    text = (base / "sokfragor_luckor.sql").read_text()
+    assert "|kan|ska|" in text and ")\\s|" in text  # frågeord kräver mellanslag efter ordet (kanin, skateboard matchas inte)
