@@ -39,7 +39,7 @@ ga4_api_table = "gorilla-sports-data.site_audit.ga4_landing_daily_bestofsports"
 shopify_dataset = "gorilla-sports-data.shopify_bestofsports"
 shopify_currency = "SEK"
 google_ads_customer_ids = ["8311864494"]           # "Best Of Sports", ett konto för alla tre marknader (David 2026-10-22)
-google_ads_login_customer_id = "2347120945"        # om kontona ligger under samma hanterarkonto som Gorilla (bekräfta)
+# google_ads_login_customer_id: inte satt. Tjänstkontot har skrivskyddad åtkomst direkt i kontot 831-186-4494 (David 2026-10-22), ingen hanterare behövs
 google_ads_api_version = "v26"
 merchant_account_id = "5684362662"                 # Merchant Center-id för Best of Sports (David, 2026-10-22)
 hostname_markets = { "www.bestofsports.se" = "SE", "www.bestofsports.dk" = "DK", "www.bestofsports.fi" = "FI" }
