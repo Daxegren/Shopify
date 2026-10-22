@@ -41,7 +41,7 @@ shopify_currency = "SEK"
 google_ads_customer_ids = []                       # TODO: kontonummer för SE, DK och FI
 google_ads_login_customer_id = "2347120945"        # om kontona ligger under samma hanterarkonto som Gorilla (bekräfta)
 google_ads_api_version = "v26"
-merchant_account_id = "TODO"                       # Merchant Center-id
+merchant_account_id = "5684362662"                 # Merchant Center-id för Best of Sports (David, 2026-10-22)
 hostname_markets = { "www.bestofsports.se" = "SE", "www.bestofsports.dk" = "DK", "www.bestofsports.fi" = "FI" }
 
 [[site]]
