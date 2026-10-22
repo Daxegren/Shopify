@@ -384,7 +384,7 @@ def cmd_test(args) -> int:
     if args.action == "add":
         tid = t.add_test(store, site, start=date.fromisoformat(args.start), channel=args.channel, metric=args.metric,
                          hypothesis=args.hypothesis, action=args.what, market=args.market, expected_pct=args.expect,
-                         days=args.days, owner=args.owner)
+                         days=args.days, owner=args.owner, pages=(args.pages or "").split(","))
         print(f"Test {tid} loggat: {args.hypothesis}")
         return 0
     tests = t.list_tests(store, site)
@@ -398,6 +398,16 @@ def cmd_test(args) -> int:
     today = date.fromisoformat(args.date) if args.date else date.today()
     span = int(test["evaluate_days"])
     first = test["start_date"] - timedelta(days=span)
+    if t.is_gsc_metric(test["metric"]):
+        if not site.gsc_table:
+            raise ConfigError("gsc_table saknas i konfigurationen.")
+        last = min(today, test["start_date"] + timedelta(days=span * 2))
+        ev = t.evaluate_pages(store.query(t.gsc_rows_sql(site.gsc_table, first, last)), test, today)
+        print(t.format_evaluation(test, ev))
+        if args.save:
+            t.save_evaluation(store, test["test_id"], ev)
+            print("Resultatet sparat i testloggen.")
+        return 0
     sql = (daily_sql(site, today).split(" WHERE")[0] + f" WHERE d >= '{first.isoformat()}'")
     rows_by_market: dict[str, list] = {}
     for r in store.query(sql):
@@ -518,7 +528,8 @@ def main(argv: list[str] | None = None) -> int:
     tp.add_argument("--start", help="Startdatum för åtgärden (add)")
     tp.add_argument("--channel", help="google_ads, meta, email, site, pris, sortiment eller annat (add)")
     tp.add_argument("--market", help="Marknad som berörs, t.ex. SE. Utelämnas om alla berörs")
-    tp.add_argument("--metric", help="orders, revenue, sessions, ad_cost, mer eller order_rate (add)")
+    tp.add_argument("--metric", help="orders, revenue, sessions, ad_cost, mer, order_rate, gsc_clicks eller gsc_impressions (add)")
+    tp.add_argument("--pages", help="Sidmått: adressfragment, kommaseparerade, t.ex. /collections/crosstrainer-kondition,/collections/spinningcykel (add)")
     tp.add_argument("--hypothesis", help="Vad vi tror händer och varför (add)")
     tp.add_argument("--what", help="Vad som ändras (add)")
     tp.add_argument("--expect", type=float, help="Förväntad förändring i procent, t.ex. 10 (add)")

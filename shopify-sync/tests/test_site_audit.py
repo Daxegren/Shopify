@@ -830,8 +830,8 @@ def test_growth_test_log_add_and_evaluate():
     store = type("S", (), {"dataset": "p.site_audit", "client": Client()})()
     tid = t.add_test(store, site, start=date(2026, 10, 20), channel="google_ads", metric="mer", hypothesis="Lägre mål-ROAS ger fler ordrar",
                      action="Sänk mål-ROAS i SE till 3,8", market="SE", expected_pct=10)
-    assert len(tid) == 8 and ran[0].startswith("CREATE TABLE IF NOT EXISTS") and "INSERT INTO `p.site_audit.growth_tests`" in ran[1]
-    assert "'planerad'" in ran[1] and "DATE '2026-10-20'" in ran[1]
+    assert len(tid) == 8 and ran[0].startswith("CREATE TABLE IF NOT EXISTS") and "INSERT INTO `p.site_audit.growth_tests`" in ran[2]
+    assert "'planerad'" in ran[2] and "DATE '2026-10-20'" in ran[2]
     with pytest.raises(ValueError):
         t.add_test(store, site, start=date(2026, 10, 20), channel="google_ads", metric="finns_inte", hypothesis="x", action="y")
     # citattecken i fritext får inte bryta SQL:en
@@ -1038,3 +1038,45 @@ def test_category_keyword_sql_parses():
     sqlglot = pytest.importorskip("sqlglot")
     sql = (Path(__file__).parent.parent / "sql" / "analys" / "kategori_sokord.sql").read_text().replace("GSCTABLE", "p.d.t")
     assert sqlglot.parse(sql, read="bigquery")
+
+
+def test_growth_test_log_page_metric():
+    from datetime import date, timedelta
+
+    import pytest
+
+    from site_audit import growth_tests as t
+
+    ran = []
+
+    class Client:
+        def query(self, sql):
+            ran.append(sql)
+            return type("J", (), {"result": lambda self: None})()
+
+    store = type("S", (), {"dataset": "p.site_audit", "client": Client()})()
+    site = type("Site", (), {"table_key": "gs"})()
+    with pytest.raises(ValueError):
+        t.add_test(store, site, start=date(2026, 10, 22), channel="site", metric="gsc_clicks", hypothesis="h", action="a")
+    tid = t.add_test(store, site, start=date(2026, 10, 22), channel="site", metric="gsc_clicks", hypothesis="Länkar ger klick",
+                     action="Länkblock i blogg", pages=["/collections/motionscykel-kondition", " /collections/spinningcykel"], expected_pct=10)
+    assert "ADD COLUMN IF NOT EXISTS pages" in ran[1] and "'/collections/motionscykel-kondition,/collections/spinningcykel'" in ran[-1] and len(tid) == 8
+
+    start = date(2026, 10, 22)
+    rows = []
+    for i in range(-28, 28):
+        d = start + timedelta(days=i)
+        rows += [{"d": d, "url": "https://www.gorillasports.se/collections/spinningcykel?page=2", "clicks": 10 if i >= 0 else 5, "impressions": 100},
+                 {"d": d, "url": "https://www.gorillasports.se/collections/hantlar", "clicks": 11 if i >= 0 else 10, "impressions": 100},
+                 {"d": d, "url": "https://www.gorillasports.se/blogs/blogg/x", "clicks": 50 if i >= 0 else 20, "impressions": 100}]
+    test = {"test_id": "x", "start_date": start, "evaluate_days": 28, "metric": "gsc_clicks", "pages": "/collections/spinningcykel",
+            "expected_change_pct": 20, "hypothesis": "h", "action": "a", "channel": "site"}
+    ev = t.evaluate_pages(rows, test, date(2026, 12, 1))
+    # måltidssidor +100 %, övriga /collections/ +10 % (bloggen räknas inte som kontroll)
+    assert round(ev["result_pct"]) == 100 and round(ev["control_pct"]) == 10 and round(ev["uplift_pct"]) == 90
+    assert ev["complete"] and ev["verdict"].startswith("Förväntat utfall uppnåtts")
+    assert "Kontroll (övriga sidor av samma typ)" in t.format_evaluation(test, ev)
+    early = t.evaluate_pages(rows, test, date(2026, 11, 20))
+    assert not early["complete"] and "Preliminärt" in early["verdict"]
+    sqlglot = pytest.importorskip("sqlglot")
+    sqlglot.parse_one(t.gsc_rows_sql("p.d.gsc", date(2026, 10, 1), date(2026, 10, 31)), read="bigquery")
