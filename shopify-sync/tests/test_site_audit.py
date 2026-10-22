@@ -1092,3 +1092,37 @@ def test_diff_text_script_reports_only_changes():
     assert mod.changes("abc", "abc") == []
     found = mod.changes("Hej kvalitéer och mer", "Hej kvaléteter och mer")
     assert found and all(t in ("replace", "insert", "delete") for t, _, _ in found)
+
+
+def test_fetch_ga4_with_several_properties_filters_hostnames(monkeypatch):
+    from datetime import date
+
+    from site_audit import google_api as g
+    from site_audit import main as m
+    from site_audit.config import site_from_dict
+
+    site = site_from_dict({"name": "bos-se", "base_url": "https://www.bos.se", "bq_project": "p", "data_key": "bos",
+                           "ga4_property_id": "1", "ga4_properties": {"1": ["bos.se"], "2": ["bos.dk"], "3": ["www.bos.fi"]}})
+    assert site.ga4_property_map() == {"1": ["bos.se"], "2": ["bos.dk"], "3": ["www.bos.fi"]}
+
+    def fake_rows(session, pid, start, end, **kw):
+        # varje egendom får data från alla tre domäner, som om en delad tagg skickade till alla (felkonfiguration)
+        for host in ("www.bos.se", "www.bos.dk", "www.bos.fi"):
+            yield {"d": "2026-10-20", "property_id": pid, "hostname": host, "landing": "/", "sessions": 10, "purchases": 1, "revenue": 5.0}
+
+    loaded = {}
+
+    def fake_load(store, table, schema, rows, replace_range=None, **kw):
+        loaded["table"], loaded["rows"], loaded["range"] = table, list(rows), replace_range
+        return len(loaded["rows"])
+
+    monkeypatch.setattr(g, "authorized_session", lambda scopes: object())
+    monkeypatch.setattr(g, "ga4_rows", fake_rows)
+    monkeypatch.setattr(g, "load_rows", fake_load)
+    n, table = m.fetch_source(site, object(), "ga4", date(2026, 10, 20), date(2026, 10, 20))
+    # bara en rad per egendom och domän som egendomen hör till: inget dubblerat
+    assert n == 3 and table == "ga4_landing_daily_bos"
+    assert sorted((r["property_id"], r["hostname"]) for r in loaded["rows"]) == [("1", "www.bos.se"), ("2", "www.bos.dk"), ("3", "www.bos.fi")]
+    assert loaded["range"] == ("d", date(2026, 10, 20), date(2026, 10, 20))
+    single = site_from_dict({"name": "x", "base_url": "https://x.se", "ga4_property_id": "9"})
+    assert single.ga4_property_map() == {"9": []}

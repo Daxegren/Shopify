@@ -31,7 +31,10 @@ vertical = "traning"                               # bekräfta (sport/träning)
 primary_locale = "sv"
 gsc_property = "sc-domain:bestofsports.se"
 gsc_table = "gorilla-sports-data.site_audit.gsc_combined_bestofsports_se"
-ga4_property_id = "TODO"                           # siffror, från GA4 under Administratör
+ga4_property_id = "513705179"                      # GA4-egendomen "Best Of Sports" (konto 375613079)
+# David har satt upp en GA4-egendom per domän (2026-10-22). Filtret behåller bara värdnamnet som hör till egendomen, så att en
+# delad tagg som skickar till fler egendomar inte ger dubbelräkning. Intäkt i GA4 ligger i egendomens valuta (SEK, DKK, EUR).
+ga4_properties = { "513705179" = ["bestofsports.se"], "560104417" = ["bestofsports.dk"], "560161669" = ["bestofsports.fi"] }
 ga4_api_table = "gorilla-sports-data.site_audit.ga4_landing_daily_bestofsports"
 shopify_dataset = "gorilla-sports-data.shopify_bestofsports"
 shopify_currency = "SEK"

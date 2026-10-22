@@ -88,6 +88,9 @@ class SiteConfig:
     shopify_currency: str | None = None  # filtrerar ordrar per marknad när butiken delas, t.ex. "SEK"
     gsc_property: str | None = None   # t.ex. "sc-domain:gorillasports.se" (för API-hämtning)
     ga4_property_id: str | None = None  # t.ex. "123456789" (för API-hämtning)
+    # Flera GA4-egendomar för samma butik (till exempel en per domän): egendoms-id -> värdnamn som ska behållas (tom lista = alla).
+    # Filtret stoppar dubbelräkning om en tagg skickar data till fler egendomar än den hör till. ga4_property_id ingår alltid.
+    ga4_properties: dict[str, list[str]] = field(default_factory=dict)
     ga4_api_table: str | None = None  # t.ex. "proj.site_audit.ga4_landing_daily"
     # Annonser. Konto-id:n är inga hemligheter; utvecklartoken och Meta-token läses från miljön.
     google_ads_customer_ids: list[str] = field(default_factory=list)  # t.ex. ["8331390722", "5836710921"]
@@ -120,6 +123,13 @@ class SiteConfig:
 
     def shopify_token(self) -> str | None:
         return os.environ.get(self.shopify_token_env)
+
+    def ga4_property_map(self) -> dict[str, list[str]]:
+        """Egendoms-id -> tillåtna värdnamn (tom lista = alla). Tom om butiken saknar GA4."""
+        m = {str(k): [h.lower() for h in v] for k, v in self.ga4_properties.items()}
+        if self.ga4_property_id and str(self.ga4_property_id) not in m:
+            m[str(self.ga4_property_id)] = []
+        return m
 
     @property
     def slug(self) -> str:

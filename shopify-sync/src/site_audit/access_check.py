@@ -26,7 +26,9 @@ def probes(site, store) -> dict[str, tuple[bool, Callable[[], None]]]:
         store.query(f"SELECT 1 FROM `{site.shopify_dataset}.orders` LIMIT 1")
 
     def ga4() -> None:
-        _first(g.ga4_rows(g.authorized_session([g.GA4_SCOPE]), site.ga4_property_id, y, y))
+        session = g.authorized_session([g.GA4_SCOPE])
+        for pid in site.ga4_property_map():
+            _first(g.ga4_rows(session, pid, y, y))
 
     def gads() -> None:
         token = os.environ.get(site.google_ads_developer_token_env)

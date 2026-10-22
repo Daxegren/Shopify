@@ -190,12 +190,24 @@ def fetch_source(site: SiteConfig, store, source: str, start: date, end: date, q
         if not site.ga4_property_id:
             raise ConfigError("ga4_property_id saknas i konfigurationen.")
         session = g.authorized_session([g.GA4_SCOPE])
+        make_rows = g.ga4_channel_rows if source == "ga4-kanal" else g.ga4_rows
+
+        def _bare(host: str) -> str:
+            return host.lower().removeprefix("www.")
+
+        def all_rows():
+            for pid, hosts in site.ga4_property_map().items():
+                allowed = {_bare(h) for h in hosts}
+                for r in make_rows(session, pid, start, end):
+                    if not allowed or _bare(r["hostname"]) in allowed:
+                        yield r
+
         if source == "ga4-kanal":
             table = table or f"ga4_channel_daily_{key}"
-            rows, schema = g.ga4_channel_rows(session, site.ga4_property_id, start, end), g.GA4_CHANNEL_SCHEMA
+            rows, schema = all_rows(), g.GA4_CHANNEL_SCHEMA
         else:
             table = table or f"ga4_landing_daily_{key}"
-            rows, schema = g.ga4_rows(session, site.ga4_property_id, start, end), g.GA4_SCHEMA
+            rows, schema = all_rows(), g.GA4_SCHEMA
         return g.load_rows(store, table, schema, rows, ("d", start, end)), table
     if source in ("google-ads", "google-ads-produkter"):
         if not site.google_ads_customer_ids:
