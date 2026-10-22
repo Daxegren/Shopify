@@ -1080,3 +1080,15 @@ def test_growth_test_log_page_metric():
     assert not early["complete"] and "Preliminärt" in early["verdict"]
     sqlglot = pytest.importorskip("sqlglot")
     sqlglot.parse_one(t.gsc_rows_sql("p.d.gsc", date(2026, 10, 1), date(2026, 10, 31)), read="bigquery")
+
+
+def test_diff_text_script_reports_only_changes():
+    import importlib.util
+    from pathlib import Path
+
+    spec = importlib.util.spec_from_file_location("diff_text", Path(__file__).parent.parent / "scripts" / "diff_text.py")
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    assert mod.changes("abc", "abc") == []
+    found = mod.changes("Hej kvalitéer och mer", "Hej kvaléteter och mer")
+    assert found and all(t in ("replace", "insert", "delete") for t, _, _ in found)

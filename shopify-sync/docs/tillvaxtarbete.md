@@ -36,3 +36,8 @@ site-audit test add --site gorillasports-se --start 2026-10-22 --channel site --
 site-audit test evaluate --site gorillasports-se --id <id> [--save]
 ```
 Tabellen `site_audit.growth_tests` får vid första körningen en ny kolumn `pages` (`ALTER TABLE … ADD COLUMN IF NOT EXISTS`).
+
+## Kommande utvärderingar
+| Test | Butik | Start | Utvärdera | Kommando |
+|---|---|---|---|---|
+| 44de00d5 (kategorilänkar: motionscykel, spinningcykel, crosstrainer, mått `gsc_clicks`) | gorillasports-se | 2026-10-22 | 2026-11-23 (påminnelse inlagd) | `site-audit test evaluate --site gorillasports-se --id 44de00d5 --save` |
