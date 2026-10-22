@@ -95,3 +95,15 @@ Resultatet hamnar i `gs://<projekt>-site-audit/audits/xxx/latest/`.
 - **Inte Shopify:** steg 1 och 7 utgår, och admin-kontrollerna (katalog, omdirigeringstabell, översättningar) körs inte. Crawl, Search Console och GA4 fungerar som vanligt.
 - **Flera domäner i samma butik** (som .se och .dk): ett block per domän, samma `shop_domain`, olika `shopify_currency` och filter på värdnamn.
 - **Annat språk:** ange `primary_locale` och `expected_locales`. Språkgissningen fungerar för svenska, engelska, danska, norska, tyska, finska, franska, spanska, italienska, nederländska och polska.
+
+## Tillägg 2026-10-22: massexport och flera domäner i GA4, steg för steg
+
+**Search Console, massexport av data (en gång per domänegendom).** Du måste vara verifierad ägare av egendomen. Tjänstkontot som användare (steg 2 ovan) är en annan sak och räcker inte.
+1. Kontrollera datasetets plats så att alla dataset ligger i samma region (annars går vyerna som slår ihop dem inte att skapa): `bq show --format=prettyjson gorilla-sports-data:searchconsole | grep '"location"'`. Använd samma plats för de nya dataseten.
+2. Kontrollera att Googles exportkonto har rättigheter i projektet: `gcloud projects get-iam-policy gorilla-sports-data --flatten=bindings --filter="bindings.members:search-console-data-export@system.gserviceaccount.com" --format="table(bindings.role)"`. Ska visa `roles/bigquery.jobUser` och `roles/bigquery.dataEditor`. Saknas de läggs de till med `gcloud projects add-iam-policy-binding` (en ändring av behörigheter, som kräver ett uttryckligt ja).
+3. Öppna search.google.com/search-console och välj egendomen uppe till vänster.
+4. Längst ned i vänstermenyn: **Inställningar** (Settings) → **Massexport av data** (Bulk data export).
+5. Fyll i Google Cloud-projektets id (`gorilla-sports-data`), ett eget datasetnamn per domän (till exempel `searchconsole_bestofsports_se`) och samma plats som i punkt 1. Klicka på Fortsätt.
+6. Exporten börjar normalt inom ett till två dygn och fyller bara på framåt. Historik hämtas med `backfill gsc` (se `standardtester.md`, T4). Anteckna startdatumet.
+
+**Flera domäner i en GA4-egendom (en Shopify-butik med flera domäner).** Ett och samma GA4-flöde kan ta emot data från alla domäner i butiken, eftersom taggen sitter på butiken och inte på en enskild domän. Kontrollera i GA4 under *Rapporter → Realtid* att besök på varje domän syns, och lägg alla domäner under *Datastream → Konfigurera taggens inställningar → Konfigurera dina domäner* så att besökare som byter domän inte räknas som nya sessioner. Marknaderna skiljs åt i analysen på värdnamnet (`hostname_markets` i `sites.toml`).
