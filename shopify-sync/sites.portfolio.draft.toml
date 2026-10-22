@@ -14,39 +14,56 @@ bq_dataset = "site_audit"
 api_version = "2026-07"
 
 # ------------------------------------------------------------------------------------------------ Best of Sports (SE, DK, FI)
+# Uppdaterad 2026-10-22: samma koncern som Gorilla Sports (David), alltså samma Google Cloud-projekt med eget Shopify-dataset.
+# Kanaler enligt David: Shopify, GA4, Search Console, Google Ads och Merchant Center. Meta och Klaviyo används inte.
+# Lovable-projekten som kopplar två leverantörers API:er behövs inte för analysen (verktygen läser direkt från källorna).
+# TODO nedan fylls i när åtkomsten är ordnad (se docs/standardtester.md och ny-sajt.md). Flytta blocket till sites.toml först då.
 [[site]]
 name = "bestofsports-se"
 base_url = "https://www.bestofsports.se"
-shop_domain = "TODO.myshopify.com"
-shopify_token_env = "BESTOFSPORTS_SHOPIFY_TOKEN"
-bq_project = "TODO"
+shop_domain = "6f2e53-67.myshopify.com"
+shopify_token_env = "BESTOFSPORTS_SHOPIFY_TOKEN"   # hemligheten bestofsports-shopify-token i Secret Manager
+bq_project = "gorilla-sports-data"
 data_key = "bestofsports"
 growth_views = true
-company = "TODO"
-vertical = "TODO"            # gissning: sport/träning
+company = "Gorilla Sports-koncernen"               # etikett för jämförelser, inte juridiskt bolagsnamn
+vertical = "traning"                               # bekräfta (sport/träning)
 primary_locale = "sv"
 gsc_property = "sc-domain:bestofsports.se"
-ga4_property_id = "TODO"
-shopify_dataset = "TODO.shopify_bestofsports"
-google_ads_customer_ids = []  # TODO
-meta_ad_account_ids = []      # TODO
+gsc_table = "gorilla-sports-data.site_audit.gsc_combined_bestofsports_se"
+ga4_property_id = "TODO"                           # siffror, från GA4 under Administratör
+ga4_api_table = "gorilla-sports-data.site_audit.ga4_landing_daily_bestofsports"
+shopify_dataset = "gorilla-sports-data.shopify_bestofsports"
+shopify_currency = "SEK"
+google_ads_customer_ids = []                       # TODO: kontonummer för SE, DK och FI
+google_ads_login_customer_id = "2347120945"        # om kontona ligger under samma hanterarkonto som Gorilla (bekräfta)
+google_ads_api_version = "v26"
+merchant_account_id = "TODO"                       # Merchant Center-id
 hostname_markets = { "www.bestofsports.se" = "SE", "www.bestofsports.dk" = "DK", "www.bestofsports.fi" = "FI" }
 
 [[site]]
 name = "bestofsports-dk"
 base_url = "https://www.bestofsports.dk"
-shop_domain = "TODO.myshopify.com"
+shop_domain = "6f2e53-67.myshopify.com"
+shopify_token_env = "BESTOFSPORTS_SHOPIFY_TOKEN"
+bq_project = "gorilla-sports-data"
 data_key = "bestofsports"
 primary_locale = "da"
 gsc_property = "sc-domain:bestofsports.dk"
+gsc_table = "gorilla-sports-data.site_audit.gsc_combined_bestofsports_dk"
+shopify_currency = "DKK"
 
 [[site]]
 name = "bestofsports-fi"
 base_url = "https://www.bestofsports.fi"
-shop_domain = "TODO.myshopify.com"
+shop_domain = "6f2e53-67.myshopify.com"
+shopify_token_env = "BESTOFSPORTS_SHOPIFY_TOKEN"
+bq_project = "gorilla-sports-data"
 data_key = "bestofsports"
 primary_locale = "fi"
 gsc_property = "sc-domain:bestofsports.fi"
+gsc_table = "gorilla-sports-data.site_audit.gsc_combined_bestofsports_fi"
+shopify_currency = "EUR"
 
 # ------------------------------------------------------------------------------------------------ Workout Brands
 [[site]]
