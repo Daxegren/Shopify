@@ -38,3 +38,16 @@ Kollektionen `stallbara-hantlar`:
 Före: "…Fri frakt ingår på alla våra gym produkter, vilket gör det enkelt att köpa hemmagym och komma igång med träningen direkt."
 Efter: "…Fri frakt gäller på alla ordrar över 800 kr, vilket gör det enkelt att köpa hemmagym och komma igång med träningen direkt."
 Kontroll: teckenvis jämförelse mot originalet visar bara de godkända ändringarna A–C och den här meningen. SEO-titel och metabeskrivning oförändrade. Uppgiften om gällande fraktpolicy (fri frakt över 800 kr) kommer från David.
+
+## E. Ställbara hantlar (`stallbara-hantlar`), godkänd av David 2026-10-22
+Bara första stycket och metabeskrivningen ändras. Rubrik, SEO-titel, handle och produkter är oförändrade.
+
+Första stycket, före:
+`<p style="text-align: left;">Vi har ett brett sortiment av <a href="https://www.gorillasports.se/collections/hantlar">hantlar</a> som passar träning för både nybörjare och mer avancerade styrketräningsutövare och har hittar du våra justerbara hantlar.</p>`
+
+Efter:
+`<p style="text-align: left;">Här hittar du ställbara hantlar som hantelset med viktskivor och hantelstänger. Du ställer in vikten själv genom att sätta på eller ta bort viktskivor. Välj färdiga set om 2x10 kg eller 2x15 kg, eller köp hantelstänger och viktskivor separat och bygg ditt eget set. Letar du efter hantlar med fast vikt finns ett brett sortiment av <a href="https://www.gorillasports.se/collections/hantlar">hantlar</a> här.</p>`
+
+Metabeskrivning, före: "Justerbara hantlar där du enkelt kan ändra vikt. Perfekta för anpassad styrketräning hemma eller på gymmet för alla nivåer. Snabb leverans."
+Efter: "Ställbara hantlar som hantelset med viktskivor och hantelstänger. Välj färdiga set eller bygg ditt eget och ändra vikten efter övning. Snabb leverans."
+(SEO-titeln skickas med oförändrad: "Justerbara hantlar – Ställbara hantlar för flexibel träning".)
