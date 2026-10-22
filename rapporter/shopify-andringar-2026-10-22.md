@@ -51,3 +51,4 @@ Efter:
 Metabeskrivning, före: "Justerbara hantlar där du enkelt kan ändra vikt. Perfekta för anpassad styrketräning hemma eller på gymmet för alla nivåer. Snabb leverans."
 Efter: "Ställbara hantlar som hantelset med viktskivor och hantelstänger. Välj färdiga set eller bygg ditt eget och ändra vikten efter övning. Snabb leverans."
 (SEO-titeln skickas med oförändrad: "Justerbara hantlar – Ställbara hantlar för flexibel träning".)
+Utfört 2026-10-22 efter Davids ja. Kontroll: teckenvis jämförelse mot originalet visar bara första stycket, den tidigare rensade länken (B) och metabeskrivningen; SEO-titeln är oförändrad och resten av texten identisk.
