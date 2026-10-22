@@ -52,3 +52,12 @@ Skrivrättigheter i Shopify-kopplingen bör stå på "fråga" så att varje änd
 | Beslutsunderlag per arbetspass | `rapporter/beslut-<datum>.md` |
 | Före/efter och original | `rapporter/shopify-andringar-<datum>.md`, `rapporter/shopify-original-<datum>/` |
 | Testlogg | BigQuery: `site_audit.growth_tests` |
+
+## Körning från Cloud Shell: inloggning mot Google-API:erna
+Cloud Shells standardinloggning har inte omfång för Search Console eller GA4, så `backfill gsc` och `backfill ga4` ger "403 ACCESS_TOKEN_SCOPE_INSUFFICIENT" (upptäckt 2026-10-22). Nattjobbet påverkas inte, eftersom det kör som tjänstkontot. I Cloud Shell loggar du in en gång så att verktygen får rätt omfång, och helst som tjänstkontot, så att samma åtkomst provas som i produktion:
+```
+gcloud auth application-default login --impersonate-service-account=shopify-sync@gorilla-sports-data.iam.gserviceaccount.com
+```
+Du loggar in med ditt eget konto (länk och kod). Ger det felet `iam.serviceAccounts.getAccessToken` saknar du rollen *Service Account Token Creator* på tjänstkontot; då kan du i stället logga in som dig själv (du måste vara ägare av egendomen i Search Console): `gcloud auth application-default login --scopes=https://www.googleapis.com/auth/cloud-platform,https://www.googleapis.com/auth/webmasters.readonly,https://www.googleapis.com/auth/analytics.readonly`. Verktygen läser bara data.
+
+Search Console-vyerna (`sql/audit/views_sources_*.sql`) kan inte skapas förrän massexporten skapat tabellen `searchdata_url_impression` i datasetet (1–2 dygn efter att exporten slogs på); fel "Table … searchdata_url_impression was not found" före dess är väntat.
