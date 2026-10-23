@@ -79,6 +79,13 @@ class PageFacts:
     detected_language: str | None = None
     language_share: float = 0.0
     internal_links: list[str] = field(default_factory=list)
+    images_no_dimensions: int = 0       # <img> utan width och height (risk för layoutförskjutning, CLS)
+    images_no_lazy: int = 0             # bilder efter de två första som saknar loading="lazy"
+    product_link_count: int = 0         # unika produkter som länkas på sidan (kategorier: antal produkter i listan)
+    consent_platforms: list[str] = field(default_factory=list)  # samtyckeslösningar som syns i HTML
+    analytics_ids: list[str] = field(default_factory=list)      # G-, GTM-, AW-, UA- och Meta-pixel-id:n i HTML
+    consent_mode_default: bool = False  # gtag('consent','default', ...) finns i HTML
+    consent_mode_v2: bool = False       # ... med ad_user_data och ad_personalization
 
     def to_dict(self) -> dict[str, Any]:
         d = asdict(self)
@@ -103,6 +110,21 @@ def _types(item: dict) -> list[str]:
     return [str(t)] if t else []
 
 
+def _currencies(offers: Any) -> set[str]:
+    """priceCurrency ur erbjudanden (en, flera eller en lista med listor för produktgrupper)."""
+    out: set[str] = set()
+    if isinstance(offers, dict):
+        if offers.get("priceCurrency"):
+            out.add(str(offers["priceCurrency"]).upper())
+        for key in ("offers", "priceSpecification"):
+            if key in offers:
+                out |= _currencies(offers[key])
+    elif isinstance(offers, list):
+        for o in offers:
+            out |= _currencies(o)
+    return out
+
+
 def _image_urls(value: Any) -> list[str]:
     if isinstance(value, str):
         return [value]
@@ -123,6 +145,27 @@ def valid_absolute_url(u: str) -> bool:
         return False
     parts = urlsplit(u)
     return parts.scheme in ("http", "https") and bool(parts.netloc) and "." in parts.netloc
+
+
+CMP_SIGNATURES = {
+    "cookiebot": r"cookiebot", "onetrust": r"cookielaw\.org|onetrust", "usercentrics": r"usercentrics",
+    "iubenda": r"iubenda", "cookieyes": r"cookieyes", "consentmanager": r"consentmanager\.net", "osano": r"osano\.com",
+    "termly": r"termly\.io", "trustarc": r"trustarc", "pandectes": r"pandectes", "complianz": r"complianz",
+    "shopify_privacy": r"customerPrivacy|consent-tracking-api|privacy-banner",
+}
+ANALYTICS_ID_RE = re.compile(r"\b(G-[A-Z0-9]{6,12}|GTM-[A-Z0-9]{4,8}|AW-\d{6,12}|UA-\d{4,10}-\d{1,3})\b")
+FB_PIXEL_RE = re.compile(r"fbq\(\s*['\"]init['\"]\s*,\s*['\"]?(\d{8,20})")
+CONSENT_DEFAULT_RE = re.compile(r"""['"]consent['"]\s*,\s*['"]default['"]""")
+
+
+def detect_tracking(text: str) -> tuple[list[str], list[str], bool, bool]:
+    """Samtyckeslösningar, analys-id:n och Consent Mode i den råa HTML-texten. Observera att Shopifys egen cookiebanner och
+    webbpixlar (Customer Events) laddas av JavaScript och syns normalt inte här."""
+    cmps = sorted(k for k, pat in CMP_SIGNATURES.items() if re.search(pat, text, re.I))
+    ids = sorted(set(ANALYTICS_ID_RE.findall(text)) | {f"FB-{m}" for m in FB_PIXEL_RE.findall(text)})
+    default = bool(CONSENT_DEFAULT_RE.search(text))
+    v2 = default and "ad_user_data" in text and "ad_personalization" in text
+    return cmps, ids, default, v2
 
 
 def parse_page(url: str, html: bytes, site_host: str) -> PageFacts:
@@ -175,12 +218,17 @@ def parse_page(url: str, html: bytes, site_host: str) -> PageFacts:
                     "has_brand": bool(item.get("brand")),
                     "has_sku": bool(item.get("sku")),
                     "has_rating": bool(item.get("aggregateRating")),
+                    "currencies": sorted(_currencies(offers)),
                 })
     facts.jsonld_types = sorted(set(facts.jsonld_types))
 
     # Bilder
     for img in soup.find_all("img"):
         facts.images_total += 1
+        if not (img.get("width") and img.get("height")):
+            facts.images_no_dimensions += 1
+        if facts.images_total > 2 and (img.get("loading") or "").lower() != "lazy" and (img.get("fetchpriority") or "").lower() != "high":
+            facts.images_no_lazy += 1
         alt = img.get("alt")
         if alt is None or not alt.strip():
             facts.images_missing_alt += 1
@@ -217,6 +265,10 @@ def parse_page(url: str, html: bytes, site_host: str) -> PageFacts:
         if p.scheme in ("http", "https") and p.netloc.lower() == site_host:
             links.add(p._replace(fragment="").geturl())
     facts.internal_links = sorted(links)
+    handles = {urlsplit(l).path.split("/products/", 1)[1].split("/")[0] for l in links if "/products/" in urlsplit(l).path}
+    facts.product_link_count = len(handles)
+    facts.consent_platforms, facts.analytics_ids, facts.consent_mode_default, facts.consent_mode_v2 = detect_tracking(
+        html.decode("utf-8", errors="replace"))
 
     # Huvudtext: ta bort sidhuvud, sidfot, navigering och skript
     for tag in soup(["script", "style", "noscript", "header", "footer", "nav", "svg", "form"]):

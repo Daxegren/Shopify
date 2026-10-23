@@ -502,6 +502,10 @@ def check_link_hygiene(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
 ALL_CRAWL_CHECKS = [check_structure, check_shopify_specifics, check_status, check_redirects, check_geo, check_onpage, check_canonicals, check_hreflang,
                     check_language, check_schema, check_media, check_performance, check_content, check_link_hygiene]
 
+from .seo_depth_checks import SEO_DEPTH_CHECKS  # noqa: E402 - importeras efter _indexable, som kontrollerna använder
+
+ALL_CRAWL_CHECKS += SEO_DEPTH_CHECKS
+
 
 def run_crawl_checks(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
     out: list[Finding] = []

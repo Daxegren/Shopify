@@ -102,6 +102,80 @@ def cmd_run(args) -> int:
     return 0
 
 
+def cmd_cross_domain(args) -> int:
+    from .crossdomain import collect_pages, compare_domains
+    from .fetch import Fetcher
+    from .findings import sort_findings
+
+    all_sites = load_sites(args.config)
+    names = [n.strip() for n in args.sites.split(",") if n.strip()]
+    missing = [n for n in names if n not in all_sites]
+    if missing:
+        raise ConfigError(f"Okända sajter: {', '.join(missing)}. Tillgängliga: {', '.join(all_sites)}")
+    sel = {n: all_sites[n] for n in names}
+    fetcher = Fetcher("SiteAuditBot/0.1", min(s.crawl.requests_per_second or 3.0 for s in sel.values()))
+    pages, notes = collect_pages(sel, fetcher, args.per_type)
+    findings = sort_findings(compare_domains(pages, sel))
+    print(f"Jämförde {', '.join(names)}: {sum(len(p) for p in pages.values())} sidor hämtade, {len(findings)} fynd")
+    for n in notes:
+        print(f"  Obs: {n}")
+    for f in findings:
+        print(f"  [{f.severity}] {f.check}: {f.message}")
+    if args.out:
+        Path(args.out).mkdir(parents=True, exist_ok=True)
+        (Path(args.out) / "cross_domain.json").write_text(
+            json.dumps({"notes": notes, "findings": [f.to_dict() for f in findings]}, ensure_ascii=False, indent=1))
+        print(f"Resultat i {args.out}/cross_domain.json")
+    return 0
+
+
+def cmd_inspect(args) -> int:
+    from .fetch import Fetcher
+    from .findings import sort_findings
+    from .google_api import authorized_session
+    from .inspection import GSC_SCOPE, findings_from_rows, run_inspection, sample_urls, summarize
+    from .sitemap import read_sitemaps
+
+    site = _site(args)
+    if not site.gsc_property:
+        raise ConfigError(f"{site.name} saknar gsc_property.")
+    sm = read_sitemaps(Fetcher("SiteAuditBot/0.1", 3), site.base_url.rstrip("/") + "/sitemap.xml")
+    urls = sample_urls([e.url for e in sm.entries], args.per_type)
+    if not urls:
+        raise ConfigError("Sitemapen gav inga adresser att inspektera.")
+    print(f"Inspekterar {len(urls)} adresser i {site.gsc_property} (kvot cirka 2000 per dag)...")
+    rows = run_inspection(authorized_session([GSC_SCOPE]), site.gsc_property, urls)
+    summary = summarize(rows)
+    findings = sort_findings(findings_from_rows(rows, site.base_url))
+    print(json.dumps(summary, ensure_ascii=False, indent=1))
+    for f in findings:
+        print(f"  [{f.severity}] {f.check}: {f.message}")
+    if args.out:
+        import csv
+
+        Path(args.out).mkdir(parents=True, exist_ok=True)
+        with open(Path(args.out) / "inspection.csv", "w", newline="", encoding="utf-8") as fh:
+            w = csv.DictWriter(fh, fieldnames=list(rows[0]) if rows else ["url"], extrasaction="ignore")
+            w.writeheader()
+            w.writerows(rows)
+        (Path(args.out) / "inspection_findings.json").write_text(json.dumps([f.to_dict() for f in findings], ensure_ascii=False, indent=1))
+        print(f"Resultat i {args.out}/")
+    return 0
+
+
+def cmd_crux(args) -> int:
+    from . import crux
+
+    site = _site(args)
+    origin = args.origin or site.base_url.rstrip("/")
+    data = crux.query_history(crux.key_from_env(), origin=origin, form_factor=args.form_factor)
+    if not data:
+        print(f"CrUX har för lite besökardata för {origin} ({args.form_factor}).")
+        return 0
+    print(crux.report(origin, args.form_factor, crux.weekly_series(data)))
+    return 0
+
+
 def cmd_page(args) -> int:
     from urllib.parse import urlsplit
 
@@ -464,6 +538,24 @@ def main(argv: list[str] | None = None) -> int:
     r.add_argument("--upload", metavar="GS_URI", help="Ladda upp rapport och åtgärdsfiler till Cloud Storage, t.ex. gs://bucket/audits")
     r.add_argument("--psi", type=int, default=0, metavar="N", help="Mät Core Web Vitals för N sidor per sidtyp (kräver PSI_API_KEY)")
     r.set_defaults(func=cmd_run)
+
+    xd = sub.add_parser("cross-domain", help="Jämför domäner som delar butik (oöversatta kopior, hreflang, valuta)")
+    xd.add_argument("--sites", required=True, help="Kommaseparerade sajtnamn, t.ex. bestofsports-se,bestofsports-dk,bestofsports-fi")
+    xd.add_argument("--per-type", type=int, default=12, help="Antal kategorier och produkter per domän i urvalet")
+    xd.add_argument("--out", help="Mapp för cross_domain.json")
+    xd.set_defaults(func=cmd_cross_domain)
+
+    ins = sub.add_parser("inspect", help="Indexeringsstatus för ett urval sidor (Search Console URL Inspection)")
+    ins.add_argument("--site", required=True)
+    ins.add_argument("--per-type", type=int, default=20, help="Antal adresser per sidtyp (kvot cirka 2000 per dag)")
+    ins.add_argument("--out", help="Mapp för inspection.csv och fynd")
+    ins.set_defaults(func=cmd_inspect)
+
+    cx = sub.add_parser("crux", help="Chrome UX Report: veckovis historik för LCP, INP, CLS och TTFB")
+    cx.add_argument("--site", required=True)
+    cx.add_argument("--origin", help="Åsidosätter sajtens adress, t.ex. https://www.bestofsports.se")
+    cx.add_argument("--form-factor", default="PHONE", choices=["PHONE", "DESKTOP", "TABLET"])
+    cx.set_defaults(func=cmd_crux)
 
     pg = sub.add_parser("page", help="Analysera en enskild URL")
     pg.add_argument("url")
