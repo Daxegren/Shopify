@@ -452,7 +452,24 @@ def check_shopify_specifics(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
             out.append(F("robots_no_sitemap", "low", "indexing", "robots.txt anger ingen sitemap", url=site.base_url + "/robots.txt"))
         if blocks_all(robots, ("*", "googlebot")):
             out.append(F("robots_blocks_all", "critical", "indexing", "robots.txt blockerar hela sajten", url=site.base_url + "/robots.txt"))
+        out.extend(check_ai_crawlers(robots, site))
     return out
+
+
+# AI-tjänsternas läs- och träningsbotar. Att blockera dem är ett val, inte ett fel: blockerade botar kan inte läsa sajten för
+# att svara på frågor (GEO), men sajten kan vilja skydda innehållet. Därför bara info, så att valet är medvetet.
+AI_BOTS = ("gptbot", "chatgpt-user", "oai-searchbot", "claudebot", "claude-web", "anthropic-ai", "perplexitybot",
+           "google-extended", "ccbot", "applebot-extended", "bytespider")
+
+
+def check_ai_crawlers(robots: str, site: SiteConfig) -> list[Finding]:
+    blocked = [b for b in AI_BOTS if blocks_all(robots, (b,))]
+    url = site.base_url + "/robots.txt"
+    if blocked:
+        return [F("ai_crawlers_blocked", "info", "indexing", f"robots.txt blockerar AI-botar: {', '.join(blocked)}", url=url,
+                  evidence={"blocked": blocked, "allowed": [b for b in AI_BOTS if b not in blocked]})]
+    return [F("ai_crawlers_allowed", "info", "indexing", "robots.txt blockerar inga kända AI-botar (sajten kan läsas av AI-tjänster)", url=url,
+              evidence={"checked": list(AI_BOTS)})]
 
 
 SEARCH_PARAMS = ("_pos", "_psq", "_ss", "_sid", "_v", "_fid", "pr_prod_strat", "pr_rec_id", "pr_rec_pid", "pr_ref_pid", "pr_seq")

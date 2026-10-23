@@ -1142,3 +1142,16 @@ def test_production_sites_include_best_of_sports_as_one_store():
     # Gorilla är oförändrad: samma token, samma dataset
     assert sites["gorillasports-se"].shopify_token_env == "SHOPIFY_ACCESS_TOKEN"
     assert sites["gorillasports-se"].shopify_dataset == "gorilla-sports-data.shopify"
+
+
+def test_ai_crawler_check():
+    from site_audit.checks.crawl_checks import check_ai_crawlers
+    from site_audit.config import site_from_dict
+
+    site = site_from_dict({"name": "t", "base_url": "https://t.se"})
+    ok = check_ai_crawlers("User-agent: *\nDisallow: /admin\n", site)
+    assert [f.check for f in ok] == ["ai_crawlers_allowed"] and ok[0].severity == "info"
+    blocked = check_ai_crawlers("User-agent: GPTBot\nDisallow: /\n\nUser-agent: ClaudeBot\nDisallow: /\n\nUser-agent: *\nDisallow: /cart\n", site)
+    assert [f.check for f in blocked] == ["ai_crawlers_blocked"]
+    assert blocked[0].evidence["blocked"] == ["gptbot", "claudebot"]
+    assert "perplexitybot" in blocked[0].evidence["allowed"]

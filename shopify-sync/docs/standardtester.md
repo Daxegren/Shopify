@@ -61,3 +61,22 @@ gcloud auth application-default login --impersonate-service-account=shopify-sync
 Du loggar in med ditt eget konto (länk och kod). Ger det felet `iam.serviceAccounts.getAccessToken` saknar du rollen *Service Account Token Creator* på tjänstkontot; då kan du i stället logga in som dig själv (du måste vara ägare av egendomen i Search Console): `gcloud auth application-default login --scopes=https://www.googleapis.com/auth/cloud-platform,https://www.googleapis.com/auth/webmasters.readonly,https://www.googleapis.com/auth/analytics.readonly`. Verktygen läser bara data.
 
 Search Console-vyerna (`sql/audit/views_sources_*.sql`) kan inte skapas förrän massexporten skapat tabellen `searchdata_url_impression` i datasetet (1–2 dygn efter att exporten slogs på); fel "Table … searchdata_url_impression was not found" före dess är väntat.
+
+## Tillägg 2026-10-23: fler genomgående tester (T11–T20)
+Förslag på tester utöver T1–T10, framtagna för Best of Sports men avsedda för varje sajt. Status anger vad som är byggt och testat och vad som kräver beslut, nyckel eller mer arbete. Allt är skrivskyddat.
+
+| Nr | Test | Visar | Status | Kör |
+|---|---|---|---|---|
+| T11 | Mätintegritet | Stämmer GA4-köp, annonskonverteringar och Shopify-ordrar per vecka? Saknad tagg, trasig köphändelse, dubbelräkning, samtyckesproblem | **Klart** | `sql/analys/matintegritet.sql` (PROJ, KEY, SHOPDS) |
+| T12 | Köpflöde (mobil och desktop) | Var stannar en besökare: startsida, kategori, produkt, lägg i varukorg, varukorg, kassa. Tider, konsolfel, saknad frakt- och returinfo, inaktiv köpknapp, tom varukorg | **Klart, testad mot en låtsasbutik** (inte mot en riktig butik än) | `python3 scripts/kopflode_test.py --base-url <butik> --collection <kategori> --viewport mobile` (kräver Playwright, se skriptets huvud) |
+| T13 | AI-synlighet (GEO), del 1: trafik och åtkomst | Hur mycket trafik kommer från ChatGPT, Perplexity, Gemini, Copilot, Claude; får AI-botar läsa sajten? | **Klart** | `sql/analys/ai_hanvisningar.sql`; fyndet `ai_crawlers_blocked` eller `ai_crawlers_allowed` i T1 |
+| T13b | GEO, del 2: citeringspanel | Nämns eller citeras sajten när AI-tjänster svarar på 30–50 fasta frågor per marknad, och vilka konkurrenter nämns i stället? Körs månadsvis, sparas i BigQuery | **Behöver beslut:** kräver API-nycklar (läggs i Secret Manager, aldrig i chatten) och en kostnad per körning. Bygg först när frågepanelen är godkänd | – |
+| T14 | Produktdata | Andel aktiva produkter med "Default Title", blandade språk, versaler, slut i lager, saknad typ eller SEO-text | **Klart** | `sql/analys/produktdata_kvalitet.sql` (PROJ, SHOPDS) |
+| T15 | Annonser på produkter som inte går att köpa | Annonskronor till utkast, arkiverade eller slutsålda produkter | **Klart** | `sql/analys/annonser_pa_slutsalda.sql` (PROJ, KEY, SHOPDS) |
+| T16 | Sajthastighet, fördjupning | Utveckling över tid (Chrome UX Report-historik), tredjepartsskript och appars vikt per sidtyp, bildstorlek och format, cache | **Delvis:** T6 finns. Historik och skriptvikt är inte byggda | – |
+| T17 | SEO, fördjupning | Filter- och sorterings-URL:er i index, paginering, intern länkning (djup och ankartext), indexeringsstatus via URL Inspection API (stickprov), duplicerat leverantörsinnehåll, kategorier med färre än fyra köpbara produkter | **Delvis:** `empty_collection`, `orphan_page`, `duplicate_content` finns. Resten är inte byggt | – |
+| T18 | Flera domäner (SE, DK, FI) | hreflang mellan domänerna, språk mot domän, valuta, innehåll som kopierats mellan domänerna | **Delvis:** `hreflang_*` och `language_mismatch` finns. Kontrollen över domängränser saknas | – |
+| T19 | Samtycke och tillgänglighet | Cookie- och samtyckesläge (Consent Mode v2 påverkar GA4 och annonsmätning), tillgänglighetsfel (axe-core) | **Inte byggt.** Samtycke är troligen en av orsakerna till låg mätning | – |
+| T20 | Konkurrens och auktoritet | Bakåtlänkar, hänvisande domäner, vilka som rankar på första sidan per kategori | **Väntar på Ahrefs** (beslutat 2026-10-23: avvakta) | – |
+
+Prioritet för en ny butik med få ordrar: T12 och T11 först (varför köper ingen, och går det att lita på siffrorna), sedan T14/T15 (katalogen), T13 del 1, och därefter T17 och T16.
