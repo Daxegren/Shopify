@@ -1,0 +1,23 @@
+{
+ "id": "gid://shopify/Collection/526984020234",
+ "title": "Motionscykel",
+ "handle": "motionscykel",
+ "descriptionHtml": "<p data-start=\"364\" data-end=\"706\" style=\"text-align: left;\">Letar du efter ett enkelt sätt att förbättra kondition, styrka och uthållighet? Hos Best Of Sports hittar du ett brett utbud av motionscyklar som passar alla nivåer och träningsmål. Motionscykeln är ett mångsidigt träningsredskap som gör det möjligt att träna både lågintensiv uthållighet och högintensiv konditionsträning hemma eller på gym.</p>\n<h2 data-start=\"708\" data-end=\"742\" style=\"text-align: left;\"><strong data-start=\"708\" data-end=\"740\">Motionscykel för alla nivåer</strong></h2>\n<p data-start=\"744\" data-end=\"1056\" style=\"text-align: left;\">Våra motionscyklar finns i modeller för både nybörjare och avancerade cyklister. Med justerbart motstånd och ergonomisk design kan du anpassa träningen efter din nivå och dina mål. Motionscykeln är perfekt för intervallträning, längre cykelpass eller återhämtningsövningar och stärker både ben, rumpa och core.</p>\n<h2 data-start=\"1058\" data-end=\"1086\" style=\"text-align: left;\"><strong data-start=\"1058\" data-end=\"1084\">Funktioner och komfort</strong></h2>\n<p data-start=\"1088\" data-end=\"1430\" style=\"text-align: left;\">Moderna motionscyklar erbjuder funktioner som digitala display, pulsmätare, justerbar sits och styre samt förinställda träningsprogram. Detta gör träningen både effektiv och bekväm. Många modeller är även utrustade med transporthjul, stabil ram och tystgående mekanism, vilket gör dem lämpliga för regelbunden användning hemma eller på gym.</p>\n<h2 data-start=\"1432\" data-end=\"1465\" style=\"text-align: left;\"><strong data-start=\"1432\" data-end=\"1463\">Stationär och spinningcykel</strong></h2>\n<p data-start=\"1467\" data-end=\"1812\" style=\"text-align: left;\">Hos Best Of Sports hittar du både klassiska stationära motionscyklar och spinningcyklar. Stationära cyklar är enkla, prisvärda och idealiska för lågintensiv konditionsträning, medan spinningcyklar erbjuder högre intensitet och är perfekta för gruppträning eller hårda intervallpass. Båda typerna ger effektiv träning av benmuskler och kondition.</p>\n<h2 data-start=\"1814\" data-end=\"1852\" style=\"text-align: left;\"><strong data-start=\"1814\" data-end=\"1850\">Prisvärda och premium alternativ</strong></h2>\n<p data-start=\"1854\" data-end=\"2121\" style=\"text-align: left;\">Vi erbjuder motionscyklar i olika prisklasser och modeller, från prisvärda alternativ för hemmabruk till premiumversioner för professionella gym. Våra cyklar kombinerar kvalitet, hållbarhet och funktionalitet för att ge dig en säker och effektiv träning varje gång.</p>\n<h2 data-start=\"2123\" data-end=\"2145\" style=\"text-align: left;\"><strong data-start=\"2123\" data-end=\"2143\">Kända varumärken</strong></h2>\n<p data-start=\"2147\" data-end=\"2411\" style=\"text-align: left;\">Motionscyklarna i vårt sortiment kommer från pålitliga varumärken som TUNTURI, CHRISTOPEIT, KETTLER, HAMMER, BH Fitness, Gorilla Sports och MAXXUS. Dessa märken står för hög kvalitet, hållbarhet och prestanda, vilket gör din cykelträning både säker och effektiv.</p>\n<h2 data-start=\"2413\" data-end=\"2460\" style=\"text-align: left;\"><strong data-start=\"2413\" data-end=\"2458\">Varför köpa motionscykel hos BestOfSports</strong></h2>\n<p data-start=\"2462\" data-end=\"2777\" style=\"text-align: left;\">Hos Best Of Sports kan du köpa motionscyklar online med snabb leverans och trygg service. Våra cyklar är designade för maximal komfort, funktion och hållbarhet, vilket gör det enkelt att träna kondition hemma eller på gymmet. Utforska vårt sortiment idag och hitta motionscykeln som passar din träning och dina mål!</p>",
+ "productsCount": {
+  "count": 125
+ },
+ "seo": {
+  "title": "Motionscykel & Träningscykel – Köp motionscyklar online",
+  "description": "Motionscyklar ger dig friheten att träna när det passar, med justerbart motstånd och olika träningsprogram för effektiv kondition hemma eller på gym."
+ },
+ "ruleSet": {
+  "appliedDisjunctively": true,
+  "rules": [
+   {
+    "column": "TAG",
+    "relation": "EQUALS",
+    "condition": "motionscykel"
+   }
+  ]
+ }
+}

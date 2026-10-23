@@ -1,0 +1,33 @@
+{
+ "id": "gid://shopify/Collection/561794285834",
+ "title": "Träningsbyxor - Dam",
+ "handle": "traningsbyxor-dam",
+ "descriptionHtml": "<p data-start=\"166\" data-end=\"504\" style=\"text-align: left;\">Upptäck vårt breda sortiment av träningsbyxor för dam som kombinerar komfort, funktion och stil. Oavsett om du tränar styrka, löpning, yoga, pilates eller crossfit hittar du byxor som ger optimal rörelsefrihet och håller dig bekväm under hela passet. Våra träningsbyxor finns i storlekar från XS till XXL för att passa alla kroppstyper.</p>\n<h2 data-start=\"506\" data-end=\"558\" style=\"text-align: left;\">Funktionella träningsbyxor för alla aktiviteter</h2>\n<p data-start=\"560\" data-end=\"992\" style=\"text-align: left;\">Vi erbjuder träningsbyxor som passar alla typer av träning. Tights och långbyxor ger stöd och flexibilitet under styrketräning och högintensiva pass, medan shorts är perfekta för löpning och varma dagar. Materialen är andningsbara och slitstarka, vilket gör att du kan prestera på topp utan att kompromissa med komforten. Många modeller har elastiska midjor och justerbara snören för en perfekt passform under hela träningspasset.</p>\n<h2 data-start=\"994\" data-end=\"1039\" style=\"text-align: left;\">Populära varumärken och moderna modeller</h2>\n<p data-start=\"1041\" data-end=\"1533\" style=\"text-align: left;\">Vårt sortiment inkluderar populära varumärken som Urban Classics, Just Rhyse, Brandit och Mister Tee. Dessa märken är kända för hög kvalitet, slitstarka material och moderna designlösningar som fungerar både vid träning och till vardags. Du hittar både klassiska träningsbyxor och trendiga modeller med stilrena detaljer som låter dig kombinera funktion och mode. Sortimentet uppdateras kontinuerligt med nya kollektioner och modeller för att alltid ge dig det senaste inom damträningsmode.</p>\n<h2 data-start=\"1535\" data-end=\"1585\" style=\"text-align: left;\">Storlekar och passformer för alla kroppstyper</h2>\n<p data-start=\"1587\" data-end=\"1914\" style=\"text-align: left;\">Oavsett kroppstyp hittar du träningsbyxor som sitter bekvämt och håller formen över tid. Vårt utbud sträcker sig från XS till XXL och inkluderar modeller som passar alla träningsformer. Kombinera byxorna med träningslinnen, t-shirts och hoodies för att skapa den perfekta träningsoutfiten som ger både stöd och rörelsefrihet.</p>\n<h2 data-start=\"1916\" data-end=\"1945\" style=\"text-align: left;\">Stil och komfort i fokus</h2>\n<p data-start=\"1947\" data-end=\"2340\" style=\"text-align: left;\">Träningsbyxorna för dam är både funktionella och trendiga. Moderna snitt, färger och detaljer gör att du kan känna dig självsäker under hela träningspasset. Välj mellan olika modeller som matchar din stil och kompletterar din träningsgarderob. Våra träningsbyxor är designade för att prestera under träning men fungerar också som bekväma vardagsbyxor när du vill kombinera stil och funktion.</p>\n<p data-start=\"2342\" data-end=\"2480\" style=\"text-align: left;\">Utforska vårt sortiment av träningsbyxor för dam och hitta modeller som kombinerar stil, komfort och funktion för alla typer av träning.</p>",
+ "productsCount": {
+  "count": 1
+ },
+ "seo": {
+  "title": "Träningsbyxor för dam – bekväma och trendiga för alla träningspass",
+  "description": "Upptäck träningsbyxor för dam från Urban Classics, Just Rhyse, Brandit och Mister Tee. Funktionella och stilrena byxor för styrka, löpning och vardag."
+ },
+ "ruleSet": {
+  "appliedDisjunctively": false,
+  "rules": [
+   {
+    "column": "TAG",
+    "relation": "EQUALS",
+    "condition": "tights"
+   },
+   {
+    "column": "TAG",
+    "relation": "EQUALS",
+    "condition": "dam"
+   },
+   {
+    "column": "TAG",
+    "relation": "NOT_EQUALS",
+    "condition": "Shorts"
+   }
+  ]
+ }
+}

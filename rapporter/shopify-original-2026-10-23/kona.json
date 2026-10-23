@@ -1,0 +1,22 @@
+{
+ "id": "gid://shopify/Collection/561579098378",
+ "title": "Kona",
+ "descriptionHtml": "<p data-start=\"133\" data-end=\"649\" style=\"text-align: left;\">Kona är ett internationellt känt varumärke inom cyklar och cykeltillbehör, grundat 1988 i Vancouver, Kanada. Varumärket är särskilt känt för sina högkvalitativa mountainbikes, gravelcyklar, landsvägscyklar och elcyklar. Kona kombinerar innovativ design, hållbarhet och prestanda, vilket gör deras cyklar perfekta för både nybörjare och erfarna cyklister. Hos BestOfSports hittar du ett brett sortiment av Kona-cyklar och tillbehör som passar alla typer av cykling, från pendling och träning till äventyr i terräng.</p>\n<h2 data-start=\"651\" data-end=\"687\" style=\"text-align: left;\">Mountainbikes och terrängcyklar</h2>\n<p data-start=\"688\" data-end=\"1090\" style=\"text-align: left;\">Kona har sina rötter inom mountainbike och terrängcykling och erbjuder ett stort utbud av mountainbikes för downhill, enduro och freeride. Dessa cyklar är byggda för att klara tuffa förhållanden med robusta ramar, avancerade fjädringssystem och hållbara komponenter. Med Kona mountainbikes får du kontroll, stabilitet och grepp på alla typer av terräng, vilket gör varje tur både säker och spännande.</p>\n<h2 data-start=\"1092\" data-end=\"1129\" style=\"text-align: left;\">Landsvägscyklar och gravelcyklar</h2>\n<p data-start=\"1130\" data-end=\"1524\" style=\"text-align: left;\">För dig som föredrar landsväg eller gravel erbjuder Kona högkvalitativa cyklar som kombinerar hastighet, prestanda och komfort. Landsvägscyklarna är designade för uthållighetsträning, tävling och långdistansåkning, medan gravelcyklarna klarar både asfalt och grus med lättmanövrerade ramar och pålitliga komponenter. Kona-cyklarna ger en stabil och bekväm cykelupplevelse även på långa turer.</p>\n<h2 data-start=\"1526\" data-end=\"1557\" style=\"text-align: left;\">Elcyklar och pendlarcyklar</h2>\n<p data-start=\"1558\" data-end=\"1902\" style=\"text-align: left;\">Kona erbjuder även elcyklar som gör pendling och träning enklare och roligare. Med kraftfull motorassistans, ergonomisk design och hållbar konstruktion blir elcykling både bekvämt och effektivt. Pendlarcyklar från Kona är utrustade med praktiska funktioner som pakethållare, belysning och stabila bromssystem för en säker och smidig cykeltur.</p>\n<h2 data-start=\"1904\" data-end=\"1932\" style=\"text-align: left;\">Barn- och ungdomscyklar</h2>\n<p data-start=\"1933\" data-end=\"2247\" style=\"text-align: left;\">Kona har också cyklar för barn och ungdomar som är anpassade för olika åldrar och storlekar. Cyklarna är designade med säkerhet, hållbarhet och ergonomi i fokus, vilket gör det roligt och tryggt för de yngre att cykla. Med färgglada designs och robusta komponenter blir varje cykeltur en inspirerande upplevelse.</p>\n<h2 data-start=\"2249\" data-end=\"2271\" style=\"text-align: left;\">Varför välja Kona</h2>\n<p data-start=\"2272\" data-end=\"2619\" style=\"text-align: left;\">Att välja Kona innebär att investera i cyklar och tillbehör som kombinerar kvalitet, innovation och prestanda. Oavsett om du vill träna, pendla eller utforska naturen erbjuder Kona lösningar som passar alla nivåer och behov. Produkterna är byggda för hållbarhet, komfort och funktionalitet, vilket gör varje cykeltur både säker och inspirerande.</p>\n<p data-start=\"2621\" data-end=\"2894\" style=\"text-align: left;\">Utforska Kona hos Best Of Sports och hitta cyklar och tillbehör som hjälper dig att förbättra prestation, öka säkerheten och göra varje cykeltur rolig och hållbar. Med Kona får du produkter som kombinerar kvalitet, innovation och funktionalitet för alla typer av cyklister.</p>",
+ "productsCount": {
+  "count": 101
+ },
+ "seo": {
+  "title": "Kona Cyklar och Tillbehör – Mountainbike, Landsväg och Elcykel ",
+  "description": "Upptäck Kona hos BestOfSports cyklar för mountainbike, landsväg, gravel och elcykel med hög kvalitet, hållbarhet och innovativ design."
+ },
+ "ruleSet": {
+  "appliedDisjunctively": false,
+  "rules": [
+   {
+    "column": "VENDOR",
+    "relation": "EQUALS",
+    "condition": "Kona"
+   }
+  ]
+ }
+}

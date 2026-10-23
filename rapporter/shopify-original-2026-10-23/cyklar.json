@@ -1,0 +1,28 @@
+{
+ "id": "gid://shopify/Collection/561572839690",
+ "title": "Cykel",
+ "handle": "cyklar",
+ "descriptionHtml": "<p style=\"text-align: left;\" data-end=\"577\" data-start=\"172\">Letar du efter cyklar online? Hos BestOfSports hittar du ett komplett utbud av cyklar för alla behov och alla typer av cyklister. Vi erbjuder allt från klassiska herrcyklar och damcyklar till mountainbikes, racercyklar, elcyklar, lådcyklar och barncyklar. Oavsett om du vill köpa en cykel för vardagspendling, träning, terrängcykling eller familjeturer, har vi modeller som passar alla nivåer och behov.</p>\n<p style=\"text-align: left;\" data-end=\"900\" data-start=\"579\">När du ska köpa cykel är det viktigt att tänka på vilken typ av cykel som passar ditt användningsområde, vilken ramstorlek som är rätt för dig och om du vill ha en cykel med el-assistans eller traditionell trampdrift. Fundera även på vilka tillbehör du behöver, som cykelkorg, pakethållare, stänkskärmar eller barnstol.</p>\n<h2 style=\"text-align: left;\" data-end=\"1238\" data-start=\"902\"><strong data-end=\"930\" data-start=\"902\">Herrcyklar och damcyklar</strong></h2>\n<p style=\"text-align: left;\" data-end=\"1238\" data-start=\"902\">Våra herr och damcyklar är perfekta för både pendling, fritid och träning. Med fokus på komfort, säkerhet och hållbarhet får du en cykel som gör varje tur både effektiv och rolig. Oavsett om du vill ha en lättare stadscykel eller en mer robust hybridcykel, har vi alternativ som passar just dina behov.</p>\n<h2 style=\"text-align: left;\" data-end=\"1578\" data-start=\"1240\"><strong data-end=\"1257\" data-start=\"1240\">Mountainbikes</strong></h2>\n<p style=\"text-align: left;\" data-end=\"1578\" data-start=\"1240\">Letar du efter den bästa mountainbiken? Våra mountainbikes är designade för tuff terräng och off-road-cykling. Med kraftiga däck, stötdämpning och robust ram kan du cykla på stigar, grusvägar och ojämna underlag med full kontroll och stabilitet. Mountainbike-träning är perfekt för både styrka, kondition och balans.</p>\n<h2 style=\"text-align: left;\" data-end=\"1822\" data-start=\"1580\"><strong data-end=\"1595\" data-start=\"1580\">Racercyklar</strong></h2>\n<p style=\"text-align: left;\" data-end=\"1822\" data-start=\"1580\">Racercyklar är idealiska för landsvägscykling och snabb träning. Våra racercyklar är lätta, aerodynamiska och byggda för hög prestanda. Perfekt för dig som vill cykla långt och snabbt, eller träna inför lopp och tävlingar.</p>\n<h2 style=\"text-align: left;\" data-end=\"2093\" data-start=\"1824\"><strong data-end=\"1836\" data-start=\"1824\">Elcyklar</strong></h2>\n<p style=\"text-align: left;\" data-end=\"2093\" data-start=\"1824\">Elcyklar blir allt populärare för både vardag och fritid. Med el-assistans får du extra kraft i uppförsbackar och på längre sträckor. Våra elcyklar finns både för herr, dam och unisex och kombinerar modern teknik med lång batteritid och pålitlig motor.</p>\n<h2 style=\"text-align: left;\" data-end=\"2446\" data-start=\"2095\"><strong data-end=\"2123\" data-start=\"2095\">Lådcyklar och barncyklar</strong></h2>\n<p style=\"text-align: left;\" data-end=\"2446\" data-start=\"2095\">Lådcyklar är praktiska för familj, transporter och vardaglig användning. Våra stabila lådcyklar kan bära både barn och varor, vilket gör dem till ett hållbart och funktionellt alternativ. Vi har även barncyklar för alla åldrar, med säkerhetsanpassade modeller som gör det enkelt och roligt för barn att lära sig cykla.</p>\n<h2 style=\"text-align: left;\" data-end=\"2765\" data-start=\"2448\"><strong data-end=\"2487\" data-start=\"2448\">Varför köpa cyklar hos Best Of Sports</strong></h2>\n<p style=\"text-align: left;\" data-end=\"2765\" data-start=\"2448\">Hos Best Of Sports kan du köpa cyklar online från välkända varumärken med hög kvalitet. Våra cyklar är robusta, säkra och designade för att ge dig en bekväm och rolig cykelupplevelse. Vi erbjuder cyklar för alla typer av cyklister. Nybörjare, motionärer och erfarna atleter.</p>\n<p style=\"text-align: left;\" data-end=\"3029\" data-start=\"2767\">Oavsett om du vill köpa mountainbike, racercykel, elcykel, lådcykel, herr- eller damcykel, eller barncykel online, har Best Of Sports cyklar som kombinerar kvalitet, komfort och prestanda. Utforska vårt breda sortiment idag och hitta den perfekta cykeln för dig!</p>",
+ "productsCount": {
+  "count": 922
+ },
+ "seo": {
+  "title": "Köp Cyklar Online – Herr, Dam, Mountainbike, Elcykel & Barncyklar ",
+  "description": "Köp cyklar online hos BestOfSports – herr, dam, mountainbike, racercykel, elcykel, lådcykel och barncykel i hög kvalitet. Snabb leverans. Nöjda kunder."
+ },
+ "ruleSet": {
+  "appliedDisjunctively": true,
+  "rules": [
+   {
+    "column": "TAG",
+    "relation": "EQUALS",
+    "condition": "cykel"
+   },
+   {
+    "column": "TAG",
+    "relation": "EQUALS",
+    "condition": "cyklar"
+   }
+  ]
+ }
+}

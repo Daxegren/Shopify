@@ -1,0 +1,33 @@
+{
+ "id": "gid://shopify/Collection/561575952650",
+ "title": "Pedal - Cykel",
+ "handle": "pedaler-cykel",
+ "descriptionHtml": "<p data-start=\"126\" data-end=\"381\" style=\"text-align: left;\">Pedaler är en central del av cykeln och påverkar både komfort och effektivitet under cykelturen. Hos Best Of Sports hittar du ett brett utbud av pedaler som passar alla typer av cyklar, från stadscyklar och hybridcyklar till mountainbikes och racercyklar.</p>\n<h2 data-start=\"383\" data-end=\"411\" style=\"text-align: left;\"><strong data-start=\"383\" data-end=\"409\">Olika typer av pedaler</strong></h2>\n<p data-start=\"413\" data-end=\"800\" style=\"text-align: left;\">Vi erbjuder flera typer av pedaler, inklusive plattformspedaler, kombipedaler, SPD-pedaler och clipless-pedaler. Plattformspedaler ger stabilitet och komfort för vardagscykling. SPD- och clipless-pedaler är perfekta för träning och racing, då de ger bättre kraftöverföring och kontroll. Kombipedaler kombinerar fördelarna med plattform och SPD, vilket ger flexibilitet beroende på sko.</p>\n<h2 data-start=\"802\" data-end=\"833\" style=\"text-align: left;\"><strong data-start=\"802\" data-end=\"831\">Material och konstruktion</strong></h2>\n<p data-start=\"835\" data-end=\"1091\" style=\"text-align: left;\">Alla våra pedaler är tillverkade i slitstarka material som aluminium, komposit och stål, vilket ger lång hållbarhet och säker användning. Många modeller har kullager för smidig rotation och minskad friktion, vilket gör cyklingen både effektiv och bekväm.</p>\n<h2 data-start=\"1093\" data-end=\"1132\" style=\"text-align: left;\"><strong data-start=\"1093\" data-end=\"1130\">Enkel installation och anpassning</strong></h2>\n<p data-start=\"1134\" data-end=\"1377\" style=\"text-align: left;\">Pedalerna är enkla att montera på cykeln och kan bytas ut efter behov. Vi erbjuder modeller som passar både fram- och bakpedalens standardgängor. Vissa pedaler har även anti-slip-yta eller reflekterande detaljer för ökad säkerhet vid mörker.</p>\n<h2 data-start=\"1379\" data-end=\"1421\" style=\"text-align: left;\"><strong data-start=\"1379\" data-end=\"1419\">Varför köpa pedaler hos Best Of Sports</strong></h2>\n<p data-start=\"1423\" data-end=\"1672\" style=\"text-align: left;\">Hos Best Of Sports kan du köpa pedaler online från pålitliga märken som erbjuder kvalitet, hållbarhet och funktion. Oavsett om du vill ha pedaler för pendling, fritid eller sport, hittar du alternativ som gör varje cykeltur både bekväm och effektiv.</p>\n<p data-start=\"1674\" data-end=\"1754\" style=\"text-align: left;\">Uppgradera din cykel med pedaler som kombinerar funktion, hållbarhet och stil.</p>",
+ "productsCount": {
+  "count": 31
+ },
+ "seo": {
+  "title": "Cykelpedaler – Pedaler för alla typer av cyklar - Stort sortiment",
+  "description": "Hitta cykelpedaler som ger bästa kraftöverföring och komfort. Välj bland plattformspedaler, SPD och clipless för vardag eller träning. Snabb leverans."
+ },
+ "ruleSet": {
+  "appliedDisjunctively": true,
+  "rules": [
+   {
+    "column": "TAG",
+    "relation": "EQUALS",
+    "condition": "pedal"
+   },
+   {
+    "column": "TAG",
+    "relation": "EQUALS",
+    "condition": "Pedaler"
+   },
+   {
+    "column": "TAG",
+    "relation": "EQUALS",
+    "condition": "pedals"
+   }
+  ]
+ }
+}

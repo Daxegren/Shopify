@@ -1,0 +1,28 @@
+{
+ "id": "gid://shopify/Collection/526981431562",
+ "title": "Träningsbänk",
+ "handle": "traningsbank",
+ "descriptionHtml": "<p data-start=\"335\" data-end=\"778\" style=\"text-align: left;\">Letar du efter en träningsbänk för hemmagym eller professionellt gym? Hos Best Of Sports hittar du ett brett utbud av träningsbänkar som kombinerar stabilitet, kvalitet och funktionalitet. En träningsbänk är en av de mest mångsidiga utrustningarna i gymmet och kan användas för bänkpress, hantelträning, magövningar, axelövningar och mycket mer. Med rätt träningsbänk kan du utföra hela kroppens styrketräning på ett effektivt och säkert sätt.</p>\n<p data-start=\"780\" data-end=\"1195\" style=\"text-align: left;\">När du ska köpa en träningsbänk är det viktigt att tänka på vilka övningar du vill fokusera på, vilken viktkapacitet som krävs och om bänken ska vara justerbar. Vill du ha en justerbar träningsbänk med lutning och decline för fler övningar, eller en platt bänk för traditionell bänkpress och hantelträning? Fundera även på storlek, stabilitet och om bänken ska användas hemma, i garage eller i ett större gym.</p>\n<h2 data-start=\"1197\" data-end=\"1239\" style=\"text-align: left;\"><strong data-start=\"1197\" data-end=\"1237\">Justerbara och platta träningsbänkar</strong></h2>\n<p data-start=\"1241\" data-end=\"1600\" style=\"text-align: left;\">Vi erbjuder både justerbara och platta träningsbänkar. Justerbara bänkar ger möjlighet till lutning för bänkpress, axelpress och sittande övningar, medan platta bänkar är perfekta för traditionell bänkpress och grundläggande styrketräning. Våra bänkar är designade för att ge maximal stabilitet och säkerhet, med slitstarka material som tål tung belastning.</p>\n<h2 data-start=\"1602\" data-end=\"1639\" style=\"text-align: left;\"><strong data-start=\"1602\" data-end=\"1637\">Prisvärda och premiumalternativ</strong></h2>\n<p data-start=\"1641\" data-end=\"2033\" style=\"text-align: left;\">Hos Best Of Sports hittar du både prisvärda träningsbänkar och premiumalternativ med hög kvalitet, robust konstruktion och lång livslängd. Våra bänkar är byggda för att tåla intensiv träning, ge stabilitet och säkerhet vid alla typer av styrketräning. Med rätt träningsbänk kan du skapa ett komplett hemmagym eller komplettera ett professionellt gym med mångsidig utrustning för hela kroppen.</p>\n<h2 data-start=\"2035\" data-end=\"2057\" style=\"text-align: left;\"><strong data-start=\"2035\" data-end=\"2055\">Kända varumärken</strong></h2>\n<p data-start=\"2059\" data-end=\"2426\" style=\"text-align: left;\">Vi erbjuder träningsbänkar från ledande varumärken som TUNTURI, CHRISTOPEIT, KETTLER, HAMMER, BH Fitness, Gorilla Sports och MAXXUS. Dessa märken står för kvalitet, säkerhet och funktionalitet. Oavsett om du letar efter en prisvärd träningsbänk eller en premium träningsbänk med justerbar lutning, hittar du en modell som passar dina behov och ditt utrymme.</p>\n<h2 data-start=\"2428\" data-end=\"2475\" style=\"text-align: left;\"><strong data-start=\"2428\" data-end=\"2473\">Varför köpa träningsbänk hos Best Of Sports</strong></h2>\n<p data-start=\"2477\" data-end=\"2798\" style=\"text-align: left;\">Hos Best Of Sports kan du köpa träningsbänkar online med snabb leverans och trygg service. Våra bänkar är byggda för maximal hållbarhet, säkerhet och funktion, oavsett om du tränar hemma eller på gym. Utforska vårt sortiment idag och hitta den perfekta träningsbänken som gör styrketräningen effektiv, säker och varierad.</p>",
+ "productsCount": {
+  "count": 41
+ },
+ "seo": {
+  "title": "Träningsbänk – Justerbar, platt och hopfällbar för olika övningar",
+  "description": "Upptäck träningsbänkar från TUNTURI, CHRISTOPEIT, KETTLER, HAMMER, BH Fitness, Gorilla Sports och MAXXUS. Stabil, justerbar och perfekt för hemmagym och gym."
+ },
+ "ruleSet": {
+  "appliedDisjunctively": true,
+  "rules": [
+   {
+    "column": "TAG",
+    "relation": "EQUALS",
+    "condition": "träningsbänk"
+   },
+   {
+    "column": "TAG",
+    "relation": "EQUALS",
+    "condition": "bänk"
+   }
+  ]
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "handle": "barncyklar-6-8-ar-20",
+ "productsCount": {
+  "count": 13
+ },
+ "descriptionHtml": "<p data-start=\"367\" data-end=\"739\" style=\"text-align: left;\">Letar du efter barncyklar för barn 6-8 år? Hos Best Of Sports hittar du ett brett utbud av cyklar i storlek 20 tum, perfekt anpassade för barn som vill cykla längre sträckor och utforska sin omgivning mer självständigt. Dessa barncyklar är designade med fokus på säkerhet, balans och komfort, så att barnet kan cykla tryggt och roligt på både asfalt och lättare grusvägar.</p>\n<p data-start=\"741\" data-end=\"1186\" style=\"text-align: left;\">När du ska köpa en barncykel för 6-8 år är det viktigt att tänka på barnets längd, styrka och erfarenhet. Vill du ha en barncykel med växlar för varierad terräng, eller en enklare modell för stadscykling och lek? Fundera även på bromstyp, ramdesign och om du vill ha tillbehör som pakethållare, korg, reflexer eller ringklocka. Hos oss hittar du barncyklar som gör det enkelt och roligt för barnen att cykla längre och med självförtroende.</p>\n<h2 data-start=\"1188\" data-end=\"1244\" style=\"text-align: left;\"><strong data-start=\"1188\" data-end=\"1242\">Barncyklar 20 tum för nybörjare och vana cyklister</strong></h2>\n<p data-start=\"1246\" data-end=\"1633\" style=\"text-align: left;\">Våra cyklar för 6-8 år har 20-tums hjul och stabil ram, vilket gör dem lätta för barn att hantera och ger trygghet vid snabbare cykling. Modeller med växlar är perfekta för barn som vill cykla både uppför och nerför backar med lätthet. Med ergonomiskt anpassad sadel och greppvänliga handtag får barnet en bekväm och säker cykelupplevelse som uppmuntrar till aktivitet och cykelglädje.</p>\n<h2 data-start=\"1635\" data-end=\"1671\" style=\"text-align: left;\"><strong data-start=\"1635\" data-end=\"1669\">Prisvärda och premium modeller</strong></h2>\n<p data-start=\"1673\" data-end=\"2053\" style=\"text-align: left;\">Hos Best Of Sports hittar du både prisvärda barncyklar och premiumcyklar för 6-8 år med hög kvalitet och slitstarka komponenter. Våra cyklar är byggda för hållbarhet, säkerhet och komfort, oavsett om barnet cyklar korta turer i trädgården, till skolan eller längre helgturer. Med rätt barncykel kan barnet utveckla balans, styrka och självförtroende på ett roligt och tryggt sätt.</p>\n<h2 data-start=\"2055\" data-end=\"2077\" style=\"text-align: left;\"><strong data-start=\"2055\" data-end=\"2075\">Kända varumärken</strong></h2>\n<p data-start=\"2079\" data-end=\"2388\" style=\"text-align: left;\">Vi erbjuder barncyklar 20 tum från märken som Romet, Liv, Giant, S´COOL och Tabou. Dessa märken står för kvalitet, säkerhet och hållbarhet. Oavsett om du letar efter en prisvärd barncykel 20 tum eller en premiumcykel med växlar, hittar du ett alternativ som passar barnets behov och utvecklingsnivå.</p>\n<h2 data-start=\"2390\" data-end=\"2441\" style=\"text-align: left;\"><strong data-start=\"2390\" data-end=\"2439\">Varför köpa barncykel 6-8 år hos Best Of Sports</strong></h2>\n<p data-start=\"2443\" data-end=\"2754\" style=\"text-align: left;\">Hos Best Of Sports kan du köpa barncyklar för 6-8 år online med snabb leverans och trygg service. Våra cyklar är byggda för maximal säkerhet, komfort och stabilitet. Utforska vårt sortiment idag och hitta den perfekta barncykeln som gör det roligt, tryggt och inspirerande för ditt barn att cykla självständigt.</p>",
+ "ruleSet": {
+  "appliedDisjunctively": false,
+  "rules": [
+   {
+    "column": "TAG",
+    "relation": "EQUALS",
+    "condition": "barncykel-20"
+   }
+  ]
+ },
+ "products": {
+  "nodes": [
+   {
+    "title": "Barncykel S'COOL Xroc, 20\" Oxid/Rosa",
+    "status": "ACTIVE",
+    "totalInventory": 3
+   },
+   {
+    "title": "Barncykel LIV STP 20 FS, Hot Pink",
+    "status": "ACTIVE",
+    "totalInventory": 2
+   },
+   {
+    "title": "Barncykel S'COOL Xroc, 20\" Neon Grön/Ocean",
+    "status": "ACTIVE",
+    "totalInventory": 2
+   },
+   {
+    "title": "Barncykel GIANT STP 20, Metallic Orange",
+    "status": "ACTIVE",
+    "totalInventory": 6
+   },
+   {
+    "title": "Barncykel LIV STP 20, Soap Suds",
+    "status": "ACTIVE",
+    "totalInventory": 6
+   },
+   {
+    "title": "Barncykel GIANT Talon 20, Snow Drift",
+    "status": "ACTIVE",
+    "totalInventory": 12
+   },
+   {
+    "title": "Barncykel LIV Tempt 20, Virtual Pink",
+    "status": "ACTIVE",
+    "totalInventory": 7
+   },
+   {
+    "title": "Barncykel TABOU Queen 20, vit-mint",
+    "status": "ACTIVE",
+    "totalInventory": 3
+   },
+   {
+    "title": "Ultralätt barncykel GIANT ARX 20, Lime Punch",
+    "status": "ACTIVE",
+    "totalInventory": 3
+   },
+   {
+    "title": "Barncykel LIV Tempt 20, AI Blue",
+    "status": "ACTIVE",
+    "totalInventory": 9
+   },
+   {
+    "title": "Barncykel ROMET Rambler 20 KID 2, gul-grå",
+    "status": "ACTIVE",
+    "totalInventory": 9
+   },
+   {
+    "title": "Barncykel S´COOL Wave Steel LTD, 20\" korall/röd",
+    "status": "ACTIVE",
+    "totalInventory": 8
+   },
+   {
+    "title": "Barncykel ROMET Rambler 20 KID 1, lime-grå",
+    "status": "ACTIVE",
+    "totalInventory": 7
+   }
+  ]
+ }
+}

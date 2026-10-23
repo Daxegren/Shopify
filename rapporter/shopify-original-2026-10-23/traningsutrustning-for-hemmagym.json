@@ -1,0 +1,58 @@
+{
+ "id": "gid://shopify/Collection/582548226314",
+ "title": "Träningsutrustning för hemmagym",
+ "handle": "traningsutrustning-for-hemmagym",
+ "descriptionHtml": "<p>Med rätt träningsutrustning kan du skapa ett komplett hemmagym och få möjlighet att träna effektivt utan att behöva ta dig till ett gym. Hos Best Of Sports hittar du träningsutrustning för hemmagym i flera olika modeller, vikter och utföranden. Oavsett om du vill bygga ett enkelt hemmagym för grundläggande styrketräning eller skapa en mer komplett träningsmiljö finns utrustning för både nybörjare och erfarna träningsentusiaster.</p>\n<p>Ett hemmagym kan anpassas efter dina träningsmål, tillgängliga yta och budget. Från <a href=\"https://bestofsports.se/collections/hantlar\">hantlar</a>, <a href=\"https://bestofsports.se/collections/kettlebell\">kettlebells</a> och <a href=\"https://bestofsports.se/collections/traningsbank?_pos=1&amp;_psq=tr%C3%A4ningsb%C3%A4nk&amp;_psid=a7994d7cd&amp;_ss=e\">träningsbänkar</a> till skivstänger, viktskivor, träningsställningar och <a href=\"https://bestofsports.se/collections/konditionsutrustning\">konditionsutrustning</a> finns många möjligheter att skapa en träningsplats som passar just dig. Genom att välja rätt kombination av träningsredskap kan du träna hela kroppen och variera din träning över tid.</p>\n<h2>Hantlar, kettlebells och fria vikter för hemmaträning</h2>\n<p>Fria vikter är ett bra val när du vill ha flexibel träningsutrustning som tar relativt lite plats. Med <a href=\"https://bestofsports.se/collections/hantlar\" title=\"Hantlar\">hantlar</a> kan du träna exempelvis armar, axlar, bröst och rygg, medan <a href=\"https://bestofsports.se/collections/kettlebell\" title=\"Kettlebell\">kettlebells</a> passar för både styrka, kondition och funktionell träning.</p>\n<p>Skivstänger och viktskivor ger ytterligare möjligheter för dig som vill bygga ett mer avancerat hemmagym. Med rätt vikter kan du anpassa belastningen efter din nivå och successivt öka motståndet i takt med att du blir starkare.</p>\n<h2>Träningsbänkar och träningsställningar</h2>\n<p>En träningsbänk är en mångsidig del av hemmagymmet och kan användas tillsammans med både hantlar och skivstänger. En justerbar träningsbänk gör det möjligt att variera lutningen och utföra fler övningar för överkroppen.</p>\n<p>För dig som vill kunna träna med skivstång hemma kan ett stabilt träningsställ vara ett bra komplement. Kombinationen av bänk, skivstång och viktskivor ger en flexibel lösning för många klassiska styrkeövningar och gör det enklare att bygga upp ett komplett hemmagym.</p>\n<h2>Träningsmaskiner för hemmagym</h2>\n<p>Träningsmaskiner kan vara ett bra alternativ för dig som vill ha mer strukturerad träning hemma. Med ett multigym eller annan träningsmaskin kan du träna flera muskelgrupper på samma plats utan att behöva köpa många separata träningsredskap.</p>\n<p>För hemmagym med mer utrymme finns även möjlighet att kombinera styrketräning med konditionsträning. På så sätt kan du skapa en komplett träningsmiljö där du kan variera mellan styrka, kondition och funktionell träning.</p>\n<h2>Så väljer du rätt träningsutrustning för hemmagymmet</h2>\n<p>När du ska köpa träningsutrustning till hemmagymmet är det bra att utgå från hur du vill träna. Fundera på vilka övningar och träningsformer du använder mest och välj utrustning som kan användas till flera olika övningar. På så sätt får du ut mer av både din träningsyta och din investering.</p>\n<p>Även utrymmet är viktigt att ta hänsyn till. För ett mindre hemmagym kan exempelvis hantlar, kettlebells och en justerbar träningsbänk vara en flexibel lösning. Har du större yta kan du komplettera med skivstång, viktskivor, träningsställning, kabelmaskin eller multigym.</p>\n<h2>Bygg ditt hemmagym med Best Of Sports</h2>\n<p>Hos Best Of Sports hittar du träningsutrustning för hemmagym för olika träningsmål, erfarenhetsnivåer och behov. Med ett brett sortiment av träningsredskap och gymutrustning kan du bygga ett hemmagym som passar både din träningsstil och den yta du har tillgänglig.</p>\n<p>Oavsett om du vill köpa några få träningsredskap för att komma igång eller utrusta ett komplett hemmagym kan du kombinera olika produkter för att skapa en varierad och effektiv träning. Utforska vårt sortiment av träningsutrustning och hitta rätt produkter för ditt hemmagym hos Best Of Sports.</p>",
+ "productsCount": {
+  "count": 987
+ },
+ "seo": {
+  "title": "Träningsutrustning för hemmagym – Köp gymutrustning online",
+  "description": "Köp träningsutrustning för hemmagym hos Best Of Sports. Hitta hantlar, kettlebells, träningsbänkar, skivstänger och mer för effektiv hemmaträning."
+ },
+ "ruleSet": {
+  "appliedDisjunctively": true,
+  "rules": [
+   {
+    "column": "TAG",
+    "relation": "EQUALS",
+    "condition": "gym"
+   },
+   {
+    "column": "TAG",
+    "relation": "EQUALS",
+    "condition": "Vikter"
+   },
+   {
+    "column": "TAG",
+    "relation": "EQUALS",
+    "condition": "Hantlar"
+   },
+   {
+    "column": "TAG",
+    "relation": "EQUALS",
+    "condition": "Motionscykel"
+   },
+   {
+    "column": "TAG",
+    "relation": "EQUALS",
+    "condition": "Konditionsträning & Fitness"
+   },
+   {
+    "column": "TAG",
+    "relation": "EQUALS",
+    "condition": "Styrketräning"
+   },
+   {
+    "column": "TAG",
+    "relation": "EQUALS",
+    "condition": "Kettlebell"
+   },
+   {
+    "column": "TAG",
+    "relation": "EQUALS",
+    "condition": "Träningsbänkar"
+   }
+  ]
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "id": "gid://shopify/Collection/561574543626",
+ "title": "Barncykel - 6-8 år (20\")",
+ "descriptionHtml": "<p data-start=\"367\" data-end=\"739\" style=\"text-align: left;\">Letar du efter barncyklar för barn 6-8 år? Hos Best Of Sports hittar du ett brett utbud av cyklar i storlek 20 tum, perfekt anpassade för barn som vill cykla längre sträckor och utforska sin omgivning mer självständigt. Dessa barncyklar är designade med fokus på säkerhet, balans och komfort, så att barnet kan cykla tryggt och roligt på både asfalt och lättare grusvägar.</p>\n<p data-start=\"741\" data-end=\"1186\" style=\"text-align: left;\">När du ska köpa en barncykel för 6-8 år är det viktigt att tänka på barnets längd, styrka och erfarenhet. Vill du ha en barncykel med växlar för varierad terräng, eller en enklare modell för stadscykling och lek? Fundera även på bromstyp, ramdesign och om du vill ha tillbehör som pakethållare, korg, reflexer eller ringklocka. Hos oss hittar du barncyklar som gör det enkelt och roligt för barnen att cykla längre och med självförtroende.</p>\n<h2 data-start=\"1188\" data-end=\"1244\" style=\"text-align: left;\"><strong data-start=\"1188\" data-end=\"1242\">Barncyklar 20 tum för nybörjare och vana cyklister</strong></h2>\n<p data-start=\"1246\" data-end=\"1633\" style=\"text-align: left;\">Våra cyklar för 6-8 år har 20-tums hjul och stabil ram, vilket gör dem lätta för barn att hantera och ger trygghet vid snabbare cykling. Modeller med växlar är perfekta för barn som vill cykla både uppför och nerför backar med lätthet. Med ergonomiskt anpassad sadel och greppvänliga handtag får barnet en bekväm och säker cykelupplevelse som uppmuntrar till aktivitet och cykelglädje.</p>\n<h2 data-start=\"1635\" data-end=\"1671\" style=\"text-align: left;\"><strong data-start=\"1635\" data-end=\"1669\">Prisvärda och premium modeller</strong></h2>\n<p data-start=\"1673\" data-end=\"2053\" style=\"text-align: left;\">Hos Best Of Sports hittar du både prisvärda barncyklar och premiumcyklar för 6-8 år med hög kvalitet och slitstarka komponenter. Våra cyklar är byggda för hållbarhet, säkerhet och komfort, oavsett om barnet cyklar korta turer i trädgården, till skolan eller längre helgturer. Med rätt barncykel kan barnet utveckla balans, styrka och självförtroende på ett roligt och tryggt sätt.</p>\n<h2 data-start=\"2055\" data-end=\"2077\" style=\"text-align: left;\"><strong data-start=\"2055\" data-end=\"2075\">Kända varumärken</strong></h2>\n<p data-start=\"2079\" data-end=\"2388\" style=\"text-align: left;\">Vi erbjuder barncyklar 20 tum från välkända märken som Giant, Liv, Kona och Romet. Dessa märken står för kvalitet, säkerhet och hållbarhet. Oavsett om du letar efter en prisvärd barncykel 20 tum eller en premiumcykel med växlar, hittar du ett alternativ som passar barnets behov och utvecklingsnivå.</p>\n<h2 data-start=\"2390\" data-end=\"2441\" style=\"text-align: left;\"><strong data-start=\"2390\" data-end=\"2439\">Varför köpa barncykel 6-8 år hos Best Of Sports</strong></h2>\n<p data-start=\"2443\" data-end=\"2754\" style=\"text-align: left;\">Hos Best Of Sports kan du köpa barncyklar för 6-8 år online med snabb leverans och trygg service. Våra cyklar är byggda för maximal säkerhet, komfort och stabilitet. Utforska vårt sortiment idag och hitta den perfekta barncykeln som gör det roligt, tryggt och inspirerande för ditt barn att cykla självständigt.</p>",
+ "productsCount": {
+  "count": 0
+ },
+ "seo": {
+  "title": "Barncyklar 20 tum – Cyklar för barn 6-8 år - Stort sortiment",
+  "description": "Barncyklar 20 tum för barn 6-8 år eller 115-125 cm. Perfekta för nybörjare och vana cyklister med stabil ram och växlar för varierad cykling. Snabb leverans."
+ },
+ "ruleSet": {
+  "appliedDisjunctively": false,
+  "rules": [
+   {
+    "column": "TAG",
+    "relation": "EQUALS",
+    "condition": "6-8"
+   }
+  ]
+ }
+}
