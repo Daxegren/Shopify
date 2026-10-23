@@ -91,4 +91,77 @@ shopify_currency = "DKK"
   name = "produkter"
   pattern = "^/products/"
 
+# Best of Sports (samma koncern som Gorilla Sports, egen Shopify-butik och egen token). Flyttat från sites.portfolio.draft.toml 2026-10-23.
+# En butik, tre domäner. Sajten bestofsports-se äger butikens vyer, GA4, annonser och Shopify-dataset (table_key = bestofsports).
+[[site]]
+name = "bestofsports-se"
+base_url = "https://www.bestofsports.se"
+shop_domain = "6f2e53-67.myshopify.com"
+shopify_token_env = "BESTOFSPORTS_SHOPIFY_TOKEN"   # hemligheten bestofsports-shopify-token
+data_key = "bestofsports"
+brand_terms = ["Best of Sports"]
+primary_locale = "sv"
+gsc_property = "sc-domain:bestofsports.se"
+gsc_table = "gorilla-sports-data.site_audit.gsc_combined_bestofsports_se"
+ga4_property_id = "513705179"
+ga4_properties = { "513705179" = ["bestofsports.se"], "560104417" = ["bestofsports.dk"], "560161669" = ["bestofsports.fi"] }
+ga4_api_table = "gorilla-sports-data.site_audit.ga4_landing_daily_bestofsports"
+shopify_dataset = "gorilla-sports-data.shopify_bestofsports"
+shopify_currency = "SEK"
+google_ads_customer_ids = ["8311864494"]  # "Best Of Sports", ett konto för alla tre marknader; ingen hanterare (direktåtkomst)
+google_ads_api_version = "v26"
+merchant_account_id = "5684362662"
+growth_views = true
+company = "Gorilla Sports-koncernen"
+vertical = "traning"
+hostname_markets = { "www.bestofsports.se" = "SE", "www.bestofsports.dk" = "DK", "www.bestofsports.fi" = "FI" }
+
+  [[site.page_groups]]
+  name = "kollektioner"
+  pattern = "^/collections/"
+
+  [[site.page_groups]]
+  name = "produkter"
+  pattern = "^/products/"
+
+[[site]]
+name = "bestofsports-dk"
+base_url = "https://www.bestofsports.dk"
+shop_domain = "6f2e53-67.myshopify.com"
+shopify_token_env = "BESTOFSPORTS_SHOPIFY_TOKEN"
+data_key = "bestofsports"
+brand_terms = ["Best of Sports"]
+primary_locale = "da"
+gsc_property = "sc-domain:bestofsports.dk"
+gsc_table = "gorilla-sports-data.site_audit.gsc_combined_bestofsports_dk"
+shopify_currency = "DKK"
+
+  [[site.page_groups]]
+  name = "kollektioner"
+  pattern = "^/collections/"
+
+  [[site.page_groups]]
+  name = "produkter"
+  pattern = "^/products/"
+
+[[site]]
+name = "bestofsports-fi"
+base_url = "https://www.bestofsports.fi"
+shop_domain = "6f2e53-67.myshopify.com"
+shopify_token_env = "BESTOFSPORTS_SHOPIFY_TOKEN"
+data_key = "bestofsports"
+brand_terms = ["Best of Sports"]
+primary_locale = "fi"
+gsc_property = "sc-domain:bestofsports.fi"
+gsc_table = "gorilla-sports-data.site_audit.gsc_combined_bestofsports_fi"
+shopify_currency = "EUR"
+
+  [[site.page_groups]]
+  name = "kollektioner"
+  pattern = "^/collections/"
+
+  [[site.page_groups]]
+  name = "produkter"
+  pattern = "^/products/"
+
 # Mankovsky läggs till när domän, butik och token finns.

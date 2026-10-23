@@ -1126,3 +1126,19 @@ def test_fetch_ga4_with_several_properties_filters_hostnames(monkeypatch):
     assert loaded["range"] == ("d", date(2026, 10, 20), date(2026, 10, 20))
     single = site_from_dict({"name": "x", "base_url": "https://x.se", "ga4_property_id": "9"})
     assert single.ga4_property_map() == {"9": []}
+
+
+def test_production_sites_include_best_of_sports_as_one_store():
+    from pathlib import Path
+
+    from site_audit.config import load_sites
+
+    sites = load_sites(Path(__file__).resolve().parents[1] / "sites.toml")
+    bos = [s for s in sites.values() if s.name.startswith("bestofsports-")]
+    assert {s.name for s in bos} == {"bestofsports-se", "bestofsports-dk", "bestofsports-fi"}
+    assert {s.table_key for s in bos} == {"bestofsports"}
+    assert [s.name for s in bos if s.growth_views] == ["bestofsports-se"]
+    assert sites["gorillasports-se"].table_key != "bestofsports"
+    # Gorilla är oförändrad: samma token, samma dataset
+    assert sites["gorillasports-se"].shopify_token_env == "SHOPIFY_ACCESS_TOKEN"
+    assert sites["gorillasports-se"].shopify_dataset == "gorilla-sports-data.shopify"

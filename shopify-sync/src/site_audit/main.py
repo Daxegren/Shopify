@@ -77,7 +77,7 @@ def cmd_run(args) -> int:
     from .report import to_html, to_markdown
 
     sites = load_sites(args.config)
-    names = list(sites) if args.site == "all" else [args.site]
+    names = list(sites) if args.site == "all" else [n.strip() for n in args.site.split(",") if n.strip()]
     for name in names:
         site = sites[name]
         if args.max_pages:

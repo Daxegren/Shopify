@@ -14,6 +14,7 @@ bq_dataset = "site_audit"
 api_version = "2026-07"
 
 # ------------------------------------------------------------------------------------------------ Best of Sports (SE, DK, FI)
+# FLYTTAT till sites.toml 2026-10-23 (blocken nedan är kvar som referens och läses inte av något jobb).
 # Uppdaterad 2026-10-22: samma koncern som Gorilla Sports (David), alltså samma Google Cloud-projekt med eget Shopify-dataset.
 # Kanaler enligt David: Shopify, GA4, Search Console, Google Ads och Merchant Center. Meta och Klaviyo används inte.
 # Lovable-projekten som kopplar två leverantörers API:er behövs inte för analysen (verktygen läser direkt från källorna).
