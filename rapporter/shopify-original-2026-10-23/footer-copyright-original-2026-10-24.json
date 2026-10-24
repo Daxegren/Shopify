@@ -1,0 +1,17 @@
+{
+ "da": {
+  "key": "sections.footer.copyright_html",
+  "value": "Ophavsret {{ year }} <a href=\"&lt;span%20class='notranslate'&gt;{{%20shop_url%20}}&lt;/span&gt;\">{{ shop_name }}</a>",
+  "outdated": false
+ },
+ "fi": {
+  "key": "sections.footer.copyright_html",
+  "value": "Tekijänoikeus {{ year }} <a href=\"&lt;span%20class='notranslate'&gt;{{%20shop_url%20}}&lt;/span&gt;\">{{ shop_name }}</a>",
+  "outdated": false
+ },
+ "en": {
+  "key": "sections.footer.copyright_html",
+  "value": "Copyright {{ year }} <a href=\"{{ shop_url }}\">{{ shop_name }}</a>",
+  "outdated": false
+ }
+}
