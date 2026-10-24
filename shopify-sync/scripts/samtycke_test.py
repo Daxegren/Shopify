@@ -29,6 +29,12 @@ TRACKING = re.compile(
     r"google-analytics\.com|analytics\.google\.com|/g/collect|googletagmanager\.com/gtag|doubleclick\.net|googleadservices\.com|"
     r"google\.[a-z.]+/pagead|facebook\.com/tr|connect\.facebook\.net/.*fbevents|analytics\.tiktok\.com|clarity\.ms|hotjar\.|"
     r"snap\.licdn\.com|pinterest\.com/ct|bat\.bing\.com|klaviyo\.com/client/event", re.I)
+# Anrop som skickar en händelse (besök, sidvisning, köp). Att bara ladda taggens skript (gtag/js, gtm.js, clarity.js, fbevents.js) är
+# normalt före samtycke och räknas inte som spårning.
+EVENT = re.compile(r"/g/collect|/j/collect|/collect\?|facebook\.com/tr|analytics\.tiktok\.com/api|bat\.bing\.com/action|"
+                   r"clarity\.ms/(collect|b)|doubleclick\.net/.*(conversion|activity)|googleadservices\.com/pagead/conversion|"
+                   r"google\.[a-z.]+/pagead/(1p-)?(viewthrough|user-lists)|klaviyo\.com/client/event|pinterest\.com/ct", re.I)
+TRACKING_COOKIE = re.compile(r"^(_ga|_gid|_gcl_|_fbp|_fbc|_clck|_clsk|CLID|_uetsid|_uetvid|_ttp|_pin_|_hjSession|_hj|klaviyo|__kla_id|_scid)", re.I)
 ACCEPT = re.compile(r"^(acceptera( alla)?|godkänn( alla)?|tillåt( alla)?|jag godkänner|ok|accept( all)?|allow all|agree|i agree|"
                     r"hyväksy( kaikki)?|accepter( alle)?|tillad( alle)?)$", re.I)
 REJECT = re.compile(r"^(avvisa( alla)?|neka( alla)?|endast nödvändiga|reject( all)?|decline|deny|only necessary|hylkää|afvis( alle)?)$", re.I)
@@ -44,22 +50,28 @@ def classify_requests(urls: list[str], extra_patterns: list[str] | None = None) 
             continue
         q = parse_qs(urlsplit(u).query)
         out.append({"host": urlsplit(u).netloc, "event": (q.get("en") or [""])[0], "tid": (q.get("tid") or [""])[0],
-                    "gcs": (q.get("gcs") or [""])[0], "url": u[:160]})
+                    "gcs": (q.get("gcs") or [""])[0], "url": u[:160],
+                    "kind": "event" if (EVENT.search(u) or any(p.search(u) for p in extra)) else "script"})
     return out
 
 
 def verdicts(before: list[dict], after: list[dict], banner_found: bool, accepted: bool) -> list[str]:
     """Slutsatser i klartext. before = anrop utan interaktion, after = nya anrop efter godkännande."""
     out = []
-    granted_before = [r for r in before if r["gcs"] in ("G111", "G110", "G101") or (not r["gcs"] and "collect" not in r["url"])]
-    denied_before = [r for r in before if r["gcs"] == "G100"]
+    events = [r for r in before if r.get("kind", "event") == "event"]
+    scripts = [r for r in before if r.get("kind") == "script"]
+    granted_before = [r for r in events if r["gcs"] != "G100"]
+    denied_before = [r for r in events if r["gcs"] == "G100"]
     if granted_before:
         hosts = sorted({r["host"] for r in granted_before})
-        out.append(f"PROBLEM: spårning skickas före samtycke utan nekad samtyckessignal ({len(granted_before)} anrop till {', '.join(hosts[:4])})")
+        out.append(f"PROBLEM: händelser skickas före samtycke utan nekad samtyckessignal ({len(granted_before)} anrop till {', '.join(hosts[:4])})")
     elif denied_before:
         out.append(f"OK: {len(denied_before)} GA4-anrop före samtycke har gcs=G100 (Consent Mode, inga cookies)")
-    elif not before:
-        out.append("OK: ingen spårning skickas före samtycke")
+    elif not events:
+        out.append("OK: inga spårningshändelser skickas före samtycke")
+    if scripts:
+        hosts = sorted({r["host"] for r in scripts})
+        out.append(f"INFO: {len(scripts)} taggskript laddas före samtycke ({', '.join(hosts[:4])}), vilket är normalt om de inte skickar händelser")
     if not banner_found:
         out.append("OBS: ingen samtyckesruta hittades" + (", men spårning körs" if before else ""))
     if accepted and not after:
@@ -133,7 +145,10 @@ def run(args) -> int:
                 report["accept_error"] = str(exc)[:160]
         cookies_after = sorted(c["name"] for c in ctx.cookies())
         browser.close()
+    tracking_before = sorted(c for c in cookies_before if TRACKING_COOKIE.match(c))
+    tracking_after = sorted(c for c in cookies_after if TRACKING_COOKIE.match(c))
     report.update({
+        "tracking_cookies_before": tracking_before, "tracking_cookies_after": tracking_after,
         "banner_found": banner_found, "accept_button": bool(accept_btn), "reject_button": bool(reject_btn),
         "visible_buttons": names[:12], "state": state, "tracking_before_consent": before, "tracking_after_accept": after,
         "cookies_before": cookies_before, "cookies_after": cookies_after,
@@ -147,8 +162,14 @@ def run(args) -> int:
           f"{len(state['dataLayerConsent'])} kommandon")
     print(f"- Spårningsanrop före samtycke: {len(before)}; efter godkännande: {len(after)}; cookies före/efter: "
           f"{len(cookies_before)}/{len(cookies_after)}")
+    print(f"- Spårningscookies före samtycke: {', '.join(tracking_before) or 'inga'}")
+    if tracking_before:
+        print("  PROBLEM: spårningscookies sätts före samtycke" if not banner_found or not accepted else "  OBS: cookies fanns innan klicket")
     for v in report["verdicts"]:
         print(f"  {v}")
+    if not banner_found:
+        print("  OBS: Shopifys cookiebanner visas bara i de regioner som valts i inställningarna. Det här testet körs från ett datacenter och"
+              " säger inte säkert vad besökare i Sverige ser. Kontrollera inställningen Customer privacy i Shopify admin, eller kör från svensk IP.")
     print(f"Rapport och skärmdumpar i {out}/")
     return 0
 

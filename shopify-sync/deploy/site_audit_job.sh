@@ -14,6 +14,8 @@ SCHEDULER_REGION="${SCHEDULER_REGION:-europe-west1}"
 JOB="${JOB:-site-audit}"
 SA="${SA:-shopify-sync@${PROJECT_ID}.iam.gserviceaccount.com}"
 SCHEDULE="${SCHEDULE:-0 4 * * *}"
+TASK_TIMEOUT="${TASK_TIMEOUT:-7200}"   # sekunder; Cloud Run tillåter högst 86400. Ett jobb per domän behöver normalt 3 timmar (10800)
+MEMORY="${MEMORY:-2Gi}"
 SITES="${SITES:-all}"
 SECRET_ENV="${SECRET_ENV:-SHOPIFY_ACCESS_TOKEN=shopify-access-token}"
 REPO="${REPO:-containers}"
@@ -52,7 +54,7 @@ ARGS="^@^--config@/app/sites.toml@run@--site@${SITES}@--out@/tmp/audits@--bigque
 if gcloud run jobs describe "$JOB" --region "$REGION" >/dev/null 2>&1; then ACTION=update; else ACTION=create; fi
 gcloud run jobs "$ACTION" "$JOB" --region "$REGION" --image "$IMAGE" --service-account "$SA" \
   --command site-audit --args="$ARGS" ${SECRETS:+--set-secrets "$SECRETS"} \
-  --task-timeout 7200 --max-retries 0 --memory 2Gi --cpu 1
+  --task-timeout "$TASK_TIMEOUT" --max-retries 0 --memory "$MEMORY" --cpu 1
 
 gcloud run jobs add-iam-policy-binding "$JOB" --region "$REGION" \
   --member "serviceAccount:$SA" --role roles/run.invoker >/dev/null

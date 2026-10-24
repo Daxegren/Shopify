@@ -305,8 +305,17 @@ def test_samtycke_classify_and_verdicts():
     # Consent Mode före samtycke (G100) och godkänt efter: inga problem
     good = st.verdicts([rows[0]], [{"gcs": "G111", "host": "h", "url": "u/g/collect"}], True, True)
     assert not any(v.startswith("PROBLEM") for v in good)
+    # Bara skript som laddas (inga händelser) före samtycke är normalt och ger ingen PROBLEM-rad
+    script_only = st.classify_requests(["https://www.googletagmanager.com/gtag/js?id=G-AB", "https://scripts.clarity.ms/0.8/clarity.js"])
+    assert [r["kind"] for r in script_only] == ["script", "script"]
+    v = st.verdicts(script_only, [], True, False)
+    assert not any(x.startswith("PROBLEM") for x in v) and any(x.startswith("INFO") for x in v)
+    # En Clarity-händelse före samtycke är ett problem
+    ev = st.classify_requests(["https://www.clarity.ms/collect"])
+    assert ev[0]["kind"] == "event" and any(x.startswith("PROBLEM") for x in st.verdicts(ev, [], False, False))
+    assert st.TRACKING_COOKIE.match("_ga_ABC123") and st.TRACKING_COOKIE.match("_clck") and not st.TRACKING_COOKIE.match("cart")
     # Spårning före samtycke utan nekad signal, och ingenting efter godkännande
-    bad = st.verdicts([{"gcs": "G111", "host": "h", "url": "u/g/collect"}], [], True, True)
+    bad = st.verdicts([{"gcs": "G111", "host": "h", "url": "u/g/collect", "kind": "event"}], [], True, True)
     assert sum(v.startswith("PROBLEM") for v in bad) == 2
     # Ingen ruta men spårning: observation
     assert any(v.startswith("OBS") for v in st.verdicts([{"gcs": "", "host": "h", "url": "u"}], [], False, False))
@@ -335,3 +344,10 @@ def test_deploy_scripts_do_not_split_site_lists_on_commas():
     # Simulera gcloud: efter ^@^ delas strängen på @, och en kommalista ska ligga kvar som ett enda argument
     parts = line[len('ARGS="^@^'):-1].replace("${SITES}", "a,b,c").replace("${BUCKET}", "bkt").split("@")
     assert parts[parts.index("--site") + 1] == "a,b,c"
+
+
+def test_audit_job_timeout_and_memory_are_configurable():
+    """Gorillas nattliga genomlysning nådde tidsgränsen 7200 s varje natt sedan 2026-10-14. Gränsen ska gå att höja per jobb."""
+    text = (Path(__file__).resolve().parents[1] / "deploy" / "site_audit_job.sh").read_text(encoding="utf-8")
+    assert 'TASK_TIMEOUT="${TASK_TIMEOUT:-7200}"' in text and '--task-timeout "$TASK_TIMEOUT"' in text
+    assert '--memory "$MEMORY"' in text
