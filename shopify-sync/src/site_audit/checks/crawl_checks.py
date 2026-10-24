@@ -272,7 +272,16 @@ def check_schema(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
         if f.page_type == "product":
             if not f.product_schema:
                 out.append(F("product_schema_missing", "high", "schema", "Produktsida utan Product-schema", url=cu.url))
-            for p in f.product_schema:
+            nodes = f.product_schema
+            complete = [p for p in nodes if p["images"] and p["has_offers"]]
+            if complete and len(nodes) > len(complete):
+                # Omdömesappar skriver ofta en egen Product-nod (bara aggregateRating och review) vid sidan av temats fullständiga.
+                # Den noden ska inte bedömas som en produkt utan bild och pris, men Google kan behandla den som en separat produkt.
+                out.append(F("product_schema_extra_node", "info", "schema",
+                             f"{len(nodes) - len(complete)} extra Product-nod utan bild och pris (troligen omdömesapp), kopplas inte till produkten",
+                             url=cu.url))
+                nodes = complete
+            for p in nodes:
                 if not p["images"]:
                     out.append(F("product_schema_no_image", "high", "schema", "Product-schemat saknar bild", url=cu.url))
                 elif p.get("relative_images") and not p["invalid_images"]:

@@ -368,3 +368,20 @@ def test_bos_anvander_huvudadress_utan_www():
         assert not sites[n].host.startswith("www."), n
         assert sites[n].crawl.max_pages == 8000
     assert sites["gorillasports-se"].host.startswith("www.")
+
+
+def test_extra_product_nod_fran_omdomesapp_ger_inte_falska_fynd():
+    """Produktsidan har temats fullständiga Product-nod plus en omdömesnod utan bild och pris (Best of Sports). Bara en info-notering."""
+    from site_audit.checks.crawl_checks import check_schema
+    full = {"images": ["https://www.t.se/a.jpg"], "has_offers": True, "has_brand": True, "has_rating": False,
+            "relative_images": [], "invalid_images": []}
+    review_only = {"images": [], "has_offers": False, "has_brand": False, "has_rating": True,
+                   "relative_images": [], "invalid_images": []}
+    u1, u2 = "https://www.t.se/products/x", "https://www.t.se/products/y"
+    both = cu(u1, facts(u1, product_schema=[full, review_only]))
+    only_review = cu(u2, facts(u2, product_schema=[review_only]))
+    names = [x.check for x in check_schema(crawl(both), SITE)]
+    assert "product_schema_extra_node" in names
+    assert "product_schema_no_image" not in names and "product_schema_no_offers" not in names
+    names2 = [x.check for x in check_schema(crawl(only_review), SITE)]
+    assert "product_schema_no_image" in names2
