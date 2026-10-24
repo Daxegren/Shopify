@@ -173,6 +173,12 @@ def check_onpage(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
     return out
 
 
+def _bare(host: str) -> str:
+    """Värdnamn utan inledande www, så att bestofsports.fi och www.bestofsports.fi räknas som samma domän."""
+    host = host.lower()
+    return host[4:] if host.startswith("www.") else host
+
+
 def check_canonicals(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
     out = []
     for cu in cr.urls.values():
@@ -180,7 +186,7 @@ def check_canonicals(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
         if not f or not f.canonical or cu.status != 200:
             continue
         canon = normalize_url(f.canonical)
-        if urlsplit(canon).netloc != site.host:
+        if _bare(urlsplit(canon).netloc) != _bare(site.host):
             out.append(F("canonical_offsite", "high", "indexing", "Canonical pekar på en annan domän", url=cu.url, evidence={"canonical": canon}))
             continue
         target = cr.urls.get(canon)

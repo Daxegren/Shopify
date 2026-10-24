@@ -351,3 +351,20 @@ def test_audit_job_timeout_and_memory_are_configurable():
     text = (Path(__file__).resolve().parents[1] / "deploy" / "site_audit_job.sh").read_text(encoding="utf-8")
     assert 'TASK_TIMEOUT="${TASK_TIMEOUT:-7200}"' in text and '--task-timeout "$TASK_TIMEOUT"' in text
     assert '--memory "$MEMORY"' in text
+
+
+def test_canonical_www_och_apex_ar_samma_domaen():
+    """Best of Sports huvudadress är bestofsports.fi (www omdirigerar dit). Canonical till apex får inte flaggas som annan domän."""
+    from site_audit.checks.crawl_checks import _bare
+    assert _bare("www.bestofsports.fi") == _bare("bestofsports.fi") == "bestofsports.fi"
+    assert _bare("bestofsports.se") != _bare("bestofsports.fi")
+
+
+def test_bos_anvander_huvudadress_utan_www():
+    from pathlib import Path
+    from site_audit.config import load_sites
+    sites = load_sites(Path(__file__).resolve().parents[1] / "sites.toml")
+    for n in ("bestofsports-se", "bestofsports-dk", "bestofsports-fi"):
+        assert not sites[n].host.startswith("www."), n
+        assert sites[n].crawl.max_pages == 8000
+    assert sites["gorillasports-se"].host.startswith("www.")

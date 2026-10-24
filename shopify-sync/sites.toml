@@ -95,7 +95,7 @@ shopify_currency = "DKK"
 # En butik, tre domäner. Sajten bestofsports-se äger butikens vyer, GA4, annonser och Shopify-dataset (table_key = bestofsports).
 [[site]]
 name = "bestofsports-se"
-base_url = "https://www.bestofsports.se"
+base_url = "https://bestofsports.se"   # huvudadress utan www (www omdirigerar hit, kontrollerat 2026-10-24)
 shop_domain = "6f2e53-67.myshopify.com"
 shopify_token_env = "BESTOFSPORTS_SHOPIFY_TOKEN"   # hemligheten bestofsports-shopify-token
 data_key = "bestofsports"
@@ -114,7 +114,10 @@ merchant_account_id = "5684362662"
 growth_views = true
 company = "Gorilla Sports-koncernen"
 vertical = "traning"
-hostname_markets = { "www.bestofsports.se" = "SE", "www.bestofsports.dk" = "DK", "www.bestofsports.fi" = "FI" }
+hostname_markets = { "bestofsports.se" = "SE", "bestofsports.dk" = "DK", "bestofsports.fi" = "FI", "www.bestofsports.se" = "SE", "www.bestofsports.dk" = "DK", "www.bestofsports.fi" = "FI" }
+
+  [site.crawl]
+  max_pages = 8000   # butiken har ca 7 100 adresser i sitemapen per domän
 
   [[site.page_groups]]
   name = "kollektioner"
@@ -126,7 +129,7 @@ hostname_markets = { "www.bestofsports.se" = "SE", "www.bestofsports.dk" = "DK",
 
 [[site]]
 name = "bestofsports-dk"
-base_url = "https://www.bestofsports.dk"
+base_url = "https://bestofsports.dk"   # huvudadress utan www (www omdirigerar hit, kontrollerat 2026-10-24)
 shop_domain = "6f2e53-67.myshopify.com"
 shopify_token_env = "BESTOFSPORTS_SHOPIFY_TOKEN"
 data_key = "bestofsports"
@@ -135,6 +138,9 @@ primary_locale = "da"
 gsc_property = "sc-domain:bestofsports.dk"
 gsc_table = "gorilla-sports-data.site_audit.gsc_combined_bestofsports_dk"
 shopify_currency = "DKK"
+
+  [site.crawl]
+  max_pages = 8000   # butiken har ca 7 100 adresser i sitemapen per domän
 
   [[site.page_groups]]
   name = "kollektioner"
@@ -146,7 +152,7 @@ shopify_currency = "DKK"
 
 [[site]]
 name = "bestofsports-fi"
-base_url = "https://www.bestofsports.fi"
+base_url = "https://bestofsports.fi"   # huvudadress utan www (www omdirigerar hit, kontrollerat 2026-10-24)
 shop_domain = "6f2e53-67.myshopify.com"
 shopify_token_env = "BESTOFSPORTS_SHOPIFY_TOKEN"
 data_key = "bestofsports"
@@ -155,6 +161,9 @@ primary_locale = "fi"
 gsc_property = "sc-domain:bestofsports.fi"
 gsc_table = "gorilla-sports-data.site_audit.gsc_combined_bestofsports_fi"
 shopify_currency = "EUR"
+
+  [site.crawl]
+  max_pages = 8000   # butiken har ca 7 100 adresser i sitemapen per domän
 
   [[site.page_groups]]
   name = "kollektioner"
