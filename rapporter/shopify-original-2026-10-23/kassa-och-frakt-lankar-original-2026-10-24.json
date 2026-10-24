@@ -1,0 +1,10 @@
+{
+ "fi:cart.terms.agreement_html": "Hyväksyn <a href=\"&lt;span%20class='notranslate'&gt;{{%20terms_url%20}}&lt;/span&gt;\" target=\"_blank\">ehdot ja palautuskäytännön</a>",
+ "da:cart.terms.agreement_html": "Jeg godkender <a href=\"&lt;span%20class='notranslate'&gt;{{%20terms_url%20}}&lt;/span&gt;\" target=\"_blank\">betingelser og återbetalningspolitik</a>",
+ "fi:cart.general.taxes_and_shipping_at_checkout_html": "Verot, alennukset ja <a href=\"&lt;span%20class='notranslate'&gt;{{%20link%20}}&lt;/span&gt;\">toimituskulut</a> lasketaan kassalla.",
+ "da:cart.general.taxes_and_shipping_at_checkout_html": "Skatter, rabatter og <a href=\"&lt;span%20class='notranslate'&gt;{{%20link%20}}&lt;/span&gt;\">frakt</a> beregnes i kassan.",
+ "fi:cart.general.taxes_included_shipping_at_checkout_html": "Sisältää alv:n, <a href=\"&lt;span%20class='notranslate'&gt;{{%20link%20}}&lt;/span&gt;\">toimituskulut</a> ja kassalla laskettavat alennukset.",
+ "da:cart.general.taxes_included_shipping_at_checkout_html": "Inklusive moms, <a href=\"&lt;span%20class='notranslate'&gt;{{%20link%20}}&lt;/span&gt;\">frakt</a> og rabatter som beregnes i kassan.",
+ "fi:products.product.shipping_policy_html": "<a href=\"&lt;span%20class='notranslate'&gt;{{%20link%20}}&lt;/span%3E\">Toimituskulut</a> lasketaan kassalla.",
+ "da:products.product.shipping_policy_html": "<a href=\"&lt;span%20class='notranslate'&gt;{{%20link%20}}&lt;/span&gt;\">Frakt</a> beregnes vid kassan."
+}
