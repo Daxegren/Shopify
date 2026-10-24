@@ -46,7 +46,9 @@ fi
 gcloud storage buckets add-iam-policy-binding "gs://${BUCKET}" \
   --member "serviceAccount:$SA" --role roles/storage.objectAdmin >/dev/null
 
-ARGS="--config,/app/sites.toml,run,--site,${SITES},--out,/tmp/audits,--bigquery,--search-data,--upload,gs://${BUCKET}/audits"
+# gcloud delar --args vid varje komma, så en lista med flera sajter (SITES=a,b,c) skulle bli flera argument. Därför skiljetecknet @
+# (syntaxen ^@^ i början talar om vilket tecken som skiljer argumenten åt).
+ARGS="^@^--config@/app/sites.toml@run@--site@${SITES}@--out@/tmp/audits@--bigquery@--search-data@--upload@gs://${BUCKET}/audits"
 if gcloud run jobs describe "$JOB" --region "$REGION" >/dev/null 2>&1; then ACTION=update; else ACTION=create; fi
 gcloud run jobs "$ACTION" "$JOB" --region "$REGION" --image "$IMAGE" --service-account "$SA" \
   --command site-audit --args="$ARGS" ${SECRETS:+--set-secrets "$SECRETS"} \

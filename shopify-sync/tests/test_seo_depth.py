@@ -323,3 +323,15 @@ def test_tillganglighet_summary():
     s = a11y.summarize(res)
     assert s["by_impact"] == {"critical": 7, "serious": 3, "moderate": 0, "minor": 0}
     assert s["rules"][0]["id"] == "image-alt" and s["rules"][0]["pages"] == ["startsida", "produkt"] and s["rules"][0]["nodes"] == 7
+
+
+def test_deploy_scripts_do_not_split_site_lists_on_commas():
+    """gcloud delar --args vid komma. Skriptet som tar SITES=a,b,c måste använda ett annat skiljetecken (^@^), annars
+    blir listan flera argument och jobbet misslyckas direkt (hände 2026-10-23)."""
+    deploy = Path(__file__).resolve().parents[1] / "deploy"
+    text = (deploy / "site_audit_job.sh").read_text(encoding="utf-8")
+    line = next(ln for ln in text.splitlines() if ln.startswith('ARGS="'))
+    assert line.startswith('ARGS="^@^') and "@--site@${SITES}@" in line
+    # Simulera gcloud: efter ^@^ delas strängen på @, och en kommalista ska ligga kvar som ett enda argument
+    parts = line[len('ARGS="^@^'):-1].replace("${SITES}", "a,b,c").replace("${BUCKET}", "bkt").split("@")
+    assert parts[parts.index("--site") + 1] == "a,b,c"
