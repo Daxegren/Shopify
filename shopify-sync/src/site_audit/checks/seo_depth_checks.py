@@ -160,5 +160,21 @@ def check_tracking_in_html(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
     return out
 
 
+def check_malformed_hrefs(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
+    """Länkar vars adress innehåller mallkod eller HTML ({{ shop_url }}, <span class='notranslate'>). Orsaken är oftast en text i temat
+    eller en översättning som skrivits sönder, och ger en trasig länk på alla sidor där texten används (sidfot, kundvagn)."""
+    by_href: dict[str, list[str]] = defaultdict(list)
+    for cu in cr.urls.values():
+        if cu.status == 200 and cu.facts:
+            for h in cu.facts.malformed_hrefs:
+                by_href[h].append(cu.url)
+    out = []
+    for href, pages in sorted(by_href.items(), key=lambda kv: -len(kv[1]))[:10]:
+        out.append(F("malformed_link_href", "high", "links",
+                     f"Länkadress med mallkod eller HTML på {len(pages)} sidor: {href[:90]}",
+                     url=pages[0], evidence={"href": href, "pages": len(pages), "sample": pages[:5]}))
+    return out
+
+
 SEO_DEPTH_CHECKS = [check_faceted_urls, check_pagination, check_thin_collections, check_third_party_scripts,
-                    check_image_practices, check_tracking_in_html]
+                    check_image_practices, check_tracking_in_html, check_malformed_hrefs]

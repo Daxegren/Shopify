@@ -6,7 +6,7 @@ import json
 import re
 from dataclasses import asdict, dataclass, field
 from typing import Any
-from urllib.parse import urljoin, urlsplit
+from urllib.parse import unquote, urljoin, urlsplit
 
 from bs4 import BeautifulSoup
 
@@ -81,6 +81,7 @@ class PageFacts:
     internal_links: list[str] = field(default_factory=list)
     images_no_dimensions: int = 0       # <img> utan width och height (risk för layoutförskjutning, CLS)
     images_no_lazy: int = 0             # bilder efter de två första som saknar loading="lazy"
+    malformed_hrefs: list[str] = field(default_factory=list)   # länkadresser med mallkod eller HTML i (t.ex. {{ shop_url }})
     product_link_count: int = 0         # unika produkter som länkas på sidan (kategorier: antal produkter i listan)
     consent_platforms: list[str] = field(default_factory=list)  # samtyckeslösningar som syns i HTML
     analytics_ids: list[str] = field(default_factory=list)      # G-, GTM-, AW-, UA- och Meta-pixel-id:n i HTML
@@ -91,6 +92,14 @@ class PageFacts:
         d = asdict(self)
         d.pop("internal_links")
         return d
+
+
+_MALFORMED_HREF = re.compile(r"\{\{|\}\}|\{%|<|>|&lt;|&gt;|notranslate", re.I)
+
+
+def is_malformed_href(raw: str) -> bool:
+    """Adress med mallkod eller HTML i sig (till exempel href="<span class='notranslate'>{{ shop_url }}</span>")."""
+    return bool(_MALFORMED_HREF.search(unquote(raw)))
 
 
 def _jsonld_items(data: Any):
@@ -260,6 +269,8 @@ def parse_page(url: str, html: bytes, site_host: str) -> PageFacts:
     # Länkar
     links = set()
     for a in soup.find_all("a", href=True):
+        if is_malformed_href(a["href"]) and len(facts.malformed_hrefs) < 5:
+            facts.malformed_hrefs.append(a["href"][:200])
         href = urljoin(url, a["href"].split("#")[0])
         p = urlsplit(href)
         if p.scheme in ("http", "https") and p.netloc.lower() == site_host:

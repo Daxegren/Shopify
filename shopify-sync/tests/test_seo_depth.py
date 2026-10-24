@@ -385,3 +385,23 @@ def test_extra_product_nod_fran_omdomesapp_ger_inte_falska_fynd():
     assert "product_schema_no_image" not in names and "product_schema_no_offers" not in names
     names2 = [x.check for x in check_schema(crawl(only_review), SITE)]
     assert "product_schema_no_image" in names2
+
+
+def test_malformed_href_hittas_och_normala_lankar_ar_ok():
+    from site_audit.html_parse import is_malformed_href
+    assert is_malformed_href("<span%20class='notranslate'>{{%20shop_url%20}}</span>")
+    assert is_malformed_href("{{ link }}")
+    assert not is_malformed_href("/collections/yoga?filter.v.price=1&page=2")
+    assert not is_malformed_href("https://www.t.se/pages/om-oss")
+    html = (b"<html><head><title>T</title></head><body>"
+            b"<a href=\"&lt;span%20class='notranslate'&gt;{{%20shop_url%20}}&lt;/span&gt;\">X</a><a href=\"/products/p1\">p</a></body></html>")
+    f = parse_page("https://www.t.se/", html, "www.t.se")
+    assert len(f.malformed_hrefs) == 1 and "shop_url" in f.malformed_hrefs[0]
+
+
+def test_check_malformed_hrefs_samlar_per_adress():
+    from site_audit.checks.seo_depth_checks import check_malformed_hrefs
+    bad = "<span%20class='notranslate'>{{%20shop_url%20}}</span>"
+    pages = [cu(f"https://www.t.se/p{i}", facts(f"https://www.t.se/p{i}", malformed_hrefs=[bad])) for i in range(3)]
+    out = check_malformed_hrefs(crawl(*pages), SITE)
+    assert len(out) == 1 and out[0].check == "malformed_link_href" and out[0].evidence["pages"] == 3
