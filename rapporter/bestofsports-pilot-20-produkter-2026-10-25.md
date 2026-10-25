@@ -3,7 +3,7 @@
 **Status: utkast. Inget är ändrat i Shopify.** Varje produkt har före och efter, och en lista på det som måste bekräftas. Du granskar och säger ja per produkt (eller "alla utom X"). Först därefter skriver jag in texterna enligt rutinen: originalen sparas, ändringen görs, läses tillbaka och loggas.
 
 ## Urval
-20 aktiva produkter med lager (minst 3), valda för att täcka sortimentet och olika typer av text: kondition (motionscykel, löpband), styrka (bänk, kettlebell, viktskivor), cyklar och cykeltillbehör (elcykel, barncykel, hjälm, lås, pump), kosttillskott och solglasögon. 12 är Velomarket-produkter och 2 är Gorilla Sports Norden-varor. **Urvalet är inte rangordnat på trafik.** Det görs när prioritetsfrågan (`sql/analys/bos/12_produkter_prioritet_texter.sql`) är körd. Syftet med piloten är att pröva mallen och att se hur mycket i leverantörens text som faktiskt går att lita på.
+20 aktiva produkter med lager (minst 3), valda för att täcka sortimentet och olika typer av text: kondition (motionscykel, löpband), styrka (bänk, kettlebell, viktskivor), cyklar och cykeltillbehör (elcykel, barncykel, hjälm, lås, pump), kosttillskott och solglasögon. 18 är Velomarket-produkter och 2 är Gorilla Sports Norden-varor (rak träningsbänk och Movit-viktskivor). **Urvalet är inte rangordnat på trafik.** Det görs när prioritetsfrågan (`sql/analys/bos/12_produkter_prioritet_texter.sql`) är körd. Syftet med piloten är att pröva mallen och att se hur mycket i leverantörens text som faktiskt går att lita på.
 
 ## Så är utkasten gjorda
 - **Bara det som finns i originaltexten.** Inga specifikationer är påhittade. Det som saknas eller är tveksamt står under "Att bekräfta eller rätta".
@@ -13,7 +13,7 @@
 - **Titlar** följer formeln Typ, Märke, Modell, nyckelegenskap, färg. Gränserna är titel högst 70 tecken, SEO-titel högst 60 och metabeskrivning 140–155 (kontrollerade, med några korta undantag).
 
 ## Mönster som piloten visar
-1. **Leverantörstexten innehåller fel:** maskinöversättningar ("Träningsbältet", "Talon 20" på en Liv Tempt 20, upprepade rader hos Tunturi-kettlebellen), motsägelser (titel "2–40 kg" men tabellen visar 1,25–25 kg), orimliga mått, och 7 av 20 har hälsopåståenden eller reklamlöften som bör bort.
+1. **Leverantörstexten innehåller fel:** maskinöversättningar ("Träningsbältet", "Talon 20" på en Liv Tempt 20, upprepade rader hos Tunturi-kettlebellen), motsägelser (titel "2–40 kg" men tabellen visar 1,25–25 kg), orimliga mått, och flera har hälsopåståenden eller reklamlöften som bör bort (bland annat bänken Tricon Flex, pre-workouten, Nutcase-hjälmen och Limar-solglasögonen).
 2. **Titlarna är fel i sak i flera fall:** "Koffeinpulver" är en pre-workout, "NorsK" syftar troligen på en norsk variant, och flera titlar saknar modell eller märke.
 3. **Det mesta är rätt i grunden:** specifikationerna går att lyfta ur texten och sortera upp. Det är strukturen och språket som saknas, inte fakta.
 
