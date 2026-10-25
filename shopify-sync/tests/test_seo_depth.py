@@ -449,3 +449,18 @@ def test_rendera_kategorier_ignorerar_text_i_script():
     spec.loader.exec_module(rk)
     html = "<script>x='<a href=\"/products/fel\">'; y='<h1>'</script><a href='/products/ratt?v=1'>a</a>"
     assert rk.count_product_links(html) == 1 and not rk.has_h1(html)
+
+
+def test_redirect_jamforelse_skiljer_granskade_fran_nya():
+    import importlib.util
+    spec = importlib.util.spec_from_file_location("rj", Path(__file__).resolve().parents[1] / "scripts" / "redirect_jamforelse.py")
+    rj = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(rj)
+    findings = [
+        {"check": "redirect_target_missing", "url": "https://www.gorillasports.se/boksepakke-profi-27kg/p/1129", "evidence": {"target": "/products/boksepakke-profi-27kg"}},
+        {"check": "redirect_to_error", "url": "https://www.gorillasports.se/blogs/blogg/ny-sida", "evidence": {"chain": ["a", "https://www.gorillasports.se/blogs"]}},
+        {"check": "missing_h1", "url": "https://www.gorillasports.se/pages/x"},
+    ]
+    covered, new = rj.classify(findings, {"/boksepakke-profi-27kg/p/1129": "/collections/boxningspaket"})
+    assert [c["kalla"] for c in covered] == ["/boksepakke-profi-27kg/p/1129"]
+    assert [n["kalla"] for n in new] == ["/blogs/blogg/ny-sida"]

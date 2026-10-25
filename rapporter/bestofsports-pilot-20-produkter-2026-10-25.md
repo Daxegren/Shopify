@@ -1,6 +1,6 @@
 # Best of Sports: pilot på 20 produkter, utkast till titlar och beskrivningar (2026-10-25)
 
-**Status: utkast. Inget är ändrat i Shopify.** Varje produkt har före och efter, och en lista på det som måste bekräftas. Du granskar och säger ja per produkt (eller "alla utom X"). Först därefter skriver jag in texterna enligt rutinen: originalen sparas, ändringen görs, läses tillbaka och loggas.
+**Status: reviderat utkast efter Davids svar 2026-10-25. Inget är ändrat i Shopify.** Varje produkt har före och efter, och en lista på det som måste bekräftas. Du granskar och säger ja per produkt (eller "alla utom X"). Först därefter skriver jag in texterna enligt rutinen: originalen sparas, ändringen görs, läses tillbaka och loggas.
 
 ## Urval
 20 aktiva produkter med lager (minst 3), valda för att täcka sortimentet och olika typer av text: kondition (motionscykel, löpband), styrka (bänk, kettlebell, viktskivor), cyklar och cykeltillbehör (elcykel, barncykel, hjälm, lås, pump), kosttillskott och solglasögon. 18 är Velomarket-produkter och 2 är Gorilla Sports Norden-varor (rak träningsbänk och Movit-viktskivor). **Urvalet är inte rangordnat på trafik.** Det görs när prioritetsfrågan (`sql/analys/bos/12_produkter_prioritet_texter.sql`) är körd. Syftet med piloten är att pröva mallen och att se hur mycket i leverantörens text som faktiskt går att lita på.
@@ -42,18 +42,18 @@ Christopeit AL 1 är en tyst motionscykel för hemmaträning med magnetbroms, 8 
 - Maximal användarvikt: 150 kg
 - Transporthjul fram och justerbara fötter bak
 
-**Leverans, retur och garanti:** `[STANDARDBLOCK PER MARKNAD, se underlag som saknas]`
+**Leverans, retur och garanti:** standardblock (se nedan)
 
 **Vanliga frågor:**
 - **Vilken längd passar cykeln för?** Den är avsedd för användare mellan 155 och 200 cm.
 - **Är den tyst?** Ja, bromssystemet är magnetiskt och cykeln har en platt gummirem, vilket ger tyst gång.
 
-**Om märket:** Christopeit är ett tyskt märke för hemmaträningsutrustning.
+**Om märket:** Christopeit Sport är ett tyskt märke för hemmaträning, grundat 1976 i Velbert.
 
 **Att bekräfta eller rätta:**
 - Originaltexten säger "Max. belastning: 9 kg" och "155 till 155 cm". Troligen svänghjulets vikt (9 kg) respektive längdspannet 155–200 cm. Bekräfta svänghjulets vikt innan den nämns.
 - "Christopher" finns som tagg (felstavning av märket), bör bort.
-- Märkets land: "tyskt" är min tolkning, bekräfta mot leverantören.
+- Märkesuppgift verifierad mot två källor (återförsäljarsidor): Tyskland, Velbert, 1976. Källorna är återförsäljare, inte företagets egen sida.
 
 ---
 
@@ -81,17 +81,17 @@ Toorx BRX 65 Comfort är en motionscykel med ryggstöd för hemmaträning, med 8
 - Mått: 130 x 63 x 97 cm, vikt 29,5 kg
 - Maximal användarvikt: 110 kg
 
-**Leverans, retur och garanti:** `[STANDARDBLOCK PER MARKNAD, se underlag som saknas]`
+**Leverans, retur och garanti:** standardblock (se nedan)
 
 **Vanliga frågor:**
 - **Går den att ha i lägenhet?** Ja, motståndssystemet är tyst och cykeln är kompakt (130 x 63 x 97 cm).
 - **Visar den puls?** Uppgift saknas i produkttexten. Bekräfta med leverantören.
 
-**Om märket:** Toorx är ett italienskt märke för konditionsutrustning.
+**Om märket:** Toorx är ett italienskt märke för hemmaträning som ägs av Garlando S.p.A.
 
 **Att bekräfta eller rätta:**
-- "Italienskt" är min tolkning, bekräfta.
 - Pulsmätning och montering är inte angivna i texten.
+- Märkesuppgift verifierad: Toorx ägs av Garlando S.p.A. (Garlandos egen katalog och företagssida). Toorx lanseringsår är oklart och anges inte.
 
 ---
 
@@ -121,13 +121,13 @@ Hammer Speed Race SR är en spinningcykel för intensiv hemmaträning med 10,1-t
 - Maximal användarvikt: 150 kg
 - Handtagslängd 18 cm, pedalavstånd 17 cm
 
-**Leverans, retur och garanti:** `[STANDARDBLOCK PER MARKNAD, se underlag som saknas]`
+**Leverans, retur och garanti:** standardblock (se nedan)
 
 **Vanliga frågor:**
 - **Hur lång är leveranstiden?** Detta är en beställningsvara och kan ta upp till en vecka längre att leverera.
 - **Vem tillverkar den?** Hammer, Tyskland.
 
-**Om märket:** Hammer är ett tyskt märke för hemmaträning.
+**Om märket:** Hammer Sport AG är ett tyskt företag för hemmaträning.
 
 **Att bekräfta eller rätta:**
 - Beställningsvara: leveranstiden bör synas högt upp och i Merchant-flödet (tillgänglighet "förbeställning"/leveranstid), annars riskerar vi missnöjda köp.
@@ -159,13 +159,13 @@ Christopeit TM 750S är ett hopfällbart löpband för hemmet, 95 % förmonterat
 - Hopfällning: Easy Foldable System, höjd 19 cm liggande, djup 34 cm stående
 - Smörjsystem integrerat, transporthjul, hållare för surfplatta
 
-**Leverans, retur och garanti:** `[STANDARDBLOCK PER MARKNAD, se underlag som saknas]`
+**Leverans, retur och garanti:** standardblock (se nedan)
 
 **Vanliga frågor:**
 - **Behöver den monteras?** Nej, den är 95 % förmonterad.
 - **Hur mycket plats tar den?** Hopfälld är den 19 cm hög (liggande) eller 34 cm djup (stående).
 
-**Om märket:** Christopeit är ett tyskt märke för hemmaträning.
+**Om märket:** Christopeit Sport är ett tyskt märke för hemmaträning, grundat 1976 i Velbert.
 
 **Att bekräfta eller rätta:**
 - Originalet är längre (461 ord) och innehåller fler specifikationer än vad som visades för mig (maxvikt, mått, vikt). Behåll dem från originalet i den färdiga texten.
@@ -176,8 +176,8 @@ Christopeit TM 750S är ett hopfällbart löpband för hemmet, 95 % förmonterat
 ### Treadmill HAMMER Walk 2.0 NorsK
 Produkt-id: `10472307982602`
 
-**Titel:** Gåband Hammer Walk 2.0, ekfinish, upp till 6 km/h  (49 tecken)
-**SEO-titel:** Gåband Hammer Walk 2.0 med ekfinish | Best of Sports  (52 tecken)
+**Titel:** Gåband Hammer Walk 2.0 Norsk, ekfinish, 1–6 km/h  (48 tecken)
+**SEO-titel:** Gåband Hammer Walk 2.0 Norsk, ekfinish | Best of Sports  (55 tecken)
 **Metabeskrivning:** Hammer Walk 2.0 är ett kompakt gåband med viskande tyst motor, fjärrkontroll och två lutningar. Passar hemmakontor och vardagsrum. Hastighet 1–6 km/h.  (150 tecken)
 
 **Beskrivning (utkast):**
@@ -198,17 +198,17 @@ Hammer Walk 2.0 är ett kompakt gåband med ekfinish och tyst motor, avsett för
 - Mått: 128 x 58 x 16 cm, vikt 28 kg
 - Maximal användarvikt: 120 kg
 
-**Leverans, retur och garanti:** `[STANDARDBLOCK PER MARKNAD, se underlag som saknas]`
+**Leverans, retur och garanti:** standardblock (se nedan)
 
 **Vanliga frågor:**
 - **Är det ett löpband?** Nej, hastigheten går till 6 km/h och det är avsett för gång.
 - **Hur lång är leveranstiden?** Beställningsvara, kan ta upp till en vecka längre.
 
-**Om märket:** Hammer är ett tyskt märke för hemmaträning.
+**Om märket:** Hammer Sport AG är ett tyskt företag för hemmaträning.
 
 **Att bekräfta eller rätta:**
-- "NorsK" i titeln: troligen en nordisk/norsk variant. Bekräfta om produkten skiljer sig från "Hammer Walk 2.0" (id 13007). Om de är samma produkt bör de slås ihop eller skiljas tydligt, annars ger de dubbletter.
-- "Gåband" är min benämning på "walking pad", texten kallar den ibland löpband.
+- JÄMFÖRELSE Walk 2.0 (id 10472289042698, SKU 13007, 6 909 kr) mot Walk 2.0 NorsK (id 10472307982602, SKU 13016, 8 469 kr): identiska specifikationer (LED, 13 program, 1,25 hk, löpyta 105 x 42 cm, 1–6 km/h, lutning 0 och 2,5°, 128 x 58 x 16 cm, 28 kg), men olika artikelnummer och streckkod, olika bilder, NorsK beskrivs med ekfinish och kostar 1 560 kr mer. Slutsats: samma modell i två utföranden, inte en dubblett. Titlarna görs tydliga; sammanslagning till en produkt med två varianter (utförande) är ett separat beslut.
+- Max användarvikt 120 kg finns bara i NorsK-texten, inte i den andra.
 
 ---
 
@@ -237,16 +237,16 @@ Tunturi Cardio Fit T5 är ett kompakt, hopfällbart löpband med Bluetooth, 1,5 
 - Mått: 121,9 x 67,4 x 126,9 cm, hopfälld 27,5 x 61 x 127 cm
 - Vikt: 23 kg, maximal användarvikt 100 kg
 
-**Leverans, retur och garanti:** `[STANDARDBLOCK PER MARKNAD, se underlag som saknas]`
+**Leverans, retur och garanti:** standardblock (se nedan)
 
 **Vanliga frågor:**
 - **Behöver den monteras?** Nej, den är färdigmonterad i kartongen.
 - **Hur snabbt går det?** Upp till 8 km/h, lämpligt för promenad och lätt jogging.
 
-**Om märket:** Tunturi grundades i Finland 1922 och är idag ett globalt varumärke inom träning.
+**Om märket:** Tunturi grundades 1922 i Åbo, Finland.
 
 **Att bekräfta eller rätta:**
-- Märkeshistoriken ("Finland 1922") kommer ur Tunturis egen text på andra produkter, bekräfta formuleringen.
+- Tunturi: "grundades 1922 i Åbo" stöds av Wikipedia och Yle. Nutida ägande och status är oklart (en finsk nyhet om en konkursansökan för ett Tunturi-bolag, troligen cykelbolaget), därför står inga nutida påståenden som "globalt märke". Bör kontrolleras om leverantören av träningsutrustningen påverkas.
 
 ---
 
@@ -274,13 +274,13 @@ Tunturi UB70 Utility Bench är en stabil och justerbar träningsbänk för hemma
 - Vikt: 25 kg
 - Transporthjul och bärhandtag
 
-**Leverans, retur och garanti:** `[STANDARDBLOCK PER MARKNAD, se underlag som saknas]`
+**Leverans, retur och garanti:** standardblock (se nedan)
 
 **Vanliga frågor:**
 - **Går den att justera?** Ja, både sitsens och ryggstödets vinkel justeras.
 - **Hur mycket tål den?** Maximal belastning är 250 kg.
 
-**Om märket:** Tunturi grundades i Finland 1922 och är idag ett globalt varumärke inom träning.
+**Om märket:** Tunturi grundades 1922 i Åbo, Finland.
 
 **Att bekräfta eller rätta:**
 - Måtten 68 x 135 x 122 cm är ologiska för en bänk i hög position (122 cm). Kolla mot leverantörens datablad.
@@ -312,7 +312,7 @@ Rak träningsbänk i svart, 40 cm hög och godkänd för 250 kg inklusive kropps
 - Vikt: 16 kg
 - Färg: svart
 
-**Leverans, retur och garanti:** `[STANDARDBLOCK PER MARKNAD, se underlag som saknas]`
+**Leverans, retur och garanti:** standardblock (se nedan)
 
 **Vanliga frågor:**
 - **Går den att justera?** Nej, det är en rak bänk.
@@ -347,17 +347,16 @@ Finnlo by Hammer Tricon Flex är en hopfällbar bänk för ryggträning, hyperex
 - Vikt: 17 kg
 - Maximal belastning: 130 kg
 
-**Leverans, retur och garanti:** `[STANDARDBLOCK PER MARKNAD, se underlag som saknas]`
+**Leverans, retur och garanti:** standardblock (se nedan)
 
 **Vanliga frågor:**
 - **Går den att fälla ihop?** Ja, hopfälld är den 54 x 51 x 108 cm.
 - **Är den en medicinsk produkt?** Nej. Den är träningsutrustning.
 
-**Om märket:** Finnlo är ett tyskt märke som ingår i Hammer.
+**Om märket:** Finnlo är premiummärket inom det tyska företaget Hammer Sport AG.
 
 **Att bekräfta eller rätta:**
 - Originalet lovar "snabb smärtlindring" och hjälp vid ischias. Sådana hälsopåståenden bör tas bort (marknadsföringsregler och Googles regler), vilket jag har gjort.
-- Kopplingen Finnlo/Hammer är hämtad ur titeln, bekräfta formuleringen.
 
 ---
 
@@ -387,13 +386,13 @@ Giant Talon E+ är en elmountainbike med 29"-hjul, mittmotor (Giant SyncDrive Sp
 - Däck: Maxxis Rekon 29 x 2,4"
 - Ramstorlekar: S 38,5 cm (163–174 cm), M 43,5 cm (171–182 cm), L 48,5 cm (179–190 cm), XL 53,5 cm (187–200 cm)
 
-**Leverans, retur och garanti:** `[STANDARDBLOCK PER MARKNAD, se underlag som saknas]`
+**Leverans, retur och garanti:** standardblock (se nedan)
 
 **Vanliga frågor:**
 - **Vilken storlek ska jag välja?** Välj efter din längd enligt ramstorlekarna ovan.
 - **Går det att montera stänkskärmar?** Ja, cykeln har fästpunkter för stänkskärmar och tillbehör.
 
-**Om märket:** Giant är världens största cykeltillverkare.
+**Om märket:** Giant grundades 1972 i Taiwan och är en av världens största cykeltillverkare.
 
 **Att bekräfta eller rätta:**
 - Räckvidden upp till 115 km är tillverkarens uppgift under bästa förhållanden, bör stå så.
@@ -425,7 +424,7 @@ ADO Air 20 Ultra (2026) är en hopfällbar elcykel för stadsbruk med Bafang H73
 - Främre fjädring: justerbar gaffel
 - Pakethållare med MIK-fäste och integrerad baklykta, strålkastare integrerad i ramen
 
-**Leverans, retur och garanti:** `[STANDARDBLOCK PER MARKNAD, se underlag som saknas]`
+**Leverans, retur och garanti:** standardblock (se nedan)
 
 **Vanliga frågor:**
 - **Går cykeln att fälla ihop?** Ja, den är hopfällbar.
@@ -435,6 +434,7 @@ ADO Air 20 Ultra (2026) är en hopfällbar elcykel för stadsbruk med Bafang H73
 - Originalet är längre (225 ord) med fler uppgifter (batteri, räckvidd, vikt) som behålls i den färdiga texten. Batteri och räckvidd måste hämtas därifrån, jag har inte skrivit dem.
 - "25 procent mer kraft" bör kunna beläggas (50/40 Nm = 25 %, stämmer).
 - Saknas: batterikapacitet, räckvidd, vikt, maxvikt i denna sammanfattning.
+- ADO: ursprung ("kinesiskt") finns bara i en källa och anges därför inte.
 
 ---
 
@@ -461,18 +461,17 @@ Liv Tempt 20 är en mountainbike för barn med 20"-hjul, främre fjädring och a
 - Vevar: kortare för jämn trampning
 - Medföljer: stöd, främre stänkskärm och ringklocka
 
-**Leverans, retur och garanti:** `[STANDARDBLOCK PER MARKNAD, se underlag som saknas]`
+**Leverans, retur och garanti:** standardblock (se nedan)
 
 **Vanliga frågor:**
 - **Vilken längd passar cykeln?** Ramstorlek S passar barn mellan 118 och 138 cm.
 - **Medföljer stänkskärm och ringklocka?** Ja.
 
-**Om märket:** Liv är Giants cykelmärke för kvinnor och barn.
+**Om märket:** Liv är ett cykelvarumärke inom Giant-koncernen.
 
 **Att bekräfta eller rätta:**
 - Originalet nämner "Talon 20" i texten (felskrivning), använd "Tempt 20".
 - Annonskostnad på barncyklar (Tempt 24, Rambler 20) är sedan tidigare en stor del av annonsbudgeten, behåll koppling till annonsdatan.
-- "Liv är Giants märke för kvinnor och barn" är min kunskap, bekräfta formuleringen.
 
 ---
 
@@ -496,13 +495,13 @@ Tunturi PE-kettlebell är en kettlebell på 16 kg i PVC fylld med sand, ett bill
 - Material: PVC fylld med sand
 - Lätt att rengöra och förvara
 
-**Leverans, retur och garanti:** `[STANDARDBLOCK PER MARKNAD, se underlag som saknas]`
+**Leverans, retur och garanti:** standardblock (se nedan)
 
 **Vanliga frågor:**
 - **Är den lika bra som gjutjärn?** Du kan göra samma övningar, den är gjord av PVC med sandfyllning.
 - **Vad tränar man med den?** Styrka, koordination, flexibilitet och bålstabilitet.
 
-**Om märket:** Tunturi grundades i Finland 1922 och är idag ett globalt varumärke inom träning.
+**Om märket:** Tunturi grundades 1922 i Åbo, Finland.
 
 **Att bekräfta eller rätta:**
 - Originalet har en upprepad rad ("Lätt att använda, billigare, lätt att rengöra…") som är tydligt maskinöversättning, den är borttagen.
@@ -532,13 +531,13 @@ Tunturi Platinum Competition är en kettlebell i stål (12 kg) tillverkad enligt
 - Ingraverad viktmarkering och färgkod enligt internationell standard
 - Samma storlek och form oavsett vikt
 
-**Leverans, retur och garanti:** `[STANDARDBLOCK PER MARKNAD, se underlag som saknas]`
+**Leverans, retur och garanti:** standardblock (se nedan)
 
 **Vanliga frågor:**
 - **Varför samma storlek i alla vikter?** För konsekvent grepp och kroppsposition när du byter vikt.
 - **Passar den i ett gym?** Ja, den är designad för kommersiellt bruk.
 
-**Om märket:** Tunturi grundades i Finland 1922 och är idag ett globalt varumärke inom träning.
+**Om märket:** Tunturi grundades 1922 i Åbo, Finland.
 
 ---
 
@@ -564,7 +563,7 @@ Movit viktskivor i gjutjärn med 4 mm gummibeläggning och håldiameter 31 mm, f
 - Vikter: 1,25, 2,5, 5, 10, 15, 20, 25 kg
 - Exempel på mått: 10 kg = 3,4 cm tjock, 28 cm diameter; 20 kg = 4,2 cm, 34,5 cm
 
-**Leverans, retur och garanti:** `[STANDARDBLOCK PER MARKNAD, se underlag som saknas]`
+**Leverans, retur och garanti:** standardblock (se nedan)
 
 **Vanliga frågor:**
 - **Passar de min skivstång?** Ja, om stången har 30 mm diameter på hylsan.
@@ -585,30 +584,32 @@ Produkt-id: `10472323186954`
 
 **Beskrivning (utkast):**
 
-Trec Boogieman Candy är ett pre-workout-kosttillskott i pulverform med 150 mg koffein, 2 400 mg beta-alanin och 2 500 mg citrullinmalat, med godissmak.
+Trec Boogieman Candy är ett pre-workout-pulver med godissmak, avsett att tas före träning. Det innehåller 150 mg koffein, 2 400 mg beta-alanin och 2 500 mg citrullinmalat.
 
 **Passar dig som:**
-- Dig som vill ha ett pre-workout före träning
-- Dig som tål koffein (kosttillskottet innehåller 150 mg per portion)
+- Dig som vill ta ett pre-workout före styrke- eller konditionsträning
+- Dig som tål koffein (150 mg per portion)
 
 **Specifikationer:**
 - Smak: Candy
 - Innehåll per portion: koffein 150 mg, beta-alanin 2 400 mg, citrullinmalat 2 500 mg
-- Ytterligare ingredienser: L-arginin AKG, taurin, L-tyrosin, B6, B12, magnesium, koreansk ginsengextrakt, alfa-liponsyra
+- Ytterligare ingredienser: L-arginin AKG, taurin, L-tyrosin, vitamin B6 och B12, magnesium, koreansk ginsengextrakt, alfa-liponsyra
+- Beta-alanin, citrullin, koffein och taurin är ingredienser som ofta ingår i pre-workout-produkter
+- Användning och dosering: enligt etiketten
 
-**Leverans, retur och garanti:** `[STANDARDBLOCK PER MARKNAD, se underlag som saknas]`
+**Leverans, retur och garanti:** standardblock (se nedan)
 
 **Vanliga frågor:**
 - **Hur mycket koffein innehåller en portion?** 150 mg.
 - **Vem bör inte använda den?** Se förpackningens varningstexter. Produkten är inte avsedd för barn, gravida eller ammande.
 
-**Om märket:** Trec Nutrition är en polsk tillverkare av kosttillskott.
+**Om märket:** Trec Nutrition är ett polskt märke för kosttillskott med bas i Gdynia.
 
 **Att bekräfta eller rätta:**
-- Titeln "Koffeinpulver" stämmer inte, det är en pre-workout med koffein.
-- "20 g" tolkar jag som portionsstorlek (oklart). Förpackningsstorlek saknas, bekräfta.
-- Påståenden om effekt (minska trötthet, öka blodflöde) är inte godkända hälsopåståenden för alla ingredienser. Jag har tagit bort dem. Varningstext och dosering måste verifieras mot etiketten.
-- "Polsk tillverkare" är min kunskap, bekräfta.
+- HÄLSOPÅSTÅENDEN, behöver ditt beslut: du vill beskriva varför man tar tillskottet och inte ta bort allt. Utkastet säger därför syftet (pre-workout, före träning) och vilka ingredienser som ingår och brukar ingå i sådana produkter, utan att påstå effekt. Att mildra språket ("möjliga effekter", "kan bidra till") ändrar inte att det är ett hälsopåstående: i EU får kosttillskott bara marknadsföras med godkända påståenden (förordning 1924/2006), och formuleringar som antyder effekt omfattas även med försiktiga ord. Vill du ha effektbeskrivningar bör vi använda godkända påståenden ordagrant och bara där halten stämmer (till exempel för koffein, magnesium och B-vitaminer), kontrollerat mot EU:s register. Detta är inte juridisk rådgivning.
+- Titeln "Koffeinpulver" är ändrad till "Pre-workout".
+- "20 g" tolkar jag som portionsstorlek (oklart). Förpackningsstorlek saknas.
+- Dosering, varningstext och målgrupp ska hämtas från etiketten.
 
 ---
 
@@ -635,16 +636,15 @@ Nutcase Darth Lightnin' är en reflekterande cykelhjälm med MIPS-skydd, magneti
 - Skal: polykarbonat med ABS-innehåll
 - Medföljer: avtagbar skärm i matchande färg
 
-**Leverans, retur och garanti:** `[STANDARDBLOCK PER MARKNAD, se underlag som saknas]`
+**Leverans, retur och garanti:** standardblock (se nedan)
 
 **Vanliga frågor:**
 - **Vilken storlek är det?** M, för huvudomkrets 56–60 cm.
 - **Har den reflexer?** Ja, den är reflekterande.
 
-**Om märket:** Nutcase är ett amerikanskt märke för designade cykelhjälmar.
+**Om märket:** Nutcase är ett amerikanskt märke med säte i Portland, Oregon.
 
 **Att bekräfta eller rätta:**
-- "Amerikanskt" är min kunskap, bekräfta.
 - Originalet säger "ledande de senaste 5 åren", tidsbunden marknadsföring, borttagen.
 - Testbetyg och certifiering (EN 1078) saknas i texten.
 
@@ -673,17 +673,16 @@ AXA Fold 85 är ett vikbart cykellås, 85 cm långt, certifierat Sold Secure Bro
 - Vibrationsdämpning, skyddat cylinderhölje mot fukt och smuts
 - Levereras med 2 nycklar
 
-**Leverans, retur och garanti:** `[STANDARDBLOCK PER MARKNAD, se underlag som saknas]`
+**Leverans, retur och garanti:** standardblock (se nedan)
 
 **Vanliga frågor:**
 - **Är det säkert nog för en dyr cykel?** Låset är certifierat Sold Secure Bronze och avsett för måttlig stöldrisk, för dyra cyklar rekommenderas ett högre skyddsklass.
 - **Kan jag beställa extranycklar?** Ja, via tillverkarens nyckelbeställningstjänst.
 
-**Om märket:** AXA är ett nederländskt märke för cykelsäkerhet.
+**Om märket:** AXA är ett nederländskt märke för cykelsäkerhet och ingår i Allegion.
 
 **Att bekräfta eller rätta:**
 - Lagernivån (29) och beskrivningens längd gör att produkten är en bra kandidat i annonser, men säkerhetsklass bör stå tydligt.
-- "Nederländskt" är min kunskap (AXA nämns som Nederländerna på andra produkter), bekräfta.
 
 ---
 
@@ -709,13 +708,13 @@ Giant Control Mini Road+ är en kompakt handpump för Presta-ventil med utbyggba
 - Ramfäste
 - Färg: svart
 
-**Leverans, retur och garanti:** `[STANDARDBLOCK PER MARKNAD, se underlag som saknas]`
+**Leverans, retur och garanti:** standardblock (se nedan)
 
 **Vanliga frågor:**
 - **Passar den bildäck eller andra ventiler?** Den passar Presta-ventil. För andra ventiltyper behövs en adapter.
 - **Kan den fästas på cykeln?** Ja, med medföljande ramfäste.
 
-**Om märket:** Giant är världens största cykeltillverkare.
+**Om märket:** Giant grundades 1972 i Taiwan och är en av världens största cykeltillverkare.
 
 **Att bekräfta eller rätta:**
 - Originalet säger "lämplig för alla typer av cyklar" men anger bara Presta-ventil, motsägelse. Jag har valt den snävare uppgiften.
@@ -742,12 +741,12 @@ Limar F30 är solglasögon i vitt med polykarbonatbåge och rökfärgad polykarb
 - Lins: rökfärgad polykarbonat med Revo-beläggning
 - Medföljer: svart mikrofiberpåse/rengöringsduk
 
-**Leverans, retur och garanti:** `[STANDARDBLOCK PER MARKNAD, se underlag som saknas]`
+**Leverans, retur och garanti:** standardblock (se nedan)
 
 **Vanliga frågor:**
 - **Är linsen skyddande mot UV?** Uppgift saknas i produkttexten. Bekräfta med leverantören innan det anges.
 
-**Om märket:** Limar är ett italienskt märke.
+**Om märket:** Limar är ett italienskt märke för cykelhjälmar och solglasögon, grundat 1986.
 
 **Att bekräfta eller rätta:**
 - UV-klass, vikt, linsform och passform saknas. Det är ovanligt tunna uppgifter för solglasögon, be leverantören om datablad.
@@ -755,19 +754,38 @@ Limar F30 är solglasögon i vitt med polykarbonatbåge och rökfärgad polykarb
 
 ---
 
-## Underlag som saknas från dig (för standardblocken)
-Standardblocket **Leverans, retur och garanti** per marknad (SE, DK, FI) kan jag inte skriva själv, eftersom det är butikens villkor. Jag behöver:
-- Fri frakt: gräns och kostnad per marknad.
-- Leveranstid per marknad, och vad som gäller för beställningsvaror.
-- Returtid och vem som betalar returen.
-- Garanti och reklamationsrätt per marknad (lagstadgad rätt gäller oavsett, men formuleringen ska stämma med era villkor).
-- Företagsuppgifter att nämna (till exempel org.nr, support-e-post).
+## Standardblock: leverans, retur och garanti (Sverige)
+Hämtat ur butikens egna policyer och fraktprofiler i Shopify (läst 2026-10-25), inte skrivet av mig. Samma text ska ligga på ett ställe (mall eller metafield) så att den inte kopieras in i varje produkt.
 
-När jag har dem lägger jag blocket som en mall i temat eller som en metafield-text, så att det inte kopieras in i varje produkt.
+**Frakt och leverans:** Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan (inom Sverige 179 kr; löpband och crosstrainers 499 kr). Se sidan Frakt för övriga länder. Beställningsvaror kan ta upp till en vecka längre.
+**Retur:** 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.
+**Reklamation:** Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.
+**Säljare:** BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.
+
+**Fakta bakom blocket:** leveranstid 5–8 arbetsdagar (fraktpolicyn och villkoren), 30 dagars öppet köp, kunden betalar returfrakten vid ångrat köp, butiken betalar vid godkänd reklamation (förbetald returetikett), lager i Tyskland, Finland och Estland, fraktpris Sverige 179 kr (fraktprofilen) och 499 kr för löpband och crosstrainers, Danmark 119 DKK, Finland 12 EUR. **Ingen fri frakt** (bekräftat av dig).
+
+## Avvikelser mellan dina policyer som bör rättas (ingen ändring gjord)
+1. Fraktpolicyn säger "mellan 199kr", men kassan tar 179 kr i Sverige. Du valde 179 kr i texterna, så fraktpolicyn bör rättas.
+2. Fraktprofilen "Löpband Crosstrainer" tar 499 **SEK** även i Danmark och Finland, medan allmän frakt där är 119 DKK och 12 EUR. Kontrollera om det är avsiktligt.
+3. Villkoren (punkt 6.2) och återbetalningspolicyn säger "30 dagars ångerrätt", vilket är mer än lagens 14 dagar. Det är butikens egen 30-dagarsregel och stämmer med texterna ovan, men formuleringen "enligt gällande konsumentlagstiftning" i villkoren är missvisande.
+4. Villkoren och retur nämner lager i Tyskland, Finland och Estland men ger ingen returadress; den lämnas av kundtjänst. Texten hänvisar till kundtjänst.
+
+## Verifiering av märkesuppgifter (två källor eller flaggad)
+| Märke | Uppgift i texterna | Källor | Status |
+|---|---|---|---|
+| Christopeit | Tyskt, grundat 1976 i Velbert | Kaufland-märkessida, återförsäljarlistning, eBay-säljarsida | Bekräftad (återförsäljarkällor) |
+| Toorx | Italienskt, ägs av Garlando S.p.A. | Garlandos katalog och företagssida | Bekräftad |
+| Hammer / Finnlo | Tyskt; Finnlo är premiummärket inom Hammer Sport AG | Fitshop, Galaxus, Velomarket, eBay | Bekräftad. Sätet anges olika (Neu-Ulm eller Hockenheim), så ingen ort anges |
+| Tunturi | Grundat 1922 i Åbo | Wikipedia, Yle | Bekräftad. Nutida ägande oklart, inga nutida påståenden |
+| Giant | Grundat 1972 i Taiwan, en av världens största | Wikipedia, GCN, bike-magazin, Taiwan Today | Bekräftad |
+| Liv | Inom Giant-koncernen | Wikipedia, Giant-källor | Bekräftad |
+| Trec Nutrition | Polskt, Gdynia | doz.pl, Aflofarm, aplikuj.pl | Bekräftad |
+| Nutcase | Amerikanskt, Portland, Oregon | Nutcase egen sida, Ride Review, BikePortland | Bekräftad. Grundår (2000/2006) anges olika, därför inget år |
+| AXA | Nederländskt, ägs av Allegion | Allegions sida, återförsäljare | Bekräftad. Grundår varierar, inget år |
+| Limar | Italienskt, grundat 1986 | CyclingIndustry, BikeRadar, Bicycle Retailer | Bekräftad |
+| ADO | (utelämnat) | Bara en källa (road.cc) | Ej bekräftad, anges inte |
 
 ## Beslut som behövs
-1. **Godkänn eller ändra utkasten** (per produkt).
-2. **Standardblocket:** skicka underlaget ovan.
-3. **Märkestexterna** (land, år): bekräfta eller ta bort.
-4. **Hälsopåståenden på kosttillskott:** ska vi alltid ta bort dem och bara ange innehåll och dosering enligt etiketten? Rekommendation: ja.
-5. **Produkterna med dubbletter** (Hammer Walk 2.0 och Hammer Walk 2.0 NorsK): slå ihop eller särskilj?
+1. **Kosttillskottet (Trec Boogieman):** godkänn "syfte och ingredienser utan effektpåstående" (utkastet), eller att vi går igenom godkända påståenden ordagrant mot EU:s register.
+2. **Hammer Walk 2.0 och Norsk:** de är samma modell i två utföranden, inte dubbletter. Behåll som två produkter med tydliga titlar (utkastet), eller slå ihop till en produkt med två varianter?
+3. **Godkänn de reviderade utkasten.** Texterna har ändrats sedan ditt "ja till alla" (standardblocket, märkesuppgifter, tillskottet, Walk 2.0). Säg "kör" så skriver jag in dem enligt rutinen (original sparas, läses tillbaka, loggas).
