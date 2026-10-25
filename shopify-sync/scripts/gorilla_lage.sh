@@ -24,12 +24,12 @@ steg "4. Omsättning, senaste 30 dagarna mot de 30 innan"
 sed "s/PROJ/${P}/g" sql/analys/omsattning_30d.sql | q || echo "(hoppades över)"
 
 steg "5. Annonsklick på produkter som inte går att köpa (Gorilla)"
-sed -e "s/PROJ/${P}/g" -e 's/KEY/gorillasports/g' -e 's/SHOPDS/shopify/g' sql/analys/annonser_pa_slutsalda.sql | q || echo "(hoppades över)"
+sed -e "s/PROJ/${P}/g" -e 's/KEY/gorillasports_se/g' -e 's/SHOPDS/shopify/g' sql/analys/annonser_pa_slutsalda.sql | q || echo "(hoppades över)"
 
 steg "6. Döda produktsidor med besök (gorillasports.se)"
 sed -e "s/PROJ/${P}/g" -e 's/KEY/gorillasports_se/g' -e 's/HOST/gorillasports.se/g' sql/analys/doda_sidor_med_trafik.sql | q || echo "(hoppades över)"
 
 steg "7. Avvisade produkter i Merchant Center med annonsklick eller lager"
-sed -e "s/PROJ/${P}/g" -e 's/KEY/gorillasports/g' sql/analys/merchant_avvisade.sql | q || echo "(hoppades över)"
+sed -e "s/PROJ/${P}/g" -e 's/KEY/gorillasports_se/g' sql/analys/merchant_avvisade.sql | q || echo "(hoppades över)"
 
 echo; echo "Klart. Klistra in ~/gorilla-lage.txt till Claude."
