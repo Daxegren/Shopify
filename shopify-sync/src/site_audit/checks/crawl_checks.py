@@ -141,7 +141,11 @@ def check_onpage(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
             continue
         n_h1 = len(f.h1)
         if f.page_type in CONTENT_TYPES_NEEDING_H1:
-            if n_h1 == 0:
+            if n_h1 == 0 and f.page_type == "collection" and f.product_link_count == 0:
+                # Kategori vars produktlista också saknas i HTML:en byggs troligen med JavaScript. Rubriken kan finnas efter rendering.
+                out.append(F("missing_h1", "info", "onpage", "Ingen H1 i HTML:en (kategorin byggs troligen med JavaScript, verifiera renderat)",
+                             url=cu.url, evidence={"page_type": f.page_type, "rendered_by_js_suspected": True}))
+            elif n_h1 == 0:
                 out.append(F("missing_h1", "high", "onpage", f"Ingen H1 ({f.page_type})", url=cu.url, evidence={"page_type": f.page_type}))
             elif n_h1 > 1:
                 out.append(F("multiple_h1", "medium", "onpage", f"{n_h1} H1 på samma sida ({f.page_type})",

@@ -19,6 +19,7 @@ F = Finding
 FACET_KEYS = ("filter.", "sort_by", "view", "constraint", "q")
 THIN_COLLECTION_PRODUCTS = 4
 THIRD_PARTY_HOSTS_WARN = 12
+JS_RENDERED_SHARE = 0.6   # andel kategorier utan produktlänkar i HTML som tolkas som JavaScript-byggd lista
 CORE_TYPES = ("home", "collection", "product")
 
 
@@ -66,13 +67,24 @@ def check_thin_collections(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
     from .crawl_checks import _indexable
 
     thin = []
+    collections = 0
     for cu in cr.urls.values():
         f = cu.facts
         if not f or f.page_type != "collection" or not _indexable(cu):
             continue
+        collections += 1
         if f.product_link_count < THIN_COLLECTION_PRODUCTS:
             thin.append((cu, f.product_link_count))
     out = []
+    empty = sum(1 for _, n in thin if n == 0)
+    if collections >= 10 and empty / collections >= JS_RENDERED_SHARE:
+        # De flesta kategorier saknar produktlänkar i råa HTML:en: listan byggs sannolikt med JavaScript. Ett fynd per kategori vore
+        # missvisande, så det blir ett samlat fynd som hänvisar till den renderande kontrollen.
+        return [F("collections_rendered_by_js", "medium", "catalog",
+                  f"{empty} av {collections} kategorier saknar produktlänkar i HTML:en (produktlistan byggs troligen med JavaScript, "
+                  "Google måste rendera sidorna). Verifiera med scripts/rendera_kategorier.py",
+                  url=site.base_url, evidence={"collections": collections, "without_product_links": empty,
+                                               "sample": [cu.url for cu, n in thin if n == 0][:10]})]
     for cu, n in sorted(thin, key=lambda x: x[1]):
         out.append(F("collection_few_products", "medium" if n == 0 else "low", "catalog",
                      f"Kategori visar {n} produkter (färre än {THIN_COLLECTION_PRODUCTS}) men går att indexera",

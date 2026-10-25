@@ -405,3 +405,47 @@ def test_check_malformed_hrefs_samlar_per_adress():
     pages = [cu(f"https://www.t.se/p{i}", facts(f"https://www.t.se/p{i}", malformed_hrefs=[bad])) for i in range(3)]
     out = check_malformed_hrefs(crawl(*pages), SITE)
     assert len(out) == 1 and out[0].check == "malformed_link_href" and out[0].evidence["pages"] == 3
+
+
+def test_kategorier_byggda_med_js_ger_ett_samlat_fynd():
+    urls = [f"https://www.t.se/collections/c{i}" for i in range(12)]
+    pages = [cu(u, facts(u, product_link_count=0, h1=[])) for u in urls]
+    out = check_thin_collections(crawl(*pages), SITE)
+    assert [x.check for x in out] == ["collections_rendered_by_js"]
+    # få tomma kategorier bland många fulla: ett fynd per tom kategori som förut
+    pages2 = [cu(u, facts(u, product_link_count=20)) for u in urls[:10]] + [cu(u, facts(u, product_link_count=0)) for u in urls[10:]]
+    assert {x.check for x in check_thin_collections(crawl(*pages2), SITE)} == {"collection_few_products"}
+
+
+def test_missing_h1_pa_js_kategori_ar_bara_info():
+    from site_audit.checks.crawl_checks import check_onpage
+    u = "https://www.t.se/collections/x"
+    f = facts(u, product_link_count=0, h1=[], title="T")
+    out = [x for x in check_onpage(crawl(cu(u, f)), SITE) if x.check == "missing_h1"]
+    assert out and out[0].severity == "info"
+    f2 = facts(u, product_link_count=12, h1=[], title="T")
+    out2 = [x for x in check_onpage(crawl(cu(u, f2)), SITE) if x.check == "missing_h1"]
+    assert out2 and out2[0].severity == "high"
+
+
+def test_rendera_kategorier_klassning_och_hjalpfunktioner():
+    import importlib.util
+    spec = importlib.util.spec_from_file_location("rk", Path(__file__).resolve().parents[1] / "scripts" / "rendera_kategorier.py")
+    rk = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(rk)
+    assert rk.classify(10, True, 10, True) == "ok"
+    assert rk.classify(0, False, 12, True) == "byggs_med_js"
+    assert rk.classify(0, False, 0, False) == "tom"
+    assert rk.classify(8, True, 8, False) == "utan_h1"
+    assert rk.count_product_links('<a href="/products/a">x</a><a href="/collections/c/products/a?v=1">y</a><a href="/products/b">z</a>') == 2
+    assert rk.has_h1("<H1 class='t'>x</H1>") and not rk.has_h1("<h2>x</h2>")
+    assert rk.parse_locs("<loc> https://t.se/collections/a </loc><loc>https://t.se/collections/b</loc>") == ["https://t.se/collections/a", "https://t.se/collections/b"]
+
+
+def test_rendera_kategorier_ignorerar_text_i_script():
+    import importlib.util
+    spec = importlib.util.spec_from_file_location("rk2", Path(__file__).resolve().parents[1] / "scripts" / "rendera_kategorier.py")
+    rk = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(rk)
+    html = "<script>x='<a href=\"/products/fel\">'; y='<h1>'</script><a href='/products/ratt?v=1'>a</a>"
+    assert rk.count_product_links(html) == 1 and not rk.has_h1(html)
