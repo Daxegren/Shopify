@@ -14,7 +14,8 @@ nuvarande mål för varje omdirigering som ändras. Kräver att token har skrivr
 Åtgärder: SKAPA (finns ingen omdirigering för källan), ÄNDRA (finns med annat mål), OFÖRÄNDRAD (redan rätt).
 Målen kontrolleras: /products/<handle> och /collections/<handle> måste finnas i butiken (produkter måste vara
 ACTIVE). Mål som inte finns hoppas över och rapporteras, så att vi inte skapar nya felaktiga omdirigeringar.
-Artikelmål (/blogs/...) kan inte kontrolleras här och markeras 'ej kontrollerat'."""
+Artikelmål (/blogs/<blogg>/<artikel>) kontrolleras mot butikens artiklar.
+Källor som är levande sidor (aktiv produkt, kollektion eller artikel) stoppas, så att vi inte ersätter en fungerande sida."""
 from __future__ import annotations
 
 import argparse
@@ -39,6 +40,14 @@ query($cursor: String) {
 """
 COLLECTION_Q = "query($h: String!) { collectionByIdentifier(identifier: {handle: $h}) { id } }"
 PRODUCT_Q = "query($h: String!) { productByIdentifier(identifier: {handle: $h}) { id status } }"
+ARTICLES_Q = """
+query($cursor: String) {
+  articles(first: 250, after: $cursor) {
+    pageInfo { hasNextPage endCursor }
+    nodes { handle blog { handle } }
+  }
+}
+"""
 UPDATE_M = """
 mutation($id: ID!, $r: UrlRedirectInput!) {
   urlRedirectUpdate(id: $id, urlRedirect: $r) { urlRedirect { id path target } userErrors { field message } }
@@ -76,9 +85,22 @@ def plan(reviewed: list[tuple[str, str]], existing: list[dict]) -> list[dict]:
     return out
 
 
-def target_status(client, target: str) -> str:
+def fetch_articles(client) -> set[str]:
+    out: set[str] = set()
+    cursor = None
+    while True:
+        d = client.graphql(ARTICLES_Q, {"cursor": cursor})["articles"]
+        out.update(f"{a['blog']['handle']}/{a['handle']}".lower() for a in d["nodes"])
+        if not d["pageInfo"]["hasNextPage"]:
+            return out
+        cursor = d["pageInfo"]["endCursor"]
+
+
+def target_status(client, target: str, articles: set[str] | None = None) -> str:
     """'ok', 'saknas', 'inte aktiv' eller 'ej kontrollerat'."""
     parts = [p for p in target.split("?")[0].split("/") if p]
+    if articles is not None and len(parts) == 3 and parts[0] == "blogs":
+        return "ok" if f"{parts[1]}/{parts[2]}".lower() in articles else "saknas"
     if len(parts) == 2 and parts[0] == "collections":
         return "ok" if client.graphql(COLLECTION_Q, {"h": parts[1]})["collectionByIdentifier"] else "saknas"
     if len(parts) == 2 and parts[0] == "products":
@@ -87,6 +109,18 @@ def target_status(client, target: str) -> str:
             return "saknas"
         return "ok" if p.get("status") == "ACTIVE" else "inte aktiv"
     return "ej kontrollerat"
+
+
+def source_is_live(client, path: str, articles: set[str]) -> bool:
+    parts = [p for p in unquote(path).split("?")[0].split("/") if p]
+    if len(parts) == 2 and parts[0] == "products":
+        p = client.graphql(PRODUCT_Q, {"h": parts[1]})["productByIdentifier"]
+        return bool(p and p.get("status") == "ACTIVE")
+    if len(parts) == 2 and parts[0] == "collections":
+        return bool(client.graphql(COLLECTION_Q, {"h": parts[1]})["collectionByIdentifier"])
+    if len(parts) == 3 and parts[0] == "blogs":
+        return f"{parts[1]}/{parts[2]}".lower() in articles
+    return False
 
 
 def fetch_redirects(client) -> list[dict]:
@@ -115,15 +149,19 @@ def main() -> int:
     print(f"Granskade omdirigeringar: {len(reviewed)}. Omdirigeringar i butiken: {len(existing)}.")
     rows = plan(reviewed, existing)
 
+    articles = fetch_articles(client)
     cache: dict[str, str] = {}
     for r in rows:
         if r["atgard"] == "OFÖRÄNDRAD":
             r["mal"] = "-"
             continue
-        r["mal"] = cache.setdefault(r["nytt"], target_status(client, r["nytt"]))
+        r["mal"] = cache.setdefault(r["nytt"], target_status(client, r["nytt"], articles))
+        # En omdirigering från en adress som fortfarande är en levande sida får inte skapas av misstag.
+        if source_is_live(client, r["path"], articles):
+            r["mal"] = "källan är en levande sida"
 
-    todo = [r for r in rows if r["atgard"] != "OFÖRÄNDRAD" and r["mal"] in ("ok", "ej kontrollerat")]
-    blocked = [r for r in rows if r["atgard"] != "OFÖRÄNDRAD" and r["mal"] not in ("ok", "ej kontrollerat")]
+    todo = [r for r in rows if r["atgard"] != "OFÖRÄNDRAD" and r["mal"] == "ok"]
+    blocked = [r for r in rows if r["atgard"] != "OFÖRÄNDRAD" and r["mal"] != "ok"]
 
     out = Path(args.ut)
     out.mkdir(parents=True, exist_ok=True)
