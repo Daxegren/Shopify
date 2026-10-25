@@ -464,3 +464,20 @@ def test_redirect_jamforelse_skiljer_granskade_fran_nya():
     covered, new = rj.classify(findings, {"/boksepakke-profi-27kg/p/1129": "/collections/boxningspaket"})
     assert [c["kalla"] for c in covered] == ["/boksepakke-profi-27kg/p/1129"]
     assert [n["kalla"] for n in new] == ["/blogs/blogg/ny-sida"]
+
+
+def test_redirects_gorilla_apply_planerar_andra_skapa_oforandrad():
+    import importlib.util
+    from pathlib import Path
+
+    path = Path(__file__).resolve().parent.parent / "scripts" / "redirects_gorilla_apply.py"
+    spec = importlib.util.spec_from_file_location("redirects_gorilla_apply", path)
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    existing = [
+        {"id": "1", "path": "/a/p/1", "target": "/products/x"},
+        {"id": "2", "path": "/b", "target": "/collections/y"},
+        {"id": "3", "path": "/h%C3%A4", "target": "/collections/z/"},
+    ]
+    reviewed = [("/a/p/1", "/collections/c"), ("/b", "/collections/y"), ("/hä", "/collections/z"), ("/ny", "/collections/n")]
+    assert [p["atgard"] for p in mod.plan(reviewed, existing)] == ["ÄNDRA", "OFÖRÄNDRAD", "OFÖRÄNDRAD", "SKAPA"]
