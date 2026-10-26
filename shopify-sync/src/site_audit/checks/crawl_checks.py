@@ -190,8 +190,12 @@ def check_canonicals(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
         if not f or not f.canonical or cu.status != 200:
             continue
         canon = normalize_url(f.canonical)
-        if _bare(urlsplit(canon).netloc) != _bare(site.host):
-            out.append(F("canonical_offsite", "high", "indexing", "Canonical pekar på en annan domän", url=cu.url, evidence={"canonical": canon}))
+        # Alla canonical-taggar prövas, inte bara den sista: en sida med två taggar där den första pekar på en annan domän är fel
+        # även om den andra är rätt (Google kan ignorera båda).
+        offsite = [normalize_url(c) for c in (f.canonicals or [f.canonical]) if _bare(urlsplit(normalize_url(c)).netloc) != _bare(site.host)]
+        if offsite:
+            out.append(F("canonical_offsite", "high", "indexing", "Canonical pekar på en annan domän", url=cu.url,
+                         evidence={"canonical": offsite[0], "all_canonicals": [normalize_url(c) for c in f.canonicals][:4]}))
             continue
         target = cr.urls.get(canon)
         if target and (target.status != 200 or target.redirect_count):

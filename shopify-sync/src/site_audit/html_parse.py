@@ -60,6 +60,7 @@ class PageFacts:
     meta_description: str | None = None
     meta_robots: str | None = None
     canonical: str | None = None
+    canonicals: list[str] = field(default_factory=list)   # alla canonical-taggar i sidan, i ordning (canonical är den sista)
     html_lang: str | None = None
     h1: list[str] = field(default_factory=list)
     hreflang: dict[str, str] = field(default_factory=dict)
@@ -67,6 +68,8 @@ class PageFacts:
     jsonld_errors: int = 0
     product_schema: list[dict[str, Any]] = field(default_factory=list)
     has_breadcrumb_schema: bool = False
+    jsonld_hosts: list[str] = field(default_factory=list)  # domäner (utan www) i url, @id och item i strukturerad data, utan Organization
+    gtm_loaders: dict[str, int] = field(default_factory=dict)  # GTM-container -> antal sätt den laddas (inbyggt skript, skripttagg)
     images_total: int = 0
     images_missing_alt: int = 0
     insecure_resources: int = 0
@@ -156,6 +159,56 @@ def valid_absolute_url(u: str) -> bool:
     return parts.scheme in ("http", "https") and bool(parts.netloc) and "." in parts.netloc
 
 
+SCHEMA_ORG_TYPES = {"Organization", "OnlineStore", "Store", "LocalBusiness", "Corporation", "WebSite", "Person", "ImageObject",
+                    "SearchAction", "ContactPoint", "PostalAddress"}
+SCHEMA_SKIP_KEYS = {"sameAs", "logo", "image", "publisher", "author", "brand", "manufacturer", "seller", "provider", "potentialAction",
+                    "contactPoint", "address", "thumbnailUrl", "contentUrl"}
+
+
+def _bare_host(url: str) -> str:
+    host = urlsplit(url).netloc.lower()
+    return host[4:] if host.startswith("www.") else host
+
+
+def schema_hosts(node: Any, out: set[str]) -> None:
+    """Domäner som strukturerad data pekar på via url, @id och item. Organization, varumärken, bilder och sociala konton räknas
+    inte: de får peka på en annan domän."""
+    if isinstance(node, list):
+        for x in node:
+            schema_hosts(x, out)
+    elif isinstance(node, dict):
+        if set(_types(node)) & SCHEMA_ORG_TYPES:
+            return
+        for key in ("url", "@id", "item"):
+            v = node.get(key)
+            if isinstance(v, dict):
+                v = v.get("@id") or v.get("url")
+            if isinstance(v, str) and v.startswith(("http://", "https://")):
+                out.add(_bare_host(v))
+        for k, v in node.items():
+            if k in SCHEMA_SKIP_KEYS or isinstance(v, str):
+                continue
+            schema_hosts(v, out)
+
+
+def _flat_offers(offers: Any) -> list[dict]:
+    out: list[dict] = []
+    if isinstance(offers, dict):
+        out.append(offers)
+        out.extend(_flat_offers(offers.get("offers")))
+    elif isinstance(offers, list):
+        for o in offers:
+            out.extend(_flat_offers(o))
+    return out
+
+
+def _offer_has(item: dict, offers: Any, key: str) -> bool:
+    return bool(item.get(key)) or any(o.get(key) for o in _flat_offers(offers))
+
+
+GTM_INLINE_RE = re.compile(r"""['"]script['"]\s*,\s*['"][\w$]+['"]\s*,\s*['"](GTM-[A-Z0-9]+)['"]""")
+GTM_SRC_RE = re.compile(r"googletagmanager\.com/gtm\.js\?[^\"']*\bid=(GTM-[A-Z0-9]+)")
+
 CMP_SIGNATURES = {
     "cookiebot": r"cookiebot", "onetrust": r"cookielaw\.org|onetrust", "usercentrics": r"usercentrics",
     "iubenda": r"iubenda", "cookieyes": r"cookieyes", "consentmanager": r"consentmanager\.net", "osano": r"osano\.com",
@@ -198,11 +251,13 @@ def parse_page(url: str, html: bytes, site_host: str) -> PageFacts:
         rel = [r.lower() for r in (link.get("rel") or [])]
         if "canonical" in rel:
             facts.canonical = urljoin(url, link["href"])
+            facts.canonicals.append(facts.canonical)
         elif "alternate" in rel and link.get("hreflang"):
             facts.hreflang[link["hreflang"].lower()] = urljoin(url, link["href"])
     facts.h1 = [h.get_text(" ", strip=True) for h in soup.find_all("h1")]
 
     # Strukturerad data
+    hosts_in_schema: set[str] = set()
     for script in soup.find_all("script", type="application/ld+json"):
         raw = script.string or script.get_text()
         try:
@@ -210,6 +265,7 @@ def parse_page(url: str, html: bytes, site_host: str) -> PageFacts:
         except (json.JSONDecodeError, TypeError):
             facts.jsonld_errors += 1
             continue
+        schema_hosts(data, hosts_in_schema)
         for item in _jsonld_items(data):
             types = _types(item)
             facts.jsonld_types.extend(types)
@@ -227,9 +283,12 @@ def parse_page(url: str, html: bytes, site_host: str) -> PageFacts:
                     "has_brand": bool(item.get("brand")),
                     "has_sku": bool(item.get("sku")),
                     "has_rating": bool(item.get("aggregateRating")),
+                    "has_shipping": _offer_has(item, offers, "shippingDetails"),
+                    "has_return_policy": _offer_has(item, offers, "hasMerchantReturnPolicy"),
                     "currencies": sorted(_currencies(offers)),
                 })
     facts.jsonld_types = sorted(set(facts.jsonld_types))
+    facts.jsonld_hosts = sorted(hosts_in_schema)
 
     # Bilder
     for img in soup.find_all("img"):
@@ -255,10 +314,15 @@ def parse_page(url: str, html: bytes, site_host: str) -> PageFacts:
                 hosts.add(host)
             if src.startswith("http://"):
                 facts.insecure_resources += 1
+            m = GTM_SRC_RE.search(src)
+            if m:
+                facts.gtm_loaders[m.group(1)] = facts.gtm_loaders.get(m.group(1), 0) + 1
             continue
         if (script.get("type") or "").lower() == "application/ld+json":
             continue
         body = script.string or script.get_text() or ""
+        for gm in GTM_INLINE_RE.finditer(body):
+            facts.gtm_loaders[gm.group(1)] = facts.gtm_loaders.get(gm.group(1), 0) + 1
         size = len(body.encode())
         facts.inline_script_bytes += size
         if size > facts.largest_inline_script:

@@ -28,7 +28,7 @@ except Exception:
 sev = d["by_severity"]
 print("  fynd:", d["total"], "| kritiska", sev["critical"], "hög", sev["high"], "medel", sev["medium"])
 bc = d["by_check"]
-for k in ("canonical_offsite", "broken_internal_link", "malformed_link_href", "product_schema_no_image", "collection_few_products", "missing_h1", "duplicate_title"):
+for k in ("canonical_offsite", "multiple_canonical_tags", "schema_url_other_domain", "gtm_container_loaded_twice", "shipping_details_missing", "collections_without_breadcrumb_schema", "broken_internal_link", "malformed_link_href", "product_schema_no_image", "collection_few_products", "missing_h1", "duplicate_title"):
     print("  %-26s %s" % (k, bc.get(k, {}).get("count", 0)))
 '
 done

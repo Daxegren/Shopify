@@ -500,3 +500,54 @@ def test_onsite_kontroll_schema_robots_och_sida():
     assert a["canonical_pekar_pa_sig"] and a["h1_antal"] == 1 and a["bilder"] == 2 and a["bilder_utan_alt"] == 1
     r = ok.check_robots("User-agent: GPTBot\nDisallow: /\nUser-agent: *\nDisallow: /cart\nSitemap: https://x.se/s.xml", "https://x.se")
     assert r["blockerar_alla_ai"] == ["GPTBot"] and r["blockerar_google"] == [] and r["sitemaps"] == ["https://x.se/s.xml"]
+
+
+# ---- fem kontroller efter onsite-kontrollen 2026-10-26 ---------------------------------------------------------
+def test_parse_page_canonicals_schema_hosts_och_gtm():
+    html = b"""<html><head><title>T</title>
+    <link rel="canonical" href="https://t.se/products/a"><link rel="canonical" href="https://www.t.dk/products/a">
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];})(window,document,'script','dataLayer','GTM-AAAA111');</script>
+    <script defer src="https://www.googletagmanager.com/gtm.js?id=GTM-AAAA111"></script>
+    <script type="application/ld+json">{"@type":"Organization","url":"https://www.t.se","sameAs":["https://www.facebook.com/x"]}</script>
+    <script type="application/ld+json">{"@type":"Product","name":"P","url":"https://www.t.se/products/a","image":"https://cdn.shopify.com/a.jpg",
+     "brand":{"@type":"Brand","url":"https://brand.example"},
+     "offers":[{"@type":"Offer","url":"https://www.t.se/products/a?variant=1","price":"1","shippingDetails":{"x":1}}]}</script>
+    <script type="application/ld+json">{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","item":"https://www.t.se/"}]}</script>
+    </head><body></body></html>"""
+    f = parse_page("https://www.t.dk/products/a", html, "www.t.dk")
+    assert f.canonicals == ["https://t.se/products/a", "https://www.t.dk/products/a"] and f.canonical == "https://www.t.dk/products/a"
+    assert f.jsonld_hosts == ["t.se"]            # Organization, varumärke, bild och sociala konton räknas inte
+    assert f.gtm_loaders == {"GTM-AAAA111": 2}
+    assert f.product_schema[0]["has_shipping"] is True and f.product_schema[0]["has_return_policy"] is False
+
+
+def test_fem_nya_kontroller():
+    from site_audit.checks.crawl_checks import check_canonicals
+    from site_audit.checks.seo_depth_checks import (check_gtm_loaded_twice, check_multiple_canonicals, check_schema_coverage,
+                                                    check_schema_domains)
+    urls = []
+    for i in range(12):
+        u = f"https://www.t.se/products/p{i}"
+        urls.append(cu(u, facts(u, canonical=u, canonicals=[u], jsonld_hosts=["t.se"], gtm_loaders={"GTM-X": 1},
+                                product_schema=[{"images": ["i"], "has_offers": True, "has_shipping": False, "has_return_policy": True}],
+                                has_breadcrumb_schema=True)))
+    bad = "https://www.t.se/products/dubbel"
+    urls.append(cu(bad, facts(bad, canonical=bad, canonicals=["https://t.dk/products/dubbel", bad], jsonld_hosts=["t.se", "t.dk"],
+                              gtm_loaders={"GTM-X": 2}, product_schema=[{"images": ["i"], "has_offers": True, "has_shipping": False}])))
+    same = "https://www.t.se/products/samma"
+    urls.append(cu(same, facts(same, canonical=same, canonicals=[same, same])))
+    for i in range(11):
+        u = f"https://www.t.se/collections/c{i}"
+        urls.append(cu(u, facts(u, canonical=u, canonicals=[u], has_breadcrumb_schema=False)))
+    cr = crawl(*urls)
+    mc = {f.check: f for f in check_multiple_canonicals(cr, SITE)}
+    assert mc["multiple_canonical_tags"].evidence["count"] == 1 and mc["duplicate_canonical_tags"].severity == "low"
+    off = check_canonicals(cr, SITE)
+    assert [f.url for f in off if f.check == "canonical_offsite"] == [bad]          # den första taggen räknas, inte bara den sista
+    sd = check_schema_domains(cr, SITE)
+    assert len(sd) == 1 and sd[0].check == "schema_url_other_domain" and sd[0].severity == "high" and sd[0].evidence["hosts"] == {"t.dk": 1}
+    gtm = check_gtm_loaded_twice(cr, SITE)
+    assert len(gtm) == 1 and gtm[0].evidence["pages"] == 1 and gtm[0].category == "tracking"
+    cov = {f.check: f for f in check_schema_coverage(cr, SITE)}
+    assert cov["shipping_details_missing"].severity == "medium" and cov["shipping_details_missing"].evidence["pages"] == 13
+    assert cov["collections_without_breadcrumb_schema"].evidence["pages"] == 11

@@ -10,7 +10,7 @@ from statistics import median
 from urllib.parse import parse_qsl, urlsplit
 
 from ..config import SiteConfig
-from ..crawler import CrawlResult
+from ..crawler import CrawledUrl, CrawlResult
 from ..findings import Finding
 
 F = Finding
@@ -188,5 +188,102 @@ def check_malformed_hrefs(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
     return out
 
 
+def _bare_netloc(url: str) -> str:
+    host = urlsplit(url).netloc.lower()
+    return host[4:] if host.startswith("www.") else host
+
+
+def check_multiple_canonicals(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
+    """Sidor med fler än en canonical-tagg. Det sker oftast när temat skriver en egen tagg och ett snippet en andra. Är taggarna olika
+    kan Google ignorera båda, och pekar den ena på en annan domän riskerar sidan att inte indexeras på sin egen adress."""
+    by_type: dict[str, list[tuple[CrawledUrl, list[str]]]] = defaultdict(list)
+    for cu in cr.urls.values():
+        f = cu.facts
+        if f and cu.status == 200 and len(f.canonicals) > 1:
+            by_type[f.page_type].append((cu, f.canonicals))
+    out = []
+    for ptype, rows in sorted(by_type.items()):
+        distinct = [(cu, c) for cu, c in rows if len({c2.rstrip("/") for c2 in c}) > 1]
+        identical = len(rows) - len(distinct)
+        if distinct:
+            hosts = Counter(_bare_netloc(c2) for _, c in distinct for c2 in c)
+            out.append(F("multiple_canonical_tags", "high", "indexing",
+                         f"{len(distinct)} {ptype}-sidor har flera olika canonical-taggar (Google kan ignorera dem)",
+                         url=distinct[0][0].url, evidence={"page_type": ptype, "count": len(distinct), "hosts": dict(hosts),
+                                                           "sample": [{"url": cu.url, "canonicals": c[:3]} for cu, c in distinct[:5]]}))
+        if identical:
+            out.append(F("duplicate_canonical_tags", "low", "indexing", f"{identical} {ptype}-sidor har samma canonical två gånger",
+                         url=rows[0][0].url, evidence={"page_type": ptype, "count": identical}))
+    return out
+
+
+def check_schema_domains(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
+    """Strukturerad data (produkt, erbjudande, brödsmulor, artikel) vars adresser pekar på en annan domän än sidan. Händer när temat
+    använder shop.url, som alltid är butikens primärdomän, i stället för request.origin. Organization undantas."""
+    by_type: dict[str, list[tuple[CrawledUrl, list[str]]]] = defaultdict(list)
+    for cu in cr.urls.values():
+        f = cu.facts
+        if not f or cu.status != 200 or not f.jsonld_hosts:
+            continue
+        own = _bare_netloc(cu.url)
+        other = [h for h in f.jsonld_hosts if h != own]
+        if other:
+            by_type[f.page_type].append((cu, other))
+    out = []
+    for ptype, rows in sorted(by_type.items()):
+        hosts = Counter(h for _, o in rows for h in o)
+        out.append(F("schema_url_other_domain", "high" if ptype == "product" else "medium", "schema",
+                     f"{len(rows)} {ptype}-sidor har strukturerad data med adresser på en annan domän ({', '.join(sorted(hosts))})",
+                     url=rows[0][0].url, evidence={"page_type": ptype, "count": len(rows), "hosts": dict(hosts),
+                                                   "sample": [cu.url for cu, _ in rows[:5]]}))
+    return out
+
+
+def check_gtm_loaded_twice(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
+    """Samma Google Tag Manager-container som laddas mer än en gång på samma sida (till exempel ett inbyggt skript i temat och ett
+    snippet som läser samma ID från temainställningarna). Taggar kan då köras två gånger."""
+    pages = [cu for cu in cr.urls.values() if cu.facts and cu.status == 200 and cu.facts.gtm_loaders]
+    if not pages:
+        return []
+    dup: dict[str, list[str]] = defaultdict(list)
+    for cu in pages:
+        for container, n in cu.facts.gtm_loaders.items():
+            if n > 1:
+                dup[container].append(cu.url)
+    out = []
+    for container, urls in sorted(dup.items()):
+        out.append(F("gtm_container_loaded_twice", "high", "tracking",
+                     f"Containern {container} laddas mer än en gång på {len(urls)} av {len(pages)} sidor med GTM (taggar kan köras två gånger)",
+                     url=urls[0], evidence={"container": container, "pages": len(urls), "pages_with_gtm": len(pages), "sample": urls[:5],
+                                            "loaders": cr.urls[urls[0]].facts.gtm_loaders}))
+    return out
+
+
+def check_schema_coverage(cr: CrawlResult, site: SiteConfig) -> list[Finding]:
+    """Saknade fält som drabbar hela sajten: fraktinformation i produktschemat och brödsmulor på kategorisidor. Samlade fynd,
+    eftersom orsaken nästan alltid är en mall."""
+    from .crawl_checks import _indexable
+
+    out = []
+    prods = [cu for cu in cr.urls.values() if cu.facts and cu.status == 200 and cu.facts.page_type == "product" and cu.facts.product_schema]
+    if len(prods) >= 10:
+        lacking = [cu for cu in prods if not any(p.get("has_shipping") for p in cu.facts.product_schema)]
+        share = len(lacking) / len(prods)
+        if share >= 0.2:
+            out.append(F("shipping_details_missing", "medium" if share >= 0.9 else "low", "schema",
+                         f"{len(lacking)} av {len(prods)} produktsidor ({share:.0%}) saknar shippingDetails i produktschemat (fraktgräns och avgift)",
+                         url=site.base_url, evidence={"pages": len(lacking), "product_pages_with_schema": len(prods), "sample": [cu.url for cu in lacking[:5]]}))
+    colls = [cu for cu in cr.urls.values() if cu.facts and cu.facts.page_type == "collection" and _indexable(cu)]
+    if len(colls) >= 10:
+        lacking = [cu for cu in colls if not cu.facts.has_breadcrumb_schema]
+        share = len(lacking) / len(colls)
+        if share >= 0.8:
+            out.append(F("collections_without_breadcrumb_schema", "medium", "schema",
+                         f"{len(lacking)} av {len(colls)} kategorisidor ({share:.0%}) saknar BreadcrumbList (mallen skriver ingen)",
+                         url=site.base_url, evidence={"pages": len(lacking), "collections": len(colls), "sample": [cu.url for cu in lacking[:5]]}))
+    return out
+
+
 SEO_DEPTH_CHECKS = [check_faceted_urls, check_pagination, check_thin_collections, check_third_party_scripts,
-                    check_image_practices, check_tracking_in_html, check_malformed_hrefs]
+                    check_image_practices, check_tracking_in_html, check_malformed_hrefs, check_multiple_canonicals,
+                    check_schema_domains, check_gtm_loaded_twice, check_schema_coverage]

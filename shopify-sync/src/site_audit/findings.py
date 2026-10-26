@@ -21,6 +21,7 @@ CATEGORIES = {
     "media": "Bilder och alt-texter",
     "performance": "Sidvikt och skript",
     "links": "Interna länkar",
+    "tracking": "Spårning och mätning",
 }
 
 
