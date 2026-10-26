@@ -110,6 +110,8 @@ class Page(HTMLParser):
         self.words_all = 0
         self.words_main = 0
         self.details = 0
+        self._summary = False
+        self.summaries: list[str] = []
 
     def handle_starttag(self, tag, attrs):
         a = {k: (v or "") for k, v in attrs}
@@ -140,6 +142,9 @@ class Page(HTMLParser):
             self.has_main = True
         elif tag == "details":
             self.details += 1
+        elif tag == "summary":
+            self._summary = True
+            self.summaries.append("")
         if tag == "script" and "ld+json" in a.get("type", "").lower():
             self._ld = True
             self.jsonld.append("")
@@ -153,6 +158,8 @@ class Page(HTMLParser):
             self._h1 = False
         elif tag == "main" and self._main:
             self._main -= 1
+        elif tag == "summary":
+            self._summary = False
         if tag == "script" and self._ld:
             self._ld = False
         elif tag in self.SKIP and self._skip:
@@ -166,6 +173,8 @@ class Page(HTMLParser):
             return
         if self._h1 and self.h1_text:
             self.h1_text[-1] += data
+        if self._summary and self.summaries:
+            self.summaries[-1] += data
         if self._skip:
             return
         n = len(data.split())
@@ -282,7 +291,11 @@ def analyse_page(html: str, url: str) -> dict:
         "interna_lankar": len(internal_links),
         "produktlankar": sum(1 for l in internal_links if "/products/" in l),
         "parameterlankar": sum(1 for l in internal_links if "?" in l and not l.startswith("#")),
-        "faq_element": p.details,
+        "faq_element": sum(1 for t in p.summaries if "?" in t), "details_element": p.details,
+        "tom_alt_exempel": [i["src"] for i in imgs if i["alt"] is not None and not i["alt"].strip()][:4],
+        "product_block": [{"namn": str(n.get("name") or "")[:50], "id": n.get("@id"), "url": n.get("url"),
+                           "nycklar": sorted(n.keys())[:14], "offers_nycklar": sorted((offers_of(n)[0] if offers_of(n) else {}).keys())[:12]}
+                          for n in prods],
         "organization_sameas": any("sameAs" in n and ("Organization" in types_of(n) or "Store" in types_of(n)) for n in nodes),
     }
 
@@ -377,7 +390,7 @@ def summarize(home: dict, colls: list[dict], prods: list[dict], robots: dict, ex
     s["produkt_bilder_tom_alt"] = pct(sum(p["bilder_tom_alt"] for p in prods), imgs)
     s["produkt_ord_median"] = sorted(p["ord_main"] for p in prods)[n // 2] if n else 0
     s["produkt_under_150_ord"] = pct(sum(1 for p in prods if p["ord_main"] < 150), n)
-    s["produkt_faq_element"] = pct(sum(1 for p in prods if p["faq_element"] or "FAQPage" in p["jsonld_typer"]), n)
+    s["produkt_faq_element"] = pct(sum(1 for p in prods if p["faq_element"] >= 2 or "FAQPage" in p["jsonld_typer"]), n)
     s["produkt_interna_lankar_median"] = sorted(p["interna_lankar"] for p in prods)[n // 2] if n else 0
 
     c = len(colls)
@@ -388,7 +401,7 @@ def summarize(home: dict, colls: list[dict], prods: list[dict], robots: dict, ex
     s["kategori_beskrivning_saknas"] = pct(sum(1 for x in colls if x["beskrivning_tecken"] == 0), c)
     s["kategori_breadcrumb_andel"] = pct(sum(1 for x in colls if "BreadcrumbList" in x["jsonld_typer"]), c)
     s["kategori_itemlist_eller_collectionpage"] = pct(sum(1 for x in colls if {"ItemList", "CollectionPage"} & set(x["jsonld_typer"])), c)
-    s["kategori_faq"] = pct(sum(1 for x in colls if x["faq_element"] or "FAQPage" in x["jsonld_typer"]), c)
+    s["kategori_faq"] = pct(sum(1 for x in colls if x["faq_element"] >= 2 or "FAQPage" in x["jsonld_typer"]), c)
     s["kategori_produktlankar_median"] = sorted(x["produktlankar"] for x in colls)[c // 2] if c else 0
     s["kategori_canonical_ej_sjalv"] = pct(sum(1 for x in colls if not x["canonical_pekar_pa_sig"]), c)
 
@@ -412,7 +425,9 @@ def flags(s: dict) -> list[tuple[str, str, str]]:
     add("OK" if not s["blockerade_ai_botar"] else "VARNING", "GEO", "AI-botar tillåtna i robots.txt" if not s["blockerade_ai_botar"] else f"AI-botar som är blockerade: {', '.join(s['blockerade_ai_botar'])}")
     add("OK" if s.get("llms_txt") else "VARNING", "GEO", "llms.txt finns" if s.get("llms_txt") else "llms.txt saknas (valfri, osäkert värde)")
     v = verdict(s["produkt_schema_andel"])
-    add(v, "Schema", f"Product-schema på {s['produkt_schema_andel']} % av produktsidorna ({s['produkt_schema_dubbletter']} har flera Product-block)")
+    add(v, "Schema", f"Product-schema på {s['produkt_schema_andel']} % av produktsidorna")
+    dub = pct(s["produkt_schema_dubbletter"], s["produktsidor_provade"])
+    add("OK" if dub < 10 else "VARNING", "Schema", f"{dub} % av produktsidorna har fler än ett Product-block ({s['produkt_schema_dubbletter']} av {s['produktsidor_provade']}); se exempel längst ned")
     for key, label, hint in [("gtin", "GTIN/EAN", "krävs för Google Merchant och AI-sök"), ("brand", "Varumärke", ""),
                              ("fraktinfo", "shippingDetails", "fraktgräns och avgift bör stå här"), ("returpolicy", "hasMerchantReturnPolicy", ""),
                              ("betyg", "aggregateRating", "kräver recensionssystem"), ("lagerstatus", "Lagerstatus", ""), ("mpn", "MPN", "")]:
@@ -431,10 +446,10 @@ def flags(s: dict) -> list[tuple[str, str, str]]:
     add("OK" if s["produkt_bilder_utan_alt_attribut"] + s["produkt_bilder_tom_alt"] < 10 else "VARNING", "Bilder",
         f"Bilder utan alt: {s['produkt_bilder_utan_alt_attribut']} % saknar attributet, {s['produkt_bilder_tom_alt']} % har tom alt")
     add("OK" if s["produkt_under_150_ord"] < 25 else "VARNING", "Innehåll", f"{s['produkt_under_150_ord']} % av produktsidorna har under 150 ord (median {s['produkt_ord_median']})")
-    add("OK" if s["produkt_faq_element"] > 25 else "VARNING", "GEO", f"FAQ på {s['produkt_faq_element']} % av produktsidorna")
+    add("OK" if s["produkt_faq_element"] > 25 else "VARNING", "GEO", f"FAQ (minst två frågor som rubriker, eller FAQPage-schema) på {s['produkt_faq_element']} % av produktsidorna")
     add("OK" if s["kategori_under_150_ord"] < 25 else "BRIST", "Kategorier", f"{s['kategori_under_150_ord']} % av kategorisidorna har under 150 ord (median {s['kategori_ord_median']})")
     add("OK" if s["kategori_utan_h1"] == 0 else "BRIST", "Kategorier", f"{s['kategori_utan_h1']} % av kategorisidorna saknar H1 i HTML")
-    add("OK" if s["kategori_faq"] > 25 else "VARNING", "GEO", f"FAQ på {s['kategori_faq']} % av kategorisidorna")
+    add("OK" if s["kategori_faq"] > 25 else "VARNING", "GEO", f"FAQ (minst två frågor som rubriker, eller FAQPage-schema) på {s['kategori_faq']} % av kategorisidorna")
     add(verdict(s["kategori_breadcrumb_andel"]), "Schema", f"BreadcrumbList på {s['kategori_breadcrumb_andel']} % av kategorisidorna")
     if "hastighet_ms_median" in s:
         add("OK" if s["hastighet_ms_median"] < 800 else "VARNING", "Hastighet", f"Median svarstid för HTML {s['hastighet_ms_median']} ms (Core Web Vitals mäts inte här)")
@@ -535,10 +550,11 @@ def main() -> int:
             if r["status"] == 200:
                 pg = analyse_page(r["text"], r["final"])
                 canon = urllib.parse.urldefrag(pg["canonical"])[0].rstrip("/")
-                if "?" in canon or (canon != cu.rstrip("/") and "page=" not in prm):
-                    param_problems.append(f"{cu}?{prm}: canonical är {pg['canonical'] or 'saknas'}")
-                if not pg["noindex"] and canon != cu.rstrip("/") and "page=" not in prm:
-                    param_problems.append(f"{cu}?{prm}: indexerbar, canonical pekar inte på grundsidan")
+                if "page=" in prm:
+                    if canon not in (cu.rstrip("/") + "?" + prm, cu.rstrip("/")):
+                        param_problems.append(f"{cu}?{prm}: canonical är {pg['canonical'] or 'saknas'} (förväntat sig själv eller grundsidan)")
+                elif canon != cu.rstrip("/"):
+                    param_problems.append(f"{cu}?{prm}: canonical är {pg['canonical'] or 'saknas'}, ska peka på grundsidan")
             time.sleep(a.paus)
     extra["param_canonical_problem"] = param_problems
 
@@ -554,6 +570,11 @@ def main() -> int:
         "Kategorisidor utan H1": [c["url"] for c in colls if c["h1_antal"] == 0],
         "Sidor som inte svarade 200": failed,
         "Parametrar": param_problems,
+        "Bilder med tom alt (exempel, produktsidor)": [f"{p['url'].rsplit('/', 1)[-1]}: {src}" for p in prods for src in p["tom_alt_exempel"]][:15],
+        "Bilder med tom alt (exempel, kategorisidor)": [f"{c['url'].rsplit('/', 1)[-1]}: {src}" for c in colls for src in c["tom_alt_exempel"]][:10],
+        "Produktsidor med flera Product-block: blockens innehåll": [
+            f"{p['url'].rsplit('/', 1)[-1]}: " + " | ".join(f"namn={b['namn']!r} id={b['id']!r} offers={b['offers_nycklar']}" for b in p["product_block"])
+            for p in prods if len(p["product_block"]) > 1][:4],
     }
     (out / "onsite.json").write_text(json.dumps({"base": base, "datum": date.today().isoformat(), "sammanfattning": s,
                                                  "robots": robots, "sitemap": {k: (v if k in ("index", "status", "barn") else len(v)) for k, v in sm.items()},
