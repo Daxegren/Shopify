@@ -204,3 +204,10 @@ Bakgrund: möte med grundaren av Etals. Mötets punkter är omsatta till tester 
 
 ### Öppna frågor
 Vad menas med "tyskarna" (T37)? Vad är syftet med Reddit (T40)? Ska Ahrefs-åtkomst köpas (T36)? Stämmer tolkningen See-Think-Do-Care (T35)?
+
+*Inaktuellt sedan 2026-10-26 för raden T38 ("BOS saknar kopplad GA4, Search Console och Shopify i BigQuery") och för punkt 5 i beslutsunderlaget §29, se ändringsloggen: `check-access --site bestofsports-fi` visade bara att källor saknas på **FI-blocket** i `sites.toml`. Butikens källor (Shopify-dataset, GA4-egendomar, Google Ads, Merchant) är konfigurerade på blocket `bestofsports-se`, och Search Console på varje domäns eget block. Om data faktiskt finns och är färsk i BigQuery är inte kontrollerat; det avgörs av `scripts/kontrollera_datakallor.sh` och `check-access --site bestofsports-se`.*
+
+## Tillägg 2026-10-26: beslut efter T30–T40 och två nya verktyg
+- **Beslut (David):** T36 börjar med Search Console, inte Ahrefs. Det som behövs först är förslag på long tail-sökfrågor som blogginlägg kan ranka på (lågt hängande frukt).
+- **Nytt, inte körd mot data:** `sql/analys/longtail_blogg.sql` (long tail ur Search Console, stadium enligt See-Think-Do-Care, sidtyp och åtgärd per fråga) och `scripts/kontrollera_datakallor.sh` (finns tabellerna i BigQuery och hur färska är de).
+- **Öppet:** T37 (vad "tyskarna" avser, möjligen Gorilla Sports huvudkontor), T40 (Reddit som organisk plattform).

@@ -7,6 +7,11 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 
 ---
 
+### 2026-10-26: Läs konfigurationen innan slutsatsen "saknas"
+- **Vad hände:** `check-access --site bestofsports-fi` visade "saknas" för Shopify, GA4, annonser och Merchant. Jag drog slutsatsen att BOS saknar dessa källor. I `sites.toml` ligger butikens källor på blocket `bestofsports-se`; FI-blocket har bara sin egen Search Console-egendom.
+- **Regel:** när ett verktyg säger att något saknas för en sajt: läs konfigurationen för hela butiken (alla block med samma `shop_domain` och `data_key`) och kontrollera i datat (`scripts/kontrollera_datakallor.sh`) innan du påstår att det saknas.
+
+
 ### 2026-10-26: Ett kontrollkommando måste kunna misslyckas på det som ska kontrolleras
 - **Vad hände:** jag gav David `gcloud auth application-default print-access-token` som test på att inloggningen för Search Console gällde. Kommandot lyckas även när behörighetsområdet saknas, så testet kunde inte upptäcka felet (403 "insufficient authentication scopes" vid URL-inspektionen). Dessutom sparades inloggningen i en tillfällig fil i Cloud Shell utanför standardplatsen, som verktyget inte läser utan miljövariabeln `GOOGLE_APPLICATION_CREDENTIALS`.
 - **Regel:** ange ett test som visar det som faktiskt behövs (här behörighetsområdena via tokeninfo) och som ger fel när det saknas.
