@@ -270,7 +270,9 @@ def analyse_page(html: str, url: str) -> dict:
         for t in types_of(n):
             types[t] = types.get(t, 0) + 1
     prods = [n for n in nodes if "Product" in types_of(n)]
-    imgs = [i for i in p.imgs if i["src"] and not i["src"].startswith("data:")]
+    # SVG-ikoner (menyer, märken) är dekorativa och ska ha tom alt: de räknas inte
+    imgs = [i for i in p.imgs if i["src"] and not i["src"].startswith("data:")
+            and not urllib.parse.urlparse(i["src"]).path.lower().endswith(".svg")]
     robots = (p.meta.get("robots") or "").lower()
     internal_links = [l for l in p.links if internal(l, host)]
     return {
