@@ -112,3 +112,34 @@ Lagt till efter att första fullständiga genomlysningen av Best of Sports (`.fi
 | T20e | Översättningstexter med skadade länkar | Skanning via Shopify Admin API (translatableResources, bara läsning). Mönster: `notranslate`, `{{`, `{%`, `&lt;span`, tomma `href` | Skadade länkar i temat, menyer, sidor, artiklar, kategorier och produkter | Gjord 2026-10-25 för Best of Sports: 5 302 produkter, 349 kategorier, 150 artiklar, 13 sidor, menyer och temats mallar (50 av fler) kontrollerade, inga träffar utöver fem rättade temastexter. Länkar (50 av fler) och resten av mallarna är inte skannade |
 
 Nya fält i sidfakta: `malformed_hrefs`. Nya kontroller kommer med först när avbilden byggts om, vilket gjordes 2026-10-24 för de fem nya jobben.
+
+## Tillägg 2026-10-26: tester som tillkom under dagen (T21–T29) och hur de effektiviseras
+Dokumentet nedan lägger bara till rader. Kolumnen **Lärdom** pekar på vad vi lärde oss och vad som gav falsklarm; fler lärdomar står i `LARDOMAR.md`. Status anger vad som har körts mot en riktig sajt.
+
+| Nr | Test | Så körs det | Vad det visar | Status | Lärdom |
+|---|---|---|---|---|---|
+| T21 | Onsite SEO och GEO (urval) | `python3 scripts/onsite_kontroll.py --base-url <sajt> --ut <katalog>` | robots.txt för sökmotorer och 13 AI-botar, llms.txt, omdirigeringar, sitemap, schema per fält, canonical (antal och domän), H1, alt, textmängd, parametrar, svarstid | Körd mot Gorilla SE och BOS FI. Inte körd mot Gorilla DK, BOS SE och BOS DK | Falsklarm vi rättade: FAQ räknade alla `<details>`, alt räknade SVG-ikoner, `?page=2` med egen canonical är korrekt, och flera canonical-taggar upptäcktes inte när bara den sista lästes. Urvalet är litet (40 och 20 sidor) |
+| T22 | Källor till schema, canonical och GTM på en sida | `python3 scripts/schema_kallor.py --base-url <sajt> [--url <adress>]` | Varje JSON-LD-skripts tagg och början, vilka domäner adresserna pekar på, GTM-containrar och direkta laddningar, canonical och og:url | Körd mot Gorilla SE/DK och BOS FI | `shop.url` är alltid primärdomänen och gav fel domän i canonical, brödsmulor och produktschema. GTM på Gorilla laddas två gånger |
+| T23 | Fraktgräns och fraktbetalare | `sql/analys/frakt_samband.sql`, `frakt_tippande.sql`, `priser_strax_under_gransen.sql` (PROJ) | Vilka ordrar som betalar frakt, korgens utseende, hur ordrar tar sig över gränsen, produkter strax under gränsen | Körd (de två första) mot Gorilla SE och DK. Den tredje är inte körd | Skilj påfyllning från produktens eget pris innan en orsak antyds. Små urval: läs inte per produkt när det är under 25 ordrar |
+| T24 | Lönsamhet per order (Net Profit) | `sql/analys/net_profit_ordrar.sql` (kräver `site_audit.net_profit_sku` och `site_audit.gorilla_vikter`) | Contribution och nettovinst med frakt- och avgiftsspann, per marknad och över/under fraktgräns | Version 1 körd. Version 2 är inte körd: vikter saknas (kräver läs-token för `hamta_vikter.py`) | Arkets EUR-kolumner och kurser gäller, inte Shopifys `unit_cost`. Fraktkostnad per produkt ska inte summeras per paket utan spann |
+| T25 | Omsättningstapp | `sql/analys/omsattning_30d.sql`, `omsattning_tapp_per_produkt.sql`, `omsattning_tapp_annonser.sql`, `annonser_pa_slutsalda.sql` | Var omsättningen tappat: produkt, kanal, annonser | Körda tidigare mot Gorilla | Annonsernas `item_id` kopplas till varianter via sista siffrorna. Kontrollera täckningen. Lagernivåer är leverantörens, så slutsålt är en faktor och inte en åtgärdslista |
+| T26 | COS och kampanjer | `sql/analys/cos_30d.sql`, `marginal_30d.sql`, `marginal_stickprov.sql`, `annonser_vecka.sql`, `annonser_kampanjer_30d.sql` | COS, marginal och kampanjer per marknad | Körda tidigare mot Gorilla | COS är kostnad delad med intäkt, och måttet skiljer: plattformens värde mot Shopifys nettoförsäljning exklusive moms. Fråga alltid vilket mått en siffra avser |
+| T27 | Status för nattens genomlysningar | `bash scripts/audit_status.sh`, `bash scripts/audit_detaljer.sh <sajt>` | Lyckades jobben, nyckeltal per sajt, exempel på allvarliga fynd | Körd dagligen | `missing_h1` och `collection_few_products` på BOS kan vara följd av JavaScript: verifiera med T20b innan åtgärd |
+| T28 | Omdirigeringar | `python3 scripts/redirect_jamforelse.py`, `scripts/redirects_gorilla_apply.py` (torrkörning är standard) | Jämför mål mot Shopify och planerar ändringar | Körd mot Gorilla (81 + 11 + 12 ändringar) | Rapportera inte som åtgärdat förrän nästa genomlysning visar det |
+| T29 | Samlade körningar | `bash scripts/gorilla_lage.sh`, `scripts/langkorare_gorilla.sh`, `scripts/langkorare_bos.sh` | Flera tester i ett svep | Gorilla-körningarna startade, resultaten för köpflöde, samtycke och tillgänglighet är inte lästa | Långkörarna ligger kvar efter omkoppling i Cloud Shell, men en frånkopplad session kan tappa utdata |
+
+### Tester som saknas eller inte kan köras än
+| Behov | Status | Orsak |
+|---|---|---|
+| Konvertering per varukorgsvärde (GA4) | Inte byggd | Behöver veta vilka GA4-händelser som ligger i BigQuery |
+| Nätverkstest av dubbla GTM/GA4-händelser (T22-uppföljning) | Inte byggd | Kräver webbläsare (Playwright) |
+| URL-inspektion för BOS (T17a) | Gav 403 | Inloggningen i Cloud Shell saknade omfånget `webmasters.readonly` |
+| GEO citeringspanel (T13b) | Väntar på beslut | API-nycklar och kostnad |
+| Konkurrens och auktoritet (T20) | Väntar på Ahrefs | Beslutat 2026-10-23 |
+
+### Förslag för att lära och effektivisera (kräver ditt beslut)
+1. **Lägg de nya kontrollerna i den nattliga genomlysningen** i stället för som urval. Idag samplar T21 60 sidor; genomlysningen kör 8 000 sidor varje natt. Förslag på nya kontroller: `multiple_canonical_tags`, `schema_url_other_domain` (JSON-LD-adress på annan domän än sidan, Organization undantagen), `gtm_container_loaded_twice`, `shipping_details_missing`, `breadcrumb_missing_on_collections`. Då hade BOS-canonical och Gorillas schema-URL:er hittats första natten.
+2. **En ingång per sajt.** Ett skript `scripts/kor_tester.sh <sajt>` som kör alla skrivskyddade tester i fast ordning, sparar resultaten i en katalog med datum och skriver en enda sammanfattning att klistra in. Idag krävs ett tiotal kommandon i flera flikar.
+3. **Jämför mot förra körningen.** Spara varje körning som JSON och visa vad som är nytt, åtgärdat och oförändrat. T21 och T22 saknar det, genomlysningen (T1) har det redan.
+4. **Fast lärdomsrutin.** Efter varje test: skriv falsklarmen och rättelserna i kolumnen Lärdom här, och i `LARDOMAR.md` om något gick fel. Varje nytt mått får ett enhetstest med ett känt fall innan det används (gjort för T21).
+5. **Schemalägg T21 veckovis** för alla fem sajter via Cloud Scheduler och spara i BigQuery, med larm vid försämring. Det är en ändring i Google Cloud och kräver ditt ja.

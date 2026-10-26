@@ -25,3 +25,7 @@ David ska kunna ta ställning utan att följa varje kommando. Varje arbetspass a
 5. **Nästa steg:** vad som görs härnäst om David säger ja.
 
 Skriv för en beslutsfattare, inte för en utvecklare: inga kommandon i sammanfattningen, och förklara facktermer första gången de används.
+
+## Lärdomar
+
+Läs `shopify-sync/docs/LARDOMAR.md` innan du rekommenderar en ändring i en butik, ett tema eller en datamodell. Lägg till en ny post där när något har gått fel eller visat sig vara fel (datum, vad som hände, regel). Filen fylls bara på.
