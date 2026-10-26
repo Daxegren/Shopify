@@ -7,6 +7,11 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 
 ---
 
+### 2026-10-26: Ett kontrollkommando måste kunna misslyckas på det som ska kontrolleras
+- **Vad hände:** jag gav David `gcloud auth application-default print-access-token` som test på att inloggningen för Search Console gällde. Kommandot lyckas även när behörighetsområdet saknas, så testet kunde inte upptäcka felet (403 "insufficient authentication scopes" vid URL-inspektionen). Dessutom sparades inloggningen i en tillfällig fil i Cloud Shell utanför standardplatsen, som verktyget inte läser utan miljövariabeln `GOOGLE_APPLICATION_CREDENTIALS`.
+- **Regel:** ange ett test som visar det som faktiskt behövs (här behörighetsområdena via tokeninfo) och som ger fel när det saknas.
+
+
 ### 2026-10-26: Räkna inte upp ett mått som positivt innan källan är känd
 - **Vad hände:** jag redovisade att 85 % av BOS-produktsidorna hade betyg i strukturerad data (jämfört med 10 % på Gorilla) som om det vore en styrka. Temagenomgången visade att betygen kommer från en sektion som genererar påhittade omdömen från färdiga texter och namnlistor, inte från kunder.
 - **Regel:** innan ett värde i strukturerad data, en omdömessiffra eller en annan "bra" siffra redovisas som positiv: ta reda på varifrån den kommer (kod, app, riktiga data). Läs hela temat före slutsatser om vad temat gör.
