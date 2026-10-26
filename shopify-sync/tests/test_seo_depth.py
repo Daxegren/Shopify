@@ -481,3 +481,22 @@ def test_redirects_gorilla_apply_planerar_andra_skapa_oforandrad():
     ]
     reviewed = [("/a/p/1", "/collections/c"), ("/b", "/collections/y"), ("/hä", "/collections/z"), ("/ny", "/collections/n")]
     assert [p["atgard"] for p in mod.plan(reviewed, existing)] == ["ÄNDRA", "OFÖRÄNDRAD", "OFÖRÄNDRAD", "SKAPA"]
+
+
+# ---- onsite_kontroll (ren logik) ----------------------------------------------------------------------------------
+def test_onsite_kontroll_schema_robots_och_sida():
+    ok = _script("onsite_kontroll")
+    html = ('<html><head><title>T</title><meta name="description" content="beskrivning">'
+            '<link rel="canonical" href="https://x.se/products/a">'
+            '<script type="application/ld+json">{"@graph":[{"@type":"Product","name":"A","image":"i","sku":"1",'
+            '"gtin13":"123","brand":{"name":"B"},"offers":{"@type":"Offer","price":"9","priceCurrency":"SEK",'
+            '"availability":"InStock","shippingDetails":{"x":1}}},{"@type":["BreadcrumbList"]}]}</script>'
+            '<script type="application/ld+json">{trasig</script></head>'
+            '<body><main><h1>A</h1><img src="a.jpg" alt="a"><img src="b.jpg"><p>en två tre</p></main></body></html>')
+    a = ok.analyse_page(html, "https://x.se/products/a")
+    f = a["produkter"][0]
+    assert f["gtin"] and f["brand"] and f["fraktinfo"] and f["pris"] and not f["returpolicy"] and not f["betyg"]
+    assert a["jsonld_trasiga"] == 1 and a["jsonld_typer"]["BreadcrumbList"] == 1
+    assert a["canonical_pekar_pa_sig"] and a["h1_antal"] == 1 and a["bilder"] == 2 and a["bilder_utan_alt"] == 1
+    r = ok.check_robots("User-agent: GPTBot\nDisallow: /\nUser-agent: *\nDisallow: /cart\nSitemap: https://x.se/s.xml", "https://x.se")
+    assert r["blockerar_alla_ai"] == ["GPTBot"] and r["blockerar_google"] == [] and r["sitemaps"] == ["https://x.se/s.xml"]
