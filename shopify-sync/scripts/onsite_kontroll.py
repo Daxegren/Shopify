@@ -96,6 +96,7 @@ class Page(HTMLParser):
         self._in_title = False
         self.meta: dict[str, str] = {}
         self.canonical = ""
+        self.canonicals: list[str] = []
         self.hreflang: list[tuple[str, str]] = []
         self.h = {f"h{i}": 0 for i in range(1, 7)}
         self.h1_text: list[str] = []
@@ -125,6 +126,7 @@ class Page(HTMLParser):
             rel = a.get("rel", "").lower()
             if "canonical" in rel:
                 self.canonical = a.get("href", "")
+                self.canonicals.append(a.get("href", ""))
             elif "alternate" in rel and a.get("hreflang"):
                 self.hreflang.append((a["hreflang"], a.get("href", "")))
         elif tag in self.h:
@@ -280,7 +282,8 @@ def analyse_page(html: str, url: str) -> dict:
         "titel": p.title.strip(), "titel_tecken": len(p.title.strip()),
         "beskrivning_tecken": len((p.meta.get("description") or "").strip()),
         "h1_antal": p.h["h1"], "h1": [t.strip() for t in p.h1_text][:2], "h2_antal": p.h["h2"],
-        "canonical": p.canonical,
+        "canonical": p.canonical, "canonical_antal": len(p.canonicals), "canonicals": p.canonicals,
+        "canonical_annan_domän": any(urllib.parse.urlparse(c).netloc.replace("www.", "") != host.replace("www.", "") for c in p.canonicals if c),
         "canonical_pekar_pa_sig": bool(p.canonical) and urllib.parse.urldefrag(p.canonical)[0].rstrip("/") == url.split("?")[0].rstrip("/"),
         "noindex": "noindex" in robots, "robots_meta": robots,
         "hreflang": [h[0] for h in p.hreflang],
@@ -387,6 +390,8 @@ def summarize(home: dict, colls: list[dict], prods: list[dict], robots: dict, ex
     s["produkt_h1_ej_exakt_ett"] = pct(sum(1 for p in prods if p["h1_antal"] != 1), n)
     s["produkt_canonical_ej_sjalv"] = pct(sum(1 for p in prods if not p["canonical_pekar_pa_sig"]), n)
     s["produkt_noindex"] = sum(1 for p in prods if p["noindex"])
+    s["produkt_flera_canonical"] = pct(sum(1 for p in prods if p["canonical_antal"] > 1), n)
+    s["produkt_canonical_annan_domän"] = pct(sum(1 for p in prods if p["canonical_annan_domän"]), n)
     imgs = sum(p["bilder"] for p in prods)
     s["produkt_bilder_utan_alt_attribut"] = pct(sum(p["bilder_utan_alt"] for p in prods), imgs)
     s["produkt_bilder_tom_alt"] = pct(sum(p["bilder_tom_alt"] for p in prods), imgs)
@@ -444,6 +449,8 @@ def flags(s: dict) -> list[tuple[str, str, str]]:
     add("OK" if s["produkt_titel_for_lang_over_60"] < 25 else "VARNING", "Metadata", f"{s['produkt_titel_for_lang_over_60']} % av produkttitlarna är längre än 60 tecken")
     add("OK" if s["produkt_h1_ej_exakt_ett"] < 5 else "BRIST", "Struktur", f"{s['produkt_h1_ej_exakt_ett']} % av produktsidorna har inte exakt en H1")
     add("OK" if s["produkt_canonical_ej_sjalv"] < 5 else "BRIST", "Canonical", f"{s['produkt_canonical_ej_sjalv']} % av produktsidorna har canonical som inte pekar på sidan själv")
+    add("OK" if s["produkt_flera_canonical"] == 0 else "BRIST", "Canonical", f"{s['produkt_flera_canonical']} % av produktsidorna har flera canonical-taggar")
+    add("OK" if s["produkt_canonical_annan_domän"] == 0 else "BRIST", "Canonical", f"{s['produkt_canonical_annan_domän']} % av produktsidorna har en canonical på en annan domän än sidan")
     add("OK" if s["produkt_noindex"] == 0 else "BRIST", "Indexering", f"{s['produkt_noindex']} produktsidor med noindex i urvalet")
     add("OK" if s["produkt_bilder_utan_alt_attribut"] + s["produkt_bilder_tom_alt"] < 10 else "VARNING", "Bilder",
         f"Bilder utan alt: {s['produkt_bilder_utan_alt_attribut']} % saknar attributet, {s['produkt_bilder_tom_alt']} % har tom alt")
