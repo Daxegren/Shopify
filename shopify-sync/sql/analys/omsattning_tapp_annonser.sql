@@ -3,7 +3,7 @@
 --   sed 's/PROJ/gorilla-sports-data/g' sql/analys/omsattning_tapp_annonser.sql | bq query --use_legacy_sql=false --max_rows=60
 --
 -- Perioder som i omsattning_tapp_per_produkt.sql. Annonstabellen är google_ads_products_daily_gorillasports_se (SE och DK, olika valutor,
--- därför jämförs klick och inte kostnad). Produkter utan annonsrader får klick 0. Annonsernas item_id har formen shopify_<land>_<produkt-id>_<variant-id>.
+-- därför jämförs klick och inte kostnad). Produkter utan annonsrader får klick 0. Annonserna kopplas till produkten via det sista talet i item_id (variant-id) och product_variants, som i growth-vyerna.
 -- Visar samband, inte orsak: en produkt kan tappa både annonsklick och försäljning av samma skäl (till exempel att den tagit slut).
 
 DECLARE p1_end DATE DEFAULT DATE_SUB(CURRENT_DATE('Europe/Stockholm'), INTERVAL 1 DAY);
@@ -22,12 +22,16 @@ WITH lines AS (
   JOIN `PROJ.shopify.order_line_items` li ON li.order_id = o.id
   WHERE o.cancelled_at IS NULL AND DATE(o.created_at, 'Europe/Stockholm') BETWEEN p0_start AND p1_end
   GROUP BY 1
+), vp AS (
+  SELECT REGEXP_EXTRACT(v.id, r'(\d+)$') AS vkey, REGEXP_EXTRACT(v.product_id, r'(\d+)$') AS pid
+  FROM `PROJ.shopify.product_variants` v
 ), ads AS (
-  SELECT REGEXP_EXTRACT(item_id, r'(?i)^shopify_[a-z]+_(\d+)_\d+$') AS pid,
-         SUM(IF(d BETWEEN p0_start AND p0_end, clicks, 0)) AS klick_p0,
-         SUM(IF(d BETWEEN p1_start AND p1_end, clicks, 0)) AS klick_p1
-  FROM `PROJ.site_audit.google_ads_products_daily_gorillasports_se`
-  WHERE d BETWEEN p0_start AND p1_end
+  SELECT vp.pid,
+         SUM(IF(a.d BETWEEN p0_start AND p0_end, a.clicks, 0)) AS klick_p0,
+         SUM(IF(a.d BETWEEN p1_start AND p1_end, a.clicks, 0)) AS klick_p1
+  FROM `PROJ.site_audit.google_ads_products_daily_gorillasports_se` a
+  JOIN vp ON vp.vkey = REGEXP_EXTRACT(a.item_id, r'(\d+)$')
+  WHERE a.d BETWEEN p0_start AND p1_end
   GROUP BY 1
 )
 SELECT l.pid, l.title, l.oms_p0, l.oms_p1, l.oms_p1 - l.oms_p0 AS forandring, l.st_p0, l.st_p1,
@@ -47,3 +51,12 @@ FROM sam GROUP BY 1 ORDER BY forandring;
 -- 2. De 25 största minskningarna, med enheter och annonsklick före och nu
 SELECT title, st_p0, st_p1, klick_p0, klick_p1, ROUND(oms_p0) AS oms_p0, ROUND(oms_p1) AS oms_p1, ROUND(forandring) AS forandring, annonsutveckling
 FROM sam WHERE forandring < 0 ORDER BY forandring LIMIT 25;
+
+-- 3. Kontroll: hur stor del av annonsklicken i perioderna gick att koppla till en produkt i Shopify
+SELECT SUM(IF(a.d BETWEEN p0_start AND p0_end, a.clicks, 0)) AS klick_p0_totalt,
+       SUM(IF(a.d BETWEEN p1_start AND p1_end, a.clicks, 0)) AS klick_p1_totalt,
+       SUM(IF(vp.vkey IS NOT NULL AND a.d BETWEEN p0_start AND p0_end, a.clicks, 0)) AS klick_p0_kopplade,
+       SUM(IF(vp.vkey IS NOT NULL AND a.d BETWEEN p1_start AND p1_end, a.clicks, 0)) AS klick_p1_kopplade
+FROM `PROJ.site_audit.google_ads_products_daily_gorillasports_se` a
+LEFT JOIN (SELECT REGEXP_EXTRACT(id, r'(\d+)$') AS vkey FROM `PROJ.shopify.product_variants`) vp ON vp.vkey = REGEXP_EXTRACT(a.item_id, r'(\d+)$')
+WHERE a.d BETWEEN p0_start AND p1_end;
