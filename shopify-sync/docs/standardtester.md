@@ -143,3 +143,64 @@ Dokumentet nedan lägger bara till rader. Kolumnen **Lärdom** pekar på vad vi 
 3. **Jämför mot förra körningen.** Spara varje körning som JSON och visa vad som är nytt, åtgärdat och oförändrat. T21 och T22 saknar det, genomlysningen (T1) har det redan.
 4. **Fast lärdomsrutin.** Efter varje test: skriv falsklarmen och rättelserna i kolumnen Lärdom här, och i `LARDOMAR.md` om något gick fel. Varje nytt mått får ett enhetstest med ett känt fall innan det används (gjort för T21).
 5. **Schemalägg T21 veckovis** för alla fem sajter via Cloud Scheduler och spara i BigQuery, med larm vid försämring. Det är en ändring i Google Cloud och kräver ditt ja.
+
+## Tillägg 2026-10-26: T30–T40, tester och åtgärder med agenter (förslag, inget av detta är byggt än)
+Bakgrund: möte med grundaren av Etals. Mötets punkter är omsatta till tester som både hittar saker och kan föreslå och, efter godkännande, utföra åtgärder. Dokumentet lägger bara till rader; T20 (konkurrens och auktoritet) står kvar som det var, och T36 tar över dess arbete när Ahrefs-åtkomsten finns.
+
+### Modellen: fyra nivåer och tre godkännandenivåer
+| Nivå | Vad den gör | Finns idag |
+|---|---|---|
+| 1. Se | Skrivskyddad kontroll, schemalagd | Ja (T1–T29) |
+| 2. Föreslå | Skriver ett förslag med före och efter, bevis, risk, förväntad effekt och utvärderingsfönster | Delvis (`actions.csv`, redirect-förslag) |
+| 3. Utföra | Efter godkännande: sparar original, skriver, läser tillbaka, jämför tecken för tecken, loggar | Manuell rutin (se "Rutin för ändringar i Shopify") och `scripts/redirects_gorilla_apply.py` (torrkörning är standard) |
+| 4. Utvärdera | Väntar ett fönster och återkommer med resultatet | Testloggen (`site-audit test`), fönstret är 28 dagar |
+
+| Godkännande | Gäller | Exempel |
+|---|---|---|
+| A | Rapport och förslag. Ingen ändring i butik | Kontroller, rapporter, förslagslistor |
+| B | David godkänner en grupp | Titlar, metabeskrivningar, FAQ-texter, omdirigeringar |
+| C | David godkänner varje ändring och en extra kontroll görs | Pris, annonser, allt med hälsopåståenden, omdömen eller juridik |
+
+**Regler som gäller alla tester och åtgärder**
+1. Läsning först; skrivning bara efter uttryckligt ja på den nivå som anges.
+2. Originalet sparas i `rapporter/shopify-original-<datum>/`, den skrivna texten läses tillbaka och jämförs, allt loggas (`ANDRINGSLOGG.md`, `shopify-andringar-*.md`, beslutsunderlag) och en post läggs i testloggen (T8).
+3. Inget i det publicerade temat skrivs av Claude (verktygsspärr). Temaändringar görs av David efter exakta före och efter.
+4. Ingen agent får skapa kundomdömen, betyg, citat eller "verifierad"-märken (lärdom från BOS-temat).
+5. Inga hälsopåståenden utöver de som är godkända enligt EU (förordning 1924/2006 och 432/2012); försiktiga formuleringar räknas inte bort. Texter om kosttillskott går alltid på nivå C.
+6. Förslag lämnas först när befintliga kontroller och senaste fynd för ämnet är genomgångna (`scripts/audit_tackning.py`), och förslaget anger vad som är genomgånget och inte.
+
+### Utvärderingsfönster (valbart per åtgärd i T38)
+| Åtgärdstyp | Fönster | Skäl |
+|---|---|---|
+| SEO-texter (titlar, metabeskrivningar, produkt- och kategoritext, FAQ) | 56 dagar | Google omvärderar långsamt; Search Console är slutgiltig efter cirka tre dagar |
+| Omdirigeringar, tekniska rättningar | 28 dagar | Samma fönster som idag |
+| Annonser, pris | 14–28 dagar | Snabbare återkoppling, men säsong och kampanjer påverkar |
+
+### Test- och åtgärdskatalog T30–T40
+| Nr | Test eller agent | Nivå | Godkännande | Visar eller gör | Data och verktyg | Status | Fallgropar och spärrar |
+|---|---|---|---|---|---|---|---|
+| T30 | Prisavvikelse och prisrådgivare | 1–2 | A (kontroll), C (varje prisändring) | Hittar pris 0, tiodubblat eller avvikande mellan Shopify, Merchant Center och schema; föreslår, ändrar aldrig, priser | Shopify i BigQuery, `merchant_avvisade.sql`, arkets inköpspris (`data/net_profit_sku.csv`) | Föreslagen, inte byggd | Golv för marginal, tak för ändring per dag, EU:s regel om lägsta pris de senaste 30 dagarna vid utannonserad sänkning, Merchant-pris måste följa sidans pris, dropshipping (leverantörens kostnad ändras). Aldrig automatiskt |
+| T31 | Textkvalitet och AI-stil | 1 | A | Flaggar fraser och upprepningar som låter som AI, kod- och AI-rester, hälsopåståenden (se regel 5) | Utökar `product_text_residue`; stilregler per butik (egen fil) | Föreslagen | Heuristik, kräver mänsklig läsning. Rödlista för hälsopåståenden bör vara hård, inte ett mjukt fynd |
+| T32 | Förslag på titlar och metabeskrivningar | 2–3 | B | Skriver förslag som är mer säljande, med sökfrågor från Search Console som underlag | `site-audit`, `sokfragor_luckor.sql`, `titlar-lag-ctr.csv`; skrivning via Admin API med backup | Föreslagen | Fakta bara ur produktdata. Måste klara T31. 56 dagar. Ett urval får vara kontrollgrupp |
+| T33 | Förslag på produktbeskrivningar | 2–3 | B (C för kosttillskott) | Mer konverterande text, byggd av produktdata | BOS-pilot med 20 produkter (mäts runt 2026-11-22) | Pilot pågår | **Skala inte upp före pilotens utfall.** 56 dagar. Fi- och da-översättningar av pilotprodukterna återstår |
+| T34 | FAQ på kategorisidor | 2 | B | Förslag på frågor och svar från riktiga sökfrågor | Search Console, Ahrefs (T36), utkast i `rapporter/kategoritexter-utkast-2026-10-20.md` | Föreslagen | FAQ-utdrag syns sällan i Google; värdet är för användare och AI-svar. Onsite: 0 % av kategorierna har FAQ |
+| T35 | Sökintention (See-Think-Do-Care) | 1 | A | Klassar sökfrågor efter stadium och visar luckor per sida | Search Console-frågor, T4 | Föreslagen | Min tolkning av "Find See Do Care" är See-Think-Do-Care. Bekräfta |
+| T36 | Sökordsluckor (Ahrefs) | 1 | A | Sökord där konkurrenter rankar men vi inte gör, plus sökord där vi borde ranka högre | Ahrefs API; Search Console för det vi redan rankar på | **Blockerad:** Ahrefs-kopplingen svarar "Insufficient plan" även på gratisanropet | Kräver köpt API-åtkomst (kostnad ej känd). Utan den: använd T4 (egen data) |
+| T37 | GEO och AI-synlighet | 1 | A | Citeras sajten i AI-svar, vilka konkurrenter nämns, vilken data kan hämtas | T13/T13b, Ahrefs Brand Radar, `ai_hanvisningar.sql` | Delvis (T13 del 1 klar) | **Öppen fråga:** vad menas med "hämta all data från tyskarna"? (Gorillas tyska moderbolag eller tyska konkurrenter?) |
+| T38 | Uppföljning och utvärdering | 4 | A | Veckorapport över tester vars fönster gått ut, med resultat; valbart fönster per åtgärdstyp | Utökar `site-audit test` (`test due`) | Föreslagen | **BOS saknar kopplad GA4, Search Console och Shopify i BigQuery** (`check-access`), så inga tester går att utvärdera där förrän de kopplats |
+| T39 | Utför-ramverk | 3 | B/C enligt åtgärd | Generell "apply": plan i fil, torrkörning som standard, backup, skriv, läs tillbaka, jämför, logga, skapa testpost | Bygger på `redirects_gorilla_apply.py` och rutinen ovan | Föreslagen | Gäller produkt, kategori, omdirigering via Admin API. Inte tema |
+| T40 | Annonsagenter (Performance Max, ev. Reddit) | 1–2 | A (analys), C (ändringar) | Analyserar kampanjer och föreslår, ändrar inte | `ads_api.py`, `cos_30d.sql`, `annonser_kampanjer_30d.sql` | Analys finns delvis (T26) | DK-PMax har ROAS 2,94 mot mål 5. **Öppen fråga:** vad är syftet med Reddit (annonser, närvaro, datakälla)? |
+
+### Backlogg (ej numrerad)
+- **Showroom-bilder med inplacerade produkter:** BOS-temat har sektioner för hotspots och shoppable image. Kräver foton och en bildmodell, och att du bekräftar placeringarna. Effekt osäker.
+- **Blogg-research till Ecomduct:** Ecomduct är en annan produkt med annat ägande. Från den här sidan levereras bara data (sökfrågor, luckor, GEO-underlag); ingen kod kopieras.
+
+### Ordning (förslag)
+1. Rulla ut det som är byggt: ombyggd avbild, koppla datakällor för BOS.
+2. T38 och valbart fönster.
+3. T39, utför-ramverk.
+4. T32 och T34 efter T31 och T39; T33 efter pilotens utfall.
+5. T36, T30, T40 när åtkomst och riktlinjer finns.
+
+### Öppna frågor
+Vad menas med "tyskarna" (T37)? Vad är syftet med Reddit (T40)? Ska Ahrefs-åtkomst köpas (T36)? Stämmer tolkningen See-Think-Do-Care (T35)?
