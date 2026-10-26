@@ -52,6 +52,10 @@ UPDATE_M = """
 mutation($id: ID!, $r: UrlRedirectInput!) {
   urlRedirectUpdate(id: $id, urlRedirect: $r) { urlRedirect { id path target } userErrors { field message } }
 }"""
+DELETE_M = """
+mutation($id: ID!) {
+  urlRedirectDelete(id: $id) { deletedUrlRedirectId userErrors { field message } }
+}"""
 CREATE_M = """
 mutation($r: UrlRedirectInput!) {
   urlRedirectCreate(urlRedirect: $r) { urlRedirect { id path target } userErrors { field message } }
@@ -136,6 +140,7 @@ def fetch_redirects(client) -> list[dict]:
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--granskade", required=True)
+    ap.add_argument("--ta-bort", help="CSV med källadresser vars omdirigering ska tas bort (första kolumnen). Valfri.")
     ap.add_argument("--apply", action="store_true", help="Skriv ändringarna (standard är torrkörning)")
     ap.add_argument("--ut", default=".", help="Katalog för rapport och återställningsfil")
     args = ap.parse_args()
@@ -149,6 +154,15 @@ def main() -> int:
     print(f"Granskade omdirigeringar: {len(reviewed)}. Omdirigeringar i butiken: {len(existing)}.")
     rows = plan(reviewed, existing)
 
+    deletes: list[dict] = []
+    if args.ta_bort:
+        by_path = {norm(r["path"]): r for r in existing}
+        with open(args.ta_bort, encoding="utf-8") as f:
+            for row in csv.reader(f):
+                if row and row[0].startswith("/"):
+                    cur = by_path.get(norm(row[0]))
+                    deletes.append({"atgard": "TA BORT" if cur else "SAKNAS", "path": row[0].strip(),
+                                    "nu": cur["target"] if cur else "", "nytt": "", "id": cur["id"] if cur else None, "mal": "-"})
     articles = fetch_articles(client)
     cache: dict[str, str] = {}
     for r in rows:
@@ -161,8 +175,10 @@ def main() -> int:
             r["mal"] = "källan är en levande sida"
 
     todo = [r for r in rows if r["atgard"] != "OFÖRÄNDRAD" and r["mal"] == "ok"]
-    blocked = [r for r in rows if r["atgard"] != "OFÖRÄNDRAD" and r["mal"] != "ok"]
+    blocked = [r for r in rows if r["atgard"] not in ("OFÖRÄNDRAD", "TA BORT", "SAKNAS") and r["mal"] != "ok"]
 
+    rows = rows + deletes
+    todo = todo + [d for d in deletes if d["atgard"] == "TA BORT"]
     out = Path(args.ut)
     out.mkdir(parents=True, exist_ok=True)
     stamp = date.today().isoformat()
@@ -175,7 +191,7 @@ def main() -> int:
 
     for r in rows:
         print(f"{r['atgard']:<11} {r['path']}\n            nu:   {r['nu'] or '(ingen)'}\n            nytt: {r['nytt']}   [mål: {r['mal']}]")
-    print(f"\nSammanfattning: ändra {sum(r['atgard']=='ÄNDRA' for r in todo)}, skapa {sum(r['atgard']=='SKAPA' for r in todo)}, "
+    print(f"\nSammanfattning: ändra {sum(r['atgard']=='ÄNDRA' for r in todo)}, skapa {sum(r['atgard']=='SKAPA' for r in todo)}, ta bort {sum(r['atgard']=='TA BORT' for r in todo)}, "
           f"oförändrade {sum(r['atgard']=='OFÖRÄNDRAD' for r in rows)}, stoppade (målet saknas eller är inte aktivt) {len(blocked)}.")
     for r in blocked:
         print(f"  STOPPAD {r['path']} -> {r['nytt']} ({r['mal']})")
@@ -191,7 +207,9 @@ def main() -> int:
     print(f"Återställningsfil sparad: {snap}")
     fel = 0
     for r in todo:
-        if r["atgard"] == "ÄNDRA":
+        if r["atgard"] == "TA BORT":
+            res = client.graphql(DELETE_M, {"id": r["id"]})["urlRedirectDelete"]
+        elif r["atgard"] == "ÄNDRA":
             res = client.graphql(UPDATE_M, {"id": r["id"], "r": {"target": r["nytt"]}})["urlRedirectUpdate"]
         else:
             res = client.graphql(CREATE_M, {"r": {"path": r["path"], "target": r["nytt"]}})["urlRedirectCreate"]
