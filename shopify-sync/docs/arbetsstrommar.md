@@ -93,3 +93,28 @@ Klart när: <kriterium>
 - **Start:** högst två strömmar aktiva samtidigt tills vi sett hur det fungerar, eftersom du är flaskhalsen. Förslag: ström 1 och ström 2 först (ström 2 kan börja med Gorilla-data som redan finns).
 - **Uppföljning efter en vecka:** antal sammanslagningskonflikter, antal fel som granskaren fångade, hur mycket tid det tagit för David, och om uppdragen blev tydligare.
 - **Inaktuellt:** om strömmarna ändras ska det göras som ett nytt avsnitt med datum, inte genom att skriva om det här.
+
+## Tillägg 2026-10-27: riskprofil per butik och start av hjälpagenter
+**Beslut (David, 2026-10-27):** hjälpagenter är en bra början. Starta nu. **Best of Sports (BOS) är labbet:** stora förändringar för att lära. **Gorilla Sports ska bara få förändringar som är 99,9 % säkra.**
+
+### Så tolkas beslutet (säg till om något ska vara annorlunda)
+**BOS, labb.** Tillåtet inom ramen nedan utan ett nytt ja per enskild ändring, så länge varje omgång dokumenteras i en plan före skrivning och alla villkor är uppfyllda:
+- Gäller **reversibla innehållsändringar** i Shopify: SEO-titel, metabeskrivning och beskrivning på produkter, kategorier, sidor och artiklar (grundspråket svenska; översättningar rörs inte), FAQ-text i kategoribeskrivning, alt-text på bilder, och nya omdirigeringar med verifierat mål.
+- **Kohortdesign:** en behandlingsgrupp och en lika stor, matchad kontrollgrupp som lämnas orörd. Högst 300 objekt per omgång.
+- **Villkor per omgång:** originalen sparade i `rapporter/shopify-original-<datum>/`, skriven text inläst och jämförd tecken för tecken, loggad (`ANDRINGSLOGG.md`, `shopify-andringar-*.md`, beslutsunderlag), testpost i testloggen (T8) med utvärderingsfönster (56 dagar för SEO-texter), och en plan som David har kunnat se.
+- **Kräver fortfarande Davids uttryckliga ja per ändring:** pris, lager, publicering, avpublicering eller radering av produkter och kategorier, allt som rör kosttillskott, hälsopåståenden, omdömen och betyg, rabattkoder, appar, annonser, kunddata, e-post och tema. Temat kan inte skrivas av Claude och ändras av David.
+
+**Gorilla, säkert.** Bara förändringar där alla dessa gäller:
+1. Beviset är entydigt och bygger på hela genomsökningen, inte ett urval.
+2. Ändringen är exakt reversibel och en återställningsfil är klar före körning.
+3. Ändringen rör inte rankingkänsligt innehåll (rubriker, texter), pris, annonser, spårning eller mallar.
+4. Resultatet kontrolleras efteråt mot ett mått som kan misslyckas.
+5. Skadan om något ändå går fel är liten och synlig.
+- Exempel som uppfyller kraven: omdirigeringar där målet är verifierat som 200, och objektivt felaktiga tekniska värden.
+- Gorillas butik når Claude inte; ändringar görs av David med skript (torrkörning är standard) och verifieras efteråt.
+- Allt annat blir förslag på nivå A och B, med David som beslutar.
+
+### Hjälpagenter: vad som startade 2026-10-27
+- **Ström 1 (kod):** `site-audit test due` och valbart utvärderingsfönster (T38), kontroll av att `scripts/kontrollera_datakallor.sh` använder rätt tabell- och kolumnnamn, och en designskiss för utför-ramverket (T39).
+- **Ström 2 (BOS-labb):** plan för experiment 1 på BOS: kohorter, utkast på titlar och metabeskrivningar för behandlingsgruppen, sparade original, utvärderingsplan. Bara förslag; ingenting skrivs till Shopify förrän planen är granskad.
+- Hjälpagenterna committar inte. De lämnar filer, och samordnaren granskar och committar. Ström 3 startar inte än (högst två strömmar samtidigt).
