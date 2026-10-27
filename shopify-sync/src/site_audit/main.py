@@ -20,6 +20,7 @@ from datetime import date, timedelta
 from pathlib import Path
 
 from .config import ConfigError, SiteConfig, load_sites
+from .growth_tests import KIND_WINDOWS
 
 
 def _site(args) -> SiteConfig:
@@ -461,7 +462,7 @@ def cmd_portfolio_weekly(args) -> int:
 
 
 def cmd_test(args) -> int:
-    """Testlogg för tillväxtarbetet: add, list och evaluate."""
+    """Testlogg för tillväxtarbetet: add, list, evaluate och due."""
     from . import growth_tests as t
     from .growth_report import daily_sql, periods
 
@@ -470,10 +471,14 @@ def cmd_test(args) -> int:
     if args.action == "add":
         tid = t.add_test(store, site, start=date.fromisoformat(args.start), channel=args.channel, metric=args.metric,
                          hypothesis=args.hypothesis, action=args.what, market=args.market, expected_pct=args.expect,
-                         days=args.days, owner=args.owner, pages=(args.pages or "").split(","))
+                         days=args.days, owner=args.owner, pages=(args.pages or "").split(","), kind=args.kind)
         print(f"Test {tid} loggat: {args.hypothesis}")
         return 0
     tests = t.list_tests(store, site)
+    if args.action == "due":
+        today = date.fromisoformat(args.date) if args.date else date.today()
+        print(t.format_due(site.name, today, *t.due_tests(tests, today)))
+        return 0
     if args.action == "list":
         for x in tests:
             print(f"{x['test_id']}  {x['start_date']}  {x['status']:<10} {x['channel']:<10} {x.get('market') or 'alla':<5} {x['metric']:<10} {x['hypothesis']}")
@@ -482,7 +487,7 @@ def cmd_test(args) -> int:
     if not test:
         raise ConfigError(f"Hittar inget test med id {args.id}. Kör 'test list' för att se id:n.")
     today = date.fromisoformat(args.date) if args.date else date.today()
-    span = int(test["evaluate_days"])
+    span = t.window_days(test)
     first = test["start_date"] - timedelta(days=span)
     if t.is_gsc_metric(test["metric"]):
         if not site.gsc_table:
@@ -626,8 +631,8 @@ def main(argv: list[str] | None = None) -> int:
     pw.add_argument("--out")
     pw.set_defaults(func=cmd_portfolio_weekly)
 
-    tp = sub.add_parser("test", help="Testlogg: logga en åtgärd med hypotes, lista och utvärdera")
-    tp.add_argument("action", choices=["add", "list", "evaluate"])
+    tp = sub.add_parser("test", help="Testlogg: logga en åtgärd med hypotes, lista, utvärdera och visa vilka som är klara att utvärdera (due)")
+    tp.add_argument("action", choices=["add", "list", "evaluate", "due"])
     tp.add_argument("--site", required=True)
     tp.add_argument("--start", help="Startdatum för åtgärden (add)")
     tp.add_argument("--channel", help="google_ads, meta, email, site, pris, sortiment eller annat (add)")
@@ -637,10 +642,11 @@ def main(argv: list[str] | None = None) -> int:
     tp.add_argument("--hypothesis", help="Vad vi tror händer och varför (add)")
     tp.add_argument("--what", help="Vad som ändras (add)")
     tp.add_argument("--expect", type=float, help="Förväntad förändring i procent, t.ex. 10 (add)")
-    tp.add_argument("--days", type=int, default=28, help="Utvärderingsfönster i dagar (add)")
+    tp.add_argument("--kind", choices=list(KIND_WINDOWS), help="Åtgärdstyp som väljer fönster: seo_text 56 dagar, technical 28, ads 21, price 21 (add)")
+    tp.add_argument("--days", "--window-days", dest="days", type=int, help="Utvärderingsfönster i dagar, 7–90; går före --kind. Utan båda: 28 (add)")
     tp.add_argument("--owner", help="Vem som ansvarar (add)")
     tp.add_argument("--id", help="Testets id (evaluate)")
-    tp.add_argument("--date", help="Räkna från detta datum (evaluate)")
+    tp.add_argument("--date", "--today", help="Räkna från detta datum, ÅÅÅÅ-MM-DD (evaluate, due)")
     tp.add_argument("--save", action="store_true", help="Spara utvärderingen i loggen (evaluate)")
     tp.set_defaults(func=cmd_test)
 

@@ -1155,3 +1155,124 @@ def test_ai_crawler_check():
     assert [f.check for f in blocked] == ["ai_crawlers_blocked"]
     assert blocked[0].evidence["blocked"] == ["gptbot", "claudebot"]
     assert "perplexitybot" in blocked[0].evidence["allowed"]
+
+
+def _fake_log_store():
+    ran = []
+
+    class Client:
+        def query(self, sql):
+            ran.append(sql)
+            return type("J", (), {"result": lambda self: None})()
+
+    return ran, type("S", (), {"dataset": "p.site_audit", "client": Client()})(), type("Site", (), {"table_key": "gs"})()
+
+
+def test_growth_test_window_per_kind():
+    from datetime import date
+
+    import pytest
+
+    from site_audit import growth_tests as t
+
+    ran, store, site = _fake_log_store()
+    expected = {"seo_text": 56, "technical": 28, "ads": 21, "price": 21}
+    assert t.KIND_WINDOWS == expected
+    for kind, days in expected.items():
+        t.add_test(store, site, start=date(2026, 10, 27), channel="site", metric="orders", hypothesis="h", action="a", kind=kind)
+        assert f"DATE '2026-10-27', {days}, " in ran[-1] and f"'{kind}')" in ran[-1]
+    # utan åtgärdstyp och fönster: 28 dagar och kind NULL
+    t.add_test(store, site, start=date(2026, 10, 27), channel="site", metric="orders", hypothesis="h", action="a")
+    assert "DATE '2026-10-27', 28, " in ran[-1] and ran[-1].endswith("NULL, NULL)")
+    # uttryckligt fönster går före åtgärdstypens förval
+    t.add_test(store, site, start=date(2026, 10, 27), channel="site", metric="orders", hypothesis="h", action="a", kind="seo_text", days=42)
+    assert "DATE '2026-10-27', 42, " in ran[-1]
+    with pytest.raises(ValueError):
+        t.add_test(store, site, start=date(2026, 10, 27), channel="site", metric="orders", hypothesis="h", action="a", kind="finns_inte")
+    with pytest.raises(ValueError):
+        t.add_test(store, site, start=date(2026, 10, 27), channel="site", metric="orders", hypothesis="h", action="a", kind="ads", days=91)
+    # migreringen lägger till båda kolumnerna i samma uttryck (äldre tabeller)
+    assert "ADD COLUMN IF NOT EXISTS pages STRING" in t.ddl_migrate("p.d") and "ADD COLUMN IF NOT EXISTS kind STRING" in t.ddl_migrate("p.d")
+
+
+def test_growth_test_old_row_without_window_gives_28():
+    from datetime import date, timedelta
+
+    from site_audit import growth_tests as t
+
+    assert t.window_days({}) == 28 and t.window_days({"evaluate_days": None}) == 28 and t.window_days({"evaluate_days": float("nan")}) == 28
+    assert t.window_days({"evaluate_days": 56}) == 56 and t.window_days({"evaluate_days": "21"}) == 21
+    # evaluate använder det sparade fönstret: 56 dagar ger ett 56 dagar långt efterfönster, saknat värde ger 28
+    start = date(2026, 9, 1)
+    data = {"SE": [{"d": start + timedelta(days=i), "market": "SE", "orders": 10, "revenue": 100.0, "sessions": 1000, "google_cost": 50.0, "meta_cost": 0.0}
+                   for i in range(-60, 60)]}
+    base = {"test_id": "x", "start_date": start, "metric": "orders", "market": "SE", "hypothesis": "h", "action": "a", "channel": "site"}
+    assert t.evaluate(data, {**base, "evaluate_days": 56}, date(2026, 12, 31))["after"] == (start, start + timedelta(days=55))
+    assert t.evaluate(data, {**base, "evaluate_days": None}, date(2026, 12, 31))["after"] == (start, start + timedelta(days=27))
+    assert t.evaluate(data, {**base}, date(2026, 12, 31))["before"] == (start - timedelta(days=28), start - timedelta(days=1))
+
+
+def test_growth_test_due_boundaries():
+    from datetime import date
+
+    from site_audit import growth_tests as t
+
+    # 28 dagar från 2026-10-22: fönstrets sista dag 2026-11-18, utvärderingsbart 2026-11-23 (start + 28 + 4)
+    test = {"test_id": "44de00d5", "start_date": date(2026, 10, 22), "evaluate_days": 28, "status": "planerad", "action": "Länkar", "metric": "gsc_clicks",
+            "expected_change_pct": 10}
+    day_before = t.due_tests([test], date(2026, 11, 22))
+    assert day_before[0] == [] and [r["test_id"] for r in day_before[1]] == ["44de00d5"] and day_before[2] == 0
+    exact = t.due_tests([test], date(2026, 11, 23))
+    assert [r["test_id"] for r in exact[0]] == ["44de00d5"] and exact[0][0]["days_overdue"] == 0 and exact[0][0]["days_since_end"] == 5
+    after = t.due_tests([test], date(2026, 11, 26))
+    assert after[0][0]["days_overdue"] == 3 and after[0][0]["window_last"] == date(2026, 11, 18) and after[1] == []
+    # 56 dagar: samma start är först klar 2026-12-21; utvärderade räknas men listas inte; saknat fönster ger 28
+    seo = {**test, "test_id": "seo", "evaluate_days": 56}
+    old = {**test, "test_id": "old", "evaluate_days": None}
+    done = {**test, "test_id": "klar", "status": "utvärderad"}
+    due, waiting, n_done = t.due_tests([seo, old, done], date(2026, 11, 23))
+    assert [r["test_id"] for r in due] == ["old"] and [r["test_id"] for r in waiting] == ["seo"] and waiting[0]["ready_on"] == date(2026, 12, 21) and n_done == 1
+    # status 'pågår' (preliminärt sparad) räknas som ej utvärderad
+    assert t.due_tests([{**test, "status": "pågår"}], date(2026, 11, 23))[0]
+    # BigQuery kan ge datumet som datetime eller text
+    assert t.due_tests([{**test, "start_date": "2026-10-22"}], date(2026, 11, 23))[0]
+    text = t.format_due("gorillasports-se", date(2026, 11, 26), *t.due_tests([test, seo], date(2026, 11, 26)))
+    assert "44de00d5" in text and "förväntat: +10 %" in text and "3 dagar" in text and "Ej utvärderade än: 1 test, närmast seo" in text
+    assert "site-audit test evaluate --site gorillasports-se --id 44de00d5 --save" in text
+    assert "Inga." in t.format_due("g", date(2026, 10, 1), *t.due_tests([], date(2026, 10, 1)))
+
+
+def test_cli_test_subcommands_and_due(monkeypatch, capsys):
+    from datetime import date
+
+    import pytest
+
+    from site_audit import growth_tests as t
+    from site_audit import main as m
+
+    with pytest.raises(SystemExit):
+        m.main(["test", "--help"])
+    help_text = capsys.readouterr().out
+    assert "--kind" in help_text and "--window-days" in help_text and "--today" in help_text and "due" in help_text
+    for action in ("add", "list", "evaluate"):
+        with pytest.raises(SystemExit) as exc:
+            m.main(["test", action, "--help"])
+        assert exc.value.code == 0
+    capsys.readouterr()
+
+    ran, store, site = _fake_log_store()
+    site.name = "gs"
+    monkeypatch.setattr(m, "_site", lambda args: site)
+    monkeypatch.setattr(m, "_store", lambda s: store)
+    rows = [{"test_id": "abc12345", "start_date": date(2026, 10, 1), "evaluate_days": 56, "status": "planerad", "action": "Nya titlar",
+             "metric": "gsc_clicks", "expected_change_pct": 10.0}]
+    store.query = lambda sql: rows
+    assert m.main(["test", "due", "--site", "gs", "--today", "2026-11-29"]) == 0
+    out = capsys.readouterr().out
+    assert "Inga." in out and "Ej utvärderade än: 1 test, närmast abc12345 som kan utvärderas 2026-11-30" in out  # 56 + 4 dagar efter 2026-10-01
+    assert m.main(["test", "due", "--site", "gs", "--today", "2026-11-30"]) == 0
+    assert "Nya titlar" in capsys.readouterr().out
+    assert m.main(["test", "add", "--site", "gs", "--start", "2026-10-27", "--channel", "site", "--metric", "orders", "--kind", "seo_text",
+                   "--hypothesis", "h", "--what", "a"]) == 0
+    assert "DATE '2026-10-27', 56, " in ran[-1]
+    assert t.KIND_WINDOWS["seo_text"] == 56
