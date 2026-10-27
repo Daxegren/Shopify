@@ -1,0 +1,7 @@
+# Utfor00 (kanarie, 1 produkt). Högst 20 alias. Körs bara av samordnaren efter Davids ja. Läs tillbaka resultatet och jämför mot utkast_fore_efter.json.
+mutation Utfor00 {
+  p1: productUpdate(product: {id: "gid://shopify/Product/10472310931722", seo: {title: "Motståndsband Tunturi Mini, set med 5 band", description: "Tunturi Mini Resistance Band Set har fem motståndsband i olika färger, från 4,8 till 14 kg. Förvaringspåse ingår. Varje band är 25 x 5 x 0,8 cm."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+}

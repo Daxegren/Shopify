@@ -1,0 +1,83 @@
+# Utfor01 (batch 1, 20 produkter). Högst 20 alias. Körs bara av samordnaren efter Davids ja. Läs tillbaka resultatet och jämför mot utkast_fore_efter.json.
+mutation Utfor01 {
+  p1: productUpdate(product: {id: "gid://shopify/Product/10472310931722", seo: {title: "Motståndsband Tunturi Mini, set med 5 band", description: "Tunturi Mini Resistance Band Set har fem motståndsband i olika färger, från 4,8 till 14 kg. Förvaringspåse ingår. Varje band är 25 x 5 x 0,8 cm."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p2: productUpdate(product: {id: "gid://shopify/Product/10605384892682", seo: {title: "Viktbänk Hammer Force 5.0", description: "Hammer Force 5.0 är en viktbänk där ryggstöd och sittdyna ställs från horisontellt till lutande och nedåtlutande läge. Lastkapacitet 280 kg, vikt 26 kg."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p3: productUpdate(product: {id: "gid://shopify/Product/10515744194826", seo: {title: "Motionscykel Toorx BRX95 Comfort", description: "Toorx BRX95 Comfort är en motionscykel med ryggstöd, 24 nivåer och 10 kg svänghjul. LCD-skärm och 21 program. Maxvikt för användaren 130 kg."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p4: productUpdate(product: {id: "gid://shopify/Product/10472279933194", seo: {title: "Hopprep Toorx med mjuka handtag, gult", description: "Toorx hopprep i gult med mjuka handtag och kullager. Setet innehåller två avtagbara vikter på 110 g vardera. Tillverkat av Toorx i Italien."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p5: productUpdate(product: {id: "gid://shopify/Product/10411923276042", seo: {title: "Kettlebell Toorx Absolute i stål", description: "Toorx Absolute är en kettlebell i slitstarkt stål för hemmabruk och sportklubbar. Den finns i flera vikter, så att träningen kan anpassas efter nivå."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p6: productUpdate(product: {id: "gid://shopify/Product/10430254809354", seo: {title: "Kettlebell Toorx Olympic EVO, blå, 12 kg", description: "Toorx Olympic EVO är en blå kettlebell på 12 kg. Den har ergonomisk form och ger ett stadigt grepp, och används på gym och i hemmaträning."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p7: productUpdate(product: {id: "gid://shopify/Product/10475371233546", seo: {title: "Förvaringskrok för träningsrep Tunturi", description: "Tunturi förvaringskrok i svartlackerat stål för träningsrep. Monteras på vägg med medföljande pluggar och skruvar. Mått 27,6 x 5 x 22,8 cm, tål 100 kg."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p8: productUpdate(product: {id: "gid://shopify/Product/10472298545418", seo: {title: "Power rack Hammer Bio Force, multigym", description: "Hammer Bio Force är ett multigym med två kabelblock och latsdragare. Maximalt motstånd 110 kg. Måtten är 125 x 165 x 208 cm, minsta takhöjd 210 cm."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p9: productUpdate(product: {id: "gid://shopify/Product/10470934741258", seo: {title: "Tabletthållare för Fluid roddmaskiner", description: "Hållare i stål för surfplattor på 6 till 13 tum. Passar bland annat Fluid Viking, Fluid Neon, Apollo Plus och Tunturi FitRow 90i. Vrids 360 grader."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p10: productUpdate(product: {id: "gid://shopify/Product/10472259584266", seo: {title: "Curlstång Tunturi Olympic, 50 mm, 120 cm", description: "Tunturi Olympic Curlbar i krom, 120 cm lång, för 50 mm viktskivor. Stången väger 10 kg. Två lås ingår, men viktskivor ingår inte i setet."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p11: productUpdate(product: {id: "gid://shopify/Product/10588451602698", seo: {title: "Slam ball Tunturi Platinum, PVC, 28 cm", description: "Tunturi Platinum Slam Ball i PVC med diameter 28 cm, avsedd för funktionell träning och helkroppsövningar. Finns i flera varianter. Tillverkare: Tunturi."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p12: productUpdate(product: {id: "gid://shopify/Product/10472268366090", seo: {title: "Löpband Hammer FlyRun 4.0, 1–24 km/h", description: "Hammer FlyRun 4.0 är ett hopfällbart löpband med 2,75 hk motor (max 5,5 hk), löpyta 152 x 50 cm och hastighet 1–24 km/h. Maxvikt 150 kg."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p13: productUpdate(product: {id: "gid://shopify/Product/10472261288202", seo: {title: "Plyo box i trä Tunturi, 40/50/60 cm", description: "Tunturi Plyo Box Wood i 20 mm plywood för hopp, burpees och uppstigningar. Kan ställas på tre höjder: 40, 50 och 60 cm. Mått 40 x 50 x 60 cm."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p14: productUpdate(product: {id: "gid://shopify/Product/10462852284682", seo: {title: "Bumper plate Tunturi Platinum, 50 mm, svart", description: "Tunturi Platinum Bumper Plate är en viktskiva i stål med gummi, 45 cm i diameter och 22 mm tjock. Håldiameter 51,5 mm för 50 mm stänger. Flera vikter."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p15: productUpdate(product: {id: "gid://shopify/Product/10588446130442", seo: {title: "Träningscykel Tunturi Centuri E100", description: "Tunturi Centuri E100 är en limiterad träningscykel i svart och guld med 7-tums skärm, 26 träningsprogram och 48 svårighetsgrader. Vikt 38,7 kg."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p16: productUpdate(product: {id: "gid://shopify/Product/10515747897610", seo: {title: "Minicykel Toorx Everfit Welly-M", description: "Toorx Welly-M är en kompakt minicykel med LCD-display och åtta manuellt justerbara nivåer. Svänghjul 2 kg, vikt 5 kg. Mått 45 x 19 x 29 cm."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p17: productUpdate(product: {id: "gid://shopify/Product/10471040975114", seo: {title: "Motionscykel Tunturi FitCycle 40i", description: "Tunturi FitCycle 40i har låg ram, Bluetooth, 23 program och 16 svårighetsgrader. Svänghjul 7 kg, maxvikt för användaren 110 kg. Mått 91 x 50 x 137 cm."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p18: productUpdate(product: {id: "gid://shopify/Product/10472245625098", seo: {title: "Löpband Tunturi Signature T40, 3,5 hk", description: "Tunturi Signature T40 är ett löpband med 3,5 hk motor, 10-tums skärm och 44 program. Hastighet 1–16 km/h, löpyta 125 x 45 cm. Maxvikt 120 kg."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p19: productUpdate(product: {id: "gid://shopify/Product/10471192166666", seo: {title: "Löpband BH Fitness Nyman Plus, infällbart", description: "BH Fitness Nyman Plus är ett infällbart löpband med 2,5 hk motor, Bluetooth FTMS och 10 lutningar. Hastighet 1–14 km/h, löpyta 125 x 45 cm."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p20: productUpdate(product: {id: "gid://shopify/Product/10472306737418", seo: {title: "Löpband BH Fitness Runlab Plus, kompakt", description: "BH Fitness Runlab Plus är ett kompakt löpband med 2,5 hk motor och Bluetooth. Hastighet 1–15 km/h, löpyta 121 x 46 cm, lutning 10 %. Maxvikt 110 kg."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+}

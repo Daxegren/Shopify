@@ -1,0 +1,3463 @@
+{
+ "hamtad": "2026-10-27",
+ "kalla": "Shopify Admin GraphQL, products(query: status:active AND product_type:'Konditionsträning & Fitness'), fälten seo{title description}, läst via produktlistan i 14 sidor (före skrivning); butiken svarade null för båda fälten på alla produkter nedan",
+ "att_kontrollera_fore_skrivning": "kör verktyg/forkontroll.graphql för samma id:n och jämför mot den här filen; stoppa om något fält inte längre är null",
+ "produkter": {
+  "gid://shopify/Product/10411677155594": {
+   "handle": "minibike-tunturi-minibike-basic",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10411753668874": {
+   "handle": "lasskruv-tunturi-skruvlas-30mm",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10411839914250": {
+   "handle": "treadmill-toorx-evertift-tfk-155-slim",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10411916722442": {
+   "handle": "spin-bike-hammer-speed-pro",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10411919573258": {
+   "handle": "traningsmatta-hammer-floor-protection-mat-s",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10411923276042": {
+   "handle": "kettlebell-toorx-absolute-kettlebell-12-kg",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10411923341578": {
+   "handle": "lyftstang-toorx-olympic-barbell-180cm-320-kg-50-mm",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10411925242122": {
+   "handle": "traningsmatta-toorx-studio-mat-100-svart",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10411929207050": {
+   "handle": "traningsstation-toorx-msx-50",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10429961928970": {
+   "handle": "minicykel-tunturi-cardio-fit-m35-magnetic",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10430254809354": {
+   "handle": "toorx-olympic-evo-kettlebell-bla-12-kg",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10430370775306": {
+   "handle": "traningsboll-tunturi-gymball-55cm-anti-burst-petrol",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10461958144266": {
+   "handle": "tunturi-battle-rope-ground-hook-14tuscf014",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10462191124746": {
+   "handle": "handskar-tunturi-fitness-gloves-fit-control-14tusfu220",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10462201446666": {
+   "handle": "squat-rack-tunturi-wt40-17tswt4000",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10462224777482": {
+   "handle": "hantlar-tunturi-neoprenhantlar-2kg-r-d-14tuscl378",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10462357192970": {
+   "handle": "hantelst-ng-hammer-pull-up-bar-multigrip-16003",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10462774198538": {
+   "handle": "viktskivor-tunturi-olympic-rubber-plates-50-mm-1-25-kg-14tuscl272",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10462774231306": {
+   "handle": "hantlar-tunturi-neoprene-dumbbells-3kg-lila-14tuscl377",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10462778917130": {
+   "handle": "hantlar-tunturi-vinylhantlar-2-x-0-5-kg-rosa-14tusfu108-1",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10462781669642": {
+   "handle": "yogamatta-toorx-yoga-mat-vinr-d-gr-mat-184",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10462781702410": {
+   "handle": "toorx-interlocking-mat-122-x-122-x-1-2-cm-4-delars-gr-mat-60",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10462783897866": {
+   "handle": "tr-ningshandskar-toorx-professional-gloves-svart-gr-ahf-033",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10462784880906": {
+   "handle": "gymnastikboll-tunturi-gymball-65cm-anti-burst-bl-14tusfu344",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10462785405194": {
+   "handle": "gymnastikboll-tunturi-gymball-75cm-anti-burst-petrol-14tusfu340",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10462847467786": {
+   "handle": "hammer-puzzlemat-professional-tr-ningsmatta-156-x-104-x-2-5-cm-6-delar-18005",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10462848188682": {
+   "handle": "hantlar-toorx-gjutj-rnshantel-20-kg-val-20dgn",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10462852284682": {
+   "handle": "viktplatta-tunturi-platinum-bumper-plate-svart-50mm-5-kg-25tupla001",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10468712939786": {
+   "handle": "tr-ningsb-nk-tunturi-ub90-utility-bench-pro-18tsub9000-4",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10468724834570": {
+   "handle": "tr-ningsb-nk-tunturi-centuri-ub100-utility-bench-22csub1000-1",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10470888243466": {
+   "handle": "leverl-s-tunturi-abs-collar-30mm-14tuscl158",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10470888276234": {
+   "handle": "lyftst-ng-tunturi-aerobic-pump-bar-30-mm-130-cm-14tuscl218",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10470904889610": {
+   "handle": "treadmill-tunturi-signature-t80-22trn80000",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10470934741258": {
+   "handle": "tabletth-llare-f-r-fluid-roddmaskiner-23ftbhs0xl",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10470935363850": {
+   "handle": "mini-bike-tunturi-cardio-fit-m45-mini-bike-23tcfm4050",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10470936215818": {
+   "handle": "armband-med-led-ljus-tunturi-led-armlight-gr-n-14tusru175",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10470943424778": {
+   "handle": "stoppad-boll-tunturi-slam-ball-20kg-14tuscf026",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10470968918282": {
+   "handle": "handledd-och-ankelvikter-toorx-handleds-ankelvikter-2-x-2-0-kg-ahf-094",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10470969901322": {
+   "handle": "hopprep-toorx-pvc-jump-rope-svart-r-d-ahf-019",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10470997721354": {
+   "handle": "gymnastikrulle-spokey-twin-svart-gr-n-943265",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10471002931466": {
+   "handle": "recumbent-bike-tunturi-signature-e60r-23tbr60000",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10471040188682": {
+   "handle": "exercise-bike-hammer-cardio-t3-4860",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10471040975114": {
+   "handle": "exercise-bike-tunturi-fitcycle-40i-24tfce4000",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10471139213578": {
+   "handle": "justerbar-hantel-tunturi-mx100-skivst-ng-12-8-45-5-kg-22mx100000",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10471157629194": {
+   "handle": "liggande-cykel-toorx-brx-r100-ergo-brx-r100ergo",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10471192166666": {
+   "handle": "treadmill-bh-fitness-nyman-plus-g6405",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10471350534410": {
+   "handle": "gymnastikset-tunturi-resistance-core-sliders-set-14tusyo045",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472210956554": {
+   "handle": "tunturi-hantelst-ng-36-cm-skruv-14tuscl110",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472211251466": {
+   "handle": "viktplattor-tunturi-rubber-plates-30-mm-1-25-kg-14tuscl143",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472211513610": {
+   "handle": "lyftst-ng-tunturi-hantelst-ng-30-mm-165cm-nedre-huvud-14tuscl122-1",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472211644682": {
+   "handle": "tunturi-curlbar-30-mm-120-cm-skruv-14tuscl123-1",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472212463882": {
+   "handle": "lyftst-ngsfj-derhalsband-tunturi-olympic-spring-collars-50mm-14tuscl258",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472213315850": {
+   "handle": "b-lte-tunturi-eva-dipping-belt-med-kedja-14tuscl388",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472213971210": {
+   "handle": "aerobic-stepper-tunturi-aerobic-power-step-14tuscl390-1",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472220754186": {
+   "handle": "rodd-ergometer-tunturi-fitrow-70-wtr-17tfrw7000",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472222523658": {
+   "handle": "tr-ningsb-nk-tunturi-wb20-basic-weight-bench-17tswb2000",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472223211786": {
+   "handle": "multifunktionell-tr-ningsmaskin-tunturi-wt80-leverage-gym-17tswt8000",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472224325898": {
+   "handle": "multifunktionell-tr-ningsmaskin-tunturi-wt85-leverage-pulley-gym-17tswt8050-2",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472225538314": {
+   "handle": "squat-drill-tunturi-rc20-pro-power-rack-base-rack-18tsrc2010-2",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472245625098": {
+   "handle": "treadmill-tunturi-signature-t40-22trn40000",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472249458954": {
+   "handle": "mini-bike-tunturi-cardio-fit-m30-mini-bike-16tcfm3000",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472253063434": {
+   "handle": "powerb-nk-tunturi-sm90-full-smith-23tssm9000",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472254210314": {
+   "handle": "tr-ningsb-nk-tunturi-wb60-olympic-width-weight-bench-17tswb6000",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472255127818": {
+   "handle": "motionscykel-tunturi-cardio-fit-e30-ergometer-21tcfe3000",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472255258890": {
+   "handle": "lyftb-nk-tunturi-ub40-utility-bench-17tsub4000",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472255291658": {
+   "handle": "viktplatta-tunturi-olympic-rubber-plate-50-mm-10-kg-14tuscl275-1",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472258076938": {
+   "handle": "motionscykel-tunturi-fitcycle-50i-ergometercykel-17tfce5000-1",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472258339082": {
+   "handle": "tr-ningsb-nk-tunturi-gh10-glute-ham-developer-18tsgh1000",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472258404618": {
+   "handle": "tr-ningshandskar-gymstick-workout-gloves-s-m-gym61140s-m",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472258830602": {
+   "handle": "motionscykel-tunturi-star-fit-b100-bike-21tsfb1000",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472259059978": {
+   "handle": "tunturi-cardio-fit-r30-roddmaskin-16tcfr3000",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472259125514": {
+   "handle": "viktplatta-tunturi-olympic-rubber-plate-50-mm-15-kg-14tuscl276",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472259158282": {
+   "handle": "viktplatta-tunturi-olympic-rubber-plate-50-mm-25-kg-14tuscl298",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472259256586": {
+   "handle": "lyftst-ng-tunturi-barbell-bar-30-mm-165cm-skruv-14tuscl114",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472259584266": {
+   "handle": "lyftst-ng-tunturi-olympic-curlbar-chrome-50-mm-120cm-springcol-14tuscl260",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472259682570": {
+   "handle": "lyftst-ng-tunturi-olympic-bar-50-mm-220cm-springcol-14tuscl265",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472259977482": {
+   "handle": "dumbbell-tunturi-vinyl-dumbbellset-28kg-14tuscl358",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472260043018": {
+   "handle": "viktplatta-tunturi-rubber-plate-30-mm-20-kg-14tuscl148",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472260141322": {
+   "handle": "hantelst-ll-ben-tunturi-pro-dumbbell-rack-stand-14tuscf053-1",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472260174090": {
+   "handle": "tr-ningsb-nk-tunturi-ub80-utility-bench-17tsub8000",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472260796682": {
+   "handle": "tunturi-wall-ball-10-kg-gr-n-14tuscf012-1",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472261058826": {
+   "handle": "motionscykel-tunturi-star-fit-e100-hr-i-18tsfe1010-1",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472261288202": {
+   "handle": "tr-ningsbox-tunturi-plyo-box-wood-40-50-60cm-14tuscf077-1",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472261419274": {
+   "handle": "exercise-bike-tunturi-fitcycle-20-17tfcf2000-1",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472261452042": {
+   "handle": "exercise-bike-tunturi-fitcycle-30-17tfcf3000",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472261681418": {
+   "handle": "rep-tunturi-pro-battle-rope-med-skydd-15m-14tuscf084-1",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472261714186": {
+   "handle": "treadmill-bh-fitness-rs900tft-g6178tft",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472263221514": {
+   "handle": "belt-tunturi-arm-blaster-14tuscf033",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472263516426": {
+   "handle": "golvmatta-tunturi-golvskyddsmatta-200-x-92-5-x-0-4-cm-14tusfu116",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472263549194": {
+   "handle": "golvmatta-tunturi-golvskyddsmatta-227-x-90-x-0-4-cm-14tusfu120",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472264532234": {
+   "handle": "treadmill-hammer-flyrun-2-0-13001",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472264597770": {
+   "handle": "tr-ningsb-nk-finnlo-by-hammer-ab-back-trainer-3869",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472264630538": {
+   "handle": "l-pband-finnlo-by-hammer-endurance-tft-3504",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472264827146": {
+   "handle": "exercise-bike-tunturi-signature-e40-23tbe40000",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472264859914": {
+   "handle": "power-station-finnlo-by-hammer-multi-gym-autark-600-3930",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472264958218": {
+   "handle": "rodd-ergometer-finnlo-by-hammer-aquon-evolution-3705",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472265318666": {
+   "handle": "multifunctional-trainer-christopeit-sp-2000-30-2280",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472265384202": {
+   "handle": "treadmill-christopeit-cs-3000-30-2220a-1",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472265580810": {
+   "handle": "exercise-bike-christopeit-bt-4-30-1726",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472268366090": {
+   "handle": "treadmill-hammer-flyrun-4-0-13002",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472268497162": {
+   "handle": "rodd-ergometer-hammer-cobra-xtr-plus-4533",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472268693770": {
+   "handle": "viktplatta-tunturi-plate-svart-30-mm-5-kg-14tuscl096-1",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472269447434": {
+   "handle": "dumbbell-rack-tunturi-dumbbell-tower-14tuscl200",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472271511818": {
+   "handle": "tunturi-eva-lyftb-lte-medium-105-cm-14tuscl386-1",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472277442826": {
+   "handle": "tunturi-balance-trainer-incl-tubings-14tusfu152-1",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472277508362": {
+   "handle": "trampoline-tunturi-4-folding-fitness-trampoline-14tusfu272",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472278163722": {
+   "handle": "hantlar-christopeit-2-x-3-kg-svart-30-1872",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472278753546": {
+   "handle": "gymnastikmatta-toorx-fitnessmat-med-handtag-bl-mat-172",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472279671050": {
+   "handle": "stretchgummi-toorx-elastic-tube-stark-svart-ahf-146",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472279703818": {
+   "handle": "stretching-gummi-toorx-elastic-tube-light-r-d-ahf-144",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472279867658": {
+   "handle": "toorx-dubbel-tr-ningshjul-svart-orange-ahf-047",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472279900426": {
+   "handle": "handleddboll-toorx-power-grip-ball-ahf-020",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472279933194": {
+   "handle": "hopprep-toorx-hopprep-med-mjuka-handtag-gul-ahf-017",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472280883466": {
+   "handle": "hantlar-tunturi-neoprene-dumbbells-1-5kg-gul-14tuscl375",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472281342218": {
+   "handle": "sadel-f-r-motionscykel-tunturi-comfort-seat-14tusfu317",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472281407754": {
+   "handle": "yogamatta-toorx-yoga-mat-lila-mat-174",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472283308298": {
+   "handle": "exercise-bike-christopeit-et-3-1-30-2408",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472283963658": {
+   "handle": "aerobic-stepper-tunturi-aerobic-step-easy-14tuscl357",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472284127498": {
+   "handle": "golvmatta-tunturi-golvskyddsmatta-65-x-52-x-0-4-cm-14tusfu319",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472287371530": {
+   "handle": "hand-och-fotvikter-toorx-hand-fotvikter-2-x-0-5-kg-ahf-071",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472289632522": {
+   "handle": "tunturi-tr-ningsmultifunktionell-motst-ndsbandset-14tusfu199",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472289665290": {
+   "handle": "yogamatta-tunturi-cork-tpe-yoga-mat-14tusyo058",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472289698058": {
+   "handle": "tunturi-wrist-ankle-weights-2-25kg-14tusfu168",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472289763594": {
+   "handle": "tr-ningsmatta-hammer-skyddsmatta-s-18000",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472289829130": {
+   "handle": "pulsb-lte-tunturi-digital-hr-monitor-chest-belt-14tusru185",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472289861898": {
+   "handle": "styrketr-ningsset-tunturi-hantel-skivst-ngsset-20-kg-14tuscl454",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472290353418": {
+   "handle": "bh-fitness-golvskyddsmatta-200-x-90-x-0-5-cm-0191010",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472295137546": {
+   "handle": "hantel-och-skivst-ngsset-tunturi-hantel-skivst-ngsset-20kg-j-rn-14tuscl452",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472296546570": {
+   "handle": "weight-plates-for-christopeit-sp2000-30-9389",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472298250506": {
+   "handle": "mini-bike-tunturi-mini-bike-basic-14tusfu382-1",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472298381578": {
+   "handle": "stepper-tunturi-stepper-svart-inkl-display-14tusfu383",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472298545418": {
+   "handle": "power-rack-hammer-bio-force-3842",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472298578186": {
+   "handle": "tr-ningsmaskin-finnlo-by-hammer-autark-1500-3943",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472298676490": {
+   "handle": "treadmill-hammer-q-vadis-10-0-5163",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472298873098": {
+   "handle": "pulsb-lte-finnlo-by-hammer-chest-belt-6805",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472299233546": {
+   "handle": "viktplatta-toorx-bumper-plate-challenge-gr-n-50-mm-10-kg-dbch-10",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472299331850": {
+   "handle": "viktplatta-toorx-bumper-plate-challenge-r-d-50-mm-25-kg-dbch-25",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472299462922": {
+   "handle": "kettlebell-toorx-pro-cross-evo-12-kg-kpce-12",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472300085514": {
+   "handle": "trampolin-toorx-trampoline-97-cm-tf-01",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472300118282": {
+   "handle": "walking-pad-toorx-trx-walker-evo-trx-walkerevo",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472300216586": {
+   "handle": "trampolin-toorx-trampoline-pro-122-cm-tf-03",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472300249354": {
+   "handle": "tr-ningsmatta-toorx-fitness-mat-100-pro-orange-mat-101pro",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472300478730": {
+   "handle": "balanskudde-toorx-evo-ball-absolute-svart-ahf-170",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472300642570": {
+   "handle": "tr-ningsmatta-toorx-fitness-mat-100-pro-bl-mat-100pro-1",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472300904714": {
+   "handle": "aerobic-step-b-nk-toorx-advance-step-ahf-002",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472301068554": {
+   "handle": "toorx-air-cushion-gr-n-ahf-043",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472301691146": {
+   "handle": "varbsein-toorx-swedist-wall-bar-ahf-158",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472302477578": {
+   "handle": "dumbbell-hammer-dumbbell-set-15kg-6721",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472302936330": {
+   "handle": "hammer-viktplatta-30-mm-5-kg-17003",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472305033482": {
+   "handle": "treadmill-bh-fitness-rs800-multimedia-g6176tft",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472306737418": {
+   "handle": "treadmill-bh-fitness-runlab-plus-g6311-1",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472306901258": {
+   "handle": "hammer-multi-lat-tower-3877",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472308605194": {
+   "handle": "hopf-llbar-motionscykel-bh-fitness-x-tri-2-med-ryggst-d-yf910",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472308834570": {
+   "handle": "toorx-fabric-bands-strong-ahf-268",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472310866186": {
+   "handle": "golvmatta-tunturi-fluid-anti-slip-protection-mat-225-x-90-x-0-5-cm-24fapm0000-1",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472310931722": {
+   "handle": "tunturi-mini-resistance-band-set-5-st-14tusyo099-1",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472311095562": {
+   "handle": "golvmatta-toorx-gummi-golv-i-rulle-1000-x-125-x-0-6-cm-pant-14",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472315126026": {
+   "handle": "kettlebell-tunturi-platinum-rubber-kettlebell-4-kg-25tupla051-1",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472323318026": {
+   "handle": "rowing-machine-bh-fitness-i-hudson-r325",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472323481866": {
+   "handle": "weight-bench-bh-fitness-adjustable-g322",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472328757514": {
+   "handle": "kettlebell-toorx-olympic-evo-lila-18-kg-kcae-20",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472329380106": {
+   "handle": "sangpomm-toorx-vinyl-kettlebell-20-kg-krv-22",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472346779914": {
+   "handle": "lyftst-ng-tunturi-skivst-ng-30-mm-120-cm-skruv-14tuscl234-1",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472346812682": {
+   "handle": "aerobic-stepper-tunturi-aero-step-14tuscl270",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472349237514": {
+   "handle": "justerbar-hantel-tunturi-selector-dumbbell-25kg-14tuscl383",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472349270282": {
+   "handle": "st-ll-f-r-hantlar-tunturi-mx-select-dumbbells-stand-22mxs00000",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472350220554": {
+   "handle": "hantlar-tunturi-neoprene-dumbbells-1kg-orange-14tuscl374",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472505934090": {
+   "handle": "justerbar-hantel-tunturi-mx55-hantel-4-5-24-9-kg-24mxc55000",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10475371233546": {
+   "handle": "tunturi-f-rvaringskrok-f-r-tr-ningsrep-14tuscf015",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10475372740874": {
+   "handle": "viktskivor-tunturi-skivor-svart-30-mm-2-5-kg-14tuscl095",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10475515642122": {
+   "handle": "motionscykel-toorx-srx-speed-mag-pro-srx-speed-mag-pro",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10475517804810": {
+   "handle": "boxningshandskar-toorx-jaguar-boxningshandskar-l-xl-bot-007",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10480052207882": {
+   "handle": "hopf-llbar-motionscykel-christopeit-s-bike-velo-fit-svart-30-2560",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10480054501642": {
+   "handle": "hantel-och-skivst-ngsset-christopeit-4-i-1-hantelset-20-kg-21-3932",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10486622355722": {
+   "handle": "motionscykel-tunturi-cardio-fit-d20-deskbike-18tcfd2000",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10494672929034": {
+   "handle": "tunturi-pe-kettlebell-2kg-14tuscl102",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10494687346954": {
+   "handle": "hantelset-med-st-ll-tunturi-centuri-neopren-hantelset-3-par-st-ll-22ctscl107-1",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10494691377418": {
+   "handle": "hopprep-christopeit-pro-med-vikter-30-1689",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10494691639562": {
+   "handle": "tr-ningsb-nk-christopeit-horse-glider-30-1732",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10494691672330": {
+   "handle": "christopeit-xxl-exercise-mat-30-2002",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10494693507338": {
+   "handle": "roddmaskin-christopeit-wp-5000-ektr-30-2265",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10507302338826": {
+   "handle": "tr-ningskabel-finnlo-by-hammer-cable-6781",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10515744194826": {
+   "handle": "motionscykel-toorx-brx95-comfort-brx-r95-comfort",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10515747897610": {
+   "handle": "minibike-toorx-everfit-welly-m-welly-m",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10548235403530": {
+   "handle": "tunturi-pe-kettlebell-8kg-14tuscl105",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10572603130122": {
+   "handle": "motionscykel-christopeit-eco-1000-30-2001",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10572635308298": {
+   "handle": "powerb-nk-christopeit-wb-1000-30-2052",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10588446130442": {
+   "handle": "tr-ningscykel-tunturi-centuri-e100-23cbe10000",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10588448129290": {
+   "handle": "tunturi-rapid-justerbar-hantelst-ng-11kg-14tuscl468",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10588451471626": {
+   "handle": "viktv-ska-tunturi-platinum-bulgarian-bag-10-kg-25tupla092",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10588451602698": {
+   "handle": "tunturi-platinum-slam-ball-6-kg-25tupla095",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10589706092810": {
+   "handle": "spinningcykel-hammer-speed-race-x-10018",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10605355172106": {
+   "handle": "viktv-st-tunturi-weight-vest-pro-30kg-14tuscf098",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10605384892682": {
+   "handle": "viktb-nk-hammer-force-5-0-16004",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10612569211146": {
+   "handle": "tunturi-door-way-chinning-bar-14tusfu145",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10624082673930": {
+   "handle": "gymnastikmatta-toorx-mat-med-handtag-lila-mat-185",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10624082968842": {
+   "handle": "tr-ningshandskar-toorx-tyngdlyftningshandskar-svart-ahf-039",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10635766169866": {
+   "handle": "bh-fitness-multigym-plus-svart-g112b",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10635767382282": {
+   "handle": "bh-fitness-power-rack-tr-ningsst-llning-g310",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10650166690058": {
+   "handle": "motionscykel-hammer-cardio-motion-bt-4855",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10650169475338": {
+   "handle": "kettlebell-hammer-premium-14kg-17365",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10650169508106": {
+   "handle": "tr-ningsmatta-hammer-puzzlemat-basic-120-x-185-x-1-2-cm-18011",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10650169573642": {
+   "handle": "tr-ningsmatta-hammer-professional-floor-mat-l-18007",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10650210435338": {
+   "handle": "kettlebell-hammer-premium-24kg-17370",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10650210468106": {
+   "handle": "kettlebell-hammer-premium-4kg-17360",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10650210533642": {
+   "handle": "hammar-snabbl-s-f-r-skivst-ng-svart-aluminium-17615",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10650210566410": {
+   "handle": "hammer-snabbl-s-f-r-skivst-ng-premium-svart-aluminium-17616",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10650210599178": {
+   "handle": "lever-locks-hammer-fastlock-17618",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10650210664714": {
+   "handle": "lyftst-ng-hammer-skivst-ng-183-cm-250-kg-50-mm-17611",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10650210861322": {
+   "handle": "gymnastikmatta-hammer-2in1-fitness-tr-ningsmatta-70500",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10656692076810": {
+   "handle": "viktplatta-hammer-octagon-viktplatta-50mm-5-kg-17032",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10665225912586": {
+   "handle": "spinningcykel-toorx-srx-speed-mag-srx-speed-mag",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10665225945354": {
+   "handle": "spinningcykel-toorx-srx-speed-mag-srx-speed-mag-1",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10665232335114": {
+   "handle": "treadmill-bh-fitness-nydo-g6541",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10673179656458": {
+   "handle": "lyftst-ng-hammer-maximum-pro-800kg-220cm-50mm-17617",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10676602732810": {
+   "handle": "roddmaskin-tunturi-fitrow-90i-by-fluid-24tfrw9000",
+   "kohort": "T",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10406816186634": {
+   "handle": "tunturi-kettlebell-24kg-svart",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10411677745418": {
+   "handle": "squat-drill-tunturi-wt60-power-rack",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10411688132874": {
+   "handle": "viktplatta-tunturi-olympic-rubber-plate-50-mm-5-kg",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10411721392394": {
+   "handle": "traningshandskar-tunturi-fitness-gloves-fit-sport",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10411731616010": {
+   "handle": "motionscykel-tunturi-cardio-fit-b40",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10411741085962": {
+   "handle": "traningsstall-tuntur-pt60-power-tower",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10411753505034": {
+   "handle": "viktplatta-tunturi-plate-black-30-mm-10-kg",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10411853414666": {
+   "handle": "viktskivor-tunturi-plates-black-30-mm-0-5kg",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10411853512970": {
+   "handle": "tunturi-viktlyftarbalte-90cm-svart",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10411860361482": {
+   "handle": "yoga-set-toorx-yoga-set",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10411898339594": {
+   "handle": "rodd-ergometer-tunturi-cardio-fit-r25",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10411924128010": {
+   "handle": "viktplatta-toorx-bumper-plate-crumb-50-mm-15-kg",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10411928649994": {
+   "handle": "toorx-push-up-bars",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10430247698698": {
+   "handle": "minibike-toorx-everfit-welly-e",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10430372151562": {
+   "handle": "gymnastikboll-tunturi-gymball-55cm-anti-burst-mint",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10461961224458": {
+   "handle": "lyftst-ngset-tunturi-aerobic-pump-set-20kg-14tuscl353",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10461966860554": {
+   "handle": "roddmaskin-tunturi-star-fit-r100-18tsfr1000",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10462169235722": {
+   "handle": "hand-och-fotledsvikter-spokey-home-jungle-2x1-kg-bl-fl-ckig-941524",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10462175265034": {
+   "handle": "gymnastikboll-hms-yb03n-gym-ball-65-cm-gr-17-42-185",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10462191190282": {
+   "handle": "hantel-tunturi-hantelset-15kg-skruv-14tuscl235",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10462191223050": {
+   "handle": "dumbbell-tunturi-vinyl-dumbbellset-15kg-14tuscl354",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10462201839882": {
+   "handle": "viktplatta-tunturi-training-bumper-plate-50-mm-15-kg-14tuscf058",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10462229463306": {
+   "handle": "exercise-bike-tunturi-competence-f20-17tbf20000",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10462774690058": {
+   "handle": "trampoline-tunturi-funhop-trampoline-125cm-14tusga006",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10462776361226": {
+   "handle": "balansplatta-tunturi-air-stepper-pad-turkos-14tusyo002-1",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10462778753290": {
+   "handle": "hantlar-tunturi-vinyl-dumbbells-1-0kg-lila-14tusfu109-1",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10462779867402": {
+   "handle": "treadmill-bh-fitness-i-f2w-g6473i",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10462781571338": {
+   "handle": "yogamatta-toorx-yoga-mat-bl-gr-mat-183",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10462782423306": {
+   "handle": "styrketr-ningsset-toorx-3-in-1-set-mbkcr-18",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10462786748682": {
+   "handle": "rowing-ergometer-hammer-rowflow-10-0-12002",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10462794776842": {
+   "handle": "hantlar-tunturi-vinyl-dumbbells-3-0kg-red-14tusfu111-1",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10462836490506": {
+   "handle": "tunturi-rapid-justerbart-kettlebellhandtag-3-5kg-14tuscl469",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10468709761290": {
+   "handle": "power-bench-tunturi-sm60-half-smith-17tssm6000-1",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10468718051594": {
+   "handle": "power-station-hammer-multi-gym-ferrum-tx3-9041",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10468731683082": {
+   "handle": "stretch-rubber-tunturi-power-band-heavy-blue-14tuscf030-2",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10468734206218": {
+   "handle": "bh-fitness-golvskyddsmatta-120-x-60-x-0-5-cm-191009",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10470900367626": {
+   "handle": "powerb-nk-tunturi-hg10-home-gym-17tshg1000",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10470912950538": {
+   "handle": "viktplatta-tunturi-rubber-plate-30-mm-10-kg-14tuscl146",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10470923010314": {
+   "handle": "tuntur-treadmill-handrail-extension-22trnrh000",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10470935068938": {
+   "handle": "mini-cykel-tunturi-cardio-fit-m40-mini-bike-23tcfm4000",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10470935593226": {
+   "handle": "treadmill-bh-fitness-pioneer-senior-g6484h",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10470970589450": {
+   "handle": "mini-bike-tunturi-mini-bike-pro-chair-bike-14tusfu380",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10470971408650": {
+   "handle": "rodd-ergometer-hammer-pro-force-ii-4541",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10471009943818": {
+   "handle": "treadmill-tunturi-performance-t60-22trn60000",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10471026819338": {
+   "handle": "stretching-rubber-set-tunturi-resistance-trainer-14tusfu308",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10471027212554": {
+   "handle": "ben-och-armvikter-tunturi-arm-leg-weights-0-5-kg-14tusfu117",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10471027507466": {
+   "handle": "belt-tunturi-dipping-belt-14tuscl247",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10471164084490": {
+   "handle": "toorx-bumper-plate-challenge-blue-50-mm-20-kg-dbch-20",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472203518218": {
+   "handle": "tunturi-battle-rope-9-m-14tuscf002",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472208236810": {
+   "handle": "tr-ningsboll-tunturi-slam-ball-10-kg-14tuscf024",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472211448074": {
+   "handle": "viktplatta-tunturi-rubber-plate-30-mm-5-kg-14tuscl145",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472212332810": {
+   "handle": "hantel-tunturi-hantelset-20kg-skruv-14tuscl236-1",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472213348618": {
+   "handle": "dumbbells-tunturi-neoprene-dumbbells-0-5kg-pink-14tuscl373",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472214724874": {
+   "handle": "hula-hoop-tunturi-hula-hoop-1-5kg-14tusfu275-1",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472216985866": {
+   "handle": "tunturi-push-up-bars-svart-gr-14tusfu140",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472225046794": {
+   "handle": "mini-cykel-tunturi-cardio-fit-d10-under-desk-bike-18tcfd1000-2",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472229044490": {
+   "handle": "exercise-mat-christopeit-m-30-1398",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472245657866": {
+   "handle": "hantel-zipro-hex-2-5kg-svart-10947170",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472248901898": {
+   "handle": "viktskivor-tunturi-rubber-plates-30-mm-0-5kg-14tuscl142",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472248967434": {
+   "handle": "extra-block-f-r-aerobic-stepper-tunturi-aerobic-step-foot-block-14tuscl271",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472249065738": {
+   "handle": "justerbar-hantel-tunturi-selector-dumbbell-12-5-kg-14tuscl400",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472249196810": {
+   "handle": "motionscykel-tunturi-cardio-fit-b30-16tcfb3000",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472249884938": {
+   "handle": "balansplatta-tunturi-pro-balance-trainer-14tusfu303",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472251064586": {
+   "handle": "viktv-ska-spokey-sandi-2kg-svart-929861",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472252277002": {
+   "handle": "tr-ningsb-nk-tunturi-ub20-utility-bench-17tsub2000",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472253686026": {
+   "handle": "minicykel-med-motor-tunturi-cardio-fit-m50-minibike-motorized-23tcfm5000",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472253849866": {
+   "handle": "spinningcykel-tunturi-cardio-fit-s20-sprinter-bike-23tcfs2000",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472255389962": {
+   "handle": "exercise-bike-tunturi-signature-e60-23tbe60000",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472256897290": {
+   "handle": "tr-ningsb-nk-tunturi-ct40-core-trainer-17tsct4000",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472258896138": {
+   "handle": "motionscykel-tunturi-star-fit-x100-x-bike-18tsfx1000",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472259944714": {
+   "handle": "viktplatta-tunturi-plate-black-30-mm-20-kg-14tuscl099",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472260075786": {
+   "handle": "hantel-st-ngset-tunturi-vinyl-hantel-st-ngset-50kg-14tuscl356",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472260862218": {
+   "handle": "fitnessboll-tunturi-slam-ball-15-kg-14tuscf025-1",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472261320970": {
+   "handle": "tr-ningsbox-tunturi-plyo-box-soft-eva-50-60-75cm-14tuscf080",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472262041866": {
+   "handle": "motionscykel-bh-fitness-ec01-exercycle-h9365r",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472262271242": {
+   "handle": "rowing-ergometer-bh-fitness-kingston-r385-1",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472263876874": {
+   "handle": "hopprep-tunturi-jumprope-med-r-knare-14tusfu187-1",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472264892682": {
+   "handle": "tr-ningsb-nk-finnlo-by-hammer-tricon-3868",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472264925450": {
+   "handle": "exercise-bike-tunturi-signature-e50-23tbe50000",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472265023754": {
+   "handle": "tr-ningsboll-tunturi-gymball-65-cm-mint-anti-burst-gr-n-14tusfu335",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472265646346": {
+   "handle": "motionscykel-christopeit-al-2-silver-30-1107b-1",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472268038410": {
+   "handle": "hula-ring-tunturi-justerbar-med-vikter-14tusfu318-1",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472268267786": {
+   "handle": "motionscykel-hammer-cardiopace-5-0-norsk-10001",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472268824842": {
+   "handle": "boxningshandskar-tunturi-allround-boxing-gloves-12oz-14tusbo012-1",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472270561546": {
+   "handle": "boxing-gloves-hammer-x-shock-12oz-95313",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472276459786": {
+   "handle": "tr-ningsb-nk-tunturi-fb20-flat-bench-17tsfb2000",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472277836042": {
+   "handle": "training-bench-christopeit-te-1000-30-2251",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472278655242": {
+   "handle": "exercise-bike-toorx-brx-100-ergo-brx-100ergo",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472278688010": {
+   "handle": "exercise-bike-toorx-brx-300-brx-300",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472278786314": {
+   "handle": "toorx-professional-foldable-mat-bl-mat-178",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472279572746": {
+   "handle": "boxningshandskar-toorx-jaguar-boxing-gloves-s-m-bot-006",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472279736586": {
+   "handle": "tr-ningshandskar-toorx-viktlyfthandskar-lila-svart-ahf-029",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472280817930": {
+   "handle": "lyftst-ngsd-mpning-f-r-nacken-tunturi-ts14tuscl250",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472280949002": {
+   "handle": "finnlo-by-hammer-autark-2200-power-station-3944",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472281145610": {
+   "handle": "justerbar-hantel-tunturi-mx-select-mx30-dumbbell-3-4-13-9-kg-22mx300000",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472281440522": {
+   "handle": "yogamatta-toorx-yoga-mat-gr-n-mat-173",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472281735434": {
+   "handle": "hula-hoop-tunturi-hula-hoop-1-2kg-14tusfu188",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472281768202": {
+   "handle": "hantel-gymstick-studio-hantel-3-kg-r-d-gym61068-3",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472282161418": {
+   "handle": "multifunctional-trainer-christopeit-sp-5000-30-2281",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472283701514": {
+   "handle": "dumbbells-tunturi-dumbbellset-20kg-14tuscl092",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472283996426": {
+   "handle": "hantlar-tunturi-pu-pro-hantelset-2-12kg-14tuscf050-2",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472285733130": {
+   "handle": "golvmatta-tunturi-golvskyddsmatta-70-x-100-x-0-4-cm-14tusfu114",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472285798666": {
+   "handle": "golvmatta-tunturi-golvskyddsmatta-87-x-160-x-0-4-cm-14tusfu115",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472287338762": {
+   "handle": "rowing-ergometer-christopeit-garda-30-2461",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472287469834": {
+   "handle": "lyftst-ngsset-gymstick-pump-set-20-kg-rosa-gym62053",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472288420106": {
+   "handle": "power-plant-hammer-multi-gym-bioforce-extreme-pro-14000",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472288485642": {
+   "handle": "chin-up-exercise-bench-hammer-bench-pullup-dip-16000",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472289042698": {
+   "handle": "treadmill-walking-pad-hammer-walk-2-0-13007",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472289108234": {
+   "handle": "stretch-band-tunturi-power-band-medium-gr-n-14tuscf029",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472289796362": {
+   "handle": "gymnastikmatta-tunturi-fitnessmat-pro-180cm-svart-14tusfu266",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472289894666": {
+   "handle": "lyftst-ngset-tunturi-aerobic-pump-set-20-kg-14tuscl456",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472289960202": {
+   "handle": "viktskivor-tunturi-aerobic-pump-plates-10-kg-14tuscl459",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472290091274": {
+   "handle": "hantlar-tunturi-vinyl-dumbbells-2-x-5-kg-black-14tusfu113-1",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472296775946": {
+   "handle": "justerbar-hantel-tunturi-mx55-hantel-4-5-24-9-kg-r-fflad-24mxk55000-1",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472298086666": {
+   "handle": "skruvar-f-r-fasts-ttning-av-extra-vikter-till-hantlar-tunturi-rapid-long-screw-14tuscl466",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472298217738": {
+   "handle": "hantel-tunturi-rapid-justerbar-hantel-20kg-14tuscl464",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472298447114": {
+   "handle": "l-pband-finnlo-by-hammer-alpine-tft-3502",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472299397386": {
+   "handle": "hopprep-toorx-steel-speed-jumprope-med-plasthandtag-svart-ahf-086",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472299430154": {
+   "handle": "toorx-wooden-balance-board-ahf-136",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472299561226": {
+   "handle": "sangpomm-toorx-vinyl-kettlebell-12-kg-krv-12",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472299954442": {
+   "handle": "st-ende-boxboll-toorx-st-ende-boxboll-professional-bot-036",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472300052746": {
+   "handle": "sangpomm-toorx-vinyl-kettlebell-10-kg-krv-10",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472300183818": {
+   "handle": "hoptr-ningscykel-toorx-brx-compact-brx-compact",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472300675338": {
+   "handle": "tr-ningsmatta-toorx-studio-mat-120-svart-mat-120studio",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472300708106": {
+   "handle": "tr-ningsmatta-toorx-fitness-mat-172-pro-orange-mat-171pro",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472300806410": {
+   "handle": "tr-ningsmatta-toorx-fitness-mat-172-pro-bl-mat-172pro-1",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472300839178": {
+   "handle": "tr-ningsmatta-toorx-studio-mat-173-svart-mat-173studio-2",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472301101322": {
+   "handle": "gymnastikboll-toorx-toning-ball-lila-1-5kg-ahf-066",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472301166858": {
+   "handle": "toorx-toning-ball-gr-n-1kg-ahf-065",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472301297930": {
+   "handle": "hantel-hammer-dumbbell-set-10kg-krom-6750",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472301461770": {
+   "handle": "hantel-hammer-dumbbell-set-10kg-j-rn-6720",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472302280970": {
+   "handle": "hammer-puzzle-mat-100-x-50-x-2-5-2-delad-3916",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472302313738": {
+   "handle": "golvmatta-hammer-studio-floor-mat-100-x-100-x-1-5-cm-18010",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472302575882": {
+   "handle": "tunturi-free-stand-boxing-dummy-14tusbo109-2",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472305164554": {
+   "handle": "spinning-bike-bh-fitness-i-rhone-h1205",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472305557770": {
+   "handle": "tr-ningshandskar-toorx-professional-gloves-svart-r-d-ahf-42",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472306475274": {
+   "handle": "treadmill-bh-fitness-rx3-g6478-1",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472306671882": {
+   "handle": "treadmill-bh-fitness-sherpa-run-g6319-1",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472308539658": {
+   "handle": "tunturi-mini-resistance-band-set-4-st-14tusyo098",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472308867338": {
+   "handle": "exercise-bike-christopeit-active-30-2561",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472311128330": {
+   "handle": "gymnastikgummiband-set-toorx-latex-bands-medium-ahf-200",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472311226634": {
+   "handle": "motionscykel-christopeit-et-5-1-svart-30-2570",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472311357706": {
+   "handle": "viktskivor-tunturi-platinum-fractional-plates-gr-n-50mm-2-x-1-kg-25tupla047",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472325349642": {
+   "handle": "kettlebell-hammer-premium-kettlebell-22-kg-17369",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472326627594": {
+   "handle": "smith-masin-hammer-smith-machine-ma50-16007",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472326660362": {
+   "handle": "viktv-st-tunturi-weighted-vest-10kg-14tuscl246-3",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472327905546": {
+   "handle": "sangpomm-toorx-absolute-kettlebell-20-kg-akca-20",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472328790282": {
+   "handle": "sangpomm-toorx-olympic-evo-kettlebell-lila-20-kg-kcae-22",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472328823050": {
+   "handle": "sangpomm-toorx-vinyl-kettlebell-18-kg-krv-20",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472334262538": {
+   "handle": "treadmill-hammer-flyrun-4-0-norsk-13017",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472349171978": {
+   "handle": "hantelst-ll-tunturi-pro-hantelst-ll-pl-tar-14tuscf054",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472349630730": {
+   "handle": "hula-hoop-tunturi-hula-hoop-1-8kg-14tusfu276",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472349663498": {
+   "handle": "olja-f-r-l-pband-tunturi-t-lube-200ml-14tusfu315",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10472518549770": {
+   "handle": "minicykel-med-display-tunturi-minicykel-hopf-llbar-inkl-display-14tusfu381",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10474037838090": {
+   "handle": "justerbar-hula-hoop-med-vikt-tunturi-justerbar-hula-hoop-stor-inkl-vikter-14tusfu321",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10475369791754": {
+   "handle": "tr-ningsrep-tunturi-battle-rope-12m-14tuscf003",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10475372642570": {
+   "handle": "tunturi-competition-kettlebell-8kg-14tuscf067",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10475373101322": {
+   "handle": "tunturi-pro-pull-up-bar-v-ggmonterad-14tuscf085",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10475373429002": {
+   "handle": "hantelset-tunturi-hantelset-10-kg-1-st-ng-14tuscl101",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10475386503434": {
+   "handle": "multifunktionell-d-rrst-ng-tunturi-multifunctional-door-gym-14tusfu245",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10475515478282": {
+   "handle": "spinning-bike-toorx-srx-evolve-srx-evolve",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10475983175946": {
+   "handle": "tunturi-battle-rope-v-ggf-ste-14tuscf013",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10476097667338": {
+   "handle": "styrketr-ningsset-toorx-4-in-1-set-mbkcr-18mcr-18",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10480045129994": {
+   "handle": "roddmaskin-tunturi-cardio-fit-r20-16tcfr2000",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10480045424906": {
+   "handle": "tr-ningsbox-tunturi-plyo-box-wood-50-60-75cm-14tuscf078",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10480045850890": {
+   "handle": "motionscykel-christopeit-al-2-svart-30-11072b",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10480054534410": {
+   "handle": "sangpomm-christopeit-kettlebell-2kg-21-3584",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10480054599946": {
+   "handle": "sangpomm-christopeit-kettlebell-4kg-21-2547",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10486640345354": {
+   "handle": "motionscykel-tunturi-signature-e80-bike-23tbe80000",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10486688841994": {
+   "handle": "hammer-golvmatta-f-r-tr-ningsmaskiner-60-x-120-x-0-3-cm-6636",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10486688973066": {
+   "handle": "tr-ningsmatta-f-r-konditionsmaskiner-hammer-floor-protection-mat-xl-18008",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10494691115274": {
+   "handle": "exercise-mat-christopeit-l-30-1400",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10494900633866": {
+   "handle": "viktskivor-tunturi-platinum-fractional-plates-r-d-50mm-2-x-2-5-kg-25tupla050",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10507258495242": {
+   "handle": "hemmagym-tunturi-hg60-17tshg6000",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10507262624010": {
+   "handle": "viktb-nk-hammer-force-4-0-5202",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10507303354634": {
+   "handle": "tr-ningsb-nk-hammer-force-2-0-5200",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10508994150666": {
+   "handle": "spinning-bike-toorx-srx-70s-srx-70s",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10515743375626": {
+   "handle": "toorx-elastiskt-band-medium-gr-n-ahf-145",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10515743441162": {
+   "handle": "handtag-toorx-handgrips-med-soft-touch-handtag-svart-r-d-ahf-021",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10515747668234": {
+   "handle": "l-pband-toorx-city-compact-pure-bronze-city-compact-b",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10515747963146": {
+   "handle": "tyngdlyftningsst-ng-toorx-olympic-barbell-220cm-320-kg-50-mm-bo-220",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10515748323594": {
+   "handle": "hantel-toorx-gjutj-rn-10kg-val-10dgn",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10523460337930": {
+   "handle": "l-pband-tunturi-centuri-performance-t100-22crn10000",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10541111443722": {
+   "handle": "powerb-nk-tunturi-ct80-core-trainer-17tsct8000",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10541372801290": {
+   "handle": "kettlebell-tunturi-platinum-gjutj-rn-8-kg-25tupla071",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10548235862282": {
+   "handle": "tunturi-pe-kettlebell-10kg-14tuscl106",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10548292649226": {
+   "handle": "kettlebell-tunturi-platinum-gjutj-rn-4kg-25tupla069",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10565561745674": {
+   "handle": "treadmill-bh-fitness-rs800-g6176",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10565602410762": {
+   "handle": "tr-ningsb-nk-bh-fitness-optima-press-g330b",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10565603918090": {
+   "handle": "kn-b-jsb-nk-bh-fitness-squat-machine-g350",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10572633899274": {
+   "handle": "roddmaskin-christopeit-rw-1000-30-2460",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10572673941770": {
+   "handle": "l-pband-christopeit-tm-4000-s-30-2536",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10572675776778": {
+   "handle": "stepper-christopeit-climber-1000-30-2599",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10588446163210": {
+   "handle": "motionscykel-tunturi-centuri-e100-23cbe10000",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10589704421642": {
+   "handle": "stepper-toorx-everfit-step-twist-stepper-steptwist",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10589705371914": {
+   "handle": "l-pband-bh-fitness-luxor-lx30-g6190",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10589705568522": {
+   "handle": "bh-fitness-weight-bench-g312",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10605354254602": {
+   "handle": "yogamatta-tunturi-tpe-yogamat-4mm-lila-14tusyo036",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10624082641162": {
+   "handle": "gymnastikmatta-toorx-mat-med-handtag-bl-mat-160",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10624084115722": {
+   "handle": "gymnastikgummiband-toorx-elastic-band-strong-lila-ahf-008",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10624086507786": {
+   "handle": "motionscykel-hammer-speed-race-10021",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10635764498698": {
+   "handle": "spinning-bike-toorx-srx-50s-srx-50s",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10635766202634": {
+   "handle": "tr-ningsstation-bh-fitness-nevada-plus-g119b",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10650165772554": {
+   "handle": "frist-ende-boxningss-ck-tunturi-14tusbo096",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10650166755594": {
+   "handle": "roddmaskin-hammer-rowtech-norsk-12001h",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10650169213194": {
+   "handle": "gym-hammer-multigym-ferrum-tx2-9037",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10650210369802": {
+   "handle": "viktplatta-hammer-bumper-plate-gr-n-50mm-10-kg-17052",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10650210500874": {
+   "handle": "leverl-s-hammer-quick-locks-r-d-17614",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10650210730250": {
+   "handle": "lyftst-ng-hammer-premium-sz-curl-bar-225-kg-50mm-17641",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10650210763018": {
+   "handle": "hammer-barbell-shoulder-pad-17620",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10656691781898": {
+   "handle": "power-station-bh-fitness-power-tower-g340-1",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10656692011274": {
+   "handle": "motionscykel-hammer-cardio-xt7-10010",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10665225978122": {
+   "handle": "spinningcykel-toorx-srx-speed-mag-srx-speed-mag-2",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10665226010890": {
+   "handle": "spinningcykel-toorx-srx-speed-mag-srx-speed-mag-3",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10665231417610": {
+   "handle": "spinningcykel-hammer-hyrace-sr-10017",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  },
+  "gid://shopify/Product/10673179721994": {
+   "handle": "lyftst-ng-hammer-olympic-barbell-700kg-222cm-50mm-4702",
+   "kohort": "K",
+   "seo": {
+    "title": null,
+    "description": null
+   }
+  }
+ }
+}

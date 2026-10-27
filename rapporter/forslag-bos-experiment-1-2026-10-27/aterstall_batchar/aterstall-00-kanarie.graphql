@@ -1,0 +1,7 @@
+# Aterstall00 (kanarie, 1 produkt, original = null). Högst 20 alias. Körs bara av samordnaren efter Davids ja. Läs tillbaka resultatet och jämför mot utkast_fore_efter.json.
+mutation Aterstall00 {
+  p1: productUpdate(product: {id: "gid://shopify/Product/10472310931722", seo: {title: null, description: null}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+}

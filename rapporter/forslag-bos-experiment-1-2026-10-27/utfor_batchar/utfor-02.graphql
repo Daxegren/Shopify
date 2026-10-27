@@ -1,0 +1,79 @@
+# Utfor02 (batch 2, 19 produkter). Högst 20 alias. Körs bara av samordnaren efter Davids ja. Läs tillbaka resultatet och jämför mot utkast_fore_efter.json.
+mutation Utfor02 {
+  p1: productUpdate(product: {id: "gid://shopify/Product/10472323318026", seo: {title: "Roddmaskin BH Fitness i.Hudson", description: "BH Fitness i.Hudson är en roddmaskin med luft- och magnetmotstånd, 16 motståndsnivåer och 21 program. Bluetooth. Maxvikt för användaren 125 kg."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p2: productUpdate(product: {id: "gid://shopify/Product/10676602732810", seo: {title: "Roddmaskin Tunturi FitRow 90i by Fluid", description: "Tunturi FitRow 90i by Fluid är en roddmaskin med vattenmotstånd och stålram. Längd 218 cm, vikt 32 kg, maxvikt för användaren 150 kg."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p3: productUpdate(product: {id: "gid://shopify/Product/10572635308298", seo: {title: "Powerbänk Christopeit WB 1000, hopfällbar", description: "Christopeit WB 1000 är en hopfällbar powerbänk med 5 justerbara höjder och plats för förvaring av vikter. Lastkapacitet 200 kg, vikt 18 kg."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p4: productUpdate(product: {id: "gid://shopify/Product/10468724834570", seo: {title: "Träningsbänk Tunturi Centuri UB100", description: "Tunturi Centuri UB100 är en träningsbänk med sex lägen för ryggstödet och fyra för sätet. Lastkapacitet 200 kg. Passar 30 och 50 mm viktskivor."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p5: productUpdate(product: {id: "gid://shopify/Product/10468712939786", seo: {title: "Träningsbänk Tunturi UB90 Utility Bench Pro", description: "Tunturi UB90 Pro är en justerbar träningsbänk med transporthjul och TPR-handtag. Ryggstödet har 8 lägen och sitsen 3. Vikt 35 kg, mått 150 x 68 x 127 cm."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p6: productUpdate(product: {id: "gid://shopify/Product/10475372740874", seo: {title: "Viktskivor Tunturi 30 mm, 2 x 2,5 kg, svart", description: "Två viktskivor i järn à 2,5 kg från Tunturi, totalt 5 kg. Hålavstånd 30 mm, skivans diameter 15,8 cm och tjocklek 2,5 cm. Färg svart."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p7: productUpdate(product: {id: "gid://shopify/Product/10462778917130", seo: {title: "Hantlar Tunturi Vinyl 2 x 0,5 kg, rosa", description: "Set med två rosa vinylhantlar från Tunturi, 0,5 kg vardera. Gummilagret minskar ljudet vid träning och den vinklade formen hindrar att de rullar iväg."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p8: productUpdate(product: {id: "gid://shopify/Product/10472349237514", seo: {title: "Justerbar hantel Tunturi Selector 25 kg", description: "Tunturi Selector är en justerbar hantel där vikten väljs med en knapp, 2,5 till 25 kg i steg om 2,5 kg. Setet innehåller en hantel och en bas."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p9: productUpdate(product: {id: "gid://shopify/Product/10411923341578", seo: {title: "Skivstång Toorx Olympic 180 cm, 50 mm", description: "Toorx Olympic Barbell är en skivstång i stål, 180 cm lång, för 50 mm viktskivor. Lastkapacitet 320 kg. Inte lämplig för CrossFit eller funktionell träning."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p10: productUpdate(product: {id: "gid://shopify/Product/10472281407754", seo: {title: "Yogamatta Toorx, lila, 173 x 60 cm", description: "Toorx yogamatta i lila PVC, extra tunn med 0,4 cm tjocklek. Mått 173 x 60 cm. Mattan ger grepp mot golvet och passar stående övningar."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p11: productUpdate(product: {id: "gid://shopify/Product/10650169508106", seo: {title: "Träningsmatta Hammer Puzzlemat Basic", description: "Hammer Puzzlemat Basic är en träningsmatta i sex delar, 185 x 120 x 1,2 cm. Passar under konditionsmaskiner och dämpar ljud och vibrationer."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p12: productUpdate(product: {id: "gid://shopify/Product/10462847467786", seo: {title: "Hammer Puzzlemat Professional golvmatta", description: "Hammer Puzzlemat Professional är en golvmatta i sex delar, 156 x 104 x 2,5 cm. Skyddar parkett- och stengolv under tung utrustning. Kan byggas ut."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p13: productUpdate(product: {id: "gid://shopify/Product/10472260796682", seo: {title: "Wall ball Tunturi 10 kg, grön", description: "Tunturi Wall Ball 10 kg i grön och svart konstläder, fylld med ull och sand. Används för kast mot vägg, burpees och knäböj. Inte avsedd för sparkar."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p14: productUpdate(product: {id: "gid://shopify/Product/10462191124746", seo: {title: "Träningshandskar Tunturi Fit Control, läder", description: "Tunturi Fit Control är träningshandskar i läder med öppna fingrar, snörning och handledsremmar. Säljs som par i storlek XXL, för träning med vikter."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p15: productUpdate(product: {id: "gid://shopify/Product/10472213971210", seo: {title: "Aerobic stepper Tunturi Aerobic Power Step", description: "Tunturi Aerobic Power Step är en stepbräda på 108 x 41 cm som kan ställas på 10, 15 eller 20 cm höjd. Maxvikt 100 kg. Svart med gröna och grå detaljer."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p16: productUpdate(product: {id: "gid://shopify/Product/10612569211146", seo: {title: "Dörrstång för chins Tunturi, 68–103 cm", description: "Tunturi dörrstång för chins och pull-ups. Fästs i dörrkarmen och säkras med två gummihakar. Justerbar längd 68–103 cm, tål 100 kg, vikt 2 kg."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p17: productUpdate(product: {id: "gid://shopify/Product/10470888243466", seo: {title: "Leverlås Tunturi ABS Collar 30 mm, 2 st", description: "Två skivstångslås i svart plast från Tunturi för stänger med 30 mm diameter. Snäppfästet gör dem enkla att sätta på och ta av när viktskivor ska bytas."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p18: productUpdate(product: {id: "gid://shopify/Product/10472289829130", seo: {title: "Pulsbälte Tunturi Digital HR Monitor", description: "Digitalt pulsbälte från Tunturi med Bluetooth och ANT+. Kan kopplas till träningsklocka, smartphone eller cykeldator för pulsdata i realtid."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p19: productUpdate(product: {id: "gid://shopify/Product/10472277508362", seo: {title: "Fitnesstrampolin Tunturi 4-folding", description: "Tunturi 4-folding är en fitnesstrampolin som viks på mitten. Mått 140 x 60 cm, hopfälld 40 x 75 x 10 cm. Vikt 11 kg. Benen i olika längder ingår."}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+}

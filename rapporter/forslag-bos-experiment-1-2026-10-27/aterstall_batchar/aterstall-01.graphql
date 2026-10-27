@@ -1,0 +1,83 @@
+# Aterstall01 (batch 1, 20 produkter, original). Högst 20 alias. Körs bara av samordnaren efter Davids ja. Läs tillbaka resultatet och jämför mot utkast_fore_efter.json.
+mutation Aterstall01 {
+  p1: productUpdate(product: {id: "gid://shopify/Product/10472310931722", seo: {title: null, description: null}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p2: productUpdate(product: {id: "gid://shopify/Product/10605384892682", seo: {title: null, description: null}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p3: productUpdate(product: {id: "gid://shopify/Product/10515744194826", seo: {title: null, description: null}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p4: productUpdate(product: {id: "gid://shopify/Product/10472279933194", seo: {title: null, description: null}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p5: productUpdate(product: {id: "gid://shopify/Product/10411923276042", seo: {title: null, description: null}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p6: productUpdate(product: {id: "gid://shopify/Product/10430254809354", seo: {title: null, description: null}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p7: productUpdate(product: {id: "gid://shopify/Product/10475371233546", seo: {title: null, description: null}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p8: productUpdate(product: {id: "gid://shopify/Product/10472298545418", seo: {title: null, description: null}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p9: productUpdate(product: {id: "gid://shopify/Product/10470934741258", seo: {title: null, description: null}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p10: productUpdate(product: {id: "gid://shopify/Product/10472259584266", seo: {title: null, description: null}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p11: productUpdate(product: {id: "gid://shopify/Product/10588451602698", seo: {title: null, description: null}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p12: productUpdate(product: {id: "gid://shopify/Product/10472268366090", seo: {title: null, description: null}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p13: productUpdate(product: {id: "gid://shopify/Product/10472261288202", seo: {title: null, description: null}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p14: productUpdate(product: {id: "gid://shopify/Product/10462852284682", seo: {title: null, description: null}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p15: productUpdate(product: {id: "gid://shopify/Product/10588446130442", seo: {title: null, description: null}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p16: productUpdate(product: {id: "gid://shopify/Product/10515747897610", seo: {title: null, description: null}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p17: productUpdate(product: {id: "gid://shopify/Product/10471040975114", seo: {title: null, description: null}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p18: productUpdate(product: {id: "gid://shopify/Product/10472245625098", seo: {title: null, description: null}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p19: productUpdate(product: {id: "gid://shopify/Product/10471192166666", seo: {title: null, description: null}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+  p20: productUpdate(product: {id: "gid://shopify/Product/10472306737418", seo: {title: null, description: null}}) {
+    product { id handle seo { title description } }
+    userErrors { field message }
+  }
+}
