@@ -228,3 +228,35 @@ Filer:
 - Original: `/home/user/Shopify/rapporter/shopify-original-2026-10-27/bos-experiment-1-originaler.json` (alla 432, `null`/`null`).
 - `verktyg/`: `kohortval.py` (urval, slumpfrö 20261027), `bygg.py` (bygger alla filer och kontrollerar texterna), `utkast_data.py` och `utkast_justeringar.py` (texterna), `indata_live_pris_seo_2026-10-27.txt` (min inskrivning av live-svaret: id, lägsta pris, `S` om SEO redan satt), `indata_gorilla_vendor_seo_100_forsta.tsv`, `forkontroll.graphql`. Kör `python3 verktyg/bygg.py` från den här mappen. Indata om produkter kommer från ögonblicksbilden 2026-10-25 i `rapporter/bos-produkter-titlar-beskrivningar-2026-10-25.csv`.
 - **Svaghet i indata:** id och pris är inskrivna för hand ur 14 svar (671 rader). Jag har kontrollerat att alla id:n är unika och att antalet satta SEO-fält (10) stämmer med de 10 svar där fälten var ifyllda, men en felskrivning av enstaka pris kan inte uteslutas; pris används bara för prisband.
+
+## Rättelser och kompletteringar efter granskning och läskontroll (2026-10-27)
+
+Tillägg. Raderna ovan är orörda; där de motsägs gäller detta avsnitt.
+
+**1. DK och FI (granskarens fynd 1, kontrollerat med läsning i Shopify).**
+- Butikens språk: sv (grundspråk), da (publicerat), fi (publicerat), en (ej publicerat).
+- Läst för två produkter (`translatableResource`, `translations` för da och fi):
+  - 10472310931722 (T, SEO null): da och fi har översatt `title`, `body_html` och `product_type`. Fälten `meta_title` och `meta_description` finns inte i det översättningsbara innehållet, eftersom SEO-fälten är null.
+  - 10462768038154 (pilotprodukt med SEO satt): svenska `meta_title` och `meta_description` finns, men **da och fi saknar översättning av båda**.
+- Slutsats (bevisat om Shopifys data): när vi sätter svensk SEO uppstår ett `meta_title`/`meta_description` att översätta, och ingen översättning finns på da/fi.
+- Hypotes (inte sett i live-HTML; jag når inte butikerna härifrån): `.dk` och `.fi` visar då den svenska titeln och beskrivningen i stället för titeln på danska/finska, som de har i dag via produkttiteln. Det vore en försämring mot nuläget och strider mot att `.dk` och `.fi` ska ranka självständigt.
+- Konsekvens för planen: **kanariekörningen ska inkludera en kontroll av `<title>` och meta description på `.dk` och `.fi`** för kanarieprodukten. Utfaller hypotesen är experimentet obeslutat till dess en av två vägar är vald: (a) skriva da/fi-översättningar av SEO-fälten i samma batch (kräver översättningstext, ny nivå-B-bedömning), eller (b) avstå från skrivning på produkter som visas på .dk/.fi. Mätningen gäller i båda fallen bara `.se`.
+- Samma sak gäller de 10 pilotproduktena som redan har svensk SEO: kontrollera `.dk`/`.fi`-sidorna för dem nu.
+
+**2. Startdatum (fynd 2).** Bara 39 av 216 T-texter finns. Skrivningen får inte starta och 56-dagarsklockan inte börja förrän **alla** T-produkter som ingår är skrivna, annars får produkterna olika startdatum. Om bara 39 skrivs, är experimentet ett 39-mot-39-test och ska beskrivas så (ännu lägre styrka än nedan).
+
+**3. Design och mått (fynd 3).** Rubriken "valid slutsats" får inte användas. Med omkring 36 klick väntade under fönstret går bara en effekt på omkring 2,5 gånger att se. Villkoret +20 % går inte att visa och 150 klick / 3 000 visningar uppnås sannolikt inte; utfallet blir då "inte avgörbart". Skadegränsen (25 % färre visningar) ger falsklarm vid så små tal och används som stoppsignal för samordnaren att titta, inte som bevis. `baseline.sql` avgör före start om experimentet körs alls.
+
+**4. Texter (fynd 4) rättade i `verktyg/utkast_justeringar.py` och filerna byggda om med `verktyg/bygg.py` (alla kontroller passerade, 39 utkast):**
+- Hopprep Toorx: "Tillverkat av Toorx i Italien" borttaget (ursprung obekräftat, källan säger "(Italien)").
+- Puzzlemat Basic: "dämpar ljud och vibrationer" borttaget; nu "skyddar golvet under dem". Ordet "vibration" ingår i hälsoordslistan, så tidigare "0 träffar" gällde inte denna mening.
+- Tunturi ABS Collar: titeln ändrad från "Leverlås" till "Skivstångslås" (källan säger snäppfäste och skivstångslås).
+- Plyo Box: den förvirrande uppgiften "Mått 40 x 50 x 60 cm" borttagen.
+- Toorx Olympic Barbell: den negativa meningen "Inte lämplig för CrossFit" borttagen; ersatt med uppgifter ur källan.
+- Kvarstår för manuell läsning av granskare: de 177 texter som ännu inte finns.
+
+**5. Pris och Sandi (fynd 5).** Medianpriset i tabellen ovan (1 884 / 1 864) stämmer med `kohorter.csv`; granskarens 1 889 i båda grupperna kunde jag inte återskapa, så skillnaden är oförklarad och bör kontrolleras. Däremot stämmer att K-produkten Spokey Sandi (id 10472251064586, pris 9 kr) ligger kvar i par 115 tillsammans med T-produkten 10470997721354 (Spokey Twin gymnastikrulle, 189 kr). Båda ska tas ur kohorterna före start; ingen av dem finns bland de 39 utkasten. Då återstår 215 par. Produkt 10472250933514 (9 kr) finns inte i kohorterna.
+
+**6. Förkontroll (fynd 6).** `verktyg/forkontroll.graphql` hämtar nu `updatedAt`, `title`, `descriptionHtml`, `totalInventory` och `status` och ska köras för alla 432 id:n (50 per anrop) före varje skrivning och varje vecka. `utfor_batchar/forkontroll-01.graphql` fick samma fält.
+
+**7. Titelsuffix (fynd 7).** Att temat lägger till " – BEST OF SPORTS" är läst i `snippets/doc-head-core.liquid` men filen finns inte bland sparade original och `<title>` är inte sedd i live-HTML. Kanariekörningen ska verifiera `<title>` på `.se` innan resten skrivs.

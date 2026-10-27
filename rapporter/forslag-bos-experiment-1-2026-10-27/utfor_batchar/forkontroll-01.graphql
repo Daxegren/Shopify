@@ -1,6 +1,6 @@
 # Läsfråga (ingen skrivning): läs seo för de produkter ett batch rör. Byt listan mot id:n ur batchen.
 query Forkontroll {
   nodes(ids: ["gid://shopify/Product/10472310931722", "gid://shopify/Product/10605384892682", "gid://shopify/Product/10515744194826", "gid://shopify/Product/10472279933194", "gid://shopify/Product/10411923276042", "gid://shopify/Product/10430254809354", "gid://shopify/Product/10475371233546", "gid://shopify/Product/10472298545418", "gid://shopify/Product/10470934741258", "gid://shopify/Product/10472259584266", "gid://shopify/Product/10588451602698", "gid://shopify/Product/10472268366090", "gid://shopify/Product/10472261288202", "gid://shopify/Product/10462852284682", "gid://shopify/Product/10588446130442", "gid://shopify/Product/10515747897610", "gid://shopify/Product/10471040975114", "gid://shopify/Product/10472245625098", "gid://shopify/Product/10471192166666", "gid://shopify/Product/10472306737418"]) {
-    ... on Product { id handle status seo { title description } }
+    ... on Product { id handle status updatedAt title descriptionHtml totalInventory seo { title description } }
   }
 }

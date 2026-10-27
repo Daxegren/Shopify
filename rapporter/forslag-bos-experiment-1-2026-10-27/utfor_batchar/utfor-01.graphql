@@ -12,7 +12,7 @@ mutation Utfor01 {
     product { id handle seo { title description } }
     userErrors { field message }
   }
-  p4: productUpdate(product: {id: "gid://shopify/Product/10472279933194", seo: {title: "Hopprep Toorx med mjuka handtag, gult", description: "Toorx hopprep i gult med mjuka handtag och kullager. Setet innehåller två avtagbara vikter på 110 g vardera. Tillverkat av Toorx i Italien."}}) {
+  p4: productUpdate(product: {id: "gid://shopify/Product/10472279933194", seo: {title: "Hopprep Toorx med mjuka handtag, gult", description: "Toorx hopprep i gult med mjuka handtag och kullager. Setet innehåller två avtagbara vikter på 110 g vardera, så belastningen går att variera."}}) {
     product { id handle seo { title description } }
     userErrors { field message }
   }
@@ -48,7 +48,7 @@ mutation Utfor01 {
     product { id handle seo { title description } }
     userErrors { field message }
   }
-  p13: productUpdate(product: {id: "gid://shopify/Product/10472261288202", seo: {title: "Plyo box i trä Tunturi, 40/50/60 cm", description: "Tunturi Plyo Box Wood i 20 mm plywood för hopp, burpees och uppstigningar. Kan ställas på tre höjder: 40, 50 och 60 cm. Mått 40 x 50 x 60 cm."}}) {
+  p13: productUpdate(product: {id: "gid://shopify/Product/10472261288202", seo: {title: "Plyo box i trä Tunturi, 40/50/60 cm", description: "Tunturi Plyo Box Wood i 20 mm plywood för hopp, burpees och uppstigningar. Kan ställas på tre höjder: 40, 50 och 60 cm. Tillverkare: Tunturi."}}) {
     product { id handle seo { title description } }
     userErrors { field message }
   }

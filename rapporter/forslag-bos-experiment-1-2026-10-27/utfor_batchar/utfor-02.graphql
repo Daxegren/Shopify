@@ -32,7 +32,7 @@ mutation Utfor02 {
     product { id handle seo { title description } }
     userErrors { field message }
   }
-  p9: productUpdate(product: {id: "gid://shopify/Product/10411923341578", seo: {title: "Skivstång Toorx Olympic 180 cm, 50 mm", description: "Toorx Olympic Barbell är en skivstång i stål, 180 cm lång, för 50 mm viktskivor. Lastkapacitet 320 kg. Inte lämplig för CrossFit eller funktionell träning."}}) {
+  p9: productUpdate(product: {id: "gid://shopify/Product/10411923341578", seo: {title: "Skivstång Toorx Olympic 180 cm, 50 mm", description: "Skivstången Toorx Olympic Barbell är tillverkad av stål, är 180 cm lång och passar 50 mm viktskivor. Lastkapacitet 320 kg. Tillverkare: Toorx."}}) {
     product { id handle seo { title description } }
     userErrors { field message }
   }
@@ -40,7 +40,7 @@ mutation Utfor02 {
     product { id handle seo { title description } }
     userErrors { field message }
   }
-  p11: productUpdate(product: {id: "gid://shopify/Product/10650169508106", seo: {title: "Träningsmatta Hammer Puzzlemat Basic", description: "Hammer Puzzlemat Basic är en träningsmatta i sex delar, 185 x 120 x 1,2 cm. Passar under konditionsmaskiner och dämpar ljud och vibrationer."}}) {
+  p11: productUpdate(product: {id: "gid://shopify/Product/10650169508106", seo: {title: "Träningsmatta Hammer Puzzlemat Basic", description: "Hammer Puzzlemat Basic är en träningsmatta i sex delar, 185 x 120 x 1,2 cm. Passar under konditionsmaskiner och skyddar golvet under dem."}}) {
     product { id handle seo { title description } }
     userErrors { field message }
   }
@@ -64,7 +64,7 @@ mutation Utfor02 {
     product { id handle seo { title description } }
     userErrors { field message }
   }
-  p17: productUpdate(product: {id: "gid://shopify/Product/10470888243466", seo: {title: "Leverlås Tunturi ABS Collar 30 mm, 2 st", description: "Två skivstångslås i svart plast från Tunturi för stänger med 30 mm diameter. Snäppfästet gör dem enkla att sätta på och ta av när viktskivor ska bytas."}}) {
+  p17: productUpdate(product: {id: "gid://shopify/Product/10470888243466", seo: {title: "Skivstångslås Tunturi ABS, 30 mm, 2 st", description: "Två skivstångslås i svart plast från Tunturi för stänger med 30 mm diameter. Snäppfästet gör dem enkla att sätta på och ta av när viktskivor ska bytas."}}) {
     product { id handle seo { title description } }
     userErrors { field message }
   }

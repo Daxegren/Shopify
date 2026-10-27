@@ -1,6 +1,7 @@
-# Läsfråga: kör för alla id:n i originalfilen (50 per anrop) och jämför seo mot originalen. Ingen skrivning.
+# Läsfråga: kör för alla 432 id:n i originalfilen (50 per anrop) före varje skrivning och varje vecka under 56-dagarsfönstret. Ingen skrivning.
+# Jämför seo mot originalen (null/null före start), status mot ACTIVE, totalInventory > 0, och updatedAt/title/descriptionHtml mot förra läsningen.
 query Forkontroll($ids: [ID!]!) {
   nodes(ids: $ids) {
-    ... on Product { id handle status seo { title description } }
+    ... on Product { id handle status updatedAt title descriptionHtml totalInventory seo { title description } }
   }
 }
