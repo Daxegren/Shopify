@@ -260,3 +260,11 @@ Tillägg. Raderna ovan är orörda; där de motsägs gäller detta avsnitt.
 **6. Förkontroll (fynd 6).** `verktyg/forkontroll.graphql` hämtar nu `updatedAt`, `title`, `descriptionHtml`, `totalInventory` och `status` och ska köras för alla 432 id:n (50 per anrop) före varje skrivning och varje vecka. `utfor_batchar/forkontroll-01.graphql` fick samma fält.
 
 **7. Titelsuffix (fynd 7).** Att temat lägger till " – BEST OF SPORTS" är läst i `snippets/doc-head-core.liquid` men filen finns inte bland sparade original och `<title>` är inte sedd i live-HTML. Kanariekörningen ska verifiera `<title>` på `.se` innan resten skrivs.
+
+## Kanariekörning 2026-10-27 (Davids ja, nivå B inom BOS-labbet)
+
+- **Förkontroll (läsning):** produkt 10472310931722 var ACTIVE, lager 9, `seo` null/null, `updatedAt` 2026-09-28T05:20:48Z.
+- **Skrivning:** `utfor_batchar/utfor-00-kanarie.graphql`, en `productUpdate`, `userErrors` tomt. Tillbakaläsning: `seo.title` och `seo.description` är exakt utkastets texter, `updatedAt` nu 2026-10-27T17:49:55Z.
+- **Översättningar efter skrivning (läst):** `meta_title` och `meta_description` finns nu som översättningsbart svenskt innehåll. `da` och `fi` har översättning av `title`, `body_html` och `product_type`, men **inte av `meta_title` och `meta_description`**. Det bekräftar datasidan av DK/FI-hypotesen.
+- **Ej kontrollerat:** vad `.se`, `.dk` och `.fi` faktiskt renderar i `<title>` och meta description. Anrop mot butikerna från den här miljön ger tomt svar. Kontrollen görs av David i webbläsaren (visa sidans källa) på de tre adresserna för `tunturi-mini-resistance-band-set-5-st-14tusyo099-1`.
+- **Återställning (`aterstall-00-kanarie.graphql`) är ännu inte körd och `null`-återställningen därmed otestad.** Kanariesidan lämnas skriven så att `.dk`/`.fi` kan inspekteras. Fler batchar skrivs inte.
