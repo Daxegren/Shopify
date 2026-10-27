@@ -17,7 +17,7 @@ WITH k AS (
 ),
 s AS (
   SELECT DATE_TRUNC(d, ISOWEEK) AS week, SUM(orders) AS shopify_orders
-  FROM `PROJ.shopify.growth_daily_KEY`
+  FROM `PROJ.site_audit.growth_daily_KEY`
   WHERE d >= DATE_SUB(CURRENT_DATE('Europe/Stockholm'), INTERVAL 84 DAY)
   GROUP BY 1
 )
