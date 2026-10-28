@@ -201,3 +201,28 @@ H1 **stärks** om volymen ökar tydligt, marginellt ROAS ligger över break-even
 
 ## Källor (fil, datum, avsnitt)
 `beslut-2026-10-26.md` §7, §9–§18, §22 (2026-10-26) · `trafik-konvertering-resultat-2026-10-13.txt` (körd 2026-10-13, P1 2026-09-12–10-11, P0 2026-08-13–09-11) · `omsattning-30d-resultat-2026-10-12.txt` (2026-10-12) · `annonser-resultat-2026-10-14.txt` (2026-10-14; Cockpit X; synk 2026-10-14 03:00) · `beslut-2026-10-14.md` (2026-10-14) · `beslut-2026-10-18-7.md` (2026-10-18) · `beslut-2026-10-12-2.md` (2026-10-12) · SQL: `cos_30d.sql`, `marginal_30d.sql`, `marginal_stickprov.sql`, `net_profit_ordrar.sql`, `annonser_kampanjer_30d.sql`, `annonser_vecka.sql`.
+
+## Uppdatering 2026-10-28: marginal per variant ur arket (körd av David)
+
+Källa: `sql/analys/marginal_per_variant.sql`, orderrader senaste 90 dagarna (orderdata sedan 2026-08-10), täckning 96,4 % (SE) och 95,3 % (DK) av nettointäkten. Tillägg; avsnitten ovan är orörda, och där de bygger på en äldre marginal gäller siffrorna här.
+
+| | SE | DK |
+|---|---|---|
+| GM1 (före frakt och avgifter), arket | 67,8 % | 76,5 % |
+| GM2 (efter fraktkostnad och betalavgift, utan fraktintäkt), arket | 42,9 % | 58,4 % |
+| GM1 med Shopifys `unit_cost` | 67,2 % | 75,9 % |
+
+**Break-even ROAS** (1 / marginal; "inkl. moms" är × 1,25 och gäller om plattformens värde inkluderar moms, vilket inte är verifierat):
+
+| Marginalmått | SE exkl. moms | SE inkl. moms | DK exkl. moms | DK inkl. moms |
+|---|---|---|---|---|
+| GM1 | 1,47 | 1,84 | 1,31 | 1,63 |
+| GM2 | 2,33 | 2,91 | 1,71 | 2,14 |
+| GM2 minus personal och övrigt enligt arket (15 % SE, 13 % DK) | 3,58 | 4,48 | 2,20 | 2,75 |
+
+- GM2 är en nedre gräns: fraktkostnaden är med, men fraktintäkten från kunder under fraktgränsen är inte med. Fraktintäkten gör att verkligt GM2 ligger högre.
+- Siffrorna är utan returer, reklamationer och tullar. Arkets inköpspris är inte verifierat mot fakturor.
+- Slutsatser som följer av datan (inte hypoteser): DK har cirka 15 procentenheter högre GM2 än SE; DK:s break-even ROAS är därmed klart lägre (cirka 2,1–2,8 inkl. moms mot cirka 2,9–4,5 för SE). Mot PMax DK:s mål-ROAS 5 och uppmätta 2,94 stärker det hypotesen i avsnitt (b) att målet är för högt, men det visar inte att en sänkning ger lönsam volym.
+- Aggregatet stämmer mellan arket och Shopifys `unit_cost` (inom 1 procentenhet), men enskilda SKU avviker kraftigt åt båda håll: AirBike MAXXUS Pro SE 41,8 % (arket) mot 85,1 % (Shopify), Viktskivor PRO 31 mm 47–52 % mot 67–72 %, Skivstångspaket MOVIT 30 kg 71,3 % mot 36,5 %. Använd arket för beslut per produkt.
+- Fynd 3 i körningen (negativ GM2 på Gummiband, Viktskivor, Miniband) ska inte tolkas som förlust: arkets fraktkostnad är per SKU som skickas separat, och småprodukter går normalt i samma paket eller ger kunden fraktavgiften. Den listan behöver fraktintäkt per order för att läsas.
+- Tidigare redovisad bruttomarginal (72,9 % DK, 74,3 % SE, `marginal_30d.sql`) avser en annan period och inköpskälla; skillnaden mot dagens SE-siffra (67,8 %) är inte avstämd.
