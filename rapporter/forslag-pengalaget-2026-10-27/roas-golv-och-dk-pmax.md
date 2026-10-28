@@ -279,3 +279,21 @@ Davids uppgifter ersätter arkets schabloner (personal 10 %/8 %, övrigt 5 %): l
 - **Omsättning för break-even** (annonsandelen oförändrad 24,1 %): cirka 925 000–1 010 000 kr per månad nettoförsäljning, alltså 11–21 % över dagens. Om annonsandelen sjunker till 20 % räcker cirka 760 000–815 000 kr; vid 22 % cirka 830 000–900 000 kr.
 - **Marginell break-even ROAS** (en extra annonskrona; fasta kostnader påverkas inte, returer 3 % avdragna), exkl. moms / inkl. moms: SE 2,26–2,38 / 2,82–2,98; DK 2,49–2,52 / 3,12–3,15. Detta är golvet för att en extra annonskrona ska betala sig; fasta kostnader avgör hur stor total omsättning som krävs, inte vilket ROAS en enskild kampanj behöver.
 - Osäkerheter: arkets inköpspriser (inte verifierade mot fakturor; fakturamatchningen är inte körd), DK:s varukostnad i 30-dagarsperioden mot 90 dagar (oförklarad), lönens koppling till omsättningen, om annonskostnaden saknar byråavgifter eller andra kanaler, och att en 30-dagarsperiod är ett stickprov. Bidraget för ordrar utan arkkoppling antas vara lika med de kopplade.
+
+## Uppdatering 2026-10-28 (5): fler kostnader (David, 2026-10-28)
+
+Tillägg till uppdatering (4). Davids besked: lönen är densamma varje månad (92 000 kr, räkna inte med lägre uttag för föräldraledighet); Vibbar affiliate kostar totalt 15 %; SEO (länkar) 12 500 kr/månad inkl. moms (10 000 kr exkl. moms); Klaviyo 5 000 kr/månad; Shopify Plus 8 000 kr/månad.
+
+- **Fasta kostnader:** 92 000 + 40 000 + 30 000 + 10 000 (plattformar och kontorsmaterial) + 10 000 (SEO exkl. moms) + 5 000 (Klaviyo) + 8 000 (Shopify Plus) = **195 000 kr/månad**. Antar att Klaviyo och Shopify Plus är separata från de 10 000 kr för plattformar och kontorsmaterial (annars minskar summan med upp till 13 000 kr), och att Klaviyo och Shopify Plus anges exkl. moms.
+- **Affiliate (Vibbar) 15 %:** den del av omsättningen som kommer via Vibbar är inte känd. Det är inte fastställt hur Vibbar-ordrar märks i Shopify. Kostnaden i tabellen nedan visas per andel av nettoförsäljningen via Vibbar; `sql/analys/affiliate_kallor.sql` ska hitta andelen.
+- Returer 3 % och annonser (Google + Meta, 24,1 % av nettoförsäljningen) som i uppdatering (4); nettoförsäljning cirka 834 000 kr per 30 dagar, bidrag före dessa 44,1–45,7 %.
+
+| Andel av nettoförsäljningen som går via Vibbar | Affiliate-kostnad (15 %) | Resultat per 30 dagar | Av nettoförsäljningen |
+|---|---|---|---|
+| 0 % | 0 | −53 000 till −40 000 kr | −6,4 till −4,8 % |
+| 5 % | cirka 6 300 kr | −59 000 till −46 000 kr | −7,1 till −5,5 % |
+| 10 % | cirka 12 500 kr | −66 000 till −52 000 kr | −7,9 till −6,3 % |
+| 20 % | cirka 25 000 kr | −78 000 till −65 000 kr | −9,4 till −7,8 % |
+
+- **Omsättning för break-even** (5 % via Vibbar): cirka 1 090 000–1 190 000 kr/månad vid dagens annonsandel (24 %), och cirka 890 000–960 000 kr/månad om annonsandelen sjunker till 20 %. Dagens nettoförsäljning är cirka 834 000 kr.
+- Den stora slutsatsen är oförändrad men skarpare: med de riktiga kostnaderna går verksamheten med förlust vid dagens omsättning och annonsandel, och annonseffektiviteten är största spaken. Arkets inköpspriser är fortfarande inte verifierade mot fakturor (fakturamatchningen är inte körd).
