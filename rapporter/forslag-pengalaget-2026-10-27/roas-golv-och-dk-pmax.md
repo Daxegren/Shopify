@@ -242,3 +242,22 @@ Källa: `sql/analys/marginal_per_variant.sql` (version med `total_shipping` för
 - Break-even ROAS med GM3 (exkl. moms / inkl. moms): SE 2,23 / 2,79, DK 1,65 / 2,06. Efter personal och övrigt (15 % SE, 13 % DK): SE 3,36 / 4,19, DK 2,09 / 2,61. Övre gräns (GM1, inkl. moms): SE 1,84, DK 1,63.
 - Listan över varianter med negativ marginal (Viktskivor, Gummiband, Miniband) kvarstår efter fraktintäkten men ska inte tolkas som förlust. Orsak: arket räknar 13 EUR frakt per enhet, och fördelningen av fraktintäkt efter värde ger de billiga varorna nästan ingen intäkt. Sådana varor skickas i regel tillsammans med andra. För att läsa dem behövs fraktkostnad per order (vikt och paket), se `net_profit_ordrar.sql`.
 - Vad som är bevisat: marginalen före frakt (GM1) per variant och de stora säljarnas GM3 på 41–70 %. Vad som är osäkert: arkets inköpspris (inte verifierat mot fakturor) och fraktkostnaden per order.
+
+## Uppdatering 2026-10-28 (3): marginal per order med vikter (`net_profit_ordrar.sql`, 30 dagar till 2026-10-27) och rättelse
+
+Tillägg; ändrar inte avsnitten ovan. Underlag: ordrar de senaste 30 dagarna, 232 av 266 DK-ordrar och 318 av 365 SE-ordrar med minst 90 % av värdet kopplat till arket; vikter laddade ur Shopify (446 av 2 546 varianter utan vikt). Frakt räknas som spann: "låg" = dyraste enskilda fraktkostnaden gånger antal paket (30 kg per paket), "hög" = summan per SKU.
+
+| Före annonser, personal och övrigt (andel av nettoförsäljning inkl. betald frakt, exkl. moms) | SE | DK |
+|---|---|---|
+| Bidrag, hög frakt | 45,0 % | 42,7 % |
+| Bidrag, låg frakt | 47,3 % | 43,1 % |
+| Annonser (Google + Meta) av nettoförsäljning, alla ordrar | 25,4 % | 22,0 % |
+| Personal och övrigt enligt arket | 15 % | 13 % |
+| Nettovinst efter annonser, personal, övrigt (spann) | 4,6–6,9 % | 7,7–8,1 % |
+
+- **Break-even ROAS** (1 / bidrag; inkl. moms = × 1,25): SE 2,11–2,22 exkl. och 2,64–2,78 inkl.; DK 2,32–2,34 exkl. och 2,90–2,93 inkl. Med personal och övrigt avdraget: SE 3,10–3,33 / 3,9–4,2, DK 3,32–3,37 / 4,15–4,2 (inkl. moms).
+- **Rättelse:** i uppdatering (2) ovan stod att DK har cirka 15 procentenheter högre marginal än SE och därför lägre break-even ROAS. Den slutsatsen gäller 90-dagarsberäkningen (DK GM1 76,5 %). I 30-dagarsberäkningen är DK:s bidrag 43 %, i nivå med SE:s 45–47 %, eftersom DK:s varukostnad är 33 % av nettoförsäljningen i den här körningen mot 23,5 % i 90-dagarsberäkningen. Skillnaden är inte förklarad (mix, pris/rabatt eller arkets priser). Tills den är förklarad ska DK:s lägre break-even inte användas, och stödet för hypotesen att PMax DK:s mål-ROAS 5 är för högt är därmed svagare: PMax DK 2,94 ligger enligt dagens siffror vid break-even efter frakt och avgifter (2,9 inkl. moms), inte klart över.
+- **Fraktkostnaden stämmer ungefär med DPD-fakturorna:** modellen ger SE 20,5–22,9 % och DK 19,9–20,3 % av nettoförsäljningen; DPD-fakturorna för september ger grovt cirka 24,7 % (SE) och 20,9 % (DK). Grov kontroll (perioder skiljer och fakturalistan är öppna poster).
+- **Fraktgränser bekräftade i datan:** SE 800 kr (179 kr under), DK 700 DKK (89 DKK under). 21 % av SE-ordrarna och 53 % av DK-ordrarna betalar frakt; DK:s fraktavgift är i snitt 29 % av ordervärdet på de ordrar som betalar (snittorder 309 DKK).
+- **Vikter:** 90 SE-ordrar (25 %) och 42 DK-ordrar (16 %) väger över 30 kg och kräver flera paket i modellen.
+- Fakturamatchningen (`faktura_matchning.sql`) är inte körd än; den avgör om arkets inköpspris stämmer, vilket är största kvarvarande osäkerheten.
