@@ -226,3 +226,19 @@ Källa: `sql/analys/marginal_per_variant.sql`, orderrader senaste 90 dagarna (or
 - Aggregatet stämmer mellan arket och Shopifys `unit_cost` (inom 1 procentenhet), men enskilda SKU avviker kraftigt åt båda håll: AirBike MAXXUS Pro SE 41,8 % (arket) mot 85,1 % (Shopify), Viktskivor PRO 31 mm 47–52 % mot 67–72 %, Skivstångspaket MOVIT 30 kg 71,3 % mot 36,5 %. Använd arket för beslut per produkt.
 - Fynd 3 i körningen (negativ GM2 på Gummiband, Viktskivor, Miniband) ska inte tolkas som förlust: arkets fraktkostnad är per SKU som skickas separat, och småprodukter går normalt i samma paket eller ger kunden fraktavgiften. Den listan behöver fraktintäkt per order för att läsas.
 - Tidigare redovisad bruttomarginal (72,9 % DK, 74,3 % SE, `marginal_30d.sql`) avser en annan period och inköpskälla; skillnaden mot dagens SE-siffra (67,8 %) är inte avstämd.
+
+## Uppdatering 2026-10-28 (2): med fraktintäkt, GM3
+
+Källa: `sql/analys/marginal_per_variant.sql` (version med `total_shipping` fördelad på orderrader efter varuvärde), 90 dagar, täckning 96,4 % SE och 95,3 % DK. Tillägg; ändrar inte avsnitten ovan.
+
+| | SE | DK |
+|---|---|---|
+| GM2 (efter fraktkostnad och betalavgift) | 42,9 % | 58,4 % |
+| GM3 (GM2 plus betald frakt exkl. moms) | 44,8 % | 60,8 % |
+| Fraktintäkt som andel av varuvärdet | 1,9 % | 2,3 % |
+
+- Fraktintäkten är liten (cirka 2 % av varuvärdet) och ändrar marginalen med 2 procentenheter. De stora säljarna har samma GM2 och GM3, eftersom de i stort sett skickas utan fraktavgift.
+- **GM3 är en nedre gräns och GM1 en övre gräns.** Arkets `shipping_eur` är per enhet, så en order med flera enheter räknas med full frakt per enhet. Verkligheten ligger däremellan: SE 44,8–67,8 %, DK 60,8–76,5 %.
+- Break-even ROAS med GM3 (exkl. moms / inkl. moms): SE 2,23 / 2,79, DK 1,65 / 2,06. Efter personal och övrigt (15 % SE, 13 % DK): SE 3,36 / 4,19, DK 2,09 / 2,61. Övre gräns (GM1, inkl. moms): SE 1,84, DK 1,63.
+- Listan över varianter med negativ marginal (Viktskivor, Gummiband, Miniband) kvarstår efter fraktintäkten men ska inte tolkas som förlust. Orsak: arket räknar 13 EUR frakt per enhet, och fördelningen av fraktintäkt efter värde ger de billiga varorna nästan ingen intäkt. Sådana varor skickas i regel tillsammans med andra. För att läsa dem behövs fraktkostnad per order (vikt och paket), se `net_profit_ordrar.sql`.
+- Vad som är bevisat: marginalen före frakt (GM1) per variant och de stora säljarnas GM3 på 41–70 %. Vad som är osäkert: arkets inköpspris (inte verifierat mot fakturor) och fraktkostnaden per order.
