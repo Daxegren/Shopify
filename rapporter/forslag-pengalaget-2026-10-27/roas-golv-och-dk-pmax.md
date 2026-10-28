@@ -261,3 +261,21 @@ Tillägg; ändrar inte avsnitten ovan. Underlag: ordrar de senaste 30 dagarna, 2
 - **Fraktgränser bekräftade i datan:** SE 800 kr (179 kr under), DK 700 DKK (89 DKK under). 21 % av SE-ordrarna och 53 % av DK-ordrarna betalar frakt; DK:s fraktavgift är i snitt 29 % av ordervärdet på de ordrar som betalar (snittorder 309 DKK).
 - **Vikter:** 90 SE-ordrar (25 %) och 42 DK-ordrar (16 %) väger över 30 kg och kräver flera paket i modellen.
 - Fakturamatchningen (`faktura_matchning.sql`) är inte körd än; den avgör om arkets inköpspris stämmer, vilket är största kvarvarande osäkerheten.
+
+## Uppdatering 2026-10-28 (4): riktiga fasta kostnader (David, 2026-10-28)
+
+Davids uppgifter ersätter arkets schabloner (personal 10 %/8 %, övrigt 5 %): lön 92 000 kr/månad (varierar med omsättningen, regeln är inte given), returer cirka 3 % av omsättningen, kontor 40 000 kr/månad, bokföring 30 000 kr/månad, plattformar och kontorsmaterial 10 000 kr/månad. Fasta kostnader: **172 000 kr/månad**. Antar att beloppen är i SEK och exkl. moms. Underlag för bidrag och annonser: `net_profit_ordrar.sql`, 30 dagar till 2026-10-27, kurs SEK 11,4 per EUR.
+
+| 30 dagar | Värde |
+|---|---|
+| Nettoförsäljning SE + DK (alla ordrar, exkl. moms, inkl. betald frakt) | cirka 834 000 kr |
+| Bidrag efter varukostnad, frakt och betalavgift (blandat SE/DK) | 44,1–45,7 % (368 000–381 000 kr) |
+| Returer 3 % | cirka 25 000 kr |
+| Annonser Google + Meta | cirka 201 000 kr (24,1 % av nettoförsäljningen) |
+| Fasta kostnader | 172 000 kr |
+| **Resultat** | **cirka −30 000 till −17 000 kr (−3,6 till −2,0 %)** |
+
+- Mot den tidigare bilden (nettovinst 4,6–8 % med schabloner) är skillnaden stor: de riktiga fasta kostnaderna är cirka 23,6 % av omsättningen (inklusive returer) mot 13–15 % i schablonen.
+- **Omsättning för break-even** (annonsandelen oförändrad 24,1 %): cirka 925 000–1 010 000 kr per månad nettoförsäljning, alltså 11–21 % över dagens. Om annonsandelen sjunker till 20 % räcker cirka 760 000–815 000 kr; vid 22 % cirka 830 000–900 000 kr.
+- **Marginell break-even ROAS** (en extra annonskrona; fasta kostnader påverkas inte, returer 3 % avdragna), exkl. moms / inkl. moms: SE 2,26–2,38 / 2,82–2,98; DK 2,49–2,52 / 3,12–3,15. Detta är golvet för att en extra annonskrona ska betala sig; fasta kostnader avgör hur stor total omsättning som krävs, inte vilket ROAS en enskild kampanj behöver.
+- Osäkerheter: arkets inköpspriser (inte verifierade mot fakturor; fakturamatchningen är inte körd), DK:s varukostnad i 30-dagarsperioden mot 90 dagar (oförklarad), lönens koppling till omsättningen, om annonskostnaden saknar byråavgifter eller andra kanaler, och att en 30-dagarsperiod är ett stickprov. Bidraget för ordrar utan arkkoppling antas vara lika med de kopplade.
