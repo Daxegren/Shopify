@@ -7,6 +7,10 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 
 ---
 
+### 2026-10-28: Läs den renderade sidan, och ange vilken period och tabell en trend kommer från
+- **Vad hände:** (1) Min tidigare bild var att Gorillas besök sjönk (−17 % SE) och att konverteringen därför föll. En ny körning (`pengalage_veckovis.sql`, GA4-tabell per dag) visade att SE-sessionerna i stället steg från cirka 7 000 till 14 000–18 000 per vecka medan köpen låg still. Perioderna och källorna var inte desamma. (2) GTM-dubbelladdningen bedömdes först som "delvis frikänd" utifrån temakoden, eftersom den andra laddaren bara renderas när temainställningen `google_tag_manager_id` är ifylld. Den renderade HTML:en visade att den är det.
+- **Regel:** (a) Ange alltid period och tabell för en trend och jämför med en annan källa innan du säger att något har gått upp eller ned. (b) När temakoden gör något villkorligt: hämta den renderade sidan (`curl`) och räkna förekomsterna innan du frikänner eller fäller. (c) Rådata utan tolkning först; skilj bevisat från hypotes.
+
 ### 2026-10-26: Läs konfigurationen innan slutsatsen "saknas"
 - **Vad hände:** `check-access --site bestofsports-fi` visade "saknas" för Shopify, GA4, annonser och Merchant. Jag drog slutsatsen att BOS saknar dessa källor. I `sites.toml` ligger butikens källor på blocket `bestofsports-se`; FI-blocket har bara sin egen Search Console-egendom.
 - **Regel:** när ett verktyg säger att något saknas för en sajt: läs konfigurationen för hela butiken (alla block med samma `shop_domain` och `data_key`) och kontrollera i datat (`scripts/kontrollera_datakallor.sh`) innan du påstår att det saknas.
