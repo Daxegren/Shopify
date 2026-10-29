@@ -151,3 +151,5 @@ Den här filen fylls bara på, nya poster överst. Befintliga poster ändras ald
 | 2026-10-27 | `standardtester.md` (T8-raden, rad 156) | Markering "Inaktuellt sedan 2026-10-27" tillagd; texten om 28-dagarsfönster orörd | Testloggen har nu valbart fönster (`--kind`, `--days`) och `test due` | Claude (markering enligt regel 4, inget beslut krävs) |
 
 | 2026-10-29 | `rapporter/` (utanför repot) | Bokföringsrapporter 2026 (Aglaia/Fortnox) och leverantörsfakturor (GSDE) sammanställdes men checkades inte in i repot. Filerna ligger i Davids Drive, mappen "Bokföring 2026 - rapporter till Claude": bokforing-2026-resultat-och-balans.md, leverantorsfakturor-2026-sammanfattning.md, leverantorsfakturor-2026.csv | Finansiella uppgifter ska inte ligga i git-historiken | David (alternativ 2) |
+
+| 2026-10-29 | `shopify-sync/docs/produkttexter-standard.md` (ny), `shopify-sync/scripts/kontrollera_produkttext.py` (ny), `shopify-sync/tests/test_produkttext.py` (ny) | Utkast till standard för produkttexter och kontrollskript; kräver Davids godkännande | David bad om standard och kontrollskript (BOS först) | Claude (nya filer, inget befintligt ändrat) |
