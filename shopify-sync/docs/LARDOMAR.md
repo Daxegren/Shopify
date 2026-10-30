@@ -53,3 +53,7 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 - **Redirecttabellen är gemensam** för alla domäner i butiken; handtag är översatta per språk.
 - **Köp av hälsopåståenden:** EU-reglerna (1924/2006, 432/2012) gäller även försiktiga formuleringar. Se tidigare BOS-arbete.
 - **Skrivning till det publicerade temat:** Shopify-verktyget som Claude använder blockerar skrivning till det publicerade (MAIN) temat. Ändringar där görs av David i temaredigeraren efter exakta före och efter, och Claude verifierar genom att läsa filerna och jämföra mot sparade original. Avpublicerade teman kan skrivas av Claude.
+
+## 2026-10-30: kontrollera att skrivna titlar finns kvar
+- Vad hände: 12 av 20 pilottitlar i Best of Sports hade gått tillbaka till leverantörens original inom ett dygn efter skrivning 2026-10-25, medan beskrivning och SEO låg kvar. Granskningssidan visade ändå pilotfilens titlar som om de var live.
+- Regel: visa i granskningen det som läses från butiken, inte det som skrevs. Läs tillbaka titlar efter ett dygn och efter varje nattlig synk av Velomarket-produkter. Fråga innan skrivning om en synk skriver över titeln.
