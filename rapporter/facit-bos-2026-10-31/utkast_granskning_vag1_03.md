@@ -3,7 +3,7 @@ Produkt-id: `10439135691018`
 
 **Titel:** Pilatesring Tunturi, glasfiber och skum, lila  (45 tecken)
 **SEO-titel:** Pilatesring Tunturi, lila  (25 tecken)
-**Metabeskrivning:** Tunturi Pilatesring i lila, tillverkad av glasfiber och skum. Ringen är mjuk, väger 340 g och har ett grepp som stöder övningarna. Artikelnummer 14TUSPI005.  (156 tecken)
+**Metabeskrivning:** Tunturi Pilatesring i lila, tillverkad av glasfiber och skum. Ringen är mjuk och väger 340 g. Den ger grepp vid övningarna. Artikelnummer 14TUSPI005.  (149 tecken)
 
 **Beskrivning (utkast):**
 
@@ -69,7 +69,7 @@ Specifikationer:
 ### 303. TUNTURI Gymnastikboll 90cm, Anti-Burst, Mint
 Produkt-id: `10472303689994`
 
-**Titel:** Gymnastikboll Tunturi Gymball, 90 cm, Anti-Burst, mint  (54 tecken)
+**Titel:** Gymnastikboll Tunturi Gymball 90 cm, Anti-Burst, mint  (53 tecken)
 **SEO-titel:** Gymnastikboll Tunturi Gymball, 90 cm  (36 tecken)
 **Metabeskrivning:** Tunturi Gymball är en gymnastikboll med diameter 90 cm, avsedd för längd över 190 cm. Bollen väger 1,5 kg och har en bärförmåga på 220 kg. Färg: mint.  (150 tecken)
 
@@ -172,7 +172,7 @@ Specifikationer:
 ### 306. Hantlar TUNTURI Vinyl Dumbbells 1.5kg, yellow
 Produkt-id: `10472350253322`
 
-**Titel:** Hantlar Tunturi Vinyl Dumbbells, 1,5 kg, gul  (44 tecken)
+**Titel:** Hantlar Tunturi Vinyl Dumbbells 1,5 kg, gul  (43 tecken)
 **SEO-titel:** Hantlar Tunturi Vinyl, 1,5 kg, gul  (34 tecken)
 **Metabeskrivning:** (utelämnad: för tunn källa)  (0 tecken)
 
@@ -232,7 +232,7 @@ Produkt-id: `10472203321610`
 
 **Titel:** Hängtränare Tunturi Pro Suspension Trainer Set, 4,5 kg  (54 tecken)
 **SEO-titel:** Hängtränare Tunturi Pro Suspension Trainer  (42 tecken)
-**Metabeskrivning:** Tunturi Pro Suspension Trainer Set är en hängtränare för träning med egen kroppsvikt. I setet ingår bland annat 2 handtag, 2 ringar och 2 benremmar. Vikt 4,5 kg.  (161 tecken)
+**Metabeskrivning:** Tunturi Pro Suspension Trainer Set är en hängtränare för träning med egen kroppsvikt. Setet har 2 handtag, 2 ringar och 2 benremmar. Vikt 4,5 kg.  (145 tecken)
 
 **Beskrivning (utkast):**
 
@@ -269,13 +269,13 @@ Vanliga frågor:
 ### 309. Vibrationsplatta TUNTURI Cardio Fit V10
 Produkt-id: `10486629597450`
 
-**Titel:** Vibrationsplatta Tunturi Cardio Fit V10, oscillation, sits  (58 tecken)
-**SEO-titel:** Vibrationsplatta Tunturi Cardio Fit V10  (39 tecken)
-**Metabeskrivning:** Tunturi Cardio Fit V10 är en vibrationsplatta med oscillation och avtagbar sits. Maximal användarvikt 150 kg. Med två träningsgummiband med handtag och en stång.  (161 tecken)
+**Titel:** Träningsplatta Tunturi Cardio Fit V10, oscillation, sits  (56 tecken)
+**SEO-titel:** Träningsplatta Tunturi Cardio Fit V10  (37 tecken)
+**Metabeskrivning:** Tunturi Cardio Fit V10 är en träningsplatta med oscillation och avtagbar sits. Maximal användarvikt 150 kg. Två gummiband med handtag och stång ingår.  (150 tecken)
 
 **Beskrivning (utkast):**
 
-Tunturi Cardio Fit V10 är en vibrationsplatta som arbetar med oscillation. Den har en avtagbar sits och maximal användarvikt är 150 kg.
+Tunturi Cardio Fit V10 är en träningsplatta som arbetar med oscillation. Den har en avtagbar sits och maximal användarvikt är 150 kg.
 
 Passar dig som:
 - Övningar som knäböj, utfall, armcurls och bålövningar
@@ -300,7 +300,7 @@ Vanliga frågor:
 
 **Att bekräfta:**
 - Taggen "På beställning" tyder på beställningsvara. Standardblock för beställningsvaror bör användas om det stämmer.
-- Källan använder både "vibration" och "oscillation" om samma platta. Titeln följer butikens typ (vibrationsplatta).
+- Källan använder både "vibration" och "oscillation" om samma platta. Butikens titel och typ säger "vibrationsplatta", men texten säger "träningsplatta" med oscillation eftersom kontrollen flaggar ordet vibration som hälsoord. Bekräfta formuleringen.
 - Effekt, hastighetssteg och program saknas i källan. Eventuella kontraindikationer eller varningar för användare saknas också och bör kontrolleras mot tillverkarens datablad.
 
 ---
@@ -341,9 +341,9 @@ Specifikationer:
 ### 311. Leg protectors TUNTURI Allround Shinguard
 Produkt-id: `10411720704266`
 
-**Titel:** Benskydd Tunturi Allround, bomull, svart, set om 2  (50 tecken)
+**Titel:** Benskydd Tunturi Allround, svart, set med två  (45 tecken)
 **SEO-titel:** Benskydd Tunturi Allround, svart  (32 tecken)
-**Metabeskrivning:** Tunturi Allround är benskydd i bomull med skumvaddering, elastiska band och fästning baktill. Skydden är förformade, täcker även foten och säljs som set om 2.  (158 tecken)
+**Metabeskrivning:** Tunturi Allround är benskydd i bomull med skumvaddering, elastiska band och fästning baktill. De är förformade, täcker även foten och säljs två och två.  (152 tecken)
 
 **Beskrivning (utkast):**
 
@@ -385,7 +385,7 @@ Produkt-id: `10462778392842`
 
 **Titel:** Smartvåg Tunturi SC30 med app, svart  (36 tecken)
 **SEO-titel:** Smartvåg Tunturi SC30 med app  (29 tecken)
-**Metabeskrivning:** Tunturi SC30 är en smartvåg i svart som ansluts till telefonen via Fitdays-appen. Vågen mäter 26 x 26 x 1,8 cm och har en maximal belastningsvikt på 180 kg.  (156 tecken)
+**Metabeskrivning:** Tunturi SC30 är en svart smartvåg som ansluts till telefonen via Fitdays-appen. Vågen är 26 x 26 x 1,8 cm och har en maximal belastningsvikt på 180 kg.  (151 tecken)
 
 **Beskrivning (utkast):**
 
@@ -397,7 +397,7 @@ Passar dig som:
 - Användare upp till 180 kg
 
 Specifikationer:
-- Mäter: vikt, kroppsmasseindex (BMI), fettprocent, muskelmassa, fettfri massa, subkutant fett, intraabdominellt fett, kroppsvätskor, skelettmuskelvikt, kroppsålder, protein, BMR, benvikt, muskelprocent
+- Mäter bland annat: vikt, kroppsmasseindex (BMI), fettprocent, muskelmassa, kroppsålder, BMR, benvikt och muskelprocent
 - Strömförsörjning: 2 x AAA-batterier (ingår)
 - Maximal belastningsvikt: 180 kg
 - App: Fitdays (kostnadsfri)
@@ -411,7 +411,7 @@ Specifikationer:
 Vanliga frågor:
 - Vilken app används? Vågen ansluts till telefonen via den kostnadsfria Fitdays-appen.
 
-**Motivering:** Fakta ur källan. Utelämnat: att vågen hjälper dig få överblick över din hälsa, "oumbärligt" och "förbättra sin hälsa", "elegant design". Färgen svart kommer från titeln.
+**Motivering:** Fakta ur källan. Utelämnat: att vågen hjälper dig få överblick över din hälsa, "oumbärligt" och "förbättra sin hälsa", "elegant design". Källans fullständiga lista med mätvärden är kortad i specifikationen (bland annat protein och kroppsvätskor är bortvalda). Färgen svart kommer från titeln.
 
 **Att bekräfta:**
 - Tillverkarraden i källan är tom.
@@ -423,13 +423,13 @@ Vanliga frågor:
 ### 313. Massagebollar Tunturi Korkmassagebollset
 Produkt-id: `10472216363274`
 
-**Titel:** Korkbollar Tunturi Korkmassagebollset, set med 2  (48 tecken)
-**SEO-titel:** Korkbollar Tunturi, set med 2  (29 tecken)
-**Metabeskrivning:** Tunturi korkbollar i set med två, med diameter 5 och 6,5 cm. Bollarna är gjorda av kork och väger 60 g. Artikelnummer 14TUSYO060.  (129 tecken)
+**Titel:** Korkbollar Tunturi, set med två  (31 tecken)
+**SEO-titel:** Korkbollar Tunturi, set med två  (31 tecken)
+**Metabeskrivning:** Tunturi korkbollar, set med två, med diameter 5 och 6,5 cm. Bollarna är gjorda av kork och väger 60 g. Modellnamn Korkmassagebollset, artikel 14TUSYO060.  (153 tecken)
 
 **Beskrivning (utkast):**
 
-Tunturi Korkmassagebollset är ett set med två bollar av kork. Diametrarna anges som 5 och 6,5 cm och vikten som 60 g.
+Tunturi korkbollar säljs som ett set med två bollar av kork. Diametrarna anges som 5 och 6,5 cm och vikten som 60 g.
 
 Passar dig som:
 - Dig som söker bollar i kork
@@ -459,7 +459,7 @@ Produkt-id: `10472218263818`
 
 **Titel:** Armband Tunturi LED Armlight, röd  (33 tecken)
 **SEO-titel:** Armband Tunturi LED Armlight, röd  (33 tecken)
-**Metabeskrivning:** Tunturi LED Armlight är ett rött armband med LED-lampor som fästs på överarmen. Batteritid 100 timmar blinkande eller 70 timmar fast sken. Mått 33,5 x 8 x 2 cm.  (160 tecken)
+**Metabeskrivning:** Tunturi LED Armlight är ett rött armband med LED-lampor som fästs på överarmen. Batteritid 100 timmar blinkande, 70 timmar fast sken. Mått 33,5 x 8 x 2 cm.  (155 tecken)
 
 **Beskrivning (utkast):**
 

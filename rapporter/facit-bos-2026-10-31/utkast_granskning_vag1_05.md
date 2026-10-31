@@ -77,7 +77,7 @@ Produkt-id: `10472308506890`
 
 **Titel:** Gymnastikmatta Tunturi Outdoor Fitness Mat, PVC, 121 x 60 cm  (60 tecken)
 **SEO-titel:** Gymnastikmatta Tunturi Outdoor Fitness Mat  (42 tecken)
-**Metabeskrivning:** Tunturi Outdoor Fitness Mat är en gymnastikmatta i PVC med halkfritt topplager, 121 x 60 cm och 0,6 cm tjock. Lämplig för både inomhus- och utomhusbruk.  (152 tecken)
+**Metabeskrivning:** Tunturi Outdoor Fitness Mat är en gymnastikmatta i PVC med halkfritt topplager. Mått 121 x 60 x 0,6 cm. Lämplig för både inomhus- och utomhusbruk.  (146 tecken)
 
 **Beskrivning (utkast):**
 
@@ -179,7 +179,7 @@ Tunturi akupressurmatta är en kompakt matta med små piggar som säljs i set me
 Passar dig som:
 - Dig som vill ha en matta med små piggar och en kudde i samma set
 - Dig som vill kunna ta av och tvätta överdragen
-- Dig som vill förvara och bära med sig setet i den medföljande väskan
+- Dig som vill ha en väska i setet
 
 Specifikationer:
 - Mattans överdrag är avtagbara och tvättbara
@@ -253,7 +253,7 @@ Tunturi akupressurmatta är en kompakt matta med små piggar som säljs i set me
 Passar dig som:
 - Dig som vill ha en matta med små piggar och en kudde i samma set
 - Dig som vill kunna ta av och tvätta överdragen
-- Dig som vill förvara och bära med sig setet i den medföljande väskan
+- Dig som vill ha en väska i setet
 
 Specifikationer:
 - Mattans överdrag är avtagbara och tvättbara
@@ -447,7 +447,7 @@ Tunturi akupressurmatta är en kompakt matta med små piggar som säljs i set me
 Passar dig som:
 - Dig som vill ha en matta med små piggar och en kudde i samma set
 - Dig som vill kunna ta av och tvätta överdragen
-- Dig som vill förvara och bära med sig setet i den medföljande väskan
+- Dig som vill ha en väska i setet
 
 Specifikationer:
 - Mattans överdrag är avtagbara och tvättbara
@@ -485,7 +485,7 @@ Tunturi akupressurmatta är en kompakt matta med små piggar som säljs i set me
 Passar dig som:
 - Dig som vill ha en matta med små piggar och en kudde i samma set
 - Dig som vill kunna ta av och tvätta överdragen
-- Dig som vill förvara och bära med sig setet i den medföljande väskan
+- Dig som vill ha en väska i setet
 
 Specifikationer:
 - Mattans överdrag är avtagbara och tvättbara

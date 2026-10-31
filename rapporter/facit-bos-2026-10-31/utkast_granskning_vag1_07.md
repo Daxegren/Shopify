@@ -126,7 +126,7 @@ Hammer SmartLock är en justerbar hantel där vikten väljs med en vrid-och-lås
 
 Passar dig som:
 - Dig som vill ha flera hantelvikter i en hantel (2/4/6/8/10/12/14/16/18/20 kg)
-- Dig som vill slippa byta viktskivor för hand
+- Dig som vill slippa byta viktskivor
 - Hemmagym och professionell träning
 
 Specifikationer:
