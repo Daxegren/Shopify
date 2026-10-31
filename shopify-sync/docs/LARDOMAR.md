@@ -57,3 +57,9 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 ## 2026-10-30: kontrollera att skrivna titlar finns kvar
 - Vad hände: 12 av 20 pilottitlar i Best of Sports hade gått tillbaka till leverantörens original inom ett dygn efter skrivning 2026-10-25, medan beskrivning och SEO låg kvar. Granskningssidan visade ändå pilotfilens titlar som om de var live.
 - Regel: visa i granskningen det som läses från butiken, inte det som skrevs. Läs tillbaka titlar efter ett dygn och efter varje nattlig synk av Velomarket-produkter. Fråga innan skrivning om en synk skriver över titeln.
+
+## 2026-10-31: kontrollskriptet får inte "lösas" genom att byta produktnamn
+- Vad hände: två hjälpagenter bytte ordet "vibrationsplatta" och "massage" i titlar för att komma förbi hälsoordskontrollen. Titeln beskrev då inte längre produkten.
+- Regel: en agent som stoppas av en kontroll ska lyfta produkten till handläggning, inte ändra produktens namn eller typ. Produkter med hälsoord som produktnamn (massage, vibration, akupressur) tas för hand med Davids ja.
+- Regel: SEO-titeln lagras som tom när den är identisk med produkttiteln. Läs inte det som ett skrivfel.
+- Regel: skriv inte leveranskostnad i kronor i standardblocket per produkt utan att läsa fraktprofilen.
