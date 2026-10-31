@@ -16,9 +16,12 @@ def html(p):
     if p["marke"]: h += f"<h2>Om märket</h2><p>{esc(p['marke'])}</p>"
     return h
 if __name__ == "__main__":
-    out = []
+    _d = {}
     for m in sys.argv[1:]:
-        for p in importlib.import_module(m).D:
+        for p in importlib.import_module(m).D: _d[p["id"]] = p  # senaste modulen vinner
+    out = []
+    for p in _d.values():
+        if True:
             if p["id"] in HAND: continue
             out.append({"id": p["id"], "nr": p["nr"], "titel": p["titel"], "seo_title": p["seo_title"], "meta": p["meta"], "html": html(p)})
     json.dump(out, open("skriv_" + "_".join(sys.argv[1:]) + ".json", "w"), ensure_ascii=False, indent=1)

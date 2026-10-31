@@ -71,3 +71,10 @@ def test_dubbletter_i_batch():
 
 def test_saknad_fakta_ar_fel():
     assert ("FEL", "fakta_saknas") in regler({k: v for k, v in OK.items() if k != "fakta"})
+
+
+def test_massagerulle_som_produktnamn_ar_ok_men_paastaende_ar_fel():
+    ok = dict(OK, titel="Massagerulle Tunturi Grid Foam Roller, 33 cm", meta=OK["meta"])
+    assert ("FEL", "halsa") not in regler(ok)
+    assert ("FEL", "halsa") in regler(dict(ok, meta=OK["meta"] + " Massage av muskler lindrar smärta."))
+    assert ("FEL", "halsa") in regler(dict(OK, titel="Vibrationsplatta Tunturi V10"))

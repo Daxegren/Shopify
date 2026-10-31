@@ -28,6 +28,9 @@ ALIAS = {
 }
 FORBJUDNA_FRASER = ["upptäck", "perfekt för dig", "i dagens snabba", "höj din", "nästa nivå", "oavsett om", "toppkvalitet", "unik", "revolutionerande", "fantastisk", "oslagbar"]
 SUPERLATIV = re.compile(r"\b(bäst\w*|marknadsledande|ledande|världens|nummer 1|nr 1|störst\w*|billigast\w*)\b", re.I)
+# Produktnamn som innehåller hälsoord men beskriver redskapets typ (beslut David 2026-10-31): massagerulle, massagebollar, massage roller.
+# Bara själva ordet som produktnamn undantas. Påståenden ("lindrar", "massage av muskler") fångas fortfarande av ord omkring.
+PRODUKTNAMN_OK = re.compile(r"massage(?:rull\w*|boll\w*|-?roller|\s+roller)", re.I)
 HALSA = re.compile(r"protein|vitamin|kreatin|aminosyr|koffein|energi|fettförbr|viktminsk|viktnedgång|rehab|smärta|läk|hälsa|terap|bota|förebygg|vibration|massage|behandl|sjukdom|ledvärk|blodtryck", re.I)
 URSPRUNG = re.compile(r"\b(tillverk\w+|producer\w+|design\w+)\b[^.\n]{0,40}\bi\s+(?-i:[A-ZÅÄÖ])\w+|\bmade in\b", re.I)
 NATIONALITET = re.compile(r"\b(tysk\w*|italiensk\w*|svensk\w*|norsk\w*|dansk\w*|finsk\w*|kinesisk\w*|amerikansk\w*|engelsk\w*|holländsk\w*|taiwanesisk\w*)\b", re.I)
@@ -107,7 +110,7 @@ def kontrollera_produkt(p: dict, opt: argparse.Namespace) -> list[Fynd]:
         m = SUPERLATIV.search(ren)
         if m:
             fel("superlativ", f"{namn}: '{m.group(0)}'")
-        m = HALSA.search(ren)
+        m = HALSA.search(PRODUKTNAMN_OK.sub("", ren))
         if m:
             fel("halsa", f"{namn}: '{m.group(0)}' (kräver manuell granskning)")
         if PRIS.search(ren):

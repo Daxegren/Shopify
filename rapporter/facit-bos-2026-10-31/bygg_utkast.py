@@ -2,9 +2,11 @@
 """Bygger kontrollbar JSON och granskningsfil ur utkasten. Användning: python3 bygg_utkast.py batch1_a batch1_b ... (modulnamn utan .py)"""
 import importlib, json, subprocess, sys
 mods = sys.argv[1:] or ["batch1_a"]
-D = []
+_d = {}
 for m in mods:
-    D += importlib.import_module(m).D
+    for _p in importlib.import_module(m).D:
+        _d[_p["id"]] = _p  # senaste modulen vinner vid dubbletter
+D = list(_d.values())
 import os
 HAND = set(l.split()[0] for l in open("handhavd_ids.txt") if l.strip() and not l.startswith("#")) if os.path.exists("handhavd_ids.txt") else set()
 out, md = [], []
