@@ -1,0 +1,166 @@
+D = []
+def add(**k): D.append(k)
+
+add(nr=801, id="10472276001034", orig_titel="Pedaler TUNTURI Reha Pedaler med remmar",
+ fakta="Pedaler TUNTURI Reha Pedaler med remmar. Tunturi Reha-pedaler ger extra stöd när du trampar på en motionscykel eller en motionscykel med ryggstöd. Pedalerna har remmar vid trampdynan och hälstöd så att dina fötter inte glider av pedalerna. Det finns också vikter på pedalerna för att hålla pedalerna alltid i rätt position. Tillverkare . Detaljer: Mått: 28 x 20 x 16 cm. Produktvikt: 1,78 kg. Märke Tunturi, typ Konditionsträning & Fitness, variant Default Title, SKU 14TUSFU316",
+ titel="Pedaler Tunturi Reha med remmar för motionscykel",
+ seo_title="Pedaler Tunturi Reha med remmar",
+ meta="Tunturi Reha-pedaler för motionscykel, med remmar vid trampdynan, hälstöd och vikter som håller pedalerna i rätt position. Mått 28 x 20 x 16 cm, 1,78 kg.",
+ intro="Tunturi Reha är pedaler för motionscykel och motionscykel med ryggstöd. De har remmar vid trampdynan och hälstöd, och vikter på pedalerna som håller dem i rätt position.",
+ passar=["Dig som tränar på en motionscykel eller en motionscykel med ryggstöd","Dig som vill ha remmar vid trampdynan och hälstöd på pedalerna"],
+ spec=["Mått: 28 x 20 x 16 cm","Produktvikt: 1,78 kg","Remmar vid trampdynan","Hälstöd","Vikter på pedalerna för att hålla dem i rätt position"],
+ faq=[], marke=None,
+ motivering="Fakta ur källan. \"Ger extra stöd\" och att fötterna \"inte glider av\" skrivs inte som löften; funktionen beskrivs som remmar och hälstöd. Ingen hälso- eller rehabkoppling i texten (\"Reha\" behålls bara som modellnamn).",
+ att_bekrafta=["Raden \"Tillverkare .\" är tom i källan.","Om pedalerna är sålda i par framgår inte.","Fäste/gänga och vilka cyklar de passar saknas."])
+
+add(nr=802, id="10472277606666", orig_titel="Mini bike TUNTURI Mini Bike Foldable Easy",
+ fakta="Mini bike TUNTURI Mini Bike Foldable Easy. Mini Bike Tunturi Mini Bike är en hopfällbar minicykel och kompakt mobilitetstränare för hemmabruk. Ett utmärkt verktyg för rehabilitering och lätt träning. Den är lätt att använda när du sitter på en stol eller soffa. Minicykeln är utrustad med en display som visar parametrar som antal rotationer, tid, ungefärliga förbrända kalorier och rotationer per minut. Tillverkare Tunturi. Detaljer: Vikt: 2320 gram. Mått: 35 x 50 x 39 cm. Denna produkt är en beställningsvara och kan ta upp till 1 vecka längre att leverera. Märke Tunturi, typ Konditionsträning & Fitness, variant Default Title, SKU 14TUSFU273, tagg På beställning",
+ titel="Minicykel Tunturi Mini Bike Foldable Easy, hopfällbar",
+ seo_title="Minicykel Tunturi Mini Bike, hopfällbar",
+ meta="Tunturi Mini Bike Foldable Easy är en hopfällbar minicykel för hemmabruk med display för tid, rotationer och ungefärliga kalorier. Mått 35 x 50 x 39 cm.",
+ intro="Tunturi Mini Bike är en hopfällbar minicykel och kompakt mobilitetstränare för hemmabruk. Den används sittande på en stol eller soffa och har en display.",
+ passar=["Dig som vill träna sittande på en stol eller soffa","Dig som vill ha en kompakt, hopfällbar träningscykel för hemmabruk","Dig som vill följa tid, rotationer och ungefärliga kalorier på displayen"],
+ spec=["Vikt: 2320 g","Mått: 35 x 50 x 39 cm","Hopfällbar","Display: visar antal rotationer, tid, ungefärliga förbrända kalorier och rotationer per minut","Beställningsvara: kan ta upp till 1 vecka längre att leverera"],
+ faq=[("Kan jag använda minicykeln sittande?","Ja, den är lätt att använda när du sitter på en stol eller soffa.")], marke=None,
+ motivering="Fakta ur källan. \"Utmärkt verktyg för rehabilitering\" utelämnas (hälsopåstående). Displayens kaloriuppgift är källans \"ungefärliga\".",
+ att_bekrafta=["Motstånd/inställningar och maxvikt för användare saknas i källan.","Beställningsvara med upp till 1 vecka längre leverans: stämmer med standardblock för beställningsvaror?","Ordet \"Foldable Easy\" behålls som modellnamn."])
+
+add(nr=803, id="10472278720778", orig_titel="TOORX Kettlebell 16 kg",
+ fakta="TOORX Kettlebell 16 kg. Svart gjutjärnskettlebell med gummibotten. Tillverkad av Toorx (Italien). Märke Toorx, typ Konditionsträning & Fitness, variant Default Title, SKU KGV-16",
+ titel="Kettlebell Toorx 16 kg, svart gjutjärn med gummibotten",
+ seo_title="Kettlebell Toorx 16 kg, svart",
+ meta=None,
+ intro="Toorx kettlebell på 16 kg i svart gjutjärn med gummibotten.",
+ passar=[], spec=[], faq=[], marke=None,
+ motivering="Tunn källa (en mening): ingen utfyllnad. Landet i parentes (Italien) tas inte med.",
+ att_bekrafta=["Datablad behövs: mått, handtagsdiameter, vikttolerans.","Landsangivelsen (Italien) är obekräftad och utelämnad."])
+
+# 804 (10472299299082, Hantelvikter TOORX Safe Lock 50mm) hoppad: se rapport.
+
+add(nr=805, id="10472301035786", orig_titel="Hantel TOORX Neoprene Dumbbell, svart, 6 kg",
+ fakta="Hantel TOORX Neoprene Dumbbell, svart, 6 kg. OBS: Hantlar säljs styckvis. Tillverkaren är Toorx. Märke Toorx, typ Konditionsträning & Fitness, variant Default Title, SKU MN-6",
+ titel="Hantel Toorx Neoprene Dumbbell, svart, 6 kg",
+ seo_title="Hantel Toorx Neoprene, svart, 6 kg",
+ meta=None,
+ intro="Toorx Neoprene Dumbbell är en svart hantel på 6 kg. Hantlar säljs styckvis.",
+ passar=[], spec=[], faq=[], marke=None,
+ motivering="Tunn källa: bara titel och en notering om att hantlar säljs styckvis. Inga påhitt om beläggning, form eller grepp.",
+ att_bekrafta=["Datablad behövs: mått, grepp, material.","Om \"Neoprene\" betyder neoprenbeläggning framgår inte; behålls bara som modellnamn.","\"Dumbbell\" i titeln är engelskt och behålls som del av modellnamnet."])
+
+add(nr=806, id="10472301625610", orig_titel="Massage roller TOORX Grid Foam Roller, orange-black",
+ fakta="Massage roller TOORX Grid Foam Roller, orange-black. Massagematta och yogarulle är idealisk för riktad massage och muskelavslappning. Den hjälper också till att förbättra stabilitet och flexibilitet, och stöder effektivt återhämtningen efter träning. Tillverkad av Toorx. Märke Toorx, typ Konditionsträning & Fitness, tagg foam roller, Massage, variant Default Title, SKU AHF-061",
+ titel="Foamroller Toorx Grid, orange och svart",
+ seo_title="Foamroller Toorx Grid, orange och svart",
+ meta=None,
+ intro="Toorx Grid Foam Roller är en foamroller i orange och svart, beskriven som yogarulle.",
+ passar=["Dig som söker en foamroller eller yogarulle"],
+ spec=["Färg: orange och svart"],
+ faq=[], marke=None,
+ motivering="Effekt- och hälsopåståenden utelämnas (muskelavslappning, stabilitet, flexibilitet, återhämtning). Metabeskrivning utelämnas: källan ger för få verifierbara uppgifter.",
+ att_bekrafta=["Datablad behövs: mått, diameter, material, max belastning.","Källan kallar produkten både massagematta och yogarulle: oklart vilken typ det är."])
+
+add(nr=807, id="10472304214282", orig_titel="Jõujaam TUNTURI Platinum - Full Smith - Selectorized - V-Series",
+ fakta="Jõujaam TUNTURI Platinum - Full Smith - Selectorized - V-Series. Tunturi Platinum Full Smith/Functional Trainer - ett komplett styrketräningspass i en enda enhet. Denna högpresterande träningsenhet kombinerar en Smith-maskin med ett dubbelblocksystem för att ge en säker, mångsidig och kontrollerad träningsupplevelse. Med två viktblock på 100 kg, 16 justerbara blockpositioner och en hållbar stålram på 2,5 mm är denna maskin ett oumbärligt tillskott till alla professionella gym. Tillverkaren är Tunturi. Mer information: Vikter: 2 x 100 kg. Mått: 162 x 204 x 217 cm. Vikt: 464 kg. Märke Tunturi, typ Professionell utrustning, variant Default Title, SKU 25PVS40000, tagg På beställning, kabelmaskin, smithmaskin, träningsmaskin",
+ titel="Smithmaskin Tunturi Platinum Full Smith, Selectorized, V-Series",
+ seo_title="Smithmaskin Tunturi Platinum Full Smith",
+ meta="Tunturi Platinum Full Smith kombinerar Smith-maskin och dubbelblocksystem med två viktblock på 100 kg och 16 blockpositioner. Mått 162 x 204 x 217 cm.",
+ intro="Tunturi Platinum Full Smith/Functional Trainer kombinerar en Smith-maskin med ett dubbelblocksystem i en enhet. Den har två viktblock på 100 kg och 16 justerbara blockpositioner.",
+ passar=["Gym som vill ha Smith-maskin och dubbelblocksystem i en enhet","Träning med två viktblock på 100 kg vardera","Dig som vill kunna justera blockpositionen (16 lägen)"],
+ spec=["Vikter: 2 x 100 kg","Justerbara blockpositioner: 16","Stålram: 2,5 mm","Mått: 162 x 204 x 217 cm","Vikt: 464 kg"],
+ faq=[], marke=None,
+ motivering="Fakta ur källan. Säljfraser (\"högpresterande\", \"oumbärligt\", \"säker, mångsidig\", \"komplett\", \"hållbar\") utelämnas. Estniska \"Jõujaam\" översätts inte på gissning, titeln använder produkttypen Smithmaskin ur texten.",
+ att_bekrafta=["Titelns \"Jõujaam\" är estniska (styrkestation) och ska bytas på originalet.","Maxbelastning för Smith-stången och typ av stång saknas.","Beställningsvara (tagg På beställning), men källtexten har ingen leveranstext.","Monteringskrav och takhöjd saknas."])
+
+add(nr=808, id="10472308801802", orig_titel="TOORX Balansmatta, grön",
+ fakta="TOORX Balansmatta, grön. Tillverkaren är Toorx. Märke Toorx, typ Konditionsträning & Fitness, variant Default Title, SKU AHF-272",
+ titel="Balansmatta Toorx, grön",
+ seo_title="Balansmatta Toorx, grön",
+ meta=None,
+ intro="Toorx balansmatta i grönt.",
+ passar=[], spec=[], faq=[], marke=None,
+ motivering="Tunn källa (bara titel och tillverkare): inga påhitt om material, mått eller användning.",
+ att_bekrafta=["Datablad behövs: mått, tjocklek, material.","Oklart om \"balansmatta\" avser balanskudde, balansplatta eller matta."])
+
+add(nr=809, id="10475517772042", orig_titel="TOORX Bröstbälte 5.3 kHz",
+ fakta="TOORX Bröstbälte 5.3 kHz. Tillverkare: Toorx (Italien). Övrig information: Frekvens: 5,3 KHz. Frekvensomfång: 85 cm, upp till 100 cm (5,5 kHz). Märke Toorx, typ Konditionsträning & Fitness, tagg puls, pulsmätare, variant Default Title, SKU FC-TOORX",
+ titel="Bröstbälte Toorx 5,3 kHz",
+ seo_title="Bröstbälte Toorx 5,3 kHz",
+ meta=None,
+ intro="Toorx bröstbälte med frekvensen 5,3 kHz.",
+ passar=[],
+ spec=["Frekvens: 5,3 kHz"],
+ faq=[], marke=None,
+ motivering="Tunn källa. Raden om frekvensomfång utelämnas eftersom den är motsägelsefull. Landet i parentes tas inte med.",
+ att_bekrafta=["\"Frekvensomfång: 85 cm, upp till 100 cm (5,5 kHz)\" motsäger frekvensen 5,3 kHz och anger ett avstånd. Oklart.","Källan säger inte att det är pulsmätare (bara butikens taggar). Kompatibilitet med klockor/maskiner saknas.","Datablad behövs: storlek, justering, batteri."])
+
+add(nr=810, id="10475982651658", orig_titel="Tunturi Wall Ball 6 kg, röd",
+ fakta="Tunturi Wall Ball 6 kg, röd. Denna mjuka boll är tillverkad av syntetiskt läder och fylld med ull och sand. Sömmarna har overlock-sömmar för hållbarhet och är lämpliga för intensiv användning. Syntetmaterialet säkerställer ett bekvämt och fast grepp. Ett brett utbud av övningar kan utföras med wallbollen, såsom en kraftfull diagonal huggrörelse, en åtta-pick, burpees eller squats och pressar. Medicinbollen är inte lämplig för sparkar. Fördelar med Tunturi wall ball: Mycket robust boll med mjuk fyllning och överlappande sömmar. Högkvalitativt, starkt och hållbart skum med hög draghållfasthet. Idealisk för användning hemma eller på gymmet. Lämplig för inomhus- och utomhusbruk Idealisk för ett gympass eller träningsrum. Inomhus eller utomhus Användning på gymmet. Vikt: 6 kg. Färg: röd - svart. Material: syntetiskt läder | Fyllning: ull och sand. Om Tunturi: Må bättre varje dag. Våra rötter går tillbaka till 1922, då två bröder grundade en cykelbutik i Finland. Nu, mer än 100 år senare, är vi ett holländskt företag och ett globalt varumärke. Märke Tunturi, typ Konditionsträning & Fitness, variant Default Title (SKU 14TUSCF011), variant 14TUSCF011 (SKU 14TUSCF011)",
+ titel="Medicinboll Tunturi Wall Ball, 6 kg, röd",
+ seo_title="Medicinboll Tunturi Wall Ball 6 kg",
+ meta="Tunturi Wall Ball är en mjuk medicinboll på 6 kg i syntetiskt läder, fylld med ull och sand. Passar övningar som burpees, squats och pressar, inne och ute.",
+ intro="Tunturi Wall Ball är en mjuk medicinboll på 6 kg i syntetiskt läder, fylld med ull och sand. Den har overlock-sömmar och kan användas både inomhus och utomhus.",
+ passar=["Övningar som burpees, squats och pressar","Träning hemma eller på gymmet","Användning både inomhus och utomhus"],
+ spec=["Vikt: 6 kg","Färg: röd - svart","Material: syntetiskt läder","Fyllning: ull och sand","Overlock-sömmar"],
+ faq=[("Kan jag sparka på bollen?","Nej, källan anger att medicinbollen inte är lämplig för sparkar.")], marke=None,
+ motivering="Fakta ur källan. Utelämnat: superlativ och säljfraser (\"mycket robust\", \"högkvalitativt\", \"idealisk\"), hållbarhets- och draghållfasthetspåståenden, märkets motto och hälsotext. \"Åtta-pick\" (osäker översättning) skrivs inte vidare.",
+ att_bekrafta=["Texten nämner \"skum\" (\"högkvalitativt skum\") trots att bollen sägs vara läder fylld med ull och sand. Motsägelse, utelämnad.","Titeln säger röd, specifikationen röd - svart.","Produkten har två varianter med samma SKU (14TUSCF011), troligen dubblett.","Diameter saknas."])
+
+add(nr=811, id="10650166853898", orig_titel="Trampolin HAMMER Cross Jump 98cm",
+ fakta="Trampolin HAMMER Cross Jump 98cm. Hammer Cross Jump-trampolinen gör viktnedgång enkel och rolig. Träning på fitnesstrampoliner är en utmaning i sig och är därför ett snabbt sätt att gå ner i vikt. En vältränad rumpa, smala ben och starka bålmuskler uppnås enkelt med denna trampolin. För att även träna överkroppens muskler är det värt att inkludera små hantlar i träningen. Att bränna 1000 kilokalorier på en timme är inget problem med denna trampolin! Trampolinens ben är vikbara, vilket gör att du kan placera trampolinen utom synhåll när du inte tränar. Tillverkad av Hammer (Tyskland). Detaljer: Minsta takhöjd: 220 cm. Minsta höjd på trampolinen: 220 cm (220 cm) Trampolinens hoppareas diameter: 98 cm. Produktvikt: 13 kg. Mått: 120 x 130 x 140 cm. Maximal användarvikt: 130 kg. Märke Hammer, typ Utomhusträning, variant Default Title, SKU 66426",
+ titel="Trampolin Hammer Cross Jump, 98 cm, vikbara ben",
+ seo_title="Trampolin Hammer Cross Jump 98 cm",
+ meta="Hammer Cross Jump är en fitnesstrampolin med hopparea på 98 cm i diameter och vikbara ben. Produktvikt 13 kg, maximal användarvikt 130 kg.",
+ intro="Hammer Cross Jump är en fitnesstrampolin med en hopparea på 98 cm i diameter. Benen är vikbara, så trampolinen kan placeras utom synhåll när den inte används.",
+ passar=["Dig som vill träna på trampolin hemma","Dig som vill kunna fälla ihop benen och ställa undan trampolinen","Användare upp till 130 kg"],
+ spec=["Hoppareans diameter: 98 cm","Mått: 120 x 130 x 140 cm","Produktvikt: 13 kg","Maximal användarvikt: 130 kg","Minsta takhöjd: 220 cm","Vikbara ben"],
+ faq=[("Hur hög takhöjd behövs?","Minsta takhöjd är 220 cm.")], marke=None,
+ motivering="Fakta ur källan. Utelämnat: viktnedgång, kaloriförbränning (1000 kilokalorier), kroppsformande löften och \"snabbt sätt\" (effekt- och hälsopåståenden), utropstecken samt landet i parentes (Tyskland).",
+ att_bekrafta=["Raden \"Minsta höjd på trampolinen: 220 cm\" är dubblett av takhöjden och orimlig som trampolinhöjd. Utelämnad.","Om måttet 120 x 130 x 140 cm gäller uppfälld eller hopfälld framgår inte.","Inga uppgifter om studs/fjädrar, ram eller material."])
+
+add(nr=812, id="10462778818826", orig_titel="Yogamatta Tunturi Yogamat 8mm, Grå",
+ fakta="Yogamatta Tunturi Yogamat 8mm, Grå. Vem tränar utan matta nuförtiden? Oavsett om du ligger ner för magövningar eller utövar yoga sittande, ger en matta extra komfort och stabilitet. Med Tunturis extra tjocka 8 mm matta har du en yogamatta, sportmatta och träningsmatta i ett. Mattan ger extra komfort, är skonsammare för muskler och leder och är tillverkad av miljövänligt material. Fördelar med Tunturi yogamatta - Träningsmatta - Sportmatta: Extra tjock 8 mm matta för maximal komfort under träning. Perfekt för yoga-, fitness- och pilatesklasser. Tjockleken ger mindre belastning på rygg, ben, knän, vrister och leder. Halkfri, lätt att rengöra och biologiskt nedbrytbar. Levereras med praktisk bärväska och gratis app. Tjock yogamatta för extra komfort: Tunturi Yoga Mat 8 mm är idealisk för alla yogaformer där du utför många positioner liggande eller sittande, som yin yoga, yoga nidra och meditation. Detta beror på att mattan är tjockare än \"vanliga\" yogamattor (3-4 mm), vilket ger extra komfort och gör att du kan slappna av snabbare. Perfekt om ett hårt golv hemma eller på gymmet lätt orsakar obehag. Mindre belastning på muskler och leder: Mattan är också mycket lämplig för andra träningsformer som fitness och pilates, även om du lider av (kronisk) smärta eller återhämtar dig från en skada. Tjockleken minskar belastningen på din rygg, ben, knän, vrister och leder. Miljövänlig och lätt att rengöra: Yogamattan är tillverkad av 100 % TPE: en kombination av gummi och plast. Detta miljövänliga material är 100 % biologiskt nedbrytbart, extra mjukt, halkfritt och motståndskraftigt mot svett, lukt och bakterier. Så du behöver inte oroa dig för synliga svettfläckar. För extra hygien kan du enkelt rengöra mattan med lite diskmedel. Bärväska ingår: Träningsmattan finns i 7 trendiga färger och levereras med en bärväska så att du enkelt kan ta med den vart du än går. Är det första gången du använder en matta? Ta ut den ur förpackningen, rulla ut den på golvet och låt den vila i några timmar. Detta förhindrar att mattan rullar ihop sig när du först lägger dig på den. Om Tunturi: Må bättre varje dag. Våra rötter finns i Finland, där två bröder grundade en cykelbutik 1922. Nu, över 100 år senare, är vi ett holländskt företag och ett globalt varumärke. Mer information: Mått. Vikt: 950 gr. Material: TPE. Färg: grå. STORLEK: 950 TPE. EAN: 8717842035375. Märke Tunturi, typ Yogamattor, variant Default Title, SKU 14TUSYO078",
+ titel="Yogamatta Tunturi 8 mm, grå",
+ seo_title="Yogamatta Tunturi 8 mm, grå",
+ meta="Tunturi yogamatta på 8 mm i TPE, tjockare än vanliga yogamattor (3-4 mm). Halkfri och lätt att rengöra, med bärväska. Finns i 7 färger, här grå.",
+ intro="Tunturi Yoga Mat 8 mm är en extra tjock matta i TPE för yoga, fitness och pilates. Den är halkfri, lätt att rengöra och levereras med bärväska.",
+ passar=["Yoga där du utför många positioner liggande eller sittande, till exempel yin yoga, yoga nidra och meditation","Fitness och pilates","Dig som vill ha en tjockare matta än vanliga yogamattor (3-4 mm)"],
+ spec=["Tjocklek: 8 mm","Material: TPE (kombination av gummi och plast)","Egenskaper: halkfri, lätt att rengöra med lite diskmedel","Levereras med: bärväska","Färg: grå, finns i 7 färger","Vikt: 950 g"],
+ faq=[("Hur rengör jag mattan?","Rengör mattan med lite diskmedel."),("Vad ska jag göra när mattan är ny?","Ta ut den ur förpackningen, rulla ut den på golvet och låt den vila i några timmar.")], marke=None,
+ motivering="Fakta ur källan. Utelämnat: hälsopåståenden (mindre belastning på leder, smärta, skada, slappna av snabbare), miljöpåståenden (miljövänlig, 100 % biologiskt nedbrytbar), superlativ (perfekt, maximal, idealisk) och märkets bakgrundstext. \"Gratis app\" skrivs inte eftersom appen inte namnges.",
+ att_bekrafta=["Källan har en tom rad \"Mått.\": längd och bredd saknas.","Raden \"STORLEK: 950 TPE\" är oklar och utelämnad.","Miljöpåståendet \"100 % biologiskt nedbrytbar\" kräver belägg innan det kan användas.","Vilken app som ingår framgår inte."])
+
+add(nr=813, id="10470932807946", orig_titel="Weight HAMMER Body Screen TX",
+ fakta="Weight HAMMER Body Screen TX. HAMMER Body Screen TX skannar din kropp och visar 43 exakta och hälsorelaterade parametrar, inklusive segmental analys av din kroppssammansättning och hälsopoäng, med patenterade sensorer. Så du kan hålla koll på din hälsa och träningsresultat - tydligt och enkelt tack vare den kostnadsfria Bodypedia-appen. Tillverkare . Detaljer: Vikt: 2,35 kg. Sensorer: 4 viktsensorer, 4 handsensorer. Mätmetoder: DSM-BIA och SMFIM. Maximal belastningsvikt: 200 kg. Mått: 31,5 x 31,5 x 3,3 cm. Strömförsörjning: 4 x AA-batterier. Märke Hammer, typ Konditionsträning & Fitness, variant Default Title, SKU 75000",
+ titel="Kroppsskanner Hammer Body Screen TX, 4 handsensorer",
+ seo_title="Kroppsskanner Hammer Body Screen TX",
+ meta="Hammer Body Screen TX skannar kroppen och visar 43 parametrar, bland annat segmental analys av kroppssammansättning. Fyra vikt- och fyra handsensorer.",
+ intro="Hammer Body Screen TX skannar kroppen och visar 43 parametrar, inklusive segmental analys av kroppssammansättning. Den används tillsammans med Bodypedia-appen.",
+ passar=["Dig som vill följa kroppssammansättning med segmental analys","Dig som vill använda Bodypedia-appen tillsammans med mätningarna","Användare upp till 200 kg"],
+ spec=["Parametrar: 43","Sensorer: 4 viktsensorer, 4 handsensorer","Mätmetoder: DSM-BIA och SMFIM","Maximal belastningsvikt: 200 kg","Mått: 31,5 x 31,5 x 3,3 cm","Vikt: 2,35 kg","Strömförsörjning: 4 x AA-batterier","App: Bodypedia"],
+ faq=[], marke=None,
+ motivering="Fakta ur källan. Utelämnat: \"exakta\", \"patenterade\", \"hälsorelaterade\", hälsopoäng och att man kan \"hålla koll på sin hälsa\" (hälsopåståenden och overifierade löften). \"Kostnadsfri\" app skrivs inte.",
+ att_bekrafta=["Titelns \"Weight\" är engelskt; produkttypen (våg/kroppsanalysvåg) står inte i källan, därför används \"Kroppsskanner\" efter källans \"skannar din kropp\".","Raden \"Tillverkare .\" är tom.","Mätnoggrannhet och om produkten är avsedd för medicinsk användning framgår inte; texten ger inga sådana löften.","Om batterier ingår framgår inte."])
+
+add(nr=814, id="10470934544650", orig_titel="Roddmaskin TUNTURI Signature R90W by Fluid + Tunturi-app",
+ fakta="Roddmaskin TUNTURI Signature R90W by Fluid + Tunturi-app. Tunturi by Fluid R90W paddlingsergometer erbjuder dig en paddlingsupplevelse av hög kvalitet med justerbart vattenmotstånd. Maskinen kombinerar askträets hållbarhet med stålets styrka. Tillverkaren är Tunturi. Mer information: Skärm: LCD, 80 x 65 mm. Träningsprogram: 1. Bromssystem: vatten. Mått: 213 x 52 x 56 cm. Produktvikt: 31,8 kg. Maximal användarvikt: 150 kg. Märke Tunturi, typ Professionell utrustning, variant Default Title, SKU 24TRW90000, tagg På beställning, Roddmaskin, status i butiken ARCHIVED",
+ titel="Roddmaskin Tunturi Signature R90W by Fluid, vattenmotstånd",
+ seo_title="Roddmaskin Tunturi Signature R90W",
+ meta="Tunturi Signature R90W by Fluid är en roddmaskin med justerbart vattenmotstånd, LCD-skärm och ett träningsprogram. Mått 213 x 52 x 56 cm, upp till 150 kg.",
+ intro="Tunturi Signature R90W by Fluid är en roddmaskin med vatten som bromssystem och justerbart vattenmotstånd. Maskinen kombinerar ask och stål.",
+ passar=["Dig som vill ha en roddmaskin med justerbart vattenmotstånd","Användare upp till 150 kg","Dig som vill ha en LCD-skärm med ett träningsprogram"],
+ spec=["Bromssystem: vatten, justerbart motstånd","Skärm: LCD, 80 x 65 mm","Träningsprogram: 1","Mått: 213 x 52 x 56 cm","Produktvikt: 31,8 kg","Maximal användarvikt: 150 kg","Material: ask och stål"],
+ faq=[], marke=None,
+ motivering="Fakta ur källan. \"Hög kvalitet\" och \"hållbarhet/styrka\" utelämnas. \"Tunturi-app\" i titeln beskrivs inte i källan och tas inte med.",
+ att_bekrafta=["Produkten är ARCHIVED i butiken: ska texten ändå skrivas?","Titeln nämner en Tunturi-app, men källtexten säger inget om den.","Källan kallar produkten \"paddlingsergometer\" (maskinöversättning), tolkad som roddmaskin utifrån titel och taggen Roddmaskin.","Beställningsvara (tagg), men ingen leveranstext i källan."])
+
+add(nr=815, id="10470942114058", orig_titel="Viktplatta TUNTURI Aerobic Plates 10.0kg, Enkel, grön",
+ fakta="Viktplatta TUNTURI Aerobic Plates 10.0kg, Enkel, grön. Dessa Tunturi Aerobic viktskivor är ett måste i alla gym. Kombinera med olika vikter och ett lyfthandtag och du har den perfekta uppsättningen för att träna och stärka dig själv. Viktskivorna har olika färger så att du enkelt kan skilja dem åt. Dessa viktskivor har tre fästpunkter så att du kan använda dem för olika övningar. Skivorna är täckta med gummi så att de är lätta att hålla i och inte ger ifrån sig ett högt ljud när de tappas. De är lätta att hålla i och ger inget ljud. Detaljer: Axeldiameter: 30 mm. Skivdiameter: 28,5 cm. Skivtjocklek: 5,1 cm. 5,5 mm Ø 5,1 mm. Märke Tunturi, typ Konditionsträning & Fitness, variant Default Title, SKU 14TUSCL294, status i butiken DRAFT",
+ titel="Viktskiva Tunturi Aerobic Plates 10 kg, grön, gummerad",
+ seo_title="Viktskiva Tunturi Aerobic 10 kg, grön",
+ meta="Tunturi Aerobic är en viktskiva på 10 kg i grönt, täckt med gummi och med tre fästpunkter. Axeldiameter 30 mm, skivdiameter 28,5 cm och tjocklek 5,1 cm.",
+ intro="Tunturi Aerobic är en grön viktskiva på 10 kg, täckt med gummi och med tre fästpunkter för olika övningar.",
+ passar=["Övningar där skivan används med sina tre fästpunkter","Dig som vill skilja olika vikter åt med färg","Kombination med andra vikter och ett lyfthandtag"],
+ spec=["Vikt: 10 kg","Färg: grön","Axeldiameter: 30 mm","Skivdiameter: 28,5 cm","Skivtjocklek: 5,1 cm","Täckt med gummi","Tre fästpunkter"],
+ faq=[], marke=None,
+ motivering="Fakta ur källan. Utelämnat: \"ett måste i alla gym\", \"perfekta\", ljudpåståenden (\"inget ljud\"), eftersom de är säljfraser/överdrifter. Raden \"5,5 mm Ø 5,1 mm\" skrivs inte vidare.",
+ att_bekrafta=["Produkten är DRAFT i butiken.","\"Enkel\" i originaltiteln är oklar (en skiva?); utelämnad.","Raden \"5,5 mm Ø 5,1 mm\" är oklar och motsäger skivtjocklek 5,1 cm.","Källan säger \"viktskivor\" i plural; texten gäller en skiva på 10 kg enligt titeln."])
