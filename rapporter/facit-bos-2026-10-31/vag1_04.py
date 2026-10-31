@@ -39,7 +39,7 @@ add(nr=404, id="10472215544074", orig_titel="Massage roller TUNTURI Yoga Massage
  fakta="Massage roller TUNTURI Yoga Massage Roller 90 cm. Fördelar med Tunturi massage roller: Stödjer dig i dina favoritpositioner inom yoga och Pilates. Tillverkad av mjukt och flexibelt skumgummi för ett bekvämt träningspass. \"Må bättre varje dag\" - det är Tunturimottot. Våra rötter går tillbaka till Finland, där två bröder startade en cykelbutik 1922. Nu, över 100 år senare, är vi ett holländskt företag och ett globalt varumärke. Vi stöder dig på din resa mot en frisk och vältränad kropp, ett balanserat sinne och ett lyckligt liv. Vi gör detta med ett brett utbud av konditions- och styrketräningsutrustning, tillbehör och supportappar. Sortimentet utökas ständigt och kompletteras med kvalitetsprodukter och utmärkta garantier. Tekniska specifikationer. Märke Tunturi, typ Massage, taggar Fell, Massage, Tunturi, Velomarket, Yoga, varianter Default Title och 14TUSYO008, SKU 14TUSYO008",
  titel="Yogarulle Tunturi, 90 cm, skumgummi",
  seo_title="Yogarulle Tunturi, 90 cm, skumgummi",
- meta="Tunturi yogarulle på 90 cm i mjukt och flexibelt skumgummi, avsedd som stöd i dina favoritpositioner inom yoga och pilates. Tekniska data saknas.",
+ meta="Tunturi yogarulle på 90 cm, tillverkad av mjukt och flexibelt skumgummi för ett bekvämt träningspass. Stödjer positioner inom yoga och pilates.",
  intro="Tunturi yogarulle är en rulle på 90 cm i mjukt och flexibelt skumgummi. Den är avsedd som stöd i positioner inom yoga och pilates.",
  passar=["Yoga och pilates, som stöd i positioner","Dig som vill ha en rulle av mjukt och flexibelt skumgummi"],
  spec=["Längd: 90 cm","Material: mjukt och flexibelt skumgummi"],

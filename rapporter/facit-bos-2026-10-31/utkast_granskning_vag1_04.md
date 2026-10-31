@@ -91,7 +91,7 @@ Produkt-id: `10472215544074`
 
 **Titel:** Yogarulle Tunturi, 90 cm, skumgummi  (35 tecken)
 **SEO-titel:** Yogarulle Tunturi, 90 cm, skumgummi  (35 tecken)
-**Metabeskrivning:** Tunturi yogarulle på 90 cm i mjukt och flexibelt skumgummi, avsedd som stöd i dina favoritpositioner inom yoga och pilates. Tekniska data saknas.  (145 tecken)
+**Metabeskrivning:** Tunturi yogarulle på 90 cm, tillverkad av mjukt och flexibelt skumgummi för ett bekvämt träningspass. Stödjer positioner inom yoga och pilates.  (143 tecken)
 
 **Beskrivning (utkast):**
 
