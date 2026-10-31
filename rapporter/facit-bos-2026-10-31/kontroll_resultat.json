@@ -1,0 +1,128 @@
+[
+ {
+  "produkt": "10605358055690",
+  "nivå": "VARNING",
+  "regel": "struktur",
+  "text": "saknar avsnittet 'passar dig som'"
+ },
+ {
+  "produkt": "10605358055690",
+  "nivå": "VARNING",
+  "regel": "struktur",
+  "text": "saknar avsnittet 'specifikationer'"
+ },
+ {
+  "produkt": "10605358055690",
+  "nivå": "VARNING",
+  "regel": "beskrivning_langd",
+  "text": "7 ord (förväntat 40–450)"
+ },
+ {
+  "produkt": "10472237957386",
+  "nivå": "VARNING",
+  "regel": "struktur",
+  "text": "saknar avsnittet 'passar dig som'"
+ },
+ {
+  "produkt": "10472237957386",
+  "nivå": "VARNING",
+  "regel": "struktur",
+  "text": "saknar avsnittet 'specifikationer'"
+ },
+ {
+  "produkt": "10472237957386",
+  "nivå": "VARNING",
+  "regel": "beskrivning_langd",
+  "text": "12 ord (förväntat 40–450)"
+ },
+ {
+  "produkt": "10472299069706",
+  "nivå": "VARNING",
+  "regel": "struktur",
+  "text": "saknar avsnittet 'passar dig som'"
+ },
+ {
+  "produkt": "10472299069706",
+  "nivå": "VARNING",
+  "regel": "struktur",
+  "text": "saknar avsnittet 'specifikationer'"
+ },
+ {
+  "produkt": "10472299069706",
+  "nivå": "VARNING",
+  "regel": "beskrivning_langd",
+  "text": "10 ord (förväntat 40–450)"
+ },
+ {
+  "produkt": "10472299004170",
+  "nivå": "VARNING",
+  "regel": "struktur",
+  "text": "saknar avsnittet 'passar dig som'"
+ },
+ {
+  "produkt": "10472299004170",
+  "nivå": "VARNING",
+  "regel": "struktur",
+  "text": "saknar avsnittet 'specifikationer'"
+ },
+ {
+  "produkt": "10472299004170",
+  "nivå": "VARNING",
+  "regel": "beskrivning_langd",
+  "text": "12 ord (förväntat 40–450)"
+ },
+ {
+  "produkt": "10462778097930",
+  "nivå": "VARNING",
+  "regel": "struktur",
+  "text": "saknar avsnittet 'passar dig som'"
+ },
+ {
+  "produkt": "10462778097930",
+  "nivå": "VARNING",
+  "regel": "struktur",
+  "text": "saknar avsnittet 'specifikationer'"
+ },
+ {
+  "produkt": "10462778097930",
+  "nivå": "VARNING",
+  "regel": "beskrivning_langd",
+  "text": "8 ord (förväntat 40–450)"
+ },
+ {
+  "produkt": "10581097054474",
+  "nivå": "VARNING",
+  "regel": "struktur",
+  "text": "saknar avsnittet 'passar dig som'"
+ },
+ {
+  "produkt": "10581097054474",
+  "nivå": "VARNING",
+  "regel": "struktur",
+  "text": "saknar avsnittet 'specifikationer'"
+ },
+ {
+  "produkt": "10581097054474",
+  "nivå": "VARNING",
+  "regel": "beskrivning_langd",
+  "text": "9 ord (förväntat 40–450)"
+ },
+ {
+  "produkt": "10472239956234",
+  "nivå": "VARNING",
+  "regel": "struktur",
+  "text": "saknar avsnittet 'passar dig som'"
+ },
+ {
+  "produkt": "10472239956234",
+  "nivå": "VARNING",
+  "regel": "struktur",
+  "text": "saknar avsnittet 'specifikationer'"
+ },
+ {
+  "produkt": "10472239956234",
+  "nivå": "VARNING",
+  "regel": "beskrivning_langd",
+  "text": "9 ord (förväntat 40–450)"
+ }
+]
