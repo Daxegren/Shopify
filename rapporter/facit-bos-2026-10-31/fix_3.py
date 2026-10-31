@@ -1,0 +1,108 @@
+D = []
+def add(**k): D.append(k)
+
+add(nr=106, id="10588447539466", orig_titel="Magträningshjul TUNTURI Pro Exercise Wheel Deluxe, med knäskydd",
+ fakta="Magträningshjul TUNTURI Pro Exercise Wheel Deluxe, med knäskydd. Fördelar med magrullehjulet: Stabil träningsrulle. Stabil stabilitet. Extra hållbar Rullen har en distinkt profil, förutom de tre ekrarna, för extra stabilitet och säkerhet. De halkfria handtagen säkerställer ett stadigt grepp. Det kan ta lite tid att lära sig rätt teknik, men när du väl har fått kläm på det kommer du inte att vilja vara utan denna träningspartner. Översikt över specifikationer: Mått. Vikt: 1 kg. Material: syntetiskt. Färg: svart och grön. Märke Tunturi, typ Magträningshjul, tagg Magträningshjul, Tunturi, Velomarket. Variant Default Title, SKU 14TUSFU194",
+ titel="Magträningshjul Tunturi Pro Exercise Wheel Deluxe, med knäskydd",
+ seo_title="Magträningshjul Tunturi Pro Deluxe",
+ meta="Tunturi Pro Exercise Wheel Deluxe är ett magträningshjul med knäskydd och halkfria handtag. Hjulet väger 1 kg, är i syntetmaterial och svart och grönt.",
+ intro="Tunturi Pro Exercise Wheel Deluxe är ett magträningshjul med knäskydd och halkfria handtag. Det väger 1 kg och är svart och grönt.",
+ passar=["Dig som vill träna med ett magträningshjul","Dig som vill ha halkfria handtag"],
+ spec=["Vikt: 1 kg","Material: syntetiskt","Färg: svart och grön","Handtag: halkfria","Med knäskydd"],
+ faq=[], marke=None,
+ motivering="Fakta ur källan. Den interna källhänvisningen i metan och formuleringen \"finns med knäskydd\" (som lät som en valbar variant) är borttagna: knäskydd skrivs nu rakt som en del av produkten, i linje med titeln. \"Stabil stabilitet\", \"extra hållbar\", \"tre ekrar\", \"säkerhet\" och Tunturis märkestext utelämnas.",
+ att_bekrafta=["Knäskydd nämns bara i titeln, inte i beskrivningen. Bekräfta att de ingår och hur de ser ut.","Källan säger \"de tre ekrarna\" och \"Stabil stabilitet\", troligen maskinöversättning. Utelämnat.","Hjulets diameter och bredd saknas (raden \"Mått.\" är tom).","Max användarvikt saknas."])
+
+add(nr=112, id="10472281309450", orig_titel="Ben- och armvikter TUNTURI Arm/Leg Weights 1kg",
+ fakta="Ben- och armvikter TUNTURI Arm/Leg Weights 1kg. Gör ditt träningspass mer intensivt och utmanande genom att linda dessa Tunturi-vikter runt handlederna eller anklarna. Vikterna lägger extra belastning på dina muskler under sportaktiviteter som fitness, yoga, löpning eller fotboll. Ankel- och handledsvikter finns i flera modeller. Du kan börja med denna lätta version 2 x 1 kg. När det blir lättare kan du börja använda tyngre vikter. Fäst vikterna med en spännrem. Fördelar med Tunturi arm-/armvikter - 2 x 1 kg. - Vikterna har en mjuk känsla och är bekväma att bära. - Enkelt och billigt sätt att intensifiera ditt träningspass. - Lätta att bära och använda på olika platser. Omfattande specifikationer: Mått (LWH): 13 x 4 x 34 cm. Vikt: 2 x 1 kg (2 x 1 kg). Med kardborrefäste. En storlek - 1,5 kg (1,5 lb). Set om 2 stycken. Färg: Svart | Grå. Material: nylon. Nylon Finns även i andra vikter. Produktkod: 14TUSFU118. EAN-kod: 8717842020371. Märke Tunturi, typ Extra vikter, tillbehör, tagg Extra vikter, Fell, fotledsvikt, tillbehör, Tunturi, Velomarket. Variant Default Title, SKU 14TUSFU118",
+ titel="Handleds- och fotvikter Tunturi 2 x 1 kg, nylon",
+ seo_title="Handleds- och fotvikter Tunturi 2 x 1 kg",
+ meta="Tunturi handleds- och fotvikter i nylon, set om 2 stycken på 1 kg vardera, med kardborrefäste. Svarta och grå. Finns även i andra vikter.",
+ intro="Tunturi handleds- och fotvikter är ett set om två vikter på 1 kg vardera i nylon, med kardborrefäste. De fästs runt handlederna eller anklarna.",
+ passar=["Dig som vill träna med extra vikt runt handleder eller anklar","Fitness, yoga, löpning eller fotboll","Dig som vill börja med en lätt version på 2 x 1 kg"],
+ spec=["Vikt: 2 x 1 kg","Set: 2 stycken","Material: nylon","Fäste: kardborrefäste","Färg: svart och grå","Finns även i andra vikter"],
+ faq=[], marke=None,
+ motivering="Fakta ur källan. Måttet 13 x 4 x 34 cm är borttaget (orimlig ordning, längd 13 och höjd 34). Raden \"En storlek - 1,5 kg\" motsäger 2 x 1 kg och skrivs inte vidare. Namnet är enhetligt med syskonprodukten. Säljfraser och Tunturis märkestext utelämnas.",
+ att_bekrafta=["Källan har raden \"En storlek - 1,5 kg (1,5 lb)\" som motsäger 2 x 1 kg (och 1,5 lb är inte 1,5 kg). Är det en kvarleva från en annan modell?","Källan säger både att vikterna fästs med spännrem och att de har kardborrefäste. Texten använder kardborrefäste.","Måttet 13 x 4 x 34 cm är utelämnat eftersom ordningen är orimlig. Bekräfta rätt mått och om det gäller en vikt.","Butikens originaltitel är \"Ben- och armvikter\", medan källan beskriver handleds- och ankelvikter. Titeln följer syskonprodukten \"Handleds- och fotvikter\"."])
+
+add(nr=204, id="10470998147338", orig_titel="Träningsboll TUNTURI Gymball 75cm Anti Burst, lila",
+ fakta="Träningsboll TUNTURI Gymball 75cm Anti Burst, lila. Fördelar med Tunturi Gymbal: Skottsäker. Hållbar - Tålig mot stötar och vibrationer. Oförstörbar eftersom den tål belastningar upp till 350 kg. Uppblåsbar och därmed lätt att förvara. Med den medföljande pumpen kan du blåsa upp den var du vill. Tekniska data översikt: Vikt: 1198 gr. Färg: Svart. Material: vinyl. Ø: 75 cm. Notera: när du använder bollen för första gången, fyll den med maximal mängd luft. Bollen kan sträcka sig till rätt storlek inom 1 eller 2 dagar. Vilken storlek behöver du? Kroppslängd upp till 155 cm = Ø 45 cm. 155 cm - 165 cm = Ø 55 cm. 166 cm - 178 cm = Ø 65 cm. 179 cm - 190 cm = Ø 75 cm. 190 cm eller längre = Ø 90 cm. Märke Tunturi, typ Träningsbollar, variant Default Title, SKU 14TUSFU338",
+ titel="Träningsboll Tunturi Gymball 75 cm",
+ seo_title="Träningsboll Tunturi Gymball 75 cm",
+ meta="Tunturi Gymball är en uppblåsbar träningsboll i vinyl med diameter 75 cm och vikt 1198 g. Pump medföljer. Enligt Tunturi passar den kroppslängd 179–190 cm.",
+ intro="Tunturi Gymball 75 cm är en uppblåsbar träningsboll i vinyl med diameter 75 cm. En pump medföljer.",
+ passar=["Dig som är 179–190 cm lång enligt tillverkarens storleksguide","Dig som vill ha en uppblåsbar boll som är lätt att förvara","Dig som vill kunna blåsa upp bollen var du vill med den medföljande pumpen"],
+ spec=["Diameter: 75 cm","Material: vinyl","Vikt: 1198 g","Uppblåsbar, pump medföljer"],
+ faq=[("Vilken storlek ska jag välja?","Enligt tillverkarens storleksguide är 75 cm lämplig för kroppslängd 179–190 cm."),("Hur gör jag första gången?","Fyll bollen med maximal mängd luft. Den kan sträcka sig till rätt storlek inom 1 eller 2 dagar.")], marke=None,
+ motivering="Fakta ur källan. \"Anti-burst\" är borttaget ur titel och meta (säkerhetslöfte som inte går att bekräfta; källan säger \"Skottsäker\" och \"Oförstörbar\" med 350 kg). Färgen utelämnas (titel lila, detaljer svart). Instruktionen för första användningen ligger bara under Vanliga frågor.",
+ att_bekrafta=["Färgen: titeln säger lila men detaljerna säger \"Färg: Svart\".","\"Anti-Burst\" står bara i originaltiteln. Bekräfta om bollen är sprängsäker innan det används.","\"Skottsäker\" och \"Oförstörbar\" är orimliga påståenden, och 350 kg avviker från 220 kg hos andra Gymball-produkter. Verklig bärförmåga behövs.","Raden \"11.Vin Vinyl: PVC: …\" är trasig maskinöversättning och är inte medtagen."])
+
+add(nr=303, id="10472303689994", orig_titel="TUNTURI Gymnastikboll 90cm, Anti-Burst, Mint",
+ fakta="TUNTURI Gymnastikboll 90cm, Anti-Burst, Mint. Om du letar efter en gymnastikboll som inte bara tar din träning till nästa nivå, utan också är lämplig för yoga, stretching och kanske till och med att sitta vid ett skrivbord, är Tunturi Gymball ett utmärkt val! Tunturi Gymball är designad för att stödja vikter upp till 220 kg, vilket garanterar hållbarhet och stabilitet i varje rörelse. Välj rätt storlek på bollen för din längd: 55 cm - lämplig för längder mellan 155-165 cm. 65 cm - lämplig för längd 166-178 cm. 75 cm - lämplig för längder 179-190 cm. 90 cm - lämplig för längd > 190 cm. Tillverkaren är Tunturi. Detaljer: Diameter: 90 cm. Produktvikt: 1,5 kg. Bärförmåga: 220 kg. Produkten finns på Tunturis webbplats. Märke Tunturi. Typ Konditionsträning & Fitness. Variant Default Title, SKU 14TUSFU367",
+ titel="Gymnastikboll Tunturi Gymball 90 cm, mint",
+ seo_title="Gymnastikboll Tunturi Gymball, 90 cm",
+ meta="Tunturi Gymball är en gymnastikboll med diameter 90 cm, avsedd för längd över 190 cm. Bollen väger 1,5 kg och har en bärförmåga på 220 kg. Färg: mint.",
+ intro="Tunturi Gymball är en gymnastikboll med diameter 90 cm och en bärförmåga på 220 kg. Storleken 90 cm är avsedd för längd över 190 cm.",
+ passar=["Dig som är längre än 190 cm","Yoga och stretching","Dig som vill sitta på bollen vid ett skrivbord"],
+ spec=["Diameter: 90 cm","Produktvikt: 1,5 kg","Bärförmåga: 220 kg","Storlek 90 cm: lämplig för längd över 190 cm","Färg: mint"],
+ faq=[("Vilken storlek ska jag välja?","Enligt Tunturi är 55 cm lämplig för längd 155-165 cm, 65 cm för 166-178 cm, 75 cm för 179-190 cm och 90 cm för längd över 190 cm.")], marke=None,
+ motivering="Fakta ur källan. \"Anti-Burst\" är borttaget ur titeln (säkerhetslöfte på engelska, inget stöd i texten). \"Enligt källan\" i svaret är ersatt med \"Enligt Tunturi\". Bärförmågan 220 kg står entydigt i källan (två gånger) och behålls. Säljfraser och \"garanterar hållbarhet\" utelämnas.",
+ att_bekrafta=["Produkten har status DRAFT i butiken.","\"Anti-Burst\" står bara i originaltiteln, inte i beskrivningen. Bekräfta om bollen är sprängsäker innan det används som egenskap.","Färgen mint kommer från originaltiteln.","Om pump ingår framgår inte."])
+
+add(nr=409, id="10507432722698", orig_titel="Justerbar hantel HAMMER StrongLock 8.0, 4-23 kg",
+ fakta="Justerbar hantel HAMMER StrongLock 8.0, 4-23 kg. Den justerbara hanteln Hammer Stronglock 8.0 är ett smart val för alla som värdesätter kvalitet, flexibilitet och utrymmesbesparande träning. Med en enda hantel kan du ersätta upp till 15 par hantlar utan att kompromissa med ergonomi, stabilitet eller mångsidighet. Det ideala valet för hemmet eller gymmet. Stronglock 8.0 imponerar med sin kompakta design, där hanteln bibehåller sin balanspunkt vid varje vikt. Den högkvalitativa kombinationen av järn och slitstark plast gör denna hantel till ett hållbart och stabilt träningsredskap som dessutom är behagligt tyst. Setet innehåller 1 hantel som väger 23 kg. Tillverkaren är Hammer. Mer information: Vikter: 5/6/7/9/10/11/13/14/15/17/18/19/21/22/23 kg. Mått: 42 x 19 cm. Märke Hammer, typ Professionell utrustning, taggar Hammer, Hantlar, Professionell utrustning, Velomarket, variant Default Title, SKU 17371",
+ titel="Justerbar hantel Hammer StrongLock 8.0, upp till 23 kg",
+ seo_title="Justerbar hantel Hammer StrongLock 8.0",
+ meta="Hammer StrongLock 8.0 är en justerbar hantel i järn och plast med 15 vikter från 5 till 23 kg. Måtten är 42 x 19 cm. Setet innehåller en hantel.",
+ intro="Hammer StrongLock 8.0 är en justerbar hantel i järn och plast med 15 vikter, från 5 till 23 kg. Enligt tillverkaren behåller hanteln sin balanspunkt vid varje vikt.",
+ passar=["Dig som vill träna med flera vikter i en och samma hantel","Träning hemma eller på gym"],
+ spec=["Vikter: 5/6/7/9/10/11/13/14/15/17/18/19/21/22/23 kg","Material: järn och plast","Mått: 42 x 19 cm","Setet innehåller 1 hantel"],
+ faq=[], marke=None,
+ motivering="Fakta ur källan. Påståendet \"ersätta upp till 15 par hantlar\" är borttaget (vilseledande tillsammans med att setet innehåller en hantel; flyttat till att bekräfta). FAQ-svaret om 23 kg är borttaget eftersom det är oklart för en justerbar hantel. Balanspunkten är ett tillverkarpåstående och anges som det. Värderande ord utelämnas.",
+ att_bekrafta=["Titeln säger 4–23 kg, men listan över vikter börjar på 5 kg. Texten använder listan och \"upp till 23 kg\".","Källan säger \"ersätta upp till 15 par hantlar\" men också \"Setet innehåller 1 hantel som väger 23 kg\". Bekräfta vad som gäller (15 viktlägen?) och om en eller två hantlar ingår. Utelämnat tills vidare.","Antalet 15 vikter är räknat ur viktlistan. Bekräfta mot datablad.","Produkttypen \"Professionell utrustning\" är bred."])
+
+add(nr=507, id="10468752720138", orig_titel="Hantlar TUNTURI Platinum Hex Rubber Dumbbell, 2x 2kg",
+ fakta="Hantlar TUNTURI Platinum Hex Rubber Dumbbell, 2x 2kg. Tunturi Platinum Hex Dumbbells är idealiska för styrketräning, funktionella övningar eller rehabilitering. Hantlarna levereras i par och passar för hemmabruk såväl som för gruppträning och gym. Gummiöverdraget förhindrar skador på golvet och säkerställer att din träning är tyst. OBS: Setet innehåller två hantlar, som var och en väger 2 kg. Tillverkaren är Tunturi. Denna produkt är en beställningsvara och kan ta upp till 1 vecka längre att leverera. Märke Tunturi, typ Professionell utrustning, tagg På beställning, varianter Default Title (SKU 25TUPLA014) och 25TUPLA011 (SKU 25TUPLA011)",
+ titel="Hantlar Tunturi Platinum Hex med gummiöverdrag",
+ seo_title="Hantlar Tunturi Platinum Hex",
+ meta="Tunturi Platinum Hex är hantlar med gummiöverdrag som levereras i par. Hantlarna passar för hemmabruk, gruppträning och gym samt styrketräning.",
+ intro="Tunturi Platinum Hex är hantlar med gummiöverdrag som levereras i par.",
+ passar=["Styrketräning och funktionella övningar","Hemmabruk","Gruppträning och gym"],
+ spec=["Levereras i par","Överdrag: gummi"],
+ faq=[], marke=None,
+ motivering="Produkten har två varianter med olika SKU och mycket olika pris (449 kr och 139 kr), så vikten 2 x 2 kg kan inte gälla båda. Vikten är därför borttagen ur titel, SEO, meta och specifikation och flyttad till att bekräfta. \"Idealiska\", \"rehabilitering\", \"förhindrar skador på golvet\" och \"säkerställer tyst\" utelämnas.",
+ att_bekrafta=["Två varianter: Default Title (SKU 25TUPLA014, 449 kr) och 25TUPLA011 (139 kr). Skiljer de sig i vikt? Titelns \"2x 2kg\" och källans \"två hantlar på 2 kg var\" kan då bara gälla en av dem. Vikten är utelämnad tills det är klarlagt.","Taggen \"På beställning\" och leveransraden \"upp till 1 vecka längre\" tyder på beställningsvara. Använd standardblock för beställningsvaror.","Källan anger inget om hantelns mått."])
+
+add(nr=608, id="10472259092746", orig_titel="Massage roller TUNTURI Yoga Foam Grid Roller 33cm, orange",
+ fakta="Massage roller TUNTURI Yoga Foam Grid Roller 33cm, orange. Fördelar med Tunturi massageboll: Det idealiska verktyget för att massera, slappna av och stretcha stela eller frusna muskler. Idealisk för att slappna av och tona muskler, för massage eller för kalla eller stela muskler. Lätt och liten: ta med den och använd den var och när du vill. Tekniska specifikationer: - Längd: 33 cm - Diameter: 14 cm - Färg: Orange - Vit - Material: EVA (skumgummi) - Finns i olika färger. Märke Tunturi, typ Massage, tagg Massage, På beställning, Tunturi, Velomarket, Yoga. Variant Default Title, SKU 14TUSYO009",
+ titel="Massagerulle Tunturi Yoga Foam Grid, 33 cm, orange",
+ seo_title="Massagerulle Tunturi Yoga Foam Grid",
+ meta="Tunturi Yoga Foam Grid är en massagerulle i EVA (skumgummi), 33 cm lång och med 14 cm i diameter. Färg: orange och vit. Finns i olika färger.",
+ intro="Tunturi Yoga Foam Grid är en massagerulle i EVA (skumgummi), 33 cm lång och med 14 cm i diameter.",
+ passar=["Dig som vill ha en rulle i EVA (skumgummi)"],
+ spec=["Längd: 33 cm","Diameter: 14 cm","Material: EVA (skumgummi)","Färg: orange och vit","Finns i olika färger"],
+ faq=[], marke=None,
+ motivering="Modellnamnet följer originalet (\"Yoga Foam Grid\", tidigare omkastat till \"Yoga Grid Foam\"). \"Roller\" byts mot det svenska \"rulle\". Massage står i namnet men inga effektpåståenden skrivs. All massage- och muskelpåverkan, \"lätt och liten\" och märkestexten utelämnas.",
+ att_bekrafta=["Källan talar om en \"massageboll\" medan produkten är en rulle. Texten använder rulle.","Färgen anges \"Orange - Vit\", titeln bara \"orange\". Om vit är en detalj eller en andra färg framgår inte. Titeln följer originalet.","Taggen \"På beställning\" tyder på beställningsvara. Kontrollera leveranstexten.","Vilka andra färger som finns saknas. Vikt saknas."])
+
+add(nr=704, id="10650210402570", orig_titel="Justerbar hantel HAMMER SmartLock, 20 kg",
+ fakta="Justerbar hantel HAMMER SmartLock, 20 kg. Hammer SmartLock justerbara hantel gör din träning bekvämare och effektivare. Tack vare den innovativa vrid-och-lås-mekanismen på hantelhandtaget kan du snabbt välja rätt vikt för din träning, anpassad efter dina behov. De återstående viktskivorna förvaras säkert på basen. Detta innebär att du inte längre behöver krångla med att byta viktskivor eller belamra ditt träningsutrymme med många olika hantlar. Med SmartLock ingår hela sortimentet av hantelvikter i ett enda set! En praktisk och utrymmesbesparande lösning för både hemmagym och professionell träning. Setet innehåller 1 justerbar hantel! Tillverkad av Hammer. Ytterligare detaljer: Hantelvikter: 2/4/6/8/10/12/14/16/18/20 kg. Produktvikt: 20 kg. Märke Hammer, typ Konditionsträning & Fitness, taggar Hammer, Hantlar, Konditionsträning & Fitness, Velomarket. Varianter 17358 (SKU 17358), 17359 (SKU 17359)",
+ titel="Justerbar hantel Hammer SmartLock med vrid-och-lås",
+ seo_title="Justerbar hantel Hammer SmartLock",
+ meta="Hammer SmartLock är en justerbar hantel där vikten väljs med en vrid-och-lås-mekanism på handtaget. Viktskivor som inte används förvaras på basen.",
+ intro="Hammer SmartLock är en justerbar hantel där vikten väljs med en vrid-och-lås-mekanism på handtaget. Viktskivorna som inte används förvaras på basen.",
+ passar=["Dig som vill ha flera hantelvikter i en hantel","Dig som vill slippa byta viktskivor","Hemmagym och professionell träning"],
+ spec=["Vikten väljs med vrid-och-lås-mekanism på handtaget","Viktskivor som inte används förvaras på basen"],
+ faq=[], marke=None,
+ motivering="Produkten har två varianter (17358 för 6 479 kr och 17359 för 9 049 kr) som bara heter efter SKU. De kan vara olika modeller, så vikt (20 kg, viktlistan) och antal hantlar kan inte gälla båda. Alla vikt- och antalsuppgifter är borttagna ur titel, SEO, meta och specifikation och flyttade till att bekräfta. Värderande ord utelämnas.",
+ att_bekrafta=["Varianterna 17358 (6 479 kr) och 17359 (9 049 kr) saknar förklaring. Skiljer de sig i vikt (källans lista 2–20 kg, produktvikt 20 kg) eller i antal hantlar? Vikt och \"1 justerbar hantel\" är utelämnat tills det är klarlagt.","Om produktvikten 20 kg avser hantel inklusive bas framgår inte.","Märkesbakgrund saknas, så \"Om märket\" utelämnas."])
+
+add(nr=805, id="10472301035786", orig_titel="Hantel TOORX Neoprene Dumbbell, svart, 6 kg",
+ fakta="Hantel TOORX Neoprene Dumbbell, svart, 6 kg. OBS: Hantlar säljs styckvis. Tillverkaren är Toorx. Märke Toorx, typ Konditionsträning & Fitness, variant Default Title, SKU MN-6",
+ titel="Hantel Toorx Neoprene, svart, 6 kg",
+ seo_title="Hantel Toorx Neoprene, svart, 6 kg",
+ meta=None,
+ intro="Toorx Neoprene är en svart hantel på 6 kg. Hantlar säljs styckvis.",
+ passar=[], spec=[], faq=[], marke=None,
+ motivering="Tunn källa: bara titel och en notering om att hantlar säljs styckvis. Det engelska typordet \"Dumbbell\" är borttaget ur titel och text. Inga påhitt om beläggning, form eller grepp.",
+ att_bekrafta=["Datablad behövs: mått, grepp, material.","Om \"Neoprene\" betyder neoprenbeläggning framgår inte; behålls bara som modellnamn."])
