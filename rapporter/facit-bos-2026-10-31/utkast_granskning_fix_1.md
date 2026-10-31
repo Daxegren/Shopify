@@ -181,7 +181,7 @@ Produkt-id: `10470997197066`
 
 **Titel:** Viktväst Tunturi med justerbara remmar och sandpåsar  (52 tecken)
 **SEO-titel:** Viktväst Tunturi, justerbar  (27 tecken)
-**Metabeskrivning:** Tunturi viktväst med medföljande sandpåsar och justerbara remmar. Vikten kan ändras genom att lägga till påsar. För för löpning, promenader och styrketräning.  (158 tecken)
+**Metabeskrivning:** Tunturi viktväst med medföljande sandpåsar och justerbara remmar. Vikten kan ändras genom att lägga till påsar. Avsedd för löpning och promenader.  (146 tecken)
 
 **Beskrivning (utkast):**
 

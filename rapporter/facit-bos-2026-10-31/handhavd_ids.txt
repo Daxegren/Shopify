@@ -25,3 +25,6 @@
 10472304214282 avvisad av granskare: Smithmaskin Tunturi Platinum Full Smith, Selectorized, V-Ser
 10475517772042 avvisad av granskare: Bröstbälte Toorx 5,3 kHz
 10470932807946 avvisad av granskare: Kroppsskanner Hammer Body Screen TX, 4 handsensorer
+# Hållna av rättare 2026-10-31:
+10472324432138 stepbräda: produkttyp oklar (källan länkar till cykeltrainer)
+10472296677642 pullbuoy: engelskt typord, svenskt ord saknas i källan (David väljer, t.ex. benflyt)
