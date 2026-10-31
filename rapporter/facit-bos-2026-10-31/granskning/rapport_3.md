@@ -45,7 +45,7 @@ Allvarlighet: A = måste rättas före skrivning, B = bör rättas, C = bagatell
 - **RÄTTA:** 8 (viktväst, gymnastikboll, Platinum Hex-hantlar, Strengthbag, stepbräda, Tunturi-massagerulle, pullbuoy, handledsskydd).
 - **AVVISA:** 3 (löpband T60, pulsmätare HR Armband, crosstrainer C20-R).
 
-Räkning: 26 = 15 OK + 8 RÄTTA + 3 AVVISA. Rätt antal OK är **15**.
+Räkning: 26 = 15 OK + 8 RÄTTA + 3 AVVISA.
 
 De tre allvarligaste fynden:
 1. **Viktväst 10470997197066 (A):** "totalvikt 15 kg och 8 sandpåsar på 1,25 kg styck" går inte ihop, eftersom 8 × 1,25 = 10 kg. Motsägelsen i källan har skrivits vidare i titeln, metan och FAQ i stället för att flaggas.
