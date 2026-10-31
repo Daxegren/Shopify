@@ -1,0 +1,136 @@
+# Utkast vag1 chunk 09, produkter 901-911. Källtext (fakta) är butikens text 2026-10-31 med taggar borttagna.
+# David 2026-10-31: massagerullar, foam rollers och massagebollar skrivs MED produktnamnet kvar. Inga effektpåståenden.
+D = []
+def add(**k): D.append(k)
+
+add(nr=901, id="10462190240010", orig_titel="Massage roller TUNTURI Yoga Foam Grid Roller 33cm, black",
+ fakta="""Massage roller TUNTURI Yoga Foam Grid Roller 33cm, black. Koppla av dina muskler genom att massera dem med Tunturi Yoga Grid Foam Roll er. Det är ett bekvämt sätt att minska muskelömhet efter ett träningspass. Massageapparaten är gjord av ett bekvämt skummaterial så den är bekväm och praktisk att använda. Övrig information: Längd: 33,5 cm. Diameter: 14 cm. Färg: Svart. Material: EVA (skum). Märke Tunturi, typ Konditionsträning & Fitness, tagg Fell, Konditionsträning & Fitness, Massage, Tunturi, Velomarket, Yoga. Variant Default Title, SKU 14TUSYO024""",
+ titel="Massagerulle Tunturi Yoga Grid Foam Roller, svart",
+ seo_title="Massagerulle Tunturi Yoga Grid, svart",
+ meta="Tunturi Yoga Grid Foam Roller är en svart massagerulle i EVA (skum) med diameter 14 cm. Rullen kan användas för massage av muskler.",
+ intro="Tunturi Yoga Grid Foam Roller är en massagerulle i EVA (skum) med diameter 14 cm. Färgen är svart.",
+ passar=["Dig som vill ha en massagerulle i skum"],
+ spec=["Diameter: 14 cm","Material: EVA (skum)","Färg: svart"],
+ faq=[], marke=None,
+ motivering="Fakta ur källan. \"Koppla av dina muskler\", \"minska muskelömhet\" och \"bekvämt\" utelämnas (effekt och säljfras). Längden utelämnas eftersom titeln säger 33 cm och texten 33,5 cm.",
+ att_bekrafta=["Längd: titeln säger 33 cm, texten 33,5 cm. Titeln i utkastet har ingen längd tills det är bekräftat.","Texten kallar rullen \"massageapparat\", vilket är fel typord. Texten använder massagerulle.","Källan har ordbrottet \"Roll er\". Texten stavar Roller."])
+
+add(nr=902, id="10472215544074", orig_titel="Massage roller TUNTURI Yoga Massage Roller 90 cm",
+ fakta="""Massage roller TUNTURI Yoga Massage Roller 90 cm. Fördelar med Tunturi massage roller: Stödjer dig i dina favoritpositioner inom yoga och Pilates. Tillverkad av mjukt och flexibelt skumgummi för ett bekvämt träningspass. "Må bättre varje dag" - det är Tunturimottot. Våra rötter går tillbaka till Finland, där två bröder startade en cykelbutik 1922. Nu, över 100 år senare, är vi ett holländskt företag och ett globalt varumärke. Vi stöder dig på din resa mot en frisk och vältränad kropp, ett balanserat sinne och ett lyckligt liv. Vi gör detta med ett brett utbud av konditions- och styrketräningsutrustning, tillbehör och supportappar. Sortimentet utökas ständigt och kompletteras med kvalitetsprodukter och utmärkta garantier. Tekniska specifikationer. Märke Tunturi, typ Massage, tagg Fell, Massage, Tunturi, Velomarket, Yoga. Variant Default Title, SKU 14TUSYO008. Variant 14TUSYO008, SKU 14TUSYO008""",
+ titel="Massagerulle Tunturi Yoga Massage Roller 90 cm",
+ seo_title="Massagerulle Tunturi Yoga, 90 cm",
+ meta=None,
+ intro="Tunturi Yoga Massage Roller är en massagerulle på 90 cm i skumgummi, för yoga och pilates.",
+ passar=[],
+ spec=["Längd: 90 cm","Material: skumgummi"],
+ faq=[], marke=None,
+ motivering="Tunn källa: bara längd (ur titeln), material och användningsområde. \"Stödjer dig\", \"bekvämt träningspass\" och Tunturis märkestext utelämnas. Metabeskrivning utelämnas för att inte padda.",
+ att_bekrafta=["Datablad behövs: diameter, vikt och färg saknas (raden \"Tekniska specifikationer.\" är tom).","Längden 90 cm kommer från titeln, texten anger inget mått.","Produkten har två varianter med samma SKU (14TUSYO008), troligen en dubblett."])
+
+add(nr=903, id="10472216363274", orig_titel="Massagebollar Tunturi Korkmassagebollset",
+ fakta="""Massagebollar Tunturi Korkmassagebollset. Det 100% naturliga Tunturi massagebollsetet är den perfekta följeslagaren för att koppla av efter ett träningspass. Du kan massera dina muskler utan hjälp av någon annan. Massagen stimulerar blodcirkulationen, vilket hjälper till att återställa och påskynda återhämtningen av djupa muskelområden. Denna uppsättning massagebollar är lämplig för både lättare och djupare massage över hela kroppen, samt för triggerpunkter. Fördelar: Tillverkad av 100% naturligt och biologiskt nedbrytbart material. 100% naturlig och naturlig fiber, 100% naturlig och naturlig råvara, främjar och påskyndar återhämtningen av djupa muskelområden. Lämplig för hela kroppen. Doftfri och kemikaliefri. Hygienisk och immun mot mögel. 100% naturlig Båda massagebollarna är gjorda av kork, ett 100% återvinningsbart och miljövänligt material. Korken är slitstark, har en behaglig textur och är skonsam mot huden. Massagebollarna är kemikaliefria och immuna mot mögel, vilket säkerställer säker och hygienisk användning. "Må bättre varje dag" - det är Tuntur-mottot. Våra rötter går tillbaka till 1922, då två bröder grundade en cykelbutik i Finland. Nu, över 100 år senare, är vi ett holländskt företag och ett globalt varumärke. Vi stöder dig på din resa mot en frisk och vältränad kropp, ett balanserat sinne och ett lyckligt liv. Vi gör detta med ett brett utbud av konditions- och styrketräningsutrustning, tillbehör och stödjande appar. Specifikationer: Set med två. Två set om två: 5 och 6,5 cm diameter. Vikt: 60 g. Material och färg: kork. Märke Tunturi, typ Massage, tagg Fell, Massage, Tunturi, Velomarket. Variant Default Title, SKU 14TUSYO060""",
+ titel="Massagebollar Tunturi i kork, diameter 5 och 6,5 cm",
+ seo_title="Massagebollar Tunturi i kork",
+ meta="Tunturi massagebollar i kork med diameter 5 och 6,5 cm. Vikten är 60 g. Källan beskriver dem som avsedda för massage av kroppen.",
+ intro="Tunturi massagebollar i kork med diameter 5 och 6,5 cm. Vikten är 60 g.",
+ passar=["Dig som vill ha massagebollar i kork"],
+ spec=["Diameter: 5 och 6,5 cm","Vikt: 60 g","Material och färg: kork"],
+ faq=[], marke=None,
+ motivering="Fakta ur källan. Effektpåståenden (blodcirkulation, återhämtning, triggerpunkter, \"koppla av\"), miljö- och naturpåståenden (\"100 % naturlig\", \"biologiskt nedbrytbart\", \"återvinningsbart\", \"miljövänligt\"), hygienpåståenden, \"perfekta\" och märkestexten utelämnas. Antal bollar utelämnas på grund av motsägelsen.",
+ att_bekrafta=["Motsägelse: \"Set med två\" mot \"Två set om två\". Antal bollar i förpackningen skrivs inte, bekräfta.","Oklart vilken boll som är 5 och vilken som är 6,5 cm.","Miljöpåståendena (100 % naturligt, nedbrytbart, återvinningsbart) kräver belägg innan de kan användas.","Källan upprepar textstycken (maskinöversättning)."])
+
+add(nr=904, id="10472259092746", orig_titel="Massage roller TUNTURI Yoga Foam Grid Roller 33cm, orange",
+ fakta="""Massage roller TUNTURI Yoga Foam Grid Roller 33cm, orange. Fördelar med Tunturi massageboll: Det idealiska verktyget för att massera, slappna av och stretcha stela eller frusna muskler. Idealisk för att slappna av och tona muskler, för massage eller för kalla eller stela muskler. Lätt och liten: ta med den och använd den var och när du vill. "Må bättre varje dag" - det är Tuntur's motto. Våra rötter går tillbaka till Finland, där två bröder startade en cykelbutik 1922. Nu, över 100 år senare, är vi ett holländskt företag och ett globalt varumärke. Vi stöder dig på din resa mot en frisk och vältränad kropp, ett balanserat sinne och ett lyckligt liv. Vi gör detta med ett brett utbud av konditions- och styrketräningsutrustning, tillbehör och stödappar. Sortimentet utökas ständigt och kompletteras med kvalitetsprodukter och utmärkta garantier. Tekniska specifikationer: - Längd: 33 cm - Diameter: 14 cm - Färg: Orange - Vit - Material: EVA (skumgummi) - Finns i olika färger. Märke Tunturi, typ Massage, tagg Massage, På beställning, Tunturi, Velomarket, Yoga. Variant Default Title, SKU 14TUSYO009""",
+ titel="Massagerulle Tunturi Yoga Grid Foam Roller 33 cm, orange",
+ seo_title="Massagerulle Tunturi Yoga Grid, 33 cm",
+ meta="Tunturi Yoga Grid Foam Roller är en massagerulle på 33 cm med diameter 14 cm. Materialet är EVA (skumgummi) och färgen orange och vit.",
+ intro="Tunturi Yoga Grid Foam Roller är en massagerulle på 33 cm med diameter 14 cm, i EVA (skumgummi). Färgen är orange och vit.",
+ passar=["Dig som vill ha en massagerulle i skumgummi"],
+ spec=["Längd: 33 cm","Diameter: 14 cm","Material: EVA (skumgummi)","Färg: orange och vit","Finns i olika färger"],
+ faq=[], marke=None,
+ motivering="Fakta ur källan. \"Idealiska\", \"slappna av\", \"tona muskler\", \"stela eller frusna muskler\" och \"lätt och liten\" utelämnas.",
+ att_bekrafta=["Texten säger \"Tunturi massageboll\" men produkten är en rulle. Texten använder massagerulle.","Färgen anges \"Orange - Vit\". Om vit är en detalj eller en andra färg framgår inte.","Taggen \"På beställning\" tyder på beställningsvara. Kontrollera leveranstexten.","Vikt saknas."])
+
+add(nr=905, id="10472301560074", orig_titel="Massage roller TOORX Grid Foam Roller, black-orange",
+ fakta="""Massage roller TOORX Grid Foam Roller, black-orange. Massagemattan och yogarullen är idealisk för målinriktad massage och muskelavslappning. Den hjälper också till att förbättra stabilitet och flexibilitet, och stöder effektivt återhämtningen efter träning. Tillverkad av Toorx. Märke Toorx, typ Konditionsträning & Fitness, tagg foam roller, Konditionsträning & Fitness, Massage, Toorx, Velomarket. Variant Default Title, SKU AHF-044""",
+ titel="Massagerulle Toorx Grid Foam Roller, svart och orange",
+ seo_title="Massagerulle Toorx Grid, svart och orange",
+ meta=None,
+ intro="Toorx Grid Foam Roller är en massagerulle i svart och orange.",
+ passar=[],
+ spec=["Färg: svart och orange"],
+ faq=[], marke=None,
+ motivering="Tunn källa: bara namn och färg. \"Idealisk\", muskelavslappning, stabilitet, flexibilitet och återhämtning utelämnas (effektpåståenden). Metabeskrivning utelämnas.",
+ att_bekrafta=["Datablad behövs: mått, diameter, vikt och material saknas helt.","Texten blandar \"massagemattan\" och \"yogarullen\" (maskinöversättning). Texten använder massagerulle efter titeln.","Färgordningen \"black-orange\" mot \"orange-black\" i systerprodukten: oklart vilken färg som dominerar.","Produkten har en systerprodukt med nästan samma text (AHF-061)."])
+
+add(nr=906, id="10472301625610", orig_titel="Massage roller TOORX Grid Foam Roller, orange-black",
+ fakta="""Massage roller TOORX Grid Foam Roller, orange-black. Massagematta och yogarulle är idealisk för riktad massage och muskelavslappning. Den hjälper också till att förbättra stabilitet och flexibilitet, och stöder effektivt återhämtningen efter träning. Tillverkad av Toorx. Märke Toorx, typ Konditionsträning & Fitness, tagg foam roller, Konditionsträning & Fitness, Massage, Toorx, Velomarket. Variant Default Title, SKU AHF-061""",
+ titel="Massagerulle Toorx Grid Foam Roller, orange och svart",
+ seo_title="Massagerulle Toorx Grid, orange och svart",
+ meta=None,
+ intro="Toorx Grid Foam Roller är en massagerulle i orange och svart.",
+ passar=[],
+ spec=["Färg: orange och svart"],
+ faq=[], marke=None,
+ motivering="Tunn källa: bara namn och färg. Effektpåståenden (muskelavslappning, stabilitet, flexibilitet, återhämtning) och \"idealisk\" utelämnas. Metabeskrivning utelämnas.",
+ att_bekrafta=["Datablad behövs: mått, diameter, vikt och material saknas helt.","Texten blandar \"massagematta\" och \"yogarulle\" (maskinöversättning). Texten använder massagerulle efter titeln.","Oklart om \"orange-black\" skiljer sig i utseende från \"black-orange\" (AHF-044).","Produkten har en systerprodukt med nästan samma text."])
+
+add(nr=907, id="10472302412042", orig_titel="Massage roller TUNTURI Yoga Grid Foam Roller, 33cm, Rose Gold",
+ fakta="""Massage roller TUNTURI Yoga Grid Foam Roller, 33cm, Rose Gold. Tunturi Yoga Grid Foam Roller är ett utmärkt verktyg för att bibehålla musklernas flexibilitet och massera muskler före, under och efter träning. Tillverkaren är: Tunturi. Detaljer: Mått. Vikt: 850 gram. Material: EVA, PVC. Märke Tunturi, typ Konditionsträning & Fitness, tagg Konditionsträning & Fitness, Massage, Tunturi, Velomarket, Yoga. Variant Default Title, SKU 14TUSYO088""",
+ titel="Massagerulle Tunturi Yoga Grid Foam Roller 33 cm, roséguld",
+ seo_title="Massagerulle Tunturi Yoga Grid, roséguld",
+ meta=None,
+ intro="Tunturi Yoga Grid Foam Roller är en massagerulle på 33 cm i EVA och PVC. Färgen är roséguld och vikten 850 g.",
+ passar=["Massage av muskler före, under och efter träning"],
+ spec=["Längd: 33 cm","Vikt: 850 g","Material: EVA och PVC","Färg: roséguld"],
+ faq=[], marke=None,
+ motivering="Tunn källa: vikt, material och längd/färg ur titeln. \"Utmärkt verktyg\" och \"bibehålla musklernas flexibilitet\" utelämnas. Metabeskrivning utelämnas.",
+ att_bekrafta=["Datablad behövs: raden \"Mått.\" är tom, diameter saknas. 33 cm kommer från titeln.","Färgen roséguld kommer från titeln, inte från beskrivningen.","Samma text som grå och ljusblå variant."])
+
+add(nr=908, id="10472310997258", orig_titel="Massage roller TUNTURI Yoga Grid Foam Roller, 33cm, Grå",
+ fakta="""Massage roller TUNTURI Yoga Grid Foam Roller, 33cm, Grå. Tunturi Yoga Grid Foam Roller är ett utmärkt verktyg för att bibehålla musklernas flexibilitet och massera muskler före, under och efter träning. Tillverkaren är: Tunturi. Detaljer: Mått. Vikt: 850 gram. Material: EVA, PVC. Märke Tunturi, typ Konditionsträning & Fitness, tagg Konditionsträning & Fitness, Massage, Tunturi, Velomarket, Yoga. Variant Default Title, SKU 14TUSYO087""",
+ titel="Massagerulle Tunturi Yoga Grid Foam Roller 33 cm, grå",
+ seo_title="Massagerulle Tunturi Yoga Grid, grå",
+ meta=None,
+ intro="Tunturi Yoga Grid Foam Roller är en massagerulle på 33 cm i EVA och PVC. Färgen är grå och vikten 850 g.",
+ passar=["Massage av muskler före, under och efter träning"],
+ spec=["Längd: 33 cm","Vikt: 850 g","Material: EVA och PVC","Färg: grå"],
+ faq=[], marke=None,
+ motivering="Tunn källa: vikt, material och längd/färg ur titeln. \"Utmärkt verktyg\" och \"bibehålla musklernas flexibilitet\" utelämnas. Metabeskrivning utelämnas.",
+ att_bekrafta=["Datablad behövs: raden \"Mått.\" är tom, diameter saknas. 33 cm kommer från titeln.","Samma text som roséguld och ljusblå variant."])
+
+add(nr=909, id="10494680563978", orig_titel="Massagerulle Tunturi Kork Massagerulle",
+ fakta="""Massagerulle Tunturi Kork Massagerulle. Tunturi massagerulle är tillverkad av kork och förbättrar flexibiliteten i muskler och bindväv samt främjar återhämtning utan behov av en massör. Det är en effektiv metod för att behandla hud, muskler och spända punkter som en uppvärmning före träning eller avslappning efter träning. Den höga korkdensiteten säkerställer att rullen inte tappar formen, även vid intensiv användning. Rullen kan även användas för funktionella övningar samt balans- och rörlighetsövningar. Fördelar: Tillverkad av 100% naturligt och biologiskt nedbrytbart material. Förbättrar flexibiliteten och främjar återhämtning av muskler och bindväv. Stöder naturlig och hälsosam rörelse. Lämplig för balansövningar. Den 100 % ekologiska massagerullen är tillverkad av 100 % naturlig och återvinningsbar kork. Kork är ett hållbart och miljövänligt material. Den är bekväm mot huden och kan användas intensivt utan att tappa kvalitet. "Mår bättre varje dag" är Tunturis motto. Våra rötter går tillbaka till Finland, där två bröder grundade en cykelbutik 1922. Nu, över 100 år senare, är vi ett holländskt företag och ett globalt varumärke. Vi stöder dig på din resa mot en frisk och stark kropp, ett balanserat sinne och ett lyckligt liv. Vi gör detta med ett brett utbud av konditions- och styrketräningsutrustning, tillbehör och stödjande appar. Tekniska specifikationer i översikt: Mått. Vikt: 680 gr. Material och färg: kork. Märke Tunturi, typ Massage, tagg Massage, Tunturi, Velomarket. Variant Default Title, SKU 14TUSYO061""",
+ titel="Massagerulle Tunturi i kork, 680 g",
+ seo_title="Massagerulle Tunturi i kork, 680 g",
+ meta="Tunturi massagerulle i kork som väger 680 g. Rullen kan användas för funktionella övningar samt balans- och rörlighetsövningar.",
+ intro="Tunturi massagerulle i kork som väger 680 g. Rullen kan användas för funktionella övningar samt balans- och rörlighetsövningar.",
+ passar=["Funktionella övningar","Balans- och rörlighetsövningar"],
+ spec=["Vikt: 680 g","Material och färg: kork"],
+ faq=[], marke=None,
+ motivering="Fakta ur källan. Effekt- och behandlingspåståenden (flexibilitet, återhämtning, \"behandla hud, muskler och spända punkter\", \"hälsosam rörelse\"), miljöpåståenden (100 % naturlig, nedbrytbar, ekologisk, återvinningsbar, miljövänlig), \"effektiv\" och märkestexten utelämnas.",
+ att_bekrafta=["Datablad behövs: raden \"Mått.\" är tom, längd och diameter saknas.","Miljöpåståendena kräver belägg innan de kan användas.","Meta kan bytas mot None om David vill ha bara hårda fakta (källan är tunn)."])
+
+add(nr=910, id="10515748389130", orig_titel="Massagebollar TOORX Massagebollar",
+ fakta="""Massagebollar TOORX Massagebollar. Setet innehåller 1 grön boll med en diameter på 7,5 cm och 1 lila boll med en diameter på 9 cm. Tillverkaren är Toorx. Märke Toorx, typ Konditionsträning & Fitness, tagg Konditionsträning & Fitness, Toorx, Velomarket. Variant Default Title, SKU AHF-001""",
+ titel="Massagebollar Toorx 7,5 och 9 cm, grön och lila",
+ seo_title="Massagebollar Toorx, grön och lila",
+ meta=None,
+ intro="Toorx massagebollar är ett set med en grön boll med diameter 7,5 cm och en lila boll med diameter 9 cm.",
+ passar=[],
+ spec=["Grön boll: diameter 7,5 cm","Lila boll: diameter 9 cm","Set: 2 bollar"],
+ faq=[], marke=None,
+ motivering="Fakta ur källan, som är kort men entydig. Metabeskrivning utelämnas eftersom källan är tunn.",
+ att_bekrafta=["Datablad behövs: material och vikt saknas.","Taggen Massage saknas på produkten, men typen är massagebollar."])
+
+add(nr=911, id="10588446851338", orig_titel="Massagerulle TUNTURI Yoga Grid Foam Roller, 33cm, Ljusblå",
+ fakta="""Massagerulle TUNTURI Yoga Grid Foam Roller, 33cm, Ljusblå. Tunturi Yoga Grid Foam Roller är ett utmärkt verktyg för att bibehålla musklernas flexibilitet och massera muskler före, under och efter träning. Tillverkare . Detaljer: Mått: 33 x 13 x 13 cm. Vikt: 850 gram. Material: EVA, PVC. Märke Tunturi, typ Konditionsträning & Fitness, tagg Cykelbelysning, Konditionsträning & Fitness, Massage, Tunturi, Velomarket, Yoga. Variant Default Title, SKU 14TUSYO085""",
+ titel="Massagerulle Tunturi Yoga Grid Foam Roller 33 cm, ljusblå",
+ seo_title="Massagerulle Tunturi Yoga Grid, ljusblå",
+ meta="Tunturi Yoga Grid Foam Roller är en ljusblå massagerulle i EVA och PVC. Måtten är 33 x 13 x 13 cm och vikten 850 g.",
+ intro="Tunturi Yoga Grid Foam Roller är en ljusblå massagerulle i EVA och PVC. Måtten är 33 x 13 x 13 cm och vikten 850 g.",
+ passar=["Massage av muskler före, under och efter träning"],
+ spec=["Mått: 33 x 13 x 13 cm","Vikt: 850 g","Material: EVA och PVC","Färg: ljusblå"],
+ faq=[], marke=None,
+ motivering="Fakta ur källan. \"Utmärkt verktyg\" och \"bibehålla musklernas flexibilitet\" utelämnas. Färgen ljusblå kommer från titeln.",
+ att_bekrafta=["Måttet 33 x 13 x 13 cm skiljer sig från de andra Grid-rullarna, som anger diameter 14 cm. Bekräfta.","Taggen \"Cykelbelysning\" verkar fel.","Tillverkarraden i källan är tom."])
