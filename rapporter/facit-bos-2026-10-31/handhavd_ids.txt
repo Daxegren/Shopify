@@ -9,3 +9,19 @@
 10472276721930 hälsoord i originaltiteln: TUNTURI Akupressurmadrass och kudde, roséguld
 10472276984074 hälsoord i originaltiteln: TUNTURI Akupressurmadrass och kudde, mintgrön
 10462850449674 hälsoord i originaltiteln: Akupunkturmatta och kudde TUNTURI PRO Akupressurmatta och kudde, beige
+# Avvisade av oberoende granskare 2026-10-31 (säkerhetsprodukt: batteri, motor, bärande last):
+10472259420426 avvisad av granskare: Motionscykel Tunturi Cardio Fit B35, 4 program, manuell brom
+10411932647690 avvisad av granskare: Våg Tunturi SC30 med Fitdays-app, vit
+10472203321610 avvisad av granskare: Hängtränare Tunturi Pro Suspension Trainer Set, 4,5 kg
+10462778392842 avvisad av granskare: Smartvåg Tunturi SC30 med app, svart
+10472218263818 avvisad av granskare: Armband Tunturi LED Armlight, röd
+10472281374986 avvisad av granskare: Crosstrainer Tunturi FitCross 50i, 22 träningsprogram
+10612579533066 avvisad av granskare: Löpband Tunturi Cardio Fit T60, hopfällbart
+10472218984714 avvisad av granskare: Pulsmätare Tunturi Digital HR Armband, Bluetooth och ANT+
+10472265875722 avvisad av granskare: Elliptisk träningsmaskin Tunturi Signature C20-R
+10486630252810 avvisad av granskare: Motionscykel Tunturi Platinum E30, 26 program, induktionsbro
+10462846943498 avvisad av granskare: Ställ för justerbar hantel Hammer Stronglock
+10470913179914 avvisad av granskare: Spinningcykel Tunturi Platinum S20, 26 program, 32 nivåer
+10472304214282 avvisad av granskare: Smithmaskin Tunturi Platinum Full Smith, Selectorized, V-Ser
+10475517772042 avvisad av granskare: Bröstbälte Toorx 5,3 kHz
+10470932807946 avvisad av granskare: Kroppsskanner Hammer Body Screen TX, 4 handsensorer

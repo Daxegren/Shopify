@@ -1,0 +1,517 @@
+{
+ "10470947324170": [
+  "OK",
+  "Stretchband Tunturi Power Band Extra Light, 104 cm, orange",
+  "C: Utkastet tar inte med motståndet. Källan säger \"Motstånd: 2 - 15 kg\" men har också den trasiga raden \"1,5 cm - 1,5 kg - 1,5 kg\". Att utelämna det är förenligt med (a). C: Punkten \"Dig som vill ha ett band i latex som är 104 cm långt\" upprepar bara specifikationen."
+ ],
+ "10507246600458": [
+  "OK",
+  "Yogablock Tunturi i kork, 23 x 15 x 7,5 cm",
+  "C: Metan \"Material och färg är kork.\" är stel men stämmer med källans \"Material och färg: kork\". C: Punkten \"Yogaövningar där du vill ha ett block att ha till hands\" är en konstig formulering. Miljöpåståendena i källan (\"100% naturligt, biologiskt nedbrytbart\") är korrekt utelämnade."
+ ],
+ "10588447572234": [
+  "RÄTTA",
+  "Skivstångsdyna Tunturi Pro Barpad Deluxe, skum, svart",
+  "B: \"Har ett fäste för att flytta dynan till annan utrustning\" och punkten \"flytta dynan till annan utrustning med fästet\" bygger på en trasig maskinöversättning: \"Placera snabbt dynan på stången till en annan utrustning med fästet\". Det framgår inte vad fästet är. Enligt 2.4 (\"gissa inte, ta bort vid tvekan\") bör det strykas eller läggas under Att bekräfta. C: \"skyddar nacke och axlar\" i metan och beskrivningen står ordagrant i källan (\"Skyddar nacke och axlar\"). Det är ett skyddslöfte, men rimligt för en dyna. Källans trasiga mått (\"4 cm, längd: 4 cm, längd: 4 cm\") är korrekt utelämnade."
+ ],
+ "10472215937290": [
+  "OK",
+  "Yogablock Tunturi i EVA, turkos",
+  "Alla uppgifter finns i källan: 23 x 15 x 7,5 cm, 255 g, EVA, turkos, avrundade kanter, vadderad. Källans \"minska risken för skador\" är korrekt utelämnat."
+ ],
+ "10461917741322": [
+  "RÄTTA",
+  "Gymnastikmatta Tunturi Fitnessmat Pro, 140 cm, blå",
+  "B: Utkastet säger \"Färg: blå\" om hela produkten. Produkten har två varianter med olika SKU: \"14TUSFU125\" (SKU 14TUSFU125) och \"blue\" (SKU 14TUSFU126). Bara den ena heter blå, så den andra kan vara en annan färg. Det är inte flaggat. Lägg under Att bekräfta. Mått, gummi och användning stämmer med källan."
+ ],
+ "10588447539466": [
+  "RÄTTA",
+  "Magträningshjul Tunturi Pro Exercise Wheel Deluxe, med knäskydd",
+  "B: Metan \"Levereras med knäskydd enligt produkttiteln.\" läcker en intern källhänvisning till kunden. Knäskyddet står bara i originaltiteln och inte i specifikationen. Skriv \"Med knäskydd\" eller lägg det under Att bekräfta. C: \"finns med knäskydd\" i första stycket låter som en valbar variant, men det finns bara en variant."
+ ],
+ "10588447473930": [
+  "OK",
+  "Handleds- och fotvikter Tunturi 2 x 0,5 kg, neopren",
+  "C: `fakta` och källan innehåller \"2 x 0,5 kg (2 x 2,5 lbs)\". 0,5 kg är ungefär 1,1 lb, så siffrorna går inte ihop. Utkastet skriver inte vidare lbs-värdet, vilket är rätt, men motsägelsen bör stå under Att bekräfta. C: \"Justerbara med kardborrefäste\" slår ihop två uppgifter (\"justerbara\" och \"Kardborrefäste\") till ett orsakssamband som källan inte anger."
+ ],
+ "10470927433994": [
+  "OK",
+  "Stretchband Tunturi Tubing Set med grepp, lätt, gul",
+  "Uppgifterna stämmer: 3-delat set, ca 210 g, gummi, gul och svart, övningarna. C: Engelska övningsnamn står kvar (\"biceps curl\", \"triceps extension\", \"overhead utfall\"), som i källan."
+ ],
+ "10472258535690": [
+  "RÄTTA",
+  "Svettdräkt Tunturi Sauna Smoke, syntet, grå",
+  "B: Källan har två olika artikelnummer. Variantens SKU är \"14TUSFU300\", men beskrivningen anger \"Produktkod: 14TUSFU298\". Det kan betyda att beskrivningen hör till en annan storlek eller produkt. Det är inte flaggat. Lägg under Att bekräfta. C: Det finns ingen storlek i källan, för ett plagg. Källans \"du kanske går ner ett extra kilo\" och \"transporterar bort avfall\" är korrekt utelämnade."
+ ],
+ "10470888898826": [
+  "RÄTTA",
+  "Luftnålar Tunturi med envägsventil, 2 st, krompläterade",
+  "B: Metan säger \"passar alla bollpumpar\" som ett faktum. I beskrivningen står samma sak med reservationen \"(enligt tillverkaren)\". Källan säger \"passar alla bollpumpar\", men det är ett absolut löfte om passform och bör tas bort ur metan eller få samma reservation. B: FAQ-svaret \"Enligt källan passar de alla bollpumpar.\" använder intern arbetsterminologi (\"källan\") i kundtext. Envägsventil och kontrollventil står båda i källan."
+ ],
+ "10462190240010": [
+  "OK",
+  "Massagerulle Tunturi Yoga Grid Foam Roller, svart",
+  "C: Metan saknas. C: Längden är utelämnad. Källan säger \"33cm\" i titeln och \"Längd: 33,5 cm\" i specifikationen, så det är rimligt att utelämna den enligt (a), men motsägelsen bör stå under Att bekräfta. C: Bara en punkt under \"Passar dig som\". Effektpåståendet i källan (\"minska muskelömhet\") är korrekt utelämnat, och \"massage\" står bara i namnet, enligt (b). Engelska ord i titeln (\"Foam Roller\") är modellnamn."
+ ],
+ "10472281309450": [
+  "RÄTTA",
+  "Hand- och fotledsvikter Tunturi 2 x 1 kg, nylon",
+  "B: \"Mått (LWH): 13 x 4 x 34 cm\" är skrivet vidare ur källan, med samma orimliga ordning (höjden 34 cm är större än längden 13 cm). Enligt 2.5 bör det strykas eller bekräftas. B: Källan har motsägelsen \"En storlek - 1,5 kg (1,5 lb)\" mot \"Vikt: 2 x 1 kg\". Den är inte flaggad. Den är inte heller skriven vidare, och det är bra. C: Syskonprodukten 10588447473930 heter \"Handleds- och fotvikter\", den här \"Hand- och fotledsvikter\". Namnen bör vara enhetliga."
+ ],
+ "10472290386186": [
+  "OK",
+  "Löpbandsolja BH Fitness, spray, 500 ml",
+  "C: Metan saknas. Källan innehåller nästan bara titeln, så en kort text är förenlig med (a). Ursprunget \"(Spanien)\" är korrekt utelämnat (2.3)."
+ ],
+ "10472299036938": [
+  "OK",
+  "Löpbandsolja Toorx Lubetech, 200 ml",
+  "C: Metan saknas. Källans beskrivning är tom och utkastet håller sig till titeln."
+ ],
+ "10486654075146": [
+  "OK",
+  "Silikonspray Hammer för löpband, 400 ml",
+  "C: Metan saknas. C: Titeln kan läsas som en spray från Hammer för alla löpband. Källan säger \"Silikonspray för Hammer löpband\". Beskrivningen återger källan rätt."
+ ],
+ "10494680563978": [
+  "OK",
+  "Massagerulle Tunturi i kork, 680 g",
+  "Alla effekt- och miljöpåståenden i källan är korrekt utelämnade: \"förbättrar flexibiliteten\", \"främjar återhämtning\", \"behandla hud, muskler\", \"100 % ekologiska\". Det som står kvar (\"funktionella övningar samt balans- och rörlighetsövningar\", 680 g, kork) finns i källan."
+ ],
+ "10588447342858": [
+  "RÄTTA",
+  "Träningsboll Tunturi Gymball 65 cm, anti-burst, roséguld",
+  "B: \"anti-burst\" i titeln är ett säkerhetslöfte och dessutom ett engelskt ord. Källan har det bara i titeln (\"Anti-Burst\"). Ta bort det eller låt David besluta. B: \"Bärförmåga: 220 kg\" i meta och beskrivning är en belastningsuppgift som har betydelse för säkerheten. Tunturis bollar i samma batch anger 120, 220 och 350 kg. Det bör bekräftas innan det publiceras. B: \"Färg: roséguld (enligt titeln)\" läcker en intern källhänvisning. Produkten är DRAFT i butiken."
+ ],
+ "10462845829386": [
+  "RÄTTA",
+  "Hantel Toorx i neopren, grön, 2 kg",
+  "A: Titeln, SEO-titeln och beskrivningen säger \"2 kg\", men produkten har tre varianter: MN-1, MN-2 och MN-3 (options \"Variant\"). Namnen tyder på olika vikter. Titeln är i så fall fel för två av tre varianter. Detta är inte flaggat i utkastet eller i `fakta`. Det måste bekräftas före skrivning. Uppgiften \"säljs styckvis\" stämmer med källan (\"OBS: Hantlar säljs styckvis\")."
+ ],
+ "10470998147338": [
+  "RÄTTA",
+  "Träningsboll Tunturi Gymball 75 cm, anti-burst",
+  "B: \"anti-burst\" i titeln och \"Anti-burst.\" i metan. Källan säger \"Skottsäker\" och \"Oförstörbar eftersom den tål belastningar upp till 350 kg\". Det är säkerhetslöften och det engelska ordet står kvar (se 65 cm). Det är bra att utkastet har utelämnat färgen, eftersom källan säger \"lila\" i titeln men \"Färg: Svart\" i specifikationen. Det är också bra att 350 kg och \"Oförstörbar\" är utelämnade. C: Instruktionen för första användningen står under Specifikationer, men den är ingen specifikation."
+ ],
+ "10472284258570": [
+  "OK",
+  "Pilatesring Tunturi med plasthandtag, svart",
+  "Alla uppgifter finns i källan: motstånd, plasthandtag, plast/metall/skum, 310 g, svart, muskelgrupper. C: \"Dig som vill ha handtag i plast\" är en svag punkt. Butikens produkttyp \"Stretchband\" stämmer inte med produkten, men titeln följer originalet (Pilatesring)."
+ ],
+ "10462781505802": [
+  "OK",
+  "Yogamatta Toorx antiglid, 173 x 60 cm, grön-grå",
+  "C: Metan saknas. C: Produkten har två varianter med samma SKU (Default Title och MAT-177, båda MAT-177). Det är en dubblett i butiksdatan och påverkar inte texten. Måtten och PVC stämmer med källan."
+ ],
+ "10462856806666": [
+  "RÄTTA",
+  "Gymnastikboll Tunturi Gymball 90 cm, anti-burst, blå",
+  "B: Samma fynd som för 65 cm: \"anti-burst\" i titeln, \"Bärförmåga: 220 kg\" utan bekräftelse och \"(enligt titeln)\" i specifikationen. C: Samma produktslag heter \"Gymnastikboll\" här och \"Träningsboll\" i 10472214921482. Det följer originaltitlarna men är inte enhetligt. Produkten är DRAFT."
+ ],
+ "10472214921482": [
+  "RÄTTA",
+  "Träningsboll Tunturi Gymball 90 cm, röd",
+  "B: Titeln och SEO-titeln säger \"röd\", men produkten har en variant som heter \"black\" (samma SKU 14TUSFU285 som Default Title). Färgmotsägelsen är inte flaggad. C: \"uppblåsbar\" i metan står inte ordagrant i källan för den här produkten. Det följer bara av \"fyll den med maximal mängd luft\". C: Det är bra att \"Maximal belastningskapacitet: 120 kg\" och \"Mått: 200 cm\" är utelämnade."
+ ],
+ "10472259420426": [
+  "AVVISA",
+  "Motionscykel Tunturi Cardio Fit B35, 4 program, manuell broms",
+  "A (G): Produkten är batteridriven (\"Strömförsörjning: 2 x AA-batterier i konsolen\") och har en belastningsgräns (\"Maximal användarvikt: 110 kg\"). Enligt uppdraget är den en säkerhetsprodukt, och då ska inget utkast finnas. Båda uppgifterna står i utkastet. C: \"Belastning: 5,5 kg\" är skrivet vidare utan förklaring. Det är troligen svänghjulets vikt, men det framgår inte av källan. Uppgifterna i övrigt stämmer med källan. Produkten är DRAFT."
+ ],
+ "10475371495690": [
+  "OK",
+  "Träningsband Tunturi Power Band Extra Heavy, latex, svart",
+  "C: Motståndet \"25 - 65 kg\" och den trasiga raden \"6,5 cm - 6,5 kg\" är utelämnade, och det är förenligt med (a). Produkttypen \"Träningsband\" stämmer med butikens produkttyp. Syskonet Extra Light heter \"Stretchband\" och följer också sin produkttyp."
+ ],
+ "10588445835530": [
+  "OK",
+  "Balansplatta Tunturi Yoga Balance Pad, TPE, blå",
+  "Alla uppgifter finns i källan: 33,5 x 45,5 x 5,5 cm, 553 g, TPE, blå, vattentät, antiglid på båda sidor, lätt att rengöra. Källans \"rehabiliteringspass\" och \"förbättra balans, koordination, bålstabilitet\" är korrekt utelämnade."
+ ],
+ "10472283865354": [
+  "OK",
+  "Innerhandskar Tunturi för boxning, bomull, svart",
+  "Alla uppgifter går att spåra (bomull, maskintvättbara, kardborreband, set med två, 35 g, 14TUSBO051). Utkastet tar inte med källans skyddslöften (\"Extra skydd för händerna\", \"skyddar de mer känsliga mindre benen\") – bra. C: innerhandskar är skyddsutrustning för kampsport, men står inte på listan i G."
+ ],
+ "10472302412042": [
+  "OK",
+  "Massagerulle Tunturi Yoga Grid Foam Roller 33 cm, roséguld",
+  "C: meta saknas. C: \"Längd: 33 cm\" – källan har bara \"33cm\" i titeln (\"Mått\" är tom rad i listan), så att det är längden är en tolkning (rimlig, systerprodukten anger 33 x 13 x 13 cm). Inga effektpåståenden (källans \"bibehålla musklernas flexibilitet\" är borttaget), enligt beslut (b)."
+ ],
+ "10411932647690": [
+  "AVVISA",
+  "Våg Tunturi SC30 med Fitdays-app, vit",
+  "A (G): batteridriven elektronisk produkt. Källan: \"Strömkälla: 2 x AAA-batterier (ingår)\". Enligt G ska utkastet inte finnas. I övrigt korrekt (26 x 26 x 1,8 cm, 1 kg, 180 kg, mätvärdena). C: typordet skiljer sig från den svarta varianten (\"Våg\" här, \"Smartvåg\" i 10462778392842)."
+ ],
+ "10439135691018": [
+  "OK",
+  "Pilatesring Tunturi, glasfiber och skum, lila",
+  "F hanterat: källan säger både \"Storlek: 40 x 37 x 5 cm\" och \"Diameter: 50cm\" (går inte ihop). Utkastet tar inte med något av måtten, vilket är rätt. Motsägelsen bör stå under \"Att bekräfta\". C: \"Dig som vill ha en lätt ring på 340 g\" – ordet \"lätt\" finns inte i källan (bara \"Vikt: 340g\"). C: artikelnummer i metan tillför inget. C: butikens produkttyp är \"Stretchband\", vilket är fel typ, men det är butiksdata och inte utkastet."
+ ],
+ "10472215347466": [
+  "OK",
+  "Magträningshjul Tunturi Double Exercise Wheel, dubbelhjul",
+  "Spårbart: \"tränar din överkropp såväl som din bål\", \"kombinera styrke- och balansträning\", 18 x 24 x 18,5 cm, 0,58 kg. C: \"Mått (PLK)\" – förkortningen PLK är leverantörsrest och säger inget på svenska. Skriv \"Mått\" eller \"Förpackningens mått\" om det är det som avses (osäkert, fråga)."
+ ],
+ "10472303689994": [
+  "RÄTTA",
+  "Gymnastikboll Tunturi Gymball 90 cm, Anti-Burst, mint",
+  "B (E): \"Anti-Burst\" i titeln är ett säkerhetslöfte (sprickskydd) på engelska. Det står bara i originaltiteln och har inget stöd i texten eller specifikationerna. Antingen tas det bort, eller så bekräftar David det. B (H): FAQ-svaret \"Enligt källan är 55 cm lämplig …\" – ordet \"källan\" hör inte hemma i kundtext. Skriv \"Enligt Tunturi\". Uppgifterna 90 cm, 1,5 kg och 220 kg stämmer. C: produkten är DRAFT i butiken."
+ ],
+ "10472310997258": [
+  "OK",
+  "Massagerulle Tunturi Yoga Grid Foam Roller 33 cm, grå",
+  "Samma som roséguld: C för saknad meta och för \"Längd: 33 cm\" som tolkning."
+ ],
+ "10472311062794": [
+  "OK",
+  "Golvmatta Toorx Flooring Fine Grain, 100 x 100 x 1 cm",
+  "Allt kan spåras: \"under kraftstationer och annan större utrustning, samt helt enkelt som golvskydd på gym\", 100 x 100 x 1 cm, PANT-16. C: produkten är DRAFT."
+ ],
+ "10472350253322": [
+  "OK",
+  "Hantlar Tunturi Vinyl Dumbbells 1,5 kg, gul",
+  "Källan är bara \"Ergonomiska hantlar. Lämpliga för träning av arm-, bröst- och ryggmuskler.\" och utkastet håller sig inom den. C: källan säger inte om 1,5 kg gäller per hantel eller per par, och om ett eller två ingår (\"Hantlar\" i plural). Bör stå under \"Att bekräfta\". C: meta saknas."
+ ],
+ "10462794547466": [
+  "OK",
+  "Fot- och handledsvikter Tunturi, justerbara, 2 x 1 kg",
+  "Originaltiteln säger \"Handledvikter 1kg\", texten \"2 x 1,0 kg\". Utkastets \"2 x 1 kg\" följer specifikationen. Neopren, kardborrefäste, 21,5 x 7,5 x 3,2 cm och aktiviteterna stämmer. Skräpraden \"1,0 x 1,0WH\" är bortlämnad, vilket är rätt. C: \"justerbara\" står i källan, men källan förklarar inte vad som går att justera."
+ ],
+ "10472203321610": [
+  "AVVISA",
+  "Hängtränare Tunturi Pro Suspension Trainer Set, 4,5 kg",
+  "A (G): en hängtränare bär hela användarens kroppsvikt och fästs \"vid en dörr, ett träd eller en stång\". Det är belastad utrustning, men källan anger ingen maxbelastning. Det bör räknas som säkerhetsprodukt tills David bestämt annat. B (F): listan \"Ingår: 2 benremmar, 2 handtag, 2 huvudlinor med 10 D-ringar i metall vardera, 2 ringar\" utelämnar utan kommentar \"2 ankelförare\" och \"1 vattenkokare\" ur källan (troliga felöversättningar av ankare/dörrfäste). Därmed ser listan fullständig ut fast den inte är det. Källans motsägelser om färg (\"Svart-röd\" eller \"Svart/vit\") och material (\"EVA\", \"PVC\", \"svart läder\") är rätt bortlämnade men inte flaggade. B (H): \"Enligt källan vid en dörr …\" i FAQ."
+ ],
+ "10588446851338": [
+  "OK",
+  "Massagerulle Tunturi Yoga Grid Foam Roller 33 cm, ljusblå",
+  "33 x 13 x 13 cm, 850 g, EVA/PVC stämmer. C (H): metan säger \"ljusblå\" två gånger (\"… är en ljusblå massagerulle …\" och \"Rullen är ljusblå.\"). C: butikstaggen \"Cykelbelysning\" är fel, men det är butiksdata."
+ ],
+ "10411720704266": [
+  "RÄTTA",
+  "Benskydd Tunturi Allround, svart, set med två",
+  "B (C/F): \"Vikt: 102 gr (enligt källan)\". Källans tekniska data gäller storlek XXS (Produktkod 14TUSBO088 = XXS-varianten, \"Storlek: XXS (benlängd: 28,5 cm)\"). Vikten anges ändå som om den gällde produkten i alla storlekar (S, XL, XS, XXS). Skriv \"Vikt (XXS): 102 g\". B (H): \"(enligt källan)\" och FAQ-svaret \"Källan anger att benskydden finns i XXS, XS, S, M, L och XL. I butiken finns just nu XXS, XS, S och XL.\" – \"källan\" är internt språk, och \"just nu\" blir inaktuellt. Ta bort källans storlekslista och visa bara butikens varianter. C: \"gr\" ska vara \"g\". C: skyddsutrustning för kampsport; utkastet undviker källans skadelöften (\"för att undvika skador\"), vilket är bra."
+ ],
+ "10462778392842": [
+  "AVVISA",
+  "Smartvåg Tunturi SC30 med app, svart",
+  "A (G): batteridriven (\"Strömförsörjning: 2 x AAA-batterier (ingår)\"). I övrigt korrekt (14TUSSP001, 26 x 26 x 1,8 cm, 180 kg, kostnadsfri Fitdays-app). Källans hälsoformuleringar (\"förbättra sin hälsa\") är bortlämnade, vilket är bra."
+ ],
+ "10472216363274": [
+  "OK",
+  "Massagebollar Tunturi i kork, diameter 5 och 6,5 cm",
+  "F hanterat: källan säger både \"Set med två\" och \"Två set om två: 5 och 6,5 cm diameter\". Utkastet anger inget antal, vilket är rätt, men motsägelsen bör flaggas. Alla hälso- och miljölöften ur källan (\"stimulerar blodcirkulationen\", \"100% naturligt och biologiskt nedbrytbart\", \"kemikaliefri\", \"immun mot mögel\") är bortlämnade enligt beslut (b). C: \"Vikt: 60 g\" – det framgår inte om vikten gäller per boll eller för hela setet. C: \"Passar dig som: Dig som vill ha massagebollar i kork\" säger inget. Meta saknas."
+ ],
+ "10472218263818": [
+  "AVVISA",
+  "Armband Tunturi LED Armlight, röd",
+  "A (G): elektrisk/batteri (\"levereras med 2x CR2032-batterier (utbytbara)\"), och produkten är till för att synas i mörker (\"det är viktigt att synas för andra. Olyckor kan lätt inträffa\"), alltså en säkerhetsprodukt. B: utkastet nämner batteritiden men inte batterityp eller att batterier ingår. Källraden \"vikt: 33,5 kg - 45,5 cm\" är skräp och är rätt bortlämnad."
+ ],
+ "10472270266634": [
+  "OK",
+  "Ben- och armvikter Tunturi Arm/Leg Weights, 2 x 1,5 kg",
+  "F hanterat: källan säger både \"Fäst vikterna med en gaffellåsning\" och \"Med kardborreband\". Utkastet nämner inget fäste, vilket är rätt, men motsägelsen bör flaggas. Skräpraden \"1,5 x 2,5 cm (1,5 lb)\" är bortlämnad. 38,5 x 14 x 3,5 cm, nylon, svart/grå och \"Finns även i andra vikter\" stämmer. C: punkten \"Dig som vill kunna byta till tyngre vikter, eftersom modellen finns i andra vikter\" handlar om andra produkter, inte om den här."
+ ],
+ "10475978916106": [
+  "OK",
+  "Tennisset Tunturi Indiaka Tennis, 2 racketar och boll",
+  "Alla uppgifter står ordagrant i källan (\"Setet innehåller 2 racketar, 1 Indiaca Play-boll\", \"bollen behåller sin bana\"). C: källan stavar både \"Indiaka\" och \"Indiaca\". C: SKU-prefixet 08BRSGA skiljer sig från Tunturis 14TU/17T – kontrollera märket. Om det är en barnprodukt (G) framgår inte; \"lekset\" räcker inte som belägg."
+ ],
+ "10515748487434": [
+  "OK",
+  "Hand- och fotvikter Toorx, 2 x 1,5 kg",
+  "Källtexten är bara \"Tillverkaren är Toorx\". Utkastet säger inget mer än titeln, vilket följer beslut (a). C: produkten är DRAFT. Meta saknas."
+ ],
+ "10411771363594": [
+  "OK",
+  "Träningsmatta Tunturi NBR, 15 mm, grå",
+  "15 mm, 180 x 60 cm, NBR (nitrilgummi), bärväska, \"Yoga, Pilates och allmän träning\" och \"Finns även i andra färger\" stämmer. Skräpraden \"180 x 180 x 180 x 180 x 180\" är bortlämnad. Källans \"utmärkt komfort\" är inte med."
+ ],
+ "10472215544074": [
+  "OK",
+  "Massagerulle Tunturi Yoga Massage Roller 90 cm",
+  "\"skumgummi\" och \"yoga och Pilates\" kan spåras. C: \"Längd: 90 cm\" är en tolkning av \"90 cm\" i titeln. C: butiken har två varianter med samma SKU 14TUSYO008 (\"Default Title\" och \"14TUSYO008\"), ett datafel att flagga för David. Meta saknas."
+ ],
+ "10472215642378": [
+  "OK",
+  "Yogamatta Tunturi Yogamat, 4 mm, turkos",
+  "F: källan säger både \"TPE Yogamat\" (titeln) och \"PVC yogamatta\" / \"Material: PVC\". Utkastet tar inte med materialet, vilket är rätt. Källan har också både \"182 x 61 cm\" och \"182 cm x 182 cm\". Utkastet väljer 182 x 61, det rimliga måttet, men utan flagga. C: båda motsägelserna bör stå under \"Att bekräfta\". 949 g, halkskydd och \"Lätt att rulla ihop och förvara\" stämmer."
+ ],
+ "10472277803274": [
+  "RÄTTA",
+  "Gymnastikboll Tunturi Gymball 75 cm, Anti-Burst, mint",
+  "B (E): \"Anti-Burst\" i titeln, samma fynd som för 90 cm. B (F/H): \"Färg: mint (källan anger grönaktig)\" – utkastet visar en motsägelse mellan titel och tabell i kundtexten i stället för att flagga den. Välj \"mint\" (titeln) och lägg frågan under \"Att bekräfta\". C: storlekstabellen står både under Specifikationer och i FAQ; under Specifikationer kan den läsas som att alla storlekar finns som varianter. 75 cm, 1,2 kg och 220 kg stämmer. C: produkten är DRAFT."
+ ],
+ "10472281374986": [
+  "AVVISA",
+  "Crosstrainer Tunturi FitCross 50i, 22 träningsprogram",
+  "A (G): elektrisk produkt (\"Skärm: 5,5 tum, LCD\", \"Bromssystem: PMS, servomotor\") med användarbelastning (\"Maximal användarvikt: 150 kg\"). Alla siffror i utkastet stämmer (5,5 tum, 22, 32, 38 cm, 145 x 60 x 171 cm, 48 kg, 150 kg). C: källan skriver \"FitCross 50\" i texten och \"FitCross 50i\" i titeln, och \"Belastning: 18 kg\" (troligen svänghjulet) är bortlämnat."
+ ],
+ "10472300314890": [
+  "OK",
+  "Träningsmatta Toorx, 180 x 90 x 0,6 cm",
+  "Källtexten är tom (descriptionHtml \"\"). Utkastet upprepar bara titelns mått. Meta saknas."
+ ],
+ "10507432722698": [
+  "RÄTTA",
+  "Justerbar hantel Hammer StrongLock 8.0, upp till 23 kg",
+  "B (F): originaltiteln säger \"4-23 kg\" och vikttabellen \"5/6/7/…/23 kg\". Utkastet skriver \"upp till 23 kg\" och undviker därmed motsägelsen, men flaggar den inte. B: \"kan ersätta upp till 15 par hantlar\" (både beskrivning och meta) står ordagrant i källan, men källan säger också \"Setet innehåller 1 hantel\". En hantel med 15 lägen ersätter 15 enskilda hantlar, inte 15 par, så påståendet är vilseledande ihop med att det ingår en hantel. Ta bort det eller skriv \"15 viktlägen\". Antalet \"15 vikter\" stämmer (listan har 15 värden). C: \"behåller sin balanspunkt vid varje vikt\" är ett leverantörspåstående (ordagrant, kan behållas enligt 2.4)."
+ ],
+ "10515743408394": [
+  "OK",
+  "Handtrainer Toorx Handgrip, justerbar",
+  "Allt går att spåra till källtiteln \"Handtrainer TOORX Justerbar Handgrip\". C: \"Handtrainer\" är ett lånord (svenska: handtränare), men det står i originaltiteln."
+ ],
+ "10515748389130": [
+  "OK",
+  "Massagebollar Toorx 7,5 och 9 cm, grön och lila",
+  "Utkastet: \"en grön boll med diameter 7,5 cm och en lila boll med diameter 9 cm\". Källan: \"1 grön boll med en diameter på 7,5 cm och 1 lila boll med en diameter på 9 cm\". Inga effektpåståenden."
+ ],
+ "10612579533066": [
+  "AVVISA",
+  "Löpband Tunturi Cardio Fit T60, hopfällbart",
+  "**A (G, elektrisk):** löpband med motor. Källan: \"Motor: 3,5 HK\", \"Lutningsnivåer: 15 (elektroniskt justerbara)\". Enligt regel G ska utkastet inte finnas. Själva texten är i övrigt källtrogen. Siffrorna stämmer: 44, 3,5, 0,8–18, 15, 140 × 50 (källan har stavfelet \"Löyta\"), 170,1 × 83,5 × 134,9, 30 × 80,2 × 170,1, 80 kg, 130 kg. **B (B):** fältet `fakta` nämner inte att produkten har status DRAFT live. C: \"Användare upp till 130 kg\" under Passar dig som; källan säger \"Maximal belastning: 130 kg\", inte användarvikt."
+ ],
+ "10472218984714": [
+  "AVVISA",
+  "Pulsmätare Tunturi Digital HR Armband, Bluetooth och ANT+",
+  "**A (G, elektronik/batteri):** en Bluetooth-/ANT+-sensor med LED-lampa är en batteridriven produkt. Källan: \"Bluetooth, ANT+ och vattentät\", \"En integrerad LED-lampa\". Källan säger ingenting om batteri, och det är just det som saknas. **B (E):** \"Vattentät upp till trettio minuter på ett maximalt djup av en meter\" och FAQ-svaret om simning är ett funktionslöfte om vattentäthet. Det står ordagrant i källan men har ingen klassning (IP/ATM). Om David undantar produkten från G är texten i övrigt trogen. Notera att butikens produkttyp är \"Crosstrainers\" (fel i butiken) och att originaltiteln säger \"Pulsband\"."
+ ],
+ "10472271184138": [
+  "OK",
+  "Boxningshandskar Tunturi Allround, 14 oz, konstläder",
+  "Allt spårbart: \"L 30,5 x B 16 x H 12,5 cm\", \"290g\", \"konstläder\", \"14 oz\", \"breda kardborren\", \"mjuka stoppning\". Skyddspåståendet i källan (\"skyddar både dig och din motståndare från skador\") är korrekt utelämnat. C: \"Dig som söker 14 oz\" är en klumpig formulering. C: \"Volym 14 oz\" är källans ord, men oz anger vikt och inte volym."
+ ],
+ "10470997197066": [
+  "RÄTTA",
+  "Viktväst Tunturi 15 kg, justerbara remmar, 8 sandpåsar",
+  "**A (F, motsägelse skriven vidare):** utkastet: \"totalvikt 15 kg och 8 sandpåsar på 1,25 kg styck\". 8 × 1,25 kg = 10 kg, inte 15 kg. Källan säger både \"8 medföljande påsarna … väger 1,25 kg styck\", \"extra vikt: 0 till 15 kg\" och \"Totalvikt: 15 kg\". Antingen är påsvikten, antalet eller totalvikten fel (om inte västen själv väger 5 kg, vilket ingen källa säger). Detta ska stå under \"Att bekräfta\" och inte i titel, SEO, meta eller FAQ. Meta och FAQ (\"som väger 1,25 kg styck\") upprepar motsägelsen. Källtiteln är på engelska (\"Weight vest\"), och \"Viktväst\" är en riktig översättning."
+ ],
+ "10472279965962": [
+  "RÄTTA",
+  "Gymnastikboll Tunturi Anti-Burst 65 cm, röd",
+  "**B (A, förstärkt påstående):** meta och beskrivning: \"Lämplig för … som sittplats vid skrivbord\" och \"Den är lämplig för … som sittplats vid ett skrivbord\". Källan: \"och **kanske till och med** för att sitta vid ett skrivbord\". Förbehållet har fallit bort. **B (E/G, belastning och säkerhet):** \"Anti-Burst\" och \"Bärförmåga: 220 kg\" är säkerhets- och belastningsuppgifter. De står i källan (\"designad för att klara vikter upp till 220 kg\"), men är ett gränsfall mot G som David bör ta ställning till. C: källans länk visar \"including pump\", men pumpen nämns inte i källtexten och utkastet tar korrekt inte med den. Status är DRAFT live. Storleksguiden 166–178 cm stämmer."
+ ],
+ "10472308506890": [
+  "OK",
+  "Gymnastikmatta Tunturi Outdoor Fitness Mat, PVC, 121 x 60 cm",
+  "\"121 x 60 x 0,6 cm\", \"lättrengjorda PVC-material\", \"halkfria topplager\" och \"både inomhus- och utomhusbruk\" finns i källan. Källans \"extra tjocka\" (vid 0,6 cm) och \"perfekta\" är korrekt utelämnade. Status är DRAFT."
+ ],
+ "10462848385290": [
+  "OK",
+  "Gymnastikgummi Toorx Elastic med handtag, stark, röd",
+  "Allt kommer från källtiteln. C: källans \"Mått: 6 x 10 x 1200 mm\" är utelämnat. Det är tillåtet enligt (a), men kunde stå med."
+ ],
+ "10468752720138": [
+  "RÄTTA",
+  "Hantlar Tunturi Platinum Hex, 2 x 2 kg, gummiöverdrag",
+  "**B (F/B, varianter):** live finns två varianter: \"Default Title\" (SKU 25TUPLA014) och \"25TUPLA011\" (SKU 25TUPLA011). Olika SKU:er i samma serie tyder på olika vikter, men titeln, SEO-titeln och metan låser produkten till \"2 x 2 kg\". Det ska bekräftas. `fakta` nämner varianterna men utkastet flaggar dem inte. Övrigt stämmer: \"Setet innehåller två hantlar, som var och en väger 2 kg\", \"hemmabruk såväl som för gruppträning och gym\". \"Rehabilitering\" och \"förhindrar skador på golvet\" är korrekt utelämnade."
+ ],
+ "10472213250314": [
+  "RÄTTA",
+  "Viktväska Tunturi Strengthbag 5 kg, orange",
+  "**B (F, färg):** utkastet: \"Färg: orange (finns även grå)\". Källan har \"Färg: Orange \\ | Grå\", varianterna \"Default Title\" och \"yellow\" med samma SKU, och \"Finns i olika vikter (färger)\". Färg och variant motsäger varandra. \"Finns även grå\" ska inte skrivas som fakta, och \"yellow\"-varianten ska under \"Att bekräfta\". Den trasiga raden \"23,5 kg: 23,5 cm, 23,5 tum\" är korrekt utelämnad. **B (A):** \"Dig som vill ha en kombination av kettlebell, medicinboll och skivstång\" återger ett leverantörspåstående (\"Kombination av kettlebell, medicinboll och skivstång\") som ett användningsfall. Enligt (a) bör det tas bort. Butikens produkttyp \"Cykelväskor\" är fel i butiken. Titeln har rätt typ."
+ ],
+ "10472279638282": [
+  "OK",
+  "Mobilhållare för arm Toorx, armband för smartphone",
+  "Spårbart till \"Mobilhållare för arm TOORX Smartphone Armband\". \"(Italien)\" är korrekt borttaget. C: \"Toorx mobilhållare för arm, ett armband för smartphone.\" saknar verb och är ingen hel mening."
+ ],
+ "10472299102474": [
+  "OK",
+  "Träningsmatta Toorx, 200 x 100 x 0,9 cm",
+  "Källan har tom beskrivning. Måtten kommer från titeln \"200x100x0,9 cm\"."
+ ],
+ "10472299725066": [
+  "OK",
+  "Träningsmatta Toorx, 200 x 100 x 0,6 cm",
+  "Källan har tom beskrivning. Måtten kommer från titeln \"200x100x0.6 cm\". Titeln skiljer sig från 0,9-mattan och är unik."
+ ],
+ "10472324432138": [
+  "RÄTTA",
+  "Stepbräda BH Fitness",
+  "**A (D, produkttyp osäker):** utkastet: \"Stepbräda från BH Fitness.\" Källan: \"Produkten passar för BH Fitness.\" med länk till velomarket.ee/pood/**velotrenazoor**-bh-fitness-i-tfb-2/, alltså en cykeltrainer (BH i.TFB). \"Step board\" är därför troligen ett tillbehör till cykeltrainern, inte en aerobicsstepbräda som \"Stepbräda\" antyder. `fakta` har tappat länkens mål, och det är den enda ledtråden till vad produkten är. Bekräfta produkten innan något skrivs."
+ ],
+ "10472505868554": [
+  "OK",
+  "Yogamatta Tunturi 8 mm, ljusblå",
+  "Spårbart: \"8 mm\", \"100 % TPE: en kombination av gummi och plast\", \"Halkfri, lätt att rengöra\", \"bärväska\", \"7 trendiga färger\", \"950 gr\", \"(3-4 mm)\". Miljö- och hälsopåståendena (\"miljövänligt\", \"biologiskt nedbrytbar\", \"(kronisk) smärta\", \"minskar belastningen\") är korrekt utelämnade. C: källans skräprad \"STORLEK: 950 TPE\" och samma EAN (8717842035375) på alla tre färger används inte, vilket är rätt. Taggen \"Cykelbelysning\" är fel i butiken."
+ ],
+ "10462782554378": [
+  "OK",
+  "Justerbar hantel Toorx 1,5–18 kg, 12 steg",
+  "\"justerbar i 12 olika steg, från 1,5 kg till 18 kg\", \"viktvalssystem\" och \"Setet innehåller 1 hantel och dess bas\" finns i källan. \"Patenterat\" och \"(Italien)\" är korrekt borttagna. Status är DRAFT."
+ ],
+ "10472252637450": [
+  "OK",
+  "Yogamatta Tunturi 8 mm, armégrön",
+  "Samma bedömning som för ljusblå. \"Army Green\" blir \"armégrön\". C (B): `fakta` säger \"många positioner liggande\", men live står \"många **poser** liggande\". Det är en liten avvikelse i fältet `fakta`. Live finns \"ARTIKELNR.: 14TUSYO077\" medan SKU:n är 14TUSYO075, men utkastet använder inte artikelnumret."
+ ],
+ "10472259092746": [
+  "RÄTTA",
+  "Massagerulle Tunturi Yoga Grid Foam Roller 33 cm, orange",
+  "**B (D, modellnamn ändrat):** utkastet: \"Yoga Grid Foam Roller\" (titel, meta, beskrivning). Källtiteln: \"Yoga **Foam Grid** Roller\". Ordningen är omkastad, så modellnamnet stämmer inte med originalet. C: titeln säger bara \"orange\", medan källan och beskrivningen säger \"Orange - Vit\". Källans \"Fördelar med Tunturi massageboll\" (en boll, inte en rulle) och effektpåståendena (\"tona muskler\", \"stela eller frusna muskler\") är korrekt utelämnade. 33 cm, 14 cm och EVA stämmer."
+ ],
+ "10472265875722": [
+  "AVVISA",
+  "Elliptisk träningsmaskin Tunturi Signature C20-R",
+  "**A (G och status):** produkten är **ARCHIVED** live, och `fakta` nämner det. Det är en maskin med \"Maximum user weight: 150 kg\" och \"Display: 5.5 inches, LCD\", alltså belastning och troligen batteri eller el. Den bör inte få ny text. Källan är på engelska, och utkastets svenska siffror stämmer: 5,5 tum, 5, 8, PMS, 28 kg, 40 cm, 144 x 67 x 166 cm, 55,7 kg, 150 kg. C: titeln säger \"C20-R\" och texten \"C20\". Det följer källan, som använder båda."
+ ],
+ "10472284389642": [
+  "OK",
+  "Yogamatta Tunturi 8 mm, petrolblå",
+  "Samma bedömning som för ljusblå. \"Färg: petrolblå\" står i källan. SEO-titeln och metan är unika, med färgen som skillnad."
+ ],
+ "10472296677642": [
+  "RÄTTA",
+  "Pullbuoy Tunturi Medium, PE-skum",
+  "**B (H/format, engelskt typord):** titeln börjar med \"Pullbuoy\", som är ett engelskt typord (standard 3: \"inga engelska typord\"). Det svenska ordet är dolme. Originaltiteln \"Ujumispoi\" är estniska och hjälper inte. Innehållet är trogen källan: \"PE-skum\", \"placeras mellan simmarens lår eller anklar … endast använder armarna\". \"Förbättra simteknik och uthållighet\" och \"högkvalitativt\" är korrekt utelämnade."
+ ],
+ "10472299266314": [
+  "OK",
+  "Viktskiva Toorx Challenge bumper 50 mm, 5 kg, vit",
+  "\"Håldiameter: 50mm\", \"1 skiva med en vikt på 5 kg\" och \"vit\" finns i källan. \"Högkvalitativ\" och \"nybörjare och avancerade\" är utelämnade. C: metan \"Beskrivs som avsedd för styrketräning.\" är en konstig formulering. Skriv hellre \"för styrketräning\". C: \"bumper\" är engelska men står i originaltiteln. Status är DRAFT."
+ ],
+ "10472301560074": [
+  "OK",
+  "Massagerulle Toorx Grid Foam Roller, svart och orange",
+  "Spårbart till \"Grid Foam Roller, black-orange\". Källans effektpåståenden (\"stöder effektivt återhämtningen\", \"förbättra stabilitet och flexibilitet\") är korrekt utelämnade, enligt beslut (b)."
+ ],
+ "10472311030026": [
+  "OK",
+  "Arm- och benvikter Tunturi, 2 x 2 kg, nylon",
+  "\"Setet innehåller 2 vikter, som var och en väger 2 kg\", \"38 x 15 x 6 cm\", \"nylon\" och \"gymmet, yoga, löpning eller fotboll\" finns i källan. Status är DRAFT."
+ ],
+ "10475373560074": [
+  "RÄTTA",
+  "Handledsskydd Tunturi, bomull, vit",
+  "**B (F/B, varianter):** live finns två varianter, \"14TUSCF101\" och \"14TUSCF102\", utan namn. Den andra kan vara en annan färg eller storlek, men titeln, SEO-titeln och metan låser produkten till \"vit\". Det ska under \"Att bekräfta\". Övrigt stämmer: \"39,5 x 8,0 x 0,3 cm\", \"38 g\", \"Per par\", \"Kardborrefäste\", \"elastisk tumögla\", \"Bomull\", \"bänkpress, boot camp eller andra viktbärande övningar\". \"Stöder dina handleder\" är korrekt utelämnat. C: källan säger både \"starkt och elastiskt material\" och \"Material: Bomull\". Utkastet skriver bara bomull, vilket är rimligt."
+ ],
+ "10475385848074": [
+  "OK",
+  "Crosstrainer Tunturi Cardio Fit C30, 8 nivåer, manuell broms",
+  "Alla tal (4 program, 8 nivåer, 33 cm, 124 x 60 x 163 cm, 32,5 kg, 110 kg, 49 x 24 mm) finns i källan. Källans \"Belastningskapacitet: 13 kg\" är utelämnad, vilket är rätt eftersom det är oklart vad den avser. C: frågan i Vanliga frågor upprepar bara första stycket."
+ ],
+ "10480045752586": [
+  "OK",
+  "Yogamatta Tunturi 8 mm, svart",
+  "Hälso- och miljöpåståenden (\"skonsammare för muskler och leder\", \"biologiskt nedbrytbar\", \"(kronisk) smärta\") är bortlämnade, och det är rätt. C (F): utkastet skriver \"lite tvättmedel\", vilket är vad den här källan säger, men systerprodukten (grå) säger \"lite diskmedel\". Det är troligen en felöversättning. Välj ett ord för båda. C (B): `fakta` och källan har samma EAN, 8717842035375, för både svart och grå matta, och \"STORLEK: 950 TPE\" är trasig data. Inget av det står i utkastet."
+ ],
+ "10486630252810": [
+  "AVVISA",
+  "Motionscykel Tunturi Platinum E30, 26 program, induktionsbroms",
+  "**G (A):** källan anger \"Bromssystem: EMS, induktion\", alltså en eldriven broms (elektrisk produkt). Enligt instruktionen ska utkastet då inte finnas. Själva texten är annars trogen källan. B: om David ändå släpper igenom produkten ska leveranstiden bort. Meta: \"Beställningsvara, maximal driftsvikt 180 kg\" och beskrivningen: \"leveranstiden kan vara upp till 1 vecka längre\". Enligt standarden §2.8 hör leverans hemma i standardblocket. Källan har två olika \"Belastningskapacitet\" (48 och 16 kg). De är rätt utelämnade."
+ ],
+ "10650210402570": [
+  "RÄTTA",
+  "Justerbar hantel Hammer SmartLock, 20 kg, vrid-och-lås",
+  "B (F): källan har två varianter, \"17358\" och \"17359\", som bara har SKU-nummer som namn, men utkastet säger \"Setet innehåller 1 justerbar hantel\" och 20 kg. Vad som skiljer varianterna (en eller två hantlar, olika vikter?) är okänt. Det ska listas under \"Att bekräfta\" i stället för att texten låser fast \"1 hantel\" och \"20 kg\" för båda. Övriga tal (2/4/…/20 kg, produktvikt 20 kg) stämmer."
+ ],
+ "10462758469898": [
+  "OK",
+  "Boxningsdocka Tunturi Slam Man",
+  "Källan är tom (\"descriptionHtml\": \"\"). Utkastet hittar inte på något, och det följer beslut (a). C: meta saknas, eftersom det inte finns fakta för 130 tecken. Det är godtagbart men ska noteras. C (källa): butikens produkttyp är engelsk (\"Boxing equipment\") och taggen \"Herrcykel\" är fel. Det ligger utanför texten."
+ ],
+ "10462846943498": [
+  "AVVISA",
+  "Ställ för justerbar hantel Hammer Stronglock",
+  "**G (A, gränsfall):** ett hantelställ är ett stativ som bär last, och sådana ska enligt instruktionen inte ha något utkast. Det är Davids sak att avgöra om förvaringsställ räknas. B (H): beskrivningen innehåller engelska och intern text: \"(originaltitel: adjustable dumbbell stand)\". Källan har ingen text alls utöver \"Tillverkaren är Hammer\"."
+ ],
+ "10470913179914": [
+  "AVVISA",
+  "Spinningcykel Tunturi Platinum S20, 26 program, 32 nivåer",
+  "**G (A):** källan anger \"Bromssystem: PMS, servomotor\", alltså en motordriven och därmed elektrisk produkt. Texten är annars trogen källan (80 x 50 mm, 26, 32, 155 x 60 x 140 cm, 53,2 kg, 180 kg). \"Lastkapacitet: 20 kg\" är utelämnad, och det är rätt."
+ ],
+ "10471042646282": [
+  "RÄTTA",
+  "Lyftstångsset Tunturi Pro Aerobic Pump Set, 20 kg, 30 mm",
+  "B (§2.5, H): utkastet tar över leverantörens felord \"2 lyfthakar\" (\"1 lyftstång, 2 lyfthakar och 6 viktskivor\"). Källan säger samtidigt \"Lyftstänger, 6 viktskivor och lås\", så det rör sig sannolikt om lås eller klämmor. Gissa inte. Skriv \"2 lås\" bara om David bekräftar det, annars \"Att bekräfta\". C: källan säger både \"1 lyftstång\" och \"Lyftstänger\" (plural). Utkastet följer listan, och det är rätt. C: skivorna väger tillsammans 17,5 kg. Att setet väger 20 kg förutsätter att stången och låsen väger 2,5 kg, vilket inte står i källan. Titeln följer ändå källans titel \"20 kg\", och det är godtagbart."
+ ],
+ "10471167852810": [
+  "OK",
+  "Vinylhantel Toorx, 3 kg, mörkröd",
+  "Stämmer med källan (\"OBS: Hantlar säljs styckvis\"). C: ingen meta."
+ ],
+ "10472260665610": [
+  "OK",
+  "Viktväst Tunturi Pro, 20 kg, svart",
+  "Siffrorna (20 kg, 1 kg, 30 kg) stämmer. C (H): det engelska \"one size\" står kvar i två punkter: \"en väst i en storlek (one size)\" och \"Storlek: one size\". Skriv \"en storlek\". C: \"Finns även med maximal vikt 30 kg\" i meta, i specifikationen och i Vanliga frågor beskriver en annan produkt. Uppgiften blir fel om den varianten försvinner ur sortimentet."
+ ],
+ "10472274133258": [
+  "OK",
+  "Gymnastikmatta Tunturi Fitnessmat NBR, 180 x 60 cm, blå",
+  "180 x 60 x 1,5 cm, massivt skum, bärväska och blå finns i källan. Användningen (magövningar, yogaklasser, hemma och på gymmet) står ordagrant i källan."
+ ],
+ "10472276001034": [
+  "OK",
+  "Pedaler Tunturi Reha med remmar för motionscykel",
+  "28 x 20 x 16 cm, 1,78 kg, remmar, hälstöd och vikter på pedalerna stämmer. \"Extra stöd\" och \"rehab\" är inte uttryckta som effekt, och det är rätt. C (B): `fakta` saknar taggarna \"Fell\" och \"pedals\", men det saknar betydelse."
+ ],
+ "10472277606666": [
+  "RÄTTA",
+  "Minicykel Tunturi Mini Bike Foldable Easy, hopfällbar",
+  "B (§2.8): leveranstiden står som produktegenskap: \"Beställningsvara: kan ta upp till 1 vecka längre att leverera\" i specifikationen. Den ska bort, eftersom leverans hör till standardblocket. C (H): titeln säger samma sak två gånger, \"Foldable Easy, hopfällbar\". Ett modellnamn får vara engelskt, men det ger ett onödigt engelskt intryck. Källans \"Ett utmärkt verktyg för rehabilitering\" är rätt utelämnat. Notera för G: produkten har en display, men källan säger inget om batteri."
+ ],
+ "10472278720778": [
+  "OK",
+  "Kettlebell Toorx 16 kg, svart gjutjärn med gummibotten",
+  "Stämmer med källan. \"(Italien)\" är rätt utelämnat (§2.3)."
+ ],
+ "10472301035786": [
+  "RÄTTA",
+  "Hantel Toorx Neoprene Dumbbell, svart, 6 kg",
+  "B (§3, H): titeln innehåller det engelska typordet \"Dumbbell\", vilket bryter mot standarden (\"inga engelska typord\"), och dessutom upprepar \"Hantel\". Källans titel är \"Hantel TOORX Neoprene Dumbbell, svart, 6 kg\". Förslag: \"Hantel Toorx Neoprene, svart, 6 kg\", som redan är SEO-titeln. Samma sak i första meningen: \"Toorx Neoprene Dumbbell är en svart hantel\"."
+ ],
+ "10472301625610": [
+  "OK",
+  "Massagerulle Toorx Grid Foam Roller, orange och svart",
+  "\"Massagerulle\" är tillåtet enligt beslut (b). Effekterna i källan (\"muskelavslappning\", \"förbättra stabilitet och flexibilitet\", \"stöder effektivt återhämtningen\") är bortlämnade, och det är rätt. Källans motsägelse \"Massagematta och yogarulle\" är inte förd vidare. C: \"Foam Roller\" är engelska i modellnamnet, men det är butikens produktnamn."
+ ],
+ "10472304214282": [
+  "AVVISA",
+  "Smithmaskin Tunturi Platinum Full Smith, Selectorized, V-Series",
+  "**G (A):** en Smithmaskin med två viktblock på 100 kg är ett stativ som bär last. B (H): titeln innehåller de engelska orden \"Selectorized\" och \"V-Series\". \"Selectorized\" är dessutom en typbeskrivning, inte ett modellnamn. Källans titel börjar med estniska \"Jõujaam\", vilket utkastet rätt har bytt ut. Siffrorna (2 x 100 kg, 16 lägen, 2,5 mm, 162 x 204 x 217 cm, 464 kg) stämmer."
+ ],
+ "10472308801802": [
+  "OK",
+  "Balansmatta Toorx, grön",
+  "Källan innehåller bara \"Tillverkaren är Toorx\". Utkastet hittar inte på något. C: ingen meta."
+ ],
+ "10475517772042": [
+  "AVVISA",
+  "Bröstbälte Toorx 5,3 kHz",
+  "**G (A):** ett pulsbälte (taggarna \"puls\", \"pulsmätare\") är en elektronisk sändare och normalt batteridriven. B (F): källans motsägelse är inte flaggad i utkastet. Källan anger \"Frekvens: 5,3 KHz\" men också \"Frekvensomfång: 85 cm, upp till 100 cm (5,5 kHz)\", vilket är obegripligt och ger två olika frekvenser. Den finns i `fakta` men inte under \"Att bekräfta\". C (D): \"Bröstbälte\" ensamt säger inte att det är en pulsmätare. Om produkten ändå släpps: \"Pulsbälte\". \"(Italien)\" är rätt utelämnat."
+ ],
+ "10475982651658": [
+  "RÄTTA",
+  "Medicinboll Tunturi Wall Ball, 6 kg, röd",
+  "B (H): i Vanliga frågor står intern text: \"Nej, källan anger att medicinbollen inte är lämplig för sparkar.\" Kunden ska inte läsa ordet \"källan\". Skriv \"Nej, medicinbollen är inte lämplig för sparkar\", som är källans formulering. C (F): källan har två varianter med samma SKU, \"Default Title\" och \"14TUSCF011\", som båda heter 14TUSCF011. Det är en datadubblett som bör noteras. Övrigt (6 kg, syntetiskt läder, ull och sand, overlock-sömmar, röd - svart, inne och ute) stämmer."
+ ],
+ "10650166853898": [
+  "RÄTTA",
+  "Trampolin Hammer Cross Jump, 98 cm, vikbara ben",
+  "B (A-regeln): \"Dig som vill träna på trampolin hemma\" kan inte spåras. Ordet \"hemma\" finns inte i källan, som bara säger \"placera trampolinen utom synhåll när du inte tränar\". Skriv utan \"hemma\" eller \"inomhus\". C (D): butikens produkttyp är \"Utomhusträning\", medan källan anger en minsta takhöjd på 220 cm. Det är en motsägelse i butiksdatan att flagga. Viktnedgång, \"1000 kilokalorier\" och \"(Tyskland)\" är rätt utelämnade. Siffrorna (98, 220, 13, 120 x 130 x 140, 130 kg) stämmer, och dubbelraden \"Minsta höjd på trampolinen: 220 cm\" är rätt inte förd vidare. Notera för G: produkten bär användarens vikt (130 kg) men står inte i listan."
+ ],
+ "10462778818826": [
+  "OK",
+  "Yogamatta Tunturi 8 mm, grå",
+  "Stämmer med källan (\"diskmedel\", \"positioner\"). C: meta och beskrivning är nästan identiska med den svarta varianten och skiljer sig bara i färg (unika men tunna). Samma EAN som den svarta i källan (se ovan)."
+ ],
+ "10470932807946": [
+  "AVVISA",
+  "Kroppsskanner Hammer Body Screen TX, 4 handsensorer",
+  "**G (A):** batteridriven (\"Strömförsörjning: 4 x AA-batterier\") och en hälsomätare (källan: \"hälsorelaterade parametrar\", \"hälsopoäng\", \"DSM-BIA\"). **D (A):** källans titel är \"Weight HAMMER Body Screen TX\", alltså en våg (vikt- och kroppsanalysvåg, 4 viktsensorer, maximal belastning 200 kg). Typen \"våg\" har försvunnit ur utkastets titel (\"Kroppsskanner\"). B: \"Dig som vill följa kroppssammansättning med segmental analys\" ligger nära ett hälsopåstående."
+ ],
+ "10470934544650": [
+  "OK",
+  "Roddmaskin Tunturi Signature R90W by Fluid, vattenmotstånd",
+  "Texten stämmer (LCD 80 x 65 mm, 1 program, vatten, 213 x 52 x 56 cm, 31,8 kg, 150 kg, ask och stål). B (status): produkten är **ARCHIVED** i butiken. Bekräfta att arkiverade produkter ska ingå innan något skrivs. C (H): \"by Fluid\" är engelska i modellnamnet."
+ ],
+ "10470942114058": [
+  "OK",
+  "Viktskiva Tunturi Aerobic Plates 10 kg, grön, gummerad",
+  "30 mm, 28,5 cm och 5,1 cm stämmer. 10 kg och grön kommer från källans titel. Den trasiga raden \"5,5 mm Ø 5,1 mm\" och självmotsägelsen om ljud (\"inte ett högt ljud\" och \"inget ljud\") är rätt inte förda vidare. B (status): produkten är **DRAFT** i butiken. Bekräfta att den ska ingå."
+ ]
+}
