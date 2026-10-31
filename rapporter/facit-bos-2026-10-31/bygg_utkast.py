@@ -16,7 +16,8 @@ for p in D:
     if p["marke"]: b += "\nOm märket: " + p["marke"] + "\n"
     out.append({"id": p["id"], "titel": p["titel"], "seo_title": p["seo_title"], **({"meta": p["meta"]} if p["meta"] else {}), "beskrivning": b, "fakta": p["fakta"]})
     md.append(f"### {p['nr']}. {p['orig_titel']}\nProdukt-id: `{p['id']}`\n\n**Titel:** {p['titel']}  ({len(p['titel'])} tecken)\n**SEO-titel:** {p['seo_title']}  ({len(p['seo_title'])} tecken)\n**Metabeskrivning:** {p['meta'] or '(utelämnad: för tunn källa)'}  ({len(p['meta'] or '')} tecken)\n\n**Beskrivning (utkast):**\n\n{b}\n**Motivering:** {p['motivering']}\n\n**Att bekräfta:**\n" + "\n".join("- " + x for x in p["att_bekrafta"]) + "\n\n---\n")
-json.dump(out, open("utkast_kontroll.json", "w"), ensure_ascii=False, indent=1)
-open("utkast_granskning.md", "w").write("\n".join(md))
-r = subprocess.run([sys.executable, "../../shopify-sync/scripts/kontrollera_produkttext.py", "utkast_kontroll.json", "--seo-title-max", "43"], capture_output=True, text=True)
+sfx = "_".join(mods)
+json.dump(out, open(f"utkast_kontroll_{sfx}.json", "w"), ensure_ascii=False, indent=1)
+open(f"utkast_granskning_{sfx}.md", "w").write("\n".join(md))
+r = subprocess.run([sys.executable, "../../shopify-sync/scripts/kontrollera_produkttext.py", f"utkast_kontroll_{sfx}.json", "--seo-title-max", "43"], capture_output=True, text=True)
 print(r.stdout[-6000:], r.stderr[-1500:], "exit", r.returncode)
