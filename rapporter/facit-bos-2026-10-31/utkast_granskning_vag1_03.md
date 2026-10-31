@@ -425,7 +425,7 @@ Produkt-id: `10472216363274`
 
 **Titel:** Korkbollar Tunturi, set med två  (31 tecken)
 **SEO-titel:** Korkbollar Tunturi, set med två  (31 tecken)
-**Metabeskrivning:** Tunturi korkbollar, set med två, med diameter 5 och 6,5 cm. Bollarna är gjorda av kork och väger 60 g. Modellnamn Korkmassagebollset, artikel 14TUSYO060.  (153 tecken)
+**Metabeskrivning:** Tunturi korkbollar, set med två, med diameter 5 och 6,5 cm. Bollarna är gjorda av kork och väger 60 g. Material och färg: kork. Artikelnummer 14TUSYO060.  (153 tecken)
 
 **Beskrivning (utkast):**
 

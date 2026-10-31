@@ -1,0 +1,22 @@
+# Produkter som tas för hand med Davids ja (produkttypens namn är ett hälsoord eller produkten har batteri/säkerhetsfunktion). Hoppas över av bygg_utkast.py.
+10411673714954 vibrationsplatta
+10471174242570 massageprodukt
+10471317602570 massageprodukt
+10472259191050 massageprodukt
+10462190240010 hälsoord i originaltiteln: Massage roller TUNTURI Yoga Foam Grid Roller 33cm, black
+10494680563978 hälsoord i originaltiteln: Massagerulle Tunturi Kork Massagerulle
+10472302412042 hälsoord i originaltiteln: Massage roller TUNTURI Yoga Grid Foam Roller, 33cm, Rose Gold
+10472310997258 hälsoord i originaltiteln: Massage roller TUNTURI Yoga Grid Foam Roller, 33cm, Grå
+10486629597450 hälsoord i originaltiteln: Vibrationsplatta TUNTURI Cardio Fit V10
+10588446851338 hälsoord i originaltiteln: Massagerulle TUNTURI Yoga Grid Foam Roller, 33cm, Ljusblå
+10472216363274 hälsoord i originaltiteln: Massagebollar Tunturi Korkmassagebollset
+10472215544074 hälsoord i originaltiteln: Massage roller TUNTURI Yoga Massage Roller 90 cm
+10515748389130 hälsoord i originaltiteln: Massagebollar TOORX Massagebollar
+10468719493386 hälsoord i originaltiteln: TUNTURI Akupressurmadrass och kudde, ljusblå
+10471019020554 hälsoord i originaltiteln: TUNTURI Akupressurmadrass och kudde, svart
+10472276721930 hälsoord i originaltiteln: TUNTURI Akupressurmadrass och kudde, roséguld
+10472276984074 hälsoord i originaltiteln: TUNTURI Akupressurmadrass och kudde, mintgrön
+10472259092746 hälsoord i originaltiteln: Massage roller TUNTURI Yoga Foam Grid Roller 33cm, orange
+10472301560074 hälsoord i originaltiteln: Massage roller TOORX Grid Foam Roller, black-orange
+10462850449674 hälsoord i originaltiteln: Akupunkturmatta och kudde TUNTURI PRO Akupressurmatta och kudde, beige
+10472301625610 hälsoord i originaltiteln: Massage roller TOORX Grid Foam Roller, orange-black

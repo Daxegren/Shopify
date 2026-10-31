@@ -5,8 +5,11 @@ mods = sys.argv[1:] or ["batch1_a"]
 D = []
 for m in mods:
     D += importlib.import_module(m).D
+import os
+HAND = set(l.split()[0] for l in open("handhavd_ids.txt") if l.strip() and not l.startswith("#")) if os.path.exists("handhavd_ids.txt") else set()
 out, md = [], []
 for p in D:
+    if p["id"] in HAND: continue
     spec = sorted(p["spec"], key=lambda s: -len(s))
     b = p["intro"] + "\n"
     if p["passar"]: b += "\nPassar dig som:\n" + "\n".join("- " + x for x in p["passar"]) + "\n"
