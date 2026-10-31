@@ -3,7 +3,7 @@ Produkt-id: `10462190240010`
 
 **Titel:** Massagerulle Tunturi Yoga Grid Foam Roller, svart  (49 tecken)
 **SEO-titel:** Massagerulle Tunturi Yoga Grid, svart  (37 tecken)
-**Metabeskrivning:** Tunturi Yoga Grid Foam Roller är en svart massagerulle i EVA (skum) med diameter 14 cm. Rullen kan användas för massage av muskler.  (131 tecken)
+**Metabeskrivning:** (utelämnad: för tunn källa)  (0 tecken)
 
 **Beskrivning (utkast):**
 
@@ -59,7 +59,7 @@ Produkt-id: `10472216363274`
 
 **Titel:** Massagebollar Tunturi i kork, diameter 5 och 6,5 cm  (51 tecken)
 **SEO-titel:** Massagebollar Tunturi i kork  (28 tecken)
-**Metabeskrivning:** Tunturi massagebollar i kork med diameter 5 och 6,5 cm. Vikten är 60 g. Källan beskriver dem som avsedda för massage av kroppen.  (128 tecken)
+**Metabeskrivning:** (utelämnad: för tunn källa)  (0 tecken)
 
 **Beskrivning (utkast):**
 
@@ -181,9 +181,6 @@ Produkt-id: `10472302412042`
 
 Tunturi Yoga Grid Foam Roller är en massagerulle på 33 cm i EVA och PVC. Färgen är roséguld och vikten 850 g.
 
-Passar dig som:
-- Massage av muskler före, under och efter träning
-
 Specifikationer:
 - Material: EVA och PVC
 - Färg: roséguld
@@ -212,9 +209,6 @@ Produkt-id: `10472310997258`
 
 Tunturi Yoga Grid Foam Roller är en massagerulle på 33 cm i EVA och PVC. Färgen är grå och vikten 850 g.
 
-Passar dig som:
-- Massage av muskler före, under och efter träning
-
 Specifikationer:
 - Material: EVA och PVC
 - Längd: 33 cm
@@ -236,7 +230,7 @@ Produkt-id: `10494680563978`
 
 **Titel:** Massagerulle Tunturi i kork, 680 g  (34 tecken)
 **SEO-titel:** Massagerulle Tunturi i kork, 680 g  (34 tecken)
-**Metabeskrivning:** Tunturi massagerulle i kork som väger 680 g. Rullen kan användas för funktionella övningar samt balans- och rörlighetsövningar.  (127 tecken)
+**Metabeskrivning:** Tunturi massagerulle i kork som väger 680 g. Rullen kan användas för funktionella övningar samt balans- och rörlighetsövningar. Material och färg: kork.  (152 tecken)
 
 **Beskrivning (utkast):**
 
@@ -273,9 +267,9 @@ Produkt-id: `10515748389130`
 Toorx massagebollar är ett set med en grön boll med diameter 7,5 cm och en lila boll med diameter 9 cm.
 
 Specifikationer:
+- Set: 1 grön boll och 1 lila boll
 - Grön boll: diameter 7,5 cm
 - Lila boll: diameter 9 cm
-- Set: 2 bollar
 
 [[STANDARDBLOCK]] Leverans, retur och garanti (standardblock) [[/STANDARDBLOCK]]
 
@@ -292,14 +286,11 @@ Produkt-id: `10588446851338`
 
 **Titel:** Massagerulle Tunturi Yoga Grid Foam Roller 33 cm, ljusblå  (57 tecken)
 **SEO-titel:** Massagerulle Tunturi Yoga Grid, ljusblå  (39 tecken)
-**Metabeskrivning:** Tunturi Yoga Grid Foam Roller är en ljusblå massagerulle i EVA och PVC. Måtten är 33 x 13 x 13 cm och vikten 850 g.  (115 tecken)
+**Metabeskrivning:** Tunturi Yoga Grid Foam Roller är en ljusblå massagerulle i EVA och PVC. Måtten är 33 x 13 x 13 cm och vikten 850 g. Rullen är ljusblå.  (134 tecken)
 
 **Beskrivning (utkast):**
 
 Tunturi Yoga Grid Foam Roller är en ljusblå massagerulle i EVA och PVC. Måtten är 33 x 13 x 13 cm och vikten 850 g.
-
-Passar dig som:
-- Massage av muskler före, under och efter träning
 
 Specifikationer:
 - Mått: 33 x 13 x 13 cm
