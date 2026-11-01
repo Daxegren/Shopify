@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Bygger skrivdata för godkända utkast. Användning: python3 bygg_skriv.py modul1 modul2 ... -> skriv_<ids>.json (id, titel, seo_title, meta, html)."""
 import importlib, json, sys
+from format_regler import tillamp
 BEST = {"10468773232906", "10462775771402"}  # beställningsvaror (tagg 'På beställning')
 HAND = set(l.split()[0] for l in open("handhavd_ids.txt") if l.strip() and not l.startswith("#"))
 def esc(s): return s.replace("&","&amp;").replace("<","&lt;").replace(">","&gt;")
@@ -23,6 +24,7 @@ if __name__ == "__main__":
     for p in _d.values():
         if True:
             if p["id"] in HAND: continue
+            p = tillamp(p)
             out.append({"id": p["id"], "nr": p["nr"], "titel": p["titel"], "seo_title": p["seo_title"], "meta": p["meta"], "html": html(p)})
     json.dump(out, open("skriv_" + "_".join(sys.argv[1:]) + ".json", "w"), ensure_ascii=False, indent=1)
     print(len(out))

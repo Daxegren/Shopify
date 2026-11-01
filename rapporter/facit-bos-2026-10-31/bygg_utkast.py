@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Bygger kontrollbar JSON och granskningsfil ur utkasten. Användning: python3 bygg_utkast.py batch1_a batch1_b ... (modulnamn utan .py)"""
 import importlib, json, subprocess, sys
+from format_regler import tillamp
 mods = sys.argv[1:] or ["batch1_a"]
 _d = {}
 for m in mods:
@@ -12,6 +13,7 @@ HAND = set(l.split()[0] for l in open("handhavd_ids.txt") if l.strip() and not l
 out, md = [], []
 for p in D:
     if p["id"] in HAND: continue
+    p = tillamp(p)
     spec = sorted(p["spec"], key=lambda s: -len(s))
     b = p["intro"] + "\n"
     if p["passar"]: b += "\nPassar dig som:\n" + "\n".join("- " + x for x in p["passar"]) + "\n"
