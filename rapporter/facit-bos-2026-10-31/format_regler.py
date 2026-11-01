@@ -1,7 +1,7 @@
 """Formatregler beslutade av David 2026-11-01: (1) stor bokstav efter kolon, (2) stor bokstav på beskrivande ord i titel och SEO-titel."""
 import re
 SMA = {"och", "med", "för", "i", "på", "av", "till", "om", "utan", "samt", "eller", "en", "ett", "som", "att", "vid", "från", "x", "of", "by"}
-ENHETER = {"cm", "mm", "kg", "g", "tum", "hk", "khz", "lux", "w", "wh", "psi", "bar", "m", "l", "st", "nm", "km/h", "kw", "gr", "mah", "v"}
+ENHETER = {"cm", "mm", "kg", "g", "tum", "hk", "khz", "lux", "w", "wh", "psi", "bar", "m", "l", "st", "nm", "km/h", "kw", "gr", "mah", "v", "ml", "oz", "cl", "dl"}
 def _ord(w, forst):
     k = re.match(r"^([\(\"'\[]*)(.*?)([\)\"'\],.;:!?]*)$", w)
     pre, kärna, suf = k.group(1), k.group(2), k.group(3)
