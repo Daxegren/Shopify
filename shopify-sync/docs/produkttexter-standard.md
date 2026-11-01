@@ -61,8 +61,24 @@ Ton: sakligt, konkret, utan utropstecken och superlativ ("bäst", "ledande", "un
 - Granskaren och David är överens (högst 1 av 10 utkast där de bedömer olika på allvarliga fynd).
 
 ## 9. Öppna beslut
+*Inaktuellt sedan 2026-10-31, se avsnitt 10.*
 1. Godkänner David standarden som utgångspunkt?
 2. Vem poängsätter blint utöver David?
 3. Mått i avsnitt 8: godkända eller ändrade?
 4. Hanteringen av da/fi (översätta SEO och beskrivning samtidigt, eller utesluta)?
 5. Om märken: vem verifierar märkestexter, eller ska avsnittet utelämnas tills vidare?
+
+
+## 10. Beslut och erfarenheter 2026-10-31 (tillägg)
+Beslut av David: standarden gäller som utgångspunkt; 30 facit-produkter godkända och skrivna; fitness först, därefter övriga Velomarket (steg 1), Gymstick (steg 2), kontroll av Gorilla-texter (steg 3); experiment 1 (432 produkter) och pilotens 20 ändras inte i vågorna.
+- **Hellre för lite än för mycket.** Saknas uppgift eller motsäger källan sig: utelämna uppgiften, lägg frågan under "att bekräfta". Tunn källa (bara titel): kort intro, ingen metabeskrivning, ingen påhittad text.
+- **Hälsoord i produktnamn.** Massagerulle, massagebollar och massage roller får stå som produktnamn utan effektpåståenden (kontrollskriptet undantar dem). Vibrationsplattor, massagepistoler och akupressurmattor skrivs inte i vågor.
+- **Säkerhetsprodukter tas för hand med Davids ja per produkt:** hjälmar, lås, barnprodukter, bänkar/stativ/Smithmaskiner/hantelställ med last, elcyklar, **och allt med batteri, motor eller elektronisk broms** (löpband, crosstrainer, spinningcykel, motionscykel med elektronik, vågor, pulsmätare). Granskarna fann att utkastskrivarna släppte igenom dessa.
+- **En agent får aldrig byta produktens namn eller typ för att komma förbi en kontroll.** Produkten lyfts till handläggning.
+- **Kundtext får inte innehålla arbetstermer** ("enligt källan", "enligt titeln"). Tillverkarpåstående skrivs "enligt tillverkaren". Säkerhetslöften (till exempel "anti-burst") och belastningsuppgifter tas bort om källan inte är entydig.
+- **Varianter.** Har produkten flera varianter med oförklarade namn eller olika pris får titel, SEO och specifikation inte låsa vikt, färg eller antal. Frågan går till "att bekräfta".
+- **Standardblocket** anger inte fraktavgift i kronor (kan skilja per produkt). Beställningsvaror får meningen om längre leveranstid.
+- **SEO-titel** som är identisk med produkttiteln lagras tom av Shopify (avsett beteende). SEO-titel skrivs högst 43 tecken utan varumärkessuffix; om temat lägger till suffix är fortfarande inte verifierat.
+- **Process i vågor (beslutad):** utkast högst 15 produkter per agent; oberoende granskare (annan agent) hämtar källan på nytt och dömer OK/RÄTTA/AVVISA; rättare rättar; David poängsätter ett stickprov (20 i första vågen); skrivning i batchar om högst 25 med kanarie (3) först, återläsning, original sparat och ny kontroll dagen efter nattsynken. Originalet sparas som titel och SEO exakt samt text som ren text.
+- **Leverantörssynken (Velomarket3)** ändrar status (aktiv/arkiverad/utkast) och kanaler men inte titlar enligt produkthändelserna. Titlar på 12 pilotprodukter hade ändå gått tillbaka efter 2026-10-25 (orsak ej fastställd). Kontrollfråga: `sql/analys/bos/13_kontroll_skrivna_titlar.sql`.
+- **Verktyg och filer:** `rapporter/facit-bos-2026-10-31/` (`bygg_utkast.py` bygger kontrollfiler, `bygg_skriv.py` bygger skrivdata, `handhavd_ids.txt` listar produkter som tas för hand, moduler `vag1_*.py` och `fix_*.py` är utkast, senaste modul vinner vid dubbletter).
