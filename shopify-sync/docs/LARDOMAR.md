@@ -68,3 +68,10 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 - Vad hände: pilotens 20 produkter skrevs om med `seo:{title:...}` utan description. Shopify nollställde då `seo.description` på alla 20. Upptäcktes vid återläsning och återställdes ur `bestofsports-pilot-20-produkter-2026-10-25.csv` (två metabeskrivningar hade ändrats 2026-10-30).
 - Regel: skicka alltid `seo:{title, description}` tillsammans vid productUpdate, och läs tillbaka båda. Läs tillbaka ALLA fält som berörs, inte bara det som ändrades. Fråga: stämmer `seo.description` fortfarande?
 - Regel: en skrivagent som skriver 20+ produkter ska läsa tillbaka beskrivningen för alla, inte bara för kanarieprodukterna (agenten skrev "when" i stället för "när" i en text).
+
+## 2026-11-01: oberoende kontroll hittar språkfel som skribent och granskare missar
+- Vad hände: i våg 1 (86 produkter) hittade de oberoende kontrollanterna språkfel i 26 produkter som upphovsagenterna och första granskningen släppt igenom. Två berodde på mitt eget formateringsprogram (`tillamp` gav "500 Ml" och "14 Oz" eftersom enheterna saknades i listan).
+- Regel: lägg till alla enheter som förekommer i ENHETER i `format_regler.py` innan stor bokstav-regeln körs, och stickprovsläs titlarna efter körning.
+- Regel: lita inte på en skrivagents egen kontroll. Låt en separat kontrollant läsa texten som språkgranskare (stavning, verb i meningar, ordval), inte bara jämföra mot filen.
+- Regel: agenter jämför MCP-svar för hand (utdata kan inte diffas i bash). Beräkna aldrig "identiskt" utan att alla fält är genomlästa; redovisa vad som kontrollerats maskinellt och vad för hand.
+- Regel: när skriv-JSON rättas direkt blir källskripten inaktuella; ange i loggen att JSON är sanningen.
