@@ -2660,7 +2660,7 @@ Vanliga frågor:
 ### 814. Roddmaskin TUNTURI Signature R90W by Fluid + Tunturi-app
 Produkt-id: `10470934544650`
 
-**Titel:** Roddmaskin Tunturi Signature R90W By Fluid, Vattenmotstånd  (58 tecken)
+**Titel:** Roddmaskin Tunturi Signature R90W by Fluid, Vattenmotstånd  (58 tecken)
 **SEO-titel:** Roddmaskin Tunturi Signature R90W  (33 tecken)
 **Metabeskrivning:** Tunturi Signature R90W by Fluid är en roddmaskin med justerbart vattenmotstånd, LCD-skärm och ett träningsprogram. Mått 213 x 52 x 56 cm, upp till 150 kg.  (154 tecken)
 
