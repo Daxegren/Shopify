@@ -1,0 +1,868 @@
+id,nr,titel,status_live,vendor,typ,kategori,skal,lager_2026_10_25,beskr_ord
+10406816186634,1,"TUNTURI Kettlebell 24kg, black",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,142
+10411606081802,2,Stretch rubber TUNTURI Textile blue,ACTIVE,Tunturi,Stretchband,ingar,,1,92
+10411669750026,3,"Sensorisk träningsmatta SPOKEY Rose Eco, beige",ACTIVE,Spokey,Yogamattor,ingar,,3,138
+10411673714954,4,Vibrationsplatta TUNTURI Cardio Fit V20,ACTIVE,Tunturi,Konditionsträning & Fitness,handhavd,HANDHAVD (handhavd_ids.txt): vibrationsplatta; SÄKERHET/HÄLSOORD: vibrationsplatta,5,178
+10411677155594,5,Minibike TUNTURI Minibike Basic,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),8,112
+10411677745418,6,Squat drill TUNTURI WT60 Power Rack,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,4,231
+10411685806346,7,Motionscykel TUNTURI Platinum E20 + Tuntur app,ACTIVE,Tunturi,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,1,69
+10411688132874,8,"Viktplatta TUNTURI Olympic Rubber Plate, 50 mm, 5 kg",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),6,97
+10411701272842,9,Massagepistol Tunturi MG30 Massagepistol Mini,ACTIVE,Tunturi,Massage,sakerhet,SÄKERHET/HÄLSOORD: massagepistol/massage,3,338
+10411720704266,10,Leg protectors TUNTURI Allround Shinguard,ACTIVE,Tunturi,Boxningsutrustning,undantag,UNDANTAG: våg 1 (86),9,278
+10411721261322,11,Träningshandskar TUNTURI Fitness Gloves Pro Gel,DRAFT,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: facit 30,11,274
+10411721392394,12,Träningshandskar TUNTURI Fitness Gloves Fit Sport,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,282
+10411731616010,13,Motionscykel Tunturi CARDIO FIT B40,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,227
+10411741085962,14,Träningsställ Tuntur PT60 Power Tower,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,5,233
+10411753505034,15,"Viktskiva TUNTURI Skiva Svart, 30 mm, 10kg",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),6,94
+10411753668874,16,"Låsskruv TUNTURI Skruvlås, 30mm",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),24,235
+10411771363594,17,"Träningsmatta TUNTURI NBR, Grå",ACTIVE,Tunturi,Yogamattor,undantag,UNDANTAG: våg 1 (86),8,168
+10411839914250,18,Treadmill TOORX Evertift TFK-155 Slim,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,32
+10411848532234,19,Spinningcykel HAMMER Speed Race SR,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: pilot 20; SÄKERHET/HÄLSOORD: batteri/motor/elektronik,3,98
+10411853414666,20,"Viktskivor TUNTURI Plates Black, 30 mm, 0.5kg",ARCHIVED,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),20,104
+10411853512970,21,"TUNTURI Viktlyftarbälte 90cm, svart",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),3,239
+10411858362634,22,"Yogamatta SPOKEY Mandala, lila",ACTIVE,Spokey,Yogamattor,ingar,,1,161
+10411860099338,23,Spinningcykel TUNTURI Platinum S10 + Tunturi app,DRAFT,Tunturi,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,1,67
+10411860361482,24,Yoga set TOORX Yoga Set,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,38
+10411898339594,25,Rodd-ergometer TUNTURI Cardio Fit R25,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,12,71
+10411916722442,26,Spinningcykel HAMMER Speed PRO,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,76
+10411919573258,27,"Träningsmatta HAMMER Floor Protection Mat, S",ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),4,111
+10411923276042,28,"Kettlebell TOORX Absolute Kettlebell, 12 kg",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),10,49
+10411923341578,29,"Lyftstång TOORX Olympic Barbell 180cm, 320 kg, 50 mm",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,74
+10411924128010,30,"Viktplatta TOORX Bumper Plate Crumb, 50 mm, 10 kg",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),6,75
+10411925242122,31,"Träningsmatta TOORX Studio Mat 100, svart",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),3,23
+10411928649994,32,TOORX Push-Up Bars,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),3,21
+10411929207050,33,Träningsstation TOORX MSX-50,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,130
+10411932647690,34,"Våg TUNTURI SC30 Smart Scale med app, vit",ACTIVE,Tunturi,Konditionsträning & Fitness,handhavd,"HANDHAVD (handhavd_ids.txt): avvisad av granskare: Våg Tunturi SC30 med Fitdays-app, vit; SÄKERHET/HÄLSOORD: batteri/motor/elektronik",11,99
+10429961928970,35,Minicykel TUNTURI Cardio Fit M35 Magnetic,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),6,68
+10430247698698,36,Minicykel TOORX Everfit Welly-E,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,79
+10430254809354,37,"TOORX Olympic EVO Kettlebell, blå, 12 kg",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,42
+10430370775306,38,"Träningsboll TUNTURI Gymball 55cm, Anti-Burst, Petrol",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),17,115
+10430372151562,39,"Gymnastikboll TUNTURI Gymball 55cm, Anti-Burst, Mint",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),13,115
+10439135691018,40,"Pilatesring TUNTURI Pilates Ring, lila",ACTIVE,Tunturi,Stretchband,undantag,UNDANTAG: våg 1 (86),11,134
+10461406232842,41,"Gymnastikboll ZIPRO Anti-Burst Gymnastics Ball 65cm, svart",ACTIVE,Zipro,Träningsbollar,ingar,,2,99
+10461917741322,42,"Gymnastikmatta TUNTURI Fitnessmat Pro, 140cm, blå",ACTIVE,Tunturi,Yogamattor,undantag,UNDANTAG: våg 1 (86),36,203
+10461958144266,43,Tunturi Battle Rope Ground Hook,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,168
+10461961224458,44,Lyftstångset TUNTURI Aerobic Pump Set 20kg,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,94
+10461966860554,45,Roddmaskin TUNTURI Star Fit R100,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,5,312
+10462169235722,46,"Hand- och fotledsvikter SPOKEY Home Jungle 2x1 kg, blå-fläckig",ACTIVE,Spokey,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),4,23
+10462175265034,47,"Träningsboll HMS YB03N Gym Ball 65 cm, grå",ACTIVE,HMS,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,62
+10462176936202,48,"4in1 (rullskridskor) NILS EXTREME NH18192, rosa-mint, L",ACTIVE,Nils Extreme,Utomhusträning,ingar,,1,118
+10462190240010,49,"Massage roller TUNTURI Yoga Foam Grid Roller 33cm, black",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),17,54
+10462191124746,50,Handskar TUNTURI Fitness Gloves - Fit Control,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,299
+10462191190282,51,"Hantel TUNTURI Hantelset 15kg, skruv",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),26,354
+10462191223050,52,Dumbbell TUNTURI Vinyl Dumbbellset 15kg,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),12,89
+10462201446666,53,Squat Rack Tunturi WT40,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,3,257
+10462201839882,54,"Viktplatta TUNTURI Training Bumper Plate, 50 mm, 15 kg",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),4,87
+10462224777482,55,"Hantlar TUNTURI Neoprene Dumbbells 2kg, röd",ARCHIVED,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),11,140
+10462229463306,56,Exercise bike TUNTURI Competence F20,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: elcykel; SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,144
+10462357192970,57,Hantelstång HAMMER Pull-up Bar Multigrip,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,80
+10462755029258,58,Elliptical trainer CHRISTOPEIT ECO 2000,ACTIVE,Christopeit,Crosstrainers,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,249
+10462758469898,59,Boxing doll Tunturi Slam Man,ACTIVE,Tunturi,Boxing equipment,undantag,UNDANTAG: våg 1 (86),3,0
+10462764040458,60,"Massagebollar Tunturi Massage Ball Set, 4 delar",ARCHIVED,Tunturi,Massage,ingar_ej_aktiv,,3,195
+10462768038154,61,"Motionscykel CHRISTOPEIT AL 1, svart",ARCHIVED,Christopeit,Konditionsträning & Fitness,undantag,UNDANTAG: pilot 20; SÄKERHET/HÄLSOORD: batteri/motor/elektronik,4,290
+10462769840394,62,Träningshandskar TREC #06 / GLOVES YELLOW (Power Max) XL,ACTIVE,Trec,Konditionsträning & Fitness,ingar,,2,58
+10462769905930,63,Träningshandskar TREC #02 / GLOVES GEL SHOCK RED XL,ACTIVE,Trec,Konditionsträning & Fitness,ingar,,2,62
+10462774198538,64,"Viktskivor TUNTURI Olympic Rubber Plates, 50 mm, 1.25 kg",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),4,92
+10462774231306,65,"Hantlar TUNTURI Neoprene Dumbbells 3kg, lila",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),10,149
+10462774690058,66,Trampoline TUNTURI Funhop Trampoline 125cm,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),6,55
+10462775017738,67,"Gym talk TREC CHALK - LIQUID, 100ml",ACTIVE,Trec,Konditionsträning & Fitness,ingar,,5,61
+10462775116042,68,Gym talk TREC CHALK - BLOCK 57g,ACTIVE,Trec,Konditionsträning & Fitness,ingar,,6,52
+10462775771402,69,"Yogamatta Tunturi Yogamat 8mm, Rose Gold",ACTIVE,Tunturi,Yogamattor,undantag,UNDANTAG: facit 30,9,460
+10462776361226,70,Balansplatta TUNTURI Air Stepper Pad Turkos,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: barnprodukt; SÄKERHET/HÄLSOORD: batteri/motor/elektronik,15,43
+10462778097930,71,Magmuskeltränare TUNTURI Ab Trainer,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: facit 30,8,0
+10462778392842,72,"TUNTURI SC30 Smartvåg med app, svart",ACTIVE,Tunturi,Konditionsträning & Fitness,handhavd,"HANDHAVD (handhavd_ids.txt): avvisad av granskare: Smartvåg Tunturi SC30 med app, svart",9,96
+10462778753290,73,"Hantlar TUNTURI Vinyl Dumbbells 1.0kg, lila",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),13,20
+10462778818826,74,"Yogamatta Tunturi Yogamat 8mm, Grå",ACTIVE,Tunturi,Yogamattor,undantag,UNDANTAG: våg 1 (86),2,458
+10462778917130,75,"Hantlar TUNTURI Vinylhantlar 2 x 0,5 kg, rosa",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),34,107
+10462779867402,76,Treadmill BH FITNESS i.F2W,ACTIVE,BH Fitness,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,55
+10462781505802,77,"Yogamatta TOORX Yoga Mat, grön-grå",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),14,17
+10462781571338,78,"Yogamatta TOORX Yoga Mat, blågrå",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),5,20
+10462781669642,79,"Yogamatta TOORX Yoga Mat, vinröd-grå",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),9,18
+10462781702410,80,"TOORX Interlocking Mat (122 x 122 x 1,2 cm), 4-delars, grå",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),9,35
+10462782423306,81,Styrketräningsset TOORX 3-in-1 Set,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,39
+10462782554378,82,"Justerbar hantel TOORX Justerbar Hantel 1,5-18 kg",DRAFT,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),4,35
+10462783897866,83,"Träningshandskar TOORX Professional Gloves, svart-grå",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),3,31
+10462784880906,84,"Gymnastikboll TUNTURI Gymball 65cm, Anti-Burst, Blå",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),14,119
+10462785405194,85,"Gymnastikboll TUNTURI Gymball 75cm, Anti-Burst, Petrol",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),4,120
+10462786748682,86,Rowing ergometer HAMMER RowFlow 10.0,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,5,72
+10462794547466,87,Handledvikter TUNTURI Handledvikter 1kg,ACTIVE,Tunturi,"Extra vikter, tillbehör",undantag,UNDANTAG: våg 1 (86),10,268
+10462794776842,88,"Hantlar TUNTURI Vinyl Dumbbells 3.0kg, red",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),15,20
+10462836490506,89,TUNTURI Rapid Justerbart Kettlebellhandtag 3.5kg,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),3,60
+10462845829386,90,"Hantel TOORX Neoprenhantlar, grön, 2 kg",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),16,8
+10462846517514,91,Aerobic step bänk TOORX Training Step,ACTIVE,Toorx,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,5,21
+10462846943498,92,Adjustable dumbbell stand HAMMER Stronglock,ACTIVE,Hammer,Konditionsträning & Fitness,handhavd,HANDHAVD (handhavd_ids.txt): avvisad av granskare: Ställ för justerbar hantel Hammer Stronglock,3,4
+10462847467786,93,"HAMMER Puzzlemat Professional träningsmatta, 156 x 104 x 2,5 cm, 6 delar",ARCHIVED,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),7,93
+10462848188682,94,Hantlar TOORX Gjutjärnshantel 20 kg,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),7,58
+10462848385290,95,"Gymnastikgummi TOORX Elastic med handtag, stark, röd",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),5,11
+10462850449674,96,"Akupunkturmatta och kudde TUNTURI PRO Akupressurmatta och kudde, beige",ACTIVE,Tunturi,Konditionsträning & Fitness,handhavd,"HANDHAVD (handhavd_ids.txt): hälsoord i originaltiteln: Akupunkturmatta och kudde TUNTURI PRO Akupressurmatta och kudde, beige; SÄKERHET/HÄLSOORD: akupressur",3,142
+10462852284682,97,"Viktplatta TUNTURI Platinum Bumper Plate, svart, 50mm, 5 kg",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),20,88
+10462856806666,98,"Gymnastikboll TUNTURI Gymball 90cm, Anti-Burst, Blå",DRAFT,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),14,119
+10468709761290,99,Power bench Tunturi SM60 Half Smith,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,5,281
+10468712939786,100,Träningsbänk Tunturi UB90 Utility Bench Pro,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,232
+10468713824522,101,Roddmaskin FLUID Viking 3 V + SPH,ACTIVE,Tunturi,Konditionsträning & Fitness,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,341
+10468716740874,102,Roddmaskin TUNTURI Fluid Rower Evo E550 Side Tank Silver Bronze,ACTIVE,Tunturi,Professionell utrustning,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,56
+10468718051594,103,Power station HAMMER Multi-gym Ferrum TX3,ARCHIVED,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,71
+10468719493386,104,"TUNTURI Akupressurmadrass och kudde, ljusblå",ACTIVE,Tunturi,Konditionsträning & Fitness,handhavd,"HANDHAVD (handhavd_ids.txt): hälsoord i originaltiteln: TUNTURI Akupressurmadrass och kudde, ljusblå; SÄKERHET/HÄLSOORD: akupressur",5,151
+10468720378122,105,Boxningshandskar TOORX Leopard Boxing Gloves 12oz,ACTIVE,Toorx,Konditionsträning & Fitness,ingar,,1,13
+10468720476426,106,Boxningshandskar TOORX Panther Boxing Gloves 12oz,ACTIVE,Toorx,Konditionsträning & Fitness,ingar,,1,12
+10468721983754,107,Training stand ELITE Roller Arion,ACTIVE,Elite,Konditionsträning & Fitness,ingar,,0,133
+10468724834570,108,Träningsbänk TUNTURI Centuri UB100 Utility Bench,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,2,81
+10468731683082,109,"Stretch rubber Tunturi Power Band, Heavy, Blue",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),5,301
+10468734206218,110,"BH FITNESS Golvskyddsmatta, 120 x 60 x 0,5 cm",ACTIVE,BH Fitness,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),11,25
+10468752720138,111,"Hantlar TUNTURI Platinum Hex Rubber Dumbbell, 2x 2kg",ACTIVE,Tunturi,Professionell utrustning,undantag,UNDANTAG: våg 1 (86); SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,5,69
+10468768284938,112,Spinning Bike BH FITNESS Duke,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,84
+10468770087178,113,Treadmill BH FITNESS RS2000,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,110
+10468771004682,114,Hantel HAMMER Compact Dumbbell PU 5 kg,ACTIVE,Hammer,Professionell utrustning,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,129
+10468771463434,115,Hantel HAMMER Compact Dumbbell PU 35 kg,ACTIVE,Hammer,Professionell utrustning,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,129
+10470888243466,116,"Leverlås TUNTURI ABS Collar, 30mm",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,217
+10470888276234,117,"Lyftstång TUNTURI Aerobic Pump Bar, 30 mm, 130 cm",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),8,100
+10470888898826,118,"Ball needles TUNTURI Inflation Needles (one way valve), 2 i ett paket",ACTIVE,Tunturi,Tillbehör,undantag,UNDANTAG: våg 1 (86),19,219
+10470898860298,119,"Gymnastikboll ZIPRO Peanut 45cm, grön",ACTIVE,Zipro,Träningsbollar,ingar,,1,209
+10470900367626,120,Powerbänk TUNTURI HG10 Home Gym,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,242
+10470904889610,121,Löpband TUNTURI Signature T80 + Tunturi app,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,59
+10470907805962,122,"Massage roller SPOKEY Tausa, kork",ACTIVE,Spokey,Konditionsträning & Fitness,ingar,,3,60
+10470912950538,123,"Viktplatta TUNTURI Rubber Plate, 30 mm, 10 kg",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),6,74
+10470913179914,124,Spinningcykel TUNTURI Platinum S20 + Tuntur app,ACTIVE,Tunturi,Professionell utrustning,handhavd,"HANDHAVD (handhavd_ids.txt): avvisad av granskare: Spinningcykel Tunturi Platinum S20, 26 program, 32 nivåer; SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin",3,31
+10470923010314,125,Tuntur treadmill handrail extension,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,53
+10470927433994,126,"TUNTURI Tubing Set med grepp, lätt, gul",ACTIVE,Tunturi,Stretchband,undantag,UNDANTAG: våg 1 (86),27,144
+10470932807946,127,Weight HAMMER Body Screen TX,ACTIVE,Hammer,Konditionsträning & Fitness,handhavd,"HANDHAVD (handhavd_ids.txt): avvisad av granskare: Kroppsskanner Hammer Body Screen TX, 4 handsensorer",2,75
+10470934544650,128,Roddmaskin TUNTURI Signature R90W by Fluid + Tunturi-app,ARCHIVED,Tunturi,Professionell utrustning,undantag,UNDANTAG: våg 1 (86); SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,2,52
+10470934741258,129,Tabletthållare för FLUID roddmaskiner,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,1,80
+10470935068938,130,Mini cykel TUNTURI Cardio Fit M40 Mini Bike,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,139
+10470935363850,131,Mini bike TUNTURI Cardio Fit M45 Mini Bike,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),5,157
+10470935593226,132,Treadmill BH FITNESS Pioneer Senior,ACTIVE,BH Fitness,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,2,71
+10470936215818,133,Armband med LED-ljus TUNTURI LED Armlight Grön,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,15,110
+10470942114058,134,"Viktplatta TUNTURI Aerobic Plates 10.0kg, Enkel, grön",DRAFT,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),2,105
+10470943424778,135,Stoppad boll TUNTURI Slam Ball 20kg,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,77
+10470945816842,136,Trampoline HAMMER JumpStep,ACTIVE,Hammer,Utomhusträning,ingar,,1,139
+10470947324170,137,Stretch band Tunturi Power Band Extra Light Orange,ACTIVE,Tunturi,Stretchband,undantag,UNDANTAG: våg 1 (86),59,145
+10470957646090,138,Treadmill TOORX Mirage C60,DRAFT,Toorx,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,0,132
+10470968918282,139,"Handledd- och ankelvikter TOORX Handleds-/Ankelvikter 2 x 2,0 kg",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),8,36
+10470969901322,140,"Hopprep TOORX PVC Jump Rope, svart-röd",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),11,31
+10470970589450,141,Mini bike TUNTURI Mini Bike Pro Chair Bike,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),9,66
+10470971408650,142,Rodd-ergometer HAMMER Pro Force II,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,7,141
+10470997197066,143,Weight vest TUNTURI 15 kg,ACTIVE,Tunturi,"Extra vikter, tillbehör",undantag,UNDANTAG: våg 1 (86),6,171
+10470997721354,144,"Gymnastikrulle SPOKEY Twin, svart-grön",ACTIVE,Spokey,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,106
+10470998147338,145,"Träningsboll TUNTURI Gymball 75cm Anti Burst, lila",ACTIVE,Tunturi,Träningsbollar,undantag,UNDANTAG: våg 1 (86),16,232
+10471002931466,146,Motionscykel TUNTURI Signature E60R Liggande motionscykel + Tunturi app,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,3,89
+10471009943818,147,Löpband TUNTURI Signature T60 + Tunturi app,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,3,50
+10471019020554,148,"TUNTURI Akupressurmadrass och kudde, svart",ACTIVE,Tunturi,Konditionsträning & Fitness,handhavd,"HANDHAVD (handhavd_ids.txt): hälsoord i originaltiteln: TUNTURI Akupressurmadrass och kudde, svart; SÄKERHET/HÄLSOORD: akupressur",5,183
+10471026819338,149,Stretching rubber set TUNTURI Resistance Trainer,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),13,217
+10471027212554,150,"Ben- och armvikter TUNTURI Arm/Leg Weights 0,5 kg",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),11,195
+10471027507466,151,Belt TUNTURI Dipping Belt,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),4,197
+10471040188682,152,Exercise bike HAMMER Cardio T3,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: elcykel; SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,99
+10471040975114,153,Motionscykel TUNTURI Fitcycle 40i,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: elcykel; SÄKERHET/HÄLSOORD: batteri/motor/elektronik,5,91
+10471042646282,154,Lyftstångsset TUNTURI PRO Aerobic Pump Set 20 kg,ACTIVE,Tunturi,Professionell utrustning,undantag,UNDANTAG: våg 1 (86); SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,3,92
+10471139213578,155,"Justerbar hantel TUNTURI MX100 skivstång 12,8 - 45,5 kg",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),3,152
+10471157629194,156,TOORX BRX R100 Ergo motionscykel med ryggstöd,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,81
+10471164084490,157,"TOORX Bumper Plate Challenge, blue, 50 mm, 20 kg",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,51
+10471167852810,158,"TOORX Vinylhantel, mörkröd, 3 kg",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),3,8
+10471174242570,159,Tunturi MG40 Massage Gun,ACTIVE,Tunturi,Konditionsträning & Fitness,handhavd,HANDHAVD (handhavd_ids.txt): massageprodukt; SÄKERHET/HÄLSOORD: massagepistol/massage,5,99
+10471183712522,160,Rodd-ergometer TUNTURI by Fluid Platinum R30W,DRAFT,Tunturi,Professionell utrustning,granska_ej_aktiv,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,114
+10471183876362,161,TUNTURI Platinum - Lat Pulldown - Selectorized - V-Series,ACTIVE,Tunturi,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,90
+10471192166666,162,Treadmill BH FITNESS Nyman Plus,ACTIVE,BH Fitness,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,4,106
+10471229620490,163,"Barnrullskridskor FILA X 2.0 G, Lavendel",DRAFT,Fila,Utomhusträning,sakerhet,SÄKERHET/HÄLSOORD: barnprodukt,6,139
+10471232602378,164,"Rullskridskor FILA Houdini Pro, Svart/Vit",ACTIVE,Fila,Utomhusträning,ingar,,7,98
+10471266713866,165,Elliptisk träningscykel CHRISTOPEIT CT 5,ACTIVE,Christopeit,Crosstrainers,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,84
+10471307411722,166,Treadmill BH FITNESS RS2000 Multimedia,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,142
+10471310262538,167,Multi Gym HAMMER Autark 9.0,ACTIVE,Hammer,Konditionsträning & Fitness,ingar,,0,100
+10471311180042,168,Multi Gym HAMMER Autark Smith Machine,ACTIVE,Hammer,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,0,112
+10471314489610,169,"Hantel HAMMER Compact Dumbbell PU 2,5 kg",ACTIVE,Hammer,Professionell utrustning,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,129
+10471317602570,170,"Massagepistol-tillbehör TUNTURI Head for Massage Gun, Heat & Cool",ACTIVE,Tunturi,Konditionsträning & Fitness,handhavd,HANDHAVD (handhavd_ids.txt): massageprodukt; SÄKERHET/HÄLSOORD: massagepistol/massage,5,79
+10471334084874,171,Exercise bike HAMMER Spheris 4.0 NorsK,ACTIVE,Hammer,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: elcykel; SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,100
+10471348535562,172,Jõujaam HAMMER Autark 3.0,ACTIVE,Hammer,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,81
+10471350534410,173,Gymnastikset TUNTURI Resistance & Core Sliders Set,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),7,80
+10471350665482,174,"Hantlar TUNTURI Platinum Hex Rubber Dumbbell, 6 kg",ACTIVE,Tunturi,Professionell utrustning,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,1,56
+10472203321610,175,Träningsset Tunturi Pro Suspension Trainer Set,ACTIVE,Tunturi,Tillbehör,handhavd,"HANDHAVD (handhavd_ids.txt): avvisad av granskare: Hängtränare Tunturi Pro Suspension Trainer Set, 4,5 kg; SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last",10,264
+10472203518218,176,Tunturi Battle Rope 9 m,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,240
+10472208236810,177,Träningsboll Tunturi Slam Ball 10 kg,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,130
+10472208564490,178,"TUNTURI Olympic Lock Jaw Collars, 50mm",ACTIVE,Tunturi,Hantlar & Viktskivor,ingar,,5,168
+10472210956554,179,"TUNTURI Hantelstång 36 cm, Skruv",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),14,23
+10472211251466,180,"Viktplattor TUNTURI Rubber Plates, 30 mm, 1.25 kg",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),4,86
+10472211448074,181,"Viktplatta TUNTURI Rubber Plate, 30 mm, 5 kg",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),15,65
+10472211513610,182,"Lyftstång TUNTURI Hantelstång, 30 mm, 165cm, nedre huvud",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),3,101
+10472211644682,183,"TUNTURI Curlbar, 30 mm, 120 cm, Skruv",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,104
+10472212332810,184,"Hantel TUNTURI Hantelset 20kg, skruv",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),11,282
+10472212463882,185,"Lyftstångsfjäderhalsband TUNTURI Olympic Spring Collars, 50mm",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,244
+10472213250314,186,"Viktväska TUNTURI Strengthbag 5kg, orange",ACTIVE,Tunturi,Cykelväskor,undantag,UNDANTAG: våg 1 (86),5,151
+10472213315850,187,Bälte TUNTURI EVA Dipping Belt med kedja,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),3,230
+10472213348618,188,"Dumbbells TUNTURI Neoprene Dumbbells 0.5kg, pink",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),36,154
+10472213971210,189,Aerobic stepper TUNTURI Aerobic Power Step,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,139
+10472214724874,190,Hula hoop TUNTURI Hula Hoop 1.5kg,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),8,132
+10472214921482,191,"Träningsboll TUNTURI Gymball 90cm, röd",ACTIVE,Tunturi,Träningsbollar,undantag,UNDANTAG: våg 1 (86),14,200
+10472215347466,192,Magträningshjul TUNTURI Double Exercise Wheel,ACTIVE,Tunturi,Magträningshjul,undantag,UNDANTAG: våg 1 (86); SÄKERHET/HÄLSOORD: barnprodukt,11,140
+10472215544074,193,Massage roller TUNTURI Yoga Massage Roller 90 cm,ACTIVE,Tunturi,Massage,undantag,UNDANTAG: våg 1 (86),8,104
+10472215642378,194,"Yogamatta TUNTURI TPE Yogamat 4mm, turkos",ACTIVE,Tunturi,Yogamattor,undantag,UNDANTAG: våg 1 (86),8,150
+10472215937290,195,"Yogablock TUNTURI Yoga Block, turkos",ACTIVE,Tunturi,Yogamattor,undantag,UNDANTAG: våg 1 (86),38,132
+10472216363274,196,Massagebollar Tunturi Korkmassagebollset,ACTIVE,Tunturi,Massage,undantag,UNDANTAG: våg 1 (86),9,224
+10472216985866,197,"TUNTURI Push Up Bars, svart-grå",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),5,251
+10472218263818,198,Armband TUNTURI LED Armlight Röd,ACTIVE,Tunturi,Tillbehör,handhavd,"HANDHAVD (handhavd_ids.txt): avvisad av granskare: Armband Tunturi LED Armlight, röd; SÄKERHET/HÄLSOORD: batteri/motor/elektronik",9,113
+10472218984714,199,Pulsband TUNTURI Digital HR Armband,ACTIVE,Tunturi,Crosstrainers,handhavd,"HANDHAVD (handhavd_ids.txt): avvisad av granskare: Pulsmätare Tunturi Digital HR Armband, Bluetooth och ANT+",7,280
+10472220754186,200,Rodd-ergometer TUNTURI FitRow 70 WTR,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,5,164
+10472222523658,201,Träningsbänk Tunturi WB20 Basic Weight Bench,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,2,165
+10472223211786,202,Multifunktionell träningsmaskin Tunturi WT80 Leverage Gym,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),6,313
+10472224325898,203,Multifunktionell träningsmaskin Tunturi WT85 Leverage Pulley Gym,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),7,310
+10472225046794,204,Mini-cykel TUNTURI Cardio Fit D10 Under Desk bike,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),5,57
+10472225538314,205,Squat drill TUNTURI RC20 Pro Power Rack - Base Rack,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,2,171
+10472229044490,206,Exercise mat CHRISTOPEIT M,ACTIVE,Christopeit,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),10,35
+10472238481674,207,Massage roller SPOKEY 33x14cm black/green,ACTIVE,Spokey,Massage,ingar,,3,179
+10472242970890,208,"Massageboll SPOKEY Double Oak, kork",ACTIVE,Spokey,Massage,ingar,,5,139
+10472243069194,209,"Gymnastikmatta SPOKEY Home Jungle, flerfärgad",ACTIVE,Spokey,Yogamattor,ingar,,2,192
+10472243298570,210,Gymnastikgummiband/boxningssäcksfäste ZIPRO Hållare,ACTIVE,Zipro,Boxningsutrustning,ingar,,1,111
+10472245559562,211,Treadmill TUNTURI Cardio Fit T40,ACTIVE,Tunturi,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,2,48
+10472245625098,212,Löpband TUNTURI Signature T40 + Tunturi app,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,8,71
+10472245657866,213,"Hantel ZIPRO HEX 2.5kg, svart",ACTIVE,Zipro,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,81
+10472245723402,214,Treadmill TUNTURI Cardio Fit T35,ACTIVE,Tunturi,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,44
+10472245756170,215,"Yoga strap ZIPRO Yoga Strap, black",ACTIVE,Zipro,Yogamattor,ingar,,1,70
+10472246935818,216,Löpband TUNTURI Signature T90 + Tunturi app,ACTIVE,Tunturi,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,2,80
+10472248901898,217,"Viktskivor TUNTURI Rubber Plates, 30 mm, 0.5kg",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),8,72
+10472248967434,218,Extra block för aerobic stepper TUNTURI Aerobic Step Foot Block,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,73
+10472249065738,219,"Justerbar hantel TUNTURI Selector Dumbbell 12,5 kg",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),7,80
+10472249196810,220,Motionscykel TUNTURI Cardio Fit B30,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,4,71
+10472249458954,221,Mini bike TUNTURI Cardio Fit M30 Mini Bike,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),4,65
+10472249884938,222,Balansplatta TUNTURI Pro Balance Trainer,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: barnprodukt,1,168
+10472250900746,223,Treadmill TUNTURI FitRun 70i,ACTIVE,Tunturi,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,0,96
+10472251064586,224,"Viktväska SPOKEY Sandi 2kg, svart",ACTIVE,Spokey,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,48
+10472252277002,225,Träningsbänk Tunturi UB20 Utility Bench,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,3,254
+10472252637450,226,"Yogamatta Tunturi Yogamat 8mm, Army Green",ACTIVE,Tunturi,Yogamattor,undantag,UNDANTAG: våg 1 (86),4,457
+10472253063434,227,Powerbänk Tunturi SM90 Full Smith,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,844
+10472253686026,228,Minicykel med motor TUNTURI Cardio Fit M50 Minibike Motorized,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,2,105
+10472253849866,229,Spinningcykel TUNTURI Cardio Fit S20 Sprinter Bike,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,77
+10472254210314,230,Träningsbänk Tunturi WB60 Olympic Width Weight Bench,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,288
+10472254603530,231,Boxningshandskar Tunturi Allround Boxing Gloves 16oz,ACTIVE,Tunturi,Boxningsutrustning,ingar,,1,68
+10472255127818,232,Motionscykel TUNTURI Cardio Fit E30 Ergometer,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,4,65
+10472255258890,233,Lyftbänk TUNTURI UB40 Utility Bench,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,4,87
+10472255291658,234,"Viktplatta TUNTURI Olympic Rubber Plate, 50 mm, 10 kg",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,96
+10472255389962,235,Motionscykel TUNTURI Signature E60 + Tunturi app,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: elcykel; SÄKERHET/HÄLSOORD: batteri/motor/elektronik,4,59
+10472256897290,236,Träningsbänk TUNTURI CT40 Core trainer,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,8,247
+10472258076938,237,Motionscykel TUNTURI FitCycle 50i + Tunturi app,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,12,66
+10472258339082,238,Träningsbänk Tunturi GH10 Glute Ham Developer,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,3,42
+10472258535690,239,TUNTURI Sauna Smoke,ACTIVE,Tunturi,Tillbehör,undantag,UNDANTAG: våg 1 (86),21,277
+10472258830602,240,Motionscykel TUNTURI Star Fit B100 Bike,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,5,85
+10472258896138,241,Motionscykel TUNTURI Star Fit X100 X-Bike,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,7,67
+10472258928906,242,Träningsbänk TUNTURI UB60 Utility Bench,DRAFT,Tunturi,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,60
+10472259059978,243,Roddmaskin TUNTURI Cardio Fit R30,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,6,125
+10472259092746,244,"Massage roller TUNTURI Yoga Foam Grid Roller 33cm, orange",ACTIVE,Tunturi,Massage,undantag,UNDANTAG: våg 1 (86),4,151
+10472259125514,245,"Viktplatta TUNTURI Olympic Rubber Plate, 50 mm, 15 kg",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,74
+10472259158282,246,"Viktplatta TUNTURI Olympic Rubber Plate, 50 mm, 25 kg",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,48
+10472259191050,247,Massagepistol Tunturi MG50 Massagepistol,ACTIVE,Tunturi,Massage,handhavd,HANDHAVD (handhavd_ids.txt): massageprodukt; SÄKERHET/HÄLSOORD: massagepistol/massage,5,276
+10472259256586,248,"Lyftstång TUNTURI Barbell Bar, 30 mm, 165cm, skruv",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,115
+10472259420426,249,Motionscykel TUNTURI Cardio Fit B35,DRAFT,Tunturi,Konditionsträning & Fitness,handhavd,"HANDHAVD (handhavd_ids.txt): avvisad av granskare: Motionscykel Tunturi Cardio Fit B35, 4 program, manuell brom; SÄKERHET/HÄLSOORD: batteri/motor/elektronik",14,78
+10472259584266,250,"Lyftstång TUNTURI Olympic Curlbar Chrome, 50 mm, 120cm, SpringCol",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,88
+10472259682570,251,"Lyftstång TUNTURI Olympic Bar, 50 mm, 220cm, SpringCol",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),3,103
+10472259813642,252,Tunturi Fristående Boxningssäck,ACTIVE,Tunturi,Boxningsutrustning,ingar,,2,273
+10472259944714,253,"Viktplatta TUNTURI Plate Black, 30 mm, 20 kg",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,93
+10472259977482,254,Dumbbell TUNTURI Vinyl Dumbbellset 28kg,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),7,194
+10472260043018,255,"Viktplatta TUNTURI Rubber Plate, 30 mm, 20 kg",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),4,77
+10472260075786,256,TUNTURI Vinyl Hantel-/Skivstångsset 50kg,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),5,173
+10472260141322,257,Hantelställ Ben Tunturi Pro Dumbbell Rack Stand,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,158
+10472260174090,258,Träningsbänk Tunturi UB80 Utility Bench,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,2,45
+10472260665610,259,TUNTURI Weight Vest Pro 20kg,ACTIVE,Tunturi,"Extra vikter, tillbehör",undantag,UNDANTAG: våg 1 (86),3,263
+10472260796682,260,"Tunturi Wall Ball 10 kg, grön",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,190
+10472260862218,261,Fitnessboll Tunturi Slam Ball 15 kg,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),3,129
+10472261058826,262,Motionscykel TUNTURI Star Fit E100 HR I+,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,11,67
+10472261189898,263,Motionscykel TUNTURI FitCycle 70i + Tunturi-app,ACTIVE,Tunturi,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,64
+10472261288202,264,Träningsbox TUNTURI Plyo Box Wood 40/50/60cm,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,273
+10472261320970,265,Träningsbox TUNTURI Plyo Box Soft (EVA) 50/60/75cm,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,274
+10472261419274,266,Exercise bike TUNTURI FitCycle 20,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: elcykel; SÄKERHET/HÄLSOORD: batteri/motor/elektronik,14,64
+10472261452042,267,Exercise bike TUNTURI FitCycle 30,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: elcykel; SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,61
+10472261681418,268,"Rep Tunturi Pro Battle Rope med skydd, 15m",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,122
+10472261714186,269,Treadmill BH FITNESS RS900TFT,ACTIVE,BH Fitness,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,96
+10472261779722,270,Treadmill BH FITNESS i.RC12,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,1,67
+10472262041866,271,Motionscykel BH FITNESS EC01 Exercycle,ACTIVE,BH Fitness,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,92
+10472262271242,272,Rowing ergometer BH FITNESS Kingston,ACTIVE,BH Fitness,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,5,70
+10472262598922,273,Rodd-ergometerben för TUNTURI Fluid Viking och Apollo modeller,ACTIVE,Tunturi,Konditionsträning & Fitness,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,63
+10472262664458,274,"Rowing ergometer legs for TUNTURI Fluid Viking and Apollo models, 20 cm",ACTIVE,Tunturi,Konditionsträning & Fitness,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,84
+10472262729994,275,"Roddmaskin TUNTURI Fluid Rower Apollo Plus, svart",ACTIVE,Tunturi,Konditionsträning & Fitness,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,2,530
+10472263221514,276,Belt Tunturi Arm Blaster,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),3,207
+10472263516426,277,"Golvmatta Tunturi Golvskyddsmatta 200 x 92,5 x 0,4 cm",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),11,39
+10472263549194,278,"Golvmatta TUNTURI Golvskyddsmatta 227 x 90 x 0,4 cm",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),17,18
+10472263876874,279,Hopprep TUNTURI Jumprope med räknare,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),9,69
+10472264532234,280,Treadmill HAMMER FlyRun 2.0,ARCHIVED,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,6,155
+10472264597770,281,Träningsbänk FINNLO by Hammer Ab&Back Trainer,ACTIVE,Finnlo by Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,5,38
+10472264630538,282,Löpband FINNLO by Hammer Endurance TFT,ACTIVE,Finnlo by Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,105
+10472264827146,283,Motionscykel TUNTURI Signature E40 + Tunturi app,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: elcykel; SÄKERHET/HÄLSOORD: batteri/motor/elektronik,2,82
+10472264859914,284,Power station FINNLO by Hammer Multi-gym Autark 600,ACTIVE,Finnlo by Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,2,78
+10472264892682,285,Träningsbänk FINNLO by Hammer Tricon,ACTIVE,Finnlo by Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,7,62
+10472264925450,286,Motionscykel TUNTURI Signature E50 + Tunturi app,ARCHIVED,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: elcykel; SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,76
+10472264958218,287,Rodd-ergometer FINNLO by Hammer Aquon Evolution,ARCHIVED,Finnlo by Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,3,96
+10472265023754,288,"Träningsboll TUNTURI Gymball 65 cm Mint, Anti Burst, grön",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),26,209
+10472265154826,289,"Träningsmatta TUNTURI NBR, Petrol Blue",ACTIVE,Tunturi,Yogamattor,undantag,UNDANTAG: facit 30,11,73
+10472265318666,290,Multifunctional trainer CHRISTOPEIT SP 2000,ACTIVE,Christopeit,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,147
+10472265351434,291,Vibration plate CHRISTOPEIT Vibro 3000,ACTIVE,Christopeit,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: vibrationsplatta,6,155
+10472265384202,292,Treadmill CHRISTOPEIT CS 3000,ARCHIVED,Christopeit,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,3,108
+10472265580810,293,Exercise bike CHRISTOPEIT BT 4,ARCHIVED,Christopeit,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: elcykel; SÄKERHET/HÄLSOORD: batteri/motor/elektronik,3,207
+10472265646346,294,"Motionscykel CHRISTOPEIT AL 2, silver",ARCHIVED,Christopeit,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,2,150
+10472265777418,295,Elliptisk träningscykel TUNTURI Signature C60 + Tunturi app,ACTIVE,Tunturi,Crosstrainers,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,98
+10472265875722,296,Elliptisk träningsmaskin TUNTURI Signature C20-R + Tunturi app,ARCHIVED,Tunturi,Crosstrainers,handhavd,HANDHAVD (handhavd_ids.txt): avvisad av granskare: Elliptisk träningsmaskin Tunturi Signature C20-R; SÄKERHET/HÄLSOORD: batteri/motor/elektronik,4,77
+10472266072330,297,Rowing ergometer FLUID Evolution E350,ARCHIVED,Fluid,Professionell utrustning,granska_ej_aktiv,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,85
+10472266170634,298,Rowing ergometer FLUID Neon Pro XL,ACTIVE,Fluid,Konditionsträning & Fitness,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,288
+10472266465546,299,Rowing ergometer FLUID Apollo XL,ACTIVE,Fluid,Konditionsträning & Fitness,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,58
+10472267645194,300,Träningshandskar TREC #24 / HANDSKAR DAM GRÅ XS,ACTIVE,Trec,Konditionsträning & Fitness,ingar,,1,26
+10472267677962,301,Träningshandskar TREC #02 / HANDSKAR GEL SHOCK SVART XL,ACTIVE,Trec,Konditionsträning & Fitness,ingar,,7,62
+10472268038410,302,"Hula ring Tunturi, justerbar, med vikter",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),22,99
+10472268267786,303,Motionscykel HAMMER CardioPace 5.0 NorsK,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,7,83
+10472268366090,304,Treadmill HAMMER FlyRun 4.0,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,4,125
+10472268497162,305,Rodd-ergometer HAMMER Cobra XTR Plus,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,3,99
+10472268693770,306,"Viktskiva TUNTURI Skiva Svart, 30 mm, 5kg",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),6,90
+10472268824842,307,Boxningshandskar Tunturi Allround Boxing Gloves 12oz,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),12,49
+10472269447434,308,Dumbbell rack TUNTURI Dumbbell Tower,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,3,81
+10472269545738,309,Gåband CHRISTOPEIT WalkingPad 4.1,ACTIVE,Christopeit,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,0,86
+10472270266634,310,Ben- och armvikter TUNTURI Arm/Leg Weights 1.5kg,ACTIVE,Tunturi,"Extra vikter, tillbehör",undantag,UNDANTAG: våg 1 (86),9,251
+10472270561546,311,Boxing gloves HAMMER X-Shock 12oz,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,52
+10472270823690,312,Massage gun Tunturi MG70 Pro,ACTIVE,Tunturi,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: massagepistol/massage,3,84
+10472270954762,313,Gym talk TREC CHALK - LIQUID 250ml,ACTIVE,Trec,Konditionsträning & Fitness,ingar,,10,61
+10472271184138,314,Boxningshandskar Tunturi Allround Boxing Gloves 14oz,ACTIVE,Tunturi,Boxningsutrustning,undantag,UNDANTAG: våg 1 (86),7,67
+10472271511818,315,Tunturi Eva lyftbälte Medium 105 cm,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,296
+10472274133258,316,"Gymnastikmatta TUNTURI Fitnessmat NBR, blå",ACTIVE,Tunturi,Yogamattor,undantag,UNDANTAG: våg 1 (86),3,235
+10472276001034,317,Pedaler TUNTURI Reha Pedaler med remmar,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),3,59
+10472276459786,318,Träningsbänk TUNTURI FB20 Flat Bench,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,198
+10472276590858,319,TUNTURI Vibrating Duo Massage Roller,ACTIVE,Tunturi,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: vibrationsplatta,1,83
+10472276721930,320,"TUNTURI Akupressurmadrass och kudde, roséguld",ACTIVE,Tunturi,Konditionsträning & Fitness,handhavd,"HANDHAVD (handhavd_ids.txt): hälsoord i originaltiteln: TUNTURI Akupressurmadrass och kudde, roséguld; SÄKERHET/HÄLSOORD: akupressur",5,151
+10472276984074,321,"TUNTURI Akupressurmadrass och kudde, mintgrön",ACTIVE,Tunturi,Konditionsträning & Fitness,handhavd,"HANDHAVD (handhavd_ids.txt): hälsoord i originaltiteln: TUNTURI Akupressurmadrass och kudde, mintgrön; SÄKERHET/HÄLSOORD: akupressur",5,152
+10472277082378,322,Justerbar hula hoop med vikt TUNTURI Smart Justerbar Hula Hoop inkl. Display,DRAFT,Tunturi,Konditionsträning & Fitness,ingar_ej_aktiv,,7,96
+10472277442826,323,TUNTURI Balance Trainer incl Tubings,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),5,50
+10472277508362,324,Trampoline TUNTURI 4-folding Fitness Trampoline,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,95
+10472277606666,325,Mini bike TUNTURI Mini Bike Foldable Easy,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),3,86
+10472277639434,326,Cykelträningsställ Elite Trainer Qubo Fluid,ACTIVE,Elite,Konditionsträning & Fitness,ingar,,0,265
+10472277737738,327,Cykelträningsställ Elite Novo Force,ACTIVE,Elite,Konditionsträning & Fitness,ingar,,0,217
+10472277803274,328,"Gymnastikboll TUNTURI Gymball 75cm, Anti-Burst, Mint",DRAFT,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),8,197
+10472277836042,329,Training bench CHRISTOPEIT TE 1000,ACTIVE,Christopeit,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,198
+10472278163722,330,"Hantlar CHRISTOPEIT 2 x 3 kg, svart",ACTIVE,Christopeit,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),5,179
+10472278458634,331,Treadmill TOORX Altitude,ACTIVE,Toorx,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,110
+10472278655242,332,Exercise bike TOORX BRX-100 Ergo,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: elcykel; SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,68
+10472278688010,333,Exercise bike TOORX BRX-300,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: elcykel; SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,79
+10472278720778,334,TOORX Kettlebell 16 kg,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),3,8
+10472278753546,335,"Gymnastikmatta TOORX Fitnessmat med handtag, blå",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,25
+10472278786314,336,"TOORX Professional Foldable Mat, blå",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),5,55
+10472279539978,337,Boxningshandskar TOORX Panther Boxing Gloves 10oz,ACTIVE,Toorx,Konditionsträning & Fitness,ingar,,2,11
+10472279572746,338,Boxningshandskar TOORX Jaguar Boxing Gloves S/M,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),3,30
+10472279605514,339,Boxningshandskar TOORX Leopard Boxing Gloves 10oz,ACTIVE,Toorx,Konditionsträning & Fitness,ingar,,2,12
+10472279638282,340,Mobilhållare för arm TOORX Smartphone Armband,ACTIVE,Toorx,Tillbehör,undantag,UNDANTAG: våg 1 (86),5,3
+10472279671050,341,"Stretchgummi TOORX Elastic Tube, stark, svart",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),3,37
+10472279703818,342,"TOORX Elastiskt band, lätt, röd",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,37
+10472279736586,343,"Träningshandskar TOORX Viktlyfthandskar, lila-svart",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),4,31
+10472279867658,344,"TOORX Dubbel Träningshjul, svart-orange",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: barnprodukt,5,20
+10472279900426,345,Handleddboll TOORX Power Grip Ball,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),3,25
+10472279933194,346,"Hopprep TOORX Hopprep med mjuka handtag, gul",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),6,44
+10472279965962,347,"TUNTURI Gymnastikboll 65cm, Anti-Burst, Röd",DRAFT,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),6,118
+10472280195338,348,Elliptisk tränare HAMMER CrossPace 5.0 NorsK,ACTIVE,Hammer,Crosstrainers,ingar,,2,111
+10472280293642,349,Elliptisk träningscykel HAMMER CrossPace 7.0 NorsK,ACTIVE,Hammer,Crosstrainers,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,2,101
+10472280391946,350,Flaska TREC SHAKER 050 - 0.7 l BLACK - TREC TEAM,ACTIVE,Trec,Konditionsträning & Fitness,ingar,,11,3
+10472280817930,351,Lyftstångsdämpning för nacken TUNTURI,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),11,49
+10472280850698,352,Treadmill CHRISTOPEIT TM 750S,ACTIVE,Christopeit,Konditionsträning & Fitness,undantag,UNDANTAG: pilot 20; SÄKERHET/HÄLSOORD: batteri/motor/elektronik,3,461
+10472280883466,353,"Hantlar TUNTURI Neoprene Dumbbells 1.5kg, gul",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),3,140
+10472280916234,354,Träningsstation HAMMER BioForce MX NorsK,ACTIVE,Hammer,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,0,103
+10472280949002,355,FINNLO by Hammer Autark 2200 power station,ACTIVE,Finnlo by Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,107
+10472281145610,356,Justerbar hantel TUNTURI MX Select MX30 Dumbbell 3.4-13.9 kg,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),26,77
+10472281178378,357,Training stand ELITE Avanti,ACTIVE,Elite,Konditionsträning & Fitness,ingar,,0,168
+10472281211146,358,Träningsrulle ELITE Roller Quick Motion,ACTIVE,Elite,Konditionsträning & Fitness,ingar,,0,213
+10472281309450,359,Ben- och armvikter TUNTURI Arm/Leg Weights 1kg,ACTIVE,Tunturi,"Extra vikter, tillbehör",undantag,UNDANTAG: våg 1 (86),17,254
+10472281342218,360,Sadel för motionscykel TUNTURI Comfort Seat,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,7,131
+10472281374986,361,Crosstrainer TUNTURI FitCross 50i,ACTIVE,Tunturi,Crosstrainers,handhavd,"HANDHAVD (handhavd_ids.txt): avvisad av granskare: Crosstrainer Tunturi FitCross 50i, 22 träningsprogram; SÄKERHET/HÄLSOORD: batteri/motor/elektronik",8,80
+10472281407754,362,Yogamatta TOORX Yoga Mat lila,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),7,41
+10472281440522,363,Yogamatta TOORX Yoga Mat grön,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),8,39
+10472281735434,364,Hula hoop TUNTURI Hula Hoop 1.2kg,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),14,134
+10472282063114,365,Power plant FINNLO by Hammer Autark 5.0,ACTIVE,Finnlo by Hammer,Konditionsträning & Fitness,ingar,,0,132
+10472282161418,366,Multifunctional trainer CHRISTOPEIT SP 5000,ACTIVE,Christopeit,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),3,142
+10472283308298,367,Exercise bike CHRISTOPEIT ET 3.1,ACTIVE,Christopeit,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: elcykel; SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,98
+10472283701514,368,Dumbbells TUNTURI Dumbbellset 20kg,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),7,182
+10472283832586,369,TUNTURI Ankelrem Prof,ACTIVE,Tunturi,"Extra vikter, tillbehör",ingar,,1,149
+10472283865354,370,Inner gloves Tunturi Inner Gloves,ACTIVE,Tunturi,Boxningsutrustning,undantag,UNDANTAG: våg 1 (86),12,234
+10472283898122,371,Stretch band Tunturi Power Band Light Yellow,ACTIVE,Tunturi,Stretchband,ingar,,0,148
+10472283963658,372,Aerobic stepper TUNTURI Aerobic Step Easy,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,5,130
+10472283996426,373,Hantlar TUNTURI PU Pro Hantelset 2-12kg,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,317
+10472284127498,374,"Golvmatta TUNTURI Golvskyddsmatta 65 x 52 x 0,4 cm",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),11,25
+10472284258570,375,"Pilatesring Tunturi Pilates Ring, Svart",ACTIVE,Tunturi,Stretchband,undantag,UNDANTAG: våg 1 (86),16,206
+10472284389642,376,"Yogamatta Tunturi Yogamat 8mm, Petrol Blue",ACTIVE,Tunturi,Yogamattor,undantag,UNDANTAG: våg 1 (86),4,456
+10472284684554,377,"Gymbollöverdrag TUNTURI Gymball Cover 75cm, med grönt blixtlås",ACTIVE,Tunturi,Träningsbollar,sakerhet,SÄKERHET/HÄLSOORD: lås,1,309
+10472284913930,378,Treadmill CHRISTOPEIT TM 5000S,ACTIVE,Christopeit,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,0,174
+10472285733130,379,"Golvmatta TUNTURI Golvskyddsmatta 70 x 100 x 0,4 cm",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),16,26
+10472285798666,380,Golvmatta TUNTURI Golvskyddsmatta 87 x 160 x 0.4 cm,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),18,26
+10472287076618,381,Träningsstation BH FITNESS Indar Press,DRAFT,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,76
+10472287338762,382,Rowing ergometer CHRISTOPEIT Garda,ACTIVE,Christopeit,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,1,107
+10472287371530,383,"Hand- och fotvikter TOORX Hand-/fotvikter 2 x 0,5 kg",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),9,36
+10472287994122,384,Roddmaskin HAMMER RowFlow 5.0 NorsK,DRAFT,Hammer,Konditionsträning & Fitness,granska_ej_aktiv,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,1,106
+10472288387338,385,Power station TOORX LTX-3000,ACTIVE,Toorx,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,0,52
+10472288420106,386,Power plant HAMMER Multi-Gym BioForce Extreme Pro,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,120
+10472288485642,387,Chin-up/exercise bench HAMMER Bench Pullup & Dip,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,3,120
+10472288583946,388,Power station TOORX MSX-90,ACTIVE,Toorx,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,0,91
+10472288616714,389,Power station TOORX CSX-2000,ACTIVE,Toorx,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,0,63
+10472288682250,390,Jõujaam BH FITNESS Power Smith,ACTIVE,BH Fitness,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,0,55
+10472288715018,391,Power station BH FITNESS Indar,ACTIVE,BH Fitness,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,0,82
+10472288813322,392,Multi Gym BH FITNESS Rack Smith,ACTIVE,BH Fitness,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,0,102
+10472289042698,393,Treadmill/walking pad HAMMER Walk 2.0,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,3,184
+10472289075466,394,"Viktplatta SPOKEY Blå, 30 mm, 10 kg",ACTIVE,Spokey,Konditionsträning & Fitness,ingar,,10,15
+10472289108234,395,"Stretch band Tunturi Power Band, Medium, Grön",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),10,307
+10472289141002,396,Träningsstege TUNTURI RC20 Pro Power Rack - Monkey Bar,ACTIVE,Tunturi,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,0,45
+10472289304842,397,"Viktplattshållare för HAMMER Autark FT3-modell, 50 mm",ACTIVE,Hammer,Konditionsträning & Fitness,ingar,,0,73
+10472289435914,398,Barhållare HAMMER Autark FT3 Landmine,ACTIVE,Hammer,Konditionsträning & Fitness,ingar,,0,72
+10472289501450,399,TUNTURI RC20 Pro Power Rack - Ball Pull-Up Grips,ACTIVE,Tunturi,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,0,71
+10472289566986,400,"Gymnastikboll CHRISTOPEIT 75 cm, blå",ACTIVE,Christopeit,Konditionsträning & Fitness,ingar,,3,37
+10472289632522,401,TUNTURI Träningsmultifunktionell motståndsbandset,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),6,97
+10472289665290,402,Yogamatta TUNTURI Cork TPE Yoga Mat,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),8,45
+10472289698058,403,TUNTURI Wrist/Ankle Weights 2.25kg,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),8,62
+10472289763594,404,"Träningsmatta HAMMER Skyddsmatta, S",ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),4,30
+10472289796362,405,"Gymnastikmatta TUNTURI Fitnessmat Pro, 180cm, svart",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),4,204
+10472289829130,406,Pulsbälte TUNTURI Digital HR Monitor Chest Belt,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),7,55
+10472289861898,407,Styrketräningsset TUNTURI Hantel- & Skivstångsset 20 kg,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),46,142
+10472289894666,408,Lyftstångset TUNTURI Aerobic Pump Set 20 kg,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),4,104
+10472289960202,409,Viktskivor TUNTURI Aerobic Pump Plates 10 kg,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,85
+10472289992970,410,Viktskivor TUNTURI PRO Aerobic Pump Plates 10 kg,ACTIVE,Tunturi,Professionell utrustning,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,1,87
+10472290091274,411,"Hantlar TUNTURI Vinyl Dumbbells 2 x 5 kg, black",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),6,98
+10472290353418,412,"BH FITNESS Golvskyddsmatta, 200 x 90 x 0,5 cm",ACTIVE,BH Fitness,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),9,25
+10472290386186,413,Löpband olja BH FITNESS Spray Lubricant 500ml,ACTIVE,BH Fitness,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,17,4
+10472295137546,414,"Hantel- och skivstångsset TUNTURI Hantel-/skivstångsset 20kg, järn",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),6,53
+10472295596298,415,Löpband TUNTURI Cardio Fit T5 med Bluetooth,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: pilot 20; SÄKERHET/HÄLSOORD: batteri/motor/elektronik,6,161
+10472296546570,416,Weight plates for CHRISTOPEIT SP2000,ACTIVE,Christopeit,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,23
+10472296677642,417,Ujumispoi TUNTURI Pullbuoy Medium,ACTIVE,Tunturi,Konditionsträning & Fitness,handhavd,"HANDHAVD (handhavd_ids.txt): pullbuoy: engelskt typord, svenskt ord saknas i källan (David väljer, t.ex. benflyt)",4,48
+10472296775946,418,"Justerbar hantel TUNTURI MX55 Hantel 4,5-24,9 kg, räfflad",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),7,108
+10472296808714,419,Viktskivor för CHRISTOPEIT SP 5000,ACTIVE,Christopeit,Konditionsträning & Fitness,ingar,,1,2
+10472297464074,420,"Flaska TREC Endurance 002, orange",ACTIVE,Trec,Konditionsträning & Fitness,ingar,,28,0
+10472298086666,421,Skruvar för fastsättning av extra vikter till hantlar TUNTURI Rapid Long Screw,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,100
+10472298217738,422,Hantel TUNTURI Rapid Justerbar Hantel 20kg,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),4,116
+10472298250506,423,Mini bike TUNTURI Mini Bike Basic,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),4,87
+10472298381578,424,"Stepper TUNTURI Stepper, Svart inkl Display",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,22,118
+10472298447114,425,Löpband FINNLO by HAMMER Alpine TFT,ACTIVE,Finnlo by Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,3,46
+10472298512650,426,Jõujaam HAMMER Bio Force Extreme Sixpack Plus,ACTIVE,Hammer,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,168
+10472298545418,427,Power rack HAMMER Bio Force,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,157
+10472298578186,428,Träningsmaskin FINNLO by HAMMER Autark 1500,ACTIVE,Finnlo by Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,180
+10472298676490,429,Treadmill HAMMER Q. VADIS 10.0,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,3,116
+10472298840330,430,Treeningpink HAMMER Force 6.0,ACTIVE,Hammer,Konditionsträning & Fitness,ingar,,1,125
+10472298873098,431,Pulsbälte FINNLO by HAMMER Chest Belt,ACTIVE,Finnlo by Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),5,19
+10472298971402,432,Treadmill TOORX Street Compact,DRAFT,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: facit 30; SÄKERHET/HÄLSOORD: batteri/motor/elektronik,3,95
+10472299004170,433,"Pulsbälte TOORX Chest Belt 5,3 kHz + ANT + Bluetooth",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: facit 30; SÄKERHET/HÄLSOORD: batteri/motor/elektronik,3,10
+10472299036938,434,Treadmill oil TOORX Lubetech 200ml,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,17,0
+10472299069706,435,"TOORX Träningsmatta, 120x80x0,6 cm",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: facit 30,8,0
+10472299102474,436,"TOORX Träningsmatta, 200x100x0,9 cm",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),5,0
+10472299233546,437,"Viktplatta TOORX Bumper Plate Challenge, grön, 50 mm, 10 kg",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),8,52
+10472299266314,438,"Viktplatta TOORX Bumper Plate Challenge, vit, 50 mm, 5 kg",DRAFT,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),4,51
+10472299299082,439,"Hantelvikter TOORX Safe Lock, 50mm",ACTIVE,Toorx,Konditionsträning & Fitness,ingar,,3,0
+10472299331850,440,"Viktplatta TOORX Bumper Plate Challenge, röd, 50 mm, 25 kg",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,52
+10472299397386,441,"Hopprep TOORX Steel Speed Jumprope med plasthandtag, svart",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),5,25
+10472299430154,442,TOORX Wooden Balance Board,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),3,72
+10472299462922,443,"Kettlebell TOORX Pro Cross EVO, 12 kg",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),3,42
+10472299561226,444,Sangpomm TOORX Vinyl Kettlebell 12 kg,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,50
+10472299725066,445,"TOORX Träningsmatta, 200x100x0.6 cm",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),5,0
+10472299954442,446,Stående boxboll TOORX Stående boxboll Professional,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,34
+10472300052746,447,"Sangpomm TOORX Vinyl Kettlebell, 10 kg",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),5,47
+10472300085514,448,"Trampolin TOORX Trampoline, 97 cm",ARCHIVED,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,54
+10472300118282,449,Walking Pad TOORX TRX Walker EVO,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,117
+10472300183818,450,Hopfällbar motionscykel TOORX BRX Compact,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,85
+10472300216586,451,"Trampolin TOORX Trampoline Pro, 122 cm",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,67
+10472300249354,452,"Träningsmatta TOORX Fitness Mat 100 Pro, orange",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),5,25
+10472300314890,453,"TOORX Träningsmatta, 180x90x0,6 cm",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),8,0
+10472300478730,454,"Balanskudde TOORX Evo Ball Absolute, svart",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: barnprodukt,3,40
+10472300642570,455,"Träningsmatta TOORX Fitness Mat 100 Pro, blå",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),3,20
+10472300675338,456,"Träningsmatta TOORX Studio Mat 120, svart",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,23
+10472300708106,457,"Träningsmatta TOORX Fitness Mat 172 Pro, orange",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,73
+10472300806410,458,"Träningsmatta TOORX Fitness Mat 172 Pro, blå",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),3,73
+10472300839178,459,"Träningsmatta TOORX Studio Mat 173, svart",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,27
+10472300904714,460,Aerobic step bänk TOORX Advance Step,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,5,36
+10472300937482,461,"TOORX Balansbräda, svart-grön",ACTIVE,Toorx,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: barnprodukt,2,7
+10472301035786,462,"Hantel TOORX Neoprene Dumbbell, svart, 6 kg",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),3,8
+10472301068554,463,"TOORX Air Cushion, grön",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,18
+10472301101322,464,"Gymnastikboll TOORX Toning Ball, lila, 1.5kg",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,34
+10472301166858,465,"TOORX Toning Ball, grön, 1kg",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,34
+10472301297930,466,"Hantel HAMMER Dumbbell Set 10kg, krom",ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),3,71
+10472301330698,467,Aerobic step bänk TOORX Active Step,ACTIVE,Toorx,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,4,20
+10472301461770,468,"Hantel HAMMER Dumbbell Set 10kg, järn",ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),9,127
+10472301560074,469,"Massage roller TOORX Grid Foam Roller, black-orange",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),4,29
+10472301625610,470,"Massage roller TOORX Grid Foam Roller, orange-black",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),3,28
+10472301691146,471,Varbsein TOORX Swedist Wall Bar,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,64
+10472301723914,472,"Gymnastikgummi TOORX Elastic med handtag, medium, blå",ACTIVE,Toorx,Konditionsträning & Fitness,ingar,,1,11
+10472301920522,473,"Akupunkturmatta och kudde TUNTURI PRO Akupressurmatta och kudde, Svart",ACTIVE,Tunturi,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: akupressur,1,140
+10472302280970,474,"HAMMER Puzzle Mat, 100 x 50 x 2.5, 2-delad",ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),5,94
+10472302313738,475,"Golvmatta HAMMER Studio Floor Mat, 100 x 100 x 1,5 cm",ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),26,109
+10472302412042,476,"Massage roller TUNTURI Yoga Grid Foam Roller, 33cm, Rose Gold",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),12,34
+10472302477578,477,Dumbbell HAMMER Dumbbell Set 15kg,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),7,126
+10472302575882,478,TUNTURI Free Stand Boxing Dummy,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,115
+10472302936330,479,"HAMMER Viktplatta, 30 mm, 5 kg",ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),12,80
+10472303395082,480,Treadmill TUNTURI Cardio Fit T50,DRAFT,Tunturi,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,81
+10472303591690,481,Elliptisk träningsmaskin FINNLO by HAMMER E-Glide SRT,DRAFT,Finnlo by Hammer,Crosstrainers,ingar_ej_aktiv,,0,112
+10472303657226,482,Elliptisk träningsmaskin BH FITNESS FDC Studio,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,104
+10472303689994,483,"TUNTURI Gymnastikboll 90cm, Anti-Burst, Mint",DRAFT,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),11,119
+10472304181514,484,TUNTURI Platinum - Dual Assisted Chin Up/Dip - Selectorized V-Series,ACTIVE,Tunturi,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,99
+10472304214282,485,Jõujaam TUNTURI Platinum - Full Smith - Selectorized - V-Series,ACTIVE,Tunturi,Professionell utrustning,handhavd,"HANDHAVD (handhavd_ids.txt): avvisad av granskare: Smithmaskin Tunturi Platinum Full Smith, Selectorized, V-Ser; SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin",3,77
+10472304279818,486,TUNTURI Platinum - Hip Thrust - Selectorized - V-Series,ARCHIVED,Tunturi,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,85
+10472304378122,487,TUNTURI Platinum - Sittande roddmaskin - Viktmagasin - V-Series,DRAFT,Tunturi,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,90
+10472304607498,488,TUNTURI Platinum - Functional Trainer - Selectorized - V-Series,ACTIVE,Tunturi,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,86
+10472305033482,489,Treadmill BH FITNESS RS800 Multimedia,ACTIVE,BH Fitness,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,109
+10472305164554,490,Spinning bike BH FITNESS i.Rhone,ACTIVE,BH Fitness,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,2,83
+10472305393930,491,"Träningshandskar TOORX Professional Gloves, svart-grå",ACTIVE,Toorx,Konditionsträning & Fitness,ingar,,1,31
+10472305426698,492,TUNTURI Platinum - Bicep Curl Strength Station - Selectorized - V-Series,DRAFT,Tunturi,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,1,102
+10472305557770,493,"Träningshandskar TOORX Professional Gloves, svart-röd",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),3,31
+10472306376970,494,Roddmaskin TUNTURI FitRow 80i AIR,ACTIVE,Tunturi,Konditionsträning & Fitness,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,148
+10472306409738,495,Elliptical trainer BH FITNESS Altai,ACTIVE,BH Fitness,Crosstrainers,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,83
+10472306475274,496,Treadmill BH FITNESS RX3,ACTIVE,BH Fitness,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,2,97
+10472306606346,497,Spinningcykel BH FITNESS Xcalibur Magnetic Silver,DRAFT,BH Fitness,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,89
+10472306671882,498,Treadmill BH FITNESS Sherpa Run,ACTIVE,BH Fitness,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,107
+10472306737418,499,Treadmill BH FITNESS Runlab Plus,ACTIVE,BH Fitness,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,82
+10472306802954,500,Telefon- och surfplattahållare BH FITNESS,DRAFT,BH Fitness,Konditionsträning & Fitness,ingar_ej_aktiv,,2,33
+10472306835722,501,Jõujaam BH FITNESS Smart Gym,DRAFT,BH Fitness,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,2,77
+10472306901258,502,HAMMER Multi-Lat Tower,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,115
+10472307163402,503,Jõujaam BH FITNESS Pulley Cage,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,1,98
+10472307228938,504,Crosstrainer BH FITNESS Super Khronos Multimedia,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,113
+10472307425546,505,Treadmill BH FITNESS RX9 Multimedia,DRAFT,BH Fitness,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,0,129
+10472307556618,506,Treadmill BH FITNESS RS1200,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,126
+10472307654922,507,"2in1 (rull)skridskor NILS EXTREME NH18190 Inline-skridskor/ishockeyrullskridskor, S (29-33) Svart/Blå",ACTIVE,Nils Extreme,Utomhusträning,ingar,,1,79
+10472307720458,508,Elliptisk träningsmaskin BH FITNESS Khronos Generator,DRAFT,BH Fitness,Professionell utrustning,granska_ej_aktiv,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,104
+10472307753226,509,"Barnrullskridskor FILA X 2.0, Svart/Orange",DRAFT,Fila,Utomhusträning,sakerhet,SÄKERHET/HÄLSOORD: barnprodukt,2,138
+10472307818762,510,Treadmill BH FITNESS RS1200 Multimedia,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,150
+10472307851530,511,Elliptisk träningscykel BH FITNESS Super Khronos,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,109
+10472307884298,512,Treadmill BH FITNESS RS900,DRAFT,BH Fitness,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,2,142
+10472307982602,513,Treadmill HAMMER Walk 2.0 NorsK,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: pilot 20; SÄKERHET/HÄLSOORD: batteri/motor/elektronik,5,168
+10472308113674,514,Spinningcykel BH FITNESS Xcalibur Multimedia,ACTIVE,BH Fitness,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,0,98
+10472308179210,515,"Rulluisud FILA Legacy QF Lady, Black/Violet",ACTIVE,Fila,Utomhusträning,ingar,,2,206
+10472308211978,516,"Barnrullskridskor FILA X-One, Svart/Blå/Röd",ACTIVE,Fila,Utomhusträning,sakerhet,SÄKERHET/HÄLSOORD: barnprodukt,5,121
+10472308375818,517,TOORX BRX R3000 Liggande motionscykel med ryggstöd,ACTIVE,Toorx,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,88
+10472308506890,518,Gymnastikmatta TUNTURI Outdoor Fitness Mat,DRAFT,Tunturi,Utomhusträning,undantag,UNDANTAG: våg 1 (86),6,56
+10472308539658,519,"TUNTURI Mini Resistance Band Set, 4 st",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),7,96
+10472308605194,520,"Hopfällbar motionscykel BH FITNESS X-Tri 2, med ryggstöd",ACTIVE,BH Fitness,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,60
+10472308801802,521,"TOORX Balansmatta, grön",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86); SÄKERHET/HÄLSOORD: barnprodukt,3,4
+10472308834570,522,TOORX Fabric Bands Strong,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,15
+10472308867338,523,Exercise bike CHRISTOPEIT Active,ACTIVE,Christopeit,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: elcykel; SÄKERHET/HÄLSOORD: batteri/motor/elektronik,3,87
+10472308900106,524,Träningsmaskin/motionscykel CHRISTOPEIT CT 6,ACTIVE,Christopeit,Crosstrainers,sakerhet,SÄKERHET/HÄLSOORD: elcykel; SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,96
+10472308932874,525,Rowing machine CHRISTOPEIT Colorado,DRAFT,Christopeit,Konditionsträning & Fitness,granska_ej_aktiv,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,1,144
+10472310866186,526,"Golvmatta TUNTURI Fluid Anti-Slip Protection Mat, 225 x 90 x 0,5 cm",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),11,54
+10472310931722,527,"TUNTURI Mini Resistance Band Set, 5 st",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),9,86
+10472310997258,528,"Massage roller TUNTURI Yoga Grid Foam Roller, 33cm, Grå",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),11,34
+10472311030026,529,TUNTURI Arm/Leg Weights 2kg,DRAFT,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),4,61
+10472311062794,530,"Golvmatta TOORX Flooring Fine Grain, 100 x 100 x 1 cm",DRAFT,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),11,33
+10472311095562,531,"Golvmatta TOORX Gummi Golv i Rulle, 1000 x 125 x 0,6 cm",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,31
+10472311128330,532,Gymnastikgummiband set TOORX Latex Bands Medium,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,20
+10472311161098,533,Gymnastikgummiband set TOORX Fabric Bands Medium,ACTIVE,Toorx,Konditionsträning & Fitness,ingar,,1,16
+10472311193866,534,Treadmill CHRISTOPEIT TM 4500 S,DRAFT,Christopeit,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,150
+10472311226634,535,"Motionscykel CHRISTOPEIT ET 5.1, svart",ACTIVE,Christopeit,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,128
+10472311357706,536,"Viktskivor TUNTURI Platinum Fractional Plates, Blå, 50mm, 2 x 2 kg",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),6,94
+10472315126026,537,Kettlebell TUNTURI Platinum Rubber Kettlebell 4 kg,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,50
+10472323318026,538,Rowing machine BH FITNESS i.Hudson,ACTIVE,BH Fitness,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,3,84
+10472323383562,539,Spinningcykel BH FITNESS Duke Magnetic,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,86
+10472323481866,540,Weight Bench BH FITNESS Adjustable,ACTIVE,BH Fitness,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,60
+10472323711242,541,Inversion bench BH FITNESS Zero,ACTIVE,BH Fitness,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,36
+10472323776778,542,Treadmill BH FITNESS RCM Pro MED,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,121
+10472324432138,543,Step board BH FITNESS,ACTIVE,BH Fitness,Konditionsträning & Fitness,handhavd,HANDHAVD (handhavd_ids.txt): stepbräda: produkttyp oklar (källan länkar till cykeltrainer),5,9
+10472324595978,544,Recumbent bike HAMMER RB 8000,ACTIVE,Hammer,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,103
+10472324759818,545,"Hantel HAMMER Compact Dumbbell PU 22,5 kg",ACTIVE,Hammer,Professionell utrustning,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,129
+10472324792586,546,"Hantel HAMMER Compact Dumbbell PU 12,5 kg",ACTIVE,Hammer,Professionell utrustning,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,129
+10472324825354,547,"Hantel HAMMER Compact Dumbbell PU 7,5 kg",ACTIVE,Hammer,Professionell utrustning,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,129
+10472324956426,548,"Hantel HAMMER Compact Dumbbell PU 17,5 kg",ACTIVE,Hammer,Professionell utrustning,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,132
+10472325054730,549,"Hantel HAMMER Compact Dumbbell PU 32,5 kg",ACTIVE,Hammer,Professionell utrustning,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,132
+10472325153034,550,"Hantel HAMMER Compact Dumbbell PU 27,5 kg",ACTIVE,Hammer,Professionell utrustning,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,132
+10472325185802,551,"Hantel HAMMER Compact Dumbbell PU 37,5 kg",ACTIVE,Hammer,Professionell utrustning,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,132
+10472325316874,552,BH Fitness INERTIA Liggande motionscykel med ryggstöd,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,114
+10472325349642,553,Kettlebell HAMMER Premium Kettlebell 22 kg,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,43
+10472325382410,554,Stegmaskin BH FITNESS Movemia SC1000 Climber,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,108
+10472325415178,555,Hantlite alus HAMMER StrongLock 8.0,ACTIVE,Hammer,Konditionsträning & Fitness,ingar,,0,96
+10472325513482,556,Exercise Bike HAMMER Spheris 4.0,ACTIVE,Hammer,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: elcykel; SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,102
+10472326627594,557,Smith masin HAMMER Smith Machine MA50,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,76
+10472326660362,558,Viktväst TUNTURI Weighted Vest 10kg,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),7,74
+10472327905546,559,"Sangpomm TOORX Absolute Kettlebell, 20 kg",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,49
+10472328757514,560,"Kettlebell TOORX Olympic EVO, lila, 18 kg",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,42
+10472328790282,561,"Sangpomm TOORX Olympic EVO Kettlebell, lila, 20 kg",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,42
+10472328823050,562,"Sangpomm TOORX Vinyl Kettlebell, 18 kg",ARCHIVED,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,47
+10472329380106,563,"Sangpomm TOORX Vinyl Kettlebell, 20 kg",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,47
+10472330068234,564,Squat stand TUNTURI SS60,ACTIVE,Tunturi,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,0,117
+10472330330378,565,Rowing ergometer HAMMER RowTech Smart NorsK,ACTIVE,Hammer,Konditionsträning & Fitness,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,95
+10472330428682,566,TUNTURI PR60 Power Rack - Dips-handtag,ACTIVE,Tunturi,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,0,59
+10472334262538,567,Treadmill HAMMER FlyRun 4.0 NorsK,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,3,142
+10472346779914,568,"Lyftstång TUNTURI Skivstång, 30 mm, 120 cm, Skruv",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,100
+10472346812682,569,Aerobic stepper TUNTURI Aero Step,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,4,159
+10472349171978,570,Hantelställ Tunturi Pro Hantelställ Plåtar,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,230
+10472349237514,571,Justerbar hantel TUNTURI Selector Dumbbell 25kg,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),7,99
+10472349270282,572,Ställ för hantlar Tunturi MX Select Dumbbells Stand,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,148
+10472349630730,573,Hula hoop TUNTURI Hula Hoop 1.8kg,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),5,139
+10472349663498,574,Olja för löpband TUNTURI T-Lube 200ml,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,19,182
+10472350220554,575,"Hantlar TUNTURI Neoprene Dumbbells 1kg, orange",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),7,139
+10472350253322,576,"Hantlar TUNTURI Vinyl Dumbbells 1.5kg, yellow",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),11,10
+10472505868554,577,"Yogamatta Tunturi Yogamat 8mm, ljusblå",ACTIVE,Tunturi,Yogamattor,undantag,UNDANTAG: våg 1 (86),5,457
+10472505934090,578,"Justerbar hantel TUNTURI MX55 Hantel 4,5-24,9 kg",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,95
+10472506589450,579,Crosstrainer CHRISTOPEIT AX 8000,ACTIVE,Christopeit,Crosstrainers,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,3,132
+10472518549770,580,Minicykel med display TUNTURI Minicykel hopfällbar inkl. display,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),3,96
+10474037838090,581,"Justerbar hula hoop med vikt TUNTURI Justerbar Hula Hoop, Stor inkl. vikter",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),14,73
+10475369791754,582,Träningsrep TUNTURI Battle Rope 12m,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,224
+10475371233546,583,Tunturi förvaringskrok för träningsrep,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,193
+10475371495690,584,Träningsband Tunturi Power Band Extra Heavy Svart,ACTIVE,Tunturi,Träningsband,undantag,UNDANTAG: våg 1 (86),14,143
+10475372642570,585,TUNTURI Competition Kettlebell 8kg,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),4,137
+10475372740874,586,"Viktskivor TUNTURI Skivor Svart, 30 mm, 2,5 kg",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),3,84
+10475373101322,587,"TUNTURI Pro Pull-Up Bar, väggmonterad",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,3,278
+10475373429002,588,"Hantelset TUNTURI Hantelset 10 kg, 1 stång",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),9,275
+10475373560074,589,"TUNTURI Wrist Wraps, white",ACTIVE,Tunturi,"Extra vikter, tillbehör",undantag,UNDANTAG: våg 1 (86),4,200
+10475385848074,590,Crosstrainer TUNTURI Cardio Fit C30,ACTIVE,Tunturi,Crosstrainers,undantag,UNDANTAG: våg 1 (86); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,4,72
+10475386503434,591,Multifunktionell dörrstång TUNTURI Multifunctional Door Gym,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),6,245
+10475515478282,592,Spinning wheel TOORX SRX-EVOLVE,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,91
+10475515642122,593,Motionscykel TOORX SRX Speed Mag Pro,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,3,91
+10475517772042,594,TOORX Bröstbälte 5.3 kHz,ACTIVE,Toorx,Konditionsträning & Fitness,handhavd,"HANDHAVD (handhavd_ids.txt): avvisad av granskare: Bröstbälte Toorx 5,3 kHz; SÄKERHET/HÄLSOORD: batteri/motor/elektronik",3,18
+10475517804810,595,Boxningshandskar TOORX Jaguar Boxningshandskar L/XL,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,30
+10475517870346,596,Fotsskydd TOORX benskydd med fotsskydd,ACTIVE,Toorx,Konditionsträning & Fitness,ingar,,1,8
+10475978916106,597,Tennis TUNTURI Indiaka Tennis,ACTIVE,Tunturi,Utomhusträning,undantag,UNDANTAG: våg 1 (86),9,27
+10475978948874,598,Reservfjädrar TUNTURI Indiaka,ACTIVE,Tunturi,Utomhusträning,ingar,,2,27
+10475981865226,599,Skyddshjälm Tunturi Head Guard S/M,ACTIVE,Tunturi,Boxningsutrustning,sakerhet,SÄKERHET/HÄLSOORD: hjälm,2,51
+10475982029066,600,Tunturi Skyddshjälm Head Guard L/XL,ACTIVE,Tunturi,Boxningsutrustning,sakerhet,SÄKERHET/HÄLSOORD: hjälm,1,51
+10475982520586,601,Boxningssäcksfäste Tunturi Swivel Chrome med kullager,ACTIVE,Tunturi,Boxningsutrustning,ingar,,1,256
+10475982651658,602,"Tunturi Wall Ball 6 kg, röd",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),3,193
+10475983175946,603,TUNTURI Battle Rope Väggfäste,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),5,61
+10476097667338,604,Styrketräningsset TOORX 4-in-1 Set,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,42
+10480045129994,605,Roddmaskin TUNTURI Cardio Fit R20,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,12,150
+10480045424906,606,Träningsbox TUNTURI Plyo Box Wood 50/60/75cm,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,251
+10480045752586,607,"Yogamatta Tunturi Yogamat 8mm, Svart",ACTIVE,Tunturi,"Gymnastikmattor, Yogamattor",undantag,UNDANTAG: våg 1 (86),4,455
+10480045850890,608,"Motionscykel CHRISTOPEIT AL 2, svart",ARCHIVED,Christopeit,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,146
+10480047456522,609,"Treadmill CHRISTOPEIT 2in1, black-wood",DRAFT,Christopeit,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,5,149
+10480052207882,610,"Hopfällbar motionscykel CHRISTOPEIT S-Bike Velo Fit, svart",ACTIVE,Christopeit,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,3,98
+10480054501642,611,Hantel- och skivstångsset CHRISTOPEIT 4-i-1 Hantelset 20 kg,ACTIVE,Christopeit,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,104
+10480054534410,612,Sangpomm CHRISTOPEIT Kettlebell 2kg,ACTIVE,Christopeit,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,72
+10480054599946,613,Sangpomm CHRISTOPEIT Kettlebell 4kg,ACTIVE,Christopeit,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),6,74
+10486622355722,614,Motionscykel TUNTURI Cardio Fit D20 Deskbike,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,2,47
+10486629597450,615,Vibrationsplatta TUNTURI Cardio Fit V10,ACTIVE,Tunturi,Konditionsträning & Fitness,handhavd,HANDHAVD (handhavd_ids.txt): hälsoord i originaltiteln: Vibrationsplatta TUNTURI Cardio Fit V10; SÄKERHET/HÄLSOORD: vibrationsplatta,10,147
+10486630252810,616,Motionscykel TUNTURI Platinum E30 + Tuntur app,ACTIVE,Tunturi,Professionell utrustning,handhavd,"HANDHAVD (handhavd_ids.txt): avvisad av granskare: Motionscykel Tunturi Platinum E30, 26 program, induktionsbro; SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin",4,71
+10486640345354,617,Motionscykel TUNTURI Signature E80 + Tunturi app,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,87
+10486654075146,618,"Silikonspray för löpband HAMMER, 400ml",ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,17,6
+10486688841994,619,"HAMMER Golvmatta för träningsmaskiner, 60 x 120 x 0,3 cm",ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),5,93
+10486688973066,620,"Träningsmatta för konditionsmaskiner HAMMER Floor Protection Mat, XL",ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),4,79
+10494672929034,621,TUNTURI PE Kettlebell 2kg,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,278
+10494680563978,622,Massagerulle Tunturi Kork Massagerulle,ACTIVE,Tunturi,Massage,undantag,UNDANTAG: våg 1 (86),17,207
+10494687346954,623,Hantelset med ställ Tunturi Centuri Neopren Hantelset 3 par + ställ,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),3,224
+10494691115274,624,Exercise mat CHRISTOPEIT L,ARCHIVED,Christopeit,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),10,30
+10494691344650,625,"Handledd-/ankelvikter CHRISTOPEIT 2x0,50 kg",ACTIVE,Christopeit,"Tilläggsvikter, tillbehör",ingar,,3,44
+10494691377418,626,"Hopprep CHRISTOPEIT Pro, med vikter",ACTIVE,Christopeit,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),5,56
+10494691541258,627,Armrests CHRISTOPEIT,ACTIVE,Christopeit,Armhävningsstöd,ingar,,2,72
+10494691639562,628,Träningsbänk CHRISTOPEIT Horse Glider,ACTIVE,Christopeit,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,2,148
+10494691672330,629,CHRISTOPEIT XXL exercise mat,ACTIVE,Christopeit,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),12,28
+10494693507338,630,"Roddmaskin CHRISTOPEIT WP 5000, ekträ",ARCHIVED,Christopeit,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,3,338
+10494695244042,631,Crosstrainer CHRISTOPEIT Walker,ACTIVE,Christopeit,Crosstrainers,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,84
+10494695276810,632,"Pulsmätare CHRISTOPEIT, trådlös",ACTIVE,Christopeit,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,4,34
+10494733123850,633,Löpband TUNTURI FitRun 90i PRO,ACTIVE,Tunturi,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,0,106
+10494766186762,634,Träningsställning Tuntur PT20 Power Tower,ACTIVE,Tunturi,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,0,139
+10494771265802,635,Roddmaskin TUNTURI Fluid Rower Apollo Pro XL,ACTIVE,Tunturi,Professionell utrustning,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,34
+10494777229578,636,Elliptisk träningscykel TUNTURI Signature C65 + Tunturi app,ARCHIVED,Tunturi,Crosstrainers,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,2,113
+10494779588874,637,"Tunturi Akupressurmadrass och Kudde, Beige",ACTIVE,Tunturi,Massage,sakerhet,SÄKERHET/HÄLSOORD: massagepistol/massage; SÄKERHET/HÄLSOORD: akupressur,0,131
+10494829199626,638,Löpband TUNTURI Platinum TR20,ACTIVE,Tunturi,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,76
+10494881366282,639,"Hantelset TUNTURI Platinum Hex Rubber Dumbbells, 1-10 kg",ACTIVE,Tunturi,Professionell utrustning,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,1,69
+10494886969610,640,TUNTURI Platinum - Multistation/4 stationer - Viktmagasin - V-Series,DRAFT,Tunturi,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,90
+10494898962698,641,Tricepsrep TUNTURI Revolving Triceps Rope,ACTIVE,Tunturi,Konditionsträning & Fitness,ingar,,0,54
+10494900633866,642,"Viktskivor TUNTURI Platinum Fractional Plates, Röd, 50mm, 2 x 2.5 kg",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),3,94
+10494913347850,643,Half Rack TUNTURI HR60,ACTIVE,Tunturi,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,1,89
+10494939595018,644,"Rullskridskor LEGACY PRO 80, svart-röd-grå",ACTIVE,Fila,Utomhusträning,ingar,,1,83
+10494939627786,645,"Rullskridskor LEGACY PRO 84 LADY, svart-blå",ACTIVE,Fila,Utomhusträning,ingar,,1,57
+10494939660554,646,Rullskridskor LEGACY PRO 80,ACTIVE,Fila,Utomhusträning,ingar,,2,195
+10494941495562,647,"Rullskridskor LEGACY PRO 84, svart-grå",ACTIVE,Fila,Utomhusträning,ingar,,2,58
+10494941823242,648,"Barnrullskridskor J-ONE (S29-32), svart-röd",ACTIVE,Fila,Utomhusträning,sakerhet,SÄKERHET/HÄLSOORD: barnprodukt,1,146
+10494941888778,649,"Rullskridskor för barn FILA J-ONE COMBO 3 SET (L36-40), svart-blå-röd",ACTIVE,Fila,Utomhusträning,sakerhet,SÄKERHET/HÄLSOORD: barnprodukt,2,101
+10507246600458,650,Yogablock TUNTURI Kork Yogablock,ACTIVE,Tunturi,Yogamattor,undantag,UNDANTAG: våg 1 (86),52,142
+10507258495242,651,Hemmagym Power Bench TUNTURI HG60,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,3,212
+10507262624010,652,Viktbänk HAMMER Force 4.0,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,4,112
+10507302338826,653,Träningskabel FINNLO by HAMMER Cable,ACTIVE,Finnlo by Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),4,182
+10507302764810,654,Träningsbänk FINNLO by HAMMER Tricon Flex,ACTIVE,Finnlo by Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: pilot 20; SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,3,90
+10507303354634,655,Träningsbänk HAMMER Force 2.0,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,2,128
+10507432722698,656,"Justerbar hantel HAMMER StrongLock 8.0, 4-23 kg",ACTIVE,Hammer,Professionell utrustning,undantag,UNDANTAG: våg 1 (86); SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,8,104
+10508994150666,657,Spinning bike TOORX SRX-70S,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,3,85
+10515743375626,658,"TOORX Elastiskt band, medium, grön",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),5,40
+10515743408394,659,Handtrainer TOORX Justerbar Handgrip,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),8,3
+10515743441162,660,"Handtag TOORX Handgrips med Soft Touch-handtag, svart-röd",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),7,23
+10515744194826,661,TOORX BRX95 motionscykel med ryggstöd,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,72
+10515747668234,662,"Löpband TOORX City Compact, Pure Bronze",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,3,59
+10515747864842,663,Inversioonipink TOORX Inversion Bench,ACTIVE,Toorx,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,92
+10515747897610,664,Minicykel TOORX Everfit Welly-M,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),5,84
+10515747963146,665,"Tyngdlyftningsstång TOORX Olympic Barbell 220cm, 320 kg, 50 mm",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,74
+10515748323594,666,Hantel TOORX Gjutjärn 10kg,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,57
+10515748389130,667,Massagebollar TOORX Massagebollar,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),8,25
+10515748454666,668,Inversionsbänk TOORX GBX-100,ACTIVE,Toorx,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,63
+10515748487434,669,"Hand- och fotvikter TOORX Hand- och fotvikter 2 x 1,5 kg",DRAFT,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),9,4
+10523460337930,670,Löpband TUNTURI Centuri Performance T100,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,2,93
+10541111443722,671,Powerbänk Tunturi CT80 Core trainer,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,41
+10541114491146,672,Boxningssäck TUNTURI Speedball är ett stativ,ACTIVE,Tunturi,Boxningsutrustning,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,16,153
+10541268795658,673,Träningsbänk Tunturi UB70 Utility Bench,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: pilot 20; SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,4,72
+10541367263498,674,"Beach rackets Frozen, purple",ACTIVE,SevenPolska,Utomhusträning,ingar,,5,36
+10541367492874,675,"Flying saucer Frozen, purple",ACTIVE,SevenPolska,Utomhusträning,ingar,,3,34
+10541367656714,676,Beach rackets Spiderman,ACTIVE,SevenPolska,Utomhusträning,ingar,,3,36
+10541370114314,677,TOORX BRX65 motionscykel med ryggstöd,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: pilot 20; SÄKERHET/HÄLSOORD: batteri/motor/elektronik,3,118
+10541372801290,678,Kettlebell TUNTURI Platinum gjutjärn 8 kg,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),8,32
+10548235403530,679,TUNTURI PE Kettlebell 8kg,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),4,275
+10548235862282,680,TUNTURI PE Kettlebell 10kg,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,282
+10548292649226,681,Kettlebell TUNTURI Platinum gjutjärn 4kg,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,34
+10561337393418,682,Roddmaskin TUNTURI FitRow 50,ACTIVE,Tunturi,Konditionsträning & Fitness,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,107
+10561341620490,683,Vibrationsplatta TUNTURI Cardio Fit V30,ACTIVE,Tunturi,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: vibrationsplatta,14,132
+10561341718794,684,Vibrationsplatta TUNTURI Cardio Fit V40,ACTIVE,Tunturi,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: vibrationsplatta,0,130
+10565561745674,685,Treadmill BH FITNESS RS800,ACTIVE,BH Fitness,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,3,88
+10565602410762,686,Träningsbänk BH FITNESS Optima Press,ACTIVE,BH Fitness,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,74
+10565603918090,687,Knäböjsbänk BH FITNESS Squat Machine,ACTIVE,BH Fitness,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,67
+10572603130122,688,Motionscykel CHRISTOPEIT Eco 1000,ACTIVE,Christopeit,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,329
+10572633899274,689,Roddmaskin CHRISTOPEIT RW 1000,ACTIVE,Christopeit,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,1,72
+10572635308298,690,Powerbänk CHRISTOPEIT WB 1000,ACTIVE,Christopeit,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,95
+10572663816458,691,Hybridtränare CHRISTOPEIT AX 6500,ACTIVE,Christopeit,Crosstrainers,ingar,,3,116
+10572673941770,692,Löpband CHRISTOPEIT TM 4000 S,ACTIVE,Christopeit,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,119
+10572675776778,693,Stepper CHRISTOPEIT Climber 1000,ACTIVE,Christopeit,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,3,127
+10588445835530,694,Balansplatta TUNTURI Yoga Balance Pad TPE,ACTIVE,Tunturi,Yogamattor,undantag,UNDANTAG: våg 1 (86); SÄKERHET/HÄLSOORD: barnprodukt,13,138
+10588446130442,695,Träningscykel TUNTURI Centuri E100,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,64
+10588446163210,696,Motionscykel TUNTURI Centuri E100,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,3,64
+10588446523658,697,Träningshandskar TREC #24 / DAMHANDSKAR GRÅ S,ACTIVE,Trec,Konditionsträning & Fitness,ingar,,3,25
+10588446556426,698,Träningshandskar TREC #02 GLOVES GEL SHOCK SVART L,ACTIVE,Trec,Konditionsträning & Fitness,ingar,,3,62
+10588446589194,699,TUNTURI PE Kettlebell 16kg,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: pilot 20,4,266
+10588446621962,700,Träningshandskar TREC #24 / HANDSKAR DAM GRÅ S,ACTIVE,Trec,Konditionsträning & Fitness,ingar,,5,25
+10588446687498,701,Träningshandskar TREC #23 / Damhandskar VIT XS,ACTIVE,Trec,Konditionsträning & Fitness,ingar,,3,26
+10588446720266,702,Träningshandskar TREC #23 / Handskar dam vit XS,ACTIVE,Trec,Konditionsträning & Fitness,ingar,,3,26
+10588446851338,703,"Massagerulle TUNTURI Yoga Grid Foam Roller, 33cm, Ljusblå",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),10,39
+10588447342858,704,"Träningsboll TUNTURI Gym Ball 65cm, Anti-Burst, Rose Gold",DRAFT,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),17,118
+10588447473930,705,"Handledviktsmanschetter TUNTURI Handledviktsmanschetter 0,5 kg",ACTIVE,Tunturi,"Extra vikter, tillbehör",undantag,UNDANTAG: våg 1 (86),32,257
+10588447539466,706,"Magträningshjul TUNTURI Pro Exercise Wheel Deluxe, med knäskydd",ACTIVE,Tunturi,Magträningshjul,undantag,UNDANTAG: våg 1 (86); SÄKERHET/HÄLSOORD: barnprodukt,33,139
+10588447572234,707,Skivstångsdyna för nacken TUNTURI Pro Barpad Deluxe,ACTIVE,Tunturi,Vikter och tillbehör,undantag,UNDANTAG: våg 1 (86),49,250
+10588448129290,708,TUNTURI Rapid Justerbar Hantelstång 11kg,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,76
+10588451471626,709,"Viktväska TUNTURI Platinum Bulgarian Bag, 10 kg",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,46
+10588451602698,710,"TUNTURI Platinum Slam Ball, 6 kg",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),3,41
+10588451635466,711,"Kettlebell TUNTURI Platinum Competition, 12 kg",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: pilot 20,7,126
+10588451897610,712,"Rullskridskor FILA Argon 84 Lady, Svart/Magenta",ACTIVE,Fila,Utomhusträning,ingar,,10,42
+10588451930378,713,"Rullskridskor FILA Legacy Pro 80 Lady, Svart/Violett",ACTIVE,Fila,Utomhusträning,ingar,,6,201
+10589703241994,714,Powerstation HAMMER Autark 5.0,ACTIVE,Finnlo by Hammer,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,0,107
+10589704421642,715,Stepper TOORX Everfit Step Twist,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,3,45
+10589705371914,716,Löpband BH FITNESS Luxor LX30,ACTIVE,BH Fitness,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,166
+10589705568522,717,BH FITNESS Weight Bench,ACTIVE,BH Fitness,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,63
+10589705797898,718,Crosstrainer HAMMER Loxon XTR,ACTIVE,Hammer,Crosstrainers,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,0,107
+10589706092810,719,Spinningcykel HAMMER Speed Race X,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,2,79
+10589715104010,720,Motionscykel BH FITNESS XTB,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,1,86
+10598555549962,721,Treadmill TOORX Mirage S80,ACTIVE,Toorx,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,0,134
+10598555582730,722,Rullskridskor NILS EXTREME NF102,ACTIVE,Toorx,Skridskor,granska,"SÄKERHET/HÄLSOORD: sparkcykel/skridskor/skidor (troligen barn, granska); SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin",1,60
+10598555615498,723,Roddmaskin TOORX Rower Master,ACTIVE,Toorx,Konditionsträning & Fitness,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,77
+10598559842570,724,TUNTURI Platinum - Träningsbänk - V-Series,ACTIVE,Tunturi,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,2,99
+10598559875338,725,TUNTURI Platinum - Benspark - Viktmagasin V-Series,ACTIVE,Tunturi,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,1,100
+10598559908106,726,TUNTURI Platinum - Bröstpress - Viktmagasin V-Series,DRAFT,Tunturi,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,115
+10598560039178,727,TUNTURI Platinum - Multipress Styrketräningsstation - Viktmagasin V-Series,ACTIVE,Tunturi,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,101
+10598560104714,728,TUNTURI Platinum - Horisontell bröstpress - Platladdad - V-Series,DRAFT,Tunturi,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,93
+10598560170250,729,TUNTURI Platinum - Sittande Roddmaskin för Styrketräning - Platladdad - V-Series,DRAFT,Tunturi,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,95
+10598560203018,730,TUNTURI Platinum - Bred Latsdrag Styrketräningsstation - Platladdad - V-Series,ACTIVE,Tunturi,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,111
+10598560301322,731,TUNTURI Platinum - Bred bröstpress styrketräningsstation - viktbelastad - V-Series,DRAFT,Tunturi,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,92
+10598560366858,732,TUNTURI Platinum - Justerbar T-bar Row - Platladdad - V-Series,DRAFT,Tunturi,Professionell utrustning,granska_ej_aktiv,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,96
+10598560399626,733,TUNTURI Platinum - Axelpress Styrketräningsstation - Selectorized V-Series,DRAFT,Tunturi,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,1,110
+10605354254602,734,"Yogamatta TUNTURI TPE Yogamat 4mm, lila",ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),11,47
+10605354713354,735,Crosstrainer TUNTURI Platinum CT20,ACTIVE,Tunturi,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,1,60
+10605355172106,736,Viktväst TUNTURI Weight Vest Pro 30kg,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,121
+10605381550346,737,Motionscykel BH FITNESS XTB MED,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,1,127
+10605381583114,738,BH Fitness XTR MED motionscykel med ryggstöd,ACTIVE,Velomarket,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,1,119
+10605381615882,739,BH Fitness XTR Multimedia 16 motionscykel med ryggstöd,ACTIVE,Velomarket,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,1,135
+10605384139018,740,Kabeltorn HAMMER Kabeltorn 4.0 Dubbel,ACTIVE,Hammer,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,0,79
+10605384171786,741,Extra vikter för kabeltorn HAMMER Cable Tower 4.0 Vikter 20 kg,ACTIVE,Hammer,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,0,52
+10605384270090,742,Kabeltornsförlängning HAMMER Cable Tower 4.0 Connector,ACTIVE,Hammer,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,0,70
+10605384499466,743,Skiergometer HAMMER MAXIMUM SpeedSKI Competition,ACTIVE,Hammer,Professionell utrustning,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,116
+10605384761610,744,Roddmaskin HAMMER MAXIMUM SpeedROW Competition,ACTIVE,Hammer,Professionell utrustning,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,102
+10605384892682,745,Viktbänk HAMMER Force 5.0,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,73
+10605385056522,746,Roddmaskin TUNTURI Fluid Rower Apollo Plus,ACTIVE,Tunturi,Konditionsträning & Fitness,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,85
+10605385122058,747,Roddmaskin TUNTURI Fluid Rower Neon Plus Svart,ACTIVE,Tunturi,Konditionsträning & Fitness,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,220
+10612569211146,748,TUNTURI Door-Way Chinning Bar,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),16,153
+10612574191882,749,Löpband BH FITNESS RS1000 TFT,ACTIVE,BH Fitness,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,0,94
+10612579533066,750,Löpband TUNTURI Cardio Fit T60,DRAFT,Tunturi,Konditionsträning & Fitness,handhavd,"HANDHAVD (handhavd_ids.txt): avvisad av granskare: Löpband Tunturi Cardio Fit T60, hopfällbart; SÄKERHET/HÄLSOORD: batteri/motor/elektronik",8,104
+10612581990666,751,Motionscykel BH FITNESS Carbon Bike RS Multimedia,ACTIVE,BH Fitness,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,0,90
+10612594311434,752,BH Fitness XTR motionscykel med ryggstöd,ACTIVE,Velomarket,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,122
+10612594344202,753,Motionscykel BH Fitness XTB Multimedia,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,116
+10612594442506,754,Elliptisk träningscykel BH Fitness Easy Flex,ACTIVE,BH Fitness,Crosstrainers,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,0,125
+10612594573578,755,Kabeltorn HAMMER Kabeltorn 4.0,ACTIVE,Hammer,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,0,101
+10612594606346,756,Kabeltorn HAMMER Kabeltorn 4.0 NorsK,ACTIVE,Hammer,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,0,125
+10624082641162,757,"Gymnastikmatta TOORX Mat med handtag, blå",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),3,29
+10624082673930,758,"Gymnastikmatta TOORX Mat med handtag, lila",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,29
+10624082968842,759,"Träningshandskar TOORX Tyngdlyftningshandskar, svart",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),3,31
+10624084115722,760,"Gymnastikgummiband TOORX Elastic Band, Strong, lila",ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,21
+10624084148490,761,Boxningssäck TOORX Fastball för WBX-70,ACTIVE,Toorx,Konditionsträning & Fitness,ingar,,1,4
+10624084377866,762,Motionscykel HAMMER Speed Race S,DRAFT,Hammer,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,2,121
+10624086507786,763,Motionscykel HAMMER Speed Race,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,3,77
+10624087458058,764,Kabeltorn HAMMER Kabeltorn 4.0 Dubbel NorsK,ACTIVE,Hammer,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,0,100
+10635764498698,765,Spinning bike TOORX SRX-50S,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,2,66
+10635766006026,766,Spinningcykel BH FITNESS Nytro,DRAFT,BH Fitness,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,69
+10635766104330,767,Crosstrainer BH FITNESS Crystal 2.0,ACTIVE,BH Fitness,Crosstrainers,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,108
+10635766137098,768,Crosstrainer BH FITNESS Crystal 2.0 Multimedia,ACTIVE,BH Fitness,Crosstrainers,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,110
+10635766169866,769,BH FITNESS Multigym Plus Svart,ACTIVE,BH Fitness,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,69
+10635766202634,770,Träningsstation BH FITNESS Nevada Plus,ACTIVE,BH Fitness,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,84
+10635767382282,771,BH FITNESS Power Rack träningsställning,ACTIVE,BH Fitness,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,52
+10650165772554,772,Fristående boxningssäck TUNTURI,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,121
+10650166690058,773,Motionscykel HAMMER Cardio Motion BT,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,119
+10650166755594,774,Roddmaskin HAMMER RowTech NorsK,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,3,107
+10650166853898,775,Trampolin HAMMER Cross Jump 98cm,ACTIVE,Hammer,Utomhusträning,undantag,UNDANTAG: våg 1 (86),3,121
+10650169180426,776,Crosstrainer HAMMER SpeedMotion II,ACTIVE,Hammer,Crosstrainers,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,85
+10650169213194,777,Gym HAMMER Multigym Ferrum TX2,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,131
+10650169475338,778,Kettlebell HAMMER Premium 14kg,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),4,44
+10650169508106,779,"Träningsmatta HAMMER Puzzlemat Basic, 120 x 185 x 1,2 cm",ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),3,50
+10650169573642,780,"Träningsmatta HAMMER Professional Floor Mat, L",ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),8,36
+10650173636874,781,Jõujaam BH FITNESS Power Cage & Lat Pull Down,ACTIVE,BH Fitness,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,58
+10650174030090,782,BH FITNESS Power Cage,DRAFT,BH Fitness,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,58
+10650208370954,783,Motionscykel BH FITNESS Ergo EMS,ACTIVE,BH Fitness,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,0,103
+10650208502026,784,Treadmill BH FITNESS LX50,ACTIVE,BH Fitness,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,0,143
+10650208633098,785,Treadmill BH FITNESS RS1000,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,134
+10650208895242,786,Elliptisk träningsmaskin BH FITNESS Movemia EV1000 LED,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,170
+10650209059082,787,Löpband BH FITNESS Movemia TR1000,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,186
+10650209976586,788,Löpband BH FITNESS Inertia G788,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,146
+10650210369802,789,"Viktplatta HAMMER Bumper Plate, Röd, 50mm, 2.5 kg",ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),7,147
+10650210402570,790,"Justerbar hantel HAMMER SmartLock, 20 kg",ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: våg 1 (86),4,96
+10650210435338,791,Kettlebell HAMMER Premium 24kg,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,49
+10650210468106,792,Kettlebell HAMMER Premium 4kg,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),4,49
+10650210500874,793,"Leverlås HAMMER Quick Locks, Röd",ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,95
+10650210533642,794,"Hammar snabblås för skivstång, svart aluminium",ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: lås,2,94
+10650210566410,795,"HAMMER snabblås för skivstång, Premium Svart Aluminium",ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: lås,2,93
+10650210599178,796,Lever locks HAMMER FastLock,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,115
+10650210664714,797,"Lyftstång HAMMER Skivstång, 183 cm, 250 kg, 50 mm",ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,147
+10650210730250,798,"Lyftstång HAMMER Premium SZ-Curl Bar, 225 kg, 50mm",ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,154
+10650210763018,799,HAMMER Barbell Shoulder Pad,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,78
+10650210795786,800,"Träningsboll TUNTURI Gymball 65cm, Anti Burst, Silver",DRAFT,Tunturi,Konditionsträning & Fitness,ingar_ej_aktiv,,1,119
+10650210861322,801,Gymnastikmatta HAMMER 2in1 Fitness & Träningsmatta,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),2,121
+10656688275722,802,"Hantel TUNTURI Platinum Hex Gummibelagd Hantel, 37,5 kg",ACTIVE,Tunturi,Professionell utrustning,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,2,56
+10656688308490,803,"Hantel TUNTURI Platinum Hex Gummibelagd Hantel, 37,5 kg",ACTIVE,Tunturi,Professionell utrustning,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,2,56
+10656688341258,804,"Hantel TUNTURI Platinum Hex Gummibelagd Hantel, 37,5 kg",ACTIVE,Tunturi,Professionell utrustning,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,2,56
+10656690864394,805,Elliptisk träningsmaskin BH FITNESS Movemia ERV1000 LED,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,170
+10656690897162,806,Löpband BH FITNESS RCM Pro,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,157
+10656690929930,807,Löpband BH FITNESS RCM Pro TFT,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,148
+10656690962698,808,Elliptisk träningsmaskin BH FITNESS Movemia ERV1000 LED,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,170
+10656690995466,809,BH Fitness motionscykel Movemia BR1000R LED med ryggstöd,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,180
+10656691028234,810,BH Fitness motionscykel Movemia BR1000R LED med ryggstöd,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,180
+10656691061002,811,Löpband BH FITNESS RCM Pro,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,157
+10656691093770,812,Löpband BH FITNESS RCM Pro TFT,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,148
+10656691126538,813,Treadmill BH FITNESS LX90,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,207
+10656691159306,814,Elliptisk träningsmaskin BH FITNESS Movemia EC1000,ACTIVE,BH Fitness,Professionell utrustning,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,168
+10656691192074,815,Elliptisk träningsmaskin BH FITNESS Movemia EC1000,ACTIVE,BH Fitness,Professionell utrustning,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,168
+10656691224842,816,Elliptisk träningsmaskin BH FITNESS Movemia EC1000,ACTIVE,BH Fitness,Professionell utrustning,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,168
+10656691257610,817,Crosstrainer BH FITNESS Movemia ER1000R,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,176
+10656691290378,818,Elliptisk träningsmaskin BH FITNESS Movemia ER1000R,ACTIVE,BH Fitness,Professionell utrustning,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,174
+10656691323146,819,Elliptisk träningsmaskin BH FITNESS Movemia ER1000R,ACTIVE,BH Fitness,Professionell utrustning,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,178
+10656691355914,820,Löpband BH FITNESS Movemia TR800 LED,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,170
+10656691421450,821,Löpband BH FITNESS Movemia TR800 LED,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,170
+10656691454218,822,Spinningcykel BH FITNESS Stratos,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,1,70
+10656691519754,823,Spinningcykel BH FITNESS Stratos,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,1,70
+10656691552522,824,Motionscykel BH FITNESS Lyon Climber Multimedia,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,1,94
+10656691585290,825,Motionscykel BH FITNESS Lyon Climber Multimedia,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,1,94
+10656691618058,826,Motionscykel BH FITNESS Lyon Climber Multimedia,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,1,94
+10656691650826,827,Motionscykel BH FITNESS Lyon Climber,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,1,102
+10656691683594,828,Motionscykel BH FITNESS Lyon Climber,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,1,102
+10656691716362,829,Träningscykel BH FITNESS Lyon Climber,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,1,102
+10656691749130,830,Power station BH FITNESS Power Tower,ACTIVE,BH Fitness,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,70
+10656691781898,831,Power station BH FITNESS Power Tower,ACTIVE,BH Fitness,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,70
+10656691814666,832,Roddmaskin BH FITNESS Cardiff,ACTIVE,BH Fitness,Professionell utrustning,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,1,108
+10656691847434,833,Löpband BH FITNESS LX50 Multimedia,ACTIVE,BH Fitness,Konditionsträning & Fitness,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,0,164
+10656691945738,834,Löpband BH FITNESS Inertia G588,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,168
+10656691978506,835,Motionscykel HAMMER MAXIMUM Presidio,ACTIVE,Hammer,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,1,79
+10656692011274,836,Motionscykel HAMMER Cardio XT7,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,73
+10656692076810,837,"Viktplatta HAMMER Octagon Viktplatta, 50mm, 2.5 kg",ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),4,142
+10656692404490,838,Löpband BH FITNESS Inertia G788,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,163
+10656692470026,839,Löpband BH FITNESS Inertia G688 LED,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,172
+10656692502794,840,Löpband BH FITNESS LX90 Multimedia,ACTIVE,BH Fitness,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,206
+10665225912586,841,Spinningcykel TOORX SRX Speed Mag,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,66
+10665225945354,842,Spinningcykel TOORX SRX Speed Mag,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,66
+10665225978122,843,Spinningcykel TOORX SRX Speed Mag,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,66
+10665226010890,844,Spinningcykel TOORX SRX Speed Mag,ACTIVE,Toorx,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,66
+10665231417610,845,Spinningcykel HAMMER HyRace SR,ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,82
+10665231515914,846,Crosstrainer HAMMER Crossfly BT,ACTIVE,Hammer,Crosstrainers,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,129
+10665232335114,847,Treadmill BH FITNESS Nydo,ACTIVE,BH Fitness,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: batteri/motor/elektronik,3,138
+10673146921226,848,"Roddmaskin FLUID Viking Pro XL, trä",ACTIVE,Tunturi,Professionell utrustning,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,177
+10673147085066,849,"Roddmaskin FLUID Viking 3 XL, trä",ACTIVE,Tunturi,Konditionsträning & Fitness,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,242
+10673147412746,850,Surfplattahållare för FLUID Mega och Apollo Pro roddmaskiner,ACTIVE,Tunturi,Konditionsträning & Fitness,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,82
+10673147445514,851,"Roddmaskin FLUID Viking 3 XL, trä",ACTIVE,Tunturi,Konditionsträning & Fitness,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,242
+10673147511050,852,Surfplattahållare för FLUID Mega och Apollo Pro roddmaskiner,ACTIVE,Tunturi,Konditionsträning & Fitness,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,82
+10673147609354,853,"Roddmaskin FLUID Viking Pro XL, trä",ACTIVE,Tunturi,Professionell utrustning,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,177
+10673147838730,854,Surfplattahållare för FLUID Mega och Apollo Pro roddmaskiner,ACTIVE,Tunturi,Konditionsträning & Fitness,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,82
+10673149411594,855,Handtag med pulssensorer för V- och XL-modeller av FLUID roddmaskiner,ACTIVE,Tunturi,Konditionsträning & Fitness,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,67
+10673149542666,856,Handtag med pulssensorer för V- och XL-modeller av FLUID roddmaskiner,ACTIVE,Tunturi,Konditionsträning & Fitness,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,66
+10673149673738,857,Ryggstöd för FLUID roddmaskiner,ACTIVE,Tunturi,Konditionsträning & Fitness,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,71
+10673149739274,858,Ryggstöd för FLUID roddmaskiner,ACTIVE,Tunturi,Konditionsträning & Fitness,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,69
+10673149804810,859,Ryggstöd för FLUID roddmaskiner,ACTIVE,Tunturi,Konditionsträning & Fitness,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,69
+10673173725450,860,Styrketräningsstation TUNTURI Platinum - Hip Thrust Styrketräningsstation - Platladdad V-Series,DRAFT,Tunturi,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,88
+10673174741258,861,Smithmaskin TUNTURI SM70 Smith Machine,ACTIVE,Tunturi,Professionell utrustning,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last; SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,103
+10673179525386,862,Elliptisk träningscykel HAMMER Crosstech XTR BT,ACTIVE,Hammer,Crosstrainers,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,138
+10673179623690,863,Elliptisk träningscykel HAMMER Ellypsis E3500,ACTIVE,Hammer,Crosstrainers,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1,112
+10673179656458,864,"Lyftstång HAMMER Maximum PRO 800kg, 220cm, 50mm",ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,116
+10673179721994,865,"Lyftstång HAMMER Olympic Barbell 700kg, 222cm, 50mm",ACTIVE,Hammer,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,173
+10673180147978,866,Roddmaskin TUNTURI Signature R20,ACTIVE,Tunturi,Konditionsträning & Fitness,granska,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,0,86
+10676602732810,867,Roddmaskin TUNTURI FitRow 90i by Fluid,ACTIVE,Tunturi,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp); SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,6,71

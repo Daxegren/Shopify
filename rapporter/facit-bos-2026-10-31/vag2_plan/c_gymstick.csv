@@ -1,0 +1,370 @@
+id,nr,titel,status_live,vendor,typ,kategori,skal,lager_2026_10_25,beskr_ord
+10411728240906,1,Träningsboll GYMSTICK Träningsboll 65 cm,ACTIVE,Gymstick,Träningsbollar,ingar,,1,150
+10472257913098,2,"Hantel GYMSTICK Hantel 35 cm, 2 kg, 30 mm",ACTIVE,Gymstick,Konditionsträning & Fitness,ingar,,1,0
+10472258404618,3,Träningshandskar Gymstick Workout gloves S/M,ACTIVE,Gymstick,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,35
+10472258699530,4,Massage roller GYMSTICK Active Mini Massager,ACTIVE,Gymstick,Konditionsträning & Fitness,ingar,,1,46
+10472281768202,5,"Hantel GYMSTICK Studio hantel 3 kg, röd",ACTIVE,Gymstick,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),3,21
+10472282456330,6,Medicinboll med handtag GYMSTICK 4kg,ACTIVE,Gymstick,Konditionsträning & Fitness,ingar,,1,9
+10472282489098,7,Hopprep GYMSTICK Läder Hopprep,ACTIVE,Gymstick,Konditionsträning & Fitness,ingar,,1,16
+10472287469834,8,Lyftstångsset GYMSTICK Pump Set 20 kg rosa,ACTIVE,Gymstick,Konditionsträning & Fitness,undantag,UNDANTAG: experiment 1 (kontrollgrupp),1,76
+10581095743754,9,"Aktiv 2-toners träningsmatta, blå-svart",ACTIVE,Gymstick,,ingar,,360,60
+10581095809290,10,Active Adjustable Hand Grip,ACTIVE,Gymstick,,ingar,,419,51
+10581095842058,11,Aktiva ankel- och handledsvikter 2 x 1 kg,ACTIVE,Gymstick,,ingar,,39,60
+10581095874826,12,Active Cold Massager,ACTIVE,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: massagepistol/massage,126,51
+10581095907594,13,"Aktiv tunnrulle 33cm, svart",ACTIVE,Gymstick,,ingar,,3,47
+10581095940362,14,Active Exercise Ball 65cm,ACTIVE,Gymstick,,ingar,,270,53
+10581095973130,15,Active Exercise Ball 75cm,ACTIVE,Gymstick,,ingar,,290,63
+10581096005898,16,Active Finger Expander Set 2pcs,ACTIVE,Gymstick,,ingar,,677,73
+10581096038666,17,Active Foam Hand Grips,ACTIVE,Gymstick,,ingar,,2103,91
+10581096104202,18,Active Grip Ring Set,ACTIVE,Gymstick,,ingar,,939,63
+10581096136970,19,Active Massage Hook,ACTIVE,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: massagepistol/massage,255,47
+10581096169738,20,Active Jump Rope 275cm,ACTIVE,Gymstick,,ingar,,708,66
+10581096235274,21,Active Mini Bands Set 2pcs,ACTIVE,Gymstick,,ingar,,924,59
+10581096300810,22,Active Mini Massager,ACTIVE,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: massagepistol/massage,1461,58
+10581096333578,23,Active Mini Massage Ball,ACTIVE,Gymstick,,ingar,,975,53
+10581096366346,24,Active Neck Massager,DRAFT,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: massagepistol/massage,2342,55
+10581096399114,25,Active Pilates Ball 20cm,ACTIVE,Gymstick,,ingar,,770,43
+10581096431882,26,Active Posture Belt,DRAFT,Gymstick,,ingar_ej_aktiv,,689,46
+10581096464650,27,Active Power Band Light,ACTIVE,Gymstick,,ingar,,778,47
+10581096497418,28,Active Power Hand Grip 30kg,ACTIVE,Gymstick,,ingar,,158,56
+10581096530186,29,Active Recovery Ball 10cm,ACTIVE,Gymstick,,ingar,,151,60
+10581096562954,30,Active Spike Mat,ACTIVE,Gymstick,,ingar,,301,51
+10581096595722,31,Active Recovery Twin Ball,ACTIVE,Gymstick,,ingar,,259,67
+10581096694026,32,Active Stress Ball Set 2pcs,ACTIVE,Gymstick,,ingar,,1555,78
+10581096726794,33,Active Telescopic Walker,DRAFT,Gymstick,,ingar_ej_aktiv,,390,65
+10581096759562,34,"Aktiv Träningsmatta, Svart",ACTIVE,Gymstick,,ingar,,2,60
+10581096792330,35,Active Trekking Poles,DRAFT,Gymstick,,ingar_ej_aktiv,,43,55
+10581096923402,36,Aktiva vinylhantlar 2 x 1 kg,ACTIVE,Gymstick,,ingar,,719,24
+10581096956170,37,Active Workout Roller,ACTIVE,Gymstick,,ingar,,403,44
+10581096988938,38,Active Workout Band Set 3pcs,ACTIVE,Gymstick,,ingar,,977,77
+10581097054474,39,Aktiv träningsslang med dörrankare,ACTIVE,Gymstick,,undantag,UNDANTAG: facit 30,160,19
+10581100101898,40,"Basketkorgsnät, röd-vit-blå",DRAFT,Gymstick,,ingar_ej_aktiv,,43,47
+10581100134666,41,Court Champ Portable Basketball Hoop,DRAFT,Gymstick,,ingar_ej_aktiv,,16,69
+10581100200202,42,Court Classic Dartboard Set,DRAFT,Gymstick,,ingar_ej_aktiv,,275,46
+10581100265738,43,Court Floorball Goal,ACTIVE,Gymstick,,ingar,,53,46
+10581100331274,44,Court Floorball Goal Net,ACTIVE,Gymstick,,ingar,,8,38
+10581100364042,45,Court Football Goal Net,ACTIVE,Gymstick,,ingar,,16,41
+10581100396810,46,Court Football Goal,ACTIVE,Gymstick,,ingar,,128,48
+10581100626186,47,Court Football Trainer,DRAFT,Gymstick,,ingar_ej_aktiv,,1287,51
+10581100658954,48,Court Icehockey Goal,ACTIVE,Gymstick,,ingar,,291,45
+10581100757258,49,Court Icehockey Goal Net,ACTIVE,Gymstick,,ingar,,9,58
+10581100790026,50,Court Layup Hoop,DRAFT,Gymstick,,ingar_ej_aktiv,,28,52
+10581100822794,51,Court Mini Goal,ACTIVE,Gymstick,,ingar,,158,79
+10581100888330,52,Court Mini Goal Net,ACTIVE,Gymstick,,ingar,,7,47
+10581100921098,53,Court Mini Hoop,ACTIVE,Gymstick,,ingar,,702,54
+10581101019402,54,Court Premium Portable Basketball Hoop,DRAFT,Gymstick,,ingar_ej_aktiv,,9,62
+10581101084938,55,Court Proshot Dartboard,ACTIVE,Gymstick,,ingar,,195,51
+10581101117706,56,Court Prestige Dart Set,ACTIVE,Gymstick,,ingar,,74,58
+10581101183242,57,Court Rim Hoop,DRAFT,Gymstick,,ingar_ej_aktiv,,96,50
+10581101216010,58,Court Rookie Portable Basketball Hoop,DRAFT,Gymstick,,ingar_ej_aktiv,,73,65
+10581101248778,59,Court Stealth Tungsten 90 Dartset 23g,DRAFT,Gymstick,,ingar_ej_aktiv,,1,47
+10581101281546,60,Court Stealth Tungsten 90 Dartset 21g,ACTIVE,Gymstick,,ingar,,49,51
+10581101347082,61,Court Stealth Tungsten 90 Dartset 25g,DRAFT,Gymstick,,ingar_ej_aktiv,,31,60
+10581101609226,62,"1,2 kg Hula Hoop med fog",ACTIVE,Gymstick,,ingar,,715,72
+10581101641994,63,10kg Curved Bar,ACTIVE,Gymstick,,ingar,,339,61
+10581101674762,64,10kg Lifting Bar,ACTIVE,Gymstick,,ingar,,71,64
+10581101707530,65,"2-i-1 Greppring, Ljus",DRAFT,Gymstick,,ingar_ej_aktiv,,2185,45
+10581101838602,66,50kg Vinyl Weight Set,ACTIVE,Gymstick,,ingar,,81,43
+10581101936906,67,7kg Curved Bar,ACTIVE,Gymstick,,ingar,,63,61
+10581102002442,68,60 kg vinyl skivstångs- och hantelset,ACTIVE,Gymstick,,ingar,,224,59
+10581102035210,69,Ab Crunch Strap,ACTIVE,Gymstick,,ingar,,33,53
+10581102067978,70,Ab Mat,ACTIVE,Gymstick,,ingar,,202,74
+10581102199050,71,Adjustable Hand Grip with Counter,ACTIVE,Gymstick,,ingar,,185,58
+10581102231818,72,Adjustable Dumbbell Set 15kg,ACTIVE,Gymstick,,ingar,,934,41
+10581104230666,73,"Justerbart handtag, lätt",ACTIVE,Gymstick,,ingar,,2245,63
+10581104263434,74,Aerobic Stepper,ACTIVE,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,162,42
+10581104296202,75,Air Bike Pro,DRAFT,Gymstick,,ingar_ej_aktiv,,1290,54
+10581104328970,76,Air Ski Trainer Pro,DRAFT,Gymstick,,ingar_ej_aktiv,,15,48
+10581104361738,77,Air Rower Pro,DRAFT,Gymstick,,granska_ej_aktiv,SÄKERHET/HÄLSOORD: granska: professionell utrustning/roddmaskin,139,50
+10581104427274,78,"Air Track 300 x 100 x 10cm, Svart-Röd",ACTIVE,Gymstick,,ingar,,213,70
+10581104460042,79,Alpha J-Cup,ACTIVE,Gymstick,,ingar,,41,52
+10581104492810,80,"Aluminiumhalsband 50mm, svart",ACTIVE,Gymstick,,ingar,,767,45
+10581104525578,81,Aluminum Hand Grip 100LB,ACTIVE,Gymstick,,ingar,,386,45
+10581104558346,82,Ankle Straps PR,ACTIVE,Gymstick,,ingar,,308,63
+10581104591114,83,Ankle/Wrist Weight 2 x 1kg,ACTIVE,Gymstick,,ingar,,552,57
+10581104623882,84,"Fotledsstöd 1.0, En storlek",ACTIVE,Gymstick,,ingar,,453,62
+10581104656650,85,Anti-Stress Ball 3pcs,ACTIVE,Gymstick,,ingar,,428,51
+10581104689418,86,Ankle/Wrist Weight 2 x 2kg,ACTIVE,Gymstick,,ingar,,392,60
+10581104722186,87,Bag Gloves 12oz,ACTIVE,Gymstick,,ingar,,317,52
+10581104754954,88,Back Support 2.0 Large/Extra Large,ACTIVE,Gymstick,,ingar,,181,64
+10581104787722,89,Balance Board,ACTIVE,Gymstick,,ingar,,13,37
+10581104820490,90,Balance Disc,ACTIVE,Gymstick,,ingar,,260,47
+10581104853258,91,Barbell Pad,ACTIVE,Gymstick,,ingar,,923,59
+10581104886026,92,Balance Trainer Pro,ACTIVE,Gymstick,,ingar,,261,45
+10581104918794,93,Barbell Pad Pro,ACTIVE,Gymstick,,ingar,,127,59
+10581104951562,94,Battle Rope Wall-/Floor Mount,ACTIVE,Gymstick,,ingar,,105,49
+10581105017098,95,Bounce-Back Hurdle  66-105cm,ACTIVE,Gymstick,,ingar,,28,51
+10581105049866,96,Boxing Gloves 10oz,ACTIVE,Gymstick,,ingar,,384,51
+10581105082634,97,Boxing Hand Wraps,ACTIVE,Gymstick,,ingar,,388,46
+10581105115402,98,Cable Pulley System,ACTIVE,Gymstick,,ingar,,63,56
+10581105180938,99,Cold Massager,ACTIVE,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: massagepistol/massage,107,53
+10581105213706,100,Cohesive Bandage Tape 2pcs,ACTIVE,Gymstick,,ingar,,113,56
+10581105246474,101,Komfortmatta 160 x 60 cm - Fresh Mint,DRAFT,Gymstick,,ingar_ej_aktiv,,753,55
+10581105279242,102,Komfortmatta 160 x 60cm - Modern Sand,DRAFT,Gymstick,,ingar_ej_aktiv,,1023,63
+10581105312010,103,Komfortmatta 160 x 60cm - Himmelblå,DRAFT,Gymstick,,ingar_ej_aktiv,,1303,42
+10581105344778,104,Komfortmatta 160 x 60cm - Urban Grey,DRAFT,Gymstick,,ingar_ej_aktiv,,1203,64
+10581105377546,105,Komfortmatta 180 x 60cm - Himmelblå,DRAFT,Gymstick,,ingar_ej_aktiv,,797,62
+10581105443082,106,Komfortmatta 180 x 60cm - Twisted Pink,ACTIVE,Gymstick,,ingar,,984,57
+10581105541386,107,Connector - liitoskappale (varaosa),ACTIVE,Gymstick,,ingar,,1288,49
+10581105574154,108,Competition Kettlebell 12kg,ACTIVE,Gymstick,,ingar,,498,61
+10581105606922,109,Core Twister,ACTIVE,Gymstick,,ingar,,781,47
+10581105672458,110,Core Roller 45cm,ACTIVE,Gymstick,,ingar,,564,43
+10581105705226,111,Crank Bike X4,ACTIVE,Gymstick,,ingar,,104,49
+10581105737994,112,Cork Standing Mat,ACTIVE,Gymstick,,ingar,,40,52
+10581105770762,113,Dörrankare för Pro träningsband,ACTIVE,Gymstick,,ingar,,1,55
+10581105803530,114,Dip Station for Wall Bars,ACTIVE,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,325,58
+10581105836298,115,Double Action Pump,ACTIVE,Gymstick,,ingar,,907,61
+10581105869066,116,Door Gym Bar - Black,ACTIVE,Gymstick,,ingar,,1312,67
+10581105901834,117,"Armbågsstöd 1.0, En storlek",ACTIVE,Gymstick,,ingar,,230,46
+10581105934602,118,Ergo Kettlebell 10kg,ACTIVE,Gymstick,,ingar,,951,52
+10581105967370,119,Exercise Ball 55cm,ACTIVE,Gymstick,,ingar,,88,59
+10581106000138,120,Exercise Ball 65cm,ACTIVE,Gymstick,,ingar,,408,38
+10581106032906,121,Exercise Ball 75cm,ACTIVE,Gymstick,,ingar,,326,45
+10581106065674,122,Exercise Band Set,ACTIVE,Gymstick,,ingar,,171,48
+10581106098442,123,Exercise Tube Set (3-in-1),ACTIVE,Gymstick,,ingar,,140,72
+10581106131210,124,Träningsboll 2 x 1 kg,ACTIVE,Gymstick,,ingar,,79,56
+10581106163978,125,Fascia Ball Cork,ACTIVE,Gymstick,,ingar,,587,51
+10581106196746,126,"Tyg mini-band, Lätt",ACTIVE,Gymstick,,ingar,,707,45
+10581106229514,127,Fascia Gun,ACTIVE,Gymstick,,ingar,,1696,46
+10581106295050,128,Fascia Roller,ACTIVE,Gymstick,,ingar,,407,43
+10581106360586,129,Fascia Roll Cork,ACTIVE,Gymstick,,ingar,,24,48
+10581106393354,130,Finger Expander Set 3pcs,ACTIVE,Gymstick,,ingar,,349,41
+10581106426122,131,Figure 8 Straps,ACTIVE,Gymstick,,ingar,,322,51
+10581106458890,132,Fitness Ball 65cm,ACTIVE,Gymstick,,ingar,,211,67
+10581106491658,133,Fitness Bag 10kg,ACTIVE,Gymstick,,ingar,,294,48
+10581106524426,134,Fitness Trampoline,ACTIVE,Gymstick,,ingar,,149,54
+10581106557194,135,Flip-Lock Collars 30mm,ACTIVE,Gymstick,,ingar,,974,50
+10581106622730,136,"Golvskyddsmatta 160 x 80 x 0,6 cm",ACTIVE,Gymstick,,ingar,,862,58
+10581106655498,137,"Golvskyddsmatta 250 x 80 x 0,6 cm",ACTIVE,Gymstick,,ingar,,317,54
+10581106688266,138,"Golvskyddsmatta 200 x 100 x 0,6 cm",ACTIVE,Gymstick,,ingar,,801,68
+10581106753802,139,FlowBall 65cm,ACTIVE,Gymstick,,ingar,,385,54
+10581106786570,140,"Vikbar gymmatta 180 x 60 x 4 cm, blå",ACTIVE,Gymstick,,ingar,,271,67
+10581106819338,141,"Hopfällbar Gymmatta 120 x 60 x 5 cm, Svart",ACTIVE,Gymstick,,ingar,,365,56
+10581106852106,142,"Hopfällbar gymmatta 200 x 100 x 5 cm, svart",ACTIVE,Gymstick,,ingar,,333,33
+10581106884874,143,"Vikbar Gymmatta 300 x 120 x 5 cm, Svart",ACTIVE,Gymstick,,ingar,,71,69
+10581106917642,144,"Motionscykel GB3.0, Svart-Vit",ACTIVE,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,37,58
+10581106950410,145,Functional Trainer,ACTIVE,Gymstick,,ingar,,599,47
+10581106983178,146,Go Walker 105cm (black-white),ACTIVE,Gymstick,,ingar,,215,59
+10581107015946,147,"Glasvattenflaska 0,6L - Svart",ACTIVE,Gymstick,,ingar,,2788,55
+10581107048714,148,Go Walker 115cm (black-white),ACTIVE,Gymstick,,ingar,,115,57
+10581107081482,149,Go Walker 110cm (black-white),ACTIVE,Gymstick,,ingar,,193,58
+10581107114250,150,Go Walker 120cm (black-white),ACTIVE,Gymstick,,ingar,,156,60
+10581107147018,151,Go Walker 125cm (black-white),ACTIVE,Gymstick,,ingar,,65,72
+10581107245322,152,GS Beanie (black),ACTIVE,Gymstick,,ingar,,225,50
+10581107278090,153,GS Gymbag,ACTIVE,Gymstick,,ingar,,239,67
+10581107310858,154,GS Snapback (black),ACTIVE,Gymstick,,ingar,,332,55
+10581107343626,155,GT1.0 Treadmill,ACTIVE,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,530,45
+10581107409162,156,Gym Chalk,ACTIVE,Gymstick,,ingar,,8073,48
+10581107441930,157,Gymstick Aqua Reservband - Medium (blå),ACTIVE,Gymstick,,ingar,,55,52
+10581107474698,158,Gymstick Original 2.0 - Extra Strong (silver),DRAFT,Gymstick,,ingar_ej_aktiv,,269,66
+10581107507466,159,Gymstick Original 2.0 - Super Strong (guld),DRAFT,Gymstick,,ingar_ej_aktiv,,222,68
+10581107540234,160,Gymstick Original Reservband - Extra Stark (silver),ACTIVE,Gymstick,,ingar,,93,58
+10581107605770,161,Gymstick Original Reservband - Light (grön),DRAFT,Gymstick,,ingar_ej_aktiv,,464,88
+10581107638538,162,Gymstick Original Reservband - Medium (blå),DRAFT,Gymstick,,ingar_ej_aktiv,,924,54
+10581107671306,163,Gymstick Original Reservband - Stark (svart),ACTIVE,Gymstick,,ingar,,374,48
+10581107704074,164,Gymstick Teambag - Large,ACTIVE,Gymstick,,ingar,,35,59
+10581107736842,165,Gymstick Original Reservband - Super Stark (guld),DRAFT,Gymstick,,ingar_ej_aktiv,,94,58
+10581107769610,166,Gymstick Teambag - Small,ACTIVE,Gymstick,,ingar,,54,69
+10581107802378,167,Heavy Bag 20kg,ACTIVE,Gymstick,,ingar,,335,41
+10581107835146,168,Hi-Rise Parallettes,ACTIVE,Gymstick,,ingar,,40,58
+10581107867914,169,Hi-Impact Bumper Plate 10kg - enkel,ACTIVE,Gymstick,,ingar,,397,53
+10581107900682,170,Varm & Kall Roller,ACTIVE,Gymstick,,ingar,,339,53
+10581107998986,171,Interlocking Mat Pro,ACTIVE,Gymstick,,ingar,,526,70
+10581108031754,172,Interlocking Mat Set,ACTIVE,Gymstick,,ingar,,1276,47
+10581108064522,173,"Interlocking Mat Pro Gummi 102,7 x 102,7 x 2,2 cm, svart",ACTIVE,Gymstick,,ingar,,44,61
+10581108097290,174,J-Cups,DRAFT,Gymstick,,ingar_ej_aktiv,,1,50
+10581108130058,175,"Järnviktskiva 1,25kg",ACTIVE,Gymstick,,ingar,,1289,47
+10581108162826,176,Kettlebell Pad,ACTIVE,Gymstick,,ingar,,93,45
+10581108195594,177,Jumbo Ab Roller,ACTIVE,Gymstick,,ingar,,214,59
+10581108228362,178,Kinesiology Tape (beige),ACTIVE,Gymstick,,ingar,,12909,63
+10581108261130,179,"Knästöd 1.0, One-Size",ACTIVE,Gymstick,,ingar,,845,50
+10581108293898,180,Lateral Curl Bar 70cm,ACTIVE,Gymstick,,ingar,,35,52
+10581108326666,181,"Knästöd 2.0, En storlek",ACTIVE,Gymstick,,ingar,,195,45
+10581108424970,182,Latsdragstång med handtag 100cm,ACTIVE,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,29,58
+10581108457738,183,Latsdragstång med handtag,ACTIVE,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,28,56
+10581108490506,184,Leather Ankle Strap,ACTIVE,Gymstick,,ingar,,136,56
+10581108523274,185,Latsdragshandtag med handtag 70 cm,ACTIVE,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,17,58
+10581108556042,186,Leather Jump Rope,ACTIVE,Gymstick,,ingar,,1204,75
+10581108588810,187,Lifting Grips,ACTIVE,Gymstick,,ingar,,593,49
+10581108621578,188,Lifting Straps with Padding,ACTIVE,Gymstick,,ingar,,665,56
+10581108654346,189,Lifting Straps Leather,ACTIVE,Gymstick,,ingar,,688,67
+10581108687114,190,Massage Ball,ACTIVE,Gymstick,,ingar,,433,63
+10581108719882,191,Massage Ball Set 3pcs,ACTIVE,Gymstick,,ingar,,381,55
+10581108752650,192,Massage Hook,ACTIVE,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: massagepistol/massage,445,60
+10581108785418,193,Massage Gun,ACTIVE,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: massagepistol/massage,287,42
+10581108818186,194,Mat Rack - Adjustable,ACTIVE,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,67,45
+10581108850954,195,Massage Stick,ACTIVE,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: massagepistol/massage,764,63
+10581108883722,196,Medicine Ball with Handles 10kg,ACTIVE,Gymstick,,ingar,,195,50
+10581108916490,197,Medicine Ball 10kg,ACTIVE,Gymstick,,ingar,,818,46
+10581108949258,198,Mini Band Set 4pcs,ACTIVE,Gymstick,,ingar,,544,42
+10581108982026,199,"Mini Band, Lätt (aprikos)",ACTIVE,Gymstick,,ingar,,7297,62
+10581109014794,200,"Mini Power Band, Extra Lätt (blå)",ACTIVE,Gymstick,,ingar,,2212,75
+10581109047562,201,Mini Fascia Ball,ACTIVE,Gymstick,,ingar,,295,45
+10581109080330,202,MyoFascia Ball (red),ACTIVE,Gymstick,,ingar,,1391,52
+10581109113098,203,Multi-Training Door Gym,ACTIVE,Gymstick,,ingar,,1680,53
+10581109145866,204,Myofascia Doubleball,ACTIVE,Gymstick,,ingar,,219,57
+10581109178634,205,Myofascia Rope Ball,ACTIVE,Gymstick,,ingar,,357,38
+10581109211402,206,Neck Relaxer,ACTIVE,Gymstick,,ingar,,911,56
+10581109244170,207,Neck Traction Device,ACTIVE,Gymstick,,ingar,,100,74
+10581109276938,208,NexGen Massage Gun,ACTIVE,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: massagepistol/massage,364,42
+10581109309706,209,Office Ball 65cm,ACTIVE,Gymstick,,ingar,,164,56
+10581109342474,210,Oval Gymball,ACTIVE,Gymstick,,ingar,,163,44
+10581109375242,211,Patella Brace 2.0,ACTIVE,Gymstick,,ingar,,733,66
+10581109408010,212,Performance Board,ACTIVE,Gymstick,,ingar,,236,66
+10581109440778,213,"Träningsmatta 140 x 60 x 0,7cm, Grå",ACTIVE,Gymstick,,ingar,,148,53
+10581109473546,214,Pilates Rolling Ball (20cm),ACTIVE,Gymstick,,ingar,,207,46
+10581109571850,215,"Hållningskorrigerare, Stor/Extra stor",ACTIVE,Gymstick,,ingar,,146,46
+10581109604618,216,Power Band Handle,ACTIVE,Gymstick,,ingar,,43,58
+10581109637386,217,"Power Band, Extra Lätt (blå)",ACTIVE,Gymstick,,ingar,,3075,53
+10581109670154,218,Power Rings,ACTIVE,Gymstick,,ingar,,173,46
+10581109702922,219,Power Vest 10kg,ACTIVE,Gymstick,,ingar,,390,95
+10581109735690,220,Premium Chin Up Bar,ACTIVE,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,18,76
+10581109768458,221,Powerslider Basic 180cm,ACTIVE,Gymstick,,ingar,,432,44
+10581109801226,222,Pro Chinning Bar,ACTIVE,Gymstick,,ingar,,617,52
+10581109833994,223,"Premium Parallettes, Large",ACTIVE,Gymstick,,ingar,,839,27
+10581109866762,224,Pro Core Ball (22cm),ACTIVE,Gymstick,,ingar,,393,52
+10581109932298,225,Pro Exercise Ball 65cm,ACTIVE,Gymstick,,ingar,,363,46
+10581109965066,226,Pro Exercise Ball 75cm,ACTIVE,Gymstick,,ingar,,308,53
+10581110030602,227,"Pro Exercise Band 2,5m - Extra Heavy (havsgrön)",ACTIVE,Gymstick,,ingar,,14348,70
+10581110063370,228,"Pro Träningsmatta NBR - 140x60x1,0cm (svart)",ACTIVE,Gymstick,,ingar,,50,48
+10581110096138,229,"Pro Träningsmatta NBR - 170x60x1,5cm (grå)",ACTIVE,Gymstick,,ingar,,330,81
+10581110128906,230,"Pro Träningsband 140cm, Extra Starkt",ACTIVE,Gymstick,,ingar,,3081,59
+10581110161674,231,Pro Exercise Wheel,ACTIVE,Gymstick,,ingar,,673,48
+10581110194442,232,Pro Jump Rope,ACTIVE,Gymstick,,ingar,,2200,59
+10581110227210,233,Pro Hex Hantel 10kg - enkel,ACTIVE,Gymstick,,ingar,,2272,52
+10581110259978,234,Pro Knee Straps,ACTIVE,Gymstick,,ingar,,113,62
+10581110292746,235,Pro Kettlebell 10kg,ACTIVE,Gymstick,,ingar,,431,50
+10581110358282,236,"Pro PU Viktplatta 1,25kg / styck",ACTIVE,Gymstick,,ingar,,550,50
+10581110391050,237,Pro Pump Set 20kg,ACTIVE,Gymstick,,ingar,,615,57
+10581110423818,238,"Pro Gummigolv 100 x 100 x 0,6 cm",ACTIVE,Gymstick,,ingar,,142,51
+10581110456586,239,"Pro Gummigolv 100 x 100 x 0,8 cm, svartgrå",ACTIVE,Gymstick,,ingar,,8,57
+10581110522122,240,Pro Gummi Golv 50 x 100 x 3 cm,ACTIVE,Gymstick,,ingar,,168,56
+10581110554890,241,Pro Step (black),ACTIVE,Gymstick,,ingar,,421,55
+10581110587658,242,Pro Step (grey-black),ACTIVE,Gymstick,,ingar,,240,60
+10581110620426,243,Pro Vinyl Hantel 1kg - enkel,ACTIVE,Gymstick,,ingar,,2250,51
+10581110653194,244,Pro TPU Hantel 10kg - Enkel,ACTIVE,Gymstick,,ingar,,471,45
+10581110685962,245,Pro Yoga Mat (grey-black),DRAFT,Gymstick,,ingar_ej_aktiv,,717,71
+10581110718730,246,Pro Wrist Straps,ACTIVE,Gymstick,,ingar,,562,59
+10581110751498,247,PRO20.0 Recumbent Bike,ACTIVE,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,12,61
+10581110817034,248,Pulley Handles PR,ACTIVE,Gymstick,,ingar,,179,51
+10581110849802,249,Pulley Station för Smith Half Rack,ACTIVE,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,76,46
+10581110882570,250,Punching Mitts,ACTIVE,Gymstick,,ingar,,249,51
+10581110915338,251,Push Up Bars,ACTIVE,Gymstick,,ingar,,315,68
+10581110948106,252,Puzzle Mat Set,ACTIVE,Gymstick,,ingar,,610,53
+10581110980874,253,"Snabbkoppling Hantel 22,5kg",ACTIVE,Gymstick,,ingar,,289,56
+10581111013642,254,Quick-Lock Dumbbell 36kg,ACTIVE,Gymstick,,ingar,,86,60
+10581111046410,255,"Quick-Lock Kettlebell 13,5kg",ACTIVE,Gymstick,,ingar,,39,42
+10581111079178,256,Rack för 6 par Pro Rubber Hantlar,ACTIVE,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1,56
+10581111111946,257,Rack for Kettlebells,ACTIVE,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,18,49
+10581111144714,258,Reaction Ball 7cm,ACTIVE,Gymstick,,ingar,,92,49
+10581111177482,259,RecoPod Ice Bath,ACTIVE,Gymstick,,ingar,,358,49
+10581111210250,260,Recovery Twin Ball,ACTIVE,Gymstick,,ingar,,343,48
+10581111243018,261,"Viktskiva gummi 1,25kg / styck",ACTIVE,Gymstick,,ingar,,3250,55
+10581111275786,262,Single Handle,ACTIVE,Gymstick,,ingar,,120,67
+10581111341322,263,Slant Board,ACTIVE,Gymstick,,ingar,,568,41
+10581111374090,264,Slam Ball 12kg,ACTIVE,Gymstick,,ingar,,176,50
+10581111406858,265,Speed Discs - 20pcs Set,ACTIVE,Gymstick,,ingar,,162,44
+10581111439626,266,Speed Rope,ACTIVE,Gymstick,,ingar,,434,55
+10581111472394,267,Speed Rope Pro,ACTIVE,Gymstick,,ingar,,204,45
+10581111537930,268,Sports Tape 2pcs,ACTIVE,Gymstick,,ingar,,724,56
+10581111570698,269,Squeeze Ball,ACTIVE,Gymstick,,ingar,,388,37
+10581111603466,270,Stability Air Pad,ACTIVE,Gymstick,,ingar,,71,42
+10581111636234,271,Step Board,ACTIVE,Gymstick,,ingar,,255,46
+10581111669002,272,Stretching Belt,DRAFT,Gymstick,,ingar_ej_aktiv,,6,46
+10581111701770,273,Stretching Stick,ACTIVE,Gymstick,,ingar,,2331,62
+10581111734538,274,Telescopic Fit Walker,ACTIVE,Gymstick,,ingar,,38,62
+10581111767306,275,Tatami Matta 105 x 105 x 2 cm,ACTIVE,Gymstick,,ingar,,349,52
+10581111865610,276,"Teleskopisk rollator, rosa",DRAFT,Gymstick,,ingar_ej_aktiv,,245,68
+10581111898378,277,Tennis Elbow Support 2.0,ACTIVE,Gymstick,,ingar,,115,52
+10581111931146,278,"Träningshandskar, extra små (svart-grå)",ACTIVE,Gymstick,,ingar,,450,55
+10581111963914,279,Tennis Elbow Support Premium,ACTIVE,Gymstick,,ingar,,906,67
+10581111996682,280,Training Mat Cork,ACTIVE,Gymstick,,ingar,,5,56
+10581112029450,281,"Träningshandskar, Large (rosa-svart)",ACTIVE,Gymstick,,ingar,,80,51
+10581112094986,282,Treadmill Lubrication,ACTIVE,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1767,52
+10581112127754,283,Triceps Pull Down Bar,ACTIVE,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,65,65
+10581112160522,284,Triceps Full Extension Bar,ACTIVE,Gymstick,,ingar,,6,68
+10581112193290,285,Trigger Roller 33cm,ACTIVE,Gymstick,,ingar,,31,52
+10581112226058,286,Triceps Rope,ACTIVE,Gymstick,,ingar,,389,57
+10581112258826,287,Universal Paw,ACTIVE,Gymstick,,ingar,,9,49
+10581112324362,288,Universal Spike,ACTIVE,Gymstick,,ingar,,631,44
+10581112357130,289,V-Bar,ACTIVE,Gymstick,,ingar,,40,50
+10581112389898,290,Vinyl Dumbbell Set 15kg,ACTIVE,Gymstick,,ingar,,1933,40
+10581112422666,291,V-Handle,ACTIVE,Gymstick,,ingar,,94,58
+10581112455434,292,Vinyl Dumbbells 2 x 1kg,ACTIVE,Gymstick,,ingar,,1349,51
+10581112488202,293,Vinyl Grip Pump Set 20kg,ACTIVE,Gymstick,,ingar,,103,51
+10581112520970,294,WalkingPad Core,ACTIVE,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,1974,125
+10581112553738,295,Vinyl Kettlebell 10kg,ACTIVE,Gymstick,,ingar,,621,53
+10581112586506,296,Wall Ball 12kg,ACTIVE,Gymstick,,ingar,,38,54
+10581112619274,297,"Vattenflaska 0,70l, Svart",ACTIVE,Gymstick,,ingar,,1862,52
+10581112652042,298,"Vattenflaska 0,75l (grå)",ACTIVE,Gymstick,,ingar,,7009,53
+10581112717578,299,Weightlifting Belt - Shaped 105cm,ACTIVE,Gymstick,,ingar,,51,56
+10581112750346,300,Wooden Balance Board,ACTIVE,Gymstick,,ingar,,85,65
+10581112783114,301,Workout gloves L/XL,ACTIVE,Gymstick,,ingar,,90,54
+10581112815882,302,Trä Plyobox 50 x 45 x 40cm,ACTIVE,Gymstick,,ingar,,11,49
+10581112848650,303,Wrist Support 1.0,ACTIVE,Gymstick,,ingar,,190,53
+10581112881418,304,Wrist Sweat Bands 2pcs,ACTIVE,Gymstick,,ingar,,115,54
+10581112914186,305,Yoga Block,ACTIVE,Gymstick,,ingar,,246,58
+10581112946954,306,Yoga Block Cork,ACTIVE,Gymstick,,ingar,,178,67
+10581113110794,307,"Interlocking Mat Pro Gummi 102,7 x 102,7 x 1,5 cm , svart-grå",DRAFT,Gymstick,,ingar_ej_aktiv,,184,60
+10581113143562,308,Z-Bar 80cm,ACTIVE,Gymstick,,ingar,,37,57
+10581118976266,309,Vivid Head Band Set,ACTIVE,Gymstick,,ingar,,809,64
+10581119009034,310,Vivid Fitness Ball 65cm,ACTIVE,Gymstick,,ingar,,376,41
+10581119041802,311,Vivid Massage Ball,ACTIVE,Gymstick,,ingar,,127,55
+10581119074570,312,Vivid Jump Rope,ACTIVE,Gymstick,,ingar,,26,56
+10581119140106,313,Vivid Massage Stick,ACTIVE,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: massagepistol/massage,583,48
+10581119172874,314,Vivid Mini Band Set 3pcs,ACTIVE,Gymstick,,ingar,,1107,63
+10581119205642,315,Vivid Myo Ball,ACTIVE,Gymstick,,ingar,,358,58
+10581119238410,316,Vivid Pump Set 20kg,ACTIVE,Gymstick,,ingar,,49,54
+10581119271178,317,Vivid Spike Mat,ACTIVE,Gymstick,,ingar,,376,61
+10581119303946,318,"Vivid Träningsmatta 170 x 60 x 0,4cm, Rosa-Grå",ACTIVE,Gymstick,,ingar,,625,59
+10581119336714,319,Vivid Step Board,ACTIVE,Gymstick,,ingar,,323,53
+10581119369482,320,"Vivid Träningsmatta 170 x 60 x 0,4cm, Turkos-Grå",ACTIVE,Gymstick,,ingar,,848,61
+10581119402250,321,Vivid Tube Roller 33cm,ACTIVE,Gymstick,,ingar,,707,54
+10581119435018,322,Vivid Tube Trainer,ACTIVE,Gymstick,,ingar,,608,58
+10581119467786,323,Vivid Yoga Strap,ACTIVE,Gymstick,,ingar,,483,45
+10593396949258,324,"Aktiv Hantelstång, Svart",ACTIVE,Gymstick,,ingar,,510,97
+10593397178634,325,Active Spikey Massage Combo,ACTIVE,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: massagepistol/massage,468,64
+10593397408010,326,"Aktiv träningsmatta, svart",ACTIVE,Gymstick,,ingar,,700,76
+10593398489354,327,2 x 10kg Vinyl Plates,ACTIVE,Gymstick,,ingar,,87,47
+10593398554890,328,2kg Dumbbell Bar,ACTIVE,Gymstick,,ingar,,130,53
+10593399308554,329,Ab Straps,ACTIVE,Gymstick,,ingar,,89,56
+10593407500554,330,"Fotledsstöd 2.0, En storlek",ACTIVE,Gymstick,,ingar,,317,69
+10593407533322,331,"Ryggstöd 1.0, One-Size",ACTIVE,Gymstick,,ingar,,81,59
+10593407566090,332,Balance Pad,ACTIVE,Gymstick,,ingar,,144,46
+10593407729930,333,Komfortmatta 160 x 60cm - Twisted Pink,ACTIVE,Gymstick,,ingar,,522,77
+10593407762698,334,Komfortmatta 160 x 60cm - Zero Black,DRAFT,Gymstick,,ingar_ej_aktiv,,387,70
+10593408057610,335,Dip Belt,ACTIVE,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,445,60
+10598114197770,336,Active Compact Foam Roller 30cm,ACTIVE,Gymstick,,ingar,,2009,45
+10598117802250,337,Fot- och handmassage-rulle,ACTIVE,Gymstick,,ingar,,319,69
+10598117900554,338,Liquid Chalk,ACTIVE,Gymstick,,ingar,,3742,54
+10604622086410,339,Active Myofascia Ball,ACTIVE,Gymstick,,ingar,,1146,55
+10611406242058,340,Active 10kg Vinyl Dumbbell Set,ACTIVE,Gymstick,,ingar,,209,76
+10611413647626,341,2-Layer Rack for Dumbbells,ACTIVE,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,5,47
+10611414237450,342,4-Station Multi Gym,ACTIVE,Gymstick,,ingar,,810,64
+10611414958346,343,AbBench,ACTIVE,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,1874,32
+10611415220490,344,Aerobic Bar 10kg,ACTIVE,Gymstick,,ingar,,154,72
+10611418398986,345,Bumper Plate 10kg - single,ACTIVE,Gymstick,,ingar,,136,52
+10611419054346,346,Comfort Seat,ACTIVE,Gymstick,,ingar,,575,60
+10611424854282,347,GX3.0 Crosstrainer,ACTIVE,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: batteri/motor/elektronik,102,50
+10611430850826,348,Pilates Ring,ACTIVE,Gymstick,,ingar,,1365,42
+10611433537802,349,"Pro Chrome Hantel 0,5kg - enkel",ACTIVE,Gymstick,,ingar,,2315,56
+10611433832714,350,"Pro Träningsband 45,7m - Extra Heavy",ACTIVE,Gymstick,,ingar,,594,63
+10611438027018,351,Recovery Ball 10cm,ACTIVE,Gymstick,,ingar,,432,54
+10611438420234,352,"Shakerflaska 600ml, Svart",ACTIVE,Gymstick,,ingar,,4373,45
+10611438616842,353,Speed Cones,ACTIVE,Gymstick,,ingar,,98,52
+10611438649610,354,Soft Plyobox 3-in-1,ACTIVE,Gymstick,,ingar,,14,61
+10611438911754,355,Spikey Massage Ball Combo,ACTIVE,Gymstick,,ingar,,525,67
+10611442188554,356,"Viktväst 2,5kg",ACTIVE,Gymstick,,ingar,,416,58
+10611442450698,357,Wrist Support 2.0,ACTIVE,Gymstick,,ingar,,50,57
+10611453886730,358,"Vivid Core Ball, Rosa",ACTIVE,Gymstick,,ingar,,447,51
+10611454050570,359,Vivid Exercise Band Set 3pcs,ACTIVE,Gymstick,,ingar,,246,44
+10611454181642,360,Vivid Foam Roller 60cm,ACTIVE,Gymstick,,ingar,,852,44
+10611454771466,361,Vivid Yoga Block,ACTIVE,Gymstick,,ingar,,452,59
+10623405490442,362,Lateral Pull Down Bar 110cm,ACTIVE,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,35,44
+10623405523210,363,Lateral Pull Down Bar,ACTIVE,Gymstick,,sakerhet,SÄKERHET/HÄLSOORD: bänk/ställning/Smith/maskin med last,32,55
+10634245570826,364,Court Classic Dartboard,DRAFT,Gymstick,,ingar_ej_aktiv,,961,56
+10634245603594,365,Court Classic Darttavelskåp (svart),DRAFT,Gymstick,,ingar_ej_aktiv,,646,85
+10634245669130,366,Court Dartboard Surround,ACTIVE,Gymstick,,ingar,,597,49
+10634245701898,367,Court Steel Viper Dartset 23g,DRAFT,Gymstick,,ingar_ej_aktiv,,1933,61
+10634331783434,368,Wrist Trainer,ACTIVE,Gymstick,,ingar,,289,59
+10649457623306,369,Court Premium 370 Trampoline,DRAFT,Gymstick,,ingar_ej_aktiv,,1,64
