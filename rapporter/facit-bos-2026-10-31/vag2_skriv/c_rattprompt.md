@@ -1,0 +1,14 @@
+Du är skrivagent. Arbetskatalog /home/user/Shopify. Läs först CLAUDE.md (rot), shopify-sync/docs/produkttexter-standard.md (avsnitt 10–11) och shopify-sync/docs/LARDOMAR.md. Committa inte.
+
+SHOPIFY: kör mcp__Shopify__get-shop-info och bekräfta BEST OF SPORTS (bestofsports.se). Annars switch-shop och verifiera igen. Skriv med graphql_mutation productUpdate(product: ProductUpdateInput) (inte `input:`). seo skickas ALLTID med både title och description (annars raderas det andra); är meta null skickas bara seo.title (utelämna seo om SEO-titeln är lika med titeln). Ändra aldrig handle, status eller taggar.
+
+UPPGIFT: David har godkänt en språkrättningsrunda ("det ska vara perfekt") på Gymstick-produkter som redan är skrivna och verifierade. Oberoende kontrollanter har listat fynd med exakt före/efter i VERIFIERINGSFILER. Gör så här:
+1. Läs VERIFIERINGSFILERNA och SKRIVFILERNA (JSON-listor; JSON är sanningen) och bygg en lista över rättningar per produkt:
+   a) Entydiga språkfel (stavning, grammatik, verb som saknas, dubbla ord, "Material: Slitstarkt" som inte är ett material, felaktig artikel): gör exakt rättning enligt kontrollanten eller en bättre.
+   b) Nästan cirkulära första meningar ("X är en X", "Exercise Ball är en träningsboll"): skriv om så att meningen ger information (t.ex. "X används för …" / "X är en … med …") utan nya fakta, bara det som redan står i produktens text eller i skrivfilens `fakta`/live-källa.
+   c) Rena stilönskemål utan fel och typord som kontrollanten själv säger kan stå kvar: gör inget.
+   Rätta inte typord (Krita/Gymtalk, Fitnessboll/Träningsboll) och byt aldrig produktens namn eller typ; lyft dem i rapporten.
+2. Efter rättning: meta ska vara 130–155 tecken eller null, SEO-titel ≤43, titel ≤70 och ≤2 kommatecken (decimalkomman undantas), inga dubbletter av titel, SEO-titel eller meta över alla c_skriv_*-filer och a_skriv.json. Första metameningen ska ha verb. Inga arbetstermer i kundtext.
+3. Läs live (nodes) för berörda produkter; spara "före" till FORE_FIL innan du skriver. Status ska vara ACTIVE och live ska vara identisk med skrivfilen före rättning; annars hoppa över och rapportera. Kör shopify-sync/scripts/kontrollera_produkttext.py på en kopia (html mappad till beskrivning, standardblock inom [[STANDARDBLOCK]]…[[/STANDARDBLOCK]], --seo-title-max 43 --seo-suffix " – BEST OF SPORTS").
+4. Skriv de rättade produkterna (batcher om högst 8; Shopify-verktyget avvisar dokument över 16 384 tecken). Kanarie 3 först och återläs. Läs sedan tillbaka ALLA fält för varje rättad produkt (title, handle, status, seo.title, seo.description, descriptionHtml, tags) och jämför tecken för tecken mot den nya texten. Uppdatera skrivfilerna så de stämmer med live.
+5. RAPPORT: före/efter per produkt, vad som lämnades (stil/typord), vad som kontrollerats maskinellt respektive för hand. Slutrapport i högst 10 rader.

@@ -86,7 +86,7 @@ Inga hälso-, miljö- eller ursprungspåståenden, inga priser, inga arbetsterme
 | 3105 | html intro | Dubbelt "är" | Gymstick golvskyddsmatta är 200 x 100 x 0,6 cm och är avsedd att skydda … | Gymstick golvskyddsmatta mäter 200 x 100 x 0,6 cm och är avsedd att skydda … |
 | 3110 | html passar 1 | "träna stretching/intensiva pass" haltar | Dig som vill träna yoga, stretching eller intensiva pass, enligt tillverkaren | Dig som vill ha en matta för yoga, stretching eller intensiva pass, enligt tillverkaren |
 | 3113 | html intro | "var" behöver "än" i betydelsen överallt | … löprundan eller var du behöver dricka vatten. | … löprundan eller var du än behöver dricka vatten. |
-| 3126 | meta | Två "och" i rad | … mindre träningsredskap och har en fackindelning. | … mindre träningsredskap. Den har fackindelning. (meta blir 139 tecken) |
+| 3126 | meta | Två "och" i rad | … mindre träningsredskap och har en fackindelning. | … mindre träningsredskap. Den har fackindelning. (meta blir 141 tecken) |
 | 3126 | html passar 1 | Saknar artikel | Dig som ska till gymmet, en träningsklass eller utomhuspass, enligt tillverkaren | Dig som ska till gymmet, en träningsklass eller ett utomhuspass, enligt tillverkaren |
 | 3132 | meta + html intro | Saknar "med" | … är ett set sammanfogbara mattor. | … är ett set med sammanfogbara mattor. |
 | 3135 | html intro | Upprepning av "kettlebellträning" i två meningar | … och tål belastningen från kettlebellträning. | … och tål belastningen från träningen. (som i meta) |
@@ -94,8 +94,8 @@ Inga hälso-, miljö- eller ursprungspåståenden, inga priser, inga arbetsterme
 | 3147 | html intro | Saknar kommatecken före tillskrivningen | … avsedda för användning efter träning enligt tillverkaren. | … avsedda för användning efter träning, enligt tillverkaren. |
 | 3148 | seo_title | "Medicinboll … Medicine Ball, Handtag" dubblerar typordet och kommat haltar | Medicinboll Gymstick Medicine Ball, Handtag | Medicinboll Gymstick med Handtag (= titeln, lagras då tom) |
 | 3150 | html intro | Dubbelt "med" och "motstånd" | … ett set med fyra motståndsband med olika motståndsnivåer. | … ett set med fyra motståndsband i olika motståndsnivåer. |
-| 3150 | meta | Saknar "allt från" | … och passar nybörjare till avancerade. | … och passar allt från nybörjare till avancerade. (meta blir 157 tecken, över 155; alternativt "passar alla nivåer") |
-| 3152 | meta | "passar för … mild utmaning" haltar | Enligt tillverkaren passar det för uppvärmning och mild utmaning. | Enligt tillverkaren passar det för uppvärmning och som en mild utmaning. (152 tecken) |
+| 3150 | meta | Saknar "allt från" | … och passar nybörjare till avancerade. | … och passar allt från nybörjare till avancerade. (meta blir 158 tecken, över 155; alternativt "passar alla nivåer") |
+| 3152 | meta | "passar för … mild utmaning" haltar | Enligt tillverkaren passar det för uppvärmning och mild utmaning. | Enligt tillverkaren passar det för uppvärmning och som en mild utmaning. (150 tecken) |
 
 **Mönster (ingen ändring krävs, men värt att ta ställning till):**
 1. **Nästan cirkulära förstameningar** där det engelska namnet följs av sin översättning: 3141 "Leather Ankle Strap är en ankelrem i äkta läder", 3142 "Leather Jump Rope är ett hopprep i läder", 3145 "Lifting Straps Leather är lyftremmar i läder", 3148/3149 "Medicine Ball … är en medicinboll". De tillför material eller användning och är därför inte rent cirkulära. Förslag om skärpning, till exempel 3149: "Gymstick Medicine Ball är en medicinboll för kast, rotationer och styrkepass." → "Gymstick Medicine Ball används till kast, rotationer och styrkepass."
