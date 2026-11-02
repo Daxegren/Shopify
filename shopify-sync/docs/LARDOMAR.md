@@ -75,3 +75,9 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 - Regel: lita inte på en skrivagents egen kontroll. Låt en separat kontrollant läsa texten som språkgranskare (stavning, verb i meningar, ordval), inte bara jämföra mot filen.
 - Regel: agenter jämför MCP-svar för hand (utdata kan inte diffas i bash). Beräkna aldrig "identiskt" utan att alla fält är genomlästa; redovisa vad som kontrollerats maskinellt och vad för hand.
 - Regel: när skriv-JSON rättas direkt blir källskripten inaktuella; ange i loggen att JSON är sanningen.
+
+## 2026-11-01: kontrollskriptet läser inte html, och utkast skrevs över
+- Vad hände: `kontrollera_produkttext.py` läser fälten `beskrivning`/`body`, inte `html`. En körning direkt på utkastsfilerna gav "0 FEL" men täckte bara titel, SEO och meta. En utkastsagent skrev dessutom över en befintlig `a_4_utkast.json`. Flera produkter fick samma SEO-titel.
+- Regel: kör kontrollskriptet på en kopia där html är mappat till beskrivning och standardblocket är markerat med `[[STANDARDBLOCK]]`, och redovisa det i rapporten.
+- Regel: tala om för utkastsagenter att kontrollera om målfilen finns innan de skriver, och kräv unika SEO-titlar över hela batchen.
+- Regel: granskare underkände 12 av 27 utkast (säkerhetsprodukter, oklar produkttyp). Sortera bort produkter med säkerhetsprofil innan utkast skrivs.
