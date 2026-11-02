@@ -1,0 +1,349 @@
+[
+ {
+  "nr": 3196,
+  "id": "10581110817034",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": null
+ },
+ {
+  "nr": 3197,
+  "id": "10581110882570",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Dig som vill träna allmän fitness med tassar</li>",
+    "efter": "<li>Dig som vill använda tassar i allmän fitnessträning</li>"
+   }
+  },
+  "skal": "Språk: 'träna allmän fitness' är inte idiomatiskt."
+ },
+ {
+  "nr": 3198,
+  "id": "10581110915338",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": null
+ },
+ {
+  "nr": 3199,
+  "id": "10581110948106",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Puzzle Mat Set är ett set träningsmattor med pusseldesign. Enligt tillverkaren har de en stötdämpande yta och går att lägga ut efter utrymmet.",
+    "efter": "Gymstick Puzzle Mat Set är ett set träningsmattor med pusseldesign. Enligt tillverkaren har de en stötdämpande yta och kan anpassas efter utrymmet."
+   }
+  },
+  "skal": "Språk: 'går att lägga ut efter utrymmet' är oklart. Ny meta 147 tecken."
+ },
+ {
+  "nr": 3203,
+  "id": "10581111144714",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": null
+ },
+ {
+  "nr": 3204,
+  "id": "10581111177482",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Isbadkar: kallbad har hälsorisker, och källan består bara av hälsopåståenden (muskelömhet, cirkulation, mental klarhet). Inga mått, volym, material eller bruksanvisning. Tas för hand med Davids ja."
+ },
+ {
+  "nr": 3205,
+  "id": "10581111210250",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Material enligt tillverkaren: Slitstarkt material</li>",
+    "efter": "<li>Material: Slitstarkt, enligt tillverkaren</li>"
+   }
+  },
+  "skal": "Tautologi i specifikationen ('Slitstarkt material' som material); samma form som övriga utkast."
+ },
+ {
+  "nr": 3206,
+  "id": "10581111243018",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Viktskivor är last. Sju varianter (1,25–25) med olika pris, hålets diameter (vilken stång de passar) saknas och det är oklart om priset gäller en skiva. Konsekvent med avvisade Z-Bar och Quick-Lock-hantlar. Om David släpper den: titel 'Viktskiva Gymstick, Gummerad' (typ först) och 'Material: Gummerad' → 'Yta: Gummerad'."
+ },
+ {
+  "nr": 3207,
+  "id": "10581111275786",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": null
+ },
+ {
+  "nr": 3209,
+  "id": "10581111374090",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": null
+ },
+ {
+  "nr": 3210,
+  "id": "10581111406858",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": null
+ },
+ {
+  "nr": 3211,
+  "id": "10581111439626",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Speed Rope är ett hopprep. Enligt tillverkaren har det ergonomiskt handtag och justerbar längd och är designat för snabba rotationer.",
+    "efter": "Gymstick Speed Rope är ett hopprep. Enligt tillverkaren har det ett ergonomiskt handtag och justerbar längd och är designat för snabba rotationer."
+   },
+   "html": {
+    "fore": "har det ergonomiskt handtag",
+    "efter": "har det ett ergonomiskt handtag"
+   }
+  },
+  "skal": "Grammatik: obestämd artikel saknas. Meta blir 146 tecken."
+ },
+ {
+  "nr": 3212,
+  "id": "10581111472394",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": null
+ },
+ {
+  "nr": 3213,
+  "id": "10581111537930",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Sporttejp: källan bygger på stöd, skydd av musklerna och att 'minimera risken för skador' (skydd/stöd med skadeförebyggande påståenden). Tejpens typ (kinesio eller stel) framgår inte."
+ },
+ {
+  "nr": 3214,
+  "id": "10581111570698",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Pressboll Gymstick Squeeze Ball",
+    "efter": "Handträningsboll Gymstick Squeeze Ball"
+   },
+   "seo_title": {
+    "fore": "Pressboll Gymstick Squeeze Ball",
+    "efter": "Handträningsboll Gymstick Squeeze Ball"
+   },
+   "meta": {
+    "fore": "Gymstick Squeeze Ball är en träningsutrustning för grepp och handstyrka. Enligt tillverkaren är den gjord av slitstarkt material för långvarig användning.",
+    "efter": "Gymstick Squeeze Ball är en boll för träning av grepp och handstyrka. Enligt tillverkaren är den gjord av slitstarkt material för långvarig användning."
+   },
+   "html": {
+    "fore": "är en träningsutrustning för grepp och handstyrka. Enligt tillverkaren är den tillverkad av slitstarkt material.",
+    "efter": "är en boll för träning av grepp och handstyrka. Enligt tillverkaren är den gjord av slitstarkt material."
+   }
+  },
+  "skal": "'Pressboll' är inget etablerat svenskt typord; 'en träningsutrustning' är ogrammatiskt (oräknebart ord); 'tillverkaren ... tillverkad' upprepas. Typordet är ett språkval som David kan ändra (alternativ: Stressboll undviks eftersom det anknyter till källans hälsopåstående). Meta 151 tecken; SEO-titel = titel lagras tom."
+ },
+ {
+  "nr": 3215,
+  "id": "10581111603466",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Gymstick Stability Air Pad är en träningsutrustning för balans och bålstyrka, enligt tillverkaren. Den fungerar som träningsyta för balansövningar.</p>",
+    "efter": "<p>Gymstick Stability Air Pad är en balanskudde som enligt tillverkaren används för att träna balans och bålstyrka.</p>"
+   }
+  },
+  "skal": "'En träningsutrustning' är ogrammatiskt, och andra meningen upprepar den första."
+ },
+ {
+  "nr": 3217,
+  "id": "10581111701770",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Gymstick Stretching Stick är ett träningsredskap för stretchövningar. Enligt tillverkaren är det tillverkat för hållbarhet.</p>",
+    "efter": "<p>Gymstick Stretching Stick är ett träningsredskap som enligt tillverkaren används för djupgående stretchövningar.</p>"
+   }
+  },
+  "skal": "'Enligt tillverkaren är det tillverkat' upprepar ordet och är ett kvalitetspåstående (källan: 'högkvalitativt material för att säkerställa hållbarhet'). Varianterna Default (149 kr) och TELE (269 kr) är rätt olåsta; skillnaden bör bekräftas av David."
+ },
+ {
+  "nr": 3219,
+  "id": "10581111767306",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": null
+ },
+ {
+  "nr": 3221,
+  "id": "10581111931146",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick träningshandskar är handskar i svart-grå färg. Enligt tillverkaren är de designade för komfort under träningspass och förbättrar greppet.",
+    "efter": "Träningshandskar från Gymstick i svart-grå färg, i storlekarna XS, S, M och L. Enligt tillverkaren är de designade för komfort och förbättrar greppet."
+   }
+  },
+  "skal": "Cirkulärt ('träningshandskar är handskar'). Storlekarna finns som varianter live med samma pris. Ny meta 150 tecken. Live-titeln 'extra små' är fel mot varianterna, rätt att den inte förs vidare."
+ },
+ {
+  "nr": 3223,
+  "id": "10581111996682",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": null
+ },
+ {
+  "nr": 3224,
+  "id": "10581112029450",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick träningshandskar är handskar i rosa-svart färg. Enligt tillverkaren är de designade för komfort och stöd under intensiva träningspass.",
+    "efter": "Träningshandskar från Gymstick i rosa-svart färg, i storlekarna S, M och L. Enligt tillverkaren är de designade för komfort och stöd under träningspass."
+   }
+  },
+  "skal": "Cirkulärt ('träningshandskar är handskar'). Storlekarna S, M, L finns live med samma pris. Ny meta 152 tecken."
+ },
+ {
+  "nr": 3225,
+  "id": "10581112160522",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Oklar produkttyp: källan säger inte om stången är ett kabelfäste eller en stång som lastas med vikter (möjlig last). 'Tricepsstång' är en tolkning; inga mått, material eller maxbelastning. Dessutom 'en träningsutrustning' (ogrammatiskt)."
+ },
+ {
+  "nr": 3241,
+  "id": "10581112783114",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Workout Gloves är träningshandskar som enligt tillverkaren ger bättre grepp och skyddar händerna under träningspass. Finns i S/M och L/XL.",
+    "efter": "Gymstick Workout Gloves är träningshandskar som enligt tillverkaren ger bättre grepp och komfort under träningspass. Finns i storlekarna S/M och L/XL."
+   },
+   "html": {
+    "fore": "ger bättre grepp och skyddar händerna under träningspass.</p>",
+    "efter": "ger bättre grepp och komfort under träningspass.</p>"
+   },
+   "html_2": {
+    "fore": "<li>Dig som vill skydda händerna under träningspass, enligt tillverkaren</li>\n",
+    "efter": ""
+   }
+  },
+  "skal": "Skyddslöftet tas bort, i linje med 3221 och 3224 där skydd utelämnats (skydd/stöd-regeln). Ny meta 150 tecken."
+ },
+ {
+  "nr": 3243,
+  "id": "10581112848650",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Handledsstöd: skydd/stöd med skadeförebyggande påstående i källan ('minskar risken för skador', 'lyfta tyngre'). Samma bedömning som avvisade Tennis Elbow Support (c_15). Gäller också 3289 Handledsstöd 2.0 i c_20."
+ },
+ {
+  "nr": 3244,
+  "id": "10581112881418",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Svettband för Handled Gymstick, 2 st",
+    "efter": "Svettband Gymstick för Handled, 2 st"
+   },
+   "seo_title": {
+    "fore": "Svettband för Handled Gymstick, 2 st",
+    "efter": "Svettband Gymstick för Handled, 2 st"
+   }
+  },
+  "skal": "Ordningen Typ, Märke ska följas (jfr 'Träningshandskar Trec #24 för Dam'). 36 tecken."
+ },
+ {
+  "nr": 3245,
+  "id": "10581112914186",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Godkänd. Notering: källan skriver 'Dessa block' (plural) medan titeln är singular; utkastet säger 'ett yogablock'. Antal bör bekräftas av David."
+ },
+ {
+  "nr": 3246,
+  "id": "10581112946954",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Yogablock av Kork Gymstick",
+    "efter": "Yogablock Gymstick i Kork"
+   },
+   "seo_title": {
+    "fore": "Yogablock av Kork Gymstick",
+    "efter": "Yogablock Gymstick i Kork"
+   }
+  },
+  "skal": "Ordningen Typ, Märke (jfr 'Massageboll Spokey Double Oak i Kork'). 25 tecken."
+ },
+ {
+  "nr": 3248,
+  "id": "10581118976266",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": null
+ },
+ {
+  "nr": 3249,
+  "id": "10581119009034",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": null
+ },
+ {
+  "nr": 3250,
+  "id": "10581119041802",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": null
+ },
+ {
+  "nr": 3251,
+  "id": "10581119074570",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": null
+ },
+ {
+  "nr": 3252,
+  "id": "10581119172874",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Minibandset Gymstick Vivid Mini Band Set, 3 st",
+    "efter": "Minibandset Gymstick Vivid, 3 st"
+   },
+   "meta": {
+    "fore": "Gymstick Vivid Mini Band Set är ett set med tre minibands med olika motståndsnivåer, för uppvärmning och styrkeövningar enligt tillverkaren.",
+    "efter": "Gymstick Vivid Mini Band Set är ett set med tre miniband med olika motståndsnivåer, för uppvärmning och styrkeövningar enligt tillverkaren."
+   },
+   "html": {
+    "fore": "innehåller tre minibands med",
+    "efter": "innehåller tre miniband med"
+   },
+   "html_2": {
+    "fore": "värma upp med minibands,",
+    "efter": "värma upp med miniband,"
+   }
+  },
+  "skal": "'Mini Band Set' upprepar typordet på engelska (jfr 2209). 'Minibands' är engelsk pluralform; svensk plural är 'miniband'. Titeln blir lika med SEO-titeln (lagras tom). Meta 139 tecken."
+ },
+ {
+  "nr": 3253,
+  "id": "10581119205642",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Oklar produkttyp: 'Myo Ball' är inget svenskt typord, och källan består bara av effekt- och rehabpåståenden (triggerpunkter, ömhet). Texten blir innehållslös ('en boll för träning')."
+ },
+ {
+  "nr": 3254,
+  "id": "10581119238410",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Viktset 20 kg med justerbara vikter: last och troligen lås (stång, skivor, lås), men vad som ingår och om 20 kg är totalvikten framgår inte. Konsekvent med avvisade Quick-Lock-hantlar."
+ }
+]
