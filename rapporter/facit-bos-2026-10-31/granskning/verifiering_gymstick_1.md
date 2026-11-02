@@ -96,10 +96,10 @@ Inget fynd stoppar texterna. Alla är små förbättringar som kan tas i en sena
 | 4 | 3005 | html, första meningen | Gymstick hopprep i läder, 2,75 m långt, med handtag i skumgummi. | Gymstick hopprep är gjort av läder, är 2,75 m långt och har handtag i skumgummi. | Verb saknas |
 | 5 | 3007 | meta, andra meningen | Enligt tillverkaren tränas händer, underarmar och greppstyrka. | Enligt tillverkaren tränar den upp händer, underarmar och grepp. | Passiv form utan subjekt; "träna greppstyrka" är en ovanlig ordförbindelse |
 | 6 | 3008 | meta och html | Gymstick Aktiv är två ankel- och handledsvikter på 1 kg vardera. | Gymstick Aktiv är ett par ankel- och handledsvikter på 1 kg styck. | Otymplig konstruktion |
-| 7 | 3012 | meta | Gymstick Active Finger Expander Set är två fingerexpandrar för händer och fingrar. | Gymstick Active Finger Expander Set är ett set med två fingerexpandrar för händer och fingrar. | Samma som 6 (153 tecken efter ändring, inom gränsen) |
+| 7 | 3012 | meta | Gymstick Active Finger Expander Set är två fingerexpandrar för händer och fingrar. | Gymstick Active Finger Expander Set är ett set med två fingerexpandrar för händer och fingrar. | Samma som 6. Meta blir 156 tecken, så stryk till exempel "för händer och fingrar" |
 | 8 | 3016 | meta | Gymstick Active Mini Bands är två kompakta motståndsband. | Gymstick Active Mini Bands är ett set med två kompakta motståndsband. | Samma som 6. Kontrollera längden: blir 165 tecken och måste kortas, till exempel genom att stryka "kompakta" |
-| 9 | 3013 | meta | har de mjuk och greppvänlig yta | har de en mjuk och greppvänlig yta | Artikel saknas (152 tecken efter ändring) |
-| 10 | 3026 | meta och html | har ergonomiskt grepp och halkfri yta | har ett ergonomiskt grepp och en halkfri yta | Artiklar saknas. Meta blir 145 tecken |
+| 9 | 3013 | meta | har de mjuk och greppvänlig yta | har de en mjuk och greppvänlig yta | Artikel saknas. Meta blir 151 tecken |
+| 10 | 3026 | meta och html | har ergonomiskt grepp och halkfri yta | har ett ergonomiskt grepp och en halkfri yta | Artiklar saknas. Meta blir 143 tecken |
 | 11 | 3006 | html, punkt | kan hjälpa dig att positionera dig under övningar | kan hjälpa dig att hitta rätt position under övningarna | Anglicism |
 | 12 | 3024 | html, specifikation | Material: Slitstarkt, enligt tillverkaren | Egenskaper: Slitstarkt material, enligt tillverkaren | "Slitstarkt" är inget material |
 | 13 | 3041 | html, punkt | Dig som vill träna hemma eller på resan, enligt tillverkaren | Dig som vill träna hemma eller på resor, enligt tillverkaren | Ordagrann översättning |
