@@ -88,3 +88,9 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 - Regel: förbjud FAQ-avsnitt som inte har stöd i produktens egen källa, och kräv att `fakta` hämtas per produkt (inte kopieras).
 - Regel: bygg skrivfilen maskinellt av utkast och granskarnas före/efter (`vag2_skriv/bygg_c_skriv.py`), och låt skriptet kontrollera dubbletter och längder över alla batcher innan skrivning.
 - Regel: Shopify-skrivning pausar vid användargräns; återuppta avbrutna agenter med SendMessage i stället för att starta nya.
+
+## 2026-11-02: nattsynken efter våg 1 lät texterna stå kvar (stickprov), orsaken till pilotens tillbakagång är fortfarande okänd
+- Vad hände: våg 1 skrevs 2026-11-01 kl. 19:14–19:28 (UTC). Nattsynken 2026-11-02 kl. 04:23–05:06 ändrade `updatedAt` på drygt 40 av 126 skrivna produkter. Stickprov på 18 av dem (titel, SEO, beskrivning mot skrivfilerna): 18 av 18 hade kvar våra texter. Produkthändelserna (`events`) visar att Velomarket3 ändrar status och kanaler, aldrig titel eller beskrivning; de loggar dock inte alltid fältändringar.
+- Okänt: varför 12 av pilotens 20 titlar gick tillbaka 2026-10-25–10-30. Hypotes (obekräftad): leverantörssynken skriver om texter när en produkt byter status (arkiverad till aktiv).
+- Regel: kontrollera `updatedAt` mot skrivtidpunkt efter varje natt; jämför titlar på de produkter som ändrats. Allt som ändrats efter skrivningen jämförs mot skrivfilen.
+- Regel: skriv alltid från filer med före-läge sparat, så att en omskrivning är en batchkörning.
