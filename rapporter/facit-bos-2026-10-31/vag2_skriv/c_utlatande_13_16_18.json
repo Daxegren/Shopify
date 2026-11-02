@@ -1,0 +1,442 @@
+[
+ {
+  "nr": 3181,
+  "id": "10581110161674",
+  "fil": "c_13_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<h2>Vanliga frågor</h2><h3>Går bandet att tvätta?</h3><p>Ja, bandet tål maskintvätt i 30 grader. Använd inte torktumlare eller torkskåp.</p>",
+     "efter": ""
+    },
+    {
+     "fore": "Enligt tillverkaren passar det både hemmaträning och gym.",
+     "efter": "Enligt tillverkaren passar det för både hemmaträning och gym."
+    }
+   ]
+  },
+  "skal": "FAQ om att tvätta ett band är felkopierad och hör inte till produkten (påhittad uppgift); hela avsnittet Vanliga frågor tas bort. Prepositionen \"för\" saknas."
+ },
+ {
+  "nr": 3182,
+  "id": "10581110194442",
+  "fil": "c_13_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<h2>Vanliga frågor</h2><h3>Går bandet att tvätta?</h3><p>Ja, bandet tål maskintvätt i 30 grader. Använd inte torktumlare eller torkskåp.</p>",
+     "efter": ""
+    },
+    {
+     "fore": "Enligt tillverkaren passar det både intervallträning och uppvärmning.",
+     "efter": "Enligt tillverkaren passar det för både intervallträning och uppvärmning."
+    }
+   ]
+  },
+  "skal": "FAQ om att tvätta ett band är felkopierad och hör inte till produkten (påhittad uppgift); hela avsnittet Vanliga frågor tas bort. Prepositionen \"för\" saknas."
+ },
+ {
+  "nr": 3183,
+  "id": "10581110227210",
+  "fil": "c_13_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<h2>Vanliga frågor</h2><h3>Går bandet att tvätta?</h3><p>Ja, bandet tål maskintvätt i 30 grader. Använd inte torktumlare eller torkskåp.</p>",
+     "efter": ""
+    },
+    {
+     "fore": "Gymstick Pro Hex Hantel är en hexhantel med sexkantig form.",
+     "efter": "Gymstick Pro Hex Hantel är en hantel med sexkantig form."
+    }
+   ],
+   "meta": {
+    "fore": "Gymstick Pro Hex Hantel är en hexhantel med sexkantig form.",
+    "efter": "Gymstick Pro Hex Hantel är en hantel med sexkantig form."
+   }
+  },
+  "skal": "FAQ om att tvätta ett band är felkopierad och hör inte till produkten (påhittad uppgift); hela avsnittet Vanliga frågor tas bort. \"Hexhantel med sexkantig form\" säger samma sak två gånger (meta blir 141 tecken). Live har 28 varianter (1–60), inte 20 som i fakta; vikten är rätt olåst."
+ },
+ {
+  "nr": 3185,
+  "id": "10581110292746",
+  "fil": "c_13_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<h2>Vanliga frågor</h2><h3>Går bandet att tvätta?</h3><p>Ja, bandet tål maskintvätt i 30 grader. Använd inte torktumlare eller torkskåp.</p>",
+     "efter": ""
+    },
+    {
+     "fore": "Enligt tillverkaren passar den både hemmagym och gym.",
+     "efter": "Enligt tillverkaren passar den för både hemmagym och gym."
+    }
+   ]
+  },
+  "skal": "FAQ om att tvätta ett band är felkopierad och hör inte till produkten (påhittad uppgift); hela avsnittet Vanliga frågor tas bort. Prepositionen \"för\" saknas."
+ },
+ {
+  "nr": 3186,
+  "id": "10581110358282",
+  "fil": "c_13_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Viktplattor är produkter med last (Davids beslut 2026-11-02 om 2310/2314; c_18 har avvisat viktskivorna 3264 av samma skäl). Hålets diameter saknas i källan, och 7 varianter (1,25–25) med olika pris. Utkastet har också den felkopierade FAQ:n om tvätt av band."
+ },
+ {
+  "nr": 3187,
+  "id": "10581110391050",
+  "fil": "c_13_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Viktset med okänt innehåll (stång, vikter, lås, antal anges inte) = produkt med last, och källan är för tunn för att skriva säkert. Om 20 kg avser setet framgår inte. Felkopierad FAQ om tvätt av band. Samma bedömning som 3234."
+ },
+ {
+  "nr": 3188,
+  "id": "10581110423818",
+  "fil": "c_13_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<h2>Vanliga frågor</h2><h3>Går bandet att tvätta?</h3><p>Ja, bandet tål maskintvätt i 30 grader. Använd inte torktumlare eller torkskåp.</p>",
+    "efter": ""
+   }
+  },
+  "skal": "FAQ om att tvätta ett band är felkopierad och hör inte till produkten (påhittad uppgift); hela avsnittet Vanliga frågor tas bort."
+ },
+ {
+  "nr": 3189,
+  "id": "10581110456586",
+  "fil": "c_13_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<h2>Vanliga frågor</h2><h3>Går bandet att tvätta?</h3><p>Ja, bandet tål maskintvätt i 30 grader. Använd inte torktumlare eller torkskåp.</p>",
+    "efter": ""
+   }
+  },
+  "skal": "FAQ om att tvätta ett band är felkopierad och hör inte till produkten (påhittad uppgift); hela avsnittet Vanliga frågor tas bort."
+ },
+ {
+  "nr": 3190,
+  "id": "10581110522122",
+  "fil": "c_13_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<h2>Vanliga frågor</h2><h3>Går bandet att tvätta?</h3><p>Ja, bandet tål maskintvätt i 30 grader. Använd inte torktumlare eller torkskåp.</p>",
+     "efter": ""
+    },
+    {
+     "fore": "Gymstick Pro Gummi Golv är ett gummigolv i golvplattor på 50 x 100 cm.",
+     "efter": "Gymstick Pro Gummi Golv består av gummiplattor på 50 x 100 cm."
+    }
+   ],
+   "meta": {
+    "fore": "Gymstick Pro Gummi Golv är ett gummigolv på 50 x 100 cm. Enligt tillverkaren ger det stötdämpning och ljudisolering. Finns i flera varianter.",
+    "efter": "Gymstick Pro Gummi Golv består av gummiplattor på 50 x 100 cm. Enligt tillverkaren ger plattorna stötdämpning och ljudisolering. Finns i flera varianter."
+   }
+  },
+  "skal": "FAQ om att tvätta ett band är felkopierad och hör inte till produkten (påhittad uppgift); hela avsnittet Vanliga frågor tas bort. \"Gummi Golv är ett gummigolv\" är cirkulärt och \"ett gummigolv i golvplattor\" haltar; källan säger golvplattor (meta blir 153 tecken). Tjockleken 3 cm (titel/text) mot varianterna 30/40 är rätt olåst."
+ },
+ {
+  "nr": 3191,
+  "id": "10581110554890",
+  "fil": "c_13_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<h2>Vanliga frågor</h2><h3>Går bandet att tvätta?</h3><p>Ja, bandet tål maskintvätt i 30 grader. Använd inte torktumlare eller torkskåp.</p>",
+     "efter": ""
+    },
+    {
+     "fore": "Enligt tillverkaren passar den både hemmagym och gym.",
+     "efter": "Enligt tillverkaren passar den för både hemmagym och gym."
+    }
+   ]
+  },
+  "skal": "FAQ om att tvätta ett band är felkopierad och hör inte till produkten (påhittad uppgift); hela avsnittet Vanliga frågor tas bort. Prepositionen \"för\" saknas. Öppen fråga: stepbräda bär kroppsvikt och källan saknar maxbelastning (se slutet)."
+ },
+ {
+  "nr": 3192,
+  "id": "10581110587658",
+  "fil": "c_13_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<h2>Vanliga frågor</h2><h3>Går bandet att tvätta?</h3><p>Ja, bandet tål maskintvätt i 30 grader. Använd inte torktumlare eller torkskåp.</p>",
+    "efter": ""
+   }
+  },
+  "skal": "FAQ om att tvätta ett band är felkopierad och hör inte till produkten (påhittad uppgift); hela avsnittet Vanliga frågor tas bort. Öppen fråga om stepbrädor (maxbelastning saknas, justerbar höjd)."
+ },
+ {
+  "nr": 3193,
+  "id": "10581110620426",
+  "fil": "c_13_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<h2>Vanliga frågor</h2><h3>Går bandet att tvätta?</h3><p>Ja, bandet tål maskintvätt i 30 grader. Använd inte torktumlare eller torkskåp.</p>",
+    "efter": ""
+   },
+   "meta": {
+    "fore": "är en hantel med slitstark vinylbeläggning.",
+    "efter": "är en hantel med vinylbeläggning."
+   }
+  },
+  "skal": "FAQ om att tvätta ett band är felkopierad och hör inte till produkten (påhittad uppgift); hela avsnittet Vanliga frågor tas bort. \"Slitstark\" är tillverkarens påstående utan \"enligt tillverkaren\" i meta (meta blir 136 tecken)."
+ },
+ {
+  "nr": 3194,
+  "id": "10581110653194",
+  "fil": "c_13_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<h2>Vanliga frågor</h2><h3>Går bandet att tvätta?</h3><p>Ja, bandet tål maskintvätt i 30 grader. Använd inte torktumlare eller torkskåp.</p>",
+    "efter": ""
+   }
+  },
+  "skal": "FAQ om att tvätta ett band är felkopierad och hör inte till produkten (påhittad uppgift); hela avsnittet Vanliga frågor tas bort. Live har 23 varianter (5–60), varav 6 med pris 0 kr (42,5, 47,5, 52,5, 55, 57,5, 60); fakta säger 20 varianter och 8 utan pris. Texten låser ingen vikt, men prisfelen bör ses av David."
+ },
+ {
+  "nr": 3226,
+  "id": "10581112193290",
+  "fil": "c_16_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Enligt tillverkaren passar den både för hemmabruk och på gymmet.",
+    "efter": "Enligt tillverkaren passar den för både hemmabruk och gym."
+   }
+  },
+  "skal": "Ordföljd och parallellitet. Varianter 33/60 rätt olåsta."
+ },
+ {
+  "nr": 3227,
+  "id": "10581112226058",
+  "fil": "c_16_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Varianterna Default/90 (olika pris) är rätt olåsta."
+ },
+ {
+  "nr": 3228,
+  "id": "10581112258826",
+  "fil": "c_16_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Oklar produkttyp: källan säger inte vad Universal Paw är; titeln saknar typord (\"Universal Paw Gymstick\") och texten kallar den bara \"träningsutrustning\". Utkastaren flaggar själv."
+ },
+ {
+  "nr": 3229,
+  "id": "10581112324362",
+  "fil": "c_16_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Oklar produkttyp: källan säger inte vad Universal Spike är; titeln saknar typord och källan bygger på \"kontroll och säkerhet\". Utkastaren flaggar själv."
+ },
+ {
+  "nr": 3230,
+  "id": "10581112357130",
+  "fil": "c_16_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "\"V-Bar\" är engelskt typord utan svenskt typord i titeln; godtagbart (V-bar används i svensk handel), men David kan välja t.ex. \"Kabelhandtag Gymstick V-Bar\" för enhetlighet med 3232."
+ },
+ {
+  "nr": 3231,
+  "id": "10581112389898",
+  "fil": "c_16_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Vikt: 15 kg (set)</li>",
+    "efter": "<li>Vikt: 15 kg</li>"
+   }
+  },
+  "skal": "\"(set)\" är en tolkning; källan säger bara \"Set 15kg\" och utkastaren vet inte om vikten är total eller per hantel."
+ },
+ {
+  "nr": 3232,
+  "id": "10581112422666",
+  "fil": "c_16_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3233,
+  "id": "10581112455434",
+  "fil": "c_16_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Vikt och antal (2 x 1 kg mot fem varianter 1–5) rätt olåsta."
+ },
+ {
+  "nr": 3234,
+  "id": "10581112488202",
+  "fil": "c_16_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Viktset med okänt innehåll (skivor, stång, grepp anges inte); typen \"viktset\" kommer bara från taggen. Produkt med last enligt utkastarens egen flagga; samma bedömning som 3187."
+ },
+ {
+  "nr": 3235,
+  "id": "10581112553738",
+  "fil": "c_16_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Varianter 4–12 rätt olåsta."
+ },
+ {
+  "nr": 3236,
+  "id": "10581112586506",
+  "fil": "c_16_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Varianter 3–12 rätt olåsta. \"Medicinboll\" från taggen Medicinbollar."
+ },
+ {
+  "nr": 3237,
+  "id": "10581112619274",
+  "fil": "c_16_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Färgvarianterna BL/LI/PI/TU är rätt olåsta (originaltiteln säger Svart)."
+ },
+ {
+  "nr": 3238,
+  "id": "10581112652042",
+  "fil": "c_16_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Färgvarianterna G/LI/PI/TU är rätt olåsta (originaltiteln säger grå)."
+ },
+ {
+  "nr": 3240,
+  "id": "10581112750346",
+  "fil": "c_16_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Material: Trä (enligt produktnamnet)</li>",
+    "efter": "<li>Material: Trä</li>"
+   },
+   "seo_title": {
+    "fore": "Balansbräde i Trä Gymstick Wooden",
+    "efter": "Balansbräde Gymstick i Trä"
+   }
+  },
+  "skal": "\"(enligt produktnamnet)\" är en arbetsterm i kundtext (avsnitt 10). SEO-titeln har engelskt \"Wooden\" som upprepar \"i Trä\"; ny SEO-titel = titeln och lagras tom. Öppen fråga: balansbräde i trä har fallrisk och saknar maxbelastning (utkastaren flaggar)."
+ },
+ {
+  "nr": 3256,
+  "id": "10581119303946",
+  "fil": "c_18_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Vivid är en träningsmatta på 170 x 60 cm och 0,4 cm tjock, avsedd för övningar som yoga, stretching och styrketräning. Färg: Rosa och grå.",
+    "efter": "Gymstick Vivid är en träningsmatta som mäter 170 x 60 cm och är 0,4 cm tjock. Den är avsedd för yoga, stretching och styrketräning. Färg: Rosa och grå."
+   }
+  },
+  "skal": "\"En träningsmatta på 170 x 60 cm och 0,4 cm tjock\" är grammatiskt fel (jfr rättning 2206). Meta blir 151 tecken."
+ },
+ {
+  "nr": 3258,
+  "id": "10581119369482",
+  "fil": "c_18_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Vivid är en träningsmatta på 170 x 60 cm och 0,4 cm tjock, avsedd för övningar som yoga, stretching och styrketräning. Färg: Turkos och grå.",
+    "efter": "Gymstick Vivid är en träningsmatta som mäter 170 x 60 cm och är 0,4 cm tjock, avsedd för yoga, stretching och mer intensiva pass. Färg: Turkos och grå."
+   },
+   "html": [
+    {
+     "fore": "avsedd för övningar som yoga, stretching och styrketräning.</p>",
+     "efter": "avsedd för övningar som yoga, stretching och mer intensiva pass.</p>"
+    },
+    {
+     "fore": "<li>Dig som vill ha en matta att använda vid styrketräning</li>",
+     "efter": "<li>Dig som vill ha en matta till mer intensiva pass</li>"
+    }
+   ]
+  },
+  "skal": "Faktafel: live-källan för turkos säger \"allt från yoga och stretching till mer intensiva pass\", inte styrketräning. Fältet fakta i utkastet är kopierat från den rosa mattan (3256) och stämmer inte med live. Dessutom samma grammatikfel i meta som 3256. Meta blir 151 tecken."
+ },
+ {
+  "nr": 3263,
+  "id": "10593397408010",
+  "fil": "c_18_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3270,
+  "id": "10593407729930",
+  "fil": "c_18_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3257,
+  "id": "10581119336714",
+  "fil": "c_18_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn källa, kort text utan meta, följer regeln. Öppen fråga om stepbrädor (maxbelastning saknas). Frivilligt: titeln upprepar typordet på engelska (\"Stepbräda … Step Board\")."
+ },
+ {
+  "nr": 3259,
+  "id": "10581119402250",
+  "fil": "c_18_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Längd: 33 cm</li>",
+    "efter": "<li>Mått: 33 cm</li>"
+   }
+  },
+  "skal": "Källan anger 33 cm bara i titeln utan att säga att det är längden (utkastaren flaggar själv); \"Mått\" påstår inte vilken dimension."
+ },
+ {
+  "nr": 3260,
+  "id": "10581119435018",
+  "fil": "c_18_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Oklar produkttyp: källan säger bara \"tube trainer\" (inte om det är motståndsband, handtag eller motstånd); utkastet använder det neutrala \"Träningsredskap\" som titel och SEO-titel. Dessutom står \"styrketräning\" i intro, medan källan säger uppvärmning, konditionsträning och rehabilitering. Samma skäl som 3228/3229."
+ },
+ {
+  "nr": 3261,
+  "id": "10581119467786",
+  "fil": "c_18_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3269,
+  "id": "10593407566090",
+  "fil": "c_18_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "är ett balanskudde",
+    "efter": "är en balanskudde"
+   }
+  },
+  "skal": "Genusfel (en kudde). Typordet \"balanskudde\" är översatt från \"Balance Pad\"; i våg 1 blev Tunturis Balance Pad \"balansplatta\". David bör välja ett ord."
+ }
+]
