@@ -81,3 +81,10 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 - Regel: kör kontrollskriptet på en kopia där html är mappat till beskrivning och standardblocket är markerat med `[[STANDARDBLOCK]]`, och redovisa det i rapporten.
 - Regel: tala om för utkastsagenter att kontrollera om målfilen finns innan de skriver, och kräv unika SEO-titlar över hela batchen.
 - Regel: granskare underkände 12 av 27 utkast (säkerhetsprodukter, oklar produkttyp). Sortera bort produkter med säkerhetsprofil innan utkast skrivs.
+
+## 2026-11-02: utkastagenter missar fel som bara en oberoende granskare ser
+- Vad hände: i Gymstick-vågen (295 produkter) underkände eller rättade granskarna drygt hälften av utkasten. Mönster: cirkulära första meningar ("Exercise Ball är en träningsboll"), en påhittad FAQ ("Går bandet att tvätta?") i alla 13 utkast i en batch, fel i `fakta`-fältet (kopierat från en annan produkt), dubblerade SEO-titlar mellan batcher och arbetstermer i kundtext. Kontrollskriptet gav 0 FEL på allt detta.
+- Regel: kör aldrig skrivning på utkast som bara kontrollskriptet har sett. Oberoende granskare ska hämta källan på nytt och döma varje produkt.
+- Regel: förbjud FAQ-avsnitt som inte har stöd i produktens egen källa, och kräv att `fakta` hämtas per produkt (inte kopieras).
+- Regel: bygg skrivfilen maskinellt av utkast och granskarnas före/efter (`vag2_skriv/bygg_c_skriv.py`), och låt skriptet kontrollera dubbletter och längder över alla batcher innan skrivning.
+- Regel: Shopify-skrivning pausar vid användargräns; återuppta avbrutna agenter med SendMessage i stället för att starta nya.
