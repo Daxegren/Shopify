@@ -1,0 +1,351 @@
+[
+ {
+  "nr": 3271,
+  "id": "10598114197770",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Skumrulle Gymstick Active Compact, 30 cm",
+    "efter": "Foamroller Gymstick Active Compact, 30 cm"
+   },
+   "seo_title": {
+    "fore": "Skumrulle Gymstick Active Compact",
+    "efter": "Foamroller Gymstick Active Compact"
+   },
+   "meta": {
+    "fore": "Gymstick Active Compact är en kompakt skumrulle på 30 cm. Enligt tillverkaren är den avsedd för återhämtning och rörlighetsträning.",
+    "efter": "Gymstick Active Compact är en kompakt foamroller på 30 cm. Enligt tillverkaren är den avsedd för rörlighetsträning och regelbunden användning."
+   },
+   "html intro": {
+    "fore": "Gymstick Active Compact är en kompakt skumrulle på 30 cm, enligt tillverkaren avsedd för återhämtning och rörlighetsträning.",
+    "efter": "Gymstick Active Compact är en kompakt foamroller på 30 cm, enligt tillverkaren avsedd för rörlighetsträning."
+   },
+   "html passar 1": {
+    "fore": "<li>Dig som vill ha en kompakt skumrulle</li>",
+    "efter": "<li>Dig som vill ha en kompakt foamroller</li>"
+   },
+   "html passar 2": {
+    "fore": "<li>Dig som vill använda en rulle till återhämtning och rörlighetsträning, enligt tillverkaren</li>",
+    "efter": "<li>Dig som vill använda en rulle i rörlighetsträning, enligt tillverkaren</li>"
+   },
+   "html spec": {
+    "fore": "<li>Typ: Skumrulle</li>",
+    "efter": "<li>Typ: Foamroller</li>"
+   }
+  },
+  "skal": "Typordet följer övriga godkända Gymstick/Toorx-utkast (Foamroller: 3027, 3226, 3259, Toorx Grid i våg 1). \"Återhämtning\" behandlas som effektpåstående i alla andra utkast i vågen och tas bort."
+ },
+ {
+  "nr": 3272,
+  "id": "10598117802250",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Fot- och Handmassagerulle är",
+    "efter": "Gymstick Fot- och handmassagerulle är"
+   },
+   "html intro": {
+    "fore": "<p>Gymstick Fot- och Handmassagerulle är",
+    "efter": "<p>Gymstick Fot- och handmassagerulle är"
+   }
+  },
+  "skal": "Versal mitt i ordet hör bara hemma i titel och SEO-titel, inte i löptext. Massagerulle får stå som produktnamn (avsnitt 10); inga effektpåståenden. Meta 145 tecken."
+ },
+ {
+  "nr": 3273,
+  "id": "10598117900554",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Flytande Krita Gymstick",
+    "efter": "Gymtalk Gymstick Liquid Chalk"
+   },
+   "seo_title": {
+    "fore": "Flytande Krita Gymstick för Grepp",
+    "efter": "Gymtalk Gymstick Liquid Chalk för Grepp"
+   },
+   "meta": {
+    "fore": "Gymstick Flytande Krita är en krita i flytande form. Enligt tillverkaren förstärker den greppet vid styrkelyft, klättring och andra aktiviteter.",
+    "efter": "Gymstick Liquid Chalk är en flytande gymtalk. Enligt tillverkaren förstärker den greppet vid styrkelyft, klättring och andra aktiviteter."
+   },
+   "html intro": {
+    "fore": "Gymstick Flytande Krita är en krita i flytande form som enligt tillverkaren förstärker greppet.",
+    "efter": "Gymstick Liquid Chalk är en flytande gymtalk som enligt tillverkaren förstärker greppet."
+   },
+   "html spec": {
+    "fore": "<li>Typ: Flytande krita</li>",
+    "efter": "<li>Typ: Flytande gymtalk</li>"
+   }
+  },
+  "skal": "Avsnitt 11: Gymtalk är typordet för talk (jfr 2108, 2213 Gymtalk Trec Liquid Chalk). Utkastet byter dessutom produktnamnet \"Liquid Chalk\" mot en egen översättning och sätter märket sist (ordning Typ, Märke, Modell). Meta 137 tecken."
+ },
+ {
+  "nr": 3274,
+  "id": "10604622086410",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Myofasciaboll Gymstick Active",
+    "efter": "Massageboll Gymstick Active Myofascia Ball"
+   },
+   "seo_title": {
+    "fore": "Myofasciaboll Gymstick Active",
+    "efter": "Massageboll Gymstick Active Myofascia Ball"
+   },
+   "html intro": {
+    "fore": "Gymstick Active Myofascia Ball är en myofasciaboll som enligt tillverkaren används efter träning.",
+    "efter": "Gymstick Active Myofascia är en massageboll som enligt tillverkaren används efter träning."
+   },
+   "html passar 1": {
+    "fore": "<li>Dig som vill ha en myofasciaboll</li>\n",
+    "efter": ""
+   },
+   "html spec modell": {
+    "fore": "<li>Modell: Active</li>",
+    "efter": "<li>Modell: Active Myofascia Ball</li>"
+   },
+   "html spec typ": {
+    "fore": "<li>Typ: Myofasciaboll</li>",
+    "efter": "<li>Typ: Massageboll</li>"
+   }
+  },
+  "skal": "\"Myofasciaboll\" är inget etablerat svenskt typord; övriga Gymstick-utkast använder Massageboll (3154 MyoFascia Ball, 3156, 3157). Modellnamnet ska vara helt (Active Myofascia Ball). Punkten \"Dig som vill ha en myofasciaboll\" är cirkulär och tas bort. SEO-titel lika med titel lagras tom (avsett)."
+ },
+ {
+  "nr": 3280,
+  "id": "10611430850826",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "kan användas för övningar för ben",
+    "efter": "kan användas i övningar för ben"
+   }
+  },
+  "skal": "Upprepningen \"för övningar för\". Meta 139 tecken. Variant MS (SKU 62005-MS) har pris 0 kr och är oförklarad; texten låser ingen variant, så frågan går till David men stoppar inte texten."
+ },
+ {
+  "nr": 3282,
+  "id": "10611433832714",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Längden 45,7 m finns i originaltitel och beskrivning. Motståndsnivån (\"Extra Heavy\") är rätt inte låst eftersom varianterna 1–6 (1 109–1 959 kr) är oförklarade. Rehabilitering utelämnad. Meta null godtas. Att bekräfta: vad varianterna 1–6 är, och att titeln \"Extra Heavy\" i butiken motsäger varianterna."
+ },
+ {
+  "nr": 3283,
+  "id": "10611438027018",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Återhämtningsboll Gymstick Recovery, 10 cm",
+    "efter": "Massageboll Gymstick Recovery Ball, 10 cm"
+   },
+   "seo_title": {
+    "fore": "Återhämtningsboll Gymstick Recovery",
+    "efter": "Massageboll Gymstick Recovery Ball"
+   },
+   "meta": {
+    "fore": "Gymstick Recovery Ball är en återhämtningsboll på 10 cm. Enligt tillverkaren används den efter träningspass som komplement till träningsrutinen.",
+    "efter": "Gymstick Recovery är en massageboll på 10 cm. Enligt tillverkaren används den efter träningspass och som komplement till träningsrutinen."
+   },
+   "html intro": {
+    "fore": "Gymstick Recovery Ball är en återhämtningsboll på 10 cm som enligt tillverkaren används efter träningspass.",
+    "efter": "Gymstick Recovery är en massageboll på 10 cm som enligt tillverkaren används efter träningspass."
+   },
+   "html passar 1": {
+    "fore": "<li>Dig som vill ha en liten boll till återhämtning efter träning</li>",
+    "efter": "<li>Dig som vill ha en liten boll att använda efter träning</li>"
+   },
+   "html spec": {
+    "fore": "<li>Typ: Återhämtningsboll</li>",
+    "efter": "<li>Typ: Massageboll</li>"
+   }
+  },
+  "skal": "\"Återhämtningsboll\" är en direktöversättning av Recovery Ball (cirkulärt) och bär ett effektpåstående. Övriga utkast för samma slags boll heter Massageboll (3021 Active Recovery, 3205 Recovery Twin Ball). Källan nämner självmassage. Meta 137 tecken."
+ },
+ {
+  "nr": 3284,
+  "id": "10611438420234",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Shakerflaska är en shakerflaska på 600 ml.",
+    "efter": "Shakerflaskan från Gymstick rymmer 600 ml."
+   },
+   "html intro": {
+    "fore": "<p>Gymstick Shakerflaska är en shakerflaska på 600 ml.</p>",
+    "efter": "<p>Shakerflaskan från Gymstick rymmer 600 ml.</p>"
+   }
+  },
+  "skal": "Cirkulär mening (\"Shakerflaska är en shakerflaska\"). Meta 131 tecken. Färgen är rätt inte låst (varianter BL, PI, WH; WH 0 kr). Kosttillskott är rätt utelämnat."
+ },
+ {
+  "nr": 3285,
+  "id": "10611438616842",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Koner Gymstick Speed",
+    "efter": "Träningskoner Gymstick Speed"
+   },
+   "seo_title": {
+    "fore": "Koner Gymstick Speed",
+    "efter": "Träningskoner Gymstick Speed"
+   },
+   "meta": {
+    "fore": "Gymstick Speed Cones är koner som enligt tillverkaren används för agilityträning, intervallpass och hinderbanor, både inomhus och utomhus.",
+    "efter": "Gymstick Speed är träningskoner som enligt tillverkaren används för agilityträning, intervallpass och hinderbanor, både inomhus och utomhus."
+   },
+   "html intro": {
+    "fore": "Gymstick Speed Cones är koner för träning av snabbhet, smidighet och koordination, enligt tillverkaren.",
+    "efter": "Gymstick Speed är träningskoner för träning av snabbhet, smidighet och koordination, enligt tillverkaren."
+   },
+   "html spec": {
+    "fore": "<li>Typ: Koner</li>",
+    "efter": "<li>Typ: Träningskoner</li>"
+   }
+  },
+  "skal": "\"Speed Cones är koner\" är just det cirkulära engelska mönstret. Typordet följer 3210 (Träningskoner Gymstick Speed Discs). Meta 140 tecken. Antal koner i förpackningen saknas i källan (att bekräfta); \"för barn\" rätt utelämnat."
+ },
+ {
+  "nr": 3287,
+  "id": "10611438911754",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Massagebollar som produktnamn är tillåtet (avsnitt 10); alla effekt- och behandlingspåståenden utelämnade. Meta null godtas (tunn källa). Antal och storlek saknas i källan."
+ },
+ {
+  "nr": 3289,
+  "id": "10611442450698",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Handledsstöd/\"handledsortos\" med skadeförebyggande påstående i källan (\"minimerar risken för skador\", \"optimalt stöd\" vid tunga lyft). Skydd/stöd med skadeförebyggande påståenden tas för hand med Davids ja. Texten i sig är försiktig, men storlek, material och hand saknas. Obs: syskonprodukten 3243 Wrist Support 1.0 (c_17) bör bedömas likadant."
+ },
+ {
+  "nr": 3290,
+  "id": "10611453886730",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Vivid Core Ball är en rosa träningsboll",
+    "efter": "Gymstick Vivid Core är en rosa träningsboll"
+   },
+   "html intro": {
+    "fore": "<p>Gymstick Vivid Core Ball är en rosa träningsboll",
+    "efter": "<p>Gymstick Vivid Core är en rosa träningsboll"
+   },
+   "html spec": {
+    "fore": "<li>Material: Slitstarkt, enligt tillverkaren</li>",
+    "efter": "<li>Slitstarkt material, enligt tillverkaren</li>"
+   }
+  },
+  "skal": "\"Core Ball är en träningsboll\" är cirkulärt. \"Slitstarkt\" är inget material, så raden skrivs som egenskap. Meta 147 tecken. Storlek saknas; pris 89 kr och syskonet 3174 (22 cm) tyder på en liten boll, inte en sittboll med last, men det bör bekräftas."
+ },
+ {
+  "nr": 3291,
+  "id": "10611454050570",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Vivid Exercise Band Set är ett set med 3 träningsband.",
+    "efter": "Gymstick Vivid är ett set med 3 träningsband."
+   },
+   "html intro": {
+    "fore": "<p>Gymstick Vivid Exercise Band Set är ett set med 3 träningsband.</p>",
+    "efter": "<p>Gymstick Vivid är ett set med 3 träningsband.</p>"
+   },
+   "html spec": {
+    "fore": "<li>Material: Hållbart, enligt tillverkaren</li>\n",
+    "efter": ""
+   }
+  },
+  "skal": "\"Exercise Band Set är ett set med träningsband\" är cirkulärt. Materialraden saknar material och bygger bara på kvalitetspåståendet \"högkvalitativt material för maximal hållbarhet\"; tas bort. Meta 133 tecken. Antalet 3 finns i originaltiteln (3pcs)."
+ },
+ {
+  "nr": 3292,
+  "id": "10611454181642",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Foam Roller Gymstick Vivid, 60 cm",
+    "efter": "Foamroller Gymstick Vivid, 60 cm"
+   },
+   "seo_title": {
+    "fore": "Foam Roller Gymstick Vivid, 60 cm",
+    "efter": "Foamroller Gymstick Vivid, 60 cm"
+   },
+   "meta": {
+    "fore": "Gymstick Vivid Foam Roller är en foam roller på 60 cm. Enligt tillverkaren gör längden den mångsidig för övningar över hela kroppen.",
+    "efter": "Gymstick Vivid är en foamroller med längden 60 cm. Enligt tillverkaren gör den generösa längden den mångsidig för övningar över hela kroppen."
+   },
+   "html intro": {
+    "fore": "<p>Gymstick Vivid Foam Roller är en foam roller på 60 cm.</p>",
+    "efter": "<p>Gymstick Vivid är en foamroller på 60 cm.</p>"
+   },
+   "html passar 1": {
+    "fore": "Dig som vill ha en foam roller för övningar för hela kroppen",
+    "efter": "Dig som vill ha en foamroller för övningar för hela kroppen"
+   },
+   "html passar 2": {
+    "fore": "Dig som vill ha en foam roller med längden 60 cm",
+    "efter": "Dig som vill ha en foamroller med längden 60 cm"
+   }
+  },
+  "skal": "Typordet skrivs Foamroller i ett ord som i 3027, 3226, 3259 och våg 1 (engelskt tvåordsuttryck annars). \"Vivid Foam Roller är en foam roller\" är cirkulärt. Meta 137 tecken (utkastets 132 blir för kort när upprepningen tas bort; \"generösa längd\" står i källan). Unik mot 3259 (33 cm)."
+ },
+ {
+  "nr": 3293,
+  "id": "10611454771466",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Vivid Yoga Block är ett yogablock.",
+    "efter": "Gymstick Vivid är ett yogablock."
+   },
+   "html intro": {
+    "fore": "<p>Gymstick Vivid Yoga Block är ett yogablock för yoga.</p>",
+    "efter": "<p>Gymstick Vivid är ett yogablock för stöd och stabilitet i olika positioner, enligt tillverkaren.</p>"
+   },
+   "html spec": {
+    "fore": "<li>Material: Slitstarkt, enligt tillverkaren</li>",
+    "efter": "<li>Slitstarkt material, enligt tillverkaren</li>"
+   }
+  },
+  "skal": "\"Yoga Block är ett yogablock för yoga\" är cirkulärt och upprepar. Miljöpåståendet rätt utelämnat. Meta 144 tecken. Källan säger \"dessa block\" (plural): antal i förpackningen ska bekräftas."
+ },
+ {
+  "nr": 3294,
+  "id": "10634245669130",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Court Dartboard Surround är en darttavleomslutning. Enligt tillverkaren är den slagtålig och skyddar väggen mot missade pilar runt standardtavlor.",
+    "efter": "Gymstick Court är en darttavleomslutning. Enligt tillverkaren är den slagtålig och skyddar väggen mot missade pilar runt standarddarttavlor."
+   },
+   "html intro": {
+    "fore": "<p>Gymstick Court Dartboard Surround är en darttavleomslutning",
+    "efter": "<p>Gymstick Court är en darttavleomslutning"
+   },
+   "html spec": {
+    "fore": "<li>Egenskaper enligt tillverkaren: Slagtålig</li>",
+    "efter": "<li>Egenskaper, enligt tillverkaren: Slagtålig</li>"
+   }
+  },
+  "skal": "\"Dartboard Surround är en darttavleomslutning\" är cirkulärt. Kommatecken för att följa mönstret \"X, enligt tillverkaren:\" i övriga utkast. Meta 140 tecken. Ingen säkerhetsprodukt. Mått och material saknas i källan."
+ },
+ {
+  "nr": 3295,
+  "id": "10634331783434",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Wrist Trainer är en handledstränare för träning av handleder och underarmar. Enligt tillverkaren har den kompakt design",
+    "efter": "Gymstick Wrist Trainer är ett träningsredskap för handleder och underarmar. Enligt tillverkaren har det kompakt design"
+   },
+   "html intro": {
+    "fore": "<p>Gymstick Wrist Trainer är en handledstränare för handleder och underarmar.</p>",
+    "efter": "<p>Gymstick Wrist Trainer är ett träningsredskap för handleder och underarmar.</p>"
+   }
+  },
+  "skal": "\"Wrist Trainer är en handledstränare\" är cirkulärt (och \"handledstränare för handleder\" upprepar). Titeln \"Handledstränare Gymstick\" behålls som typord. Meta 144 tecken. Hur redskapet fungerar (fjäder, gyro, rulle) saknas; om det visar sig ha motor eller elektronik ska det tas för hand."
+ }
+]
