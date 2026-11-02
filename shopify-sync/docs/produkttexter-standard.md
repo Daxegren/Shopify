@@ -84,3 +84,8 @@ Beslut av David: standarden gäller som utgångspunkt; 30 facit-produkter godkä
 - **Verktyg och filer:** `rapporter/facit-bos-2026-10-31/` (`bygg_utkast.py` bygger kontrollfiler, `bygg_skriv.py` bygger skrivdata, `handhavd_ids.txt` listar produkter som tas för hand, moduler `vag1_*.py` och `fix_*.py` är utkast, senaste modul vinner vid dubbletter).
 - **Formatregler (David 2026-11-01), gäller alla produkter:** (1) stor bokstav direkt efter kolon ("Färg: Svart"); (2) stor bokstav på beskrivande ord i titel och SEO-titel ("Barncykel Tabou Rocket Lite MG, 14 tum, Röd och Vit"). Små ord (och, med, för, i, på, av, till) och enheter (cm, mm, kg, tum, hk, lux) behåller liten bokstav, förkortningar och modellnamn lämnas orörda. Implementerat i `rapporter/facit-bos-2026-10-31/format_regler.py` och anropas av `bygg_utkast.py` och `bygg_skriv.py`.
 - **Tunn källa, mer info (David 2026-11-01):** för produkter med bara titel får uppgifter hämtas från flera återförsäljarsidor om de är entydiga (material, yta). De märks "att bekräfta" som sekundärkälla och används inte för mått, vikt eller belastning.
+
+## 11. Tillägg 2026-11-02 (David: ja)
+- **Rullskridskor och inlines är säkerhetsprodukter** och skrivs inte i vågor. De tas för hand med Davids ja per produkt. Produkterna med risk för personskada vid fel text eller fel användning (skydd, last, barn) hör hit; id finns i `rapporter/facit-bos-2026-10-31/handhavd_ids.txt`.
+- **Gymtalk** är talk för bättre grepp och översätts inte. Namnet får stå kvar i titel och text; genus: en gymtalk, talken.
+- **Fitnessmat Pro** (inte "Fitness Mat Pro") är den stavning leverantörskällorna använder.
