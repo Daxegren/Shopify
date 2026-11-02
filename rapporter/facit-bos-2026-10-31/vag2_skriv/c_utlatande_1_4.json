@@ -1,0 +1,437 @@
+[
+ {
+  "nr": 3001,
+  "id": "10411728240906",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Träningsboll Gymstick, 65 cm",
+    "efter": "Träningsboll Gymstick med Pump, 65 cm"
+   }
+  },
+  "skal": "SEO-titeln är identisk med c_6 nr 3087 (en annan Gymstick-boll). Maxbelastning 120 kg står entydigt i källan; om den ska stå kvar avgör David (öppen fråga)."
+ },
+ {
+  "nr": 3002,
+  "id": "10472257913098",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Oklar produkttyp: taggen 'hantelstång' och '30 mm' i originaltiteln tyder på en hantelstång för viktskivor (last och lås), inte en fast hantel. Tunn källa (bara titeln)."
+ },
+ {
+  "nr": 3004,
+  "id": "10472282456330",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Medicinboll Gymstick med Handtag",
+    "efter": "Medicinboll Gymstick med Handtag, 4 kg"
+   }
+  },
+  "skal": "SEO-titeln är identisk med c_10 nr 3148 (10 kg-bollen). Ny SEO-titel = titeln (lagras tom)."
+ },
+ {
+  "nr": 3005,
+  "id": "10472282489098",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Hopprep Gymstick i Läder",
+    "efter": "Hopprep Gymstick i Läder, 2,75 m"
+   }
+  },
+  "skal": "SEO-titeln är identisk med c_10 nr 3142 (Leather Jump Rope). Ny SEO-titel = titeln (lagras tom)."
+ },
+ {
+  "nr": 3006,
+  "id": "10581095743754",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt spårbart. Varianten 'BB' oförklarad men bara en variant."
+ },
+ {
+  "nr": 3007,
+  "id": "10581095809290",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt spårbart; löften om resultat utelämnade."
+ },
+ {
+  "nr": 3008,
+  "id": "10581095842058",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Ankel- och Handledsvikter Gymstick, 2 x 1 kg",
+    "efter": "Ankel- och Handledsvikter Gymstick Aktiv, 2 x 1 kg"
+   },
+   "seo_title": {
+    "fore": "Ankel- och Handledsvikter Gymstick",
+    "efter": "Ankel- och Handledsvikter Aktiv, 2 x 1 kg"
+   },
+   "meta": {
+    "fore": "Gymstick ankel- och handledsvikter är ett par på 2 x 1 kg. Enligt tillverkaren ger de extra motstånd vid löpning, promenader och yoga och sitter på plats.",
+    "efter": "Gymstick Aktiv är två ankel- och handledsvikter på 1 kg vardera. Enligt tillverkaren ger de extra motstånd vid löpning, promenader och yoga."
+   },
+   "html": {
+    "fore": "<p>Gymsticks ankel- och handledsvikter, 2 x 1 kg. Varje vikt väger 1 kg.</p>",
+    "efter": "<p>Gymstick Aktiv är två ankel- och handledsvikter på 1 kg vardera.</p>"
+   }
+  },
+  "skal": "Titeln är identisk med c_4 nr 3057 (annan produkt, SKU 61023). 'Aktiv' från originaltiteln ('Aktiva ankel- och handledsvikter') skiljer dem åt. Meta har 'och yoga och sitter på plats' (dubbelt och); 'par' står inte i källan. Introt upprepar vikten."
+ },
+ {
+  "nr": 3009,
+  "id": "10581095907594",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Oklar produkttyp: 'tunnrulle' förklaras inte (skumrulle? massagerulle?), och källan består nästan bara av hälso- och skadepåståenden. Utkastaren flaggar själv typen. Kan släppas om David bekräftar typen."
+ },
+ {
+  "nr": 3010,
+  "id": "10581095940362",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Active Exercise Ball är en träningsboll på 65 cm. Enligt tillverkaren passar den för övningar för kärnstyrka, balans och stretching.",
+    "efter": "Gymstick Active Exercise Ball är en träningsboll på 65 cm. Enligt tillverkaren passar den för övningar inom kärnstyrka, balans och stretching."
+   }
+  },
+  "skal": "'passar den för övningar för kärnstyrka' (för två gånger)."
+ },
+ {
+  "nr": 3011,
+  "id": "10581095973130",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Diameter 75 cm står i källan. Rehabilitering utelämnad."
+ },
+ {
+  "nr": 3012,
+  "id": "10581096005898",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Active Finger Expander Set innehåller två fingerexpandrar. Enligt tillverkaren är de lätta att använda och transportera, för händer och fingrar.",
+    "efter": "Gymstick Active Finger Expander Set är två fingerexpandrar för händer och fingrar. Enligt tillverkaren är de lätta att använda och transportera."
+   }
+  },
+  "skal": "Metan slutar med det lösa tillägget ', för händer och fingrar.'"
+ },
+ {
+  "nr": 3013,
+  "id": "10581096038666",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Active Foam Hand Grips är handtag i skummaterial med mjuk och greppvänlig yta. Enligt tillverkaren passar de på de flesta skivstänger och hantlar.",
+    "efter": "Gymstick Active Foam Hand Grips är handtag i skum. Enligt tillverkaren har de mjuk och greppvänlig yta och passar de flesta skivstänger och hantlar."
+   }
+  },
+  "skal": "'Mjuk och greppvänlig yta' står som fakta i metan men som tillverkarpåstående i html; samma tillskrivning i båda. Benämningen 'handtag i skum' bör bekräftas (troligen grepp som träs på stången)."
+ },
+ {
+  "nr": 3014,
+  "id": "10581096104202",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn text utan meta, korrekt."
+ },
+ {
+  "nr": 3015,
+  "id": "10581096169738",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Active Jump Rope är ett hopprep på 275 cm. Enligt tillverkaren passar det för uppvärmning och intervallträning, för både nybörjare och erfarna.",
+    "efter": "Gymstick Active Jump Rope är ett hopprep på 275 cm. Enligt tillverkaren passar det nybörjare och erfarna utövare för uppvärmning och intervallträning."
+   }
+  },
+  "skal": "'för både nybörjare och erfarna' saknar substantiv."
+ },
+ {
+  "nr": 3016,
+  "id": "10581096235274",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Active Mini Bands är ett set med två kompakta motståndsband för träning av hela kroppen, enligt tillverkaren. Bandens material är slitstarkt.",
+    "efter": "Gymstick Active Mini Bands är två kompakta motståndsband. Enligt tillverkaren är de gjorda av slitstarkt material och passar för träning av hela kroppen."
+   }
+  },
+  "skal": "'Bandens material är slitstarkt.' är ett tillverkarpåstående utan 'enligt tillverkaren'."
+ },
+ {
+  "nr": 3017,
+  "id": "10581096333578",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Massageboll är tillåtet produktnamn; inga effektpåståenden."
+ },
+ {
+  "nr": 3018,
+  "id": "10581096399114",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt spårbart; 20 cm skrivs som storlek."
+ },
+ {
+  "nr": 3019,
+  "id": "10581096464650",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Varianterna L/M/S (89–259 kr) låses inte. Rätt hanterat."
+ },
+ {
+  "nr": 3020,
+  "id": "10581096497418",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Handgrip Gymstick Active Power",
+    "efter": "Greppstärkare Gymstick Active Power"
+   },
+   "seo_title": {
+    "fore": "Handgrip Gymstick Active Power",
+    "efter": "Greppstärkare Gymstick Active Power"
+   },
+   "html": {
+    "fore": "<p>Gymstick Active Power Hand Grip är en handgrip för greppträning, enligt tillverkaren till underarmar, händer och fingrar.</p>",
+    "efter": "<p>Gymstick Active Power Hand Grip är en greppstärkare för träning av underarmar, händer och fingrar, enligt tillverkaren.</p>"
+   },
+   "html_2": {
+    "fore": "<li>Typ: Handgrip</li>",
+    "efter": "<li>Typ: Greppstärkare</li>"
+   }
+  },
+  "skal": "'Hand Grip är en handgrip' är cirkulär engelska; 3007 i samma serie heter 'Greppstärkare'. Meningen 'enligt tillverkaren till underarmar' är ogrammatisk. Kilouppgiften (30/45) rätt utelämnad."
+ },
+ {
+  "nr": 3021,
+  "id": "10581096530186",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Massageboll, inga effektpåståenden."
+ },
+ {
+  "nr": 3023,
+  "id": "10581096595722",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Inga effektpåståenden."
+ },
+ {
+  "nr": 3024,
+  "id": "10581096694026",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt spårbart; stress- och rehabpåståenden utelämnade."
+ },
+ {
+  "nr": 3025,
+  "id": "10581096759562",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Träningsmatta Gymstick Active",
+    "efter": "Träningsmatta Gymstick Aktiv"
+   },
+   "seo_title": {
+    "fore": "Träningsmatta Gymstick Active",
+    "efter": "Träningsmatta Gymstick Aktiv"
+   },
+   "meta": {
+    "fore": "Gymstick Active är en träningsmatta för träning från yoga till styrketräning. Enligt tillverkaren är den enkel att rulla ihop och ta med sig.",
+    "efter": "Gymstick Aktiv är en träningsmatta för allt från yoga till styrketräning. Enligt tillverkaren är den enkel att rulla ihop och ta med sig."
+   },
+   "html": {
+    "fore": "<p>Gymstick Active är en träningsmatta",
+    "efter": "<p>Gymstick Aktiv är en träningsmatta"
+   }
+  },
+  "skal": "Källan (titel och text) heter 'Aktiv Träningsmatta'; utkastet byter namnet till 'Active'. Samma serie 3006 behåller 'Aktiv'. Meta: 'träningsmatta för träning' upprepar."
+ },
+ {
+  "nr": 3026,
+  "id": "10581096923402",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Vikten låses inte trots varianter 1/3/5 med olika pris. 'Active' för 'Aktiva vinylhantlar' är en tolkning, se öppen fråga."
+ },
+ {
+  "nr": 3027,
+  "id": "10581096956170",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn text, inga effektpåståenden."
+ },
+ {
+  "nr": 3028,
+  "id": "10581096988938",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt spårbart."
+ },
+ {
+  "nr": 3030,
+  "id": "10581100331274",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Bara nät; passform mot mål okänd och flaggad."
+ },
+ {
+  "nr": 3031,
+  "id": "10581100364042",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Källan säger entydigt 'nät'."
+ },
+ {
+  "nr": 3034,
+  "id": "10581100757258",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Källan motsäger sig: titeln säger nät, texten ett robust mål som tål hårda skott. Är det ett mål gäller samma säkerhetsbedömning som för 3033 (avvisat)."
+ },
+ {
+  "nr": 3036,
+  "id": "10581100888330",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Källan motsäger sig: titeln säger nät, texten ett kompakt mål. Oklar produkttyp; minimålet 3035 är avvisat."
+ },
+ {
+  "nr": 3037,
+  "id": "10581100921098",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Oklar produkttyp och montering (dörr, vägg eller stativ okänt; 'basketkorg' är en tolkning). Kan vara ställning eller barnprodukt. Utkastaren flaggar själv."
+ },
+ {
+  "nr": 3038,
+  "id": "10581101084938",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn men korrekt."
+ },
+ {
+  "nr": 3039,
+  "id": "10581101117706",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn men korrekt."
+ },
+ {
+  "nr": 3040,
+  "id": "10581101281546",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "passar pilarna både träning och tävling.",
+    "efter": "passar pilarna för både träning och tävling."
+   }
+  },
+  "skal": "Preposition saknas."
+ },
+ {
+  "nr": 3041,
+  "id": "10581101609226",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Gymstick Hula Hoop med fog. Enligt tillverkaren gör fogen att ringen är enkel att montera och ta med sig.</p>",
+    "efter": "<p>Gymstick Hula Hoop är en träningsring med fog. Enligt tillverkaren gör fogen ringen enkel att montera och ta med sig.</p>"
+   }
+  },
+  "skal": "Första meningen saknar verb. Vikten låses rätt inte (varianter 1,2 och 1,5P med olika pris)."
+ },
+ {
+  "nr": 3047,
+  "id": "10581102035210",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Oklar produkttyp: 'remmar' för crunch-övningar är troligen hängande magremmar på en stång (bär kroppsvikten). Ingen svensk typ i titeln; källan är bara säljtext."
+ },
+ {
+  "nr": 3048,
+  "id": "10581102067978",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Oklar produkttyp; utkastaren vet inte om det är matta, stöd eller hjul och sätter inget svenskt typord."
+ },
+ {
+  "nr": 3049,
+  "id": "10581102199050",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Den inbyggda räknaren kan vara elektronisk (batteri); källan säger inte. Kan släppas om David bekräftar att räknaren är mekanisk."
+ },
+ {
+  "nr": 3051,
+  "id": "10581104230666",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Oklar produkttyp ('justerbart handtag … träningsaccessoar'), oförklarade varianter L/S."
+ },
+ {
+  "nr": 3052,
+  "id": "10581104427274",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Uppblåsbart landningsunderlag för gymnastik och cheerleading (fallskydd, används ofta av barn); källan bygger på stötdämpning och ledbelastning. Skydd med skadeförebyggande funktion. Färgvarianter BL/BLU/PI oförklarade, pump okänt."
+ },
+ {
+  "nr": 3055,
+  "id": "10581104525578",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Handtränare i Aluminium Gymstick Hand Grip",
+    "efter": "Handtränare i Aluminium Gymstick"
+   }
+  },
+  "skal": "'Handtränare … Hand Grip' är cirkulär engelska. Ny titel = SEO-titeln (lagras tom)."
+ },
+ {
+  "nr": 3056,
+  "id": "10581104558346",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Ankelfästen Gymstick Ankle Straps PR",
+    "efter": "Ankelfästen Gymstick PR"
+   },
+   "seo_title": {
+    "fore": "Ankelfästen Gymstick Ankle Straps",
+    "efter": "Ankelfästen Gymstick PR för Benövningar"
+   }
+  },
+  "skal": "'Ankelfästen … Ankle Straps' är cirkulär engelska. 'PR' oförklarat, se att bekräfta."
+ },
+ {
+  "nr": 3057,
+  "id": "10581104591114",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Titeldubbletten med 3008 löses genom rättningen av 3008."
+ },
+ {
+  "nr": 3059,
+  "id": "10581104656650",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Stressbollar Gymstick Anti-Stress Ball, 3 st",
+    "efter": "Stressbollar Gymstick, 3 st"
+   }
+  },
+  "skal": "'Stressbollar … Anti-Stress Ball' är cirkulär engelska. Ny titel = SEO-titeln."
+ },
+ {
+  "nr": 3060,
+  "id": "10581104689418",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt spårbart."
+ }
+]

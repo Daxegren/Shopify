@@ -1,0 +1,423 @@
+[
+ {
+  "nr": 3121,
+  "id": "10581107409162",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Gym Chalk Gymstick",
+    "efter": "Krita Gymstick Gym Chalk"
+   },
+   "seo_title": {
+    "fore": "Gym Chalk Gymstick för Grepp",
+    "efter": "Krita Gymstick Gym Chalk för Grepp"
+   }
+  },
+  "skal": "Engelskt typord först i titeln; svenskt typord (krita, ur källan) saknas."
+ },
+ {
+  "nr": 3122,
+  "id": "10581107441930",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3123,
+  "id": "10581107540234",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Dig som vill ha ett extra starkt motståndsband, enligt tillverkaren</li>",
+    "efter": "<li>Dig som vill ha ett extra starkt motståndsband</li>"
+   }
+  },
+  "skal": "'enligt tillverkaren' på ett önskemål är onaturligt."
+ },
+ {
+  "nr": 3124,
+  "id": "10581107671306",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3125,
+  "id": "10581107704074",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3126,
+  "id": "10581107769610",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3131,
+  "id": "10581107998986",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Gymmatta Interlocking Mat Pro",
+    "efter": "Gymmatta Gymstick Interlocking Mat Pro"
+   }
+  },
+  "skal": "SEO-titeln saknar märket."
+ },
+ {
+  "nr": 3132,
+  "id": "10581108031754",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Gymmatta Interlocking Mat Set",
+    "efter": "Gymmattor Gymstick Interlocking Mat Set"
+   },
+   "html": {
+    "fore": "<li>Dig som vill ha sammanfogbara mattor, enligt tillverkaren</li>",
+    "efter": "<li>Dig som vill ha mattor som går att sammanfoga</li>"
+   }
+  },
+  "skal": "SEO-titeln saknar märket och är i singular trots set; punkt med onaturligt 'enligt tillverkaren'."
+ },
+ {
+  "nr": 3133,
+  "id": "10581108064522",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Interlocking Mat Pro, 102,7 x 102,7 cm",
+    "efter": "Gymmatta Interlocking Mat Pro, 2,2 cm"
+   },
+   "meta": {
+    "fore": "Enligt tillverkaren går den att koppla ihop med andra.",
+    "efter": "Enligt tillverkaren går den att koppla ihop med andra mattor."
+   }
+  },
+  "skal": "SEO-titeln saknar svenskt typord och märke; 'med andra' är oklart."
+ },
+ {
+  "nr": 3135,
+  "id": "10581108162826",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Kettlebell Pad är en pad för kettlebellträning. Enligt tillverkaren skyddar den golv och utrustning och tål belastningen från kettlebellträning.",
+    "efter": "Gymstick Kettlebell Pad är ett golvskydd för kettlebellträning. Enligt tillverkaren skyddar det golv och utrustning och tål belastningen från träningen."
+   },
+   "html": {
+    "fore": "<p>Gymstick Kettlebell Pad är en pad för kettlebellträning. Enligt tillverkaren skyddar den golv och utrustning",
+    "efter": "<p>Gymstick Kettlebell Pad är ett golvskydd för kettlebellträning. Enligt tillverkaren skyddar det golv och utrustning"
+   }
+  },
+  "skal": "'Kettlebell Pad är en pad' är cirkulärt engelskt typord."
+ },
+ {
+  "nr": 3136,
+  "id": "10581108195594",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Ab Roller Gymstick Jumbo",
+    "efter": "Maghjul Gymstick Jumbo Ab Roller"
+   },
+   "seo_title": {
+    "fore": "Ab Roller Gymstick Jumbo",
+    "efter": "Maghjul Gymstick Jumbo Ab Roller"
+   },
+   "meta": {
+    "fore": "Gymstick Jumbo Ab Roller är en ab roller för bålträning. Enligt tillverkaren är den robust",
+    "efter": "Gymstick Jumbo Ab Roller är ett maghjul för bålträning. Enligt tillverkaren är det robust"
+   },
+   "html": {
+    "fore": "<p>Gymstick Jumbo Ab Roller är en ab roller för bålträning. Enligt tillverkaren är den robust och utformad för träning",
+    "efter": "<p>Gymstick Jumbo Ab Roller är ett maghjul för bålträning. Enligt tillverkaren är det robust och utformat för träning"
+   },
+   "html_2": {
+    "fore": "<li>Dig som vill träna bålen med en ab roller</li>",
+    "efter": "<li>Dig som vill träna bålen med ett maghjul</li>"
+   }
+  },
+  "skal": "Engelskt typord i titel och cirkulärt 'Ab Roller är en ab roller'; genus följer 'maghjul' (ett)."
+ },
+ {
+  "nr": 3139,
+  "id": "10581108293898",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Oklar produkttyp och möjlig last: källan säger inte om Lateral Curl Bar är en skivstång för viktskivor eller ett kabeltillbehör, och maxbelastning saknas (utkastaren flaggar själv). Stång med last tas för hand."
+ },
+ {
+  "nr": 3141,
+  "id": "10581108490506",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3142,
+  "id": "10581108556042",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Hopprep Gymstick i Läder",
+    "efter": "Hopprep Gymstick Leather Jump Rope"
+   }
+  },
+  "skal": "SEO-titeln är identisk med 3005 (c_1)."
+ },
+ {
+  "nr": 3143,
+  "id": "10581108588810",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Oklar produkttyp: källan säger bara 'grepp' (handskar, dynor eller grepp med rem?), titeln står på engelska ('Lifting Grips Gymstick') och texten blir cirkulär ('Lifting Grips är grepp'). Källan har dessutom skadeförebyggande påstående. För tunn för att skriva säkert."
+ },
+ {
+  "nr": 3144,
+  "id": "10581108621578",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Lifting Straps with Padding är lyftremmar med extra vaddering. Enligt tillverkaren är de tillverkade av slitstarkt material.",
+    "efter": "Gymstick Lifting Straps with Padding är lyftremmar med extra vaddering för styrketräning med tunga lyft. Enligt tillverkaren är materialet slitstarkt."
+   },
+   "html": {
+    "fore": "Enligt tillverkaren är de tillverkade av slitstarkt material.</p>",
+    "efter": "Enligt tillverkaren är materialet slitstarkt.</p>"
+   }
+  },
+  "skal": "'tillverkaren … tillverkade' upprepas; metan förlängs med användningen ur källan så att den når 150 tecken."
+ },
+ {
+  "nr": 3145,
+  "id": "10581108654346",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3146,
+  "id": "10581108687114",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3147,
+  "id": "10581108719882",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3148,
+  "id": "10581108883722",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Medicinboll Gymstick med Handtag",
+    "efter": "Medicinboll Gymstick Medicine Ball, Handtag"
+   }
+  },
+  "skal": "SEO-titeln är identisk med 3004 (c_1, samma serie 4 kg). Alternativ: ändra 3004 till '…, 4 kg' i stället."
+ },
+ {
+  "nr": 3149,
+  "id": "10581108916490",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3150,
+  "id": "10581108949258",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3151,
+  "id": "10581108982026",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3152,
+  "id": "10581109014794",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3153,
+  "id": "10581109047562",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3154,
+  "id": "10581109080330",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3156,
+  "id": "10581109145866",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3157,
+  "id": "10581109178634",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3160,
+  "id": "10581109309706",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Dig som vill ha en träningsboll på kontoret</li>\n<li>Dig som vill ha en träningsboll på hemmakontoret</li>",
+    "efter": "<li>Dig som vill ha en träningsboll på kontoret eller hemmakontoret</li>"
+   }
+  },
+  "skal": "Två punkter säger samma sak."
+ },
+ {
+  "nr": 3161,
+  "id": "10581109342474",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3163,
+  "id": "10581109408010",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Oklar produkttyp: 'Performance Board' kan vara balansbräda; användaren står på produkten och maxbelastning saknas. Utkastaren lyfter själv frågan. Tas för hand."
+ },
+ {
+  "nr": 3164,
+  "id": "10581109440778",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick träningsmatta i grått, 140 x 60 cm och 0,7 cm tjock. Enligt tillverkaren ger mattan grepp och stötdämpning vid yoga och styrketräning.",
+    "efter": "Gymstick träningsmatta är grå och mäter 140 x 60 cm. Den är 0,7 cm tjock och ger enligt tillverkaren grepp och stötdämpning vid yoga och styrketräning."
+   },
+   "html": {
+    "fore": "<p>Gymstick träningsmatta är en grå träningsmatta på 140 x 60 cm. Mattan är 0,7 cm tjock.</p>",
+    "efter": "<p>Gymstick träningsmatta är grå och mäter 140 x 60 cm. Mattan är 0,7 cm tjock.</p>"
+   },
+   "html_2": {
+    "fore": "<li>Mått: 140 x 60 cm</li>",
+    "efter": "<li>Märke: Gymstick</li>\n<li>Mått: 140 x 60 cm</li>"
+   }
+  },
+  "skal": "Första metameningen saknar verb; 'träningsmatta är en grå träningsmatta' upprepar; specifikationen saknar Märke."
+ },
+ {
+  "nr": 3165,
+  "id": "10581109473546",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3166,
+  "id": "10581109571850",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Hållningskorrigerare är ett stöd där hela källan är hälsopåståenden (hållning, minska obehag, rakare rygg) och taggen är Rehab & Hållning. Skydd/stöd med hälsoprofil tas för hand. Titelns 'Stor/Extra stor' motsäger dessutom varianterna S/M och L/XL."
+ },
+ {
+  "nr": 3167,
+  "id": "10581109604618",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3168,
+  "id": "10581109637386",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3171,
+  "id": "10581109768458",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Oklar produkttyp: utkastet saknar svenskt typord (glidmatta/slideboard?), och varianterna Default 799 kr, SL 149 kr och G 129 kr är troligen olika produkter. Användaren står och glider på produkten. Tas för hand."
+ },
+ {
+  "nr": 3174,
+  "id": "10581109866762",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3175,
+  "id": "10581109932298",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3176,
+  "id": "10581109965066",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3177,
+  "id": "10581110030602",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3178,
+  "id": "10581110063370",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3179,
+  "id": "10581110096138",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Pro Träningsmatta NBR är en grå träningsmatta i NBR på 170 x 60 cm och 1,5 cm tjock. Mattan passar",
+    "efter": "Gymstick Pro Träningsmatta NBR är en grå träningsmatta i NBR som mäter 170 x 60 cm och är 1,5 cm tjock. Mattan passar"
+   },
+   "html": {
+    "fore": "<p>Gymstick Pro Träningsmatta NBR är en grå träningsmatta i NBR på 170 x 60 cm och 1,5 cm tjock.</p>",
+    "efter": "<p>Gymstick Pro Träningsmatta NBR är en grå träningsmatta i NBR som mäter 170 x 60 cm och är 1,5 cm tjock.</p>"
+   }
+  },
+  "skal": "'på 170 x 60 cm och 1,5 cm tjock' är grammatiskt haltande."
+ },
+ {
+  "nr": 3180,
+  "id": "10581110128906",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ }
+]

@@ -1,0 +1,584 @@
+[
+ {
+  "nr": 3061,
+  "id": "10581104722186",
+  "fil": "c_5_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Gymstick Bag Gloves är säckhandskar för slagträning och säckarbete, enligt tillverkaren.",
+    "efter": "Säckhandskarna från Gymstick är gjorda för slagträning och säckarbete, enligt tillverkaren."
+   }
+  },
+  "skal": "Cirkulär första mening (\"Bag Gloves är säckhandskar\"). Varianterna 12 och 14 (samma pris) är rätt olåsta."
+ },
+ {
+  "nr": 3062,
+  "id": "10581104754954",
+  "fil": "c_5_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Stöd med skadeförebyggande påståenden i källan (\"minskar risken för skador\", \"träna säkrare\"). Originaltiteln säger Large/Extra Large men varianterna är L/XL och S/M. Tas för hand."
+ },
+ {
+  "nr": 3063,
+  "id": "10581104787722",
+  "fil": "c_5_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Balansbräda som användaren står på (fallrisk), ingen maxbelastning i källan och källan påstår att den \"förebygger skador\". Samma bedömning som utkastaren gjorde för trampolinen (3101). Tas för hand eller beslut av David."
+ },
+ {
+  "nr": 3064,
+  "id": "10581104820490",
+  "fil": "c_5_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Balansskiva som användaren står på, ingen maxbelastning och källan säger \"rehabilitering\". Utkastaren är själv osäker på typordet (balansskiva/balansdyna). Tas för hand eller beslut av David."
+ },
+ {
+  "nr": 3065,
+  "id": "10581104853258",
+  "fil": "c_5_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Nackskydd för tunga lyft (knäböj, höftlyft): skydd under last, och källan lovar \"skydd\" och minskat tryck på nacke och axlar. Typordet \"nackskydd\" bär själv skyddslöftet. Tas för hand."
+ },
+ {
+  "nr": 3066,
+  "id": "10581104886026",
+  "fil": "c_5_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Oklar produkttyp: källan säger bara \"träningsredskap\"/\"balance trainer\"; utkastaren gissar \"balanstränare\" och priset (1 499 kr) tyder på en större konstruktion. Rehabpåstående i källan."
+ },
+ {
+  "nr": 3067,
+  "id": "10581104918794",
+  "fil": "c_5_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Som 3065: nackskydd under last, källan lovar \"säkerhet under tunga lyft\" och stötdämpning. Skillnaden mot 3065 är okänd."
+ },
+ {
+  "nr": 3069,
+  "id": "10581105017098",
+  "fil": "c_5_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Gymstick Bounce-Back Hurdle är ett träningshinder med justerbar höjd, enligt tillverkaren.",
+    "efter": "Träningshindret Bounce-Back Hurdle från Gymstick har justerbar höjd, enligt tillverkaren."
+   },
+   "html_2": {
+    "fore": "<li>Dig som vill ha ett hinder med justerbar höjd för träning</li>",
+    "efter": "<li>Dig som tränar löpning eller idrottsspecifika övningar, enligt tillverkaren</li>"
+   }
+  },
+  "skal": "Cirkulär första mening (\"Hurdle är ett träningshinder\") och cirkulär punkt. Varianterna 105 (1 099 kr) och Default (779 kr) är olåsta, men vad de är bör David bekräfta."
+ },
+ {
+  "nr": 3070,
+  "id": "10581105049866",
+  "fil": "c_5_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Gymstick Boxing Gloves är boxningshandskar som finns i flera varianter.",
+    "efter": "Boxningshandskarna från Gymstick finns i flera varianter och är enligt tillverkaren gjorda för sparring, säckträning och konditionsträning."
+   },
+   "html_2": {
+    "fore": "<li>Dig som söker boxningshandskar för träning</li>",
+    "efter": "<li>Dig som tränar sparring, säckträning eller konditionsträning, enligt tillverkaren</li>"
+   }
+  },
+  "skal": "Cirkulär första mening (\"Boxing Gloves är boxningshandskar\") och cirkulär punkt; källan anger användningen."
+ },
+ {
+  "nr": 3071,
+  "id": "10581105082634",
+  "fil": "c_5_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Handlindor: stöd/skydd där källan påstår att de \"minskar risken för skador\" och ger kompression. Tas för hand."
+ },
+ {
+  "nr": 3073,
+  "id": "10581105213706",
+  "fil": "c_5_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Bandagetejp för att \"stabilisera skadade områden\" och \"förebygga skador\" enligt källan; kan vara medicinteknisk produkt. Utkastaren ber själv om bekräftelse av produkttyp."
+ },
+ {
+  "nr": 3074,
+  "id": "10581105443082",
+  "fil": "c_5_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Gymstick Komfortmatta är en matta på 180 x 60 cm i färgen Twisted Pink.",
+    "efter": "Gymstick Komfortmatta mäter 180 x 60 cm och har färgen Twisted Pink."
+   },
+   "html_2": {
+    "fore": "<li>Dig som söker en matta på 180 x 60 cm</li>",
+    "efter": "<li>Dig som tränar yoga eller styrketräning, enligt tillverkaren</li>"
+   }
+  },
+  "skal": "Cirkulär punkt (\"söker en matta på 180 x 60 cm\"); källan anger användningen. Första meningen \"Komfortmatta är en matta\" förenklas."
+ },
+ {
+  "nr": 3076,
+  "id": "10581105574154",
+  "fil": "c_6_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Sju viktvarianter (8–32) med olika pris är rätt olåsta. Allt spårbart."
+ },
+ {
+  "nr": 3077,
+  "id": "10581105606922",
+  "fil": "c_6_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Oklar produkttyp: källan säger bara \"träningsutrustning\" för rotationsövningar, titeln saknar svenskt typord. Utkastaren flaggar själv."
+ },
+ {
+  "nr": 3078,
+  "id": "10581105672458",
+  "fil": "c_6_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Oklar produkttyp (hjul, rulle eller annat okänt) och varianterna 45 och 90 har olika pris (349/599 kr) utan förklaring."
+ },
+ {
+  "nr": 3080,
+  "id": "10581105737994",
+  "fil": "c_6_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Cork Standing Mat är en träningsmatta i kork. Enligt tillverkaren har den en halkfri yta och passar yoga, pilates och stående övningar.",
+    "efter": "Gymstick Cork Standing Mat är tillverkad av kork. Enligt tillverkaren ger ytan grepp och mattan passar för yoga, pilates och stående övningar."
+   },
+   "html": {
+    "fore": "Gymstick Cork Standing Mat är en träningsmatta i kork. Enligt tillverkaren har den en naturlig och halkfri yta.",
+    "efter": "Gymstick Cork Standing Mat är tillverkad av kork. Enligt tillverkaren har den en naturlig yta med bra grepp."
+   },
+   "html_2": {
+    "fore": "Egenskaper enligt tillverkaren: Naturlig och halkfri yta, grepp och stötdämpning",
+    "efter": "Egenskaper enligt tillverkaren: Naturlig yta, grepp och stötdämpning"
+   }
+  },
+  "skal": "Cirkulär första mening (\"Standing Mat är en träningsmatta\"). \"Halkfri\" är ett säkerhetslöfte och utelämnas, i linje med granskningen av 2206."
+ },
+ {
+  "nr": 3082,
+  "id": "10581105836298",
+  "fil": "c_6_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart; \"halverar pumptiden\" står som \"enligt tillverkaren\"."
+ },
+ {
+  "nr": 3084,
+  "id": "10581105901834",
+  "fil": "c_6_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Armbågsstöd: källan lovar att det \"skyddar dina armbågar\" och ger stöd och kompression. Utkastaren föreslår själv handläggning."
+ },
+ {
+  "nr": 3085,
+  "id": "10581105934602",
+  "fil": "c_6_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "ger den ergonomiska designen ett bekvämt grepp och många övningar.",
+    "efter": "ger den ergonomiska designen ett bekvämt grepp för många övningar."
+   }
+  },
+  "skal": "Meningen \"ger ... ett bekvämt grepp och många övningar\" haltar grammatiskt."
+ },
+ {
+  "nr": 3086,
+  "id": "10581105967370",
+  "fil": "c_6_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Exercise Ball är en träningsboll på 55 cm. Enligt tillverkaren är den en pilatesboll för core-träning som passar hemma och på gymmet.",
+    "efter": "Gymstick Exercise Ball mäter 55 cm. Enligt tillverkaren är det en pilatesboll för core-träning som passar både hemma och på gymmet."
+   },
+   "html": {
+    "fore": "Gymstick Exercise Ball är en träningsboll på 55 cm. Enligt tillverkaren är den en pilatesboll som passar hemma och på gymmet.",
+    "efter": "Gymstick Exercise Ball mäter 55 cm. Enligt tillverkaren är det en pilatesboll som passar hemma och på gymmet."
+   }
+  },
+  "skal": "Cirkulär första mening (\"Exercise Ball är en träningsboll\"). Ingen maxbelastning i källan (se öppen fråga)."
+ },
+ {
+  "nr": 3087,
+  "id": "10581106000138",
+  "fil": "c_6_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Träningsboll Gymstick, 65 cm",
+    "efter": "Träningsboll Gymstick Exercise Ball, 65 cm"
+   },
+   "meta": {
+    "fore": "Gymstick Exercise Ball är en träningsboll på 65 cm. Enligt tillverkaren är bollen mångsidig och används för core-träning och balansövningar.",
+    "efter": "Gymstick Exercise Ball mäter 65 cm. Enligt tillverkaren är det en mångsidig träningsboll som används för core-träning och balansövningar."
+   },
+   "html": {
+    "fore": "Gymstick Exercise Ball är en träningsboll på 65 cm. Enligt tillverkaren passar den core-träning och balansövningar.",
+    "efter": "Gymstick Exercise Ball mäter 65 cm. Enligt tillverkaren passar den för core-träning och balansövningar."
+   }
+  },
+  "skal": "Cirkulär första mening. SEO-titeln är identisk med 3001 i c_1 (\"Träningsboll Gymstick, 65 cm\"). 3087 har SKU 62010 och 3001 SKU GYM62010: troligen samma produkt två gånger i butiken (fråga till David)."
+ },
+ {
+  "nr": 3088,
+  "id": "10581106032906",
+  "fil": "c_6_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Exercise Ball är en träningsboll på 75 cm. Enligt tillverkaren är bollen mångsidig och används för core-träning och yoga.",
+    "efter": "Gymstick Exercise Ball mäter 75 cm. Enligt tillverkaren är det en mångsidig träningsboll som används för allt från core-träning till yoga."
+   },
+   "html": {
+    "fore": "Gymstick Exercise Ball är en träningsboll på 75 cm. Enligt tillverkaren passar den core-träning och yoga.",
+    "efter": "Gymstick Exercise Ball mäter 75 cm. Enligt tillverkaren passar den för core-träning och yoga."
+   }
+  },
+  "skal": "Cirkulär första mening."
+ },
+ {
+  "nr": 3089,
+  "id": "10581106065674",
+  "fil": "c_6_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Gymstick Exercise Band Set är ett set med träningsband. Enligt tillverkaren går det att träna med dem var som helst.",
+    "efter": "Gymstick Exercise Band Set innehåller träningsband som enligt tillverkaren går att träna med var som helst."
+   },
+   "html_2": {
+    "fore": "<li>Dig som vill ha ett set med flera band</li>",
+    "efter": ""
+   }
+  },
+  "skal": "Cirkulär första mening (\"Band Set är ett set med träningsband\") och cirkulär punkt. Tunn källa, antal band okänt."
+ },
+ {
+  "nr": 3090,
+  "id": "10581106098442",
+  "fil": "c_6_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Exercise Tube Set är ett 3-i-1-set med träningsband i gummi. Setet har tre motståndsnivåer och ett kompakt format som är enkelt att ta med.",
+    "efter": "Gymstick Exercise Tube Set (3-i-1) består av träningsband i gummi med tre motståndsnivåer. Enligt tillverkaren är formatet kompakt och lätt att ta med."
+   },
+   "html": {
+    "fore": "Gymstick Exercise Tube Set är ett 3-i-1-set med träningsband i gummi med tre olika motståndsnivåer.",
+    "efter": "Gymstick Exercise Tube Set (3-i-1) består av träningsband i gummi med tre olika motståndsnivåer."
+   },
+   "html_2": {
+    "fore": "Dig som vill ta med träningsbanden hemma, till gymmet eller på resan, enligt tillverkaren",
+    "efter": "Dig som vill träna hemma, på gymmet eller på resan, enligt tillverkaren"
+   }
+  },
+  "skal": "Cirkulär första mening och punkten \"ta med träningsbanden hemma\" läses fel."
+ },
+ {
+  "nr": 3091,
+  "id": "10581106131210",
+  "fil": "c_7_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Träningsboll är ett 2-pack där varje boll väger 1 kg. Enligt tillverkaren passar bollarna för uppvärmning samt styrke- och konditionspass.",
+    "efter": "Två träningsbollar från Gymstick ingår, och de väger 1 kg vardera. Enligt tillverkaren passar de för uppvärmning samt styrke- och konditionspass."
+   },
+   "html": {
+    "fore": "Gymstick Träningsboll är ett 2-pack där varje boll väger 1 kg.",
+    "efter": "Förpackningen innehåller två träningsbollar från Gymstick som väger 1 kg vardera."
+   }
+  },
+  "skal": "Första meningen \"Gymstick Träningsboll är ett 2-pack\" är otydlig (en boll är inte ett pack)."
+ },
+ {
+  "nr": 3092,
+  "id": "10581106163978",
+  "fil": "c_7_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Fascia Ball Cork är en massageboll tillverkad av kork. Enligt tillverkaren har bollen en fast men ändå behaglig yta och används efter träning.",
+    "efter": "Massagebollen Fascia Ball Cork från Gymstick är tillverkad av kork. Enligt tillverkaren har bollen en fast men ändå behaglig yta och används efter träning."
+   },
+   "html": {
+    "fore": "Gymstick Fascia Ball Cork är en massageboll i kork.",
+    "efter": "Massagebollen från Gymstick är tillverkad av kork."
+   },
+   "html_2": {
+    "fore": "<li>Dig som vill ha en massageboll i kork</li>",
+    "efter": ""
+   }
+  },
+  "skal": "Cirkulär första mening (\"Fascia Ball Cork är en massageboll\") och cirkulär punkt (samma fynd som 2205). Massageboll som produktnamn är tillåtet (avsnitt 10)."
+ },
+ {
+  "nr": 3093,
+  "id": "10581106196746",
+  "fil": "c_7_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Miniband i Tyg Gymstick",
+    "efter": "Miniband Gymstick i Tyg"
+   },
+   "seo_title": {
+    "fore": "Miniband i Tyg Gymstick",
+    "efter": "Miniband Gymstick i Tyg"
+   },
+   "meta": {
+    "fore": "Gymstick tyg mini-band är ett motståndsband i tyg.",
+    "efter": "Minibandet från Gymstick är ett motståndsband i tyg."
+   },
+   "html": {
+    "fore": "Gymstick tyg mini-band är ett motståndsband i tyg som",
+    "efter": "Minibandet från Gymstick är ett motståndsband i tyg som"
+   },
+   "html_2": {
+    "fore": "<li>Dig som vill ha ett motståndsband i tyg</li>",
+    "efter": ""
+   }
+  },
+  "skal": "Titelns ordföljd följer inte \"Typ, Märke, Modell\". Första meningen \"tyg mini-band är ett motståndsband i tyg\" upprepar sig, och en punkt är cirkulär. Varianterna 1–3 (olika pris) är rätt olåsta."
+ },
+ {
+  "nr": 3095,
+  "id": "10581106295050",
+  "fil": "c_7_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Oklar produkttyp (\"en rulle för träning\"; foamroller, massagerulle eller annat okänt) och källan består nästan bara av hälsopåståenden (skador, blodcirkulation, återhämtning). Utkastaren flaggar själv."
+ },
+ {
+  "nr": 3096,
+  "id": "10581106360586",
+  "fil": "c_7_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Fascia Roll Cork är en massagerulle tillverkad av kork. Enligt tillverkaren används rullen för stretching och efter träning.",
+    "efter": "Massagerullen Fascia Roll Cork från Gymstick är tillverkad av kork. Enligt tillverkaren används rullen både för stretching och efter träningspasset."
+   },
+   "html": {
+    "fore": "Gymstick Fascia Roll Cork är en massagerulle i kork.",
+    "efter": "Massagerullen från Gymstick är tillverkad av kork."
+   },
+   "html_2": {
+    "fore": "<li>Dig som vill ha en massagerulle i kork</li>",
+    "efter": ""
+   }
+  },
+  "skal": "Cirkulär första mening (\"Fascia Roll Cork är en massagerulle\") och cirkulär punkt."
+ },
+ {
+  "nr": 3097,
+  "id": "10581106393354",
+  "fil": "c_7_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Gymstick Finger Expander Set är ett set med tre fingerexpanders med olika motståndsnivåer.",
+    "efter": "Gymstick Finger Expander Set innehåller tre fingerexpanders med olika motståndsnivåer."
+   }
+  },
+  "skal": "Cirkulär första mening i html (\"Set är ett set\")."
+ },
+ {
+  "nr": 3098,
+  "id": "10581106426122",
+  "fil": "c_7_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Lyftremmar för tunga lyft: last, och källan lovar \"stöd och stabilitet\" och minskad belastning. Tunn källa (inget material, inget antal). Utkastaren föreslår själv handläggning."
+ },
+ {
+  "nr": 3099,
+  "id": "10581106458890",
+  "fil": "c_7_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Fitness Ball är en träningsboll. Enligt tillverkaren passar den för övningar som stabilitetsarbete och yoga, och för träning hemma.",
+    "efter": "Fitnessbollen från Gymstick används för träning hemma. Enligt tillverkaren passar den för övningar som stabilitetsarbete och yoga."
+   },
+   "html": {
+    "fore": "Gymstick Fitness Ball är en träningsboll för övningar som stabilitetsarbete och yoga, enligt tillverkaren.",
+    "efter": "Gymstick Fitness Ball används enligt tillverkaren för övningar som stabilitetsarbete och yoga."
+   }
+  },
+  "skal": "Cirkulär första mening (\"Fitness Ball är en träningsboll\"). Varianterna 65 och 75 är rätt olåsta."
+ },
+ {
+  "nr": 3100,
+  "id": "10581106491658",
+  "fil": "c_7_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Missvisande typord: \"Träningsväska\" läses som en väska att bära utrustning i, men produkten är en viktväska/sandsäck för kast och lyft (källan: \"Fitness Bag 10kg\"). Varianterna 0–30 har priser 699–2 999 kr och variant 0 kostar mest. Oklar produkttyp och last."
+ },
+ {
+  "nr": 3103,
+  "id": "10581106622730",
+  "fil": "c_7_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Mått och användning spårbara; \"enligt tillverkaren\" används för stöt- och bullerdämpning."
+ },
+ {
+  "nr": 3104,
+  "id": "10581106655498",
+  "fil": "c_7_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart."
+ },
+ {
+  "nr": 3105,
+  "id": "10581106688266",
+  "fil": "c_7_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart."
+ },
+ {
+  "nr": 3106,
+  "id": "10581106753802",
+  "fil": "c_8_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Varianterna 65 och 75 (samma pris) är rätt olåsta. Meta 155 tecken."
+ },
+ {
+  "nr": 3107,
+  "id": "10581106786570",
+  "fil": "c_8_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "En variant (BLU), färgen blå står i originaltiteln."
+ },
+ {
+  "nr": 3108,
+  "id": "10581106819338",
+  "fil": "c_8_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Färgen är rätt olåst (varianterna BL, BLU, MS)."
+ },
+ {
+  "nr": 3109,
+  "id": "10581106852106",
+  "fil": "c_8_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart; färgen rätt olåst."
+ },
+ {
+  "nr": 3110,
+  "id": "10581106884874",
+  "fil": "c_8_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart; färgen rätt olåst."
+ },
+ {
+  "nr": 3112,
+  "id": "10581106983178",
+  "fil": "c_8_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Källan motsäger sig mellan de fem Go Walker-produkterna: \"träningsstav\" för styrketräning hemma/gym (120), \"promenadstavar\" i plural (115, 125), \"vandringsstav\" (110) och \"justerbar längd upp till 105 cm\" (105) medan titeln anger en fast längd. Oklart om det är en stav eller ett par, fast eller justerbar längd. Källan har dessutom stöd-, led- och knäpåståenden. Titeln saknar svenskt typord."
+ },
+ {
+  "nr": 3113,
+  "id": "10581107015946",
+  "fil": "c_8_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Glasvattenflaska är en vattenflaska i glas som rymmer 0,6 liter. Enligt tillverkaren passar den för gymmet, löprundan och andra tillfällen.",
+    "efter": "Glasvattenflaskan från Gymstick rymmer 0,6 liter. Enligt tillverkaren passar den för gymmet, löprundan och andra tillfällen när du behöver dricka vatten."
+   },
+   "html": {
+    "fore": "Gymstick Glasvattenflaska är en vattenflaska i glas. Flaskan rymmer 0,6 liter och passar",
+    "efter": "Glasvattenflaskan från Gymstick rymmer 0,6 liter och passar"
+   }
+  },
+  "skal": "Cirkulär första mening (\"Glasvattenflaska är en vattenflaska i glas\"). Färgen är rätt olåst (BL, PI, TU)."
+ },
+ {
+  "nr": 3114,
+  "id": "10581107048714",
+  "fil": "c_8_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Källan motsäger sig mellan de fem Go Walker-produkterna: \"träningsstav\" för styrketräning hemma/gym (120), \"promenadstavar\" i plural (115, 125), \"vandringsstav\" (110) och \"justerbar längd upp till 105 cm\" (105) medan titeln anger en fast längd. Oklart om det är en stav eller ett par, fast eller justerbar längd. Källan har dessutom stöd-, led- och knäpåståenden. Titeln saknar svenskt typord."
+ },
+ {
+  "nr": 3115,
+  "id": "10581107081482",
+  "fil": "c_8_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Källan motsäger sig mellan de fem Go Walker-produkterna: \"träningsstav\" för styrketräning hemma/gym (120), \"promenadstavar\" i plural (115, 125), \"vandringsstav\" (110) och \"justerbar längd upp till 105 cm\" (105) medan titeln anger en fast längd. Oklart om det är en stav eller ett par, fast eller justerbar längd. Källan har dessutom stöd-, led- och knäpåståenden. Titeln saknar svenskt typord."
+ },
+ {
+  "nr": 3116,
+  "id": "10581107114250",
+  "fil": "c_8_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Källan motsäger sig mellan de fem Go Walker-produkterna: \"träningsstav\" för styrketräning hemma/gym (120), \"promenadstavar\" i plural (115, 125), \"vandringsstav\" (110) och \"justerbar längd upp till 105 cm\" (105) medan titeln anger en fast längd. Oklart om det är en stav eller ett par, fast eller justerbar längd. Källan har dessutom stöd-, led- och knäpåståenden. Titeln saknar svenskt typord."
+ },
+ {
+  "nr": 3117,
+  "id": "10581107147018",
+  "fil": "c_8_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Källan motsäger sig mellan de fem Go Walker-produkterna: \"träningsstav\" för styrketräning hemma/gym (120), \"promenadstavar\" i plural (115, 125), \"vandringsstav\" (110) och \"justerbar längd upp till 105 cm\" (105) medan titeln anger en fast längd. Oklart om det är en stav eller ett par, fast eller justerbar längd. Källan har dessutom stöd-, led- och knäpåståenden. Titeln saknar svenskt typord."
+ },
+ {
+  "nr": 3118,
+  "id": "10581107245322",
+  "fil": "c_8_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Färgen rätt olåst (BL, R)."
+ },
+ {
+  "nr": 3119,
+  "id": "10581107278090",
+  "fil": "c_8_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Varianterna GB (79 kr) och SB (329 kr) är rätt olåsta, men kan vara två olika väskor (fråga till David)."
+ },
+ {
+  "nr": 3120,
+  "id": "10581107310858",
+  "fil": "c_8_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Färgen rätt olåst (BL, R, W)."
+ }
+]
