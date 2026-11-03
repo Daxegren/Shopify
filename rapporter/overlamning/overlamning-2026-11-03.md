@@ -28,3 +28,9 @@ Säkerhetsprodukter skrivs inte (hjälmar, lås, barn, last/belastning, bänkar/
 - Indata skapades ur `vag2_plan/b_ovriga_velomarket.csv` (kolumner: id, nr, titel, status_live, vendor, typ, kategori, skal, lager_2026_10_25, beskr_ord). Filen är en ögonblicksbild från 25 oktober.
 - Kontrollskript: `shopify-sync/scripts/kontrollera_produkttext.py` (se standarden avsnitt 13).
 - Användargränsen (5 timmar) har slagit till flera gånger; avbrutna agenter återupptas med SendMessage. Containern har startats om; allt är committat och pushat på grenen `claude/zealous-johnson-0ywddr`.
+
+## Beslut av David efter cykelomgången (2026-11-03)
+1. **Växelgrupper som kan vara elektroniska (7085, 7088, 7091, 7126 m.fl.):** låt de skrivna texterna stå (alternativ a). Leverantören bekräftar mekanisk växling i efterhand.
+2. **Dubbletter (samma modell och färg under flera id):** slå ihop nu. Plan tas fram i `rapporter/facit-bos-2026-10-31/granskning/sammanslagningsplan.md` (arkivera dubbletter med taggen "sammanslagen", behåll den med taggen texter-klara). Osäkra grupper slås inte ihop.
+3. **Väntelista, underkända för växlingen:** de skrivs inte nu men ska kommas ihåg (`rapporter/facit-bos-2026-10-31/vag2_skriv/vantelista_underkanda.json`: 7022, 7027, 7028, 7048, 7056, 7058, 7066, 7067, 7068, 7080, 7087, 7121, 7124, 7150, 7163). Webbsökning på tillverkarens specifikationer pågår (`granskning/vaxelsystem_webbsok.md`); skrivs bara de där tillverkaren entydigt anger mekanisk växling.
+4. **Gorilla Sports-texter:** först på GorillaSports.se, sedan över till Best of Sports.

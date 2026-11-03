@@ -1,0 +1,110 @@
+[
+ {
+  "nr": 7022,
+  "id": "10471017414922",
+  "titel": "Mountainbike Kona Process 153, 29 tum, Matt Midnight",
+  "skal": "UNDERKÄND. Källan anger två alternativa växelsystem ('Microshift Advent X eller Shimano Deore 11spd') och två bromsalternativ ('SRAM DB8 eller Shimano Deore hydrauliska'). Advent X är en 10-växlad grupp, så '11 växlar' i meta, intro och Passar för är inte entydigt, och bromstypen är inte entydig för båda alternativen. Växlar och bromsar måste stå entydigt i den egna källan. Rammaterial och slaglängd i övrigt stämmer. Fråga leverantören vilken utrustning som levereras."
+ },
+ {
+  "nr": 7027,
+  "id": "10471335461130",
+  "titel": "Cykel Giant FastRoad AR Advanced 1, 700x40c, Asfaltsgrön",
+  "skal": "UNDERKÄND. Växelsystem 'SRAM Apex' utan angivelse: Apex finns både mekanisk och som Apex AXS (elektronisk, batteri), och källan visar inte att den är mekanisk. Dessutom oklar typ: originaltiteln säger Road bike, texten fitnesscykel, taggarna Gravelcykel och Racercykel (utkastet skriver neutralt 'Cykel')."
+ },
+ {
+  "nr": 7028,
+  "id": "10471336116490",
+  "titel": "Cyclocrosscykel Giant TCX Advanced Pro 2, 700x33c, Kelp Forest",
+  "skal": "UNDERKÄND. 'SRAM Apex' för både växlar och bromsar utan angivelse om mekanisk eller AXS (elektronisk med batteri). Källan visar inte entydigt mekanisk växling. Källans länk pekar dessutom på FastRoad AR Advanced 1, inte TCX."
+ },
+ {
+  "nr": 7048,
+  "id": "10472322138378",
+  "titel": "Landsvägscykel Giant TCR Advanced 2 PC, 2025, Carbon",
+  "skal": "UNDERKÄND. Shimano 105 med 24 växlar (2x12) finns både mekanisk och som 105 Di2 (elektronisk, batteri); källan säger bara 'Shimano 105'. Därutöver: modellåret 2025 står bara i en länk, däckbredden är motsägelsefull (25 mm, 700x25c, 28 mm) och utkastet själv flaggar möjlig dubblett med 6064/6065. Varianter Default Title 39 479 kr och XL/black 40 079 kr med samma SKU."
+ },
+ {
+  "nr": 7056,
+  "id": "10472351400202",
+  "titel": "Mountainbike Kona Process 134 DL 27.5, Lila",
+  "skal": "UNDERKÄND. Växelsystem 'SRAM GX-Eagle' utan angivelse: GX Eagle finns både mekanisk och som GX Eagle AXS / Transmission (elektronisk, batteri). Dessutom är rammaterialet tomt i källan och bromsarna (SRAM G2 RS) anges utan bromstyp."
+ },
+ {
+  "nr": 7058,
+  "id": "10472435056906",
+  "titel": "Damcykel Liv Avail Advanced 2 (2026), RosyBrown/OceanStorm",
+  "skal": "UNDERKÄND. Shimano 105 med 24 växlar (2x12) kan vara 105 Di2 (elektronisk, batteri); källan visar inte entydigt mekanisk. Dessutom typ 'Damcykel för landsväg' och varianterna pink mot titelns RosyBrown/OceanStorm med Default Title 42 989 kr och S/M 37 009 kr (samma SKU som S)."
+ },
+ {
+  "nr": 7066,
+  "id": "10476124012810",
+  "titel": "Landsvägscykel Giant TCR Advanced 2 PC, 700x25c, Illusion White",
+  "skal": "UNDERKÄND. Shimano 105 med 24 växlar (2x12) kan vara 105 Di2 (elektronisk, batteri); källan säger bara 'Shimano 105'. Systerprodukt till 7048 (samma modell). Standardblocket utan beställningsmening är rätt (ingen tagg På beställning)."
+ },
+ {
+  "nr": 7067,
+  "id": "10476126699786",
+  "titel": "Gravelcykel Giant Revolt Advanced 1 (2025), Steampunk",
+  "skal": "UNDERKÄND. Bakväxel 'SRAM Apex XPLR' och 'SRAM Apex hydrauliska' utan angivelse: Apex XPLR finns både mekanisk och som AXS (elektronisk, batteri). Källan visar inte entydigt mekanisk."
+ },
+ {
+  "nr": 7068,
+  "id": "10476128403722",
+  "titel": "Gravelcykel Giant Revolt Advanced 1 (2025), Ocean Twilight",
+  "skal": "UNDERKÄND. Samma som 7067: 'SRAM Apex XPLR' utan angivelse om mekanisk eller AXS. Utkastet har dessutom fyra punkter under Passar för (högst tre)."
+ },
+ {
+  "nr": 7080,
+  "id": "10476257116426",
+  "titel": "Mountainbike Giant Anthem Advanced 29 1, 29 tum, Dark Iridescent",
+  "skal": "UNDERKÄND. Växelsystemet anges bara som 'SRAM GX Eagle' utan angivelse om mekaniskt eller AXS/Transmission (elektroniskt med batteri); källan visar inte entydigt mekaniskt (extra skärpa 1). Dessutom heter enda varianten 'L / gray' medan titeln anger färgen Dark Irisdescent (stavat så i källan). Bekräfta växelsystem och färg hos leverantören."
+ },
+ {
+  "nr": 7083,
+  "id": "10476279496970",
+  "titel": "Landsvägscykel Giant Defy Advanced 2 (2026), 700x32c, Abyss Black",
+  "skal": "UNDERKÄND. Trolig dubblett av 6054 (10476166217994, redan skriven med taggen texter-klara): samma modell, färg och specifikation (Advanced-grade composite, 105, 24 växlar, Gavia Fondo 1 700x32c), SKU i samma serie (1031023144 mot 1031023146/-147, dvs. olika ramstorlekar av samma artikel). Titeln skiljer sig bara genom '(2026)', vilket ger kunden intrycket av en annan årsmodell än 6054 trots att det sannolikt är samma cykel. Titeln är därför tekniskt unik men inte sann som särskiljning. David avgör om produkterna ska slås ihop eller om 6054 också ska märkas (2026)."
+ },
+ {
+  "nr": 7087,
+  "id": "10487987667210",
+  "titel": "Mountainbike Kona Hei Hei, 29 tum, Satin Burnt (Orange)",
+  "skal": "UNDERKÄND. Källan anger 'SRAM Eagle 70 Transmission'. Transmission är SRAM:s elektroniska (AXS) drivlina med batteri; källan visar inte mekaniskt. Utkastaren flaggade själv osäkerheten men skrev utkastet. Tas för hand enligt regeln om batteri/elektronik."
+ },
+ {
+  "nr": 7107,
+  "id": "10523487240458",
+  "titel": "Mountainbike Giant XTC SLR 29 1 (2026), 29 tum, Abyss Black",
+  "skal": "UNDERKÄND. Trolig dubblett av 6035 (10502528336138, 'Mountainbike Giant XTC SLR 29 1, 29 tum, Svart', redan skriven med texter-klara): samma modell, samma färg (Abyss Black = Svart), samma pris 28 509 kr och SKU i samma serie (1119019188 mot 1119019185/-187). Utkastet gör titeln unik bara genom '(2026)' och att färgen står på engelska, vilket ser ut som en annan produkt fast det sannolikt är samma. Samma hantering som 7083: David avgör."
+ },
+ {
+  "nr": 7121,
+  "id": "10565633507594",
+  "titel": "Gravelcykel Kona LBF, 29 tum, Smaragdgrön",
+  "skal": "UNDERKÄND. Växelsystemet är 'SRAM Apex' och prosan nämner 'SRAM Apex Eagle-bromshandtagen' utan angivelse om mekaniskt eller AXS (elektroniskt med batteri). Källan visar inte entydigt mekaniskt (extra skärpa 1). Utkastaren flaggade själv frågan. Typen Gravelcykel stöds annars av källan ('gravelbike')."
+ },
+ {
+  "nr": 7124,
+  "id": "10581606629642",
+  "titel": "Hybridcykel Giant AnyTour CS 2 GB, 700x45, Stealth Chrome",
+  "skal": "UNDERKÄND. Källan anger 'integrerad belysning' och att fram- och bakljus ingår, utan att säga om de drivs av dynamo eller batteri, samt pakethållare. Belysning med lagkrav och möjlig elektronik avvisas enligt cykelreglerna; samma skäl som 7108 (AnyTour med remdrift och integrerad belysning) som avvisades i k_14. Hanteras lika: tas för hand."
+ },
+ {
+  "nr": 7150,
+  "id": "10624088572170",
+  "titel": "Damcykel Liv Avail Advanced 2, 700x32c, Cosmic Dust",
+  "skal": "Växelsystemet anges bara som 'Shimano 105' (24 växlar). Källan visar inte entydigt att det är mekaniskt; systermodellerna 7151 och 7161 (Avail Advanced 1) har Shimano 105 Di2 med batteri. Enligt skärpningen för elektronik underkänns produkten tills det är bekräftat att växlarna är mekaniska. Dessutom: titeln anger däckmått (700x32c) i stället för hjulstorlek, och taggen Racercykel konkurrerar med typen Damcykel."
+ },
+ {
+  "nr": 7163,
+  "id": "10650208993546",
+  "titel": "Dirt Jump-cykel Giant STP 26, 26 tum, Quicksilver",
+  "skal": "Hoppcykel för dirt jumping (källan: hopp och landningar, Gyro-system för 360° styrrotation). Inte barncykel enligt källan (en storlek 31 cm, cyklister ca 155–185 cm), men hopp är en riskanvändning och texten ('Passar för: dirt jumping') blir ett användningsråd; bromsarna skiljer sig fram (mekanisk) och bak (hydraulisk). Typen 'Dirt Jump-cykel' finns inte bland de godkända cykeltyperna och har dessutom versal J mot källans 'Dirt jump-cykel'. Oklart om säkerhetsprodukt, därför underkänd; David kan släppa den."
+ },
+ {
+  "nr": 7169,
+  "id": "10656690536714",
+  "titel": "Mountainbike Giant Talon 0, 29 tum, Plasma Coral",
+  "skal": "Dubblett av 7167 (k_16): live-källan är identisk (samma titel 'Cykel GIANT Talon 29 0 (2027) Plasma Coral', samma SKU 1095016285/1095016284, samma pris 19 629 kr, samma text). Utkastet byter dessutom modellnamnet till 'Talon 0' utan stöd i källan, saknar hjulstorleksrad och skriver däckmåttet med decimalpunkt (29x2.4). Behandlas som 7170 och 7175–7177: David avgör om produkterna är samma."
+ }
+]
