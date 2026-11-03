@@ -1,0 +1,67 @@
+[
+ {
+  "id": "10468716216586",
+  "nr": 7001,
+  "skäl": "El-lastcykel med motor och batteri (tagg Elcykel, Lastcykel); lastcykel och elcykel avvisas."
+ },
+ {
+  "id": "10468727521546",
+  "nr": 7002,
+  "skäl": "El-fatbike med motor och batteri (tagg Elcykel)."
+ },
+ {
+  "id": "10468733223178",
+  "nr": 7003,
+  "skäl": "Landsvägscykel med elektroniskt växelsystem (Shimano Ultegra Di2, batteridrivet), hydrauliska Di2-bromsar och effektmätare (elektronik): batteri/elektronik och bromsar, tas för hand."
+ },
+ {
+  "id": "10468733321482",
+  "nr": 7004,
+  "skäl": "Landsvägscykel med elektroniskt växelsystem (Shimano Ultegra Di2, batteridrivet) och effektmätare (Giant Power Pro): batteri/elektronik, tas för hand."
+ },
+ {
+  "id": "10468769399050",
+  "nr": 7008,
+  "skäl": "Barn-/ungdomscykel (Youth bike, storlek XS, 27,5 tum): barnprodukt avvisas."
+ },
+ {
+  "id": "10468772708618",
+  "nr": 7009,
+  "skäl": "Gravelcykel med trådlös elektronisk växling och bromsar (SRAM X1 AXS Eagle, Rival eTap AXS: batteri/elektronik); titeln anger Pro 2 men källtexten Pro 1 (motsägelse)."
+ },
+ {
+  "id": "10470905282826",
+  "nr": 7016,
+  "skäl": "El-lastcykel med motor och batteri (CARGOBIKE of SWEDEN Svensson Family); lastcykel och elcykel avvisas."
+ },
+ {
+  "id": "10470906167562",
+  "nr": 7017,
+  "skäl": "El-lastcykel med motor och batteri (CARGOBIKE of SWEDEN Delight Box); lastcykel och elcykel avvisas."
+ },
+ {
+  "id": "10470906331402",
+  "nr": 7018,
+  "skäl": "El-lastcykel med motor och batteri (CARGOBIKE of SWEDEN Flex Box); lastcykel och elcykel avvisas."
+ },
+ {
+  "id": "10470906364170",
+  "nr": 7019,
+  "skäl": "El-lastcykel med motor och batteri (CARGOBIKE of SWEDEN Classic Box); lastcykel och elcykel avvisas."
+ },
+ {
+  "id": "10470906659082",
+  "nr": 7020,
+  "skäl": "El-lastcykel med motor och batteri (CARGOBIKE of SWEDEN Classic Kindergarten); lastcykel, elcykel och barntransport avvisas."
+ },
+ {
+  "id": "10471010730250",
+  "nr": 7021,
+  "skäl": "El-fatbike med motor och batteri (tagg Elcykel)."
+ },
+ {
+  "id": "10471072006410",
+  "nr": 7023,
+  "skäl": "Överhoppad som dubblett: Giant Roam 1 i Electron Blue är samma modell och färg som 6023 (id 10471083999498, utkast k_1 'Hybridcykel Giant Roam 1, 11 Växlar, Elektronblå'). Ett utkast skulle ge identisk titel/SEO/meta; produkterna har olika SKU (1082008184 mot 6023). Fråga David: dubblettprodukter?"
+ }
+]
