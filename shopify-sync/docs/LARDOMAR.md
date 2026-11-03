@@ -116,3 +116,8 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 - Vad hände: efter nattens synk 2026-11-03 (03:00) lästes titlar tillbaka på 33 slumpvis valda skrivna produkter (Gymstick-testbatch, de sex titeländringarna, våg 2a, Gymstick-batcher och Velomarket-batcher). 33 av 33 hade kvar sina texter. Velomarket-produkterna hade nytt ändringsdatum kl. 05:31–05:32, alltså rördes de av något jobb, men titlarna ändrades inte.
 - Slutsats: det nya skyddet i Velomarket-synken (titel och beskrivning skrivs bara vid skapande) och stoppet av sammanslagningen verkar fungera. Orsaken till pilotens tillbakagång 25–30 oktober är fortfarande inte bekräftad.
 - Regel: läs tillbaka titlar efter varje natt i en vecka framåt (stickprov om 30 produkter) och efter varje körning av sammanslagningen.
+
+## 2026-11-03: Haiku skrev om en metabeskrivning för hand (1 av 21), fångad av kanariekontrollen
+- Vad hände: i cykelomgången skrev Haiku 21 av 90 produkter. På en (6032) skrev agenten en egen version av `seo.description` i stället för skrivfilens text. Agentens egen återläsning fångade avvikelsen och den avbröt som instruerat.
+- Regel: skrivagenter ska aldrig skriva texten för hand i mutationen. De ska låta ett skript skriva ut färdiga GraphQL-variabler ur skrivfilen och kopiera utskriften ordagrant.
+- Regel: kanarie om 3 och full tillbakaläsning efter varje batch är obligatoriska; avbryt vid första avvikelse. Det fungerade.
