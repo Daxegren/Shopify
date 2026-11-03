@@ -25,7 +25,7 @@ Totalt: 21 + 23 + 10 = 54.
 - **Specifikationsrader med egenskaper i stället för fakta** ("Material: Vattenavvisande", "Material: Stålmaskor", "Handtag: Bekvämt handtag", "Material: Flexibel, lätt plast").
 - **Lastgränser som tagits bort i stället för att produkten lyfts:** två väskor (5071, 5077) har "Bärkapacitet 5 kg" i källan. Utkastaren tog bort uppgiften och skrev ändå, medan samma utkastare avvisade 5038 (styrväska 2,5 kg). Det är inkonsekvent, så båda är underkända tills David har beslutat.
 - **Dubbletter i butiken:** tre "Proway, Svart/Neongrön" (5054, 5070, 5080). 5070 och 5080 har identisk källa. Utkasten gav alla tre samma titel.
-- Inga påhittade tal, ursprung, märkeshistorier, hälsopåståenden eller FAQ. Trasiga källor ("borrmaskin", "puderbräda", "110 cm bred", "linsen") har inte skrivits vidare. Fältet `fakta` stämmer med live-källan i de stickprov jag gjorde.
+- Inga påhittade tal, ursprung, märkeshistorier, hälsopåståenden eller FAQ. Trasiga källor ("borrmaskin", "puderbräda", "110 cm bred", "linsen") har inte skrivits vidare. Fältet `fakta` har inte jämförts rad för rad. Bedömningen bygger på live-källan.
 
 ## Avvisade (b_N_avvisade.json)
 Alla 36 avvisningar är rimliga: lås, belysning, barnprodukter, stödben, pedaler, lastbärande korgar och fästen, cykeldator samt produkter som inte är ACTIVE (5004, 5028, 5034 ARCHIVED; 5058, 5072 DRAFT). **Kan släppas:** 5033 (cykelhandskar Liv Energize LF för vuxna, ingen säkerhetsprodukt). Produkten stoppades bara av att kontrollskriptet flaggade modellnamnet "Energize" som ett hälsoord, vilket är falskt positivt. Den behöver ett undantag i skriptet eller Davids ja, eftersom namnet inte får ändras. 5038 (styrväska 2,5 kg) hör ihop med beslutet om 5071 och 5077.
