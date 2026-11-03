@@ -125,3 +125,8 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 ## 2026-11-03: Skrivagent skrev fel stavning trots skript; granskaren missade en hjulstorlek
 - Vad hände: i cykelomgången skrev Haiku "växlereglage" i stället för skrivfilens "växelreglage" på en produkt (rättad efter egen återläsning). Skrivagenten stoppade också före skrivning på 6147, där "24-tumshjul" saknade stöd i källan; Opus-granskaren hade missat det eftersom hjulstorleken bara stod hos en systerprodukt.
 - Regel: återläsningen jämför tecken för tecken och måste göras för varje batch; det är den som fångar skrivfel. Hjulstorlek, ramstorlek och liknande mått ska verifieras mot den egna produktens källa, inte systerprodukter.
+
+## 2026-11-03: Parallella utkastagenter skrev samma modell och färg; växelgrupper som kan vara elektroniska bedömdes olika
+- Vad hände: åtta utkastagenter körde parallellt på cyklar utan lager. Tre Talon-modeller hamnade som utkast i två batcher (k_16 och k_17) och flera butiksdubbletter (samma modell och färg under olika id) upptäcktes. Två granskare bedömde Shimano 105 med 24 växlar olika: ena underkände (kan vara Di2), andra godkände. Stickprovet noterade att 7085, 7088, 7091 och 7126 kan vara elektroniska.
+- Regel: kör en dubblettkontroll av titel och SEO-titel över alla batchers utkast innan granskningen, och bygg batcher av cyklar så att samma modell ligger i samma batch. Växelgrupper som finns både mekaniskt och elektroniskt (Shimano 105/GRX/Ultegra, SRAM Apex/Eagle) får bara skrivas om källan entydigt anger mekanisk, annars tas de upp som beslut för David. En enda regel ska gälla för alla granskare.
+- Regel: trasig källtext (till exempel "x2 .25"") ger ingen uppgift att bygga på; struka uppgiften i stället för att gissa.
