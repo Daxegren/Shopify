@@ -1,0 +1,37 @@
+[
+ {
+  "id": "10411859181834",
+  "nr": 8971,
+  "skäl": "Källan riktar sig till unga/nybörjare ('följeslagare för unga'), höjd 82 cm tyder på liten modell, och källtexten är maskinöversatt och motsägande ('linser', dubbla måttrader). Kan inte skrivas säkert."
+ },
+ {
+  "id": "10460950003978",
+  "nr": 8973,
+  "skäl": "Barn-/storleksmodell: användarhöjd 100–120 cm och XS; källan har även trasig rad (14,1495 kg - 120-120 cm)."
+ },
+ {
+  "id": "10462780424458",
+  "nr": 8978,
+  "skäl": "Tunn källa utan faktagrund (bara namn, märke och vikt 0,01 kg); inga mått, antal eller motiv, och priset 1 459 kr är oförklarat."
+ },
+ {
+  "id": "10471429898506",
+  "nr": 8983,
+  "skäl": "Källan anger 'Designad för: barn' (barnscooter)."
+ },
+ {
+  "id": "10472285536522",
+  "nr": 8991,
+  "skäl": "Källan anger 'Lämplig för förare i åldern 4 till 7 år' (barnscooter)."
+ },
+ {
+  "id": "10472305688842",
+  "nr": 8997,
+  "skäl": "Motsägande källa: titeln anger 100 mm men källans hjuldiameter är 110 mm, och färg svart/blå mot titelns Blue/Black."
+ },
+ {
+  "id": "10472305950986",
+  "nr": 9000,
+  "skäl": "Dubblett av nr 8999 (Union Turbomatic V2 Pro 110 mm, svart/lila; källan anger lila/svart mot svart/lila, samma modell och färg). Se nr 8999."
+ }
+]
