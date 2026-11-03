@@ -7,6 +7,11 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 
 ---
 
+### 2026-11-03: Skrivprompten hoppade över produkter med lika titel och lämnade gamla texter kvar (våg 2b, skrivfil 17)
+- **Vad hände:** skrivprompten sade att produkter vars titel redan är lika skrivfilens ska hoppas över. Tre produkter i skrivfil 17 hade rätt titel men gammal beskrivning och meta. Koordinatorn beslutade att de ska skrivas om och verifieras.
+- **Regel:** "titel lika" är inte ett bevis på att texten är skriven. Hoppa över en produkt bara på bevis för att hela posten (titel, seo, beskrivning) är lika, eller låt koordinatorn besluta.
+- **Vad hände också:** återläsningen av Shopify-svar kunde inte gå till python när svaret låg inline. Lösningen: läsa tillbaka högst 4 produkter per fråga och klistra in svaret i python. Svar över ca 50 000 tecken sparas till fil av verktyget och kan läsas direkt där.
+
 ### 2026-11-03: Handskrivna variabler i en Shopify-skrivning gav fel titlar och metabeskrivningar (våg 2b, grupp 12)
 - **Vad hände:** i batch 2 (8611–8616) skrev jag variablerna för `productUpdate` för hand efter att skriptutskriften hade lästs. Tre produkter fick fel text i Shopify: "Frambagagebärare" blev "Frambagebärare" (8613, 8614) och "Frontbärare" blev "Frontbagebärare" (8616), i både titel och metabeskrivning. Felen syntes först när svaren jämfördes mot skrivfilen i python. Skrivningen avbröts och batch 3 och 4 skrevs inte.
 - **Regel:** skrivningen görs bara av variabler som skriptet har skrivit ut, kopierade ordagrant. Handskrivna variabler är förbjudna, även när texten "bara" ska kopieras. En avvikelse rättas med ett nytt skriptgenererat anrop, inte med nya handskrivna variabler. Återläsningen jämförs mot skrivfilen direkt efter varje batch, innan nästa batch börjar.
