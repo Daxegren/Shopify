@@ -1,0 +1,372 @@
+[
+ {
+  "nr": 8302,
+  "id": "10475367760138",
+  "fil": "b_29_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Touring, Thinsulate, vattentät dragkedja med dolda snören, anatomisk innersula, NNN och svart (alla varianter black) stämmer; tillverkarpåståenden enligt tillverkaren. Storlekarna 40/41/44/45 olåsta, passformstips rätt utelämnat."
+ },
+ {
+  "nr": 8303,
+  "id": "10411722506506",
+  "fil": "b_29_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Bredd 44/44/44 mm, Aircell Honeycomb, PRG 4100, MOVE NIS och bindningsrekommendation stämmer; Stiff från titeln. Ingen längd låst (SKU 202 mot dubbletten 8304 SKU 188). Obs: 8304 behåller originaltiteln, som efter skrivning skiljer sig från 8303 bara i versaler och kommatecken (öppen fråga)."
+ },
+ {
+  "nr": 8305,
+  "id": "10462235623690",
+  "fil": "b_29_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "med mohairskinn i fästzonen.",
+     "efter": "med mohairskinn."
+    }
+   ],
+   "meta": {
+    "fore": "Peltonen Astra Skin 25 är klassiska skidor med mohairskinn, konstruktionen airchannel CAP, sula PRG 3600 och bredd 44 mm. Finns i flera längder.",
+    "efter": "Peltonen Astra Skin 25 Stiff är klassiska skidor med mohairskinn, konstruktionen airchannel CAP, sula PRG 3600 och bredd 44 mm. NIS-plattan är fabriksmonterad."
+   }
+  },
+  "skal": "Sula, konstruktion, bredd 44 mm, NIS-platta och beställningsmeningen (taggen På beställning) stämmer. 'I fästzonen' står inte i källan och stryks. 'Finns i flera längder' bygger på variantnamnen 180/190 utan enhet och stryks (extra skärpa 1 och 5); ny meta med NIS-plattan. Varianter olåsta."
+ },
+ {
+  "nr": 8306,
+  "id": "10468730798346",
+  "fil": "b_29_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Mohairpäls, Aircell Aviflex, PRG 4100, MOVE NIS och bindningar stämmer; '44 m' rätt utelämnat; beställningsmeningen rätt (tagg). Varianter 195/202 (olika pris) olåsta. Dubbletten 8307 (181/188, engelsk titel) låses inte."
+ },
+ {
+  "nr": 8311,
+  "id": "10471008796938",
+  "fil": "b_29_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "med mohairskinn i fästzonen.",
+     "efter": "med mohairskinn."
+    },
+    {
+     "fore": " Beställningsvaror kan ta upp till en vecka längre.",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Produkten saknar taggen På beställning (dubbletten 8309 har den) och beställningsmeningen tas bort. 'I fästzonen' står inte i källan. Varianterna är Default Title och 200 (SKU 190/200), inget låst; utkastets 'att bekräfta' om 180 gäller 8309."
+ },
+ {
+  "nr": 8308,
+  "id": "10471005257994",
+  "fil": "b_29_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Bred profil 60–50–55 mm, mohair, polyeten, UL1, 645–825 g per par, Universal och NIS 3.0 M stämmer; märkesbakgrund (österrikiskt, medaljer) rätt utelämnad. En variant."
+ },
+ {
+  "nr": 8313,
+  "id": "10480048767242",
+  "fil": "b_29_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "med mohairläder i greppområdet",
+     "efter": "med mohair i greppområdet"
+    }
+   ],
+   "meta": {
+    "fore": "Peltonen Skinpro 22 Stiff+ är klassiska skidor med mohairläder, Aircell Aviflex honeycomb och sula PRG 4100. Bredd 44 mm och MOVE NIS-system.",
+    "efter": "Peltonen Skinpro 22 Stiff+ är klassiska skidor med mohair i greppområdet, Aircell Aviflex honeycomb och sula PRG 4100. Bredden är 44 mm."
+   }
+  },
+  "skal": "'Mohairläder' är en maskinöversättning (källans titel 'med läder'); källan anger 'mohair 100 %'. Skrivs 'mohair i greppområdet' i inledning och meta. Meta får verb i andra meningen. Beställningsmeningen rätt (tagg finns). Fyra varianter 181/188/195/207 med olika pris är olåsta; dubbletten 8312 (en variant, SKU 202) låses inte av utkastet."
+ },
+ {
+  "nr": 8315,
+  "id": "10472218820874",
+  "fil": "b_29_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "Stavarna har handtag av naturkork, handledsband av typen Fit Tour och finns i längder från 120 till 170 cm.",
+     "efter": "Stavarna har handtag av naturkork och handledsband av typen Fit Tour."
+    },
+    {
+     "fore": "<li>Längd: 120–170 cm i steg om 5 cm</li>\n",
+     "efter": ""
+    }
+   ],
+   "meta": {
+    "fore": " Längd 120–170 cm.",
+    "efter": " Stavfärgen är vit."
+   }
+  },
+  "skal": "Källan kallar staven 'skidhandske' (maskinfel); taggar skidstav/Skidstavar för vuxna och 'Ski poles' gör typen entydig. Produkten har en enda variant (SKU slutar på 135), så serieintervallet 120–170 cm får inte stå som om längderna finns här; stryks i inledning, specifikation och meta. Stavlängdsformlerna står i källan och får stå."
+ },
+ {
+  "nr": 8316,
+  "id": "10472242053386",
+  "fil": "b_29_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": " Finns i flera längder.",
+    "efter": " Handtaget har diametern 16 mm."
+   }
+  },
+  "skal": "Aluminium, plasthandtag 16 mm, stålspets 10 mm, justerbart band stämmer; trasig formel för fri teknik och färg rätt utelämnade. 'Finns i flera längder' bygger på variantnamn utan enhet och stryks i meta (ersätts med handtagsdiametern)."
+ },
+ {
+  "nr": 8317,
+  "id": "10475384570122",
+  "fil": "b_29_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Fäste för skidor enligt källans beskrivning (originaltitelns 'glidmedel' motsägs av texten och titeln säger varken glid eller fäst), fluor, -1 till -20 grader (källan har °C), 5 m för 2–3 par och 250 km enligt tillverkaren stämmer."
+ },
+ {
+  "nr": 8318,
+  "id": "10411725652234",
+  "fil": "b_29_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Finns i storlek S, M och L. Finns hos BEST OF SPORTS.",
+    "efter": "Finns i storlekarna S, M och L."
+   }
+  },
+  "skal": "Material och storlekar stämmer. Meta är över 70 tecken utan tillägget, så 'Finns hos BEST OF SPORTS.' är utfyllnad (avsnitt 14) och stryks; kort meta (118 tecken) godtas för tunn källa. 'Storlek' blir 'storlekarna'."
+ },
+ {
+  "nr": 8320,
+  "id": "10462169334026",
+  "fil": "b_29_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "från -5 till -20 grader.</p>",
+     "efter": "från -5 till -20.</p>"
+    },
+    {
+     "fore": "mellan -5 och -20 grader</li>",
+     "efter": "mellan -5 och -20</li>"
+    },
+    {
+     "fore": "Temperatur: -5 till -20 grader</li>",
+     "efter": "Temperatur: -5 till -20</li>"
+    }
+   ],
+   "meta": {
+    "fore": "från -5 till -20 grader.",
+    "efter": "från -5 till -20."
+   }
+  },
+  "skal": "Källan anger '-5...-20' utan enhet och bruksanvisningens gradtal är trasiga; 'grader' läggs inte till (samma som 8328, 8330, 8331, 8333). Golvglidmedel/skridsko-raderna rätt utelämnade. Texten säger inte skidor, vilket är rätt."
+ },
+ {
+  "nr": 8321,
+  "id": "10462242570506",
+  "fil": "b_29_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn källa (tom beskrivning); bara typ, märke och material från titeln. Kort meta med 'Finns hos BEST OF SPORTS.' under 70 tecken enligt avsnitt 14."
+ },
+ {
+  "nr": 8322,
+  "id": "10471025246474",
+  "fil": "b_29_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Glidvalla följer källan ('glidvalla', 'sista lagret av glidvalla'); fluorfri, +5 till -5 °C, 65–100 %, 30 ml och applicering stämmer. FIS-, test- och 'bästa'-påståenden rätt utelämnade. Inga säkerhetspåståenden."
+ },
+ {
+  "nr": 8323,
+  "id": "10472241824010",
+  "fil": "b_30_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Plasthandtag, bred justerbar rem och formlerna 0,85/0,9 stämmer; '18 mm 18 gauge' och längd rätt utelämnade. En variant."
+ },
+ {
+  "nr": 8344,
+  "id": "10494685380874",
+  "fil": "b_30_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Glasfiber, amatörer, handtag Tour 11 mm och formlerna stämmer. Variantnamnen 125/135/160 återges utan enhet och utan att påstå längd."
+ },
+ {
+  "nr": 8325,
+  "id": "10472242643210",
+  "fil": "b_30_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<p>Rex Marka är varma skidhandskar med bekväm passform. Enligt tillverkaren passar de alla nivåer av skidåkare samt fritidsbruk.</p>",
+     "efter": "<p>Rex Marka är skidhandskar som enligt tillverkaren är varma, har bekväm passform och passar alla nivåer av skidåkare samt fritidsbruk.</p>"
+    },
+    {
+     "fore": "<li>Dig som vill ha varma skidhandskar med bekväm passform</li>",
+     "efter": "<li>Dig som vill ha skidhandskar som enligt tillverkaren är varma och har bekväm passform</li>"
+    },
+    {
+     "fore": "\n<li>Dig som åker skidor på någon nivå</li>",
+     "efter": ""
+    }
+   ],
+   "meta": {
+    "fore": "Rex Marka är varma skidhandskar med bekväm passform för alla nivåer av skidåkare och för fritidsbruk. Finns i storlekarna M, L och XL.",
+    "efter": "Rex Marka är skidhandskar som enligt tillverkaren är varma och har bekväm passform. De passar alla nivåer av skidåkare och fritidsbruk."
+   }
+  },
+  "skal": "'Varma' och 'bekväm passform' är tillverkarens påståenden och skrivs enligt tillverkaren (passform utan källa ska inte stå som fakta). Punkten 'på någon nivå' är krystad och stryks. Storlekar M/L/XL samma pris, olåsta. Källan säger både vantar och skidhandskar; titelns 'Ski gloves' och taggen ger skidhandskar."
+ },
+ {
+  "nr": 8334,
+  "id": "10472257814794",
+  "fil": "b_30_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Softshell, Windlock enligt tillverkaren, Clarino-läder och användning stämmer; storlekar S/M/L samma pris."
+ },
+ {
+  "nr": 8326,
+  "id": "10472242741514",
+  "fil": "b_30_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "Gripvallan appliceras på skidans vallazon",
+     "efter": "Vallan appliceras på skidans vallazon"
+    }
+   ]
+  },
+  "skal": "Tjärvalla, +5 till -15 °C, nysnö, 5–10 km och bruksanvisning stämmer; motsägande volym (50/60 ml) rätt utelämnad. 'Gripvallan' är inte svenska och ersätts med 'Vallan'. Inga säkerhetspåståenden behövs."
+ },
+ {
+  "nr": 8327,
+  "id": "10472242774282",
+  "fil": "b_30_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "Det förbättrar glidegenskaperna och skyddar mot igenfrysning.</p>",
+     "efter": "Enligt tillverkaren förbättrar det glidegenskaperna och skyddar mot igenfrysning.</p>"
+    }
+   ],
+   "meta": {
+    "fore": "Det förbättrar glidegenskaperna och skyddar mot igenfrysning.",
+    "efter": "Enligt tillverkaren förbättrar det glidet och skyddar mot igenfrysning."
+   }
+  },
+  "skal": "Motsägande volym (85/60 ml) rätt utelämnad, temperatur utan enhet. Spray utan säkerhets- eller hälsopåstående i texten. Funktionspåståendena är tillverkarens och skrivs enligt tillverkaren i inledning och meta."
+ },
+ {
+  "nr": 8340,
+  "id": "10472472641802",
+  "fil": "b_30_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "Det förbättrar glidet och skyddar mot frysning.</p>",
+     "efter": "Enligt tillverkaren förbättrar det glidet och skyddar mot frysning.</p>"
+    }
+   ],
+   "meta": {
+    "fore": "Start Skin Glide Liquid är ett flytande antifrysmedel, 60 ml, för alla typer av skin-skidor. Det förbättrar glidet och skyddar mot frysning.",
+    "efter": "Start Skin Glide Liquid är ett flytande antifrysmedel på 60 ml för skin-skidor. Enligt tillverkaren förbättrar det glidet och skyddar mot frysning."
+   }
+  },
+  "skal": "60 ml står i titeln och är entydig; temperatur utan enhet. Funktionspåståendena skrivs enligt tillverkaren i inledning och meta (meta kortas för att rymmas)."
+ },
+ {
+  "nr": 8328,
+  "id": "10472242839818",
+  "fil": "b_30_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn källa (titel och '+5 .... -15'); antifrysmedel från titeln, temperatur utan enhet, inget om användningsyta. Kort meta enligt avsnitt 14."
+ },
+ {
+  "nr": 8329,
+  "id": "10472243659018",
+  "fil": "b_30_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Maskinöversatt och motsägande källa: 'golvbindande hållande wraps', 'grepp' men 'bättre glid', temperaturen '+5 +15°C (+5 +15°F)' och '60 ml - 60 m'. Det går inte att avgöra om produkten är fäst- eller glidmedel, och 'snabbsmörjmedel' är inget etablerat typord; för lite entydigt återstår (extra skärpa 1, oklar produkttyp)."
+ },
+ {
+  "nr": 8330,
+  "id": "10472244314378",
+  "fil": "b_30_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Typ: Våtgrip med svamp</li>",
+     "efter": "<li>Typ: Fästvalla med svamp</li>"
+    }
+   ]
+  },
+  "skal": "Fästvalla, +5 till -10 (titel och lista överens), 60 ml och 5–10 km stämmer; den motsägande raden '+5°C till +5 +15°C' rätt utelämnad, ingen enhet tillagd. 'Våtgrip' är maskinöversättning och ersätts med titelns typord."
+ },
+ {
+  "nr": 8331,
+  "id": "10472244347146",
+  "fil": "b_30_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Flytande glidvalla, -5 till -20 utan enhet, 90 ml och 5–10 km stämmer; skridsko-raden rätt utelämnad och texten säger inte skidor eller skridskor."
+ },
+ {
+  "nr": 8333,
+  "id": "10472246018314",
+  "fil": "b_30_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Typ: Vått grepp med svamp</li>",
+     "efter": "<li>Typ: Fästvalla med svamp</li>"
+    }
+   ]
+  },
+  "skal": "Fästvalla, -5 till -20, 60 ml och 5–7 km stämmer; trasig temperaturrad rätt utelämnad. 'Vått grepp' är maskinöversättning och ersätts med titelns typord."
+ },
+ {
+  "nr": 8332,
+  "id": "10472244412682",
+  "fil": "b_30_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Titeln säger 'Underhållsfett' men källan beskriver en flytande 'golvförande hållande beläggning' med jämförelse mot Easy grip (Quick Kick, troligen fästvalla); temperaturerna '-5 -15°C' och '-5 - -5°C' motsäger varandra. Oklar produkttyp och titeln skulle säga något annat än källan (extra skärpa 1 och 2)."
+ },
+ {
+  "nr": 8343,
+  "id": "10475385061642",
+  "fil": "b_30_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "sprid det med tummen eller en syntetisk kork",
+     "efter": "sprid det med tummen eller en korkpinne"
+    }
+   ]
+  },
+  "skal": "Klister, universellt, våt snö, blandning, 55 g och utan fluor (specialsortimentet) stämmer; trasigt temperaturområde rätt utelämnat. I källan sprids klistret med tummen eller en korkpinne (den syntetiska korken gäller baslagret)."
+ }
+]
