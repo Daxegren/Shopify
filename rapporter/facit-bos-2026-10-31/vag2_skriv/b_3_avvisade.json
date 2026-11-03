@@ -1,0 +1,32 @@
+[
+ {
+  "id": "10472257323274",
+  "nr": 5033,
+  "skäl": "Kontrollskriptet ger FEL (hälsoord 'energi') på modellnamnet 'Energize' i 'Liv Energize LF'. Det är ett falskt positivt, men produktens namn får inte ändras för att komma förbi kontrollen (LARDOMAR 2026-10-31). Utkastet är därför inte skrivet; produkten lyfts till handläggning (undantag i skriptet för modellnamnet eller Davids ja). Underlag: ACTIVE, tre varianter S/M/L (blå), TransTextura-tyg, 4-vägs stretchtyg, mikrofiber, fingertoppar för smartphone; skydds- och komfortpåståenden i källan ska utelämnas."
+ },
+ {
+  "id": "10494695375114",
+  "nr": 5034,
+  "skäl": "Överhoppad: status ARCHIVED i live-hämtningen (inte ACTIVE). Dessutom påståendet 'kompatibel med de flesta gafflar' som inte är entydigt."
+ },
+ {
+  "id": "10472254505226",
+  "nr": 5037,
+  "skäl": "Säkerhetsprodukt: lås (AXA Double Loop Cable, kabel med öglor för att låsa cykeln, 'säkerhetsindex 4 av 15'). Skrivs inte i vågor; tas för hand med Davids ja."
+ },
+ {
+  "id": "10472218853642",
+  "nr": 5038,
+  "skäl": "Last: styrväska med uppgiven bärkapacitet 2,5 kg (last på styret). Faller under belastning/last och tas för hand med Davids ja. Kan släppas om David bedömer att en väska med lastuppgift inte är en säkerhetsprodukt."
+ },
+ {
+  "id": "10472228389130",
+  "nr": 5041,
+  "skäl": "Säkerhetsrelaterad drivlinedel som bär last (pedaler, fästs i vevar, 9/16-tums gänga). Faller under kedjor/vevar som bär last. Titeln 'Pedals Giant Pinner Elite 9/' är dessutom avkortad och kan inte användas som källa. Tas för hand med Davids ja."
+ },
+ {
+  "id": "10515738067210",
+  "nr": 5042,
+  "skäl": "Oklar produkttyp och trasig leverantörsdata: 'Stöd för bakre löpare GIANT DIRECT MOUNT KSA 40MM' är en maskinöversättning (möjligen sidstöd eller del i drivlinan), 'Aluminium klätterutrustning material' och 'kompatibel med KSA40' går inte att tolka entydigt. Ingen säker produkttyp, alltså inget utkast. Lyfts till handläggning."
+ }
+]
