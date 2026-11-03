@@ -101,3 +101,7 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 - Regel: utkast skrivs i batcher om 25 produkter per agent (inte 15), så att instruktionerna läses in färre gånger.
 - Regel: efter skrivning görs stickprov på 10 procent (minst 10 produkter per batch) i stället för full kontroll. Skrivagenten läser alltid tillbaka alla fält själv. Avvikelse i stickprovet ger full kontroll av batchen.
 - Test pågår: om Sonnet hittar minst 90 procent av Opus fynd som granskare byts granskaren till Sonnet. Om Haiku skriver och taggar felfritt (no-op-test) används Haiku för skrivning och taggning, med testbatch om tre först.
+
+## 2026-11-03: stickprovet efter skrivning är 20 procent (David beslutade, ersätter 10 procent ovan)
+- Regel: efter skrivning görs stickprov på 20 procent av varje batch (minst 10 produkter) av en starkare modell än skrivagenten, i stället för full kontroll. Skrivagenten läser alltid tillbaka alla fält själv. Avvikelse i stickprovet ger full kontroll av batchen.
+- Anm.: posten "arbetssätt för lägre tokenförbrukning" ovan anger 10 procent. Den ändras inte (filen fylls bara på); gällande värde är 20 procent.
