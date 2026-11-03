@@ -1,6 +1,17 @@
 # Skrivrapport vågb 13b (28 cykellås), 2026-11-03
 
-**Status: AVBRUTEN efter batch 4.** Fel i produkt 10635764269322 (Squire Chainlok 10). Batch 5 och 6 är inte skrivna. Ingen tagg "texter-klara" är lagd på någon produkt.
+**Status: KLAR. Alla 28 skrivna, verifierade och taggade "texter-klara".**
+
+Historik: skrivningen avbröts först efter batch 4 på grund av ett fel i 10635764269322 (min handtranskription, "neoprenöverdrag" i stället för "neoprenskydd"). Efter koordinatorns ja rättades 10635764269322 med skriptutskrift (mutation_13b.py 18 19), sedan skrevs batch 5 (8696–8701) och batch 6 (8702) med skriptutskrift, och alla återlästes.
+
+## Slutverifiering (28 av 28)
+- Python mot skrivfilen: title, status, seo.title, seo.description, descriptionHtml. 0 avvikelser.
+- Undantag: seo.title är null för 8701 (10665232269578) eftersom SEO-titeln är lika med produkttiteln. Det är avsett enligt standarden.
+- Osynliga tecken: inga hittades i skrivfilen eller i de återlästa texterna.
+- Taggen "texter-klara" lades sist (tagsAdd, 28 av 28 utan userErrors). Återläsning: alla 28 ACTIVE, taggen finns och befintliga taggar är kvar.
+
+## Ändrat i den historiska delen nedan
+Avsnittet "Skrivning" och "Jämförelse" nedan beskriver läget efter batch 4. Det som står där om avbrott gäller inte längre.
 
 ## Före skrivning
 - Butik: BEST OF SPORTS (bestofsports.se), verifierad med get-shop-info.
