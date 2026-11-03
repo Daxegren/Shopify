@@ -1,0 +1,42 @@
+[
+ {
+  "id": "10468773232906",
+  "nr": 8501,
+  "skäl": "Redan skriven: Gravelcykel Liv Devote 1 (2026), Dune Beige finns i skrivfilen skriv_batch1_a_batch1_b_batch2_a_batch2_b.json (facit batch1_a) och butiken har redan standardtexten. Dubblett."
+ },
+ {
+  "id": "10471057719562",
+  "nr": 8502,
+  "skäl": "Redan skriven: Landsvägscykel Giant TCR Advanced 2 PC (Carbon) finns i skrivfilen skriv_batch1_a_batch1_b_batch2_a_batch2_b.json (facit batch1_a), butiken har redan standardtexten. Dubblett. Observera att butiken har två varianter med samma SKU 1096036146 (Default Title och M/L black), att ta upp med David."
+ },
+ {
+  "id": "10472233566474",
+  "nr": 8503,
+  "skäl": "Redan skriven: Handpump Giant Control Mini Road+ ingår i pilotens 20 produkter (pilot-20-original.json) och har standardtext i butiken. Pilotens 20 ändras inte i vågorna. Dubblett."
+ },
+ {
+  "id": "10472237957386",
+  "nr": 8504,
+  "skäl": "Redan skriven: Innerslang Continental 26 tum, PV 60 mm, 47/62-559 finns i skrivfilen skriv_batch1_a_batch1_b_batch2_a_batch2_b.json (facit batch1_b). Dubblett."
+ },
+ {
+  "id": "10472239333642",
+  "nr": 8505,
+  "skäl": "Redan skriven: Innerslang Continental MTB 27,5 tum, Presta 42 mm finns i skrivfilen skriv_batch1_a_batch1_b_batch2_a_batch2_b.json (facit batch2_b). Dubblett."
+ },
+ {
+  "id": "10523488190730",
+  "nr": 8507,
+  "skäl": "Redan skriven: Damcykel Romet Gazela 0, 21 växlar, turkos finns i skrivfilen skriv_batch1_a_batch1_b_batch2_a_batch2_b.json (facit batch1_a). Dubblett."
+ },
+ {
+  "id": "10676713750794",
+  "nr": 8509,
+  "skäl": "Kapellställning för lådcykel (ställning och lastcykeltillbehör, säkerhetsgrupp enligt prompten); källan är tunn (en mening). Dessutom dubblett av 8510: samma titel och samma SKU 1521-28. Tas för hand med Davids ja."
+ },
+ {
+  "id": "10676713783562",
+  "nr": 8510,
+  "skäl": "Kapellställning för lådcykel (ställning och lastcykeltillbehör, säkerhetsgrupp enligt prompten); källan är tunn (en mening). Dessutom dubblett av 8509: samma titel och samma SKU 1521-28. Tas för hand med Davids ja."
+ }
+]
