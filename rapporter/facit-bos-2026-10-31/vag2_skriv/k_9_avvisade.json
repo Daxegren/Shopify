@@ -1,0 +1,62 @@
+[
+ {
+  "id": "10472244150538",
+  "nr": 6201,
+  "skäl": "Kedja: kedjor bär last och är säkerhetskritiska, avvisas enligt cykelreglerna."
+ },
+ {
+  "id": "10472243593482",
+  "nr": 6202,
+  "skäl": "Framnav (HB-TX506): nav är del av hjulet och säkerhetskritiskt, avvisas. Källan har dessutom ingen beskrivning (tunn)."
+ },
+ {
+  "id": "10472241266954",
+  "nr": 6203,
+  "skäl": "Kassett (CS-HG41-7): drivlinedel som bär last, avvisas enligt reglerna (kassetter)."
+ },
+ {
+  "id": "10502528041226",
+  "nr": 6204,
+  "skäl": "Kedja (HG54): kedjor bär last och är säkerhetskritiska, avvisas. Källan saknar dessutom beskrivning."
+ },
+ {
+  "id": "10472240414986",
+  "nr": 6205,
+  "skäl": "Titeln 'Tirr' (frihjul/kassett) motsäger beskrivningen som kallar delen 'kassettnav' och 'kassett'. Drivlinedel (kassett/nav) som bär last; avvisas och uppgiften utelämnas."
+ },
+ {
+  "id": "10472242348298",
+  "nr": 6208,
+  "skäl": "Titeln 'Växelväljare ... Lef 2s' är oklar (vänster? 2 växlar?) och beskrivningen är maskinöversatt och motsägande ('växellådan' för reglage, 'Längd på elektrisk kabel', 'framåtdrift'). Motsägelse mellan titel och text, utelämnas."
+ },
+ {
+  "id": "10472303919370",
+  "nr": 6209,
+  "skäl": "Dubbdäck: däck med säkerhetsfunktion på hala vägar, avvisas. Titeln är dessutom avkortad ('28 x 1.') och beskrivningen innehåller ursprungs- och säkerhetslöften ('tillverkat i Finland', 'säker körupplevelse')."
+ },
+ {
+  "id": "10470983958794",
+  "nr": 6210,
+  "skäl": "Union GH-022 'Frame ear': titeln (Frame ear) och texten (ramring) motsäger varandra om vad delen är, och den anger kompatibilitet via en lång märkeslista utan modeller ('för olika modeller'). Delen sitter i ramen och påverkar växlingen; kompatibilitet är inte entydig. Utelämnas."
+ },
+ {
+  "id": "10472281604362",
+  "nr": 6211,
+  "skäl": "Union GH-026: titel 'Frame ear' mot text 'ramörat'; kompatibilitet anges bara med märkeslista utan modeller, inte entydig. Utelämnas."
+ },
+ {
+  "id": "10472281571594",
+  "nr": 6212,
+  "skäl": "Union GH-038: källan är på engelska ('frame ring') mot titeln 'Frame ear'; kompatibilitet bara märken (Centurion, Merida, UMF), inte entydig. Utelämnas."
+ },
+ {
+  "id": "10472281538826",
+  "nr": 6213,
+  "skäl": "Union GH-144: titel 'Frame ear' mot text 'ramringen'; kompatibilitet 'ett brett utbud av GT-cykelmodeller' är inte entydig. Utelämnas."
+ },
+ {
+  "id": "10472281506058",
+  "nr": 6214,
+  "skäl": "Union GH-169: titel 'Frame ear' mot text 'ramöra'; kompatibilitet 'ett brett utbud av Ghost-cykelmodeller' är inte entydig. Utelämnas."
+ }
+]
