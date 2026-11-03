@@ -29,7 +29,7 @@
    ],
    "meta": {
     "fore": "Peltonen Astra Skin 25 är klassiska skidor med mohairskinn, konstruktionen airchannel CAP, sula PRG 3600 och bredd 44 mm. Finns i flera längder.",
-    "efter": "Peltonen Astra Skin 25 Stiff är klassiska skidor med mohairskinn, konstruktionen airchannel CAP, sula PRG 3600 och bredd 44 mm. NIS-plattan är fabriksmonterad."
+    "efter": "Peltonen Astra Skin 25 Stiff är klassiska skidor med mohairskinn, airchannel CAP, sula PRG 3600 och bredd 44 mm. NIS-plattan är fabriksmonterad."
    }
   },
   "skal": "Sula, konstruktion, bredd 44 mm, NIS-platta och beställningsmeningen (taggen På beställning) stämmer. 'I fästzonen' står inte i källan och stryks. 'Finns i flera längder' bygger på variantnamnen 180/190 utan enhet och stryks (extra skärpa 1 och 5); ny meta med NIS-plattan. Varianter olåsta."
@@ -267,8 +267,8 @@
     }
    ],
    "meta": {
-    "fore": "Det förbättrar glidegenskaperna och skyddar mot igenfrysning.",
-    "efter": "Enligt tillverkaren förbättrar det glidet och skyddar mot igenfrysning."
+    "fore": "Start Skin Glide Spray HF är ett antifrysmedel i sprayform för alla typer av skin-skidor. Det förbättrar glidegenskaperna och skyddar mot igenfrysning.",
+    "efter": "Start Skin Glide Spray HF är ett antifrysmedel i sprayform för skin-skidor. Enligt tillverkaren förbättrar det glidet och skyddar mot igenfrysning."
    }
   },
   "skal": "Motsägande volym (85/60 ml) rätt utelämnad, temperatur utan enhet. Spray utan säkerhets- eller hälsopåstående i texten. Funktionspåståendena är tillverkarens och skrivs enligt tillverkaren i inledning och meta."

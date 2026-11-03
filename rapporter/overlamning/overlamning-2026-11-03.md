@@ -34,3 +34,7 @@ Säkerhetsprodukter skrivs inte (hjälmar, lås, barn, last/belastning, bänkar/
 2. **Dubbletter (samma modell och färg under flera id):** slå ihop nu. Plan tas fram i `rapporter/facit-bos-2026-10-31/granskning/sammanslagningsplan.md` (arkivera dubbletter med taggen "sammanslagen", behåll den med taggen texter-klara). Osäkra grupper slås inte ihop.
 3. **Väntelista, underkända för växlingen:** de skrivs inte nu men ska kommas ihåg (`rapporter/facit-bos-2026-10-31/vag2_skriv/vantelista_underkanda.json`: 7022, 7027, 7028, 7048, 7056, 7058, 7066, 7067, 7068, 7080, 7087, 7121, 7124, 7150, 7163). Webbsökning på tillverkarens specifikationer pågår (`granskning/vaxelsystem_webbsok.md`); skrivs bara de där tillverkaren entydigt anger mekanisk växling.
 4. **Gorilla Sports-texter:** först på GorillaSports.se, sedan över till Best of Sports.
+
+## Senare (David 2026-11-03): samla alla avvisade produkter och sätt upp nya regler
+- Gör inte nu. Fortsätt först med det som redan är godkänt (vinterbatcherna, pulkor, resterande vanliga tillbehör).
+- När det är dags: samla alla avvisade produkter (`vag2_skriv/*_avvisade.json`, `handhavd_ids.txt`, `vantelista_underkanda.json`, `kort_meta`-listor), gruppera efter skäl och sätt upp nya regler. Öppna frågor som ska med: faktatextläge för pakethållare, solglasögon, lås, elcyklar, sparkcyklar, hjälmar och cykelbelysning; barncyklar och kosttillskott; Peltonen "Skridskor" som egentligen är längdskidor; kvarvarande 28 dubblettgrupper; 7080 och 7124.
