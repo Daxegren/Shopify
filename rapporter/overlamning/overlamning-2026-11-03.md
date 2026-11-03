@@ -4,7 +4,7 @@ Läs först: `CLAUDE.md` (rot), `shopify-sync/docs/produkttexter-standard.md` (a
 
 ## Status (2026-11-03)
 - **Skrivet och verifierat i Shopify** (alla med taggen `texter-klara`, före-lägen i `rapporter/shopify-original-2026-11-0*/`): pilot 20, facit 30, våg 1 (86) + rättningar 1b/1c, våg 2a (fitness Velomarket, 32 + sex titeländringar + rättningar), **Gymstick 173** (språkrättat), **Velomarket tillbehör 83** (`b_skriv.json` 30, `b_skriv_hold_frisläppta.json` 13, `b_skriv_2.json` 37, `b_skriv_3.json` 3).
-- **Cyklar och cykeldelar (214 med lager, nio batcher `k_1`–`k_9`):** utkast klara (118 utkast). Granskning k_1–k_3 och k_4–k_5 klar (`k_utlatande_1_3.json`, `k_utlatande_4_5.json`). `k_skriv_1.json` (90 cyklar) skrivs just nu av en Haiku-agent (rapport `granskning/vag2k_1_skrivrapport.md`). Granskning k_6–k_9 klar (`k_utlatande_6_9.json`); `k_skriv_2.json` (34) skrivs av en Haiku-agent (rapport `granskning/vag2k_2_skrivrapport.md`).
+- **Cyklar och cykeldelar (214 med lager, nio batcher `k_1`–`k_9`):** utkast klara (118 utkast). Granskning k_1–k_3 och k_4–k_5 klar (`k_utlatande_1_3.json`, `k_utlatande_4_5.json`). `k_skriv_1.json` (90 cyklar) SKRIVEN och stickprovad (0 avvikelser), tidigare skriven av en Haiku-agent (rapport `granskning/vag2k_1_skrivrapport.md`). Granskning k_6–k_9 klar (`k_utlatande_6_9.json`); `k_skriv_2.json` (34) SKRIVEN och stickprovad (0 avvikelser), skriven av en Haiku-agent (rapport `granskning/vag2k_2_skrivrapport.md`).
 - **Nattkontroll:** titlar var intakta efter synken 3 nov (33 av 33). Läs tillbaka stickprov om 30 produkter varje natt i en vecka (och efter varje körning av sammanslagningen).
 
 ## Nästa steg i ordning

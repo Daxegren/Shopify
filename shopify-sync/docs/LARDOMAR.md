@@ -121,3 +121,7 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 - Vad hände: i cykelomgången skrev Haiku 21 av 90 produkter. På en (6032) skrev agenten en egen version av `seo.description` i stället för skrivfilens text. Agentens egen återläsning fångade avvikelsen och den avbröt som instruerat.
 - Regel: skrivagenter ska aldrig skriva texten för hand i mutationen. De ska låta ett skript skriva ut färdiga GraphQL-variabler ur skrivfilen och kopiera utskriften ordagrant.
 - Regel: kanarie om 3 och full tillbakaläsning efter varje batch är obligatoriska; avbryt vid första avvikelse. Det fungerade.
+
+## 2026-11-03: Skrivagent skrev fel stavning trots skript; granskaren missade en hjulstorlek
+- Vad hände: i cykelomgången skrev Haiku "växlereglage" i stället för skrivfilens "växelreglage" på en produkt (rättad efter egen återläsning). Skrivagenten stoppade också före skrivning på 6147, där "24-tumshjul" saknade stöd i källan; Opus-granskaren hade missat det eftersom hjulstorleken bara stod hos en systerprodukt.
+- Regel: återläsningen jämför tecken för tecken och måste göras för varje batch; det är den som fångar skrivfel. Hjulstorlek, ramstorlek och liknande mått ska verifieras mot den egna produktens källa, inte systerprodukter.
