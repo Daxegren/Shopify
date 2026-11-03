@@ -1,0 +1,74 @@
+{
+ "metod": "Butik BEST OF SPORTS (bestofsports.se) bekraftad via get-shop-info. 423 unika produkter med icke-tom meta lastes live via nodes(ids) (grupper om 40). Jamforelse: live seo.description mot filens meta, forsta 30 tecken per produkt (batch 1 aven slutstrang) transkriberade for hand fran svaret, eftersom verktygssvaret inte kan sparas till fil. Tva initiala avvikelser berodde pa skrivfel vid transkribering och bekraftades vid omlasning som identiska. Kontrollen hittar saknad/tom/annan meta men inte skillnader i slutet av texten (utom batch 1).",
+ "per_fil": {
+  "a_skriv": {
+   "kontrollerade": 23,
+   "avvikelser": 0
+  },
+  "a_skriv_titlar": {
+   "kontrollerade": 2,
+   "avvikelser": 0
+  },
+  "c_skriv_kanarie": {
+   "kontrollerade": 2,
+   "avvikelser": 0
+  },
+  "c_skriv_resten_1": {
+   "kontrollerade": 22,
+   "avvikelser": 0
+  },
+  "c_skriv_resten_2": {
+   "kontrollerade": 38,
+   "avvikelser": 0
+  },
+  "c_skriv_resten_3": {
+   "kontrollerade": 28,
+   "avvikelser": 0
+  },
+  "c_skriv_resten_4": {
+   "kontrollerade": 32,
+   "avvikelser": 0
+  },
+  "b_skriv": {
+   "kontrollerade": 25,
+   "avvikelser": 0
+  },
+  "b_skriv_hold_frisläppta": {
+   "kontrollerade": 13,
+   "avvikelser": 0
+  },
+  "b_skriv_2": {
+   "kontrollerade": 33,
+   "avvikelser": 0
+  },
+  "b_skriv_3": {
+   "kontrollerade": 1,
+   "avvikelser": 0
+  },
+  "k_skriv_1": {
+   "kontrollerade": 90,
+   "avvikelser": 0
+  },
+  "k_skriv_2": {
+   "kontrollerade": 31,
+   "avvikelser": 0
+  },
+  "k_skriv_3a": {
+   "kontrollerade": 27,
+   "avvikelser": 0
+  },
+  "k_skriv_3b": {
+   "kontrollerade": 27,
+   "avvikelser": 0
+  },
+  "k_skriv_4": {
+   "kontrollerade": 12,
+   "avvikelser": 0
+  },
+  "b_skriv_5": {
+   "kontrollerade": 17,
+   "avvikelser": 0
+  }
+ },
+ "avvikelser": []
+}
