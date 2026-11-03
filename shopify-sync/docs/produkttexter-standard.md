@@ -109,3 +109,9 @@ Beslut av David: standarden gäller som utgångspunkt; 30 facit-produkter godkä
 - **Oklar växelgrupp (David 2026-11-03):** cyklar där källan inte anger om växlingen är mekanisk eller elektronisk (Shimano 105/GRX, SRAM Apex/Eagle) får skrivas. Texten återger växelgruppens namn exakt som källan anger det och säger eller antyder aldrig mekanisk, elektronisk, trådlös eller batteridriven. Elcyklar, motor och batteri enligt källan skrivs inte. Cyklar med motsägande växelsystem i källan skrivs utan växelgrupp och antal växlar.
 - **Taggarna Gymstick och Velomarket ändras aldrig** (David 2026-11-03).
 - **Skrivning av långa mutationer:** skriptet skriver ut mutation och variabler, huvudagenten klistrar in dem ordagrant. Se LARDOMAR 2026-11-03.
+
+## 15. Vinterprodukter frisläppta (beslut av David 2026-11-03)
+- **Pulkor och kälkar** får skrivas med bara produktens egna uppgifter och utan säkerhets- eller barnpåståenden; ålder eller maxvikt återges oförändrat "enligt tillverkaren". Tydliga barn- och babyprodukter hålls utanför.
+- **Isskridskor** får skrivas på samma sätt när källan entydigt anger modell, typ och storlek/flex. Rullskridskor, inlines och barn-/juniorprodukter hålls utanför.
+- **Isbroddar och liknande grepphjälpmedel hålls utanför** (David: behåll).
+- Vinterprodukter prioriteras före övriga Velomarket-grupper under vintersäsongen. Frisläppta ids står i `rapporter/facit-bos-2026-10-31/vag2_skriv/frisläppta_vinter_2026-11-03.txt`.
