@@ -89,3 +89,10 @@ Beslut av David: standarden gäller som utgångspunkt; 30 facit-produkter godkä
 - **Rullskridskor och inlines är säkerhetsprodukter** och skrivs inte i vågor. De tas för hand med Davids ja per produkt. Produkterna med risk för personskada vid fel text eller fel användning (skydd, last, barn) hör hit; id finns i `rapporter/facit-bos-2026-10-31/handhavd_ids.txt`.
 - **Gymtalk** är talk för bättre grepp och översätts inte. Namnet får stå kvar i titel och text; genus: en gymtalk, talken.
 - **Fitnessmat Pro** (inte "Fitness Mat Pro") är den stavning leverantörskällorna använder.
+
+## 12. Tillägg 2026-11-03 (David)
+- **Reflexer och reflexdekaler** behandlas som säkerhetsprodukter (synlighetslöften) och skrivs inte i vågor. De tas för hand med Davids ja per produkt.
+- **Framkorgar och bakre korgar utan lastuppgift** får skrivas, om texten inte lovar någon lastgräns. Korgar och väskor med lastgräns i källan skrivs inte.
+- **Stänkskärmar/framskärmar** med kompatibilitet "enligt tillverkaren" och **innerslangar** med ETRTO i titeln (ordet "Innerslang") får skrivas.
+- **Bartejp heter "Handtagstejp"** (inte "Styretape" eller "Styrlinda").
+- **Gymtalk** översätts inte (se avsnitt 11).
