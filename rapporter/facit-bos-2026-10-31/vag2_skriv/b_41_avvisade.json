@@ -1,0 +1,17 @@
+[
+ {
+  "id": "10462832001290",
+  "nr": 8756,
+  "skäl": "Dubblett: Kona Sutra LTD 29 tum Gloss Bone (Vit) är samma modell och färg som nr 8784 (id 10471133675786, utkast i b_42_utkast.json), som behålls."
+ },
+ {
+  "id": "10468734009610",
+  "nr": 8765,
+  "skäl": "Dubblett: Fixie 6KU Shelby 2 (Default Title, SKU CB68S1042) är samma modell utan färg som redan skrivna nr 7125 (id 10588445540618, SKU CB65S1041, taggen texter-klara) och går inte att skilja på färg."
+ },
+ {
+  "id": "10468779032842",
+  "nr": 8771,
+  "skäl": "Hoppas över: produkten har status ARCHIVED i live-hämtningen (inte ACTIVE)."
+ }
+]
