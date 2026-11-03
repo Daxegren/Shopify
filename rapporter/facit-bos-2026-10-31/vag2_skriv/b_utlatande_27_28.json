@@ -1,0 +1,655 @@
+[
+ {
+  "nr": 8207,
+  "id": "10471118274826",
+  "fil": "b_27_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer: CoolMax, förstärkt tå och häl, vit (titel och variant M / white). En variant (M) men storleken behöver inte stå. Meta har verb och är 132 tecken; sista meningen är utfyllnad men inte fel."
+ },
+ {
+  "nr": 8208,
+  "id": "10472285307146",
+  "fil": "b_27_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<p>Giant Caldo är en cykelmössa som passar under hjälmen. Mössan är en hjälmmössa i ThermTextura-tyg och finns i en storlek som passar alla.</p>",
+     "efter": "<p>Giant Caldo är en cykelmössa i ThermTextura-tyg som passar under hjälmen. Den finns i en storlek som passar alla.</p>"
+    },
+    {
+     "fore": "<li>Dig som vill ha en hjälmmössa som passar alla i en storlek</li>",
+     "efter": "<li>Dig som vill ha en mössa i en storlek som passar alla</li>"
+    }
+   ]
+  },
+  "skal": "Stämmer: Caldo skull cap = cykelmössa (källans text), ThermTextura, en storlek, värme/fukt enligt tillverkaren i metan. Inledningen är cirkulär ('cykelmössa ... Mössan är en hjälmmössa') och en punkt i Passar för är krystad; skrivs om."
+ },
+ {
+  "nr": 8209,
+  "id": "10472295301386",
+  "fil": "b_27_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot den egna källan (CoolMax, förstärkt tå och häl, svart, en variant Default Title). Utkastets 'att bekräfta' om storlek M gäller systerprodukten 8207, inte denna, men står inte i kundtext."
+ },
+ {
+  "nr": 8210,
+  "id": "10472296841482",
+  "fil": "b_27_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Dig som vill ha strumpor med förstärkt häl, som enligt tillverkaren minskar tryck</li>",
+     "efter": "<li>Dig som vill ha strumpor med förstärkt häl och extra stöd vid tån</li>"
+    },
+    {
+     "fore": "<p>Liv Vantage är cykelstrumpor med förstärkt häl och extra stöd vid tån. Strumporna är andningsaktiva och fukttransporterande.</p>",
+     "efter": "<p>Liv Vantage är cykelstrumpor med förstärkt häl och extra stöd vid tån. Enligt tillverkaren är strumporna andningsaktiva och fukttransporterande.</p>"
+    },
+    {
+     "fore": "<li>Dig som vill ha andningsaktiva och fukttransporterande strumpor</li>",
+     "efter": "<li>Dig som vill ha strumpor som enligt tillverkaren är andningsaktiva och fukttransporterande</li>"
+    }
+   ],
+   "meta": {
+    "fore": "Strumporna är andningsaktiva och fukttransporterande.",
+    "efter": "Enligt tillverkaren andas de och transporterar bort fukt."
+   }
+  },
+  "skal": "Varianterna S och M/L låses inte. 'Minskar tryck' är ett effektpåstående om kroppen och stryks (som stötdämpning/tryck i 8217–8218). Andningsaktiva och fukttransporterande är tillverkarens påståenden och skrivs enligt tillverkaren i inledning, Passar för och meta."
+ },
+ {
+  "nr": 8211,
+  "id": "10475428675850",
+  "fil": "b_27_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer: hjälmmössa under hjälmen, ProTextura Plus, 30000 g/m2/24h (JIS L1099 B1), vattentätt enligt tillverkaren, svart från titeln. Reflexelement och säkerhet i svagt ljus rätt utelämnade; mössan är ingen reflexprodukt. Titeltypen Cykelmössa står i källans titel."
+ },
+ {
+  "nr": 8212,
+  "id": "10475429167370",
+  "fil": "b_27_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "En variant (Default Title), storlek S bara i titeln: tillåtet i titeln enligt regeln om exakt en storlek (jfr 8227). Antihalksida, perforerad handflata, TransTextura, Ergo Bolton-tumme med mikrofiber, lång stretchmanschett stämmer; komfortpåståenden rätt utelämnade."
+ },
+ {
+  "nr": 8213,
+  "id": "10526099407114",
+  "fil": "b_27_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": " UPF-solskydd ingår.",
+    "efter": " De har en dragflik."
+   },
+   "html": [
+    {
+     "fore": "De har sömlös elastisk manschett, UPF-solskydd och dragflik.",
+     "efter": "De har sömlös elastisk manschett och dragflik."
+    },
+    {
+     "fore": "<li>Dig som vill ha handskar med UPF-solskydd</li>",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Solskydd: UPF</li>",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Varianter Default Title/XL/XXL med olika pris; storlek rätt olåst. UPF-solskydd är ett skyddspåstående (hud/sol) och stryks i meta, inledning, Passar för och specifikation, som 'UPF 40+' i 8110. Övrigt stämmer."
+ },
+ {
+  "nr": 8214,
+  "id": "10526099439882",
+  "fil": "b_27_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": " UPF-solskydd ingår.",
+    "efter": " De har en dragflik."
+   },
+   "html": [
+    {
+     "fore": "De har sömlös elastisk manschett, UPF-solskydd och dragflik.",
+     "efter": "De har sömlös elastisk manschett och dragflik."
+    },
+    {
+     "fore": "<li>Dig som vill ha handskar med UPF-solskydd</li>",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Solskydd: UPF</li>",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Som 8213 (mörkblå): UPF-solskydd stryks. 'Korta fingervantar' i källan och SF i namnet ger kortfingrade; rimligt."
+ },
+ {
+  "nr": 8215,
+  "id": "10526099472650",
+  "fil": "b_27_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn källa (bara titeln och märkesraden), ingen meta, inget påhittat. Aruba Blue är tillverkarens färgnamn (jfr Soap Suds i 8135). Storlek olåst."
+ },
+ {
+  "nr": 8216,
+  "id": "10526099538186",
+  "fil": "b_27_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<p>Giant Pace Gel SF är cykelhandskar från Giant i färgen Svart.</p>",
+     "efter": "<p>Giant Pace Gel SF är cykelhandskar från Giant i färgen svart.</p>"
+    },
+    {
+     "fore": "<li>Dig som söker cykelhandskar från Giant i färgen Svart</li>",
+     "efter": "<li>Dig som söker cykelhandskar från Giant i färgen svart</li>"
+    }
+   ]
+  },
+  "skal": "Tunn källa (tom beskrivning), ingen meta. Färgen ska ha liten bokstav mitt i meningen ('i färgen svart')."
+ },
+ {
+  "nr": 8217,
+  "id": "10526099603722",
+  "fil": "b_27_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "med tredelad EVA-skumvaddering och UPF-solskydd. De har kardborrehandledsrem.",
+    "efter": "med tredelad EVA-skumvaddering på handflatan. De har kardborrehandledsrem och dragflik."
+   },
+   "html": [
+    {
+     "fore": "och handskarna har kardborrehandledsrem, dragflik och UPF-solskydd.",
+     "efter": "och handskarna har kardborrehandledsrem och dragflik."
+    },
+    {
+     "fore": "<li>Dig som vill ha handskar med UPF-solskydd</li>",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Solskydd: UPF</li>",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Varianter Default Title/L med olika pris; storlek olåst. Stötdämpning och tryck rätt utelämnade. UPF-solskydd stryks som i 8213; metan skrivs om (149 tecken)."
+ },
+ {
+  "nr": 8218,
+  "id": "10541368279306",
+  "fil": "b_27_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "med tredelad EVA-skumvaddering och UPF-solskydd. De har kardborrehandledsrem.",
+    "efter": "med tredelad EVA-skumvaddering på handflatan. De har kardborrehandledsrem och dragflik."
+   },
+   "html": [
+    {
+     "fore": "och handskarna har kardborrehandledsrem, dragflik och UPF-solskydd.",
+     "efter": "och handskarna har kardborrehandledsrem och dragflik."
+    },
+    {
+     "fore": "<li>Dig som vill ha handskar med UPF-solskydd</li>",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Solskydd: UPF</li>",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Som 8217 (svart, L/XL/XXL): UPF-solskydd stryks; meta 146 tecken."
+ },
+ {
+  "nr": 8219,
+  "id": "10472225964298",
+  "fil": "b_27_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Pakethållarkorg utan lastuppgift och ingen lastgräns i texten (tillåtet enligt avsnitt 12). Plast, pakethållare, permanent fäste med monteringsdetaljer, väder enligt tillverkaren stämmer. Damcykel och omdömen rätt utelämnade."
+ },
+ {
+  "nr": 8220,
+  "id": "10472249262346",
+  "fil": "b_27_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Framkorg utan lastuppgift; lockets 'säkerhet för tillhörigheter' och miljöpåståenden rätt utelämnade. Rotting, lock, konstläderhandtag, invändiga och utvändiga mått, fästen ingår inte, väderkänsligt material stämmer."
+ },
+ {
+  "nr": 8222,
+  "id": "10475369464074",
+  "fil": "b_27_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Volym: minst 30 liters volym</li>",
+    "efter": "<li>Volym: Minst 30 l</li>"
+   }
+  },
+  "skal": "Volym är ingen lastgräns (jfr 8154). Rotting, rektangulär, handgjord, minst 30 l, MIK-kit/lådfästkit säljs separat stämmer; ekologisk och väderbeständig rätt utelämnade. Specifikationsraden 'Volym: minst 30 liters volym' upprepar ordet och rättas."
+ },
+ {
+  "nr": 8223,
+  "id": "10475384471818",
+  "fil": "b_27_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Motsägande fästplats rätt utelämnad; flätad, 42 x 20 x 26 cm, avtagbar, krokar medföljer stämmer. Taggen Cykelbelysning är fel i butiken (att bekräfta)."
+ },
+ {
+  "nr": 8224,
+  "id": "10475980128522",
+  "fil": "b_27_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "med ram i finkornigt stål och avtagbart handtag.",
+    "efter": "med stålram och ett handtag som gör den lätt att ta bort."
+   }
+  },
+  "skal": "Metan säger 'avtagbart handtag', men källan säger att korgen är lätt att ta bort med ett handtag; rättas. Ingen lastuppgift. Taggarna Gymstick/Gymstick Stänger är fel i butiken (att bekräfta)."
+ },
+ {
+  "nr": 8225,
+  "id": "10475981144330",
+  "fil": "b_27_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer: 18 l, handgjord rotting, rektangulär, MIK-kit/box-fästkit säljs separat. Volym är ingen lastgräns. Ljusbrun från titeln (källtexten säger 'bruna')."
+ },
+ {
+  "nr": 8227,
+  "id": "10472264073482",
+  "fil": "b_27_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "En variant och källan anger 'storlek M - 160 x 80 x 80 mm': storleken får stå i titeln och skiljer från 5205 (S). ProTextura, vattentät dragkedja, spännband, fästhål för bakljus, 0,7 l stämmer; reflexremsor och 'slitstarkt' rätt utelämnade. Volym är ingen lastgräns."
+ },
+ {
+  "nr": 8228,
+  "id": "10472286519562",
+  "fil": "b_27_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "med två förvaringsutrymmen i främre triangeln. Den är vattentät och skyddad av dragkedjor.",
+    "efter": "med två förvaringsutrymmen i främre triangeln. Enligt tillverkaren är den vattentät."
+   },
+   "html": [
+    {
+     "fore": "Konstruktionen är vattentät och skyddad av dragkedjor.",
+     "efter": "Konstruktionen är enligt tillverkaren vattentät och skyddad av dragkedjor."
+    },
+    {
+     "fore": "<li>Konstruktion: Vattentät, skyddad av dragkedjor</li>",
+     "efter": "<li>Konstruktion: Vattentät enligt tillverkaren, skyddad av dragkedjor</li>"
+    }
+   ]
+  },
+  "skal": "5,5 l, två fack i främre triangeln, justerbara remmar, 209 g stämmer; reflexdetaljer rätt utelämnade. 'Vattentät' är tillverkarens påstående och skrivs enligt tillverkaren (jfr 8154, 8155) i meta, inledning och specifikation."
+ },
+ {
+  "nr": 8229,
+  "id": "10462769185034",
+  "fil": "b_27_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Flaskan är BPA-fri och lätt att rengöra. Specifikationer finns längre ner på sidan.",
+    "efter": "Enligt tillverkaren är den BPA-fri och lätt att rengöra. Färgen är transparent och svart."
+   },
+   "html": [
+    {
+     "fore": "Flaskan är BPA-fri och lätt att rengöra.</p>",
+     "efter": "Enligt tillverkaren är flaskan BPA-fri och lätt att rengöra.</p>"
+    },
+    {
+     "fore": "<li>Dig som vill ha en BPA-fri dricksflaska</li>",
+     "efter": "<li>Dig som vill ha en dricksflaska som enligt tillverkaren är BPA-fri</li>"
+    },
+    {
+     "fore": "<li>Fri från: BPA</li>",
+     "efter": "<li>Fri från: BPA, enligt tillverkaren</li>"
+    }
+   ]
+  },
+  "skal": "600 ml och färg (trasig stavning TRASPARENT/BLACK) rimligt tolkade. BPA-fri och lätt att rengöra är tillverkarens påståenden och skrivs enligt tillverkaren (jfr 8132); metans utfyllnad ersätts med färgen."
+ },
+ {
+  "nr": 8230,
+  "id": "10472227537162",
+  "fil": "b_27_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Tunturi Centuri Deluxe är en BPA-fri dricksflaska i plast på 700 ml med handtag och stor skruvkork. Flaskan tål inte diskmaskin. Se skötselråd nedan.",
+    "efter": "Tunturi Centuri Deluxe är en dricksflaska i plast på 700 ml med handtag och stor skruvkork, enligt tillverkaren BPA-fri. Flaskan tål inte diskmaskin."
+   },
+   "html": [
+    {
+     "fore": "<p>Tunturi Centuri Deluxe är en BPA-fri dricksflaska i plast på 700 ml med handtag och stor skruvkork.</p>",
+     "efter": "<p>Tunturi Centuri Deluxe är en dricksflaska i plast på 700 ml med handtag och stor skruvkork. Enligt tillverkaren är den BPA-fri.</p>"
+    },
+    {
+     "fore": "<li>Material: Plast, BPA-fri</li>",
+     "efter": "<li>Material: Plast, BPA-fri enligt tillverkaren</li>"
+    }
+   ]
+  },
+  "skal": "700 ml, plast, handtag, stor skruvkork, tål inte diskmaskin stämmer; märket Tunturi enligt titeln (butikens vendor Fell, att bekräfta). BPA-fri skrivs enligt tillverkaren (jfr 8132)."
+ },
+ {
+  "nr": 8231,
+  "id": "10472251785482",
+  "fil": "b_28_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Dricksflaska Liv Doublespring 600 ml Rosa",
+    "efter": "Dricksflaska Liv 600 ml, Blå och Rosa"
+   }
+  },
+  "skal": "Tunn källa, ingen meta (rätt). SEO-titeln tar bara med 'Rosa' av färgen transparent blå/rosa och blir missvisande; ny SEO-titel 37 tecken, unik."
+ },
+ {
+  "nr": 8232,
+  "id": "10472264335626",
+  "fil": "b_28_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Dricksflaska Liv Doublespring 750 ml Rosa",
+    "efter": "Dricksflaska Liv 750 ml, Blå och Rosa"
+   }
+  },
+  "skal": "Som 8231 (750 ml). Ny SEO-titel 37 tecken, unik."
+ },
+ {
+  "nr": 8233,
+  "id": "10472264401162",
+  "fil": "b_28_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer: flexibel plast, rymmer 500–750 ml, 32 g, svart från titeln. Ingen lastuppgift i egentlig mening (flaskstorlek)."
+ },
+ {
+  "nr": 8235,
+  "id": "10494699307274",
+  "fil": "b_28_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Som 8233 (vit). Stämmer."
+ },
+ {
+  "nr": 8234,
+  "id": "10472266760458",
+  "fil": "b_28_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Dricksflaska Liv Doublespring 750 ml Vit",
+    "efter": "Dricksflaska Liv 750 ml, Vit, Lila och Blå"
+   }
+  },
+  "skal": "Tunn källa, ingen meta; BPA-raden rätt utelämnad. SEO-titeln tar bara 'Vit' av vit/lila/blå; ny SEO-titel 42 tecken, unik."
+ },
+ {
+  "nr": 8238,
+  "id": "10411699470602",
+  "fil": "b_28_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Innerslang: dimension entydig (titel 24\" och ETRTO 50/60-507, 507 = 24 tum), ventil entydig (AV i titeln, Schrader/autoventil i texten). Titel, SEO, meta och specifikation stämmer med varandra. Ventillängd saknas i källan och anges inte (att bekräfta)."
+ },
+ {
+  "nr": 8239,
+  "id": "10472238874890",
+  "fil": "b_28_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND: dimensionen är motsägande i den egna källan (titeln Compact 16 och ETRTO 32/47-305/349, beskrivningen 'Storlek: 26 tum'). Utkastets storlek bygger på att 26 tum tolkas som fel; för en innerslang räcker inte det."
+ },
+ {
+  "nr": 8240,
+  "id": "10472239005962",
+  "fil": "b_28_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND: ETRTO motsäger sig (titeln 37/47-559/597, beskrivningen 37-559 -> 47-559/44-590). Utkastet stryker storleken helt; en innerslang utan entydig dimension kan inte säljas säkert på texten."
+ },
+ {
+  "nr": 8241,
+  "id": "10472239202570",
+  "fil": "b_28_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Innerslang: dimension entydig (ETRTO 47/62-559 och 26 tum stämmer), ventil Presta (PV) i titel och text. Titel, SEO, meta och specifikation stämmer. Ventillängd saknas och anges inte."
+ },
+ {
+  "nr": 8242,
+  "id": "10472240185610",
+  "fil": "b_28_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND: både ventil (titeln DV, texten Schraderventil 34 mm) och storlek (Compact 14 / ETRTO 279/298 mot 'Storlek: 26 tum') är motsägande. För lite återstår."
+ },
+ {
+  "nr": 8243,
+  "id": "10472240218378",
+  "fil": "b_28_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Innerslang: ETRTO 47/62-622 entydig; 622 är både 28 och 29 tum, så titelns 28/29 och textens 29 tum motsäger inte varandra. Autoventil 40 mm i titel och text. Titel, SEO, meta och specifikation stämmer."
+ },
+ {
+  "nr": 8245,
+  "id": "10472250573066",
+  "fil": "b_28_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Innerslang: 28 tum (700C), ETRTO 32/47-609/642 och däckbredd 32–47 mm stämmer med varandra; ventil AV/Schrader entydig. Däckbredd enligt tillverkaren. 'Hög kvalitet' rätt utelämnat. Ventillängd saknas och anges inte."
+ },
+ {
+  "nr": 8246,
+  "id": "10472251359498",
+  "fil": "b_28_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Innerslang: 28 tum (700C), ETRTO 32/47-622/635 och däckbredd 32–47 mm stämmer; Presta entydig. 'Högkvalitativ' rätt utelämnat."
+ },
+ {
+  "nr": 8247,
+  "id": "10472251719946",
+  "fil": "b_28_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND: dimensionen är motsägande i den egna källan: ETRTO 47/62-584/622 mot 'För 28 mm breda däck', och 584 är 27,5 tum medan titeln säger 28\". SEO-titeln '28 tum 47/62-584' återger dessutom bara halva ETRTO."
+ },
+ {
+  "nr": 8249,
+  "id": "10475978260746",
+  "fil": "b_28_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Innerslang: ETRTO 57/70-584 och 27,5 tum stämmer, Presta i titel och text. Titel, SEO, meta och specifikation stämmer. Ventillängd saknas och anges inte."
+ },
+ {
+  "nr": 8250,
+  "id": "10471121977610",
+  "fil": "b_28_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Mönster: Honeycomb</li>",
+    "efter": ""
+   }
+  },
+  "skal": "150 mm, 114 g, sparkcykel enligt tillverkaren, transparent från titeln stämmer. 'Mönster: Honeycomb' är härlett ur modellnamnet och stryks (uppgift som inte står i källan)."
+ },
+ {
+  "nr": 8252,
+  "id": "10515754713354",
+  "fil": "b_28_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Union Honeycomb Soft Grips är rosa handtag med mönstret Honeycomb. De är 150 mm långa och väger 114 g. Enligt tillverkaren är de avsedda för skoter.",
+    "efter": "Union Honeycomb Soft Grips är rosa handtag som är 150 mm långa och väger 114 g. Längd, vikt och färg finns under specifikationer längre ner på sidan."
+   },
+   "html": [
+    {
+     "fore": " Enligt tillverkaren är de avsedda för skoter.",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Mönster: Honeycomb</li>",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "'Skoter' i den egna källan är oklart (systerprodukten säger sparkcykel; skoter betyder annat på svenska) och stryks. 'Mönster: Honeycomb' härlett ur namnet och stryks. Meta skrivs om (149 tecken)."
+ },
+ {
+  "nr": 8251,
+  "id": "10472238186762",
+  "fil": "b_28_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "med dubbel densitet och tvåvägsgrepp i två lager.",
+     "efter": "med dubbel densitet, tvåvägsgrepp och grepp i två lager."
+    },
+    {
+     "fore": "<li>Grepp: Tvåvägsgrepp i två lager</li>",
+     "efter": "<li>Grepp: Tvåvägsgrepp, i två lager</li>"
+    },
+    {
+     "fore": "<li>Dig som har ett styre på 22,2 mm</li>",
+     "efter": "<li>Dig som har ett styre på 22,2 mm, enligt tillverkaren</li>"
+    }
+   ]
+  },
+  "skal": "Dubbel densitet, tvåvägsgrepp, grepp i två lager och 22,2 mm styre stämmer, men utkastet slår ihop två källpunkter till 'tvåvägsgrepp i två lager'; rättas. Styrdiametern är kompatibilitet och skrivs enligt tillverkaren även i Passar för."
+ },
+ {
+  "nr": 8253,
+  "id": "10605358088458",
+  "fil": "b_28_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Ethic Slim Grips är svarta handtag i gummi från märket Ethic. De väger 117 g och är enligt tillverkaren ultralätta men ändå tunna.",
+    "efter": "Ethic Slim Grips är svarta handtag i gummi som väger 117 g. Material, vikt och färg finns under specifikationer längre ner på sidan."
+   },
+   "html": {
+    "fore": " Enligt tillverkaren är handtagen ultralätta men ändå tunna.",
+    "efter": ""
+   }
+  },
+  "skal": "Gummi, 117 g, svart stämmer. 'Ultralätta men ändå tunna' är en trasig översättning och ett värderande påstående; stryks i meta och inledning. 'Slim' i namnet bär punkten om tunna handtag (enligt tillverkaren). Meta skrivs om (132 tecken)."
+ },
+ {
+  "nr": 8254,
+  "id": "10472453341450",
+  "fil": "b_28_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn källa (bara titeln Mudguards ZEFAL No-Mud), ingen meta, inget påhittat. Typordet Stänkskärmar följer källans 'Mudguards'."
+ },
+ {
+  "nr": 8255,
+  "id": "10411736301834",
+  "fil": "b_28_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<p>SKS Velo 55 är stänkskärmar i storleken 26 tum från SKS.</p>",
+     "efter": "<p>SKS Velo 55 är stänkskärmar som enligt tillverkaren passar 26 tum.</p>"
+    },
+    {
+     "fore": "<li>Dig som söker stänkskärmar i storleken 26 tum</li>",
+     "efter": "<li>Dig som har en cykel med 26 tum, enligt tillverkaren</li>"
+    }
+   ]
+  },
+  "skal": "Tunn källa, ingen meta. 26 tum är kompatibilitet och skrivs enligt tillverkaren (avsnitt 12) i inledning och Passar för; titel och specifikation behåller 26 tum."
+ },
+ {
+  "nr": 8256,
+  "id": "10461842047242",
+  "fil": "b_28_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Dig som har en mountainbike med 26–27,5 tums hjul</li>",
+    "efter": "<li>Dig som har en mountainbike med 26–27,5 tums hjul, enligt tillverkaren</li>"
+   }
+  },
+  "skal": "Stämmer: framskärm för 26–27,5 tums mountainbikes, svart från titeln, enligt tillverkaren i meta och inledning. Passar för saknar 'enligt tillverkaren'; läggs till."
+ },
+ {
+  "nr": 8258,
+  "id": "10474070802698",
+  "fil": "b_28_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "SKS Shockblade är en framskärm för cykel i plast från märket SKS för 28–29 tums hjul. Enligt tillverkaren är plasten slitstark och lätt.",
+    "efter": "SKS Shockblade är en framskärm för cykel i plast från märket SKS. Enligt tillverkaren passar den 28–29 tums hjul och är gjord av lätt plast."
+   },
+   "html": [
+    {
+     "fore": "<p>SKS Shockblade är en framskärm i plast för 28–29 tums hjul. Enligt tillverkaren är plasten slitstark och lätt.</p>",
+     "efter": "<p>SKS Shockblade är en framskärm i plast. Enligt tillverkaren passar den 28–29 tums hjul och plasten är lätt.</p>"
+    },
+    {
+     "fore": "<li>Dig som söker en framskärm till 28–29 tums hjul</li>",
+     "efter": "<li>Dig som söker en framskärm till 28–29 tums hjul, enligt tillverkaren</li>"
+    }
+   ]
+  },
+  "skal": "Framskärm, 28–29 tum, plast, lätt stämmer. 'Slitstark' är en kvalitetsvärdering och stryks (jfr 8130). Hjulstorleken skrivs enligt tillverkaren i meta, inledning och Passar för."
+ },
+ {
+  "nr": 8259,
+  "id": "10475980095754",
+  "fil": "b_28_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Motsägande hjulstorlek (26–29 tum mot 28 tum) rätt utelämnad; kvar finns set fram och bak och bredd 42 mm, båda entydiga. Ursprung rätt utelämnat. Ingen meta (tunn)."
+ },
+ {
+  "nr": 8260,
+  "id": "10656684441866",
+  "fil": "b_28_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<p>SKS Bluemels Basic är stänkskärmar i storleken 26 tum och 60 mm från SKS.</p>",
+     "efter": "<p>SKS Bluemels Basic är stänkskärmar som enligt tillverkaren passar 26 tum.</p>"
+    },
+    {
+     "fore": "<li>Dig som söker stänkskärmar i storleken 26 tum</li>",
+     "efter": "<li>Dig som har en cykel med 26 tum, enligt tillverkaren</li>"
+    }
+   ]
+  },
+  "skal": "Tunn källa, ingen meta, beställningsmeningen finns (taggen På beställning). 26 tum skrivs enligt tillverkaren; '26 tum och 60 mm' i inledningen är oklart och 60 mm står kvar bara som i titeln och specifikationen."
+ }
+]
