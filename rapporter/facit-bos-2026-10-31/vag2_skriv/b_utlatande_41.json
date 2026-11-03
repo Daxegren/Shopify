@@ -205,7 +205,7 @@
    },
    "meta": {
     "fore": "Elcykel Liv Lurra E+ i Lunar Eclipse har SyncDrive Pro 2-mittmotor på 85 Nm, EnergyPak Smart-batteri på 750 Wh, 130 mm fjädringsväg och 10 växlar.",
-    "efter": "Elcykel Liv Lurra E+ i Lunar Eclipse har SyncDrive Pro 2-mittmotor på 250 W och 85 Nm, 130 mm fjädringsväg fram, 10 växlar med Shimano Cues och hydrauliska bromsar."
+    "efter": "Elcykel Liv Lurra E+ i Lunar Eclipse har SyncDrive Pro 2-mittmotor på 85 Nm, 130 mm fjädringsväg fram, 10 växlar med Shimano Cues och hydrauliska bromsar."
    },
    "html": [
     {
@@ -226,7 +226,7 @@
     }
    ]
   },
-  "skal": "Extra skärpa 1 och 3: källan är motsägande om batteriet ('Battery: Giant EnergyPak Smart 750Wh' och en andra rad 'Battery: 5.5 kW: ALUXX aluminum ...'), så batteriuppgiften stryks i meta, inledning, Passar för och specifikation. Hjulstorleken 29 tum är bara härledd ur däckmåttet 29x2.4\" och stryks i titel och specifikation (däckmåttet står kvar). Meta efter rättning 148 tecken. Motor 250 W/85 Nm, XCR34 130 mm 15x110, Cues 10 växlar, MT200 hydrauliska, Rekon 29x2.4 EXO 60TPI och fästpunkter stämmer. Räckvidd 200 km står entydigt och enligt tillverkaren en gång; David kan välja att stryka den tills batteriet är bekräftat."
+  "skal": "Extra skärpa 1 och 3: källan är motsägande om batteriet ('Battery: Giant EnergyPak Smart 750Wh' och en andra rad 'Battery: 5.5 kW: ALUXX aluminum ...'), så batteriuppgiften stryks i meta, inledning, Passar för och specifikation. Hjulstorleken 29 tum är bara härledd ur däckmåttet 29x2.4\" och stryks i titel och specifikation (däckmåttet står kvar). Meta efter rättning 154 tecken. Motor 250 W/85 Nm, XCR34 130 mm 15x110, Cues 10 växlar, MT200 hydrauliska, Rekon 29x2.4 EXO 60TPI och fästpunkter stämmer. Räckvidd 200 km står entydigt och enligt tillverkaren en gång; David kan välja att stryka den tills batteriet är bekräftat."
  },
  {
   "nr": 8774,
