@@ -1,0 +1,169 @@
+[
+ {
+  "nr": 7145,
+  "id": "10624088047882",
+  "fil": "k_16_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Mountainbike Giant Talon 2 med 29 tums däck i Eclipse har ALUXX-aluminiumram, 9 växlar med microSHIFT Advent och hydrauliska skivbromsar.",
+    "efter": "Mountainbike Giant Talon 2 i Eclipse har 29 tums hjul, ALUXX-aluminiumram, 9 växlar med microSHIFT Advent och hydrauliska skivbromsar."
+   }
+  },
+  "skal": "Alla uppgifter spårbara (ALUXX, SXC32-3 RL 100 mm, microSHIFT Advent 9, Tektro HDC M275 hydrauliska, Maxxis Rekon 29x2.4). Varianterna Default Title och XL / blue låses inte. Metan säger 'med N tums däck i <färg>', vilket läses som att däcken har färgen; färgen flyttas till cykeln och hjulstorleken anges som hjul."
+ },
+ {
+  "nr": 7146,
+  "id": "10624088080650",
+  "fil": "k_16_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Mountainbike Liv Tempt 1 med 29 tums däck i Null White har ALUXX-aluminiumram, 11 växlar med Microshift Advent och hydrauliska skivbromsar.",
+    "efter": "Mountainbike Liv Tempt 1 i Null White har 29 tums hjul, ALUXX-aluminiumram, 11 växlar med Microshift Advent och hydrauliska skivbromsar."
+   }
+  },
+  "skal": "Spårbart (SXC32-2 RL Single Air 100 mm, Microshift Advent 11, Tektro HD-M3121). Typ Mountainbike stöds av taggen. Metan säger 'med N tums däck i <färg>', vilket läses som att däcken har färgen; färgen flyttas till cykeln och hjulstorleken anges som hjul."
+ },
+ {
+  "nr": 7147,
+  "id": "10624088113418",
+  "fil": "k_16_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Mountainbike Liv Tempt 0 med 29 tums däck i Stardust Grey har ALUXX-aluminiumram, 12 växlar med Shimano Deore och hydrauliska skivbromsar.",
+    "efter": "Mountainbike Liv Tempt 0 i Stardust Grey har 29 tums hjul, ALUXX-aluminiumram, 12 växlar med Shimano Deore och hydrauliska skivbromsar."
+   }
+  },
+  "skal": "Spårbart (Shimano Deore 12, BR-MT200, Recon Race 29x2.4). Metan säger 'med N tums däck i <färg>', vilket läses som att däcken har färgen; färgen flyttas till cykeln och hjulstorleken anges som hjul."
+ },
+ {
+  "nr": 7148,
+  "id": "10624088146186",
+  "fil": "k_16_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Mountainbike Liv Tempt 3 med 29 tums däck i Airglow har ALUXX-aluminiumram, 16 växlar med Shimano Acera och hydrauliska skivbromsar.",
+    "efter": "Mountainbike Liv Tempt 3 i Airglow har 29 tums hjul, ALUXX-aluminiumram, 16 växlar med Shimano Acera och hydrauliska skivbromsar från Tektro."
+   }
+  },
+  "skal": "Spårbart (SR Suntour XCE 100 mm, Acera 16, Tektro hydrauliska, Ikon 29x2.2). Metan säger 'med N tums däck i <färg>', vilket läses som att däcken har färgen; färgen flyttas till cykeln och hjulstorleken anges som hjul. Bromsmärket Tektro läggs till så att metan når 130 tecken (141)."
+ },
+ {
+  "nr": 7149,
+  "id": "10624088178954",
+  "fil": "k_16_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Mountainbike Liv Tempt 2 med 29 tums däck i Cryo Silver har ALUXX-aluminiumram, 9 växlar med microSHIFT Advent och hydrauliska skivbromsar.",
+    "efter": "Mountainbike Liv Tempt 2 i Cryo Silver har 29 tums hjul, ALUXX-aluminiumram, 9 växlar med microSHIFT Advent och hydrauliska skivbromsar."
+   }
+  },
+  "skal": "Spårbart (SXC32-3 Coil 100 mm, microSHIFT Advent 9, HD-M3121). Metan säger 'med N tums däck i <färg>', vilket läses som att däcken har färgen; färgen flyttas till cykeln och hjulstorleken anges som hjul."
+ },
+ {
+  "nr": 7150,
+  "id": "10624088572170",
+  "fil": "k_16_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Växelsystemet anges bara som 'Shimano 105' (24 växlar). Källan visar inte entydigt att det är mekaniskt; systermodellerna 7151 och 7161 (Avail Advanced 1) har Shimano 105 Di2 med batteri. Enligt skärpningen för elektronik underkänns produkten tills det är bekräftat att växlarna är mekaniska. Dessutom: titeln anger däckmått (700x32c) i stället för hjulstorlek, och taggen Racercykel konkurrerar med typen Damcykel."
+ },
+ {
+  "nr": 7153,
+  "id": "10635806310666",
+  "fil": "k_16_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Mountainbike Giant Talon 2 med 29 tums däck i Phoenix Fire har ALUXX-aluminiumram, 9 växlar med microSHIFT Advent och hydrauliska skivbromsar.",
+    "efter": "Mountainbike Giant Talon 2 i Phoenix Fire har 29 tums hjul, ALUXX-aluminiumram, 9 växlar med microSHIFT Advent och hydrauliska skivbromsar."
+   }
+  },
+  "skal": "Spårbart; varianterna Default Title och M / Red låses inte, originalfärgnamnet Phoenix Fire behålls. Metan säger 'med N tums däck i <färg>', vilket läses som att däcken har färgen; färgen flyttas till cykeln och hjulstorleken anges som hjul."
+ },
+ {
+  "nr": 7154,
+  "id": "10635806343434",
+  "fil": "k_16_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Mountainbike Giant Talon 3 med 29 tums däck i Liquid Metal har ALUXX-aluminiumram, 16 växlar med Shimano Altus/Acera och hydrauliska skivbromsar.",
+    "efter": "Mountainbike Giant Talon 3 i Liquid Metal har 29 tums hjul, ALUXX-aluminiumram, 16 växlar med Shimano Altus/Acera och hydrauliska skivbromsar."
+   }
+  },
+  "skal": "Spårbart (SR Suntour XCE, Altus/Acera 16, HDC M3121, Ikon 29x2.2). Metan säger 'med N tums däck i <färg>', vilket läses som att däcken har färgen; färgen flyttas till cykeln och hjulstorleken anges som hjul."
+ },
+ {
+  "nr": 7155,
+  "id": "10635806376202",
+  "fil": "k_16_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Mountainbike Giant Talon 3 med 29 tums däck i Orange har ALUXX-aluminiumram, 16 växlar med Shimano Altus/Acera och hydrauliska skivbromsar.",
+    "efter": "Mountainbike Giant Talon 3 i Orange har 29 tums hjul, ALUXX-aluminiumram, 16 växlar med Shimano Altus/Acera och hydrauliska skivbromsar."
+   }
+  },
+  "skal": "Spårbart; en variant (Default Title). Metan säger 'med N tums däck i <färg>', vilket läses som att däcken har färgen; färgen flyttas till cykeln och hjulstorleken anges som hjul."
+ },
+ {
+  "nr": 7156,
+  "id": "10635806474506",
+  "fil": "k_16_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Mountainbike Giant Talon 3 med 29 tums däck i Pangea Green har ALUXX-aluminiumram, 16 växlar med Shimano Altus/Acera och hydrauliska skivbromsar.",
+    "efter": "Mountainbike Giant Talon 3 i Pangea Green har 29 tums hjul, ALUXX-aluminiumram, 16 växlar med Shimano Altus/Acera och hydrauliska skivbromsar."
+   }
+  },
+  "skal": "Spårbart; en variant (M / green), ramstorlek inte låst. Metan säger 'med N tums däck i <färg>', vilket läses som att däcken har färgen; färgen flyttas till cykeln och hjulstorleken anges som hjul."
+ },
+ {
+  "nr": 7162,
+  "id": "10650208076042",
+  "fil": "k_16_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Mountainbike Liv Tempt 3 XS med 27,5 tums däck i Airglow har ALUXX-aluminiumram, 16 växlar med Shimano Acera och hydrauliska skivbromsar.",
+    "efter": "Mountainbike Liv Tempt 3 XS i Airglow har 27,5 tums hjul, ALUXX-aluminiumram, 16 växlar med Shimano Acera och hydrauliska skivbromsar."
+   }
+  },
+  "skal": "Spårbart (XS 33 cm enda variant, XCE 80 mm, Acera 16, Ikon 27.5x2.2). Tre kommatecken i titeln är känd falsk positiv (decimalkomma i 27,5). Metan säger 'med N tums däck i <färg>', vilket läses som att däcken har färgen; färgen flyttas till cykeln och hjulstorleken anges som hjul."
+ },
+ {
+  "nr": 7163,
+  "id": "10650208993546",
+  "fil": "k_16_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Hoppcykel för dirt jumping (källan: hopp och landningar, Gyro-system för 360° styrrotation). Inte barncykel enligt källan (en storlek 31 cm, cyklister ca 155–185 cm), men hopp är en riskanvändning och texten ('Passar för: dirt jumping') blir ett användningsråd; bromsarna skiljer sig fram (mekanisk) och bak (hydraulisk). Typen 'Dirt Jump-cykel' finns inte bland de godkända cykeltyperna och har dessutom versal J mot källans 'Dirt jump-cykel'. Oklart om säkerhetsprodukt, därför underkänd; David kan släppa den."
+ },
+ {
+  "nr": 7167,
+  "id": "10656690471178",
+  "fil": "k_16_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Mountainbike Giant Talon 29 0 med 29 tums däck i Plasma Coral har ALUXX-aluminiumram, 12 växlar med Shimano Deore och hydrauliska skivbromsar.",
+    "efter": "Mountainbike Giant Talon 29 0 i Plasma Coral har 29 tums hjul, ALUXX-aluminiumram, 12 växlar med Shimano Deore och hydrauliska skivbromsar."
+   }
+  },
+  "skal": "Live-källan identisk med 7169 (samma titel, samma SKU 1095016285/1095016284, samma pris 19 629 kr). 7167 behålls eftersom den behåller butikens modellnamn 'Talon 29 0'; 7169 underkänns som dubblett. Variantfärgen 'Red' mot titelns Plasma Coral: originalnamnet behålls. Metan säger 'med N tums däck i <färg>', vilket läses som att däcken har färgen; färgen flyttas till cykeln och hjulstorleken anges som hjul."
+ },
+ {
+  "nr": 7169,
+  "id": "10656690536714",
+  "fil": "k_17_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Dubblett av 7167 (k_16): live-källan är identisk (samma titel 'Cykel GIANT Talon 29 0 (2027) Plasma Coral', samma SKU 1095016285/1095016284, samma pris 19 629 kr, samma text). Utkastet byter dessutom modellnamnet till 'Talon 0' utan stöd i källan, saknar hjulstorleksrad och skriver däckmåttet med decimalpunkt (29x2.4). Behandlas som 7170 och 7175–7177: David avgör om produkterna är samma."
+ }
+]
