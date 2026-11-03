@@ -1,0 +1,812 @@
+[
+ {
+  "nr": 8638,
+  "id": "10403817029898",
+  "fil": "b_37_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Vajerlås, 4-siffrigt kombinationslås och flexibelt silikonskydd stämmer; påståendet om repor och 'lätt' rätt utelämnat. Kodlås i titeln följer av kombinationslåset. Kort meta godtas (tunn källa, inga mått)."
+ },
+ {
+  "nr": 8639,
+  "id": "10405835571466",
+  "fil": "b_37_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Mått: 34 x 17 x 4 cm</li>\n",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Härdat stål, 14 mm, 30 cm, tre nycklar och klämma stämmer; säkerhetsnivå 8 på skala 1–15 står entydigt och en gång, enligt tillverkaren. Parentesen '(34x17x4 cm)' efter höjden 30 cm säger inte vad den avser och motsäger höjden (troligen förpackning); stryks (extra skärpa 2)."
+ },
+ {
+  "nr": 8640,
+  "id": "10405835833610",
+  "fil": "b_37_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Block XXL ramlås.",
+    "efter": "Block XXL ramlås. Vikten är 760 g."
+   }
+  },
+  "skal": "Längd 130 cm, länktjocklek 5,5 mm, nosdiameter 10 mm, 760 g, Imenso/Block XXL och säkerhetsnivå 15 (skala 1–15, en gång, enligt tillverkaren) stämmer. Meta 126 tecken trots tillräcklig källa (avsnitt 14); vikten läggs till."
+ },
+ {
+  "nr": 8641,
+  "id": "10461972496650",
+  "fil": "b_37_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Det levereras med tre nycklar.",
+    "efter": "Det levereras med tre nycklar och har integrerat dammskydd."
+   }
+  },
+  "skal": "Titan, 10 mm länkar, tre nycklar, zinkkapslar, dammskydd och M-nyckellås stämmer med källans text; '10 mm - 10 oz', hävstångsdiameter och 'ett av de säkraste' rätt utelämnade. Meta 126 tecken förlängs med dammskyddet. Öppen fråga: titan i ett kedjelås för 729 kr är ovanligt; källan säger det entydigt, men David kan vilja bekräfta."
+ },
+ {
+  "nr": 8642,
+  "id": "10462187389194",
+  "fil": "b_37_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Två flexibla band, passar alla AXA ramlås, 170 x 45 x 30 mm och användningsfallen stämmer. 'Card' inte förklarat, rätt lämnat orört."
+ },
+ {
+  "nr": 8643,
+  "id": "10462187421962",
+  "fil": "b_37_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Öppningsbredden är 51 mm och låslängden 160 mm.",
+    "efter": "Öppningsbredden är 51 mm, låslängden 160 mm och kabel eller kedja kan anslutas."
+   }
+  },
+  "skal": "Ramlås entydigt i källan ('ramlås'); mått 51/160/140/40 mm, vikbar och avtagbar nyckel, plug-in-kabel/kedja stämmer. Säkerhetsnivå 12, borrskyddad cylinder och försäkringsgodkännandet i Finland, Danmark och Sverige står entydigt i egen källa och återges en gång som 'enligt tillverkaren' – godtas; 'barnsäkerhet' rätt utelämnat. Meta 122 tecken förlängs med plug-in-anslutningen."
+ },
+ {
+  "nr": 8644,
+  "id": "10470893027594",
+  "fil": "b_37_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Dig som vill ha ett kompakt U-lås i härdat stål med 23 cm höjd</li>",
+     "efter": "<li>Dig som vill ha ett U-lås i härdat stål med 23 cm höjd</li>"
+    },
+    {
+     "fore": "<li>Mått: 28 x 17 x 4 cm</li>\n",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Härdat stål, 14 mm, 23 cm, 1140 g, tre nycklar och klämma stämmer; säkerhetsnivå 8 en gång enligt tillverkaren. Parentesen '(28x17x4 cm)' motsäger höjden 23 cm och stryks; 'kompakt' saknar källa."
+ },
+ {
+  "nr": 8645,
+  "id": "10470893060362",
+  "fil": "b_37_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Mått: 200 x 150 x 80 mm</li>\n",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "U-lås 14 cm/16 mm, vajer 100 cm/10 mm, 1210 g, två nycklar, fäste och säkerhetsnivå 15 (skala 1–15, en gång) stämmer. 'Mått: 200 x 150 x 80 mm' är större än låset och avser okänt (set/förpackning, se utkastets egen fråga); stryks (extra skärpa 2)."
+ },
+ {
+  "nr": 8646,
+  "id": "10470893388042",
+  "fil": "b_37_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "AXA Roll 75 är ett litet kabellås med 3-siffrigt kodlås och en 75 cm lång stålvajer. Låset väger 60 g.",
+    "efter": "AXA Roll 75 är ett litet kabellås med 3-siffrigt kodlås och en 75 cm lång stålvajer på 1,6 mm. Låset väger 60 g och kan även låsa hjälmar och väskor."
+   }
+  },
+  "skal": "Längd 75 cm, 1,6 mm, 85 x 55 x 20 mm, 60 g, 3-siffrig kod och säkerhetsnivå 1 (en gång) stämmer. Meta 102 tecken trots tillräcklig källa; ny meta med vajerdiameter och användning ur källan."
+ },
+ {
+  "nr": 8647,
+  "id": "10472233107722",
+  "fil": "b_37_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Legerat stål 5 mm (20 x 5 mm), 80 cm, 150 x 70 x 30 mm, 560 g, två nycklar, hållare och remmar stämmer; säkerhetsnivå 7 en gång enligt tillverkaren; tångpåståendet rätt utelämnat. Priset 5339 kr ligger utanför texten men bör kontrolleras av David."
+ },
+ {
+  "nr": 8648,
+  "id": "10472246673674",
+  "fil": "b_37_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": " Handtagets dimension går att justera från 10 till 32 mm.",
+     "efter": " Det passar ramstorlekar från 17 till 32 mm."
+    },
+    {
+     "fore": "<li>Handtagets dimension: 10–32 mm, justerbar</li>\n",
+     "efter": ""
+    }
+   ],
+   "meta": {
+    "fore": "Handtagets dimension kan justeras från 10 till 32 mm.",
+    "efter": "Det passar ramstorlekar 17–32 mm och monteringsmuttrar ingår."
+   }
+  },
+  "skal": "Universalfäste för flaska/lås/pump och monteringsmuttrar stämmer. 'Handtagets dimensioner 10–32 mm' är en maskinöversättning (fästet har inget handtag) och står bredvid ett annat intervall för ramstorlek (17–32 mm); den otydliga uppgiften stryks och ramstorleken behålls (extra skärpa 2)."
+ },
+ {
+  "nr": 8650,
+  "id": "10472251490570",
+  "fil": "b_37_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Handtag Giant Swage Lock-On, Blå",
+    "efter": "Handtag Giant Swage Lock-On, Blå Fästen"
+   },
+   "seo_title": {
+    "fore": "Handtag Giant Swage Lock-On, Blå",
+    "efter": "Handtag Giant Swage Lock-On, Blå Fästen"
+   },
+   "html": [
+    {
+     "fore": "ett par handtag i blått med ett tjockt lager gummi",
+     "efter": "ett par handtag med blå fästen, ett tjockt lager gummi"
+    },
+    {
+     "fore": "<li>Dig som söker blå handtag av gummi och gel till cykeln</li>",
+     "efter": "<li>Dig som söker handtag av gummi och gel med blå fästen</li>"
+    },
+    {
+     "fore": "<li>Färg: Blå</li>",
+     "efter": "<li>Fästfärg: Blå</li>"
+    }
+   ],
+   "meta": {
+    "fore": "ett par blå handtag med ett tjockt",
+    "efter": "ett par handtag med blå fästen, ett tjockt"
+   }
+  },
+  "skal": "Rätt behandlad som handtag (inte lås). Källan anger 'Fästfärg: blå', alltså fästenas färg, inte handtagens; 'blå handtag'/'Färg: Blå' rättas till blå fästen i titel, SEO, inledning, punkt, specifikation och meta. Gummi och gel, 103 g per par stämmer; komfort- och smärtpåståenden rätt utelämnade."
+ },
+ {
+  "nr": 8651,
+  "id": "10472251621642",
+  "fil": "b_37_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stålkabel 25 mm, tre nycklar och M-Wrench-cylinder stämmer med källan; 'ett av de säkraste valen' rätt utelämnat. 25 mm står entydigt (en gång) men är ovanligt för ett kabellås – utkastets fråga till David kvarstår. Kort meta godtas (tunn källa)."
+ },
+ {
+  "nr": 8652,
+  "id": "10472254472458",
+  "fil": "b_37_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Grön, 120 cm, polyesterbeläggning, 4-siffrig inställbar kod och säkerhetsnivå 3 (en gång, ingen skala i källan) stämmer; 'stöldskydd' rätt utelämnat; 3.5 bara som modellnamn."
+ },
+ {
+  "nr": 8655,
+  "id": "10472259453194",
+  "fil": "b_37_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "110 cm långt med 9 mm i diameter.",
+    "efter": "110 cm långt med 9 mm länkdiameter."
+   }
+  },
+  "skal": "Härdat stål, 110 cm, länkdiameter 9 mm, 2730 g och säkerhetsnivå 14 (en gång) stämmer; 'svårt att skära igenom' rätt utelämnat. Metans '9 mm i diameter' kan läsas som låsets diameter och skrivs som länkdiameter."
+ },
+ {
+  "nr": 8657,
+  "id": "10472295825674",
+  "fil": "b_37_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Nyckelstyrd, neopren, montering i flaskhållarhål/med beslag och säkerhet 10/15 (en gång) stämmer; 8-130 bara som modellnamn, inga påhittade mått. Kort meta godtas (tunn källa)."
+ },
+ {
+  "nr": 8658,
+  "id": "10472295858442",
+  "fil": "b_37_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Kedjelås/hänglås enligt egen källa, nyckelstyrd, neopren, montering och säkerhet 13/15 (en gång) stämmer. Kort meta godtas."
+ },
+ {
+  "nr": 8659,
+  "id": "10472296415498",
+  "fil": "b_37_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "90 cm, 4-siffrig kod och säkerhet 7/15 (en gång) stämmer; råd om låg risk rätt utelämnat. Kort meta godtas (tunn källa)."
+ },
+ {
+  "nr": 8660,
+  "id": "10472296448266",
+  "fil": "b_37_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Kättlås' rättat till kedjelås, som källan själv säger; 105 cm och svart ur titeln, härdat stål i länkar och hänglås, polyesterhölje, gummiöverdrag och säkerhet 9/15 (en gång) stämmer; skjuvningspåståendet rätt utelämnat."
+ },
+ {
+  "nr": 8661,
+  "id": "10472296481034",
+  "fil": "b_37_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Nyckelstyrd, neopren, montering, kedjelås/bygellås enligt egen källa och säkerhet 7/15 (en gång) stämmer. Kort meta godtas."
+ },
+ {
+  "nr": 8662,
+  "id": "10472296612106",
+  "fil": "b_37_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Låskedja AXA Fold Ultra 90 med Brytarlås och Två Nycklar",
+    "efter": "Låskedja AXA Fold Ultra 90 med Två Nycklar"
+   },
+   "html": [
+    {
+     "fore": "<p>AXA Fold Ultra 90 är en låskedja med ett brytarlås som öppnas med en knapptryckning. Två nycklar ingår, och låset kan fästas på flaskhållaren eller med speciella fästen på ramen.</p>",
+     "efter": "<p>AXA Fold Ultra 90 är en låskedja som levereras med två nycklar. Låset kan fästas på flaskhållaren eller med speciella fästen på ramen.</p>"
+    },
+    {
+     "fore": "<li>Dig som vill ha ett lås som öppnas med en knapptryckning</li>",
+     "efter": "<li>Dig som vill fästa låset på flaskhållaren</li>"
+    },
+    {
+     "fore": "<li>Lås: Brytarlås som öppnas med knapptryckning</li>\n",
+     "efter": ""
+    }
+   ],
+   "meta": {
+    "fore": "AXA Fold Ultra 90 är en låskedja med brytarlås som öppnas med en knapptryckning. Två nycklar ingår.",
+    "efter": "AXA Fold Ultra 90 är en låskedja som levereras med två nycklar. Låset kan fästas på flaskhållaren eller med speciella fästen på cykelramen."
+   }
+  },
+  "skal": "'Brytarlås som öppnas med en knapptryckning' är en maskinöversättning (det som öppnas med knapp och fästs på flaskhållaren är hållaren, inte låset) och får inte stå i titel, inledning, punkt, specifikation eller meta. Två nycklar, montering och reservnycklar stämmer. Säkerhet 14/15 och Sold Secure Gold, SBSC, Varefakta, ART 2-stjärnigt står entydigt i egen källa och återges en gång som enligt tillverkaren – godtas."
+ },
+ {
+  "nr": 8663,
+  "id": "10475419730186",
+  "fil": "b_37_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "100 cm, 7 mm, låsbult, gummihandtag, symmetriska nycklar och internetnyckelservice stämmer; säkerhetsnivå 9 och borrskyddad låscylinder står entydigt och återges en gång enligt tillverkaren; 'extra starkt' rätt utelämnat."
+ },
+ {
+  "nr": 8664,
+  "id": "10475420385546",
+  "fil": "b_37_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "180 cm, 8 mm, inställbar 4-siffrig kod, matt finish och universell ramhållare stämmer; texten säger inte att hållaren ingår (rätt). Säkerhetsnivå 3 en gång."
+ },
+ {
+  "nr": 8665,
+  "id": "10475420516618",
+  "fil": "b_37_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "150 cm, 10 mm (stöds av modellnamnet 150/10 trots trasig rad), plugg 10 mm, rostfria komponenter och matt finish stämmer; 'utmärkt hållbarhet' rätt utelämnat. Kort meta godtas."
+ },
+ {
+  "nr": 8666,
+  "id": "10475421139210",
+  "fil": "b_37_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Härdat stål, 120 cm, 15 mm, två nycklar, klämma och säkerhetsnivå 6 (skala 1–15, en gång) stämmer med egen källa (SKU 59432295SC). Titel, SEO och meta skiljer sig från 8673 (SKU 59432295KC), se 8673."
+ },
+ {
+  "nr": 8667,
+  "id": "10475422417162",
+  "fil": "b_37_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Mått: 40 x 150 x 200 mm</li>\n",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "U-lås 15 cm härdat stål, vajer 100 cm/8 mm, 950 g, två nycklar, fäste och säkerhetsnivå 8 (en gång) stämmer; den omärkta raden '15 mm' rätt utelämnad. 'Mått: 40 x 150 x 200 mm' anger inte vad den avser och stryks (samma som 8645)."
+ },
+ {
+  "nr": 8668,
+  "id": "10475619516682",
+  "fil": "b_37_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Härdat stål med rostfria detaljer, bygel 190 mm/17 mm, två nycklar, hållare och webbaserad nyckelservice stämmer. Säkerhetsklassning 15/15 och ART 3, Sold Secure Gold, SBSC, Varefakta, Finanssialan, FUB står entydigt och återges en gång enligt tillverkaren; 'godkänd av ledande försäkringsbolag', motorfordon och cylinderskydd rätt utelämnade."
+ },
+ {
+  "nr": 8669,
+  "id": "10475619549450",
+  "fil": "b_37_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "180 cm, 15 mm, inställbar kod, medföljande universell ramhållare, rostfria detaljer och säkerhetsnivå 6/15 (en gång) stämmer."
+ },
+ {
+  "nr": 8670,
+  "id": "10475619647754",
+  "fil": "b_37_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Det behövs ingen nyckel för att låsa vajern.",
+    "efter": "Det behövs ingen nyckel för att låsa vajern, och ett universellt ramfäste medföljer."
+   }
+  },
+  "skal": "Taggen På beställning finns och beställningsmeningen är rätt; standardblocket i övrigt exakt. 180 cm, 15 mm, symmetriska nycklar, ramfäste, nyckelskydd och 6/15 (en gång) stämmer. Två varianter med olika pris men inget låst. Meta 110 tecken trots tillräcklig källa; ramfästet läggs till."
+ },
+ {
+  "nr": 8671,
+  "id": "10475619746058",
+  "fil": "b_38_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Det har symmetriska nycklar och ramfäste. Säkerhetsnivå 5/15 enligt tillverkaren.",
+    "efter": "Det har symmetriska nycklar, automatiskt nyckelskydd och ett universellt ramfäste."
+   }
+  },
+  "skal": "Taggen På beställning och beställningsmeningen rätt. 180 cm, 12 mm, symmetriska nycklar, ramfäste och nyckelskydd stämmer. Säkerhetsnivån står både i meta och specifikation; enligt extra skärpa 1 högst en gång per text, så den stryks ur meta (ersätts med nyckelskyddet). Två varianter (KC/SC) olika pris, inget låst."
+ },
+ {
+  "nr": 8673,
+  "id": "10475621155082",
+  "fil": "b_38_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Ramhållare ingår och nycklarna är symmetriska. Säkerhetsnivå 6/15 enligt tillverkaren.",
+    "efter": "Ramhållare ingår, nycklarna är symmetriska och cylindern har automatiskt nyckelskydd."
+   }
+  },
+  "skal": "120 cm, 15 mm, ramhållare, symmetriska nycklar, nyckelskydd och rostfria detaljer stämmer med egen källa (SKU 59432295KC, nyckeln behöver inte vridas för att låsa). Titel, SEO och meta är unika mot 8666 (extra skärpa 4). Säkerhetsnivån står i både meta och specifikation och stryks ur meta."
+ },
+ {
+  "nr": 8674,
+  "id": "10494701175050",
+  "fil": "b_38_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": " Finns hos BEST OF SPORTS.",
+    "efter": ""
+   }
+  },
+  "skal": "Grön ur titeln, silikonskydd (repor enligt tillverkaren) och 4-siffrigt kombinationslås stämmer. Metan är över 70 tecken utan tillägget, så 'Finns hos BEST OF SPORTS.' är utfyllnad enligt avsnitt 14 och stryks."
+ },
+ {
+  "nr": 8675,
+  "id": "10494702747914",
+  "fil": "b_38_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Kedjelås AXA Linq, 100 cm i Härdat Stål",
+    "efter": "Kedjelås AXA Linq i Härdat Stål, 100 cm"
+   },
+   "html": [
+    {
+     "fore": "Gångjärnsdiametern är 9,5 mm",
+     "efter": "Diametern är 9,5 mm"
+    },
+    {
+     "fore": "med gångjärnsdiametern 9,5 mm",
+     "efter": "med diametern 9,5 mm"
+    },
+    {
+     "fore": "<li>Gångjärnsdiameter: 9,5 mm</li>",
+     "efter": "<li>Diameter: 9,5 mm</li>"
+    }
+   ],
+   "meta": {
+    "fore": "AXA Linq är ett kedjelås i härdat stål på 100 cm med 9,5 mm gångjärnsdiameter. Två nycklar ingår. Säkerhetsnivå 14 av 15 enligt tillverkaren.",
+    "efter": "AXA Linq är ett kedjelås i härdat stål på 100 cm med 9,5 mm diameter. Det väger 2650 g, två nycklar ingår och sista länken är inbyggd i spärren."
+   }
+  },
+  "skal": "Härdat stål, 100 cm, 9,5 mm, 2650 g, två nycklar, spärren och säkerhetsnivå 14 (skala 1–15) stämmer. 'Gångjärnsdiameter' är maskinöversättning; källan har också 'Diameter: 9,5 mm', så ordet diameter används. Titeln får ordningen 'i Härdat Stål, 100 cm'. Säkerhetsnivån stod två gånger (meta och specifikation) och stryks ur meta."
+ },
+ {
+  "nr": 8676,
+  "id": "10494702911754",
+  "fil": "b_38_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Kedjelås AXA Absolute 8-110, 110 cm i Härdat Stål",
+    "efter": "Kedjelås AXA Absolute 8-110 i Härdat Stål, 110 cm"
+   },
+   "html": [
+    {
+     "fore": "Gångjärnsdiametern är 8 mm.",
+     "efter": "Diametern är 8 mm."
+    },
+    {
+     "fore": "med gångjärnsdiametern 8 mm",
+     "efter": "med diametern 8 mm"
+    },
+    {
+     "fore": "<li>Gångjärnsdiameter: 8 mm</li>",
+     "efter": "<li>Diameter: 8 mm</li>"
+    }
+   ],
+   "meta": {
+    "fore": "AXA Absolute 8-110 är ett kedjelås i härdat stål på 110 cm med 8 mm gångjärnsdiameter. Säkerhetsnivån är 9 av 15 enligt tillverkaren.",
+    "efter": "AXA Absolute 8-110 är ett kedjelås i härdat stål. Det är 110 cm långt och har en diameter på 8 mm."
+   }
+  },
+  "skal": "Härdat stål, 110 cm, 8 mm och säkerhetsnivå 9 (skala 1–15) stämmer. 'Gångjärnsdiameter' är maskinöversättning; källan har 'Diameter: 8 mm'. Titelns ordning rättas. Säkerhetsnivån stod två gånger och stryks ur meta; kort meta godtas (tunn källa)."
+ },
+ {
+  "nr": 8678,
+  "id": "10494704681226",
+  "fil": "b_38_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Vikbart Lås AXA Foldable 800, 100 cm i Härdat Stål",
+    "efter": "Vikbart Lås AXA Foldable 800 i Härdat Stål, 100 cm"
+   },
+   "html": [
+    {
+     "fore": "<li>Säkerhetsnivå: 9 på en skala från 1–15</li>",
+     "efter": "<li>Säkerhetsnivå: 9 på en skala från 1–15 enligt tillverkaren</li>"
+    }
+   ]
+  },
+  "skal": "Härdat stål, 100 cm, 8 mm, 230 x 100 x 80 mm hopfälld, neoprenöverdrag, två nycklar och hållare stämmer; tångpåståendet rätt utelämnat. Säkerhetsnivån saknar 'enligt tillverkaren' (extra skärpa 1). Titelns ordning rättas."
+ },
+ {
+  "nr": 8679,
+  "id": "10530183414026",
+  "fil": "b_38_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": " Finns hos BEST OF SPORTS.",
+    "efter": ""
+   }
+  },
+  "skal": "Rätt behandlad som handtag (extra skärpa 3); svart/lila ur titeln och låsringsystemet enligt tillverkaren stämmer, hårspray/smuts-texten rätt utelämnad. Metan är över 70 tecken utan tillägget, så 'Finns hos BEST OF SPORTS.' stryks (avsnitt 14)."
+ },
+ {
+  "nr": 8680,
+  "id": "10541139394826",
+  "fil": "b_38_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "180 cm, 12 mm (källan 'repdiameter'), nyckel, 0,72 kg och fästanordning stämmer; UK rätt utelämnat."
+ },
+ {
+  "nr": 8681,
+  "id": "10541139919114",
+  "fil": "b_38_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "180 cm, 15 mm, nyckel, 0,72 kg och monteringsfäste stämmer."
+ },
+ {
+  "nr": 8682,
+  "id": "10541140279562",
+  "fil": "b_38_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Låset öppnas med nyckel och väger 0,72 kg. Ett fäste ingår i setet.",
+    "efter": "Låset väger 0,72 kg och ett fäste ingår i setet."
+   }
+  },
+  "skal": "180 cm, 10 mm, nyckel, 0,72 kg och fäste stämmer. Metan säger nyckel två gånger ('nyckelstyrt' och 'öppnas med nyckel')."
+ },
+ {
+  "nr": 8683,
+  "id": "10541168853258",
+  "fil": "b_38_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": " Finns hos BEST OF SPORTS.",
+    "efter": ""
+   }
+  },
+  "skal": "Länkdiametern '6 cm' är trasig och är rätt struken (extra skärpa 2); 90 cm, nyckel och 0,6 kg stämmer. Metan är över 70 tecken utan tillägget, så 'Finns hos BEST OF SPORTS.' stryks."
+ },
+ {
+  "nr": 8684,
+  "id": "10541168951562",
+  "fil": "b_38_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": " Finns hos BEST OF SPORTS.",
+    "efter": ""
+   }
+  },
+  "skal": "Länkdiametern '6 cm' rätt struken; 90 cm, kod och 0,6 kg stämmer. 'Finns hos BEST OF SPORTS.' är utfyllnad (meta över 70 tecken utan) och stryks."
+ },
+ {
+  "nr": 8685,
+  "id": "10541205291274",
+  "fil": "b_38_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Källan motsäger sig om typ: titeln 'Bygelås' (felstavat), texten 'hänglås', och modellnamnet FL/850 med 'länkbredd 24 mm' tyder på ett vikbart lås. 'Diameter: 85 cm' är trasigt (extra skärpa 2). Typordet i titeln stöds alltså inte entydigt (extra skärpa 3); dessutom stod säkerhetsklassningen både i meta och specifikation. Kan inte skrivas säkert i faktatextläge (avsnitt 16.6)."
+ },
+ {
+  "nr": 8686,
+  "id": "10541368803594",
+  "fil": "b_38_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": " Finns hos BEST OF SPORTS.",
+    "efter": ""
+   }
+  },
+  "skal": "Rätt behandlad som handtag (källans 'styren' är maskinöversättning); anodiserad dubbelsidig klämma och Kraton-gummi stämmer, Giant som tillverkare rätt utelämnat. 'Finns hos BEST OF SPORTS.' är utfyllnad (108 tecken utan) och stryks."
+ },
+ {
+  "nr": 8687,
+  "id": "10541368934666",
+  "fil": "b_38_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": " Finns hos BEST OF SPORTS.",
+    "efter": ""
+   }
+  },
+  "skal": "Tre densitetslager, polymerblandning, gellager, Lock-On och integrerade styrändar stämmer; vibrationspåståendet rätt utelämnat, tryckfördelningen enligt tillverkaren. 'Finns hos BEST OF SPORTS.' är utfyllnad (118 tecken utan) och stryks."
+ },
+ {
+  "nr": 8688,
+  "id": "10548236058890",
+  "fil": "b_38_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Källan motsäger sig om låsmekanismen: butikens titel säger 'Nyckellås', texten 'smarttelefonstyrt lås' med Bluetooth; utkastet byter typordet till 'Lås' för att komma runt motsägelsen (avsnitt 10: typen får inte bytas). Vilken sorts lås (kedja/vikbart, 'länkdiameter 5 mm') framgår inte, och det mesta av källan är säkerhetspåståenden (ultrasäker AES-256, 'högsta' BSI Kitemark). Kan inte skrivas säkert i faktatextläge."
+ },
+ {
+  "nr": 8689,
+  "id": "10548282196234",
+  "fil": "b_38_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "U-lås med 14 mm bygel i specialhärdat stål, vajer 10 mm/120 cm, 2 + 1 nycklar (LED) stämmer; Gold Sold Secure ordagrant, en gång, enligt tillverkaren."
+ },
+ {
+  "nr": 8690,
+  "id": "10572666175754",
+  "fil": "b_38_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Certifiering: Secure Pedal Cycle Gold enligt tillverkaren</li>\n",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Golv-/väggfäste, kedja upp till 14 mm, 80 x 63 mm, 0,86 kg och inne/ute stämmer. 'Säljs med Secure Pedal Cycle Gold-certifiering' är en maskinöversättning av ett certifieringsnamn; namnet står alltså inte entydigt i källan och stryks (extra skärpa 1)."
+ },
+ {
+  "nr": 8691,
+  "id": "10572666208522",
+  "fil": "b_38_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Säkerhet: 5/10+ och Secure Pedal Cycle Silver-certifiering enligt tillverkaren</li>\n",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Golv-/väggfäste, kedja upp till 8 mm, 40 x 42 mm, 0,42 kg och inne/ute stämmer. 'Säkerhet: 5/10+' är otydlig och certifieringsnamnet ('Säljs med Secure Pedal Cycle Silver') maskinöversatt; båda stryks (extra skärpa 1)."
+ },
+ {
+  "nr": 8692,
+  "id": "10635749064970",
+  "fil": "b_38_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Mountainbikehandtag, upphöjda flerfältsområden (grepp enligt tillverkaren), polymerblandning, Giant 1.0 lock-on i aluminium, ändskydd och röd ur titeln stämmer; vibrationsdämpning rätt utelämnad."
+ },
+ {
+  "nr": 8693,
+  "id": "10635764269322",
+  "fil": "b_38_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "har en gångjärnsdiameter på 10 mm",
+     "efter": "har en diameter på 10 mm"
+    },
+    {
+     "fore": "<li>Gångjärnsdiameter: 10 mm</li>",
+     "efter": "<li>Diameter: 10 mm</li>"
+    }
+   ],
+   "meta": {
+    "fore": "har gångjärnsdiameter 10 mm",
+    "efter": "har diametern 10 mm"
+   }
+  },
+  "skal": "Stållegering, neoprenskydd, 850 mm, 10 mm, 2,3 kg, bärs runt kroppen enligt tillverkaren och sammankoppling stämmer; motsägelsen nyckel/knapptryckning och 'Chainlok 8' rätt utelämnad. 'Gångjärnsdiameter' är maskinöversättning och skrivs diameter."
+ },
+ {
+  "nr": 8694,
+  "id": "10635764400394",
+  "fil": "b_38_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "är ett vajerlås med kod på 180 cm med 10 mm diameter.",
+    "efter": "är ett vajerlås med kod, 180 cm långt och 10 mm i diameter."
+   }
+  },
+  "skal": "180 cm, 10 mm, kod, 0,6 kg och monteringsfäste stämmer. Metan har dubbelt 'med' ('med kod på 180 cm med 10 mm')."
+ },
+ {
+  "nr": 8695,
+  "id": "10635764859146",
+  "fil": "b_38_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Kodlås Squire Straplok Combi 10, 450 mm",
+    "efter": "Vajerlås Squire Straplok Combi 10 med Kod, 450 mm"
+   },
+   "seo_title": {
+    "fore": "Kodlås Squire Straplok Combi 10",
+    "efter": "Vajerlås Squire Straplok Combi 10"
+   },
+   "html": [
+    {
+     "fore": "är ett kodlås av stål.",
+     "efter": "är ett vajerlås med kod, tillverkat av stål."
+    },
+    {
+     "fore": "<li>Dig som söker ett kompakt kodlås på 450 mm</li>",
+     "efter": "<li>Dig som söker ett vajerlås med kod på 450 mm</li>"
+    },
+    {
+     "fore": "<li>Dig som enligt tillverkaren vill fästa tillbehör som hjälmar på cykeln</li>",
+     "efter": "<li>Dig som vill fästa tillbehör som hjälmar på cykeln</li>"
+    },
+    {
+     "fore": "<li>Typ: Kodlås</li>",
+     "efter": "<li>Typ: Vajerlås</li>"
+    }
+   ],
+   "meta": {
+    "fore": "är ett kodlås av stål, 450 mm långt och 10 mm brett. Finns hos BEST OF SPORTS.",
+    "efter": "är ett vajerlås med kod av stål, 450 mm långt och 10 mm brett."
+   }
+  },
+  "skal": "Butikens titel säger 'Vajerlås ... med kod'; 'Kodlås' som typord saknar stöd och typen får inte bytas (extra skärpa 3, avsnitt 10). Rättas till Vajerlås i titel, SEO, inledning, punkt och specifikation. 'Kompakt' saknar källa. 450 mm, 10 mm bredd, stål och kod stämmer. 'Finns hos BEST OF SPORTS.' stryks (över 70 tecken utan)."
+ },
+ {
+  "nr": 8696,
+  "id": "10656693846282",
+  "fil": "b_38_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Cykellås AXA Fold 110, 110 cm med Åtta Stållänkar",
+    "efter": "Cykellås AXA Fold 110 med Åtta Stållänkar, 110 cm"
+   },
+   "meta": {
+    "fore": "Snäppfäste och AXA Fix ingår, och säkerhetsklassningen är 9/15 enligt tillverkaren.",
+    "efter": "Snäppfäste och AXA Fix ingår, och låset har ett dolt fack för en spårningsenhet."
+   }
+  },
+  "skal": "110 cm, åtta härdade stållänkar, snäppfäste och AXA Fix, dolt fack, låshuvud och hölje stämmer; Cykellås från butikens titel. Säkerhetsklassning 9/15 och borrskyddad cylinder återges i specifikationen enligt tillverkaren men säkerhetsklassningen stod också i meta (högst en gång) och stryks där. Titelns ordning rättas."
+ },
+ {
+  "nr": 8697,
+  "id": "10656693879050",
+  "fil": "b_38_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "är ett härdat U-lås i stål med",
+     "efter": "är ett U-lås i härdat stål med"
+    }
+   ],
+   "meta": {
+    "fore": "AXA Newton Pro 16-140 är ett härdat U-lås i stål med en 100 cm lång vajer. Låsets längd är 140 mm. Säkerhetsklassning 15/15 enligt tillverkaren.",
+    "efter": "AXA Newton Pro 16-140 är ett U-lås i härdat stål med en 100 cm lång vajer med två öglor. Låsets längd är 140 mm och en monteringsbygel ingår."
+   }
+  },
+  "skal": "Härdat stål, 140 mm, vajer 100 cm med två öglor och plastmantel, skyddslock och monteringsbygel stämmer; motorfordon och 16 rätt utelämnade, titelns modellnamn används (källtexten säger Newton Mini, se öppen fråga). 'Härdat U-lås i stål' skrivs 'U-lås i härdat stål'. Säkerhetsklassningen stod i både meta och specifikation och stryks ur meta."
+ },
+ {
+  "nr": 8698,
+  "id": "10656693911818",
+  "fil": "b_38_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Kedjelås Squire Chainlok Combi 6, 900 mm med Kod",
+    "efter": "Kedjelås Squire Chainlok Combi 6 med Kod, 900 mm"
+   },
+   "meta": {
+    "fore": " Finns hos BEST OF SPORTS.",
+    "efter": ""
+   }
+  },
+  "skal": "Kombinationskedjelås, 900 mm, 0,6 kg och hopvikbar kedja stämmer; styrka och risknivå rätt utelämnade. Titelns ordning rättas. 'Finns hos BEST OF SPORTS.' stryks (109 tecken utan)."
+ },
+ {
+  "nr": 8699,
+  "id": "10656693944586",
+  "fil": "b_38_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Vajerlås AXA Resolute C10-150, 150 cm med Kod",
+    "efter": "Vajerlås AXA Resolute C10-150 med Kod, 150 cm"
+   }
+  },
+  "skal": "150 cm, 10 mm, 4-siffrig kod, universellt ramfäste och rostfria detaljer stämmer. Titelns ordning rättas."
+ },
+ {
+  "nr": 8700,
+  "id": "10656693977354",
+  "fil": "b_38_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Låslängd 850 mm står entydigt i texten och stämmer med modellnamnet; butikstitelns '85mm' är felskrivning och rätt inte återgiven (extra skärpa 2). Sex härdade länkar 3,5 mm, 840 g, zinklegering och rammontering stämmer; Sold Secure Pedal Cycle Bronze och pick-resistiv cylinder en gång enligt tillverkaren."
+ },
+ {
+  "nr": 8701,
+  "id": "10665232269578",
+  "fil": "b_38_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": " Finns hos BEST OF SPORTS.",
+    "efter": ""
+   }
+  },
+  "skal": "D-lås med härdad stålbygel, dubbellåsande mekanism, stålförstärkt vajer och Sold Secure Pedal Cycle Gold (en gång, enligt tillverkaren) stämmer; 230/10C från butikens titel. 'Finns hos BEST OF SPORTS.' stryks (94 tecken utan)."
+ },
+ {
+  "nr": 8702,
+  "id": "10665232302346",
+  "fil": "b_38_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": " Finns hos BEST OF SPORTS.",
+    "efter": ""
+   }
+  },
+  "skal": "D-lås med härdad stålbygel, dubbellåssystem och Sold Secure Pedal Cycle Gold (en gång) stämmer; ingen vajer nämns (rätt). 'Finns hos BEST OF SPORTS.' stryks (71 tecken utan)."
+ }
+]
