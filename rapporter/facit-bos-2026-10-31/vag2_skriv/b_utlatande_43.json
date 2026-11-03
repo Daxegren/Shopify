@@ -1,0 +1,215 @@
+[
+ {
+  "nr": 8803,
+  "id": "10472291500298",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "En variant, tagg På beställning finns. Mivice M070 navmotor bak 250 W/40 Nm, 460,8 Wh, momentgivare, Gates kolfiberrem, aluminium, SR Suntour, 1 växel, Tektro hydrauliska skivbromsar, 700 x 48C, 23 kg, maximal lastkapacitet 145 kg oförändrad, ingår stämmer; räckvidd enligt tillverkaren en gång. Felmärkt 'Rammaterial: 48 cm', 'säker färd' och 'pålitlig' rätt utelämnade. Unik mot 8802 (Pebble Grey)."
+ },
+ {
+  "nr": 8804,
+  "id": "10472291729674",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Som 8803 (Midnight Black, källan 'Lastkapacitet: 145 kg'). En variant, tagg På beställning finns."
+ },
+ {
+  "nr": 8805,
+  "id": "10472293040394",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Revolt 1 (2025) enligt källans titel. ALUXX-aluminium 12x142, flip chip, Advanced-grade kompositgaffel, Shimano Tiagra/GRX RX-400 20 växlar (återgiven utan mekanisk/elektronisk, avsnitt 14), GRX RX-400 hydrauliska, Crosscut AT 2 700x38c slanglöst stämmer. En variant. Ingen beställningstagg och ingen mening: rätt. Metal som modellfärg godtas."
+ },
+ {
+  "nr": 8807,
+  "id": "10472293990666",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "ALUXX-aluminium, kompositgaffel, GRX RX-820 24 växlar (utan mekanisk/elektronisk, avsnitt 14), GRX RX-400 hydrauliska, Crosscut Grip TR 700x40c slanglöst, fästpunkter stämmer. En variant; ramstorlekar utelämnade. Ingen beställningstagg: rätt. Dubbletten 8810 rätt avvisad."
+ },
+ {
+  "nr": 8806,
+  "id": "10472293237002",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Display: IPS, färg</li>\n",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Hopfällbar som typord godtas: källans 'Mått hopfälld: 83,8 x 66 x 43 cm' visar entydigt att cykeln fälls ihop (samma hantering som 8747 och 8791). SEO-titeln utan 'Hopfällbar' är sann och unik. 20 tum står i källans lista (Hjulstorlek: 20 tum). Bafang 250 W/35 Nm, momentgivare, Samsung 36 V 9,6 Ah, hydrauliska skivbromsar, 12,5 kg, lastkapacitet 120 kg, GPS-tracker, räckvidd och laddtid enligt tillverkaren en gång stämmer; bromssträcka och jämförelser rätt utelämnade. Ingen beställningstagg och ingen beställningsmening: rätt. Rättning: denna produkts källa saknar displayraden (den finns bara hos systerprodukten 8826) och raden stryks."
+ },
+ {
+  "nr": 8826,
+  "id": "10472349106442",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Som 8806 men källan har displayraden ('IPS-färg och vattentät'), så 'Display: IPS, färg' stämmer; 'vattentät' rätt utelämnad. Hopfällbar enligt 'Mått hopfälld', 20 tum i källans lista. SEO-titel på 43 tecken utan 'Hopfällbar' är sann och unik. Ingen beställningstagg: rätt."
+ },
+ {
+  "nr": 8808,
+  "id": "10472294220042",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "360 Wh batteri",
+    "efter": "360 Wh-batteri"
+   }
+  },
+  "skal": "Tenways baknavsmotor 250 W/40 Nm, momentgivare, 360 Wh, Gates Carbon-rem, aluminium, 1 växel, Tektro hydrauliska skivbromsar, Kenda 700x48C, 17 kg utan tillbehör (en variant), 100 km enligt tillverkaren, ingår stämmer. Ramstorlekar utelämnade. Tagg På beställning och meningen finns. Unik mot 8781/8782/8786/8787. Rättning: särskrivningen '360 Wh batteri' i metan."
+ },
+ {
+  "nr": 8812,
+  "id": "10472297922826",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Mittmotor 250 W/80 Nm (märket motsägs, Mivice/Tenways, rätt utelämnat), momentgivare, LCD, Gates rem, lågt insteg (källans 'låga aluminiumramen ... lätt att kliva på och av', samma bedömning som 8785), Cues 9 växlar, Shimano hydrauliska skivbromsar, Kenda 700x50C, 27,4 kg (en variant), 100 km enligt tillverkaren. Motsägande batteri (561,6 Wh mot 10,4 Ah) rätt struket. Tagg På beställning och meningen finns. Unik mot 8785 (Velvet Red)."
+ },
+ {
+  "nr": 8813,
+  "id": "10472297955594",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Som 8812 (Midnight Black). Ingen beställningstagg och ingen mening: rätt."
+ },
+ {
+  "nr": 8814,
+  "id": "10472298053898",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Bafang 250 W/40 Nm, 37 V 10 Ah, 3,5 tums IPS-färgdisplay, remdrift, aluminium, hydrauliska skivbromsar, 700x40C, lastkapacitet 120 kg oförändrad, 100 km enligt tillverkaren, ingår (stöd, stänkskärmar) stämmer. Motsägande vikt (20 mot 26 kg), trasig storleksrad, 'bakram', app och GPS-stöldskydd rätt utelämnade. En variant, tagg På beställning finns."
+ },
+ {
+  "nr": 8815,
+  "id": "10472298414346",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Som 8814 (Forest Green). Ingen beställningstagg och ingen mening: rätt."
+ },
+ {
+  "nr": 8817,
+  "id": "10472303493386",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Delvis trasig källa (punkt 5): bara entydiga listrader används: 250 W/40 Nm, 370 Wh, laddtid 4–6 h och räckvidd 100 km enligt tillverkaren (en gång), 3 växlar, däck 20 x 2,4 tum (ingen hjulstorlek påstås), 31 kg (en variant), lastkapacitet 150 kg oförändrad, ingår. Trasiga rader ('Upp till 100 m', '4 timmars vridmoment', '150-150 kg') rätt strukna. Pakethållare i ingår utan lastlöfte. Ingen beställningstagg: rätt."
+ },
+ {
+  "nr": 8818,
+  "id": "10472304148746",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Gaffel: Carbon monocoque, 12 mm genomgående axel</li>",
+     "efter": "<li>Gaffel: Kolfiber, monocoque, 12 mm genomgående axel</li>"
+    },
+    {
+     "fore": "<li>Fästpunkter: Montering av tillbehör</li>",
+     "efter": "<li>Fästpunkter: För tillbehör</li>"
+    }
+   ]
+  },
+  "skal": "Aluminium, kolfibergaffel med 12 mm genomgående axel, Shimano Sora 18 växlar, Shimano BR317 mekaniska, Vittoria Terreno T 700x40 och fästpunkter stämmer. Två varianter (M, M/L green) med olika pris: storlek låses inte, färgen Matt Grön gäller båda. C46 rätt utelämnat. SEO-titel utan färg är sann och unik. Tagg På beställning och meningen finns. Rättning: engelskt 'Carbon' i specifikationen (intro och meta säger kolfiber) och den otympliga raden 'Fästpunkter: Montering av tillbehör'."
+ },
+ {
+  "nr": 8819,
+  "id": "10472326463754",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "SyncDrive Sport 2 mittmotor 250 W/75 Nm, EnergyPak Smart 430 Wh, 115 km enligt tillverkaren, ALUXX, XCM 29 tum 100 mm, Cues 9 växlar, MT200 hydrauliska, Rekon 29x2.4, fästpunkter stämmer. 29 tum står i källtexten (gaffel och däck), inte bara i titeln. En variant. SEO-titel utan typord är sann och unik. Ingen beställningstagg: rätt."
+ },
+ {
+  "nr": 8820,
+  "id": "10472329150730",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Kona 6061 aluminium butted, aluminiumgaffel med skivbroms, Shimano Essa 8 växlar, Tektro Mira CX mekaniska, Maxxis Rambler 700x40C, fästpunkter stämmer. En variant (M/blue), storlek inte låst. Tagg På beställning och meningen finns. Marknadsföring rätt struken."
+ },
+ {
+  "nr": 8821,
+  "id": "10472330264842",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Kompositram med 140 mm Maestro, SyncDrive Pro2 Mg 250 W/85 Nm, EnergyPak 400 Wh, 130 km enligt tillverkaren, RideControl Ergo 3 och GO, Fox 36 Factory 150 mm, Float X Factory, SRAM XX Eagle Transmission AXS 12 växlar (som i källan), G2 Ultimate hydrauliska, Zipp 3MOTO 29/27,5 tum och däck stämmer. Varianter M/L samma pris, storlek låses inte. SEO-titel utan färg (punkt 4) är sann och unik mot Elite 1 och 2 (b_41). Tagg På beställning och meningen finns."
+ },
+ {
+  "nr": 8822,
+  "id": "10472331280650",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Engelsk källa (punkt 5): bara entydiga uppgifter: SyncDrive Pro 2 250 W/85 Nm, EnergyPak Smart 750 Wh, 200 km enligt tillverkaren, XCR34 130 mm, Cues 10 växlar, MT200 hydrauliska, Rekon 29x2.4, ingår stöd, skärmar och ljus. Trasiga 'Battery: 5.5 kW: ALUXX' och 'exhaust frame' rätt strukna; ramens material och hjulstorlek påstås inte. En variant, tagg På beställning finns."
+ },
+ {
+  "nr": 8823,
+  "id": "10472334885130",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Källans titel och tagg säger hopfällbar, 20-tumshjul står i källtexten. 250 W/40 Nm bakmotor, 504 Wh, 70 km enligt tillverkaren, aluminium, Acera 7 växlar, mekanisk skivbroms fram och hydraulisk bak, ingår stämmer. Oklar 'Hjulvikt 22,4 kg' och ramstorlek rätt utelämnade. SEO-titel utan färg är sann och unik. Ingen beställningstagg: rätt."
+ },
+ {
+  "nr": 8824,
+  "id": "10472335638794",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Advanced-grade kompositram och gaffel, förvaring i nedre ramrör, flip-chip, Cues 11 växlar, Cues hydrauliska, Crosscut Grip 700x45c slanglöst, fästpunkter stämmer. En variant (M/blue). SEO-titel utan typord är sann och unik. Tagg På beställning och meningen finns. Viktpåståenden rätt strukna."
+ },
+ {
+  "nr": 8825,
+  "id": "10472347697418",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "700c står i källtexten ('WTB SX19 700c-hjul'). Kona 6061 aluminium butted, Project Two aluminiumgaffel, Shimano Claris (antal växlar saknas och påstås inte), Tektro Mira CX mekaniska, WTB SX19, Rambler 700x40c, fästpunkter stämmer. En variant. Ingen beställningstagg: rätt."
+ },
+ {
+  "nr": 8827,
+  "id": "10472349139210",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Ramens material, som motsägs (aluminium/komposit), rätt struket. RockShox Rudy XPLR 40 mm, 12x100, flip-chip, SRAM Rival 1 (antal växlar påstås inte), Rival 1 hydrauliska, CrossCut Grip 1 700x45c slanglöst stämmer. Varianter M och M/L samma pris, storlek låses inte. Märkeshistorik rätt struken. Tagg På beställning och meningen finns."
+ },
+ {
+  "nr": 8828,
+  "id": "10472349303050",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "29 tum står bara i titeln och i rubriken som upprepar titeln: rätt struket (punkt 3). SyncDrive Core 50 Nm, EnergyPak 500 Wh, 180 km under optimala förhållanden enligt tillverkaren (en gång), ALUXX, XCM Coil 100 mm, Tektro HD-M275 160/180 mm, GX03V stämmer. Oklar bakväxel och topphastighet rätt utelämnade. En variant, ingen beställningstagg: rätt."
+ },
+ {
+  "nr": 8829,
+  "id": "10472349991178",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Shimano 504 Wh batteri och",
+    "efter": "504 Wh-batteri och"
+   },
+   "html": [
+    {
+     "fore": "Shimano 504 Wh batteri, display Shimano SC-E7000 och",
+     "efter": "Shimano-batteri på 504 Wh, Shimano SC-E7000-display och"
+    }
+   ]
+  },
+  "skal": "Engelsk källa med en estnisk mening: bara entydiga uppgifter används. Aluminium, Shimano E6100 mittmotor 250 W/60 Nm, Shimano 504 Wh, SC-E7000, Suntour XCR34 Air 100 mm, Deore 10 växlar, MT410. 29 tum står i källtexten ('29 x 2.5\" wheels') och i däcket 29x2.25\", så hjulstorleken godtas; den motsägande däckbredden är rätt struken. Ingen räckvidd påstås. En variant, tagg På beställning och meningen finns. Rättning: särskrivningen '504 Wh batteri' och ordföljden 'display Shimano SC-E7000'."
+ },
+ {
+  "nr": 8830,
+  "id": "10472405106954",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": ", skiva, flip-chip dropout",
+     "efter": ", skivbroms, flip-chip dropout"
+    },
+    {
+     "fore": "genomgående axel, skiva</li>",
+     "efter": "genomgående axel, skivbroms</li>"
+    }
+   ]
+  },
+  "skal": "Engelsk källa korrekt översatt: ALUXX-aluminium 12x142, flip-chip, Advanced-grade kompositgaffel, Shimano CUES U6030/U6020 20 växlar (återgiven utan mekanisk/elektronisk, avsnitt 14), CUES U6030 hydrauliska, CrossCut AT 2 700x38c slanglöst. En variant; ingen beställningstagg och ingen mening: rätt. Unik mot 8805 (Revolt 1 Metal). Rättning: 'skiva' (engelska 'disc') blir 'skivbroms' i ram- och gaffelraden, som i 8805 och 8807."
+ }
+]
