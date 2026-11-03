@@ -1,0 +1,275 @@
+[
+ {
+  "nr": 7079,
+  "id": "10476256657674",
+  "fil": "k_13_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan (ALUXX SL, Maestro 160 mm, Fox 38 Rhythm 170 mm, SLX 12 växlar, BR-MT520 hydrauliska, Maxxis 29x2.5/29x2.4). Shimano SLX är mekaniskt. Tagg På beställning finns."
+ },
+ {
+  "nr": 7080,
+  "id": "10476257116426",
+  "fil": "k_13_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Växelsystemet anges bara som 'SRAM GX Eagle' utan angivelse om mekaniskt eller AXS/Transmission (elektroniskt med batteri); källan visar inte entydigt mekaniskt (extra skärpa 1). Dessutom heter enda varianten 'L / gray' medan titeln anger färgen Dark Irisdescent (stavat så i källan). Bekräfta växelsystem och färg hos leverantören."
+ },
+ {
+  "nr": 7081,
+  "id": "10476262064394",
+  "fil": "k_13_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Däck: WTB Trail Boss, 2,25 tum</li>",
+    "efter": "<li>Däck: WTB Trail Boss, 2,25 tum (XS: WTB Ranger)</li>"
+   }
+  },
+  "skal": "Källan anger WTB Ranger för XS och WTB Trail Boss för övriga storlekar; specifikationen gällde inte alla storlekar. Hjulstorlek 26/27,5/29 tum beroende på ramstorlek står i källans däckrad och är rätt inte låst i titeln (enda varianten Default Title). 8 växlar och mekaniska Tektro M280: inget elektroniskt."
+ },
+ {
+  "nr": 7082,
+  "id": "10476276547850",
+  "fil": "k_13_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer. 'Shimano 105' utan Di2 tolkas som mekaniskt: leverantören märker konsekvent Di2-modellerna (7073, 7075 m.fl. avvisade) och den egna källan nämner inget batteri. Skivbroms stöds av ramraden 'disc'. Ingen annan Contend AR 1 Abyss Black i utkasten."
+ },
+ {
+  "nr": 7083,
+  "id": "10476279496970",
+  "fil": "k_13_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Trolig dubblett av 6054 (10476166217994, redan skriven med taggen texter-klara): samma modell, färg och specifikation (Advanced-grade composite, 105, 24 växlar, Gavia Fondo 1 700x32c), SKU i samma serie (1031023144 mot 1031023146/-147, dvs. olika ramstorlekar av samma artikel). Titeln skiljer sig bara genom '(2026)', vilket ger kunden intrycket av en annan årsmodell än 6054 trots att det sannolikt är samma cykel. Titeln är därför tekniskt unik men inte sann som särskiljning. David avgör om produkterna ska slås ihop eller om 6054 också ska märkas (2026)."
+ },
+ {
+  "nr": 7085,
+  "id": "10486676455690",
+  "fil": "k_13_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer (Butted Cromoly, Libre Full Carbon-gaffel, GRX 24 växlar hydrauliska, Maxxis Rambler 700x40c). Tre ramstorleksvarianter med olika pris är inte låsta. GRX utan Di2 tolkas som mekaniskt (samma resonemang som 7082)."
+ },
+ {
+  "nr": 7086,
+  "id": "10487987044618",
+  "fil": "k_13_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer (Avancerad komposit, Crest SL 100 mm fjärrlåsning, SLX 12, BR-MT500, Rekon Race 29x2.4/29x2.25). Typen Mountainbike stöds av taggen. Dubbletten 7119 är rätt avvisad."
+ },
+ {
+  "nr": 7087,
+  "id": "10487987667210",
+  "fil": "k_13_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Källan anger 'SRAM Eagle 70 Transmission'. Transmission är SRAM:s elektroniska (AXS) drivlina med batteri; källan visar inte mekaniskt. Utkastaren flaggade själv osäkerheten men skrev utkastet. Tas för hand enligt regeln om batteri/elektronik."
+ },
+ {
+  "nr": 7088,
+  "id": "10488246829322",
+  "fil": "k_13_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer. Damcykel stöds av produkttypen Damcyklar och 'damsportcykeln'. Varianterna Default Title och 'M / beige' (samma SKU, olika pris) är inte låsta; beige motsäger inte Sandshell. Dubbletten 7097 är rätt avvisad."
+ },
+ {
+  "nr": 7091,
+  "id": "10488326226186",
+  "fil": "k_13_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer (Advanced-grade composite, 105 24 växlar hydrauliska, P-A1 Disc, Gavia Course 0 700x28c, plats för 32 mm). Dubbletterna 7102/7113/7120 är rätt avvisade; andra Propel Advanced 2-utkast har andra färger."
+ },
+ {
+  "nr": 7098,
+  "id": "10502528205066",
+  "fil": "k_14_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer (ALUXX, Shimano Cues 20 växlar, BR-U6030 hydrauliska, Gavia Fondo 2 700x32c, en variant). Damcykel stöds av produkttypen. Obs: 6079 (Liv Avail AR 2, Lavender Blush, SKU 1017035184) är UNDERKÄND och oskriven; om 6079 senare skrivs måste titlarna hållas isär eller produkterna slås ihop (sannolikt samma artikel)."
+ },
+ {
+  "nr": 7101,
+  "id": "10503245037834",
+  "fil": "k_14_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer. Bakväxeln anges uttryckligen 'SRAM Eagle 90 mekanisk'. 29 tum följer entydigt av däcket 29x2.4. Dubbletterna 7105/7112 är rätt avvisade."
+ },
+ {
+  "nr": 7103,
+  "id": "10507441799434",
+  "fil": "k_14_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer (ALUXX SLR, Crest 34 RRL 100 mm, Deore M-6100 12, BR-MT200 hydrauliska, 29-tumshjul i källan). Tre varianter med dubblerad SKU och olika pris är inte låsta; färgen yellow stämmer med Mineral Yellow."
+ },
+ {
+  "nr": 7106,
+  "id": "10523487174922",
+  "fil": "k_14_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer (ALUXX, Cues 20 växlar, BR-U6030, S-R2 Disc, Gavia Fondo 2 700x32C, en variant). Dubbletten 7100 är rätt avvisad."
+ },
+ {
+  "nr": 7107,
+  "id": "10523487240458",
+  "fil": "k_14_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Trolig dubblett av 6035 (10502528336138, 'Mountainbike Giant XTC SLR 29 1, 29 tum, Svart', redan skriven med texter-klara): samma modell, samma färg (Abyss Black = Svart), samma pris 28 509 kr och SKU i samma serie (1119019188 mot 1119019185/-187). Utkastet gör titeln unik bara genom '(2026)' och att färgen står på engelska, vilket ser ut som en annan produkt fast det sannolikt är samma. Samma hantering som 7083: David avgör."
+ },
+ {
+  "nr": 7111,
+  "id": "10530212937994",
+  "fil": "k_14_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer. Typen Cykel är rätt neutral (källan kallar den både mountainbike, gravelbike och bikepacking-cykel; ingen typtagg). Blandade hjul 29/27,5 tum rätt beskrivna och inte låsta i titeln. Pakethållare och lastkapacitet rätt utelämnade. Shimano XT 11 är mekaniskt."
+ },
+ {
+  "nr": 7114,
+  "id": "10541372113162",
+  "fil": "k_14_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Niagra Blå",
+    "efter": "Niagra (Blå)"
+   },
+   "seo_title": {
+    "fore": "Niagra Blå",
+    "efter": "Niagra (Blå)"
+   },
+   "html": {
+    "fore": "<li>Färg: Niagra Blå</li>",
+    "efter": "<li>Färg: Niagra (Blå)</li>"
+   }
+  },
+  "skal": "Källans färg är 'Gloss Niagra (Blå)'. 'Niagra Blå' ser ut som ett nytt färgnamn; originalnamnet behålls med parentes som i övriga Kona-utkast (Clematis (Blå), Satin Burnt (Orange)). Titel 42, SEO 34 tecken. Hybridcykel stöds av taggen. Tektro M280 anges som hydraulisk i den egna källan (HD-M280 finns), behålls."
+ },
+ {
+  "nr": 7117,
+  "id": "10561340211466",
+  "fil": "k_14_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Coco 27,5 tum",
+    "efter": "Coco, 27,5 tum"
+   },
+   "meta": {
+    "fore": "hydrauliska bromsar och däck med punkteringsskydd.",
+    "efter": "hydrauliska bromsar och WTB-däck i 650x47c."
+   },
+   "html 1": {
+    "fore": "Shimano Cues med 9 växlar, hydrauliska bromsar och däck med punkteringsskydd.</p>",
+    "efter": "Shimano Cues med 9 växlar, hydrauliska bromsar och WTB-däck i 650x47c.</p>"
+   },
+   "html 2": {
+    "fore": "<li>Dig som vill ha däck med punkteringsskydd</li>\n",
+    "efter": ""
+   },
+   "html 3": {
+    "fore": "<li>Däck: WTB Horizon Comp, med punkteringsskydd, 650x47c</li>",
+    "efter": "<li>Däck: WTB Horizon Comp, 650x47c</li>"
+   }
+  },
+  "skal": "Komma saknades före hjulstorleken (samma rättning som 6119); titel 33 tecken, 2 kommatecken. 'Punkteringsskydd' är en skyddsegenskap och stryks på samma sätt som i 6080. Ny meta 132 tecken. Damcykel stöds av produkttypen Damcyklar och låg ram; 27,5 tum (titeln) stämmer med 650x47c."
+ },
+ {
+  "nr": 7121,
+  "id": "10565633507594",
+  "fil": "k_15_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Växelsystemet är 'SRAM Apex' och prosan nämner 'SRAM Apex Eagle-bromshandtagen' utan angivelse om mekaniskt eller AXS (elektroniskt med batteri). Källan visar inte entydigt mekaniskt (extra skärpa 1). Utkastaren flaggade själv frågan. Typen Gravelcykel stöds annars av källan ('gravelbike')."
+ },
+ {
+  "nr": 7122,
+  "id": "10565633736970",
+  "fil": "k_15_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer (aluminium, Microshift Advent 9, MT200 hydrauliska, Trail Boss x2.25, max 2,3 tum). Typen Cykel är rätt neutral. Hjulstorleken per ramstorlek står entydigt i källan och är inte låst; varianterna S/M/L blue och Default Title med L:s SKU låses inte."
+ },
+ {
+  "nr": 7124,
+  "id": "10581606629642",
+  "fil": "k_15_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Källan anger 'integrerad belysning' och att fram- och bakljus ingår, utan att säga om de drivs av dynamo eller batteri, samt pakethållare. Belysning med lagkrav och möjlig elektronik avvisas enligt cykelreglerna; samma skäl som 7108 (AnyTour med remdrift och integrerad belysning) som avvisades i k_14. Hanteras lika: tas för hand."
+ },
+ {
+  "nr": 7125,
+  "id": "10588445540618",
+  "fil": "k_15_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer (700C/28 tum aluminiumhjul, 25 mm, enkel växel, flip-flop). Färg, ramstorlek, vikt och bromstyp ('kaliberhandbromsar', oklart) rätt utelämnade; ursprung Kalifornien rätt utelämnat. Typen Fixie stöds av 'Fixiecykel'. Öppen fråga: källan listar XS (42 cm) för 121–142 cm långa och enda varianten är Default Title; texten lovar ingen storlek, men David kan vilja ta produkten för hand."
+ },
+ {
+  "nr": 7126,
+  "id": "10588451438858",
+  "fil": "k_15_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer (komposit ram och gaffel, 105 24 växlar hydrauliska, P-A1 Disc, Gavia Course 700x28c, två flaskhållare). 'Racercykel' följer källans 'racercykeln' och taggen; produkttypen Damcyklar ändras inte. SEO utan (2027) är unik eftersom 7131 är avvisad."
+ },
+ {
+  "nr": 7129,
+  "id": "10588452782346",
+  "fil": "k_15_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer (Butted Cromoly, Cromoly-gaffel, 1 växel, Tektro HD-M280 hydrauliska, GROOV-E 29x2.25). Typen Cykel är rätt neutral. Variantstorlekar inte låsta."
+ },
+ {
+  "nr": 7130,
+  "id": "10588453306634",
+  "fil": "k_15_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Kona Process 134, Faux Raw (Grå)",
+    "efter": "Kona Process 134, Metallic Faux Raw (Grå)"
+   }
+  },
+  "skal": "SEO-titeln förkortade färgnamnet till 'Faux Raw' medan titel och specifikation har 'Metallic Faux Raw (Grå)'; ryms med 41 tecken. Hjulstorlek rätt inte i titeln (27,5 tum bak på S). Varianterna (Default Title 47 079 kr med S:s SKU) inte låsta. Shimano Cues är mekaniskt."
+ },
+ {
+  "nr": 7142,
+  "id": "10624087851274",
+  "fil": "k_15_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer (ALUXX butted, SXC32-2 RCL SingleAir 100 mm, microSHIFT Advent 11, Tektro HD M3121, Rekon 29x2.4). Färgen Grå/Svart står bara i titeln; varianterna S/M/L saknar färg och låses inte."
+ },
+ {
+  "nr": 7143,
+  "id": "10624087916810",
+  "fil": "k_15_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer (SXC32-2 RCL luftfjädring 100 mm, Deore 12, BR-MT200, Rekon 29x2.4). Stealth Chrome behålls (varianterna anger gray)."
+ },
+ {
+  "nr": 7144,
+  "id": "10624087949578",
+  "fil": "k_15_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "(2027) i Dammblå har",
+    "efter": "(2027) i färgen Dammblå har"
+   }
+  },
+  "skal": "Färgnamnet med stor bokstav mitt i meningen ('i Dammblå') läses som ett fel; 'i färgen Dammblå' (151 tecken). Dammblå är en rimlig översättning av Dusty Blue (varianterna anger blue). I övrigt stämmer mot källan."
+ }
+]

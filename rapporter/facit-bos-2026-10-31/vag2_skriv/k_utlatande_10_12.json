@@ -1,0 +1,279 @@
+[
+ {
+  "nr": 7005,
+  "id": "10468767170826",
+  "fil": "k_10_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Alla uppgifter spårbara (ALUXX, RockShox Paragon Gold RL 50 mm slaglängd, Shimano Cues 11 växlar, hydrauliska skivbromsar, CrossCut 700x42c). Hjulstorlek i tum rätt utelämnad; titeln bär antal växlar i stället. Kolgrå för Charcoal är rimlig översättning (varianten säger dark gray). Shimano Cues: Di2-versionen finns bara för elcyklar och cykeln har ingen motor, så växlingen bedöms som mekanisk. Dubbletten 7023 rätt avvisad."
+ },
+ {
+  "nr": 7006,
+  "id": "10468767891722",
+  "fil": "k_10_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typen Mountainbike stöds av taggen (produkttyp Damcyklar). Deore 12 växlar, BR-MT200 hydrauliska, Maxxis Recon Race 29x2.4 och 29 tum står i källan. Gaffelns 100 mm rätt utelämnad. Asfaltsgrön för Asphalt Green godtas (samma form som i promptens exempel); varianterna säger gray."
+ },
+ {
+  "nr": 7007,
+  "id": "10468768121098",
+  "fil": "k_10_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Cues 10 växlar, Tektro HDC TKD 149 hydrauliska, 29x2.4 stämmer. Black Diamond behålls som originalnamn."
+ },
+ {
+  "nr": 7010,
+  "id": "10468773691658",
+  "fil": "k_10_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typen Mountainbike stöds av titeln och taggen (källtexten säger road bike/cyclocross men har Fox 34-gaffel och bakdämpare). Deore XT RD-M8100 är mekanisk. Default Title 71 629 kr mot S/M/L gold 62 279 kr; färg och storlek låses inte. Öppen fråga om källtexten."
+ },
+ {
+  "nr": 7011,
+  "id": "10468774576394",
+  "fil": "k_10_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Komposit, Recon Silver RL, SLX 12 växlar, BR-MT500, 29x2.25 stämmer. Default Title 39 309 kr mot M/L/XL white 34 179 kr; storlek låses inte. 'Svart och Shell White' behåller Giants färgnamn."
+ },
+ {
+  "nr": 7012,
+  "id": "10468774674698",
+  "fil": "k_10_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "140 mm bak och 150 mm fram, Fox 36 Float Rhythm, Deore 12, BR-MT420, däck 29x2.5/29x2.4 stämmer. Metallsvart för Metallic Black godtas. Default Title 55 199 kr mot L/XL 47 999 kr."
+ },
+ {
+  "nr": 7013,
+  "id": "10468774969610",
+  "fil": "k_10_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Hjulstorlek rätt utelämnad i titeln (bakhjulet 27,5 eller 29 tum beroende på ramstorlek). Fox 36 150 mm, Deore 12, BR-MT420 stämmer. Varianter Default Title 55 199 kr och M/purple 55 099 kr, samma SKU."
+ },
+ {
+  "nr": 7014,
+  "id": "10468775821578",
+  "fil": "k_10_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "En variant. SLX-reglage, 12 växlar, BR-MT520, Fox 36 Float Performance, däck 29x2.5/29x2.4 stämmer. Smoke Metal behålls."
+ },
+ {
+  "nr": 7015,
+  "id": "10470896402698",
+  "fil": "k_10_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "SRAM SX Eagle finns bara som mekanisk grupp (ingen AXS-version), och nivån SX anges uttryckligen, så regeln om Eagle utan angivelse träffar inte. Antal växlar rätt utelämnat (står inte i källan). RockShox 35 Gold RL 160 mm, Tektro M745 hydrauliska skivbromsar, bakhjul per ramstorlek stämmer. En variant. Lyft till David om han vill tolka Eagle-regeln strängare."
+ },
+ {
+  "nr": 7022,
+  "id": "10471017414922",
+  "fil": "k_10_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Källan anger två alternativa växelsystem ('Microshift Advent X eller Shimano Deore 11spd') och två bromsalternativ ('SRAM DB8 eller Shimano Deore hydrauliska'). Advent X är en 10-växlad grupp, så '11 växlar' i meta, intro och Passar för är inte entydigt, och bromstypen är inte entydig för båda alternativen. Växlar och bromsar måste stå entydigt i den egna källan. Rammaterial och slaglängd i övrigt stämmer. Fråga leverantören vilken utrustning som levereras."
+ },
+ {
+  "nr": 7024,
+  "id": "10471092257034",
+  "fil": "k_10_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Herrcykel stöds av titeln och taggen (källtexten säger mountainbike). Cues 18 växlar, BL-MT200/BR-M200 hydrauliska, Schwalbe Rapid 29x2.25 och 29-tumshjul stämmer. Tre varianter med samma pris; storlek låses inte. Vendor 'Men's' är fel i butiken (öppen fråga)."
+ },
+ {
+  "nr": 7025,
+  "id": "10471123321098",
+  "fil": "k_11_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "med 29 tum hjul",
+    "efter": "med 29-tumshjul"
+   }
+  },
+  "skal": "Språkfel i metan ('29 tum hjul'); texten skriver redan '29-tumshjul'. 141 tecken efter rättning. Fakta stämmer: komposit, 160 mm Maestro, Fox 38 170 mm, SLX RD-M7100 12 växlar (mekanisk), BR-MT520. Sangria/Carbon mot varianterna Red: originalnamnet behålls. Default Title 79 679 kr mot L/XL 69 289 kr."
+ },
+ {
+  "nr": 7027,
+  "id": "10471335461130",
+  "fil": "k_11_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Växelsystem 'SRAM Apex' utan angivelse: Apex finns både mekanisk och som Apex AXS (elektronisk, batteri), och källan visar inte att den är mekanisk. Dessutom oklar typ: originaltiteln säger Road bike, texten fitnesscykel, taggarna Gravelcykel och Racercykel (utkastet skriver neutralt 'Cykel')."
+ },
+ {
+  "nr": 7028,
+  "id": "10471336116490",
+  "fil": "k_11_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. 'SRAM Apex' för både växlar och bromsar utan angivelse om mekanisk eller AXS (elektronisk med batteri). Källan visar inte entydigt mekanisk växling. Källans länk pekar dessutom på FastRoad AR Advanced 1, inte TCX."
+ },
+ {
+  "nr": 7029,
+  "id": "10471354859786",
+  "fil": "k_11_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "En variant. Komposit, 100 mm FlexPoint Pro, RockShox Sid 110 mm med fjärrlåsning, Deore 12, MT410 hydrauliska, Aspen 29x2.4 stämmer. Sea Sparkle behålls."
+ },
+ {
+  "nr": 7030,
+  "id": "10472237072650",
+  "fil": "k_11_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn källa; utkastet skriver bara typ (Fixiecykel enligt originaltiteln) och Kenda 700x26c, ingen meta. Färg, ramstorlek och vikt rätt utelämnade (varianterna green/hõbe, M/L/XL och olika pris). Inga påståenden om bromsar eller växlar."
+ },
+ {
+  "nr": 7032,
+  "id": "10472248934666",
+  "fil": "k_11_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Liv Tempt 1 GE 27,5 tum",
+    "efter": "Liv Tempt 1 GE, 27,5 tum"
+   },
+   "seo_title": {
+    "fore": "Liv Tempt 1 GE 27,5 tum",
+    "efter": "Liv Tempt 1 GE, 27,5 tum"
+   }
+  },
+  "skal": "Komma saknas före hjulstorleken i titel och SEO-titel (samma rättning som 6119). Titel 48 tecken, SEO 35, unika. Mountainbike stöds av taggen och källtexten ('en stilren mountainbike'), originaltiteln säger Damcykel. 27,5 tum står i originaltiteln och däcket Kenda Booster 27.5. Deore M5100/M4100 mekanisk, BR-MT200 hydrauliska. Gaffelns 80/100 mm rätt utelämnad. Källans länk pekar på Tempt 2 2022 (öppen fråga)."
+ },
+ {
+  "nr": 7043,
+  "id": "10472291369226",
+  "fil": "k_11_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Mountainbike stöds av taggen. ALUXX SLR, Crest 34 RRL 100 mm fjärrlåsning, Deore M6100 12 växlar, BR-MT200 hydrauliska, Recon Race 29x2.4 och 29-tumshjul stämmer. Dark Jade behålls; varianten M/sinine (blå) 18 709 kr mot Default Title 21 519 kr (öppen fråga om färgen)."
+ },
+ {
+  "nr": 7045,
+  "id": "10472297070858",
+  "fil": "k_11_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "En variant. Reynolds 520 Cromoly, 1 växel, Tektro HD-M275 hydrauliska, däck 29x2.6 (två alternativ skrivs som i källan). Rolltexten (12 växlar, packning) rätt utelämnad. Brun står i titeln."
+ },
+ {
+  "nr": 7046,
+  "id": "10472312930570",
+  "fil": "k_11_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "En variant. ALUXX SL, Fox 38 Performance Elite 170 mm, SLX RD-M7100 (mekanisk), Deore BR-M6120 hydrauliska, Contact Switch dropper 30,9 mm, Assegai 29x2.5/DHR II 29x2.4, 29 tum i titeln. Antal växlar rätt utelämnat."
+ },
+ {
+  "nr": 7048,
+  "id": "10472322138378",
+  "fil": "k_11_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Shimano 105 med 24 växlar (2x12) finns både mekanisk och som 105 Di2 (elektronisk, batteri); källan säger bara 'Shimano 105'. Därutöver: modellåret 2025 står bara i en länk, däckbredden är motsägelsefull (25 mm, 700x25c, 28 mm) och utkastet själv flaggar möjlig dubblett med 6064/6065. Varianter Default Title 39 479 kr och XL/black 40 079 kr med samma SKU."
+ },
+ {
+  "nr": 7050,
+  "id": "10472324169994",
+  "fil": "k_12_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "lockout utan retur",
+    "efter": "med låsning"
+   }
+  },
+  "skal": "'Lockout utan retur' är en ordagrann översättning av 'lockout without rebound' och blir obegriplig på svenska. Övrigt stämmer: Damcykel (produkttyp och tagg), Cues 20 växlar, Tektro TKD-143 hydrauliska, CrossCut 700x42c, punkteringsskydd rätt struket. En variant."
+ },
+ {
+  "nr": 7056,
+  "id": "10472351400202",
+  "fil": "k_12_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Växelsystem 'SRAM GX-Eagle' utan angivelse: GX Eagle finns både mekanisk och som GX Eagle AXS / Transmission (elektronisk, batteri). Dessutom är rammaterialet tomt i källan och bromsarna (SRAM G2 RS) anges utan bromstyp."
+ },
+ {
+  "nr": 7058,
+  "id": "10472435056906",
+  "fil": "k_12_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Shimano 105 med 24 växlar (2x12) kan vara 105 Di2 (elektronisk, batteri); källan visar inte entydigt mekanisk. Dessutom typ 'Damcykel för landsväg' och varianterna pink mot titelns RosyBrown/OceanStorm med Default Title 42 989 kr och S/M 37 009 kr (samma SKU som S)."
+ },
+ {
+  "nr": 7059,
+  "id": "10472484700426",
+  "fil": "k_12_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Shimano 105 med 22 växlar (2x11): 11-växlad 105 finns bara mekanisk (Di2 kom först med 12 växlar), så växlingen är entydigt mekanisk utifrån källans antal. Komposit, 105 hydrauliska, Gavia Fondo 1 700x32c stämmer. Bay Leaf behålls; Default Title 43 409 kr mot XL/green 37 739 kr, samma SKU."
+ },
+ {
+  "nr": 7060,
+  "id": "10475423629578",
+  "fil": "k_12_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Dig som vill kunna lägga till tillbehör som lampor, stöd eller korg, vilka kan väljas i butiken</li>",
+    "efter": "<li>Dig som vill komplettera cykeln med tillbehör, till exempel lampor eller korg</li>"
+   }
+  },
+  "skal": "Punkten var otymplig och 'stöd' är oklart (källan: 'ett praktiskt stöd'). 16 växlar, två fälgbromsar och aluminiumfälgar står i källan. Hjulstorleken rätt utelämnad (titel 28\", text 17\" fälgar). 'Del Rey' utelämnat, typ neutral 'Cykel'. Källtexten nämner 'Fixiede' (kopierad mall) och ursprung Kalifornien (struket)."
+ },
+ {
+  "nr": 7063,
+  "id": "10476071321866",
+  "fil": "k_12_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "En variant. 29 tum fram och 27,5 tum bak står entydigt i källtexten, Fox 36 160 mm, 145 mm Maestro, Marzocchi Bomber Air, BR-MT420 fyrkolvs med 203/180 mm skivor, Deore 12 (mekanisk). Priset 24 579 kr ser lågt ut (öppen fråga, står inte i texten)."
+ },
+ {
+  "nr": 7066,
+  "id": "10476124012810",
+  "fil": "k_12_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Shimano 105 med 24 växlar (2x12) kan vara 105 Di2 (elektronisk, batteri); källan säger bara 'Shimano 105'. Systerprodukt till 7048 (samma modell). Standardblocket utan beställningsmening är rätt (ingen tagg På beställning)."
+ },
+ {
+  "nr": 7067,
+  "id": "10476126699786",
+  "fil": "k_12_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Bakväxel 'SRAM Apex XPLR' och 'SRAM Apex hydrauliska' utan angivelse: Apex XPLR finns både mekanisk och som AXS (elektronisk, batteri). Källan visar inte entydigt mekanisk."
+ },
+ {
+  "nr": 7068,
+  "id": "10476128403722",
+  "fil": "k_12_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Samma som 7067: 'SRAM Apex XPLR' utan angivelse om mekanisk eller AXS. Utkastet har dessutom fyra punkter under Passar för (högst tre)."
+ },
+ {
+  "nr": 7071,
+  "id": "10476191285514",
+  "fil": "k_12_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "lockout utan retur",
+    "efter": "med låsning"
+   }
+  },
+  "skal": "Samma rättning som 7050. Damcykel stöds av titeln, produkttypen och taggen. Paragon Gold RL 50 mm, Cues 11, BR-MT200 hydrauliska, CrossCut 700x42c, låg ram ('enligt tillverkaren') stämmer. Punkteringsskydd och märkeshistorik rätt strukna. En variant."
+ }
+]
