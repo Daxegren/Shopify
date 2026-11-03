@@ -1,0 +1,166 @@
+[
+ {
+  "nr": 8831,
+  "id": "10472519729418",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "ALUXX-grade 12x142, flat mount, flip chip, Advanced-grade kompositgaffel, Shimano CUES 18 växlar, BR-RS305 mekaniska, CrossCut AT 2 700x38c slanglösa och fästpunkter stämmer med den engelska källan. En variant. Ingen tagg På beställning och ingen beställningsmening: rätt. 'Designad för kvinnor', 'tålig och lätt' och Giants historia rätt utelämnade. Gleaming Olive från källans titel. 700x38c står i källan."
+ },
+ {
+  "nr": 8832,
+  "id": "10475621515530",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Gravelcykel Bottecchia Monster GRX610, Grön",
+    "efter": "Bottecchia Gravel Monster GRX610, Matt Grön"
+   },
+   "html": [
+    {
+     "fore": "med aluminiumram och gaffel i carbon monocoque.",
+     "efter": "med aluminiumram och monocoque-gaffel i kolfiber."
+    },
+    {
+     "fore": "aluminiumram och carbongaffel",
+     "efter": "aluminiumram och kolfibergaffel"
+    },
+    {
+     "fore": "<li>Gaffel: Carbon monocoque,",
+     "efter": "<li>Gaffel: Kolfiber, monocoque,"
+    }
+   ]
+  },
+  "skal": "Aluminium, gaffel carbon monocoque med 1\"1/2 koniskt styrrör och 12 mm axel, Shimano GRX-610 12 växlar (namnet återgivet utan mekanisk/elektronisk), RX400 hydrauliska, Vittoria Terreno T 700x40 stämmer. En variant (M / green); C46 och ramstorlekar rätt utelämnade. Tagg På beställning och meningen finns. Rättning: engelskt 'carbon' i inledning, Passar för och specifikation (metan säger redan kolfibergaffel; samma rättning som 8818), och SEO-titeln som stympade modellnamnet 'Gravel Monster' och färgen 'Matt Grön' (ny SEO-titel 43 tecken, unik mot 8818 och övriga filer)."
+ },
+ {
+  "nr": 8833,
+  "id": "10475621908746",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "tapered styrrör",
+     "efter": "koniskt styrrör"
+    }
+   ]
+  },
+  "skal": "Kolfiberram och monocoque-gaffel, GRX-825 Di2 24 växlar (namnet som i källan, ingen beskrivning av elektronisk växling), GRX 825 Di2 hydrauliska, Terreno T fold 700x40 stämmer. En variant. Tagg På beställning och meningen finns. SEO-titel utan färg sann och unik mot 8834. Rättning: engelskt 'tapered' (8834 skriver 'koniskt')."
+ },
+ {
+  "nr": 8834,
+  "id": "10475621941514",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "Cykeln har Campagnolo EKAR GT med 13 växlar och hydrauliska bromsar, och har fästpunkter för montering av tillbehör.",
+     "efter": "Cykeln har Campagnolo EKAR GT med 13 växlar, hydrauliska bromsar och fästpunkter för tillbehör."
+    }
+   ]
+  },
+  "skal": "Extra skärpa 4: källans titel stavar 'Biancco Marrone' (stavfel; systerprodukten 8833 och Bottecchias färgnamn är 'Bianco Marrone'), utkastets 'Bianco Marrone' godtas. Kolfiber, monocoque-gaffel med koniskt styrrör, EKAR GT 13 växlar, EKAR GT hydrauliska, Terreno T fold 700x40, fästpunkter stämmer. En variant (S / white). Tagg På beställning och meningen finns. Rättning: upprepat 'har' i inledningens andra mening."
+ },
+ {
+  "nr": 8838,
+  "id": "10476168020234",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Engelsk/ChatGPT-rester i källans HTML påverkar inte faktaraderna. ALUXX-grade 12x142, skivbroms, flip-chip, Advanced-grade kompositgaffel, CUES U6030/U6020 20 växlar, CUES U6030 hydrauliska, CrossCut AT 2 700x38c tubeless stämmer. Varianter Default Title 29 249 kr och M / roheline 25 429 kr: storlek inte låst. 'Mjuk och komfortabel', 'dämpar vibrationer' rätt utelämnade. Tagg På beställning och meningen finns. Unik mot 8830 (Bali Bricks) och 8805/6049. Dubbletten 8841 rätt avvisad."
+ },
+ {
+  "nr": 8847,
+  "id": "10480053321994",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Ram: Advanced-grade komposit, 12 mm genomgående axel",
+     "efter": "<li>Ram: Advanced-grade komposit, 12x142 mm genomgående axel"
+    }
+   ]
+  },
+  "skal": "Kolfiberram och gaffel (källans löptext), Advanced-grade komposit, flip chip, förvaring i underröret, GRX RX-820 24 växlar, RX-820 hydrauliska, CXR 2 35 mm, Cadex GX 700x40C slanglöst (max 53 mm) stämmer. En variant, tagg På beställning och meningen finns. 'Lätt, smidig' och D-Fuse rätt utelämnade. Rättning: källan anger ramens axel som 12x142 mm, inte 12 mm (12 mm gäller gaffeln)."
+ },
+ {
+  "nr": 8850,
+  "id": "10487987208458",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Kona Butted Cromoly, Kona 6061 Aluminium Disc, Shimano Cues 10 växlar, Cues hydrauliska, Maxxis Rambler 700x40C och fästpunkter stämmer. Varianter XS och XL silver samma pris: storlek inte låst. 'Kraftfullare bromsar', 'modern geometri' rätt utelämnade. Tagg På beställning och meningen finns."
+ },
+ {
+  "nr": 8851,
+  "id": "10487987634442",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Kona Butted Cromoly, Project Two Cromoly Disc, Cues 11 växlar, Cues hydrauliska, Rambler EXO 650x47c/700x40c per ramstorlek (ingen hjulstorlek låst), fästpunkter stämmer. En variant. 'Tidlöst val', 'arbetshäst' rätt utelämnade. Tagg På beställning och meningen finns."
+ },
+ {
+  "nr": 8842,
+  "id": "10476224741642",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Engelsk källa korrekt översatt: SyncDrive Sport 2 250 W/75 Nm mittmotor, löstagbart EnergyPak Smart 430 Wh (löptexten 'removable'), 115 km enligt tillverkaren en gång, ALUXX, XCM 100 mm, Cues 9, MT200 hydrauliska, Rekon 27,5/29 per storlek, fästpunkter. Extra skärpa 3: ingen hjulstorlek låst; gaffelns '29\"' rätt struken. Varianter Default Title 44 529 kr och L / green 38 339 kr (utkastets fakta nämner bara Default Title, men inget låses). E-Lock, Apple Find My och 'kraftfull trampassistans' rätt utelämnade. Inget lagkrav. Dubbletten 8845 rätt avvisad."
+ },
+ {
+  "nr": 8855,
+  "id": "10488326160650",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Som 8842 men svensk källa (Lunar Eclipse): 'löstagbara EnergyPak 430 Wh-batteriet', 'mellanmotor' (återges som mittmotor, likvärdigt), 115 km enligt tillverkaren en gång, däck per storlek; ingen hjulstorlek låst. En variant. Tagg På beställning och meningen finns. Inget läckt från systerprodukten."
+ },
+ {
+  "nr": 8844,
+  "id": "10476239454474",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Engelsk källa: SyncDrive Sport 2 250 W/75 Nm, EnergyPak Smart 430 Wh (källan säger inte löstagbart, och utkastet påstår det inte: rätt), 115 km enligt tillverkaren en gång, ALUXX, XCM 29\" 100 mm, Cues 9, MT200 hydrauliska, Rekon 29x2.4\", fästpunkter. 29 tum står i källtexten (gaffel och däck). Fyra varianter med olika pris: storlek inte låst. Unik mot 8819 (Asphalt Green)."
+ },
+ {
+  "nr": 8848,
+  "id": "10480054337802",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Hopfällbara elcykeln Fiido X har",
+    "efter": "Den hopfällbara elcykeln Fiido X har"
+   }
+  },
+  "skal": "Tagg hopfällbar och källans titel stödjer typordet. 250 W/32 Nm baknavsmotor, 417,6 Wh, 130 km enligt tillverkaren en gång, magnesium, Tourney 7 växlar, Tektro hydrauliska, CST 20x1,95\" (ingen hjulstorlek härledd), 21 kg (en variant), lastkapacitet 120 kg oförändrad stämmer. Ingen färg i källan. Smart lås, app och 'hållbar ram' rätt utelämnade. Rättning: grammatik i metans första mening (bestämd form med adjektiv kräver 'Den'); ny längd 145 tecken."
+ },
+ {
+  "nr": 8849,
+  "id": "10480054468874",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Extra skärpa 1: räckvidden är motsägande i källan (cirka 100 km i löptexten, 104 km i listan) och är struken överallt. 250 W/55 Nm baknavsmotor, löstagbart 499,2 Wh (löptexten), aluminium, fjädrande framgaffel (löptexten), Tourney 7, hydrauliska, 700x40C, 26 kg (en variant), lastkapacitet 120 kg oförändrad, ingår-listan stämmer. 'Säkerhet och komfort' rätt utelämnat. Tagg På beställning och meningen finns."
+ },
+ {
+  "nr": 8852,
+  "id": "10488282448138",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Bafang M410 250 W/80 Nm mittmotor med momentgivare, 560 Wh, 100 km enligt tillverkaren en gång, aluminium, Cues 10, hydrauliska skivbromsar, CST 29\" (29 tum står i källtexten), 28,2 kg (en variant), lastkapacitet 145 kg oförändrad, ingår stämmer. Felmärkt 'Rammaterial: 47 cm', 'punkteringsskyddade', 'säker under alla förhållanden' rätt utelämnade. Extra skärpa 6: källtexten saknar beställningsmeningen men taggen På beställning finns, så meningen i standardblocket är rätt."
+ },
+ {
+  "nr": 8853,
+  "id": "10488282480906",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Som 8852 (Grön); källtexten har beställningsmeningen och taggen finns. Unik mot 8852 genom färgen."
+ },
+ {
+  "nr": 8854,
+  "id": "10488318296330",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "SyncDrive Sport3 250 W/85 Nm mellanmotor, EnergyPak 625 Wh, 167 km enligt tillverkaren en gång, ALUXX SL 140 mm, STL 36 Air 150 mm, Crest FloTrac, Cues LinkGlide 10 växlar (utan mekanisk/elektronisk), Tektro Orion hydrauliska, AM30 tubeless ready, Minion DHF 29x2,50\"/Dissector 29x2,40\" (29 tum står i källtexten), fästpunkter stämmer. En variant. Sag-rekommendation och 'full kontroll' rätt utelämnade. SEO-titel utan märke är sann och unik."
+ },
+ {
+  "nr": 8858,
+  "id": "10494706516234",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "700C (28-tums) aluminiumfälgar och 25 mm däckbredd, enkel växel med vändbart flip-flop-bakhjul, två fälgbromsar (denna källa säger fälgbromsar) och tillbehörsmeningen stämmer. 28 tum står i källan. Ramstorlekar, längder, vikt 8–10 kg och Kalifornien rätt utelämnade; ingen färg. En variant, tagg På beställning och meningen finns. Unik mot övriga 6KU-fixies."
+ }
+]
