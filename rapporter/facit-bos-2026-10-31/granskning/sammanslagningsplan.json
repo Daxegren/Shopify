@@ -1,0 +1,1105 @@
+[
+ {
+  "grupp": 1,
+  "modell": "Talon 2 29\" Asfaltsgrön",
+  "beslut": "slå ihop",
+  "behåll_id": "10472322367754",
+  "behåll_nr": 6029,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [
+   "10472325873930"
+  ],
+  "arkivera_nr": [
+   7051
+  ],
+  "kandidater_ej_sammanslagning": [],
+  "skäl": "Samma modell, färg och pris (13 459 kr). Dubblettens SKU 1095009184 är en annan storlek än behållarens 1095009185; lager 0, på beställning.",
+  "risk": "medel",
+  "flaggor": "",
+  "lager_hos_dubbletter": 0,
+  "unika_sku_som_försvinner": [
+   "1095009184"
+  ],
+  "taggar_vid_arkivering": [
+   "sammanslagen"
+  ]
+ },
+ {
+  "grupp": 2,
+  "modell": "Talon 2 29\" Röd",
+  "beslut": "slå ihop",
+  "behåll_id": "10530212348170",
+  "behåll_nr": 6045,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [
+   "10472333082890"
+  ],
+  "arkivera_nr": [
+   7053
+  ],
+  "kandidater_ej_sammanslagning": [],
+  "skäl": "Samma modell, färg och pris. Dubblettens SKU 1095009284 (S) är en annan storlek än 1095009287; lager 0.",
+  "risk": "medel",
+  "flaggor": "",
+  "lager_hos_dubbletter": 0,
+  "unika_sku_som_försvinner": [
+   "1095009284"
+  ],
+  "taggar_vid_arkivering": [
+   "sammanslagen"
+  ]
+ },
+ {
+  "grupp": 3,
+  "modell": "Roam 1 Elektronblå",
+  "beslut": "slå INTE ihop (osäker)",
+  "behåll_id": "10471083999498",
+  "behåll_nr": 6023,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [],
+  "arkivera_nr": [],
+  "kandidater_ej_sammanslagning": [
+   "10471072006410"
+  ],
+  "skäl": "Olika pris (18 909 mot 21 749 kr, +15 %) och olika SKU (1082008187 mot 1082008184, S/blå). Kan vara olika parti eller modellår. Slås inte ihop utan svar från Velomarket.",
+  "risk": "osäker",
+  "flaggor": "",
+  "lager_hos_dubbletter": 0,
+  "unika_sku_som_försvinner": [],
+  "taggar_vid_arkivering": []
+ },
+ {
+  "grupp": 4,
+  "modell": "Talon 0 29\" Mars Dust/Svart",
+  "beslut": "slå INTE ihop (osäker)",
+  "behåll_id": "10476214812938",
+  "behåll_nr": 6014,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [],
+  "arkivera_nr": [],
+  "kandidater_ej_sammanslagning": [
+   "10476248924426"
+  ],
+  "skäl": "Olika pris (19 329 mot 16 809 kr, -13 %), olika SKU (…285 mot …288) och dubbletten har två varianter med samma SKU 1095007288 (felaktig data). Osäkert att det är samma parti.",
+  "risk": "osäker",
+  "flaggor": "",
+  "lager_hos_dubbletter": 0,
+  "unika_sku_som_försvinner": [],
+  "taggar_vid_arkivering": []
+ },
+ {
+  "grupp": 5,
+  "modell": "Talon 3 29\" Panther",
+  "beslut": "slå ihop",
+  "behåll_id": "10476224086282",
+  "behåll_nr": 6018,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [
+   "10476252135690"
+  ],
+  "arkivera_nr": [
+   7077
+  ],
+  "kandidater_ej_sammanslagning": [],
+  "skäl": "Samma modell, färg och pris (11 919 kr). Dubblettens SKU 1095010184 saknas hos behållaren (som har …185/187/188); lager 0.",
+  "risk": "medel",
+  "flaggor": "",
+  "lager_hos_dubbletter": 0,
+  "unika_sku_som_försvinner": [
+   "1095010184"
+  ],
+  "taggar_vid_arkivering": [
+   "sammanslagen"
+  ]
+ },
+ {
+  "grupp": 6,
+  "modell": "Trance X SX Golden Haze",
+  "beslut": "slå INTE ihop (osäker)",
+  "behåll_id": "10476071321866",
+  "behåll_nr": 7063,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [],
+  "arkivera_nr": [],
+  "kandidater_ej_sammanslagning": [
+   "10476253085962"
+  ],
+  "skäl": "Priset skiljer 2,2 gånger (24 579 mot 53 979 kr) och SKU olika (…104 mot …108). Troligen olika utförande eller prisfel. Slås inte ihop.",
+  "risk": "osäker",
+  "flaggor": "",
+  "lager_hos_dubbletter": 0,
+  "unika_sku_som_försvinner": [],
+  "taggar_vid_arkivering": []
+ },
+ {
+  "grupp": 7,
+  "modell": "Talon 1 29\" Kolgrå/Charcoal",
+  "beslut": "slå ihop",
+  "behåll_id": "10472322924810",
+  "behåll_nr": 6027,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [
+   "10502528237834"
+  ],
+  "arkivera_nr": [
+   7099
+  ],
+  "kandidater_ej_sammanslagning": [],
+  "skäl": "Samma modell, färg, pris inom 4 %. Dubblettens SKU 1095008189 saknas hos behållaren; lager 0.",
+  "risk": "medel",
+  "flaggor": "",
+  "lager_hos_dubbletter": 0,
+  "unika_sku_som_försvinner": [
+   "1095008189"
+  ],
+  "taggar_vid_arkivering": [
+   "sammanslagen"
+  ]
+ },
+ {
+  "grupp": 8,
+  "modell": "Talon 1 29\" Metallicblå",
+  "beslut": "slå ihop",
+  "behåll_id": "10472322203914",
+  "behåll_nr": 6028,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [
+   "10561347748106"
+  ],
+  "arkivera_nr": [
+   7118
+  ],
+  "kandidater_ej_sammanslagning": [],
+  "skäl": "Samma modell, färg, pris inom 4 %. Dubblettens SKU 1095008284 (S) saknas hos behållaren; lager 0.",
+  "risk": "medel",
+  "flaggor": "",
+  "lager_hos_dubbletter": 0,
+  "unika_sku_som_försvinner": [
+   "1095008284"
+  ],
+  "taggar_vid_arkivering": [
+   "sammanslagen"
+  ]
+ },
+ {
+  "grupp": 9,
+  "modell": "Anthem Advanced SL 2 Mariana Blue",
+  "beslut": "slå ihop",
+  "behåll_id": "10503245037834",
+  "behåll_nr": 7101,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [
+   "10523486880010",
+   "10530215559434"
+  ],
+  "arkivera_nr": [
+   7105,
+   7112
+  ],
+  "kandidater_ej_sammanslagning": [],
+  "skäl": "Samma modell och färg, pris inom 1,5 %. Två dubbletter med egna SKU (…107, …105) som saknas hos behållaren; lager 0.",
+  "risk": "medel",
+  "flaggor": "",
+  "lager_hos_dubbletter": 0,
+  "unika_sku_som_försvinner": [
+   "1008012107",
+   "1008012105"
+  ],
+  "taggar_vid_arkivering": [
+   "sammanslagen"
+  ]
+ },
+ {
+  "grupp": 10,
+  "modell": "Propel Advanced 2 (2027) Vit",
+  "beslut": "slå ihop",
+  "behåll_id": "10488326226186",
+  "behåll_nr": 7091,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [
+   "10530216771850",
+   "10561356398858",
+   "10507440783626"
+  ],
+  "arkivera_nr": [
+   7113,
+   7120,
+   7102
+  ],
+  "kandidater_ej_sammanslagning": [],
+  "skäl": "Samma modell, årsmodell, färg och pris (47 559 kr) i alla fyra. Tre dubbletter med egna SKU (…108, …103, …104); lager 0.",
+  "risk": "medel",
+  "flaggor": "",
+  "lager_hos_dubbletter": 0,
+  "unika_sku_som_försvinner": [
+   "1074031108",
+   "1074031103",
+   "1074031104"
+  ],
+  "taggar_vid_arkivering": [
+   "sammanslagen"
+  ]
+ },
+ {
+  "grupp": 11,
+  "modell": "Liv Avail AR 1 Sandshell/Cold Night",
+  "beslut": "slå INTE ihop (osäker)",
+  "behåll_id": "10488246829322",
+  "behåll_nr": 7088,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [],
+  "arkivera_nr": [],
+  "kandidater_ej_sammanslagning": [
+   "10502528172298"
+  ],
+  "skäl": "Behållaren har två priser för samma SKU 1017034185 (29 249 och 22 079 kr) och dubbletten 25 429 kr med SKU …183. Pris och storlek går inte att reda ut. Slås inte ihop.",
+  "risk": "osäker",
+  "flaggor": "",
+  "lager_hos_dubbletter": 0,
+  "unika_sku_som_försvinner": [],
+  "taggar_vid_arkivering": []
+ },
+ {
+  "grupp": 12,
+  "modell": "XTC Advanced 29 2 Purple Haze",
+  "beslut": "slå ihop",
+  "behåll_id": "10487987044618",
+  "behåll_nr": 7086,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [
+   "10561355907338"
+  ],
+  "arkivera_nr": [
+   7119
+  ],
+  "kandidater_ej_sammanslagning": [],
+  "skäl": "Samma modell och färg. Dubblettens pris 39 649 kr ligger nära behållarens L-variant (40 029 kr); behållarens standardvariant har 46 029 kr. SKU …145 saknas hos behållaren; lager 0.",
+  "risk": "medel",
+  "flaggor": "Behållarens egna priser är motstridiga (46 029 / 40 029 kr).",
+  "lager_hos_dubbletter": 0,
+  "unika_sku_som_försvinner": [
+   "1119022145"
+  ],
+  "taggar_vid_arkivering": [
+   "sammanslagen"
+  ]
+ },
+ {
+  "grupp": 13,
+  "modell": "Talon 29 0 (2027) Plasma Coral",
+  "beslut": "slå ihop",
+  "behåll_id": "10656690471178",
+  "behåll_nr": 7167,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [
+   "10656690503946",
+   "10656690536714",
+   "10656690569482",
+   "10656690766090",
+   "10656690798858",
+   "10656690831626"
+  ],
+  "arkivera_nr": [
+   7168,
+   7169,
+   7170,
+   7175,
+   7176,
+   7177
+  ],
+  "kandidater_ej_sammanslagning": [],
+  "skäl": "Sju produkter, samma modell, årsmodell och färg. 7168/7169/7170 har exakt samma varianter (SKU …285, …284) som behållaren (7170 har 19 329 i stället för 19 629 kr). 7175/7176/7177 har SKU 1095016287 som saknas hos behållaren (en storlek till).",
+  "risk": "medel",
+  "flaggor": "SKU 1095016287 finns bara i 7175-7177. Lägg den som variant på 7167 före arkivering annars försvinner storleken.",
+  "lager_hos_dubbletter": 0,
+  "unika_sku_som_försvinner": [
+   "1095016287"
+  ],
+  "taggar_vid_arkivering": [
+   "sammanslagen"
+  ]
+ },
+ {
+  "grupp": 14,
+  "modell": "Talon 2 (2027) 29\" Eclipse – SKU delas",
+  "beslut": "slå ihop",
+  "behåll_id": "10624088047882",
+  "behåll_nr": 7145,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [
+   "10656690700554"
+  ],
+  "arkivera_nr": [
+   7174
+  ],
+  "kandidater_ej_sammanslagning": [],
+  "skäl": "7174 har SKU 1095018187, samma som behållarens första variant, alltså samma artikel. Priset skiljer (13 459 mot 11 699 kr); behållarens pris gäller.",
+  "risk": "medel",
+  "flaggor": "Prisavvikelse 15 %: kontrollera vilket pris som är rätt.",
+  "lager_hos_dubbletter": 0,
+  "unika_sku_som_försvinner": [],
+  "taggar_vid_arkivering": [
+   "sammanslagen"
+  ]
+ },
+ {
+  "grupp": 15,
+  "modell": "Talon 2 (2027) 29\" Eclipse – kloner av SKU 1095018184",
+  "beslut": "slå ihop",
+  "behåll_id": "10656690602250",
+  "behåll_nr": 7171,
+  "behåll_tagg_texter_klara": false,
+  "arkivera_ids": [
+   "10656690635018",
+   "10656690667786"
+  ],
+  "arkivera_nr": [
+   7172,
+   7173
+  ],
+  "kandidater_ej_sammanslagning": [],
+  "skäl": "7171, 7172 och 7173 har identisk SKU (1095018184), pris och titel. Rena kloner. 7171 är inte texter-klara-taggad; sammanslagning mot 7145 gäller separat (se nästa rad).",
+  "risk": "låg",
+  "flaggor": "",
+  "lager_hos_dubbletter": 0,
+  "unika_sku_som_försvinner": [],
+  "taggar_vid_arkivering": [
+   "sammanslagen"
+  ]
+ },
+ {
+  "grupp": 16,
+  "modell": "Talon 2 (2027) 29\" Eclipse – 7157 och 7171-gruppen mot 7145",
+  "beslut": "slå INTE ihop (osäker)",
+  "behåll_id": "10624088047882",
+  "behåll_nr": 7145,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [],
+  "arkivera_nr": [],
+  "kandidater_ej_sammanslagning": [
+   "10635806507274",
+   "10656690602250"
+  ],
+  "skäl": "Priserna skiljer 17 % (11 699 mot 13 659 kr) och SKU:erna (…185, …184) saknas hos 7145. Osäkert om samma parti. Behållare vid senare beslut: 7145 (taggad). Slås inte ihop nu.",
+  "risk": "osäker",
+  "flaggor": "",
+  "lager_hos_dubbletter": 0,
+  "unika_sku_som_försvinner": [],
+  "taggar_vid_arkivering": []
+ },
+ {
+  "grupp": 17,
+  "modell": "Talon 2 (2027) 29\" Phoenix Fire",
+  "beslut": "slå ihop",
+  "behåll_id": "10635806310666",
+  "behåll_nr": 7153,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [
+   "10635806703882"
+  ],
+  "arkivera_nr": [
+   7159
+  ],
+  "kandidater_ej_sammanslagning": [],
+  "skäl": "7159 har SKU 1095018287, samma som behållarens första variant, alltså samma artikel. Priset skiljer (13 459 mot 11 699 kr); behållarens pris gäller; ingen SKU försvinner.",
+  "risk": "medel",
+  "flaggor": "Prisavvikelse 13 %.",
+  "lager_hos_dubbletter": 0,
+  "unika_sku_som_försvinner": [],
+  "taggar_vid_arkivering": [
+   "sammanslagen"
+  ]
+ },
+ {
+  "grupp": 18,
+  "modell": "Talon 3 (2027) 29\" Liquid Metal",
+  "beslut": "slå ihop",
+  "behåll_id": "10635806343434",
+  "behåll_nr": 7154,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [
+   "10650209911050",
+   "10673180377354"
+  ],
+  "arkivera_nr": [
+   7164,
+   7183
+  ],
+  "kandidater_ej_sammanslagning": [],
+  "skäl": "Samma modell, årsmodell, färg, pris inom 0,1 %. SKU …184 och …188 saknas hos behållaren; lager 0.",
+  "risk": "medel",
+  "flaggor": "",
+  "lager_hos_dubbletter": 0,
+  "unika_sku_som_försvinner": [
+   "1095019184",
+   "1095019188"
+  ],
+  "taggar_vid_arkivering": [
+   "sammanslagen"
+  ]
+ },
+ {
+  "grupp": 19,
+  "modell": "Talon 3 (2027) 29\" Orange",
+  "beslut": "slå ihop",
+  "behåll_id": "10635806376202",
+  "behåll_nr": 7155,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [
+   "10635809947914"
+  ],
+  "arkivera_nr": [
+   7160
+  ],
+  "kandidater_ej_sammanslagning": [],
+  "skäl": "Samma modell, färg och pris. SKU …284 saknas hos behållaren; lager 0.",
+  "risk": "medel",
+  "flaggor": "",
+  "lager_hos_dubbletter": 0,
+  "unika_sku_som_försvinner": [
+   "1095019284"
+  ],
+  "taggar_vid_arkivering": [
+   "sammanslagen"
+  ]
+ },
+ {
+  "grupp": 20,
+  "modell": "Talon 3 (2027) 29\" Pangea Green",
+  "beslut": "slå ihop",
+  "behåll_id": "10635806474506",
+  "behåll_nr": 7156,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [
+   "10635806638346",
+   "10673180279050"
+  ],
+  "arkivera_nr": [
+   7158,
+   7182
+  ],
+  "kandidater_ej_sammanslagning": [],
+  "skäl": "7158 delar SKU 1095019385 med behållaren (samma artikel) men har lägre pris (10 369 mot 11 919 kr) och en egen variant 1095019387 (L). 7182 har egen SKU …388 och samma pris.",
+  "risk": "medel",
+  "flaggor": "SKU 1095019387 (L) försvinner; prisavvikelse 13 % på 7158.",
+  "lager_hos_dubbletter": 0,
+  "unika_sku_som_försvinner": [
+   "1095019387",
+   "1095019388"
+  ],
+  "taggar_vid_arkivering": [
+   "sammanslagen"
+  ]
+ },
+ {
+  "grupp": 21,
+  "modell": "Liv EnviLiv Advanced 2 (2027) Midnight Pine",
+  "beslut": "slå ihop",
+  "behåll_id": "10588451438858",
+  "behåll_nr": 7126,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [
+   "10598564692234"
+  ],
+  "arkivera_nr": [
+   7131
+  ],
+  "kandidater_ej_sammanslagning": [],
+  "skäl": "Samma modell, årsmodell, färg, pris inom 0,2 %. Dubbletten har tre SKU (…102, …103 XS, …104 S) och behållaren bara …105.",
+  "risk": "medel",
+  "flaggor": "Dubbletten har fler storlekar än behållaren; lägg variant eller behåll 7131.",
+  "lager_hos_dubbletter": 0,
+  "unika_sku_som_försvinner": [
+   "1036019102",
+   "1036019103",
+   "1036019104"
+  ],
+  "taggar_vid_arkivering": [
+   "sammanslagen"
+  ]
+ },
+ {
+  "grupp": 22,
+  "modell": "Defy Advanced Pro 0 (2027) Luminous Lagoon",
+  "beslut": "slå ihop",
+  "behåll_id": "10624087556362",
+  "behåll_nr": 7136,
+  "behåll_tagg_texter_klara": false,
+  "arkivera_ids": [
+   "10624087785738"
+  ],
+  "arkivera_nr": [
+   7140
+  ],
+  "kandidater_ej_sammanslagning": [],
+  "skäl": "7140 delar SKU 1031032147 med 7136, alltså samma artikel. Priset skiljer kraftigt (75 579 mot 94 849 kr, -20 %); behållarens pris gäller. Ingen av dem är texter-klara. 7140 avvisades även på växelsystem (Di2).",
+  "risk": "medel",
+  "flaggor": "Prisavvikelse 20 %: kontrollera mot leverantörens prislista.",
+  "lager_hos_dubbletter": 0,
+  "unika_sku_som_försvinner": [],
+  "taggar_vid_arkivering": [
+   "sammanslagen"
+  ]
+ },
+ {
+  "grupp": 23,
+  "modell": "Defy Advanced Pro 1 (2027) Midnight Moon",
+  "beslut": "slå ihop",
+  "behåll_id": "10624087654666",
+  "behåll_nr": 7138,
+  "behåll_tagg_texter_klara": false,
+  "arkivera_ids": [
+   "10624087818506"
+  ],
+  "arkivera_nr": [
+   7141
+  ],
+  "kandidater_ej_sammanslagning": [],
+  "skäl": "7141 delar SKU 1031034148 med 7138, alltså samma artikel. Priset skiljer (60 789 mot 76 559 kr, -21 %); behållarens pris gäller.",
+  "risk": "medel",
+  "flaggor": "Prisavvikelse 21 %: kontrollera mot leverantörens prislista.",
+  "lager_hos_dubbletter": 0,
+  "unika_sku_som_försvinner": [],
+  "taggar_vid_arkivering": [
+   "sammanslagen"
+  ]
+ },
+ {
+  "grupp": 24,
+  "modell": "Defy Advanced 2 (2027) Pearl White",
+  "beslut": "slå ihop",
+  "behåll_id": "10624087621898",
+  "behåll_nr": 7137,
+  "behåll_tagg_texter_klara": false,
+  "arkivera_ids": [
+   "10624087752970"
+  ],
+  "arkivera_nr": [
+   7139
+  ],
+  "kandidater_ej_sammanslagning": [],
+  "skäl": "7139 delar SKU 1031030147 med 7137, alltså samma artikel. Pris 36 049 mot 41 459 kr (-13 %). Dubbletten har även SKU …148 (XL) som saknas hos behållaren.",
+  "risk": "medel",
+  "flaggor": "SKU 1031030148 (XL) försvinner; prisavvikelse 13 %.",
+  "lager_hos_dubbletter": 0,
+  "unika_sku_som_försvinner": [
+   "1031030148"
+  ],
+  "taggar_vid_arkivering": [
+   "sammanslagen"
+  ]
+ },
+ {
+  "grupp": 25,
+  "modell": "Defy Advanced 2 (2026) Abyss Black",
+  "beslut": "slå ihop",
+  "behåll_id": "10476166217994",
+  "behåll_nr": 6054,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [
+   "10476279496970"
+  ],
+  "arkivera_nr": [
+   7083
+  ],
+  "kandidater_ej_sammanslagning": [],
+  "skäl": "Samma modell, årsmodell 2026 och färg; pris inom 3 % av behållarens varianter. Dubblettens SKU 1031023144 saknas hos behållaren; lager 0. Behållaren har 1 i lager.",
+  "risk": "medel",
+  "flaggor": "Behållaren har dubbel SKU 1031023147 på två varianter (felaktig data).",
+  "lager_hos_dubbletter": 0,
+  "unika_sku_som_försvinner": [
+   "1031023144"
+  ],
+  "taggar_vid_arkivering": [
+   "sammanslagen"
+  ]
+ },
+ {
+  "grupp": 26,
+  "modell": "XTC SLR 29 1 (2026) Abyss Black",
+  "beslut": "slå ihop",
+  "behåll_id": "10502528336138",
+  "behåll_nr": 6035,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [
+   "10523487240458"
+  ],
+  "arkivera_nr": [
+   7107
+  ],
+  "kandidater_ej_sammanslagning": [],
+  "skäl": "Samma modell, årsmodell och färg; priset 28 509 kr matchar behållarens standardvariant. SKU 1119019188 (XL) saknas hos behållaren; lager 0.",
+  "risk": "medel",
+  "flaggor": "Behållaren har dubbel SKU 1119019185 på två varianter.",
+  "lager_hos_dubbletter": 0,
+  "unika_sku_som_försvinner": [
+   "1119019188"
+  ],
+  "taggar_vid_arkivering": [
+   "sammanslagen"
+  ]
+ },
+ {
+  "grupp": 27,
+  "modell": "Liv Avail AR 2 (2026) Lavender Blush",
+  "beslut": "slå ihop",
+  "behåll_id": "10502528205066",
+  "behåll_nr": 7098,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [
+   "10488246796554"
+  ],
+  "arkivera_nr": [
+   6079
+  ],
+  "kandidater_ej_sammanslagning": [],
+  "skäl": "Samma modell, årsmodell och färg, pris 22 789 kr lika. Behållare enligt prioritet är taggade 7098 (lager 0). Dubbletten 6079 har lager 1 och egen SKU 1017035184.",
+  "risk": "hög",
+  "flaggor": "HÖG: dubbletten har lager 1. Arkivera inte före att SKU 1017035184 flyttats till 7098, eller behåll 6079 och flytta taggen.",
+  "lager_hos_dubbletter": 1,
+  "unika_sku_som_försvinner": [
+   "1017035184"
+  ],
+  "taggar_vid_arkivering": [
+   "sammanslagen"
+  ]
+ },
+ {
+  "grupp": 28,
+  "modell": "Fixie Excelsior Dandy svart",
+  "beslut": "slå ihop",
+  "behåll_id": "10472295006474",
+  "behåll_nr": 6006,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [
+   "10523486585098",
+   "10472333639946"
+  ],
+  "arkivera_nr": [
+   6007,
+   6008
+  ],
+  "kandidater_ej_sammanslagning": [],
+  "skäl": "Samma modell, färg och pris (8 909 kr). Tre produkter med var sin SKU (…074, …080, …077) och lager 1, 4 och 1.",
+  "risk": "hög",
+  "flaggor": "HÖG: 6007 (lager 4) och 6008 (lager 1) har lager och egna SKU. Arkivering tar bort 5 st ur försäljning. Flytta som varianter före arkivering.",
+  "lager_hos_dubbletter": 5,
+  "unika_sku_som_försvinner": [
+   "02130080",
+   "02130077"
+  ],
+  "taggar_vid_arkivering": [
+   "sammanslagen"
+  ]
+ },
+ {
+  "grupp": 29,
+  "modell": "XTC SLR 29 2 Thundercloud",
+  "beslut": "slå ihop",
+  "behåll_id": "10471419642122",
+  "behåll_nr": 6066,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [
+   "10472434532618"
+  ],
+  "arkivera_nr": [
+   6067
+  ],
+  "kandidater_ej_sammanslagning": [],
+  "skäl": "Samma modell, färg och pris (23 599 kr). 6067 har egen SKU 1119020187 med lager 1.",
+  "risk": "hög",
+  "flaggor": "HÖG: dubbletten har lager 1 och egen SKU.",
+  "lager_hos_dubbletter": 1,
+  "unika_sku_som_försvinner": [
+   "1119020187"
+  ],
+  "taggar_vid_arkivering": [
+   "sammanslagen"
+  ]
+ },
+ {
+  "grupp": 30,
+  "modell": "Liv Tempt 3 29\" Tyrian Purple",
+  "beslut": "slå ihop",
+  "behåll_id": "10476230541578",
+  "behåll_nr": 6082,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [
+   "10476252692746"
+  ],
+  "arkivera_nr": [
+   6083
+  ],
+  "kandidater_ej_sammanslagning": [],
+  "skäl": "Samma modell, färg och pris (11 919 kr). 6083 har SKU …185 (lager 1) och …187.",
+  "risk": "hög",
+  "flaggor": "HÖG: dubbletten har lager 1 och två egna SKU.",
+  "lager_hos_dubbletter": 1,
+  "unika_sku_som_försvinner": [
+   "1101019185",
+   "1101019187"
+  ],
+  "taggar_vid_arkivering": [
+   "sammanslagen"
+  ]
+ },
+ {
+  "grupp": 31,
+  "modell": "Romet Vintage Classic 1.0 D grön",
+  "beslut": "slå INTE ihop (osäker)",
+  "behåll_id": "10523488157962",
+  "behåll_nr": 6121,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [],
+  "arkivera_nr": [],
+  "kandidater_ej_sammanslagning": [
+   "10635810144522"
+  ],
+  "skäl": "SKU 28202517-B mot 28182516-B (olika i två positioner), lager 5 och 8. Kan vara olika storlek eller parti. Lager på båda; slås inte ihop utan leverantörsbesked.",
+  "risk": "osäker",
+  "flaggor": "",
+  "lager_hos_dubbletter": 8,
+  "unika_sku_som_försvinner": [],
+  "taggar_vid_arkivering": []
+ },
+ {
+  "grupp": 32,
+  "modell": "Romet Wagant 4 blå",
+  "beslut": "slå ihop",
+  "behåll_id": "10462795366666",
+  "behåll_nr": 6133,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [
+   "10472236876042"
+  ],
+  "arkivera_nr": [
+   6134
+  ],
+  "kandidater_ej_sammanslagning": [],
+  "skäl": "Samma modell, färg och pris (10 379 kr); SKU 2328726 och 2328727 följer varandra (troligen storlek). 6134 har lager 3.",
+  "risk": "hög",
+  "flaggor": "HÖG: dubbletten har lager 3 och egen SKU.",
+  "lager_hos_dubbletter": 3,
+  "unika_sku_som_försvinner": [
+   "2328727"
+  ],
+  "taggar_vid_arkivering": [
+   "sammanslagen"
+  ]
+ },
+ {
+  "grupp": 33,
+  "modell": "Romet Wagant 8 svart",
+  "beslut": "slå INTE ihop (osäker)",
+  "behåll_id": "10472332067082",
+  "behåll_nr": 6144,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [],
+  "arkivera_nr": [],
+  "kandidater_ej_sammanslagning": [
+   "10548290978058"
+  ],
+  "skäl": "SKU 28210609-A mot 28190608-A (olika i två positioner), lager 2 och 1. Kan vara olika parti. Slås inte ihop utan leverantörsbesked.",
+  "risk": "osäker",
+  "flaggor": "",
+  "lager_hos_dubbletter": 1,
+  "unika_sku_som_försvinner": [],
+  "taggar_vid_arkivering": []
+ },
+ {
+  "grupp": 34,
+  "modell": "Flaskhållare Giant ProWay (5070/5080)",
+  "beslut": "slå INTE ihop (osäker)",
+  "behåll_id": "10541369721098",
+  "behåll_nr": 5070,
+  "behåll_tagg_texter_klara": false,
+  "arkivera_ids": [],
+  "arkivera_nr": [],
+  "kandidater_ej_sammanslagning": [
+   "10541369622794"
+  ],
+  "skäl": "Samma titel och pris (109 kr) men SKU 490000071 mot 490000074 med lager 14 och 12. Kan vara olika färgvarianter. Lager på båda.",
+  "risk": "osäker",
+  "flaggor": "",
+  "lager_hos_dubbletter": 12,
+  "unika_sku_som_försvinner": [],
+  "taggar_vid_arkivering": []
+ },
+ {
+  "grupp": 35,
+  "modell": "Flaskhållare Giant ProWay 5054",
+  "beslut": "slå INTE ihop (osäker)",
+  "behåll_id": "10541369721098",
+  "behåll_nr": 5070,
+  "behåll_tagg_texter_klara": false,
+  "arkivera_ids": [],
+  "arkivera_nr": [],
+  "kandidater_ej_sammanslagning": [
+   "10530129051914"
+  ],
+  "skäl": "5054 (59 kr, SKU 490000072, lager 18) har annat pris och ingen färg i titeln. Olika artikel.",
+  "risk": "osäker",
+  "flaggor": "",
+  "lager_hos_dubbletter": 18,
+  "unika_sku_som_försvinner": [],
+  "taggar_vid_arkivering": []
+ },
+ {
+  "grupp": 36,
+  "modell": "Trinity Advanced SL 2 Carbon/Blue Dragonfly",
+  "beslut": "slå INTE ihop (osäker)",
+  "behåll_id": "10488318427402",
+  "behåll_nr": 7090,
+  "behåll_tagg_texter_klara": false,
+  "arkivera_ids": [],
+  "arkivera_nr": [],
+  "kandidater_ej_sammanslagning": [
+   "10494910431498"
+  ],
+  "skäl": "Priset skiljer 17 % (100 669 mot 117 969 kr), olika SKU (…107, …104). Båda avvisade av andra skäl (elektroniskt växelsystem). Osäkert.",
+  "risk": "osäker",
+  "flaggor": "",
+  "lager_hos_dubbletter": 0,
+  "unika_sku_som_försvinner": [],
+  "taggar_vid_arkivering": []
+ },
+ {
+  "grupp": 37,
+  "modell": "Contend AR 2 (2026) Thundercloud",
+  "beslut": "slå ihop",
+  "behåll_id": "10523487174922",
+  "behåll_nr": 7106,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [
+   "10502528270602"
+  ],
+  "arkivera_nr": [
+   7100
+  ],
+  "kandidater_ej_sammanslagning": [],
+  "skäl": "Samma modell och färg, pris inom 0,5 %. 7100 har SKU 1024026185 (M) och motsägelsefull variantbeskrivning (blue). Lager 0.",
+  "risk": "medel",
+  "flaggor": "",
+  "lager_hos_dubbletter": 0,
+  "unika_sku_som_försvinner": [
+   "1024026185"
+  ],
+  "taggar_vid_arkivering": [
+   "sammanslagen"
+  ]
+ },
+ {
+  "grupp": 38,
+  "modell": "Liv Rove 1 Tyrian Purple",
+  "beslut": "slå ihop",
+  "behåll_id": "10476191285514",
+  "behåll_nr": 7071,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [
+   "10523479179530"
+  ],
+  "arkivera_nr": [
+   7104
+  ],
+  "kandidater_ej_sammanslagning": [],
+  "skäl": "Samma modell, färg och pris (18 619 kr). SKU …185 saknas hos behållaren; lager 0.",
+  "risk": "medel",
+  "flaggor": "",
+  "lager_hos_dubbletter": 0,
+  "unika_sku_som_försvinner": [
+   "1083014185"
+  ],
+  "taggar_vid_arkivering": [
+   "sammanslagen"
+  ]
+ },
+ {
+  "grupp": 39,
+  "modell": "Liv Avail Advanced 1 (2027) Shell White",
+  "beslut": "slå ihop",
+  "behåll_id": "10624088637706",
+  "behåll_nr": 7151,
+  "behåll_tagg_texter_klara": false,
+  "arkivera_ids": [
+   "10635810046218"
+  ],
+  "arkivera_nr": [
+   7161
+  ],
+  "kandidater_ej_sammanslagning": [],
+  "skäl": "7161 delar SKU 1017039143 med 7151, alltså samma artikel. Pris 45 339 mot 52 139 kr (-13 %); behållarens pris gäller. Ingen av dem är taggad.",
+  "risk": "medel",
+  "flaggor": "Prisavvikelse 13 %.",
+  "lager_hos_dubbletter": 0,
+  "unika_sku_som_försvinner": [],
+  "taggar_vid_arkivering": [
+   "sammanslagen"
+  ]
+ },
+ {
+  "grupp": 40,
+  "modell": "AnyTour RS 2 GB Ocean Storm",
+  "beslut": "slå ihop",
+  "behåll_id": "10656690372874",
+  "behåll_nr": 7165,
+  "behåll_tagg_texter_klara": false,
+  "arkivera_ids": [
+   "10656690438410"
+  ],
+  "arkivera_nr": [
+   7166
+  ],
+  "kandidater_ej_sammanslagning": [],
+  "skäl": "Identisk SKU 3009009117, samma modell och färg; pris inom 1,5 %. Ingen SKU försvinner; lager 0.",
+  "risk": "låg",
+  "flaggor": "",
+  "lager_hos_dubbletter": 0,
+  "unika_sku_som_försvinner": [],
+  "taggar_vid_arkivering": [
+   "sammanslagen"
+  ]
+ },
+ {
+  "grupp": 41,
+  "modell": "Toorx Grid Foam Roller svart/orange",
+  "beslut": "slå INTE ihop (osäker)",
+  "behåll_id": "10472301560074",
+  "behåll_nr": null,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [],
+  "arkivera_nr": [],
+  "kandidater_ej_sammanslagning": [
+   "10472301625610"
+  ],
+  "skäl": "Två taggade produkter (E1a AHF-044, E1b AHF-061) med omvänd färgordning i titeln, samma pris, lager 4 och 3. Kan vara två färger. Slås inte ihop.",
+  "risk": "osäker",
+  "flaggor": "",
+  "lager_hos_dubbletter": 3,
+  "unika_sku_som_försvinner": [],
+  "taggar_vid_arkivering": []
+ },
+ {
+  "grupp": 42,
+  "modell": "Toorx Professional Gloves svart/grå",
+  "beslut": "slå INTE ihop (osäker)",
+  "behåll_id": "10472305393930",
+  "behåll_nr": null,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [],
+  "arkivera_nr": [],
+  "kandidater_ej_sammanslagning": [
+   "10462783897866"
+  ],
+  "skäl": "AHF-033 (lager 3, ej taggad) och AHF-034 (taggad, lager 1): troligen olika storlek. Slås inte ihop.",
+  "risk": "osäker",
+  "flaggor": "",
+  "lager_hos_dubbletter": 3,
+  "unika_sku_som_försvinner": [],
+  "taggar_vid_arkivering": []
+ },
+ {
+  "grupp": 43,
+  "modell": "Tunturi fristående boxningssäck",
+  "beslut": "slå INTE ihop (osäker)",
+  "behåll_id": "10472259813642",
+  "behåll_nr": null,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [],
+  "arkivera_nr": [],
+  "kandidater_ej_sammanslagning": [
+   "10650165772554"
+  ],
+  "skäl": "Olika SKU-serier (14TUSBO073 och 14TUSBO096) och pris (5 539 mot 6 659 kr, +20 %). Olika modeller.",
+  "risk": "osäker",
+  "flaggor": "",
+  "lager_hos_dubbletter": 1,
+  "unika_sku_som_försvinner": [],
+  "taggar_vid_arkivering": []
+ },
+ {
+  "grupp": 44,
+  "modell": "Giant Shadow DX sadelväska",
+  "beslut": "slå INTE ihop (osäker)",
+  "behåll_id": "10461953425674",
+  "behåll_nr": null,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [],
+  "arkivera_nr": [],
+  "kandidater_ej_sammanslagning": [
+   "10472264073482"
+  ],
+  "skäl": "Behållaren har redan SKU …062 och …064 (svart). …063 (279 kr, lager 1) är troligen en tredje färg. Osäkert.",
+  "risk": "osäker",
+  "flaggor": "",
+  "lager_hos_dubbletter": 1,
+  "unika_sku_som_försvinner": [],
+  "taggar_vid_arkivering": []
+ },
+ {
+  "grupp": 45,
+  "modell": "Giant TCR Advanced 2 PC Carbon",
+  "beslut": "slå ihop",
+  "behåll_id": "10471084556554",
+  "behåll_nr": null,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [
+   "10471057719562",
+   "10472322138378"
+  ],
+  "arkivera_nr": [],
+  "kandidater_ej_sammanslagning": [],
+  "skäl": "Samma modell och årsmodell (2025), tre produkter med SKU 1096036146/-147/-148 (storlekar M/L, L, XL).",
+  "risk": "hög",
+  "flaggor": "HÖG: 10471057719562 har lager 4 (och 10471084556554 lager 1). Arkivering tar bort lager.",
+  "lager_hos_dubbletter": 4,
+  "unika_sku_som_försvinner": [
+   "1096036146",
+   "1096036148"
+  ],
+  "taggar_vid_arkivering": [
+   "sammanslagen"
+  ]
+ },
+ {
+  "grupp": 46,
+  "modell": "Kona Unity Gloss Future Dusk Blue",
+  "beslut": "redan arkiverad",
+  "behåll_id": "10530212937994",
+  "behåll_nr": null,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [
+   "10472334950666"
+  ],
+  "arkivera_nr": [],
+  "kandidater_ej_sammanslagning": [],
+  "skäl": "Dubbletten 10472334950666 är redan ARCHIVED (SKU B37UNYPUSHFA01). Behållaren 10530212937994 är taggad och aktiv. Ingen åtgärd utom taggen \"sammanslagen\" på den arkiverade.",
+  "risk": "låg",
+  "flaggor": "",
+  "lager_hos_dubbletter": 0,
+  "unika_sku_som_försvinner": [
+   "B37UNYPUSHFA01"
+  ],
+  "taggar_vid_arkivering": [
+   "sammanslagen"
+  ]
+ },
+ {
+  "grupp": 47,
+  "modell": "Gymstick Aktiv träningsmatta",
+  "beslut": "slå INTE ihop (osäker)",
+  "behåll_id": "10593397408010",
+  "behåll_nr": null,
+  "behåll_tagg_texter_klara": true,
+  "arkivera_ids": [],
+  "arkivera_nr": [],
+  "kandidater_ej_sammanslagning": [
+   "10581096759562"
+  ],
+  "skäl": "72003 (259 kr, lager 700) och 72004-BL/-PI (159 kr, lager 2) har olika SKU-serie och pris. Olika artiklar.",
+  "risk": "osäker",
+  "flaggor": "",
+  "lager_hos_dubbletter": 2,
+  "unika_sku_som_försvinner": [],
+  "taggar_vid_arkivering": []
+ }
+]
