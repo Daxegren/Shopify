@@ -1,0 +1,72 @@
+[
+ {
+  "id": "10472323940618",
+  "nr": 7049,
+  "skäl": "Titeln anger 'Youth bike' (ungdoms-/barncykel) medan källtexten beskriver en damcykel (Liv Tempt, XS 33 cm, 27.5 tum, hydrauliska bromsar); målgruppen är motsägande och barn-/ungdomsprodukter ska inte skrivas. Tas för hand."
+ },
+ {
+  "id": "10472325873930",
+  "nr": 7051,
+  "skäl": "Dubblett: samma modell och färg som 6029 (Mountainbike Giant Talon 2, 29 tum, Asfaltsgrön, annan produkt-id och SKU 1095009184). Går inte att ge unik titel, SEO-titel och meta utan påhittad skillnad. Fråga till David: är de dubbletter eller olika partier?"
+ },
+ {
+  "id": "10472331575562",
+  "nr": 7052,
+  "skäl": "Shimano GRX RX-820 är en elektronisk växelgrupp (Di2) med batteri; källan anger inte det men gruppnamnet gör att den ska hanteras som elektronik. Tas för hand med Davids ja."
+ },
+ {
+  "id": "10472333082890",
+  "nr": 7053,
+  "skäl": "Dubblett: samma modell och färg som 6045 (Mountainbike Giant Talon 2, 29 tum, Röd/Pure Red, annan produkt-id). Går inte att ge unik titel, SEO-titel och meta utan påhittad skillnad. Fråga till David: är de dubbletter eller olika partier?"
+ },
+ {
+  "id": "10472334950666",
+  "nr": 7054,
+  "skäl": "Produkten har status ARCHIVED i butiken (inte ACTIVE): överhoppad. Källan beskriver dessutom en bikepacking-cykel med integrerad främre pakethållare och lastkapacitet."
+ },
+ {
+  "id": "10472335376650",
+  "nr": 7055,
+  "skäl": "SRAM Force AXS (elektroniskt växelsystem med batteri) enligt källan; triathloncykel. Elektronik: tas för hand."
+ },
+ {
+  "id": "10472435024138",
+  "nr": 7057,
+  "skäl": "Shimano 105 Di2 (elektroniskt växelsystem med batteri) enligt källan. Elektronik: tas för hand."
+ },
+ {
+  "id": "10476044845322",
+  "nr": 7061,
+  "skäl": "Shimano 105 Di2 (elektroniskt växelsystem med batteri) enligt källan. Elektronik: tas för hand."
+ },
+ {
+  "id": "10476066701578",
+  "nr": 7062,
+  "skäl": "Shimano 105 Di2 (elektroniskt växelsystem med batteri) enligt källan. Elektronik: tas för hand."
+ },
+ {
+  "id": "10476107497738",
+  "nr": 7064,
+  "skäl": "Shimano 105 Di2 (elektroniskt växelsystem med batteri) enligt källan. Elektronik: tas för hand."
+ },
+ {
+  "id": "10476123521290",
+  "nr": 7065,
+  "skäl": "Shimano 105 Di2 (elektroniskt växelsystem med batteri) enligt källan. Elektronik: tas för hand."
+ },
+ {
+  "id": "10476145213706",
+  "nr": 7069,
+  "skäl": "SRAM RED AXS E1 (elektroniskt växelsystem med batteri) enligt källan; triathloncykel. Elektronik: tas för hand."
+ },
+ {
+  "id": "10476178669834",
+  "nr": 7070,
+  "skäl": "Shimano 105 Di2 (elektroniskt växelsystem med batteri) enligt källan. Elektronik: tas för hand."
+ },
+ {
+  "id": "10476214026506",
+  "nr": 7072,
+  "skäl": "Shimano Ultegra Di2 (elektroniskt växelsystem med batteri) enligt källan. Elektronik: tas för hand."
+ }
+]
