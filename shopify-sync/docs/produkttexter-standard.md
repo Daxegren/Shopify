@@ -115,3 +115,14 @@ Beslut av David: standarden gäller som utgångspunkt; 30 facit-produkter godkä
 - **Isskridskor** får skrivas på samma sätt när källan entydigt anger modell, typ och storlek/flex. Rullskridskor, inlines och barn-/juniorprodukter hålls utanför.
 - **Isbroddar och liknande grepphjälpmedel hålls utanför** (David: behåll).
 - Vinterprodukter prioriteras före övriga Velomarket-grupper under vintersäsongen. Frisläppta ids står i `rapporter/facit-bos-2026-10-31/vag2_skriv/frisläppta_vinter_2026-11-03.txt`.
+
+## 16. Faktatextläge för tidigare utestängda grupper (beslut av David 2026-11-03)
+David har frisläppt pakethållare, solglasögon, lås, hjälmar, elcyklar, sparkcyklar och belysning att skrivas i faktatextläge. Barnprodukter (barnhjälm, barncyklar, barnstolar, barnsparkcyklar) och kosttillskott är fortfarande utanför. Peltonen "Skridskor" som enligt källan är längdskidor skrivs som längdskidor.
+Regler för faktatextläget:
+1. Texten innehåller bara uppgifter som står entydigt i produktens egen källa (mått, material, vikt, färg, modell, uppgifter om kompatibilitet och ordinarie data).
+2. Inga påståenden om säkerhet, skydd, stöldskydd, synlighet, ögonskydd, UV-skydd, krocksäkerhet, stabilitet, bärförmåga, räckvidd, laddtid eller batteritid om de inte står i källan; då återges de ordagrant som "enligt tillverkaren" och utan egna tillägg. Standarder och märkningar (till exempel EN-standard, CE) återges bara om källan anger dem, som "enligt tillverkaren".
+3. Lastgräns och maxvikt (pakethållare, korgar, cykelstöd) återges oförändrat om källan anger det, annars utelämnas de. Texten får aldrig antyda att produkten tål mer.
+4. Elcyklar: motor, batteri och display återges bara som källan anger. Inga räckviddslöften och inga lagkrav (till exempel hastighetsklass) om källan inte anger dem.
+5. Hjälmar och lås: inga egna rekommendationer om användning eller säkerhetsnivå. Storlek (huvudomkrets) och typ får återges.
+6. Barnprodukter, produkter med motsägande eller maskinöversatt källa som inte går att skriva säkert, och dubbletter hålls utanför.
+7. Övriga regler i avsnitt 1–15 gäller (format, unikhet, standardblock, kort meta enligt avsnitt 14).
