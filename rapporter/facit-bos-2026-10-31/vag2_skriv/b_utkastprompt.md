@@ -8,3 +8,14 @@ Du är utkastagent (ENDAST LÄSNING i Shopify, ändra inget där, committa inget
 6. Skriv rapporter/facit-bos-2026-10-31/vag2_skriv/UT_FIL (JSON-lista; fält id, nr, titel, seo_title, meta, html, fakta, att_bekrafta; samma struktur som a_1_utkast.json) och lägg avvisade/överhoppade i rapporter/facit-bos-2026-10-31/vag2_skriv/AVV_FIL (id, nr, skäl). KONTROLLERA att UT_FIL inte redan finns innan du skriver; finns den, avbryt och rapportera.
 7. Kör shopify-sync/scripts/kontrollera_produkttext.py på en KOPIA där html mappats till beskrivning och standardblocket omgivits av [[STANDARDBLOCK]]…[[/STANDARDBLOCK]], med --seo-title-max 43 --seo-suffix " – BEST OF SPORTS" (skriptet läser fältet beskrivning, inte html). Rätta tills 0 FEL. Redovisa.
 8. Slutrapport i högst 10 rader: antal utkast, avvisade, vad som är tunt, vad som kontrollerats maskinellt.
+
+LÄRDOMAR FRÅN GRANSKNINGEN AV 400+ UTKAST (följ dem, det minskar rättningar):
+- Första meningen får aldrig vara cirkulär ("Exercise Ball är en träningsboll", "X Gloves är handskar"). Skriv vad produkten är OCH vad den har/används till, med uppgifter ur källan.
+- Första meningen i metan och i beskrivningen ska ha ett verb ("finns i", "har", "används till"). Inga verblösa fragment.
+- Ingen FAQ-sektion om den inte har direkt stöd i produktens egen källa. Kopiera aldrig en FAQ från en annan produkt.
+- Fältet `fakta` hämtas per produkt från live-källan; kopiera det aldrig från en annan produkt.
+- Kundtext får inte innehålla arbetstermer ("enligt produktnamnet", "enligt källan"). "Enligt tillverkaren" högst en gång per text.
+- Specifikationsrader ska ange fakta ("Material: PVC"), aldrig egenskaper som "Material: Slitstarkt".
+- Samma typord för samma sak i hela batchen (Gymtalk, Träningsboll, Foamroller, Massageboll, balansplatta).
+- Kontrollera artiklar och genus ("en gymtalk", "ett set med", "över hela kroppen").
+- SEO-titel och titel får inte dubbleras mellan produkter i din batch eller i andra b_*/c_* utkast.
