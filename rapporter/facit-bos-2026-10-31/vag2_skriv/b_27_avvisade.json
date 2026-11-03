@@ -1,0 +1,42 @@
+[
+ {
+  "id": "10468713464074",
+  "nr": 8201,
+  "skäl": "Monteringstjänst för träningsmaskin, inte en produkt med produkttext; källan saknar beskrivning."
+ },
+ {
+  "id": "10468713529610",
+  "nr": 8202,
+  "skäl": "Monteringstjänst för lastcykel; tjänst, inte en produkt med produkttext och säkerhetsrelaterad montering."
+ },
+ {
+  "id": "10468713595146",
+  "nr": 8203,
+  "skäl": "Monteringstjänst för stor träningsmaskin, inte en produkt med produkttext."
+ },
+ {
+  "id": "10472255717642",
+  "nr": 8204,
+  "skäl": "Cykelmonteringstjänst med garanti- och säkerhetsvillkor (slutmontering, bromsar, växlar); tjänst som tas för hand."
+ },
+ {
+  "id": "10472294547722",
+  "nr": 8205,
+  "skäl": "Sadelstolpsrack med angiven lastkapacitet (10 kg) och fäste på sadelstolpe; lastbärande pakethållare."
+ },
+ {
+  "id": "10494946279690",
+  "nr": 8206,
+  "skäl": "Barnprodukt (sparkcykel för barn) med belastningsgräns 100 kg och fotbroms; barn- och säkerhetsprodukt."
+ },
+ {
+  "id": "10472250114314",
+  "nr": 8221,
+  "skäl": "Framkorg/bagagehållare med maximal lastkapacitet 10 kg i källan; korg med lastgräns."
+ },
+ {
+  "id": "10472230387978",
+  "nr": 8226,
+  "skäl": "Källan motsäger sig: titeln säger Styckväska men texten beskriver en styrväska för montering på styret; kan inte skrivas utan att byta typ. Dessutom reflexdetaljer och belastningsuppgift."
+ }
+]
