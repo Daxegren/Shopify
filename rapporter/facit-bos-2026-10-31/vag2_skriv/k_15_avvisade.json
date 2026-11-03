@@ -1,0 +1,72 @@
+[
+ {
+  "id": "10565633769738",
+  "nr": 7123,
+  "skäl": "Elektroniskt växelsystem (Shimano 105 Di2, batteri). Avvisas enligt regeln för Di2/AXS/eTap."
+ },
+ {
+  "id": "10588451832074",
+  "nr": 7127,
+  "skäl": "Elektroniskt växelsystem (SRAM Red AXS, batteri). Avvisas."
+ },
+ {
+  "id": "10588452684042",
+  "nr": 7128,
+  "skäl": "Elektroniskt växelsystem (Shimano Ultegra Di2, batteri). Avvisas."
+ },
+ {
+  "id": "10598564692234",
+  "nr": 7131,
+  "skäl": "Dubblett av nr 7126 (Liv EnviLiv Advanced 2 (2027), Midnight Pine, samma modell och färg; titeln skiljer sig bara i typordet). Utkast finns för 7126."
+ },
+ {
+  "id": "10612594508042",
+  "nr": 7132,
+  "skäl": "El-trehjuling med motor (Bafang 250 W), batteri (LG 602 Wh) och hydrauliska skivbromsar. Elcykel/batteri/motor, avvisas."
+ },
+ {
+  "id": "10612594540810",
+  "nr": 7133,
+  "skäl": "El-trehjuling med motor (Bafang 250 W) och batteri (LG 602 Wh). Elcykel/batteri/motor, avvisas."
+ },
+ {
+  "id": "10624087490826",
+  "nr": 7134,
+  "skäl": "Elektroniskt växelsystem (Shimano 105 Di2, batteri). Avvisas."
+ },
+ {
+  "id": "10624087523594",
+  "nr": 7135,
+  "skäl": "Elektroniskt växelsystem (Shimano 105 Di2, batteri). Avvisas."
+ },
+ {
+  "id": "10624087556362",
+  "nr": 7136,
+  "skäl": "Elektroniskt växelsystem (Shimano Ultegra Di2, batteri). Avvisas."
+ },
+ {
+  "id": "10624087621898",
+  "nr": 7137,
+  "skäl": "Källan motsäger sig: växelsystem anges som Shimano 105 men bromsarna som Shimano 105 Di2 (elektroniskt, batteri). Går inte att avgöra om växlingen är elektronisk. Avvisas; tas för hand."
+ },
+ {
+  "id": "10624087654666",
+  "nr": 7138,
+  "skäl": "Elektroniskt växelsystem (SRAM Rival AXS E1, batteri). Avvisas."
+ },
+ {
+  "id": "10624087752970",
+  "nr": 7139,
+  "skäl": "Dubblett av nr 7137 (Defy Advanced 2 (2027), Pearl White, samma modell och färg) och samma motsägelse (Shimano 105 / 105 Di2). Avvisas."
+ },
+ {
+  "id": "10624087785738",
+  "nr": 7140,
+  "skäl": "Elektroniskt växelsystem (Shimano Ultegra Di2, batteri). Dessutom dubblett av nr 7136 (Defy Advanced Pro 0, Luminous Lagoon). Avvisas."
+ },
+ {
+  "id": "10624087818506",
+  "nr": 7141,
+  "skäl": "Elektroniskt växelsystem (SRAM Rival AXS E1, batteri). Dessutom dubblett av nr 7138 (Defy Advanced Pro 1, Midnight Moon). Avvisas."
+ }
+]
