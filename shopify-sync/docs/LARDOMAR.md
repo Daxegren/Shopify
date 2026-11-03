@@ -7,6 +7,10 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 
 ---
 
+### 2026-11-03: Samma fel i skrivfil 20: lika titel betyder inte skriven (våg 2b, produkt 10589704749322)
+- **Vad hände:** produkt 8912 i skrivfil 20 hade rätt titel men gammal seo-titel, metabeskrivning och beskrivning. Regeln "hoppa över när titeln är lika" följdes inte, eftersom den bygger på ett antagande som inte stämde. Produkten skrevs med resten av filen och redovisas i rapporten.
+- **Regel:** innan en produkt hoppas över, jämför alla fält som skrivfilen ändrar (titel, seo, meta, beskrivning) mot live. Titel ensam räcker inte som bevis för att produkten är skriven. Avvikelse från regeln redovisas.
+
 ### 2026-11-03: Skrivprompten hoppade över produkter med lika titel och lämnade gamla texter kvar (våg 2b, skrivfil 17)
 - **Vad hände:** skrivprompten sade att produkter vars titel redan är lika skrivfilens ska hoppas över. Tre produkter i skrivfil 17 hade rätt titel men gammal beskrivning och meta. Koordinatorn beslutade att de ska skrivas om och verifieras.
 - **Regel:** "titel lika" är inte ett bevis på att texten är skriven. Hoppa över en produkt bara på bevis för att hela posten (titel, seo, beskrivning) är lika, eller låt koordinatorn besluta.
