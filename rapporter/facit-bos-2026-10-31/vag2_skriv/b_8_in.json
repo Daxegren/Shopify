@@ -1,107 +1,177 @@
 [
  {
-  "id": "10470910624010",
-  "nr": 5106,
-  "titel_25okt": "Sadel SELLE Monte Grappa MYO, svart",
-  "vendor": "Selle Monte Grappa",
-  "typ": "Tillbehör"
- },
- {
-  "id": "10472228454666",
-  "nr": 5107,
-  "titel_25okt": "Pedaler GIANT Pinner Elite, grön",
-  "vendor": "Giant",
-  "typ": "Tillbehör"
- },
- {
-  "id": "10472251851018",
-  "nr": 5108,
-  "titel_25okt": "Pakväska Basil City, 28-32L, dubbelsidig, brun",
-  "vendor": "Basil",
-  "typ": "Tillbehör"
- },
- {
-  "id": "10472253358346",
-  "nr": 5109,
-  "titel_25okt": "Sadel SELLE MONTE GRAPPA Ramona, svart",
-  "vendor": "Selle Monte Grappa",
-  "typ": "Tillbehör"
- },
- {
-  "id": "10472255848714",
-  "nr": 5110,
-  "titel_25okt": "Handskar Prinsessa, rosa",
-  "vendor": "SevenPolska",
-  "typ": "Tillbehör"
- },
- {
-  "id": "10472485519626",
-  "nr": 5111,
-  "titel_25okt": "Golvpump GIANT Control Tower Elite",
-  "vendor": "Giant",
-  "typ": "Tillbehör"
- },
- {
-  "id": "10565562007818",
-  "nr": 5112,
-  "titel_25okt": "Handpump BETO Alu CCO-018AG med tryckmätare",
-  "vendor": "Beto",
-  "typ": "Tillbehör"
- },
- {
-  "id": "10462175101194",
-  "nr": 5113,
-  "titel_25okt": "Baklykta för skärm AXA Go Steady",
-  "vendor": "AXA",
-  "typ": "Tillbehör"
- },
- {
-  "id": "10472217477386",
-  "nr": 5114,
-  "titel_25okt": "Scraper Start acrylic 3 mm",
-  "vendor": "Start",
-  "typ": "Tillbehör"
- },
- {
-  "id": "10472222425354",
-  "nr": 5115,
-  "titel_25okt": "Styckväska Basil Magnolia City Bag, 7 l",
-  "vendor": "Basil",
-  "typ": "Tillbehör"
- },
- {
   "id": "10472232091914",
-  "nr": 5116,
+  "nr": 5226,
   "titel_25okt": "Giant Speedshield Clip-On Rear Fender",
   "vendor": "Giant",
   "typ": "Tillbehör"
  },
  {
   "id": "10472246771978",
-  "nr": 5117,
+  "nr": 5227,
   "titel_25okt": "Fender set HEBIE Viper F, 26\"-29\", black",
   "vendor": "Hebie",
   "typ": "Tillbehör"
  },
  {
   "id": "10472248181002",
-  "nr": 5118,
+  "nr": 5228,
   "titel_25okt": "Cykelklocka Musse Pigg, gul",
   "vendor": "SevenPolska",
   "typ": "Tillbehör"
  },
  {
   "id": "10472256110858",
-  "nr": 5119,
+  "nr": 5229,
   "titel_25okt": "Cykelklocka Wish, lila",
   "vendor": "SevenPolska",
   "typ": "Tillbehör"
  },
  {
   "id": "10472287043850",
-  "nr": 5120,
+  "nr": 5230,
   "titel_25okt": "Paw Patrol gloves, pink",
   "vendor": "SevenPolska",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10472295694602",
+  "nr": 5231,
+  "titel_25okt": "Kettlukk AXA Absolute 5-150",
+  "vendor": "AXA",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10472522023178",
+  "nr": 5232,
+  "titel_25okt": "Cykelkorg/frontkorg BASIL Nordland MIK, svart/trä",
+  "vendor": "Basil",
+  "typ": "Cykeltillbehör"
+ },
+ {
+  "id": "10487987699978",
+  "nr": 5233,
+  "titel_25okt": "Stänkskärmset HEBIE Alumee 40mm",
+  "vendor": "Hebie",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10494689411338",
+  "nr": 5234,
+  "titel_25okt": "Framskärm XLC MG-C05, för hjul med 26-29\"",
+  "vendor": "XLC",
+  "typ": "Stänkskärmar"
+ },
+ {
+  "id": "10635765743882",
+  "nr": 5235,
+  "titel_25okt": "Cykelskydd OXFORD Bicycle Cover Aquatex",
+  "vendor": "Oxford",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10472224653578",
+  "nr": 5236,
+  "titel_25okt": "Sadelväska BASIL DISCOVERY 365D, S - 0,5 l, grå",
+  "vendor": "Basil",
+  "typ": "Cykelväskor"
+ },
+ {
+  "id": "10472251228426",
+  "nr": 5237,
+  "titel_25okt": "Bagagekorg BASIL Base M MIK, svart",
+  "vendor": "Basil",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10472293957898",
+  "nr": 5238,
+  "titel_25okt": "Framkorg/bagagekorg, BASIL Crate S, 17,5 liter, svart",
+  "vendor": "Basil",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10475364909322",
+  "nr": 5239,
+  "titel_25okt": "Fatbike fenders SKS Fatboard",
+  "vendor": "SKS",
+  "typ": "Stänkskärmar"
+ },
+ {
+  "id": "10475428872458",
+  "nr": 5240,
+  "titel_25okt": "Liv Short N Snug strumpor för dam",
+  "vendor": "Giant",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10494688952586",
+  "nr": 5241,
+  "titel_25okt": "Pedaler Giant Pinner Pro MTB",
+  "vendor": "Giant",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10515737739530",
+  "nr": 5242,
+  "titel_25okt": "Ljusset GIANT RECON HL 100 & TL 100 COMBO",
+  "vendor": "Giant",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10515737903370",
+  "nr": 5243,
+  "titel_25okt": "Ljusset GIANT CAST 10 COMBO",
+  "vendor": "Giant",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10468721033482",
+  "nr": 5244,
+  "titel_25okt": "Fenders SKS Speedrocker 27.5\"-28\", 42 mm",
+  "vendor": "SKS",
+  "typ": "Skärmar"
+ },
+ {
+  "id": "10470908264714",
+  "nr": 5245,
+  "titel_25okt": "GIANT Connect Gel Handtagstejp, vit/röd",
+  "vendor": "Giant",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10472249753866",
+  "nr": 5246,
+  "titel_25okt": "Handväska med pakethållarfäste BASIL GRAND Bicycle Shopper, 23 L",
+  "vendor": "Basil",
+  "typ": "Cykelväskor"
+ },
+ {
+  "id": "10472250671370",
+  "nr": 5247,
+  "titel_25okt": "Frontkorg Musse, grön",
+  "vendor": "SevenPolska",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10472253653258",
+  "nr": 5248,
+  "titel_25okt": "Skirt protector SELLE MONTE GRAPPA, black, leather",
+  "vendor": "Selle Monte Grappa",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10472254177546",
+  "nr": 5249,
+  "titel_25okt": "Skirt protector SELLE MONTE GRAPPA, light brown, made of leather",
+  "vendor": "Selle Monte Grappa",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10472254669066",
+  "nr": 5250,
+  "titel_25okt": "Sadel SELLE Monte Grappa Corvetta, grå",
+  "vendor": "Selle Monte Grappa",
   "typ": "Tillbehör"
  }
 ]

@@ -1,107 +1,177 @@
 [
  {
-  "id": "10472295694602",
-  "nr": 5121,
-  "titel_25okt": "Kettlukk AXA Absolute 5-150",
-  "vendor": "AXA",
+  "id": "10472254898442",
+  "nr": 5251,
+  "titel_25okt": "Sadel SELLE MONTE GRAPPA 07F, svart",
+  "vendor": "Selle Monte Grappa",
   "typ": "Tillbehör"
  },
  {
-  "id": "10472522023178",
-  "nr": 5122,
-  "titel_25okt": "Cykelkorg/frontkorg BASIL Nordland MIK, svart/trä",
-  "vendor": "Basil",
-  "typ": "Cykeltillbehör"
+  "id": "10472256143626",
+  "nr": 5252,
+  "titel_25okt": "Frontkorg Wish, lila",
+  "vendor": "SevenPolska",
+  "typ": "Tillbehör"
  },
  {
-  "id": "10487987699978",
-  "nr": 5123,
-  "titel_25okt": "Stänkskärmset HEBIE Alumee 40mm",
+  "id": "10472286224650",
+  "nr": 5253,
+  "titel_25okt": "Cykeldekorationer Stitch, färgglad",
+  "vendor": "SevenPolska",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10472303067402",
+  "nr": 5254,
+  "titel_25okt": "Reflexer BOOKMAN Reflective Snap Bands för arm och ben, svart",
+  "vendor": "Bookman",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10472303788298",
+  "nr": 5255,
+  "titel_25okt": "Reflexklistermärken för cykel BOOKMAN Reflective Stickers for Bicycles, Black Zebra",
+  "vendor": "Bookman",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10475418452234",
+  "nr": 5256,
+  "titel_25okt": "Dricksflaska GIANT ARX 400ML ORANGE",
+  "vendor": "Giant",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10487987765514",
+  "nr": 5257,
+  "titel_25okt": "Stänkskärmset HEBIE Alumee 52mm",
   "vendor": "Hebie",
   "typ": "Tillbehör"
  },
  {
-  "id": "10494689411338",
-  "nr": 5124,
-  "titel_25okt": "Framskärm XLC MG-C05, för hjul med 26-29\"",
-  "vendor": "XLC",
-  "typ": "Stänkskärmar"
- },
- {
-  "id": "10635765743882",
-  "nr": 5125,
-  "titel_25okt": "Cykelskydd OXFORD Bicycle Cover Aquatex",
-  "vendor": "Oxford",
+  "id": "10487987798282",
+  "nr": 5258,
+  "titel_25okt": "Stänkskärmsset HEBIE Alumee 62mm",
+  "vendor": "Hebie",
   "typ": "Tillbehör"
  },
  {
-  "id": "10472224653578",
-  "nr": 5126,
-  "titel_25okt": "Sadelväska BASIL DISCOVERY 365D, S - 0,5 l, grå",
+  "id": "10515739705610",
+  "nr": 5259,
+  "titel_25okt": "Flaskhållare GIANT AIRWAY COMPOSITE Svart/Orange/Rosa, svart-orange-rosa",
+  "vendor": "Giant",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10530129445130",
+  "nr": 5260,
+  "titel_25okt": "Fuses Cars, red",
+  "vendor": "SevenPolska",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10554362659082",
+  "nr": 5261,
+  "titel_25okt": "Baklykta GIANT Recon+ TL 300",
+  "vendor": "Giant",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10462768595210",
+  "nr": 5262,
+  "titel_25okt": "Floor pump SKS AIR-X-PRESS 8.0",
+  "vendor": "Velomarket",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10470902857994",
+  "nr": 5263,
+  "titel_25okt": "Front fender HEBIE Swap Front \"Adrenaline\", 26\"-",
+  "vendor": "Hebie",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10471174832394",
+  "nr": 5264,
+  "titel_25okt": "Reflexklistermärken för cykel BOOKMAN Reflective Stickers for Bicycles, White Leopard",
+  "vendor": "Bookman",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10472224915722",
+  "nr": 5265,
+  "titel_25okt": "Sadelväska BASIL NAVIGATOR STORM, M - 1,5 l",
   "vendor": "Basil",
   "typ": "Cykelväskor"
  },
  {
-  "id": "10472251228426",
-  "nr": 5127,
-  "titel_25okt": "Bagagekorg BASIL Base M MIK, svart",
-  "vendor": "Basil",
+  "id": "10472233435402",
+  "nr": 5266,
+  "titel_25okt": "Handpump LIV CONTROL MINI+ SILVER",
+  "vendor": "Liv",
+  "typ": "Minipump"
+ },
+ {
+  "id": "10472250376458",
+  "nr": 5267,
+  "titel_25okt": "Pedaler GIANT Pinner Elite, lila",
+  "vendor": "Giant",
   "typ": "Tillbehör"
  },
  {
-  "id": "10472293957898",
-  "nr": 5128,
-  "titel_25okt": "Framkorg/bagagekorg, BASIL Crate S, 17,5 liter, svart",
-  "vendor": "Basil",
+  "id": "10472252375306",
+  "nr": 5268,
+  "titel_25okt": "LIV Contact SL styretape, vit",
+  "vendor": "Liv",
   "typ": "Tillbehör"
  },
  {
-  "id": "10475364909322",
-  "nr": 5129,
-  "titel_25okt": "Fatbike fenders SKS Fatboard",
+  "id": "10472254013706",
+  "nr": 5269,
+  "titel_25okt": "Sadel SELLE MONTE GRAPPA Ramona, brun",
+  "vendor": "Selle Monte Grappa",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10472257388810",
+  "nr": 5270,
+  "titel_25okt": "Handskar LIV Supreme SF, svart",
+  "vendor": "Liv",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10472267448586",
+  "nr": 5271,
+  "titel_25okt": "Headlight GIANT HL600",
+  "vendor": "Giant",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10472286257418",
+  "nr": 5272,
+  "titel_25okt": "Fuses Avengers, blå",
+  "vendor": "SevenPolska",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10472294940938",
+  "nr": 5273,
+  "titel_25okt": "Pedaler GIANT Combo Touring Pedal",
+  "vendor": "Giant",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10475978653962",
+  "nr": 5274,
+  "titel_25okt": "Flaskhållaradapter SKS, för sadelstolpe",
   "vendor": "SKS",
-  "typ": "Stänkskärmar"
- },
- {
-  "id": "10475428872458",
-  "nr": 5130,
-  "titel_25okt": "Liv Short N Snug strumpor för dam",
-  "vendor": "Giant",
   "typ": "Tillbehör"
  },
  {
-  "id": "10494688952586",
-  "nr": 5131,
-  "titel_25okt": "Pedaler Giant Pinner Pro MTB",
-  "vendor": "Giant",
-  "typ": "Tillbehör"
- },
- {
-  "id": "10515737739530",
-  "nr": 5132,
-  "titel_25okt": "Ljusset GIANT RECON HL 100 & TL 100 COMBO",
-  "vendor": "Giant",
-  "typ": "Tillbehör"
- },
- {
-  "id": "10515737903370",
-  "nr": 5133,
-  "titel_25okt": "Ljusset GIANT CAST 10 COMBO",
-  "vendor": "Giant",
-  "typ": "Tillbehör"
- },
- {
-  "id": "10468721033482",
-  "nr": 5134,
-  "titel_25okt": "Fenders SKS Speedrocker 27.5\"-28\", 42 mm",
-  "vendor": "SKS",
-  "typ": "Skärmar"
- },
- {
-  "id": "10470908264714",
-  "nr": 5135,
-  "titel_25okt": "GIANT Connect Gel Handtagstejp, vit/röd",
-  "vendor": "Giant",
+  "id": "10475980161290",
+  "nr": 5275,
+  "titel_25okt": "Cykelkorg Basil Cairo Luxe för pakethållare",
+  "vendor": "Basil",
   "typ": "Tillbehör"
  }
 ]

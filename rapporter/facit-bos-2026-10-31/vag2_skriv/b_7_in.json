@@ -1,107 +1,177 @@
 [
  {
   "id": "10472284422410",
-  "nr": 5091,
+  "nr": 5201,
   "titel_25okt": "Väska för Basil Mali styre, 8L",
   "vendor": "Basil",
   "typ": "Tillbehör"
  },
  {
   "id": "10472292647178",
-  "nr": 5092,
+  "nr": 5202,
   "titel_25okt": "Ramväska BASIL Navigator Storm S, 0,8 liter",
   "vendor": "Basil",
   "typ": "Tillbehör"
  },
  {
   "id": "10472347042058",
-  "nr": 5093,
+  "nr": 5203,
   "titel_25okt": "Bicycle at Basil Portland",
   "vendor": "Basil",
   "typ": "Tillbehör"
  },
  {
   "id": "10589571744010",
-  "nr": 5094,
+  "nr": 5204,
   "titel_25okt": "Stänkskärmset HEBIE Swap Set, 26\"-29\", vikbart, kamouflage",
   "vendor": "Hebie",
   "typ": "Tillbehör"
  },
  {
   "id": "10461953425674",
-  "nr": 5095,
+  "nr": 5205,
   "titel_25okt": "Saddle bag Giant Shadow DX",
   "vendor": "Giant",
   "typ": "Cykelväskor"
  },
  {
   "id": "10462230970634",
-  "nr": 5096,
+  "nr": 5206,
   "titel_25okt": "BASIL BUDDY mesh för husdjurskorg",
   "vendor": "Basil",
   "typ": "Tillbehör"
  },
  {
   "id": "10462806409482",
-  "nr": 5097,
+  "nr": 5207,
   "titel_25okt": "Cykelklocka Avengers, mörkblå",
   "vendor": "SevenPolska",
   "typ": "Tillbehör"
  },
  {
   "id": "10470936740106",
-  "nr": 5098,
+  "nr": 5208,
   "titel_25okt": "Flaskhållare GIANT AIRWAY SPORT Matt Svart/Blank Blå, matt svart/blank blå",
   "vendor": "Giant",
   "typ": "Tillbehör"
  },
  {
   "id": "10471174668554",
-  "nr": 5099,
+  "nr": 5209,
   "titel_25okt": "BOOKMAN Reflexklistermärken för cyklar, vita prickar",
   "vendor": "Bookman",
   "typ": "Tillbehör"
  },
  {
   "id": "10472232059146",
-  "nr": 5100,
+  "nr": 5210,
   "titel_25okt": "Bakskärm GIANT UNICLIP FENDER, kan fästas på sadeln",
   "vendor": "Giant",
   "typ": "Tillbehör"
  },
  {
   "id": "10472249524490",
-  "nr": 5101,
+  "nr": 5211,
   "titel_25okt": "Styckväska BASIL City MIK 8-11L, svart",
   "vendor": "Basil",
   "typ": "Tillbehör"
  },
  {
   "id": "10475415044362",
-  "nr": 5102,
+  "nr": 5212,
   "titel_25okt": "Dricksflaska GIANT DOUBLESPRING 750cc TRANSPARENT RÖD/SVART",
   "vendor": "Giant",
   "typ": "Flaskor och hållare"
  },
  {
   "id": "10494699208970",
-  "nr": 5103,
+  "nr": 5213,
   "titel_25okt": "Dricksflaska GIANT DOUBLESPRING 600cc TRANSPARENT RÖD/SVART",
   "vendor": "Giant",
   "typ": "Flaskor och hållare"
  },
  {
   "id": "10541370212618",
-  "nr": 5104,
+  "nr": 5214,
   "titel_25okt": "Framkorg BASIL Rattan Look FM, Sjögräs",
   "vendor": "Basil",
   "typ": "Tillbehör"
  },
  {
   "id": "10665228075274",
-  "nr": 5105,
+  "nr": 5215,
   "titel_25okt": "Reflekterande klistermärken för cykel BOOKMAN Reflective Stickers for Bicycles, Black Flames",
   "vendor": "Bookman",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10470910624010",
+  "nr": 5216,
+  "titel_25okt": "Sadel SELLE Monte Grappa MYO, svart",
+  "vendor": "Selle Monte Grappa",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10472228454666",
+  "nr": 5217,
+  "titel_25okt": "Pedaler GIANT Pinner Elite, grön",
+  "vendor": "Giant",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10472251851018",
+  "nr": 5218,
+  "titel_25okt": "Pakväska Basil City, 28-32L, dubbelsidig, brun",
+  "vendor": "Basil",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10472253358346",
+  "nr": 5219,
+  "titel_25okt": "Sadel SELLE MONTE GRAPPA Ramona, svart",
+  "vendor": "Selle Monte Grappa",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10472255848714",
+  "nr": 5220,
+  "titel_25okt": "Handskar Prinsessa, rosa",
+  "vendor": "SevenPolska",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10472485519626",
+  "nr": 5221,
+  "titel_25okt": "Golvpump GIANT Control Tower Elite",
+  "vendor": "Giant",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10565562007818",
+  "nr": 5222,
+  "titel_25okt": "Handpump BETO Alu CCO-018AG med tryckmätare",
+  "vendor": "Beto",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10462175101194",
+  "nr": 5223,
+  "titel_25okt": "Baklykta för skärm AXA Go Steady",
+  "vendor": "AXA",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10472217477386",
+  "nr": 5224,
+  "titel_25okt": "Scraper Start acrylic 3 mm",
+  "vendor": "Start",
+  "typ": "Tillbehör"
+ },
+ {
+  "id": "10472222425354",
+  "nr": 5225,
+  "titel_25okt": "Styckväska Basil Magnolia City Bag, 7 l",
+  "vendor": "Basil",
   "typ": "Tillbehör"
  }
 ]
