@@ -1,0 +1,87 @@
+[
+ {
+  "id": "10480054796554",
+  "nr": 6151,
+  "skäl": "Barncykel: taggen Barncykel, 'ditt barns ansikte', 'flickor från 10 år', ramstorlek 34 cm. Barnprodukt, avvisas. Setet inkluderar dessutom ramlås och pakethållare."
+ },
+ {
+  "id": "10486812344586",
+  "nr": 6152,
+  "skäl": "Ungdomscykel: källan säger 'ungdomscykel ... för unga pojkar', taggen ungdom, ramstorlek M 43,2 cm för förare 150–165 cm. Barn-/ungdomsprodukt, avvisas."
+ },
+ {
+  "id": "10462767284490",
+  "nr": 6156,
+  "skäl": "Cykeldäck (Continental Ride Tour 42-622): däck är säkerhetskritiskt; källan saknar dessutom beskrivning (bara titel)."
+ },
+ {
+  "id": "10472245461258",
+  "nr": 6157,
+  "skäl": "Cykeldäck (Continental Ride Tour 32-630): säkerhetskritiskt däck med påståenden om grepp och punkteringsskydd."
+ },
+ {
+  "id": "10494697406730",
+  "nr": 6158,
+  "skäl": "Cykeldator (trådlös, elektronik med batteri, 13 funktioner): elektronik avvisas."
+ },
+ {
+  "id": "10494697373962",
+  "nr": 6159,
+  "skäl": "Cykeldator (trådlös, batteriindikator, 9 funktioner): elektronik med batteri avvisas."
+ },
+ {
+  "id": "10494687805706",
+  "nr": 6161,
+  "skäl": "Pedaler (landsvägspedaler): pedaler är säkerhetskritiska och bär last. Avvisas."
+ },
+ {
+  "id": "10470906822922",
+  "nr": 6162,
+  "skäl": "Pedaler (Flipside, SPD-kompatibla): pedaler avvisas enligt specialreglerna."
+ },
+ {
+  "id": "10494688329994",
+  "nr": 6163,
+  "skäl": "Pedaler (plattformspedaler MTB): pedaler avvisas enligt specialreglerna."
+ },
+ {
+  "id": "10468704420106",
+  "nr": 6164,
+  "skäl": "Pedaler (Road Elite, Look KEO): pedaler avvisas. Källtexten motsäger titeln ('landsvägscykelsadlar')."
+ },
+ {
+  "id": "10472285405450",
+  "nr": 6166,
+  "skäl": "Pedaler (Kona Wah Wah 2): pedaler avvisas enligt specialreglerna."
+ },
+ {
+  "id": "10472358248714",
+  "nr": 6167,
+  "skäl": "Pedaler (Kona Wah Wah 2): pedaler avvisas enligt specialreglerna."
+ },
+ {
+  "id": "10494696161546",
+  "nr": 6170,
+  "skäl": "Överhoppad: status ARCHIVED i live-hämtningen (inte ACTIVE). Pedalblock/pedaldel, tom beskrivning."
+ },
+ {
+  "id": "10472284979466",
+  "nr": 6171,
+  "skäl": "Pedalblock (Look Keo Grip): pedaldel som bär last; tom beskrivning. Avvisas."
+ },
+ {
+  "id": "10494695932170",
+  "nr": 6172,
+  "skäl": "Överhoppad: status ARCHIVED i live-hämtningen (inte ACTIVE). Pedalblock, tom beskrivning."
+ },
+ {
+  "id": "10472258797834",
+  "nr": 6173,
+  "skäl": "Pedaler (Look Keo 2 Max): pedaler avvisas enligt specialreglerna."
+ },
+ {
+  "id": "10472189788426",
+  "nr": 6175,
+  "skäl": "Dubbdäck (Schwalbe Winter): säkerhetskritiskt däck med belastningsuppgift (maximal belastning 100 kg). Källan motsäger också sig (titel 1.85 tum, tabell 1.75 tum). Avvisas."
+ }
+]
