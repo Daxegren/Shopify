@@ -1,5 +1,10 @@
 [
  {
+  "id": "10502528172298",
+  "nr": 7097,
+  "skäl": "Dubblett av nr 7088 (Liv Avail AR 1, Sandshell/Cold Night) som redan skrivits i k_13_utkast; samma modell och färg."
+ },
+ {
   "id": "10502528237834",
   "nr": 7099,
   "skäl": "Dubblett av nr 6027 (Giant Talon 1, Charcoal = Kolgrå) som redan är godkänd i k_2/k_skriv_1; samma modell och färg, ingen unik titel möjlig utan att hitta på uppgifter."
@@ -8,6 +13,11 @@
   "id": "10502528270602",
   "nr": 7100,
   "skäl": "Dubblett av nr 7106 (Giant Contend AR 2, Thundercloud); 7106 skrivs. Varianten M / blue (SKU 1024026185) motsäger också titelns Thundercloud."
+ },
+ {
+  "id": "10507440783626",
+  "nr": 7102,
+  "skäl": "Dubblett av nr 7091 (Giant Propel Advanced 2 (2027), Vit) som redan skrivits i k_13_utkast; nr 7113 och 7120 är också dubbletter."
  },
  {
   "id": "10523479179530",
@@ -42,7 +52,7 @@
  {
   "id": "10530216771850",
   "nr": 7113,
-  "skäl": "Dubblett av nr 7102 (Giant Propel Advanced 2 (2027), Vit); bara SKU skiljer."
+  "skäl": "Dubblett av nr 7091 (Giant Propel Advanced 2 (2027), Vit) som skrivits i k_13_utkast; bara SKU skiljer."
  },
  {
   "id": "10548291469578",
@@ -60,8 +70,13 @@
   "skäl": "Dubblett av nr 6028 (Giant Talon 1, Metallic Blue = Metallicblå) som redan är godkänd i k_2/k_skriv_1."
  },
  {
+  "id": "10561355907338",
+  "nr": 7119,
+  "skäl": "Dubblett av nr 7086 (Giant XTC Advanced 29 2, Purple Haze) som redan skrivits i k_13_utkast."
+ },
+ {
   "id": "10561356398858",
   "nr": 7120,
-  "skäl": "Dubblett av nr 7102 (Giant Propel Advanced 2 (2027), Vit); bara SKU skiljer."
+  "skäl": "Dubblett av nr 7091 (Giant Propel Advanced 2 (2027), Vit) som skrivits i k_13_utkast; bara SKU skiljer."
  }
 ]
