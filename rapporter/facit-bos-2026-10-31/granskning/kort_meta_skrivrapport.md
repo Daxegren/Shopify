@@ -2,9 +2,18 @@
 
 Datum: 2026-11-03. Butik: BEST OF SPORTS (bestofsports.se, verifierad med get-shop-info). Skrivfil: `rapporter/facit-bos-2026-10-31/vag2_skriv/kort_meta_skriv.json`. Före-läge: `rapporter/shopify-original-2026-11-03/kort_meta_fore.json`.
 
-## Status: avbruten efter 43 av 117 produkter
+## Status 2026-11-03 (uppdaterad efter koordinatorns besked): stoppad, 4 produkter felaktiga i Shopify
 
-Avbrottet följer regeln "avbryt vid första avvikelse". Avvikelsen orsakades av mig.
+- Verifierat rätt (läst tillbaka och jämfört i python): 102 produkter (filindex 0–85 samt 16 av batchen 86–105). Av dessa rättades 8054, 3030 och 3039 med skriptets utskrift, och de är verifierade.
+- Skrivet men felaktigt i Shopify (fel i mina handskrivna variabler, rättningen blev också fel): 10581109932298 (nr 3175, "balansuträning"), 10581112226058 (nr 3227, "draövningar"), 10581112422666 (nr 3232, "grepposition"), 10581119467786 (nr 3261, "stretchingsövningar"). Filens text är rätt i skrivfilen. Titlarna är oförändrade.
+- Inte skrivna: 11 produkter (filindex 106–116).
+- Orsak: mutationens text skrivs för hand i verktygsanropet. Skriptet skriver ut variablerna, men jag kan inte kopiera dem exakt. Under körningen gjorde jag 9 skrivfel i handskrivna variabler, i 7 produkter. Flera rättningsförsök införde nya fel. Jag ska inte göra fler skrivningar med den metoden.
+- Ej rättat ännu: 10581109932298 har nu även "balansuträning" (enligt skrivsvaret). Ingen ny skrivning har gjorts efter det.
+- Nästa steg (kräver ett beslut): antingen skrivs de 4 felaktiga och de 11 återstående av något annat slag (till exempel ett skript som kan skicka mutationen själv, om det finns ett sådant verktyg), eller så görs det av någon som kan kopiera utskriften.
+
+## Tidigare status: avbruten efter 43 av 117 produkter
+
+Avbrottet följde regeln "avbryt vid första avvikelse". Avvikelsen orsakades av mig.
 
 ## Vad som gjordes
 
