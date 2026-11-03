@@ -1,0 +1,577 @@
+[
+ {
+  "nr": 5201,
+  "id": "10472284422410",
+  "fil": "b_7_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Materialet är vattenavvisande, så tillhörigheterna hålls torra även i regnigt väder.",
+    "efter": "Materialet är vattenavvisande och ska enligt tillverkaren hålla tillhörigheterna torra även i regnigt väder."
+   }
+  },
+  "skal": "Stämmer mot källan, ingen lastgräns i källan. Löftet att tillhörigheterna hålls torra är ett tillverkarpåstående och markeras."
+ },
+ {
+  "nr": 5202,
+  "id": "10472292647178",
+  "fil": "b_7_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer. IPX3 skrivs enligt tillverkaren, den obegripliga meningen om vad väskan rymmer är rätt utelämnad."
+ },
+ {
+  "nr": 5203,
+  "id": "10472347042058",
+  "fil": "b_7_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Butikstiteln 'Bicycle at Basil Portland' är trasig; källtexten och taggen 'ringklocka' bekräftar typordet Cykelklocka. Tunn källa rätt hanterad (ingen meta)."
+ },
+ {
+  "nr": 5204,
+  "id": "10589571744010",
+  "fil": "b_7_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Hebie Swap Set är ett stänkskärmsset med bak- och framskärm. Bakskärmen är ca 57 cm lång, 13 cm bred och fästs på sadelstolpen med snabbkoppling.",
+    "efter": "Hebie Swap Set är ett stänkskärmset med bak- och framskärm. Bakskärmen är ca 57 cm lång och 13 cm bred och går snabbt att ta av med snabbkopplingen."
+   },
+   "html": {
+    "fore": "Hebie Swap Set är ett stänkskärmsset med bakskärm och framskärm.",
+    "efter": "Hebie Swap Set är ett stänkskärmset med bakskärm och framskärm."
+   }
+  },
+  "skal": "Stavningen skiljer sig mellan titeln (Stänkskärmset, som i övriga godkända Hebie-set) och meta/html (stänkskärmsset). Metan påstod att skärmen fästs med snabbkoppling; enligt källan fästs den med 4 skruvar och snabbkopplingen används för att ta av skärmen. Hjulstorleken 26–29 tum står i butikstiteln och skrivs enligt tillverkaren (Davids beslut om stänkskärmar)."
+ },
+ {
+  "nr": 5205,
+  "id": "10461953425674",
+  "fil": "b_7_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p>",
+    "efter": "Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder. Beställningsvaror kan ta upp till en vecka längre.</p>"
+   }
+  },
+  "skal": "Produkten har taggen 'På beställning' men standardblocket saknar meningen om beställningsvaror. Variantlåsningen är rätt undviken (269 kr Default, 299 kr black (0064)); mått och kapacitet rätt utelämnade."
+ },
+ {
+  "nr": 5206,
+  "id": "10462230970634",
+  "fil": "b_7_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Galler till husdjurskorg med säkerhetslöfte i källan (hindrar hunden från att hoppa ur, 'fullständigt skydd för din hund'); utkastet behåller 'avsett att hindra hunden från att hoppa ur korgen'. Samma bedömning som 5088 (Korggaller Basil Pluto XL) i b_1–b_6. 'Kapacitet: 0 l' i källan."
+ },
+ {
+  "nr": 5208,
+  "id": "10470936740106",
+  "fil": "b_7_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Giant Airway Sport Flaskhållare i Nylon",
+    "efter": "Flaskhållare Giant Airway Sport, Matt Svart"
+   }
+  },
+  "skal": "SEO-titeln hade omvänd ordning (märke före typord) och är nästan identisk med 5050 ('Flaskhållare Giant Airway Sport i Nylon', b_4). Ny SEO-titel 43 tecken, unik. Övrigt stämmer (nylon, 41 g); '41,5 %' rätt utelämnat."
+ },
+ {
+  "nr": 5209,
+  "id": "10471174668554",
+  "fil": "b_7_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Reflexklistermärken som enligt källan sätts på cykel eller hjälm och 'ökar säkerheten'; två varianter (273, 275) med oförklarade namn medan titeln anger 'vita prickar'. Samma bedömning som 5087 i b_1–b_6 (reflexer räknas som synlighet/belysning tills David beslutat). Kan släppas om David godtar reflexer och varianterna förklaras."
+ },
+ {
+  "nr": 5210,
+  "id": "10472232059146",
+  "fil": "b_7_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Giant Uniclip Fender är en bakre stänkskärm för mountainbikes. Den fästs vid sadeln och är snabbt avtagbar, så den går att ta av och sätta på igen.",
+    "efter": "Giant Uniclip Fender är en bakre stänkskärm för mountainbikes som fästs vid sadeln. Skärmen är snabbt avtagbar och går att sätta på igen när den behövs."
+   }
+  },
+  "skal": "Metans andra mening upprepade sig ('snabbt avtagbar, så den går att ta av'). 'Fender' behålls som del av modellnamnet Uniclip Fender."
+ },
+ {
+  "nr": 5211,
+  "id": "10472249524490",
+  "fil": "b_7_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Väska Basil City MIK, Svart",
+    "efter": "Cykelväska Basil City MIK, Svart"
+   },
+   "seo_title": {
+    "fore": "Väska Basil City MIK",
+    "efter": "Cykelväska Basil City MIK"
+   }
+  },
+  "skal": "Butikstitelns 'Styckväska' är trasig och källtexten säger 'Lens Bag' (felöversättning). 'Väska' är för allmänt; väskan fästs på cykeln med MIK-systemet, så typordet blir Cykelväska (samma som 5077). Den motsägande kapaciteten (8–11 l mot 9–11 l) är rätt utelämnad. Priset 1 569 kr bör kontrolleras."
+ },
+ {
+  "nr": 5212,
+  "id": "10475415044362",
+  "fil": "b_7_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Dricksflaska Giant Doublespring, 750 ml, Transparent Röd/Svart",
+    "efter": "Dricksflaska Giant Doublespring, 750 ml, Transparent Röd och Svart"
+   }
+  },
+  "skal": "Färger skrivs med 'och' som i övriga godkända utkast ('Svart och Neongrön'). 750cc skrivs rätt som 750 ml. 'Giftfritt' rätt utelämnat; BPA-fritt enligt tillverkaren."
+ },
+ {
+  "nr": 5213,
+  "id": "10494699208970",
+  "fil": "b_7_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Dricksflaska Giant Doublespring, 600 ml, Transparent Röd/Svart",
+    "efter": "Dricksflaska Giant Doublespring, 600 ml, Transparent Röd och Svart"
+   }
+  },
+  "skal": "Samma rättning som 5212. Handtaget slutar på 480000351 (750 ml-flaskans SKU) medan SKU är 480000350; bör kontrolleras i butiken."
+ },
+ {
+  "nr": 5214,
+  "id": "10541370212618",
+  "fil": "b_7_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer. Framkorg på styret utan lastuppgift i källan (tillåten enligt Davids beslut). Taggen 'Cykelbelysning' i butiken är felaktig men påverkar inte texten."
+ },
+ {
+  "nr": 5215,
+  "id": "10665228075274",
+  "fil": "b_7_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Reflexdekaler, systerprodukt till 5087 (underkänd i b_1–b_6): tre varianter (520, 521, 522) med oförklarade namn, sätts enligt källan på hjälm, och metan lovar 'ökar synligheten i trafiken, både dag och natt' utan 'enligt tillverkaren'. Kan släppas om David godtar reflexer och varianterna förklaras."
+ },
+ {
+  "nr": 5216,
+  "id": "10470910624010",
+  "fil": "b_7_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer (stålram, 290 x 160 mm, 460 g). 'Black Technology System' rätt utelämnat."
+ },
+ {
+  "nr": 5219,
+  "id": "10472253358346",
+  "fil": "b_7_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer. 'Tillverkad i Italien' rätt utelämnat."
+ },
+ {
+  "nr": 5221,
+  "id": "10472485519626",
+  "fil": "b_7_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer (3,5 tums analog mätare, V-format gummihandtag, rostfritt stål). Den oklara meningen om slanglösa tillbehör rätt förenklad."
+ },
+ {
+  "nr": 5222,
+  "id": "10565562007818",
+  "fil": "b_7_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer. 'Exakt övervakning' rätt utelämnat; ventiltyperna står i källan."
+ },
+ {
+  "nr": 5224,
+  "id": "10472217477386",
+  "fil": "b_7_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Butikstiteln 'Scraper Start acrylic 3 mm' är engelsk; 'Skrapa för Skidbas Start, Akryl, 3 mm' är rätt översatt och stämmer med källan (skidvalla, inte cykel). Produkttypen Tillbehör är oförändrad."
+ },
+ {
+  "nr": 5226,
+  "id": "10472232091914",
+  "fil": "b_8_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Butikstiteln 'Giant Speedshield Clip-On Rear Fender' är rätt översatt till Bakskärm. Stämmer mot källan; UV-/värmebeständighet rätt utelämnad."
+ },
+ {
+  "nr": 5227,
+  "id": "10472246771978",
+  "fil": "b_8_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Butikstiteln 'Fender set HEBIE Viper F, 26\"-29\", black' är rätt översatt (Stänkskärmset, Svart). Hjulstorlek och mått entydiga i källan; den otydliga monteringsraden rätt utelämnad."
+ },
+ {
+  "nr": 5234,
+  "id": "10494689411338",
+  "fil": "b_8_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "XLC MG-C05 är en genomskinlig, flexibel framskärm för hjul på 26–29 tum och däck som är 1,5–2 tum breda. Skärmen väger endast 75 g och är lätt att montera.",
+    "efter": "XLC MG-C05 är en genomskinlig, flexibel framskärm för 26–29-tums hjul och 1,5–2 tum breda däck. Den väger 75 g och är enligt tillverkaren lätt att montera."
+   }
+  },
+  "skal": "'Endast' är värderande och 'lätt att montera' är ett tillverkarpåstående som saknade markering i metan. Ursprung (Tyskland) och miljöpåståenden rätt utelämnade. Handtag 2502501007 mot SKU 2502501005 bör kontrolleras."
+ },
+ {
+  "nr": 5235,
+  "id": "10635765743882",
+  "fil": "b_8_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Oxford Aquatex är ett cykelskydd för en cykel, avsett för både inomhus- och utomhusbruk. Skyddet ger skydd mot smuts och regn och mäter 200 x 80 x 110 cm.",
+    "efter": "Oxford Aquatex är ett cykelskydd för en cykel som kan användas både inomhus och utomhus. Det skyddar mot smuts och regn och mäter 200 x 80 x 110 cm."
+   },
+   "html 1": {
+    "fore": "Oxford Aquatex är ett cykelskydd som ger skydd mot smuts och regn.",
+    "efter": "Oxford Aquatex är ett cykelskydd mot smuts och regn."
+   },
+   "html 2": {
+    "fore": "\n<li>Dig som har en cykel som ryms i måtten 200 x 80 x 110 cm</li>",
+    "efter": ""
+   }
+  },
+  "skal": "Upprepning 'skydd ... ger skydd' i meta och html. 'Passar för'-punkten om att cykeln ryms i måtten bygger på en tolkning av måtten som källan inte ger (utkastaren noterar själv att det är oklart vad måtten avser) och tas bort. Butikstiteln 'Bicycle Cover' rätt översatt."
+ },
+ {
+  "nr": 5236,
+  "id": "10472224653578",
+  "fil": "b_8_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Sadelväska Basil Discovery 365D S",
+    "efter": "Sadelväska Basil Discovery 365D, 0,5 l"
+   }
+  },
+  "skal": "SEO-titeln görs lik systerprodukten 5084 ('Sadelväska Basil Discovery 365D, 1 l'). Titeln behålls, eftersom ett kommatecken till (som i 5084) ger tre kommatecken med decimalkommat. Den motsägande färgen (grå/svart melange) och vattentätheten är rätt utelämnade."
+ },
+ {
+  "nr": 5238,
+  "id": "10472293957898",
+  "fil": "b_8_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Låda för både fram- och bakre pakethållare (Davids beslut gäller framkorgar utan lastuppgift, inte lådor på pakethållare). Källan är motsägelsefull: 17,5 l i titeln mot 17 l, 'fästas permanent på cykelsitsen' och 'lämplig för förskolebarn' (oklart om barnprodukt). Typordet 'Bagagekorg' är ovanligt. Kan släppas om David godtar bakre korgar utan lastuppgift och barnfrågan klaras ut."
+ },
+ {
+  "nr": 5239,
+  "id": "10475364909322",
+  "fil": "b_8_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html 1": {
+    "fore": "Skärmarna är enkla att installera.",
+    "efter": "Skärmarna är enligt tillverkaren enkla att installera."
+   }
+  },
+  "skal": "'Enkla att installera' är ett tillverkarpåstående utan markering. Beställningsmeningen i standardblocket stämmer (taggen 'På beställning'). Butikstiteln 'Fatbike fenders' rätt översatt. Ursprung rätt utelämnat; tunn källa, ingen meta."
+ },
+ {
+  "nr": 5240,
+  "id": "10475428872458",
+  "fil": "b_8_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer. Två varianter (black, black (0784), samma pris) är inte låsta; storleken XS/S är rätt utelämnad."
+ },
+ {
+  "nr": 5244,
+  "id": "10468721033482",
+  "fil": "b_8_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html 1": {
+    "fore": "<li>Dig som har 27,5 tum (650b) eller 28 tum hjul med däckbredd 23–42 mm</li>",
+    "efter": "<li>Dig som har 27,5-tums (650b) eller 28-tums hjul med däckbredd 23–42 mm</li>"
+   },
+   "html 2": {
+    "fore": "<li>Dig som har skivbromsar, eftersom skärmarna enligt tillverkaren är lämpliga för cyklar med skivbromsar</li>",
+    "efter": "<li>Dig som har en cykel med skivbromsar, enligt tillverkaren</li>"
+   }
+  },
+  "skal": "Grammatik ('27,5 tum ... hjul') och en punkt som upprepade sig. Hjulstorlek och däckbredd är entydiga i källan; '42 mm' i butikstiteln är rätt tolkad som största däckbredd. Handtag 11568 mot SKU 11567 bör kontrolleras."
+ },
+ {
+  "nr": 5245,
+  "id": "10470908264714",
+  "fil": "b_8_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer. Vibrationspåståendet rätt utelämnat; 'skyddsplatta' (felöversättning) rätt skrivet som handtagstejp. Se öppen fråga om typord (Handtagstejp/Styretape)."
+ },
+ {
+  "nr": 5246,
+  "id": "10472249753866",
+  "fil": "b_8_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Dig som vill ha en väska på 23 l för inköp på cykeln</li>",
+    "efter": "<li>Dig som handlar på cykeln och behöver 23 l utrymme</li>"
+   }
+  },
+  "skal": "'För inköp' är styltigt (samma rättning som 5011). Källan anger ingen lastgräns. Maskinöversatta termer ('doktorförslutning', 'medicinsk låsning') rätt utelämnade."
+ },
+ {
+  "nr": 5248,
+  "id": "10472253653258",
+  "fil": "b_8_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Selle Monte Grappa är ett kjolskydd i svart läder som hindrar",
+    "efter": "Kjolskyddet från Selle Monte Grappa i svart läder hindrar"
+   },
+   "html 1": {
+    "fore": "<p>Selle Monte Grappa är ett kjolskydd i svart läder som skyddar",
+    "efter": "<p>Kjolskyddet från Selle Monte Grappa är i svart läder och skyddar"
+   },
+   "html 2": {
+    "fore": "<li>Dig som har en stadscykel med 25–27 tums hjul, enligt tillverkaren</li>",
+    "efter": "<li>Dig som har en stadscykel i storleken 25–27 tum, enligt tillverkaren</li>"
+   }
+  },
+  "skal": "Första meningen sade att märket är ett kjolskydd ('Selle Monte Grappa är ett kjolskydd'). Källan säger '25–27 tums stadscyklar' utan att ange att det gäller hjulen, så 'hjul' tas bort (kompatibilitet bara om källan är entydig). Butikstiteln 'Skirt protector ..., black, leather' rätt översatt."
+ },
+ {
+  "nr": 5249,
+  "id": "10472254177546",
+  "fil": "b_8_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Selle Monte Grappa är ett kjolskydd i ljusbrunt läder som hindrar",
+    "efter": "Kjolskyddet från Selle Monte Grappa i ljusbrunt läder hindrar"
+   },
+   "html 1": {
+    "fore": "<p>Selle Monte Grappa är ett kjolskydd i ljusbrunt läder som skyddar",
+    "efter": "<p>Kjolskyddet från Selle Monte Grappa är i ljusbrunt läder och skyddar"
+   },
+   "html 2": {
+    "fore": "<li>Dig som har en stadscykel med 25–27 tums hjul, enligt tillverkaren</li>",
+    "efter": "<li>Dig som har en stadscykel i storleken 25–27 tum, enligt tillverkaren</li>"
+   }
+  },
+  "skal": "Samma rättning som 5248. Butikstiteln 'Skirt protector ..., light brown, made of leather' rätt översatt."
+ },
+ {
+  "nr": 5250,
+  "id": "10472254669066",
+  "fil": "b_8_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer (stålram, 260 x 210 mm, 410 g). Oklar formulering 'sadel för Monte Grappa Corvetta' rätt hanterad."
+ },
+ {
+  "nr": 5251,
+  "id": "10472254898442",
+  "fil": "b_9_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer. 'Rullstolssadel' (felöversättning) och 'designad i Italien' rätt utelämnade; 'Ram: Fjädrar' rimligt tolkat som fjädrar."
+ },
+ {
+  "nr": 5252,
+  "id": "10472256143626",
+  "fil": "b_9_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Barnprodukt: 'Cykelkorg för barn med Wish-tema' (Davids beslut: barnprodukter underkänns). Utkastaren avvisade själv barncykelklockan med samma tema (5229) och barnkorgen 5247. Måttraden i källan är dessutom trasig."
+ },
+ {
+  "nr": 5253,
+  "id": "10472286224650",
+  "fil": "b_9_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Barnprodukt: dekorationer för 'ditt barns cykel' som fästs på handtagen (Davids beslut: barnprodukter underkänns). Antal och vad diametern avser framgår inte."
+ },
+ {
+  "nr": 5254,
+  "id": "10472303067402",
+  "fil": "b_9_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Reflexband att bära på arm och ben och fästa på barnvagn; källan är helt inriktad på säkerhet och synlighet i mörker ('säkrare på vägen', 'säkerställer att du syns'). Personlig säkerhetsprodukt i samma kategori som reflexdekalerna (5087). Kan släppas om David godtar reflexer i vågor."
+ },
+ {
+  "nr": 5255,
+  "id": "10472303788298",
+  "fil": "b_9_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Reflexdekaler (sätts enligt källan på cykel eller hjälm), samma bedömning som 5087, 5209 och 5215. Kan släppas om David godtar reflexer."
+ },
+ {
+  "nr": 5256,
+  "id": "10475418452234",
+  "fil": "b_9_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Barnprodukt: flaskan är enligt källan 'designad för barncyklar' och har taggen Barncykel; källan har dessutom ett hygienpåstående (antimikrobiell). Davids beslut: barnprodukter underkänns."
+ },
+ {
+  "nr": 5257,
+  "id": "10487987765514",
+  "fil": "b_9_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Källan anger att bakskärmen bär högst 8 kg per sida (fästen för sidoväskor). Utkastaren har tagit bort lastuppgiften och skrivit ändå, medan samma utkastare avvisade 5233 av exakt det skälet. Lastuppgift som tas bort döljer en säkerhetsrelevant gräns (samma bedömning som 5071, 5077). Måttet 52 mm förklaras inte."
+ },
+ {
+  "nr": 5258,
+  "id": "10487987798282",
+  "fil": "b_9_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Samma som 5257 (bakskärmen bär 8 kg per sida, lastuppgiften bortplockad). Måttet 62 mm förklaras inte."
+ },
+ {
+  "nr": 5259,
+  "id": "10515739705610",
+  "fil": "b_9_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Flaskhållare Giant Airway Composite, Svart/Orange/Rosa",
+    "efter": "Flaskhållare Giant Airway Composite, Svart, Orange och Rosa"
+   }
+  },
+  "skal": "Färger skrivs med 'och' som i övriga utkast (två kommatecken, 59 tecken). Kolfiberkomposit och 34 g stämmer."
+ },
+ {
+  "nr": 5262,
+  "id": "10462768595210",
+  "fil": "b_9_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer (8 bar/115 PSI, AV/SV/DV, 600 mm, stålrör). Butikstiteln 'Floor pump' rätt översatt; 'passar alla typer av ventiler' rätt ersatt med de listade. Beställningsmeningen finns (taggen 'På beställning')."
+ },
+ {
+  "nr": 5263,
+  "id": "10470902857994",
+  "fil": "b_9_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Butikstiteln 'Front fender HEBIE Swap Front \"Adrenaline\", 26\"-' och den engelska källan är rätt översatta (Framskärm). Bara mått, vikt och monteringsdelar används; den oklara '26\"-' är rätt utelämnad."
+ },
+ {
+  "nr": 5264,
+  "id": "10471174832394",
+  "fil": "b_9_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Reflexdekaler i leopardmönster (sätts enligt källan på cykel eller hjälm), samma bedömning som 5087, 5209, 5215 och 5255. Källans 'set med 10' är oklart. Kan släppas om David godtar reflexer."
+ },
+ {
+  "nr": 5265,
+  "id": "10472224915722",
+  "fil": "b_9_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer (1,5 l, 10 x 9 x 29 cm, polyester, snodd). Motsägande vattentäthet (IPX3/IP68) och 'kommer hem säkert' rätt utelämnade."
+ },
+ {
+  "nr": 5266,
+  "id": "10472233435402",
+  "fil": "b_9_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn, trasig källa rätt hanterad: bara slang med utdragbar ventil, ingen meta."
+ },
+ {
+  "nr": 5267,
+  "id": "10472250376458",
+  "fil": "b_9_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Pedaler (Davids beslut: pedaler och vevar underkänns). Utkastaren avvisade själv 5217 och 5241 (pedaler) men tog med denna."
+ },
+ {
+  "nr": 5268,
+  "id": "10472252375306",
+  "fil": "b_9_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Tapen är 2,5 mm tjock och ändpluggar",
+    "efter": "Det är 2,5 mm tjockt och ändpluggar"
+   },
+   "html": {
+    "fore": "Tapen är 2,5 mm tjock och levereras",
+    "efter": "Det är 2,5 mm tjockt och levereras"
+   }
+  },
+  "skal": "Genus växlade: 'ett vitt styretape' följt av 'Tapen'. Rättas till neutrum. Stötdämpning skrivs enligt tillverkaren. Se öppen fråga om typordet."
+ },
+ {
+  "nr": 5269,
+  "id": "10472254013706",
+  "fil": "b_9_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer, som 5219 (Ramona svart). 'Tillverkad i Italien' rätt utelämnat."
+ },
+ {
+  "nr": 5270,
+  "id": "10472257388810",
+  "fil": "b_9_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn källa rätt hanterad: bara polyester, inga skydds- eller säkerhetslöften ('säker', grepp 'om linsen' utelämnade). Cykelhandskar för vuxna är ingen säkerhetsprodukt."
+ },
+ {
+  "nr": 5273,
+  "id": "10472294940938",
+  "fil": "b_9_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Pedaler (Davids beslut). Dessutom tunn källa och priset 1 589 kr bör kontrolleras."
+ },
+ {
+  "nr": 5274,
+  "id": "10475978653962",
+  "fil": "b_9_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer. Monteringen på 'vevarm eller vilken annan del som helst' och 'tillverkad i Tyskland' rätt utelämnade. Källans html innehåller kopierad chattkod som bör rensas i butiken."
+ },
+ {
+  "nr": 5275,
+  "id": "10475980161290",
+  "fil": "b_9_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html 1": {
+    "fore": " Korgen är universell och passar enligt tillverkaren alla typer av cyklar.",
+    "efter": ""
+   },
+   "html 2": {
+    "fore": "\n<li>Dig som söker en universell bakre korg</li>",
+    "efter": ""
+   },
+   "html 3": {
+    "fore": "\n<li>Passform: Universell</li>",
+    "efter": ""
+   }
+  },
+  "skal": "Kompatibilitet får bara stå om källan är entydig; 'passar alla typer av cyklar' är ett generellt påstående utan underlag och tas bort. Ingen lastgräns i källan. Bakre korg på pakethållare omfattas inte uttryckligen av Davids beslut om framkorgar (öppen fråga)."
+ }
+]
