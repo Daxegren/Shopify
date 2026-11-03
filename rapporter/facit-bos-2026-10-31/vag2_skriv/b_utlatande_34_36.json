@@ -1,0 +1,173 @@
+[
+ {
+  "nr": 8412,
+  "id": "10411861475594",
+  "fil": "b_34_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Aircell Honeycomb, PRG-4000, universell profil och 'lätta träningsskidor för amatörskidåkaren' (enligt tillverkaren) stämmer mot live-källan. Teknik och längd anges inte (källan saknar dem); variant 174 olåst. Med från titeln. Ingen tagg På beställning, ingen beställningsmening. Typord Längdskidor enligt avsnitt 16."
+ },
+ {
+  "nr": 8417,
+  "id": "10471008534794",
+  "fil": "b_34_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Som 8412; live-källan skriver 'universal', återges som universell. Tre varianter (174/181/188, olika pris) olåsta; 'finns i tre varianter' är produktdata. Ingen teknik eller längd. Ingen tagg På beställning."
+ },
+ {
+  "nr": 8419,
+  "id": "10472226685194",
+  "fil": "b_34_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Aircell Honeycomb, PRG-3600 Grafit och allround stämmer (källan har ihopskrivet 'GrafitProfil', rätt uppdelat). Varianter 181/188 olåsta. Bindnings-, pjäx- och preparationsrekommendationer rätt utelämnade. Ingen teknik eller längd."
+ },
+ {
+  "nr": 8414,
+  "id": "10468725915914",
+  "fil": "b_34_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Bredd 44/44/44 mm, Aircell Honeycomb, PRG 4100 och tillverkarens jämförelse återges som enligt tillverkaren; 'bekväm och stabil' och 'perfekt i de flesta snöförhållanden' rätt strukna. Taggen På beställning finns, så beställningsmeningen är rätt. 'C' tolkas inte som klassisk. Dubbletten 8416 avvisad med rätt skäl."
+ },
+ {
+  "nr": 8626,
+  "id": "10411494539530",
+  "fil": "b_36_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Limar Horus är solglasögon i färgen Matt Black Titanium med Grilamid TR90-ram, stor enkellins och helt justerbar näsbrygga. Finns hos BEST OF SPORTS.",
+    "efter": "Limar Horus är solglasögon i färgen Matt Black Titanium med Grilamid TR90-ram, stor enkellins och helt justerbar näsbrygga."
+   },
+   "html": [
+    {
+     "fore": "<li>Justering: Näsbrygga: Helt justerbar</li>",
+     "efter": "<li>Näsbrygga: Helt justerbar</li>"
+    }
+   ]
+  },
+  "skal": "Grilamid TR90, justerbar näsbrygga och ventilation/imma återges ordagrant enligt tillverkaren; vindskydd, ögonskydd, stabilitet och hudsäkerhet rätt strukna. Färg som i källan. Meta är över 70 tecken utan tillägget, så 'Finns hos BEST OF SPORTS.' är utfyllnad (avsnitt 14) och stryks; kort meta godtas för tunn källa. Dubbelt kolon i specifikationen ('Justering: X: Helt justerbar') rättas."
+ },
+ {
+  "nr": 8628,
+  "id": "10438620971274",
+  "fil": "b_36_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Kompositram, cylindrisk omslutande lins, två främre ventilationsöppningar, justerbart näsunderlägg/greppspetsar och All Mountain (enligt tillverkaren) stämmer. Linstyp (utbytbar/fotokromatisk) rätt utelämnad. Skydd, säkerhet och synfält rätt strukna. Meta 134 utan utfyllnad."
+ },
+ {
+  "nr": 8629,
+  "id": "10472237564170",
+  "fil": "b_36_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "UV400, Cat.3, flash-spegel och revo-beläggning återges ordagrant som enligt tillverkaren; ögonskydd, vindskydd och ljusjustering rätt strukna. Priset (28 519 kr, avvikande) står inte i texten. Ram, tillbehör och system stämmer."
+ },
+ {
+  "nr": 8630,
+  "id": "10472237695242",
+  "fil": "b_36_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Limar Kosmos är solglasögon i färgen Space Blue Orange med omslutande lins och luftcirkulationssystem. Finns hos BEST OF SPORTS.",
+    "efter": "Limar Kosmos är solglasögon i färgen Space Blue Orange med omslutande lins och luftcirkulationssystem."
+   }
+  },
+  "skal": "Omslutande lins, luftcirkulationssystem och imma (enligt tillverkaren) stämmer; ögonskydd rätt struket. Färg som i källan. Meta är över 70 tecken utan tillägget, så 'Finns hos BEST OF SPORTS.' är utfyllnad (avsnitt 14) och stryks; kort meta godtas för tunn källa."
+ },
+ {
+  "nr": 8631,
+  "id": "10472238088458",
+  "fil": "b_36_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "Enligt tillverkaren är Caos idealiska för entusiaster av grus och enduro, och kitets mörka lins har 100 % UV-skydd upp till 400 nm och mörk spegelbeläggning (Cat. 3).",
+     "efter": "Enligt tillverkaren är Caos solglasögon idealiska för entusiaster av grus och enduro, och kitet innehåller en lins med 100 % UV-skydd upp till 400 nm och mörk spegelbeläggning (Cat. 3)."
+    },
+    {
+     "fore": "<li>Linser i kitet: En mörk lins och en klar lins</li>",
+     "efter": "<li>Linser i kitet: En lins med mörk spegelbeläggning (Cat. 3) och en klar lins</li>"
+    }
+   ]
+  },
+  "skal": "Polykarbonatlins i ett stycke, utbytbara linser, gumminäskudde, justerbara skalmar, UV-skydd upp till 400 nm och Cat. 3 stämmer. 'Kitets mörka lins' är en egen tolkning; källan säger 'en lins med ... mörk spegelbeläggning'. Rättas till källans ordalydelse (extra skärpa 1), och 'Caos är idealiska' får substantivet solglasögon. Fullständigt skydd, synfält och hållbarhet rätt strukna."
+ },
+ {
+  "nr": 8632,
+  "id": "10472238514442",
+  "fil": "b_36_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Limar Kosmos är solglasögon i färgen Matt Gray med omslutande lins och luftcirkulationssystem. Finns hos BEST OF SPORTS.",
+    "efter": "Limar Kosmos är solglasögon i färgen Matt Gray med omslutande lins och luftcirkulationssystem."
+   }
+  },
+  "skal": "Som 8630 (engelsk originaltitel, produkttyp Solglasögon oförändrad). Meta är över 70 tecken utan tillägget, så 'Finns hos BEST OF SPORTS.' är utfyllnad (avsnitt 14) och stryks; kort meta godtas för tunn källa."
+ },
+ {
+  "nr": 8633,
+  "id": "10472241004810",
+  "fil": "b_36_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Limar Kosmos är solglasögon i färgen Space Titanium Amaran med omslutande lins och luftcirkulationssystem. Finns hos BEST OF SPORTS.",
+    "efter": "Limar Kosmos är solglasögon i färgen Space Titanium Amaran med omslutande lins och luftcirkulationssystem."
+   }
+  },
+  "skal": "Som 8630; färgen 'Space Titanium Amaran' som i källan. Meta är över 70 tecken utan tillägget, så 'Finns hos BEST OF SPORTS.' är utfyllnad (avsnitt 14) och stryks; kort meta godtas för tunn källa."
+ },
+ {
+  "nr": 8634,
+  "id": "10472285438218",
+  "fil": "b_36_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Limar Horus är solglasögon i färgen Matt Gray med Grilamid TR90-ram, stor monolins och helt justerbar näsdyna. Finns hos BEST OF SPORTS.",
+    "efter": "Limar Horus är solglasögon i färgen Matt Gray med Grilamid TR90-ram, stor monolins och helt justerbar näsdyna."
+   },
+   "html": [
+    {
+     "fore": "<li>Justering: Näsdyna: Helt justerbar</li>",
+     "efter": "<li>Näsdyna: Helt justerbar</li>"
+    }
+   ]
+  },
+  "skal": "Som 8626 med källans 'monolins' och 'näsdyna'. Live har även taggen Lime (saknas i fakta, påverkar inte texten). Meta är över 70 tecken utan tillägget, så 'Finns hos BEST OF SPORTS.' är utfyllnad (avsnitt 14) och stryks; kort meta godtas för tunn källa. Dubbelt kolon i specifikationen ('Justering: X: Helt justerbar') rättas."
+ },
+ {
+  "nr": 8636,
+  "id": "10472285896970",
+  "fil": "b_36_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Limar Horus är solglasögon i färgen Transp Light Gray med Grilamid TR90-ram, stor monolins och helt justerbar näsdel. Finns hos BEST OF SPORTS.",
+    "efter": "Limar Horus är solglasögon i färgen Transp Light Gray med Grilamid TR90-ram, stor monolins och helt justerbar näsdel."
+   },
+   "html": [
+    {
+     "fore": "<li>Justering: Näsdel: Helt justerbar</li>",
+     "efter": "<li>Näsdel: Helt justerbar</li>"
+    }
+   ]
+  },
+  "skal": "Som 8634 med källans 'näsdel'. Taggen Cykelbelysning är fel i butiken men ändras inte av oss och nämns inte i texten. Meta är över 70 tecken utan tillägget, så 'Finns hos BEST OF SPORTS.' är utfyllnad (avsnitt 14) och stryks; kort meta godtas för tunn källa. Dubbelt kolon i specifikationen ('Justering: X: Helt justerbar') rättas."
+ },
+ {
+  "nr": 8637,
+  "id": "10474078896394",
+  "fil": "b_36_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Båge, näskuddar, gummitips, tillbehör och linser (Revo, kategori 3, im- och reptåliga, röklins) stämmer, linserna enligt tillverkaren. 'Italienska tillverkaren' står ordagrant i källan. Jämförelsen 35 %/30 %/12 gånger rätt struken. Ingen färg i källan."
+ }
+]
