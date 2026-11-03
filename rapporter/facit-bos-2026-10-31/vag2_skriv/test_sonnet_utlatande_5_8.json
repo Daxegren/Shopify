@@ -1,0 +1,367 @@
+[
+ {
+  "nr": 3061,
+  "id": "10581104722186",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3062,
+  "id": "10581104754954",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Stödprodukt (ryggstöd/kompression) med skadeförebyggande påståenden i leverantörstexten; källan finns inte i före-filerna och fakta är tunn."
+ },
+ {
+  "nr": 3063,
+  "id": "10581104787722",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3064,
+  "id": "10581104820490",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3065,
+  "id": "10581104853258",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3066,
+  "id": "10581104886026",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Oklar produkttyp: 'Balanstränare' är egen översättning av Balance Trainer Pro (1 499 kr, sannolikt större bärande redskap); källan tunn, inga mått eller belastning."
+ },
+ {
+  "nr": 3067,
+  "id": "10581104918794",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3069,
+  "id": "10581105017098",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3070,
+  "id": "10581105049866",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3071,
+  "id": "10581105082634",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3073,
+  "id": "10581105213706",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Oklar produkttyp (självhäftande bandage, möjligen medicinskt bandage); källan saknas i före-filerna och fakta är bara 'självhäftande bandage'. Texten blir tom."
+ },
+ {
+  "nr": 3074,
+  "id": "10581105443082",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3076,
+  "id": "10581105574154",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Competition är en kettlebell med kompakt form. Enligt tillverkaren är den designad för intensiva och dynamiska övningar och för tävling.",
+    "efter": "Gymstick Competition är en kettlebell med kompakt form. Enligt tillverkaren är den designad för intensiva och dynamiska övningar och passar för tävling."
+   }
+  },
+  "skal": "Källan säger att formen är idealisk för tävling, inte att kettlebellen är designad för tävling (152 tecken efter rättning)."
+ },
+ {
+  "nr": 3077,
+  "id": "10581105606922",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Oklar produkttyp: texten säger bara 'träningsutrustning för rotationsövningar'; Core Twister kan vara ett stående rotationsredskap (last/fallrisk). Källan saknas och är tunn."
+ },
+ {
+  "nr": 3078,
+  "id": "10581105672458",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Oklar produkttyp (utkastaren erkänner det) och varianterna 45 och 90 har olika pris (349/599 kr) utan förklaring. Källan saknas."
+ },
+ {
+  "nr": 3080,
+  "id": "10581105737994",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3082,
+  "id": "10581105836298",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3084,
+  "id": "10581105901834",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Stödprodukt (armbågsstöd med stöd/kompression); utkastaren föreslår själv handläggning. Skydd/stöd tas för hand."
+ },
+ {
+  "nr": 3085,
+  "id": "10581105934602",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Design: Ergonomisk</li>",
+    "efter": "<li>Design: Ergonomisk, enligt tillverkaren</li>"
+   }
+  },
+  "skal": "Tillverkarpåstående (ergonomisk design) står utan 'enligt tillverkaren' i specifikationen."
+ },
+ {
+  "nr": 3086,
+  "id": "10581105967370",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3087,
+  "id": "10581106000138",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Träningsboll Gymstick, 65 cm",
+    "efter": "Gymstick Exercise Ball, 65 cm"
+   }
+  },
+  "skal": "SEO-titeln är identisk med c_1_utkast nr 3001 (Träningsboll Gymstick, 65 cm, Svart); måste vara unik."
+ },
+ {
+  "nr": 3088,
+  "id": "10581106032906",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3089,
+  "id": "10581106065674",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3090,
+  "id": "10581106098442",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3091,
+  "id": "10581106131210",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3092,
+  "id": "10581106163978",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3093,
+  "id": "10581106196746",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3095,
+  "id": "10581106295050",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3096,
+  "id": "10581106360586",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3097,
+  "id": "10581106393354",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3098,
+  "id": "10581106426122",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Säkerhetsprodukt: lyftremmar som tar last vid tunga lyft; belastningsgräns, material och antal saknas, källan saknas i före-filerna."
+ },
+ {
+  "nr": 3099,
+  "id": "10581106458890",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3100,
+  "id": "10581106491658",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Oklar produkttyp: Fitness Bag är en viktväska/sandsäck med varianterna 0–30 (kg?) och priser 699–2 999 kr; 'träningsväska för kast och lyft' vilseleder. Källan saknas."
+ },
+ {
+  "nr": 3103,
+  "id": "10581106622730",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3104,
+  "id": "10581106655498",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3105,
+  "id": "10581106688266",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3106,
+  "id": "10581106753802",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3107,
+  "id": "10581106786570",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3108,
+  "id": "10581106819338",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3109,
+  "id": "10581106852106",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3110,
+  "id": "10581106884874",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3112,
+  "id": "10581106983178",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Oklar produkttyp och motsägelse: källan växlar mellan stav/stavar/träningsstav och säger 'justerbar längd upp till 105 cm' medan texten anger Längd: 105 cm. Stavar är stöd under last. Källan saknas."
+ },
+ {
+  "nr": 3113,
+  "id": "10581107015946",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3114,
+  "id": "10581107048714",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Samma som 3112: promenadstavar/stöd, oklar produkttyp (stav eller par), stöd- och leddpåståenden i källan, texten motsäger de andra Go Walker-utkasten. Källan saknas."
+ },
+ {
+  "nr": 3115,
+  "id": "10581107081482",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Samma som 3112: texten kallar produkten stav, andra utkast stavar; vandringsstav med stödpåståenden i källan. Källan saknas."
+ },
+ {
+  "nr": 3116,
+  "id": "10581107114250",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Samma som 3112: texten kallar produkten träningsstav med balans/koordination, källan nämner rehabilitering; produkttyp oklar. Källan saknas."
+ },
+ {
+  "nr": 3117,
+  "id": "10581107147018",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Samma som 3112: promenadstavar med 'justerbar längd på 125 cm' men text anger fast Längd: 125 cm; stöd- och ledpåståenden i källan. Källan saknas."
+ },
+ {
+  "nr": 3118,
+  "id": "10581107245322",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3119,
+  "id": "10581107278090",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 3120,
+  "id": "10581107310858",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ }
+]

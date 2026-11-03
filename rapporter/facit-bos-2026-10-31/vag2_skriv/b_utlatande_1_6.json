@@ -1,0 +1,681 @@
+[
+ {
+  "nr": 5002,
+  "id": "10470898827530",
+  "fil": "b_1_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Innerslang med motsägande mått: originaltiteln anger ETRTO 47/60-584, beskrivningen (47-62x584). Gruppens regel: innerslang med oklara mått underkänns (fel passform kan ge punktering eller att slangen spricker). Behöver entydigt ETRTO från leverantören."
+ },
+ {
+  "nr": 5003,
+  "id": "10494699372810",
+  "fil": "b_1_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Oklar produkttyp. 'Stöd för Giant Direct Mount KSA' med 18 mm bultavstånd ser ut att vara ett stödben (kickstand) som monteras på ramen, och det bär cykelns vikt. Samma serie som 5025 (stödben) och 5042 (KSA 40 mm), som utkastaren själv avvisade. Typordet 'Stöd' är inte begripligt för kunden. Kan inte skrivas säkert utan bekräftad typ och passform."
+ },
+ {
+  "nr": 5006,
+  "id": "10472186380554",
+  "fil": "b_1_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Innerslang med motsägande mått: ETRTO-listan (47–62-559) stämmer med titeln, men de engelska storlekarna omfattar 26x1.375 (smalare än 47 mm) och 'innerbensbredd 1,75 tum' är trasig text. Metan hänvisar dessutom till 'specifikationen'. Oklara mått, så underkänd enligt gruppens regel."
+ },
+ {
+  "nr": 5007,
+  "id": "10472266334474",
+  "fil": "b_1_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html 1": {
+    "fore": "Den rymmer flaskor på 500 till 750 ml",
+    "efter": "Den rymmer flaskor på 500–750 ml"
+   },
+   "html 2": {
+    "fore": "<li>Dig som cyklar i terräng, enligt tillverkaren</li>",
+    "efter": "<li>Dig som cyklar i terräng</li>"
+   }
+  },
+  "skal": "Variantlåsningen är rätt undviken (Default 49 kr, must/hall 79 kr). Beställningsmeningen i standardblocket stämmer (taggen 'På beställning'). 'Enligt tillverkaren' står två gånger i html: strykt i 'Passar för'. Intervallet skrivs med tankstreck."
+ },
+ {
+  "nr": 5009,
+  "id": "10470929760522",
+  "fil": "b_1_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn källa och korrekt hanterad (ingen meta, inget påhittat)."
+ },
+ {
+  "nr": 5010,
+  "id": "10494699340042",
+  "fil": "b_1_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Samma oklara produkt som 5003, men butikstiteln säger 'Stöd för bakväxel' (troligen maskinöversättning) medan texten säger stöd för bakhjul. Om det är en del till växeln gäller gruppens regel om växeldelar. Om det är ett stödben är det lastbärande. 'Giant för Giant' är trasig text. SKU 500000012 och handtaget 500000013 överlappar med 5003 (SKU 500000013)."
+ },
+ {
+  "nr": 5011,
+  "id": "10472293695754",
+  "fil": "b_1_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html 1": {
+    "fore": "<li>Material: Stålmaskor</li>",
+    "efter": "<li>Material: Stål</li>"
+   },
+   "html 2": {
+    "fore": "<li>Dig som vill ha en korg i stålmaskor för inköp</li>",
+    "efter": "<li>Dig som handlar mat eller går på marknaden</li>"
+   }
+  },
+  "skal": "'Material: Stålmaskor' anger form, inte material. 'För inköp' är styltigt. Källan anger ingen maxlast (se öppen fråga om framkorgar)."
+ },
+ {
+  "nr": 5013,
+  "id": "10472254439690",
+  "fil": "b_1_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Dig som vill skydda kjol, kappa eller andra lösa plagg från kedjan, enligt tillverkaren</li>",
+    "efter": "<li>Dig som vill skydda kjol, kappa eller andra lösa plagg från kedjan</li>"
+   }
+  },
+  "skal": "Kjolskydd är rätt typord för 'Skirt protector'. 'Enligt tillverkaren' står två gånger i html."
+ },
+ {
+  "nr": 5014,
+  "id": "10475362418954",
+  "fil": "b_1_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot källan. 'Alu' behålls som en del av modellnamnet utan att materialet påstås."
+ },
+ {
+  "nr": 5015,
+  "id": "10472256602378",
+  "fil": "b_1_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Innerslang Continental, 29 tum, Presta-Ventil 42 mm",
+    "efter": "Innerslang Continental 29 tum, 47/62-622, Presta-Ventil 42 mm"
+   },
+   "meta": {
+    "fore": "Continental innerslang för 29 tum är svart och har Presta-ventil på 42 mm. Modellen anges som 28/29 x 1,90/2,40 och har UNI-nummer CO0182181.",
+    "efter": "Continental innerslang för 29 tum har ETRTO 47/62-622 och Presta-ventil på 42 mm. Slangen är svart och avsedd för storleken 28/29 x 1,90–2,40."
+   },
+   "html": {
+    "fore": "Modellen anges som 28/29 x 1,90/2,40.",
+    "efter": "Slangen har ETRTO 47/62-622 och storleken 28/29 x 1,90–2,40."
+   }
+  },
+  "skal": "Måtten är entydiga: ETRTO 47/62-622 i titeln stämmer med 28/29 x 1.90/2.40 (47–62 mm). Därför godkänd mot gruppens regel, med rättning. ETRTO är den uppgift som avgör passformen, så den ska stå i titeln. Metan hade UNI-nummer och arbetsfrasen 'anges som'. Ändringen från 'Innerdäck' till 'Innerslang' är godtagbar (båda är svenska, och produkttypen är oförändrad)."
+ },
+ {
+  "nr": 5016,
+  "id": "10472246739210",
+  "fil": "b_2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html 1": {
+    "fore": "<li>Dig som söker stänkskärmar till 24-tums hjul, enligt tillverkaren</li>",
+    "efter": "<li>Dig som söker stänkskärmar till 24-tums hjul</li>"
+   },
+   "html 2": {
+    "fore": "<li>Hjulstorlek: 24 tum (enligt tillverkaren passar setet nästan alla 24-tums hjul)</li>",
+    "efter": "<li>Hjulstorlek: 24 tum</li>"
+   }
+  },
+  "skal": "'Enligt tillverkaren' står tre gånger i html. Kvar står det en gång, i inledningen."
+ },
+ {
+  "nr": 5017,
+  "id": "10472281473290",
+  "fil": "b_2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html 1": {
+    "fore": "Hebie Viper är ett svart stänkskärmset för mountainbikes i plast. Enligt tillverkaren är det designat för 26–29-tums hjul och fästs nära däcket.",
+    "efter": "Hebie Viper är ett svart stänkskärmset i plast för mountainbikes. Det är designat för 26–29-tums hjul och fästs nära däcket."
+   },
+   "html 2": {
+    "fore": "<li>Dig som söker stänkskärmar till mountainbikes med 26–29-tums hjul, enligt tillverkaren</li>",
+    "efter": "<li>Dig som har en mountainbike med 26–29-tums hjul</li>"
+   },
+   "html 3": {
+    "fore": "<li>Dig som vill ha ett skydd mot vatten och smuts, enligt tillverkaren</li>",
+    "efter": "<li>Dig som vill ha ett skydd mot vatten och smuts</li>"
+   }
+  },
+  "skal": "'Enligt tillverkaren' står fyra gånger i html. 'Stänkskärmset för mountainbikes i plast' kan läsas som att cykeln är av plast. Hjulstorleken 26–29 tum är en specifikation och behöver ingen hänvisning till tillverkaren."
+ },
+ {
+  "nr": 5018,
+  "id": "10472243167498",
+  "fil": "b_2_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer. 24–28 tum och MTB kommer från originaltiteln. Vikten 210 g för bakskärmen bekräftas av 5022."
+ },
+ {
+  "nr": 5019,
+  "id": "10471080296714",
+  "fil": "b_2_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer. Ingen maxlast i källan (öppen fråga om framkorgar)."
+ },
+ {
+  "nr": 5020,
+  "id": "10472293761290",
+  "fil": "b_2_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot titeln. Brödtexten är kopierad från FM-modellen, men måtten (28 cm) och fästena som säljs separat skiljer sig från FM (5011) och är rimliga för KF."
+ },
+ {
+  "nr": 5022,
+  "id": "10589582655754",
+  "fil": "b_2_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer. Den trasiga titeln ('26\"-') är rätt utelämnad."
+ },
+ {
+  "nr": 5026,
+  "id": "10472245199114",
+  "fil": "b_2_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer."
+ },
+ {
+  "nr": 5027,
+  "id": "10472245297418",
+  "fil": "b_2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Dig som söker stänkskärmar till cyklar i storlekarna 26–29 tum, enligt tillverkaren</li>",
+    "efter": "<li>Dig som söker stänkskärmar till cyklar i storlekarna 26–29 tum</li>"
+   }
+  },
+  "skal": "'Enligt tillverkaren' står två gånger i html. Det oklara måttet (90 cm/65 mm) är rätt utelämnat."
+ },
+ {
+  "nr": 5029,
+  "id": "10470899810570",
+  "fil": "b_2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Dig som vill ha ett set med ett extra brett skyddsområde, enligt tillverkaren</li>",
+    "efter": "<li>Dig som vill ha stänkskärmar med extra brett skyddsområde</li>"
+   }
+  },
+  "skal": "'Enligt tillverkaren' står två gånger i html. Trasiga uppgifter ('110 cm bred', 'borrsats') är rätt utelämnade."
+ },
+ {
+  "nr": 5030,
+  "id": "10470902890762",
+  "fil": "b_2_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot titeln trots 'borrmaskin' i källan (maskinöversättning). Bredden 56–70 mm med adaptrar och den oklara klämraden är rätt hanterade."
+ },
+ {
+  "nr": 5031,
+  "id": "10472225734922",
+  "fil": "b_3_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer. Den motsägande färgen (ljusbrun/havsgrå), den oklara storleken och 'linsen' är rätt utelämnade."
+ },
+ {
+  "nr": 5032,
+  "id": "10472249393418",
+  "fil": "b_3_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Bicycle watch' är en maskinöversättning av cykelklocka (ringklocka). Måttet 60 mm stämmer med det, och typordet är rätt."
+ },
+ {
+  "nr": 5035,
+  "id": "10461971480842",
+  "fil": "b_3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Skydd: Mot regn, smuts och damm, enligt tillverkaren</li>",
+    "efter": "<li>Skydd: Regn, smuts och damm</li>"
+   }
+  },
+  "skal": "'Enligt tillverkaren' står två gånger i html. Det motsägande materialet (gummi/polyester) är rätt utelämnat."
+ },
+ {
+  "nr": 5036,
+  "id": "10472254570762",
+  "fil": "b_3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Färg: Grå. Bilden är illustrativ och färgen kan variera.</li>",
+    "efter": "<li>Färg: Grå (färgen kan variera)</li>"
+   }
+  },
+  "skal": "Specifikationsraden innehöll en hel mening om bilden. Den blir en kort anmärkning."
+ },
+ {
+  "nr": 5039,
+  "id": "10472246051082",
+  "fil": "b_3_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn källa och korrekt hanterad. Källan anger nylon och 41 g, vilket hade kunnat stå med, men utelämningen är försiktig och godtas."
+ },
+ {
+  "nr": 5040,
+  "id": "10472252834058",
+  "fil": "b_3_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn källa och korrekt hanterad."
+ },
+ {
+  "nr": 5043,
+  "id": "10475401085194",
+  "fil": "b_3_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer. 'Fästs i styrstammen' är rätt utelämnat (osäkert)."
+ },
+ {
+  "nr": 5044,
+  "id": "10494701109514",
+  "fil": "b_3_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer. Synlighetspåståendet och det orimliga måttet är rätt utelämnade."
+ },
+ {
+  "nr": 5045,
+  "id": "10588446392586",
+  "fil": "b_3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Verktygssats Giant ToolShed 6",
+    "efter": "Multiverktyg Giant ToolShed 6"
+   },
+   "html": {
+    "fore": "<li>Yta: Nickelpläterad, enligt tillverkaren korrosionsbeständig</li>",
+    "efter": "<li>Yta: Nickelpläterad</li>"
+   }
+  },
+  "skal": "Typordet var inkonsekvent: titeln sade 'Verktygssats', SEO-titeln och texten 'multiverktyg'. Källtexten kallar produkten multiverktyg med sex tillbehör, och det stämmer med produkten. 'Enligt tillverkaren' stod två gånger. SEO-titeln blir identisk med titeln (lagras tom, avsett beteende)."
+ },
+ {
+  "nr": 5047,
+  "id": "10472231207178",
+  "fil": "b_4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer. Beställningsmeningen är rätt (taggen 'På beställning')."
+ },
+ {
+  "nr": 5050,
+  "id": "10472246083850",
+  "fil": "b_4_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html 1": {
+    "fore": "<li>Cyklar med små ramar, enligt tillverkaren</li>",
+    "efter": "<li>Dig som har en cykel med liten ram</li>"
+   },
+   "html 2": {
+    "fore": "<li>Terrängcykling, enligt tillverkaren</li>",
+    "efter": "<li>Dig som cyklar i terräng</li>"
+   }
+  },
+  "skal": "'Passar för' hade två fragment som saknade 'Dig som' och tre förekomster av 'enligt tillverkaren'."
+ },
+ {
+  "nr": 5051,
+  "id": "10472249983242",
+  "fil": "b_4_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Pakväska Basil Kavan Eco Classic, 68 l, Svart",
+    "efter": "Packväska Basil Kavan Eco Classic, 68 l, Svart"
+   },
+   "seo_title": {
+    "fore": "Pakväska Basil Kavan Eco Classic",
+    "efter": "Packväska Basil Kavan Eco Classic"
+   },
+   "meta": {
+    "fore": "är en dubbel pakväska på 68 liter",
+    "efter": "är en dubbel packväska på 68 liter"
+   },
+   "html 1": {
+    "fore": "är en dubbel pakväska med en kapacitet",
+    "efter": "är en dubbel packväska med en kapacitet"
+   },
+   "html 2": {
+    "fore": "<li>Typ: Dubbel pakväska</li>",
+    "efter": "<li>Typ: Dubbel packväska</li>"
+   }
+  },
+  "skal": "'Pakväska' (från källan) är inte svenska. Det svenska ordet är 'packväska'. Rättas i titel, SEO-titel, meta och html. Garantin på 10 år och 'Eco' är rätt utelämnade."
+ },
+ {
+  "nr": 5052,
+  "id": "10472253980938",
+  "fil": "b_4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer. Den motsägande färgen och 'Tillverkad i Italien' är rätt utelämnade."
+ },
+ {
+  "nr": 5054,
+  "id": "10530129051914",
+  "fil": "b_4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer ('Bottle holder' är rätt översatt). Titeln blir unik när 5070 och 5080 är underkända."
+ },
+ {
+  "nr": 5059,
+  "id": "10494699241738",
+  "fil": "b_4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer. Priset 1 629 kr har flaggats (troligen fel pris i butiken)."
+ },
+ {
+  "nr": 5060,
+  "id": "10411714740490",
+  "fil": "b_4_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html 1": {
+    "fore": "och ventilen är av typen auto/chrader, 40 mm lång.",
+    "efter": "och ventilen är en autoventil på 40 mm."
+   },
+   "html 2": {
+    "fore": "<li>Dig som söker ett innerdäck med autoventil (auto/chrader)</li>",
+    "efter": "<li>Dig som söker ett innerdäck med autoventil</li>"
+   },
+   "html 3": {
+    "fore": "\n<li>Dig som vill ha ett innerdäck med hög motståndskraft mot punkteringar, enligt tillverkaren</li>",
+    "efter": ""
+   },
+   "html 4": {
+    "fore": "<li>Ventiltyp: Auto/Chrader</li>",
+    "efter": "<li>Ventiltyp: Autoventil</li>"
+   },
+   "html 5": {
+    "fore": "\n<li>Egenskap enligt tillverkaren: Hög motståndskraft mot punkteringar</li>",
+    "efter": ""
+   }
+  },
+  "skal": "Måtten är entydiga (32-355 till 47-400 i både titel och text). Godkänd mot gruppens regel, men David kan välja att ta alla slangar för hand. 'Auto/chrader' är en felstavning i källan och skrivs 'autoventil'. 'Hög motståndskraft mot punkteringar' är ett säkerhetslöfte utan entydig källa (standarden avsnitt 10) och tas bort ur 'Passar för' och specifikationen. Typordet 'Innerdäck' här och 'Innerslang' i 5002, 5006 och 5015 bör enhetliggöras (David väljer)."
+ },
+ {
+  "nr": 5061,
+  "id": "10472246378762",
+  "fil": "b_5_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Giant Airway Sport är en flaskhållare i nylon i blått och blanksvart. Enligt tillverkaren passar den cyklar med små ramar och terrängcykling. Vikt 41 g.",
+    "efter": "Giant Airway Sport är en flaskhållare i nylon i blått och blanksvart som väger 41 g. Enligt tillverkaren passar den små ramar och terrängcykling."
+   },
+   "html 1": {
+    "fore": "<li>Dig som cyklar på en cykel med liten ram, enligt tillverkaren</li>",
+    "efter": "<li>Dig som har en cykel med liten ram, enligt tillverkaren</li>"
+   },
+   "html 2": {
+    "fore": "<li>Dig som terrängcyklar och vill ha en flaskhållare i nylon, enligt tillverkaren</li>",
+    "efter": "<li>Dig som cyklar i terräng och vill ha en flaskhållare i nylon</li>"
+   }
+  },
+  "skal": "Metan slutade med ett verblöst fragment ('Vikt 41 g.'). 'Enligt tillverkaren' stod två gånger i html, och 'cyklar på en cykel' är en upprepning."
+ },
+ {
+  "nr": 5062,
+  "id": "10515742753034",
+  "fil": "b_5_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Funktion: Ringer två gånger vid ett tryck på spaken, enligt tillverkaren</li>",
+    "efter": "<li>Funktion: Ringer två gånger vid ett tryck på spaken</li>"
+   }
+  },
+  "skal": "'Enligt tillverkaren' står två gånger i html."
+ },
+ {
+  "nr": 5063,
+  "id": "10462053237002",
+  "fil": "b_5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer. Måttet markerat (TBC) är rätt utelämnat."
+ },
+ {
+  "nr": 5064,
+  "id": "10472231928074",
+  "fil": "b_5_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Främre Stänkskärm Giant Speedshield Clip-On",
+    "efter": "Framskärm Giant Speedshield Clip-On"
+   },
+   "seo_title": {
+    "fore": "Främre Stänkskärm Giant Speedshield",
+    "efter": "Framskärm Giant Speedshield Clip-On"
+   },
+   "html 1": {
+    "fore": "Giant Speedshield Clip-On är en stänkskärm som monteras med kardborreband. Den är gjord i PP-material och är enligt tillverkaren avsedd för mountainbikes och hybridcyklar.",
+    "efter": "Giant Speedshield Clip-On är en framskärm i PP-plast som monteras med kardborreband. Den är avsedd för mountainbikes och hybridcyklar, och materialet är enligt tillverkaren UV-beständigt, värmebeständigt och flexibelt."
+   },
+   "html 2": {
+    "fore": "<li>Dig som har en mountainbike eller hybridcykel, enligt tillverkaren</li>",
+    "efter": "<li>Dig som har en mountainbike eller hybridcykel</li>"
+   },
+   "html 3": {
+    "fore": "<li>Material: PP-plast, UV-beständigt, värmebeständigt och flexibelt, enligt tillverkaren</li>",
+    "efter": "<li>Material: PP-plast</li>"
+   }
+  },
+  "skal": "Typordet var inte enhetligt i gruppen: 'Främre Stänkskärm' här, 'Stänkskärm Fram' i 5081 och 'Framskärm' i 5030 (Hebie). Framskärm används överallt. 'Enligt tillverkaren' stod tre gånger. Tillverkarens materialpåståenden flyttas från specifikationen till inledningen."
+ },
+ {
+  "nr": 5065,
+  "id": "10472232681738",
+  "fil": "b_5_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html 1": {
+    "fore": "är stänkskärmar för hjul med skivbromsar. Enligt tillverkaren är de lämpliga för 700c x 23–25 mm.",
+    "efter": "är stänkskärmar för hjul i 700c x 23–25 mm med skivbromsar. Enligt tillverkaren passar de Giant-modellerna Defy, Contend och Avail."
+   },
+   "html 2": {
+    "fore": "<li>Dig som har en Giant Defy, Contend eller Avail, enligt tillverkaren</li>",
+    "efter": "<li>Dig som har en Giant Defy, Contend eller Avail med skivbromsar</li>"
+   },
+   "html 3": {
+    "fore": "<li>Hjulstorlek: 700c x 23–25 mm, enligt tillverkaren</li>",
+    "efter": "<li>Hjulstorlek: 700c x 23–25 mm</li>"
+   },
+   "html 4": {
+    "fore": "<li>Passar Giant-modeller: Defy, Contend och Avail, enligt tillverkaren</li>",
+    "efter": "<li>Passar Giant-modeller: Defy, Contend och Avail</li>"
+   }
+  },
+  "skal": "'Enligt tillverkaren' står fyra gånger i html. Källan säger 'hjul' och 'skivor' (maskinöversättning), men titeln är entydig: stänkskärmar. Passformen per Giant-modell står entydigt i källan. Se öppen fråga om modellspecifika skärmar."
+ },
+ {
+  "nr": 5069,
+  "id": "10472232124682",
+  "fil": "b_5_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html 1": {
+    "fore": "är stänkskärmar för hjul med Caliper-bromsar. Enligt tillverkaren är de lämpliga för 700c x 23–28 mm.",
+    "efter": "är stänkskärmar för hjul i 700c x 23–28 mm med Caliper-bromsar. Enligt tillverkaren passar de Giant-modellerna Defy, Contend och Avail."
+   },
+   "html 2": {
+    "fore": "<li>Dig som har en Giant Defy, Contend eller Avail, enligt tillverkaren</li>",
+    "efter": "<li>Dig som har en Giant Defy, Contend eller Avail med Caliper-bromsar</li>"
+   },
+   "html 3": {
+    "fore": "<li>Hjulstorlek: 700c x 23–28 mm, enligt tillverkaren</li>",
+    "efter": "<li>Hjulstorlek: 700c x 23–28 mm</li>"
+   },
+   "html 4": {
+    "fore": "<li>Passar Giant-modeller: Defy, Contend och Avail, enligt tillverkaren</li>",
+    "efter": "<li>Passar Giant-modeller: Defy, Contend och Avail</li>"
+   }
+  },
+  "skal": "Samma rättning som 5065. Handtaget slutar på 530000035, som är Disc-produktens SKU. Det bör kontrolleras."
+ },
+ {
+  "nr": 5070,
+  "id": "10541369721098",
+  "fil": "b_5_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND (möjlig dubblett). Live-källan är ordagrant identisk med 5080 (samma titel 'Flaskhållare GIANT Proway, Svart/Neongrön', samma text, samma pris 109 kr; SKU 490000071 mot 490000074). Utkastets titel är identisk med 5054 och 5080. Titeln ska vara unik i sortimentet, men produkterna går inte att skilja åt utan nya uppgifter. David eller leverantören avgör vilken som är rätt produkt."
+ },
+ {
+  "nr": 5071,
+  "id": "10472251392266",
+  "fil": "b_5_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Väska som fästs på styret eller pakethållaren och har bärkapaciteten 5 kg i källan (fäste med lastgräns). Utkastet har tagit bort lastuppgiften, vilket döljer en säkerhetsrelevant gräns. Samma kategori som 5038 (styrväska 2,5 kg), som utkastaren avvisade. Kan släppas om David bedömer att väskor med lastuppgift inte räknas som säkerhetsprodukter. I så fall ska 'Bärkapacitet: Upp till 5 kg' stå med, och titelns '8–11 L' ska skrivas med liten bokstav ('8–11 l')."
+ },
+ {
+  "nr": 5075,
+  "id": "10541369655562",
+  "fil": "b_5_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Material: Flexibel, lätt plast</li>",
+    "efter": "<li>Material: Plast</li>"
+   }
+  },
+  "skal": "'Material: Flexibel, lätt plast' innehåller egenskaper, inte bara material."
+ },
+ {
+  "nr": 5077,
+  "id": "10472218034442",
+  "fil": "b_6_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Väska som hängs på cykelramen eller pakethållaren, med bärkapaciteten 5 kg i källan. Lastuppgiften är bortplockad. Samma bedömning och villkor för att släppa den som 5071."
+ },
+ {
+  "nr": 5080,
+  "id": "10541369622794",
+  "fil": "b_6_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND (möjlig dubblett). Se 5070: identisk källa och samma titel, färg och pris. Titeln dubblerar 5054 och 5070."
+ },
+ {
+  "nr": 5081,
+  "id": "10462177558794",
+  "fil": "b_6_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Stänkskärm Fram Giant Swift, 28 tum, Aluminium",
+    "efter": "Framskärm Giant Swift, 28 tum, Aluminium"
+   },
+   "seo_title": {
+    "fore": "Stänkskärm Fram Giant Swift, 28 tum",
+    "efter": "Framskärm Giant Swift, 28 tum"
+   },
+   "html 1": {
+    "fore": "<li>Stads- och touringcyklister, enligt tillverkaren</li>",
+    "efter": "<li>Dig som cyklar i stan eller på långtur</li>"
+   },
+   "html 2": {
+    "fore": "<li>Typ: Främre stänkskärm</li>",
+    "efter": "<li>Typ: Framskärm</li>"
+   }
+  },
+  "skal": "Typordet blir 'Framskärm' (se 5064). 'Passar för' hade ett fragment utan 'Dig som' och två förekomster av 'enligt tillverkaren'."
+ },
+ {
+  "nr": 5082,
+  "id": "10470893584650",
+  "fil": "b_6_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer. Verktygslistan ger 13 delar."
+ },
+ {
+  "nr": 5084,
+  "id": "10472224686346",
+  "fil": "b_6_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer. Den motsägande färgen och det trasiga 'vattentät x3' är rätt utelämnade."
+ },
+ {
+  "nr": 5085,
+  "id": "10472264990986",
+  "fil": "b_6_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "\n<li>Handtag: Bekvämt handtag</li>",
+    "efter": ""
+   }
+  },
+  "skal": "'Handtag: Bekvämt handtag' är en värdering och ingen specifikation. 'Stage' är rätt lämnat oförklarat."
+ },
+ {
+  "nr": 5086,
+  "id": "10507217633546",
+  "fil": "b_6_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html 1": {
+    "fore": "<li>Kapacitet: 1–1,5 l, kan utökas upp till 1,5 l</li>",
+    "efter": "<li>Kapacitet: 1 l, kan utökas till 1,5 l</li>"
+   },
+   "html 2": {
+    "fore": "<li>Material: Vattenavvisande</li>",
+    "efter": "<li>Egenskap: Vattenavvisande material</li>"
+   }
+  },
+  "skal": "'Material: Vattenavvisande' är en egenskap och inget material. Kapacitetsraden upprepade sig."
+ },
+ {
+  "nr": 5087,
+  "id": "10665228173578",
+  "fil": "b_6_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Reflexdekaler: köparen väljer dem för synligheten (närliggande belysning; synlighetspåståendet har rätt utelämnats). Tre varianter, 520, 521 och 522, har samma pris men oförklarade namn, och titeln låser 'Black Flames'. Källan säger att dekalerna kan sättas på hjälmen (utelämnat, men risken bör David känna till). Antal, mått och material saknas. Metans andra mening ('sidodekaler som enligt tillverkaren sätts på cykeln') säger ingenting. Kan släppas om varianterna förklaras och David godtar reflexer i vågor."
+ },
+ {
+  "nr": 5088,
+  "id": "10462755356938",
+  "fil": "b_6_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Galler till cykelkorgen för husdjur. Enligt källan hindrar det djuret från att hoppa ur korgen under färden, vilket är ett säkerhetslöfte om djuret och cyklisten. Det framgår inte vilken korg gallret passar, och måtten 13 x 23 x 20 cm förklaras inte. Ett säkerhetslöfte utan entydig passform tas bort enligt standarden avsnitt 10, och då blir texten för tunn."
+ }
+]

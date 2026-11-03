@@ -105,3 +105,9 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 ## 2026-11-03: stickprovet efter skrivning är 20 procent (David beslutade, ersätter 10 procent ovan)
 - Regel: efter skrivning görs stickprov på 20 procent av varje batch (minst 10 produkter) av en starkare modell än skrivagenten, i stället för full kontroll. Skrivagenten läser alltid tillbaka alla fält själv. Avvikelse i stickprovet ger full kontroll av batchen.
 - Anm.: posten "arbetssätt för lägre tokenförbrukning" ovan anger 10 procent. Den ändras inte (filen fylls bara på); gällande värde är 20 procent.
+
+## 2026-11-03: test av Sonnet som granskare underkändes (hittade 41 procent av Opus fynd)
+- Vad hände: Sonnet granskade Gymstick c_5–c_8 (50 utkast) blint och jämfördes med Opus. Samma dom på 27 av 50. Av Opus 37 icke-godkända flaggade Sonnet 15 (41 procent): 13 av 19 underkända (68 procent) och 2 av 18 rättas (11 procent). Sonnet godkände 16 utkast som Opus ville rätta och 6 som Opus underkände (nackskydd, boxningshandskar, handlindor, balansbräda, rulle). Sonnet saknade dessutom originalkällan för 20 av 50 (före-filerna täckte 30).
+- Gräns som sattes: Sonnet skulle hitta minst 90 procent. Resultat 41 procent, alltså byts inte granskaren.
+- Regel: Opus fortsätter som granskare före skrivning. Besparingen tas i stället från Haiku som skrivare/taggare (no-op-test godkänt), utkast i batcher om 25, inbyggda lärdomar i utkastprompten och stickprov 20 procent efter skrivning.
+- Anm.: testet gäller Sonnet utan förbättrad granskarprompt och utan komplett källa; en omtest med bättre underlag kan göras om kostnaden motiverar det.
