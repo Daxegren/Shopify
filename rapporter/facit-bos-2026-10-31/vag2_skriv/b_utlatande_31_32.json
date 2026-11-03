@@ -1,0 +1,135 @@
+[
+ {
+  "nr": 8401,
+  "id": "10411476615434",
+  "fil": "b_31_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Stiga Pacer är en klassisk plastkälke med upphöjt ryggstöd och upphöjd sits samt bromsar. Kälken har reflex på baksidan och levereras med rep.",
+    "efter": "Stiga Pacer är en klassisk plastkälke med upphöjt ryggstöd och sits samt bromsar. Kälken har reflex på baksidan och levereras med rep."
+   },
+   "html": [
+    {
+     "fore": "med upphöjt ryggstöd och upphöjd sits samt bromsar. Kälken har reflex på baksidan och levereras med rep och bromsar.</p>",
+     "efter": "med upphöjt ryggstöd och sits samt bromsar. Kälken har reflex på baksidan och levereras med rep.</p>"
+    },
+    {
+     "fore": "<li>Ryggstöd och sits: Upphöjda</li>",
+     "efter": "<li>Ryggstöd: Upphöjt</li>"
+    }
+   ]
+  },
+  "skal": "Källan säger 'upphöjt ryggstöd och sits' – att sitsen är upphöjd är inte entydigt, så 'upphöjd sits' och 'Ryggstöd och sits: Upphöjda' skrivs om. Upprepningen 'bromsar … rep och bromsar' i inledningen tas bort. Reflex, rep, bromsar och Sverige stämmer; barn- och säkerhetstext rätt utelämnad. Varianterna black/pink/green (olika pris) är inte låsta i titel/SEO."
+ },
+ {
+  "nr": 8402,
+  "id": "10470970392842",
+  "fil": "b_31_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Kälke Salvo",
+    "efter": "Kälke Uniplast Salvo"
+   },
+   "html": [
+    {
+     "fore": "<li>Dig som söker en enkel kälke från Uniplast</li>",
+     "efter": "<li>Dig som söker en kälke från Uniplast</li>"
+    }
+   ]
+  },
+  "skal": "Titeln saknar märket (standarden: Typ, Märke, Modell); vendor Uniplast. 'Enkel' står inte i källan och stryks. Plast, klassisk och Estland stämmer. Kort meta 94 tecken godkänd enligt avsnitt 14. Färgerna rött/blått rätt utelämnade (en variant 'mix')."
+ },
+ {
+  "nr": 8405,
+  "id": "10470954238218",
+  "fil": "b_31_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Alla mått (580/140/720/620 mm), aluminium, HIC, 5,16 kg, vit, 170+ cm och professionell stämmer med källan; en variant så färgen får stå i SEO. Inga säkerhets- eller prestandapåståenden ('lång glidning' utelämnad). Ingen motor."
+ },
+ {
+  "nr": 8409,
+  "id": "10472281899274",
+  "fil": "b_31_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Stiga SnowPower är en styrkälke med styre som styr de två skidorna under kälken. Kälken har broms, släppspak samt reflektor fram och bak.",
+    "efter": "Stiga SnowPower är en styrkälke med ett styre som styr de två skidorna under kälken. Kälken har en broms och reflektor fram och bak."
+   },
+   "html": [
+    {
+     "fore": "Kälken har broms och släppspak samt reflektor fram och bak.</p>",
+     "efter": "Kälken har broms och reflektor fram och bak.</p>"
+    },
+    {
+     "fore": "<li>Broms: Ja, med släppspak</li>",
+     "efter": "<li>Broms: Ja</li>"
+    }
+   ]
+  },
+  "skal": "'Släppspak' är maskinöversatt och inte entydigt (extra skärpa 2) och stryks i meta, inledning och specifikation. Materialet rätt utelämnat. Styre för de två skidorna, broms, reflektor fram och bak och 5+ enligt tillverkaren stämmer; barn- och säkerhetstext rätt utelämnad. En variant."
+ },
+ {
+  "nr": 8410,
+  "id": "10472285274378",
+  "fil": "b_31_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Ratt Stiga Curve, Grafitgrå och Blå",
+    "efter": "Rattkälke Stiga Curve, Grafitgrå och Blå"
+   },
+   "seo_title": {
+    "fore": "Stiga Curve Ratt, Grafitgrå och Blå",
+    "efter": "Stiga Curve Rattkälke, Grafitgrå och Blå"
+   },
+   "meta": {
+    "fore": "Stiga Curve är en ratt med Curve Ski System, en böjd front som underlättar svängar. Den har fotbroms, stålram och automatisk retur på vindan.",
+    "efter": "Stiga Curve är en rattkälke med Curve Ski System, en böjd front, samt fotbroms och stålram. Maximal användarvikt är 90 kg enligt tillverkaren."
+   },
+   "html": [
+    {
+     "fore": "<p>Stiga Curve är en ratt med Curve Ski System, en böjd front som underlättar svängar. Den har fotbroms, stålram och en Pro Automatic vinda med automatisk retur.</p>",
+     "efter": "<p>Stiga Curve är en rattkälke med Curve Ski System, en böjd front. Den har fotbroms och stålram.</p>"
+    },
+    {
+     "fore": "<li>Dig som vill ha en ratt med böjd front för svängar</li>",
+     "efter": "<li>Dig som vill ha en rattkälke med böjd front</li>"
+    },
+    {
+     "fore": "<li>Dig som vill ha en ratt med fotbroms</li>",
+     "efter": "<li>Dig som vill ha en rattkälke med fotbroms</li>"
+    },
+    {
+     "fore": "<li>Typ: Ratt</li>",
+     "efter": "<li>Typ: Rattkälke</li>"
+    },
+    {
+     "fore": "<li>Vinda: Pro Automatic med automatisk retur</li>\n",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Hjul: Belagt med greppförbättrande material</li>\n",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Källan beskriver en kälke ('Kälken är utrustad med …'); 'ratt' ensamt är på svenska en styrratt, så typordet blir rattkälke (öppen fråga: David kan välja att behålla originalnamnet 'Ratt'). 'Vinda' och 'hjulet' är maskinöversatta och inte entydiga (extra skärpa 2) och stryks. 'Underlättar svängar' är ett prestandalöfte och stryks. Fotbroms, stålram, 90 kg och 7+ enligt tillverkaren stämmer. Produkttypen Pulkor är oförändrad."
+ },
+ {
+  "nr": 8425,
+  "id": "10472323875082",
+  "fil": "b_32_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Fila Viper HC Plus är hockeyskridskor med snörning, anatomiskt vadderad insida och förslipade blad i rostfritt stål, för både amatörer och spelare.",
+    "efter": "Fila Viper HC Plus är hockeyskridskor med snörning, kompositkonstruktion i häl och framfot, anatomiskt vadderad insida och förslipade rostfria stålblad."
+   }
+  },
+  "skal": "Metan återger 'för både amatörer och spelare' utan 'enligt tillverkaren' (i källan knutet till ett stabilitetslöfte); stryks och kompositkonstruktionen tas med i stället. Text och specifikation stämmer; skydds-, stabilitets-, värme- och kraftpåståenden rätt utelämnade. Storlekarna 40/40,5 är inte låsta; röd finns bara i originaltiteln, båda varianterna heter black, så färgen låser inget mellan varianter."
+ }
+]
