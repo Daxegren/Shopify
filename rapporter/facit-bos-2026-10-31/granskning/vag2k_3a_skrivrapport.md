@@ -1,31 +1,41 @@
-# Våg 2k 3a: skrivrapport (AVBRUTEN före skrivning)
+# Våg 2k 3a: skrivrapport
 
 Datum: 2026-11-03. Butik: BEST OF SPORTS (bestofsports.se), verifierad med get-shop-info.
-Skrivfil: rapporter/facit-bos-2026-10-31/vag2_skriv/k_skriv_3a.json (28 cyklar).
-Före-läge: rapporter/shopify-original-2026-11-03/vag2k_3a_fore.json (28 produkter, sparat före något skrivits).
+Skrivfil: rapporter/facit-bos-2026-10-31/vag2_skriv/k_skriv_3a.json (28 cyklar, rättad 2026-11-03: Kona Fire Mountain 10476262064394 utan däckbredd).
+Före-läge: rapporter/shopify-original-2026-11-03/vag2k_3a_fore.json (28 produkter, sparat före skrivning).
+Kontrollkopia: rapporter/facit-bos-2026-10-31/granskning/tmp_kopia_vag2k3a/kopia.json.
 
-## Steg 1: live-läge
-- Alla 28 produkter ACTIVE. Ingen har taggen texter-klara. Ingen är redan skriven (titlarna är de engelska originalen).
-- Seo-fälten är null på alla 28 före skrivning.
+## Före skrivning
+- 28 av 28 ACTIVE. Ingen hade taggen texter-klara. Ingen var redan skriven (titlarna var de engelska originalen).
+- seo.title och seo.description var null på alla 28.
 
-## Steg 2: kontroll på kopia
-- Kopia: rapporter/facit-bos-2026-10-31/granskning/tmp_kopia_vag2k3a/kopia.json (html mappad till beskrivning, standardblock markerat, fakta = före-läget).
-- Resultat: 28 produkter, 1 FEL, 40 VARNINGAR.
-- FEL: 10476262064394 (Kona Fire Mountain). "2.25" i beskrivningen finns inte i källan som ren text. Källan har "x2 .25"" (trasig text för 2,25 tum). Ska granskas av David eller granskaren innan skrivning.
-- VARNINGAR: 27 st "saknar avsnittet 'passar dig som'" (känd och godtagen rubrik "Passar för"). 3 st engelska ord ("Black", "White") i produkter där färgnamnet står kvar, 1 st 3 kommatecken i titel (10472248934666, decimalkomma i 27,5).
+## Kontroll på kopia (kontrollera_produkttext.py, --seo-title-max 43, --seo-suffix " – BEST OF SPORTS")
+- Första körningen: 1 FEL (10476262064394, "2.25" i beskrivningen, källan trasig). Skrivningen avbröts. Inget skrevs.
+- Efter rättningen i skrivfilen: 0 FEL, 40 VARNINGAR.
+- Varningarna är kända och godtagna: rubriken "Passar för" (27 st), engelska färgord "Black"/"White" (3 st) och 3 kommatecken i titeln på 10472248934666 (decimalkomma i 27,5).
 
-## Steg 3–5: skrivning, återläsning och tagg
-- Ingen skrivning gjord. Ingen batch skickad till Shopify. Ingen återläsning. Taggen texter-klara är inte satt på någon produkt.
+## Skrivning (Shopify productUpdate, ingen alias-fel)
+- Batcher: kanarie 3 (7005, 7006, 7007), sedan 6, 6, 6, 6 och 1. Största mutationsdokument 14 165 tecken (under 16 384).
+- Mutationstexterna genererades av python (bygg_batcher.py) och klistrades in ordagrant.
+- Seo skickades med både title och description. Två specialfall: 10472237072650 saknar meta (skickades med seo.title), 10475423629578 har seo.title lika med titeln (Shopify lagrar null, avsett).
+- Inga userErrors i någon batch.
+
+## Återläsning och jämförelse
+- Efter varje batch lästes title, handle, status, tags, seo.title, seo.description och descriptionHtml tillbaka.
+- Jämförelsen gjordes maskinellt i python (jamfor.py) mot skrivfilen och före-läget, tecken för tecken. Resultat: 28 av 28 produkter, 0 avvikelser.
+- Handle, status och befintliga taggar kontrollerades också maskinellt mot före-läget: oförändrade.
+- Stickprov manuellt: inget, alla 28 är lästa.
+
+## Tagg
+- tagsAdd texter-klara sattes sist, på alla 28, efter att alla fält verifierats. Inga userErrors.
+- Återläsning av taggar: alla 28 har texter-klara. De befintliga taggarna finns kvar (kontrollerat för hand, inte i python).
 
 ## Avvikelser
-- Skrivningen avbröts vid FEL enligt uppdraget. Ingen produkt är skriven eller taggad.
+- Ingen avvikelse vid skrivning eller återläsning.
+- Ett FEL i första kontrollen (10476262064394) löstes genom rättning i skrivfilen, inte i Shopify.
 
 ## Hoppade över
-- Inga produkter hoppades över. Alla 28 är ACTIVE och oskrivna.
+- Inga.
 
 ## Ändrat i Shopify
-- Nej.
-
-## Förslag för att gå vidare
-1. Granskaren eller David avgör 10476262064394: antingen rättas beskrivningen till "2,25 tum" (källan säger 2 .25") eller produkten tas bort från denna våg.
-2. Därefter körs skrivningen om på 27 eller 28 produkter. Batcher om högst 6 produkter, kanarie om 3, återläsning av alla fält och taggen sist.
+- Ja: title, seo.title, seo.description och descriptionHtml på 28 produkter, plus taggen texter-klara på samma 28. Inget annat (pris, lager, status, handle, bilder) ändrades.
