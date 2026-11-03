@@ -1,0 +1,403 @@
+[
+ {
+  "nr": 6076,
+  "id": "10472261845258",
+  "fil": "k_4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Alla uppgifter spårbara (ALUXX, SF22-X1 100 mm slaglängd, Alivio/Deore, BR-MT200, Kenda 29x2.4). 'Mugghållare' står så i källan (troligen flaskhållare)."
+ },
+ {
+  "nr": 6077,
+  "id": "10472261910794",
+  "fil": "k_4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Hjulstorlek (titel 27.5\", däck 29x2.2\") och bromsskivor rätt utelämnade. Färg: titeln Purple Ash, texten Metallic Black; titelns färg används. Öppen fråga."
+ },
+ {
+  "nr": 6078,
+  "id": "10460947120394",
+  "fil": "k_4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Gaffelns 100 mm (styrrör) rätt utelämnad; enda varianten 'S / gold' låses inte."
+ },
+ {
+  "nr": 6079,
+  "id": "10488246796554",
+  "fil": "k_4_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Varianterna motsäger titeln: 'Default Title' 26 209 kr och 'S / white' 22 789 kr har samma SKU (1017035184), och variantfärgen vit stämmer inte med titelns Lavender Blush. Färgen kan då varken låsas i titel och SEO (regel 5) eller utelämnas (regel 3). Taggen säger Racercykel, texten damcykel. Behöver rättade varianter från leverantören innan text skrivs."
+ },
+ {
+  "nr": 6080,
+  "id": "10471302660362",
+  "fil": "k_4_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html 1": {
+    "fore": "<li>Däck: Giant CrossCut 700 x 42c, med punkteringsskydd</li>",
+    "efter": "<li>Däck: Giant CrossCut 700 x 42c</li>"
+   },
+   "html 2": {
+    "fore": "<li>Dig som vill montera pakethållare eller stänkskärmar, för det finns fästen för båda</li>",
+    "efter": "<li>Dig som vill montera pakethållare eller stänkskärmar</li>"
+   }
+  },
+  "skal": "Typen Damcykel följer produkttypen Damcyklar (taggen säger Gravelcykel). 'Punkteringsskydd' är en skyddsegenskap från tillverkaren och stryks enligt regeln om inga skydds- och kvalitetslöften. Punkten i Passar för var otymplig; fästena står redan i specifikationen. Ramstorlekarna XS, S och M motsvarar varianterna (beskrivningen listar även L)."
+ },
+ {
+  "nr": 6082,
+  "id": "10476230541578",
+  "fil": "k_4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Godkänd under förutsättning att 6083 inte skrivs med samma titel (se 6083)."
+ },
+ {
+  "nr": 6083,
+  "id": "10476252692746",
+  "fil": "k_4_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Möjlig dubblett av 6082 (10476230541578): samma titel 'Women's bike LIV Tempt 3. 29\" Tyrian Purple', samma källtext och samma pris 11 919 kr; skillnaden är SKU (1101019185/-187 mot 1101019184), varianterna M och L mot Default Title och taggen På beställning. Utkastet gör titeln unik genom att lägga 'M och L' i titeln ('Tempt 3 M och L'), vilket läses som ett modellnamn och låser storlekarna. Samma hantering som 6122 (avvisad dublett): David avgör vilken produkt som ska finnas kvar."
+ },
+ {
+  "nr": 6086,
+  "id": "10472332329226",
+  "fil": "k_4_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html 1": {
+    "fore": "<li>Dig som söker en cykel för stadsmiljö, eftersom tillverkaren beskriver modellen som designad för stadslivet</li>",
+    "efter": "<li>Dig som söker en cykel för stadsmiljö, enligt tillverkaren</li>"
+   }
+  },
+  "skal": "Omständlig formulering kortas. Korg, pakethållare och belysning står i källan och nämns utan lastgräns (godtaget). Antal växlar (7/5/7) och 'wheel weight' rätt utelämnade. Varianter Default Title 10 239 kr och 'L / sinine' 9 509 kr (sinine = blå på estniska, så färgen stämmer)."
+ },
+ {
+  "nr": 6087,
+  "id": "10656692142346",
+  "fil": "k_4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Ramstorlekarna M och L motsvarar båda varianterna (samma pris). Korg och belysning nämns utan lastgräns."
+ },
+ {
+  "nr": 6088,
+  "id": "10523488256266",
+  "fil": "k_4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan."
+ },
+ {
+  "nr": 6089,
+  "id": "10471179649290",
+  "fil": "k_4_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html 1": {
+    "fore": "<li>Dig som söker en cykel för stadsmiljö, eftersom tillverkaren beskriver modellen som designad för stadslivet</li>",
+    "efter": "<li>Dig som söker en cykel för stadsmiljö, enligt tillverkaren</li>"
+   }
+  },
+  "skal": "Samma rättning som 6086. Ramens material saknas i källan (tom rad) och är rätt utelämnat. Varianter Default Title och 'M / beige' har samma SKU men olika pris."
+ },
+ {
+  "nr": 6090,
+  "id": "10472332984586",
+  "fil": "k_4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan."
+ },
+ {
+  "nr": 6091,
+  "id": "10523488354570",
+  "fil": "k_4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan."
+ },
+ {
+  "nr": 6092,
+  "id": "10460950626570",
+  "fil": "k_4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan."
+ },
+ {
+  "nr": 6093,
+  "id": "10494944182538",
+  "fil": "k_4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan."
+ },
+ {
+  "nr": 6094,
+  "id": "10526100291850",
+  "fil": "k_4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan."
+ },
+ {
+  "nr": 6095,
+  "id": "10526100390154",
+  "fil": "k_4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Källtexten nämner 'hybridcykeln Gazela 4' och bara storlek L; modellnamn enligt titeln, vikt rätt utelämnad. Öppen fråga."
+ },
+ {
+  "nr": 6096,
+  "id": "10526100455690",
+  "fil": "k_4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Som 6095."
+ },
+ {
+  "nr": 6097,
+  "id": "10486668296458",
+  "fil": "k_4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan."
+ },
+ {
+  "nr": 6098,
+  "id": "10472332525834",
+  "fil": "k_4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan."
+ },
+ {
+  "nr": 6099,
+  "id": "10507443208458",
+  "fil": "k_4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan."
+ },
+ {
+  "nr": 6100,
+  "id": "10588447605002",
+  "fil": "k_4_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Hybridcykel Romet Orkan 1 M i svart och rött har aluminiumram, fjädrande framgaffel, 21 växlar från Shimano Acera och däck i 700 x 45C.",
+    "efter": "Hybridcykel Romet Orkan 1 M i svart och rött har aluminiumram, fjädring fram, 21 växlar från Shimano Acera, mekaniska skivbromsar och däck i 700 x 45C."
+   }
+  },
+  "skal": "Källan säger 'fjädring fram', inte 'fjädrande framgaffel'. Metan skrivs som texten och specifikationen (151 tecken)."
+ },
+ {
+  "nr": 6101,
+  "id": "10472333738250",
+  "fil": "k_5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Varianter med olika SKU och pris (8 959/7 789 kr); vikt rätt utelämnad."
+ },
+ {
+  "nr": 6102,
+  "id": "10507442815242",
+  "fil": "k_5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan."
+ },
+ {
+  "nr": 6103,
+  "id": "10523487994122",
+  "fil": "k_5_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Cykel Romet Orkan 1.0 M i svart och silver har aluminiumram, 14 växlar med Shimano Tourney och V-bromsar. Cykeln väger 14,6 kg och har fästpunkter.",
+    "efter": "Cykel Romet Orkan 1.0 M i svart och silver väger 14,6 kg och har aluminiumram, 14 växlar från Shimano Tourney, V-bromsar och fästpunkter för tillbehör."
+   }
+  },
+  "skal": "Metan slutade 'har fästpunkter.' utan att säga för vad. Ny meta 147 tecken."
+ },
+ {
+  "nr": 6104,
+  "id": "10472236777738",
+  "fil": "k_5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan."
+ },
+ {
+  "nr": 6105,
+  "id": "10472334328074",
+  "fil": "k_5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Varianter med samma SKU och olika pris (9 579/8 329 kr); vikt rätt utelämnad."
+ },
+ {
+  "nr": 6106,
+  "id": "10526097834250",
+  "fil": "k_5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan."
+ },
+ {
+  "nr": 6107,
+  "id": "10507233493258",
+  "fil": "k_5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan."
+ },
+ {
+  "nr": 6108,
+  "id": "10523487895818",
+  "fil": "k_5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan."
+ },
+ {
+  "nr": 6109,
+  "id": "10523488125194",
+  "fil": "k_5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan."
+ },
+ {
+  "nr": 6110,
+  "id": "10523487764746",
+  "fil": "k_5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan."
+ },
+ {
+  "nr": 6111,
+  "id": "10471111622922",
+  "fil": "k_5_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Damcykel Romet Orkan 7 D i mörkgrått är en hybridcykel med aluminiumram, Suntour-fjädergaffel, 30 växlar med Shimano Deore och hydrauliska bromsar.",
+    "efter": "Damcykel Romet Orkan 7 D i mörkgrått är en hybridcykel med aluminiumram, Suntour-gaffel, 30 växlar med Shimano Deore och hydrauliska bromsar."
+   }
+  },
+  "skal": "Källan anger bara 'Gaffel: Suntour NEX RL 63mm', inte att den är fjädrande. Texten säger redan 'Suntour-gaffel'; metan rättas till samma (141 tecken)."
+ },
+ {
+  "nr": 6112,
+  "id": "10472333508874",
+  "fil": "k_5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan."
+ },
+ {
+  "nr": 6113,
+  "id": "10526097735946",
+  "fil": "k_5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Varianter Default Title 6 799 kr och 'L / purple' 5 909 kr, samma SKU; ramstorlek och vikt rätt utelämnade."
+ },
+ {
+  "nr": 6114,
+  "id": "10526097899786",
+  "fil": "k_5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan."
+ },
+ {
+  "nr": 6115,
+  "id": "10656692175114",
+  "fil": "k_5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan."
+ },
+ {
+  "nr": 6116,
+  "id": "10486812442890",
+  "fil": "k_5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan."
+ },
+ {
+  "nr": 6119,
+  "id": "10468709138698",
+  "fil": "k_5_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Cykel Romet Rambler R7.0 27,5 tum, Grå och Röd",
+    "efter": "Cykel Romet Rambler R7.0, 27,5 tum, Grå och Röd"
+   }
+  },
+  "skal": "Komma saknades före hjulstorleken (samma mönster som övriga titlar). 2 kommatecken, 47 tecken."
+ },
+ {
+  "nr": 6120,
+  "id": "10656692371722",
+  "fil": "k_5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan."
+ },
+ {
+  "nr": 6121,
+  "id": "10523488157962",
+  "fil": "k_5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Möjlig dubblett 6122 (10635810144522) är rätt avvisad; live samma titel, text och pris, SKU 28182516-B mot 28202517-B."
+ },
+ {
+  "nr": 6123,
+  "id": "10472435122442",
+  "fil": "k_5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan."
+ },
+ {
+  "nr": 6124,
+  "id": "10472335900938",
+  "fil": "k_5_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Stadscykel Romet Vintage Classic 1.0 M Grön",
+    "efter": "Cykel Romet Vintage Classic 1.0 M, Grön"
+   }
+  },
+  "skal": "SEO-titeln saknade komma före färgen ('1.0 M Grön'). Med komma blir den 44 tecken, därför typordet 'Cykel' (butikens produkttyp Cyklar) i SEO-titeln; 39 tecken och unik i alla filer."
+ },
+ {
+  "nr": 6125,
+  "id": "10472332427530",
+  "fil": "k_5_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html 1": {
+    "fore": "<li>Ingår: Kedjeskydd, stänkskärmar, bakre stänkskydd, parkeringsbroms samt fram- och bakljus</li>",
+    "efter": "<li>Ingår: Kedjeskydd, stänkskärmar, bakre stänkskydd samt fram- och bakljus</li>"
+   }
+  },
+  "skal": "'Parkeringsbroms' på en cykel med V-bromsar ser ut som en felöversättning (troligen stöd) och stryks. Källtexten nämner 'Vintage Classic 1.0 D' trots titeln 2.0 D; Nexus 7 och 7 växlar skiljer sig från 1.0 D (Tourney, 6 växlar) och följs."
+ }
+]
