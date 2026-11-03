@@ -94,3 +94,10 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 - Okänt: varför 12 av pilotens 20 titlar gick tillbaka 2026-10-25–10-30. Hypotes (obekräftad): leverantörssynken skriver om texter när en produkt byter status (arkiverad till aktiv).
 - Regel: kontrollera `updatedAt` mot skrivtidpunkt efter varje natt; jämför titlar på de produkter som ändrats. Allt som ändrats efter skrivningen jämförs mot skrivfilen.
 - Regel: skriv alltid från filer med före-läge sparat, så att en omskrivning är en batchkörning.
+
+## 2026-11-03: arbetssätt för lägre tokenförbrukning (David godkände)
+- Vad hände: våg 2 kostade drygt 100 agentkörningar à 150–300 000 tokens. Granskning före skrivning gav kvaliteten; den andra fullständiga kontrollen efter skrivning hittade 0 avvikelser mot filerna på över 200 produkter, bara språkfel som borde fångats före skrivning.
+- Regel: granskarnas återkommande fynd ligger inbyggda i utkastprompten (`vag2_skriv/b_utkastprompt.md`): inga cirkulära första meningar, verb i första metameningen, ingen FAQ utan stöd i källan, `fakta` hämtas per produkt, samma typord i hela batchen.
+- Regel: utkast skrivs i batcher om 25 produkter per agent (inte 15), så att instruktionerna läses in färre gånger.
+- Regel: efter skrivning görs stickprov på 10 procent (minst 10 produkter per batch) i stället för full kontroll. Skrivagenten läser alltid tillbaka alla fält själv. Avvikelse i stickprovet ger full kontroll av batchen.
+- Test pågår: om Sonnet hittar minst 90 procent av Opus fynd som granskare byts granskaren till Sonnet. Om Haiku skriver och taggar felfritt (no-op-test) används Haiku för skrivning och taggning, med testbatch om tre först.
