@@ -126,3 +126,6 @@ Regler för faktatextläget:
 5. Hjälmar och lås: inga egna rekommendationer om användning eller säkerhetsnivå. Storlek (huvudomkrets) och typ får återges.
 6. Barnprodukter, produkter med motsägande eller maskinöversatt källa som inte går att skriva säkert, och dubbletter hålls utanför.
 7. Övriga regler i avsnitt 1–15 gäller (format, unikhet, standardblock, kort meta enligt avsnitt 14).
+
+## 17. Förtydligande av kort meta (2026-11-03)
+Avsnitt 14 gäller som Davids beslut "kort meta, ingen utfyllnad": en metabeskrivning på minst 70 tecken godkänns för alla produkter om det skulle krävas utfyllnad eller upprepning för att nå 130 tecken. Kontrollskriptet körs därför med `--meta-min 70`. Gränsen 130–155 tecken är ett mål, inte ett krav, när källan inte räcker utan utfyllnad. Meta över 155 tecken godkänns aldrig.
