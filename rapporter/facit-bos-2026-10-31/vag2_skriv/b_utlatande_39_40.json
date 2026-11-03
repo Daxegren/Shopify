@@ -1,0 +1,698 @@
+[
+ {
+  "nr": 8703,
+  "id": "10461421207818",
+  "fil": "b_39_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer: tre varianter S/M/L med samma pris, 410 g, S 53–55 och L 59–61 cm; trasig M-rad, ursprung Frankrike och 'högkvalitativa material' rätt utelämnade; stadsmiljö skrivet enligt tillverkaren. Vuxenstorlekar (53–61 cm)."
+ },
+ {
+  "nr": 8720,
+  "id": "10472258601226",
+  "fil": "b_39_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "Hjälmen väger 410 g och finns i tre storlekar.",
+     "efter": "Hjälmen väger 410 g."
+    },
+    {
+     "fore": "<li>Dig som söker en hjälm i storlek S (53–55 cm), M (56–58 cm) eller L (59–61 cm)</li>",
+     "efter": "<li>Dig som söker en hjälm i rosa</li>"
+    }
+   ],
+   "meta": {
+    "fore": "Cairn EON i Shiny Powder Pink är en rosa hjälm med klassisk design. Hjälmen väger 410 g och finns i storlek S, M och L (53–61 cm).",
+    "efter": "Cairn EON i Shiny Powder Pink är en rosa hjälm med klassisk design som enligt tillverkaren främst är avsedd för stadsmiljö. Hjälmen väger 410 g."
+   }
+  },
+  "skal": "Produkten har en enda variant (Default Title, SKU 030031062-L) men texten lovar tre storlekar ('finns i tre storlekar', meta 'finns i storlek S, M och L', Passar för). Motsägelse mellan variant och storlekslista (extra skärpa 3; samma princip som tidigare utlåtanden om serieintervall på en enda variant): tillgänglighetslöftet stryks. Storleksraderna i specifikationen står kvar som tillverkarens storleksguide. Att bekräfta: vilken storlek som säljs (SKU tyder på L)."
+ },
+ {
+  "nr": 8704,
+  "id": "10462126604554",
+  "fil": "b_39_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer: två varianter L/M (olika pris, ingen storlek låst), 24 luftkanaler, Competition+FIT, M 52–57/205 g och L 57–62/240 g, röd LED-lampa som källan anger, EN 1078 entydigt i källan och skrivet enligt tillverkaren. Ursprung, 'världens lättaste' och 'överlägsen' rätt utelämnade. Titeltypen Cykelhjälm följer produkttypen."
+ },
+ {
+  "nr": 8705,
+  "id": "10462190731530",
+  "fil": "b_39_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Dig som söker en hjälm i storlek M (55–59 cm) eller L (58–61 cm)</li>",
+     "efter": "<li>Dig som söker en hjälm med justeringssystemet Turnfit Plus</li>"
+    }
+   ],
+   "meta": {
+    "fore": "Lazer One+ är en vit hjälm med klassisk design och 16 lufthål. Turnfit Plus-systemet gör hjälmen justerbar, och den finns i storlek M och L.",
+    "efter": "Lazer One+ är en vit hjälm med klassisk design och 16 lufthål. Med justeringssystemet Turnfit Plus går hjälmen att anpassa efter huvudet."
+   }
+  },
+  "skal": "En enda variant (Default Title) men Passar för och meta lovar storlek M och L. Tillgänglighetslöftet stryks; storleksraderna i specifikationen står kvar som storleksguide. 16 lufthål, Turnfit Plus och vit/matt vit stämmer; trasig rad '55-51 - 61-51' och märkesbakgrund rätt utelämnade. Att bekräfta: vilken storlek som säljs."
+ },
+ {
+  "nr": 8707,
+  "id": "10462192009482",
+  "fil": "b_39_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Storlek S/M anges som 48–54 cm, alltså barnstorlek, och källan anger ingen målgrupp (extra skärpa 2, standard 16.6: barnhjälmar hålls utanför). Enda varianten är Default Title, så det går inte att avgöra om det som säljs är S/M (barn) eller M/L. Källan är dessutom delvis maskinöversatt ('Justerbar, justerbar och justerbar ... öronkuddar') och vikten 410 g för M/L är orimlig mot 268 g för S/M. 'Head' är oklart (färg eller modell). Bekräfta målgrupp, storlek och vikt hos leverantören; tas för hand."
+ },
+ {
+  "nr": 8708,
+  "id": "10462231429386",
+  "fil": "b_39_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": " Hjälmen finns i storlek M och L.",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Dig som söker en hjälm i storlek M (53–57 cm) eller L (57–61 cm)</li>",
+     "efter": "<li>Dig som söker en hjälm med 22 lufthål</li>"
+    }
+   ],
+   "meta": {
+    "fore": "Limar Pora är en hjälm med visir och 22 lufthål. Hjälmen finns i storlek M (53–57 cm) och L (57–61 cm) och väger 260 g i storlek M.",
+    "efter": "Limar Pora är en hjälm i matt svart titan med visir, 22 lufthål och justeringssystemet Competition+ för horisontell och vertikal justering."
+   }
+  },
+  "skal": "En enda variant (SKU LCPORCEQ1L, tyder på L) men intro, Passar för och meta lovar M och L, och metan lyfter vikten för M (260 g). Tillgänglighetslöftet stryks; storlek och vikt per storlek står kvar i specifikationen. Visir, 22 lufthål och Competition+ stämmer; skyddspåståendet om visiret och de maskinöversatta raderna rätt utelämnade. Färgen matt svart titan står i originaltiteln."
+ },
+ {
+  "nr": 8710,
+  "id": "10462761484554",
+  "fil": "b_39_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "Kittet passar Melon-hjälmar och finns i storlek S, M och L.",
+     "efter": "Kittet finns i storlek S, M och L."
+    },
+    {
+     "fore": "<li>Dig som har en Melon-hjälm och söker öronlappar och nackskydd</li>",
+     "efter": "<li>Dig som söker öronlappar och nackskydd för kallare väder</li>"
+    },
+    {
+     "fore": "<li>Passar: Melon-hjälmar</li>",
+     "efter": ""
+    }
+   ],
+   "meta": {
+    "fore": "Melon Winterkit är ett vinterkit i svart tyg med öronlappar och nackskydd för Melon-hjälmar. Kittet finns i storlek S, M och L hos BEST OF SPORTS.",
+    "efter": "Melon Winterkit är ett vinterkit i svart, mjukt och värmehållande tyg med öronlappar och nackskydd. Kittet finns i storlek S, M och L."
+   }
+  },
+  "skal": "Extra skärpa 5: passform till hjälmar får inte påstås. Källan säger bara generellt 'passar Melon-hjälmar' utan modeller eller storlekar; påståendet stryks i inledning, Passar för, specifikation och meta. Titelns 'för Hjälmar' är produkttyp och får stå. Tre varianter S/M/L (olika pris 209/219/209) är storleksvarianter och inte låsta; svart stämmer med alla varianter. Vind- och kylpåståendet står som tillverkarens uppgift. Meta utan 'hos BEST OF SPORTS' (källan räcker)."
+ },
+ {
+  "nr": 8711,
+  "id": "10462818500874",
+  "fil": "b_39_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "Limar Urbe är en hjälm i matt svart som finns i storlek M och L.",
+     "efter": "Limar Urbe är en hjälm i matt svart."
+    },
+    {
+     "fore": "<li>Dig som söker en hjälm i storlek M (52–57 cm) eller L (57–62 cm)</li>",
+     "efter": "<li>Dig som söker en hjälm som enligt tillverkaren uppfyller NTA 8776</li>"
+    }
+   ],
+   "meta": {
+    "fore": "Limar Urbe är en hjälm i matt svart som finns i storlek M (52–57 cm) och L (57–62 cm). Hjälmen väger 325 g i storlek L. Finns hos BEST OF SPORTS.",
+    "efter": "Limar Urbe är en hjälm i matt svart som enligt tillverkaren är designad för daglig användning i stadsmiljö och uppfyller standarden NTA 8776 för elcyklar."
+   }
+  },
+  "skal": "Extra skärpa 3: två varianter med samma SKU GCURBECEACM (M) men olika pris (669 och 589 kr), en heter Default Title och en M / black. Ingen variant motsvarar L, så 'finns i storlek M och L' stryks i inledning, Passar för och meta. Storleksguide och vikten för L står kvar i specifikationen som källans uppgifter. NTA 8776 står entydigt i källan och skrivs enligt tillverkaren (extra skärpa 1); 'certifierad', 'maximalt skydd' och 'svåra krascher' rätt utelämnade. Produkttypen är tom i butiken och ändras inte. Att bekräfta: variantstrukturen."
+ },
+ {
+  "nr": 8712,
+  "id": "10470913900810",
+  "fil": "b_39_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot källan: storlek L 57–61 cm och 265 g är källans enda storlek, 22 luftventiler, Competition + Fit, antibakteriell och tvättbar stoppning. '21' och 'Cykelskydd' rätt utelämnade. Obs (att bekräfta): SKU HCSCRCE8TM kan tyda på M enligt Limars SKU-mönster; texten följer källans L."
+ },
+ {
+  "nr": 8713,
+  "id": "10471004700938",
+  "fil": "b_39_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Dig som söker en cykelhjälm i storlek M (52–57 cm) eller L (57–62 cm)</li>",
+     "efter": "<li>Dig som söker en cykelhjälm i storlek L (57–62 cm)</li>"
+    },
+    {
+     "fore": "<li>Storlek M: 52–57 cm</li>",
+     "efter": ""
+    }
+   ],
+   "meta": {
+    "fore": "Limar Berg-Em i matt Steel Blue är en cykelhjälm som finns i storlek M (52–57 cm) och L (57–62 cm). Hjälmen väger 325 g i storlek L.",
+    "efter": "Limar Berg-Em i matt Steel Blue är en cykelhjälm i storlek L (57–62 cm) som väger 325 g. Enligt tillverkaren uppfyller serien NTA 8776 och EN 1078."
+   }
+  },
+  "skal": "Enda varianten heter 'L / blue', så produkten är storlek L; metan och Passar för lovade även M. M stryks och L låses enligt varianten. Vikt L 325 g, EPS/ABS och NTA 8776/EN 1078 (entydigt i källan, enligt tillverkaren) stämmer. Ursprung och 'världens första' rätt utelämnade."
+ },
+ {
+  "nr": 8717,
+  "id": "10472237138186",
+  "fil": "b_39_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Dig som söker en cykelhjälm i storlek M (52–57 cm) eller L (57–62 cm)</li>",
+     "efter": "<li>Dig som söker en cykelhjälm med skal av EPS och ABS</li>"
+    }
+   ],
+   "meta": {
+    "fore": "Limar Berg-Em i matt mörk röd är en cykelhjälm som finns i storlek M (52–57 cm) och L (57–62 cm). Hjälmen väger 325 g i storlek L.",
+    "efter": "Limar Berg-Em i matt mörk röd är en cykelhjälm med skal av EPS och ABS. Enligt tillverkaren uppfyller hjälmserien standarderna NTA 8776 och EN 1078."
+   }
+  },
+  "skal": "En enda variant (Default Title, SKU GCBERGCEREL tyder på L) men Passar för och meta lovar M och L. Tillgänglighetslöftet stryks; storleksguiden står kvar i specifikationen. Standarderna står entydigt i källan och skrivs enligt tillverkaren. Färgen från originaltiteln. Metan skiljer sig från systerprodukten 8713."
+ },
+ {
+  "nr": 8714,
+  "id": "10471008272650",
+  "fil": "b_39_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Dig som söker en hjälm i storlek M/L (52–58 cm) eller XL/XXL (58–63 cm)</li>",
+     "efter": "<li>Dig som söker en hjälm med magnetisk stängning</li>"
+    }
+   ]
+  },
+  "skal": "En enda variant (SKU MES.004MG.ML) men Passar för lovar både M/L och XL/XXL; punkten byts. Storleksraderna står kvar som storleksguide. Fidlock, 12 hål, Spin Dial, EPS/polykarbonat, under 300 g stämmer; synlighet återges som tillverkarens uppgift och 'säkerhet' är struken. Meta utan storlekar godkänd."
+ },
+ {
+  "nr": 8715,
+  "id": "10472233959690",
+  "fil": "b_39_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Dig som söker en cykelhjälm i storlek M (54–58 cm) eller L (58–62 cm)</li>",
+     "efter": "<li>Dig som söker en hjälm med 16 lufthål</li>"
+    }
+   ],
+   "meta": {
+    "fore": "Limar 848DR är en matt ljusgrön cykelhjälm med Monoshell in-mould-teknik och 16 lufthål. Hjälmen finns i storlek M och L och väger 375 g i L.",
+    "efter": "Limar 848DR är en matt ljusgrön cykelhjälm med Monoshell in-mould-teknik, 16 lufthål och Competition+FIT-system. Hjälmen väger 375 g i storlek L."
+   }
+  },
+  "skal": "En enda variant (SKU DC848DRCE2CL) men Passar för och meta lovar M och L. Tillgänglighetslöftet stryks; storleksguide och vikten för L står kvar. Monoshell in-mould, 16 lufthål, Competition+FIT, EN 1078 enligt tillverkaren och matt ljusgrön stämmer."
+ },
+ {
+  "nr": 8721,
+  "id": "10472261255434",
+  "fil": "b_39_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Dig som söker en hjälm i storlek M/L (52–58 cm) eller XL/XXL (58–63 cm)</li>",
+     "efter": "<li>Dig som söker en hjälm med Spin Dial-system</li>"
+    }
+   ]
+  },
+  "skal": "En enda variant (SKU MUA.G088M.XL) men Passar för lovar både M/L och XL/XXL; punkten byts, storleksraderna står kvar som storleksguide. Fidlock, 12 hål, under 300 g, EPS/polykarbonat och valfritt vinterväderskydd stämmer; 'perfekt skydd' rätt struket."
+ },
+ {
+  "nr": 8722,
+  "id": "10472262140170",
+  "fil": "b_39_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer: Urban Active Paris, djup vinröd, 12 ventilationshål, Spin Dial, under 300 g, EPS-innerskal och polykarbonatskal. Storlek saknas i källan och skrivs inte; tom 'Fäste'-rad, 'maximal säkerhet' och stöttålighet rätt utelämnade."
+ },
+ {
+  "nr": 8723,
+  "id": "10472262172938",
+  "fil": "b_39_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "Hjälmen väger mindre än 300 g och finns i två storleksgrupper.",
+     "efter": "Hjälmen väger mindre än 300 g."
+    },
+    {
+     "fore": "<li>Dig som söker en hjälm i storlek M/L (52–58 cm) eller XL/XXL (58–63 cm)</li>",
+     "efter": "<li>Dig som söker en hjälm med 12 ventilationshål</li>"
+    }
+   ],
+   "meta": {
+    "fore": "Melon Rio är en hjälm med Fidlock magnetfäste, 12 ventilationshål och Spin Dial-system. Hjälmen finns i storlek M/L och XL/XXL (52–63 cm).",
+    "efter": "Melon Rio är en hjälm med Fidlock magnetfäste, 12 ventilationshål, Spin Dial-system och skal av EPS och polykarbonat. Hjälmen väger mindre än 300 g."
+   }
+  },
+  "skal": "En enda variant (SKU MUA.P111M.ML) men intro, Passar för och meta lovar M/L och XL/XXL. Tillgänglighetslöftet stryks; storleksraderna står kvar som storleksguide. Övriga uppgifter stämmer; 'vintertätning' rätt utelämnad."
+ },
+ {
+  "nr": 8724,
+  "id": "10472266006794",
+  "fil": "b_39_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Dig som söker en cykelhjälm i storlek M (55–59 cm) eller L (59–63 cm)</li>",
+     "efter": "<li>Dig som söker en hjälm med kompakt design</li>"
+    }
+   ]
+  },
+  "skal": "En enda variant (SKU GC888CEMHL) men Passar för lovar M och L; punkten byts. Vikt per storlek (260/270 g) i meta och specifikation är källans uppgift per storlek och får stå. Dubbelgjutet skal, 23 lufthål, kompakt design, EN 1078 enligt tillverkaren stämmer; 'MAXIMUM PROTECTION' rätt utelämnat."
+ },
+ {
+  "nr": 8719,
+  "id": "10472238973194",
+  "fil": "b_39_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<p>Lazer Impala Action Camera mount set är ett set med fäste för actionkamera, avsett för hjälm från Lazer.</p>",
+     "efter": "<p>Lazer Impala Action Camera mount set är ett set med fäste för actionkamera till hjälm.</p>"
+    }
+   ],
+   "meta": {
+    "fore": "Lazer Impala Action Camera mount set är ett set med fäste för actionkamera till hjälm från Lazer. Finns hos BEST OF SPORTS.",
+    "efter": "Lazer Impala Action Camera mount set är ett set från Lazer med fäste för actionkamera till hjälm. Finns hos BEST OF SPORTS."
+   }
+  },
+  "skal": "Extra skärpa 6: källan är bara titeln (tom beskrivning). Kort sann text godtas, men 'avsett för hjälm från Lazer' påstår passform som inte står i källan och stryks i inledning och meta. Titeln återger originalets 'för hjälm LAZER ... Impala' och får stå. Kort meta (123 tecken) enligt avsnitt 14. Att bekräfta: vilka hjälmar fästet passar och vad setet innehåller."
+ },
+ {
+  "nr": 8725,
+  "id": "10472267383050",
+  "fil": "b_40_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Extra skärpa 4: källan kallar själva ljuset 'bakljuset Giant Numen Alumbra' och listar andra hjälmar som kompatibla; titeln 'Bakljus Giant Numen Alumbra med Magnetfäste' stämmer och originalets 'för ... Numen Alumbra-hjälm' är rätt borttaget. Batteri Li-Ion 250 mAh, micro-USB, statusindikator, IPX4, 54 x 13 x 27 mm, 17 g, kompatibla hjälmar och fyra driftstider står entydigt i källan (driftstiderna märkta enligt tillverkaren); trasiga batterirader och synlighetspåståenden rätt utelämnade."
+ },
+ {
+  "nr": 8726,
+  "id": "10472288092426",
+  "fil": "b_40_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Dig med huvudomkrets 53–57 cm (storlek M) eller 57–61 cm (storlek L)</li>",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Storlekar: M 53–57 cm, L 57–61 cm</li>",
+     "efter": "<li>Storlekar i serien: M 53–57 cm, L 57–61 cm</li>"
+    }
+   ],
+   "meta": {
+    "fore": "Limar Air Star är en matt svart cykelhjälm med 19 ventilationshål, AirFit-system och ett bakre rött ljus. Storlekarna anges som M 53–57 cm och L 57–61 cm.",
+    "efter": "Limar Air Star är en matt svart cykelhjälm med 19 ventilationshål, AirFit-system och bakre rött ljus. Enligt tillverkaren är den designad för grusälskare."
+   }
+  },
+  "skal": "En enda variant (Default Title, SKU GCAIRSTCEACM) men Passar för lovar flera storlekar. Punkten med huvudomkrets stryks och specifikationens storleksrad märks 'i serien', metans storlekslöfte byts. Ljuset återges bara som 'bakre rött ljus' (extra skärpa 7); grusälskare enligt tillverkaren; trasig rad och trippelskal rätt utelämnade. Att bekräfta: vilken storlek som säljs."
+ },
+ {
+  "nr": 8727,
+  "id": "10472291664138",
+  "fil": "b_40_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Cykelhjälm Cairn Eon, Matte Sand, Beige",
+    "efter": "Cykelhjälm Cairn EON, Matte Sand, Beige"
+   },
+   "seo_title": {
+    "fore": "Cykelhjälm Cairn Eon, Matte Sand",
+    "efter": "Cykelhjälm Cairn EON, Matte Sand"
+   },
+   "html": [
+    {
+     "fore": "<p>Cairn Eon är en cykelhjälm",
+     "efter": "<p>Cairn EON är en cykelhjälm"
+    },
+    {
+     "fore": "<li>Dig med huvudomkrets 53–61 cm (storlekarna S, M och L)</li>",
+     "efter": "<li>Dig med huvudomkrets 53–55 cm (storlek S)</li>"
+    },
+    {
+     "fore": "<li>Storlekar: S 53–55 cm, M 56–58 cm, L 59–61 cm</li>",
+     "efter": "<li>Storlek: S, 53–55 cm</li>"
+    }
+   ],
+   "meta": {
+    "fore": "Cairn Eon är en beige cykelhjälm i Matte Sand med klassisk design. Hjälmen väger 410 g och storlekarna anges som S, M och L (53–61 cm).",
+    "efter": "Cairn EON är en beige cykelhjälm i Matte Sand med klassisk design. Hjälmen är i storlek S (53–55 cm) och väger 410 g enligt tillverkaren."
+   }
+  },
+  "skal": "Enda varianten heter 'S / beige', så produkten är storlek S; texten lovade S, M och L. S låses enligt varianten och övriga storlekar stryks i Passar för, specifikation och meta. Modellnamnet skrivs 'EON' som i källan och i systerprodukterna 8703/8720 (format: modellnamn orörda). 410 g, klassisk design och stadskörning enligt tillverkaren stämmer; trasig rad '410 kg' rätt ignorerad."
+ },
+ {
+  "nr": 8728,
+  "id": "10472291762442",
+  "fil": "b_40_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Cykelhjälm Cairn Eon, Matte Metallic Night",
+    "efter": "Cykelhjälm Cairn EON, Matte Metallic Night"
+   },
+   "seo_title": {
+    "fore": "Cykelhjälm Cairn Eon, Metallic Night",
+    "efter": "Cykelhjälm Cairn EON, Metallic Night"
+   },
+   "meta": {
+    "fore": "Cairn Eon är en",
+    "efter": "Cairn EON är en"
+   },
+   "html": [
+    {
+     "fore": "<p>Cairn Eon är en",
+     "efter": "<p>Cairn EON är en"
+    }
+   ]
+  },
+  "skal": "Stämmer i sak: tre varianter S/M/L (samma pris), storlekar och 410 g ur källan, färgen från titeln (varianterna heter 'blue', rätt inte utskrivet). Enda rättningen: modellnamnet 'EON' som i källan och systerprodukterna."
+ },
+ {
+  "nr": 8729,
+  "id": "10472292811018",
+  "fil": "b_40_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer: två varianter M och L (SKU 030030001M/L, olika pris 479/549 kr) motsvarar storlekarna M och L, inget låst i titel eller SEO (extra skärpa 3). Inbyggd avtagbar LED återges som källan anger utan synlighetslöfte (extra skärpa 7), 390 g, 16 ventilationshål, stadsmiljö enligt tillverkaren."
+ },
+ {
+  "nr": 8730,
+  "id": "10472330690826",
+  "fil": "b_40_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": " Enligt tillverkaren är hjälmen ett val för stadscyklister.",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Dig med huvudomkrets 52–58 cm (M/L) eller 58–63 cm (XL/XXL)</li>",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Storlekar: M/L 52–58 cm, XL/XXL 58–63 cm</li>",
+     "efter": "<li>Storlekar i serien: M/L 52–58 cm, XL/XXL 58–63 cm</li>"
+    }
+   ],
+   "meta": {
+    "fore": "Melon Miami är en cykelhjälm med Fidlock magnetisk fästning, 12 ventilationshål och Spin Dial-system. Storlekarna anges som 52–58 och 58–63 cm.",
+    "efter": "Melon Miami är en cykelhjälm med Fidlock magnetisk fästning, 12 ventilationshål och Spin Dial-system. Hjälmen väger mindre än 300 g."
+   }
+  },
+  "skal": "En enda variant (Default Title, SKU MUA.P109M.ML) men Passar för lovar flera storlekar. Punkten med huvudomkrets stryks och specifikationens storleksrad märks 'i serien', metans storlekslöfte byts. Meningen 'Enligt tillverkaren är hjälmen ett val för stadscyklister' är en halvöversättning av 'idealiskt val' och stryks. Att bekräfta: vilken storlek som säljs."
+ },
+ {
+  "nr": 8731,
+  "id": "10472330854666",
+  "fil": "b_40_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Dig med huvudomkrets 52–58 cm (M/L) eller 58–63 cm (XL/XXL)</li>",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Storlekar: M/L 52–58 cm, XL/XXL 58–63 cm</li>",
+     "efter": "<li>Storlekar i serien: M/L 52–58 cm, XL/XXL 58–63 cm</li>"
+    }
+   ]
+  },
+  "skal": "En enda variant (Default Title, SKU MUA.P110M.XL) men Passar för lovar flera storlekar. Punkten med huvudomkrets stryks och specifikationens storleksrad märks 'i serien'. Mörkgrå, monokrom design, MACS 12 hål, Spin Dial-rulle, tre vadderingstjocklekar och valfritt vinteröverdrag stämmer; 'högsta säkerhetsstandarderna' och Tyskland rätt utelämnade. Att bekräfta: vilken storlek som säljs."
+ },
+ {
+  "nr": 8732,
+  "id": "10474078077194",
+  "fil": "b_40_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Dig med huvudomkrets 52–56 cm (S), 55–59 cm (M) eller 58–61 cm (L)</li>",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Storlekar: S 52–56 cm, M 55–59 cm, L 58–61 cm</li>",
+     "efter": "<li>Storlekar i serien: S 52–56 cm, M 55–59 cm, L 58–61 cm</li>"
+    },
+    {
+     "fore": "<li>Vikt: 260 g (storlek S)</li>",
+     "efter": ""
+    }
+   ],
+   "meta": {
+    "fore": "Lazer Armor 2.0 är en lila cykelhjälm med klassisk design, 16 lufthål och Turnfit Plus justeringssystem. Storlekarna anges som S, M och L.",
+    "efter": "Lazer Armor 2.0 är en lila cykelhjälm med klassisk design, 16 lufthål och justeringssystemet Turnfit Plus för anpassning efter huvudet."
+   }
+  },
+  "skal": "En enda variant (Default Title, SKU BLC2217889533) men Passar för lovar flera storlekar. Punkten med huvudomkrets stryks och specifikationens storleksrad märks 'i serien', metans storlekslöfte byts. Extra skärpa 3: vikten är motsägande i källan (ca 275 g i texten, 260 g (storlek S) i listan och 450 g i dold tooltip), så viktraden stryks helt. Metan skrivs om utan storlekar. Att bekräfta: vilken storlek som säljs."
+ },
+ {
+  "nr": 8733,
+  "id": "10475427954954",
+  "fil": "b_40_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Dig med huvudomkrets 52–57 cm (storlek M) eller 57–62 cm (storlek L)</li>",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Storlekar: M 52–57 cm, L 57–62 cm</li>",
+     "efter": "<li>Storlekar i serien: M 52–57 cm, L 57–62 cm</li>"
+    }
+   ],
+   "meta": {
+    "fore": "Limar 797 är en matt svart cykelhjälm med 19 luftkanaler, Competition+FIT-system och ett rött LED-ljus. Storlekarna anges som M 52–57 och L 57–62 cm.",
+    "efter": "Limar 797 är en matt svart cykelhjälm med 19 luftkanaler, Competition+FIT-system och ett rött LED-ljus. Enligt tillverkaren uppfyller den EN 1078."
+   }
+  },
+  "skal": "En enda variant (Default Title, SKU FC797REFCEACM) men Passar för lovar flera storlekar. Punkten med huvudomkrets stryks och specifikationens storleksrad märks 'i serien', metans storlekslöfte byts. Röd LED som källan anger, EN 1078 enligt tillverkaren, Double Shell In-Mould och 19 luftkanaler stämmer. Att bekräfta: vilken storlek som säljs."
+ },
+ {
+  "nr": 8735,
+  "id": "10486625665290",
+  "fil": "b_40_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Dig med huvudomkrets 55–59 cm (storlek M) eller 58–61 cm (storlek L)</li>",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Storlekar: M 55–59 cm, L 58–61 cm</li>",
+     "efter": "<li>Storlekar i serien: M 55–59 cm, L 58–61 cm</li>"
+    }
+   ]
+  },
+  "skal": "En enda variant (Default Title, SKU BLC2227891104) men Passar för lovar flera storlekar. Punkten med huvudomkrets stryks och specifikationens storleksrad märks 'i serien'. KinetiCore, 5 luftventiler, TurnSys och 420 g (M) stämmer; slagabsorberingspåståenden rätt utelämnade. Att bekräfta: vilken storlek som säljs."
+ },
+ {
+  "nr": 8736,
+  "id": "10488282284298",
+  "fil": "b_40_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Dig med huvudomkrets 52–58 cm (M/L) eller 58–63 cm (XL/XXL)</li>",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Storlekar: M/L 52–58 cm, XL/XXL 58–63 cm</li>",
+     "efter": "<li>Storlekar i serien: M/L 52–58 cm, XL/XXL 58–63 cm</li>"
+    }
+   ]
+  },
+  "skal": "En enda variant (Default Title, SKU MES.010M.ML) men Passar för lovar flera storlekar. Punkten med huvudomkrets stryks och specifikationens storleksrad märks 'i serien'. Extra skärpa 3: den motsägande vikten (under 400 g mot under 300 g) är rätt struken. LED fram och bak, tre lägen på baklampan och USB-C-laddning står ordagrant i källan (extra skärpa 7); 'stänksäker' och synlighetslöften rätt utelämnade. Att bekräfta: vilken storlek som säljs."
+ },
+ {
+  "nr": 8737,
+  "id": "10515742261514",
+  "fil": "b_40_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer: enda storleken M/L 53–61 cm, 360° Cinch One MIPS-system, Direct Flow Cooling, TransTextura (fukt- och luktabsorberande enligt tillverkaren), in-mold. Ingen MIPS-effekt eller skyddspåstående (extra skärpa 1). Färgen från titeln."
+ },
+ {
+  "nr": 8738,
+  "id": "10530129510666",
+  "fil": "b_40_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer: M/L 53–61 cm, 360° Cinch One MIPS-system, Direct Flow Cooling, in-mold; dubbel MIPS-rad skriven en gång; inga skydds- eller MIPS-effektpåståenden. Gloss White från titeln."
+ },
+ {
+  "nr": 8739,
+  "id": "10530131771658",
+  "fil": "b_40_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer: S/M 49–57 cm står i originaltiteln och enda varianten (Liv är Giants damserie, ingen barnuppgift i källan; storleken når 57 cm och bedöms som vuxenstorlek). MIPS bara som namn, Direct Flow Cooling, CINCH Pro med enhandsvridmekanism, fuktfoder enligt tillverkaren; 'ultrasäkra', nackskydd och lukt rätt utelämnade. Öppen fråga till David: 49 cm som nedre gräns överlappar ungdomsstorlek."
+ },
+ {
+  "nr": 8740,
+  "id": "10530132394250",
+  "fil": "b_40_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Som 8739 (samma källa, annan färg): stämmer. Meta och inledning skiljer sig från 8739. Samma öppna fråga om 49 cm som nedre gräns."
+ },
+ {
+  "nr": 8741,
+  "id": "10541106626826",
+  "fil": "b_40_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Dig med huvudomkrets 53–57 cm (storlek M) eller 57–61 cm (storlek L)</li>",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Storlekar: M 53–57 cm, L 57–61 cm</li>",
+     "efter": "<li>Storlekar i serien: M 53–57 cm, L 57–61 cm</li>"
+    }
+   ],
+   "meta": {
+    "fore": "Limar Ultralight EVO är en cykelhjälm med 22 luftkanaler, bakre spoiler och ett medföljande bakre LED-ljus. Storlekarna anges som M 53–57 och L 57–61 cm.",
+    "efter": "Limar Ultralight EVO är en cykelhjälm med 22 luftkanaler, bakre spoiler och ett medföljande bakre LED-ljus. Den väger 175 g (M) och 210 g (L)."
+   }
+  },
+  "skal": "En enda variant (Default Title, SKU HCUEVOCE8SL) men Passar för lovar flera storlekar. Punkten med huvudomkrets stryks och specifikationens storleksrad märks 'i serien', metans storlekslöfte byts. 22 luftkanaler/luftventiler, spoiler, bakre LED-ljus ingår (som källan anger), Competition+ Fit med höjdjustering stämmer. Att bekräfta: vilken storlek som säljs."
+ },
+ {
+  "nr": 8742,
+  "id": "10541116555530",
+  "fil": "b_40_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Dig med huvudomkrets 52–58 cm (M/L) eller 58–63 cm (XL/XXL)</li>",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Storlekar: M/L 52–58 cm, XL/XXL 58–63 cm</li>",
+     "efter": "<li>Storlekar i serien: M/L 52–58 cm, XL/XXL 58–63 cm</li>"
+    }
+   ]
+  },
+  "skal": "En enda variant (Default Title, SKU MES.002M.ML) men Passar för lovar flera storlekar. Punkten med huvudomkrets stryks och specifikationens storleksrad märks 'i serien'. Synlighet återges bara som tillverkarens uppgift; övrigt stämmer. Att bekräfta: vilken storlek som säljs."
+ },
+ {
+  "nr": 8743,
+  "id": "10548233011466",
+  "fil": "b_40_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Dig med huvudomkrets 53–57 cm (storlek M) eller 57–62 cm (storlek L)</li>",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Storlekar: M 53–57 cm, L 57–62 cm</li>",
+     "efter": "<li>Storlekar i serien: M 53–57 cm, L 57–62 cm</li>"
+    }
+   ],
+   "meta": {
+    "fore": "Limar Delta är en grå cykelhjälm med 17 ventilationshål och Triple shell PC/EPS in-mould. Storlekarna anges som M 53–57 och L 57–62 cm.",
+    "efter": "Limar Delta är en grå cykelhjälm med 17 ventilationshål och Triple shell PC/EPS in-mould. Enligt tillverkaren är den även lämplig för elcyklar (NTA 8776)."
+   }
+  },
+  "skal": "En enda variant (Default Title, SKU GCDELCEUWM) men Passar för lovar flera storlekar. Punkten med huvudomkrets stryks och specifikationens storleksrad märks 'i serien', metans storlekslöfte byts. NTA 8776 och elcykeluppgiften står entydigt i källan och återges enligt tillverkaren (extra skärpa 1). Att bekräfta: vilken storlek som säljs."
+ },
+ {
+  "nr": 8744,
+  "id": "10548234682634",
+  "fil": "b_40_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Dig med huvudomkrets 52–59 cm (storlek M) eller 57–62 cm (storlek L)</li>",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Storlekar: M 52–59 cm, L 57–62 cm</li>",
+     "efter": "<li>Storlekar i serien: M 52–59 cm, L 57–62 cm</li>"
+    }
+   ],
+   "meta": {
+    "fore": "Limar 360° är en vit cykelhjälm med 12 ventilationshål och tvättbar stoppning. Storlekarna anges som M 52–59 och L 57–62 cm, vikt 400–480 g.",
+    "efter": "Limar 360° är en vit cykelhjälm med 12 ventilationshål och tvättbar stoppning. Hjälmen väger 400 g i storlek M och 480 g i storlek L."
+   }
+  },
+  "skal": "En enda variant (Default Title, SKU EC360-CE01L) men Passar för lovar flera storlekar. Punkten med huvudomkrets stryks och specifikationens storleksrad märks 'i serien', metans storlekslöfte byts. Elcykeluppgiften ('passar även för elcyklar') står entydigt och skrivs enligt tillverkaren; ingen standard påstås. Metan får vikten per storlek i stället för storlekslöftet. Att bekräfta: vilken storlek som säljs."
+ },
+ {
+  "nr": 8745,
+  "id": "10548239008010",
+  "fil": "b_40_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Dig med huvudomkrets 52–58 cm (M/L) eller 58–63 cm (XL/XXL)</li>",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Storlekar: M/L 52–58 cm, XL/XXL 58–63 cm</li>",
+     "efter": "<li>Storlekar i serien: M/L 52–58 cm, XL/XXL 58–63 cm</li>"
+    }
+   ]
+  },
+  "skal": "En enda variant (Default Title, SKU MUA.P002M.ML) men Passar för lovar flera storlekar. Punkten med huvudomkrets stryks och specifikationens storleksrad märks 'i serien'. Fidlock för enhandsbruk, 12 hål, Spin Dial-ratt, under 300 g och valfritt vinterfoder stämmer. Att bekräfta: vilken storlek som säljs."
+ },
+ {
+  "nr": 8746,
+  "id": "10577688363274",
+  "fil": "b_40_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Dig med huvudomkrets 53–57 cm (storlek M) eller 57–61 cm (storlek L)</li>",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Storlekar: M 53–57 cm, L 57–61 cm</li>",
+     "efter": "<li>Storlekar i serien: M 53–57 cm, L 57–61 cm</li>"
+    }
+   ]
+  },
+  "skal": "En enda variant (Default Title, SKU HCAIRSTRCE8RL) men Passar för lovar flera storlekar. Punkten med huvudomkrets stryks och specifikationens storleksrad märks 'i serien'. Vikten per storlek i inledning och meta är källans uppgift per storlek och får stå. Att bekräfta: vilken storlek som säljs."
+ }
+]
