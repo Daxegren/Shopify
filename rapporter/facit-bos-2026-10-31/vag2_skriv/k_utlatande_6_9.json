@@ -1,0 +1,433 @@
+[
+ {
+  "nr": 6126,
+  "id": "10472332951818",
+  "fil": "k_6_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html 1": {
+    "fore": "Kedjeskydd, stänkskärmar, parkeringsbroms samt fram- och bakljus ingår.",
+    "efter": "Kedjeskydd, stänkskärmar samt fram- och bakljus ingår."
+   },
+   "html 2": {
+    "fore": "<li>Ingår: Kedjeskydd, stänkskärmar, parkeringsbroms, fram- och bakljus</li>",
+    "efter": "<li>Ingår: Kedjeskydd, stänkskärmar, fram- och bakljus</li>"
+   }
+  },
+  "skal": "'Parkeringsbroms' i Ingår-listan är troligen en felöversättning (cykeln har V-bromsar; samma rättning som 6125 i k_5) och stryks i intro och specifikation. Varianterna M och L har samma pris (9 139 kr); ramstorlek rätt utelämnad. Stålram, Nexus 7, 7 växlar och V-bromsar står entydigt."
+ },
+ {
+  "nr": 6127,
+  "id": "10472334852362",
+  "fil": "k_6_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan. Stadscykel står i källtexten (produkttyp Cyklar). 'Hjulvikt 16 kg' rätt utelämnad."
+ },
+ {
+  "nr": 6128,
+  "id": "10471064830218",
+  "fil": "k_6_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Romet Vintage Eco D är en grafit damcykel med",
+    "efter": "Romet Vintage Eco D i grafit är en damcykel med"
+   },
+   "html 1": {
+    "fore": "Romet Vintage Eco D är en grafit damcykel med",
+    "efter": "Romet Vintage Eco D i grafit är en damcykel med"
+   }
+  },
+  "skal": "'En grafit damcykel' är felaktig svenska (grafit är ett substantiv). Skrivs 'i grafit' i meta och intro (146 tecken). Övrigt spårbart; 'hjulvikt 15,3 kg' rätt utelämnad."
+ },
+ {
+  "nr": 6129,
+  "id": "10472291008778",
+  "fil": "k_6_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan ('turkos' fungerar som adjektiv)."
+ },
+ {
+  "nr": 6130,
+  "id": "10526098096394",
+  "fil": "k_6_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan. Tre varianter (M/L/XL, samma pris); ramstorlek och vikt rätt utelämnade. Typordet Cykel följer produkttypen (källan säger 'allroundcykel för män')."
+ },
+ {
+  "nr": 6131,
+  "id": "10526098063626",
+  "fil": "k_6_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan. En variant men källan listar tre ramstorlekar; vikt rätt utelämnad."
+ },
+ {
+  "nr": 6132,
+  "id": "10526097998090",
+  "fil": "k_6_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan. Trekkingcykel och fjädergaffel står i källtexten; en storlek (L) och en variant, så vikten 17,5 kg är entydig."
+ },
+ {
+  "nr": 6133,
+  "id": "10462795366666",
+  "fil": "k_6_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html 1": {
+    "fore": "<li>Dig som vill ha mekaniska skivbromsar och en gaffel med 63 mm slaglängd</li>",
+    "efter": "<li>Dig som vill ha mekaniska skivbromsar och en SR Suntour-gaffel</li>"
+   }
+  },
+  "skal": "Källan anger 'SR Suntour NEX DS 63 mm' men inte att 63 mm är slaglängd. Passar för-punkten rättas; specifikationen 'SR Suntour NEX DS, 63 mm' står kvar som i källan. Möjlig dubblett 6134 (SKU 2328727, samma titel, text och pris 10 379 kr) är rätt avvisad."
+ },
+ {
+  "nr": 6135,
+  "id": "10526100226314",
+  "fil": "k_6_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Romet Wagant 4 är en silver och svart hybridcykel med",
+    "efter": "Romet Wagant 4 i silver och svart är en hybridcykel med"
+   },
+   "html 1": {
+    "fore": "Romet Wagant 4 är en silver och svart hybridcykel med",
+    "efter": "Romet Wagant 4 i silver och svart är en hybridcykel med"
+   },
+   "html 2": {
+    "fore": "<li>Dig som vill ha mekaniska skivbromsar och fjädring fram med 63 mm</li>",
+    "efter": "<li>Dig som vill ha mekaniska skivbromsar och Suntour-fjädring fram</li>"
+   }
+  },
+  "skal": "'En silver och svart hybridcykel' är otymplig svenska; skrivs 'i silver och svart' (meta 153 tecken). 'Fjädring fram med 63 mm' anger inte vad måttet är; skrivs 'Suntour-fjädring fram'. Varianterna är trasiga (Default Title och XL/silver har samma SKU 28230583-A men 10 729/9 329 kr; variantfärgen 'silver' mot titelns silver-svart); ramstorlek och vikt rätt utelämnade. Öppen fråga."
+ },
+ {
+  "nr": 6136,
+  "id": "10472236679434",
+  "fil": "k_6_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html 1": {
+    "fore": "<li>Dig som vill ha V-bromsar och en gaffel med 63 mm slaglängd</li>",
+    "efter": "<li>Dig som vill ha V-bromsar och en SR Suntour-gaffel</li>"
+   }
+  },
+  "skal": "Källan anger 'SR Suntour NEX-P 63 mm' utan att säga slaglängd; samma rättning som 6133. Ursprung (Polen) rätt struket."
+ },
+ {
+  "nr": 6137,
+  "id": "10472333574410",
+  "fil": "k_6_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan. Bromsar saknas i källan och är rätt utelämnade. Varianterna Default Title 10 269 kr och M/brown 8 929 kr har samma SKU (öppen fråga); ramstorlek och vikt låses inte."
+ },
+ {
+  "nr": 6138,
+  "id": "10487987503370",
+  "fil": "k_6_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan (Altus, 24 växlar, hydrauliska skivbromsar, SR Suntour NEX DS)."
+ },
+ {
+  "nr": 6139,
+  "id": "10472257454346",
+  "fil": "k_6_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Romet Wagant är en silver och gul cykel med",
+    "efter": "Romet Wagant i silver och gult är en cykel med"
+   },
+   "html 1": {
+    "fore": "Romet Wagant är en silver och gul cykel med",
+    "efter": "Romet Wagant i silver och gult är en cykel med"
+   }
+  },
+  "skal": "'En silver och gul cykel' skrivs 'i silver och gult' (som 'i svart och rött' i k_5). Typen Cykel är rätt eftersom källan säger både herrmountainbike och hybridcykel; antal växlar saknas och är rätt utelämnat."
+ },
+ {
+  "nr": 6140,
+  "id": "10462191780106",
+  "fil": "k_6_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan (aluminium 6061, 24 växlar, FD-TY510, RD-T4000, BR-MT200, hydrauliska skivbromsar). Varianter Default Title 10 589 kr och L/brown 9 209 kr; ramstorlek låses inte. Trasig hjulrad och 'borrhålplåtar/stativ' rätt utelämnade."
+ },
+ {
+  "nr": 6141,
+  "id": "10507443044618",
+  "fil": "k_6_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Damcykel Romet Jolene 7.2 27,5 tum, Mörkröd och Orange",
+    "efter": "Damcykel Romet Jolene 7.2, Mörkröd och Orange"
+   }
+  },
+  "skal": "Titeln saknade komma före hjulstorleken ('7.2 27,5 tum'). Med komma blir det tre kommatecken (decimalkommat räknas), därför stryks hjulstorleken ur titeln; den står kvar i meta, intro och specifikation. 45 tecken, 1 kommatecken, unik i alla filer. Bromsar rätt utelämnade (trasig rad i källan)."
+ },
+ {
+  "nr": 6142,
+  "id": "10462192173322",
+  "fil": "k_6_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan (hybridmodell, 28 tum, Tourney/Altus, 21 växlar). Bromsar och vikt rätt utelämnade."
+ },
+ {
+  "nr": 6143,
+  "id": "10472334065930",
+  "fil": "k_6_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Godkänd. Gravelcykel följer taggen. Specifikationen säger mekaniska skivbromsar; löptextens 'kedjebromsar' är en felöversättning utan motsvarighet och motsäger inte bromstypen. Varianter Default Title 14 339 kr och M/yellow 12 469 kr; vikt rätt utelämnad. Öppen fråga."
+ },
+ {
+  "nr": 6144,
+  "id": "10472332067082",
+  "fil": "k_6_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan. Dubbletten 6145 (SKU 28190608-A, samma text och pris 12 359 kr) är rätt avvisad. SKU-mönstret (2819… mot 2821…) tyder på ramstorlek 19 mot 21 tum, alltså två storlekar som egna produkter; öppen fråga."
+ },
+ {
+  "nr": 6146,
+  "id": "10548235239690",
+  "fil": "k_6_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan. En storlek (15 tum) och en variant, så ramstorlek och vikt 16,6 kg är entydiga."
+ },
+ {
+  "nr": 6147,
+  "id": "10572695503114",
+  "fil": "k_6_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan."
+ },
+ {
+  "nr": 6148,
+  "id": "10507259478282",
+  "fil": "k_6_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan. En storlek (XL) och en variant; vikt 17 kg entydig. Trasig 'Shimano fjädring'-rad rätt utelämnad."
+ },
+ {
+  "nr": 6149,
+  "id": "10507259412746",
+  "fil": "k_6_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Romet Wagant 0 är en turkos-guld hybridcykel med",
+    "efter": "Romet Wagant 0 i turkos och guld är en hybridcykel med"
+   },
+   "html 1": {
+    "fore": "Romet Wagant 0 är en turkos och guld hybridcykel med",
+    "efter": "Romet Wagant 0 i turkos och guld är en hybridcykel med"
+   },
+   "html 2": {
+    "fore": "<li>Färg: Turkos och Guld</li>",
+    "efter": "<li>Färg: Turkos och guld</li>"
+   }
+  },
+  "skal": "'En turkos-guld hybridcykel' (meta) och 'en turkos och guld hybridcykel' (intro) är felaktig svenska och olika; skrivs 'i turkos och guld'. Färgen i specifikationen får liten bokstav efter första ordet som i övriga utkast."
+ },
+ {
+  "nr": 6150,
+  "id": "10472258109706",
+  "fil": "k_6_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html 1": {
+    "fore": "<li>Dig som vill ha V-bromsar och en SR Suntour-gaffel</li>",
+    "efter": "<li>Dig som vill ha V-bromsar och dämpning från SR Suntour</li>"
+   }
+  },
+  "skal": "Källan anger 'Dämpning: SR Suntour 3010' och 'Suntour-stötdämparen', inte en gaffel; Passar för rättas. Trasiga rader rätt utelämnade."
+ },
+ {
+  "nr": 6153,
+  "id": "10472287928586",
+  "fil": "k_7_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Damcykel Tabou Kinetic 2.0 Plus W, Svart",
+    "efter": "Cykel Tabou Kinetic 2.0 Plus W, Svart/Guld"
+   }
+  },
+  "skal": "SEO-titeln tappade 'Guld' och anger bara svart (regel 3: färgen i titel och SEO). Fullständig form med typordet Damcykel blir 45 tecken; därför typordet Cykel (som 6124 i k_5). 42 tecken, unik i alla filer. Vikten 16,8 kg står entydigt och produkten har en variant."
+ },
+ {
+  "nr": 6154,
+  "id": "10472292090122",
+  "fil": "k_7_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Färgen motsägs: titeln säger svart-grön, varianten 'XL / blue' (8 239 kr) har samma SKU TAB23-3020 som Default Title (9 479 kr), och källan listar bara ramstorlek M och L. Utkastet tar bort färgen ur titel och SEO, vilket strider mot regel 3, och färgen kan inte låsas (regel 5). Samma hantering som 6079 i k_4. Behöver rättade varianter från leverantören."
+ },
+ {
+  "nr": 6155,
+  "id": "10472234320138",
+  "fil": "k_7_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "passar enligt tillverkaren kedjor med 48 kuggar",
+    "efter": "passar enligt tillverkaren kedjedrev med 48 kuggar"
+   },
+   "html 1": {
+    "fore": "som enligt tillverkaren passar kedjor med 48 kuggar",
+    "efter": "som enligt tillverkaren passar kedjedrev med 48 kuggar"
+   },
+   "html 2": {
+    "fore": "<li>Passar: Kedjor med 48 kuggar</li>",
+    "efter": "<li>Passar: Kedjedrev med 48 kuggar</li>"
+   },
+   "html 3": {
+    "fore": "<li>Dig som söker ett kedjeskydd för 48 kuggar</li>",
+    "efter": "<li>Dig som söker ett kedjeskydd för kedjedrev med 48 kuggar</li>"
+   }
+  },
+  "skal": "Källan säger 'passar kedjor med 48 kuggar', men en kedja har inga kuggar; 48T i originaltiteln avser kedjedrevet. Rättas till 'kedjedrev med 48 kuggar' i meta (155 tecken), intro, specifikation och Passar för. Alternativ om David inte vill tolka: underkänn. 'LSM' och 'integrerat lås' rätt utelämnade."
+ },
+ {
+  "nr": 6160,
+  "id": "10475420975370",
+  "fil": "k_7_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan. Typordet Stötdämparpump följer källans 'pump för stötdämpare' (produkttypen Cykeldelar oförändrad). Märkeshistorik rätt struken."
+ },
+ {
+  "nr": 6165,
+  "id": "10515736625418",
+  "fil": "k_7_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Sadel Giant Approach SL är en cykelsadel på 145 mm bredd och 248 mm längd med stackhöjd 45 mm. Sadeln väger 240 g och är kompatibel med UniClip.",
+    "efter": "Sadeln Giant Approach SL är 145 mm bred och 248 mm lång och har en stackhöjd på 45 mm. Den väger 240 g och är kompatibel med UniClip-systemet."
+   }
+  },
+  "skal": "Metan var otymplig ('en cykelsadel på 145 mm bredd och 248 mm längd') och började med typordet två gånger. Ny meta 142 tecken med samma uppgifter. Motsägelsen polykarbonat/polypropen rätt utelämnad."
+ },
+ {
+  "nr": 6168,
+  "id": "10515736723722",
+  "fil": "k_7_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Godkänd som tunn källa (tom beskrivning): kort intro, ingen meta."
+ },
+ {
+  "nr": 6169,
+  "id": "10475980849418",
+  "fil": "k_7_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Sadel Liv Contact Comfort, Svart",
+    "efter": "Sadel Liv Contact Comfort Forward, Svart"
+   },
+   "seo_title": {
+    "fore": "Sadel Liv Contact Comfort, Svart",
+    "efter": "Sadel Liv Contact Comfort Forward, Svart"
+   },
+   "meta": {
+    "fore": "designad för sportig och rekreationell cykling.",
+    "efter": "designad för sport- och fritidscykling."
+   },
+   "html 1": {
+    "fore": "designad för sportig och rekreationell cykling.</p>",
+    "efter": "designad för sport- och fritidscykling.</p>"
+   }
+  },
+  "skal": "'FORWARD' i originaltiteln är modellbeteckning (Contact Comfort Forward) och behålls enligt regeln att modellnamn behålls; 'BLK' = svart. 'Rekreationell' är inte svenska; skrivs 'sport- och fritidscykling' (meta 147 tecken)."
+ },
+ {
+  "nr": 6174,
+  "id": "10472238612746",
+  "fil": "k_7_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Godkänd som tunn källa (en mening): kort intro, ingen meta."
+ },
+ {
+  "nr": 6176,
+  "id": "10472237105418",
+  "fil": "k_8_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Shimano Tourney RD-TY300-SGS är en bakväxel som enligt tillverkaren är kompatibel med 6- och 7-växlade SIS Index Shifting. Finns i en variant.",
+    "efter": "Shimano Tourney RD-TY300-SGS är en bakväxel som enligt tillverkaren är kompatibel med 6- och 7-växlade system med SIS Index Shifting."
+   },
+   "html 1": {
+    "fore": "kompatibel med 6- och 7-växlade SIS Index Shifting.</p>",
+    "efter": "kompatibel med 6- och 7-växlade system med SIS Index Shifting.</p>"
+   }
+  },
+  "skal": "Antal växlar (6 och 7) står entydigt i titel och text; ingen kompatibilitet utöver källan. Metan slutade med 'Finns i en variant.', som inte är produktinformation, och '6- och 7-växlade SIS Index Shifting' saknar substantiv. Ny meta 133 tecken; samma rättning i intro."
+ },
+ {
+  "nr": 6177,
+  "id": "10472287535370",
+  "fil": "k_8_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Bakväxel Shimano Tourney RD-TY300, 6/7-växlad",
+    "efter": "Bakväxel Shimano Tourney RD-TY300 DA, 6/7-växlad"
+   },
+   "seo_title": {
+    "fore": "Bakväxel Shimano Tourney RD-TY300",
+    "efter": "Bakväxel Shimano Tourney RD-TY300 DA"
+   },
+   "html 1": {
+    "fore": "<p>Shimano Tourney RD-TY300 är en bakväxel",
+    "efter": "<p>Shimano Tourney RD-TY300 DA är en bakväxel"
+   },
+   "html 2": {
+    "fore": "<li>Modell: Tourney RD-TY300</li>",
+    "efter": "<li>Modell: Tourney RD-TY300 DA</li>"
+   }
+  },
+  "skal": "Antal växlar 6/7 står entydigt i originaltiteln. 'DA' i originaltiteln skiljer produkten från 6176 (SKU ARDTY300D mot ARDTY300B, troligen direktmontage mot ramöra) och behålls som modellbeteckning i titel, SEO och specifikation, så att de två produkterna inte ser likadana ut. Betydelsen skrivs inte ut."
+ },
+ {
+  "nr": 6178,
+  "id": "10472252801290",
+  "fil": "k_8_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Antalet växlar motsägs: titeln '7/8v' mot beskrivningens '8-växlad drivlina'. Enligt regeln för bakväxlar underkänns produkten när antal växlar är oklart eller motsägs. Titeln innehåller dessutom 'ram' och '43T' utan förklaring."
+ },
+ {
+  "nr": 6206,
+  "id": "10472243265802",
+  "fil": "k_9_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan: 9 växlar (titel 9s, 'Bakväxlar: 9', modell -9R), höger (titel), Rapidfire Plus, numerisk växelindikator. Kompatibilitet med 'MTB 9-växlad växellåda' rätt utelämnad. Typordet Växelreglage ersätter felterm 'Växelförare' (samma produkttyp)."
+ },
+ {
+  "nr": 6207,
+  "id": "10472240972042",
+  "fil": "k_9_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan: 7 växlar entydigt (titel 7s, text 7-växlade system). Sida och kompatibilitet utöver antal växlar skrivs inte. Kvalitetslöften rätt strukna."
+ }
+]
