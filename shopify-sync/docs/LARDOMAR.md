@@ -111,3 +111,8 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 - Gräns som sattes: Sonnet skulle hitta minst 90 procent. Resultat 41 procent, alltså byts inte granskaren.
 - Regel: Opus fortsätter som granskare före skrivning. Besparingen tas i stället från Haiku som skrivare/taggare (no-op-test godkänt), utkast i batcher om 25, inbyggda lärdomar i utkastprompten och stickprov 20 procent efter skrivning.
 - Anm.: testet gäller Sonnet utan förbättrad granskarprompt och utan komplett källa; en omtest med bättre underlag kan göras om kostnaden motiverar det.
+
+## 2026-11-03: titlarna stod kvar efter nattsynken 3 november (Velomarket-skyddet fungerar)
+- Vad hände: efter nattens synk 2026-11-03 (03:00) lästes titlar tillbaka på 33 slumpvis valda skrivna produkter (Gymstick-testbatch, de sex titeländringarna, våg 2a, Gymstick-batcher och Velomarket-batcher). 33 av 33 hade kvar sina texter. Velomarket-produkterna hade nytt ändringsdatum kl. 05:31–05:32, alltså rördes de av något jobb, men titlarna ändrades inte.
+- Slutsats: det nya skyddet i Velomarket-synken (titel och beskrivning skrivs bara vid skapande) och stoppet av sammanslagningen verkar fungera. Orsaken till pilotens tillbakagång 25–30 oktober är fortfarande inte bekräftad.
+- Regel: läs tillbaka titlar efter varje natt i en vecka framåt (stickprov om 30 produkter) och efter varje körning av sammanslagningen.
