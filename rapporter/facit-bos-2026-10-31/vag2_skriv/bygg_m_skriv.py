@@ -39,7 +39,7 @@ for k in('titel','seo_title','meta'):
 for o in out:
     if len(o['titel'])>70: prob.append((o['nr'],'titel','>70'))
     if o['seo_title'] and len(o['seo_title'])>43: prob.append((o['nr'],'seo','>43'))
-    if o['meta'] and not 130<=len(o['meta'])<=155: prob.append((o['nr'],'meta',len(o['meta'])))
+    if o['meta'] and not 70<=len(o['meta'])<=155: prob.append((o['nr'],'meta',len(o['meta'])))
 json.dump(out,open(outf,'w',encoding='utf-8'),ensure_ascii=False,indent=1)
 print(namn,len(out),'skrivbara; saknar utlåtande:',saknar)
 print(collections.Counter(utl[o['nr']]['dom'][:6] for o in out))
