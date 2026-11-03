@@ -1,0 +1,67 @@
+[
+ {
+  "id": "10472331968778",
+  "nr": 9005,
+  "skäl": "Barnmodell: källan anger \"Lämplig för förare i åldrarna 4 till 7 år\"."
+ },
+ {
+  "id": "10515744030986",
+  "nr": 9017,
+  "skäl": "Barnmodell: källan anger \"designad för små barn\" och rekommenderad ålder från 4 år."
+ },
+ {
+  "id": "10472332034314",
+  "nr": 9006,
+  "skäl": "Redan skriven: produkten har i butiken redan ny titel och text (Stuntscooter Union Lite S, Blå). Barnstorlek (användarhöjd 105–125 cm) bör även ses över."
+ },
+ {
+  "id": "10472332296458",
+  "nr": 9007,
+  "skäl": "Barnstorlek: Union Lite XS, användarhöjd 100–120 cm. Källan har dessutom en trasig rad (\"14,1495 kg - 120-120 cm\")."
+ },
+ {
+  "id": "10472332361994",
+  "nr": 9008,
+  "skäl": "Barnstorlek: Union Lite XS, användarhöjd 100–120 cm. Källan har dessutom en trasig rad (\"14,1495 kg - 120-120 cm\")."
+ },
+ {
+  "id": "10472332493066",
+  "nr": 9009,
+  "skäl": "Barnstorlek: Union Lite S, användarhöjd 105–125 cm. Källan beskriver dessutom produkten som \"trike\" trots titeln scooter (motsägande)."
+ },
+ {
+  "id": "10472332820746",
+  "nr": 9011,
+  "skäl": "Barnstorlek: Union Lite M, användarhöjd 110–130 cm. Källan beskriver dessutom produkten som \"trike\" trots titeln scooter (motsägande)."
+ },
+ {
+  "id": "10472332722442",
+  "nr": 9010,
+  "skäl": "Status ARCHIVED i butiken, inte ACTIVE. Även barnstorlek (XS, 100–120 cm) och trasig källa."
+ },
+ {
+  "id": "10515754352906",
+  "nr": 9024,
+  "skäl": "Barnmodell: Union Aero XS, källan anger ålder 4–9 och förare 115–130 cm. Även dubblett av nr 9026 (samma modell, färg svart/grå)."
+ },
+ {
+  "id": "10515754451210",
+  "nr": 9026,
+  "skäl": "Barnmodell: Union Aero XS, källan anger ålder 4–9 och förare 115–130 cm. Även dubblett av nr 9024."
+ },
+ {
+  "id": "10515754615050",
+  "nr": 9028,
+  "skäl": "Motsägande källa: titeln anger Credit V2 Pro men texten säger \"Union Classic V2 Pro-hjul\" med samma vikt som Classic (236 g). Går inte att skriva säkert; Classic V2 Pro 110 mm Krom/Blå skrivs i nr 9029."
+ },
+ {
+  "id": "10605358055690",
+  "nr": 9034,
+  "skäl": "Redan skriven: produkten har i butiken redan ny titel och text (Griptape Ethic Basic). Källan är tunn och saknar mått."
+ },
+ {
+  "id": "10676607189258",
+  "nr": 9036,
+  "skäl": "Tunn källa: ingen beskrivning alls, bara titeln. Ingen faktagrund att skriva från."
+ }
+]
