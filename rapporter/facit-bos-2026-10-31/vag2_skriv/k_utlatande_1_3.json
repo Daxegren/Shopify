@@ -1,0 +1,698 @@
+[
+ {
+  "nr": 6006,
+  "id": "10472295006474",
+  "fil": "k_1_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt spårbart (stålram, 1 växel, V-bromsar, 23 mm däck, flip-flop-bakhjul, fästpunkter). En variant; 'Hjulvikt 10,9 kg' rätt utelämnad (oklart). Hjulstorlek saknas i källan. Dubbletterna 6007/6008 är rätt avvisade."
+ },
+ {
+  "nr": 6009,
+  "id": "10472334688522",
+  "fil": "k_1_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Engelsk källa korrekt översatt. Två varianter (L, M) samma pris; ramstorlek och vikt rätt inte låsta (metan nämner bara att M och L finns). Flip-flop/frihjul står i källan."
+ },
+ {
+  "nr": 6010,
+  "id": "10460912976138",
+  "fil": "k_1_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "En variant (M / orange), vikt 10,9 kg får stå. Färg: titeln 'matt persika', texten och varianten 'orange'. Godtas eftersom persika är en orange ton och titeln är butikens namn, men frågan går till David. 'Made in Germany' rätt utelämnat."
+ },
+ {
+  "nr": 6013,
+  "id": "10468767334666",
+  "fil": "k_1_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Hybridcykel Giant Roam 3, 18 Växlar, Metal",
+    "efter": "Hybridcykel Giant Roam 3, 18 Växlar, Metall"
+   },
+   "seo_title": {
+    "fore": "Hybridcykel Giant Roam 3, Metal",
+    "efter": "Hybridcykel Giant Roam 3, Metall"
+   },
+   "meta": {
+    "fore": "Giant Roam 3 är en hybridcykel i färgen Metal med ALUXX-aluminiumram, 18 växlar, hydrauliska skivbromsar och däck i storleken 700x42c.",
+    "efter": "Giant Roam 3 är en hybridcykel i färgen Metall med ALUXX-aluminiumram, 18 växlar, hydrauliska skivbromsar och däck i storleken 700x42c."
+   },
+   "html": {
+    "fore": "<li>Färg: Metal</li>",
+    "efter": "<li>Färg: Metall</li>"
+   }
+  },
+  "skal": "Fakta spårbara. Färgnamnet 'Metal' är engelska; ToughRoad (6033) heter 'Metall' i butiken. För enhetlighet och korrekt översättning: Metall."
+ },
+ {
+  "nr": 6025,
+  "id": "10502527025418",
+  "fil": "k_1_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Samma källa som 6013, en variant (S / blue). Ramstorlek inte låst (godtagbart). Giants färgnamn Ultra Navy behålls."
+ },
+ {
+  "nr": 6023,
+  "id": "10471083999498",
+  "fil": "k_1_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "En variant; RockShox Paragon Gold RL 50 mm, CUES U6020, 11 växlar, hydrauliska skivbromsar finns i källan. 'Elektronblå' är korrekt översättning av Electron Blue."
+ },
+ {
+  "nr": 6024,
+  "id": "10472323645706",
+  "fil": "k_1_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Fakta spårbara. Färgnamn Midnight Moon (variant 'gray') behålls."
+ },
+ {
+  "nr": 6014,
+  "id": "10476214812938",
+  "fil": "k_1_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt spårbart trots att källan är inklistrad chatt-HTML. Variant 'M / Red' mot titelns Mars Dust/Black: titelns färg används, frågan till David. Bara en variant, ramstorlek ändå inte låst (godtagbart)."
+ },
+ {
+  "nr": 6016,
+  "id": "10468766974218",
+  "fil": "k_1_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt spårbart (Deore M6100, 12 växlar, BR-MT200, 29x2.4). Tre varianter, XL har annat pris (16 589 mot 19 079 kr); inget låst."
+ },
+ {
+  "nr": 6015,
+  "id": "10472322498826",
+  "fil": "k_1_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt spårbart. Fyra varianter samma pris; inget låst."
+ },
+ {
+  "nr": 6018,
+  "id": "10476224086282",
+  "fil": "k_1_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt spårbart (Altus/Acera, 16 växlar, 29x2.2). Tre varianter; inget låst."
+ },
+ {
+  "nr": 6017,
+  "id": "10472322302218",
+  "fil": "k_1_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "En variant, källan beskriver bara XS, så XS 34,5 cm får stå. 27,5 tum stämmer med däcken 27.5x2.2. Titelns form utan komma före 27,5 godtas (decimalkommat räknas av skriptet)."
+ },
+ {
+  "nr": 6019,
+  "id": "10472295727370",
+  "fil": "k_1_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Fram- och bakljus ingår i setet enligt källan ('Inkluderar stöd, stänkskärmar, pakethållare, fram- och bakljus'). Belysning som del av setet underkänns enligt Davids regel (samma skäl som utkastaren själv använde för 6072)."
+ },
+ {
+  "nr": 6020,
+  "id": "10488246632714",
+  "fil": "k_1_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Setet innehåller ramlås samt fram- och bakljus. Dessutom: cykeltypen 'Herrcykel' finns inte i listan över tillåtna typer (källan säger stadscykel), och varianterna har orimliga priser (Default Title 12 469 kr, 'L / black' 5 229 kr)."
+ },
+ {
+  "nr": 6021,
+  "id": "10488246763786",
+  "fil": "k_1_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Setet innehåller ramlås samt fram- och bakljus. Cykeltypen 'Herrcykel' (källan: stadscykel) bör också avgöras av David."
+ },
+ {
+  "nr": 6022,
+  "id": "10488246698250",
+  "fil": "k_1_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Setet innehåller ramlås samt fram- och bakljus. Variantdatat är trasigt (sju varianter, SKU 2226011185 tre gånger)."
+ },
+ {
+  "nr": 6026,
+  "id": "10472333181194",
+  "fil": "k_2_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Fakta spårbara (Tourney 14 växlar, TKD-143, 700x42c). Varianterna trasiga (Default Title och S har samma SKU och olika pris); inget låst. 'Enligt tillverkaren' en gång."
+ },
+ {
+  "nr": 6027,
+  "id": "10472322924810",
+  "fil": "k_2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html 1": {
+    "fore": "<li>Dig som vill ha däck för terräng; enligt tillverkaren ryms däck upp till 2,4 tum på alla Talon-modeller</li>",
+    "efter": "<li>Dig som vill kunna montera stänkskärmar och annan utrustning</li>"
+   },
+   "html 2": {
+    "fore": "29x2.4 tum",
+    "efter": "29x2,4 tum"
+   }
+  },
+  "skal": "'Passar för'-punkten om att alla Talon-modeller rymmer däck upp till 2,4 tum är ett tillverkarpåstående om en hel serie och en kompatibilitetsuppgift; ersätts med fästpunkterna, som står i källan. Decimalpunkt i däckmåttet blir komma."
+ },
+ {
+  "nr": 6028,
+  "id": "10472322203914",
+  "fil": "k_2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html 1": {
+    "fore": "<li>Dig som vill ha däck för terräng; enligt tillverkaren ryms däck upp till 2,4 tum på alla Talon-modeller</li>",
+    "efter": "<li>Dig som vill kunna montera stänkskärmar och annan utrustning</li>"
+   },
+   "html 2": {
+    "fore": "29x2.4 tum",
+    "efter": "29x2,4 tum"
+   }
+  },
+  "skal": "Som 6027."
+ },
+ {
+  "nr": 6029,
+  "id": "10472322367754",
+  "fil": "k_2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "29x2.4 tum",
+    "efter": "29x2,4 tum"
+   }
+  },
+  "skal": "Allt spårbart. En variant ('M / gray' mot titelns Asphalt Green; titelns färg används). Decimalpunkt i däckmåttet blir komma."
+ },
+ {
+  "nr": 6045,
+  "id": "10530212348170",
+  "fil": "k_2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "29x2.4 tum",
+    "efter": "29x2,4 tum"
+   }
+  },
+  "skal": "Allt spårbart. 'Pure Red' blir 'Röd' (godtagbart). Decimalpunkt i däckmåttet blir komma."
+ },
+ {
+  "nr": 6030,
+  "id": "10471130038538",
+  "fil": "k_2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Giant Talon 4 är en metallicsvart mountainbike med aluminiumram, 16 växlar med Shimano Altus bakväxel och mekaniska skivbromsar från Tektro.",
+    "efter": "Giant Talon 4 är en metallicsvart mountainbike med aluminiumram, 16 växlar, bakväxel Shimano Altus och mekaniska skivbromsar från Tektro."
+   },
+   "html": {
+    "fore": "<li>Sadelstolpe: Giant Sport, 30.9</li>",
+    "efter": ""
+   }
+  },
+  "skal": "Titeln i butiken 'Talon 29 4' men däcken 27.5x2.2: hjulstorleken är rätt utelämnad. Sadelstolpsraden '30.9' saknar enhet och stryks. Metans 'Shimano Altus bakväxel' skrivs om grammatiskt. SEO-titeln är identisk med titeln (lagras tom, avsett)."
+ },
+ {
+  "nr": 6031,
+  "id": "10472298119434",
+  "fil": "k_2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Giant Talon 3 från 2022 är en mountainbike i färgen Amber Glow med aluminiumram, hydrauliska skivbromsar och Shimano Altus M310 bakväxel.",
+    "efter": "Giant Talon 3 från 2022 är en mountainbike i färgen Amber Glow med aluminiumram, hydrauliska skivbromsar och bakväxel Shimano Altus M310."
+   },
+   "html 1": {
+    "fore": "<li>Dig som vill ha en mountainbike med fjädrande framgaffel med 100 mm slaglängd</li>",
+    "efter": "<li>Dig som vill ha en mountainbike med fjädrande framgaffel</li>"
+   },
+   "html 2": {
+    "fore": "<li>Gaffel: SR Suntour XCE, QR, stålstyrrör, 100 mm slaglängd</li>",
+    "efter": "<li>Gaffel: SR Suntour XCE, QR, stålstyrrör</li>"
+   }
+  },
+  "skal": "Titeln 27.5 tum mot 29 tum i texten: hjulstorlek rätt utelämnad. Gaffelns '100 mm slaglängd' står i källan med tillägget 'beroende på storlek' och är därför inte entydig, så den stryks. Metans ordföljd rättas."
+ },
+ {
+  "nr": 6032,
+  "id": "10530156347658",
+  "fil": "k_2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Mountainbike Giant Talon 3 XS, 27.5 tum, Panther",
+    "efter": "Mountainbike Giant Talon 3 XS 27,5 tum, Panther"
+   },
+   "meta": {
+    "fore": "Giant Talon 3 i ramstorlek XS är en mountainbike med 27.5-tumshjul, aluminiumram, 16 växlar och hydrauliska skivbromsar i färgen Panther.",
+    "efter": "Giant Talon 3 i ramstorlek XS är en mountainbike med 27,5-tumshjul, aluminiumram, 16 växlar och hydrauliska skivbromsar i färgen Panther."
+   },
+   "html 1": {
+    "fore": "aluminiumram, 27.5-tumshjul och 16 växlar",
+    "efter": "aluminiumram, 27,5-tumshjul och 16 växlar"
+   },
+   "html 2": {
+    "fore": "ramstorlek XS med 27.5-tumshjul</li>",
+    "efter": "ramstorlek XS med 27,5-tumshjul</li>"
+   }
+  },
+  "skal": "En variant, XS får stå. Decimalpunkt '27.5' ersätts av '27,5' och titeln får samma form som 6017 (Talon 3 XS 27,5 tum, Beeswax)."
+ },
+ {
+  "nr": 6033,
+  "id": "10472257650954",
+  "fil": "k_2_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Ingen typtagg och ingen typ i källan, så 'Cykel' är rätt. Platt styre, 700c, kolfibergaffel, Acera/Altus och hydrauliska skivbromsar står i källan. Antal växlar saknas och är rätt utelämnat."
+ },
+ {
+  "nr": 6034,
+  "id": "10472293630218",
+  "fil": "k_2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "29x2.4, TLR",
+    "efter": "29x2,4, TLR"
+   }
+  },
+  "skal": "Allt spårbart, modellår 2025 ur titeln, en variant. Decimalpunkt i däckmåttet blir komma."
+ },
+ {
+  "nr": 6035,
+  "id": "10502528336138",
+  "fil": "k_2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "29x2.4, vikbara",
+    "efter": "29x2,4, vikbara"
+   }
+  },
+  "skal": "Allt spårbart. Varianterna trasiga (Default Title och M har samma SKU 1119019185, olika pris). Decimalpunkt i däckmåttet blir komma. 'Abyss Black' blir 'Svart' här men behålls i 6054 – David bör välja en linje."
+ },
+ {
+  "nr": 6036,
+  "id": "10472258371850",
+  "fil": "k_2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html 1": {
+    "fore": "slanglösa däck i storleken 700x25c.",
+    "efter": "slanglösa däck."
+   },
+   "html 2": {
+    "fore": "<li>Däck: Giant Course 1, slanglöst, 700x25c (28 mm), fällbart</li>",
+    "efter": "<li>Däck: Giant Course 1, slanglöst, vikbart</li>"
+   }
+  },
+  "skal": "Däcken anges '700x25c (28 mm)': 25 och 28 mm motsäger varandra, så bredden stryks (700c står kvar). 'Fällbart' är fel ord för däck och blir 'vikbart'. En variant, så L (53 cm) får stå."
+ },
+ {
+  "nr": 6037,
+  "id": "10462193844490",
+  "fil": "k_2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Fatbike Giant Yukon 1, 27.5 tum, Hematit",
+    "efter": "Fatbike Giant Yukon 1 i Hematit, 27,5 tum"
+   },
+   "meta": {
+    "fore": "Giant Yukon 1 är en fatbike i färgen Hematit med aluminiumram, 27.5-tumshjul, SRAM NX Eagle bakväxel och hydrauliska skivbromsar från SRAM.",
+    "efter": "Giant Yukon 1 är en fatbike i färgen Hematit med aluminiumram, 27,5-tumshjul, SRAM NX Eagle bakväxel och hydrauliska skivbromsar från SRAM."
+   },
+   "html": {
+    "fore": "aluminiumram och 27.5-tumshjul med 4,5 tum breda däck.",
+    "efter": "aluminiumram och 27,5-tumshjul."
+   }
+  },
+  "skal": "'27.5' med decimalpunkt rättas till '27,5' (som i butikens egen titel). '4,5 tum breda däck' har ingen enhet i källan ('27,5 x 4,5') och stryks i löptexten. Titeln får formen '... Yukon 1 i Hematit, 27,5 tum' för att hålla två kommatecken inklusive decimalkommat."
+ },
+ {
+  "nr": 6040,
+  "id": "10469286773002",
+  "fil": "k_2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Landsvägscykel Giant Propel Advanced 2",
+    "efter": "Giant Propel Advanced 2, Supernova"
+   },
+   "meta": {
+    "fore": "Giant Propel Advanced 2 är en landsvägscykel i färgen Supernova med kolfiberram, Shimano 105 med 22 växlar och hydrauliska skivbromsar.",
+    "efter": "Giant Propel Advanced 2 är en landsvägscykel i färgen Supernova med kolfiberram, växlar och bromsar från Shimano 105 och slanglösa 700x28c-däck."
+   },
+   "html 1": {
+    "fore": "Cykeln har Shimano 105 med 22 växlar, hydrauliska",
+    "efter": "Cykeln har Shimano 105, hydrauliska"
+   },
+   "html 2": {
+    "fore": "<li>Dig som vill ha Shimano 105 med 22 växlar</li>",
+    "efter": "<li>Dig som vill ha växlar och bromsar från Shimano 105</li>"
+   },
+   "html 3": {
+    "fore": "<li>Växlar: Shimano 105, 22 växlar</li>",
+    "efter": "<li>Växlar: Shimano 105</li>"
+   }
+  },
+  "skal": "Källan säger både '2×12-speed' (24) och 'Number of gears: 22': antalet växlar stryks i meta, text och specifikation. SEO-titeln saknade färg och skulle krocka i stil med 6058; färgen läggs till. Kolfiber står i källan."
+ },
+ {
+  "nr": 6042,
+  "id": "10460947087626",
+  "fil": "k_2_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt spårbart (Cues 20 växlar, TKD-143, 700x42c). Två varianter samma pris; inget låst."
+ },
+ {
+  "nr": 6046,
+  "id": "10486704800010",
+  "fil": "k_2_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Titeln säger 27.5 tum men däcken 29x2,2: hjulstorlek rätt utelämnad. En variant, XS får stå. SEO-titel identisk med titeln (lagras tom)."
+ },
+ {
+  "nr": 6047,
+  "id": "10468766417162",
+  "fil": "k_2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "29x2.2 tum",
+    "efter": "29x2,2 tum"
+   }
+  },
+  "skal": "Allt spårbart. L har annat pris (10 519 mot 11 919 kr); inget låst. Decimalpunkt i däckmåttet blir komma."
+ },
+ {
+  "nr": 6048,
+  "id": "10472333345034",
+  "fil": "k_2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html 1": {
+    "fore": "<li>Gaffel: RockShox Rudy XPLR, 40 mm, cartridge damper, 12x100 mm genomgående axel</li>",
+    "efter": "<li>Gaffel: RockShox Rudy XPLR, 40 mm slaglängd, 12x100 mm genomgående axel</li>"
+   },
+   "html 2": {
+    "fore": "<li>Däck: Crosscut GRIP, 700x45c, tubeless ready</li>",
+    "efter": "<li>Däck: Crosscut GRIP, 700x45c, förberedda för slanglöst</li>"
+   }
+  },
+  "skal": "Allt spårbart; 'full-suspension hardtail' rätt utelämnat. Engelska rester i specifikationen ('cartridge damper', 'tubeless ready') översätts eller stryks. Titeln 61 tecken."
+ },
+ {
+  "nr": 6049,
+  "id": "10472296186122",
+  "fil": "k_2_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt spårbart; trasig rad ('700 gt, 700 gt …') rätt utelämnad. Varianterna har olika pris (26 819 / 23 319 kr) och estniska namn ('roheline'); inget låst. 'Ljus Olivgrön' är korrekt för Pale Olive."
+ },
+ {
+  "nr": 6050,
+  "id": "10472257552650",
+  "fil": "k_2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html 1": {
+    "fore": "däck i storleken 700x38C.",
+    "efter": "däck i storleken 700x38c."
+   },
+   "html 2": {
+    "fore": "<li>Däck: Giant CrossCut AT 2, 700x38C</li>",
+    "efter": "<li>Däck: Giant CrossCut AT 2, 700x38c</li>"
+   }
+  },
+  "skal": "Allt spårbart (Sora 18 växlar, Tektro MD-C550 mekaniska skivbromsar). '700x38C' skrivs med litet c som i övriga utkast."
+ },
+ {
+  "nr": 6051,
+  "id": "10468743151882",
+  "fil": "k_3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Shimano Tiagra-växlar med 20 växlar",
+    "efter": "Shimano Tiagra med 20 växlar"
+   }
+  },
+  "skal": "Allt spårbart. Upprepningen 'Shimano Tiagra-växlar med 20 växlar' rättas. Varianterna trasiga (Default Title och M/L samma SKU, 24 949 / 21 729 kr). '700x32c (34 mm)' avser nominell storlek och uppmätt bredd; nominella 700x32c godtas, frågan noteras."
+ },
+ {
+  "nr": 6068,
+  "id": "10471334379786",
+  "fil": "k_3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Shimano Tiagra-växlar med 20 växlar",
+    "efter": "Shimano Tiagra med 20 växlar"
+   }
+  },
+  "skal": "Som 6051. Varianterna har tre olika priser (24 989 / 24 949 / 21 729 kr)."
+ },
+ {
+  "nr": 6054,
+  "id": "10476166217994",
+  "fil": "k_3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html 1": {
+    "fore": "Shimano 105-växlar med 24 växlar",
+    "efter": "Shimano 105 med 24 växlar"
+   },
+   "html 2": {
+    "fore": "700x32c, fällbara",
+    "efter": "700x32c, vikbara"
+   }
+  },
+  "skal": "Allt spårbart. Upprepningen 'Shimano 105-växlar med 24 växlar' rättas, 'fällbara' blir 'vikbara'. Varianterna trasiga (Default Title och L samma SKU, 43 829 / 38 109 kr)."
+ },
+ {
+  "nr": 6055,
+  "id": "10471117717770",
+  "fil": "k_3_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt spårbart, en variant. 'Skiva' tolkat som skivbroms är rimligt eftersom bromsarna är hydrauliska skivbromsar enligt källan."
+ },
+ {
+  "nr": 6056,
+  "id": "10472248410378",
+  "fil": "k_3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "700x32c, fällbara",
+    "efter": "700x32c, vikbara"
+   }
+  },
+  "skal": "Källan anger 22 växlar för just denna produkt, entydigt i den egna källan. 'Fällbara' blir 'vikbara'. Ramraden saknas i källan men 'kompositramen' står i löptexten."
+ },
+ {
+  "nr": 6058,
+  "id": "10472296284426",
+  "fil": "k_3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Landsvägscykel Giant Propel Advanced 2, 700x25c, Carbon",
+    "efter": "Landsvägscykel Giant Propel Advanced 2, 700c, Carbon"
+   },
+   "meta": {
+    "fore": "Landsvägscykeln Giant Propel Advanced 2 i Carbon har komposit i ram och gaffel, Shimano 105, hydrauliska skivbromsar och slanglösa 700x25c-däck.",
+    "efter": "Landsvägscykeln Giant Propel Advanced 2 i Carbon har komposit i ram och gaffel, Shimano 105, hydrauliska skivbromsar och slanglösa däck."
+   },
+   "html 1": {
+    "fore": "Däcken är slanglösa och mäter 700x25c.",
+    "efter": "Däcken är slanglösa."
+   },
+   "html 2": {
+    "fore": "slanglösa, 700x25c, fällbara",
+    "efter": "slanglösa, vikbara"
+   }
+  },
+  "skal": "Däcken '700x25c (28mm)' motsäger sig själva: bredden stryks i titel, meta, text och specifikation (700c står kvar i titeln). 21 växlar rätt utelämnat. Flaskhållare ingår enligt källan."
+ },
+ {
+  "nr": 6062,
+  "id": "10472251949322",
+  "fil": "k_3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Landsvägscykel Giant TCR Advanced 2 KOM, 700x25c, Carbon",
+    "efter": "Landsvägscykel Giant TCR Advanced 2 KOM, 700c, Carbon"
+   },
+   "meta": {
+    "fore": "Landsvägscykeln Giant TCR Advanced 2 KOM i Carbon har kompositram, Shimano 105 med 24 växlar, hydrauliska skivbromsar och slanglösa 700x25c-däck.",
+    "efter": "Landsvägscykeln Giant TCR Advanced 2 KOM i Carbon har kompositram, Shimano 105 med 24 växlar, hydrauliska skivbromsar och slanglösa däck."
+   },
+   "html 1": {
+    "fore": "Däcken är slanglösa 700x25c.",
+    "efter": "Däcken är slanglösa."
+   },
+   "html 2": {
+    "fore": "slanglösa, 700x25c, fällbara",
+    "efter": "slanglösa, vikbara"
+   }
+  },
+  "skal": "Som 6058 (700x25c mot 28 mm). Fälgar P-R2 36 mm står i källan."
+ },
+ {
+  "nr": 6063,
+  "id": "10472335704330",
+  "fil": "k_3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "700x28c, fällbara",
+    "efter": "700x28c, vikbara"
+   }
+  },
+  "skal": "700x28c (28 mm) är konsekvent. 'Fällbara' blir 'vikbara'."
+ },
+ {
+  "nr": 6064,
+  "id": "10471084556554",
+  "fil": "k_3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Landsvägscykel Giant TCR Advanced 2 PC, 700x25c, Carbon",
+    "efter": "Landsvägscykel Giant TCR Advanced 2 PC, 700c, Carbon"
+   },
+   "meta": {
+    "fore": "Landsvägscykeln Giant TCR Advanced 2 PC i Carbon har kompositram, Shimano 105 med 24 växlar, hydrauliska skivbromsar och slanglösa 700x25c-däck.",
+    "efter": "Landsvägscykeln Giant TCR Advanced 2 PC i Carbon har kompositram, Shimano 105 med 24 växlar, hydrauliska skivbromsar och slanglösa däck."
+   },
+   "html 1": {
+    "fore": "Däcken är slanglösa 700x25c.",
+    "efter": "Däcken är slanglösa."
+   },
+   "html 2": {
+    "fore": "slanglösa, 700x25c, vikbara",
+    "efter": "slanglösa, vikbara"
+   }
+  },
+  "skal": "Som 6058; källan har dessutom en andra däckrad 'Giant P-R2, 25 mm'. Bredden stryks."
+ },
+ {
+  "nr": 6065,
+  "id": "10471447232778",
+  "fil": "k_3_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt spårbart (700x28c, 28 mm konsekvent). En variant."
+ },
+ {
+  "nr": 6066,
+  "id": "10471419642122",
+  "fil": "k_3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html 1": {
+    "fore": "Däcken är tubeless.",
+    "efter": "Däcken är slanglösa."
+   },
+   "html 2": {
+    "fore": "29x2,4, fällbara, tubeless",
+    "efter": "29x2,4, vikbara, slanglösa"
+   }
+  },
+  "skal": "Allt spårbart. Engelska 'tubeless' blir 'slanglösa', 'fällbara' blir 'vikbara'. Dubbletten 6067 rätt avvisad."
+ },
+ {
+  "nr": 6070,
+  "id": "10462190207242",
+  "fil": "k_3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gravelcykeln Kona Rove i Matt Bloodstone har 27,5 tum, ram i Kona Butted Cromoly, mekaniska Tektro-bromsar och Maxxis-däck på 650x47c.",
+    "efter": "Gravelcykeln Kona Rove i Matt Bloodstone har 27,5-tumshjul, ram i Kona Butted Cromoly, mekaniska Tektro-bromsar och Maxxis-däck på 650x47c."
+   },
+   "html 1": {
+    "fore": "med 27,5 tum, ram",
+    "efter": "med 27,5-tumshjul, ram"
+   },
+   "html 2": {
+    "fore": "<li>Dig som vill ha en gravelcykel</li>",
+    "efter": "<li>Dig som vill ha en gravelcykel med stålram</li>"
+   }
+  },
+  "skal": "27,5 tum stämmer med 650x47c. 'Har 27,5 tum' blir '27,5-tumshjul'. Punkten 'Dig som vill ha en gravelcykel' är cirkulär och preciseras med stålram (Cromoly, 'stålhjul' i källan). Gaffel och växlar rätt utelämnade (trasiga)."
+ },
+ {
+  "nr": 6071,
+  "id": "10472256831754",
+  "fil": "k_3_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt spårbart; modellnamnet Flourish 3/FS 3 rätt hanterat. Varianterna har olika pris (8 349 / 7 259 kr); inget låst."
+ },
+ {
+  "nr": 6073,
+  "id": "10475621384458",
+  "fil": "k_3_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt spårbart. Titeln och produkttypen säger damcykel, taggen Gravelcykel; titelns typ behålls. Färgen Terra Roza (variant 'pink') ur titeln."
+ },
+ {
+  "nr": 6074,
+  "id": "10480052535562",
+  "fil": "k_3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Mountainbiken Liv Tempt 2 i Mars Dust har 27,5 tum, aluminiumram, 9 växlar, hydrauliska skivbromsar och Maxxis Recon Race-däck på 27,5x2,4.",
+    "efter": "Mountainbiken Liv Tempt 2 i Mars Dust har 27,5-tumshjul, aluminiumram, 9 växlar, hydrauliska skivbromsar och Maxxis Recon Race-däck på 27,5x2,4."
+   },
+   "html": {
+    "fore": "med 27,5 tum, ram",
+    "efter": "med 27,5-tumshjul, ram"
+   }
+  },
+  "skal": "En variant, XS får stå. 'Har 27,5 tum' blir '27,5-tumshjul'. Utkastaren bytte typordet från butikens 'Damcykel' till 'Mountainbike' (taggen). Det stöds av taggen, men David bör bekräfta."
+ },
+ {
+  "nr": 6075,
+  "id": "10460947153162",
+  "fil": "k_3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Mountainbiken Liv Tempt 2 i Mars Dust har 29 tum, aluminiumram, 9 växlar, hydrauliska skivbromsar och Maxxis Recon Race-däck på 29x2,4.",
+    "efter": "Mountainbiken Liv Tempt 2 i Mars Dust har 29-tumshjul, aluminiumram, 9 växlar, hydrauliska skivbromsar och Maxxis Recon Race-däck på 29x2,4."
+   },
+   "html": {
+    "fore": "med 29 tum, ram",
+    "efter": "med 29-tumshjul, ram"
+   }
+  },
+  "skal": "Som 6074. Variant 'S / Red' mot titelns Mars Dust: titelns färg används."
+ }
+]
