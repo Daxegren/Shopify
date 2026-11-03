@@ -135,3 +135,12 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 - Vad hände: i skrivprompten för tillbehör (b_skriv_4–6) stod att seo-objektet skulle utelämnas när SEO-titeln är lika med titeln. Det gjorde att metabeskrivningen (seo.description) inte skrevs på 11 av de 28 produkterna i b_skriv_5. Felet upptäcktes av Sonnet-stickprovet, inte av skrivagentens egen återläsning, som jämförde fälten mot filen men inte flaggade ett null.
 - Regel: skicka alltid seo{title, description} med båda fälten när filen har en meta. Shopify lagrar seo.title som null när den är lika med titeln, men det är avsett och påverkar inte meta. Utelämna aldrig seo-objektet när meta finns. Återläsningen ska jämföra seo.description mot filens meta för varje produkt, inte bara när seo_title skiljer sig.
 - Åtgärd: de 11 rättades (productUpdate med seo), och en revision av alla tidigare skrivna produkter körs.
+
+## 2026-11-03: Haiku kan inte kopiera långa mutationer ordagrant; huvudagenten gör sådana skrivningar
+- Vad hände: i omgången med korta metabeskrivningar (117 produkter) skrev Haiku om variablerna för hand trots instruktion om skriptutskrift. Det gav 9 skrivfel på 7 produkter (till exempel "belag" blev "beläg"), och rättningsförsök införde nya fel. Fyra produkter hade fel text i Shopify tills huvudagenten skrev om dem med skriptets utskrift. Samma mönster förekom tidigare ("växlereglage").
+- Regel: när texten i en mutation är längre än några rader eller antalet produkter är stort: låt skriptet skriva ut mutationen och variablerna, och låt huvudagenten (inte Haiku) klistra in dem. Haiku duger för korta skrivningar med kanarie och maskinell återläsning, men återläsningen måste jämföras mot skrivfilen, och en avvikelse får aldrig rättas med nya handskrivna variabler.
+- Regel: Sonnet-stickprovet på minst 20 procent (minst 10) fångade metafelet och är kvar som obligatoriskt steg.
+
+## 2026-11-03: Trasig källtext ger ingen uppgift att bygga på; kort meta är bättre än null
+- Vad hände: Kona Fire Mountain hade däckbredden bara som trasig text ("x2 .25""), och granskare godkände ändå "2,25 tum". Skrivningen stoppades före första skrivningen av kontrollskriptet och uppgiften togs bort.
+- Regel: en uppgift som inte står entydigt i den egna produktens källa tas bort. David har beslutat att kort sann meta (typ, märke, material, mått) ska användas i stället för null på tunna produkter, men att beskrivningen aldrig fylls ut med text som saknar underlag.
