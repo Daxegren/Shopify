@@ -1,0 +1,502 @@
+[
+ {
+  "nr": 8098,
+  "id": "10548242678026",
+  "fil": "b_24_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn källa (titel och märkesrad) rätt hanterad, ingen meta. 'Styrlinda' skrivs Handtagstejp enligt standarden avsnitt 12; färgen svart-vit från titeln. 'Världens största cykeltillverkare' rätt utelämnat."
+ },
+ {
+  "nr": 8099,
+  "id": "10548246675722",
+  "fil": "b_24_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "för 27,5–29 tum och däckbredd 54–60 mm. Skärmarna är 890 mm fram och 1300 mm bak.",
+    "efter": "för 27,5–29 tum, enligt tillverkaren för däckbredd 54–60 mm. Framskärmen är 890 mm lång."
+   },
+   "html": [
+    {
+     "fore": "<li>Dig som har en cykel med 27,5–29 tum och däckbredd 54–60 mm</li>",
+     "efter": "<li>Dig som har en cykel med 27,5–29 tum och däckbredd 54–60 mm, enligt tillverkaren</li>"
+    },
+    {
+     "fore": "<li>Fäste: V-adapter med ESC-frigöring som släpper stänkskärmens stöd om till exempel en gren fastnar, enligt tillverkaren</li>",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Stänkskärmar för 27,5–29 tum, 54–60 mm, 890/1300 mm och mattsvart stämmer mot källan; 'Style' står i den egna källtexten. Däckbredden är kompatibilitet och skrivs enligt tillverkaren (avsnitt 12, som 8075). ESC-säkerhetsfrigöringen ('hjälper till att förhindra att hjulet kilas fast') är en säkerhetsfunktion och stryks, som ASR i 8075. Metans 'Skärmarna är 890 mm fram' rättas till tydligare svenska. '65 mm' och taggen Skidor rätt utelämnade. Beställningsmeningen finns."
+ },
+ {
+  "nr": 8102,
+  "id": "10554351780106",
+  "fil": "b_24_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Stänkskärmar SKS Bluemels Basic, 28 tum",
+    "efter": "Stänkskärmar SKS Bluemels Basic, 28 tum, Däckbredd 28–37 mm"
+   },
+   "seo_title": {
+    "fore": "Stänkskärmar SKS Bluemels Basic, Svart",
+    "efter": "Stänkskärmar SKS Bluemels Basic, 28–37 mm"
+   },
+   "meta": {
+    "fore": "för 28 tum och däckbredd 28–37 mm. Skärmarna är 680 mm fram och 1185 mm bak.",
+    "efter": "för 28 tum, enligt tillverkaren för däckbredd 28–37 mm. Framskärmen är 680 mm lång."
+   },
+   "html": [
+    {
+     "fore": "<li>Dig som har en cykel med 28 tum och däckbredd 28–37 mm</li>",
+     "efter": "<li>Dig som har en cykel med 28 tum och däckbredd 28–37 mm, enligt tillverkaren</li>"
+    },
+    {
+     "fore": "<li>Fäste: V-leder med fasta bryggor och ASR-system som, enligt tillverkaren, kopplar loss stödbenen om grenar fastnar mellan ekrarna</li>",
+     "efter": "<li>Fäste: V-leder med fasta bryggor</li>"
+    }
+   ]
+  },
+  "skal": "Titeln skiljer sig inte tydligt från systerprodukten 8075 (skriven: 'Stänkskärmar SKS Bluemels Basic, 28 tum, Däckbredd 32–47 mm'); den egna källan anger 'Däckbredd mm: 28-37 mm', så däckbredden läggs till i titel och SEO-titel (SEO 'Svart' gäller båda). '45 mm' rätt utelämnat. Däckbredd skrivs enligt tillverkaren i meta och Passar för. ASR-systemets lösgöring är en säkerhetsfunktion och stryks (som i 8075). 'Tillverkad i Tyskland' står i källan och får stå. Beställningsmeningen finns."
+ },
+ {
+  "nr": 8103,
+  "id": "10554353254666",
+  "fil": "b_24_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer: 840D TPU-laminerad nylon, dragkedja, passar i flaskhållare, 0,6 l, 170 x 70 x 70 mm, styvt hölje, interna fack; '100 % vattentät' enligt tillverkaren. 88 g rätt utelämnat (otydlig rad). Taggen Kosttillskott är fel i butiken men produkten är en förvaringsbox. SKU 600000022 mot handtaget ...023 (att bekräfta)."
+ },
+ {
+  "nr": 8104,
+  "id": "10554353811722",
+  "fil": "b_24_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer: nylonkropp, insexnycklar 2, 2,5, 3, 4, 5, 6 och 8 mm, T25 och spårskruvmejsel, bärs i flaskhållare. 'För Airway Sport Side Pull' och märkets standardtext rätt utelämnade."
+ },
+ {
+  "nr": 8107,
+  "id": "10554354204938",
+  "fil": "b_24_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer: retrostil, sömmar i konstläder, Flex PU-vaddering, 265 x 240 mm, galvaniserade fjädrar och korsfjädrar, fäste för sned sadelstolpsmontering. Båda varianterna heter black, så Svart låser inget; varianten 'black (1977)' för 1619 kr har samma SKU-nummer och pris som den bruna 8108 och bör kontrolleras av David (att bekräfta)."
+ },
+ {
+  "nr": 8108,
+  "id": "10554354237706",
+  "fil": "b_24_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot den egna källan (samma uppgifter som 8107, en variant, brun från titeln). Titel, SEO och meta är unika mot 8107."
+ },
+ {
+  "nr": 8109,
+  "id": "10554354303242",
+  "fil": "b_24_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer: upphängningsklämmor för gaffeln, 2 klämmor med skruvar, gummihakar, flexibelt justerbar. '31 - 35' rätt utelämnat: systerprodukten 8149 anger samma artikel (11560) som 31–34 mm, alltså motsägande. Titeln är unik (bara två sådana produkter i butiken)."
+ },
+ {
+  "nr": 8110,
+  "id": "10554354499850",
+  "fil": "b_24_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Solskydd: UPF 40+</li>",
+    "efter": ""
+   }
+  },
+  "skal": "Stämmer i övrigt (neongul, Illume-serien, reflekterande detaljer utan synlighetslöfte, värmande foder, Wiretap, mikrofibertumme); motsägande materialrad och vatten-/vindtäthet rätt utelämnade. 'UPF 40+ solskyddsfaktor' är ett skyddspåstående (hud/sol) och stryks. Inga löften om säkerhet i mörker; handskarna räknas inte som reflexprodukt."
+ },
+ {
+  "nr": 8111,
+  "id": "10554361905418",
+  "fil": "b_24_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer: väska, däckjärn, 2 x 16 g kolsyrecylindrar, CO2-pump, verktyg med 9 huvuden. SEO utan 'Kit' är unik mot 8112."
+ },
+ {
+  "nr": 8112,
+  "id": "10554361970954",
+  "fil": "b_24_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer: väska, däckjärn, 2 x 25 g patroner, CO2-pump, verktyg med 9 huvuden. 'Patroner' som i källan."
+ },
+ {
+  "nr": 8118,
+  "id": "10565560598794",
+  "fil": "b_24_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Sadel Velo ProX VL-8088, Mörkbrun",
+    "efter": "Sadel Velo ProX VL-8088, Mörkbrun och Brun"
+   }
+  },
+  "skal": "Stämmer: Cruiser-serien, lätt skum, svart stålram, vinyl, 267 x 257 mm, 955 g. SEO-titeln tar bara med halva färgen ('mörkbrun-brun' i källan) och blir missvisande; den sätts lika med titeln (42 tecken) och lagras tom (avsett)."
+ },
+ {
+  "nr": 8122,
+  "id": "10572664766730",
+  "fil": "b_24_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Framkorg utan lastuppgift i källan och ingen lastgräns i texten (tillåtet enligt avsnitt 12). 'Kan även passa andra cyklar' rätt utelämnat; engelsk titel översatt till Främre Cykelkorg. Korgen har ingen elektronik fast T2 är en elcykel. Beställningsmeningen finns."
+ },
+ {
+  "nr": 8123,
+  "id": "10581593358602",
+  "fil": "b_24_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Ass Savers Win Wing Road är en bakskärm på 64 g och 375 x 85 mm som enligt tillverkaren fästs utan verktyg. Den är lämplig för däck upp till 38 mm bredd.",
+    "efter": "Ass Savers Win Wing Road är en bakskärm på 64 g och 375 x 85 mm. Enligt tillverkaren fästs den utan verktyg och passar däck upp till 38 mm breda."
+   },
+   "html": {
+    "fore": "<li>Dig som har däck upp till 38 mm bredd</li>",
+    "efter": "<li>Dig som har däck som är upp till 38 mm breda, enligt tillverkaren</li>"
+   }
+  },
+  "skal": "Stämmer: 64 g, 375 x 85 mm, däck upp till 38 mm, verktygsfritt vingfäste, PP 0,9 mm och TPU; 'impellerhållare' och 'fullt skydd från knäna' rätt utelämnade. Däckbredden är kompatibilitet och skrivs enligt tillverkaren (avsnitt 12); '38 mm bredd' rättas språkligt."
+ },
+ {
+  "nr": 8124,
+  "id": "10589508174090",
+  "fil": "b_24_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "och passar hjul på 20–29 tum.",
+    "efter": "och passar enligt tillverkaren hjul på 20–29 tum."
+   },
+   "html": {
+    "fore": "<li>Dig som har hjul på 20–29 tum</li>",
+    "efter": "<li>Dig som har hjul på 20–29 tum, enligt tillverkaren</li>"
+   }
+  },
+  "skal": "Stämmer: mjuk plast, 24 g, 290 mm, 20–29 tum, 20–120 mm, Tyskland (i källan), buntband; tom materialrad rätt hanterad. Hjulstorleken är kompatibilitet och skrivs enligt tillverkaren i meta och Passar för (avsnitt 12). 'För ökad säkerhet' rätt utelämnat. Beställningsmeningen finns."
+ },
+ {
+  "nr": 8125,
+  "id": "10593839710474",
+  "fil": "b_24_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Flaskhållare Giant Airway Composite Blå",
+    "efter": "Flaskhållare Giant Airway, Svart och Blå"
+   }
+  },
+  "skal": "Tunn källa rätt hanterad, ingen meta. SEO-titeln tappar Svart och kommatecknet ('Composite Blå'); 'Flaskhållare Giant Airway Composite' är redan tagen (b_9/b_skriv_2). Ny SEO-titel 40 tecken, unik."
+ },
+ {
+  "nr": 8126,
+  "id": "10605357859082",
+  "fil": "b_24_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer: passar SKS Speedrocker och Speedrocker XL enligt tillverkaren, förlänger med 170 mm. Tunn källa, inget påhittat."
+ },
+ {
+  "nr": 8127,
+  "id": "10605380632842",
+  "fil": "b_24_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typordet Styrväska stöds av den egna källan: 'Bar Bag' i namnet och 'fästas på olika typer av styren'; butikens 'Styckväska' är ett stavfel (flaggas till David). 2,3 liter, ripstop och 1200D-nylon, justerbara remmar, snörsystem och meshfickor stämmer. Ingen lastgräns i källan och ingen i texten; 'säkert' och skydd mot fukt rätt utelämnade."
+ },
+ {
+  "nr": 8130,
+  "id": "10612571701514",
+  "fil": "b_24_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Elite Vintage Red är en dryckesflaska på 500 ml i slitstark, smakfri plast med skyddande lock. Flaskan mäter 7,2 x 21 cm och väger 57 g.",
+    "efter": "Elite Vintage Red är en dryckesflaska på 500 ml i plast med skyddande lock, enligt tillverkaren smakfri. Flaskan mäter 7,2 x 21 cm och väger 57 g."
+   },
+   "html": {
+    "fore": "Flaskan är gjord av slitstark, smakfri plast och har ett skyddande lock.",
+    "efter": "Flaskan är gjord av plast som enligt tillverkaren är smakfri och har ett skyddande lock."
+   }
+  },
+  "skal": "500 ml, 7,2 x 21 cm, 57 g och skyddande lock stämmer. 'Slitstark' är en kvalitetsvärdering och stryks (jfr 8088); 'smakfri' är tillverkarens påstående och skrivs enligt tillverkaren. Metan skrivs om, 'kompatibel med de flesta flaskhållare' fortsatt utelämnat."
+ },
+ {
+  "nr": 8132,
+  "id": "10612572225802",
+  "fil": "b_24_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Nils Extreme är en vattenflaska i BPA-fri Tritan på 600 ml. Flaskan är 22 cm hög, väger 130 g och har ett fack på baksidan. Den kan diskas i diskmaskin.",
+    "efter": "Nils Extreme är en vattenflaska på 600 ml i Tritan, enligt tillverkaren BPA-fri. Flaskan är 22 cm hög, 7,5 cm i diameter och väger 130 g."
+   },
+   "html": [
+    {
+     "fore": "<p>Nils Extreme är en vattenflaska i BPA-fri Tritan på 600 ml. Enligt tillverkaren går den att diska i diskmaskin och den tål varm vätska.</p>",
+     "efter": "<p>Nils Extreme är en vattenflaska på 600 ml i Tritan. Enligt tillverkaren är den BPA-fri, går att diska i diskmaskin och tål varm vätska.</p>"
+    },
+    {
+     "fore": "<li>Dig som vill hålla koll på hur mycket du dricker under dagen, med hjälp av facket på baksidan</li>",
+     "efter": "<li>Dig som vill ha en vattenflaska som går att diska i diskmaskin</li>"
+    }
+   ]
+  },
+  "skal": "600 ml, Tritan, 22 cm, 7,5 cm, 130 g och diskmaskin stämmer; motsägande modellnummer (NCD1740/NC1740) rätt utelämnat. 'Ett fack på baksidan som låter dig hålla koll på hur mycket du dricker' är en trasig översättning (troligen en skala) och stryks i meta och Passar för. 'BPA-fri' är tillverkarens påstående och skrivs enligt tillverkaren i meta och inledning (jfr 8096)."
+ },
+ {
+  "nr": 8135,
+  "id": "10612590936330",
+  "fil": "b_25_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer: långa fingrar, förformad tumme, för en kvinnas hand enligt tillverkaren, TransTextura med 4-vägs stretch, längre manschett utan kardborre, Tip Tech. Storlekarna M och L låses inte i titel/SEO; Soap Suds är titelns färgnamn och båda varianterna är 'blue'. SEO lika med titeln lagras tom. Handskar för vuxna är ingen säkerhetsprodukt (jfr 8088)."
+ },
+ {
+  "nr": 8139,
+  "id": "10635765416202",
+  "fil": "b_25_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Färg: Transparent/Mörkblå</li>",
+    "efter": "<li>Färg: Transparent/mörkblå</li>"
+   }
+  },
+  "skal": "Tom beskrivning, allt från titeln, ingen meta (rätt). 'Flaska' blir Dricksflaska som systerprodukterna. Stor bokstav bara direkt efter kolon i specifikationen (jfr 8094)."
+ },
+ {
+  "nr": 8140,
+  "id": "10635765448970",
+  "fil": "b_25_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Färg: Blå/Grön</li>",
+    "efter": "<li>Färg: Blå/grön</li>"
+   }
+  },
+  "skal": "Tom beskrivning, allt från titeln, ingen meta (rätt). Stor bokstav bara direkt efter kolon (jfr 8094)."
+ },
+ {
+  "nr": 8141,
+  "id": "10635765481738",
+  "fil": "b_25_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Färg: Blå/Grön</li>",
+    "efter": "<li>Färg: Blå/grön</li>"
+   }
+  },
+  "skal": "Som 8140 (600 ml). Stor bokstav bara direkt efter kolon."
+ },
+ {
+  "nr": 8143,
+  "id": "10635790352650",
+  "fil": "b_25_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Färg: Transparent Orange/Grå</li>",
+    "efter": "<li>Färg: Transparent orange/grå</li>"
+   }
+  },
+  "skal": "Tom beskrivning, allt från titeln ('750CC' blir 750 cc), ingen meta. Stor bokstav bara direkt efter kolon."
+ },
+ {
+  "nr": 8144,
+  "id": "10635790483722",
+  "fil": "b_25_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Färg: Transparent Blå/Grå</li>",
+    "efter": "<li>Färg: Transparent blå/grå</li>"
+   }
+  },
+  "skal": "Som 8143 (blå/grå). Stor bokstav bara direkt efter kolon."
+ },
+ {
+  "nr": 8136,
+  "id": "10612594639114",
+  "fil": "b_25_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn källa rätt hanterad: justerbar från titeln, 'Tillverkaren är Giant' från källan, ingen meta. SEO lika med titeln lagras tom."
+ },
+ {
+  "nr": 8138,
+  "id": "10624083198218",
+  "fil": "b_25_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "med max tryck 5 bar.",
+    "efter": "för tryck upp till 5 bar."
+   },
+   "html": {
+    "fore": "5 bar / 73 PSI",
+    "efter": "5 bar / 73 psi"
+   }
+  },
+  "skal": "Stämmer: 132 g, 205 mm, 5 bar / 73 psi, AV och SV, Presta/Schrader, aluminiumbas, plasthandtag, utdragbar slang enligt tillverkaren; 'högtryck' rätt utelämnat. Enheter med liten bokstav (psi, som 8044). 'Med max tryck 5 bar' saknar artikel och rättas."
+ },
+ {
+  "nr": 8142,
+  "id": "10635765645578",
+  "fil": "b_25_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer: upp till 3 cyklar, 200 x 105 x 110 cm, inomhus och utomhus, smuts och regn enligt tillverkaren. Inte samma modell som 5235 (OXFCC100, 1 cykel, 200 x 80 x 110 cm) utan den större (OXFORDCC102). Titel, SEO och meta är unika och sanna mot 5235 ('Cykelskydd Oxford Aquatex', meta 'för en cykel')."
+ },
+ {
+  "nr": 8146,
+  "id": "10650129072394",
+  "fil": "b_25_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "10 bar / 144 PSI",
+    "efter": "10 bar / 144 psi"
+   }
+  },
+  "skal": "Stämmer: landsväg, upp till 10 bar enligt tillverkaren, silver, 101 g, 262 mm, aluminiumcylinder, 2-komponentsplast, låsbart handtag, pumpfäste under/i stället för flaskhållaren. Motsägande ventil (SV mot SV, DV) rätt utelämnad, liksom 'Tillverkad i Tyskland' och 'skyddad mot damm och vatten'. Enhet med liten bokstav (psi). Beställningsmeningen finns."
+ },
+ {
+  "nr": 8147,
+  "id": "10650166395146",
+  "fil": "b_25_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Dig som har stänkskärmarna Velo Urban 42 eller Velo 47 Trekking</li>",
+    "efter": "<li>Dig som har SKS Velo Urban 42 eller Velo 47 Trekking, enligt tillverkaren</li>"
+   }
+  },
+  "skal": "Källan säger bara 'Kompatibilitet: Velo Urban 42, Velo 47 Trekking'; att det är stänkskärmar står inte entydigt i den egna källan och stryks ur Passar för. Övrigt stämmer (fram- och bakhjul, U-båge från titeln). SEO lika med titeln lagras tom. Beställningsmeningen finns."
+ },
+ {
+  "nr": 8148,
+  "id": "10650166427914",
+  "fil": "b_25_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Dig som har stänkskärmarna Velo Urban 42 eller Velo 47 Trekking</li>",
+    "efter": "<li>Dig som har SKS Velo Urban 42 eller Velo 47 Trekking, enligt tillverkaren</li>"
+   }
+  },
+  "skal": "Som 8147: 'stänkskärmarna' står inte i källan. 'U-arch' översatt till U-båge som systerproduktens titel; 'Lämplig för Suntour dämpare' återgiven. Beställningsmeningen finns."
+ },
+ {
+  "nr": 8149,
+  "id": "10650166591754",
+  "fil": "b_25_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer: källans lista knyter 11563 (produktens SKU) till 37,0–40,0 mm, som titelns '37 - 40'; 2 klämmor med skruvar, gummihakar, flexibelt justerbar. Trasig översättning (upphängningsvajrar) rätt utelämnad. Titel och SEO unika mot 8109. Beställningsmeningen finns."
+ },
+ {
+  "nr": 8150,
+  "id": "10650167542026",
+  "fil": "b_25_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "10 bar / 144 PSI",
+    "efter": "10 bar / 144 psi"
+   }
+  },
+  "skal": "Inte samma modell som 8044 (SKU 11660 mot 11661, slang 800 mot 900 mm, höjd 600 mot 650 mm); titeln 'Airkompressor Compact' är unik och sann mot 8044:s 'Airkompressor 10.0'. Stämmer: 10 bar / 144 psi, 385 cm³, 600 mm, 800 mm, MV Easy, metallcylinder, plastfot och -handtag; motsägande färg rätt utelämnad. Enhet med liten bokstav (psi). Beställningsmeningen finns."
+ },
+ {
+  "nr": 8151,
+  "id": "10650167574794",
+  "fil": "b_25_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "12 bar / 174 PSI",
+     "efter": "12 bar / 174 psi"
+    },
+    {
+     "fore": "<li>Färg: Svart/Orange</li>",
+     "efter": "<li>Färg: Svart/orange</li>"
+    }
+   ]
+  },
+  "skal": "Stämmer trots kvarlämnad chattkod i källan: svart/orange, 1200 mm, AV/SV/DV, 12 bar / 174 psi, 343 cm³, 715 mm, metallrör och metallfot, Soft-Touch. 'Toppklass' och motsägande handtagsdetaljer rätt utelämnade. Enhet med liten bokstav och stor bokstav bara direkt efter kolon. Beställningsmeningen finns."
+ },
+ {
+  "nr": 8152,
+  "id": "10650167607562",
+  "fil": "b_25_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "för mountainbikes med 26–28 tum hjul.",
+    "efter": "för mountainbikes med 26–28-tumshjul."
+   },
+   "html": [
+    {
+     "fore": "en fram och en bak, för mountainbikes med 26–28 tum hjul.",
+     "efter": "en fram och en bak, för mountainbikes med hjul på 26–28 tum."
+    },
+    {
+     "fore": "<li>Dig som har en mountainbike med 26–28 tum hjul</li>",
+     "efter": "<li>Dig som har en mountainbike med hjul på 26–28 tum</li>"
+    }
+   ]
+  },
+  "skal": "Stämmer: fram och bak, mountainbikes, 26–28 tum, däck upp till 2,2 tum / 58 mm enligt tillverkaren, 195 g, extra fästpunkt mot sadelstolpen, verktygsfri borttagning. '26–28 tum hjul' är ogrammatiskt och rättas till 'hjul på 26–28 tum' (i metan '26–28-tumshjul' för längden). 'Heldämpade cyklar' rätt utelämnat. Beställningsmeningen finns."
+ },
+ {
+  "nr": 8154,
+  "id": "10650167902474",
+  "fil": "b_25_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer: 100 % polyester, svart, 164 g, 1 liter, 280 x 60 x 120 mm, klickfäste, vattentät enligt tillverkaren. Volym är ingen lastuppgift; ingen lastgräns i texten. Beställningsmeningen finns."
+ },
+ {
+  "nr": 8155,
+  "id": "10650168000778",
+  "fil": "b_25_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer: styrmontering utan verktyg, avtagbar telefonficka, plats för nycklar/pengar/powerbank, max 155 x 80 x 15 mm, 115 g, vattentät enligt tillverkaren. Trasig rad '155.15 x 15.15 mm' rätt utelämnad. Beställningsmeningen finns."
+ },
+ {
+  "nr": 8156,
+  "id": "10650168099082",
+  "fil": "b_25_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Trasig källa ('Stjälkfästet', 'encykelhållare') rätt tolkad via namnet Stem Mount (stam = styrstam); kvar finns justerbar vinkel och vattentätt fodral enligt tillverkaren. 'Säker och trygg, även i terräng' rätt utelämnat. Beställningsmeningen finns."
+ },
+ {
+  "nr": 8157,
+  "id": "10650169147658",
+  "fil": "b_25_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Dig som har däck upp till 52 mm</li>",
+    "efter": "<li>Dig som har däck upp till 52 mm, enligt tillverkaren</li>"
+   }
+  },
+  "skal": "Tunn källa rätt hanterad (gruscyklar, däck upp till 52 mm), ingen meta. Däckbredden är kompatibilitet och skrivs enligt tillverkaren även i Passar för (avsnitt 12). SEO lika med titeln lagras tom. Beställningsmeningen finns."
+ }
+]
