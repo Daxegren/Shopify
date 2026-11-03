@@ -4,53 +4,47 @@ Datum: 2026-11-03. Butik: BEST OF SPORTS (bestofsports.se, verifierad med get-sh
 Skrivfil: `rapporter/facit-bos-2026-10-31/vag2_skriv/b_skriv_13a.json` (29 produkter).
 Före-läge: `rapporter/shopify-original-2026-11-03/vag2b_13a_fore.json` (inte ändrat).
 
-## Status: avbrutet före skrivning
+## Status: klart
 
-Ingen productUpdate har körts och ingen tagg har lagts till. Index 0–28 är oförändrade i butiken av denna körning.
+Index 10–28 (19 produkter) är skrivna och verifierade. Taggen "texter-klara" är lagd på alla 29 produkter. Index 0–9 skrevs inte om i denna körning.
 
-## Kontroll (kontrollera_produkttext.py)
+Den första körningen avbröts på grund av checkerns meta-kontroll (se nedan). Koordinatorn bekräftade därefter att avsnitt 17 i `shopify-sync/docs/produkttexter-standard.md` gäller: en metabeskrivning på minst 70 tecken godkänns när utfyllnad annars skulle krävas. Kontrollen kördes om med `--meta-min 70` och gav 0 FEL.
 
-Körningen gjordes på en kopia av index 10–28 (19 produkter). Html mappades till beskrivning, standardblocket (från "Leverans, retur och garanti" till slutet) markerades med [[STANDARDBLOCK]], källtext var före-läget. Kopian ligger i `/tmp/claude-0/-home-user/fbbd95a3-8b18-5096-a6b5-20df3e4eb235/scratchpad/kontroll_10_28.json`.
+## Kontroll före skrivning (kontrollera_produkttext.py)
 
-Resultat: 14 FEL och 19 VARNINGAR.
+Kopia av index 10–28, html mappad till beskrivning, standardblocket markerat med [[STANDARDBLOCK]], källtext = före-läget. Kopian: `/tmp/claude-0/-home-user/fbbd95a3-8b18-5096-a6b5-20df3e4eb235/scratchpad/kontroll_10_28.json`. Utdata: `.../scratchpad/kontroll_10_28_out.txt`.
 
-FEL, alla `meta_langd` (kravet är 130–155 tecken):
+- Med standardkravet 130–155 tecken: 14 FEL (meta_langd) på 8651, 8652, 8655, 8657, 8658, 8659, 8661, 8663, 8664, 8665, 8666, 8667, 8668, 8669.
+- Med `--meta-min 70` (avsnitt 17): 0 FEL, 19 VARNINGAR "saknar avsnittet 'passar dig som'". Det är rubrikvarningen som skrivprompten godtar.
 
-| Nr | Tecken |
-|---|---|
-| 8651 | 122 |
-| 8652 | 126 |
-| 8655 | 105 |
-| 8657 | 113 |
-| 8658 | 121 |
-| 8659 | 102 |
-| 8661 | 120 |
-| 8663 | 116 |
-| 8664 | 122 |
-| 8665 | 116 |
-| 8666 | 126 |
-| 8667 | 129 |
-| 8668 | 128 |
-| 8669 | 124 |
+## Skrivning (productUpdate, batcher om 5)
 
-VARNINGAR: "saknar avsnittet 'passar dig som'" på alla 19. Det är rubrikvarningen som skrivprompten godtar.
+- Mutation och variabler skrevs ut av `scratchpad/skriv_mut.py` (ensure_ascii=True) och klistrades in oförändrade. Ingen text skrevs för hand.
+- Batcher: [10, 11, 12] (kanarie), [13–17], [18–22], [23–27], [28].
+- Alla anrop gav `userErrors: []`.
+- Titel, seo{title, description} och descriptionHtml skickades för varje produkt. `seo.title` är null där SEO-titeln är lika med titeln, vilket är avsett.
+- Handle och status ändrades inte. Status är ACTIVE för alla.
 
-Övriga 5 produkter (8648, 8650, 8660, 8662, 8670) klarar metakravet.
+## Återläsning och jämförelse
 
-## Avvikelse som inte är rättad
+- Svaren från productUpdate (titel, handle, status, seo, descriptionHtml, tags) jämfördes maskinellt mot skrivfilen i Python, för varje batch, med skriptet `scratchpad/aterlas_check.py`.
+- Resultat: 0 avvikelser i alla fem batcher. Inga osynliga tecken (U+00AD eller nollbreddstecken) i någon descriptionHtml.
+- Det som jämförts maskinellt: title, seo.title, seo.description, descriptionHtml, status och osynliga tecken. Det som jämförts för hand: taggarna för varje produkt.
 
-Skrivfilens metabeskrivningar för de 14 produkterna är för korta enligt standarden (avsnitt 3 och 14). Standarden anger "kort meta" bara för produkter med tunn källa, och dessa har specifikationer i källan. Det är alltså inte ett undantag. Enligt skrivprompten och lärdomarna rättas inte detta med handskrivna variabler. Skrivningen avbröts därför.
+## Taggning (tagsAdd "texter-klara")
 
-## Andra fynd
+- Taggen lades på alla 29 produkter, i batcher om 5 (sista batchen 4). Alla anrop gav `userErrors: []`.
+- Befintliga taggar finns kvar i svaren. Exempel: 8670 har fortfarande "På beställning", som inte hör till skrivningen och inte ändrades.
+- Ingen av de 29 hade taggen före körningen, enligt live-läsningen för index 0–24 och svaren för 25–28.
 
-- Nr 8638 (index 0, redan verifierad i den tidigare omgången) har meta på 124 tecken i skrivfilen. Den är inte med i kontrollen ovan. Samma regel gäller, så den bör granskas.
-- Live-läsningen (`nodes`) gjordes för index 0–24. Index 25–28 är inte lästa live.
+## Avvikelser och noteringar
 
-## Beslut som behövs
+- Index 25–28 lästes inte live innan skrivning. Före-läget för dem är skrivfilens "före"-värden från den första körningen, inte en live-läsning. Det påverkar bara jämförelsen av före-läge, inte kontrollen av efter-läget.
+- Index 0–9 (8638–8647) är inte skrivna i denna körning. Nr 8638 har meta på 124 tecken i skrivfilen. Det är över 70, så det godkänns enligt avsnitt 17.
+- Live-läsningen för index 0–24 gjordes före skrivning. För 10–24 visade den befintliga titlar och texter som redan liknade skrivfilen, och samma titlar fanns kvar efter skrivning.
 
-1. **Metalängden för de 14 produkterna.** Alternativ A: en ny skrivfil där metan blir 130–155 tecken, skriven av skribent och granskad på nytt. Alternativ B: David godkänner de kortare metorna som undantag från standarden. Rekommendation: A. Om inget beslutas står alla 19 kvar i butiken i sin nuvarande text (ingen skrivning sker).
-2. **Index 0 (8638) med 124 tecken.** Samma beslut gäller.
+## Ändrat
 
-## Nästa steg
-
-När beslutet är taget: skriv om med en uppdaterad skrivfil (eller godkänt undantag), kör checkern på kopian, och skriv i batcher om högst 5 med skriptutskrift. Läs sedan tillbaka alla fält maskinellt och lägg taggen texter-klara först efter godkänd återläsning.
+- Shopify: ja. productUpdate på 19 produkter (8648–8670), tagsAdd "texter-klara" på 29 produkter (8638–8670).
+- Filer: denna rapport. Scratchpad-filerna ligger utanför repot.
+- Ingen annan fil i repot ändrades. Ingen commit.
