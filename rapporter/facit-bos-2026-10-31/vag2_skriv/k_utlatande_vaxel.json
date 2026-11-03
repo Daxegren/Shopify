@@ -1,0 +1,179 @@
+[
+ {
+  "nr": 7022,
+  "id": "10471017414922",
+  "fil": "k_vaxel_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Mountainbike Kona Process 153 i Matt Midnight har aluminiumram med 153 mm slaglängd, RockShox-gaffel, 11 växlar och däck i 29 x 2,5 tum fram.",
+    "efter": "Mountainbike Kona Process 153 i Matt Midnight har aluminiumram med 153 mm slaglängd, RockShox-gaffel med 160 mm och Maxxis-däck i 29 x 2,5 tum fram."
+   },
+   "html": [
+    {
+     "fore": "Cykeln har RockShox Yari RC-gaffel med 160 mm, 11 växlar och Maxxis-däck",
+     "efter": "Cykeln har RockShox Yari RC-gaffel med 160 mm och Maxxis-däck"
+    },
+    {
+     "fore": "<li>Dig som vill ha en mountainbike med 11 växlar</li>",
+     "efter": "<li>Dig som vill ha en mountainbike med 29-tumshjul</li>"
+    },
+    {
+     "fore": "<li>Växelsystem: Microshift Advent X eller Shimano Deore, 11 växlar</li>\n",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Källan anger två alternativa växelsystem (Microshift Advent X eller Shimano Deore 11spd); Advent X har enligt webbunderlaget 10 växlar, så antal växlar och växelgrupp är inte entydiga och utelämnas (Davids regel 2026-11-03). Bromsarna (två alternativ, båda hydrauliska enligt källan) står kvar. Övrigt stämmer mot live-källan; enda varianten, L (47 cm) entydig."
+ },
+ {
+  "nr": 7027,
+  "id": "10471335461130",
+  "fil": "k_vaxel_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan: SRAM Apex, 12 växlar, Shimano BR-U300 hydrauliska skivbromsar, Maxxis Re-Fuse 700x40c. Inget om mekanisk/elektronisk. Varianter med olika pris, ingen storlek låst. Beställningsmening rätt (tagg finns)."
+ },
+ {
+  "nr": 7028,
+  "id": "10471336116490",
+  "fil": "k_vaxel_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "Däcken är Maxxis All-Terrene i storleken 700x33c, slanglösa.",
+     "efter": "Däcken är slanglösa Maxxis All-Terrene i storleken 700x33c."
+    }
+   ]
+  },
+  "skal": "Ordföljd i introt. Övrigt stämmer (SRAM Apex, 12 växlar, hydrauliska bromsar, 700x33c tubeless). Ingen växeltyp påstås."
+ },
+ {
+  "nr": 7048,
+  "id": "10472322138378",
+  "fil": "k_vaxel_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "Cykeln har Shimano 105-växlar med 24 växlar och hydrauliska Shimano 105-bromsar med skivbroms.",
+     "efter": "Cykeln har Shimano 105 med 24 växlar och hydrauliska skivbromsar från Shimano 105."
+    }
+   ]
+  },
+  "skal": "Upprepning 'Shimano 105-växlar med 24 växlar' i introt. Övrigt stämmer; modellår 2025 från handle och Giant-länk; däckbredd rätt utelämnad. Varianter med olika pris, ingen storlek låst."
+ },
+ {
+  "nr": 7056,
+  "id": "10472351400202",
+  "fil": "k_vaxel_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Kona Process 134 DL 27.5 är en lila mountainbike med fjädring fram och bak, SRAM GX-Eagle-växlar, SRAM G2 RS-bromsar och Maxxis-däck i 27.5 tum.",
+    "efter": "Kona Process 134 DL 27.5 är en lila mountainbike med fjädring fram och bak, SRAM GX-Eagle-växlar, SRAM G2 RS-bromsar och Maxxis-däck i 27,5 tum."
+   },
+   "html": [
+    {
+     "fore": "Däcken är Maxxis i storleken 27.5 tum.",
+     "efter": "Däcken är Maxxis i storleken 27,5 tum."
+    },
+    {
+     "fore": "<li>Dig som vill ha en cykel med 27.5-tums däck från Maxxis</li>",
+     "efter": "<li>Dig som vill ha en cykel med 27,5-tumsdäck från Maxxis</li>"
+    },
+    {
+     "fore": "Maxxis Minion DHF EXO TR 3C, 27.5x2.5 tum",
+     "efter": "Maxxis Minion DHF EXO TR 3C, 27,5 x 2,5 tum"
+    },
+    {
+     "fore": "Maxxis Dissector EXO TR 3C, 27.5x2.4 tum",
+     "efter": "Maxxis Dissector EXO TR 3C, 27,5 x 2,4 tum"
+    },
+    {
+     "fore": "<li>Hjulstorlek: 27.5 tum</li>",
+     "efter": "<li>Hjulstorlek: 27,5 tum</li>"
+    }
+   ]
+  },
+  "skal": "Decimalkomma i hjul- och däckmått i löptext och specifikation (modellnamnet '27.5' lämnas orört). SRAM GX-Eagle återges exakt, inget antal växlar eller växeltyp. Övrigt stämmer."
+ },
+ {
+  "nr": 7058,
+  "id": "10472435056906",
+  "fil": "k_vaxel_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Damcykel Liv Avail Advanced 2 (2026)",
+    "efter": "Liv Avail Advanced 2, RosyBrown/OceanStorm"
+   },
+   "html": [
+    {
+     "fore": "full-composite OverDrive-styrrör",
+     "efter": "helt komposit OverDrive-styrrör"
+    }
+   ]
+  },
+  "skal": "SEO-titeln saknade färg (k-reglerna: färg i titel och SEO-titel); 'full-composite' var engelska. Övrigt stämmer (Shimano 105, 24 växlar, hydrauliska, 700x32c). Varianter med olika pris, inget låst."
+ },
+ {
+  "nr": 7066,
+  "id": "10476124012810",
+  "fil": "k_vaxel_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan. Ingen tagg 'På beställning' och källan saknar beställningsmeningen: standardblock utan meningen är rätt. 700x25c är källans däckbeteckning; '(28mm)' utelämnat. Varning engelska_ord 'White' gäller färgnamnet Illusion White (godtagbart)."
+ },
+ {
+  "nr": 7067,
+  "id": "10476126699786",
+  "fil": "k_vaxel_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan (SRAM Apex XPLR, 12 växlar, SRAM Apex hydrauliska, 700x45c). Källan nämner inga fästpunkter, de saknas rätt i texten."
+ },
+ {
+  "nr": 7068,
+  "id": "10476128403722",
+  "fil": "k_vaxel_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan; fästpunkter finns i denna källa. Unik mot 7067 genom färgen."
+ },
+ {
+  "nr": 7087,
+  "id": "10487987667210",
+  "fil": "k_vaxel_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Mountainbike Kona Hei Hei med 29 tums däck har aluminiumram med 120 mm fjädring, Fox-gaffel, 12 växlar från SRAM och fyrkolvsbromsar från SRAM Motive.",
+    "efter": "Mountainbike Kona Hei Hei med 29-tumsdäck har aluminiumram med 120 mm fjädring, Fox-gaffel, 12 växlar från SRAM och fyrkolvsbromsar från SRAM Motive."
+   }
+  },
+  "skal": "Särskrivning '29 tums däck'. SRAM Eagle 70 Transmission återges exakt utan påstående om mekanisk/elektronisk; 12 växlar entydigt. Övrigt stämmer."
+ },
+ {
+  "nr": 7121,
+  "id": "10565633507594",
+  "fil": "k_vaxel_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan (Reynolds 520 Cromoly, RockShox SID 100 mm, SRAM Apex, 12 växlar, SRAM G2 4P hydrauliska, 29x2.4). Typ gravelcykel stöds av källtexten. Inget om AXS/batteri."
+ },
+ {
+  "nr": 7150,
+  "id": "10624088572170",
+  "fil": "k_vaxel_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Damcykel Liv Avail Advanced 2 med däck i storleken 700x32c i Cosmic Dust har kompositram, 24 växlar med Shimano 105 och hydrauliska bromsar.",
+    "efter": "Damcykel Liv Avail Advanced 2 i Cosmic Dust har ram och gaffel i komposit, 24 växlar med Shimano 105, hydrauliska bromsar och däck i 700x32c."
+   }
+  },
+  "skal": "Metan var felbyggd ('däck i storleken 700x32c i Cosmic Dust' läses som att däcken har färgen). Övrigt stämmer (2027 i titeln, Shimano 105, 24 växlar, hydrauliska)."
+ }
+]

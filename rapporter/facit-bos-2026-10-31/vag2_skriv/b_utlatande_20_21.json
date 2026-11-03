@@ -1,0 +1,506 @@
+[
+ {
+  "nr": 8001,
+  "id": "10411886608650",
+  "fil": "b_20_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Storlekar: 8–9–10 mm</li>",
+    "efter": "<li>Storlekar: 8, 9 och 10 mm</li>"
+   }
+  },
+  "skal": "Tunn källa (bara titeln) rätt hanterad, ingen meta. '8–9–10 mm' i specifikationen kan läsas som intervallet 8–10 mm; det är tre storlekar och skrivs som i inledningen. Titel och SEO-titel behåller originalets skrivning."
+ },
+ {
+  "nr": 8002,
+  "id": "10460948496650",
+  "fil": "b_20_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot källan (material, perforerad handflata, dynor, Wiretap, elastisk handledsdyna). 'Långa handskar' stöds av källan ('Elevates långa handskar'). Säljspråk och 'Bolton tumme' rätt utelämnade; inga skyddslöften."
+ },
+ {
+  "nr": 8005,
+  "id": "10462785831178",
+  "fil": "b_20_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "som används för att rengöra överflödig paraffin från skidbaser",
+    "efter": "som används för att ta bort överflödig paraffin från skidbaser"
+   },
+   "html": [
+    {
+     "fore": "som används för att rengöra överflödig paraffin från skidbaser",
+     "efter": "som används för att ta bort överflödig paraffin från skidbaser"
+    },
+    {
+     "fore": "<li>Tjocklek: 6 mm</li>",
+     "efter": "<li>Mått: 6 mm</li>"
+    },
+    {
+     "fore": "Rengör först skidans sidor och styrzonen från överflödig paraffin, sedan skidbasen",
+     "efter": "Rengör först skidans sidor från överflödig paraffin, sedan skidbasen"
+    }
+   ]
+  },
+  "skal": "Produkttypen är säkert bestämd: källan beskriver en skrapa (squeegee) för att ta bort paraffin från skidbasen. 'Rengöra paraffin från' är fel konstruktion. Att 6 mm är tjockleken står inte i källan. 'Styrzon' är trasig källtext och stryks. Skidtillbehör med produkttypen Tillbehör i cykelsortimentet: ingen ändring av typ, men David kan vilja flytta kategorin."
+ },
+ {
+  "nr": 8006,
+  "id": "10462785896714",
+  "fil": "b_20_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Produkttypen är inte säkert bestämd ur källan: användningen är maskinöversatt ('skrubba bort hal jord') och det enda andra är vad korken inte ska användas till (fästvalla). Utkastets inledning beskriver bara vad den inte är lämplig för. För lite entydig text återstår."
+ },
+ {
+  "nr": 8009,
+  "id": "10462856675594",
+  "fil": "b_20_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn källa (bara titeln) rätt hanterad: ingen meta, OD32 inte tolkat. SKU stämmer med handtaget."
+ },
+ {
+  "nr": 8011,
+  "id": "10468718641418",
+  "fil": "b_20_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Transparent Blå/Svart",
+    "efter": "Transparent Blå och Svart"
+   },
+   "html": {
+    "fore": "Giant Doublespring är en dricksflaska på 600 ml i antibakteriell plast, enligt tillverkaren.",
+    "efter": "Giant Doublespring är en dricksflaska på 600 ml i transparent blå och svart plast."
+   }
+  },
+  "skal": "'Antibakteriell' är ett hygien-/biocidpåstående som inte ska skrivas, inte ens 'enligt tillverkaren' (utelämnat i systerprodukten 8027). Färger skrivs med 'och' i titeln som i 5212 och 8027. SEO-titeln behåller snedstrecket (med 'och' blir den 45 tecken). Tagg 'På beställning' finns, meningen om längre leveranstid finns."
+ },
+ {
+  "nr": 8012,
+  "id": "10468722311434",
+  "fil": "b_20_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer. 'Multifunktionsmask' stöds av källans 'Multifunktionell Vikingamask' och 'multifunktionellt plagg'. 'Termoreglerande' rätt utelämnat. Tagg 'På beställning' och meningen om längre leveranstid finns."
+ },
+ {
+  "nr": 8013,
+  "id": "10470982517002",
+  "fil": "b_20_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Svart/Brun",
+    "efter": "Svart och Brun"
+   }
+  },
+  "skal": "Engelsk källa korrekt återgiven. Färger skrivs med 'och' (som i 8043 och övriga godkända titlar). Tagg 'På beställning' och meningen om längre leveranstid finns."
+ },
+ {
+  "nr": 8015,
+  "id": "10472217575690",
+  "fil": "b_20_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Produkttypen är tillräckligt bestämd: titeln 'Scraper ... groove' och källans enda mening ('används för rengöring av skidans spår') stämmer överens; den trasiga rubriken 'ACRYLASTIC SOONIC WAX' är rätt utelämnad. Tunn källa, ingen meta."
+ },
+ {
+  "nr": 8016,
+  "id": "10472225603850",
+  "fil": "b_20_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Trasig källa ('linsplatta', vibrationer, motsägande vikter) rätt hanterad: bara typ (Handtagstejp enligt David 2026-11-03), färg och tjocklek 2,2 mm, som står entydigt. SKU 190000029 mot handtagets 190000031 bör kontrolleras."
+ },
+ {
+  "nr": 8017,
+  "id": "10472238350602",
+  "fil": "b_20_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "SP Connect är ett smalt och skyddande klämfäste för iPhone XS Max.",
+    "efter": "SP Connect är ett smalt klämfäste för iPhone XS Max."
+   },
+   "html": {
+    "fore": "SP Connect är ett smalt, skyddande och funktionellt klämfäste för iPhone XS Max.",
+    "efter": "SP Connect är ett smalt klämfäste för iPhone XS Max."
+   }
+  },
+  "skal": "Titeltypen Telefonfäste stöds av 'Phone ... mounting kit' och 'klämfäste'. 'Skyddande' är oklart (skydd av vad?) och ett löfte utan stöd; stryks. 'Funktionellt' är tomt säljord. Vad fästet monteras på är rätt utelämnat (källans 'hjulfäste' är trasig)."
+ },
+ {
+  "nr": 8018,
+  "id": "10472242381066",
+  "fil": "b_20_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn källa (bara titeln, tagg Stänkskärm) rätt hanterad: ingen hjulstorlek, ingen meta."
+ },
+ {
+  "nr": 8019,
+  "id": "10472243462410",
+  "fil": "b_20_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Svart/Grå",
+    "efter": "Svart och Grå"
+   },
+   "html": {
+    "fore": "SKS Shockblade är en framskärm för hjul på 26–27,5 tum. Den är tillverkad av slitstark och lätt plast, enligt tillverkaren.",
+    "efter": "SKS Shockblade är en framskärm som enligt tillverkaren passar hjul på 26–27,5 tum. Den är tillverkad av slitstark och lätt plast."
+   }
+  },
+  "skal": "Kompatibilitet för stänkskärmar skrivs 'enligt tillverkaren' (Davids beslut 2026-11-03, avsnitt 12); i inledningen stod det om materialet i stället. Färger med 'och'."
+ },
+ {
+  "nr": 8020,
+  "id": "10472243527946",
+  "fil": "b_20_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Svart/Grå",
+    "efter": "Svart och Grå"
+   },
+   "html": {
+    "fore": "SKS X-Blade är en bakskärm för hjul på 26–27,5 tum. Den är tillverkad av slitstark och lätt plast, enligt tillverkaren, och väger 228 g.",
+    "efter": "SKS X-Blade är en bakskärm som enligt tillverkaren passar hjul på 26–27,5 tum. Den är tillverkad av slitstark och lätt plast och väger 228 g."
+   }
+  },
+  "skal": "Som 8019: kompatibiliteten skrivs 'enligt tillverkaren'. Mått, vikt och däckbredd stämmer; den motsägande 'maximal ytterdiameter 35 mm' rätt utelämnad. Tagg 'På beställning' och meningen finns."
+ },
+ {
+  "nr": 8021,
+  "id": "10472248738058",
+  "fil": "b_20_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Källan ('ADO Air 28 framkorg för cykel') stämmer med titeln; ingen lastuppgift i källan och ingen lastgräns i texten (tillåtet enligt avsnitt 12). Tagg 'På beställning' och meningen finns. Systerprodukten 8010 (motsägande källa om hjälm) är rätt avvisad."
+ },
+ {
+  "nr": 8022,
+  "id": "10472250016010",
+  "fil": "b_20_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer ('passar alla Basil-korgar i storlek M'). Tunn källa, ingen meta."
+ },
+ {
+  "nr": 8024,
+  "id": "10472251261194",
+  "fil": "b_20_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Pakväska Basil Urban Dry, Grå",
+    "efter": "Cykelväska Basil Urban Dry, Grå"
+   },
+   "seo_title": {
+    "fore": "Pakväska Basil Urban Dry 21 l",
+    "efter": "Cykelväska Basil Urban Dry 21 l"
+   },
+   "meta": {
+    "fore": "fästs med ett krokssystem",
+    "efter": "fästs med ett kroksystem"
+   },
+   "html": [
+    {
+     "fore": "Väskan fästs med ett krokssystem.",
+     "efter": "Väskan fästs med ett kroksystem."
+    },
+    {
+     "fore": "<li>Fäste: Krokssystem</li>",
+     "efter": "<li>Fäste: Kroksystem</li>"
+    }
+   ]
+  },
+  "skal": "'Pakväska' är inget svenskt ord (packväska); källan och taggen säger cykelväska, och texten använder redan Cykelväska. 'Krokssystem' stavas kroksystem. Ingen lastgräns i källan; 'säkerhetsfunktioner' rätt utelämnat."
+ },
+ {
+  "nr": 8027,
+  "id": "10472251588874",
+  "fil": "b_21_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Doublespring 600 ml,",
+    "efter": "Doublespring, 600 ml,"
+   },
+   "meta": {
+    "fore": "Flaskan tål maskindisk upp till 90 °C och är en beställningsvara.",
+    "efter": "Flaskan tål enligt tillverkaren maskindisk upp till 90 °C."
+   }
+  },
+  "skal": "Titeln får kommatecken efter modellnamnet som systerprodukterna 8011 och 5212. Leveransstatus hör inte hemma i metabeskrivningen (den står i standardblocket och kan ändras). 'Antibakteriell' rätt utelämnat. Tagg 'På beställning' och meningen finns."
+ },
+ {
+  "nr": 8028,
+  "id": "10472252113162",
+  "fil": "b_21_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Dig som vill ha, enligt tillverkaren, ett mjukt och greppvänligt styre</li>",
+    "efter": "<li>Dig som vill ha en tejp med mikrofiberbas som enligt tillverkaren ger mjukhet</li>"
+   }
+  },
+  "skal": "Mått och material stämmer. Punkten var grammatiskt trasig och 'greppvänligt' lovar mer än källan ('minskar halka' är rätt utelämnat)."
+ },
+ {
+  "nr": 8029,
+  "id": "10472252342538",
+  "fil": "b_21_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Schrader-Ventil",
+    "efter": "Schrader-ventil"
+   },
+   "meta": {
+    "fore": "Storleken anges som ETRTO 28/37-609/642 i produktnamnet.",
+    "efter": "Slangen har storleken 28/37-609/642 enligt ETRTO."
+   }
+  },
+  "skal": "Innerslang med ETRTO i titeln är tillåten (avsnitt 12). Den motsägande bredden ('28 mm breda däck' mot 28/37) är rätt utelämnad. 'Schrader-Ventil' är ett sammansatt ord och skrivs med liten bokstav efter bindestrecket. 'I produktnamnet' är en arbetsterm i metan."
+ },
+ {
+  "nr": 8030,
+  "id": "10472252506378",
+  "fil": "b_21_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer (komposit, uttag ovan/vänster, full storlek och små ramar). 'Perfekt' rätt omskrivet. Comp/Composite skiljer mellan källtext och titel; titelns form behålls."
+ },
+ {
+  "nr": 8031,
+  "id": "10472252866826",
+  "fil": "b_21_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Glasögon med solskydd är ögonskydd: källan lovar 'skydd mot solen' och 'god synlighet', utan UV- eller filterkategori. Samma bedömning som 8076 (solglasögon) i b_22–b_23. Tas för hand med Davids ja."
+ },
+ {
+  "nr": 8032,
+  "id": "10472253227274",
+  "fil": "b_21_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Kemikalie med varningstext (lättantändligt, skadligt vid inandning, hudkontakt och förtäring). Faroklassning och märkning är inte kontrollerade; skrivs inte i vågor (granskaruppdraget)."
+ },
+ {
+  "nr": 8033,
+  "id": "10472253292810",
+  "fil": "b_21_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Selle Monte Grappa 156 är en svart sadel med överdrag i polyuretan. Sadeln har måtten 275 x 215 mm och väger 450 g. Modellnumret är 156.",
+    "efter": ""
+   }
+  },
+  "skal": "'Modellnumret är 156' står inte i källan; 156 är SKU (variantens artikelnummer). Utan meningen blir metan för kort, så den sätts tom (efter = tom sträng, lagras som ingen metabeskrivning). 'Med sadelstolpsfäste' rätt utelämnat. Priset 79 kr för en sadel bör kontrolleras."
+ },
+ {
+  "nr": 8034,
+  "id": "10472253522186",
+  "fil": "b_21_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Motsägande källa: texten handlar om att montera cykel och få däcken på plats, medan märket Start och artikelnumret (15MU) hör till skidvalla och korkar. 'Korkstart' är en felöversättning av 'Cork Start' och inget svenskt typord. Produkttypen är inte bestämd."
+ },
+ {
+  "nr": 8035,
+  "id": "10472253620490",
+  "fil": "b_21_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Korkstart Start DIVI",
+    "efter": "Kork Start DIVI för Skidor"
+   },
+   "seo_title": {
+    "fore": "Korkstart Start DIVI",
+    "efter": "Kork Start DIVI för Skidor"
+   },
+   "html": [
+    {
+     "fore": "Start DIVI är en korkstart som används",
+     "efter": "Start DIVI är en kork som används"
+    },
+    {
+     "fore": "<li>Typ: Korkstart</li>",
+     "efter": "<li>Typ: Kork</li>"
+    }
+   ]
+  },
+  "skal": "Produkttypen är bestämd: originaltiteln 'Cork Start DIVI' (kork, märket Start) och källans mening om att gnida in och applicera på skidor. 'Korkstart' är en felöversättning. SEO-titeln blir lika med titeln och lagras tom (avsett). Fråga till David: källans 'fett' är troligen en felöversättning av valla."
+ },
+ {
+  "nr": 8036,
+  "id": "10472254636298",
+  "fil": "b_21_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer (vattentät, stålskena, Black Technology System, 260 x 205 mm, 460 g). Taggen 'This Monte Grappa' rätt ignorerad."
+ },
+ {
+  "nr": 8037,
+  "id": "10472257356042",
+  "fil": "b_21_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer i det som står entydigt (polyester, gummimaterial, cykling). 'Grepp om linsen' är trasig text och rätt omskrivet till grepp utan föremål, 'enligt tillverkaren'. 'Säker' och 'högkvalitativa' rätt utelämnade."
+ },
+ {
+  "nr": 8038,
+  "id": "10472265679114",
+  "fil": "b_21_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "SKS Velo 55 Cross är ett stänkskärmsfäste som är lämpligt för montering av SKS 55 Velo.",
+    "efter": "SKS Velo 55 Cross är ett stänkskärmsfäste som enligt tillverkaren passar SKS 55 Velo."
+   }
+  },
+  "skal": "Typen stöds av titeln och taggen Stänkskärm. Kompatibilitet för stänkskärmar skrivs 'enligt tillverkaren' (avsnitt 12). 'Borrdäck', '355mm' och 'U-Ka' rätt utelämnade."
+ },
+ {
+  "nr": 8039,
+  "id": "10472267055370",
+  "fil": "b_21_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer (nylon, uttag höger, 45 g, små ramstorlekar enligt tillverkaren). SKU 490000151 stämmer med handtaget; utkastets anmärkning om avvikande SKU gäller inte denna produkt."
+ },
+ {
+  "nr": 8040,
+  "id": "10472267251978",
+  "fil": "b_21_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer som 8039. SKU 490000152 mot handtaget …153 bör kontrolleras i butiken."
+ },
+ {
+  "nr": 8041,
+  "id": "10472267579658",
+  "fil": "b_21_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer ('11-delars verktygssats'). Tunn källa, ingen meta. SKU 600000055 mot handtaget …056 bör kontrolleras."
+ },
+ {
+  "nr": 8042,
+  "id": "10472280097034",
+  "fil": "b_21_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Dig som ska smörja 2–3 par skidor</li>",
+    "efter": "<li>Dig som vill ha en förpackning som räcker till 2–3 par skidor</li>"
+   }
+  },
+  "skal": "Produkttypen är säkert bestämd ur källan ('Universell fästtejp / grepptejp' för skidornas fästzon); originaltitelns 'Smörjmedel 1 st' är rätt utelämnat. 'Smörja' är källans felöversättning och stryks. Övriga uppgifter (+5 till −20 °C, 5 m, 2–3 par, 250 km enligt tillverkaren) stämmer."
+ },
+ {
+  "nr": 8043,
+  "id": "10472281276682",
+  "fil": "b_21_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Mask Viking Seamless Sigurd 3",
+    "efter": "Multifunktionsmask Viking Seamless Sigurd 3"
+   },
+   "seo_title": {
+    "fore": "Mask Viking Seamless Sigurd 3",
+    "efter": "Multifunktionsmask Viking Sigurd 3"
+   },
+   "meta": [
+    {
+     "fore": "i universal storlek",
+     "efter": "i universalstorlek"
+    },
+    {
+     "fore": "Den är termoreglerande och kan vikas ihop.",
+     "efter": "Ihopvikt får den plats i fickan."
+    }
+   ],
+   "html": [
+    {
+     "fore": "i svart och grått i universal storlek",
+     "efter": "i svart och grått i universalstorlek"
+    },
+    {
+     "fore": "<li>Dig som vill ha en mask i universal storlek</li>",
+     "efter": "<li>Dig som vill ha en mask i universalstorlek</li>"
+    },
+    {
+     "fore": "<li>Typ: Multifunktionell mask</li>",
+     "efter": "<li>Typ: Multifunktionsmask</li>"
+    },
+    {
+     "fore": "<li>Egenskap: Termoreglerande</li>\n",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Samma typord som systerprodukterna 8012 och 8013 (Multifunktionsmask). 'Termoreglerande' är ett funktionspåstående som utelämnats i systerprodukterna; stryks här också. 'Universalstorlek' i ett ord. Tagg 'På beställning' och meningen finns."
+ },
+ {
+  "nr": 8044,
+  "id": "10472282128650",
+  "fil": "b_21_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "(144 PSI)",
+    "efter": "(144 psi)"
+   },
+   "html": {
+    "fore": "10 bar / 144 PSI",
+    "efter": "10 bar / 144 psi"
+   }
+  },
+  "skal": "Stämmer mot källan (10 bar, 900 mm, 650 mm, AV/SV/DV, stålrör, svart/orange). Enheter med liten bokstav (psi, som i 8047). Tagg 'På beställning' och meningen finns."
+ },
+ {
+  "nr": 8045,
+  "id": "10472283504906",
+  "fil": "b_21_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer (två densiteter, greppmönster, 127 mm, 32 mm, styre 22,2 mm). Antal per förpackning rätt utelämnat."
+ },
+ {
+  "nr": 8046,
+  "id": "10472285470986",
+  "fil": "b_21_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer med den enda meningen i källan; tunn källa, ingen meta. Taggen 'jacka' och källans 'kläderna torra' bekräftar ett plagg. Ingen storlek eller målgrupp anges."
+ },
+ {
+  "nr": 8047,
+  "id": "10472285700362",
+  "fil": "b_21_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Giant Control Mini MTB är en svart handpump för MTB-cyklar med maxtryck på 5 bar och T-format handtag.",
+    "efter": "Giant Control Mini MTB är en kompakt svart handpump för MTB-cyklar med T-format handtag och monteringsram."
+   },
+   "html": {
+    "fore": "<li>Maxtryck: 5 bar / 90 psi</li>\n",
+    "efter": ""
+   }
+  },
+  "skal": "Källan är motsägande om trycket: 90 psi är ca 6,2 bar, inte 5 bar. Maxtrycket stryks i meta och specifikation (att bekräfta för David). Övrigt stämmer."
+ }
+]

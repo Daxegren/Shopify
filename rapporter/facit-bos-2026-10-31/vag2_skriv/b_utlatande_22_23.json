@@ -1,0 +1,413 @@
+[
+ {
+  "nr": 8049,
+  "id": "10472293531914",
+  "fil": "b_22_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "för montering på styret. Diametern är 22–26 mm.</p>",
+    "efter": "för montering på styret.</p>"
+   }
+  },
+  "skal": "Källan anger 'Diameter: 22-26 mm' utan att säga om det är hållarens eller styrets mått, och nästa rad är felöversatt ('montering på en lins'). Måttet får stå som specifikation ordagrant men inte förklaras i inledningen. Övrigt stämmer (aluminium, för styre, svart i titeln)."
+ },
+ {
+  "nr": 8050,
+  "id": "10472294088970",
+  "fil": "b_22_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Giant Valve Extender är en ventilförlängare på 50 mm.</p>",
+    "efter": "<p>Det här är en ventilförlängare från Giant på 50 mm.</p>"
+   }
+  },
+  "skal": "Cirkulär första mening ('Valve Extender är en ventilförlängare'). Tunn källa (bara titel) rätt hanterad, ingen meta. SEO lika med titeln lagras tom (avsett)."
+ },
+ {
+  "nr": 8051,
+  "id": "10472294154506",
+  "fil": "b_22_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot källan. 'Passar 21-26mm linser' rätt utelämnad (felöversättning). Typordet stöds av titeln och taggen ringklocka. SEO lika med titeln lagras tom (avsett)."
+ },
+ {
+  "nr": 8052,
+  "id": "10472294842634",
+  "fil": "b_22_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Stödben (taggen stödben, källan 'Stand'/'Stativ') bär cykelns vikt, här till elcykeln ADO Air Carbon; samma bedömning som 5003/5010. Källan är dessutom för tunn och motsägande (Stand/Stativ/stödben) för att typordet ska vara entydigt."
+ },
+ {
+  "nr": 8054,
+  "id": "10472486109450",
+  "fil": "b_22_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Start skidskrapa är tillverkad av metall",
+    "efter": "<p>Skidskrapan från Start är tillverkad av metall"
+   }
+  },
+  "skal": "Typordet Skidskrapa stöds av källan ('rengöra ... skidornas belag'); den trasiga 'Startkabeln' och 'gammalt fett' är rätt utelämnade. Inledningen 'Start skidskrapa är' är ogrammatisk (Start är märket)."
+ },
+ {
+  "nr": 8055,
+  "id": "10475355570442",
+  "fil": "b_22_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer: plast, 45 g, 317 mm, buntband, 26–29 tum och 1,95–2,6 tum enligt tillverkaren. Trasig mening om 'enkel kabel' rätt utelämnad. Taggen På beställning finns och standardblocket har beställningsmeningen."
+ },
+ {
+  "nr": 8056,
+  "id": "10475361206538",
+  "fil": "b_22_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Centrerat cykelstöd (taggen stödben) bär cykelns vikt och är avsett för 16–20 tums cyklar, alltså troligen barncyklar; både last och barn. Samma linje som 5003/5010. Titeln 'Cykelstöd för Cyklar' är dessutom cirkulär."
+ },
+ {
+  "nr": 8057,
+  "id": "10475361894666",
+  "fil": "b_22_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer: tvåkomponentsplast, 29 tum, 2,0–3,0 tum, 620 mm, max sadelstolpe 35 mm, Powerstraps, 2-pivot enligt tillverkaren. '27.5 plus' rätt utelämnat ur titeln (specifikationen säger bara 29). 'Tillverkad i Tyskland' och 'okrossbar' utelämnade. Beställningsmeningen finns (tagg På beställning)."
+ },
+ {
+  "nr": 8058,
+  "id": "10475385356554",
+  "fil": "b_22_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Start mässingsborste för skidor används för",
+    "efter": "Mässingsborsten från Start används för"
+   },
+   "html": {
+    "fore": "<p>Start är en mässingsborste för skidor. Den används",
+    "efter": "<p>Det här är en mässingsborste för skidor från Start. Den används"
+   }
+  },
+  "skal": "Start är märket, inte produkten: 'Start är en mässingsborste' och 'Start mässingsborste ... används' är fel/ogrammatiskt. Innehållet stämmer mot källan (paraffin, struktur, polering, en riktning). Ny meta se längd i tabellen."
+ },
+ {
+  "nr": 8060,
+  "id": "10475621646602",
+  "fil": "b_22_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn källa rätt hanterad (bara titel och 'Tillverkaren är Liv'), ingen meta. En variant; färgen från titeln."
+ },
+ {
+  "nr": 8061,
+  "id": "10475981930762",
+  "fil": "b_22_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Sadeln har en ergonomisk design och en optimerad form.",
+    "efter": "Sadeln har enligt tillverkaren en ergonomisk design och en optimerad form."
+   }
+  },
+  "skal": "Ergonomisk design och optimerad form är tillverkarens påstående (metan markerar det, inledningen inte). 'Rammaterial: chromoly' och Giants standardtext rätt utelämnade. 400 g stämmer."
+ },
+ {
+  "nr": 8063,
+  "id": "10494689313034",
+  "fil": "b_22_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "M-Wave Comp VI är en svart racingsadel med V-design och ventilationshål. Enligt tillverkaren har den O-Zone i hel längd för tryckavlastning.",
+    "efter": null
+   }
+  },
+  "skal": "'För tryckavlastning' är ett kroppsligt effektpåstående (jfr 8074 där 'avlasta' utelämnats) och tas bort; utan det räcker källan (tre punkter i kvarlämnad chattkod) inte till en meta om 130–155 tecken utan utfyllnad, så meta blir null (tunn källa). Html har redan bara 'O-Zone i hel längd'. Handtaget slutar på 251014 men SKU är 251013 (att bekräfta)."
+ },
+ {
+  "nr": 8064,
+  "id": "10494696587530",
+  "fil": "b_22_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer: polypropen, 50 g, 23–35 mm enligt tillverkaren, utan verktyg, vikbar, 3M-klistermärken. Trasigt stycke om 'borrdäcket' och 'perfekta valet' rätt utelämnade."
+ },
+ {
+  "nr": 8065,
+  "id": "10494699274506",
+  "fil": "b_22_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Färgen är matt svart med blank blå.",
+    "efter": "Färgen är matt svart och blank blå."
+   }
+  },
+  "skal": "Språk: 'matt svart med blank blå' blir 'matt svart och blank blå' som i titel och specifikation. Kolfiber och 14 g stämmer. SKU 490000082 mot handtag ...083 (att bekräfta)."
+ },
+ {
+  "nr": 8066,
+  "id": "10494706417930",
+  "fil": "b_22_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Unior 1781/2HX är en 3-armad sexkantnyckel från Unior.</p>",
+    "efter": "<p>1781/2HX är en 3-armad sexkantnyckel från Unior.</p>"
+   }
+  },
+  "skal": "Upprepning av märket i samma mening. Tunn källa rätt hanterad, inga storlekar påhittade."
+ },
+ {
+  "nr": 8067,
+  "id": "10494944018698",
+  "fil": "b_22_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Framkorg utan lastuppgift i källan och ingen lastgräns i texten (tillåtet enligt Davids beslut 2026-11-03). Korgen har ingen elektronik. Beställningsmeningen finns (tagg På beställning)."
+ },
+ {
+  "nr": 8068,
+  "id": "10515737542922",
+  "fil": "b_22_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Motsägande källa: originaltiteln säger 'Landsvägscykelsadlar' men punkterna beskriver pedaler ('lämpliga för Look KEO-systemet', 'tätade lager, underhållsfria'). Vikten 257 g och 'Mått 82 x 92 mm' kan lika gärna vara pedalens. Giant Road Pro kan vara en pedal; pedaler är säkerhetsprodukter. Produkttypen är oklar och inget mått kan användas säkert."
+ },
+ {
+  "nr": 8069,
+  "id": "10515737805066",
+  "fil": "b_22_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer: H2Tex, M, 43 x 6 x 11,5 cm, 3 liter, täckt öppning, vattentät enligt tillverkaren. Ingen lastgräns i källan och ingen i texten (kapacitet i liter är ingen lastuppgift). 'Säker förvaring' rätt utelämnat."
+ },
+ {
+  "nr": 8070,
+  "id": "10515738001674",
+  "fil": "b_22_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Källan säger 'designad för barncyklar' och taggen är Barncykel; dessutom hygienpåstående (antimikrobiell). 5256 (samma flaska, orange) underkändes av samma skäl i b_7–b_9 och är inte skriven (live-titeln är fortfarande originalet), så det finns inget skrivet mönster att följa."
+ },
+ {
+  "nr": 8071,
+  "id": "10515738034442",
+  "fil": "b_22_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Som 8070 och 5256: 'designad för barns cyklar', tagg Barncykel, antimikrobiellt påstående."
+ },
+ {
+  "nr": 8072,
+  "id": "10515739476234",
+  "fil": "b_22_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Som 8070 och 5256: 'designad för barncyklar', tagg Barncykel, antimikrobiellt påstående."
+ },
+ {
+  "nr": 8073,
+  "id": "10515745833226",
+  "fil": "b_23_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "och väger bara 60 g.",
+    "efter": "och väger 60 g."
+   }
+  },
+  "skal": "'Bara' är en värdering utan stöd (html skriver rätt 'väger 60 g'). Övrigt stämmer: 100 PSI / 6,9 bar, 60 g, endast Presta."
+ },
+ {
+  "nr": 8074,
+  "id": "10523464368394",
+  "fil": "b_23_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Handtag Giant Ergo Max Lockon Grip, Svart",
+    "efter": "Handtag Giant Ergo Max Lockon Grip"
+   },
+   "html": {
+    "fore": "<li>Färg: Svart</li>",
+    "efter": ""
+   }
+  },
+  "skal": "Färgen är motsägande i källan ('SVART/GRÅ, svart'); Svart är inte entydigt hela färgen och stryks ur titel och specifikation. SEO-titeln blir då lika med titeln och lagras tom (avsett). Vibrations- och avlastningspåståenden rätt utelämnade."
+ },
+ {
+  "nr": 8075,
+  "id": "10523466498314",
+  "fil": "b_23_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Stänkskärmar SKS Bluemels Basic, 28 tum, 55 mm",
+    "efter": "Stänkskärmar SKS Bluemels Basic, 28 tum, Däckbredd 32–47 mm"
+   },
+   "seo_title": {
+    "fore": "Stänkskärmar SKS Bluemels Basic 28 tum",
+    "efter": "Stänkskärmar SKS Bluemels Basic, 32–47 mm"
+   },
+   "meta": {
+    "fore": "SKS Bluemels Basic är stänkskärmar i aluminium och plast för 28 tum och däckbredd 32–47 mm. Framskärmen är 680 mm och bakskärmen 1185 mm lång.",
+    "efter": "SKS Bluemels Basic är stänkskärmar i aluminium och plast för 28 tum, enligt tillverkaren för däckbredd 32–47 mm. Framskärmen är 680 mm lång."
+   }
+  },
+  "skal": "'55 mm' förklaras inte i källan och stryks ur titeln. Utan det blir titeln identisk med systerprodukten 8102 i b_24 (45 mm-versionen, 28–37 mm), så däckbredden ur källan skiljer dem åt i titel och SEO-titel (8102 bör få 'Däckbredd 28–37 mm' på samma sätt). Däckbredden är kompatibilitet och skrivs enligt tillverkaren även i metan (som i html). ASR-säkerhetssystem och 'Tillverkad i Tyskland' rätt utelämnade. Beställningsmeningen finns."
+ },
+ {
+  "nr": 8076,
+  "id": "10523474592010",
+  "fil": "b_23_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Solglasögon är ögonskydd: källan lovar 'maximalt skydd för dina ögon' och 'säkerhet', och 'Kat. 3' är en filterkategori med användningsbegränsningar som källan inte förklarar. Utkastaren flaggade själv frågan. Tas för hand med Davids ja."
+ },
+ {
+  "nr": 8079,
+  "id": "10523491500298",
+  "fil": "b_23_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Cykelklocka Giant Ding-A-Ling Svart",
+    "efter": "Cykelklocka Giant Ding-A-Ling, Svart"
+   }
+  },
+  "skal": "SEO-titeln saknar kommatecknet före färgen (formatet i övriga). Rättad SEO-titel blir lika med titeln och lagras tom (avsett). Tom källa rätt hanterad: kort intro, ingen meta, ingen påhittad text."
+ },
+ {
+  "nr": 8080,
+  "id": "10525550510346",
+  "fil": "b_23_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Verktygsset SKS Tom 7",
+    "efter": "Multiverktyg SKS Tom 7"
+   },
+   "seo_title": {
+    "fore": "SKS Tom 7 Verktygsset",
+    "efter": "Multiverktyg SKS Tom 7"
+   }
+  },
+  "skal": "Titeltypen stöds inte av källan: originaltiteln säger 'Verktygsset ... 7 delar' men texten beskriver ett enda multifunktionsverktyg med 7 integrerade funktioner (motsägelse). Typordet tas från texten ('multifunktionsverktyg', här Multiverktyg), produkttypen Tillbehör ändras inte. SEO-titeln hade omvänd ordning; blir lika med titeln och lagras tom. 'Från Sale' och 'I lager: från rostfritt stål' rätt utelämnade. Beställningsmeningen finns."
+ },
+ {
+  "nr": 8086,
+  "id": "10541100499210",
+  "fil": "b_23_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Bladet är av polypropen, impellerhållaren av polyamid och remmen av TPU.",
+    "efter": "Bladet är av 0,9 mm polypropen och remmen av termoplastisk polyuretan."
+   },
+   "html": {
+    "fore": "<li>Material, impellerhållare: Polyamid (PA) förstärkt med glasfiber</li>",
+    "efter": ""
+   }
+  },
+  "skal": "'Impellerhållare' är maskinöversatt (som 'borrningsplatta') och det är oklart vilken del som avses; stryks i meta och specifikation. Mått 375 x 85 mm, 64 g, PP 0,9 mm och TPU stämmer. Ny meta se längd i tabellen."
+ },
+ {
+  "nr": 8088,
+  "id": "10541328367882",
+  "fil": "b_23_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer: damhandskar, förformad tumdesign, förlängd manschett som ersätter kardborrefästet. 'Sitter säkert' och 'slitstark' rätt utelämnade. Cykelhandskar för vuxna är ingen säkerhetsprodukt (jfr 5270)."
+ },
+ {
+  "nr": 8089,
+  "id": "10541366640906",
+  "fil": "b_23_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Giant Chain Cleaner är en kedjerengöring med integrerad",
+    "efter": "Giant Chain Cleaner är ett verktyg med integrerad"
+   },
+   "html": {
+    "fore": "<p>Giant Chain Cleaner är en kedjerengöring med integrerad",
+    "efter": "<p>Giant Chain Cleaner är ett verktyg för kedjan med integrerad"
+   }
+  },
+  "skal": "Cirkulär första mening ('Chain Cleaner är en kedjerengöring'). Användningen stämmer mot källan. Ny meta se längd i tabellen."
+ },
+ {
+  "nr": 8091,
+  "id": "10541367755018",
+  "fil": "b_23_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": " Handtagen har en slip-on-design och en offset-design.</p>",
+    "efter": " Handtagen har en offset-design.</p>"
+   }
+  },
+  "skal": "Upprepning: 'slip-on-handtag' står redan i meningen före. Övrigt stämmer (silikon, 32 mm, 130 mm, 80 g för 32 mm, 6/5 mm). Stötdämpning och vibrationsreducering rätt utelämnade."
+ },
+ {
+  "nr": 8092,
+  "id": "10541368606986",
+  "fil": "b_23_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": " Enligt tillverkaren ger de ett säkert grepp även i regn.</p>",
+    "efter": "</p>"
+   }
+  },
+  "skal": "'Säkert grepp även i regn' är ett säkerhetslöfte och tas bort även med 'enligt tillverkaren' (jfr 'halkfri' i 3080). 'Världens största cykeltillverkare' rätt utelämnat. Tunn källa, ingen meta."
+ },
+ {
+  "nr": 8093,
+  "id": "10541369098506",
+  "fil": "b_23_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Två varianter med oförklarade namn (490000099 och 490000095, samma pris); titeln och handtaget säger Svart/Blå men det framgår inte vad 490000095 är (troligen en annan färg). Efter att färgen strukits återstår bara '500–750 ml' – för lite för en säker text, och titeln skiljer sig inte från systerprodukterna. David/leverantören avgör varianterna."
+ },
+ {
+  "nr": 8094,
+  "id": "10541369393418",
+  "fil": "b_23_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Färg: Svart och Röd</li>",
+    "efter": "<li>Färg: Svart och röd</li>"
+   }
+  },
+  "skal": "Stor bokstav gäller bara direkt efter kolon (jfr 'Svart och orange' i 8060). En variant, färg från titeln, 500–750 ml stämmer. Tunn källa, ingen meta."
+ },
+ {
+  "nr": 8095,
+  "id": "10541370016010",
+  "fil": "b_23_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer: UniClip, snabbkopplat, aerodynamisk, kompatibel med Giant Uniclip-sadlar, innerslang/verktyg/reparationskit. Ingen lastgräns i källan och ingen i texten. SEO lika med titeln lagras tom."
+ },
+ {
+  "nr": 8096,
+  "id": "10548232618250",
+  "fil": "b_23_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Giant Cleanspring Dricksflaska 600 ml",
+    "efter": "Dricksflaska Giant Cleanspring 600 ml"
+   }
+  },
+  "skal": "SEO-titeln har omvänd ordning (märke före typord, jfr 5208); blir lika med titeln och lagras tom. 'Antibakteriell plast' rätt utelämnat, BPA-fri enligt tillverkaren."
+ }
+]
