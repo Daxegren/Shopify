@@ -1,0 +1,1339 @@
+[
+ {
+  "nr": 8972,
+  "id": "10411859476746",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Trickscooter SOKE Evo, Guld",
+    "efter": "Tricksparkcykel SOKE EVO, Guld"
+   },
+   "seo_title": {
+    "fore": "Trickscooter SOKE Evo, Guld",
+    "efter": "Tricksparkcykel SOKE EVO, Guld"
+   },
+   "meta": {
+    "fore": "SOKE Evo är en guldfärgad trickscooter med hjul på 100 x 24 mm i PU. Maxvikt för åkaren är 100 kg enligt tillverkaren.",
+    "efter": "SOKE EVO är en guldfärgad tricksparkcykel med hjul på 100 x 24 mm i PU, Flex fender-bromssystem och handtag i TPR."
+   },
+   "html": [
+    {
+     "fore": "Evo är en trickscooter i färgen guldfärgad",
+     "efter": "EVO är en guldfärgad tricksparkcykel"
+    },
+    {
+     "fore": "en trickscooter med",
+     "efter": "en tricksparkcykel med"
+    },
+    {
+     "fore": "ha en scooter med 3-skruvs",
+     "efter": "ha en sparkcykel med 3-skruvs"
+    },
+    {
+     "fore": "ha en scooter med Flex",
+     "efter": "ha en sparkcykel med Flex"
+    },
+    {
+     "fore": "SOKE Evo</li>",
+     "efter": "SOKE EVO</li>"
+    }
+   ]
+  },
+  "skal": "Källan stämmer: hjul 100x24 mm PU 88A/nylon, Flex fender, TPR-handtag 145 mm, 3-skruvs klämma, maximal användarvikt 100 kg (återges en gång i beskrivningen som 'enligt tillverkaren'). Vikt 3,45/3,5 kg, EN14619 och 'lins'-raderna rätt utelämnade (maskinöversatt källa). Färgen bara i live-titeln: godtas. Typord: 'scooter' (engelskt; på svenska avses moped) ersätts med sparkcykel i alla fält, som produkttypen Sparkcyklar, live-titlarna och b_50 (samma modell fick olika typord i b_49 och b_50); 'SOKE Evo' blir 'SOKE EVO' som i live-titlarna. Inledningen 'i färgen guldfärgad' o.d. skrivs om. Metan: maxvikten tas bort (en gång per text, står i specifikationen) och ersätts med broms och handtag."
+ },
+ {
+  "nr": 8974,
+  "id": "10462765711626",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Trickscooter SOKE Evo, Blå",
+    "efter": "Tricksparkcykel SOKE EVO, Blå"
+   },
+   "seo_title": {
+    "fore": "Trickscooter SOKE Evo, Blå",
+    "efter": "Tricksparkcykel SOKE EVO, Blå"
+   },
+   "meta": {
+    "fore": "SOKE Evo är en blå trickscooter med hjul på 100 x 24 mm i PU. Maxvikt för åkaren är 100 kg enligt tillverkaren.",
+    "efter": "SOKE EVO är en blå tricksparkcykel med hjul på 100 x 24 mm i PU, Flex fender-bromssystem och handtag i TPR."
+   },
+   "html": [
+    {
+     "fore": "Evo är en trickscooter i färgen blå",
+     "efter": "EVO är en blå tricksparkcykel"
+    },
+    {
+     "fore": "en trickscooter med",
+     "efter": "en tricksparkcykel med"
+    },
+    {
+     "fore": "ha en scooter med 3-skruvs",
+     "efter": "ha en sparkcykel med 3-skruvs"
+    },
+    {
+     "fore": "ha en scooter med Flex",
+     "efter": "ha en sparkcykel med Flex"
+    },
+    {
+     "fore": "SOKE Evo</li>",
+     "efter": "SOKE EVO</li>"
+    }
+   ]
+  },
+  "skal": "Källan stämmer: hjul 100x24 mm PU 88A/nylon, Flex fender, TPR-handtag 145 mm, 3-skruvs klämma, maximal användarvikt 100 kg (återges en gång i beskrivningen som 'enligt tillverkaren'). Vikt 3,45/3,5 kg, EN14619 och 'lins'-raderna rätt utelämnade (maskinöversatt källa). Färgen bara i live-titeln: godtas. Typord: 'scooter' (engelskt; på svenska avses moped) ersätts med sparkcykel i alla fält, som produkttypen Sparkcyklar, live-titlarna och b_50 (samma modell fick olika typord i b_49 och b_50); 'SOKE Evo' blir 'SOKE EVO' som i live-titlarna. Inledningen 'i färgen guldfärgad' o.d. skrivs om. Metan: maxvikten tas bort (en gång per text, står i specifikationen) och ersätts med broms och handtag."
+ },
+ {
+  "nr": 8979,
+  "id": "10470928711946",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Trickscooter SOKE Evo, Svart/Lila",
+    "efter": "Tricksparkcykel SOKE EVO, Svart/Lila"
+   },
+   "seo_title": {
+    "fore": "Trickscooter SOKE Evo, Svart/Lila",
+    "efter": "Tricksparkcykel SOKE EVO, Svart/Lila"
+   },
+   "meta": {
+    "fore": "SOKE Evo är en svart och lila trickscooter med hjul på 100 x 24 mm i PU. Maxvikt för åkaren är 100 kg enligt tillverkaren.",
+    "efter": "SOKE EVO är en tricksparkcykel i svart och lila med hjul på 100 x 24 mm i PU, Flex fender-bromssystem och handtag i TPR."
+   },
+   "html": [
+    {
+     "fore": "Evo är en trickscooter i färgen",
+     "efter": "EVO är en tricksparkcykel i"
+    },
+    {
+     "fore": "en trickscooter med",
+     "efter": "en tricksparkcykel med"
+    },
+    {
+     "fore": "ha en scooter med 3-skruvs",
+     "efter": "ha en sparkcykel med 3-skruvs"
+    },
+    {
+     "fore": "ha en scooter med Flex",
+     "efter": "ha en sparkcykel med Flex"
+    },
+    {
+     "fore": "SOKE Evo</li>",
+     "efter": "SOKE EVO</li>"
+    }
+   ]
+  },
+  "skal": "Källan stämmer: hjul 100x24 mm PU 88A/nylon, Flex fender, TPR-handtag 145 mm, 3-skruvs klämma, maximal användarvikt 100 kg (återges en gång i beskrivningen som 'enligt tillverkaren'). Vikt 3,45/3,5 kg, EN14619 och 'lins'-raderna rätt utelämnade (maskinöversatt källa). Färgen bara i live-titeln: godtas. Typord: 'scooter' (engelskt; på svenska avses moped) ersätts med sparkcykel i alla fält, som produkttypen Sparkcyklar, live-titlarna och b_50 (samma modell fick olika typord i b_49 och b_50); 'SOKE Evo' blir 'SOKE EVO' som i live-titlarna. Inledningen 'i färgen guldfärgad' o.d. skrivs om. Metan: maxvikten tas bort (en gång per text, står i specifikationen) och ersätts med broms och handtag."
+ },
+ {
+  "nr": 8992,
+  "id": "10472287011082",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Trickscooter SOKE Evo, Svart/Neochrome",
+    "efter": "Tricksparkcykel SOKE EVO, Svart/Neochrome"
+   },
+   "seo_title": {
+    "fore": "Trickscooter SOKE Evo, Svart/Neochrome",
+    "efter": "Tricksparkcykel SOKE EVO, Svart/Neochrome"
+   },
+   "meta": {
+    "fore": "SOKE Evo är en svart och neochrome trickscooter med hjul på 100 x 24 mm i PU. Maxvikt för åkaren är 100 kg enligt tillverkaren.",
+    "efter": "SOKE EVO är en tricksparkcykel i svart och neochrome med hjul på 100 x 24 mm i PU, Flex fender-bromssystem och handtag i TPR."
+   },
+   "html": [
+    {
+     "fore": "Evo är en trickscooter i färgen",
+     "efter": "EVO är en tricksparkcykel i"
+    },
+    {
+     "fore": "en trickscooter med",
+     "efter": "en tricksparkcykel med"
+    },
+    {
+     "fore": "ha en scooter med 3-skruvs",
+     "efter": "ha en sparkcykel med 3-skruvs"
+    },
+    {
+     "fore": "ha en scooter med Flex",
+     "efter": "ha en sparkcykel med Flex"
+    },
+    {
+     "fore": "SOKE Evo</li>",
+     "efter": "SOKE EVO</li>"
+    }
+   ]
+  },
+  "skal": "Källan stämmer: hjul 100x24 mm PU 88A/nylon, Flex fender, TPR-handtag 145 mm, 3-skruvs klämma, maximal användarvikt 100 kg (återges en gång i beskrivningen som 'enligt tillverkaren'). Vikt 3,45/3,5 kg, EN14619 och 'lins'-raderna rätt utelämnade (maskinöversatt källa). Färgen bara i live-titeln: godtas. Typord: 'scooter' (engelskt; på svenska avses moped) ersätts med sparkcykel i alla fält, som produkttypen Sparkcyklar, live-titlarna och b_50 (samma modell fick olika typord i b_49 och b_50); 'SOKE Evo' blir 'SOKE EVO' som i live-titlarna. Inledningen 'i färgen guldfärgad' o.d. skrivs om. Metan: maxvikten tas bort (en gång per text, står i specifikationen) och ersätts med broms och handtag."
+ },
+ {
+  "nr": 8995,
+  "id": "10472292352266",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Stuntscooter SOKE Evo Street, Silver",
+    "efter": "Stuntsparkcykel SOKE EVO Street, Silver"
+   },
+   "seo_title": {
+    "fore": "Stuntscooter SOKE Evo Street, Silver",
+    "efter": "Stuntsparkcykel SOKE EVO Street, Silver"
+   },
+   "meta": {
+    "fore": "SOKE Evo Street är en silverfärgad stuntscooter i aluminium med hjul på 100 mm och vikten 3,9 kg. Maxvikt för åkaren är 100 kg enligt tillverkaren.",
+    "efter": "SOKE EVO Street är en silverfärgad stuntsparkcykel i aluminium med hjul på 100 mm, styrhöjden 85 cm och vikten 3,9 kg."
+   },
+   "html": [
+    {
+     "fore": "<p>SOKE Evo Street är",
+     "efter": "<p>SOKE EVO Street är"
+    },
+    {
+     "fore": "silverfärgad stuntscooter i",
+     "efter": "silverfärgad stuntsparkcykel i"
+    },
+    {
+     "fore": "en stuntscooter i",
+     "efter": "en stuntsparkcykel i"
+    },
+    {
+     "fore": "en scooter med",
+     "efter": "en sparkcykel med"
+    },
+    {
+     "fore": "Modell: SOKE Evo Street</li>",
+     "efter": "Modell: SOKE EVO Street</li>"
+    },
+    {
+     "fore": "Maxvikt för åkaren",
+     "efter": "Lastkapacitet"
+    }
+   ]
+  },
+  "skal": "Källan: lastkapacitet 100 kg, hjul 100 mm, 3,9 kg, styrhöjd 85 cm, bräda 48 x 11 cm, aluminium. Rättning: källan säger 'Maximal lastkapacitet', inte åkarens maxvikt; återges ordagrant. Metan utan lastuppgift (står en gång i specifikationen). Typord: 'scooter' (engelskt; på svenska avses moped) ersätts med sparkcykel i alla fält, som produkttypen Sparkcyklar, live-titlarna och b_50 (samma modell fick olika typord i b_49 och b_50); 'SOKE Evo' blir 'SOKE EVO' som i live-titlarna. Prestanda-, stabilitets- och nybörjarpåståenden rätt utelämnade. Silver bara i titeln: godtas."
+ },
+ {
+  "nr": 8990,
+  "id": "10472284946698",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Stuntscooter Versatyl Bloody Mary V2 Pro, Svart",
+    "efter": "Stuntsparkcykel Versatyl Bloody Mary V2 Pro, Svart"
+   },
+   "seo_title": {
+    "fore": "Stuntscooter Versatyl Bloody Mary V2 Pro",
+    "efter": "Stuntsparkcykel Bloody Mary V2 Pro, Svart"
+   },
+   "meta": {
+    "fore": "Versatyl Bloody Mary V2 Pro är en svart stuntscooter med aluminiumbräda och aluminiumstyre. Åkarhöjd 155–175 cm och maxvikt 100 kg enligt tillverkaren.",
+    "efter": "Versatyl Bloody Mary V2 Pro är en svart stuntsparkcykel med bräda och styre i aluminium, IHC-gaffelsystem och hjul på 110 mm."
+   },
+   "html": [
+    {
+     "fore": "svart stuntscooter.",
+     "efter": "svart stuntsparkcykel."
+    },
+    {
+     "fore": "en stuntscooter med",
+     "efter": "en stuntsparkcykel med"
+    },
+    {
+     "fore": "ha en scooter med bräda",
+     "efter": "ha en sparkcykel med bräda"
+    },
+    {
+     "fore": "ha en scooter med 110",
+     "efter": "ha en sparkcykel med 110"
+    }
+   ]
+  },
+  "skal": "Källan: åkarhöjd 155–175 cm, bräda 510 x 118 mm aluminium, styre 600 x 550 mm aluminium, IHC, 110 mm, ABEC 9, maximal viktkapacitet 100 kg. Inte barnprodukt (155–175 cm, 'professionell'). Åkarhöjd och maxvikt står en gång var i specifikationen; metan upprepade båda och skrivs om utan dem. Typord: 'scooter' (engelskt; på svenska avses moped) ersätts med sparkcykel i alla fält, som produkttypen Sparkcyklar, live-titlarna och b_50 (samma modell fick olika typord i b_49 och b_50); 'SOKE Evo' blir 'SOKE EVO' som i live-titlarna. SEO-titeln utan färg skulle krocka med systrarna Bloody Mary V2 Pro Neochrome och Orange/Blå/Svart (finns i butiken); färgen läggs till (41 tecken). Produkttyp Stuntscootrar oförändrad."
+ },
+ {
+  "nr": 8993,
+  "id": "10472290779402",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Stuntscooter S'Cool flaX 8.6, Flash Blue",
+    "efter": "Stuntsparkcykel S'Cool flaX 8.6, Flash Blue"
+   },
+   "seo_title": {
+    "fore": "Stuntscooter S'Cool flaX 8.6, Flash Blue",
+    "efter": "Stuntsparkcykel S'Cool flaX 8.6, Flash Blue"
+   },
+   "meta": {
+    "fore": "S'Cool flaX 8.6 är en stuntscooter i Flash Blue med aluminiumram och hjul på 100 x 24 mm i PU. Lastkapacitet 100 kg enligt tillverkaren.",
+    "efter": "S'Cool flaX 8.6 är en stuntsparkcykel i Flash Blue med aluminiumram, styre i stål och hjul på 100 x 24 mm i PU."
+   },
+   "html": [
+    {
+     "fore": "en stuntscooter i",
+     "efter": "en stuntsparkcykel i"
+    },
+    {
+     "fore": "en stuntscooter med",
+     "efter": "en stuntsparkcykel med"
+    },
+    {
+     "fore": "en scooter med",
+     "efter": "en sparkcykel med"
+    }
+   ]
+  },
+  "skal": "Barnkontroll: källan anger ingen ålder eller användarhöjd; mått (styre 580 x 540 mm, hjul 100 x 24 mm, lastkapacitet 100 kg) är vuxen-/tonårsmått, inte barnmodell. Godtas, men S'COOL säljer främst barncyklar – se öppen fråga. Trasig källtext ('Tillverkare .', 'S:') och 'förstärkt ram/hållbar/perfekt för hopp' rätt utelämnade. Lastkapaciteten tas bort ur metan (en gång per text). Typord: 'scooter' (engelskt; på svenska avses moped) ersätts med sparkcykel i alla fält, som produkttypen Sparkcyklar, live-titlarna och b_50 (samma modell fick olika typord i b_49 och b_50); 'SOKE Evo' blir 'SOKE EVO' som i live-titlarna."
+ },
+ {
+  "nr": 8994,
+  "id": "10472290812170",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Stuntscooter S'Cool flaX 8.6, Flash Gold",
+    "efter": "Stuntsparkcykel S'Cool flaX 8.6, Flash Gold"
+   },
+   "seo_title": {
+    "fore": "Stuntscooter S'Cool flaX 8.6, Flash Gold",
+    "efter": "Stuntsparkcykel S'Cool flaX 8.6, Flash Gold"
+   },
+   "meta": {
+    "fore": "S'Cool flaX 8.6 är en stuntscooter i Flash Gold med aluminiumram och hjul på 100 x 24 mm i PU. Lastkapacitet 100 kg enligt tillverkaren.",
+    "efter": "S'Cool flaX 8.6 är en stuntsparkcykel i Flash Gold med aluminiumram, styre i stål och hjul på 100 x 24 mm i PU."
+   },
+   "html": [
+    {
+     "fore": "en stuntscooter i",
+     "efter": "en stuntsparkcykel i"
+    },
+    {
+     "fore": "en stuntscooter med",
+     "efter": "en stuntsparkcykel med"
+    },
+    {
+     "fore": "en scooter med",
+     "efter": "en sparkcykel med"
+    }
+   ]
+  },
+  "skal": "Barnkontroll: källan anger ingen ålder eller användarhöjd; mått (styre 580 x 540 mm, hjul 100 x 24 mm, lastkapacitet 100 kg) är vuxen-/tonårsmått, inte barnmodell. Godtas, men S'COOL säljer främst barncyklar – se öppen fråga. Trasig källtext ('Tillverkare .', 'S:') och 'förstärkt ram/hållbar/perfekt för hopp' rätt utelämnade. Lastkapaciteten tas bort ur metan (en gång per text). Typord: 'scooter' (engelskt; på svenska avses moped) ersätts med sparkcykel i alla fält, som produkttypen Sparkcyklar, live-titlarna och b_50 (samma modell fick olika typord i b_49 och b_50); 'SOKE Evo' blir 'SOKE EVO' som i live-titlarna."
+ },
+ {
+  "nr": 8996,
+  "id": "10472294416650",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Stuntscooter Ethic Pandora Complete Pro L, Blå",
+    "efter": "Stuntsparkcykel Ethic Pandora Complete Pro L, Blå"
+   },
+   "seo_title": {
+    "fore": "Stuntscooter Ethic Pandora Pro L, Blå",
+    "efter": "Stuntsparkcykel Ethic Pandora Pro L, Blå"
+   },
+   "meta": {
+    "fore": "Ethic Pandora Complete Pro L är en blå stuntscooter med aluminiumplattform och hjul på 115 mm. Lastkapacitet upp till 100 kg enligt tillverkaren.",
+    "efter": "Ethic Pandora Complete Pro L är en blå stuntsparkcykel med aluminiumplattform, IHC-styrningssystem och hjul på 115 mm."
+   },
+   "html": [
+    {
+     "fore": "blå stuntscooter.",
+     "efter": "blå stuntsparkcykel."
+    },
+    {
+     "fore": "en stuntscooter i",
+     "efter": "en stuntsparkcykel i"
+    },
+    {
+     "fore": "en scooter med",
+     "efter": "en sparkcykel med"
+    }
+   ]
+  },
+  "skal": "Barnkontroll: källan 'Lämplig för åkare som är 170+ cm' – vuxenstorlek L, inte barnprodukt. Plattform 560 x 130 mm, styrarm 670 mm, styrbredd 560 mm, IHC, ABEC-9, 115 mm, 3,29 kg, lastkapacitet upp till 100 kg och blå stämmer. Åkarlängd står en gång (Passar för), lastkapacitet en gång (specifikation); metan utan lastuppgift. Typord: 'scooter' (engelskt; på svenska avses moped) ersätts med sparkcykel i alla fält, som produkttypen Sparkcyklar, live-titlarna och b_50 (samma modell fick olika typord i b_49 och b_50); 'SOKE Evo' blir 'SOKE EVO' som i live-titlarna. (live-titeln säger själv Stuntsparkcykel)."
+ },
+ {
+  "nr": 8975,
+  "id": "10462779769098",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Scooterhjul Union Yolo Pro, 100 mm, Svart/Grå",
+    "efter": "Sparkcykelhjul Union Yolo Pro, 100 mm, Svart/Grå"
+   },
+   "seo_title": {
+    "fore": "Scooterhjul Union Yolo Pro, Svart/Grå",
+    "efter": "Sparkcykelhjul Union Yolo Pro, Svart/Grå"
+   },
+   "meta": {
+    "fore": "Union Yolo Pro är ett scooterhjul med diameter 100 mm som väger 201 g. Hjulet finns i färgen svart/grå och priset gäller ett hjul.",
+    "efter": "Union Yolo Pro är ett sparkcykelhjul med diameter 100 mm som väger 201 g. Hjulet finns i färgen svart/grå och priset gäller ett hjul."
+   },
+   "html": [
+    {
+     "fore": "är ett scooterhjul med diameter",
+     "efter": "är ett sparkcykelhjul med diameter"
+    },
+    {
+     "fore": "söker ett scooterhjul med diameter",
+     "efter": "söker ett sparkcykelhjul med diameter"
+    }
+   ]
+  },
+  "skal": "Källan stämmer: 1 hjul per pris, diameter enligt titel och källa, svart/grå, 201 g, ekrad. Ingen kompatibilitet påstås (källan anger ingen). Färgen från källans färgfält. Typord: 'scooter' (engelskt; på svenska avses moped) ersätts med sparkcykel i alla fält, som produkttypen Sparkcyklar, live-titlarna och b_50 (samma modell fick olika typord i b_49 och b_50); 'SOKE Evo' blir 'SOKE EVO' som i live-titlarna. SEO-titeln får samma mönster som systrarna (typ, märke, modell, komma före färg), högst 43 tecken."
+ },
+ {
+  "nr": 8987,
+  "id": "10472278196490",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Scooterhjul Union Yolo Pro, 100 mm, Svart/Blå",
+    "efter": "Sparkcykelhjul Union Yolo Pro, 100 mm, Svart/Blå"
+   },
+   "seo_title": {
+    "fore": "Scooterhjul Union Yolo Pro, Svart/Blå",
+    "efter": "Sparkcykelhjul Union Yolo Pro, Svart/Blå"
+   },
+   "meta": {
+    "fore": "Union Yolo Pro är ett scooterhjul med diameter 100 mm som väger 201 g. Hjulet finns i färgen svart/blå och priset gäller ett hjul.",
+    "efter": "Union Yolo Pro är ett sparkcykelhjul med diameter 100 mm som väger 201 g. Hjulet finns i färgen svart/blå och priset gäller ett hjul."
+   },
+   "html": [
+    {
+     "fore": "är ett scooterhjul med diameter",
+     "efter": "är ett sparkcykelhjul med diameter"
+    },
+    {
+     "fore": "söker ett scooterhjul med diameter",
+     "efter": "söker ett sparkcykelhjul med diameter"
+    }
+   ]
+  },
+  "skal": "Källan stämmer: 1 hjul per pris, diameter enligt titel och källa, Svart/Blå, 201 g, ekrad. Ingen kompatibilitet påstås (källan anger ingen). Färgen från källans färgfält. Typord: 'scooter' (engelskt; på svenska avses moped) ersätts med sparkcykel i alla fält, som produkttypen Sparkcyklar, live-titlarna och b_50 (samma modell fick olika typord i b_49 och b_50); 'SOKE Evo' blir 'SOKE EVO' som i live-titlarna. SEO-titeln får samma mönster som systrarna (typ, märke, modell, komma före färg), högst 43 tecken."
+ },
+ {
+  "nr": 8988,
+  "id": "10472278262026",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Scooterhjul Union Yolo Pro, 100 mm, Svart",
+    "efter": "Sparkcykelhjul Union Yolo Pro, 100 mm, Svart"
+   },
+   "seo_title": {
+    "fore": "Scooterhjul Union Yolo Pro, Svart",
+    "efter": "Sparkcykelhjul Union Yolo Pro, Svart"
+   },
+   "meta": {
+    "fore": "Union Yolo Pro är ett scooterhjul med diameter 100 mm som väger 201 g. Hjulet finns i färgen svart och priset gäller ett hjul.",
+    "efter": "Union Yolo Pro är ett sparkcykelhjul med diameter 100 mm som väger 201 g. Hjulet finns i färgen svart och priset gäller ett hjul."
+   },
+   "html": [
+    {
+     "fore": "är ett scooterhjul med diameter",
+     "efter": "är ett sparkcykelhjul med diameter"
+    },
+    {
+     "fore": "söker ett scooterhjul med diameter",
+     "efter": "söker ett sparkcykelhjul med diameter"
+    }
+   ]
+  },
+  "skal": "Källan stämmer: 1 hjul per pris, diameter enligt titel och källa, Svart, 201 g, ekrad. Ingen kompatibilitet påstås (källan anger ingen). Färgen från källans färgfält. Typord: 'scooter' (engelskt; på svenska avses moped) ersätts med sparkcykel i alla fält, som produkttypen Sparkcyklar, live-titlarna och b_50 (samma modell fick olika typord i b_49 och b_50); 'SOKE Evo' blir 'SOKE EVO' som i live-titlarna. SEO-titeln får samma mönster som systrarna (typ, märke, modell, komma före färg), högst 43 tecken."
+ },
+ {
+  "nr": 8976,
+  "id": "10462779965706",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Scooterhjul Union Credit V2 Pro, 100 mm, Svart",
+    "efter": "Sparkcykelhjul Union Credit V2 Pro, 100 mm, Svart"
+   },
+   "seo_title": {
+    "fore": "Scooterhjul Union Credit V2 Pro, Svart",
+    "efter": "Sparkcykelhjul Union Credit V2 Pro, Svart"
+   },
+   "meta": {
+    "fore": "Union Credit V2 Pro är ett scooterhjul med diameter 100 mm som väger 223 g. Hjulet finns i färgen svart och priset gäller ett hjul.",
+    "efter": "Union Credit V2 Pro är ett sparkcykelhjul med diameter 100 mm som väger 223 g. Hjulet finns i färgen svart och priset gäller ett hjul."
+   },
+   "html": [
+    {
+     "fore": "är ett scooterhjul med diameter",
+     "efter": "är ett sparkcykelhjul med diameter"
+    },
+    {
+     "fore": "söker ett scooterhjul med diameter",
+     "efter": "söker ett sparkcykelhjul med diameter"
+    }
+   ]
+  },
+  "skal": "Källan stämmer: 1 hjul per pris, diameter enligt titel och källa, Svart, 223 g. Ingen kompatibilitet påstås (källan anger ingen). Färgen från källans färgfält. Typord: 'scooter' (engelskt; på svenska avses moped) ersätts med sparkcykel i alla fält, som produkttypen Sparkcyklar, live-titlarna och b_50 (samma modell fick olika typord i b_49 och b_50); 'SOKE Evo' blir 'SOKE EVO' som i live-titlarna. SEO-titeln får samma mönster som systrarna (typ, märke, modell, komma före färg), högst 43 tecken."
+ },
+ {
+  "nr": 8977,
+  "id": "10462779998474",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Scooterhjul Union Credit V2 Pro, 100 mm, Lila/Svart",
+    "efter": "Sparkcykelhjul Union Credit V2 Pro, 100 mm, Lila/Svart"
+   },
+   "seo_title": {
+    "fore": "Scooterhjul Union Credit V2 Pro, Lila/Svart",
+    "efter": "Sparkcykelhjul Credit V2 Pro, Lila/Svart"
+   },
+   "meta": {
+    "fore": "Union Credit V2 Pro är ett scooterhjul med diameter 100 mm som väger 223 g. Hjulet finns i färgen svart/lila och priset gäller ett hjul.",
+    "efter": "Union Credit V2 Pro är ett sparkcykelhjul med diameter 100 mm som väger 223 g. Hjulet finns i färgen svart/lila och priset gäller ett hjul."
+   },
+   "html": [
+    {
+     "fore": "är ett scooterhjul med diameter",
+     "efter": "är ett sparkcykelhjul med diameter"
+    },
+    {
+     "fore": "söker ett scooterhjul med diameter",
+     "efter": "söker ett sparkcykelhjul med diameter"
+    }
+   ]
+  },
+  "skal": "Källan stämmer: 1 hjul per pris, diameter enligt titel och källa, Svart/lila, 223 g. Ingen kompatibilitet påstås (källan anger ingen). Färgen från källans färgfält. Typord: 'scooter' (engelskt; på svenska avses moped) ersätts med sparkcykel i alla fält, som produkttypen Sparkcyklar, live-titlarna och b_50 (samma modell fick olika typord i b_49 och b_50); 'SOKE Evo' blir 'SOKE EVO' som i live-titlarna. SEO-titeln får samma mönster som systrarna (typ, märke, modell, komma före färg), högst 43 tecken."
+ },
+ {
+  "nr": 8980,
+  "id": "10470954959114",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Scooterhjul Union Turbomatic V2 Pro, 110 mm, Svart",
+    "efter": "Sparkcykelhjul Union Turbomatic V2 Pro, 110 mm, Svart"
+   },
+   "seo_title": {
+    "fore": "Scooterhjul Union Turbomatic V2 Pro, Svart",
+    "efter": "Sparkcykelhjul Turbomatic V2 Pro, Svart"
+   },
+   "meta": {
+    "fore": "Union Turbomatic V2 Pro är ett scooterhjul med diameter 110 mm som väger 274 g. Hjulet finns i färgen svart och priset gäller ett hjul.",
+    "efter": "Union Turbomatic V2 Pro är ett sparkcykelhjul med diameter 110 mm som väger 274 g. Hjulet finns i färgen svart och priset gäller ett hjul."
+   },
+   "html": [
+    {
+     "fore": "är ett scooterhjul med diameter",
+     "efter": "är ett sparkcykelhjul med diameter"
+    },
+    {
+     "fore": "söker ett scooterhjul med diameter",
+     "efter": "söker ett sparkcykelhjul med diameter"
+    }
+   ]
+  },
+  "skal": "Källan stämmer: 1 hjul per pris, diameter enligt titel och källa, Svart, 274 g. Ingen kompatibilitet påstås (källan anger ingen). Färgen från källans färgfält. Typord: 'scooter' (engelskt; på svenska avses moped) ersätts med sparkcykel i alla fält, som produkttypen Sparkcyklar, live-titlarna och b_50 (samma modell fick olika typord i b_49 och b_50); 'SOKE Evo' blir 'SOKE EVO' som i live-titlarna. SEO-titeln får samma mönster som systrarna (typ, märke, modell, komma före färg), högst 43 tecken."
+ },
+ {
+  "nr": 8989,
+  "id": "10472278622474",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Scooterhjul Union Turbomatic V2 Pro, 110 mm, Svart/Silver",
+    "efter": "Sparkcykelhjul Union Turbomatic V2 Pro, 110 mm, Svart/Grå"
+   },
+   "seo_title": {
+    "fore": "Union Turbomatic V2 Pro, Svart/Silver",
+    "efter": "Sparkcykelhjul Turbomatic V2 Pro, Svart/Grå"
+   },
+   "meta": {
+    "fore": "Union Turbomatic V2 Pro är ett scooterhjul med diameter 110 mm som väger 274 g. Hjulet finns i färgen svart/grå och priset gäller ett hjul.",
+    "efter": "Union Turbomatic V2 Pro är ett sparkcykelhjul med diameter 110 mm som väger 274 g. Hjulet finns i färgen svart/grå och priset gäller ett hjul."
+   },
+   "html": [
+    {
+     "fore": "är ett scooterhjul med diameter",
+     "efter": "är ett sparkcykelhjul med diameter"
+    },
+    {
+     "fore": "söker ett scooterhjul med diameter",
+     "efter": "söker ett sparkcykelhjul med diameter"
+    }
+   ]
+  },
+  "skal": "Källan stämmer: 1 hjul per pris, diameter enligt titel och källa, svart/grå, 274 g. Ingen kompatibilitet påstås (källan anger ingen). Färgen från källans färgfält. Titeln sade 'Silver' medan källans färgfält och texten säger grå; titel och SEO får källans färg så att texten inte motsäger sig själv. Typord: 'scooter' (engelskt; på svenska avses moped) ersätts med sparkcykel i alla fält, som produkttypen Sparkcyklar, live-titlarna och b_50 (samma modell fick olika typord i b_49 och b_50); 'SOKE Evo' blir 'SOKE EVO' som i live-titlarna. SEO-titeln får samma mönster som systrarna (typ, märke, modell, komma före färg), högst 43 tecken."
+ },
+ {
+  "nr": 8999,
+  "id": "10472305885450",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Scooterhjul Union Turbomatic V2 Pro, 110 mm, Lila/Svart",
+    "efter": "Sparkcykelhjul Union Turbomatic V2 Pro, 110 mm, Lila/Svart"
+   },
+   "meta": {
+    "fore": "Union Turbomatic V2 Pro är ett scooterhjul med diameter 110 mm som väger 270 g. Hjulet finns i färgen svart/lila och priset gäller ett hjul.",
+    "efter": "Union Turbomatic V2 Pro är ett sparkcykelhjul med diameter 110 mm som väger 270 g. Hjulet finns i färgen svart/lila och priset gäller ett hjul."
+   },
+   "html": [
+    {
+     "fore": "är ett scooterhjul med diameter",
+     "efter": "är ett sparkcykelhjul med diameter"
+    },
+    {
+     "fore": "söker ett scooterhjul med diameter",
+     "efter": "söker ett sparkcykelhjul med diameter"
+    }
+   ]
+  },
+  "skal": "Källan stämmer: 1 hjul per pris, diameter enligt titel och källa, svart/lila, 0,270 kg. Ingen kompatibilitet påstås (källan anger ingen). Färgen från källans färgfält. Typord: 'scooter' (engelskt; på svenska avses moped) ersätts med sparkcykel i alla fält, som produkttypen Sparkcyklar, live-titlarna och b_50 (samma modell fick olika typord i b_49 och b_50); 'SOKE Evo' blir 'SOKE EVO' som i live-titlarna. SEO-titeln får samma mönster som systrarna (typ, märke, modell, komma före färg), högst 43 tecken."
+ },
+ {
+  "nr": 9003,
+  "id": "10472306049290",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Scooterhjul Union Turbomatic V2 Pro, 110 mm, Blå/Silver",
+    "efter": "Sparkcykelhjul Union Turbomatic V2 Pro, 110 mm, Blå/Grå"
+   },
+   "seo_title": {
+    "fore": "Union Turbomatic V2 Pro, Blå/Silver",
+    "efter": "Sparkcykelhjul Turbomatic V2 Pro, Blå/Grå"
+   },
+   "meta": {
+    "fore": "Union Turbomatic V2 Pro är ett scooterhjul med diameter 110 mm som väger 270 g. Hjulet finns i färgen blå/grå och priset gäller ett hjul.",
+    "efter": "Union Turbomatic V2 Pro är ett sparkcykelhjul med diameter 110 mm som väger 270 g. Hjulet finns i färgen blå/grå och priset gäller ett hjul."
+   },
+   "html": [
+    {
+     "fore": "är ett scooterhjul med diameter",
+     "efter": "är ett sparkcykelhjul med diameter"
+    },
+    {
+     "fore": "söker ett scooterhjul med diameter",
+     "efter": "söker ett sparkcykelhjul med diameter"
+    }
+   ]
+  },
+  "skal": "Källan stämmer: 1 hjul per pris, diameter enligt titel och källa, blå/grå, 0,270 kg. Ingen kompatibilitet påstås (källan anger ingen). Färgen från källans färgfält. Titeln sade 'Silver' medan källans färgfält och texten säger grå; titel och SEO får källans färg så att texten inte motsäger sig själv. Typord: 'scooter' (engelskt; på svenska avses moped) ersätts med sparkcykel i alla fält, som produkttypen Sparkcyklar, live-titlarna och b_50 (samma modell fick olika typord i b_49 och b_50); 'SOKE Evo' blir 'SOKE EVO' som i live-titlarna. SEO-titeln får samma mönster som systrarna (typ, märke, modell, komma före färg), högst 43 tecken."
+ },
+ {
+  "nr": 8981,
+  "id": "10470955516170",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Scooterhjul Union Spider Pro, 110 mm, Svart/Silver",
+    "efter": "Sparkcykelhjul Union Spider Pro, 110 mm, Svart/Grå"
+   },
+   "seo_title": {
+    "fore": "Scooterhjul Union Spider Pro, Svart/Silver",
+    "efter": "Sparkcykelhjul Union Spider Pro, Svart/Grå"
+   },
+   "meta": {
+    "fore": "Union Spider Pro är ett scooterhjul med diameter 110 mm som väger 227 g. Hjulet finns i färgen svart/grå och priset gäller ett hjul.",
+    "efter": "Union Spider Pro är ett sparkcykelhjul med diameter 110 mm som väger 227 g. Hjulet finns i färgen svart/grå och priset gäller ett hjul."
+   },
+   "html": [
+    {
+     "fore": "är ett scooterhjul med diameter",
+     "efter": "är ett sparkcykelhjul med diameter"
+    },
+    {
+     "fore": "söker ett scooterhjul med diameter",
+     "efter": "söker ett sparkcykelhjul med diameter"
+    }
+   ]
+  },
+  "skal": "Källan stämmer: 1 hjul per pris, diameter enligt titel och källa, svart/grå, 227 g. Ingen kompatibilitet påstås (källan anger ingen). Färgen från källans färgfält. Titeln sade 'Silver' medan källans färgfält och texten säger grå; titel och SEO får källans färg så att texten inte motsäger sig själv. Typord: 'scooter' (engelskt; på svenska avses moped) ersätts med sparkcykel i alla fält, som produkttypen Sparkcyklar, live-titlarna och b_50 (samma modell fick olika typord i b_49 och b_50); 'SOKE Evo' blir 'SOKE EVO' som i live-titlarna. SEO-titeln får samma mönster som systrarna (typ, märke, modell, komma före färg), högst 43 tecken."
+ },
+ {
+  "nr": 9001,
+  "id": "10472305983754",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Scooterhjul Union Spider Pro, 110 mm, Lila/Svart",
+    "efter": "Sparkcykelhjul Union Spider Pro, 110 mm, Lila/Svart"
+   },
+   "seo_title": {
+    "fore": "Scooterhjul Union Spider Pro, Lila/Svart",
+    "efter": "Sparkcykelhjul Union Spider Pro, Lila/Svart"
+   },
+   "meta": {
+    "fore": "Union Spider Pro är ett scooterhjul med diameter 110 mm som väger 220 g. Hjulet finns i färgen lila/svart och priset gäller ett hjul.",
+    "efter": "Union Spider Pro är ett sparkcykelhjul med diameter 110 mm som väger 220 g. Hjulet finns i färgen lila/svart och priset gäller ett hjul."
+   },
+   "html": [
+    {
+     "fore": "är ett scooterhjul med diameter",
+     "efter": "är ett sparkcykelhjul med diameter"
+    },
+    {
+     "fore": "söker ett scooterhjul med diameter",
+     "efter": "söker ett sparkcykelhjul med diameter"
+    }
+   ]
+  },
+  "skal": "Källan stämmer: 1 hjul per pris, diameter enligt titel och källa, lila/svart, 0,220 kg. Ingen kompatibilitet påstås (källan anger ingen). Färgen från källans färgfält. Typord: 'scooter' (engelskt; på svenska avses moped) ersätts med sparkcykel i alla fält, som produkttypen Sparkcyklar, live-titlarna och b_50 (samma modell fick olika typord i b_49 och b_50); 'SOKE Evo' blir 'SOKE EVO' som i live-titlarna. SEO-titeln får samma mönster som systrarna (typ, märke, modell, komma före färg), högst 43 tecken."
+ },
+ {
+  "nr": 9002,
+  "id": "10472306016522",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Scooterhjul Union Spider Pro, 110 mm, Lila/Silver",
+    "efter": "Sparkcykelhjul Union Spider Pro, 110 mm, Lila/Grå"
+   },
+   "seo_title": {
+    "fore": "Scooterhjul Union Spider Pro, Lila/Silver",
+    "efter": "Sparkcykelhjul Union Spider Pro, Lila/Grå"
+   },
+   "meta": {
+    "fore": "Union Spider Pro är ett scooterhjul med diameter 110 mm som väger 220 g. Hjulet finns i färgen lila/grå och priset gäller ett hjul.",
+    "efter": "Union Spider Pro är ett sparkcykelhjul med diameter 110 mm som väger 220 g. Hjulet finns i färgen lila/grå och priset gäller ett hjul."
+   },
+   "html": [
+    {
+     "fore": "är ett scooterhjul med diameter",
+     "efter": "är ett sparkcykelhjul med diameter"
+    },
+    {
+     "fore": "söker ett scooterhjul med diameter",
+     "efter": "söker ett sparkcykelhjul med diameter"
+    }
+   ]
+  },
+  "skal": "Källan stämmer: 1 hjul per pris, diameter enligt titel och källa, lila/grå, 0,220 kg. Ingen kompatibilitet påstås (källan anger ingen). Färgen från källans färgfält. Titeln sade 'Silver' medan källans färgfält och texten säger grå; titel och SEO får källans färg så att texten inte motsäger sig själv. Typord: 'scooter' (engelskt; på svenska avses moped) ersätts med sparkcykel i alla fält, som produkttypen Sparkcyklar, live-titlarna och b_50 (samma modell fick olika typord i b_49 och b_50); 'SOKE Evo' blir 'SOKE EVO' som i live-titlarna. SEO-titeln får samma mönster som systrarna (typ, märke, modell, komma före färg), högst 43 tecken."
+ },
+ {
+  "nr": 8998,
+  "id": "10472305819914",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Scooterhjul Union Dragon, 100 mm, Svart/Röd",
+    "efter": "Sparkcykelhjul Union Dragon, 100 mm, Svart/Röd"
+   },
+   "seo_title": {
+    "fore": "Scooterhjul Union Dragon, Svart/Röd",
+    "efter": "Sparkcykelhjul Union Dragon, Svart/Röd"
+   },
+   "meta": {
+    "fore": "Union Dragon är ett scooterhjul med diameter 100 mm som väger 223 g. Hjulet finns i färgen svart/röd och priset gäller ett hjul.",
+    "efter": "Union Dragon är ett sparkcykelhjul med diameter 100 mm som väger 223 g. Hjulet finns i färgen svart/röd och priset gäller ett hjul."
+   },
+   "html": [
+    {
+     "fore": "är ett scooterhjul med diameter",
+     "efter": "är ett sparkcykelhjul med diameter"
+    },
+    {
+     "fore": "söker ett scooterhjul med diameter",
+     "efter": "söker ett sparkcykelhjul med diameter"
+    }
+   ]
+  },
+  "skal": "Källan stämmer: 1 hjul per pris, diameter enligt titel och källa, svart/röd, 0,223 kg. Ingen kompatibilitet påstås (källan anger ingen). Färgen från källans färgfält. Typord: 'scooter' (engelskt; på svenska avses moped) ersätts med sparkcykel i alla fält, som produkttypen Sparkcyklar, live-titlarna och b_50 (samma modell fick olika typord i b_49 och b_50); 'SOKE Evo' blir 'SOKE EVO' som i live-titlarna. SEO-titeln får samma mönster som systrarna (typ, märke, modell, komma före färg), högst 43 tecken."
+ },
+ {
+  "nr": 8986,
+  "id": "10472278098186",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Scooterhjul Ethic Incube V2, 100 mm, Röd",
+    "efter": "Sparkcykelhjul Ethic Incube V2, 100 mm, Röd"
+   },
+   "seo_title": {
+    "fore": "Scooterhjul Ethic Incube V2, Röd",
+    "efter": "Sparkcykelhjul Ethic Incube V2, Röd"
+   },
+   "meta": {
+    "fore": "Ethic Incube V2 är ett scooterhjul med diameter 100 mm som väger 180 g. Hjulet finns i färgen röd och priset gäller ett hjul.",
+    "efter": "Ethic Incube V2 är ett sparkcykelhjul med diameter 100 mm som väger 180 g. Hjulet finns i färgen röd och priset gäller ett hjul."
+   },
+   "html": [
+    {
+     "fore": "är ett scooterhjul med diameter",
+     "efter": "är ett sparkcykelhjul med diameter"
+    },
+    {
+     "fore": "söker ett scooterhjul med diameter",
+     "efter": "söker ett sparkcykelhjul med diameter"
+    }
+   ]
+  },
+  "skal": "Källan stämmer: 1 hjul per pris, diameter enligt titel och källa, Röd, 0,18 kg. Ingen kompatibilitet påstås (källan anger ingen). Färgen från källans färgfält. Typord: 'scooter' (engelskt; på svenska avses moped) ersätts med sparkcykel i alla fält, som produkttypen Sparkcyklar, live-titlarna och b_50 (samma modell fick olika typord i b_49 och b_50); 'SOKE Evo' blir 'SOKE EVO' som i live-titlarna. SEO-titeln får samma mönster som systrarna (typ, märke, modell, komma före färg), högst 43 tecken."
+ },
+ {
+  "nr": 8984,
+  "id": "10472248574218",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Scooterhjul Fuzion Thiccboys, 110 x 30 mm, Svart",
+    "efter": "Sparkcykelhjul Fuzion Thiccboys, 110 x 30 mm, Svart"
+   },
+   "seo_title": {
+    "fore": "Scooterhjul Fuzion Thiccboys, Svart",
+    "efter": "Sparkcykelhjul Fuzion Thiccboys, Svart"
+   },
+   "meta": {
+    "fore": "Fuzion Thiccboys är ett scooterhjul på 110 x 30 mm med aluminiumkärna och lager av typen Abec-9. Hjulet väger 272 g och finns i färgen svart.",
+    "efter": "Fuzion Thiccboys är ett sparkcykelhjul på 110 x 30 mm i 6061 T6 aluminium med lager av typen Abec-9. Hjulet väger 272 g och finns i färgen svart."
+   },
+   "html": [
+    {
+     "fore": "ett scooterhjul med",
+     "efter": "ett sparkcykelhjul med"
+    },
+    {
+     "fore": "ett scooterhjul på",
+     "efter": "ett sparkcykelhjul på"
+    }
+   ]
+  },
+  "skal": "Källan: diameter 110 mm, bredd 30 mm, kärnbredd 30 mm, huvudmaterial 6061 T6 aluminium, Abec-9, vikt 272 g. Färgen bara i live-titeln: godtas. Rättning i metan: 'aluminiumkärna' står inte i källan (bara huvudmaterial). 'Bästa hantering/grepp' rätt utelämnat. Typord: 'scooter' (engelskt; på svenska avses moped) ersätts med sparkcykel i alla fält, som produkttypen Sparkcyklar, live-titlarna och b_50 (samma modell fick olika typord i b_49 och b_50); 'SOKE Evo' blir 'SOKE EVO' som i live-titlarna. SEO-titeln får samma mönster som systrarna (typ, märke, modell, komma före färg), högst 43 tecken."
+ },
+ {
+  "nr": 8985,
+  "id": "10472248639754",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Scooterhjul Fuzion Thiccboys, 110 x 30 mm, Navy/Silver",
+    "efter": "Sparkcykelhjul Fuzion Thiccboys, 110 x 30 mm, Navy/Silver"
+   },
+   "seo_title": {
+    "fore": "Scooterhjul Fuzion Thiccboys, Navy/Silver",
+    "efter": "Sparkcykelhjul Thiccboys, Navy/Silver"
+   },
+   "meta": {
+    "fore": "Fuzion Thiccboys är ett scooterhjul på 110 x 30 mm med aluminiumkärna och lager av typen Abec-9. Hjulet väger 274 g och finns i färgen navy/silver.",
+    "efter": "Fuzion Thiccboys är ett sparkcykelhjul på 110 x 30 mm i 6061 T6 aluminium med lager av typen Abec-9. Hjulet väger 274 g och finns i färgen navy/silver."
+   },
+   "html": [
+    {
+     "fore": "ett scooterhjul med",
+     "efter": "ett sparkcykelhjul med"
+    },
+    {
+     "fore": "ett scooterhjul på",
+     "efter": "ett sparkcykelhjul på"
+    }
+   ]
+  },
+  "skal": "Källan: diameter 110 mm, bredd 30 mm, kärnbredd 30 mm, huvudmaterial 6061 T6 aluminium, Abec-9, vikt 274 g. Färgen bara i live-titeln: godtas. Rättning i metan: 'aluminiumkärna' står inte i källan (bara huvudmaterial). 'Bästa hantering/grepp' rätt utelämnat. Typord: 'scooter' (engelskt; på svenska avses moped) ersätts med sparkcykel i alla fält, som produkttypen Sparkcyklar, live-titlarna och b_50 (samma modell fick olika typord i b_49 och b_50); 'SOKE Evo' blir 'SOKE EVO' som i live-titlarna. SEO-titeln får samma mönster som systrarna (typ, märke, modell, komma före färg), högst 43 tecken."
+ },
+ {
+  "nr": 8982,
+  "id": "10471122436362",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Scooterhjul Versatyl, 110 mm",
+    "efter": "Sparkcykelhjul Versatyl, 110 mm"
+   },
+   "seo_title": {
+    "fore": "Scooterhjul Versatyl, 110 mm",
+    "efter": "Sparkcykelhjul Versatyl, 110 mm"
+   },
+   "meta": {
+    "fore": "Versatyl är ett scooterhjul med diameter 110 mm. Hjulet finns i två varianter, blå och svart, och priset gäller ett hjul.",
+    "efter": "Versatyl är ett sparkcykelhjul med diameter 110 mm. Hjulet finns i två varianter, blå och svart, och priset gäller ett hjul."
+   },
+   "html": [
+    {
+     "fore": "är ett scooterhjul med diameter",
+     "efter": "är ett sparkcykelhjul med diameter"
+    },
+    {
+     "fore": "söker ett scooterhjul med diameter",
+     "efter": "söker ett sparkcykelhjul med diameter"
+    }
+   ]
+  },
+  "skal": "Två varianter (blue, black) med samma pris; titeln låser ingen färg och vikten 218 g (bara för blå) är rätt utelämnad. Diameter 110 mm och 1 hjul stämmer. Typord: 'scooter' (engelskt; på svenska avses moped) ersätts med sparkcykel i alla fält, som produkttypen Sparkcyklar, live-titlarna och b_50 (samma modell fick olika typord i b_49 och b_50); 'SOKE Evo' blir 'SOKE EVO' som i live-titlarna."
+ },
+ {
+  "nr": 9004,
+  "id": "10472306082058",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Sparkcykelhjul Union Spider Pro 110 mm, Blå/Svart",
+    "efter": "Sparkcykelhjul Union Spider Pro, 110 mm, Blå/Svart"
+   },
+   "seo_title": {
+    "fore": "Sparkcykelhjul Spider Pro 110 mm Blå/Svart",
+    "efter": "Sparkcykelhjul Union Spider Pro, Blå/Svart"
+   },
+   "html": [
+    {
+     "fore": "mm i färgen blått",
+     "efter": "mm i blått"
+    },
+    {
+     "fore": "hjul i färgen blått",
+     "efter": "hjul i blått"
+    },
+    {
+     "fore": "<h2>Vanliga frågor</h2><h3>Går bandet att tvätta?</h3><p>Ja, bandet tål maskintvätt i 30 grader. Använd inte torktumlare eller torkskåp.</p>",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Källan stämmer: 1 hjul per pris, diameter, blå/svart, 0,220 kg. Ingen kompatibilitet påstås. Språk: 'i färgen blått/grått' ändras till 'i blått/grått'. Felkopierad FAQ ('Går bandet att tvätta?' om maskintvätt) från en annan produkt tas bort (ingen FAQ utan stöd i egen källa). Titeln får samma mönster som b_49-hjulen (modell, mått, färg) och SEO-titeln får märke/komma enligt samma mönster (tidigare t.ex. 'Hjul Credit V2 Pro 100 mm ...', 'Sparkcykelhjul 100 mm Incube V2 Svart')."
+ },
+ {
+  "nr": 9015,
+  "id": "10515743211786",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Sparkcykelhjul Union Yolo 100 mm, Svart/Neochrome",
+    "efter": "Sparkcykelhjul Union Yolo, 100 mm, Svart/Neochrome"
+   },
+   "seo_title": {
+    "fore": "Sparkcykelhjul Yolo 100 mm Svart/Neochrome",
+    "efter": "Sparkcykelhjul Union Yolo, Svart/Neochrome"
+   },
+   "html": [
+    {
+     "fore": "<h2>Vanliga frågor</h2><h3>Går bandet att tvätta?</h3><p>Ja, bandet tål maskintvätt i 30 grader. Använd inte torktumlare eller torkskåp.</p>",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Källan stämmer: 1 hjul per pris, diameter, Svart/neochrome, 201 g. Ingen kompatibilitet påstås. Felkopierad FAQ ('Går bandet att tvätta?' om maskintvätt) från en annan produkt tas bort (ingen FAQ utan stöd i egen källa). Titeln får samma mönster som b_49-hjulen (modell, mått, färg) och SEO-titeln får märke/komma enligt samma mönster (tidigare t.ex. 'Hjul Credit V2 Pro 100 mm ...', 'Sparkcykelhjul 100 mm Incube V2 Svart')."
+ },
+ {
+  "nr": 9016,
+  "id": "10515743244554",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Sparkcykelhjul Union Credit V2 Pro 100 mm, Neochrome/Svart",
+    "efter": "Sparkcykelhjul Union Credit V2 Pro, 100 mm, Neochrome/Svart"
+   },
+   "seo_title": {
+    "fore": "Hjul Credit V2 Pro 100 mm Neochrome/Svart",
+    "efter": "Union Credit V2 Pro, Neochrome/Svart"
+   },
+   "html": [
+    {
+     "fore": "<h2>Vanliga frågor</h2><h3>Går bandet att tvätta?</h3><p>Ja, bandet tål maskintvätt i 30 grader. Använd inte torktumlare eller torkskåp.</p>",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Källan stämmer: 1 hjul per pris, diameter, Svart/neochrome, 223 g. Ingen kompatibilitet påstås. Felkopierad FAQ ('Går bandet att tvätta?' om maskintvätt) från en annan produkt tas bort (ingen FAQ utan stöd i egen källa). Titeln får samma mönster som b_49-hjulen (modell, mått, färg) och SEO-titeln får märke/komma enligt samma mönster (tidigare t.ex. 'Hjul Credit V2 Pro 100 mm ...', 'Sparkcykelhjul 100 mm Incube V2 Svart')."
+ },
+ {
+  "nr": 9021,
+  "id": "10515749339402",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Sparkcykelhjul Union Credit V2 Pro 100 mm, Svart/Grå",
+    "efter": "Sparkcykelhjul Union Credit V2 Pro, 100 mm, Svart/Grå"
+   },
+   "seo_title": {
+    "fore": "Hjul Credit V2 Pro 100 mm Svart/Grå",
+    "efter": "Sparkcykelhjul Credit V2 Pro, Svart/Grå"
+   },
+   "html": [
+    {
+     "fore": "mm i färgen svart",
+     "efter": "mm i svart"
+    },
+    {
+     "fore": "hjul i färgen svart",
+     "efter": "hjul i svart"
+    },
+    {
+     "fore": "<h2>Vanliga frågor</h2><h3>Går bandet att tvätta?</h3><p>Ja, bandet tål maskintvätt i 30 grader. Använd inte torktumlare eller torkskåp.</p>",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Källan stämmer: 1 hjul per pris, diameter, svart/grå, 0.223 kg. Ingen kompatibilitet påstås. Live-titeln säger Raw/Black, källans färgfält svart/grå; texten följer färgfältet (godtas). Språk: 'i färgen blått/grått' ändras till 'i blått/grått'. Felkopierad FAQ ('Går bandet att tvätta?' om maskintvätt) från en annan produkt tas bort (ingen FAQ utan stöd i egen källa). Titeln får samma mönster som b_49-hjulen (modell, mått, färg) och SEO-titeln får märke/komma enligt samma mönster (tidigare t.ex. 'Hjul Credit V2 Pro 100 mm ...', 'Sparkcykelhjul 100 mm Incube V2 Svart')."
+ },
+ {
+  "nr": 9027,
+  "id": "10515754549514",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Sparkcykelhjul Union Yolo Pro 100 mm, Rosa",
+    "efter": "Sparkcykelhjul Union Yolo Pro, 100 mm, Rosa"
+   },
+   "seo_title": {
+    "fore": "Sparkcykelhjul Yolo Pro 100 mm Rosa",
+    "efter": "Sparkcykelhjul Union Yolo Pro, Rosa"
+   },
+   "html": [
+    {
+     "fore": "<h2>Vanliga frågor</h2><h3>Går bandet att tvätta?</h3><p>Ja, bandet tål maskintvätt i 30 grader. Använd inte torktumlare eller torkskåp.</p>",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Källan stämmer: 1 hjul per pris, diameter, Rosa, 193 g. Ingen kompatibilitet påstås. Felkopierad FAQ ('Går bandet att tvätta?' om maskintvätt) från en annan produkt tas bort (ingen FAQ utan stöd i egen källa). Titeln får samma mönster som b_49-hjulen (modell, mått, färg) och SEO-titeln får märke/komma enligt samma mönster (tidigare t.ex. 'Hjul Credit V2 Pro 100 mm ...', 'Sparkcykelhjul 100 mm Incube V2 Svart')."
+ },
+ {
+  "nr": 9029,
+  "id": "10515754647818",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Sparkcykelhjul Union Classic V2 Pro 110 mm, Krom/Blå",
+    "efter": "Sparkcykelhjul Union Classic V2 Pro, 110 mm, Krom/Blå"
+   },
+   "seo_title": {
+    "fore": "Hjul Classic V2 Pro 110 mm Krom/Blå",
+    "efter": "Sparkcykelhjul Classic V2 Pro, Krom/Blå"
+   },
+   "html": [
+    {
+     "fore": "mm i färgen krom",
+     "efter": "mm i krom"
+    },
+    {
+     "fore": "hjul i färgen krom",
+     "efter": "hjul i krom"
+    },
+    {
+     "fore": "<h2>Vanliga frågor</h2><h3>Går bandet att tvätta?</h3><p>Ja, bandet tål maskintvätt i 30 grader. Använd inte torktumlare eller torkskåp.</p>",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Källan stämmer: 1 hjul per pris, diameter, Krom/blå, 236 g. Ingen kompatibilitet påstås. Live-titeln säger bara Blå, färgfältet Krom/blå; godtas. Språk: 'i färgen blått/grått' ändras till 'i blått/grått'. Felkopierad FAQ ('Går bandet att tvätta?' om maskintvätt) från en annan produkt tas bort (ingen FAQ utan stöd i egen källa). Titeln får samma mönster som b_49-hjulen (modell, mått, färg) och SEO-titeln får märke/komma enligt samma mönster (tidigare t.ex. 'Hjul Credit V2 Pro 100 mm ...', 'Sparkcykelhjul 100 mm Incube V2 Svart')."
+ },
+ {
+  "nr": 9030,
+  "id": "10526097572106",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Sparkcykelhjul Union Honeycomb Pro 110 mm, Rosa",
+    "efter": "Sparkcykelhjul Union Honeycomb Pro, 110 mm, Rosa"
+   },
+   "seo_title": {
+    "fore": "Sparkcykelhjul Honeycomb Pro 110 mm Rosa",
+    "efter": "Sparkcykelhjul Union Honeycomb Pro, Rosa"
+   },
+   "html": [
+    {
+     "fore": "<h2>Vanliga frågor</h2><h3>Går bandet att tvätta?</h3><p>Ja, bandet tål maskintvätt i 30 grader. Använd inte torktumlare eller torkskåp.</p>",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Källan stämmer: 1 hjul per pris, diameter, Rosa, 224 g. Ingen kompatibilitet påstås. Felkopierad FAQ ('Går bandet att tvätta?' om maskintvätt) från en annan produkt tas bort (ingen FAQ utan stöd i egen källa). Titeln får samma mönster som b_49-hjulen (modell, mått, färg) och SEO-titeln får märke/komma enligt samma mönster (tidigare t.ex. 'Hjul Credit V2 Pro 100 mm ...', 'Sparkcykelhjul 100 mm Incube V2 Svart')."
+ },
+ {
+  "nr": 9035,
+  "id": "10605385187594",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Sparkcykelhjul 100 mm Incube V2 Svart",
+    "efter": "Sparkcykelhjul Ethic Incube V2, Svart"
+   },
+   "html": [
+    {
+     "fore": "<h2>Vanliga frågor</h2><h3>Går bandet att tvätta?</h3><p>Ja, bandet tål maskintvätt i 30 grader. Använd inte torktumlare eller torkskåp.</p>",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Källan stämmer: 1 hjul per pris, diameter, Svart, 181 g. Ingen kompatibilitet påstås. Felkopierad FAQ ('Går bandet att tvätta?' om maskintvätt) från en annan produkt tas bort (ingen FAQ utan stöd i egen källa). Titeln får samma mönster som b_49-hjulen (modell, mått, färg) och SEO-titeln får märke/komma enligt samma mönster (tidigare t.ex. 'Hjul Credit V2 Pro 100 mm ...', 'Sparkcykelhjul 100 mm Incube V2 Svart')."
+ },
+ {
+  "nr": 9012,
+  "id": "10472348745994",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Union Be Union är ett grepptejp till sparkcykel som är 580 mm långt och 150 mm brett. Enligt tillverkaren väger det 33 gram.",
+    "efter": "Union Be Union är en grepptejp till sparkcykel som är 580 mm lång och 150 mm bred. Enligt tillverkaren väger den 33 gram."
+   },
+   "html": [
+    {
+     "fore": "är ett grepptejp",
+     "efter": "är en grepptejp"
+    },
+    {
+     "fore": "Det är 580 mm långt och 150 mm brett",
+     "efter": "Den är 580 mm lång och 150 mm bred"
+    },
+    {
+     "fore": "söker ett grepptejp",
+     "efter": "söker en grepptejp"
+    },
+    {
+     "fore": "<h2>Vanliga frågor</h2><h3>Går bandet att tvätta?</h3><p>Ja, bandet tål maskintvätt i 30 grader. Använd inte torktumlare eller torkskåp.</p>",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Källan: 580 x 150 mm, 'väger bara 33 gram' (återges 'enligt tillverkaren'). Grepp- och trickpåståenden rätt utelämnade, ingen kompatibilitet påstås. Rättning: genus (en grepptejp, den, lång/bred). Felkopierad FAQ ('Går bandet att tvätta?' om maskintvätt) från en annan produkt tas bort (ingen FAQ utan stöd i egen källa)."
+ },
+ {
+  "nr": 9013,
+  "id": "10515741278474",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Tricksparkcykel SOKE EVO Svart/Röd",
+    "efter": "Tricksparkcykel SOKE EVO, Svart/Röd"
+   },
+   "meta": {
+    "fore": "SOKE EVO är en tricksparkcykel i svart/röd med 100 mm hjul, aluminiumklämma och Flex fender-bromssystem. Cykeln väger 3,45 kg.",
+    "efter": "SOKE EVO är en tricksparkcykel i svart/röd med 100 mm hjul, aluminiumklämma och Flex fender-bromssystem. Handtagen är i TPR och 145 mm breda."
+   },
+   "html": [
+    {
+     "fore": "Den väger 3,45 kg",
+     "efter": "Handtagen är i TPR"
+    },
+    {
+     "fore": "aluminiumklämma/låsfäste</li>\n<li>Styre: 50 cm brett</li>\n<li>Vikt: 3,45 kg",
+     "efter": "aluminiumklämma/låsfäste"
+    },
+    {
+     "fore": "<h2>Vanliga frågor</h2><h3>Går bandet att tvätta?</h3><p>Ja, bandet tål maskintvätt i 30 grader. Använd inte torktumlare eller torkskåp.</p>",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Extra skärpa 3 (maskinöversatt SOKE EVO-källa): vikten 3,45 kg stod i inledning, meta och specifikation och tas bort (motsägs av raden 3,5 kg/EN14619); EN14619 rätt utelämnad. 'Styre: 50 cm brett' bygger på den maskinöversatta raden '50 cm bred 360° roterande styre' (systrarna i b_49 säger 'lins') och tas bort. Maxvikt 100 kg står en gång. Felkopierad FAQ ('Går bandet att tvätta?' om maskintvätt) från en annan produkt tas bort (ingen FAQ utan stöd i egen källa). SEO-titeln får komma före färg som titeln."
+ },
+ {
+  "nr": 9014,
+  "id": "10515741344010",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Tricksparkcykel SOKE EVO Svart/Grön",
+    "efter": "Tricksparkcykel SOKE EVO, Svart/Grön"
+   },
+   "meta": {
+    "fore": "SOKE EVO är en tricksparkcykel i svart/grön med 100 mm hjul, aluminiumklämma och Flex fender-bromssystem. Cykeln väger 3,45 kg.",
+    "efter": "SOKE EVO är en tricksparkcykel i svart/grön med 100 mm hjul, aluminiumklämma och Flex fender-bromssystem. Handtagen är i TPR och 145 mm breda."
+   },
+   "html": [
+    {
+     "fore": "Den väger 3,45 kg",
+     "efter": "Handtagen är i TPR"
+    },
+    {
+     "fore": "aluminiumklämma/låsfäste</li>\n<li>Styre: 50 cm brett</li>\n<li>Vikt: 3,45 kg",
+     "efter": "aluminiumklämma/låsfäste"
+    },
+    {
+     "fore": "<h2>Vanliga frågor</h2><h3>Går bandet att tvätta?</h3><p>Ja, bandet tål maskintvätt i 30 grader. Använd inte torktumlare eller torkskåp.</p>",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Extra skärpa 3 (maskinöversatt SOKE EVO-källa): vikten 3,45 kg stod i inledning, meta och specifikation och tas bort (motsägs av raden 3,5 kg/EN14619); EN14619 rätt utelämnad. 'Styre: 50 cm brett' bygger på den maskinöversatta raden '50 cm bred 360° roterande styre' (systrarna i b_49 säger 'lins') och tas bort. Maxvikt 100 kg står en gång. Felkopierad FAQ ('Går bandet att tvätta?' om maskintvätt) från en annan produkt tas bort (ingen FAQ utan stöd i egen källa). SEO-titeln får komma före färg som titeln."
+ },
+ {
+  "nr": 9018,
+  "id": "10515744456970",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Tricksparkcykel SOKE EVO Svart/Blå",
+    "efter": "Tricksparkcykel SOKE EVO, Svart/Blå"
+   },
+   "meta": {
+    "fore": "SOKE EVO är en tricksparkcykel i svart/blå med 100 mm hjul, aluminiumklämma och Flex fender-bromssystem. Cykeln väger 3,45 kg.",
+    "efter": "SOKE EVO är en tricksparkcykel i svart/blå med 100 mm hjul, aluminiumklämma och Flex fender-bromssystem. Handtagen är i TPR och 145 mm breda."
+   },
+   "html": [
+    {
+     "fore": "Den väger 3,45 kg",
+     "efter": "Handtagen är i TPR"
+    },
+    {
+     "fore": "aluminiumklämma/låsfäste</li>\n<li>Styre: 50 cm brett</li>\n<li>Vikt: 3,45 kg",
+     "efter": "aluminiumklämma/låsfäste"
+    },
+    {
+     "fore": "<h2>Vanliga frågor</h2><h3>Går bandet att tvätta?</h3><p>Ja, bandet tål maskintvätt i 30 grader. Använd inte torktumlare eller torkskåp.</p>",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Extra skärpa 3 (maskinöversatt SOKE EVO-källa): vikten 3,45 kg stod i inledning, meta och specifikation och tas bort (motsägs av raden 3,5 kg/EN14619); EN14619 rätt utelämnad. 'Styre: 50 cm brett' bygger på den maskinöversatta raden '50 cm bred 360° roterande styre' (systrarna i b_49 säger 'lins') och tas bort. Maxvikt 100 kg står en gång. Felkopierad FAQ ('Går bandet att tvätta?' om maskintvätt) från en annan produkt tas bort (ingen FAQ utan stöd i egen källa). SEO-titeln får komma före färg som titeln."
+ },
+ {
+  "nr": 9019,
+  "id": "10515744522506",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Tricksparkcykel SOKE EVO Neochromic",
+    "efter": "Tricksparkcykel SOKE EVO, Neochromic"
+   },
+   "meta": {
+    "fore": "SOKE EVO är en tricksparkcykel i neochromic med 100 mm hjul, aluminiumklämma och Flex fender-bromssystem. Cykeln väger 3,45 kg.",
+    "efter": "SOKE EVO är en tricksparkcykel i neochromic med 100 mm hjul, aluminiumklämma och Flex fender-bromssystem. Handtagen är i TPR och 145 mm breda."
+   },
+   "html": [
+    {
+     "fore": "Den väger 3,45 kg",
+     "efter": "Handtagen är i TPR"
+    },
+    {
+     "fore": "aluminiumklämma/låsfäste</li>\n<li>Styre: 50 cm brett</li>\n<li>Vikt: 3,45 kg",
+     "efter": "aluminiumklämma/låsfäste"
+    },
+    {
+     "fore": "<h2>Vanliga frågor</h2><h3>Går bandet att tvätta?</h3><p>Ja, bandet tål maskintvätt i 30 grader. Använd inte torktumlare eller torkskåp.</p>",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Extra skärpa 3 (maskinöversatt SOKE EVO-källa): vikten 3,45 kg stod i inledning, meta och specifikation och tas bort (motsägs av raden 3,5 kg/EN14619); EN14619 rätt utelämnad. 'Styre: 50 cm brett' bygger på den maskinöversatta raden '50 cm bred 360° roterande styre' (systrarna i b_49 säger 'lins') och tas bort. Maxvikt 100 kg står en gång. Felkopierad FAQ ('Går bandet att tvätta?' om maskintvätt) från en annan produkt tas bort (ingen FAQ utan stöd i egen källa). SEO-titeln får komma före färg som titeln."
+ },
+ {
+  "nr": 9020,
+  "id": "10515745571082",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Stuntsparkcykel SOKE PRO Svart/Gul/Neon",
+    "efter": "Stuntsparkcykel SOKE PRO, Svart/Gul/Neon"
+   },
+   "html": [
+    {
+     "fore": "Planklängd:",
+     "efter": "Brädans längd:"
+    },
+    {
+     "fore": "<h2>Vanliga frågor</h2><h3>Går bandet att tvätta?</h3><p>Ja, bandet tål maskintvätt i 30 grader. Använd inte torktumlare eller torkskåp.</p>",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Källan: maximal belastningskapacitet 100 kg (en gång), 110 mm, 3,8 kg, styrhöjd 85 cm, 50 x 11 cm, aluminium. 'Planklängd' (maskinöversatt) ändras till 'Brädans längd'. Proffspåståenden rätt utelämnade. Felkopierad FAQ ('Går bandet att tvätta?' om maskintvätt) från en annan produkt tas bort (ingen FAQ utan stöd i egen källa). SEO-titeln får komma före färg."
+ },
+ {
+  "nr": 9025,
+  "id": "10515754385674",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Två varianter med olika pris (Default Title 3 369 kr och '1525-801113' 2 319 kr) och oförklarat variantnamn; texten låser färg Lila/Röd och vikt 3,4 kg (systern 9020 anger 3,8 kg) utan att det går att avgöra vilken variant källan beskriver (standard avsnitt 10, varianter). Lyft till David. Taggen På beställning finns och meningen om längre leveranstid står rätt."
+ },
+ {
+  "nr": 9022,
+  "id": "10515751108874",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Tricksparkcykel SOKE XTR Rainbow",
+    "efter": "Tricksparkcykel SOKE XTR, Rainbow"
+   },
+   "html": [
+    {
+     "fore": "stuntsparkcykel",
+     "efter": "tricksparkcykel"
+    },
+    {
+     "fore": "<h2>Vanliga frågor</h2><h3>Går bandet att tvätta?</h3><p>Ja, bandet tål maskintvätt i 30 grader. Använd inte torktumlare eller torkskåp.</p>",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Källan: lastkapacitet 100 kg, 110 mm, 4,1 kg, styrhöjd 87 cm, bräda 50 x 11 cm, aluminium. Titeln Tricksparkcykel (som live-titeln) men Passar för sade stuntsparkcykel; rättas. Felkopierad FAQ ('Går bandet att tvätta?' om maskintvätt) från en annan produkt tas bort (ingen FAQ utan stöd i egen källa). SEO-titeln får komma före färg."
+ },
+ {
+  "nr": 9032,
+  "id": "10572697239818",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Stuntsparkcykel SOKE XTR Silver/Svart",
+    "efter": "Stuntsparkcykel SOKE XTR, Silver/Svart"
+   },
+   "html": [
+    {
+     "fore": "<h2>Vanliga frågor</h2><h3>Går bandet att tvätta?</h3><p>Ja, bandet tål maskintvätt i 30 grader. Använd inte torktumlare eller torkskåp.</p>",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Källan: maximal viktkapacitet 100 kg (en gång), 110 mm, ca 4,1 kg, styrhöjd 87 cm, aluminium; 'Däcklängd/Däckbredd' rätt utelämnade. Felkopierad FAQ ('Går bandet att tvätta?' om maskintvätt) från en annan produkt tas bort (ingen FAQ utan stöd i egen källa). SEO-titeln får komma före färg."
+ },
+ {
+  "nr": 9033,
+  "id": "10572697338122",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Stuntsparkcykel SOKE XTR Svart/Turkos",
+    "efter": "Stuntsparkcykel SOKE XTR, Svart/Turkos"
+   },
+   "html": [
+    {
+     "fore": "<h2>Vanliga frågor</h2><h3>Går bandet att tvätta?</h3><p>Ja, bandet tål maskintvätt i 30 grader. Använd inte torktumlare eller torkskåp.</p>",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Källan: maximal viktkapacitet 100 kg (en gång), 110 mm, ca 4,1 kg, styrhöjd 87 cm, aluminium; 'Däcklängd/Däckbredd' rätt utelämnade. Felkopierad FAQ ('Går bandet att tvätta?' om maskintvätt) från en annan produkt tas bort (ingen FAQ utan stöd i egen källa). SEO-titeln får komma före färg."
+ },
+ {
+  "nr": 9023,
+  "id": "10515754320138",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "aluminiumstyre och aluminiumplattform. Den har ståplattform",
+     "efter": "ståplattform"
+    },
+    {
+     "fore": "aluminium och vikten",
+     "efter": "aluminium. Den väger"
+    },
+    {
+     "fore": "620 mm högt och 560 mm brett",
+     "efter": "styrlängd 620 mm, bredd 560 mm"
+    },
+    {
+     "fore": "<h2>Vanliga frågor</h2><h3>Går bandet att tvätta?</h3><p>Ja, bandet tål maskintvätt i 30 grader. Använd inte torktumlare eller torkskåp.</p>",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Barnkontroll: 'Lämplig för åkare mellan 160 och 170 cm', storlek M, 100 kg – inte barnstorlek. Plattform 500 x 120 mm, IHC, 110 mm, 3,14 kg, svart/neochrome stämmer. Rättningar: upprepning i inledningen; 'Styr längd 620 mm' återges som styrlängd, inte som höjd. Felkopierad FAQ ('Går bandet att tvätta?' om maskintvätt) från en annan produkt tas bort (ingen FAQ utan stöd i egen källa)."
+ },
+ {
+  "nr": 9031,
+  "id": "10572665946378",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Stuntsparkcykel Union DOT L, Svart/Rå",
+    "efter": "Stuntsparkcykel Union DOT L, Svart/Grå"
+   },
+   "html": [
+    {
+     "fore": "<h2>Vanliga frågor</h2><h3>Går bandet att tvätta?</h3><p>Ja, bandet tål maskintvätt i 30 grader. Använd inte torktumlare eller torkskåp.</p>",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Barnkontroll: 'Lämplig för förare 150+ cm', storlek L, 'professionell' – inte barnstorlek. 490 x 130 mm, 650/580 mm, IHC, ABEC-9, 110 mm, 2,85 kg, lastkapacitet 100 kg stämmer; 'världens lättaste' rätt utelämnat. Rättning: titeln sade Rå medan texten säger grå (källans färgfält); titeln följer texten som i 9021. Felkopierad FAQ ('Går bandet att tvätta?' om maskintvätt) från en annan produkt tas bort (ingen FAQ utan stöd i egen källa)."
+ }
+]

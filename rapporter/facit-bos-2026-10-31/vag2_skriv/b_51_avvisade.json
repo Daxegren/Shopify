@@ -1,0 +1,8 @@
+[
+ {"id":"10462134763786","nr":9038,"skäl":"Motsägande källa: namnet Juno Dynamo (dynamo) men texten anger '6 V batteridriven med 6 V batteri' och kompatibilitet med e-cykelbatteri; strömkällan går inte att skriva säkert. Samma problem som 9046."},
+ {"id":"10472235565322","nr":9046,"skäl":"Motsägande källa (dynamo kontra 6 V batteri/e-cykelbatteri), se 9038; gå inte att skriva säkert."},
+ {"id":"10472297791754","nr":9052,"skäl":"Tunn källa: texten innehåller bara synlighets- och säkerhetsformuleringar ('gröna prickar bidrar till ökad synlighet, förbättrar din säkerhet') och inga mått, lumen, batteri eller annan fakta."},
+ {"id":"10475431657738","nr":9055,"skäl":"Redan skriven: live-beskrivningen har Passar för, specifikationer och standardblock, och id:t finns i skriv_batch1_a_batch1_b_batch2_a_batch2_b.json. Taggen texter-klara saknas på produkten (kontrollera)."},
+ {"id":"10475980882186","nr":9061,"skäl":"Reflexprodukt: reflekterande benfästeklämma (synlighetsfunktion), avvisas enligt Davids beslut; källan är dessutom en enda mening."},
+ {"id":"10676623966474","nr":9073,"skäl":"Dubblett av 9072 (Cykellampa Bookman Volume 800, svart; samma titel, SKU 547 och text). 9072 skrivs."}
+]
