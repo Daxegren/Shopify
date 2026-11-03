@@ -1,0 +1,67 @@
+VARNING  10411859476746  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10462765711626  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10462779769098  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10462779965706  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10462779998474  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10470928711946  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10470954959114  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10470955516170  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10471122436362  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10472248574218  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10472248639754  struktur                 saknar avsnittet 'passar dig som'
+FEL      10472278098186  tal_utan_kalla           titel: 2
+FEL      10472278098186  tal_utan_kalla           seo_title: 2
+FEL      10472278098186  tal_utan_kalla           meta: 2
+FEL      10472278098186  tal_utan_kalla           meta: 180
+FEL      10472278098186  tal_utan_kalla           beskrivning: 2
+FEL      10472278098186  tal_utan_kalla           beskrivning: 180
+VARNING  10472278098186  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10472278196490  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10472278262026  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10472278622474  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10472284946698  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10472287011082  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10472290779402  engelska_ord             titel: 'Blue'
+VARNING  10472290779402  engelska_ord             seo_title: 'Blue'
+VARNING  10472290779402  engelska_ord             meta: 'Blue'
+VARNING  10472290779402  engelska_ord             beskrivning: 'Blue'
+VARNING  10472290779402  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10472290812170  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10472292352266  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10472294416650  struktur                 saknar avsnittet 'passar dig som'
+FEL      10472305819914  tal_utan_kalla           meta: 223
+FEL      10472305819914  tal_utan_kalla           beskrivning: 223
+VARNING  10472305819914  struktur                 saknar avsnittet 'passar dig som'
+FEL      10472305885450  tal_utan_kalla           meta: 270
+FEL      10472305885450  tal_utan_kalla           beskrivning: 270
+VARNING  10472305885450  struktur                 saknar avsnittet 'passar dig som'
+FEL      10472305983754  tal_utan_kalla           meta: 220
+FEL      10472305983754  tal_utan_kalla           beskrivning: 220
+VARNING  10472305983754  struktur                 saknar avsnittet 'passar dig som'
+FEL      10472306016522  tal_utan_kalla           meta: 220
+FEL      10472306016522  tal_utan_kalla           beskrivning: 220
+VARNING  10472306016522  struktur                 saknar avsnittet 'passar dig som'
+FEL      10472306049290  tal_utan_kalla           meta: 270
+FEL      10472306049290  tal_utan_kalla           beskrivning: 270
+VARNING  10472306049290  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10472306082058  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10472348745994  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10515741278474  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10515741344010  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10515743211786  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10515743244554  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10515744456970  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10515744522506  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10515745571082  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10515749339402  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10515751108874  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10515754320138  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10515754549514  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10515754647818  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10526097572106  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10572665946378  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10572697239818  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10572697338122  struktur                 saknar avsnittet 'passar dig som'
+VARNING  10605385187594  struktur                 saknar avsnittet 'passar dig som'
+
+45 produkter, 16 FEL, 49 VARNINGAR
