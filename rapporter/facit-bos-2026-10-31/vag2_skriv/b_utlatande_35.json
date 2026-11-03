@@ -1,0 +1,284 @@
+[
+ {
+  "nr": 8601,
+  "id": "10411855446282",
+  "fil": "b_35_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Monteringsplatta för pakethållare, MIK-adapter, bredd 100–170 mm, tjocklek 8–16 mm, konventionella ramar och elcykelramar och Basil korgar/väskor stämmer; 'en sekund', 'idealisk' och märkestext rätt utelämnade."
+ },
+ {
+  "nr": 8602,
+  "id": "10472233763082",
+  "fil": "b_35_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stöd för bakre pakethållare, fästpunkt 50–80 mm och 1 x 15 x 25 cm stämmer; funktionen om ekrarna står som 'enligt tillverkaren'."
+ },
+ {
+  "nr": 8603,
+  "id": "10472233795850",
+  "fil": "b_35_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "Basil Portland rem är en avtagbar rem som passar",
+     "efter": "Det här är en avtagbar rem som passar"
+    }
+   ]
+  },
+  "skal": "Rem, avtagbar, svart, passar Portland pakethållare/korg stämmer mot den danska källan. Cirkulär första mening ('rem är en rem') skrivs om. Kort meta (103) godtas enligt avsnitt 14 (tunn källa)."
+ },
+ {
+  "nr": 8604,
+  "id": "10472262828298",
+  "fil": "b_35_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typordet: källtextens 'stötfångarram' motsägs av originaltiteln 'Bagagehållare' och SKU PAKIRAAM (estniska för pakethållare), så 'stötfångarram' är en felöversättning och bagagehållare är rätt. Inga påhittade uppgifter. Beställningsmeningen finns och taggen På beställning finns; kort meta godtas."
+ },
+ {
+  "nr": 8605,
+  "id": "10472264696074",
+  "fil": "b_35_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Bagagehållare för Tenways CGO600 (Pro) i flygplansaluminium. Måtten är 44 x 36 x 22 cm och vikten 1,7 kg. Maxlast enligt tillverkaren: 25 kg.",
+    "efter": "Bagagehållaren för Tenways CGO600 (Pro) är gjord i flygplansaluminium. Den mäter 44 x 36 x 22 cm och väger 1,7 kg. Maxlast enligt tillverkaren: 25 kg."
+   }
+  },
+  "skal": "Mått, material, 1,7 kg och lastkapacitet 25 kg stämmer; maxlast återges korrekt. Första metameningen saknar verb (150 tecken efter rättning). Beställningsmeningen finns och taggen På beställning finns."
+ },
+ {
+  "nr": 8606,
+  "id": "10472287142154",
+  "fil": "b_35_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "Azimut MTB Alu är en universell pakethållare",
+     "efter": "Azimut MTB Alu är en pakethållare"
+    }
+   ]
+  },
+  "skal": "24–29 tum, sadelstolpe, 9 kg, aluminium, ca 670 g, ca 480 mm, bakljushållare 50–80 mm och avtagbara sidoklaffar stämmer. 'Universell pakethållare' kan läsas som att den passar alla cyklar (extra skärpa 2) och stryks; bakljushållarens 'universell' med skruvavståndet får stå. Storlek 37 x 13,5 mm rätt utelämnad."
+ },
+ {
+  "nr": 8607,
+  "id": "10472292712714",
+  "fil": "b_35_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Nyckel S: för nära användning, när tillbehör ofta lyfts av och på</li>\n<li>Nyckel L: längre och större, för sällsynta tillfällen och enklare borttagning</li>\n",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Adapterplatta, MIK-infästning, 10–17 cm och två nycklar S och L stämmer; barnstol rätt utelämnad. Nyckelbeskrivningarna är oklar källtext ('för nära användning', 'sällsynta tillfällen') och hör inte hemma under Passar för; de stryks, 'Ingår: Två nycklar, S och L' står kvar."
+ },
+ {
+  "nr": 8609,
+  "id": "10475555127562",
+  "fil": "b_35_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "28-tums hjul, 68 mm, 855 g och 25 kg stämmer; landet (Tyskland) rätt utelämnat. Skild från 8625 Tour (920 g)."
+ },
+ {
+  "nr": 8610,
+  "id": "10475565613322",
+  "fil": "b_35_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "24–29 tum, 68 mm, 845 g och 25 kg stämmer mot den egna källan (SKU 095310-001). Skild från 8620 genom '2.0' som står i båda källornas titlar."
+ },
+ {
+  "nr": 8611,
+  "id": "10487987732746",
+  "fil": "b_35_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Pakethållare fram Racktime TopIt 2.0, 26–28 tum",
+    "efter": "Frampakethållare Racktime TopIt 2.0, 26–28 tum"
+   },
+   "seo_title": {
+    "fore": "Pakethållare fram Racktime TopIt 2.0",
+    "efter": "Frampakethållare Racktime TopIt 2.0"
+   }
+  },
+  "skal": "26–28 tum, 10 kg, strålkastarfäste, dold kabeldragning och 'passar ej fjädring fram/kolfiber' stämmer. Gemena 'fram' bryter versalregeln och format_regler gör 'Pakethållare Fram'; typordet Frampakethållare (som 8623) används i titel och SEO-titel."
+ },
+ {
+  "nr": 8612,
+  "id": "10494697079050",
+  "fil": "b_35_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Pakethållare Ibera PakRak Road IB-RA17, 26–29 tum, Svart",
+    "efter": "Pakethållare Ibera PakRak Road IB-RA17, Svart"
+   },
+   "html": [
+    {
+     "fore": " Den monteras på ram och sadelstolpe och är justerbar för 26–29 tums ram. Den väger 670 g.",
+     "efter": " Den väger 670 g."
+    },
+    {
+     "fore": "<h2>Passar för</h2><ul>\n<li>Ram på 26–29 tum</li>\n<li>Montering på ram och sadelstolpe</li>\n</ul>",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Justerbar för: 26–29 tums ram</li>\n",
+     "efter": ""
+    }
+   ],
+   "meta": {
+    "fore": "Ibera PakRak Road IB-RA17 är en svart pakethållare i aluminium och plast som monteras på ram och sadelstolpe. Maxlast enligt tillverkaren: 7 kg.",
+    "efter": "Ibera PakRak Road IB-RA17 är en svart pakethållare i TIG-svetsad aluminium och plast som väger 670 g. Maxlast enligt tillverkaren: 7 kg."
+   }
+  },
+  "skal": "Maskinöversatt källa (extra skärpa 4). Entydigt: svart (titel), TIG-svetsad aluminium och plast, 670 g, 7 kg (två gånger). Oklart: 'Ram och sadelstolpe monteras för lätta överliggande laster' (monteringssätt) och '26\"-29\" ram' (ram eller hjul, 'de flesta'); båda stryks i titel, text, Passar för och specifikation. Meta 136 tecken efter rättning."
+ },
+ {
+  "nr": 8613,
+  "id": "10494698488074",
+  "fil": "b_35_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<h2>Passar för</h2><ul>\n<li>Dig som söker en frambagagebärare från Giant</li>\n</ul>",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Tunn källa (en mening): frambagagebärare, Giant, 15 kg stämmer; 'robusta' rätt utelämnat. Passar för-punkten är cirkulär utfyllnad utan uppgift och stryks. Kort meta godtas (avsnitt 14)."
+ },
+ {
+  "nr": 8614,
+  "id": "10494699438346",
+  "fil": "b_35_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Frambagagebärare, justerbara handtag på styret, monteringspunkt för framhjulet, 40 x 28 x 96 cm och 10 kg stämmer (SKU 50102). Titeln skiljer sig sant från 8616 genom måtten; ingen färg låst."
+ },
+ {
+  "nr": 8615,
+  "id": "10494946246922",
+  "fil": "b_35_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Pakethållare för Fiido X-modellen",
+    "efter": "Pakethållare för Fiido X"
+   },
+   "seo_title": {
+    "fore": "Pakethållare för Fiido X-modellen",
+    "efter": "Pakethållare för Fiido X"
+   }
+  },
+  "skal": "Tunn källa, kort text och kort meta stämmer; beställningsmeningen finns och taggen På beställning finns. 'X-modellen' blir 'X-Modellen' av versalregeln i format_regler; titel och SEO-titel kortas till modellnamnet. Texten behåller 'X-modellen'."
+ },
+ {
+  "nr": 8616,
+  "id": "10507287265546",
+  "fil": "b_35_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": " Det finns även en plats för montering av framgaffeln.",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Frontbärare, herr- och damcyklar i stadsmiljö, MIK-profil, gafflar utan dämpare, 35 x 23 x 35 cm och 10 kg stämmer (SKU 50097). Meningen om 'plats för montering av framgaffeln' är oklar källtext och stryks. Titeln skiljer sig sant från 8614 (Svart mot måtten 40 x 28 x 96 cm; svart bara i titeln)."
+ },
+ {
+  "nr": 8617,
+  "id": "10507291427082",
+  "fil": "b_35_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "28-tums cyklar, 57 mm, 750 g, 25 kg och svart (titel) stämmer."
+ },
+ {
+  "nr": 8618,
+  "id": "10507443405066",
+  "fil": "b_35_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Pakethållare fram Racktime FrontIt",
+    "efter": "Frampakethållare Racktime FrontIt"
+   },
+   "seo_title": {
+    "fore": "Pakethållare fram Racktime FrontIt",
+    "efter": "Frampakethållare Racktime FrontIt"
+   }
+  },
+  "skal": "FrontIt, aluminium, lowrider, framgaffel, 26/28/29 tum och 18 kg stämmer; 'stabil viktfördelning' och 'universell kompatibilitet' rätt utelämnade. Gemena 'fram' bryter versalregeln (format_regler ger 'Pakethållare Fram'); typordet Frampakethållare används som i 8611 och 8623."
+ },
+ {
+  "nr": 8619,
+  "id": "10507443536138",
+  "fil": "b_35_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Bak, aluminium, Snapit 2.0, fjäderklämma, bakljusfäste, 26 tum och 25 kg stämmer."
+ },
+ {
+  "nr": 8620,
+  "id": "10507703157002",
+  "fil": "b_35_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Bak, justerbara fästen, 24–29 tum, Snapit, plats för pump och 25 kg stämmer. Ingen '2.0' i källan, så skild från 8610. Obs: SKU 05310-001 mot 8610 095310-001 kan vara en tappad siffra (möjlig dubblett, se öppna frågor)."
+ },
+ {
+  "nr": 8621,
+  "id": "10507703189770",
+  "fil": "b_35_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Snapit 2.0, fjäderklämma, bakljusfäste, aluminium, 29 tum och 25 kg stämmer; placering rätt utelämnad (källan säger inte bak)."
+ },
+ {
+  "nr": 8622,
+  "id": "10507703222538",
+  "fil": "b_35_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Eco-systemet, aluminium, Snapit, justerbara stödben, 28 tum och 25 kg stämmer; 'en mängd olika cykelramar' rätt utelämnat."
+ },
+ {
+  "nr": 8623,
+  "id": "10548232651018",
+  "fil": "b_35_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Fram, aluminium, retroinspirerad, bred rem, lampfäste, 26 och 28 tum, 41 x 33 x 51 cm och 10 kg stämmer. Två varianter med olika pris (Default/must) är inte låsta. Beställningsmeningen finns och taggen På beställning finns."
+ },
+ {
+  "nr": 8624,
+  "id": "10548276396298",
+  "fil": "b_35_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Bak, aluminium, Snapit 2.0, fjäderklämma, bakljusfäste, 24 tum och 25 kg stämmer."
+ },
+ {
+  "nr": 8625,
+  "id": "10588447867146",
+  "fil": "b_35_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "28-tums hjul, 68 mm, 920 g och 25 kg stämmer; skild från 8609."
+ }
+]
