@@ -1,0 +1,22 @@
+[
+ {
+  "id": "10676720173322",
+  "nr": 9052,
+  "skäl": "R3: Titeln anger färgen Svart men produkten har två varianter, black och green (SKU K25/9/8/2/2 och K25/9/8/2/1, samma pris 33 689 kr), och källtexten anger ingen färg. Titeln stämmer inte med produkten. Källan har dessutom motsägelse (Shimano Claris med 7 växlar). Lyft till handläggning: dela upp varianterna eller byt titel (David)."
+ },
+ {
+  "id": "10471092093194",
+  "nr": 9057,
+  "skäl": "R3: Titeln anger färgen silver-red men alla fyra varianterna är silver (M, S, L, XL) och priset skiljer sig (15 249 kr för S/M, 15 279 kr för L/XL). Källan stämmer inte med titeln och källtexten anger ingen färg."
+ },
+ {
+  "id": "10494834245898",
+  "nr": 9058,
+  "skäl": "R3: Titeln anger färgen röd men källans rad säger 'Färg: grön' (motsägelse; handle har också 'r-d'). Källtexten är dessutom maskinöversatt och trasig ('kedjebromsar', 'något på en stålram', 'pegboards'), så färg och bromsar går inte att återge säkert. Lyft till handläggning."
+ },
+ {
+  "id": "10472304935178",
+  "nr": 9059,
+  "skäl": "Dubbdäck (vinterdäck med dubbar) är en säkerhetskritisk produkt utanför faktatextläget; samma bedömning som för Suomi Tyres Hile W240 (6209, k_9). Källan är dessutom tunn och trasig: rader '244 pounds' och '74.01' saknar etikett, och löptexten innehåller säkerhets- och kvalitetslöften ('säker', 'slitstarka', 'utmärkt grepp'). Lyft till koordinatorn."
+ }
+]
