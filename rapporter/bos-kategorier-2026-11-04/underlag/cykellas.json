@@ -1,0 +1,206 @@
+{
+ "handle": "cykellas",
+ "id": "gid://shopify/Collection/561575887114",
+ "titel": "Cykellås",
+ "regel": [
+  [
+   "TAG",
+   "EQUALS",
+   "cykellås"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "lås"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "cykel lås"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "bicycle locks"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "bike lock"
+  ]
+ ],
+ "huvud_regex": "lås",
+ "antal_i_kollektionen": 113,
+ "antal_koopbara_alla": 71,
+ "antal_koopbara": 56,
+ "antal_ovriga_koopbara": 15,
+ "exempel_ovriga": [
+  "Handtag Giant Tactal Pro Single Lock-On, Röd",
+  "Golv- och Väggfäste Squire Peak WA300 för Kedjelås",
+  "Golv- och Väggfäste Squire Summit WA500 för Kedjelås",
+  "Handtag Giant Connect Ergo Max Plus Lock-On",
+  "Handtag Liv Sole-O Double Lock-On, Svart/Lila",
+  "Handtag Liv Swage Single Lock-On, Svart/Lila"
+ ],
+ "marken": [
+  [
+   "AXA",
+   34
+  ],
+  [
+   "Squire",
+   15
+  ],
+  [
+   "Giant",
+   5
+  ],
+  [
+   "M-Wave",
+   1
+  ],
+  [
+   "Tunturi",
+   1
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "vajerlås",
+   15
+  ],
+  [
+   "kedjelås",
+   14
+  ],
+  [
+   "vikbart",
+   8
+  ],
+  [
+   "u-lås",
+   6
+  ],
+  [
+   "låskedja",
+   3
+  ],
+  [
+   "kabellås",
+   3
+  ],
+  [
+   "d-lås",
+   2
+  ],
+  [
+   "cykellås",
+   1
+  ],
+  [
+   "vredeslås",
+   1
+  ],
+  [
+   "cykellåskedja",
+   1
+  ]
+ ],
+ "pris_min": 89.0,
+ "pris_max": 5339.0,
+ "pris_median": 494.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [
+  [
+   "Vajerlås AXA RESOLUTE 6-60 petrolblå",
+   89.0
+  ],
+  [
+   "Kabellås AXA RESOLUTE 60-6 ice blue",
+   89.0
+  ],
+  [
+   "Kabellås AXA Roll 75 med 3-siffrig Kod, 75 cm",
+   159.0
+  ],
+  [
+   "Vajerlås Squire Kilda Combi 10/1800, 180 cm, Kod",
+   179.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Vikbart Lås AXA Fold Lite 80 i Legerat Stål, 80 cm",
+   5339.0
+  ],
+  [
+   "Vikbart Lås Squire Inigma FL1 med Bluetooth, 80 cm",
+   2979.0
+  ],
+  [
+   "Vikbart Lås Squire Stronghold FL/850 i Borförstärkt Stål",
+   2489.0
+  ]
+ ],
+ "alla_titlar": [
+  "Cykellås AXA Fold 110 med Åtta Stållänkar, 110 cm",
+  "Cykellåskedja M-Wave C 10.9-360, 10 mm, 900 mm",
+  "D-lås Squire Nevis 230 med Härdad Stålbygel",
+  "D-lås Squire Nevis 230/10C med Vajer",
+  "Hantellås Tunturi Olympic Lock Jaw Collars 50 mm",
+  "Kabellås AXA RESOLUTE 60-6 ice blue",
+  "Kabellås AXA Roll 75 med 3-siffrig Kod, 75 cm",
+  "Kabellås Giant Surelock Tough 1 med Tre Nycklar",
+  "Kedjelås AXA Absolute 7-150, 150 cm",
+  "Kedjelås AXA Absolute 8-110 i Härdat Stål, 110 cm",
+  "Kedjelås AXA Absolute 9-110 i Härdat Stål, 110 cm",
+  "Kedjelås AXA Absolute C5-90 med 4-siffrig Kod, 90 cm",
+  "Kedjelås AXA Clinch+, 105 cm, Svart",
+  "Kedjelås AXA Linq City med Gummihandtag, 100 cm",
+  "Kedjelås AXA Linq i Härdat Stål, 100 cm",
+  "Kedjelås AXA Procarat+ NEO 105*10.5",
+  "Kedjelås AXA Rigid RCC 120/3.5 med Kod, Grön",
+  "Kedjelås Giant Surelock Force 1 i Titan, 10 mm",
+  "Kedjelås Squire Chainlok 10, 850 mm",
+  "Kedjelås Squire Chainlok Combi 6 med Kod, 900 mm",
+  "Kedjelås Squire Kilda CN6/900, 90 cm, Nyckel",
+  "Kedjelås Squire Kilda Combi CN6/900, 90 cm, Kod",
+  "Låskedja AXA Foldable 10-105 med Neoprenbeläggning",
+  "Låskedja AXA Foldable 6-95 med Neoprenbeläggning",
+  "Låskedja AXA Foldable 8-130 med Neoprenbeläggning",
+  "Ramlås AXA Defender Retractable med Vikbar Nyckel",
+  "U-lås AXA Newton Mini Pro med Vajer 100/10",
+  "U-lås AXA Newton Mini med Vajer 100*8",
+  "U-lås AXA Newton Pro 16-140 med Vajer",
+  "U-lås AXA Newton UL-230 i Härdat Stål, 23 cm",
+  "U-lås AXA Newton UL-300 i Härdat Stål, 30 cm",
+  "U-lås Giant Surelock Protector 1 DT med Vajer",
+  "Vajerlås AXA RESOLUTE 6-60 petrolblå",
+  "Vajerlås AXA Resolute 12-180, 180 cm, 12 mm",
+  "Vajerlås AXA Resolute 15-120 i Härdat Stål, 120 cm",
+  "Vajerlås AXA Resolute 15-120, 120 cm, 15 mm",
+  "Vajerlås AXA Resolute 15-180, 180 cm",
+  "Vajerlås AXA Resolute C10-150 med Kod, 150 cm",
+  "Vajerlås AXA Resolute C15-180 med 4-siffrig Kod",
+  "Vajerlås AXA Resolute C8-180 med 4-siffrig Kod",
+  "Vajerlås Giant Surelock Rubber Orange med Kodlås",
+  "Vajerlås Giant Surelock Rubber med Kombinationslås, Grön",
+  "Vajerlås Squire Kilda 10/1800, 180 cm, Nyckel",
+  "Vajerlås Squire Kilda 12/1800, 180 cm, Nyckel",
+  "Vajerlås Squire Kilda 15/1800, 180 cm, Nyckel",
+  "Vajerlås Squire Kilda Combi 10/1800, 180 cm, Kod",
+  "Vajerlås Squire Straplok Combi 10 med Kod, 450 mm",
+  "Vikbart Cykellås AXA Fold 85, 85 cm, Sold Secure Bronze",
+  "Vikbart Lås AXA Fold Lite 80 i Legerat Stål, 80 cm",
+  "Vikbart Lås AXA Foldable 1000 i Härdat Stål, 105 cm",
+  "Vikbart Lås AXA Foldable 800 i Härdat Stål, 100 cm",
+  "Vikbart Lås Squire Foldalok Plus, 850 mm",
+  "Vikbart Lås Squire Inigma FL1 med Bluetooth, 80 cm",
+  "Vikbart Lås Squire Stronghold FL/850 i Borförstärkt Stål",
+  "Vikbart lås AXA Fold 85, längd 85 cm",
+  "Vredeslås SQUIRE Folda Mini FL690"
+ ]
+}

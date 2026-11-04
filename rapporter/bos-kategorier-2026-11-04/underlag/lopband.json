@@ -1,0 +1,133 @@
+{
+ "handle": "lopband",
+ "id": "gid://shopify/Collection/526983954698",
+ "titel": "Löpband",
+ "regel": [
+  [
+   "TAG",
+   "EQUALS",
+   "löpband"
+  ]
+ ],
+ "huvud_regex": "löpband(?!s)",
+ "antal_i_kollektionen": 115,
+ "antal_koopbara_alla": 43,
+ "antal_koopbara": 35,
+ "antal_ovriga_koopbara": 8,
+ "exempel_ovriga": [
+  "Treadmill BH FITNESS Nydo",
+  "Treadmill Lubrication",
+  "GT1.0 Treadmill",
+  "Silikonspray Hammer för Löpband, 400 ml",
+  "Löpbandsolja Tunturi T-Lube 200 ml",
+  "Löpbandsolja Toorx Lubetech, 200 ml"
+ ],
+ "marken": [
+  [
+   "BH Fitness",
+   12
+  ],
+  [
+   "Tunturi",
+   10
+  ],
+  [
+   "Toorx",
+   4
+  ],
+  [
+   "Hammer",
+   4
+  ],
+  [
+   "Christopeit",
+   3
+  ],
+  [
+   "Finnlo by Hammer",
+   2
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "löpband",
+   35
+  ]
+ ],
+ "pris_min": 5539.0,
+ "pris_max": 44129.0,
+ "pris_median": 16859.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [
+  [
+   "Löpband Christopeit Walk Run Pro",
+   5539.0
+  ],
+  [
+   "Löpband Tunturi Cardio Fit T5 med Bluetooth, Hopfällbart",
+   5679.0
+  ],
+  [
+   "Löpband Hammer Walk 2.0",
+   6929.0
+  ],
+  [
+   "Löpband Toorx Evertift TFK-155 Slim",
+   8309.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Löpband Tunturi Signature T90 med AC-motor",
+   44129.0
+  ],
+  [
+   "Löpband Finnlo by Hammer Endurance TFT",
+   41959.0
+  ],
+  [
+   "Löpband Hammer Q. VADIS 10.0",
+   38389.0
+  ]
+ ],
+ "alla_titlar": [
+  "Löpband BH Fitness Luxor LX30",
+  "Löpband BH Fitness Nydo, Hopfällbart",
+  "Löpband BH Fitness Nyman Plus, Infällbart",
+  "Löpband BH Fitness Pioneer Senior",
+  "Löpband BH Fitness RS800 Multimedia",
+  "Löpband BH Fitness RS800, Hopfällbart",
+  "Löpband BH Fitness RS900TFT, Hopfällbart",
+  "Löpband BH Fitness RX3",
+  "Löpband BH Fitness Runlab Plus",
+  "Löpband BH Fitness Sherpa Run",
+  "Löpband BH Fitness i.F2W",
+  "Löpband BH Fitness i.RC12",
+  "Löpband Christopeit TM 4000 S",
+  "Löpband Christopeit TM 750S, Hopfällbart, 1,75 hk",
+  "Löpband Christopeit Walk Run Pro",
+  "Löpband Finnlo by Hammer Alpine TFT",
+  "Löpband Finnlo by Hammer Endurance TFT",
+  "Löpband Hammer FlyRun 4.0 NorsK",
+  "Löpband Hammer Q. VADIS 10.0",
+  "Löpband Hammer Q. VADIS 3.0",
+  "Löpband Hammer Walk 2.0",
+  "Löpband Toorx Altitude",
+  "Löpband Toorx City Compact, Pure Bronze",
+  "Löpband Toorx City Compact, Rose Gold",
+  "Löpband Toorx Evertift TFK-155 Slim",
+  "Löpband Tunturi Cardio Fit T25 med 19 Program",
+  "Löpband Tunturi Cardio Fit T35 med 5-tums Skärm",
+  "Löpband Tunturi Cardio Fit T40 med Lutning",
+  "Löpband Tunturi Cardio Fit T5 med Bluetooth, Hopfällbart",
+  "Löpband Tunturi Signature T20",
+  "Löpband Tunturi Signature T40 med 10-tums Display",
+  "Löpband Tunturi Signature T80 med 10-tums Skärm",
+  "Löpband Tunturi Signature T90 med AC-motor",
+  "Löpband Tunturi T50 med 44 Träningsprogram",
+  "Löpband Tunturi T60 med 47 Träningsprogram"
+ ]
+}

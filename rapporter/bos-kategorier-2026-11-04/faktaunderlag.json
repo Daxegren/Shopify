@@ -1,0 +1,9569 @@
+{
+ "gid://shopify/Collection/523344478474": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/526981136650": {
+  "totalt": 19,
+  "aktiva": 12,
+  "koopbara": 12,
+  "marken": [
+   [
+    "Tunturi",
+    6
+   ],
+   [
+    "Hammer",
+    4
+   ],
+   [
+    "Toorx",
+    1
+   ],
+   [
+    "Christopeit",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    12
+   ]
+  ],
+  "pris_min": 119.0,
+  "pris_max": 5909.0,
+  "pris_median": 509.0
+ },
+ "gid://shopify/Collection/526981234954": {
+  "totalt": 7,
+  "aktiva": 3,
+  "koopbara": 2,
+  "marken": [
+   [
+    "Tunturi",
+    1
+   ],
+   [
+    "Hammer",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Professionell utrustning",
+    1
+   ],
+   [
+    "Konditionsträning & Fitness",
+    1
+   ]
+  ],
+  "pris_min": 17529.0,
+  "pris_max": 50789.0,
+  "pris_median": 34159.0
+ },
+ "gid://shopify/Collection/526981300490": {
+  "totalt": 4,
+  "aktiva": 3,
+  "koopbara": 3,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    3
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör",
+    3
+   ]
+  ],
+  "pris_min": 199.0,
+  "pris_max": 399.0,
+  "pris_median": 299.0
+ },
+ "gid://shopify/Collection/526981431562": {
+  "totalt": 41,
+  "aktiva": 18,
+  "koopbara": 18,
+  "marken": [
+   [
+    "Tunturi",
+    11
+   ],
+   [
+    "Gorilla Sports Norden",
+    2
+   ],
+   [
+    "Finnlo by Hammer",
+    2
+   ],
+   [
+    "BH Fitness",
+    1
+   ],
+   [
+    "Hammer",
+    1
+   ],
+   [
+    "Christopeit",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    16
+   ],
+   [
+    "Sissy Squat",
+    1
+   ],
+   [
+    "Träningsbänkar",
+    1
+   ]
+  ],
+  "pris_min": 1699.0,
+  "pris_max": 13289.0,
+  "pris_median": 3624.0
+ },
+ "gid://shopify/Collection/526981529866": {
+  "totalt": 18,
+  "aktiva": 11,
+  "koopbara": 8,
+  "marken": [
+   [
+    "Tunturi",
+    3
+   ],
+   [
+    "Gorilla Sports Norden",
+    2
+   ],
+   [
+    "Hammer",
+    2
+   ],
+   [
+    "Finnlo by Hammer",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    5
+   ],
+   [
+    "Sissy Squat",
+    2
+   ],
+   [
+    "Professionell utrustning",
+    1
+   ]
+  ],
+  "pris_min": 1829.0,
+  "pris_max": 50789.0,
+  "pris_median": 12414.0
+ },
+ "gid://shopify/Collection/526981628170": {
+  "totalt": 16,
+  "aktiva": 9,
+  "koopbara": 3,
+  "marken": [
+   [
+    "Tunturi",
+    2
+   ],
+   [
+    "BH Fitness",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Professionell utrustning",
+    2
+   ],
+   [
+    "Konditionsträning & Fitness",
+    1
+   ]
+  ],
+  "pris_min": 17689.0,
+  "pris_max": 50789.0,
+  "pris_median": 19759.0
+ },
+ "gid://shopify/Collection/526981726474": {
+  "totalt": 16,
+  "aktiva": 4,
+  "koopbara": 3,
+  "marken": [
+   [
+    "Tunturi",
+    2
+   ],
+   [
+    "Gorilla Sports Norden",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    2
+   ],
+   [
+    "Skivstångsställning",
+    1
+   ]
+  ],
+  "pris_min": 819.0,
+  "pris_max": 7419.0,
+  "pris_median": 5649.0
+ },
+ "gid://shopify/Collection/526981857546": {
+  "totalt": 11,
+  "aktiva": 5,
+  "koopbara": 3,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    3
+   ]
+  ],
+  "typer": [
+   [
+    "Viktställ - 30mm",
+    1
+   ],
+   [
+    "Viktställ - 50mm",
+    1
+   ],
+   [
+    "Hantelställ",
+    1
+   ]
+  ],
+  "pris_min": 1799.0,
+  "pris_max": 2649.0,
+  "pris_median": 2239.0
+ },
+ "gid://shopify/Collection/526981955850": {
+  "totalt": 117,
+  "aktiva": 75,
+  "koopbara": 57,
+  "marken": [
+   [
+    "Tunturi",
+    29
+   ],
+   [
+    "Gymstick",
+    13
+   ],
+   [
+    "Hammer",
+    6
+   ],
+   [
+    "Toorx",
+    5
+   ],
+   [
+    "Gorilla Sports Norden",
+    2
+   ],
+   [
+    "Christopeit",
+    1
+   ],
+   [
+    "Zipro",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    36
+   ],
+   [
+    "Professionell utrustning",
+    8
+   ],
+   [
+    "Justerbara hantelset",
+    1
+   ],
+   [
+    "Hantelstänger",
+    1
+   ]
+  ],
+  "pris_min": 0.0,
+  "pris_max": 14529.0,
+  "pris_median": 1529.0
+ },
+ "gid://shopify/Collection/526982086922": {
+  "totalt": 54,
+  "aktiva": 34,
+  "koopbara": 32,
+  "marken": [
+   [
+    "Toorx",
+    11
+   ],
+   [
+    "Tunturi",
+    8
+   ],
+   [
+    "Gymstick",
+    6
+   ],
+   [
+    "Hammer",
+    4
+   ],
+   [
+    "Christopeit",
+    3
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    26
+   ]
+  ],
+  "pris_min": 79.0,
+  "pris_max": 2229.0,
+  "pris_median": 784.0
+ },
+ "gid://shopify/Collection/526982152458": {
+  "totalt": 42,
+  "aktiva": 21,
+  "koopbara": 21,
+  "marken": [
+   [
+    "Tunturi",
+    11
+   ],
+   [
+    "Hammer",
+    3
+   ],
+   [
+    "Gymstick",
+    3
+   ],
+   [
+    "Toorx",
+    3
+   ],
+   [
+    "Christopeit",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    17
+   ],
+   [
+    "Vikter och tillbehör",
+    1
+   ]
+  ],
+  "pris_min": 159.0,
+  "pris_max": 13039.0,
+  "pris_median": 1699.0
+ },
+ "gid://shopify/Collection/526982250762": {
+  "totalt": 16,
+  "aktiva": 9,
+  "koopbara": 7,
+  "marken": [
+   [
+    "Tunturi",
+    5
+   ],
+   [
+    "Christopeit",
+    1
+   ],
+   [
+    "Gymstick",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    6
+   ],
+   [
+    "Professionell utrustning",
+    1
+   ]
+  ],
+  "pris_min": 639.0,
+  "pris_max": 2969.0,
+  "pris_median": 1779.0
+ },
+ "gid://shopify/Collection/526982381834": {
+  "totalt": 69,
+  "aktiva": 56,
+  "koopbara": 55,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    47
+   ],
+   [
+    "Tunturi",
+    2
+   ],
+   [
+    "Toorx",
+    2
+   ],
+   [
+    "Christopeit",
+    2
+   ],
+   [
+    "Gorilla Sports",
+    1
+   ],
+   [
+    "Hammer",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Viktskivor - 30mm",
+    31
+   ],
+   [
+    "Viktskivor - 50mm",
+    16
+   ],
+   [
+    "Konditionsträning & Fitness",
+    7
+   ],
+   [
+    "Viktskivor - 25mm",
+    1
+   ]
+  ],
+  "pris_min": 39.0,
+  "pris_max": 2409.0,
+  "pris_median": 1679.0
+ },
+ "gid://shopify/Collection/526982414602": {
+  "totalt": 105,
+  "aktiva": 25,
+  "koopbara": 25,
+  "marken": [
+   [
+    "Tunturi",
+    12
+   ],
+   [
+    "Toorx",
+    7
+   ],
+   [
+    "MAXXUS",
+    2
+   ],
+   [
+    "Gymstick",
+    2
+   ],
+   [
+    "Gorilla Sports Norden",
+    1
+   ],
+   [
+    "Hammer",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    10
+   ],
+   [
+    "Boxningsutrustning",
+    9
+   ],
+   [
+    "Boxning",
+    3
+   ],
+   [
+    "Boxing equipment",
+    1
+   ]
+  ],
+  "pris_min": 89.0,
+  "pris_max": 8159.0,
+  "pris_median": 429.0
+ },
+ "gid://shopify/Collection/526982578442": {
+  "totalt": 5,
+  "aktiva": 1,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Tunturi",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    1
+   ]
+  ],
+  "pris_min": 3149.0,
+  "pris_max": 3149.0,
+  "pris_median": 3149.0
+ },
+ "gid://shopify/Collection/526982643978": {
+  "totalt": 26,
+  "aktiva": 21,
+  "koopbara": 18,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    18
+   ]
+  ],
+  "typer": [
+   [
+    "Kabelhandtag",
+    18
+   ]
+  ],
+  "pris_min": 189.0,
+  "pris_max": 959.0,
+  "pris_median": 404.0
+ },
+ "gid://shopify/Collection/526982676746": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/526982775050": {
+  "totalt": 11,
+  "aktiva": 4,
+  "koopbara": 3,
+  "marken": [
+   [
+    "Gymstick",
+    2
+   ],
+   [
+    "Gorilla Sports Norden",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Boxning",
+    1
+   ]
+  ],
+  "pris_min": 289.0,
+  "pris_max": 2589.0,
+  "pris_median": 1549.0
+ },
+ "gid://shopify/Collection/526982840586": {
+  "totalt": 4,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/526982906122": {
+  "totalt": 17,
+  "aktiva": 11,
+  "koopbara": 11,
+  "marken": [
+   [
+    "Gymstick",
+    9
+   ],
+   [
+    "Gorilla Sports Norden",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör",
+    2
+   ]
+  ],
+  "pris_min": 99.0,
+  "pris_max": 1099.0,
+  "pris_median": 169.0
+ },
+ "gid://shopify/Collection/526983069962": {
+  "totalt": 17,
+  "aktiva": 9,
+  "koopbara": 9,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    8
+   ],
+   [
+    "Gymstick",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Magträning - Hjul, stolar, gravity boots(ej bänk)",
+    7
+   ],
+   [
+    "Tillbehör",
+    1
+   ]
+  ],
+  "pris_min": 189.0,
+  "pris_max": 1149.0,
+  "pris_median": 439.0
+ },
+ "gid://shopify/Collection/526983168266": {
+  "totalt": 39,
+  "aktiva": 19,
+  "koopbara": 15,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    7
+   ],
+   [
+    "Toorx",
+    3
+   ],
+   [
+    "Tunturi",
+    3
+   ],
+   [
+    "Zipro",
+    1
+   ],
+   [
+    "Gymstick",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    6
+   ],
+   [
+    "Massageboll",
+    2
+   ],
+   [
+    "Träningsbollar",
+    2
+   ],
+   [
+    "Yogaboll/Pilatesboll/Fitnessboll",
+    1
+   ],
+   [
+    "Bosuboll",
+    1
+   ],
+   [
+    "Träningsboll",
+    1
+   ],
+   [
+    "medicinbollspaket",
+    1
+   ],
+   [
+    "Wallball",
+    1
+   ]
+  ],
+  "pris_min": 49.0,
+  "pris_max": 1629.0,
+  "pris_median": 469.0
+ },
+ "gid://shopify/Collection/526983364874": {
+  "totalt": 5,
+  "aktiva": 4,
+  "koopbara": 4,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    4
+   ]
+  ],
+  "typer": [
+   [
+    "Parallettes",
+    4
+   ]
+  ],
+  "pris_min": 1039.0,
+  "pris_max": 1479.0,
+  "pris_median": 1289.0
+ },
+ "gid://shopify/Collection/526983495946": {
+  "totalt": 6,
+  "aktiva": 4,
+  "koopbara": 3,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    3
+   ]
+  ],
+  "typer": [
+   [
+    "Plyobox",
+    3
+   ]
+  ],
+  "pris_min": 2149.0,
+  "pris_max": 2249.0,
+  "pris_median": 2179.0
+ },
+ "gid://shopify/Collection/526983594250": {
+  "totalt": 9,
+  "aktiva": 7,
+  "koopbara": 6,
+  "marken": [
+   [
+    "Toorx",
+    2
+   ],
+   [
+    "Tunturi",
+    2
+   ],
+   [
+    "MAXXUS",
+    1
+   ],
+   [
+    "Finnlo by Hammer",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    4
+   ],
+   [
+    "pulsmätare",
+    1
+   ],
+   [
+    "Crosstrainers",
+    1
+   ]
+  ],
+  "pris_min": 389.0,
+  "pris_max": 1789.0,
+  "pris_median": 704.0
+ },
+ "gid://shopify/Collection/526983659786": {
+  "totalt": 1,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/526983692554": {
+  "totalt": 5,
+  "aktiva": 2,
+  "koopbara": 2,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Bulgarian Bag",
+    1
+   ],
+   [
+    "Sandsäckar",
+    1
+   ]
+  ],
+  "pris_min": 999.0,
+  "pris_max": 1099.0,
+  "pris_median": 1049.0
+ },
+ "gid://shopify/Collection/526983725322": {
+  "totalt": 6,
+  "aktiva": 5,
+  "koopbara": 5,
+  "marken": [
+   [
+    "Tunturi",
+    3
+   ],
+   [
+    "Gorilla Sports Norden",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Extra vikter, tillbehör",
+    2
+   ],
+   [
+    "Viktvästar",
+    2
+   ],
+   [
+    "Konditionsträning & Fitness",
+    1
+   ]
+  ],
+  "pris_min": 669.0,
+  "pris_max": 2359.0,
+  "pris_median": 1429.0
+ },
+ "gid://shopify/Collection/526983790858": {
+  "totalt": 81,
+  "aktiva": 56,
+  "koopbara": 48,
+  "marken": [
+   [
+    "Tunturi",
+    18
+   ],
+   [
+    "Gorilla Sports Norden",
+    14
+   ],
+   [
+    "Gymstick",
+    7
+   ],
+   [
+    "Toorx",
+    6
+   ],
+   [
+    "Gorilla Sports",
+    1
+   ],
+   [
+    "Zipro",
+    1
+   ],
+   [
+    "Spokey",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    12
+   ],
+   [
+    "Yoga",
+    11
+   ],
+   [
+    "Yogamattor",
+    11
+   ],
+   [
+    "Yogaboll/Pilatesboll/Fitnessboll",
+    1
+   ],
+   [
+    "Bosuboll",
+    1
+   ],
+   [
+    "Ryggsträckare",
+    1
+   ],
+   [
+    "Pilates",
+    1
+   ],
+   [
+    "Gymnastikmattor, Yogamattor",
+    1
+   ],
+   [
+    "Stretchband",
+    1
+   ],
+   [
+    "Massage",
+    1
+   ]
+  ],
+  "pris_min": 0.0,
+  "pris_max": 1359.0,
+  "pris_median": 269.0
+ },
+ "gid://shopify/Collection/526983889162": {
+  "totalt": 56,
+  "aktiva": 36,
+  "koopbara": 22,
+  "marken": [
+   [
+    "Christopeit",
+    7
+   ],
+   [
+    "Hammer",
+    6
+   ],
+   [
+    "Tunturi",
+    5
+   ],
+   [
+    "BH Fitness",
+    3
+   ],
+   [
+    "Gymstick",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Crosstrainers",
+    20
+   ],
+   [
+    "Professionell utrustning",
+    1
+   ]
+  ],
+  "pris_min": 1789.0,
+  "pris_max": 43459.0,
+  "pris_median": 10989.0
+ },
+ "gid://shopify/Collection/526983954698": {
+  "totalt": 115,
+  "aktiva": 72,
+  "koopbara": 43,
+  "marken": [
+   [
+    "BH Fitness",
+    14
+   ],
+   [
+    "Tunturi",
+    12
+   ],
+   [
+    "Toorx",
+    5
+   ],
+   [
+    "Hammer",
+    5
+   ],
+   [
+    "Christopeit",
+    3
+   ],
+   [
+    "Gymstick",
+    2
+   ],
+   [
+    "Finnlo by Hammer",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    39
+   ],
+   [
+    "Professionell utrustning",
+    2
+   ]
+  ],
+  "pris_min": 69.0,
+  "pris_max": 44129.0,
+  "pris_median": 13379.0
+ },
+ "gid://shopify/Collection/526984020234": {
+  "totalt": 125,
+  "aktiva": 88,
+  "koopbara": 75,
+  "marken": [
+   [
+    "Tunturi",
+    26
+   ],
+   [
+    "BH Fitness",
+    17
+   ],
+   [
+    "Toorx",
+    15
+   ],
+   [
+    "Hammer",
+    10
+   ],
+   [
+    "Christopeit",
+    5
+   ],
+   [
+    "Velomarket",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    57
+   ],
+   [
+    "Professionell utrustning",
+    17
+   ],
+   [
+    "Crosstrainers",
+    1
+   ]
+  ],
+  "pris_min": 409.0,
+  "pris_max": 27829.0,
+  "pris_median": 10039.0
+ },
+ "gid://shopify/Collection/526984053002": {
+  "totalt": 74,
+  "aktiva": 43,
+  "koopbara": 18,
+  "marken": [
+   [
+    "Tunturi",
+    7
+   ],
+   [
+    "BH Fitness",
+    4
+   ],
+   [
+    "Hammer",
+    4
+   ],
+   [
+    "Christopeit",
+    2
+   ],
+   [
+    "Toorx",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    16
+   ],
+   [
+    "Professionell utrustning",
+    1
+   ],
+   [
+    "Skridskor",
+    1
+   ]
+  ],
+  "pris_min": 3599.0,
+  "pris_max": 23379.0,
+  "pris_median": 8914.0
+ },
+ "gid://shopify/Collection/526984118538": {
+  "totalt": 6,
+  "aktiva": 2,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/526984151306": {
+  "totalt": 14,
+  "aktiva": 10,
+  "koopbara": 9,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    6
+   ],
+   [
+    "Toorx",
+    2
+   ],
+   [
+    "Gorilla Sports",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör",
+    5
+   ],
+   [
+    "Konditionsträning & Fitness",
+    2
+   ],
+   [
+    "Bosuboll",
+    1
+   ],
+   [
+    "Balansplatta",
+    1
+   ]
+  ],
+  "pris_min": 229.0,
+  "pris_max": 2309.0,
+  "pris_median": 379.0
+ },
+ "gid://shopify/Collection/526984216842": {
+  "totalt": 13,
+  "aktiva": 7,
+  "koopbara": 6,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    4
+   ],
+   [
+    "Toorx",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Massageboll",
+    3
+   ],
+   [
+    "Konditionsträning & Fitness",
+    2
+   ],
+   [
+    "Foam Roller",
+    1
+   ]
+  ],
+  "pris_min": 99.0,
+  "pris_max": 349.0,
+  "pris_median": 189.0
+ },
+ "gid://shopify/Collection/526984315146": {
+  "totalt": 13,
+  "aktiva": 7,
+  "koopbara": 7,
+  "marken": [
+   [
+    "Tunturi",
+    3
+   ],
+   [
+    "Gorilla Sports Norden",
+    1
+   ],
+   [
+    "Gorilla Sports",
+    1
+   ],
+   [
+    "Toorx",
+    1
+   ],
+   [
+    "Spokey",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    3
+   ],
+   [
+    "Handledsvikt",
+    2
+   ],
+   [
+    "Extra vikter, tillbehör",
+    2
+   ]
+  ],
+  "pris_min": 99.0,
+  "pris_max": 429.0,
+  "pris_median": 219.0
+ },
+ "gid://shopify/Collection/526984380682": {
+  "totalt": 6,
+  "aktiva": 1,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Fäste & Upphängningar",
+    1
+   ]
+  ],
+  "pris_min": 649.0,
+  "pris_max": 649.0,
+  "pris_median": 649.0
+ },
+ "gid://shopify/Collection/526984413450": {
+  "totalt": 30,
+  "aktiva": 24,
+  "koopbara": 23,
+  "marken": [
+   [
+    "Gymstick",
+    8
+   ],
+   [
+    "Gorilla Sports Norden",
+    7
+   ],
+   [
+    "Tunturi",
+    4
+   ],
+   [
+    "Toorx",
+    4
+   ]
+  ],
+  "typer": [
+   [
+    "Gummiband",
+    7
+   ],
+   [
+    "Konditionsträning & Fitness",
+    5
+   ],
+   [
+    "Stretchband",
+    2
+   ],
+   [
+    "Träningsband",
+    1
+   ]
+  ],
+  "pris_min": 39.0,
+  "pris_max": 469.0,
+  "pris_median": 139.0
+ },
+ "gid://shopify/Collection/526984446218": {
+  "totalt": 12,
+  "aktiva": 10,
+  "koopbara": 8,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    7
+   ],
+   [
+    "MAXXUS",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör",
+    5
+   ],
+   [
+    "Kettlebells",
+    1
+   ],
+   [
+    "pulsmätare",
+    1
+   ],
+   [
+    "Skivstångsställning",
+    1
+   ]
+  ],
+  "pris_min": 169.0,
+  "pris_max": 1299.0,
+  "pris_median": 529.0
+ },
+ "gid://shopify/Collection/526984511754": {
+  "totalt": 33,
+  "aktiva": 18,
+  "koopbara": 14,
+  "marken": [
+   [
+    "Gymstick",
+    7
+   ],
+   [
+    "Gorilla Sports Norden",
+    3
+   ],
+   [
+    "Toorx",
+    3
+   ],
+   [
+    "Tunturi",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    5
+   ],
+   [
+    "Hopprep",
+    3
+   ]
+  ],
+  "pris_min": 79.0,
+  "pris_max": 289.0,
+  "pris_median": 149.0
+ },
+ "gid://shopify/Collection/526984577290": {
+  "totalt": 11,
+  "aktiva": 8,
+  "koopbara": 7,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    7
+   ]
+  ],
+  "typer": [
+   [
+    "Parallettes",
+    4
+   ],
+   [
+    "Tillbehör",
+    3
+   ]
+  ],
+  "pris_min": 249.0,
+  "pris_max": 1479.0,
+  "pris_median": 1039.0
+ },
+ "gid://shopify/Collection/526984610058": {
+  "totalt": 7,
+  "aktiva": 4,
+  "koopbara": 4,
+  "marken": [
+   [
+    "Toorx",
+    2
+   ],
+   [
+    "BH Fitness",
+    1
+   ],
+   [
+    "Tunturi",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    4
+   ]
+  ],
+  "pris_min": 409.0,
+  "pris_max": 1559.0,
+  "pris_median": 664.0
+ },
+ "gid://shopify/Collection/526984708362": {
+  "totalt": 7,
+  "aktiva": 6,
+  "koopbara": 3,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    3
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör",
+    2
+   ],
+   [
+    "Yoga",
+    1
+   ]
+  ],
+  "pris_min": 239.0,
+  "pris_max": 1339.0,
+  "pris_median": 619.0
+ },
+ "gid://shopify/Collection/526984839434": {
+  "totalt": 828,
+  "aktiva": 496,
+  "koopbara": 469,
+  "marken": [
+   [
+    "Giant",
+    110
+   ],
+   [
+    "AXA",
+    53
+   ],
+   [
+    "Basil",
+    39
+   ],
+   [
+    "Bookman",
+    30
+   ],
+   [
+    "SevenPolska",
+    30
+   ],
+   [
+    "Hebie",
+    21
+   ],
+   [
+    "Selle Monte Grappa",
+    16
+   ],
+   [
+    "Squire",
+    15
+   ],
+   [
+    "SKS",
+    15
+   ],
+   [
+    "Liv",
+    13
+   ],
+   [
+    "Melon",
+    13
+   ],
+   [
+    "Velomarket",
+    12
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör",
+    458
+   ],
+   [
+    "Extra vikter, tillbehör",
+    7
+   ],
+   [
+    "Kettlebells",
+    1
+   ],
+   [
+    "pulsmätare",
+    1
+   ],
+   [
+    "Skivstångsställning",
+    1
+   ],
+   [
+    "Tilläggsvikter, tillbehör",
+    1
+   ]
+  ],
+  "pris_min": 19.0,
+  "pris_max": 5339.0,
+  "pris_median": 299.0
+ },
+ "gid://shopify/Collection/526984872202": {
+  "totalt": 41,
+  "aktiva": 30,
+  "koopbara": 26,
+  "marken": [
+   [
+    "Tunturi",
+    10
+   ],
+   [
+    "Gorilla Sports Norden",
+    6
+   ],
+   [
+    "Gorilla Sports",
+    4
+   ],
+   [
+    "Spokey",
+    3
+   ],
+   [
+    "Toorx",
+    2
+   ],
+   [
+    "Gymstick",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    9
+   ],
+   [
+    "Massage",
+    7
+   ],
+   [
+    "Massageboll",
+    3
+   ],
+   [
+    "Tillbehör",
+    3
+   ],
+   [
+    "Balansplatta",
+    2
+   ],
+   [
+    "Gummiband",
+    1
+   ],
+   [
+    "Ryggsträckare",
+    1
+   ]
+  ],
+  "pris_min": 99.0,
+  "pris_max": 2079.0,
+  "pris_median": 269.0
+ },
+ "gid://shopify/Collection/526984970506": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/526985068810": {
+  "totalt": 2,
+  "aktiva": 1,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör",
+    1
+   ]
+  ],
+  "pris_min": 1749.0,
+  "pris_max": 1749.0,
+  "pris_median": 1749.0
+ },
+ "gid://shopify/Collection/526985134346": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/526985167114": {
+  "totalt": 2,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/526985199882": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/526985232650": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/526985298186": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/526985396490": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/526985462026": {
+  "totalt": 13,
+  "aktiva": 8,
+  "koopbara": 8,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    7
+   ],
+   [
+    "Toorx",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Viktlås",
+    5
+   ],
+   [
+    "Tillbehör",
+    2
+   ],
+   [
+    "Konditionsträning & Fitness",
+    1
+   ]
+  ],
+  "pris_min": 139.0,
+  "pris_max": 479.0,
+  "pris_median": 249.0
+ },
+ "gid://shopify/Collection/526985560330": {
+  "totalt": 6,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/526985953546": {
+  "totalt": 152,
+  "aktiva": 87,
+  "koopbara": 87,
+  "marken": [
+   [
+    "Trec",
+    86
+   ],
+   [
+    "Liv",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    86
+   ],
+   [
+    "Tillbehör",
+    1
+   ]
+  ],
+  "pris_min": 19.0,
+  "pris_max": 1819.0,
+  "pris_median": 119.0
+ },
+ "gid://shopify/Collection/526986051850": {
+  "totalt": 40,
+  "aktiva": 27,
+  "koopbara": 27,
+  "marken": [
+   [
+    "Trec",
+    27
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    27
+   ]
+  ],
+  "pris_min": 29.0,
+  "pris_max": 599.0,
+  "pris_median": 119.0
+ },
+ "gid://shopify/Collection/526986084618": {
+  "totalt": 21,
+  "aktiva": 6,
+  "koopbara": 6,
+  "marken": [
+   [
+    "Trec",
+    6
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    6
+   ]
+  ],
+  "pris_min": 29.0,
+  "pris_max": 1819.0,
+  "pris_median": 524.0
+ },
+ "gid://shopify/Collection/526986150154": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/526986182922": {
+  "totalt": 11,
+  "aktiva": 7,
+  "koopbara": 7,
+  "marken": [
+   [
+    "Trec",
+    7
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    7
+   ]
+  ],
+  "pris_min": 19.0,
+  "pris_max": 119.0,
+  "pris_median": 29.0
+ },
+ "gid://shopify/Collection/526986215690": {
+  "totalt": 20,
+  "aktiva": 7,
+  "koopbara": 7,
+  "marken": [
+   [
+    "Trec",
+    7
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    7
+   ]
+  ],
+  "pris_min": 99.0,
+  "pris_max": 429.0,
+  "pris_median": 169.0
+ },
+ "gid://shopify/Collection/526986248458": {
+  "totalt": 1,
+  "aktiva": 1,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Tunturi",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Utomhusträning",
+    1
+   ]
+  ],
+  "pris_min": 429.0,
+  "pris_max": 429.0,
+  "pris_median": 429.0
+ },
+ "gid://shopify/Collection/526986313994": {
+  "totalt": 5,
+  "aktiva": 4,
+  "koopbara": 4,
+  "marken": [
+   [
+    "Bookman",
+    4
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör",
+    4
+   ]
+  ],
+  "pris_min": 59.0,
+  "pris_max": 89.0,
+  "pris_median": 69.0
+ },
+ "gid://shopify/Collection/526986346762": {
+  "totalt": 48,
+  "aktiva": 37,
+  "koopbara": 33,
+  "marken": [
+   [
+    "Toorx",
+    13
+   ],
+   [
+    "Tunturi",
+    10
+   ],
+   [
+    "Gorilla Sports Norden",
+    8
+   ],
+   [
+    "Hammer",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    16
+   ],
+   [
+    "Yogamattor",
+    9
+   ],
+   [
+    "Tillbehör",
+    4
+   ],
+   [
+    "Yoga",
+    4
+   ]
+  ],
+  "pris_min": 139.0,
+  "pris_max": 3799.0,
+  "pris_median": 369.0
+ },
+ "gid://shopify/Collection/526986477834": {
+  "totalt": 3,
+  "aktiva": 2,
+  "koopbara": 2,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    1
+   ],
+   [
+    "Gymstick",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör",
+    1
+   ]
+  ],
+  "pris_min": 579.0,
+  "pris_max": 899.0,
+  "pris_median": 739.0
+ },
+ "gid://shopify/Collection/526986510602": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/526986543370": {
+  "totalt": 7,
+  "aktiva": 1,
+  "koopbara": 1,
+  "marken": [
+   [
+    "BH Fitness",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    1
+   ]
+  ],
+  "pris_min": 9849.0,
+  "pris_max": 9849.0,
+  "pris_median": 9849.0
+ },
+ "gid://shopify/Collection/526986608906": {
+  "totalt": 7,
+  "aktiva": 4,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "medicinbollspaket",
+    1
+   ]
+  ],
+  "pris_min": 1329.0,
+  "pris_max": 1329.0,
+  "pris_median": 1329.0
+ },
+ "gid://shopify/Collection/526986674442": {
+  "totalt": 8,
+  "aktiva": 3,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Vattenflaska",
+    1
+   ]
+  ],
+  "pris_min": 99.0,
+  "pris_max": 99.0,
+  "pris_median": 99.0
+ },
+ "gid://shopify/Collection/526986707210": {
+  "totalt": 4,
+  "aktiva": 4,
+  "koopbara": 3,
+  "marken": [
+   [
+    "Tunturi",
+    2
+   ],
+   [
+    "Hammer",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    3
+   ]
+  ],
+  "pris_min": 359.0,
+  "pris_max": 1989.0,
+  "pris_median": 409.0
+ },
+ "gid://shopify/Collection/526986838282": {
+  "totalt": 3,
+  "aktiva": 2,
+  "koopbara": 2,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    1
+   ],
+   [
+    "Toorx",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Viktskivor - 50mm",
+    1
+   ],
+   [
+    "Konditionsträning & Fitness",
+    1
+   ]
+  ],
+  "pris_min": 39.0,
+  "pris_max": 2399.0,
+  "pris_median": 1219.0
+ },
+ "gid://shopify/Collection/526986871050": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/526986903818": {
+  "totalt": 8,
+  "aktiva": 3,
+  "koopbara": 3,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    3
+   ]
+  ],
+  "typer": [
+   [
+    "Kabelhandtag",
+    2
+   ],
+   [
+    "Träningsbänkar",
+    1
+   ]
+  ],
+  "pris_min": 369.0,
+  "pris_max": 1699.0,
+  "pris_median": 409.0
+ },
+ "gid://shopify/Collection/526987002122": {
+  "totalt": 10,
+  "aktiva": 3,
+  "koopbara": 3,
+  "marken": [
+   [
+    "Tunturi",
+    2
+   ],
+   [
+    "BH Fitness",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    3
+   ]
+  ],
+  "pris_min": 3469.0,
+  "pris_max": 4649.0,
+  "pris_median": 3809.0
+ },
+ "gid://shopify/Collection/526987133194": {
+  "totalt": 10,
+  "aktiva": 8,
+  "koopbara": 8,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    4
+   ],
+   [
+    "Tunturi",
+    3
+   ],
+   [
+    "Toorx",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Skivstänger - 30mm",
+    4
+   ],
+   [
+    "Konditionsträning & Fitness",
+    4
+   ]
+  ],
+  "pris_min": 489.0,
+  "pris_max": 2159.0,
+  "pris_median": 604.0
+ },
+ "gid://shopify/Collection/526987264266": {
+  "totalt": 10,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/526987362570": {
+  "totalt": 4,
+  "aktiva": 1,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Handledsvikt",
+    1
+   ]
+  ],
+  "pris_min": 169.0,
+  "pris_max": 169.0,
+  "pris_median": 169.0
+ },
+ "gid://shopify/Collection/527683387658": {
+  "totalt": 104,
+  "aktiva": 48,
+  "koopbara": 42,
+  "marken": [
+   [
+    "Tunturi",
+    22
+   ],
+   [
+    "Hammer",
+    7
+   ],
+   [
+    "Gorilla Sports Norden",
+    6
+   ],
+   [
+    "Finnlo by Hammer",
+    3
+   ],
+   [
+    "Christopeit",
+    2
+   ],
+   [
+    "BH Fitness",
+    1
+   ],
+   [
+    "Toorx",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    35
+   ],
+   [
+    "Sissy Squat",
+    2
+   ],
+   [
+    "Viktställ - 30mm",
+    1
+   ],
+   [
+    "Viktställ - 50mm",
+    1
+   ],
+   [
+    "Hantelställ",
+    1
+   ],
+   [
+    "Träningsbänkar",
+    1
+   ],
+   [
+    "Professionell utrustning",
+    1
+   ]
+  ],
+  "pris_min": 119.0,
+  "pris_max": 50789.0,
+  "pris_median": 3189.0
+ },
+ "gid://shopify/Collection/527683813642": {
+  "totalt": 273,
+  "aktiva": 178,
+  "koopbara": 157,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    47
+   ],
+   [
+    "Tunturi",
+    46
+   ],
+   [
+    "Gymstick",
+    21
+   ],
+   [
+    "Toorx",
+    21
+   ],
+   [
+    "Hammer",
+    14
+   ],
+   [
+    "Christopeit",
+    6
+   ],
+   [
+    "Gorilla Sports",
+    1
+   ],
+   [
+    "Zipro",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    81
+   ],
+   [
+    "Viktskivor - 30mm",
+    31
+   ],
+   [
+    "Viktskivor - 50mm",
+    16
+   ],
+   [
+    "Professionell utrustning",
+    8
+   ],
+   [
+    "Viktskivor - 25mm",
+    1
+   ],
+   [
+    "Vikter och tillbehör",
+    1
+   ]
+  ],
+  "pris_min": 0.0,
+  "pris_max": 14529.0,
+  "pris_median": 1539.0
+ },
+ "gid://shopify/Collection/527683879178": {
+  "totalt": 57,
+  "aktiva": 44,
+  "koopbara": 42,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    35
+   ],
+   [
+    "Tunturi",
+    5
+   ],
+   [
+    "Christopeit",
+    1
+   ],
+   [
+    "Gymstick",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Viktskivor - 30mm",
+    25
+   ],
+   [
+    "Viktskivor - 50mm",
+    9
+   ],
+   [
+    "Konditionsträning & Fitness",
+    6
+   ],
+   [
+    "Viktskivor - 25mm",
+    1
+   ],
+   [
+    "Professionell utrustning",
+    1
+   ]
+  ],
+  "pris_min": 499.0,
+  "pris_max": 2969.0,
+  "pris_median": 1809.0
+ },
+ "gid://shopify/Collection/527683977482": {
+  "totalt": 228,
+  "aktiva": 105,
+  "koopbara": 95,
+  "marken": [
+   [
+    "Tunturi",
+    34
+   ],
+   [
+    "Gorilla Sports Norden",
+    27
+   ],
+   [
+    "Toorx",
+    17
+   ],
+   [
+    "Gymstick",
+    8
+   ],
+   [
+    "Gorilla Sports",
+    2
+   ],
+   [
+    "MAXXUS",
+    2
+   ],
+   [
+    "Zipro",
+    2
+   ],
+   [
+    "Spokey",
+    2
+   ],
+   [
+    "Hammer",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    32
+   ],
+   [
+    "Yoga",
+    11
+   ],
+   [
+    "Yogamattor",
+    11
+   ],
+   [
+    "Magträning - Hjul, stolar, gravity boots(ej bänk)",
+    7
+   ],
+   [
+    "Boxningsutrustning",
+    5
+   ],
+   [
+    "Extra vikter, tillbehör",
+    4
+   ],
+   [
+    "Boxning",
+    4
+   ],
+   [
+    "Plyobox",
+    3
+   ],
+   [
+    "Viktvästar",
+    2
+   ],
+   [
+    "Handledsvikt",
+    2
+   ],
+   [
+    "Träningsbollar",
+    2
+   ],
+   [
+    "Tillbehör",
+    1
+   ]
+  ],
+  "pris_min": 49.0,
+  "pris_max": 8159.0,
+  "pris_median": 359.0
+ },
+ "gid://shopify/Collection/527684043018": {
+  "totalt": 848,
+  "aktiva": 615,
+  "koopbara": 534,
+  "marken": [
+   [
+    "Tunturi",
+    238
+   ],
+   [
+    "Toorx",
+    127
+   ],
+   [
+    "Hammer",
+    63
+   ],
+   [
+    "BH Fitness",
+    38
+   ],
+   [
+    "Christopeit",
+    30
+   ],
+   [
+    "Trec",
+    14
+   ],
+   [
+    "Finnlo by Hammer",
+    10
+   ],
+   [
+    "Gymstick",
+    7
+   ],
+   [
+    "Spokey",
+    5
+   ],
+   [
+    "Zipro",
+    1
+   ],
+   [
+    "HMS",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    534
+   ]
+  ],
+  "pris_min": 0.0,
+  "pris_max": 41959.0,
+  "pris_median": 1639.0
+ },
+ "gid://shopify/Collection/527685026058": {
+  "totalt": 3,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/527687090442": {
+  "totalt": 4966,
+  "aktiva": 3363,
+  "koopbara": 2667,
+  "marken": [
+   [
+    "Gymstick",
+    333
+   ],
+   [
+    "Tunturi",
+    316
+   ],
+   [
+    "Giant",
+    239
+   ],
+   [
+    "Gorilla Sports Norden",
+    226
+   ],
+   [
+    "Romet",
+    140
+   ],
+   [
+    "Toorx",
+    129
+   ],
+   [
+    "Trec",
+    100
+   ],
+   [
+    "AXA",
+    84
+   ],
+   [
+    "Hammer",
+    73
+   ],
+   [
+    "Basil",
+    60
+   ],
+   [
+    "Tabou",
+    59
+   ],
+   [
+    "BH Fitness",
+    55
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    533
+   ],
+   [
+    "Tillbehör",
+    496
+   ],
+   [
+    "Cyklar",
+    378
+   ],
+   [
+    "Sparkcyklar",
+    89
+   ],
+   [
+    "Kosttillskott",
+    86
+   ],
+   [
+    "Damcyklar",
+    85
+   ],
+   [
+    "Cykeldelar",
+    65
+   ],
+   [
+    "Professionell utrustning",
+    35
+   ],
+   [
+    "Viktskivor - 30mm",
+    31
+   ],
+   [
+    "Vinterutrustning",
+    29
+   ],
+   [
+    "Kabelhandtag",
+    27
+   ],
+   [
+    "Pakethållare",
+    21
+   ]
+  ],
+  "pris_min": 0.0,
+  "pris_max": 103989.0,
+  "pris_median": 659.0
+ },
+ "gid://shopify/Collection/527687385354": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/527687483658": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/527687516426": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/528320594186": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/528321184010": {
+  "totalt": 7,
+  "aktiva": 1,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör",
+    1
+   ]
+  ],
+  "pris_min": 99.0,
+  "pris_max": 99.0,
+  "pris_median": 99.0
+ },
+ "gid://shopify/Collection/530837471498": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/530949636362": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/561572839690": {
+  "totalt": 932,
+  "aktiva": 725,
+  "koopbara": 383,
+  "marken": [
+   [
+    "Giant",
+    93
+   ],
+   [
+    "Romet",
+    91
+   ],
+   [
+    "Tabou",
+    58
+   ],
+   [
+    "S´COOL",
+    27
+   ],
+   [
+    "Academy",
+    27
+   ],
+   [
+    "ADO",
+    17
+   ],
+   [
+    "TENWAYS",
+    17
+   ],
+   [
+    "Kona",
+    14
+   ],
+   [
+    "Liv",
+    7
+   ],
+   [
+    "Excelsior",
+    6
+   ],
+   [
+    "Amladcykler",
+    5
+   ],
+   [
+    "Fiido",
+    4
+   ]
+  ],
+  "typer": [
+   [
+    "Cyklar",
+    378
+   ],
+   [
+    "Damcyklar",
+    5
+   ]
+  ],
+  "pris_min": 3199.0,
+  "pris_max": 103989.0,
+  "pris_median": 9619.0
+ },
+ "gid://shopify/Collection/561572937994": {
+  "totalt": 122,
+  "aktiva": 78,
+  "koopbara": 53,
+  "marken": [
+   [
+    "Giant",
+    12
+   ],
+   [
+    "Rideoo",
+    9
+   ],
+   [
+    "Romet",
+    7
+   ],
+   [
+    "Liv",
+    5
+   ],
+   [
+    "Urban Iki",
+    4
+   ],
+   [
+    "Basil",
+    4
+   ],
+   [
+    "Toorx",
+    2
+   ],
+   [
+    "SOKE",
+    2
+   ],
+   [
+    "Look",
+    2
+   ],
+   [
+    "AXA",
+    2
+   ],
+   [
+    "TENWAYS",
+    1
+   ],
+   [
+    "Christopeit",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Cyklar",
+    18
+   ],
+   [
+    "Sparkcyklar",
+    11
+   ],
+   [
+    "Tillbehör",
+    9
+   ],
+   [
+    "Damcyklar",
+    6
+   ],
+   [
+    "Barnstolar",
+    3
+   ],
+   [
+    "Konditionsträning & Fitness",
+    2
+   ],
+   [
+    "Crosstrainers",
+    1
+   ],
+   [
+    "Cykeldelar",
+    1
+   ],
+   [
+    "Cykellås",
+    1
+   ],
+   [
+    "Vinterutrustning",
+    1
+   ]
+  ],
+  "pris_min": 109.0,
+  "pris_max": 35989.0,
+  "pris_median": 6559.0
+ },
+ "gid://shopify/Collection/561573003530": {
+  "totalt": 72,
+  "aktiva": 48,
+  "koopbara": 17,
+  "marken": [
+   [
+    "Cargobike of Sweden",
+    8
+   ],
+   [
+    "Amladcykler",
+    3
+   ],
+   [
+    "Fiido",
+    2
+   ],
+   [
+    "Velomarket",
+    1
+   ],
+   [
+    "Cangoo",
+    1
+   ],
+   [
+    "Vogue Bike",
+    1
+   ],
+   [
+    "Momentum",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Cyklar",
+    12
+   ],
+   [
+    "Tillbehör för lastcyklar",
+    2
+   ],
+   [
+    "Lastcykeltillbehör",
+    1
+   ],
+   [
+    "Tillbehör",
+    1
+   ],
+   [
+    "Tillbehör för lådcyklar",
+    1
+   ]
+  ],
+  "pris_min": 9.0,
+  "pris_max": 79479.0,
+  "pris_median": 32479.0
+ },
+ "gid://shopify/Collection/561573069066": {
+  "totalt": 282,
+  "aktiva": 238,
+  "koopbara": 76,
+  "marken": [
+   [
+    "TENWAYS",
+    22
+   ],
+   [
+    "ADO",
+    17
+   ],
+   [
+    "Giant",
+    11
+   ],
+   [
+    "Fiido",
+    5
+   ],
+   [
+    "Engwe",
+    3
+   ],
+   [
+    "Cargobike of Sweden",
+    3
+   ],
+   [
+    "Romet",
+    2
+   ],
+   [
+    "Amladcykler",
+    2
+   ],
+   [
+    "AXA",
+    2
+   ],
+   [
+    "Limar",
+    1
+   ],
+   [
+    "Velomarket",
+    1
+   ],
+   [
+    "Vogue Bike",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Cyklar",
+    64
+   ],
+   [
+    "Damcyklar",
+    7
+   ],
+   [
+    "Tillbehör",
+    4
+   ],
+   [
+    "Elcyklar",
+    1
+   ]
+  ],
+  "pris_min": 179.0,
+  "pris_max": 103989.0,
+  "pris_median": 33919.0
+ },
+ "gid://shopify/Collection/561573134602": {
+  "totalt": 129,
+  "aktiva": 92,
+  "koopbara": 36,
+  "marken": [
+   [
+    "Giant",
+    14
+   ],
+   [
+    "Kona",
+    9
+   ],
+   [
+    "Liv",
+    7
+   ],
+   [
+    "Romet",
+    3
+   ],
+   [
+    "PRO",
+    1
+   ],
+   [
+    "TENWAYS",
+    1
+   ],
+   [
+    "Velomarket",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Cyklar",
+    26
+   ],
+   [
+    "Damcyklar",
+    7
+   ],
+   [
+    "Cykelväskor",
+    2
+   ],
+   [
+    "Tillbehör",
+    1
+   ]
+  ],
+  "pris_min": 339.0,
+  "pris_max": 49099.0,
+  "pris_median": 25434.0
+ },
+ "gid://shopify/Collection/561573200138": {
+  "totalt": 276,
+  "aktiva": 206,
+  "koopbara": 70,
+  "marken": [
+   [
+    "Giant",
+    35
+   ],
+   [
+    "Liv",
+    14
+   ],
+   [
+    "TENWAYS",
+    7
+   ],
+   [
+    "Continental",
+    4
+   ],
+   [
+    "Look",
+    2
+   ],
+   [
+    "Kona",
+    2
+   ],
+   [
+    "Hebie",
+    2
+   ],
+   [
+    "Zefal",
+    1
+   ],
+   [
+    "Nutcase",
+    1
+   ],
+   [
+    "Azimut",
+    1
+   ],
+   [
+    "OXC",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Cyklar",
+    41
+   ],
+   [
+    "Damcyklar",
+    12
+   ],
+   [
+    "Tillbehör",
+    8
+   ],
+   [
+    "Slangar",
+    4
+   ],
+   [
+    "Cykeldelar",
+    2
+   ],
+   [
+    "Cykelhjälm",
+    1
+   ],
+   [
+    "Pakethållare",
+    1
+   ],
+   [
+    "Styrtejp och handtag",
+    1
+   ]
+  ],
+  "pris_min": 49.0,
+  "pris_max": 58189.0,
+  "pris_median": 12024.0
+ },
+ "gid://shopify/Collection/561573298442": {
+  "totalt": 165,
+  "aktiva": 116,
+  "koopbara": 43,
+  "marken": [
+   [
+    "Giant",
+    30
+   ],
+   [
+    "Hammer",
+    3
+   ],
+   [
+    "Ass Savers",
+    2
+   ],
+   [
+    "Look",
+    2
+   ],
+   [
+    "Union",
+    2
+   ],
+   [
+    "Ibera",
+    1
+   ],
+   [
+    "Liv",
+    1
+   ],
+   [
+    "Shimano",
+    1
+   ],
+   [
+    "Nutcase",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Cyklar",
+    22
+   ],
+   [
+    "Tillbehör",
+    8
+   ],
+   [
+    "Cykeldelar",
+    5
+   ],
+   [
+    "Konditionsträning & Fitness",
+    3
+   ],
+   [
+    "Sparkcyklar",
+    2
+   ],
+   [
+    "Pakethållare",
+    1
+   ],
+   [
+    "Damcyklar",
+    1
+   ],
+   [
+    "Cykelhjälm",
+    1
+   ]
+  ],
+  "pris_min": 139.0,
+  "pris_max": 103819.0,
+  "pris_median": 21189.0
+ },
+ "gid://shopify/Collection/561573396746": {
+  "totalt": 15,
+  "aktiva": 10,
+  "koopbara": 8,
+  "marken": [
+   [
+    "ADO",
+    3
+   ],
+   [
+    "Romet",
+    2
+   ],
+   [
+    "Fiido",
+    1
+   ],
+   [
+    "Italwin",
+    1
+   ],
+   [
+    "COAST",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Cyklar",
+    7
+   ],
+   [
+    "Damcyklar",
+    1
+   ]
+  ],
+  "pris_min": 8099.0,
+  "pris_max": 28849.0,
+  "pris_median": 22899.0
+ },
+ "gid://shopify/Collection/561573462282": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/561573691658": {
+  "totalt": 227,
+  "aktiva": 166,
+  "koopbara": 98,
+  "marken": [
+   [
+    "Romet",
+    52
+   ],
+   [
+    "Liv",
+    24
+   ],
+   [
+    "Fila",
+    7
+   ],
+   [
+    "TENWAYS",
+    5
+   ],
+   [
+    "Trec",
+    4
+   ],
+   [
+    "Giant",
+    3
+   ],
+   [
+    "Tabou",
+    1
+   ],
+   [
+    "Fiido",
+    1
+   ],
+   [
+    "Italwin",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Damcyklar",
+    85
+   ],
+   [
+    "Utomhusträning",
+    4
+   ],
+   [
+    "Rullskridskor",
+    3
+   ],
+   [
+    "Konditionsträning & Fitness",
+    2
+   ],
+   [
+    "Kosttillskott",
+    2
+   ],
+   [
+    "Tillbehör",
+    1
+   ],
+   [
+    "Elcyklar",
+    1
+   ]
+  ],
+  "pris_min": 79.0,
+  "pris_max": 50669.0,
+  "pris_median": 8814.0
+ },
+ "gid://shopify/Collection/561573953802": {
+  "totalt": 14,
+  "aktiva": 12,
+  "koopbara": 11,
+  "marken": [
+   [
+    "Romet",
+    6
+   ],
+   [
+    "Giant",
+    2
+   ],
+   [
+    "Trec",
+    2
+   ],
+   [
+    "Tabou",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Cyklar",
+    9
+   ],
+   [
+    "Kosttillskott",
+    2
+   ]
+  ],
+  "pris_min": 119.0,
+  "pris_max": 12359.0,
+  "pris_median": 7609.0
+ },
+ "gid://shopify/Collection/561574052106": {
+  "totalt": 20,
+  "aktiva": 15,
+  "koopbara": 14,
+  "marken": [
+   [
+    "S´COOL",
+    6
+   ],
+   [
+    "Romet",
+    5
+   ],
+   [
+    "Tabou",
+    2
+   ],
+   [
+    "Liv",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Cyklar",
+    14
+   ]
+  ],
+  "pris_min": 5979.0,
+  "pris_max": 12329.0,
+  "pris_median": 7224.0
+ },
+ "gid://shopify/Collection/561574183178": {
+  "totalt": 141,
+  "aktiva": 97,
+  "koopbara": 89,
+  "marken": [
+   [
+    "Tabou",
+    32
+   ],
+   [
+    "Giant",
+    15
+   ],
+   [
+    "S´COOL",
+    11
+   ],
+   [
+    "Romet",
+    11
+   ],
+   [
+    "Academy",
+    3
+   ],
+   [
+    "Limar",
+    2
+   ],
+   [
+    "Peltonen",
+    2
+   ],
+   [
+    "Liv",
+    2
+   ],
+   [
+    "Alpina",
+    2
+   ],
+   [
+    "Fila",
+    2
+   ],
+   [
+    "Zefal",
+    1
+   ],
+   [
+    "Uniplast",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Cyklar",
+    70
+   ],
+   [
+    "Tillbehör",
+    9
+   ],
+   [
+    "Skidor",
+    3
+   ],
+   [
+    "Barnpjäxor",
+    1
+   ],
+   [
+    "Kombiskidpjäxor",
+    1
+   ],
+   [
+    "Barnstolar",
+    1
+   ],
+   [
+    "Rullskridskor",
+    1
+   ],
+   [
+    "Skridskor",
+    1
+   ],
+   [
+    "Flaskor och hållare",
+    1
+   ],
+   [
+    "Cykeldelar",
+    1
+   ]
+  ],
+  "pris_min": 69.0,
+  "pris_max": 20389.0,
+  "pris_median": 5789.0
+ },
+ "gid://shopify/Collection/561574347018": {
+  "totalt": 17,
+  "aktiva": 15,
+  "koopbara": 15,
+  "marken": [
+   [
+    "Tabou",
+    12
+   ],
+   [
+    "S´COOL",
+    3
+   ]
+  ],
+  "typer": [
+   [
+    "Cyklar",
+    15
+   ]
+  ],
+  "pris_min": 4369.0,
+  "pris_max": 7169.0,
+  "pris_median": 4909.0
+ },
+ "gid://shopify/Collection/561574412554": {
+  "totalt": 12,
+  "aktiva": 9,
+  "koopbara": 9,
+  "marken": [
+   [
+    "Tabou",
+    7
+   ],
+   [
+    "Giant",
+    1
+   ],
+   [
+    "Bobbin",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Cyklar",
+    9
+   ]
+  ],
+  "pris_min": 4479.0,
+  "pris_max": 7759.0,
+  "pris_median": 6349.0
+ },
+ "gid://shopify/Collection/561574543626": {
+  "totalt": 13,
+  "aktiva": 13,
+  "koopbara": 13,
+  "marken": [
+   [
+    "Giant",
+    4
+   ],
+   [
+    "S´COOL",
+    3
+   ],
+   [
+    "Liv",
+    3
+   ],
+   [
+    "Romet",
+    2
+   ],
+   [
+    "Tabou",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Cyklar",
+    13
+   ]
+  ],
+  "pris_min": 5769.0,
+  "pris_max": 13079.0,
+  "pris_median": 7599.0
+ },
+ "gid://shopify/Collection/561574707466": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/561574936842": {
+  "totalt": 20,
+  "aktiva": 7,
+  "koopbara": 7,
+  "marken": [
+   [
+    "Trec",
+    7
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    7
+   ]
+  ],
+  "pris_min": 99.0,
+  "pris_max": 429.0,
+  "pris_median": 169.0
+ },
+ "gid://shopify/Collection/561575035146": {
+  "totalt": 2,
+  "aktiva": 2,
+  "koopbara": 2,
+  "marken": [
+   [
+    "Trec",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    2
+   ]
+  ],
+  "pris_min": 199.0,
+  "pris_max": 239.0,
+  "pris_median": 219.0
+ },
+ "gid://shopify/Collection/561575067914": {
+  "totalt": 3,
+  "aktiva": 2,
+  "koopbara": 2,
+  "marken": [
+   [
+    "Trec",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    2
+   ]
+  ],
+  "pris_min": 139.0,
+  "pris_max": 369.0,
+  "pris_median": 254.0
+ },
+ "gid://shopify/Collection/561575133450": {
+  "totalt": 816,
+  "aktiva": 486,
+  "koopbara": 461,
+  "marken": [
+   [
+    "Giant",
+    110
+   ],
+   [
+    "AXA",
+    53
+   ],
+   [
+    "Basil",
+    39
+   ],
+   [
+    "Bookman",
+    30
+   ],
+   [
+    "SevenPolska",
+    30
+   ],
+   [
+    "Hebie",
+    21
+   ],
+   [
+    "Selle Monte Grappa",
+    16
+   ],
+   [
+    "Squire",
+    15
+   ],
+   [
+    "SKS",
+    15
+   ],
+   [
+    "Liv",
+    13
+   ],
+   [
+    "Melon",
+    13
+   ],
+   [
+    "Velomarket",
+    12
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör",
+    453
+   ],
+   [
+    "Extra vikter, tillbehör",
+    7
+   ],
+   [
+    "Tilläggsvikter, tillbehör",
+    1
+   ]
+  ],
+  "pris_min": 19.0,
+  "pris_max": 5339.0,
+  "pris_median": 289.0
+ },
+ "gid://shopify/Collection/561575198986": {
+  "totalt": 9,
+  "aktiva": 6,
+  "koopbara": 6,
+  "marken": [
+   [
+    "Basil",
+    2
+   ],
+   [
+    "Cargobike of Sweden",
+    1
+   ],
+   [
+    "Romet",
+    1
+   ],
+   [
+    "Amladcykler",
+    1
+   ],
+   [
+    "Selle Monte Grappa",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Cykeltillbehör",
+    3
+   ],
+   [
+    "Tillbehör för lådcyklar",
+    1
+   ],
+   [
+    "Cyklar",
+    1
+   ],
+   [
+    "Tillbehör",
+    1
+   ]
+  ],
+  "pris_min": 199.0,
+  "pris_max": 6779.0,
+  "pris_median": 1149.0
+ },
+ "gid://shopify/Collection/561575297290": {
+  "totalt": 79,
+  "aktiva": 51,
+  "koopbara": 45,
+  "marken": [
+   [
+    "Basil",
+    30
+   ],
+   [
+    "Romet",
+    6
+   ],
+   [
+    "SevenPolska",
+    4
+   ],
+   [
+    "Spencer",
+    3
+   ],
+   [
+    "Velomarket",
+    1
+   ],
+   [
+    "M-Wave",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör",
+    27
+   ],
+   [
+    "Cykelkorgar",
+    10
+   ],
+   [
+    "Damcyklar",
+    6
+   ],
+   [
+    "Cykeltillbehör",
+    2
+   ]
+  ],
+  "pris_min": 49.0,
+  "pris_max": 10239.0,
+  "pris_median": 449.0
+ },
+ "gid://shopify/Collection/561575330058": {
+  "totalt": 24,
+  "aktiva": 17,
+  "koopbara": 17,
+  "marken": [
+   [
+    "Basil",
+    17
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör",
+    12
+   ],
+   [
+    "Cykelväskor",
+    4
+   ],
+   [
+    "Pakethållare",
+    1
+   ]
+  ],
+  "pris_min": 59.0,
+  "pris_max": 1789.0,
+  "pris_median": 669.0
+ },
+ "gid://shopify/Collection/561575428362": {
+  "totalt": 41,
+  "aktiva": 20,
+  "koopbara": 20,
+  "marken": [
+   [
+    "Limar",
+    9
+   ],
+   [
+    "Nutcase",
+    4
+   ],
+   [
+    "Lazer",
+    4
+   ],
+   [
+    "Liv",
+    2
+   ],
+   [
+    "Bobbin",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Cykelhjälm",
+    19
+   ],
+   [
+    "Cykelhjälmar",
+    1
+   ]
+  ],
+  "pris_min": 319.0,
+  "pris_max": 2059.0,
+  "pris_median": 1569.0
+ },
+ "gid://shopify/Collection/561575526666": {
+  "totalt": 7,
+  "aktiva": 4,
+  "koopbara": 4,
+  "marken": [
+   [
+    "SevenPolska",
+    2
+   ],
+   [
+    "Toorx",
+    1
+   ],
+   [
+    "Tunturi",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör",
+    2
+   ],
+   [
+    "Konditionsträning & Fitness",
+    1
+   ],
+   [
+    "Boxningsutrustning",
+    1
+   ]
+  ],
+  "pris_min": 109.0,
+  "pris_max": 259.0,
+  "pris_median": 199.0
+ },
+ "gid://shopify/Collection/561575624970": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/561575723274": {
+  "totalt": 5,
+  "aktiva": 2,
+  "koopbara": 2,
+  "marken": [
+   [
+    "Basil",
+    1
+   ],
+   [
+    "Giant",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör",
+    2
+   ]
+  ],
+  "pris_min": 39.0,
+  "pris_max": 129.0,
+  "pris_median": 84.0
+ },
+ "gid://shopify/Collection/561575756042": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/561575854346": {
+  "totalt": 9,
+  "aktiva": 4,
+  "koopbara": 2,
+  "marken": [
+   [
+    "Polisport",
+    1
+   ],
+   [
+    "Urban Iki",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Barnstolar",
+    2
+   ]
+  ],
+  "pris_min": 749.0,
+  "pris_max": 1589.0,
+  "pris_median": 1169.0
+ },
+ "gid://shopify/Collection/561575887114": {
+  "totalt": 113,
+  "aktiva": 71,
+  "koopbara": 71,
+  "marken": [
+   [
+    "AXA",
+    39
+   ],
+   [
+    "Squire",
+    15
+   ],
+   [
+    "Giant",
+    8
+   ],
+   [
+    "Velomarket",
+    2
+   ],
+   [
+    "Liv",
+    2
+   ],
+   [
+    "M-Wave",
+    2
+   ],
+   [
+    "Toorx",
+    1
+   ],
+   [
+    "Shimano",
+    1
+   ],
+   [
+    "Tunturi",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör",
+    50
+   ],
+   [
+    "Cykellås",
+    16
+   ],
+   [
+    "Vikbara lås",
+    1
+   ],
+   [
+    "Fällbara lås",
+    1
+   ],
+   [
+    "Konditionsträning & Fitness",
+    1
+   ],
+   [
+    "Cykeldelar",
+    1
+   ],
+   [
+    "Hantlar & Viktskivor",
+    1
+   ]
+  ],
+  "pris_min": 89.0,
+  "pris_max": 5339.0,
+  "pris_median": 439.0
+ },
+ "gid://shopify/Collection/561575952650": {
+  "totalt": 31,
+  "aktiva": 15,
+  "koopbara": 15,
+  "marken": [
+   [
+    "Giant",
+    7
+   ],
+   [
+    "Look",
+    4
+   ],
+   [
+    "Kona",
+    3
+   ],
+   [
+    "Tunturi",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Cykeldelar",
+    8
+   ],
+   [
+    "Tillbehör",
+    6
+   ],
+   [
+    "Konditionsträning & Fitness",
+    1
+   ]
+  ],
+  "pris_min": 279.0,
+  "pris_max": 3019.0,
+  "pris_median": 1589.0
+ },
+ "gid://shopify/Collection/561575985418": {
+  "totalt": 64,
+  "aktiva": 45,
+  "koopbara": 41,
+  "marken": [
+   [
+    "Hebie",
+    15
+   ],
+   [
+    "SKS",
+    13
+   ],
+   [
+    "Giant",
+    6
+   ],
+   [
+    "Ass Savers",
+    3
+   ],
+   [
+    "Velomarket",
+    2
+   ],
+   [
+    "XLC",
+    1
+   ],
+   [
+    "AXA",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör",
+    33
+   ],
+   [
+    "Stänkskärmar",
+    7
+   ],
+   [
+    "Stänkskydd",
+    1
+   ]
+  ],
+  "pris_min": 79.0,
+  "pris_max": 2569.0,
+  "pris_median": 299.0
+ },
+ "gid://shopify/Collection/561576018186": {
+  "totalt": 82,
+  "aktiva": 56,
+  "koopbara": 43,
+  "marken": [
+   [
+    "Basil",
+    17
+   ],
+   [
+    "Velomarket",
+    8
+   ],
+   [
+    "Tunturi",
+    7
+   ],
+   [
+    "Racktime",
+    5
+   ],
+   [
+    "BH Fitness",
+    1
+   ],
+   [
+    "Giant",
+    1
+   ],
+   [
+    "Ibera",
+    1
+   ],
+   [
+    "Hammer",
+    1
+   ],
+   [
+    "M-Wave",
+    1
+   ],
+   [
+    "Azimut",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Pakethållare",
+    21
+   ],
+   [
+    "Konditionsträning & Fitness",
+    8
+   ],
+   [
+    "Tillbehör",
+    6
+   ],
+   [
+    "Cykelkorgar",
+    3
+   ],
+   [
+    "Professionell utrustning",
+    1
+   ],
+   [
+    "Bagagebärare",
+    1
+   ],
+   [
+    "Cykeltillbehör",
+    1
+   ],
+   [
+    "Cykelväskor",
+    1
+   ]
+  ],
+  "pris_min": 59.0,
+  "pris_max": 17529.0,
+  "pris_median": 629.0
+ },
+ "gid://shopify/Collection/561576083722": {
+  "totalt": 20,
+  "aktiva": 16,
+  "koopbara": 16,
+  "marken": [
+   [
+    "Limar",
+    13
+   ],
+   [
+    "Cairn",
+    3
+   ]
+  ],
+  "typer": [
+   [
+    "Solglasögon",
+    13
+   ],
+   [
+    "Tillbehör",
+    3
+   ]
+  ],
+  "pris_min": 179.0,
+  "pris_max": 28519.0,
+  "pris_median": 1694.0
+ },
+ "gid://shopify/Collection/561576313098": {
+  "totalt": 25,
+  "aktiva": 14,
+  "koopbara": 14,
+  "marken": [
+   [
+    "Giant",
+    6
+   ],
+   [
+    "Liv",
+    5
+   ],
+   [
+    "Excelsior",
+    1
+   ],
+   [
+    "Beany",
+    1
+   ],
+   [
+    "Fell",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Flaskor och hållare",
+    14
+   ]
+  ],
+  "pris_min": 9.0,
+  "pris_max": 1629.0,
+  "pris_median": 74.0
+ },
+ "gid://shopify/Collection/561576476938": {
+  "totalt": 33,
+  "aktiva": 25,
+  "koopbara": 19,
+  "marken": [
+   [
+    "Giant",
+    6
+   ],
+   [
+    "Tunturi",
+    4
+   ],
+   [
+    "SKS",
+    2
+   ],
+   [
+    "Beto",
+    1
+   ],
+   [
+    "PRO",
+    1
+   ],
+   [
+    "Gymstick",
+    1
+   ],
+   [
+    "M-Wave",
+    1
+   ],
+   [
+    "OXC",
+    1
+   ],
+   [
+    "Liv",
+    1
+   ],
+   [
+    "Velomarket",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör",
+    10
+   ],
+   [
+    "Konditionsträning & Fitness",
+    4
+   ],
+   [
+    "Minipump",
+    2
+   ],
+   [
+    "Cykeldelar",
+    2
+   ],
+   [
+    "Professionell utrustning",
+    1
+   ]
+  ],
+  "pris_min": 89.0,
+  "pris_max": 2969.0,
+  "pris_median": 459.0
+ },
+ "gid://shopify/Collection/561576575242": {
+  "totalt": 51,
+  "aktiva": 29,
+  "koopbara": 28,
+  "marken": [
+   [
+    "Selle Monte Grappa",
+    12
+   ],
+   [
+    "Giant",
+    6
+   ],
+   [
+    "Basil",
+    5
+   ],
+   [
+    "Liv",
+    2
+   ],
+   [
+    "Tunturi",
+    1
+   ],
+   [
+    "Velo",
+    1
+   ],
+   [
+    "M-Wave",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör",
+    19
+   ],
+   [
+    "Cykelväskor",
+    5
+   ],
+   [
+    "Cykeldelar",
+    3
+   ],
+   [
+    "Konditionsträning & Fitness",
+    1
+   ]
+  ],
+  "pris_min": 79.0,
+  "pris_max": 1619.0,
+  "pris_median": 289.0
+ },
+ "gid://shopify/Collection/561576739082": {
+  "totalt": 75,
+  "aktiva": 51,
+  "koopbara": 49,
+  "marken": [
+   [
+    "AXA",
+    23
+   ],
+   [
+    "Giant",
+    8
+   ],
+   [
+    "Bookman",
+    3
+   ],
+   [
+    "Tunturi",
+    3
+   ],
+   [
+    "M-Wave",
+    2
+   ],
+   [
+    "Polisport",
+    1
+   ],
+   [
+    "Limar",
+    1
+   ],
+   [
+    "S´COOL",
+    1
+   ],
+   [
+    "Toorx",
+    1
+   ],
+   [
+    "TENWAYS",
+    1
+   ],
+   [
+    "Basil",
+    1
+   ],
+   [
+    "ADO",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör",
+    26
+   ],
+   [
+    "Cykellampor",
+    12
+   ],
+   [
+    "Cyklar",
+    4
+   ],
+   [
+    "Konditionsträning & Fitness",
+    3
+   ],
+   [
+    "Barnstolar",
+    1
+   ],
+   [
+    "Solglasögon",
+    1
+   ],
+   [
+    "Stretchband",
+    1
+   ],
+   [
+    "Cykelhjälm",
+    1
+   ]
+  ],
+  "pris_min": 49.0,
+  "pris_max": 32209.0,
+  "pris_median": 319.0
+ },
+ "gid://shopify/Collection/561576935690": {
+  "totalt": 17,
+  "aktiva": 12,
+  "koopbara": 11,
+  "marken": [
+   [
+    "Hebie",
+    6
+   ],
+   [
+    "Azimut",
+    2
+   ],
+   [
+    "Academy",
+    2
+   ],
+   [
+    "OXC",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör",
+    9
+   ],
+   [
+    "Cykelstöd",
+    1
+   ],
+   [
+    "Cykeldelar",
+    1
+   ]
+  ],
+  "pris_min": 0.0,
+  "pris_max": 469.0,
+  "pris_median": 309.0
+ },
+ "gid://shopify/Collection/561577066762": {
+  "totalt": 7,
+  "aktiva": 1,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Cargobike of Sweden",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör för lådcyklar",
+    1
+   ]
+  ],
+  "pris_min": 319.0,
+  "pris_max": 319.0,
+  "pris_median": 319.0
+ },
+ "gid://shopify/Collection/561577328906": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/561577492746": {
+  "totalt": 1,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/561577558282": {
+  "totalt": 28,
+  "aktiva": 21,
+  "koopbara": 21,
+  "marken": [
+   [
+    "Continental",
+    21
+   ]
+  ],
+  "typer": [
+   [
+    "Slangar",
+    20
+   ],
+   [
+    "Tillbehör",
+    1
+   ]
+  ],
+  "pris_min": 69.0,
+  "pris_max": 99.0,
+  "pris_median": 89.0
+ },
+ "gid://shopify/Collection/561577656586": {
+  "totalt": 24,
+  "aktiva": 5,
+  "koopbara": 2,
+  "marken": [
+   [
+    "Velomarket",
+    1
+   ],
+   [
+    "Giant",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör",
+    2
+   ]
+  ],
+  "pris_min": 199.0,
+  "pris_max": 239.0,
+  "pris_median": 219.0
+ },
+ "gid://shopify/Collection/561577689354": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/561577722122": {
+  "totalt": 48,
+  "aktiva": 32,
+  "koopbara": 32,
+  "marken": [
+   [
+    "Shimano",
+    12
+   ],
+   [
+    "AXA",
+    10
+   ],
+   [
+    "Squire",
+    4
+   ],
+   [
+    "Velomarket",
+    2
+   ],
+   [
+    "Giant",
+    2
+   ],
+   [
+    "M-Wave",
+    1
+   ],
+   [
+    "Tunturi",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Cykeldelar",
+    14
+   ],
+   [
+    "Tillbehör",
+    11
+   ],
+   [
+    "Cykellås",
+    6
+   ],
+   [
+    "Konditionsträning & Fitness",
+    1
+   ]
+  ],
+  "pris_min": 99.0,
+  "pris_max": 1779.0,
+  "pris_median": 319.0
+ },
+ "gid://shopify/Collection/561577787658": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/561577820426": {
+  "totalt": 3,
+  "aktiva": 1,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Shimano",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Cykeldelar",
+    1
+   ]
+  ],
+  "pris_min": 139.0,
+  "pris_max": 139.0,
+  "pris_median": 139.0
+ },
+ "gid://shopify/Collection/561577951498": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/561577984266": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/561578246410": {
+  "totalt": 531,
+  "aktiva": 371,
+  "koopbara": 317,
+  "marken": [
+   [
+    "Tunturi",
+    317
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    238
+   ],
+   [
+    "Professionell utrustning",
+    17
+   ],
+   [
+    "Yogamattor",
+    13
+   ],
+   [
+    "Boxningsutrustning",
+    9
+   ],
+   [
+    "Extra vikter, tillbehör",
+    7
+   ],
+   [
+    "Stretchband",
+    6
+   ],
+   [
+    "Massage",
+    5
+   ],
+   [
+    "Crosstrainers",
+    4
+   ],
+   [
+    "Träningsbollar",
+    4
+   ],
+   [
+    "Tillbehör",
+    4
+   ],
+   [
+    "Magträningshjul",
+    2
+   ],
+   [
+    "Utomhusträning",
+    2
+   ]
+  ],
+  "pris_min": 0.0,
+  "pris_max": 50789.0,
+  "pris_median": 769.0
+ },
+ "gid://shopify/Collection/561578344714": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/561578410250": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/561578606858": {
+  "totalt": 127,
+  "aktiva": 103,
+  "koopbara": 73,
+  "marken": [
+   [
+    "Hammer",
+    73
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    63
+   ],
+   [
+    "Crosstrainers",
+    6
+   ],
+   [
+    "Professionell utrustning",
+    2
+   ],
+   [
+    "Utomhusträning",
+    2
+   ]
+  ],
+  "pris_min": 219.0,
+  "pris_max": 38389.0,
+  "pris_median": 5589.0
+ },
+ "gid://shopify/Collection/561578639626": {
+  "totalt": 119,
+  "aktiva": 104,
+  "koopbara": 55,
+  "marken": [
+   [
+    "BH Fitness",
+    55
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    38
+   ],
+   [
+    "Professionell utrustning",
+    14
+   ],
+   [
+    "Crosstrainers",
+    3
+   ]
+  ],
+  "pris_min": 519.0,
+  "pris_max": 35429.0,
+  "pris_median": 13129.0
+ },
+ "gid://shopify/Collection/561578737930": {
+  "totalt": 175,
+  "aktiva": 138,
+  "koopbara": 129,
+  "marken": [
+   [
+    "Toorx",
+    129
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    127
+   ],
+   [
+    "Skridskor",
+    1
+   ],
+   [
+    "Tillbehör",
+    1
+   ]
+  ],
+  "pris_min": 49.0,
+  "pris_max": 22169.0,
+  "pris_median": 469.0
+ },
+ "gid://shopify/Collection/561578770698": {
+  "totalt": 4,
+  "aktiva": 4,
+  "koopbara": 3,
+  "marken": [
+   [
+    "MAXXUS",
+    3
+   ]
+  ],
+  "typer": [
+   [
+    "Boxning",
+    2
+   ],
+   [
+    "pulsmätare",
+    1
+   ]
+  ],
+  "pris_min": 1019.0,
+  "pris_max": 1299.0,
+  "pris_median": 1169.0
+ },
+ "gid://shopify/Collection/561578869002": {
+  "totalt": 681,
+  "aktiva": 293,
+  "koopbara": 232,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    226
+   ],
+   [
+    "Gorilla Sports",
+    6
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör",
+    43
+   ],
+   [
+    "Viktskivor - 30mm",
+    31
+   ],
+   [
+    "Kabelhandtag",
+    27
+   ],
+   [
+    "Viktskivor - 50mm",
+    16
+   ],
+   [
+    "Yoga",
+    12
+   ],
+   [
+    "Gummiband",
+    9
+   ],
+   [
+    "Skivstångspaket - 30mm",
+    8
+   ],
+   [
+    "Hantelstänger",
+    8
+   ],
+   [
+    "Skivstänger - 30mm",
+    7
+   ],
+   [
+    "Magträning - Hjul, stolar, gravity boots(ej bänk)",
+    7
+   ],
+   [
+    "Viktlås",
+    5
+   ],
+   [
+    "Parallettes",
+    4
+   ]
+  ],
+  "pris_min": 39.0,
+  "pris_max": 9699.0,
+  "pris_median": 584.0
+ },
+ "gid://shopify/Collection/561578967306": {
+  "totalt": 605,
+  "aktiva": 430,
+  "koopbara": 239,
+  "marken": [
+   [
+    "Giant",
+    239
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör",
+    110
+   ],
+   [
+    "Cyklar",
+    93
+   ],
+   [
+    "Cykelkläder",
+    11
+   ],
+   [
+    "Cykeldelar",
+    8
+   ],
+   [
+    "Flaskor och hållare",
+    6
+   ],
+   [
+    "Cykelväskor",
+    3
+   ],
+   [
+    "Cykellås",
+    2
+   ],
+   [
+    "Cykellampor",
+    2
+   ],
+   [
+    "Damcyklar",
+    2
+   ],
+   [
+    "Bagagebärare",
+    1
+   ],
+   [
+    "Stänkskydd",
+    1
+   ]
+  ],
+  "pris_min": 39.0,
+  "pris_max": 103989.0,
+  "pris_median": 739.0
+ },
+ "gid://shopify/Collection/561579032842": {
+  "totalt": 155,
+  "aktiva": 113,
+  "koopbara": 55,
+  "marken": [
+   [
+    "Liv",
+    55
+   ]
+  ],
+  "typer": [
+   [
+    "Damcyklar",
+    24
+   ],
+   [
+    "Tillbehör",
+    13
+   ],
+   [
+    "Cyklar",
+    7
+   ],
+   [
+    "Flaskor och hållare",
+    5
+   ],
+   [
+    "Cykeldelar",
+    2
+   ],
+   [
+    "Cykelhjälm",
+    2
+   ],
+   [
+    "Cykelkläder",
+    1
+   ],
+   [
+    "Minipump",
+    1
+   ]
+  ],
+  "pris_min": 59.0,
+  "pris_max": 32309.0,
+  "pris_median": 8349.0
+ },
+ "gid://shopify/Collection/561579098378": {
+  "totalt": 107,
+  "aktiva": 79,
+  "koopbara": 21,
+  "marken": [
+   [
+    "Kona",
+    21
+   ]
+  ],
+  "typer": [
+   [
+    "Cyklar",
+    14
+   ],
+   [
+    "Tillbehör",
+    4
+   ],
+   [
+    "Cykeldelar",
+    3
+   ]
+  ],
+  "pris_min": 1719.0,
+  "pris_max": 46099.0,
+  "pris_median": 16279.0
+ },
+ "gid://shopify/Collection/561579131146": {
+  "totalt": 85,
+  "aktiva": 60,
+  "koopbara": 60,
+  "marken": [
+   [
+    "Basil",
+    60
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör",
+    39
+   ],
+   [
+    "Pakethållare",
+    7
+   ],
+   [
+    "Cykelkorgar",
+    7
+   ],
+   [
+    "Cykelväskor",
+    5
+   ],
+   [
+    "Cykeltillbehör",
+    2
+   ]
+  ],
+  "pris_min": 59.0,
+  "pris_max": 1919.0,
+  "pris_median": 449.0
+ },
+ "gid://shopify/Collection/561579229450": {
+  "totalt": 25,
+  "aktiva": 10,
+  "koopbara": 10,
+  "marken": [
+   [
+    "Cairn",
+    10
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör",
+    10
+   ]
+  ],
+  "pris_min": 179.0,
+  "pris_max": 479.0,
+  "pris_median": 384.0
+ },
+ "gid://shopify/Collection/561579426058": {
+  "totalt": 24,
+  "aktiva": 17,
+  "koopbara": 17,
+  "marken": [
+   [
+    "Selle Monte Grappa",
+    17
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör",
+    16
+   ],
+   [
+    "Stänkskydd",
+    1
+   ]
+  ],
+  "pris_min": 29.0,
+  "pris_max": 1619.0,
+  "pris_median": 209.0
+ },
+ "gid://shopify/Collection/561579491594": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/561579557130": {
+  "totalt": 166,
+  "aktiva": 100,
+  "koopbara": 100,
+  "marken": [
+   [
+    "Trec",
+    100
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    86
+   ],
+   [
+    "Konditionsträning & Fitness",
+    14
+   ]
+  ],
+  "pris_min": 19.0,
+  "pris_max": 1819.0,
+  "pris_median": 129.0
+ },
+ "gid://shopify/Collection/561585717514": {
+  "totalt": 194,
+  "aktiva": 117,
+  "koopbara": 109,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    52
+   ],
+   [
+    "Tunturi",
+    24
+   ],
+   [
+    "Toorx",
+    15
+   ],
+   [
+    "Hammer",
+    10
+   ],
+   [
+    "Christopeit",
+    4
+   ],
+   [
+    "Gymstick",
+    3
+   ],
+   [
+    "Finnlo by Hammer",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    52
+   ],
+   [
+    "Viktskivor - 30mm",
+    30
+   ],
+   [
+    "Viktskivor - 50mm",
+    16
+   ],
+   [
+    "Sissy Squat",
+    2
+   ],
+   [
+    "Justerbara hantelset",
+    1
+   ],
+   [
+    "Viktskivor - 25mm",
+    1
+   ],
+   [
+    "Wallball",
+    1
+   ],
+   [
+    "Hantelstänger",
+    1
+   ],
+   [
+    "Vikter och tillbehör",
+    1
+   ],
+   [
+    "Professionell utrustning",
+    1
+   ]
+  ],
+  "pris_min": 39.0,
+  "pris_max": 50789.0,
+  "pris_median": 1679.0
+ },
+ "gid://shopify/Collection/561585979658": {
+  "totalt": 2,
+  "aktiva": 1,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör",
+    1
+   ]
+  ],
+  "pris_min": 1749.0,
+  "pris_max": 1749.0,
+  "pris_median": 1749.0
+ },
+ "gid://shopify/Collection/561587454218": {
+  "totalt": 172,
+  "aktiva": 140,
+  "koopbara": 140,
+  "marken": [
+   [
+    "Romet",
+    140
+   ]
+  ],
+  "typer": [
+   [
+    "Cyklar",
+    87
+   ],
+   [
+    "Damcyklar",
+    52
+   ],
+   [
+    "Cykeltillbehör",
+    1
+   ]
+  ],
+  "pris_min": 4669.0,
+  "pris_max": 23639.0,
+  "pris_median": 8104.0
+ },
+ "gid://shopify/Collection/561663901962": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/561666883850": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/561667211530": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/561667440906": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/561667801354": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/561667965194": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/561668129034": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/561793859850": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/561794154762": {
+  "totalt": 7,
+  "aktiva": 1,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör",
+    1
+   ]
+  ],
+  "pris_min": 99.0,
+  "pris_max": 99.0,
+  "pris_median": 99.0
+ },
+ "gid://shopify/Collection/561794253066": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/561794285834": {
+  "totalt": 1,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/561794318602": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/561794416906": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/561794580746": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/561794646282": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/561794744586": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/561794842890": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562100863242": {
+  "totalt": 57,
+  "aktiva": 38,
+  "koopbara": 35,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    35
+   ]
+  ],
+  "typer": [
+   [
+    "Viktskivor - 30mm",
+    23
+   ],
+   [
+    "Viktskivor - 50mm",
+    10
+   ],
+   [
+    "Wallball",
+    1
+   ],
+   [
+    "Viktskivor - 25mm",
+    1
+   ]
+  ],
+  "pris_min": 499.0,
+  "pris_max": 2409.0,
+  "pris_median": 1819.0
+ },
+ "gid://shopify/Collection/562100896010": {
+  "totalt": 22,
+  "aktiva": 1,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Boxning",
+    1
+   ]
+  ],
+  "pris_min": 2589.0,
+  "pris_max": 2589.0,
+  "pris_median": 2589.0
+ },
+ "gid://shopify/Collection/562100961546": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562101059850": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562101158154": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562101256458": {
+  "totalt": 8,
+  "aktiva": 3,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562101289226": {
+  "totalt": 16,
+  "aktiva": 9,
+  "koopbara": 7,
+  "marken": [
+   [
+    "Tunturi",
+    5
+   ],
+   [
+    "Christopeit",
+    1
+   ],
+   [
+    "Gymstick",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    6
+   ],
+   [
+    "Professionell utrustning",
+    1
+   ]
+  ],
+  "pris_min": 639.0,
+  "pris_max": 2969.0,
+  "pris_median": 1779.0
+ },
+ "gid://shopify/Collection/562101354762": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562101387530": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562101453066": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562101649674": {
+  "totalt": 41,
+  "aktiva": 35,
+  "koopbara": 35,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    35
+   ]
+  ],
+  "typer": [
+   [
+    "Viktskivor - 30mm",
+    25
+   ],
+   [
+    "Viktskivor - 50mm",
+    9
+   ],
+   [
+    "Viktskivor - 25mm",
+    1
+   ]
+  ],
+  "pris_min": 499.0,
+  "pris_max": 2409.0,
+  "pris_median": 1819.0
+ },
+ "gid://shopify/Collection/562162630922": {
+  "totalt": 3,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562534383882": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562535072010": {
+  "totalt": 9,
+  "aktiva": 2,
+  "koopbara": 2,
+  "marken": [
+   [
+    "Toorx",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    2
+   ]
+  ],
+  "pris_min": 779.0,
+  "pris_max": 789.0,
+  "pris_median": 784.0
+ },
+ "gid://shopify/Collection/562535530762": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562536546570": {
+  "totalt": 4,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562536808714": {
+  "totalt": 1,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562537136394": {
+  "totalt": 7,
+  "aktiva": 2,
+  "koopbara": 2,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Träningsboll",
+    1
+   ],
+   [
+    "Wallball",
+    1
+   ]
+  ],
+  "pris_min": 599.0,
+  "pris_max": 1629.0,
+  "pris_median": 1114.0
+ },
+ "gid://shopify/Collection/562596970762": {
+  "totalt": 4,
+  "aktiva": 4,
+  "koopbara": 4,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    4
+   ]
+  ],
+  "typer": [
+   [
+    "Viktskivor - 30mm",
+    2
+   ],
+   [
+    "Viktskivor - 50mm",
+    2
+   ]
+  ],
+  "pris_min": 39.0,
+  "pris_max": 799.0,
+  "pris_median": 649.0
+ },
+ "gid://shopify/Collection/562597069066": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562597331210": {
+  "totalt": 14,
+  "aktiva": 9,
+  "koopbara": 9,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    9
+   ]
+  ],
+  "typer": [
+   [
+    "Viktskivor - 30mm",
+    5
+   ],
+   [
+    "Viktskivor - 50mm",
+    4
+   ]
+  ],
+  "pris_min": 99.0,
+  "pris_max": 2409.0,
+  "pris_median": 1799.0
+ },
+ "gid://shopify/Collection/562597560586": {
+  "totalt": 10,
+  "aktiva": 6,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562598281482": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562598478090": {
+  "totalt": 7,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562598641930": {
+  "totalt": 15,
+  "aktiva": 12,
+  "koopbara": 10,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    10
+   ]
+  ],
+  "typer": [
+   [
+    "Skivstångspaket - 30mm",
+    5
+   ],
+   [
+    "Skivstänger - 30mm",
+    3
+   ],
+   [
+    "Skivstänger - 50mm",
+    1
+   ],
+   [
+    "Skivstångspaket 25mm",
+    1
+   ]
+  ],
+  "pris_min": 719.0,
+  "pris_max": 3599.0,
+  "pris_median": 2034.0
+ },
+ "gid://shopify/Collection/562599723274": {
+  "totalt": 3,
+  "aktiva": 2,
+  "koopbara": 2,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Skivstänger - 30mm",
+    2
+   ]
+  ],
+  "pris_min": 719.0,
+  "pris_max": 959.0,
+  "pris_median": 839.0
+ },
+ "gid://shopify/Collection/562600542474": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562607718666": {
+  "totalt": 9,
+  "aktiva": 7,
+  "koopbara": 6,
+  "marken": [
+   [
+    "Tunturi",
+    4
+   ],
+   [
+    "Christopeit",
+    1
+   ],
+   [
+    "Gymstick",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    5
+   ],
+   [
+    "Professionell utrustning",
+    1
+   ]
+  ],
+  "pris_min": 639.0,
+  "pris_max": 2969.0,
+  "pris_median": 1674.0
+ },
+ "gid://shopify/Collection/562608668938": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562609193226": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562609586442": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562609946890": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562610733322": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562611716362": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562612011274": {
+  "totalt": 2,
+  "aktiva": 2,
+  "koopbara": 2,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Viktskivor - 30mm",
+    2
+   ]
+  ],
+  "pris_min": 499.0,
+  "pris_max": 799.0,
+  "pris_median": 649.0
+ },
+ "gid://shopify/Collection/562612371722": {
+  "totalt": 26,
+  "aktiva": 10,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Gummiband",
+    1
+   ]
+  ],
+  "pris_min": 39.0,
+  "pris_max": 39.0,
+  "pris_median": 39.0
+ },
+ "gid://shopify/Collection/562612928778": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562613059850": {
+  "totalt": 4,
+  "aktiva": 1,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Tunturi",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    1
+   ]
+  ],
+  "pris_min": 2019.0,
+  "pris_max": 2019.0,
+  "pris_median": 2019.0
+ },
+ "gid://shopify/Collection/562613485834": {
+  "totalt": 5,
+  "aktiva": 1,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Viktställ - 30mm",
+    1
+   ]
+  ],
+  "pris_min": 2649.0,
+  "pris_max": 2649.0,
+  "pris_median": 2649.0
+ },
+ "gid://shopify/Collection/562614141194": {
+  "totalt": 6,
+  "aktiva": 2,
+  "koopbara": 2,
+  "marken": [
+   [
+    "Tunturi",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    2
+   ]
+  ],
+  "pris_min": 7419.0,
+  "pris_max": 17379.0,
+  "pris_median": 12399.0
+ },
+ "gid://shopify/Collection/562614796554": {
+  "totalt": 3,
+  "aktiva": 2,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562615157002": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562615681290": {
+  "totalt": 2,
+  "aktiva": 1,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Bänkar - Curlbänk",
+    1
+   ]
+  ],
+  "pris_min": 4689.0,
+  "pris_max": 4689.0,
+  "pris_median": 4689.0
+ },
+ "gid://shopify/Collection/562616533258": {
+  "totalt": 5,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562616697098": {
+  "totalt": 1,
+  "aktiva": 1,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562616893706": {
+  "totalt": 5,
+  "aktiva": 2,
+  "koopbara": 2,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Battle Rope",
+    2
+   ]
+  ],
+  "pris_min": 1129.0,
+  "pris_max": 1299.0,
+  "pris_median": 1214.0
+ },
+ "gid://shopify/Collection/562617123082": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562617319690": {
+  "totalt": 18,
+  "aktiva": 17,
+  "koopbara": 17,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    16
+   ],
+   [
+    "Gorilla Sports",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Viktskivor - 50mm",
+    9
+   ],
+   [
+    "Viktskivor - 30mm",
+    8
+   ]
+  ],
+  "pris_min": 99.0,
+  "pris_max": 2279.0,
+  "pris_median": 1919.0
+ },
+ "gid://shopify/Collection/562617516298": {
+  "totalt": 5,
+  "aktiva": 4,
+  "koopbara": 4,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    4
+   ]
+  ],
+  "typer": [
+   [
+    "Viktskivor - 50mm",
+    4
+   ]
+  ],
+  "pris_min": 479.0,
+  "pris_max": 1179.0,
+  "pris_median": 759.0
+ },
+ "gid://shopify/Collection/562617745674": {
+  "totalt": 5,
+  "aktiva": 5,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562662867210": {
+  "totalt": 90,
+  "aktiva": 65,
+  "koopbara": 56,
+  "marken": [
+   [
+    "Tunturi",
+    21
+   ],
+   [
+    "Gorilla Sports Norden",
+    18
+   ],
+   [
+    "Toorx",
+    10
+   ],
+   [
+    "Gymstick",
+    4
+   ],
+   [
+    "Gorilla Sports",
+    1
+   ],
+   [
+    "Zipro",
+    1
+   ],
+   [
+    "Spokey",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    17
+   ],
+   [
+    "Yoga",
+    11
+   ],
+   [
+    "Yogamattor",
+    11
+   ],
+   [
+    "Gummiband",
+    7
+   ],
+   [
+    "Stretchband",
+    2
+   ],
+   [
+    "Ryggsträckare",
+    1
+   ],
+   [
+    "Gymnastikmattor, Yogamattor",
+    1
+   ],
+   [
+    "Träningsband",
+    1
+   ],
+   [
+    "Massage",
+    1
+   ]
+  ],
+  "pris_min": 39.0,
+  "pris_max": 699.0,
+  "pris_median": 249.0
+ },
+ "gid://shopify/Collection/562663096586": {
+  "totalt": 10,
+  "aktiva": 3,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Yogaboll/Pilatesboll/Fitnessboll",
+    1
+   ]
+  ],
+  "pris_min": 279.0,
+  "pris_max": 279.0,
+  "pris_median": 279.0
+ },
+ "gid://shopify/Collection/562663293194": {
+  "totalt": 1,
+  "aktiva": 1,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562663424266": {
+  "totalt": 2,
+  "aktiva": 1,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Boxning",
+    1
+   ]
+  ],
+  "pris_min": 2589.0,
+  "pris_max": 2589.0,
+  "pris_median": 2589.0
+ },
+ "gid://shopify/Collection/562663751946": {
+  "totalt": 18,
+  "aktiva": 10,
+  "koopbara": 8,
+  "marken": [
+   [
+    "ADO",
+    3
+   ],
+   [
+    "Romet",
+    2
+   ],
+   [
+    "Fiido",
+    1
+   ],
+   [
+    "Italwin",
+    1
+   ],
+   [
+    "COAST",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Cyklar",
+    7
+   ],
+   [
+    "Damcyklar",
+    1
+   ]
+  ],
+  "pris_min": 8099.0,
+  "pris_max": 28849.0,
+  "pris_median": 22899.0
+ },
+ "gid://shopify/Collection/562663915786": {
+  "totalt": 81,
+  "aktiva": 47,
+  "koopbara": 22,
+  "marken": [
+   [
+    "Tunturi",
+    8
+   ],
+   [
+    "BH Fitness",
+    4
+   ],
+   [
+    "Hammer",
+    4
+   ],
+   [
+    "Gorilla Sports Norden",
+    3
+   ],
+   [
+    "Christopeit",
+    2
+   ],
+   [
+    "Toorx",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    17
+   ],
+   [
+    "Tillbehör",
+    3
+   ],
+   [
+    "Professionell utrustning",
+    1
+   ],
+   [
+    "Skridskor",
+    1
+   ]
+  ],
+  "pris_min": 199.0,
+  "pris_max": 23379.0,
+  "pris_median": 7589.0
+ },
+ "gid://shopify/Collection/562664145162": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562664243466": {
+  "totalt": 1,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562664407306": {
+  "totalt": 2,
+  "aktiva": 1,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Boxning",
+    1
+   ]
+  ],
+  "pris_min": 2589.0,
+  "pris_max": 2589.0,
+  "pris_median": 2589.0
+ },
+ "gid://shopify/Collection/562664636682": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562664931594": {
+  "totalt": 5,
+  "aktiva": 3,
+  "koopbara": 3,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    3
+   ]
+  ],
+  "typer": [
+   [
+    "Kabelhandtag",
+    3
+   ]
+  ],
+  "pris_min": 159.0,
+  "pris_max": 259.0,
+  "pris_median": 229.0
+ },
+ "gid://shopify/Collection/562665029898": {
+  "totalt": 3,
+  "aktiva": 3,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Kabelhandtag",
+    1
+   ]
+  ],
+  "pris_min": 909.0,
+  "pris_max": 909.0,
+  "pris_median": 909.0
+ },
+ "gid://shopify/Collection/562665259274": {
+  "totalt": 4,
+  "aktiva": 4,
+  "koopbara": 3,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    3
+   ]
+  ],
+  "typer": [
+   [
+    "Kabelhandtag",
+    3
+   ]
+  ],
+  "pris_min": 319.0,
+  "pris_max": 559.0,
+  "pris_median": 419.0
+ },
+ "gid://shopify/Collection/562665390346": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562665750794": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562666012938": {
+  "totalt": 8,
+  "aktiva": 4,
+  "koopbara": 4,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    2
+   ],
+   [
+    "Tunturi",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    2
+   ],
+   [
+    "Viktställ - 30mm",
+    1
+   ],
+   [
+    "Hantelställ",
+    1
+   ]
+  ],
+  "pris_min": 1799.0,
+  "pris_max": 2929.0,
+  "pris_median": 2379.0
+ },
+ "gid://shopify/Collection/562666209546": {
+  "totalt": 2,
+  "aktiva": 2,
+  "koopbara": 2,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Kabelhandtag",
+    2
+   ]
+  ],
+  "pris_min": 369.0,
+  "pris_max": 409.0,
+  "pris_median": 389.0
+ },
+ "gid://shopify/Collection/562666406154": {
+  "totalt": 4,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562667192586": {
+  "totalt": 4,
+  "aktiva": 3,
+  "koopbara": 3,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    3
+   ]
+  ],
+  "typer": [
+   [
+    "Parallettes",
+    3
+   ]
+  ],
+  "pris_min": 1039.0,
+  "pris_max": 1299.0,
+  "pris_median": 1279.0
+ },
+ "gid://shopify/Collection/562667618570": {
+  "totalt": 11,
+  "aktiva": 8,
+  "koopbara": 8,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    5
+   ],
+   [
+    "Toorx",
+    2
+   ],
+   [
+    "Gorilla Sports",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör",
+    5
+   ],
+   [
+    "Konditionsträning & Fitness",
+    2
+   ],
+   [
+    "Balansplatta",
+    1
+   ]
+  ],
+  "pris_min": 229.0,
+  "pris_max": 2309.0,
+  "pris_median": 369.0
+ },
+ "gid://shopify/Collection/562667979018": {
+  "totalt": 6,
+  "aktiva": 1,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Toorx",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    1
+   ]
+  ],
+  "pris_min": 2029.0,
+  "pris_max": 2029.0,
+  "pris_median": 2029.0
+ },
+ "gid://shopify/Collection/562668241162": {
+  "totalt": 17,
+  "aktiva": 4,
+  "koopbara": 3,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    3
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör",
+    2
+   ],
+   [
+    "Battle Rope",
+    1
+   ]
+  ],
+  "pris_min": 229.0,
+  "pris_max": 1749.0,
+  "pris_median": 1299.0
+ },
+ "gid://shopify/Collection/562669093130": {
+  "totalt": 12,
+  "aktiva": 10,
+  "koopbara": 8,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    4
+   ],
+   [
+    "Tunturi",
+    2
+   ],
+   [
+    "Toorx",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Yoga",
+    4
+   ],
+   [
+    "Konditionsträning & Fitness",
+    3
+   ],
+   [
+    "Yogamattor",
+    1
+   ]
+  ],
+  "pris_min": 139.0,
+  "pris_max": 699.0,
+  "pris_median": 459.0
+ },
+ "gid://shopify/Collection/562669846794": {
+  "totalt": 3,
+  "aktiva": 3,
+  "koopbara": 2,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Yoga",
+    2
+   ]
+  ],
+  "pris_min": 299.0,
+  "pris_max": 329.0,
+  "pris_median": 314.0
+ },
+ "gid://shopify/Collection/562670502154": {
+  "totalt": 3,
+  "aktiva": 2,
+  "koopbara": 2,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Skivstänger - 30mm",
+    2
+   ]
+  ],
+  "pris_min": 1059.0,
+  "pris_max": 1089.0,
+  "pris_median": 1074.0
+ },
+ "gid://shopify/Collection/562671452426": {
+  "totalt": 2,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562672926986": {
+  "totalt": 4,
+  "aktiva": 3,
+  "koopbara": 3,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    3
+   ]
+  ],
+  "typer": [
+   [
+    "Kabelhandtag",
+    3
+   ]
+  ],
+  "pris_min": 159.0,
+  "pris_max": 949.0,
+  "pris_median": 449.0
+ },
+ "gid://shopify/Collection/562679185674": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562679611658": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562680070410": {
+  "totalt": 13,
+  "aktiva": 5,
+  "koopbara": 2,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Hopprep",
+    2
+   ]
+  ],
+  "pris_min": 249.0,
+  "pris_max": 249.0,
+  "pris_median": 249.0
+ },
+ "gid://shopify/Collection/562684395786": {
+  "totalt": 15,
+  "aktiva": 3,
+  "koopbara": 3,
+  "marken": [
+   [
+    "MAXXUS",
+    2
+   ],
+   [
+    "Tunturi",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Boxning",
+    2
+   ],
+   [
+    "Boxningsutrustning",
+    1
+   ]
+  ],
+  "pris_min": 1169.0,
+  "pris_max": 5539.0,
+  "pris_median": 1299.0
+ },
+ "gid://shopify/Collection/562684789002": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562684887306": {
+  "totalt": 2,
+  "aktiva": 1,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Skivstångsställning",
+    1
+   ]
+  ],
+  "pris_min": 819.0,
+  "pris_max": 819.0,
+  "pris_median": 819.0
+ },
+ "gid://shopify/Collection/562685149450": {
+  "totalt": 4,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/562685378826": {
+  "totalt": 4,
+  "aktiva": 3,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Tillbehör",
+    1
+   ]
+  ],
+  "pris_min": 99.0,
+  "pris_max": 99.0,
+  "pris_median": 99.0
+ },
+ "gid://shopify/Collection/562685509898": {
+  "totalt": 3,
+  "aktiva": 2,
+  "koopbara": 2,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Skivstänger - 30mm",
+    2
+   ]
+  ],
+  "pris_min": 1059.0,
+  "pris_max": 1089.0,
+  "pris_median": 1074.0
+ },
+ "gid://shopify/Collection/562686034186": {
+  "totalt": 24,
+  "aktiva": 5,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Fäste & Upphängningar",
+    1
+   ]
+  ],
+  "pris_min": 649.0,
+  "pris_max": 649.0,
+  "pris_median": 649.0
+ },
+ "gid://shopify/Collection/562686361866": {
+  "totalt": 1,
+  "aktiva": 1,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Gorilla Sports",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Ryggsträckare",
+    1
+   ]
+  ],
+  "pris_min": 629.0,
+  "pris_max": 629.0,
+  "pris_median": 629.0
+ },
+ "gid://shopify/Collection/569052135690": {
+  "totalt": 160,
+  "aktiva": 96,
+  "koopbara": 96,
+  "marken": [
+   [
+    "Union",
+    29
+   ],
+   [
+    "SOKE",
+    20
+   ],
+   [
+    "Velomarket",
+    15
+   ],
+   [
+    "Rideoo",
+    9
+   ],
+   [
+    "Ethic",
+    6
+   ],
+   [
+    "Versatyl",
+    6
+   ],
+   [
+    "Stiga",
+    3
+   ],
+   [
+    "Start",
+    3
+   ],
+   [
+    "S´COOL",
+    2
+   ],
+   [
+    "Fuzion",
+    2
+   ],
+   [
+    "Razor",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Sparkcyklar",
+    89
+   ],
+   [
+    "Pulkor",
+    3
+   ],
+   [
+    "Vinterutrustning",
+    3
+   ],
+   [
+    "Stuntscootrar",
+    1
+   ]
+  ],
+  "pris_min": 189.0,
+  "pris_max": 4979.0,
+  "pris_median": 2394.0
+ },
+ "gid://shopify/Collection/569052528906": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/569052987658": {
+  "totalt": 35,
+  "aktiva": 27,
+  "koopbara": 24,
+  "marken": [
+   [
+    "Alpina",
+    6
+   ],
+   [
+    "Rex",
+    4
+   ],
+   [
+    "Peltonen",
+    3
+   ],
+   [
+    "Winter-Grip",
+    3
+   ],
+   [
+    "Uniplast",
+    2
+   ],
+   [
+    "Start",
+    2
+   ],
+   [
+    "SKS",
+    1
+   ],
+   [
+    "Velomarket",
+    1
+   ],
+   [
+    "NIS",
+    1
+   ],
+   [
+    "Kästle",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Skidor",
+    7
+   ],
+   [
+    "Vinterutrustning",
+    7
+   ],
+   [
+    "Klassiska skidor",
+    2
+   ],
+   [
+    "Tillbehör",
+    1
+   ],
+   [
+    "Skridskobindningar",
+    1
+   ],
+   [
+    "Barnpjäxor",
+    1
+   ],
+   [
+    "Kombiskidpjäxor",
+    1
+   ],
+   [
+    "Klassiska pjäxor",
+    1
+   ],
+   [
+    "Skridskopjäxor",
+    1
+   ],
+   [
+    "Skidstavar för vuxna",
+    1
+   ],
+   [
+    "Isskor för skor",
+    1
+   ]
+  ],
+  "pris_min": 129.0,
+  "pris_max": 3489.0,
+  "pris_median": 654.0
+ },
+ "gid://shopify/Collection/569053511946": {
+  "totalt": 9,
+  "aktiva": 5,
+  "koopbara": 5,
+  "marken": [
+   [
+    "Alpina",
+    4
+   ],
+   [
+    "Peltonen",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Barnpjäxor",
+    1
+   ],
+   [
+    "Kombiskidpjäxor",
+    1
+   ],
+   [
+    "Klassiska pjäxor",
+    1
+   ],
+   [
+    "Skridskopjäxor",
+    1
+   ],
+   [
+    "Klassiska skidor",
+    1
+   ]
+  ],
+  "pris_min": 1549.0,
+  "pris_max": 3489.0,
+  "pris_median": 2199.0
+ },
+ "gid://shopify/Collection/569054003466": {
+  "totalt": 11,
+  "aktiva": 8,
+  "koopbara": 8,
+  "marken": [
+   [
+    "Fila",
+    6
+   ],
+   [
+    "Nils Extreme",
+    1
+   ],
+   [
+    "Tempish",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Rullskridskor",
+    7
+   ],
+   [
+    "Utomhusträning",
+    1
+   ]
+  ],
+  "pris_min": 759.0,
+  "pris_max": 2479.0,
+  "pris_median": 2044.0
+ },
+ "gid://shopify/Collection/569054363914": {
+  "totalt": 5,
+  "aktiva": 4,
+  "koopbara": 4,
+  "marken": [
+   [
+    "Alpina",
+    2
+   ],
+   [
+    "Start",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Skidor",
+    2
+   ],
+   [
+    "Vinterutrustning",
+    1
+   ],
+   [
+    "Skidstavar för vuxna",
+    1
+   ]
+  ],
+  "pris_min": 309.0,
+  "pris_max": 2369.0,
+  "pris_median": 934.0
+ },
+ "gid://shopify/Collection/569054691594": {
+  "totalt": 2,
+  "aktiva": 2,
+  "koopbara": 2,
+  "marken": [
+   [
+    "Tunturi",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    2
+   ]
+  ],
+  "pris_min": 259.0,
+  "pris_max": 269.0,
+  "pris_median": 264.0
+ },
+ "gid://shopify/Collection/569076351242": {
+  "totalt": 37,
+  "aktiva": 20,
+  "koopbara": 20,
+  "marken": [
+   [
+    "Fila",
+    11
+   ],
+   [
+    "SevenPolska",
+    3
+   ],
+   [
+    "Hammer",
+    2
+   ],
+   [
+    "Tunturi",
+    2
+   ],
+   [
+    "Nils Extreme",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Utomhusträning",
+    20
+   ]
+  ],
+  "pris_min": 39.0,
+  "pris_max": 5119.0,
+  "pris_median": 2279.0
+ },
+ "gid://shopify/Collection/569078579466": {
+  "totalt": 50,
+  "aktiva": 36,
+  "koopbara": 33,
+  "marken": [
+   [
+    "Fila",
+    6
+   ],
+   [
+    "Alpina",
+    6
+   ],
+   [
+    "Rex",
+    4
+   ],
+   [
+    "Peltonen",
+    3
+   ],
+   [
+    "Winter-Grip",
+    3
+   ],
+   [
+    "Uniplast",
+    2
+   ],
+   [
+    "Start",
+    2
+   ],
+   [
+    "Gorilla Sports Norden",
+    1
+   ],
+   [
+    "SKS",
+    1
+   ],
+   [
+    "Velomarket",
+    1
+   ],
+   [
+    "Nils Extreme",
+    1
+   ],
+   [
+    "NIS",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Rullskridskor",
+    7
+   ],
+   [
+    "Skidor",
+    7
+   ],
+   [
+    "Vinterutrustning",
+    7
+   ],
+   [
+    "Tillbehör",
+    2
+   ],
+   [
+    "Klassiska skidor",
+    2
+   ],
+   [
+    "Skridskobindningar",
+    1
+   ],
+   [
+    "Barnpjäxor",
+    1
+   ],
+   [
+    "Kombiskidpjäxor",
+    1
+   ],
+   [
+    "Klassiska pjäxor",
+    1
+   ],
+   [
+    "Skridskopjäxor",
+    1
+   ],
+   [
+    "Utomhusträning",
+    1
+   ],
+   [
+    "Skidstavar för vuxna",
+    1
+   ]
+  ],
+  "pris_min": 129.0,
+  "pris_max": 3489.0,
+  "pris_median": 1519.0
+ },
+ "gid://shopify/Collection/569432178954": {
+  "totalt": 4,
+  "aktiva": 4,
+  "koopbara": 4,
+  "marken": [
+   [
+    "Trec",
+    4
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    4
+   ]
+  ],
+  "pris_min": 29.0,
+  "pris_max": 29.0,
+  "pris_median": 29.0
+ },
+ "gid://shopify/Collection/569537462538": {
+  "totalt": 4966,
+  "aktiva": 3363,
+  "koopbara": 2667,
+  "marken": [
+   [
+    "Gymstick",
+    333
+   ],
+   [
+    "Tunturi",
+    316
+   ],
+   [
+    "Giant",
+    239
+   ],
+   [
+    "Gorilla Sports Norden",
+    226
+   ],
+   [
+    "Romet",
+    140
+   ],
+   [
+    "Toorx",
+    129
+   ],
+   [
+    "Trec",
+    100
+   ],
+   [
+    "AXA",
+    84
+   ],
+   [
+    "Hammer",
+    73
+   ],
+   [
+    "Basil",
+    60
+   ],
+   [
+    "Tabou",
+    59
+   ],
+   [
+    "BH Fitness",
+    55
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    533
+   ],
+   [
+    "Tillbehör",
+    496
+   ],
+   [
+    "Cyklar",
+    378
+   ],
+   [
+    "Sparkcyklar",
+    89
+   ],
+   [
+    "Kosttillskott",
+    86
+   ],
+   [
+    "Damcyklar",
+    85
+   ],
+   [
+    "Cykeldelar",
+    65
+   ],
+   [
+    "Professionell utrustning",
+    35
+   ],
+   [
+    "Viktskivor - 30mm",
+    31
+   ],
+   [
+    "Vinterutrustning",
+    29
+   ],
+   [
+    "Kabelhandtag",
+    27
+   ],
+   [
+    "Pakethållare",
+    21
+   ]
+  ],
+  "pris_min": 0.0,
+  "pris_max": 103989.0,
+  "pris_median": 659.0
+ },
+ "gid://shopify/Collection/569540280586": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/569540903178": {
+  "totalt": 11,
+  "aktiva": 9,
+  "koopbara": 9,
+  "marken": [
+   [
+    "Stiga",
+    8
+   ],
+   [
+    "Velomarket",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Vinterutrustning",
+    4
+   ],
+   [
+    "Kälkar",
+    3
+   ],
+   [
+    "Pulkor",
+    2
+   ]
+  ],
+  "pris_min": 339.0,
+  "pris_max": 2369.0,
+  "pris_median": 469.0
+ },
+ "gid://shopify/Collection/569541296394": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/569541853450": {
+  "totalt": 20,
+  "aktiva": 15,
+  "koopbara": 13,
+  "marken": [
+   [
+    "Fila",
+    8
+   ],
+   [
+    "Peltonen",
+    2
+   ],
+   [
+    "Toorx",
+    1
+   ],
+   [
+    "Nils Extreme",
+    1
+   ],
+   [
+    "Jagwire",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Skridskor",
+    11
+   ],
+   [
+    "Utomhusträning",
+    2
+   ]
+  ],
+  "pris_min": 769.0,
+  "pris_max": 4289.0,
+  "pris_median": 1609.0
+ },
+ "gid://shopify/Collection/569542377738": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/569547981066": {
+  "totalt": 20,
+  "aktiva": 16,
+  "koopbara": 16,
+  "marken": [
+   [
+    "Limar",
+    13
+   ],
+   [
+    "Cairn",
+    3
+   ]
+  ],
+  "typer": [
+   [
+    "Solglasögon",
+    13
+   ],
+   [
+    "Tillbehör",
+    3
+   ]
+  ],
+  "pris_min": 179.0,
+  "pris_max": 28519.0,
+  "pris_median": 1694.0
+ },
+ "gid://shopify/Collection/569556730122": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/569721749770": {
+  "totalt": 1,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/569722863882": {
+  "totalt": 3,
+  "aktiva": 2,
+  "koopbara": 2,
+  "marken": [
+   [
+    "Gymstick",
+    2
+   ]
+  ],
+  "typer": [],
+  "pris_min": 1199.0,
+  "pris_max": 2299.0,
+  "pris_median": 1749.0
+ },
+ "gid://shopify/Collection/569724305674": {
+  "totalt": 3,
+  "aktiva": 1,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Shimano",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Cykeldelar",
+    1
+   ]
+  ],
+  "pris_min": 139.0,
+  "pris_max": 139.0,
+  "pris_median": 139.0
+ },
+ "gid://shopify/Collection/569725288714": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/569726140682": {
+  "totalt": 1,
+  "aktiva": 1,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Tunturi",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    1
+   ]
+  ],
+  "pris_min": 319.0,
+  "pris_max": 319.0,
+  "pris_median": 319.0
+ },
+ "gid://shopify/Collection/569800622346": {
+  "totalt": 1,
+  "aktiva": 1,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Viktskivor - 50mm",
+    1
+   ]
+  ],
+  "pris_min": 799.0,
+  "pris_max": 799.0,
+  "pris_median": 799.0
+ },
+ "gid://shopify/Collection/569800720650": {
+  "totalt": 1,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/569800786186": {
+  "totalt": 8,
+  "aktiva": 5,
+  "koopbara": 5,
+  "marken": [
+   [
+    "Gorilla Sports Norden",
+    5
+   ]
+  ],
+  "typer": [
+   [
+    "Viktskivor - 30mm",
+    5
+   ]
+  ],
+  "pris_min": 99.0,
+  "pris_max": 799.0,
+  "pris_median": 449.0
+ },
+ "gid://shopify/Collection/569800982794": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/569801113866": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/571704803594": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/571706441994": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/571709227274": {
+  "totalt": 0,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/574539563274": {
+  "totalt": 28,
+  "aktiva": 21,
+  "koopbara": 15,
+  "marken": [
+   [
+    "BH Fitness",
+    8
+   ],
+   [
+    "Tunturi",
+    3
+   ],
+   [
+    "Hammer",
+    2
+   ],
+   [
+    "Toorx",
+    1
+   ],
+   [
+    "Finnlo by Hammer",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    14
+   ],
+   [
+    "Professionell utrustning",
+    1
+   ]
+  ],
+  "pris_min": 9729.0,
+  "pris_max": 41959.0,
+  "pris_median": 20889.0
+ },
+ "gid://shopify/Collection/574539661578": {
+  "totalt": 17,
+  "aktiva": 14,
+  "koopbara": 8,
+  "marken": [
+   [
+    "BH Fitness",
+    5
+   ],
+   [
+    "Finnlo by Hammer",
+    2
+   ],
+   [
+    "Tunturi",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    8
+   ]
+  ],
+  "pris_min": 11139.0,
+  "pris_max": 41959.0,
+  "pris_median": 23014.0
+ },
+ "gid://shopify/Collection/574539858186": {
+  "totalt": 18,
+  "aktiva": 13,
+  "koopbara": 12,
+  "marken": [
+   [
+    "Tunturi",
+    8
+   ],
+   [
+    "Toorx",
+    2
+   ],
+   [
+    "Hammer",
+    1
+   ],
+   [
+    "Christopeit",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    11
+   ],
+   [
+    "Professionell utrustning",
+    1
+   ]
+  ],
+  "pris_min": 5679.0,
+  "pris_max": 44129.0,
+  "pris_median": 13139.0
+ },
+ "gid://shopify/Collection/575800869130": {
+  "totalt": 72,
+  "aktiva": 48,
+  "koopbara": 17,
+  "marken": [
+   [
+    "Cargobike of Sweden",
+    8
+   ],
+   [
+    "Amladcykler",
+    3
+   ],
+   [
+    "Fiido",
+    2
+   ],
+   [
+    "Velomarket",
+    1
+   ],
+   [
+    "Cangoo",
+    1
+   ],
+   [
+    "Vogue Bike",
+    1
+   ],
+   [
+    "Momentum",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Cyklar",
+    12
+   ],
+   [
+    "Tillbehör för lastcyklar",
+    2
+   ],
+   [
+    "Lastcykeltillbehör",
+    1
+   ],
+   [
+    "Tillbehör",
+    1
+   ],
+   [
+    "Tillbehör för lådcyklar",
+    1
+   ]
+  ],
+  "pris_min": 9.0,
+  "pris_max": 79479.0,
+  "pris_median": 32479.0
+ },
+ "gid://shopify/Collection/578469495050": {
+  "totalt": 4966,
+  "aktiva": 3363,
+  "koopbara": 2667,
+  "marken": [
+   [
+    "Gymstick",
+    333
+   ],
+   [
+    "Tunturi",
+    316
+   ],
+   [
+    "Giant",
+    239
+   ],
+   [
+    "Gorilla Sports Norden",
+    226
+   ],
+   [
+    "Romet",
+    140
+   ],
+   [
+    "Toorx",
+    129
+   ],
+   [
+    "Trec",
+    100
+   ],
+   [
+    "AXA",
+    84
+   ],
+   [
+    "Hammer",
+    73
+   ],
+   [
+    "Basil",
+    60
+   ],
+   [
+    "Tabou",
+    59
+   ],
+   [
+    "BH Fitness",
+    55
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    533
+   ],
+   [
+    "Tillbehör",
+    496
+   ],
+   [
+    "Cyklar",
+    378
+   ],
+   [
+    "Sparkcyklar",
+    89
+   ],
+   [
+    "Kosttillskott",
+    86
+   ],
+   [
+    "Damcyklar",
+    85
+   ],
+   [
+    "Cykeldelar",
+    65
+   ],
+   [
+    "Professionell utrustning",
+    35
+   ],
+   [
+    "Viktskivor - 30mm",
+    31
+   ],
+   [
+    "Vinterutrustning",
+    29
+   ],
+   [
+    "Kabelhandtag",
+    27
+   ],
+   [
+    "Pakethållare",
+    21
+   ]
+  ],
+  "pris_min": 0.0,
+  "pris_max": 103989.0,
+  "pris_median": 659.0
+ },
+ "gid://shopify/Collection/582548226314": {
+  "totalt": 987,
+  "aktiva": 715,
+  "koopbara": 605,
+  "marken": [
+   [
+    "Tunturi",
+    248
+   ],
+   [
+    "Toorx",
+    127
+   ],
+   [
+    "Hammer",
+    65
+   ],
+   [
+    "BH Fitness",
+    49
+   ],
+   [
+    "Gorilla Sports Norden",
+    34
+   ],
+   [
+    "Christopeit",
+    31
+   ],
+   [
+    "Gymstick",
+    18
+   ],
+   [
+    "Trec",
+    14
+   ],
+   [
+    "Finnlo by Hammer",
+    10
+   ],
+   [
+    "Spokey",
+    5
+   ],
+   [
+    "Velomarket",
+    2
+   ],
+   [
+    "Zipro",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    534
+   ],
+   [
+    "Professionell utrustning",
+    25
+   ],
+   [
+    "Viktskivor - 30mm",
+    25
+   ],
+   [
+    "Viktskivor - 50mm",
+    9
+   ],
+   [
+    "Crosstrainers",
+    1
+   ]
+  ],
+  "pris_min": 0.0,
+  "pris_max": 41959.0,
+  "pris_median": 1699.0
+ },
+ "gid://shopify/Collection/582548324618": {
+  "totalt": 204,
+  "aktiva": 138,
+  "koopbara": 118,
+  "marken": [
+   [
+    "Tunturi",
+    38
+   ],
+   [
+    "Gorilla Sports Norden",
+    36
+   ],
+   [
+    "Toorx",
+    16
+   ],
+   [
+    "Gymstick",
+    13
+   ],
+   [
+    "Hammer",
+    10
+   ],
+   [
+    "Christopeit",
+    4
+   ],
+   [
+    "Zipro",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    63
+   ],
+   [
+    "Viktskivor - 30mm",
+    25
+   ],
+   [
+    "Viktskivor - 50mm",
+    9
+   ],
+   [
+    "Professionell utrustning",
+    8
+   ],
+   [
+    "Pilates",
+    1
+   ],
+   [
+    "Tillbehör",
+    1
+   ]
+  ],
+  "pris_min": 0.0,
+  "pris_max": 14529.0,
+  "pris_median": 1629.0
+ },
+ "gid://shopify/Collection/582548652298": {
+  "totalt": 874,
+  "aktiva": 615,
+  "koopbara": 534,
+  "marken": [
+   [
+    "Tunturi",
+    238
+   ],
+   [
+    "Toorx",
+    127
+   ],
+   [
+    "Hammer",
+    63
+   ],
+   [
+    "BH Fitness",
+    38
+   ],
+   [
+    "Christopeit",
+    30
+   ],
+   [
+    "Trec",
+    14
+   ],
+   [
+    "Finnlo by Hammer",
+    10
+   ],
+   [
+    "Gymstick",
+    7
+   ],
+   [
+    "Spokey",
+    5
+   ],
+   [
+    "Zipro",
+    1
+   ],
+   [
+    "HMS",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    534
+   ]
+  ],
+  "pris_min": 0.0,
+  "pris_max": 41959.0,
+  "pris_median": 1639.0
+ },
+ "gid://shopify/Collection/582548750602": {
+  "totalt": 908,
+  "aktiva": 635,
+  "koopbara": 549,
+  "marken": [
+   [
+    "Tunturi",
+    242
+   ],
+   [
+    "Toorx",
+    127
+   ],
+   [
+    "Hammer",
+    63
+   ],
+   [
+    "BH Fitness",
+    38
+   ],
+   [
+    "Christopeit",
+    30
+   ],
+   [
+    "Trec",
+    14
+   ],
+   [
+    "Gorilla Sports Norden",
+    11
+   ],
+   [
+    "Finnlo by Hammer",
+    10
+   ],
+   [
+    "Gymstick",
+    7
+   ],
+   [
+    "Spokey",
+    5
+   ],
+   [
+    "Zipro",
+    1
+   ],
+   [
+    "HMS",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    534
+   ],
+   [
+    "Gummiband",
+    7
+   ],
+   [
+    "Sissy Squat",
+    2
+   ],
+   [
+    "Stretchband",
+    2
+   ],
+   [
+    "Pilates",
+    1
+   ],
+   [
+    "Tillbehör",
+    1
+   ],
+   [
+    "Träningsband",
+    1
+   ],
+   [
+    "Professionell utrustning",
+    1
+   ]
+  ],
+  "pris_min": 0.0,
+  "pris_max": 50789.0,
+  "pris_median": 1609.0
+ },
+ "gid://shopify/Collection/582548914442": {
+  "totalt": 210,
+  "aktiva": 124,
+  "koopbara": 103,
+  "marken": [
+   [
+    "Tunturi",
+    41
+   ],
+   [
+    "Toorx",
+    17
+   ],
+   [
+    "Gymstick",
+    15
+   ],
+   [
+    "Gorilla Sports Norden",
+    14
+   ],
+   [
+    "Hammer",
+    11
+   ],
+   [
+    "Christopeit",
+    4
+   ],
+   [
+    "Zipro",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Konditionsträning & Fitness",
+    68
+   ],
+   [
+    "Professionell utrustning",
+    8
+   ],
+   [
+    "Viktskivor - 30mm",
+    7
+   ],
+   [
+    "Viktskivor - 50mm",
+    7
+   ]
+  ],
+  "pris_min": 0.0,
+  "pris_max": 14529.0,
+  "pris_median": 1489.0
+ },
+ "gid://shopify/Collection/583471759626": {
+  "totalt": 21,
+  "aktiva": 6,
+  "koopbara": 6,
+  "marken": [
+   [
+    "Trec",
+    6
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    6
+   ]
+  ],
+  "pris_min": 29.0,
+  "pris_max": 1819.0,
+  "pris_median": 524.0
+ },
+ "gid://shopify/Collection/583471857930": {
+  "totalt": 2,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/583472152842": {
+  "totalt": 1,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/583472185610": {
+  "totalt": 2,
+  "aktiva": 2,
+  "koopbara": 2,
+  "marken": [
+   [
+    "Trec",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    2
+   ]
+  ],
+  "pris_min": 29.0,
+  "pris_max": 29.0,
+  "pris_median": 29.0
+ },
+ "gid://shopify/Collection/583472251146": {
+  "totalt": 1,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/583472283914": {
+  "totalt": 6,
+  "aktiva": 2,
+  "koopbara": 2,
+  "marken": [
+   [
+    "Trec",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    2
+   ]
+  ],
+  "pris_min": 169.0,
+  "pris_max": 229.0,
+  "pris_median": 199.0
+ },
+ "gid://shopify/Collection/583472316682": {
+  "totalt": 2,
+  "aktiva": 1,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Trec",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    1
+   ]
+  ],
+  "pris_min": 429.0,
+  "pris_max": 429.0,
+  "pris_median": 429.0
+ },
+ "gid://shopify/Collection/583472382218": {
+  "totalt": 3,
+  "aktiva": 2,
+  "koopbara": 2,
+  "marken": [
+   [
+    "Trec",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    2
+   ]
+  ],
+  "pris_min": 99.0,
+  "pris_max": 109.0,
+  "pris_median": 104.0
+ },
+ "gid://shopify/Collection/583472414986": {
+  "totalt": 1,
+  "aktiva": 0,
+  "koopbara": 0,
+  "marken": [],
+  "typer": [],
+  "pris_min": null,
+  "pris_max": null,
+  "pris_median": null
+ },
+ "gid://shopify/Collection/583472480522": {
+  "totalt": 6,
+  "aktiva": 3,
+  "koopbara": 3,
+  "marken": [
+   [
+    "Trec",
+    3
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    3
+   ]
+  ],
+  "pris_min": 129.0,
+  "pris_max": 179.0,
+  "pris_median": 169.0
+ },
+ "gid://shopify/Collection/583472513290": {
+  "totalt": 7,
+  "aktiva": 4,
+  "koopbara": 4,
+  "marken": [
+   [
+    "Trec",
+    4
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    4
+   ]
+  ],
+  "pris_min": 129.0,
+  "pris_max": 179.0,
+  "pris_median": 129.0
+ },
+ "gid://shopify/Collection/583472546058": {
+  "totalt": 5,
+  "aktiva": 2,
+  "koopbara": 2,
+  "marken": [
+   [
+    "Trec",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    2
+   ]
+  ],
+  "pris_min": 29.0,
+  "pris_max": 39.0,
+  "pris_median": 34.0
+ },
+ "gid://shopify/Collection/583472578826": {
+  "totalt": 6,
+  "aktiva": 4,
+  "koopbara": 4,
+  "marken": [
+   [
+    "Trec",
+    4
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    4
+   ]
+  ],
+  "pris_min": 19.0,
+  "pris_max": 29.0,
+  "pris_median": 29.0
+ },
+ "gid://shopify/Collection/583472709898": {
+  "totalt": 6,
+  "aktiva": 4,
+  "koopbara": 4,
+  "marken": [
+   [
+    "Trec",
+    4
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    4
+   ]
+  ],
+  "pris_min": 19.0,
+  "pris_max": 119.0,
+  "pris_median": 29.0
+ },
+ "gid://shopify/Collection/583472775434": {
+  "totalt": 1,
+  "aktiva": 1,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Trec",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    1
+   ]
+  ],
+  "pris_min": 229.0,
+  "pris_max": 229.0,
+  "pris_median": 229.0
+ },
+ "gid://shopify/Collection/583472840970": {
+  "totalt": 2,
+  "aktiva": 2,
+  "koopbara": 2,
+  "marken": [
+   [
+    "Trec",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    2
+   ]
+  ],
+  "pris_min": 199.0,
+  "pris_max": 239.0,
+  "pris_median": 219.0
+ },
+ "gid://shopify/Collection/583472873738": {
+  "totalt": 4,
+  "aktiva": 2,
+  "koopbara": 2,
+  "marken": [
+   [
+    "Trec",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    2
+   ]
+  ],
+  "pris_min": 139.0,
+  "pris_max": 369.0,
+  "pris_median": 254.0
+ },
+ "gid://shopify/Collection/583472939274": {
+  "totalt": 2,
+  "aktiva": 1,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Trec",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    1
+   ]
+  ],
+  "pris_min": 139.0,
+  "pris_max": 139.0,
+  "pris_median": 139.0
+ },
+ "gid://shopify/Collection/583472972042": {
+  "totalt": 5,
+  "aktiva": 4,
+  "koopbara": 4,
+  "marken": [
+   [
+    "Trec",
+    4
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    4
+   ]
+  ],
+  "pris_min": 99.0,
+  "pris_max": 129.0,
+  "pris_median": 114.0
+ },
+ "gid://shopify/Collection/583473004810": {
+  "totalt": 37,
+  "aktiva": 26,
+  "koopbara": 26,
+  "marken": [
+   [
+    "Trec",
+    26
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    26
+   ]
+  ],
+  "pris_min": 29.0,
+  "pris_max": 209.0,
+  "pris_median": 114.0
+ },
+ "gid://shopify/Collection/583473037578": {
+  "totalt": 1,
+  "aktiva": 1,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Trec",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    1
+   ]
+  ],
+  "pris_min": 129.0,
+  "pris_max": 129.0,
+  "pris_median": 129.0
+ },
+ "gid://shopify/Collection/583473070346": {
+  "totalt": 10,
+  "aktiva": 7,
+  "koopbara": 7,
+  "marken": [
+   [
+    "Trec",
+    7
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    7
+   ]
+  ],
+  "pris_min": 79.0,
+  "pris_max": 599.0,
+  "pris_median": 129.0
+ },
+ "gid://shopify/Collection/583473168650": {
+  "totalt": 1,
+  "aktiva": 1,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Trec",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    1
+   ]
+  ],
+  "pris_min": 109.0,
+  "pris_max": 109.0,
+  "pris_median": 109.0
+ },
+ "gid://shopify/Collection/583473201418": {
+  "totalt": 3,
+  "aktiva": 3,
+  "koopbara": 3,
+  "marken": [
+   [
+    "Trec",
+    3
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    3
+   ]
+  ],
+  "pris_min": 109.0,
+  "pris_max": 129.0,
+  "pris_median": 119.0
+ },
+ "gid://shopify/Collection/583473332490": {
+  "totalt": 5,
+  "aktiva": 5,
+  "koopbara": 5,
+  "marken": [
+   [
+    "Trec",
+    5
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    5
+   ]
+  ],
+  "pris_min": 109.0,
+  "pris_max": 209.0,
+  "pris_median": 139.0
+ },
+ "gid://shopify/Collection/583473365258": {
+  "totalt": 8,
+  "aktiva": 7,
+  "koopbara": 7,
+  "marken": [
+   [
+    "Trec",
+    7
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    7
+   ]
+  ],
+  "pris_min": 109.0,
+  "pris_max": 209.0,
+  "pris_median": 139.0
+ },
+ "gid://shopify/Collection/583473398026": {
+  "totalt": 4,
+  "aktiva": 1,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Trec",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    1
+   ]
+  ],
+  "pris_min": 599.0,
+  "pris_max": 599.0,
+  "pris_median": 599.0
+ },
+ "gid://shopify/Collection/583473463562": {
+  "totalt": 1,
+  "aktiva": 1,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Trec",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    1
+   ]
+  ],
+  "pris_min": 79.0,
+  "pris_max": 79.0,
+  "pris_median": 79.0
+ },
+ "gid://shopify/Collection/583473496330": {
+  "totalt": 6,
+  "aktiva": 5,
+  "koopbara": 5,
+  "marken": [
+   [
+    "Trec",
+    3
+   ],
+   [
+    "Gorilla Sports Norden",
+    1
+   ],
+   [
+    "Gymstick",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    2
+   ],
+   [
+    "Vattenflaska",
+    1
+   ],
+   [
+    "Konditionsträning & Fitness",
+    1
+   ]
+  ],
+  "pris_min": 0.0,
+  "pris_max": 99.0,
+  "pris_median": 59.0
+ },
+ "gid://shopify/Collection/583473529098": {
+  "totalt": 4,
+  "aktiva": 2,
+  "koopbara": 2,
+  "marken": [
+   [
+    "Trec",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    2
+   ]
+  ],
+  "pris_min": 159.0,
+  "pris_max": 599.0,
+  "pris_median": 379.0
+ },
+ "gid://shopify/Collection/583473594634": {
+  "totalt": 1,
+  "aktiva": 1,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Trec",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    1
+   ]
+  ],
+  "pris_min": 109.0,
+  "pris_max": 109.0,
+  "pris_median": 109.0
+ },
+ "gid://shopify/Collection/583531495690": {
+  "totalt": 22,
+  "aktiva": 7,
+  "koopbara": 7,
+  "marken": [
+   [
+    "Trec",
+    7
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    7
+   ]
+  ],
+  "pris_min": 29.0,
+  "pris_max": 1819.0,
+  "pris_median": 519.0
+ },
+ "gid://shopify/Collection/583531528458": {
+  "totalt": 16,
+  "aktiva": 9,
+  "koopbara": 9,
+  "marken": [
+   [
+    "Trec",
+    9
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    9
+   ]
+  ],
+  "pris_min": 129.0,
+  "pris_max": 209.0,
+  "pris_median": 169.0
+ },
+ "gid://shopify/Collection/583531626762": {
+  "totalt": 17,
+  "aktiva": 10,
+  "koopbara": 10,
+  "marken": [
+   [
+    "Trec",
+    10
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    10
+   ]
+  ],
+  "pris_min": 19.0,
+  "pris_max": 239.0,
+  "pris_median": 34.0
+ },
+ "gid://shopify/Collection/583531659530": {
+  "totalt": 4,
+  "aktiva": 2,
+  "koopbara": 2,
+  "marken": [
+   [
+    "Trec",
+    2
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    2
+   ]
+  ],
+  "pris_min": 139.0,
+  "pris_max": 369.0,
+  "pris_median": 254.0
+ },
+ "gid://shopify/Collection/583531692298": {
+  "totalt": 55,
+  "aktiva": 35,
+  "koopbara": 35,
+  "marken": [
+   [
+    "Trec",
+    35
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    35
+   ]
+  ],
+  "pris_min": 29.0,
+  "pris_max": 269.0,
+  "pris_median": 119.0
+ },
+ "gid://shopify/Collection/583531725066": {
+  "totalt": 3,
+  "aktiva": 3,
+  "koopbara": 3,
+  "marken": [
+   [
+    "Trec",
+    3
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    3
+   ]
+  ],
+  "pris_min": 109.0,
+  "pris_max": 129.0,
+  "pris_median": 119.0
+ },
+ "gid://shopify/Collection/583531757834": {
+  "totalt": 2,
+  "aktiva": 1,
+  "koopbara": 1,
+  "marken": [
+   [
+    "Trec",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    1
+   ]
+  ],
+  "pris_min": 99.0,
+  "pris_max": 99.0,
+  "pris_median": 99.0
+ },
+ "gid://shopify/Collection/583531921674": {
+  "totalt": 21,
+  "aktiva": 17,
+  "koopbara": 17,
+  "marken": [
+   [
+    "Trec",
+    17
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    17
+   ]
+  ],
+  "pris_min": 79.0,
+  "pris_max": 599.0,
+  "pris_median": 139.0
+ },
+ "gid://shopify/Collection/583532216586": {
+  "totalt": 7,
+  "aktiva": 4,
+  "koopbara": 4,
+  "marken": [
+   [
+    "Trec",
+    2
+   ],
+   [
+    "Gorilla Sports Norden",
+    1
+   ],
+   [
+    "Gymstick",
+    1
+   ]
+  ],
+  "typer": [
+   [
+    "Kosttillskott",
+    2
+   ],
+   [
+    "Vattenflaska",
+    1
+   ]
+  ],
+  "pris_min": 0.0,
+  "pris_max": 99.0,
+  "pris_median": 44.0
+ }
+}

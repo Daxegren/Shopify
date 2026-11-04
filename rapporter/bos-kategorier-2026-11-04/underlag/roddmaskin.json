@@ -1,0 +1,102 @@
+{
+ "handle": "roddmaskin",
+ "id": "gid://shopify/Collection/526984053002",
+ "titel": "Roddmaskin",
+ "regel": [
+  [
+   "TAG",
+   "EQUALS",
+   "roddmaskin"
+  ]
+ ],
+ "huvud_regex": "roddmaskin",
+ "antal_i_kollektionen": 74,
+ "antal_koopbara_alla": 18,
+ "antal_koopbara": 17,
+ "antal_ovriga_koopbara": 1,
+ "exempel_ovriga": [
+  "Rullskridskor NILS EXTREME NF102"
+ ],
+ "marken": [
+  [
+   "Tunturi",
+   7
+  ],
+  [
+   "BH Fitness",
+   4
+  ],
+  [
+   "Hammer",
+   4
+  ],
+  [
+   "Christopeit",
+   2
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "roddmaskin",
+   17
+  ]
+ ],
+ "pris_min": 3899.0,
+ "pris_max": 23379.0,
+ "pris_median": 9439.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [
+  [
+   "Roddmaskin Tunturi Cardio Fit R20",
+   3899.0
+  ],
+  [
+   "Roddmaskin Christopeit RW 1000",
+   4429.0
+  ],
+  [
+   "Roddmaskin Tunturi Cardio Fit R25",
+   5109.0
+  ],
+  [
+   "Roddmaskin Tunturi Cardio Fit R30",
+   5799.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Roddmaskin Tunturi Fluid Rower Apollo Plus Svart",
+   23379.0
+  ],
+  [
+   "Roddmaskin Hammer RowFlow 10.0",
+   21549.0
+  ],
+  [
+   "Roddmaskin BH Fitness Kingston",
+   14959.0
+  ]
+ ],
+ "alla_titlar": [
+  "Roddmaskin BH Fitness Cardiff",
+  "Roddmaskin BH Fitness Kingston",
+  "Roddmaskin BH Fitness i.Hudson",
+  "Roddmaskin BH Fitness i.Thames",
+  "Roddmaskin Christopeit Garda",
+  "Roddmaskin Christopeit RW 1000",
+  "Roddmaskin Hammer Cobra XTR Plus",
+  "Roddmaskin Hammer Pro Force II",
+  "Roddmaskin Hammer RowFlow 10.0",
+  "Roddmaskin Hammer RowTech NorsK",
+  "Roddmaskin Tunturi Cardio Fit R20",
+  "Roddmaskin Tunturi Cardio Fit R25",
+  "Roddmaskin Tunturi Cardio Fit R30",
+  "Roddmaskin Tunturi FitRow 70 WTR",
+  "Roddmaskin Tunturi FitRow 90i by Fluid",
+  "Roddmaskin Tunturi Fluid Rower Apollo Plus Svart",
+  "Roddmaskin Tunturi Star Fit R100"
+ ]
+}

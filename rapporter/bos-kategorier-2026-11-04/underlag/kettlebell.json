@@ -1,0 +1,133 @@
+{
+ "handle": "kettlebell",
+ "id": "gid://shopify/Collection/526982086922",
+ "titel": "Kettlebell",
+ "regel": [
+  [
+   "TAG",
+   "EQUALS",
+   "kettlebell"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "kettlebells"
+  ]
+ ],
+ "huvud_regex": "kettlebell|sangpomm",
+ "antal_i_kollektionen": 54,
+ "antal_koopbara_alla": 32,
+ "antal_koopbara": 28,
+ "antal_ovriga_koopbara": 4,
+ "exempel_ovriga": [
+  "Golvskydd Gymstick Kettlebell Pad",
+  "TUNTURI PE Kettlebell 8kg",
+  "TUNTURI Rapid Justerbart Kettlebellhandtag 3.5kg",
+  "TOORX Olympic EVO Kettlebell, blå, 12 kg"
+ ],
+ "marken": [
+  [
+   "Toorx",
+   10
+  ],
+  [
+   "Tunturi",
+   6
+  ],
+  [
+   "Gymstick",
+   5
+  ],
+  [
+   "Hammer",
+   4
+  ],
+  [
+   "Christopeit",
+   3
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "kettlebell",
+   23
+  ],
+  [
+   "sangpomm",
+   4
+  ],
+  [
+   "quick-lock",
+   1
+  ]
+ ],
+ "pris_min": 99.0,
+ "pris_max": 2229.0,
+ "pris_median": 784.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": 2.0,
+ "kg_i_titlar_max": 24.0,
+ "antal_titlar_med_kg": 23,
+ "billigaste": [
+  [
+   "Kettlebell Gymstick i Vinyl",
+   99.0
+  ],
+  [
+   "Sangpomm CHRISTOPEIT Kettlebell 2kg",
+   169.0
+  ],
+  [
+   "Kettlebell Tunturi Platinum i Gjutjärn, 4 kg",
+   199.0
+  ],
+  [
+   "Kettlebell Gymstick Ergo",
+   249.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Kettlebell Toorx Absolute, 20 kg",
+   2229.0
+  ],
+  [
+   "Kettlebell Hammer Premium, 24 kg",
+   2159.0
+  ],
+  [
+   "Kettlebell Toorx Olympic EVO, Lila, 20 kg",
+   2099.0
+  ]
+ ],
+ "alla_titlar": [
+  "Kettlebell Gymstick Competition",
+  "Kettlebell Gymstick Ergo",
+  "Kettlebell Gymstick Pro",
+  "Kettlebell Gymstick i Vinyl",
+  "Kettlebell HAMMER Premium 4kg",
+  "Kettlebell HAMMER Premium Kettlebell 22 kg",
+  "Kettlebell Hammer Premium, 14 kg",
+  "Kettlebell Hammer Premium, 24 kg",
+  "Kettlebell TOORX Absolute Kettlebell, 12 kg",
+  "Kettlebell TUNTURI Platinum gjutjärn 8 kg",
+  "Kettlebell Toorx 16 kg, Svart Gjutjärn med Gummibotten",
+  "Kettlebell Toorx Absolute, 20 kg",
+  "Kettlebell Toorx Olympic EVO, Gul, 16 kg",
+  "Kettlebell Toorx Olympic EVO, Lila, 18 kg",
+  "Kettlebell Toorx Olympic EVO, Lila, 20 kg",
+  "Kettlebell Toorx Pro Cross EVO, 12 kg",
+  "Kettlebell Toorx Vinyl, 12 kg",
+  "Kettlebell Toorx Vinyl, 20 kg",
+  "Kettlebell Tunturi Competition, 8 kg",
+  "Kettlebell Tunturi PE 16 kg, PVC Fylld med Sand",
+  "Kettlebell Tunturi Platinum Competition, Tävlingsstandard",
+  "Kettlebell Tunturi Platinum Rubber, 4 kg",
+  "Kettlebell Tunturi Platinum i Gjutjärn, 4 kg",
+  "Quick-Lock Kettlebell 13,5kg",
+  "Sangpomm CHRISTOPEIT Kettlebell 12kg",
+  "Sangpomm CHRISTOPEIT Kettlebell 2kg",
+  "Sangpomm CHRISTOPEIT Kettlebell 4kg",
+  "Sangpomm TOORX Vinyl Kettlebell, 10 kg"
+ ]
+}

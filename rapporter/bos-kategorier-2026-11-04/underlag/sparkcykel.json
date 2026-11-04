@@ -1,0 +1,181 @@
+{
+ "handle": "sparkcykel",
+ "id": "gid://shopify/Collection/569052135690",
+ "titel": "Sparkcykel",
+ "regel": [
+  [
+   "TAG",
+   "EQUALS",
+   "sparkcykel"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "Sparkcyklar"
+  ]
+ ],
+ "huvud_regex": "^(?!.*barn)(?=.*(sparkcykel(?!hjul|stöd)|scooter(?!hjul|stick)))",
+ "antal_i_kollektionen": 160,
+ "antal_koopbara_alla": 96,
+ "antal_koopbara": 54,
+ "antal_ovriga_koopbara": 42,
+ "exempel_ovriga": [
+  "Sparkcykelhjul Union Credit V2 Pro, 100 mm, Lila",
+  "Sparkcykelstöd Ethic Scooter Stand Pad",
+  "Sparkcykelhjul Ethic Incube V2, 100 mm, Svart",
+  "Griptape Ethic Basic",
+  "Sparkcykelhjul Union Honeycomb Pro, 110 mm, Rosa",
+  "Sparkcykelhjul Union Classic V2 Pro, 110 mm, Krom/Blå"
+ ],
+ "marken": [
+  [
+   "SOKE",
+   20
+  ],
+  [
+   "Union",
+   14
+  ],
+  [
+   "Rideoo",
+   9
+  ],
+  [
+   "Versatyl",
+   5
+  ],
+  [
+   "Velomarket",
+   2
+  ],
+  [
+   "Ethic",
+   2
+  ],
+  [
+   "S´COOL",
+   2
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "stuntsparkcykel",
+   22
+  ],
+  [
+   "scooter",
+   11
+  ],
+  [
+   "tricksparkcykel",
+   10
+  ],
+  [
+   "stuntscooter",
+   8
+  ],
+  [
+   "sparkcykel",
+   2
+  ],
+  [
+   "kicksparkcykel",
+   1
+  ]
+ ],
+ "pris_min": 1459.0,
+ "pris_max": 4979.0,
+ "pris_median": 2969.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [
+  [
+   "Scooter stickers Union Sticker",
+   1459.0
+  ],
+  [
+   "Stuntsparkcykel SOKE GO, Gul",
+   2199.0
+  ],
+  [
+   "Stuntsparkcykel SOKE GO, Grön/Blå",
+   2279.0
+  ],
+  [
+   "Stuntsparkcykel SOKE GO, Svart och Rosa",
+   2289.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Stuntsparkcykel Ethic Pandora Complete Pro L, Blå",
+   4979.0
+  ],
+  [
+   "Stuntsparkcykel Ethic Erawan V2 M, Blå Iridium",
+   4839.0
+  ],
+  [
+   "Stuntsparkcykel Ethic Erawan V2, Svart/Neochrome",
+   4549.0
+  ]
+ ],
+ "alla_titlar": [
+  "Kicksparkcykel Versatyl Cosmopolitan V2 Pro Scooter Black",
+  "Scooter RIDEOO 120 City Scooter LED, black",
+  "Scooter RIDEOO 120 City Scooter Lila",
+  "Scooter RIDEOO 120 City Scooter Turquise",
+  "Scooter Rideoo 120 City Scooter LED Blue",
+  "Scooter Rideoo 120 City Scooter LED Salmon",
+  "Scooter Rideoo 120 City Scooter med LED-belysning",
+  "Scooter Rideoo 175 City Scooter Mint",
+  "Scooter Rideoo 175 City Scooter Salmon",
+  "Scooter Rideoo 175 City Scooter Turquise",
+  "Scooter Union Lite S Scooter Lime",
+  "Scooter stickers Union Sticker",
+  "Sparkcykel SOKE City, Grå",
+  "Sparkcykel SOKE City, Svart och Turkos",
+  "Stuntscooter SOKE GO! blå-gul",
+  "Stuntscooter Union Lite M Scooter Blue",
+  "Stuntscooter Union Lite M Scooter Lime",
+  "Stuntscooter Union Lite M Scooter Neochrome",
+  "Stuntscooter Union Lite S Scooter Svart",
+  "Stuntscooter Union Lite S, Blå",
+  "Stuntscooter Union Lite XS Scooter Blue",
+  "Stuntscooter Union Lite XS Scooter Lime",
+  "Stuntsparkcykel Ethic Erawan V2 M, Blå Iridium",
+  "Stuntsparkcykel Ethic Erawan V2, Svart/Neochrome",
+  "Stuntsparkcykel Ethic Pandora Complete Pro L, Blå",
+  "Stuntsparkcykel S'Cool flaX 8.6, Flash Blue",
+  "Stuntsparkcykel S'Cool flaX 8.6, Flash Gold",
+  "Stuntsparkcykel SOKE EVO Street, Silver",
+  "Stuntsparkcykel SOKE GO, Grön/Blå",
+  "Stuntsparkcykel SOKE GO, Gul",
+  "Stuntsparkcykel SOKE GO, Svart och Rosa",
+  "Stuntsparkcykel SOKE PRO, Svart/Gul/Neon",
+  "Stuntsparkcykel SOKE PRO, lila-röd",
+  "Stuntsparkcykel SOKE XTR, Silver/Svart",
+  "Stuntsparkcykel SOKE XTR, Svart/Turkos",
+  "Stuntsparkcykel Union Aero XS Scooter Svart",
+  "Stuntsparkcykel Union Aero XS Svart/Rå",
+  "Stuntsparkcykel Union DOT L, Svart/Grå",
+  "Stuntsparkcykel Union Lite M Scooter Svart",
+  "Stuntsparkcykel Union Lite S Scooter Neochrome",
+  "Stuntsparkcykel Union Lite XS Scooter Svart",
+  "Stuntsparkcykel Versatyl Bloody Mary V2 Pro, Orange/Blå/Svart",
+  "Stuntsparkcykel Versatyl Bloody Mary V2 Pro, Svart",
+  "Stuntsparkcykel Versatyl Cosmopolitan V2 Pro Scooter Neochrome",
+  "Tricksparkcykel SOKE EVO, Blå",
+  "Tricksparkcykel SOKE EVO, Guld",
+  "Tricksparkcykel SOKE EVO, Neochromic",
+  "Tricksparkcykel SOKE EVO, Svart/Blå",
+  "Tricksparkcykel SOKE EVO, Svart/Grön",
+  "Tricksparkcykel SOKE EVO, Svart/Lila",
+  "Tricksparkcykel SOKE EVO, Svart/Neochrome",
+  "Tricksparkcykel SOKE EVO, Svart/Röd",
+  "Tricksparkcykel SOKE XTR, Rainbow",
+  "Tricksparkcykel Versatyl S2S Edition Pro Scooter Krom/Svart"
+ ]
+}

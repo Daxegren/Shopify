@@ -1,0 +1,191 @@
+{
+ "handle": "hantlar",
+ "id": "gid://shopify/Collection/526981955850",
+ "titel": "Hantlar",
+ "regel": [
+  [
+   "TAG",
+   "EQUALS",
+   "hantlar"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "hantel"
+  ]
+ ],
+ "huvud_regex": "hantel|hantlar",
+ "antal_i_kollektionen": 117,
+ "antal_koopbara_alla": 57,
+ "antal_koopbara": 48,
+ "antal_ovriga_koopbara": 9,
+ "exempel_ovriga": [
+  "Pro Chrome Hantel 0,5kg - enkel",
+  "Active 10kg Vinyl Dumbbell Set",
+  "2kg Dumbbell Bar",
+  "Quick-Lock Dumbbell 36kg",
+  "Adjustable Dumbbell Set 15kg",
+  "60 kg vinyl skivstångs- och hantelset"
+ ],
+ "marken": [
+  [
+   "Tunturi",
+   27
+  ],
+  [
+   "Gymstick",
+   7
+  ],
+  [
+   "Hammer",
+   5
+  ],
+  [
+   "Toorx",
+   5
+  ],
+  [
+   "Gorilla Sports Norden",
+   2
+  ],
+  [
+   "Christopeit",
+   1
+  ],
+  [
+   "Zipro",
+   1
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "hantel",
+   16
+  ],
+  [
+   "hantelset",
+   10
+  ],
+  [
+   "justerbar",
+   9
+  ],
+  [
+   "hantel-",
+   3
+  ],
+  [
+   "hantelstång",
+   2
+  ],
+  [
+   "vinylhantel",
+   2
+  ],
+  [
+   "snabbkoppling",
+   1
+  ],
+  [
+   "tpu-hantel",
+   1
+  ],
+  [
+   "hexhantel",
+   1
+  ],
+  [
+   "hantelställ",
+   1
+  ]
+ ],
+ "pris_min": 69.0,
+ "pris_max": 14529.0,
+ "pris_median": 1539.0,
+ "antal_utan_pris_noll": 1,
+ "kg_i_titlar_min": 2.0,
+ "kg_i_titlar_max": 50.0,
+ "antal_titlar_med_kg": 37,
+ "billigaste": [
+  [
+   "Hantel Toorx i Neopren, Säljs Styckvis",
+   69.0
+  ],
+  [
+   "Hexhantel Gymstick Pro",
+   79.0
+  ],
+  [
+   "Vinylhantel Gymstick Pro",
+   89.0
+  ],
+  [
+   "Hantel Gymstick Studio, 3 kg, Röd",
+   139.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Hantelset Tunturi PU Pro, 10 Par, 2–12 kg",
+   14529.0
+  ],
+  [
+   "Justerbar hantel TUNTURI MX100 skivstång 12,8 - 45,5 kg",
+   13039.0
+  ],
+  [
+   "Justerbar Hantel Tunturi MX Select MX85 5,6–38,6 kg Räfflad",
+   7039.0
+  ]
+ ],
+ "alla_titlar": [
+  "Hantel E Series i Gjutjärn, 25 mm, 20 kg",
+  "Hantel GYMSTICK Hantel 35 cm, 2 kg, 30 mm",
+  "Hantel Gymstick Studio, 3 kg, Röd",
+  "Hantel Hammer Dumbbell Set, 10 kg, Järn",
+  "Hantel Hammer Dumbbell Set, 10 kg, Krom",
+  "Hantel Hammer Dumbbell Set, 15 kg",
+  "Hantel TUNTURI Platinum Hex Gummibelagd Hantel, 37,5 kg",
+  "Hantel TUNTURI Platinum Hex Gummibelagd Hantel, 37,5 kg",
+  "Hantel Toorx Gjutjärn, 10 kg",
+  "Hantel Toorx Neoprene, Svart, 6 kg",
+  "Hantel Toorx i Neopren, Säljs Styckvis",
+  "Hantel Tunturi Platinum Hex Gummibelagd, 37,5 kg",
+  "Hantel Tunturi Platinum Hex Rubber, 10 kg",
+  "Hantel Tunturi Platinum Hex Rubber, 6 kg",
+  "Hantel Tunturi Rapid Justerbar, 20 kg",
+  "Hantel ZIPRO HEX 2.5kg, svart",
+  "Hantel- och Skivstångsset Christopeit 4-i-1, 20 kg",
+  "Hantel- och Skivstångsset Tunturi Vinyl 50 kg",
+  "Hantel- och Skivstångsset Tunturi, 20 kg, Järn",
+  "Hantelset Gymstick Vinyl, 15 kg",
+  "Hantelset Toorx Gjutjärn, 20 kg",
+  "Hantelset Tunturi Centuri Neopren med Ställ, 3 Par",
+  "Hantelset Tunturi PU Pro, 10 Par, 2–12 kg",
+  "Hantelset Tunturi Platinum Hex Rubber, 1–10 kg",
+  "Hantelset Tunturi Vinyl, 15 kg",
+  "Hantelset Tunturi Vinyl, 28 kg",
+  "Hantelset Tunturi med Skruvfästen, 15 kg",
+  "Hantelset Tunturi med Skruvlås, 20 kg",
+  "Hantelset Tunturi, 20 kg",
+  "Hantelställ Tunturi Dumbbell Tower",
+  "Hantelställsben Tunturi Pro Dumbbell Rack Stand",
+  "Hantelstång 2x35 cm, 30 mm, Svart",
+  "Hantelstång Tunturi, 36 cm, med Skruvfästen",
+  "Hantlar Tunturi Platinum Hex med Gummiöverdrag",
+  "Hexhantel Gymstick Pro",
+  "Justerbar Hantel Hammer SmartLock med Vrid-och-lås-mekanism",
+  "Justerbar Hantel Hammer StrongLock 8.0, Upp till 23 kg",
+  "Justerbar Hantel Tunturi MX Select MX30 3,4–13,9 kg",
+  "Justerbar Hantel Tunturi MX Select MX85 5,6–38,6 kg Räfflad",
+  "Justerbar Hantel Tunturi MX55 4,5–24,9 kg",
+  "Justerbar Hantel Tunturi MX55 4,5–24,9 kg Räfflad",
+  "Justerbar Hantel Tunturi Selector Dumbbell 12,5 kg",
+  "Justerbar Hantel Tunturi Selector Dumbbell 25 kg",
+  "Justerbar hantel TUNTURI MX100 skivstång 12,8 - 45,5 kg",
+  "Snabbkoppling Hantel 22,5kg",
+  "TPU-hantel Gymstick Pro",
+  "Vinylhantel Gymstick Pro",
+  "Vinylhantel Toorx, 3 kg, Mörkröd"
+ ]
+}
