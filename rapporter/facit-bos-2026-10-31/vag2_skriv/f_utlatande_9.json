@@ -1,0 +1,211 @@
+[
+ {
+  "nr": 10201,
+  "id": "10472259059978",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Data ordagrant (LCD 49 x 24 mm, 5 program, 8 grader, PMS manuellt, 2 x AA, mått, hopfällt mått, 26,5 kg). Surfplattehållaren står i källan ('den medföljande hållaren'); hopfällbar följer av 'Mått hopfälld'. Belastningskapacitet, 'Maximal driftsvikt' och 'Max. belastning' utelämnade (alt A). Beställningsmening rätt."
+ },
+ {
+  "nr": 10202,
+  "id": "10561337393418",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Data ordagrant; 'Belastning: 5,5 kg' utelämnad; 'Maximal användarvikt: 120 kg' står ordagrant på svenska. Hopfällbar och transporthjul i källan; 'robust roddhandtag' borta. 5,5-tums skrivs rätt. Beställningsmening rätt."
+ },
+ {
+  "nr": 10203,
+  "id": "10472306376970",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Kedja i stället för band och två delar som snäpper ihop står i källan (enligt tillverkaren). Trasiga 'aerodynamisk löpbana' och resultatlöften borta; Lastkapacitet 4,5 kg och 'Maximal driftsvikt' utelämnade (alt A). Beställningsmening rätt."
+ },
+ {
+  "nr": 10204,
+  "id": "10676602732810",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Data ordagrant; 'idealisk för lågintensiv träning' borta; 'Maximal användarvikt: 150 kg' ordagrant. Ingen beställningstagg, ingen beställningsmening (rätt)."
+ },
+ {
+  "nr": 10205,
+  "id": "10605385056522",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Data ordagrant (Fluid BT Monitor, 4 nivåer, vatten, 213 x 52 x 56 cm, 34,7 kg); stål och trä samt bokton enligt tillverkaren, 'styrka/hållbarhet' borta; 'Maximal användarvikt' ordagrant. SEO utan 'Rower' godtas. Skiljs från 10206 (annan SKU, annan källa, annan finish)."
+ },
+ {
+  "nr": 10206,
+  "id": "10472262729994",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Källan saknar mått, vikt och maxvikt och utkastet har inga. Fluid Monitor, Twin Tank, stål/amerikanskt askträ, justerbara fotplattor och remmar samt pulsbälte står i källan; hälso-, pulssäkerhets-, hållnings- och stabilitetstext borta. 'Pedal ergometer' i bildtexten är felord; titel, tagg och text gäller roddmaskin."
+ },
+ {
+  "nr": 10207,
+  "id": "10494771265802",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn källa, allt ordagrant (10 nivåer, 213 x 54 x 56 cm, 36,04 kg, 'Maximal användarvikt: 150 kg'). productType Professionell utrustning oförändrad."
+ },
+ {
+  "nr": 10208,
+  "id": "10468716740874",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Tunturi Evo E550 är en roddmaskin av aluminium med Fluid Twin-Tank XL och 10 motståndsnivåer. Måtten är 213 x 54 x 56 cm och vikten 30,84 kg.",
+    "efter": "Tunturi Fluid Rower Evo E550 är en roddmaskin av aluminium med Fluid Twin-Tank XL och 10 motståndsnivåer. Måtten är 213 x 54 x 56 cm och vikten 30,84 kg."
+   }
+  },
+  "skal": "Meta tappar modellnamnet ('Fluid Rower'); återställs (153 tecken). Övrigt ordagrant (aluminium, Fluid Twin-Tank XL, 10 nivåer, mått, 30,84 kg, maxvikt ordagrant). 'Silver Bronze' behålls som del av källans produktnamn."
+ },
+ {
+  "nr": 10209,
+  "id": "10605385122058",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Data ordagrant; Twin Tank med två separata tankar står i källan; 'suverän kvalitet' borta; 'Maximal användarvikt' ordagrant. Beställningsmening rätt."
+ },
+ {
+  "nr": 10210,
+  "id": "10673180147978",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Hemmabruk, kompakt och hopfällbar står i källan; 'träna hela kroppen'/'smarta funktioner' borta; data ordagrant; 'Maximal användarvikt: 120 kg' ordagrant."
+ },
+ {
+  "nr": 10211,
+  "id": "10461966860554",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Strömförsörjning: 9V adapter</li>",
+    "efter": "<li>Strömförsörjning: 9 V-adapter</li>"
+   }
+  },
+  "skal": "Data ordagrant; 21 program följer specifikationen (brödtextens '20 förinställda ... eller skapa ditt eget' går ihop med 21). Belastningskapacitet och 'Maximal driftsvikt' utelämnade (alt A). Fotstöd med remmar, surfplatte- och flaskhållare samt transporthjul står i källan. Rättning: '9V adapter' skrivs '9 V-adapter' (enhet med mellanslag, svensk sammansättning)."
+ },
+ {
+  "nr": 10212,
+  "id": "10472304312586",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Godkänd: bara viktmagasinet 120 kg (brödtexten) och 2,5 mm stålram återges; de motsägande 'Vikt'-raderna (120/230 kg) och 'Maximal driftsvikt' är utelämnade; 'komplett ryggträning'/'idealisk för gym' borta. Typordet Latsdrag/Rodd står i live-titeln och taggen Latsdrag. Obs: maskin med viktmagasin, se fråga till David."
+ },
+ {
+  "nr": 10213,
+  "id": "10650210533642",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Hammar' → Hammer stöds av vendor och källtext. 50 mm, Olympic-standard och snabbt byte av viktskivor enligt tillverkaren; säkerhets-/trygghetslöften borta; ingen belastning i källan. Svart aluminium bara i titeln. Titel, SEO, meta och text skiljer sig från 10215 och 10218 trots identisk källtext."
+ },
+ {
+  "nr": 10215,
+  "id": "10650210566410",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Som 10213 men 'Premium' från titeln; inget påstående om vad Premium innebär. Titel, SEO och meta unika mot 10213/10218."
+ },
+ {
+  "nr": 10217,
+  "id": "10650210599178",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Lever locks' → Leverlås (ordagrann översättning av källans typord, samma som 10218:s live-titel). Skjuta på/av, förstärkt nylon och härdade kulor i rostfritt stål ordagrant; 'säkert låsta', bänkpress/marklyft borta; ingen diameter påstås."
+ },
+ {
+  "nr": 10218,
+  "id": "10650210500874",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Leverlås står i live-titeln (källtexten säger snabblås, utkastet följer titeln). 50 mm, olympisk standard enligt tillverkaren; Röd bara i titeln, en variant. Säkerhetslöften borta."
+ },
+ {
+  "nr": 10214,
+  "id": "10650210763018",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Barbell Shoulder Pad' → Skivstångsskydd för axlar står ordagrant i källtexten. Tryck-, dämpnings- och komfortpåståenden borta; övningarna enligt tillverkaren; fästs på skivstången står i källan. Inga mått påhittade."
+ },
+ {
+  "nr": 10216,
+  "id": "10472302936330",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Data ordagrant (5 kg, 30 mm, 28 mm, 20,5 cm, 1 viktplatta); passar 30 mm-stänger enligt tillverkaren; drömkropp och handtag (gäller 5–20 kg, oklart) borta."
+ },
+ {
+  "nr": 10224,
+  "id": "10656692076810",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Data ordagrant (åttkantig, 2,5 kg, 50 mm, 23 cm, 1 viktplatta); stabilitet borta. Handle säger 5 kg och 17032 men varianten/SKU och källan säger 17031 och 2,5 kg; texten följer källan."
+ },
+ {
+  "nr": 10219,
+  "id": "10673179656458",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Lastkapacitet: 800 kg</li>",
+    "efter": "<li>Lastkapacitet: 800 kg (enligt tillverkaren)</li>"
+   }
+  },
+  "skal": "Lastkapaciteten 800 kg står entydigt i tre led i just denna produkts källa (titel '800kg', brödtext 'maximal lastkapacitet på upp till 800 kg', specifikation 'Lastkapacitet: 800 kg') och gäller skivstången; behålls men markeras 'enligt tillverkaren' en gång. 'Lyftstång' → Skivstång stöds av källtexten ('skivstång'). Halkfritt/säkert grepp borta."
+ },
+ {
+  "nr": 10220,
+  "id": "10673179721994",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Belastningskapacitet: 700 kg</li>",
+    "efter": "<li>Belastningskapacitet: 700 kg (enligt tillverkaren)</li>"
+   }
+  },
+  "skal": "Belastningskapaciteten 700 kg står i titel, specifikation och brödtext; behålls som 'enligt tillverkaren'. Längdkonflikten (titel 222 cm, spec 220 cm) korrekt hanterad: ingen längd i texten. Kullager enligt tillverkaren; skaderisk/grepp borta. Obs: brödtextens '700 kg' är Hammers gemensamma text (står även i 10222 där specen säger 250 kg), men här stöds den av titel och spec."
+ },
+ {
+  "nr": 10221,
+  "id": "10650210730250",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Hammer Premium SZ-Curl Bar är en böjd SZ-skivstång på 120 cm av stål med svart finish. Den väger 10 kg och har lastkapaciteten 225 kg.",
+    "efter": "Hammer Premium SZ-Curl Bar är en böjd SZ-skivstång på 120 cm av stål med svart finish. Den väger 10 kg och passar viktplattor med 50 mm håldiameter."
+   },
+   "html": {
+    "fore": "<li>Lastkapacitet: 225 kg</li>",
+    "efter": "<li>Lastkapacitet: 225 kg (enligt tillverkaren)</li>"
+   }
+  },
+  "skal": "Lastkapaciteten 225 kg står i titel, brödtext ('tål stången belastningar upp till 225 kg') och spec; behålls i specifikationen som 'enligt tillverkaren' och stryks ur meta (meta utan maxlast, 148 tecken). Handleds-/ledpåståenden och den förvirrade kullagertexten borta."
+ },
+ {
+  "nr": 10225,
+  "id": "10411923341578",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Lastkapacitet: 320 kg</li>",
+    "efter": "<li>Lastkapacitet: 320 kg (enligt tillverkaren)</li>"
+   }
+  },
+  "skal": "Lastkapaciteten 320 kg står i titel och spec; behålls som 'enligt tillverkaren'. Taggen 'skivstång 30mm' motsäger titel och text (50 mm); utkastet följer titel och text (rätt), taggen ändras inte av oss. 'Inte lämplig för CrossFit' återges som tillverkarens begränsning (rätt)."
+ },
+ {
+  "nr": 10222,
+  "id": "10650210664714",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Avvisningen bekräftas: två varianter (17611 3039 kr, 17613 5699 kr) med oförklarade namn, längd 183/220 cm och belastning 250/700 kg motsäger varandra."
+ },
+ {
+  "nr": 10223,
+  "id": "10650210369802",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Avvisningen bekräftas: tre färgvarianter (Red/gray/yellow) med priser 379/559/2039 kr som tyder på olika vikter; titel låser Röd och 2,5 kg, handle säger grön 10 kg."
+ }
+]
