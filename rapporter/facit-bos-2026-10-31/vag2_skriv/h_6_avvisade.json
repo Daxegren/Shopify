@@ -1,0 +1,22 @@
+[
+ {
+  "id": "10462783897866",
+  "nr": 10579,
+  "skäl": "Möjlig dubblett av redan skriven produkt: samma modell och färg som 10472305393930 (Träningshandskar Toorx Professional Gloves, Svart och Grå; SEO och texter-klara live). Sammanslagningsplanen (grupp 42) lämnar öppet om AHF-033 och AHF-034 är olika storlekar, och källan nämner ingen storlek, så titel och spec kan inte skilja produkterna åt. SEO-titeln skulle dessutom krocka med den redan skrivna. Kräver beslut om dubbletten."
+ },
+ {
+  "id": "10472305557770",
+  "nr": 10580,
+  "skäl": "R3/R2: titeln anger färgen svart-röd men produktens enda variant heter \"M / black\" (SKU AHF-087), så titel och live-variant motsäger varandra och källtexten anger varken färg eller storlek. Titel och spec kan inte låsas. Syskonet 10462784094474 (samma titel) är DRAFT."
+ },
+ {
+  "id": "10472271511818",
+  "nr": 10596,
+  "skäl": "R3: titeln anger Medium 105 cm men leverantörstexten beskriver \"Abdominal Power Belt Large\" och \"Large 105cm\". Titel och källa motsäger varandra (storlek Medium mot Large), och vår egen tidigare text räknas inte som källa. Storleken måste avgöras före skrivning."
+ },
+ {
+  "id": "10588451471626",
+  "nr": 10603,
+  "skäl": "R3: titeln anger 10 kg men produkten har två varianter med olika pris (25TUPLA092 = 1 499 kr, 25TUPLA091 = 739 kr) som bara heter som sin SKU, och källan nämner ingen vikt. Titel och spec kan inte låsas till en vikt."
+ }
+]

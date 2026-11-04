@@ -1,0 +1,207 @@
+[
+ {
+  "nr": 10581,
+  "id": "10624082968842",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Styrkeövningar, öglor och halkfri handflata ur källan; 'halkfri' står ordagrant och skrivs 'enligt tillverkaren' (R5). Svart ur titeln. Komfort, säkerhet och Italien borta. SEO skiljer sig från DRAFT-syskonet Viktlyftningshandskar."
+ },
+ {
+  "nr": 10582,
+  "id": "10472279736586",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Källan identisk med syskonen; användning (styrketräning), kettlebells/hantlar och halkfri (enligt tillverkaren) ordagrant. Färg ur titeln."
+ },
+ {
+  "nr": 10583,
+  "id": "10472263221514",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typordsbytet Belt → Bicepsfäste har stöd i källan ('Tunturi bicepsfäste', 'bicepsfästet') (R7). 57 cm, 0,72 kg, justerbar, svart, aluminium/snoddrem, nack- och armbågspolstring ordagrant. Isolering, ryggproblem, stark/hållbar borta (R5)."
+ },
+ {
+  "nr": 10584,
+  "id": "10471027507466",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Viktbälte står i källan ('Tunturi viktbälte', 'extra viktbältet') (R7). Alla mått, läder/stålkedja, en storlek, vaddering och chinsexemplet ordagrant. Muskelutveckling och hållbart borta. Ingen lastgräns i källan."
+ },
+ {
+  "nr": 10585,
+  "id": "10471027212554",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live-ordet Ben- och armvikter behålls, samma som redan skrivna syskonet 10472270266634 (2 x 1,5 kg). Alla specifikationer ordagrant; träningseffekt borta."
+ },
+ {
+  "nr": 10586,
+  "id": "10472213315850",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Tunturi EVA Dipping Belt är ett svart bälte i plast (EVA) med metallkedja som väger 529 g.",
+    "efter": "Tunturi EVA Dipping Belt är ett svart bälte i plast (EVA) som väger 529 g och levereras med en metallkedja för extra vikt."
+   }
+  },
+  "skal": "Fakta stämmer (EVA, svart, metallkedja ingår, 529 g); oklara mått och 'dykbälte' rätt utelämnade. Metan kan läsas som att kedjan väger 529 g (källan anger produktens vikt). Efter: 122 tecken."
+ },
+ {
+  "nr": 10587,
+  "id": "10471350534410",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "en halkfri sida för trä",
+    "efter": "enligt tillverkaren en halkfri sida för trä"
+   }
+  },
+  "skal": "Två entydiga fakta utöver titeln (två sidor; underlag), räcker enligt R3. '&' → 'och' i produktnamnet följer R10. 'Halkfri' är ett R5-ord: i html står det 'enligt tillverkaren', i metan inte. Efter: 144 tecken. Beställningsmening rätt."
+ },
+ {
+  "nr": 10588,
+  "id": "10462191124746",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Träningshandskar står i källan (R7). Läder, öppna fingrar, handledsremmar, snöre, par ordagrant; halkfria 'enligt tillverkaren'. Storlek XXL och produktkod 14TUSFU216 (live-SKU 14TUSFU220) rätt utelämnade (R2). Titeln anger ingen storlek och produkten har en variant, så R3 utlöses inte. Inget storlekssyskon finns i butiken (sökt på SKU). Skydd, stukningar, handledsstyrka och Fitkids borta."
+ },
+ {
+  "nr": 10590,
+  "id": "10472289108234",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stretchband står i källan ('stretchbandet') och i redan skrivna syskon (Extra Light). 104 cm, 2,9 cm, latex, grön; motstånd 10–35 kg står två gånger i källan och stämmer med listan (29 mm, grön). Motstånd är inte en lastgräns (R4 gäller inte) och står en gång per fält som 'enligt tillverkaren', godtas. Skräpraden '2,9 cm - 2,9 kg' rätt utelämnad."
+ },
+ {
+  "nr": 10592,
+  "id": "10468731683082",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Som 10590: 104 cm, 4,4 cm (44 mm), 20–55 kg, blå, latex. 'Blue' → 'Blå'. SEO (…Heavy) krockar inte med Extra Heavy (Träningsband …, Svart) eller Light (DRAFT)."
+ },
+ {
+  "nr": 10593,
+  "id": "10471026819338",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Tunturi Resistance Trainer är ett svart set med stretchgummi, träningsstång, dörrankare, säkerhetsrem och förvaringsväska på 2,2 kg.",
+    "efter": "Tunturi Resistance Trainer är ett svart set på 2,2 kg med stretchgummi, träningsstång, dörrankare, säkerhetsrem och förvaringsväska."
+   }
+  },
+  "skal": "Innehåll, mått, 2,2 kg, dacron/latex/stål, svart ordagrant; träningseffekter borta. Typordet Stretchgummiset är bildat av källans 'stretchgummi' + 'satsen/set' (syskonet 10472279671050 heter live Stretchgummi), godtas som R7-gränsfall. Metan kan läsas som att väskan väger 2,2 kg. Efter: 132 tecken."
+ },
+ {
+  "nr": 10594,
+  "id": "10411721392394",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Läder och nylon, öppna fingrar, kardborreband, parvis, svart ordagrant. Live-varianten heter S medan källan säger 'Finns i andra storlekar (S, M, XL)' och koden 14TUSFU205 (SKU 203): motsägelse, storlek rätt utelämnad (R2). Titeln låser ingen storlek; variantnamnet visas ändå i butiken. 'Intern handske' och blåsor/hygien borta."
+ },
+ {
+  "nr": 10597,
+  "id": "10472308539658",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Tunturi Mini Resistance Band Set har fyra motståndsband i olika färger och en liten förvaringspåse. Varje band är 25 x 5 x 0,8 cm.",
+    "efter": "Tunturi Mini Resistance Band Set har fyra motståndsband i blått, orange, grönt och grått samt en liten förvaringspåse."
+   }
+  },
+  "skal": "Fyra band, påse, färg och kg per färg ordagrant. Kg per färg är inte en lastgräns och återges som i källan utan tolkning, godtas. 'Varje band är 25 x 5 x 0,8 cm' är en tolkning (källan säger bara 'Mått'); html har bara 'Mått', vilket godtas. Efter: 118 tecken."
+ },
+ {
+  "nr": 10598,
+  "id": "10472310931722",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live-SEO kommer från experiment 1 (forslag-bos-experiment-1), som inte längre hålls (BESLUTSLOGG 2026-11-04); ingen html eller standardblock live, så texten ersätts helt (R15). Fem band, färger, kg och påse ordagrant. Metan tolkar inte måttet. SEO bara versaler ändrade."
+ },
+ {
+  "nr": 10600,
+  "id": "10472289632522",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Den maskinöversatta live-titeln är omskriven och behåller live-ordet motståndsbandset (R2/R7), godtas. 5 band med kg per färg, fot-/handledsband, dörrfäste, nätpåse, latex, 513 g ordagrant. 'Längd på rören', fysioterapeuter och rehabiliteringsläkare rätt utelämnade (R5)."
+ },
+ {
+  "nr": 10601,
+  "id": "10411853512970",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "\n<li>Finns även i: 100, 110 och 120 cm</li>",
+    "efter": ""
+   }
+  },
+  "skal": "Mått, 417 g, svart, läder, spänne ordagrant. 'Stödjer mage och rygg vid träning med vikter' står ordagrant och har 'enligt tillverkaren' (R5 tillåter); skador och prestation borta. Raden 'Finns även i 100, 110 och 120 cm' stryks: butiken har inga sådana storlekar (sökt på titel och SKU), så raden lovar något kunden inte kan köpa. SKU 14TUSCL279 mot koden 14TUSCL278 i källan: titel och källa säger båda 90 cm, så inget R3-fel."
+ },
+ {
+  "nr": 10602,
+  "id": "10472289698058",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "De fästs på handleden eller ankeln med en snodd, och två vikter ingår.",
+    "efter": "De fästs på handleden eller ankeln med en snodd."
+   }
+  },
+  "skal": "'Innehåll: järnväst' är en egen rad och rätt utelämnad (R2). Mått 40 x 14 x 5 cm och 2 x 2,25 kg står på egna rader, stämmer med titeln och är rimliga för handleds-/ankelvikter, godtas. Typordet Vikter står i källan ('dessa vikter') (R7). Upprepningen 'två vikter … två vikter ingår' i första stycket stryks."
+ },
+ {
+  "nr": 10604,
+  "id": "10605355172106",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Ökar din kroppsvikt med upp till 30 kg' anger hur mycket vikt västen rymmer, inte en lastgräns för en konstruktion (R4 gäller inte). Samma form som redan skrivna syskonet 10472260665610 ('Maximal vikt: 20 kg'). 1 kg viktblock, en storlek, över huvudet, spänne ordagrant; 'säker passform' borta."
+ },
+ {
+  "nr": 10605,
+  "id": "10472326660362",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "8 sandpåsar à 1,25 kg, nylon, justerbara remmar ordagrant; 10 kg ur titeln, och 8 x 1,25 = 10 stämmer. Ingen dubblett av den skrivna Viktväst Tunturi (10470997197066, annan SKU)."
+ },
+ {
+  "nr": 10606,
+  "id": "10472270561546",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Boxningshandskar står i källan (R7). 12 oz, ventilationshål, handledsstöd, sidostygnad tumme, sparring ordagrant. 'Förhindrar skador' (två gånger), hudvänligt och Tyskland borta, så inget skadeförebyggande påstående finns kvar. SEO skiljer sig från DRAFT-syskonen 10/14 oz."
+ },
+ {
+  "nr": 10607,
+  "id": "10472279572746",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Fyra entydiga fakta (endast boxningsträning, polyuretan, tumplatta/rörlighet, S/M), allt 'enligt tillverkaren' där det behövs. SEO med S/M skiljer sig från syskonet Jaguar L/XL (10475517804810)."
+ },
+ {
+  "nr": 10579,
+  "id": "10462783897866",
+  "dom": "AVVISAD (bekräftad)",
+  "rattningar": {},
+  "skal": "Avvisningen bekräftas. Samma titel, färg, pris (139 kr) och källtext som redan skrivna 10472305393930 (SKU AHF-034 mot AHF-033), ingen storlek i källan. Texten kan inte skilja produkterna åt, och SEO-titeln skulle krocka. Kräver beslut om dubbletten."
+ },
+ {
+  "nr": 10580,
+  "id": "10472305557770",
+  "dom": "AVVISAD (bekräftad)",
+  "rattningar": {},
+  "skal": "Avvisningen bekräftas. Titeln säger svart-röd men den enda varianten heter 'M / black' (AHF-087, 119 kr). Källan nämner ingen färg (R3)."
+ },
+ {
+  "nr": 10596,
+  "id": "10472271511818",
+  "dom": "AVVISAD (bekräftad)",
+  "rattningar": {},
+  "skal": "Avvisningen bekräftas. Titeln säger Medium 105 cm, källan 'Abdominal Power Belt Large' och 'Large 105cm' (R3). Källan består dessutom mest av skadeförebyggande påståenden."
+ },
+ {
+  "nr": 10603,
+  "id": "10588451471626",
+  "dom": "AVVISAD (bekräftad)",
+  "rattningar": {},
+  "skal": "Avvisningen bekräftas. Titeln säger 10 kg, men produkten har två varianter med olika pris (1 499 och 739 kr) som bara heter som sin SKU, och källan nämner ingen vikt (R3)."
+ }
+]

@@ -3,7 +3,7 @@
 Genereras av `shopify-sync/scripts/status_uppdatera.py` (2026-11-04). Redigera inte för hand; öppna frågor ligger i `oppna_fragor.json`.
 Regler: `shopify-sync/regler/regler-v1.md`. Beslut: `shopify-sync/docs/BESLUTSLOGG.md`. Profil: `shopify-sync/config/butiksprofil-bestofsports.json`.
 
-**Fitnessgruppen:** 470 produkter skrivna och verifierade i batcherna nedan (utöver tidigare vågor). Avvisade i batcherna: 62.
+**Fitnessgruppen:** 470 produkter skrivna och verifierade i batcherna nedan (utöver tidigare vågor). Avvisade i batcherna: 66.
 
 | Batch | Inventerade | Utkast | Avvisade | Dom (godk/rättas/underk) | Skrivfil | Steg |
 |---|---|---|---|---|---|---|
@@ -32,7 +32,7 @@ Regler: `shopify-sync/regler/regler-v1.md`. Beslut: `shopify-sync/docs/BESLUTSLO
 | h_3 | 25 | 24 | 1 | 11/12/1 | 23 | skriven |
 | h_4 | 25 | 23 | 2 | 15/8/0 | 23 | skrivfil |
 | h_5 | 25 | 21 | 4 | 17/4/0 | 21 | skrivfil |
-| h_6 | 25 |  | 0 |  |  | in |
+| h_6 | 25 | 21 | 4 | 15/6/0 | 21 | skrivfil |
 | h_7 | 5 |  | 0 |  |  | in |
 
 Steg: in → utkast → granskad → skrivfil → skriven (skrivrapport finns). f_x1 och fix-filer (f_*fix) ingår i huvudbatcherna.
