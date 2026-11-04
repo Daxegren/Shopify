@@ -7,6 +7,10 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 
 ---
 
+### 2026-11-04: switch-shop återkallar åtkomsten för alla sessioner (onboarding WORKOUT BRANDS)
+- **Vad hände:** Shopify-verktygets koppling delas mellan sessioner och pekar på en butik åt gången. Jag körde switch-shop för att byta från BEST OF SPORTS till WORKOUT BRANDS, vilket återkallade BOS-åtkomsten och bröt den parallella BOS-sessionen. Dessutom hade jag, när verktyget först sa att inloggning krävdes, redan avslutat fas 1 på publika data.
+- **Regel:** kör aldrig switch-shop när andra sessioner arbetar parallellt. Inventera nya butiker via publika data eller via API-åtkomst per butik (egen app och nyckel), inte via den delade MCP-kopplingen.
+
 ### 2026-11-03: Samma fel i skrivfil 20: lika titel betyder inte skriven (våg 2b, produkt 10589704749322)
 - **Vad hände:** produkt 8912 i skrivfil 20 hade rätt titel men gammal seo-titel, metabeskrivning och beskrivning. Regeln "hoppa över när titeln är lika" följdes inte, eftersom den bygger på ett antagande som inte stämde. Produkten skrevs med resten av filen och redovisas i rapporten.
 - **Regel:** innan en produkt hoppas över, jämför alla fält som skrivfilen ändrar (titel, seo, meta, beskrivning) mot live. Titel ensam räcker inte som bevis för att produkten är skriven. Avvikelse från regeln redovisas.
