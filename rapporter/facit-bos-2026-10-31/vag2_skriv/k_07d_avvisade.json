@@ -1,0 +1,27 @@
+[
+ {
+  "id": "10472242446602",
+  "nr": 9476,
+  "skäl": "Bromsskiva Shimano SM-RT64: bromsdel (skivbromsrotor) är säkerhetskritisk och avvisas enligt specialreglerna för cykeldelar."
+ },
+ {
+  "id": "10665225945354",
+  "nr": 9482,
+  "skäl": "Spinningcykel Toorx SRX Speed Mag: dubblett (R12a). Samma modell, samma data (Q-faktor, höjder, 20 kg svänghjul, 42 kg, 122 x 51 x 134 cm) som den redan skrivna och aktiva 10665225912586 (texter-klara). Butikens handle slutar på -1, och fitness_inventering markerar den som dubblett."
+ },
+ {
+  "id": "10472304050442",
+  "nr": 9479,
+  "skäl": "Dubbdäck Suomi Tyres Porcupine W408 TT 29 x 2.: dubbdäck är säkerhetskritiska och avvisas. Dessutom är titeln avklippt och bredden i källan ofullständig ('29 x 2.', '65-622')."
+ },
+ {
+  "id": "10472304017674",
+  "nr": 9480,
+  "skäl": "Dubbdäck Suomi Tyres Routa W126 28 x 1.: dubbdäck är säkerhetskritiska och avvisas. Titeln är avklippt ('28 x 1.') och källan har en trasig rad om användning."
+ },
+ {
+  "id": "10462785896714",
+  "nr": 9487,
+  "skäl": "Kork Start NATURAL: tunn och trasig källa. Användningen är maskinöversatt ('skrubba bort hal jord') och det enda andra är vad korken inte ska användas till (fästvalla); produkttypen går inte att fastställa säkert (R2). Underkändes i b_20 (b_utlatande_20_21). Ingen webbkälla sökt, eftersom modellen 'Start Natural' inte kan skiljas från andra Start-korkar utan tillverkarsida."
+ }
+]

@@ -1,0 +1,57 @@
+[
+ {
+  "id": "10472278163722",
+  "nr": 9502,
+  "skäl": "Hantlar Christopeit 2 x 3 kg: två varianter (30-1872 för 439 kr och 30-1873 för 589 kr) och källan beskriver bara vinylhantelset 2 x 3 kg (R3, flera varianter med olika pris)."
+ },
+ {
+  "id": "10480054567178",
+  "nr": 9503,
+  "skäl": "Kettlebell Christopeit 12 kg: tunn källa, bara vikten i titeln och allmän reklamtext (ergonomiskt handtag, användningsområden); inga entydiga fakta om material eller mått, och webbsökning på artikelnummer 21-3567 gav ingen entydig träff (R3 tunn källa)."
+ },
+ {
+  "id": "10480054534410",
+  "nr": 9504,
+  "skäl": "Kettlebell Christopeit 2 kg: tunn källa, samma allmänna reklamtext som 12 kg-varianten och inga entydiga fakta utöver vikten i titeln (R3 tunn källa)."
+ },
+ {
+  "id": "10480054599946",
+  "nr": 9505,
+  "skäl": "Kettlebell Christopeit 4 kg: två varianter (21-2547 för 289 kr och 21-2548 för 489 kr) med olika pris, och källan anger inga vikter per variant (R3)."
+ },
+ {
+  "id": "10472296808714",
+  "nr": 9506,
+  "skäl": "Viktskivor för Christopeit SP 5000: källan är bara \"2x5 kg\" (tunn källa, R3), och produkten står i handhavd_ids.txt (beslut 2026-11-02, ej hävd)."
+ },
+ {
+  "id": "10636630622474",
+  "nr": 9508,
+  "skäl": "Viktskivor GUMMI Gjutjärn 1,25–25kg: sju varianter med olika vikt och pris (99–1 999 kr); titeln anger ett intervall och inte en enskild produkt (R3)."
+ },
+ {
+  "id": "10636690718986",
+  "nr": 9512,
+  "skäl": "Bumper Plates HiTemp 51mm 5-25kg: fem varianter (5–25 kg) med olika pris (499–1 999 kr) (R3)."
+ },
+ {
+  "id": "10636672631050",
+  "nr": 9513,
+  "skäl": "Bumper Plates HiTemp Paket 51mm 2x5-2x25kg: fem paketvarianter med olika pris (1 019–3 599 kr) (R3)."
+ },
+ {
+  "id": "10636735283466",
+  "nr": 9514,
+  "skäl": "Bumper Plates PROFI 51mm 5-25kg: fem varianter (5–25 kg) med olika pris (479–1 799 kr); titeln säger också 51 mm medan källan skriver \"Passar 50mm-stänger\" (R3)."
+ },
+ {
+  "id": "10636632621322",
+  "nr": 9515,
+  "skäl": "Competition Bumper Plates 2x10-25kg: fyra paketvarianter med olika pris (2 219–5 199 kr) (R3)."
+ },
+ {
+  "id": "10636758286602",
+  "nr": 9524,
+  "skäl": "Curlstångspaket Chrome 35 kg: redan skriven (live-texten har vår Passar för/Specifikationer och standardblocket; verifiering_facit30.md anger OK). Dubblett av egen text (R12a/R15)."
+ }
+]
