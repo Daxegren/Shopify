@@ -10,6 +10,11 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 - **Vad hände:** `format_regler.py` skriver stor bokstav efter bindestreck i typordet ("El-Lastcykel"). Granskaren av k_01a rättade det, men det gick igenom i k_01c (9055 och 9060) och skrevs i butiken. Upptäcktes när jag gjorde granskarens fynd till test; rättades samma dag (skrivet och återläst). Granskaren av k_01c fann dessutom 3 gånger "enligt tillverkaren" i en text (R5, högst 2), som skriptet inte räknade.
 - **Regel:** testerna "stor bokstav efter bindestreck i typordet" och "enligt tillverkaren högst 2 per text" finns nu i `skrivfil_kontroll.py`. Kör kontrollen om på skrivfilerna efter att ett nytt test lagts till, även på batcher som redan granskats.
 
+
+### 2026-11-04: Överlappande nr-serier mellan grupper (08 och 09)
+- **Vad hände:** in-filerna för grupp 08 numrerades från 9501 och grupp 09 från 9601, men grupp 08 har 126 produkter och nådde 9626. Samma `nr` fanns därför på två olika produkter (9608, 9610–9619, 9623, 9625). Upptäcktes av granskaren; inget skrevs fel eftersom skrivfilerna byggdes per batch och identifieras via id.
+- **Regel:** ge varje grupp ett nr-intervall som rymmer hela gruppen (t.ex. 1000 per grupp) och bygg skrivfiler per batch. Byggskriptet `bygg_m_skriv.py` bör nyckla på id, inte nr.
+
 ---
 
 ### 2026-11-03: Samma fel i skrivfil 20: lika titel betyder inte skriven (våg 2b, produkt 10589704749322)

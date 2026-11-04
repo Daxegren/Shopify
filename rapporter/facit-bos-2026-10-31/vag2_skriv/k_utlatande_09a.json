@@ -1,0 +1,156 @@
+[
+ {
+  "nr": 9608,
+  "id": "10494691672330",
+  "fil": "k_09a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typordet Golvmatta står i produktens egen källa (\"Golvmattan för träningsapparater\"), i linje med godkanda_typord. \"Skyddar golvet från skador\" står ordagrant och återges en gång \"enligt tillverkaren\" (R5). Mått ur källan."
+ },
+ {
+  "nr": 9613,
+  "id": "10472229044490",
+  "fil": "k_09a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Källan säger \"Golvmatta Christopeit M\"; \"skyddar mot golvskador\" ordagrant, en gång enligt tillverkaren. Mått och lämpliga maskiner ur källan."
+ },
+ {
+  "nr": 9614,
+  "id": "10472249491722",
+  "fil": "k_09a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Källan säger \"Golvmatta Christopeit XL\"; \"skydd mot golvskador\" återges nära ordagrant med enligt tillverkaren. Mått ur källan."
+ },
+ {
+  "nr": 9609,
+  "id": "10472506589450",
+  "fil": "k_09a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "21 program, PMS/servomotor (magnetisk broms i löptexten), 8 kg svänghjul (löptext), 30 cm, Kinomap, puls via handtag och bälte, mått, 32 kg, 200 cm och 150 kg (svensk etiketterad rad, stämmer med löptexten). \"Belastningsintervall 24\" och \"Belastning 8 kg\" rätt utelämnade. Två enligt tillverkaren (max)."
+ },
+ {
+  "nr": 9610,
+  "id": "10494693474570",
+  "fil": "k_09a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Utelämnandena är motiverade: programantal motsägs (12 mot 23, R2), \"Bruksanvisning: 12 kg\" är en trasig etikett. Övrigt (32 nivåer, EMS/induktion, remdrift, bakgrundsbelyst LCD, egna profiler, appar, 32 cm, mått, 50 kg, 150 kg) står i källan. Notera: SKU 30-2229 mot handtaget -30-2231 (påverkar inte texten)."
+ },
+ {
+  "nr": 9611,
+  "id": "10494695244042",
+  "fil": "k_09a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Justerbart styre och magdyna, display med tid/steg/kalorier, mått, hopfällt, 20 kg och 100 kg (etiketterad rad) ur källan. Träningseffekter, \"robusta\", \"halkfria\" och oklara \"skanning\" rätt strukna."
+ },
+ {
+  "nr": 9612,
+  "id": "10462755029258",
+  "fil": "k_09a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typordet Crosstrainer: källan säger \"elliptisk träningsmaskin\", butikens live-ord och tagg är Crosstrainer (R7, entydig översättning). Programantal rätt utelämnat (21 mot 12 + 5, R2). Egen ström/USB ur källan med enligt tillverkaren. Övriga specifikationer stämmer."
+ },
+ {
+  "nr": 9615,
+  "id": "10472269545738",
+  "fil": "k_09a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typordet Gåband behålls från live-titeln. LED, 6 program, 1–6 km/h, 1,2 hk (0,9 kW), fjärrkontroll, appar, mått, 22 kg, 120 kg ur källan. Taggen På beställning finns och leveranstidsmeningen ingår."
+ },
+ {
+  "nr": 9616,
+  "id": "10494691377418",
+  "fil": "k_09a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Plastöverdraget rep, upp till ca 276 cm, 2 x 150 g, 540 g ur källan. \"Bygger styrka och uthållighet\" rätt struket (träningseffekt)."
+ },
+ {
+  "nr": 9617,
+  "id": "10572673941770",
+  "fil": "k_09a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Motor: 1 HP",
+    "efter": "Motor: 1 hk"
+   }
+  },
+  "skal": "Allt spårbart. \"1 HP\" ska skrivas med svensk enhet som i övriga löpband (källans \"5.0 HP\" blev \"5,0 hk\" i Movemia TR800 och 9615 skriver \"1,2 hk\"); enhet med liten bokstav (R9). \"Ledvänligt dämpningssystem\" rätt struket (hälsoord)."
+ },
+ {
+  "nr": 9618,
+  "id": "10612582318346",
+  "fil": "k_09a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "LED, 13 program, 0,75 hk (max 1,5 hk), 100 x 40 cm (källans \"Löpband:\" återgiven som löpyta), hastigheter per handtagsläge, 2 lutningsnivåer, automatiskt smörjsystem, appar, mått, 27 kg, 120 kg ur källan."
+ },
+ {
+  "nr": 9619,
+  "id": "10472265318666",
+  "fil": "k_09a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typordet Träningsstation står i källan och i godkanda_typord. \"Maximal viktkapacitet: 120 kg\" är rätt utelämnad: raden säger inte vad lasten gäller (användare eller viktmagasin), R4. Plug-in-vikter 5,6–45 kg och utökning till 56 kg, rörstål, svart, höjdjusterbar sits, mått ur källan."
+ },
+ {
+  "nr": 9620,
+  "id": "10472282161418",
+  "fil": "k_09a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typordet Träningsstation (godkanda_typord; live-titeln engelsk). 60 kg = 12 x 5 kg stämmer, utökning 10 kg, säte, kuddar, klädsel, svart, 45 övningar, mått, 130 kg ur källan."
+ },
+ {
+  "nr": 9621,
+  "id": "10572635308298",
+  "fil": "k_09a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "5 höjder, viktförvaring, hopfällbar, mått, 18 kg ur källan. Lastkapacitet 200 kg står som svensk etiketterad rad och i löptexten med samma värde; en gång enligt tillverkaren (R4). Grepphöjd 90 cm (\"ergonomisk\") utelämnad, godtagbart."
+ },
+ {
+  "nr": 9622,
+  "id": "10494695276810",
+  "fil": "k_09a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Räckvidd: 1 m (enligt tillverkaren)",
+    "efter": "Räckvidd: 1 m"
+   }
+  },
+  "skal": "Tunn men tillräcklig källa: bröstband och räckvidd 1 m (entydig del av en annars trasig rad, R2). Kompatibilitetsraden och \"kHs\" rätt utelämnade. Men räckvidden står två gånger i beskrivningen med \"enligt tillverkaren\" båda gångerna (R5: en gång per påstående); stryk den i specifikationsraden."
+ },
+ {
+  "nr": 9623,
+  "id": "10572633899274",
+  "fil": "k_09a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "LCD, 8 svårighetsgrader, PMS, mått, 20 kg, 120 kg ur källan. \"Belastning: 5 kg\" rätt utelämnad; träningseffekter strukna."
+ },
+ {
+  "nr": 9624,
+  "id": "10472287338762",
+  "fil": "k_09a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typordet Roddmaskin står i källan och i taggen (R7). Vattenbroms, 10-liters tank, justering via vattenmängd, LCD, mått, hopvikt, 24 kg, 190 cm och 120 kg ur källan; två enligt tillverkaren."
+ },
+ {
+  "nr": 9625,
+  "id": "10572675776778",
+  "fil": "k_09a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "3 nivåer, tre höjder, justerbara handtag, LCD med tid/steg/kalorier/RPM, mått, hopfällt, 12 kg, 150 kg ur källan. Effekt- och reklamord rätt strukna; dubblerad LCD-rad rätt hanterad."
+ }
+]
