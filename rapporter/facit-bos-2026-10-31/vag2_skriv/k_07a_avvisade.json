@@ -1,0 +1,42 @@
+[
+ {
+  "id": "10472294842634",
+  "nr": 9401,
+  "skäl": "Tunn källa: beskrivningen är bara 'Stativ för ADO Air Carbon-modellen' plus leveranstidsnotis, alltså inga fakta utöver titeln (R3, minst två krävs). Ingen webbkälla funnen för just detta stöd. Taggen På beställning."
+ },
+ {
+  "id": "10472346190090",
+  "nr": 9405,
+  "skäl": "Tunn källa: enda uppgiften är 'Passar alla 26-29 tums cyklar'; 'bakre fäste' står bara i titeln. Dessutom är priset 0,00 kr, vilket tyder på en ofärdig produkt (R3). David bör avgöra pris innan text skrivs."
+ },
+ {
+  "id": "10656691028234",
+  "nr": 9406,
+  "skäl": "Dubblett (R12a): samma modell Movemia BR1000R LED med ryggstöd är redan skriven, aktiv och texter-klara som 10656690995466 (nr 10070)."
+ },
+ {
+  "id": "10656691683594",
+  "nr": 9407,
+  "skäl": "Dubblett (R12a): Lyon Climber är redan skriven, aktiv och texter-klara som 10656691650826 (nr 10079). Fler oskrivna dubbletter finns (10656691716362)."
+ },
+ {
+  "id": "10656691585290",
+  "nr": 9408,
+  "skäl": "Dubblett (R12a): Lyon Climber Multimedia är redan skriven, aktiv och texter-klara som 10656691552522 (nr 10080). Ytterligare oskriven dubblett: 10656691618058."
+ },
+ {
+  "id": "10656691519754",
+  "nr": 9409,
+  "skäl": "Dubblett (R12a): Stratos spinningcykel är redan skriven, aktiv och texter-klara som 10656691454218 (nr 10088)."
+ },
+ {
+  "id": "10471174668554",
+  "nr": 9416,
+  "skäl": "Två varianter (273 och 275) utan beskrivning av vad som skiljer dem; titeln anger 'vita prickar' och källan nämner inget mönster/färg per variant, så titeln kan inte styrkas för båda (R3). Setinnehåll (8 stora, 4 små) gäller okänd variant."
+ },
+ {
+  "id": "10665228075274",
+  "nr": 9417,
+  "skäl": "Tre varianter (520, 521, 522) med bara siffror som namn; källan säger bara 'flammönster' och titeln 'Black Flames' kan inte kopplas till en variant (R3)."
+ }
+]

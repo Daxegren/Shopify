@@ -1,0 +1,67 @@
+[
+ {
+  "id": "10472239005962",
+  "nr": 9428,
+  "skäl": "Innerslang med motsägande dimension i egen källa: titeln anger ETRTO 37/47-559/597, beskrivningen 37-559 till 47-559/44-590. Webbsökning (reifen.com, rubbex) visar att 597 respektive 590 hör till olika Continental-varianter (Hermetic Plus mot All), så ingen entydig källa för exakt denna artikel (VMCO0181521). Samma underkännande som 8240 (R2, R3)."
+ },
+ {
+  "id": "10472240185610",
+  "nr": 9429,
+  "skäl": "Innerslang med motsägande dimension: titeln Compact 14 och ETRTO 32/47-279/298 mot källans \"Storlek: 26 tum\"; ventilen anges som DV i titeln men Schraderventil 34 mm i texten. Underkänd tidigare som 8242 (R2, R3)."
+ },
+ {
+  "id": "10472238874890",
+  "nr": 9430,
+  "skäl": "Innerslang med motsägande dimension: titeln Compact 16 och ETRTO 32/47-305/349 mot källans \"Storlek: 26 tum\". Underkänd tidigare som 8239 (R2, R3)."
+ },
+ {
+  "id": "10470898827530",
+  "nr": 9433,
+  "skäl": "Innerslang med motsägande dimension: titeln anger ETRTO 47/60-584, beskrivningen 47-62x584. Underkänd tidigare som 5002 (R2, R3); ingen entydig webbkälla."
+ },
+ {
+  "id": "10472251719946",
+  "nr": 9434,
+  "skäl": "Innerslang med motsägande dimension: titeln anger 28 tum och ETRTO 47/62-584/622, texten \"för 28 mm breda däck\"; 584 är 27,5 tum, 622 är 28/29 tum. Webbsökning bekräftar att 47/62-584/622 inte hör ihop med en känd Continental-slang. Underkänd tidigare som 8247 (R2, R3)."
+ },
+ {
+  "id": "10523491467530",
+  "nr": 9439,
+  "skäl": "Tom källa: beskrivningen saknas helt och titeln är enda källa. Webbsökning gav ingen entydig specifikation för just svart Ding-A-Ling Flick (ingen vikt, klämmått eller material). Tunn källa, R3."
+ },
+ {
+  "id": "10541369098506",
+  "nr": 9440,
+  "skäl": "Två varianter med oförklarade namn (490000099, 490000095, samma pris 109 kr) medan titeln anger Svart/Blå; efter att färgen strukits återstår bara \"passar flaskor på 500-750 ml\". Underkänd tidigare som 8093 (R3, standard avsnitt 10). Webbsökning gav ingen entydig källa."
+ },
+ {
+  "id": "10541369622794",
+  "nr": 9441,
+  "skäl": "Dubblett av 9438 i samma batch (Giant ProWay, svart/neongrön, plast, 45 g, 500-750 ml). SKU 490000074 och pris 109 kr mot 9438:s SKU 490000072 och 59 kr; ingen färg- eller modellskillnad i källan. Tidigare underkänd som dubblett (5080). David/leverantören avgör om de är olika produkter (R12a)."
+ },
+ {
+  "id": "10472294940938",
+  "nr": 9443,
+  "skäl": "Pedaler: säkerhetskritisk och lastbärande del (specialregler för cykeldelar; tidigare underkänd som 5273). Tas för hand med Davids ja."
+ },
+ {
+  "id": "10472250376458",
+  "nr": 9444,
+  "skäl": "Pedaler: säkerhetskritisk och lastbärande del (specialregler för cykeldelar; tidigare underkänd som 5267). Tas för hand med Davids ja."
+ },
+ {
+  "id": "10494699372810",
+  "nr": 9445,
+  "skäl": "Oklar produkttyp och bärande fäste: \"Stöd för Giant Direct Mount KSA\" med 18 mm bultavstånd och längd 320-400 mm ser ut att vara ett stödben som monteras på ramen och bär cykelns vikt. Typordet \"Stöd\" är inte begripligt för kunden. Underkänd tidigare som 5003. Kräver bekräftad typ och Davids ja."
+ },
+ {
+  "id": "10494699340042",
+  "nr": 9446,
+  "skäl": "Motsägelse och bärande fäste: titeln säger \"Stöd för bakväxel\", texten \"justerbart stöd för bakhjul\" (320-400 mm), \"Giant för Giant\" är trasig text; samma artikel som 9445 under annat SKU. Underkänd tidigare som 5010 (R2, R3)."
+ },
+ {
+  "id": "10523491434762",
+  "nr": 9447,
+  "skäl": "Barnprodukt (träningshjul för barncykel, 16 tum) och tom källa; R6 (profilen utanfor_tills_vidare: barn)."
+ }
+]
