@@ -37,3 +37,32 @@ Bakgrund: David är öppen för att en mall genererar texten för produkter med 
 
 ## 3. Pausläge (beslut relaterat 2026-11-04)
 Övriga butiker väntar på att David installerar appen. Butikssessionerna avslutar fas 1 på publika data och vilar; inga nya agenter eller uppgifter dit. BEST OF SPORTS har företräde (gemensam användningsgräns) och får köra batcher om upp till 50 med kvalitetsvakt. Utfallet följs i mätningen.
+
+## 4. Kvalitetsrapporten: vad som kan mätas idag (2026-11-04, tillägg)
+Källa: `rapporter/matning-2026-11-04.md` (`mat_utbyte.py`, `mat_regler.py`), 2 159 granskade utkast i BEST OF SPORTS. Raden "Kvalitetsrapport" i tabellen i avsnitt 1 pekade på en kommande mätrapport; den finns nu.
+- **Andel godkända direkt:** 49 % (rättas 40 %, underkänns 9 %). Per grupp 38–62 %. Det är den ärliga utgångspunkten: AI-text utan granskning hade krävt rättning i nästan hälften av fallen.
+- **Typ av ändring:** 11 % format (skriptstyrt), 88 % innehåll. Störst: övrigt innehåll 34 %, metatext 17 %, titel/SEO-titel 16 %, påståendeord 7 %, uppgift struken 6 %, lastgräns 2 %.
+- **Det som inte går att mäta än:** vilka regler som förebygger mest (rättningar saknade regelkod; ändras för nya batcher efter Davids ja på S13), allvarlighet, tid och kostnad per produkt, och all effekt på trafik eller försäljning.
+- **Vad en kund bör få i rapporten:** antal produkter per steg (inventerade, avvisade med skäl, skrivna, verifierade), andel godkända direkt per kategori, rättningar per regelkod och allvarlighet, spärrade produkter och skälen, öppna beslut. Allt utom de två sista finns i statusfilen och mätskripten; regelkod och allvarlighet kommer med nästa batcher.
+
+## 5. Vad som varit svårast i praktiken (exempel)
+1. **Åtkomst till butikerna.** Shopify-verktygets koppling delas mellan sessioner och pekar på en butik åt gången. `switch-shop` bröt BEST OF SPORTS-sessionen i sex av nio sessioner trots lärdomsposter. Sex butiker står stilla i fas 1 på publika data tills ägaren installerat en app per butik (Dev Dashboard, Allowed domains, miljövariabler) och lämnat myshopify-adresserna. Kundflödet måste göra detta till ett enda guidat steg per butik.
+2. **Ägarens beslut är flaskhalsen, inte AI:n.** Profil, spärrar, ton, standardblock och språk kan bara ägaren besluta; sex profiler har TODO-fält. En kund behöver ett kort frågeformulär, inte en dialog.
+3. **Regelverkskänsliga sortiment.** Happy Parent (barn: CE och säkerhet nämns i ca 210 texter), HYPR (kosttillskott med hälsopåståenden, fel bolags köpvillkor) och Alpha Zoo (foder) kan inte köras som vanliga butiker. Systemet behöver en uttrycklig spärr och en kunnig granskare, inte bara bättre texter.
+4. **Fel antaganden om butiken.** Workout Brands antogs vara träning men säljer streetwear; Mondido och To The Moon visade sig inte vara butiker (Mondido är enligt publik sida en betaltjänst). Inventering mot live-sortimentet kommer före profilen.
+5. **Publika data räcker inte.** Status, SEO-fält och översättningar kräver admin; Search Console, GA4 och Ads var inte anslutna i någon ny butik, och Ahrefs-planen saknar API. Utan sökdata går åtgärderna inte att prioritera efter trafik.
+6. **Skrivning för hand fungerar inte i skala.** Inklistrade mutationer gav osynliga tecken och tappade meningar (LARDOMAR 2026-11-03 och 2026-11-04); skript mot API med före-fil och återläsning tog bort felen.
+7. **Samordning mellan sessioner.** Dubbelarbete (B You gjordes två gånger), tre oberoende versionsnummer i regelboken och fem grenar som gav samma filnamn åt olika filer. Kräver en samordnare som äger versioner och namn.
+
+## 6. Minsta körbara kundflöde (förslag, ej byggt)
+1. Ägaren installerar appen och lämnar butikens adress (guidat steg, ingen nyckel i chatt).
+2. Inventering via API (inklusive utkast och arkiverade) och kontroll av inriktning mot sortimentet.
+3. Profil ur `butiksprofil-MALL.json`, ifylld av ägaren; spärrlista med skäl; ägaren godkänner.
+4. Kanariebatch om 3 produkter, återläsning, därefter batcher med granskning och stickprov.
+5. Kvalitetsrapport per batch och per kategori; lättad granskning bara för kategorier som uppfyller mätbara villkor.
+Delar som redan finns i repot: regelbok (`regler-v1.md`), mallprofil, kontrollskript, statusfil, mätskript, skrivrutin. Delar som saknas: guidat åtkomststeg, kundvänd rapport, kostnadsmätning, flerspråkig granskning.
+
+## 7. Ägande och IP (flaggat, ej utrett)
+- **Ecomduct:** hur det hänger ihop med den här satsningen är obekräftat (i Davids andra repon är Ecomduct en systerprodukt som ägs av Axegren Invest AB och inte får slås ihop med KANPAJ:s kodbas). Fråga S2 väntar på David. Inga kodbaser har slagits ihop.
+- **Vem äger vad:** regelboken, mallarna och skripten byggs i det här repot för flera bolag (HYPR Sthlm AB är ett annat bolag än Gorilla Sports; kunddata och åtkomst ska hållas åtskilda). Innan något säljs behöver det avgöras vilket bolag som äger systemet, och om kunders produktdata får användas för att förbättra regler.
+- **Juridik:** kvalitetsrapporten får inte ge intryck av att granska regelefterlevnad (CE, hälsopåståenden); den visar bara om texten följer butikens regler och källan.
