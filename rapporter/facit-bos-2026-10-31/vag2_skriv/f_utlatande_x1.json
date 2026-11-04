@@ -1,0 +1,102 @@
+[
+ {
+  "nr": 10085,
+  "id": "10468768284938",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live (104 x 63 x 117 cm, 53 kg, SKU H920). Maxvikt (Maximum operating weight 115 kg) utelämnad enligt alt A; motsägande bromssystem (friction/hydraulic) utelämnat. 'Gymnivå … hemmabruk' är källans egen text och står som 'enligt tillverkaren'. Kort meta (111 tecken) enligt §14/§17; suffixet har godtagits tidigare (10032)."
+ },
+ {
+  "nr": 10087,
+  "id": "10472323383562",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": [
+    {
+     "fore": "med LCD-skärm och bromssystemet PMS, manuellt.",
+     "efter": "med LCD-skärm och bromssystem av typen PMS, manuellt."
+    }
+   ],
+   "html": [
+    {
+     "fore": "med LCD-skärm och bromssystemet PMS, manuellt. Mått är 104 x 64 x 123 cm",
+     "efter": "med LCD-skärm och bromssystem av typen PMS, manuellt. Måtten är 104 x 64 x 123 cm"
+    }
+   ]
+  },
+  "skal": "Stämmer mot live (LCD, PMS manual, 104 x 64 x 123 cm, 53 kg). Maxvikt och 'Load capacity 20 kg' utelämnade; Duke-texten om gymnivå rätt utelämnad. Grammatik: 'Mått är' → 'Måtten är', och 'bromssystemet PMS, manuellt' skrivs som i rättningen av 10089 i f_4."
+ },
+ {
+  "nr": 10093,
+  "id": "10472325513482",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live (10 tum pekkänslig, 17 program, EMS induktion, 116 x 60 x 139 cm, 50 kg). Svänghjulet 10 kg står i källans brödtext ('10 kg flywheel'). 'Load range 40' och 'Load capacity' tolkas inte; maxvikt utelämnad enligt alt A. Titelns namn Spheris används (källtexten: Sphere). Not: handle slutar 10015 men SKU är 10014 (10094 har SKU 10015)."
+ },
+ {
+  "nr": 10094,
+  "id": "10471334084874",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": [
+    {
+     "fore": "med 10-tums pekskärm och bromssystemet EMS, induktion.",
+     "efter": "med 10-tums pekskärm och bromssystem av typen EMS, induktion."
+    }
+   ],
+   "html": [
+    {
+     "fore": "med 10-tums pekskärm och bromssystemet EMS, induktion. Mått är 116 x 60 x 139 cm",
+     "efter": "med 10-tums pekskärm och bromssystem av typen EMS, induktion. Måtten är 116 x 60 x 139 cm"
+    },
+    {
+     "fore": "<li>Dig som vill ha en motionscykel med bromssystemet EMS, induktion</li>",
+     "efter": "<li>Dig som vill ha en motionscykel med bromssystem av typen EMS, induktion</li>"
+    }
+   ]
+  },
+  "skal": "Stämmer mot live; 'NorsK' står exakt som i live-titeln. 'Difficulty levels 40', 'Load capacity' och trämarknadsföring utelämnade; maxvikt utelämnad enligt alt A. Grammatik: 'Mått är' → 'Måtten är', 'bromssystemet EMS, induktion' → 'bromssystem av typen EMS, induktion' (samma form som 10087)."
+ },
+ {
+  "nr": 10100,
+  "id": "10472324595978",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot specifikationen live (10 tum pekkänslig, 17 program, EMS induktion, 159 x 74 x 121 cm, 77 kg). Den maskinöversatta brödtexten (rehabilitering, ledvänlig, 'backpack pedal trance') och '10 workout levels'/'Load capacity 14 kg' används inte; maxvikt utelämnad enligt alt A. Underkännandet i f_4 byggde på maxvikten; utan den kan produkten skrivas säkert."
+ },
+ {
+  "nr": 10034,
+  "id": "10472334262538",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live (LED/LCD, 2,75 hk (max 5,5 hk), 1–24 km/h, lutning 12 utan 'nivåer', 152 x 50 cm, 181 x 83 x 130 / 124 x 83 x 154 cm, 82 kg, 95 % monterad, Kinomap/Zwift med 'enligt tillverkaren'). 'NorsK' stämmer med live-titeln. Komfort/säkerhet/Pro Solid och maxvikt utelämnade. Beställningsmeningen: taggen 'På beställning' finns (källtexten saknar ⏳-raden)."
+ },
+ {
+  "nr": 10044,
+  "id": "10472300118282",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": [
+    {
+     "fore": "är ett walking pad med",
+     "efter": "är en walking pad med"
+    }
+   ],
+   "html": [
+    {
+     "fore": "är ett walking pad med",
+     "efter": "är en walking pad med"
+    },
+    {
+     "fore": "<li>Dig som vill ha ett walking pad med hastighet",
+     "efter": "<li>Dig som vill ha en walking pad med hastighet"
+    },
+    {
+     "fore": "<li>Dig som vill ha ett walking pad med 12",
+     "efter": "<li>Dig som vill ha en walking pad med 12"
+    }
+   ]
+  },
+  "skal": "Stämmer mot live; 'Walking Pad' står i live-titeln och produkttypen är oförändrad. Rehabilitering, äldre, återhämtning, grepp och säker design är borta; maxvikt utelämnad enligt alt A. Genus: walking pad används som utrum i svenska ('en walking pad')."
+ }
+]
