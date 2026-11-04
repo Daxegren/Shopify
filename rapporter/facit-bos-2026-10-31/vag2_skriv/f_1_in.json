@@ -1,0 +1,177 @@
+[
+ {
+  "id": "10656691945738",
+  "nr": 10001,
+  "titel_25okt": "Löpband BH FITNESS Inertia G588",
+  "vendor": "BH Fitness",
+  "typ": "Professionell utrustning"
+ },
+ {
+  "id": "10656692470026",
+  "nr": 10002,
+  "titel_25okt": "Löpband BH FITNESS Inertia G688 LED",
+  "vendor": "BH Fitness",
+  "typ": "Professionell utrustning"
+ },
+ {
+  "id": "10650209976586",
+  "nr": 10003,
+  "titel_25okt": "Löpband BH FITNESS Inertia G788",
+  "vendor": "BH Fitness",
+  "typ": "Professionell utrustning"
+ },
+ {
+  "id": "10656692404490",
+  "nr": 10004,
+  "titel_25okt": "Löpband BH FITNESS Inertia G788",
+  "vendor": "BH Fitness",
+  "typ": "Professionell utrustning"
+ },
+ {
+  "id": "10589705371914",
+  "nr": 10005,
+  "titel_25okt": "Löpband BH FITNESS Luxor LX30",
+  "vendor": "BH Fitness",
+  "typ": "Konditionsträning & Fitness"
+ },
+ {
+  "id": "10656691847434",
+  "nr": 10006,
+  "titel_25okt": "Löpband BH FITNESS LX50 Multimedia",
+  "vendor": "BH Fitness",
+  "typ": "Konditionsträning & Fitness"
+ },
+ {
+  "id": "10656692502794",
+  "nr": 10007,
+  "titel_25okt": "Löpband BH FITNESS LX90 Multimedia",
+  "vendor": "BH Fitness",
+  "typ": "Professionell utrustning"
+ },
+ {
+  "id": "10650209059082",
+  "nr": 10008,
+  "titel_25okt": "Löpband BH FITNESS Movemia TR1000",
+  "vendor": "BH Fitness",
+  "typ": "Professionell utrustning"
+ },
+ {
+  "id": "10656691355914",
+  "nr": 10009,
+  "titel_25okt": "Löpband BH FITNESS Movemia TR800 LED",
+  "vendor": "BH Fitness",
+  "typ": "Professionell utrustning"
+ },
+ {
+  "id": "10656690897162",
+  "nr": 10010,
+  "titel_25okt": "Löpband BH FITNESS RCM Pro",
+  "vendor": "BH Fitness",
+  "typ": "Professionell utrustning"
+ },
+ {
+  "id": "10656690929930",
+  "nr": 10011,
+  "titel_25okt": "Löpband BH FITNESS RCM Pro TFT",
+  "vendor": "BH Fitness",
+  "typ": "Professionell utrustning"
+ },
+ {
+  "id": "10612574191882",
+  "nr": 10012,
+  "titel_25okt": "Löpband BH FITNESS RS1000 TFT",
+  "vendor": "BH Fitness",
+  "typ": "Konditionsträning & Fitness"
+ },
+ {
+  "id": "10462779867402",
+  "nr": 10013,
+  "titel_25okt": "Treadmill BH FITNESS i.F2W",
+  "vendor": "BH Fitness",
+  "typ": "Konditionsträning & Fitness"
+ },
+ {
+  "id": "10472261779722",
+  "nr": 10014,
+  "titel_25okt": "Treadmill BH FITNESS i.RC12",
+  "vendor": "BH Fitness",
+  "typ": "Professionell utrustning"
+ },
+ {
+  "id": "10650208502026",
+  "nr": 10015,
+  "titel_25okt": "Treadmill BH FITNESS LX50",
+  "vendor": "BH Fitness",
+  "typ": "Konditionsträning & Fitness"
+ },
+ {
+  "id": "10656691126538",
+  "nr": 10016,
+  "titel_25okt": "Treadmill BH FITNESS LX90",
+  "vendor": "BH Fitness",
+  "typ": "Professionell utrustning"
+ },
+ {
+  "id": "10494769529098",
+  "nr": 10017,
+  "titel_25okt": "Treadmill BH FITNESS Nydo",
+  "vendor": "BH Fitness",
+  "typ": "Konditionsträning & Fitness"
+ },
+ {
+  "id": "10665232335114",
+  "nr": 10018,
+  "titel_25okt": "Treadmill BH FITNESS Nydo",
+  "vendor": "BH Fitness",
+  "typ": "Konditionsträning & Fitness"
+ },
+ {
+  "id": "10471192166666",
+  "nr": 10019,
+  "titel_25okt": "Treadmill BH FITNESS Nyman Plus",
+  "vendor": "BH Fitness",
+  "typ": "Konditionsträning & Fitness"
+ },
+ {
+  "id": "10470935593226",
+  "nr": 10020,
+  "titel_25okt": "Treadmill BH FITNESS Pioneer Senior",
+  "vendor": "BH Fitness",
+  "typ": "Konditionsträning & Fitness"
+ },
+ {
+  "id": "10472323776778",
+  "nr": 10021,
+  "titel_25okt": "Treadmill BH FITNESS RCM Pro MED",
+  "vendor": "BH Fitness",
+  "typ": "Professionell utrustning"
+ },
+ {
+  "id": "10650208633098",
+  "nr": 10022,
+  "titel_25okt": "Treadmill BH FITNESS RS1000",
+  "vendor": "BH Fitness",
+  "typ": "Professionell utrustning"
+ },
+ {
+  "id": "10472307818762",
+  "nr": 10023,
+  "titel_25okt": "Treadmill BH FITNESS RS1200 Multimedia",
+  "vendor": "BH Fitness",
+  "typ": "Professionell utrustning"
+ },
+ {
+  "id": "10468770087178",
+  "nr": 10024,
+  "titel_25okt": "Treadmill BH FITNESS RS2000",
+  "vendor": "BH Fitness",
+  "typ": "Professionell utrustning"
+ },
+ {
+  "id": "10471307411722",
+  "nr": 10025,
+  "titel_25okt": "Treadmill BH FITNESS RS2000 Multimedia",
+  "vendor": "BH Fitness",
+  "typ": "Professionell utrustning"
+ }
+]
