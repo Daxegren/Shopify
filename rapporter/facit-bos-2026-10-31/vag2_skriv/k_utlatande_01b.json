@@ -1,0 +1,174 @@
+[
+ {
+  "nr": 9026,
+  "id": "10676720697610",
+  "fil": "k_01b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Alla uppgifter spårbara i den svenska källan (SyncDrive Sport 3 250 W/85 Nm centermotor = mittmotor, EnergyPak Smart 430 Wh, räckvidd 115 km som 'enligt tillverkaren', XCM32 100 mm, Cues 10, MT200, Rekon 29x2.4). En variant (Default Title, SKU …204); ramstorlek rätt utelämnad. Färg bara från titeln, som i tidigare godkända cykelbatcher. Se sammanställningen om valet mellan 9026 och dubbletten 9029."
+ },
+ {
+  "nr": 9027,
+  "id": "10676721549578",
+  "fil": "k_01b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Som 9026: allt spårbart i egen svensk källa, en variant, ramstorlek utelämnad, färg från titeln."
+ },
+ {
+  "nr": 9028,
+  "id": "10682105397514",
+  "fil": "k_01b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Översättningen från engelska stämmer: Maestro 170 mm, Fox 38 Factory 180 mm, Float X2 Factory 205x65, TRP EVO Pro 4-kolvs hydrauliska, 29/27,5 blandhjul, vikbara däck, tillvalsbatteri 280 Wh. 'Elektroniskt' växelsystem står ordagrant i källan ('electronic SRAM XO Eagle Transmission AXS'), så §14 följs. Toppeffekt 800 W rätt utelämnad. Räckvidd 171 km står på specraden och återges som 'enligt tillverkaren'. Källan stavar 'Assagai'; utkastets 'Assegai' är Maxxis rätta namn och godtas. Typordet Elcykel stöds av taggen och butikens live-ord."
+ },
+ {
+  "nr": 9031,
+  "id": "10682105463050",
+  "fil": "k_01b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Specifikationen står i produktens egen källa (inte lånad från syskon); 'The set includes kickstand, mudguards, luggage rack and front and rear lights' gäller denna EX-produkt. Varianterna S/M/L har samma pris (48 059 kr), ingen storlek låst. Färg från titeln."
+ },
+ {
+  "nr": 9032,
+  "id": "10682106118410",
+  "fil": "k_01b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Dig som vill ha en elcykel med navväxel och hydrauliska bromsar</li>",
+    "efter": "<li>Dig som vill ha en elcykel med Shimano Nexus och hydrauliska bromsar</li>"
+   }
+  },
+  "skal": "Källan säger bara 'Shimano Nexus', inte navväxel; ordet är kunskap utanför källan (R1) och tas bort. Övrigt stämmer mot den engelska källan (SyncDrive Sport 2 250 W/75 Nm, EnergyPak 430 Wh, 115 km, NVX32 coil 63 mm, Nexus 8, HD-M281, Big Ben Plus 622x55, setet med främre pakethållare). Tum utelämnat eftersom källan bara anger ETRTO, rätt."
+ },
+ {
+  "nr": 9033,
+  "id": "10469208916234",
+  "fil": "k_01b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Motorns märke rätt utelämnat (löptext Yamaha SyncDrive mot specrad Giant SyncDrive Core); 250 W och 50 Nm är entydiga på specraden (R2: entydig del får användas). Den estniska raden 'Komplekti kuuluvad seisujalg, ketikaitse, pakiraam, porilauad ning esi- ja tagatuli' är rätt översatt (stöd, kedjeskydd, pakethållare, stänkskärmar, fram- och baklampa). Räckvidd 180 km står både i löptext och specrad. Ramstorlek L (55 cm) är källans enda storlek och produkten har en variant. 'High-quality suspension' rätt utelämnad."
+ },
+ {
+  "nr": 9035,
+  "id": "10472241299722",
+  "fil": "k_01b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Elcykel Italwin K2 XL, Vit",
+    "efter": "Hopfällbar Elcykel Italwin K2 XL, Vit"
+   },
+   "meta": {
+    "fore": "Italwin K2 XL i vit har",
+    "efter": "Italwin K2 XL i vitt har"
+   },
+   "html": {
+    "fore": "övriga länder. Beställningsvaror kan ta upp till en vecka längre.</p>",
+    "efter": "övriga länder.</p>"
+   }
+  },
+  "skal": "Produkten saknar taggen 'På beställning' (och källan har ingen beställningsrad), så leveranstidsmeningen ska bort (R13). SEO-titeln får samma typord som titeln (R7, 37 tecken). 'i vit' → 'i vitt'. Ah-motsägelsen är rätt hanterad: 378 Wh/36 V = 10,5 Ah som titeln, men källraden säger 14,5 Ah, så Ah utelämnas helt (R2). 'Maxvikt: 90 kg' är en svensk rad med etikett och enhet men säger inte vad vikten gäller (cyklist, last eller total); att utelämna den är rätt och försiktigt (R4, Alt A tillåter men kräver inte). 'Made in Italy', EU-standard och 25 km/h rätt utelämnade. Hydrauliska skivbromsar står i löptexten och motsäger inte specraden 'skivbromsar'."
+ },
+ {
+  "nr": 9036,
+  "id": "10470900957450",
+  "fil": "k_01b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Robin ST i grön har",
+    "efter": "Robin ST i grönt har"
+   }
+  },
+  "skal": "Språk: 'i grön' → 'i grönt' (jämför 'i svart', 'i blått'). Fakta stämmer som 9037. 26 x 4,0 tum ur 'CST 26 \"X4.0\"' är rätt tolkat; titelns '14 LG' återfinns i batteriraden. 'Lastkapacitet: 120 kg' svensk rad med etikett, en gång 'enligt tillverkaren'."
+ },
+ {
+  "nr": 9037,
+  "id": "10470903087370",
+  "fil": "k_01b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt spårbart i egen svensk källa (Bafang 250 W/80 Nm, LG 48 V 14 Ah 672 Wh, RST 80 mm, Tektro mekaniska, CST 26x4.0, 51 cm). 'Lastkapacitet: 120 kg' är svensk rad med etikett och enhet (R4) och står en gång med 'enligt tillverkaren'; två 'enligt tillverkaren' totalt. BMS/'stabil prestanda' rätt utelämnat."
+ },
+ {
+  "nr": 9038,
+  "id": "10472249819402",
+  "fil": "k_01b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt spårbart (XOFO baknavsmotor 250 W/30 Nm, 36 V 10,4 Ah, Shimano 7, mekaniska skivbromsar, 29 kg, lastkapacitet 120 kg svensk rad med etikett). 28 tum och blå bara från titeln (leverantörstiteln). 'Lättaste', 'robust' rätt utelämnat."
+ },
+ {
+  "nr": 9039,
+  "id": "10682105528586",
+  "fil": "k_01b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Coco är ingen elcykel trots taggen Elcykel (taggen rörs inte). Typordet Cykel är entydig översättning av live-titelns 'Bicycle' och butikens live-ord (R7); 'stadscykel' står i källan ('city bike'). Damcykel används inte eftersom denna källa inte säger det (den äldre Coco-produkten räknas inte, R1). Punkteringsskydd rätt utelämnat. 27,5 tum från titeln stämmer med 650x47c. Varianter S/M/L samma pris."
+ },
+ {
+  "nr": 9040,
+  "id": "10472282620170",
+  "fil": "k_01b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt spårbart i egen svensk källa (E7000 250 W/60 Nm, 504 Wh, 80 km, 160 mm, RockShox 35 Gold RL, Deluxe Select+, Advent X 10, Guide RE 200 mm skivor, DHF/DHR II 29x2.5). Källan anger bara ramstorlek S (13 tum) och produkten har en variant, så raden får stå. 'Stanna även i branta utförsbackar' rätt utelämnat. Ingen annan aktiv Remote 160 i Gloss Metallic Black i butiken."
+ },
+ {
+  "nr": 9042,
+  "id": "10469226283274",
+  "fil": "k_01b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Räckvidd: Upp till 150 km enligt tillverkaren</li>\n",
+    "efter": ""
+   }
+  },
+  "skal": "Räckvidden tas bort. Källan är tydligt maskinöversatt och delvis trasig ('Amort', 'supports you in the sharpness', 'Shimano Deore Deere Deere Deore front', texten jämför Remote 130 med sig själv), och 150 km med E7000 och 504 Wh är nästan dubbelt mot vad Konas egen källa anger för samma motor och batteri på Remote 160 (80 km, 9040). Syskonet används inte som källa, bara som skäl att inte lita på raden; räckvidd är ett löfte som enligt §16.2 kräver en säker källa. Övrigt rätt: däckraden används bara i sina entydiga delar (DHF 29x2.5 fram, DHR II 29x2.4 bak), motorns W/Nm och ramstorlek utelämnade, 'Amort' utelämnad men fjädring bak stöds av Fox Float Trunnion och 130 mm travel."
+ },
+ {
+  "nr": 9043,
+  "id": "10682105594122",
+  "fil": "k_01b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt spårbart (Bosch Performance Line CX 250 W/120 Nm, PowerTube 800 Wh, 180 km, Zeb Select 170 mm, Super Deluxe Select+ 230x57,5, Maven Base, Assegai/DHR II med storlek S-undantaget). Att växelgruppen 'SRAM Eagle 90 Transmission' utelämnas är tillåtet: källan säger inte mekanisk/elektronisk. §14 hade också tillåtit namnet ordagrant utan typord; ingen rättning krävs. Varianter S–XL samma pris."
+ },
+ {
+  "nr": 9044,
+  "id": "10470987694346",
+  "fil": "k_01b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Elektronisk växelreglering' och 'dropper post' står ordagrant i källans löptext, så elektronisk får sägas (till skillnad från 9043/9046). Typordet Gravelcykel godtas: källans 'gravelbike' har en entydig svensk motsvarighet som är butikens live-ord (taggen Gravelcykel, syskon som 9046), samma bedömning som i vag2k_utlatande_13_15 (7121). Kolfiberfälgar ('Check!') rätt utelämnade. Färgen (Blå) är översatt från titelns '(Blue)'. Ingen annan Ouroboros Supreme i butiken."
+ },
+ {
+  "nr": 9046,
+  "id": "10494941659402",
+  "fil": "k_01b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt spårbart (Kona Carbon, Libre Carbon Flat Mount, 12 växlar, SRAM Apex hydrauliska, Vulpine 700x45c, fästpunkter för flaskhållare i löptexten och stänkskärmar i specraden). Växelgruppen 'SRAM Apex XPLR AXS' rätt utelämnad eftersom källan inte anger typ; tillåtet enligt §14 att utelämna. Varianter XS–XL samma pris."
+ },
+ {
+  "nr": 9047,
+  "id": "10471129153802",
+  "fil": "k_01b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt spårbart (6061 butted, Shimano Sora 18, Tektro MD-C605C mekaniska, 700c slanglösa fälgar enligt löptexten, Rambler 700x40c). En variant (L). 'Lätt aluminiumram' och prisvärdhet rätt utelämnade. Ingen annan Rove AL/DL (2025) i Satin Metallic Black."
+ },
+ {
+  "nr": 9048,
+  "id": "10530213429514",
+  "fil": "k_01b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt spårbart (6061 ram och gaffel, Shimano Cues 9, Shimano Sora mekaniska ordagrant, Rambler 700x40 mm, stänkskärmar ingår). OBS: en annan aktiv produkt, 10565633638666 'Gravelcykel KONA Rove AL/DL, Gloss Aragorn' (Default Title, SKU …52), är samma modell och färg och finns inte i någon batch; den ska avvisas som dubblett när den dyker upp (R12a)."
+ }
+]

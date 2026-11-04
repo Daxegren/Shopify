@@ -1,0 +1,206 @@
+[
+ {
+  "nr": 9001,
+  "id": "10472281080074",
+  "fil": "k_01a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Alla uppgifter spårbara i egen källa (aluminium, remdrift, låsbar framfjädring, bakre blinkers, stänkskärmar i aluminium, Bafang bakmotor 250 W/40 Nm med momentgivare, DMEGC 36 V 9,6 Ah, 4–6 timmar, 100 km, 18 kg, 120 kg, Ingår-raden). Lastkapacitet 120 kg är en ren svensk rad med etikett och enhet (R4). Blå stöds av SKU:n (ADO-A20PRO-BLUE), enda variant. Vikten 18 kg står i produktens egen källa; att 9003/9004 anger 28,5 kg är syskondata och får inte styra (R1), men skillnaden tas upp som fråga till David. 'Automatiskt växelval via motorn' återger löptexten utan att ange antal; inte en motsägelse mot 'Antal växlar: 1'. Inte dubblett av 9003 (annan SKU, 40 mot 50 Nm)."
+ },
+ {
+  "nr": 9002,
+  "id": "10472307065098",
+  "fil": "k_01a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (Bafang H730 250 W/40 Nm, 345,6 Wh, 4–6 h, 100 km, aluminium, 150–200 cm, 3 växlar, 20 x 1,95, hopfällt 92 x 67 x 48 cm, 22 kg, 120 kg, appanslutning, Ingår-raden). Bromsraden: 'Bromsar: hydrauliska skivbromsar' är en entydig del av den trasiga raden och får användas (R2). Talet '150 kg' i skräpraden är ett eko av längdraden, inte en etiketterad lastuppgift; den rena raden 'Lastkapacitet: 120 kg' får stå enligt R4 ('en ren svensk rad med etikett och enhet ... även i en annars trasig källa'). Meteor Grey stöds av SKU (GREY). Kvalitetsord rätt utelämnade."
+ },
+ {
+  "nr": 9003,
+  "id": "10665232105738",
+  "fil": "k_01a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (kolfiberrem, momentgivare, låsbar framfjädring, 2,4-tums IPS-färgdisplay med NFC, 250 W/50 Nm, 370 Wh, 1 (2 automatiska växlar), 20 x 1,95, 150–200 cm, 28,5 kg, 120 kg, Ingår-raden med magnetfäste). Modellår 2026 står i källan. Blå stöds av SKU (…-BLUE). Vikten 28,5 kg står i egen källa; se fråga till David om 9001."
+ },
+ {
+  "nr": 9004,
+  "id": "10612594475274",
+  "fil": "k_01a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Som 9003; egen källa identisk i sak, SKU …-GREY stöder Grå. Separata produkter (olika SKU och färg), inte dubbletter."
+ },
+ {
+  "nr": 9005,
+  "id": "10656694272266",
+  "fil": "k_01a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (3 automatiska växlar, momentgivare, Bafang H730 2nd gen 250 W/50 Nm, 370 Wh, 4–6 h, 100 km, justerbar fjädringsgaffel, strålkastare i ramen, NFC-display, 20 x 2,0 med reflexlister, MIK-kompatibel pakethållare, Tektro hydrauliska, 92 x 67 x 48 cm, 28,5 kg, 120 kg). IPX6 och 1,7 sekunder rätt utelämnade. Polar Blue stöds av SKU (…-BLUE)."
+ },
+ {
+  "nr": 9007,
+  "id": "10487987011850",
+  "fil": "k_01a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (OLI Sport Plus 250 W/85 Nm, 900 Wh, 300 km ordagrant med 'enligt tillverkaren', aluminium, Rock Shox Judy TK air RL 100 mm, 12 växlar, Shimano MT200 hydrauliska, Vrb/Mitas 29x2.30, 24,5 kg, fästpunkter). Att SRAM SX utelämnas är tillåtet (försiktigt; inget påstående om mekanisk/elektronisk). Två varianter M/L med samma pris (R3 uppfyllt). Antracit/Röd mot variantens 'gray': antracit är grått, ingen motsägelse; originalfärgnamnet behålls som i k_16-praxis."
+ },
+ {
+  "nr": 9008,
+  "id": "10472304771338",
+  "fil": "k_01a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (aluminium, kolfibergaffel monocoque 1 1/2 koniskt, 12 mm axel, Shimano Sora 18, BR317 mekaniska, Vittoria Terreno T 700x40, fästpunkter). Typordsbytet Gravelbike → Gravelcykel är tillåtet enligt R7: engelskt live-typord med entydig översättning som är butikens live-ord (9010, 9011) och produktens egen tagg 'Gravelcykel'. Sora finns bara mekaniskt. En variant, ramstorlek rätt utelämnad. SEO-titelns 'Monster'/'Sand' är förkortningar för att rymmas inom 43 tecken, inte fel."
+ },
+ {
+  "nr": 9010,
+  "id": "10472304541962",
+  "fil": "k_01a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (aluminium, kolfibergaffel, 24 växlar, hydrauliska bromsar ur 'RX400hydrauliska', 700x40, fästpunkter). GRX610 rätt utelämnad enligt lärdomen 2026-11-03 (GRX finns både mekaniskt och som Di2, källan anger inte typ). Tre varianter med samma pris; Grigio Opaco stämmer med variantens 'gray'. Obs: tidigare skriven 8832 har GRX610 i titeln – olika praxis, se sammanställningen."
+ },
+ {
+  "nr": 9011,
+  "id": "10472304804106",
+  "fil": "k_01a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (kolfiberram, kolfibergaffel, 24 växlar, Shimano RX410 hydrauliska, Vittoria Terreno T fold 700x40, fästpunkter). GRX610 rätt utelämnad. Fyra varianter med samma pris; Grön stöds av 'green'. Inte dubblett av 9012 (annan växelgrupp, annan SKU och pris)."
+ },
+ {
+  "nr": 9012,
+  "id": "10475622007050",
+  "fil": "k_01a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (kolfiber, gaffel, 13 växlar, hydrauliska bromsar, 700x40). 'SRAM Rival AXS' är ett elektroniskt system; att växelgrupp och bromsmodell utelämnas gör att texten inte påstår något om batteri eller mekanik, vilket är rätt. Två varianter med samma pris; Grön stöds av 'green'."
+ },
+ {
+  "nr": 9014,
+  "id": "10468708614410",
+  "fil": "k_01a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "El-Lastcykel",
+    "efter": "El-lastcykel"
+   },
+   "seo_title": {
+    "fore": "El-Lastcykel",
+    "efter": "El-lastcykel"
+   }
+  },
+  "skal": "Fakta spårbara (60 kg, 215 x 83 x 110 cm, hydrauliska skivbromsar som entydig del av trasig rad, 12,8 Ah/36 V, 250 W/45 Nm, 30–40 km, Tourney 7, 24/26 x 2,15 med reflexrand, låda 90,5 x 59,5 x 50,5, 100 kg (låda) + 100 kg (förare), sadelhöjd ca 75 cm). Lastkapaciteten är en ren svensk rad med etikett och enhet och återges oförändrad med 'enligt tillverkaren' (R4, §16.3). '215 kg / 215 lbs.' rätt utelämnad. 'Punkteringsskyddade' rätt utelämnad. 'Företag och familjer' står i egen källa. Rättning: typordet är ett ord ('El-lastcykel', som live-titeln och metan); versalt L efter bindestreck är fel."
+ },
+ {
+  "nr": 9015,
+  "id": "10472348188938",
+  "fil": "k_01a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "El-Lastcykel",
+    "efter": "El-lastcykel"
+   },
+   "seo_title": {
+    "fore": "El-Lastcykel",
+    "efter": "El-lastcykel"
+   },
+   "html": {
+    "fore": "<li>Dig som behöver en lastcykel för företag eller familj</li>",
+    "efter": "<li>Dig som vill ta med ditt husdjur på vardagsresorna</li>"
+   }
+  },
+  "skal": "R1-fel: punkten 'för företag eller familj' kommer från syskonet 9014 (Flex). Flex Dogs egen källa nämner varken företag eller familjer; den säger 'för dig som vill ta med din fyrbenta vän på vardagsresorna' och 'ditt husdjur'. Utkastarens att_bekrafta påstår felaktigt att uppgiften står i källans inledning. Övriga fakta spårbara (Ananda mittmotor 250 W/45 Nm, 12,8 Ah/36 V, 30–40 km, Tourney 7-växlad, 24/26 x 2,15 med reflexremsa, transparent dörr med rundade hörn, mått, 100 + 100 kg, sadelhöjd). Typordet rättas som i 9014."
+ },
+ {
+  "nr": 9017,
+  "id": "10494946312458",
+  "fil": "k_01a_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "R3: titeln anger färgen Gem Blue, men produktens enda variant har SKU ENGWE_E26-GREEN och källtexten nämner ingen färg. Färgen kommer alltså bara från titeln och motsägs av leverantörens egen data (blått mot grönt; till skillnad från 9024 där Mars Dust och 'Red' är samma kulör). Texten skulle upprepa en möjligen felaktig färg i titel, SEO-titel, meta och specifikation. Övriga fakta är spårbara och utkastet kan skrivas oförändrat om leverantören bekräftar att varianten är Gem Blue (eller rättas till rätt färg)."
+ },
+ {
+  "nr": 9018,
+  "id": "10502527910154",
+  "fil": "k_01a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (250 W/70 Nm, 768 Wh, 140 km, aluminium, 165–195 cm, Shimano 7, hydrauliska, 26 x 4.0, 34,5 kg, 150 kg, Ingår-raden, el-fatbike ur källan). Svart stöds av SKU (…-BLACK). 'Bekväm fjädring' och kvalitetsord rätt utelämnade. Inte dubblett av 9016 (E26 ST, annan SKU) eller 9017."
+ },
+ {
+  "nr": 9019,
+  "id": "10541371752714",
+  "fil": "k_01a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (momentgivare, 250 W/45 Nm, löstagbart batteri 417,6 Wh, 80 km, aluminium, olja/fjäder 120 mm, Shimano Altus 9, Tektro hydrauliska, CST 29x2.1, färgdisplay, 25 kg, 120 kg, Ingår-raden). Typordet Elcykel står i källtexten ('Fiido Nomads elcykel'), så bytet från engelska 'Electric bike' är tillåtet (R7). Två varianter med samma pris, ingen färg eller storlek låst. 238 km med extrabatterier rätt utelämnat."
+ },
+ {
+  "nr": 9020,
+  "id": "10472292778250",
+  "fil": "k_01a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (aluminium, Mivice momentgivare, hydraulisk dubbelkronad gaffel 80 mm/135 mm, navmotor 250 W/55 Nm, DMEGC 556,8 Wh, 87 km, Tourney 7, skivbromsar, CST 20x4.0, 26,8 kg, 120 kg, fästpunkter, vikbar fatbike-design). IP54/IP67 och 'damm- och stänktålig' rätt utelämnade (skyddspåstående). Grön finns bara i titeln, men enda variant och inget i källan säger emot (samma praxis som 9053/k_16)."
+ },
+ {
+  "nr": 9021,
+  "id": "10472296251658",
+  "fil": "k_01a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Antal växlar: 1</li>\n",
+    "efter": ""
+   },
+   "meta": {
+    "fore": "SR Suntour-luftgaffel, Shimano BR-MT410 och däck",
+    "efter": "SR Suntour-luftgaffel, hydrauliska bromsar och däck"
+   }
+  },
+  "skal": "R2: 'Växelsystem: Shimano E5' och 'Antal växlar: 1' går inte ihop entydigt (E5 betecknar normalt ett femväxlat navsystem; '1' kan avse en klinga). Raden 'Antal växlar: 1' utelämnas; växelsystemets namn står kvar ordagrant enligt Davids regel 2026-11-03. Metan räknade upp 'Shimano BR-MT410' utan att säga att det är bromsar; ersätts med 'hydrauliska bromsar' (143 tecken). Övrigt spårbart (ALUXX SL, integrerad batteridesign, XCR32 Air 100 mm, SyncDrive Sport 2 250 W/75 Nm, EnergyPak 625 Wh, 180 km, BR-MT410 hydrauliska, Smart Sam Plus 57-584, Ingår-raden). Black Diamond bara i titeln, enda variant."
+ },
+ {
+  "nr": 9022,
+  "id": "10472295956746",
+  "fil": "k_01a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (ALUXX SL, XCR32 Coil 100 mm, SyncDrive Sport 2 250 W/75 Nm, 625 Wh, 180 km, Shimano Deore Shadow+ 10, BR-MT200 hydrauliska, Smart Sam Plus, Ingår-raden). Shimano Deore finns inte som elektronisk grupp och står inte på listan i lärdomen 2026-11-03 (105/GRX/Ultegra, SRAM Apex/Eagle); Davids regel tillåter gruppnamn och entydigt antal, och texten påstår inget om mekanik. Samma praxis som 7147 (Deore). Pyrite Brown bara i titeln, enda variant."
+ },
+ {
+  "nr": 9023,
+  "id": "10472250769674",
+  "fil": "k_01a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (ALUXX, RideControl ANT+ med navigation och smartphoneanslutning, Shimano Alivio 9, Tektro HD-M275 160/180 mm, SyncDrive 50 Nm driven av Yamaha, EnergyPak (Smart) 400 Wh, 180 km under ideala förhållanden, 25 km/h). Hastigheten står ordagrant i källan, så §16.4 uppfylls. Trasiga rader (XL, Fälgar) rätt utelämnade. Hematite bara i titeln, enda variant."
+ },
+ {
+  "nr": 9024,
+  "id": "10676722008330",
+  "fil": "k_01a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": ", 800 W toppeffekt",
+    "efter": ""
+   }
+  },
+  "skal": "Rättning: '800 W toppeffekt' står bara i löptexten med säljord ('kraftfulla motorn'), medan specifikationsraden anger 250 W, 100 Nm. En toppeffekt på 800 W bredvid 250 W riskerar att läsas som ett påstående om effektklass (§16.4: inga lagkrav eller prestandalöften utöver specifikationen); strykes. Eagle 90 Transmission rätt utelämnad (finns som elektroniskt system; lärdom 2026-11-03). Mars Dust mot variantens 'Red': samma kulörfamilj, originalfärgnamnet behålls (praxis 7167). Två varianter M/L med samma pris. Hjälpbatteriet 280 Wh rätt utelämnat. Övrigt spårbart (kompositram, Maestro 170 mm, Fox Float 38 180 mm, DHX 205x65, 12 växlar, TRP EVO Expert 4-kolvs, däck fram/bak, 560 Wh, 171 km, fästpunkter)."
+ },
+ {
+  "nr": 9025,
+  "id": "10470923141386",
+  "fil": "k_01a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (ALUXX SL, remdrift ur 'Remdriftssystemet', Shimano-navväxling, XCR 34 Air 100 mm, Fox Float DPS, RideDash EVO färg-LCD, SyncDrive Pro 2 85 Nm, EnergyPak 800 Wh, 250 km, laddare 6A 60 % på 3 timmar, BR-MT420 4-kolvs 203 mm). Laddtiden står i källan och återges med 'enligt tillverkaren' (§16.2). Pakethållarens 20 kg i löptext utan etikett rätt utelämnad (R4); 10 000 km och 'pålitlig' rätt utelämnade; 27,5 tum rätt utelämnad (bara i titeln)."
+ }
+]

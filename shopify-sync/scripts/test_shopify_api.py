@@ -185,5 +185,37 @@ class TestKlassa(unittest.TestCase):
         self.assertEqual(sorted(w['id'] for w, _ in avviker), ['3', '4', '5', '6'])
 
 
+class TestSkrivTexter(unittest.TestCase):
+    import shopify_skriv_texter as st
+    W = {'id': '1', 'nr': 1, 'titel': 'Elcykel X', 'seo_title': 'Elcykel X', 'meta': 'Meta text som är tillräckligt lång.', 'html': '<p>Ny</p>'}
+
+    def live(self, **kw):
+        p = prod('1', 'Meta text som är tillräckligt lång.', title='Elcykel X', descriptionHtml='<p>Ny</p>', tags=['a'])
+        p.update(kw); return p
+
+    def test_lika_ger_inga_avvikelser(self):
+        self.assertEqual(self.st.jamfor_text(self.W, self.live(), self.live()), [])
+
+    def test_html_avvikelse_hittas(self):
+        self.assertTrue(self.st.jamfor_text(self.W, self.live(), self.live(descriptionHtml='<p>Nx</p>')))
+
+    def test_tagg_forvantas_bara_nar_tagg_klar(self):
+        f = self.live(); e = self.live(tags=['a', 'texter-klara'])
+        self.assertTrue(self.st.jamfor_text(self.W, f, e))
+        self.assertEqual(self.st.jamfor_text(self.W, f, e, tagg_klar=True), [])
+
+    def test_handle_och_status_far_inte_andras(self):
+        f = self.live()
+        self.assertEqual(len(self.st.jamfor_text(self.W, f, self.live(handle='x', status='DRAFT'))), 2)
+
+    def test_klassning(self):
+        poster = [dict(self.W, id=str(i)) for i in range(1, 6)]
+        live = [self.live(descriptionHtml='<p>Gammal</p>'), self.live(), self.live(status='DRAFT', descriptionHtml='g'), None,
+                self.live(descriptionHtml='g')]
+        skriv, klar, avv = self.st.klassa(poster, live, {'5': ('pilot-20', set())})
+        self.assertEqual([w['id'] for w in skriv], ['1']); self.assertEqual([w['id'] for w in klar], ['2'])
+        self.assertEqual(sorted(w['id'] for w, _ in avv), ['3', '4', '5'])
+
+
 if __name__ == '__main__':
     unittest.main(verbosity=1)
