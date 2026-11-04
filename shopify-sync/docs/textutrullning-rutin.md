@@ -60,3 +60,11 @@ Produkter skrivna / totalt, andel med 0 avvikelser i stickprov, antal korrigerin
 - **Skrivfilskontroll:** `python3 shopify-sync/scripts/skrivfil_kontroll.py <skrivfil> [--tillat-kanda]` kontrollerar spärrade produkter, förbjudna uttryck (FAQ, "Om märket", "här kallad", engelska maxviktsrader), märke i versaler, liten bokstav efter kolon, standardblocket, längder, dubbletter, osynliga tecken. Körs automatiskt av `rapporter/facit-bos-2026-10-31/vag2_skriv/bygg_kontrollerad.py` och ska köras före varje skrivning.
 - **Beslutslogg:** `shopify-sync/docs/BESLUTSLOGG.md` samlar Davids beslut som styr utrullningen. Läs den före varje ny batch. Nya beslut läggs till överst.
 - **Regel:** när något går fel ska vi fråga om ett skript kan upptäcka det, och i så fall lägga in kontrollen i `skrivfil_kontroll.py`, inte bara skriva en lärdom.
+
+## Tillägg 2026-11-04 (kväll): regelbok, profil, status och mätning
+
+- **Regelbok:** `shopify-sync/regler/regler-v1.md` (R1–R19, en kod per regel: T=skript, G=granskare, M=mänskligt beslut). Korta agentprompter i `shopify-sync/regler/agentprompter.md` ersätter de långa promptarna. Nytt granskningsfynd blir en ny regel eller ett nytt test.
+- **Butiksprofil:** `shopify-sync/config/butiksprofil-bestofsports.json` (märken, gränsvärden, standardblock, taggar, faktatextkategorier, spärrlista). Ny butik = kopiera profilen, byt värden, behåll pipeline och skript.
+- **Status:** `shopify-sync/status/bestofsports-textutrullning.md` genereras av `status_uppdatera.py`; öppna frågor i `shopify-sync/status/oppna_fragor.json`.
+- **Mätning:** `python3 shopify-sync/scripts/mat_utbyte.py --md`. Mätt 2026-11-04 över 1 656 utkast: 45 % godkända direkt, 44 % rättas, 11 % underkända. Av enskilda rättningar är bara 12 % format och 88 % innehåll (ordval, påståenden, grammatik). Slutsats: att automatisera format räcker inte för att spara granskning; vinsten ligger i bättre regler till utkastarna och i att automatisera de återkommande innehållsfynden (cirkulär inledning, "N tum skärm", engelska typord).
+- **Paketering för fler butiker:** pipelinen (regelbok, profil, kontrollskript, status, mätning) är butiksoberoende. För en ny butik behövs: profil, spärrlista, standardblock, en inventering och en skrivväg (API-token). Det här är underlaget för en tjänst.

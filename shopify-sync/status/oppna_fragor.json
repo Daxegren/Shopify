@@ -1,0 +1,10 @@
+[
+  {"id": "F1", "datum": "2026-11-04", "fraga": "Pilotens 20 produkter: fortsätt hålla dem utanför (nu), eller räkna dem som avslutade? Två skrevs av misstag (10103, 10110)", "status": "öppen"},
+  {"id": "F2", "datum": "2026-11-04", "fraga": "Ska 'enligt tillverkaren' stå på alla lastgränser? Idag på 2 av 24 texter med maxvikt i f_1–f_15", "status": "öppen"},
+  {"id": "F3", "datum": "2026-11-04", "fraga": "Golvmatta eller Träningsmatta som typord för mattor under maskiner?", "status": "öppen"},
+  {"id": "F4", "datum": "2026-11-04", "fraga": "Dubbletter i butiken (Autark 5.0 10384/10386, Centuri E100 10126/10142, Lyon Climber H9117, 10158/10165): ta med i sammanslagningsplanen?", "status": "öppen"},
+  {"id": "F5", "datum": "2026-11-04", "fraga": "Avvisade produkter med flera varianter (10254, 10257, 10258, 10264, 10276, 10278, 10307, 10317, 10321–10323, 10329, 10333, 10335): dela upp varianter i butiken eller be leverantören rätta?", "status": "öppen"},
+  {"id": "F6", "datum": "2026-11-04", "fraga": "Märket 'FLUID' i versaler på tre roddtillbehör (10061, 10065, 10067): rätta till 'Fluid'?", "status": "öppen"},
+  {"id": "F7", "datum": "2026-11-04", "fraga": "API-vägen: tillåt myshopify-adressen, skapa app (read/write_products) och lägg token som hemlig variabel", "status": "öppen"},
+  {"id": "F8", "datum": "2026-11-04", "fraga": "CLAUDE.md: ok att lägga in en kort rad som pekar på regelbok, beslutslogg och profil så de läses vid start?", "status": "öppen"}
+]

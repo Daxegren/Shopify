@@ -179,3 +179,7 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 ## 2026-11-04: Fitnessbatcherna skrevs över experiment 1 och pilotprodukter
 - Vad hände: Davids beslut i produkttexter-standard.md (rad 73) säger att experiment 1 (432 produkter, kohorter T/K i `rapporter/forslag-bos-experiment-1-2026-10-27/kohorter.csv`) och pilotens 20 produkter inte ändras i vågorna. Inventeringen av fitnessgruppen (643 produkter) räknade bort varken kohorterna eller pilotprodukterna. Före upptäckten (granskaren av f_15) skrevs 150 kohortprodukter (76 behandling T, 74 kontroll K) i f_1–f_12 samt f_x1, och 15 i f_13 (skrivna men utan taggen texter-klara när agenten stoppades). Två pilotprodukter (10103, 10110) skrevs om. Skrivandet stoppades, och f_14 och f_15 filtrerades.
 - Regel: bygg varje inventering mot en spärrlista (kohorter.csv + pilotens 20 + handhavda ids) innan batcher delas upp. Kontrollera spärrlistan i skriptet som bygger skrivfilen, inte bara i granskarens prompt.
+
+## 2026-11-04: Mät innan du automatiserar – antagandet 'mest format' stämde inte
+- Vad hände: jag trodde att de flesta granskningsrättningar gällde format. Mätningen (`mat_utbyte.py`, 1 656 utkast) visade 12 % format och 88 % innehåll. Det nya testet för cirkulära inledningar hittade två fel som både utkastare och Opus-granskare missat (10290, 10291).
+- Regel: räkna fynden per typ före varje beslut om vad som ska automatiseras eller minskas. Lägg varje återkommande innehållsfynd som test i `skrivfil_kontroll.py` så fort det går att uttrycka som regel.

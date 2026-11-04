@@ -8,6 +8,7 @@ import csv, json, re, sys, os, collections
 
 ROT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
 MARKEN = ['Hammer', 'Toorx', 'Tunturi', 'BH Fitness', 'Finnlo by Hammer', 'Gymstick', 'Christopeit', 'Kettler', 'Fluid', 'Union', 'Peltonen']
+MARKEN_VARNING = ['Fluid']
 FORBJUDET = [
     (r'här kallad', 'arbetsterm "här kallad" i kundtext'),
     (r'Vanliga frågor', 'FAQ-avsnitt kopierat från källa'),
@@ -16,6 +17,16 @@ FORBJUDET = [
     (r'Load (capacity|range)', 'engelsk lastrad kvar'),
 ]
 BLOCK_KRAV = ['Leverans, retur och garanti', 'Frakt och leverans', 'Retur:', 'Reklamation:', 'Säljare:', 'info@bestofsports.se']
+
+
+def las_profil(path):
+    """Läser märken och standardblock ur butiksprofilen; faller tillbaka på standardvärdena ovan."""
+    global MARKEN, MARKEN_VARNING, BLOCK_KRAV
+    if path and os.path.exists(path):
+        p = json.load(open(path, encoding='utf-8'))
+        MARKEN = p.get('marken', MARKEN)
+        MARKEN_VARNING = p.get('marken_varning_bara', MARKEN_VARNING)
+        BLOCK_KRAV = p.get('standardblock_krav', BLOCK_KRAV)
 
 
 def las_sparr(path):
@@ -50,12 +61,16 @@ def kontrollera(fil, sparr, tillat_kanda):
         for pat, skal in FORBJUDET:
             if re.search(pat, text, re.I):
                 f(skal)
+        if re.search(r'\b\d+(,\d+)? tum (skärm|pekskärm|display)', text):
+            f('"N tum skärm": skriv "N-tums skärm" i löptext (R10)')
+        for m_ in re.finditer(r'\b([A-ZÅÄÖ][\wåäö-]+(?: [\wåäö-]+){0,3}) är (?:en|ett) \1\b', x.get('html') or '', re.I):
+            f(f'cirkulär inledning: "{m_.group(0)[:50]}" (R11)'); break
         if re.search(r'&(?!amp;)', re.sub(r'&nbsp;|&amp;', '', text)):
             v('"&" i texten (skriv "och")')
         for m in MARKEN:
             for k in ('titel', 'seo_title'):
                 if x.get(k) and re.search(r'\b' + re.escape(m.upper()) + r'\b', x[k]) and m.upper() != m:
-                    (v if m == 'Fluid' else f)(f'märket {m} i versaler i {k}')
+                    (v if m in MARKEN_VARNING else f)(f'märket {m} i versaler i {k}')
         for rad in re.findall(r'<li>[^<:]{1,40}: ([a-zåäö]{3,})\b', x.get('html') or ''):
             f('liten bokstav efter kolon i specifikationsrad'); break
         for krav in BLOCK_KRAV:
@@ -82,6 +97,10 @@ def main():
     sparr_path = os.path.join(ROT, 'shopify-sync/config/sparrlista.json')
     if '--sparr' in a:
         k = a.index('--sparr'); sparr_path = a[k + 1]; del a[k:k + 2]
+    profil = os.path.join(ROT, 'shopify-sync/config/butiksprofil-bestofsports.json')
+    if '--profil' in a:
+        k = a.index('--profil'); profil = a[k + 1]; del a[k:k + 2]
+    las_profil(profil)
     tillat = '--tillat-kanda' in a
     a = [x for x in a if x != '--tillat-kanda']
     sparr = las_sparr(sparr_path)

@@ -29,3 +29,7 @@ Skriv för en beslutsfattare, inte för en utvecklare: inga kommandon i sammanfa
 ## Lärdomar
 
 Läs `shopify-sync/docs/LARDOMAR.md` innan du rekommenderar en ändring i en butik, ett tema eller en datamodell. Lägg till en ny post där när något har gått fel eller visat sig vara fel (datum, vad som hände, regel). Filen fylls bara på.
+
+## Textutrullning (produkttexter i butiker)
+
+Före varje batch: läs `shopify-sync/regler/regler-v1.md`, `shopify-sync/docs/BESLUTSLOGG.md` och butikens profil i `shopify-sync/config/`. Kör `shopify-sync/scripts/skrivfil_kontroll.py` på varje skrivfil före skrivning (spärrlistan i `shopify-sync/config/sparrlista.json` stoppar spärrade produkter). Läget i utrullningen finns i `shopify-sync/status/`; uppdatera med `shopify-sync/scripts/status_uppdatera.py`. Rutinen: `shopify-sync/docs/textutrullning-rutin.md`.
