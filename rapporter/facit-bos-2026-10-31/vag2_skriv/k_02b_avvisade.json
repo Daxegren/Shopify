@@ -1,0 +1,42 @@
+[
+ {
+  "id": "10676721189130",
+  "nr": 9131,
+  "skäl": "R3: titeln anger färgen Obsidian Pulse, men produkten har fyra storleksvarianter med olika pris (M och M/L 104 029 kr, L och XL 103 819 kr). Går inte att skriva utan att låsa en variant; David avgör."
+ },
+ {
+  "id": "10515737542922",
+  "nr": 9133,
+  "skäl": "Dubblett: samma produkt-id som 8068 (Giant Road Pro, sadel), som redan finns som utkast i b_22_utkast.json. Ska inte skrivas två gånger."
+ },
+ {
+  "id": "10476257116426",
+  "nr": 9134,
+  "skäl": "Dubblett: samma produkt-id som 7080 (Giant Anthem Advanced 29 1, Dark Iridescent), som redan finns som utkast i k_13_utkast.json."
+ },
+ {
+  "id": "10476279496970",
+  "nr": 9135,
+  "skäl": "Dubblett: samma produkt-id som 7083 (Giant Defy Advanced 2 (2026), Abyss Black), som redan finns som utkast i k_13_utkast.json (samma modell och färg finns även som 6054)."
+ },
+ {
+  "id": "10472335212810",
+  "nr": 9139,
+  "skäl": "Dubblett: samma modell och färg som 7114 (Kona Dew, 29 tum, Niagra Blå, id 10541372113162), som redan är skriven och aktiv. Går inte att ge unik titel utan påhittad skillnad; David avgör om det är samma produkt."
+ },
+ {
+  "id": "10565633540362",
+  "nr": 9141,
+  "skäl": "Dubblett: samma modell och färg som 7081 (Kona Fire Mountain, Gloss Metallic Peridot, id 10476262064394), som redan är skriven och aktiv. Källan har dessutom varianter i XS med 26 tum och 27,5 tum, så hjulstorlek går inte att låsa."
+ },
+ {
+  "id": "10487969939722",
+  "nr": 9142,
+  "skäl": "Dubblett: samma modell och färg som 7122 (Kona Lava Dome, Prism Dragonfly, id 10565633736970), som redan är skriven och aktiv. Går inte att ge unik titel utan påhittad skillnad; David avgör om det är samma produkt."
+ },
+ {
+  "id": "10462190567690",
+  "nr": 9145,
+  "skäl": "R3: titeln anger färgen Matte Plum men källan säger 'Färg: orange' och varianterna anger 'purple'; dessutom olika pris (M 25 569 kr, L och XL 25 519 kr). Källan stämmer inte med titeln; David avgör."
+ }
+]
