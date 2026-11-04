@@ -1,0 +1,255 @@
+[
+ {
+  "nr": 10101,
+  "id": "10665231417610",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html_1": {
+    "fore": "spinningcykel med 10 tum pekskärm, 17",
+    "efter": "spinningcykel med 10-tums pekskärm, 17"
+   },
+   "html_2": {
+    "fore": "<li>Dig som söker en spinningcykel med 10 tum pekskärm</li>",
+    "efter": "<li>Dig som söker en spinningcykel med 10-tums pekskärm</li>"
+   }
+  },
+  "skal": "Grammatik: '10 tum pekskärm' i löptext ska vara '10-tums pekskärm' (live-källan '10 tum, pekskärm' i listform). Fakta stämmer ordagrant (17 program, 32 motståndsnivåer, PMS servomotor, 20 kg, 158 x 53 x 154 cm, 48 kg, maximal användarvikt 135 kg)."
+ },
+ {
+  "nr": 10102,
+  "id": "10411916722442",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10103,
+  "id": "10411848532234",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html_1": {
+    "fore": "spinningcykel med 10,1 tum TFT-pekskärm, 16",
+    "efter": "spinningcykel med 10,1-tums TFT-pekskärm, 16"
+   },
+   "html_2": {
+    "fore": "<li>Dig som söker en spinningcykel med 10,1 tum TFT-pekskärm</li>",
+    "efter": "<li>Dig som söker en spinningcykel med 10,1-tums TFT-pekskärm</li>"
+   },
+   "meta": {
+    "fore": "Hammer Speed Race SR är en spinningcykel med 10,1 tum TFT-pekskärm och 16 träningsprogram. Maximal användarvikt är 150 kg.",
+    "efter": "Hammer Speed Race SR är en spinningcykel med 10,1-tums TFT-pekskärm och 16 träningsprogram. Maximal användarvikt är 150 kg."
+   }
+  },
+  "skal": "Live-källan är pilotens gamla text; utkastet är helt fritt från FAQ, Om märket, 'stabil cykel', 'servostyrd belastning', Tyskland och 'Belastningsintervall: 32'. Rättning: grammatik '10,1 tum TFT-pekskärm' → '10,1-tums TFT-pekskärm' (som live-titeln)."
+ },
+ {
+  "nr": 10104,
+  "id": "10589706092810",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10105,
+  "id": "10472278491402",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10106,
+  "id": "10472278655242",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10107,
+  "id": "10472278688010",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10108,
+  "id": "10472300183818",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Hopfällbar Toorx BRX Compact",
+    "efter": "Hopfällbar Motionscykel Toorx BRX Compact"
+   }
+  },
+  "skal": "SEO-titeln saknar typord ('Hopfällbar Toorx …' är ett adjektiv utan substantiv; övriga skrivfiler har alltid 'Hopfällbar Motionscykel/Cykel …'). Ny SEO-titel 41 tecken, lika med titeln (tillåtet, §10)."
+ },
+ {
+  "nr": 10109,
+  "id": "10472300380426",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Hopfällbar Toorx Compact MultiFit",
+    "efter": "Motionscykel Toorx Compact MultiFit"
+   }
+  },
+  "skal": "SEO-titeln saknar typord. 'Hopfällbar Motionscykel Toorx Compact MultiFit' blir 46 tecken (>43), därför typordet Motionscykel utan adjektiv (35 tecken)."
+ },
+ {
+  "nr": 10110,
+  "id": "10541370114314",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10111,
+  "id": "10475515642122",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10112,
+  "id": "10635764498698",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10113,
+  "id": "10508994150666",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10114,
+  "id": "10475515478282",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10115,
+  "id": "10665225912586",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Toorx SRX Speed Mag är en spinningcykel med LCD-skärm, bromssystem av typen PMS, manuell, och svänghjul på 20 kg.</p>",
+    "efter": "<p>Toorx SRX Speed Mag är en spinningcykel med LCD-skärm och svänghjul på 20 kg.</p>"
+   },
+   "meta": {
+    "fore": "Toorx SRX Speed Mag är en spinningcykel med LCD-skärm och svänghjul på 20 kg. Sadelhöjden är 73–88 cm och bromssystemet PMS, manuell.",
+    "efter": "Toorx SRX Speed Mag är en spinningcykel med LCD-skärm och svänghjul på 20 kg. Sadelhöjden är 73–88 cm och produktvikten 42 kg."
+   }
+  },
+  "skal": "Inledningen 'med LCD-skärm, bromssystem av typen PMS, manuell, och svänghjul' är grammatiskt otymplig och metans 'och bromssystemet PMS, manuell' är en ofullständig sats (jfr f_4 10089). Bromssystemet står kvar i specifikationen; metan får i stället produktvikten 42 kg ur källan."
+ },
+ {
+  "nr": 10116,
+  "id": "10471157629194",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10117,
+  "id": "10472308375818",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Liggande Toorx BRX R3000 med Ryggstöd",
+    "efter": "Liggande Motionscykel Toorx BRX R3000"
+   }
+  },
+  "skal": "SEO-titeln saknar typord ('Liggande Toorx …'). Live-titeln: 'Liggande motionscykel med ryggstöd'. 'Belastning: 16 kg' återges korrekt som svänghjul 16 kg (källtexten: 'svänghjulsvikt på 16 kg')."
+ },
+ {
+  "nr": 10118,
+  "id": "10515744194826",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Motionscykel Toorx BRX95 med Ryggstöd",
+    "efter": "Motionscykel Toorx BRX95 Comfort med Ryggstöd"
+   },
+   "seo_title": {
+    "fore": "Toorx BRX95 med Ryggstöd",
+    "efter": "Toorx BRX95 Comfort med Ryggstöd"
+   }
+  },
+  "skal": "Modellnamnet inkonsekvent: titel/SEO 'BRX95' men inledning och meta 'BRX95 Comfort'. Comfort står i källtexten ('BRX-95 Comfort'), handle (brx95-comfort) och SKU (BRX-R95-COMFORT) och ska inte tappas ur titeln (jfr f_4 10076)."
+ },
+ {
+  "nr": 10119,
+  "id": "10462229463306",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10120,
+  "id": "10472261419274",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10121,
+  "id": "10472261452042",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10122,
+  "id": "10472220197130",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Hopfällbar Motionscykel med Ryggstöd Tunturi Fit B25 X-bike",
+    "efter": "Hopfällbar Motionscykel Tunturi Fit B25 X-bike med Ryggstöd"
+   }
+  },
+  "skal": "Live-titelns 'Hopträningscykel' är skrivfel; källtexten 'hopfällbar träningscykel med ryggstöd' och taggarna Motionscykel/Vikbar cykel stödjer 'Hopfällbar Motionscykel'. Rättning: ordningen Typ, Märke, Modell, egenskap (§3), ryggstödet sist. Tunn källa: kort meta 109 tecken godtas (§14/§17)."
+ },
+ {
+  "nr": 10123,
+  "id": "10472249196810",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": " 8 svårighetsnivåer. Konsolen drivs av 2 x AA-batterier.</p>",
+    "efter": " 8 svårighetsnivåer.</p>"
+   }
+  },
+  "skal": "'Konsolen drivs av 2 x AA-batterier' står inte i källan, som bara har 'Strömförsörjning: 2 x AA-batterier' (utan konsolen, till skillnad från FitCycle 20/30). Meningen stryks; specifikationen behåller källans rad. Rehabiliteringscenter och 'Belastning: 4,5 kg' rätt utelämnade."
+ },
+ {
+  "nr": 10124,
+  "id": "10411731616010",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10125,
+  "id": "10472255127818",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html_1": {
+    "fore": "<p>Tunturi Cardio Fit E30 är en motionscykel med LCD-skärm, 22 träningsprogram och motor i bromssystemet. Cykeln drivs med nätström.</p>",
+    "efter": "<p>Tunturi Cardio Fit E30 Ergometer är en motionscykel med LCD-skärm och 22 träningsprogram. Cykeln drivs med nätström.</p>"
+   },
+   "html_2": {
+    "fore": "\n<li>Dig som söker en ergometer-motionscykel med motor i bromssystemet</li>",
+    "efter": ""
+   },
+   "meta": {
+    "fore": "Tunturi Cardio Fit E30 är en motionscykel med LCD-skärm och 22 träningsprogram. Bromssystemet är PMS med motor och cykeln drivs med nätström.",
+    "efter": "Tunturi Cardio Fit E30 Ergometer är en motionscykel med LCD-skärm och 22 träningsprogram. Den drivs med nätström och väger 20,2 kg."
+   }
+  },
+  "skal": "'Maximal driftsvikt: 110 kg', 'Viktintervall: 16' och 'Lastkapacitet: 4,5 kg' rätt utelämnade (alt A). Men 'motor i bromssystemet' och 'Bromssystemet är PMS med motor' är tolkningar av 'Bromssystem: PMS, motor', och 'ergometer-motionscykel' är en konstruerad sammansättning. Bromssystemet står kvar ordagrant i specifikationen. Modellnamnet Ergometer (live-titel) läggs tillbaka i inledning och meta."
+ }
+]
