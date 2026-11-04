@@ -1,0 +1,97 @@
+[
+ {
+  "id": "10581106917642",
+  "nr": 9451,
+  "skäl": "Motionscykel GB3.0 (Gymstick): källan har bara marknadsföringstext (robust, effektiv, stilren svart-vit design, hemmabruk) och ingen specifikation; bara ett entydigt faktum utöver titeln (hemmabruk). Tunn källa (R3). Webbsökning gav bara återförsäljare och en manual som inte gick att läsa maskinellt (PDF utan text), så inget gick att belägga entydigt från tillverkaren (v1.6). Fitness, så tunn text hålls inte kvar som kort meta."
+ },
+ {
+  "id": "10581097054474",
+  "nr": 9452,
+  "skäl": "Träningsslang Gymstick Aktiv med dörrankare: källan är en mening (\"levereras med dörrankare\") och inget annat utöver titeln. Tunn källa (R3), ingen webbkälla funnen."
+ },
+ {
+  "id": "10472249295114",
+  "nr": 9453,
+  "skäl": "Bakre stödhjul/stödben Hebie Abstellheld 40: stödben bär cykelns vikt (bärande fäste), i linje med tidigare underkännanden (5003, 5010, 8052, 8056). Live-titeln säger dessutom \"stödhjul\" medan taggen och handtaget säger stödben; typordet är inte entydigt i källan (R7). David kan släppa stödben som grupp."
+ },
+ {
+  "id": "10468708843786",
+  "nr": 9454,
+  "skäl": "Fender set Hebie Taipan 16\": källan säger \"Skärmset för barnhjul på 16 tum\", alltså barnprodukt (R6, profilen utanfor_tills_vidare). Engelskt typord i live-titeln. David kan släppa om barncykeltillbehör ska ingå."
+ },
+ {
+  "id": "10472245428490",
+  "nr": 9457,
+  "skäl": "Stödben Hebie Abstellheld 18: stödben bär cykelns vikt (bärande fäste), linje med 5003/5010/8052/8056. Källan har dessutom bara kvalitetsord utöver bulthålsavståndet. David kan släppa stödben som grupp."
+ },
+ {
+  "id": "10472245362954",
+  "nr": 9458,
+  "skäl": "Stödben Hebie Fix 18: bärande fäste (stödben). Tunn källa: ögonavstånd 18 mm och \"bred ände 18 mm\" är oklara mått. David kan släppa stödben som grupp."
+ },
+ {
+  "id": "10411858428170",
+  "nr": 9459,
+  "skäl": "Stödben Hebie Fox I: bärande fäste (stödben bär cykelns vikt). Källan anger lastkapacitet 25 kg, vilket gör säkerhetsprofilen tydligare. David kan släppa stödben som grupp."
+ },
+ {
+  "id": "10472245526794",
+  "nr": 9460,
+  "skäl": "Stödben Hebie Fox Uni: bärande fäste (stödben). Raden \"Kraftigt för styraxeln\" är obegriplig. David kan släppa stödben som grupp."
+ },
+ {
+  "id": "10472246870282",
+  "nr": 9461,
+  "skäl": "Stödben Hebie eLex: bärande fäste (stödben för elcykel, last 40 kg i källan). Elcykelfäste med viktfördelning i marknadsföringstexten. David kan släppa stödben som grupp."
+ },
+ {
+  "id": "10472286290186",
+  "nr": 9464,
+  "skäl": "Dricksflaska Liv Doublespring 750cc Bench: källan är tom (bara titeln). Webbsökning gav återförsäljare och Livs sida för PourFast/Doublespring 750 ml men ingen sida som entydigt gäller färgsättningen \"Bench\" (v1.6: utelämna). Tunn källa (R3)."
+ },
+ {
+  "id": "10475981701386",
+  "nr": 9466,
+  "skäl": "Stöd för bakre hjul OXC Deluxe: källan är tom, och produkten är ett stödben (bärande fäste). Tunn källa (R3) och bärande fäste."
+ },
+ {
+  "id": "10469226512650",
+  "nr": 9467,
+  "skäl": "Cykelhållare Peruzzo Parma (dragkrok, 4 cyklar): bärande fäste på bilens dragkrok med lastgräns 60 kg och typgodkännande. Källan är maskinöversatt engelska med upprepade trasiga rader (R2) och motsägelser (t.ex. \"Max. antal hjul: max\"). Säkerhetskritisk (R4 och bärande fäste). Taggen På beställning."
+ },
+ {
+  "id": "10472296153354",
+  "nr": 9468,
+  "skäl": "Cykelställ Peruzzo Siena (dragkrok, 4 cyklar): bärande fäste på bilens dragkrok med lastgräns 60 kg, typgodkännande och bakljus. Källan har upprepade trasiga rader (R2) och säkerhetskritiska uppgifter. Taggen På beställning."
+ },
+ {
+  "id": "10472334491914",
+  "nr": 9469,
+  "skäl": "Fälgskydd M-Wave Ringlock 29-33: källan är bara titeln. Priset 6 779 kr och taggen Romet tyder på att produkten är felklassad (Ringlock är ett ramlås-namn), så typen kan inte beläggas. Tunn källa (R3)."
+ },
+ {
+  "id": "10472286224650",
+  "nr": 9471,
+  "skäl": "Cykeldekorationer Stitch: källan säger \"Personifiera ditt barns cykel\", alltså barnprodukt (R6). Tidigare underkänd av samma skäl (se b_utlatande_7_9)."
+ },
+ {
+  "id": "10472256143626",
+  "nr": 9472,
+  "skäl": "Frontkorg Wish, lila: källan säger \"Cykelkorg för barn med Wish-tema\", alltså barnprodukt (R6). Ingen lastuppgift."
+ },
+ {
+  "id": "10472239956234",
+  "nr": 9473,
+  "skäl": "Adapter Shimano SM-MA90-R160 Post/Standard: bromsskiveadapter (handtaget säger bromsskiveadapter), bromsdel och därmed säkerhetskritisk. Avvisas till David. Källan är en mening."
+ },
+ {
+  "id": "10472240316682",
+  "nr": 9474,
+  "skäl": "Bakväxel Shimano Altus RD-M370 9s Silver SGS: källan är tom (bara titeln). Shimanos egen sida gav 403 vid hämtning; webbsökningen gav återförsäljare (9 växlar, lång vagn, total kapacitet 45T) men ingen läst tillverkarsida. v1.6: utelämna. Tunn källa (R3). Kan skrivas om David godkänner webbfynden."
+ },
+ {
+  "id": "10472252801290",
+  "nr": 9475,
+  "skäl": "Bakväxel Shimano RD-TX800 \"ram 7/8v\": titeln anger 7/8v men källan \"8-växlad drivlina\", \"43T\" och \"ram\" är oförklarade. Antalet växlar motsägs (samma skäl som underkännandet av 6178 i k_8). Ingen entydig webbkälla funnen."
+ }
+]
