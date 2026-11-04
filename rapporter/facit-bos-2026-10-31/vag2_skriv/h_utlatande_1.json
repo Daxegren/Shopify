@@ -1,0 +1,254 @@
+[
+ {
+  "nr": 10377,
+  "id": "10565603918090",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typbyte Knäböjsbänk → Knäböjsmaskin stöds av källan (Squat Machine, ingen bänk). Mått, 17,5 kg, snabba justeringar ordagrant; 'Maximal användarvikt: 130 kg' ordagrant svenska, en gång enligt tillverkaren. Säkerhet/effekt borta."
+ },
+ {
+  "nr": 10382,
+  "id": "10635766202634",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Viktblock 1 x 100 kg, mått, 145 kg ordagrant; 'Maximal användarvikt: 100 kg' ordagrant svenska, en gång. Robust/stabilitet/säkerhet borta."
+ },
+ {
+  "nr": 10383,
+  "id": "10472280949002",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Power station' → Kraftstation godtas (källan 'kraftpaket', tillverkarlänken 'kraftstation'). Viktkapacitet 80 kg och 'Maximal driftsvikt 120 kg' borta ur alla fält. Mått, utrymme, takhöjd, 240 kg ordagrant. Beställningsmening rätt."
+ },
+ {
+  "nr": 10385,
+  "id": "10472264859914",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Kraftstation står i källtexten ('mångsidig kraftstation'). 'Maximal användarvikt: 120 kg' ordagrant svenska, en gång. Max. mått, takhöjd, 177 kg ordagrant; Tyskland borta. Beställningsmening rätt."
+ },
+ {
+  "nr": 10387,
+  "id": "10507302338826",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Träningskabel ur originaltiteln, repsystem ur källan. 52 x 20 cm, 150 cm, 16 kg motstånd, 200 cm användarlängd ordagrant; 1,5 m² enligt tillverkaren. Hälsopåståenden borta."
+ },
+ {
+  "nr": 10388,
+  "id": "10472298578186",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Hemmagym står i källtexten ('mångsidiga hemmagym'). 'Maximal belastning: 110 kg' och uppgraderingen till 100 kg borta ur alla fält. 1 x 80 kg block, 5 kg per skiva, mått, utrymme, takhöjd, 205 kg, 200 cm ordagrant; 'Maximal användarvikt: 120 kg' ordagrant svenska, en gång."
+ },
+ {
+  "nr": 10391,
+  "id": "10472288485642",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Chin-up/exercise bench → Träningsbänk stöds av källan ('träningsbänk'). 'Max. lastkapacitet: 250 kg' borta; 'Maximal användarvikt: 130 kg' ordagrant svenska, en gång. Mått (tankstreck), 53 kg, 205 cm, 223 cm, Smart Switch ordagrant. Stabilitet och Tyskland borta."
+ },
+ {
+  "nr": 10393,
+  "id": "10650169213194",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Multigym ur originaltiteln. 'Maximal belastning: 80 kg' borta; 'Maximal användarvikt: 120 kg' ordagrant svenska, en gång. 1x 60 kg, mått, takhöjd, 188 cm, 119 kg ordagrant; studionivå/prisklass borta."
+ },
+ {
+  "nr": 10394,
+  "id": "10472306901258",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Latsdragsstation ur taggarna. 'Max. belastningskapacitet: 120 kg' borta (120 kg står bara som användarvikt, ordagrant svenska, en gång). 30/50 mm, viktkedjor ingår ej, mått, 217 cm, 37 kg ordagrant; 'extremt stabil' borta."
+ },
+ {
+  "nr": 10404,
+  "id": "10472288420106",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Multigym ur originaltiteln (Multi-Gym). TNT-teknik, maximalt motstånd 125 kg (träningsmotstånd, inte lastgräns), mått, utrymme, 230 cm, 96 kg, 205 cm ordagrant; 'Maximal användarvikt: 135 kg' ordagrant svenska, en gång. 140 övningar/grannvänligt/Tyskland borta. Beställningsmening rätt."
+ },
+ {
+  "nr": 10405,
+  "id": "10472298545418",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Power rack' → Multigym stöds av källan ('multigymmet'). Två kabelblock, latsdragare, 110 kg motstånd, mått, utrymme, 210 cm, 67 kg, 205 cm ordagrant; 'Maximal användarvikt: 135 kg' ordagrant svenska, en gång. Beställningsmening rätt."
+ },
+ {
+  "nr": 10406,
+  "id": "10472326627594",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Källan helt engelsk: 'Maximum user weight: 130 kg' utelämnad (alt A) och borta ur alla fält; säkerhet/stabilitet/led borta. Smithmaskin ur taggen 'smithmaskin' (originaltitel 'Smith masin'). Mått och 95 kg. Kort meta 83 tecken (§17). Beställningsmening rätt."
+ },
+ {
+  "nr": 10415,
+  "id": "10411929207050",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Maximal användarvikt: 125 kg' ordagrant svenska, en gång. 70 kg viktblock, mått, 126 kg, 50x50 mm stålrör, epoxipulverfärg, kabelsystem, ingående delar, 3 paket ordagrant; mikronät/säkerhet/hållbarhet borta. Beställningsmening rätt."
+ },
+ {
+  "nr": 10416,
+  "id": "10472269447434",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Tunturi Dumbbell Tower är ett hantelställ i järn för hantlar på 1–10 kg. Det är 51 x 51 x 128,8 cm och väger 25 kg.",
+    "efter": "Tunturi Dumbbell Tower är ett hantelställ i järn för förvaring av hantlar. Det är 51 x 51 x 128,8 cm och väger 25 kg."
+   },
+   "html": [
+    {
+     "fore": "för förvaring av hantlar som väger 1–10 kg.",
+     "efter": "för förvaring av hantlar."
+    },
+    {
+     "fore": "<li>Dig som vill förvara hantlar på 1–10 kg</li>",
+     "efter": "<li>Dig som vill förvara hantlar i ett ställ</li>"
+    },
+    {
+     "fore": "<li>Lämplig för hantlar: 1–10 kg</li>",
+     "efter": "<li>Lämplig för hantlar enligt tillverkaren: 1–10 kg</li>"
+    }
+   ]
+  },
+  "skal": "'Lämplig för hantlar från 1 till 10 kg' är en svensk lastuppgift med enhet i källan och får enligt alt A stå en gång som 'enligt tillverkaren'; utkastet har den fyra gånger (meta, inledning, passar, specifikation) utan 'enligt tillverkaren'. Dumbbell rack → Hantelställ stöds ('hantelställ'). Järn, mått, 25 kg ordagrant. Beställningsmening rätt."
+ },
+ {
+  "nr": 10418,
+  "id": "10472260141322",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Hållare: Halkfria gummihållare</li>",
+     "efter": "<li>Hållare: Halkfria gummihållare enligt tillverkaren</li>"
+    }
+   ]
+  },
+  "skal": "Hantelställ Ben → Hantelställsben godtas (källan: 'innehåller 1 ben' för hantelställ). 1 ben, Svart, metall, två ben + hyllor = komplett ställ ordagrant; varumärkesberättelse borta. 'Halkfria' är tillverkarens påstående om att hantlarna hålls kvar och markeras 'enligt tillverkaren' (som f_15 10354/10356)."
+ },
+ {
+  "nr": 10420,
+  "id": "10472349171978",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Hyllplan Hantelställ Tunturi Pro",
+    "efter": "Hyllplan till Hantelställ Tunturi Pro"
+   }
+  },
+  "skal": "'Plåtar' → Hyllplan till hantelställ stöds ('Setet innehåller 2 hyllplan', 'Tillbehör till Tunturi Pro hantelställ'); 2 st, Svart, metall och plast, 15,6 kg, ben ingår inte ordagrant. Motsägande antal hantlar (5 par vardera / 2 x 5) borta. SEO-titeln saknar 'till' och blir ogrammatisk."
+ },
+ {
+  "nr": 10421,
+  "id": "10507258495242",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Maximal användarvikt: 150 kg' ordagrant svenska, en gång; 'Max 180 kg'/'upp till 180 kg' borta. 70 kg block, remskivor, benutvecklare, sits/ryggstöd, Matt svart, mått D x B x H, 160 kg ordagrant. 'Power Bench' ur originaltiteln borttaget, godtas."
+ },
+ {
+  "nr": 10423,
+  "id": "10472223211786",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Hemmagym står i källtexten. Alla kapacitetsuppgifter (250, 180, 150 kg) borta ur alla fält. Mått hopfälld/utfälld, 89 kg, 30/50 mm, justering, fällbar bänk, förvaring ordagrant; säkerhetspåståenden borta. Beställningsmening rätt."
+ },
+ {
+  "nr": 10424,
+  "id": "10472224325898",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typordet från originaltiteln (Multifunktionell träningsmaskin). 'Maximal belastningskapacitet: lyckkrok 225 kg; vajer 100 kg' borta ur alla fält. Mått, 78 kg, hävarm med sidorem/vikthållare/pull-up-handtag, rep, remfästen, skivstångsbänk ordagrant; säkerhetsbult borta. SEO 43 tecken. Beställningsmening rätt."
+ },
+ {
+  "nr": 10425,
+  "id": "10468709761290",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Power bench' → Smithmaskin stöds (källan 'SMITH MASKIN SM60', 'viktbänk och en Smith-maskin'). Mått, 56 kg, 30/50 mm, justerbart ryggstöd, svart matt pulverlack ordagrant; tygvikt 7 kg och säkerhet borta. Ingen beställningstagg, ingen mening – rätt."
+ },
+ {
+  "nr": 10426,
+  "id": "10541111443722",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'C80' i källtexten mot titel och SKU 17TSCT8000: CT80 stöds av titel och SKU (jfr CT40 Core Trainer). Powerbänk → Träningsbänk ('lutande bänk'). Funktioner, fotrullar, hopfällbar ordagrant; inga mått påhittade. Ingen last i källan."
+ },
+ {
+  "nr": 10427,
+  "id": "10470900367626",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Powerbänk ... Home Gym' → Hemmagym (källan 'HEMMAGYM HG10'). 'Maximal kapacitet: 125 kg' borta ur alla fält. 9 x 5 kg, 45 kg, mått, 84 kg, stål, bröstpress, rep med karbinhake, fottränare ordagrant; 'stabil' borta. Beställningsmening rätt."
+ },
+ {
+  "nr": 10429,
+  "id": "10472253063434",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Powerbänk' → Smithmaskin stöds (taggen smithmaskin, 'Full Smith Machine'). 'Maximal belastning: 200 kg' och motsägande tillbehörslista borta. 163/160/211 cm (B x D x H), 147 kg, stål, 50 mm, 2 höga och 1 lågt block, ingår inte vikter och bänk ordagrant; säkerhetspåståenden borta. Beställningsmening rätt."
+ },
+ {
+  "nr": 10431,
+  "id": "10472225538314",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Power Rack Tunturi RC20 Pro, Base Rack",
+    "efter": "Rack Tunturi RC20 Pro Power Rack, Base Rack"
+   },
+   "seo_title": {
+    "fore": "Power Rack Tunturi RC20 Pro, Base Rack",
+    "efter": "Rack Tunturi RC20 Pro Power Rack, Base Rack"
+   },
+   "meta": {
+    "fore": "Tunturi RC20 Pro Power Rack är ett power rack i stål med chinsstång samt hållare för motståndsband, rep, stänger och viktskedjor.",
+    "efter": "Tunturi RC20 Pro Power Rack är ett träningsställ i stål med chinsstång samt hållare för motståndsband, rep, stänger och viktskedjor."
+   },
+   "html": [
+    {
+     "fore": "Base Rack är ett power rack med chinsstång",
+     "efter": "Base Rack är ett träningsställ med chinsstång"
+    },
+    {
+     "fore": "Racket har hållare",
+     "efter": "Stället har hållare"
+    },
+    {
+     "fore": "<li>Dig som vill bygga ut ett power rack med tillbehör</li>",
+     "efter": "<li>Dig som vill bygga ut ett träningsställ med tillbehör</li>"
+    }
+   ]
+  },
+  "skal": "Engelskt typord 'Power Rack' i titel/SEO och cirkulärt 'Power Rack, Base Rack är ett power rack' (standard §3: inga engelska typord). Typord som f_15 10373 (Rack); i texten 'träningsställ' (källans ord). Stål, chinsstång, hållare, utbyggbar ordagrant; rehabiliteringsanläggning borta. Ingen lastsiffra i källan. Beställningsmening rätt."
+ },
+ {
+  "nr": 10432,
+  "id": "10411677745418",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Power Rack Tunturi WT60",
+    "efter": "Rack Tunturi WT60 Power Rack"
+   },
+   "seo_title": {
+    "fore": "Power Rack Tunturi WT60",
+    "efter": "Rack Tunturi WT60 Power Rack"
+   },
+   "meta": {
+    "fore": "Tunturi WT60 Power Rack är ett power rack med 24 nivåer för skivstången och dipshandtag. Det är L 176 x B 118 x H 215 cm och väger 58,6 kg.",
+    "efter": "Tunturi WT60 Power Rack är ett träningsställ med 24 nivåer för skivstången och dipshandtag. Det är L 176 x B 118 x H 215 cm och väger 58,6 kg."
+   },
+   "html": [
+    {
+     "fore": "Power Rack är ett power rack med 24 nivåer",
+     "efter": "Power Rack är ett träningsställ med 24 nivåer"
+    }
+   ]
+  },
+  "skal": "Engelskt typord 'Power Rack' först i titel/SEO och cirkulärt 'WT60 Power Rack är ett power rack'. Typord Rack (som f_15 10373), 'träningsställ' i texten. 'Maximal vikt: 180 kg' borta ur alla fält. 24 nivåer, dipshandtag, 25–50 mm, 2 säkerhetsrör och 4 skivstångsstöd, mått, 58,6 kg ordagrant. Ingen beställningstagg, ingen mening – rätt."
+ }
+]
