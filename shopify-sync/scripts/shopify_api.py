@@ -190,3 +190,11 @@ def jamfor_efter(fore, efter, forvantad_meta, forvantad_seo_title=None):
         p = next((n for n, (a, b) in enumerate(zip(ml or '', forvantad_meta or '')) if a != b), min(len(ml or ''), len(forvantad_meta or '')))
         fel.append(f'seo.description avviker vid tecken {p}: live {len(ml or "")} tecken, förväntat {len(forvantad_meta or "")} tecken')
     return fel
+
+
+def verifiera_butik(klient, forvantad=BUTIK):
+    """Stoppar om API-svaret inte kommer från förväntad butik (körs före varje skrivning)."""
+    s = klient.graphql('{shop{name myshopifyDomain}}')['shop']
+    if s['myshopifyDomain'] != forvantad:
+        raise ShopifyFel(f'Fel butik: {s["myshopifyDomain"]} (väntade {forvantad}).')
+    return s['name']

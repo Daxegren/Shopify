@@ -99,6 +99,7 @@ def main(argv=None):
     namn = os.path.splitext(os.path.basename(filer[0]))[0]
     sparr = las_sparr(os.path.join(ROT, 'shopify-sync/config/sparrlista.json'))
     klient = api.ShopifyKlient()
+    print('Butik:', api.verifiera_butik(klient))
     ids = [w['id'] for w in poster]
     live = api.hamta_produkter(klient, ids)
     fel = api.kontrollera_fore([l for l in live if l], [i for i, l in zip(ids, live) if l])
