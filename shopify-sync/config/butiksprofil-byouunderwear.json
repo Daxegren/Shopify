@@ -10,6 +10,7 @@
   "sprakkrav": "Danska och finska kräver modersmålstalare (David). Tyska och engelska: samma försiktighet tills David beslutat. Observerat 2026-11-04: översatta produktadresser har suffix (-dk, -fi-1, -de-1, -eng-1) och en tysk sida är på engelska.",
   "ton": "TODO (David): nuvarande ton är personlig och säljande ('Trosorna du glömmer att du har på dig')",
   "marken": ["BYOU Underwear", "BYOU"],
+  "marken_versaler": ["BYOU (FÖRSLAG, väntar på Davids beslut B; se R21 i regler-v1.md)"],
   "marken_varning_bara": ["BYOU i versaler är butikens egen skrivning av varumärket; regel R8 (märke med liten bokstav efter första) måste ändras för den här profilen: TODO beslut"],
   "gransvarden": {"titel_max": 70, "titel_max_komma": 2, "seo_titel_max": 43, "seo_suffix": " – BYOU Underwear", "meta_min": 70, "meta_max": 155, "anmarkning": "TODO bekräfta. Temat lägger på ' – BYOU Underwear' (med radbrytning före) i title."},
   "standardblock_krav": ["TODO: Leverans, retur och byte (hämtas ur butikens policysidor)"],
