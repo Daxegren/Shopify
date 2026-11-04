@@ -1,0 +1,32 @@
+[
+ {
+  "id": "10673147445514",
+  "nr": 9651,
+  "skäl": "Dublett (R12a): samma modell Fluid Viking 3 XL, trä som nr 10198 (id 10673147085066, aktiv, texter-klara, f_skriv_8)."
+ },
+ {
+  "id": "10673147609354",
+  "nr": 9652,
+  "skäl": "Dublett (R12a): samma modell Fluid Viking Pro XL, trä som nr 10199 (id 10673146921226, aktiv, texter-klara, f_skriv_8)."
+ },
+ {
+  "id": "10673149739274",
+  "nr": 9653,
+  "skäl": "Dublett (R12a): samma produkt som nr 10065 'Ryggstöd för FLUID Roddmaskiner i Järn och Skumgummi' (id 10673149673738, aktiv, texter-klara, f_skriv_3)."
+ },
+ {
+  "id": "10673147511050",
+  "nr": 9654,
+  "skäl": "R3/R2: titeln anger kompatibilitet med 'Fluid Mega och Apollo Pro', men källan anger 'Passar för roddmaskiner: Fluid Apollo Pro XL, Tunturi Platinum RW30'. Mega finns inte i källan och Platinum RW30 inte i titeln; kompatibilitet kan inte återges entydigt, och att byta titel för att komma runt det är inte tillåtet."
+ },
+ {
+  "id": "10411857641738",
+  "nr": 9655,
+  "skäl": "Underkänd i g_utlatande_3 (nr 10539, samma id): källan säger 'Double Exercise Wheel', titeln 'Exercise Wheel Deluxe' (R3); typordet saknar svenskt ord i källan och finns inte i godkanda_typord (R7); måttet 26 x 23 x 60 cm är oklart (hjul eller set). Kvar blir bara mått och knämatta."
+ },
+ {
+  "id": "10462778392842",
+  "nr": 9656,
+  "skäl": "R6: kroppsanalysvåg (mäter fettprocent, muskelmassa, visceralt fett, kroppsålder, BMR m.m.); 'kroppsanalysvågar (hälsoparametrar)' står under utanfor_tills_vidare i profilen. Underkänd i g_utlatande_3 (nr 10561)."
+ }
+]

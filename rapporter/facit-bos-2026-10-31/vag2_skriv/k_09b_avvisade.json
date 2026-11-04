@@ -1,0 +1,62 @@
+[
+ {
+  "id": "10472265351434",
+  "nr": 9629,
+  "skäl": "R6: vibrationsplatta ligger under utanfor_tills_vidare i profilen (vibrationsplattor) och avvisas tills David beslutat. Källan har dessutom regenerativa och förebyggande effekter och frekvenser per ändamål."
+ },
+ {
+  "id": "10472262959370",
+  "nr": 9633,
+  "skäl": "Batteripaket till elcykeln Fiido Titan (batteri och elcykeldel, inte fitness). Källan har bara två meningar: batterihållare, 2 batterier och påsar. Batteri/elektronik tas för hand (standard §10) och tunn källa (R3)."
+ },
+ {
+  "id": "10581107343626",
+  "nr": 9636,
+  "skäl": "R3: tio varianter (GT1.0, GT3.0, GT5.0, GT7.0, GT8.0, GT10.0, GTPR, PRO15.0, PRO25.0, WPAD) med priser 6 999–49 999 kr och titeln låser GT1.0. Källan är bara en marknadsföringstext utan en enda teknisk uppgift (mått, motor, hastighet), alltså ingen entydig fakta att bygga på."
+ },
+ {
+  "id": "10611424854282",
+  "nr": 9637,
+  "skäl": "R3: fem varianter (GX3.0, GX6.0, GX8.0, GX9.0, PRO20.0) med priser 5 499–28 999 kr och titeln låser GX3.0. Källan är bara en marknadsföringstext utan en enda teknisk uppgift, alltså ingen entydig fakta att bygga på."
+ },
+ {
+  "id": "10581112094986",
+  "nr": 9638,
+  "skäl": "R3: två varianter (Default 249 kr och SPR 299 kr) utan förklaring av skillnaden. Källan är bara marknadsföring (smörjolja som minskar friktion och förlänger livslängd) utan volym eller andra data; inga entydiga fakta utöver titeln."
+ },
+ {
+  "id": "10472258404618",
+  "nr": 9639,
+  "skäl": "Dublett (R12a): samma modell Gymstick Workout Gloves är redan skriven som nr 3241 (id 10581112783114, aktiv, texter-klara, varianter S/M och L/XL à 199 kr, c_skriv). Denna Velomarket-kopia (S/M, 449 kr) har dessutom tunn källa: förstärkt handflata och syntetiskt läder på handledsremmen samt storlek S/M."
+ },
+ {
+  "id": "10462840094986",
+  "nr": 9641,
+  "skäl": "Underkänd i g_utlatande_1 (nr 10407, samma id): mått 68 x 77 x 117 cm motsäger hyllhöjd upp till 189 cm, 'hyllhöjd', '8-stegs justering av stegpinnarna' och '2 hållare för 30 mm kedjor' är maskinöversatta med oklar betydelse, och 'säkerhetskrokar … högsta säkerhetsstandarder' är ett säkerhetspåstående (R2, R5). Squatställning bär last; lastkapacitet 120 kg har oklar etikett."
+ },
+ {
+  "id": "10472289075466",
+  "nr": 9645,
+  "skäl": "R3: fem varianter (944481–944485) med priser 59–439 kr som bara har artikelnummer som namn; titeln låser Blå, 30 mm och 10 kg. Källan säger dessutom borrdiameter 29 mm, vilket motsäger 30 mm i titeln (R2). Samma bedömning som a_3 nr 2310."
+ },
+ {
+  "id": "10472299004170",
+  "nr": 9647,
+  "skäl": "Live har redan vår egen text (standardblock och SEO-titel 'Pulsbälte Toorx Chest Belt, 5,3 kHz' finns; R15). Källan är vår tidigare enmeningstext, alltså ingen tillverkarkälla: 5,3 kHz, ANT och Bluetooth står redan i titeln, inga fakta utöver titeln (R3). Underkänd i g_utlatande_3 (nr 10546). Saknar taggen texter-klara; frågan om att tagga den går till koordinatorn."
+ },
+ {
+  "id": "10472300937482",
+  "nr": 9648,
+  "skäl": "Tunn källa (R3): live har bara 'Diameter: 39,5 cm'; färgen och märket står i titeln. Ett faktum utöver titeln, regeln kräver två. Underkänd i g_utlatande_3 (nr 10501)."
+ },
+ {
+  "id": "10475517772042",
+  "nr": 9649,
+  "skäl": "Tunn källa (R3): enda entydiga uppgiften är 'Frekvens: 5,3 KHz', som redan står i titeln; frekvensomfångsraden är trasig och Italien är ett ursprung (R5). Underkänd i g_utlatande_3 (nr 10547)."
+ },
+ {
+  "id": "10673149542666",
+  "nr": 9650,
+  "skäl": "Dublett (R12a): samma produkt som nr 10061 'Pulssensorhandtag för FLUID Roddmaskiner V och XL' (id 10673149411594, aktiv, texter-klara, f_skriv_3)."
+ }
+]
