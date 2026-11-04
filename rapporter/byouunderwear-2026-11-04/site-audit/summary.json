@@ -1,0 +1,198 @@
+{
+  "total": 1143,
+  "by_severity": {
+    "critical": 0,
+    "high": 73,
+    "medium": 58,
+    "low": 722,
+    "info": 290
+  },
+  "by_category": {
+    "links": 3,
+    "onpage": 538,
+    "schema": 412,
+    "content": 61,
+    "international": 10,
+    "performance": 6,
+    "catalog": 25,
+    "indexing": 2,
+    "media": 86
+  },
+  "by_check": {
+    "broken_internal_link": {
+      "count": 3,
+      "severity": "high",
+      "category": "links",
+      "message": "Interna länkar pekar på en sida som ger 404"
+    },
+    "missing_h1": {
+      "count": 5,
+      "severity": "high",
+      "category": "onpage",
+      "message": "Ingen H1 (page)"
+    },
+    "product_schema_no_image": {
+      "count": 65,
+      "severity": "high",
+      "category": "schema",
+      "message": "Product-schemat saknar bild"
+    },
+    "brand_misspelling": {
+      "count": 3,
+      "severity": "medium",
+      "category": "content",
+      "message": "Felstavat varumärke 'byou' i titel/rubrik"
+    },
+    "duplicate_content": {
+      "count": 4,
+      "severity": "medium",
+      "category": "content",
+      "message": "Identiskt innehåll på 2 indexerbara sidor"
+    },
+    "language_mismatch": {
+      "count": 9,
+      "severity": "medium",
+      "category": "international",
+      "message": "Sidan ska vara på 'da' men texten är mest 'sv'"
+    },
+    "duplicate_title": {
+      "count": 38,
+      "severity": "medium",
+      "category": "onpage",
+      "message": "Samma titel på 2 sidor"
+    },
+    "multiple_h1": {
+      "count": 1,
+      "severity": "medium",
+      "category": "onpage",
+      "message": "2 H1 på samma sida (page)"
+    },
+    "large_inline_script_sitewide": {
+      "count": 1,
+      "severity": "medium",
+      "category": "performance",
+      "message": "Samma inline-skript (upp till 325 KB) på 390 sidor – tema eller app, åtgärdas på ett ställe"
+    },
+    "collections_without_breadcrumb_schema": {
+      "count": 1,
+      "severity": "medium",
+      "category": "schema",
+      "message": "85 av 85 kategorisidor (100%) saknar BreadcrumbList (mallen skriver ingen)"
+    },
+    "shipping_details_missing": {
+      "count": 1,
+      "severity": "medium",
+      "category": "schema",
+      "message": "65 av 65 produktsidor (100%) saknar shippingDetails i produktschemat (fraktgräns och avgift)"
+    },
+    "collection_few_products": {
+      "count": 25,
+      "severity": "low",
+      "category": "catalog",
+      "message": "Kategori visar 3 produkter (färre än 4) men går att indexera"
+    },
+    "thin_content": {
+      "count": 53,
+      "severity": "low",
+      "category": "content",
+      "message": "Tunt innehåll (56 ord)"
+    },
+    "paginated_canonical_to_first": {
+      "count": 1,
+      "severity": "low",
+      "category": "indexing",
+      "message": "25 paginerade sidor har canonical till sida 1 (produkter på sida 2 och framåt hittas då bara via sitemapen)"
+    },
+    "images_missing_alt": {
+      "count": 86,
+      "severity": "low",
+      "category": "media",
+      "message": "7 av 18 bilder saknar alt-text"
+    },
+    "duplicate_meta_description": {
+      "count": 42,
+      "severity": "low",
+      "category": "onpage",
+      "message": "Samma metabeskrivning på 4 sidor"
+    },
+    "missing_meta_description": {
+      "count": 70,
+      "severity": "low",
+      "category": "onpage",
+      "message": "Metabeskrivning saknas"
+    },
+    "title_too_long": {
+      "count": 165,
+      "severity": "low",
+      "category": "onpage",
+      "message": "Titeln är 62 tecken"
+    },
+    "breadcrumb_schema_missing": {
+      "count": 280,
+      "severity": "low",
+      "category": "schema",
+      "message": "BreadcrumbList saknas (article)"
+    },
+    "inventory": {
+      "count": 1,
+      "severity": "info",
+      "category": "content",
+      "message": "390 levande sidor fördelade på 8 sidtyper"
+    },
+    "ai_crawlers_allowed": {
+      "count": 1,
+      "severity": "info",
+      "category": "indexing",
+      "message": "robots.txt blockerar inga kända AI-botar (sajten kan läsas av AI-tjänster)"
+    },
+    "locale_inventory": {
+      "count": 1,
+      "severity": "info",
+      "category": "international",
+      "message": "4 språk-/marknadsprefix i crawlen"
+    },
+    "meta_description_too_long": {
+      "count": 217,
+      "severity": "info",
+      "category": "onpage",
+      "message": "Metabeskrivningen är 320 tecken"
+    },
+    "consent_platform_in_html": {
+      "count": 1,
+      "severity": "info",
+      "category": "performance",
+      "message": "Samtyckeslösning i HTML: shopify_privacy"
+    },
+    "html_size_stats": {
+      "count": 1,
+      "severity": "info",
+      "category": "performance",
+      "message": "HTML-storlek: median 0.57 MB, max 0.82 MB"
+    },
+    "third_party_script_hosts": {
+      "count": 3,
+      "severity": "info",
+      "category": "performance",
+      "message": "home: median 2 externa skriptvärdar per sida (5 sidor)"
+    },
+    "product_schema_no_rating": {
+      "count": 65,
+      "severity": "info",
+      "category": "schema",
+      "message": "Product-schemat saknar aggregateRating (inga omdömen i strukturerad data)"
+    }
+  },
+  "run_id": "byouunderwear-20261104T171120-c6113b",
+  "site": "byouunderwear",
+  "started_at": "2026-11-04T17:11:20.432927+00:00",
+  "finished_at": "2026-11-04T17:14:52.170467+00:00",
+  "crawl": {
+    "urls": 394,
+    "sitemap_urls": 351,
+    "sitemaps": 27,
+    "status_200": 391,
+    "redirected": 0,
+    "errors_4xx": 3,
+    "errors_5xx": 0
+  }
+}

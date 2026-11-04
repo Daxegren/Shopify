@@ -1,0 +1,359 @@
+{
+ "antal_produkter_publicerade": 13,
+ "antal_kollektioner": 16,
+ "vendors": {
+  "BYOU Underwear": 13
+ },
+ "product_type": {
+  "Hipstertrosor": 6,
+  "Stringtrosor": 6,
+  "Presentkort": 1
+ },
+ "taggar": {
+  "#seamless #seamlessunderwear #lingerie #seamlesslingerie #underwear #underwearforwomen #comfortableunderwear #functionalunderwear": 9,
+  "#seamlessstring": 8,
+  "2pack": 4,
+  "Hipstertrosor": 6,
+  "Stringtrosor": 6,
+  "5pack": 4,
+  "giftcard": 1,
+  "presentkort": 1
+ },
+ "beskrivning_tecken": {
+  "min": 501,
+  "median": 624,
+  "max": 628,
+  "under_200": 0,
+  "tom": 0
+ },
+ "dubblettitlar": [],
+ "varianter_per_produkt": {
+  "4": 12,
+  "3": 1
+ },
+ "bilder_per_produkt": {
+  "5": 7,
+  "4": 3,
+  "6": 2,
+  "1": 1
+ },
+ "bilder_utan_alt": 60,
+ "bilder_totalt": 60,
+ "engelska_titlar_misstanke": [
+  "BYOU Seamless Hipster 2-pack - Beige",
+  "BYOU Seamless Hipster 2-pack - Svart",
+  "BYOU Seamless Thong 2-pack - Svart",
+  "BYOU Seamless Thong 2-pack - Beige",
+  "BYOU Seamless Hipster 5-pack - Svart",
+  "BYOU Seamless Hipster 5-pack - Beige",
+  "BYOU Seamless Thong 5-pack - Svart",
+  "BYOU Seamless Thong 5-pack - Beige",
+  "BYOU Seamless Hipster 10-pack - Svart",
+  "BYOU Seamless Thong 10-pack - Beige",
+  "BYOU Seamless Thong 10-pack - Svart",
+  "BYOU Seamless Hipster 10-pack - Beige"
+ ],
+ "titel_langd": {
+  "max": 37,
+  "over_70": 0
+ },
+ "utan_pris": 0,
+ "inte_i_lager_tillgangliga": 0,
+ "kollektioner": [
+  {
+   "handle": "beige-hipstertrosor",
+   "titel": "Beige Hipstertrosor",
+   "antal": 6,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "beige-stringtrosor",
+   "titel": "Beige Stringtrosor",
+   "antal": 5,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "beige-trosor-hipster-och-string",
+   "titel": "Beige Trosor - Hipster och string",
+   "antal": 11,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "hipstertrosor-och-stringtrosor-2-pack",
+   "titel": "Hipstertrosor och Stringtrosor 2-pack",
+   "antal": 8,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "hipstertrosor-och-stringtrosor-5-pack",
+   "titel": "Hipstertrosor och Stringtrosor 5-pack",
+   "antal": 8,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "hipstertrosor-och-stringtrosor",
+   "titel": "Hipstertrosor och stringtrosor – Bekväma och sömlösa trosor",
+   "antal": 25,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "hipstertrosor",
+   "titel": "Hipstertrosor – Bekväma och sömlösa trosor för vardagen",
+   "antal": 12,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "seamless-hipster",
+   "titel": "Seamless Hipster",
+   "antal": 12,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "seamless-thong",
+   "titel": "Seamless Thong",
+   "antal": 12,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "seamless-trosor",
+   "titel": "Seamless trosor",
+   "antal": 24,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "seamless-underklader",
+   "titel": "Seamless underkläder",
+   "antal": 24,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "frontpage",
+   "titel": "Startsida",
+   "antal": 2,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "stringtrosor",
+   "titel": "Stringtrosor som inte syns, inte känns och alltid sitter rätt",
+   "antal": 12,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "svarta-hipstertrosor",
+   "titel": "Svarta Hipstertrosor",
+   "antal": 6,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "svarta-stringtrosor",
+   "titel": "Svarta Stringtrosor",
+   "antal": 6,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "svarta-trosor-hipster-och-string",
+   "titel": "Svarta Trosor - Hipster och string",
+   "antal": 12,
+   "beskrivning_tecken": 0
+  }
+ ],
+ "kollektioner_tomma": [],
+ "kollektioner_utan_beskrivning": 16,
+ "produkter": [
+  {
+   "id": 10664366244179,
+   "handle": "byou-seamless-hipster-2-pack-beige",
+   "title": "BYOU Seamless Hipster 2-pack - Beige",
+   "vendor": "BYOU Underwear",
+   "type": "Hipstertrosor",
+   "tags": [
+    "#seamless #seamlessunderwear #lingerie #seamlesslingerie #underwear #underwearforwomen #comfortableunderwear #functionalunderwear",
+    "#seamlessstring",
+    "2pack",
+    "Hipstertrosor"
+   ],
+   "tecken": 627,
+   "varianter": 4,
+   "pris": "26.00"
+  },
+  {
+   "id": 10664358543699,
+   "handle": "byou-seamless-hipster-2-pack-svart",
+   "title": "BYOU Seamless Hipster 2-pack - Svart",
+   "vendor": "BYOU Underwear",
+   "type": "Hipstertrosor",
+   "tags": [
+    "#seamless #seamlessunderwear #lingerie #seamlesslingerie #underwear #underwearforwomen #comfortableunderwear #functionalunderwear",
+    "#seamlessstring",
+    "2pack",
+    "Hipstertrosor"
+   ],
+   "tecken": 627,
+   "varianter": 4,
+   "pris": "26.00"
+  },
+  {
+   "id": 10664339603795,
+   "handle": "byou-seamless-thong-2-pack-svart",
+   "title": "BYOU Seamless Thong 2-pack - Svart",
+   "vendor": "BYOU Underwear",
+   "type": "Stringtrosor",
+   "tags": [
+    "#seamless #seamlessunderwear #lingerie #seamlesslingerie #underwear #underwearforwomen #comfortableunderwear #functionalunderwear",
+    "#seamlessstring",
+    "2pack",
+    "Stringtrosor"
+   ],
+   "tecken": 623,
+   "varianter": 4,
+   "pris": "26.00"
+  },
+  {
+   "id": 10664333836627,
+   "handle": "byou-seamless-thong-2-pack-beige-s",
+   "title": "BYOU Seamless Thong 2-pack - Beige",
+   "vendor": "BYOU Underwear",
+   "type": "Stringtrosor",
+   "tags": [
+    "#seamless #seamlessunderwear #lingerie #seamlesslingerie #underwear #underwearforwomen #comfortableunderwear #functionalunderwear",
+    "#seamlessstring",
+    "2pack",
+    "Stringtrosor"
+   ],
+   "tecken": 623,
+   "varianter": 4,
+   "pris": "26.00"
+  },
+  {
+   "id": 10664321581395,
+   "handle": "byou-seamless-hipster-5-pack-svart-senaste",
+   "title": "BYOU Seamless Hipster 5-pack - Svart",
+   "vendor": "BYOU Underwear",
+   "type": "Hipstertrosor",
+   "tags": [
+    "#seamless #seamlessunderwear #lingerie #seamlesslingerie #underwear #underwearforwomen #comfortableunderwear #functionalunderwear",
+    "#seamlessstring",
+    "5pack",
+    "Hipstertrosor"
+   ],
+   "tecken": 627,
+   "varianter": 4,
+   "pris": "55.00"
+  },
+  {
+   "id": 10664319385939,
+   "handle": "byou-seamless-hipster-5-pack-beige-senaste",
+   "title": "BYOU Seamless Hipster 5-pack - Beige",
+   "vendor": "BYOU Underwear",
+   "type": "Hipstertrosor",
+   "tags": [
+    "#seamless #seamlessunderwear #lingerie #seamlesslingerie #underwear #underwearforwomen #comfortableunderwear #functionalunderwear",
+    "#seamlessstring",
+    "5pack",
+    "Hipstertrosor"
+   ],
+   "tecken": 627,
+   "varianter": 4,
+   "pris": "55.00"
+  },
+  {
+   "id": 10664316961107,
+   "handle": "byou-seamless-thong-5-pack-svart-senaste",
+   "title": "BYOU Seamless Thong 5-pack - Svart",
+   "vendor": "BYOU Underwear",
+   "type": "Stringtrosor",
+   "tags": [
+    "#seamless #seamlessunderwear #lingerie #seamlesslingerie #underwear #underwearforwomen #comfortableunderwear #functionalunderwear",
+    "#seamlessstring",
+    "5pack",
+    "Stringtrosor"
+   ],
+   "tecken": 623,
+   "varianter": 4,
+   "pris": "55.00"
+  },
+  {
+   "id": 10664313946451,
+   "handle": "byou-seamless-thong-5-pack-beige-senaste",
+   "title": "BYOU Seamless Thong 5-pack - Beige",
+   "vendor": "BYOU Underwear",
+   "type": "Stringtrosor",
+   "tags": [
+    "#seamless #seamlessunderwear #lingerie #seamlesslingerie #underwear #underwearforwomen #comfortableunderwear #functionalunderwear",
+    "#seamlessstring",
+    "5pack",
+    "Stringtrosor"
+   ],
+   "tecken": 623,
+   "varianter": 4,
+   "pris": "55.00"
+  },
+  {
+   "id": 10566887211347,
+   "handle": "byou-seamless-hipster-10-pack-svart",
+   "title": "BYOU Seamless Hipster 10-pack - Svart",
+   "vendor": "BYOU Underwear",
+   "type": "Hipstertrosor",
+   "tags": [
+    "Hipstertrosor"
+   ],
+   "tecken": 628,
+   "varianter": 4,
+   "pris": "105.00"
+  },
+  {
+   "id": 10566903726419,
+   "handle": "byou-seamless-thong-10-pack-beige",
+   "title": "BYOU Seamless Thong 10-pack - Beige",
+   "vendor": "BYOU Underwear",
+   "type": "Stringtrosor",
+   "tags": [
+    "Stringtrosor"
+   ],
+   "tecken": 624,
+   "varianter": 4,
+   "pris": "105.00"
+  },
+  {
+   "id": 10566899073363,
+   "handle": "byou-seamless-thong-10-pack-svart",
+   "title": "BYOU Seamless Thong 10-pack - Svart",
+   "vendor": "BYOU Underwear",
+   "type": "Stringtrosor",
+   "tags": [
+    "Stringtrosor"
+   ],
+   "tecken": 624,
+   "varianter": 4,
+   "pris": "105.00"
+  },
+  {
+   "id": 10566897172819,
+   "handle": "byou-seamless-hipster-10-pack-beige",
+   "title": "BYOU Seamless Hipster 10-pack - Beige",
+   "vendor": "BYOU Underwear",
+   "type": "Hipstertrosor",
+   "tags": [
+    "Hipstertrosor"
+   ],
+   "tecken": 628,
+   "varianter": 4,
+   "pris": "105.00"
+  },
+  {
+   "id": 10114266136915,
+   "handle": "byou-underwear-presentkort-2",
+   "title": "BYOU Underwear Presentkort",
+   "vendor": "BYOU Underwear",
+   "type": "Presentkort",
+   "tags": [
+    "#seamless #seamlessunderwear #lingerie #seamlesslingerie #underwear #underwearforwomen #comfortableunderwear #functionalunderwear",
+    "giftcard",
+    "presentkort"
+   ],
+   "tecken": 501,
+   "varianter": 3,
+   "pris": "21.95"
+  }
+ ]
+}

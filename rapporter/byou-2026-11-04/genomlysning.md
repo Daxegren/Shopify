@@ -41,3 +41,12 @@ Inget av ovan har verifierats mot sökdata. Fynd 1 och 3 kan kräva helt andra p
 
 ## Hur dagens produkttexter ser ut (underlag för särregler)
 Gemensam stomme: modellnamn, "skapades tillsammans med designern Jessica Rose", laserklippning/tunt tyg, "mycket god andningsförmåga", "hög träningskvalitet", tre punkter ("Inga kliande eller skavande sömmar", "Extremt mjuka och stretchiga", "Syns inte genom dina kläder"), storleksråd ("välj den större storleken"). Inga sammansättningsuppgifter, inga mått.
+
+## Tillägg (efter att Alpha Zoo-sessionens B You-arbete hittades)
+Alpha Zoo-sessionen publicerade en bredare genomlysning på grenen `claude/alphazoo-byou-onboarding`: `rapporter/byouunderwear-genomlysning-2026-11-04.md`, rådata i `rapporter/byouunderwear-2026-11-04/` (inkl. site-audit på 351 adresser) samt `shopify-sync/config/butiksprofil-byouunderwear.json` och `sparrlista-byouunderwear.json`. Filerna är hämtade hit oförändrade. **Den rapporten och de filerna är huvudspåret; ingenting ovan ska dupliceras.** Det som är unikt här eller skiljer sig:
+- **Priset 26,00 mot 229,00:** deras katalogläsning gav 26,00 på 2-pack, min gav 229,00 SEK (`produkter_publikt.json`), samma som i schemat. Hypotes, inte verifierad: katalogen lokaliserades till en annan valuta (26 EUR är ungefär 229 SEK) beroende på varifrån anropet gjordes. Avgörs i admin.
+- **Taggar:** 9 produkter (8 varor + presentkortet) bär hashtag-strängen, inte 8 som jag skrev ovan. Rättelse av min uppgift.
+- **Fynd 1 ovan ("11 av 16 kollektioner överlappar")** är samma sak som deras fynd 9; fynd 4 och 5 (produkttext, schema) som deras 2, 5 och 6. De har dessutom `product_schema_no_image`, trasig intern länk, 38 sidor med samma titel och språkgranskning, som jag inte hade.
+- **Unikt hos mig:** förslaget `underklader_sarregler_forslag` (storlek/passform, material, hygien, kön, barn, genomskinlighet, pack/färg) i `shopify-sync/config/butiksprofil-byou.json`. Förslag: flytta de reglerna in i `butiksprofil-byouunderwear.json` när David beslutat och låt `butiksprofil-byou.json` och `sparrlista-byou.json` utgå. Jag har inte raderat något, eftersom det kräver beslut.
+- **Skillnad i spärr:** min `sparrlista-byou.json` har en aktiv förslagsspärr för presentkortet; deras lista är tom. Båda är förslag.
+- **Processfel:** jag anropade `switch-shop` två gånger, vilket enligt en annan session bryter BEST OF SPORTS-sessionens koppling. Ingen läsning eller skrivning gjordes i BOS. Regel framåt: ingen `switch-shop` eller `get-shop-info` i delad koppling (se `LARDOMAR.md`).
