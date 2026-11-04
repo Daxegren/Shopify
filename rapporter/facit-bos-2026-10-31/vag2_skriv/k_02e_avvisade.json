@@ -1,0 +1,87 @@
+[
+ {
+  "id": "10589703373066",
+  "nr": 9204,
+  "skäl": "R6: barncykel (källan: \"barncykel ... barn mellan 125 och 155 cm\"); barnprodukt, utanfor_tills_vidare."
+ },
+ {
+  "id": "10472257257738",
+  "nr": 9205,
+  "skäl": "R6: barncykel (källan: \"barn mellan 135 och 155 cm\", \"barnsäkerhet\"); barnprodukt."
+ },
+ {
+  "id": "10472290746634",
+  "nr": 9206,
+  "skäl": "R6: barncykel (källan: \"barn mellan 135 och 155 cm\", \"barnsäkerhet\"); barnprodukt."
+ },
+ {
+  "id": "10472372338954",
+  "nr": 9207,
+  "skäl": "R12a: dubblett. Samma modell och färg (Orkan M, grå och röd) som redan skrivna och aktiva 6115 (10656692175114, texter-klara)."
+ },
+ {
+  "id": "10472288190730",
+  "nr": 9208,
+  "skäl": "R3: titeln anger \"svart-guld\" men varianterna L / black och XL / black och källan nämner ingen guldfärg; källan motsäger titeln. Trolig dubblett av 9214 (Orkan M svart), som skrivs i denna batch."
+ },
+ {
+  "id": "10472332099850",
+  "nr": 9209,
+  "skäl": "R3: två varianter med olika pris (Default Title 11 309 kr mot M / Red 9 839 kr, verifierat live); titeln anger färgen röd. Källan har dessutom bara storlek L (21\")."
+ },
+ {
+  "id": "10472332230922",
+  "nr": 9212,
+  "skäl": "R12a: dubblett. Samma modell och färg (Wagant 0, grågrön) som redan skrivna och aktiva 6148 (10507259478282, texter-klara); samma pris 8 949 kr."
+ },
+ {
+  "id": "10472258011402",
+  "nr": 9213,
+  "skäl": "R3: två varianter med olika pris (Default Title 8 549 kr mot XL / hall 7 439 kr, samma SKU 28230568-A); titeln anger grå-blå, varianten \"hall\" motsäger."
+ },
+ {
+  "id": "10472334917898",
+  "nr": 9215,
+  "skäl": "R6: ungdomscykel. Källan: \"mountainbike för unga\", \"ungdoms-mountainbike\", S (15\") 148–160 cm; ungdomscyklar avvisas (precedent k_5, k_10, k_12). Dessutom anger titeln vit-blå-grön men varianterna S / white och M / white."
+ },
+ {
+  "id": "10471105167626",
+  "nr": 9216,
+  "skäl": "R6: ungdomscykel. Källan: \"mountainbike för pojkar\", \"första cykel\", S (15\") 140–160 cm; barn-/ungdomsprodukt."
+ },
+ {
+  "id": "10635759911178",
+  "nr": 9217,
+  "skäl": "R6: ungdomscykel. Källan: \"unga cyklister\", \"ditt barns första riktiga mountainbike\"; barn-/ungdomsprodukt."
+ },
+ {
+  "id": "10656692306186",
+  "nr": 9218,
+  "skäl": "R6: ungdomscykel. Källan: \"Rambler R6.1 ungdomscykel\", S (14\") 140–155 cm; barn-/ungdomsprodukt."
+ },
+ {
+  "id": "10472334754058",
+  "nr": 9219,
+  "skäl": "R6: ungdomscykel. Källan: \"Rambler R6.1 ungdomscykel\"; barn-/ungdomsprodukt."
+ },
+ {
+  "id": "10526100553994",
+  "nr": 9220,
+  "skäl": "R6: ungdomscykel. Källan: \"Rambler R6.2 ungdomscykel\"; barn-/ungdomsprodukt."
+ },
+ {
+  "id": "10472334819594",
+  "nr": 9221,
+  "skäl": "R6: ungdomscykel. Källan: \"Rambler R6.2 ungdomscykel\"; barn-/ungdomsprodukt. Dessutom trolig dubblett av 9222 (samma modell, färg och pris 7 419 kr)."
+ },
+ {
+  "id": "10526099046666",
+  "nr": 9222,
+  "skäl": "R6: ungdomscykel. Källan: \"Rambler R6.2 ungdomscykel\"; barn-/ungdomsprodukt. Dessutom trolig dubblett av 9221."
+ },
+ {
+  "id": "10472333607178",
+  "nr": 9223,
+  "skäl": "R12a: dubblett. Samma modell och färg (Jolene 7.2, mörkröd och orange) som redan skrivna och aktiva 6141 (10507443044618, texter-klara). Källan är dessutom engelsk, live-titeln engelsk (\"Women's bicycle\")."
+ }
+]
