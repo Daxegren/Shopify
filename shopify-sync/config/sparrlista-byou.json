@@ -1,0 +1,15 @@
+{
+ "butik": "byouunderwear.se",
+ "beskrivning": "Produkter som inte får skrivas av textutrullningen i B You. Format som sparrlista.json (BOS). Läses INTE av skrivfil_kontroll.py ännu (det läser bara BOS-listan); kontrollen måste göras profil-styrd innan B You skrivs. Lägg till nya spärrar som nya poster; sätt aktiv=false när en spärr hävts. Ta inte bort poster.",
+ "sparrar": [
+  {
+   "namn": "presentkort-2026-11-04",
+   "aktiv": true,
+   "idfil": "rapporter/byou-2026-11-04/sparr_presentkort.csv",
+   "idkolumn": "produkt_id",
+   "skal": "Presentkort är ingen varutext (förslag, publik inventering).",
+   "beslut": "Förslag av Claude 2026-11-04, väntar på Davids beslut. Inget skrivs i fas 1.",
+   "kanda_overtradelser": []
+  }
+ ]
+}
