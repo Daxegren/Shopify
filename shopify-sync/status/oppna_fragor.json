@@ -166,5 +166,13 @@
   "status": "öppen",
   "kalla": "Översikt (samordnare)",
   "last_upp_sessioner": 9
+ },
+ {
+  "id": "S13",
+  "datum": "2026-11-04",
+  "fraga": "Mätning: ska granskarna märka varje rättning med regelkod och allvarlighet (fel/ska/stil) i utlåtandena? Utan det går det inte att säga vilka regler som förebygger mest. Rekommendation: ja, ändra agentprompten (BOS-sessionen gör det, jag skickar inget dit utan ditt ja)",
+  "status": "öppen",
+  "kalla": "Översikt (samordnare)",
+  "last_upp_sessioner": 1
  }
 ]
