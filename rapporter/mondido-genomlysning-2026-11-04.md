@@ -1,0 +1,35 @@
+# Mondido: SEO- och GEO-granskning (publik data), 2026-11-04
+
+Utförd av samordnaren på Davids uppdrag ("kör en granskning för SEO och GEO av Mondido"). **Bara läsning av publika sidor** (52 adresser ur sitemap, ca 1 anrop per sekund). Inget är ändrat i Mondidos Shopify, tema, Search Console, Analytics eller Ads, och inget förslag nedan är utfört. Mondido är en betaltjänst med en marknadsföringssajt på Shopify, inte en produktbutik; produkttextreglerna (regelbok) är därför inte tillämpliga här.
+Rådata: `rapporter/mondido-2026-11-04/sidor.json` (skript: `shopify-sync/scripts/sidkontroll_offentlig.py`).
+
+## Sammanfattning
+Sajten är tekniskt ren: alla 52 sidor svarar 200, har canonical och hreflang (sv, en, x-default), saknar noindex, har rikligt med text (median 672 ord på sidor och 1 383 på artiklar) och artiklarna har komplett Article-data. De tydligaste luckorna är: ingen metabeskrivning på någon av 33 vanliga sidor, testinnehåll i sitemap, svag strukturerad data utöver artiklarna, svenska titlar på den engelska startsidan och rubrikstrukturer som stör (två H1 på startsidan, "Språk" som H2 på varje sida). För GEO (synlighet i AI-svar) finns grunden (öppen robots, bra frågerubriker i artiklarna) men ingen egen beskrivning av Mondido för AI och ingen FAQ-markup. **Trafik, sökord, intäkt och AI-synlighet är inte mätta**, så rangordningen nedan bygger på sidornas innehåll, inte på efterfrågan.
+
+## Fynd, i prioritetsordning
+| # | Fynd | Belägg | Påverkan | Förslag (inte utfört) | Risk |
+|---|---|---|---|---|---|
+| 1 | **Testinnehåll i sitemap och indexerbart** | `/products/test-checkout-se` och `/pages/test-checkout-se` finns i sitemap, saknar noindex, produkten har Product-markup och dubbel titel "Test checkout – Mondido" | Låg trafikskada men slarvigt för en betalleverantör; kan visas i sök och i AI-svar | Ta bort eller göm (utkast/noindex) | Låg; kontrollera först att checkout-testet inte används |
+| 2 | **Ingen metabeskrivning på 33 av 33 sidor** | `meta_description` tom på alla `/pages/…`; delningsbeskrivningen (og:description) faller tillbaka på startsidans text för alla | Google skriver egna utdrag; sidorna för betalmetoder (Klarna, Swish, Vipps m.fl.) är sajtens viktigaste landningssidor | Skriv unik meta per sida, 70–155 tecken, med sidans faktiska innehåll | Låg |
+| 3 | **Svag strukturerad data** | Bara Organization (endast logotyp, namn, url) på 37 sidor; Article på 14; ingen sameAs, kontaktuppgift, FAQPage, BreadcrumbList eller beskrivning av tjänsterna | Mindre chans att AI och Google förstår vem Mondido är och vad tjänsterna kostar och gör | Utöka Organization (sameAs, contactPoint, beskrivning); lägg FAQPage på artiklar med frågerubriker (13 frågerubriker i Amex-artikeln); Breadcrumb | Låg; kräver temaändring av Mondidos utvecklare |
+| 4 | **Engelska sidor med svensk titel och meta** | `/en` har titeln "Mondido Payments - Vi har betaltjänsterna för e-handlare" och svensk meta; bara 3 av 52 sidor har `html lang=en` | Dålig engelsk synlighet, tydligt för både sök och AI | Översätt titel och meta på de engelska sidorna; kontrollera att alla engelska varianter finns i översättningen | Låg |
+| 5 | **Rubrikstruktur** | 6 sidor utan H1 (/pages/kontakt, forsaljning, guide, prislista, test-checkout-se och /en/pages/kontakt); startsidan har 2 H1 ("Mondido" och sloganen); en artikel har två H1 med olika text; "Språk" är H2 två gånger på varje sida och tomma H2 förekommer | Försämrar sidans disposition för sök och AI (som delar upp text efter rubriker) | En H1 per sida; språkväljaren ska inte vara rubrik | Låg |
+| 6 | **Bilder utan alt-text på startsidorna** | 112 av 146 bilder utan alt på de två startsidorna; övriga sidor 1 av 285 | Tillgänglighet och bildsök; troligen logotyper | Lägg alt-text (kan göras via admin) | Låg |
+| 7 | **Dubbla och konkurrerande sidor** | Tre nyhetsingångar (`/pages/blogg`, `/pages/nyheter`, `/blogs/nyheter`) med titeln "Nyheter – Mondido" på två; sidor för varje betalmetod (t.ex. `/pages/klarna`) och artiklar om samma metod (`klarna-in-shopify-via-mondido`, `klarna-for-e-commerce…`) | Möjlig kannibalisering: *hypotes*, kan inte bekräftas utan Search Console | Mät först; slå därefter ihop eller omdirigera | Medel (kräver omdirigeringar) |
+| 8 | **Titellängd och språkblandning i artiklar** | 9 av 14 artikeltitlar över 60 tecken inklusive suffix; artiklarna har engelska webbadresser men svensk text; en meta är på engelska ("Are you ready? …") | Avklippta titlar; blandade språksignaler | Korta titlar; bestäm språk per artikel och håll adress, titel och meta i samma språk | Låg (ändra inte adresser utan omdirigering) |
+| 9 | **Ingen egen AI-beskrivning** | `llms.txt`, `agents.md` och kommentarerna i robots.txt är Shopifys standardtext om att handla i butiken, inte en beskrivning av Mondido; UCP-profilen (`/.well-known/ucp`) pekar på ett butiksnamn som ser ut som en QA-butik (`d0tkvs-qa.myshopify.com`) | AI-agenter får ingen sammanfattning av vad Mondido är; en testadress syns offentligt | Skriv en kort, sakligt formulerad Mondido-beskrivning (tjänster, marknader, priser länkade); kontrollera varför QA-adressen används | Låg; osäkert vad som går att styra i Shopify |
+| 10 | **Analys-taggar syns inte i HTML** | Varken GA4, GTM, Ads eller Meta-pixel hittades i sidornas HTML | Kan bero på Shopifys egen pixelhantering; *inte* belägg för att mätning saknas | Kontrollera i admin vad som är installerat | Ingen |
+
+Ett fynd som **inte** är ett problem: titlarna ser i verktyget ut att ha radbrytning före "– Mondido" (48 av 52). Det är bara blanksteg i temats mall (`<title>` innehåller radbrytningar); webbläsare och Google slår ihop dem. Jag tar inte upp det som åtgärd.
+
+## Det som fungerar
+Alla sidor 200; canonical på alla; hreflang med sv, en och x-default; inget noindex; robots tillåter alla (inklusive AI-sökrobotar, ingen särskild spärr); sitemap uppdelad och rimlig; inga tunna sidor (minst 200 ord); artiklarna har Article med författare, datum, utgivare, bild och brödtext; rik frågestruktur i artiklarna ("Vad är American Express?", "Hur fungerar … online?") som passar AI-svar; unika metabeskrivningar på startsida och artiklar.
+
+## GEO: bedömning och begränsning
+Synlighet i AI-svar (omnämnanden, citat, andel) **är inte mätt**: Ahrefs Brand Radar kräver en plan som kontot saknar, och inget AI-svarsprov har körts. Bedömningen ovan gäller förutsättningarna (öppen åtkomst, frågerubriker, Article-data) och luckorna (fynd 3, 4, 9). Nästa mätsteg är ett litet prov av betalningsrelaterade frågor i AI-tjänster, vilket kräver Davids ok.
+
+## Begränsningar
+Ingen Search Console, GA4, Ads eller Ahrefs-data (Windsor har bara Facebook Organic; Ahrefs-planen saknar API). Prestanda (Core Web Vitals), bakåtlänkar och indexeringsstatus är inte undersökta. Bara adresser i sitemap är kontrollerade (52). Texternas faktainnehåll (avgifter, villkor) är inte kontrollerat mot Mondidos egna uppgifter.
+
+## Beslut
+Godkänn per fynd om något ska göras och vem som utför det (Mondidos tema och butik ligger hos Mondido, och vi har ingen åtkomst). Rekommenderad första omgång, lågrisk: 1, 2, 5, 6 och 4.
