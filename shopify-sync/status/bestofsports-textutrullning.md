@@ -31,7 +31,7 @@ Regler: `shopify-sync/regler/regler-v1.md`. Beslut: `shopify-sync/docs/BESLUTSLO
 | h_2 | 25 | 25 | 0 | 16/9/0 | 25 | skriven |
 | h_3 | 25 | 24 | 1 | 11/12/1 | 23 | skriven |
 | h_4 | 25 | 23 | 2 | 15/8/0 | 23 | skrivfil |
-| h_5 | 25 | 21 | 4 |  |  | utkast |
+| h_5 | 25 | 21 | 4 | 17/4/0 | 21 | skrivfil |
 | h_6 | 25 |  | 0 |  |  | in |
 | h_7 | 5 |  | 0 |  |  | in |
 

@@ -1,0 +1,201 @@
+[
+ {
+  "nr": 10531,
+  "id": "10472261288202",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Mått, plywood 20 mm, tre höjder och övningarna står i källan. Oklara raden 'Längd (L50 x B50 cm)' och syskonets större storlek är rätt utelämnade (R1/R2). 'På beställning' finns och beställningsmeningen står i blocket."
+ },
+ {
+  "nr": 10532,
+  "id": "10480045424906",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Som 10531; mått 50 x 60 x 75 cm ur egen källa. Beställningsmeningen finns, taggen 'På beställning' finns."
+ },
+ {
+  "nr": 10533,
+  "id": "10475369791754",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "12 m, 9,8 kg, nylon, gummibelagt handtag, svart ur källan. 'Höghållfast rep: 12 mm', 'mycket hållbart' och 'tål alla väderförhållanden' rätt utelämnade (R5). Uthållighet och inne/ute en gång 'enligt tillverkaren'."
+ },
+ {
+  "nr": 10535,
+  "id": "10472203518218",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "9 m, 7,5 kg, nylon, gummihandtag ur källan; trasiga raden och kvalitetsord rätt utelämnade (R2/R5)."
+ },
+ {
+  "nr": 10534,
+  "id": "10472277442826",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Vinyl, 58 x 58 x 20 cm, 5200 g och elastiska gummihandtag ur källan. Balans och koordination står ordagrant ('förbättra din balans och koordination') och en gång 'enligt tillverkaren'. Typordet Balance Trainer är live-titelns ord (R7); källan säger bara 'dynan'. Fråga: ska engelska typord som Balance Trainer få ett godkänt svenskt ord (syskonet 10472249884938 heter Balansplatta)?"
+ },
+ {
+  "nr": 10536,
+  "id": "10461958144266",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stål, 890 g, svart, användning ur källan. 'Maximal belastning: 100 kg' är utelämnad: raden är svensk med etikett och enhet, men källan är i övrigt maskinöversatt ('Tuntur's', dubblerade rader) och det framgår inte vad lasten avser (dragkraft i marken). Att utelämna är alltid tillåtet enligt R2/R4 och följer h_4 (10521)."
+ },
+ {
+  "nr": 10537,
+  "id": "10475983175946",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Bärförmåga: 100 kg' är en ren svensk rad med etikett och enhet i en i övrigt entydig källa och står en gång 'enligt tillverkaren' – rätt enligt R4 och Alt A (samma som 10527 i h_4). 'Svajar okontrollerat' rätt utelämnat."
+ },
+ {
+  "nr": 10538,
+  "id": "10612569211146",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Justerbar 68–103 cm, 2 kg och två gummihakar ur källan. 'Maximal vikt: 100 kg' rätt utelämnad: den står bredvid den trasiga raden '100 cm (max. belastning) - 100 kg (max. belastning)', raden säger inte vad vikten avser och produkten bär kroppsvikt i en dörrkarm (samma som 10521 i h_4). Pull-Up Bar ur källans 'Dörr Pull-up Bar' (R7)."
+ },
+ {
+  "nr": 10540,
+  "id": "10475371233546",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Tunturi förvaringskrok för träningsrep i stål med svart lackering. Kroken mäter 27,6 x 5 x 22,8 cm.",
+    "efter": "Tunturi förvaringskrok är en krok i stål med svart lackering för träningsrep. Den mäter 27,6 x 5 x 22,8 cm."
+   }
+  },
+  "skal": "Metans första mening saknar verb (R11). Fakta stämmer: stål, svart lack, 27,6 x 5 x 22,8 cm, 1 kg, monteringssats. 'Maximal belastning: 100 kg' rätt utelämnad (trasig, maskinöversatt källa: 'tunisiska bröder', 'Vit: stål, stål'); 'mycket stark' och 'säkert' rätt utelämnade (R5)."
+ },
+ {
+  "nr": 10542,
+  "id": "10472260796682",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "10 kg, grön-svart, konstläder/syntetiskt läder, ull och sand, övningar och 'inte lämplig för sparkar' ur källan. Väggboll ur källans 'väggbollen' (R7). Robust/högkvalitativ/åtta-pick rätt utelämnade. Notera: syskonet 6 kg är redan skrivet som Medicinboll (källan nämner även 'Medicinbollen'); båda är källstödda, så Väggboll godtas, men enhetlighet mellan Wall Ball-storlekarna är en fråga till David."
+ },
+ {
+  "nr": 10544,
+  "id": "10472298873098",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn källa (39 ord): utöver titeln bara kompatibilitetsraden. Texten hittar inte på något, kompatibiliteten står 'enligt tillverkaren' och metan är kort och sann (§14). Pulsbälten står inte under utanfor_tills_vidare, så R6 ger inget stöd för avvisning; öppen fråga (g_3 fråga 4)."
+ },
+ {
+  "nr": 10548,
+  "id": "10470936215818",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Mått, 45 g, 2 x CR2032 (entydig del av trasig rad, R2), batteritid och 'tål alla väderförhållanden' ur källan; två 'enligt tillverkaren', inom taket (R5). Synlighet/olyckor (säkerhet) rätt borttaget; den trasiga '33,5 kg' används inte. Titeln utan 'med LED-ljus' följer det skrivna syskonet 10472218263818 (live 'Armband Tunturi LED Armlight, Röd'); inget faktum går förlorat. SEO krockar inte (syskonet har 'Röd')."
+ },
+ {
+  "nr": 10555,
+  "id": "10472289829130",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Digitalt, Bluetooth och ANT+, kopplas till klocka/smartphone/cykeldator ur källan. 'Exakta pulsmätningar', 'optimera din träning' och prestationsanalys rätt utelämnade. Elektronik/pulsbälte: samma öppna fråga som 10544."
+ },
+ {
+  "nr": 10568,
+  "id": "10472311128330",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Gymnastikgummiband Set Toorx Latex Bands",
+    "efter": "Gymnastikgummiband Toorx Latex Bands Medium"
+   }
+  },
+  "skal": "Fakta stämmer (10 stretchband, medelhög styrka, 300 x 25 x 1,5 mm). Typordet Gymnastikgummiband behålls från live-titeln (R7, rätt). SEO-titeln utan 'Medium' skulle stänga ute syskonet 10462353948938 'Latex Bands Strong' (R12); 'Medium' i stället för 'Set' ger 43 tecken."
+ },
+ {
+  "nr": 10569,
+  "id": "10624084115722",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Gymnastikgummiband Toorx Elastic Band",
+    "efter": "Gymnastikgummiband Toorx Elastic Band Lila"
+   },
+   "meta": {
+    "fore": "Toorx Elastic Band är ett lila gymnastikgummiband i styrkan Strong från Toorx.",
+    "efter": "Toorx Elastic Band är ett lila gymnastikgummiband i styrkan Strong. Finns hos BEST OF SPORTS."
+   }
+  },
+  "skal": "Tunn källa: bara användningen (ordagrant, 'enligt tillverkaren'); styrka och färg ur titeln. 'från Toorx' är utfyllnad för att nå 70 tecken; §14 anger 'Finns hos BEST OF SPORTS.' (R12). SEO-titeln skulle krocka med syskonet 10515748061450 'Elastic Band, Light, rosa'; 'Lila' ger 42 tecken. 'Mått: 15x15 cm' rätt utelämnat."
+ },
+ {
+  "nr": 10572,
+  "id": "10515743441162",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Toorx Soft Touch Handgrips är ett set med 2 expandrar i färgen svart-röd från Toorx.",
+    "efter": "Toorx Soft Touch Handgrips är ett set med 2 expandrar i färgen svart-röd."
+   }
+  },
+  "skal": "Typordsbytet Handtag → Expandrar har stöd i källans 'Setet innehåller 2 expandrar' (R7, godtas). Effekten står ordagrant och 'enligt tillverkaren'. 'från Toorx' i metan upprepar märket utan underlag; utan det blir metan 73 tecken (R12)."
+ },
+ {
+  "nr": 10573,
+  "id": "10472279671050",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Elastiskt material och skumhandtag ur källan; stark och svart ur titeln. Ursprung (trasig rad 'To Tourox') och 'Längd: 6 x 12 x 1200 mm' (tre mått under etiketten Längd) rätt utelämnade (R2/R5). Stretchgummi är live-ordet (R7)."
+ },
+ {
+  "nr": 10574,
+  "id": "10462782423306",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Justerbar hantel som blir skivstång eller två hantlar och 'Lyftstångens vikt: 2–19 kg' (unik etikett) ur källan. De två raderna 'Hantelvikt' (1,5–18 och 1–10 kg) motsäger varandra och är rätt utelämnade (R2). Ingen maxvikt i källan."
+ },
+ {
+  "nr": 10575,
+  "id": "10476097667338",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Två justerbara hantlar, lyfthandtag med variabel vikt, 'Lyfthandtagets vikt: 2-19 kg' ur källan. 'Kopplingsbommar' (maskinöversatt) och de två 'Hantelvikt'-raderna rätt utelämnade (R2)."
+ },
+ {
+  "nr": 10576,
+  "id": "10472279703818",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Elastiskt material, skumhandtag och 'Styrka: light' ur källan; röd ur titeln. Live-ordet Elastiskt band behålls fast källan säger Elastic Tube (R7). Ursprung och 'Längd: 6 x 11 x 1200 mm' rätt utelämnade. Taggen Cykelbelysning är fel men ska inte röras."
+ },
+ {
+  "nr": 10577,
+  "id": "10515743375626",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Elastiskt material och skumgrepp ur källan; medium och grön ur titeln. 'Längd: 6 x 11 x 1200 mm' och 'Storlek: 11 x 11 mm' motsäger varandra och är rätt utelämnade (R2). SEO krockar inte med 10430262083850 (som saknar SEO)."
+ },
+ {
+  "nr": 10541,
+  "id": "10588451602698",
+  "dom": "AVVISAD (bekräftad)",
+  "rattningar": {},
+  "skal": "R3: tre varianter (369/319/319 kr), titeln säger 6 kg men källan anger ingen vikt (bara 28 cm, PVC)."
+ },
+ {
+  "nr": 10570,
+  "id": "10472287371530",
+  "dom": "AVVISAD (bekräftad)",
+  "rattningar": {},
+  "skal": "R3: två varianter med olika pris (AHF-071 99 kr, AHF-072 139 kr) som källan inte skiljer åt."
+ },
+ {
+  "nr": 10571,
+  "id": "10470968918282",
+  "dom": "AVVISAD (bekräftad)",
+  "rattningar": {},
+  "skal": "R3: två varianter med olika pris (AHF-094 229 kr, AHF-093 289 kr) som källan inte skiljer åt."
+ },
+ {
+  "nr": 10578,
+  "id": "10472308834570",
+  "dom": "AVVISAD (bekräftad)",
+  "rattningar": {},
+  "skal": "R2/R3: källan säger '5 gymnastikbollar' men titeln Fabric Bands; produkttyp oklar."
+ }
+]
