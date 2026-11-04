@@ -1,0 +1,82 @@
+[
+ {
+  "id": "10581100888330",
+  "nr": 9901,
+  "skäl": "Tunn källa (R3): bara syfte (fotbollsträning, agility) och \"kompakt mål\"; oklart om produkten är ett nät eller ett komplett mål. Inga mått, material eller innehåll. Webbsökning gav inga träffar på modellen."
+ },
+ {
+  "id": "10581100921098",
+  "nr": 9902,
+  "skäl": "Tunn källa (R3): bara att den används för basket och koordination. Inga mått, material eller montering. Webbsökning gav ingen specifikation."
+ },
+ {
+  "id": "10593408057610",
+  "nr": 9903,
+  "skäl": "Viktbälte som bär extra vikt vid dips och pull-ups (bärande, kroppen belastas). Ingen lastgräns, inget material eller mått i källan; ett entydigt faktum utöver titeln (R3, R4)."
+ },
+ {
+  "id": "10581105803530",
+  "nr": 9904,
+  "skäl": "Dipsstation som bär hela kroppsvikten på väggstege. Sex varianter (DB, PS, SA, 22S, 22WS, WB) med priser 899-2999 kr utan förklaring av koderna; ingen lastgräns eller monteringsuppgift i källan (R3, R4)."
+ },
+ {
+  "id": "10581106426122",
+  "nr": 9905,
+  "skäl": "Lyftremmar som bär stången vid tunga lyft (bärande del) utan lastgräns, material eller mått i källan; ett entydigt faktum utöver titeln. Källan har effektpåståenden (minskar belastningen på händer och underarmar) (R3, R4, R5)."
+ },
+ {
+  "id": "10581106491658",
+  "nr": 9906,
+  "skäl": "Titeln låser 10 kg men produkten har sju varianter (0, 5, 7,5, 10, 15, 20, 30) med priserna 699-2999 kr, varav varianten \"0\" kostar 2999 kr. Källan nämner inga vikter eller mått (R3)."
+ },
+ {
+  "id": "10581107933450",
+  "nr": 9912,
+  "skäl": "Tillbehör (stång med remskiva, PRO-550M) till en 5-stationsmaskin; passformen mot en maskin i butiken kan inte styrkas och källan saknar mått, material och lastgräns. Bärande del utan lastgräns, pris 27 999 kr, ett entydigt faktum utöver titeln (R3, R4)."
+ },
+ {
+  "id": "10581109571850",
+  "nr": 9913,
+  "skäl": "Titeln låser Stor/Extra stor men produkten har två varianter (S/M och L/XL) (R3). Källan består av hälsopåståenden (förbättra hållning, minska obehag) och saknar mått och material (R5)."
+ },
+ {
+  "id": "10581104230666",
+  "nr": 9914,
+  "skäl": "Oklart vad produkten är: källan säger \"justerbart handtag\" som anpassar \"motståndet och greppet\", utan typ, mått eller material. Varianterna L och S förklaras inte (R2, R3)."
+ },
+ {
+  "id": "10623405523210",
+  "nr": 9916,
+  "skäl": "Tunn källa (R3): bara att stången tränar rygg, axlar och armar. Inga mått, material eller fäste. Nära dubblett av 9917 (som har längd 110 cm) utan egen särskiljande uppgift."
+ },
+ {
+  "id": "10581108457738",
+  "nr": 9919,
+  "skäl": "Tunn källa (R3): bara att stången används för pulldowns och rows. Inga mått, material eller fäste, och kvalitetsord (robust, hög kvalitet) utan stöd. Ett entydigt faktum utöver titeln."
+ },
+ {
+  "id": "10581108588810",
+  "nr": 9921,
+  "skäl": "Tunn källa (R3): inga mått, material, antal eller typ utöver titeln. Källan har säkerhetspåståenden (säker känsla, minskar risken för skador) (R5)."
+ },
+ {
+  "id": "10581108818186",
+  "nr": 9922,
+  "skäl": "Förvaringsställ med två varianter (A 469 kr, F 399 kr) som källan inte förklarar; antal mattor, mått, material och montering/bärighet saknas (R3). Ett entydigt faktum (justerbart)."
+ },
+ {
+  "id": "10581110751498",
+  "nr": 9923,
+  "skäl": "Motionscykel (liggande) i faktatextläge men källan har bara \"justerbar sits\" och \"ergonomisk design\" samt rehabiliteringspåstående. Inga mått, vikt, motstånd, display eller användarvikt (R3, R4). Pris 20 999 kr; ett entydigt faktum utöver titeln."
+ },
+ {
+  "id": "10581109408010",
+  "nr": 9924,
+  "skäl": "Balansbräda som man står på: ingen lastgräns, inga mått eller material. Källan har bara effektpåståenden (balans, stabilitet, kärnstyrka) och kvalitetsord (robust, ultimat) (R3, R5)."
+ },
+ {
+  "id": "10581109768458",
+  "nr": 9925,
+  "skäl": "Titeln låser 180 cm men produkten har tre varianter (Default 799 kr, SL 149 kr, G 129 kr) som källan inte förklarar; källan saknar mått och material (R3)."
+ }
+]

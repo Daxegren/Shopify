@@ -1,0 +1,222 @@
+[
+ {
+  "nr": 9876,
+  "id": "10636646809866",
+  "fil": "k_11d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Maxxus Multi är en fettfri silikonspray på 400 ml för smörjning av skenor på crosstrainers och styrrör på viktmaskiner.",
+    "efter": "Universalsprayen Maxxus Multi används för att smörja skenor på crosstrainers och styrrör på viktmaskiner. Fettfri silikonspray, 400 ml."
+   },
+   "html": {
+    "fore": "<p>Maxxus Multi är en universalspray i form av en fettfri silikonspray på 400 ml.",
+    "efter": "<p>Universalsprayen Maxxus Multi innehåller 400 ml fettfri silikonspray."
+   }
+  },
+  "skal": "Spårbart i egen källa (400 ml, fettfri silikonspray, skenor på crosstrainers och styrrör på viktmaskiner, -50 till +250 °C, tillverkad i Tyskland). Ursprung och temperatur står med 'enligt tillverkaren' (2 st, R5). Effektpåståenden rätt utelämnade. Märket Maxxus (källans MAXXUS) skrivs enligt R8; Maxxus finns inte i profilens märkeslista men det påverkar inte texten. Rättning: cirkulär meta och första mening ('Maxxus Multi är en … silikonspray', R11) skrivs om med verb och typordet först."
+ },
+ {
+  "nr": 9877,
+  "id": "10636682494218",
+  "fil": "k_11d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (2,2 l, 27 cm, 12 cm, 170 g, PETG, DEHP- och BPA-fri, ögla, droppsäker stängning, luktfri, utan läckage, ej diskmaskin, ej heta vätskor). Två varianter med olika pris (Svart 199, Röd 206). Titeln låser ingen färg och texten nämner båda (R3). Läcksäker/droppsäker står med 'enligt tillverkaren' en gång. Meta har verb."
+ },
+ {
+  "nr": 9878,
+  "id": "10636638847242",
+  "fil": "k_11d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (2 flaskor, 2,2 l, 27 cm, 12 cm, PETG, handtag, cylindrisk, luktfri, läcksäker). Varianterna 2xRöd och 2xSvart kostar lika (399 kr). Vikten 170 g är rätt utelämnad (oklart om den gäller per flaska). Meta har verb."
+ },
+ {
+  "nr": 9879,
+  "id": "10636723945738",
+  "fil": "k_11d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Viktstället är ett liggande stativ med åtta fack för viktskivor.",
+    "efter": "Viktstället placeras liggande på golvet och har åtta fack för viktskivor."
+   },
+   "html": {
+    "fore": "<p>Viktstället är ett liggande stativ på 147 cm med åtta fack i samma bredd för förvaring av viktskivor.",
+    "efter": "<p>Viktstället förvarar viktskivor i åtta fack i samma bredd och är 147 cm långt."
+   }
+  },
+  "skal": "Spårbart (liggande, 147 x 50 cm, 8 fack, 12,5 cm, handtag och två hjul, utan vikter, svart). R4: 'Maximal belastning: 400kg' är en ren svensk rad med etikett och enhet. Löptexten anger samma värde (400 kg), så de motsäger inte varandra (R4 v1.5). Uppgiften står en gång med 'enligt tillverkaren', med etiketten ordagrann. Stället förvarar viktskivor och bär ingen person. Rättning: meta och första mening ('Viktstället är ett … stativ') skrivs om med verb (R11)."
+ },
+ {
+  "nr": 9880,
+  "id": "10636724961546",
+  "fil": "k_11d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (neopren-nylonblandning, fastsydda vikter 10/18 kg, mått per variant, kardborreband, svart, handtvätt). Två varianter med olika pris; titeln nämner båda (R3). Västens egen vikt är ingen lastgräns (R4). 'Andningsbart' och 'passar alla storlekar' står ordagrant i källan och har 'enligt tillverkaren' (R5). Meta har verb."
+ },
+ {
+  "nr": 9881,
+  "id": "10636758450442",
+  "fil": "k_11d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Vikt per vikt i 10 kg-västen: 0,5 kg</li>\n<li>Vikt per vikt i 20 kg-västen: 1,0 kg</li>\n<li>Vikt per vikt i 30 kg-västen: 1,5 kg</li>",
+    "efter": "<li>Varje vikt i 10 kg-västen: 0,5 kg</li>\n<li>Varje vikt i 20 kg-västen: 1,0 kg</li>\n<li>Varje vikt i 30 kg-västen: 1,5 kg</li>"
+   }
+  },
+  "skal": "Spårbart (neopren-nylonblandning och metallkulor, 10/20/30 kg, 0,5/1,0/1,5 kg per vikt, 56 x 52 cm, svart, passar alla). Tre varianter med olika pris; titeln nämner alla tre (R3). Träningseffekter och skaderåd är rätt utelämnade. Rättning (språk): 'Vikt per vikt i …' ändras till 'Varje vikt i …', ordagrant enligt källans 'Varje vikt på …'."
+ },
+ {
+  "nr": 9882,
+  "id": "10636603064586",
+  "fil": "k_11d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Styrkepaketet Explosiv är ett träningspaket för funktionell träning. Det innehåller ett paket med fem korta gummiband, justerbara gummiband med handtag, en träningsmatta och kettlebells.</p>",
+    "efter": "<p>Styrkepaketet Explosiv innehåller ett paket med fem korta gummiband, justerbara gummiband med handtag, en träningsmatta och kettlebells på 4 och 8 kg.</p>"
+   }
+  },
+  "skal": "Spårbart (fem korta band 500 x 50 mm med motstånd i kg, justerbara band 117 cm med två handtag och förvaringspåse, matta 190 x 100 x 1,5 cm, 2,2 kg, bärsele, nitrilgummi och PVC, kettlebells 4 och 8 kg med vinyl). Motstånd i kg är ingen lastgräns (R4). Produkten har en enda variant och saknar SKU. Rättning: första meningen 'Styrkepaketet … är ett träningspaket för funktionell träning' är cirkulär (R11) och har marknadsföringston. Den stryks, och vikterna 4 och 8 kg läggs till."
+ },
+ {
+  "nr": 9885,
+  "id": "10581102067978",
+  "fil": "k_11d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Ab Mat är ett redskap för magövningar. Det mäter",
+    "efter": "Ab Mat från Gymstick läggs under ryggen vid magövningar. Den mäter"
+   },
+   "html": {
+    "fore": "<p>Gymstick Ab Mat är ett träningsredskap för magövningar, för hemmabruk eller på gymmet. Det mäter",
+    "efter": "<p>Ab Mat från Gymstick läggs under ryggen vid magövningar, hemma eller på gymmet. Den mäter"
+   }
+  },
+  "skal": "Webbkällan stämmer entydigt: gymstick.com/ab-mat.html har SKU 61220, samma som live-varianten. Mått 38 x 30 x 7,5 cm, 0,75 kg, PU+EPE och All black stämmer. Typen är belagd: sidan säger 'abdominal muscle pad … under your back' och egen källa 'magövningar'. Rättning: 'Gymstick Ab Mat är ett redskap' är cirkulärt (R11) och skrivs om till 'läggs under ryggen vid magövningar', enligt webbkällan."
+ },
+ {
+  "nr": 9887,
+  "id": "10581102199050",
+  "fil": "k_11d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Adjustable Hand Grip är en handtränare med justerbart motstånd och inbyggd räknare för att hålla koll på repetitionerna.",
+    "efter": "Handtränaren Gymstick Adjustable Hand Grip har justerbart motstånd och en inbyggd räknare som håller koll på repetitionerna."
+   },
+   "html": {
+    "fore": "<p>Gymstick Adjustable Hand Grip är en handtränare med justerbart motstånd och inbyggd räknare som håller koll på antalet repetitioner.",
+    "efter": "<p>Handtränaren Gymstick Adjustable Hand Grip har justerbart motstånd och en inbyggd räknare som håller koll på antalet repetitioner."
+   }
+  },
+  "skal": "Webbkällan stämmer entydigt: gymstick.com/adjustable-hand-grip-with-counter.html har SKU 61175, samma som live. Sidan anger motstånd 10–40 kg (motstånd, ingen lastgräns), 13 x 15 x 2,3 cm, 0,18 kg, PP/TPR/järn och Red-Black. Räknaren beskrivs bara som 'built-in counter' och utkastet påstår inget om elektronik. Typordet Handtränare används som i 3055. Detta är samma id som det äldre c-utkastet, och domen gäller k_11d. Rättning: cirkulär meta och första mening (R11)."
+ },
+ {
+  "nr": 9890,
+  "id": "10581095907594",
+  "fil": "k_11d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Aktiv är en svart tunnrulle som är 33 cm lång.",
+    "efter": "Tunnrullen Gymstick Aktiv är svart och 33 cm lång."
+   },
+   "html": {
+    "fore": "<p>Gymstick Aktiv är en tunnrulle som är 33 cm lång.",
+    "efter": "<p>Tunnrullen Gymstick Aktiv är 33 cm lång."
+   }
+  },
+  "skal": "Webbkällan: gymstick.com/active-barrel-33cm.html har SKU 72025-X, en modellsida för två färger. Live-SKU 72025-BLA är den svarta färgen av samma modell. Sidan anger 0,77 kg och PVC 77 %/EVA 23 %, och det gäller modellen oavsett färg. Längden 33 cm finns i egen källa och i sidans '14 x 33cm'. Utkastet nämner rätt inte diametern (13 eller 14 cm). Typordet Tunnrulle kommer från live-titeln. Effektpåståenden (myofasciell behandling) är utelämnade. Samma id som det äldre c-utkastet. Rättning: cirkulär meta och första mening (R11)."
+ },
+ {
+  "nr": 9893,
+  "id": "10581104820490",
+  "fil": "k_11d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Balance Disc är ett balansträningsredskap av PVC med diameter 33,5 cm. Det är 5 cm högt och levereras med handpump.",
+    "efter": "Gymstick Balance Disc används för balansträning. Den är gjord av PVC, har diametern 33,5 cm, är 5 cm hög och levereras med handpump."
+   },
+   "html": {
+    "fore": "<p>Gymstick Balance Disc är ett balansträningsredskap av PVC med en diameter på 33,5 cm. Det väger",
+    "efter": "<p>Gymstick Balance Disc används för balansträning och är gjord av PVC med en diameter på 33,5 cm. Den väger"
+   }
+  },
+  "skal": "Webbkällan stämmer entydigt: gymstick.com/balance-disc.html har SKU 61235, samma som live. Sidan anger PVC, Gray, 33,5 x 33,5 x 5 cm, 0,95 kg och handpump. 'Max user weight 100' står bara på engelska och är rätt utelämnat (R4). Rehabpåståendet är utelämnat. Rättning: cirkulär meta och första mening (R11)."
+ },
+ {
+  "nr": 9894,
+  "id": "10581104886026",
+  "fil": "k_11d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Balance Trainer Pro är ett balansträningsredskap med diameter 61,5 cm och höjd 25 cm. Det är gjort av PVC och PP.",
+    "efter": "Gymstick Balance Trainer Pro används för balansträning. Den har diametern 61,5 cm, är 25 cm hög och är gjord av PVC och PP."
+   },
+   "html": {
+    "fore": "<p>Gymstick Balance Trainer Pro är ett balansträningsredskap med en diameter på 61,5 cm och en höjd på 25 cm. Det är gjort",
+    "efter": "<p>Gymstick Balance Trainer Pro används för balansträning och har en diameter på 61,5 cm och en höjd på 25 cm. Den är gjord"
+   }
+  },
+  "skal": "Webbkällan stämmer entydigt: gymstick.com/balance-trainer-pro.html har SKU 61007, samma som live. Sidan anger 61,5 cm, 25 cm, 5,2 kg, PVC/PP, handpump och All black. Maxvikten 300 kg (bara på engelska) är rätt utelämnad (R4). Rättning: cirkulär meta och första mening (R11)."
+ },
+ {
+  "nr": 9897,
+  "id": "10581105213706",
+  "fil": "k_11d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Cohesive Bandage Tape är ett självhäftande bandage i polypropylen och elastan. Förpackningen innehåller två bandage.",
+    "efter": "Gymstick Cohesive Bandage Tape säljs två i förpackningen. Bandagen är självhäftande, 75 mm breda och 400 cm långa, av polypropylen och elastan."
+   },
+   "html": {
+    "fore": "<p>Gymstick Cohesive Bandage Tape är ett självhäftande bandage som säljs i förpackning om två. Materialet är polypropylen och elastan.</p><h2>Passar för</h2><ul>\n<li>Dig som söker självhäftande bandage i förpackning om två</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Märke: Gymstick</li>\n<li>Antal: 2 st</li>\n<li>Typ: Självhäftande bandage</li>\n<li>Material: Polypropylen och elastan</li>\n<li>Färg: Turkos</li>",
+    "efter": "<p>Gymstick Cohesive Bandage Tape säljs i förpackning om två självhäftande bandage. Materialet är polypropylen och elastan.</p><h2>Passar för</h2><ul>\n<li>Dig som söker självhäftande bandage i förpackning om två</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Märke: Gymstick</li>\n<li>Antal: 2 st</li>\n<li>Typ: Självhäftande bandage</li>\n<li>Material: Polypropylen och elastan</li>\n<li>Färg: Turkos</li>\n<li>Bredd: 75 mm</li>\n<li>Längd per bandage: 400 cm</li>"
+   }
+  },
+  "skal": "Webbkällan stämmer entydigt: gymstick.com/cohesive-bandage-tape-2pcs.html har SKU 63041-TU, samma som live. Sidan anger polypropylen och elastan, Turquoise, 2 st, 'Width: 75mm. Lenght: 400cm' och 'Tape lenght 400cm'. Medicinteknisk risk: tillverkaren kategoriserar produkten som 'Sport Supports/Recovery' och beskriver materialet som 'medical non-wovens'/'medical grade adhesive'. Utkastet har inga skade-, stöd- eller medicinska påståenden och beskriver bara vad varan är. Därför är texten inte underkänd, men David kan välja att hålla bandage utanför som kategori (se utlåtandet). Rättning: (1) cirkulär meta och första mening (R11); (2) bredd 75 mm och längd 400 cm från webbkällan läggs till, eftersom texten annars bara har en egen uppgift utöver titeln (material), jfr R3 om tunn källa."
+ },
+ {
+  "nr": 9899,
+  "id": "10581105606922",
+  "fil": "k_11d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Core Twister är ett träningsredskap för rotationsövningar. Det mäter",
+    "efter": "Gymstick Core Twister används för rotationsövningar där kroppen vrids från sida till sida. Den mäter"
+   },
+   "html": {
+    "fore": "<p>Gymstick Core Twister är ett träningsredskap för rotationsövningar, för hemmaträning eller på gymmet. Det mäter",
+    "efter": "<p>Gymstick Core Twister används för rotationsövningar, hemma eller på gymmet. Den mäter"
+   }
+  },
+  "skal": "Webbkällan stämmer entydigt: gymstick.com/core-twister.html anger SKU 61126, samma som live (utkastarens uppgift att sidan saknar SKU stämmer inte, men det påverkar inte kundtexten). Sidan anger 29,5 x 29,5 x 3,5 cm, 0,78 kg, materialprocent och Grey-White. Maxvikten 100 kg (bara på engelska) är rätt utelämnad. Typen är belagd: 'rotating platform', 'body is rotated from side to side'. Bantnings- och ämnesomsättningspåståenden är utelämnade. Rättning: cirkulär meta och första mening (R11). 'Vrids från sida till sida' hämtas från webbkällan."
+ },
+ {
+  "nr": 9900,
+  "id": "10581100757258",
+  "fil": "k_11d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Court är ett ersättningsnät i polyester till Court ishockeymål på 183 x 122 cm.",
+    "efter": "Målnätet Gymstick Court ersätter nätet i Court ishockeymål på 183 x 122 cm och är gjort av polyester."
+   },
+   "html": {
+    "fore": "<p>Gymstick Court är ett målnät för ishockey i polyester. Enligt tillverkaren är det ett ersättningsnät till Court ishockeymål på 183 x 122 cm.</p>",
+    "efter": "<p>Målnätet Gymstick Court är gjort av polyester och ersätter nätet i Court ishockeymål på 183 x 122 cm.</p>"
+   }
+  },
+  "skal": "Webbkällan stämmer entydigt: gymstick.com/court-icehockey-goal-net.html har SKU 53135, samma som live. Den anger 'replacement net for 183x122cm sized Court Ice Hockey Goal' och 8-ply polyester. Live-titeln (Goal Net) och webbkällan säger nät. Egen löptext säger 'mål', och den motsägelsen är rätt löst genom att utkastet följer titeln och tillverkaren och utelämnar mål-påståendena (R2). Priset 549 kr passar ett nät. Rättning: cirkulär meta och första mening (R11). Den onödiga 'enligt tillverkaren' tas bort, eftersom uppgiften är en ren produktidentitet."
+ }
+]
