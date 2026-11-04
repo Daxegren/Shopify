@@ -1,0 +1,220 @@
+[
+ {
+  "nr": 10151,
+  "id": "10411677155594",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Tunturi Minibike Basic är en minicykel i vitt och svart. Den har benremmar på pedalerna och kan användas för träning av både ben och armar, till exempel placerad på ett skrivbord.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en minicykel i vitt och svart</li>\n<li>Dig som vill ha en minicykel med benremmar på pedalerna</li>\n<li>Dig som vill kunna träna både ben och armar med samma minicykel</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Färg: Vit och svart</li>\n<li>Produktvikt: 2,5 kg</li>\n<li>Produktkod: 14TUSCL267</li>\n</ul>",
+    "efter": "<p>Tunturi Minibike Basic är en minicykel i vitt och svart. Den har benremmar på pedalerna och kan användas för träning av både ben och armar. För armträning kan den placeras på ett skrivbord.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en minicykel i vitt och svart</li>\n<li>Dig som vill ha en minicykel med benremmar på pedalerna</li>\n<li>Dig som vill kunna träna både ben och armar med samma minicykel</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Färg: Vit och svart</li>\n<li>Produktvikt: 2,5 kg</li>\n<li>Produktkod: 14TUSCL267</li>\n</ul>"
+   }
+  },
+  "skal": "Källan: skrivbordet gäller armträningen ('Placera den på ditt skrivbord och ge dina armmuskler …'); 'till exempel placerad på ett skrivbord' kopplades till både ben och armar. Kalori-/uthållighetstext korrekt borta."
+ },
+ {
+  "nr": 10152,
+  "id": "10472518549770",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live (stål, plast, 52 x 41 x 41 cm, 2,2 kg, inbyggd display, 'passar under alla bord eller stolar' som enligt tillverkaren). Operation/cirkulation korrekt borta. Beställningsmening rätt."
+ },
+ {
+  "nr": 10153,
+  "id": "10472253686026",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Motor, fjärrkontroll (hastighet, tid, program, riktning), display (tid, distans, kalorier), 30 x 14 mm LED, 44 x 40 x 29 cm, 5,6 kg ordagrant. Inga effektpåståenden. SEO utan 'Minibike' (dubblerar typordet) godtas; 42 tecken."
+ },
+ {
+  "nr": 10154,
+  "id": "10429961928970",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Batteriraden ('Strömkälla: 2 × AAA-batterier') korrekt utelämnad så att den inte antyder batteridriven cykel; övriga data ordagrant. Återhämtningstext borta."
+ },
+ {
+  "nr": 10155,
+  "id": "10486622355722",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Motionscykel Cardio Fit D20 Deskbike",
+    "efter": "Motionscykel Tunturi Cardio Fit D20"
+   },
+   "html": {
+    "fore": "<p>Tunturi Cardio Fit D20 Deskbike är en motionscykel med bromssystem av typen PMS, manuellt, och ett svänghjul på 3,6 kg. Batterierna (2 x AAA) sitter i konsolen. Maximal användarvikt är 110 kg. Måtten finns även för hopfällt läge.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en motionscykel med manuellt PMS-bromssystem</li>\n<li>Dig som vill ha en motionscykel med uppgivna mått för hopfällt läge</li>\n<li>Dig som söker en motionscykel med 3,6 kg svänghjul</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Bromssystem: PMS, manuellt</li>\n<li>Svänghjul: 3,6 kg</li>\n<li>Batterier i konsolen: 2 x AAA</li>\n<li>Mått: 80,5 x 59 x 84,5 cm</li>\n<li>Mått hopfälld: 46 x 59 x 106,5 cm</li>\n<li>Produktvikt: 14,5 kg</li>\n<li>Maximal användarvikt: 110 kg</li>\n</ul>",
+    "efter": "<p>Tunturi Cardio Fit D20 Deskbike är en motionscykel med manuellt PMS-bromssystem och ett svänghjul på 3,6 kg. Batterierna (2 x AAA) sitter i konsolen. Maximal användarvikt är 110 kg och måtten hopfälld är 46 x 59 x 106,5 cm.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en motionscykel med manuellt PMS-bromssystem</li>\n<li>Dig som vill ha en motionscykel som kan fällas ihop</li>\n<li>Dig som söker en motionscykel med 3,6 kg svänghjul</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Bromssystem: PMS, manuellt</li>\n<li>Svänghjul: 3,6 kg</li>\n<li>Batterier i konsolen: 2 x AAA</li>\n<li>Mått: 80,5 x 59 x 84,5 cm</li>\n<li>Mått hopfälld: 46 x 59 x 106,5 cm</li>\n<li>Produktvikt: 14,5 kg</li>\n<li>Maximal användarvikt: 110 kg</li>\n</ul>"
+   }
+  },
+  "skal": "Typen Motionscykel följer live-titel och tagg; 'Skrivbordscykel' används inte och har inget stöd i källan (bara 'Skjut din kontorsstol åt sidan'). 'Maximal användarvikt: 110 kg' ordagrant på svenska. Rättningar: arbetsmeningen 'Måtten finns även för hopfällt läge' och punkten 'uppgivna mått för hopfällt läge' → konkret hopfällt mått; 'bromssystem av typen PMS, manuellt, och' → 'manuellt PMS-bromssystem och'. SEO: märket Tunturi återinförs, 'Deskbike' (typbeskrivning) får ge plats; 35 tecken. Batteriraden 'Batterier i konsolen: 2 x AAA' återger källan korrekt."
+ },
+ {
+  "nr": 10156,
+  "id": "10635766104330",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Alla data ordagrant (LCD, 12, 24, PMS servomotor, 18 kg, 43,5 cm, 18/37 cm, 166 x 69 x 158 cm, 58 kg, 'Maximal användarvikt: 150 kg'). Appar enligt tillverkaren."
+ },
+ {
+  "nr": 10157,
+  "id": "10635766137098",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>BH Fitness Crystal 2.0 Multimedia är en crosstrainer med 10-tums pekskärm och Bluetooth FTMS-anslutning, 16 träningsprogram och 24 motståndsnivåer. Enligt tillverkaren kan du träna med appar som Zwift eller Kinomap och använda underhållningsappar som Netflix, Spotify och YouTube. Steglängden är 43,5 cm och maximal användarvikt 150 kg.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en crosstrainer med 10-tums pekskärm</li>\n<li>Dig som vill ha en crosstrainer med Bluetooth FTMS-anslutning</li>\n<li>Dig som söker en crosstrainer med 16 träningsprogram och 24 motståndsnivåer</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Display: 10-tums pekskärm</li>\n<li>Träningsprogram: 16</li>\n<li>Motståndsnivåer: 24</li>\n<li>Bromssystem: PMS, servomotor</li>\n<li>Svänghjul: 18 kg</li>\n<li>Steglängd: 43,5 cm</li>\n<li>Avstånd mellan pedaler: 18 cm</li>\n<li>Pedalstorlek: 37 cm</li>\n<li>Mått: 166 x 70 x 158 cm</li>\n<li>Produktvikt: 58 kg</li>\n<li>Maximal användarvikt: 150 kg</li>\n</ul>",
+    "efter": "<p>BH Fitness Crystal 2.0 Multimedia är en crosstrainer med 10-tums pekskärm, Bluetooth FTMS-anslutning, 16 träningsprogram och 24 motståndsnivåer. Enligt tillverkaren kan du träna med appar som Zwift eller Kinomap och använda underhållningsappar som Netflix, Spotify och YouTube. Steglängden är 43,5 cm och maximal användarvikt 150 kg.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en crosstrainer med 10-tums pekskärm</li>\n<li>Dig som vill ha en crosstrainer med Bluetooth FTMS-anslutning</li>\n<li>Dig som söker en crosstrainer med 16 träningsprogram och 24 motståndsnivåer</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Display: 10-tums pekskärm</li>\n<li>Träningsprogram: 16</li>\n<li>Motståndsnivåer: 24</li>\n<li>Bromssystem: PMS, servomotor</li>\n<li>Svänghjul: 18 kg</li>\n<li>Steglängd: 43,5 cm</li>\n<li>Avstånd mellan pedaler: 18 cm</li>\n<li>Pedalstorlek: 37 cm</li>\n<li>Mått: 166 x 70 x 158 cm</li>\n<li>Produktvikt: 58 kg</li>\n<li>Maximal användarvikt: 150 kg</li>\n</ul>"
+   }
+  },
+  "skal": "Dubbel 'och' i uppräkningen. Data ordagrant, maxvikt 150 kg ordagrant. SEO utan märke godtas: 'Multimedia' skiljer från 10156 och hela namnet ryms inte (46 tecken); inget ord förkortat."
+ },
+ {
+  "nr": 10159,
+  "id": "10472307228938",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Maximal driftsvikt' korrekt utelämnad (alt A); 'Lastkapacitet 35 kg' och 'Viktsteg 24' utelämnade. Övriga data ordagrant. SEO utan märke godtas (hela namnet 48 tecken; 'Multimedia' skiljer från 10162)."
+ },
+ {
+  "nr": 10160,
+  "id": "10472306409738",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>BH Fitness Altai är en elliptisk träningscykel, här kallad crosstrainer, med LCD-display, 12 träningsprogram, 32 motståndsnivåer och ett svänghjul på 20 kg. Den har Bluetooth FTMS-anslutning. Maximal användarvikt är 150 kg.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en crosstrainer med 32 motståndsnivåer</li>\n<li>Dig som vill ha en crosstrainer med 20 kg svänghjul</li>\n<li>Dig som söker en crosstrainer med Bluetooth FTMS-anslutning</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Display: LCD</li>\n<li>Träningsprogram: 12</li>\n<li>Motståndsnivåer: 32</li>\n<li>Bromssystem: PMS, servomotor</li>\n<li>Svänghjul: 20 kg</li>\n<li>Steglängd: 45 cm</li>\n<li>Mått: 170 x 63 x 163 cm</li>\n<li>Produktvikt: 57 kg</li>\n<li>Maximal användarvikt: 150 kg</li>\n</ul>",
+    "efter": "<p>BH Fitness Altai är en crosstrainer med LCD-display, 12 träningsprogram, 32 motståndsnivåer och ett svänghjul på 20 kg. Den har Bluetooth FTMS-anslutning. Maximal användarvikt är 150 kg.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en crosstrainer med 32 motståndsnivåer</li>\n<li>Dig som vill ha en crosstrainer med 20 kg svänghjul</li>\n<li>Dig som söker en crosstrainer med Bluetooth FTMS-anslutning</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Display: LCD</li>\n<li>Träningsprogram: 12</li>\n<li>Motståndsnivåer: 32</li>\n<li>Bromssystem: PMS, servomotor</li>\n<li>Svänghjul: 20 kg</li>\n<li>Steglängd: 45 cm</li>\n<li>Mått: 170 x 63 x 163 cm</li>\n<li>Produktvikt: 57 kg</li>\n<li>Maximal användarvikt: 150 kg</li>\n</ul>"
+   }
+  },
+  "skal": "'här kallad crosstrainer' är arbetsterm i kundtext. Typbytet 'Elliptical trainer' → Crosstrainer stöds av productType Crosstrainers och taggen Crosstrainer (engelskt typord får inte stå). Att fläkten utelämnas är rimligt (hellre för lite; kan läggas till senare). Maxvikt 150 kg ordagrant på svenska."
+ },
+ {
+  "nr": 10161,
+  "id": "10612594442506",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>BH Fitness Easy Flex är en vikbar elliptisk träningscykel, här kallad crosstrainer, med LCD-display, 12 träningsprogram, 24 motståndsnivåer och ett svänghjul på 20 kg. Steglängden är 45 cm. Maximal användarvikt är 130 kg. Måtten hopfälld är 90 x 63 x 183 cm.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en vikbar crosstrainer</li>\n<li>Dig som vill ha en crosstrainer med 24 motståndsnivåer</li>\n<li>Dig som söker en crosstrainer med 20 kg svänghjul och 45 cm steglängd</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Display: LCD</li>\n<li>Träningsprogram: 12</li>\n<li>Motståndsnivåer: 24</li>\n<li>Bromssystem: PMS, servomotor</li>\n<li>Svänghjulsvikt: 20 kg</li>\n<li>Steglängd: 45 cm</li>\n<li>Mått: 165 x 63 x 183 cm</li>\n<li>Mått hopfälld: 90 x 63 x 183 cm</li>\n<li>Produktvikt: 54 kg</li>\n<li>Maximal användarvikt: 130 kg</li>\n</ul>",
+    "efter": "<p>BH Fitness Easy Flex är en vikbar crosstrainer med LCD-display, 12 träningsprogram, 24 motståndsnivåer och ett svänghjul på 20 kg. Steglängden är 45 cm. Maximal användarvikt är 130 kg. Måtten hopfälld är 90 x 63 x 183 cm.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en vikbar crosstrainer</li>\n<li>Dig som vill ha en crosstrainer med 24 motståndsnivåer</li>\n<li>Dig som söker en crosstrainer med 20 kg svänghjul och 45 cm steglängd</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Display: LCD</li>\n<li>Träningsprogram: 12</li>\n<li>Motståndsnivåer: 24</li>\n<li>Bromssystem: PMS, servomotor</li>\n<li>Svänghjulsvikt: 20 kg</li>\n<li>Steglängd: 45 cm</li>\n<li>Mått: 165 x 63 x 183 cm</li>\n<li>Mått hopfälld: 90 x 63 x 183 cm</li>\n<li>Produktvikt: 54 kg</li>\n<li>Maximal användarvikt: 130 kg</li>\n</ul>"
+   }
+  },
+  "skal": "'här kallad crosstrainer' är arbetsterm. Typbytet stöds av productType Crosstrainers/tagg. Maxvikt 130 kg ordagrant; 'hela familjen'/'stabil' borta."
+ },
+ {
+  "nr": 10162,
+  "id": "10472307851530",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Källtexten säger själv 'crosstrainer' (live-titel 'Elliptisk träningscykel'); tagg Crosstrainer. Alla data ordagrant, maxvikt 150 kg ordagrant."
+ },
+ {
+  "nr": 10163,
+  "id": "10472303657226",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Källtexten säger 'crosstrainer'; tagg Crosstrainer. Data ordagrant; 'semi-professionell användning' som enligt tillverkaren."
+ },
+ {
+  "nr": 10164,
+  "id": "10656691159306",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Källan: 'elliptisk träningsmaskin'; tagg Crosstrainer. Data ordagrant, maxvikt 190 kg ordagrant. 'Leder'/'stabilitet' borta; 'professionell kvalitet' som enligt tillverkaren."
+ },
+ {
+  "nr": 10166,
+  "id": "10656690864394",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Data ordagrant (LED, 25, EMS, 52–55 cm, 16 lutningar, 125 kg, 'Maximal användarvikt: 181 kg'). Att måttet 225 x 62 x 161 cm (lika med ER1000R) utelämnas är försiktigt och godtas; det motsäger inte produktens egen källa och kan återinföras om David bekräftar (även vikten 125 kg är lika med ER1000R). Titelns 'ERV1000' mot källans 'ERV1000R' hanterat genom att följa titeln."
+ },
+ {
+  "nr": 10167,
+  "id": "10650208895242",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Data ordagrant; 'tyst', 'säker', 'halkfria' borta. Maxvikt 190 kg ordagrant."
+ },
+ {
+  "nr": 10168,
+  "id": "10472325382410",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Stegmaskin Movemia SC1000 Climber",
+    "efter": "Stegmaskin BH Fitness Movemia SC1000"
+   }
+  },
+  "skal": "Engelsk källa: bara entydiga specifikationer översatta, korrekt. 'Maximum user weight' (engelska) korrekt utelämnad enligt alt A; 'Resistance levels 20' mot '20 speeds' utelämnat. SEO: märket återinförs, 'Climber' (dubblerar Stegmaskin) får ge plats; 36 tecken."
+ },
+ {
+  "nr": 10169,
+  "id": "10665231515914",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Motsägelsen 24/12 träningsprogram korrekt utelämnad; Glute Shaper utan effektpåstående; fettförbränning borta. Maxvikt 130 kg ordagrant."
+ },
+ {
+  "nr": 10170,
+  "id": "10589705797898",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Data ordagrant; 'BT' i källtexten hanterad genom att följa titeln och inte nämna Bluetooth. Maxvikt 150 kg ordagrant."
+ },
+ {
+  "nr": 10171,
+  "id": "10650169180426",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Data ordagrant; maxvikt 130 kg ordagrant."
+ },
+ {
+  "nr": 10172,
+  "id": "10472280195338",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Hammer CrossPace 5.0 NorsK är en crosstrainer i naturligt trä med LCD-display, 24 träningsprogram och 16 motståndsnivåer.",
+    "efter": "Hammer CrossPace 5.0 NorsK är en crosstrainer med design i naturligt trä, LCD-display, 24 träningsprogram och 16 motståndsnivåer."
+   },
+   "html": {
+    "fore": "<p>Hammer CrossPace 5.0 NorsK är en elliptisk tränare, här kallad crosstrainer, med design i naturligt trä. Den har LCD-display, 24 träningsprogram, 16 motståndsnivåer och manuell lutning i 3 lägen. Svänghjulet väger 20 kg, steglängden är 50 cm och maximal användarvikt är 130 kg.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en crosstrainer med design i naturligt trä</li>\n<li>Dig som vill ha en crosstrainer med manuell lutning i 3 lägen</li>\n<li>Dig som söker en crosstrainer med 24 träningsprogram och 16 motståndsnivåer</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Display: LCD</li>\n<li>Träningsprogram: 24</li>\n<li>Motståndsnivåer: 16</li>\n<li>Bromssystem: PMS, servomotor</li>\n<li>Svänghjul: 20 kg</li>\n<li>Lutningsnivåer: 3 (manuell)</li>\n<li>Steglängd: 50 cm</li>\n<li>Steghöjd: 42 cm</li>\n<li>Mått: 162 x 64 x 180 cm</li>\n<li>Produktvikt: 71 kg</li>\n<li>Maximal användarvikt: 130 kg</li>\n</ul>",
+    "efter": "<p>Hammer CrossPace 5.0 NorsK är en crosstrainer med design i naturligt trä. Den har LCD-display, 24 träningsprogram, 16 motståndsnivåer och manuell lutning i 3 lägen. Svänghjulet väger 20 kg, steglängden är 50 cm och maximal användarvikt är 130 kg.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en crosstrainer med design i naturligt trä</li>\n<li>Dig som vill ha en crosstrainer med manuell lutning i 3 lägen</li>\n<li>Dig som söker en crosstrainer med 24 träningsprogram och 16 motståndsnivåer</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Display: LCD</li>\n<li>Träningsprogram: 24</li>\n<li>Motståndsnivåer: 16</li>\n<li>Bromssystem: PMS, servomotor</li>\n<li>Svänghjul: 20 kg</li>\n<li>Lutningsnivåer: 3 (manuell)</li>\n<li>Steglängd: 50 cm</li>\n<li>Steghöjd: 42 cm</li>\n<li>Mått: 162 x 64 x 180 cm</li>\n<li>Produktvikt: 71 kg</li>\n<li>Maximal användarvikt: 130 kg</li>\n</ul>"
+   }
+  },
+  "skal": "'här kallad crosstrainer' är arbetsterm; meta 'crosstrainer i naturligt trä' påstår mer än källans 'design i naturligt trä'. Typbytet stöds av productType/tagg. 'Stabilitet' borta."
+ },
+ {
+  "nr": 10173,
+  "id": "10472280293642",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'CardioPace' i källtexten, 'Tyskland', 'Viktintervall 32' och 'Lastkapacitet 20 kg' korrekt utelämnade. Maxvikt 130 kg ordagrant."
+ },
+ {
+  "nr": 10174,
+  "id": "10673179525386",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Källan 'elliptiska träningscykeln'; productType Crosstrainers. Effektområde och appar enligt tillverkaren. Maxvikt 130 kg ordagrant."
+ },
+ {
+  "nr": 10175,
+  "id": "10673179623690",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Data ordagrant; maxvikt 150 kg ordagrant. Obs: mått 158 x 65 x 185 cm är identiska med 10173 CrossPace 7.0 (vikt skiljer, 66/75 kg); motsäger inte egen källa – fråga till David."
+ },
+ {
+  "nr": 10158,
+  "id": "10656691257610",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Avvisning bekräftas. Live-texten beskriver en roddmaskin ('professionell roddmaskin', 'roddrörelse') medan titel, tagg Crosstrainer, steglängd 46 cm och EMS-broms pekar på en elliptisk maskin (BH Movemia ER1000R är sannolikt en bakhjulsdriven crosstrainer och 'roddmaskin' en felöversättning). Kan varken skrivas som crosstrainer (motsäger källtexten) eller som roddmaskin (byter produkttyp, motsäger titel/data). Dessutom samma SKU ER1000R19 och pris som 10165."
+ },
+ {
+  "nr": 10165,
+  "id": "10656691290378",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Avvisning bekräftas av samma skäl; dubblett av 10158 (SKU ER1000R19, samma text med små ordvariationer)."
+ }
+]
