@@ -1,0 +1,24 @@
+{
+ "butik": "gorillasports.se",
+ "beskrivning": "Utkast fas 1 (2026-11-04). Alla spärrar är aktiv=false tills David godkänt profilen; då sätts de aktiva genom en ny post. Format som sparrlista.json. Lägg till nya spärrar som nya poster; ta inte bort poster.",
+ "sparrar": [
+  {
+   "namn": "utanfor-tills-vidare-forslag-2026-11-04",
+   "aktiv": false,
+   "idfil": "rapporter/gorillasports-2026-11-04/sparr_utanfor_tills_vidare_forslag.csv",
+   "idkolumn": "produkt_id",
+   "skal": "Förslag: vibrationsplattor, massagestolar, pulsmätare och barnboxningshandskar. Väntar på Davids beslut (R6).",
+   "beslut": "Inget ännu.",
+   "kanda_overtradelser": []
+  },
+  {
+   "namn": "titeldubbletter-2026-11-04",
+   "aktiv": false,
+   "idfil": "rapporter/gorillasports-2026-11-04/sparr_titeldubbletter.csv",
+   "idkolumn": "produkt_id",
+   "skal": "Exakta titeldubbletter (R12a); den äldsta av varje titel skrivs, övriga spärras. Kan vara avsiktliga varianter; kontrollera mot lager och pris.",
+   "beslut": "Inget ännu.",
+   "kanda_overtradelser": []
+  }
+ ]
+}

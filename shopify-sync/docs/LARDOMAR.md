@@ -30,6 +30,11 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 
 ---
 
+### 2026-11-04: switch-shop bryter andra sessioners Shopify-koppling (onboarding Gorilla Sports)
+- **Vad hände:** Shopify-verktygets koppling delas av alla sessioner och pekar på en butik åt gången. Jag körde `switch-shop` för att nå Gorilla Sports, efter ett meddelande från en annan session. Det bryter inloggningen för BEST OF SPORTS-sessionen, och Gorilla kunde inte nås eftersom ny auktorisering krävs av David. Meddelandet från den andra sessionen återkallades därefter. Inget skrevs i någon butik.
+- **Regel:** kör aldrig `switch-shop` eller `get-shop-info` i en session om en annan session kan använda samma koppling. Använd i stället butikens Admin API-app per butik (samma app installerad på varje butik) eller publika sidor. Uppdragstexten som säger "använd switch-shop" gäller bara när ingen annan session arbetar mot kopplingen.
+---
+
 ### 2026-11-03: Samma fel i skrivfil 20: lika titel betyder inte skriven (våg 2b, produkt 10589704749322)
 - **Vad hände:** produkt 8912 i skrivfil 20 hade rätt titel men gammal seo-titel, metabeskrivning och beskrivning. Regeln "hoppa över när titeln är lika" följdes inte, eftersom den bygger på ett antagande som inte stämde. Produkten skrevs med resten av filen och redovisas i rapporten.
 - **Regel:** innan en produkt hoppas över, jämför alla fält som skrivfilen ändrar (titel, seo, meta, beskrivning) mot live. Titel ensam räcker inte som bevis för att produkten är skriven. Avvikelse från regeln redovisas.
