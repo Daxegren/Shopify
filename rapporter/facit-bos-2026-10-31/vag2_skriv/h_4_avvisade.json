@@ -1,0 +1,12 @@
+[
+ {
+  "id": "10462784880906",
+  "nr": 10513,
+  "skäl": "R3: titeln anger färg och storlek (65 cm, Blå) men produkten har två varianter med olika pris (blue 199 kr, 'blue (U345)' 219 kr; SKU 14TUSFU344/345). Källan skiljer inte varianterna åt, så titel och spec kan inte låsas. Kräver beslut om varianterna."
+ },
+ {
+  "id": "10462774690058",
+  "nr": 10525,
+  "skäl": "R3: titeln anger 125 cm men produkten har två varianter med mycket olika pris (2119 kr och 789 kr; SKU 14TUSGA006/14TUSGA005) vars namn är bara SKU. Källan beskriver bara hoppytan och en användarvikt, och säger inget om vad varianterna är. Taggen Gymstick rörs inte."
+ }
+]
