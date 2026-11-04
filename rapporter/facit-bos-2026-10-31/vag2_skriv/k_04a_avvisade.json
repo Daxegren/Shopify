@@ -1,0 +1,37 @@
+[
+ {
+  "id": "10475432476938",
+  "nr": 9312,
+  "skäl": "Dubblett (R12a) av redan skriven aktiv produkt 10472255455498 (nr 9050, \"Framlampa AXA Compact Line Battery 20, USB\", texter-klara): samma modell (Compactline Front 20 lux, 12 h, 40 m, USB). Går inte att ge unik titel utan påhittad skillnad."
+ },
+ {
+  "id": "10472235663626",
+  "nr": 9314,
+  "skäl": "R3/R2: titeln säger Greenline Set 15 Lux men källtexten beskriver \"AXA Compactline Set 15 Lux\" (annan produktlinje) och har ett trasigt andra avsnitt med motsägande värden (brinntid 6 h / 4 h, laddning 2 h / 1,5 h, räckvidd 35 m / 300 m, \"USB-ficklampa\"). Produktidentiteten går inte att skriva säkert. Tidigare underkänd (b_51, nr 9048)."
+ },
+ {
+  "id": "10472232943882",
+  "nr": 9315,
+  "skäl": "Dubblett (R12a) av redan skriven aktiv produkt 10475622400266 (nr 9060, \"Ljussats AXA Niteline 44-R, USB\", texter-klara): samma modell Niteline 44-R."
+ },
+ {
+  "id": "10665226830090",
+  "nr": 9316,
+  "skäl": "Ren synlighetsprodukt (\"bärbar säkerhetslampa\" för synlighet och säkerhet, tillsammans med reflexbälte/reflexväst, att fästa bland annat på barnvagn) utan lumen, batteri eller brinntid. Synlighetslöften hanteras som säkerhetsprodukter (standard §12). Tidigare underkänd (b_51, nr 9070); inga nya uppgifter."
+ },
+ {
+  "id": "10472227209482",
+  "nr": 9320,
+  "skäl": "Färgen väljs i kommentarsfältet vid beställning, annars slumpas den (OBS-rad i källan). Beskrivningen kan inte ersättas utan att instruktionen försvinner, och hur färgval ska hanteras (variant eller text) är inte beslutat. Källan är i övrigt tunn (1 LED, 2 lägen, batteridrivet). Tidigare underkänd (b_51, nr 9041); David avgör."
+ },
+ {
+  "id": "10515754516746",
+  "nr": 9321,
+  "skäl": "R6: sparkcykel för barn (\"Lämplig för åldrarna 4–7 år\", max belastning 70 kg). Barnprodukt, utanfor_tills_vidare. Hör inte heller till belysning."
+ },
+ {
+  "id": "10472250179850",
+  "nr": 9323,
+  "skäl": "R12a/R3: elcykel (hör till grupp 01, felaktigt taggad Cykelbelysning, taggar får inte röras). Färgen \"Ljusgrå\" kan vara samma som redan skrivna Pebble Grey (10471090749706) eller Willow Mist (10507703124234), som båda har varianten \"gray\"; denna har en enda variant (Default Title, SKU TEB6P1540003, 31 799 kr) medan källan listar ramstorlekarna S–XL. Kan inte skiljas från dubblett utan beslut."
+ }
+]
