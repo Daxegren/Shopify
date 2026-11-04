@@ -1,0 +1,37 @@
+[
+ {
+  "id": "10462794776842",
+  "nr": 10307,
+  "skäl": "Titeln anger röd (3.0 kg), men produkten har 3 varianter (Red, blue, green) med olika pris (339, 449, 249 kr) och källan säger inget om färg eller vikt per variant. Titeln stämmer inte med produkten."
+ },
+ {
+  "id": "10471139213578",
+  "nr": 10311,
+  "skäl": "Titeln anger 12,8–45,5 kg och \"Justerbar hantel\", men källan anger vikter 12,7–45,3 kg och beskriver ett skivstångsset (rak och EZ-stång, bas). Motsägande uppgifter om vikt och typ; längdraderna är också motstridiga (högsta och tyngsta vikt). Går inte att skriva säkert."
+ },
+ {
+  "id": "10472298086666",
+  "nr": 10316,
+  "skäl": "Titeln anger skruvar för extra vikter till hantlar, men källan beskriver tillbehör till Tunturi Rapid skivstång eller kettlebell. Motsägande kompatibilitet och fästdelar som bär last; går inte att skriva säkert utan Davids beslut."
+ },
+ {
+  "id": "10472289861898",
+  "nr": 10317,
+  "skäl": "Två varianter (14TUSCL454 och 14TUSCL455) med olika pris (639 och 1 479 kr) och oförklarade namn; titeln säger 20 kg. Källan är motsägande (4 x 1,5 kg \"med 1,5 kg kapacitet\", mått \"114 x 114 cm - 114,5 cm\", viktsumman stämmer inte med 20 kg). Går inte att skriva säkert."
+ },
+ {
+  "id": "10650210468106",
+  "nr": 10321,
+  "skäl": "Titeln anger 4 kg, men produkten har två varianter (17360 till 409 kr och 17368 till 1 949 kr) med oförklarade namn och olika pris. Källan anger bara ett viktintervall 4–24 kg. Titeln stämmer inte med produkten."
+ },
+ {
+  "id": "10472325349642",
+  "nr": 10322,
+  "skäl": "Titeln anger 22 kg, men produkten har två varianter med samma SKU 17367 och olika pris (1 879 och 1 639 kr). Källan nämner ingen vikt förutom intervallet 4–24 kg. Titeln stämmer inte med produkten."
+ },
+ {
+  "id": "10411923276042",
+  "nr": 10323,
+  "skäl": "Titeln anger 12 kg, men produkten har tre varianter (AKCA-10, AKCA-12, AKCA-14) med olika pris (779, 1 609, 1 789 kr). Källan nämner ingen vikt. Titeln stämmer inte med produkten."
+ }
+]
