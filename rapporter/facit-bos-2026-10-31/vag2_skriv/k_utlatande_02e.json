@@ -1,0 +1,129 @@
+[
+ {
+  "nr": 9201,
+  "id": "10472332919050",
+  "fil": "k_02e_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart i egen källa: mountainbike för damer, 27,5-tumshjul, aluminium, 21 växlar, mekaniska skivbromsar, däck 27,5 x 2.1\" (ren rad med etikett). En variant (Default Title); ramstorlek, 'Hjulvikt ca 15 kg' och den trasiga 2.1/2.5-raden rätt utelämnade. Färg från live-titeln (godtas). Obs: butiken har en andra aktiv 'Damcykel ROMET Jolene 7.1, 27.5\" vit-blå' (10507442946314, SKU 27190282-B, 7 529 kr, ej i någon batch, renare källa). Samma modell och färg: den avvisas som dubblett när den kommer (R12a), alternativt väljer koordinatorn den i stället."
+ },
+ {
+  "nr": 9202,
+  "id": "10472294580490",
+  "fil": "k_02e_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt står i källan: hybridcykel för damer, aluminium, Shimano Altus, 21 växlar, mekaniska skivbromsar, cykelns vikt 13,7 kg, fästpunkter för stänkskärmar och andra tillbehör. Ramstorlek M (Default Title) och 'snabb, exakt, alla typer av terräng' rätt utelämnade."
+ },
+ {
+  "nr": 9203,
+  "id": "10494855971082",
+  "fil": "k_02e_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Variant S / purple stöder både lila och ramstorlek S (R3 v1.5: bara S nämns). 63 mm dämpad gaffel, 28\", 42 mm, Tourney/Acera, 21, V-bromsar, 14,5 kg, fästpunkter: allt i källan. Inte dubblett av skrivna Orkan D 'Vit och Lila' (10462192173322: annan färg, SKU 28190089-A, 8 239 kr, Tourney/Altus)."
+ },
+ {
+  "nr": 9210,
+  "id": "10472294514954",
+  "fil": "k_02e_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Källan (aluminium, 28\", 21 växlar, Tourney/Altus, V-bromsar, 17 kg, stänkskärmar/ljus/pakethållare/stöd/kedjeskydd ingår) stämmer. 'Wagant 0' i löptexten är kopierad från Wagant 0-texten (10472332230922 har ordagrant samma stycke); texten använder bara live-titelns 'Wagant' och påstår inget modellnummer, vilket är rätt (R1/R2). Färg från live-titeln. Ingen krock: skrivna Wagant 0 är grågrön/turkos-guld."
+ },
+ {
+  "nr": 9211,
+  "id": "10471091470602",
+  "fil": "k_02e_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Källan: hopfällbar, 24\", aluminium, Shimano Nexus, 3 växlar, V-bromsar. 'Hjulvikt 15,8 kg' och ramstorlek rätt utelämnade. SEO-titel utan färg godtas: med ', Grön' blir den 44 tecken (>43), R12 säger märket kvar om det ryms, och butiken har ingen annan Jubilat Classic (sökning title:*Jubilat* ger bara denna och två Jubilat ECO med färg i SEO-titeln), så ingen SEO-krock."
+ },
+ {
+  "nr": 9214,
+  "id": "10472281932042",
+  "fil": "k_02e_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "21 växlar med Shimano Acera och 42 mm däck",
+    "efter": "21 växlar, Shimano Acera-bakväxel och 42 mm däck"
+   }
+  },
+  "skal": "Källan stämmer (aluminium 6061, 28\", 42 mm, 63 mm fjädringsväg, FD-TY510, Acera RD-M310, 21, 14,5 kg, fästpunkter, Färg: svart). Rättning: metan '21 växlar med Shimano Acera' låter som en hel Acera-grupp; bara bakväxeln är Acera (framväxeln FD-TY510 är Tourney). Inte dubblett av skrivna Orkan M Grå och Röd (10656692175114)."
+ },
+ {
+  "nr": 9224,
+  "id": "10515741245706",
+  "fil": "k_02e_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Scooter SOKE City",
+    "efter": "Sparkcykel SOKE City"
+   },
+   "seo_title": {
+    "fore": "Scooter SOKE City",
+    "efter": "Sparkcykel SOKE City"
+   },
+   "meta": {
+    "fore": "turkos scooter med",
+    "efter": "turkos sparkcykel med"
+   },
+   "html_1": {
+    "fore": "turkos scooter med aluminiumram",
+    "efter": "turkos sparkcykel med aluminiumram"
+   },
+   "html_2": {
+    "fore": "och scootern har ett viksystem",
+    "efter": "och sparkcykeln har ett viksystem"
+   },
+   "html_3": {
+    "fore": "<li>Dig som vill ha en scooter med justerbar styrhöjd</li>\n<li>Dig som vill ha en scooter med viksystem och axelrem</li>\n<li>Dig som vill ha en scooter som väger",
+    "efter": "<li>Dig som vill ha en sparkcykel med justerbar styrhöjd</li>\n<li>Dig som vill ha en sparkcykel med viksystem och axelrem</li>\n<li>Dig som vill ha en sparkcykel som väger"
+   },
+   "html_4": {
+    "fore": "<li>Typ: Scooter</li>",
+    "efter": "<li>Typ: Sparkcykel</li>"
+   },
+   "html_5": {
+    "fore": "Maximal ryttarbelastning: 100 kg",
+    "efter": "Maximal belastning: 100 kg"
+   }
+  },
+  "skal": "Fakta stämmer (88/93/98 cm justerbar styrhöjd, viksystem, axelrem, ram och klämma i aluminium, 200x30 mm, 88A, ABEC-9, 3,96 kg, 100 kg). Typord: 'scooter' betyder på svenska normalt moped; samma fråga avgjordes i vag2b_utlatande_49_50 (SOKE EVO m.fl.): scooter ersätts med sparkcykel i alla fält, som produkttypen/taggen Sparkcyklar och alla redan skrivna SOKE-texter (b_skriv_23). Engelska 'scooter' har entydig översättning i butikens live-ord (R7). Märket: 'SOKE' behålls som i ~20 redan skrivna SOKE-texter och live-titlar/tagg; R8 (Soke) skulle splittra märkesfamiljen, se beslut i utlåtandet. 'Ryttarbelastning' är maskinöversatt ordval; etiketten kortas till 'Maximal belastning' (samma värde och enhet, en gång, 'enligt tillverkaren'). 'Unga och vuxna', 100 kg och 88–98 cm: inte barnprodukt (R6). Broms, 'lins' och 'garanterar' rätt utelämnade."
+ },
+ {
+  "nr": 9225,
+  "id": "10572593824010",
+  "fil": "k_02e_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Scooter SOKE City",
+    "efter": "Sparkcykel SOKE City"
+   },
+   "seo_title": {
+    "fore": "Scooter SOKE City",
+    "efter": "Sparkcykel SOKE City"
+   },
+   "meta": {
+    "fore": "SOKE City är en grå stadsscooter med 200 mm hjul och en vikt på 3,9 kg. Maximal belastning 100 kg enligt tillverkaren.",
+    "efter": "SOKE City är en grå sparkcykel för stadskörning med 200 mm hjul och en vikt på 3,9 kg."
+   },
+   "html_1": {
+    "fore": "grå stadsscooter med 200 mm hjul. Scootern väger",
+    "efter": "grå sparkcykel för stadskörning med 200 mm hjul. Sparkcykeln väger"
+   },
+   "html_2": {
+    "fore": "<li>Dig som vill ha en stadsscooter med 200 mm hjul</li>\n<li>Dig som vill ha en scooter som väger",
+    "efter": "<li>Dig som vill ha en sparkcykel för stadskörning med 200 mm hjul</li>\n<li>Dig som vill ha en sparkcykel som väger"
+   },
+   "html_3": {
+    "fore": "<li>Typ: Scooter</li>",
+    "efter": "<li>Typ: Sparkcykel</li>"
+   }
+  },
+  "skal": "Tunn men tillräcklig källa (R3: 200 mm, 3,9 kg, 100 kg utöver titeln). Typord scooter → sparkcykel av samma skäl som 9224 ('stadsscooter' → 'sparkcykel för stadskörning', källan: 'designad för stadskörning'). Meta: lastgränsen stod både i meta och specifikation; den står nu en gång (specifikationen, 'enligt tillverkaren'), som praxis i vag2b_utlatande_49_50. Ny meta 85 tecken (≥70, R12). Förarhöjd, 'halkfria', 'lätt och hållbar' rätt utelämnade. Inte dubblett av 9224: annan färg, SKU och källa."
+ }
+]

@@ -1,0 +1,121 @@
+[
+ {
+  "nr": 9151,
+  "id": "10469226316042",
+  "fil": "k_02c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Antal växlar: 12</li>",
+    "efter": "<li>Växelreglage: SRAM NX Eagle</li>\n<li>Antal växlar: 12</li>"
+   }
+  },
+  "skal": "Spårbart (Kona 6061 butted 153 mm, Lyrik Select RC Charger DebonAir 160 mm, Super Deluxe Select Plus Trunnion, 12 växlar, G2 RS hydrauliska, Centerline 200/180 mm, Assegai 29 x 2,5, DHR II 29 x 2,4 med 27,5 i S). S, M, L och XL säljs som varianter (R3 v1.5), alla green till samma pris; Gloss Jade (grön) stöds av varianterna. Taggen På beställning finns och meningen finns. Rättning enligt R1 v1.6: källans egen rad 'Gear Shift: SRAM NX-Eagle' får stå, eftersom NX Eagle bara finns kabelstyrd (mekanisk) och modellens spec anger NX Eagle-reglage och GX Eagle-bakväxel utan AXS. Webbkällor: https://www.bike-components.de/en/SRAM/NX-Eagle-Shifter-12-Speed-p65010/ (reglage med växelvajer 2200 mm), https://www.vitalmtb.com/product/guide/bikes/kona/process-153-56176 och https://99spokes.com/bikes/kona/2025/process-153-dl. Att utelämna namnet var också säkert; rättningen är valfri om koordinatorn föredrar det."
+ },
+ {
+  "nr": 9152,
+  "id": "10411716837642",
+  "fil": "k_02c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (Race Light 6061 butted, Recon Silver RL Solo Air 100 mm, WTB ST i27, Prowheel 12, Deore 12, MT410 180/160 mm, Forekaster 29 x 2,35, interna kablar, fästpunkter). En variant, så inga ramstorlekar nämns (rätt). Live-titeln har 'Gloss Kiwi (Grön)'; att '(Grön)' utelämnas är godtagbart. Shimano Deore 12 finns bara mekanisk. Ingen tagg På beställning och ingen mening (R13)."
+ },
+ {
+  "nr": 9154,
+  "id": "10589713531146",
+  "fil": "k_02c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Bakdämpare: RockShox Vivid Coil Base, 205 x 62,5 mm</li>\n<li>Antal växlar: 7</li>",
+    "efter": "<li>Bakdämpare: RockShox Vivid Coil Base R, 205 x 62,5 mm</li>\n<li>Växelsystem: SRAM GX DH</li>\n<li>Antal växlar: 7</li>"
+   }
+  },
+  "skal": "Spårbart (6061 butted 162 mm, Boxxer Select 190 mm 29 tum, DB6 4-kolvs hydrauliska, Assegai 29 x 2,5 och DHR II 27,5 x 2,4 DH MaxxGrip, fästpunkter, 'designad för utförsåkare'). Trasiga ramstorleksrader (S och M båda 38 cm) och fjäderstyrkor rätt utelämnade. Rättning 1: källan skriver 'Vivid Coil Base R', utkastet tappade 'R' (modellnamnet). Rättning 2 (R1 v1.6): 'Växelsystem: SRAM GX DH' står i egen källa; GX DH 7-växlad finns bara kabelstyrd (X-Actuation, ingen AXS-version), och Process X med GX DH 7 växlar och DB6 matchar källan. Webbkällor: https://www.vitalmtb.com/product/guide/bikes/kona/process-x-77461 och https://www.rosebikes.com/p/sram-gx-dh-7-speed-rear-derailleur-2700008. Färgen bara i titeln (live-titeln har '(Grå)'), en variant: godtas. Taggen På beställning och meningen finns."
+ },
+ {
+  "nr": 9155,
+  "id": "10588448030986",
+  "fil": "k_02c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (Reynolds 520 Butted Cromoly, Kona Plus Fork, stel gaffel enligt löptexten, Deore 12, MT410 hydrauliska, Rekon TR eller WTB Ranger 29 x 2,6, modulära dropouts/singlespeed, fästpunkter). Deore är mekanisk. Ramstorlekar rätt utelämnade (en variant). Källans gamla ⏳-mening ersatt av standardmeningen; taggen finns. Typordet Mountainbike behålls (live-ordet, R7)."
+ },
+ {
+  "nr": 9156,
+  "id": "10507441963274",
+  "fil": "k_02c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (ALUXX, upprätt sittställning, SR Suntour NEX HLO 63 mm, Cues 18, MT200 hydrauliska, 700C, P-X3 700x45C, Ingår-raden). Live-titeln och källan ('hybridcykel för damer') stöder Damcykel. Färgen Stealth Chrome står bara i titeln, en variant: godtas på samma nivå som tidigare batcher. Ingen tagg och ingen mening."
+ },
+ {
+  "nr": 9158,
+  "id": "10470937002250",
+  "fil": "k_02c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (låg ALUXX-ram, främre stötdämpare, stötdämpande sadelstolpe, fjäderbelastad sadel, CR7V T40 40 mm, Tourney TY710, Altus M310, V-bromsar, Kenda K-192 700x38c max 40 mm). Maskinöversatta rader rätt utelämnade. Dubblett: 10472269840650 har samma titel och modell/färg (SKU 2200206114 mot 2200206113, samma pris) men är inte skriven (inga SEO-fält, ingen texter-klara) och står i spärren titeldubbletter; 9158 är den som enligt spärrlogiken ska skrivas (R12a). Sammanslagningen är ett beslut för David. Taggen På beställning finns bara på 9158, och meningen finns."
+ },
+ {
+  "nr": 9160,
+  "id": "10462752669962",
+  "fil": "k_02c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (ALUXX, SR Suntour XCM 100 mm med stålstyrrör, Altus, Tektro HDC TKD 149 hydrauliska, Kenda Booster 27,5 x 2,2). Damcykel är produktens eget live-ord och källan säger 'damcykel' (R7: varje produkt behåller sitt live-ord, även om Tempt 3 skrevs som Mountainbike). Två varianter M och S, båda green och samma pris; inga storlekar nämns (rätt). Ocean Wave (grön) stöds av varianterna. Titelformen 'i Ocean Wave, 27,5 tum' avviker från batchens mönster men behövs: '27,5' räknas som kommatecken, och mönstret 'Tempt 2, 27,5 tum, Ocean Wave' ger 3 (R12, testat med skrivfil_kontroll.py)."
+ },
+ {
+  "nr": 9161,
+  "id": "10462752833802",
+  "fil": "k_02c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (ALUXX, SR Suntour XCE 100 mm, microSHIFT FD-M282, Altus M310, TKB-172 mekaniska 160 mm, Kenda Booster 27,5 x 2,2 max 2,4). 'Rotorer' = bromsskivor är entydigt. Damcykel är live-ordet (R7). Färgen bara i titeln, en variant: godtas. Taggen På beställning och meningen finns. Titelformen som 9160 (R12, kommatecken)."
+ },
+ {
+  "nr": 9165,
+  "id": "10494689345802",
+  "fil": "k_02c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (komposit, Q-faktor 63 mm, vulkaniserat gummi, Look Activ Grip från Vibram, platta pedaler, 107 x 103 mm). Vikten 265 g är rätt utelämnad: källan säger inte om den gäller en pedal eller paret, och 9166:s 'pedal 265g, par 530g' är syskondata (R1). Färgen Camo bara i titeln, en variant: godtas."
+ },
+ {
+  "nr": 9166,
+  "id": "10461951197450",
+  "fil": "k_02c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (komposit, 63 mm, vulkaniserat gummi och kompositspikar, Activ Grip från Vibram, 107 x 103 mm, 265 g per pedal och 530 g per par). 'Pedals' till 'Pedaler' är entydig översättning och butikens eget live-ord (9165), R7. LOOK till Look (R8)."
+ },
+ {
+  "nr": 9173,
+  "id": "10523488289034",
+  "fil": "k_02c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Bromsar: Shimano BR-MT200, skivbromsar</li>",
+    "efter": "<li>Bromsar: Skivbromsar</li>"
+   }
+  },
+  "skal": "Spårbart (damcykel för touring, aluminium, Alivio/Altus, 21 växlar, 18,2 kg, stänkskärmar, pakethållare, justerbart styre, Ingår-raden). Damcykel stöds av källans 'Designad som en damcykel' (R7). Rättning (R2): källan säger 'mekaniska skivbromsar' i löptexten och 'Shimano BR-MT200, hydrauliska' i specifikationen. BR-MT200 är en hydraulisk modell, så modellnamnet tar ställning i motsägelsen; bara 'skivbromsar' är entydigt. Webbkoll (R1 v1.6): https://www.centrumrowerowe.pl/rower-trekkingowy-damski-romet-gazela-8-pd25788/ anger hydrauliska, men samma sida anger 9-växlad kassett, alltså troligen annan årsmodell än källans 21 växlar; gäller inte entydigt exakt denna modell, så den avgör inte."
+ },
+ {
+  "nr": 9174,
+  "id": "10472332787978",
+  "fil": "k_02c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (lägre ram, aluminium, 26-tums dubbelväggiga fälgar, framdämpare, 21 växlar, Tourney TY300/TY300D, 14,5 kg, fästpunkter). Ursprung (EU/Polen) och oklar 'framskärm' rätt utelämnade (R5, R2). Damcykel ur källan (R7). Ramstorlekar rätt utelämnade (en variant)."
+ },
+ {
+  "nr": 9175,
+  "id": "10472334393610",
+  "fil": "k_02c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (aluminiumram, sadelstolpe och styre, 26-tumsdäck, fjädring fram, Tourney, 21 växlar, mekaniska skivbromsar, Deestone D-213 26 x 2,1, 14,6 kg). Ramstorlek M: live-titeln säger '17\" M', källan listar bara M (17\") och produkten har en enda variant, så M motsägs inte och ingen annan storlek nämns (R3 v1.5). Mountainbike ur källan (R7). Källan säger 'designad för unga och kvinnor'; ramen gäller 155–170 cm, så den räknas inte som barncykel, men se beslut 3."
+ }
+]
