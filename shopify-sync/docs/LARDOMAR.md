@@ -188,3 +188,7 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 ## 2026-11-04: Mät innan du automatiserar – antagandet 'mest format' stämde inte
 - Vad hände: jag trodde att de flesta granskningsrättningar gällde format. Mätningen (`mat_utbyte.py`, 1 656 utkast) visade 12 % format och 88 % innehåll. Det nya testet för cirkulära inledningar hittade två fel som både utkastare och Opus-granskare missat (10290, 10291).
 - Regel: räkna fynden per typ före varje beslut om vad som ska automatiseras eller minskas. Lägg varje återkommande innehållsfynd som test i `skrivfil_kontroll.py` så fort det går att uttrycka som regel.
+
+## 2026-11-04: Shopify-verktygets koppling delas mellan sessioner och pekar på en butik åt gången
+- Vad hände: Sju nya sessioner startades parallellt för olika butiker. Flera körde `switch-shop`, vilket återkallade åtkomsten till BEST OF SPORTS för den delade kopplingen och krävde ny inloggning av David vid varje butiksbyte. Parallella sessioner via verktyget går därför inte.
+- Regel: Läs och skriv butiker via Admin API med en app per organisation (token hämtas i minnet per körning, adress per butik), inte via Shopify-verktygets `switch-shop`. Verktyget duger för en butik i en session, aldrig för flera parallellt. Starta aldrig flera butikssessioner innan åtkomsten per butik är ordnad.
