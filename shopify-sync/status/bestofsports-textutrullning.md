@@ -26,7 +26,7 @@ Regler: `shopify-sync/regler/regler-v1.md`. Beslut: `shopify-sync/docs/BESLUTSLO
 | g_1 | 25 | 23 | 2 | 15/7/1 | 22 | skriven |
 | g_2 | 25 | 22 | 3 | 11/11/3 | 22 | skriven |
 | g_3 | 25 | 11 | 14 | 4/2/5 | 6 | skriven |
-| g_4 | 12 | 7 | 5 |  |  | utkast |
+| g_4 | 12 | 7 | 5 | 5/2/0 | 7 | skrivfil |
 | h_1 | 25 | 25 | 0 | 20/5/0 | 25 | skriven |
 | h_2 | 25 | 25 | 0 | 16/9/0 | 25 | skriven |
 | h_3 | 25 | 24 | 1 | 11/12/1 | 23 | skriven |
@@ -48,3 +48,4 @@ Steg: in → utkast → granskad → skrivfil → skriven (skrivrapport finns). 
 - F8 (2026-11-04): CLAUDE.md: ok att lägga in en kort rad som pekar på regelbok, beslutslogg och profil så de läses vid start?
 - F9 (2026-11-04): Elektronik som pulsband och vågar: tillåtet som ren teknisk fakta, eller utanför? Kroppsanalysvågar (hälsoparametrar) ligger nu utanför. Typordet Träningshjul (10502 live, Exercise wheel) är inte godkänt i profilen: godkänn eller byt
 - F10 (2026-11-04): Cirka 30 skrivna fitnessprodukter har meta som slutar med utfyllnaden 'Finns hos BEST OF SPORTS.' fast metan redan är över 70 tecken. Rensa den i ett svep när API-vägen finns (enkel textersättning)?
+- F11 (2026-11-04): Svettdräkter (t.ex. Sauna Smoke 10599): skrivs idag som ren fakta utan löften om svettning/viktminskning. Okej, eller utanför? Även: produkter som bär kroppsvikt men saknar lastgräns (speedball, balansredskap): säkerhetsprodukter eller inte?

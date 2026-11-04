@@ -1,0 +1,65 @@
+[
+ {
+  "nr": 10591,
+  "id": "10472238547210",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typordet Träningsgummiband står i källtexten ('träningsgummiband', 'Stretchgummibandet') (R7). Mått 64 x 5,8 x 0,2 cm, motstånd 4–6 kg, 40 g, 70 % polyester/30 % bomull, latexfritt insytt band, maskintvätt 30 grader och ej torktumla/stryka stämmer. Ljusgul = live-titelns Light yellow (säker översättning). 'Glider inte på fötterna' en gång som enligt tillverkaren. Högkvalitativ, okrossbar, hållning, skaderisk, hudvänlig och halkfria silikonribbor rätt utelämnade (R5)."
+ },
+ {
+  "nr": 10595,
+  "id": "10472203321610",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Vikt 4,5 kg, innehållet (2 huvudlinor med 10 D-ringar av metall var, 2 handtag, 2 benremmar, 2 ringar), träningsplan, bärväska, fullt justerbar och ankarlina stämmer. Motsägande färg (Svart-röd / Svart/vit) och material (EVA / PVC) rätt utelämnade (R2), liksom vattenkokare och ankelförare. Anmärkning: produkten bär kroppsvikt och källan saknar lastgräns; fästet vid dörr/träd/stång står en gång som enligt tillverkaren och inget säkerhetsord används. Kategorin står inte under utanfor_tills_vidare."
+ },
+ {
+  "nr": 10599,
+  "id": "10411585175818",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": ", ett svettkit,",
+    "efter": ""
+   }
+  },
+  "skal": "Svettdräkt står i källan ('Tunturi-svettdräkt'). Kategorin finns inte under utanfor_tills_vidare, så R6 gäller inte formellt; källans hälso-/viktminskningspåståenden (svettning, avfall, gå ner ett kilo) är rätt utelämnade (R5) och texten påstår ingen effekt. Att svettdräkter ska skrivas alls är ett M-beslut för David; prejudikat finns: den arkiverade syskonprodukten 10472258535690 (SKU 14TUSFU300) är skriven och har texter-klara. Färgen rätt utelämnad: Färg grå i texten men varianterna heter L / black och XL / black (R2). 403 g står bredvid produktkod 14TUSFU298 (= L) och är rätt utelämnad. Två varianter till samma pris (179), så 'L och XL' i SEO-titeln låser ingen variant och skiljer den från den arkiverade syskonens SEO-titel; godtas. Fakta utöver titeln: syntetiskt, tvättbart/sköljs av, fukttransporterande, storlekar (R3 uppfylld). Rättning: dubbelbenämningen ', ett svettkit,' i första meningen är språkligt klumpig och onödig."
+ },
+ {
+  "nr": 10612,
+  "id": "10541114491146",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Tunturi Free Standing Speedball är en fristående speedball.",
+    "efter": "Tunturi Free Standing Speedball har en fjäder och sand som fotmaterial."
+   },
+   "meta": {
+    "fore": "med fjäder och ett fotmaterial av sand",
+    "efter": "med fjäder och sand som fotmaterial"
+   }
+  },
+  "skal": "Omskrivningen av den trasiga live-titeln ('Boxningssäck TUNTURI Speedball är ett stativ') är rätt: källan säger Tunturi Free Standing Speedball, och Speedball är källans eget ord (R7). 5,5 kg, PP/PU/stål, fotmaterial sand och fjädern som gör att bollen rör sig i alla riktningar stämmer. Mått (PK) 50 x 128–158 cm rätt utelämnat (oklart vad det avser, R2). Stark, hållbar, autentisk rätt utelämnade (R5). Rättning: första meningen i html är cirkulär ('Free Standing Speedball är en fristående speedball', R11); meta efter rättning 150 tecken. Live-titeln innehöll typordet Boxningssäck, som är fel för produkten."
+ },
+ {
+  "nr": 10613,
+  "id": "10475982520586",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Speedballpivot stöds av källan: 'Speedball-pivoten är länken mellan boxbollen och speedballplattformen', 'pivotaxel', 'vridplattan på speedballplattformen'. Live-ordet Boxningssäcksfäste är fel (det är inget fäste för boxningssäck), så bytet är riktigt (R7). Mått L 7 x B 7 x H 6 cm, 358 g, grå, krom, kullager och fyra skruvar stämmer. 'Rör sig smidigt och tyst' och 'lämplig för alla boxnings- eller speedbollar' står ordagrant och en gång som enligt tillverkaren. Skadeformuleringen, robusta och 'enkelt och säkert' rätt utelämnade (R5). Det äldre a_4-utkastet (nr 2411, med FAQ och produktkod) har inte återanvänts: titel, meta, Passar för och specifikationer är nyskrivna och ingen FAQ finns (R15)."
+ },
+ {
+  "nr": 10615,
+  "id": "10475981865226",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "243 g, polyuretan, justerbar med kardborreband, mjuk vaddering och unisex stämmer. Skyddsuppgiften (ansikte, bakhuvud, kinder, haka, öron) står ordagrant och en gång som enligt tillverkaren; utmärkt skydd/sikt och komfort rätt utelämnade (R5). S/M står bara i titeln men produkten har en variant, och S/M och L/XL är separata produkter med olika pris (619/639). Anmärkning: 'för boxning' kommer från produkttypen Boxningsutrustning, inte från leverantörstexten ('krävande sporter'); godtas eftersom det är produktens egen klassning, men se oklarheter."
+ },
+ {
+  "nr": 10617,
+  "id": "10475982029066",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "257 g, polyuretan, justerbar med kardborreband, mjuk vaddering och unisex stämmer; skyddsuppgiften en gång som enligt tillverkaren (R5). Typordet Skyddshjälm finns i live-titeln och är bara flyttat först (R7). 'För boxning' från produkttyp och taggen Boxning; samma anmärkning som 10615."
+ }
+]

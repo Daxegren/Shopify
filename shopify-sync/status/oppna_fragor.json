@@ -58,5 +58,11 @@
   "datum": "2026-11-04",
   "fraga": "Cirka 30 skrivna fitnessprodukter har meta som slutar med utfyllnaden 'Finns hos BEST OF SPORTS.' fast metan redan är över 70 tecken. Rensa den i ett svep när API-vägen finns (enkel textersättning)?",
   "status": "öppen"
+ },
+ {
+  "id": "F11",
+  "datum": "2026-11-04",
+  "fraga": "Svettdräkter (t.ex. Sauna Smoke 10599): skrivs idag som ren fakta utan löften om svettning/viktminskning. Okej, eller utanför? Även: produkter som bär kroppsvikt men saknar lastgräns (speedball, balansredskap): säkerhetsprodukter eller inte?",
+  "status": "öppen"
  }
 ]
