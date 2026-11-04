@@ -4,14 +4,16 @@
   "id": "10665231417610",
   "dom": "RÄTTA",
   "rattningar": {
-   "html_1": {
-    "fore": "spinningcykel med 10 tum pekskärm, 17",
-    "efter": "spinningcykel med 10-tums pekskärm, 17"
-   },
-   "html_2": {
-    "fore": "<li>Dig som söker en spinningcykel med 10 tum pekskärm</li>",
-    "efter": "<li>Dig som söker en spinningcykel med 10-tums pekskärm</li>"
-   }
+   "html": [
+    {
+     "fore": "spinningcykel med 10 tum pekskärm, 17",
+     "efter": "spinningcykel med 10-tums pekskärm, 17"
+    },
+    {
+     "fore": "<li>Dig som söker en spinningcykel med 10 tum pekskärm</li>",
+     "efter": "<li>Dig som söker en spinningcykel med 10-tums pekskärm</li>"
+    }
+   ]
   },
   "skal": "Grammatik: '10 tum pekskärm' i löptext ska vara '10-tums pekskärm' (live-källan '10 tum, pekskärm' i listform). Fakta stämmer ordagrant (17 program, 32 motståndsnivåer, PMS servomotor, 20 kg, 158 x 53 x 154 cm, 48 kg, maximal användarvikt 135 kg)."
  },
@@ -27,18 +29,20 @@
   "id": "10411848532234",
   "dom": "RÄTTA",
   "rattningar": {
-   "html_1": {
-    "fore": "spinningcykel med 10,1 tum TFT-pekskärm, 16",
-    "efter": "spinningcykel med 10,1-tums TFT-pekskärm, 16"
-   },
-   "html_2": {
-    "fore": "<li>Dig som söker en spinningcykel med 10,1 tum TFT-pekskärm</li>",
-    "efter": "<li>Dig som söker en spinningcykel med 10,1-tums TFT-pekskärm</li>"
-   },
    "meta": {
     "fore": "Hammer Speed Race SR är en spinningcykel med 10,1 tum TFT-pekskärm och 16 träningsprogram. Maximal användarvikt är 150 kg.",
     "efter": "Hammer Speed Race SR är en spinningcykel med 10,1-tums TFT-pekskärm och 16 träningsprogram. Maximal användarvikt är 150 kg."
-   }
+   },
+   "html": [
+    {
+     "fore": "spinningcykel med 10,1 tum TFT-pekskärm, 16",
+     "efter": "spinningcykel med 10,1-tums TFT-pekskärm, 16"
+    },
+    {
+     "fore": "<li>Dig som söker en spinningcykel med 10,1 tum TFT-pekskärm</li>",
+     "efter": "<li>Dig som söker en spinningcykel med 10,1-tums TFT-pekskärm</li>"
+    }
+   ]
   },
   "skal": "Live-källan är pilotens gamla text; utkastet är helt fritt från FAQ, Om märket, 'stabil cykel', 'servostyrd belastning', Tyskland och 'Belastningsintervall: 32'. Rättning: grammatik '10,1 tum TFT-pekskärm' → '10,1-tums TFT-pekskärm' (som live-titeln)."
  },
@@ -134,14 +138,16 @@
   "id": "10665225912586",
   "dom": "RÄTTA",
   "rattningar": {
-   "html": {
-    "fore": "<p>Toorx SRX Speed Mag är en spinningcykel med LCD-skärm, bromssystem av typen PMS, manuell, och svänghjul på 20 kg.</p>",
-    "efter": "<p>Toorx SRX Speed Mag är en spinningcykel med LCD-skärm och svänghjul på 20 kg.</p>"
-   },
    "meta": {
     "fore": "Toorx SRX Speed Mag är en spinningcykel med LCD-skärm och svänghjul på 20 kg. Sadelhöjden är 73–88 cm och bromssystemet PMS, manuell.",
     "efter": "Toorx SRX Speed Mag är en spinningcykel med LCD-skärm och svänghjul på 20 kg. Sadelhöjden är 73–88 cm och produktvikten 42 kg."
-   }
+   },
+   "html": [
+    {
+     "fore": "<p>Toorx SRX Speed Mag är en spinningcykel med LCD-skärm, bromssystem av typen PMS, manuell, och svänghjul på 20 kg.</p>",
+     "efter": "<p>Toorx SRX Speed Mag är en spinningcykel med LCD-skärm och svänghjul på 20 kg.</p>"
+    }
+   ]
   },
   "skal": "Inledningen 'med LCD-skärm, bromssystem av typen PMS, manuell, och svänghjul' är grammatiskt otymplig och metans 'och bromssystemet PMS, manuell' är en ofullständig sats (jfr f_4 10089). Bromssystemet står kvar i specifikationen; metan får i stället produktvikten 42 kg ur källan."
  },
@@ -218,10 +224,12 @@
   "id": "10472249196810",
   "dom": "RÄTTA",
   "rattningar": {
-   "html": {
-    "fore": " 8 svårighetsnivåer. Konsolen drivs av 2 x AA-batterier.</p>",
-    "efter": " 8 svårighetsnivåer.</p>"
-   }
+   "html": [
+    {
+     "fore": " 8 svårighetsnivåer. Konsolen drivs av 2 x AA-batterier.</p>",
+     "efter": " 8 svårighetsnivåer.</p>"
+    }
+   ]
   },
   "skal": "'Konsolen drivs av 2 x AA-batterier' står inte i källan, som bara har 'Strömförsörjning: 2 x AA-batterier' (utan konsolen, till skillnad från FitCycle 20/30). Meningen stryks; specifikationen behåller källans rad. Rehabiliteringscenter och 'Belastning: 4,5 kg' rätt utelämnade."
  },
@@ -237,18 +245,20 @@
   "id": "10472255127818",
   "dom": "RÄTTA",
   "rattningar": {
-   "html_1": {
-    "fore": "<p>Tunturi Cardio Fit E30 är en motionscykel med LCD-skärm, 22 träningsprogram och motor i bromssystemet. Cykeln drivs med nätström.</p>",
-    "efter": "<p>Tunturi Cardio Fit E30 Ergometer är en motionscykel med LCD-skärm och 22 träningsprogram. Cykeln drivs med nätström.</p>"
-   },
-   "html_2": {
-    "fore": "\n<li>Dig som söker en ergometer-motionscykel med motor i bromssystemet</li>",
-    "efter": ""
-   },
    "meta": {
     "fore": "Tunturi Cardio Fit E30 är en motionscykel med LCD-skärm och 22 träningsprogram. Bromssystemet är PMS med motor och cykeln drivs med nätström.",
     "efter": "Tunturi Cardio Fit E30 Ergometer är en motionscykel med LCD-skärm och 22 träningsprogram. Den drivs med nätström och väger 20,2 kg."
-   }
+   },
+   "html": [
+    {
+     "fore": "<p>Tunturi Cardio Fit E30 är en motionscykel med LCD-skärm, 22 träningsprogram och motor i bromssystemet. Cykeln drivs med nätström.</p>",
+     "efter": "<p>Tunturi Cardio Fit E30 Ergometer är en motionscykel med LCD-skärm och 22 träningsprogram. Cykeln drivs med nätström.</p>"
+    },
+    {
+     "fore": "\n<li>Dig som söker en ergometer-motionscykel med motor i bromssystemet</li>",
+     "efter": ""
+    }
+   ]
   },
   "skal": "'Maximal driftsvikt: 110 kg', 'Viktintervall: 16' och 'Lastkapacitet: 4,5 kg' rätt utelämnade (alt A). Men 'motor i bromssystemet' och 'Bromssystemet är PMS med motor' är tolkningar av 'Bromssystem: PMS, motor', och 'ergometer-motionscykel' är en konstruerad sammansättning. Bromssystemet står kvar ordagrant i specifikationen. Modellnamnet Ergometer (live-titel) läggs tillbaka i inledning och meta."
  }
