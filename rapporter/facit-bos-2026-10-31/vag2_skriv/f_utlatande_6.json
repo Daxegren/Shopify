@@ -1,0 +1,313 @@
+[
+ {
+  "nr": 10126,
+  "id": "10588446163210",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Tunturi Centuri E100 är en motionscykel med 7 tum skärm, 26 träningsprogram, 48 svårighetsgrader och ett AI-program. Produktvikten är 38,7 kg.",
+    "efter": "Tunturi Centuri E100 är en motionscykel med 7-tums skärm, 26 träningsprogram, 48 svårighetsgrader och ett AI-program. Produktvikten är 38,7 kg."
+   },
+   "html": {
+    "fore": "<p>Tunturi Centuri E100 är en motionscykel i svart och guld design med 26 träningsprogram, 48 svårighetsgrader och ett AI-program. Enligt tillverkaren är den en limiterad upplaga.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en motionscykel med 26 träningsprogram och 48 svårighetsgrader</li>\n<li>Dig som vill ha en motionscykel med 7 tum skärm och ett AI-program</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Skärm: 7 tum</li>\n<li>Träningsprogram: 26</li>\n<li>Svårighetsgrader: 48</li>\n<li>Bromssystem: PMS, servomotor</li>\n<li>Strömkälla: Nätström</li>\n<li>Mått: 99 x 60 x 158 cm</li>\n<li>Produktvikt: 38,7 kg</li>\n</ul>",
+    "efter": "<p>Tunturi Centuri E100 är en motionscykel i svart- och gulddesign med 26 träningsprogram, 48 svårighetsgrader och ett AI-program. Enligt tillverkaren är den en limiterad upplaga.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en motionscykel med 26 träningsprogram och 48 svårighetsgrader</li>\n<li>Dig som vill ha en motionscykel med 7-tums skärm och ett AI-program</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Skärm: 7 tum</li>\n<li>Träningsprogram: 26</li>\n<li>Svårighetsgrader: 48</li>\n<li>Bromssystem: PMS, servomotor</li>\n<li>Strömkälla: Nätström</li>\n<li>Mått: 99 x 60 x 158 cm</li>\n<li>Produktvikt: 38,7 kg</li>\n</ul>"
+   }
+  },
+  "skal": "7 tum skärm → 7-tums skärm (sammansättning som 16-tums i f_3/f_4); 'svart och guld design' → 'svart- och gulddesign'. Källan stämmer i övrigt; 'Belastningskapacitet 11 kg' korrekt borta, ingen maxvikt i källan. Inget läckage till/från dubbletten 10142 (identisk källtext och SKU 23CBE10000)."
+ },
+ {
+  "nr": 10127,
+  "id": "10472219672842",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Maximal vikt: 110 kg' utelämnad enligt alt A; 'Belastning 3,5 kg', rehab och viktnedgång borta. Mått hopfälld enligt källan."
+ },
+ {
+  "nr": 10128,
+  "id": "10471040975114",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Maximal användarvikt: 110 kg' ordagrant i live-källan. Appar och låg ram 'enligt tillverkaren'. Titelns 'Fitcycle' följer live-titeln."
+ },
+ {
+  "nr": 10129,
+  "id": "10472258076938",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Tunturi FitCycle 50i är en motionscykel med 5,5 tum LCD-skärm och bromssystem av typen PMS, servomotor. Produktvikten är 28,5 kg.",
+    "efter": "Tunturi FitCycle 50i är en motionscykel med 5,5-tums LCD-skärm och bromssystem av typen PMS, servomotor. Produktvikten är 28,5 kg."
+   },
+   "html": {
+    "fore": "<p>Tunturi FitCycle 50i är en motionscykel med 5,5 tum LCD-skärm och bromssystem av typen PMS, servomotor. Måtten är 101 x 52 x 132 cm.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en motionscykel med 5,5 tum LCD-skärm</li>\n<li>Dig som vill ha en motionscykel med bromssystem av typen PMS, servomotor</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Skärm: 5,5 tum LCD</li>\n<li>Bromssystem: PMS, servomotor</li>\n<li>Mått: 101 x 52 x 132 cm</li>\n<li>Produktvikt: 28,5 kg</li>\n</ul>",
+    "efter": "<p>Tunturi FitCycle 50i är en motionscykel med 5,5-tums LCD-skärm och bromssystem av typen PMS, servomotor. Måtten är 101 x 52 x 132 cm.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en motionscykel med 5,5-tums LCD-skärm</li>\n<li>Dig som vill ha en motionscykel med bromssystem av typen PMS, servomotor</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Skärm: 5,5 tum LCD</li>\n<li>Bromssystem: PMS, servomotor</li>\n<li>Mått: 101 x 52 x 132 cm</li>\n<li>Produktvikt: 28,5 kg</li>\n</ul>"
+   }
+  },
+  "skal": "5,5 tum LCD-skärm → 5,5-tums LCD-skärm. Motsägande 'Lastkapacitet 32/14 kg' och 'Maximal driftsvikt' korrekt borta (alt A)."
+ },
+ {
+  "nr": 10130,
+  "id": "10472261189898",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Tunturi FitCycle 70i är en motionscykel med 5,5 tum LCD-skärm, 32 svårighetsgrader och bromssystem av typen PMS, servomotor.",
+    "efter": "Tunturi FitCycle 70i är en motionscykel med 5,5-tums LCD-skärm, 32 svårighetsgrader och bromssystem av typen PMS, servomotor."
+   },
+   "html": {
+    "fore": "<p>Tunturi FitCycle 70i är en motionscykel med 5,5 tum LCD-skärm och 32 svårighetsgrader. Enligt tillverkaren har den en låg ram.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en motionscykel med 5,5 tum LCD-skärm</li>\n<li>Dig som vill ha en motionscykel med 32 svårighetsgrader</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Skärm: 5,5 tum, LCD</li>\n<li>Svårighetsgrader: 32</li>\n<li>Bromssystem: PMS, servomotor</li>\n<li>Strömkälla: Nätström</li>\n<li>Mått: 102 x 50 x 145 cm</li>\n<li>Produktvikt: 31,5 kg</li>\n</ul>",
+    "efter": "<p>Tunturi FitCycle 70i är en motionscykel med 5,5-tums LCD-skärm och 32 svårighetsgrader. Enligt tillverkaren har den en låg ram.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en motionscykel med 5,5-tums LCD-skärm</li>\n<li>Dig som vill ha en motionscykel med 32 svårighetsgrader</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Skärm: 5,5 tum, LCD</li>\n<li>Svårighetsgrader: 32</li>\n<li>Bromssystem: PMS, servomotor</li>\n<li>Strömkälla: Nätström</li>\n<li>Mått: 102 x 50 x 145 cm</li>\n<li>Produktvikt: 31,5 kg</li>\n</ul>"
+   }
+  },
+  "skal": "5,5 tum LCD-skärm → 5,5-tums LCD-skärm. 'Lastkapacitet 12 kg' och 'Maximal driftsvikt' korrekt borta (alt A)."
+ },
+ {
+  "nr": 10131,
+  "id": "10411685806346",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Tunturi Platinum E20 är en motionscykel med 7 tum LED/LCD-skärm, 26 träningsprogram och 48 svårighetsgrader. Produktvikten är 58 kg.",
+    "efter": "Tunturi Platinum E20 är en motionscykel med 7-tums LED/LCD-skärm, 26 träningsprogram och 48 svårighetsgrader. Produktvikten är 58 kg."
+   },
+   "html": {
+    "fore": "<p>Tunturi Platinum E20 är en motionscykel med 7 tum LED/LCD-skärm, 26 träningsprogram och 48 svårighetsgrader. Enligt tillverkaren har den en låg ram.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en motionscykel med 26 träningsprogram och 48 svårighetsgrader</li>\n<li>Dig som vill ha en motionscykel med 7 tum LED/LCD-skärm</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Skärm: 7 tum, LED/LCD</li>\n<li>Träningsprogram: 26</li>\n<li>Svårighetsgrader: 48</li>\n<li>Bromssystem: PMS, servomotor</li>\n<li>Mått: 121,5 x 61 x 148,5 cm</li>\n<li>Produktvikt: 58 kg</li>\n</ul>",
+    "efter": "<p>Tunturi Platinum E20 är en motionscykel med 7-tums LED/LCD-skärm, 26 träningsprogram och 48 svårighetsgrader. Enligt tillverkaren har den en låg ram.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en motionscykel med 26 träningsprogram och 48 svårighetsgrader</li>\n<li>Dig som vill ha en motionscykel med 7-tums LED/LCD-skärm</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Skärm: 7 tum, LED/LCD</li>\n<li>Träningsprogram: 26</li>\n<li>Svårighetsgrader: 48</li>\n<li>Bromssystem: PMS, servomotor</li>\n<li>Mått: 121,5 x 61 x 148,5 cm</li>\n<li>Produktvikt: 58 kg</li>\n</ul>"
+   }
+  },
+  "skal": "7 tum LED/LCD-skärm → 7-tums LED/LCD-skärm. Rehab/stabil, 'Lastkapacitet 15 kg' och 'Maximal driftsvikt' korrekt borta."
+ },
+ {
+  "nr": 10132,
+  "id": "10486630252810",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Tunturi Platinum E30 är en motionscykel med 7 tum LED/LCD-skärm, 26 träningsprogram och bromssystem av typen EMS, induktion.",
+    "efter": "Tunturi Platinum E30 är en motionscykel med 7-tums LED/LCD-skärm, 26 träningsprogram och bromssystem av typen EMS, induktion."
+   },
+   "html": {
+    "fore": "<p>Tunturi Platinum E30 är en motionscykel med 7 tum LED/LCD-skärm, 26 träningsprogram och bromssystem av typen EMS, induktion.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en motionscykel med 26 träningsprogram</li>\n<li>Dig som vill ha en motionscykel med bromssystem av typen EMS, induktion</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Skärm: 7 tum, LED/LCD</li>\n<li>Träningsprogram: 26</li>\n<li>Bromssystem: EMS, induktion</li>\n<li>Mått: 121,5 x 61 x 148,5 cm</li>\n<li>Produktvikt: 58,5 kg</li>\n</ul>",
+    "efter": "<p>Tunturi Platinum E30 är en motionscykel med 7-tums LED/LCD-skärm, 26 träningsprogram och bromssystem av typen EMS, induktion.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en motionscykel med 26 träningsprogram</li>\n<li>Dig som vill ha en motionscykel med bromssystem av typen EMS, induktion</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Skärm: 7 tum, LED/LCD</li>\n<li>Träningsprogram: 26</li>\n<li>Bromssystem: EMS, induktion</li>\n<li>Mått: 121,5 x 61 x 148,5 cm</li>\n<li>Produktvikt: 58,5 kg</li>\n</ul>"
+   }
+  },
+  "skal": "7 tum LED/LCD-skärm → 7-tums LED/LCD-skärm. Oklar 'Belastningskapacitet 48./16 kg' och 'Maximal driftsvikt' korrekt borta."
+ },
+ {
+  "nr": 10133,
+  "id": "10472264827146",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Maximal användarvikt: 150 kg' ordagrant i live-källan. '+ Tunturi app' struken (ingen app i källan)."
+ },
+ {
+  "nr": 10134,
+  "id": "10472255389962",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Tunturi Signature E60 är en motionscykel med 7 tum LED/LCD-skärm, 26 träningsprogram och 48 svårighetsnivåer. Produktvikten är 47,7 kg.",
+    "efter": "Tunturi Signature E60 är en motionscykel med 7-tums LED/LCD-skärm, 26 träningsprogram och 48 svårighetsnivåer. Produktvikten är 47,7 kg."
+   },
+   "html": {
+    "fore": "<p>Tunturi Signature E60 är en motionscykel med 7 tum LED/LCD-skärm, 26 träningsprogram och 48 svårighetsnivåer. Enligt tillverkaren har den en låg ram, Comfort+ sadel och Bluetooth AI-monitor.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en motionscykel med 26 träningsprogram och 48 svårighetsnivåer</li>\n<li>Dig som vill ha en motionscykel med Comfort+ sadel och Bluetooth AI-monitor</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Skärm: 7 tum, LED/LCD</li>\n<li>Träningsprogram: 26</li>\n<li>Svårighetsnivåer: 48</li>\n<li>Bromssystem: PMS, servomotor</li>\n<li>Mått: 99 x 60 x 158 cm</li>\n<li>Produktvikt: 47,7 kg</li>\n</ul>",
+    "efter": "<p>Tunturi Signature E60 är en motionscykel med 7-tums LED/LCD-skärm, 26 träningsprogram och 48 svårighetsnivåer. Enligt tillverkaren har den en låg ram, Comfort+ sadel och Bluetooth AI-monitor.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en motionscykel med 26 träningsprogram och 48 svårighetsnivåer</li>\n<li>Dig som vill ha en motionscykel med Comfort+ sadel och Bluetooth AI-monitor</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Skärm: 7 tum, LED/LCD</li>\n<li>Träningsprogram: 26</li>\n<li>Svårighetsnivåer: 48</li>\n<li>Bromssystem: PMS, servomotor</li>\n<li>Mått: 99 x 60 x 158 cm</li>\n<li>Produktvikt: 47,7 kg</li>\n</ul>"
+   }
+  },
+  "skal": "7 tum LED/LCD-skärm → 7-tums LED/LCD-skärm. 'Maximal driftsvikt' korrekt borta (alt A)."
+ },
+ {
+  "nr": 10135,
+  "id": "10471002931466",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Motionscykel Tunturi Signature E60R Liggande",
+    "efter": "Liggande Motionscykel Tunturi Signature E60R"
+   },
+   "meta": {
+    "fore": "Tunturi Signature E60R är en liggande motionscykel med 7 tum LED/LCD-skärm och 26 träningsprogram. Maximal användarvikt är 150 kg.",
+    "efter": "Tunturi Signature E60R är en liggande motionscykel med 7-tums LED/LCD-skärm och 26 träningsprogram. Maximal användarvikt är 150 kg."
+   },
+   "html": {
+    "fore": "<p>Tunturi Signature E60R är en liggande motionscykel med 7 tum LED/LCD-skärm och 26 träningsprogram. Enligt tillverkaren har den ett justerbart säte och stöder Bluetooth-anslutning.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en liggande motionscykel med 26 träningsprogram</li>\n<li>Dig som behöver en motionscykel med maximal användarvikt 150 kg</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Display: 7 tum, LED/LCD</li>\n<li>Träningsprogram: 26</li>\n<li>Bromssystem: PMS, servomotor</li>\n<li>Strömförsörjning: Nätström</li>\n<li>Mått: 168 x 64 x 122 cm</li>\n<li>Produktvikt: 62 kg</li>\n<li>Maximal användarvikt: 150 kg</li>\n</ul>",
+    "efter": "<p>Tunturi Signature E60R är en liggande motionscykel med 7-tums LED/LCD-skärm och 26 träningsprogram. Enligt tillverkaren har den ett justerbart säte och stöder Bluetooth-anslutning.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en liggande motionscykel med 26 träningsprogram</li>\n<li>Dig som behöver en motionscykel med maximal användarvikt 150 kg</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Display: 7 tum, LED/LCD</li>\n<li>Träningsprogram: 26</li>\n<li>Bromssystem: PMS, servomotor</li>\n<li>Strömförsörjning: Nätström</li>\n<li>Mått: 168 x 64 x 122 cm</li>\n<li>Produktvikt: 62 kg</li>\n<li>Maximal användarvikt: 150 kg</li>\n</ul>"
+   }
+  },
+  "skal": "Typordet först som för liggande cyklar i f_3 (10069): 'Motionscykel … E60R Liggande' → 'Liggande Motionscykel Tunturi Signature E60R' (live: 'Signature E60R Liggande motionscykel'); 7 tum → 7-tums. Motsägelsen 32 motståndsnivåer/48 svårighetsnivåer korrekt utelämnad. 'Maximal användarvikt: 150 kg' står ordagrant i live-källan."
+ },
+ {
+  "nr": 10136,
+  "id": "10486640345354",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Tunturi Signature E80 är en motionscykel med 26 träningsprogram, 48 svårighetsgrader och EMS, induktion. Maximal användarvikt är 150 kg.",
+    "efter": "Tunturi Signature E80 är en motionscykel med 26 träningsprogram, 48 svårighetsgrader och bromssystem av typen EMS, induktion."
+   },
+   "html": {
+    "fore": "<p>Tunturi Signature E80 är en motionscykel med 7 tum LED/LCD-skärm, 26 träningsprogram och 48 svårighetsgrader. Bromssystemet är EMS, induktion.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en motionscykel med 26 träningsprogram och 48 svårighetsgrader</li>\n<li>Dig som vill ha en motionscykel med bromssystem av typen EMS, induktion</li>\n<li>Dig som behöver en motionscykel med maximal användarvikt 150 kg</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Skärm: 7 tum, LED/LCD</li>\n<li>Träningsprogram: 26</li>\n<li>Bromssystem: EMS, induktion</li>\n<li>Mått: 102 x 59 x 158 cm</li>\n<li>Produktvikt: 47,7 kg</li>\n<li>Maximal användarvikt: 150 kg</li>\n</ul>",
+    "efter": "<p>Tunturi Signature E80 är en motionscykel med 7-tums LED/LCD-skärm, 26 träningsprogram och 48 svårighetsgrader. Bromssystemet är EMS, induktion.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en motionscykel med 26 träningsprogram och 48 svårighetsgrader</li>\n<li>Dig som vill ha en motionscykel med bromssystem av typen EMS, induktion</li>\n<li>Dig som behöver en motionscykel med maximal användarvikt 150 kg</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Skärm: 7 tum, LED/LCD</li>\n<li>Träningsprogram: 26</li>\n<li>Bromssystem: EMS, induktion</li>\n<li>Mått: 102 x 59 x 158 cm</li>\n<li>Produktvikt: 47,7 kg</li>\n<li>Maximal användarvikt: 150 kg</li>\n</ul>"
+   }
+  },
+  "skal": "Meta: 'och EMS, induktion' saknar substantiv → 'bromssystem av typen EMS, induktion' (maxviktsmeningen fick strykas för att hålla ≤155; den står kvar i html). Html 7 tum → 7-tums. 'Maximal användarvikt: 150 kg' ordagrant i live-källan."
+ },
+ {
+  "nr": 10137,
+  "id": "10472258830602",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Maximal användarvikt: 110 kg' ordagrant i live-källan; 'Belastning 8 kg' och gymkvalitet borta."
+ },
+ {
+  "nr": 10138,
+  "id": "10472261058826",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Motionscykel Tunturi Star Fit E100",
+    "efter": "Motionscykel Tunturi Star Fit E100 HR I+"
+   }
+  },
+  "skal": "SEO-titeln tappade modellbeteckningen HR I+ (live-titel och källtext 'Star Fit E100 HR I+'); 40 tecken. Maxvikt 120 kg ordagrant i källan."
+ },
+ {
+  "nr": 10139,
+  "id": "10472258896138",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Maximal användarvikt: 110 kg' ordagrant i live-källan. Motsägande mått (118 x 39 x 21 mot hopfälld 43 x 46 x 135,8 cm) korrekt utelämnade; 'Belastning 3,5 kg' borta."
+ },
+ {
+  "nr": 10140,
+  "id": "10472253849866",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Maximal användarvikt; 100 kg' står på svenska i live-källan (semikolon i källan). Trasig rad 'Vikt: 8080 x 80 g … Löpband: 3 display' och 'Belastning 9 kg' korrekt utelämnade. Titeltypen Spinningcykel följer live-titeln."
+ },
+ {
+  "nr": 10141,
+  "id": "10470913179914",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Källan är bara en lista; texten håller sig till den. 'Lastkapacitet 20 kg' och 'Maximal driftsvikt' borta."
+ },
+ {
+  "nr": 10143,
+  "id": "10430247698698",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Elektrisk minicykel med motor återges bara som källan anger ('tyst motor' utelämnat); inga effektpåståenden."
+ },
+ {
+  "nr": 10144,
+  "id": "10515747897610",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live; 'passar användare i alla åldrar' borta."
+ },
+ {
+  "nr": 10145,
+  "id": "10472249458954",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Mini Bike Tunturi Cardio Fit M30 Mini Bike",
+    "efter": "Minicykel Tunturi Cardio Fit M30 Mini Bike"
+   },
+   "meta": {
+    "fore": "Tunturi Cardio Fit M30 är en kompakt mini bike med friktionsbroms. Måtten är 46 x 38 x 28 cm och produktvikten 4,6 kg.",
+    "efter": "Tunturi Cardio Fit M30 är en kompakt minicykel med friktionsbroms. Måtten är 46 x 38 x 28 cm och produktvikten 4,6 kg."
+   },
+   "html": {
+    "fore": "<p>Tunturi Cardio Fit M30 är en kompakt mini bike med friktionsbroms och ett träningsprogram.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en kompakt mini bike med friktionsbroms</li>\n<li>Dig som vill ha en mini bike som drivs av 2 x AAA-batterier i konsolen</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Skärm: 30 x 20 mm</li>\n<li>Program: 1</li>\n<li>Bromssystem: Friktion</li>\n<li>Strömförsörjning: 2 x AAA-batterier i konsolen</li>\n<li>Mått: 46 x 38 x 28 cm</li>\n<li>Produktvikt: 4,6 kg</li>\n</ul>",
+    "efter": "<p>Tunturi Cardio Fit M30 är en kompakt minicykel med friktionsbroms och ett träningsprogram.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en kompakt minicykel med friktionsbroms</li>\n<li>Dig som vill ha en minicykel med batteridriven konsol (2 x AAA-batterier)</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Skärm: 30 x 20 mm</li>\n<li>Program: 1</li>\n<li>Bromssystem: Friktion</li>\n<li>Strömförsörjning: 2 x AAA-batterier i konsolen</li>\n<li>Mått: 46 x 38 x 28 cm</li>\n<li>Produktvikt: 4,6 kg</li>\n</ul>"
+   }
+  },
+  "skal": "Samma typord i batchen: 'Mini Bike' (engelskt typord, live 'Mini bike') → 'Minicykel' (källornas brödtext för M40, M45, Pro, Basic: minicykel); 'mini bike' → 'minicykel' i text. 'drivs av 2 x AAA-batterier' antydde att cykeln drivs av batterier; källan: batterierna sitter i konsolen. Skade-/återhämtningstext och 'Belastning 1,5 kg' korrekt borta."
+ },
+ {
+  "nr": 10146,
+  "id": "10470935363850",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Mini Bike Tunturi Cardio Fit M45 Mini Bike",
+    "efter": "Minicykel Tunturi Cardio Fit M45 Mini Bike"
+   },
+   "meta": {
+    "fore": "Tunturi Cardio Fit M45 är en mini bike med justerbara pedaler, avtagbar monitor och Bluetooth-anslutning. Produktvikten är 10,8 kg.",
+    "efter": "Tunturi Cardio Fit M45 är en minicykel med justerbara pedaler, avtagbar monitor och Bluetooth-anslutning. Produktvikten är 10,8 kg."
+   },
+   "html": {
+    "fore": "<p>Tunturi Cardio Fit M45 är en mini bike för hemmabruk med justerbara pedaler och avtagbar monitor. Enligt tillverkaren visar monitorn tid, distans, hastighet, varvtal och kalorier, enheten har Bluetooth-anslutning och kan fästas vid en stol med en rem.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en mini bike med justerbara pedaler och avtagbar monitor</li>\n<li>Dig som vill ha en mini bike med Bluetooth-anslutning</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Strömkälla: 2 x AAA-batterier</li>\n<li>Mått: 56 x 51 x 37 cm</li>\n<li>Produktvikt: 10,8 kg</li>\n</ul>",
+    "efter": "<p>Tunturi Cardio Fit M45 är en minicykel för hemmabruk med justerbara pedaler och avtagbar monitor. Enligt tillverkaren visar monitorn tid, distans, hastighet, varvtal och kalorier. Enheten har Bluetooth-anslutning och kan fästas vid en stol med en rem.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en minicykel med justerbara pedaler och avtagbar monitor</li>\n<li>Dig som vill ha en minicykel med Bluetooth-anslutning</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Strömkälla: 2 x AAA-batterier</li>\n<li>Mått: 56 x 51 x 37 cm</li>\n<li>Produktvikt: 10,8 kg</li>\n</ul>"
+   }
+  },
+  "skal": "Typord 'Mini Bike'/'mini bike' → 'Minicykel'/'minicykel'; kommaskarv i inledningen delad i två meningar. 'Lastkapacitet 8', 'Löpband: 8 last kapaciteter', stabilitet och 'Maximal driftsvikt 100 kg' korrekt borta (alt A)."
+ },
+ {
+  "nr": 10147,
+  "id": "10472298250506",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Mini Bike Tunturi Mini Bike Basic",
+    "efter": "Minicykel Tunturi Mini Bike Basic"
+   }
+  },
+  "skal": "Typord 'Mini Bike' → 'Minicykel' (modellnamnet Mini Bike Basic behålls). Tunn källa: inga specifikationer, rehab/'skonsam för lederna' korrekt borta; kort meta 133 tecken."
+ },
+ {
+  "nr": 10148,
+  "id": "10470970589450",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Mini Bike Tunturi Mini Bike Pro Chair Bike",
+    "efter": "Minicykel Tunturi Mini Bike Pro Chair Bike"
+   }
+  },
+  "skal": "Typord 'Mini Bike' → 'Minicykel' (modellnamnet Mini Bike Pro Chair Bike behålls). 'Maximal användarvikt: 100 kg' ordagrant i källan; stabilitetspåståenden korrekt borta."
+ },
+ {
+  "nr": 10149,
+  "id": "10470935068938",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Mini Cykel Tunturi Cardio Fit M40 Mini Bike",
+    "efter": "Minicykel Tunturi Cardio Fit M40 Mini Bike"
+   },
+   "meta": {
+    "fore": "Tunturi Cardio Fit M40 är en mini bike med 8 motståndsnivåer och Bluetooth-anslutning. Maximal användarvikt är 100 kg.",
+    "efter": "Tunturi Cardio Fit M40 är en minicykel med 8 motståndsnivåer och Bluetooth-anslutning. Maximal användarvikt är 100 kg."
+   },
+   "html": {
+    "fore": "<p>Tunturi Cardio Fit M40 är en mini bike med 8 motståndsnivåer och Bluetooth-anslutning. Enligt tillverkaren visar displayen tid, distans, hastighet, varvtal och kalorier, och mini biken kan fästas vid en stol med en rem.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en mini bike med 8 motståndsnivåer</li>\n<li>Dig som vill ha en mini bike med Bluetooth-anslutning</li>\n<li>Dig som behöver en mini bike med maximal användarvikt 100 kg</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Motståndsnivåer: 8</li>\n<li>Svänghjul: 1 kg</li>\n<li>Strömkälla: 2 × AAA-batterier</li>\n<li>Mått: 51,5 × 45 × 35 cm</li>\n<li>Produktvikt: 8,6 kg</li>\n<li>Maximal användarvikt: 100 kg</li>\n</ul>",
+    "efter": "<p>Tunturi Cardio Fit M40 är en minicykel med 8 motståndsnivåer och Bluetooth-anslutning. Enligt tillverkaren visar displayen tid, distans, hastighet, varvtal och kalorier, och minicykeln kan fästas vid en stol med en rem.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en minicykel med 8 motståndsnivåer</li>\n<li>Dig som vill ha en minicykel med Bluetooth-anslutning</li>\n<li>Dig som behöver en minicykel med maximal användarvikt 100 kg</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Motståndsnivåer: 8</li>\n<li>Svänghjul: 1 kg</li>\n<li>Strömkälla: 2 × AAA-batterier</li>\n<li>Mått: 51,5 × 45 × 35 cm</li>\n<li>Produktvikt: 8,6 kg</li>\n<li>Maximal användarvikt: 100 kg</li>\n</ul>"
+   }
+  },
+  "skal": "Typord 'Mini Cykel'/'mini bike'/'mini biken' → 'Minicykel'/'minicykel'/'minicykeln'. 'Maximal användarvikt: 100 kg' ordagrant i källan; äldre/rehab/stabilitet korrekt borta."
+ },
+ {
+  "nr": 10150,
+  "id": "10472225046794",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Mini-Cykel Tunturi Cardio Fit D10 Under Desk Bike",
+    "efter": "Minicykel Tunturi Cardio Fit D10 Under Desk Bike"
+   },
+   "meta": {
+    "fore": "Tunturi Cardio Fit D10 är en mini-cykel med LCD-skärm och friktionsbroms. Måtten är 62 x 48 x 26 cm och produktvikten 11,4 kg.",
+    "efter": "Tunturi Cardio Fit D10 är en minicykel med LCD-skärm och friktionsbroms. Måtten är 62 x 48 x 26 cm och produktvikten 11,4 kg."
+   },
+   "html": {
+    "fore": "<p>Tunturi Cardio Fit D10 är en mini-cykel för skrivbordet med LCD-skärm, ett träningsprogram och friktionsbroms.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en mini-cykel att använda vid skrivbordet</li>\n<li>Dig som vill ha en mini-cykel med friktionsbroms</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Skärm: 32 x 19 mm, LCD</li>\n<li>Program: 1</li>\n<li>Bromssystem: Friktion</li>\n<li>Mått: 62 x 48 x 26 cm</li>\n<li>Produktvikt: 11,4 kg</li>\n</ul>",
+    "efter": "<p>Tunturi Cardio Fit D10 är en minicykel för skrivbordet med LCD-skärm, ett träningsprogram och friktionsbroms.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en minicykel att använda vid skrivbordet</li>\n<li>Dig som vill ha en minicykel med friktionsbroms</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Skärm: 32 x 19 mm, LCD</li>\n<li>Program: 1</li>\n<li>Bromssystem: Friktion</li>\n<li>Mått: 62 x 48 x 26 cm</li>\n<li>Produktvikt: 11,4 kg</li>\n</ul>"
+   }
+  },
+  "skal": "Typord 'Mini-Cykel'/'mini-cykel' → 'Minicykel'/'minicykel' (samma typord i batchen). Dubblerad batterirad och 'Lastkapacitet 5 kg' korrekt borta; produktivitetsfrågan borta."
+ }
+]
