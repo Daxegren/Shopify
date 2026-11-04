@@ -4,6 +4,7 @@ Skapad 2026-11-04. Filen fylls bara på; nya beslut läggs överst i tabellen, g
 
 | Datum | Beslut | Gäller | Vem | Källa |
 |---|---|---|---|---|
+| 2026-11-04 | Onboarding av WORKOUT BRANDS startad (fas 1, bara läsning). Profil och spärrlista är utkast; inga beslut taget om kategorier. Fas 2 startar när David godkänt profil, spärrar och åtgärdsförslag | WORKOUT BRANDS | David (uppdrag), Claude | `rapporter/beslut-2026-11-04-7.md` |
 | 2026-11-04 | Produktdata-AI med kvalitetsrapport är riktningen; det byggs så att kunden kör det själv (självbetjäning). Nästa sajter: Alpha Zoo (alphazoo.se/.dk/.fi) och B You Underwear (byouunderwear.se), med genomlysning av SEO, metadata, struktur och GEO utifrån Search Console, Google Ads och Google Analytics | Alla framtida butiker | David | Chatt 2026-11-04 |
 | 2026-11-04 | Riktning: kunskapen och pipelinen från BEST OF SPORTS ska kunna bli ett PIM-/produktdatasystem som säljs till andra e-handlare. Allt som byggs ska därför vara butiksoberoende (profil, regelbok, kontroller, status, mätning). Inget säljbeslut taget än | Hela textutrullningen | David | Chatt 2026-11-04 |
 | 2026-11-04 | Punkt 3–6 byggs: regelbok i stället för långa prompter, butiksprofil per sajt, statusfil per utrullning, mätning av granskningsutbytet. Få korta filer som läses vid start via CLAUDE.md, och tester som tvingar fram reglerna | Alla butiker | David | Chatt 2026-11-04 |
