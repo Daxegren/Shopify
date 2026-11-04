@@ -1,0 +1,274 @@
+[
+ {
+  "nr": 10276,
+  "id": "10468771463434",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Avvisningen bekräftas live: tre varianter (SKU 17433/17431/17435, 3989/3419/4309 kr) med oförklarade namn; handle …17434. Vikten 35 kg går inte att låsa."
+ },
+ {
+  "nr": 10277,
+  "id": "10472325185802",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Engelsk källa: en hantel, 37,5 kg, härdat stålhandtag, PU-beläggning och 'weights from 2.5 to 40 kg' (enligt tillverkaren) ordagrant; slitage-, ljud- och stabilitetsord borta. Beställningsmening rätt. SKU 17434 mot handle …17435 nämns inte."
+ },
+ {
+  "nr": 10278,
+  "id": "10468771004682",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Avvisningen bekräftas live: fem varianter (17421–17429, 469–2969 kr) med oförklarade namn; titelns 5 kg gäller bara en av dem."
+ },
+ {
+  "nr": 10279,
+  "id": "10472324825354",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Som 10277 med 7,5 kg (pris 689 kr stämmer med vikten). Handle …17423 mot SKU 17422 nämns inte. Beställningsmening rätt."
+ },
+ {
+  "nr": 10280,
+  "id": "10472301461770",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Dig som vill lägga till fler HAMMER-viktskivor på hanteln</li>",
+    "efter": "<li>Dig som vill lägga till fler Hammer-viktskivor på hanteln</li>"
+   }
+  },
+  "skal": "10 kg står i källans text ('Med 10 kg hantelset'); 1 hantel, 2 x 1,25 + 2 x 2,5 kg, hantellås, 30 mm och stjärnformade låskragar ordagrant; 'kedjorna' rätt inte tolkat; säkerhetsord borta. Märket ska skrivas Hammer i brödtext."
+ },
+ {
+  "nr": 10281,
+  "id": "10472301297930",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Viktskivor: två på 1,25 kg och två på 2,5 kg</li>",
+    "efter": "<li>Viktskivor: 2 x 1,25 kg och 2 x 2,5 kg</li>"
+   }
+  },
+  "skal": "10 kg står i källan ('Totalt har du 10 kg vikt'); data ordagrant. Specifikationsraden har liten bokstav efter kolon och annan form än 10280."
+ },
+ {
+  "nr": 10282,
+  "id": "10472325415178",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Avvisningen bekräftas: hantelställ (stativ med last, källan talar om stabilitet och säkerhet), estnisk titel 'Hantlite alus'. Inte frisläppt i faktatextläget."
+ },
+ {
+  "nr": 10283,
+  "id": "10515748323594",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Toorx Gjutjärn är ett hantelset i gjutjärn på 10 kg med viktskivor och hantellås. Setet innehåller en hantel på 2 kg.",
+    "efter": "Toorx hantelset i gjutjärn väger 10 kg. Setet innehåller två viktskivor på 2,5 kg, två viktskivor på 1,5 kg och hantellås."
+   },
+   "html": {
+    "fore": "Toorx Gjutjärn är ett hantelset i gjutjärn på 10 kg.",
+    "efter": "Toorx hantelset i gjutjärn väger 10 kg."
+   }
+  },
+  "skal": "Vikten 10 kg står bara i namnet men delarna summerar exakt (2 x 2,5 + 2 x 1,5 + 2 kg) till en hantel. 'Toorx Gjutjärn är ett hantelset i gjutjärn' behandlar materialet som modellnamn (cirkulärt). Metan säger 'en hantel på 2 kg' i en produkt med titeln Hantel 10 kg (motsägande vikt för kunden); spec-raden 'Hantel: 1 x 2 kg' står ordagrant i källan och får stå, se fråga."
+ },
+ {
+  "nr": 10284,
+  "id": "10472299299082",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Avvisningen bekräftas: tom beskrivning, titeln 'Hantelvikter' mot taggarna Cykellås/viktlås; produkttypen oklar (troligen hantellås)."
+ },
+ {
+  "nr": 10285,
+  "id": "10462848188682",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Toorx Gjutjärn är ett hantelset i gjutjärn på 20 kg med viktskivor och hantellås. Setet innehåller två hantlar på 2 kg vardera.",
+    "efter": "Toorx hantelset i gjutjärn väger 20 kg. Setet innehåller fyra viktskivor på 2,5 kg, fyra viktskivor på 1,5 kg och hantellås."
+   },
+   "html": {
+    "fore": "Toorx Gjutjärn är ett hantelset i gjutjärn på 20 kg.",
+    "efter": "Toorx hantelset i gjutjärn väger 20 kg."
+   }
+  },
+  "skal": "20 kg är setets totalvikt (4 x 2,5 + 4 x 1,5 + 2 x 2 = 20), inte per hantel; '(hantelset)' rätt. Samma cirkulära inledning och samma motsägande 'två hantlar på 2 kg' i metan som 10283."
+ },
+ {
+  "nr": 10286,
+  "id": "10462191223050",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Viktskivornas diameter: upp till 24 cm</li>",
+    "efter": "<li>Viktskivornas diameter: Upp till 24 cm</li>"
+   }
+  },
+  "skal": "Totalvikt 15 kg, 6 skivor, 45 cm, 24 cm, svart vinyl ordagrant; oklara rader (Hantellyftvikt, '15 g grepp', Ø 25 mm) rätt utelämnade; antal hantlar påstås inte. Liten bokstav efter kolon."
+ },
+ {
+  "nr": 10287,
+  "id": "10472259977482",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Viktskivornas diameter: upp till 24 cm</li>",
+    "efter": "<li>Viktskivornas diameter: Upp till 24 cm</li>"
+   }
+  },
+  "skal": "Skruvfästen står i källan (4 st). '12 hantlar' återges försiktigt som 'Vikter'; oklara rader utelämnade; 28 kg som källans totalvikt. Liten bokstav efter kolon."
+ },
+ {
+  "nr": 10288,
+  "id": "10472283701514",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Diameter: 30 mm</li>\n<li>Skivornas ytterdiameter: upp till 29,5 cm</li>",
+    "efter": "<li>Skivornas ytterdiameter: Upp till 29,5 cm</li>"
+   }
+  },
+  "skal": "Skruvlås står i källan (2 per hantel). Motsägande '4 skivor per hantel: 2x2,5 kg' rätt utelämnad. 'Diameter 30 mm' är oetiketterad i källan (oklar källrad) och ska utelämnas. Liten bokstav efter kolon."
+ },
+ {
+  "nr": 10289,
+  "id": "10472213348618",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Engelsk spec ordagrant (2 x 0,5 kg, 13,6 x 4,7 x 4,2 cm, Pink, Cast iron | Neoprene); lbs-raden rätt utelämnad."
+ },
+ {
+  "nr": 10290,
+  "id": "10462191190282",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Hantelset Tunturi med skruvfästen, 15 kg",
+    "efter": "Hantelset Tunturi med Skruvfästen, 15 kg"
+   },
+   "seo_title": {
+    "fore": "Hantelset Tunturi skruvfästen 15 kg",
+    "efter": "Hantelset Tunturi med Skruvfästen 15 kg"
+   },
+   "html": {
+    "fore": "<li>Skivornas ytterdiameter: upp till 16 cm</li>",
+    "efter": "<li>Skivornas ytterdiameter: Upp till 16 cm</li>"
+   }
+  },
+  "skal": "Skruvfästen står i källan; 8 skivor, 35 cm, 16 cm, 15 kg, svart/krom, gjutjärn/stål ordagrant; beställningsmening rätt. Titel/SEO: 'Skruvfästen' ska ha versal (formatregeln), SEO hade tappat 'med'. Liten bokstav efter kolon."
+ },
+ {
+  "nr": 10291,
+  "id": "10472212332810",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Hantelset Tunturi med skruvlås, 20 kg",
+    "efter": "Hantelset Tunturi med Skruvlås, 20 kg"
+   },
+   "seo_title": {
+    "fore": "Hantelset Tunturi skruvlås 20 kg",
+    "efter": "Hantelset Tunturi med Skruvlås 20 kg"
+   },
+   "html": {
+    "fore": "<li>Skivornas ytterdiameter: upp till 16 cm</li>",
+    "efter": "<li>Skivornas ytterdiameter: Upp till 16 cm</li>"
+   }
+  },
+  "skal": "Skruvlås står i källan; 6 skivor enligt listan, 35 cm, 16 cm, 20 kg ordagrant. Titel/SEO: 'Skruvlås' ska ha versal, SEO hade tappat 'med'. Liten bokstav efter kolon."
+ },
+ {
+  "nr": 10292,
+  "id": "10656688275722",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn källa: gummiöverdrag och en hantel på 37,5 kg ordagrant; golvskydds-, ljud- och kvalitetsord borta. Kort meta (94) godtas enligt §17."
+ },
+ {
+  "nr": 10293,
+  "id": "10472302805258",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "En variant (namn 25TUPLA023, handle …020); 10 kg i titel, text och källa, pris 599 kr rimligt mot 37,5 kg för 2469 kr. Beställningsmening rätt."
+ },
+ {
+  "nr": 10294,
+  "id": "10472298217738",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Vikten 20 kg står bara i produktnamnet. Delarna summerar till 14 kg (2 x 1 + 6 x 2 kg) och handtagets vikt saknas, så det går inte att avgöra om 20 kg är hantelns totalvikt eller maxvikt för en justerbar hantel. Titel, meta och 'Vikt: 20 kg' låser en vikt som källan inte anger. Kan skrivas när David eller leverantören bekräftat vikten."
+ },
+ {
+  "nr": 10295,
+  "id": "10472295137546",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Hantel- och skivstångsset Tunturi, 20 kg, Järn",
+    "efter": "Hantel- och Skivstångsset Tunturi, 20 kg, Järn"
+   },
+   "seo_title": {
+    "fore": "Hantel- och skivstångsset Tunturi 20 kg",
+    "efter": "Hantel- och Skivstångsset Tunturi 20 kg"
+   }
+  },
+  "skal": "Tunn källa: 20 kg total vikt, järn, hantlar och en skivstång ordagrant; inga antal eller mått påstås. Titel/SEO: 'Skivstångsset' ska ha versal efter 'och' (jfr 'Ankel- och Handledsvikter')."
+ },
+ {
+  "nr": 10296,
+  "id": "10494687346954",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Hantelset Tunturi Centuri Neopren med ställ, 3 par",
+    "efter": "Hantelset Tunturi Centuri Neopren med Ställ, 3 Par"
+   },
+   "seo_title": {
+    "fore": "Hantelset Tunturi Centuri Neopren 3 par",
+    "efter": "Hantelset Tunturi Centuri Neopren 3 Par"
+   }
+  },
+  "skal": "3 par (2 x 1, 2 x 2, 2 x 3 kg), 6-kantiga, 12,3 kg inkl. ställ, PVC-ställ 32,8 x 20,3 x 28,9 cm, svart/guld, gjutjärn ordagrant; neopren rätt inte påstått som material; inga bärförmåge- eller rullskyddspåståenden. Beställningsmening rätt. Titel/SEO: 'Ställ' och 'Par' med versal enligt format_regler.py."
+ },
+ {
+  "nr": 10297,
+  "id": "10494881366282",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Tunturi Platinum Hex Rubber Dumbbell Set är ett hantelset. Setet innehåller 10 par hantlar i vikter från 1 till 10 kg.</p>",
+    "efter": "<p>Tunturi Platinum Hex Rubber Dumbbell Set innehåller 10 par hantlar i vikter från 1 till 10 kg.</p>"
+   }
+  },
+  "skal": "10 par och 1–10 kg (namnet) stämmer; beställningsmening rätt. Inledningen 'X Dumbbell Set är ett hantelset.' är cirkulär och säger inget."
+ },
+ {
+  "nr": 10298,
+  "id": "10523476623626",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Tunturi Platinum Hex Rubber Dumbbell Set är ett hantelset. Setet innehåller 8 par hantlar, två av varje vikt från 2,5 kg till 20 kg.</p>",
+    "efter": "<p>Tunturi Platinum Hex Rubber Dumbbell Set innehåller 8 par hantlar, två av varje vikt från 2,5 kg till 20 kg.</p>"
+   }
+  },
+  "skal": "8 par, 2 x 2,5 till 2 x 20 kg ordagrant; beställningsmening rätt. Samma cirkulära inledning som 10297."
+ },
+ {
+  "nr": 10299,
+  "id": "10472280883466",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spec ordagrant (2 x 1,5 kg, 17,3 x 7,5 x 6,5 cm, Gul, Gjutjärn | Neopren)."
+ },
+ {
+  "nr": 10300,
+  "id": "10472350220554",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spec ordagrant (2 x 1 kg, 16,3 x 6,3 x 5,5 cm, Orange, Gjutjärn | Neopren)."
+ }
+]
