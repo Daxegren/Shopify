@@ -1,0 +1,116 @@
+[
+ {
+  "nr": 9626,
+  "id": "10472277836042",
+  "fil": "k_09b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typordet Träningsbänk stöds av källan (\"träningsbänk\") och taggen; första meningen säger träningsmaskin, inte cirkulär. Mått, hopfällt mått, 23 kg och viktskivor på dynan ur källan. \"Maximal belastningskapacitet: 120 kg\" är en ren svensk etiketterad rad och står en gång enligt tillverkaren (R4). 5 graders lutning och effektpåståenden rätt utelämnade. Leveranstidsmening finns, taggen På beställning finns."
+ },
+ {
+  "nr": 9627,
+  "id": "10472284913930",
+  "fil": "k_09b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Motor 3,0 hk, löpyta 141 x 51 cm, 1–22 km/h, 35 program, 7-tums TFT-skärm, inbyggd pulssensor, 106 kg och mått ur källan. Maximal användarvikt 150 kg är en ren svensk rad (R4 bedöms per rad); den trasiga raden 141 x 72 m rätt utelämnad. Inga hälsoord (skonsam mot leder, exakt pulsmätning) kvar."
+ },
+ {
+  "nr": 9628,
+  "id": "10494691639562",
+  "fil": "k_09b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typordet Träningsbänk är live-titelns. Allt i texten (7-stegs handtagshöjd, vadderad stol, smörjfritt länksystem, dator, fotstöd med kardborreband) står i källan; ledskonsam, välbefinnande och träningseffekter utelämnade. Ingen lastuppgift i källan och ingen skrivs. Ingen leveranstidsmening, rätt (ej På beställning)."
+ },
+ {
+  "nr": 9630,
+  "id": "10472281178378",
+  "fil": "k_09b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typordet Cykelträningsställ är butikens live-ord för Elite-syskonen 9435–9437 (k_07b, godkända). Etiketten Axlar är godtagbar: källans \"trummor\" är maskinöversatt (nav), men värdena är entydiga och den andra raden säger själv \"genomgående axel\" (R2, entydig del). Två enligt tillverkaren (±1 %, 18 %), inom R5. Elnät/Dura-Ace rätt utelämnat."
+ },
+ {
+  "nr": 9631,
+  "id": "10468721983754",
+  "fil": "k_09b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Belastning enligt tillverkaren: Maximal lastkapacitet 115 kg (hjul + cyklist)",
+    "efter": "Belastning enligt tillverkaren: Maximal last 110 kg"
+   }
+  },
+  "skal": "Källan säger \"Maximal lastkapacitet: 115 kg (hjul + cyklist)\". \"Hjul\" är maskinöversatt (estniska ratas = hjul/cykel) och gör det oklart vad lasten omfattar, och tillverkarens egen sida anger 110 kg: https://www.elite-it.com/en/products/home-trainers/rollers/arion (\"Maximum load 110 kg\"). Motsägelse i en säkerhetsuppgift: 115 kg får inte stå (R2/R4). Enligt BESLUTSLOGG 2026-11-04 (tillverkarens sida först) ersätts den med tillverkarens 110 kg utan tolkning av vad lasten omfattar. 10 lägen för framrullen stämmer med tillverkaren. Typordet Träningsrulle står i källtexten. Misuro B+ formulerat som tillägg, rätt."
+ },
+ {
+  "nr": 9632,
+  "id": "10472281211146",
+  "fil": "k_09b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Belastning enligt tillverkaren: Maximal belastningskapacitet 115 kg (hjul + förare)",
+    "efter": "Belastning enligt tillverkaren: Maximal last 110 kg"
+   }
+  },
+  "skal": "Samma fel som 9631: \"115 kg (hjul + förare)\" är maskinöversatt och motsägs av tillverkaren, som anger 110 kg: https://www.elite-it.com/en/home-trainers/classic-rollers/quick-motion (\"Load 110 kg\", magnetiskt motstånd i 3 lägen, hopfällbar). Ersätts med tillverkarens 110 kg. Typordet Träningsrulle är live-titelns. Säkerhetsmeningen (säkrare att ställa sig upp, balans) och 11 justeringslägen (trasig rad) rätt utelämnade."
+ },
+ {
+  "nr": 9634,
+  "id": "10636605227274",
+  "fil": "k_09b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Mått, 12 hyllplan, 10 cm mellanrum, stål, svart, hantlar ingår ej och maximal belastning 300 kg (ren svensk rad) ur källan. GS struket som i k_08c. Stabil/robust/stadigt utelämnat. Ingen leveranstidsmening, rätt."
+ },
+ {
+  "nr": 9635,
+  "id": "10636736299274",
+  "fil": "k_09b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Full granskning (bänk som bär last): mått 101 x 37,5 x 49,5–59,5 cm, 15 kg, svart, höjd- och djupjustering och maximal belastning 130 kg (ren svensk etiketterad rad) stämmer med källan; lastgränsen en gång enligt tillverkaren. Att motståndet kan ökas med vikter är medvetet utelämnat, bra. Typordet Sissy squat-bänk står i källan. En variant. Sissy Squat Profi (10636704973066) är en annan produkt, ingen dublett."
+ },
+ {
+  "nr": 9640,
+  "id": "10462175265034",
+  "fil": "k_09b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typordet Träningsboll är live-titelns (R7). PVC, 65 cm, grå, 1,3 kg ur källan. \"Maximal belastning: 250 kg\" är en ren svensk rad och står en gång; den trasiga PVC-raden och explosionssäker/rehabilitering utelämnade."
+ },
+ {
+  "nr": 9642,
+  "id": "10472243757322",
+  "fil": "k_09b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Bredd, konstruktion, XTT Light kolfibernos och hälsektion, belag och profil ordagrant ur källan; ultralätt, bästa glid, Aircell-löftet, Nano-raden och designfelsmeningen utelämnade. Längd skrivs inte (bara i SKU), rätt. Leveranstidsmening finns, taggen finns."
+ },
+ {
+  "nr": 9643,
+  "id": "10470997721354",
+  "fil": "k_09b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "\"Fuktbeständigt material\" och \"halkfri yta\" står ordagrant och återges en gång med enligt tillverkaren (R5). Gymnastikrulle är live-titelns ord. Tunn men sann; slitstarkt och säkerhet utelämnade."
+ },
+ {
+  "nr": 9644,
+  "id": "10462169235722",
+  "fil": "k_09b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Mycket tunn källa (bara 2x1 kg och användningen); kort meta enligt standard §14 är tillåtet alternativ i R3. Inget påstående utöver källan; blå-fläckig rätt utelämnat ur texten. Se utlåtandet om konsekvens mot 9648."
+ },
+ {
+  "nr": 9646,
+  "id": "10472250933514",
+  "fil": "k_09b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "ABS + EVA, 38 x 12,7 x 18 cm och användningsområdena ur källan; flexibilitet, rätt position och muskulär involvering utelämnade. Texten godkänns, men live-priset är 9 kr (variant 929896) och det är troligen ett prisfel: lyfts till David, texten påverkas inte."
+ }
+]

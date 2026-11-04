@@ -1,0 +1,12 @@
+[
+ {
+  "id": "10636616040714",
+  "nr": 9737,
+  "skäl": "Redan skriven: ingår i facit-30 (David godkände 2026-10-31, skrevs 2026-11-01; live-SEO och beskrivning har redan vår struktur med Passar för, Specifikationer och standardblock). Leverantörens originaltext finns inte längre live (R3: vår egen text räknas inte som källa), så en omskrivning saknar källa och skulle bara ändra redan godkänd text. Texter-klara-taggen saknas; den hanteras av koordinatorn (R15/R18), inte i denna batch."
+ },
+ {
+  "id": "10636636782858",
+  "nr": 9747,
+  "skäl": "Redan skriven: ingår i facit-30 (David godkände 2026-10-31, skrevs 2026-11-01). Live-beskrivningen är vår egen text med Passar för, Specifikationer, standardblock och en FAQ-sektion (Vanliga frågor) som skriptet flaggar; leverantörens originaltext finns inte längre live (R3), så ingen ny källa finns att skriva från. Föreslås hanteras av koordinatorn (FAQ-rensning och tagg), inte i denna batch."
+ }
+]
