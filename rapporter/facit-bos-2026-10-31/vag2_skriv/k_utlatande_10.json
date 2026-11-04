@@ -1,0 +1,534 @@
+[
+ {
+  "nr": 9701,
+  "id": "10636628525322",
+  "fil": "k_10a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (trä, 40 cm, 8 cm, svart). Halkfri och 180 kg ordagrant i källan; 180 kg är svensk etiketterad rad (R4). Två enligt tillverkaren (R5). Effekt-/fysioterapiord utelämnade."
+ },
+ {
+  "nr": 9702,
+  "id": "10636627771658",
+  "fil": "k_10a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Två varianter (2,8/3,5 m) med samma pris 279 kr; titeln nämner båda, texten sann för båda (R3). TRYM som i redan skrivna TRYM-produkter (se md om R8)."
+ },
+ {
+  "nr": 9703,
+  "id": "10636602245386",
+  "fil": "k_10a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typordet Stretchplatta står i källtexten (R7). Trä struket med rätta: källan anger PVC-yta och EVA-undersida. 300 kg är svensk etiketterad rad (R4); halksäker ordagrant, enligt tillverkaren."
+ },
+ {
+  "nr": 9704,
+  "id": "10636624822538",
+  "fil": "k_10a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Ryggsträckare, Fem Nivåer",
+    "efter": "Ryggsträckare, Fem Stapelbara Delar"
+   },
+   "seo_title": {
+    "fore": "Ryggsträckare, Fem Nivåer",
+    "efter": "Ryggsträckare, Fem Delar"
+   },
+   "html": [
+    {
+     "fore": "Höjden kan ändras i fem nivåer.",
+     "efter": "Höjden justeras genom att delarna staplas."
+    },
+    {
+     "fore": "Dig som vill kunna ändra höjden i fem nivåer",
+     "efter": "Dig som vill kunna justera höjden genom att stapla delarna"
+    },
+    {
+     "fore": "Höjd: Justerbar i fem nivåer",
+     "efter": "Höjd: Justerbar genom att delarna staplas"
+    }
+   ]
+  },
+  "skal": "Källan motsäger sig: \"Fem nivåer\" (spec) mot \"tre justerbara höjder\" (löptext). Enligt R2 utelämnas nivåantalet; det entydiga \"fem stapelbara delar\" och att höjden justeras genom stapling står kvar. Titel och SEO-titel justerade. Hälso-/rehab-ord rätt utelämnade."
+ },
+ {
+  "nr": 9705,
+  "id": "10636627411210",
+  "fil": "k_10a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typordet Hopprep står i källtexten (\"detta hopprep\"); Speed Rope behålls som modellnamn (R7). Kullager, 80 g, 13,5 cm, 3 m och justerbar längd står i källan."
+ },
+ {
+  "nr": 9706,
+  "id": "10636744786186",
+  "fil": "k_10a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typordet Maghjul står i källtexten (\"maghjulet\"), live-titeln är engelsk/blandad (R7). 200 kg är svensk etiketterad rad (R4). Vikten 650 g rätt utelämnad (oklart vad den gäller). Knäskydd/stabilitet utelämnade."
+ },
+ {
+  "nr": 9707,
+  "id": "10636652970250",
+  "fil": "k_10a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Två varianter (300 cm 3 799 kr, 500 cm 6 399 kr); titeln nämner båda och varje uppgift gäller båda (mått anges 300/500 x 100 x 10). \"Tål hög belastning\" och vattenanvändning rätt utelämnade."
+ },
+ {
+  "nr": 9708,
+  "id": "10636685476106",
+  "fil": "k_10a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Nio färger, svart 369 kr övriga 229 kr; titeln låser ingen färg och texten gäller alla. Halkfritt och 220 kg ordagrant/etiketterat, en gång var enligt tillverkaren."
+ },
+ {
+  "nr": 9709,
+  "id": "10636685639946",
+  "fil": "k_10a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Nio färger, grå 369 kr övriga 359 kr; texten gäller alla. \"Maxsimal belastning: 220kg\" är en entydig etiketterad svensk rad trots stavfelet (R4)."
+ },
+ {
+  "nr": 9710,
+  "id": "10636695306506",
+  "fil": "k_10a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Sex färger, svart 679 kr övriga 579 kr; texten gäller alla. 100 kg etiketterad (R4). Balans-/rehab-/bålstyrkeord (även i live-SEO) rätt utelämnade."
+ },
+ {
+  "nr": 9711,
+  "id": "10636684165386",
+  "fil": "k_10a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart. Stående/sittande övningar står i källan. Halkfri och 120 kg, två enligt tillverkaren."
+ },
+ {
+  "nr": 9712,
+  "id": "10636618268938",
+  "fil": "k_10a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tio färger, samma pris 659 kr; färgerna ur varianterna. Movit står i live-titeln. \"Hållbar\", kroppskontroll rätt utelämnade."
+ },
+ {
+  "nr": 9713,
+  "id": "10636731711754",
+  "fil": "k_10a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn källa men två entydiga fakta utöver titeln (härdad plast, 0,6 kg), R3 uppfylld. Motstridiga mått (132,5 x 15 cm mot diameter 39,5 cm) rätt utelämnade (R2)."
+ },
+ {
+  "nr": 9714,
+  "id": "10636711526666",
+  "fil": "k_10a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (dubbla slag, två ventiler, slang 16 cm, 30 cm, 3,6 cm, 136 g, svart). \"Tidseffektivt\" rätt utelämnat."
+ },
+ {
+  "nr": 9715,
+  "id": "10636670697738",
+  "fil": "k_10a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typordet Bollstativ behålls från live-titeln (R7: behåll titelns ord); källans \"bollhållare\" står i parentes. Uppblåsbart, gummi, 45 cm, 780 g, 55–75 cm och Ingår-raden står i källan. Säkerhetsord rätt utelämnade."
+ },
+ {
+  "nr": 9716,
+  "id": "10636739477770",
+  "fil": "k_10a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart. Halkfri ordagrant, en gång enligt tillverkaren. Effektord rätt utelämnade."
+ },
+ {
+  "nr": 9717,
+  "id": "10636649857290",
+  "fil": "k_10a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart. Excalibur enligt R8. Stöd/stabilisering och den trasiga svettmeningen rätt utelämnade (R2/R5)."
+ },
+ {
+  "nr": 9718,
+  "id": "10636657950986",
+  "fil": "k_10a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart. Slitstark, passform, slagabsorption och skydd rätt utelämnade."
+ },
+ {
+  "nr": 9719,
+  "id": "10636720865546",
+  "fil": "k_10a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "\"Maximal belastning chinsräcke: 120kg\" är svensk etiketterad rad som anger vad lasten gäller (R4), en gång enligt tillverkaren. Chinsstång står i källan. Expanderraden rätt utelämnad."
+ },
+ {
+  "nr": 9720,
+  "id": "10636659687690",
+  "fil": "k_10a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart. Fyllningen är ingen lastgräns. Slitstarkt och slagabsorption rätt utelämnade."
+ },
+ {
+  "nr": 9721,
+  "id": "10636744589578",
+  "fil": "k_10a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "18 varianter (3 storlekar x 6 färger, 279–319 kr); titeln anger spannet 55–75 cm och texten gäller alla. 500 kg är svensk etiketterad rad (R4)."
+ },
+ {
+  "nr": 9722,
+  "id": "10636716441866",
+  "fil": "k_10a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Motstånd i kg är bandmotstånd, inte lastgräns (R4), återges ordagrant. Rehab och \"maximalt motstånd\" rätt utelämnade."
+ },
+ {
+  "nr": 9723,
+  "id": "10636715032842",
+  "fil": "k_10a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn källa men tre band, handtagets diameter, längd och bredd står som etiketterade rader. Godtas."
+ },
+ {
+  "nr": 9724,
+  "id": "10636744982794",
+  "fil": "k_10a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "\"Ca 10 kg per band\" är motstånd, inte lastgräns, en gång enligt tillverkaren. Övriga mått spårbara."
+ },
+ {
+  "nr": 9725,
+  "id": "10636706185482",
+  "fil": "k_10a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Styrka i lb/kg är motstånd, inte lastgräns. Måtten och färgerna spårbara. Länk och showroom rätt utelämnade."
+ },
+ {
+  "nr": 9726,
+  "id": "10636714901770",
+  "fil": "k_10b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymmatta på 101 x 60 x 1 cm med räfflad yta",
+    "efter": "Gymmattan på 101 x 60 x 1 cm har räfflad yta"
+   }
+  },
+  "skal": "Meta saknade finit verb i första meningen (R11); rättad med verb, inga nya uppgifter. Stativ rätt utelämnat (oklart om det ingår)."
+ },
+ {
+  "nr": 9727,
+  "id": "10636605587722",
+  "fil": "k_10b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymmatta i PVC på 120 x 60 x 0,6 cm som väger",
+    "efter": "Gymmattan i PVC mäter 120 x 60 x 0,6 cm och väger"
+   }
+  },
+  "skal": "Meta saknade finit verb i första meningen (R11); rättad med verb, inga nya uppgifter. Skydd mot repor/ljuddämpning och halkfri står ordagrant, en mening med enligt tillverkaren; vibrationer utelämnat."
+ },
+ {
+  "nr": 9728,
+  "id": "10636605391114",
+  "fil": "k_10b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymmatta i PVC på 180 x 60 x 0,6 cm som väger",
+    "efter": "Gymmattan i PVC mäter 180 x 60 x 0,6 cm och väger"
+   }
+  },
+  "skal": "Meta saknade finit verb i första meningen (R11); rättad med verb, inga nya uppgifter. 180 x 60 x 0,6 cm är rätt: live-titel, SEO, etiketterad måttrad, vikten 2,9 kg (mot 1,9 kg) och SKU -0002 stämmer; \"120x60cm\" i första meningen är kopierad från 9727."
+ },
+ {
+  "nr": 9729,
+  "id": "10636649431306",
+  "fil": "k_10b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Två gymmattor på",
+    "efter": "Paret består av två gymmattor på"
+   }
+  },
+  "skal": "Meta saknade finit verb i första meningen (R11); rättad med verb, inga nya uppgifter."
+ },
+ {
+  "nr": 9730,
+  "id": "10636649234698",
+  "fil": "k_10b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Set med två gymmattor",
+    "efter": "Setet består av två gymmattor"
+   }
+  },
+  "skal": "Meta saknade finit verb i första meningen (R11); rättad med verb, inga nya uppgifter. \"Maximal belastning: 20kg\" står under \"Övrig information mattstativ\" och gäller entydigt stativet (R4)."
+ },
+ {
+  "nr": 9731,
+  "id": "10636637503754",
+  "fil": "k_10b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tre band är entydigt: tre färger med var sin styrka och var sin omkrets, \"banden\" i plural och PAKET i titeln. Inte dubblett av 9737 (Women's Health, SKU 4407, 299 kr) mot 9731 (SKU 101245, 239 kr); titlarna skiljer sig."
+ },
+ {
+  "nr": 9738,
+  "id": "10636694520074",
+  "fil": "k_10b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "10 varianter (5 färger x 120/200 cm, 99/139 kr); texten gäller alla. Utelämnandet av tjocklek per färg är försvarbart (tabellen säger Turkos, varianter och färglistan Blå); spannet 0,25–0,65 mm stämmer."
+ },
+ {
+  "nr": 9739,
+  "id": "10636671385866",
+  "fil": "k_10b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Paket med fem latexband",
+    "efter": "Paketet innehåller fem latexband"
+   }
+  },
+  "skal": "Meta saknade finit verb i första meningen (R11); rättad med verb, inga nya uppgifter. Två varianter (Paket 120/200 cm, 349/559 kr); samma kg-värden för båda längderna i källan. Kg är bandmotstånd."
+ },
+ {
+  "nr": 9746,
+  "id": "10636609421578",
+  "fil": "k_10b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Paket med fem miniband",
+    "efter": "Paketet innehåller fem miniband"
+   },
+   "titel": {
+    "fore": "Miniband Trym",
+    "efter": "Miniband TRYM"
+   },
+   "seo_title": {
+    "fore": "Miniband Trym",
+    "efter": "Miniband TRYM"
+   },
+   "html": {
+    "fore": "Märke: Trym",
+    "efter": "Märke: TRYM"
+   }
+  },
+  "skal": "Meta saknade finit verb i första meningen (R11); rättad med verb, inga nya uppgifter. Märket harmoniseras till TRYM som i 9702/9705 och tre redan skrivna TRYM-produkter. Styrkeetiketterna i fel ordning och rehab rätt utelämnade (R2/R5)."
+ },
+ {
+  "nr": 9732,
+  "id": "10636674400522",
+  "fil": "k_10b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Kullager och färgerna finns i live-titeln; kablarnas färger och tjocklek i källan. Ergonomi- och kvalitetsord rätt utelämnade."
+ },
+ {
+  "nr": 9733,
+  "id": "10636646285578",
+  "fil": "k_10b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart. \"Särskilt lätta\" ordagrant, en gång enligt tillverkaren."
+ },
+ {
+  "nr": 9734,
+  "id": "10636667748618",
+  "fil": "k_10b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Speed Rope är ett hopprep med 300 cm långt rep",
+    "efter": "Hopprepet Speed Rope har 300 cm långt rep"
+   },
+   "html": {
+    "fore": "Speed Rope är ett hopprep med 300 cm långt rep",
+    "efter": "Hopprepet Speed Rope har 300 cm långt rep"
+   }
+  },
+  "skal": "Inledningen \"Speed Rope är ett hopprep\" är i praktiken cirkulär (speed rope = hopprep, R11); rättad i meta och html."
+ },
+ {
+  "nr": 9735,
+  "id": "10636615745802",
+  "fil": "k_10b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Women's Health Speed Rope är ett hopprep med vikthandtag,",
+    "efter": "Hopprepet Women's Health Speed Rope har vikthandtag,"
+   },
+   "html": {
+    "fore": "Women's Health Speed Rope är ett hopprep med vikthandtag,",
+    "efter": "Hopprepet Women's Health Speed Rope har vikthandtag,"
+   }
+  },
+  "skal": "Inledningen \"... Speed Rope är ett hopprep\" cirkulär (R11); rättad. \"Aktiverar armar och bål\" står ordagrant, en gång enligt tillverkaren (R5)."
+ },
+ {
+  "nr": 9736,
+  "id": "10636615581962",
+  "fil": "k_10b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Färgen rätt utelämnad: \"Snyggt rosa\" i löptext mot \"Grå/Magenta\" i specifikationen (R2, försiktigt men godtagbart). Övriga uppgifter spårbara."
+ },
+ {
+  "nr": 9740,
+  "id": "10636708970762",
+  "fil": "k_10b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Paket med fem medicinbollar",
+    "efter": "Paketet innehåller fem medicinbollar"
+   }
+  },
+  "skal": "Meta saknade finit verb i första meningen (R11); rättad med verb, inga nya uppgifter. Summan 1+2+3+4+5 = 15 kg stämmer med live-titeln."
+ },
+ {
+  "nr": 9741,
+  "id": "10636708741386",
+  "fil": "k_10b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Paket med tre medicinbollar",
+    "efter": "Paketet innehåller tre medicinbollar"
+   }
+  },
+  "skal": "Meta saknade finit verb i första meningen (R11); rättad med verb, inga nya uppgifter."
+ },
+ {
+  "nr": 9742,
+  "id": "10636708643082",
+  "fil": "k_10b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Paket med tre medicinbollar",
+    "efter": "Paketet innehåller tre medicinbollar"
+   }
+  },
+  "skal": "Meta saknade finit verb i första meningen (R11); rättad med verb, inga nya uppgifter."
+ },
+ {
+  "nr": 9743,
+  "id": "10636688228618",
+  "fil": "k_10b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Paket med tio medicinbollar",
+    "efter": "Paketet innehåller tio medicinbollar"
+   }
+  },
+  "skal": "Meta saknade finit verb i första meningen (R11); rättad med verb, inga nya uppgifter. 55 kg står i källtexten och stämmer med summan."
+ },
+ {
+  "nr": 9744,
+  "id": "10636660474122",
+  "fil": "k_10b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Meditationskudde Half Moon Zafu har",
+    "efter": "Meditationskudden Half Moon Zafu har"
+   },
+   "html": [
+    {
+     "fore": "Speltskal, ekologiska och från Österrike (enligt tillverkaren)",
+     "efter": "Speltskal, ekologiska och från Österrike"
+    },
+    {
+     "fore": "Färger: Svart, Röd, Lila, Mörkblå, Ljusblå, Mörkgrön, Ljusgrön, Gul, Orange, Grå/Vit",
+     "efter": "Färger: Svart, röd, lila, mörkblå, ljusblå, mörkgrön, ljusgrön, gul, orange och grå/vit"
+    }
+   ]
+  },
+  "skal": "\"Enligt tillverkaren\" stod två gånger för samma påstående (löptext och specifikation, R5); specifikationsraden rensas. Färglistan med versaler mitt i raden ändras till gemener. Meta får bestämd form."
+ },
+ {
+  "nr": 9745,
+  "id": "10636682199306",
+  "fil": "k_10b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Meditationskudde Zafu har",
+    "efter": "Meditationskudden Zafu har"
+   },
+   "html": [
+    {
+     "fore": "Speltskal, ekologiska och från Österrike (enligt tillverkaren)",
+     "efter": "Speltskal, ekologiska och från Österrike"
+    },
+    {
+     "fore": "Färger: Svart, Vit, Gul, Röd, Orange, Lila, Mörkblå, Ljusblå, Mörkgrön, Ljusgrön",
+     "efter": "Färger: Svart, vit, gul, röd, orange, lila, mörkblå, ljusblå, mörkgrön och ljusgrön"
+    }
+   ]
+  },
+  "skal": "Som 9744: dubbelt \"enligt tillverkaren\" för fyllningen (R5), versaler i färglistan, bestämd form i meta. Tio varianter 559–679 kr, texten gäller alla."
+ },
+ {
+  "nr": 9748,
+  "id": "10636677120266",
+  "fil": "k_10b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Höga parallettes som säljs parvis, har",
+    "efter": "Dessa höga parallettes säljs parvis, har"
+   }
+  },
+  "skal": "Tre färger (1 479/1 519 kr), texten gäller alla. \"Maximal belastning per parallette: 100kg\" svensk etiketterad (R4), en gång. Vikten 7 kg rätt utelämnad (per styck eller par oklart). Meta: kommatecknet mellan subjekt och verb rättas."
+ },
+ {
+  "nr": 9749,
+  "id": "10636677480714",
+  "fil": "k_10b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Parallettes med två hängande handtag av svart pulverlackat stål.",
+    "efter": "Den sammansatta varianten av parallettes har två hängande handtag och är gjord av svart pulverlackat stål."
+   }
+  },
+  "skal": "Meta saknade finit verb i första meningen (R11); rättad med verb, inga nya uppgifter. \"Maximal belastning: 150kg\" svensk etiketterad (R4)."
+ },
+ {
+  "nr": 9750,
+  "id": "10636666732810",
+  "fil": "k_10b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tre färger (1 299/1 359 kr), texten gäller alla. \"Maxbelastning: 2x100kg\" svensk etiketterad (R4), en gång. Diameter 4 cm rätt utelämnad."
+ }
+]
