@@ -1,0 +1,319 @@
+[
+ {
+  "nr": 9803,
+  "id": "10612578812170",
+  "fil": "k_11a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "BikeFinder Gen2 är en GPS-spårare för cyklar med GPS, GSM och Bluetooth.",
+    "efter": "GPS-spåraren BikeFinder Gen2 för cyklar bygger på GPS, GSM och Bluetooth."
+   },
+   "html": [
+    {
+     "fore": "<p>BikeFinder Gen2 är en GPS-spårare för cyklar baserad på GPS-, GSM- och Bluetooth-teknik.",
+     "efter": "<p>GPS-spåraren BikeFinder Gen2 för cyklar bygger på GPS-, GSM- och Bluetooth-teknik."
+    },
+    {
+     "fore": "\n<li>Vid stöld: BikeFinder-teamet guidar enligt tillverkaren ägaren genom återvinningsprocessen</li>",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Spårbart (GPS/GSM/Bluetooth, inuti styret, mobilapp, specialverktyg medföljer, månadsavgift 1/12/24 månader). Cirkulär inledning 'BikeFinder Gen2 är en GPS-spårare' i meta och html (R11) rättas. Raden 'Vid stöld: BikeFinder-teamet guidar ... genom återvinningsprocessen' stryks: tjänstelöfte och maskinöversatt ('återvinning' = recovery, R2). Månadsavgiften nämns utan belopp eller löften, vilket är rätt; stöldskydds- och 'alla cyklar'-löften är utelämnade."
+ },
+ {
+  "nr": 9804,
+  "id": "10523474592010",
+  "fil": "k_11a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Cairn Flake är solglasögon i kategori 3.",
+    "efter": "Solglasögonen Cairn Flake tillhör kategori 3."
+   },
+   "html": {
+    "fore": "<p>Cairn Flake är solglasögon i kategori 3 för sport.",
+    "efter": "<p>Solglasögonen Cairn Flake tillhör kategori 3 och är avsedda för sport."
+   }
+  },
+  "skal": "Spårbart (Kat. 3, 128/15/40 mm, reptålig behandling, färg ur titeln). 'Kategori 3' är en ren utskrivning av källans 'Kat. 3' utan förklaring; inga UV-, ögonskydds- eller säkerhetsord (§16). 'Maximalt skydd för dina ögon' är rätt utelämnat. Cirkulär inledning 'Cairn Flake är solglasögon' (R11) rättas i meta och html."
+ },
+ {
+  "nr": 9805,
+  "id": "10494691541258",
+  "fil": "k_11a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (två vridbara handtag, ABS-plast, 0,8 kg par, 20,5 cm, halkskyddade packningar ordagrant). 'Maximal användarvikt: 100 kg' är en ren svensk etiketterad rad (R4). Armhävningsstöd är butikens produkttyp. Två 'enligt tillverkaren'."
+ },
+ {
+  "nr": 9806,
+  "id": "10572432736522",
+  "fil": "k_11a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Träningsremmar Christopeit med Dörrankare",
+    "efter": "Training Belts Christopeit med Dörrankare"
+   },
+   "seo_title": {
+    "fore": "Träningsremmar Christopeit",
+    "efter": "Training Belts Christopeit"
+   },
+   "meta": {
+    "fore": "Christopeit träningsremmar har",
+    "efter": "Christopeit Training Belts har"
+   },
+   "html": [
+    {
+     "fore": "<p>Christopeit träningsremmar har",
+     "efter": "<p>Christopeit Training Belts har"
+    },
+    {
+     "fore": "Dig som söker träningsremmar med medföljande väska",
+     "efter": "Dig som söker träningsband med dörrankare och medföljande väska"
+    },
+    {
+     "fore": "<li>Typ: Träningsremmar</li>",
+     "efter": "<li>Typ: Training Belts</li>"
+    }
+   ]
+  },
+  "skal": "Fakta spårbara (benremmar, oelastiska justerbara längdremmar, dörrankare, varningsetikett, väska, ca 830 g, 'Maximal användarvikt: 100 kg' ren svensk rad, R4 uppfylld). Typordet 'Träningsremmar' saknar stöd enligt R7: live-titeln är 'Training belts', källan säger inte 'träningsremmar', ordet finns inte i profilens godkanda_typord eller i någon live-titel i butiken (sökt 'remmar', 'Träningsrem'). Rättas till titelns ord 'Training Belts'. Alternativ för koordinatorn/David: lägg 'träningsremmar' i godkanda_typord, då kan utkastets text användas oförändrad."
+ },
+ {
+  "nr": 9807,
+  "id": "10636624560394",
+  "fil": "k_11a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (0,45 kg per avtagbar vikt, 0,45–2,25 kg ur titeln, mått, neopren/frotté, reflekterande detaljer som sakuppgift, parvis). Tre färgvarianter till samma pris (429 kr); texten låser ingen färg. 'Ökar säkerheten' och 'slitstark' rätt utelämnade."
+ },
+ {
+  "nr": 9809,
+  "id": "10636733448458",
+  "fil": "k_11a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Ab Mat Situpskudde GS är en svart kudde i konstläder som mäter 38 x 27,5 x 7 cm och väger 1 kg.",
+    "efter": "Situpskudden Ab Mat GS är gjord av svart konstläder, mäter 38 x 27,5 x 7 cm och väger 1 kg."
+   },
+   "html": {
+    "fore": "<p>Ab Mat Situpskudde GS är en kudde i konstläder som placeras under svanken vid sit-ups-träning.",
+    "efter": "<p>Situpskudden Ab Mat GS i konstläder placeras under svanken vid sit-ups-träning."
+   }
+  },
+  "skal": "Spårbart (38 x 27,5 x 7 cm, 1 kg, konstläder, svart, under svanken, 'ger stöd och en längre rörelsebana' ordagrant med 'enligt tillverkaren'). Smärtpåståenden rätt utelämnade. Cirkulär inledning 'Situpskudde GS är en svart kudde' (R11) rättas i meta och html."
+ },
+ {
+  "nr": 9810,
+  "id": "10636724732170",
+  "fil": "k_11a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Ab Mat Situpskudde Ryggstöd är en svart kudde i konstläder och skumplast som mäter",
+    "efter": "Situpskudden Ab Mat Ryggstöd i svart konstläder och skumplast mäter"
+   },
+   "html": {
+    "fore": "<p>Ab Mat Situpskudde Ryggstöd är en kudde i konstläder och kompakt skumplast för sit-ups.",
+    "efter": "<p>Situpskudden Ab Mat Ryggstöd i konstläder och kompakt skumplast används vid sit-ups."
+   }
+  },
+  "skal": "Spårbart (40 x 21 x 6,4 cm, 600 g, konstläder och kompakt skumplast, färgraden). 'Stödjer ländryggen' står ordagrant i källan och står en gång med 'enligt tillverkaren' (R5). Ryggvärkspåståendet rätt utelämnat. Cirkulär inledning (R11) rättas i meta och html."
+ },
+ {
+  "nr": 9811,
+  "id": "10636746817802",
+  "fil": "k_11a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Ab Roller är en magtränare som mäter 65 x 67 x 55 cm.",
+    "efter": "Magtränaren Ab Roller mäter 65 x 67 x 55 cm."
+   },
+   "html": {
+    "fore": "<p>Ab Roller är en magtränare med skumvadderade grepp och nackstöd.",
+    "efter": "<p>Magtränaren Ab Roller har skumvadderade grepp och nackstöd."
+   }
+  },
+  "skal": "Spårbart (65 x 67 x 55 cm, nackstöd 35 x 25 x 3 cm, matta 80 x 45 x 0,6 cm, skumvadderade grepp, svart och silver). 'Lätt på ryggen', 'garanterar korrekt rörelse' rätt utelämnade; ingen lastuppgift i källan och ingen skrivs. Cirkulär inledning 'Ab Roller är en magtränare' (R11) rättas."
+ },
+ {
+  "nr": 9812,
+  "id": "10636726698250",
+  "fil": "k_11a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Ab Sling är ett redskap för magträning i nylon med bred, vadderad rem och massiva karbinhakar, till övningar som knä- och bencrunches.",
+    "efter": "Ab Sling för magträning har bred, vadderad rem i nylon och massiva karbinhakar och används till övningar som knä- och bencrunches."
+   },
+   "html": [
+    {
+     "fore": "<p>Ab Sling är ett redskap för magträning med bred, vadderad rem och massiva karbinhakar.",
+     "efter": "<p>Ab Sling för magträning har bred, vadderad rem och massiva karbinhakar."
+    },
+    {
+     "fore": "<li>Maximal belastning enligt tillverkaren: 300 kg</li>",
+     "efter": "<li>Max belastning enligt tillverkaren: 300 kg</li>"
+    }
+   ]
+  },
+  "skal": "Spårbart (nylon, bred vadderad rem, massiva karbinhakar, färg). Hängande redskap: källan har den rena svenska raden 'Max belastning: 300kg'. Etiketten återges ordagrant ('Max belastning', inte 'Maximal belastning') enligt R4. 'Ab Sling är ett redskap för magträning' i meta och html är en definitionsinledning av samma slag som rättats tidigare (R11) och skrivs om med verb."
+ },
+ {
+  "nr": 9813,
+  "id": "10636744130826",
+  "fil": "k_11a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (pedaler för fötter, gummerade handtag, 3 kg, 'något större än det traditionella maghjulet' med 'enligt tillverkaren'). Färgraden 'Svart, silver/grå och röd' är rätt utelämnad: en enda variant och raden kan vara flerfärgad produkt eller färgval, vilket inte går att avgöra (R2). Typordet 'Maghjul' står i källan ('Maghjulet'), R7 uppfylld."
+ },
+ {
+  "nr": 9814,
+  "id": "10636745769226",
+  "fil": "k_11a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (30 mm till 50 mm, 51 mm hål, två fjäderlås för 50 mm, 23 cm, parvis). 'Insektsnyckel' återges som '4 mm nyckel (ingår ej)', vilket varken tolkar till insexnyckel eller behåller felöversättningen. Ingen lastuppgift i källan och ingen skrivs. Inte dubblett av 9815 (annan färg, SKU och pris)."
+ },
+ {
+  "nr": 9815,
+  "id": "10636665094410",
+  "fil": "k_11a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Paret är 23 cm långt.",
+    "efter": "Varje adapter är 23 cm lång."
+   }
+  },
+  "skal": "Spårbart (svart, 30 mm, 51 mm hål, två fjäderlås, ett par adaptrar, 23 cm, 50 mm). Meta 'Paret är 23 cm långt' är fel: längden gäller varje adapter, inte paret. Rättas."
+ },
+ {
+  "nr": 9817,
+  "id": "10636673188106",
+  "fil": "k_11a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tio varianter med olika pris (429–1 099 kr), livevarianterna stämmer med färg och vikt i texten. Titeln 'Fast Vikt 1–10 kg' låser ingen variant och alla mått anges per vikt ur källans detaljlista. Ingen rättning."
+ },
+ {
+  "nr": 9818,
+  "id": "10636672237834",
+  "fil": "k_11a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (stativ och tio stänger 1–10 kg med färger ur paketlistan, totalt 55 kg ur titeln och summan). En variant. Stativets mått och last saknas i källan och skrivs inte. Meta har verb."
+ },
+ {
+  "nr": 9819,
+  "id": "10636719390986",
+  "fil": "k_11a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Anchor Straps är ett par nylonslingor som placeras runt ett stativ eller en pelare. Karbinhakar medföljer och varje band är 39 cm långt.",
+    "efter": "Slingorna Anchor Straps i nylon säljs parvis och placeras runt ett stativ eller en pelare. Varje band är 39 cm långt."
+   },
+   "html": [
+    {
+     "fore": "<p>Anchor Straps är ett par slingor i nylon som placeras runt ett stativ eller en pelare, med handtaget fäst i karbinhaken. Karbinhakar medföljer.</p>",
+     "efter": "<p>Slingorna Anchor Straps i nylon säljs parvis och placeras runt ett stativ eller en pelare, med handtaget fäst i karbinhaken.</p>"
+    },
+    {
+     "fore": "\n<li>Karbinhakar: Medföljer</li>",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Källan motsäger sig om karbinhakarna ('inklusive två karbinhakar' mot 'inkluderar även en karbinhake'). Utkastet skriver ändå 'Karbinhakar medföljer' (plural) i meta, löptext och specifikation, vilket tar ställning för två. Antalet stryks överallt (R2); 'fäst handtaget i karbinhaken' står kvar som användning. 'Maximal dragkraft(totalt): 400kg' är en ren svensk etiketterad rad och återges ordagrant en gång (R4). Cirkulär inledning 'Anchor Straps är ett par nylonslingor' (R11) rättas."
+ },
+ {
+  "nr": 9820,
+  "id": "10636717949194",
+  "fil": "k_11a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (fast vinkel 90 grader, tre gummerade fötter, 104 x 76 x 109 cm, svart). 'Maxbelastning sittplats: 250kg' är en ren svensk rad och löptexten anger samma värde (inte olika värden, R4 v1.5); återges ordagrant en gång. 'Gör bänken stabil' rätt utelämnat. Produkttypen live är 'Out of stock' men status är ACTIVE."
+ },
+ {
+  "nr": 9821,
+  "id": "10636737937674",
+  "fil": "k_11a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Barbell Grips är ett par svarta grepp i silikon som sveps runt skivstång eller hantelstång.",
+    "efter": "De svarta greppen Barbell Grips i silikon säljs i par och sveps runt skivstång eller hantelstång."
+   },
+   "html": {
+    "fore": "<p>Barbell Grips är extra grepp i silikon som sveps runt",
+    "efter": "<p>De extra greppen Barbell Grips i silikon sveps runt"
+   }
+  },
+  "skal": "Spårbart (silikon, 12,5 cm, 5 cm, 1,3 cm, 190 g, svart, par, ingen hantel). Effekt-, led- och kvalitetsord rätt utelämnade. Cirkulär inledning 'Barbell Grips är ett par svarta grepp' (R11) rättas i meta och html."
+ },
+ {
+  "nr": 9822,
+  "id": "10636636520714",
+  "fil": "k_11a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Battle Rope är ett träningsrep med medföljande fäste. Det finns",
+    "efter": "Träningsrepet Battle Rope levereras med fäste och finns"
+   },
+   "html": {
+    "fore": "<p>Battle Rope är ett träningsrep som fixeras runt",
+    "efter": "<p>Träningsrepet Battle Rope fixeras runt"
+   }
+  },
+  "skal": "Sex varianter (9/12/15 m x 3,8/5 cm) med olika pris; titel och text låser ingen variant, 'fäste medföljer' gäller produkten. Material och vikt saknas och skrivs inte. 'De tjockare varianterna är tyngre' står ordagrant i källan. Cirkulär inledning 'Battle Rope är ett träningsrep' (R11) rättas."
+ },
+ {
+  "nr": 9823,
+  "id": "10636742328586",
+  "fil": "k_11a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Battle Rope är ett träningsrep på 15 m i nylon med diameter 3,8 eller 5 cm.",
+    "efter": "Träningsrepet Battle Rope är 15 m långt, tillverkat i nylon och finns med diameter 3,8 eller 5 cm."
+   },
+   "html": {
+    "fore": "<p>Battle Rope är ett träningsrep på 15 m i 100 procent nylon som finns med diametern 3,8 eller 5 cm.",
+    "efter": "<p>Träningsrepet Battle Rope är 15 m långt, tillverkat i 100 procent nylon och finns med diametern 3,8 eller 5 cm."
+   }
+  },
+  "skal": "Två varianter (3,8 och 5 cm) med olika pris; vikt anges per diameter ur källan. 'Extremt hållbart' rätt utelämnat, 'inomhus och utomhus' med 'enligt tillverkaren'. Cirkulär inledning (R11) rättas i meta och html."
+ },
+ {
+  "nr": 9824,
+  "id": "10636738527498",
+  "fil": "k_11a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (3 mm stål med neoprenbeläggning, nylonband med justerbart spänne, vadderad nackkudde, 57 x 8,5 cm, 700 g, svart, skivstång ingår ej). Typordet ur källan, syskonets 'Bicepsfäste' rätt inte lånat (R1). 'Fixerar stadigt och säkert' rätt utelämnat. Meta har verb och är inte cirkulär."
+ },
+ {
+  "nr": 9825,
+  "id": "10636713492746",
+  "fil": "k_11a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Bulgarian Bag är en svart viktsäck i konstläder med sandfyllning och tre handtag.",
+    "efter": "Viktsäcken Bulgarian Bag i svart konstläder har sandfyllning och tre handtag."
+   },
+   "html": {
+    "fore": "<p>Bulgarian Bag är en viktsäck i konstläder med sandfyllning och tre handtag.",
+    "efter": "<p>Viktsäcken Bulgarian Bag är gjord av konstläder och har sandfyllning och tre handtag."
+   }
+  },
+  "skal": "Fem varianter med olika pris (1 099–1 549 kr); titeln låser ingen variant och mått anges per vikt. 'Slitstarkt' rätt utelämnat; sandfyllning är fyllnadsmängd, inte lastgräns. Cirkulär inledning 'Bulgarian Bag är en svart viktsäck' (R11) rättas i meta och html."
+ }
+]
