@@ -1,0 +1,1008 @@
+[
+ {
+  "url": "https://alphazoo.se/",
+  "status": 200,
+  "slutadress": "https://alphazoo.se/",
+  "bytes": 535386,
+  "html_lang": "sv",
+  "title": "Alpha Zoo Nordics",
+  "meta_description": "Hundmat och kattmat av högsta av kvalité. Det bästa för den bästa helt enkelt.",
+  "canonical": "https://alphazoo.se/",
+  "robots_meta": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "hreflang": [
+   [
+    "x-default",
+    "https://alphazoo.se/"
+   ],
+   [
+    "sv",
+    "https://alphazoo.se/"
+   ],
+   [
+    "da",
+    "https://alphazoo.se/da"
+   ],
+   [
+    "en",
+    "https://alphazoo.se/en"
+   ],
+   [
+    "fi",
+    "https://alphazoo.se/fi"
+   ],
+   [
+    "nb",
+    "https://alphazoo.se/nb"
+   ],
+   [
+    "da-DK",
+    "https://alphazoo.dk/"
+   ],
+   [
+    "en-DK",
+    "https://alphazoo.dk/en"
+   ],
+   [
+    "sv-DK",
+    "https://alphazoo.dk/sv"
+   ],
+   [
+    "fi-DK",
+    "https://alphazoo.dk/fi"
+   ],
+   [
+    "nb-DK",
+    "https://alphazoo.dk/nb"
+   ],
+   [
+    "fi-FI",
+    "https://alphazoo.fi/"
+   ],
+   [
+    "en-FI",
+    "https://alphazoo.fi/en"
+   ],
+   [
+    "sv-FI",
+    "https://alphazoo.fi/sv"
+   ],
+   [
+    "nb-FI",
+    "https://alphazoo.fi/nb"
+   ],
+   [
+    "nb-NO",
+    "https://alphazoo.no/"
+   ],
+   [
+    "da-NO",
+    "https://alphazoo.no/da"
+   ],
+   [
+    "en-NO",
+    "https://alphazoo.no/en"
+   ],
+   [
+    "sv-NO",
+    "https://alphazoo.no/sv"
+   ],
+   [
+    "fi-NO",
+    "https://alphazoo.no/fi"
+   ]
+  ],
+  "og": {
+   "title": "Alpha Zoo Nordics",
+   "type": "website",
+   "description": "Hundmat och kattmat av högsta av kvalité. Det bästa för den bästa helt enkelt.",
+   "image": "https://alphazoo.se/cdn/shop/files/herobanner_6e2230a6-3801-4bec-9b56-33eb06840be2_1200x1200.webp?v=1749123721"
+  },
+  "h1": [],
+  "h2_antal": 44,
+  "jsonld_typer": [
+   "Organization",
+   "WebSite"
+  ],
+  "bilder": 72,
+  "bilder_utan_alt": 51,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-8Q71FMJ45F",
+    "G-8Q71FMJ45F",
+    "G-8Q71FMJ45F"
+   ],
+   "gads": [
+    "AW-18353119554",
+    "AW-18353119554",
+    "AW-18353119554"
+   ],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 2680
+ },
+ {
+  "url": "https://alphazoo.se/products/bajspasar-rosa-smidiga-bajspasar-for-promenaden",
+  "status": 200,
+  "slutadress": "https://alphazoo.se/products/bajspasar-rosa-smidiga-bajspasar-for-promenaden",
+  "bytes": 375308,
+  "html_lang": "sv",
+  "title": "Bajspåsar Rosa – Smidiga bajspåsar för promenaden — Alpha Zoo",
+  "meta_description": "Bajspåsar När du är ute och går med din hund kommer alltid stunden då den behöver göra sina behov.",
+  "canonical": "https://alphazoo.se/products/bajspasar-rosa-smidiga-bajspasar-for-promenaden",
+  "robots_meta": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "hreflang": [
+   [
+    "x-default",
+    "https://alphazoo.se/products/bajspasar-rosa-smidiga-bajspasar-for-promenaden"
+   ],
+   [
+    "sv",
+    "https://alphazoo.se/products/bajspasar-rosa-smidiga-bajspasar-for-promenaden"
+   ],
+   [
+    "da",
+    "https://alphazoo.se/da/products/hundeposer-rosa-smidige-baeseposer-til-gaturen"
+   ],
+   [
+    "en",
+    "https://alphazoo.se/en/products/poop-bags-pink-convenient-poop-bags-for-your-walk"
+   ],
+   [
+    "fi",
+    "https://alphazoo.se/fi/products/kakkapussit-vaaleanpunaiset-katevat-kakkapussit-kavelylenkille"
+   ],
+   [
+    "nb",
+    "https://alphazoo.se/nb/products/baesjposer-rosa-smidige-baesjposer-for-turen-1"
+   ],
+   [
+    "da-DK",
+    "https://alphazoo.dk/products/hundeposer-rosa-smidige-baeseposer-til-gaturen"
+   ],
+   [
+    "en-DK",
+    "https://alphazoo.dk/en/products/poop-bags-pink-convenient-poop-bags-for-your-walk"
+   ],
+   [
+    "sv-DK",
+    "https://alphazoo.dk/sv/products/bajspasar-rosa-smidiga-bajspasar-for-promenaden"
+   ],
+   [
+    "fi-DK",
+    "https://alphazoo.dk/fi/products/kakkapussit-vaaleanpunaiset-katevat-kakkapussit-kavelylenkille"
+   ],
+   [
+    "nb-DK",
+    "https://alphazoo.dk/nb/products/baesjposer-rosa-smidige-baesjposer-for-turen-1"
+   ],
+   [
+    "fi-FI",
+    "https://alphazoo.fi/products/kakkapussit-vaaleanpunaiset-katevat-kakkapussit-kavelylenkille"
+   ],
+   [
+    "en-FI",
+    "https://alphazoo.fi/en/products/poop-bags-pink-convenient-poop-bags-for-your-walk"
+   ],
+   [
+    "sv-FI",
+    "https://alphazoo.fi/sv/products/bajspasar-rosa-smidiga-bajspasar-for-promenaden"
+   ],
+   [
+    "nb-FI",
+    "https://alphazoo.fi/nb/products/baesjposer-rosa-smidige-baesjposer-for-turen-1"
+   ],
+   [
+    "nb-NO",
+    "https://alphazoo.no/products/baesjposer-rosa-smidige-baesjposer-for-turen-1"
+   ],
+   [
+    "da-NO",
+    "https://alphazoo.no/da/products/hundeposer-rosa-smidige-baeseposer-til-gaturen"
+   ],
+   [
+    "en-NO",
+    "https://alphazoo.no/en/products/poop-bags-pink-convenient-poop-bags-for-your-walk"
+   ],
+   [
+    "sv-NO",
+    "https://alphazoo.no/sv/products/bajspasar-rosa-smidiga-bajspasar-for-promenaden"
+   ],
+   [
+    "fi-NO",
+    "https://alphazoo.no/fi/products/kakkapussit-vaaleanpunaiset-katevat-kakkapussit-kavelylenkille"
+   ]
+  ],
+  "og": {
+   "title": "Bajspåsar Rosa – Smidiga bajspåsar för promenaden ",
+   "type": "product",
+   "description": "Bajspåsar När du är ute och går med din hund kommer alltid stunden då den behöver göra sina behov.",
+   "image": "https://alphazoo.se/cdn/shop/files/Gemini_Generated_Image_2ey5492ey5492ey5_1200x1200.jpg?v=1789986085"
+  },
+  "h1": [],
+  "h2_antal": 16,
+  "jsonld_typer": [
+   "Organization",
+   "BreadcrumbList",
+   "Product",
+   "WebSite"
+  ],
+  "bilder": 18,
+  "bilder_utan_alt": 9,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-8Q71FMJ45F",
+    "G-8Q71FMJ45F",
+    "G-8Q71FMJ45F"
+   ],
+   "gads": [
+    "AW-18353119554",
+    "AW-18353119554",
+    "AW-18353119554"
+   ],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 1144
+ },
+ {
+  "url": "https://alphazoo.se/collections/hundmat",
+  "status": 200,
+  "slutadress": "https://alphazoo.se/collections/hundmat",
+  "bytes": 355510,
+  "html_lang": "sv",
+  "title": "Hundmat — Alpha Zoo",
+  "meta_description": "Kolla in vårt stora sortiment av hundmat, utvecklad med omsorg för både din hunds hälsa och vår miljön. Hälsosamt och prisvärt.",
+  "canonical": "https://alphazoo.se/collections/hundmat",
+  "robots_meta": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "hreflang": [
+   [
+    "x-default",
+    "https://alphazoo.se/collections/hundmat"
+   ],
+   [
+    "sv",
+    "https://alphazoo.se/collections/hundmat"
+   ],
+   [
+    "da",
+    "https://alphazoo.se/da/collections/hundematte"
+   ],
+   [
+    "en",
+    "https://alphazoo.se/en/collections/dog-food"
+   ],
+   [
+    "fi",
+    "https://alphazoo.se/fi/collections/koiranruoka"
+   ],
+   [
+    "nb",
+    "https://alphazoo.se/nb/collections/hundmatte-1"
+   ],
+   [
+    "da-DK",
+    "https://alphazoo.dk/collections/hundematte"
+   ],
+   [
+    "en-DK",
+    "https://alphazoo.dk/en/collections/dog-food"
+   ],
+   [
+    "sv-DK",
+    "https://alphazoo.dk/sv/collections/hundmat"
+   ],
+   [
+    "fi-DK",
+    "https://alphazoo.dk/fi/collections/koiranruoka"
+   ],
+   [
+    "nb-DK",
+    "https://alphazoo.dk/nb/collections/hundmatte-1"
+   ],
+   [
+    "fi-FI",
+    "https://alphazoo.fi/collections/koiranruoka"
+   ],
+   [
+    "en-FI",
+    "https://alphazoo.fi/en/collections/dog-food"
+   ],
+   [
+    "sv-FI",
+    "https://alphazoo.fi/sv/collections/hundmat"
+   ],
+   [
+    "nb-FI",
+    "https://alphazoo.fi/nb/collections/hundmatte-1"
+   ],
+   [
+    "nb-NO",
+    "https://alphazoo.no/collections/hundmatte-1"
+   ],
+   [
+    "da-NO",
+    "https://alphazoo.no/da/collections/hundematte"
+   ],
+   [
+    "en-NO",
+    "https://alphazoo.no/en/collections/dog-food"
+   ],
+   [
+    "sv-NO",
+    "https://alphazoo.no/sv/collections/hundmat"
+   ],
+   [
+    "fi-NO",
+    "https://alphazoo.no/fi/collections/koiranruoka"
+   ]
+  ],
+  "og": {
+   "title": "Hundmat",
+   "type": "website",
+   "description": "Kolla in vårt stora sortiment av hundmat, utvecklad med omsorg för både din hunds hälsa och vår miljön. Hälsosamt och prisvärt.",
+   "image": "https://alphazoo.se/cdn/shop/files/herobanner_6e2230a6-3801-4bec-9b56-33eb06840be2_1200x1200.webp?v=1749123721"
+  },
+  "h1": [
+   "Hundmat"
+  ],
+  "h2_antal": 25,
+  "jsonld_typer": [
+   "Organization",
+   "BreadcrumbList",
+   "WebSite"
+  ],
+  "bilder": 11,
+  "bilder_utan_alt": 11,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-8Q71FMJ45F",
+    "G-8Q71FMJ45F",
+    "G-8Q71FMJ45F"
+   ],
+   "gads": [
+    "AW-18353119554",
+    "AW-18353119554",
+    "AW-18353119554"
+   ],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 1990
+ },
+ {
+  "url": "https://alphazoo.se/collections/alla-produkter",
+  "status": 200,
+  "slutadress": "https://alphazoo.se/collections/alla-produkter",
+  "bytes": 289924,
+  "html_lang": "sv",
+  "title": "Alla produkter — Alpha Zoo",
+  "meta_description": "",
+  "canonical": "https://alphazoo.se/collections/alla-produkter",
+  "robots_meta": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "hreflang": [
+   [
+    "x-default",
+    "https://alphazoo.se/collections/alla-produkter"
+   ],
+   [
+    "sv",
+    "https://alphazoo.se/collections/alla-produkter"
+   ],
+   [
+    "da",
+    "https://alphazoo.se/da/collections/alle-produkter"
+   ],
+   [
+    "en",
+    "https://alphazoo.se/en/collections/all-products"
+   ],
+   [
+    "fi",
+    "https://alphazoo.se/fi/collections/kaikki-tuotteet"
+   ],
+   [
+    "nb",
+    "https://alphazoo.se/nb/collections/alle-produkter-2"
+   ],
+   [
+    "da-DK",
+    "https://alphazoo.dk/collections/alle-produkter"
+   ],
+   [
+    "en-DK",
+    "https://alphazoo.dk/en/collections/all-products"
+   ],
+   [
+    "sv-DK",
+    "https://alphazoo.dk/sv/collections/alla-produkter"
+   ],
+   [
+    "fi-DK",
+    "https://alphazoo.dk/fi/collections/kaikki-tuotteet"
+   ],
+   [
+    "nb-DK",
+    "https://alphazoo.dk/nb/collections/alle-produkter-2"
+   ],
+   [
+    "fi-FI",
+    "https://alphazoo.fi/collections/kaikki-tuotteet"
+   ],
+   [
+    "en-FI",
+    "https://alphazoo.fi/en/collections/all-products"
+   ],
+   [
+    "sv-FI",
+    "https://alphazoo.fi/sv/collections/alla-produkter"
+   ],
+   [
+    "nb-FI",
+    "https://alphazoo.fi/nb/collections/alle-produkter-2"
+   ],
+   [
+    "nb-NO",
+    "https://alphazoo.no/collections/alle-produkter-2"
+   ],
+   [
+    "da-NO",
+    "https://alphazoo.no/da/collections/alle-produkter"
+   ],
+   [
+    "en-NO",
+    "https://alphazoo.no/en/collections/all-products"
+   ],
+   [
+    "sv-NO",
+    "https://alphazoo.no/sv/collections/alla-produkter"
+   ],
+   [
+    "fi-NO",
+    "https://alphazoo.no/fi/collections/kaikki-tuotteet"
+   ]
+  ],
+  "og": {
+   "title": "Alla produkter",
+   "type": "website",
+   "description": "Hundmat och kattmat av högsta av kvalité. Det bästa för den bästa helt enkelt.",
+   "image": "https://alphazoo.se/cdn/shop/files/herobanner_6e2230a6-3801-4bec-9b56-33eb06840be2_1200x1200.webp?v=1749123721"
+  },
+  "h1": [
+   "Alla produkter"
+  ],
+  "h2_antal": 13,
+  "jsonld_typer": [
+   "Organization",
+   "BreadcrumbList",
+   "WebSite"
+  ],
+  "bilder": 3,
+  "bilder_utan_alt": 3,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-8Q71FMJ45F",
+    "G-8Q71FMJ45F",
+    "G-8Q71FMJ45F"
+   ],
+   "gads": [
+    "AW-18353119554",
+    "AW-18353119554",
+    "AW-18353119554"
+   ],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 789
+ },
+ {
+  "url": "https://alphazoo.se/da/",
+  "status": 200,
+  "slutadress": "https://alphazoo.se/da/",
+  "bytes": 536494,
+  "html_lang": "da",
+  "title": "Alpha Zoo Norden",
+  "meta_description": "Hundefoder og kattefoder af højeste kvalitet. Det bedste til de bedste, ganske enkelt.",
+  "canonical": "https://alphazoo.se/da",
+  "robots_meta": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "hreflang": [
+   [
+    "x-default",
+    "https://alphazoo.se/"
+   ],
+   [
+    "sv",
+    "https://alphazoo.se/"
+   ],
+   [
+    "da",
+    "https://alphazoo.se/da"
+   ],
+   [
+    "en",
+    "https://alphazoo.se/en"
+   ],
+   [
+    "fi",
+    "https://alphazoo.se/fi"
+   ],
+   [
+    "nb",
+    "https://alphazoo.se/nb"
+   ],
+   [
+    "da-DK",
+    "https://alphazoo.dk/"
+   ],
+   [
+    "en-DK",
+    "https://alphazoo.dk/en"
+   ],
+   [
+    "sv-DK",
+    "https://alphazoo.dk/sv"
+   ],
+   [
+    "fi-DK",
+    "https://alphazoo.dk/fi"
+   ],
+   [
+    "nb-DK",
+    "https://alphazoo.dk/nb"
+   ],
+   [
+    "fi-FI",
+    "https://alphazoo.fi/"
+   ],
+   [
+    "en-FI",
+    "https://alphazoo.fi/en"
+   ],
+   [
+    "sv-FI",
+    "https://alphazoo.fi/sv"
+   ],
+   [
+    "nb-FI",
+    "https://alphazoo.fi/nb"
+   ],
+   [
+    "nb-NO",
+    "https://alphazoo.no/"
+   ],
+   [
+    "da-NO",
+    "https://alphazoo.no/da"
+   ],
+   [
+    "en-NO",
+    "https://alphazoo.no/en"
+   ],
+   [
+    "sv-NO",
+    "https://alphazoo.no/sv"
+   ],
+   [
+    "fi-NO",
+    "https://alphazoo.no/fi"
+   ]
+  ],
+  "og": {
+   "title": "Alpha Zoo Norden",
+   "type": "website",
+   "description": "Hundefoder og kattefoder af højeste kvalitet. Det bedste til de bedste, ganske enkelt.",
+   "image": "https://alphazoo.se/cdn/shop/files/herobanner_6e2230a6-3801-4bec-9b56-33eb06840be2_1200x1200.webp?v=1749123721"
+  },
+  "h1": [],
+  "h2_antal": 44,
+  "jsonld_typer": [
+   "Organization",
+   "WebSite"
+  ],
+  "bilder": 72,
+  "bilder_utan_alt": 51,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-8Q71FMJ45F",
+    "G-8Q71FMJ45F",
+    "G-8Q71FMJ45F"
+   ],
+   "gads": [
+    "AW-18353119554",
+    "AW-18353119554",
+    "AW-18353119554"
+   ],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 2687
+ },
+ {
+  "url": "https://alphazoo.se/en/",
+  "status": 200,
+  "slutadress": "https://alphazoo.se/en/",
+  "bytes": 539505,
+  "html_lang": "en",
+  "title": "Alpha Zoo Nordics",
+  "meta_description": "Dog and cat food of the highest quality. Simply the best for the best.",
+  "canonical": "https://alphazoo.se/en",
+  "robots_meta": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "hreflang": [
+   [
+    "x-default",
+    "https://alphazoo.se/"
+   ],
+   [
+    "sv",
+    "https://alphazoo.se/"
+   ],
+   [
+    "da",
+    "https://alphazoo.se/da"
+   ],
+   [
+    "en",
+    "https://alphazoo.se/en"
+   ],
+   [
+    "fi",
+    "https://alphazoo.se/fi"
+   ],
+   [
+    "nb",
+    "https://alphazoo.se/nb"
+   ],
+   [
+    "da-DK",
+    "https://alphazoo.dk/"
+   ],
+   [
+    "en-DK",
+    "https://alphazoo.dk/en"
+   ],
+   [
+    "sv-DK",
+    "https://alphazoo.dk/sv"
+   ],
+   [
+    "fi-DK",
+    "https://alphazoo.dk/fi"
+   ],
+   [
+    "nb-DK",
+    "https://alphazoo.dk/nb"
+   ],
+   [
+    "fi-FI",
+    "https://alphazoo.fi/"
+   ],
+   [
+    "en-FI",
+    "https://alphazoo.fi/en"
+   ],
+   [
+    "sv-FI",
+    "https://alphazoo.fi/sv"
+   ],
+   [
+    "nb-FI",
+    "https://alphazoo.fi/nb"
+   ],
+   [
+    "nb-NO",
+    "https://alphazoo.no/"
+   ],
+   [
+    "da-NO",
+    "https://alphazoo.no/da"
+   ],
+   [
+    "en-NO",
+    "https://alphazoo.no/en"
+   ],
+   [
+    "sv-NO",
+    "https://alphazoo.no/sv"
+   ],
+   [
+    "fi-NO",
+    "https://alphazoo.no/fi"
+   ]
+  ],
+  "og": {
+   "title": "Alpha Zoo Nordics",
+   "type": "website",
+   "description": "Dog and cat food of the highest quality. Simply the best for the best.",
+   "image": "https://alphazoo.se/cdn/shop/files/herobanner_6e2230a6-3801-4bec-9b56-33eb06840be2_1200x1200.webp?v=1749123721"
+  },
+  "h1": [],
+  "h2_antal": 44,
+  "jsonld_typer": [
+   "Organization",
+   "WebSite"
+  ],
+  "bilder": 72,
+  "bilder_utan_alt": 51,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-8Q71FMJ45F",
+    "G-8Q71FMJ45F",
+    "G-8Q71FMJ45F"
+   ],
+   "gads": [
+    "AW-18353119554",
+    "AW-18353119554",
+    "AW-18353119554"
+   ],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 2708
+ },
+ {
+  "url": "https://alphazoo.se/pages/om-oss",
+  "status": 200,
+  "slutadress": "https://alphazoo.se/pages/om-oss",
+  "bytes": 278236,
+  "html_lang": "sv",
+  "title": "Om oss — Alpha Zoo",
+  "meta_description": "Om ALPHAZOO Sverige ALPHAZOO Sverige drivs av 2TM Holding AB, som är den juridiska säljaren och ansvarar för försäljning och kundrelationer på alphazoo.se. När du handlar på alphazoo.se är det alltså 2TM Holding AB du ingår avtal med som svensk kund. Vi arbetar med att erbjuda produkter från Alpha Zoo till svenska kund",
+  "canonical": "https://alphazoo.se/pages/om-oss",
+  "robots_meta": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "hreflang": [
+   [
+    "x-default",
+    "https://alphazoo.se/pages/om-oss"
+   ],
+   [
+    "sv",
+    "https://alphazoo.se/pages/om-oss"
+   ],
+   [
+    "da",
+    "https://alphazoo.se/da/pages/om-os"
+   ],
+   [
+    "en",
+    "https://alphazoo.se/en/pages/about-us"
+   ],
+   [
+    "fi",
+    "https://alphazoo.se/fi/pages/meista"
+   ],
+   [
+    "nb",
+    "https://alphazoo.se/nb/pages/om-alpha-zoo"
+   ],
+   [
+    "da-DK",
+    "https://alphazoo.dk/pages/om-os"
+   ],
+   [
+    "en-DK",
+    "https://alphazoo.dk/en/pages/about-us"
+   ],
+   [
+    "sv-DK",
+    "https://alphazoo.dk/sv/pages/om-oss"
+   ],
+   [
+    "fi-DK",
+    "https://alphazoo.dk/fi/pages/meista"
+   ],
+   [
+    "nb-DK",
+    "https://alphazoo.dk/nb/pages/om-alpha-zoo"
+   ],
+   [
+    "fi-FI",
+    "https://alphazoo.fi/pages/meista"
+   ],
+   [
+    "en-FI",
+    "https://alphazoo.fi/en/pages/about-us"
+   ],
+   [
+    "sv-FI",
+    "https://alphazoo.fi/sv/pages/om-oss"
+   ],
+   [
+    "nb-FI",
+    "https://alphazoo.fi/nb/pages/om-alpha-zoo"
+   ],
+   [
+    "nb-NO",
+    "https://alphazoo.no/pages/om-alpha-zoo"
+   ],
+   [
+    "da-NO",
+    "https://alphazoo.no/da/pages/om-os"
+   ],
+   [
+    "en-NO",
+    "https://alphazoo.no/en/pages/about-us"
+   ],
+   [
+    "sv-NO",
+    "https://alphazoo.no/sv/pages/om-oss"
+   ],
+   [
+    "fi-NO",
+    "https://alphazoo.no/fi/pages/meista"
+   ]
+  ],
+  "og": {
+   "title": "Om oss",
+   "type": "website",
+   "description": "Om ALPHAZOO Sverige ALPHAZOO Sverige drivs av 2TM Holding AB, som är den juridiska säljaren och ansvarar för försäljning och kundrelationer på alphazoo.se. När du handlar på alphazoo.se är det alltså 2TM Holding AB du ingår avtal med som svensk kund. Vi arbetar med att erbjuda produkter från Alpha Zoo till svenska kund",
+   "image": "https://alphazoo.se/cdn/shop/files/herobanner_6e2230a6-3801-4bec-9b56-33eb06840be2_1200x1200.webp?v=1749123721"
+  },
+  "h1": [
+   "OM ALPHA ZOO"
+  ],
+  "h2_antal": 15,
+  "jsonld_typer": [
+   "Organization",
+   "BreadcrumbList",
+   "WebSite"
+  ],
+  "bilder": 4,
+  "bilder_utan_alt": 4,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-8Q71FMJ45F",
+    "G-8Q71FMJ45F",
+    "G-8Q71FMJ45F"
+   ],
+   "gads": [
+    "AW-18353119554",
+    "AW-18353119554",
+    "AW-18353119554"
+   ],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 988
+ },
+ {
+  "url": "https://alphazoo.se/blogs/news",
+  "status": 200,
+  "slutadress": "https://alphazoo.se/blogs/news",
+  "bytes": 287821,
+  "html_lang": "sv",
+  "title": "News — Alpha Zoo",
+  "meta_description": "",
+  "canonical": "https://alphazoo.se/blogs/news",
+  "robots_meta": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "hreflang": [
+   [
+    "x-default",
+    "https://alphazoo.se/blogs/news"
+   ],
+   [
+    "sv",
+    "https://alphazoo.se/blogs/news"
+   ],
+   [
+    "da",
+    "https://alphazoo.se/da/blogs/nyheder"
+   ],
+   [
+    "en",
+    "https://alphazoo.se/en/blogs/latest-news"
+   ],
+   [
+    "fi",
+    "https://alphazoo.se/fi/blogs/uutiset"
+   ],
+   [
+    "nb",
+    "https://alphazoo.se/nb/blogs/nyheter"
+   ],
+   [
+    "da-DK",
+    "https://alphazoo.dk/blogs/nyheder"
+   ],
+   [
+    "en-DK",
+    "https://alphazoo.dk/en/blogs/latest-news"
+   ],
+   [
+    "sv-DK",
+    "https://alphazoo.dk/sv/blogs/news"
+   ],
+   [
+    "fi-DK",
+    "https://alphazoo.dk/fi/blogs/uutiset"
+   ],
+   [
+    "nb-DK",
+    "https://alphazoo.dk/nb/blogs/nyheter"
+   ],
+   [
+    "fi-FI",
+    "https://alphazoo.fi/blogs/uutiset"
+   ],
+   [
+    "en-FI",
+    "https://alphazoo.fi/en/blogs/latest-news"
+   ],
+   [
+    "sv-FI",
+    "https://alphazoo.fi/sv/blogs/news"
+   ],
+   [
+    "nb-FI",
+    "https://alphazoo.fi/nb/blogs/nyheter"
+   ],
+   [
+    "nb-NO",
+    "https://alphazoo.no/blogs/nyheter"
+   ],
+   [
+    "da-NO",
+    "https://alphazoo.no/da/blogs/nyheder"
+   ],
+   [
+    "en-NO",
+    "https://alphazoo.no/en/blogs/latest-news"
+   ],
+   [
+    "sv-NO",
+    "https://alphazoo.no/sv/blogs/news"
+   ],
+   [
+    "fi-NO",
+    "https://alphazoo.no/fi/blogs/uutiset"
+   ]
+  ],
+  "og": {
+   "title": "News",
+   "type": "website",
+   "description": "Hundmat och kattmat av högsta av kvalité. Det bästa för den bästa helt enkelt.",
+   "image": "https://alphazoo.se/cdn/shop/files/herobanner_6e2230a6-3801-4bec-9b56-33eb06840be2_1200x1200.webp?v=1749123721"
+  },
+  "h1": [
+   "News"
+  ],
+  "h2_antal": 19,
+  "jsonld_typer": [
+   "Organization",
+   "BreadcrumbList",
+   "WebSite"
+  ],
+  "bilder": 19,
+  "bilder_utan_alt": 1,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-8Q71FMJ45F",
+    "G-8Q71FMJ45F",
+    "G-8Q71FMJ45F"
+   ],
+   "gads": [
+    "AW-18353119554",
+    "AW-18353119554",
+    "AW-18353119554"
+   ],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 924
+ }
+]
