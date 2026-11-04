@@ -1,0 +1,313 @@
+[
+ {
+  "nr": 9324,
+  "id": "10515741180170",
+  "fil": "k_05a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "82 cm höjd och hjul på 100 x 24 mm med hårdhet 88A.",
+    "efter": "82 cm höjd och hjul med hårdhet 88A."
+   },
+   "html": [
+    {
+     "fore": "<li>Hjuldimensioner: 100 x 24 mm</li>\n",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Maximal ryttarbelastning enligt tillverkaren: 100 kg</li>",
+     "efter": "<li>Maximal belastning enligt tillverkaren: 100 kg</li>"
+    }
+   ]
+  },
+  "skal": "Spårbart i egen källa (82 cm, aluminiumbas och klämma, stålbromsar, 88A, 100 kg, färg ur live-titeln, en variant). Enheten mm i '100x24' står inte i källan och ingen webbkälla med adress anges i att_bekrafta (krav enligt v1.6), så hjuldimensionen stryks i specifikation och meta. Etiketten 'Maximal ryttarbelastning' är maskinöversatt och kortas till 'Maximal belastning' med samma värde, som för SOKE City i k_02e (R4). SOKE i versaler och GO utan utropstecken behålls som i övriga skrivna SOKE-texter. 'unga' är inte barn och ingen förarlängd anges, så R6 gäller inte."
+ },
+ {
+  "nr": 9325,
+  "id": "10470927958282",
+  "fil": "k_05a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "82 cm höjd och hjul på 100 x 24 mm med hårdhet 88A.",
+    "efter": "82 cm höjd och hjul med hårdhet 88A."
+   },
+   "html": [
+    {
+     "fore": "<li>Hjuldimensioner: 100 x 24 mm</li>\n",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Maximal ryttarbelastning enligt tillverkaren: 100 kg</li>",
+     "efter": "<li>Maximal belastning enligt tillverkaren: 100 kg</li>"
+    }
+   ]
+  },
+  "skal": "Spårbart i egen källa (82 cm, aluminiumbas och klämma, stålbromsar, 88A, 100 kg, färg ur live-titeln, en variant). Enheten mm i '100x24' står inte i källan och ingen webbkälla med adress anges i att_bekrafta (krav enligt v1.6), så hjuldimensionen stryks i specifikation och meta. Etiketten 'Maximal ryttarbelastning' är maskinöversatt och kortas till 'Maximal belastning' med samma värde, som för SOKE City i k_02e (R4). SOKE i versaler och GO utan utropstecken behålls som i övriga skrivna SOKE-texter. 'unga' är inte barn och ingen förarlängd anges, så R6 gäller inte."
+ },
+ {
+  "nr": 9326,
+  "id": "10472263975178",
+  "fil": "k_05a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "82 cm höjd och hjul på 100 x 24 mm med hårdhet 88A.",
+    "efter": "82 cm höjd och hjul med hårdhet 88A."
+   },
+   "html": [
+    {
+     "fore": "<li>Hjuldimensioner: 100 x 24 mm</li>\n",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Maximal förarkapacitet enligt tillverkaren: 100 kg</li>",
+     "efter": "<li>Maximal belastning enligt tillverkaren: 100 kg</li>"
+    }
+   ]
+  },
+  "skal": "Spårbart i egen källa (82 cm, aluminiumbas och klämma, stålbromsar, 88A, 100 kg, färg ur live-titeln, en variant). Enheten mm i '100x24' står inte i källan och ingen webbkälla med adress anges i att_bekrafta (krav enligt v1.6), så hjuldimensionen stryks i specifikation och meta. Etiketten 'Maximal förarkapacitet' är maskinöversatt och kortas till 'Maximal belastning' med samma värde, som för SOKE City i k_02e (R4). SOKE i versaler och GO utan utropstecken behålls som i övriga skrivna SOKE-texter. 'unga' är inte barn och ingen förarlängd anges, så R6 gäller inte."
+ },
+ {
+  "nr": 9332,
+  "id": "10572664897802",
+  "fil": "k_05a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt spårbart (amatör, 500 x 120 mm, aluminium, IHC, 620/560 mm, ABEC-9, 110 mm, 3,1 kg, 160–170 cm, 100 kg). Två 'enligt tillverkaren' (högst två). Iridium ur live-titeln, blå i texten. Ingen dubblett: skrivna 10515754320138 är svart/neochrome."
+ },
+ {
+  "nr": 9333,
+  "id": "10676720271626",
+  "fil": "k_05a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Diameter 100 mm, lila, 223 g och 'Pris per: 1 hjul' står i källan. Ingen dubblett mot skrivna Credit V2 (Svart, Lila/Svart, Neochrome/Svart, Svart/Grå)."
+ },
+ {
+  "nr": 9334,
+  "id": "10411902402826",
+  "fil": "k_05a_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Källan anger 'Lämplig för ryttare som är 130-145 cm långa', alltså barn-/juniorstorlek. Samma bedömning som för Union Lite M/S (110–130 och 105–125 cm, avvisade 9330/9331): barnsparkcyklar är utanför tills David beslutar (profilen, R6). Texten är i övrigt spårbar. Om David frisläpper juniormodeller kan utkastet skrivas, med SEO-titeln 'Kicksparkcykel Versatyl Cosmopolitan V2 Pro' (43 tecken, märket kvar före färgen enligt R12, som 9211 i k_02e); typordet Kicksparkcykel är live-titelns ord och får stå (R7)."
+ },
+ {
+  "nr": 9335,
+  "id": "10486673473802",
+  "fil": "k_05a_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Källan anger 'Lämplig för ryttare som är 130-145 cm långa', alltså barn-/juniorstorlek. Samma bedömning som för Union Lite M/S (110–130 och 105–125 cm, avvisade 9330/9331): barnsparkcyklar är utanför tills David beslutar (profilen, R6). Texten är i övrigt spårbar. Om David frisläpper juniormodeller kan utkastet skrivas; Stuntsparkcykel är live-titelns ord. Märket ryms inte i SEO-titeln (44 tecken)."
+ },
+ {
+  "nr": 9337,
+  "id": "10472295760138",
+  "fil": "k_06a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Kedjelås, 7 mm länkar, polyesterbeläggning, automatisk inklickning, två nycklar och ersättningsnyckel via onlinesystem står i egen källa. 150 cm, härdat stål och säkerhetsnivå 9 står ordagrant på tillverkarens sida https://axabikesecurity.com/product/axa-absolute-7-150/ ('Length 150 cm', 'The 7 mm thick hardened steel links', 'Safety level 9', '2 symmetrical keys'), som gäller exakt modellen 7-150 (v1.6). Butikens skala '9/14' rätt utelämnad. Ingen dubblett (skrivna Absolute är 9-110, C5-90, 8-110)."
+ },
+ {
+  "nr": 9338,
+  "id": "10494706254090",
+  "fil": "k_06a_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Dubblett (R12a): AXA Fold 85 är redan skriven och aktiv som 10475621089546 ('Vikbart Cykellås AXA Fold 85, 85 cm, Sold Secure Bronze', texter-klara), samma modell och pris 1 519 kr, SKU 59810895KB mot 59810895SB. Ingen färg anges för någon av dem. Avvisades i b_38 (8672) av samma skäl. Texten i sig är spårbar."
+ },
+ {
+  "nr": 9339,
+  "id": "10494705041674",
+  "fil": "k_06a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Gångjärnsdiameter: 10 mm</li>",
+    "efter": "<li>Diameter: 10 mm</li>"
+   }
+  },
+  "skal": "Härdat stål, 105 cm, neopren, spakar, skydd på ovansidan, två nycklar och hållare, 10 mm, 100 x 100 x 240 mm, 1970 g och nivå 11 av 1–15 står i källan. 'Gångjärnsdiameter' är maskinöversatt och skrivs 'Diameter', som för 8693 i b_37_38. Ingen dubblett i butiken."
+ },
+ {
+  "nr": 9340,
+  "id": "10636678693130",
+  "fil": "k_06a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "120 cm, 30 mm, 8 kg, svart, räfflat grepp 80 cm, 18 cm per sida stämmer. 180 kg står lika i löptext och i svensk etiketterad rad; en gång enligt tillverkaren (R4). 'Stjärnlås' i live-titeln rätt utelämnat."
+ },
+ {
+  "nr": 9341,
+  "id": "10636632162570",
+  "fil": "k_06a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Snabbfäste, ett klick, 30/31 mm (titeln) och tre varianter till 299 kr stämmer. Märket står i källan ('2M Solutions® viktlåset'); SKU 2MEC111SCH motsvarar tillverkarens artikel 2M-EC111SCH (fitshop.ch), så 'Märke: 2M Solutions' är belagt. att_bekrafta-raden om 'ingen märkesangivelse' är fel men publiceras inte. Säkerhets- och kvalitetsord rätt utelämnade."
+ },
+ {
+  "nr": 9342,
+  "id": "10636741181706",
+  "fil": "k_06a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "De är avsedda för skiv- och hantelstänger med diameter 30/31 mm",
+    "efter": "De är avsedda för skiv- och hantelstänger med diameter 30 mm"
+   },
+   "meta": {
+    "fore": "för skiv- och hantelstänger med diameter 30/31 mm",
+    "efter": "för skiv- och hantelstänger med diameter 30 mm"
+   }
+  },
+  "skal": "Stål, plasthandtag, svart och silver, par stämmer. Källan säger att stängerna har diameter 30 mm (31 mm är låsets mått i tabellen); att stängerna är '30/31 mm' står inte. Specifikationsraden 'Diameter: 30/31 mm' följer titeln och får stå."
+ },
+ {
+  "nr": 9343,
+  "id": "10636739051786",
+  "fil": "k_06a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Krom, 50 mm, par stämmer. Tunn men tre fakta utöver titeln (R3)."
+ },
+ {
+  "nr": 9344,
+  "id": "10636678332682",
+  "fil": "k_06a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "35 cm, 30 mm, 2,5 kg, metall, svart, 13 cm, 10 cm per sida, en och en, 'Maximal lastkapacitet: 100kg' (svensk etiketterad rad, en gång enligt tillverkaren)."
+ },
+ {
+  "nr": 9345,
+  "id": "10636756091146",
+  "fil": "k_06a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Lastgränsen rätt utelämnad: tabellens 'Maxlast: 100kg' och löptextens rekommendation om högst 2,5 kg viktskivor för fjäderlåsen är olika lastvärden (R4 v1.5). Övrigt (35 cm, 10 cm, 13 cm, 30 mm, 2 kg, två fjäderlås, en och en) stämmer."
+ },
+ {
+  "nr": 9346,
+  "id": "10636756451594",
+  "fil": "k_06a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Förkromad, 35 cm, 30 mm, 2,5 kg, räfflat 13 cm, 10 cm, två stjärnlås, 100 kg lika i löptext och tabell."
+ },
+ {
+  "nr": 9347,
+  "id": "10636755894538",
+  "fil": "k_06a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "42 cm, 30 mm, 2,5 kg, krom, gängade viktområden, räfflat 14 cm, 13 cm per sida, 31 mm hål, två stjärnlås, 100 kg."
+ },
+ {
+  "nr": 9348,
+  "id": "10636687048970",
+  "fil": "k_06a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Par, 35 cm, 30 mm, räfflat 13 cm, 10 cm per sida, 31 mm, fyra fjäderlås, 100 kg per stång. Oklar vikt '2kg' rätt utelämnad."
+ },
+ {
+  "nr": 9349,
+  "id": "10636686885130",
+  "fil": "k_06a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Stängerna har diameter 30 mm och räfflat handtag, och fyra stjärnlås medföljer.",
+    "efter": "Stängerna har diameter 30 mm, och fyra stjärnlås medföljer."
+   }
+  },
+  "skal": "Källan för 9349 säger inte att handtaget är räfflat (det står bara hos syskonen 9346–9348, R1); stryks i inledningen. Övrigt (2,5 kg vardera, 35 cm, 13 cm, 10 cm per sida, 31 mm, fyra stjärnlås, 100 kg vardera) stämmer."
+ },
+ {
+  "nr": 9350,
+  "id": "10636661817610",
+  "fil": "k_06a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Par, 42 cm, 3 kg per stång, 14 cm viktområde, 13,5 cm grepp, 30/31 mm, fyra stjärnlås, 100 kg vardera."
+ },
+ {
+  "nr": 9351,
+  "id": "10636648907018",
+  "fil": "k_06a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Maximal belastning enligt tillverkaren: 100 kg</li>\n",
+    "efter": ""
+   }
+  },
+  "skal": "Produkten är ett par, och källans 'Maximal belastning: 100kg' anger inte om lasten gäller per stång eller paret (jfr 9349 'vardera'). Raden anger alltså inte entydigt vad lasten gäller och stryks (R4). Övrigt (svart, par, 35 cm, 30 mm, 2 x 2,5 kg, 13 cm, 10 cm per sida) stämmer; 'Stjärnlås' i live-titeln rätt utelämnat."
+ },
+ {
+  "nr": 9352,
+  "id": "10636711854346",
+  "fil": "k_06a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Par, 30 mm stänger, skivstänger/hantlar/z-stänger, tätningsring av gummi, Krom och Svart som två varianter till 299 kr."
+ },
+ {
+  "nr": 9353,
+  "id": "10636756746506",
+  "fil": "k_06a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Parallellt grepp, 30 mm, 10 kg, 19 cm, 45 cm, 20 cm per sida, 31 mm, två fjäderlås; 200 kg lika i löptext och tabell."
+ },
+ {
+  "nr": 9354,
+  "id": "10636757467402",
+  "fil": "k_06a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Två parallella grepp, 30 mm, 10 kg, 45 cm, 20 cm per sida, två stjärnlås; 200 kg lika i löptext och tabell."
+ },
+ {
+  "nr": 9355,
+  "id": "10636696224010",
+  "fil": "k_06a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Aluminium, 51 mm hål, 50 mm stänger, 4 cm, 2 x 180 g, gummibeläggning, par; fem varianter (Guld, Svart, Blå, Röd, Silver) till 479 kr."
+ },
+ {
+  "nr": 9356,
+  "id": "10636727189770",
+  "fil": "k_06a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Hårdplast, 50 mm, quick release, gummibeläggning, svart och röd, par. Påståendet att vikterna inte glider av rätt utelämnat."
+ },
+ {
+  "nr": 9359,
+  "id": "10541205291274",
+  "fil": "k_06a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": " Klassning 10/10 enligt tillverkaren.",
+    "efter": ""
+   }
+  },
+  "skal": "Typordet: butikens källa är tvetydig (titel 'Bygelås', text 'hänglås'). Tillverkarens sida https://squirebikelocks.com/collections/folding-locks/products/stronghold-fl-850 (squirelocks.co.uk omdirigerar dit) kallar exakt modellen 'High-Security Folding Bike Lock', med bredd 24 mm, 2,18 kg och borstål, så 'Vikbart lås' är belagt enligt v1.6 och BESLUTSLOGG 2026-11-04. Det ersätter underkännandet av 8685 i b_38. Säkerhetsklassningen står i både meta och specifikation; den får stå en gång (som 8696) och stryks i metan. Tillverkaren anger '10/10+' och Sold Secure Gold, men butikens '10/10' återges oförändrad; inget läggs till."
+ },
+ {
+  "nr": 9360,
+  "id": "10548236058890",
+  "fil": "k_06a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "\n<li>Certifiering: BSI Kitemark enligt tillverkaren</li>",
+    "efter": ""
+   }
+  },
+  "skal": "Typordet: titeln 'Nyckellås' motsäger texten 'smarttelefonstyrt lås'. Tillverkarens produktsida heter 'Inigma™ FL1 Folding Lock' (https://squirelocks.co.uk/products/inigmafl1, sökträff; sidan svarar nu 404) och återförsäljare anger 'inigma FL1 smartphone operated folding lock - 800mm'. Det gäller exakt modellen, så 'Vikbart lås' godtas enligt v1.6; adressen i att_bekrafta (…/shop/inigma-fl1.html) är fel och rättas här. 80 cm, 5 mm, 1,52 kg står i egen källa. BSI Kitemark för Inigma gäller enligt branschpress appen/operativsystemet (BSI Secure Digital Applications), inte låsets mekaniska skydd; som 'Certifiering' i ett låsets specifikation blir den vilseledande och stryks (§16.2, R2). AES-256 står kvar en gång enligt tillverkaren."
+ }
+]
