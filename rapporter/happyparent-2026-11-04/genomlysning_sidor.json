@@ -1,0 +1,916 @@
+[
+ {
+  "url": "https://www.happyparent.store/",
+  "final": "https://www.happyparent.store/",
+  "status": 200,
+  "bytes": 8314386,
+  "title": "Happy Parent",
+  "meta": "Handpicked products that simplify the daily lives of parents and their children.",
+  "h1": [
+   ""
+  ],
+  "canonical": "https://www.happyparent.store/",
+  "hreflang": [
+   "x-default",
+   "sv",
+   "en",
+   "fi",
+   "da"
+  ],
+  "robots": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "og": true,
+  "jsonld_types": [
+   "Organization",
+   "Organization",
+   "WebSite"
+  ],
+  "product_ld": [],
+  "imgs": 553,
+  "imgs_empty_alt": 292,
+  "html_lang": "sv",
+  "scripts": 28,
+  "inline_script_bytes": 2626607
+ },
+ {
+  "url": "https://www.happyparent.store/en",
+  "final": "https://www.happyparent.store/en",
+  "status": 200,
+  "bytes": 8315434,
+  "title": "Happy Parents",
+  "meta": "Handpicked products that simplify the daily lives of parents and their children.",
+  "h1": [
+   ""
+  ],
+  "canonical": "https://www.happyparent.store/en",
+  "hreflang": [
+   "x-default",
+   "sv",
+   "en",
+   "fi",
+   "da"
+  ],
+  "robots": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "og": true,
+  "jsonld_types": [
+   "Organization",
+   "Organization",
+   "WebSite"
+  ],
+  "product_ld": [],
+  "imgs": 553,
+  "imgs_empty_alt": 292,
+  "html_lang": "en",
+  "scripts": 28,
+  "inline_script_bytes": 2626449
+ },
+ {
+  "url": "https://www.happyparent.store/da",
+  "final": "https://www.happyparent.store/da",
+  "status": 200,
+  "bytes": 8313949,
+  "title": "Glad forælder\n – Happy Parent",
+  "meta": "Håndplukkede produkter, der forenkler hverdagen for forældre og deres børn.",
+  "h1": [
+   ""
+  ],
+  "canonical": "https://www.happyparent.store/da",
+  "hreflang": [
+   "x-default",
+   "sv",
+   "en",
+   "fi",
+   "da"
+  ],
+  "robots": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "og": true,
+  "jsonld_types": [
+   "Organization",
+   "Organization",
+   "WebSite"
+  ],
+  "product_ld": [],
+  "imgs": 553,
+  "imgs_empty_alt": 292,
+  "html_lang": "da",
+  "scripts": 28,
+  "inline_script_bytes": 2626564
+ },
+ {
+  "url": "https://www.happyparent.store/fi",
+  "final": "https://www.happyparent.store/fi",
+  "status": 200,
+  "bytes": 8318686,
+  "title": "Onnellinen vanhempi\n – Happy Parent",
+  "meta": "Käsin poimittuja tuotteita, jotka helpottavat vanhempien ja heidän lastensa arkea.",
+  "h1": [
+   ""
+  ],
+  "canonical": "https://www.happyparent.store/fi",
+  "hreflang": [
+   "x-default",
+   "sv",
+   "en",
+   "fi",
+   "da"
+  ],
+  "robots": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "og": true,
+  "jsonld_types": [
+   "Organization",
+   "Organization",
+   "WebSite"
+  ],
+  "product_ld": [],
+  "imgs": 553,
+  "imgs_empty_alt": 292,
+  "html_lang": "fi",
+  "scripts": 28,
+  "inline_script_bytes": 2626625
+ },
+ {
+  "url": "https://www.happyparent.store/collections/presenter-till-barn",
+  "final": "https://www.happyparent.store/collections/presenter-till-barn",
+  "status": 200,
+  "bytes": 1822990,
+  "title": "Present till barn\n – Happy Parent",
+  "meta": "Letar du efter en present till ett barn? Kolla in vårt breda utbud av kläder och leksaker till barn i alla åldrar.",
+  "h1": [
+   "Träpussel för barn som gör lärandet roligt"
+  ],
+  "canonical": "https://www.happyparent.store/collections/presenter-till-barn",
+  "hreflang": [
+   "x-default",
+   "sv",
+   "en",
+   "fi",
+   "da"
+  ],
+  "robots": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "og": true,
+  "jsonld_types": [
+   "Organization",
+   "Organization",
+   "BreadcrumbList",
+   "ItemList"
+  ],
+  "product_ld": [],
+  "imgs": 96,
+  "imgs_empty_alt": 49,
+  "html_lang": "sv",
+  "scripts": 30,
+  "inline_script_bytes": 528561
+ },
+ {
+  "url": "https://www.happyparent.store/collections/happy-parent-alla-produkter",
+  "final": "https://www.happyparent.store/collections/happy-parent-alla-produkter",
+  "status": 200,
+  "bytes": 1837323,
+  "title": "ALLA PRODUKTER\n – Happy Parent",
+  "meta": null,
+  "h1": [
+   "Träpussel för barn som gör lärandet roligt"
+  ],
+  "canonical": "https://www.happyparent.store/collections/happy-parent-alla-produkter",
+  "hreflang": [
+   "x-default",
+   "sv",
+   "en",
+   "fi",
+   "da"
+  ],
+  "robots": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "og": true,
+  "jsonld_types": [
+   "Organization",
+   "Organization",
+   "BreadcrumbList",
+   "ItemList"
+  ],
+  "product_ld": [],
+  "imgs": 97,
+  "imgs_empty_alt": 49,
+  "html_lang": "sv",
+  "scripts": 30,
+  "inline_script_bytes": 533387
+ },
+ {
+  "url": "https://www.happyparent.store/collections/leksaker",
+  "final": "https://www.happyparent.store/collections/leksaker",
+  "status": 200,
+  "bytes": 1814982,
+  "title": "Leksaker - Köp roliga leksaker till barnen\n – Happy Parent",
+  "meta": "Vi ser värdet i olika typer av leksaker för olika stunder med våra egna barn och kan varmt rekommendera nedan leksaker. Utmaningen vi har märkt av är att hitta leksaker till små barn och därför har vi valt att satsa lite extra på leksaker till barn i åldrarna 6 månader, 1 år och 2 år.",
+  "h1": [
+   "Leksaker för barn som kombinerar lek, fantasi och utveckling"
+  ],
+  "canonical": "https://www.happyparent.store/collections/leksaker",
+  "hreflang": [
+   "x-default",
+   "sv",
+   "en",
+   "fi",
+   "da"
+  ],
+  "robots": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "og": true,
+  "jsonld_types": [
+   "Organization",
+   "Organization",
+   "BreadcrumbList",
+   "ItemList"
+  ],
+  "product_ld": [],
+  "imgs": 98,
+  "imgs_empty_alt": 49,
+  "html_lang": "sv",
+  "scripts": 30,
+  "inline_script_bytes": 522380
+ },
+ {
+  "url": "https://www.happyparent.store/collections/byxor-pojke",
+  "final": "https://www.happyparent.store/collections/byxor-pojke",
+  "status": 200,
+  "bytes": 1219361,
+  "title": "Byxor - Pojke\n – Happy Parent",
+  "meta": null,
+  "h1": [
+   "Barnbyxor för pojkar som passar skola, lek och vardag"
+  ],
+  "canonical": "https://www.happyparent.store/collections/byxor-pojke",
+  "hreflang": [
+   "x-default",
+   "sv",
+   "en",
+   "fi",
+   "da"
+  ],
+  "robots": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "og": true,
+  "jsonld_types": [
+   "Organization",
+   "Organization",
+   "BreadcrumbList",
+   "ItemList"
+  ],
+  "product_ld": [],
+  "imgs": 51,
+  "imgs_empty_alt": 27,
+  "html_lang": "sv",
+  "scripts": 30,
+  "inline_script_bytes": 323499
+ },
+ {
+  "url": "https://www.happyparent.store/collections/trojor-pojke",
+  "final": "https://www.happyparent.store/collections/trojor-pojke",
+  "status": 200,
+  "bytes": 1826304,
+  "title": "Tröjor - Pojke\n – Happy Parent",
+  "meta": "Kolla in vårt breda sortiment av pojk tröjor här!",
+  "h1": [
+   "Tröjor för pojkar som klarar skola, lek och vardag"
+  ],
+  "canonical": "https://www.happyparent.store/collections/trojor-pojke",
+  "hreflang": [
+   "x-default",
+   "sv",
+   "en",
+   "fi",
+   "da"
+  ],
+  "robots": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "og": true,
+  "jsonld_types": [
+   "Organization",
+   "Organization",
+   "BreadcrumbList",
+   "ItemList"
+  ],
+  "product_ld": [],
+  "imgs": 92,
+  "imgs_empty_alt": 49,
+  "html_lang": "sv",
+  "scripts": 30,
+  "inline_script_bytes": 535618
+ },
+ {
+  "url": "https://www.happyparent.store/collections/bad",
+  "final": "https://www.happyparent.store/collections/bad",
+  "status": 200,
+  "bytes": 1149664,
+  "title": "Badtillbehör\n – Happy Parent",
+  "meta": "Kolla in vårt sortiment av badtillbehör här! Badleksaker - Badlakan - Badkarsmattor - Badbaljor ",
+  "h1": [
+   "Träpussel för barn som gör lärandet roligt"
+  ],
+  "canonical": "https://www.happyparent.store/collections/bad",
+  "hreflang": [
+   "x-default",
+   "sv",
+   "en",
+   "fi",
+   "da"
+  ],
+  "robots": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "og": true,
+  "jsonld_types": [
+   "Organization",
+   "Organization",
+   "BreadcrumbList",
+   "ItemList"
+  ],
+  "product_ld": [],
+  "imgs": 50,
+  "imgs_empty_alt": 25,
+  "html_lang": "sv",
+  "scripts": 30,
+  "inline_script_bytes": 292258
+ },
+ {
+  "url": "https://www.happyparent.store/products/montessori-trabuss-med-figurer-leksak-som-framjar-larande-med-fargade-figurer",
+  "final": "https://www.happyparent.store/products/montessori-trabuss-med-figurer-leksak-som-framjar-larande-med-fargade-figurer",
+  "status": 200,
+  "bytes": 573766,
+  "title": "Montessori Träbuss Främjar Lärande - Med Färgglada Figurer\n – Happy Parent",
+  "meta": "Montessori Träbuss Med Figurer – Leksak Som Främjar Lärande - Med Färgade Figurer Letar du efter en leksak som både roar och lär ditt barn? Detta träflygplan från Montessori Toys är den perfekta lösningen! Leksaken hjälper ditt barn att utveckla viktiga färdigheter som motorik, problemlösning och kreativt tänkande, sam",
+  "h1": [
+   "Montessori Träbuss Främjar Lärande - Med Färgglada Figurer"
+  ],
+  "canonical": "https://www.happyparent.store/products/montessori-trabuss-med-figurer-leksak-som-framjar-larande-med-fargade-figurer",
+  "hreflang": [
+   "x-default",
+   "sv",
+   "en",
+   "fi",
+   "da"
+  ],
+  "robots": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "og": true,
+  "jsonld_types": [
+   "Organization",
+   "Organization",
+   "BreadcrumbList",
+   "ProductGroup"
+  ],
+  "product_ld": [],
+  "imgs": 7,
+  "imgs_empty_alt": 2,
+  "html_lang": "sv",
+  "scripts": 33,
+  "inline_script_bytes": 132239
+ },
+ {
+  "url": "https://www.happyparent.store/products/skallra-skramlande-ringar-tra-peach",
+  "final": "https://www.happyparent.store/products/skallra-skramlande-ringar-tra-peach",
+  "status": 200,
+  "bytes": 590604,
+  "title": "Skallra i Trä för Bebis Peach– Skramlande Ringar\n – Happy Parent",
+  "meta": "Skallra i trä för bebis peach med skramlande ringar som stimulerar grepp, motorik och nyfikenhet. En trygg och rolig babyleksak för små händer.",
+  "h1": [
+   "Skallra Skramlande Ringar Trä - Peach"
+  ],
+  "canonical": "https://www.happyparent.store/products/skallra-skramlande-ringar-tra-peach",
+  "hreflang": [
+   "x-default",
+   "sv",
+   "en",
+   "fi",
+   "da"
+  ],
+  "robots": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "og": true,
+  "jsonld_types": [
+   "Organization",
+   "Organization",
+   "BreadcrumbList",
+   "Product"
+  ],
+  "product_ld": [
+   {
+    "brand": "{'@type': 'Brand', 'name': 'Happy Parent'}",
+    "mpn": "146794",
+    "name": "Skallra Skramlande Ringar Trä - Peach",
+    "offers": "{'@id': '/products/skallra-skramlande-ringar-tra-peach?variant=54006764929370#offer', '@type': 'Offer', 'availability': ",
+    "sku": "189056-rattleP-124674"
+   }
+  ],
+  "imgs": 18,
+  "imgs_empty_alt": 3,
+  "html_lang": "sv",
+  "scripts": 33,
+  "inline_script_bytes": 128775
+ },
+ {
+  "url": "https://www.happyparent.store/products/fallbar-lekhage-saker-och-fallbar-lekhage-for-nyfodda-och-smabarn",
+  "final": "https://www.happyparent.store/products/fallbar-lekhage-saker-och-fallbar-lekhage-for-nyfodda-och-smabarn",
+  "status": 200,
+  "bytes": 605017,
+  "title": "Fällbar Lekhage – Säker och Fällbar Lekhage för Nyfödda och Småbarn\n – Happy Parent",
+  "meta": "Fällbar Lekhage – Säker och Fällbar Lekhage för Nyfödda och Småbarn Skapa en säker och rolig plats för ditt barn att leka på! Detta fällbara säkerhetslekhage är den perfekta lösningen för föräldrar som vill ge sitt barn en trygg och avgränsad plats för lek. Designad för att hålla ditt barn säkert och underhållet, ger d",
+  "h1": [
+   "Fällbar Lekhage – Säker och Fällbar Lekhage för Nyfödda och Småbarn"
+  ],
+  "canonical": "https://www.happyparent.store/products/fallbar-lekhage-saker-och-fallbar-lekhage-for-nyfodda-och-smabarn",
+  "hreflang": [
+   "x-default",
+   "sv",
+   "en",
+   "fi",
+   "da"
+  ],
+  "robots": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "og": true,
+  "jsonld_types": [
+   "Organization",
+   "Organization",
+   "BreadcrumbList",
+   "ProductGroup"
+  ],
+  "product_ld": [],
+  "imgs": 17,
+  "imgs_empty_alt": 2,
+  "html_lang": "sv",
+  "scripts": 33,
+  "inline_script_bytes": 137840
+ },
+ {
+  "url": "https://www.happyparent.store/products/uc-girls-jersey-leggings-2-pack",
+  "final": "https://www.happyparent.store/products/uc-girls-jersey-leggings-2-pack",
+  "status": 200,
+  "bytes": 722036,
+  "title": "UC Girls' Jersey Tights 2-Pack\n – Happy Parent",
+  "meta": "Girls&#39; Jersey Tights 2-Pack Dessa jersey tights för tjejer är både bekväma och mångsidiga. Perfekta att bära under en fin klänning eller för att leka fritt, de erbjuder både komfort och stil. Med ett elastiskt midjeband och en smidig passform blir de snabbt ett favoritplagg i garderoben. Den mjuka och stretchiga blandn",
+  "h1": [
+   "UC Girls' Jersey Tights 2-Pack"
+  ],
+  "canonical": "https://www.happyparent.store/products/uc-girls-jersey-leggings-2-pack",
+  "hreflang": [
+   "x-default",
+   "sv",
+   "en",
+   "fi",
+   "da"
+  ],
+  "robots": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "og": true,
+  "jsonld_types": [
+   "Organization",
+   "Organization",
+   "BreadcrumbList",
+   "ProductGroup"
+  ],
+  "product_ld": [],
+  "imgs": 64,
+  "imgs_empty_alt": 21,
+  "html_lang": "sv",
+  "scripts": 33,
+  "inline_script_bytes": 159903
+ },
+ {
+  "url": "https://www.happyparent.store/products/london-buss-pussel-montessori-larande-for-barn",
+  "final": "https://www.happyparent.store/products/london-buss-pussel-montessori-larande-for-barn",
+  "status": 200,
+  "bytes": 576639,
+  "title": "London Buss Pussel – Lärande för Barn\n – Happy Parent",
+  "meta": "London Buss Pussel – Montessori Lärande för Barn",
+  "h1": [
+   "London Buss Pussel – Lärande för Barn"
+  ],
+  "canonical": "https://www.happyparent.store/products/london-buss-pussel-montessori-larande-for-barn",
+  "hreflang": [
+   "x-default",
+   "sv",
+   "en",
+   "fi",
+   "da"
+  ],
+  "robots": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "og": true,
+  "jsonld_types": [
+   "Organization",
+   "Organization",
+   "BreadcrumbList",
+   "Product"
+  ],
+  "product_ld": [
+   {
+    "brand": "{'@type': 'Brand', 'name': 'Happy Parent'}",
+    "mpn": "3978687283",
+    "name": "London Buss Pussel – Lärande för Barn",
+    "offers": "{'@id': '/products/london-buss-pussel-montessori-larande-for-barn?variant=52191681020250#offer', '@type': 'Offer', 'avai",
+    "sku": "3763636366374"
+   }
+  ],
+  "imgs": 11,
+  "imgs_empty_alt": 2,
+  "html_lang": "sv",
+  "scripts": 33,
+  "inline_script_bytes": 128949
+ },
+ {
+  "url": "https://www.happyparent.store/products/uc-girls-high-waist-cargo-pants",
+  "final": "https://www.happyparent.store/products/uc-girls-high-waist-cargo-pants",
+  "status": 200,
+  "bytes": 657411,
+  "title": "UC Girls High Waist Cargo Pants\n – Happy Parent",
+  "meta": "Girls High Waist Cargo Pants – Streetwear Stilen med Funktion En autentisk streetwear-look som helt enkelt hör hemma i varje garderob. Dessa byxor är ännu mer mångsidiga eftersom cargo-stilen är mer populär än någonsin! Den optimala höga midjan ger komfort hela dagen, medan den smickrande passformen och de elastiska be",
+  "h1": [
+   "UC Girls High Waist Cargo Pants"
+  ],
+  "canonical": "https://www.happyparent.store/products/uc-girls-high-waist-cargo-pants",
+  "hreflang": [
+   "x-default",
+   "sv",
+   "en",
+   "fi",
+   "da"
+  ],
+  "robots": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "og": true,
+  "jsonld_types": [
+   "Organization",
+   "Organization",
+   "BreadcrumbList",
+   "ProductGroup"
+  ],
+  "product_ld": [],
+  "imgs": 34,
+  "imgs_empty_alt": 1,
+  "html_lang": "sv",
+  "scripts": 33,
+  "inline_script_bytes": 145266
+ },
+ {
+  "url": "https://www.happyparent.store/products/leksaksfigurer-med-tv-spel-tema-4-figurer",
+  "final": "https://www.happyparent.store/products/leksaksfigurer-med-tv-spel-tema-4-figurer",
+  "status": 200,
+  "bytes": 577579,
+  "title": "Leksaksfigurer med TV-spel-tema – 4 Figurer\n – Happy Parent",
+  "meta": "Leksaksfigurer med TV-spel-tema – 4 Figurer",
+  "h1": [
+   "Leksaksfigurer med TV-spel-tema – 4 Figurer"
+  ],
+  "canonical": "https://www.happyparent.store/products/leksaksfigurer-med-tv-spel-tema-4-figurer",
+  "hreflang": [
+   "x-default",
+   "sv",
+   "en",
+   "fi",
+   "da"
+  ],
+  "robots": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "og": true,
+  "jsonld_types": [
+   "Organization",
+   "Organization",
+   "BreadcrumbList",
+   "Product"
+  ],
+  "product_ld": [
+   {
+    "brand": "{'@type': 'Brand', 'name': 'Happy Parent'}",
+    "gtin": "387393739737",
+    "name": "Leksaksfigurer med TV-spel-tema – 4 Figurer",
+    "offers": "{'@id': '/products/leksaksfigurer-med-tv-spel-tema-4-figurer?variant=53398345908570#offer', '@type': 'Offer', 'availabil",
+    "sku": "roblox393figures235454-4pcs"
+   }
+  ],
+  "imgs": 11,
+  "imgs_empty_alt": 2,
+  "html_lang": "sv",
+  "scripts": 33,
+  "inline_script_bytes": 129042
+ },
+ {
+  "url": "https://www.happyparent.store/products/uc-boys-boxy-heavy-longsleeve",
+  "final": "https://www.happyparent.store/products/uc-boys-boxy-heavy-longsleeve",
+  "status": 200,
+  "bytes": 618151,
+  "title": "UC Boys Boxy Heavy Longsleeve | Barnkläder online\n – Happy Parent",
+  "meta": "Boys Boxy Heavy Longsleeve En långärmad tröja med boxy passform som kombinerar stil och komfort i ett tidlöst plagg.",
+  "h1": [
+   "UC Boys Boxy Heavy Longsleeve"
+  ],
+  "canonical": "https://www.happyparent.store/products/uc-boys-boxy-heavy-longsleeve",
+  "hreflang": [
+   "x-default",
+   "sv",
+   "en",
+   "fi",
+   "da"
+  ],
+  "robots": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "og": true,
+  "jsonld_types": [
+   "Organization",
+   "Organization",
+   "BreadcrumbList",
+   "ProductGroup"
+  ],
+  "product_ld": [],
+  "imgs": 22,
+  "imgs_empty_alt": 1,
+  "html_lang": "sv",
+  "scripts": 33,
+  "inline_script_bytes": 143444
+ },
+ {
+  "url": "https://www.happyparent.store/products/boys-organic-basic-sweatpants",
+  "final": "https://www.happyparent.store/products/boys-organic-basic-sweatpants",
+  "status": 200,
+  "bytes": 568466,
+  "title": "Boys Organic Basic Sweatpants för pojke | Happy Parent",
+  "meta": "Köp Boys Organic Basic Sweatpants för pojke hos Happy Parent. Bekväma byxor för barn som passar skola, lek och vardag. Praktiska barnkläder med bra passform.",
+  "h1": [
+   "Boys Organic Basic Sweatpants"
+  ],
+  "canonical": "https://www.happyparent.store/products/boys-organic-basic-sweatpants",
+  "hreflang": [
+   "x-default",
+   "sv",
+   "en",
+   "fi",
+   "da"
+  ],
+  "robots": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "og": true,
+  "jsonld_types": [
+   "Organization",
+   "Organization",
+   "BreadcrumbList",
+   "ProductGroup"
+  ],
+  "product_ld": [],
+  "imgs": 6,
+  "imgs_empty_alt": 1,
+  "html_lang": "sv",
+  "scripts": 33,
+  "inline_script_bytes": 129244
+ },
+ {
+  "url": "https://www.happyparent.store/pages/contact",
+  "final": "https://www.happyparent.store/pages/contact",
+  "status": 200,
+  "bytes": 474415,
+  "title": "KONTAKTA OSS\n – Happy Parent",
+  "meta": "Du kan också maila oss på: info@happyparent.store",
+  "h1": [],
+  "canonical": "https://www.happyparent.store/pages/contact",
+  "hreflang": [
+   "x-default",
+   "sv",
+   "en",
+   "fi",
+   "da"
+  ],
+  "robots": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "og": true,
+  "jsonld_types": [
+   "Organization",
+   "Organization"
+  ],
+  "product_ld": [],
+  "imgs": 2,
+  "imgs_empty_alt": 1,
+  "html_lang": "sv",
+  "scripts": 28,
+  "inline_script_bytes": 65918
+ },
+ {
+  "url": "https://www.happyparent.store/pages/om-oss",
+  "final": "https://www.happyparent.store/pages/om-oss",
+  "status": 200,
+  "bytes": 474122,
+  "title": "om oss\n – Happy Parent",
+  "meta": null,
+  "h1": [
+   "om oss"
+  ],
+  "canonical": "https://www.happyparent.store/pages/om-oss",
+  "hreflang": [
+   "x-default",
+   "sv",
+   "en",
+   "fi",
+   "da"
+  ],
+  "robots": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "og": true,
+  "jsonld_types": [
+   "Organization",
+   "Organization"
+  ],
+  "product_ld": [],
+  "imgs": 2,
+  "imgs_empty_alt": 1,
+  "html_lang": "sv",
+  "scripts": 28,
+  "inline_script_bytes": 65915
+ },
+ {
+  "url": "https://www.happyparent.store/policies/shipping-policy",
+  "final": "https://www.happyparent.store/policies/shipping-policy",
+  "status": 200,
+  "bytes": 471806,
+  "title": "Fraktpolicy\n – Happy Parent",
+  "meta": null,
+  "h1": [
+   "Fraktpolicy",
+   "FRAKTPOLICY"
+  ],
+  "canonical": "https://www.happyparent.store/policies/shipping-policy",
+  "hreflang": [
+   "x-default",
+   "sv",
+   "en",
+   "fi",
+   "da"
+  ],
+  "robots": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "og": true,
+  "jsonld_types": [
+   "Organization",
+   "Organization"
+  ],
+  "product_ld": [],
+  "imgs": 2,
+  "imgs_empty_alt": 1,
+  "html_lang": "sv",
+  "scripts": 28,
+  "inline_script_bytes": 65681
+ },
+ {
+  "url": "https://www.happyparent.store/policies/refund-policy",
+  "final": "https://www.happyparent.store/policies/refund-policy",
+  "status": 200,
+  "bytes": 473274,
+  "title": "Återbetalningspolicy\n – Happy Parent",
+  "meta": null,
+  "h1": [
+   "Återbetalningspolicy",
+   "BYTEN OCH RETURER"
+  ],
+  "canonical": "https://www.happyparent.store/policies/refund-policy",
+  "hreflang": [
+   "x-default",
+   "sv",
+   "en",
+   "fi",
+   "da"
+  ],
+  "robots": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "og": true,
+  "jsonld_types": [
+   "Organization",
+   "Organization"
+  ],
+  "product_ld": [],
+  "imgs": 2,
+  "imgs_empty_alt": 1,
+  "html_lang": "sv",
+  "scripts": 28,
+  "inline_script_bytes": 65677
+ },
+ {
+  "url": "https://www.happyparent.store/policies/terms-of-service",
+  "final": "https://www.happyparent.store/policies/terms-of-service",
+  "status": 200,
+  "bytes": 476669,
+  "title": "Användarvillkor\n – Happy Parent",
+  "meta": null,
+  "h1": [
+   "Användarvillkor"
+  ],
+  "canonical": "https://www.happyparent.store/policies/terms-of-service",
+  "hreflang": [
+   "x-default",
+   "sv",
+   "en",
+   "fi",
+   "da"
+  ],
+  "robots": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "og": true,
+  "jsonld_types": [
+   "Organization",
+   "Organization"
+  ],
+  "product_ld": [],
+  "imgs": 2,
+  "imgs_empty_alt": 1,
+  "html_lang": "sv",
+  "scripts": 28,
+  "inline_script_bytes": 65683
+ },
+ {
+  "url": "https://www.happyparent.store/policies/privacy-policy",
+  "final": "https://www.happyparent.store/policies/privacy-policy",
+  "status": 200,
+  "bytes": 479362,
+  "title": "Integritetspolicy\n – Happy Parent",
+  "meta": null,
+  "h1": [
+   "Integritetspolicy",
+   "PERSONLIG DATA"
+  ],
+  "canonical": "https://www.happyparent.store/policies/privacy-policy",
+  "hreflang": [
+   "x-default",
+   "sv",
+   "en",
+   "fi",
+   "da"
+  ],
+  "robots": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "og": true,
+  "jsonld_types": [
+   "Organization",
+   "Organization"
+  ],
+  "product_ld": [],
+  "imgs": 2,
+  "imgs_empty_alt": 1,
+  "html_lang": "sv",
+  "scripts": 28,
+  "inline_script_bytes": 65679
+ },
+ {
+  "url": "https://www.happyparent.store/agents.md",
+  "final": "https://www.happyparent.store/agents.md",
+  "status": 200,
+  "bytes": 5772,
+  "title": null,
+  "meta": null,
+  "h1": [],
+  "canonical": null,
+  "hreflang": [],
+  "robots": null,
+  "og": false,
+  "jsonld_types": [],
+  "product_ld": [],
+  "imgs": 0,
+  "imgs_empty_alt": 0,
+  "html_lang": null,
+  "scripts": 0,
+  "inline_script_bytes": 0
+ },
+ {
+  "url": "https://www.happyparent.store/.well-known/ucp",
+  "final": "https://www.happyparent.store/.well-known/ucp",
+  "status": 200,
+  "bytes": 6005,
+  "title": null,
+  "meta": null,
+  "h1": [],
+  "canonical": null,
+  "hreflang": [],
+  "robots": null,
+  "og": false,
+  "jsonld_types": [],
+  "product_ld": [],
+  "imgs": 0,
+  "imgs_empty_alt": 0,
+  "html_lang": null,
+  "scripts": 0,
+  "inline_script_bytes": 0
+ },
+ {
+  "url": "https://www.happyparent.store/llms.txt",
+  "final": "https://www.happyparent.store/llms.txt",
+  "status": 200,
+  "bytes": 5815,
+  "title": null,
+  "meta": null,
+  "h1": [],
+  "canonical": null,
+  "hreflang": [],
+  "robots": null,
+  "og": false,
+  "jsonld_types": [],
+  "product_ld": [],
+  "imgs": 0,
+  "imgs_empty_alt": 0,
+  "html_lang": null,
+  "scripts": 0,
+  "inline_script_bytes": 0
+ },
+ {
+  "url": "https://www.happyparent.store/sitemap_agentic_discovery.xml",
+  "final": "https://www.happyparent.store/sitemap_agentic_discovery.xml",
+  "status": 200,
+  "bytes": 218,
+  "title": null,
+  "meta": null,
+  "h1": [],
+  "canonical": null,
+  "hreflang": [],
+  "robots": null,
+  "og": false,
+  "jsonld_types": [],
+  "product_ld": [],
+  "imgs": 0,
+  "imgs_empty_alt": 0,
+  "html_lang": null,
+  "scripts": 0,
+  "inline_script_bytes": 0
+ }
+]
