@@ -53,3 +53,10 @@ Produkter skrivna / totalt, andel med 0 avvikelser i stickprov, antal korrigerin
 | Butik | Läge |
 |---|---|
 | BEST OF SPORTS | Skrivning pågår via MCP (3–5 produkter per mutation). API-väg föreslagen 2026-11-04, väntar på tillåten adress, app och token. |
+
+## Tillägg 2026-11-04: kontroller i kod och beslutslogg
+
+- **Spärrlista:** `shopify-sync/config/sparrlista.json` listar produkter som inte får skrivas (idfil + skäl + beslut). Aktiva spärrar stoppar skrivfiler i `shopify-sync/scripts/skrivfil_kontroll.py`. Bygg alltid inventeringen mot spärrlistan innan batcher delas upp.
+- **Skrivfilskontroll:** `python3 shopify-sync/scripts/skrivfil_kontroll.py <skrivfil> [--tillat-kanda]` kontrollerar spärrade produkter, förbjudna uttryck (FAQ, "Om märket", "här kallad", engelska maxviktsrader), märke i versaler, liten bokstav efter kolon, standardblocket, längder, dubbletter, osynliga tecken. Körs automatiskt av `rapporter/facit-bos-2026-10-31/vag2_skriv/bygg_kontrollerad.py` och ska köras före varje skrivning.
+- **Beslutslogg:** `shopify-sync/docs/BESLUTSLOGG.md` samlar Davids beslut som styr utrullningen. Läs den före varje ny batch. Nya beslut läggs till överst.
+- **Regel:** när något går fel ska vi fråga om ett skript kan upptäcka det, och i så fall lägga in kontrollen i `skrivfil_kontroll.py`, inte bara skriva en lärdom.

@@ -1,0 +1,17 @@
+[
+ {
+  "id": "10462850449674",
+  "nr": 10477,
+  "skäl": "Akupressurmatta med kudde (titeln har Akupunkturmatta) finns i handhavd_ids.txt (hälsoord i originaltiteln) och akupressur står på avvisningslistan i b_utkastprompt.md; fakta-läget (avsnitt 16) omfattar inte gruppen. Källan består dessutom i huvudsak av hälsopåståenden (lindra spänningar, stödja cirkulationen, stimulera nervändar, främja återhämtning) och anger Mattans mått två gånger med olika mått (70 x 45 x 2 och 40 x 45 x 2 cm), så måtten är motsägande. Kan skrivas i ren teknisk fakta (material, mått på nr 10478, 2,4 kg, bärväska) om David godkänner gruppen."
+ },
+ {
+  "id": "10472301920522",
+  "nr": 10478,
+  "skäl": "Akupressurmatta med kudde (titeln har Akupunkturmatta): samma källtext som nr 10477 men svart; akupressur står på avvisningslistan i b_utkastprompt.md och fakta-läget omfattar inte gruppen. Källan är till största delen hälsopåståenden (lindra spänningar, stödja cirkulationen, stimulera nervändar, främja återhämtning). Skulle skrivas som egen produkt (svart, mått 70 x 45 x 2 och 40 x 45 x 2 cm, 2,4 kg) i ren teknisk fakta efter Davids godkännande av gruppen; nr 10477 hålls av samma skäl."
+ },
+ {
+  "id": "10472324432138",
+  "nr": 10491,
+  "skäl": "Otillräcklig källa: livekällan är bara 'Produkten passar för BH Fitness' med en länk till en velotrainer/cykeltrainer och 'Tillverkaren är BH Fitness'. Ingen uppgift om mått, material eller användning, och produkttypen Step board är oklar (finns i handhavd_ids.txt: stepbräda, källan länkar till cykeltrainer). Ingen text går att skriva utan att gissa."
+ }
+]

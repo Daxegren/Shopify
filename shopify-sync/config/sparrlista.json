@@ -1,0 +1,24 @@
+{
+  "butik": "bestofsports.se",
+  "beskrivning": "Produkter som inte får skrivas av textutrullningen. Läses av shopify-sync/scripts/skrivfil_kontroll.py. Lägg till nya spärrar som nya poster; sätt aktiv=false när en spärr hävts och ange datum och beslut. Ta inte bort poster.",
+  "sparrar": [
+    {
+      "namn": "pilot-20",
+      "aktiv": true,
+      "idfil": "rapporter/bestofsports-pilot-20-produkter-2026-10-25.csv",
+      "idkolumn": "produkt_id",
+      "skal": "Pilotens 20 produkter (T33) mäts runt 2026-11-22 och ändras inte i vågorna.",
+      "beslut": "David, rad 73 i shopify-sync/docs/produkttexter-standard.md; bekräftat 2026-11-04 (pilotprodukterna hålls kvar tills David säger annat).",
+      "kanda_overtradelser": ["10411848532234", "10541370114314"]
+    },
+    {
+      "namn": "experiment-1",
+      "aktiv": false,
+      "idfil": "rapporter/forslag-bos-experiment-1-2026-10-27/kohorter.csv",
+      "idkolumn": "produkt_id",
+      "skal": "Experiment 1 (432 produkter, kohorter T och K) skulle inte ändras i vågorna.",
+      "hävd": "2026-11-04",
+      "beslut": "David 2026-11-04: trafiken är låg och Google Ads avstängt, så experimentet går inte att lita på; nya tester schemaläggs när allt är genomgånget."
+    }
+  ]
+}
