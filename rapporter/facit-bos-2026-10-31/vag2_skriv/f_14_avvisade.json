@@ -1,0 +1,32 @@
+[
+ {
+  "id": "10472300052746",
+  "nr": 10329,
+  "skäl": "Titeln anger 10 kg, men produkten har tre varianter (KRV-10 till 649 kr, KRV-16 och KRV-14 till 789 kr) med oförklarade namn. Titeln stämmer inte med produkten och vikten går inte att låsa. Kan skrivas när varianterna är uppdelade."
+ },
+ {
+  "id": "10430254809354",
+  "nr": 10331,
+  "skäl": "Titeln anger blå och 12 kg, men SKU är KCAE-14 medan övriga Olympic EVO har SKU som motsvarar vikten (KCAE-16 = 16 kg, KCAE-18 = 18 kg, KCAE-20 = 20 kg). Källan säger varken vikt eller färg. Motsägande uppgift om vikten; kan skrivas när leverantören bekräftat 12 eller 14 kg."
+ },
+ {
+  "id": "10541372801290",
+  "nr": 10335,
+  "skäl": "Titeln anger 8 kg, men produkten har sex varianter (25TUPLA071 till 389 kr och 25TUPLA070, 072–075 till 679 kr) med oförklarade namn. Källan nämner ingen vikt. Titeln stämmer inte med produkten."
+ },
+ {
+  "id": "10548235862282",
+  "nr": 10338,
+  "skäl": "Titeln anger PE, men källtexten anger genomgående PVC med sandfyllning (\"PVC-kettle\"). Motsägande materialuppgift mellan titel och källa; källan innehåller dessutom garblad text. Går inte att skriva säkert utan besked om PE eller PVC."
+ },
+ {
+  "id": "10548235403530",
+  "nr": 10339,
+  "skäl": "Titeln anger PE, men källtexten anger genomgående PVC med sandfyllning. Motsägande materialuppgift mellan titel och källa; källan innehåller dessutom en oklar rad (\"Iga\"). Går inte att skriva säkert utan besked om PE eller PVC. Samma sak som 10338."
+ },
+ {
+  "id": "10462836490506",
+  "nr": 10340,
+  "skäl": "Vikten 3,5 kg står bara i produktnamnet; källan anger inte om den avser handtaget eller en största vikt för en justerbar kettlebell, och tillbehöret (skruv för att fästa vikter, Add-On Kit) bär last. Källan har dessutom en tom rad (\"Mått\"). Kan skrivas när vikten och kompatibiliteten bekräftats."
+ }
+]

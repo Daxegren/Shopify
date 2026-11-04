@@ -1,0 +1,12 @@
+# Skrivrapport fil 12 (BEST OF SPORTS, Velomarket-hantlar), 2026-11-04
+
+- Butik verifierad: BEST OF SPORTS (bestofsports.se). Skrivfil: `vag2_skriv/f_skriv_12.json` (20 produkter, nr 10277-10300 utom 10276, 10278, 10282, 10284, 10294 som saknas i filen och inte skrevs).
+- Före-läge (titel, handle, status, taggar, seo, beskrivning) sparat i `rapporter/shopify-original-2026-11-04/f_12_fore.json` före skrivning. Alla 20 var ACTIVE, ingen hade taggen texter-klara, ingen hade lika titel/seo/beskrivning som skrivfilen (ingen hoppades över). Före-filen är komplett (20 poster, fulla texter); den är inklistrad från Shopify-svaret och inte maskinellt hämtad.
+- Bildblock (Trix): originalbeskrivningarna innehåller inga `<img>`/`<figure>`; inget bildblock försvann.
+- Kontrollskriptet (kopia, standardblock inom [[STANDARDBLOCK]], --seo-title-max 43 --seo-suffix --meta-min 70, källtext = före-läget): 1 FEL och 21 varningar. Felet var `tal_utan_kalla` "2" för 10281 (Hammer krom): falskt larm, "två viktskivor" i källan skrivs "2 x" i specifikationen. Varningar: rubriken "Passar för" (kända) samt 10292 38 ord (kort, tunn källa, accepterat).
+- Skrivning: 20 produkter i 5 anrop (3 kanarie, 5, 5, 5, 2), högst 5 per productUpdate; varje mutation skriven ut av `f12work/gen.py` (json.dumps ensure_ascii=True), skriptet vägrar osynliga tecken (Cf, U+00AD), inklistrad ordagrant. Alla userErrors tomma.
+- Återläsning efter varje batch, högst 4 produkter per fråga, jämförd tecken för tecken i python (`f12work/cmp.py`: title, seo.title (null = titeln), seo.description, descriptionHtml exakt lika, samt handle, status, taggar oförändrade mot före): 20 av 20 OK, inga avvikelser, ingen omskrivning behövdes. Allt maskinellt, inget för hand.
+- 'På beställning': taggen finns på 10277, 10279, 10290, 10293, 10296, 10297, 10298 och exakt dessa 7 har meningen "Beställningsvaror kan ta upp till en vecka längre." i beskrivningen (kontrollerat i python för alla 20).
+- Taggen texter-klara lades sist med tagsAdd på alla 20 (inga userErrors); återläst: alla tidigare taggar kvar, inklusive Velomarket (alla) och Gymstick (10287) orörda, status ACTIVE.
+- Ändrat i Shopify: titel, seo, beskrivning och en tagg på 20 produkter. Handle, status och pris ändrades inte. Committat ingenting.
+- Arbetsmapp: `/tmp/claude-0/-home-user/fbbd95a3-8b18-5096-a6b5-20df3e4eb235/scratchpad/f12work/` (gen.py, cmp.py, kontroll.json, rb1-rb5.json).

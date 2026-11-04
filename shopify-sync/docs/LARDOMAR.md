@@ -171,3 +171,7 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 ## 2026-11-04: Shopifys admin-adress är blockerad från molnmiljön
 - Vad hände: `curl` mot `6f2e53-67.myshopify.com` gav `CONNECT tunnel failed, response 403`.
 - Regel: för skript-skrivning mot Admin API måste butikens adress läggas under Allowed domains och token lagras som hemlig miljövariabel, aldrig i chatten.
+
+## 2026-11-04: Fitness – fel som upprepades trots rutinen
+- Vad hände: (1) Skrivagent hoppade över 10103/10110 för att titeln var lika, fast texten var pilotens gamla (FAQ + Om märket): samma fel som 2026-11-03. (2) Vid inklistring av mutation tappades en mening (10078) och raderna Märke/Retur/Reklamation (10250); fångades av återläsning. (3) Före-fil skrevs för hand och fick förkortade texter (f_8) eller saknade ett bildblock (10211). (4) Format (stor bokstav efter kolon, versaler i titel) var det vanligaste granskningsfelet i f_10 och f_12. (5) Engelska 'Maximum operating weight' översattes olika i olika batcher.
+- Regel: lika titel räcker aldrig som bevis (jämför titel, seo och beskrivning). Kör format_regler.py på varje utkast innan granskning. Före-fil ska kontrolleras mot id-antal och teckenlängd före skrivning. Maxvikt vid engelsk/maskinöversatt källa utelämnas (Davids alt A); svensk ordagrann lastgräns får stå en gång som 'enligt tillverkaren'. Skript-skrivning mot API (textutrullning-rutin.md) tar bort inklistringsfelen.
