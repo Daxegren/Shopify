@@ -1,0 +1,27 @@
+[
+ {
+  "id": "10561341620490",
+  "nr": 10565,
+  "skäl": "Vibrationsplatta: kategorin står under utanfor_tills_vidare i profilen (R6). Källan har dessutom hälsopåståenden (fettförbränning, bentäthet, cirkulation)."
+ },
+ {
+  "id": "10561341718794",
+  "nr": 10566,
+  "skäl": "Vibrationsplatta: kategorin står under utanfor_tills_vidare (R6). Källan har hälsopåståenden (fettförbränning, bentäthet, cirkulation)."
+ },
+ {
+  "id": "10411932647690",
+  "nr": 10567,
+  "skäl": "Kroppsanalysvåg (fettprocent, muskelmassa, BMR, kroppsålder, intraabdominellt fett): kategorin står under utanfor_tills_vidare (R6)."
+ },
+ {
+  "id": "10588451504394",
+  "nr": 10589,
+  "skäl": "Titeln anger 15 kg men produkten har två varianter (25TUPLA093 pris 1579, 25TUPLA094 pris 1669) och källan nämner ingen vikt (R3). Källan har dessutom bara mått och material utöver reklamord."
+ },
+ {
+  "id": "10624084148490",
+  "nr": 10609,
+  "skäl": "Källan är bara 'Tillverkaren är Toorx' (R3): noll fakta utöver titeln, så varken text eller kort meta har faktagrund. Äldre utkast a_5 (nr 2515) för samma id bör därför inte användas."
+ }
+]

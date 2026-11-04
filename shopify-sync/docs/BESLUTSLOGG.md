@@ -4,6 +4,7 @@ Skapad 2026-11-04. Filen fylls bara på; nya beslut läggs överst i tabellen, g
 
 | Datum | Beslut | Gäller | Vem | Källa |
 |---|---|---|---|---|
+| 2026-11-04 | Riktning: kunskapen och pipelinen från BEST OF SPORTS ska kunna bli ett PIM-/produktdatasystem som säljs till andra e-handlare. Allt som byggs ska därför vara butiksoberoende (profil, regelbok, kontroller, status, mätning). Inget säljbeslut taget än | Hela textutrullningen | David | Chatt 2026-11-04 |
 | 2026-11-04 | Punkt 3–6 byggs: regelbok i stället för långa prompter, butiksprofil per sajt, statusfil per utrullning, mätning av granskningsutbytet. Få korta filer som läses vid start via CLAUDE.md, och tester som tvingar fram reglerna | Alla butiker | David | Chatt 2026-11-04 |
 | 2026-11-04 | Experiment 1 (432 produkter, kohorter T/K) hålls inte längre utanför. Skäl: låg trafik på .se/.dk/.fi och Google Ads avstängt, så experimentet går inte att lita på. Nya tester schemaläggs när allt är genomgånget | Alla produkter i kohorter.csv | David | Chatt 2026-11-04; `sparrlista.json` (aktiv=false) |
 | 2026-11-04 | Pilotens 20 produkter hålls kvar tills David säger annat (mäts runt 2026-11-22). Två skrevs av misstag (10103, 10110) | `rapporter/bestofsports-pilot-20-produkter-2026-10-25.csv` | Claude föreslog, David har inte hävt | `sparrlista.json` (aktiv=true) |
