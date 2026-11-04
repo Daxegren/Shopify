@@ -163,3 +163,11 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 ## 2026-11-03: Trasig källtext ger ingen uppgift att bygga på; kort meta är bättre än null
 - Vad hände: Kona Fire Mountain hade däckbredden bara som trasig text ("x2 .25""), och granskare godkände ändå "2,25 tum". Skrivningen stoppades före första skrivningen av kontrollskriptet och uppgiften togs bort.
 - Regel: en uppgift som inte står entydigt i den egna produktens källa tas bort. David har beslutat att kort sann meta (typ, märke, material, mått) ska användas i stället för null på tunna produkter, men att beskrivningen aldrig fylls ut med text som saknar underlag.
+
+## 2026-11-04: Kopierad FAQ, osynliga tecken och inklistringsfel i faktatextgrupper
+- Vad hände: i utkasten b_50/b_51 fanns en kopierad vanliga-frågor-text från leverantören; den togs bort före skrivning. Mjuka bindestreck och extra mellanslag kom in när långa mutationer klistrades in för hand (Haiku, och vid två tillfällen jag själv: Fiido X, 8647). Fångades av jämförelse tecken för tecken och stickprov.
+- Regel: kontrollera utkast mot leverantörens kopierade FAQ/marknadstext. Skriv helst via skript mot API, inte via text som klistras in. Se `textutrullning-rutin.md`.
+
+## 2026-11-04: Shopifys admin-adress är blockerad från molnmiljön
+- Vad hände: `curl` mot `6f2e53-67.myshopify.com` gav `CONNECT tunnel failed, response 403`.
+- Regel: för skript-skrivning mot Admin API måste butikens adress läggas under Allowed domains och token lagras som hemlig miljövariabel, aldrig i chatten.

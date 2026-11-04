@@ -1,0 +1,55 @@
+# Rutin: produkttexter i stor skala (från BEST OF SPORTS, 2026-11)
+
+Skapad 2026-11-04 av Claude på Davids uppdrag: BEST OF SPORTS är första butiken, inte den sista. Filen fylls bara på. Varje butik får lägga till egna rader under "Butiksnoteringar" i stället för att ändra regler som redan gäller.
+
+## 1. Flöde per grupp av produkter
+
+1. **Gruppera** efter produkttyp och risk (en grupp = en typ av fakta, t.ex. växelcyklar, lås, hjälmar).
+2. **Spara före-läge** (`*_fore.json`) av titel, seo, beskrivning, tagg, status. Utan före-läge ingen skrivning.
+3. **Skriv utkast** från produktens egen källa (aldrig från syskonprodukter). Utkast och avvisade i skilda filer.
+4. **Granska** (Opus) mot standarden. Sonnet duger inte som enda granskare (fann bara 41 % av Opus fynd).
+5. **Bygg skrivfil** med `bygg_m_skriv.py` (kontroll av dubbletter och längder).
+6. **Kontrollera på kopia** med checkern (`--seo-title-max 43 --seo-suffix " – BEST OF SPORTS" --meta-min 70`). 0 fel krävs.
+7. **Skriv** i små batcher, **läs tillbaka** (högst 4 produkter per fråga) och jämför tecken för tecken.
+8. **Tagga** `texter-klara` sist, först när texten är verifierad.
+9. **Stickprov** av Sonnet: minst 10 produkter eller 20 %, endast läsning, rapport i `granskning/`.
+10. **Logga** (ändringslogg), **lärdomar**, beslutsfil.
+
+## 2. Den viktigaste lärdomen: skriv inte för hand
+
+Nästan alla fel i BEST OF SPORTS kom från att långa mutationer kopierades som text (av Haiku och av oss): extra mellanslag, mjuka bindestreck, tappade ord. Reglerna som hjälpte: skriptet skriver ut mutationen med `ensure_ascii=True`, återläsning i små delar, jämförelse i python, obligatoriskt stickprov.
+
+**Målläge: skript skriver direkt mot Admin API** så att ingen text kopieras av en modell. Då räcker: skrivfil → skript → återläsning → automatisk jämförelse. Modellen behövs bara för att skriva och granska texterna.
+
+## 3. Krav för API-vägen (att göra en gång per butik)
+
+| Steg | Vem |
+|---|---|
+| Lägg butikens `*.myshopify.com` under *Allowed domains* i molnmiljöns nätverksinställning | David |
+| Skapa en egen app i Shopify (Inställningar → Appar → Utveckla appar) med `read_products` och `write_products` (minsta behörighet). Lägg inte till fler | David |
+| Lägg Admin API-token som hemlig miljövariabel (t.ex. `SHOPIFY_ADMIN_TOKEN_<BUTIK>`) i molnmiljön. **Aldrig i chatten eller i repot** | David |
+| Ny session; läs en produkt som test innan något skrivs | Claude |
+| Skript: dry-run (visa vad som ändras), skriv, återläs, diff, skriv ut avvikelser. Stoppa vid första avvikelse | Claude |
+| Dra tillbaka token när arbetet är klart eller vid misstanke | David |
+
+Testat 2026-11-04: utan tillåten adress ger `curl` mot Shopify `CONNECT tunnel failed, response 403`.
+
+## 4. Regler som gäller alla butiker
+
+- Inga uppgifter som inte står entydigt i produktens egen källa. Brutna källtexter stryks.
+- Faktatextläge (standard §16) för säkerhetskänsliga kategorier: inga skydds-, stöld-, synlighets-, räckvidds- eller laddningsuttalanden utan "enligt tillverkaren".
+- SEO skickas alltid som både `title` och `description`, annars tappas metan.
+- Kort sann meta hellre än null. Ingen utfyllnadstext.
+- Butikens egna tagg-/leverantörsregler ändras inte (t.ex. Gymstick- och Velomarket-taggar).
+- Ingenting dubbleras: parallella skribenter ger dubblerade formuleringar och olika växelregler. Ge en skribent en grupp.
+- Tilltrasslade rate limits: återuppta agenter med SendMessage när gränsen återställts.
+
+## 5. Mätetal att följa per butik
+
+Produkter skrivna / totalt, andel med 0 avvikelser i stickprov, antal korrigeringar efter skrivning, tid per 100 produkter, avvisade per orsak. Fyll i vid varje beslutsfil.
+
+## Butiksnoteringar
+
+| Butik | Läge |
+|---|---|
+| BEST OF SPORTS | Skrivning pågår via MCP (3–5 produkter per mutation). API-väg föreslagen 2026-11-04, väntar på tillåten adress, app och token. |
