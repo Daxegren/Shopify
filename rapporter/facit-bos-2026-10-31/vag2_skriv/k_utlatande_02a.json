@@ -1,0 +1,149 @@
+[
+ {
+  "nr": 9101,
+  "id": "10475422056714",
+  "fil": "k_02a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "28 tums aluminiumhjul",
+    "efter": "28-tums aluminiumhjul"
+   },
+   "html": {
+    "fore": "28 tums aluminiumhjul",
+    "efter": "28-tums aluminiumhjul"
+   }
+  },
+  "skal": "Spårbart i egen källa (700C/28-tums aluminiumhjul, 25 mm, enkelväxel, flip-flop, XL 58 cm, tillbehör kan läggas till). Blå kommer bara från enda varianten 'XL / blue' (produktens egen variantdata, inte syskon) och får stå; XL är enda säljbara storlek (R3 v1.5). Vikt, bromstyp, ursprung och 'prisvärd/pålitlig' rätt utelämnade. Leveranstidsmeningen stöds av taggen På beställning. Rättning: sammansättningen skrivs '28-tums' (som '29-tumshjul' i övriga utkast)."
+ },
+ {
+  "nr": 9103,
+  "id": "10468705763594",
+  "fil": "k_02a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "28 tums aluminiumhjul",
+    "efter": "28-tums aluminiumhjul"
+   },
+   "html": {
+    "fore": "28 tums aluminiumhjul",
+    "efter": "28-tums aluminiumhjul"
+   }
+  },
+  "skal": "Spårbart. Varianterna XL och S / black har samma pris (9 129 kr), så R3 hindrar inte; svart från båda varianterna. S 49 cm och XL 58 cm står i källan. Taggen På beställning finns. Samma språkrättning som 9101."
+ },
+ {
+  "nr": 9104,
+  "id": "10474076373258",
+  "fil": "k_02a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "28 tums aluminiumfälgar",
+    "efter": "28-tums aluminiumfälgar"
+   },
+   "html": {
+    "fore": "28 tums aluminiumfälgar",
+    "efter": "28-tums aluminiumfälgar"
+   }
+  },
+  "skal": "Spårbart; 'aluminiumfälgar' följer produktens egen källa. M och XL / yellow samma pris; gul från varianterna. M 52 cm, XL 58 cm i källan. Samma språkrättning som 9101."
+ },
+ {
+  "nr": 9107,
+  "id": "10676715061514",
+  "fil": "k_02a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (för Longtail Varia, 83 x 48 x 14 cm, Cargobike of Sweden). Tunn källa (ett faktum utöver titeln) men kort sann meta är tillåten (R3, standard §14); ingen lastgräns i källan och ingen nämns (§12). Obs till David: butiken har en identisk produkt 10676715127050 (samma titel, SKU 1580-4, pris 1 599 kr) som inte finns i någon batch; bara 9107 får text."
+ },
+ {
+  "nr": 9109,
+  "id": "10572663816458",
+  "fil": "k_02a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (8 kg svänghjul, 10 manuella nivåer, magnetiskt, remdrift, steglängd 30 cm, LCD med tablettfäste, 2 x AAA, 45 kg, 120 x 60 x 165 cm). Typordet Hybridtränare är produktens live-ord och står i källan; '(crosstrainer)' stöds av källans 'crosstrainern' (R7). 'Maximal användarvikt: 150 kg' är en ren svensk rad med etikett och enhet och står en gång 'enligt tillverkaren' (R4, alt A); en förekomst totalt (R5). Slitfritt/viskande tyst/skonsam och träningseffekt rätt utelämnade. Fitness ingår i faktatextläget. Obs: produkten ligger även i fitnessinventeringen (a_5_in); koordinatorn ska se till att den inte skrivs två gånger."
+ },
+ {
+  "nr": 9112,
+  "id": "10472238842122",
+  "fil": "k_02a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (kolfiber, Ground Fiftyone 34,9 mm, Rodi 15x110/12x148, FC-MT5101 32T, SLX RD-M7100 12-S, Racing Ralph 29x2.25, fästpunkter, måttband och multiverktyg). Terrängcykel står i källtexten (R7). SLX finns bara mekaniskt; texten säger inget om typen. Ramstorlekar rätt utelämnade (Default Title). Superlativ, världscup och länk utelämnade."
+ },
+ {
+  "nr": 9113,
+  "id": "10581606629642",
+  "fil": "k_02a_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Fakta i sig spårbara, men produkten är 7124 (AnyTour med integrerad belysning) som står på väntelistan (vantelista_underkanda.json) och i beslut-2026-11-03-3 punkt 2 och beslut-2026-11-03-4 punkt 2 ('skriv inte 7124 utan leverantörens besked'). Inget beslut av David finns i BESLUTSLOGG; §16 frisläpper belysningsprodukter, inte detta öppna beslut. Skrivs först när David beslutat."
+ },
+ {
+  "nr": 9114,
+  "id": "10472295727370",
+  "fil": "k_02a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (aluminium, Shimano Deore, 30 växlar, Shimano hydrauliska skivbromsar, Inkluderar-raden). Charcoal från live-titeln. Ramstorlek L rätt utelämnad (Default Title). Hybridcykel kommer från butikens tagg (live-titeln säger bara 'Cykel'); godtas som butikens live-ord enligt R7, men typordet är taget från tagg, inte källtext. Inte 'integrerad belysning' som 7124/7108; texten säger bara att ljusen ingår."
+ },
+ {
+  "nr": 9116,
+  "id": "10488246763786",
+  "fil": "k_02a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (ALUXX-Grade, M 50 cm enda variant, Shimano Altus, 8 växlar, Tektro V-bromsar, I setet ingår-raden). Stadscykel står i källtexten (R7). Däck 'CST Reach37-622' rätt utelämnat. Ramlås och belysning nämns bara som ingående, utan stöldskydds- eller säkerhetsord. Inte dubblett: 9115 är Attend RS 1, RS 3 är arkiverad."
+ },
+ {
+  "nr": 9118,
+  "id": "10472290615562",
+  "fil": "k_02a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (ALUXX SLR, 12x148, Crest 34 RRL 100 mm 15x110 fjärrlåsning, 29-tumshjul, SLX M7100, 12 växlar, BR-MT500, Recon Race 29x2.4). Mountainbike: live-titeln säger bara 'Cykel', men butikens tagg och alla redan skrivna XTC SLR 29 (6035, Asfaltsgrön, 29 2-modellerna) heter Mountainbike; godtas för enhetlighet (R7), notera för David. Inte dubblett: Svart (6035) och Asfaltsgrön är andra färger."
+ },
+ {
+  "nr": 9121,
+  "id": "10462752145674",
+  "fil": "k_02a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart; M, M/L och L säljs som varianter med samma pris (R3 v1.5), dubblerad M-rad hanterad. Rosewood från titeln, varianternas 'Red' motsäger inte. Skivbromsar står i källans löptext och ramrad, Tektro TK-B177 i bromsraden; texten återger källan. Obs till David: TK-B177 är enligt allmän kunskap en fälgbroms (caliper); källan säger skivbroms, så texten följer R1, men leverantören bör bekräfta. '(30 mm)' rätt utelämnad."
+ },
+ {
+  "nr": 9122,
+  "id": "10472239399178",
+  "fil": "k_02a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (ALUXX-Grade, kompositgaffel OverDrive, S-R2 Disc, Sora, Tektro MD-C550 + MPH 160 mm, S-R3 AC 700x32c, D-Fuse, fästpunkter). Landsvägscykel enhetligt med redan skrivna Contend AR 1/AR 2. 'max 38 mm' rätt utelämnad."
+ },
+ {
+  "nr": 9123,
+  "id": "10470896271626",
+  "fil": "k_02a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (ALUXX-Grade, 21 växlar 3x7, Tourney fram/bak, ST-EF41, Tektro mekaniska med MPH-rotorer = mekaniska skivbromsar, S-X3 700x38c, fästpunkter). Trasig ramstorleksrad och 'Kedjebromsarna' rätt utelämnade. Hybridcykel från tagg (som 9114). Färgnamnet 'Metallic Blue' är engelskt men är Giants färgnamn i live-titeln och följer praxis i redan skrivna batcher (t.ex. 'Gloss Metallic Blue', 'Midnight Black'); standard §3 säger 'färg på svenska', så frågan tas upp för David i stället för att rättas här."
+ },
+ {
+  "nr": 9124,
+  "id": "10472239071498",
+  "fil": "k_02a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (ALUXX-Grade, 28-tumshjul, Suntour CR8R, V-bromsar, ca 16 kg, levereras med-raden). Damcykel är live-titelns ord (R7: behåll eget live-ord, fast källtexten säger hybridcykel). Växlar rätt utelämnade (Nexus 7 mot 8 växlar, R2)."
+ },
+ {
+  "nr": 9125,
+  "id": "10650208993546",
+  "fil": "k_02a_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Fakta spårbara och texten är försiktigare än förra utkastet, men produkten är 7163 (hoppcykel) som underkändes i k_16/17 och står på väntelistan med öppen fråga till David ('ska hoppcyklar räknas som säkerhetsprodukter?', beslut-2026-11-03-3 punkt 2: 'om inget beslutas skrivs de inte'). Inget beslut finns i BESLUTSLOGG. Om David släpper den: typordet ska följa live-titeln 'Dirt jump-cykel' (versalt J saknar stöd), och meningen 'Enligt tillverkaren är cykeln designad för dirt jumping…' är ett användningsändamål som David bör godkänna uttryckligen."
+ }
+]
