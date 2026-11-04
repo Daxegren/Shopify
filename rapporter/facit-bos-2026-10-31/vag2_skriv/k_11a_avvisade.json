@@ -1,0 +1,22 @@
+[
+ {
+  "id": "10472250441994",
+  "nr": 9801,
+  "skäl": "Stödben för bakre löpare (cykelstöd) bär cykelns vikt: säkerhetskritisk/bärande del. Avvisas (som 8052/8056 i tidigare granskning). Källan har dessutom bara en mening (\"Stöd för Academy 20\" cyklar, avstånd 40 mm\")."
+ },
+ {
+  "id": "10475367006474",
+  "nr": 9802,
+  "skäl": "Titeln \"Skridskor\" stämmer inte med källan: texten beskriver en pjäxa med NNN-bindning (längdskidpjäxa, taggar Skidor/Klassiska pjäxor) som \"skridskopjäxa\". Motsägelse mellan titel och källa (R3) och oklart typord (R7); en agent får inte byta produktens typ. Dessutom starka skydds- och kvalitetspåståenden (skyddar foten, ultimat komfort). David avgör typ och titel (längdskidpjäxa eller skridskopjäxa)."
+ },
+ {
+  "id": "10636624331018",
+  "nr": 9808,
+  "skäl": "Kallbadtunna (taggar isbad/rehab) vars källa vilar på hälsopåståenden (lindra muskelvärk, minska stress, sömn) och en läkarvarning för hjärtfel samt rekommenderade badtider. Varningen kan inte utelämnas ansvarsfullt och kontrollskriptets hälsotest (läkare) stoppar den; produkten bör inte skrivas om utan Davids beslut. Fylld tunna väger 450 kg."
+ },
+ {
+  "id": "10636716376330",
+  "nr": 9816,
+  "skäl": "Tunn källa (R3): texten beskriver bara adduktorernas anatomi och löpning/skaderisk; inga mått, material, vikt eller beskrivning av vad redskapet är. Endast en entydig uppgift utöver titeln (\"träna adduktorerna, insidan av låren\"). Dessutom skaderiskpåstående i källan. Avvisas."
+ }
+]
