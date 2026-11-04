@@ -1,0 +1,105 @@
+[
+ {
+  "nr": 10493,
+  "id": "10470945816842",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "Steget är avtagbart och täckt med en halkskyddsbeläggning.",
+     "efter": "Steget är avtagbart och enligt tillverkaren täckt med en halkskyddsbeläggning."
+    },
+    {
+     "fore": "<li>Extra steg: Roterande, avtagbart och med halkskyddsbeläggning</li>",
+     "efter": "<li>Extra steg: Roterande och avtagbart</li>"
+    }
+   ]
+  },
+  "skal": "Fakta stämmer mot live (23 kg, 31 x 44 cm, 20 cm, hopfällbar, roterande avtagbart steg). Båda Mått-raderna och badets 98 cm är rätt utelämnade (R2). 'Maximal användarvikt: 150 kg' står ordagrant på svenska med etikett och enhet och återges en gång som enligt tillverkaren (R4). Trampolin finns i källtexten (R7). Halkskydd är ett halk-/säkerhetsord (R5): en gång som enligt tillverkaren, borttaget ur specifikationsraden (två enligt tillverkaren totalt). Äldre a_1-utkast (nr 2115) har inte återanvänts."
+ },
+ {
+  "nr": 10501,
+  "id": "10472300937482",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Tunn källa (R3): live har bara 'Diameter: 39,5 cm'; färgen och märket står i titeln/vendor. Det är ett faktum utöver titeln, regeln kräver minst två. Kort meta enligt §14 eller avvakta."
+ },
+ {
+  "nr": 10511,
+  "id": "10472284684554",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "75 cm, viktad del i botten, handtag, ljusgrönt lås, maskintvätt, syntetiskt, Svart | Grön och 'inkluderar inte sittboll' står i live. Rullar-iväg-påståendet en gång som enligt tillverkaren. Kontorsstol, muskelstärkande, anti-explosiv och märkeshistoria rätt utelämnade."
+ },
+ {
+  "nr": 10526,
+  "id": "10461962764554",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "träningsboll av vinyl med diametern",
+    "efter": "träningsboll med diametern"
+   },
+   "html": [
+    {
+     "fore": "träningsboll av vinyl med diametern",
+     "efter": "träningsboll med diametern"
+    },
+    {
+     "fore": "<li>Material: Vinyl</li>\n",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Sprängsäker/anti-burst och 'klarar upp till 350 kg' är rätt utelämnade (R4 v1.1: lastgräns i löptext utan etikett; R5 säkerhetsord). Materialet är motsägelsefullt i live: 'Material: vinyl' men också 'tillverkad av nylon' i den trasiga raden → utelämnas (R2). 811 g, 55 cm, svart, handpump, fyllningsanvisningen och storleksraden 155–165 cm stämmer. Meta efter rättning 105 tecken."
+ },
+ {
+  "nr": 10539,
+  "id": "10411857641738",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Källan stämmer inte med titeln (R3): texten säger 'Double Exercise Wheel', titeln 'Exercise Wheel Deluxe'. Typordet Träningshjul står inte i källan och inte i profilens godkanda_typord (R7); h_3 10502 är inget beslut. Måttet är oklart (hjul eller set). Kvar blir bara mått och knämatta."
+ },
+ {
+  "nr": 10543,
+  "id": "10472296677642",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Pullbuoy är titelns eget ord och källan skriver Pull Buoy; R7 tillåter att titelns ord behålls när svenskt ord saknas, Ujumispoi är rätt borttaget (R2). PE-skum, placering mellan lår eller anklar, bara armarna används står i live. Simteknik/uthållighet är en träningseffekt som står ordagrant och återges en gång som enligt tillverkaren (R5). Högkvalitativt och överkroppsstyrka borta. Medium bara i titeln, en variant."
+ },
+ {
+  "nr": 10546,
+  "id": "10472299004170",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Live-beskrivningen är vår egen tidigare enmeningstext (facit 30), alltså ingen tillverkarkälla. Allt i utkastet (5,3 kHz, ANT, Bluetooth) står redan i titeln; inga fakta utöver titeln (R3). Live har redan standardblock och SEO-titel, så omskrivningen tillför inget och ska inte göras (R15). Inget äldre utkast återanvänt."
+ },
+ {
+  "nr": 10547,
+  "id": "10475517772042",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Tunn källa (R3): enda uppgiften är 'Frekvens: 5,3 KHz', som redan står i titeln; frekvensomfångsraden är trasig och Italien är ett ursprung (R5). Noll entydiga fakta utöver titeln. Är en annan produkt än 10546 (annan SKU, pris, saknar ANT/Bluetooth), men det räddar inte källan."
+ },
+ {
+  "nr": 10549,
+  "id": "10472218263818",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Mått, 45 g, batteritid, syntetiskt (elastiskt), överarmen stämmer; batteritiden en gång som enligt tillverkaren. Synlighet, olyckor, starka lampor och väderpåståenden borta. Anmärkning: '2 x CR2032, utbytbara' kommer ur den delvis trasiga raden (33,5 kg); den delen är entydig och godtas, men utkastarens notering att raden är 'utelämnad' stämmer bara delvis."
+ },
+ {
+  "nr": 10554,
+  "id": "10472218984714",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Bluetooth och ANT+, över- eller underarm, nylon med dragsko, LED som visar pulszon med färg, kadenssensor, de fem apparna och vattentätheten (en gång som enligt tillverkaren) står i live. Rätt intensitet, ventilerande, bekväm och 'alla träningsenheter' borta. Produkttypen Crosstrainers är fel men ska inte röras i textutrullningen; flaggas till David."
+ },
+ {
+  "nr": 10561,
+  "id": "10462778392842",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Kroppsanalysvåg: mäter fettprocent, muskelmassa, visceralt fett, kroppsålder, BMR m.m. Profilens utanfor_tills_vidare innehåller 'kroppsanalysvågar (hälsoparametrar)' → avvisas tills David beslutat (R6). Samma bedömning som 10545 i avvisningarna."
+ }
+]

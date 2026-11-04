@@ -3,7 +3,7 @@
 Genereras av `shopify-sync/scripts/status_uppdatera.py` (2026-11-04). Redigera inte för hand; öppna frågor ligger i `oppna_fragor.json`.
 Regler: `shopify-sync/regler/regler-v1.md`. Beslut: `shopify-sync/docs/BESLUTSLOGG.md`. Profil: `shopify-sync/config/butiksprofil-bestofsports.json`.
 
-**Fitnessgruppen:** 412 produkter skrivna och verifierade i batcherna nedan (utöver tidigare vågor). Avvisade i batcherna: 51.
+**Fitnessgruppen:** 435 produkter skrivna och verifierade i batcherna nedan (utöver tidigare vågor). Avvisade i batcherna: 51.
 
 | Batch | Inventerade | Utkast | Avvisade | Dom (godk/rättas/underk) | Skrivfil | Steg |
 |---|---|---|---|---|---|---|
@@ -25,11 +25,11 @@ Regler: `shopify-sync/regler/regler-v1.md`. Beslut: `shopify-sync/docs/BESLUTSLO
 | f_x1 | 7 | 7 | 0 | 4/3/0 | 7 | skriven |
 | g_1 | 25 | 23 | 2 | 15/7/1 | 22 | skriven |
 | g_2 | 25 | 22 | 3 | 11/11/3 | 22 | skrivfil |
-| g_3 | 25 | 11 | 14 |  |  | utkast |
+| g_3 | 25 | 11 | 14 | 4/2/5 |  | granskad |
 | g_4 | 12 |  | 0 |  |  | in |
 | h_1 | 25 | 25 | 0 | 20/5/0 | 25 | skriven |
 | h_2 | 25 | 25 | 0 | 16/9/0 | 25 | skriven |
-| h_3 | 25 | 24 | 1 | 11/12/1 | 23 | skrivfil |
+| h_3 | 25 | 24 | 1 | 11/12/1 | 23 | skriven |
 | h_4 | 25 |  | 0 |  |  | in |
 | h_5 | 25 |  | 0 |  |  | in |
 | h_6 | 25 |  | 0 |  |  | in |
