@@ -1,0 +1,22 @@
+[
+ {
+  "id": "10588451602698",
+  "nr": 10541,
+  "skäl": "R3: titeln anger 6 kg men produkten har tre varianter (369, 319 och 319 kr; SKU 25TUPLA096/25TUPLA097, varianterna heter bara SKU) och källan anger ingen vikt, bara diameter 28 cm och PVC. Titel och spec kan inte låsas. Kräver beslut om varianterna."
+ },
+ {
+  "id": "10472287371530",
+  "nr": 10570,
+  "skäl": "R3: titeln anger 2 x 0,5 kg men produkten har två varianter med olika pris (AHF-071 99 kr och AHF-072 139 kr) som källan inte skiljer åt. Titel och spec kan inte låsas. Kräver beslut om varianterna."
+ },
+ {
+  "id": "10470968918282",
+  "nr": 10571,
+  "skäl": "R3: titeln anger 2 x 2,0 kg men produkten har två varianter med olika pris (AHF-094 229 kr och AHF-093 289 kr) som källan inte skiljer åt. Titel och spec kan inte låsas. Kräver beslut om varianterna."
+ },
+ {
+  "id": "10472308834570",
+  "nr": 10578,
+  "skäl": "R3/R2: källan säger 'Setet innehåller 5 gymnastikbollar med styrkan Strong' medan titeln säger Fabric Bands (band). Källan motsäger titeln och produkttypen går inte att fastställa säkert; antalet 5 och måttet 7,5 x 75 cm kan inte användas. Titeln saknar dessutom svenskt typord. Kräver svenska tillverkardata."
+ }
+]
