@@ -1,0 +1,206 @@
+[
+ {
+  "nr": 10326,
+  "id": "10472327905546",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stål, 20 kg (titel, SKU AKCA-20, en variant) och hemmabruk/sportklubbar ('enligt tillverkaren') ur källan; kvalitets-, grepp- och livslängdspåståenden borta."
+ },
+ {
+  "nr": 10327,
+  "id": "10472328790282",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Lila och 20 kg ur titeln, SKU KCAE-20 stöder vikten (handle -22 följs inte, samma mönster som 10332). Gym/hemmaträning 'enligt tillverkaren'; maskinöversatt 'spännbomber', material och ergonomi utelämnade."
+ },
+ {
+  "nr": 10328,
+  "id": "10472299561226",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Toorx Vinyl är en kettlebell med vinylbelagd yta på 12 kg. Enligt tillverkaren finns kettlebellsen i flera vikter. Finns hos BEST OF SPORTS.",
+    "efter": "Toorx Vinyl är en kettlebell på 12 kg med vinylbelagd yta. Enligt tillverkaren finns kettlebellsen i flera vikter. Finns hos BEST OF SPORTS."
+   }
+  },
+  "skal": "Data rätt (12 kg, vinylbelagd yta). Rättning: meta-ordföljden 'yta på 12 kg' blir som i inledningen."
+ },
+ {
+  "nr": 10329,
+  "id": "10472300052746",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Avvisningen bekräftas live: Titeln anger 10 kg, men produkten har tre varianter (KRV-10 till 649 kr, KRV-16 och KRV-14 till 789 kr) med oförklarade namn. Titeln stämmer inte med produkten och vikten går inte att låsa. Kan skrivas när varianterna är uppdelade."
+ },
+ {
+  "nr": 10330,
+  "id": "10472329380106",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Toorx Vinyl är en kettlebell med vinylbelagd yta på 20 kg. Enligt tillverkaren finns kettlebellsen i flera vikter. Finns hos BEST OF SPORTS.",
+    "efter": "Toorx Vinyl är en kettlebell på 20 kg med vinylbelagd yta. Enligt tillverkaren finns kettlebellsen i flera vikter. Finns hos BEST OF SPORTS."
+   }
+  },
+  "skal": "Som 10328 (20 kg, SKU KRV-20). Rättning: meta-ordföljden."
+ },
+ {
+  "nr": 10331,
+  "id": "10430254809354",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Avvisningen bekräftas live: Titeln anger blå och 12 kg, men SKU är KCAE-14 medan övriga Olympic EVO har SKU som motsvarar vikten (KCAE-16 = 16 kg, KCAE-18 = 18 kg, KCAE-20 = 20 kg). Källan säger varken vikt eller färg. Motsägande uppgift om vikten; kan skrivas när leverantören bekräftat 12 eller 14 kg."
+ },
+ {
+  "nr": 10332,
+  "id": "10472328462602",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Gul, 16 kg, SKU KCAE-16. Som 10327."
+ },
+ {
+  "nr": 10333,
+  "id": "10588451635466",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Fyra varianter (25TUPLA100–103, 1599/1619 kr) med oförklarade namn, handle anger 12 kg. Texten 'Finns i flera vikter' gör att kunden tror varianterna är vikter utan att veta vilken. Live-texten är en tidigare genererad text (FAQ, 'Om märket'), inte leverantörens; 'internationell tävlingsstandard' går inte att belägga. Samma mönster som 10254/10257/10335. Skrivs när varianterna fått namn."
+ },
+ {
+  "nr": 10334,
+  "id": "10548292649226",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Gjutjärn och 4 kg (titel, SKU, en variant). Kort meta 79 tecken. 'Avancerade atleter'/tung styrketräning borta."
+ },
+ {
+  "nr": 10335,
+  "id": "10541372801290",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Avvisningen bekräftas live: Titeln anger 8 kg, men produkten har sex varianter (25TUPLA071 till 389 kr och 25TUPLA070, 072–075 till 679 kr) med oförklarade namn. Källan nämner ingen vikt. Titeln stämmer inte med produkten."
+ },
+ {
+  "nr": 10336,
+  "id": "10472315126026",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Svart (enda variant 'black'), 4 kg, gummiöverdrag, stålhandtag ordagrant. Beställningsmeningen står exakt (tagg 'På beställning'); fettförbränning, golvskydd, rostskydd borta."
+ },
+ {
+  "nr": 10337,
+  "id": "10475372642570",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "8 kg, svart, stål ordagrant; oklara rader 'Handtagets diameter: 21 cm'/'8,5 kg: 21 cm', hälso- och viktminskningstext borta."
+ },
+ {
+  "nr": 10338,
+  "id": "10548235862282",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Avvisningen bekräftas live: Titeln anger PE, men källtexten anger genomgående PVC med sandfyllning (\"PVC-kettle\"). Motsägande materialuppgift mellan titel och källa; källan innehåller dessutom garblad text. Går inte att skriva säkert utan besked om PE eller PVC."
+ },
+ {
+  "nr": 10339,
+  "id": "10548235403530",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Avvisningen bekräftas live: Titeln anger PE, men källtexten anger genomgående PVC med sandfyllning. Motsägande materialuppgift mellan titel och källa; källan innehåller dessutom en oklar rad (\"Iga\"). Går inte att skriva säkert utan besked om PE eller PVC. Samma sak som 10338."
+ },
+ {
+  "nr": 10340,
+  "id": "10462836490506",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Avvisningen bekräftas live: Vikten 3,5 kg står bara i produktnamnet; källan anger inte om den avser handtaget eller en största vikt för en justerbar kettlebell, och tillbehöret (skruv för att fästa vikter, Add-On Kit) bär last. Källan har dessutom en tom rad (\"Mått\"). Kan skrivas när vikten och kompatibiliteten bekräftats."
+ },
+ {
+  "nr": 10341,
+  "id": "10589705568522",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>BH Fitness Weight Bench är en träningsbänk (viktbänk) med justerbart ryggstöd och fotstöd. Enligt tillverkaren är maximal användarvikt 140 kg.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en träningsbänk med justerbart ryggstöd</li>\n<li>Dig som söker en träningsbänk med justerbara fotstöd</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Mått: 141 x 59 x 128 cm</li>\n<li>Produktvikt: 22 kg</li>\n<li>Maximal användarvikt: 140 kg</li>\n<li>Ryggstöd: Justerbart</li>\n<li>Fotstöd: Justerbara</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p>",
+    "efter": "<p>BH Fitness Weight Bench är en träningsbänk (viktbänk) med justerbart ryggstöd och fotstöd. Enligt tillverkaren är maximal användarvikt 140 kg.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en träningsbänk med justerbart ryggstöd</li>\n<li>Dig som söker en träningsbänk med fotstöd</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Mått: 141 x 59 x 128 cm</li>\n<li>Produktvikt: 22 kg</li>\n<li>Maximal användarvikt: 140 kg</li>\n<li>Ryggstöd: Justerbart</li>\n<li>Fotstöd: Ja</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p>"
+   }
+  },
+  "skal": "Maximal användarvikt 140 kg ordagrant svenska med enhet, en gång 'enligt tillverkaren' (+ spec, som f_9/f_10). Rättning: källan ('Det justerbara ryggstödet och fotstöden') säger inte entydigt att fotstöden är justerbara; punkten och specen görs neutrala."
+ },
+ {
+  "nr": 10342,
+  "id": "10472323711242",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Ingen maxvikt i källan och ingen återges. 'Säkerhetsrem' står ordagrant ('Inkluderar säkerhetsrem och armstöd') och återges bara som det som ingår, inget löfte. 'Sträcka ryggraden' borta. 92 grader, mått, vikt ordagrant. Handle -2 men ingen annan Zero i butiken."
+ },
+ {
+  "nr": 10343,
+  "id": "10472323514634",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Maximal användarvikt 100 kg ordagrant svenska. Justerbart ryggstöd, sits med lutning, mått, vikt ordagrant. 'Treeningpink' → Träningsbänk (taggen träningsbänk)."
+ },
+ {
+  "nr": 10344,
+  "id": "10565602410762",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Maximal användarvikt 100 kg ordagrant svenska. Stålkonstruktion, ryggstöd med flera positioner, skivförvaring, mått, 46 kg ordagrant; 'förstärkt', stabilitet, säkerhet borta. Typord från live-titeln."
+ },
+ {
+  "nr": 10345,
+  "id": "10472323481866",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>BH Fitness Weight Bench Adjustable är en träningsbänk (justerbar viktbänk) med flera ryggstöds- och sitlägen och avtagbara kuddar. Enligt tillverkaren är maximal användarvikt 140 kg.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en träningsbänk med flera ryggstödslägen</li>\n<li>Dig som söker en träningsbänk med avtagbara kuddar</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Mått: 180 x 61 x 132 cm</li>\n<li>Produktvikt: 33 kg</li>\n<li>Maximal användarvikt: 140 kg</li>\n<li>Ryggstöd: Flera lägen</li>\n<li>Sits: Flera lägen</li>\n<li>Kuddar: Avtagbara</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p>",
+    "efter": "<p>BH Fitness Weight Bench Adjustable är en träningsbänk (justerbar viktbänk) med flera ryggstöds- och sitslägen och avtagbara kuddar. Enligt tillverkaren är maximal användarvikt 140 kg.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en träningsbänk med flera ryggstödslägen</li>\n<li>Dig som söker en träningsbänk med avtagbara kuddar</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Mått: 180 x 61 x 132 cm</li>\n<li>Produktvikt: 33 kg</li>\n<li>Maximal användarvikt: 140 kg</li>\n<li>Ryggstöd: Flera lägen</li>\n<li>Sits: Flera lägen</li>\n<li>Kuddar: Avtagbara</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p>"
+   },
+   "seo_title": {
+    "fore": "Träningsbänk BH Fitness Weight Adjustable",
+    "efter": "Träningsbänk BH Fitness Adjustable"
+   }
+  },
+  "skal": "Maximal användarvikt 140 kg ordagrant svenska. Rättning: stavfel 'sitlägen' → 'sitslägen'; SEO-titeln 'Weight Adjustable' är inget modellnamn – live-titeln är 'Weight Bench BH FITNESS Adjustable', modellen är Adjustable."
+ },
+ {
+  "nr": 10346,
+  "id": "10472264597770",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn källa; inga mått/maxvikt och ingen återges. 'Designad för att ... träna mag- och ryggmuskulatur' står ordagrant och återges 'enligt tillverkaren' utan 'effektivt'; stabil/ergonomisk borta. 'Ab&Back' → 'Ab och Back' godtas (inga '&'), se fråga."
+ },
+ {
+  "nr": 10347,
+  "id": "10472264892682",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Finnlo by Hammer Tricon är en justerbar och hopfällbar träningsbänk för rygg- och magträning hemma. Enligt tillverkaren är maximal belastning 130 kg.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en hopfällbar träningsbänk</li>\n<li>Dig som söker en justerbar träningsbänk för hemmabruk</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Mått: 112 x 51 x 92 cm</li>\n<li>Mått hopfälld: 41 x 55 x 136 cm</li>\n<li>Produktvikt: 13 kg</li>\n<li>Maximal belastning: 130 kg</li>\n<li>Hopfällbar: Ja</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p>",
+    "efter": "<p>Finnlo by Hammer Tricon är en justerbar och hopfällbar träningsbänk för träning hemma. Enligt tillverkaren är maximal belastning 130 kg.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en hopfällbar träningsbänk</li>\n<li>Dig som söker en justerbar träningsbänk för hemmabruk</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Mått: 112 x 51 x 92 cm</li>\n<li>Mått hopfälld: 41 x 55 x 136 cm</li>\n<li>Produktvikt: 13 kg</li>\n<li>Maximal belastning: 130 kg</li>\n<li>Hopfällbar: Ja</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p>"
+   }
+  },
+  "skal": "Maximal belastning 130 kg ordagrant svenska med enhet, en gång 'enligt tillverkaren'. Rättning: 'för rygg- och magträning' omskriver källans effektpåstående ('för att stärka rygg- och magmusklerna') utan att vara ordagrant – stryks; 'hemma' står i källan. Tyskland borta (rätt)."
+ },
+ {
+  "nr": 10348,
+  "id": "10507302764810",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Maximal belastning 130 kg ordagrant svenska i egen källa. 'Ryggträning, hyperextensions och stretching/stretchfunktioner' ordagrant. Mått, yta, hopfälld, 17 kg ordagrant; FAQ 'medicinsk produkt' borta."
+ },
+ {
+  "nr": 10349,
+  "id": "10472298840330",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Max. belastningskapacitet: 250 kg' står ordagrant på svenska med enhet i egen källa och godtas en gång 'enligt tillverkaren' (alt A). 7-/3-stegs justering, avsmalnande sittdyna, extra negativ position, mått med tankstreck, 24 kg ordagrant."
+ },
+ {
+  "nr": 10350,
+  "id": "10507303354634",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Maximal belastning 200 kg ordagrant svenska. 40 mm stoppning, två hjul och handtag, mått, 15,5 kg ordagrant; 'studiokvalitet', 'små lägenheter' borta."
+ }
+]
