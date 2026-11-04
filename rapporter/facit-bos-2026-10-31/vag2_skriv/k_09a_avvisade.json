@@ -1,0 +1,37 @@
+[
+ {
+  "id": "10656691192074",
+  "nr": 9601,
+  "skäl": "Dubblett av redan skriven nr 10164 (Crosstrainer BH Fitness Movemia EC1000, id 10656691159306, aktiv, texter-klara, k_skriv_rens2): samma modell Movemia EC1000, samma data (19-tums pekskärm, 25 motståndsnivåer, steglängd 52 cm, 155 kg). Butiken har ytterligare en oskriven kopia (10656691224842) med samma titel (R12a)."
+ },
+ {
+  "id": "10656691323146",
+  "nr": 9602,
+  "skäl": "Titeln \"Elliptisk träningsmaskin\" stämmer inte med källan: texten beskriver en roddmaskin (Movemia ER1000R: \"är en roddmaskin\", svänghjul baktill, roddrörelse, mått 225 x 62 x 161 cm) och spec anger steglängd 46 cm, vilket motsäger varandra (R3/R2). Butiken har tre ER1000R-produkter (10656691257610 Crosstrainer, 10656691290378 och denna Elliptisk) utan skriven text; vilken som är den riktiga produkten och dess typ ska avgöras av David, och typordet får inte bytas av utkastaren."
+ },
+ {
+  "id": "10656690962698",
+  "nr": 9603,
+  "skäl": "Dubblett av redan skriven nr 10166 (Crosstrainer BH Fitness Movemia ERV1000 LED, id 10656690864394, aktiv, texter-klara, k_skriv_rens2): samma modell och samma data (LED, 25 motståndsnivåer, 16 elektroniskt justerbara lutningar, 125 kg) (R12a)."
+ },
+ {
+  "id": "10656691421450",
+  "nr": 9604,
+  "skäl": "Dubblett av redan skriven nr 10009 (Löpband BH Fitness Movemia TR800 LED, id 10656691355914, aktiv, texter-klara, k_skriv_rens2): samma modell och samma data (5,0 hk, 0,8–22 km/h, löpyta 160 x 58 cm, 233 kg) (R12a)."
+ },
+ {
+  "id": "10656691061002",
+  "nr": 9605,
+  "skäl": "Dubblett av redan skriven nr 10010 (Löpband BH Fitness RCM Pro, LED-display, id 10656690897162, aktiv, texter-klara, k_skriv_rens2): samma modell och samma data (3,5 AC-motor, 36 program, 0,8–22 km/h) (R12a)."
+ },
+ {
+  "id": "10656691093770",
+  "nr": 9606,
+  "skäl": "Dubblett av redan skriven nr 10011 (Löpband BH Fitness RCM Pro TFT, 16-tums Pekskärm, id 10656690929930, aktiv, texter-klara, k_skriv_rens2): samma modell och samma data (16-tums pekskärm, 25 program, 0,8–22 km/h) (R12a)."
+ },
+ {
+  "id": "10656691781898",
+  "nr": 9607,
+  "skäl": "Dubblett av redan skriven nr 10381 (Träningsmaskin BH Fitness Power Tower, id 10656691749130, aktiv, texter-klara, g_skriv_1): samma modell och samma data (105 x 96 x 212 cm, 40 kg) (R12a)."
+ }
+]
