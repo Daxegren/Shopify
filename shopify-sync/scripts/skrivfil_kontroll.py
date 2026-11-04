@@ -90,6 +90,10 @@ def kontrollera(fil, sparr, tillat_kanda):
                 f(f'dubblett av {k} inom filen')
         if '  ' in text.replace('\n', ' ').replace('> <', '><'):
             v('dubbla mellanslag')
+        if len(re.findall(r'enligt tillverkaren', x.get('html') or '', re.I)) > 2:
+            f('"enligt tillverkaren" fler än 2 gånger i texten (R5)')
+        if re.search(r'-Lastcykel|-Cykel\b', ' '.join(str(x.get(k) or '') for k in ('titel', 'seo_title'))):
+            f('stor bokstav efter bindestreck i typordet ("El-lastcykel", inte "El-Lastcykel")')
         if re.search(r'[­​ ﻿]', text):
             f('osynligt tecken (mjukt bindestreck, nollbredd, hårt mellanslag eller BOM)')
     return len(d), fel, varn

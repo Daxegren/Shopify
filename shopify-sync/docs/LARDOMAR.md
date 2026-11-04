@@ -5,6 +5,11 @@ Syftet är att samma fel inte upprepas i nya arbetspass. Filen fylls bara på: n
 ## Hur en post skrivs
 Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 
+
+### 2026-11-04: Formatskriptet gav "El-Lastcykel", och granskaren fångade det bara i en av tre batcher
+- **Vad hände:** `format_regler.py` skriver stor bokstav efter bindestreck i typordet ("El-Lastcykel"). Granskaren av k_01a rättade det, men det gick igenom i k_01c (9055 och 9060) och skrevs i butiken. Upptäcktes när jag gjorde granskarens fynd till test; rättades samma dag (skrivet och återläst). Granskaren av k_01c fann dessutom 3 gånger "enligt tillverkaren" i en text (R5, högst 2), som skriptet inte räknade.
+- **Regel:** testerna "stor bokstav efter bindestreck i typordet" och "enligt tillverkaren högst 2 per text" finns nu i `skrivfil_kontroll.py`. Kör kontrollen om på skrivfilerna efter att ett nytt test lagts till, även på batcher som redan granskats.
+
 ---
 
 ### 2026-11-03: Samma fel i skrivfil 20: lika titel betyder inte skriven (våg 2b, produkt 10589704749322)

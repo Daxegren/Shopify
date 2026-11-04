@@ -30,3 +30,11 @@ Version 1.4, 2026-11-04 (v1.1–v1.4 efter återkoppling från utkastare och gra
 
 ## Att automatisera härnäst (de vanligaste fynden som ännu är G)
 Cirkulära inledningar (R11), meta utan verb, typord som byts utan stöd i källan (R7), "enligt tillverkaren" på alla lastgränser (R4).
+
+## v1.5 (2026-11-04, efter grupp 01 elcyklar)
+- R5 (T) "enligt tillverkaren" högst två per text kontrolleras nu av skriptet.
+- R7 (T) Typord med bindestreck skrivs med liten bokstav efter bindestrecket ("El-lastcykel"); kontrolleras av skriptet.
+- R3 (G) Storleksuppgifter (ramstorlek, däckstorlek) får bara nämna storlekar som säljs som variant.
+- R4 (G) Olika lastvärden i löptext och tabell: utelämna lastgränsen.
+- R13 (G) Leveranstidsmeningen bara på produkter med taggen "På beställning" (kontrolleras av granskaren; skriptet ser inte taggen).
+- Dubblett (R12a): är den redan skrivna produkten arkiverad räknas den inte som dubblett; den aktiva produkten skrivs.
