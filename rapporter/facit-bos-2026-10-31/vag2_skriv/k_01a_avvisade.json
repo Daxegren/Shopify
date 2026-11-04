@@ -1,0 +1,22 @@
+[
+ {
+  "id": "10472250343690",
+  "nr": 9006,
+  "skäl": "Källan (Basil Mid Engine Cover) beskriver ett skydd för elcykelns mittmotor (\"Skydda din elcykels mittmotor\"), medan live-titeln säger skydd för \"centrumbatteri\"; titel och källa stämmer inte (R3). Dessutom tunn källa (mått 8 x 12 x 9 cm, material 4,5 mm neopren) och skyddsord (\"skyddar\") som kräver \"enligt tillverkaren\". Koordinatorn avgör om titeln ska rättas före text skrivs."
+ },
+ {
+  "id": "10541368377610",
+  "nr": 9009,
+  "skäl": "R3: titeln anger en variant (C48 Grigio Opaco, GRX610 12s) men produkten har två varianter med olika pris (M / green 28 919 kr, L / green 25 149 kr) och variantfärgen är \"green\" medan titeln säger Grigio Opaco. Dessutom växelgrupp GRX610 som kan vara mekanisk eller elektronisk utan entydig uppgift."
+ },
+ {
+  "id": "10462150525194",
+  "nr": 9013,
+  "skäl": "Säkerhetskritisk utanför faktatextläget och trasig källa: lastcykel för barntransport (2 säten med trepunkts säkerhetsbälten, regnskydd) och en maskinöversatt/trasig källtext (\"Shimano 4x4\", \"Shiflex fram- och bakljus\", \"Lastcykeln nu äntligen i Estland\", dubblerade batteriuppgifter 12,5A/12,5Wh). Engelsk live-titel (\"Electric bike\"). Koordinatorn avgör, kräver Davids beslut om barnrelaterade lastcyklar."
+ },
+ {
+  "id": "10502527877386",
+  "nr": 9016,
+  "skäl": "R3: källan beskriver \"ENGWE E26\" och nämner aldrig modellen E26 ST; det går inte att belägga att E26 ST har samma specifikationer (batteri, vikt, ram, mått). Texten är i övrigt identisk med E26 (9017/9018). Skrivs först om leverantörens källa bekräftar ST-specifikationerna."
+ }
+]

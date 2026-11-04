@@ -1,0 +1,68 @@
+[
+ {
+  "nr": 9051,
+  "id": "10676717453578",
+  "fil": "k_01c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live-källan (Bafang 250 W/45 Nm, 540 Wh, aluminium, låg ram ur löptexten, Zoom 187D 60 mm, Shimano Tourney 7, Zoom HB-875 hydrauliska, CST 26 x 1.95, 27 kg, Ingår-raden). Färgen Svart stöds av alla tre varianter (XS/M/L / black, samma pris 26 209 kr), inte bara av titeln. Räckvidd återges ordagrant från raden 'Räckvidd: upp till 100 km' med 'enligt tillverkaren' en gång; 'under gynnsamma förhållanden' står bara i löptexten och behövs inte. Ramstorlekarna motsvarar varianterna."
+ },
+ {
+  "nr": 9053,
+  "id": "10503245529354",
+  "fil": "k_01c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Alla specifikationsrader spårbara (SyncDrive Pro 2 250 W/85 Nm, EnergyPak 400 Wh, räckvidd 130 km ordagrant, kolfiberram av Advanced-klass med Aluxx SL bakre triangel, Bomber Z2 150 mm, Float Performance 185x52,5, Deore 12, BR-MT420, AM30, DHF 29x2,50 / Dissector 27,5x2,4, fästpunkter). Shoreline finns bara i titeln, men produkten har en enda variant (Default Title) och källan säger inte emot; samma praxis som k_16 (originalfärgnamn behålls). Ramstorlekar rätt utelämnade (ingen storleksvariant). Kvalitetsorden i källan (utmärkt styvhet, kontrollerad färd) är rätt utelämnade."
+ },
+ {
+  "nr": 9054,
+  "id": "10682105430282",
+  "fil": "k_01c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Däck: Maxxis Rekon Tanwall 2,4 tum, 27,5 tum på storlek XS och S, 29 tum på storlek M och L</li>",
+    "efter": "<li>Däck: Maxxis Rekon Tanwall 2,4 tum, 27,5 tum på storlek XS och S, 29 tum på storlek L</li>"
+   }
+  },
+  "skal": "Engelsk källa korrekt översatt; inga maskinöversättningsfel. Typordet Elcykel är butikens live-ord (9051, 9053, taggen Elcykel), tillåtet enligt R7. Abyss Black stöds av varianterna (black). E-Lock och Apple Find My rätt utelämnade (stöldskydd). Räckvidden 'Range: up to 115 km' är en etiketterad rad och översättningen är entydig; Alt A gäller bara lastgränser, så raden får stå (se fråga till David). Rättning: produkten säljs bara i XS, S och L (samma pris 44 759 kr); storlek M finns inte som variant och ska inte nämnas i däckraden."
+ },
+ {
+  "nr": 9055,
+  "id": "10471119159562",
+  "fil": "k_01c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Lastgränsen är rätt utelämnad: löptexten säger 'bära upp till 164 kg på cykeln' och tabellen 'Lastkapacitet: 200 kg'. Det är en motsägelse (R2), och 200 kg skulle kunna antyda mer än 164 kg (§16.3). Rammaterialet är också rätt utelämnat: 'ALUXX Aluminium, Mid Step' står under den felaktiga etiketten '1,5-tums LCD-skärm:'. Att det gäller ramen är en tolkning från kunskap utanför källan (R1). Övrigt spårbart (SyncDrive Pro 250 W/80 Nm, EnergyPak 500 Wh + extra batteri, räckvidd 150/194 km ordagrant, RideControl Dash, 42 cm, Acera 9, Tektro HD-E737, Maxxis 24x2,5/24x2,2, Ingår-raden). Svart finns bara i titeln men det finns en enda variant. Ingen tagg 'På beställning', så leveranstidsmeningen saknas med rätta. 'Lämna barnen på skolan' är rätt utelämnat."
+ },
+ {
+  "nr": 9056,
+  "id": "10471065026826",
+  "fil": "k_01c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (Ananda M131SD 250 W/40 Nm baknav, 504 Wh, räckvidd 80 km ordagrant, aluminium, Shimano Tourney 7, hydraulisk skivbroms, Wanda W3109 28 x 1.75, Ingår-raden). Ramstorleken M (17 tum, 158–170 cm) är den entydiga delen av den trasiga raden 'Tillverkare: Romet, Ltd: M (17\")…' (tillåtet enligt R2). Raden 'Växellåda' återges som Växelsystem; Tourney är en kedjeväxel, så det är rätt att inte skriva växellåda. Grafit finns bara i titeln, men det finns en enda variant. Ingen tagg 'På beställning', så meningen saknas med rätta."
+ },
+ {
+  "nr": 9060,
+  "id": "10488308203786",
+  "fil": "k_01c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Lastkapaciteten 'upp till 100 kg' och 'tre till fyra barn' står i löptext utan etikett och är rätt utelämnade (R4, §16.3). 'Säkerhetsbelysning garanterar en säker … resa' är rätt utelämnat (R5). 'Steglöst' kommer ur löptexten ('det steglösa Enviolo-växelsystemet'). Övriga rader stämmer ordagrant (Bosch 250 W/85 Nm, 400 Wh, räckvidd 45 km, aluminium, 52 cm, Enviolo Heavy Duty, Zoom hydrauliska, Schwalbe Pick-up 55-406/55-559). Ingen färg i källa eller titel, en variant. Taggen 'Cargo bike', ingen 'På beställning', så meningen saknas med rätta."
+ },
+ {
+  "nr": 9061,
+  "id": "10472239137034",
+  "fil": "k_01c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "en stor vattentät ficka enligt tillverkaren och snabbfäste",
+    "efter": "en stor ficka och snabbfäste"
+   }
+  },
+  "skal": "R5: 'enligt tillverkaren' stod tre gånger, varav två för samma påstående (vattentät i inledningen och i Ficka-raden). Efter rättningen står det två gånger: Ficka-raden (vattentät) och Fäste-raden (passar alla styren). Typordsbytet Styckväska → Styrväska godtas enligt R7: 'Handlebar Bag' i titeln har en entydig översättning, och Styrväska är butikens live-ord för styrväskor (Basil Mali, Giant Scout Burrito Bar Bag). 'Bredd: 275–640 mm' återges ordagrant och är ingen säkerhetsuppgift, så den får stå trots att det är oklart vad bredden avser. '5000 mm vattenslang' och 'ökad synlighet' är rätt utelämnade. Märket skrivs PRO med versaler, samma som i redan skriven Handpump PRO Minipump (se mönster)."
+ }
+]
