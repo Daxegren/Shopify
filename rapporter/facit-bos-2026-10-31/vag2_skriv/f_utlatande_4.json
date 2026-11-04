@@ -1,0 +1,204 @@
+[
+ {
+  "nr": 10076,
+  "id": "10612581990666",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Motionscykel BH Fitness Carbon Bike RS med 10-tums Pekskärm",
+    "efter": "Motionscykel BH Fitness Carbon Bike RS Multimedia med 10-tums Pekskärm"
+   }
+  },
+  "skal": "Modellnamnet Multimedia (live-titel, handle, SKU H8705BTFT) får inte strykas ur titeln (70 tecken, inom gränsen). Belastning 14 kg korrekt borta."
+ },
+ {
+  "nr": 10077,
+  "id": "10472262041866",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10078,
+  "id": "10650208370954",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10079,
+  "id": "10656691650826",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10080,
+  "id": "10656691552522",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Motionscykel BH Fitness Lyon Climber MM",
+    "efter": "BH Fitness Lyon Climber Multimedia"
+   }
+  },
+  "skal": "Förkortningen MM finns inte i källan. Not: källans brödtext kallar den spinningcykel, titeln Motionscykel; titelns typ behålls."
+ },
+ {
+  "nr": 10081,
+  "id": "10635764138250",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Bromssystem: magnetiskt</li>",
+    "efter": "<li>Bromssystem: Magnetiskt</li>"
+   }
+  },
+  "skal": "Stor bokstav efter kolon."
+ },
+ {
+  "nr": 10082,
+  "id": "10589715104010",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10083,
+  "id": "10605381550346",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10084,
+  "id": "10612594344202",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10085,
+  "id": "10468768284938",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Engelsk källa. 'Maximal driftsvikt 115 kg' är en egen översättning av 'Maximum operating weight' (inte ordagrant, och driftsvikt betyder på svenska maskinens egen vikt i drift, inte användarvikt). Bromssystemet motsägelsefullt (friction brake/hydraulic brake). Utan maxvikt återstår bara mått och vikt."
+ },
+ {
+  "nr": 10086,
+  "id": "10472305164554",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10087,
+  "id": "10472323383562",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Engelsk källa. 'Maximal driftsvikt 150 kg' är översättning av 'Maximum operating weight' (inte ordagrant, tvetydig). 'Load capacity 20 kg' oförklarad (korrekt borta). Brödtexten är Duke-modellens, inte Magnetic."
+ },
+ {
+  "nr": 10088,
+  "id": "10656691454218",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Bromssystem: friktionsbroms</li>",
+    "efter": "<li>Bromssystem: Friktionsbroms</li>"
+   }
+  },
+  "skal": "Stor bokstav efter kolon."
+ },
+ {
+  "nr": 10089,
+  "id": "10472305099018",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "svänghjul på 20 kg och bromssystemet PMS, manuell.",
+    "efter": "svänghjul på 20 kg och bromssystem av typen PMS, manuell."
+   }
+  },
+  "skal": "Grammatik i inledningen."
+ },
+ {
+  "nr": 10090,
+  "id": "10472308113674",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Spinningcykel BH Fitness Xcalibur MM",
+    "efter": "BH Fitness Xcalibur Multimedia"
+   },
+   "html": {
+    "fore": "<li>Skärm: 16-tums, pekkänslig</li>",
+    "efter": "<li>Skärm: 16 tum, pekkänslig</li>"
+   }
+  },
+  "skal": "MM är påhittad förkortning; 16-tums följt av kommatecken är ogrammatiskt (källan: 16-tum, pekkänslig). Q-faktor 190 korrekt borta. Maximal driftsvikt 130 kg står ordagrant på svenska i live-källan och får stå. Källan kallar modellen XCalibur Magnetic i brödtexten; titel och SKU H9340TFT stödjer Multimedia."
+ },
+ {
+  "nr": 10092,
+  "id": "10471040188682",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10093,
+  "id": "10472325513482",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Engelsk källa. 'Maximal driftsvikt 180 kg' (översättning av 'Maximum operating weight') och '40 nivåer' (av 'Load range: 40') är tolkningar. Svänghjulet 10 kg står entydigt i brödtexten ('10 kg flywheel') och stämmer med 'Load capacity: 10 kg', så den uppgiften i sig håller. Källan kallar modellen Sphere 4.0; handle slutar 10015 men SKU är 10014."
+ },
+ {
+  "nr": 10094,
+  "id": "10471334084874",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Engelsk källa. 'Maximal driftsvikt 180 kg' är översättning av 'Maximum operating weight'. Källan har dubbla skärmrader och oförklarad 'Load capacity 10 kg' (korrekt borta)."
+ },
+ {
+  "nr": 10095,
+  "id": "10650166690058",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10096,
+  "id": "10656692011274",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10097,
+  "id": "10472268267786",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10098,
+  "id": "10656691978506",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10099,
+  "id": "10624086507786",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10100,
+  "id": "10472324595978",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Engelsk och maskinöversatt källa ('backpack pedal trance'), '10 workout levels' motsäger, 'Load capacity 14 kg' oförklarad (korrekt borta). 'Maximal driftsvikt 150 kg' är översättning av 'Maximum operating weight'. §16.6. Typen 'Liggande Motionscykel' (Recumbent bike) är i sig rimlig."
+ }
+]
