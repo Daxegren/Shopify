@@ -1,0 +1,240 @@
+[
+ {
+  "nr": 9477,
+  "id": "10472252866826",
+  "fil": "k_07d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": " De väger 27,6 g och har en svart färg.",
+    "efter": " De väger 27,6 g."
+   }
+  },
+  "skal": "Allt spårbart (högkontrastlinser, 27,6 g, svart ur titeln). Inga skydds-, UV- eller synlighetspåståenden; solglasögon/glasögon är frisläppta i faktatextläge (standard §16, 2026-11-03), så underkännandet av 8031 i b_21 (ögonskyddslöften) gäller inte längre när löftena är strukna – samma linje som Limar 8626/8630. UV400 från återförsäljare rätt utelämnat. Meta: 'och har en svart färg' upprepar 'svarta' (utfyllnad), stryks."
+ },
+ {
+  "nr": 9478,
+  "id": "10472251064586",
+  "fil": "k_07d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Nylon/mesh, sandfyllning, 2 kg, handtag ordagrant; träningseffekter rätt strukna; 2 kg är produktvikt, inte lastgräns (R4). Live-pris 9 kr (SKU 929861) är troligen prisfel – påverkar inte texten men bör tas upp med David."
+ },
+ {
+  "nr": 9481,
+  "id": "10468714021130",
+  "fil": "k_07d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": " Enligt tillverkaren ger hållaren en låg tyngdpunkt.",
+    "efter": ""
+   }
+  },
+  "skal": "Aluminium, 1,35 kg och 'speciellt tillverkad för CGO800S-modellen' stämmer; 'På beställning' finns, så leveranstidsmeningen är rätt. 'Låg tyngdpunkt' är ett stabilitetspåstående ur en maskinöversatt mening ('främre stötfångarram ... säkerställer') och dessutom omformulerat, inte ordagrant: stryks (R2, R5). Ingen lastgräns i egen källa; webbträffen lästes inte, rätt utelämnad (§16.3)."
+ },
+ {
+  "nr": 9483,
+  "id": "10605381583114",
+  "fil": "k_07d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Alla specifikationsrader ordagranna. Användarvikt 180 kg står lika i löptext och som svensk etiketterad rad: en gång 'enligt tillverkaren' (R4). Rehabilitering rätt utelämnad (hälsoord, R5) – utelämnande är tillåtet. Inte dubblett av XTB MED (annan SKU H655H, andra mått)."
+ },
+ {
+  "nr": 9484,
+  "id": "10605381615882",
+  "fil": "k_07d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Ordagrant: 16-tums pekskärm, 16 program, 24 nivåer, PMS servomotor, 14 kg, 170 x 61,6 x 130 cm, 68,6 kg; 130 kg som svensk etiketterad rad. Två 'enligt tillverkaren' (max). Zwift/Kinomap ordagrant ur källan. Rehab och komfortord rätt strukna. SKU H655TFT16, egen produkt."
+ },
+ {
+  "nr": 9485,
+  "id": "10612594311434",
+  "fil": "k_07d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Ordagrant (höjd 128 cm här, rätt). 130 kg svensk etiketterad rad, en gång. Säkerhets- och åldersord ('säker', 'alla åldrar', 'ergonomisk') rätt strukna."
+ },
+ {
+  "nr": 9486,
+  "id": "10589704618250",
+  "fil": "k_07d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Dig som vill hänga upp en cykel med däck upp till 3,5 tum",
+    "efter": "Dig som har en cykel med däck upp till 3,5 tum"
+   }
+  },
+  "skal": "Tunn källa (däck upp till 3,5 tum, PRO, väggmonterat i titeln) – kort meta godtas (R3/§14). Ingen bärförmåga skrivs, rätt. 'Hänga upp' är en tolkning av hur stället används (källan säger bara väggmonterat): rättas."
+ },
+ {
+  "nr": 9488,
+  "id": "10472278327562",
+  "fil": "k_07d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "115 mm ur live-titeln, svart, Ethic, 'Pris per: 1 hjul' och 'Vikt (g): 240' ur egen källa. Webbens 260–289 g gäller standardversionen Incube V2 115 12STD hos återförsäljare, inte entydigt Pro-modellen och inte tillverkaren; v1.6 tillåter webben bara när uppgift saknas, så egen källa gäller (R1). '12 STD' rätt utelämnat."
+ },
+ {
+  "nr": 9489,
+  "id": "10475980947722",
+  "fil": "k_07d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Längdskidbindning (NIS, skate) utan utlösningsfunktion; kategorin står inte under utanfor_tills_vidare i profilen, så R6 träffar inte, och texten har inga säkerhetsord ('säker och bekväm', 'användarvänlig' strukna). Två entydiga fakta (träning och tävling, manuell stängning) räcker för R3. 'Skridskobindning' rätt inte översatt. Ingen kompatibilitet utlovas."
+ },
+ {
+  "nr": 9501,
+  "id": "10480054501642",
+  "fil": "k_08a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Delarna ordagranna. 20 kg står i både titel och löptext ('Detta 20 kg hantelset'); skivorna summerar 19 kg och handtag/stång saknar vikt, så 20 kg motsägs inte (inte R2) – får stå. Säkerhets-, halk- och slitageord rätt strukna. Taggen 30 mm rätt inte använd."
+ },
+ {
+  "nr": 9507,
+  "id": "10472296546570",
+  "fil": "k_08a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Två viktskivor på cirka 5,6 kg vardera, avsedda",
+    "efter": "Det här är två viktskivor på cirka 5,6 kg vardera, avsedda"
+   }
+  },
+  "skal": "Ordagrant (2 skivor, ca 5,6 kg, SP 2000 och SP 20 XL); '10 ytterligare vikter' rätt utelämnat (R2). Inte i handhavd_ids (det är SP 5000, 9506). Meta saknar verb: rättas."
+ },
+ {
+  "nr": 9509,
+  "id": "10636691013898",
+  "fil": "k_08a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Material, fem hål, 34 x 10 cm, svart/vit, par och 'Maximal belastning: 120kg' (svensk etiketterad rad, en gång, R4) stämmer. Rehab och 'passar perfekt' rätt strukna. '2x34cm' rätt inte tolkat."
+ },
+ {
+  "nr": 9510,
+  "id": "10636740231434",
+  "fil": "k_08a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "har sits och armkudde med fem höjdinställningar",
+    "efter": "har sits, armkudde och fem höjdinställningar"
+   },
+   "meta": {
+    "fore": "Bicepscurlbänk med fem höjdinställningar,",
+    "efter": "Bicepscurlbänken har fem höjdinställningar,"
+   }
+  },
+  "skal": "Paketinnehåll, mått, 25 kg, SZ-stång 120/80 cm och 200 kg (etiketterad rad under bänkens övriga information) stämmer. 'Totalt 40kg' utelämnat: motsägs inte (stångens vikt saknas) men utelämnande är säkert; kan tas upp som fråga. Källan säger inte att höjdinställningen gäller sits och armkudde: rättas. Meta saknar verb: rättas. SZ/Z: källtexten säger SZ-stång, godtas."
+ },
+ {
+  "nr": 9511,
+  "id": "10636706545930",
+  "fil": "k_08a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Alla stång- och skivdata ordagranna; 60 kg som etiketterad rad under Stång (R4). Totalt 20 kg mot 19,5 kg summa rätt utelämnat (R2). Gummibeläggning återgiven utan golvskyddslöfte."
+ },
+ {
+  "nr": 9516,
+  "id": "10636721717514",
+  "fil": "k_08a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Ordagrant (nylon/neopren/plast, D-formad stålring, 40 cm, 14 cm, one size, 200 g, 200 kg en gång). 'Halkfri', 'bekväm' och träningspåståenden rätt strukna. Leverantörsmärket i logotypen rätt inte nämnt."
+ },
+ {
+  "nr": 9517,
+  "id": "10636750487818",
+  "fil": "k_08a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "75 cm, ca 3,5 kg, 2,5 cm, gummikulor, roterande ögla och 200 kg (etiketterad rad) stämmer. Maskinöversatta ord ('väckade', 'öggla') inte använda."
+ },
+ {
+  "nr": 9518,
+  "id": "10636756320522",
+  "fil": "k_08a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Skivstångspaket med curlstång på 120 cm,",
+    "efter": "Skivstångspaket BASIC har en curlstång på 120 cm,"
+   }
+  },
+  "skal": "Skivdata, stänger, stjärnlås, 180/100 kg (etiketterade rader per stång) stämmer. 70 kg rätt utelämnat: källan säger uttryckligen att stängerna ingår i 70 kg men delarna blir 68 kg (R2). Meta saknar verb: rättas."
+ },
+ {
+  "nr": 9519,
+  "id": "10636757238026",
+  "fil": "k_08a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Skivstångspaket med curlstång på 120 cm och två",
+    "efter": "Skivstångspaket IRON har en curlstång på 120 cm och två"
+   }
+  },
+  "skal": "Ordagrant inklusive 30/31 mm och 'viktlås'. 70 kg mot 68 kg rätt utelämnat (R2). Meta saknar verb: rättas."
+ },
+ {
+  "nr": 9520,
+  "id": "10636757369098",
+  "fil": "k_08a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Curlstång IRON på 120 cm med",
+    "efter": "Curlstång IRON har en stång på 120 cm med"
+   }
+  },
+  "skal": "Ordagrant (120 cm, 30 mm, 8 kg, 180 kg, skivor, 31 mm, stjärnlås). 35 kg mot 35,5 kg rätt utelämnat (R2; strikt men säkert). Meta saknar verb: rättas."
+ },
+ {
+  "nr": 9521,
+  "id": "10636755796234",
+  "fil": "k_08a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Ordagrant; gjutjärn ur live-titeln (egen källa). 35 kg mot 35,5 kg rätt utelämnat. 'Smidiga bärhandtag' och övningsråd strukna; 'kan användas utan stång' är ordagrant."
+ },
+ {
+  "nr": 9522,
+  "id": "10636728467722",
+  "fil": "k_08a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Ordagrant (fjäderlås, 30 mm, gummivikter, skivdata, 180 kg). 'Snygga och robusta' strukna. 35 kg rätt utelämnat."
+ },
+ {
+  "nr": 9523,
+  "id": "10636728664330",
+  "fil": "k_08a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Curlstång Trigrip S med stång på 120 cm,",
+    "efter": "Curlstång Trigrip S har en stång på 120 cm,"
+   }
+  },
+  "skal": "Ordagrant. 35 kg mot 35,5 kg rätt utelämnat. Meta saknar verb: rättas."
+ },
+ {
+  "nr": 9525,
+  "id": "10636650938634",
+  "fil": "k_08a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Curlstångspaket E Series med curlstång på 120 cm,",
+    "efter": "Curlstångspaket E Series har en curlstång på 120 cm,"
+   }
+  },
+  "skal": "25/26 mm, 120 cm, gjutjärn, stjärnlås, isärtagbar, skivantal stämmer. 30 kg rätt utelämnat: källan säger att skivorna väger 30 kg men de listade blir 25 kg (R2). Meta saknar verb: rättas."
+ }
+]
