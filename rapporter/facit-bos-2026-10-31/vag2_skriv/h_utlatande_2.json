@@ -1,0 +1,282 @@
+[
+ {
+  "nr": 10433,
+  "id": "10462201446666",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Squat Rack Tunturi WT40",
+    "efter": "Knäböjsställ Tunturi WT40"
+   },
+   "seo_title": {
+    "fore": "Squat Rack Tunturi WT40",
+    "efter": "Knäböjsställ Tunturi WT40"
+   },
+   "meta": {
+    "fore": "Tunturi WT40 är ett squat rack med två skivstångsstöd som kan justeras till 7 höjder mellan 90 och 150 cm. Racket väger 37 kg.",
+    "efter": "Tunturi WT40 är ett knäböjsställ med två skivstångsstöd som kan justeras till 7 höjder mellan 90 och 150 cm. Stället väger 37 kg."
+   },
+   "html": {
+    "fore": "<p>Tunturi WT40 är ett squat rack av stål med två krompläterade skivstångsstöd. Stöden kan justeras till 7 olika höjder mellan 90 och 150 cm, och racket väger 37 kg.</p><h2>Passar för</h2><ul>\n<li>Dig som vill ha ett squat rack med justerbara skivstångsstöd</li>\n<li>Dig som söker ett rack som är 100 x 69 x 161 cm vid montering</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Mått vid montering: 100 x 69 x 161 cm</li>\n<li>Vikt: 37 kg</li>\n<li>Antal höjder för skivstångsstöden: 7</li>\n<li>Höjdintervall: 90–150 cm</li>\n<li>Stöd: Två krompläterade skivstångsstöd</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p>",
+    "efter": "<p>Tunturi WT40 är ett knäböjsställ av stål med två krompläterade skivstångsstöd. Stöden kan justeras till 7 olika höjder mellan 90 och 150 cm, och stället väger 37 kg.</p><h2>Passar för</h2><ul>\n<li>Dig som vill ha ett knäböjsställ med justerbara skivstångsstöd</li>\n<li>Dig som söker ett ställ som är 100 x 69 x 161 cm vid montering</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Mått vid montering: 100 x 69 x 161 cm</li>\n<li>Vikt: 37 kg</li>\n<li>Antal höjder för skivstångsstöden: 7</li>\n<li>Höjdintervall: 90–150 cm</li>\n<li>Stöd: Två krompläterade skivstångsstöd</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p>"
+   }
+  },
+  "skal": "Engelskt typord 'Squat Rack' i titel/SEO och 'squat rack'/'racket' i text (standard §3, som h_1 10431/10432); källans eget ord är 'knäböjsställ'. Data i övrigt rätt: 7 höjder, 90–150 cm, två krompläterade stöd, stålkonstruktion, 100 x 69 x 161 cm, 37 kg ordagrant. 'Maximal lastkapacitet: 160 kg' är utelämnad ur alla fält – rätt, källan förklarar den som last minus kroppsvikt (oklart vad den avser, som h_1 10391/10432). Säkerhet/robust borta. Taggen Pakethållare används inte."
+ },
+ {
+  "nr": 10435,
+  "id": "10472349270282",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Hantelställ ur källtexten ('hantelställ'). Pulverlackerat stål, MX30/MX55/MX85, 14,5/41,7/64,4/91,6 kg ordagrant. Motsägande mått (två H-värden) utelämnade – rätt. Utrymmesbesparande, säker och märkeshistoria (Finland, holländskt) borta."
+ },
+ {
+  "nr": 10437,
+  "id": "10411741085962",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Maximal användarvikt: 120 kg' står ordagrant på svenska med enhet i egen källa och återges en gång 'enligt tillverkaren' (spec), inte i titel/meta (alt A, som h_1). Den oklara 'maximala lastkapaciteten' (på bilderna) återges inte. Hopfällbar vikbänk, gummihandtag, skumstoppning, ryggstöd, två grepp/pressstöd, 112 x 124 x 220 cm hopfälld, 40 kg ordagrant. Träningseffekt, nybörjare, app borta. Tunturi (vendor) i stället för 'Tuntur'. Beställningsmeningen står (tagg 'På beställning')."
+ },
+ {
+  "nr": 10447,
+  "id": "10468734206218",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>BH Fitness golvskyddsmatta är en golvskyddsmatta som är 120 x 60 x 0,5 cm. Enligt tillverkaren skyddar den golvet från stötar, svett och ljud.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en golvskyddsmatta på 120 x 60 x 0,5 cm</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Mått: 120 x 60 x 0,5 cm</li>\n<li>Märke: BH Fitness</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p>",
+    "efter": "<p>BH Fitness golvskyddsmatta är 120 x 60 x 0,5 cm. Enligt tillverkaren skyddar den golvet från stötar, svett och ljud.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en golvskyddsmatta på 120 x 60 x 0,5 cm</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Mått: 120 x 60 x 0,5 cm</li>\n<li>Märke: BH Fitness</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p>"
+   }
+  },
+  "skal": "Typord från live-titeln. Cirkulär inledning 'BH Fitness golvskyddsmatta är en golvskyddsmatta' rättas till samma form som meta (och Gymstick c_7). Data rätt: mått ordagrant, skydd mot stötar, svett och ljud 'enligt tillverkaren' (vibrationer borta). Tunn produkt, en Passar-punkt, inte utfylld."
+ },
+ {
+  "nr": 10448,
+  "id": "10472290353418",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>BH Fitness golvskyddsmatta är en golvskyddsmatta som är 200 x 90 x 0,5 cm. Enligt tillverkaren skyddar den golvet från stötar, svett och ljud.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en golvskyddsmatta på 200 x 90 x 0,5 cm</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Mått: 200 x 90 x 0,5 cm</li>\n<li>Märke: BH Fitness</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p>",
+    "efter": "<p>BH Fitness golvskyddsmatta är 200 x 90 x 0,5 cm. Enligt tillverkaren skyddar den golvet från stötar, svett och ljud.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en golvskyddsmatta på 200 x 90 x 0,5 cm</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Mått: 200 x 90 x 0,5 cm</li>\n<li>Märke: BH Fitness</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p>"
+   }
+  },
+  "skal": "Typord från live-titeln. Cirkulär inledning 'BH Fitness golvskyddsmatta är en golvskyddsmatta' rättas till samma form som meta (och Gymstick c_7). Data rätt: mått ordagrant, skydd mot stötar, svett och ljud 'enligt tillverkaren' (vibrationer borta). Tunn produkt, en Passar-punkt, inte utfylld."
+ },
+ {
+  "nr": 10449,
+  "id": "10472302313738",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typord Golvmatta från live-titeln. Återvunnet SBR-gummigranulat, 100 x 100 x 1,5 cm, 15 mm, 14 kg, raka kanter utan hörn/kopplas samman ordagrant. Slitstark, halkfri, stabilitet, säkerhet borta."
+ },
+ {
+  "nr": 10450,
+  "id": "10650210861322",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Hammer 2in1 är en dubbelsidig gymnastikmatta på 185 x 65 x 0,75 cm med en mjukare sida och en halkfri sida med högt grepp.",
+    "efter": "Hammer 2in1 är en dubbelsidig gymnastikmatta på 185 x 65 x 0,75 cm. Enligt tillverkaren har den en mjukare sida och en halkfri sida med högt grepp."
+   }
+  },
+  "skal": "Data rätt (185 x 65 x 0,75 cm, dubbelsidig, mjukare sida, halkfri sida med högt grepp ordagrant); Tyskland, kvalitet, säkerhet, stabilitet, återhämtning borta. Rättning: halkfri/grepp är tillverkarpåstående och står 'enligt tillverkaren' i texten men inte i meta."
+ },
+ {
+  "nr": 10451,
+  "id": "10486688841994",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typord Golvmatta från live-titeln och källan. EVA, nylontyg, 120 x 60 x 0,3 cm, crosstrainer/motionscykel/ergometer ordagrant. Titeln behåller live-ordningen 60 x 120 (samma mått). Ljudabsorbering, slitstark borta."
+ },
+ {
+  "nr": 10452,
+  "id": "10472302280970",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Golvmatta ur källtexten ('professionella golvmatta'). 2-delad, 100 x 50 x 2,5 cm, montera/demontera, utbyggbar, ljudisolerande 'enligt tillverkaren'; '80 %' och vibrationer borta. Oklart om måttet gäller del eller set – inte påstått."
+ },
+ {
+  "nr": 10453,
+  "id": "10486688973066",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Golvmatta Hammer Floor Protection Mat XL, 200 x 100 cm",
+    "efter": "Träningsmatta Hammer Floor Protection Mat XL, 200 x 100 cm"
+   },
+   "seo_title": {
+    "fore": "Golvmatta Hammer Protection Mat XL",
+    "efter": "Träningsmatta Hammer Floor Protection XL"
+   },
+   "meta": {
+    "fore": "Hammer Floor Protection Mat XL är en golvmatta på 200 x 100 x 0,6 cm. Enligt tillverkaren dämpar den ljud.",
+    "efter": "Hammer Floor Protection Mat XL är en träningsmatta för konditionsmaskiner på 200 x 100 x 0,6 cm. Enligt tillverkaren dämpar den ljud."
+   },
+   "html": {
+    "fore": "<p>Hammer Floor Protection Mat XL är en golvmatta som är 200 x 100 x 0,6 cm. Enligt tillverkaren är den avsedd för elliptiska träningsmaskiner och styrketräningsstationer, och den skyddar mattor, parkett och stengolv samt dämpar ljud.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en golvmatta på 200 x 100 cm</li>\n<li>Dig som vill ha en matta under en elliptisk träningsmaskin eller styrketräningsstation</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Mått: 200 x 100 x 0,6 cm</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p>",
+    "efter": "<p>Hammer Floor Protection Mat XL är en träningsmatta som är 200 x 100 x 0,6 cm. Enligt tillverkaren är den avsedd för elliptiska träningsmaskiner och styrketräningsstationer, och den skyddar mattor, parkett och stengolv samt dämpar ljud.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en träningsmatta på 200 x 100 cm</li>\n<li>Dig som vill ha en matta under en elliptisk träningsmaskin eller styrketräningsstation</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Mått: 200 x 100 x 0,6 cm</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p>"
+   }
+  },
+  "skal": "Typbytet Träningsmatta → Golvmatta stöds inte av den egna källan: källtexten säger aldrig 'golvmatta' (bara 'en matta', 'golvvänlig bas'), live-titeln säger 'Träningsmatta för konditionsmaskiner'. att_bekrafta ('som källan beskriver') stämmer inte. Butikens/titelns typord behålls. Data i övrigt rätt (200 x 100 x 0,6 cm, elliptiska maskiner/styrketräningsstationer, skyddar mattor/parkett/stengolv, dämpar ljud – ordagrant); lägenhetstext borta."
+ },
+ {
+  "nr": 10454,
+  "id": "10411919573258",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typbytet till Golvmatta stöds av egen källtext ('HAMMERs tvådelade golvmatta'). Gummi, två mattor 70 x 30 (x 0,6) cm, skyddar mattor/parkett/stengolv, dämpar ljud ordagrant; högkvalitativ, luktfri, hållbar, lägenheter borta."
+ },
+ {
+  "nr": 10455,
+  "id": "10650169573642",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typbytet till Golvmatta stöds av egen källtext ('HAMMER golvmatta 120 × 70 cm'). 120 x 70 x 0,6 cm, under träningsmaskiner, marmor/parkett, buller ordagrant."
+ },
+ {
+  "nr": 10456,
+  "id": "10650169508106",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Golvmatta Hammer Puzzlemat Basic, 185 x 120 x 1,2 cm",
+    "efter": "Träningsmatta Hammer Puzzlemat Basic, 185 x 120 x 1,2 cm"
+   },
+   "seo_title": {
+    "fore": "Golvmatta Hammer Puzzlemat Basic",
+    "efter": "Träningsmatta Hammer Puzzlemat Basic"
+   },
+   "meta": {
+    "fore": "Hammer Puzzlemat Basic är en golvmatta i 6 delar som mäter 185 x 120 x 1,2 cm. Enligt tillverkaren kan mattan byggas ut med fler delar.",
+    "efter": "Hammer Puzzlemat Basic är en träningsmatta i 6 delar som mäter 185 x 120 x 1,2 cm. Enligt tillverkaren kan mattan byggas ut med fler delar."
+   },
+   "html": {
+    "fore": "<p>Hammer Puzzlemat Basic är en golvmatta som består av 6 delar och mäter 185 x 120 x 1,2 cm. Enligt tillverkaren är den utbyggbar och passar under konditionsmaskiner.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en golvmatta i 6 delar</li>\n<li>Dig som vill ha en matta på 185 x 120 cm under en konditionsmaskin</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Mått: 185 x 120 x 1,2 cm</li>\n<li>Antal delar: 6</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p>",
+    "efter": "<p>Hammer Puzzlemat Basic är en träningsmatta som består av 6 delar och mäter 185 x 120 x 1,2 cm. Enligt tillverkaren är den utbyggbar och passar under konditionsmaskiner.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en träningsmatta i 6 delar</li>\n<li>Dig som vill ha en matta på 185 x 120 cm under en konditionsmaskin</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Mått: 185 x 120 x 1,2 cm</li>\n<li>Antal delar: 6</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p>"
+   }
+  },
+  "skal": "Typbytet Träningsmatta → Golvmatta stöds inte av den egna källan: både live-titeln och källtexten ('HAMMER-träningsmattan') säger träningsmatta; 'golvmatta' står bara hos syskonet Puzzle Mat (10452). Typordet behålls. Data i övrigt rätt (6 delar, 185 x 120 x 1,2 cm som i källtexten, utbyggbar, under konditionsmaskiner); halkfri/ljuddämpning borta."
+ },
+ {
+  "nr": 10457,
+  "id": "10472289763594",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typbytet till Golvskyddsmatta stöds av egen källtext ('Hammer NorsK golvskyddsmatta'). 70 x 30 x 0,6 cm, kork/naturgummi ordagrant. Miljövänlig, halkskydd, stabilitet, hållbarhet borta. 'NorsK' utelämnat."
+ },
+ {
+  "nr": 10458,
+  "id": "10472311095562",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Golvmatta Toorx Gummi Golv i Rulle, 1000 x 125 x 0,6 cm",
+    "efter": "Golvmatta Toorx Gummigolv i Rulle, 1000 x 125 x 0,6 cm"
+   },
+   "seo_title": {
+    "fore": "Golvmatta Toorx Gummi Golv i Rulle",
+    "efter": "Golvmatta Toorx Gummigolv i Rulle"
+   },
+   "meta": {
+    "fore": "Toorx Gummi Golv i Rulle är en golvmatta på 1000 x 125 x 0,6 cm. Enligt tillverkaren passar den under träningsmaskiner och som golvbeläggning.",
+    "efter": "Toorx golvmatta är ett gummigolv i rulle på 1000 x 125 x 0,6 cm. Enligt tillverkaren passar den under träningsmaskiner och som golvbeläggning."
+   },
+   "html": {
+    "fore": "<p>Toorx Gummi Golv i Rulle är en golvmatta som är 1000 x 125 x 0,6 cm. Enligt tillverkaren är den lämplig under träningsmaskiner och annan utrustning samt som golvbeläggning i hem och gym.</p><h2>Passar för</h2><ul>\n<li>Dig som söker golvmatta i rulle, 1000 cm lång</li>\n<li>Dig som vill ha en golvbeläggning till hem eller gym</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Mått: 1000 x 125 x 0,6 cm</li>\n<li>Utförande: Gummi, i rulle</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p>",
+    "efter": "<p>Toorx golvmatta är ett gummigolv i rulle som är 1000 x 125 x 0,6 cm. Enligt tillverkaren är den lämplig under träningsmaskiner och annan utrustning samt som golvbeläggning i hem och gym.</p><h2>Passar för</h2><ul>\n<li>Dig som söker golvmatta i rulle, 1000 cm lång</li>\n<li>Dig som vill ha en golvbeläggning till hem eller gym</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Mått: 1000 x 125 x 0,6 cm</li>\n<li>Utförande: Gummi, i rulle</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p>"
+   }
+  },
+  "skal": "Särskrivningen 'Gummi Golv' är inget modellnamn (beskrivande ord ur originaltiteln) och ger en nästan cirkulär inledning ('Gummi Golv i Rulle är en golvmatta'). Skrivs 'gummigolv'. Data rätt: 1000 x 125 x 0,6 cm, under träningsmaskiner/annan utrustning, golvbeläggning i hem och gym ordagrant; gummi ur titeln."
+ },
+ {
+  "nr": 10459,
+  "id": "10472278753546",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Toorx Fitnessmat med handtag är en blå gymnastikmatta på 172 x 61 x 1,2 cm. Den har halkskydd, går att rulla ihop och levereras med bärrem.",
+    "efter": "Toorx Fitnessmat med handtag är en blå gymnastikmatta på 172 x 61 x 1,2 cm. Enligt tillverkaren har den halkskydd, är rullbar och levereras med bärrem."
+   }
+  },
+  "skal": "Data rätt (172 x 61 x 1,2 cm, halkskydd, rullbar, bärrem; blå och 'med handtag' ur titeln). Beställningsmeningen står (tagg 'På beställning'). Rättning: halkskydd är tillverkarpåstående och står 'enligt tillverkaren' i texten men inte i meta."
+ },
+ {
+  "nr": 10460,
+  "id": "10624082641162",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Blå och 'med handtag' ur titeln; 160 x 50 x 0,8 cm, halkfri yta, rullas ihop, bärrem 'enligt tillverkaren'. Italien borta. Ingen beställningstagg, ingen mening – rätt."
+ },
+ {
+  "nr": 10461,
+  "id": "10624082673930",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Måttet 172 x 61 x 1,2 cm i källan krockar med SKU MAT-185 och utelämnas (försiktigt, godtas). Tunn text, inte utfylld. Italien borta."
+ },
+ {
+  "nr": 10462,
+  "id": "10462781702410",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Golvmatta Toorx Interlocking Mat, Grå",
+    "efter": "Underlagsmatta Toorx Interlocking Mat, Grå"
+   },
+   "seo_title": {
+    "fore": "Golvmatta Toorx Interlocking Mat, Grå",
+    "efter": "Underlagsmatta Toorx Interlocking Mat, Grå"
+   },
+   "meta": {
+    "fore": "Toorx Interlocking Mat är en grå golvmatta som består av 4 fyrkanter och 2 kantbitar. Varje del är 61 x 61 x 1,2 cm.",
+    "efter": "Toorx Interlocking Mat är en grå underlagsmatta som består av 4 fyrkanter och 2 kantbitar. Måttet på en del är 61 x 61 x 1,2 cm."
+   },
+   "html": {
+    "fore": "<p>Toorx Interlocking Mat är en grå golvmatta. Setet består av 4 fyrkanter och 2 kantbitar, och en del mäter 61 x 61 x 1,2 cm. Enligt tillverkaren lämpar den sig som underlagsmatta för träningsmaskiner och för övningar.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en golvmatta i delar</li>\n<li>Dig som vill ha en underlagsmatta till träningsmaskin eller övningar</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Mått på en del: 61 x 61 x 1,2 cm</li>\n<li>Antal delar: 4 fyrkanter och 2 kantbitar</li>\n<li>Färg: Grå</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p>",
+    "efter": "<p>Toorx Interlocking Mat är en grå underlagsmatta. Setet består av 4 fyrkanter och 2 kantbitar, och en del mäter 61 x 61 x 1,2 cm. Enligt tillverkaren lämpar den sig för träningsmaskiner och för övningar.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en underlagsmatta i delar</li>\n<li>Dig som vill ha en underlagsmatta till träningsmaskin eller övningar</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Mått på en del: 61 x 61 x 1,2 cm</li>\n<li>Antal delar: 4 fyrkanter och 2 kantbitar</li>\n<li>Färg: Grå</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p>"
+   }
+  },
+  "skal": "Live-titeln saknar typord; källans ord är 'underlagsmatta', 'golvmatta' står inte i källan. Meta 'Varje del är 61 x 61 x 1,2 cm' säger mer än källan ('Mått på en del'), kantbitarna har inget eget mått. 4-delars och 122 x 122 cm utelämnade – godtas (försiktigt). Italien borta."
+ },
+ {
+  "nr": 10463,
+  "id": "10472278786314",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Gymmatta ur källtexten ('hopfällbara gymmattan'). 178 x 61 x 5 / 59 x 61 x 5 cm, halkfri beläggning, avtagbart tvättbart överdrag ordagrant; 'stannar på plats', slitstark, Italien borta. Taggen Vikbar cykel används inte."
+ },
+ {
+  "nr": 10464,
+  "id": "10472300642570",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn källa: mjuk, bekväm, två hål 'enligt tillverkaren'; inga mått påhittade. SEO utan märke (Toorx ryms inte inom 43). Kort meta."
+ },
+ {
+  "nr": 10465,
+  "id": "10472300249354",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn källa: längd 100 cm, mjuk, bekväm, två hål ordagrant; inget utfyllt."
+ },
+ {
+  "nr": 10466,
+  "id": "10472300806410",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "172 x 61 x 1,5 cm, halkfri yta, öglor ordagrant; stötdämpning, 'maximalt grepp', lätt borta."
+ },
+ {
+  "nr": 10467,
+  "id": "10472300708106",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Som 10466 (egen källa, samma uppgifter)."
+ },
+ {
+  "nr": 10468,
+  "id": "10411925242122",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn källa: längd 100 cm, mjuk, bekväm, två hål ordagrant; källans 'enmjuk' inte kopierat."
+ }
+]
