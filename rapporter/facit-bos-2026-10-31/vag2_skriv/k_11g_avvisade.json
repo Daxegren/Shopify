@@ -1,0 +1,57 @@
+[
+ {
+  "id": "10572637012234",
+  "nr": 9951,
+  "skäl": "Stödhjul/sidohjul för barncyklar (12–20 tum): barnprodukt (R6) och bärande/säkerhetskritisk del. Källan säger också \"Reservhjul\" och \"Ej lämpliga för cyklar med utanpåliggande växlar\"."
+ },
+ {
+  "id": "10472252932362",
+  "nr": 9954,
+  "skäl": "Stödhjul (\"träningshjul\") för att barn ska lära sig cykla: barnprodukt (R6) och bärande/säkerhetskritisk del. Källan är en enda maskinöversatt mening (\"frånMonte Grappa12upp till 16\")."
+ },
+ {
+  "id": "10541367263498",
+  "nr": 9955,
+  "skäl": "Barnprodukt/leksak med licensierade Disney-figurer (Frozen) för lek; barn ligger under utanför_tills_vidare (R6). Källan är tunn: två plastracketar och en liten boll. Systerprodukt 9956 avvisas på samma grund."
+ },
+ {
+  "id": "10541367656714",
+  "nr": 9956,
+  "skäl": "Barnprodukt/leksak med licensierade Disney-figurer (Spider-Man); barn ligger under utanför_tills_vidare (R6). Källan är tunn: två plastracketar och en liten boll."
+ },
+ {
+  "id": "10541367492874",
+  "nr": 9957,
+  "skäl": "Barnprodukt/leksak (flygande disc med Disney-figurer, Frozen); barn ligger under utanför_tills_vidare (R6). Enda måttet är diametern 23 cm; tunn källa."
+ },
+ {
+  "id": "10472253227274",
+  "nr": 9958,
+  "skäl": "Kemikalie (fettlösare/glidvallningsborttagning) med farovarning i källan: lättantändligt, skadligt vid inandning, hudkontakt och förtäring. Faroklassning och märkning är inte kontrollerade; underkänd tidigare i b_21 av samma skäl."
+ },
+ {
+  "id": "10472253522186",
+  "nr": 9959,
+  "skäl": "Motsägande, maskinöversatt källa: texten handlar om att montera cykel och få däck på plats (\"korkstartare\"), medan märket Start och artikelnumret (15MU) hör till skidvalla och kork. Produkttypen är inte bestämd (R2). Underkänd tidigare i b_21 och avvisad som 9487 i k_07d."
+ },
+ {
+  "id": "10472332755210",
+  "nr": 9960,
+  "skäl": "Barnstorlek: Union Lite M, användarhöjd 110–130 cm; barnsparkcyklar avvisas tills vidare (R6), samma beslut som 9330 i k_05a och 9011 i b_50."
+ },
+ {
+  "id": "10472332853514",
+  "nr": 9961,
+  "skäl": "Barnstorlek: Union Lite M Neochrome, användarhöjd 110–130 cm; barnsparkcyklar avvisas tills vidare (R6), samma beslut som 9330 i k_05a."
+ },
+ {
+  "id": "10472331936010",
+  "nr": 9962,
+  "skäl": "Barnstorlek: Union Lite S, användarhöjd 105–125 cm; barnsparkcyklar avvisas tills vidare (R6), samma beslut som 9331 i k_05a och 9009 i b_50."
+ },
+ {
+  "id": "10472227340554",
+  "nr": 9963,
+  "skäl": "Stödben (cykelstöd, Mini-stöd med bakre fäste) är bärande/säkerhetskritisk del; källan är dessutom trasig/maskinöversatt (upprepad stödmening) och lastuppgiften \"Lastkapacitet 35 kg\" står utan etikettkontext (R2, R4). Samma beslut som 9801."
+ }
+]

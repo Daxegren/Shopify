@@ -96,6 +96,9 @@ def kontrollera(fil, sparr, tillat_kanda):
             f('stor bokstav efter bindestreck i typordet ("El-lastcykel", inte "El-Lastcykel")')
         if x.get('meta') and not re.search(r'\b(är|har|ger|passar|finns|väger|mäter|består|används|kan|ingår|erbjuder|levereras|säljs|tillverkad|tillverkade|gör|hjälper|följer|innehåller|fungerar|rymmer|kommer|med)\b', x['meta'], re.I) or (x.get('meta') and re.match(r'^[A-ZÅÄÖ][\wåäö-]+(?: [\wåäö-]+){0,3} med ', x['meta']) and not re.search(r'\b(är|har|ger|passar|finns|väger|mäter|består|används|kan|ingår|erbjuder|säljs|innehåller|fungerar|rymmer)\b', x['meta'], re.I)):
             v('meta saknar verb (granskarfynd 31 av 37 rättningar i k_08b–d): börja inte med "Produkt med …"')
+        for fld, txt in (('meta', x.get('meta') or ''), ('första meningen', re.sub(r'<[^>]+>', '', (re.search(r'<p>(.*?)</p>', x.get('html') or '', re.S) or [None, ''])[1]))):
+            if re.match(r'^[A-ZÅÄÖ][^.,:;]{2,70}? är (?:en|ett) ', txt):
+                v(f'{fld} börjar "Namn är en/ett typord" (cirkulär inledning, 30+ granskarrättningar): börja med vad produkten gör eller består av'); break
         if re.search(r'[­​ ﻿]', text):
             f('osynligt tecken (mjukt bindestreck, nollbredd, hårt mellanslag eller BOM)')
     return len(d), fel, varn
