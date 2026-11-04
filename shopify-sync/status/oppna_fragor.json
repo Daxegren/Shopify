@@ -155,9 +155,10 @@
   "id": "S11",
   "datum": "2026-11-04",
   "fraga": "Filnamnskrockar: fem grenar har skapat rapporter/beslut-2026-11-04-7.md och Alpha Zoo -5 (båda finns redan på huvudgrenen). Får jag vid sammanslagning kopiera varje till eget namn (t.ex. beslut-2026-11-04-7-mondido.md) så inget skrivs över? Originalen ändras inte",
-  "status": "öppen",
+  "status": "avklarad",
   "kalla": "Översikt (samordnare)",
-  "last_upp_sessioner": 1
+  "last_upp_sessioner": 1,
+  "besvarad": "2026-11-04: David svarade ja"
  },
  {
   "id": "S12",
@@ -171,8 +172,9 @@
   "id": "S13",
   "datum": "2026-11-04",
   "fraga": "Mätning: ska granskarna märka varje rättning med regelkod och allvarlighet (fel/ska/stil) i utlåtandena? Utan det går det inte att säga vilka regler som förebygger mest. Rekommendation: ja, ändra agentprompten (BOS-sessionen gör det, jag skickar inget dit utan ditt ja)",
-  "status": "öppen",
+  "status": "avklarad",
   "kalla": "Översikt (samordnare)",
-  "last_upp_sessioner": 1
+  "last_upp_sessioner": 1,
+  "besvarad": "2026-11-04: David svarade ja"
  }
 ]
