@@ -1,0 +1,31 @@
+{
+ "butik": "hyprnutrition.se",
+ "beskrivning": "UTKAST fas 1. Produkter som inte får skrivas av textutrullningen. Format enligt sparrlista.json (BOS). Läses av skrivfil_kontroll.py först när den pekas på denna fil (skriptet är idag BOS-specifikt). Lägg nya spärrar som nya poster; ta inte bort poster.",
+ "sparrar": [
+  {
+   "namn": "alla-produkter-tills-regeluppsattning-godkand",
+   "aktiv": true,
+   "ids": ["10980883628375","10980781424983","10980734599511","10980689346903","10832746611031","10826690330967","10547384222039","10547382485335","10547380748631"],
+   "skal": "Kosttillskott och energidryck. Regeluppsättningen för närings- och hälsopåståenden (regler-tillskott-utkast.md) är inte granskad av någon med regulatorisk kompetens och inte godkänd av David.",
+   "beslut": "Förslag av Claude 2026-11-04; väntar på Davids beslut. Gäller tills David säger annat.",
+   "kanda_overtradelser": []
+  },
+  {
+   "namn": "hogrisk-halsopastaenden",
+   "aktiv": true,
+   "ids": ["10980689346903","10980734599511","10980781424983","10980883628375"],
+   "skal": "Befintlig produkttext innehåller hälsopåståenden (immunförsvar, leder, hud, stelhet, skelett). Ska även efter att övriga släpps kräva särskilt beslut och regulatorisk granskning.",
+   "beslut": "Förslag av Claude 2026-11-04; väntar på Davids beslut.",
+   "kanda_overtradelser": []
+  },
+  {
+   "namn": "energidryck-koffein",
+   "aktiv": true,
+   "ids": ["10547384222039","10547382485335","10547380748631"],
+   "skal": "Koffein 180 mg per burk (märkningskrav för högt koffeininnehåll och målgrupp bör kontrolleras mot etikett) samt titel/handle-mismatch på 24-pack (handle 12-pack).",
+   "beslut": "Förslag av Claude 2026-11-04; väntar på Davids beslut.",
+   "kanda_overtradelser": []
+  }
+ ],
+ "anmarkning": "Produkt-id:n hämtade från offentlig products.json 2026-11-04. Utkast och arkiverade produkter i admin ej inventerade; komplettera när admin-läsning fungerar."
+}
