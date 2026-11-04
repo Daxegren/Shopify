@@ -33,7 +33,7 @@ Regler: `shopify-sync/regler/regler-v1.md`. Beslut: `shopify-sync/docs/BESLUTSLO
 | h_4 | 25 | 23 | 2 | 15/8/0 | 23 | skrivfil |
 | h_5 | 25 | 21 | 4 | 17/4/0 | 21 | skrivfil |
 | h_6 | 25 | 21 | 4 | 15/6/0 | 21 | skrivfil |
-| h_7 | 5 |  | 0 |  |  | in |
+| h_7 | 5 | 5 | 0 | 2/3/0 | 5 | skrivfil |
 
 Steg: in → utkast → granskad → skrivfil → skriven (skrivrapport finns). f_x1 och fix-filer (f_*fix) ingår i huvudbatcherna.
 
@@ -49,3 +49,4 @@ Steg: in → utkast → granskad → skrivfil → skriven (skrivrapport finns). 
 - F9 (2026-11-04): Elektronik som pulsband och vågar: tillåtet som ren teknisk fakta, eller utanför? Kroppsanalysvågar (hälsoparametrar) ligger nu utanför. Typordet Träningshjul (10502 live, Exercise wheel) är inte godkänt i profilen: godkänn eller byt
 - F10 (2026-11-04): Cirka 30 skrivna fitnessprodukter har meta som slutar med utfyllnaden 'Finns hos BEST OF SPORTS.' fast metan redan är över 70 tecken. Rensa den i ett svep när API-vägen finns (enkel textersättning)?
 - F11 (2026-11-04): Svettdräkter (t.ex. Sauna Smoke 10599): skrivs idag som ren fakta utan löften om svettning/viktminskning. Okej, eller utanför? Även: produkter som bär kroppsvikt men saknar lastgräns (speedball, balansredskap): säkerhetsprodukter eller inte?
+- F12 (2026-11-04): Tunturi Allround Boxing Gloves 16 oz har live 'ger stöd åt handleden' i metan utan 'enligt tillverkaren'. Prövas separat (stödpåstående, R5)

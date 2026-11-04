@@ -1,0 +1,56 @@
+[
+ {
+  "nr": 10608,
+  "id": "10475517804810",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Fyra entydiga fakta ur egen källa (endast boxningsträning, polyuretan, tumplatta/god rörlighet, L/XL); Italien utelämnat. 'Enligt tillverkaren' en gång i html och en gång i meta, inleder meningen och täcker båda påståendena (R5). Samma text som godkända syskonet S/M (10607). SEO skiljer sig från S/M."
+ },
+ {
+  "nr": 10610,
+  "id": "10472299954442",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "med justerbar höjd, 120 eller 160 cm.",
+    "efter": "med justerbar höjd på 120/160 cm."
+   }
+  },
+  "skal": "Källan anger '120/160 cm' (även i 'Mått: 48 x 120/160 cm'); det kan vara två lägen eller ett intervall, så '120 eller 160' är en tolkning (R2). Övrigt stämmer: 'Bolltstorlek' → 'Bollens storlek' är entydigt (R2 entydig del), 15 L vatten/15 kg sand är basens fyllnadsmängd ordagrant på svenska, inte en lastgräns (R4). Reflexträning borta (R5). Taggen Cykelväska rörs inte."
+ },
+ {
+  "nr": 10611,
+  "id": "10472268824842",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Tunturi Allround Boxing Gloves är universella",
+    "efter": "Tunturi Allround är universella"
+   },
+   "html": {
+    "fore": "<p>Tunturi Allround Boxing Gloves är universella",
+    "efter": "<p>Tunturi Allround är universella"
+   }
+  },
+  "skal": "R11: 'Allround Boxing Gloves är universella boxningshandskar' är cirkulärt engelskt; syskonet 16 oz skriver 'Tunturi Allround är'. Fakta (universella, syntetiskt läder, mjuk stoppning, bred kardborre, 12 oz ur titeln, en variant) stämmer. Handledsstöd utelämnat är tillåtet (utelämna är alltid säkert, R5); syskonet har det och stödpåståendet kunde stå som 'enligt tillverkaren' (jfr 10606 Hammer i h_6) – beslut för enhetlighet, inget fel. Skyddar mot skador borta."
+ },
+ {
+  "nr": 10614,
+  "id": "10650165772554",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typordet Fristående boxningssäck är live-ordet (R7). 180 cm och 18 kg ur källans lista; titeltillägget 180 cm har stöd. 'Enligt tillverkaren' en gång (ingen installation/krokar/kedjor, kan flyttas). PU-skum på slagytan och vatten/sand/grus ordagrant. Dämpar energi, avlastar leder, står stadigt, stabil, hållbar, intensiv användning, effektiv träning borta (R5). SEO skiljer sig från live 'Boxningssäck Tunturi Fristående' (10472259813642). Taggen Cykelväska rörs inte."
+ },
+ {
+  "nr": 10616,
+  "id": "10472302575882",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Fyllning: Upp till 110 kg sand eller 130 kg vatten</li>",
+    "efter": "<li>Fyllning: Sand eller vatten</li>"
+   }
+  },
+  "skal": "Fyllvolymen stryks: källan är engelsk, säger '110kg of sand or up to 130kg of water' (utkastet flyttar 'upp till' till båda), siffrorna är fysiskt udda (sand är tätare än vatten i samma bas) och står i en stabilitetsmening ('maximum stability'); vid tvivel stryk (R2/R4). Typordet Boxningsdocka godtas: entydig översättning av källans 'boxing dummy' och butikens eget live-ord (Slam Man), men det står inte i godkanda_typord – se oklarhet. Mått, tre höjder upp till 185 cm, 18 kg stämmer. Tål hårda slag/sparringpartner borta (R5). Leveranstidsmeningen finns (tagg På beställning)."
+ }
+]
