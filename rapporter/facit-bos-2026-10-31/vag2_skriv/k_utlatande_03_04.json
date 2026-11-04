@@ -1,0 +1,158 @@
+[
+ {
+  "nr": 9302,
+  "id": "10515742294282",
+  "fil": "k_03a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart: M/L 53–61 cm, 360° Cinch One MIPS, Direct Flow Cooling, TransTextura (fukt- och luktborttagande, enligt tillverkaren), in-mold. MIPS bara som systemnamn ur källan; 'maximalt skydd', 'ökar skyddet mot sidokollisioner' och 'hållbar' rätt utelämnade. En variant. Inte dubblett (andra färger skrivna)."
+ },
+ {
+  "nr": 9303,
+  "id": "10471071875338",
+  "fil": "k_03a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Certifiering: ASTM, enligt tillverkaren</li>",
+    "efter": "<li>Certifiering: ASTM</li>"
+   }
+  },
+  "skal": "Källan: 'Lazer Maze-modeller är ASTM-certifierade' – får stå som tillverkarens uppgift, men R5 tillåter 'enligt tillverkaren' en gång per påstående; inledningen har det redan. Ingen EN 1078 påstådd (står inte i källan). Storlekar rätt utelämnade (en variant). 'säker och snygg' rätt utelämnat."
+ },
+ {
+  "nr": 9304,
+  "id": "10577703928074",
+  "fil": "k_03a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "med 15 ventilationsöppningar och AirFit-system och allergivänlig",
+    "efter": "med 15 ventilationsöppningar, AirFit-system och allergivänlig"
+   },
+   "html": [
+    {
+     "fore": "AirFit-system för justering.",
+     "efter": "AirFit-system."
+    },
+    {
+     "fore": "<li>Justering: AirFit-system</li>",
+     "efter": "<li>System: AirFit</li>"
+    }
+   ]
+  },
+  "skal": "Källan säger bara att AirFit-systemet 'ger komfort', inte att det är ett justeringssystem (R1); 'för justering' stryks och specifikationsraden byts. Dubbelt 'och' i meta rättas. W&B i live-titeln är Limars serienamn 'White & Black series' (limar.com/collections/white-and-black-series); att det tas bort ur titeln ger ingen felaktig uppgift och handle rörs inte. SEO utan typord p.g.a. längd (46 tecken med typord) har prejudikat (Limar-SEO i tidigare batcher)."
+ },
+ {
+  "nr": 9305,
+  "id": "10548232913162",
+  "fil": "k_03a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart; båda storlekarna säljs som varianter (M/L blue). NTA 8776 och elcykeluppgiften står ordagrant i källan och återges en gång som 'enligt tillverkaren'; 'säkerhetscertifiering' och 'skydd' rätt utelämnade. Två 'enligt tillverkaren'."
+ },
+ {
+  "nr": 9306,
+  "id": "10472256864522",
+  "fil": "k_03a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (terräng/enduro, längre baktill och på sidorna utan 'extra skydd', justerbar integrerad skärm, 15 luftventiler, Air Fit Evo justeringssystem, antibakteriell och tvättbar stoppning, röd). Storlekar och vikter rätt utelämnade (en variant)."
+ },
+ {
+  "nr": 9308,
+  "id": "10472262435082",
+  "fil": "k_03a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Melon E-Series, Metropolis",
+    "efter": "Hjälm Melon E-Series, Metropolis"
+   }
+  },
+  "skal": "Synlighetsmeningen är ordagrann ur källan (utan 'och säkerhet') och skrivs en gång 'enligt tillverkaren' – godtagbart enligt §16.2. Typordet ryms i SEO-titeln (32 tecken), R7. Storlekar rätt utelämnade (SKU M.ML, en variant)."
+ },
+ {
+  "nr": 9309,
+  "id": "10470901154058",
+  "fil": "k_04a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Webbkällan axabikesecurity.com/product/axa-juno-battery-80-mm/ gäller entydigt modellen: artikel 93929595 (KB på sidan, SC i butiken = samma artikelnummer, förpackningssuffix), sidans förpackningsbild heter 'juno-batt-on-off-b-l-80mm' = butikens live-titel 'AXA JUNO BATT ON-OFF BL/80MM'; sidan anger baklykta, 80 mm, 2 AAA, på/av-knapp, indikator, 50 h. Batteritid som 'enligt tillverkaren'. Sidosynlighet rätt utelämnad."
+ },
+ {
+  "nr": 9310,
+  "id": "10470905413898",
+  "fil": "k_04a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (kompakt, bred ljusstråle, 6–12 V cykelbatterier, 50 mm, vatten- och stöttålig enligt tillverkaren). 'E-Bike' står i källtiteln, så 'för elcykel' har stöd. 'garanterar säkerhet' och synlighet rätt utelämnade."
+ },
+ {
+  "nr": 9311,
+  "id": "10470905446666",
+  "fil": "k_04a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Som 9310 men 80 mm; skiljs från syskonet genom avståndet i titel, SEO och meta."
+ },
+ {
+  "nr": 9313,
+  "id": "10475619123466",
+  "fil": "k_04a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (12 lux, på/av, två AA ingår, batteriindikator, verktygsfritt byte, auto-av 5 min, reflektor, dubbel lins). Ljusomfånget återges ordagrant med citattecken och täcks av 'enligt tillverkaren'. 'extra säkerhet', 'mer synlig', 'lång drifttid' rätt utelämnade."
+ },
+ {
+  "nr": 9317,
+  "id": "10665226699018",
+  "fil": "k_04a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Hör till belysning: §16 och profilen frisläpper 'belysning', inte bara cykelbelysning; taggen avgör inte gruppen. b_51-felen är åtgärdade (ingen arbetsterm, ingen synlighet/'säker passform'/pris). 'Uppladdningsbar' står i leverantörens live-titel, som är egen källa. 225 lumen en gång 'enligt tillverkaren'. Inte skriven tidigare."
+ },
+ {
+  "nr": 9318,
+  "id": "10515746881802",
+  "fil": "k_04a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<p>Giant Recon+ HL1200 är en cykellampa med inbyggda varningslampor för döda vinkeln. Enligt tillverkaren fungerar lampan tillsammans med bakre radar.",
+     "efter": "<p>Giant Recon+ HL1200 är en cykellampa med fem ljuslägen, varav det starkaste är 1200 lm. Enligt tillverkaren har lampan inbyggda varningslampor för döda vinkeln som fungerar tillsammans med bakre radar."
+    },
+    {
+     "fore": "<li>Dig som vill ha en cykellampa med inbyggda varningslampor för döda vinkeln</li>",
+     "efter": "<li>Dig som vill ha en cykellampa med flera ljuslägen</li>"
+    },
+    {
+     "fore": "Ljuslägen: Helljus: Hög",
+     "efter": "Ljuslägen: Hög"
+    }
+   ],
+   "meta": {
+    "fore": "Giant Recon+ HL1200 är en cykellampa med inbyggda varningslampor för döda vinkeln. Lampan har ljusläget 1200 lm och mått på 90 x 29 x 46 mm.",
+    "efter": "Giant Recon+ HL1200 är en cykellampa med fem ljuslägen upp till 1200 lm. Lampan väger 170 g och mäter 90 x 29 x 46 mm."
+   }
+  },
+  "skal": "Bättre än b_51 men varningsfunktionen (säkerhetsfunktion som kräver radar som inte framgår ingå) stod fortfarande som fakta i första meningen, meta och Passar för; nu bara en gång som 'enligt tillverkaren'. Butikens källa kallar 800/400/200 lm 'Helljus', men tillverkaren (giant-bicycles.com/se/reconplus-hl1200-2024) anger 'Low Beam' (halvljus) – motsägelse (R2), etiketten stryks. Övriga värden stämmer med källa och tillverkarsida (140 m, 2–4 h, 90x29x46 mm, 170 g)."
+ },
+ {
+  "nr": 9319,
+  "id": "10472284651786",
+  "fil": "k_04a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (gummiband, 2 LED och 2 lägen per lampa, 38 g, 4 CR 2032). 'lätt att montera på alla cyklar' och märkesbakgrund rätt utelämnade. Inte dubblett av 9320."
+ },
+ {
+  "nr": 9322,
+  "id": "10411551916298",
+  "fil": "k_04a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typordet Cykellampa står i källtexten (R7). Tre vita LED, 90°-montering; 200 lm från leverantörens titel som tillverkarens uppgift. 'säkert och synligt', 'upptäcka dig snabbare' rätt utelämnade. Tunn men minst två fakta utöver titeln."
+ }
+]

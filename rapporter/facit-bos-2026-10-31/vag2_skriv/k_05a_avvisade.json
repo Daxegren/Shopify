@@ -1,0 +1,32 @@
+[
+ {
+  "id": "10515754385674",
+  "nr": 9327,
+  "skäl": "SOKE PRO lila-röd: produkten har två varianter med olika pris (3369 kr och 2319 kr, variant \"1525-801113\") och beskrivningen anger ingen färg, så titelns \"lila-röd\" stöds inte av källan (R3). Dubblettrisk mot skrivna SOKE PRO-varianter (9020)."
+ },
+ {
+  "id": "10472243659018",
+  "nr": 9328,
+  "skäl": "START Easy HF Quick Kick: en skidgreppvalla (smörjmedel/grepp för skidor med svamp, ofta flera lager), inte en sparkcykel; taggen Sparkcykel är felaktig. Källan är maskinöversatt och motsägande (\"golvbindande\", \"+5 +15°C\"), och titeln \"universellt snabbsmörjmedel\" stämmer inte med texten (R2, R3)."
+ },
+ {
+  "id": "10472244412682",
+  "nr": 9329,
+  "skäl": "START Easy HF Quick Kick, kallt: samma som 9328. Skidgrepp (-5 till -15 °C) taggat som Sparkcykel; titeln \"Underhållsfett\" motsäger källan (\"hållande beläggning\"), maskinöversatt källa (R2, R3)."
+ },
+ {
+  "id": "10472331870474",
+  "nr": 9330,
+  "skäl": "Union Lite M: användarhöjd 110-130 cm i källan, alltså barnstorlek (junior); barnsparkcyklar avvisas tills vidare (profilen, R6). Kan skrivas om David frisläpper juniormodeller."
+ },
+ {
+  "id": "10472332132618",
+  "nr": 9331,
+  "skäl": "Union Lite S: ryttarens längd 105-125 cm i källan, alltså barnstorlek; barnsparkcyklar avvisas tills vidare (profilen, R6). Kan skrivas om David frisläpper juniormodeller."
+ },
+ {
+  "id": "10515745636618",
+  "nr": 9336,
+  "skäl": "Versatyl S2S Edition: titelns färg \"Krom/Svart\" motsäger källans \"Färg: svart-grå\" (R3), och källan nämner en \"sits i aluminium\" som inte hör till en stuntsparkcykel (trasig/maskinöversatt rad)."
+ }
+]
