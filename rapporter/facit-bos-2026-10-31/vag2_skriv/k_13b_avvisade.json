@@ -1,0 +1,104 @@
+[
+ {
+  "id": "10472239005962",
+  "nr": 10121,
+  "titel_nu": "Inner tube CONTINENTAL Tube Tour 26 Valve Presta 37/47-559/597",
+  "skal": "Källan motsäger sig: titel 37/47-559/597, beskrivning 37-559 till 47-559/44-590; webben visar att 597 och 590 hör till olika Continental-varianter. Ingen entydig dimension, tunn källa i övrigt (R2, R3)."
+ },
+ {
+  "id": "10541369098506",
+  "nr": 10122,
+  "titel_nu": "Flaskhållare GIANT Airway Sport Sidepull (L), Svart/Blå",
+  "skal": "Titeln låser Svart/Blå och (L), men varianterna 490000099 och 490000095 är oförklarade. Webben bekräftar bara 490000095 som svart/blå; 490000099 hittades inte, så färg och sida (L/R) kan inte styrkas för alla varianter. Egen källa har bara 500–750 ml (R3)."
+ },
+ {
+  "id": "10472278163722",
+  "nr": 10123,
+  "titel_nu": "Hantlar CHRISTOPEIT 2 x 3 kg, svart",
+  "skal": "Titeln låser 2 x 3 kg, men variant 30-1873 (589 kr) går inte att identifiera (30-1872 bekräftas som 2 x 3 kg; velomarket.ee listar även 2 x 4 kg). Prisskillnaden beror inte på samma storlek; en titel utan vikt vore missvisande (R3)."
+ },
+ {
+  "id": "10480054599946",
+  "nr": 10125,
+  "titel_nu": "Sangpomm CHRISTOPEIT Kettlebell 4kg",
+  "skal": "Titeln låser 4 kg, men varianterna 21-2547 (289 kr) och 21-2548 (489 kr) förklaras inte och skillnaden är stor; källan anger ingen vikt per variant. Webben gav ingen träff på artiklarna (R3)."
+ },
+ {
+  "id": "10581107343626",
+  "nr": 10127,
+  "titel_nu": "GT1.0 Treadmill",
+  "skal": "Tio varianter är olika modeller (GT1.0 till PRO25.0, 6 999–49 999 kr) och titeln låser GT1.0. En titel utan modell vore missvisande, och källan saknar tekniska uppgifter (R3)."
+ },
+ {
+  "id": "10611424854282",
+  "nr": 10128,
+  "titel_nu": "GX3.0 Crosstrainer",
+  "skal": "Fem varianter är olika modeller (GX3.0 till PRO20.0, 5 499–28 999 kr) och titeln låser GX3.0. Källan saknar tekniska uppgifter (R3)."
+ },
+ {
+  "id": "10581112094986",
+  "nr": 10129,
+  "titel_nu": "Treadmill Lubrication",
+  "skal": "Två varianter (Default 249 kr, SPR 299 kr) utan förklaring; egen källa är bara marknadsföring och ger ingen volym eller kompatibilitet. Under två entydiga fakta, ingen webbkälla funnen (R3)."
+ },
+ {
+  "id": "10472258404618",
+  "nr": 10130,
+  "titel_nu": "Träningshandskar Gymstick Workout gloves S/M",
+  "skal": "Dubblett av redan skriven aktiv produkt: Gymstick Workout Gloves, id 10581112783114 (nr 3241, texter-klara, S/M och L/XL à 199 kr). Velomarket-kopian har dessutom tunn källa (R12a)."
+ },
+ {
+  "id": "10472289075466",
+  "nr": 10131,
+  "titel_nu": "Viktplatta SPOKEY Blå, 30 mm, 10 kg",
+  "skal": "Fem varianter (59–439 kr) som bara heter artikelnummer; titeln låser blå, 30 mm och 10 kg medan källan anger borrdiameter 29 mm. Källan motsäger titeln (R2, R3)."
+ },
+ {
+  "id": "10611413647626",
+  "nr": 10132,
+  "titel_nu": "2-Layer Rack for Dumbbells",
+  "skal": "Två varianter (\"0\" 7 479 kr, Default 309 kr) utan förklaring; rack som bär hantlar (bärande del) och källan saknar lastgräns och fakta (R3, R4)."
+ },
+ {
+  "id": "10611414958346",
+  "nr": 10133,
+  "titel_nu": "AbBench",
+  "skal": "Tjugo varianter med koder är olika bänkar och redskap (1 119–15 589 kr) och bär last; ingen text kan stämma för alla (R3, R4)."
+ },
+ {
+  "id": "10581105803530",
+  "nr": 10135,
+  "titel_nu": "Dip Station for Wall Bars",
+  "skal": "Dipsstation som bär hela kroppsvikten (bärande del); sex oförklarade varianter (899–2 999 kr) och ingen lastgräns eller montering i källan (R3, R4)."
+ },
+ {
+  "id": "10581106491658",
+  "nr": 10136,
+  "titel_nu": "Fitness Bag 10kg",
+  "skal": "Titeln låser 10 kg; sju varianter (0, 5, 7,5, 10, 15, 20, 30) där \"0\" kostar 2 999 kr utan förklaring. Källan nämner varken vikter eller mått, så en text utan vikt blir utan innehåll (R3)."
+ },
+ {
+  "id": "10581104230666",
+  "nr": 10137,
+  "titel_nu": "Justerbart handtag, lätt",
+  "skal": "Oklart vad produkten är: källan nämner \"justerbart handtag\" som anpassar motstånd och grepp, utan typ, mått eller material; varianterna L och S förklaras inte (R2, R3)."
+ },
+ {
+  "id": "10581108818186",
+  "nr": 10138,
+  "titel_nu": "Mat Rack - Adjustable",
+  "skal": "Varianterna A (469 kr) och F (399 kr) förklaras inte och F kan vara icke-justerbar medan titeln säger Adjustable; källan saknar antal mattor, mått, material och bärighet (R3)."
+ },
+ {
+  "id": "10581109768458",
+  "nr": 10139,
+  "titel_nu": "Powerslider Basic 180cm",
+  "skal": "Tre varianter (Default 799 kr, SL 149 kr, G 129 kr) är uppenbart olika artiklar och titeln låser 180 cm; källan saknar mått och material (R3)."
+ },
+ {
+  "id": "10581112520970",
+  "nr": 10140,
+  "titel_nu": "WalkingPad Core",
+  "skal": "Fem varianter (CR, ELI, MV, PRO, HRL; 899–11 499 kr) är olika modeller eller tillbehör; källan har bara reklamord och ingen lastgräns (R3, R4)."
+ }
+]
