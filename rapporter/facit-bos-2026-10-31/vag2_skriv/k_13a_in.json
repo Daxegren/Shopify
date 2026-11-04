@@ -1,0 +1,288 @@
+[
+ {
+  "id": "10468744397066",
+  "nr": 10101,
+  "nr_gammalt": 9041,
+  "batch_gammal": "k_01b",
+  "avvisningsskal": "r3: varianter med olika pris (l 111 449 kr, xl 111 239 kr, plus \"default title\" 111 449 kr) och källan motsäger sig (180 mm vs 178 mm fjädringsväg, shimano ep8 vs ep800, ramstorlek s och m båda 38 cm).",
+  "titel_nu": "Elcykel KONA Remote X (2025) 29\" Gloss Viridian (Blå)",
+  "tags": [
+   "Cyklar",
+   "Elcykel",
+   "Kona",
+   "Mountainbike",
+   "På beställning",
+   "Velomarket"
+  ]
+ },
+ {
+  "id": "10488282251530",
+  "nr": 10102,
+  "nr_gammalt": 9045,
+  "batch_gammal": "k_01b",
+  "avvisningsskal": "r3: varianter med olika pris (grå 38 019 kr, xl mörkgrå 33 059 kr) och färgen i titeln gäller inte alla varianter; raden \"rammaterial\" i källan är trasig.",
+  "titel_nu": "Gravelcykel KONA Libre (2026) Gloss Metallic Charcoal",
+  "tags": [
+   "Cyklar",
+   "Gravelcykel",
+   "Kona",
+   "På beställning",
+   "Velomarket"
+  ]
+ },
+ {
+  "id": "10487987142922",
+  "nr": 10103,
+  "nr_gammalt": 9049,
+  "batch_gammal": "k_01b",
+  "avvisningsskal": "r3: varianter med olika pris (21 419 kr, 21 369 kr och 18 619 kr) och titeln anger en färg; källan stämmer inte med en enskild variant.",
+  "titel_nu": "Gravelcykel KONA Rove, 27.5\" Satin Metallic Black",
+  "tags": [
+   "Cyklar",
+   "Gravelcykel",
+   "Kona",
+   "På beställning",
+   "Velomarket"
+  ]
+ },
+ {
+  "id": "10474079322378",
+  "nr": 10104,
+  "nr_gammalt": 9050,
+  "batch_gammal": "k_01b",
+  "avvisningsskal": "r3: varianter med olika pris (18 719 kr \"default title\" och xl/gray 16 279 kr); titelns färg matt faux raw (silver) gäller inte xl/gray; storlekslistan i källan (xl, l, m, s) stämmer inte med varianterna.",
+  "titel_nu": "Kona Rove AL 650 Cykel, Matt Faux Raw (Silver)",
+  "tags": [
+   "Cyklar",
+   "Gravelcykel",
+   "Kona",
+   "På beställning",
+   "Velomarket"
+  ]
+ },
+ {
+  "id": "10676720173322",
+  "nr": 10105,
+  "nr_gammalt": 9052,
+  "batch_gammal": "k_01c",
+  "avvisningsskal": "r3: titeln anger färgen svart men produkten har två varianter, black och green (sku k25/9/8/2/2 och k25/9/8/2/1, samma pris 33 689 kr), och källtexten anger ingen färg. titeln stämmer inte med produkten. källan har dessutom motsägelse (shimano claris med 7 växlar). lyft till handläggning: dela upp v",
+  "titel_nu": "Hopfällbar el-fatbike LEADER FOX Cody 20\", Svart",
+  "tags": [
+   "Cyklar",
+   "Elcykel",
+   "LEADERFOX",
+   "På beställning",
+   "Velomarket",
+   "Vikbar cykel"
+  ]
+ },
+ {
+  "id": "10471092093194",
+  "nr": 10106,
+  "nr_gammalt": 9057,
+  "batch_gammal": "k_01c",
+  "avvisningsskal": "r3: titeln anger färgen silver-red men alla fyra varianterna är silver (m, s, l, xl) och priset skiljer sig (15 249 kr för s/m, 15 279 kr för l/xl). källan stämmer inte med titeln och källtexten anger ingen färg.",
+  "titel_nu": "Gravelbike ROMET Aspre 1, silver-red",
+  "tags": [
+   "Cyklar",
+   "Gravelcykel",
+   "Romet",
+   "Velomarket"
+  ]
+ },
+ {
+  "id": "10468705665290",
+  "nr": 10107,
+  "nr_gammalt": 9102,
+  "batch_gammal": "k_02a",
+  "avvisningsskal": "r3: varianterna m / black (9 129 kr) och l, xl, s / black (7 939 kr) har olika pris (1 190 kr skillnad) för samma modell och färg. ser ut som felprissättning eller olika utförande; texten kan inte låsa färg eller ramstorlek. källan är i övrigt som 9101, 9103 och 9104. david avgör efter kontroll av p",
+  "titel_nu": "Fixie bike 6KU Nebula 2",
+  "tags": [
+   "6KU",
+   "Cyklar",
+   "På beställning",
+   "Velomarket"
+  ]
+ },
+ {
+  "id": "10656690274570",
+  "nr": 10108,
+  "nr_gammalt": 9108,
+  "batch_gammal": "k_02a",
+  "avvisningsskal": "r3, tunn källa och trasigt pris: källan säger bara \"passar modellerna cargobike of sweden flex och delight\" (typ och kompatibilitet, inga mått eller material), och varianten kostar 9,00 kr (sku 1521-30), vilket uppenbart är fel. titeln anger \"med ryggstöd\" utan stöd i källan.",
+  "titel_nu": "Sittdyna för baksäte med ryggstöd CARGOBIKE of Sweden Flex/Delight",
+  "tags": [
+   "Cargobike of Sweden",
+   "Lastcykel",
+   "Tillbehör för lastcyklar",
+   "Velomarket"
+  ]
+ },
+ {
+  "id": "10488246632714",
+  "nr": 10109,
+  "nr_gammalt": 9115,
+  "batch_gammal": "k_02a",
+  "avvisningsskal": "r3: titeln anger färg svart och källan anger ramstorlek l, men produkten har två varianter med mycket olika pris: default title 12 469 kr (sku 2206041185) och l / black 5 229 kr (sku 2206041187). variantdatat är trasigt och texten kan inte låsa något; david avgör vilken variant som är rätt.",
+  "titel_nu": "Cykel GIANT Attend RS 1 GTS, Svart",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "Herrcykel",
+   "På beställning",
+   "Velomarket"
+  ]
+ },
+ {
+  "id": "10462190567690",
+  "nr": 10110,
+  "nr_gammalt": 9145,
+  "batch_gammal": "k_02b",
+  "avvisningsskal": "r3: titeln anger färgen matte plum men källan säger 'färg: orange' och varianterna anger 'purple'; dessutom olika pris (m 25 569 kr, l och xl 25 519 kr). källan stämmer inte med titeln; david avgör.",
+  "titel_nu": "Fatbike Kona Wo, Matte Plum",
+  "tags": [
+   "Cyklar",
+   "Kona",
+   "Velomarket"
+  ]
+ },
+ {
+  "id": "10474079518986",
+  "nr": 10111,
+  "nr_gammalt": 9159,
+  "batch_gammal": "k_02c",
+  "avvisningsskal": "r3: två varianter med olika pris (default title 13 339 kr och m / green 11 599 kr, samma sku). går inte att skriva utan att låsa en variant; david avgör.",
+  "titel_nu": "Damcykel LIV Tempt 2 GE, Ocean Wave, 27,5 tum",
+  "tags": [
+   "Damcykel",
+   "Damcyklar",
+   "Liv",
+   "Mountainbike",
+   "Velomarket"
+  ]
+ },
+ {
+  "id": "10462795202826",
+  "nr": 10112,
+  "nr_gammalt": 9172,
+  "batch_gammal": "k_02c",
+  "avvisningsskal": "r3: två varianter med olika pris (default title 10 239 kr och l / must 9 509 kr, samma sku). samma modell och färg finns dessutom som utkast-/draftprodukten 10474077847818 (draft).",
+  "titel_nu": "Cykel ROMET Art Deco Lux, med främre korg, svart",
+  "tags": [
+   "Cykelkorg",
+   "Damcyklar",
+   "Romet",
+   "Velomarket"
+  ]
+ },
+ {
+  "id": "10471064273162",
+  "nr": 10113,
+  "nr_gammalt": 9194,
+  "batch_gammal": "k_02d",
+  "avvisningsskal": "r3: titeln anger färgen vit, men produkten har två varianter med olika pris (default title 6 749 kr, l / valge 5 869 kr).",
+  "titel_nu": "Cykel ROMET Vintage Eco D, vit",
+  "tags": [
+   "Damcyklar",
+   "Romet",
+   "Velomarket"
+  ]
+ },
+ {
+  "id": "10472297300234",
+  "nr": 10114,
+  "nr_gammalt": 9197,
+  "batch_gammal": "k_02d",
+  "avvisningsskal": "r3: titeln anger färgen gul, men produkten har två varianter med olika pris (default title 9 979 kr, m / yellow 8 679 kr).",
+  "titel_nu": "Cykel ROMET Vintage LTD D, gul",
+  "tags": [
+   "cykel",
+   "Damcyklar",
+   "Romet",
+   "Velomarket"
+  ]
+ },
+ {
+  "id": "10472332099850",
+  "nr": 10115,
+  "nr_gammalt": 9209,
+  "batch_gammal": "k_02e",
+  "avvisningsskal": "r3: två varianter med olika pris (default title 11 309 kr mot m / red 9 839 kr, verifierat live); titeln anger färgen röd. källan har dessutom bara storlek l (21\").",
+  "titel_nu": "Herrcykel ROMET Wagant 7, röd",
+  "tags": [
+   "Cyklar",
+   "Herrcykel",
+   "Romet",
+   "Velomarket"
+  ]
+ },
+ {
+  "id": "10472258011402",
+  "nr": 10116,
+  "nr_gammalt": 9213,
+  "batch_gammal": "k_02e",
+  "avvisningsskal": "r3: två varianter med olika pris (default title 8 549 kr mot xl / hall 7 439 kr, samma sku 28230568-a); titeln anger grå-blå, varianten \"hall\" motsäger.",
+  "titel_nu": "Hybridcykel ROMET Wagant 1, grå-blå",
+  "tags": [
+   "Cyklar",
+   "Hybridcykel",
+   "På beställning",
+   "Romet",
+   "Velomarket"
+  ]
+ },
+ {
+  "id": "10472292090122",
+  "nr": 10117,
+  "nr_gammalt": 9230,
+  "batch_gammal": "k_02f",
+  "avvisningsskal": "r3: två varianter med olika pris (default title 9 479 kr och xl / blue 8 239 kr, samma sku tab23-3020); titeln anger svart-grön men varianten heter blue och källan nämner ingen färg; ramstorlekarna m och l i källan stämmer inte med varianten xl.",
+  "titel_nu": "Herrcykel TABOU KINETIC 1.0, 28\" svart-grön",
+  "tags": [
+   "Cyklar",
+   "Herrcykel",
+   "Tabou",
+   "Velomarket"
+  ]
+ },
+ {
+  "id": "10472227209482",
+  "nr": 10118,
+  "nr_gammalt": 9320,
+  "batch_gammal": "k_04a",
+  "avvisningsskal": "färgen väljs i kommentarsfältet vid beställning, annars slumpas den (obs-rad i källan). beskrivningen kan inte ersättas utan att instruktionen försvinner, och hur färgval ska hanteras (variant eller text) är inte beslutat. källan är i övrigt tunn (1 led, 2 lägen, batteridrivet). tidigare underkänd (",
+  "titel_nu": "Ljussats M-Wave Cobra, olika färger",
+  "tags": [
+   "Cykelbelysning",
+   "Cykellampor",
+   "M-Wave",
+   "Velomarket"
+  ]
+ },
+ {
+  "id": "10471174668554",
+  "nr": 10119,
+  "nr_gammalt": 9416,
+  "batch_gammal": "k_07a",
+  "avvisningsskal": "två varianter (273 och 275) utan beskrivning av vad som skiljer dem; titeln anger 'vita prickar' och källan nämner inget mönster/färg per variant, så titeln kan inte styrkas för båda (r3). setinnehåll (8 stora, 4 små) gäller okänd variant.",
+  "titel_nu": "BOOKMAN Reflexklistermärken för cyklar, vita prickar",
+  "tags": [
+   "Bookman",
+   "Tillbehör",
+   "Velomarket"
+  ]
+ },
+ {
+  "id": "10665228075274",
+  "nr": 10120,
+  "nr_gammalt": 9417,
+  "batch_gammal": "k_07a",
+  "avvisningsskal": "tre varianter (520, 521, 522) med bara siffror som namn; källan säger bara 'flammönster' och titeln 'black flames' kan inte kopplas till en variant (r3).",
+  "titel_nu": "Reflekterande klistermärken för cykel BOOKMAN Reflective Stickers for Bicycles, Black Flames",
+  "tags": [
+   "Bookman",
+   "Tillbehör",
+   "Velomarket"
+  ]
+ }
+]

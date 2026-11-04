@@ -1,0 +1,249 @@
+[
+ {
+  "id": "10472239005962",
+  "nr": 10121,
+  "nr_gammalt": 9428,
+  "batch_gammal": "k_07b",
+  "avvisningsskal": "innerslang med motsägande dimension i egen källa: titeln anger etrto 37/47-559/597, beskrivningen 37-559 till 47-559/44-590. webbsökning (reifen.com, rubbex) visar att 597 respektive 590 hör till olika continental-varianter (hermetic plus mot all), så ingen entydig källa för exakt denna artikel (vmc",
+  "titel_nu": "Inner tube CONTINENTAL Tube Tour 26 Valve Presta 37/47-559/597",
+  "tags": [
+   "Continental",
+   "Slang",
+   "Slangar",
+   "Velomarket"
+  ]
+ },
+ {
+  "id": "10541369098506",
+  "nr": 10122,
+  "nr_gammalt": 9440,
+  "batch_gammal": "k_07b",
+  "avvisningsskal": "två varianter med oförklarade namn (490000099, 490000095, samma pris 109 kr) medan titeln anger svart/blå; efter att färgen strukits återstår bara \"passar flaskor på 500-750 ml\". underkänd tidigare som 8093 (r3, standard avsnitt 10). webbsökning gav ingen entydig källa.",
+  "titel_nu": "Flaskhållare GIANT Airway Sport Sidepull (L), Svart/Blå",
+  "tags": [
+   "Flaska & Hållare",
+   "Giant",
+   "Tillbehör",
+   "Velomarket"
+  ]
+ },
+ {
+  "id": "10472278163722",
+  "nr": 10123,
+  "nr_gammalt": 9502,
+  "batch_gammal": "k_08a",
+  "avvisningsskal": "hantlar christopeit 2 x 3 kg: två varianter (30-1872 för 439 kr och 30-1873 för 589 kr) och källan beskriver bara vinylhantelset 2 x 3 kg (r3, flera varianter med olika pris).",
+  "titel_nu": "Hantlar CHRISTOPEIT 2 x 3 kg, svart",
+  "tags": [
+   "Christopeit",
+   "Christopher",
+   "Konditionsträning & Fitness",
+   "Velomarket"
+  ]
+ },
+ {
+  "id": "10480054534410",
+  "nr": 10124,
+  "nr_gammalt": 9504,
+  "batch_gammal": "k_08a",
+  "avvisningsskal": "kettlebell christopeit 2 kg: tunn källa, samma allmänna reklamtext som 12 kg-varianten och inga entydiga fakta utöver vikten i titeln (r3 tunn källa).",
+  "titel_nu": "Sangpomm CHRISTOPEIT Kettlebell 2kg",
+  "tags": [
+   "Christopeit",
+   "Christopher",
+   "Kettlebell",
+   "Konditionsträning & Fitness",
+   "Velomarket"
+  ]
+ },
+ {
+  "id": "10480054599946",
+  "nr": 10125,
+  "nr_gammalt": 9505,
+  "batch_gammal": "k_08a",
+  "avvisningsskal": "kettlebell christopeit 4 kg: två varianter (21-2547 för 289 kr och 21-2548 för 489 kr) med olika pris, och källan anger inga vikter per variant (r3).",
+  "titel_nu": "Sangpomm CHRISTOPEIT Kettlebell 4kg",
+  "tags": [
+   "Christopeit",
+   "Christopher",
+   "Kettlebell",
+   "Konditionsträning & Fitness",
+   "Velomarket"
+  ]
+ },
+ {
+  "id": "10581111243018",
+  "nr": 10126,
+  "nr_gammalt": 9622,
+  "batch_gammal": "k_08e",
+  "avvisningsskal": "r3: titeln anger 1,25 kg men produkten har sju varianter (1,25–25 kg, 89–1 329 kr) och källan nämner bara 1,25 kg och ger inga mått, material eller hål; tunn källa med motsägelse mot varianterna.",
+  "titel_nu": "Viktskiva gummi 1,25kg / styck",
+  "tags": [
+   "Gymstick",
+   "Viktplattor"
+  ]
+ },
+ {
+  "id": "10581107343626",
+  "nr": 10127,
+  "nr_gammalt": 9636,
+  "batch_gammal": "k_09b",
+  "avvisningsskal": "r3: tio varianter (gt1.0, gt3.0, gt5.0, gt7.0, gt8.0, gt10.0, gtpr, pro15.0, pro25.0, wpad) med priser 6 999–49 999 kr och titeln låser gt1.0. källan är bara en marknadsföringstext utan en enda teknisk uppgift (mått, motor, hastighet), alltså ingen entydig fakta att bygga på.",
+  "titel_nu": "GT1.0 Treadmill",
+  "tags": [
+   "Gymstick",
+   "Löpband"
+  ]
+ },
+ {
+  "id": "10611424854282",
+  "nr": 10128,
+  "nr_gammalt": 9637,
+  "batch_gammal": "k_09b",
+  "avvisningsskal": "r3: fem varianter (gx3.0, gx6.0, gx8.0, gx9.0, pro20.0) med priser 5 499–28 999 kr och titeln låser gx3.0. källan är bara en marknadsföringstext utan en enda teknisk uppgift, alltså ingen entydig fakta att bygga på.",
+  "titel_nu": "GX3.0 Crosstrainer",
+  "tags": [
+   "Crosstrainers",
+   "Gymstick"
+  ]
+ },
+ {
+  "id": "10581112094986",
+  "nr": 10129,
+  "nr_gammalt": 9638,
+  "batch_gammal": "k_09b",
+  "avvisningsskal": "r3: två varianter (default 249 kr och spr 299 kr) utan förklaring av skillnaden. källan är bara marknadsföring (smörjolja som minskar friktion och förlänger livslängd) utan volym eller andra data; inga entydiga fakta utöver titeln.",
+  "titel_nu": "Treadmill Lubrication",
+  "tags": [
+   "Gymstick",
+   "Löpband"
+  ]
+ },
+ {
+  "id": "10472258404618",
+  "nr": 10130,
+  "nr_gammalt": 9639,
+  "batch_gammal": "k_09b",
+  "avvisningsskal": "dublett (r12a): samma modell gymstick workout gloves är redan skriven som nr 3241 (id 10581112783114, aktiv, texter-klara, varianter s/m och l/xl à 199 kr, c_skriv). denna velomarket-kopia (s/m, 449 kr) har dessutom tunn källa: förstärkt handflata och syntetiskt läder på handledsremmen samt storlek ",
+  "titel_nu": "Träningshandskar Gymstick Workout gloves S/M",
+  "tags": [
+   "Gymstick",
+   "Konditionsträning & Fitness",
+   "Velomarket"
+  ]
+ },
+ {
+  "id": "10472289075466",
+  "nr": 10131,
+  "nr_gammalt": 9645,
+  "batch_gammal": "k_09b",
+  "avvisningsskal": "r3: fem varianter (944481–944485) med priser 59–439 kr som bara har artikelnummer som namn; titeln låser blå, 30 mm och 10 kg. källan säger dessutom borrdiameter 29 mm, vilket motsäger 30 mm i titeln (r2). samma bedömning som a_3 nr 2310.",
+  "titel_nu": "Viktplatta SPOKEY Blå, 30 mm, 10 kg",
+  "tags": [
+   "Konditionsträning & Fitness",
+   "Spokey",
+   "Velomarket"
+  ]
+ },
+ {
+  "id": "10611413647626",
+  "nr": 10132,
+  "nr_gammalt": 9883,
+  "batch_gammal": "k_11d",
+  "avvisningsskal": "två varianter med oförklarade namn (\"0\" 7 479 kr, \"default\" 309 kr) och mycket olika pris; källan är bara marknadsföring och anger ingen lastgräns för ett rack som bär hantlar (r3, standard §10).",
+  "titel_nu": "2-Layer Rack for Dumbbells",
+  "tags": [
+   "Gymstick"
+  ]
+ },
+ {
+  "id": "10611414958346",
+  "nr": 10133,
+  "nr_gammalt": 9886,
+  "batch_gammal": "k_11d",
+  "avvisningsskal": "tjugo varianter med koder (ab, bb, hg4.0 m.fl.) och priser från 1 119 till 15 589 kr; källan förklarar dem inte och beskriver en bänk med last. går inte att skriva så att texten stämmer för alla varianter (r3).",
+  "titel_nu": "AbBench",
+  "tags": [
+   "Gymstick"
+  ]
+ },
+ {
+  "id": "10581105672458",
+  "nr": 10134,
+  "nr_gammalt": 9898,
+  "batch_gammal": "k_11d",
+  "avvisningsskal": "titeln låser 45 cm, men produkten har två varianter (45 cm 349 kr och 90 cm 599 kr). källan stämmer inte med titeln (r3).",
+  "titel_nu": "Core Roller 45cm",
+  "tags": [
+   "Gymstick"
+  ]
+ },
+ {
+  "id": "10581105803530",
+  "nr": 10135,
+  "nr_gammalt": 9904,
+  "batch_gammal": "k_11e",
+  "avvisningsskal": "dipsstation som bär hela kroppsvikten på väggstege. sex varianter (db, ps, sa, 22s, 22ws, wb) med priser 899-2999 kr utan förklaring av koderna; ingen lastgräns eller monteringsuppgift i källan (r3, r4).",
+  "titel_nu": "Dip Station for Wall Bars",
+  "tags": [
+   "Gymnastik",
+   "Gymstick"
+  ]
+ },
+ {
+  "id": "10581106491658",
+  "nr": 10136,
+  "nr_gammalt": 9906,
+  "batch_gammal": "k_11e",
+  "avvisningsskal": "titeln låser 10 kg men produkten har sju varianter (0, 5, 7,5, 10, 15, 20, 30) med priserna 699-2999 kr, varav varianten \"0\" kostar 2999 kr. källan nämner inga vikter eller mått (r3).",
+  "titel_nu": "Fitness Bag 10kg",
+  "tags": [
+   "Gymstick"
+  ]
+ },
+ {
+  "id": "10581104230666",
+  "nr": 10137,
+  "nr_gammalt": 9914,
+  "batch_gammal": "k_11e",
+  "avvisningsskal": "oklart vad produkten är: källan säger \"justerbart handtag\" som anpassar \"motståndet och greppet\", utan typ, mått eller material. varianterna l och s förklaras inte (r2, r3).",
+  "titel_nu": "Justerbart handtag, lätt",
+  "tags": [
+   "Greppträning",
+   "Gymstick"
+  ]
+ },
+ {
+  "id": "10581108818186",
+  "nr": 10138,
+  "nr_gammalt": 9922,
+  "batch_gammal": "k_11e",
+  "avvisningsskal": "förvaringsställ med två varianter (a 469 kr, f 399 kr) som källan inte förklarar; antal mattor, mått, material och montering/bärighet saknas (r3). ett entydigt faktum (justerbart).",
+  "titel_nu": "Mat Rack - Adjustable",
+  "tags": [
+   "Gymstick"
+  ]
+ },
+ {
+  "id": "10581109768458",
+  "nr": 10139,
+  "nr_gammalt": 9925,
+  "batch_gammal": "k_11e",
+  "avvisningsskal": "titeln låser 180 cm men produkten har tre varianter (default 799 kr, sl 149 kr, g 129 kr) som källan inte förklarar; källan saknar mått och material (r3).",
+  "titel_nu": "Powerslider Basic 180cm",
+  "tags": [
+   "Gymstick"
+  ]
+ },
+ {
+  "id": "10581112520970",
+  "nr": 10140,
+  "nr_gammalt": 9940,
+  "batch_gammal": "k_11f",
+  "avvisningsskal": "walkingpad core har 5 varianter (cr, eli, mv, pro, hrl) med priserna 899–11 499 kr, vilket tyder på olika modeller eller tillbehör, och källan har bara reklamord (tyst motor, hopfällbar, kompakt) utan mått, hastighet, motoreffekt eller lastgräns. fitness: lastgräns/maxvikt saknas (r3, r4).",
+  "titel_nu": "WalkingPad Core",
+  "tags": [
+   "Gymstick"
+  ]
+ }
+]
