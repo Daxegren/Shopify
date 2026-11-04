@@ -19,3 +19,6 @@ Skriven av samordnaren (grenen `claude/oversikt-samordnare`). Öppna frågor i p
 - Filnamnskrockar mellan grenarna: `beslut-2026-11-04-7.md` finns på fem grenar och på huvudgrenen, `-5` på Alpha Zoo och huvudgrenen (S11).
 - Alpha Zoo-grenen ändrade `regler-v1.md` (rubrik till v1.5 och R20/R21) medan BOS-grenen redan har ett eget v1.5-avsnitt. Måste sammanföras i regelboken (uppgift 2).
 - Dubbelarbete: B You gjordes av två sessioner; Alpha Zoo-sessionens filer är huvudspår.
+
+## Sammanslagning (2026-11-04 kväll, Davids ja på S11)
+Alla åtta butiksgrenar är sammanslagna in i `claude/oversikt-samordnare` med `shopify-sync/scripts/samordna_sammanslagning.sh`; grenarna själva är oförändrade. Ingen pull request, main orörd. Loggfilerna i `docs/` har båda sidors rader. Filer med samma namn: `rapporter/beslut-2026-11-04-7-<butik>.md` (byou, gorillasports, hyprnutrition, mondido, tothemoon, workoutbrands), `beslut-2026-11-04-5-alphazoo.md` och `shopify-sync/scripts/offentlig_inventering-<butik>.py` (gorillasports, workoutbrands; Alpha Zoos version behåller namnet). Kvarstår: två B You-profiler (S6) och att kontrollskriptet stoppar på profiler med TODO i standardblocket (B You, HYPR).
