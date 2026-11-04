@@ -158,5 +158,13 @@
   "status": "öppen",
   "kalla": "Översikt (samordnare)",
   "last_upp_sessioner": 1
+ },
+ {
+  "id": "S12",
+  "datum": "2026-11-04",
+  "fraga": "CLAUDE.md: ok att lägga in en rad som förbjuder switch-shop/get-shop-info mot annan butik än sessionens egen (hände i sex av nio sessioner trots lärdomsposter)? Rekommendation: ja. Utan det upprepas felet i nästa butikssession",
+  "status": "öppen",
+  "kalla": "Översikt (samordnare)",
+  "last_upp_sessioner": 9
  }
 ]

@@ -197,3 +197,7 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 ## 2026-11-04: Shopify-verktygets koppling delas mellan sessioner och pekar på en butik åt gången
 - Vad hände: Sju nya sessioner startades parallellt för olika butiker. Flera körde `switch-shop`, vilket återkallade åtkomsten till BEST OF SPORTS för den delade kopplingen och krävde ny inloggning av David vid varje butiksbyte. Parallella sessioner via verktyget går därför inte.
 - Regel: Läs och skriv butiker via Admin API med en app per organisation (token hämtas i minnet per körning, adress per butik), inte via Shopify-verktygets `switch-shop`. Verktyget duger för en butik i en session, aldrig för flera parallellt. Starta aldrig flera butikssessioner innan åtkomsten per butik är ordnad.
+
+## 2026-11-04: Tre sessioner numrerade regelboken v1.5 oberoende av varandra (samordnaren)
+- **Vad hände:** BEST OF SPORTS-sessionen hade ett eget v1.5-avsnitt, Alpha Zoo-sessionen skrev om rubriken till v1.5 med R20/R21, och en tredje version v1.6 lades till. Sammanslagning hade gett konflikt och två olika v1.5.
+- **Regel:** butikssessioner föreslår regler i sin rapport eller i ett eget utkast; bara samordnaren numrerar och för in dem i `regler-v1.md`. Regler som skriptet kan testa läggs samtidigt som test i `skrivfil_kontroll.py`.

@@ -16,17 +16,26 @@ FORBJUDET = [
     (r'Maximum (operating|user) weight', 'engelsk maxviktsrad kvar'),
     (r'Load (capacity|range)', 'engelsk lastrad kvar'),
 ]
+MARKEN_VERSALER = []   # märken vars egen stavning är versaler (R21), ur profilen
+PAASTAENDEORD_EXTRA = []  # butiksspecifika riskord (R22), ur profilen; ger FEL utan "enligt tillverkaren"
+META_UTFYLLNAD = ['Finns hos BEST OF SPORTS.']  # utfyllnad som ska rensas, ur profilen (meta_utfyllnad)
+PAASTAENDEORD = r'\b(slitstark\w*|robust\w*|halkfri\w*|halkskydd\w*|stödjer|skyddar)\b'  # R5
 BLOCK_KRAV = ['Leverans, retur och garanti', 'Frakt och leverans', 'Retur:', 'Reklamation:', 'Säljare:', 'info@bestofsports.se']
 
 
 def las_profil(path):
     """Läser märken och standardblock ur butiksprofilen; faller tillbaka på standardvärdena ovan."""
-    global MARKEN, MARKEN_VARNING, BLOCK_KRAV
+    global MARKEN, MARKEN_VARNING, BLOCK_KRAV, MARKEN_VERSALER, PAASTAENDEORD_EXTRA, META_UTFYLLNAD
     if path and os.path.exists(path):
         p = json.load(open(path, encoding='utf-8'))
         MARKEN = p.get('marken', MARKEN)
         MARKEN_VARNING = p.get('marken_varning_bara', MARKEN_VARNING)
         BLOCK_KRAV = p.get('standardblock_krav', BLOCK_KRAV)
+        MARKEN_VERSALER = p.get('marken_versaler', MARKEN_VERSALER)
+        PAASTAENDEORD_EXTRA = p.get('paastaendeord_extra', PAASTAENDEORD_EXTRA)
+        META_UTFYLLNAD = p.get('meta_utfyllnad', META_UTFYLLNAD)
+        if not isinstance(BLOCK_KRAV, list):  # profilen kan ha en TODO-text i stället för en lista
+            sys.exit('Profilen saknar standardblock_krav som lista (fyll i profilen innan kontroll)')
 
 
 def las_sparr(path):
@@ -71,6 +80,15 @@ def kontrollera(fil, sparr, tillat_kanda):
             for k in ('titel', 'seo_title'):
                 if x.get(k) and re.search(r'\b' + re.escape(m.upper()) + r'\b', x[k]) and m.upper() != m:
                     (v if m in MARKEN_VARNING else f)(f'märket {m} i versaler i {k}')
+        for m in MARKEN_VERSALER:  # R21: butikens egen stavning gäller
+            for k in ('titel', 'seo_title'):
+                if x.get(k) and re.search(r'\b' + re.escape(m) + r'\b', x[k], re.I) and not re.search(r'\b' + re.escape(m) + r'\b', x[k]):
+                    f(f'märket {m} ska skrivas i versaler i {k} (R21)')
+        rt = x.get('html') or ''
+        if 'enligt tillverkaren' not in text.lower():  # R5/R22: påståendeord kräver "enligt tillverkaren"
+            for pat, hur in ((PAASTAENDEORD, v), ('|'.join(r'\b' + re.escape(w) + r'\w*' for w in PAASTAENDEORD_EXTRA), f)):
+                if pat and (mo := re.search(pat, text, re.I)):
+                    hur(f'påståendeord "{mo.group(0)}" utan "enligt tillverkaren" (R5/R22)')
         for rad in re.findall(r'<li>[^<:]{1,40}: ([a-zåäö]{3,})\b', x.get('html') or ''):
             f('liten bokstav efter kolon i specifikationsrad'); break
         for krav in BLOCK_KRAV:
@@ -83,8 +101,9 @@ def kontrollera(fil, sparr, tillat_kanda):
         if x.get('meta') and not 70 <= len(x['meta']) <= 155: f(f'meta {len(x["meta"])} tecken (70–155)')
         if not x.get('meta'): v('meta saknas (null)')
         mt = x.get('meta') or ''
-        if mt.endswith('Finns hos BEST OF SPORTS.') and len(mt) - len('Finns hos BEST OF SPORTS.') - 1 >= 70:
-            v('meta slutar med utfyllnaden "Finns hos BEST OF SPORTS." fast den redan är över 70 tecken (R12); rensas i butiken när API-vägen finns')
+        for ut in META_UTFYLLNAD:
+            if ut and mt.endswith(ut) and len(mt) - len(ut) - 1 >= 70:
+                v(f'meta slutar med utfyllnaden "{ut}" fast den redan är över 70 tecken (R12); rensas i butiken när API-vägen finns')
         for k in ('titel', 'seo_title', 'meta'):
             if x.get(k) and c[k][x[k]] > 1:
                 f(f'dubblett av {k} inom filen')
