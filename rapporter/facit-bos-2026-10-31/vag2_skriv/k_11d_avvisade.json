@@ -1,0 +1,52 @@
+[
+ {
+  "id": "10611413647626",
+  "nr": 9883,
+  "skäl": "Två varianter med oförklarade namn (\"0\" 7 479 kr, \"Default\" 309 kr) och mycket olika pris; källan är bara marknadsföring och anger ingen lastgräns för ett rack som bär hantlar (R3, standard §10)."
+ },
+ {
+  "id": "10581102035210",
+  "nr": 9884,
+  "skäl": "Hängande redskap (remmar för crunch i stång) utan lastgräns i den svenska källan. Webbsidan anger 80 kg bara på engelska, vilket utelämnas (R4), och materialuppgifterna där motsäger varandra. Tunn källa utan fakta att bygga på."
+ },
+ {
+  "id": "10611414958346",
+  "nr": 9886,
+  "skäl": "Tjugo varianter med koder (AB, BB, HG4.0 m.fl.) och priser från 1 119 till 15 589 kr; källan förklarar dem inte och beskriver en bänk med last. Går inte att skriva så att texten stämmer för alla varianter (R3)."
+ },
+ {
+  "id": "10581104394506",
+  "nr": 9888,
+  "skäl": "Titeln säger Golvstativ men produkten har två varianter: FS (golvstativ, 4 539 kr) och WM (troligen väggmontering, 829 kr). Källan stämmer inte med titeln (R3). Hängande/bärande redskap utan lastgräns i källan."
+ },
+ {
+  "id": "10581104427274",
+  "nr": 9889,
+  "skäl": "Titeln låser färgen Svart-Röd, men produkten har tre varianter (BL, BLU, PI) som inte förklaras och kan vara andra färger. Källan stämmer inte med titeln (R3)."
+ },
+ {
+  "id": "10581105901834",
+  "nr": 9891,
+  "skäl": "Armbågsstöd med stöd- och kompressionspåståenden; källan innehåller inga mått, material eller andra entydiga fakta utöver titeln (R3, tunn källa) och webbsidan hittades inte. Skyddsprodukt, risk för hälsopåståenden."
+ },
+ {
+  "id": "10581104754954",
+  "nr": 9892,
+  "skäl": "Titeln säger Large/Extra Large men produkten har även varianten S/M. Källan stämmer inte med titeln (R3). Ryggstöd med skydd- och hälsopåståenden och tunn källa."
+ },
+ {
+  "id": "10581104853258",
+  "nr": 9895,
+  "skäl": "Nackskydd för tunga lyft: källan består av skydds- och trycklättnadspåståenden utan mått eller material (tunn källa, R3, R5). Bär last över nacken; ingen webbkälla funnen. Liknande nackskydd underkändes av granskare tidigare."
+ },
+ {
+  "id": "10581104918794",
+  "nr": 9896,
+  "skäl": "Nackskydd (Pro) för tunga lyft: samma skäl som 9895. Källan har bara skydds-, säkerhets- och stötdämpningspåståenden utan fakta (R3, R5)."
+ },
+ {
+  "id": "10581105672458",
+  "nr": 9898,
+  "skäl": "Titeln låser 45 cm, men produkten har två varianter (45 cm 349 kr och 90 cm 599 kr). Källan stämmer inte med titeln (R3)."
+ }
+]

@@ -1,0 +1,477 @@
+[
+ {
+  "nr": 9826,
+  "id": "10636618858762",
+  "fil": "k_11b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart ur egen källa (krom, 130 cm, 8 kg, 30 mm, 91 cm, 19,5 cm, 30/31 mm, två stjärnlås). \"Maximal belastning: 150kg\" är en svensk etiketterad rad och står en gång enligt tillverkaren. Effekt- och säkerhetsord strukna."
+ },
+ {
+  "nr": 9827,
+  "id": "10636618498314",
+  "fil": "k_11b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart; skiljer sig från 9826 i färg och lås (fjäderlås). Lastgräns 150 kg en gång enligt tillverkaren."
+ },
+ {
+  "nr": 9828,
+  "id": "10636728795402",
+  "fil": "k_11b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart; den entydiga raden \"Två fjäderlås\" används före löptextens felstavade \"Fjärdelås\". \"Diameter: 50mm\" återges oförändrad som i live-titeln. Lastgräns 272 kg en gång enligt tillverkaren."
+ },
+ {
+  "nr": 9829,
+  "id": "10636669780234",
+  "fil": "k_11b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Deadlift Wedge är en marklyftskil i silikon som levereras i par.",
+    "efter": "Marklyftskilen Deadlift Wedge är gjord av silikon och levereras i par."
+   }
+  },
+  "skal": "Cirkulär inledning (R11): \"Deadlift Wedge är en marklyftskil\" är samma mönster som \"Speed Rope är ett hopprep\" i k_10. Övrigt spårbart (silikon, ramp, hål för skruv, 32 x 4,5 cm, 15,5 cm, 0,4 kg, par). Typordet Marklyftskil stöds av källans \"kilen\" och butikens tagg; Deadlift Wedge är produktnamn. \"Obegränsad belastning\" rätt utelämnad; \"halkfri design\" ordagrant, en gång enligt tillverkaren."
+ },
+ {
+  "nr": 9830,
+  "id": "10636621218058",
+  "fil": "k_11b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (polyester och silikon, 37 x 13 cm, parvis, svart, inbyggt handledsstöd). \"Halkfri användning\" ordagrant, en gång enligt tillverkaren; stödord och showroom strukna."
+ },
+ {
+  "nr": 9831,
+  "id": "10636622987530",
+  "fil": "k_11b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (bomull, 56 x 4 cm, svart med vitt silikon, en storlek, parvis). \"Halkfria\" ordagrant, en gång enligt tillverkaren."
+ },
+ {
+  "nr": 9832,
+  "id": "10636719194378",
+  "fil": "k_11b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart. Lasten anges entydigt per del (\"300kg vardera\"), svensk etiketterad rad, en gång enligt tillverkaren. Produkten bär viktskivor, inte kroppen."
+ },
+ {
+  "nr": 9833,
+  "id": "10636730499338",
+  "fil": "k_11b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Gravity Boots Six Pack är en magtränare som sätts runt vristerna och hakas fast på en stång med massiva stålkrokar.",
+    "efter": "Magtränaren Gravity Boots Six Pack sätts runt vristerna och hakas fast på en stång med massiva stålkrokar."
+   }
+  },
+  "skal": "Får skrivas: produkten bär hela kroppen hängande, men källan har en svensk etiketterad rad med enhet (\"Maximal belastning: 250kg\") som gäller produkten entydigt; den står en gång enligt tillverkaren (R4). Texten ger inga användnings-, hälso- eller säkerhetsråd, och ryggpåståendena (\"avlasta spänning i rygg och räta ut ryggraden\") är strukna. Rättning: cirkulär inledning i html (R11). Meta har verb och är inte cirkulär. Vikten 2,5 kg rätt utelämnad."
+ },
+ {
+  "nr": 9834,
+  "id": "10636677710090",
+  "fil": "k_11b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tre prisvarianter (Small 299, Medium och Large 319 kr); titeln anger spannet och texten gäller alla. Storleksmåtten ur egen källa. \"Optimalt skydd\" och \"högkvalitativt\" strukna."
+ },
+ {
+  "nr": 9835,
+  "id": "10636743541002",
+  "fil": "k_11b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Åtta prisvarianter; texten gäller alla. Prisavvikelse till David (inte ett textfel): 25 kg kostar 2919 kr men 30 kg 2899 kr, och 20 kg 2439 kr men 15 kg 2459 kr. \"Höghållfast\" struket."
+ },
+ {
+  "nr": 9836,
+  "id": "10636745507082",
+  "fil": "k_11b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart; motstånd i kg är inte lastgräns (R4)."
+ },
+ {
+  "nr": 9837,
+  "id": "10636748390666",
+  "fil": "k_11b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart; den tveksamma måttraden rätt utelämnad (R2). \"Fjäderbelastad griptång\" är källans beskrivning, inte en cirkulär inledning."
+ },
+ {
+  "nr": 9838,
+  "id": "10636682658058",
+  "fil": "k_11b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Handledsvikten är en viktmanchett som kan användas som handledsvikt, fotledsvikt och ankelvikt.",
+    "efter": "Viktmanchetten kan användas som handledsvikt, fotledsvikt och ankelvikt."
+   }
+  },
+  "skal": "Cirkulär inledning (R11): \"Handledsvikten är en viktmanchett som kan användas som handledsvikt\". Fyra prisvarianter (169–359 kr) täcks av spannet; mått per vikt ur egen källa. Effektord (\"göra underverk\") rätt strukna."
+ },
+ {
+  "nr": 9839,
+  "id": "10636717195530",
+  "fil": "k_11b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart; lastgräns 250 kg svensk etiketterad rad, en gång enligt tillverkaren. \"Optimalt grepp\" struket."
+ },
+ {
+  "nr": 9840,
+  "id": "10636708086026",
+  "fil": "k_11b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart; totalvikten 20 kg stämmer med komponenterna. Motsägelsen 25/26 mot 25/25 mm löst med komponentlistans 25 mm."
+ },
+ {
+  "nr": 9841,
+  "id": "10636669092106",
+  "fil": "k_11b_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Bärande reservdel utan maskin i vår butik: hjulen ska bära vajern i en latsdrags- eller kabelmaskin, och källan anger bara användningsområden som länkar till produkter hos gorillasports.se (kabelhiss-for-latsdrag-och-rodd m.fl.) som inte finns i BEST OF SPORTS. Axel- och spårmått saknas, så passformen kan inte styrkas. Samma skäl som avvisade 9844/9845; avgörs i samma beslut av David om bärande reservdelar."
+ },
+ {
+  "nr": 9842,
+  "id": "10636743672074",
+  "fil": "k_11b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Indian Clubbells tillhör en kategori av träningsredskap som är formade som ett basebollträ och svingas i olika mönster. Den här är av massivt",
+    "efter": "Indian Clubbell är formad som ett basebollträ och svingas i olika mönster. Den är av massivt"
+   }
+  },
+  "skal": "Inledningen var en omskrivning av källans allmänna kategorimening (\"tillhör en kategori av träningsredskap\") och sa inget om produkten; rättad till en mening om produkten. Åtta prisvarianter (399–2019 kr) täcks av spannet och tabellen per vikt stämmer tecken för tecken med källan. Diameterspannet 3,8–8,6 cm (motsäger tabellens 8,5) rätt utelämnat (R2)."
+ },
+ {
+  "nr": 9843,
+  "id": "10636709232906",
+  "fil": "k_11b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart; summan av vikterna 77 kg stämmer. Tabellen följer den egna källan (inte 9842). Effektord strukna."
+ },
+ {
+  "nr": 9846,
+  "id": "10636725715210",
+  "fil": "k_11b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Får skrivas: bärande tillbehör utan lastgräns i källan, men texten anger eller antyder ingen bärförmåga (§16.3), och karbinhakar är ett fristående tillbehör, inte en reservdel till en viss maskin. \"Robusta\" och \"passar alla Gorilla Sport grepp\" rätt strukna."
+ },
+ {
+  "nr": 9847,
+  "id": "10636602048778",
+  "fil": "k_11b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Landmine Fäste",
+    "efter": "Landmine-fäste"
+   },
+   "seo_title": {
+    "fore": "Landmine Fäste",
+    "efter": "Landmine-fäste"
+   }
+  },
+  "skal": "Typord (R7, v1.5): källan och live-titeln skriver \"Landmine-fäste\" med bindestreck; typord med bindestreck har liten bokstav efter bindestrecket och R7 går före format_regler. \"T-Bar\" ur live-titeln utelämnas med rätta (källtexten nämner bara landmine-fäste). Övrigt spårbart; friktionen mot golvet står en gång enligt tillverkaren, \"skyddar golv och stång\" struket."
+ },
+ {
+  "nr": 9848,
+  "id": "10636680429834",
+  "fil": "k_11b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Lifting Hooks är två svarta stålkrokar",
+    "efter": "Lifting Hooks består av två svarta stålkrokar"
+   },
+   "html": {
+    "fore": "Lifting Hooks, även kallade Grip Hooks, är svarta stålkrokar som spänns fast",
+    "efter": "Lifting Hooks, även kallade Grip Hooks, består av svarta stålkrokar som spänns fast"
+   }
+  },
+  "skal": "Får skrivas: källan anger lasten entydigt per krok (\"Maximal belastning: 100kg(2x50kg)\"), svensk etiketterad rad, en gång enligt tillverkaren. Källan nämner själv chinsstång. Rättning: \"Lifting Hooks är ... stålkrokar\" i meta och html är samma översättningsmönster som \"Speed Rope är ett hopprep\" (R11). Effektord (avlastar underarmarna) rätt strukna."
+ },
+ {
+  "nr": 9849,
+  "id": "10636623905034",
+  "fil": "k_11b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart. Två olika lastgränser (ab roller och armhävningsstänger), båda svenska etiketterade rader, var sin gång enligt tillverkaren (totalt två, R5). Armhävningsstängerna används som en enhet där kroppsvikten fördelas, så värdet får stå som i källan."
+ },
+ {
+  "nr": 9850,
+  "id": "10636676432138",
+  "fil": "k_11b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Sex prisvarianter (färg och höjd); texten låser ingen variant. Prisfråga till David: orange kostar mer än gul i samma höjd (23 cm 299 mot 259 kr, 30 cm 509 mot 429 kr), 17 cm lika. \"Slitstark\" och synlighetspåståenden strukna."
+ },
+ {
+  "nr": 9851,
+  "id": "10636714344714",
+  "fil": "k_11c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (syntetiskt läder, 40 x 20 x 9,5–15 cm, två spännen och grepp, säljs en och en). Skydds- och hållbarhetsord strukna."
+ },
+ {
+  "nr": 9852,
+  "id": "10636721553674",
+  "fil": "k_11c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Får skrivas: källan anger ingen lastgräns och texten antyder ingen. Produkten bärs på huvudet med viktskivor i kedjan men hänger inte kroppen. Effektpåståenden strukna."
+ },
+ {
+  "nr": 9853,
+  "id": "10636673909002",
+  "fil": "k_11c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Får skrivas: gymringarna används som en enhet och \"Maximal belastning: 200kg\" är en svensk etiketterad rad som gäller produkten; den står en gång enligt tillverkaren. Två prisvarianter (Trä 769 kr, Svart 579 kr) täcks av \"Trä eller Plast\". Ringarnas vikt rätt utelämnad."
+ },
+ {
+  "nr": 9854,
+  "id": "10636705792266",
+  "fil": "k_11c_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Hela kroppen hänger i produkten (rygg- och greppträning på väggmonterad bräda), men källan anger ingen lastgräns, inget underlag för montering och bara \"fyra skruv\". Texten kan inte säga något om bärförmåga, och en ren måttbeskrivning av en väggmonterad hängprodukt utan lastgräns bör inte skrivas förrän David beslutat principen för hängande produkter utan lastgräns. Live-texten (utan lastgräns eller säkerhetslöften) står kvar."
+ },
+ {
+  "nr": 9855,
+  "id": "10636731056394",
+  "fil": "k_11c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Maximal belastning: 80 kg (enligt tillverkaren)</li>\n",
+    "efter": ""
+   }
+  },
+  "skal": "Lastgränsen stryks (R4: \"oklar → utelämna helt\"). Power Hooks säljs parvis och varje krok bär en egen hantel, men källan säger inte om 80 kg gäller per krok eller per par; läses den fel tillåts dubbel last per krok. Texten antyder därefter ingen bärförmåga. Övrigt spårbart (kardborre, gummibelagd ände, handtag minst 12 cm och högst 3 cm, svart och krom, parvis)."
+ },
+ {
+  "nr": 9856,
+  "id": "10636742983946",
+  "fil": "k_11c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "finns i sex vikter från 5 till 30 kg och i sex färger.",
+    "efter": "finns i sex vikter från 5 till 30 kg."
+   },
+   "html": [
+    {
+     "fore": "finns i sex vikter från 5 till 30 kg och i sex färger.",
+     "efter": "finns i sex vikter från 5 till 30 kg."
+    },
+    {
+     "fore": "<li>Färger: Svart, grön, gul, blå, röd och orange</li>\n",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Varianterna är bara vikter (5–30 kg, 779–1199 kr); färg går inte att välja. Källan säger \"sex olika färger i sex olika vikter\", alltså troligen en färg per vikt, men anger inte vilken. \"Finns i sex färger\" och färglistan antyder ett val som inte finns och stryks (R3). Övrigt spårbart; vikterna är fyllnadsmängd, inte lastgräns (R4)."
+ },
+ {
+  "nr": 9857,
+  "id": "10636635570442",
+  "fil": "k_11c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Två prisvarianter (20 kg 999 kr, 30 kg 1399 kr); texten anger båda. Metallsand ur specifikationsraden. Kvalitetsord strukna."
+ },
+ {
+  "nr": 9858,
+  "id": "10636640321802",
+  "fil": "k_11c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Får skrivas: kroppen hänger i produkten, men källan anger samma värde i löptext och etiketterad rad (\"Max tillåten vikt: 100kg\"), en gång enligt tillverkaren. Texten säger inget om ribbstolens bärförmåga."
+ },
+ {
+  "nr": 9859,
+  "id": "10636747637002",
+  "fil": "k_11c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Push Up Bars är handtag för armhävningar, gjorda av stål i krom och svart.",
+    "efter": "Handtagen Push Up Bars för armhävningar är gjorda av stål i krom och svart."
+   }
+  },
+  "skal": "Cirkulär inledning (R11): \"Push Up Bars är handtag för armhävningar\". Maxlast \"150kg vardera\" anger entydigt per del och står en gång enligt tillverkaren. Hälsopåståenden om handleder rätt strukna."
+ },
+ {
+  "nr": 9860,
+  "id": "10636623216906",
+  "fil": "k_11c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart. Lasten anges per grepp (entydigt). Två gånger enligt tillverkaren för två olika påståenden (halkfria gummifötter, 300 kg per grepp)."
+ },
+ {
+  "nr": 9861,
+  "id": "10636669550858",
+  "fil": "k_11c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Push Up Board 9in1 är en bräda i plast på 61 x 23,5 x 2 cm med två handtag och nio positioner.",
+    "efter": "Push Up Board 9in1 är gjord av plast, mäter 61 x 23,5 x 2 cm och har två handtag och nio positioner."
+   },
+   "html": {
+    "fore": "Push Up Board 9in1 är en armhävningsbräda i plast med två handtag och nio olika positioner.",
+    "efter": "Armhävningsbrädan Push Up Board 9in1 är gjord av plast och har två handtag och nio olika positioner."
+   }
+  },
+  "skal": "Cirkulär inledning (R11) i meta och html: \"Push Up Board ... är en (armhävnings)bräda\". Maxlast 200 kg gäller en enda bräda, svensk etiketterad rad, en gång enligt tillverkaren. Muskelgruppspåståendet rätt struket."
+ },
+ {
+  "nr": 9862,
+  "id": "10636697993482",
+  "fil": "k_11c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typbytet till Armhävningshandtag stöds av källtexten (R7). Lastgränsen 200 kg får stå: handtagen används som en enhet där kroppsvikten fördelas, och raden är svensk med etikett och enhet. Hälsopåståenden om handleder strukna."
+ },
+ {
+  "nr": 9863,
+  "id": "10636625084682",
+  "fil": "k_11c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart. \"Fri från BPA/DEHP\" ordagrant, en gång enligt tillverkaren; \"piller\" och \"klarar -10°\" rätt strukna."
+ },
+ {
+  "nr": 9864,
+  "id": "10636704973066",
+  "fil": "k_11c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart; lastkapacitet 150 kg svensk etiketterad rad, en gång enligt tillverkaren. Effektord strukna."
+ },
+ {
+  "nr": 9865,
+  "id": "10636709986570",
+  "fil": "k_11c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn men spårbar källa (Smithmaskin Extended PRO, mjukt vadderat, 7,5 kg, svart). Typord med bindestreck och liten bokstav (R7). \"Robust\" och \"högkvalitativt\" strukna."
+ },
+ {
+  "nr": 9866,
+  "id": "10636654543114",
+  "fil": "k_11c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Slide pads är ett par floor sliders med diametern 17,5 cm och höjden 0,8 cm.",
+    "efter": "Slide pads, även kallade floor sliders, har diametern 17,5 cm och höjden 0,8 cm och säljs parvis."
+   }
+  },
+  "skal": "Cirkulär meta (R11): \"Slide pads är ett par floor sliders\" (två namn på samma sak). Html har redan verb och är inte cirkulär. Ytornas användning står en gång enligt tillverkaren; övrigt spårbart."
+ },
+ {
+  "nr": 9867,
+  "id": "10636617679114",
+  "fil": "k_11c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Får skrivas: alla hälso- och effektord (svettas, tappa vattenvikt, vätska, elektrolyter, miljövänligt, högkvalitativt) är strukna, och texten beskriver bara set, material, mått och storlek. \"Fri från ftalater\" ordagrant, en gång enligt tillverkaren. Oklara midje- och bröstmått rätt utelämnade."
+ },
+ {
+  "nr": 9868,
+  "id": "10636672893194",
+  "fil": "k_11c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "väger 0,55 kg och finns i svart och rött.",
+    "efter": "väger 0,55 kg och är svart och röd."
+   }
+  },
+  "skal": "Produkten har en variant och en färgkombination (\"Färg: Svart och röd\"); \"finns i svart och rött\" antyder ett färgval och rättas. Typord Svängstav ur källan före Swing Stick (R7). Ingen vibrationsplatta (R6); effektord om djupa muskler strukna."
+ },
+ {
+  "nr": 9869,
+  "id": "10636743147786",
+  "fil": "k_11c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Fyra storlekar, samma pris (579 kr). Spårbart; effekt- och säkerhetspåståenden strukna. Typordet Träningsbälte ur live-titeln."
+ },
+ {
+  "nr": 9870,
+  "id": "10636603326730",
+  "fil": "k_11c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart. Typordet Lyftarbälte stöds av källtexten och live-titeln (R7). Prisavvikelse till David (inte ett textfel): XL kostar 3815 kr mot 1339 kr för S, M och L."
+ },
+ {
+  "nr": 9871,
+  "id": "10636600508682",
+  "fil": "k_11c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart. Typordet Lyftarbälte ur live-titeln och källan. \"Passar både kvinnor och män och lämpligt för ...\" står en gång enligt tillverkaren. Säkerhetsord strukna."
+ },
+ {
+  "nr": 9872,
+  "id": "10636694159626",
+  "fil": "k_11c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tre storlekar, samma pris (499 kr). Tabellen ur egen källa; vikten 370 g rätt utelämnad."
+ },
+ {
+  "nr": 9873,
+  "id": "10636743246090",
+  "fil": "k_11c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart. Prisavvikelse till David (inte ett textfel): L kostar 519 kr mot 579 kr för S, M och XL."
+ },
+ {
+  "nr": 9874,
+  "id": "10636743377162",
+  "fil": "k_11c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "De finns i svart och grått och i storlekarna",
+    "efter": "De är svarta och grå och finns i storlekarna"
+   },
+   "html": {
+    "fore": "De finns i svart och grått och i storlekarna",
+    "efter": "De är svarta och grå och finns i storlekarna"
+   }
+  },
+  "skal": "Varianterna är bara storlekar (S–XL, 229 kr); färgen är en kombination (\"Svart och grå\"), så \"finns i svart och grått\" antyder ett val som inte finns. Skydd mot nötning står en gång enligt tillverkaren (R5); \"förebygga handledsskador\" rätt struket."
+ },
+ {
+  "nr": 9875,
+  "id": "10636726239498",
+  "fil": "k_11c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tolv varianter (tre färger, fyra storlekar), samma pris. Material och andning står en gång enligt tillverkaren."
+ }
+]

@@ -1,0 +1,64 @@
+[
+ {
+  "id": "gid://shopify/Product/10636618858762",
+  "title": "Curlstång Movit Krom 30mm",
+  "handle": "curlstang-movit-krom-30mm",
+  "status": "ACTIVE",
+  "tags": [
+   "30mm",
+   "curlstång",
+   "curlstång 30mm",
+   "movit",
+   "Nyhet",
+   "SZ",
+   "SZ-stång"
+  ],
+  "updatedAt": "2026-09-22T07:37:26Z",
+  "seo": {
+   "title": null,
+   "description": "Curlstång Movit Krom 30mm Curlstång i krom med en längd på 130cm och en vikt på 8kg. "
+  },
+  "descriptionHtml": "<h2>Curlstång Movit Krom 30mm</h2>\n<p data-end=\"398\" data-start=\"74\">Curlstång i krom med en längd på 130cm och en vikt på 8kg. Den böjda formen gör det lättare att träna biceps och triceps på ett effektivt sätt, samtidigt som den ger flera greppmöjligheter som minskar belastningen på handlederna. De räfflade greppytorna gör att du får ett stabilt och säkert grepp under hela träningspasset.</p>\n<p data-is-only-node=\"\" data-is-last-node=\"\" data-end=\"564\" data-start=\"400\">Stången har en diameter på 30mm och passar alla viktskivor med håldiameter 30/31mm. Två stjärnlås ingår.</p>\n<p data-is-only-node=\"\" data-is-last-node=\"\" data-end=\"564\" data-start=\"400\"><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-end=\"674\" data-start=\"652\">Övrig information:</strong></p>\n<ul>\n<li data-end=\"856\" data-start=\"676\">Handtagets diameter: 30mm</li>\n<li data-end=\"856\" data-start=\"676\">\n<meta charset=\"utf-8\">Maximal belastning: 150kg</li>\n<li data-end=\"856\" data-start=\"676\">\n<meta charset=\"utf-8\">Viktyta per sida: 19,5cm<br data-end=\"732\" data-start=\"729\">\n</li>\n<li data-end=\"856\" data-start=\"676\">Curlstångens vikt: 8kg<br data-end=\"784\" data-start=\"781\">\n</li>\n<li data-end=\"856\" data-start=\"676\">Grepplängd: 91cm<br data-end=\"803\" data-start=\"800\">\n</li>\n<li data-end=\"856\" data-start=\"676\">Två stjärnlås ingår<br data-end=\"825\" data-start=\"822\">\n</li>\n<li data-end=\"856\" data-start=\"676\">Diameter: 30mm<br data-end=\"842\" data-start=\"839\">\n</li>\n<li data-end=\"856\" data-start=\"676\">Längd: 130cm</li>\n</ul>\n<p data-is-only-node=\"\" data-is-last-node=\"\" data-end=\"948\" data-start=\"858\">En stabil curlstång i kromad finish med räfflad greppyta.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/10636618498314",
+  "title": "Curlstång Movit Svart 30mm",
+  "handle": "curlstang-movit-svart-30mm-fjaderlas-svart",
+  "status": "ACTIVE",
+  "tags": [
+   "all products",
+   "curl stång",
+   "curlstång",
+   "Nyhet",
+   "SZ",
+   "SZ-stång"
+  ],
+  "updatedAt": "2026-09-22T07:37:26Z",
+  "seo": {
+   "title": null,
+   "description": "Curlstång Movit Svart 30mm Curlstång i mattsvart finish med en längd på 130cm och en vikt på 8kg. "
+  },
+  "descriptionHtml": "<h2>Curlstång Movit Svart 30mm</h2>\n<p data-end=\"398\" data-start=\"74\">Curlstång i mattsvart finish med en längd på 130cm och en vikt på 8kg. Den böjda formen gör det lättare att träna biceps och triceps på ett effektivt sätt, samtidigt som den ger flera greppmöjligheter som minskar belastningen på handlederna. De räfflade greppytorna gör att du får ett stabilt och säkert grepp under hela träningspasset.</p>\n<p data-is-only-node=\"\" data-is-last-node=\"\" data-end=\"564\" data-start=\"400\">Stången har en diameter på 30mm och passar alla viktskivor med håldiameter 30/31mm. Två fjäderlås ingår.</p>\n<p data-is-only-node=\"\" data-is-last-node=\"\" data-end=\"564\" data-start=\"400\"><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-end=\"674\" data-start=\"652\">Övrig information:</strong></p>\n<ul>\n<li data-end=\"856\" data-start=\"676\">Handtagets diameter: 30mm</li>\n<li data-end=\"856\" data-start=\"676\">\n<meta charset=\"utf-8\">Maximal belastning: 150kg</li>\n<li data-end=\"856\" data-start=\"676\">\n<meta charset=\"utf-8\">Viktyta per sida: 19,5cm<br data-end=\"732\" data-start=\"729\">\n</li>\n<li data-end=\"856\" data-start=\"676\">Curlstångens vikt: 8kg<br data-end=\"784\" data-start=\"781\">\n</li>\n<li data-end=\"856\" data-start=\"676\">Grepplängd: 91cm<br data-end=\"803\" data-start=\"800\">\n</li>\n<li data-end=\"856\" data-start=\"676\">Två <meta charset=\"utf-8\">fjäderlås ingår<br data-end=\"825\" data-start=\"822\">\n</li>\n<li data-end=\"856\" data-start=\"676\">Diameter: 30mm<br data-end=\"842\" data-start=\"839\">\n</li>\n<li data-end=\"856\" data-start=\"676\">Längd: 130cm</li>\n</ul>\n<p data-is-only-node=\"\" data-is-last-node=\"\" data-end=\"948\" data-start=\"858\">En stabil curlstång i mattsvart finish med räfflad greppyta.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/10636728795402",
+  "title": "Curlstång SZ PRO 50mm",
+  "handle": "curlstang-120cm-50mm",
+  "status": "ACTIVE",
+  "tags": [
+   "50mm",
+   "all products",
+   "curl",
+   "curl-stång",
+   "curlstång",
+   "SZ",
+   "SZ-stång"
+  ],
+  "updatedAt": "2026-09-22T07:38:31Z",
+  "seo": {
+   "title": "Curlstång SZ PRO 50mm – För biceps och triceps",
+   "description": "Curlstång SZ PRO 50mm på 9kg och 120cm med 78,5cm grepplängd. Perfekt för effektiv och målinriktad träning av armarna."
+  },
+  "descriptionHtml": "<h2>Curlstång SZ PRO 50mm</h2>\n<p>Curlstång på 9kg och 120cm med en grepplängd på 78,5cm. Idealisk för målinriktad träning av biceps och triceps. Den krökta formen av stången tillåter en optimal, effektiv träning med grepp i olika vinklar.<br><br>Fjärdelås ingår för snabbt viktbyte för att kunna anpassa efter val av övning.<br><br><strong>Övrig information:</strong></p>\n<ul>\n<li>Handtagets diameter: 28mm</li>\n<li>Maximal belastning: 272kg</li>\n<li>Curlstångens vikt: 9kg</li>\n<li>Viktyta per sida: 18cm</li>\n<li>Grepplängd: 78,5cm</li>\n<li>Två fjäderlås ingår</li>\n<li>Diameter: 50mm</li>\n<li>Längd: 120cm</li>\n</ul>"
+ }
+]
