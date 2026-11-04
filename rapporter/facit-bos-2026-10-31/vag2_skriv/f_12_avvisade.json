@@ -1,0 +1,22 @@
+[
+ {
+  "id": "10468771463434",
+  "nr": 10276,
+  "skäl": "Titeln anger 35 kg, men produkten har tre varianter (SKU 17433, 17431 och 17435, priserna 3989, 3419 och 4309 kr) med oförklarade namn, och handle (17434) och SKU skiljer sig. Titeln anger en variant medan källan visar flera, så vikten går inte att låsa. Kan skrivas när leverantören bekräftat varianterna."
+ },
+ {
+  "id": "10468771004682",
+  "nr": 10278,
+  "skäl": "Titeln anger 5 kg, men produkten har fem varianter (SKU 17421, 17423, 17425, 17427 och 17429, priserna 469–2969 kr) med oförklarade namn. Varianterna kan avse andra vikter, så titel och specifikation går inte att låsa."
+ },
+ {
+  "id": "10472325415178",
+  "nr": 10282,
+  "skäl": "Hantelställ (Hammer StrongLock 8.0) räknas som stativ med last och är inte frisläppt i faktatextläget (standarden avsnitt 10 och 16). Titeln 'Hantlite alus' är dessutom inte svenska. Källan beskriver stabilitet och säkerhet och anger bara måtten 47 x 43,5 x 50 cm och att ställningen rymmer två hantlar. Tas för hand med Davids ja."
+ },
+ {
+  "id": "10472299299082",
+  "nr": 10284,
+  "skäl": "Tunn källa: ingen beskrivning, bara titeln 'Hantelvikter Safe Lock, 50mm' och taggarna Cykellås och viktlås. Produkttypen är oklar (titelns Hantelvikter mot taggen viktlås), och typen får inte bytas för att komma förbi en kontroll. Kan skrivas när leverantören bekräftat vad produkten är."
+ }
+]

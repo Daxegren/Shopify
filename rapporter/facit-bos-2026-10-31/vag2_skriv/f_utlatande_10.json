@@ -1,0 +1,403 @@
+[
+ {
+  "nr": 10226,
+  "id": "10472328691978",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Data ordagrant (220 cm, 20 kg, 50 mm). Lastkapacitet 450 kg står på svenska med enhet i specifikationen och återges en gång som 'enligt tillverkaren' (alt A). CrossFit/skivstångsplattform är tillverkarens användningsangivelse. Lyftstång → Skivstång stöds av taggen."
+ },
+ {
+  "nr": 10227,
+  "id": "10471164084490",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Viktskiva Toorx Bumper Plate Challenge, blå, 20 kg",
+    "efter": "Viktskiva Toorx Bumper Plate Challenge, Blå, 20 kg"
+   },
+   "seo_title": {
+    "fore": "Viktskiva Bumper Plate Challenge blå 20 kg",
+    "efter": "Viktskiva Bumper Plate Challenge Blå 20 kg"
+   },
+   "html": {
+    "fore": "<p>Toorx Bumper Plate Challenge är en blå viktskiva på 20 kg. Håldiametern är 50 mm och setet innehåller 1 skiva.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en viktskiva på 20 kg</li>\n<li>Dig som söker en viktskiva med håldiameter 50 mm</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Färg: blå</li>\n<li>Håldiameter: 50 mm</li>\n<li>Vikt: 20 kg</li>\n<li>Innehåll: 1 viktskiva</li>\n<li>Märke: Toorx</li>\n</ul>",
+    "efter": "<p>Toorx Bumper Plate Challenge är en blå viktskiva på 20 kg. Håldiametern är 50 mm och setet innehåller 1 skiva.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en viktskiva på 20 kg</li>\n<li>Dig som söker en viktskiva med håldiameter 50 mm</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Färg: Blå</li>\n<li>Håldiameter: 50 mm</li>\n<li>Vikt: 20 kg</li>\n<li>Innehåll: 1 viktskiva</li>\n<li>Märke: Toorx</li>\n</ul>"
+   }
+  },
+  "skal": "Data ordagrant (50 mm, 20 kg, 1 skiva; blå från live-titelns 'blue'). Rättning: Blå med stor bokstav i titel och SEO-titel. Övrigt: stor bokstav efter kolon i specifikationen (format 2026-11-01)."
+ },
+ {
+  "nr": 10228,
+  "id": "10515747963146",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Toorx Olympic Barbell är en skivstång av stål på 220 cm för 50 mm viktskivor. Enligt tillverkaren är den inte lämplig för CrossFit-pass och funktionell träning och har en lastkapacitet på 320 kg.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en skivstång av stål på 220 cm</li>\n<li>Dig som söker en skivstång för 50 mm viktskivor</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Längd: 220 cm</li>\n<li>Material: stål</li>\n<li>Lämplig för 50 mm viktskivor</li>\n<li>Märke: Toorx</li>\n</ul>",
+    "efter": "<p>Toorx Olympic Barbell är en skivstång av stål på 220 cm för 50 mm viktskivor. Enligt tillverkaren är den inte lämplig för CrossFit-pass och funktionell träning och har en lastkapacitet på 320 kg.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en skivstång av stål på 220 cm</li>\n<li>Dig som söker en skivstång för 50 mm viktskivor</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Längd: 220 cm</li>\n<li>Material: Stål</li>\n<li>Lämplig för 50 mm viktskivor</li>\n<li>Märke: Toorx</li>\n</ul>"
+   }
+  },
+  "skal": "320 kg står i titel och spec, återges en gång 'enligt tillverkaren'; stål och 'inte lämplig för CrossFit' ordagrant. Titeln skiljs från 10226 bara med '50 mm' (båda är 50 mm), godtas eftersom 10226 har '20 kg'. Övrigt: stor bokstav efter kolon i specifikationen (format 2026-11-01)."
+ },
+ {
+  "nr": 10229,
+  "id": "10472299233546",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Viktskiva Toorx Bumper Plate Challenge, grön, 10 kg",
+    "efter": "Viktskiva Toorx Bumper Plate Challenge, Grön, 10 kg"
+   },
+   "seo_title": {
+    "fore": "Viktskiva Bumper Plate Challenge grön 10 kg",
+    "efter": "Viktskiva Bumper Plate Challenge Grön 10 kg"
+   },
+   "meta": {
+    "fore": "Toorx Bumper Plate Challenge är en grön viktskiva på 10 kg med hålavstånd 50 mm. Finns hos BEST OF SPORTS.",
+    "efter": "Toorx Bumper Plate Challenge är en grön viktskiva på 10 kg med håldiameter 50 mm. Finns hos BEST OF SPORTS."
+   },
+   "html": {
+    "fore": "<p>Toorx Bumper Plate Challenge är en grön viktskiva på 10 kg. Setet innehåller 1 skiva.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en viktskiva på 10 kg</li>\n<li>Dig som söker en viktskiva med 50 mm i hålavstånd</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Färg: grön</li>\n<li>Hålavstånd: 50 mm</li>\n<li>Vikt: 10 kg</li>\n<li>Innehåll: 1 viktskiva</li>\n<li>Märke: Toorx</li>\n</ul>",
+    "efter": "<p>Toorx Bumper Plate Challenge är en grön viktskiva på 10 kg. Setet innehåller 1 skiva.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en viktskiva på 10 kg</li>\n<li>Dig som söker en viktskiva med håldiameter 50 mm</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Färg: Grön</li>\n<li>Håldiameter: 50 mm</li>\n<li>Vikt: 10 kg</li>\n<li>Innehåll: 1 viktskiva</li>\n<li>Märke: Toorx</li>\n</ul>"
+   }
+  },
+  "skal": "Data ordagrant. Rättning: Grön i titel/SEO; 'Hålavstånd' (felöversättning, en skiva har inget hålavstånd) skrivs Håldiameter som i titelns 50 mm och syskonet 10227:s egen benämning – talet ändras inte. Övrigt: stor bokstav efter kolon i specifikationen (format 2026-11-01)."
+ },
+ {
+  "nr": 10230,
+  "id": "10472299331850",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Viktskiva Toorx Bumper Plate Challenge, röd, 25 kg",
+    "efter": "Viktskiva Toorx Bumper Plate Challenge, Röd, 25 kg"
+   },
+   "seo_title": {
+    "fore": "Viktskiva Bumper Plate Challenge röd 25 kg",
+    "efter": "Viktskiva Bumper Plate Challenge Röd 25 kg"
+   },
+   "meta": {
+    "fore": "Toorx Bumper Plate Challenge är en röd viktskiva på 25 kg med hålavstånd 50 mm. Finns hos BEST OF SPORTS.",
+    "efter": "Toorx Bumper Plate Challenge är en röd viktskiva på 25 kg med håldiameter 50 mm. Finns hos BEST OF SPORTS."
+   },
+   "html": {
+    "fore": "<p>Toorx Bumper Plate Challenge är en röd viktskiva på 25 kg. Setet innehåller 1 skiva.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en viktskiva på 25 kg</li>\n<li>Dig som söker en viktskiva med 50 mm i hålavstånd</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Färg: röd</li>\n<li>Hålavstånd: 50 mm</li>\n<li>Vikt: 25 kg</li>\n<li>Innehåll: 1 viktskiva</li>\n<li>Märke: Toorx</li>\n</ul>",
+    "efter": "<p>Toorx Bumper Plate Challenge är en röd viktskiva på 25 kg. Setet innehåller 1 skiva.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en viktskiva på 25 kg</li>\n<li>Dig som söker en viktskiva med håldiameter 50 mm</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Färg: Röd</li>\n<li>Håldiameter: 50 mm</li>\n<li>Vikt: 25 kg</li>\n<li>Innehåll: 1 viktskiva</li>\n<li>Märke: Toorx</li>\n</ul>"
+   }
+  },
+  "skal": "Som 10229: Röd i titel/SEO, Hålavstånd → Håldiameter. Övrigt: stor bokstav efter kolon i specifikationen (format 2026-11-01)."
+ },
+ {
+  "nr": 10231,
+  "id": "10411924128010",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Toorx Bumper Plate Crumb är en viktskiva på 10 kg med 50 mm öppning och expanderande bussning i rostfritt stål. Skivorna är tillverkade av högtryckskomprimerade gummigranulat.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en viktskiva på 10 kg</li>\n<li>Dig som söker en viktskiva med 50 mm öppning</li>\n<li>Dig som söker en viktskiva av gummigranulat</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Öppning: 50 mm</li>\n<li>Bussning: expanderande, rostfritt stål</li>\n<li>Material: högtryckskomprimerade gummigranulat</li>\n<li>Vikt: 10 kg</li>\n<li>Märke: Toorx</li>\n</ul>",
+    "efter": "<p>Toorx Bumper Plate Crumb är en viktskiva på 10 kg med 50 mm öppning och expanderande bussning i rostfritt stål. Skivan är tillverkad av högtryckskomprimerat gummigranulat.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en viktskiva på 10 kg</li>\n<li>Dig som söker en viktskiva med 50 mm öppning</li>\n<li>Dig som söker en viktskiva av gummigranulat</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Öppning: 50 mm</li>\n<li>Bussning: Expanderande, rostfritt stål</li>\n<li>Material: Högtryckskomprimerat gummigranulat</li>\n<li>Vikt: 10 kg</li>\n<li>Märke: Toorx</li>\n</ul>"
+   }
+  },
+  "skal": "10 kg stöds av titel, SKU DBCR-10 och 'Inkluderar 1 kedja med 10 kg vikt'; handle (15 kg) är fel och följs inte. 'Crumb Bumper: 50 mm - 50 g' korrekt utelämnad. Rättning: grammatik 'Skivan är tillverkad av högtryckskomprimerat gummigranulat'. Övrigt: stor bokstav efter kolon i specifikationen (format 2026-11-01)."
+ },
+ {
+  "nr": 10232,
+  "id": "10470888276234",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Avvisningen bekräftas: texten säger 150 cm, specen 130 cm; två varianter (14TUSCL218 299 kr, 14TUSCL219 319 kr) utan förklaring; maxvikten står dubbelt; hälso-/viktnedgångstext."
+ },
+ {
+  "nr": 10233,
+  "id": "10472259256586",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Tunturi Barbell Bar är en skivstång på 165 cm i krom och metall med 2 skruvlås. Viktskivor på 30 mm kan fästas och ingår inte. Enligt tillverkaren har stången ett halkfritt handtag.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en skivstång på 165 cm</li>\n<li>Dig som söker en skivstång för 30 mm viktskivor</li>\n<li>Dig som söker en skivstång med 2 skruvlås</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Stångens längd: 165 cm</li>\n<li>Vikt: 9 kg</li>\n<li>Färg: krom</li>\n<li>Material: metall</li>\n<li>Inkluderar 2 skruvlås</li>\n<li>Viktskivor ingår inte</li>\n<li>Märke: Tunturi</li>\n</ul>",
+    "efter": "<p>Tunturi Barbell Bar är en skivstång på 165 cm i krom och metall med 2 skruvlås. Viktskivor på 30 mm kan fästas och ingår inte. Enligt tillverkaren har stången ett halkfritt handtag.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en skivstång på 165 cm</li>\n<li>Dig som söker en skivstång för 30 mm viktskivor</li>\n<li>Dig som söker en skivstång med 2 skruvlås</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Stångens längd: 165 cm</li>\n<li>Vikt: 9 kg</li>\n<li>Färg: Krom</li>\n<li>Material: Metall</li>\n<li>Inkluderar 2 skruvlås</li>\n<li>Viktskivor ingår inte</li>\n<li>Märke: Tunturi</li>\n</ul>"
+   }
+  },
+  "skal": "Data ordagrant (165 cm, 9 kg, krom, metall, 2 skruvlås). 'Maximal vikt: 100 kg' korrekt utelämnad (alt A, maskinöversatt text). Halkfritt handtag står ordagrant. Beställningsmening rätt. Övrigt: stor bokstav efter kolon i specifikationen (format 2026-11-01)."
+ },
+ {
+  "nr": 10234,
+  "id": "10472211513610",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Hantelstång Tunturi 30 mm, 165 cm, nedre huvud",
+    "efter": "Skivstång Tunturi 30 mm, 165 cm, Nedre Huvud"
+   },
+   "seo_title": {
+    "fore": "Hantelstång Tunturi 165 cm nedre huvud",
+    "efter": "Skivstång Tunturi 165 cm Nedre Huvud"
+   },
+   "meta": {
+    "fore": "Tunturi Hantelstång är en hantelstång av krom och metall på 165 cm som väger 9 kg och har 2 skruvlås för 30 mm viktskivor.",
+    "efter": "Skivstången från Tunturi är 165 cm lång, kromfärgad och av metall. Den väger 9 kg och har 2 skruvlås för 30 mm viktskivor."
+   },
+   "html": {
+    "fore": "<p>Tunturi Hantelstång är en hantelstång på 165 cm i krom och metall. Viktskivor på 30 mm kan fästas och ingår inte. Enligt tillverkaren har stången ett halkfritt handtag och 2 skruvlås.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en hantelstång på 165 cm</li>\n<li>Dig som söker en hantelstång för 30 mm viktskivor</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Stångens längd: 165 cm</li>\n<li>Vikt: 9 kg</li>\n<li>Färg: krom</li>\n<li>Material: metall</li>\n<li>Viktskivor ingår inte</li>\n<li>Märke: Tunturi</li>\n</ul>",
+    "efter": "<p>Skivstången från Tunturi är 165 cm lång, kromfärgad och av metall. Viktskivor på 30 mm kan fästas och ingår inte. Enligt tillverkaren har stången ett halkfritt handtag och 2 skruvlås.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en skivstång på 165 cm</li>\n<li>Dig som söker en skivstång för 30 mm viktskivor</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Stångens längd: 165 cm</li>\n<li>Vikt: 9 kg</li>\n<li>Färg: Krom</li>\n<li>Material: Metall</li>\n<li>Viktskivor ingår inte</li>\n<li>Märke: Tunturi</li>\n</ul>"
+   }
+  },
+  "skal": "Typord: 165 cm-stång är en skivstång (taggen Skivstång, samma typ som 10233); 'Hantelstång' i källan är maskinöversatt och gav cirkulär första mening ('Tunturi Hantelstång är en hantelstång'). Titel, SEO, meta och intro skrivs om med Skivstång; Nedre Huvud med versaler. Maxvikt 100 kg korrekt utelämnad. Övrigt: stor bokstav efter kolon i specifikationen (format 2026-11-01)."
+ },
+ {
+  "nr": 10235,
+  "id": "10403787735306",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Hantelstång Tunturi 30 mm, 180 cm, nedre huvud",
+    "efter": "Skivstång Tunturi 30 mm, 180 cm, Nedre Huvud"
+   },
+   "seo_title": {
+    "fore": "Hantelstång Tunturi 180 cm nedre huvud",
+    "efter": "Skivstång Tunturi 180 cm Nedre Huvud"
+   },
+   "meta": {
+    "fore": "Tunturi Hantelstång är en hantelstång av krom och metall på 180 cm som väger 10 kg och har 2 skruvlås för 30 mm viktskivor.",
+    "efter": "Skivstången från Tunturi är 180 cm lång, kromfärgad och av metall. Den väger 10 kg och har 2 skruvlås för 30 mm viktskivor."
+   },
+   "html": {
+    "fore": "<p>Tunturi Hantelstång är en hantelstång på 180 cm i krom och metall med 2 skruvlås. Viktskivor på 30 mm kan fästas och ingår inte. Enligt tillverkaren har stången ett halkfritt handtag.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en hantelstång på 180 cm</li>\n<li>Dig som söker en hantelstång för 30 mm viktskivor</li>\n<li>Dig som söker en hantelstång med 2 skruvlås</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Stångens längd: 180 cm</li>\n<li>Vikt: 10 kg</li>\n<li>Färg: krom</li>\n<li>Material: metall</li>\n<li>Inkluderar 2 skruvlås</li>\n<li>Viktskivor ingår inte</li>\n<li>Märke: Tunturi</li>\n</ul>",
+    "efter": "<p>Skivstången från Tunturi är 180 cm lång, kromfärgad och av metall. Den har 2 skruvlås. Viktskivor på 30 mm kan fästas och ingår inte. Enligt tillverkaren har stången ett halkfritt handtag.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en skivstång på 180 cm</li>\n<li>Dig som söker en skivstång för 30 mm viktskivor</li>\n<li>Dig som söker en skivstång med 2 skruvlås</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Stångens längd: 180 cm</li>\n<li>Vikt: 10 kg</li>\n<li>Färg: Krom</li>\n<li>Material: Metall</li>\n<li>Inkluderar 2 skruvlås</li>\n<li>Viktskivor ingår inte</li>\n<li>Märke: Tunturi</li>\n</ul>"
+   }
+  },
+  "skal": "Som 10234 (180 cm, 10 kg). 'Tjocklek: 180 mm' motsäger titelns 30 mm och är korrekt utelämnad. Maxvikt utelämnad (alt A). Övrigt: stor bokstav efter kolon i specifikationen (format 2026-11-01)."
+ },
+ {
+  "nr": 10236,
+  "id": "10472259682570",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Tunturi Olympic Bar SpringCol är en skivstång på 220 cm i krom och metall. Stången väger 18 kg och är designad för vikter med en diameter på 50 mm. Enligt tillverkaren kan vikter på upp till 375 kg läggas till.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en skivstång på 220 cm</li>\n<li>Dig som söker en skivstång för vikter med en diameter på 50 mm</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Stångens längd: 220 cm</li>\n<li>Vikt: 18 kg</li>\n<li>Färg: krom</li>\n<li>Material: metall</li>\n<li>Vikter: diameter 50 mm</li>\n<li>Märke: Tunturi</li>\n</ul>",
+    "efter": "<p>Tunturi Olympic Bar SpringCol är en skivstång på 220 cm i krom och metall. Stången väger 18 kg och är designad för vikter med en diameter på 50 mm. Enligt tillverkaren kan vikter på upp till 375 kg läggas till.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en skivstång på 220 cm</li>\n<li>Dig som söker en skivstång för vikter med en diameter på 50 mm</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Stångens längd: 220 cm</li>\n<li>Vikt: 18 kg</li>\n<li>Färg: Krom</li>\n<li>Material: Metall</li>\n<li>Vikter: Diameter 50 mm</li>\n<li>Märke: Tunturi</li>\n</ul>"
+   }
+  },
+  "skal": "18 kg, 220 cm, 50 mm ordagrant. 'Du kan lägga till vikter upp till 375 kg' står på svenska med enhet och återges en gång 'enligt tillverkaren' (alt A). Fjäderklämmorna (text: 'Med 2 fjäderklämmor', spec: 'inkluderar inte vikthalsband') korrekt utelämnade; obs att modellnamnet SpringCol finns kvar i titeln, se fråga. Övrigt: stor bokstav efter kolon i specifikationen (format 2026-11-01)."
+ },
+ {
+  "nr": 10237,
+  "id": "10472259584266",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Avvisningen bekräftas: titeln säger SpringCol och 50 mm, källan anger 'en skruvlåsning'/'2 skruvlåsningar' och nämner aldrig 50 mm."
+ },
+ {
+  "nr": 10238,
+  "id": "10472346779914",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Skivstång Tunturi 30 mm, 120 cm, med skruvlås",
+    "efter": "Skivstång Tunturi 30 mm, 120 cm, med Skruvlås"
+   },
+   "seo_title": {
+    "fore": "Skivstång Tunturi 120 cm med skruvlås",
+    "efter": "Skivstång Tunturi 120 cm med Skruvlås"
+   },
+   "meta": {
+    "fore": "Tunturi Skivstång är en skivstång av krom och metall på 120 cm som väger 6,8 kg och levereras med 2 skruvlås för 30 mm viktskivor.",
+    "efter": "Skivstången från Tunturi är 120 cm lång, kromfärgad och av metall. Den väger 6,8 kg och levereras med 2 skruvlås för 30 mm viktskivor."
+   },
+   "html": {
+    "fore": "<p>Tunturi Skivstång är en skivstång på 120 cm i krom och metall med 2 skruvlås. Viktskivor på 30 mm kan fästas och ingår inte. Enligt tillverkaren har stången ett halkfritt handtag.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en skivstång på 120 cm</li>\n<li>Dig som söker en skivstång för 30 mm viktskivor</li>\n<li>Dig som söker en skivstång med 2 skruvlås</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Stångens längd: 120 cm</li>\n<li>Vikt: 6,8 kg</li>\n<li>Färg: krom</li>\n<li>Material: metall</li>\n<li>Innehåller 2 skruvlås</li>\n<li>Viktskivor ingår inte</li>\n<li>Märke: Tunturi</li>\n</ul>",
+    "efter": "<p>Skivstången från Tunturi är 120 cm lång, kromfärgad och av metall. Den har 2 skruvlås. Viktskivor på 30 mm kan fästas och ingår inte. Enligt tillverkaren har stången ett halkfritt handtag.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en skivstång på 120 cm</li>\n<li>Dig som söker en skivstång för 30 mm viktskivor</li>\n<li>Dig som söker en skivstång med 2 skruvlås</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Stångens längd: 120 cm</li>\n<li>Vikt: 6,8 kg</li>\n<li>Färg: Krom</li>\n<li>Material: Metall</li>\n<li>Innehåller 2 skruvlås</li>\n<li>Viktskivor ingår inte</li>\n<li>Märke: Tunturi</li>\n</ul>"
+   }
+  },
+  "skal": "Data ordagrant (120 cm, 6,8 kg, 2 skruvlås). Rättning: cirkulär meta och intro ('Tunturi Skivstång är en skivstång') skrivs om; 'med Skruvlås' med versal. Maxvikt utelämnad (alt A). Övrigt: stor bokstav efter kolon i specifikationen (format 2026-11-01)."
+ },
+ {
+  "nr": 10239,
+  "id": "10472280817930",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Skivstångsskydd för nacken Tunturi",
+    "efter": "Skivstångsskydd Tunturi för Nacken"
+   },
+   "seo_title": {
+    "fore": "Skivstångsskydd för nacken Tunturi",
+    "efter": "Skivstångsskydd Tunturi för Nacken"
+   },
+   "html": {
+    "fore": "<p>Tunturi skivstångsskydd för nacken är ett nackskydd för knäböj med skivstång.</p><h2>Passar för</h2><ul>\n<li>Dig som söker ett nackskydd till skivstång</li>\n<li>Dig som söker ett Tunturi-skydd för knäböj med skivstång</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: nackskydd för skivstång</li>\n<li>Märke: Tunturi</li>\n</ul>",
+    "efter": "<p>Tunturi skivstångsskydd för nacken är ett nackskydd för knäböj med skivstång.</p><h2>Passar för</h2><ul>\n<li>Dig som söker ett nackskydd till skivstång</li>\n<li>Dig som söker ett Tunturi-skydd för knäböj med skivstång</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Nackskydd för skivstång</li>\n<li>Märke: Tunturi</li>\n</ul>"
+   }
+  },
+  "skal": "Tunn källa; skadetext och rekommendation borta. Rättning: titel/SEO i ordningen typ, märke, egenskap och med versal ('Skivstångsskydd Tunturi för Nacken', jämför f_9 'Skivstångsskydd Hammer för Axlar'). Beställningsmening rätt. Övrigt: stor bokstav efter kolon i specifikationen (format 2026-11-01)."
+ },
+ {
+  "nr": 10240,
+  "id": "10472289894666",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Tunturi Aerobic Pump Set är ett skivstångsset med avtagbar lyftstång, 2 lyfthakar och viktskivor från 1,25 till 5 kg. Finns hos BEST OF SPORTS.",
+    "efter": "Tunturi Aerobic Pump Set är ett skivstångsset med avtagbar lyftstång och viktskivor från 1,25 till 5 kg. Lyfthandtaget är 140 cm långt."
+   },
+   "html": {
+    "fore": "<p>Tunturi Aerobic Pump Set är ett skivstångsset med 1 avtagbar lyftstång, 2 lyfthakar och viktskivor på 1,25, 2,5 och 5 kg. Lyfthandtaget är 140 cm långt och har en diameter på 30 mm.</p><h2>Passar för</h2><ul>\n<li>Dig som söker ett skivstångsset med lyftstång och viktskivor</li>\n<li>Dig som söker ett skivstångsset med viktskivor från 1,25 till 5 kg</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Innehåll: 1 avtagbar lyftstång</li>\n<li>Innehåll: 2 lyfthakar</li>\n<li>Innehåll: 2 viktskivor på 1,25 kg</li>\n<li>Innehåll: 2 viktskivor på 2,5 kg</li>\n<li>Innehåll: 2 viktskivor på 5 kg</li>\n<li>Mått: 140 x 22 x 22 cm</li>\n<li>Längd på lyfthandtag: 140 cm</li>\n<li>Diameter på handtaget: 30 mm</li>\n<li>Material: metall med gummiöverdrag</li>\n<li>Märke: Tunturi</li>\n</ul>",
+    "efter": "<p>Tunturi Aerobic Pump Set är ett skivstångsset med 1 avtagbar lyftstång och 2 viktskivor vardera på 1,25, 2,5 och 5 kg. Lyfthandtaget är 140 cm långt och har en diameter på 30 mm.</p><h2>Passar för</h2><ul>\n<li>Dig som söker ett skivstångsset med lyftstång och viktskivor</li>\n<li>Dig som söker ett skivstångsset med viktskivor från 1,25 till 5 kg</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Innehåll: 1 avtagbar lyftstång</li>\n<li>Innehåll: 2 viktskivor på 1,25 kg</li>\n<li>Innehåll: 2 viktskivor på 2,5 kg</li>\n<li>Innehåll: 2 viktskivor på 5 kg</li>\n<li>Mått: 140 x 22 x 22 cm</li>\n<li>Längd på lyfthandtag: 140 cm</li>\n<li>Diameter på handtaget: 30 mm</li>\n<li>Material: Metall med gummiöverdrag</li>\n<li>Märke: Tunturi</li>\n</ul>"
+   }
+  },
+  "skal": "Innehåll, mått, 140 cm, 30 mm och material ordagrant. Titelns 20 kg stöds inte: skivorna väger 17,5 kg och stångens vikt saknas – rätt att utelämna; Lastkapacitet 40 kg oklar och utelämnad. Rättning: '2 lyfthakar' är ett obegripligt (maskinöversatt) ord och stryks ur meta, intro och spec; meta utan utfyllnad. Beställningsmening rätt. Övrigt: stor bokstav efter kolon i specifikationen (format 2026-11-01)."
+ },
+ {
+  "nr": 10241,
+  "id": "10461961224458",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Tunturi Aerobic Pump Set är ett skivstångsset med lyftstång och 6 färgade viktskivor, där varje färg anger en vikt. Setets totalvikt är 20 kg.</p><h2>Passar för</h2><ul>\n<li>Dig som söker ett skivstångsset på 20 kg</li>\n<li>Dig som söker ett skivstångsset med färgade viktskivor och 2 fjäderlås</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Lyftstångens längd: 131,5 cm</li>\n<li>Innehåll: 2 x 5 kg (orange)</li>\n<li>Innehåll: 2 x 2,5 kg (grön)</li>\n<li>Innehåll: 2 x 1,5 kg (gul)</li>\n<li>Innehåll: 2 fjäderlås</li>\n<li>Setets totalvikt: 20 kg</li>\n<li>Material: högdensitetspolyeten med sand-cementfyllning / metall</li>\n<li>Märke: Tunturi</li>\n</ul>",
+    "efter": "<p>Tunturi Aerobic Pump Set är ett skivstångsset med lyftstång och 6 färgade viktskivor, där varje färg anger en vikt. Setets totalvikt är 20 kg.</p><h2>Passar för</h2><ul>\n<li>Dig som söker ett skivstångsset på 20 kg</li>\n<li>Dig som söker ett skivstångsset med färgade viktskivor och 2 fjäderlås</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Lyftstångens längd: 131,5 cm</li>\n<li>Innehåll: 2 x 5 kg (orange)</li>\n<li>Innehåll: 2 x 2,5 kg (grön)</li>\n<li>Innehåll: 2 x 1,5 kg (gul)</li>\n<li>Innehåll: 2 fjäderlås</li>\n<li>Setets totalvikt: 20 kg</li>\n<li>Material: Högdensitetspolyeten med sand-cementfyllning / metall</li>\n<li>Märke: Tunturi</li>\n</ul>"
+   }
+  },
+  "skal": "Data ordagrant (131,5 cm, 2 x 5/2,5/1,5 kg, 2 fjäderlås, totalvikt 20 kg, material). Skiljs från 10240 (annan SKU och källa). Övrigt: stor bokstav efter kolon i specifikationen (format 2026-11-01)."
+ },
+ {
+  "nr": 10242,
+  "id": "10472212463882",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Fjäderhalsband Tunturi Olympic Spring Collars, 50 mm",
+    "efter": "Fjäderlås Tunturi Olympic Spring Collars, 50 mm"
+   },
+   "seo_title": {
+    "fore": "Fjäderhalsband Olympic Spring Collars 50 mm",
+    "efter": "Fjäderlås Olympic Spring Collars 50 mm"
+   },
+   "meta": {
+    "fore": "Tunturi Olympic Spring Collars är fjäderhalsband i krom och stål för viktstänger med 50 mm axeldiameter. De säljs i par. Finns hos BEST OF SPORTS.",
+    "efter": "Tunturi Olympic Spring Collars är fjäderlås i krom och stål för viktstänger med 50 mm axeldiameter. De säljs i par. Finns hos BEST OF SPORTS."
+   },
+   "html": {
+    "fore": "<p>Tunturi Olympic Spring Collars är fjäderhalsband för viktstänger med 50 mm diameter. De säljs i par och 2 fjäderklämmor medföljer.</p><h2>Passar för</h2><ul>\n<li>Dig som söker fjäderhalsband till en olympisk skivstång</li>\n<li>Dig som söker fjäderhalsband för viktstänger med 50 mm diameter</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Lämpliga för: 50 mm axeldiameter</li>\n<li>Medföljer: 2 fjäderklämmor</li>\n<li>Vikt: 175 g</li>\n<li>Färg: krom</li>\n<li>Material: stål</li>\n<li>Märke: Tunturi</li>\n</ul>",
+    "efter": "<p>Tunturi Olympic Spring Collars är fjäderlås för viktstänger med 50 mm diameter. De säljs i par och 2 fjäderklämmor medföljer.</p><h2>Passar för</h2><ul>\n<li>Dig som söker fjäderlås till en olympisk skivstång</li>\n<li>Dig som söker fjäderlås för viktstänger med 50 mm diameter</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Lämpliga för: 50 mm axeldiameter</li>\n<li>Medföljer: 2 fjäderklämmor</li>\n<li>Vikt: 175 g</li>\n<li>Färg: Krom</li>\n<li>Material: Stål</li>\n<li>Märke: Tunturi</li>\n</ul>"
+   }
+  },
+  "skal": "Data ordagrant (50 mm, 2 fjäderklämmor, par, 175 g, krom, stål). Rättning: typordet Fjäderhalsband (ordagrann 'spring collar') blir Fjäderlås, stöds av källans 'Viktlås'/'låsen' och samma ord som 10241. 175 g återges som källan utan per styck/par; se fråga. Säkerhetstext borta. Övrigt: stor bokstav efter kolon i specifikationen (format 2026-11-01)."
+ },
+ {
+  "nr": 10243,
+  "id": "10411753668874",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Tunturi Skruvlås är skruvlås i krom och stål för 30 mm skivstänger med skruvtrådar. De säljs i 2-pack. Finns hos BEST OF SPORTS.",
+    "efter": "Skruvlåsen från Tunturi är kromfärgade, av stål och passar skivstänger och hantelstänger med 30 mm diameter och skruvtrådar. De säljs i 2-pack."
+   },
+   "html": {
+    "fore": "<p>Tunturi Skruvlås är skruvlås för skivstänger och hantelstänger med 30 mm diameter och skruvtrådar. De säljs i 2-pack och 2 skruvmejslar ingår.</p><h2>Passar för</h2><ul>\n<li>Dig som söker skruvlås till en skivstång med 30 mm diameter och skruvtrådar</li>\n<li>Dig som söker skruvlås i 2-pack</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Diameter: 30 mm</li>\n<li>Mått: 7 x 7 x 1,9 cm</li>\n<li>Vikt: 203 g</li>\n<li>Medföljer: 2 skruvmejslar</li>\n<li>Färg: krom</li>\n<li>Material: stål</li>\n<li>Antal: 2-pack</li>\n<li>Märke: Tunturi</li>\n</ul>",
+    "efter": "<p>Skruvlåsen från Tunturi passar skivstänger och hantelstänger med 30 mm diameter och skruvtrådar. De säljs i 2-pack.</p><h2>Passar för</h2><ul>\n<li>Dig som söker skruvlås till en skivstång med 30 mm diameter och skruvtrådar</li>\n<li>Dig som söker skruvlås i 2-pack</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Diameter: 30 mm</li>\n<li>Mått: 7 x 7 x 1,9 cm</li>\n<li>Vikt: 203 g</li>\n<li>Färg: Krom</li>\n<li>Material: Stål</li>\n<li>Antal: 2-pack</li>\n<li>Märke: Tunturi</li>\n</ul>"
+   }
+  },
+  "skal": "Rättning: '2 skruvmejslar ingår' är en felöversättning (2-packet är själva låsen) och stryks; cirkulär meta ('Tunturi Skruvlås är skruvlås') skrivs om utan utfyllnad. 203 g återges som källan, oklart per styck/par (se fråga). Säkerhetstext borta. Övrigt: stor bokstav efter kolon i specifikationen (format 2026-11-01)."
+ },
+ {
+  "nr": 10244,
+  "id": "10472211644682",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Tunturi Curlbar är en curlbar av metall på 120 cm med 30 mm diameter som väger 6,8 kg. Den passar viktskivor med 30 mm diameter.",
+    "efter": "Curlbaren från Tunturi är 120 cm lång, väger 6,8 kg och är av metall. Den har 30 mm diameter och passar viktskivor i samma storlek."
+   },
+   "html": {
+    "fore": "<p>Tunturi Curlbar är en curlbar av metall på 120 cm. Stångens diameter är 30 mm och den passar viktskivor med 30 mm diameter.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en curlbar på 120 cm</li>\n<li>Dig som söker en curlbar för viktskivor med 30 mm diameter</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Stångens längd: 120 cm</li>\n<li>Stångens diameter: 30 mm</li>\n<li>Vikt: 6,8 kg</li>\n<li>Material: metall</li>\n<li>Märke: Tunturi</li>\n</ul>",
+    "efter": "<p>Curlbaren från Tunturi är 120 cm lång och av metall. Stångens diameter är 30 mm och den passar viktskivor med 30 mm diameter.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en curlbar på 120 cm</li>\n<li>Dig som söker en curlbar för viktskivor med 30 mm diameter</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Stångens längd: 120 cm</li>\n<li>Stångens diameter: 30 mm</li>\n<li>Vikt: 6,8 kg</li>\n<li>Material: Metall</li>\n<li>Märke: Tunturi</li>\n</ul>"
+   }
+  },
+  "skal": "Data ordagrant (120 cm, 30 mm, 6,8 kg, metall); maxvikt, skruvkrokar och viktkedjor korrekt utelämnade. Rättning: cirkulär och upprepande meta ('curlbar … 30 mm diameter … 30 mm diameter') skrivs om. Beställningsmening rätt. Övrigt: stor bokstav efter kolon i specifikationen (format 2026-11-01)."
+ },
+ {
+  "nr": 10245,
+  "id": "10472210956554",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Hantelstång Tunturi, 36 cm, med skruvfästen",
+    "efter": "Hantelstång Tunturi, 36 cm, med Skruvfästen"
+   },
+   "seo_title": {
+    "fore": "Hantelstång Tunturi 36 cm skruvfästen",
+    "efter": "Hantelstång Tunturi 36 cm Skruvfästen"
+   },
+   "meta": {
+    "fore": "Tunturi Hantelstång är en hantelstång på 36 cm med skruvfästen. Enligt tillverkaren har den ett halkfritt handtag.",
+    "efter": "Hantelstången från Tunturi är 36 cm lång och har skruvfästen. Enligt tillverkaren har den ett halkfritt handtag."
+   },
+   "html": {
+    "fore": "<p>Tunturi Hantelstång är en hantelstång på 36 cm med skruvfästen. Enligt tillverkaren har den ett halkfritt handtag.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en hantelstång på 36 cm</li>\n<li>Dig som söker en hantelstång med skruvfästen</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Längd: 36 cm</li>\n<li>Fästen: skruvfästen</li>\n<li>Märke: Tunturi</li>\n</ul>",
+    "efter": "<p>Hantelstången från Tunturi är 36 cm lång och har skruvfästen. Enligt tillverkaren har den ett halkfritt handtag.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en hantelstång på 36 cm</li>\n<li>Dig som söker en hantelstång med skruvfästen</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Längd: 36 cm</li>\n<li>Fästen: Skruvfästen</li>\n<li>Märke: Tunturi</li>\n</ul>"
+   }
+  },
+  "skal": "36 cm bara i live-titeln, skruvfästen och halkfritt handtag i texten; maxvikt utelämnad. Rättning: cirkulär meta/intro skrivs om; 'med Skruvfästen' med versal. Övrigt: stor bokstav efter kolon i specifikationen (format 2026-11-01)."
+ },
+ {
+  "nr": 10246,
+  "id": "10472208564490",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Tunturi Olympic Lock Jaw Collars är hantellås i svart syntetiskt material för 50 mm hanteldiameter. Enligt tillverkaren har de ett snäpp-och-lås-system som gör det enkelt att byta viktskivor.</p><h2>Passar för</h2><ul>\n<li>Dig som söker hantellås för 50 mm hanteldiameter</li>\n<li>Dig som söker hantellås i svart syntetiskt material</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Lämpliga för: 50 mm hanteldiameter</li>\n<li>Vikt: 176 g</li>\n<li>Färg: svart</li>\n<li>Material: syntetiskt</li>\n<li>Märke: Tunturi</li>\n</ul>",
+    "efter": "<p>Tunturi Olympic Lock Jaw Collars är hantellås i svart syntetiskt material för 50 mm hanteldiameter. Enligt tillverkaren har de ett snäpp-och-lås-system som gör det enkelt att byta viktskivor.</p><h2>Passar för</h2><ul>\n<li>Dig som söker hantellås för 50 mm hanteldiameter</li>\n<li>Dig som söker hantellås i svart syntetiskt material</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Lämpliga för: 50 mm hanteldiameter</li>\n<li>Vikt: 176 g</li>\n<li>Färg: Svart</li>\n<li>Material: Syntetiskt</li>\n<li>Märke: Tunturi</li>\n</ul>"
+   }
+  },
+  "skal": "Data ordagrant (50 mm, 176 g, svart, syntetiskt); trasiga måttrader och 'nästan obrytbara'/säkerhet borta. Krock med a_2 nr 2203: samma id 10472208564490, a_2-titeln 'Hantellås Tunturi Olympic Lock Jaw Collars, 50 mm' finns inte i någon skrivfil – f_10 gäller och a_2 2203 måste uteslutas vid bygget. Övrigt: stor bokstav efter kolon i specifikationen (format 2026-11-01)."
+ },
+ {
+  "nr": 10247,
+  "id": "10588448129290",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Tunturi Rapid är en justerbar hantelstång av järn som väger 11 kg. Setet innehåller 1 lyfthandtag. Tunturi Rapid Tilläggskit finns som tillval.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en justerbar hantelstång</li>\n<li>Dig som söker en hantelstång av järn på 11 kg</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Material: järn</li>\n<li>Vikt: 11 kg</li>\n<li>Innehåll: 1 lyfthandtag</li>\n<li>Tillval: Tunturi Rapid Tilläggskit</li>\n<li>Märke: Tunturi</li>\n</ul>",
+    "efter": "<p>Tunturi Rapid är en justerbar hantelstång av järn som väger 11 kg. Setet innehåller 1 lyfthandtag. Tunturi Rapid Tilläggskit finns som tillval.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en justerbar hantelstång</li>\n<li>Dig som söker en hantelstång av järn på 11 kg</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Material: Järn</li>\n<li>Vikt: 11 kg</li>\n<li>Innehåll: 1 lyfthandtag</li>\n<li>Tillval: Tunturi Rapid Tilläggskit</li>\n<li>Märke: Tunturi</li>\n</ul>"
+   }
+  },
+  "skal": "Järn, 11 kg, 1 lyfthandtag, tillvalskit ordagrant; 'lyckrok' och tom måttrad utelämnade; jämförelse med 'någon annan hantelstång' borta. Övrigt: stor bokstav efter kolon i specifikationen (format 2026-11-01)."
+ },
+ {
+  "nr": 10248,
+  "id": "10472255291658",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Tunturi Olympic Rubber Plate är en viktskiva i gummi på 10 kg med handtag och 50 mm hålavstånd. Finns hos BEST OF SPORTS.",
+    "efter": "Tunturi Olympic Rubber Plate är en viktskiva i gummi på 10 kg med handtag och 50 mm håldiameter. Finns hos BEST OF SPORTS."
+   },
+   "html": {
+    "fore": "<p>Tunturi Olympic Rubber Plate är en viktskiva i gummi på 10 kg. Enligt tillverkaren kan skivan fästas på en 50 mm skivstång och har handtag.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en viktskiva på 10 kg</li>\n<li>Dig som söker en viktskiva i gummi med handtag</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Hålavstånd: 50 mm</li>\n<li>Vikt: 10 kg</li>\n<li>Med handtag</li>\n<li>Material: gummi</li>\n<li>Märke: Tunturi</li>\n</ul>",
+    "efter": "<p>Tunturi Olympic Rubber Plate är en viktskiva i gummi på 10 kg. Enligt tillverkaren kan skivan fästas på en 50 mm skivstång och har handtag.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en viktskiva på 10 kg</li>\n<li>Dig som söker en viktskiva i gummi med handtag</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Håldiameter: 50 mm</li>\n<li>Vikt: 10 kg</li>\n<li>Med handtag</li>\n<li>Material: Gummi</li>\n<li>Märke: Tunturi</li>\n</ul>"
+   }
+  },
+  "skal": "10 kg, gummi, handtag ordagrant; motsägande diameter (30,5/50 cm) och trasig tjockleksrad korrekt utelämnade. Rättning: Hålavstånd → Håldiameter (egen text: '50 mm skivstångshandtag'). Övrigt: stor bokstav efter kolon i specifikationen (format 2026-11-01)."
+ },
+ {
+  "nr": 10249,
+  "id": "10472259125514",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Tunturi Olympic Rubber Plate är en viktskiva i gummi på 15 kg. Enligt tillverkaren kan skivan fästas på en 50 mm skivstång och har handtag.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en viktskiva på 15 kg</li>\n<li>Dig som söker en viktskiva i gummi med handtag</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Håldiameter: 50 mm</li>\n<li>Skivdiameter: 35,5 cm</li>\n<li>Skivtjocklek: 4,5 cm</li>\n<li>Vikt: 15 kg</li>\n<li>Med handtag</li>\n<li>Material: gummi</li>\n<li>Märke: Tunturi</li>\n</ul>",
+    "efter": "<p>Tunturi Olympic Rubber Plate är en viktskiva i gummi på 15 kg. Enligt tillverkaren kan skivan fästas på en 50 mm skivstång och har handtag.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en viktskiva på 15 kg</li>\n<li>Dig som söker en viktskiva i gummi med handtag</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Håldiameter: 50 mm</li>\n<li>Skivdiameter: 35,5 cm</li>\n<li>Skivtjocklek: 4,5 cm</li>\n<li>Vikt: 15 kg</li>\n<li>Med handtag</li>\n<li>Material: Gummi</li>\n<li>Märke: Tunturi</li>\n</ul>"
+   }
+  },
+  "skal": "Data ordagrant (håldiameter 50 mm, 35,5 cm, 4,5 cm, 15 kg); värdena står i egen källa. Övrigt: stor bokstav efter kolon i specifikationen (format 2026-11-01)."
+ },
+ {
+  "nr": 10250,
+  "id": "10461961027850",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Tunturi Olympic Rubber Plate är en viktskiva i gummi på 20 kg. Enligt tillverkaren kan skivan fästas på en 50 mm skivstång och har handtag.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en viktskiva på 20 kg</li>\n<li>Dig som söker en viktskiva i gummi med handtag</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Håldiameter: 50 mm</li>\n<li>Skivdiameter: 43 cm</li>\n<li>Skivtjocklek: 4,3 cm</li>\n<li>Vikt: 20 kg</li>\n<li>Med handtag</li>\n<li>Material: gummi</li>\n<li>Märke: Tunturi</li>\n</ul>",
+    "efter": "<p>Tunturi Olympic Rubber Plate är en viktskiva i gummi på 20 kg. Enligt tillverkaren kan skivan fästas på en 50 mm skivstång och har handtag.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en viktskiva på 20 kg</li>\n<li>Dig som söker en viktskiva i gummi med handtag</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Håldiameter: 50 mm</li>\n<li>Skivdiameter: 43 cm</li>\n<li>Skivtjocklek: 4,3 cm</li>\n<li>Vikt: 20 kg</li>\n<li>Med handtag</li>\n<li>Material: Gummi</li>\n<li>Märke: Tunturi</li>\n</ul>"
+   }
+  },
+  "skal": "Data ordagrant (50 mm, 43 cm, 4,3 cm, 20 kg); värdena står i egen källa. Övrigt: stor bokstav efter kolon i specifikationen (format 2026-11-01)."
+ }
+]
