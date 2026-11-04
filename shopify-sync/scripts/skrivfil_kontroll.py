@@ -44,6 +44,10 @@ def las_sparr(path):
     for s in cfg['sparrar']:
         if not s.get('aktiv'):
             continue
+        for i in s.get('ids', []):  # id-lista direkt i spärrlistan (HYPR-formatet)
+            ut[str(i)] = (s['namn'], set(s.get('kanda_overtradelser', [])))
+        if not s.get('idfil'):
+            continue
         with open(os.path.join(ROT, s['idfil']), encoding='utf-8') as f:
             for r in csv.DictReader(f):
                 ut[str(r[s['idkolumn']])] = (s['namn'], set(s.get('kanda_overtradelser', [])))
