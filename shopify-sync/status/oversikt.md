@@ -22,3 +22,6 @@ Skriven av samordnaren (grenen `claude/oversikt-samordnare`). Öppna frågor i p
 
 ## Sammanslagning (2026-11-04 kväll, Davids ja på S11)
 Alla åtta butiksgrenar är sammanslagna in i `claude/oversikt-samordnare` med `shopify-sync/scripts/samordna_sammanslagning.sh`; grenarna själva är oförändrade. Ingen pull request, main orörd. Loggfilerna i `docs/` har båda sidors rader. Filer med samma namn: `rapporter/beslut-2026-11-04-7-<butik>.md` (byou, gorillasports, hyprnutrition, mondido, tothemoon, workoutbrands), `beslut-2026-11-04-5-alphazoo.md` och `shopify-sync/scripts/offentlig_inventering-<butik>.py` (gorillasports, workoutbrands; Alpha Zoos version behåller namnet). Kvarstår: två B You-profiler (S6) och att kontrollskriptet stoppar på profiler med TODO i standardblocket (B You, HYPR).
+
+## Mondido och To The Moon (2026-11-04, Davids besked)
+Mondido erbjuder betaltjänster till Shopify-butiker; To The Moon är hemsidan för investmentbolaget (veckovisa förfrågningar från entreprenörer som söker investeringar). Ingen av dem är en butik, så fas 1 för butiker är inte aktuell. Raderna Mondido och To The Moon i tabellen ovan ersätts av detta (tabellen skrevs före beskedet). Sessionerna får vila; ingen ny uppgift skickad. Frågan S2 är avklarad.
