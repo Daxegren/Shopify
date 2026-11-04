@@ -1,0 +1,67 @@
+[
+ {
+  "id": "10468744397066",
+  "nr": 10101,
+  "skäl": "R2/R3: källan motsäger sig (Shimano EP8 i löptexten mot EP800 i motorraden, 180 mm mot 178 mm fjädringsväg, ramstorlek S och M båda 38 cm). Live har dessutom en Default Title-variant (111 449 kr, SKU B36REX06, samma SKU som XL / blue för 111 239 kr) vid sidan av L / blue (111 449 kr). Prisskillnaden beror på storlek och färgen blå är gemensam, men motsägelserna gäller motor, fjädring och storlek och kärnuppgifterna går inte att skriva entydigt."
+ },
+ {
+  "id": "10488282251530",
+  "nr": 10102,
+  "skäl": "R3/R12a: priset skiljer inte bara med storlek. XL / gray kostar 38 019 kr men XL / dark gray 33 059 kr (samt en dubbel variant \"XL / dark gray (FA58)\", samma SKU B37LBGYSHFA58). Titeln låser Charcoal medan varianterna är gray och dark gray, och raden Rammaterial i källan är trasig (storlekslista). En titel utan färg blir identisk med den andra aktiva annonsen 10530213921034 (exakt samma titel, Default Title, SKU B37LBGYSHFA52, ej skriven). David avgör om de två Libre-annonserna ska slås ihop."
+ },
+ {
+  "id": "10474079322378",
+  "nr": 10104,
+  "skäl": "R3: live har Default Title (SKU B36RV6556, 18 719 kr) och XL / gray (SKU B36RV6558, 16 279 kr). Default Title saknar storlek och färg, titelns färg Silver stämmer inte med variantfärgen gray, och källans storlekslista (XL, L, M, S) kan inte kopplas till varianterna (R3 v1.5: bara sålda storlekar får nämnas). Prisskillnaden 2 440 kr kan inte visas bero på storlek enbart."
+ },
+ {
+  "id": "10656690274570",
+  "nr": 10108,
+  "skäl": "R3, tunn källa och trasigt pris: källan säger bara \"Passar modellerna Cargobike of Sweden Flex och Delight\" (kompatibilitet, inga mått eller material), titelns \"med ryggstöd\" saknar stöd i källan och varianten kostar 9,00 kr (SKU 1521-30), vilket uppenbart är fel. Ingen webbkälla använd; modellen är inte entydigt identifierbar."
+ },
+ {
+  "id": "10488246632714",
+  "nr": 10109,
+  "skäl": "R3: Default Title 12 469 kr (SKU 2206041185) mot L / black 5 229 kr (SKU 2206041187). Olika SKU och en prisskillnad på över 7 000 kr som inte förklaras av storlek; Default Title saknar storlek och färg och titeln låser färgen svart. Variantdatat är trasigt, David avgör vilken variant som gäller."
+ },
+ {
+  "id": "10462190567690",
+  "nr": 10110,
+  "skäl": "R2/R3: titeln säger Matte Plum, källan säger \"Färg: orange\" och alla varianter är purple. Prisskillnaden (M 25 569 kr, L och XL 25 519 kr) beror på storlek, men färgen går inte att styrka och källan motsäger sig, så färgen kan inte skrivas och en titel utan färg skulle dölja motsägelsen. David avgör."
+ },
+ {
+  "id": "10474079518986",
+  "nr": 10111,
+  "skäl": "R3: Default Title 13 339 kr och M / green 11 599 kr med samma SKU (2201135185). Default Title saknar storlek och färg, så prisskillnaden (1 740 kr) kan inte visas bero på storlek; titeln låser Ocean Wave medan varianten heter green; källan listar S och M. David avgör."
+ },
+ {
+  "id": "10462795202826",
+  "nr": 10112,
+  "skäl": "R3: Default Title 10 239 kr och L / must 9 509 kr med samma SKU (28201502-C); prisskillnaden på 730 kr kan inte visas bero på storlek. Samma modell och färg finns dessutom som utkastet 10474077847818 (DRAFT, ej skriven), och källans växelrad är trasig (Shimano Nexus 7 - 160 cm)."
+ },
+ {
+  "id": "10471064273162",
+  "nr": 10113,
+  "skäl": "R3: Default Title 6 749 kr och L / valge 5 869 kr (samma SKU 28200712-B; valge är estniska för vit). Troligen en överbliven Default Title-variant, men hanteringen av sådana (k_utlatande_02d, beslut 3) är inte beslutad av David, så avvisningen kvarstår. Kan skrivas direkt om David säger att Default Title med samma SKU ska ignoreras."
+ },
+ {
+  "id": "10472297300234",
+  "nr": 10114,
+  "skäl": "R3: Default Title 9 979 kr (SKU 28201899-A) och M / yellow 8 679 kr (SKU 28181898-A). Olika SKU och pris; källan listar storlek M (18 tum) och L (20 tum), och Default Title saknar angiven storlek och färg, så prisskillnaden kan inte visas bero på storlek."
+ },
+ {
+  "id": "10472332099850",
+  "nr": 10115,
+  "skäl": "R3: Default Title 11 309 kr (SKU 28230604-D) och M / Red 9 839 kr (SKU 28190602-C). Olika SKU och pris; källan har bara storlek L (21 tum) medan varianten är M, och titelns färg röd gäller bara den ena varianten."
+ },
+ {
+  "id": "10472258011402",
+  "nr": 10116,
+  "skäl": "R3: Default Title 8 549 kr och XL / hall 7 439 kr (samma SKU 28230568-A). Variantfärgen \"hall\" (estniska: grå) stämmer inte med titelns grå-blå, och källan listar M, L och XL utan färg. David avgör."
+ },
+ {
+  "id": "10472292090122",
+  "nr": 10117,
+  "skäl": "R3: Default Title 9 479 kr och XL / blue 8 239 kr (samma SKU TAB23-3020). Titeln anger svart-grön men varianten är blue och källan nämner ingen färg; källans ramstorlekar M och L stämmer inte med varianten XL."
+ }
+]
