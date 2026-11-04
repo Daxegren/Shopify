@@ -5,6 +5,13 @@ Syftet är att samma fel inte upprepas i nya arbetspass. Filen fylls bara på: n
 ## Hur en post skrivs
 Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 
+### 2026-11-04: Kollektioner är blandade; ett prisspann eller antal över hela kollektionen är missvisande
+- **Vad hände:** första faktaunderlaget för kategoritexter gav "från 69 kr" för löpband (löpbandsolja), "från 409 kr" för motionscykel (cykelsadel) och 26 sparkcykelhjul i sparkcyklar. `productType` duger inte som typ (nästan allt är "Konditionsträning & Fitness"). Upptäcktes när billigaste titlarna listades innan texten skrevs.
+- **Regel:** räkna antal, märken och pris för en kategori bara på huvudprodukter (typordet i titelns två första ord, `kategorier_underlag.py`). Granska alltid billigaste och dyraste titel innan ett prisspann skrivs. Leverantörsnamn (Velomarket, Gorilla Sports Norden) är inte märken.
+
+### 2026-11-04: Data för prioritering saknades i sessionen (Windsor bara Facebook, Ahrefs ingår inte i planen)
+- **Regel:** kontrollera datakällor (`get_connectors`, ett testanrop) innan en prioritering lovas efter Search Console. Säg öppet när prioriteringen bygger på ersättningsmått (antal köpbara produkter).
+
 
 ### 2026-11-04: Formatskriptet gav "El-Lastcykel", och granskaren fångade det bara i en av tre batcher
 - **Vad hände:** `format_regler.py` skriver stor bokstav efter bindestreck i typordet ("El-Lastcykel"). Granskaren av k_01a rättade det, men det gick igenom i k_01c (9055 och 9060) och skrevs i butiken. Upptäcktes när jag gjorde granskarens fynd till test; rättades samma dag (skrivet och återläst). Granskaren av k_01c fann dessutom 3 gånger "enligt tillverkaren" i en text (R5, högst 2), som skriptet inte räknade.
