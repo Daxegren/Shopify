@@ -1,0 +1,235 @@
+[
+ {
+  "nr": 10251,
+  "id": "10472259158282",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Gummi, 25 kg och 50 mm grepp står i källan; skydds- och ljudpåståenden borta; mått saknas i källan och påstås inte."
+ },
+ {
+  "nr": 10252,
+  "id": "10411688132874",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Gummi, 5 kg, handtag, 4,2 cm och 50 mm ordagrant; trasig diameterrad utelämnad; fästa på 50 mm-handtag eller använda lös står i källan."
+ },
+ {
+  "nr": 10253,
+  "id": "10472259944714",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "20 kg i titel, Totalvikt och raden '1 viktkedja ... 20 kg' (kedja = feltolkad 'skiva'); 35,5/3,8 cm från rena rader; 'Malm' rätt utelämnat."
+ },
+ {
+  "nr": 10254,
+  "id": "10462852284682",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Avvisningen bekräftas. Titeln anger svart och 5 kg, men produkten har fem varianter (SKU 25TUPLA002–009) med priser 659–2159 kr och oförklarade namn. Varianterna kan avse andra vikter, så titel och specifikation går inte att låsa."
+ },
+ {
+  "nr": 10255,
+  "id": "10470912950538",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt ordagrant (gummi, 10 kg, 30 mm, 32 cm, 3,6 cm, 1 viktskiva); förvaringstips borta."
+ },
+ {
+  "nr": 10256,
+  "id": "10472260043018",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Rena rader (39,8 cm, 4,2 cm, 20 kg) återgivna; trasig rad utelämnad."
+ },
+ {
+  "nr": 10257,
+  "id": "10472211448074",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Avvisningen bekräftas. Titeln anger 5 kg, men produkten har två varianter (14TUSCL145 till 269 kr, 14TUSCL147 till 769 kr) med oförklarade namn. Källan anger bara Vikt: 5 kg; varianterna kan avse annan vikt."
+ },
+ {
+  "nr": 10258,
+  "id": "10462201839882",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Avvisningen bekräftas. Titeln anger 15 kg, men produkten har två varianter (14TUSCF058 till 1549 kr, 14TUSCF059 till 1829 kr) med oförklarade namn. Källans text blandar dessutom hantlar och viktskivor och talar om 'kedja'."
+ },
+ {
+  "nr": 10259,
+  "id": "10475372871946",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Gjutjärn, håldiameter 30 mm, 32,4/3,1 cm och 1 viktskiva ordagrant; '15kg' rättat till '15 kg'."
+ },
+ {
+  "nr": 10260,
+  "id": "10411753505034",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "10 kg i titel, Totalvikt och raden '1 viktkedja som väger 10 kg'; 29,1/2,9 cm från rena rader; trasig rad och 'Malm' utelämnade."
+ },
+ {
+  "nr": 10261,
+  "id": "10472268693770",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "5 kg gäller: titel, handle, Totalvikt 5 kg och samma pris som 10268 (2 x 2,5 kg, 219 kr). 'Vikt: 2,9 kg' står i en trasig rad där alla tal är 2,9 (skivans tjocklek upprepad) och är ingen uppgift. 'Malm' utelämnat."
+ },
+ {
+  "nr": 10262,
+  "id": "10472289960202",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Viktskiva Tunturi Aerobic Pump Plates, 2 x 10 kg",
+    "efter": "Viktskivor Tunturi Aerobic Pump Plates, 2 x 10 kg"
+   },
+   "seo_title": {
+    "fore": "Viktskiva Tunturi Aerobic Pump 2 x 10 kg",
+    "efter": "Viktskivor Tunturi Aerobic Pump 2 x 10 kg"
+   },
+   "html": {
+    "fore": "<p>Tunturi Aerobic Pump Plates är slitstarka metallskivor med gummiöverdrag och handtag.",
+    "efter": "<p>Tunturi Aerobic Pump Plates är viktskivor av metall med gummiöverdrag och handtag."
+   }
+  },
+  "skal": "'Två kedjor, var och en 10 kg' = två skivor à 10 kg (estniska 'ketas' = skiva, samma fel som 'viktkedja' i 10253/10260; jämför 10266 som skriver 'två viktskivor'). 'Slitstarka' är tillverkarens kvalitetsord utan 'enligt tillverkaren' och stryks. Typordet ska vara plural för ett set om två (live: 'Viktskivor')."
+ },
+ {
+  "nr": 10263,
+  "id": "10462774198538",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Viktskiva Tunturi Olympic Rubber Plates, 50 mm, 2 x 1,25 kg",
+    "efter": "Viktskivor Tunturi Olympic Rubber Plates, 50 mm, 2 x 1,25 kg"
+   },
+   "seo_title": {
+    "fore": "Viktskiva Olympic Rubber 2 x 1,25 kg",
+    "efter": "Viktskivor Olympic Rubber 2 x 1,25 kg"
+   }
+  },
+  "skal": "Data ordagrant (2 x 1,25 kg, totalt 2,5 kg, 18 cm, 2,5 cm, 50 mm, handtag). Typordet ska vara plural för ett set om två (live: 'Viktskivor')."
+ },
+ {
+  "nr": 10264,
+  "id": "10472311357706",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Avvisningen bekräftas. Titeln anger Blå, men produkten har två varianter (blue 25TUPLA049, green 25TUPLA047) med olika pris, 679 respektive 409 kr. Titeln anger en variant medan källan visar flera."
+ },
+ {
+  "nr": 10265,
+  "id": "10494900633866",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Viktskiva Tunturi Platinum Fractional Plates, Röd, 2 x 2,5 kg",
+    "efter": "Viktskivor Tunturi Platinum Fractional Plates, Röd, 2 x 2,5 kg"
+   },
+   "seo_title": {
+    "fore": "Viktskiva Platinum Fractional 2 x 2,5 kg",
+    "efter": "Viktskivor Platinum Fractional 2 x 2,5 kg"
+   }
+  },
+  "skal": "Data ordagrant (2 x 2,5 kg, 51,5 mm, gummibeläggning); '50mm' i titeln rätt struket; en variant, Röd får stå; beställningsmening rätt (tagg 'På beställning'). Typordet ska vara plural."
+ },
+ {
+  "nr": 10266,
+  "id": "10472289992970",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Viktskiva Tunturi PRO Aerobic Pump Plates, 2 x 10 kg",
+    "efter": "Viktskivor Tunturi PRO Aerobic Pump Plates, 2 x 10 kg"
+   },
+   "seo_title": {
+    "fore": "Viktskiva PRO Aerobic Pump 2 x 10 kg",
+    "efter": "Viktskivor PRO Aerobic Pump 2 x 10 kg"
+   }
+  },
+  "skal": "Data ordagrant (TPU, 2 x 10 kg, 35 x 35 x 3,3 cm, 30 mm); beställningsmening rätt; productType Professionell utrustning oförändrad. Typordet ska vara plural."
+ },
+ {
+  "nr": 10267,
+  "id": "10472248901898",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Viktskiva Tunturi Rubber Plates, 30 mm, 2 x 0,5 kg",
+    "efter": "Viktskivor Tunturi Rubber Plates, 30 mm, 2 x 0,5 kg"
+   },
+   "seo_title": {
+    "fore": "Viktskiva Tunturi Rubber 30 mm 2 x 0,5 kg",
+    "efter": "Viktskivor Tunturi Rubber 30 mm 2 x 0,5 kg"
+   }
+  },
+  "skal": "2 x 0,5 kg och totalt 1 kg stämmer; lös siffra '2,5 kg' rätt utelämnad. Typordet ska vara plural."
+ },
+ {
+  "nr": 10268,
+  "id": "10475372740874",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Viktskiva Tunturi Skivor Svart, 30 mm, 2 x 2,5 kg",
+    "efter": "Viktskivor Tunturi Skivor Svart, 30 mm, 2 x 2,5 kg"
+   },
+   "seo_title": {
+    "fore": "Viktskiva Tunturi Skivor Svart 2 x 2,5 kg",
+    "efter": "Viktskivor Tunturi Skivor Svart 2 x 2,5 kg"
+   }
+  },
+  "skal": "Järn, 2 x 2,5 kg, totalt 5 kg, 15,8/2,5 cm ordagrant. Typordet ska vara plural."
+ },
+ {
+  "nr": 10269,
+  "id": "10472302477578",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Godkänd: '15 kg hantelset' står i titel och brödtext och återges som setets vikt; inget påstås om handtagets vikt (skivorna 12,5 kg + odeklarerat handtag motsäger inte 15 kg). 1 hantel, 2 x 1,25 + 4 x 2,5 kg, hantellås, 30 mm ordagrant; 'säkert' borta. Se fråga till David."
+ },
+ {
+  "nr": 10270,
+  "id": "10472324792586",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Engelsk källa: bara 'one dumbbell', vikten, 'hardened steel handle', 'PU coating' och 'weights from 2.5 to 40 kg' (enligt tillverkaren) används; slitage-, ljud-, stabilitets- och kvalitetsord borta. 'En hantel' är rätt (källan och prisstegen). Beställningsmening rätt. Vikten i titel, handle och brödtext stämmer."
+ },
+ {
+  "nr": 10271,
+  "id": "10472324956426",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Engelsk källa: bara 'one dumbbell', vikten, 'hardened steel handle', 'PU coating' och 'weights from 2.5 to 40 kg' (enligt tillverkaren) används; slitage-, ljud-, stabilitets- och kvalitetsord borta. 'En hantel' är rätt (källan och prisstegen). Beställningsmening rätt. Vikten i titel, handle och brödtext stämmer."
+ },
+ {
+  "nr": 10272,
+  "id": "10471314489610",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Engelsk källa: bara 'one dumbbell', vikten, 'hardened steel handle', 'PU coating' och 'weights from 2.5 to 40 kg' (enligt tillverkaren) används; slitage-, ljud-, stabilitets- och kvalitetsord borta. 'En hantel' är rätt (källan och prisstegen). Beställningsmening rätt. Vikten i titel, handle och brödtext stämmer."
+ },
+ {
+  "nr": 10273,
+  "id": "10472324759818",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Engelsk källa: bara 'one dumbbell', vikten, 'hardened steel handle', 'PU coating' och 'weights from 2.5 to 40 kg' (enligt tillverkaren) används; slitage-, ljud-, stabilitets- och kvalitetsord borta. 'En hantel' är rätt (källan och prisstegen). Beställningsmening rätt. Vikten i titel, handle och brödtext stämmer."
+ },
+ {
+  "nr": 10274,
+  "id": "10472325153034",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Engelsk källa: bara 'one dumbbell', vikten, 'hardened steel handle', 'PU coating' och 'weights from 2.5 to 40 kg' (enligt tillverkaren) används; slitage-, ljud-, stabilitets- och kvalitetsord borta. 'En hantel' är rätt (källan och prisstegen). Beställningsmening rätt. Vikten i titel, handle och brödtext stämmer."
+ },
+ {
+  "nr": 10275,
+  "id": "10472325054730",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Engelsk källa: bara 'one dumbbell', vikten, 'hardened steel handle', 'PU coating' och 'weights from 2.5 to 40 kg' (enligt tillverkaren) används; slitage-, ljud-, stabilitets- och kvalitetsord borta. 'En hantel' är rätt (källan och prisstegen). Beställningsmening rätt. Vikten i titel, handle och brödtext stämmer."
+ }
+]
