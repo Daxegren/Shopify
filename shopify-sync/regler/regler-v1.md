@@ -38,3 +38,6 @@ Cirkulära inledningar (R11), meta utan verb, typord som byts utan stöd i käll
 - R4 (G) Olika lastvärden i löptext och tabell: utelämna lastgränsen.
 - R13 (G) Leveranstidsmeningen bara på produkter med taggen "På beställning" (kontrolleras av granskaren; skriptet ser inte taggen).
 - Dubblett (R12a): är den redan skrivna produkten arkiverad räknas den inte som dubblett; den aktiva produkten skrivs.
+
+## v1.6 (2026-11-04): faktakoll på nätet (Davids beslut)
+- R1 (G) kompletteras: saknas uppgiften i produktens egen källa får den hämtas från tillverkarens egen sida eller annan tillförlitlig källa på nätet, om källan entydigt gäller exakt den modellen. Källans adress anges i `att_bekrafta`. Tvetydigt eller ej funnet: utelämna. Leverantören kontaktas inte för bekräftelse.
