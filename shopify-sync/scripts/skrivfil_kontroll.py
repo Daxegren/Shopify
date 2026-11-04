@@ -82,6 +82,9 @@ def kontrollera(fil, sparr, tillat_kanda):
         if x.get('seo_title') and len(x['seo_title']) > 43: f('seo-titel över 43 tecken')
         if x.get('meta') and not 70 <= len(x['meta']) <= 155: f(f'meta {len(x["meta"])} tecken (70–155)')
         if not x.get('meta'): v('meta saknas (null)')
+        mt = x.get('meta') or ''
+        if mt.endswith('Finns hos BEST OF SPORTS.') and len(mt) - len('Finns hos BEST OF SPORTS.') - 1 >= 70:
+            v('meta slutar med utfyllnaden "Finns hos BEST OF SPORTS." fast den redan är över 70 tecken (R12); rensas i butiken när API-vägen finns')
         for k in ('titel', 'seo_title', 'meta'):
             if x.get(k) and c[k][x[k]] > 1:
                 f(f'dubblett av {k} inom filen')

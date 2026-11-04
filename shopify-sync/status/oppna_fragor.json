@@ -52,5 +52,11 @@
   "datum": "2026-11-04",
   "fraga": "Elektronik som pulsband och vågar: tillåtet som ren teknisk fakta, eller utanför? Kroppsanalysvågar (hälsoparametrar) ligger nu utanför. Typordet Träningshjul (10502 live, Exercise wheel) är inte godkänt i profilen: godkänn eller byt",
   "status": "öppen"
+ },
+ {
+  "id": "F10",
+  "datum": "2026-11-04",
+  "fraga": "Cirka 30 skrivna fitnessprodukter har meta som slutar med utfyllnaden 'Finns hos BEST OF SPORTS.' fast metan redan är över 70 tecken. Rensa den i ett svep när API-vägen finns (enkel textersättning)?",
+  "status": "öppen"
  }
 ]

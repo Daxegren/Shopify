@@ -3,7 +3,7 @@
 Genereras av `shopify-sync/scripts/status_uppdatera.py` (2026-11-04). Redigera inte för hand; öppna frågor ligger i `oppna_fragor.json`.
 Regler: `shopify-sync/regler/regler-v1.md`. Beslut: `shopify-sync/docs/BESLUTSLOGG.md`. Profil: `shopify-sync/config/butiksprofil-bestofsports.json`.
 
-**Fitnessgruppen:** 435 produkter skrivna och verifierade i batcherna nedan (utöver tidigare vågor). Avvisade i batcherna: 51.
+**Fitnessgruppen:** 457 produkter skrivna och verifierade i batcherna nedan (utöver tidigare vågor). Avvisade i batcherna: 51.
 
 | Batch | Inventerade | Utkast | Avvisade | Dom (godk/rättas/underk) | Skrivfil | Steg |
 |---|---|---|---|---|---|---|
@@ -24,7 +24,7 @@ Regler: `shopify-sync/regler/regler-v1.md`. Beslut: `shopify-sync/docs/BESLUTSLO
 | f_15 | 25 | 25 | 0 | 4/20/1 | 24 | skriven |
 | f_x1 | 7 | 7 | 0 | 4/3/0 | 7 | skriven |
 | g_1 | 25 | 23 | 2 | 15/7/1 | 22 | skriven |
-| g_2 | 25 | 22 | 3 | 11/11/3 | 22 | skrivfil |
+| g_2 | 25 | 22 | 3 | 11/11/3 | 22 | skriven |
 | g_3 | 25 | 11 | 14 | 4/2/5 | 6 | skrivfil |
 | g_4 | 12 |  | 0 |  |  | in |
 | h_1 | 25 | 25 | 0 | 20/5/0 | 25 | skriven |
@@ -47,3 +47,4 @@ Steg: in → utkast → granskad → skrivfil → skriven (skrivrapport finns). 
 - F7 (2026-11-04): API-vägen: tillåt myshopify-adressen, skapa app (read/write_products) och lägg token som hemlig variabel
 - F8 (2026-11-04): CLAUDE.md: ok att lägga in en kort rad som pekar på regelbok, beslutslogg och profil så de läses vid start?
 - F9 (2026-11-04): Elektronik som pulsband och vågar: tillåtet som ren teknisk fakta, eller utanför? Kroppsanalysvågar (hälsoparametrar) ligger nu utanför. Typordet Träningshjul (10502 live, Exercise wheel) är inte godkänt i profilen: godkänn eller byt
+- F10 (2026-11-04): Cirka 30 skrivna fitnessprodukter har meta som slutar med utfyllnaden 'Finns hos BEST OF SPORTS.' fast metan redan är över 70 tecken. Rensa den i ett svep när API-vägen finns (enkel textersättning)?
