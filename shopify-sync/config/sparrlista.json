@@ -1,24 +1,54 @@
 {
-  "butik": "bestofsports.se",
-  "beskrivning": "Produkter som inte får skrivas av textutrullningen. Läses av shopify-sync/scripts/skrivfil_kontroll.py. Lägg till nya spärrar som nya poster; sätt aktiv=false när en spärr hävts och ange datum och beslut. Ta inte bort poster.",
-  "sparrar": [
-    {
-      "namn": "pilot-20",
-      "aktiv": true,
-      "idfil": "rapporter/bestofsports-pilot-20-produkter-2026-10-25.csv",
-      "idkolumn": "produkt_id",
-      "skal": "Pilotens 20 produkter (T33) mäts runt 2026-11-22 och ändras inte i vågorna.",
-      "beslut": "David, rad 73 i shopify-sync/docs/produkttexter-standard.md; bekräftat 2026-11-04 (pilotprodukterna hålls kvar tills David säger annat).",
-      "kanda_overtradelser": ["10411848532234", "10541370114314"]
-    },
-    {
-      "namn": "experiment-1",
-      "aktiv": false,
-      "idfil": "rapporter/forslag-bos-experiment-1-2026-10-27/kohorter.csv",
-      "idkolumn": "produkt_id",
-      "skal": "Experiment 1 (432 produkter, kohorter T och K) skulle inte ändras i vågorna.",
-      "hävd": "2026-11-04",
-      "beslut": "David 2026-11-04: trafiken är låg och Google Ads avstängt, så experimentet går inte att lita på; nya tester schemaläggs när allt är genomgånget."
-    }
-  ]
+ "butik": "bestofsports.se",
+ "beskrivning": "Produkter som inte får skrivas av textutrullningen. Läses av shopify-sync/scripts/skrivfil_kontroll.py. Lägg till nya spärrar som nya poster; sätt aktiv=false när en spärr hävts och ange datum och beslut. Ta inte bort poster.",
+ "sparrar": [
+  {
+   "namn": "pilot-20",
+   "aktiv": true,
+   "idfil": "rapporter/bestofsports-pilot-20-produkter-2026-10-25.csv",
+   "idkolumn": "produkt_id",
+   "skal": "Pilotens 20 produkter (T33) mäts runt 2026-11-22 och ändras inte i vågorna.",
+   "beslut": "David, rad 73 i shopify-sync/docs/produkttexter-standard.md; bekräftat 2026-11-04 (pilotprodukterna hålls kvar tills David säger annat).",
+   "kanda_overtradelser": [
+    "10411848532234",
+    "10541370114314"
+   ]
+  },
+  {
+   "namn": "experiment-1",
+   "aktiv": false,
+   "idfil": "rapporter/forslag-bos-experiment-1-2026-10-27/kohorter.csv",
+   "idkolumn": "produkt_id",
+   "skal": "Experiment 1 (432 produkter, kohorter T och K) skulle inte ändras i vågorna.",
+   "hävd": "2026-11-04",
+   "beslut": "David 2026-11-04: trafiken är låg och Google Ads avstängt, så experimentet går inte att lita på; nya tester schemaläggs när allt är genomgånget."
+  },
+  {
+   "namn": "utanfor-tills-vidare-2026-11-04",
+   "aktiv": true,
+   "idfil": "rapporter/inventering-bos-2026-11-04/sparr_utanfor_tills_vidare.csv",
+   "idkolumn": "produkt_id",
+   "skal": "Kategorier under utanfor_tills_vidare i butiksprofilen (barn, kosttillskott, rullskridskor, massage, vibrationsplattor). Nyckelordsträff på titel, produkttyp och taggar; bred på barn, kan innehålla produkter som inte är barnprodukter.",
+   "beslut": "Inventering 2026-11-04 (Davids ja till inventering och plan); gäller tills David säger annat.",
+   "kanda_overtradelser": []
+  },
+  {
+   "namn": "tidigare-avvisade-2026-11-04",
+   "aktiv": true,
+   "idfil": "rapporter/inventering-bos-2026-11-04/sparr_tidigare_avvisade.csv",
+   "idkolumn": "produkt_id",
+   "skal": "Produkter som avvisats i tidigare batcher (*_avvisade.json i vag2_skriv) och väntar på beslut eller källa.",
+   "beslut": "Inventering 2026-11-04 (Davids ja till inventering och plan); gäller tills David säger annat.",
+   "kanda_overtradelser": []
+  },
+  {
+   "namn": "titeldubbletter-2026-11-04",
+   "aktiv": true,
+   "idfil": "rapporter/inventering-bos-2026-11-04/sparr_titeldubbletter.csv",
+   "idkolumn": "produkt_id",
+   "skal": "Exakta titeldubbletter bland kvarvarande produkter; den äldsta av varje titel skrivs, övriga spärras (R12a).",
+   "beslut": "Inventering 2026-11-04 (Davids ja till inventering och plan); gäller tills David säger annat.",
+   "kanda_overtradelser": []
+  }
+ ]
 }
