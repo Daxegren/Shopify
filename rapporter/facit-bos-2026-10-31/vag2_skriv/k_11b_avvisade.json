@@ -1,0 +1,12 @@
+[
+ {
+  "id": "10636628066570",
+  "nr": 9844,
+  "skäl": "Bärande reservdel: stålkabel med lastgräns (280 kg) till latsdragsstation, utan angiven maskinmodell (källan säger bara \"Reservdel för Latsdrag Kabelstation\"). Passform och hållfasthet kan inte styrkas ur källan, och felaktig passform på en bärande kabel är en säkerhetsrisk. Avvisas tills ägaren beslutat om reservdelar med bärande funktion."
+ },
+ {
+  "id": "10636670894346",
+  "nr": 9845,
+  "skäl": "Bärande reservdel: kabelset (kort 182 cm och lång 241,5 cm stålkabel, lastgräns 280 kg vardera) till latsdragsstation, utan angiven maskinmodell. Samma skäl som 9844: passform och hållfasthet kan inte styrkas ur källan. Avvisas tills ägaren beslutat om reservdelar med bärande funktion."
+ }
+]
