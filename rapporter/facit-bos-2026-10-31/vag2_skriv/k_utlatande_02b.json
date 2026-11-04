@@ -1,0 +1,187 @@
+[
+ {
+  "nr": 9126,
+  "id": "10472281964810",
+  "fil": "k_02b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt spårbart i egen svensk källa (ALUXX-Grade aluminium, Shimano Deore bakväxel, SRAM Level hydrauliska, Maxxis Colossus 27,5 x 4,5 vikbara, fästpunkter). En variant; ramstorlekar rätt utelämnade. Ingen tagg 'På beställning', ingen leveranstidsmening (R13)."
+ },
+ {
+  "nr": 9127,
+  "id": "10474079060234",
+  "fil": "k_02b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Övrigt: Justerbar styrstam, dämpad sadelstolpe, vadderad sadel</li>\n",
+    "efter": "<li>Övrigt: Justerbar styrstam, dämpad sadelstolpe, vadderad sadel</li>\n<li>Ingår: Stänkskärmar, stöd, pakethållare och laddningsbar lampa från Cateye</li>\n"
+   }
+  },
+  "skal": "Fakta spårbara (ALUXX, stålgaffel med fästen för pakethållare, microSHIFT Acolyte, Tektro skivbromsar, 28-tumshjul, Innova 700x45c, justerbar styrstam, stötdämpande sadelstolpe, vadderad sadel). Rättning: den estniska raden 'Komplektis kuuluvad porilauad, seisujalg, pakiraam, Cateye laetav tuli' är entydig (komplektis kuuluvad = i setet ingår; porilauad = stänkskärmar; seisujalg = stöd; pakiraam = pakethållare; laetav tuli = laddningsbar lampa) och får användas enligt R2 när översättningen är säker. Att utelämna den är också säkert; rättningen är ett tillägg, inte en felrättning."
+ },
+ {
+  "nr": 9128,
+  "id": "10676719288586",
+  "fil": "k_02b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "kompositram, 24 växlar, hydrauliska",
+    "efter": "kompositram, hydrauliska"
+   },
+   "html": {
+    "fore": "24 växlar, hydrauliska skivbromsar och vikbara tubeless-däck på 700x32c.</p><h2>Passar för</h2><ul>\n<li>Dig som vill ha en landsvägscykel som enligt tillverkaren är utformad för långa turer</li>\n<li>Dig som vill ha en landsvägscykel med skivbromsar och genomgående axlar</li>\n<li>Dig som vill kunna montera flaskhållare och annan utrustning, eftersom cykeln har fästpunkter för dem</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Landsvägscykel</li>\n<li>Modellår: 2027</li>\n<li>Ram: Advanced-grade composite, genomgående axel 12x142 mm, skivbroms</li>\n<li>Gaffel: Advanced-grade composite, full-composite OverDrive-styrrör, genomgående axel 12x100 mm, skivbroms</li>\n<li>Växlar: 24 växlar</li>\n",
+    "efter": "hydrauliska skivbromsar och vikbara tubeless-däck på 700x32c.</p><h2>Passar för</h2><ul>\n<li>Dig som vill ha en landsvägscykel som enligt tillverkaren är utformad för långa turer</li>\n<li>Dig som vill ha en landsvägscykel med skivbromsar och genomgående axlar</li>\n<li>Dig som vill kunna montera flaskhållare och annan utrustning, eftersom cykeln har fästpunkter för dem</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Landsvägscykel</li>\n<li>Modellår: 2027</li>\n<li>Ram: Advanced-grade composite, genomgående axel 12x142 mm, skivbroms</li>\n<li>Gaffel: Advanced-grade composite, full-composite OverDrive-styrrör, genomgående axel 12x100 mm, skivbroms</li>\n"
+   }
+  },
+  "skal": "Källan motsäger sig: 'Växelsystem: Shimano 105' men 'Bromsar: Shimano 105 Di2 hydrauliska'. Utkastet utelämnar gruppnamnet men behåller '24 växlar'. Standard §14 (David 2026-11-03): 'Cyklar med motsägande växelsystem i källan skrivs utan växelgrupp och antal växlar.' Antal växlar tas därför bort i meta, löptext och specifikation. Tvillingen 7137 (10624087621898) avvisades i k_15 för samma motsägelse; med rättningen följer 9128 §14. Övrigt spårbart (komposit, 12x142/12x100 genomgående axel, P-R1 Disc aluminium, Gavia Fondo 1 tubeless 700x32c, fästpunkter, 'utformade för långa turer' som enligt tillverkaren). Tre andra aktiva produkter har samma titel (10676719419658 spärrad som titeldubblett, 10624087621898 och 10624087752970 tidigare avvisade); ingen är skriven, så R12a hindrar inte."
+ },
+ {
+  "nr": 9129,
+  "id": "10676717846794",
+  "fil": "k_02b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (komposit, Advanced SL-gaffel, 'Shimano Ultegra Di2 elektronisk' ordagrant, 24, Ultegra hydrauliska, SLR 0 40 Carbon, hookless-kolfiberfälgar 40 mm, CADEX Classic 700x32c vikbara). 'Elektroniska' står i källan (praxis 9028 i k_01b). Obs: tvillingarna 7136/7140 avvisades i k_15 med skälet 'elektroniskt växelsystem (batteri)'; profilens utanfor_tills_vidare utesluter inte elektronisk växling och elcyklar är frisläppta (§16), så produkten godkänns, men regeln bör bekräftas av David så att den gäller lika för alla."
+ },
+ {
+  "nr": 9130,
+  "id": "10676718665994",
+  "fil": "k_02b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (komposit, SRAM Rival AXS E1, 24, Rival AXS E1 hydrauliska, SLR 1 40 Carbon, Gavia Fondo 0 700x32c). Ramstorlek M (48 cm) och M/L (51,5 cm) = exakt de sålda varianterna, samma pris (R3 v1.5). 'Elektronisk' utelämnad eftersom källan inte säger det. Samma elektronikfråga som 9129 (tvillingen 7138/7141 avvisad i k_15)."
+ },
+ {
+  "nr": 9132,
+  "id": "10676718174474",
+  "fil": "k_02b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (Advanced SL-grade, integrerad sadelstolpe, Rival AXS (E1), 24, Rival Aero hydrauliska, SLR 2 50, CADEX Aero 700x28c, vätskesystem, fyra sadelstolpslägen). 'Lämplig för triathlon och tempolopp' som enligt tillverkaren (1 av högst 2). SEO-titel utan typord följer praxis för cyklar (43 tecken). Samma elektronikfråga som 9129 (tvillingen 7179 avvisad i k_17)."
+ },
+ {
+  "nr": 9136,
+  "id": "10682105561354",
+  "fil": "k_02b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Översättning från engelsk källa stämmer (6061 butted, ESSA 8, Tektro HD-M280 hydraulic, WTB Groov-E 29 x 2.0, kickstand, fästpunkter för stänkskärmar). 'City bike' = stadscykel; typordet 'Cykel' är entydig översättning av 'Bicycle' och butikens live-ord (R7). S, M, L = sålda varianter, samma pris; XL säljs som separat produkt (10682106052874, spärrad titeldubblett). Färgnamn från titeln, inte motsagt av 'blue'."
+ },
+ {
+  "nr": 9137,
+  "id": "10682105626890",
+  "fil": "k_02b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Som 9136, färg Gloss Metallic Peridot (varianter 'green'). Tvillingen 10682105987338 (XL) är spärrad som titeldubblett."
+ },
+ {
+  "nr": 9138,
+  "id": "10588452880650",
+  "fil": "k_02b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (6061 butted, Judy Silver 100 mm, Cues 11, MT200 hydrauliska, Maxxis Rekon, fästpunkter). Typordet Mountainbike står i källtexten (R7). L (45 cm) och XL (49 cm) = sålda varianter. Däckraden: utelämnad hjulstorlek är godtagbar (LARDOMAR 2026-11-03). Anm.: raden 'x2.25\" (S=27,5\", M-XL=29\")' är i sak entydig för L/XL (29 tum), så 29 tum hade kunnat stå, men att utelämna är säkert."
+ },
+ {
+  "nr": 9140,
+  "id": "10650208862474",
+  "fil": "k_02b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (Butted Cromoly, Kona Cromoly-gaffel, genomgående axlar fram och bak, Cues 11, Altus hydrauliska, Groov-E 29x2.0, stänkskärmar och stöd ingår, fästpunkter för flaskhållare). S och M = sålda varianter. 'Stadscykel' står i källan. Samma modell och färg som 10635810504970, men den har status DRAFT."
+ },
+ {
+  "nr": 9143,
+  "id": "10472349368586",
+  "fil": "k_02b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (aluminium, Tourney TX växelreglage, 21, Suntour NEX spiralfjäder 80 mm, Clarks M2 hydrauliska, fästpunkter). Etiketten 'Fjädring' för NEX-raden är rimlig och påstår inget nytt. Hjul och däck saknas i källan och är rätt utelämnade. En variant; ramstorlekar utelämnade."
+ },
+ {
+  "nr": 9144,
+  "id": "10472297988362",
+  "fil": "k_02b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Dirt Jump Bike",
+    "efter": "Dirt jump-cykel"
+   },
+   "seo_title": {
+    "fore": "Dirt Jump Bike",
+    "efter": "Dirt jump-cykel"
+   },
+   "meta": {
+    "fore": "en dirt jump bike i",
+    "efter": "en dirt jump-cykel i"
+   },
+   "html": {
+    "fore": "dirt jump bike i färgen vit med ram i Kona Cromoly Butted-stål. Cykeln har en fjädringsgaffel från Manitou på 100 mm, en växel och Maxxis DTH-däck på 26 x 2,3 tum.</p><h2>Passar för</h2><ul>\n<li>Dig som vill ha en dirt jump bike med 100 mm fjädringsgaffel</li>\n<li>Dig som vill ha en cykel med en växel och 26-tumsdäck</li>\n<li>Dig som vill ha en cykel med stålram</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Dirt jump bike</li>",
+    "efter": "dirt jump-cykel i färgen vit med ram i Kona Cromoly Butted-stål. Cykeln har en fjädringsgaffel från Manitou på 100 mm, en växel och Maxxis DTH-däck på 26 x 2,3 tum.</p><h2>Passar för</h2><ul>\n<li>Dig som vill ha en dirt jump-cykel med 100 mm fjädringsgaffel</li>\n<li>Dig som vill ha en cykel med en växel och 26-tumsdäck</li>\n<li>Dig som vill ha en cykel med stålram</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Dirt jump-cykel</li>"
+   }
+  },
+  "skal": "Fakta spårbara (Cromoly Butted/stålram, Manitou Circus Expert 100 mm, 1 växel, Tektro MD-280 fram/HD-M275 bak, Maxxis DTH 26x2.3). Rättning av typord (R7): källtexten är svensk och använder 'dirt jump-cyklist', och butikens live-ord för samma typ är 'Dirt jump-cykel' (10650208993546 Giant STP 26 i k_02a). Engelska 'Dirt Jump Bike' byts därför mot 'Dirt jump-cykel' i titel, SEO, meta och text (liten bokstav efter bindestreck, R7 v1.5). Skriptet: 0 fel med rättningen. Bromstyp rätt utelämnad. Ramstorlek rätt utelämnad (SHORT/LONG mot variant L)."
+ },
+ {
+  "nr": 9146,
+  "id": "10469244600586",
+  "fil": "k_02b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Översättning stämmer (6061 butted 153 mm, Yari RC 160 mm, Deluxe Select Plus Trunnion, Microshift Advent X 10, SRAM DB8 hydraulic, Assegai 29x2.5 WT, Minion DHR II 29x2.4 WT med 27,5 på S). En variant (Default Title, okänd storlek): villkorsraden för bakdäcket är sann oavsett storlek och får stå. Hjulstorlek rätt utelämnad i titeln. Annan färg än skrivna 7022 (Matt Midnight)."
+ },
+ {
+  "nr": 9147,
+  "id": "10650208796938",
+  "fil": "k_02b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (6061 butted, 6061-gaffel, Cues 10, Altus hydrauliska, Groov-E 29x2.0, stöd, fästpunkter för flaskhållare). M och L = sålda varianter, samma pris."
+ },
+ {
+  "nr": 9148,
+  "id": "10472256635146",
+  "fil": "k_02b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (6061 butted, Revelation RC DebonAir 140 mm, FSA Comet, Deore 12, MT410 180/160, DHF 29x2.5 WT, Dissector 29x2.4 WT, fästpunkter för flaskhållare). Telefonnummer, 'estniska bergen' och dropperpost rätt utelämnade. En variant."
+ },
+ {
+  "nr": 9149,
+  "id": "10476262981898",
+  "fil": "k_02b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Bakdäck: Maxxis Dissector EXO TR 3C, 29 x 2,4 tum WT (27,5 x 2,4 tum WT i storlek S)</li>",
+    "efter": "<li>Bakdäck: Maxxis Dissector EXO TR 3C, 27,5 x 2,4 tum WT</li>"
+   }
+  },
+  "skal": "Spårbart (Kona Carbon 134 mm, Fox Float 34 Performance 140 mm, Float X Performance Elite, GX-Eagle 12, G2 R hydraulic). Växelgruppen får stå: källan säger 'SRAM GX cable-controlled drivetrain', alltså entydigt kabelstyrd (LARDOMAR 2026-11-03). Rättning (R3 v1.5): enda sålda varianten är S, och källan anger 27,5 x 2,4 bak för S; raden ska därför ange 27,5 tum och inte nämna 29 tum för storlekar som inte säljs. Toffee (Brown) mot variant 'beige' är ingen motsägelse."
+ },
+ {
+  "nr": 9150,
+  "id": "10476260458762",
+  "fil": "k_02b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Gloss Concrete (Grå)",
+    "efter": "Gloss Concrete"
+   },
+   "seo_title": {
+    "fore": "Gloss Concrete (Grå)",
+    "efter": "Gloss Concrete"
+   },
+   "html": {
+    "fore": "Gloss Concrete (Grå) med ram i Kona 6061 butted aluminium och 134 mm slaglängd. Cykeln har en RockShox Pike Select RC Charger-gaffel på 140 mm, 12 växlar och hydrauliska skivbromsar från SRAM.</p><h2>Passar för</h2><ul>\n<li>Dig som vill ha en mountainbike med aluminiumram och fjädring fram och bak</li>\n<li>Dig som vill ha en cykel med 12 växlar och hydrauliska skivbromsar</li>\n<li>Dig som vill kunna montera en flaskhållare och annan utrustning, eftersom cykeln har fästpunkter för dem</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Mountainbike</li>\n<li>Ram: Kona 6061 aluminium, butted, 134 mm slaglängd</li>\n<li>Gaffel: RockShox Pike Select RC Charger DebonAir, 140 mm</li>\n<li>Bakdämpare: RockShox Deluxe Ultimate Trunnion</li>\n<li>Växlar: 12 växlar</li>\n<li>Bromsar: SRAM G2 RS, hydrauliska</li>\n<li>Framdäck: Maxxis Minion DHF EXO TR 3C, 29 x 2,5 tum WT</li>\n<li>Bakdäck: Maxxis Dissector EXO TR 3C, 29 x 2,4 tum WT (27,5 x 2,4 tum WT i storlek S)</li>\n<li>Ramstorlek: S (38 cm)</li>\n<li>Färg: Gloss Concrete (Grå)</li>",
+    "efter": "Gloss Concrete med ram i Kona 6061 butted aluminium och 134 mm slaglängd. Cykeln har en RockShox Pike Select RC Charger-gaffel på 140 mm, 12 växlar och hydrauliska skivbromsar från SRAM.</p><h2>Passar för</h2><ul>\n<li>Dig som vill ha en mountainbike med aluminiumram och fjädring fram och bak</li>\n<li>Dig som vill ha en cykel med 12 växlar och hydrauliska skivbromsar</li>\n<li>Dig som vill kunna montera en flaskhållare och annan utrustning, eftersom cykeln har fästpunkter för dem</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Mountainbike</li>\n<li>Ram: Kona 6061 aluminium, butted, 134 mm slaglängd</li>\n<li>Gaffel: RockShox Pike Select RC Charger DebonAir, 140 mm</li>\n<li>Bakdämpare: RockShox Deluxe Ultimate Trunnion</li>\n<li>Växlar: 12 växlar</li>\n<li>Bromsar: SRAM G2 RS, hydrauliska</li>\n<li>Framdäck: Maxxis Minion DHF EXO TR 3C, 29 x 2,5 tum WT</li>\n<li>Bakdäck: Maxxis Dissector EXO TR 3C, 27,5 x 2,4 tum WT</li>\n<li>Ramstorlek: S (38 cm)</li>\n<li>Färg: Gloss Concrete</li>"
+   }
+  },
+  "skal": "Spårbart (6061 butted 134 mm, Pike Select RC Charger 140 mm, Deluxe Ultimate Trunnion, 12, G2 RS hydraulic). Växelgruppen 'SRAM GX-Eagle' rätt utelämnad (källan säger inte typ; §14 tillåter, praxis 9046). Rättningar: (1) bakdäck 27,5 x 2,4 tum eftersom bara S säljs (som 9149, R3 v1.5); (2) '(Grå)' tas bort i titel, SEO, löptext och färgrad: titelns 'Grey' säger emot variantfärgen 'white' (R2: motsägelse utelämnas), medan kulörnamnet 'Gloss Concrete' inte motsägs (praxis 9029/9030). Titel och SEO är fortfarande unika (skrivna 'Process 134 DL 27.5, Lila' skiljer sig)."
+ }
+]
