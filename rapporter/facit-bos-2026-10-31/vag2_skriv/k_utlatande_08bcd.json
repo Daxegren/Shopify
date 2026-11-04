@@ -1,0 +1,795 @@
+[
+ {
+  "nr": 9526,
+  "id": "10636600901898",
+  "fil": "k_08b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Deadlift Barbell Jack är en deadlift jack i stål med hävstångsdesign för att lyfta skivstången och byta viktskivor.",
+    "efter": "Deadlift Barbell Jack är tillverkad i stål och har hävstångsdesign för att lyfta skivstången och byta viktskivor."
+   },
+   "meta": {
+    "fore": "Deadlift Barbell Jack med vadderad",
+    "efter": "Deadlift Barbell Jack har vadderad"
+   }
+  },
+  "skal": "Stål, hävstångsdesign, vadderad kontaktpunkt, \"Passar alla skivstänger\" och \"Maxbelastning: 300kg\" (svensk etiketterad rad, en gång, R4) ordagranna. Robust/säkrare/stabila fötter och ryggbelastning rätt strukna (R5). Första meningen är cirkulär (\"X är en deadlift jack\", R11): rättas. Meta saknar finit verb: rättas."
+ },
+ {
+  "nr": 9527,
+  "id": "10636750815498",
+  "fil": "k_08b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Ordagrant (2,5 cm, 15,2 x 15,3 cm, 12,5 cm, 1 kg, krom, roterande, 200 kg etiketterad rad). \"15cm\" ur live-titeln rätt struket (inte entydigt). Meta har verb."
+ },
+ {
+  "nr": 9528,
+  "id": "10636689441034",
+  "fil": "k_08b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Handtagen har roterbara grepp och kan användas ett i varje hand.",
+    "efter": "Handtagen har roterbara grepp."
+   },
+   "meta": {
+    "fore": "Två korta enhands kabelhandtag i krom, sålda som par.",
+    "efter": "Två korta enhands kabelhandtag i krom som säljs som par."
+   }
+  },
+  "skal": "Par, krom, roterande, 2,5 cm, mått och 200 kg \"vardera\" (löptext och etiketterad rad stämmer, R4) ordagranna. Greppyta (13 mot 12,5 cm) och vikt (ca 1 kg, oklart per styck/par) rätt utelämnade (R2). \"Ett i varje hand\" är tolkning av \"dubbelfattat\": stryks (R1). Meta saknar finit verb: rättas."
+ },
+ {
+  "nr": 9529,
+  "id": "10636751012106",
+  "fil": "k_08b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Ordagrant (2,5 cm, 15,2 x 18,6 cm, 1 kg, krom, roterande, säljs ett och ett, 200 kg). Greppyta 18 mot 12,5 cm rätt utelämnad (R2); \"18cm\" ur titeln rätt struket."
+ },
+ {
+  "nr": 9530,
+  "id": "10636750651658",
+  "fil": "k_08b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Ordagrant (2,5 cm, 13 cm greppyta, 1 kg, krom, roterande, ett och ett, 200 kg). Typordet Kabelhandtag först, samma som 9527–9529 (R7). Övningslista och \"ordentligt\" rätt strukna."
+ },
+ {
+  "nr": 9531,
+  "id": "10636712345866",
+  "fil": "k_08b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Diametrar mot källan: stång/viktområde 50 mm, skivornas hål 51 mm, handtag 28 mm – alla ordagranna och rätt fördelade. Fjäderlås, 16 cm, 13,5 cm, 5 kg, krom, en och en, 136 kg (etiketterad rad) stämmer. \"Väldigt tålig\" rätt struket."
+ },
+ {
+  "nr": 9532,
+  "id": "10636732825866",
+  "fil": "k_08b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Hantelpaket i gjutjärn med TRIGRIP-viktskivor",
+    "efter": "Hantelpaketet i gjutjärn har TRIGRIP-viktskivor"
+   }
+  },
+  "skal": "Delarna ordagranna (4 x 1,25, 4 x 2,5, 2 x 5 kg, 2 x 35 cm stänger, fyra stjärnlås), 31 mm hål, bärhandtag, användning utan stång. Skivorna summerar 25 kg; stängernas vikt saknas, så 30 kg/2 x 15 kg motsägs inte och hade fått stå enligt prejudikatet 9501 – utelämnandet är säkert men tappar titelns viktuppgift (kan läggas till om koordinatorn vill). \"Passar i regel alla stänger\" rätt struket. Meta saknar finit verb: rättas."
+ },
+ {
+  "nr": 9534,
+  "id": "10636748882186",
+  "fil": "k_08b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Parallellt roddhandtag i krom med 33 cm",
+    "efter": "Det parallella roddhandtaget i krom har 33 cm"
+   }
+  },
+  "skal": "Ordagrant (33 cm, 14,2 cm, 2,6 cm, 3,5 kg, krom, räfflad yta, 200 kg). Typord Roddhandtag ur live-titeln. Meta saknar finit verb: rättas."
+ },
+ {
+  "nr": 9535,
+  "id": "10636752781578",
+  "fil": "k_08b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Parallell och bred kabelstång i krom, 93 cm lång och vinklad",
+    "efter": "Den parallella och breda kabelstången i krom är 93 cm lång och vinklad"
+   }
+  },
+  "skal": "Ordagrant (93 cm, vinklad i båda ändar, 2,6 cm, 6,5 kg, roterande, krom, 200 kg). \"Starkare rygg\" rätt struket. Meta saknar finit verb: rättas."
+ },
+ {
+  "nr": 9536,
+  "id": "10636752191754",
+  "fil": "k_08b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Ordagrant (50 cm, 2,5 cm, 2,5 kg, krom, roterande, räfflade handtag, 200 kg). Träningseffekt och \"optimal komfort\" rätt strukna."
+ },
+ {
+  "nr": 9537,
+  "id": "10636703695114",
+  "fil": "k_08b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Ordagrant (Diameter 30 mm, handtag 3 cm, 17 cm, 16 cm, 10 cm, stjärnlås, krom, 3,3 kg, 50 kg etiketterad rad som stämmer med löptextens \"upp till 50kg\"). En variant (Krom - 17cm/3,3kg). Ingen skivhåldiameter utlovas – rätt, källan anger den inte."
+ },
+ {
+  "nr": 9538,
+  "id": "10636712050954",
+  "fil": "k_08b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Ordagrant (11 x 7,5 x 2 cm, par, svart med vit logga, även svettband). \"Skyddar handlederna\"/handledsskydd/värmare rätt strukna (R5)."
+ },
+ {
+  "nr": 9539,
+  "id": "10636746359050",
+  "fil": "k_08b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Ordagrant (tre nivåer, elva ovala ringar, 15/18/19 cm, 93 x 65 x 80 cm, svart, kettlebells ingår ej, alla standardstorlekar). 100 kg gäller bara övre raden och återges så (R4)."
+ },
+ {
+  "nr": 9540,
+  "id": "10636608373002",
+  "fil": "k_08b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Svart latsdragstång TRYM i stål, 140 cm lång",
+    "efter": "Den svarta latsdragstången TRYM i stål är 140 cm lång"
+   }
+  },
+  "skal": "Black→Svart stöds av källans \"Färg: Svart\" och typordet Latsdragstång av källtexten (R7). 140 cm, 2,5 cm, 6,5 kg, roterande, räfflat, central ögla, 200 kg stämmer. \"Massivt stål\" är materialuppgift (massiv = ej ihålig), godtas. Halksäkra/stabil/hållbar rätt strukna. Meta saknar finit verb: rättas."
+ },
+ {
+  "nr": 9541,
+  "id": "10636752027914",
+  "fil": "k_08b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Kabelstång för latsdrag i krom, 118 cm lång och 5 kg.",
+    "efter": "Kabelstången för latsdrag i krom är 118 cm lång och väger 5 kg."
+   }
+  },
+  "skal": "Ordagrant (118 cm, 2,5 cm, 5 kg, krom, roterande, räfflad yta, 200 kg). Meta saknar finit verb: rättas."
+ },
+ {
+  "nr": 9542,
+  "id": "10636608798986",
+  "fil": "k_08b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Svart latsdragstång TRYM i stål, 118 cm lång",
+    "efter": "Den svarta latsdragstången TRYM i stål är 118 cm lång"
+   }
+  },
+  "skal": "Black→Svart stöds av \"Färg: Svart\". 118 cm, 2,5 cm, 5 kg, roterande, räfflat, central ögla, 200 kg stämmer. Säkert grepp/aktiverar latsen rätt strukna. Meta saknar finit verb: rättas."
+ },
+ {
+  "nr": 9543,
+  "id": "10636680036618",
+  "fil": "k_08b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Set med åtta kromade",
+    "efter": "Setet har åtta kromade"
+   }
+  },
+  "skal": "Summa 2 x (0,25 + 0,5 + 0,75 + 1) = 5 kg stämmer med totalvikten. 51 mm hål / 50 mm stång ordagrant och stämmer med titelns 50/51. Meta saknar finit verb: rättas."
+ },
+ {
+  "nr": 9546,
+  "id": "10636750291210",
+  "fil": "k_08b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Ordagrant (30 cm, 17 cm, 2,5 cm, 3,5 kg, krom, roterande, 200 kg, kabelhiss och latsdragsmaskin). \"Gummikulor\" står i live-titeln (egen källa, som gjutjärn i 9521) och får stå i titeln; texten beskriver dem inte – rätt försiktigt."
+ },
+ {
+  "nr": 9547,
+  "id": "10636751241482",
+  "fil": "k_08b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Parallellt roddhandtag i krom med 12 cm",
+    "efter": "Det parallella roddhandtaget i krom har 12 cm"
+   }
+  },
+  "skal": "Ordagrant (12 cm, 2,5 cm, 19 cm, 12,5 cm, 2 kg, krom, 200 kg). \"Passar alla\" och T-bar-rodd rätt strukna. Meta saknar finit verb: rättas."
+ },
+ {
+  "nr": 9548,
+  "id": "10636751438090",
+  "fil": "k_08b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Ordagrant (12 cm, 2,5 cm, 19,5 cm, 12,5 cm, gångjärn, 2,2 kg, 200 kg); \"Roterande\" ur live-titeln. Ingen färg i källan, ingen skrivs."
+ },
+ {
+  "nr": 9549,
+  "id": "10636751634698",
+  "fil": "k_08b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Ordagrant (10 cm, 2,5 cm, 19 cm, 12 cm, 2 kg, krom, 200 kg). Jämförelse (\"smalaste vi har\") rätt struken."
+ },
+ {
+  "nr": 9550,
+  "id": "10636751831306",
+  "fil": "k_08b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Uppdelad Grepp",
+    "efter": "Uppdelat Grepp"
+   },
+   "meta": {
+    "fore": "Parallellt roddhandtag i krom med uppdelad",
+    "efter": "Det parallella roddhandtaget i krom har uppdelad"
+   }
+  },
+  "skal": "Ordagrant (standardmått, uppdelad centrerad räfflad greppyta, 12 cm, 18,5 cm, 2,5 cm, 12,5 cm, 2 kg, krom, 200 kg). SEO-titeln har fel genus (\"Uppdelad Grepp\"): rättas. Meta saknar finit verb: rättas."
+ },
+ {
+  "nr": 9551,
+  "id": "10636600213770",
+  "fil": "k_08c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Dig som vill använda en olympisk skivstång som T-bar row-fäste via 50 mm-fästet",
+    "efter": "Dig som vill använda greppet som T-bar row-fäste för olympisk skivstång"
+   }
+  },
+  "skal": "Tre varianter (25/60/91,5 cm, 679/849/1 349 kr). Titeln anger ingen enskild längd och texten räknar upp alla tre; övriga uppgifter (360 grader, låsbar, stålkärna med rostfria komponenter, räfflat, 50 mm-fäste, 200 kg) gäller alla varianter – sant och inte vilseledande, R3 kräver inte avvisning. Passar för-raden vänder på källan (det är greppet som används som T-bar row-fäste, inte stången): rättas."
+ },
+ {
+  "nr": 9552,
+  "id": "10636695535882",
+  "fil": "k_08c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Delsumma kontrollerad: skivor 4 x 0,5 + 4 x 1,25 + 4 x 2,5 = 17 kg (=källans 17 kg), + stänger 5 kg + rör 0,75 kg + lås 0,25 kg = 23 kg. Tolv skivor, 31 mm hål, 80 cm ordagrant. Låsens 250 g rätt utelämnad (oklart per styck/totalt)."
+ },
+ {
+  "nr": 9553,
+  "id": "10636718244106",
+  "fil": "k_08c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Ordagrant (130 cm, 30 mm, plast ihålig, 2 kg, 84 cm, 18,5 cm, två fjäderlås, svart, 60 kg i löptext och etiketterad rad, kudde 8,5/40/3 cm, kardborre). Nackskydd/blåmärken och \"passar alla skivstänger i vårt sortiment\" rätt strukna."
+ },
+ {
+  "nr": 9554,
+  "id": "10636738134282",
+  "fil": "k_08c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Ordagrant (130 cm, 30 mm stång, 31 mm skivhål, 1,8 kg, 90,5 cm, 19 cm, svart och krom, två fjäderlås, 100 kg i löptext och etiketterad rad)."
+ },
+ {
+  "nr": 9555,
+  "id": "10636715327754",
+  "fil": "k_08c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Ordagrant ur specifikationen (3,3 cm, 44,7 cm, 9,5 cm, svart, passar alla skivstänger); löptextens skrivfel (\"44,7cm tjock\") rätt förbigånget (R2). Nackskydd/skavning rätt strukna."
+ },
+ {
+  "nr": 9556,
+  "id": "10636690227466",
+  "fil": "k_08c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "180.000 till 185.000 PSI",
+    "efter": "180 000 till 185 000 PSI"
+   }
+  },
+  "skal": "Totalvikt kontrollerad: 2 x 5 + 4 x 10 + 2 x 15 + 2 x 20 = 120 kg skivor + 20 kg stång = 140 kg. Diametrar: hylsa 50 mm och grepp 30 mm står med egna etiketter i källan och återges så. 51 mm står bara i live-titeln, inte som skivornas håldiameter i texten; att stryka 51 är säkert (R1/R2). 450 kg och draghållfasthet (två \"enligt tillverkaren\", max). Talen \"180.000\" läses som decimaltal på svenska: rättas till mellanslag."
+ },
+ {
+  "nr": 9557,
+  "id": "10636749635850",
+  "fil": "k_08c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Ordagrant (54 cm, 3 cm, 2,5 kg, krom, roterande, gummistopp, 200 kg). \"Gummikulor\" ur live-titeln, \"gummistopp\" i texten – samma sak, godtas."
+ },
+ {
+  "nr": 9558,
+  "id": "10636601131274",
+  "fil": "k_08c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn men tillräcklig källa (tre greppositioner, V-form, pulverlackerat järn, räfflat, lat-/kabelstation, \"Maxbelastning: 200kg\" etiketterad). Robust/slitstarkt/naturlig rörelse rätt strukna. GS rätt struket."
+ },
+ {
+  "nr": 9559,
+  "id": "10636710871306",
+  "fil": "k_08c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Ordagrant (100 cm, 2,8 cm, 1 kg, 120 kg etiketterad rad). Övningsuppräkningen är användning, inte effektpåstående. Andra längder rätt utelämnade."
+ },
+ {
+  "nr": 9560,
+  "id": "10636749340938",
+  "fil": "k_08c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Ordagrant (68 cm, 2,8 cm, 1 kg, gummistopp, 150 kg etiketterad rad). Skydds- och kvalitetsord rätt strukna."
+ },
+ {
+  "nr": 9561,
+  "id": "10636722766090",
+  "fil": "k_08c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Ordagrant (nylon, 30 cm, 2,8 cm, 400 g, svart). Ingen lastgräns i källan, ingen skrivs."
+ },
+ {
+  "nr": 9562,
+  "id": "10636749897994",
+  "fil": "k_08c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Ordagrant (50 cm, 2,5 cm, 3,5 kg, krom, roterande, vinklad, 200 kg). \"Skonsam för handlederna\" rätt struket (hälsoord)."
+ },
+ {
+  "nr": 9563,
+  "id": "10636750094602",
+  "fil": "k_08c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Ordagrant (37 cm, 2,5 cm, 2,3 kg, krom, roterande, gummikulor, 200 kg i löptext och rad, en gång)."
+ },
+ {
+  "nr": 9564,
+  "id": "10636752421130",
+  "fil": "k_08c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Ordagrant (35 cm, 2,5 cm, stoppbult 8 cm, 2 kg, krom, räfflat, 200 kg)."
+ },
+ {
+  "nr": 9565,
+  "id": "10636609028362",
+  "fil": "k_08c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Ordagrant (massivt stål, 25 cm, 2,9 cm, 7,5 cm, 2,8 kg, svart, roterande, 200 kg). Tåligt/halksäkra/säkert och \"alla vanliga kabelmaskiner\" rätt strukna."
+ },
+ {
+  "nr": 9566,
+  "id": "10636694323466",
+  "fil": "k_08c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Summa 2 x 5 + 2 x 10 = 30 kg stämmer med titeln. Diametrar: hål 26 mm, stång 25 mm – båda ordagranna. Plasthölje och cement ur källan. Golvskydd/högkvalitativa rätt strukna."
+ },
+ {
+  "nr": 9567,
+  "id": "10636643205386",
+  "fil": "k_08c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Fem varianter (1,25–15 kg, 39–389 kr), en vikt per variant. Titeln anger intervallet, inte en vikt, och texten räknar upp alla fem med mått och \"säljs styckvis\" – sant för varje variant och inte vilseledande. 51/50 mm ordagrant."
+ },
+ {
+  "nr": 9568,
+  "id": "10636733284618",
+  "fil": "k_08c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Summa 4 x 5 + 4 x 2,5 = 30 kg = källans totalvikt. 31/30 mm ordagrant. Showroom och \"prisvärt/slitstark\" rätt strukna."
+ },
+ {
+  "nr": 9569,
+  "id": "10636642877706",
+  "fil": "k_08c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Summa 30 kg stämmer. 51/50 mm ordagrant. Ingen färg i källan, ingen skrivs."
+ },
+ {
+  "nr": 9571,
+  "id": "10636709462282",
+  "fil": "k_08c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Källan säger \"totalt 27,5kg\" och delarna summerar 2 x 1,25 + 2 x 2,5 + 4 x 5 = 27,5 kg; live-titelns \"27kg\" är en avrundning av samma produkt, inte en annan variant (en variant). 27,5 kg i titel och SEO är därför väl styrkt och inte en R3-avvisning. 31/30 mm ordagrant. Kanten återges utan \"lätta att greppa\"."
+ },
+ {
+  "nr": 9572,
+  "id": "10636709593354",
+  "fil": "k_08c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Ordagrant (2 x 15 kg, 33 cm, 3 cm, 31 mm, kromade). Stångdiameter saknas i källan och skrivs inte – rätt."
+ },
+ {
+  "nr": 9573,
+  "id": "10636730925322",
+  "fil": "k_08c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Ordagrant (6 x 5 kg, 31 mm, gjutjärn, silver/kromade, 20,5 x 2,6 cm, viktmarkering på samtliga). \"Kant/list för att bära\" återges sakligt som \"kant för att bära\" – inget effektord. Totalvikt rätt inte skriven."
+ },
+ {
+  "nr": 9574,
+  "id": "10636753338634",
+  "fil": "k_08c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Summa 2 x 10 + 2 x 5 = 30 kg = källan. 8 mm gummi, 31/30 mm, mått ordagranna. Golvskydd/ljud rätt strukna."
+ },
+ {
+  "nr": 9575,
+  "id": "10636753142026",
+  "fil": "k_08c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Summa 2 x 15 = 30 kg = källan. 31/30 mm ordagrant. Kvalitets- och golvskyddsord rätt strukna."
+ },
+ {
+  "nr": 9576,
+  "id": "10636673745162",
+  "fil": "k_08d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Viktskivor Gummi Gjutjärn",
+    "efter": "Viktskivor GUMMI Gjutjärn"
+   },
+   "seo_title": {
+    "fore": "Viktskivor Gummi Gjutjärn",
+    "efter": "Viktskivor GUMMI Gjutjärn"
+   },
+   "meta": {
+    "fore": "Viktpaket med åtta",
+    "efter": "Viktpaketet har åtta"
+   }
+  },
+  "skal": "Summa 4 x 5 + 2 x 2,5 + 2 x 1,25 = 27,5 kg = källan. 31/30 mm, 8 mm, mått ordagranna. Modellnamnet skrivs GUMMI i 9574/9575 (samma serie, samma live-skrivning): harmoniseras i titel och SEO-titel. Meta saknar finit verb: rättas."
+ },
+ {
+  "nr": 9577,
+  "id": "10636630425866",
+  "fil": "k_08d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Viktskivor Gummi Gjutjärn",
+    "efter": "Viktskivor GUMMI Gjutjärn"
+   },
+   "seo_title": {
+    "fore": "Viktskivor Gummi Gjutjärn",
+    "efter": "Viktskivor GUMMI Gjutjärn"
+   },
+   "meta": {
+    "fore": "Viktpaket med åtta",
+    "efter": "Viktpaketet har åtta"
+   }
+  },
+  "skal": "Summa 4 x 5 + 4 x 2,5 = 30 kg = källan. 31/30 mm, 8 mm ordagranna. GUMMI harmoniseras med 9574/9575. Meta saknar finit verb: rättas."
+ },
+ {
+  "nr": 9578,
+  "id": "10636644057354",
+  "fil": "k_08d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Viktpaket på 30 kg med fyra",
+    "efter": "Viktpaketet på 30 kg har fyra"
+   }
+  },
+  "skal": "Summa 2 x 5 + 2 x 10 = 30 kg = källan. 31/30 mm, svart beläggning, mått ordagranna. \"Hög kvalitet\" rätt struket. Meta saknar finit verb: rättas."
+ },
+ {
+  "nr": 9579,
+  "id": "10636674203914",
+  "fil": "k_08d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Viktpaket med två",
+    "efter": "Viktpaketet har två"
+   }
+  },
+  "skal": "Ordagrant (2 x 15 kg, 32,6 x 3,4 cm, 31/30 mm, gjutjärn med svart beläggning). Meta saknar finit verb: rättas."
+ },
+ {
+  "nr": 9580,
+  "id": "10636754157834",
+  "fil": "k_08d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Kant/list: Finns på skivorna",
+    "efter": "Bärkant: Ja"
+   }
+  },
+  "skal": "Summa 2 x 5 + 2 x 10 = 30 kg = källan. Källan anger bara \"För 30mm skivstänger\", ingen håldiameter – rätt att inte skriva 31 mm. \"Kant/list\" och \"Vikt angiven: På alla skivor\" (\"KG specificerade för alla skivor\") är sakuppgifter, inga effektord; specifikationsraden \"Kant/list: Finns på skivorna\" är dock klumpig: rättas. Meta har verb (\"Passar\")."
+ },
+ {
+  "nr": 9581,
+  "id": "10636753895690",
+  "fil": "k_08d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Två viktskivor i grått pulverlackerat gjutjärn, 15 kg vardera",
+    "efter": "Paketet har två viktskivor i grått pulverlackerat gjutjärn, 15 kg vardera"
+   }
+  },
+  "skal": "Ordagrant (2 x 15, 30 kg totalt i löptexten, 32,6 x 3,4 cm, 31/30 mm, pulverlackerat, grå, kg angivet på alla). \"Vikt angiven: På alla skivor\" är en saklig återgivning av \"KG specificerade\". Meta saknar finit verb: rättas."
+ },
+ {
+  "nr": 9582,
+  "id": "10636631802122",
+  "fil": "k_08d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "säljs en och en.",
+    "efter": "säljs en och en, 0,5 kg i fyrpack."
+   },
+   "html": {
+    "fore": "Säljs: En och en",
+    "efter": "Säljs: En och en, 0,5 kg i fyrpack"
+   }
+  },
+  "skal": "Nio varianter (99–1 699 kr), en vikt per variant; titel och text låser ingen vikt och listar alla nio med mått – sant för varje variant. Men 0,5 kg säljs som variant \"4x0,5kg\", så \"säljs en och en\" är fel för den varianten: kompletteras i meta och specifikation. 31/30 mm, pulverlackerat, silvergrå ordagranna."
+ },
+ {
+  "nr": 9583,
+  "id": "10636661457162",
+  "fil": "k_08d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Viktpaket med åtta",
+    "efter": "Viktpaketet har åtta"
+   }
+  },
+  "skal": "Källans \"30kg\" motsägs av delarna (4 x 5 + 2 x 2,5 + 2 x 1,25 = 27,5 kg): totalvikten rätt utelämnad (R2, som 9518). Titeln anger delarna, som stämmer. Live-texten har alltså en felaktig totalvikt i dag – omskrivningen tar bort den. Meta saknar finit verb: rättas."
+ },
+ {
+  "nr": 9584,
+  "id": "10636748620042",
+  "fil": "k_08d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Viktpaket på 30 kg med sex",
+    "efter": "Viktpaketet på 30 kg har sex"
+   }
+  },
+  "skal": "Summa 6 x 5 = 30 kg = källan. 31/30 mm, 20,9 x 2,8 cm, pulverlackerat, silvergrå ordagranna. Meta saknar finit verb: rättas."
+ },
+ {
+  "nr": 9585,
+  "id": "10636684394762",
+  "fil": "k_08d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Fem varianter (par 2 x 1 … 2 x 5 kg, 189–929 kr). Titel neutral (1–5 kg), texten räknar upp alla par, \"säljs parvis\" stämmer med varje variant. Färg per vikt ur måttraderna (ljusblå för 3 kg) – rätt val vid den motsägelsefulla färglistan. 31/30 mm ordagrant. Ljud/repskydd rätt strukna."
+ },
+ {
+  "nr": 9586,
+  "id": "10636639666442",
+  "fil": "k_08d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Viktpaket med två",
+    "efter": "Viktpaketet har två"
+   }
+  },
+  "skal": "Summa 2 x 15 = 30 kg = källan. 51 mm hål ordagrant; stångdiameter saknas i denna källa och skrivs inte (rätt, R1). Meta saknar finit verb: rättas."
+ },
+ {
+  "nr": 9587,
+  "id": "10636639437066",
+  "fil": "k_08d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Viktpaket med fyra",
+    "efter": "Viktpaketet har fyra"
+   }
+  },
+  "skal": "Summa 2 x 5 + 2 x 10 = 30 kg = källan. 51 mm ordagrant, ingen stångdiameter i källan. Meta saknar finit verb: rättas."
+ },
+ {
+  "nr": 9588,
+  "id": "10636637765898",
+  "fil": "k_08d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Viktpaket med sex",
+    "efter": "Viktpaketet har sex"
+   }
+  },
+  "skal": "Summa 6 x 5 = 30 kg = källan. 51/50 mm ordagrant (här står stångdiametern i källan). Meta saknar finit verb: rättas."
+ },
+ {
+  "nr": 9589,
+  "id": "10636733972746",
+  "fil": "k_08d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Viktskivor med handtag i cementblandning",
+    "efter": "Paketet har viktskivor med handtag i cementblandning"
+   }
+  },
+  "skal": "Summa 2 x 5 + 2 x 2,5 + 2 x 1,25 = 17,5 kg = källan och titeln. 31/30 mm, svart och röd, platt bas, ungefärliga mått (intervall) ordagranna. \"Kompakt\" är ordagrann materialbeskrivning, inget kvalitetsord. \"Välkonstruerade\" och \"rullar inte iväg\" rätt strukna. Meta saknar finit verb: rättas."
+ },
+ {
+  "nr": 9590,
+  "id": "10636680921354",
+  "fil": "k_08d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "gjutjärn med tre hål",
+    "efter": "gjutjärn som har tre hål"
+   },
+   "html": {
+    "fore": "Säljs: En och en",
+    "efter": "Säljs: En och en, 0,5 kg i fyrpack"
+   }
+  },
+  "skal": "Sju varianter (89–1 259 kr), en vikt per variant; texten listar alla sju – sant för varje variant – men varianten \"4x0,5kg(2kg)\" säljs inte en och en: specifikationen kompletteras. 31/30 mm, pulverlackerat, svart ordagranna. Live-SEO:ns \"premium/snabb leverans\" ersätts. Meta saknar finit verb: rättas."
+ },
+ {
+  "nr": 9591,
+  "id": "10636650610954",
+  "fil": "k_08d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Viktpaket på 30 kg med fyra",
+    "efter": "Viktpaketet på 30 kg har fyra"
+   }
+  },
+  "skal": "Summa 2 x 10 + 2 x 5 = 30 kg = källan. 31/30 mm, tre hål, svart, mått ordagranna. Leverantörsnamn och träningseffekt rätt strukna. Meta saknar finit verb: rättas."
+ },
+ {
+  "nr": 9592,
+  "id": "10636650414346",
+  "fil": "k_08d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Paket med två",
+    "efter": "Paketet har två"
+   }
+  },
+  "skal": "Ordagrant (2 x 15 kg, 33 x 3,9 cm, gjutjärn, 31/30 mm, tre hål). Ingen färgrad – rätt, källan anger ingen färg. Meta saknar finit verb: rättas."
+ },
+ {
+  "nr": 9593,
+  "id": "10636732956938",
+  "fil": "k_08d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Viktpaket med åtta",
+    "efter": "Viktpaketet har åtta"
+   }
+  },
+  "skal": "Summa 2 x 1,25 + 2 x 2,5 + 4 x 5 = 27,5 kg = källan och titeln. Bara ingående vikters mått ur serielistan – rätt. 31/30 mm ordagrant. Meta saknar finit verb: rättas."
+ },
+ {
+  "nr": 9594,
+  "id": "10636753731850",
+  "fil": "k_08d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Viktpaket på 30 kg med fyra",
+    "efter": "Viktpaketet på 30 kg har fyra"
+   }
+  },
+  "skal": "Summa 2 x 10 + 2 x 5 = 30 kg = källan. 31 mm hål; stångdiameter saknas i källan och skrivs inte (rätt). \"Hög kvalitet/massivt\" rätt strukna. Meta saknar finit verb: rättas."
+ },
+ {
+  "nr": 9595,
+  "id": "10636753502474",
+  "fil": "k_08d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Paket med två",
+    "efter": "Paketet har två"
+   }
+  },
+  "skal": "Summa 2 x 15 = 30 kg = källan. 31/30 mm, 33 x 3,9 cm (15 kg ur serielistan) ordagrant. Meta saknar finit verb: rättas."
+ },
+ {
+  "nr": 9596,
+  "id": "10636631605514",
+  "fil": "k_08d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Säljs styckvis.",
+    "efter": "Säljs styckvis, 0,5 kg i fyrpack."
+   },
+   "html": {
+    "fore": "Säljs: Styckvis",
+    "efter": "Säljs: Styckvis, 0,5 kg i fyrpack"
+   }
+  },
+  "skal": "Sju varianter (99–1 269 kr), en vikt per variant; texten listar alla sju – sant för varje variant – men 0,5 kg säljs som \"4x0,5kg\", så \"styckvis\" kompletteras i meta och specifikation. 31/30 mm, grå/silvergrå ordagranna. Hög kvalité/slitstarka rätt strukna."
+ },
+ {
+  "nr": 9597,
+  "id": "10636733088010",
+  "fil": "k_08d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Viktpaket på 30 kg med åtta",
+    "efter": "Viktpaketet på 30 kg har åtta"
+   }
+  },
+  "skal": "Summa 4 x 5 + 4 x 2,5 = 30 kg = källan. 31 mm; stångdiameter saknas i källan och skrivs inte. Meta saknar finit verb: rättas."
+ },
+ {
+  "nr": 9598,
+  "id": "10636695699722",
+  "fil": "k_08d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "gjutjärn med tre handtag.",
+    "efter": "gjutjärn som har tre handtag."
+   }
+  },
+  "skal": "Sex varianter (1,25–20 kg, 119–1 269 kr), en vikt per variant, ingen flerpacksvariant; texten listar alla sex med mått och påstår inget om förpackning – sant för varje variant. 51/50 mm och 2,5 kg = 16,9 cm ordagranna ur egen källa. Meta saknar finit verb: rättas."
+ },
+ {
+  "nr": 9599,
+  "id": "10636748062986",
+  "fil": "k_08d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Paket på 30 kg med sex",
+    "efter": "Paketet på 30 kg har sex"
+   }
+  },
+  "skal": "Summa 6 x 5 = 30 kg = källan. 31/30 mm ordagrant. Meta saknar finit verb: rättas."
+ },
+ {
+  "nr": 9600,
+  "id": "10636736987402",
+  "fil": "k_08d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Viktpaket på 30 kg med fyra",
+    "efter": "Viktpaketet på 30 kg har fyra"
+   }
+  },
+  "skal": "Summa 2 x 10 + 2 x 5 = 30 kg = källan. 31/30 mm, gummi, turkos/grön-blå, mått ordagranna. \"Passar utmärkt\"/\"lätta att greppa\" rätt strukna. Meta saknar finit verb: rättas."
+ }
+]

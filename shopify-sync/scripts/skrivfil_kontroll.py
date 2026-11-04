@@ -94,6 +94,8 @@ def kontrollera(fil, sparr, tillat_kanda):
             f('"enligt tillverkaren" fler än 2 gånger i texten (R5)')
         if re.search(r'-Lastcykel|-Cykel\b', ' '.join(str(x.get(k) or '') for k in ('titel', 'seo_title'))):
             f('stor bokstav efter bindestreck i typordet ("El-lastcykel", inte "El-Lastcykel")')
+        if x.get('meta') and not re.search(r'\b(är|har|ger|passar|finns|väger|mäter|består|används|kan|ingår|erbjuder|levereras|säljs|tillverkad|tillverkade|gör|hjälper|följer|innehåller|fungerar|rymmer|kommer|med)\b', x['meta'], re.I) or (x.get('meta') and re.match(r'^[A-ZÅÄÖ][\wåäö-]+(?: [\wåäö-]+){0,3} med ', x['meta']) and not re.search(r'\b(är|har|ger|passar|finns|väger|mäter|består|används|kan|ingår|erbjuder|säljs|innehåller|fungerar|rymmer)\b', x['meta'], re.I)):
+            v('meta saknar verb (granskarfynd 31 av 37 rättningar i k_08b–d): börja inte med "Produkt med …"')
         if re.search(r'[­​ ﻿]', text):
             f('osynligt tecken (mjukt bindestreck, nollbredd, hårt mellanslag eller BOM)')
     return len(d), fel, varn
