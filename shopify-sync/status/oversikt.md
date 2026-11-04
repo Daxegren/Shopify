@@ -1,0 +1,21 @@
+# Översikt Shopify/Ecomduct – läge 2026-11-04 kväll
+
+Skriven av samordnaren (grenen `claude/oversikt-samordnare`). Öppna frågor i prioritetsordning ligger i `oppna_fragor.json` (S1–S11 nya, F1–F12 från BEST OF SPORTS). Alla sessioner har bara läst; inget har ändrats i någon butik utom BEST OF SPORTS.
+
+| Butik | Gren | Fas | Klart | Blockerar | Beslut som väntar på David |
+|---|---|---|---|---|---|
+| BEST OF SPORTS | `claude/zealous-johnson-0ywddr` | Skrivfas | 540 fitnessprodukter skrivna och verifierade; API-väg byggd; elcyklar k_01d klara, k_02b under granskning | Gränsen för användning delas av nio sessioner | F1–F12 (pilot 20, lastgräns, typord, dubbletter, FLUID m.fl.) |
+| Alpha Zoo | `claude/alphazoo-byou-onboarding` | Fas 1 klar (publik data) | Profil, tom spärrlista, genomlysning (24 produkter, 62 kategorier), site-audit | Admin, Search Console, GA4, Ads, Ahrefs ej nåbara | S1, S3, S4, S5c, S7, S10 |
+| B You Underwear | `claude/byou-onboarding` (+ filer från Alpha Zoo-grenen) | Fas 1 klar (publik data) | 13 produkter, 16 kollektioner; två profiler och två genomlysningar finns | Samma som Alpha Zoo; dubbelarbete | S1, S3, S4, S6 |
+| Gorilla Sports | `claude/gorillasports-onboarding` | Fas 1 klar (publik data) | 869 produkter inventerade; profil och spärrlista (inaktiv); dubbla produktposter i strukturerad data | Åtkomst; ton ej beslutad | S1, S3, S4, S8 |
+| Workout Brands | `claude/workoutbrands-onboarding` | Fas 1 klar (publik data) | 6 920 produkter, 104 356 varianter; är streetwear, inte träning | Åtkomst; inriktning obekräftad | S1, S3, S4, S9 |
+| Happy Parent | `claude/happyparent-onboarding` | Fas 1 klar (publik data) | 581 produkter; B1–B12 föreslagna; bred spärrlista (ca 360 poster) | Åtkomst; CE-dokumentation | S1, S3, S4, S5b |
+| HYPR Nutrition | `claude/hyprnutrition-onboarding` | Fas 1 klar (publik data) | 9 produkter, 86 artiklar; regler för tillskott (utkast); alla produkter spärrade | Åtkomst; regulatorisk granskare; fel bolags villkor | S1, S3, S4, S5a |
+| Mondido | `claude/mondido-onboarding` | Stoppad | Publik kontroll: betaltjänst, inte butik | Davids besked | S2 |
+| To The Moon | `claude/tothemoon-onboarding` | Stoppad | Ingen träff i repot; inget gissat | Davids besked | S2 |
+
+## Observationer
+- Alla sex fas 1-sessioner bröt samma gång mot samma fälla: `switch-shop` på den delade Shopify-kopplingen (se `LARDOMAR.md`). Regeln finns nu hos alla.
+- Filnamnskrockar mellan grenarna: `beslut-2026-11-04-7.md` finns på fem grenar och på huvudgrenen, `-5` på Alpha Zoo och huvudgrenen (S11).
+- Alpha Zoo-grenen ändrade `regler-v1.md` (rubrik till v1.5 och R20/R21) medan BOS-grenen redan har ett eget v1.5-avsnitt. Måste sammanföras i regelboken (uppgift 2).
+- Dubbelarbete: B You gjordes av två sessioner; Alpha Zoo-sessionens filer är huvudspår.

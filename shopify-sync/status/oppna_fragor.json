@@ -70,5 +70,93 @@
   "datum": "2026-11-04",
   "fraga": "Tunturi Allround Boxing Gloves 16 oz har live 'ger stöd åt handleden' i metan utan 'enligt tillverkaren'. Prövas separat (stödpåstående, R5)",
   "status": "öppen"
+ },
+ {
+  "id": "S1",
+  "datum": "2026-11-04",
+  "fraga": "API-åtkomst per butik: installera appen 'BOS Textutrullning' (read_products, write_products) på varje butik (samma organisation) eller skapa egen app där; lägg *.myshopify.com under Allowed domains; ge mig myshopify-adresserna (B You: officialbyou.myshopify.com är obekräftad). Låser upp admininventering i Alpha Zoo, B You, Gorilla, Workout Brands, Happy Parent, HYPR (6 sessioner) och är förutsättning för all skrivning",
+  "status": "öppen",
+  "kalla": "Översikt (samordnare)",
+  "last_upp_sessioner": 6
+ },
+ {
+  "id": "S2",
+  "datum": "2026-11-04",
+  "fraga": "Vad är Mondido (betaltjänst enligt publik sida, ingen butik) och 'To The Moon' (typ, domän, myshopify-adress)? Båda sessionerna står stilla tills du svarar. Gäller även: hur hänger Ecomduct ihop med den här satsningen (Axegren Invest AB; ägande/IP, slå inte ihop kodbaser)?",
+  "status": "öppen",
+  "kalla": "Översikt (samordnare)",
+  "last_upp_sessioner": 3
+ },
+ {
+  "id": "S3",
+  "datum": "2026-11-04",
+  "fraga": "Sökdata: koppla Search Console, GA4 och Google Ads per butik (Windsor har bara Facebook Organic; Ahrefs-planen saknar API, 'Insufficient plan'). Utan dem blir genomlysningarna utan trafik, intäkt och prioritering. Besluta också om Ahrefs ska uppgraderas",
+  "status": "öppen",
+  "kalla": "Översikt (samordnare)",
+  "last_upp_sessioner": 6
+ },
+ {
+  "id": "S4",
+  "datum": "2026-11-04",
+  "fraga": "Godkänn eller ändra butiksprofilernas förslag på utanfor_tills_vidare och spärrlistor per butik (Alpha Zoo, B You, Gorilla, Workout Brands, Happy Parent, HYPR). Fas 2 startar inte utan",
+  "status": "öppen",
+  "kalla": "Översikt (samordnare)",
+  "last_upp_sessioner": 6
+ },
+ {
+  "id": "S5",
+  "datum": "2026-11-04",
+  "fraga": "Regelverkskänsliga butiker: (a) HYPR: utse regulatorisk granskare, byt fel bolags köpvillkor/integritetspolicy (restaurang), besluta om befintliga hälsopåståenden; (b) Happy Parent: godkänn B1–B12, ange tillverkare/importör och CE-dokumentation, pausa sovkudden?; (c) Alpha Zoo: spärr för foder/tillskott/vård (alt 1–3)",
+  "status": "öppen",
+  "kalla": "Översikt (samordnare)",
+  "last_upp_sessioner": 3
+ },
+ {
+  "id": "S6",
+  "datum": "2026-11-04",
+  "fraga": "B You: vilken profil gäller (butiksprofil-byouunderwear.json, rekommenderad, eller butiksprofil-byou.json)? Samt versaler BYOU (R21), typord Thong/Stringtrosor, marknaderna /da /fi /de /en (på riktigt eller bort?), ton och standardblock",
+  "status": "öppen",
+  "kalla": "Översikt (samordnare)",
+  "last_upp_sessioner": 1
+ },
+ {
+  "id": "S7",
+  "datum": "2026-11-04",
+  "fraga": "Alpha Zoo: språk i fas 2 (bara svenska rekommenderas; norska?), domänplan för .dk/.fi/.no (de pekar ut .se som original)",
+  "status": "öppen",
+  "kalla": "Översikt (samordnare)",
+  "last_upp_sessioner": 1
+ },
+ {
+  "id": "S8",
+  "datum": "2026-11-04",
+  "fraga": "Gorilla Sports: ton (säljande eller faktatext), märkesstavning/versaler i 210 titlar, hårda mellanslag, standardblock och klartagg, alt-texter via API först",
+  "status": "öppen",
+  "kalla": "Översikt (samordnare)",
+  "last_upp_sessioner": 1
+ },
+ {
+  "id": "S9",
+  "datum": "2026-11-04",
+  "fraga": "Workout Brands är streetwear/mode, inte träning: bekräfta inriktning, märkesmodell (vendor UC Men/Ladies = samma märke?) och åtgärdsförslagen 1–13",
+  "status": "öppen",
+  "kalla": "Översikt (samordnare)",
+  "last_upp_sessioner": 1
+ },
+ {
+  "id": "S10",
+  "datum": "2026-11-04",
+  "fraga": "Regelbok: godkänn R20 (språk, modersmålstalare) och R21 (märken med egen versalstavning) från Alpha Zoo-sessionen; jag för in dem i v1.5 utan att ändra befintliga regler",
+  "status": "öppen",
+  "kalla": "Översikt (samordnare)",
+  "last_upp_sessioner": 2
+ },
+ {
+  "id": "S11",
+  "datum": "2026-11-04",
+  "fraga": "Filnamnskrockar: fem grenar har skapat rapporter/beslut-2026-11-04-7.md och Alpha Zoo -5 (båda finns redan på huvudgrenen). Får jag vid sammanslagning kopiera varje till eget namn (t.ex. beslut-2026-11-04-7-mondido.md) så inget skrivs över? Originalen ändras inte",
+  "status": "öppen",
+  "kalla": "Översikt (samordnare)",
+  "last_upp_sessioner": 1
  }
 ]
