@@ -1,0 +1,172 @@
+[
+ {
+  "nr": 10001,
+  "id": "10581106983178",
+  "fil": "k_12a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Fast längd 105 cm (egen artikel, SKU 231105). Gigantti-sidan läst av granskaren: tillverkarnr Gy231105 och EAN 6430016905817 = vår streckkod, 'kävelysauvat', 105–125 cm, sauvakävely. Ingen 'justerbar', ingen styrketräning. Typord Promenadstavar enhetligt i 10001–10005."
+ },
+ {
+  "nr": 10002,
+  "id": "10581107081482",
+  "fil": "k_12a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Som 10001 (SKU 231110, längd ur titeln). Inga justerbar-/styrketräningspåståenden."
+ },
+ {
+  "nr": 10003,
+  "id": "10581107048714",
+  "fil": "k_12a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Som 10001 (SKU 231115). 'Stöd', 'balans', 'avlasta leder' ur livekällan rätt utelämnade (R5)."
+ },
+ {
+  "nr": 10004,
+  "id": "10581107114250",
+  "fil": "k_12a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Som 10001 (SKU 231120). Livekällans rehabilitering/styrketräning/gym rätt utelämnade."
+ },
+ {
+  "nr": 10005,
+  "id": "10581107147018",
+  "fil": "k_12a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Som 10001 (SKU 231125). Livekällans 'justerbara längd' rätt utelämnad."
+ },
+ {
+  "nr": 10006,
+  "id": "10581110391050",
+  "fil": "k_12a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Kärkkäinen-sidan läst av granskaren: EAN 6430016909013 i bildadressen = vår streckkod; 1400 mm stång med mjuk gummiyta, PU-skivor 2x5/2x2,5/2x1,25 kg med 30 mm hål, 2 snabblås i plast 30 mm. Summan 17,5 kg skivor + stång = 20 kg. Maxlast rätt utelämnad (olika värden)."
+ },
+ {
+  "nr": 10007,
+  "id": "10581112488202",
+  "fil": "k_12a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Utkastet byggde på en sökträff, men granskaren kunde läsa sidan https://karkkainen.com/en-en/gymstick-20kg-vinyl-grip-pump---setti-1 (2026-11-04): EAN 6430016904339 i bildadressen = vår streckkod; tredelad stång 140 cm, vinylskivor 2x1,25/2x2,5/2x5 kg, fjäderlås. Alla påståenden i texten är därmed styrkta av en läsbar sida. att_bekrafta ska uppdateras: sidan är läst, inte bara sökträff. Proshop svarade 403 och har inte använts."
+ },
+ {
+  "nr": 10008,
+  "id": "10581119238410",
+  "fil": "k_12a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Kärkkäinen-sidan läst: EAN 6430062515398 = vår streckkod; 3-delad stång 131 cm, vinylskivor 2x5/2x2,5/2x1,25 kg, 2 fjäderlås. Summan stämmer med 20 kg. Livekällans 'justerbara vikter'/'robust' rätt utelämnade."
+ },
+ {
+  "nr": 10010,
+  "id": "10581112127754",
+  "fil": "k_12a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Bygghemma läst: Art.nr Gy61158 och EAN 6430062510263 = vår SKU/streckkod; produkttyp 'Tricepsstång' (svenskt typord i källan), mått 52 x 8,5 x 4,5 cm, krom/svart."
+ },
+ {
+  "nr": 10012,
+  "id": "10581112324362",
+  "fil": "k_12a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Elgiganten läst: EAN 6430016905152 = vår streckkod; 'Stavspets i stål', 'ett par stavspetsar', tubdiameter 10 mm i nedre änden. Typordet Stavspetsar står i den svenska källan. Effektpåstående om sand/snö rätt utelämnat."
+ },
+ {
+  "nr": 10015,
+  "id": "10581100921098",
+  "fil": "k_12b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Court Mini Hoop Gymstick",
+    "efter": "Basketkorg Gymstick Court Mini Hoop"
+   },
+   "seo_title": {
+    "fore": "Court Mini Hoop Gymstick",
+    "efter": "Basketkorg Gymstick Court Mini Hoop"
+   }
+  },
+  "skal": "Kärkkäinen-sidan läst av granskaren: EAN 6430016902137 i bildadressen = vår streckkod, så sidan gäller entydigt exakt modellen även utan artikelnummer 53200. En enda läsbar återförsäljarsida med matchande EAN räcker enligt v1.6. Mått, breakaway-kant, vadderade krokar, minibasketboll och pump stämmer. Utkastet säger att källan saknar svenskt typord, men sidans svenska text använder 'basketkorg' och 'förstärkt ryggplatta'. Typordet sätts därför först (R7). Valfritt: 'breakaway-rim' kan skrivas 'breakaway-kant' som i den svenska källan.",
+  "regel": "R7",
+  "allvarlighet": "låg"
+ },
+ {
+  "nr": 10020,
+  "id": "10636630622474",
+  "fil": "k_12b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Alla uppgifter i egen källa. Texten räknar upp de sju varianterna (1,25–25 kg) utan pris; diametertabellen gäller per vikt; 31 mm hål för 30 mm stång stämmer för alla varianter. Golvskydd står ordagrant och har 'enligt tillverkaren' (R5). 'åtta vikter' rätt utelämnat."
+ },
+ {
+  "nr": 10021,
+  "id": "10636690718986",
+  "fil": "k_12b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Egen källa: 51 mm hål, 45 cm diameter, fem varianter 5–25 kg utan pris. Ingen stångdiameter påstås (källan saknar den). 'håller än bättre' rätt utelämnat."
+ },
+ {
+  "nr": 10022,
+  "id": "10636672631050",
+  "fil": "k_12b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Egen källa: 51 mm hål, passar 50 mm-stänger, parvis, fem paket. Breddtabell per skiva. 'håller betydligt längre' rätt utelämnat."
+ },
+ {
+  "nr": 10023,
+  "id": "10636735283466",
+  "fil": "k_12b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Egen källa: 'Passar 50mm-stänger', 45 cm, förstärkt innerring, fem vikter. 51 mm är borttaget ur titeln eftersom källtexten inte anger hålmåttet; konservativt och flaggat. 'Enligt tillverkaren' en gång."
+ },
+ {
+  "nr": 10024,
+  "id": "10636632621322",
+  "fil": "k_12b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Material: Gummi</li>",
+    "efter": "<li>Ytskikt: Gummi</li>"
+   }
+  },
+  "skal": "Egen källa: 450 mm, innercirkel 50,4 ± 0,1 mm, 92 Shore A, färg och bredd per vikt, parvis, fyra paket utan pris. TRYM i versaler är tillåtet. Raden 'Material: Gummi' antyder att hela skivan är av gummi, men källan säger bara att skivan har ett lager gummi och anger inte kärnan.",
+  "regel": "R1",
+  "allvarlighet": "låg"
+ },
+ {
+  "nr": 10025,
+  "id": "10636634849546",
+  "fil": "k_12b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Egen källa: massivt stål 10 mm, 60/75/100 cm med 6/8/10 greppbredder, ca 9 cm, 2 karbinkrokar och 2 enkelhandtag. 'Maximal belastning: 200kg' är svensk rad med etikett och enhet (R4) och står en gång med 'enligt tillverkaren'. Typordet kabelstång står i källan."
+ },
+ {
+  "nr": 10026,
+  "id": "10581104427274",
+  "fil": "k_12b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Inga skydds-, stötdämpnings- eller ledpåståenden i texten (källans 'minskar belastningen på lederna' utelämnad). Gigantti läst av granskaren på https://www.gigantti.fi/product/urheilu-ja-vapaa-aika/urheilu-ja-fitness/liikuntavalineet-ja-tarvikkeet/gymstick-air-track-urheilu-ja-vapaa-aika/257600 (adressen i att_bekrafta, /yrityksille/, ger 404): tillverkarnr GY61200-BL och EAN 6430062514315 = vår variant BL, 300 x 100 x 10 cm, PVC och polyester 1000D, elpump, väska, reparationssats. Handtag och inomhus/utomhus från https://varuste.net/da/p111085/uutiset.php (läst; att_bekrafta anger bara domänen). Färgen borttagen ur titeln eftersom BL/BLU/PI har samma pris och oklara namn. Kategorifrågan (landningsmatta för gymnastik, ofta använd av barn, underkänd i c_4 nr 3052) står inte i profilens utanför-lista; den lyfts som beslut till David."
+ },
+ {
+  "nr": 10027,
+  "id": "10588453404938",
+  "fil": "k_12b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Taggen 'På beställning' finns live, så leveranstidsmeningen är rätt. Alla fem varianter är green, och priset skiljer bara mellan storlekar. Eagle 90 Transmission är mekanisk (singletracks, Vital MTB), och texten nämner inte om växlingen är mekanisk eller elektronisk. Hjulstorlekarna och de trasiga ramstorleksraderna är rätt utelämnade."
+ }
+]

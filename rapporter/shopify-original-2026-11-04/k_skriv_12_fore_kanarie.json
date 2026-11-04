@@ -1,0 +1,47 @@
+[
+ {
+  "id": "gid://shopify/Product/10581106983178",
+  "title": "Go Walker 105cm (black-white)",
+  "handle": "go-walker-105cm-black-white",
+  "status": "ACTIVE",
+  "tags": [
+   "Gymstick"
+  ],
+  "updatedAt": "2026-10-11T04:07:17Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p><strong>Gymstick Go Walker</strong> är en mångsidig träningsstav som är perfekt för både promenader och mer intensiva träningspass utomhus. Med sin justerbara längd upp till 105 cm och <strong>ergonomiska handtag</strong> anpassar den sig enkelt efter din kropp och ditt träningsbehov. Tillverkad i slitstarkt material är denna walker ett pålitligt val för att förbättra din kondition och styrka i alla terränger.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/10581107081482",
+  "title": "Go Walker 110cm (black-white)",
+  "handle": "go-walker-110cm-black-white",
+  "status": "ACTIVE",
+  "tags": [
+   "Gymstick"
+  ],
+  "updatedAt": "2026-10-18T04:06:07Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Med <strong>Gymstick Go Walker 110cm</strong> får du en robust och pålitlig träningspartner för dina promenader och vandringar. Dess <strong>hållbara konstruktion</strong> i kombination med den stilrena färgkombinationen svart och vit gör den till ett utmärkt val för alla som vill förbättra sin kondition och stabilitet utomhus. Denna vandringsstav är designad för att ge optimalt stöd och komfort, oavsett terräng.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/10581107048714",
+  "title": "Go Walker 115cm (black-white)",
+  "handle": "go-walker-115cm-black-white",
+  "status": "ACTIVE",
+  "tags": [
+   "Gymstick"
+  ],
+  "updatedAt": "2026-10-18T04:06:08Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Gymstick Go Walker 115cm är din idealiska partner för en effektiv och skonsam promenadträning, oavsett om du är nybörjare eller erfaren. Dessa promenadstavar är utformade för att ge dig <strong>extra stöd</strong> och <strong>balans</strong>, samtidigt som de minskar belastningen på dina knän och leder. Tillverkade med <strong>högkvalitativa material</strong> säkerställer de hållbarhet och pålitlighet för otaliga träningspass utomhus.</p>"
+ }
+]
