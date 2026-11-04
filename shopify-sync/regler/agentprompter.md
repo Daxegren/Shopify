@@ -1,6 +1,6 @@
 # Agentprompter (korta) – ersätter de långa promptarna
 
-Alla roller läser först: `shopify-sync/regler/regler-v1.md`, `shopify-sync/docs/BESLUTSLOGG.md`, butikens profil (`shopify-sync/config/butiksprofil-*.json`) och de tre senaste granskningsutlåtandena i `rapporter/facit-bos-2026-10-31/granskning/`. Skriv aldrig om regler i prompten; lägg nya regler i regelboken.
+Alla roller läser först: `shopify-sync/regler/regler-v1.md`, `shopify-sync/docs/BESLUTSLOGG.md`, butikens profil (`shopify-sync/config/butiksprofil-*.json`) och de tre senaste granskningsutlåtandena i `rapporter/facit-bos-2026-10-31/granskning/`. Format-skript: `rapporter/facit-bos-2026-10-31/format_regler.py`. Kanoniskt standardblock: `rapporter/facit-bos-2026-10-31/vag2_skriv/b_skriv_24.json` (ta blocket därifrån, inte ur andra utkast). Skriv aldrig om regler i prompten; lägg nya regler i regelboken.
 Alla roller: bekräfta butiken med get-shop-info, skriv bara i den egna arbetsmappen under scratchpad, slutrapport max 10 rader.
 
 ## Utkast (Sonnet)

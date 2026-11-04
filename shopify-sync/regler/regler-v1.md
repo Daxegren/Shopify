@@ -1,17 +1,17 @@
-# Regelbok v1 – produkttexter (butiksoberoende)
+# Regelbok v1.1 – produkttexter (butiksoberoende)
 
-Version 1, 2026-11-04. Max ~60 rader; blir den längre har vi gjort fel. Varje regel har en kod: **T** = kontrolleras av skript (`shopify-sync/scripts/skrivfil_kontroll.py`), **G** = granskare, **M** = mänskligt beslut. Butiksspecifikt (märken, spärrar, standardblock, taggar) står i butikens profil (`shopify-sync/config/butiksprofil-*.json`) och i `shopify-sync/docs/BESLUTSLOGG.md`. Nytt granskningsfynd = ny regel här eller ett nytt test i skriptet, aldrig bara en lärdomspost.
+Version 1.1, 2026-11-04 (v1.1 efter återkoppling från utkastagent g_3: R3, R4, R7, R20 och R21 förtydligade). Max ~60 rader; blir den längre har vi gjort fel. Varje regel har en kod: **T** = kontrolleras av skript (`shopify-sync/scripts/skrivfil_kontroll.py`), **G** = granskare, **M** = mänskligt beslut. Butiksspecifikt (märken, spärrar, standardblock, taggar) står i butikens profil (`shopify-sync/config/butiksprofil-*.json`) och i `shopify-sync/docs/BESLUTSLOGG.md`. Nytt granskningsfynd = ny regel här eller ett nytt test i skriptet, aldrig bara en lärdomspost.
 
 ## Källa och påståenden
 - R1 (G) Bara uppgifter som står entydigt i produktens EGEN live-källa. Aldrig från syskonprodukt eller minne.
 - R2 (G) Motsägelse, trasig eller maskinöversatt rad → utelämna. Gissa aldrig. Estniska/finska ord: översätt bara om du är säker.
-- R3 (G) Titeln anger en variant (färg/vikt/storlek) men produkten har flera varianter med olika pris, eller källan stämmer inte med titeln → avvisa med skäl.
-- R4 (T/G) Lastgräns/maxvikt: svensk ordagrann uppgift med enhet och etikett → en gång som "enligt tillverkaren". Engelsk, maskinöversatt, oklar → utelämna helt. Tolka aldrig ("Load range", "nivåer", "driftsvikt").
-- R5 (G) Inga säkerhets-, hälso-, stabilitets-, träningseffekt-, rehab-, ursprungs- eller kvalitetsord (slitstark, robust, halkfri) om det inte står ordagrant i källan; då "enligt tillverkaren".
-- R6 (M) Kategorier med hälsopåståenden (akupressur, massage, rehab) och barn/kosttillskott hålls utanför tills ägaren beslutat.
+- R3 (G) Titeln anger en variant (färg/vikt/storlek) men produkten har flera varianter med olika pris, eller källan stämmer inte med titeln → avvisa med skäl. Tunn källa: minst två entydiga fakta utöver titeln, annars avvisa eller kort meta enligt standard §14.
+- R4 (T/G) Lastgräns/maxvikt: svensk ordagrann uppgift med enhet och etikett → en gång som "enligt tillverkaren". Engelsk, maskinöversatt, oklar → utelämna helt. Tolka aldrig ("Load range", "nivåer", "driftsvikt"). Lastgräns i löptext utan etikett ("klarar upp till 350 kg", "sprängsäker") → utelämna.
+- R5 (G) "Enligt tillverkaren": en gång per påstående, högst två per text. Inga säkerhets-, hälso-, stabilitets-, träningseffekt-, rehab-, ursprungs- eller kvalitetsord (slitstark, robust, halkfri) om det inte står ordagrant i källan; då "enligt tillverkaren".
+- R6 (M) Kategorier som står under `utanfor_tills_vidare` i profilen (akupressur, massagepistoler, vibrationsplattor, kroppsanalysvågar, barn, kosttillskott m.fl.) avvisas tills ägaren beslutat. Profilen är facit; äldre prompter som säger emot gäller inte.
 
 ## Språk och format
-- R7 (G) Typordet först i titel och SEO-titel, enhetligt i batchen. Byt typord bara om produktens egen källtext använder det nya ordet.
+- R7 (G) Typordet först i titel och SEO-titel, enhetligt i batchen. Byt typord bara om produktens egen källtext använder det nya ordet. Saknar källan svenskt ord (engelsk eller estnisk live-titel): använd butikens godkända typord (profilen, `godkanda_typord`) eller behåll titelns ord; hitta inte på.
 - R8 (T) Märket med stor första bokstav och resten gemener ("Hammer", "BH Fitness"), aldrig versaler.
 - R9 (T) Stor bokstav efter kolon i specifikationsrader; stora bokstäver på beskrivande ord i titel/SEO-titel; enheter (cm, mm, kg, g, tum) med liten bokstav.
 - R10 (T/G) "N-tums skärm" i löptext, inte "N tum skärm". Skriv "och", aldrig "&".

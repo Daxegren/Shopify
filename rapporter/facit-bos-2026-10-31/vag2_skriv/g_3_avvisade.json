@@ -1,0 +1,72 @@
+[
+ {
+  "id": "10462778097930",
+  "nr": 10520,
+  "skäl": "Källan består bara av en mening (Tunturi Ab Trainer är en magmuskeltränare från Tunturi) och standardblocket; inga mått, material eller användning. Varje text blir cirkulär eller utfylld (R11, R1). Ingen faktagrund."
+ },
+ {
+  "id": "10470932807946",
+  "nr": 10545,
+  "skäl": "Typordet är oklart (live Weight, engelskt; källan säger bara att den skannar din kropp, och ordet våg står inte i källan) och källan består av hälsoparametrar, hälsopoäng och mätmetoder (DSM-BIA, SMFIM). Tillverkarraden är tom. Kan inte skrivas utan att gissa typ (R3, R2, R6). Kan prövas igen om David släpper kroppsanalysvågar, som SC30 10561 skrivs som."
+ },
+ {
+  "id": "10472270823690",
+  "nr": 10550,
+  "skäl": "Massagepistol (massage, R6): kategorin hålls utanför tills ägaren beslutat. Källan har dessutom återhämtningspåståenden (djup avslappning, muskelåterhämtning) och motor/batteri/ljudnivå. Finns på avvisningslistan i b_utkastprompt.md."
+ },
+ {
+  "id": "10411701272842",
+  "nr": 10551,
+  "skäl": "Massagepistol (massage, R6): kategorin hålls utanför. Källan består till stor del av hälsopåståenden (stimulerar blodcirkulationen, minskar muskelvärk, återhämtning) samt motor och batteri."
+ },
+ {
+  "id": "10472259191050",
+  "nr": 10552,
+  "skäl": "Massagepistol (massage, R6): kategorin hålls utanför. Källan består till stor del av hälsopåståenden (minskar smärta, stress och spänningar, stimulerar cirkulationen) och motor/batteri; stycket Lindrar stress och spänningar är dessutom upprepat tre gånger."
+ },
+ {
+  "id": "10471317602570",
+  "nr": 10553,
+  "skäl": "Tillbehör till massagepistol med varm- och kallterapi (massage och terapi, R6): hålls utanför. Källan har smärtlindringspåstående (olika temperaturer lindrar smärta) och en lång kompatibilitetslista med andra märken; kompatibilitet får bara stå om källan är entydig, och MG70 undantas."
+ },
+ {
+  "id": "10468719493386",
+  "nr": 10556,
+  "skäl": "Akupressurmatta med kudde (akupressur, R6): hålls utanför enligt beslutsloggen och profilens utanfor_tills_vidare. Källan består av hälso- och graviditetsvarningar och hälsopåståenden (sömn, smärta, cirkulation, energi). Produkttypen Akupressurmadrass är dessutom inte ett normalt typord. Samma som 10477/10478 i g_2."
+ },
+ {
+  "id": "10472276984074",
+  "nr": 10557,
+  "skäl": "Akupressurmatta med kudde (akupressur, R6): hålls utanför, samma källa och skäl som 10556 (mintgrön)."
+ },
+ {
+  "id": "10472276721930",
+  "nr": 10558,
+  "skäl": "Akupressurmatta med kudde (akupressur, R6): hålls utanför, samma källa och skäl som 10556 (roséguld)."
+ },
+ {
+  "id": "10471019020554",
+  "nr": 10559,
+  "skäl": "Akupressurmatta med kudde (akupressur, R6): hålls utanför, samma källa och skäl som 10556 (svart). Källan har dessutom en trasig upprepning av blodtrycksvarningen. Produkten har taggen På beställning."
+ },
+ {
+  "id": "10471174242570",
+  "nr": 10560,
+  "skäl": "Massagepistol (massage, R6): hålls utanför. Källan har påståenden om muskelavslappning, återhämtning och lindring av muskelspänningar, samt motor och batteri."
+ },
+ {
+  "id": "10472276590858",
+  "nr": 10562,
+  "skäl": "Vibrerande massagerulle (massage, R6, vibration): hålls utanför. Källan har stress-, muskelvärks- och lindringspåståenden samt batteri. Massagerulle utan vibration är ett undantag i kontrollskriptet, men den här har vibration och påståenden."
+ },
+ {
+  "id": "10486629597450",
+  "nr": 10563,
+  "skäl": "Vibrationsplatta: står på avvisningslistan i b_utkastprompt.md (säkerhetsprodukter) och ingår inte i profilens faktatextlägeskategorier. Källan beskriver hur vibrationerna kastar dig ur balans, slappna av och mindre stress för ryggkotor (hälsopåståenden). Lastgränsen 150 kg är svensk med etikett. Kan skrivas om David släpper vibrationsplattor."
+ },
+ {
+  "id": "10411673714954",
+  "nr": 10564,
+  "skäl": "Vibrationsplatta: samma skäl som 10563. Källtexten motsäger sig själv: titeln säger V20 men texten säger Tunturi Cardio Fit V10, med funktioner oscillation och vibration, och texten skiljer sig från V10:s mått, vikt och funktion. Kan skrivas om David släpper vibrationsplattor och modellnamnet bekräftas."
+ }
+]
