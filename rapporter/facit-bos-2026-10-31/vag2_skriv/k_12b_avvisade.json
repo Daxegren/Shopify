@@ -1,0 +1,27 @@
+[
+ {
+  "id": "10623405523210",
+  "nr": 10016,
+  "skäl": "Tunn källa (R3): bara att stången tränar rygg, axlar och armar; inga mått, material eller fäste. Webbfaktakoll (v1.6) hittade ingen sida som entydigt gäller exakt denna modell (artikel 61156): Tradeinn har en Gymstick \"Lat Bar\" (93 x 18 x 4,5 cm, krom, gummigrepp, https://www.tradeinn.com/traininn/en/gymstick-lat-bar/137685784/p) men namn och artikelnummer saknas, så den kan vara en annan modell. Uppgifterna utelämnas."
+ },
+ {
+  "id": "10581108457738",
+  "nr": 10017,
+  "skäl": "Tunn källa (R3): bara att stången används för pulldowns och rows; kvalitetsord utan stöd. Webbfaktakoll (v1.6): Tradeinn har \"Gymstick Lat Pulldown Bar With Handles 100cm\" (https://www.tradeinn.com/traininn/en/gymstick-lat-pulldown-bar-with-handles-100cm/140876111/p), men artikelnummer 61157 syns inte och en annan Gymstick-produkt, \"Latsdragstång Gymstick med Handtag, 100 cm\" (nr 9920, utkast k_11e), finns redan, så risk för dubblett/felkoppling. Inte entydigt, utelämnas."
+ },
+ {
+  "id": "10581108588810",
+  "nr": 10018,
+  "skäl": "Tunn källa (R3): inga mått, material, antal eller typ utöver titeln, och källan har skadeförebyggande påståenden (R5). Webbfaktakoll (v1.6): Proshop.se listar artikel 61150 men bara med \"hållbar\" och justerbar kardborrerem, utan material eller mått (sidan svarar 403 på direkthämtning). Ett enda entydigt faktum, för tunt (R3)."
+ },
+ {
+  "id": "10581109408010",
+  "nr": 10019,
+  "skäl": "Balansbräda som man står på: ingen svensk lastgräns i produktens egen källa. Webbfaktakoll (v1.6): Galaxus anger tillverkarnummer 61132 och 120 kg maxbelastning, men på engelska (R4: utelämnas), och Varuste.net anger justerbar höjd och 1,48 kg. Föregående granskning (c_11, nr 3163) underkände produkten som oklar produkttyp som ska tas för hand. Källan har bara effektpåståenden (balans, stabilitet, kärnstyrka) och kvalitetsord. Lyfts till David om lastuppgift ska få tas från Galaxus."
+ },
+ {
+  "id": "10676721189130",
+  "nr": 10028,
+  "skäl": "Elektronisk växling: källan anger \"SRAM Force AXS E1\" i 24 växlar och titeln \"AXS\" (SRAM AXS är trådlös elektronisk växling). Elektronisk växling på cyklar avvisas tills David beslutat (regelbokens uppdrag). Titeln låser dessutom färgen Obsidian Pulse medan alla varianter är \"black\"; priset skiljer bara mellan storlekar (104 029 kr M och M/L, 103 819 kr L och XL), vilket i sig inte hindrar."
+ }
+]
