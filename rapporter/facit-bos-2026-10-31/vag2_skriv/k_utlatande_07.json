@@ -1,0 +1,364 @@
+[
+ {
+  "nr": 9402,
+  "id": "10411711430922",
+  "fil": "k_07a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "15 Lux",
+    "efter": "15 lux"
+   }
+  },
+  "skal": "Spårbart (15 lux, LED, integrerad reflektor, 6–48 V E-cykelbatteri, retro, StVZO enligt tillverkaren). Enheten lux med liten bokstav (R9; skriptet kontrollerar bara cm/mm/kg/g/tum). Trasig ljusomfångsrad rätt utelämnad. Belysning är frisläppt (§16)."
+ },
+ {
+  "nr": 9403,
+  "id": "10472237170954",
+  "fil": "k_07a_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Live-titeln anger '5 mm', källan 'diameter 35 mm' (R3: källan stämmer inte med titeln). Tunn källa: utöver titeln bara 'liten' och 35 mm. Webbsökning (Azimut BELL53) gav ingen tillverkarsida, bara andra märkens 35 mm-klockor; v1.6: utelämna. Utkastets meta har dessutom utfyllnaden 'Finns hos BEST OF SPORTS.' (struken i 8701/8702)."
+ },
+ {
+  "nr": 9404,
+  "id": "10475361206538",
+  "fil": "k_07a_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Samma produkt som 8056 (10475361206538), redan UNDERKÄND: centrerat cykelstöd med taggen stödben bär cykelns vikt, och 16–20 tum är barncykelstorlek. Inkonsekvent mot batchens egna avvisningar av stödben (9401, 9453, 9457–9461, 9466). Kräver Davids beslut om stödben och barncykeltillbehör."
+ },
+ {
+  "nr": 9410,
+  "id": "10462230970634",
+  "fil": "k_07a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": " Enligt tillverkaren hindrar gallret husdjuret från att hoppa ur korgen.",
+    "efter": ""
+   }
+  },
+  "skal": "Spårbart (stål, svart, 19 x 29 x 19 cm yttre mått, kompatibel med Basil Buddys påmonterbara husdjurskorg). Typordet Korggaller stöds av källans 'husdjurskorgs galler' och butikens live-ord (9411). Löftet att gallret hindrar husdjuret från att hoppa ur är ett säkerhetslöfte; syskonet Pluto XL underkändes för just det (5088). Stryks."
+ },
+ {
+  "nr": 9411,
+  "id": "10462755356938",
+  "fil": "k_07a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Basil Pluto XL är ett korggaller i stål med måtten 13 x 23 x 20 cm. Det ska enligt tillverkaren hindra husdjuret från att hoppa ur korgen.",
+    "efter": "Basil Pluto XL är ett korggaller i stål för cykelkorg, med måtten 13 x 23 x 20 cm."
+   },
+   "html": {
+    "fore": " Enligt tillverkaren ser det till att husdjuret inte hoppar ur korgen under färden.",
+    "efter": ""
+   }
+  },
+  "skal": "Samma produkt som 5088, underkänd för säkerhetslöftet (husdjuret hoppar inte ur). Utan löftet återstår stål och mått 13 x 23 x 20 cm, vilket räcker (R3). 'Cykelkorg' i meta stöds av live-titeln 'korggaller för korg' och taggen Cykelkorg."
+ },
+ {
+  "nr": 9412,
+  "id": "10472224588042",
+  "fil": "k_07a_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Väska med lastgräns i källan ('Bärkapacitet: upp till 2,5 kg'). Standard §12 (David 2026-11-03): korgar och väskor med lastgräns i källan skrivs inte. Samma linje som 5038/5071/5077. David kan släppa gruppen (R4 och §16.3 skulle då tillåta 'enligt tillverkaren')."
+ },
+ {
+  "nr": 9413,
+  "id": "10472218034442",
+  "fil": "k_07a_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Samma produkt som 5077, redan UNDERKÄND: väska med 'Bärkapacitet: 5 kg' (§12). Texten är i övrigt spårbar."
+ },
+ {
+  "nr": 9414,
+  "id": "10472293957898",
+  "fil": "k_07a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (återvunnen plast, 28 x 39 x 20 cm, S-storlek, fram- och bakre pakethållare, MIK-fäste för att ta loss). Kapaciteten är rätt utelämnad: titeln säger 17,5 l och källan 17 l (R2), och webbkällan gäller inte säkert SKU 21110B. Ingen lastgräns i källan och texten lovar ingen (§12). Förskolebarn rätt utelämnat."
+ },
+ {
+  "nr": 9415,
+  "id": "10472251392266",
+  "fil": "k_07a_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Samma produkt som 5071, redan UNDERKÄND: väska med 'Bärkapacitet: upp till 5 kg' (§12)."
+ },
+ {
+  "nr": 9418,
+  "id": "10472303067402",
+  "fil": "k_07a_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Reflexer är säkerhetsprodukter (synlighetslöften) och skrivs inte i vågor, utan för hand med Davids ja per produkt (standard §12). Texten har dessutom synlighetslöftet '360 grader'."
+ },
+ {
+  "nr": 9419,
+  "id": "10472303788298",
+  "fil": "k_07a_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Reflexdekaler: standard §12, samma som 5087 (Bookman Black Flames). Skrivs inte i vågor."
+ },
+ {
+  "nr": 9420,
+  "id": "10471174832394",
+  "fil": "k_07a_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Reflexdekaler: standard §12, samma som 9419 och 5087."
+ },
+ {
+  "nr": 9421,
+  "id": "10471266713866",
+  "fil": "k_07a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Elliptisk Tränare",
+    "efter": "Crosstrainer"
+   },
+   "seo_title": {
+    "fore": "Elliptisk Tränare",
+    "efter": "Crosstrainer"
+   },
+   "meta": {
+    "fore": "en elliptisk tränare",
+    "efter": "en crosstrainer"
+   },
+   "html": [
+    {
+     "fore": "<p>Christopeit CT 5 är en elliptisk tränare",
+     "efter": "<p>Christopeit CT 5 är en crosstrainer"
+    },
+    {
+     "fore": "Dig som söker en elliptisk tränare",
+     "efter": "Dig som söker en crosstrainer"
+    },
+    {
+     "fore": "Dig som behöver en elliptisk tränare",
+     "efter": "Dig som behöver en crosstrainer"
+    }
+   ]
+  },
+  "skal": "Typord: 'Elliptisk träningscykel/tränare' har konsekvent blivit Crosstrainer (10160–10175, t.ex. 10172 'Elliptisk tränare'), med stöd av productType Crosstrainers och taggen Crosstrainer, och syskonet 9427 (CT 6) får Crosstrainer. Data i övrigt ordagranna (LCD, 15 nivåer, PMS manuellt, 7 kg, 117 x 65 x 154 cm, 27 kg, 110 kg svensk etiketterad rad)."
+ },
+ {
+  "nr": 9422,
+  "id": "10472308867338",
+  "fil": "k_07a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (LCD, 14 svårighetsnivåer, PMS manuellt, 95 x 55 x 131 cm, 21,5 kg, 110 kg svensk etiketterad rad). 'Belastning: 5 kg' och rehab rätt utelämnade. Motionscykel stöds av källan och taggen."
+ },
+ {
+  "nr": 9423,
+  "id": "10472283308298",
+  "fil": "k_07a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Dig som behöver en motionscykel med maximal driftsvikt 120 kg</li>\n",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Maximal driftsvikt: 120 kg (enligt tillverkaren)</li>\n",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "R4 nämner 'driftsvikt' uttryckligen bland termer som aldrig tolkas, och 'Maximal driftsvikt' är översättningen av 'Maximum operating weight' (jfr 10100, alt A). Raden och Passar för-punkten stryks. Övrigt spårbart (LED, 32 svårighetsgrader, PMS servomotor, 94 x 48 x 132 cm, 23,5 kg); tvetydiga 7 kg rätt utelämnade."
+ },
+ {
+  "nr": 9424,
+  "id": "10480052207882",
+  "fil": "k_07a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (LCD, 4 program, 14 nivåer, PMS manuellt, 5 kg svänghjul, 95 x 55 x 132 och 42 x 55 x 152 cm hopfälld, 22 kg, 120 kg svensk etiketterad rad). Hopfällbar stöds av live-titeln och källans hopfällda mått. Ryggproblem och säkerhetsord rätt utelämnade."
+ },
+ {
+  "nr": 9425,
+  "id": "10472311226634",
+  "fil": "k_07a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (LED, 4 program, 32 nivåer, PMS servomotor, 7 kg, extra låg ram, Bluetooth, Zwift/Kinomap, 95 x 55 x 150 cm, 27 kg, 120 kg, 190 cm enligt tillverkaren). Två 'enligt tillverkaren', tillåtet. Höft- och knäproblem rätt utelämnade."
+ },
+ {
+  "nr": 9426,
+  "id": "10572603130122",
+  "fil": "k_07b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (generator utan nätström/batterier, magnetisk broms, 24 nivåer, 12/4/5 program, LCD 7 värden, handpuls och mottagare, sadeljustering, Kinomap, 10 kg, 36 kg, 150–210 cm, 150 kg en gång). Mått utan enhet rätt utelämnade. Motionscykel med elektronik hör till fitnessgruppen i faktatextläge (profilen: motionscyklar); inget beslut undantar elektronik."
+ },
+ {
+  "nr": 9427,
+  "id": "10472308900106",
+  "fil": "k_07b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (crosstrainer och motionscykel i en maskin enligt källan, LCD med surfplattehållare, 8 nivåer, PMS manuellt, 7 kg, 111 x 66 x 152 cm, 33 kg, 110 kg en gång). Typordet följer källtexten och taggarna (R7). Fitness, faktatextläge."
+ },
+ {
+  "nr": 9431,
+  "id": "10472186380554",
+  "fil": "k_07b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "ETRTO 47/62-559 står i titeln och stämmer med källans ETRTO-lista (47-559 till 62-559); Presta 42 mm, 26 tum, MTB och svart står i källan. Raderna som motsäger (1,75 tum, engelska storlekar med 26x1.375) är rätt utelämnade (R2), så underkännandet av 5006 gäller inte längre. Innerslang med ETRTO i titeln är tillåten (§12)."
+ },
+ {
+  "nr": 9432,
+  "id": "10472237859082",
+  "fil": "k_07b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (MTB 26 / Auto, 26 tum, 200 g, mountainbike). Titelns ETRTO 47/62-559 stämmer med bredden 1,75–2,5 tum; 'Autoventil' som i skrivna 8243. Ursprung rätt utelämnat (R5). §12 tillåter innerslang med ETRTO i titeln."
+ },
+ {
+  "nr": 9435,
+  "id": "10472277737738",
+  "fil": "k_07b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Motstånd: 8-stegs justering, effekt upp till 760 W enligt tillverkaren</li>",
+    "efter": "<li>Motstånd: 8-stegs justering</li>"
+   }
+  },
+  "skal": "Källan anger både '(690 W)' och 'upp till 760 W' (motsägelse, R2); Elites egna dokument anger 690 W vid 40 km/h. Effekten stryks. Den maskinöversatta raden 'kompatibla med pedalen' är rätt tolkad som 24–29 tum: tillverkarens sida https://www.elite-it.com/en/home-trainers/classic-trainers/novo-force anger hjul från 24 till 29 tum (v1.6). Cykelträningsställ har taggen Konditionsträning & Fitness och elektronik bara som tillval; det hör till fitness i faktatextläge. Beställningsmeningen finns (tagg På beställning)."
+ },
+ {
+  "nr": 9436,
+  "id": "10472350155018",
+  "fil": "k_07b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>App: Ett års gratis prenumeration på My E-Training, andra appar kan användas</li>\n",
+    "efter": ""
+   }
+  },
+  "skal": "Spårbart (magnetisk teknik, 8 nivåer via växelspak på styret, Elastogel 30 mm, snabbutlösning, 20–29 tum, integrerad Misuro B+ med Bluetooth Smart och ANT+). Gratis prenumeration ett år är ett tidsbundet erbjudande som butiken inte kan garantera (profilen: inga löften) och stryks. Fitness, faktatextläge. Beställningsmeningen finns."
+ },
+ {
+  "nr": 9437,
+  "id": "10472277639434",
+  "fil": "k_07b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (vätskebaserad belastningsenhet, Elastogel 45 mm, snabbkoppling, 20–29 tum, egna växlar). 'Trainer' rätt utelämnat. Beställningsmeningen finns (tagg På beställning)."
+ },
+ {
+  "nr": 9438,
+  "id": "10530129051914",
+  "fil": "k_07b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (plast, 500–750 ml, 45 g, svart/neongrön). Engelskt typord översatt till butikens ord Flaskhållare. Tvillingen 9441 (samma modell och färg, annat pris) är rätt avvisad, så bara en får texten (R12a)."
+ },
+ {
+  "nr": 9442,
+  "id": "10470892798218",
+  "fil": "k_07b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (250 x 190 mm, 15 g). Tunn men med två fakta utöver titeln (R3). Ingen kompatibilitet anges, och ingen hittas på (§12)."
+ },
+ {
+  "nr": 9448,
+  "id": "10636704252170",
+  "fil": "k_07b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (173 x 61 cm, mattor 4/10 mm, 100 % bomull, rosa/vit, 40 grader, strykning). Separat produkt per storlek, ingen dubblett."
+ },
+ {
+  "nr": 9449,
+  "id": "10636703858954",
+  "fil": "k_07b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (190 x 100 cm, mattor 190 x 100 x 1,5 cm, bomull, rosa/vit, 40 grader)."
+ },
+ {
+  "nr": 9450,
+  "id": "10636704055562",
+  "fil": "k_07b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (190 x 60 cm, mattor 190 x 60 x 1,5 cm, bomull, rosa/vit, 40 grader)."
+ },
+ {
+  "nr": 9455,
+  "id": "10487987765514",
+  "fil": "k_07c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Belastning bakre stänkskärm: Högst 8 kg på varje sida enligt tillverkaren</li>\n",
+    "efter": ""
+   }
+  },
+  "skal": "'Den bakre stänkskärmen kan bära maximalt 8 kg på varje sida' är en lastgräns i löptext utan etikett och stryks (R4). Texten nämner då inga väskfästen och antyder ingen last. Underkännandet av 5257 gällde att produkten skulle lyftas i stället för att uppgiften togs bort; enligt R4 v1.4 är strykning nu regeln. Om David ser väskfästena som en bärande funktion ska produkten i stället hållas. 52 mm bara som modellbeteckning, rätt."
+ },
+ {
+  "nr": 9456,
+  "id": "10487987798282",
+  "fil": "k_07c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Belastning bakre stänkskärm: Högst 8 kg på varje sida enligt tillverkaren</li>\n",
+    "efter": ""
+   }
+  },
+  "skal": "Samma som 9455 (R4). Typordet Stänkskärmset i stället för live-titelns Stänkskärmsset godtas: det är samma ord i en annan stavning, och butikens skrivna Hebie-serie (Taipan, Viper, Swap) har genomgående Stänkskärmset."
+ },
+ {
+  "nr": 9462,
+  "id": "10548250575114",
+  "fil": "k_07c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Servicebarhet: Fullt servicebar enligt tillverkaren</li>\n",
+    "efter": ""
+   }
+  },
+  "skal": "Samma påstående (fullt servicebar) står två gånger i html; R5 tillåter det en gång per påstående. Specifikationsraden stryks. Övrigt spårbart (fullstora platta pedaler i aluminium, blå från titeln). Pedaler skrivs sedan k_02c (9165, 9166)."
+ },
+ {
+  "nr": 9463,
+  "id": "10472285765898",
+  "fil": "k_07c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (2018, smal profil, bred plattform, 16 utbytbara piggar). 'Lätta och hållbara' och greppet rätt utelämnade, och Alloy är bara en del av modellnamnet. Ingen dubblett av 9462: källorna skiljer sig."
+ },
+ {
+  "nr": 9465,
+  "id": "10507438948618",
+  "fil": "k_07c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (SPD-kompatibel ena sidan, gjuten plattform med piggar andra, integrerade reflexer utan säkerhetspåstående). LOOK blir Look (R8)."
+ },
+ {
+  "nr": 9470,
+  "id": "10472254341386",
+  "fil": "k_07c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (klassisk design, polyuretan, 270 x 245 mm, 880 g, stadscykel). Trasiga rader rätt utelämnade. Brun från titeln."
+ }
+]
