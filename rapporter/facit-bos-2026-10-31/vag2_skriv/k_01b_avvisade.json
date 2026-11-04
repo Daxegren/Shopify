@@ -1,0 +1,37 @@
+[
+ {
+  "id": "10676719714570",
+  "nr": 9034,
+  "skäl": "R12a dubblett: samma modell och färg (Gravelcykel Giant Revolt Advanced 3, Aquarium) som redan skriven produkt 10472335638794 (b_skriv_17); identisk titel. Koordinatorn avgör om båda ska finnas kvar."
+ },
+ {
+  "id": "10682105299210",
+  "nr": 9029,
+  "skäl": "R12a dubblett: samma modell och färg (Giant Talon E+ 2 (2027) Mars Dust) som 10676720697610 (9026), som skrivs. Dessutom varianter M/L/XL medan källan listar S–XL."
+ },
+ {
+  "id": "10682105331978",
+  "nr": 9030,
+  "skäl": "R12a dubblett: samma modell och färg (Giant Talon E+ 2 (2027) Moonstone) som 10676721549578 (9027), som skrivs. Dessutom varianter M/L/XL medan källan listar S–XL."
+ },
+ {
+  "id": "10468744397066",
+  "nr": 9041,
+  "skäl": "R3: varianter med olika pris (L 111 449 kr, XL 111 239 kr, plus \"Default Title\" 111 449 kr) och källan motsäger sig (180 mm vs 178 mm fjädringsväg, Shimano EP8 vs EP800, ramstorlek S och M båda 38 cm)."
+ },
+ {
+  "id": "10488282251530",
+  "nr": 9045,
+  "skäl": "R3: varianter med olika pris (grå 38 019 kr, XL mörkgrå 33 059 kr) och färgen i titeln gäller inte alla varianter; raden \"Rammaterial\" i källan är trasig."
+ },
+ {
+  "id": "10487987142922",
+  "nr": 9049,
+  "skäl": "R3: varianter med olika pris (21 419 kr, 21 369 kr och 18 619 kr) och titeln anger en färg; källan stämmer inte med en enskild variant."
+ },
+ {
+  "id": "10474079322378",
+  "nr": 9050,
+  "skäl": "R3: varianter med olika pris (18 719 kr \"Default Title\" och XL/gray 16 279 kr); titelns färg Matt Faux Raw (Silver) gäller inte XL/gray; storlekslistan i källan (XL, L, M, S) stämmer inte med varianterna."
+ }
+]
