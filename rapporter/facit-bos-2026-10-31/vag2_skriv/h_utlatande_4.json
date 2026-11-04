@@ -1,0 +1,249 @@
+[
+ {
+  "nr": 10503,
+  "id": "10411928649994",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn källa: bara typordet armhävningsstöd (ur källtexten) och märket. R3 uppfylls genom kort meta (§14, 'Finns hos BEST OF SPORTS.'); ingenting utfyllt. Effektpåståendet (stärka, belasta handlederna) borta."
+ },
+ {
+  "nr": 10504,
+  "id": "10472301166858",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "PVC och pilates ur källtexten; färg och vikt ur titeln; rehabilitering och 'perfekt slät yta' borta. Typordet Träningsboll kommer från taggen, inte från källtexten eller godkända_typord (R7-gränsfall, fråga till David; syskonet 10495 fick Gymnastikboll ur sin live-titel)."
+ },
+ {
+  "nr": 10505,
+  "id": "10472299430154",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typordet Träningsbräda står i källtexten (R7 uppfyllt; taggen balansplatta är inte källtext). 40 cm och 1,75 cm är den entydiga delen av de maskinöversatta 'Bordets'-raderna (R2). Halkfri ordagrant, 'enligt tillverkaren'. 'Säker användning', 3D-effekt och träningseffekt borta."
+ },
+ {
+  "nr": 10506,
+  "id": "10472300216586",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "för hemma- och gruppträning och har en större hoppyta.",
+    "efter": "för hemma- och gruppträning."
+   }
+  },
+  "skal": "Tunn källa; kort meta. 'Större hoppyta' är en jämförelse utan referens (större än vad?) och stryks. Professionell kvalitet, stabilitet, robust och träningseffekt borta. 122 cm bara ur titeln, skrivs som Storlek (ingen tolkning)."
+ },
+ {
+  "nr": 10507,
+  "id": "10472301691146",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typordet Ribbstol ur källtexten ersätter estniska 'Varbsein'; namnet stavas som i källtexten (Swedish Wall Bar). Bokträ, slipad, transparent beläggning, i ett stycke ordagrant; 'europeiskt' som 'enligt tillverkaren'. Slitstark och stabilitet borta. Ingen lastgräns i källan."
+ },
+ {
+  "nr": 10508,
+  "id": "10462776361226",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Maximal användarvikt: 120 kg' är en svensk rad med etikett och enhet: en gång 'enligt tillverkaren' (R4, alt A). Övriga data ordagrant; 'stärka musklerna' och hållning borta; tom tillverkarrad utelämnad."
+ },
+ {
+  "nr": 10509,
+  "id": "10472249884938",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "är en svart balansplatta på",
+    "efter": "är en balansplatta på"
+   },
+   "html": [
+    {
+     "fore": "är en svart balansplatta på",
+     "efter": "är en balansplatta på"
+    },
+    {
+     "fore": "<li>Färg: Svart</li>\n",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Färg på slang och klämma: Vit</li>\n",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Källan har två motsägande färgrader ('Färg: Svart' och 'Färg: Vit'). Att Vit avser slang och klämma är en tolkning (R2: motsägelse → utelämna båda). Mått, diameter, rep för stretching och sidorna ordagrant. Märkeshistorik och 'alla muskelgrupper' borta."
+ },
+ {
+  "nr": 10510,
+  "id": "10472260862218",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typordet Fitnessboll står i live-titeln och källtexten och behålls (R7: varje Slam Ball behåller sitt eget ord). Data ordagrant. Golvskydd, stärka och stress borta. Källan säger både 'gummibollen' och 'Material: Vinyl'; texten följer specifikationsraden (godtas)."
+ },
+ {
+  "nr": 10512,
+  "id": "10430372151562",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "yoga och stretching och för att sitta på vid ett skrivbord, och",
+    "efter": "yoga och stretching, och"
+   },
+   "titel": {
+    "fore": "55 cm, Anti-Burst, Mint",
+    "efter": "55 cm, Mint"
+   }
+  },
+  "skal": "Lastkapacitet 220 kg är en svensk rad med etikett: en gång 'enligt tillverkaren' (R4). 'Anti-Burst' är ett oförklarat säkerhetslöfte (jfr 'sprängsäker' i R4, R5) och stryks ur titeln, som på redan skrivna Gymball-syskon. Källan säger 'kanske till och med för att sitta vid ett skrivbord'; skrivbordet stryks eftersom det inte är entydigt."
+ },
+ {
+  "nr": 10514,
+  "id": "10472263876874",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Produktvikt: 281 kg' är uppenbart fel och rätt utelämnad. Halkskyddsbeläggning ordagrant, 'enligt tillverkaren'. 3 m/300 cm är samma uppgift."
+ },
+ {
+  "nr": 10515,
+  "id": "10472281735434",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Diameter 100 cm, 1,2 kg, syntetiskt ordagrant; 'lätt att förvara' 'enligt tillverkaren'. Massage, mage/skinkor, 'hög kvalitet' och märkeshistorik borta. Typord Hula Hoop ur live-titeln."
+ },
+ {
+  "nr": 10516,
+  "id": "10472214724874",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Som 10515 (1,5 kg ur egen källa)."
+ },
+ {
+  "nr": 10517,
+  "id": "10472349630730",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Som 10515 (1,8 kg ur egen källa)."
+ },
+ {
+  "nr": 10518,
+  "id": "10472268038410",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live-titeln säger 'Hula ring'. Hula Hoop stöds av taggen och av källans 'hula hooping'; godtas, men det är ett R7-gränsfall (fråga till David). 24 länkar, vikt och viktkabel ordagrant. 'Justerbar hantel', massagenoder, cirkulation, kalorier och träningseffekt borta."
+ },
+ {
+  "nr": 10519,
+  "id": "10474037838090",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "De motsägande vikterna (400 g och 2 kg) är rätt utelämnade. Omkrets och mått ordagrant; 'Stor' och vikter ur titeln. Simning/promenad-jämförelsen och 'tonad mage' borta."
+ },
+ {
+  "nr": 10521,
+  "id": "10475386503434",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Lämplig för dörrkarmar: 1–16 cm, bredd 70–78 cm</li>",
+     "efter": "<li>Lämplig för dörrkarmar: Bredd 70–78 cm</li>"
+    },
+    {
+     "fore": "<li>Maxvikt: 100 kg (enligt tillverkaren)</li>\n",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "'Maxvikt 100 kg' saknar uppgift om vad det gäller (användarvikt eller last). Den står i en maskinöversatt källa ('skivstång', 'bänkträningsredskap', 'porolon') för en produkt som bär kroppsvikt i en dörrkarm. Därför utelämnas raden (R4: maskinöversatt/oklar → utelämna; gissa aldrig). 'Dörrkarmar 1-16 cm' är trasigt; bara den entydiga delen (bredd 70–78 cm) står kvar (R2). Märkeshistorik borta. Beställningsmeningen finns (taggen På beställning)."
+ },
+ {
+  "nr": 10522,
+  "id": "10472261681418",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "15 m, 13 kg och skydd ordagrant; 'Skydd: 38 mm diameter' är oklart och rätt utelämnat. 'Styrke- och uthållighetsträning' 'enligt tillverkaren'. Skonsam för lederna, 'stärker' och märkeshistorik borta. Två fakta utöver titeln (13 kg, användning)."
+ },
+ {
+  "nr": 10523,
+  "id": "10470943424778",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Slamboll Tunturi",
+    "efter": "Stoppad Boll Tunturi"
+   },
+   "seo_title": {
+    "fore": "Slamboll Tunturi",
+    "efter": "Stoppad Boll Tunturi"
+   },
+   "html": {
+    "fore": "en slamboll på 20 kg",
+    "efter": "en stoppad boll på 20 kg"
+   }
+  },
+  "skal": "'Slamboll' står varken i live-titeln eller i källtexten (R7: hitta inte på). Live-titelns svenska typord 'Stoppad boll' behålls (versaler enligt titel_versaler). Data ordagrant; järnbas/järnfiber (motsägelse) rätt utelämnat; golvskydd borta."
+ },
+ {
+  "nr": 10524,
+  "id": "10472277508362",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "för förvaring på trånga utrymmen",
+     "efter": "för förvaring i trånga utrymmen"
+    },
+    {
+     "fore": "<li>Mått: 140 x 60 x 1,5 cm</li>\n",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "'Badkarshöjd' är rätt utelämnad. 'Mått: 140 x 60 x 1,5 cm' går inte ihop med hopfällt 40 x 75 x 10 cm eller med en trampolin (oklart vad som mäts) och stryks (R2). 'På trånga utrymmen' blir 'i'. Garanterade resultat och skaderisk borta. Typordet Trampolin är svensk form av källans 'fitnesstranpolinen'."
+ },
+ {
+  "nr": 10527,
+  "id": "10430370775306",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "yoga och stretching och för att sitta på vid ett skrivbord, och",
+    "efter": "yoga och stretching, och"
+   },
+   "titel": {
+    "fore": "55 cm, Anti-Burst, Petrol",
+    "efter": "55 cm, Petrol"
+   }
+  },
+  "skal": "Som 10512: Bärförmåga 220 kg en gång (R4); Anti-Burst och skrivbordet stryks. 'Petrol' i SEO-titeln behövs, eftersom 'Träningsboll Tunturi Gymball 55 cm' redan är live SEO-titel på 10461962764554 (Svart). Färgen är låst med rätta (en variant)."
+ },
+ {
+  "nr": 10528,
+  "id": "10472265023754",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "65 cm, Anti-Burst, Mint",
+    "efter": "65 cm, Mint"
+   },
+   "seo_title": {
+    "fore": "Gymball 65 cm",
+    "efter": "Gymball 65 cm Mint"
+   }
+  },
+  "skal": "'Brottsäker då den tål upp till 220 kg' är rätt utelämnat (R4: löptext utan etikett). Anti-Burst stryks ur titeln. SEO-titeln 'Träningsboll Tunturi Gymball 65 cm' krockar med live SEO-titeln på 10588447342858 (Roséguld); den krocken missade skriptet, så 'Mint' läggs till. Vinyl, handpump och storlek 166–178 cm ordagrant."
+ },
+ {
+  "nr": 10529,
+  "id": "10472208236810",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typord Träningsboll ur live-titeln och källtexten (R7). Data ordagrant; stress, stärka och golvskydd borta. Beställningsmeningen finns."
+ },
+ {
+  "nr": 10530,
+  "id": "10472261320970",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Mått, trä/EVA, tre höjder och övningar ordagrant. Den motsägande 'större storleken 40 x 50 x 60' och den oklara färgen är rätt utelämnade. 'Säkert träningspass', blåmärken och märkestext borta. Beställningsmeningen ersätter källans egen rad."
+ }
+]
