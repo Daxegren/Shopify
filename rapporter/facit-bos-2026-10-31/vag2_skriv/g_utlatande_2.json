@@ -1,0 +1,324 @@
+[
+ {
+  "nr": 10413,
+  "id": "10472288551178",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Mått 119,5 x 205,8 x 213 cm, 220 kg, sits- och ryggstödsmått, flätade stålkablar med polyuretan och 5 paket står ordagrant. 'Maximal vikt: 90 kg' och 'Maximal driftsvikt: 150 kg' är borta ur alla fält. Säkert, tyst och Italien är borta. 'Designad för intensiv träning' står som 'enligt tillverkaren'. Power station → Powerstation som i g_1. Meta 128 tecken godtas (§17). Beställningsmeningen är rätt."
+ },
+ {
+  "nr": 10414,
+  "id": "10472288583946",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Mått, 195 kg, sits- och ryggstödsmått, ryggstöd i 3 steg, vajersystem och kullager och 6 paket står ordagrant. 'Maximal driftsvikt: 135 kg' är borta. Högkvalitativt, hållbart, säkert och Italien är borta. 'Smidig tack vare kullagren' står som 'enligt tillverkaren'. Beställningsmeningen är rätt."
+ },
+ {
+  "nr": 10417,
+  "id": "10494913347850",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Half Rack Tunturi HR60",
+    "efter": "Halvställ Tunturi HR60 Half Rack"
+   },
+   "seo_title": {
+    "fore": "Half Rack Tunturi HR60",
+    "efter": "Halvställ Tunturi HR60 Half Rack"
+   },
+   "meta": {
+    "fore": "är ett half rack med",
+    "efter": "är ett halvställ med"
+   },
+   "html": [
+    {
+     "fore": "är ett half rack med justerbara",
+     "efter": "är ett halvställ med justerbara"
+    },
+    {
+     "fore": "söker ett half rack med 18",
+     "efter": "söker ett halvställ med 18"
+    },
+    {
+     "fore": "plats för ett half rack på",
+     "efter": "plats för ett halvställ på"
+    }
+   ]
+  },
+  "skal": "Data rätt: 18 höjder, mått, 72 kg, 50 mm, 2 x J-hooks och 2 x säkerhetskrokar (källans delnamn) och chinsstången. 'Lastkapacitet: 300 kg' står ordagrant på svenska i egen källa och återges en gång 'enligt tillverkaren', inte i titel eller meta (alt A). Rättning: det engelska typordet 'Half Rack' står först (§3), men källan har det svenska ordet 'halvstället'. Typordet blir Halvställ och modellnamnet står kvar, som Rack-mönstret i h_1 och f_15."
+ },
+ {
+  "nr": 10419,
+  "id": "10494881399050",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Mått, 35,6 kg, 3 nivåer, metallställ och kompatibla serier står ordagrant. 'Lastkapacitet: 400 kg' står ordagrant på svenska och återges en gång 'enligt tillverkaren' (alt A). Professionellt och hållbart är borta. Pakethållartaggen används inte."
+ },
+ {
+  "nr": 10422,
+  "id": "10472304214282",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live-titeln börjar med det estniska 'Jõujaam'. Träningsmaskin stöds av källans 'maskin'/'träningsenhet' och av taggen träningsmaskin. Smith-maskin med dubbelblocksystem, 2 x 100 kg (viktblock, ingen lastgräns), 16 blockpositioner, 2,5 mm, mått och 464 kg står ordagrant. Säker, hållbar och oumbärlig är borta. Produkten har taggen 'På beställning' (men källtexten saknar ⏳-raden), så meningen är rätt."
+ },
+ {
+  "nr": 10428,
+  "id": "10472221901066",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Enligt tillverkaren ingår Tunturis träningsapp utan kostnad.",
+    "efter": "Enligt tillverkaren ingår Tunturis träningsapp."
+   }
+  },
+  "skal": "Viktblock 60 kg och tolv vikter på 5 kg, dubbel bröstpress/fjärilsrörelse, bicepsgrepp/armstöd och fotträningsanordning står ordagrant. Träningseffekt är borta. Rättning: 'utan kostnad' är en prisuppgift (§2.8), så bara att appen ingår står kvar 'enligt tillverkaren'. Mått och vikt saknas i källan och är inte påhittade."
+ },
+ {
+  "nr": 10430,
+  "id": "10673174741258",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Mått, 115 kg, 50 mm, lås, smith-stång och knäböjsställ står ordagrant. 'Maximal belastning: 300 kg' står ordagrant på svenska och återges en gång 'enligt tillverkaren' (alt A). Det dubbla 'J-hooks' och den oklara raden 'sele/jig' är utelämnade, vilket är rätt. Stabil, säker och idealisk är borta."
+ },
+ {
+  "nr": 10434,
+  "id": "10472330068234",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Squat Stand Tunturi SS60",
+    "efter": "Skivstångsställning Tunturi SS60 Squat Stand"
+   },
+   "seo_title": {
+    "fore": "Squat Stand Tunturi SS60",
+    "efter": "Skivstångsställning Tunturi SS60"
+   },
+   "meta": {
+    "fore": "är en justerbar squat stand med",
+    "efter": "är en justerbar skivstångsställning med"
+   },
+   "html": [
+    {
+     "fore": "är en justerbar squat stand som väger",
+     "efter": "är en justerbar skivstångsställning som väger"
+    },
+    {
+     "fore": "söker en justerbar squat stand med",
+     "efter": "söker en justerbar skivstångsställning med"
+    }
+   ]
+  },
+  "skal": "Källan är på engelska. 'Load capacity 200 kg' och 'up to 100 kg' är borta ur alla fält (alt A). Det oklara '25, 30 och 50 mm' är utelämnat. 36,3 kg, 2 J-hooks, 2 safety supports och 2 disc adapters samt 'home and professional use' ('enligt tillverkaren') är korrekt översatta. 'Säkerhetsstöd' är delens namn och inget löfte. Säkerhetssele och 'safely' är borta. Tunn produkt, inte utfylld. Rättning: det engelska typordet 'Squat Stand' (§3, som Squat Rack → knäböjsställ i h_2) blir Skivstångsställning. Ordet står i källan ('barbell stand') och i taggen Skivstångsställning."
+ },
+ {
+  "nr": 10436,
+  "id": "10472289141002",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Monkey Bar till Tunturi RC20 Pro Power Rack",
+    "efter": "Träningsstege Tunturi Monkey Bar till RC20 Pro Power Rack"
+   },
+   "seo_title": {
+    "fore": "Monkey Bar till Tunturi RC20 Pro Power Rack",
+    "efter": "Träningsstege Tunturi Monkey Bar till RC20"
+   },
+   "meta": {
+    "fore": "Tunturi Monkey Bar fästs på Tunturi RC20 med fyra skruvar. Finns hos BEST OF SPORTS.",
+    "efter": "Tunturi Monkey Bar är en träningsstege som fästs på Tunturi RC20 med fyra skruvar."
+   },
+   "html": [
+    {
+     "fore": "<p>Tunturi Monkey Bar fästs på Tunturi RC20 med fyra skruvar.</p>",
+     "efter": "<p>Tunturi Monkey Bar är en träningsstege som fästs på Tunturi RC20 med fyra skruvar.</p>"
+    },
+    {
+     "fore": "vill fästa en monkey bar med fyra skruvar",
+     "efter": "vill fästa en träningsstege med fyra skruvar"
+    }
+   ]
+  },
+  "skal": "Tunn källa: fyra skruvar och RC20. Det oklara 'OBS: produkten ingår i RC20' är utelämnat, vilket är rätt. Rättning: butikens svenska typord Träningsstege byttes mot det engelska 'Monkey Bar', som är produktens namn och inget typord (§3, och en agent får inte byta typ). Typordet Träningsstege återställs och Monkey Bar står kvar som namn. Meta blir 82 tecken utan 'Finns hos', eftersom den når 70 tecken utan utfyllnad."
+ },
+ {
+  "nr": 10438,
+  "id": "10494766186762",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "och stöd vid basen för armhävningsövningar.",
+     "efter": "och två stöd vid basen för armsträckningar."
+    },
+    {
+     "fore": "<li>Dig som vill ha stöd vid basen för armhävningsövningar</li>",
+     "efter": "<li>Dig som vill ha stöd vid basen för armsträckningar</li>"
+    },
+    {
+     "fore": "<li>Stöd vid basen: För armhävningsövningar</li>",
+     "efter": "<li>Stöd vid basen: Två, för armsträckningar</li>"
+    }
+   ]
+  },
+  "skal": "Live-titeln stavar 'Tuntur'. Utkastet skriver Tunturi (vendor och SKU), vilket är rätt. Live-titeln bör rättas efter beslut, och skrivningen gör det. 'Maximal användarvikt: 120 kg.' står ordagrant på svenska och återges en gång 'enligt tillverkaren' (alt A). Den oklara 'belastningskapaciteten per del (se bild)' är utelämnad. Rättning: källan säger att de två stöden vid basen är för armsträckningar. Armhävningsövningar görs med tillbehör (band, bälten), så 'stöd vid basen för armhävningsövningar' var en feltolkning."
+ },
+ {
+  "nr": 10439,
+  "id": "10598559875338",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typordet Benspark kommer från live-titeln. 120 kg viktmagasin (5 kg x 24), 2,5 mm, mått, 218 kg, ryggstöd och fotrulle står ordagrant. 'Maximal användarvikt: 200 kg' står ordagrant på svenska och återges en gång 'enligt tillverkaren' (alt A). 'Utformad för träning av lårmusklerna' står som 'enligt tillverkaren', utan effektiv och säker. Jõujaam används inte."
+ },
+ {
+  "nr": 10440,
+  "id": "10598560203018",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typordet Latsdrag kommer från live-titeln. Brett grepp, viktskivor, 50 mm, mått och 143 kg står ordagrant. 'Maximal användarvikt: 200 kg' står ordagrant på svenska och återges en gång 'enligt tillverkaren' (alt A). Muskelutveckling och 'ideala valet' är borta."
+ },
+ {
+  "nr": 10441,
+  "id": "10472304181514",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live-titeln har inget typord. Träningsmaskin följer taggen och källans 'enhet'/'styrketräningsutrustning'. 100 kg viktskiva (viktkapacitet, ingen lastgräns), 2,5 mm, mått och 256 kg står ordagrant. 'Maximal driftsvikt: 200 kg' är borta ur alla fält. Muskelutveckling, nybörjare och 'utmärkt stöd' är borta. SEO-titeln saknar märke, men det godtas eftersom typord och modell ryms."
+ },
+ {
+  "nr": 10442,
+  "id": "10472304607498",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Functional Trainer Tunturi Platinum Selectorized V-Series",
+    "efter": "Träningsmaskin Tunturi Platinum Functional Trainer V-Series"
+   },
+   "seo_title": {
+    "fore": "Functional Trainer Tunturi Platinum",
+    "efter": "Träningsmaskin Tunturi Functional Trainer"
+   },
+   "html": {
+    "fore": "söker en functional trainer med två",
+    "efter": "söker en träningsmaskin med två"
+   }
+  },
+  "skal": "Data rätt: 2 x 100 kg, 16 blockpositioner, 2,5 mm, mått och 380 kg. Stabilitetsträning, rehabiliteringscenter och 'perfekta valet' är borta. Rättning: 'Functional Trainer' som typord är engelska (§3). Taggen säger träningsmaskin och utkastets brödtext likaså (källtexten har inget svenskt typord), så typordet blir Träningsmaskin och modellnamnet står kvar. 'Selectorized' stryks för längden, som i 10441."
+ },
+ {
+  "nr": 10443,
+  "id": "10471183876362",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Lat Pulldown Tunturi Platinum Selectorized V-Series",
+    "efter": "Träningsmaskin Tunturi Platinum Lat Pulldown Selectorized V-Series"
+   },
+   "seo_title": {
+    "fore": "Lat Pulldown Tunturi Platinum V-Series",
+    "efter": "Träningsmaskin Tunturi Lat Pulldown"
+   },
+   "html": {
+    "fore": "söker en lat pulldown med vikttorn",
+    "efter": "söker en träningsmaskin med vikttorn"
+   }
+  },
+  "skal": "Data rätt: vikttorn 120 kg, justerbar sittposition, 2,5 mm, mått och 223 kg. 'Maximal driftsvikt: 200 kg' är borta. Stabilitet och precision är borta. Källans 'Latdown' är en felstavning, och utkastet följer titelns Lat Pulldown. Rättning: 'Lat Pulldown' som typord är engelska (§3). Källtexten säger 'denna maskin' och utkastets brödtext säger träningsmaskin, så typordet blir Träningsmaskin, som i 10422/10441/10442. Modellnamnet står kvar. Latsdrag används inte: ordet står bara hos syskonet 10440 (R1, R7)."
+ },
+ {
+  "nr": 10444,
+  "id": "10598560039178",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Enligt tillverkaren är den utformad för träning av bröst-, axel- och armmuskler.",
+    "efter": "Enligt tillverkaren passar den för träning av bröst-, axel- och armmuskler."
+   }
+  },
+  "skal": "Multipress kommer från live-titeln. Startpositioner, pressvinklar, 2,5 mm, 120 kg (5 kg x 24), mått och 244 kg står ordagrant. 'Maximal användarvikt: 200 kg' står ordagrant på svenska och återges en gång 'enligt tillverkaren' (alt A). Rättning: källan säger 'idealisk för' träning av bröst-, axel- och armmuskler och inte 'utformad för'. Ett felciterat tillverkarpåstående rättas till 'passar för' (utan superlativ)."
+ },
+ {
+  "nr": 10445,
+  "id": "10472330428682",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Lastkapacitet: 120 kg' står ordagrant på svenska och återges en gång 'enligt tillverkaren' (alt A). Justerbara handtag och PR60/HR60/SM70 står ordagrant. Triceps/bröst-effekt, 'kompakta' och 'robusta' är borta. Tunn produkt, inte utfylld. Typordet Dips-Handtag kommer från live-titeln, och formatet stämmer med format_regler."
+ },
+ {
+  "nr": 10446,
+  "id": "10472289501450",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Chinsgrepp är källans eget ord ('dessa chinsgrepp'). Typordet står först och Ball Pull-Up Grips står kvar som namn, vilket är rätt. 2 st, stål, 12,2 x 15 x 6 cm och 850 gram står ordagrant. Oklart per grepp eller set, och det påstås inte. Inledningen 'Grips är chinsgrepp' tillför stål, RC20 och 2 st, så den godtas som i h_1. Tunn produkt, inte utfylld."
+ },
+ {
+  "nr": 10471,
+  "id": "10472299069706",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Toorx träningsmatta på 120 x 80 cm med en tjocklek på 0,6 cm. Finns hos BEST OF SPORTS.",
+    "efter": "Toorx träningsmatta är 120 x 80 cm och 0,6 cm tjock. Finns hos BEST OF SPORTS."
+   }
+  },
+  "skal": "Tunn källa (bara titeln). Den tidigare texten (en mening, facit 2026-10-31) ersätts av en fullständig struktur. Faktameningen går bara att skriva på ett sätt och godtas. Inget är utfyllt. Ingen beställningstagg och ingen mening. Rättning: metans första mening saknade verb."
+ },
+ {
+  "nr": 10479,
+  "id": "10588451569930",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "2 mattor, PVC, 75 x 57 x 26 cm och 16 kg står ordagrant. 'Stötdämpande' och 'ljudreducerande' står en gång som 'enligt tillverkaren'. Skyddar golvet, vibrationer och 'avsevärt' är borta. Ingen beställningstagg och ingen mening, vilket är rätt."
+ },
+ {
+  "nr": 10487,
+  "id": "10472265154826",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Tunturi NBR är en träningsmatta i NBR-gummi på 180 x 60 cm och 15 mm tjocklek, med bärväska. Mattan finns även i andra färger.",
+    "efter": "Tunturi NBR-mattan är 15 mm tjock och 180 x 60 cm, gjord av NBR-gummi och levereras med bärväska. Den finns även i andra färger."
+   },
+   "html": {
+    "fore": "<p>Tunturi NBR är en träningsmatta i NBR-gummi (nitrilbutadiengummi), 15 mm tjock och 180 x 60 cm, för golvövningar, yoga, pilates och allmän träning. En bärväska medföljer.</p><h2>Passar för</h2><ul>\n<li>Yoga, pilates och allmän träning</li>\n<li>Golvövningar</li>\n<li>Dig som vill kunna bära med mattan (bärväska medföljer)</li>\n</ul>",
+    "efter": "<p>Tunturi NBR är en 15 mm tjock träningsmatta på 180 x 60 cm i NBR (nitrilbutadiengummi). Mattan levereras med bärväska och finns även i andra färger.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en 15 mm tjock matta för golvövningar</li>\n<li>Dig som tränar yoga, pilates eller allmän träning</li>\n<li>Dig som vill bära med mattan i en bärväska</li>\n</ul>"
+   }
+  },
+  "skal": "Fakta rätt mot leverantörskällan: NBR, 15 mm, 180 x 60 cm, bärväska, fler färger, och golvövningar ordagrant. Yoga/pilates/allmän träning kommer ur den oklara raden 'Nylon (NBR)' som i facit. Komfort, slitstark, dämpning och skydd är borta. Rättning: utkastet återanvände den tidigare skrivna live-texten nästan ordagrant (inledningen, hela Passar för-listan och metans uppbyggnad), trots att texten ska ersättas helt. Inledningen, Passar för och meta skrivs om med samma fakta. Specifikationen är en faktalista och står kvar."
+ },
+ {
+  "nr": 10488,
+  "id": "10462775771402",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Tunturi yogamatta på 8 mm i TPE för yoga, fitness och pilates. Mattan väger 950 g och levereras med bärväska. Finns i 7 färger, här roséguld.",
+    "efter": "Tunturi Yoga Mat är en 8 mm tjock yogamatta i TPE som väger 950 g och levereras med bärväska. Den finns i 7 färger, här roséguld."
+   },
+   "html": {
+    "fore": "<p>Tunturi Yoga Mat 8 mm är en extra tjock matta i TPE för yoga, fitness och pilates. Mattan väger 950 g och levereras med bärväska. Enligt tillverkaren är den halkfri.</p><h2>Passar för</h2><ul>\n<li>Yoga där du utför många poser liggande eller sittande, till exempel yin yoga, yoga nidra och meditation</li>\n<li>Fitness och pilates</li>\n<li>Dig som vill ha en tjockare matta än vanliga yogamattor (3–4 mm)</li>\n</ul>",
+    "efter": "<p>Tunturi Yoga Mat är en 8 mm tjock yogamatta i TPE, en kombination av gummi och plast, som väger 950 g. Den passar även för fitness och pilates och levereras med bärväska. Enligt tillverkaren är mattan halkfri.</p><h2>Passar för</h2><ul>\n<li>Dig som gör yoga med många poser liggande eller sittande, som yin yoga, yoga nidra och meditation</li>\n<li>Dig som tränar fitness eller pilates</li>\n<li>Dig som vill ha en matta som är tjockare än vanliga yogamattor på 3–4 mm</li>\n</ul>"
+   }
+  },
+  "skal": "Fakta rätt mot leverantörskällan: 8 mm, TPE (gummi och plast), 950 g, bärväska, 7 färger, roséguld, rengöring, yin yoga/yoga nidra/meditation, 3–4 mm, och halkfri som 'enligt tillverkaren'. FAQ, Om märket (1922), biologiskt nedbrytbar, bakterier och 'gratis app' är borta. Rättning: inledningen och Passar för-listan återanvände den tidigare live-texten ordagrant, och metans första mening saknade verb. Inledningen, Passar för och meta skrivs om."
+ },
+ {
+  "nr": 10477,
+  "id": "10462850449674",
+  "dom": "UNDERKÄND (avvisad, bekräftad)",
+  "rattningar": {},
+  "skal": "Avvisning bekräftad: akupressurmatta (hälso- och säkerhetsgrupp, underkänns enligt granskarprompten). Källan består nästan bara av hälsopåståenden (lindra spänningar, cirkulation, nervändar, återhämtning), och 'Mattans mått' anges två gånger med olika värden. Att skriva den i ren teknisk fakta kräver Davids beslut om gruppen."
+ },
+ {
+  "nr": 10478,
+  "id": "10472301920522",
+  "dom": "UNDERKÄND (avvisad, bekräftad)",
+  "rattningar": {},
+  "skal": "Avvisning bekräftad: akupressurmatta med samma hälsotext som 10477. Måtten är här entydiga (matta 70 x 45 x 2, kudde 40 x 45 x 2 cm, 2,4 kg). Kan skrivas i ren teknisk fakta bara om David släpper gruppen."
+ },
+ {
+  "nr": 10491,
+  "id": "10472324432138",
+  "dom": "UNDERKÄND (avvisad, bekräftad)",
+  "rattningar": {},
+  "skal": "Avvisning bekräftad: live-källan är bara 'Produkten passar för BH Fitness' med en länk till en cykeltrainer. Typen Step board är oklar och det finns inga mått, inget material och ingen användning."
+ }
+]

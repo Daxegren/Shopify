@@ -24,7 +24,7 @@ Regler: `shopify-sync/regler/regler-v1.md`. Beslut: `shopify-sync/docs/BESLUTSLO
 | f_15 | 25 | 25 | 0 | 4/20/1 | 24 | skriven |
 | f_x1 | 7 | 7 | 0 | 4/3/0 | 7 | skriven |
 | g_1 | 25 | 23 | 2 | 15/7/1 | 22 | skriven |
-| g_2 | 25 | 22 | 3 |  |  | utkast |
+| g_2 | 25 | 22 | 3 | 11/11/3 | 22 | skrivfil |
 | g_3 | 25 |  | 0 |  |  | in |
 | g_4 | 12 |  | 0 |  |  | in |
 | h_1 | 25 | 25 | 0 | 20/5/0 | 25 | skriven |
