@@ -1,0 +1,52 @@
+[
+ {
+  "id": "10468705665290",
+  "nr": 9102,
+  "skäl": "R3: varianterna M / black (9 129 kr) och L, XL, S / black (7 939 kr) har olika pris (1 190 kr skillnad) för samma modell och färg. Ser ut som felprissättning eller olika utförande; texten kan inte låsa färg eller ramstorlek. Källan är i övrigt som 9101, 9103 och 9104. David avgör efter kontroll av priset."
+ },
+ {
+  "id": "10472237433098",
+  "nr": 9105,
+  "skäl": "Barncykel (flickcykel för 4–6 år, 16 tum): barnprodukt, utanfor_tills_vidare (R6)."
+ },
+ {
+  "id": "10676714111242",
+  "nr": 9106,
+  "skäl": "R3, tunn källa och motsägelse: källan säger bara \"Kapellställning för modellerna Flex Nova och Delight Nova\" och \"Tillverkad av Cargobike of Sweden\" (ett faktum utöver titeln), medan titeln säger \"Flex/Delight Nova Premium\"; \"Premium\" står inte i källan."
+ },
+ {
+  "id": "10656690274570",
+  "nr": 9108,
+  "skäl": "R3, tunn källa och trasigt pris: källan säger bara \"Passar modellerna Cargobike of Sweden Flex och Delight\" (typ och kompatibilitet, inga mått eller material), och varianten kostar 9,00 kr (SKU 1521-30), vilket uppenbart är fel. Titeln anger \"med ryggstöd\" utan stöd i källan."
+ },
+ {
+  "id": "10503204208906",
+  "nr": 9110,
+  "skäl": "Balanscykel för barn (12 tum, ramstorlek för förare ca 90–110 cm): barnprodukt, utanfor_tills_vidare (R6)."
+ },
+ {
+  "id": "10472308179210",
+  "nr": 9111,
+  "skäl": "Rullskridskor (Fila Legacy QF Lady): rullskridskor är utanfor_tills_vidare (R6); källan är dessutom bara engelsk. Butikens taggar (Damcykel, Fido) är felaktiga och rörs inte."
+ },
+ {
+  "id": "10488246632714",
+  "nr": 9115,
+  "skäl": "R3: titeln anger färg Svart och källan anger ramstorlek L, men produkten har två varianter med mycket olika pris: Default Title 12 469 kr (SKU 2206041185) och L / black 5 229 kr (SKU 2206041187). Variantdatat är trasigt och texten kan inte låsa något; David avgör vilken variant som är rätt."
+ },
+ {
+  "id": "10656690536714",
+  "nr": 9117,
+  "skäl": "Dubblett (R12a): samma modell och färg som 7167 (10656690471178, \"Mountainbike Giant Talon 29 0, 29 tum, Plasma Coral\", redan skriven med texter-klara). Samma SKU 1095016285/1095016284, samma pris 19 629 kr och samma källtext. David avgör om det är samma produkt."
+ },
+ {
+  "id": "10523487240458",
+  "nr": 9119,
+  "skäl": "Trolig dubblett (R12a) av 6035 (10502528336138, \"Mountainbike Giant XTC SLR 29 1, 29 tum, Svart\", redan skriven med texter-klara): samma modell, samma färg (Abyss Black = svart), samma pris 28 509 kr, SKU i samma serie (1119019188 mot 1119019185). Källtexten är i stort sett identisk. David avgör om det är samma produkt."
+ },
+ {
+  "id": "10676720501002",
+  "nr": 9120,
+  "skäl": "R3: titeln säger XTC SLR 29 1 (2027), men källtexten säger \"Giant XTC SLR 29 2\" och komponenterna (Shimano Deore M6200, Tektro Orion, Giant Crest XC Comp) hör till 29 2 i stället för 29 1 (SLX, BR-MT500, Crest 34 RRL). Källan stämmer inte med titeln: modellen går inte att fastställa. Leverantören bör bekräfta modell."
+ }
+]
