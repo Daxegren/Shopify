@@ -1,0 +1,418 @@
+[
+ {
+  "nr": 10026,
+  "id": "10565561745674",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": [
+    {
+     "fore": "3,5 HP motor",
+     "efter": "3,5 hk motor"
+    }
+   ],
+   "html": [
+    {
+     "fore": "3,5 HP motor",
+     "efter": "3,5 hk motor"
+    },
+    {
+     "fore": "<li>Motor: 3,5 HP</li>",
+     "efter": "<li>Motor: 3,5 hk</li>"
+    }
+   ]
+  },
+  "skal": "Alla uppgifter stämmer mot live (12 lutningsvinklar i källan ger 12 nivåer). HP/HK skrivs hk (enhet med liten bokstav, samma enhet i hela batchen)."
+ },
+ {
+  "nr": 10027,
+  "id": "10472305033482",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live. Det trasiga måttet 195 x 51 x 155 cm är utelämnat; Netflix/Spotify utelämnade. Hk, 12 % och 10-tums pekskärm enligt källan."
+ },
+ {
+  "nr": 10028,
+  "id": "10472261714186",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "och lutningen har 15 nivåer.",
+     "efter": "och lutningen är elektroniskt justerbar."
+    },
+    {
+     "fore": "<li>Lutning: 15 nivåer, elektroniskt justerbar</li>",
+     "efter": "<li>Lutning: 15, elektroniskt justerbar</li>"
+    }
+   ]
+  },
+  "skal": "Källan anger bara talet (\"Lutning: 15 (elektroniskt justerbar)\") utan enhet eller ordet nivåer; \"nivåer\" är en gissning (jfr 10043 där samma uppgift är 15 %). Talet återges som i källan."
+ },
+ {
+  "nr": 10029,
+  "id": "10472306737418",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live (LED, 2,5 hk, 1–15 km/h, 121 x 46 cm, 10 %, 155 x 76 x 123 cm, 50 kg, 110 kg). \"Kompakt\" har stöd i källan."
+ },
+ {
+  "nr": 10030,
+  "id": "10472306475274",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "2,75 HK motor",
+     "efter": "2,75 hk motor"
+    },
+    {
+     "fore": "<li>Motor: 2,75 HK</li>",
+     "efter": "<li>Motor: 2,75 hk</li>"
+    }
+   ]
+  },
+  "skal": "Stämmer mot live; 12 lutningsvinklar står i källan. HP/HK skrivs hk (enhet med liten bokstav, samma enhet i hela batchen)."
+ },
+ {
+  "nr": 10031,
+  "id": "10472306671882",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live. Motsägande \"(0,8 - 14 mph)\" är rätt utelämnat; vikbar enligt källan."
+ },
+ {
+  "nr": 10032,
+  "id": "10472298447114",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn källa (ingen teknisk data); utkastet säger bara löpband, TFT-skärm och olika program, vilket står i källan. Kort meta enligt §14/§17 (suffixet har använts så tidigare, t.ex. b_skriv_10/12/14)."
+ },
+ {
+  "nr": 10033,
+  "id": "10472264630538",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "och lutningen har 12 nivåer.",
+     "efter": "och lutningen är elektroniskt justerbar."
+    },
+    {
+     "fore": "<li>Lutning: 12 nivåer, elektroniskt justerbar</li>",
+     "efter": "<li>Lutning: 12, elektroniskt justerbar</li>"
+    }
+   ]
+  },
+  "skal": "Källan anger bara talet (\"Lutning: 12 (elektroniskt justerbar)\") utan enhet eller ordet nivåer; \"nivåer\" är en gissning (jfr 10043 där samma uppgift är 15 %). Talet återges som i källan."
+ },
+ {
+  "nr": 10034,
+  "id": "10472334262538",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Källan är på engelska (\"Maximum operating weight: 150 kg\" översatt till \"Maximal användarvikt\", inte ordagrant), skärmraden är dubblerad (\"LED/LCD\" två gånger) och titeln live innehåller \"NorsK\" som utkastet strukit utan att veta vad det betyder (kan vara en norsk version). Samma bedömning som Hammer-produkten med \"operating weight\" i granskningen vag2_a_2. Kan skrivas om David bekräftar \"NorsK\" och att operating weight = användarvikt."
+ },
+ {
+  "nr": 10035,
+  "id": "10472298676490",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Stämmer mot live (Lutningsnivåer: 12 står i källan). Testvinnartiteln ETM och marknadsföring rätt utelämnade."
+ },
+ {
+  "nr": 10036,
+  "id": "10472298938634",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "och lutningen har 12 nivåer.",
+     "efter": "och lutningen är elektroniskt justerbar."
+    },
+    {
+     "fore": "<li>Lutning: 12 nivåer, elektroniskt justerbar</li>",
+     "efter": "<li>Lutning: 12, elektroniskt justerbar</li>"
+    }
+   ]
+  },
+  "skal": "Källan anger bara talet (\"Lutning: 12 (elektroniskt justerbar)\") utan enhet eller ordet nivåer; \"nivåer\" är en gissning (jfr 10043 där samma uppgift är 15 %). Talet återges som i källan. Övrigt stämmer (flaskhållare, förvaring vertikalt/horisontellt utan skruvar enligt tillverkaren, hopfälld 160 x 77 x 30 cm)."
+ },
+ {
+  "nr": 10037,
+  "id": "10472289042698",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": [
+    {
+     "fore": "Walking Pad Hammer Walk 2.0",
+     "efter": "Löpband Hammer Walk 2.0"
+    }
+   ],
+   "seo_title": [
+    {
+     "fore": "Walking Pad Hammer Walk 2.0",
+     "efter": "Löpband Hammer Walk 2.0"
+    }
+   ],
+   "meta": [
+    {
+     "fore": "är ett kompakt walking pad med",
+     "efter": "är ett kompakt löpband (walking pad) med"
+    }
+   ],
+   "html": [
+    {
+     "fore": "är ett kompakt walking pad med LED-skärm",
+     "efter": "är ett kompakt löpband (walking pad) med LED-skärm"
+    },
+    {
+     "fore": "<li>Dig som vill ha ett kompakt walking pad med hastighet",
+     "efter": "<li>Dig som vill ha ett kompakt löpband med hastighet"
+    },
+    {
+     "fore": "<li>Dig som vill ha ett walking pad med transporthjul</li>",
+     "efter": "<li>Dig som vill ha ett löpband med transporthjul</li>"
+    },
+    {
+     "fore": "<li>Typ: Walking pad, löpband</li>",
+     "efter": "<li>Typ: Löpband (walking pad)</li>"
+    },
+    {
+     "fore": "<li>Mått: 128 x 58 x 16 cm</li>\n",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "\"Walking Pad\" är ett engelskt typord i titel och SEO-titel; källan kallar produkten löpband (svensk text, tagg Löpband), så typordet blir Löpband och walking pad står inom parentes i texten. Måttet är motsägande i källan (130 x 60 x 16 cm i texten, 128 x 58 x 16 cm i listan) och ska inte skrivas vidare (§2.5); raden stryks. Lutningen (trasig rad) är rätt utelämnad. Titeln \"Löpband Hammer Walk 2.0\" är unik i alla utkast och skrivfiler."
+ },
+ {
+  "nr": 10038,
+  "id": "10515747668234",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": [
+    {
+     "fore": "1,75 HP motor",
+     "efter": "1,75 hk motor"
+    }
+   ],
+   "html": [
+    {
+     "fore": "1,75 HP motor",
+     "efter": "1,75 hk motor"
+    },
+    {
+     "fore": "<li>Motor: 1,75 HP</li>",
+     "efter": "<li>Motor: 1,75 hk</li>"
+    }
+   ]
+  },
+  "skal": "Stämmer mot live (färgen bara i titeln, ingen variant). HP/HK skrivs hk (enhet med liten bokstav, samma enhet i hela batchen)."
+ },
+ {
+  "nr": 10039,
+  "id": "10624083296522",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": [
+    {
+     "fore": "1,75 HP motor",
+     "efter": "1,75 hk motor"
+    }
+   ],
+   "html": [
+    {
+     "fore": "1,75 HP motor",
+     "efter": "1,75 hk motor"
+    },
+    {
+     "fore": "<li>Motor: 1,75 HP</li>",
+     "efter": "<li>Motor: 1,75 hk</li>"
+    }
+   ]
+  },
+  "skal": "Stämmer mot live (färgen bara i titeln, ingen variant). HP/HK skrivs hk (enhet med liten bokstav, samma enhet i hela batchen)."
+ },
+ {
+  "nr": 10040,
+  "id": "10472278458634",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": [
+    {
+     "fore": "4 HP motor",
+     "efter": "4 hk motor"
+    }
+   ],
+   "html": [
+    {
+     "fore": "4 HP motor",
+     "efter": "4 hk motor"
+    },
+    {
+     "fore": "<li>Motor: 4 HP</li>",
+     "efter": "<li>Motor: 4 hk</li>"
+    }
+   ]
+  },
+  "skal": "Stämmer mot live (löp- och klättringsläge, −2 till +15/+40 %, 145 x 46 cm, 120 kg). HP/HK skrivs hk (enhet med liten bokstav, samma enhet i hela batchen)."
+ },
+ {
+  "nr": 10041,
+  "id": "10411839914250",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tunn källa; bara hopfällbart och konditionsträning hemma, vilket står i källan. Stötdämpning rätt utelämnad. Öppen fråga: \"Evertift\" är troligen felstavning av Everfit (TFK-155 Slim är en Everfit-modell); namnet behålls som i källan tills David beslutat."
+ },
+ {
+  "nr": 10042,
+  "id": "10598555549962",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": [
+    {
+     "fore": "4,5 HP motor",
+     "efter": "4,5 hk motor"
+    }
+   ],
+   "html": [
+    {
+     "fore": "4,5 HP motor",
+     "efter": "4,5 hk motor"
+    },
+    {
+     "fore": "<li>Motor: 4,5 HP</li>",
+     "efter": "<li>Motor: 4,5 hk</li>"
+    },
+    {
+     "fore": "<li>Lutning: 15 nivåer, elektroniskt justerbar</li>",
+     "efter": "<li>Lutning: 15, elektroniskt justerbar</li>"
+    }
+   ]
+  },
+  "skal": "Källan anger bara talet (\"Lutning: 15 (elektroniskt justerbar)\") utan enhet eller ordet nivåer; \"nivåer\" är en gissning (jfr 10043 där samma uppgift är 15 %). Talet återges som i källan. HP/HK skrivs hk (enhet med liten bokstav, samma enhet i hela batchen)."
+ },
+ {
+  "nr": 10043,
+  "id": "10476097601802",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Lutning: 15 nivåer, elektroniskt justerbar</li>",
+     "efter": "<li>Lutning: 15 %, elektroniskt justerbar</li>"
+    }
+   ]
+  },
+  "skal": "Källans text anger \"15% lutning\", så lutningen är 15 %, inte 15 nivåer (sakfel)."
+ },
+ {
+  "nr": 10044,
+  "id": "10472300118282",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Källan är på engelska och produkten beskrivs som avsedd för rehabilitering, äldre och personer som återhämtar sig, med säkerhetspåståenden (säkra handtag, stabilitet). Maxvikten är \"Maximum operating weight: 110 kg\" översatt till användarvikt, inte ordagrant. Dessutom har den handtag och mått 163,5 x 70 x 131,5 cm, så \"walking pad\" som svenskt typord är oklart. Ska tas för hand."
+ },
+ {
+  "nr": 10046,
+  "id": "10523460337930",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "5 HP DC-motor",
+     "efter": "5 hk DC-motor"
+    },
+    {
+     "fore": "<li>Motor: 5 HP DC</li>",
+     "efter": "<li>Motor: 5 hk DC</li>"
+    },
+    {
+     "fore": "och lutningen har 15 nivåer.",
+     "efter": "och lutningen är elektroniskt justerbar."
+    },
+    {
+     "fore": "<li>Lutning: 15 nivåer, elektroniskt justerbar</li>",
+     "efter": "<li>Lutning: 15, elektroniskt justerbar</li>"
+    }
+   ]
+  },
+  "skal": "Källan anger bara talet (\"Lutning: 15 (elektroniskt justerbar)\") utan enhet eller ordet nivåer; \"nivåer\" är en gissning (jfr 10043 där samma uppgift är 15 %). Talet återges som i källan. HP/HK skrivs hk (enhet med liten bokstav, samma enhet i hela batchen). \"Rehabilitera\" i källan rätt utelämnat."
+ },
+ {
+  "nr": 10047,
+  "id": "10494733123850",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "och lutningen har 20 nivåer.",
+     "efter": "och lutningen är elektroniskt justerbar."
+    },
+    {
+     "fore": "<li>Dig som vill ha lutning med 20 nivåer, elektroniskt justerbar</li>",
+     "efter": "<li>Dig som vill ha elektroniskt justerbar lutning</li>"
+    },
+    {
+     "fore": "<li>Lutning: 20 nivåer, elektroniskt justerbar</li>",
+     "efter": "<li>Lutning: 20, elektroniskt justerbar</li>"
+    }
+   ]
+  },
+  "skal": "Källan anger bara talet (\"Lutning: 20 (elektroniskt justerbar)\") utan enhet eller ordet nivåer; \"nivåer\" är en gissning (jfr 10043 där samma uppgift är 15 %). Talet återges som i källan."
+ },
+ {
+  "nr": 10048,
+  "id": "10561324220682",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "3.0 HP motor",
+     "efter": "3,0 hk motor"
+    },
+    {
+     "fore": "<li>Motor: 3.0 HP</li>",
+     "efter": "<li>Motor: 3,0 hk</li>"
+    }
+   ]
+  },
+  "skal": "Modellnamnet: källtexten säger \"Platinum T30 Core\", titeln \"Platinum Core\"; utkastet använder titelns namn utan att gissa T30 (godtagbart, frågan står i att_bekrafta). De trasiga raderna (hastighet \"0.1-2.5 eller 0.5-20 km/h\", \"(5.5 - 5.5 km/h)\") är borta; \"15 nivåer\" står uttryckligen i källan. Rättning: decimalkomma och hk."
+ },
+ {
+  "nr": 10049,
+  "id": "10494829199626",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "Lutningen har 15 nivåer, elektroniskt justerbar.",
+     "efter": "Lutningen är elektroniskt justerbar."
+    },
+    {
+     "fore": "<li>Lutning: 15 nivåer, elektroniskt justerbar</li>",
+     "efter": "<li>Lutning: 15, elektroniskt justerbar</li>"
+    }
+   ]
+  },
+  "skal": "Modellnamnet: källtexten säger \"Platinum T20\", titeln och SKU 22PTTR2000 \"TR20\"; utkastet använder titelns namn utan gissning (godtagbart). Källan anger bara talet (\"Lutning: 15 (elektroniskt justerbar)\") utan enhet eller ordet nivåer; \"nivåer\" är en gissning (jfr 10043 där samma uppgift är 15 %). Talet återges som i källan."
+ },
+ {
+  "nr": 10050,
+  "id": "10472245395722",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "motor på 3,5 HK",
+     "efter": "motor på 3,5 hk"
+    },
+    {
+     "fore": "<li>Motor: 3,5 HK</li>",
+     "efter": "<li>Motor: 3,5 hk</li>"
+    }
+   ]
+  },
+  "skal": "Modellnamnet: källtexten och handtaget säger \"Competence T20\", titeln \"Signature T20 + Tuntur app\"; utkastet använder titelns namn utan app och skriver lutningen bara som \"12\" (godtagbart, frågan står i att_bekrafta). Taggen Gymstick rörs inte. HP/HK skrivs hk (enhet med liten bokstav, samma enhet i hela batchen)."
+ }
+]

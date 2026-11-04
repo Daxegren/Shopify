@@ -1,0 +1,209 @@
+[
+ {
+  "nr": 10001,
+  "id": "10656691945738",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Reglage: Easy Toolbar i det främre handstödet för hastighet, lutning och puls</li>",
+    "efter": "<li>Reglage: Easy Toolbar i det främre handstödet för hastighet och lutning samt pulsövervakning</li>"
+   }
+  },
+  "skal": "Reglage-raden säger att Easy Toolbar styr puls; källan: justera hastighet och lutning samt övervaka puls."
+ },
+ {
+  "nr": 10002,
+  "id": "10656692470026",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Dig som vill ha pulssensorer, snabbjusteringsknappar och nödstoppsknapp på löpbandet</li>",
+    "efter": "<li>Dig som vill ha pulssensorer och snabbjusteringsknappar för hastighet och lutning</li>"
+   }
+  },
+  "skal": "Passar för lyfter nödstoppsknappen som skäl att köpa (säkerhetsfunktion som urvalsargument); kvar som faktarad i specifikationen."
+ },
+ {
+  "nr": 10003,
+  "id": "10650209976586",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10004,
+  "id": "10656692404490",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10005,
+  "id": "10589705371914",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10006,
+  "id": "10656691847434",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10007,
+  "id": "10656692502794",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10008,
+  "id": "10650209059082",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10009,
+  "id": "10656691355914",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10010,
+  "id": "10656690897162",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Träningsprogram: 36, varav 3 pulsstyrda</li>",
+    "efter": "<li>Träningsprogram: 36 förinställda, 3 pulsstyrda</li>"
+   }
+  },
+  "skal": "Källan räknar upp 36 förinställda program och 3 pulsstyrda separat; \"varav\" är en tolkning."
+ },
+ {
+  "nr": 10011,
+  "id": "10656690929930",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10012,
+  "id": "10612574191882",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "16 tums TFT-skärm",
+    "efter": "16-tums TFT-skärm"
+   },
+   "html": {
+    "fore": "med 16 tums TFT-skärm",
+    "efter": "med 16-tums TFT-skärm"
+   }
+  },
+  "skal": "Sammansättning: \"16-tums TFT-skärm\" (som övriga utkast)."
+ },
+ {
+  "nr": 10013,
+  "id": "10462779867402",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10014,
+  "id": "10472261779722",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10015,
+  "id": "10650208502026",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10016,
+  "id": "10656691126538",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10018,
+  "id": "10665232335114",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10019,
+  "id": "10471192166666",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10020,
+  "id": "10470935593226",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Ram: Handstöd och låg ram</li>",
+    "efter": "<li>Utformning: Handstöd och låg ram</li>"
+   }
+  },
+  "skal": "Handstöd är inte en ram; rubriken på raden ändras."
+ },
+ {
+  "nr": 10021,
+  "id": "10472323776778",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10022,
+  "id": "10650208633098",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Dig som söker ett hopfällbart löpband med löpyta 150 x 55 cm</li>",
+    "efter": "<li>Dig som söker ett löpband med löpyta 150 x 55 cm</li>"
+   }
+  },
+  "skal": "Passar för upprepar hopfällning i två punkter."
+ },
+ {
+  "nr": 10023,
+  "id": "10472307818762",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10024,
+  "id": "10468770087178",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": ""
+ },
+ {
+  "nr": 10025,
+  "id": "10471307411722",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Skärmfunktioner: Förinstallerade appar, Screen Mirroring</li>",
+    "efter": "<li>Skärmfunktioner: Förinstallerade appar, skärmspegling (Screen Mirroring)</li>"
+   }
+  },
+  "skal": "Engelsk term i kundtext; punkten ovan säger redan skärmspegling."
+ }
+]

@@ -1,0 +1,325 @@
+[
+ {
+  "nr": 10051,
+  "id": "10472245625098",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Källan (Signature i titel, beskrivning och webbadress) stöder alla uppgifter; 'Tunturi app' och rehabilitering rätt utelämnade. Standardblock utan beställningsmening (ingen tagg På beställning)."
+ },
+ {
+  "nr": 10052,
+  "id": "10472242938122",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Alla tal stämmer med egen källa; motsägelsen Signature/Performance rätt hanterad (serienamn utelämnat). Ingen display."
+ },
+ {
+  "nr": 10053,
+  "id": "10471009943818",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Hastighet: upp till 20 km/h</li>",
+     "efter": "<li>Hastighet: Upp till 20 km/h</li>"
+    }
+   ]
+  },
+  "skal": "Tunn källa men allt stämmer (47 program, upp till 20 km/h, 140 x 50 cm, Tunturi Routes och Zwift); serienamn och rehabilitering utelämnade; beställningsmening rätt (tagg På beställning). Rättning: stor bokstav efter kolon."
+ },
+ {
+  "nr": 10054,
+  "id": "10470904889610",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": [
+    {
+     "fore": "Hastigheten är 0,8–22 km/h och maxvikt 150 kg.",
+     "efter": "Hastigheten är 0,8–22 km/h och maxvikten 150 kg."
+    }
+   ]
+  },
+  "skal": "Alla tal stämmer; beställningsmening rätt. Rättning: grammatik i meta (bestämd form som 'Hastigheten')."
+ },
+ {
+  "nr": 10055,
+  "id": "10472246935818",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Alla tal stämmer (5,0 HP AC, 0,8–24 km/h, 150 kg); marknadsord utelämnade; productType Professionell utrustning oförändrad."
+ },
+ {
+  "nr": 10056,
+  "id": "10472296055050",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Alla tal stämmer; det orimliga hopfällda måttet och den trasiga raden '3 lysdioder, 3 löpband' rätt utelämnade."
+ },
+ {
+  "nr": 10057,
+  "id": "10471107723530",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Alla tal stämmer (LED, 19 program, 2 HP, 0,8–14 km/h, 3 manuella lutningar, 110 kg). Ingen beställningsmening, rätt."
+ },
+ {
+  "nr": 10058,
+  "id": "10472245723402",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Alla tal stämmer med egen källa (41 program, 1,5 hk, 44 kg)."
+ },
+ {
+  "nr": 10059,
+  "id": "10472245559562",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": [
+    {
+     "fore": "elektroniskt justerbar lutning i 10 lägen.",
+     "efter": "elektroniskt justerbar lutning upp till 10."
+    }
+   ],
+   "html": [
+    {
+     "fore": "elektroniskt justerbar lutning (10).",
+     "efter": "elektroniskt justerbar lutning upp till 10."
+    }
+   ]
+  },
+  "skal": "Skärmstorleken (5 och 5,5 tum) rätt utelämnad i hela texten. Rättning: 'i 10 lägen' är en tolkning; källan anger bara 'Lutning: 10 (elektroniskt justerbar)'. Samma formulering som FitRun 70i ('upp till')."
+ },
+ {
+  "nr": 10060,
+  "id": "10472250900746",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Alla tal stämmer; maxvikt saknas i källan och är rätt utelämnad; hälsopåståenden utelämnade."
+ },
+ {
+  "nr": 10061,
+  "id": "10673149411594",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": [
+    {
+     "fore": "Pulssensorhandtag för FLUID Rodd",
+     "efter": "Pulssensorhandtag för FLUID Roddmaskin"
+    }
+   ],
+   "meta": [
+    {
+     "fore": "Pulssensorhandtag för V- och XL-modeller av FLUID roddmaskiner. Handtagen är av plast,",
+     "efter": "Pulssensorhandtagen passar V- och XL-modeller av FLUID roddmaskiner. De är av plast,"
+    }
+   ],
+   "html": [
+    {
+     "fore": "<li>Material: plast</li>",
+     "efter": "<li>Material: Plast</li>"
+    }
+   ]
+  },
+  "skal": "Pulsmätning återges bara som källan (ingen noggrannhet). Rättning: meta saknade verb i första meningen, liten bokstav efter kolon, SEO-titel avhuggen ('Rodd')."
+ },
+ {
+  "nr": 10062,
+  "id": "10472349663498",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Material: silikon</li>",
+     "efter": "<li>Material: Silikon</li>"
+    },
+    {
+     "fore": "<li>Användning: alla Tunturi",
+     "efter": "<li>Användning: Alla Tunturi"
+    },
+    {
+     "fore": "<li>Rekommenderat intervall: var 2–4",
+     "efter": "<li>Rekommenderat intervall: Var 2–4"
+    }
+   ]
+  },
+  "skal": "200 ml, silikon, 40 cm, utom Platinum-serien, 2–4 månader stämmer; maskinöversatt rad och märkeshistorik rätt utelämnade. Rättning: stor bokstav efter kolon (tre rader)."
+ },
+ {
+  "nr": 10063,
+  "id": "10472262598922",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": [
+    {
+     "fore": "Roddmaskinsben i svart trä för Tunturi Fluid Viking och Apollo. Benen höjer",
+     "efter": "Roddmaskinsbenen i svart trä passar Tunturi Fluid Viking och Apollo. De höjer"
+    }
+   ]
+  },
+  "skal": "Trä, svart, 10 cm, 3,25 kg, Viking och Apollo stämmer. Rättning: verb i första metameningen."
+ },
+ {
+  "nr": 10064,
+  "id": "10472262664458",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": [
+    {
+     "fore": "Roddmaskinsben i svart stål, 20 cm, för Tunturi Fluid Viking och Apollo. Benen väger",
+     "efter": "Roddmaskinsbenen i svart stål är 20 cm höga och passar Tunturi Fluid Viking och Apollo. De väger"
+    }
+   ]
+  },
+  "skal": "Engelsk källa korrekt återgiven (stål, svart, 20 cm, 3,96 kg, lättmonterade enligt tillverkaren); motsägande mått rätt utelämnade. Rättning: verb i första metameningen."
+ },
+ {
+  "nr": 10065,
+  "id": "10673149673738",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": [
+    {
+     "fore": "Ryggstöd för FLUID roddmaskiner av järn och skumgummi. Ryggstödet mäter",
+     "efter": "Ryggstödet för FLUID roddmaskiner är av järn och skumgummi. Det mäter"
+    }
+   ],
+   "html": [
+    {
+     "fore": "Ryggstödet mäter 35 x 31,5 x 28 cm och väger 2,2 kg och är",
+     "efter": "Ryggstödet mäter 35 x 31,5 x 28 cm, väger 2,2 kg och är"
+    }
+   ]
+  },
+  "skal": "Hälsopåståenden (skada, ryggsmärta) rätt utelämnade; mått och vikt stämmer. Rättning: verb i första metameningen och dubbelt 'och' i inledningen. Meta 105 tecken godtas (avsnitt 17)."
+ },
+ {
+  "nr": 10066,
+  "id": "10472281342218",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Gelfylld, universellt sadelsystem, instruktioner medföljer stämmer; hållnings-, smärt- och stötpåståenden rätt utelämnade."
+ },
+ {
+  "nr": 10067,
+  "id": "10673147412746",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": [
+    {
+     "fore": "Surfplattahållare för FLUID Roddmaskiner, 6–13 Tum",
+     "efter": "Surfplattehållare för FLUID Roddmaskiner, 6–13 tum"
+    }
+   ],
+   "seo_title": [
+    {
+     "fore": "Surfplattahållare för FLUID Rodd",
+     "efter": "Surfplattehållare för FLUID Roddmaskin"
+    }
+   ],
+   "meta": [
+    {
+     "fore": "Surfplattahållare för FLUID roddmaskiner i stål för surfplattor på 6–13 tum. Hållaren",
+     "efter": "Surfplattehållaren i stål passar FLUID roddmaskiner och surfplattor på 6–13 tum. Den"
+    }
+   ],
+   "html": [
+    {
+     "fore": "<p>Surfplattahållare i stål",
+     "efter": "<p>Surfplattehållare i stål"
+    }
+   ]
+  },
+  "skal": "Kompatibiliteten följer källans lista (Apollo Pro XL, Platinum RW30), motsägelsen mot titelns 'Mega' rätt hanterad. Rättning: 'surfplattehållare' är den svenska sammansättningsformen, enhet med liten bokstav i titeln, avhuggen SEO-titel, verb i första metameningen."
+ },
+ {
+  "nr": 10068,
+  "id": "10470923010314",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": [
+    {
+     "fore": "Räckesförlängning i stål för Tunturi löpband T80, T85 och T90. Förlängningen är svart.",
+     "efter": "Tunturi Arm Extension är en räckesförlängning i stål för löpbanden Tunturi T80, T85 och T90. Den är svart."
+    }
+   ]
+  },
+  "skal": "Stöd-, stabilitets-, rehab- och säkerhetspåståenden rätt utelämnade; kvar står modeller, stål och svart. Rättning: verb i första metameningen. Meta 106 tecken godtas (avsnitt 17)."
+ },
+ {
+  "nr": 10069,
+  "id": "10472325316874",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": [
+    {
+     "fore": "BH Fitness Inertia Liggande Motionscykel med 16-tums Skärm",
+     "efter": "Liggande Motionscykel BH Fitness Inertia med 16-tums Skärm"
+    }
+   ]
+  },
+  "skal": "Engelsk källa korrekt återgiven (16 tum pekskärm, EMS induktion, 88,5 kg, 180 kg ordagrant som driftsvikt); den upprepade 16-tumsraden rätt utelämnad. Rättning: titeln får typordet först som övriga BH Fitness-titlar i skrivfilerna."
+ },
+ {
+  "nr": 10070,
+  "id": "10656690995466",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": [
+    {
+     "fore": "BH Fitness Movemia BR1000R LED Motionscykel med Ryggstöd",
+     "efter": "Liggande Motionscykel BH Fitness Movemia BR1000R LED med Ryggstöd"
+    }
+   ]
+  },
+  "skal": "25 nivåer, EMS induktion, 102 kg, 190 kg stämmer; 16 tum står i källans beskrivning och anges 'enligt tillverkaren'; säkerhets-/stabilitetspåståenden rätt utelämnade. Rättning: typordet först i titeln."
+ },
+ {
+  "nr": 10071,
+  "id": "10494898897162",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": [
+    {
+     "fore": "BH Fitness TFR Ergo Motionscykel med Ryggstöd och Bluetooth",
+     "efter": "Motionscykel BH Fitness TFR Ergo med Ryggstöd och Bluetooth"
+    }
+   ]
+  },
+  "skal": "LED, 30 program, 24 nivåer, PMS servomotor, Bluetooth FTMS, 57,8 kg, 130 kg stämmer; 'Belastningskapacitet 12 kg' och rehab rätt utelämnade. Rättning: typordet först i titeln."
+ },
+ {
+  "nr": 10072,
+  "id": "10472261812490",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Alla tal stämmer; skadepåstående och ursprung (Spanien) rätt utelämnade."
+ },
+ {
+  "nr": 10073,
+  "id": "10472308605194",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": [
+    {
+     "fore": "BH Fitness X-Tri 2 är en hopfällbar motionscykel med LCD-skärm som går att använda i tre positioner. Mått 131 x 61 x 100 cm och maximal driftsvikt 105 kg.",
+     "efter": "BH Fitness X-Tri 2 är en hopfällbar motionscykel med LCD-skärm. Den mäter 131 x 61 x 100 cm, väger 22 kg och har en maximal driftsvikt på 105 kg."
+    }
+   ]
+  },
+  "skal": "Otydlig rekommenderad höjd och 'Lastkapacitet 8 kg' rätt utelämnade. Rättning: meta angav 'tre positioner' som fakta utan 'enligt tillverkaren'; ersatt med uppgifter ur specifikationen."
+ },
+ {
+  "nr": 10074,
+  "id": "10472266301706",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Magnetisk broms, 167 x 68 x 130 cm, 53 kg, 180 kg stämmer med egen källa; säkerhets- och rehabpåståenden rätt utelämnade."
+ },
+ {
+  "nr": 10075,
+  "id": "10635766038794",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "LCD, 12 program, 24 nivåer, PMS servomotor, 8 kg svänghjul, mått och vikt stämmer; maxvikt saknas och är rätt utelämnad."
+ }
+]
