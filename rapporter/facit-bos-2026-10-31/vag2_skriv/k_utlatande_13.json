@@ -1,0 +1,104 @@
+[
+ {
+  "nr": 10103,
+  "id": "10487987142922",
+  "fil": "k_13a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Alla uppgifter spårbara i egen källa (Kona Butted Cromoly, Kona 6061 Aluminium Disc, Shimano Sora 18 växlar, Tektro mekaniska, Maxxis Rambler EXO 650x47C, fästpunkter). Shimano Sora finns bara mekaniskt, ingen växelgruppsfråga. Alla sju varianter är black och storlekarna S–XL i texten säljs alla; XS rätt utelämnad (R3 v1.5). Prisskillnaderna följer storlek och de dubbla L/XL-varianterna (FA56/FA58, samma SKU som L/XL) är en datafråga för David, inte en textfråga. Taggen På beställning finns, leveranstidsmeningen rätt."
+ },
+ {
+  "nr": 10105,
+  "id": "10676720173322",
+  "fil": "k_13a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart ordagrant (Bafang 250 W/80 Nm, 576 Wh, 120 km, aluminium, 155–190 cm, Shimano Claris, 7 växlar, MT200 hydrauliska, CST 20 x 4.0, 27 kg, set-raden). Claris med 7 växlar är rimligt: återförsäljaren skiandbikes.de (Cody 2) anger bakväxeln Shimano Claris RD-R2000 med HG41 7-växlat frihjul, så källan motsäger inte sig själv; ingen elektronisk växling möjlig (Claris är mekanisk). Räckvidd är ingen lastgräns (R4) och står en gång 'enligt tillverkaren' (R5). Färger svart och grön från varianterna, samma pris; titeln låser ingen variant. Typordet 'Elcykel Fatbike' som skrivna Brasa. OBS: Galaxus och Decathlon listar Cody under barncyklar, men egen källa anger cyklister 155–190 cm, så inte barnprodukt. Elcykel: kräver samma ja som grupp 01 (standard rad 76)."
+ },
+ {
+  "nr": 10106,
+  "id": "10471092093194",
+  "fil": "k_13a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (aluminium, S–XL 52–58 cm, Claris, 16 växlar, BR-RS305 mekaniska skivbromsar, WTB Riddler 700 x 37C, 11,2 kg, fästpunkter). Typordet Gravelbike är live-titelns eget ord (R7). Alla fyra varianter är silver; färgen utelämnad, titeln låser ingen variant. Prisskillnad 30 kr följer storlek. Ingen På beställning-tagg och ingen leveranstidsmening, rätt."
+ },
+ {
+  "nr": 10107,
+  "id": "10468705665290",
+  "fil": "k_13a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Texten är sann för alla fyra varianter: alla är black, S–XL säljs alla (XS rätt utelämnad), 700C 28 tum, 25 mm, enkelväxel och flip-flop gäller hela modellen. Varken titel eller text nämner pris eller låser storlek, så avvikelsen M 9 129 kr mot 7 939 kr påverkar inte textens sanning (R3 kräver avvisning bara när titeln låser en variant). Prisavvikelsen ska till David som prisfråga. Broms- och viktraden rätt utelämnade (R2)."
+ },
+ {
+  "nr": 10118,
+  "id": "10472227209482",
+  "fil": "k_13a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Spårbart (1 LED-lampa, 2 ljuslägen, batteridrivet, fem färger, färgval i kommentarsfältet). En variant (Default Title, 99 kr), så titeln 'Flera Färger' låser inget. LED-formuleringen följer källans tvetydighet utan att tolka den. Tyskt märke och kvalitetsord rätt utelämnade (R5). Notera för David: att färgval sker i kommentarsfältet förutsätter att kassan har ett sådant fält."
+ },
+ {
+  "nr": 10119,
+  "id": "10471174668554",
+  "fil": "k_13a_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Reflexklistermärken: standard §12 (David 2026-11-03) säger att reflexer och reflexdekaler är säkerhetsprodukter som inte skrivs i vågor utan tas för hand med Davids ja per produkt. Samma bedömning som 9418–9420 i k_07. Texten i sig är spårbar, men variantnamnen 273 och 275 är oförklarade. Kan skrivas oförändrad om David säger ja."
+ },
+ {
+  "nr": 10120,
+  "id": "10665228075274",
+  "fil": "k_13a_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Reflekterande dekaler: standard §12, som 10119 och tidigare 5087/5215. Dubbletten i sig hindrar inte: 10665228173578 är spärrad i sparr_titeldubbletter.csv och 10120 är den äldsta annonsen, så om David säger ja är det rätt id att skriva. Rätta då metan, som saknar verb i huvudsatsen ('Reflekterande klistermärken från Bookman i flammönster som kan fästas ...')."
+ },
+ {
+  "nr": 10124,
+  "id": "10480054534410",
+  "fil": "k_13b_utkast.json",
+  "dom": "RÄTTA",
+  "regel": "R5, R11",
+  "allvarlighet": "låg",
+  "rattningar": {
+   "meta": {
+    "fore": "Christopeit Kettlebell på 2 kg med ergonomiskt utformat handtag, enligt tillverkaren. Kan användas hemma, på gymmet eller utomhus.",
+    "efter": "Christopeits kettlebell väger 2 kg och har enligt tillverkaren ett ergonomiskt utformat handtag. Den kan användas hemma, på gymmet eller utomhus."
+   },
+   "html": {
+    "fore": "<li>Handtag: Ergonomiskt utformat, enligt tillverkaren</li>",
+    "efter": "<li>Handtag: Ergonomiskt utformat</li>"
+   }
+  },
+  "skal": "En variant, uppgifterna spårbara (ergonomiskt handtag, svingar/knäböj/bålövningar, hemma/gym/utomhus, Christopeit). Två entydiga fakta utöver titeln räcker för kort text (R3). 'Enligt tillverkaren' stod två gånger för samma påstående i html (R5: en gång per påstående). Metan saknade verb i första meningen och subjekt i andra (R11). Material rätt utelämnat."
+ },
+ {
+  "nr": 10126,
+  "id": "10581111243018",
+  "fil": "k_13b_utkast.json",
+  "dom": "RÄTTA",
+  "regel": "R7",
+  "allvarlighet": "låg",
+  "rattningar": {
+   "titel": {
+    "fore": "Gummerad Viktskiva Gymstick, 1,25–25 kg",
+    "efter": "Viktskiva Gymstick Gummerad, 1,25–25 kg"
+   },
+   "seo_title": {
+    "fore": "Gummerad Viktskiva Gymstick 1,25–25 kg",
+    "efter": "Viktskiva Gymstick Gummerad 1,25–25 kg"
+   }
+  },
+  "skal": "Typordet ska stå först (R7), som alla skrivna viktskivor ('Viktskiva Toorx ...', 'Viktskiva Tunturi ...'); kommatecken hålls till två med decimalkommat. Sakinnehållet stämmer: sju varianter 1,25–25 kg, priserna följer vikten, titeln låser ingen variant, 'skyddar' och 'minskar ljudnivån' står i egen källa och återges en gång 'enligt tillverkaren'. Håldiametern är rätt utelämnad (webbkällorna motsäger varandra, R1 v1.6). Proshop-sidan gav 403 och kunde inte läsas, men kg-enheten stöds redan av egen källa ('1,25 kg per styck') och SKU RWP-1,25."
+ },
+ {
+  "nr": 10134,
+  "id": "10581105672458",
+  "fil": "k_13b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Webbkällorna lästa av granskaren och gäller exakt modellen: skorpionas.lt 'Gymstick 61110 45cm', art. 538GY6111045, 45,5 x 15 x 15 cm, EVA; ox.ee 'Gymstick Massage roller 61110 90cm', kod 538GY6111090, EAN 6430016904384, EVA. Det stämmer med våra SKU 61110-45 och 61110-90, så EVA gäller båda varianterna (R1 v1.6). Titeln '45 och 90 cm' låser ingen variant. Ingen värme eller vibration, så inte under utanfor_tills_vidare. Max användarvikt rätt utelämnad (R4), effektord utelämnade (R5)."
+ }
+]
