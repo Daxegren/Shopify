@@ -1,0 +1,858 @@
+{
+ "antal_produkter_publicerade": 24,
+ "antal_kollektioner": 62,
+ "vendors": {
+  "Alpha Zoo": 22,
+  "AlphaZoo": 2
+ },
+ "product_type": {
+  "Bajspåse": 2,
+  "Hundmat": 7,
+  "kattmat": 2,
+  "Kosttillskott": 11,
+  "Vård": 2
+ },
+ "taggar": {
+  "bajspåse": 2,
+  "dog": 16,
+  "hund": 22,
+  "poop bag": 2,
+  "tillbehör": 2,
+  "dog food": 7,
+  "hundmat": 7,
+  "våtfoder": 9,
+  "Biff": 1,
+  "cat": 6,
+  "cat food": 2,
+  "kanin": 1,
+  "katt": 10,
+  "kattmat": 2,
+  "Kyckling": 1,
+  "kosttillskott": 11,
+  "tass": 2,
+  "vård": 2,
+  "tillskott": 10,
+  "lugn": 1,
+  "fröolja": 1,
+  "fiskolja": 2,
+  "laxolja": 1
+ },
+ "beskrivning_tecken": {
+  "min": 504,
+  "median": 739,
+  "max": 1038,
+  "under_200": 0,
+  "tom": 0
+ },
+ "dubblettitlar": [],
+ "varianter_per_produkt": {
+  "2": 14,
+  "1": 2,
+  "4": 8
+ },
+ "bilder_per_produkt": {
+  "4": 2,
+  "5": 21,
+  "6": 1
+ },
+ "bilder_utan_alt": 119,
+ "bilder_totalt": 119,
+ "engelska_titlar_misstanke": [],
+ "titel_langd": {
+  "max": 67,
+  "over_70": 0
+ },
+ "utan_pris": 0,
+ "inte_i_lager_tillgangliga": 0,
+ "kollektioner": [
+  {
+   "handle": "alla-produkter",
+   "titel": "Alla produkter",
+   "antal": 41,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "almbarkspulver-for-hundar-katter",
+   "titel": "Almbarkspulver - För Hundar & Katter",
+   "antal": 1,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "anksnack-for-hundar",
+   "titel": "Anksnack - För Hundar",
+   "antal": 2,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "bajspasar-for-hundar",
+   "titel": "Bajspåsar - För Hundar",
+   "antal": 2,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "billig-hundmat",
+   "titel": "Billig Hundmat",
+   "antal": 11,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "borstspray-for-hundar",
+   "titel": "Borstspray - För Hundar",
+   "antal": 1,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "fiskolja-for-hundar-katter",
+   "titel": "Fiskolja För Hundar & Katter",
+   "antal": 2,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "foderolja-for-hundar-naring-och-glans-for-en-frisk-pals-och-mage",
+   "titel": "Foderolja - För Hundar",
+   "antal": 10,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "foderolja-for-katter",
+   "titel": "Foderolja - För Katter",
+   "antal": 7,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "fastingspray-for-hundar",
+   "titel": "Fästingspray - För Hundar",
+   "antal": 0,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "frontpage",
+   "titel": "Hem",
+   "antal": 1,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "hund-alla-produkter",
+   "titel": "Hund - Alla produkter",
+   "antal": 60,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "hund-avkoppling-alla-produkter",
+   "titel": "Hund - Avkoppling",
+   "antal": 6,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "hund-barf",
+   "titel": "Hund - Barf",
+   "antal": 5,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "hund-dagliga-behov",
+   "titel": "Hund - Dagliga Behov",
+   "antal": 11,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "hund-funktionella-produkter",
+   "titel": "Hund - Funktionella Produkter",
+   "antal": 60,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "hund-immunsystem",
+   "titel": "Hund - Immunsystem",
+   "antal": 2,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "hund-kosttillskott",
+   "titel": "Hund - Kosttillskott",
+   "antal": 27,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "hund-maghalsa",
+   "titel": "Hund - Maghälsa",
+   "antal": 5,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "hund-pals",
+   "titel": "Hund - Päls",
+   "antal": 11,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "hund-rorelse",
+   "titel": "Hund - Rörelse",
+   "antal": 4,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "hund-tillbehor",
+   "titel": "Hund - Tillbehör",
+   "antal": 5,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "hund-vatfoder",
+   "titel": "Hund - Våtfoder",
+   "antal": 11,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "hundmat",
+   "titel": "Hundmat",
+   "antal": 11,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "hundschampo",
+   "titel": "Hundschampo",
+   "antal": 3,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "hundsnacks-hundgodis",
+   "titel": "Hundsnacks - Hundgodis",
+   "antal": 0,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "i-lager",
+   "titel": "I lager",
+   "antal": 29,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "katt-alla-produkter",
+   "titel": "Katt - Alla produkter",
+   "antal": 35,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "katt-barf",
+   "titel": "Katt - Barf",
+   "antal": 11,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "katt-dagliga-behov",
+   "titel": "Katt - Dagliga Behov",
+   "antal": 4,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "katt-immunsystem",
+   "titel": "Katt - Immunsystem",
+   "antal": 7,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "katt-kosttillskott",
+   "titel": "Katt - Kosttillskott",
+   "antal": 20,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "katt-maghalsa",
+   "titel": "Katt - Maghälsa",
+   "antal": 4,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "katt-pals",
+   "titel": "Katt - Päls",
+   "antal": 4,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "katt-rorelse",
+   "titel": "Katt - Rörelse",
+   "antal": 3,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "katt-tillbehor",
+   "titel": "Katt - Tillbehör",
+   "antal": 1,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "katt-tvatt-vard",
+   "titel": "Katt - Tvätt & Vård",
+   "antal": 6,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "katt-vard",
+   "titel": "Katt - Vård",
+   "antal": 7,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "kattmat",
+   "titel": "Kattmat",
+   "antal": 2,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "kattschampo",
+   "titel": "Kattschampo",
+   "antal": 2,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "kattsnacks-kattgodis",
+   "titel": "Kattsnacks - Kattgodis",
+   "antal": 1,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "kvalisterspray-for-hundar-katter",
+   "titel": "Kvalisterspray - För Hundar & Katter",
+   "antal": 1,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "lax-kattgodis",
+   "titel": "Lax Kattgodis",
+   "antal": 1,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "linfroolja-for-hundar-katter",
+   "titel": "Linfröolja - För Hundar & katter",
+   "antal": 1,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "loppmedel-for-hundar",
+   "titel": "Loppmedel - För Hundar",
+   "antal": 2,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "lugnande-kosttillskott-for-hundar",
+   "titel": "Lugnande Kosttillskott För Hundar",
+   "antal": 6,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "lugnande-kosttillskott-for-katter",
+   "titel": "Lugnande Kosttillskott För Katter",
+   "antal": 4,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "milt-schampo-for-hundar-katter",
+   "titel": "Milt schampo – För hundar & katter",
+   "antal": 0,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "msm-pulver-for-hundar-katter",
+   "titel": "MSM Pulver - För Hundar & Katter",
+   "antal": 1,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "naturlig-hundmat",
+   "titel": "Naturlig Hundmat",
+   "antal": 11,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "naturlig-kattmat",
+   "titel": "Naturlig Kattmat",
+   "antal": 2,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "psylliumfroskalpulver-for-hundar-katter",
+   "titel": "Psylliumfröskalpulver - För Hundar & Katter",
+   "antal": 1,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "tassbalsam-for-hundar-katter",
+   "titel": "Tassbalsam - För Hundar & Katter",
+   "antal": 1,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "tangmjol-for-hundar-katter",
+   "titel": "Tångmjöl - För Hundar & Katter",
+   "antal": 1,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "valp-alla-produkter",
+   "titel": "Valp - Alla Produkter",
+   "antal": 45,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "vatfoder-for-hundar-naringsrikt-och-smakfullt-for-en-frisk-och-glad-hund",
+   "titel": "Våtfoder - För Hundar",
+   "antal": 11,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "aggskalspulver-for-hundar-katter",
+   "titel": "Äggskalspulver - För Hundar & Katter",
+   "antal": 1,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "ogonvard-for-hundar-katter",
+   "titel": "Ögonvård - För Hundar & Katter",
+   "antal": 1,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "oljastpulver-for-hundar-katter",
+   "titel": "Öljästpulver - För Hundar & Katter",
+   "antal": 0,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "oronrengoring-for-hundar-katter",
+   "titel": "Öronrengöring - För Hundar & Katter",
+   "antal": 2,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "oronrengoring-hund",
+   "titel": "Öronrengöring - Hund",
+   "antal": 2,
+   "beskrivning_tecken": 0
+  },
+  {
+   "handle": "oronrengoring-katt",
+   "titel": "Öronrengöring - Katt",
+   "antal": 2,
+   "beskrivning_tecken": 0
+  }
+ ],
+ "kollektioner_tomma": [
+  "fastingspray-for-hundar",
+  "hundsnacks-hundgodis",
+  "milt-schampo-for-hundar-katter",
+  "oljastpulver-for-hundar-katter"
+ ],
+ "kollektioner_utan_beskrivning": 62,
+ "produkter": [
+  {
+   "id": 15885262651766,
+   "handle": "bajspasar-rosa-smidiga-bajspasar-for-promenaden",
+   "title": "Bajspåsar Rosa – Smidiga bajspåsar för promenaden",
+   "vendor": "Alpha Zoo",
+   "type": "Bajspåse",
+   "tags": [
+    "bajspåse",
+    "dog",
+    "hund",
+    "poop bag",
+    "tillbehör"
+   ],
+   "tecken": 509,
+   "varianter": 2,
+   "pris": "109.00"
+  },
+  {
+   "id": 15882657235318,
+   "handle": "ank-kycklingmaltid-delikat-vatfoder-for-valpar",
+   "title": "Ank- & Kycklingmåltid – Delikat våtfoder för valpar",
+   "vendor": "Alpha Zoo",
+   "type": "Hundmat",
+   "tags": [
+    "dog",
+    "dog food",
+    "hund",
+    "hundmat",
+    "våtfoder"
+   ],
+   "tecken": 578,
+   "varianter": 2,
+   "pris": "89.00"
+  },
+  {
+   "id": 15882611130742,
+   "handle": "notkottsmaltid-delikat-vatfoder-for-hundar",
+   "title": "Nötköttsmåltid – Delikat våtfoder för hundar",
+   "vendor": "Alpha Zoo",
+   "type": "Hundmat",
+   "tags": [
+    "Biff",
+    "dog",
+    "dog food",
+    "hund",
+    "hundmat",
+    "våtfoder"
+   ],
+   "tecken": 741,
+   "varianter": 2,
+   "pris": "89.00"
+  },
+  {
+   "id": 15882600710518,
+   "handle": "kanin-kycklingmaltid-for-katt-delikat-vatfoder-for-katter",
+   "title": "Kanin- & Kycklingmåltid för katt - Delikat våtfoder för katter",
+   "vendor": "Alpha Zoo",
+   "type": "kattmat",
+   "tags": [
+    "cat",
+    "cat food",
+    "kanin",
+    "katt",
+    "kattmat",
+    "Kyckling",
+    "våtfoder"
+   ],
+   "tecken": 752,
+   "varianter": 2,
+   "pris": "49.00"
+  },
+  {
+   "id": 15881985327478,
+   "handle": "ank-kycklingmaltid-for-katt-delikat-vatfoder-for-katter",
+   "title": "Ank- & kycklingmåltid för katt - Delikat våtfoder för katter",
+   "vendor": "AlphaZoo",
+   "type": "kattmat",
+   "tags": [
+    "cat",
+    "cat food",
+    "katt",
+    "kattmat",
+    "våtfoder"
+   ],
+   "tecken": 767,
+   "varianter": 2,
+   "pris": "49.00"
+  },
+  {
+   "id": 15881963667830,
+   "handle": "angusoxe-lammaltid-delikat-vatfoder-for-hundar",
+   "title": "Angusoxe- & lammåltid - Delikat våtfoder för hundar",
+   "vendor": "Alpha Zoo",
+   "type": "Hundmat",
+   "tags": [
+    "dog",
+    "dog food",
+    "hund",
+    "hundmat",
+    "våtfoder"
+   ],
+   "tecken": 795,
+   "varianter": 2,
+   "pris": "89.00"
+  },
+  {
+   "id": 15881938796918,
+   "handle": "vilt-oxkottsmaltid-delikat-vatfoder-for-hundar",
+   "title": "Vilt- & oxköttsmåltid – Delikat våtfoder för hundar",
+   "vendor": "AlphaZoo",
+   "type": "Hundmat",
+   "tags": [
+    "dog",
+    "dog food",
+    "hund",
+    "hundmat",
+    "våtfoder"
+   ],
+   "tecken": 807,
+   "varianter": 2,
+   "pris": "89.00"
+  },
+  {
+   "id": 15881905602934,
+   "handle": "kalv-kaninmaltid-for-seniorer-delikat-vatfoder-for-hundar",
+   "title": "Kalv- & kaninmåltid för seniorer – Delikat våtfoder för hundar",
+   "vendor": "Alpha Zoo",
+   "type": "Hundmat",
+   "tags": [
+    "dog",
+    "dog food",
+    "hund",
+    "hundmat",
+    "våtfoder"
+   ],
+   "tecken": 679,
+   "varianter": 2,
+   "pris": "89.00"
+  },
+  {
+   "id": 15881879028086,
+   "handle": "lax-kalkonmaltid-delikat-vatfoder-for-hunda",
+   "title": "Lax- & kalkonmåltid – Delikat våtfoder för hundar",
+   "vendor": "Alpha Zoo",
+   "type": "Hundmat",
+   "tags": [
+    "dog",
+    "dog food",
+    "hund",
+    "hundmat",
+    "våtfoder"
+   ],
+   "tecken": 740,
+   "varianter": 2,
+   "pris": "89.00"
+  },
+  {
+   "id": 15757089112438,
+   "handle": "flytande-magstod-naturligt-stod-for-matsmaltningen",
+   "title": "Flytande magstöd - Naturligt stöd för matsmältningen",
+   "vendor": "Alpha Zoo",
+   "type": "Kosttillskott",
+   "tags": [
+    "hund",
+    "katt",
+    "kosttillskott"
+   ],
+   "tecken": 739,
+   "varianter": 2,
+   "pris": "269.00"
+  },
+  {
+   "id": 15757027606902,
+   "handle": "pawtable-tassvardspinne-for-hundar",
+   "title": "PAWTABLE Tassvårdspinne för hundar",
+   "vendor": "Alpha Zoo",
+   "type": "Vård",
+   "tags": [
+    "hund",
+    "tass",
+    "vård"
+   ],
+   "tecken": 1038,
+   "varianter": 1,
+   "pris": "209.00"
+  },
+  {
+   "id": 15757000606070,
+   "handle": "big-paw-ty-tassvard-for-hundar",
+   "title": "BIG PAW-TY Tassvård för hundar",
+   "vendor": "Alpha Zoo",
+   "type": "Vård",
+   "tags": [
+    "hund",
+    "tass",
+    "vård"
+   ],
+   "tecken": 1001,
+   "varianter": 1,
+   "pris": "309.00"
+  },
+  {
+   "id": 15195787821430,
+   "handle": "linfroolja-premiumkvalitet-for-hund-och-katt",
+   "title": "Linfröolja – Premiumkvalitet för hund och katt",
+   "vendor": "Alpha Zoo",
+   "type": "Kosttillskott",
+   "tags": [
+    "cat",
+    "dog",
+    "hund",
+    "katt",
+    "kosttillskott",
+    "tillskott"
+   ],
+   "tecken": 674,
+   "varianter": 4,
+   "pris": "279.00"
+  },
+  {
+   "id": 15195782676854,
+   "handle": "alpha-zegg-for-hundar-for-en-vital-hud-och-glansande-pals",
+   "title": "Alpha-Zegg för hundar – För en vital hud och glänsande päls",
+   "vendor": "Alpha Zoo",
+   "type": "Kosttillskott",
+   "tags": [
+    "dog",
+    "hund",
+    "kosttillskott",
+    "tillskott"
+   ],
+   "tecken": 695,
+   "varianter": 2,
+   "pris": "219.00"
+  },
+  {
+   "id": 15195776418166,
+   "handle": "hampafron-naturlig-omsorg-for-pals-och-valmaende",
+   "title": "Hampolja – Naturlig omsorg för päls och välmående",
+   "vendor": "Alpha Zoo",
+   "type": "Kosttillskott",
+   "tags": [
+    "cat",
+    "dog",
+    "hund",
+    "katt",
+    "kosttillskott",
+    "lugn",
+    "tillskott"
+   ],
+   "tecken": 785,
+   "varianter": 4,
+   "pris": "279.00"
+  },
+  {
+   "id": 15195774910838,
+   "handle": "pruttstoppolja-for-din-fyrbenta-vans-matsmaltning",
+   "title": "Pruttstoppolja – För din fyrbenta väns matsmältning",
+   "vendor": "Alpha Zoo",
+   "type": "Kosttillskott",
+   "tags": [
+    "cat",
+    "dog",
+    "hund",
+    "katt",
+    "kosttillskott",
+    "tillskott"
+   ],
+   "tecken": 649,
+   "varianter": 4,
+   "pris": "269.00"
+  },
+  {
+   "id": 15195773141366,
+   "handle": "barf-olja-for-hund-och-katt",
+   "title": "BARF-Olja - För hund och katt",
+   "vendor": "Alpha Zoo",
+   "type": "Kosttillskott",
+   "tags": [
+    "cat",
+    "dog",
+    "hund",
+    "katt",
+    "kosttillskott",
+    "tillskott"
+   ],
+   "tecken": 752,
+   "varianter": 4,
+   "pris": "219.00"
+  },
+  {
+   "id": 15195771568502,
+   "handle": "alpha-immun-olja-for-frisk-pals-och-valmaende",
+   "title": "Alpha Immun Olja – För frisk päls och välmående",
+   "vendor": "Alpha Zoo",
+   "type": "Kosttillskott",
+   "tags": [
+    "dog",
+    "hund",
+    "kosttillskott",
+    "tillskott"
+   ],
+   "tecken": 642,
+   "varianter": 4,
+   "pris": "219.00"
+  },
+  {
+   "id": 15195770650998,
+   "handle": "svartkumminolja-kallpressad-fodertillsats-for-hundar",
+   "title": "Svartkumminolja – Kallpressad fodertillsats för hundar",
+   "vendor": "Alpha Zoo",
+   "type": "Kosttillskott",
+   "tags": [
+    "dog",
+    "fröolja",
+    "hund",
+    "kosttillskott",
+    "tillskott"
+   ],
+   "tecken": 653,
+   "varianter": 2,
+   "pris": "279.00"
+  },
+  {
+   "id": 15195769405814,
+   "handle": "nattljusolja-for-hund-och-katt-atbar-vaxtbaserad-hud-och-palskur",
+   "title": "Nattljusolja för hund och katt – Ätbar växtbaserad hud- och pälskur",
+   "vendor": "Alpha Zoo",
+   "type": "Kosttillskott",
+   "tags": [
+    "fiskolja",
+    "hund",
+    "katt",
+    "kosttillskott",
+    "tillskott"
+   ],
+   "tecken": 624,
+   "varianter": 4,
+   "pris": "379.00"
+  },
+  {
+   "id": 15195766554998,
+   "handle": "palsglan-atbar-olja-for-hud-och-pals-hos-hund-och-katt",
+   "title": "Pälsglans – Ätbar olja för hud och päls hos hund och katt",
+   "vendor": "Alpha Zoo",
+   "type": "Kosttillskott",
+   "tags": [
+    "hund",
+    "katt",
+    "kosttillskott",
+    "tillskott"
+   ],
+   "tecken": 745,
+   "varianter": 4,
+   "pris": "269.00"
+  },
+  {
+   "id": 15195764130166,
+   "handle": "laxolja-for-hundar-och-katter",
+   "title": "Laxolja - För hundar och katter",
+   "vendor": "Alpha Zoo",
+   "type": "Kosttillskott",
+   "tags": [
+    "fiskolja",
+    "hund",
+    "katt",
+    "kosttillskott",
+    "laxolja",
+    "tillskott"
+   ],
+   "tecken": 705,
+   "varianter": 4,
+   "pris": "269.00"
+  },
+  {
+   "id": 15195748925814,
+   "handle": "bajspasar-smidiga-bajspasar-for-promenaden",
+   "title": "Bajspåsar Svart– Smidiga bajspåsar för promenaden",
+   "vendor": "Alpha Zoo",
+   "type": "Bajspåse",
+   "tags": [
+    "bajspåse",
+    "dog",
+    "hund",
+    "poop bag",
+    "tillbehör"
+   ],
+   "tecken": 504,
+   "varianter": 2,
+   "pris": "109.00"
+  },
+  {
+   "id": 15195674378614,
+   "handle": "hastfest-delikat-vatfoder-for-hundar",
+   "title": "Hästfest – Delikat våtfoder för hundar",
+   "vendor": "Alpha Zoo",
+   "type": "Hundmat",
+   "tags": [
+    "dog",
+    "dog food",
+    "hund",
+    "hundmat",
+    "våtfoder"
+   ],
+   "tecken": 651,
+   "varianter": 2,
+   "pris": "79.00"
+  }
+ ]
+}

@@ -1,6 +1,6 @@
-# Regelbok v1.4 – produkttexter (butiksoberoende)
+# Regelbok v1.5 – produkttexter (butiksoberoende)
 
-Version 1.4, 2026-11-04 (v1.1–v1.4 efter återkoppling från utkastare och granskare i g_3: R2, R3, R4, R5, R6, R7 förtydligade). Max ~60 rader; blir den längre har vi gjort fel. Varje regel har en kod: **T** = kontrolleras av skript (`shopify-sync/scripts/skrivfil_kontroll.py`), **G** = granskare, **M** = mänskligt beslut. Butiksspecifikt (märken, spärrar, standardblock, taggar) står i butikens profil (`shopify-sync/config/butiksprofil-*.json`) och i `shopify-sync/docs/BESLUTSLOGG.md`. Nytt granskningsfynd = ny regel här eller ett nytt test i skriptet, aldrig bara en lärdomspost.
+Version 1.5, 2026-11-04 (v1.5: R20 och R21 efter onboarding av Alpha Zoo och B You; v1.1–v1.4 efter återkoppling från utkastare och granskare i g_3: R2, R3, R4, R5, R6, R7 förtydligade). Max ~60 rader; blir den längre har vi gjort fel. Varje regel har en kod: **T** = kontrolleras av skript (`shopify-sync/scripts/skrivfil_kontroll.py`), **G** = granskare, **M** = mänskligt beslut. Butiksspecifikt (märken, spärrar, standardblock, taggar) står i butikens profil (`shopify-sync/config/butiksprofil-*.json`) och i `shopify-sync/docs/BESLUTSLOGG.md`. Nytt granskningsfynd = ny regel här eller ett nytt test i skriptet, aldrig bara en lärdomspost.
 
 ## Källa och påståenden
 - R1 (G) Bara uppgifter som står entydigt i produktens EGEN live-källa. Aldrig från syskonprodukt eller minne.
@@ -19,6 +19,8 @@ Version 1.4, 2026-11-04 (v1.1–v1.4 efter återkoppling från utkastare och gra
 - R12a (G) Handle ändras aldrig (kräver omdirigeringar). Dubblett: samma modell och färg som redan skriven produkt → avvisa. SEO-krock mot live kontrolleras med nyckelordssökning i butiken (Shopify kan inte filtrera på SEO-titel).
 - R12 (T) Titel ≤70 tecken och ≤2 kommatecken; SEO-titel ≤43 (märket kvar om det ryms, behåll småord som "till"); meta 70–155 utan utfyllnad; titel, SEO och meta unika, även mot andra batcher och redan skrivna filer (kontrolleras av byggskriptet).
 - R13 (T) Standardblocket exakt som i profilen. Leveranstidsmeningen bara på produkter med taggen "På beställning". seo skickas alltid med både title och description.
+- R20 (M) Språk: texter skrivs bara på butikens källspråk (profilens `sprak_att_skriva_i_fas_2`). Danska, finska, norska och tyska texter skrivs inte av modell utan granskning av modersmålstalare, och översättningar läggs aldrig i samma pass som källtexten. Profilen listar språken (`sprak_kraver_modersmalstalare`).
+- R21 (M) Profilen kan ange märken vars egen stavning är versaler (t.ex. BYOU) under `marken_versaler`; då gäller den stavningen i stället för R8. Utan sådan post gäller R8.
 
 ## Process
 - R14 (T) Spärrlistan och beslutsloggen läses före varje batch; spärrade produkter får inte hamna i en skrivfil.

@@ -17,6 +17,14 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 
 ---
 
+### 2026-11-04 (tillägg): Shopify-kopplingen delas mellan sessioner; switch-shop kan ha brutit BEST OF SPORTS-sessionen
+- **Vad hände:** jag anropade `switch-shop` två gånger i onboarding-passet för Alpha Zoo och B You. En annan session meddelade (ej verifierat av mig) att kopplingen delas mellan alla sessioner, pekar på en butik åt gången och att varje `switch-shop` bryter BEST OF SPORTS-sessionen och kräver ny inloggning. Det kan alltså ha avbrutit det pågående BEST OF SPORTS-arbetet.
+- **Regel:** anropa aldrig `switch-shop` eller `get-shop-info` för en annan butik medan en annan session arbetar mot Shopify. För nya butiker: använd API-åtkomst per butik (samma app installeras på varje butik) eller publik katalog tills den finns. Ersätter inte föregående post, som beskriver samma händelse från min sida.
+
+### 2026-11-04: switch-shop kopplade loss Shopify-verktyget och blockerade inventeringen av nya butiker
+- **Vad hände:** uppdraget sa att jag skulle använda `switch-shop` och sedan `get-shop-info`. `switch-shop` återkallar åtkomsten till den nuvarande butiken (här BEST OF SPORTS) och nästa anrop kräver ny OAuth-inloggning som bara David kan göra; efter det fick Shopify-verktyget "needs you to sign in again" och gick inte att använda resten av passet. Inventering via Admin (status, SEO-fält, översättningar) blev därför inte gjord; publik katalog (`/products.json`) och genomsökning användes i stället. Ahrefs-API:t gav "Insufficient plan" på alla anrop (planen saknar API), och Windsor hade bara Facebook Organic anslutet.
+- **Regel:** innan `switch-shop` anropas: kontrollera att en annan session inte är mitt i skrivning i den butik som kopplas loss, och be David logga in i den nya butiken i förväg. Anta aldrig att åtkomst finns för Windsor, Ahrefs eller Shopify: testa med ett billigt anrop först (`get_connectors`, `subscription-info-limits-and-usage`, `get-shop-info`) och rapportera luckorna direkt. Den publika katalogen (`/products.json`, `/collections.json`, `sitemap.xml`) räcker för en grov inventering av publicerade produkter men visar inte utkast, arkiverade, SEO-fält eller översättningsstatus.
+
 ### 2026-11-03: Samma fel i skrivfil 20: lika titel betyder inte skriven (våg 2b, produkt 10589704749322)
 - **Vad hände:** produkt 8912 i skrivfil 20 hade rätt titel men gammal seo-titel, metabeskrivning och beskrivning. Regeln "hoppa över när titeln är lika" följdes inte, eftersom den bygger på ett antagande som inte stämde. Produkten skrevs med resten av filen och redovisas i rapporten.
 - **Regel:** innan en produkt hoppas över, jämför alla fält som skrivfilen ändrar (titel, seo, meta, beskrivning) mot live. Titel ensam räcker inte som bevis för att produkten är skriven. Avvikelse från regeln redovisas.

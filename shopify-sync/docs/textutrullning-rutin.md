@@ -53,6 +53,8 @@ Produkter skrivna / totalt, andel med 0 avvikelser i stickprov, antal korrigerin
 | Butik | Läge |
 |---|---|
 | BEST OF SPORTS | Skrivning pågår via MCP (3–5 produkter per mutation). API-väg föreslagen 2026-11-04, väntar på tillåten adress, app och token. |
+| Alpha Zoo | Fas 1 klar 2026-11-04 (publik inventering, genomsökning, profil och tom spärrlista; Admin, Search Console, GA4, Ads och Ahrefs ej åtkomliga). Fas 2 väntar på Davids beslut. |
+| B You Underwear | Fas 1 klar 2026-11-04 (som Alpha Zoo). Fas 2 väntar på Davids beslut. |
 
 ## Tillägg 2026-11-04: kontroller i kod och beslutslogg
 

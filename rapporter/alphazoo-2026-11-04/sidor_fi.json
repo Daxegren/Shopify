@@ -1,0 +1,379 @@
+[
+ {
+  "url": "https://alphazoo.fi/",
+  "status": 200,
+  "slutadress": "https://alphazoo.fi/",
+  "bytes": 535920,
+  "html_lang": "fi",
+  "title": "Alpha Zoo Nordics",
+  "meta_description": "Koiran- ja kissanruokaa korkealaatuisena. Parasta parhaalle, yksinkertaisesti.",
+  "canonical": "https://alphazoo.se/",
+  "robots_meta": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "hreflang": [
+   [
+    "x-default",
+    "https://alphazoo.se/"
+   ],
+   [
+    "sv",
+    "https://alphazoo.se/"
+   ],
+   [
+    "da",
+    "https://alphazoo.se/da"
+   ],
+   [
+    "en",
+    "https://alphazoo.se/en"
+   ],
+   [
+    "fi",
+    "https://alphazoo.se/fi"
+   ],
+   [
+    "nb",
+    "https://alphazoo.se/nb"
+   ],
+   [
+    "da-DK",
+    "https://alphazoo.dk/"
+   ],
+   [
+    "en-DK",
+    "https://alphazoo.dk/en"
+   ],
+   [
+    "sv-DK",
+    "https://alphazoo.dk/sv"
+   ],
+   [
+    "fi-DK",
+    "https://alphazoo.dk/fi"
+   ],
+   [
+    "nb-DK",
+    "https://alphazoo.dk/nb"
+   ],
+   [
+    "fi-FI",
+    "https://alphazoo.fi/"
+   ],
+   [
+    "en-FI",
+    "https://alphazoo.fi/en"
+   ],
+   [
+    "sv-FI",
+    "https://alphazoo.fi/sv"
+   ],
+   [
+    "nb-FI",
+    "https://alphazoo.fi/nb"
+   ],
+   [
+    "nb-NO",
+    "https://alphazoo.no/"
+   ],
+   [
+    "da-NO",
+    "https://alphazoo.no/da"
+   ],
+   [
+    "en-NO",
+    "https://alphazoo.no/en"
+   ],
+   [
+    "sv-NO",
+    "https://alphazoo.no/sv"
+   ],
+   [
+    "fi-NO",
+    "https://alphazoo.no/fi"
+   ]
+  ],
+  "og": {
+   "title": "Alpha Zoo Nordics",
+   "type": "website",
+   "description": "Koiran- ja kissanruokaa korkealaatuisena. Parasta parhaalle, yksinkertaisesti.",
+   "image": "https://alphazoo.fi/cdn/shop/files/herobanner_6e2230a6-3801-4bec-9b56-33eb06840be2_1200x1200.webp?v=1749123721"
+  },
+  "h1": [],
+  "h2_antal": 44,
+  "jsonld_typer": [
+   "Organization",
+   "WebSite"
+  ],
+  "bilder": 72,
+  "bilder_utan_alt": 51,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-8Q71FMJ45F",
+    "G-8Q71FMJ45F",
+    "G-8Q71FMJ45F"
+   ],
+   "gads": [
+    "AW-18353119554",
+    "AW-18353119554",
+    "AW-18353119554"
+   ],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 2086
+ },
+ {
+  "url": "https://alphazoo.fi/products/bajspasar-rosa-smidiga-bajspasar-for-promenaden",
+  "status": 200,
+  "slutadress": "https://alphazoo.fi/products/kakkapussit-vaaleanpunaiset-katevat-kakkapussit-kavelylenkille/",
+  "bytes": 376198,
+  "html_lang": "fi",
+  "title": "Kakkapussit vaaleanpunaiset – Kätevät kakkapussit kävelylenkille — Alpha Zoo",
+  "meta_description": "Kakkapussit Kun ulkoilet koirasi kanssa, tulee aina hetki, jolloin sen on tarpeen tehdä tarpeensa.",
+  "canonical": "https://alphazoo.se/products/kakkapussit-vaaleanpunaiset-katevat-kakkapussit-kavelylenkille",
+  "robots_meta": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "hreflang": [
+   [
+    "x-default",
+    "https://alphazoo.se/products/bajspasar-rosa-smidiga-bajspasar-for-promenaden"
+   ],
+   [
+    "sv",
+    "https://alphazoo.se/products/bajspasar-rosa-smidiga-bajspasar-for-promenaden"
+   ],
+   [
+    "da",
+    "https://alphazoo.se/da/products/hundeposer-rosa-smidige-baeseposer-til-gaturen"
+   ],
+   [
+    "en",
+    "https://alphazoo.se/en/products/poop-bags-pink-convenient-poop-bags-for-your-walk"
+   ],
+   [
+    "fi",
+    "https://alphazoo.se/fi/products/kakkapussit-vaaleanpunaiset-katevat-kakkapussit-kavelylenkille"
+   ],
+   [
+    "nb",
+    "https://alphazoo.se/nb/products/baesjposer-rosa-smidige-baesjposer-for-turen-1"
+   ],
+   [
+    "da-DK",
+    "https://alphazoo.dk/products/hundeposer-rosa-smidige-baeseposer-til-gaturen"
+   ],
+   [
+    "en-DK",
+    "https://alphazoo.dk/en/products/poop-bags-pink-convenient-poop-bags-for-your-walk"
+   ],
+   [
+    "sv-DK",
+    "https://alphazoo.dk/sv/products/bajspasar-rosa-smidiga-bajspasar-for-promenaden"
+   ],
+   [
+    "fi-DK",
+    "https://alphazoo.dk/fi/products/kakkapussit-vaaleanpunaiset-katevat-kakkapussit-kavelylenkille"
+   ],
+   [
+    "nb-DK",
+    "https://alphazoo.dk/nb/products/baesjposer-rosa-smidige-baesjposer-for-turen-1"
+   ],
+   [
+    "fi-FI",
+    "https://alphazoo.fi/products/kakkapussit-vaaleanpunaiset-katevat-kakkapussit-kavelylenkille"
+   ],
+   [
+    "en-FI",
+    "https://alphazoo.fi/en/products/poop-bags-pink-convenient-poop-bags-for-your-walk"
+   ],
+   [
+    "sv-FI",
+    "https://alphazoo.fi/sv/products/bajspasar-rosa-smidiga-bajspasar-for-promenaden"
+   ],
+   [
+    "nb-FI",
+    "https://alphazoo.fi/nb/products/baesjposer-rosa-smidige-baesjposer-for-turen-1"
+   ],
+   [
+    "nb-NO",
+    "https://alphazoo.no/products/baesjposer-rosa-smidige-baesjposer-for-turen-1"
+   ],
+   [
+    "da-NO",
+    "https://alphazoo.no/da/products/hundeposer-rosa-smidige-baeseposer-til-gaturen"
+   ],
+   [
+    "en-NO",
+    "https://alphazoo.no/en/products/poop-bags-pink-convenient-poop-bags-for-your-walk"
+   ],
+   [
+    "sv-NO",
+    "https://alphazoo.no/sv/products/bajspasar-rosa-smidiga-bajspasar-for-promenaden"
+   ],
+   [
+    "fi-NO",
+    "https://alphazoo.no/fi/products/kakkapussit-vaaleanpunaiset-katevat-kakkapussit-kavelylenkille"
+   ]
+  ],
+  "og": {
+   "title": "Kakkapussit vaaleanpunaiset – Kätevät kakkapussit kävelylenkille ",
+   "type": "product",
+   "description": "Kakkapussit Kun ulkoilet koirasi kanssa, tulee aina hetki, jolloin sen on tarpeen tehdä tarpeensa.",
+   "image": "https://alphazoo.fi/cdn/shop/files/Gemini_Generated_Image_2ey5492ey5492ey5_1200x1200.jpg?v=1789986085"
+  },
+  "h1": [],
+  "h2_antal": 16,
+  "jsonld_typer": [
+   "Organization",
+   "BreadcrumbList",
+   "Product",
+   "WebSite"
+  ],
+  "bilder": 18,
+  "bilder_utan_alt": 9,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-8Q71FMJ45F",
+    "G-8Q71FMJ45F",
+    "G-8Q71FMJ45F"
+   ],
+   "gads": [
+    "AW-18353119554",
+    "AW-18353119554",
+    "AW-18353119554"
+   ],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 970
+ },
+ {
+  "url": "https://alphazoo.fi/collections/hundmat",
+  "status": 200,
+  "slutadress": "https://alphazoo.fi/collections/koiranruoka",
+  "bytes": 355702,
+  "html_lang": "fi",
+  "title": "Koiranruoka — Alpha Zoo",
+  "meta_description": "Tutustu laajaan koiranruokavalikoimaamme, joka on kehitetty huolella sekä koirasi terveyttä että ympäristöämme ajatellen. Terveellistä ja edullista.",
+  "canonical": "https://alphazoo.se/collections/koiranruoka",
+  "robots_meta": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "hreflang": [
+   [
+    "x-default",
+    "https://alphazoo.se/collections/hundmat"
+   ],
+   [
+    "sv",
+    "https://alphazoo.se/collections/hundmat"
+   ],
+   [
+    "da",
+    "https://alphazoo.se/da/collections/hundematte"
+   ],
+   [
+    "en",
+    "https://alphazoo.se/en/collections/dog-food"
+   ],
+   [
+    "fi",
+    "https://alphazoo.se/fi/collections/koiranruoka"
+   ],
+   [
+    "nb",
+    "https://alphazoo.se/nb/collections/hundmatte-1"
+   ],
+   [
+    "da-DK",
+    "https://alphazoo.dk/collections/hundematte"
+   ],
+   [
+    "en-DK",
+    "https://alphazoo.dk/en/collections/dog-food"
+   ],
+   [
+    "sv-DK",
+    "https://alphazoo.dk/sv/collections/hundmat"
+   ],
+   [
+    "fi-DK",
+    "https://alphazoo.dk/fi/collections/koiranruoka"
+   ],
+   [
+    "nb-DK",
+    "https://alphazoo.dk/nb/collections/hundmatte-1"
+   ],
+   [
+    "fi-FI",
+    "https://alphazoo.fi/collections/koiranruoka"
+   ],
+   [
+    "en-FI",
+    "https://alphazoo.fi/en/collections/dog-food"
+   ],
+   [
+    "sv-FI",
+    "https://alphazoo.fi/sv/collections/hundmat"
+   ],
+   [
+    "nb-FI",
+    "https://alphazoo.fi/nb/collections/hundmatte-1"
+   ],
+   [
+    "nb-NO",
+    "https://alphazoo.no/collections/hundmatte-1"
+   ],
+   [
+    "da-NO",
+    "https://alphazoo.no/da/collections/hundematte"
+   ],
+   [
+    "en-NO",
+    "https://alphazoo.no/en/collections/dog-food"
+   ],
+   [
+    "sv-NO",
+    "https://alphazoo.no/sv/collections/hundmat"
+   ],
+   [
+    "fi-NO",
+    "https://alphazoo.no/fi/collections/koiranruoka"
+   ]
+  ],
+  "og": {
+   "title": "Koiranruoka",
+   "type": "website",
+   "description": "Tutustu laajaan koiranruokavalikoimaamme, joka on kehitetty huolella sekä koirasi terveyttä että ympäristöämme ajatellen. Terveellistä ja edullista.",
+   "image": "https://alphazoo.fi/cdn/shop/files/herobanner_6e2230a6-3801-4bec-9b56-33eb06840be2_1200x1200.webp?v=1749123721"
+  },
+  "h1": [
+   "Koiranruoka"
+  ],
+  "h2_antal": 25,
+  "jsonld_typer": [
+   "Organization",
+   "BreadcrumbList",
+   "WebSite"
+  ],
+  "bilder": 11,
+  "bilder_utan_alt": 11,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-8Q71FMJ45F",
+    "G-8Q71FMJ45F",
+    "G-8Q71FMJ45F"
+   ],
+   "gads": [
+    "AW-18353119554",
+    "AW-18353119554",
+    "AW-18353119554"
+   ],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 1569
+ }
+]

@@ -1,0 +1,5 @@
+{
+  "butik": "alphazoo",
+  "beskrivning": "Produkter som inte får skrivas av textutrullningen i alphazoo. Samma format som sparrlista.json (BEST OF SPORTS); används med: skrivfil_kontroll.py FIL --sparr shopify-sync/config/sparrlista-alphazoo.json --profil shopify-sync/config/butiksprofil-alphazoo.json. En separat fil per butik valdes för att inte blanda butikers produkt-id och för att kunden i framtiden ska kunna äga sin egen fil. Lägg till spärrar som nya poster; sätt aktiv=false när en spärr hävts. Ta inte bort poster. Tom tills David har beslutat om kategorierna under utanfor_tills_vidare i profilen.",
+  "sparrar": []
+}
