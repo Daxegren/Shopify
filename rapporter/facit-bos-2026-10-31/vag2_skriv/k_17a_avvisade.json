@@ -1,0 +1,52 @@
+[
+ {
+  "id": "10411923276042",
+  "nr": 10323,
+  "skäl": "R3: tre riktiga varianter med olika SKU och pris (AKCA-10 779 kr, AKCA-12 1 609 kr, AKCA-14 1 789 kr); titeln anger 12 kg men källan nämner ingen vikt. v1.7 gäller bara en överbliven Default Title."
+ },
+ {
+  "id": "10462190567690",
+  "nr": 10110,
+  "skäl": "R2/R3: tre varianter med olika SKU (B36WO03/05/06) och pris (25 569 respektive 25 519 kr); källan säger färg orange, alla varianter är purple, titeln Matte Plum. Motsägelsen kan inte skrivas bort. Dessutom kan 10110 vara en av pilotens produkter (mäts 2026-11-22)."
+ },
+ {
+  "id": "10462201839882",
+  "nr": 10258,
+  "skäl": "R3: två riktiga varianter med olika SKU och pris (14TUSCF058 1 549 kr, 14TUSCF059 1 829 kr) och oförklarade namn; titeln anger 15 kg. Källan blandar hantlar och viktskivor."
+ },
+ {
+  "id": "10462774690058",
+  "nr": 10525,
+  "skäl": "R3: två riktiga varianter med olika SKU och mycket olika pris (14TUSGA006 2 119 kr, 14TUSGA005 789 kr) med oförklarade namn; titeln anger 125 cm. Taggen Gymstick rörs inte."
+ },
+ {
+  "id": "10462784880906",
+  "nr": 10513,
+  "skäl": "R3: två riktiga varianter med olika SKU (14TUSFU344/345) och pris (199 och 219 kr); titeln anger storlek och färg som källan inte skiljer åt."
+ },
+ {
+  "id": "10462794776842",
+  "nr": 10307,
+  "skäl": "R3: tre riktiga varianter (Red 339 kr, blue 449 kr, green 249 kr, SKU 14TUSFU111/112/110); titeln anger röd 3,0 kg men källan säger inget om färg eller vikt per variant."
+ },
+ {
+  "id": "10462852284682",
+  "nr": 10254,
+  "skäl": "R3: fem riktiga varianter (SKU 25TUPLA002, 003, 007, 008, 009) med priser 659–2 159 kr och oförklarade namn; titeln anger svart och 5 kg."
+ },
+ {
+  "id": "10468705665290",
+  "nr": 9102,
+  "skäl": "R3: varianter med olika SKU (CB62N1032, CB65N1033, CB68N1034, CB69N1031) och olika pris (M 9 129 kr, övriga 7 939 kr); ingen Default Title. Olika SKU och pris på riktiga varianter avvisas (v1.7). Ser ut som felpris; David avgör."
+ },
+ {
+  "id": "10468744397066",
+  "nr": 10101,
+  "skäl": "R3/R2: Default Title (B36REX06, 111 449 kr) är överbliven, men de riktiga varianterna L / blue (B36REX05, 111 449 kr) och XL / blue (B36REX06, 111 239 kr) har olika SKU och pris. Källan motsäger sig dessutom (EP8 mot EP800, 180 mot 178 mm, ramstorlek S och M båda 38 cm)."
+ },
+ {
+  "id": "10468771004682",
+  "nr": 10278,
+  "skäl": "R3: fem riktiga varianter (SKU 17421, 17423, 17425, 17427, 17429) med priser 469–2 969 kr och oförklarade namn; titeln anger 5 kg."
+ }
+]

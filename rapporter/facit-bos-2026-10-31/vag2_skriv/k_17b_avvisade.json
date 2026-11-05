@@ -1,0 +1,47 @@
+[
+ {
+  "id": "10468771463434",
+  "nr": 10276,
+  "skäl": "R3 (v1.7): tre varianter med olika SKU och pris (Default Title SKU 17433 3 989 kr, 17431 3 419 kr, 17435 4 309 kr). Det är riktiga varianter, inte en överbliven Default Title med samma SKU; titelns 35 kg kan inte låsas. Kvarstår som avvisad."
+ },
+ {
+  "id": "10470888276234",
+  "nr": 10232,
+  "skäl": "R3 (v1.7): två varianter med olika SKU och pris (14TUSCL218 299 kr, 14TUSCL219 319 kr) som källan inte skiljer åt. Källan motsäger sig dessutom om stångens längd (150 cm i texten, 130 cm i detaljerna) och maxvikten står dubbelt. Kvarstår som avvisad."
+ },
+ {
+  "id": "10470968918282",
+  "nr": 10571,
+  "skäl": "R3 (v1.7): två varianter med olika SKU och pris (AHF-094 229 kr, AHF-093 289 kr) som källan inte skiljer åt; titelns 2 x 2,0 kg kan inte låsas. Kvarstår som avvisad."
+ },
+ {
+  "id": "10472211448074",
+  "nr": 10257,
+  "skäl": "R3 (v1.7): två varianter med olika SKU och pris (14TUSCL145 269 kr, 14TUSCL147 769 kr) med oförklarade namn; titelns 5 kg kan inte låsas. Kvarstår som avvisad."
+ },
+ {
+  "id": "10472235663626",
+  "nr": 9314,
+  "skäl": "R3/R2: titeln säger Greenline Set 15 Lux men egen källa beskriver \"AXA Compactline Set 15 Lux\" och har ett trasigt andra avsnitt (TILLBAKA TILL) med motsägande brinntid, laddningstid och synlighet. Sökträffar (smartech.ee, SKU 93939095CB) pekar på Greenline 15 men sidan innehåller samma namnfel och kunde inte hämtas (403); inga entydiga webbkällor kunde läsas. Kvarstår som avvisad."
+ },
+ {
+  "id": "10471064273162",
+  "nr": 10113,
+  "skäl": "Redan skriven: live har taggen texter-klara, ny titel \"Cykel Romet Vintage Eco D\", SEO-beskrivning och standardblock. Ingen ny skrivning (R15). Default Title-varianten (samma SKU 28200712-B) har ignorerats i den skrivna texten enligt v1.7."
+ },
+ {
+  "id": "10471092093194",
+  "nr": 9057,
+  "skäl": "Redan skriven: live har taggen texter-klara, ny titel \"Gravelbike Romet Aspre 1, 700x37c\", SEO och standardblock. Ingen ny skrivning (R15)."
+ },
+ {
+  "id": "10471174668554",
+  "nr": 9416,
+  "skäl": "Redan skriven: live har taggen texter-klara, ny titel \"Reflexklistermärken för Cyklar Bookman\", SEO-beskrivning och standardblock. Ingen ny skrivning (R15)."
+ },
+ {
+  "id": "10472227209482",
+  "nr": 9320,
+  "skäl": "Redan skriven: live har taggen texter-klara, ny titel \"Ljussats M-Wave Cobra, Flera Färger\", SEO och standardblock med färgvalsinstruktionen bevarad. Ingen ny skrivning (R15)."
+ }
+]
