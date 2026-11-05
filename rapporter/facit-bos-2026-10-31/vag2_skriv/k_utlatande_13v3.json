@@ -1,0 +1,23 @@
+[
+ {
+  "nr": 10119,
+  "id": "10471174668554",
+  "fil": "k_13a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Godkänd av Opus (k_utlatande_13v2) i sak; säkerhetsprodukt släppt av David 2026-11-05 ('Ja, skriv reflexklistermärkena')."
+ },
+ {
+  "nr": 10120,
+  "id": "10665228075274",
+  "fil": "k_13b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Reflekterande klistermärken från Bookman i flammönster som kan fästas på cykeln eller hjälmen.",
+    "efter": "Bookmans reflekterande klistermärken har flammönster och kan fästas på cykeln eller hjälmen."
+   }
+  },
+  "skal": "Opus rättning (meta saknade verb); David 2026-11-05 ja."
+ }
+]
