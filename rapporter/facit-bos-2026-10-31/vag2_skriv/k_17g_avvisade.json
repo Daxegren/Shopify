@@ -1,0 +1,74 @@
+[
+ {
+  "id": "10523491467530",
+  "nr": 9439,
+  "skäl": "Tunn källa (R3): live-beskrivningen är helt tom, titeln är enda källa. Enda variant är Default Title (SKU 510000013), så varianterna hindrar inte. Webbsökning (Giants egna sidor för Ding-A-Ling Flick) gav ingen entydig uppgift för just svart Flick (varken färg, mått, klämmått eller material); resultaten gällde Slim/Mini.",
+  "titel_nu": "Cykelklocka GIANT DING-A-LING Flick, Svart"
+ },
+ {
+  "id": "10541369098506",
+  "nr": 10122,
+  "skäl": "Två varianter med olika SKU (490000099 och 490000095, båda 109 kr) utan förklarande namn; v1.7 undantar bara samma SKU. Titeln låser Svart/Blå och (L) men färg och sida kan inte styrkas för båda varianterna (R3).",
+  "titel_nu": "Flaskhållare GIANT Airway Sport Sidepull (L), Svart/Blå"
+ },
+ {
+  "id": "10541372801290",
+  "nr": 10335,
+  "skäl": "Sex varianter med olika SKU och olika pris (25TUPLA071 389 kr; 070, 072-075 679 kr) och oförklarade namn. Titeln anger 8 kg men varianterna stödjer det inte (R3). Ingen live-beskrivning att bygga på.",
+  "titel_nu": "Kettlebell TUNTURI Platinum gjutjärn 8 kg"
+ },
+ {
+  "id": "10548291469578",
+  "nr": 7115,
+  "skäl": "Två varianter med olika SKU och olika pris: Default Title K25/2/3/1/19 (11 169 kr) och M / black K25/2/3/1/17 (11 239 kr). v1.7 gäller bara samma SKU, så avvisas (R3). Dessutom tidigare noterad trasig källa och lastuppgift (R4).",
+  "titel_nu": "Cykel med extra låg ram LEADER FOX Ema 26\" Lady, Svart"
+ },
+ {
+  "id": "10581097054474",
+  "nr": 9452,
+  "skäl": "Tunn källa (R3): live-beskrivningen är en mening (\"levereras med dörrankare\") och inget annat utöver titeln, alltså bara ett entydigt faktum. Ingen webbkälla funnen som entydigt gäller Gymstick Aktiv (SKU 72009). Enda variant Default.",
+  "titel_nu": "Träningsslang Gymstick Aktiv med Dörrankare"
+ },
+ {
+  "id": "10581100888330",
+  "nr": 10014,
+  "skäl": "Tunn källa (R3): live-beskrivningen har bara syfte (fotbollsträning, agility) och \"kompakt mål\"; inga mått eller material, och oklart om produkten är nät eller komplett mål. Webbsökning på SKU 53155 gav inga träffar för Gymstick. Marknadsföringsord (R5) utelämnas.",
+  "titel_nu": "Court Mini Goal Net"
+ },
+ {
+  "id": "10581101641994",
+  "nr": 3042,
+  "skäl": "Sju varianter med olika SKU och priser 2 039-4 789 kr (10CURVED, 15, 20COM, 20PRE, 20, BH6, HB182), oförklarade (R3). Skivstång med belastning: säkerhetsprodukt, ingen ordagrann svensk lastgräns i källan (R4).",
+  "titel_nu": "10kg Curved Bar"
+ },
+ {
+  "id": "10581102231818",
+  "nr": 3050,
+  "skäl": "Två varianter med olika SKU och pris (61070-15 1 139 kr, 61070-20 1 449 kr) trots titeln 15 kg (R3). Justerbara hantlar med lås och last: säkerhetsprodukt utan ordagrann svensk lastgräns (R4).",
+  "titel_nu": "Adjustable Dumbbell Set 15kg"
+ },
+ {
+  "id": "10581104230666",
+  "nr": 10137,
+  "skäl": "Tunn källa (R2, R3): live-källan säger bara \"justerbart handtag\" som anpassar motstånd och grepp, utan typ, mått eller material; resten är marknadsföring (R5). Två varianter L och S med olika SKU (61055-L, 61055-S, båda 169 kr) utan förklaring.",
+  "titel_nu": "Justerbart handtag, lätt"
+ },
+ {
+  "id": "10581104427274",
+  "nr": 9889,
+  "skäl": "Tre varianter med olika SKU (61200-BL, -BLU, -PI) och oförklarade namn; titeln låser Svart-Röd (R3). Ingen live-beskrivning att bygga på.",
+  "titel_nu": "Air Track 300 x 100 x 10cm, Svart-Röd"
+ },
+ {
+  "id": "10581104492810",
+  "nr": 3054,
+  "skäl": "Fyra varianter med olika SKU och pris (03BL och 03R 399 kr, 01 199 kr, 07 159 kr) trots titeln 'svart' (R3). Ingen live-beskrivning att bygga på.",
+  "titel_nu": "Aluminiumhalsband 50mm, svart"
+ },
+ {
+  "id": "10581104918794",
+  "nr": 9896,
+  "skäl": "Tunn källa (R3, R5): live-källan har bara skydds-, säkerhets- och stötdämpningspåståenden (nackskydd för tunga lyft) utan mått, material eller andra fakta. Webbsökning gav ingen produktsida för Gymstick Barbell Pad Pro. Enda variant Default (SKU 61253).",
+  "titel_nu": "Barbell Pad Pro"
+ }
+]
