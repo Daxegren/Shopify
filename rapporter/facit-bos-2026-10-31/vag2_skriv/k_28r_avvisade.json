@@ -1,0 +1,17 @@
+[
+ {
+  "id": "10502528008458",
+  "nr": 28208,
+  "skäl": "Lastcykeldel (kalesch/ram för lastcykel) med tom källa: ingen beskrivning, bara titel och SKU. Tunn källa (R3) och lastcykeldelar avvisas."
+ },
+ {
+  "id": "10515754516746",
+  "nr": 28215,
+  "skäl": "R3: titeln säger \"med LED-belysning\" men källan nämner varken belysning eller färg, så titel och källa stämmer inte och färg saknas för unikhet. Webbkoll på SKU/EAN 4751036030139 gav ingen entydig träff på exakt modell. Belysning ligger dessutom utanför. Lyfts till handläggning."
+ },
+ {
+  "id": "10523491434762",
+  "nr": 28216,
+  "skäl": "Tom källa (ingen beskrivning): bara titel och SKU, inga fakta att skriva. Träningshjul är en stödanordning för barncykel (bärande del utan lastgräns i egen källa). Tunn källa (R3)."
+ }
+]
