@@ -1,0 +1,17 @@
+[
+ {
+  "id": "10462767284490",
+  "nr": 32002,
+  "skäl": "Tom live-källa (bara titeln Continental Ride Tour 42-622/28x1.60) och cykeldäck är säkerhetskritisk del med säkerhetsfunktion; ingen lastgräns eller andra fakta hämtades, och R3 (tunn källa, färre än två entydiga fakta utöver titeln) och utkastreglerna för däck stoppar. Lyft till David om däck ska skrivas."
+ },
+ {
+  "id": "10462846943498",
+  "nr": 32004,
+  "skäl": "Tom live-källa (bara titeln Adjustable dumbbell stand HAMMER Stronglock). Webbsök på EAN 4005251173554 gav ingen entydig träff på exakt denna modell (bara StrongLock 4.0-stativ och andra märkens stativ) och ingen lastgräns, så R3 (tunn källa) och R1 (entydig källa för exakt modellen) stoppar. Hantelstativ bär last och \"Ej känd\" på en produkt utan någon beskrivande fakta ger ingen text att bygga på."
+ },
+ {
+  "id": "10470929334538",
+  "nr": 32005,
+  "skäl": "Två varianter med olika pris och SKU (Default Title 629 kr/230000103 och sinine = blå 489 kr/230000104) där Default Title saknar angiven färg; går inte att avgöra att de är samma artikel (v1.9). Källan har dessutom maskinöversatta estniska rader (R2). Avvisas som oförklarade varianter."
+ }
+]

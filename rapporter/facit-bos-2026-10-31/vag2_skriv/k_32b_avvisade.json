@@ -1,0 +1,17 @@
+[
+ {
+  "id": "10472240414986",
+  "nr": 32015,
+  "skäl": "Källan motsäger sig (R3): titeln 'Tirr' och modellen MF-TZ500-7 är ett skruvbart frihjul, men beskrivningen kallar delen 'kassettnav' och 'kassett'. Typen är oklar, avvisas hellre än gissas."
+ },
+ {
+  "id": "10472241168650",
+  "nr": 32019,
+  "skäl": "Titelns axellängd 115 mm finns inte bland de UN300-längder som webben anger (107, 110, 113, 117.5, 118, 127.5 mm); tom beskrivning och ingen entydig källa för just 115 mm. Avvisas (R1/R3)."
+ },
+ {
+  "id": "10472243593482",
+  "nr": 32024,
+  "skäl": "Framnav HB-TX506 är hjulets bärande del och har enligt webben 6-bultsfäste för skivbroms (bromsrelaterad del); tom beskrivning, tunn källa. Avvisas hellre än skrivs med 'Ej känd' (säkerhetskritisk)."
+ }
+]
