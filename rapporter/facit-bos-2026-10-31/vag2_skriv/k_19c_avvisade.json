@@ -1,0 +1,32 @@
+[
+ {
+  "id": "10636601655562",
+  "nr": 20026,
+  "titel": "Boxningssäck MAXXUS Vatten & Luft 100cm/26kg",
+  "skäl": "R3: titeln anger 100 cm men specifikationen i källan anger längd 120 cm (motsägelse mellan titel och källa); kan inte skrivas utan att gissa. Möjlig dubblett av 9720 \"Boxningssäck Excalibur Workout 100, 26 kg\" (10636659687690, redan skriven)."
+ },
+ {
+  "id": "10636609224970",
+  "nr": 20028,
+  "titel": "Suspensionstränare TRYM",
+  "skäl": "Hängande/bärande produkt (suspensionstränare, kroppsvikten hänger i banden): v1.7/R4 kräver ordagrann svensk lastgräns; källan anger ingen och webbsökning gav ingen entydig uppgift för exakt TRYM-modellen. Kräver Davids ja per produkt."
+ },
+ {
+  "id": "10636616696074",
+  "nr": 20029,
+  "titel": "Träningsmatta Yogamatta Movit 183x60cm",
+  "skäl": "R3/v1.7: 12 färgvarianter med olika SKU (20040605–20040616); olika SKU på riktiga varianter avvisas."
+ },
+ {
+  "id": "10636616925450",
+  "nr": 20030,
+  "titel": "Träningsmatta Yogamatta Movit 190x60cm",
+  "skäl": "R3/v1.7: 12 färgvarianter med olika SKU (20040319–20040478); olika SKU på riktiga varianter avvisas."
+ },
+ {
+  "id": "10636617122058",
+  "nr": 20031,
+  "titel": "Träningsmatta Yogamatta Movit 190x100cm",
+  "skäl": "R3/v1.7: 12 färgvarianter med olika SKU (20040300–20040475); olika SKU på riktiga varianter avvisas."
+ }
+]

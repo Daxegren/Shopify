@@ -1,0 +1,62 @@
+[
+ {
+  "id": "10411902402826",
+  "nr": 20001,
+  "titel_nu": "Kicksparkcykel Versatyl Cosmopolitan V2 Pro Scooter Black",
+  "skal": "R6 (barn): källan anger \"Lämplig för ryttare som är 130-145 cm långa\", alltså junior/barnstorlek. Samma bedömning som tidigare utlåtande 9334 (UNDERKÄND, barnsparkcyklar utanför tills David beslutat) och Union Lite 9330/9331. Utkast finns i k_05a_utkast.json om David frisläpper juniormodeller. Lastkapacitet 100 kg är ordagrann svensk (R4) och kunde skrivas."
+ },
+ {
+  "id": "10471174832394",
+  "nr": 20002,
+  "titel_nu": "Reflexklistermärken för cykel BOOKMAN Reflective Stickers for Bicycles, White Leopard",
+  "skal": "Reflexprodukt (säkerhetsprodukt, standard §12): kräver Davids ja per produkt. Tidigare utkast finns (9 b_9/k_07a)."
+ },
+ {
+  "id": "10472218034442",
+  "nr": 20003,
+  "titel_nu": "Cykelväska Basil Sport Design Commuter Bag, 18 l",
+  "skal": "Väska med lastgräns i källan (\"Bärkapacitet: 5 kg\"). Standard §12 (David 2026-11-03): korgar och väskor med lastgräns i källan skrivs inte. Tidigare utlåtande UNDERKÄND (9413). Kräver Davids beslut att släppa gruppen; R4/§16.3 skulle då tillåta \"enligt tillverkaren\"."
+ },
+ {
+  "id": "10472224588042",
+  "nr": 20004,
+  "titel_nu": "Basil Boheme bike bag",
+  "skal": "Väska med lastgräns i källan (\"Bärkapacitet: upp till 2,5 kg\"). Standard §12: skrivs inte. Tidigare utlåtande UNDERKÄND (9412). Titeln \"Basil Boheme bike bag\" är dessutom engelsk, typord saknas."
+ },
+ {
+  "id": "10472237170954",
+  "nr": 20005,
+  "titel_nu": "Cykelklocka Azimut Mini 5 mm",
+  "skal": "R3: live-titeln anger \"5 mm\" men källan säger \"diameter 35 mm\"; tunn källa (bara en mening, ett faktum utöver titeln). Tidigare utlåtande UNDERKÄND (9403): webbsökning på Azimut BELL53 gav ingen tillverkarsida, så uppgiften utelämnas (v1.6)."
+ },
+ {
+  "id": "10472251392266",
+  "nr": 20007,
+  "titel_nu": "Handväska BASIL Bloom Field 8-11L, blå-blommig",
+  "skal": "Väska med lastgräns i källan (\"Bärkapacitet: upp till 5 kg\"). Standard §12: skrivs inte. Kräver Davids beslut att släppa gruppen."
+ },
+ {
+  "id": "10472303067402",
+  "nr": 20008,
+  "titel_nu": "Reflexer BOOKMAN Reflective Snap Bands för arm och ben, svart",
+  "skal": "Reflexprodukt (säkerhetsprodukt, standard §12): kräver Davids ja per produkt. Källan lovar dessutom synlighet 360 grader och säkerhet."
+ },
+ {
+  "id": "10472303788298",
+  "nr": 20009,
+  "titel_nu": "Reflexklistermärken för cykel BOOKMAN Reflective Stickers for Bicycles, Black Zebra",
+  "skal": "Reflexprodukt (säkerhetsprodukt, standard §12): kräver Davids ja per produkt."
+ },
+ {
+  "id": "10472334360842",
+  "nr": 20010,
+  "titel_nu": "Damcykel ROMET Jolene 6.2, 26\" 19\" L, vit-lila",
+  "skal": "R6 (barn/ungdom): källan kallar produkten \"mountainbike designad för kvinnor och ungdomar\" och \"för ungdomar\". Ungdomscyklar avvisas tills David beslutat (tidigare utlåtande UNDERKÄND, 9200). Storlek L (165-180 cm) och typordet Damcykel talar för vuxen; utkast finns i k_02d_utkast.json om David säger ja."
+ },
+ {
+  "id": "10475361206538",
+  "nr": 20011,
+  "titel_nu": "Cykelstöd för 16-20 tums cyklar",
+  "skal": "Cykelstöd (bärande del, bär cykelns vikt) utan ordagrann svensk lastgräns i källan (R4/v1.7), och \"16-20 tum\" är barncykelstorlek (R6). Tidigare utlåtande UNDERKÄND (9404, 8056). Kräver Davids beslut."
+ }
+]
