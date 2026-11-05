@@ -1,0 +1,32 @@
+[
+ {
+  "id": "10548248215818",
+  "nr": 28243,
+  "skäl": "Reflekterande klistermärken (reflexer) räknas som säkerhetsprodukter med synlighetslöfte (standard §12) och skrivs inte i vågor; källan lovar säkerhet och synlighet i trafiken (\"mer synlig i trafiken\", \"säkerhet på din cykel\") och nämner hjälmar. Kräver Davids ja per produkt."
+ },
+ {
+  "id": "10548295368970",
+  "nr": 28245,
+  "skäl": "Elcykel med motor, batteri och belysning (Bafang 250 W, LG 518,4 Wh, fram-/bakljus): avvisas enligt uppdraget. Dessutom R3/v1.8: varianterna har olika färg (white K25/5/23/2, black K25/5/23/1) medan live-titeln anger Vit; olika färg mellan varianter avvisas."
+ },
+ {
+  "id": "10572637012234",
+  "nr": 28247,
+  "skäl": "Stödhjul/sidohjul för barncyklar: bärande, säkerhetskritisk del utan ordagrann svensk lastgräns i källan (R4). Källan säger också \"Reservhjul\" och \"Ej lämpliga för cyklar med utanpåliggande växlar\"."
+ },
+ {
+  "id": "10581100265738",
+  "nr": 28248,
+  "skäl": "Fristående innebandymål (ställning/konstruktion med tippningsrisk, avvisningsgrupp ställningar). Källan är dessutom tunn (R3): inga mått, material eller förankring, bara omdömen (\"robust\", \"stadiga konstruktion garanterar stabilitet\"), som är otillåtna stabilitetspåståenden utan källa (R5)."
+ },
+ {
+  "id": "10581100396810",
+  "nr": 28249,
+  "skäl": "Fristående fotbollsmål (ställning/konstruktion med tippningsrisk). Källan är tunn (R3): inga mått, material eller förankring, bara omdömen (\"robust och hållbart\") som är otillåtna kvalitetspåståenden (R5)."
+ },
+ {
+  "id": "10589703373066",
+  "nr": 28250,
+  "skäl": "Dubblett (R12a): samma modell och färg, Flickcykel Romet Panda 1 vit-blå, finns redan skriven som 10472297398538 (ACTIVE, texter-klara, SKU 24130063-B, 7209 kr; denna har SKU 24130063-C, 7219 kr). Titel och SEO skulle krocka; kräver beslut av David (t.ex. skilja på ramstorlek)."
+ }
+]

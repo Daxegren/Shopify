@@ -1,0 +1,230 @@
+[
+ {
+  "nr": 28217,
+  "id": "10523491533066",
+  "fil": "k_28s_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live (API 2026-11-05): ACTIVE, 'Barncykel TABOU Venom Lite, 27,5\" 17\" L, röd-svart', variant Default Title/TAB25-8130/8929 kr. Aluminium, L (17 tum), ca 150–170 cm (en gång enligt tillverkaren), Shimano Essa, 8 växlar, V-bromsar, 10,5 kg, fästpunkter och stöd stämmer. Typordet Cykel har stöd i källtexten ('är en mångsidig cykel'), R7; Barncykel passar dåligt med 150–170 cm. Shimano Essa är ingen felstavning: ESSA är Shimanos 8-växlade grupp (mekanisk). 27,5 tum rätt utelämnat ur titeln. 'Ultralätt', 'unga människor', 'bekväm ramgeometri' borta."
+ },
+ {
+  "nr": 28218,
+  "id": "10523491598602",
+  "fil": "k_28s_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live (API 2026-11-05): ACTIVE, 'Barncykel TABOU Venom Lite, 27.5\" 15\" M, blå-svart', variant Default Title/TAB25-8150/8929 kr. Som 28217: M (15 tum), ca 145–160 cm, Shimano Essa, 8 växlar, V-bromsar, 10,5 kg, fästpunkter och stöd stämmer. Typord Cykel stöds av källan. Unik mot 28217 (färg)."
+ },
+ {
+  "nr": 28220,
+  "id": "10523491696906",
+  "fil": "k_28s_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Barncykel Tabou Miss MG 14, Rosa-Lila",
+    "efter": "Barncykel Tabou Miss MG, 14 tum, Rosa-Lila"
+   },
+   "seo_title": {
+    "fore": "Barncykel Tabou Miss MG 14, Rosa-Lila",
+    "efter": "Barncykel Tabou Miss MG, 14 tum, Rosa-Lila"
+   },
+   "meta": {
+    "fore": "Barncykeln Tabou Miss MG 14 i rosa-lila har magnesiumram, 1 växel och V-bromsar. Cykeln väger 6 kg, och stödhjul och kedjeskydd ingår.",
+    "efter": "Barncykeln Tabou Miss MG (14 tum) i rosa-lila har magnesiumram, 1 växel och V-bromsar. Cykeln väger 6 kg, och stödhjul och kedjeskydd ingår."
+   }
+  },
+  "skal": "Live (API 2026-11-05): ACTIVE, 'Lätt barncykel TABOU Miss MG, 14\" rosa-lila', variant Default Title/TAB27-0100/6599 kr. Magnesiumram, aluminium i gaffel/fälgar/vevarmar, 22 cm, ca 95–110 cm, 1 växel, V-bromsar, 6 kg, stödhjul och kedjeskydd stämmer. 'Lätt', 'för flickor', 'maximal säkerhet' borta. Rättning: talet 14 står inte i källans modellnamn ('Tabou Miss MG') utan är hjulstorleken ur live-titeln (14\"). 'Miss MG 14'-formen ser ut som ett modellnamn; batchernas praxis för Tabou-modeller utan tal i namnet är ', 14 tum,' (28092, 28112, 28170, 28180 m.fl.). Queen 20/24/26 har talet i källans modellnamn och rättas inte."
+ },
+ {
+  "nr": 28221,
+  "id": "10523491729674",
+  "fil": "k_28s_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Barncykel Tabou Miss MG 18, Rosa-Lila",
+    "efter": "Barncykel Tabou Miss MG, 18 tum, Rosa-Lila"
+   },
+   "seo_title": {
+    "fore": "Barncykel Tabou Miss MG 18, Rosa-Lila",
+    "efter": "Barncykel Tabou Miss MG, 18 tum, Rosa-Lila"
+   },
+   "meta": {
+    "fore": "Barncykeln Tabou Miss MG 18 i rosa-lila har magnesiumram, 1 växel och V-bromsar. Cykeln väger 7 kg, och stödhjul och kedjeskydd ingår.",
+    "efter": "Barncykeln Tabou Miss MG (18 tum) i rosa-lila har magnesiumram, 1 växel och V-bromsar. Cykeln väger 7 kg, och stödhjul och kedjeskydd ingår."
+   }
+  },
+  "skal": "Live (API 2026-11-05): ACTIVE, 'Ultralätt barncykel TABOU Miss MG, 18\" rosa-lila', variant Default Title/TAB27-0160/6819 kr. Magnesium, 7 kg, ca 110–122 cm, 1 växel, V-bromsar, stödhjul och kedjeskydd stämmer. 'Rammaterial: 24 cm' tolkas som ramstorlek: Ram: magnesium står separat och ett material kan inte vara 24 cm; samma tolkning godkändes i 28093 och 28095 (k_28efgh). Anm.: elcykelbatcherna b_42–b_44 utelämnade i stället felmärkt 'Rammaterial' – se beslut. Rättning: talet 18 står inte i källans modellnamn ('Tabou Miss MG') utan är hjulstorleken ur live-titeln (18\"). 'Miss MG 14'-formen ser ut som ett modellnamn; batchernas praxis för Tabou-modeller utan tal i namnet är ', 18 tum,' (28092, 28112, 28170, 28180 m.fl.). Queen 20/24/26 har talet i källans modellnamn och rättas inte."
+ },
+ {
+  "nr": 28226,
+  "id": "10526099276042",
+  "fil": "k_28s_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Barncykel Tabou Miss MG 16, Rosa-Lila",
+    "efter": "Barncykel Tabou Miss MG, 16 tum, Rosa-Lila"
+   },
+   "seo_title": {
+    "fore": "Barncykel Tabou Miss MG 16, Rosa-Lila",
+    "efter": "Barncykel Tabou Miss MG, 16 tum, Rosa-Lila"
+   },
+   "meta": {
+    "fore": "Barncykeln Tabou Miss MG 16 i rosa-lila har magnesiumram, 1 växel och V-bromsar. Cykeln väger 6,5 kg, och stödhjul och kedjeskydd ingår.",
+    "efter": "Barncykeln Tabou Miss MG (16 tum) i rosa-lila har magnesiumram, 1 växel och V-bromsar. Cykeln väger 6,5 kg, och stödhjul och kedjeskydd ingår."
+   }
+  },
+  "skal": "Live (API 2026-11-05): ACTIVE, 'Ultralätt barncykel TABOU Miss MG, 16\" rosa-lila', variant Default Title/TAB27-0130/6629 kr. Magnesium, 22,5 cm, ca 105–115 cm, 1 växel, V-bromsar, 6,5 kg, stödhjul och kedjeskydd stämmer. Rättning: talet 16 står inte i källans modellnamn ('Tabou Miss MG') utan är hjulstorleken ur live-titeln (16\"). 'Miss MG 14'-formen ser ut som ett modellnamn; batchernas praxis för Tabou-modeller utan tal i namnet är ', 16 tum,' (28092, 28112, 28170, 28180 m.fl.). Queen 20/24/26 har talet i källans modellnamn och rättas inte."
+ },
+ {
+  "nr": 28227,
+  "id": "10526099636490",
+  "fil": "k_28s_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Barncykel Tabou Miss MG 16, Rosa-Mint",
+    "efter": "Barncykel Tabou Miss MG, 16 tum, Rosa-Mint"
+   },
+   "seo_title": {
+    "fore": "Barncykel Tabou Miss MG 16, Rosa-Mint",
+    "efter": "Barncykel Tabou Miss MG, 16 tum, Rosa-Mint"
+   },
+   "meta": {
+    "fore": "Barncykeln Tabou Miss MG 16 i rosa-mint har magnesiumram, 1 växel och V-bromsar. Cykeln väger 6,5 kg, och stödhjul och kedjeskydd ingår.",
+    "efter": "Barncykeln Tabou Miss MG (16 tum) i rosa-mint har magnesiumram, 1 växel och V-bromsar. Cykeln väger 6,5 kg, och stödhjul och kedjeskydd ingår."
+   }
+  },
+  "skal": "Live (API 2026-11-05): ACTIVE, 'Ultralätt barncykel TABOU Miss MG, 16\" rosa-mint', variant Default Title/TAB27-0120/6629 kr. Som 28226, färg rosa-mint; unik mot 28226. Rättning: talet 16 står inte i källans modellnamn ('Tabou Miss MG') utan är hjulstorleken ur live-titeln (16\"). 'Miss MG 14'-formen ser ut som ett modellnamn; batchernas praxis för Tabou-modeller utan tal i namnet är ', 16 tum,' (28092, 28112, 28170, 28180 m.fl.). Queen 20/24/26 har talet i källans modellnamn och rättas inte."
+ },
+ {
+  "nr": 28219,
+  "id": "10523491631370",
+  "fil": "k_28s_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Barncykel Tabou Rocket Alu 16, Svart-Röd",
+    "efter": "Barncykel Tabou Rocket Alu, 16 tum, Svart-Röd"
+   },
+   "seo_title": {
+    "fore": "Barncykel Tabou Rocket Alu 16, Svart-Röd",
+    "efter": "Barncykel Tabou Rocket Alu, Svart-Röd"
+   },
+   "meta": {
+    "fore": "Barncykeln Tabou Rocket Alu 16 i svart-röd har aluminiumram, 1 växel, V-broms och fotbroms. Cykeln väger 8,7 kg utan tillbehör. Avtagbara stödhjul ingår.",
+    "efter": "Barncykeln Tabou Rocket Alu (16 tum) i svart-röd har aluminiumram, 1 växel, V-broms och fotbroms. Den väger 8,7 kg utan tillbehör. Stödhjul ingår."
+   }
+  },
+  "skal": "Live (API 2026-11-05): ACTIVE, 'Barncykel TABOU Rocket Alu, 16\" svart-röd', variant Default Title/TAB27-0370/4809 kr. Aluminium, 25 cm, ca 105–115 cm, 1 växel, V-broms + fotbroms, 8,7 kg utan tillbehör, avtagbara stödhjul, skjutstång, korg och ingår-listan stämmer. 'Utmärkt första cykel', 'lära sig cykla' borta. Inte dubblett av 28019 (18 tum, svart-blå) eller 28225 (14 tum). Rättning: talet 16 står inte i källans modellnamn ('Tabou Rocket') utan är hjulstorleken ur live-titeln (16\"). 'Miss MG 14'-formen ser ut som ett modellnamn; batchernas praxis för Tabou-modeller utan tal i namnet är ', 16 tum,' (28092, 28112, 28170, 28180 m.fl.). Queen 20/24/26 har talet i källans modellnamn och rättas inte. SEO-titeln utan '16 tum' (45 tecken annars), som 28230; meta kortas med 'Den väger' för att rymmas (155)."
+ },
+ {
+  "nr": 28222,
+  "id": "10523491762442",
+  "fil": "k_28s_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live (API 2026-11-05): ACTIVE, 'Fritidscykel för tjejer TABOU Queen 26, rosa-vit', variant Default Title/TAB26-1720/7929 kr. Typordet Stadscykel har stöd: källan säger ordagrant 'Tabou Queen 26 är en stadscykel för tjejer' (R7 tillåter byte när egen källtext använder ordet). Aluminium, 'Rammstorlek' 38 cm, ca 140–160 cm, Shimano Acera, 8 växlar, V-bromsar, ca 14 kg stämmer; 'låg ram' är fakta ur källan, komfortpåståendet borta. Pakethållare och fram- och bakljus står bara som medföljande delar utan lastgräns eller funktionspåstående: godtagbart. 26 i källans modellnamn."
+ },
+ {
+  "nr": 28223,
+  "id": "10523491795210",
+  "fil": "k_28s_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Barncykel Tabou Miss 16, Rosa-Vit",
+    "efter": "Barncykel Tabou Miss, 16 tum, Rosa-Vit"
+   },
+   "seo_title": {
+    "fore": "Barncykel Tabou Miss 16, Rosa-Vit",
+    "efter": "Barncykel Tabou Miss, 16 tum, Rosa-Vit"
+   },
+   "meta": {
+    "fore": "Barncykeln Tabou Miss 16 i rosa-vit har stålram, 1 växel, V-broms och fotbroms. Cykeln väger 9,1 kg utan tillbehör. Stödhjul och främre korg ingår.",
+    "efter": "Barncykeln Tabou Miss (16 tum) i rosa-vit har stålram, 1 växel, V-broms och fotbroms. Cykeln väger 9,1 kg utan tillbehör. Stödhjul och främre korg ingår."
+   }
+  },
+  "skal": "Live (API 2026-11-05): ACTIVE, 'Barncykel TABOU Miss, 16\" rosa-vit', variant Default Title/TAB27-0270/4409 kr. Stål, 25 cm, ca 105–115 cm, 1 växel, V-broms + fotbroms, 9,1 kg utan tillbehör och ingår-listan stämmer. 'Slitstarkt', 'säker bromsning', 'stabil körställning' borta. Rättning: talet 16 står inte i källans modellnamn ('Tabou Miss') utan är hjulstorleken ur live-titeln (16\"). 'Miss MG 14'-formen ser ut som ett modellnamn; batchernas praxis för Tabou-modeller utan tal i namnet är ', 16 tum,' (28092, 28112, 28170, 28180 m.fl.). Queen 20/24/26 har talet i källans modellnamn och rättas inte."
+ },
+ {
+  "nr": 28224,
+  "id": "10525598023946",
+  "fil": "k_28s_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Barncykel Tabou Mini FR 14, Rosa-Lila",
+    "efter": "Barncykel Tabou Mini FR, 14 tum, Rosa-Lila"
+   },
+   "seo_title": {
+    "fore": "Barncykel Tabou Mini FR 14, Rosa-Lila",
+    "efter": "Barncykel Tabou Mini FR, 14 tum, Rosa-Lila"
+   },
+   "meta": {
+    "fore": "Barncykeln Tabou Mini FR 14 i rosa-lila har aluminiumram och 1 växel. Ramstorleken är 23,5 cm, enligt tillverkaren för cyklister ca 95–110 cm.",
+    "efter": "Barncykeln Tabou Mini FR (14 tum) i rosa-lila har aluminiumram och 1 växel. Ramstorleken är 23,5 cm, enligt tillverkaren för cyklister ca 95–110 cm."
+   }
+  },
+  "skal": "Live (API 2026-11-05): ACTIVE, 'Barncykel TABOU Mini FR, 14\" rosa-lila', variant Default Title/TAB25-6800/5789 kr. Aluminium i ram, fälgar och vevparti, 23,5 cm (entydig del av 'Aluminium:::: 23,5 cm', som 28170), ca 95–110 cm, 1 växel stämmer. Fyra fakta utöver titeln, alltså inte för tunn (R3). Ursprung (Polen) och säkerhetsord borta. Inte dubblett av skrivna 28017 (Mini FR 18 tum, rosa-lila). Rättning: talet 14 står inte i källans modellnamn ('Tabou Mini FR') utan är hjulstorleken ur live-titeln (14\"). 'Miss MG 14'-formen ser ut som ett modellnamn; batchernas praxis för Tabou-modeller utan tal i namnet är ', 14 tum,' (28092, 28112, 28170, 28180 m.fl.). Queen 20/24/26 har talet i källans modellnamn och rättas inte."
+ },
+ {
+  "nr": 28228,
+  "id": "10526099800330",
+  "fil": "k_28s_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live (API 2026-11-05): ACTIVE, 'Barncykel TABOU Queen 20, korallvit', variant Default Title/TAB26-1680/6629 kr. Aluminium, 'Rammaterial: 28 cm' som ramstorlek (samma tolkning som godkända 28095 Queen 20 vit-mint, där webbkoll mot smartech.ee gav 'Frame size: 28 cm'), ca 115–130 cm, Shimano Tourney, 6 växlar, V-bromsar, 12 kg och ingår-listan stämmer. Pakethållare och ljus bara som medföljande delar. Inte dubblett av 28095 (annan färg)."
+ },
+ {
+  "nr": 28229,
+  "id": "10526099865866",
+  "fil": "k_28t_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live (API 2026-11-05): ACTIVE, 'Barncykel TABOU Queen 24, rosa-vit', variant Default Title/TAB26-1700/7009 kr. Aluminium, 'Rammaterial: 32 cm' som ramstorlek (som 28228/28095), ca 125–145 cm, Shimano Tourney, 7 växlar, V-bromsar, ca 13 kg och medföljande delar stämmer. 'Medföljer' i stället för batch s 'Ingår' är godtagbart (båda används i tidigare batcher)."
+ },
+ {
+  "nr": 28230,
+  "id": "10526099898634",
+  "fil": "k_28t_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live (API 2026-11-05): ACTIVE, 'Ultralätt barncykel TABOU Rocket MG, 16\" röd-orange', variant Default Title/TAB27-0040/6629 kr. Magnesium, aluminium i gaffel/fälgar/vevar, 22,5 cm, ca 105–115 cm, 1 växel, V-bromsar, 6,5 kg, stödhjul och kedjeskydd stämmer. Titelformen ', 16 tum,' följer praxis. 'Ultralätt', 'för pojkar', 'maximal säkerhet' borta."
+ },
+ {
+  "nr": 28231,
+  "id": "10526100553994",
+  "fil": "k_28t_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live (API 2026-11-05): ACTIVE, 'Ungdomscykel ROMET Rambler R6.2 (2024) 26\" 17\" M, silver-blå', variant Default Title/26170267-B/6779 kr. R6.2 är rätt: live-titel, SKU-produkt och källans första mening säger R6.2; 'Rambler R6.1' står bara i en marknadsmening (kopierad från syskonet 28147) och är rätt utelämnad. Aluminium, M (17 tum), ca 160–175 cm, Shimano Tourney (bara mekanisk), 21 växlar, mekaniska skivbromsar, Michelin Country A.T. 26x1,9 tum, 14,7 kg, fästpunkter och modellår 2024 (live-titeln) stämmer. SEO 43 tecken."
+ },
+ {
+  "nr": 28232,
+  "id": "10530126266634",
+  "fil": "k_28t_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Barncykelkorgen Cars i röd är gjord av plast och har biltema. Korgen mäter 20 x 13 x 13 cm och fästs på styret med medföljande band.",
+    "efter": "Barncykelkorgen Cars i rött är gjord av plast och har bilmotiv. Korgen mäter 20 x 13 x 13 cm och fästs på styret med medföljande band."
+   },
+   "html": {
+    "fore": "<p>Barncykelkorgen Cars har biltema och är gjord av plast.|<li>Dig som vill ha en korg med biltema</li>|<li>Motiv: Biltema</li>",
+    "efter": "<p>Barncykelkorgen Cars har bilmotiv och är gjord av plast.|<li>Dig som vill ha en korg med bilmotiv</li>|<li>Motiv: Bilar (Cars)</li>"
+   }
+  },
+  "skal": "Live (API 2026-11-05): ACTIVE, 'Front basket Cars, red', variant Default Title/9228/99 kr. Plast, 20 x 13 x 13 cm, band för styret stämmer; typordet Barncykelkorg står i källan. Rättning: 'Motiv: Biltema' (versal) läses som varuhuskedjan Biltema; källans 'biltema' betyder tema med bilar och skrivs 'bilmotiv'. 'i röd' blir 'i rött'. Ingen lastuppgift."
+ },
+ {
+  "nr": 28238,
+  "id": "10541366968586",
+  "fil": "k_28t_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Live (API 2026-11-05): ACTIVE, 'Paw Patrol trumpet, pink', variant Default Title/34062/129 kr. Oklar produkttyp (R2/R3): live-titeln säger trumpet (tuta), den svenska källtexten säger 'Cykelklockan' och 'Disney-karaktärer' (Paw Patrol är inte Disney), alltså en generisk mall. Webbkoll: producentkod 34062 är 'Trąbka PSI PATROL' (tuta, Seven Polska), https://www.centrumrowerowe.pl/trabka-psi-patrol-girls-pd48651/; måtten 6,5 cm diameter och 14 cm längd passar en tuta, inte en klocka. Typordet Cykelklocka är alltså fel. Kan skrivas om som 'Cykeltuta' om David godkänner typordet (finns inte i godkanda_typord) och webbkällan."
+ }
+]
