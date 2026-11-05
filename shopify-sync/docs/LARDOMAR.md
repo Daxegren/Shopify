@@ -204,3 +204,7 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 ## 2026-11-04: Shopify-verktygets koppling delas mellan sessioner och pekar på en butik åt gången
 - Vad hände: Sju nya sessioner startades parallellt för olika butiker. Flera körde `switch-shop`, vilket återkallade åtkomsten till BEST OF SPORTS för den delade kopplingen och krävde ny inloggning av David vid varje butiksbyte. Parallella sessioner via verktyget går därför inte.
 - Regel: Läs och skriv butiker via Admin API med en app per organisation (token hämtas i minnet per körning, adress per butik), inte via Shopify-verktygets `switch-shop`. Verktyget duger för en butik i en session, aldrig för flera parallellt. Starta aldrig flera butikssessioner innan åtkomsten per butik är ordnad.
+
+## 2026-11-05: Underlaget räknade ett klistermärke som sparkcykel och 'modeller' var egentligen produkter
+- Vad hände: Opus-granskningen av kategoritexterna visade att sparkcykelns lägsta pris (cirka 1 500 kr) kom från ett klistermärke, att Rideoo påstods sälja stuntsparkcyklar (bara stadssparkcyklar), och att 'minst N modeller' räknade färgvarianter som egna modeller (motionscykel, elcyklar, sparkcykel). Kontrollskriptet godkände allt, eftersom det bara jämförde texten med underlaget, inte underlaget med verkligheten.
+- Regel: granska underlaget separat (billigaste och dyraste titel, antal unika titlar) innan text skrivs. Skriv 'produkter' om inte unika modeller är räknade, och 'bland annat' före varje uppräkning som inte är fullständig. Skriptkontroll ersätter inte oberoende granskning.

@@ -10,3 +10,4 @@ Skapad 2026-11-04. Sessionen `claude/bos-kategorier`. Gren och underlag: `rappor
 | Fas 2: standard (utkast) | klar, väntar på Davids beslut |
 | Pilotutkast (10 kategorier) | klara, 0 fel i kontroll; Opus-granskning: se `granskning-opus.md` |
 | Skrivning i Shopify | **ej påbörjad, väntar på Davids ja** |
+| Opus-granskning av pilotutkast (2026-11-05) | klar: 1 godkänd, 2 efter språkrättelse, 6 rättas, 1 underkänd; alla rättade, kontroll 0 fel; ny granskning av de rättade texterna återstår före skrivning |

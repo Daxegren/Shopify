@@ -14,11 +14,11 @@
    "Sparkcyklar"
   ]
  ],
- "huvud_regex": "^(?!.*barn)(?=.*(sparkcykel(?!hjul|stöd)|scooter(?!hjul|stick)))",
+ "huvud_regex": "^(?!.*(?:barn|sticker|klistermärke))(?=.*(sparkcykel(?!hjul|stöd)|scooter(?!hjul|stick)))",
  "antal_i_kollektionen": 160,
  "antal_koopbara_alla": 96,
- "antal_koopbara": 54,
- "antal_ovriga_koopbara": 42,
+ "antal_koopbara": 53,
+ "antal_ovriga_koopbara": 43,
  "exempel_ovriga": [
   "Sparkcykelhjul Union Credit V2 Pro, 100 mm, Lila",
   "Sparkcykelstöd Ethic Scooter Stand Pad",
@@ -45,16 +45,16 @@
    5
   ],
   [
-   "Velomarket",
-   2
-  ],
-  [
    "Ethic",
    2
   ],
   [
    "S´COOL",
    2
+  ],
+  [
+   "Velomarket",
+   1
   ]
  ],
  "forsta_ord_i_titel": [
@@ -64,7 +64,7 @@
   ],
   [
    "scooter",
-   11
+   10
   ],
   [
    "tricksparkcykel",
@@ -83,7 +83,7 @@
    1
   ]
  ],
- "pris_min": 1459.0,
+ "pris_min": 2199.0,
  "pris_max": 4979.0,
  "pris_median": 2969.0,
  "antal_utan_pris_noll": 0,
@@ -91,10 +91,6 @@
  "kg_i_titlar_max": null,
  "antal_titlar_med_kg": 0,
  "billigaste": [
-  [
-   "Scooter stickers Union Sticker",
-   1459.0
-  ],
   [
    "Stuntsparkcykel SOKE GO, Gul",
    2199.0
@@ -105,6 +101,10 @@
   ],
   [
    "Stuntsparkcykel SOKE GO, Svart och Rosa",
+   2289.0
+  ],
+  [
+   "Stuntscooter SOKE GO! blå-gul",
    2289.0
   ]
  ],
@@ -134,7 +134,6 @@
   "Scooter Rideoo 175 City Scooter Salmon",
   "Scooter Rideoo 175 City Scooter Turquise",
   "Scooter Union Lite S Scooter Lime",
-  "Scooter stickers Union Sticker",
   "Sparkcykel SOKE City, Grå",
   "Sparkcykel SOKE City, Svart och Turkos",
   "Stuntscooter SOKE GO! blå-gul",

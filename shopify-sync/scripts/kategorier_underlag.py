@@ -15,7 +15,7 @@ HUVUD = {  # regex mot titelns två första ord (gemener): vad som räknas som k
     # (tillbehör har typordet först i titeln: "Cykelsadel ... för Motionscykel", "Golvskydd ... Kettlebell")
     'motionscykel': r'motionscykel|spinningcykel|träningscykel', 'lopband': r'löpband(?!s)', 'roddmaskin': r'roddmaskin',
     'crosstrainer': r'crosstrainer', 'hantlar': r'hantel|hantlar', 'kettlebell': r'kettlebell|sangpomm', 'cykellas': r'lås',
-    'elcyklar': r'elcykel|el-lastcykel', 'tunturi': r'', 'sparkcykel': r'^(?!.*barn)(?=.*(sparkcykel(?!hjul|stöd)|scooter(?!hjul|stick)))'}
+    'elcyklar': r'elcykel|el-lastcykel', 'tunturi': r'', 'sparkcykel': r'^(?!.*(?:barn|sticker|klistermärke))(?=.*(sparkcykel(?!hjul|stöd)|scooter(?!hjul|stick)))'}
 
 def bygg(handle, kol, k):
     c = next(x for x in kol if x['handle'] == handle)
