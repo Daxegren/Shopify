@@ -1,0 +1,229 @@
+[
+ {
+  "nr": 25043,
+  "id": "10472358248714",
+  "fil": "k_25d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Källan: glasfiberförstärkt nylonkomposit, 360 gram, smal profil, bred plattform, 14 utbytbara pinnar per pedal, 120 x 118 x 13 mm och servicebart lagersystem står ordagrant. Röd kommer ur live-titeln (SKU-suffix RD) och motsägs inte. \"Ultralätta\", \"ultradurable\" och \"stadigt grepp\" är rätt utelämnade (R5). Vikten anges som i källan, utan per pedal eller par. Pedaler utan lastgräns skrivs enligt beslutet. Ingen dubblett: syskonen Plast Grön (CMPPDWWPPDG) och Plastpedal Svart/Orange (DRAFT) har andra SKU och färger."
+ },
+ {
+  "nr": 25045,
+  "id": "10474077389066",
+  "fil": "k_25d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "Den är traditionell, på 6 V och 3 W, och har plastlager",
+     "efter": "Den är en traditionell dynamo på 6 V och 3 W och har plastlager"
+    },
+    {
+     "fore": "<li>Effekt: 6 V / 3 W</li>",
+     "efter": "<li>Spänning och effekt: 6 V / 3 W</li>"
+    }
+   ]
+  },
+  "skal": "Bara språk: \"Den är traditionell, på 6 V och 3 W\" är ofullständig svenska, och 6 V är en spänning, inte en effekt. Fakta stämmer med källan: grundversionen av AXA-modellserien, vänster sida, 6Volt/3Watt, plastlager, nylonhjul, axel i rostfritt stål och överspänningsdiod. \"Stötsäkert hölje\" och att dioden \"skyddar\" är rätt utelämnade (R5). Belysning skrivs i faktatextläge (§16). kontrollera_produkttext.py ger FEL tal_utan_kalla för 6326 i titel och SEO-titel. Det är ett falskt larm: modellkoden står i live-titeln \"Dynamo AXA DUO 6326/OV/LEFT/CARD\", men inte i fakta-fältet."
+ },
+ {
+  "nr": 25047,
+  "id": "10494688329994",
+  "fil": "k_25d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "9/16 tums gänga",
+    "efter": "9/16-tums gänga"
+   }
+  },
+  "skal": "R10: \"N-tums\" i löptext (skriptet fångar bara \"N tum skärm\"). Övrigt ordagrant: aluminium, 10 utbytbara och justerbara nitar på varje sida, kromstålsaxel, 9/16\" gänga, tätade kullager, 385 g. \"Hållbar\" och märkeshistoriken är rätt utelämnade. Handle slutar på 230000085 medan SKU är 230000084; det andra objektet (10472227930378, DRAFT, SKU 230000085) heter Giant Original MTB utan Sport. Titel, källtext och SKU hos den här produkten stämmer med varandra, och handle ändras aldrig (R12a), så det påverkar inte texten. Pedaler utan lastgräns enligt beslutet."
+ },
+ {
+  "nr": 25048,
+  "id": "10494697373962",
+  "fil": "k_25d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "De nio funktionerna är källans entydiga rader och stämmer med \"9 funktioner\". De dubblerade raderna (\"9 batteriindikator\", upprepad avstängning) är rätt utelämnade (R2). Inga prestandalöften: kaloriförbrukning står bara som en funktion. Batteri och räckvidd anges inte och skrivs inte. Texten skiljer sig från syskonet 25058 (vit, SKU 410000005, 529 kr) i titel, SEO, meta och beskrivning. Den här produktens källa listar ögonblicklig hastighet och lågt batteri, syskonet maxhastighet och en knapp, och båda följer sin egen källa (R1). Ingen färg anges i titel eller källa. Om de båda är samma modell i olika färg kan dubblettplanen behandla dem; det hindrar inte skrivning nu."
+ },
+ {
+  "nr": 25049,
+  "id": "10494697406730",
+  "fil": "k_25d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Alla funktioner finns i källan. \"Total kaloriförbrukning per resa\" (motsäger raden före) och raden om minuter/km är rätt utelämnade (R2). \"Tid\" återges som klocka. Det är den enda rimliga läsningen bredvid \"Tid spenderad på resan\" och \"Total körtid\" och inget löfte; om David vill vara strikt kan \"klocka\" strykas. \"13 funktioner\" står i källan. Inga prestandalöften."
+ },
+ {
+  "nr": 25051,
+  "id": "10515737739530",
+  "fil": "k_25d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Upp till 100 lumen, blinkande ljus, indikator för lågt batteri och hjälmkompatibiliteten (Rev Comp, Compel, Roost, Prompt) står i källan. \"Mycket synlig\", \"upp till 1 km\" och \"sidobelysning upp till 180 grader\" är rätt utelämnade (§16, inga synlighetspåståenden). De upprepade lumenraderna återges som en uppgift. Typordet Ljussats ersätter live-ordet \"Ljusset\", som för alla andra skrivna ljussatser i butiken (Giant Recon HL 200 och TL 200, AXA Dwn 50, Niteline m.fl., som alla hette \"ljusset\" live). \"&\" blir \"och\"."
+ },
+ {
+  "nr": 25052,
+  "id": "10515737903370",
+  "fil": "k_25d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "läge (enligt tillverkaren)</li>",
+     "efter": "läge</li>"
+    },
+    {
+     "fore": "monteras med O-formad stretchig gummi</li>",
+     "efter": "monteras med O-format töjbart gummi</li>"
+    },
+    {
+     "fore": "<li>Montering: O-formad stretchig gummi</li>",
+     "efter": "<li>Montering: O-format töjbart gummi</li>"
+    }
+   ]
+  },
+  "skal": "R5: batteritiden står \"enligt tillverkaren\" både i löptexten och i specifikationsraden. Samma påstående får bara ha det en gång, och parentesformen används inte (prejudikat 24126). \"O-formad stretchig gummi\" är maskinöversatt svenska och rättas språkligt utan att innehållet ändras. Övrigt ordagrant: 1 LED 50 candela, 5 lägen (2 normala, 3 blinkande), batterinivåindikator, IPX4, micro-USB. \"Vattentät\", \"robust\" och \"ljusstarka\" är rätt utelämnade."
+ },
+ {
+  "nr": 25053,
+  "id": "10523479408906",
+  "fil": "k_25e_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Servicebarhet: Fullt servicebar enligt tillverkaren</li>\n",
+    "efter": ""
+   }
+  },
+  "skal": "R5: \"fullt servicebar\" står \"enligt tillverkaren\" två gånger i html. Specifikationsraden stryks, precis som när syskonet 9462 (Blå) rättades i k_07. Samma produkt eller färgvarianter? Varje färg är en egen produkt med eget id och egen SKU: CMPPDWW2RD (Röd, den här), CMPPDWW2OR (Orange), CMPPDWW2BL (Blå, 9462, skriven), CMPPDWW2BK (Svart, 9463, skriven) och CMPPDWW2DG (Forest Green, ej skriven). Alla kostar 3019 kr. Det är alltså färgvarianter som lagts upp som separata produkter, inga dubbletter (R12a gäller samma modell och färg). Röd kommer ur titeln. Marknadsföringsorden är rätt utelämnade."
+ },
+ {
+  "nr": 25054,
+  "id": "10523479474442",
+  "fil": "k_25e_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Servicebarhet: Fullt servicebar enligt tillverkaren</li>\n",
+    "efter": ""
+   }
+  },
+  "skal": "Samma rättning och skäl som 25053 (R5, prejudikat 9462). Orange har egen SKU (CMPPDWW2OR) och eget id och är en färgvariant som lagts upp som separat produkt, ingen dubblett av Blå/Svart (9462/9463) eller Röd (25053). Källtexten är densamma som för Röd. Meta och titel blir unika genom färgen."
+ },
+ {
+  "nr": 25056,
+  "id": "10526099996938",
+  "fil": "k_25e_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Ljusset Giant Cast 30 Combo",
+    "efter": "Ljussats Giant Cast 30 Combo"
+   },
+   "seo_title": {
+    "fore": "Ljusset Giant Cast 30 Combo",
+    "efter": "Ljussats Giant Cast 30 Combo"
+   },
+   "meta": {
+    "fore": "Ljusset Giant Cast 30 Combo är USB-uppladdningsbart",
+    "efter": "Ljussatsen Giant Cast 30 Combo är USB-uppladdningsbar"
+   },
+   "html": [
+    {
+     "fore": "<p>Ljusset Giant Cast 30 Combo är USB-uppladdningsbart",
+     "efter": "<p>Ljussatsen Giant Cast 30 Combo är USB-uppladdningsbar"
+    },
+    {
+     "fore": "ett belysningsset som laddas via USB",
+     "efter": "en ljussats som laddas via USB"
+    },
+    {
+     "fore": "<li>Typ: Ljusset med framljus och bakljus</li>",
+     "efter": "<li>Typ: Ljussats med framljus och bakljus</li>"
+    }
+   ]
+  },
+  "skal": "R7: typordet ska vara enhetligt där källorna är lika. Alla tre Giant-satserna i batchen (25051, 25052, 25056) heter \"Ljusset\" live, och de två andra skrivs Ljussats. Butikens samtliga skrivna satser som hette \"ljusset\" live (Giant Recon HL 200 och TL 200, AXA Dwn 50 Lux, Niteline 11/44/44-R/T1/Spot+, Solis 800) heter nu Ljussats. \"Ljusset\" är inget vedertaget svenskt ord. Kongruensen följer med: \"Ljussatsen ... är USB-uppladdningsbar\". Brinntiderna per läge stämmer med källan (fram 2/4/4/10/15 h, bak 2/4/4/7/20 h). 30 lumen är källans högsta värde. \"10 lm\"/\"10 LM\" normaliseras rätt."
+ },
+ {
+  "nr": 25057,
+  "id": "10541212238090",
+  "fil": "k_25e_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Artikelnummer 00021857.",
+    "efter": "Andra sidan är platt."
+   },
+   "html": {
+    "fore": "<li>Mekanism: SPD-kompatibel på ena sidan enligt tillverkaren</li>",
+    "efter": "<li>Mekanism: SPD-kompatibel på ena sidan, platt på den andra</li>\n<li>Pedalkropp: Komposit</li>\n<li>Greppyta: Elastomer</li>\n<li>Axel: Kromolybdenstål (Chromoly+)</li>\n<li>Plattformsbredd: 86 mm</li>\n<li>Q-faktor: 56 mm</li>\n<li>Utlösningsvinkel: 13°</li>\n<li>Justerbar fjäderspänning: 5–10</li>\n<li>Vikt: 228 g per pedal</li>"
+   }
+  },
+  "skal": "TUNN KÄLLA. Den egna källan är en enda mening med ett tekniskt faktum (SPD-kompatibel mekanism på ena sidan); \"vardagspedaler\" anger användning, och metan behövde artikelnumret som utfyllnad för att nå 70 tecken. Det räcker inte för R3 i utkastets form. Jag öppnade själv https://cyclesouq.com/products/look-geo-trekking-grip, som har streckkod 3611720170798 och SKU 21857, alltså exakt EAN-träff och samma artikelnummer som vår 00021857. Därifrån: hybridpedal (half flat + half clipless), komposit och elastomer, axel Chromoly+, plattformsbredd 86 mm, Q-faktor 56 mm, utlösningsvinkel 13°, justering 5–10 och vikt 228 g. Samma värden står hos bikeworldiowa.com och mammothbikes.com (utan EAN). Parvikten utelämnas, eftersom källorna går isär (511 g mot 551 g). Rättningen ger åtta entydiga fakta. Rättningen tar också bort det andra \"enligt tillverkaren\" för samma påstående (R5). Koordinatorn lägger webbadressen i att_bekrafta (v1.6). Ingen dubblett: Geo Trekking (00021855) och Geo City Grip är andra artiklar."
+ },
+ {
+  "nr": 25058,
+  "id": "10541369884938",
+  "fil": "k_25e_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "9W, trådlös, vit",
+    "efter": "9W, Trådlös, Vit"
+   },
+   "seo_title": {
+    "fore": "9W, trådlös, vit",
+    "efter": "9W, Trådlös, Vit"
+   }
+  },
+  "skal": "R9: beskrivande ord och färg med stor bokstav i titel och SEO-titel, som Svart i 24104 och 24100. Innehållet följer den egna källan: trådlös, en knapp, Auto Start/Sleep, maxhastighet, sträckdistans, ODO, körtid, 12/24-timmarsklocka, Auto SCAN och kalorier. \"9 funktioner\" skrivs rätt inte, eftersom källan listar åtta. Texten skiljer sig från syskonet 25048 (k_25d) i titel, SEO, meta och beskrivning. \"Enkel och bekväm användning\" och \"världens största\" är rätt utelämnade. Inga prestandalöften."
+ },
+ {
+  "nr": 25059,
+  "id": "10548232978698",
+  "fil": "k_25e_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "USB-C-kabel som medföljer, upp till 7 timmars körtid, laddning på mindre än 1,5 timmar, integrerad bromsljusfunktion, 1 LED, batteriindikator, monteringsring 10–32 mm och montering på sadelstolpe eller under sadeln står ordagrant. StVZO, \"synlig upp till 300 meter\", \"säkrare\", \"robust\" och \"passar nästan alla cyklar\" är rätt utelämnade (§16, R5). Bromsljuset beskrivs bara som funktion. Batteriindikatorns färggränser är oklara och utelämnas rätt. Ingen dubblett: Ljussats AXA Dwn 50 Lux (93959295CB) är en annan artikel."
+ },
+ {
+  "nr": 25060,
+  "id": "10554362593546",
+  "fil": "k_25e_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Radar med ANT+ och Bluetooth, GroupRide-läge, LED från Osram, två fasta och tre blinkande lägen, USB-C med 2–3 timmars laddning och alla fem driftstiderna stämmer med källan (70/10/150/15/20 lm; 3/24/6/10/10 h). Att radarn varnar för annalkande trafik är utelämnat. Det är försiktigt och godtas: det är en säkerhetsfunktion, och belysning skrivs utan säkerhetspåståenden (§16). Raden står ordagrant på svenska, så den kunde skrivas en gång som \"enligt tillverkaren\" om David vill (se beslutspunkt). \"Undvika att blända\" är rätt utelämnat. Ingen dubblett: Recon TL 200 (400000166) är en annan modell."
+ },
+ {
+  "nr": 25061,
+  "id": "10554362659082",
+  "fil": "k_25e_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Samma bedömning som 25060. Driftstiderna stämmer med den egna källan (150/50/300/30/20 lm; 5/12/6/30/30 h), och 300 lumen är källans högsta värde. Radarvarningen är utelämnad på samma sätt, vilket godtas. Den kan skrivas en gång som \"enligt tillverkaren\" om David beslutar det."
+ },
+ {
+  "nr": 25062,
+  "id": "10581102002442",
+  "fil": "k_25e_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Material, vikter: Klädda i vinyl</li>",
+    "efter": "<li>Material, vikter: Klädda i vinyl</li>\n<li>Viktskivor: 8 x 5 kg, 4 x 2,5 kg och 4 x 1,5 kg</li>\n<li>Skivstång: 180 cm, 2,6 kg</li>\n<li>Hantelstänger: 2 st, 48 cm, 0,65 kg styck</li>\n<li>Fjäderlås: 6 st</li>"
+   }
+  },
+  "skal": "TUNN KÄLLA. Utkastets tre fakta (60 kg, vinyl, skivstångs- och hantelset) står alla redan i live-titeln. Utöver titeln finns bara övningslistan, och det räcker inte för R3. Jag öppnade själv https://www.prisma.fi/tuotteet/111058312/gymstick-painosarja-vinyylinen-60-kg-111058312, som har exakt EAN-träff (6430062515220). Där står 8 x 5 kg, 4 x 2,5 kg och 4 x 1,5 kg skivor, 1 stång 180 cm/2,6 kg, 2 stänger 48 cm/0,65 kg och 6 fjäderlås. Summan blir 59,9 kg, vilket stämmer med 60 kg. Samma innehåll står hos bygghemma.se (art.nr Gy61210). Karkkainens avvikande stångvikt (3,5 kg) saknar EAN-träff och används inte. \"Tangon maksimikuorma 70 kg\" är en finsk lastgräns och utelämnas (R4). Hålets diameter (27 mm) står bara hos Karkkainen och utelämnas. Med rättningen finns fyra fakta utöver titeln. Koordinatorn lägger webbadressen i att_bekrafta."
+ },
+ {
+  "nr": 25065,
+  "id": "10581113143562",
+  "fil": "k_25e_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Fakta utöver titeln: stål, Z-form (ur källtexten) och övningarna (bicepscurls, triceps extensions, axelövningar), som står en gång enligt tillverkaren. Det räcker. Skriva utan lastgräns: Davids beslut om utebliven lastgräns gäller plyoboxar och step- och balansbrädor. Regeln för \"bärande och hängande delar\" (v1.7) gäller delar som bär en person eller en last i ett fäste, till exempel räcken, pakethållare och cykelställ. En Z-stång är en viktstång som hålls i händerna och lastas med skivor. Den bär ingen person och hänger inte i något. Butiken har dessutom redan skrivit curl-, SZ- och hantelstänger utan lastgräns (9340, 9344–9354, 9510, 9517–9525), och de godkändes i k_05_06 och k_07d_08a. Källan har ingen lastgräns, och ingen skrivs. \"Minskar belastningen på handlederna\" (hälsa), \"högkvalitativt\", \"hållbarhet och stabilitet\" är rätt utelämnade (R5). Typordet Z-Bar är live-titelns eget ord. Curlstång är butikens svenska ord och får användas om David vill (R7), men det krävs inte."
+ }
+]

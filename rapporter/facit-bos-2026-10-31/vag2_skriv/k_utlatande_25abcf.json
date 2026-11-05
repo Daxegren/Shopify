@@ -1,0 +1,348 @@
+[
+ {
+  "nr": 25002,
+  "id": "10462778097930",
+  "fil": "k_25a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Se sidan Frakt för övriga länder. Beställningsvaror kan ta upp till en vecka längre.</p>",
+    "efter": "Se sidan Frakt för övriga länder.</p>"
+   }
+  },
+  "skal": "Produkten har inte taggen På beställning, så leveranstidsmeningen tas bort (R13). Fakta stämmer med Tunturis sida https://www.tunturi.com/en/ab-trainer.html (SKU 14TUSFU163, EAN 8717842019252): 60 x 68,5 x 65 cm, 2,9 kg, metall och syntetmaterial, armstöd med skum och nackstöd. Tunturi anger ingen maxvikt, och den är rätt utelämnad."
+ },
+ {
+  "nr": 25008,
+  "id": "10470906822922",
+  "fil": "k_25a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Se sidan Frakt för övriga länder. Beställningsvaror kan ta upp till en vecka längre.</p>",
+    "efter": "Se sidan Frakt för övriga länder.</p>"
+   }
+  },
+  "skal": "Produkten har inte taggen På beställning, så leveranstidsmeningen tas bort (R13). Alla fakta står ordagrant i live-källan. Lastgräns saknas och ingen skrivs. Den trasiga raden 'skor utan klick' är rätt utelämnad, och vikten är rätt utelämnad eftersom källorna går isär. Typordet Pedaler finns redan som tagg på produkten."
+ },
+ {
+  "nr": 25009,
+  "id": "10471135871242",
+  "fil": "k_25a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "Tiderna för lägena anges som 1,5, 3,5 och 6 timmar.",
+     "efter": "Tiderna för lägena är 1,5, 3,5 och 6 timmar enligt tillverkaren."
+    },
+    {
+     "fore": "Se sidan Frakt för övriga länder. Beställningsvaror kan ta upp till en vecka längre.</p>",
+     "efter": "Se sidan Frakt för övriga länder.</p>"
+    }
+   ]
+  },
+  "skal": "Produkten har inte taggen På beställning, så leveranstidsmeningen tas bort (R13). Drifttiden räknas som batteritid och ska enligt §16.2 stå 'enligt tillverkaren', som i Recon HL 800. Strålkastare är källans eget ord ('Cast HL 500-strålkastaren'). Källans Helljus, Mellanljus och Halvljus är riktigt ersatta med Ljusläge 1–3. Lägena och timmarna står ordagrant. Texten innehåller inga lagkrav- eller synlighetspåståenden."
+ },
+ {
+  "nr": 25010,
+  "id": "10472235794698",
+  "fil": "k_25a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Lampset AXA Greenline 40",
+    "efter": "Ljussats Axa Greenline 40"
+   },
+   "seo_title": {
+    "fore": "Lampset AXA Greenline 40",
+    "efter": "Ljussats Axa Greenline 40"
+   },
+   "meta": {
+    "fore": "Lampset från AXA med",
+    "efter": "Ljussats från Axa med"
+   },
+   "html": [
+    {
+     "fore": "<p>Lampsetet AXA Greenline 40 laddas",
+     "efter": "<p>Ljussatsen Axa Greenline 40 laddas"
+    },
+    {
+     "fore": "ett lampset med medföljande USB-kabel",
+     "efter": "en ljussats med medföljande USB-kabel"
+    },
+    {
+     "fore": "<li>Märke: AXA</li>",
+     "efter": "<li>Märke: Axa</li>"
+    },
+    {
+     "fore": "<li>Typ: Lampset</li>",
+     "efter": "<li>Typ: Ljussats</li>"
+    },
+    {
+     "fore": "Se sidan Frakt för övriga länder. Beställningsvaror kan ta upp till en vecka längre.</p>",
+     "efter": "Se sidan Frakt för övriga länder.</p>"
+    }
+   ]
+  },
+  "skal": "Typordet ändras: 'Lampset' finns varken bland butikens live-ord eller i profilen. Butiken använder Ljussats för samma serie, se 'Ljussats AXA Greenline 25 Lux, USB', som är skriven (R7). Märket skrivs Axa enligt R8, som Axa-låsen i den här batchen. Produkten har inte taggen På beställning, så leveranstidsmeningen tas bort. Batteritid, laddtid och livslängd står en gång 'enligt tillverkaren'. Backup-batteriet och lampornas innehåll är rätt utelämnade. Texten innehåller inga lagkrav- eller synlighetspåståenden."
+ },
+ {
+  "nr": 25014,
+  "id": "10472243790090",
+  "fil": "k_25b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Alla fakta står ordagrant i live-källan. Raderna skrivs som i den skrivna Delight Box (10470906167562), också de sammanslagna specifikationsraderna och Ananda mittmotor. Lastkapaciteten står ordagrant på svenska med etikett. Texten har två 'enligt tillverkaren', vilket är högst tillåtet. 'Familjer', 'premium' och 'punkteringsskyddade' är utelämnade, och inga barnuppgifter förekommer. Produkten är ingen dubblett: Delight Box har SKU 1161 och andra lådmått, och Kindergarten och Dog är andra modeller. Taggen På beställning saknas, och meningen saknas också."
+ },
+ {
+  "nr": 25019,
+  "id": "10472254505226",
+  "fil": "k_25b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "AXA Double Loop Cable",
+    "efter": "Axa Double Loop Cable"
+   },
+   "seo_title": {
+    "fore": "AXA Double Loop",
+    "efter": "Axa Double Loop"
+   },
+   "meta": {
+    "fore": "PVC-överdrag från AXA.",
+    "efter": "PVC-överdrag från Axa."
+   },
+   "html": [
+    {
+     "fore": "<p>AXA Double Loop Cable har",
+     "efter": "<p>Axa Double Loop Cable har"
+    },
+    {
+     "fore": "<li>Märke: AXA</li>",
+     "efter": "<li>Märke: Axa</li>"
+    },
+    {
+     "fore": "<li>Dig som söker en kabel på ca 120 cm med PVC-överdrag</li>\n<li>Dig som vill ansluta fritids- och sportutrustning eller campingmöbler, enligt tillverkaren</li>",
+     "efter": "<li>Dig som söker en kabel på ca 120 cm med PVC-överdrag</li>"
+    }
+   ]
+  },
+  "skal": "Märket skrivs Axa enligt R8. Raden om att ansluta fritids- och sportutrustning tas bort: källan säger det om 'den långa stålvajerversionen' utan att entydigt avse den här artikeln (R2). Säkerhetsindex och stöldrisk är rätt utelämnade, och texten kallar produkten kabel, inte lås. Det står inget om säkerhetsnivå. Typordet är live-titelns 'Kabel med öglor'. Produkten är ingen dubblett av 'Rep med öglor AXA Double Loop 1000/10', som är en annan artikel."
+ },
+ {
+  "nr": 25021,
+  "id": "10472258797834",
+  "fil": "k_25b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Alla tekniska data står ordagrant i live-källan. Pedaler är butikens ord för 'Pedals'. Lastgräns saknas och ingen skrivs. Produkten är ingen dubblett: 10470989037834 har en annan SKU och är DRAFT."
+ },
+ {
+  "nr": 25022,
+  "id": "10472259584266",
+  "fil": "k_25b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "Stången är 120 cm lång, 50 mm i diameter och väger 10 kg.",
+     "efter": "Stången är 120 cm lång, väger 10 kg och passar viktskivor för 50 mm."
+    },
+    {
+     "fore": "<li>Diameter: 50 mm</li>",
+     "efter": "<li>Passar viktskivor: 50 mm</li>"
+    }
+   ]
+  },
+  "skal": "Tunturis sida (SKU 14TUSCL260, EAN 8717842027288) anger 'Ø 50 mm' och 'Suitable for light and heavy 50 mm weight plates'. Måttet gäller alltså viktskivorna, inte stångens tjocklek. Texten får därför inte säga '50 mm i diameter' om stången. Övriga fakta stämmer med live-källan och Tunturi: 120 cm, 10 kg, 2 skruvlås, krom, metall och inga viktskivor. Curlbar är källans eget ord och används också i den skrivna syskonprodukten. Maxvikten är rätt utelämnad."
+ },
+ {
+  "nr": 25023,
+  "id": "10472267448586",
+  "fil": "k_25b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Lumen, drifttider, batteri, mått, vikt och IPX6 står ordagrant i live-källan. Den samlade meningen med 'enligt tillverkaren' följer den skrivna Recon HL 800. Hjälm står i källan. Styre bekräftas av https://www.stevensbicycles.com/product/giant-recon-hl-600-402427-1.htm (MPN 400000214, UPC 04713250025308): 'use on handlebars or helmets'. Synfält, ANSI och den trasiga måttraden är rätt utelämnade. Typordet Cykellampa och titeln följer de skrivna Recon HL 800 och HL 1800. Produkten är ingen dubblett."
+ },
+ {
+  "nr": 25024,
+  "id": "10472281506058",
+  "fil": "k_25b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Ramöra' är källans eget ord och har inte visats vara fel (R7). https://www.elanusparts.com/derailleur-hangers/gh-169-derailleur-hanger-for-ghost har samma EAN 8590966391691 och anger 'Bolts included' och aluminium. Kompatibiliteten återges som källan anger den ('ett brett utbud'). Texten lovar inte att delen passar alla Ghost-cyklar. Kvalitetsord är utelämnade. Se beslutspunkten om växelöra."
+ },
+ {
+  "nr": 25025,
+  "id": "10472281538826",
+  "fil": "k_25b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Källan säger 'ramringen', en felöversättning. 'Ramöra' används som för syskonen med samma live-titel 'Frame ear'. https://www.elanusparts.com/derailleur-hangers/gh-144-derailleur-hanger-for-gt har samma EAN 8590966391448 och anger aluminium och 'Bolts included'. Kompatibiliteten återges som i källan."
+ },
+ {
+  "nr": 25026,
+  "id": "10472281571594",
+  "fil": "k_25b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Union GH-038 är en ramöra av aluminium. Enligt tillverkaren passar den olika modeller från märkena Centurion, Merida och UMF. Skruvar medföljer.</p>",
+    "efter": "<p>Union GH-038 passar enligt tillverkaren olika modeller från märkena Centurion, Merida och UMF. Ramörat är av aluminium och skruvar medföljer.</p>"
+   },
+   "meta": {
+    "fore": "Union GH-038 är en ramöra av aluminium. Enligt tillverkaren passar den olika modeller från Centurion, Merida och UMF, och skruvar medföljer.",
+    "efter": "Ramöra av aluminium från Union som enligt tillverkaren passar olika modeller från Centurion, Merida och UMF. Skruvar medföljer."
+   }
+  },
+  "skal": "Metan och första meningen i html börjar 'Union GH-038 är en ramöra', och skriptet varnar för cirkulär inledning. Den skrivs om i samma form (bägge fälten) som syskonen. Den engelska källraden är enkel och entydig, och översättningen är korrekt. https://www.elanusparts.com/derailleur-hangers/gh-038-derailleur-hanger-for-centurion-merida-umf har samma EAN 8590966390380 och anger aluminium och att skruvar ingår."
+ },
+ {
+  "nr": 25027,
+  "id": "10472281604362",
+  "fil": "k_25c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Ramörat Union GH-026",
+    "efter": "Ramöra Union GH-026"
+   },
+   "seo_title": {
+    "fore": "Ramörat Union GH-026",
+    "efter": "Ramöra Union GH-026"
+   },
+   "meta": {
+    "fore": "Ramörat i aluminium för cyklar från bland annat",
+    "efter": "Ramöra i aluminium för olika modeller från bland annat"
+   },
+   "html": [
+    {
+     "fore": "<p>Union GH-026 passar cyklar från märkena",
+     "efter": "<p>Union GH-026 passar enligt tillverkaren olika modeller från märkena"
+    },
+    {
+     "fore": "Dig som söker ett ramörat i aluminium till en cykel från något av märkena ovan",
+     "efter": "Dig som söker en ramöra i aluminium till en modell från något av märkena ovan"
+    },
+    {
+     "fore": "<li>Typ: Ramörat</li>",
+     "efter": "<li>Typ: Ramöra</li>"
+    },
+    {
+     "fore": "<li>Passar cyklar från: BBF",
+     "efter": "<li>Passar: Olika modeller från BBF"
+    },
+    {
+     "fore": "Ortler, Epple och Cobra</li>",
+     "efter": "Ortler, Epple och Cobra enligt tillverkaren</li>"
+    }
+   ]
+  },
+  "skal": "Typordet stod i bestämd form ('Ramörat', 'ett ramörat'). Det ändras till Ramöra, som i batchen. Texten sa att delen 'passar cyklar från märkena', vilket låter som alla cyklar av märkena. Källan säger 'passar en mängd olika cykelmärken'. Texten skrivs därför 'olika modeller ... enligt tillverkaren', som syskonen, och har två 'enligt tillverkaren' i html. Webbsidan med samma EAN 8590966390267 anger att skruvar ingår: https://www.elanusparts.com/derailleur-hangers/gh-026-derailleur-hanger-for-haibike-hercules-staiger-wheeler"
+ },
+ {
+  "nr": 25029,
+  "id": "10472285405450",
+  "fil": "k_25c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Alla fakta står ordagrant i live-källan. 'Platta pedaler' används som i den skrivna syskonprodukten Wah Wah 2 Alloy, Blå. Färgen kommer från live-titeln. Lastgräns saknas och ingen skrivs. Kvalitetsorden är utelämnade. Produkten är ingen dubblett: den röda (CMPPDWWPPRD) och den svarta (DRAFT) är andra artiklar."
+ },
+ {
+  "nr": 25031,
+  "id": "10472288911626",
+  "fil": "k_25c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Snömattan är ett åkdon att sitta och glida på, alltså samma slag av vinterprodukt som pulkor och kälkar (§15), och inget grepphjälpmedel. Källan nämner inga barn, ingen ålder och ingen maxvikt, och texten påstår inget sådant. Produkten finns inte på listan över barn- och ungdomsprodukter eller på spärrlistan. Den står inte heller i frisläppta_vinter_2026-11-03.txt, se beslutspunkten. Måtten står ordagrant. 'Mjuk att sitta på' och 'lätt att bära' står en gång 'enligt tillverkaren'. 'Slitstarkt' och 'utmärkt glid' är rätt utelämnade."
+ },
+ {
+  "nr": 25034,
+  "id": "10472296382730",
+  "fil": "k_25c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Säkerhetsnivå 7/15 och 'låg risk' är rätt utelämnade. 'För dagligt bruk' står i källan och är ingen säkerhetsnivå. https://www.bike-components.de/en/Axa/FOLD-LITE-folding-lock-p249247/ (variant 59841095KB) anger 100 cm, stavtjocklek 5 mm, stål och 2 nycklar. Ramfästet står i den egna källan. Vikbart Lås följer den skrivna Fold Lite 80. Produkten är ingen dubblett: Fold Lite 80 och C100 är andra artiklar."
+ },
+ {
+  "nr": 25033,
+  "id": "10472296218890",
+  "fil": "k_25c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Säkerhetsnivå 3/15 och 'kortvarig parkering i områden med låg risk' är rätt utelämnade (§16.5). https://www.bike-components.de/en/Axa/Resolute-8-150-Cable-lock-p249271/ (59430595KC) anger 150 cm, 8 mm och 2 nycklar. Vajerlås är butikens ord för Resolute och svarar mot källans 'vajalås'. Låsfunktionen står ordagrant. Produkten är ingen dubblett."
+ },
+ {
+  "nr": 25035,
+  "id": "10472296579338",
+  "fil": "k_25c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Säkerhetsklassningen och 'kortare parkeringar' är rätt utelämnade. https://www.bike-components.de/en/Axa/Resolute-10-150-Cable-Lock-p249223/ (59431595KC) anger 150 cm, 10 mm, 2 nycklar och kabellås. Källans 'ramlås' stämmer inte med vajerbeskrivningen. Vajerlås är belagt av webben och live-titeln ('Trosslukk'). Produkten är ingen dubblett av DRAFT-produkten med SKU 59431595SC."
+ },
+ {
+  "nr": 25036,
+  "id": "10472302903562",
+  "fil": "k_25c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Alla tekniska data står ordagrant i live-källan. 'Maximal belastning: 220kg' är en svensk rad med etikett och enhet, och den står en gång 'enligt tillverkaren'. Räckvidden står också 'enligt tillverkaren', så texten har två, vilket är högst tillåtet. 'Familjeanvändning' och ord om stabilitet och säkerhet är utelämnade, och inga barnuppgifter förekommer. Sittdynor står i källan utan koppling till barn. Längdintervallet gäller den enda ramstorleken. Taggen På beställning saknas. Produkten är ingen dubblett."
+ },
+ {
+  "nr": 25066,
+  "id": "10593398489354",
+  "fil": "k_25f_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Gymsticks sida https://www.gymstick.com/2-x-10kg-vinyl-plates.html (SKU 61109, EAN 6430016903875) anger 10 kg per skiva, 5,3 x 32 cm, hål 30 mm, HDPE, cement, sand och järnmalm samt 'Sold in pairs'. Marknadsorden ur live-källan är utelämnade. Produkten är ingen dubblett."
+ },
+ {
+  "nr": 25067,
+  "id": "10611438649610",
+  "fil": "k_25f_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Enligt Davids beslut 2026-11-05 skrivs plyoboxar utan lastgräns, och ingen lastgräns skrivs. https://www.gymstick.se/soft-plyobox-3-in-1.html (SKU 61091, EAN 6430062514711) anger 50 x 60 x 75 cm, PVC, EVA, trä och svart-röd. Vikten är rätt utelämnad eftersom källorna går isär. Box jumps och step-ups står en gång 'enligt tillverkaren'. 'Ökad säkerhet' är utelämnat. Produkten är ingen dubblett av andra plyoboxar (andra SKU)."
+ },
+ {
+  "nr": 25072,
+  "id": "10656692273418",
+  "fil": "k_25f_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Lampan har tre fasta ljuslägen och två blinkande lägen och laddas via USB-C.</p>",
+    "efter": "Lampan har tre fasta ljuslägen och två blinkande lägen och laddas via USB-C. Ljusstyrka och drifttider anges enligt tillverkaren.</p>"
+   }
+  },
+  "skal": "Texten angav drifttider och lumen utan 'enligt tillverkaren'. Det krävs för batteritid enligt §16.2 och följer prejudikatet Recon HL 800, så meningen läggs till. Alla fakta står ordagrant i live-källan, som också använder Cykellampa ('cykellampa fram'). Blinklägenas otydliga tider och marknadsorden är rätt utelämnade. Texten innehåller inga lagkrav- eller synlighetspåståenden."
+ },
+ {
+  "nr": 25073,
+  "id": "10665226731786",
+  "fil": "k_25f_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Volume 1500, svart",
+    "efter": "Volume 1500, Svart"
+   },
+   "html": [
+    {
+     "fore": "<li>Dig som vill fästa lampan på styret eller hjälmen</li>",
+     "efter": "<li>Dig som vill fästa lampan med fäste i Garmin-standard</li>"
+    },
+    {
+     "fore": "<li>Fäste: Garmin-standard med linsmonterad klämma, justeras med insexnyckel</li>",
+     "efter": "<li>Fäste: Monteringssystem i Garmin-standard och klämma som justeras med insexnyckel</li>"
+    },
+    {
+     "fore": "<li>Ingår: GoPro-kompatibel adapter för hjälm eller GoPro-linsfäste</li>",
+     "efter": "<li>Ingår: GoPro-kompatibel adapter för hjälm</li>"
+    }
+   ]
+  },
+  "skal": "Färgen skrivs med stor bokstav, som i Framlampa Bookman Volume 800, Svart. 'Lins' är en maskinöversättning av styre (estniska 'lenks'). 'Linsmonterad klämma' och 'GoPro-linsfäste' är därför trasiga och tas bort (R2), och 'styret' i Passar för var en tolkning utan angiven källa. Övriga fakta står i live-källan: 1500 lumen, 4000 mAh, extra batterier, Garmin-standard, insexnyckel, GoPro-adapter för hjälm och aluminiumkropp. Cykellampa är källans eget ord. Återförsäljare går isär om GoPro-adaptern ingår, men produktens egen källa säger att den ingår."
+ }
+]
