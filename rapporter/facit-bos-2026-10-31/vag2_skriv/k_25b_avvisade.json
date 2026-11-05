@@ -1,0 +1,27 @@
+[
+ {
+  "id": "10472244019466",
+  "nr": 25015,
+  "skäl": "Bromsdel (broms). Bromsar och bromsdelar skrivs inte (specialregel för cyklar och cykeldelar, bromsdelar fortfarande avvisade). Bekräftat live: Shimano BR-R353 bromsskor."
+ },
+ {
+  "id": "10472244642058",
+  "nr": 25016,
+  "skäl": "Bromsdel (broms). Bromsar och bromsdelar skrivs inte (specialregel för cyklar och cykeldelar, bromsdelar fortfarande avvisade). Bekräftat live: Shimano BR-R353 bromsskor."
+ },
+ {
+  "id": "10472249032970",
+  "nr": 25017,
+  "skäl": "Redan skriven: produkten har taggen texter-klara live (granskad GODKÄND i k_16a, skriven i k_skriv_16a; live-SEO och html finns). Skrivs inte om (R15, texter-klara live). Det tidigare skälet (elektronik/SRAM eTap AXS) gäller inte längre (v1.7)."
+ },
+ {
+  "id": "10472253227274",
+  "nr": 25018,
+  "skäl": "Kemikalie (fettlösare/glidvallningsborttagning) med farovarning i källan: lättantändligt, skadligt vid inandning, hudkontakt och förtäring. Ingen beslutad kategori för kemikalier; faroklassning och märkning kan inte kontrolleras ur källan. Underkänd tidigare i b_21 av samma skäl; skälet gäller fortfarande."
+ },
+ {
+  "id": "10472255717642",
+  "nr": 25020,
+  "skäl": "Monteringstjänst (cykelmontering) med garanti- och säkerhetsvillkor (slutmontering, bromsar, växlar, ogiltig garanti); tjänst, inte produkt. Fortfarande avvisad (monteringstjänster)."
+ }
+]

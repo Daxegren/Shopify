@@ -1,0 +1,32 @@
+[
+ {
+  "id": "10472281800970",
+  "nr": 25028,
+  "skäl": "Babykälke (STIGA Cruiser): tydlig babyprodukt med säkerhetsbälte, barn-/babyprodukt (R6, beslut 2026-11-03). Skälet gäller fortfarande."
+ },
+ {
+  "id": "10472285864202",
+  "nr": 25030,
+  "skäl": "Tunn källa (R3): beskrivningen är tom (bara tomma HTML-element); enda uppgifterna är titel, märke Limar, SKU ECARGOCEUW och EAN 8032836528443. Faktakoll på nätet gav ingen sida med träff på SKU/EAN för just Argo Matt Gray (limar.com/argo visade ingen Argo-sida; återförsäljarsidor träffade andra färger eller saknade EAN), så ingen entydig webbkälla för exakt modellen. Kvarstår avvisad."
+ },
+ {
+  "id": "10472295923978",
+  "nr": 25032,
+  "skäl": "Dubblett (R12a): Axa Fold Lite 80 finns redan skriven som 10472233107722 (texter-klara, SKU 59840895SC, samma modell och längd 80 cm; denna har SKU 59840895KB). Ingen färguppgift skiljer dem. Obs priset: 689 kr här mot 5339 kr på den skrivna; hanteras i dublettsammanslagningen (beslut 2026-11-05)."
+ },
+ {
+  "id": "10472303919370",
+  "nr": 25037,
+  "skäl": "Dubbdäck (Suomi Tyres Hile W240): dubbdäck är obeslutat hos David, kvarstår avvisad. Titeln är dessutom avkortad (\"28 x 1.\") och källan har säkerhets- och ursprungslöften."
+ },
+ {
+  "id": "10472304050442",
+  "nr": 25038,
+  "skäl": "Dubbdäck (Suomi Tyres Porcupine W408 TT): dubbdäck är obeslutat hos David, kvarstår avvisad. Titeln är avklippt (\"29 x 2.\") och bredden i källan ofullständig (\"65-622\")."
+ },
+ {
+  "id": "10472304935178",
+  "nr": 25039,
+  "skäl": "Dubbdäck (Suomi Tyres Routa W244 E-Bike): dubbdäck är obeslutat hos David, kvarstår avvisad. Källan har bara oetiketterade rader (\"244 pounds\", \"74.01\") och säkerhets-/kvalitetslöften."
+ }
+]
