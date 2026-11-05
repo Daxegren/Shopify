@@ -6,6 +6,9 @@ for f in ul.split(','):
     for x in json.load(open(f,encoding='utf-8')): utl[x['nr']]=x
 drafts={}
 for f in ut.split(','):
+    for x in json.load(open(f,encoding='utf-8')):
+        if x.get('nr') is None: sys.exit(f'FEL: utkast utan nr i {f} (id {x.get("id")}); nr är nyckel och måste vara unikt')
+for f in ut.split(','):
     for x in json.load(open(f,encoding='utf-8')): drafts[x['nr']]=x
 out=[];prob=[];saknar=[]
 for nr,d in sorted(drafts.items()):

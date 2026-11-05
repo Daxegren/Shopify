@@ -201,3 +201,7 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 ## 2026-11-05: parallella agenter skrev över varandras filer
 - **Vad hände:** En utkastagent skrev sin utkastfil till ett redan använt batchnamn (`k_14_utkast.json`, ett äldre tracked utkast), och en annan agent körde ett delat skript med generiskt namn (`bygg.py`) som skrev om `k_16a`-filerna. Inget nådde butiken, eftersom allt granskades som filerna såg ut på disk, men äldre arbetsfiler hade kunnat gå förlorade.
 - **Regel:** Varje agent får unika filnamn per batch (fortlöpande batchnummer som inte använts tidigare) och skapar hjälpskript bara i scratchpad med batchnamnet i filnamnet. Kontrollera `git status` efter varje agent.
+
+## 2026-11-05: utkast utan nr gav tyst bortfall i skrivfilen
+- **Vad hände:** I k_18a saknade fyra utkast `nr` (värdet var null). Byggskriptet använder `nr` som nyckel, så bara en av fem produkter hamnade i skrivfilen utan felmeddelande. Fyra flaskor skrevs först när jag såg att antalet inte stämde. Inget skrevs fel i butiken.
+- **Regel:** Alla utkast och utlåtanden ska ha unikt `nr` (för produkter utan nummer används ett löpnummer, t.ex. 18005). `bygg_m_skriv.py` stoppar nu om ett utkast saknar `nr`. Kontrollera alltid att antalet produkter i skrivfilen stämmer med antalet godkända.
