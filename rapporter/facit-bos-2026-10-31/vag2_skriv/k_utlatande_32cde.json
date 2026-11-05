@@ -1,0 +1,257 @@
+[
+ {
+  "nr": 32026,
+  "id": "10472245362954",
+  "fil": "k_32c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 'Stödben för bakmontering HEBIE Fix 18, 26\"-29\", svart', 0663E/EAN 4021834066303, 309 kr, lager 33. Ögonavstånd 18 mm och Bred ände 18 mm står som egna rader i källan. Webben går isär: bike-components anger 25 kg för 0663 E/E10, Rose Bikes 50 kg, och 663 FIX 18 T anges med 30 kg. Uppgiften är alltså inte entydig, och 'Ej känd' är rätt (v1.10). Hjulstorleken är rätt utelämnad, eftersom live säger 26–29 och webben 26–28. Källan är tunn, men samma nivå godkändes i k_32ab (32013, 32021)."
+ },
+ {
+  "nr": 32027,
+  "id": "10472245428490",
+  "fil": "k_32c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 0669E/EAN 4021834066907, lager 32. bike-components p82488 anger tillverkarnummer '0669 E' och 'Capacity 25 kg'. Rose Bikes (rosebikes.it …-159506) anger 'Load: max. 25 kg' med GTIN 4021834066907, alltså exakt vår EAN. Det är en starkare källa och bör läggas till i att_bekrafta. Kortversionen 0669 KL E är en annan artikel. 25 kg är entydigt och står en gång med 'enligt tillverkaren'. Löftesorden är rätt utelämnade."
+ },
+ {
+  "nr": 32028,
+  "id": "10472245526794",
+  "fil": "k_32c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 0673ESET/EAN 4021834067300, lager 3. bike-components p77259 '0673 E SET', 'Capacity 25 kg', 26\"-28\". Hebies sida för 673 och bike24 anger också 25 kg, och ingen källa säger något annat. 674 FOX SUV (40 kg) är en annan modell. 26–28 tum stämmer med live-titeln. 'För stabilitet' och 'Kraftigt för styraxeln' är rätt utelämnade."
+ },
+ {
+  "nr": 32029,
+  "id": "10472249295114",
+  "fil": "k_32c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 'Bakre stödhjul HEBIE Abstellheld 40, svart, tjock', 0667E/EAN 4021834066709, lager 9. bike-components p82487 anger '0667 E', 'Belastbarkeit 25 kg'. Samma värde finns på bike24 och Hebie, och Kurzlänge 0667 KL E är en annan artikel. Typordet Stödben: 'stödhjul' är en felöversättning (stödhjul betyder träningshjul). Produktens egen tagg är 'stödben', och samma grund godtogs för Cykelväska i k_32ab. Hjulstorleken är försiktigt utelämnad, eftersom egen källa säger 26–28 och handlare 24–28 respektive 26–29."
+ },
+ {
+  "nr": 32030,
+  "id": "10472250376458",
+  "fil": "k_32c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Pinner Elite MTB, Lila",
+    "efter": "Pinner Elite, Lila"
+   },
+   "seo_title": {
+    "fore": "Pinner Elite MTB, Lila",
+    "efter": "Pinner Elite, Lila"
+   },
+   "meta": {
+    "fore": "Pedalerna Giant Pinner Elite i lila är universella pedaler",
+    "efter": "Giant Pinner Elite i lila är universella pedaler"
+   }
+  },
+  "skal": "Live: ACTIVE, 'Pedaler GIANT Pinner Elite, lila', 230000101/EAN 4713250020457, lager 4. Alla fakta står i egen källa, och 'slitstark' och märkestexten är rätt utelämnade. Platt pedal med stift, ingen klosskoppling. 'MTB' står inte i live-titeln och avviker från syskonen 32008, 32009 och 32049, så titel och SEO görs enhetliga. Krocken med b_9 (samma id, aldrig skriven) är ingen dubblett. Cirkulär inledning (\"Pedalerna/Cykelstödet X är … pedaler/stöd\", R11) omskriven till formen som godkändes i k_32ab (\"Giant Pinner Elite är universella pedaler\")."
+ },
+ {
+  "nr": 32031,
+  "id": "10472250441994",
+  "fil": "k_32c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Stödbenet Academy KSA 40 gäller Academy-cyklar",
+    "efter": "Stödbenet Academy KSA 40 är avsett för Academy-cyklar"
+   },
+   "html": {
+    "fore": "<p>Stödbenet Academy KSA 40 gäller Academy-cyklar",
+    "efter": "<p>Stödbenet Academy KSA 40 är avsett för Academy-cyklar"
+   }
+  },
+  "skal": "Live: ACTIVE, 1671/EAN 4250969216714, lager 2. 'Academy 20\"' och 'Avstånd 40 mm' står ordagrant. 'Gäller' är fel verb och ändras till 'är avsett för'. 'Klass 4' och 'bakhjulsdrift' är rätt utelämnade. Källan är mycket tunn: den har bara titelns fakta, eftersom KSA 40 = 40 mm. Den godkänns här i linje med k_32ab (32013, 32021), men David kan välja att lägga sådana produkter på kort meta (R3)."
+ },
+ {
+  "nr": 32032,
+  "id": "10472251326730",
+  "fil": "k_32c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 230000106/EAN 4713250020501, lager 4. Nylonkropp, kromstål och förseglat lager står ordagrant i källan, och alla löftesord är utelämnade. Platt pedal (Pinner Comp), ingen klosskoppling. Anmärkning utan krav: 'Material: Kromstål' anger inte vilken del som är av kromstål, eftersom källan säger 'kromstålmaterial'."
+ },
+ {
+  "nr": 32033,
+  "id": "10472251392266",
+  "fil": "k_32c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "eller krokar. Bärkapacitet upp till 5 kg.",
+    "efter": "eller krokar. Fästsystemet ingår inte."
+   }
+  },
+  "skal": "Live: ACTIVE, 18171/EAN 8715019181719, 1739 kr, lager 13. Produkten är frisläppt via undantag-2026-11-05 (omprovning-pass3, rad 203), som upphäver §12-avvisningen i k_19a. 'Bärkapacitet: upp till 5 kg' står ordagrant på svenska med etikett och enhet (R4). Html har den en gång med 'enligt tillverkaren', och vattentät är det andra påståendet (2 av 2). Metan angav lasten utan 'enligt tillverkaren' (R4/R5), och om 'enligt tillverkaren' läggs till blir metan 163 tecken. Lastuppgiften tas därför bort ur metan och ersätts med en sann fakta, som i 32006. 12 x 27 cm utan etikett är rätt utelämnat."
+ },
+ {
+  "nr": 32036,
+  "id": "10472294940938",
+  "fil": "k_32c_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 'Pedaler GIANT Combo Touring Pedal', 230000095, lager 4. Ena sidan är en SPD-klossinfästning, alltså en klosskoppling, som enligt Davids beslut 2026-11-05 (v1.10) inte ingår. Måtten och materialen är dessutom hämtade från giant-bicycles.com/se/combo-touring-pedal-2022, där artikelnumret bara syns i ett bildnamn. Det ska tas upp som beslutspunkt om David vill släppa kombipedaler."
+ },
+ {
+  "nr": 32038,
+  "id": "10475981701386",
+  "fil": "k_32d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "18 mm, justerbart",
+    "efter": "18 mm, Justerbart"
+   },
+   "meta": {
+    "fore": "Cykelstödet OXC Deluxe är ett justerbart stöd för bakre hjul med 18 mm fäste.",
+    "efter": "Det justerbara cykelstödet OXC Deluxe är avsett för bakhjulet och har ett 18 mm fäste."
+   },
+   "html": {
+    "fore": "<p>Cykelstödet OXC Deluxe är ett justerbart stöd för bakre hjul med 18 mm fäste.",
+    "efter": "<p>Det justerbara cykelstödet OXC Deluxe är avsett för bakhjulet och har ett 18 mm fäste."
+   }
+  },
+  "skal": "Live: ACTIVE, productType 'Cykelstöd', SKU 141/EAN 503009350238, lager 9, tom beskrivning. Typordet Cykelstöd är produktens egen produkttyp och tagg (R7). Hjulstorleken 24–28 är rätt utelämnad, eftersom Oxford-sidan säger något annat. Sidan (xps797) gav 404 vid granskningen och kunde inte bekräftas, men utelämnandet är försiktigt. Källan är tunn, med bara titelns fakta (18 mm, justerbart). Rättat: cirkulär meta och inledning (skriptvarning), och 'justerbart' får stor bokstav i titeln (R9)."
+ },
+ {
+  "nr": 32039,
+  "id": "10487987699978",
+  "fil": "k_32d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 079128E40/EAN 4021834791014, lager 7. 'Den bakre stänkskärmen kan bära maximalt 8 kg på varje sida' står på svenska i egen källa, men i löptext utan etikett, så R4 ensam räcker inte. Enligt v1.10 bekräftas värdet ändå entydigt för exakt modellen: hebie.de/en/ALUMEE-28-40-mm/0791-28-E40 anger 'Load capacity of the pannier rails / side: max. 8 kg', och 0791-28-E40 = 079128E40. Lägg den adressen i att_bekrafta i stället för buchmann.ch (403). 28 tum och 18–35 mm stämmer (18-622–35-622). Det står en gång med 'enligt tillverkaren', och löftesorden är utelämnade."
+ },
+ {
+  "nr": 32040,
+  "id": "10494687805706",
+  "fil": "k_32d_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 'Landsvägscykels-pedaler Giant Road Comp, utan klossar', 230000082, lager 10. Det är en klosspedal för Look Keo, alltså en klosskoppling med utlösningsmekanism, och sådana ingår inte enligt Davids beslut 2026-11-05. Det är samma linje som avvisningen av Keo-klossarna 32034 och 32048."
+ },
+ {
+  "nr": 32041,
+  "id": "10494688952586",
+  "fil": "k_32d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Pedalerna Giant Pinner Pro MTB är platta pedaler",
+    "efter": "Giant Pinner Pro MTB är platta pedaler"
+   },
+   "html": {
+    "fore": "<p>Pedalerna Giant Pinner Pro MTB är platta pedaler",
+    "efter": "<p>Giant Pinner Pro MTB är platta pedaler"
+   }
+  },
+  "skal": "Live: ACTIVE, 230000096/EAN 4713250020402, lager 6. Aluminium A380, 121 x 110 mm, stöd 115 x 110, 16/18 mm, 10 nitar per sida, stålskaft och svart står i egen källa. 'Pinnar' översätter källans 'nitar' och stöds av webbens 'pins'. Den trasiga raden '121 mm, en på varje sida …', vikten och 63,3 mm är rätt utelämnade. Platt pedal. Cirkulär inledning (\"Pedalerna/Cykelstödet X är … pedaler/stöd\", R11) omskriven till formen som godkändes i k_32ab (\"Giant Pinner Elite är universella pedaler\")."
+ },
+ {
+  "nr": 32043,
+  "id": "10494699372810",
+  "fil": "k_32d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Cykelstödet Giant Direct Mount KSA är ett justerbart aluminiumstöd för 24–29-tums bakhjul, 320–400 mm långt.",
+    "efter": "Det justerbara cykelstödet Giant Direct Mount KSA är av aluminium, passar 24–29-tums bakhjul och är 320–400 mm långt."
+   },
+   "html": {
+    "fore": "<p>Cykelstödet Giant Direct Mount KSA är ett justerbart stöd av aluminium för 24–29-tums bakhjul.",
+    "efter": "<p>Det justerbara cykelstödet Giant Direct Mount KSA är tillverkat av aluminium och avsett för 24–29-tums bakhjul."
+   }
+  },
+  "skal": "Live: ACTIVE, 'Stöd för Giant Direct Mount KSA 24\"-29\", 18 mm', 500000013/EAN 4713250808680, lager 104. Alla fakta står i egen källa. Typordet Cykelstöd är en entydig översättning av Giants 'kickstand' för exakt artikeln och är butikens live-ord (produkttypen på 32038), alltså tillåtet enligt R7. Ordet bör läggas in i profilens godkanda_typord. Rättat: cirkulär meta och inledning (skriptvarning)."
+ },
+ {
+  "nr": 32046,
+  "id": "10548251230474",
+  "fil": "k_32d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Alloy, Forest Green",
+    "efter": "Alloy, Grön"
+   },
+   "meta": {
+    "fore": "Pedalerna Kona Wah Wah 2 Alloy är platta aluminiumpedaler i fullstorlek som är fullt servicebara.",
+    "efter": "Kona Wah Wah 2 Alloy är fullstora platta pedaler i aluminium som enligt tillverkaren är fullt servicebara."
+   },
+   "html": {
+    "fore": "<p>Pedalerna Kona Wah Wah 2 Alloy är platta pedaler i aluminium i fullstorlek. Enligt tillverkaren är de fullt servicebara. Maximal lastgräns är inte känd.</p><h2>Passar för</h2><ul>\n<li>Dig som söker platta pedaler i aluminium</li>\n<li>Dig som söker servicebara pedaler</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Pedaler</li>\n<li>Modell: Kona Wah Wah 2 Alloy</li>\n<li>Pedaltyp: Platta pedaler</li>\n<li>Material: Aluminium</li>\n<li>Storlek: Fullstor</li>\n<li>Färg: Forest Green",
+    "efter": "<p>Kona Wah Wah 2 Alloy är fullstora platta pedaler i aluminium. Enligt tillverkaren är de fullt servicebara. Maximal lastgräns är inte känd.</p><h2>Passar för</h2><ul>\n<li>Dig som söker platta pedaler i aluminium</li>\n<li>Dig som söker servicebara pedaler</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Pedaler</li>\n<li>Modell: Kona Wah Wah 2 Alloy</li>\n<li>Pedaltyp: Platta pedaler</li>\n<li>Material: Aluminium</li>\n<li>Storlek: Fullstor</li>\n<li>Färg: Grön"
+   }
+  },
+  "skal": "Live: ACTIVE, CMPPDWW2DG, 3019 kr, lager 1. Platt pedal, aluminium, fullstor och 'fullt servicebara' (en gång med 'enligt tillverkaren') står i egen källa, och marknadsorden är rätt utelämnade. Färgnamnet 'Forest Green' är engelska, och handlarna kallar det Dark Green (DG i SKU). Den entydiga svenska färgen 'Grön' används i titel och specifikation. Titelparet och html-paret är vardera ett sammanhängande stycke. Cirkulär inledning (\"Pedalerna/Cykelstödet X är … pedaler/stöd\", R11) omskriven till formen som godkändes i k_32ab (\"Giant Pinner Elite är universella pedaler\")."
+ },
+ {
+  "nr": 32047,
+  "id": "10554354073866",
+  "fil": "k_32d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Pedalerna Look Trail Grip är plattpedaler",
+    "efter": "Look Trail Grip är plattpedaler"
+   },
+   "html": {
+    "fore": "<p>Pedalerna Look Trail Grip är plattpedaler",
+    "efter": "<p>Look Trail Grip är plattpedaler"
+   }
+  },
+  "skal": "Live: ACTIVE, 16-125/EAN 3611720190222, lager 1. Komposit, Q-faktor 63 mm, grepp, Vibram, 107x103 och 265/530 g står ordagrant. 'Mountainbike' i Passar för stöds av produktens tagg. Platt pedal. Cirkulär inledning (\"Pedalerna/Cykelstödet X är … pedaler/stöd\", R11) omskriven till formen som godkändes i k_32ab (\"Giant Pinner Elite är universella pedaler\")."
+ },
+ {
+  "nr": 32049,
+  "id": "10565560631562",
+  "fil": "k_32e_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Universella pedaler för mountainbike från Giant, mått 112 x 105 mm och nio utbytbara klossar per sida. Maximal lastgräns är inte känd.",
+    "efter": "Giant Pinner Elite är universella pedaler för mountainbike med måtten 112 x 105 mm och nio utbytbara stift per sida. Maximal lastgräns är inte känd."
+   },
+   "html": {
+    "fore": "Varje sida har nio utbytbara och justerbara klossar. Maximal lastgräns är inte känd.</p><h2>Passar för</h2><ul>\n<li>Dig som söker universella pedaler för mountainbike</li>\n<li>Dig som vill kunna byta och justera klossarna på pedalens båda sidor</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Pedaler</li>\n<li>Märke: Giant</li>\n<li>Modell: Pinner Elite</li>\n<li>Användning: Universell, för mountainbike</li>\n<li>Mått: 112 x 105 mm</li>\n<li>Höjd: 16 mm i mitten och 17,1 mm vid kanten</li>\n<li>Pedalkropp: Nylon</li>\n<li>Axel: CNC-bearbetat stål</li>\n<li>Klossar: Nio utbytbara och justerbara per sida</li>",
+    "efter": "Varje sida har nio utbytbara och justerbara stift. Maximal lastgräns är inte känd.</p><h2>Passar för</h2><ul>\n<li>Dig som söker universella pedaler för mountainbike</li>\n<li>Dig som vill kunna byta och justera stiften på pedalens båda sidor</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Pedaler</li>\n<li>Märke: Giant</li>\n<li>Modell: Pinner Elite</li>\n<li>Användning: Universell, för mountainbike</li>\n<li>Mått: 112 x 105 mm</li>\n<li>Höjd: 16 mm i mitten och 17,1 mm vid kanten</li>\n<li>Pedalkropp: Nylon</li>\n<li>Axel: CNC-bearbetat stål</li>\n<li>Stift: Nio utbytbara och justerbara per sida</li>"
+   }
+  },
+  "skal": "Live: ACTIVE, 230000102/EAN 4713250020464, 799 kr, lager 1. Platt pedal, ingen klosskoppling. Metan saknade verb (R12/R11). Källans 'klossar' är en felöversättning av 'pins' (Giant: metal pins, handlare: 9 replaceable pins per side). På en pedal betyder 'klossar' skoklossar för klosspedaler, vilket är missvisande. Det ersätts med 'stift', som är Giants svenska ord för samma modell (32030) och stöds av webbsidan för exakt artikeln. 112 x 105 mm är källans 'Pedalens mått'. Handlare anger 117/121 x 110 mm, så måttet kan vara stödytan, men egen källa är entydig och värdet behålls. Html-paret är ett sammanhängande stycke."
+ },
+ {
+  "nr": 32051,
+  "id": "10581101838602",
+  "fil": "k_32e_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Viktset på 50 kg från Gymstick med skivstång och viktskivor klädda i vinyl.",
+    "efter": "Gymstick Vinyl Weight Set väger 50 kg och innehåller en skivstång och viktskivor klädda i vinyl."
+   }
+  },
+  "skal": "Live: ACTIVE, 61108/EAN 6430016903868, en variant, lager 81. 50 kg, skivstång och viktskivor klädda i vinyl står i egen källa. Golvskydd, ljud och rehabilitering är rätt utelämnade, och viktuppdelningen är rätt utelämnad eftersom webben går isär. Typordet Viktset är källans 'vinylviktsset' och har prejudikat i k_skriv_12. De tidigare avvisningarna (c_3, k_23d: 'bärande utan svensk lastgräns') hävs av v1.10. Ingen lastgräns hittades, så 'Ej känd' är rätt. Metan saknade verb och har fått ett."
+ },
+ {
+  "nr": 32060,
+  "id": "10581105869066",
+  "fil": "k_32e_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Door Gym Bar monteras i de flesta dörrkarmar utan skruvar och används för chins. Enligt tillverkaren bör användarvikten inte överstiga 130 kg.",
+    "efter": "Gymstick Door Gym Bar monteras i en dörröppning och används för chins. Enligt tillverkaren bör användarvikten inte överstiga 130 kg."
+   },
+   "html": {
+    "fore": "<p>Gymstick Door Gym Bar kan monteras i de flesta dörrkarmar utan skruvar och används för övningar som chins och pull-ups. Enligt tillverkaren bör användarvikten inte överstiga 130 kg.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en chinsstång för dörrkarm</li>\n<li>Dig som vill montera en stång utan skruvar</li>",
+    "efter": "<p>Gymstick Door Gym Bar monteras i en dörröppning och används för chins. Enligt tillverkaren bör användarvikten inte överstiga 130 kg, och dörröppningen får vara högst 91 cm bred.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en chinsstång för dörröppning</li>\n<li>Dig som vill träna chins hemma</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Chinsstång för dörrkarm</li>\n<li>Märke: Gymstick</li>\n<li>Modell: Door Gym Bar</li>\n<li>Montering: I dörröppning, högst 91 cm bred</li>"
+   }
+  },
+  "skal": "Live: ACTIVE, varianterna BL (lager 0), Default och WH, alla 259 kr (samma artikel, v1.9). Titeln låser ingen färg. 130 kg är bekräftat: Gymsticks manual 'DOOR GYM BAR' (gym61029bl, taloon.com) säger på svenska 'Användarvikten bör inte överskrida 130 kg. Bredden av dörröppningen högst 91cm.', och samma värde står på engelska och finska. MEN samma manual säger att hakarna fästs i dörrkarmen 'med skruvarna från packningen (10 st)' och att produkten 'endast är avsedd för att göra räckhäv'. Live-källans 'utan behov av skruvar' motsägs alltså av tillverkaren (R2), och 'utan skruvar' tas bort ur meta, html och Passar för. Dörrbredden högst 91 cm läggs till ur samma manual. Den är ingen lastuppgift. Pull-ups och dips är utelämnade. Html-paret är ett sammanhängande stycke."
+ }
+]
