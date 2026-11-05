@@ -1,0 +1,44 @@
+[
+ {
+  "id": "10636681773322",
+  "nr": 20045,
+  "titel_nu": "Spikmatta och Kudde",
+  "skäl": "R6/R3: akupressur (källan: \"akupressur av ett stort antal punkter\", massage, smärtlindring) ligger under utanfor_tills_vidare; kräver Davids ja per produkt. Dessutom sju riktiga färgvarianter med olika SKU (101043-00040-0001 m.fl.) och påståenden om smärta/blodcirkulation (R5)."
+ },
+ {
+  "id": "10636683018506",
+  "nr": 20046,
+  "titel_nu": "Yogabälte GS",
+  "skäl": "R3: tio färgvarianter med olika SKU (101048-00084-0219 m.fl.); olika SKU på riktiga varianter avvisas (v1.7). Inget äldre utlåtande finns; skälet är nytt."
+ },
+ {
+  "id": "10636687933706",
+  "nr": 20048,
+  "titel_nu": "Wall Ball Paket PRO 6kg 12kg 15kg",
+  "skäl": "R3: tre riktiga varianter med olika SKU och pris (Paket 6 kg 1 629 kr, 12 kg 1 799 kr, 15 kg 2 899 kr); titeln låser alla tre paket men källan skiljer inte paketens innehåll åt utöver att bollvikterna 1-5 kg ingår. v1.7 gäller bara en överbliven Default Title med samma SKU."
+ },
+ {
+  "id": "10636693831946",
+  "nr": 20050,
+  "titel_nu": "Yogablock GS",
+  "skäl": "R3: sju färgvarianter med olika SKU, och Mörkblå och Ljusblå har samma SKU (100813-00030-0001) men olika pris (159 mot 99 kr), så variantdatat är trasigt. Källans färglista är dessutom motsägande (\"rosa mörkblå\"). Lastraden \"Maximal belastning: 150kg\" hade annars gått att använda. David avgör variantdata."
+ },
+ {
+  "id": "10636696518922",
+  "nr": 20051,
+  "titel_nu": "Studsmatta Trampolin 100cm",
+  "skäl": "R3: tre färgvarianter med olika SKU och pris (Orange 1 749, Rosa 1 799, Blå 1 899 kr); källan nämner färgerna med blandade namn (blå/svart, orange/svart, rosa/svart). Texten vänder sig dessutom till \"såväl vuxen som barn\" med hälsopåståenden (stärka leder, balans, R5/R6)."
+ },
+ {
+  "id": "10636701303050",
+  "nr": 20052,
+  "titel_nu": "Yogamatta TPE 180x60cm",
+  "skäl": "R3/R2: åtta färgvarianter med olika SKU (100977-00049-0001 m.fl.) och källan motsäger sig om tjockleken (0,8 cm i löptexten, 0,6 cm i specifikationen). Halkskydds- och bärlöften (R5)."
+ },
+ {
+  "id": "10636705792266",
+  "nr": 20053,
+  "titel_nu": "Pegboard GS 110cm",
+  "skäl": "R4/v1.7: väggmonterad hängprodukt där hela kroppsvikten hänger; egen källa saknar lastgräns. Tidigare UNDERKÄND (k_utlatande_11bc). Faktakoll på nätet: Decathlon, Galaxus m.fl. anger 500 kg men på engelska/tyska av återförsäljare och för en 102 cm-modell (30 x 102 x 4 cm) mot butikens 110 cm, så källan gäller inte entydigt exakt modellen och är inte ordagrann svensk (R4). Skälet kvarstår under v1.7."
+ }
+]
