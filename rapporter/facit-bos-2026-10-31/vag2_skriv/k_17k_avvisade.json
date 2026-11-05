@@ -1,0 +1,62 @@
+[
+ {
+  "id": "10623405523210",
+  "nr": 10016,
+  "skäl": "Tunn källa (R3): live-texten ger bara att stången tränar rygg, axlar och armar (en uppgift utöver titeln). Webbkoll gav ingen entydig källa för exakt artikel 61156 (Tradeinn Lat Bar saknar artikelnummer, annan Gymstick-stång med handtag 100 cm är en annan modell). Uppgifter utelämnas."
+ },
+ {
+  "id": "10624084148490",
+  "nr": 10609,
+  "skäl": "Källan är bara 'Tillverkaren är Toorx' (R3): noll fakta utöver titeln. Webbkoll hittade ingen sida för 'Fastball WBX-70'; WBX-70 förekommer bara som Power Tower i paket (SKU KIT-PALLAWBX-70), så ingen entydig källa."
+ },
+ {
+  "id": "10636608569610",
+  "nr": 9545,
+  "skäl": "Titeln anger BLACK men källan säger 'Färg: Krom' och 'Den svarta färgen är snygg och tålig': motsägelse (R2/R3). En variant (T000170)."
+ },
+ {
+  "id": "10636616040714",
+  "nr": 9737,
+  "skäl": "Redan skriven (facit-30, 2026-11-01): live-texten är vår egen (R3: egen text är ingen källa) och leverantörens original finns inte kvar. Taggen texter-klara saknas live; hanteras av koordinatorn."
+ },
+ {
+  "id": "10636636782858",
+  "nr": 9747,
+  "skäl": "Redan skriven (facit-30, 2026-11-01): live-texten är vår egen och innehåller FAQ-sektion; ingen ny källa finns (R3). Taggen texter-klara saknas live; FAQ-rensning och tagg hanteras av koordinatorn."
+ },
+ {
+  "id": "10636716376330",
+  "nr": 9816,
+  "skäl": "Tunn källa (R3): bara anatomi och löpning, en entydig uppgift utöver titeln (tränar adduktorerna); källan innehåller skaderiskpåstående (R5). Ingen produktbeskrivning, mått eller material."
+ },
+ {
+  "id": "10636727025930",
+  "nr": 9357,
+  "skäl": "Titeln anger 30 mm men källan anger 'Diamteter på 31mm' och ingen text anger 30 mm (R3). Produkten har taggen 'Viktlås 31mm'. En variant. Kan skrivas som 31 mm om David godkänner titeländring."
+ },
+ {
+  "id": "10650210369802",
+  "nr": 10223,
+  "skäl": "R3/v1.7: tre varianter med olika SKU och pris (Red 17050 379 kr, gray 17051 559 kr, yellow 17053 2039 kr); titelns Röd och 2.5 kg gäller bara en variant."
+ },
+ {
+  "id": "10650210468106",
+  "nr": 10321,
+  "skäl": "R3/v1.7: två varianter med olika SKU och pris (17360 409 kr, 17368 1949 kr); titelns 4 kg stämmer inte, källan anger bara intervallet 4-24 kg."
+ },
+ {
+  "id": "10650210664714",
+  "nr": 10222,
+  "skäl": "R3/v1.7: två varianter med olika SKU och pris (17611 3039 kr, 17613 5699 kr); källan anger längd 183 eller 220 cm och 700 kg medan specifikationen anger 250 kg: motstridiga lastuppgifter (R4)."
+ },
+ {
+  "id": "10656690274570",
+  "nr": 10108,
+  "skäl": "Tunn källa (R3): bara kompatibilitet (Flex och Delight); titelns 'med ryggstöd' saknar stöd och priset är 9,00 kr (SKU 1521-30), uppenbart fel. Ingen webbkälla funnen."
+ },
+ {
+  "id": "10656691323146",
+  "nr": 9602,
+  "skäl": "Titeln 'Elliptisk träningsmaskin' stämmer inte med källan: texten beskriver en roddmaskin (ER1000R) men spec anger steglängd 46 cm (R2/R3). Butiken har tre ER1000R-poster; David avgör vilken som är rätt."
+ }
+]

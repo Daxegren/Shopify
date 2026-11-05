@@ -1,0 +1,38 @@
+[
+ {
+  "id": "10581110358282",
+  "nr": 9927,
+  "skäl": "R3 (live kontrollerad 2026-11-05): sju varianter med olika SKU (PRO PU-1,25 till PRO PU-25) och priser 109–1 429 kr; ingen Default Title-rest, v1.7-undantaget gäller inte.",
+  "titel_nu": "Pro PU Viktplatta 1,25kg / styck"
+ },
+ {
+  "id": "10581110980874",
+  "nr": 3200,
+  "skäl": "R3 (live): två varianter med olika SKU (61031 och 61031-0) och olika pris (2 549 och 999 kr); v1.7-undantaget kräver samma SKU.",
+  "titel_nu": "Snabbkoppling Hantel 22,5kg"
+ },
+ {
+  "id": "10581111243018",
+  "nr": 9622,
+  "skäl": "Redan skriven: taggen texter-klara finns live och live-titeln är nu \"Viktskiva Gymstick Gummerad, 1,25–25 kg\". Dessutom sju varianter med olika SKU/pris.",
+  "titel_nu": "Viktskiva Gymstick Gummerad, 1,25–25 kg"
+ },
+ {
+  "id": "10581112094986",
+  "nr": 10129,
+  "skäl": "R3 (live): två varianter med olika SKU (61141 och 61141-SPR) och pris (249 och 299 kr); v1.7-undantaget gäller inte.",
+  "titel_nu": "Treadmill Lubrication"
+ },
+ {
+  "id": "10581112717578",
+  "nr": 3239,
+  "skäl": "R3 (live): två varianter (105 cm och 115 cm) med olika SKU (61086-105, 61086-115) och pris (209 och 219 kr). Bälte för tunga lyft med skyddspåståenden i källan.",
+  "titel_nu": "Weightlifting Belt - Shaped 105cm"
+ },
+ {
+  "id": "10581112815882",
+  "nr": 3242,
+  "skäl": "R3 (live): två varianter med olika SKU (61162-S och 61162) och pris (1 449 och 1 899 kr); hoppbox med last, ingen maxbelastning i källan (R4).",
+  "titel_nu": "Trä Plyobox 50 x 45 x 40cm"
+ }
+]

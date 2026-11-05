@@ -1,0 +1,27 @@
+[
+ {
+  "nr": 10111,
+  "id": "10474079518986",
+  "fil": "k_17e_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live (ACTIVE, tom SEO, ingen tagg 'På beställning'): varianterna Default Title 13 339 kr (lager 2) och M / green 11 599 kr (lager 3) har samma SKU 2201135185 och samma EAN 4712878768598; Default Title saknar färg. Samma mönster som prejudikaten 10113 och 10117, så v1.7 gäller: Default Title ignoreras och titeln låser varken färg, storlek eller pris. Rätt att stryka 'Ocean Wave' ur titeln (källan säger Ocean Wave, varianten green). Alla fakta står ordagrant i live-källan: ALUXX-Grade aluminium, SF22-X1-Coil RLR DS 100 mm (Suntour), Alivio M3120, Deore M592, Deore BR-MT200 hydrauliska skivbromsar, Kenda Booster 27,5 x 2,2 (max 2,4), fästpunkter för stänkskärmar och flaskhållare. Livs egen sida (länkad i källan, öppnad: Tempt 2 (GE) MY22, Ocean Wave) bekräftar samma komponenter, 100 mm för S och större, och att storlek M finns i 27,5 tum, så hjulstorleken stämmer med varianten M. Ramstorlekar korrekt utelämnade (R3 v1.5); 'perfekt', 'lätt', 'bekväm' och Giant-reklam korrekt utelämnade (R5). Antal växlar korrekt utelämnat (står inte i källan). Ingen dubblett: sökning på Tempt visar Tempt 2 (ej GE, SKU 2201115285) och Tempt 2 GE 29 tum (SKU 2201134185), andra modeller. Till David (data, inte text): Default Title har lager och 1 740 kr högre pris än M / green, och handle slutar på 2201135184 (annan SKU än varianten)."
+ },
+ {
+  "nr": 9016,
+  "id": "10502527877386",
+  "fil": "k_17f_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html_1": {
+    "fore": "<li>Dig som vill ha 7 växlar med Shimano</li>\n<li>Dig som är ca 165–195 cm lång</li>",
+    "efter": "<li>Dig som vill ha 7 växlar med Shimano</li>"
+   },
+   "html_2": {
+    "fore": "\n<li>Lämplig för längder: Ca 165–195 cm</li>",
+    "efter": ""
+   }
+  },
+  "skal": "Live (ACTIVE, en variant Default Title, SKU ENGWE_E26ST-BLACK, 25 999 kr, tom SEO, ingen tagg 'På beställning'). Egen källa beskriver 'ENGWE E26' generiskt. Engwes egen sida för E26 (engwe-bikes.com/collections/on-sale/products/engwe-e26, omdirigerad till us.engwe.com, öppnad) har en gemensam spec-tabell för High-Step och Step-Thru (ST): 48V 16Ah (= 768 Wh), 6061-aluminium, Shimano 7 växlar, hydrauliska bromsar fram och bak, 26 x 4.0 fat-däck, max last 330 lbs (150 kg); bara vikten skiljer (34,5 mot 33,5 kg). Därmed gäller källans gemensamma fakta entydigt även E26 ST, och tillverkarsidan ersätter frågan om återförsäljarkällor räcker. Av utkastets webbadresser gav decathlon.ie 404 och ypc.co.uk 403; electrotraveller (öppnad) visar samma fakta men är återförsäljare och har en egen motsägelse (rubrik 120 kg mot tabell 150 kg). Återförsäljarsidor ensamma hade inte räckt här. Lastkapacitet: live-raden 'Lastkapacitet: 150 kg' är svensk, ordagrann, med etikett och enhet, och tillverkaren anger samma maxlast; skriven en gång 'enligt tillverkaren' (R4, R5 högst två uppfyllt), samma bedömning som 9017 i k_utlatande_01d. Får stå. Rättning: längdintervallet 165–195 cm i källan gäller E26 generellt och motsägs av tillverkaren (170–200 cm) och electrotraveller (168–195 cm); R2 motsägelse, utelämna på båda ställena. Vikt (34,5 kg är High-Step-värdet), motor och räckvidd är korrekt utelämnade. 'Svart' stöds av SKU. Ingen dubblett (9017 och 9018 är E26 utan ST)."
+ }
+]
