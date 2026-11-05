@@ -1,0 +1,47 @@
+[
+ {
+  "id": "10472262959370",
+  "nr": 23027,
+  "skäl": "Tunn källa: live-källan säger bara att satsen är ett batteripaket till Fiido Titan och innehåller batterihållare, 2 batterier och påsar. Webbsökning på SKU TITAN-BATTERY gav inga entydiga specifikationer (kapacitet, spänning). Batteripaket är dessutom en elektrisk säkerhetsdel utan styrkt data. Kvarstår avvisad."
+ },
+ {
+  "id": "10472271020298",
+  "nr": 23028,
+  "skäl": "Motsägelse som webben inte löser: titeln säger Vredeslås, live-källan hjullås. Tillverkaren och återförsäljare (samma EAN 5012245039542) säljer Squire Folda Mini FL690 som ett vikbart länklås (folding lock), och längden går isär (69 cm i live, 650 mm hos flera webbsäljare). Inget av typorden (vredeslås, hjullås) har stöd av egen källa och vikbart lås är inget godkänt typord; ingen text kan skrivas utan att gissa typ eller längd."
+ },
+ {
+  "id": "10472297791754",
+  "nr": 23029,
+  "skäl": "Avvisas: produkten är en barnhjälm, inte en pannlampa. Webben (EAN 5400974036664, Lazer NutZ 2.0 KinetiCore) beskriver en barnhjälm i unisize 50-56 cm; titeln (Pannlampa) och live-källan (tunn, bara synlighets- och säkerhetsformuleringar) motsäger det. Barn och hjälm (säkerhetsprodukt) är utanför (R6). Lyft till David att rätta titeln och typen."
+ },
+ {
+  "id": "10472299299082",
+  "nr": 23030,
+  "skäl": "Ingen beskrivning, bara titeln och taggarna Cykellås/viktlås. Webbsökning på Toorx CFSL Safe Lock 50 mm gav ingen träff på modellen, så inga entydiga fakta kan styrkas och typen (hantelvikter eller lås) förblir oklar. Kvarstår avvisad."
+ },
+ {
+  "id": "10472304017674",
+  "nr": 23031,
+  "skäl": "Dubbdäck är en säkerhetsdel där däcksfrågan är obeslutad hos David (öppen fråga 6 i granskningen). Titeln är avklippt (28 x 1.) och live-källan har en trasig rad om användning och kvalitetslöften (slitstark, utmärkt punkteringsskydd). Webbkoll gjordes inte vidare eftersom produkten ändå inte kan släppas utan beslut. Kvarstår avvisad."
+ },
+ {
+  "id": "10472304935178",
+  "nr": 23032,
+  "skäl": "Dubbdäck är en säkerhetsdel där däcksfrågan är obeslutad hos David. Live-källan har bara oetiketterade rader (\"244 pounds\", \"74.01\") och säkerhets-/kvalitetslöften (säker, slitstarka, utmärkt grepp); inga två entydiga fakta utöver titeln. Kvarstår avvisad."
+ },
+ {
+  "id": "10472305688842",
+  "nr": 23033,
+  "skäl": "Titeln anger 100 mm, live-källan 110 mm. Webben visar att Union Credit V2 finns i både 100 mm (svart, scootshop.net, supplierkod 105151) och 110 mm (svart/neochrome, veloplus.ee); ingen träff på färgen blå/svart eller på SKU 105688. Diameter och färg går därför inte att fastställa entydigt. Kvarstår avvisad."
+ },
+ {
+  "id": "10472323023114",
+  "nr": 23034,
+  "skäl": "Tunn källa: live-källan har bara att dörrpanelen passar Ultimate Curve och Deluxe samt tillverkarens namn. Webbsökning gav ingen sida för sidodörren (artikelnr AMLADCYKLER-82-1), så inga två fakta utöver titeln kan styrkas. Kvarstår avvisad."
+ },
+ {
+  "id": "10472324432138",
+  "nr": 23035,
+  "skäl": "Live-källan är bara \"Produkten passar för BH Fitness\" med länk till en velotrainer. Webbsökning på artikelnr 0191191 och EAN 8431284975340 gav ingen träff på produkten, så typen Step board och inga fakta kan styrkas. Kvarstår avvisad."
+ }
+]

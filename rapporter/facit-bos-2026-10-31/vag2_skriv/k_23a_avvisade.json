@@ -1,0 +1,50 @@
+[
+ {
+  "id": "10411859181834",
+  "nr": 23002,
+  "titel_nu": "Stuntscooter SOKE GO! blå-gul",
+  "skäl": "Barnkategori (R6): webbkällor (bl.a. kidero.be, EN 14619, Kinderroller) säljer SOKE GO! som barn-/nybörjarscooter, och live-källan säger \"för unga som börjar\"; spärren gäller tills David beslutat. Dessutom maskinöversatt källa (\"linser\"), dubbla måttrader och EAN 5903890604790 hittades inte på nätet."
+ },
+ {
+  "id": "10430254809354",
+  "nr": 23003,
+  "titel_nu": "TOORX Olympic EVO Kettlebell, blå, 12 kg",
+  "skäl": "R3: titeln (blå, 12 kg) stämmer inte med SKU KCAE-14. Webbkoll: Toorx KCAE-14 är 14 kg i ljusgult (https://www.fitmax.it/en/products/toorx-kettlebell-kg-14-olimpionico-evo-in-acciaio, https://www.mediamarkt.nl/en/product/_kcae-14-148442400.html); blå är KCAE-12 (12 kg). Källan säger varken vikt eller färg. Titeln behöver rättas av David (14 kg, ljusgul) innan den kan skrivas."
+ },
+ {
+  "id": "10461967188234",
+  "nr": 23004,
+  "titel_nu": "Framkorg BASIL Bremen Rattan Look FM, mörkbrun",
+  "skäl": "R3: källan stämmer inte med titeln. Titeln säger mörkbrun, texten havsgrön, och texten säger att korgen medföljer ej. Webbkoll: EAN 8715019190353 / art.nr 19035 listas som brun FM-korg (hollandbikeshop.com), medan \"dark brown\" bara hittades för KF-modellen 19038 (basil.com); Basils egen FM-sida har annat EAN (8715019190452). Färg och vad som ingår går inte att styrka entydigt."
+ },
+ {
+  "id": "10462767284490",
+  "nr": 23006,
+  "titel_nu": "Utomhusdäck CONTINENTAL Tire Ride Tour 42-622/ 28x1.60",
+  "skäl": "Cykeldäck är säkerhetskritisk del utan ordagrann svensk lastgräns (R4/v1.7); live-källan saknar beskrivning (bara titel) och webbkoll gav ingen entydig svensk uppgift för exakt artikelnummer (en lastuppgift 25 kg fanns bara hos en återförsäljare med annat produktnummer, engelsk). Färre än två entydiga fakta utöver titeln."
+ },
+ {
+  "id": "10462780424458",
+  "nr": 23007,
+  "titel_nu": "Scooter stickers Union Sticker",
+  "skäl": "R3: tunn källa (bara namn, märke och vikt 0,01 kg). Webbsökning på artikelnummer 104912 och Union-sticker gav ingen träff; inga entydiga fakta utöver titeln."
+ },
+ {
+  "id": "10462785896714",
+  "nr": 23008,
+  "titel_nu": "Kork Start NATURAL",
+  "skäl": "R2/R3: källan är maskinöversatt (\"skrubba bort hal jord\") och säger bara vad korken inte ska användas till. Webbkoll (Start-korkar, EAN 6418016050287, art.nr 15MU502800) gav ingen träff på en Start Natural-kork; endast Starts syntetiska Divi-kork och andra märkens korkar hittades. Färre än två entydiga fakta."
+ },
+ {
+  "id": "10468710678794",
+  "nr": 23010,
+  "titel_nu": "Frontkorg för ADO A28, svart",
+  "skäl": "R3: live-källan beskriver en hjälm (\"ADO Air 28 framhjälm\"), inte korgen. Webbkoll (https://adoebike.com/products/ado-air28-front-basket) ger bara att korgen finns i svart/silver och hör till ADO AIR28; inga mått, material eller lastgräns. Efter att titeln (typ, ADO A28, svart) räknats bort finns färre än två entydiga fakta. Systerprodukten silver (10472248738058) är skriven med kort meta."
+ },
+ {
+  "id": "10470983958794",
+  "nr": 23012,
+  "titel_nu": "Frame ear Union GH-022",
+  "skäl": "R2/R3: titeln (Frame ear) och källan (ramring) säger olika om vad delen är; webbkoll (EAN 8590966390229, Marwi/Union GH-022 hos hollandbikeshop.com) visar att det är ett växelöra, men kompatibiliteten anges i källan som en lång märkeslista \"för olika modeller\" utan modeller och är inte entydig; växelöra utan passform går inte att skriva säkert. Endast aluminium är entydigt."
+ }
+]
