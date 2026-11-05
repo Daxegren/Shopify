@@ -1,0 +1,86 @@
+[
+ {
+  "id": "10593398489354",
+  "nr": 25066,
+  "avvisningsskal": "2 x 10kg Vinyl Plates: viktskivor (last). Säkerhetsprodukt; vikt per skiva, mått och stångdiameter anges inte och 2 x 10 kg står bara i titeln. Tas för hand med Davids ja.",
+  "batch_gammal": "c_18_avvisade.json",
+  "titel_nu": "2 x 10kg Vinyl Plates"
+ },
+ {
+  "id": "10611438649610",
+  "nr": 25067,
+  "avvisningsskal": "Soft Plyobox 3-in-1 (plyobox): man hoppar på och står på lådan, alltså en belastningsprodukt (last/stabilitet) med tre höjder; källan anger ingen maxbelastning, mått eller stabilitetsuppgifter. Tas för hand med Davids ja.",
+  "batch_gammal": "c_20_avvisade.json",
+  "titel_nu": "Soft Plyobox 3-in-1"
+ },
+ {
+  "id": "10635791565066",
+  "nr": 25068,
+  "avvisningsskal": "Handtag till styret (styrdel) och källan saknas helt (tom beskrivning, bara titel). Handläggs för hand.",
+  "batch_gammal": "b_25_avvisade.json",
+  "titel_nu": "Handtag GIANT Tactal Grip, Svart"
+ },
+ {
+  "id": "10635810144522",
+  "nr": 25069,
+  "avvisningsskal": "Dublett av 10523488157962 (nr 6121): samma titel 'Cykel ROMET Vintage Classic 1.0 D, grön', samma källtext och samma pris, bara annan SKU (28182516-B mot 28202517-B). Titel, SEO-titel och meta kan inte göras unika utan påhittad skillnad. Lyfts till handläggning: avgör om produkterna är samma modell/år eller en dublett.",
+  "batch_gammal": "k_5_avvisade.json",
+  "titel_nu": "Cykel ROMET Vintage Classic 1.0 D, grön"
+ },
+ {
+  "id": "10656690372874",
+  "nr": 25070,
+  "avvisningsskal": "Setet inkluderar fram- och bakljus, ramlås och pakethållare enligt källan (belysning, lås, pakethållare: säkerhetsprodukter enligt reglerna). Samma beslut som k_3 nr 6072.",
+  "batch_gammal": "k_16_avvisade.json",
+  "titel_nu": "Cykel GIANT AnyTour RS 2 GB, Ocean Storm"
+ },
+ {
+  "id": "10656691912970",
+  "nr": 25071,
+  "avvisningsskal": "Hybridcykel Giant AnyTour RS 2 GB: setet inkluderar enligt källan fram- och bakljus, ramlås och pakethållare (belysning, lås och pakethållare är säkerhetsprodukter enligt specialreglerna; samma bedömning som 6072). Tas för hand med Davids ja.",
+  "batch_gammal": "k_17_avvisade.json",
+  "titel_nu": "Cykel GIANT AnyTour RS 2 GB, Ocean Storm"
+ },
+ {
+  "id": "10656692273418",
+  "nr": 25072,
+  "avvisningsskal": "Belysning med batteri/elektronik (cykellampa med USB-C och lumen/drifttid): säkerhetsprodukt med lagkrav.",
+  "batch_gammal": "b_25_avvisade.json",
+  "titel_nu": "Headlight GIANT Numen HL600"
+ },
+ {
+  "id": "10665226731786",
+  "nr": 25073,
+  "avvisningsskal": "Belysning med batteri/elektronik (cykellampa 1500 lumen, 4000 mAh): säkerhetsprodukt med lagkrav.",
+  "batch_gammal": "b_25_avvisade.json",
+  "titel_nu": "Strålkastare BOOKMAN Volume 1500, svart"
+ },
+ {
+  "id": "10673147445514",
+  "nr": 25074,
+  "avvisningsskal": "Dublett (R12a): samma modell Fluid Viking 3 XL, trä som nr 10198 (id 10673147085066, aktiv, texter-klara, f_skriv_8).",
+  "batch_gammal": "k_09c_avvisade.json",
+  "titel_nu": "Roddmaskin FLUID Viking 3 XL, trä"
+ },
+ {
+  "id": "10673147609354",
+  "nr": 25075,
+  "avvisningsskal": "Dublett (R12a): samma modell Fluid Viking Pro XL, trä som nr 10199 (id 10673146921226, aktiv, texter-klara, f_skriv_8).",
+  "batch_gammal": "k_09c_avvisade.json",
+  "titel_nu": "Roddmaskin FLUID Viking Pro XL, trä"
+ },
+ {
+  "id": "10673149542666",
+  "nr": 25076,
+  "avvisningsskal": "Dublett (R12a): samma produkt som nr 10061 'Pulssensorhandtag för FLUID Roddmaskiner V och XL' (id 10673149411594, aktiv, texter-klara, f_skriv_3).",
+  "batch_gammal": "k_09b_avvisade.json",
+  "titel_nu": "Handtag med pulssensorer för V- och XL-modeller av FLUID roddmaskiner"
+ },
+ {
+  "id": "10673149739274",
+  "nr": 25077,
+  "avvisningsskal": "Dublett (R12a): samma produkt som nr 10065 'Ryggstöd för FLUID Roddmaskiner i Järn och Skumgummi' (id 10673149673738, aktiv, texter-klara, f_skriv_3).",
+  "batch_gammal": "k_09c_avvisade.json",
+  "titel_nu": "Ryggstöd för FLUID roddmaskiner"
+ }
+]

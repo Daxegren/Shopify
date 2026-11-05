@@ -1,0 +1,93 @@
+[
+ {
+  "id": "10472243790090",
+  "nr": 25014,
+  "avvisningsskal": "Lastcykel (Cargobike Delight) med lastlåda: lastcyklar avvisas enligt cykelreglerna.",
+  "batch_gammal": "b_42_avvisade.json",
+  "titel_nu": "Electric cargo bike CARGOBIKE Delight"
+ },
+ {
+  "id": "10472244019466",
+  "nr": 25015,
+  "avvisningsskal": "Säkerhetsprodukt: Bromsdel (broms). Bromsar och bromsdelar skrivs inte (specialregler för cyklar och cykeldelar).",
+  "batch_gammal": "k_8_avvisade.json",
+  "titel_nu": "Brake SHIMANO BR-R353 first black"
+ },
+ {
+  "id": "10472244642058",
+  "nr": 25016,
+  "avvisningsskal": "Säkerhetsprodukt: Bromsdel (broms). Bromsar och bromsdelar skrivs inte (specialregler för cyklar och cykeldelar).",
+  "batch_gammal": "k_8_avvisade.json",
+  "titel_nu": "Brake SHIMANO BR-R353 rear black"
+ },
+ {
+  "id": "10472249032970",
+  "nr": 25017,
+  "avvisningsskal": "Elektroniskt växelsystem med batteri (SRAM Rival eTap AXS) samt hydrauliska XR-skivor: avvisas (elektronik/batteri).",
+  "batch_gammal": "k_11_avvisade.json",
+  "titel_nu": "Damcykel Liv EnviLiv Advanced SL LTD, Blanc"
+ },
+ {
+  "id": "10472253227274",
+  "nr": 25018,
+  "avvisningsskal": "Kemikalie (fettlösare/glidvallningsborttagning) med farovarning i källan: lättantändligt, skadligt vid inandning, hudkontakt och förtäring. Faroklassning och märkning är inte kontrollerade; underkänd tidigare i b_21 av samma skäl.",
+  "batch_gammal": "k_11g_avvisade.json",
+  "titel_nu": "Grease remover Start 1 L"
+ },
+ {
+  "id": "10472254505226",
+  "nr": 25019,
+  "avvisningsskal": "Säkerhetsprodukt: lås (AXA Double Loop Cable, kabel med öglor för att låsa cykeln, 'säkerhetsindex 4 av 15'). Skrivs inte i vågor; tas för hand med Davids ja.",
+  "batch_gammal": "b_3_avvisade.json",
+  "titel_nu": "Kabel med öglor DOUBLE LOOP CABLE/120CM/CARD"
+ },
+ {
+  "id": "10472255717642",
+  "nr": 25020,
+  "avvisningsskal": "Cykelmonteringstjänst med garanti- och säkerhetsvillkor (slutmontering, bromsar, växlar); tjänst som tas för hand.",
+  "batch_gammal": "b_27_avvisade.json",
+  "titel_nu": "Bike Assembly Service"
+ },
+ {
+  "id": "10472258797834",
+  "nr": 25021,
+  "avvisningsskal": "Pedaler (Look Keo 2 Max): pedaler avvisas enligt specialreglerna.",
+  "batch_gammal": "k_7_avvisade.json",
+  "titel_nu": "Pedals LOOK KEO 2 MAX"
+ },
+ {
+  "id": "10472259584266",
+  "nr": 25022,
+  "avvisningsskal": "Titeln säger SpringCol (fjäderlås) men källan anger 2 skruvlåsningar och nämner aldrig 50 mm eller fjäderlås. Titel och källa stämmer inte, och diametern 50 mm saknas i källan. Kan skrivas om leverantören bekräftar vilken lås- och stångtyp som gäller.",
+  "batch_gammal": "f_10_avvisade.json",
+  "titel_nu": "Lyftstång TUNTURI Olympic Curlbar Chrome, 50 mm, 120cm, SpringCol"
+ },
+ {
+  "id": "10472267448586",
+  "nr": 25023,
+  "avvisningsskal": "Cykellampa (HL600) med batteri och elektronik (belysning med lagkrav): avvisas.",
+  "batch_gammal": "b_9_avvisade.json",
+  "titel_nu": "Headlight GIANT HL600"
+ },
+ {
+  "id": "10472281506058",
+  "nr": 25024,
+  "avvisningsskal": "Union GH-169: titel 'Frame ear' mot text 'ramöra'; kompatibilitet 'ett brett utbud av Ghost-cykelmodeller' är inte entydig. Utelämnas.",
+  "batch_gammal": "k_9_avvisade.json",
+  "titel_nu": "Frame ear Union GH-169"
+ },
+ {
+  "id": "10472281538826",
+  "nr": 25025,
+  "avvisningsskal": "Union GH-144: titel 'Frame ear' mot text 'ramringen'; kompatibilitet 'ett brett utbud av GT-cykelmodeller' är inte entydig. Utelämnas.",
+  "batch_gammal": "k_9_avvisade.json",
+  "titel_nu": "Frame ear Union GH-144"
+ },
+ {
+  "id": "10472281571594",
+  "nr": 25026,
+  "avvisningsskal": "Union GH-038: källan är på engelska ('frame ring') mot titeln 'Frame ear'; kompatibilitet bara märken (Centurion, Merida, UMF), inte entydig. Utelämnas.",
+  "batch_gammal": "k_9_avvisade.json",
+  "titel_nu": "Frame ear Union GH-038"
+ }
+]

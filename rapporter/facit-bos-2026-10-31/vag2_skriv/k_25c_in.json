@@ -1,0 +1,93 @@
+[
+ {
+  "id": "10472281604362",
+  "nr": 25027,
+  "avvisningsskal": "Union GH-026: titel 'Frame ear' mot text 'ramörat'; kompatibilitet anges bara med märkeslista utan modeller, inte entydig. Utelämnas.",
+  "batch_gammal": "k_9_avvisade.json",
+  "titel_nu": "Frame ear Union GH-026"
+ },
+ {
+  "id": "10472281800970",
+  "nr": 25028,
+  "avvisningsskal": "Babykälke: tydlig babyprodukt med säkerhetsbälte, avvisas enligt beslut 2026-11-03.",
+  "batch_gammal": "b_31_avvisade.json",
+  "titel_nu": "Babykälke STIGA Cruiser, grön"
+ },
+ {
+  "id": "10472285405450",
+  "nr": 25029,
+  "avvisningsskal": "Pedaler (Kona Wah Wah 2): pedaler avvisas enligt specialreglerna.",
+  "batch_gammal": "k_7_avvisade.json",
+  "titel_nu": "Pedaler Kona Wah Wah 2 Plast, grön"
+ },
+ {
+  "id": "10472285864202",
+  "nr": 25030,
+  "avvisningsskal": "Ingen källa: beskrivningen är tom (bara tomma HTML-element); enda uppgifterna är titel, märke och SKU. Ingen faktagrund för text eller meta.",
+  "batch_gammal": "b_36_avvisade.json",
+  "titel_nu": "Sunglasses LIMAR ARGO MATT GRAY"
+ },
+ {
+  "id": "10472288911626",
+  "nr": 25031,
+  "avvisningsskal": "Snömatta (STIGA): åkdon för pulka/kälke-användning avvisas.",
+  "batch_gammal": "b_30_avvisade.json",
+  "titel_nu": "Snömatta STIGA 100cm, grön"
+ },
+ {
+  "id": "10472295923978",
+  "nr": 25032,
+  "avvisningsskal": "Axa Fold Lite 80 är ett vikbart cykellås (lås är säkerhetsprodukt; källan anger säkerhetsklass 7/15). Tas för hand med Davids ja.",
+  "batch_gammal": "b_1_avvisade.json",
+  "titel_nu": "Köp AXA Fold Lite 80"
+ },
+ {
+  "id": "10472296218890",
+  "nr": 25033,
+  "avvisningsskal": "Lås (vajalås AXA Resolute 8-150) är säkerhetsprodukt; tas för hand med Davids ja.",
+  "batch_gammal": "b_2_avvisade.json",
+  "titel_nu": "Trosslukk AXA Resolute 8-150"
+ },
+ {
+  "id": "10472296382730",
+  "nr": 25034,
+  "avvisningsskal": "Axa Fold Lite 100 är ett vikbart cykellås (lås är säkerhetsprodukt; källan anger säkerhetsklass 7/15). Tas för hand med Davids ja.",
+  "batch_gammal": "b_1_avvisade.json",
+  "titel_nu": "Köp AXA Fold Lite 100"
+ },
+ {
+  "id": "10472296579338",
+  "nr": 25035,
+  "avvisningsskal": "Axa Resolute 10-150 är ett ramlås med vajer (lås är säkerhetsprodukt; källan anger säkerhetsklass 4/15). Titeln är dessutom blandad norska/svenska ('Trosslukk'). Tas för hand med Davids ja.",
+  "batch_gammal": "b_1_avvisade.json",
+  "titel_nu": "Trosslukk AXA Resolute 10-150"
+ },
+ {
+  "id": "10472302903562",
+  "nr": 25036,
+  "avvisningsskal": "Lastcykel (Vogue Avenger, taggad Cargo bike, trehjulig, maxbelastning 220 kg, sittdynor): lastcyklar avvisas enligt cykelreglerna.",
+  "batch_gammal": "b_43_avvisade.json",
+  "titel_nu": "Electric bike VOGUE Avenger, black"
+ },
+ {
+  "id": "10472303919370",
+  "nr": 25037,
+  "avvisningsskal": "Dubbdäck: däck med säkerhetsfunktion på hala vägar, avvisas. Titeln är dessutom avkortad ('28 x 1.') och beskrivningen innehåller ursprungs- och säkerhetslöften ('tillverkat i Finland', 'säker körupplevelse').",
+  "batch_gammal": "k_9_avvisade.json",
+  "titel_nu": "Dubbdäck SUOMI TYRES Hile W240 28 x 1."
+ },
+ {
+  "id": "10472304050442",
+  "nr": 25038,
+  "avvisningsskal": "Dubbdäck Suomi Tyres Porcupine W408 TT 29 x 2.: dubbdäck är säkerhetskritiska och avvisas. Dessutom är titeln avklippt och bredden i källan ofullständig ('29 x 2.', '65-622').",
+  "batch_gammal": "k_07d_avvisade.json",
+  "titel_nu": "Dubbdäck SUOMI TYRES Porcupine W408 TT 29 x 2."
+ },
+ {
+  "id": "10472304935178",
+  "nr": 25039,
+  "avvisningsskal": "Dubbdäck är en säkerhetsdel där däcksfrågan är obeslutad hos David. Live-källan har bara oetiketterade rader (\"244 pounds\", \"74.01\") och säkerhets-/kvalitetslöften (säker, slitstarka, utmärkt grepp); inga två entydiga fakta utöver titeln. Kvarstår avvisad.",
+  "batch_gammal": "k_23c_avvisade.json",
+  "titel_nu": "Cykeldäck SUOMI TYRES Routa W244 E-Bike 28 x 1.38"
+ }
+]

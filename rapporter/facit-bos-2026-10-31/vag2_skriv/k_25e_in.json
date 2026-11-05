@@ -1,0 +1,93 @@
+[
+ {
+  "id": "10523479408906",
+  "nr": 25053,
+  "avvisningsskal": "Pedaler KONA Wah Wah 2 Alloy, Röd: pedaler tas för hand med Davids ja (säkerhetsprodukt enligt standarden, avsnitt 10–12).",
+  "batch_gammal": "b_23_avvisade.json",
+  "titel_nu": "Pedaler KONA Wah Wah 2 Alloy, Röd"
+ },
+ {
+  "id": "10523479474442",
+  "nr": 25054,
+  "avvisningsskal": "Pedaler KONA Wah Wah 2 Alloy, Orange: pedaler tas för hand med Davids ja (säkerhetsprodukt enligt standarden, avsnitt 10–12).",
+  "batch_gammal": "b_23_avvisade.json",
+  "titel_nu": "Pedaler KONA Wah Wah 2 Alloy, Orange"
+ },
+ {
+  "id": "10523488387338",
+  "nr": 25055,
+  "avvisningsskal": "Cykeln levereras med fram- och bakljus och pakethållare (belysning med lagkrav, last), remdrift och integrerad belysning: säkerhetsprodukt, tas för hand med Davids ja.",
+  "batch_gammal": "k_14_avvisade.json",
+  "titel_nu": "Cykel GIANT AnyTour CS 2 GB, Stealth Chrome"
+ },
+ {
+  "id": "10526099996938",
+  "nr": 25056,
+  "avvisningsskal": "Ljusset Giant Cast 30 Combo: cykelbelysning med batteri (USB-uppladdningsbar) och lagkrav; säkerhetsprodukt, tas för hand med Davids ja.",
+  "batch_gammal": "b_23_avvisade.json",
+  "titel_nu": "Ljusset GIANT CAST 30 COMBO"
+ },
+ {
+  "id": "10541212238090",
+  "nr": 25057,
+  "avvisningsskal": "Pedaler Look Geo Trekking Grip: pedaler tas för hand med Davids ja (säkerhetsprodukt enligt standarden, avsnitt 10–12; dessutom SPD-kompatibilitetspåstående).",
+  "batch_gammal": "b_23_avvisade.json",
+  "titel_nu": "Pedaler LOOK GEO Trekking Grip"
+ },
+ {
+  "id": "10541369884938",
+  "nr": 25058,
+  "avvisningsskal": "Elektronik/batteri (trådlös cykeldator med sensor); tas för hand.",
+  "batch_gammal": "b_5_avvisade.json",
+  "titel_nu": "Cykeldator GIANT Axact 9W, trådlös, vit"
+ },
+ {
+  "id": "10548232978698",
+  "nr": 25059,
+  "avvisningsskal": "Baklykta (belysning/elektronik/batteri, säkerhetsprodukt)",
+  "batch_gammal": "b_24_avvisade.json",
+  "titel_nu": "Baklykta AXA Dwn med bromsljus"
+ },
+ {
+  "id": "10554362593546",
+  "nr": 25060,
+  "avvisningsskal": "Baklykta (belysning/elektronik/batteri, säkerhetsprodukt)",
+  "batch_gammal": "b_24_avvisade.json",
+  "titel_nu": "Baklykta GIANT Recon+ TL 150"
+ },
+ {
+  "id": "10554362659082",
+  "nr": 25061,
+  "avvisningsskal": "Baklykta med radar, batteri/USB-laddning och elektronik (belysning med lagkrav): avvisas.",
+  "batch_gammal": "b_9_avvisade.json",
+  "titel_nu": "Baklykta GIANT Recon+ TL 300"
+ },
+ {
+  "id": "10581102002442",
+  "nr": 25062,
+  "avvisningsskal": "Säkerhetsprodukt: skivstångs- och hantelset med vikter (last och fastsättning). Källan har inga mått eller belastningsuppgifter utöver 60 kg i titeln.",
+  "batch_gammal": "c_4_avvisade.json",
+  "titel_nu": "60 kg vinyl skivstångs- och hantelset"
+ },
+ {
+  "id": "10581109113098",
+  "nr": 25063,
+  "avvisningsskal": "Multi-Training Door Gym är en dörrmonterad träningsstation för pull-ups, armhävningar och dips (källan: 'robust konstruktion', 'enkel installation'). Kroppsvikt belastar en fästanordning i dörröppningen; maxbelastning och monteringskrav saknas i källan. Säkerhetsprodukt med last; tas för hand med Davids ja.",
+  "batch_gammal": "c_11_avvisade.json",
+  "titel_nu": "Multi-Training Door Gym"
+ },
+ {
+  "id": "10581111636234",
+  "nr": 25064,
+  "avvisningsskal": "Step Board: plattform man står på med kroppsvikt; källan lovar \"stabil och säker plattform\" men anger ingen maxbelastning, mått eller material. Last/säkerhet, tas för hand med Davids ja.",
+  "batch_gammal": "c_15_avvisade.json",
+  "titel_nu": "Step Board"
+ },
+ {
+  "id": "10581113143562",
+  "nr": 25065,
+  "avvisningsskal": "Z-Bar: stång som belastas med vikter (last). Källan anger ingen maxbelastning eller vad som ingår. Lyfts till handläggning.",
+  "batch_gammal": "c_17_avvisade.json",
+  "titel_nu": "Z-Bar 80cm"
+ }
+]

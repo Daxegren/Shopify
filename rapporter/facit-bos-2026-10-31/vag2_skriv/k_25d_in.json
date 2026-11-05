@@ -1,0 +1,93 @@
+[
+ {
+  "id": "10472308179210",
+  "nr": 25040,
+  "avvisningsskal": "Rullskridskor (Fila Legacy QF Lady): rullskridskor är utanfor_tills_vidare (R6); källan är dessutom bara engelsk. Butikens taggar (Damcykel, Fido) är felaktiga och rörs inte.",
+  "batch_gammal": "k_02a_avvisade.json",
+  "titel_nu": "Rulluisud FILA Legacy QF Lady, Black/Violet"
+ },
+ {
+  "id": "10472324399370",
+  "nr": 25041,
+  "avvisningsskal": "Snowboard/SnowSkate (STIGA): åkdon med fall- och skaderisk, ingen ålders-/viktuppgift; lyfts till David.",
+  "batch_gammal": "b_30_avvisade.json",
+  "titel_nu": "Snowboard STIGA SnowSkate, blå/svart"
+ },
+ {
+  "id": "10472325415178",
+  "nr": 25042,
+  "avvisningsskal": "Hantelställ (Hammer StrongLock 8.0) räknas som stativ med last och är inte frisläppt i faktatextläget (standarden avsnitt 10 och 16). Titeln 'Hantlite alus' är dessutom inte svenska. Källan beskriver stabilitet och säkerhet och anger bara måtten 47 x 43,5 x 50 cm och att ställningen rymmer två hantlar. Tas för hand med Davids ja.",
+  "batch_gammal": "f_12_avvisade.json",
+  "titel_nu": "Hantlite alus HAMMER StrongLock 8.0"
+ },
+ {
+  "id": "10472358248714",
+  "nr": 25043,
+  "avvisningsskal": "Pedaler (Kona Wah Wah 2): pedaler avvisas enligt specialreglerna.",
+  "batch_gammal": "k_7_avvisade.json",
+  "titel_nu": "Pedaler Kona Wah Wah 2 Plastic, röd"
+ },
+ {
+  "id": "10472435024138",
+  "nr": 25044,
+  "avvisningsskal": "Shimano 105 Di2 (elektroniskt växelsystem med batteri) enligt källan. Elektronik: tas för hand.",
+  "batch_gammal": "k_12_avvisade.json",
+  "titel_nu": "Road bike GIANT Propel Advanced 1 (2027) Carbon"
+ },
+ {
+  "id": "10474077389066",
+  "nr": 25045,
+  "avvisningsskal": "Dynamo för cykelbelysning (6 V/3 W): belysning med lagkrav och elektronik; tas för hand med Davids ja.",
+  "batch_gammal": "b_2_avvisade.json",
+  "titel_nu": "Dynamo AXA DUO 6326/OV/LEFT/CARD"
+ },
+ {
+  "id": "10476120310026",
+  "nr": 25046,
+  "avvisningsskal": "Dublett av 8313: identisk titel och text (en längd, SKU 202).",
+  "batch_gammal": "b_29_avvisade.json",
+  "titel_nu": "Classic new Peltonen SKINPRO 22 STIFF + med läder"
+ },
+ {
+  "id": "10494688329994",
+  "nr": 25047,
+  "avvisningsskal": "Pedaler (plattformspedaler MTB): pedaler avvisas enligt specialreglerna.",
+  "batch_gammal": "k_7_avvisade.json",
+  "titel_nu": "Plattformspedaler Giant Original MTB Sport"
+ },
+ {
+  "id": "10494697373962",
+  "nr": 25048,
+  "avvisningsskal": "Cykeldator (trådlös, batteriindikator, 9 funktioner): elektronik med batteri avvisas.",
+  "batch_gammal": "k_7_avvisade.json",
+  "titel_nu": "Cykeldator Giant Axact 9W, 9 funktioner"
+ },
+ {
+  "id": "10494697406730",
+  "nr": 25049,
+  "avvisningsskal": "Cykeldator (trådlös, elektronik med batteri, 13 funktioner): elektronik avvisas.",
+  "batch_gammal": "k_7_avvisade.json",
+  "titel_nu": "Cykeldator Giant Axact 13W, 13 funktioner"
+ },
+ {
+  "id": "10494941692170",
+  "nr": 25050,
+  "avvisningsskal": "Säkerhetsprodukt: setet inkluderar belysning, ramlås och pakethållare enligt källan.",
+  "batch_gammal": "k_3_avvisade.json",
+  "titel_nu": "Damcykel LIV Allure CS 2 GB, Deep Cove"
+ },
+ {
+  "id": "10515737739530",
+  "nr": 25051,
+  "avvisningsskal": "Belysning med batteri och elektronik (Giant Recon HL 100 och TL 100).",
+  "batch_gammal": "b_8_avvisade.json",
+  "titel_nu": "Ljusset GIANT RECON HL 100 & TL 100 COMBO"
+ },
+ {
+  "id": "10515737903370",
+  "nr": 25052,
+  "avvisningsskal": "Belysning med batteri och elektronik (Giant Cast 10 Combo, USB-laddning).",
+  "batch_gammal": "b_8_avvisade.json",
+  "titel_nu": "Ljusset GIANT CAST 10 COMBO"
+ }
+]

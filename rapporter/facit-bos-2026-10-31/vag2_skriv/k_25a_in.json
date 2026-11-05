@@ -1,0 +1,93 @@
+[
+ {
+  "id": "10411850432778",
+  "nr": 25001,
+  "avvisningsskal": "Isskor/broddar med säkerhetspåstående (gå säkert, minskar risken att halka och falla).",
+  "batch_gammal": "b_29_avvisade.json",
+  "titel_nu": "Isskor ANTi SKid Sole Double, 41/46"
+ },
+ {
+  "id": "10462778097930",
+  "nr": 25002,
+  "avvisningsskal": "Källan består bara av en mening (Tunturi Ab Trainer är en magmuskeltränare från Tunturi) och standardblocket; inga mått, material eller användning. Varje text blir cirkulär eller utfylld (R11, R1). Ingen faktagrund.",
+  "batch_gammal": "g_3_avvisade.json",
+  "titel_nu": "Magmuskeltränare Tunturi Ab Trainer"
+ },
+ {
+  "id": "10468713529610",
+  "nr": 25003,
+  "avvisningsskal": "Monteringstjänst för lastcykel; tjänst, inte en produkt med produkttext och säkerhetsrelaterad montering.",
+  "batch_gammal": "b_27_avvisade.json",
+  "titel_nu": "Cargobike assembly"
+ },
+ {
+  "id": "10468713595146",
+  "nr": 25004,
+  "avvisningsskal": "Monteringstjänst för stor träningsmaskin, inte en produkt med produkttext.",
+  "batch_gammal": "b_27_avvisade.json",
+  "titel_nu": "Large exercise machine assembly"
+ },
+ {
+  "id": "10468727947530",
+  "nr": 25005,
+  "avvisningsskal": "Källan beskriver längdskidor (skate-skidor med bindningar, 'skidor', 'snöförhållanden'), inte skridskor; titeln 'Skridskor' stämmer inte med produkten. Byte av namn/typ får inte göras av utkastagent, tas för hand.",
+  "batch_gammal": "b_32_avvisade.json",
+  "titel_nu": "Skridskor Peltonen Supra C 21 MEDIUM"
+ },
+ {
+  "id": "10469223301386",
+  "nr": 25006,
+  "avvisningsskal": "Dublett av 8306 med engelsk, maskinöversatt källa; identisk titel.",
+  "batch_gammal": "b_29_avvisade.json",
+  "titel_nu": "Classic skis with skin Peltonen SKINPRO 22 MED +"
+ },
+ {
+  "id": "10470905282826",
+  "nr": 25007,
+  "avvisningsskal": "El-lastcykel med motor och batteri (CARGOBIKE of SWEDEN Svensson Family); lastcykel och elcykel avvisas.",
+  "batch_gammal": "k_10_avvisade.json",
+  "titel_nu": "El-lastcykel CARGOBIKE of SWEDEN Svensson Family"
+ },
+ {
+  "id": "10470906822922",
+  "nr": 25008,
+  "avvisningsskal": "Pedaler (Flipside, SPD-kompatibla): pedaler avvisas enligt specialreglerna.",
+  "batch_gammal": "k_7_avvisade.json",
+  "titel_nu": "Pedals GIANT FLIPSIDE ROAD PEDAL"
+ },
+ {
+  "id": "10471135871242",
+  "nr": 25009,
+  "avvisningsskal": "Belysning med batteri/elektronik (USB-laddad LED-strålkastare, 500 lm).",
+  "batch_gammal": "b_6_avvisade.json",
+  "titel_nu": "MOMENTUM Cast Headlight 500"
+ },
+ {
+  "id": "10472235794698",
+  "nr": 25010,
+  "avvisningsskal": "Säkerhetsprodukt: cykelbelysning (lagkrav) med batteri och elektronik.",
+  "batch_gammal": "b_4_avvisade.json",
+  "titel_nu": "Light set AXA Greenline40"
+ },
+ {
+  "id": "10472240021770",
+  "nr": 25011,
+  "avvisningsskal": "Säkerhetsprodukt: Bromsoksadapter, bromsdel. Bromsar och bromsdelar skrivs inte (specialregler för cyklar och cykeldelar).",
+  "batch_gammal": "k_8_avvisade.json",
+  "titel_nu": "Bromsoksadapter Shimano 180mm SM-MA-F180 Post/Standard"
+ },
+ {
+  "id": "10472240578826",
+  "nr": 25012,
+  "avvisningsskal": "Säkerhetsprodukt: Bromsreglage, bromsdel. Bromsar och bromsdelar skrivs inte (specialregler för cyklar och cykeldelar).",
+  "batch_gammal": "k_8_avvisade.json",
+  "titel_nu": "Bromsreglage Shimano Höger 2-finger Silver BL-T4000 Alivio V-Brake"
+ },
+ {
+  "id": "10472243331338",
+  "nr": 25013,
+  "avvisningsskal": "Säkerhetsprodukt: Bromsdel (broms). Bromsar och bromsdelar skrivs inte (specialregler för cyklar och cykeldelar).",
+  "batch_gammal": "k_8_avvisade.json",
+  "titel_nu": "Brake SHIMANO BR-T4000 rear silver"
+ }
+]
