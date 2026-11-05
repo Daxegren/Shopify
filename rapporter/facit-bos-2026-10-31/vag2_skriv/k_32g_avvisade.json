@@ -1,0 +1,57 @@
+[
+ {
+  "id": "10581109801226",
+  "nr": 32073,
+  "skäl": "Pro Chinning Bar: bärande (bär kroppsvikt, väggmonteras). Live-källan är tunn (bara marknadstext, inga mått eller material). Webben är motsägande: lastgräns 100, 110 och 130 kg hos olika återförsäljare, och artikelnummer 61118 anges i en äldre katalog för en annan produkt (Door Gym Bar). Entydig lastgräns och modell kan inte beläggas; avvisas hellre än att skriva Ej känd."
+ },
+ {
+  "id": "10581109833994",
+  "nr": 32074,
+  "skäl": "Premium Parallettes (bär kroppsvikt): tunn källa (bara marknadstext, inga mått eller material) och storlekarna S/M/L har olika pris och mått. Ingen lastgräns hittades på nätet för artikel 61009 (bara andra Gymstick-modeller). Avvisas (R3)."
+ },
+ {
+  "id": "10581110718730",
+  "nr": 32075,
+  "skäl": "Pro Wrist Straps: oklar produkttyp (lyftremmar eller handledsstöd), källan har bara marknadsföring med skydds- och stödlöften. Webbkoll gav ingen entydig modell. Avvisas (R3)."
+ },
+ {
+  "id": "10581110849802",
+  "nr": 32076,
+  "skäl": "Pulley Station för Smith Half Rack: tillbehör med kabel och viktskivor (belastad del). Live-källan är tunn (bara marknadstext). Tillverkarens manual hittades men ingen lastgräns eller mått som entydigt gäller STR-SHR-PS. Avvisas (R3)."
+ },
+ {
+  "id": "10581111341322",
+  "nr": 32077,
+  "skäl": "Slant Board: lutande bräda som bär användarens vikt. Live-källan är tunn och webben motsäger sig (4 respektive 5 vinklar), ingen lastgräns hittades, ingen tillverkarsida. Avvisas (R3)."
+ },
+ {
+  "id": "10581111636234",
+  "nr": 32078,
+  "skäl": "Step Board: tunn källa (bara marknadstext, inga mått eller material). Artikel 61064 gav inga träffar på nätet; lastgräns på andra Gymstick-stepbrädor (61054, 62054) gäller inte denna modell. Avvisas (R3)."
+ },
+ {
+  "id": "10581112520970",
+  "nr": 32079,
+  "skäl": "WalkingPad Core: gångmatta med motor och elektronik. Fem varianter (CR, ELI, MV, PRO, HRL, 899–11 499 kr) är olika artiklar (v1.9). Avvisas."
+ },
+ {
+  "id": "10581112815882",
+  "nr": 32080,
+  "skäl": "Trä Plyobox: två varianter med olika SKU (61162-S, 61162) och pris (1 449 respektive 1 899 kr), varianten Default har lager 0; oförklarade varianter och titeln anger måtten 50 x 45 x 40 cm som källan inte styrker. Avvisas (R3)."
+ },
+ {
+  "id": "10593396949258",
+  "nr": 32081,
+  "skäl": "Aktiv Hantelstång, Svart: tunn källa (bara marknadstext). Artikel 72019 gav inga träffar på nätet, ingen lastgräns hittades och produkttypen (hantel- eller skivstång) är oklar. Avvisas (R3)."
+ },
+ {
+  "id": "10593398554890",
+  "nr": 32082,
+  "skäl": "2kg Dumbbell Bar: motsägande källa (titeln säger Dumbbell Bar, texten kallar den skivstång), tunn källa och produkttypen är oklar. Ingen lastgräns hittades. Avvisas (R3)."
+ },
+ {
+  "id": "10593399308554",
+  "nr": 32083,
+  "skäl": "Ab Straps: hängande band som bär kroppsvikt. Tunn källa (bara marknadstext). Webbkoll gav ingen entydig koppling mellan artikel 61105 och en sida med specifikationer, och ingen lastgräns hittades. Avvisas (R3)."
+ }
+]
