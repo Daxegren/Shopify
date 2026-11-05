@@ -1,0 +1,131 @@
+[
+ {
+  "nr": 31001,
+  "id": "10462853693706",
+  "fil": "k_31a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Bookman Reflexband i rosa",
+    "efter": "Bookman reflexband i rosa"
+   }
+  },
+  "skal": "Live (API 2026-11-05): ACTIVE, 'BOOKMAN Reflexband för arm och ben, rosa', Default Title/428/89 kr, lager 1. Frisläppt via undantag-2026-11-05 (reflex) i spärrlistan; skrivfil_kontroll 0 FEL. Fästplatser (arm, ben, väska, barnvagn) står ordagrant; alla synlighets- och säkerhetslöften borta. Rosa bara i titeln men en enda variant. Rättning: gemen i 'reflexband' mitt i meningen, som i redan skrivna Bookman-texter ('Bookman reflexklistermärken')."
+ },
+ {
+  "nr": 31002,
+  "id": "10471174832394",
+  "fil": "k_31a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Bookman Reflexklistermärken i",
+    "efter": "Bookman reflexklistermärken i"
+   },
+   "html": {
+    "fore": "<p>Bookman Reflexklistermärken är",
+    "efter": "<p>Bookman reflexklistermärken är"
+   }
+  },
+  "skal": "Live: ACTIVE, White Leopard, Default Title/349/69 kr, lager 4. Sidoreflexer, leopardmönster, cykel eller hjälm står ordagrant. 'Ökar synligheten', 'sticker ut dag som natt' och 'set med 10' rätt utelämnade. Vit rätt utelämnad. Rättning: gemen i 'reflexklistermärken' efter märket, som i skrivna Bookman-texter."
+ },
+ {
+  "nr": 31003,
+  "id": "10471175192842",
+  "fil": "k_31a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Bookman Reflexklistermärken har",
+    "efter": "Bookman reflexklistermärken har"
+   },
+   "html": {
+    "fore": "<p>Bookman Reflexklistermärken har",
+    "efter": "<p>Bookman reflexklistermärken har"
+   }
+  },
+  "skal": "Live: ACTIVE, 'vit ben', Default Title/379/139 kr, lager 2. Källan är en mening: bild av ett ben, cykel eller hjälm; texten säger inget mer. Tunt men två fakta (motiv, fästplatser), meta 82 tecken. Frisläppt via undantag (reflex). Rättning: gemen efter märket."
+ },
+ {
+  "nr": 31004,
+  "id": "10472303067402",
+  "fil": "k_31a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 'Reflexer BOOKMAN Reflective Snap Bands för arm och ben, svart', Default Title/426/89 kr, lager 5. Arm, ben, väska, barnvagn står ordagrant; '360 grader', 'säkrare', 'syns i mörkret', 'bekvämt' borta. Svart, en enda variant. Unik mot b_9/k_07a (ej skrivna; live-texten är originalet)."
+ },
+ {
+  "nr": 31005,
+  "id": "10472303788298",
+  "fil": "k_31a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Bookman Reflexklistermärken har",
+    "efter": "Bookman reflexklistermärken har"
+   },
+   "html": {
+    "fore": "<p>Bookman Reflexklistermärken är",
+    "efter": "<p>Bookman reflexklistermärken är"
+   }
+  },
+  "skal": "Live: ACTIVE, Black Zebra, Default Title/526/69 kr, lager 5. Sidoreflexer, zebradesign, cykel eller hjälm stämmer; 'ökar synligheten' borta. Rättning: gemen efter märket."
+ },
+ {
+  "nr": 31006,
+  "id": "10665228206346",
+  "fil": "k_31a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Bookman Reflexklistermärken har",
+    "efter": "Bookman reflexklistermärken har"
+   },
+   "html": {
+    "fore": "<p>Bookman Reflexklistermärken har",
+    "efter": "<p>Bookman reflexklistermärken har"
+   }
+  },
+  "skal": "Live: ACTIVE, White Ghost, Default Title/527/69 kr, lager 3. Spökmönster, cykel eller hjälm stämmer; 'ökar synligheten' borta. Meta 75 tecken. Frisläppt via undantag (reflex). Rättning: gemen efter märket."
+ },
+ {
+  "nr": 31008,
+  "id": "10462190567690",
+  "fil": "k_31a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 'Fatbike Kona Wo, Matte Plum', M/L/XL purple, B36WO03/05/06, 25569/25519/25519 kr, lager 1+1+1. Samma cykel i tre ramstorlekar (v1.9). Varje spec (6061 butted, Wo Fat Disc, Mulefut 80 TR, Race Face Ride Fat, Deore 11spd, MT201 hydrauliska, RT30 180/160 mm, Jumbo Jim TR 26x4.8\", fästpunkter) står i källan. Färgmotsägelse (Matte Plum/purple/orange) löst genom att ingen färg anges. Webbkoll: coloradocyclist.com/products/kona-wo-26-fat-bike-matt-plum (Matt Plum, 2022–23) har exakt samma utrustning, så källans spec gäller den plommonfärgade cykeln och 'orange' är en lös felrad; obs att Konas nuvarande Wo (konaworld.com) har Microshift/Tektro/Vee, så texten gäller bara denna årsmodell, vilket SKU B36 stöder. 26 tum i titeln följer av 26x4.8\". Ingen På beställning-tagg, ingen leveranstidsmening: rätt."
+ },
+ {
+  "nr": 31013,
+  "id": "10472297300234",
+  "fil": "k_31b_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 'Cykel ROMET Vintage LTD D, gul', Default Title 28201899-A 9979 kr (lager 3) och M / yellow 28181898-A 8679 kr (lager 2). Det är inte visat att varianterna är samma artikel: Romets artikelnummer verkar koda hjul och årsmodell (jfr RATREWAG3X28231083AB = Wagant 3 28\" 2023 hos taniaksiazka.pl, och tidigare fynd 6121/6122 Vintage Classic 28202517-B/28182516-B i vag2_k_granskning_4_5.md), alltså 2820 = 2020 och 2818 = 2018. Default Title saknar storlek och färg. Olika årsmodeller kan ha olika utrustning och källtexten beskriver bara en. Texten i sig stämmer med källan (stål, Nexus 7, V-bromsar, 700x35C, tillbehör) och format/standardblock är rätt, så den kan släppas oförändrad om butiken bekräftar att båda varianterna har samma utrustning, eller om Default Title-varianten tas bort/delas. Beslut för David."
+ },
+ {
+  "nr": 31015,
+  "id": "10472332099850",
+  "fil": "k_31b_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 'Herrcykel ROMET Wagant 7, röd', Default Title 28230604-D 11309 kr (lager 3) och M / Red 28190602-C 9839 kr (lager 3). Som 31013: artikelnumren pekar på årsmodell 2023 mot 2019 (olika suffix -D/-C), och källan nämner bara ramstorlek L samt en motsägelsefull växelgrupp (Alivio mot Alivio/Altus), vilket tyder på blandad källa. Samma artikel är inte visat (v1.9). Texten är i övrigt korrekt (aluminium, 27 växlar, pakethållare utan lastuppgift, justerbar styrförlängning, VeeTire City Tour 700x42C, tillbehör), växelgruppen rätt utelämnad; kan släppas oförändrad om butiken bekräftar samma utrustning i båda varianterna. Beslut för David."
+ },
+ {
+  "nr": 31016,
+  "id": "10474079322378",
+  "fil": "k_31b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 'Kona Rove AL 650 Cykel, Matt Faux Raw (Silver)', Default Title B36RV6556 18719 kr (lager 1) och XL / gray B36RV6558 16279 kr (lager 0). SKU-suffix 56/58 = ramstorlek L/XL, samma årsserie B36: samma artikel i olika storlek (v1.9), totallager 1. Ram, gaffel, WTB SX19, Claris, Tektro Mira CX mekaniska, TR160 160 mm, Maxxis Rambler 650x47c står ordagrant; användningsområdet en gång 'enligt tillverkaren'. Claris finns bara mekanisk. Färg och storlekar utelämnade. Taggen På beställning: leveranstidsmeningen finns och standardblocket är exakt (som k_skriv_07)."
+ },
+ {
+  "nr": 31017,
+  "id": "10480047325450",
+  "fil": "k_31b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 'Landsvägscykel GIANT TCR Advanced 0 PC, Frost Silver', Default Title 1096021146 58459 kr (lager 1), M/L / gray 1096021146 49679 kr (lager 1), L / gray 1096021147 49679 kr (lager 0). Default Title har samma SKU som M/L (överbliven Default Title, v1.7) och L är granne i serien: samma artikel. Prisskillnaden 58459/49679 är en butiksdatafråga, texten låser inget pris. Di2 enligt v1.7: modellen ordagrann, inget 'mekanisk', inget batteri; id finns i undantag elvaxling. Komposit ram/gaffel, OverDrive, 24 växlar, 105 Di2 hydrauliska, PR-2 Disc, Gavia Course 1 700x28c fällbart, fästpunkter stämmer; skivbroms står i källan. På beställning: leveranstidsmening finns, block exakt."
+ }
+]
