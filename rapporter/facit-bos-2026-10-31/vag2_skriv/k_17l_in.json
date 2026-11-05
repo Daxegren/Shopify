@@ -1,0 +1,37 @@
+[
+ {
+  "id": "10665228075274",
+  "nr": 9417,
+  "avvisningsskal": "Tre varianter (520, 521, 522) med bara siffror som namn; källan säger bara 'flammönster' och titeln 'Black Flames' kan inte kopplas till en variant (R3).",
+  "batch_gammal": "k_07a_avvisade.json",
+  "titel_nu": "Reflekterande klistermärken för cykel BOOKMAN Reflective Stickers for Bicycles, Black Flames"
+ },
+ {
+  "id": "10673147511050",
+  "nr": 9654,
+  "avvisningsskal": "R3/R2: titeln anger kompatibilitet med 'Fluid Mega och Apollo Pro', men källan anger 'Passar för roddmaskiner: Fluid Apollo Pro XL, Tunturi Platinum RW30'. Mega finns inte i källan och Platinum RW30 inte i titeln; kompatibilitet kan inte återges entydigt, och att byta titel för att komma runt det är inte tillåtet.",
+  "batch_gammal": "k_09c_avvisade.json",
+  "titel_nu": "Surfplattahållare för FLUID Mega och Apollo Pro roddmaskiner"
+ },
+ {
+  "id": "10676714111242",
+  "nr": 9106,
+  "avvisningsskal": "R3, tunn källa och motsägelse: källan säger bara \"Kapellställning för modellerna Flex Nova och Delight Nova\" och \"Tillverkad av Cargobike of Sweden\" (ett faktum utöver titeln), medan titeln säger \"Flex/Delight Nova Premium\"; \"Premium\" står inte i källan.",
+  "batch_gammal": "k_02a_avvisade.json",
+  "titel_nu": "Kapellställning CARGOBIKE of SWEDEN för Flex/Delight Nova Premium"
+ },
+ {
+  "id": "10676720173322",
+  "nr": 9052,
+  "avvisningsskal": "R3: Titeln anger färgen Svart men produkten har två varianter, black och green (SKU K25/9/8/2/2 och K25/9/8/2/1, samma pris 33 689 kr), och källtexten anger ingen färg. Titeln stämmer inte med produkten. Källan har dessutom motsägelse (Shimano Claris med 7 växlar). Lyft till handläggning: dela upp varianterna eller byt titel (David).",
+  "batch_gammal": "k_01c_avvisade.json",
+  "titel_nu": "Hopfällbar el-fatbike LEADER FOX Cody 20\", Svart"
+ },
+ {
+  "id": "10676720501002",
+  "nr": 9120,
+  "avvisningsskal": "R3: titeln säger XTC SLR 29 1 (2027), men källtexten säger \"Giant XTC SLR 29 2\" och komponenterna (Shimano Deore M6200, Tektro Orion, Giant Crest XC Comp) hör till 29 2 i stället för 29 1 (SLX, BR-MT500, Crest 34 RRL). Källan stämmer inte med titeln: modellen går inte att fastställa. Leverantören bör bekräfta modell.",
+  "batch_gammal": "k_02a_avvisade.json",
+  "titel_nu": "Cykel GIANT XTC SLR 29 1 (2027) Tempest Purple"
+ }
+]

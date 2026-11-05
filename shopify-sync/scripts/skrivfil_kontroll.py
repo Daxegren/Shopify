@@ -32,12 +32,18 @@ def las_profil(path):
 def las_sparr(path):
     cfg = json.load(open(path, encoding='utf-8'))
     ut = {}
+    undantag = set()
     for s in cfg['sparrar']:
         if not s.get('aktiv'):
             continue
         with open(os.path.join(ROT, s['idfil']), encoding='utf-8') as f:
             for r in csv.DictReader(f):
-                ut[str(r[s['idkolumn']])] = (s['namn'], set(s.get('kanda_overtradelser', [])))
+                if s.get('typ') == 'undantag':  # frisläpper enskilda id ur andra spärrar (beslut anges i posten)
+                    undantag.add(str(r[s['idkolumn']]))
+                else:
+                    ut[str(r[s['idkolumn']])] = (s['namn'], set(s.get('kanda_overtradelser', [])))
+    for i in undantag:
+        ut.pop(i, None)
     return ut
 
 

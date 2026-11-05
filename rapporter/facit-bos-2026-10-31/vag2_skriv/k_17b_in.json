@@ -1,0 +1,86 @@
+[
+ {
+  "id": "10468771463434",
+  "nr": 10276,
+  "avvisningsskal": "Titeln anger 35 kg, men produkten har tre varianter (SKU 17433, 17431 och 17435, priserna 3989, 3419 och 4309 kr) med oförklarade namn, och handle (17434) och SKU skiljer sig. Titeln anger en variant medan källan visar flera, så vikten går inte att låsa. Kan skrivas när leverantören bekräftat varianterna.",
+  "batch_gammal": "f_12_avvisade.json",
+  "titel_nu": "Hantel HAMMER Compact Dumbbell PU 35 kg"
+ },
+ {
+  "id": "10470888276234",
+  "nr": 10232,
+  "avvisningsskal": "Källan motsäger sig: texten anger stångens längd 150 cm, specifikationen 130 cm (titeln 130 cm). Produkten har dessutom två varianter (SKU 14TUSCL218 och 14TUSCL219, olika pris) utan att källan anger vad som skiljer. Titeln anger en variant men källan visar flera. Maxvikten står dubbelt utan förklaring. Kan skrivas när leverantören bekräftat längd och varianter.",
+  "batch_gammal": "f_10_avvisade.json",
+  "titel_nu": "Lyftstång TUNTURI Aerobic Pump Bar, 30 mm, 130 cm"
+ },
+ {
+  "id": "10470898827530",
+  "nr": 9433,
+  "avvisningsskal": "Innerslang med motsägande dimension: titeln anger ETRTO 47/60-584, beskrivningen 47-62x584. Underkänd tidigare som 5002 (R2, R3); ingen entydig webbkälla.",
+  "batch_gammal": "k_07b_avvisade.json",
+  "titel_nu": "Innerdäck Continental 27.5\" PV 47/60-584 löst"
+ },
+ {
+  "id": "10470968918282",
+  "nr": 10571,
+  "avvisningsskal": "R3: titeln anger 2 x 2,0 kg men produkten har två varianter med olika pris (AHF-094 229 kr och AHF-093 289 kr) som källan inte skiljer åt. Titel och spec kan inte låsas. Kräver beslut om varianterna.",
+  "batch_gammal": "h_5_avvisade.json",
+  "titel_nu": "Handledd- och ankelvikter TOORX Handleds-/Ankelvikter 2 x 2,0 kg"
+ },
+ {
+  "id": "10471064273162",
+  "nr": 10113,
+  "avvisningsskal": "R3: Default Title 6 749 kr och L / valge 5 869 kr (samma SKU 28200712-B; valge är estniska för vit). Troligen en överbliven Default Title-variant, men hanteringen av sådana (k_utlatande_02d, beslut 3) är inte beslutad av David, så avvisningen kvarstår. Kan skrivas direkt om David säger att Default Title med samma SKU ska ignoreras.",
+  "batch_gammal": "k_13a_avvisade.json",
+  "titel_nu": "Cykel ROMET Vintage Eco D, vit"
+ },
+ {
+  "id": "10471092093194",
+  "nr": 9057,
+  "avvisningsskal": "R3: Titeln anger färgen silver-red men alla fyra varianterna är silver (M, S, L, XL) och priset skiljer sig (15 249 kr för S/M, 15 279 kr för L/XL). Källan stämmer inte med titeln och källtexten anger ingen färg.",
+  "batch_gammal": "k_01c_avvisade.json",
+  "titel_nu": "Gravelbike ROMET Aspre 1, silver-red"
+ },
+ {
+  "id": "10471174668554",
+  "nr": 9416,
+  "avvisningsskal": "Två varianter (273 och 275) utan beskrivning av vad som skiljer dem; titeln anger 'vita prickar' och källan nämner inget mönster/färg per variant, så titeln kan inte styrkas för båda (R3). Setinnehåll (8 stora, 4 små) gäller okänd variant.",
+  "batch_gammal": "k_07a_avvisade.json",
+  "titel_nu": "BOOKMAN Reflexklistermärken för cyklar, vita prickar"
+ },
+ {
+  "id": "10472211448074",
+  "nr": 10257,
+  "avvisningsskal": "Titeln anger 5 kg, men produkten har två varianter (14TUSCL145 till 269 kr, 14TUSCL147 till 769 kr) med oförklarade namn. Källan anger bara Vikt: 5 kg; varianterna kan avse annan vikt.",
+  "batch_gammal": "f_11_avvisade.json",
+  "titel_nu": "Viktplatta TUNTURI Rubber Plate, 30 mm, 5 kg"
+ },
+ {
+  "id": "10472227209482",
+  "nr": 9320,
+  "avvisningsskal": "Färgen väljs i kommentarsfältet vid beställning, annars slumpas den (OBS-rad i källan). Beskrivningen kan inte ersättas utan att instruktionen försvinner, och hur färgval ska hanteras (variant eller text) är inte beslutat. Källan är i övrigt tunn (1 LED, 2 lägen, batteridrivet). Tidigare underkänd (b_51, nr 9041); David avgör.",
+  "batch_gammal": "k_04a_avvisade.json",
+  "titel_nu": "Ljussats M-Wave Cobra, olika färger"
+ },
+ {
+  "id": "10472235663626",
+  "nr": 9314,
+  "avvisningsskal": "R3/R2: titeln säger Greenline Set 15 Lux men källtexten beskriver \"AXA Compactline Set 15 Lux\" (annan produktlinje) och har ett trasigt andra avsnitt med motsägande värden (brinntid 6 h / 4 h, laddning 2 h / 1,5 h, räckvidd 35 m / 300 m, \"USB-ficklampa\"). Produktidentiteten går inte att skriva säkert. Tidigare underkänd (b_51, nr 9048).",
+  "batch_gammal": "k_04a_avvisade.json",
+  "titel_nu": "Ljussats AXA Greenline Set 15 Lux"
+ },
+ {
+  "id": "10472238874890",
+  "nr": 9430,
+  "avvisningsskal": "Innerslang med motsägande dimension: titeln Compact 16 och ETRTO 32/47-305/349 mot källans \"Storlek: 26 tum\". Underkänd tidigare som 8239 (R2, R3).",
+  "batch_gammal": "k_07b_avvisade.json",
+  "titel_nu": "Inner tube Continental Compact 16 PV 42mm, 32/47-305/349"
+ },
+ {
+  "id": "10472239005962",
+  "nr": 10121,
+  "avvisningsskal": "Källan motsäger sig: titel 37/47-559/597, beskrivning 37-559 till 47-559/44-590; webben visar att 597 och 590 hör till olika Continental-varianter. Ingen entydig dimension, tunn källa i övrigt (R2, R3).",
+  "batch_gammal": "k_13b_avvisade.json",
+  "titel_nu": "Inner tube CONTINENTAL Tube Tour 26 Valve Presta 37/47-559/597"
+ }
+]

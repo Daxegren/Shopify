@@ -1,0 +1,79 @@
+[
+ {
+  "id": "10468733223178",
+  "nr": 7003,
+  "avvisningsskal": "Landsvägscykel med elektroniskt växelsystem (Shimano Ultegra Di2, batteridrivet), hydrauliska Di2-bromsar och effektmätare (elektronik): batteri/elektronik och bromsar, tas för hand.",
+  "batch_gammal": "k_10_avvisade.json",
+  "titel_nu": "Landsvägscykel GIANT TCR Advanced Pro 0 Di2, Mercury"
+ },
+ {
+  "id": "10468733321482",
+  "nr": 7004,
+  "avvisningsskal": "Landsvägscykel med elektroniskt växelsystem (Shimano Ultegra Di2, batteridrivet) och effektmätare (Giant Power Pro): batteri/elektronik, tas för hand.",
+  "batch_gammal": "k_10_avvisade.json",
+  "titel_nu": "Landsvägscykel GIANT TCR Advanced SL 1, Blue Dragonfly"
+ },
+ {
+  "id": "10468772708618",
+  "nr": 7009,
+  "avvisningsskal": "Gravelcykel med trådlös elektronisk växling och bromsar (SRAM X1 AXS Eagle, Rival eTap AXS: batteri/elektronik); titeln anger Pro 2 men källtexten Pro 1 (motsägelse).",
+  "batch_gammal": "k_10_avvisade.json",
+  "titel_nu": "Gravel bike GIANT Revolt X Advanced Pro 2, Black/Sea Sparkle"
+ },
+ {
+  "id": "10471334543626",
+  "nr": 7026,
+  "avvisningsskal": "Elektroniskt växelsystem med batteri (Shimano Ultegra Di2, även bromsar anges som Di2): avvisas enligt tidigare beslut (Di2).",
+  "batch_gammal": "k_11_avvisade.json",
+  "titel_nu": "Road bike GIANT Defy Advanced Pro 0 (2026) Mariana Blue"
+ },
+ {
+  "id": "10472249032970",
+  "nr": 7033,
+  "avvisningsskal": "Elektroniskt växelsystem med batteri (SRAM Rival eTap AXS) samt hydrauliska XR-skivor: avvisas (elektronik/batteri).",
+  "batch_gammal": "k_11_avvisade.json",
+  "titel_nu": "Damcykel LIV EnviLiv Advanced SL LTD, Blanc"
+ },
+ {
+  "id": "10472255488266",
+  "nr": 7038,
+  "avvisningsskal": "Elektroniskt växelsystem med batteri (SRAM Rival AXS, modellnamn 1-AXS) samt hydrauliska skivbromsar: avvisas (elektronik/batteri).",
+  "batch_gammal": "k_11_avvisade.json",
+  "titel_nu": "Road bike GIANT TCR Advanced Pro 1-AXS, Carbon"
+ },
+ {
+  "id": "10472259322122",
+  "nr": 7039,
+  "avvisningsskal": "Elektroniskt växelsystem med batteri (Shimano Dura-Ace Di2): avvisas enligt tidigare beslut (Di2).",
+  "batch_gammal": "k_11_avvisade.json",
+  "titel_nu": "Landsvägscykel GIANT TCR Advanced SL 0 Disc, Raw Carbon"
+ },
+ {
+  "id": "10472276492554",
+  "nr": 7040,
+  "avvisningsskal": "Elektroniskt växelsystem med batteri (Shimano Dura-Ace Di2): avvisas enligt tidigare beslut (Di2).",
+  "batch_gammal": "k_11_avvisade.json",
+  "titel_nu": "Landsvägscykel GIANT TCR Advanced SL 0 DA, Black Lava"
+ },
+ {
+  "id": "10472282587402",
+  "nr": 7041,
+  "avvisningsskal": "Elektroniskt växelsystem med batteri (SRAM GX Eagle Transmission, AXS T-Type): avvisas (elektronik/batteri).",
+  "batch_gammal": "k_11_avvisade.json",
+  "titel_nu": "Mountainbike KONA Process 134 CR/DL G3, 29\" Satin Metallic Charcoal (Purple)"
+ },
+ {
+  "id": "10472290124042",
+  "nr": 6061,
+  "avvisningsskal": "Shimano 105 Di2 (elektroniskt växelsystem med batteri) enligt källan.",
+  "batch_gammal": "k_3_avvisade.json",
+  "titel_nu": "Landsvägscykel GIANT TCR Advanced 1 PC, Mars Dust"
+ },
+ {
+  "id": "10472293171466",
+  "nr": 7044,
+  "avvisningsskal": "Elektroniskt växelsystem med batteri (SRAM GX Eagle T-Type AXS): avvisas (elektronik/batteri).",
+  "batch_gammal": "k_11_avvisade.json",
+  "titel_nu": "Mountainbike LIV Pique Advanced 29 1, Raw Carbon"
+ }
+]

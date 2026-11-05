@@ -1,0 +1,86 @@
+[
+ {
+  "id": "10623405523210",
+  "nr": 10016,
+  "avvisningsskal": "Tunn källa (R3): bara att stången tränar rygg, axlar och armar; inga mått, material eller fäste. Webbfaktakoll (v1.6) hittade ingen sida som entydigt gäller exakt denna modell (artikel 61156): Tradeinn har en Gymstick \"Lat Bar\" (93 x 18 x 4,5 cm, krom, gummigrepp, https://www.tradeinn.com/traininn/en/gymstick-lat-bar/137685784/p) men namn och artikelnummer saknas, så den kan vara en annan modell. Uppgifterna utelämnas.",
+  "batch_gammal": "k_12b_avvisade.json",
+  "titel_nu": "Lateral Pull Down Bar"
+ },
+ {
+  "id": "10624084148490",
+  "nr": 10609,
+  "avvisningsskal": "Källan är bara 'Tillverkaren är Toorx' (R3): noll fakta utöver titeln, så varken text eller kort meta har faktagrund. Äldre utkast a_5 (nr 2515) för samma id bör därför inte användas.",
+  "batch_gammal": "g_4_avvisade.json",
+  "titel_nu": "Boxningssäck TOORX Fastball för WBX-70"
+ },
+ {
+  "id": "10636608569610",
+  "nr": 9545,
+  "avvisningsskal": "Roddhandtag BLACK Parallellt TRYM 12cm: titeln anger BLACK, men specifikationen säger Färg: Krom och texten 'Den svarta färgen är både snygg och tålig'; motsägelse mellan titel och källa (R3/R2). Texten är dessutom nästan identisk med 9550.",
+  "batch_gammal": "k_08b_avvisade.json",
+  "titel_nu": "Roddhandtag BLACK Parallellt TRYM 12cm"
+ },
+ {
+  "id": "10636616040714",
+  "nr": 9737,
+  "avvisningsskal": "Redan skriven: ingår i facit-30 (David godkände 2026-10-31, skrevs 2026-11-01; live-SEO och beskrivning har redan vår struktur med Passar för, Specifikationer och standardblock). Leverantörens originaltext finns inte längre live (R3: vår egen text räknas inte som källa), så en omskrivning saknar källa och skulle bara ändra redan godkänd text. Texter-klara-taggen saknas; den hanteras av koordinatorn (R15/R18), inte i denna batch.",
+  "batch_gammal": "k_10b_avvisade.json",
+  "titel_nu": "Höftband Hip Glute Band Women's Health, Set med 3 Band"
+ },
+ {
+  "id": "10636636782858",
+  "nr": 9747,
+  "avvisningsskal": "Redan skriven: ingår i facit-30 (David godkände 2026-10-31, skrevs 2026-11-01). Live-beskrivningen är vår egen text med Passar för, Specifikationer, standardblock och en FAQ-sektion (Vanliga frågor) som skriptet flaggar; leverantörens originaltext finns inte längre live (R3), så ingen ny källa finns att skriva från. Föreslås hanteras av koordinatorn (FAQ-rensning och tagg), inte i denna batch.",
+  "batch_gammal": "k_10b_avvisade.json",
+  "titel_nu": "Miniband Latex, Set med 5 Band och Påse"
+ },
+ {
+  "id": "10636716376330",
+  "nr": 9816,
+  "avvisningsskal": "Tunn källa (R3): texten beskriver bara adduktorernas anatomi och löpning/skaderisk; inga mått, material, vikt eller beskrivning av vad redskapet är. Endast en entydig uppgift utöver titeln (\"träna adduktorerna, insidan av låren\"). Dessutom skaderiskpåstående i källan. Avvisas.",
+  "batch_gammal": "k_11a_avvisade.json",
+  "titel_nu": "Adduktor Tränare"
+ },
+ {
+  "id": "10636727025930",
+  "nr": 9357,
+  "avvisningsskal": "Viktlås PRO Jawlock 2 st: titeln anger 30 mm men källans tabell anger \"Diamteter på 31mm\" och ingen text anger 30 mm (R3, källan stämmer inte med titeln). Kan skrivas som 31 mm om David godkänner.",
+  "batch_gammal": "k_06a_avvisade.json",
+  "titel_nu": "Viktlås PRO Jawlock 2st 30mm"
+ },
+ {
+  "id": "10650210369802",
+  "nr": 10223,
+  "avvisningsskal": "Titeln anger Röd och 2.5 kg, men produkten har tre varianter (Red, gray, yellow; SKU 17050, 17051, 17053) och källtexten nämner vikter från 2,5 till 25 kg. Färg och vikt går inte att låsa utan att varianterna skiljer sig; titel och källa stämmer inte.",
+  "batch_gammal": "f_9_avvisade.json",
+  "titel_nu": "Viktplatta HAMMER Bumper Plate, Röd, 50mm, 2.5 kg"
+ },
+ {
+  "id": "10650210468106",
+  "nr": 10321,
+  "avvisningsskal": "Titeln anger 4 kg, men produkten har två varianter (17360 till 409 kr och 17368 till 1 949 kr) med oförklarade namn och olika pris. Källan anger bara ett viktintervall 4–24 kg. Titeln stämmer inte med produkten.",
+  "batch_gammal": "f_13_avvisade.json",
+  "titel_nu": "Kettlebell HAMMER Premium 4kg"
+ },
+ {
+  "id": "10650210664714",
+  "nr": 10222,
+  "avvisningsskal": "Titel anger 183 cm och 250 kg men brödtexten anger längder 183 eller 220 cm och belastning upp till 700 kg, medan specifikationen anger 250 kg; produkten har två varianter (17611, 17613) med oförklarade namn. Motsägande belastningsuppgifter och oklara varianter: kan inte skrivas säkert.",
+  "batch_gammal": "f_9_avvisade.json",
+  "titel_nu": "Lyftstång HAMMER Skivstång, 183 cm, 250 kg, 50 mm"
+ },
+ {
+  "id": "10656690274570",
+  "nr": 10108,
+  "avvisningsskal": "R3, tunn källa och trasigt pris: källan säger bara \"Passar modellerna Cargobike of Sweden Flex och Delight\" (kompatibilitet, inga mått eller material), titelns \"med ryggstöd\" saknar stöd i källan och varianten kostar 9,00 kr (SKU 1521-30), vilket uppenbart är fel. Ingen webbkälla använd; modellen är inte entydigt identifierbar.",
+  "batch_gammal": "k_13a_avvisade.json",
+  "titel_nu": "Sittdyna för baksäte med ryggstöd CARGOBIKE of Sweden Flex/Delight"
+ },
+ {
+  "id": "10656691323146",
+  "nr": 9602,
+  "avvisningsskal": "Titeln \"Elliptisk träningsmaskin\" stämmer inte med källan: texten beskriver en roddmaskin (Movemia ER1000R: \"är en roddmaskin\", svänghjul baktill, roddrörelse, mått 225 x 62 x 161 cm) och spec anger steglängd 46 cm, vilket motsäger varandra (R3/R2). Butiken har tre ER1000R-produkter (10656691257610 Crosstrainer, 10656691290378 och denna Elliptisk) utan skriven text; vilken som är den riktiga produkten och dess typ ska avgöras av David, och typordet får inte bytas av utkastaren.",
+  "batch_gammal": "k_09a_avvisade.json",
+  "titel_nu": "Elliptisk träningsmaskin BH FITNESS Movemia ER1000R"
+ }
+]

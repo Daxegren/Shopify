@@ -1,0 +1,79 @@
+[
+ {
+  "id": "10472294285578",
+  "nr": 6052,
+  "avvisningsskal": "Shimano 105 Di2 (elektroniskt växelsystem med batteri) enligt källan.",
+  "batch_gammal": "k_3_avvisade.json",
+  "titel_nu": "Landsvägscykel GIANT Defy Advanced 1, Charcoal/Milky Way"
+ },
+ {
+  "id": "10472321024266",
+  "nr": 7047,
+  "avvisningsskal": "Elektroniskt växelsystem med batteri (Shimano Ultegra Di2): avvisas enligt tidigare beslut (Di2).",
+  "batch_gammal": "k_11_avvisade.json",
+  "titel_nu": "Liv Langma Advanced SL 1 Damrac, Cosmic Dust"
+ },
+ {
+  "id": "10472331575562",
+  "nr": 7052,
+  "avvisningsskal": "Shimano GRX RX-820 är en elektronisk växelgrupp (Di2) med batteri; källan anger inte det men gruppnamnet gör att den ska hanteras som elektronik. Tas för hand med Davids ja.",
+  "batch_gammal": "k_12_avvisade.json",
+  "titel_nu": "Women's Gravel Bike LIV Devote Advanced 0 SE (2026) Tropical Collage"
+ },
+ {
+  "id": "10472335376650",
+  "nr": 7055,
+  "avvisningsskal": "SRAM Force AXS (elektroniskt växelsystem med batteri) enligt källan; triathloncykel. Elektronik: tas för hand.",
+  "batch_gammal": "k_12_avvisade.json",
+  "titel_nu": "Road bike GIANT Trinity Advanced SL 1, Carbon/Matte Carbon"
+ },
+ {
+  "id": "10472335671562",
+  "nr": 6060,
+  "avvisningsskal": "Shimano 105 Di2 (elektroniskt växelsystem med batteri) enligt källan.",
+  "batch_gammal": "k_3_avvisade.json",
+  "titel_nu": "Landsvägscykel GIANT TCR Advanced 1 PC, Dreamy Blue"
+ },
+ {
+  "id": "10472435024138",
+  "nr": 7057,
+  "avvisningsskal": "Shimano 105 Di2 (elektroniskt växelsystem med batteri) enligt källan. Elektronik: tas för hand.",
+  "batch_gammal": "k_12_avvisade.json",
+  "titel_nu": "Road bike GIANT Propel Advanced 1 (2027) Carbon"
+ },
+ {
+  "id": "10476044845322",
+  "nr": 7061,
+  "avvisningsskal": "Shimano 105 Di2 (elektroniskt växelsystem med batteri) enligt källan. Elektronik: tas för hand.",
+  "batch_gammal": "k_12_avvisade.json",
+  "titel_nu": "Landsvägscykel GIANT TCR Advanced 1 PC, Asphalt Green"
+ },
+ {
+  "id": "10476066701578",
+  "nr": 7062,
+  "avvisningsskal": "Shimano 105 Di2 (elektroniskt växelsystem med batteri) enligt källan. Elektronik: tas för hand.",
+  "batch_gammal": "k_12_avvisade.json",
+  "titel_nu": "Landsvägscykel GIANT TCR Advanced 1 PC, Asphalt Green"
+ },
+ {
+  "id": "10476107497738",
+  "nr": 7064,
+  "avvisningsskal": "Shimano 105 Di2 (elektroniskt växelsystem med batteri) enligt källan. Elektronik: tas för hand.",
+  "batch_gammal": "k_12_avvisade.json",
+  "titel_nu": "Landsvägscykel GIANT TCR Advanced Pro 1-Di2, Carbon"
+ },
+ {
+  "id": "10476123521290",
+  "nr": 7065,
+  "avvisningsskal": "Shimano 105 Di2 (elektroniskt växelsystem med batteri) enligt källan. Elektronik: tas för hand.",
+  "batch_gammal": "k_12_avvisade.json",
+  "titel_nu": "Landsvägscykel GIANT TCR Advanced Pro 1-Di2, Carbon"
+ },
+ {
+  "id": "10476145213706",
+  "nr": 7069,
+  "avvisningsskal": "SRAM RED AXS E1 (elektroniskt växelsystem med batteri) enligt källan; triathloncykel. Elektronik: tas för hand.",
+  "batch_gammal": "k_12_avvisade.json",
+  "titel_nu": "Landsvägscykel GIANT Trinity Advanced SL 0 Carbon/Prismatic Haze"
+ }
+]

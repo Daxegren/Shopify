@@ -1,0 +1,86 @@
+[
+ {
+  "id": "10523491467530",
+  "nr": 9439,
+  "avvisningsskal": "Tom källa: beskrivningen saknas helt och titeln är enda källa. Webbsökning gav ingen entydig specifikation för just svart Ding-A-Ling Flick (ingen vikt, klämmått eller material). Tunn källa, R3.",
+  "batch_gammal": "k_07b_avvisade.json",
+  "titel_nu": "Cykelklocka GIANT DING-A-LING Flick, Svart"
+ },
+ {
+  "id": "10541369098506",
+  "nr": 10122,
+  "avvisningsskal": "Titeln låser Svart/Blå och (L), men varianterna 490000099 och 490000095 är oförklarade. Webben bekräftar bara 490000095 som svart/blå; 490000099 hittades inte, så färg och sida (L/R) kan inte styrkas för alla varianter. Egen källa har bara 500–750 ml (R3).",
+  "batch_gammal": "k_13b_avvisade.json",
+  "titel_nu": "Flaskhållare GIANT Airway Sport Sidepull (L), Svart/Blå"
+ },
+ {
+  "id": "10541372801290",
+  "nr": 10335,
+  "avvisningsskal": "Titeln anger 8 kg, men produkten har sex varianter (25TUPLA071 till 389 kr och 25TUPLA070, 072–075 till 679 kr) med oförklarade namn. Källan nämner ingen vikt. Titeln stämmer inte med produkten.",
+  "batch_gammal": "f_14_avvisade.json",
+  "titel_nu": "Kettlebell TUNTURI Platinum gjutjärn 8 kg"
+ },
+ {
+  "id": "10548291469578",
+  "nr": 7115,
+  "avvisningsskal": "Trasig källa (beskrivningen är avskuren mitt i ramstorlekarna, varianter med motstridiga SKU:er) och lastuppgift (klarar upp till 120 kg, daglig lasttransport): lyft till handläggning.",
+  "batch_gammal": "k_14_avvisade.json",
+  "titel_nu": "Cykel med extra låg ram LEADER FOX Ema 26\" Lady, Svart"
+ },
+ {
+  "id": "10581097054474",
+  "nr": 9452,
+  "avvisningsskal": "Träningsslang Gymstick Aktiv med dörrankare: källan är en mening (\"levereras med dörrankare\") och inget annat utöver titeln. Tunn källa (R3), ingen webbkälla funnen.",
+  "batch_gammal": "k_07c_avvisade.json",
+  "titel_nu": "Träningsslang Gymstick Aktiv med Dörrankare"
+ },
+ {
+  "id": "10581100888330",
+  "nr": 10014,
+  "avvisningsskal": "Court Mini Goal Net: ingen webbträff på SKU 53155; livekällan har bara syfte (fotbollsträning, agility) och \"kompakt mål\", oklart om produkten är nät eller komplett mål, inga mått eller material (R3).",
+  "batch_gammal": "k_12a_avvisade.json",
+  "titel_nu": "Court Mini Goal Net"
+ },
+ {
+  "id": "10581101641994",
+  "nr": 3042,
+  "avvisningsskal": "Skivstång med belastning/last (10 kg Curved Bar). Säkerhetsprodukt. Dessutom har produkten sju oförklarade varianter (10CURVED, 15, 20COM, 20PRE, 20, BH6, HB182) med priser 2039–4789 kr som tyder på olika stänger; källan är motsägelsefull.",
+  "batch_gammal": "c_3_avvisade.json",
+  "titel_nu": "10kg Curved Bar"
+ },
+ {
+  "id": "10581102231818",
+  "nr": 3050,
+  "avvisningsskal": "Säkerhetsprodukt: justerbara hantlar med lås och last. Dessutom två varianter (15 och 20) med olika pris, oförklarade.",
+  "batch_gammal": "c_4_avvisade.json",
+  "titel_nu": "Adjustable Dumbbell Set 15kg"
+ },
+ {
+  "id": "10581104230666",
+  "nr": 10137,
+  "avvisningsskal": "Oklart vad produkten är: källan nämner \"justerbart handtag\" som anpassar motstånd och grepp, utan typ, mått eller material; varianterna L och S förklaras inte (R2, R3).",
+  "batch_gammal": "k_13b_avvisade.json",
+  "titel_nu": "Justerbart handtag, lätt"
+ },
+ {
+  "id": "10581104427274",
+  "nr": 9889,
+  "avvisningsskal": "Titeln låser färgen Svart-Röd, men produkten har tre varianter (BL, BLU, PI) som inte förklaras och kan vara andra färger. Källan stämmer inte med titeln (R3).",
+  "batch_gammal": "k_11d_avvisade.json",
+  "titel_nu": "Air Track 300 x 100 x 10cm, Svart-Röd"
+ },
+ {
+  "id": "10581104492810",
+  "nr": 3054,
+  "avvisningsskal": "Säkerhetsprodukt: halsband (lås) för vikter, fastsättning av last. Fyra varianter (03BL, 03R, 01, 07) med olika pris, oförklarade.",
+  "batch_gammal": "c_4_avvisade.json",
+  "titel_nu": "Aluminiumhalsband 50mm, svart"
+ },
+ {
+  "id": "10581104918794",
+  "nr": 9896,
+  "avvisningsskal": "Nackskydd (Pro) för tunga lyft: samma skäl som 9895. Källan har bara skydds-, säkerhets- och stötdämpningspåståenden utan fakta (R3, R5).",
+  "batch_gammal": "k_11d_avvisade.json",
+  "titel_nu": "Barbell Pad Pro"
+ }
+]

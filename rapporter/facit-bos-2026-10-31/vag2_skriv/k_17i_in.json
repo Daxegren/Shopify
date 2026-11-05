@@ -1,0 +1,86 @@
+[
+ {
+  "id": "10581110358282",
+  "nr": 9927,
+  "avvisningsskal": "Titeln låser 1,25 kg men produkten har 7 vikter (1,25–25) med priserna 109–1 429 kr (R3). Viktplatta är dessutom produkt med last och källan har ingen håldiameter. Underkänd tidigare i c_13 av samma skäl.",
+  "batch_gammal": "k_11f_avvisade.json",
+  "titel_nu": "Pro PU Viktplatta 1,25kg / styck"
+ },
+ {
+  "id": "10581110751498",
+  "nr": 9923,
+  "avvisningsskal": "Motionscykel (liggande) i faktatextläge men källan har bara \"justerbar sits\" och \"ergonomisk design\" samt rehabiliteringspåstående. Inga mått, vikt, motstånd, display eller användarvikt (R3, R4). Pris 20 999 kr; ett entydigt faktum utöver titeln.",
+  "batch_gammal": "k_11e_avvisade.json",
+  "titel_nu": "PRO20.0 Recumbent Bike"
+ },
+ {
+  "id": "10581110980874",
+  "nr": 3200,
+  "avvisningsskal": "Snabbkopplingshantel (justerbar hantel med låsmekanism), 22,5 kg: belastning och lås; källan saknar säkerhets- och belastningsuppgifter, och butiken har två varianter med olika pris (999 och 2549 kr). Tas för hand med Davids ja.",
+  "batch_gammal": "c_14_avvisade.json",
+  "titel_nu": "Snabbkoppling Hantel 22,5kg"
+ },
+ {
+  "id": "10581111079178",
+  "nr": 9621,
+  "avvisningsskal": "Tunn källa (R3): bara att racket är för sex par Pro Rubber-hantlar (titeln); resten är kvalitetsord (R5). Under två entydiga fakta utöver titeln.",
+  "batch_gammal": "k_08e_avvisade.json",
+  "titel_nu": "Rack för 6 par Pro Rubber Hantlar"
+ },
+ {
+  "id": "10581111111946",
+  "nr": 9620,
+  "avvisningsskal": "Tunn källa (R3): bara att racket rymmer flera kettlebells; inga mått, material eller antal. Under två entydiga fakta utöver titeln.",
+  "batch_gammal": "k_08e_avvisade.json",
+  "titel_nu": "Rack for Kettlebells"
+ },
+ {
+  "id": "10581111243018",
+  "nr": 9622,
+  "avvisningsskal": "R3: titeln anger 1,25 kg men produkten har sju varianter (1,25–25 kg, 89–1 329 kr) och källan nämner bara 1,25 kg och ger inga mått, material eller hål; tunn källa med motsägelse mot varianterna.",
+  "batch_gammal": "k_08e_avvisade.json",
+  "titel_nu": "Viktskiva gummi 1,25kg / styck"
+ },
+ {
+  "id": "10581112094986",
+  "nr": 10129,
+  "avvisningsskal": "Två varianter (Default 249 kr, SPR 299 kr) utan förklaring; egen källa är bara marknadsföring och ger ingen volym eller kompatibilitet. Under två entydiga fakta, ingen webbkälla funnen (R3).",
+  "batch_gammal": "k_13b_avvisade.json",
+  "titel_nu": "Treadmill Lubrication"
+ },
+ {
+  "id": "10581112160522",
+  "nr": 10009,
+  "avvisningsskal": "Triceps Full Extension Bar: ingen tillverkar- eller återförsäljarsida hittades för exakt denna modell (SKU 61251, EAN 6430016902885). Webbsökning 2026-11-04 gav bara andra märken och Gymstick V Triceps Bar (annan produkt). Källan saknar mått, material och fäste, och produkttypen är oklar (R3, v1.6: utelämna).",
+  "batch_gammal": "k_12a_avvisade.json",
+  "titel_nu": "Triceps Full Extension Bar"
+ },
+ {
+  "id": "10581112258826",
+  "nr": 10011,
+  "avvisningsskal": "Universal Paw: ingen webbträff på SKU 20008 eller EAN 6430016902212; livekällan säger inte vad produkten är. Inga fakta utöver titeln (R3).",
+  "batch_gammal": "k_12a_avvisade.json",
+  "titel_nu": "Universal Paw"
+ },
+ {
+  "id": "10581112717578",
+  "nr": 3239,
+  "avvisningsskal": "Lyftbälte (Weightlifting Belt) med påståenden om att skydda ryggen och ge stöd vid tunga lyft. Skydds-/lastprodukt med risk för personskada vid fel text; tas för hand med Davids ja per produkt. Varianterna 105 och 115 är dessutom oförklarade.",
+  "batch_gammal": "c_16_avvisade.json",
+  "titel_nu": "Weightlifting Belt - Shaped 105cm"
+ },
+ {
+  "id": "10581112815882",
+  "nr": 3242,
+  "avvisningsskal": "Plyobox: hoppbox som belastas vid hopp, step-ups och dips (last/stabilitet). Källan saknar maxbelastning och säkerhetsuppgifter. Dessutom har produkten två varianter (S och Default) med olika pris och oförklarade namn. Lyfts till handläggning.",
+  "batch_gammal": "c_17_avvisade.json",
+  "titel_nu": "Trä Plyobox 50 x 45 x 40cm"
+ },
+ {
+  "id": "10581112848650",
+  "nr": 9941,
+  "avvisningsskal": "Handledsstöd: skydd/stöd med skadeförebyggande påstående i källan (\"minskar risken för skador\", \"lyfta tyngre\"); storlek, material och hand saknas (R5, R3). Underkänd tidigare i c_17.",
+  "batch_gammal": "k_11f_avvisade.json",
+  "titel_nu": "Wrist Support 1.0"
+ }
+]

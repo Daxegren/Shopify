@@ -1,0 +1,86 @@
+[
+ {
+  "id": "10581104951562",
+  "nr": 3068,
+  "avvisningsskal": "Säkerhetsprodukt: vägg- och golvfäste för battle rope som tar last; tre varianter (0, 1,5, 2) med priserna 349, 1 299 och 1 599 kr utan förklaring.",
+  "batch_gammal": "c_5_avvisade.json",
+  "titel_nu": "Battle Rope Wall-/Floor Mount"
+ },
+ {
+  "id": "10581105672458",
+  "nr": 9898,
+  "avvisningsskal": "Titeln låser 45 cm, men produkten har två varianter (45 cm 349 kr och 90 cm 599 kr). Källan stämmer inte med titeln (R3).",
+  "batch_gammal": "k_11d_avvisade.json",
+  "titel_nu": "Core Roller 45cm"
+ },
+ {
+  "id": "10581106491658",
+  "nr": 10136,
+  "avvisningsskal": "Titeln låser 10 kg; sju varianter (0, 5, 7,5, 10, 15, 20, 30) där \"0\" kostar 2 999 kr utan förklaring. Källan nämner varken vikter eller mått, så en text utan vikt blir utan innehåll (R3).",
+  "batch_gammal": "k_13b_avvisade.json",
+  "titel_nu": "Fitness Bag 10kg"
+ },
+ {
+  "id": "10581106557194",
+  "nr": 3102,
+  "avvisningsskal": "Flip-Lock Collars 30mm: skivstångslås som håller viktskivor under last (säkerhet/last). Dessutom är varianterna olika produkter med pris 49–699 kr (FL30, BAR, SBAR, COLLARS, 1,25PU–10PU) och oförklarade. Tas för hand.",
+  "batch_gammal": "c_7_avvisade.json",
+  "titel_nu": "Flip-Lock Collars 30mm"
+ },
+ {
+  "id": "10581106917642",
+  "nr": 9451,
+  "avvisningsskal": "Motionscykel GB3.0 (Gymstick): källan har bara marknadsföringstext (robust, effektiv, stilren svart-vit design, hemmabruk) och ingen specifikation; bara ett entydigt faktum utöver titeln (hemmabruk). Tunn källa (R3). Webbsökning gav bara återförsäljare och en manual som inte gick att läsa maskinellt (PDF utan text), så inget gick att belägga entydigt från tillverkaren (v1.6). Fitness, så tunn text hålls inte kvar som kort meta.",
+  "batch_gammal": "k_07c_avvisade.json",
+  "titel_nu": "Motionscykel GB3.0, Svart-Vit"
+ },
+ {
+  "id": "10581106950410",
+  "nr": 3111,
+  "avvisningsskal": "Functional Trainer är en kabel-/träningsstation med last och justering (säkerhetsprodukt); källan saknar konstruktions- och belastningsuppgifter. Dessutom två varianter (Default 459 kr, 0 259 kr) med oförklarade namn och motsägande pris. Tas för hand med Davids ja.",
+  "batch_gammal": "c_8_avvisade.json",
+  "titel_nu": "Functional Trainer"
+ },
+ {
+  "id": "10581107343626",
+  "nr": 10127,
+  "avvisningsskal": "Tio varianter är olika modeller (GT1.0 till PRO25.0, 6 999–49 999 kr) och titeln låser GT1.0. En titel utan modell vore missvisande, och källan saknar tekniska uppgifter (R3).",
+  "batch_gammal": "k_13b_avvisade.json",
+  "titel_nu": "GT1.0 Treadmill"
+ },
+ {
+  "id": "10581107867914",
+  "nr": 3129,
+  "avvisningsskal": "Hi-Impact Bumper Plate: viktskiva för lyft och fall från axelhöjd (last). Säkerhetsprodukt. Dessutom fem varianter (5, 10, 15, 20, 25) med olika pris; titeln låser 10 kg och 'enkel'.",
+  "batch_gammal": "c_9_avvisade.json",
+  "titel_nu": "Hi-Impact Bumper Plate 10kg - enkel"
+ },
+ {
+  "id": "10581108130058",
+  "nr": 3134,
+  "avvisningsskal": "Järnviktskiva 1,25kg: viktskiva med last. Säkerhetsprodukt. Dessutom sju oförklarade varianter (1,25, 2,5, 5, 10, 15, 20, RACK) med priserna 79–1 599 kr; titeln låser 1,25 kg.",
+  "batch_gammal": "c_9_avvisade.json",
+  "titel_nu": "Järnviktskiva 1,25kg"
+ },
+ {
+  "id": "10581108588810",
+  "nr": 10018,
+  "avvisningsskal": "Tunn källa (R3): inga mått, material, antal eller typ utöver titeln, och källan har skadeförebyggande påståenden (R5). Webbfaktakoll (v1.6): Proshop.se listar artikel 61150 men bara med \"hållbar\" och justerbar kardborrerem, utan material eller mått (sidan svarar 403 på direkthämtning). Ett enda entydigt faktum, för tunt (R3).",
+  "batch_gammal": "k_12b_avvisade.json",
+  "titel_nu": "Lifting Grips"
+ },
+ {
+  "id": "10581109702922",
+  "nr": 3170,
+  "avvisningsskal": "Power Vest 10kg (viktväst): belastningsprodukt; varianten '20' är oförklarad (20 kg?) och pris skiljer. Tas för hand med Davids ja.",
+  "batch_gammal": "c_12_avvisade.json",
+  "titel_nu": "Power Vest 10kg"
+ },
+ {
+  "id": "10581109768458",
+  "nr": 10139,
+  "avvisningsskal": "Tre varianter (Default 799 kr, SL 149 kr, G 129 kr) är uppenbart olika artiklar och titeln låser 180 cm; källan saknar mått och material (R3).",
+  "batch_gammal": "k_13b_avvisade.json",
+  "titel_nu": "Powerslider Basic 180cm"
+ }
+]

@@ -1,0 +1,86 @@
+[
+ {
+  "id": "10475367006474",
+  "nr": 9802,
+  "avvisningsskal": "Titeln \"Skridskor\" stämmer inte med källan: texten beskriver en pjäxa med NNN-bindning (längdskidpjäxa, taggar Skidor/Klassiska pjäxor) som \"skridskopjäxa\". Motsägelse mellan titel och källa (R3) och oklart typord (R7); en agent får inte byta produktens typ. Dessutom starka skydds- och kvalitetspåståenden (skyddar foten, ultimat komfort). David avgör typ och titel (längdskidpjäxa eller skridskopjäxa).",
+  "batch_gammal": "k_11a_avvisade.json",
+  "titel_nu": "Skridskor Alpina T 40 2022"
+ },
+ {
+  "id": "10475517772042",
+  "nr": 9649,
+  "avvisningsskal": "Tunn källa (R3): enda entydiga uppgiften är 'Frekvens: 5,3 KHz', som redan står i titeln; frekvensomfångsraden är trasig och Italien är ett ursprung (R5). Underkänd i g_utlatande_3 (nr 10547).",
+  "batch_gammal": "k_09b_avvisade.json",
+  "titel_nu": "TOORX Bröstbälte 5.3 kHz"
+ },
+ {
+  "id": "10480054534410",
+  "nr": 9504,
+  "avvisningsskal": "Kettlebell Christopeit 2 kg: tunn källa, samma allmänna reklamtext som 12 kg-varianten och inga entydiga fakta utöver vikten i titeln (R3 tunn källa).",
+  "batch_gammal": "k_08a_avvisade.json",
+  "titel_nu": "Sangpomm CHRISTOPEIT Kettlebell 2kg"
+ },
+ {
+  "id": "10480054567178",
+  "nr": 9503,
+  "avvisningsskal": "Kettlebell Christopeit 12 kg: tunn källa, bara vikten i titeln och allmän reklamtext (ergonomiskt handtag, användningsområden); inga entydiga fakta om material eller mått, och webbsökning på artikelnummer 21-3567 gav ingen entydig träff (R3 tunn källa).",
+  "batch_gammal": "k_08a_avvisade.json",
+  "titel_nu": "Sangpomm CHRISTOPEIT Kettlebell 12kg"
+ },
+ {
+  "id": "10480054599946",
+  "nr": 10125,
+  "avvisningsskal": "Titeln låser 4 kg, men varianterna 21-2547 (289 kr) och 21-2548 (489 kr) förklaras inte och skillnaden är stor; källan anger ingen vikt per variant. Webben gav ingen träff på artiklarna (R3).",
+  "batch_gammal": "k_13b_avvisade.json",
+  "titel_nu": "Sangpomm CHRISTOPEIT Kettlebell 4kg"
+ },
+ {
+  "id": "10487987142922",
+  "nr": 9049,
+  "avvisningsskal": "R3: varianter med olika pris (21 419 kr, 21 369 kr och 18 619 kr) och titeln anger en färg; källan stämmer inte med en enskild variant.",
+  "batch_gammal": "k_01b_avvisade.json",
+  "titel_nu": "Gravelcykel KONA Rove, 27.5\" Satin Metallic Black"
+ },
+ {
+  "id": "10488246632714",
+  "nr": 10109,
+  "avvisningsskal": "R3: Default Title 12 469 kr (SKU 2206041185) mot L / black 5 229 kr (SKU 2206041187). Olika SKU och en prisskillnad på över 7 000 kr som inte förklaras av storlek; Default Title saknar storlek och färg och titeln låser färgen svart. Variantdatat är trasigt, David avgör vilken variant som gäller.",
+  "batch_gammal": "k_13a_avvisade.json",
+  "titel_nu": "Cykel GIANT Attend RS 1 GTS, Svart"
+ },
+ {
+  "id": "10488282251530",
+  "nr": 10102,
+  "avvisningsskal": "R3/R12a: priset skiljer inte bara med storlek. XL / gray kostar 38 019 kr men XL / dark gray 33 059 kr (samt en dubbel variant \"XL / dark gray (FA58)\", samma SKU B37LBGYSHFA58). Titeln låser Charcoal medan varianterna är gray och dark gray, och raden Rammaterial i källan är trasig (storlekslista). En titel utan färg blir identisk med den andra aktiva annonsen 10530213921034 (exakt samma titel, Default Title, SKU B37LBGYSHFA52, ej skriven). David avgör om de två Libre-annonserna ska slås ihop.",
+  "batch_gammal": "k_13a_avvisade.json",
+  "titel_nu": "Gravelcykel KONA Libre (2026) Gloss Metallic Charcoal"
+ },
+ {
+  "id": "10494685315338",
+  "nr": 9950,
+  "avvisningsskal": "Tunn källa (R3): bara \"Ett lätt träningspass för amatören. Konstruktion .\" (trasig) samt pjäxrekommendation; modellbeteckningen SK 21 STIFF finns i titeln. Webbsökning (v1.6) gav ingen entydig specifikation för exakt denna modell och årsmodell; basmaterial anges olika hos olika återförsäljare.",
+  "batch_gammal": "k_11f_avvisade.json",
+  "titel_nu": "Skridskoskidor Peltonen Acadia SK 21 STIFF"
+ },
+ {
+  "id": "10494834245898",
+  "nr": 9058,
+  "avvisningsskal": "R3: Titeln anger färgen röd men källans rad säger 'Färg: grön' (motsägelse; handle har också 'r-d'). Källtexten är dessutom maskinöversatt och trasig ('kedjebromsar', 'något på en stålram', 'pegboards'), så färg och bromsar går inte att återge säkert. Lyft till handläggning.",
+  "batch_gammal": "k_01c_avvisade.json",
+  "titel_nu": "Gravelcykel ROMET Finale, röd"
+ },
+ {
+  "id": "10502527877386",
+  "nr": 9016,
+  "avvisningsskal": "R3: källan beskriver \"ENGWE E26\" och nämner aldrig modellen E26 ST; det går inte att belägga att E26 ST har samma specifikationer (batteri, vikt, ram, mått). Texten är i övrigt identisk med E26 (9017/9018). Skrivs först om leverantörens källa bekräftar ST-specifikationerna.",
+  "batch_gammal": "k_01a_avvisade.json",
+  "titel_nu": "Elcykel ENGWE E26 ST, Svart"
+ },
+ {
+  "id": "10515745636618",
+  "nr": 9336,
+  "avvisningsskal": "Versatyl S2S Edition: titelns färg \"Krom/Svart\" motsäger källans \"Färg: svart-grå\" (R3), och källan nämner en \"sits i aluminium\" som inte hör till en stuntsparkcykel (trasig/maskinöversatt rad).",
+  "batch_gammal": "k_05a_avvisade.json",
+  "titel_nu": "Tricksparkcykel Versatyl S2S Edition Pro Scooter Krom/Svart"
+ }
+]

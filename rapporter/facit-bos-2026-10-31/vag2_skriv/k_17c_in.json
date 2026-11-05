@@ -1,0 +1,86 @@
+[
+ {
+  "id": "10472240185610",
+  "nr": 9429,
+  "avvisningsskal": "Innerslang med motsägande dimension: titeln Compact 14 och ETRTO 32/47-279/298 mot källans \"Storlek: 26 tum\"; ventilen anges som DV i titeln men Schraderventil 34 mm i texten. Underkänd tidigare som 8242 (R2, R3).",
+  "batch_gammal": "k_07b_avvisade.json",
+  "titel_nu": "Inner tube Continental Compact 14 DV 32/47-279/298"
+ },
+ {
+  "id": "10472240316682",
+  "nr": 9474,
+  "avvisningsskal": "Bakväxel Shimano Altus RD-M370 9s Silver SGS: källan är tom (bara titeln). Shimanos egen sida gav 403 vid hämtning; webbsökningen gav återförsäljare (9 växlar, lång vagn, total kapacitet 45T) men ingen läst tillverkarsida. v1.6: utelämna. Tunn källa (R3). Kan skrivas om David godkänner webbfynden.",
+  "batch_gammal": "k_07c_avvisade.json",
+  "titel_nu": "Bakväxel 9s Silver SGS RD-M370"
+ },
+ {
+  "id": "10472242184458",
+  "nr": 9358,
+  "avvisningsskal": "Bromsskiva SHIMANO SM-RT10 Center Lock: en cykeldel (bromsskiva), inte ett lås (taggen Cykellås är fel). Källan anger två ytterdiametrar (180 och 160 mm) som motsäger titelns 180 mm (R3), och bromsdelar är säkerhetsprodukter som hålls utanför.",
+  "batch_gammal": "k_06a_avvisade.json",
+  "titel_nu": "Bromsskiva SHIMANO 180 mm Center Lock SM-RT10 Endast Resinbelägg"
+ },
+ {
+  "id": "10472243659018",
+  "nr": 9328,
+  "avvisningsskal": "START Easy HF Quick Kick: en skidgreppvalla (smörjmedel/grepp för skidor med svamp, ofta flera lager), inte en sparkcykel; taggen Sparkcykel är felaktig. Källan är maskinöversatt och motsägande (\"golvbindande\", \"+5 +15°C\"), och titeln \"universellt snabbsmörjmedel\" stämmer inte med texten (R2, R3).",
+  "batch_gammal": "k_05a_avvisade.json",
+  "titel_nu": "START Easy HF Quick Kick universellt snabbsmörjmedel"
+ },
+ {
+  "id": "10472244412682",
+  "nr": 9329,
+  "avvisningsskal": "START Easy HF Quick Kick, kallt: samma som 9328. Skidgrepp (-5 till -15 °C) taggat som Sparkcykel; titeln \"Underhållsfett\" motsäger källan (\"hållande beläggning\"), maskinöversatt källa (R2, R3).",
+  "batch_gammal": "k_05a_avvisade.json",
+  "titel_nu": "Underhållsfett START Easy HF Quick Kick, kallt"
+ },
+ {
+  "id": "10472245657866",
+  "nr": 9626,
+  "avvisningsskal": "Tunn källa (R3): bara att hantlarna har \"halkfria grepp\" (R5) och Zipro-marknadsföring; vikt och färg finns bara i titeln. Under två entydiga fakta utöver titeln.",
+  "batch_gammal": "k_08f_avvisade.json",
+  "titel_nu": "Hantel ZIPRO HEX 2.5kg, svart"
+ },
+ {
+  "id": "10472250343690",
+  "nr": 9006,
+  "avvisningsskal": "Källan (Basil Mid Engine Cover) beskriver ett skydd för elcykelns mittmotor (\"Skydda din elcykels mittmotor\"), medan live-titeln säger skydd för \"centrumbatteri\"; titel och källa stämmer inte (R3). Dessutom tunn källa (mått 8 x 12 x 9 cm, material 4,5 mm neopren) och skyddsord (\"skyddar\") som kräver \"enligt tillverkaren\". Koordinatorn avgör om titeln ska rättas före text skrivs.",
+  "batch_gammal": "k_01a_avvisade.json",
+  "titel_nu": "Skydd för elcykelns centrumbatteri BASIL Mid Engine Cover, svart"
+ },
+ {
+  "id": "10472251719946",
+  "nr": 9434,
+  "avvisningsskal": "Innerslang med motsägande dimension: titeln anger 28 tum och ETRTO 47/62-584/622, texten \"för 28 mm breda däck\"; 584 är 27,5 tum, 622 är 28/29 tum. Webbsökning bekräftar att 47/62-584/622 inte hör ihop med en känd Continental-slang. Underkänd tidigare som 8247 (R2, R3).",
+  "batch_gammal": "k_07b_avvisade.json",
+  "titel_nu": "Innerdäck Continental 28\" AV 47/62-584/622"
+ },
+ {
+  "id": "10472257913098",
+  "nr": 9617,
+  "avvisningsskal": "Tunn källa (R3): beskrivningen är tom; bara titeln (35 cm, 2 kg, 30 mm) finns. Webbsökning på modellnumret GYMDB-2 gav ingen entydig källa för exakt modellen.",
+  "batch_gammal": "k_08e_avvisade.json",
+  "titel_nu": "Hantel GYMSTICK Hantel 35 cm, 2 kg, 30 mm"
+ },
+ {
+  "id": "10472258011402",
+  "nr": 10116,
+  "avvisningsskal": "R3: Default Title 8 549 kr och XL / hall 7 439 kr (samma SKU 28230568-A). Variantfärgen \"hall\" (estniska: grå) stämmer inte med titelns grå-blå, och källan listar M, L och XL utan färg. David avgör.",
+  "batch_gammal": "k_13a_avvisade.json",
+  "titel_nu": "Hybridcykel ROMET Wagant 1, grå-blå"
+ },
+ {
+  "id": "10472262959370",
+  "nr": 9633,
+  "avvisningsskal": "Batteripaket till elcykeln Fiido Titan (batteri och elcykeldel, inte fitness). Källan har bara två meningar: batterihållare, 2 batterier och påsar. Batteri/elektronik tas för hand (standard §10) och tunn källa (R3).",
+  "batch_gammal": "k_09b_avvisade.json",
+  "titel_nu": "Battery set for Fiido Titan"
+ },
+ {
+  "id": "10472271511818",
+  "nr": 10596,
+  "avvisningsskal": "R3: titeln anger Medium 105 cm men leverantörstexten beskriver \"Abdominal Power Belt Large\" och \"Large 105cm\". Titel och källa motsäger varandra (storlek Medium mot Large), och vår egen tidigare text räknas inte som källa. Storleken måste avgöras före skrivning.",
+  "batch_gammal": "h_6_avvisade.json",
+  "titel_nu": "Tunturi Eva lyftbälte Medium 105 cm"
+ }
+]

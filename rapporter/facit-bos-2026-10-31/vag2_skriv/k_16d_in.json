@@ -1,0 +1,79 @@
+[
+ {
+  "id": "10494945165578",
+  "nr": 7094,
+  "avvisningsskal": "Shimano 105 Di2 (elektroniskt växelsystem med batteri) enligt källan.",
+  "batch_gammal": "k_13_avvisade.json",
+  "titel_nu": "Landsvägscykel BOTTECCHIA 8avio Ultimate - Shimano 105 Di2 24s - C39 Gloss and Matt Black"
+ },
+ {
+  "id": "10494945722634",
+  "nr": 7095,
+  "avvisningsskal": "Shimano Ultegra Di2 (elektroniskt växelsystem med batteri) enligt källan.",
+  "batch_gammal": "k_13_avvisade.json",
+  "titel_nu": "Landsvägscykel BOTTECCHIA Aerospace - Ultegra Di2 24s - B1 Nero Lucido"
+ },
+ {
+  "id": "10502528106762",
+  "nr": 7096,
+  "avvisningsskal": "Shimano 105 Di2 (elektroniskt växelsystem med batteri) enligt källan.",
+  "batch_gammal": "k_13_avvisade.json",
+  "titel_nu": "GIANT Defy Advanced 0 (2026) Landsvägscykel Meteorite Mist"
+ },
+ {
+  "id": "10526098718986",
+  "nr": 7109,
+  "avvisningsskal": "Elektroniskt växelsystem med batteri (Shimano Dura-Ace Di2, även bromsar som Di2): avvisas.",
+  "batch_gammal": "k_14_avvisade.json",
+  "titel_nu": "Landsvägscykel GIANT Propel Advanced Pro DA (2027) Supernova Grey"
+ },
+ {
+  "id": "10526098850058",
+  "nr": 7110,
+  "avvisningsskal": "Elektroniskt växelsystem med batteri (SRAM Red AXS): avvisas.",
+  "batch_gammal": "k_14_avvisade.json",
+  "titel_nu": "Landsvägscykel GIANT Propel Advanced SL 0 RED (2027) Superspeed Blå"
+ },
+ {
+  "id": "10541368377610",
+  "nr": 9009,
+  "avvisningsskal": "R3: titeln anger en variant (C48 Grigio Opaco, GRX610 12s) men produkten har två varianter med olika pris (M / green 28 919 kr, L / green 25 149 kr) och variantfärgen är \"green\" medan titeln säger Grigio Opaco. Dessutom växelgrupp GRX610 som kan vara mekanisk eller elektronisk utan entydig uppgift.",
+  "batch_gammal": "k_01a_avvisade.json",
+  "titel_nu": "Gravelcykel BOTTECCHIA Gravel Monster - GRX610 12s - C48 Grigio Opaco"
+ },
+ {
+  "id": "10565633769738",
+  "nr": 7123,
+  "avvisningsskal": "Elektroniskt växelsystem (Shimano 105 Di2, batteri). Avvisas enligt regeln för Di2/AXS/eTap.",
+  "batch_gammal": "k_15_avvisade.json",
+  "titel_nu": "Landsvägscykel GIANT Propel Advanced 1 (2027) Carbon"
+ },
+ {
+  "id": "10588451832074",
+  "nr": 7127,
+  "avvisningsskal": "Elektroniskt växelsystem (SRAM Red AXS, batteri). Avvisas.",
+  "batch_gammal": "k_15_avvisade.json",
+  "titel_nu": "Landsvägscykel GIANT Propel Advanced SL 0 RED (2027) Superspeed Blå"
+ },
+ {
+  "id": "10588452684042",
+  "nr": 7128,
+  "avvisningsskal": "Elektroniskt växelsystem (Shimano Ultegra Di2, batteri). Avvisas.",
+  "batch_gammal": "k_15_avvisade.json",
+  "titel_nu": "Landsvägscykel GIANT Propel Advanced 0 (2027) Azurite Blue"
+ },
+ {
+  "id": "10624087490826",
+  "nr": 7134,
+  "avvisningsskal": "Elektroniskt växelsystem (Shimano 105 Di2, batteri). Avvisas.",
+  "batch_gammal": "k_15_avvisade.json",
+  "titel_nu": "Landsvägscykel GIANT Defy Advanced 0 (2027) Supernova Grey"
+ },
+ {
+  "id": "10624087523594",
+  "nr": 7135,
+  "avvisningsskal": "Elektroniskt växelsystem (Shimano 105 Di2, batteri). Avvisas.",
+  "batch_gammal": "k_15_avvisade.json",
+  "titel_nu": "Landsvägscykel GIANT Defy Advanced 1 (2027) Obsidian Pulse"
+ }
+]

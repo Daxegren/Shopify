@@ -49,6 +49,15 @@
    "skal": "Exakta titeldubbletter bland kvarvarande produkter; den äldsta av varje titel skrivs, övriga spärras (R12a).",
    "beslut": "Inventering 2026-11-04 (Davids ja till inventering och plan); gäller tills David säger annat.",
    "kanda_overtradelser": []
+  },
+  {
+   "namn": "undantag-2026-11-05",
+   "typ": "undantag",
+   "aktiv": true,
+   "idfil": "rapporter/inventering-bos-2026-11-04/undantag_2026-11-05.csv",
+   "idkolumn": "produkt_id",
+   "skal": "Frisläpper produkter ur 'tidigare-avvisade' för omprövning efter Davids beslut 1, 3 och 5 (elektronisk växling, R3 Default Title).",
+   "beslut": "David 2026-11-05: '1 ja, 2 lista, 3 ja, 5 ja'; regler-v1.md v1.7."
   }
  ]
 }

@@ -1,0 +1,58 @@
+[
+ {
+  "id": "10624087556362",
+  "nr": 7136,
+  "avvisningsskal": "Elektroniskt växelsystem (Shimano Ultegra Di2, batteri). Avvisas.",
+  "batch_gammal": "k_15_avvisade.json",
+  "titel_nu": "Landsvägscykel GIANT Defy Advanced Pro 0 (2027) Luminous Lagoon"
+ },
+ {
+  "id": "10624087621898",
+  "nr": 7137,
+  "avvisningsskal": "Källan motsäger sig: växelsystem anges som Shimano 105 men bromsarna som Shimano 105 Di2 (elektroniskt, batteri). Går inte att avgöra om växlingen är elektronisk. Avvisas; tas för hand.",
+  "batch_gammal": "k_15_avvisade.json",
+  "titel_nu": "Landsvägscykel GIANT Defy Advanced 2 (2027) Pearl White"
+ },
+ {
+  "id": "10624087654666",
+  "nr": 7138,
+  "avvisningsskal": "Elektroniskt växelsystem (SRAM Rival AXS E1, batteri). Avvisas.",
+  "batch_gammal": "k_15_avvisade.json",
+  "titel_nu": "Landsvägscykel GIANT Defy Advanced Pro 1 (2027) Midnight Moon"
+ },
+ {
+  "id": "10624088637706",
+  "nr": 7151,
+  "avvisningsskal": "Shimano 105 Di2 (elektroniskt växelsystem med batteri) enligt källan.",
+  "batch_gammal": "k_16_avvisade.json",
+  "titel_nu": "Liv Avail Advanced 1 (2027) damcykel, Shell White"
+ },
+ {
+  "id": "10624088670474",
+  "nr": 7152,
+  "avvisningsskal": "Shimano Ultegra Di2 (elektroniskt växelsystem med batteri) enligt källan.",
+  "batch_gammal": "k_16_avvisade.json",
+  "titel_nu": "Liv Avail Advanced Pro 0 (2027) damcykel, Midnight Pine"
+ },
+ {
+  "id": "10665232138506",
+  "nr": 7179,
+  "avvisningsskal": "Landsvägscykel Giant Trinity Advanced SL 2: SRAM Rival AXS (E1), elektroniskt växelsystem med batteri enligt källan.",
+  "batch_gammal": "k_17_avvisade.json",
+  "titel_nu": "Landsvägscykel GIANT Trinity Advanced SL 2 (2027) Carbon/Pearl Teal"
+ },
+ {
+  "id": "10665232171274",
+  "nr": 7180,
+  "avvisningsskal": "Damcykel Liv EnviLiv Advanced 1: Shimano 105 Di2, elektroniskt växelsystem med batteri enligt källan.",
+  "batch_gammal": "k_17_avvisade.json",
+  "titel_nu": "Damcykel LIV EnviLiv Advanced 1 (2027) Null White"
+ },
+ {
+  "id": "10676721189130",
+  "nr": 10028,
+  "avvisningsskal": "Elektronisk växling: källan anger \"SRAM Force AXS E1\" i 24 växlar och titeln \"AXS\" (SRAM AXS är trådlös elektronisk växling). Elektronisk växling på cyklar avvisas tills David beslutat (regelbokens uppdrag). Titeln låser dessutom färgen Obsidian Pulse medan alla varianter är \"black\"; priset skiljer bara mellan storlekar (104 029 kr M och M/L, 103 819 kr L och XL), vilket i sig inte hindrar.",
+  "batch_gammal": "k_12b_avvisade.json",
+  "titel_nu": "Landsvägscykel GIANT Propel Advanced Pro 0 AXS (2027) Obsidian Pulse"
+ }
+]

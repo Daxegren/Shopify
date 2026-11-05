@@ -1,0 +1,86 @@
+[
+ {
+  "id": "10588451471626",
+  "nr": 10603,
+  "avvisningsskal": "R3: titeln anger 10 kg men produkten har två varianter med olika pris (25TUPLA092 = 1 499 kr, 25TUPLA091 = 739 kr) som bara heter som sin SKU, och källan nämner ingen vikt. Titel och spec kan inte låsas till en vikt.",
+  "batch_gammal": "h_6_avvisade.json",
+  "titel_nu": "Viktväska TUNTURI Platinum Bulgarian Bag, 10 kg"
+ },
+ {
+  "id": "10588451504394",
+  "nr": 10589,
+  "avvisningsskal": "Titeln anger 15 kg men produkten har två varianter (25TUPLA093 pris 1579, 25TUPLA094 pris 1669) och källan nämner ingen vikt (R3). Källan har dessutom bara mått och material utöver reklamord.",
+  "batch_gammal": "g_4_avvisade.json",
+  "titel_nu": "Heavy bag TUNTURI Platinum Bulgarian Bag, 15 kg"
+ },
+ {
+  "id": "10588451602698",
+  "nr": 10541,
+  "avvisningsskal": "R3: titeln anger 6 kg men produkten har tre varianter (369, 319 och 319 kr; SKU 25TUPLA096/25TUPLA097, varianterna heter bara SKU) och källan anger ingen vikt, bara diameter 28 cm och PVC. Titel och spec kan inte låsas. Kräver beslut om varianterna.",
+  "batch_gammal": "h_5_avvisade.json",
+  "titel_nu": "TUNTURI Platinum Slam Ball, 6 kg"
+ },
+ {
+  "id": "10593398554890",
+  "nr": 3265,
+  "avvisningsskal": "2kg Dumbbell Bar: stång för viktbelastning (last). Källan kallar den både hantelstång och skivstång; varianten '2' är oförklarad och inga mått anges. Tas för hand med Davids ja.",
+  "batch_gammal": "c_18_avvisade.json",
+  "titel_nu": "2kg Dumbbell Bar"
+ },
+ {
+  "id": "10611406242058",
+  "nr": 3275,
+  "avvisningsskal": "Active 10kg Vinyl Dumbbell Set (hantelset med vinylbeläggning): hantlar med vikter/last, säkerhetsprodukt enligt tidigare vågor (jfr 3046, 3050). Två varianter (10 och 15) med olika pris är oförklarade, och källan har rehabiliteringspåstående. Tas för hand med Davids ja.",
+  "batch_gammal": "c_19_avvisade.json",
+  "titel_nu": "Active 10kg Vinyl Dumbbell Set"
+ },
+ {
+  "id": "10611414237450",
+  "nr": 3276,
+  "avvisningsskal": "4-Station Multi Gym: träningsstation med last och montering (källan: 'robust konstruktion'). Dessutom 20 oförklarade varianter (540M, 514, 550M, 505 m.fl.) med priser från 419 till 149 989 kr som tyder på att varianterna är olika produkter. Tas för hand med Davids ja.",
+  "batch_gammal": "c_19_avvisade.json",
+  "titel_nu": "4-Station Multi Gym"
+ },
+ {
+  "id": "10611415220490",
+  "nr": 3277,
+  "avvisningsskal": "Aerobic Bar 10kg: viktstång för squats och axelpressar (belastning/last). Dessutom fem oförklarade varianter (3, 4, 6, 8, 10) med olika pris; titeln låser 10 kg. Tas för hand med Davids ja.",
+  "batch_gammal": "c_19_avvisade.json",
+  "titel_nu": "Aerobic Bar 10kg"
+ },
+ {
+  "id": "10611418398986",
+  "nr": 3278,
+  "avvisningsskal": "Bumper Plate 10kg - single: viktskiva för tyngdlyftning med fall (last, källan anger 'tåla fall från hög höjd'). Dessutom fem varianter (5, 10, 15, 20, 25) med olika pris. Jfr 3129. Tas för hand med Davids ja.",
+  "batch_gammal": "c_19_avvisade.json",
+  "titel_nu": "Bumper Plate 10kg - single"
+ },
+ {
+  "id": "10611419054346",
+  "nr": 3279,
+  "avvisningsskal": "Comfort Seat: källan beskriver en sittdyna, men de sju varianterna (CS, FTR, FTR7, PROFTR, RCR, SPD, WCOM) har priser från 449 till 12 999 kr och SKU-prefix SB, vilket tyder på bänkar/sitsar med last. Produkttypen är oklar och kan vara en bänk (säkerhetsprodukt). Tas för hand med Davids ja.",
+  "batch_gammal": "c_19_avvisade.json",
+  "titel_nu": "Comfort Seat"
+ },
+ {
+  "id": "10611424854282",
+  "nr": 10128,
+  "avvisningsskal": "Fem varianter är olika modeller (GX3.0 till PRO20.0, 5 499–28 999 kr) och titeln låser GX3.0. Källan saknar tekniska uppgifter (R3).",
+  "batch_gammal": "k_13b_avvisade.json",
+  "titel_nu": "GX3.0 Crosstrainer"
+ },
+ {
+  "id": "10611433537802",
+  "nr": 3281,
+  "avvisningsskal": "Pro Chrome Hantel 0,5kg - enkel: hantel med vikt (last). Dessutom 14 oförklarade varianter (0, 0,5, 1 ... 10 och SET) med priser från 79 till 10 599 kr; titeln låser 0,5 kg. Tas för hand med Davids ja.",
+  "batch_gammal": "c_19_avvisade.json",
+  "titel_nu": "Pro Chrome Hantel 0,5kg - enkel"
+ },
+ {
+  "id": "10611442450698",
+  "nr": 9942,
+  "avvisningsskal": "Handledsortos: skadeförebyggande påståenden (\"minimerar risken för skador\", \"optimalt stöd\"); storlek, material och hand saknas (R5, R3). Underkänd tidigare i c_20.",
+  "batch_gammal": "k_11f_avvisade.json",
+  "titel_nu": "Wrist Support 2.0"
+ }
+]

@@ -1,0 +1,86 @@
+[
+ {
+  "id": "10411857641738",
+  "nr": 9655,
+  "avvisningsskal": "Underkänd i g_utlatande_3 (nr 10539, samma id): källan säger 'Double Exercise Wheel', titeln 'Exercise Wheel Deluxe' (R3); typordet saknar svenskt ord i källan och finns inte i godkanda_typord (R7); måttet 26 x 23 x 60 cm är oklart (hjul eller set). Kvar blir bara mått och knämatta.",
+  "batch_gammal": "k_09c_avvisade.json",
+  "titel_nu": "TUNTURI Exercise Wheel Deluxe"
+ },
+ {
+  "id": "10411923276042",
+  "nr": 10323,
+  "avvisningsskal": "Titeln anger 12 kg, men produkten har tre varianter (AKCA-10, AKCA-12, AKCA-14) med olika pris (779, 1 609, 1 789 kr). Källan nämner ingen vikt. Titeln stämmer inte med produkten.",
+  "batch_gammal": "f_13_avvisade.json",
+  "titel_nu": "Kettlebell TOORX Absolute Kettlebell, 12 kg"
+ },
+ {
+  "id": "10462190567690",
+  "nr": 10110,
+  "avvisningsskal": "R2/R3: titeln säger Matte Plum, källan säger \"Färg: orange\" och alla varianter är purple. Prisskillnaden (M 25 569 kr, L och XL 25 519 kr) beror på storlek, men färgen går inte att styrka och källan motsäger sig, så färgen kan inte skrivas och en titel utan färg skulle dölja motsägelsen. David avgör.",
+  "batch_gammal": "k_13a_avvisade.json",
+  "titel_nu": "Fatbike Kona Wo, Matte Plum"
+ },
+ {
+  "id": "10462201839882",
+  "nr": 10258,
+  "avvisningsskal": "Titeln anger 15 kg, men produkten har två varianter (14TUSCF058 till 1549 kr, 14TUSCF059 till 1829 kr) med oförklarade namn. Källans text blandar dessutom hantlar och viktskivor och talar om 'kedja'.",
+  "batch_gammal": "f_11_avvisade.json",
+  "titel_nu": "Viktplatta TUNTURI Training Bumper Plate, 50 mm, 15 kg"
+ },
+ {
+  "id": "10462774690058",
+  "nr": 10525,
+  "avvisningsskal": "R3: titeln anger 125 cm men produkten har två varianter med mycket olika pris (2119 kr och 789 kr; SKU 14TUSGA006/14TUSGA005) vars namn är bara SKU. Källan beskriver bara hoppytan och en användarvikt, och säger inget om vad varianterna är. Taggen Gymstick rörs inte.",
+  "batch_gammal": "h_4_avvisade.json",
+  "titel_nu": "Trampoline TUNTURI Funhop Trampoline 125cm"
+ },
+ {
+  "id": "10462784880906",
+  "nr": 10513,
+  "avvisningsskal": "R3: titeln anger färg och storlek (65 cm, Blå) men produkten har två varianter med olika pris (blue 199 kr, 'blue (U345)' 219 kr; SKU 14TUSFU344/345). Källan skiljer inte varianterna åt, så titel och spec kan inte låsas. Kräver beslut om varianterna.",
+  "batch_gammal": "h_4_avvisade.json",
+  "titel_nu": "Gymnastikboll TUNTURI Gymball 65cm, Anti-Burst, Blå"
+ },
+ {
+  "id": "10462794776842",
+  "nr": 10307,
+  "avvisningsskal": "Titeln anger röd (3.0 kg), men produkten har 3 varianter (Red, blue, green) med olika pris (339, 449, 249 kr) och källan säger inget om färg eller vikt per variant. Titeln stämmer inte med produkten.",
+  "batch_gammal": "f_13_avvisade.json",
+  "titel_nu": "Hantlar TUNTURI Vinyl Dumbbells 3.0kg, red"
+ },
+ {
+  "id": "10462795202826",
+  "nr": 10112,
+  "avvisningsskal": "R3: Default Title 10 239 kr och L / must 9 509 kr med samma SKU (28201502-C); prisskillnaden på 730 kr kan inte visas bero på storlek. Samma modell och färg finns dessutom som utkastet 10474077847818 (DRAFT, ej skriven), och källans växelrad är trasig (Shimano Nexus 7 - 160 cm).",
+  "batch_gammal": "k_13a_avvisade.json",
+  "titel_nu": "Cykel ROMET Art Deco Lux, med främre korg, svart"
+ },
+ {
+  "id": "10462852284682",
+  "nr": 10254,
+  "avvisningsskal": "Titeln anger svart och 5 kg, men produkten har fem varianter (SKU 25TUPLA002–009) med priser 659–2159 kr och oförklarade namn. Varianterna kan avse andra vikter, så titel och specifikation går inte att låsa.",
+  "batch_gammal": "f_11_avvisade.json",
+  "titel_nu": "Viktplatta TUNTURI Platinum Bumper Plate, svart, 50mm, 5 kg"
+ },
+ {
+  "id": "10468705665290",
+  "nr": 9102,
+  "avvisningsskal": "R3: varianterna M / black (9 129 kr) och L, XL, S / black (7 939 kr) har olika pris (1 190 kr skillnad) för samma modell och färg. Ser ut som felprissättning eller olika utförande; texten kan inte låsa färg eller ramstorlek. Källan är i övrigt som 9101, 9103 och 9104. David avgör efter kontroll av priset.",
+  "batch_gammal": "k_02a_avvisade.json",
+  "titel_nu": "Fixie bike 6KU Nebula 2"
+ },
+ {
+  "id": "10468744397066",
+  "nr": 10101,
+  "avvisningsskal": "R2/R3: källan motsäger sig (Shimano EP8 i löptexten mot EP800 i motorraden, 180 mm mot 178 mm fjädringsväg, ramstorlek S och M båda 38 cm). Live har dessutom en Default Title-variant (111 449 kr, SKU B36REX06, samma SKU som XL / blue för 111 239 kr) vid sidan av L / blue (111 449 kr). Prisskillnaden beror på storlek och färgen blå är gemensam, men motsägelserna gäller motor, fjädring och storlek och kärnuppgifterna går inte att skriva entydigt.",
+  "batch_gammal": "k_13a_avvisade.json",
+  "titel_nu": "Elcykel KONA Remote X (2025) 29\" Gloss Viridian (Blå)"
+ },
+ {
+  "id": "10468771004682",
+  "nr": 10278,
+  "avvisningsskal": "Titeln anger 5 kg, men produkten har fem varianter (SKU 17421, 17423, 17425, 17427 och 17429, priserna 469–2969 kr) med oförklarade namn. Varianterna kan avse andra vikter, så titel och specifikation går inte att låsa.",
+  "batch_gammal": "f_12_avvisade.json",
+  "titel_nu": "Hantel HAMMER Compact Dumbbell PU 5 kg"
+ }
+]

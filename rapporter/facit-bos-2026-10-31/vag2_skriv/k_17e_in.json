@@ -1,0 +1,86 @@
+[
+ {
+  "id": "10472300052746",
+  "nr": 10329,
+  "avvisningsskal": "Titeln anger 10 kg, men produkten har tre varianter (KRV-10 till 649 kr, KRV-16 och KRV-14 till 789 kr) med oförklarade namn. Titeln stämmer inte med produkten och vikten går inte att låsa. Kan skrivas när varianterna är uppdelade.",
+  "batch_gammal": "f_14_avvisade.json",
+  "titel_nu": "Sangpomm TOORX Vinyl Kettlebell, 10 kg"
+ },
+ {
+  "id": "10472300937482",
+  "nr": 9648,
+  "avvisningsskal": "Tunn källa (R3): live har bara 'Diameter: 39,5 cm'; färgen och märket står i titeln. Ett faktum utöver titeln, regeln kräver två. Underkänd i g_utlatande_3 (nr 10501).",
+  "batch_gammal": "k_09b_avvisade.json",
+  "titel_nu": "TOORX Balansbräda, svart-grön"
+ },
+ {
+  "id": "10472305557770",
+  "nr": 10580,
+  "avvisningsskal": "R3/R2: titeln anger färgen svart-röd men produktens enda variant heter \"M / black\" (SKU AHF-087), så titel och live-variant motsäger varandra och källtexten anger varken färg eller storlek. Titel och spec kan inte låsas. Syskonet 10462784094474 (samma titel) är DRAFT.",
+  "batch_gammal": "h_6_avvisade.json",
+  "titel_nu": "Träningshandskar TOORX Professional Gloves, svart-röd"
+ },
+ {
+  "id": "10472308834570",
+  "nr": 10578,
+  "avvisningsskal": "R3/R2: källan säger 'Setet innehåller 5 gymnastikbollar med styrkan Strong' medan titeln säger Fabric Bands (band). Källan motsäger titeln och produkttypen går inte att fastställa säkert; antalet 5 och måttet 7,5 x 75 cm kan inte användas. Titeln saknar dessutom svenskt typord. Kräver svenska tillverkardata.",
+  "batch_gammal": "h_5_avvisade.json",
+  "titel_nu": "TOORX Fabric Bands Strong"
+ },
+ {
+  "id": "10472311357706",
+  "nr": 10264,
+  "avvisningsskal": "Titeln anger Blå, men produkten har två varianter (blue 25TUPLA049, green 25TUPLA047) med olika pris, 679 respektive 409 kr. Titeln anger en variant medan källan visar flera.",
+  "batch_gammal": "f_11_avvisade.json",
+  "titel_nu": "Viktskivor TUNTURI Platinum Fractional Plates, Blå, 50mm, 2 x 2 kg"
+ },
+ {
+  "id": "10472325349642",
+  "nr": 10322,
+  "avvisningsskal": "Titeln anger 22 kg, men produkten har två varianter med samma SKU 17367 och olika pris (1 879 och 1 639 kr). Källan nämner ingen vikt förutom intervallet 4–24 kg. Titeln stämmer inte med produkten.",
+  "batch_gammal": "f_13_avvisade.json",
+  "titel_nu": "Kettlebell HAMMER Premium Kettlebell 22 kg"
+ },
+ {
+  "id": "10472332099850",
+  "nr": 10115,
+  "avvisningsskal": "R3: Default Title 11 309 kr (SKU 28230604-D) och M / Red 9 839 kr (SKU 28190602-C). Olika SKU och pris; källan har bara storlek L (21 tum) medan varianten är M, och titelns färg röd gäller bara den ena varianten.",
+  "batch_gammal": "k_13a_avvisade.json",
+  "titel_nu": "Herrcykel ROMET Wagant 7, röd"
+ },
+ {
+  "id": "10472333279498",
+  "nr": 9188,
+  "avvisningsskal": "R3: titeln anger Vintage Classic 2.0 M, men källtextens första mening beskriver 'Romet Vintage Classic 1.0 M'. Källan stämmer inte med titeln; produkten kan inte skrivas säkert (syskonet 9189, gul, skrivs).",
+  "batch_gammal": "k_02d_avvisade.json",
+  "titel_nu": "Cykel ROMET Vintage Classic 2.0 M, grön"
+ },
+ {
+  "id": "10472334491914",
+  "nr": 9469,
+  "avvisningsskal": "Fälgskydd M-Wave Ringlock 29-33: källan är bara titeln. Priset 6 779 kr och taggen Romet tyder på att produkten är felklassad (Ringlock är ett ramlås-namn), så typen kan inte beläggas. Tunn källa (R3).",
+  "batch_gammal": "k_07c_avvisade.json",
+  "titel_nu": "Fälgskydd M-Wave Ringlock 29-33"
+ },
+ {
+  "id": "10472346190090",
+  "nr": 9405,
+  "avvisningsskal": "Tunn källa: enda uppgiften är 'Passar alla 26-29 tums cyklar'; 'bakre fäste' står bara i titeln. Dessutom är priset 0,00 kr, vilket tyder på en ofärdig produkt (R3). David bör avgöra pris innan text skrivs.",
+  "batch_gammal": "k_07a_avvisade.json",
+  "titel_nu": "Stöd med bakre fäste för 26-29\" cykel"
+ },
+ {
+  "id": "10474079322378",
+  "nr": 10104,
+  "avvisningsskal": "R3: live har Default Title (SKU B36RV6556, 18 719 kr) och XL / gray (SKU B36RV6558, 16 279 kr). Default Title saknar storlek och färg, titelns färg Silver stämmer inte med variantfärgen gray, och källans storlekslista (XL, L, M, S) kan inte kopplas till varianterna (R3 v1.5: bara sålda storlekar får nämnas). Prisskillnaden 2 440 kr kan inte visas bero på storlek enbart.",
+  "batch_gammal": "k_13a_avvisade.json",
+  "titel_nu": "Kona Rove AL 650 Cykel, Matt Faux Raw (Silver)"
+ },
+ {
+  "id": "10474079518986",
+  "nr": 10111,
+  "avvisningsskal": "R3: Default Title 13 339 kr och M / green 11 599 kr med samma SKU (2201135185). Default Title saknar storlek och färg, så prisskillnaden (1 740 kr) kan inte visas bero på storlek; titeln låser Ocean Wave medan varianten heter green; källan listar S och M. David avgör.",
+  "batch_gammal": "k_13a_avvisade.json",
+  "titel_nu": "Damcykel LIV Tempt 2 GE, Ocean Wave, 27,5 tum"
+ }
+]

@@ -1,0 +1,86 @@
+[
+ {
+  "id": "10472278163722",
+  "nr": 10123,
+  "avvisningsskal": "Titeln låser 2 x 3 kg, men variant 30-1873 (589 kr) går inte att identifiera (30-1872 bekräftas som 2 x 3 kg; velomarket.ee listar även 2 x 4 kg). Prisskillnaden beror inte på samma storlek; en titel utan vikt vore missvisande (R3).",
+  "batch_gammal": "k_13b_avvisade.json",
+  "titel_nu": "Hantlar CHRISTOPEIT 2 x 3 kg, svart"
+ },
+ {
+  "id": "10472286290186",
+  "nr": 9464,
+  "avvisningsskal": "Dricksflaska Liv Doublespring 750cc Bench: källan är tom (bara titeln). Webbsökning gav återförsäljare och Livs sida för PourFast/Doublespring 750 ml men ingen sida som entydigt gäller färgsättningen \"Bench\" (v1.6: utelämna). Tunn källa (R3).",
+  "batch_gammal": "k_07c_avvisade.json",
+  "titel_nu": "Dricksflaska LIV DOUBLESPRING 750CC BENCH"
+ },
+ {
+  "id": "10472287371530",
+  "nr": 10570,
+  "avvisningsskal": "R3: titeln anger 2 x 0,5 kg men produkten har två varianter med olika pris (AHF-071 99 kr och AHF-072 139 kr) som källan inte skiljer åt. Titel och spec kan inte låsas. Kräver beslut om varianterna.",
+  "batch_gammal": "h_5_avvisade.json",
+  "titel_nu": "Hand- och fotvikter TOORX Hand-/fotvikter 2 x 0,5 kg"
+ },
+ {
+  "id": "10472289075466",
+  "nr": 10131,
+  "avvisningsskal": "Fem varianter (59–439 kr) som bara heter artikelnummer; titeln låser blå, 30 mm och 10 kg medan källan anger borrdiameter 29 mm. Källan motsäger titeln (R2, R3).",
+  "batch_gammal": "k_13b_avvisade.json",
+  "titel_nu": "Viktplatta SPOKEY Blå, 30 mm, 10 kg"
+ },
+ {
+  "id": "10472289861898",
+  "nr": 10317,
+  "avvisningsskal": "Två varianter (14TUSCL454 och 14TUSCL455) med olika pris (639 och 1 479 kr) och oförklarade namn; titeln säger 20 kg. Källan är motsägande (4 x 1,5 kg \"med 1,5 kg kapacitet\", mått \"114 x 114 cm - 114,5 cm\", viktsumman stämmer inte med 20 kg). Går inte att skriva säkert.",
+  "batch_gammal": "f_13_avvisade.json",
+  "titel_nu": "Styrketräningsset TUNTURI Hantel- & Skivstångsset 20 kg"
+ },
+ {
+  "id": "10472289927434",
+  "nr": 8309,
+  "avvisningsskal": "Dublett av 8311: identisk titel och text; varianterna Default Title/200 är oklara.",
+  "batch_gammal": "b_29_avvisade.json",
+  "titel_nu": "Klassiska skidor PELTONEN Astra Skin 25 MED"
+ },
+ {
+  "id": "10472292090122",
+  "nr": 10117,
+  "avvisningsskal": "R3: Default Title 9 479 kr och XL / blue 8 239 kr (samma SKU TAB23-3020). Titeln anger svart-grön men varianten är blue och källan nämner ingen färg; källans ramstorlekar M och L stämmer inte med varianten XL.",
+  "batch_gammal": "k_13a_avvisade.json",
+  "titel_nu": "Herrcykel TABOU KINETIC 1.0, 28\" svart-grön"
+ },
+ {
+  "id": "10472292319498",
+  "nr": 9944,
+  "avvisningsskal": "Tunn källa (R3): \"Spegel på linsen. Spegeldiameter 46 mm.\" Bara ett mått; det framgår inte vad spegeln monteras på (glasögon, hjälm eller styre). Ingen webbkälla sökt fram.",
+  "batch_gammal": "k_11f_avvisade.json",
+  "titel_nu": "Mirror M-WAVE Spy Mini"
+ },
+ {
+  "id": "10472294842634",
+  "nr": 9401,
+  "avvisningsskal": "Tunn källa: beskrivningen är bara 'Stativ för ADO Air Carbon-modellen' plus leveranstidsnotis, alltså inga fakta utöver titeln (R3, minst två krävs). Ingen webbkälla funnen för just detta stöd. Taggen På beställning.",
+  "batch_gammal": "k_07a_avvisade.json",
+  "titel_nu": "Stand ADO Air Carbon"
+ },
+ {
+  "id": "10472296808714",
+  "nr": 9506,
+  "avvisningsskal": "Viktskivor för Christopeit SP 5000: källan är bara \"2x5 kg\" (tunn källa, R3), och produkten står i handhavd_ids.txt (beslut 2026-11-02, ej hävd).",
+  "batch_gammal": "k_08a_avvisade.json",
+  "titel_nu": "Viktskivor för CHRISTOPEIT SP 5000"
+ },
+ {
+  "id": "10472297300234",
+  "nr": 10114,
+  "avvisningsskal": "R3: Default Title 9 979 kr (SKU 28201899-A) och M / yellow 8 679 kr (SKU 28181898-A). Olika SKU och pris; källan listar storlek M (18 tum) och L (20 tum), och Default Title saknar angiven storlek och färg, så prisskillnaden kan inte visas bero på storlek.",
+  "batch_gammal": "k_13a_avvisade.json",
+  "titel_nu": "Cykel ROMET Vintage LTD D, gul"
+ },
+ {
+  "id": "10472299004170",
+  "nr": 9647,
+  "avvisningsskal": "Live har redan vår egen text (standardblock och SEO-titel 'Pulsbälte Toorx Chest Belt, 5,3 kHz' finns; R15). Källan är vår tidigare enmeningstext, alltså ingen tillverkarkälla: 5,3 kHz, ANT och Bluetooth står redan i titeln, inga fakta utöver titeln (R3). Underkänd i g_utlatande_3 (nr 10546). Saknar taggen texter-klara; frågan om att tagga den går till koordinatorn.",
+  "batch_gammal": "k_09b_avvisade.json",
+  "titel_nu": "Pulsbälte Toorx Chest Belt 5,3 kHz med ANT och Bluetooth"
+ }
+]
