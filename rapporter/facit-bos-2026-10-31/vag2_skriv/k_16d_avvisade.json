@@ -1,0 +1,32 @@
+[
+ {
+  "id": "10502528106762",
+  "nr": 7096,
+  "avvisningsskal": "Dubblett (R12a): samma modell och färg (Giant Defy Advanced 0 (2026), Meteorite Mist) är redan skriven som 7075 (id 10476248531210, aktiv, texter-klara). 7096 skrivs inte.",
+  "titel_nu": "GIANT Defy Advanced 0 (2026) Landsvägscykel Meteorite Mist"
+ },
+ {
+  "id": "10565633769738",
+  "nr": 7123,
+  "avvisningsskal": "Dubblett (R12a): samma modell och färg (Giant Propel Advanced 1 (2027), Carbon) är redan skriven som 6057/7057 (id 10486710305034, aktiv, texter-klara). 7123 skrivs inte.",
+  "titel_nu": "Landsvägscykel GIANT Propel Advanced 1 (2027) Carbon"
+ },
+ {
+  "id": "10588451832074",
+  "nr": 7127,
+  "avvisningsskal": "Dubblett (R12a): exakt samma live-titel, färg och modell som 7110 (id 10526098850058) som skrivs i denna omgång (annat SKU 1074048105 och pris 184 889 mot 192 349 kr). Skrivs inte; David bör avgöra om de är samma produkt.",
+  "titel_nu": "Landsvägscykel GIANT Propel Advanced SL 0 RED (2027) Superspeed Blå"
+ },
+ {
+  "id": "10541368377610",
+  "nr": 9009,
+  "avvisningsskal": "R3: titeln anger en variant (C48 Grigio Opaco) men produkten har två varianter med olika SKU och pris (M / green 28 919 kr, L / green 25 149 kr), och variantfärgen är \"green\" medan titeln säger Grigio Opaco. Avvisas. (Växelgruppen GRX610 var inte avgörande.)",
+  "titel_nu": "Gravelcykel BOTTECCHIA Gravel Monster - GRX610 12s - C48 Grigio Opaco"
+ },
+ {
+  "id": "10624087523594",
+  "nr": 7135,
+  "avvisningsskal": "R3: produkten har flera varianter med olika SKU och olika pris (M 52 139, L 52 939, M/L 45 339, XL 52 139 kr; alla \"brown\") medan titeln anger en färg (Obsidian Pulse). Avvisas.",
+  "titel_nu": "Landsvägscykel GIANT Defy Advanced 1 (2027) Obsidian Pulse"
+ }
+]

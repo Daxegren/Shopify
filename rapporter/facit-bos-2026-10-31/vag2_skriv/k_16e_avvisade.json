@@ -1,0 +1,27 @@
+[
+ {
+  "id": "10624087556362",
+  "nr": 7136,
+  "skäl": "R3: två varianter med olika SKU, \"M / blue\" (SKU 1031032145) och \"L / blue\" (SKU 1031032147), båda 94 849 kr. Ingen överblivet Default Title som kan ignoreras enligt v1.7; olika SKU avvisas. Elektronisk växling (Shimano Ultegra Di2) hade annars varit tillåten. Kan skrivas om David beslutar att storleksvarianter med samma färg och pris får skrivas utan storlek i texten."
+ },
+ {
+  "id": "10624087621898",
+  "nr": 7137,
+  "skäl": "R3: varianterna \"Default Title\" (SKU 1031030147) och \"M/L / white\" (SKU 1031030146) har olika SKU (samma pris 41 459 kr), så Default Title kan inte ignoreras. Dessutom motsäger källan sig: växelsystem Shimano 105 men bromsar \"Shimano 105 Di2 hydrauliska\", så det går inte att avgöra om växlingen är elektronisk (R2). Tas för hand."
+ },
+ {
+  "id": "10624087654666",
+  "nr": 7138,
+  "skäl": "R3: varianterna \"Default Title\" (SKU 1031034148) och \"L / gray\" (SKU 1031034147) har olika SKU (samma pris 76 559 kr); Default Title kan inte ignoreras. Titelns färg Midnight Moon stämmer inte heller med variantens \"gray\". SRAM Rival AXS E1 hade annars varit tillåtet."
+ },
+ {
+  "id": "10624088637706",
+  "nr": 7151,
+  "skäl": "R3: varianterna \"Default Title\" (SKU 1017039143) och \"M / gray\" (SKU 1017039145) har olika SKU (samma pris 52 139 kr). Dessutom finns en annan aktiv produkt med exakt samma titel och endast Default Title (10635810046218, SKU 1017039143, ej skriven); den är det naturliga skrivkandidaten, inte denna (R12a)."
+ },
+ {
+  "id": "10676721189130",
+  "nr": 10028,
+  "skäl": "R3: fyra varianter med olika SKU (M 1074033105, M/L 1074033106, L 1074033107, XL 1074033108) och två priser (104 029 kr för M och M/L, 103 819 kr för L och XL). Titeln låser färgen Obsidian Pulse medan alla varianter är \"black\". Elektronisk växling (SRAM Force AXS E1) hade annars varit tillåten."
+ }
+]
