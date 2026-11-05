@@ -1,0 +1,32 @@
+[
+ {
+  "id": "10471009026314",
+  "nr": 23013,
+  "skäl": "Titeln säger pjäxor men källan beskriver vallningsbara klassiska skidor med monterad bindning (NIS Touring Basic); typmotsägelse mellan titel och källa (R3). Dessutom tre varianter (180/190/200) med olika pris (3 499/3 499/3 489 kr), som enligt v1.8 ska avvisas."
+ },
+ {
+  "id": "10472189788426",
+  "nr": 23015,
+  "skäl": "Dubbdäck med reflexband (Färg Svart-Reflex) och belastningsuppgift (Maximal belastning 100 kg): reflexprodukt utan Davids ja och säkerhetsdel. Källan motsäger också sig om storlek (titel 1.85 tum, tabell 1.75 tum). Avvisas."
+ },
+ {
+  "id": "10472239923466",
+  "nr": 23018,
+  "skäl": "Ingen webbkälla hittades för SKU SP-53414/EAN 4028017534147 (ingen sida beskriver en \"hjulmonteringssats\" för iPhone XR), och egen källa är en rad (klämfäste, 360°, 6°, 23-43 mm) med oklar produkttyp och skyddspåstående. Pris 7 289 kr tyder på felaktig data. Går inte att styrka två entydiga fakta om rätt modell."
+ },
+ {
+  "id": "10472240709898",
+  "nr": 23019,
+  "skäl": "Egen källa \"Storlek 26\"\" motsäger titelns ETRTO 54-110. Webben (EAN 4019238556216: Continental Compact Tube 8, 8 1/2x2, 54-110, Dunlop) visar att 26 sannolikt är ventillängd, men webbkällorna går isär om ventillängd (26/26,5/40 mm) och mått (8 tum 1,75 mot 8,5x2,00), så inga två entydiga fakta utöver titeln kan styrkas."
+ },
+ {
+  "id": "10472243593482",
+  "nr": 23021,
+  "skäl": "Framnav (HB-TX506) är hjulets bärande del och säkerhetskritisk; ingen lastgräns på svenska finns och källan saknar beskrivning helt (tunn). Avvisas."
+ },
+ {
+  "id": "10472253522186",
+  "nr": 23024,
+  "skäl": "Källan är maskinöversatt och motsägande (cykelverktyg i texten, skidkork Start/15MU i märke och artikelnummer). Webbsökning på SKU 15MU502600 och EAN 6418016050263 gav ingen träff som beskriver produkten; produkttypen kan inte bestämmas (R2) och två entydiga fakta kan inte styrkas."
+ }
+]
