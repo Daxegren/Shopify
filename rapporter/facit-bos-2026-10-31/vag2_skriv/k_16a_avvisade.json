@@ -1,0 +1,12 @@
+[
+ {
+  "id": "10468772708618",
+  "nr": 7009,
+  "skäl": "R3: titeln anger Pro 2 men källtexten anger 'Giant Revolt X Advanced Pro 1' (motsägelse om modell), källan är dessutom engelsk. Varianterna Default Title och L / black har samma SKU (hade ignorerats enligt v1.7), men modellmotsägelsen kvarstår."
+ },
+ {
+  "id": "10471334543626",
+  "nr": 7026,
+  "skäl": "R3/v1.7: varianterna Default Title (SKU 1031025144, 97919 kr) och M/L / blue (SKU 1031025146, 85149 kr) har olika SKU och pris; regeln om överbliven Default Title gäller bara samma SKU. Avvisas som förut."
+ }
+]
