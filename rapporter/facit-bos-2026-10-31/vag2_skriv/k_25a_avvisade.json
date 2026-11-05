@@ -1,0 +1,47 @@
+[
+ {
+  "id": "10411850432778",
+  "nr": 25001,
+  "skäl": "Isbroddar/isskor (Winter-Grip ANTi SKid Sole Double): isbroddar är utanför tills vidare (profilen, utanfor_tills_vidare; beslutsloggen 2026-11-03 \"isbroddar hålls utanför\"). Skälet gäller fortfarande."
+ },
+ {
+  "id": "10468713529610",
+  "nr": 25003,
+  "skäl": "Monteringstjänst för lastcykel (Cargobike assembly): tjänst, inte en produkt med produkttext. Skälet gäller fortfarande."
+ },
+ {
+  "id": "10468713595146",
+  "nr": 25004,
+  "skäl": "Monteringstjänst för stor träningsmaskin (Large exercise machine assembly): tjänst, inte en produkt med produkttext. Skälet gäller fortfarande."
+ },
+ {
+  "id": "10468727947530",
+  "nr": 25005,
+  "skäl": "R3: titeln säger Skridskor men live-källan beskriver längdskidor (Supra C-skidor, Aircell, \"skidbindning\", \"snöförhållanden\"). Titel/typ stämmer inte med källan; typbyte får inte göras av utkastagent. Oförändrat live."
+ },
+ {
+  "id": "10469223301386",
+  "nr": 25006,
+  "skäl": "R12a dublett: samma modell (Peltonen Skinpro 22 Med+) som redan skriven och aktiv 8306 (10468730798346, texter-klara, storlekar 195/202); denna har storlekarna 181/188. Källan är dessutom engelsk, oöversatt."
+ },
+ {
+  "id": "10470905282826",
+  "nr": 25007,
+  "skäl": "Beslutsloggen 2026-11-05: Svensson Family (21064, barntransport) hålls utanför. Dessutom el-lastcykel med lastcykelkategori utan verifierad svensk lastgräns. Skälet gäller fortfarande."
+ },
+ {
+  "id": "10472240021770",
+  "nr": 25011,
+  "skäl": "Bromsdel (bromsoksadapter): bromsdelar avvisas enligt specialregeln. Skälet gäller fortfarande."
+ },
+ {
+  "id": "10472240578826",
+  "nr": 25012,
+  "skäl": "Bromsdel (bromsreglage): bromsdelar avvisas enligt specialregeln. Skälet gäller fortfarande."
+ },
+ {
+  "id": "10472243331338",
+  "nr": 25013,
+  "skäl": "Bromsdel (Shimano BR-T4000 broms): bromsdelar avvisas enligt specialregeln. Skälet gäller fortfarande."
+ }
+]
