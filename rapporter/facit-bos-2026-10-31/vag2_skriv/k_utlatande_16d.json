@@ -1,0 +1,59 @@
+[
+ {
+  "nr": 7094,
+  "id": "10494945165578",
+  "fil": "k_16d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live (ACTIVE, På beställning) stämmer med fakta. 'Shimano 105 Di2', 'Antal växlar: 24', 'Shimano 7170 hydrauliska', 'Vittoria Zaffiro fold 700x28C', monocoque-gaffel med 1” 1/2 koniskt styrrör och integrerad kabeldragning står ordagrant; ingen mekanisk växling, batteri eller räckvidd påstås (v1.7). R3 (v1.7): Default Title och S / black har samma SKU 59DD104939; prisskillnaden 53 029/53 049 kr följer prejudikatet 10113 (Default Title 6 749 / L 5 869 kr, samma SKU, skriven efter Davids ja). Titel, SEO och meta låser varken färg, pris eller storlek. Ramstorlekar och 'Vikt 390g' korrekt utelämnade, liksom 'kompatibla med elektroniska och mekaniska grupper'. Dubblett: ingen annan aktiv 8avio med 105 Di2 (10494945001738 är Ultegra Di2 C15, 10472329838858 är DRAFT Shimano 105). Anm. (intern): att_bekrafta nämner Giants 'världens största cykeltillverkare' fast produkten är Bottecchia; påverkar inte kundtexten."
+ },
+ {
+  "nr": 7095,
+  "id": "10494945722634",
+  "fil": "k_16d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live stämmer. 'Ultegra Di2', 24 växlar, 'Shimano 8170 hydrauliska', 'Vittoria Rubino Pro fold 700x28C', 'Kolfiber monocoque' och integrerad kabeldragning ordagrant. R3: två varianter (XL, XS) med samma pris 81 669 kr och färg black; Nero Lucido ur live-titeln, ingen storlek eller pris i titeln. Storlekslistan (trasig) och gaffelvikten utelämnade. Dubblett: enda andra Aerospace är 10468776575242 (ARCHIVED, 105 Di2), räknas inte (v1.5)."
+ },
+ {
+  "nr": 7109,
+  "id": "10526098718986",
+  "fil": "k_16d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live stämmer. 'Shimanos elektroniska Dura-Ace Di2-växling' stöder '(elektronisk)'; 'Antal växlar: 24', 'Shimano Dura-Ace Di2 hydrauliska', SLR 0 50 [F]50mm [R]50mm, Cadex Aero 700x28c slanglöst fällbart, 12x142/12x100 ordagrant. 'Däckbredder upp till 32 mm' en gång 'enligt tillverkaren' (samma formulering som skrivna 16b). R3: fyra varianter S–L, samma pris 128 429 kr och färg gray; storlekar utelämnade. Dubblett: ingen annan produkt med Propel Advanced Pro DA (Pro 1 och Pro 0 AXS är andra modeller)."
+ },
+ {
+  "nr": 7110,
+  "id": "10526098850058",
+  "fil": "k_16d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live stämmer. 'SRAM RED AXS elektroniska växling', 'Växelförare: SRAM Red AXS', 24 växlar, 'SRAM Red hydrauliska', integrerad sadelstolpe, 'helt kolfiber OverDrive Aero styrrör', Cadex Max 50 och Cadex Aero 700x28c ordagrant. En variant (Default Title), inget pris eller storlek i titeln. Dubblett 7127 (10588451832074) korrekt avvisad: samma titel och färg, SKU 1074048105 mot 1074048106. Giants SKU-slut följer storlek (…104 S, …105 M, …106 M/L, …107 L i 7109/7128), så de två är sannolikt samma modell i två storlekar som lagts upp som egna produkter; texten nämner ingen storlek och passar båda. Ingen krock med skriven 7084 (Trinity, annan modell)."
+ },
+ {
+  "nr": 7128,
+  "id": "10588452684042",
+  "fil": "k_16d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live stämmer. 'Växelsystem: Shimano Ultegra Di2', 24 växlar, 'Shimano Ultegra Di2 hydrauliska', SLR 2 50 Carbon Disc [F]50mm [R]50mm, Gavia Course 0 700x28c, 'däck upp till 32 mm breda' (en gång enligt tillverkaren). Engelska ramrader entydigt översatta (thru-axle, disc, full-composite). R3: fyra varianter, samma pris 78 069 kr och färg blue. Dubblett: ingen annan Propel Advanced 0; skriven 6057 är Propel Advanced 1 Carbon."
+ },
+ {
+  "nr": 7134,
+  "id": "10624087490826",
+  "fil": "k_16d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "har kompositram, elektroniska Shimano 105 Di2 med 24 växlar och hydrauliska skivbromsar.",
+    "efter": "har kompositram, elektronisk växling med Shimano 105 Di2 och 24 växlar samt hydrauliska skivbromsar."
+   },
+   "html": {
+    "fore": "har kompositram, elektroniska Shimano 105 Di2 med 24 växlar och hydrauliska skivbromsar.",
+    "efter": "har kompositram, elektronisk växling med Shimano 105 Di2 och 24 växlar samt hydrauliska skivbromsar."
+   }
+  },
+  "skal": "Språkfel: 'elektroniska Shimano 105 Di2' (bestämd form utan artikel) rättas till samma mönster som 7109/7110 ('elektronisk växling med …'); meta blir 145 tecken. Fakta stämmer: 'Shimano 105 Di2 elektroniskt', 24 växlar, 'Shimano 105 hydrauliska' (utan Di2, skrivet så), SLR 2 40 Carbon Disc, Gavia Fondo 0 700x32c (33,5 mm). 'Breda aluminiumfälgar' korrekt utelämnad (R2); egen koll: återförsäljare för 2027-modellen anger SLR 2 40 kolfiberhjul med 40 mm fälgar (mount7.com/giant-defy-advanced-0-2027.html). R3: fyra varianter M–XL, samma pris 61 309 kr och färg gray. Dubblett: ingen annan Defy Advanced 0 (2027); skrivna 7070 (Defy Advanced 1 Thundercloud) och 7075 (Defy Advanced 0 2026 Meteorite Mist) är andra modeller/år."
+ }
+]
