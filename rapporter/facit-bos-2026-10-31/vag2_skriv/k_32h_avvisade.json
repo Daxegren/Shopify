@@ -1,0 +1,27 @@
+[
+ {
+  "id": "10611413647626",
+  "nr": 32085,
+  "skäl": "R3/v1.9: två varianter (\"0\" 7 479 kr, Default 309 kr, lager bara på den första) utan förklaring är olika artiklar; källan (Gymstick-marknadsföring) saknar mått och lastgräns."
+ },
+ {
+  "id": "10611414958346",
+  "nr": 32086,
+  "skäl": "v1.9: 31 varianter med koder (AB, BB, HG4.0 m.fl.) är olika bänkar och redskap, 1 079–15 589 kr; ingen gemensam lastgräns går att ange."
+ },
+ {
+  "id": "10611415220490",
+  "nr": 32087,
+  "skäl": "v1.9/R3: titeln anger 10 kg men varianterna 3, 4, 6, 8 och 10 kg är olika artiklar (olika vikt och pris); källan saknar lastgräns."
+ },
+ {
+  "id": "10611442188554",
+  "nr": 32088,
+  "skäl": "v1.9/R3: titeln anger 2,5 kg men varianterna 2,5 och 5 är olika artiklar (olika vikt och pris, 2,5 saknar lager); tillagd vikt är ingen lastgräns."
+ },
+ {
+  "id": "10650210664714",
+  "nr": 32092,
+  "skäl": "R3/R4/v1.9: titeln anger 183 cm och 250 kg, varianterna 17611 och 17613 är olika artiklar (olika längd, 3 039 respektive 5 699 kr), och källan motsäger sig (belastningskapacitet 250 kg i listan, upp till 700 kg i löptexten)."
+ }
+]
