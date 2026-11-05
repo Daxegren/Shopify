@@ -1,0 +1,47 @@
+[
+ {
+  "id": "10472240185610",
+  "nr": 9429,
+  "skäl": "R2/R3: Innerslang Compact 14 DV: egen källa säger Schraderventil 34 mm och \"Storlek: 26 tum\", titeln säger DV och 14 tum/ETRTO 279/298. Faktakoll (reifen.com, bike24, heise, fahrrad.de, artikelnr 0181081) anger Dunlopventil men ventillängden är 26, 34 eller 40 mm beroende på källa; egen källa (Schrader) motsäger webben. Inte entydigt, kvarstår avvisad."
+ },
+ {
+  "id": "10472242184458",
+  "nr": 9358,
+  "skäl": "Bromsskiva Shimano SM-RT10: bromsdel (säkerhetsprodukt, avvisas enligt utkastprompten); taggen Cykellås är fel; källan anger två ytterdiametrar (180 och 160 mm) mot titelns 180 mm (R3). Kvarstår avvisad."
+ },
+ {
+  "id": "10472243659018",
+  "nr": 9328,
+  "skäl": "R3: START Easy HF Quick Kick: egen källa beskriver flytande skidgrepp (wrap/svamp, 4-5 lager), inte snabbsmörjmedel som titeln säger; källan är maskinöversatt och trasig (\"60 ml - 60 m\", \"+ + + +\"). Taggen Sparkcykel är fel. Typordet kan inte bytas utan stöd (R7) och temperaturuppgiften är oläsbar (R2). Kvarstår avvisad."
+ },
+ {
+  "id": "10472244412682",
+  "nr": 9329,
+  "skäl": "R3: START Easy HF Quick Kick, kallt: titeln \"Underhållsfett\" motsäger källan (skidgrepp, -5 till -15 °C, trasig text \"60 ml - 60 ml - 60 ml\"). Taggen Sparkcykel är fel. Samma skäl som 9328. Kvarstår avvisad."
+ },
+ {
+  "id": "10472251719946",
+  "nr": 9434,
+  "skäl": "R2/R3: Innerdäck Continental 28\" AV: titeln anger 47/62-584/622, källan \"för 28 mm breda däck\". Faktakoll på artikelnr 0182121 (SKU CO0182121): källorna anger olika ETRTO (47-622/62-622 hos reifen.com, 54-584/62-622 hos andra); ingen visar 47/62-584/622 och 584 och 622 är olika fälgdiametrar. Inte entydigt, kvarstår avvisad."
+ },
+ {
+  "id": "10472257913098",
+  "nr": 9617,
+  "skäl": "Tunn källa (R3): beskrivningen är tom, bara titeln (35 cm, 2 kg, 30 mm). Webbsökning på GYMDB-2 gav ingen källa som entydigt gäller modellen (2026-11-05). Kvarstår avvisad."
+ },
+ {
+  "id": "10472258011402",
+  "nr": 10116,
+  "skäl": "R3 (v1.7): varianterna Default Title (8 549 kr) och XL / hall (7 439 kr) har samma SKU 28230568-A men olika pris, och den riktiga varianten har färgen \"hall\" (grå) mot titelns grå-blå, så det är inte en ren överbliven Default Title. Källan listar dessutom ramstorlekarna M, L och XL men bara XL säljs, och växlarna anges motsägande (Tourney/Altus 21 växlar mot \"ShimanoRace\"). Titelns färg och ett pris kan inte låsas. Kvarstår avvisad."
+ },
+ {
+  "id": "10472262959370",
+  "nr": 9633,
+  "skäl": "Battery set for Fiido Titan: batteripaket till elcykel (batteri/elektronik, säkerhetsprodukt som hålls utanför enligt utkastprompten) och tunn källa (två meningar, bara satsens innehåll). Kvarstår avvisad."
+ },
+ {
+  "id": "10472271511818",
+  "nr": 10596,
+  "skäl": "R3: Tunturi Eva lyftbälte: titeln säger Medium 105 cm men leverantörstexten säger \"Large\" och \"Large 105cm\". Webbsökning (velomarket.ee, fitnessmarket.ee; produktkod 14TUSCL386) ger samma motsägelse (titel Medium, text Large, längd 105 cm). Storleksetiketten kan inte avgöras entydigt. Dessutom påståenden om stöd/skadeförebyggande som skulle kräva \"enligt tillverkaren\" (R5). Kvarstår avvisad."
+ }
+]
