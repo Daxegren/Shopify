@@ -1,0 +1,47 @@
+[
+ {
+  "nr": 26001,
+  "id": "10472189788426",
+  "fil": "k_26a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live-källan (läst 2026-11-05): ETRTO 47-559 (26 x 1.75 tum), Trådbunden, Gummiblandning Vinter, K-Guard, Dubbar 100, Svart-Reflex, Slang, 1000 g, 2.00-5.00 bar (30-70 psi), HS396 står ordagrant. Live-titeln säger 1.85 tum och tabellen 1.75 tum (R2): att utelämna tumbredden och bygga titeln på ETRTO är rätt, och '26 tum' följer entydigt av 559 och står i båda. Titeln utan tum är godtagbar och unik mot syskonen (30-622, Marathon Winter 47-507). 'Goda grepp på isig is', 'utmärkt däck' och 'Maximal belastning: 100 kg' är rätt utelämnade (Davids beslut 2026-11-05, R4/R5). K-Guard återges bara som namn, utan påstående om punkteringsskydd. Ingen tagg På beställning och ingen leveranstidsmening: rätt."
+ },
+ {
+  "nr": 26002,
+  "id": "10472303919370",
+  "fil": "k_26a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<p>Vinterdäck från Suomi Tyres med 240 dubbar. Hile W240 har storleken 40-622 (28 tum).</p>",
+     "efter": "<p>Suomi Tyres Hile W240 är ett vinterdäck med 240 dubbar. Däcket har storleken 40-622 (28 tum).</p>"
+    }
+   ],
+   "meta": [
+    {
+     "fore": "Vinterdäck från Suomi Tyres med 240 dubbar. Hile W240 har storleken 40-622 (28 tum).",
+     "efter": "Suomi Tyres Hile W240 är ett vinterdäck med 240 dubbar i storleken 40-622 (28 tum)."
+    }
+   ]
+  },
+  "skal": "Bara språk (R11): första meningen i beskrivningen saknar verb, och metan börjar med samma verblösa mening. Fakta stämmer: tillverkarens tabell https://suomityres.fi/products/winter/mtb/hile-w240 anger produktkod T601281 (= SKU) med 40-622, 28 tum och 'Stud amount 240', så '240 lbs' i live-källan är belagt som dubbantal och skrivs utan att lbs-raden tolkas. Grepp, stabilitet, säkerhet, hållbarhet och 'tillverkat i Finland' är rätt utelämnade. Dubbtyp (tillverkaren: full-steel studs) kan läggas till men krävs inte. Syskonen 29 tum (T601481) och 26 tum (T619381) är utkast med andra storlekar, ingen dubblett. Ingen tagg På beställning och ingen leveranstidsmening: rätt."
+ },
+ {
+  "nr": 26003,
+  "id": "10472304017674",
+  "fil": "k_26a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Tillverkarens tabell https://suomityres.fi/products/winter/city/routa: T503181 (= SKU) = 50-622, 126 dubbar; 'All studs are high quality steel studs' och 'Routa models are always with reflective side'; live-källan säger samma ('dubb ... av högkvalitativt stål', 'reflekterande randiga sidor'). 'Reflekterande sidor' är en konstruktionsuppgift som står i båda källorna; utkastet säger inget om synlighet eller säkerhet, så det får stå (jämför 'Färg: Svart-Reflex' på 26001). Det vore ett säkerhetspåstående först om texten sade att man syns bättre eller är säkrare. 28/29 tum går isär (live 28, tillverkaren 29): rätt utelämnat. Grepp, rullmotstånd, punkteringsskydd och slitstark är rätt utelämnade. Användningsraden 'Lämplig för pendlingscyklar, gruscyklar och lastcyklar' är en egen ren rad och bekräftas av tillverkaren ('For commuting, gravel bikes and cargo bike'); den får läggas till enligt beslutet men att den saknas är inget fel. Tagg På beställning finns och leveranstidsmeningen finns: rätt."
+ },
+ {
+  "nr": 26004,
+  "id": "10472304050442",
+  "fil": "k_26a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "TT är rätt: tillverkarens sida https://suomityres.fi/products/winter/mtb/piikkisika/T500781 (Piikkisika = Porcupine, 'TUBE TYPE') listar T501081 (= SKU) som 65-622, 29 tum, 408 dubbar, Alum./Crown. TLR-versionen av 65-622 har en annan kod (T300200, https://suomityres.fi/products/winter/mtb/piikkisika-tlr/T300100). ebikeparts.fi kallar T501081 'TLR', vilket är fel; vikten 1250 g därifrån är därför rätt utelämnad. '408 lbs' är belagt som dubbantal av tillverkarens tabell. 'Hårdmetalldubbar' stämmer med live-källan ('hårdmetallsknopparna') och tillverkaren ('alum crown stud with hard metal pin'); 'för mountainbike' står i live-källan. SEO-titeln utan TT är godtagbar: med TT blir den 45 tecken (max 43), och den är unik mot syskonet W408 TT 62-622 (T500101, utkast). Alla grepp-, punkterings- och styrkepåståenden är utelämnade. Tagg På beställning finns och leveranstidsmeningen finns: rätt. Koordinatorn bör byta webbkällan i att_bekrafta till tillverkarens sida."
+ }
+]
