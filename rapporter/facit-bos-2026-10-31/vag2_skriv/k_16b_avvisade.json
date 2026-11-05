@@ -1,0 +1,12 @@
+[
+ {
+  "id": "10476044845322",
+  "nr": 7061,
+  "skäl": "Dubblett av 7062 (Giant TCR Advanced 1 PC, Asphalt Green): samma modell, färg och källtext. Dessutom oklara varianter: Default Title och \"M/L / green\" har samma SKU 1096023146 men olika pris (50 029 mot 43 509 kr), så v1.7-undantaget (överbliven Default Title) går inte att tillämpa säkert. Bara 7062 är utkastad; David avgör om 7061 är samma produkt."
+ },
+ {
+  "id": "10476107497738",
+  "nr": 7064,
+  "skäl": "Dubblett av 7065 (Giant TCR Advanced Pro 1-Di2, Carbon): samma titel och källtext, men annat pris (59 229 mot 68 119 kr). Varianterna Default Title och \"XS / gray\" har samma SKU och färgen \"gray\" stämmer inte med titelns Carbon (R3). Bara 7065 är utkastad; David avgör om de är samma produkt."
+ }
+]

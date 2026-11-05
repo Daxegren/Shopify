@@ -1,0 +1,27 @@
+[
+ {
+  "id": "10476166807818",
+  "nr": 6053,
+  "skäl": "R12a: dubblett. Samma modell och färg (Giant Defy Advanced 1, Thundercloud) som 10476178669834 (nr 7070), som skrivs i stället; identisk källtext men olika id och SKU. Om David vill ha båda måste titlarna särskiljas (handle ändras inte)."
+ },
+ {
+  "id": "10476218679562",
+  "nr": 7073,
+  "skäl": "R3: titeln anger färgen Frost Silver men produkten har tre varianter med olika pris: Default Title 57 569 kr (SKU 1096021148), M / hall 50 059 kr (SKU 1096021145) och XL / hall 50 059 kr (SKU 1096021148). Även efter att Default Title ignoreras (samma SKU som XL) återstår två varianter med olika SKU. Samma modell och färg som 10480047325450 (nr 6059). David avgör variantdata."
+ },
+ {
+  "id": "10480047325450",
+  "nr": 6059,
+  "skäl": "R3: titeln anger färgen Frost Silver men produkten har tre varianter: Default Title 58 459 kr (SKU 1096021146), M/L / gray 49 679 kr (SKU 1096021146) och L / gray 49 679 kr (SKU 1096021147). Default Title har annat pris än övriga och L har egen SKU. Samma modell och färg som 10476218679562 (nr 7073). David avgör variantdata."
+ },
+ {
+  "id": "10488318329098",
+  "nr": 7089,
+  "skäl": "R3/R12a: två varianter med olika SKU (S / gray 1074029104 och M / gray 1074029105, samma pris 67 389 kr) och samma titel som 10486710305034 (nr 6057), som skrivs i stället (Default Title, en variant). Dubblett."
+ },
+ {
+  "id": "10494945001738",
+  "nr": 7093,
+  "skäl": "R3: titeln anger färgen Vit Blå men produkten har fem varianter med olika pris och SKU: Default Title 75 659 kr (SKU 59RD104615), XS 65 769 kr (59RD104615), S (59RD104915), M (59RD105215) och XL (59RD105815) à 65 769 kr. Källan nämner dessutom flera grupperingsalternativ (Dura-Ace, Ultegra, 105 Di2) och 'italiensk' (ursprungsord). David avgör variantdata."
+ }
+]
