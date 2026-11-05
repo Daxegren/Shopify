@@ -1,0 +1,37 @@
+[
+ {
+  "id": "10462806212874",
+  "nr": 28014,
+  "avvisningsskal": "R6/v. 2026-11-05: Barnhandskar (Cars, ålder 4-6 år) vars källa uttryckligen anger skyddsfunktion (\"skydda händerna från stötar och repor\", vadderad). Allt med skyddsfunktion är fortfarande utanför barnfrisläppet."
+ },
+ {
+  "id": "10462824235274",
+  "nr": 28018,
+  "avvisningsskal": "R3/v1.8: Aest Barnsparkcykel har fyra varianter med olika pris (blue 2269 kr; yellow, green, pink 729 kr) och olika färg. Olika pris avvisas. Det höga priset på blue ser ut som ett prisfel; David kan rätta priset i butiken. Titeln \"blå\" kan inte heller skrivas färgneutralt med olika pris."
+ },
+ {
+  "id": "10468708843786",
+  "nr": 28020,
+  "avvisningsskal": "R3/R2: Tunn och trasig källa. Utöver titeln finns bara \"skärmset för barnhjul på 16 tum\" och måttrader med felaktiga etiketter (\"Framaxelns längd\", \"Bakhjuls längd\"). Webbkoll (WebSearch 2026-11-05, EAN 4021834756013 = Hebie Taipan 16\", art. 0756 E) visar att webbkällorna går isär om måtten (45 mm/34/42 cm mot 55 mm/37/47 cm), så måtten utelämnas och för få fakta återstår. Titeln har även engelska ord (Fender set, black)."
+ },
+ {
+  "id": "10468735484170",
+  "nr": 28021,
+  "avvisningsskal": "R3: Titeln (\"Ram FIIDO T2 barnsäkerhetsstaket med sittdyna\") motsäger källan, som säger \"Stänkskärm för barn Fiido T2 elcykel\". Titeln anger dessutom säkerhetsstaket och sittdyna, alltså barnsäte/säkerhetsprodukt som fortfarande är utanför. Saknar SKU/EAN-stöd för webbkoll."
+ },
+ {
+  "id": "10468769399050",
+  "nr": 28022,
+  "avvisningsskal": "R3: Titeln \"Youth bike LIV Tempt 0, 27.5\\\" XS\" motsäger källan, som beskriver Liv Tempt som en damcykel (\"women's bike\", ramstorlek XS, 33 cm, för cyklist ca 150–163 cm) utan någon ungdoms- eller barnuppgift. Titeln bör rättas av David innan produkten skrivs; typordet kan inte väljas ur källan (Mountainbike finns bara som tagg). Källan är engelsk och färgen Asphalt Green står bara i titeln."
+ },
+ {
+  "id": "10470902333706",
+  "nr": 28023,
+  "avvisningsskal": "R6/barnstolar och bälten: El-lastcykel med lastlåda, säkerhetssele för 4 barn, barnstolar för 4 barn och stege för barn. Barnstolar/säten och bälten är fortfarande utanför barnfrisläppet; dessutom motor, batteri och lastcykelkategori med barntransport."
+ },
+ {
+  "id": "10470905282826",
+  "nr": 28024,
+  "avvisningsskal": "BESLUTSLOGG 2026-11-05: Svensson Family (barntransport, låda med två bänkar och 3-punkts säkerhetsbälten för 4 barn) hålls utanför (David). Gäller fortfarande; barnsäten och bälten ingår."
+ }
+]
