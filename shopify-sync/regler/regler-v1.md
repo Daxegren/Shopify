@@ -55,3 +55,6 @@ Cirkulära inledningar (R11), meta utan verb, typord som byts utan stöd i käll
 ## v1.9 (2026-11-05): varianter med olika pris och reflexprodukter (David)
 - R3: varianter med olika pris får skrivas om produkten har lager (totalInventory > 0) och varianterna är samma artikel i olika färg eller storlek. Titel, SEO och text låser inte färg, storlek, vikt eller pris; bara fakta som gäller alla varianter anges. Produkter där varianterna är olika artiklar (olika vikt, modell eller mått, till exempel hantlar eller kettlebells i flera vikter) avvisas. Produkter utan lager skrivs inte.
 - Reflexprodukter får skrivas med bara fakta ur källan. Inga synlighets-, säkerhets- eller skyddslöften.
+
+## v1.10 (2026-11-05): lastgräns på bärande delar (David)
+- R4: finns ordagrann svensk lastgräns i produktens egen källa gäller R4 som förut. Annars söks lastgränsen på nätet; hittas den entydigt för exakt modellen (artikelnummer/EAN) skrivs den en gång med "enligt tillverkaren" och källadressen anges i `att_bekrafta`. Hittas den inte skrivs i specifikationen raden "Maximal lastgräns: Ej känd" och i texten att maximal lastgräns inte är känd. Ingen annan lastuppgift, inga säkerhets- eller hållbarhetslöften. Bromsdelar, trampoliner, hjälmar och barntransport ingår inte.
