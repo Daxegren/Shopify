@@ -1,0 +1,53 @@
+[
+ {
+  "id": "gid://shopify/Product/10541366968586",
+  "title": "Paw Patrol trumpet, pink",
+  "handle": "paw-patrol-trumpet-pink-34062",
+  "status": "ACTIVE",
+  "tags": [
+   "SevenPolska",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "updatedAt": "2026-09-28T05:56:10Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Cykelklockan ger ifrån sig ett högt ljud och drar till sig uppmärksamhet samtidigt som den underhåller barnet. Den är tillverkad av högkvalitativa komponenter och har Disney-karaktärer. Installationen är enkel, med alla nödvändiga delar inkluderade i setet.<br><br>Diameter 6,5 cm och längd 14 cm.<br><br>Tillverkad av<strong> Seven Polska</strong>.</div>"
+ },
+ {
+  "id": "gid://shopify/Product/10548282753290",
+  "title": "Trombone Frozen 2, green-purple",
+  "handle": "trombone-frozen-2-green-purple-9156",
+  "status": "ACTIVE",
+  "tags": [
+   "SevenPolska",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "updatedAt": "2026-09-28T05:56:14Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Cykelklockan ger ifrån sig ett högt ljud och drar till sig uppmärksamhet samtidigt som den underhåller barnet. Den är tillverkad av högkvalitativa komponenter och har Disney-figurer. Installationen är enkel, med alla nödvändiga delar inkluderade i setet.<br><br>Diameter 6,5 cm och längd 14 cm.<br><br>Tillverkad av<strong> Seven Polska</strong>.</div>"
+ },
+ {
+  "id": "gid://shopify/Product/10561327956234",
+  "title": "Trumpet Minnie, pink",
+  "handle": "trumpet-minnie-pink-9129",
+  "status": "ACTIVE",
+  "tags": [
+   "SevenPolska",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "updatedAt": "2026-09-28T03:37:48Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Musse-inspirerad trumpet, bekväm och rolig att använda tack vare sin design!<br><br><strong>Mer information:</strong>\n</div><ul>\n<li>metall och plast</li>\n<li>Diameter och längd: 6,5 cm och 14 cm.</li>\n</ul>"
+ }
+]

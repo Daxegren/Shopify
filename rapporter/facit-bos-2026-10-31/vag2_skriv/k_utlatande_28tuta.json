@@ -1,0 +1,26 @@
+[
+ {
+  "nr": 28238,
+  "id": "10541366968586",
+  "fil": "k_28tuta_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live (API 2026-11-05): ACTIVE, 'Paw Patrol trumpet, pink', SevenPolska, Tillbehör, en variant Default Title/34062/129 kr, ingen tagg 'På beställning'. Diameter 6,5 cm, längd 14 cm, alla delar för installationen ingår och 'Tillverkad av Seven Polska' stämmer ordagrant med källan; Paw Patrol och rosa ur live-titeln. Typordet Cykeltuta är godkänt av David 2026-11-05 (godkanda_typord) och stöds av webbkoll: centrumrowerowe.pl 'Trąbka PSI PATROL Girls', Kod producenta 34062, Seven Polska (https://www.centrumrowerowe.pl/trabka-psi-patrol-girls-pd48651/). 'Disney' rätt utelämnat (mallsats, Paw Patrol är inte Disney). Inga ljud-, säkerhets-, kvalitets- eller enkelhetspåståenden ('högt ljud', 'uppmärksamhet', 'högkvalitativa', 'enkel') kvar. Titel 26 tecken/1 komma, SEO 26, meta 133 med verb; standardblock exakt som b_skriv_24.json; Passar för finns; unik mot alla utkast och k_skriv_*.json samt live."
+ },
+ {
+  "nr": 28244,
+  "id": "10548282753290",
+  "fil": "k_28tuta_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live (API 2026-11-05): ACTIVE, 'Trombone Frozen 2, green-purple', SevenPolska, Tillbehör, en variant Default Title/9156/129 kr, ingen tagg 'På beställning'. Diameter 6,5 cm, längd 14 cm, installationsdelar ingår och Seven Polska stämmer med källan; Frozen 2 och grön-lila ur live-titeln. Disney: live-texten säger 'Disney-figurer', men det är samma mallsats som på Paw Patrol och räcker inte ensam. Webbkällan för exakt produktkod 9156 heter 'Trąbka DISNEY Frozen 2' (https://www.centrumrowerowe.pl/trabka-disney-frozen-2-pd37090/, kontrollerad 2026-11-05), och adressen står i att_bekrafta (R1 v1.6/v1.7). Disney stöds alltså för just denna produkt. Typord Cykeltuta godkänt av David. Inga ljud-, säkerhets- eller kvalitetspåståenden. Titel 36/1 komma, SEO 36, meta 137 med verb; standardblock exakt; Passar för finns; unik. Anm. (ingen rättning): den skrivna syskonklockan 28013 använder svenska 'Frost 2'; här följs live-titelns 'Frozen 2', vilket är förenligt med R1."
+ },
+ {
+  "nr": 28246,
+  "id": "10561327956234",
+  "fil": "k_28tuta_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live (API 2026-11-05): ACTIVE, 'Trumpet Minnie, pink', SevenPolska, Tillbehör, en variant Default Title/9129/129 kr, ingen tagg 'På beställning'. Metall och plast, diameter 6,5 cm och längd 14 cm stämmer med källans lista; Minnie och rosa ur live-titeln. Typord Cykeltuta godkänt av David och stött av webbkoll: 'Trąbka DISNEY Minnie', Kod producenta 9129 (https://www.centrumrowerowe.pl/trabka-disney-minnie-pd37093/). 'Disney' rätt utelämnat: live-källan säger bara 'Musse-inspirerad'. Tillverkare rätt utelämnad (saknas i källan; webbsidan anger Seven 1, inte Seven Polska). 'Bekväm', 'rolig' borta; inga ljud-, säkerhets- eller kvalitetspåståenden. Titel 22/1 komma, SEO 22, meta 107 (inom 70–155, R12) med verb; standardblock exakt; Passar för finns; unik."
+ }
+]
