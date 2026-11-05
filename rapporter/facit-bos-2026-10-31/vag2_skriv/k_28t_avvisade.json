@@ -1,0 +1,37 @@
+[
+ {
+  "id": "10530126332170",
+  "nr": 28233,
+  "skäl": "Barnhandskar som enligt källan skyddar händerna mot stötar och repor: skyddsfunktion (barnprodukt med skyddsfunktion är fortfarande utanför)."
+ },
+ {
+  "id": "10530129445130",
+  "nr": 28234,
+  "skäl": "Knä- och armbågsskydd för barn med skyddsfunktion vid fall; källan består dessutom av en mening om skydd."
+ },
+ {
+  "id": "10530129838346",
+  "nr": 28235,
+  "skäl": "Knä- och armbågsskydd för barn med EN 14120 och skadepåståenden (\"minska skador vid fall\"): skyddsfunktion."
+ },
+ {
+  "id": "10530130854154",
+  "nr": 28236,
+  "skäl": "Tom källa (ingen beskrivning, bara titeln \"Framkorg Minnie, mörkrosa\"): R3, inget att skriva från."
+ },
+ {
+  "id": "10530130886922",
+  "nr": 28237,
+  "skäl": "Knä- och armbågsskydd för barn (\"skydd för knän och armbågar\"): skyddsfunktion; källan är dessutom en enda mening (R3)."
+ },
+ {
+  "id": "10541367263498",
+  "nr": 28239,
+  "skäl": "Redan utkastad som nr 2504 i a_5_utkast.json (samma id, ej skriven). Barn är nu frisläppt, så utkastet kan användas därifrån; nytt utkast här skulle ge dubbla utkast med samma titel."
+ },
+ {
+  "id": "10541367492874",
+  "nr": 28240,
+  "skäl": "Redan utkastad som nr 2505 i a_5_utkast.json (samma id, ej skriven). Barn är nu frisläppt, så utkastet kan användas därifrån; nytt utkast här skulle ge dubbla utkast med samma titel."
+ }
+]
