@@ -1,0 +1,83 @@
+[
+ {
+  "nr": 5256,
+  "id": "10475418452234",
+  "fil": "k_18a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Dricksflaska från Giant på 400 ml i orange.",
+    "efter": "Dricksflaskan Giant ARX rymmer 400 ml och är orange."
+   }
+  },
+  "skal": "Live ACTIVE, en variant (Default Title, SKU 480000404, EAN 4713250851426, 69 kr), live-text oförändrad mot utkastets fakta. Giants egen sida (DoubleSpring ARX Bottle, partnumber 480000404 i färg Orange) bekräftar 400cc, 'Fresh antimicrobial technology' och 'rated up to 90°C'. Färg i titeln ok: en variant, egen SKU per färg hos Giant, behövs för unika titlar (R3/R12). 'Enligt tillverkaren' 1 gång i html (antimikrobiell) och 1 i meta (90 °C), inom R5. Inga barnpåståenden i texten; 'designad för barncyklar', 'Grundat 1972' och 'världens ledande' rätt utelämnade. Rättat: metans första mening saknade verb (R11)."
+ },
+ {
+  "nr": 8070,
+  "id": "10515738001674",
+  "fil": "k_18a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Dricksflaska från Giant på 400 ml i röd.",
+    "efter": "Dricksflaskan Giant ARX rymmer 400 ml och är röd."
+   },
+   "html": {
+    "fore": "finns här i röd.",
+    "efter": "finns här i rött."
+   }
+  },
+  "skal": "Live ACTIVE, en variant (Default Title, SKU 480000401, EAN 4713250851396, 69 kr), live-text oförändrad mot utkastets fakta. Giants egen sida (DoubleSpring ARX Bottle, partnumber 480000401 i färg Red) bekräftar 400cc, 'Fresh antimicrobial technology' och 'rated up to 90°C'. Färg i titeln ok: en variant, egen SKU per färg hos Giant, behövs för unika titlar (R3/R12). 'Enligt tillverkaren' 1 gång i html (antimikrobiell) och 1 i meta (90 °C), inom R5. Inga barnpåståenden i texten; 'designad för barncyklar', 'Grundat 1972' och 'världens ledande' rätt utelämnade. Rättat: metans första mening saknade verb (R11) och adjektivet efter \"i\" ska vara neutrum (\"i rött\")."
+ },
+ {
+  "nr": 8071,
+  "id": "10515738034442",
+  "fil": "k_18a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Dricksflaska från Giant på 400 ml i gul.",
+    "efter": "Dricksflaskan Giant ARX rymmer 400 ml och är gul."
+   },
+   "html": {
+    "fore": "finns här i gul.",
+    "efter": "finns här i gult."
+   }
+  },
+  "skal": "Live ACTIVE, en variant (Default Title, SKU 480000403, EAN 4713250851419, 69 kr), live-text oförändrad mot utkastets fakta. Giants egen sida (DoubleSpring ARX Bottle, partnumber 480000403 i färg Yellow) bekräftar 400cc, 'Fresh antimicrobial technology' och 'rated up to 90°C'. Färg i titeln ok: en variant, egen SKU per färg hos Giant, behövs för unika titlar (R3/R12). 'Enligt tillverkaren' 1 gång i html (antimikrobiell) och 1 i meta (90 °C), inom R5. Inga barnpåståenden i texten; 'designad för barncyklar', 'Grundat 1972' och 'världens ledande' rätt utelämnade. Rättat: metans första mening saknade verb (R11) och \"i gul\" → \"i gult\"."
+ },
+ {
+  "nr": 8072,
+  "id": "10515739476234",
+  "fil": "k_18a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Dricksflaska från Giant på 400 ml i grön.",
+    "efter": "Dricksflaskan Giant ARX rymmer 400 ml och är grön."
+   },
+   "html": {
+    "fore": "finns här i grön.",
+    "efter": "finns här i grönt."
+   }
+  },
+  "skal": "Live ACTIVE, en variant (Default Title, SKU 480000402, EAN 4713250851402, 69 kr), live-text oförändrad mot utkastets fakta. Giants egen sida (DoubleSpring ARX Bottle, partnumber 480000402 i färg Green) bekräftar 400cc, 'Fresh antimicrobial technology' och 'rated up to 90°C'. Färg i titeln ok: en variant, egen SKU per färg hos Giant, behövs för unika titlar (R3/R12). 'Enligt tillverkaren' 1 gång i html (antimikrobiell) och 1 i meta (90 °C), inom R5. Inga barnpåståenden i texten; 'designad för barncyklar', 'Grundat 1972' och 'världens ledande' rätt utelämnade. Rättat: metans första mening saknade verb (R11) och \"i grön\" → \"i grönt\"."
+ },
+ {
+  "nr": null,
+  "id": "10676713947402",
+  "fil": "k_18a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Kapellram från Cargobike of Sweden till lastcykeln Kindergarten Flex/Delight med sex sitsar. Tillverkad av Cargobike of Sweden.",
+    "efter": "Kapellramen från Cargobike of Sweden är avsedd för lastcykeln Kindergarten Flex/Delight med sex sitsar."
+   },
+   "html": {
+    "fore": "<p>Kapellram från Cargobike of Sweden till modellen Kindergarten Flex/Delight.</p>",
+    "efter": "<p>Kapellramen från Cargobike of Sweden är avsedd för modellen Kindergarten Flex/Delight med sex sitsar.</p>"
+   }
+  },
+  "skal": "Live ACTIVE, en variant (SKU 1521-19, EAN 7350097564798, 789 kr, tagg På beställning; leveranstidsmeningen finns, R13 ok). Källtexten säger 'ett kapell', titeln 'Kapellram'. Produktbilden (CoS_Canopyfor6kids_FlexDelightKindergarten.png) visar bara en rörram utan tyg, och Cargobike of Sweden säljer kapell och ram (Verdeckbügel/Spriegel) separat (lucky-bike.de 0096487.003 resp. 0096488.003). Typordet Kapellram är därför rätt; texten får inte lova tyg/kapell och gör det inte. Tunn källa: inga fakta utöver titeln (typ, märke, modell, 6 sitsar), så R3 tillåter bara kort text/kort meta enligt §14; utkastet håller sig till det. Rättat: metans 'Tillverkad av Cargobike of Sweden.' var utfyllnad (märket står redan) och första meningarna i meta och html saknade verb (R11). Inga barn- eller säkerhetspåståenden. OBS dubblett: 10676713849098 (ACTIVE, samma SKU och EAN, titel '6-barns', fortfarande barnspärrad, oskriven) – ingen R12a-krock nu, men tas med i Davids sammanslagningsplan för dubbletter."
+ }
+]
