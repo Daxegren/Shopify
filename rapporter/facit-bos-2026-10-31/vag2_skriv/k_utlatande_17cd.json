@@ -1,0 +1,68 @@
+[
+ {
+  "nr": 9474,
+  "id": "10472240316682",
+  "fil": "k_17c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live (ACTIVE, en variant Default Title, SKU VMERDM370SGSS, 489 kr, tom beskrivning; titel 'Bakväxel 9s Silver SGS RD-M370'). veloplus.ee (öppnad) anger 'Rear Derailleur Shimano Altus RD-M370 SGS Silver 9-speed', produktkod ERDM370SGSS (= SKU utan VM), 'Cage type: SGS (long)', 'Max large sprocket: 34T'; kapacitet anges inte där och minsta stora kugghjul 28T, så att kapaciteten och minsta kugghjul utelämnas är rätt (källor går isär/saknas). 9, silver, SGS och 9s stöds dessutom av live-titeln. Ingen växlingstyp, kompatibilitet eller kvalitetsord påstås. Ingen dubblett."
+ },
+ {
+  "nr": 9006,
+  "id": "10472250343690",
+  "fil": "k_17c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live (ACTIVE, en variant, SKU 50508, 409 kr): titeln säger 'centrumbatteri', men egen källa säger 'Skydda din elcykels mittmotor' och 'Mid Engine Cover'. Basils sida (öppnad) gäller exakt artikel 50508 / EAN 8715019505089 = SKU: 'Basil Mid Engine Cover - universal - black', Assembly: Motor, neopren 4,5 mm, System: Velcro. Basil kallar det på ett ställe 'battery cover', men namn, monteringsfält och egen källa säger motor, så 'mittmotor' är en riktig titelrättning av samma produkt (samma SKU, handle oförändrat), inte en annan produkt. Typordet 'Skydd' behålls (R7). Mått korrekt utelämnade (8x12x9 mot 8,5x12,5x9,5). Ingen skyddseffekt påstås (R5). Ingen annan produkt med SKU 50508."
+ },
+ {
+  "nr": 9626,
+  "id": "10472245657866",
+  "fil": "k_17c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Enligt tillverkaren har hantlarna halkfria grepp.",
+    "efter": "Enligt tillverkaren har hanteln halkfritt grepp."
+   },
+   "meta": {
+    "fore": "har enligt tillverkaren halkfria grepp.",
+    "efter": "har enligt tillverkaren halkfritt grepp."
+   }
+  },
+  "skal": "Live (ACTIVE, en variant, SKU 10947170, 219 kr): egen källa 'hantlar med halkfria grepp från ZIPRO' (resten märkesreklam). 'Enligt tillverkaren' står en gång i html och en gång i meta (R5 uppfyllt). Rättning: produkten säljs styckvis (1 st), så pluralen 'hantlarna'/'halkfria grepp' passar inte; singular. morele.net (öppnad, produkt-ID 10947170 = SKU) anger 'Zipro Hantel Hex gumowany 1 x 2.5 kg', 'Liczba sztuk: 1', 'Kolor: Czarne', 'Stal gumowana', 'Heksagonalny kształt'. galaxus.ch gav 503 vid kontroll; morele räcker eftersom vikt och färg också står i live-titeln. 'Högkvalitativa' korrekt utelämnat."
+ },
+ {
+  "nr": 10117,
+  "id": "10472292090122",
+  "fil": "k_17d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live (ACTIVE): varianterna Default Title 9 479 kr (lager 10) och XL / blue 8 239 kr (lager 7), båda SKU TAB23-3020. Mönstret är detsamma som prejudikatet 10113 (Default Title 6 749 / L 5 869 kr, samma SKU, skriven efter Davids ja) och v1.7, så Default Title behandlas som överbliven och titeln låser varken färg, storlek eller pris. Rätt att stryka 'svart-grön': varianten säger blue, handle innehåller 'bl' och en annan SKU (tab23-3011), källtexten anger ingen färg. Ramstorlekarna M/L i källan korrekt utelämnade (varianten är XL, R3 v1.5). Alla fakta står ordagrant i live-källan (aluminium, 28-tums Kenda, Shimano Tourney, 18 växlar, V-bromsar, 16,6 kg, lampor, stänkskärmar, stöd, pakethållare, kedjeskydd; asfalt och grusvägar). Ingen dubblett (Kinetic 2.0 Plus W är en annan modell). Webbsökning på TAB23-3020 gav inget. Till David (data, inte text): Default Title har både lager och 1 240 kr högre pris; en kund kan köpa den dyrare raden."
+ },
+ {
+  "nr": 9944,
+  "id": "10472292319498",
+  "fil": "k_17d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live (ACTIVE, en variant, SKU 270034, 99 kr): titeln 'Mirror M-WAVE Spy Mini', källa 'Spegel på linsen. Spegeldiameter 46 mm.' Messingschlager (öppnad) gäller exakt artikel 270034 = SKU: 'M-WAVE Spy Mini Short bicycle mirror', 46 mm, 'three-dimensionally adjustable', 'parabolic mirror', 'toolless mounting', 'mounting on the handlebar', colour black. 'Short' i titeln stöds därmed av SKU:n och handle (…-270034). Typordet 'Spegel' står i produktens egen källtext och är den entydiga översättningen av 'Mirror'; butikens övriga speglar heter Spegel (R7). 46 mm stämmer i båda källorna; alpinetreks 45 mm ytterdiameter korrekt utelämnad. Ingen dubblett (enda Spy-produkten)."
+ },
+ {
+  "nr": 9647,
+  "id": "10472299004170",
+  "fil": "k_17d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html_1": {
+    "fore": "överför pulsen via 5,3 kHz-signal (oöverkodad), Bluetooth Smart",
+    "efter": "överför pulsen via okodad 5,3 kHz-signal, Bluetooth Smart"
+   },
+   "html_2": {
+    "fore": "<li>Signal: 5,3 kHz (oöverkodad)</li>",
+    "efter": "<li>Signal: 5,3 kHz (okodad)</li>"
+   }
+  },
+  "skal": "Live (ACTIVE, en variant, SKU FC-TOORX-3C, 639 kr): bara vår egen tidigare text och SEO-titel (ingen klartagg). Fitmax (öppnad) gäller exakt FC-TOORX-3C: 'Toorx Triple Transmission Bluetooth Heart Rate Belt', 'uncoded 5.3 kHz', Bluetooth Smart och ANT+, klockor 'that supports the Bluetooth Smart or ANT+ protocol'. Fakta och 'ANT+' i titeln stöds för exakt modellen. mediamarkt.nl gav 403 vid kontroll; Fitmax räcker. Rättning: 'oöverkodad' är inget svenskt ord; 'uncoded' heter 'okodad'. Räckvidd och batteri korrekt utelämnade. SEO-titeln lika live (oförändrad). Inga dubbletter (Tunturi/Finnlo-bältena är andra märken)."
+ }
+]
