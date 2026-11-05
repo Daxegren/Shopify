@@ -1,0 +1,37 @@
+[
+ {
+  "id": "10471057719562",
+  "nr": 35004,
+  "skäl": "Redan skriven och ingen dubblett: live-texten (Passar för, Specifikationer, standardblock, SEO-titel och meta) finns redan på just den här produkten, och inget syskon har samma artikelnummer (1096036146; syskonen 1096036147/-148 är andra storlekar med egna titlar). Skrivs inte om. Taggen texter-klara saknas men texten är live; varianterna Default Title och M/L har samma SKU men olika pris, att ta upp med David."
+ },
+ {
+  "id": "10472232943882",
+  "nr": 35005,
+  "skäl": "Belysning (säkerhetsprodukt): avvisas. Dessutom inte exakt dubblett av 10475622400266 (Ljussats AXA Niteline 44-R, USB, redan skriven): här SKU 90900495SC och EAN 8713249258706, där 90900495KC och EAN 8713249350899."
+ },
+ {
+  "id": "10472233566474",
+  "nr": 35006,
+  "skäl": "Redan skriven och ingen dubblett: texten och SEO finns live (pilotprodukt, ändras inte i vågorna). Inget syskon med samma artikelnummer (610000001). Skrivs inte om."
+ },
+ {
+  "id": "10472236876042",
+  "nr": 35007,
+  "skäl": "Kan inte skrivas med unik titel: olika SKU/EAN mot 6133 (10462795366666: 2328726/5904803134236, här 2328727/5904803134571), men båda källorna anger samma modell, färg (blå), M (19 tum) och L (21 tum) i samma löptext och ingen av dem anger vilken storlek eller vilket år artikeln är. Webben (insportline.lt, ett enda hit) kopplar EAN 5904803134571 till \"Wagant 4 28 tum 2023 blue-navy blue\", men ger inget för 6133. Skillnaden går inte att visa utan påhittad uppgift. Ej bevisad exakt dubblett: David/leverantör får avgöra om 2328727 är annan storlek eller annat parti."
+ },
+ {
+  "id": "10472237957386",
+  "nr": 35008,
+  "skäl": "Redan skriven och ingen dubblett: live-beskrivning (intro, standardblock) och SEO-titel finns på produkten, och inget annat syskon med SKU CO0181671 hittades. Skrivs inte om."
+ },
+ {
+  "id": "10472250474762",
+  "nr": 35009,
+  "skäl": "Lås (säkerhetsprodukt): avvisas. Dessutom redan skriven live (titel, SEO, meta, beskrivning med standardblock) och inget syskon med SKU 230950; skrivs inte om."
+ },
+ {
+  "id": "10472293433610",
+  "nr": 35012,
+  "skäl": "Pakethållare med lastgräns (bärande del) som redan är skriven live med ordagrann lastkapacitet 9 kg, SEO och standardblock; inget syskon med SKU 440170. Ingen dubblett, skrivs inte om."
+ }
+]

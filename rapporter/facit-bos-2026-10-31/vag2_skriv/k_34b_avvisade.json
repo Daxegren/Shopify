@@ -1,0 +1,22 @@
+[
+ {
+  "id": "10472244412682",
+  "nr": 34014,
+  "skäl": "Titel och källa motsäger varandra (R3): titeln säger Underhållsfett men källan beskriver ett flytande skidgrepp med temperaturområde -5 till -15 °C och trasig text (\"60 ml - 60 ml - 60 ml\"). Webbkoll 2026-11-05: återförsäljare anger -5 till -20 °C för SKU 15MA225200-T00T000, Starts egen katalog kallar liknande produkt Easy Grip Cold HF (-5 till -10 °C), och streckkoden 6418016022529 hittades inte. Entydig modell kan inte fastställas. Taggen Sparkcykel är fel. Avvisad."
+ },
+ {
+  "id": "10472253522186",
+  "nr": 34016,
+  "skäl": "Källan är maskinöversatt och motsägande (cykelverktyg i texten, skidkork i märke och artikelnummer). Webbkoll 2026-11-05: varken SKU 15MU502600 eller EAN 6418016050263 gav träff; närmaste är Start Alpine Finishing Cork (artikel 05026, EAN 6419016050263 / 6418016050270), alltså annan streckkod. Entydig modell ej bekräftad. Avvisad."
+ },
+ {
+  "id": "10472271511818",
+  "nr": 34018,
+  "skäl": "Källan motsäger titeln (R3): live-texten säger Large medan titeln säger Medium 105 cm. Webbkoll 2026-11-05: Jokasport och Sportsprotribe kopplar SKU 14TUSCL386 till 105 cm, men isports.ch anger 90 cm för samma kod, materialet anges som både EVA-skum och nylon, och bältet saknar mått (bredd) utom en källa. Dessutom rygg-/skadeförebyggande påståenden i källan. Färre än två entydiga fakta. Avvisad."
+ },
+ {
+  "id": "10472323023114",
+  "nr": 34024,
+  "skäl": "Ingen webbträff: SKU AMLADCYKLER-82-1 och hunddörr/sidopanel hittades inte hos Amladcykler eller återförsäljare (2026-11-05). Källan ger bara att dörrpanelen är lämplig för Ultimate Curve och Deluxe, och att tillverkaren är Amladcykler. Tillbehör till lastcykel (eldriven, barn- och djurtransport), alltså mindre än två entydiga fakta och transportprodukt. Avvisad."
+ }
+]
