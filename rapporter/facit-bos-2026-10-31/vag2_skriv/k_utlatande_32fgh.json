@@ -1,0 +1,85 @@
+[
+ {
+  "nr": 32065,
+  "id": "10581107835146",
+  "fil": "k_32f_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live 2026-11-05: ACTIVE, 'Hi-Rise Parallettes', en variant 61010/EAN 6430016900935, 999 kr, lager 40, ingen lastgräns i egen källa. 150 kg är entydigt för exakt modellen: prisma.fi/tuotteet/110569698 anger 'maksimikuorma: 150kg' med tuotekoodi 6430016900935 (= vår EAN), och sökträffar (Galaxus m.fl.) anger samma värde för 61010; ingen källa anger annat. Obs: av utkastarens källor visar bygghemma.se p-1860431 ingen lastgräns (bara Gy61010/EAN och mått) och proshop.se gav 403; byt till prisma-adressen i att_bekrafta. 150 kg står en gång med 'enligt tillverkaren' i html (meta är separat text). Löftesorden (hållbarhet, ergonomi, säker, stabilitet) rätt utelämnade. Typordet Parallettes är live-titelns ord (R7). Tidigare avvisningar (c_9, k_24g: 'bärande utan svensk lastgräns') hävs av v1.10."
+ },
+ {
+  "nr": 32068,
+  "id": "10581109113098",
+  "fil": "k_32f_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 'Multi-Training Door Gym', 62065/EAN 6430016903066, 289 kr, lager 1680. 100 kg bekräftat för exakt EAN: alltron.ch/fr/product/1706546 'Poids max.: 100 kg', 'EAN: 6430016903066' (öppnad 2026-11-05); Galaxus/Decathlon (503/403 vid granskningen) anges av utkastaren med samma värde. Typordet Träningsstation är live-beskrivningens eget ord och står i profilen. Dörrbredden rätt utelämnad (källorna går isär; alltron anger 92 cm som falsdjup). 'Robust konstruktion' och 'professionell träning' utelämnade. Tidigare avvisningar (c_11, k_25e) hävs av v1.10."
+ },
+ {
+  "nr": 32069,
+  "id": "10581109408010",
+  "fil": "k_32f_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 'Performance Board', 61132/EAN 6430016906227, 299 kr, lager 236. 120 kg är entydigt: Galaxus anger tillverkarnummer 61132 och max. load 120 kg (bekräftat i sökresultat och tidigare i k_12b; sidan gav 503 vid granskningen), och Decathlon (max. load 120 kg), PriceRunner.se ('Belastning (max) 120 kg') och hintaopas.fi anger samma värde för Performance Board 39 cm; ingen källa anger annat, och Gymsticks Balance Board 61131 är en annan modell. Justerbar höjd styrks för exakt GTIN av taloon.com ('voit säätää laudan korkeutta (7,5 - 10 cm)', GTIN 6430016906227, tuotenumero GYM-61132) och varuste.net; lägg taloon i att_bekrafta. Produkttypen balansbräda (tidigare 'oklar produkttyp' i c_utlatande_9_12) är nu belagd, och typordet står i profilen. Diameter och live-löftena (halkfri, robust, kärnstyrka) rätt utelämnade."
+ },
+ {
+  "nr": 32070,
+  "id": "10581109670154",
+  "fil": "k_32f_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Power Rings är träningsringar med 2 ringar och 2 justerbara remmar med snabblås. Maximal lastgräns är 140 kg enligt tillverkaren.",
+    "efter": "Gymstick Power Rings består av 2 ringar och 2 justerbara remmar med snabblås. Maximal användarvikt är 140 kg enligt tillverkaren."
+   },
+   "html": {
+    "fore": "<p>Gymstick Power Rings är träningsringar som används till kroppsviktsträning. I förpackningen ingår 2 ringar och 2 justerbara remmar med snabblås. Maximal lastgräns är 140 kg enligt tillverkaren.</p><h2>Passar för</h2><ul>\n<li>Dig som söker träningsringar för kroppsviktsträning</li>\n<li>Dig som vill ha ringar med justerbara remmar</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Träningsringar</li>\n<li>Märke: Gymstick</li>\n<li>Modell: Power Rings</li>\n<li>Ingår: 2 ringar och 2 justerbara remmar med snabblås</li>\n<li>Maximal lastgräns: 140 kg</li>",
+    "efter": "<p>Träningsringarna Gymstick Power Rings används till kroppsviktsträning. I förpackningen ingår 2 ringar och 2 justerbara remmar med snabblås. Maximal användarvikt är 140 kg enligt tillverkaren.</p><h2>Passar för</h2><ul>\n<li>Dig som söker träningsringar för kroppsviktsträning</li>\n<li>Dig som vill ha ringar med justerbara remmar</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Träningsringar</li>\n<li>Märke: Gymstick</li>\n<li>Modell: Power Rings</li>\n<li>Ingår: 2 ringar och 2 justerbara remmar med snabblås</li>\n<li>Maximal användarvikt: 140 kg</li>"
+   }
+  },
+  "skal": "Live: ACTIVE, 'Power Rings', 61104/EAN 6430016905671, 499 kr, lager 173. 140 kg är entydigt för exakt EAN: elgiganten.se/product/.../gymstick-power-rings/261501 anger på svenska 'Max användarvikt: 140 kg', 'EAN-kod: 6430016905671', 'Inkl. 2 gymringar ... 2 justerbara remmar med spännen' (öppnad 2026-11-05); Kärkkäinen och prisradar.no anger samma 140 kg. Lägg Elgiganten i att_bekrafta som huvudkälla. Källan anger användarvikt, inte lastgräns; R4 säger 'tolka aldrig', och ringar kan belastas med extra vikt, så etiketten följer källan ('Maximal användarvikt') i meta, html och specifikation (som 'användarvikten' i 32060). Inledningen 'Power Rings är träningsringar' är cirkulär engelska (R11) och skrivs om i meta och html. Html-paret är ett sammanhängande stycke. Remlängd och ringdiameter rätt utelämnade (källorna går isär om remmen). Tidigare avvisningar (c_12, k_24h) hävs av v1.10."
+ },
+ {
+  "nr": 32084,
+  "id": "10593408057610",
+  "fil": "k_32g_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Bälte med kedja från Gymstick för att lägga till extra vikt vid dips och pull-ups. Rekommenderad maximal belastning är 80 kg enligt tillverkaren.",
+    "efter": "Med Gymstick Dip Belt och dess kedja kan du lägga till extra vikt vid dips och pull-ups. Rekommenderad maximal belastning är 80 kg enligt tillverkaren."
+   }
+  },
+  "skal": "Live: ACTIVE, 'Dip Belt', 61015/EAN 6430016900713, 289 kr, lager 445. 80 kg bekräftat för exakt EAN: prisma.fi/tuotteet/111289336 'Suositeltu maksimikuorma: 80 kg', tuotekoodi 6430016900713, 98 x 19 cm, kedja 90 cm, 0,75 kg; tradeinn (61015 i adressen) 'Empfohlene maximale Belastung: 80 kg', samma mått och vikt. Etiketten 'Rekommenderad maximal belastning' följer källan och står en gång med 'enligt tillverkaren' i html. Mått, kedjelängd och vikt från EAN-matchad källa (v1.6). Metans första mening saknade finit verb (R11/R12) och skrivs om utan den cirkulära formen 'Dip Belt är ett bälte'; 151 tecken. Material och färg rätt utelämnade (bara en källa). Tidigare avvisningar (k_11e, k_24i) hävs av v1.10."
+ },
+ {
+  "nr": 32089,
+  "id": "10636669092106",
+  "fil": "k_32h_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 'Hjulsats Tre Hjul', 101144-00019-0001/EAN 4250663106977, 199 kr, lager 95, productType Tillbehör. Diameter 9 cm, bredd 2 cm, användningsområdena och 'tre hjul i ett paket' står ordagrant. Ingen lastgräns i egen källa, och sökning på artikelnummer/EAN gav inget → 'Ej känd'-raden och meningen finns (v1.10). Underkändes i k_utlatande_11bc (9841) och k_19d som bärande reservdel; v1.10 omfattar bärande delar och hävs därför. Anmärkning till David: källan länkar användningsområdena till Gorilla Sports egna maskiner och saknar axel-/spårmått, så passformen mot andra maskiner kan inte styrkas. Texten lovar ingen passform utöver källans ord, men David kan välja att lägga till 'Kontrollera måtten mot din maskin' eller avvisa. Slitagemeningen och länkarna rätt utelämnade."
+ },
+ {
+  "nr": 32090,
+  "id": "10636693831946",
+  "fil": "k_32h_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Märke: GS</li>\n<li>Material: EVA-skum</li>",
+    "efter": "<li>Material: EVA-skum</li>"
+   }
+  },
+  "skal": "Live: ACTIVE, lager 102 (Svart 8, Rosa 35, Grön 59; övriga 0). 'Maximal belastning: 150kg' är en ren svensk rad med etikett och enhet i egen källa (R4) och står en gång med 'enligt tillverkaren' i html. Varianter: sju färger, 159 kr utom Ljusblå 99 kr; Mörkblå och Ljusblå har samma SKU och EAN (100813-00030-0001/4250663100982) men olika pris, och båda har lager 0. Det är samma artikel i olika färg och produkten har lager → får skrivas enligt v1.9; titel, SEO och text låser varken färg eller pris. Variantfelet hos leverantören bör rättas av David (datafel, inte textfel). Leverantören är 'Gorilla Sports Norden'; 'GS' är en del av produktnamnet och ingen källa säger att GS är märket, så raden 'Märke: GS' tas bort (som på Pegboard GS, 32091). Mått, material, inomhus/utomhus ordagrant. 'Hudvänligt' och rörlighetslöftena rätt utelämnade. Titelns kommatecken: 2 (ett i '23,5'), inom gränsen."
+ },
+ {
+  "nr": 32091,
+  "id": "10636705792266",
+  "fil": "k_32h_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 'Pegboard GS 110cm', 100953-00019-0001/EAN 4260438736957, 1699 kr, lager 61. Alla mått, antal hål, pegs, vikt, skruvar och färg står ordagrant. Hängprodukt där kroppsvikten hänger: v1.10 omfattar uttryckligen 'bärande/hängande delar', så den ska skrivas med 'Ej känd' och inte underkännas. Webbens 500 kg gäller en 102 x 30 cm-modell utan EAN-träff, alltså inte exakt modellen → 'Ej känd' är rätt; raden och meningen finns, inga monterings-, säkerhets- eller hållbarhetslöften. Underkännandena i k_utlatande_11bc (9854) och k_19e (väntade på Davids princip för hängprodukter) hävs av v1.10. 'Grymt alternativ', 'nästa nivå' och 'passar på alla träningsanläggningar' rätt utelämnade."
+ }
+]

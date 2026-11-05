@@ -1,0 +1,47 @@
+[
+ {
+  "id": "gid://shopify/Product/10581107835146",
+  "title": "Hi-Rise Parallettes",
+  "handle": "hi-rise-parallettes",
+  "status": "ACTIVE",
+  "tags": [
+   "Gymstick"
+  ],
+  "updatedAt": "2026-10-18T04:07:29Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Lyft din träning till nya höjder med <strong>Gymstick Hi-Rise Parallettes</strong>. Dessa mångsidiga träningsredskap är utformade för att ge dig stabilitet och djup i dina övningar, perfekt för allt från kroppsviktsövningar och dips till mer avancerade calisthenics-rörelser. Tillverkade med fokus på <strong>hållbarhet och ergonomi</strong>, erbjuder de en bekväm och säker träningsupplevelse för både nybörjare och erfarna atleter.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/10581109113098",
+  "title": "Multi-Training Door Gym",
+  "handle": "multi-training-door-gym",
+  "status": "ACTIVE",
+  "tags": [
+   "Gymstick"
+  ],
+  "updatedAt": "2026-10-18T04:08:55Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Med <strong>Gymstick Multi-Training Door Gym</strong> förvandlar du enkelt din dörröppning till ett komplett hemmagym. Denna mångsidiga träningsstation är perfekt för att bygga styrka och förbättra rörligheten genom en mängd olika övningar som pull-ups, armhävningar och dips. Tack vare sin robusta konstruktion och enkla installation kan du njuta av professionell träning hemma utan krångel.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/10581109408010",
+  "title": "Performance Board",
+  "handle": "performance-board",
+  "status": "ACTIVE",
+  "tags": [
+   "Gymstick"
+  ],
+  "updatedAt": "2026-10-24T12:46:26Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Gymstick Performance Board är den ultimata träningsutrustningen för att förbättra din <strong>balans</strong>, <strong>stabilitet</strong> och <strong>kärnstyrka</strong>. Med sin robusta konstruktion och halkfria yta är detta bräde perfekt för en mängd olika övningar, från grundläggande balansutmaningar till mer avancerade styrkepass. Integrera Performance Board i din dagliga träning för att stärka muskler du kanske inte ens visste att du hade och ta din fitnessresa till nästa nivå.</p>"
+ }
+]
