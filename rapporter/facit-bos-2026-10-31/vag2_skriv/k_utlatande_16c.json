@@ -1,0 +1,60 @@
+[
+ {
+  "nr": 7070,
+  "id": "10476178669834",
+  "fil": "k_16c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live-källan (ACTIVE, en variant Default Title, SKU 1031022144) stämmer med fakta. 'Shimano 105 Di2', 24 växlar och 'Shimano 105 Di2 hydrauliska' står ordagrant; inget påstående om mekanisk växling, batteri eller räckvidd (v1.7). En variant, så färgen Thundercloud låser inget (R3); inget pris eller storlek i titeln. 'Uthållighetscykling' stöds av 'uthållighetslandsvägscykling'. Nätkällan (Shimano) gav HTTP 403 vid öppning; Shimanos egna 105 Di2-sidor (road.shimano.com/105di2) och pressen bekräftar elektronisk 12-växlad 105 Di2, men texten påstår inte elektronisk växling, så webbkällan bär inget i texten. Dubbletten 6053 (nu en variant M/L / gray, annan SKU och pris 56 709 kr) är korrekt avvisad."
+ },
+ {
+  "nr": 7072,
+  "id": "10476214026506",
+  "fil": "k_16c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Motsägelsen hanteras rätt: källan anger 'Växlar: Shimano Ultegra Di2' men 'Bromsar: Shimano Ultegra Di1 hydrauliska'. Di1 finns inte och strider mot Di2, så bromsmodellen utelämnas och bara den entydiga delen 'hydrauliska' (skivbroms i ram/gaffelrad) används (R2). 'Shimano Ultegra Di2', 24 växlar, SLR 0 40 WheelSystem 40mm, CADEX Race GC 700x28c och fästpunkter för vattenflaska står ordagrant. '40 mm profil' kontrollerat: Giants egen sida för SLR 0 40 Disc anger fälghöjd 40 mm (giant-bicycles.com/se/slr-0-40-disc). En variant; färgen låser inget."
+ },
+ {
+  "nr": 7074,
+  "id": "10476246892810",
+  "fil": "k_16c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Dig som vill ha en triathloncykel, enligt tillverkaren",
+    "efter": "Dig som vill ha en cykel för triathlon"
+   }
+  },
+  "skal": "Fakta spårbara: 'SRAM Rival AXS (D2)', 'Antal växlar: 24', SRAM S-900 Aero hydrauliska skivbromsar, CADEX Aero 700x25c, hydreringssystem och bento box, fyra sadelstolpspositioner och 24 styrlägen. 24 växlar är rimligt: Giants sida för Trinity Advanced SL 2 anger dubbel vevuppsättning 35/48 (giant-bicycles.com/ie/bikes-trinity-advanced-sl-2027). R5: samma påstående (triathlon) bär 'enligt tillverkaren' två gånger (inledning och Passar för); en gång per påstående, så den andra tas bort. Anm.: att_bekrafta säger att källtexten saknar färg, men live-beskrivningen börjar med 'Landsvägscykel GIANT Trinity Advanced SL 2 Carbon/Blue Dragonfly' – färgen stöds alltså av källan. Gaffelraden 'helt komposit styrrör' är stel svenska men begriplig och lämnas."
+ },
+ {
+  "nr": 7075,
+  "id": "10476248531210",
+  "fil": "k_16c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Engelsk källa: 'Shifters: Shimano 105 Di2', 'Number of gears: 24', 'Brakes: Shimano 105 hydraulic' (utan Di2, skrivet så), Gavia Fondo 0 tubeless 700x32c (33.5mm) folding, fästpunkter för vattenflaska – allt ordagrant återgivet. Typordet Landsvägscykel enligt R7 (butikens live-ord för samma serie, t.ex. 7070). 'Road wheel' utelämnat; 'endurance' är en entydig del (R2) och skrivs 'enligt tillverkaren' en gång. Estniska storleksraden utelämnad. En variant; Meteorite Mist ur live-titeln. Nätkälla som för 7070 (403), ej bärande."
+ },
+ {
+  "nr": 7084,
+  "id": "10480050110730",
+  "fil": "k_16c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Dig som vill ha en triathloncykel, enligt tillverkaren",
+    "efter": "Dig som vill ha en cykel för triathlon"
+   }
+  },
+  "skal": "Fakta spårbara: 'Växelsystem: SRAM RED AXS E1', 'Antal växlar: 12', S-900 Aero hydrauliska, CADEX Aero 700x25c, vätskesystem och förvaringsbox, fyra sadelstolpspositioner och 24 styreinställningar, 'helt kompositstyrrör' (ordagrant). 12 växlar kontrollerat: Giants sida anger en klinga 'SRAM RED 1 E1 AXS, 48t' (1x12) (giant-bicycles.com/ie/bikes-trinity-advanced-sl-2027). R5: 'enligt tillverkaren' på samma triathlonpåstående två gånger; den andra tas bort. En variant; färgen ur live-titeln."
+ },
+ {
+  "nr": 6057,
+  "id": "10486710305034",
+  "fil": "k_16c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Växelsystem: Shimano 105 Di2', 24 växlar, 'Shimano 105 Di2 hydrauliska', SLR 2 50 Carbon Disc WheelSystem [F]50mm [R]50mm, Gavia Course 0 700x28c, däck upp till 32 mm och fästpunkter för flaskhållare står ordagrant. Leveranstidsmeningen stöds av taggen 'På beställning' (källtexten saknar ⏳-raden här, men taggen avgör, R13). En variant (Default Title, SKU 1074029106); 7089 med två SKU (S/M) är korrekt avvisad. 'Kolfiberhjul' följer av 'Carbon' i hjulnamnet. Nätkälla som för 7070 (403), ej bärande."
+ }
+]
