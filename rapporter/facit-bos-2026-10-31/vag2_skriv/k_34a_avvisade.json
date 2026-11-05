@@ -1,0 +1,57 @@
+[
+ {
+  "id": "10411476779274",
+  "nr": 34001,
+  "skäl": "R3: titeln säger Snöskor men källan beskriver ett fordon (tagg Pulkor/Sparkcykel, styre, lastkapacitet 50 kg, ålder 7+). Titel/typ får inte bytas för att komma förbi kontrollen. Webbkoll gjordes inte vidare."
+ },
+ {
+  "id": "10411673714954",
+  "nr": 34002,
+  "skäl": "Vibrationsplatta: utanför enligt profilen (utanfor_tills_vidare) och R6; källan motsäger dessutom modell (V20 i titeln, V10 i texten)."
+ },
+ {
+  "id": "10430254809354",
+  "nr": 34003,
+  "skäl": "Webbkoll: SKU KCAE-14 är Toorx Olympic EVO 14 kg i ljusgult (fitmax.it, MediaMarkt) medan live-titeln säger blå 12 kg. Titel och produkt motsäger varandra (R3); vikt och färg kan inte fastställas."
+ },
+ {
+  "id": "10461967188234",
+  "nr": 34004,
+  "skäl": "Egen källa motsäger titeln (mörkbrun mot havsgrön) och säger både att korgen medföljer ej och beskriver korgen. Webben ger oenhetliga uppgifter för artikel 19035 (hollandbikeshop: brun 18 l utan fäste; Basils egen sida: annan EAN/modell med fäste). Färg och vad som ingår är inte entydigt."
+ },
+ {
+  "id": "10462780424458",
+  "nr": 34005,
+  "skäl": "Webbkoll (artikel 104912, Union scooter sticker) gav ingen träff på modellen. Bara märke och vikt 0,01 kg i källan: under två entydiga fakta."
+ },
+ {
+  "id": "10462785896714",
+  "nr": 34006,
+  "skäl": "Webbkoll på EAN 6418016050287 och artikelnummer 15MU502800 gav ingen träff. Egen källa är maskinöversatt och tunn; produkttyp kan inte fastställas."
+ },
+ {
+  "id": "10470932807946",
+  "nr": 34007,
+  "skäl": "Kroppsanalysvåg med hälsoparametrar, batteri och elektronik: utanför enligt profilen (utanfor_tills_vidare) och R6."
+ },
+ {
+  "id": "10470983958794",
+  "nr": 34008,
+  "skäl": "Titeln (Frame ear) och texten (ramring) motsäger varandra. Webben (EAN 8590966390229) visar att GH-022 är ett växelöra (derailleur hanger), men typordet finns inte i butikens godkända typord och bytet av typ får inte göras här. Kompatibilitet är oklar (lång märkeslista utan modeller)."
+ },
+ {
+  "id": "10472235663626",
+  "nr": 34009,
+  "skäl": "Belysning med batteri/laddning (säkerhetsprodukt enligt uppdraget); titeln Greenline motsäger källans Compactline och källan har motsägande värden."
+ },
+ {
+  "id": "10472237170954",
+  "nr": 34010,
+  "skäl": "Webbkoll (Azimut Mini Alu, BELL53) gav ingen träff på modellen, bara andra märken. Live-titeln anger 5 mm men källan 35 mm; bara ett faktum (diameter 35 mm)."
+ },
+ {
+  "id": "10472240414986",
+  "nr": 34012,
+  "skäl": "Drivlinedel (kassett/frihjul) som bär last; titeln Tirr motsäger beskrivningen (kassettnav/kassett). Avvisas enligt uppdraget."
+ }
+]
