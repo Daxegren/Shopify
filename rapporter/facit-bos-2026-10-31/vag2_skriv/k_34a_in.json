@@ -1,0 +1,74 @@
+[
+ {
+  "id": "10411476779274",
+  "nr": 34001,
+  "titel_nu": "Snöskor STIGA Snow Kick Free, vit/svart",
+  "avvisningsskal": "R3: titeln säger \"Snöskor\" men källan beskriver ett fordon (taggar Pulkor/Sparkcykel; ram i aluminium/stål, styre 83-93 cm, lastkapacitet 50 kg, ålder 7+; maskinöversatt \"snowboardets sluttande stege\""
+ },
+ {
+  "id": "10411673714954",
+  "nr": 34002,
+  "titel_nu": "Vibrationsplatta TUNTURI Cardio Fit V20",
+  "avvisningsskal": "Vibrationsplatta: samma skäl som 10563. Källtexten motsäger sig själv: titeln säger V20 men texten säger Tunturi Cardio Fit V10, med funktioner oscillation och vibration, och texten skiljer sig från V"
+ },
+ {
+  "id": "10430254809354",
+  "nr": 34003,
+  "titel_nu": "TOORX Olympic EVO Kettlebell, blå, 12 kg",
+  "avvisningsskal": "Titeln anger blå och 12 kg, men SKU är KCAE-14 medan övriga Olympic EVO har SKU som motsvarar vikten (KCAE-16 = 16 kg, KCAE-18 = 18 kg, KCAE-20 = 20 kg). Källan säger varken vikt eller färg. Motsägand"
+ },
+ {
+  "id": "10461967188234",
+  "nr": 34004,
+  "titel_nu": "Framkorg BASIL Bremen Rattan Look FM, mörkbrun",
+  "avvisningsskal": "Källan motsäger sig: titeln säger mörkbrun men texten havsgrön, och texten säger både att cykelkorgen medföljer ej och beskriver korgen. Oklart om produkten är korgen eller bara fästet. Lyfts till han"
+ },
+ {
+  "id": "10462780424458",
+  "nr": 34005,
+  "titel_nu": "Scooter stickers Union Sticker",
+  "avvisningsskal": "Tunn källa utan faktagrund (bara namn, märke och vikt 0,01 kg); inga mått, antal eller motiv, och priset 1 459 kr är oförklarat."
+ },
+ {
+  "id": "10462785896714",
+  "nr": 34006,
+  "titel_nu": "Kork Start NATURAL",
+  "avvisningsskal": "Kork Start NATURAL: tunn och trasig källa. Användningen är maskinöversatt ('skrubba bort hal jord') och det enda andra är vad korken inte ska användas till (fästvalla); produkttypen går inte att fasts"
+ },
+ {
+  "id": "10470932807946",
+  "nr": 34007,
+  "titel_nu": "Weight HAMMER Body Screen TX",
+  "avvisningsskal": "Typordet är oklart (live Weight, engelskt; källan säger bara att den skannar din kropp, och ordet våg står inte i källan) och källan består av hälsoparametrar, hälsopoäng och mätmetoder (DSM-BIA, SMFI"
+ },
+ {
+  "id": "10470983958794",
+  "nr": 34008,
+  "titel_nu": "Frame ear Union GH-022",
+  "avvisningsskal": "Union GH-022 'Frame ear': titeln (Frame ear) och texten (ramring) motsäger varandra om vad delen är, och den anger kompatibilitet via en lång märkeslista utan modeller ('för olika modeller'). Delen si"
+ },
+ {
+  "id": "10472235663626",
+  "nr": 34009,
+  "titel_nu": "Ljussats AXA Greenline Set 15 Lux",
+  "avvisningsskal": "R3/R2: titeln säger Greenline Set 15 Lux men källtexten beskriver \"AXA Compactline Set 15 Lux\" (annan produktlinje) och har ett trasigt andra avsnitt med motsägande värden (brinntid 6 h / 4 h, laddnin"
+ },
+ {
+  "id": "10472237170954",
+  "nr": 34010,
+  "titel_nu": "Cykelklocka Azimut Mini 5 mm",
+  "avvisningsskal": "R3: live-titeln anger \"5 mm\" men källan säger \"diameter 35 mm\"; tunn källa (bara en mening, ett faktum utöver titeln). Tidigare utlåtande UNDERKÄND (9403): webbsökning på Azimut BELL53 gav ingen tillv"
+ },
+ {
+  "id": "10472240185610",
+  "nr": 34011,
+  "titel_nu": "Inner tube Continental Compact 14 DV 32/47-279/298",
+  "avvisningsskal": "Innerslang med motsägande dimension: titeln Compact 14 och ETRTO 32/47-279/298 mot källans \"Storlek: 26 tum\"; ventilen anges som DV i titeln men Schraderventil 34 mm i texten. Underkänd tidigare som 8"
+ },
+ {
+  "id": "10472240414986",
+  "nr": 34012,
+  "titel_nu": "Tirr SHIMANO MF-TZ500-7 7k 14-28",
+  "avvisningsskal": "Titeln 'Tirr' (frihjul/kassett) motsäger beskrivningen som kallar delen 'kassettnav' och 'kassett'. Drivlinedel (kassett/nav) som bär last; avvisas och uppgiften utelämnas."
+ }
+]

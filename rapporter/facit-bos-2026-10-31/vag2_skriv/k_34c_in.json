@@ -1,0 +1,74 @@
+[
+ {
+  "id": "10472324432138",
+  "nr": 34025,
+  "titel_nu": "Step board BH FITNESS",
+  "avvisningsskal": "Otillräcklig källa: livekällan är bara 'Produkten passar för BH Fitness' med en länk till en velotrainer/cykeltrainer och 'Tillverkaren är BH Fitness'. Ingen uppgift om mått, material eller användning"
+ },
+ {
+  "id": "10472334491914",
+  "nr": 34026,
+  "titel_nu": "Fälgskydd M-Wave Ringlock 29-33",
+  "avvisningsskal": "R3 tunn källa: källan är bara titeln; priset 6 779 kr och taggen Romet tyder på felklassad produkt (Ringlock är ett ramlås-namn), typen kan inte beläggas."
+ },
+ {
+  "id": "10472346190090",
+  "nr": 34027,
+  "titel_nu": "Stöd med bakre fäste för 26-29\" cykel",
+  "avvisningsskal": "R3 tunn källa: enda uppgiften \"Passar alla 26-29 tums cyklar\"; \"bakre fäste\" står bara i titeln. Priset är 0,00 kr (ofärdig produkt) och taggen Gymstick får inte röras. David bör besluta pris före tex"
+ },
+ {
+  "id": "10475517772042",
+  "nr": 34028,
+  "titel_nu": "TOORX Bröstbälte 5.3 kHz",
+  "avvisningsskal": "Tunn källa (R3): enda entydiga uppgiften är 'Frekvens: 5,3 KHz', som redan står i titeln; frekvensomfångsraden är trasig och Italien är ett ursprung (R5). Underkänd i g_utlatande_3 (nr 10547)."
+ },
+ {
+  "id": "10480054567178",
+  "nr": 34029,
+  "titel_nu": "Sangpomm CHRISTOPEIT Kettlebell 12kg",
+  "avvisningsskal": "Kettlebell Christopeit 12 kg: tunn källa, bara vikten i titeln och allmän reklamtext (ergonomiskt handtag, användningsområden); inga entydiga fakta om material eller mått, och webbsökning på artikelnu"
+ },
+ {
+  "id": "10494685315338",
+  "nr": 34030,
+  "titel_nu": "Skridskoskidor Peltonen Acadia SK 21 STIFF",
+  "avvisningsskal": "Tunn källa (R3): bara \"Ett lätt träningspass för amatören. Konstruktion .\" (trasig) samt pjäxrekommendation; modellbeteckningen SK 21 STIFF finns i titeln. Webbsökning (v1.6) gav ingen entydig specifi"
+ },
+ {
+  "id": "10494699110666",
+  "nr": 34031,
+  "titel_nu": "Skyddsplåt UNIPLAST Apple, lila",
+  "avvisningsskal": "Tunn källa: tom beskrivning, bara titeln. Webbsökning på EAN 4743128000045 och \"Uniplast Apple\" gav ingen träff som entydigt gäller modellen, så inga två entydiga fakta utöver titeln kan styrkas (vad "
+ },
+ {
+  "id": "10515745636618",
+  "nr": 34032,
+  "titel_nu": "Tricksparkcykel Versatyl S2S Edition Pro Scooter Krom/Svart",
+  "avvisningsskal": "Versatyl S2S Edition: titelns färg \"Krom/Svart\" motsäger källans \"Färg: svart-grå\" (R3), och källan nämner en \"sits i aluminium\" som inte hör till en stuntsparkcykel (trasig/maskinöversatt rad)."
+ },
+ {
+  "id": "10515754615050",
+  "nr": 34033,
+  "titel_nu": "Hjul för sparkcykel Union Credit V2 Pro Scooter Wheel 110mm Rosa",
+  "avvisningsskal": "Motsägande källa som webben inte löser: titeln anger Union Credit V2 Pro, texten säger \"Union Classic V2 Pro-hjul\" och vikten 236 g är Classics. Ingen webbsida med SKU 105829 eller rosa Credit V2 Pro "
+ },
+ {
+  "id": "10581097054474",
+  "nr": 34034,
+  "titel_nu": "Träningsslang Gymstick Aktiv med Dörrankare",
+  "avvisningsskal": "Tunn källa (R3): live-beskrivningen är en mening (\"levereras med dörrankare\") och inget annat utöver titeln, alltså bara ett entydigt faktum. Ingen webbkälla funnen som entydigt gäller Gymstick Aktiv "
+ },
+ {
+  "id": "10581106917642",
+  "nr": 34035,
+  "titel_nu": "Motionscykel GB3.0, Svart-Vit",
+  "avvisningsskal": "Motionscykel GB3.0 (Gymstick): källan har bara marknadsföringstext (robust, effektiv, stilren svart-vit design, hemmabruk) och ingen specifikation; bara ett entydigt faktum utöver titeln (hemmabruk). "
+ },
+ {
+  "id": "10581108457738",
+  "nr": 34036,
+  "titel_nu": "Latsdragstång med handtag",
+  "avvisningsskal": "Tunn källa (R3): bara att stången används för pulldowns och rows. Inga mått, material eller fäste, och kvalitetsord (robust, hög kvalitet) utan stöd. Ett entydigt faktum utöver titeln."
+ }
+]

@@ -1,0 +1,74 @@
+[
+ {
+  "id": "10472240709898",
+  "nr": 34013,
+  "titel_nu": "Inner tire CONTINENTAL Compact 8, 54-110, Dunlop",
+  "avvisningsskal": "Egen källa \"Storlek 26\"\" motsäger titelns ETRTO 54-110. Webben (EAN 4019238556216: Continental Compact Tube 8, 8 1/2x2, 54-110, Dunlop) visar att 26 sannolikt är ventillängd, men webbkällorna går isär"
+ },
+ {
+  "id": "10472244412682",
+  "nr": 34014,
+  "titel_nu": "Underhållsfett START Easy HF Quick Kick, kallt",
+  "avvisningsskal": "R3: START Easy HF Quick Kick, kallt: titeln \"Underhållsfett\" motsäger källan (skidgrepp, -5 till -15 °C, trasig text \"60 ml - 60 ml - 60 ml\"). Taggen Sparkcykel är fel. Samma skäl som 9328. Kvarstår a"
+ },
+ {
+  "id": "10472251719946",
+  "nr": 34015,
+  "titel_nu": "Innerdäck Continental 28\" AV 47/62-584/622",
+  "avvisningsskal": "Innerslang med motsägande dimension: titeln anger 28 tum och ETRTO 47/62-584/622, texten \"för 28 mm breda däck\"; 584 är 27,5 tum, 622 är 28/29 tum. Webbsökning bekräftar att 47/62-584/622 inte hör iho"
+ },
+ {
+  "id": "10472253522186",
+  "nr": 34016,
+  "titel_nu": "Korkstart Alpine natural med feize",
+  "avvisningsskal": "Källan är maskinöversatt och motsägande (cykelverktyg i texten, skidkork Start/15MU i märke och artikelnummer). Webbsökning på SKU 15MU502600 och EAN 6418016050263 gav ingen träff som beskriver produk"
+ },
+ {
+  "id": "10472257913098",
+  "nr": 34017,
+  "titel_nu": "Hantel GYMSTICK Hantel 35 cm, 2 kg, 30 mm",
+  "avvisningsskal": "Tunn källa (R3): beskrivningen är tom, bara titeln (35 cm, 2 kg, 30 mm). Webbsökning på GYMDB-2 gav ingen källa som entydigt gäller modellen (2026-11-05). Kvarstår avvisad."
+ },
+ {
+  "id": "10472271511818",
+  "nr": 34018,
+  "titel_nu": "Tunturi Eva lyftbälte Medium 105 cm",
+  "avvisningsskal": "R3: Tunturi Eva lyftbälte: titeln säger Medium 105 cm men leverantörstexten säger \"Large\" och \"Large 105cm\". Webbsökning (velomarket.ee, fitnessmarket.ee; produktkod 14TUSCL386) ger samma motsägelse ("
+ },
+ {
+  "id": "10472285864202",
+  "nr": 34019,
+  "titel_nu": "Sunglasses LIMAR ARGO MATT GRAY",
+  "avvisningsskal": "Tunn källa (R3): beskrivningen är tom (bara tomma HTML-element); enda uppgifterna är titel, märke Limar, SKU ECARGOCEUW och EAN 8032836528443. Faktakoll på nätet gav ingen sida med träff på SKU/EAN fö"
+ },
+ {
+  "id": "10472286290186",
+  "nr": 34020,
+  "titel_nu": "Dricksflaska LIV DOUBLESPRING 750CC BENCH",
+  "avvisningsskal": "Tunn källa (R3): live-källan är tom, bara titeln. Tidigare webbsökning (k_07c) gav ingen sida som entydigt gäller färgsättningen \"Bench\" (v1.6: utelämna). Oförändrat."
+ },
+ {
+  "id": "10472296808714",
+  "nr": 34021,
+  "titel_nu": "Viktskivor för CHRISTOPEIT SP 5000",
+  "avvisningsskal": "Tunn källa (R3): live-källan är bara \"2x5 kg\"; dessutom står produkten i handhavd_ids.txt (beslut 2026-11-02, ej hävt). Ingen webbkoll gjord."
+ },
+ {
+  "id": "10472300937482",
+  "nr": 34022,
+  "titel_nu": "TOORX Balansbräda, svart-grön",
+  "avvisningsskal": "R3 tunn källa: live har bara märket och \"Diameter: 39,5 cm\"; färgen svart-grön står bara i titeln. Ett faktum utöver titeln, regeln kräver två."
+ },
+ {
+  "id": "10472308834570",
+  "nr": 34023,
+  "titel_nu": "TOORX Fabric Bands Strong",
+  "avvisningsskal": "R3/R2: källan säger 'Setet innehåller 5 gymnastikbollar med styrkan Strong' medan titeln säger Fabric Bands (band). Källan motsäger titeln och produkttypen går inte att fastställa säkert; antalet 5 oc"
+ },
+ {
+  "id": "10472323023114",
+  "nr": 34024,
+  "titel_nu": "Hunddörr för AMLADCYKLER lådcykel, sidöppning",
+  "avvisningsskal": "Hunddörr (sidopanel) till Amladcyklers lådcykel: tillbehör till lastcykel och djurtransport, med passform bara för 'Ultimate Curve och Deluxe' och tunn källa (en mening). Kompatibilitet och användning"
+ }
+]

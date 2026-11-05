@@ -1,0 +1,74 @@
+[
+ {
+  "id": "10476252692746",
+  "nr": 35025,
+  "titel_nu": "Women's bike LIV Tempt 3. 29\" Tyrian Purple",
+  "avvisningsskal": "Dubblett: samma modell och färg som 10476230541578 (Mountainbike Liv Tempt 3, 29 tum, Tyrian Purple), som är skriven och aktiv. Källan är dessutom engelsk (inte översatt)."
+ },
+ {
+  "id": "10476275761418",
+  "nr": 35026,
+  "titel_nu": "Elcykel GIANT Talon E+, 29\" Asphalt Green",
+  "avvisningsskal": "Dubblett av b_43_utkast nr 8819 (Giant Talon E+, 29 tum, Asphalt Green): samma modell och färg."
+ },
+ {
+  "id": "10487969939722",
+  "nr": 35027,
+  "titel_nu": "Cykel KONA Lava Dome, Gloss Prism Dragonfly",
+  "avvisningsskal": "Dubblett: samma modell och färg som 7122 (Kona Lava Dome, Prism Dragonfly, id 10565633736970), som redan är skriven och aktiv. Går inte att ge unik titel utan påhittad skillnad; David avgör om det är "
+ },
+ {
+  "id": "10488246796554",
+  "nr": 35028,
+  "titel_nu": "Liv Avail AR 2 damcykel, Lavender Blush",
+  "avvisningsskal": "Dubblett: samma modell och färg som 10502528205066 (Damcykel Liv Avail AR 2 (2026), 700x32c, Lavender Blush), som är skriven och aktiv. Dessutom R3: två varianter med olika pris (Default Title 26 209 "
+ },
+ {
+  "id": "10488326258954",
+  "nr": 35029,
+  "titel_nu": "Gravelcykel för dam LIV Devote 0, Clear Sky",
+  "avvisningsskal": "Dubblett av b_42_utkast nr 8789 (Liv Devote 0, Clear Sky): samma modell och färg."
+ },
+ {
+  "id": "10494769529098",
+  "nr": 35030,
+  "titel_nu": "Treadmill BH FITNESS Nydo",
+  "avvisningsskal": "Dubblett av 10018 (samma modell Nydo, samma titel, mått och pris; endast SKU G6540 mot G6541 och motoruppgift 3,0 mot 2,0 hk skiljer). 10018 skrivs."
+ },
+ {
+  "id": "10507442946314",
+  "nr": 35031,
+  "titel_nu": "Damcykel ROMET Jolene 7.1, 27.5\" vit-blå",
+  "avvisningsskal": ""
+ },
+ {
+  "id": "10515737542922",
+  "nr": 35032,
+  "titel_nu": "Landsvägscykelsadlar Giant Road Pro",
+  "avvisningsskal": "Dubblett: samma produkt-id som 8068 (Giant Road Pro, sadel), som redan finns som utkast i b_22_utkast.json. Ska inte skrivas två gånger."
+ },
+ {
+  "id": "10515754385674",
+  "nr": 35033,
+  "titel_nu": "Stuntsparkcykel SOKE PRO, lila-röd",
+  "avvisningsskal": "SOKE PRO lila-röd: produkten har två varianter med olika pris (3369 kr och 2319 kr, variant \"1525-801113\") och beskrivningen anger ingen färg, så titelns \"lila-röd\" stöds inte av källan (R3). Dubblett"
+ },
+ {
+  "id": "10523486585098",
+  "nr": 35034,
+  "titel_nu": "Fixie EXCELSIOR Dandy, black",
+  "avvisningsskal": "Dubblett av produkt 6006 (Fixie Excelsior Dandy, black, SKU 02130080 mot 02130074): samma modell, färg och i praktiken samma källtext. Går inte att ge en unik titel, SEO-titel och meta utan påhittad s"
+ },
+ {
+  "id": "10523488190730",
+  "nr": 35035,
+  "titel_nu": "Damcykel Romet Gazela 0, 21 Växlar, Turkos",
+  "avvisningsskal": "Redan skriven: Damcykel Romet Gazela 0, 21 växlar, turkos finns i skrivfilen skriv_batch1_a_batch1_b_batch2_a_batch2_b.json (facit batch1_a). Dubblett."
+ },
+ {
+  "id": "10523488321802",
+  "nr": 35036,
+  "titel_nu": "Cykel ROMET Vintage Eco M, turkos",
+  "avvisningsskal": "Trolig dubblett (R12a): SKU 28181056-B har samma artikelkod och pris (6 789 kr) som redan skrivna 10472291008778 (Damcykel Vintage Eco D, Turkos, SKU 28181056-A). M/D går inte att avgöra ur källorna. "
+ }
+]

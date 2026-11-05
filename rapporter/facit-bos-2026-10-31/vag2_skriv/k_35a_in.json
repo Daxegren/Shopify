@@ -1,0 +1,74 @@
+[
+ {
+  "id": "10462773838090",
+  "nr": 35001,
+  "titel_nu": "Damcykel LIV Flourish 3, Gunmetal Black",
+  "avvisningsskal": "Dubblett: samma modell och färg som 10472256831754 (Damcykel Liv Flourish 3, 700x38c, Gunmetal Black), som är skriven och aktiv (taggen texter-klara). Källan kallar dessutom modellen 'Flourish FS 3' m"
+ },
+ {
+  "id": "10462783897866",
+  "nr": 35002,
+  "titel_nu": "Träningshandskar TOORX Professional Gloves, svart-grå",
+  "avvisningsskal": "Möjlig dubblett av redan skriven produkt: samma modell och färg som 10472305393930 (Träningshandskar Toorx Professional Gloves, Svart och Grå; SEO och texter-klara live). Sammanslagningsplanen (grupp "
+ },
+ {
+  "id": "10462832001290",
+  "nr": 35003,
+  "titel_nu": "Gravelcykel KONA Sutra LTD 29\" Gloss Bone Vit",
+  "avvisningsskal": "Dubblett: Kona Sutra LTD 29 tum Gloss Bone (Vit) är samma modell och färg som nr 8784 (id 10471133675786, utkast i b_42_utkast.json), som behålls."
+ },
+ {
+  "id": "10471057719562",
+  "nr": 35004,
+  "titel_nu": "Landsvägscykel Giant TCR Advanced 2 PC, Carbon",
+  "avvisningsskal": "Redan skriven: Landsvägscykel Giant TCR Advanced 2 PC (Carbon) finns i skrivfilen skriv_batch1_a_batch1_b_batch2_a_batch2_b.json (facit batch1_a), butiken har redan standardtexten. Dubblett. Observera"
+ },
+ {
+  "id": "10472232943882",
+  "nr": 35005,
+  "titel_nu": "Set med cykellampor AXA Niteline 44-R",
+  "avvisningsskal": "Dubblett (R12a) av redan skriven aktiv produkt 10475622400266 (nr 9060, \"Ljussats AXA Niteline 44-R, USB\", texter-klara): samma modell Niteline 44-R."
+ },
+ {
+  "id": "10472233566474",
+  "nr": 35006,
+  "titel_nu": "Handpump Giant Control Mini Road+, Svart, 160 psi",
+  "avvisningsskal": "Redan skriven: Handpump Giant Control Mini Road+ ingår i pilotens 20 produkter (pilot-20-original.json) och har standardtext i butiken. Pilotens 20 ändras inte i vågorna. Dubblett."
+ },
+ {
+  "id": "10472236876042",
+  "nr": 35007,
+  "titel_nu": "Cykel ROMET Wagant 4, blå",
+  "avvisningsskal": "Dubblett av 6133 (Hybridcykel Romet Wagant 4, blå, SKU 2328727 mot 2328726): samma modell, färg och i praktiken samma källtext. Går inte att ge unik titel, SEO-titel och meta utan påhittad skillnad. B"
+ },
+ {
+  "id": "10472237957386",
+  "nr": 35008,
+  "titel_nu": "Innerslang Continental 26 tum, PV 60 mm, 47/62-559",
+  "avvisningsskal": "Redan skriven: Innerslang Continental 26 tum, PV 60 mm, 47/62-559 finns i skrivfilen skriv_batch1_a_batch1_b_batch2_a_batch2_b.json (facit batch1_b). Dubblett."
+ },
+ {
+  "id": "10472250474762",
+  "nr": 35009,
+  "titel_nu": "Cykellåskedja M-Wave C 10.9-360, 10 mm, 900 mm",
+  "avvisningsskal": "Redan skriven: live-produkten har redan ny titel (Cykellåskedja M-Wave C 10.9-360, 10 mm, 900 mm), SEO-titel, meta och beskrivning med standardblock. Dubblett av tidigare arbete, skrivs inte om."
+ },
+ {
+  "id": "10472269840650",
+  "nr": 35010,
+  "titel_nu": "Damcykel LIV Flourish FS 2, Eclipse",
+  "avvisningsskal": ""
+ },
+ {
+  "id": "10472288190730",
+  "nr": 35011,
+  "titel_nu": "Herrcykel ROMET Orkan M, svart-guld",
+  "avvisningsskal": "R3: titeln anger \"svart-guld\" men varianterna L / black och XL / black och källan nämner ingen guldfärg; källan motsäger titeln. Trolig dubblett av 9214 (Orkan M svart), som skrivs i denna batch."
+ },
+ {
+  "id": "10472293433610",
+  "nr": 35012,
+  "titel_nu": "Pakethållare M-Wave SP-Quick för Sadelstolpe, 9 kg",
+  "avvisningsskal": "Dubblett: Pakethållare M-Wave SP-Quick för sadelstolpe, 9 kg (SKU 440170) är redan skriven (skriv_batch1_a_batch1_b_batch2_a_batch2_b.json, texten ligger redan i butiken med Passar för, Specifikatione"
+ }
+]

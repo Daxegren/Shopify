@@ -1,0 +1,38 @@
+[
+ {
+  "id": "10593396949258",
+  "nr": 34037,
+  "titel_nu": "Aktiv Hantelstång, Svart",
+  "avvisningsskal": "Aktiv Hantelstång: hantel-/skivstång för belastning (last). Titeln säger hantelstång men taggen är Pull-up, så produkttypen är oklar; inga mått eller maxbelastning. Tas för hand med Davids ja."
+ },
+ {
+  "id": "10605358055690",
+  "nr": 34038,
+  "titel_nu": "Griptape Ethic Basic",
+  "avvisningsskal": "Redan skriven: produkten har i butiken redan ny titel och text (Griptape Ethic Basic). Källan är tunn och saknar mått."
+ },
+ {
+  "id": "10624084148490",
+  "nr": 34039,
+  "titel_nu": "Boxningssäck TOORX Fastball för WBX-70",
+  "avvisningsskal": "Källan är bara 'Tillverkaren är Toorx' (R3): noll fakta utöver titeln. Webbkoll hittade ingen sida för 'Fastball WBX-70'; WBX-70 förekommer bara som Power Tower i paket (SKU KIT-PALLAWBX-70), så ingen"
+ },
+ {
+  "id": "10635791565066",
+  "nr": 34040,
+  "titel_nu": "Handtag GIANT Tactal Grip, Svart",
+  "avvisningsskal": "Tunn källa (R3): egen källa helt tom (bara titel). Faktakoll på nätet gav bara två uppgifter: längd 135 mm och svart färg (titeln). Övrig webbtext (polymer, vibrationsdämpning) finns hos återförsäljar"
+ },
+ {
+  "id": "10636716376330",
+  "nr": 34041,
+  "titel_nu": "Adduktor Tränare",
+  "avvisningsskal": "Tunn källa (R3): texten beskriver bara adduktorernas anatomi och löpning/skaderisk; inga mått, material, vikt eller beskrivning av vad redskapet är. Endast en entydig uppgift utöver titeln (\"träna add"
+ },
+ {
+  "id": "10656690274570",
+  "nr": 34042,
+  "titel_nu": "Sittdyna för baksäte med ryggstöd CARGOBIKE of Sweden Flex/Delight",
+  "avvisningsskal": "R3, tunn källa och trasigt pris: källan säger bara \"Passar modellerna Cargobike of Sweden Flex och Delight\" (typ och kompatibilitet, inga mått eller material), och varianten kostar 9,00 kr (SKU 1521-3"
+ }
+]

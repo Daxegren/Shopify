@@ -1,0 +1,62 @@
+[
+ {
+  "id": "10541369622794",
+  "nr": 35037,
+  "titel_nu": "Flaskhållare GIANT Proway, Svart/Neongrön",
+  "avvisningsskal": "Dubblett av 9438 i samma batch (Giant ProWay, svart/neongrön, plast, 45 g, 500-750 ml). SKU 490000074 och pris 109 kr mot 9438:s SKU 490000072 och 59 kr; ingen färg- eller modellskillnad i källan. Tid"
+ },
+ {
+  "id": "10541369721098",
+  "nr": 35038,
+  "titel_nu": "Flaskhållare GIANT Proway, Svart/Neongrön",
+  "avvisningsskal": ""
+ },
+ {
+  "id": "10548290978058",
+  "nr": 35039,
+  "titel_nu": "Herrcykel ROMET Wagant 8, svart",
+  "avvisningsskal": "Dubblett av 6144 (Herrcykel Romet Wagant 8, svart, SKU 28190608-A mot 28210609-A): samma modell, färg och i praktiken samma källtext. Går inte att ge unik titel, SEO-titel och meta utan påhittad skill"
+ },
+ {
+  "id": "10623405523210",
+  "nr": 35040,
+  "titel_nu": "Lateral Pull Down Bar",
+  "avvisningsskal": "Tunn källa (R3): bara att stången tränar rygg, axlar och armar. Inga mått, material eller fäste. Nära dubblett av 9917 (som har längd 110 cm) utan egen särskiljande uppgift."
+ },
+ {
+  "id": "10636601655562",
+  "nr": 35041,
+  "titel_nu": "Boxningssäck MAXXUS Vatten & Luft 100cm/26kg",
+  "avvisningsskal": "R3: titeln anger 100 cm men specifikationen i källan anger längd 120 cm (motsägelse mellan titel och källa); kan inte skrivas utan att gissa. Möjlig dubblett av 9720 \"Boxningssäck Excalibur Workout 10"
+ },
+ {
+  "id": "10636651233546",
+  "nr": 35042,
+  "titel_nu": "Curlstångspaket E Series 30kg",
+  "avvisningsskal": ""
+ },
+ {
+  "id": "10636706349322",
+  "nr": 35043,
+  "titel_nu": "Viktskivor Bumper Color 51 mm, 5–25 kg",
+  "avvisningsskal": "Redan skriven: Viktskivor Bumper Color 51 mm, 5–25 kg ligger i skriv_batch1 och live har vår text (standardblock, SEO och meta, plus en kvarlämnad Vanliga frågor-sektion). Dubblett av egen text (R12a/"
+ },
+ {
+  "id": "10636715163914",
+  "nr": 35044,
+  "titel_nu": "Vristband Ankelband Läder 34cm",
+  "avvisningsskal": "Dubblett (R12a): samma modell (konstläder, 34 cm, fem hål, 120 kg) som redan skrivna aktiva 10636691013898 \"Ankelband för Kabelmaskin i Syntetiskt Läder, 34 cm\" (texter-klara)."
+ },
+ {
+  "id": "10636737184010",
+  "nr": 35045,
+  "titel_nu": "Viktskivor Trigrip 51 mm, 6 x 5 kg, Gjutjärn med Gummi",
+  "avvisningsskal": "Redan skriven: live har vår text (standardblock, SEO och meta) med en kvarlämnad \"Vanliga frågor\"-sektion efter blocket och utan taggen texter-klara. Dubblett av egen text (R12a/R15); inte en ny produ"
+ },
+ {
+  "id": "10636758286602",
+  "nr": 35046,
+  "titel_nu": "Curlstångspaket Chrome 35 kg med Krommade Viktskivor",
+  "avvisningsskal": "Curlstångspaket Chrome 35 kg: redan skriven (live-texten har vår Passar för/Specifikationer och standardblocket; verifiering_facit30.md anger OK). Dubblett av egen text (R12a/R15)."
+ }
+]
