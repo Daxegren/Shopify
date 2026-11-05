@@ -1,0 +1,74 @@
+[
+ {
+  "id": "10588451471626",
+  "nr": 10603,
+  "titel_nu": "Viktväska TUNTURI Platinum Bulgarian Bag, 10 kg",
+  "skäl": "R3: två riktiga varianter med olika SKU och pris (25TUPLA092 1 499 kr, 25TUPLA091 739 kr) som bara heter som sin SKU; källan anger ingen vikt men titeln låser 10 kg. v1.7 ändrar inget (olika SKU). Ingen tagg texter-klara."
+ },
+ {
+  "id": "10588451504394",
+  "nr": 10589,
+  "titel_nu": "Heavy bag TUNTURI Platinum Bulgarian Bag, 15 kg",
+  "skäl": "R3: två riktiga varianter med olika SKU och pris (25TUPLA093 1 579 kr, 25TUPLA094 1 669 kr); källan anger ingen vikt men titeln låser 15 kg. v1.7 ändrar inget."
+ },
+ {
+  "id": "10588451602698",
+  "nr": 10541,
+  "titel_nu": "TUNTURI Platinum Slam Ball, 6 kg",
+  "skäl": "R3: live-kontroll visar en Default Title (SKU 25TUPLA096, 369 kr) men dessutom riktiga varianter med olika SKU (25TUPLA097 och 25TUPLA096, 319 kr); v1.7 gäller bara samma SKU, så produkten avvisas. Källan anger heller ingen vikt (bara diameter 28 cm och PVC) men titeln låser 6 kg."
+ },
+ {
+  "id": "10593398554890",
+  "nr": 3265,
+  "titel_nu": "2kg Dumbbell Bar",
+  "skäl": "R3/R4: live visar en variant '2' (SKU DB-2, 229 kr) utan förklaring; stång för viktbelastning, ingen svensk ordagrann lastgräns, inga mått. Tas för hand med Davids ja."
+ },
+ {
+  "id": "10611406242058",
+  "nr": 3275,
+  "titel_nu": "Active 10kg Vinyl Dumbbell Set",
+  "skäl": "R3: två riktiga varianter med olika SKU och pris (72022-10 319 kr, 72022-15 419 kr) medan titeln låser 10 kg. Hantelset, viktprodukt. v1.7 ändrar inget."
+ },
+ {
+  "id": "10611414237450",
+  "nr": 3276,
+  "titel_nu": "4-Station Multi Gym",
+  "skäl": "R3: 38 varianter med olika SKU (PRO-540M m.fl.) och priser 419–149 989 kr, alltså olika produkter under en titel. v1.7 ändrar inget."
+ },
+ {
+  "id": "10611415220490",
+  "nr": 3277,
+  "titel_nu": "Aerobic Bar 10kg",
+  "skäl": "R3: fem varianter med olika SKU och pris (61051-3 till 61051-10, 399–1 019 kr) medan titeln låser 10 kg."
+ },
+ {
+  "id": "10611418398986",
+  "nr": 3278,
+  "titel_nu": "Bumper Plate 10kg - single",
+  "skäl": "R3: fem varianter med olika SKU och pris (BP-5 till BP-25, 459–1 099 kr) medan titeln låser 10 kg."
+ },
+ {
+  "id": "10611419054346",
+  "nr": 3279,
+  "titel_nu": "Comfort Seat",
+  "skäl": "R3: sju varianter med olika SKU (SB-CS m.fl.) och priser 449–12 999 kr, olika produkter under en titel."
+ },
+ {
+  "id": "10611424854282",
+  "nr": 10128,
+  "titel_nu": "GX3.0 Crosstrainer",
+  "skäl": "R3: fem varianter med olika SKU (CT-GX3.0 till CT-PRO20.0) och priser 5 499–28 999 kr; titeln låser GX3.0."
+ },
+ {
+  "id": "10611433537802",
+  "nr": 3281,
+  "titel_nu": "Pro Chrome Hantel 0,5kg - enkel",
+  "skäl": "R3: 14 varianter med olika SKU och pris (61072-0,5 till SET, 79–10 599 kr) medan titeln låser 0,5 kg."
+ },
+ {
+  "id": "10611442450698",
+  "nr": 9942,
+  "titel_nu": "Wrist Support 2.0",
+  "skäl": "R3/R5: en variant (Default, SKU 63068, 79 kr) men live-källan är bara reklam med skade- och stödpåståenden (R5) och saknar storlek, material, hand; ingen fakta att skriva. Webbkoll: ingen entydig källa för exakt Wrist Support 2.0 hittades (bara Wrist Support 1.0 hos Proshop), så inget tillfört (v1.6)."
+ }
+]
