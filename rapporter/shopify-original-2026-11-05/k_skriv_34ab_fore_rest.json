@@ -1,0 +1,109 @@
+[
+ {
+  "id": "gid://shopify/Product/10472257913098",
+  "title": "Hantel GYMSTICK Hantel 35 cm, 2 kg, 30 mm",
+  "handle": "hantel-gymstick-hantel-35-cm-2-kg-30-mm-gymdb-2",
+  "status": "ACTIVE",
+  "tags": [
+   "Gymstick",
+   "hantelstång",
+   "Hantlar",
+   "Konditionsträning & Fitness",
+   "Velomarket"
+  ],
+  "updatedAt": "2026-10-12T03:26:35Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": ""
+ },
+ {
+  "id": "gid://shopify/Product/10472285864202",
+  "title": "Sunglasses LIMAR ARGO MATT GRAY",
+  "handle": "sunglasses-limar-argo-matt-gray-ecargoceuw",
+  "status": "ACTIVE",
+  "tags": [
+   "Limar",
+   "Solglasögon",
+   "Velomarket"
+  ],
+  "updatedAt": "2026-10-26T03:44:21Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div class=\"lRu31\"><span class=\"HwtZe\" lang=\"et\"><span class=\"jCAhz ChMk\"></span></span></div>"
+ },
+ {
+  "id": "gid://shopify/Product/10472286290186",
+  "title": "Dricksflaska LIV DOUBLESPRING 750CC BENCH",
+  "handle": "dricksflaska-liv-doublespring-750cc-bench-480000363",
+  "status": "ACTIVE",
+  "tags": [
+   "Flaska & Hållare",
+   "Flaskor och hållare",
+   "Liv",
+   "Velomarket"
+  ],
+  "updatedAt": "2026-09-28T04:31:03Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": ""
+ },
+ {
+  "id": "gid://shopify/Product/10472296808714",
+  "title": "Viktskivor för CHRISTOPEIT SP 5000",
+  "handle": "viktskivor-f-r-christopeit-sp-5000-30-9388",
+  "status": "ACTIVE",
+  "tags": [
+   "Christopeit",
+   "Konditionsträning & Fitness",
+   "Velomarket",
+   "viktskivor"
+  ],
+  "updatedAt": "2026-10-12T04:05:36Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>2x5 kg</div>"
+ },
+ {
+  "id": "gid://shopify/Product/10472300937482",
+  "title": "TOORX Balansbräda, svart-grön",
+  "handle": "toorx-balansbr-da-svart-gr-n-ahf-022",
+  "status": "ACTIVE",
+  "tags": [
+   "Konditionsträning & Fitness",
+   "Toorx",
+   "Velomarket"
+  ],
+  "updatedAt": "2026-09-28T05:04:33Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Tillverkaren är <strong>Toorx</strong>.<br><br>\n</div><ul><li>Diameter: 39,5 cm</li></ul><div><br></div>"
+ },
+ {
+  "id": "gid://shopify/Product/10472308834570",
+  "title": "TOORX Fabric Bands Strong",
+  "handle": "toorx-fabric-bands-strong-ahf-268",
+  "status": "ACTIVE",
+  "tags": [
+   "gummiband",
+   "Konditionsträning & Fitness",
+   "Toorx",
+   "Velomarket"
+  ],
+  "updatedAt": "2026-10-19T04:28:15Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Setet innehåller 5 gymnastikbollar med styrkan Strong.<br><br>Tillverkaren är Toorx.<br><br>\n</div><ul><li>Mått: 7,5 x 75 cm</li></ul><div><br></div>"
+ }
+]
