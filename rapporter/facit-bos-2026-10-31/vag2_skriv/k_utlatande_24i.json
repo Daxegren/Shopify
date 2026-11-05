@@ -1,0 +1,34 @@
+[
+ {
+  "nr": 24161,
+  "id": "10636628066570",
+  "fil": "k_24i_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live-källan har \"Maximal belastning: 280kg\" (svensk rad, etikett, enhet) i egen beskrivning; står en gång enligt tillverkaren i html. Längd 241,5 cm, stålkabel med plastbeläggning och \"säljs en och en\" ordagrant i källan. Ingen maskinmodell eller passform påstås (källan säger bara Reservdel för Latsdrag Kabelstation med länk till gorillasports.se; BOS har ingen produkt med det namnet). En variant, ingen leveranstidstagg, ingen dubblett. skrivfil_kontroll 0 fel."
+ },
+ {
+  "nr": 24162,
+  "id": "10636670894346",
+  "fil": "k_24i_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live-källan har \"Maximal belastning: 280kg\" under både kort (182 cm) och lång (241,5 cm) kabel; \"280 kg per kabel enligt tillverkaren\" en gång är troget. Säljs endast i paket. Ingen passform mot maskin påstås. En variant, ingen leveranstidstagg, ingen dubblett."
+ },
+ {
+  "nr": 24163,
+  "id": "10665232367882",
+  "fil": "k_24i_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Alla specifikationer stämmer med live-källan, inkl. \"Lastkapacitet: 110 kg\" en gång enligt tillverkaren. Tagg På beställning finns och leveranstidsmeningen står med. Inga barn-, säkerhets- eller förar-/lastinnehållspåståenden; familjeäventyr och marknadsord utelämnade. Märke som i tidigare skrivna Cargobike-titlar. En variant (SKU 1280)."
+ },
+ {
+  "nr": 24164,
+  "id": "10676713586954",
+  "fil": "k_24i_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Alla specifikationer stämmer med live-källan, inkl. \"Lastkapacitet: 180 kg\" en gång enligt tillverkaren. Tagg På beställning och leveranstidsmening finns. Inga barn-, säkerhets- eller lastinnehållspåståenden. Rätt annons: skapad 2026-10-22 12:49:37, två sekunder före dubbletten 24165 (10676713652490); båda SKU 1240, 9 bilder, identisk beskrivning, så den äldsta behålls (David 2026-11-05). 24165 hålls; prisskillnad 75 999/76 149 kr rörs inte."
+ }
+]

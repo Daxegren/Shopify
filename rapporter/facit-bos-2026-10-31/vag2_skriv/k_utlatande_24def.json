@@ -1,0 +1,138 @@
+[
+ {
+  "nr": 24097,
+  "id": "10472246870282",
+  "fil": "k_24d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "eLex 26\"-28\", svart",
+    "efter": "eLex, 26–28 tum, Svart"
+   }
+  },
+  "skal": "Källan: \"Maximal lastkapacitet 40 kg\" (svensk rad, etikett och enhet), en gång enligt tillverkaren i meta och i html. Texten anger inte vad lasten avser. Stabilitetspåståendet och den otydliga raden om eftermonteringsstöd 0699-40 är rätt utelämnade. Titeln skrivs som syskonen Hebie Fox I (24061, 24094): \"26–28 tum\" och färgen med stor bokstav. Mittmontering och färg kommer från live-titeln, som i tidigare godkända texter."
+ },
+ {
+  "nr": 24098,
+  "id": "10472248148234",
+  "fil": "k_24d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Källan: \"Lastkapacitet: 150 kg\". Texten säger inte vad lasten omfattar (förare, passagerare). Att cykeln transporterar personer och passar familjer med 1–2 barn är rätt utelämnat: det finns inget om barnsits eller säkerhet. Produkten är en el-lastcykel och ingen barnprodukt, så R6 gäller inte. Två \"enligt tillverkaren\" i html (räckvidd och last), vilket är högst tillåtet. Taggen På beställning finns och leveranstidsmeningen står med. \"Hjulvikt 48,5 kg\" och den trasiga däckraden är rätt utelämnade (R2). Ingen dubblett i butiken."
+ },
+ {
+  "nr": 24100,
+  "id": "10472250114314",
+  "fil": "k_24d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": ", 25 l, matt svart",
+    "efter": ", 25 l, Matt Svart"
+   },
+   "seo_title": {
+    "fore": "25 l, svart",
+    "efter": "25 l, Svart"
+   }
+  },
+  "skal": "Källan: \"maximal lastkapacitet på 10 kg\" och \"maximal vikt på 10 kilo\", samma värde två gånger, i löptext med etikett. Typordet Framkorg är källans eget (\"Denna framkorg\", \"Portland-framkorgen\"). Färgen skrivs med stor bokstav, som i butikens Basil-titlar. Syskonet 24062 (SKU 50413) är skrivet utan färg och är en annan artikel; titel och SEO är fortfarande unika."
+ },
+ {
+  "nr": 24104,
+  "id": "10472251228426",
+  "fil": "k_24d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "MIK, svart",
+    "efter": "MIK, Svart"
+   },
+   "seo_title": {
+    "fore": "MIK, svart",
+    "efter": "MIK, Svart"
+   }
+  },
+  "skal": "Källan: \"Maxvikt: 10 kg\". Typordet Cykelkorg är källans eget (\"praktisk cykelkorg\"). Byte från Bagagekorg är belagt (R7). Järn, 14 liter, mått och MIK-adapter står ordagrant. Bara färgens versal rättas."
+ },
+ {
+  "nr": 24106,
+  "id": "10472251851018",
+  "fil": "k_24d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "28-32 l, brun",
+    "efter": "28–32 l, Brun"
+   },
+   "seo_title": {
+    "fore": "28-32 l, brun",
+    "efter": "28–32 l, Brun"
+   },
+   "meta": {
+    "fore": "Maxvikt 10 kg totalt enligt tillverkaren.",
+    "efter": "Maxvikt 10 kg totalt, 5 kg per väska, enligt tillverkaren."
+   }
+  },
+  "skal": "Källan: \"Maxvikt: 10 kg totalt, max 5 kg per väska.\" Html återger raden ordagrant. Metan hade bara \"10 kg totalt\", vilket kunde läsas som 10 kg i en väska. Gränsen per väska läggs därför till (meta 150 tecken). \"Vattentät polyester\" står ordagrant i källan och hade fått stå med enligt tillverkaren. Att den är utelämnad är försiktigt och godtas. Typordet Cykelväska är källans eget (\"Cykelväskan är kompakt\"). Den grå 18072 är DRAFT och har en annan färg, och City MIK (18365) är en annan modell, så ingen dubblett."
+ },
+ {
+  "nr": 24107,
+  "id": "10472268955914",
+  "fil": "k_24d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Se sidan Frakt för övriga länder.</p>",
+    "efter": "Se sidan Frakt för övriga länder. Beställningsvaror kan ta upp till en vecka längre.</p>"
+   }
+  },
+  "skal": "Källan säger \"Vuxentrecylkel\" och \"trehjuling\". Det är en trehjuling för vuxna och ingen barnprodukt, så R6 gäller inte. Typordet Trehjuling är källans eget och ersätter det engelska Tricycle. Det skiljer sig från Eltrehjuling (AM_LIGHTWEIGHT), som är en annan produkt. Märket Amladcykler stavas som leverantörsfältet. Källan: \"Lastkapacitet: 120 kg\". Texten anger inte vad lasten gäller. Fel: produkten har taggen På beställning, men leveranstidsmeningen saknas (R13/v1.8). Den läggs till."
+ },
+ {
+  "nr": 24110,
+  "id": "10472294547722",
+  "fil": "k_24e_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Källan: \"Lastkapacitet: 10 kg.\" En gång enligt tillverkaren i löptext. Specifikationsraden är samma påstående. \"Tillverkad i Tyskland\" är rätt utelämnat (R5, ursprung). Typordet Sadelstolpsrack kommer från live-titeln. Märket skrivs Racktime (live RACKTIME)."
+ },
+ {
+  "nr": 24112,
+  "id": "10472296153354",
+  "fil": "k_24e_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Dragkroksmonterat cykelställ för upp till fyra cyklar. Peruzzo Siena har en maximal",
+    "efter": "<p>Peruzzo Siena monteras på bilens dragkrok och har fästen för upp till fyra cyklar. Stället har en maximal"
+   }
+  },
+  "skal": "Källan: \"Maximal lastkapacitet: 60 kg\". En gång enligt tillverkaren i meta och i html. \"Typgodkänd\" (tre ställen i källan) är utelämnat, vilket är försiktigt och godtas (R5). \"Maximal vikt per hjul: 15 kg\" är rätt utelämnad, eftersom källan säger \"hjul\" om cyklar (R2). Taggen På beställning finns och leveranstidsmeningen står med. Rättat: den första meningen saknade verb (R11)."
+ },
+ {
+  "nr": 24114,
+  "id": "10472522023178",
+  "fil": "k_24e_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Avtagbar cykelkorg på 23 liter med bas i bambu. Basil Nordland MIK har en",
+    "efter": "<p>Basil Nordland MIK rymmer 23 liter och är tillverkad i stål med en bas i bambu. Den avtagbara korgen har en"
+   }
+  },
+  "skal": "Källan: \"Maximal lastkapacitet: 10 kg\". Live-titelns färg \"svart/trä\" är rätt struken, eftersom källan bara säger bas i bambu. \"Slitstarkt\", \"extra säkerhet\" och \"snabbt och säkert\" är rätt utelämnade (R5). Rättat: den första meningen saknade verb (R11)."
+ },
+ {
+  "nr": 24126,
+  "id": "10554354139402",
+  "fil": "k_24f_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Maxvikt: 5 kg (enligt tillverkaren)</li>",
+    "efter": "<li>Maxvikt: 5 kg enligt tillverkaren</li>"
+   }
+  },
+  "skal": "Källan: \"Maxvikt: 5 kg\" (svensk rad med etikett och enhet). Metan har ingen lastgräns, vilket är tillåtet. Html återger värdet en gång. Parentesen tas bort, så att formen blir densamma som i 24062 och de andra texterna. \"Vattentät (IPX 3)\", \"skyddade\" och \"passar nästan alla (el)cyklar\" är rätt utelämnade. Färgen kommer bara från titeln."
+ }
+]
