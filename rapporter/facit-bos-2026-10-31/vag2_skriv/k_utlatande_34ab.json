@@ -1,0 +1,93 @@
+[
+ {
+  "nr": 34011,
+  "id": "10472240185610",
+  "fil": "k_34a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 'Inner tube Continental Compact 14 DV 32/47-279/298', VMCO0181081/EAN 4019238556254, 89 kr, lager 148, en variant. Egen källa motsäger titeln ('Schraderventil 34 mm', 'Storlek: 26 tum' mot DV och 279/298). Webben avgör entydigt för exakt EAN: fahrrad.de (Artikelnummer = EAN 4019238556254) anger ETRTO 32-279 > 47-298, 14 x 1 1/4 > 14 x 1 1/2 tum, DV 26 mm; reifen.com (samma EAN) anger 14 tum, 14x1.25 och 14x1.50, Dunlop 26 mm. Två oberoende källor, och de stämmer med live-titelns ETRTO. 14 tum är rätt; 26 tum i live-texten är sannolikt ventillängden 26 mm. Ventiltyp och ventillängd är försiktigt helt utelämnade (live säger Schrader 34 mm, webben Dunlop 26 mm). Meta 133 tecken med verb. Titel och SEO skiljer sig från underkända b_28 (8242). Inga löftesord."
+ },
+ {
+  "nr": 34013,
+  "id": "10472240709898",
+  "fil": "k_34b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 'Inner tire CONTINENTAL Compact 8, 54-110, Dunlop', VMCO0180991/EAN 4019238556216, 89 kr, lager 175; live-text bara 'Storlek 26\"'. Webben för exakt EAN: bikable.com (EAN 4019238556216, artikel 0180991) 8 1/2x2 (54-110), Dunlop; bikester.se (samma EAN) 54-110, Dunlop; reifen.com (samma EAN) 54-110, English size 8.5x2.00. 54-110 och Dunlop stämmer i alla källor och i live-titeln. Ventillängden går isär (bikester och reifen 26 mm, ridewill 34 mm, bikable 40 mm) och är rätt utelämnad. 'Storlek 26\"' är rätt utelämnad. Tumbeteckningen 8 1/2 x 2 stöds av bikable, reifen och hollandbikeshop; bikester anger i stället passande däck 8 x 2,125–2,35, men 54-110 är det entydiga måttet och står med i båda fälten. Artikelnumret 0180991 är Continentals nummer (bikable) och utgör SKU:ns kärna."
+ },
+ {
+  "nr": 34015,
+  "id": "10472251719946",
+  "fil": "k_34b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Innerslangen Continental Tour 28 Wide har dimensionen 47/62-622 för 28 tum och en bilventil (Schrader, AV) på 40 mm. Märke: Continental.",
+    "efter": "Innerslangen Continental Tour 28 Wide har dimensionen 47/62-622 för 28 tum och en bilventil (Schrader, AV) på 40 mm."
+   }
+  },
+  "skal": "Live: ACTIVE, 'Innerdäck Continental 28\" AV 47/62-584/622', CO0182121/EAN 4019238557039, 79 kr, lager 43. Webben för exakt EAN: fahrrad.de (EAN 4019238557039 = varianten AV 40 mm, ETRTO 47-622 > 62-622, 28 x 1,75–2,5) och nubuk-bikes.de (samma EAN, 47-62/622, AV 40 mm, nämner inte 584); bike24 och bike-components anger också 47-622 till 62-622. 584 i live-titeln är fel och rätt struken; 'För 28 mm breda däck' och 'Högkvalitativt' rätt utelämnade. AV 40 mm är entydigt. Rättning: metans avslutande 'Märke: Continental.' är en specifikationsrad i metan och utfyllnad (märket står redan i namnet); den tas bort, meta blir 116 tecken."
+ },
+ {
+  "nr": 34017,
+  "id": "10472257913098",
+  "fil": "k_34b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 'Hantel GYMSTICK Hantel 35 cm, 2 kg, 30 mm', GYMDB-2/EAN 6430062510478, 289 kr, lager 1, tom beskrivning, taggar 'hantelstång' och 'Hantlar'. Tillverkarens sida gymstick.com/2kg-dumbbell-bar.html (SKU DB-2, EAN 6430062510478) anger ordagrant 'Chrome plated 2kg steel bar', 'Bar length: 35 cm', 'Shaft diameter: 30 mm', 'Grip length 11,5cm', 'Includes a pair of spring collars' och 'Bar weight capacity: 100kg'; wasup.si bekräftar 35 cm, 30 mm och 100 kg. Lastgränsen 100 kg kommer från tillverkarens egen sida för exakt EAN och står en gång med 'enligt tillverkaren' (v1.10). Skivhålet (31 mm hos tillverkaren) är rätt utelämnat. Typordet: 'Hantelstång' är tillåtet och ska INTE rättas tillbaka. Produktens egen tagg är 'hantelstång' (egen källa, R7), tillverkaren kallar den Dumbbell Bar som tar viktskivor, och 'Hantel' vore vilseledande (det var skälet till underkännandet av 3002 i c_utlatande_1_4). Prejudikat: Stödben via tagg (k_32cde) och 'Hantelstång 35 cm, 30 mm, Svart' i k_skriv. productType ändras inte."
+ },
+ {
+  "nr": 34019,
+  "id": "10472285864202",
+  "fil": "k_34b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 'Sunglasses LIMAR ARGO MATT GRAY', ECARGOCEUW/EAN 8032836528443, 1649 kr, lager 4, tom beskrivning. shop.dstnc.com/products/argo-matte-grey (just färgen Matte Grey) och boyercycling.com (Argo, färgen Matte Gray finns) anger oberoende Grilamid TR90, polykarbonat, kategori 3, 26 g, hårt fodral, putsduk och extra klart kategori 0-glas. EAN:en kunde inte bekräftas (ingen webbträff på 8032836528443 eller ECARGOCEUW), men modell och färg följer live-titeln och uppgifterna är modellgemensamma och samstämmiga i två oberoende källor. UV400, spegel/Revo och antidim är rätt utelämnade (skyddslöften). Syskonet Argo PH Matt Black (10411494244618) skiljs av färgen i titeln. SEO-titel = titel (32 tecken) är tillåtet; meta finns."
+ },
+ {
+  "nr": 34020,
+  "id": "10472286290186",
+  "fil": "k_34b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 'Dricksflaska LIV DOUBLESPRING 750CC BENCH', 480000363/EAN 4713250836263, 89 kr, lager 4, tom beskrivning. liv-cycling.com anger 750 ml och 'Thin-wall Polypropylene (PP)' samt 'Large valve'; bikedepot.com anger UPC 04713250836263/MPN 480000363 = Clear/Pink 750 ml, polypropen. Volym och material är entydiga för exakt artikel. Färgen: live säger 'Bench', EAN:en säger Clear/Pink; motsägelse, så färgen är rätt utelämnad i titel, SEO och text (R2). 'Stor ventil enligt tillverkaren' i metan är en beskrivning ur tillverkarens text utan prestandatal; '50 % mer flöde', BPA-fri och antimikrobiell är rätt utelämnade. Anmärkning: Liv Doublespring 750 ml finns som syskon med färg i titeln (10472264335626, 10472266760458); denna titel är unik men skiljs bara genom att färg saknas. Leverantören bör tillfrågas om färgen vid tillfälle."
+ },
+ {
+  "nr": 34021,
+  "id": "10472296808714",
+  "fil": "k_34b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "till totalt 14 stickvikter.",
+    "efter": "till totalt 14 viktskivor i viktmagasinet."
+   }
+  },
+  "skal": "Live: ACTIVE, 'Viktskivor för CHRISTOPEIT SP 5000', 30-9388/EAN 4044163093888, 349 kr, lager 1, beskrivning '2x5 kg'. Tillverkarens sida christopeit-sport.com (Produktnummer 30-9388 = SKU) anger '2 Stück Gewichtsplatten à ca. 5 kg zum Nachrüsten bzw. Aufstocken der Fitnessstation SP 5000 und Profi Center de Luxe auf insgesamt 14 Steckgewichte'. EAN:en syns inte där och geizhals gav 403, men produktnumret är entydigt. Viktskivor är ingen bärande del, så ingen lastgräns krävs (v1.10). Produkten står i handhavd_ids.txt men är frisläppt i undantag_2026-11-05.csv (rad 99, r3). Rättning: 'stickvikter' är ingen svensk term (ordagrann översättning av Steckgewichte); ersätts med 'viktskivor i viktmagasinet'."
+ },
+ {
+  "nr": 34022,
+  "id": "10472300937482",
+  "fil": "k_34b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Balansbrädan Toorx i svart-grönt har en diameter på 39,5 cm och en halkfri bas. Maximal lastgräns är inte känd för den här modellen.",
+    "efter": "Balansbrädan Toorx AHF-022 i svart och grönt har en diameter på 39,5 cm. Maximal lastgräns är inte känd för den här modellen."
+   },
+   "html": {
+    "fore": "<p>Balansbrädan Toorx har en diameter på 39,5 cm och en halkfri bas. Maximal lastgräns är inte känd.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en balansbräda med 39,5 cm diameter</li>\n<li>Dig som söker en balansbräda med halkfri bas</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Balansbräda</li>\n<li>Märke: Toorx</li>\n<li>Modell: AHF-022</li>\n<li>Diameter: 39,5 cm</li>\n<li>Bas: Halkfri</li>\n",
+    "efter": "<p>Balansbrädan Toorx AHF-022 har en diameter på 39,5 cm och är svart och grön. Maximal lastgräns är inte känd.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en balansbräda med 39,5 cm diameter</li>\n<li>Dig som söker en balansbräda i svart och grönt</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Balansbräda</li>\n<li>Märke: Toorx</li>\n<li>Modell: AHF-022</li>\n<li>Diameter: 39,5 cm</li>\n"
+   }
+  },
+  "skal": "Live: ACTIVE, 'TOORX Balansbräda, svart-grön', AHF-022/EAN 8029975990835, 229 kr, lager 2; källa 'Diameter: 39,5 cm'. garesiosport.it (TOAHF-022) och medi-shop.gr (AHF-022, Black/Green) bekräftar 39,5 cm. Ingen lastgräns hittades för AHF-022 (Toorx träbräda 100 kg hos Proshop är en annan modell), så 'Ej känd' är rätt (v1.10, balansbräda bär användaren). Rättning: 'halkfri bas' är ett säkerhetsord (R5) som inte står i egen källa och bara hos återförsäljare, inte tillverkaren; det tas bort ur meta, första stycket, Passar för och specifikationen (ett sammanhängande html-par). Ersatt med modellnumret och färgen ur live-titeln. Vikt 1 kg och rehabiliteringspåståenden rätt utelämnade."
+ },
+ {
+  "nr": 34023,
+  "id": "10472308834570",
+  "fil": "k_34b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 'TOORX Fabric Bands Strong', AHF-268, ingen streckkod, 469 kr, lager 2; källa 'Setet innehåller 5 gymnastikbollar med styrkan Strong' och 'Mått: 7,5 x 75 cm'. fitmax.it (AHF-268, 'Confezione 5 elastici ad anello in tessuto strong', 'Dimensioni elastico singolo: 7,5 x 75 cm') bekräftar oberoende 5 tygband, Strong och måtten; velomarket.ee (leverantören, 403 vid granskning) är inte oberoende. Varje uppgift har alltså stöd i både live och en oberoende webbkälla. 'Gymnastikbollar' motsägs av titeln 'Fabric Bands' och av webben och är rätt ersatt med band. Typordet Träningsband är en entydig översättning och butikens live-ord (Gymstick-produkterna). Mood03:s avvikande mått är rätt utelämnade. Inget motstånd i kg anges."
+ }
+]

@@ -1,0 +1,57 @@
+[
+ {
+  "id": "10476252692746",
+  "nr": 35025,
+  "skäl": "Skillnaden går inte att fastställa: varianterna M och L (purple) står entydigt, men redan skrivna 10476230541578 (Tempt 3 29 tum Tyrian Purple) har bara Default Title utan storlek och samma engelska källtext (S, M, L listade). Om siblingen är en annan storlek framgår inte av någon källa. Källan är engelsk. David kan avgöra."
+ },
+ {
+  "id": "10476275761418",
+  "nr": 35026,
+  "skäl": "Avvisas: elcykel (motor och batteri)."
+ },
+ {
+  "id": "10487969939722",
+  "nr": 35027,
+  "skäl": "Skillnaden går inte att fastställa: en variant (Default Title, SKU B37LDBLMSIN06) utan storlek; källan listar XS–XL med olika hjulstorlekar, och redan skrivna 10565633736970 (Lava Dome Prism Dragonfly) har varianterna S, M och L. Storlek får inte härledas ur artikelnumret; webbsökning på artikelnumret gav ingen träff. Hjulstorlek skiljer per storlek, så texten kan inte skrivas utan att gissa. David kan avgöra."
+ },
+ {
+  "id": "10488246796554",
+  "nr": 35028,
+  "skäl": "R3 och dubblettfråga: varianterna Default Title (lager 0, 26 209 kr) och S / white (lager 1, 22 789 kr) har samma SKU 1017035184 och färgen white stämmer inte entydigt med Lavender Blush. Redan skrivna 10502528205066 (Avail AR 2 (2026), SKU 1017035185) har samma källtext. Skillnaden (storlek/årsmodell) går inte att fastställa utan gissning. David kan avgöra."
+ },
+ {
+  "id": "10488326258954",
+  "nr": 35029,
+  "skäl": "Skillnaden går inte att fastställa: en variant (Default Title, SKU 1032015183) utan storlek, källan listar XS–L; redan skrivna 10471330349322 (Devote 0 Clear Sky) har varianterna S och L. Vilken storlek denna är framgår inte av någon källa (webbsökning på artikelnumret gav ingen träff) och får inte härledas ur artikelnumret. David kan avgöra."
+ },
+ {
+  "id": "10494769529098",
+  "nr": 35030,
+  "skäl": "Avvisas: löpband med motor och elektronik (säkerhetsprodukt). Dessutom samma modell Nydo som redan skrivna 10665232335114 (SKU G6541); denna har G6540."
+ },
+ {
+  "id": "10507442946314",
+  "nr": 35031,
+  "skäl": "Samma artikel enligt källorna: Jolene 7.1 vit-blå, rammstorlek M (17\"), 21 växlar, mekaniska skivbromsar, ca 15 kg, identiskt med redan skrivna 10472332919050 (texter-klara, Vit och Blå). Endast SKU (27190282-B mot 27170281-B) och streckkod skiljer; skillnaden går inte att fastställa utan gissning. David kan hantera dubbletten."
+ },
+ {
+  "id": "10515737542922",
+  "nr": 35032,
+  "skäl": "Redan som utkast: samma produkt-id finns i b_22_utkast.json (nr 8068, Sadel Giant Road Pro). Ingen dubblett av annan produkt; skrivs från b_22, inte två gånger."
+ },
+ {
+  "id": "10515754385674",
+  "nr": 35033,
+  "skäl": "R3: två varianter med olika pris (Default Title SKU 1525, 3 369 kr; variant 1525-801113, 2 319 kr, olika streckkod) och källan anger ingen färg, så titelns lila-röd stöds inte. Vad varianterna är (färg, version) framgår inte av någon källa; texten kan inte skrivas utan att gissa. Ingen dubblett av annan produkt. David kan avgöra."
+ },
+ {
+  "id": "10523486585098",
+  "nr": 35034,
+  "skäl": "Samma artikel enligt källan: Excelsior Dandy svart (live-titel black), identisk källtext som redan skrivna 10472295006474 (SKU 02130074) och 10472333639946 (SKU 02130077). Tre SKU/streckkoder utan uppgift om vad som skiljer; storlek får inte härledas ur artikelnumret. David kan hantera dubbletterna."
+ },
+ {
+  "id": "10523488190730",
+  "nr": 35035,
+  "skäl": "Redan skriven: live-text (SEO-titel, meta och beskrivning med Passar för, Specifikationer och standardblock) finns redan på produkten. Taggen texter-klara saknas."
+ }
+]

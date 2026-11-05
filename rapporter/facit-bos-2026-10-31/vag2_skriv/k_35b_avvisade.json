@@ -1,0 +1,62 @@
+[
+ {
+  "id": "10472295923978",
+  "nr": 35013,
+  "skäl": "Avvisas: lås (säkerhetsprodukt). Dessutom samma modell och längd (Fold Lite 80, 80 cm) som redan skrivna 10472233107722; ingen färg-, storleks- eller viktuppgift i någon källa skiljer dem."
+ },
+ {
+  "id": "10472305950986",
+  "nr": 35014,
+  "skäl": "Samma artikel: Union Turbomatic V2 Pro, 110 mm, färg lila/svart, vikt 0,270 kg, pris per hjul, identiska med redan skrivna 10472305885450 (texter-klara, 270 g). Endast SKU (104895 mot 104891) och streckkod skiljer, och ingen källa anger vad skillnaden är; en skillnad kan inte fastställas utan gissning. Hjulet är dessutom en bärande del utan lastgräns i källan. David kan hantera dubbletten."
+ },
+ {
+  "id": "10472332230922",
+  "nr": 35015,
+  "skäl": "Samma artikel enligt källorna: Wagant 0 grågrön, rammstorlek XL (23\"), vikt 17 kg, 21 växlar, identiskt med redan skrivna 10507259478282 (texter-klara). Endast SKU (28210558-A mot 28190557-A) och streckkod skiljer; skillnaden går inte att fastställa utan gissning (webbsökning på streckkoder gav ingen träff). David kan hantera dubbletten."
+ },
+ {
+  "id": "10472333279498",
+  "nr": 35016,
+  "skäl": "Skillnaden går inte att fastställa utan gissning (R1/R3): källtexten säger Vintage Classic 1.0 M men live-titeln 2.0 M; spec (Nexus 7, 7 växlar) stämmer med 2.0, medan redan skrivna 10472335900938 (1.0 M grön) har Tourney 6 växlar. Webbsökning bekräftar att 2.0 M finns i grönt (Decathlon PL) men ger ingen träff på just streckkod 5904803262441 eller artikelnummer 28202438-A. David bör avgöra om produkten är 2.0 M eller 1.0 M."
+ },
+ {
+  "id": "10472333607178",
+  "nr": 35017,
+  "skäl": "Samma artikel enligt källorna: Jolene 7.2, mörkröd och orange, rammstorlek M (17\"), 24 växlar, ca 15 kg, identiskt med redan skrivna 10507443044618 (texter-klara). Endast SKU (27170076-A mot 27190075-A), streckkod och pris (8 679 mot 8 699 kr) skiljer; ingen källa anger varför. Källan är dessutom engelsk. David kan hantera dubbletten."
+ },
+ {
+  "id": "10472333639946",
+  "nr": 35018,
+  "skäl": "Samma artikel enligt källan: Excelsior Dandy svart, identisk källtext (ramstorlek M 52 cm och L 56 cm listade, hjulvikt 10,9 kg) som redan skrivna 10472295006474 (SKU 02130074) och som 10523486585098 (SKU 02130080). Tre SKU/streckkoder men ingen uppgift om vad som skiljer; storlek får inte härledas ur artikelnumret. David kan hantera dubbletterna."
+ },
+ {
+  "id": "10472372338954",
+  "nr": 35019,
+  "skäl": "Samma artikel enligt källorna: Orkan M grå-röd, rammstorlekar L (19\") och XL (21\") listade, vikt 14,5 kg, identiskt med redan skrivna 10656692175114 (texter-klara, SKU 28190093-B mot 28190093-A här). Skillnaden går inte att fastställa utan gissning. David kan hantera dubbletten."
+ },
+ {
+  "id": "10472434532618",
+  "nr": 35020,
+  "skäl": "Skillnaden går inte att fastställa: estnisk källa med storlekarna S–XL i texten, produkten har en variant utan storlek, och redan skrivna 10471419642122 (Thundercloud, SKU 1119020185) har samma namn, färg och spec. SKU 1119020187 mot ...185 säger inget om storlek (får inte härledas); webbsökning på artikelnumret gav ingen träff. David kan hantera dubbletten."
+ },
+ {
+  "id": "10475432476938",
+  "nr": 35021,
+  "skäl": "Avvisas: belysning (cykellampa med batteri) är en säkerhetsprodukt."
+ },
+ {
+  "id": "10476166807818",
+  "nr": 35022,
+  "skäl": "Skillnaden går inte att fastställa utan gissning: varianten heter M/L / gray, men redan skrivna 10476178669834 (Defy Advanced 1 (2026), Thundercloud) har bara Default Title utan storlek, och källtexterna är identiska med sex storlekar listade. Om sibling-produkten är en annan storlek eller årsmodell framgår inte av någon källa. David kan avgöra."
+ },
+ {
+  "id": "10476185125130",
+  "nr": 35023,
+  "skäl": "Samma artikel enligt källorna: Revolt 2 Ocean Storm, identisk källtext (storlekarna S–XL listade, en variant utan storlek) som redan skrivna 10460948398346. Endast SKU (1080010187 mot 1080010186) och streckkod skiljer; storlek får inte härledas ur artikelnumret och webbsökning gav ingen träff. David kan hantera dubbletten."
+ },
+ {
+  "id": "10476211929354",
+  "nr": 35024,
+  "skäl": "Skillnaden går inte att fastställa: varianterna är Default Title (SKU 1080014188, lager 0) och L / green (1080014187), och redan skrivna 10476168020234 (Revolt 1 Alpine Green) har Default Title och M / roheline. Storleken på Default Title i bägge är okänd, så överlapp kan inte uteslutas. Webbsökning på streckkod gav ingen träff. David kan avgöra."
+ }
+]
