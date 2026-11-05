@@ -1,0 +1,133 @@
+# Granskningsutlåtande k_28c och k_28d (BEST OF SPORTS), 2026-11-05
+
+Granskaren är Opus och har bara läst. Underlaget är `vag2_skriv/k_28c_utkast.json` (9 produkter) och `vag2_skriv/k_28d_utkast.json` (8 produkter). Källtext, varianter (pris, SKU, färg), vendor och taggar lästes live via Admin API 2026-11-05. Butiken bekräftades som BEST OF SPORTS (6f2e53-67.myshopify.com). Ingenting skrevs i Shopify. Regler: regler-v1.md v1.4–v1.8 och BESLUTSLOGG 2026-11-05. Barn- och ungdomsprodukter får skrivas med bara fakta. Barnhjälmar, stolar och säten, bälten, babyprodukter, skyddsfunktion och barntransport är fortfarande utanför.
+
+**Resultat:** 5 GODKÄND, 12 RÄTTA, 0 UNDERKÄND. `skrivfil_kontroll.py` gav 0 fel och 0 varningar, både på utkasten och på en rättad kopia. Ingen produkt finns i spärrlistan. Alla rättade metatexter har 70–155 tecken och är unika.
+
+**Genomgående:**
+- **Inget är underkänt på barnregeln.** Inget utkast påstår något om säkerhet, skydd eller utveckling. Stödhjul (28030, 28041), kedjeskydd, ringklockor och korgar nämns bara som medföljande utrustning, som i 28003 och 28019. Belysning och navdynamo (28026) är rätt utelämnade, eftersom det är en synbarhetsfunktion (jämför 28033). Hjälm fram (28041) är också rätt utelämnad.
+- **Korgar (28044, 28045).** Ingen lastgräns anges eller antyds. Cykelkorgar har skrivits utan lastgräns förut (24070, 24104, 24114). v1.7 gäller produkter som bär kroppsvikt eller hänger med last. Vill David räkna cykelkorgar som bärande delar ska 28044 och 28045 hållas, och då gäller det också redan skrivna korgar.
+- **Stänkskärmar (28038)** har ingen personskyddsfunktion och är inte bärande. De felöversatta längdraderna rättas efter faktakoll på nätet.
+- **28034 är isskridskor** (Ice, stålblad, taggen Skridskor) och inte rullskridskor, som fortfarande är utanför.
+- **Leveranstid.** Bara 28035 och 28036 har taggen 'På beställning', och bara de har leveranstidsmeningen. Det är rätt.
+- **Färger.** Titlarna har versal efter bindestreck och snedstreck (Grön-Blå-Grå, Gul-Grå, Grön-Guld, Blå-Grön, Korall/Röd). Specifikationsraderna har gemen, som i skrivna 28016 ('Lime-grå'). Där behövs inga rättningar.
+- **Meta.** Nio metatexter inledde utan verb och rättas: 28026, 28027, 28028, 28030, 28031, 28034, 28035, 28036 och 28039.
+- **Att notera för koordinatorn:** profilen `butiksprofil-bestofsports.json` har kvar 'barn' under `utanfor_tills_vidare`, fast beslutet 2026-11-05 har frisläppt barnprodukter. Enligt R6 är profilen facit. Ändringen kräver Davids ja enligt CLAUDE.md.
+
+## 28026 (10470998573322, k_28c_utkast.json): RÄTTA
+
+Live: en variant (6157), 7299 kr, ingen tagg På beställning. Stålram, 20 tum, Shimano Nexus 3 växlar, V-broms och fotbroms samt stänkskärmar och kedjeskydd (entydig del av den felöversatta raden 'Femte hjulet') stämmer. Navdynamo och fram- och bakljus är rätt utelämnade: ljus för att synas i mörker är en synbarhetsfunktion, och reflexklistermärkena 28033 avvisades av samma skäl. Kvalitets- och märkespåståenden är rätt utelämnade. Rättning: metan inleddes utan verb.
+
+- `meta` före: `Barncykel med stålram, 20-tumshjul och 3 växlar med Shimano Nexus. S'cool Wave Steel LTD har V-broms och fotbroms.`
+  efter: `Barncykeln S'cool Wave Steel LTD har stålram, 20-tumshjul och 3 växlar med Shimano Nexus. Den har V-broms och fotbroms.`
+
+## 28027 (10470999392522, k_28c_utkast.json): RÄTTA
+
+Live: en variant, 6219 kr. Bromsarna är rätt utelämnade, eftersom löptexten säger kedjebromsar och specifikationen mekaniska skivbromsar (R2). Aluminium, 6 växlar, Shimano RD-FT35, 20 tum, främre stänkskydd och 115–130 cm (entydig del av en trasig rad, enligt tillverkaren en gång) stämmer. 'Hjulvikt' och säkerhets- och utvecklingsorden är rätt utelämnade. Stänkskydd är ingen skyddsfunktion i beslutets mening. Rättning: metan inleddes utan verb.
+
+- `meta` före: `Barncykel med aluminiumram, 6 växlar med Shimano-bakväxel och 20-tumshjul. Romet Rambler FIT 20 har främre stänkskydd.`
+  efter: `Barncykeln Romet Rambler FIT 20 har aluminiumram, 6 växlar med Shimano-bakväxel och 20-tumshjul. Den har främre stänkskydd.`
+
+## 28028 (10470999523594, k_28c_utkast.json): RÄTTA
+
+Live: en variant, 6239 kr. Aluminium, S (10 tum, den enda storleken), 115–130 cm (enligt tillverkaren en gång), Shimano Tourney/Revoshift, 6 växlar, V-bromsar och 'Cykelvikt: 11,5 kg' stämmer. Hjulstorleken står bara i modellnamnet och är rätt utelämnad som specifikation. Den trasiga Shimano-raden och säkerhets-, stabilitets- och komfortorden är rätt utelämnade. Rättning: metan inleddes utan verb.
+
+- `meta` före: `Barncykel med aluminiumram, 6 växlar med Shimano Tourney/Revoshift och V-bromsar. Romet Rambler 20 KID 2 väger 11,5 kg.`
+  efter: `Barncykeln Romet Rambler 20 KID 2 har aluminiumram, 6 växlar med Shimano Tourney/Revoshift och V-bromsar. Den väger 11,5 kg.`
+
+## 28030 (10471072366858, k_28c_utkast.json): RÄTTA
+
+Live: en variant, 6189 kr. Aluminium i ram, fälgar och vevparti, 28,5 cm för ca 115–130 cm (enligt tillverkaren en gång), 1 växel och V-bromsar stämmer. 'Inkluderar stödhjul, kedjeskydd och stödstång': stödhjul och kedjeskydd nämns bara som medföljande delar, utan last- eller skyddspåstående, som i 28003 och 28019. 'Stödstång' är oklart och rätt utelämnat. 20 tum står bara i live-titeln och finns rätt nog bara i titeln. 'Maximal säkerhet', ursprung, 'för pojkar' och 'Hjulvikt' är rätt utelämnade. Rättning: metan inleddes utan verb.
+
+- `meta` före: `Barncykel med ram, fälgar och vevparti i aluminium, 1 växel och V-bromsar. Tabou Rocket FR har stödhjul och kedjeskydd som ingår.`
+  efter: `Barncykeln Tabou Rocket FR har ram, fälgar och vevparti i aluminium, 1 växel och V-bromsar. Stödhjul och kedjeskydd ingår.`
+
+## 28031 (10471105167626, k_28c_utkast.json): RÄTTA
+
+Live: en variant, 7059 kr, taggen 'ungdom'. Aluminium, 26 tum (i löptexten), Shimano Tourney, 21 växlar, V-bromsar, stötdämpare och däck med djupt mönster stämmer. Ramstorlekarna S, M och L och längderna är rätt utelämnade: produkten är en enda variant och det går inte att se vilken storlek den har (v1.5, R2). 'För pojkar', 'första cykel' och 'Hjulvikt' är rätt utelämnade, och det finns inga säkerhets- eller utvecklingspåståenden. Ingen dubblett: övriga R6.0 är andra färger, JR-modeller eller utkast. Rättning: metan inleddes utan verb.
+
+- `meta` före: `Ungdomscykel med aluminiumram, 26-tumshjul, 21 växlar med Shimano Tourney och stötdämpare. Romet Rambler R6.0 har V-bromsar.`
+  efter: `Ungdomscykeln Romet Rambler R6.0 har aluminiumram, 26-tumshjul, 21 växlar med Shimano Tourney, stötdämpare och V-bromsar.`
+
+## 28032 (10471173587210, k_28c_utkast.json): RÄTTA
+
+Live: en variant, 4969 kr. Typordet balanscykel står i källtexten (R7). Låg aluminiumram (löptexten), 12-tumshjul, snabbkoppling för sadeln och ca 85–100 cm (entydig del av en trasig rad, enligt tillverkaren en gång) stämmer. 'Inspirerar de små' och 'perfekt för att komma igång' (utveckling) samt 'världens största' är rätt utelämnade. En balanscykel är ingen babyprodukt och har ingen skyddsfunktion. Syskonen Svart och Dusted Peri har andra färger, så det är ingen dubblett. Rättning: etiketten 'Längd' kan läsas som cykelns längd. Uppgiften gäller barnets längd och skrivs Förarlängd, som i 28035.
+
+- `html` före: `<li>Längd: Ca 85–100 cm enligt tillverkaren</li>`
+  efter: `<li>Förarlängd: Ca 85–100 cm enligt tillverkaren</li>`
+
+## 28034 (10471233716490, k_28c_utkast.json): RÄTTA
+
+Live: två varianter (S / black och M / black), båda 1569 kr. Det är isskridskor och inte rullskridskor: modellnamnet är 'Ice', bladet är förslipat i rostfritt stål och taggen är Skridskor. Vinterprodukterna släpptes 2026-11-03 och barnprodukterna 2026-11-05. Bara de storlekar som säljs (S 29–32, M 33–36) står med; L är rätt utelämnad (v1.5). Titeln låser varken storlek eller färg, eftersom varianterna säger black och titeln Svart/Orange (v1.8). Snörning, ankelknapp, Power Strap, kompositskal och kompositbladfäste stämmer. Micro Jem anges som storleksjustering 'enligt tillverkaren', medan 'växer med fötterna', 'säker, stabil' och 'pojkskridsko' är rätt utelämnade. Rättning: metan inleddes utan verb.
+
+- `meta` före: `Barnskridskor med förslipat rostfritt stålblad, snörning, ankelknapp och Power Strap. Fila X 2.0 Ice finns i storlek S (29–32) och M (33–36).`
+  efter: `Barnskridskorna Fila X 2.0 Ice har förslipat blad i rostfritt stål, snörning, ankelknapp och Power Strap. Storlekar: S (29–32) och M (33–36).`
+
+## 28035 (10471268450570, k_28c_utkast.json): RÄTTA
+
+Live: en variant, 8339 kr, taggen På beställning finns och leveranstidsmeningen står med (R13). ALUXX-aluminium, 27 cm för 130–150 cm (enligt tillverkaren en gång), 7 växlar och Giant Junior Sport 24 x 1,95 tum, 22 tpi, stämmer. Ringklockan nämns bara som medföljande. Stöd, främre plattform och de trasiga raderna är rätt utelämnade, liksom 'självförtroende' och 'utveckla terrängfärdigheter'. Metallicblå är en säker översättning av Metallic Blue, och produkten har en variant. Rättning: metan inleddes utan verb. Den nya metan liknar 28007 men har ett annat modellnamn och är unik.
+
+- `meta` före: `Barncykel med ram av ALUXX-aluminium, 7 växlar och däck på 24 x 1,95 tum. Giant Talon 24 har en ringklocka som ingår.`
+  efter: `Barncykeln Giant Talon 24 har ram av ALUXX-aluminium, 7 växlar och däck på 24 x 1,95 tum. En ringklocka ingår.`
+
+## 28036 (10471357808906, k_28c_utkast.json): RÄTTA
+
+Live: en variant, 11919 kr, taggen På beställning finns och leveranstidsmeningen står med. Källan är engelsk, och översättningarna stämmer: XS (33 cm), ca 150–163 cm (enligt tillverkaren en gång), SR Suntour XCE, QR, stålstyrrör, Shimano Altus/Acera, 16 växlar, Tektro HDC TKD 149 hydrauliska, Maxxis Ikon 27,5 x 2,2 tum med trådkant och fästpunkter. '80mm' är rätt utelämnat, och det är också 'High-quality', 'ride with confidence', 'world's largest' och 'designed for women'. Typordet ungdomscykel är en entydig översättning av live-titelns 'Youth bike' och finns som live-ord i butiken. Ingen dubblett: Tempt 0 XS och Tempt 3 Purple Ash är andra produkter. Rättningar: metan inleddes utan verb, och 'disc' på ramen betyder ram för skivbromsar, inte att ramen är en skivbroms.
+
+- `meta` före: `Ungdomscykel med ram av ALUXX-aluminium, 16 växlar med Shimano och hydrauliska skivbromsar. Liv Tempt 3 XS har 27,5-tumsdäck.`
+  efter: `Ungdomscykeln Liv Tempt 3 XS har ram av ALUXX-aluminium, 16 växlar från Shimano, hydrauliska skivbromsar och 27,5-tumsdäck.`
+
+- `html` före: `<li>Ram: ALUXX-aluminium, skivbroms</li>`
+  efter: `<li>Ram: ALUXX-aluminium, för skivbromsar</li>`
+
+## 28037 (10471429898506, k_28d_utkast.json): GODKÄND
+
+Live: en variant, 3259 kr. 'Lastkapacitet: upp till 100 kg' är en ren svensk rad med etikett och enhet, och den står en gång med 'enligt tillverkaren' (R4). Inga andra lastvärden förekommer. Hopfällbar, flygplansaluminium (bara materialet, inte 'lätthet och hållbarhet'), 175 mm, polyuretan, ABEC-9, 4,3 kg och 'Designad för: barn' stämmer. Typordet Scooter blir Sparkcykel, som är butikens live-ord (produkttyp och tagg Sparkcyklar; R7). Färgen Salmon är rätt utelämnad, eftersom syskonen Mint och Turquise är egna produkter. Komfortorden är rätt utelämnade.
+
+## 28038 (10472186708234, k_28d_utkast.json): RÄTTA
+
+Live: en variant (03-POR-SKS11165, EAN 4002556614089), 239 kr. Plast, svart, 190 g och 1,65–1,95 tum (42–50 mm) stämmer. Stänkskärmar skyddar mot vattenstänk och har ingen personskyddsfunktion. De är inte bärande, så ingen lastgräns behövs. Raderna 'framgaffelns längd: 610 mm' och 'längd på bakre plattform: 800 mm' är felöversatta. Webbkoll (v1.6/v1.7): https://www.bike-components.de/en/SKS/Velo-55-Junior-Front-Rear-Mudguard-Set-p62732 anger tillverkarnummer 11165 (samma som SKU:n), 24 tum, främre skärm 610 mm, bakre skärm 800 mm, 190 g, svart och 'incl. mounting material'. SKS egen sida ger samma uppgifter enligt sökresultatet, men den kunde inte öppnas (403). Måtten gäller alltså skärmarnas längd, och 24 tum läggs till. 'U-armar för montering finns' står kvar, eftersom monteringsmaterial ingår. Kvalitetsorden och 'passar nästan alla cyklar' är rätt utelämnade. Ingen dubblett: Velo 55 26 tum är en annan produkt.
+
+- `html` före: `<li>Däckbredd: 1,65–1,95 tum (42–50 mm)</li>`
+  efter: `<li>Hjulstorlek: 24 tum</li>
+<li>Däckbredd: 1,65–1,95 tum (42–50 mm)</li>`
+
+- `html` före: `<li>Framgaffelns längd: 610 mm</li>`
+  efter: `<li>Längd framskärm: 610 mm</li>`
+
+- `html` före: `<li>Längd på bakre plattform: 800 mm</li>`
+  efter: `<li>Längd bakskärm: 800 mm</li>`
+
+## 28039 (10472216822026, k_28d_utkast.json): RÄTTA
+
+Live: en variant, 2369 kr, Skidstavar för vuxna, alltså ingen barnprodukt. 17 mm, 100% kolfiber, naturkork, justerbart handledsband och 8 mm Track stämmer ordagrant. Längden är rätt utelämnad: 'T180' i SKU:n är inte belagd. Marknadsföringen är utelämnad. Källan är tunn men har fem entydiga fakta (R3). Rättning: 'rör i 100% kolfiber med 17 mm' var oklart i metan.
+
+- `meta` före: `Skidstavar Start Winner Free har rör i 100% kolfiber med 17 mm, handtag av naturkork och justerbart handledsband.`
+  efter: `Skidstavarna Start Winner Free har 17 mm rör i 100% kolfiber, handtag av naturkork och justerbart handledsband.`
+
+## 28041 (10472237433098, k_28d_utkast.json): RÄTTA
+
+Live: en variant, 7609 kr. Åldern 4–6 år står i live-titeln och källan och återges en gång med 'enligt tillverkaren' (beslutet 2026-11-05 tillåter ålder). 16 tum, aluminiumhjul, lågram, fram- och bakbroms (utan 'effektiva'), sadel i veganskt läder, 9 kg och ljusrosa stämmer. 'Hjälm fram' är rätt utelämnat: det är en felöversättning, och en hjälm ligger utanför frisläppningen. Korgen nämns i en egen mening. Stödhjul, stänkskärmar i metall, kedjeskydd och klocka nämns bara som medföljande. '3–4 säsonger' (utveckling) är rätt utelämnat. Rättning: 'framhjulet har en handgjord cykelkorg' är en felöversättning, eftersom en korg inte sitter på hjulet. Webbkoll: https://www.lespetits.fr/en/products/gingersnap-16-kids-bike-pale-pink bekräftar att en handgjord korg av flätad vide ingår, och där står också åldern 4–6 år. Var korgen sitter framgår inte där. 'Fram' är den entydiga delen av den egna källans mening (R2), och ingen tolkning av fästet görs. Korgen bär ingen angiven last och nämns bara som utrustning (praxis 28019).
+
+- `html` före: `och framhjulet har en handgjord cykelkorg.`
+  efter: `och fram sitter en handgjord cykelkorg.`
+
+- `html` före: `<li>Korg: Handgjord cykelkorg på framhjulet</li>`
+  efter: `<li>Korg: Handgjord cykelkorg fram</li>`
+
+## 28042 (10472238809354, k_28d_utkast.json): GODKÄND
+
+Live: en variant, 79 kr. 16 tum, 32/47-305/349 och AV (Schrader) stämmer. Texten anger ingen kompatibilitet utöver dimensionen, som är tillverkarens ETRTO-intervall, och 'brett spektrum av däckstorlekar' är rätt utelämnat. 'Pålitlig prestanda' och 'barns cykel' är utelämnade. Typordet Innerslang står i källtexten. Ingen dubblett: Compact 16 Presta (redan skriven) har en annan ventil.
+
+## 28044 (10472240283914, k_28d_utkast.json): GODKÄND
+
+Live: en variant, 139 kr. Röd stålmesh, 16, 18, 20 och 24 tum, 25 x 17 x 18 cm, klämma mellan gaffelbenen för 1-tums (25,4 mm) gaffelrör samt monteringsplatta, bultar, muttrar och brickor stämmer. Någon lastgräns finns inte i källan, och ingen skrivs. Texten påstår eller antyder ingen bärförmåga. Cykelkorgar har tidigare skrivits utan lastgräns (24070, 24104, 24114), och v1.7 gäller bärande delar som bär kroppsvikt eller hänger med last. En korg för barncykel är ingen skydds- eller transportprodukt för barn. 'Stark' är rätt utelämnat. Titeln följer den skrivna syskonprodukten 28046. Ingen dubblett: annan färg och annan SKU.
+
+## 28045 (10472241103114, k_28d_utkast.json): GODKÄND
+
+Live: en variant, 159 kr, vendor Spencer och SKU-serien EK-SP0xx som 28044 och 28046. Märket kommer ur butikens egen produktpost och är godtagbart. 16 till 24 tums hjul, 25 x 17 x 18 cm, färgat stål, rosa, fäste i styrstammen med 1-tums styrfäste och monteringsbultar, muttrar och brickor stämmer. Fästet återges som i källan, även om det skiljer sig från 28044. Ingen lastgräns anges eller antyds, vilket är samma bedömning som för 28044. 'Passar alla barncyklar' och 'lätt att montera' är rätt utelämnade.
+
+## 28047 (10472248181002, k_28d_utkast.json): GODKÄND
+
+Live: en variant, 69 kr. Musse Pigg-tema, metall, 80 mm och 55 mm stämmer, och färgen gul står i live-titeln. 'Säkerställer cyklistens säkerhet' och 'behagliga ljud' är rätt utelämnade. En ringklocka är signalutrustning och inget skydd (praxis 28012). Metan har verb.
+
