@@ -1,0 +1,27 @@
+[
+ {
+  "id": "10593396949258",
+  "nr": 34037,
+  "skäl": "Webbkoll på EAN 6430062511222 gav ingen träff på Gymstick Aktiv Hantelstång (bara andra Gymstick-stänger med andra mått). Bärande del utan känd lastgräns (v1.10) och taggen Pull-up gör typen oklar; inga entydiga mått eller material."
+ },
+ {
+  "id": "10605358055690",
+  "nr": 34038,
+  "skäl": "Redan skriven: produkten har i butiken redan ny titel och text med standardblock (Griptape Ethic Basic). Skrivs inte om."
+ },
+ {
+  "id": "10624084148490",
+  "nr": 34039,
+  "skäl": "Webbkoll på EAN 8029975990248, artikelnummer KIT-PALLAWBX-70 och 'Fastball WBX-70' gav ingen träff; egen källa är bara 'Tillverkaren är Toorx'. Färre än två entydiga fakta (R3)."
+ },
+ {
+  "id": "10636716376330",
+  "nr": 34041,
+  "skäl": "Webbkoll: EAN 4260438736360 ger bara en återförsäljare (Kruidvat, 'Dijbeen Trainer', 47 x 20 x 11 cm, 0,8 kg, skumöverdrag); Decathlon.de har en 'Adduktoren Trainer' men utan EAN eller mått. Kravet på två oberoende källor uppfylls inte. Egen källa är anatomi- och skadetext (hälsopåståenden)."
+ },
+ {
+  "id": "10656690274570",
+  "nr": 34042,
+  "skäl": "Tillbehör för lastcykel (barntransport/lastcykel avvisas) med trasigt pris 9 kr; egen källa är bara 'Passar modellerna Cargobike of Sweden Flex och Delight'. Webbkoll gjordes inte."
+ }
+]

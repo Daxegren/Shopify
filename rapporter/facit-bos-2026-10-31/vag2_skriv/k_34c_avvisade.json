@@ -1,0 +1,62 @@
+[
+ {
+  "id": "10472324432138",
+  "nr": 34025,
+  "skäl": "Webbkoll 2026-11-05 på artikelnummer 0191191 och EAN 8431284975340 gav ingen träff på BH Fitness Step board; egen källa är bara 'passar för BH Fitness' med länk till en velotrainer. Färre än två entydiga fakta (R3)."
+ },
+ {
+  "id": "10472334491914",
+  "nr": 34026,
+  "skäl": "Webbkoll på EAN 5904803283262 och 'M-Wave Ringlock 29-33' gav ingen träff; egen källa är bara titeln. Priset 6 779 kr och taggen Romet tyder på felklassad produkt (Ringlock är ett ramlås-namn). Typen kan inte beläggas (R3)."
+ },
+ {
+  "id": "10472346190090",
+  "nr": 34027,
+  "skäl": "Egen källa är bara 'Passar alla 26-29 tums cyklar'; EAN 2099900001178 är internt och ger ingen webbträff. Priset är 0,00 kr (ofärdig produkt). Färre än två entydiga fakta (R3)."
+ },
+ {
+  "id": "10475517772042",
+  "nr": 34028,
+  "skäl": "Pulsmätarbälte är elektronik med batteri (avvisas enligt uppdraget); egen källa har dessutom bara frekvens 5,3 kHz, som redan står i titeln, en trasig frekvensomfångsrad och ursprung (Italien)."
+ },
+ {
+  "id": "10480054567178",
+  "nr": 34029,
+  "skäl": "Webbkoll på EAN 5704796035677 och 'Christopeit Kettlebell 12 kg' gav ingen träff som gäller exakt modellen (bara en begagnad Finn.no-annons utan EAN); egen källa är bara reklamtext. Färre än två entydiga fakta (R3)."
+ },
+ {
+  "id": "10494685315338",
+  "nr": 34030,
+  "skäl": "Webbkoll på EAN 6417858571158: träffar gäller Peltonen Acadia Skate (stiff flex) som skidor i flera längder/pjäxpaket, men ingen sida kopplar EAN eller beteckningen SK 21 till live-produkten (4 199 kr). Tvetydigt vilken längd/modell; egen källa trasig (R2, R3)."
+ },
+ {
+  "id": "10494699110666",
+  "nr": 34031,
+  "skäl": "Webbkoll på EAN 4743128000045 och 'Uniplast Apple' gav ingen träff; egen källa är tom. Färre än två entydiga fakta (R3)."
+ },
+ {
+  "id": "10515745636618",
+  "nr": 34032,
+  "skäl": "Titelns färg 'Krom/Svart' motsäger källans 'Färg: svart-grå' och källan nämner 'säte i aluminium', som inte hör till en trick-sparkcykel (trasig rad). Webbkoll gjordes inte vidare (R2, R3)."
+ },
+ {
+  "id": "10515754615050",
+  "nr": 34033,
+  "skäl": "Motsägande källa: titeln anger Union Credit V2 Pro, texten 'Union Classic V2 Pro-hjul' och vikten 236 g hör till Classic. Ingen webbsida med SKU 105829 eller EAN 2902229207810 hittades som löser det (R2, R3)."
+ },
+ {
+  "id": "10581097054474",
+  "nr": 34034,
+  "skäl": "Webbkoll på EAN 6430062511123 och artikelnummer 72009 gav ingen träff på Gymstick Aktiv träningsslang; bara ett entydigt faktum (levereras med dörrankare) vid sidan av titeln (R3)."
+ },
+ {
+  "id": "10581106917642",
+  "nr": 34035,
+  "skäl": "Motionscykel GB3.0 har dator, magnetmotstånd och Bluetooth (elektronik) och avvisas därför. Webbkällan (Prisma, Galaxus, tillverkarens manual) bekräftar EAN men modellen är elektronik/styrd av dator; egen källa är bara marknadsföring."
+ },
+ {
+  "id": "10581108457738",
+  "nr": 34036,
+  "skäl": "Webbkoll på EAN 6430062510256 gav ingen träff på Gymstick Latsdragstång; egen källa bara att den används för pulldowns och rows. Färre än två entydiga fakta (R3)."
+ }
+]
