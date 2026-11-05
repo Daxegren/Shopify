@@ -1,0 +1,44 @@
+[
+ {
+  "id": "10581104460042",
+  "nr": 23049,
+  "avvisningsskal": "Skyddsprodukt (idrottsskydd, J-Cup): skydds-/hälsopåståenden får inte skrivas och livekällan säger inte ens vad produkten är; ingen entydig webbkälla (SKU SP-PRO-APR-8). Kan inte nå två entydiga fakta (R3, R5).",
+  "titel_nu": "Alpha J-Cup"
+ },
+ {
+  "id": "10581105115402",
+  "nr": 23050,
+  "avvisningsskal": "Cable Pulley System: webbkällor (Proshop m.fl., modell 61241, EAN 6430016901000) anger mått och karbinhakar men proshop.se gav 403 och ingen svensk ordagrann lastgräns finns; remskivan bär last (bärande/hängande del) och avvisas utan svensk lastgräns (v1.7, R4).",
+  "titel_nu": "Cable Pulley System"
+ },
+ {
+  "id": "10581110259978",
+  "nr": 23052,
+  "avvisningsskal": "Pro Knee Straps: oklar produkttyp (knälindor/knäskydd) och källorna (livekälla, Bygghemma, Artzt) bygger på skydd/stöd; ingen träff på EAN 6430016906296 eller 61137, så ingen entydig webbkälla. Skyddsprodukt utan två styrkta fakta (R3, R5).",
+  "titel_nu": "Pro Knee Straps"
+ },
+ {
+  "id": "10581110718730",
+  "nr": 23053,
+  "avvisningsskal": "Pro Wrist Straps: oklar produkttyp (handledslindor med stöd, sålda i par) och källorna bygger på stöd-/skyddspåståenden; ingen träff på EAN 6430016906302 eller 61138. Går inte att skriva utan hälsopåståenden och utan två entydiga fakta (R3, R5).",
+  "titel_nu": "Pro Wrist Straps"
+ },
+ {
+  "id": "10581119435018",
+  "nr": 23056,
+  "avvisningsskal": "Vivid Tube Trainer: webbsökning på EAN 6430062515435 ger ingen träff; återförsäljarsidor (Skorpionas, Decathlon.ch, Manor) nämner 61339 men kunde inte läsas eller bekräftas entydigt, material motstridigt och livekällan nämner rehabilitering. Färre än två entydiga fakta (R3, v1.6).",
+  "titel_nu": "Vivid Tube Trainer"
+ },
+ {
+  "id": "10593396949258",
+  "nr": 23057,
+  "avvisningsskal": "Aktiv Hantelstång, Svart: ingen webbträff på EAN 6430062511222 eller 72019; livekällan har inga fakta, taggen är Pull-up så produkttypen är oklar, och stången bär last (ingen svensk lastgräns). Färre än två entydiga fakta (R3, R4).",
+  "titel_nu": "Aktiv Hantelstång, Svart"
+ },
+ {
+  "id": "10656691257610",
+  "nr": 23059,
+  "avvisningsskal": "Dubblett och motsägelse: titel och tagg säger Crosstrainer, källtexten beskriver roddmaskin (ER1000R); samma SKU ER1000R19 och samma innehåll som nr 10165, som redan avvisats (f_utlatande_7). Kan varken skrivas som crosstrainer eller roddmaskin (R3, R12a). Sammanslagning ingår i dubblettplanen.",
+  "titel_nu": "Crosstrainer BH FITNESS Movemia ER1000R"
+ }
+]

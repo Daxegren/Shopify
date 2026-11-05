@@ -1,0 +1,37 @@
+[
+ {
+  "id": "10494699110666",
+  "nr": 23038,
+  "skäl": "Tunn källa: tom beskrivning, bara titeln. Webbsökning på EAN 4743128000045 och \"Uniplast Apple\" gav ingen träff som entydigt gäller modellen, så inga två entydiga fakta utöver titeln kan styrkas (vad plåten är till eller passar vet vi inte)."
+ },
+ {
+  "id": "10515738067210",
+  "nr": 23040,
+  "skäl": "Produkten är enligt Giants egen sida och återförsäljare ett cykelstöd (kickstand) Direct Mount KSA 40 mm, produktkod 500000042 (\"Stöd för bakre löpare\" är maskinöversättning). Ett cykelstöd bär cykelns vikt (bärande/säkerhetsdel) och ingen ordagrann svensk lastgräns finns; avvisas enligt v1.7. Fakta som annars kunde skrivas: aluminium, svart, KSA40-fäste (40 mm på vänster kedjestag), längd 320-400 mm, hjul 24-29 tum (engelska webbkällor). Kan skrivas om David ger ja för cykelstöd utan lastgräns."
+ },
+ {
+  "id": "10515754615050",
+  "nr": 23041,
+  "skäl": "Motsägande källa som webben inte löser: titeln anger Union Credit V2 Pro, texten säger \"Union Classic V2 Pro-hjul\" och vikten 236 g är Classics. Ingen webbsida med SKU 105829 eller rosa Credit V2 Pro 110 mm hittades (Credit V2 finns bara i svart/neokrom). Utöver titeln kan bara diameter, färg och \"pris per hjul\" återges och modellen kan inte styrkas; avvisas."
+ },
+ {
+  "id": "10581100658954",
+  "nr": 23044,
+  "skäl": "Tunn källa: texten har inga mått, material eller andra entydiga fakta (bara allmänna omdömen). Webbsökning på SKU 53130 och EAN 6430016902588 gav ingen träff på Gymstick Court Icehockey Goal. Färre än två entydiga fakta utöver titeln; dessutom fristående mål (tippningsrisk)."
+ },
+ {
+  "id": "10581100822794",
+  "nr": 23045,
+  "skäl": "Tunn källa: ingen mått- eller materialuppgift, \"målvakt\" är maskinöversättning av mål och \"robust/stabilitet\" är kvalitetsord. Webbsökning på SKU 53150 och EAN 6430016902618 gav ingen träff. Färre än två entydiga fakta utöver titeln; fristående mål."
+ },
+ {
+  "id": "10581101838602",
+  "nr": 23047,
+  "skäl": "Viktset med skivstång och viktskivor är bärande/lastbärande utan ordagrann svensk lastgräns (ingen svensk webbsida med EAN 6430016903868 hittades). Källan har rehabiliteringspåstående och golvskydds-/ljudpåståenden som måste utelämnas och saknar viktuppdelning; webben (Galaxus, 2013-katalog) anger plattor 2x10, 2x5, 4x2,5, 2x1,25 kg och 165 cm stång men från äldre/utländska sidor och en norsk sida säger stål/10 plattor, alltså motstridigt. Avvisas."
+ },
+ {
+  "id": "10581101936906",
+  "nr": 23048,
+  "skäl": "Skivstång (bärande) utan ordagrann svensk lastgräns. Maxbelastning 100 kg, längd 120 cm, 30 mm och fjäderlås finns bara på finska/norska sidor (Prisma.fi, Taloon, prisradar.no, EAN 6430062510461), ingen svensk sida hittades. Livetexten har dessutom hälsopåståendet \"minskar belastningen på handleder och leder\". Avvisas enligt R4/v1.7."
+ }
+]
