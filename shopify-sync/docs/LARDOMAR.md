@@ -205,3 +205,6 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 ## 2026-11-05: utkast utan nr gav tyst bortfall i skrivfilen
 - **Vad hände:** I k_18a saknade fyra utkast `nr` (värdet var null). Byggskriptet använder `nr` som nyckel, så bara en av fem produkter hamnade i skrivfilen utan felmeddelande. Fyra flaskor skrevs först när jag såg att antalet inte stämde. Inget skrevs fel i butiken.
 - **Regel:** Alla utkast och utlåtanden ska ha unikt `nr` (för produkter utan nummer används ett löpnummer, t.ex. 18005). `bygg_m_skriv.py` stoppar nu om ett utkast saknar `nr`. Kontrollera alltid att antalet produkter i skrivfilen stämmer med antalet godkända.
+
+## 2026-11-05: Granskarens rättning med flera delar föll bort tyst
+Opus-utlåtandet för 28232 hade en html-rättning med flera delar skarvade med "|". Byggskriptet (`bygg_m_skriv.py`) skrev ut "fore träffar 0" men stoppade inte, så produkten skrevs med ett felaktigt ord ("Biltema") i beskrivningen. Stickprovet hittade det; rättat med `k_skriv_korr8.json`. Regel: läs byggskriptets utskrift efter rader med "fore träffar 0" och åtgärda före skrivning. Granskare ska ange en rättning per fält som en enda sammanhängande textbit eller ett fält per ändring.
