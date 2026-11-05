@@ -9,7 +9,7 @@ har ett gemensamt artikelnummer (SKU) och samma normaliserade titel-kärna. Kand
   - kandidaten har inget lager (totalInventory == 0) eller högst lika mycket som... (annars hoppas den över)
   - kandidaten är inte pilotprodukt
 Lägen: --dry-run (standard, skriver inget) och --kor (arkiverar, sparar före-fil, läser tillbaka).
-Användning: arkivera_dubbletter.py [--dry-run | --kor] [--ut KATALOG]
+Användning: arkivera_dubbletter.py [--dry-run | --kor] [--lista FIL] [--ut KATALOG]
 """
 import datetime, json, os, re, sys, csv
 
@@ -87,6 +87,11 @@ def main(argv=None):
     pilot = {r['produkt_id'] for r in csv.DictReader(open(os.path.join(ROT, 'rapporter/bestofsports-pilot-20-produkter-2026-10-25.csv'), encoding='utf-8'))}
     produkter = hamta_alla(klient)
     ark, hoppar = hitta(produkter, pilot)
+    if '--lista' in a:  # begränsa till exakt de rader David godkänt
+        gk = {(r['arkiveras'], r['behaller']) for r in json.load(open(a[a.index('--lista') + 1], encoding='utf-8'))}
+        ark = [(p, k, s) for p, k, s in ark if (api.sifferid(p['id']), api.sifferid(k['id'])) in gk]
+        if len(ark) != len(gk):
+            print(f'STOPP: {len(ark)} av {len(gk)} godkända rader uppfyller villkoren nu'); return 1
     print(f'{len(produkter)} aktiva; {len(ark)} dubbletter att arkivera, {len(hoppar)} hoppas över')
     for p, k, s in hoppar:
         print(f'  HOPPAR {api.sifferid(p["id"])} -> {api.sifferid(k["id"])}: {s}')
