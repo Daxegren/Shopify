@@ -51,3 +51,7 @@ Cirkulära inledningar (R11), meta utan verb, typord som byts utan stöd i käll
 ## v1.8 (2026-11-05): förtydligande av R3 (David)
 - Storleksvarianter med olika artikelnummer men SAMMA pris och SAMMA färg skrivs; titeln får inte låsa storlek, och färg anges bara om ingen variant anger en annan kulör. Olika pris eller olika färg mellan varianter avvisas som förut. Detta förtydligar v1.7, där "olika SKU avvisas" gäller riktiga varianter med olika pris.
 - Taggen "På beställning" kräver leveranstidsmeningen (R13); kontrolleras av granskaren.
+
+## v1.9 (2026-11-05): varianter med olika pris och reflexprodukter (David)
+- R3: varianter med olika pris får skrivas om produkten har lager (totalInventory > 0) och varianterna är samma artikel i olika färg eller storlek. Titel, SEO och text låser inte färg, storlek, vikt eller pris; bara fakta som gäller alla varianter anges. Produkter där varianterna är olika artiklar (olika vikt, modell eller mått, till exempel hantlar eller kettlebells i flera vikter) avvisas. Produkter utan lager skrivs inte.
+- Reflexprodukter får skrivas med bara fakta ur källan. Inga synlighets-, säkerhets- eller skyddslöften.
