@@ -1,0 +1,49 @@
+[
+ {
+  "id": "gid://shopify/Product/10581104263434",
+  "title": "Aerobic Stepper",
+  "handle": "aerobic-stepper",
+  "status": "ACTIVE",
+  "tags": [
+   "Gymstick"
+  ],
+  "updatedAt": "2026-10-25T03:08:46Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Förbättra din kondition och styrka med <strong>Gymstick Aerobic Stepper</strong>. Denna mångsidiga träningsutrustning är perfekt för en effektiv hemmaträning som utmanar både hjärta och muskler. Med justerbar höjd kan du enkelt anpassa intensiteten för att passa din träningsnivå och uppnå dina fitnessmål.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/10581104787722",
+  "title": "Balance Board",
+  "handle": "balance-board",
+  "status": "ACTIVE",
+  "tags": [
+   "Balansträning",
+   "Gymstick"
+  ],
+  "updatedAt": "2026-10-29T19:38:51Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Förbättra din <strong>balans</strong> och <strong>stabilitet</strong> med Gymstick Balance Board. Denna mångsidiga träningsutrustning är perfekt för att stärka core-muskulaturen, förbättra koordinationen och förebygga skador. Använd den för dynamiska övningar eller som ett utmanande komplement till din befintliga träning.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/10581105082634",
+  "title": "Boxing Hand Wraps",
+  "handle": "boxing-hand-wraps",
+  "status": "ACTIVE",
+  "tags": [
+   "Boxning",
+   "Gymstick"
+  ],
+  "updatedAt": "2026-10-18T04:03:49Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Skydda dina händer och handleder under intensiva träningspass med <strong>Gymstick Boxing Hand Wraps</strong>. Dessa högkvalitativa lindor ger optimalt stöd och kompression, vilket minskar risken för skador när du utövar kampsport eller styrketräning. Perfekta för boxning, thaiboxning och andra sporter där slag och stötar är vanliga.</p>"
+ }
+]

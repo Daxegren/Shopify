@@ -1,0 +1,100 @@
+[
+ {
+  "nr": 20015,
+  "id": "10581104263434",
+  "fil": "k_19b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Stepbräda av PP-plast från Gymstick med tre höjdlägen: 12, 17 och 22 cm.",
+    "efter": "Stepbrädan från Gymstick är gjord av PP-plast och kan ställas i tre höjdlägen: 12, 17 och 22 cm."
+   }
+  },
+  "skal": "Frisläppt av David 2026-11-05 (skrivs utan lastgräns resp. utan hälso-/skyddspåståenden); rättningar enligt k_utlatande_19abc/19de."
+ },
+ {
+  "nr": 20016,
+  "id": "10581104787722",
+  "fil": "k_19b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Balansbräda av PP-plast från Gymstick i svart och rött.",
+    "efter": "Balansbrädan från Gymstick är gjord av PP-plast och är svart och röd."
+   }
+  },
+  "skal": "Frisläppt av David 2026-11-05 (skrivs utan lastgräns resp. utan hälso-/skyddspåståenden); rättningar enligt k_utlatande_19abc/19de."
+ },
+ {
+  "nr": 20017,
+  "id": "10581105082634",
+  "fil": "k_19b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Boxing Hand Wraps är handlindor på 350 x 5 cm",
+    "efter": "Handlindorna Gymstick Boxing Hand Wraps mäter 350 x 5 cm och är gjorda"
+   },
+   "html": {
+    "fore": "<p>Gymstick Boxing Hand Wraps är handlindor på 350 cm i längd och 5 cm i bredd.",
+    "efter": "<p>Handlindorna Gymstick Boxing Hand Wraps är 350 cm långa och 5 cm breda."
+   }
+  },
+  "skal": "Frisläppt av David 2026-11-05 (skrivs utan lastgräns resp. utan hälso-/skyddspåståenden); rättningar enligt k_utlatande_19abc/19de."
+ },
+ {
+  "nr": 20018,
+  "id": "10581105213706",
+  "fil": "k_19b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Frisläppt av David 2026-11-05 (skrivs utan lastgräns resp. utan hälso-/skyddspåståenden); rättningar enligt k_utlatande_19abc/19de."
+ },
+ {
+  "nr": 20020,
+  "id": "10581110554890",
+  "fil": "k_19b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Svart stepbräda från Gymstick med gummibelagd yta och tre höjdlägen: 15, 20 och 25 cm.",
+    "efter": "Den svarta stepbrädan från Gymstick har gummibelagd yta och kan ställas i tre höjdlägen: 15, 20 och 25 cm."
+   }
+  },
+  "skal": "Frisläppt av David 2026-11-05 (skrivs utan lastgräns resp. utan hälso-/skyddspåståenden); rättningar enligt k_utlatande_19abc/19de."
+ },
+ {
+  "nr": 20021,
+  "id": "10581110587658",
+  "fil": "k_19b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Grå och svart stepbräda från Gymstick av PP och TPR med gummibelagd plattform",
+    "efter": "Stepbrädan från Gymstick är grå och svart, gjord av PP och TPR och har gummibelagd plattform"
+   }
+  },
+  "skal": "Frisläppt av David 2026-11-05 (skrivs utan lastgräns resp. utan hälso-/skyddspåståenden); rättningar enligt k_utlatande_19abc/19de."
+ },
+ {
+  "nr": 20022,
+  "id": "10581112750346",
+  "fil": "k_19b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Balansbräda i trä med rulle från Gymstick.",
+    "efter": "Balansbrädan från Gymstick är gjord i trä och levereras med rulle."
+   }
+  },
+  "skal": "Frisläppt av David 2026-11-05 (skrivs utan lastgräns resp. utan hälso-/skyddspåståenden); rättningar enligt k_utlatande_19abc/19de."
+ },
+ {
+  "nr": 20043,
+  "id": "10636676104458",
+  "fil": "k_19d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Frisläppt av David 2026-11-05 (skrivs utan lastgräns resp. utan hälso-/skyddspåståenden); rättningar enligt k_utlatande_19abc/19de."
+ }
+]
