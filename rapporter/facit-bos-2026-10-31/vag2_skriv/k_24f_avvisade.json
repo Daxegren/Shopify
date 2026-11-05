@@ -1,0 +1,57 @@
+[
+ {
+  "id": "10494699372810",
+  "nr": 24121,
+  "skäl": "Ingen lastgräns i produktens egen källa (bärande fäste/stöd för bakhjul); bärande utan svensk lastgräns. Dessutom oklar produkttyp."
+ },
+ {
+  "id": "10502528041226",
+  "nr": 24122,
+  "skäl": "Kedja bär last; bärande utan svensk lastgräns (källan saknar beskrivning)."
+ },
+ {
+  "id": "10515745636618",
+  "nr": 24123,
+  "skäl": "R3: titelns färg 'Krom/Svart' motsäger källans 'Färg: svart-grå' (en variant, v1.7/v1.8 hjälper inte) och källan har en trasig rad ('sits i aluminium'). Lastkapacitet 100 kg finns men löser inte färgmotsägelsen."
+ },
+ {
+  "id": "10548251230474",
+  "nr": 24124,
+  "skäl": "Pedaler bär last; bärande utan svensk lastgräns i källan."
+ },
+ {
+  "id": "10554354073866",
+  "nr": 24125,
+  "skäl": "Pedaler bär last; bärande utan svensk lastgräns i källan."
+ },
+ {
+  "id": "10554363117834",
+  "nr": 24127,
+  "skäl": "Pedalplattor bär last och styr frigöring; bärande utan svensk lastgräns i källan (bara '9 grader')."
+ },
+ {
+  "id": "10565560631562",
+  "nr": 24128,
+  "skäl": "Pedaler bär last; bärande utan svensk lastgräns i källan."
+ },
+ {
+  "id": "10565595726090",
+  "nr": 24129,
+  "skäl": "Fotstöd bär last; bärande utan svensk lastgräns i källan (en rad)."
+ },
+ {
+  "id": "10581101641994",
+  "nr": 24130,
+  "skäl": "Sju varianter med olika SKU och priser 2 039-4 789 kr, oförklarade (R3). Skivstång: ingen svensk lastgräns i källan (R4)."
+ },
+ {
+  "id": "10581102035210",
+  "nr": 24131,
+  "skäl": "Hängande redskap (remmar för crunch i stång) utan svensk lastgräns i källan; bärande utan svensk lastgräns."
+ },
+ {
+  "id": "10581102231818",
+  "nr": 24132,
+  "skäl": "Två varianter med olika SKU och pris (61070-15 1 139 kr, 61070-20 1 449 kr) trots titeln 15 kg (R3). Justerbara hantlar med lås och last: ingen svensk lastgräns i källan."
+ }
+]
