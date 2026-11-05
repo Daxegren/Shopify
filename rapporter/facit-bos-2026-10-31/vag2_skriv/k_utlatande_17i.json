@@ -1,0 +1,92 @@
+[
+ {
+  "nr": 9923,
+  "id": "10581110751498",
+  "fil": "k_17i_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Gymstick PRO20.0 är en liggande motionscykel med datorstyrt magnetiskt motstånd i 32 nivåer och 12 förinställda program.",
+    "efter": "Den liggande motionscykeln Gymstick PRO20.0 har datorstyrt magnetiskt motstånd i 32 nivåer och 12 förinställda program."
+   },
+   "meta": {
+    "fore": "Gymstick PRO20.0 är en liggande motionscykel med magnetiskt motstånd i 32 nivåer, 12 förinställda program och LED-display.",
+    "efter": "Den liggande motionscykeln Gymstick PRO20.0 har magnetiskt motstånd i 32 nivåer, 12 förinställda program och LED-display."
+   }
+  },
+  "skal": "Live (ACTIVE, en variant PRO20.0, SKU RB-PRO20.0, EAN 6430062515190, 20 999 kr) stämmer med fakta. gymstick.com/pro20-0-recumbent-bike.html öppnad av granskaren: EAN och SKU stämmer; 172.5 x 75 x 122 cm, 78.5 kg, svänghjul 13.5 kg, 32-level magnetiskt datorstyrt motstånd, 12 preset-program, LED Matrix, handtagssensorer 5 kHz/Polar, bröstband köps separat, self-generating. Allt i texten bekräftat. Max user weight 180 kg är engelsk och rätt utelämnad (R4); garanti (olika per användning), Bluetooth/appar och rehab rätt utelämnade. 'Nivåer' i titeln är motståndssteg, inte last. Typordet 'Liggande Motionscykel' är butikens live-ord (sex skrivna, t.ex. 10472308375818 Toorx BRX R3000, 10471002931466 Tunturi E60R) och översätter entydigt 'Recumbent Bike' (R7). Rättning: html och meta började 'Gymstick PRO20.0 är en liggande motionscykel' (cirkulär inledning, R11); skriptets test missar den eftersom punkten i 'PRO20.0' stoppar mönstret. Ingen dubblett (enda PRO20-produkten)."
+ },
+ {
+  "nr": 9621,
+  "id": "10581111079178",
+  "fil": "k_17i_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Svart rack av stål och polypropylen från Gymstick som rymmer sex par hantlar. Racket väger 36 kg.",
+    "efter": "Racket från Gymstick rymmer sex par hantlar och väger 36 kg. Det är svart och tillverkat av stål och polypropylen."
+   },
+   "meta": {
+    "fore": "Svart rack av stål och polypropylen från Gymstick för 6 par Pro Rubber-hantlar. Racket väger 36 kg.",
+    "efter": "Racket från Gymstick rymmer 6 par Pro Rubber-hantlar. Det är svart, tillverkat av stål och polypropylen och väger 36 kg."
+   }
+  },
+  "skal": "Live (ACTIVE, variant 6B, SKU 61057-4-6B, EAN 6430016908979, 3 999 kr) stämmer med fakta. gymstick.com/rack-for-6pr-pro-rubber-dumbbells.html öppnad: EAN och SKU stämmer; 6 par, Steel and PP, Black/All black, 36 kg. Maximum load 250 kg rätt utelämnad (engelsk, R4). Måtten rätt utelämnade: beskrivningen anger W x D x H 148 x 54 x 81 och tabellen 148 x 81 x 54 utan ordning, och återförsäljaren anger andra mått. Ergonomi- och säkerhetspåståenden (handleder, 'prevent dangerous rolling') rätt utelämnade (R5). 'Pro Rubber' är tillverkarens produktnamn. Typordet 'Rack' är live-titelns ord (R7). Rättning: första meningen i html och i meta saknade huvudverb (R11, 'meta utan verb'). Ingen dubblett (enda produkten med EAN:en; inget annat rack för sex par)."
+ },
+ {
+  "nr": 9620,
+  "id": "10581111111946",
+  "fil": "k_17i_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Kettlebellrack i svart stål och gummi, 60 x 120 x 75 cm. Racket rymmer minst 12 kettlebells av valfri storlek och väger 30 kg.",
+    "efter": "Kettlebellracket från Gymstick rymmer minst 12 kettlebells av valfri storlek. Det är av svart stål och gummi, mäter 60 x 120 x 75 cm och väger 30 kg."
+   }
+  },
+  "skal": "Live (ACTIVE, variant 0, SKU 61098-0, EAN 6430016907651, 4 299 kr) stämmer med fakta. gymstick.com/rack-for-kettlebells.html öppnad: EAN och SKU stämmer; 'Holds up atleast 12 any size kettlebells', Steel, Rubber, All black, 60 x 120 x 75 cm, 30 kg. Kapacitet i antal är ingen lastgräns. Måtten anges utan etikett för ordning, vilket är rätt. 'Robust commercial level' rätt utelämnat (R5). Typordet 'Kettlebellrack' står i live-beskrivningen (R7). Rättning: metans första mening saknade verb. Ingen dubblett (inget annat kettlebellrack i butiken)."
+ },
+ {
+  "nr": 10009,
+  "id": "10581112160522",
+  "fil": "k_17i_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Tricepsstång från Gymstick för kabelövningar för armarna, av stål med gummigrepp.",
+    "efter": "Tricepsstången från Gymstick används vid kabelövningar för armarna och är av stål med gummigrepp."
+   }
+  },
+  "skal": "Live (ACTIVE, Default, SKU 61251, EAN 6430016902885, 399 kr) stämmer med fakta. gymstick.com/triceps-full-extension-bar.html öppnad: EAN och SKU stämmer; 'optimized for cable arm movements', ergo-rotating design, rubber grips, Steel 95 % / Thermo-Plastic-Rubber 5 %, 40,5 x 21,5 x 3,5 cm, 2,74 kg. Detta löser c_15:s fråga om produkttypen: det är ett kabelfäste, inte en stång som lastas med vikter, så det finns ingen lastgräns att utelämna. 'Wrist-friendly grip', 'durable' och bicepscurls/pushdowns rätt utelämnade. 'Enligt tillverkaren' två gånger (tillåtet, R5). Typordet 'Tricepsstång' är butikens live-ord för samma slags produkt, bl.a. Gymstick-syskonet 10581112127754 'Tricepsstång Gymstick Triceps Pull Down Bar' och tre till (R7). Rättning: metans första mening saknade verb. Ingen dubblett (annan SKU än Pull Down Bar 61158)."
+ },
+ {
+  "nr": 10011,
+  "id": "10581112258826",
+  "fil": "k_17i_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Svart gummidel av TPR från Gymstick för Nordic Walking-stavar.",
+    "efter": "Den svarta gummidelen av TPR från Gymstick sätts på Nordic Walking-stavar."
+   }
+  },
+  "skal": "Live (ACTIVE, Default, SKU 20008, EAN 6430016902212, 79 kr): live-texten beskriver felaktigt en träningsprodukt för greppstyrka och är inte använd, vilket är rätt. gymstick.com/universal-paw.html öppnad: EAN och SKU stämmer; TPR, All black, 'Measurement data for one paw', 6 x 3,5 x 2 cm, 0.01 kg, 'suitable for all common Nordic Walking pole models', 'absorb shocks ... reduce strain' rätt utelämnat (R5). Utkastet skriver att antalet inte anges, men tillverkaren har Unit 'PR' (par). Eftersom det inte är säkert att butiken säljer ett par för 79 kr nämner texten inget antal, och det är rätt. Typordet: 'Paw' är live-titelns ord. Källan har inget svenskt ord, och varken butiken ('tass' ger 0 träffar) eller profilen har något, så R7 tillåter att titelns ord behålls. Ett svenskt ord (t.ex. 'gummitass' eller 'stavtass') kräver beslut och en post i profilen (se utlåtandet). Rättning: metans första mening saknade verb. Ingen dubblett: 10581096890634 Active Universal Paw (SKU 72085) och Active Trekking Paw (72088) är DRAFT, oskrivna och har andra SKU."
+ },
+ {
+  "nr": 9941,
+  "id": "10581112848650",
+  "fil": "k_17i_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Gymstick Wrist Support 1.0 är ett elastiskt handledsstöd med justerbar rem.",
+    "efter": "Det elastiska handledsstödet Gymstick Wrist Support 1.0 har en justerbar rem."
+   },
+   "meta": {
+    "fore": "Gymstick Wrist Support 1.0 är ett elastiskt handledsstöd med justerbar rem i grå-vitt. Storleken är 35 x 11 x 2 cm och passar alla.",
+    "efter": "Det elastiska handledsstödet Gymstick Wrist Support 1.0 har justerbar rem och är grå-vitt. Det finns i en storlek, 35 x 11 x 2 cm."
+   }
+  },
+  "skal": "Live (ACTIVE, Default, SKU 63070, EAN 6430016901055, 69 kr) stämmer med fakta. gymstick.com/wrist-support-1-0.html öppnad: EAN och SKU stämmer; elastic, breathable, moisture-wicking, adjustable strap, one size, Rubber 30 % / Polyester 35 % / Nylon 35 %, Grey-White, 35 x 11 x 2 cm. Inga hälso- eller skadepåståenden finns i texten: 'sore wrists', 'strain injuries (mouse hand)', live-textens 'minskar risken för skador' och 'lyfta tyngre' är alla utelämnade. 'Handledsstöd' är typordet (live-texten och två skrivna titlar), inte ett påstående. Andningsbart/fuktavledande står med 'enligt tillverkaren' (R5). Det tidigare underkännandet (c_17/k_11f) byggde på påståendena och på att källan var tunn; båda är nu lösta. Rättningar: html och meta började 'Gymstick Wrist Support 1.0 är ett elastiskt handledsstöd' (cirkulär inledning, missad av skriptet på grund av punkten i '1.0'), och metans 'passar alla' var ett löfte; nu står 'Det finns i en storlek'. Ingen dubblett: Wrist Support 2.0 (10611442450698) är en annan modell och avvisad i k_17j."
+ }
+]
