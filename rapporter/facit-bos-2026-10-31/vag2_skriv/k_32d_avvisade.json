@@ -1,0 +1,27 @@
+[
+ {
+  "id": "10475424284938",
+  "nr": 32037,
+  "skäl": "Oklar produkttyp och tunn källa: live-titeln är en maskinöversatt fras och källan ger bara styrdiameter 22–25,4 mm och mått 15 x 9 x 8 cm (\"Fixed Mounted Stem Holder\"); det framgår inte säkert vad produkten är (korgfäste/hållare) eller vad den bär. Lastgräns inte relevant att ange utan klar produkttyp."
+ },
+ {
+  "id": "10494699340042",
+  "nr": 32042,
+  "skäl": "Titel och källa motsäger varandra (R3): titeln säger \"Stöd för bakväxel\", källan säger stöd för bakhjul. Webbkoll visar att artikel 500000012 är e-cykelvarianten av Giant Direct Mount KSA (för batteridrivna cyklar), vilket källan inte säger. Avvisas."
+ },
+ {
+  "id": "10502528041226",
+  "nr": 32044,
+  "skäl": "Kedja (Shimano HG54): live-beskrivningen är tom, så källan är tunn (R3), och kedjor är säkerhetskritiska delar som inte ingår i Davids beslut om lastgräns (v1.10)."
+ },
+ {
+  "id": "10515738067210",
+  "nr": 32045,
+  "skäl": "Källan är maskinöversatt och motsägelsefull: \"stöd för bakre löpare\", \"aluminium klätterutrustning material\", \"stabilt och gediget\"; bara aluminium och KSA40 är entydigt. Webbkoll visar e-cykelspecifikt stöd. Produkttypen oklar i egen källa; avvisas (R2/R3)."
+ },
+ {
+  "id": "10554363117834",
+  "nr": 32048,
+  "skäl": "Pedalplattor (Look Keo Cleat): del av pedalsystemet som styr frigöring (säkerhetsdel), ingår inte i v1.10, och källan är tunn: bara \"9 grader\" utöver titeln (R3)."
+ }
+]
