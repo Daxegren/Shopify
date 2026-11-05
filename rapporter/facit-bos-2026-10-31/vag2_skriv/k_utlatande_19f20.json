@@ -1,0 +1,154 @@
+[
+ {
+  "nr": 20057,
+  "id": "10636740755722",
+  "fil": "k_19f_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Plyobox i plywood med handtag på kortsidorna.",
+    "efter": "Plyoboxen är gjord av plywood och har handtag på kortsidorna."
+   },
+   "html": {
+    "fore": "Den har handtag på kortsidorna, och enligt tillverkaren är den maximala lastkapaciteten 200 kg.</p>",
+    "efter": "Den har handtag på kortsidorna.</p>"
+   }
+  },
+  "skal": "Metans första mening saknar verb (R11). Lastgränsen stod två gånger med 'enligt tillverkaren' (löptext och specifikation); R4 tillåter en gång, så den stryks ur löptexten och står kvar i specifikationen med källans etikett 'Maximal lastkapacitet: 200 kg'. Lastgränsen är ordagrann svensk med etikett och enhet, så plyoboxen (bärande) är tillåten enligt v1.7. Höjderna: live säger 50/60/75 cm, leverantörens sida (gorillasports.se/products/plyobox-tra-plint, öppnad 2026-11-05) säger både 50/60/75 och 51/76 cm; att utelämna dem är rätt (R2), måtten 60 x 50,5 x 75,5 cm står kvar. Material, vikt 24 kg och handtag stämmer. Träningseffekter rätt utelämnade (R5). Inte dubblett med 20054 (Plyobox 500kg, annan SKU)."
+ },
+ {
+  "nr": 20058,
+  "id": "10636744229130",
+  "fil": "k_19f_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Träningsutrustning Tower 2000",
+    "efter": "Gummiband Tower 2000"
+   },
+   "seo_title": {
+    "fore": "Träningsutrustning Tower 2000",
+    "efter": "Gummiband Tower 2000"
+   },
+   "html": {
+    "fore": "Typ: Träningsutrustning med gummiband för dörrmontering",
+    "efter": "Typ: Gummiband för dörrmontering"
+   }
+  },
+  "skal": "Typordet: 'Träningsutrustning' finns inte i godkanda_typord och är en kategori, inget typord; källan använder det bara i en säljfras ('en av de mest universella träningsutrustning'). Butikens eget live-ord är produkttypen 'Gummiband', källan beskriver motståndet med 'gummibandens' färger, och leverantörens (Gorilla Sports) övriga bandprodukter är skrivna med typordet Gummiband. Därför Gummiband (R7, butikens live-ord). Den löptextmening som säger 'träningsutrustning som monteras på en dörr' är beskrivande och får stå. Motstånden 13,5/27,5/40 kg är motstånd, ingen lastgräns, och '81 kg' (summan) är rätt utelämnad (R4). Dörrmåtten, svart färg och innehållet stämmer med live och med gorillasports.se/products/tower-2000-svart-rod (öppnad 2026-11-05)."
+ },
+ {
+  "nr": 20060,
+  "id": "10676717846794",
+  "fil": "k_19f_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live (Default Title, SKU 1031032146): 'Shimano Ultegra Di2 elektronisk', 24 växlar, Ultegra hydrauliska bromsar, SLR 0 40 kolfiberhjul och CADEX-däck stämmer. Elektronisk växling är tillåten med ordagrann källa (v1.7), och texten påstår ingen mekanisk växling eller batteri. Ingen ramstorlek nämns (en variant). Leveranstidsmeningen är rätt (taggen På beställning). Dubblett (R12a): ingen produkt med samma titel är skriven. Av de två med samma SKU 1031032146 är denna den äldsta (2026-10-22 12:51:29 mot 12:51:30 för 10676717945098, pris 94 849 kr). 10624087556362 och 10624087785738 (2026-09-14) har SKU 145/147, alltså andra storlekar, och är avvisade i k_16e/k_15. Flagga: sammanslagningsplanen (rad 22) har 10624087556362 som behållare och tar inte med 10-22-produkterna; om denna får texter-klara blir den behållare enligt planens regel. Planen bör uppdateras före sammanslagningen."
+ },
+ {
+  "nr": 20061,
+  "id": "10676718665994",
+  "fil": "k_19f_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Fondo 0, tubeless, 700x32c",
+    "efter": "Fondo 0, slanglösa, 700x32c"
+   }
+  },
+  "skal": "Källan säger 'slanglösa', inte 'tubeless' (R1). Rättningen gäller specifikationsraden. Varianter: M / gray (SKU 1031034145) och M/L / gray (SKU 1031034146), samma pris 76 409 kr och samma färg. Enligt prejudikaten k_16a (7041) och k_16b (7062) är olika SKU på vanliga storleksvarianter med samma pris och färg tillåtet; v1.7 avvisar bara en Default Title med egen SKU. Titeln anger ingen storlek, och texten nämner bara de sålda storlekarna M och M/L (R3 v1.5). 'Midnight Moon' är live-titelns färgnamn och 'gray' variantens färgfamilj, ingen motsägelse. SRAM Rival AXS E1 skrivs utan påståendet 'elektronisk', vilket är rätt eftersom källan inte säger det. Dubblett: denna är äldst av de tre med samma SKU-par (12:51:47 mot 12:51:49 och 12:51:50). 10624087654666 och 10624087818506 har SKU 147/148 och är avvisade. Samma flagga om sammanslagningsplanen (rad 23) som för 20060."
+ },
+ {
+  "nr": 21062,
+  "id": "10468716216586",
+  "fil": "k_20a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live stämmer: aluminium, förare 160–190 cm, Bafang M600 Cargo 250 W/100 Nm, vridmomentsensor, LG 48 V/20 Ah/960 Wh, upp till 90 km, SR Suntour 50 mm, Enviolo och Tektro 4-kolvs. 'Lastkapacitet: 250 kg' är svensk och etiketterad men anger inte vad lasten gäller (låda eller totalt). Webbuppgifterna om 250 kg totalt och 60 kg i lådan gör den tvetydig, så det är rätt att utelämna den (R4: 'entydigt anger vad lasten gäller'). Cykelvikten är rätt utelämnad (källorna går isär). Källans 'bära dina små' används inte, och texten säger inget om barn. Två 'enligt tillverkaren' (R5)."
+ },
+ {
+  "nr": 21063,
+  "id": "10468727521546",
+  "fil": "k_20a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Varianter: M / gray och L / gray med olika SKU men samma pris (36 279 kr) och samma färg. Det är vanliga storleksvarianter och tillåtet enligt k_16a/k_16b; titelns färg Grå gäller båda. Ramstorlekarna M och L är just de sålda varianterna (R3 v1.5), och den skrivna Brasa Vit har samma upplägg. 'Maximal lastkapacitet: 120 kg' är svensk med etikett och enhet och står en gång enligt tillverkaren (R4). Panasonic GX Ultimate, 720 Wh, Deore 11 växlar, 180/203 mm och CST 26 x 4,0 stämmer. 'Cues U8000', 'i genomsnitt 100 km' och vikten är rätt utelämnade."
+ },
+ {
+  "nr": 21064,
+  "id": "10470905282826",
+  "fil": "k_20a_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Väntar på Davids beslut. Produkten är enligt källan en barntransport ('Family Electric Box Carousel ... rymmer upp till 4 barn', bänkar med 3-punkts säkerhetsbälten, kapell för att skydda barn), och barn står under utanfor_tills_vidare (R6). Spärren missade den eftersom titeln saknar barnord, men motsvarande tillbehör (Kids Seat, kapellramar för Kindergarten) är barnspärrade. Texten kan inte beskriva produkten ärligt utan barnen. Den skriver 'upp till 4 barn' som kapacitetsuppgift men utelämnar bältena, och det ger en ofullständig bild i säkerhetsfrågan. Att skriva in bältena vore ett skyddspåstående som kräver beslut (R5). Övriga fakta stämmer med live (plywood, 215 x 86 x 125 cm, magnesiumhjul 20/26, Shimano 7 växlar, 250 W, 12,8 Ah, 20–40 km, 60 kg, 'Lastkapacitet: lastlåda 100 kg + förare 100 kg', sadelhöjd 75 cm, kapell ingår ej), så texten kan skrivas oförändrad om David frisläpper lastcyklar för barn utan skyddspåståenden."
+ },
+ {
+  "nr": 21065,
+  "id": "10470906167562",
+  "fil": "k_20a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live stämmer: låsbart lock, inga säten, högre kanter, 215 x 83 x 110 cm, låda 90 x 59 x 59 cm, Ananda 250 W/110 Nm, 16 Ah/36 V, Altus 8 växlar, 24/26 x 2,15 med reflexremsa, sadelhöjd ca 75 cm, 30–50 km och 60 kg. Lastkapaciteten '100 kg (lastlåda) + 100 kg (förare)' är svensk, etiketterad och entydig, och står en gång enligt tillverkaren. Marknadsord och 'punkteringsskyddade' är rätt utelämnade (R5). Det är en låda för gods, utan barn. Egen SKU 1161, ingen dubblett."
+ },
+ {
+  "nr": 21066,
+  "id": "10470906331402",
+  "fil": "k_20a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live stämmer: upphöjd kant, låsbart lock, 215 x 83 x 110 cm, låda 90 x 59 x 59 cm, 250 W/45 Nm, 12,8 Ah/36 V, Tourney 7 växlar, däck och sadelhöjd, 30–40 km och 60 kg. Lastkapaciteten är svensk och etiketterad och står en gång enligt tillverkaren. 'Företag eller familj' har stöd i källan ('hjälper företag och familjer'). Miljö- och marknadsord är rätt utelämnade. Egen SKU 1171, skild från den skrivna Flex."
+ },
+ {
+  "nr": 21067,
+  "id": "10470906364170",
+  "fil": "k_20a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live stämmer: upphöjda kanter, låsbart lock, 210 x 86 x 110 cm, låda 87 x 59 x 59 cm (framhöjd 55 cm), Bafang 250 W/45 Nm, 13 Ah/36 V, Shimano SiS 6 växlar, 20/24, sadelhöjd ca 78 cm, 20–40 km och 55 kg. Lastkapaciteten '100 kg (låda) + 100 kg (förare)' står med källans etikett, en gång enligt tillverkaren. 'Beprövad', 'pålitlig' och 'skyddad från regn' är rätt utelämnade (R5). Egen SKU 1271."
+ },
+ {
+  "nr": 21068,
+  "id": "10472287305994",
+  "fil": "k_20b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Räckvidd och lastkapacitet: Upp till 130 km och 120 kg enligt tillverkaren",
+    "efter": "Räckvidd och maximal belastning: Upp till 130 km och 120 kg enligt tillverkaren"
+   }
+  },
+  "skal": "Den här produktens egen källa säger 'Maximal belastning: 120 kg', inte 'lastkapacitet' som hos Grå. Etiketten ska återges ordagrant (R4, som i 20055). Varianten är Default Title (SKU …/20 = L), och texten nämner ingen ramstorlek, vilket är rätt (R3 v1.5). Övriga fakta stämmer med live. 'Cues U8000' och 'i genomsnitt 100 km' är rätt utelämnade."
+ },
+ {
+  "nr": 21069,
+  "id": "10554441498890",
+  "fil": "k_20b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live (Default Title, SKU K25/5/22/2) stämmer: Bafang 250 W/45 Nm framhjulsdrift, LG 602 Wh, upp till 70 km, aluminium, Nexus 3 växlar, mekaniska skivbromsar, CST 24 x 2.4, 42 kg och setets delar. Flagga för batteriet: velo-store.co.uk anger 576 Wh (36 V, 16 Ah) för 'Lovelo 2023', medan alla tre färgernas egna källor och Velomarkets sidor anger 602 Wh. Butikens SKU K25 tyder på en senare årsmodell. Webbsidan gäller alltså inte entydigt exakt modellen (v1.6), och egen källa gäller (R1). Den skrivna Svart (8891) har samma värde. Ingen lastgräns och inga barnuppgifter finns."
+ },
+ {
+  "nr": 21070,
+  "id": "10612594508042",
+  "fil": "k_20b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live (Default Title, SKU K25/5/20/2/X) stämmer: Bafang 250 W/45 Nm framhjulsmotor, LG 602 Wh, 70 km, Nexus 8 växlar, hydrauliska skivbromsar, CST 24 x 2.4, 42 kg och setets delar. Komfort, stabilitet och 'säker körupplevelse' är rätt utelämnade (R5). SEO-titeln följer den skrivna Svart (8892). 602 Wh står i egen källa; flaggan om 576 Wh gäller bara Lovelo 2023 och inte Curtis X."
+ },
+ {
+  "nr": 21071,
+  "id": "10612594540810",
+  "fil": "k_20b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live (Default Title, SKU K25/5/22/5) stämmer på samma punkter som 21069 ('navmotor fram' = framhjulsdrift). Samma flagga: 602 Wh i egen källa mot 576 Wh för Lovelo 2023 på velo-store.co.uk. Egen källa gäller (R1)."
+ },
+ {
+  "nr": 21072,
+  "id": "10676713259274",
+  "fil": "k_20b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live stämmer: Bafang mittmotor 250 W/80 Nm, 13 Ah/36 V, 40–70 km, aluminium, Nexus 7 växlar, Tektro hydrauliska, 26/20 x 1.95, 30 kg och 200 x 65 x 110 cm. Ingen lastgräns i källan, och ingen har lagts till. Dubblett: 10676713390346 har samma SKU 1180 och skapades senare (12:49:26 mot 12:49:21), så denna är äldst och ska skrivas (R12a). Den andra är rätt avvisad, men bör tas med i sammanslagningsplanen. Prisskillnad 61 849 mot 61 969 kr. Inga barnuppgifter. Observera: vikten 30 kg är låg jämfört med andra Cargobike-modeller (55–60 kg), men den står ordagrant i egen källa."
+ }
+]
