@@ -1,0 +1,86 @@
+[
+ {
+  "id": "10541369098506",
+  "nr": 27006,
+  "avvisningsskal": "Två varianter med olika SKU (490000099 och 490000095, båda 109 kr) utan förklarande namn; v1.7 undantar bara samma SKU. Titeln låser Svart/Blå och (L) men färg och sida kan inte styrkas för båda varianterna (R3).",
+  "batch_gammal": "k_17g_avvisade.json",
+  "titel_nu": "Flaskhållare GIANT Airway Sport Sidepull (L), Svart/Blå"
+ },
+ {
+  "id": "10581104230666",
+  "nr": 27007,
+  "avvisningsskal": "Tunn källa (R2, R3): live-källan säger bara \"justerbart handtag\" som anpassar motstånd och grepp, utan typ, mått eller material; resten är marknadsföring (R5). Två varianter L och S med olika SKU (61055-L, 61055-S, båda 169 kr) utan förklaring.",
+  "batch_gammal": "k_17g_avvisade.json",
+  "titel_nu": "Justerbart handtag, lätt"
+ },
+ {
+  "id": "10581104427274",
+  "nr": 27008,
+  "avvisningsskal": "Tre varianter med olika SKU (61200-BL, -BLU, -PI) och oförklarade namn; titeln låser Svart-Röd (R3). Ingen live-beskrivning att bygga på.",
+  "batch_gammal": "k_17g_avvisade.json",
+  "titel_nu": "Air Track 300 x 100 x 10cm, Svart-Röd"
+ },
+ {
+  "id": "10636616696074",
+  "nr": 27009,
+  "avvisningsskal": "R3/v1.7: 12 färgvarianter med olika SKU (20040605–20040616); olika SKU på riktiga varianter avvisas.",
+  "batch_gammal": "k_19c_avvisade.json",
+  "titel_nu": "Träningsmatta Yogamatta Movit 183x60cm"
+ },
+ {
+  "id": "10636616925450",
+  "nr": 27010,
+  "avvisningsskal": "R3/v1.7: 12 färgvarianter med olika SKU (20040319–20040478); olika SKU på riktiga varianter avvisas.",
+  "batch_gammal": "k_19c_avvisade.json",
+  "titel_nu": "Träningsmatta Yogamatta Movit 190x60cm"
+ },
+ {
+  "id": "10636617122058",
+  "nr": 27011,
+  "avvisningsskal": "R3/v1.7: 12 färgvarianter med olika SKU (20040300–20040475); olika SKU på riktiga varianter avvisas.",
+  "batch_gammal": "k_19c_avvisade.json",
+  "titel_nu": "Träningsmatta Yogamatta Movit 190x100cm"
+ },
+ {
+  "id": "10636638224650",
+  "nr": 27012,
+  "avvisningsskal": "R3: tre färgvarianter (Svart/Grå/Blå) med olika SKU (101170-00019/-00040/-00059-0238); Default Title-undantaget i v1.7 gäller bara samma SKU och färg. Källan innehåller dessutom rehabpåstående (R5). Äldre prövning: omprovning-pass3 utan utkast.",
+  "batch_gammal": "k_19d_avvisade.json",
+  "titel_nu": "Pilatesring 36cm"
+ },
+ {
+  "id": "10636652085514",
+  "nr": 27013,
+  "avvisningsskal": "R3: fyra färgvarianter (Turkos/Grå/Korall/Isblå) med olika SKU (101167-00132/-00151/-00148/-00149-0234).",
+  "batch_gammal": "k_19d_avvisade.json",
+  "titel_nu": "Yogamatta PVC 180x60cm"
+ },
+ {
+  "id": "10636653822218",
+  "nr": 27014,
+  "avvisningsskal": "R3: fyra färgvarianter (Grå/Turkos/Ljusblå/Röd) med olika SKU (101168-00156/-00155/-00154/-00153-0235).",
+  "batch_gammal": "k_19d_avvisade.json",
+  "titel_nu": "Träningshandduk Yogahandduk 180x60cm"
+ },
+ {
+  "id": "10636676792586",
+  "nr": 27015,
+  "avvisningsskal": "R3: tre färgvarianter (Röd/Svart/Blå) med olika SKU (101128-00038/-00019/-00030-0001); Default Title-undantaget gäller inte.",
+  "batch_gammal": "k_19d_avvisade.json",
+  "titel_nu": "Parallettes Push Up Bars Low"
+ },
+ {
+  "id": "10636683018506",
+  "nr": 27016,
+  "avvisningsskal": "R3: tio färgvarianter med olika SKU (101048-00084-0219 m.fl.); olika SKU på riktiga varianter avvisas (v1.7). Inget äldre utlåtande finns; skälet är nytt.",
+  "batch_gammal": "k_19e_avvisade.json",
+  "titel_nu": "Yogabälte GS"
+ },
+ {
+  "id": "10636701303050",
+  "nr": 27017,
+  "avvisningsskal": "R3/R2: åtta färgvarianter med olika SKU (100977-00049-0001 m.fl.) och källan motsäger sig om tjockleken (0,8 cm i löptexten, 0,6 cm i specifikationen). Halkskydds- och bärlöften (R5).",
+  "batch_gammal": "k_19e_avvisade.json",
+  "titel_nu": "Yogamatta TPE 180x60cm"
+ }
+]
