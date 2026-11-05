@@ -1,0 +1,44 @@
+[
+ {
+  "id": "10468716216586",
+  "nr": 21062,
+  "avvisningsskal": "El-lastcykel med motor och batteri (tagg Elcykel, Lastcykel); lastcykel och elcykel avvisas.",
+  "batch_gammal": "k_10_avvisade.json",
+  "titel_nu": "El-lastcykel TENWAYS Cargo One"
+ },
+ {
+  "id": "10468727521546",
+  "nr": 21063,
+  "avvisningsskal": "El-fatbike med motor och batteri (tagg Elcykel).",
+  "batch_gammal": "k_10_avvisade.json",
+  "titel_nu": "El-fatbike LEADER FOX Brasa 26\": Grå"
+ },
+ {
+  "id": "10470905282826",
+  "nr": 21064,
+  "avvisningsskal": "El-lastcykel med motor och batteri (CARGOBIKE of SWEDEN Svensson Family); lastcykel och elcykel avvisas.",
+  "batch_gammal": "k_10_avvisade.json",
+  "titel_nu": "El-lastcykel CARGOBIKE of SWEDEN Svensson Family"
+ },
+ {
+  "id": "10470906167562",
+  "nr": 21065,
+  "avvisningsskal": "El-lastcykel med motor och batteri (CARGOBIKE of SWEDEN Delight Box); lastcykel och elcykel avvisas.",
+  "batch_gammal": "k_10_avvisade.json",
+  "titel_nu": "El-lastcykel CARGOBIKE of SWEDEN Delight Box"
+ },
+ {
+  "id": "10470906331402",
+  "nr": 21066,
+  "avvisningsskal": "El-lastcykel med motor och batteri (CARGOBIKE of SWEDEN Flex Box); lastcykel och elcykel avvisas.",
+  "batch_gammal": "k_10_avvisade.json",
+  "titel_nu": "El-lastcykel CARGOBIKE of SWEDEN Flex Box"
+ },
+ {
+  "id": "10470906364170",
+  "nr": 21067,
+  "avvisningsskal": "El-lastcykel med motor och batteri (CARGOBIKE of SWEDEN Classic Box); lastcykel och elcykel avvisas.",
+  "batch_gammal": "k_10_avvisade.json",
+  "titel_nu": "El-lastcykel CARGOBIKE of SWEDEN Classic Box"
+ }
+]

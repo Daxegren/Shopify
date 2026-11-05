@@ -1,0 +1,44 @@
+[
+ {
+  "id": "10472287305994",
+  "nr": 21068,
+  "avvisningsskal": "Elektrisk fatbike med motor 250 W, batteri 720 Wh, belysning och pakethållare, maxbelastning 120 kg: elcykel och belysning. Avvisas.",
+  "batch_gammal": "k_11_avvisade.json",
+  "titel_nu": "El-fatbike LEADER FOX Brasa 26\": Grön"
+ },
+ {
+  "id": "10554441498890",
+  "nr": 21069,
+  "avvisningsskal": "Elcykel/el-trehjuling med motor (250 W), batteri (602 Wh) och belysning: avvisas.",
+  "batch_gammal": "k_14_avvisade.json",
+  "titel_nu": "LEADER FOX Lovelo el-trehjuling, Vit"
+ },
+ {
+  "id": "10612594508042",
+  "nr": 21070,
+  "avvisningsskal": "El-trehjuling med motor (Bafang 250 W), batteri (LG 602 Wh) och hydrauliska skivbromsar. Elcykel/batteri/motor, avvisas.",
+  "batch_gammal": "k_15_avvisade.json",
+  "titel_nu": "LEADER FOX Curtis X el-trehjuling, Grå"
+ },
+ {
+  "id": "10612594540810",
+  "nr": 21071,
+  "avvisningsskal": "El-trehjuling med motor (Bafang 250 W) och batteri (LG 602 Wh). Elcykel/batteri/motor, avvisas.",
+  "batch_gammal": "k_15_avvisade.json",
+  "titel_nu": "LEADER FOX Lovelo el-trehjuling, Lila"
+ },
+ {
+  "id": "10676713259274",
+  "nr": 21072,
+  "avvisningsskal": "El-lastcykel Cargobike of Sweden Delivery: elcykel med motor (250 W) och batteri (13 Ah), lastcykel. Avvisas.",
+  "batch_gammal": "k_17_avvisade.json",
+  "titel_nu": "El-lastcykel CARGOBIKE of SWEDEN Delivery"
+ },
+ {
+  "id": "10676713390346",
+  "nr": 21073,
+  "avvisningsskal": "El-lastcykel Cargobike of Sweden Delivery: elcykel med motor och batteri, lastcykel. Avvisas.",
+  "batch_gammal": "k_17_avvisade.json",
+  "titel_nu": "El-lastcykel CARGOBIKE of SWEDEN Delivery"
+ }
+]
