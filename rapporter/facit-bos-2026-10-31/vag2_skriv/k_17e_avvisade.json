@@ -1,0 +1,57 @@
+[
+ {
+  "id": "10472300052746",
+  "nr": 10329,
+  "skäl": "R3: tre varianter med olika SKU och pris (KRV-10 649 kr, KRV-16 och KRV-14 789 kr); titeln låser 10 kg men varianterna går inte att koppla till vikt. Inte en överbliven Default Title."
+ },
+ {
+  "id": "10472300937482",
+  "nr": 9648,
+  "skäl": "R3 tunn källa: live har bara märket och \"Diameter: 39,5 cm\"; färgen svart-grön står bara i titeln. Ett faktum utöver titeln, regeln kräver två."
+ },
+ {
+  "id": "10472305557770",
+  "nr": 10580,
+  "skäl": "R3: enda varianten heter \"M / black\" (SKU AHF-087) men titeln säger svart-röd; källan nämner varken färg eller storlek, så titeln motsäger varianten. Källan har också halkfri/säkerhet/komfort-påståenden och tunn fakta."
+ },
+ {
+  "id": "10472308834570",
+  "nr": 10578,
+  "skäl": "R2/R3: källan säger \"5 gymnastikbollar\" och mått 7,5 x 75 cm medan titeln är Fabric Bands; produkttyp och antal kan inte fastställas. Titeln saknar svenskt typord."
+ },
+ {
+  "id": "10472311357706",
+  "nr": 10264,
+  "skäl": "R3: två riktiga varianter med olika SKU och pris (blue 25TUPLA049 679 kr, green 25TUPLA047 409 kr); titeln låser Blå."
+ },
+ {
+  "id": "10472325349642",
+  "nr": 10322,
+  "skäl": "R3: Default Title och varianten \"17367\" har samma SKU men olika pris (1 879 och 1 639 kr), den andra är en riktig variant utan angiven vikt; källan anger bara intervallet 4-24 kg så titelns 22 kg kan inte beläggas."
+ },
+ {
+  "id": "10472332099850",
+  "nr": 10115,
+  "skäl": "R3: Default Title (SKU 28230604-D, 11 309 kr) och M / Red (SKU 28190602-C, 9 839 kr) har olika SKU och pris; v1.7 gäller bara samma SKU."
+ },
+ {
+  "id": "10472333279498",
+  "nr": 9188,
+  "skäl": "R1/R3: källtexten säger \"Vintage Classic 1.0 M\" men titeln 2.0 M; spec (Nexus 7, 7 växlar) hör enligt webbkoll till 2.0 D medan M-modellerna visar 3 växlar, och webbkällorna går isär och gäller inte entydigt exakt koden 28202438-A. Modellen kan inte låsas. Ej dubblett: 1.0 M Grön (6124) och 2.0 M Gul (9189) är redan skrivna."
+ },
+ {
+  "id": "10472334491914",
+  "nr": 9469,
+  "skäl": "R3 tunn källa: källan är bara titeln; priset 6 779 kr och taggen Romet tyder på felklassad produkt (Ringlock är ett ramlås-namn), typen kan inte beläggas."
+ },
+ {
+  "id": "10472346190090",
+  "nr": 9405,
+  "skäl": "R3 tunn källa: enda uppgiften \"Passar alla 26-29 tums cyklar\"; \"bakre fäste\" står bara i titeln. Priset är 0,00 kr (ofärdig produkt) och taggen Gymstick får inte röras. David bör besluta pris före text."
+ },
+ {
+  "id": "10474079322378",
+  "nr": 10104,
+  "skäl": "R3: Default Title (SKU B36RV6556, 18 719 kr) och XL / gray (SKU B36RV6558, 16 279 kr) har olika SKU och pris; v1.7 gäller bara samma SKU."
+ }
+]

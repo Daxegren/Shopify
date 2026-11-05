@@ -1,0 +1,68 @@
+[
+ {
+  "id": "10475367006474",
+  "nr": 9802,
+  "titel_nu": "Skridskor Alpina T 40 2022",
+  "skäl": "R3/R7: titeln 'Skridskor' stämmer inte med källan, som beskriver en pjäxa med NNN-bindning (live-typ Skridskopjäxor, taggar Skidor/Klassiska pjäxor). Varianterna är bara storlekar 39-42 till samma pris (v1.7 ändrar inget); agenten får inte byta produktens typ eller titel. David avgör typ och titel."
+ },
+ {
+  "id": "10475517772042",
+  "nr": 9649,
+  "titel_nu": "TOORX Bröstbälte 5.3 kHz",
+  "skäl": "Tunn källa (R3): bara 'Frekvens: 5,3 KHz' (redan i titeln); frekvensomfångsraden är trasig. Webbkoll (v1.6): Velomarket anger räckvidd 85-100 cm (5,5 kHz) medan MediaMarkt anger 80 cm, och träffarna gäller delvis modellen FC-TOORX-3C (trippelöverföring, annan produkt); källorna går isär och gäller inte entydigt exakt denna modell. Underkänd tidigare i g_utlatande_3."
+ },
+ {
+  "id": "10480054534410",
+  "nr": 9504,
+  "titel_nu": "Kettlebell Christopeit, 2 kg",
+  "skäl": "Redan skriven: produkten har taggen texter-klara live (titeln är nu 'Kettlebell Christopeit, 2 kg')."
+ },
+ {
+  "id": "10480054567178",
+  "nr": 9503,
+  "titel_nu": "Sangpomm CHRISTOPEIT Kettlebell 12kg",
+  "skäl": "Tunn källa (R3): en variant (Default Title, 21-3567), men källan har bara vikten i titeln och allmän reklamtext (ergonomiskt handtag, användningsområden) utan entydiga fakta om material eller mått; tidigare webbkoll på artikelnumret gav ingen entydig träff."
+ },
+ {
+  "id": "10480054599946",
+  "nr": 10125,
+  "titel_nu": "Sangpomm CHRISTOPEIT Kettlebell 4kg",
+  "skäl": "R3: två riktiga varianter med olika SKU och olika pris (21-2547 289 kr, 21-2548 489 kr); v1.7 gäller bara samma SKU. Titeln låser 4 kg men källan anger ingen vikt per variant."
+ },
+ {
+  "id": "10487987142922",
+  "nr": 9049,
+  "titel_nu": "Gravelcykel Kona Rove, 650x47c, Svart",
+  "skäl": "Redan skriven: produkten har taggen texter-klara live (titeln är nu 'Gravelcykel Kona Rove, 650x47c, Svart')."
+ },
+ {
+  "id": "10488246632714",
+  "nr": 10109,
+  "titel_nu": "Cykel GIANT Attend RS 1 GTS, Svart",
+  "skäl": "R3: olika SKU (2206041185 Default Title 12 469 kr mot 2206041187 L / black 5 229 kr) och prisskillnad över 7 000 kr; v1.7 gäller bara samma SKU. David avgör vilken variant som gäller."
+ },
+ {
+  "id": "10488282251530",
+  "nr": 10102,
+  "titel_nu": "Gravelcykel KONA Libre (2026) Gloss Metallic Charcoal",
+  "skäl": "R3: riktiga varianter med olika pris (XL / gray 38 019 kr mot XL / dark gray 33 059 kr), flera färger (gray, dark gray) och titeln låser Charcoal; SKU B37LBGYSHFA58 delas av tre varianter. v1.7 räcker inte: olika pris på riktiga varianter."
+ },
+ {
+  "id": "10494685315338",
+  "nr": 9950,
+  "titel_nu": "Skridskoskidor Peltonen Acadia SK 21 STIFF",
+  "skäl": "Tunn källa (R3): bara en trasig rad ('Konstruktion .') och pjäxrekommendation. Webbkoll (v1.6): Acadia Stiff-profil Universal, bas PRG 3600 hittades på kanadensiska återförsäljare, men beteckningen 'SK 21' och exakt årsmodell bekräftas bara av en estnisk setannons (med bindningar och pjäxor); inte entydigt exakt denna produkt, så färre än två entydiga fakta utöver titeln."
+ },
+ {
+  "id": "10494834245898",
+  "nr": 9058,
+  "titel_nu": "Gravelcykel ROMET Finale, röd",
+  "skäl": "R3: titeln anger röd men källans rad säger 'Färg: grön' (motsägelse; en variant, så v1.7 hjälper inte). Källtexten är maskinöversatt och trasig ('kedjebromsar', 'något på en stålram', 'pegboards'). David avgör färgen."
+ },
+ {
+  "id": "10515745636618",
+  "nr": 9336,
+  "titel_nu": "Tricksparkcykel Versatyl S2S Edition Pro Scooter Krom/Svart",
+  "skäl": "R3: titelns färg 'Krom/Svart' motsäger källans 'Färg: svart-grå' (en variant, v1.7 hjälper inte), och källan nämner 'sits i aluminium' som inte hör till en tricksparkcykel (trasig rad). Lastgräns 100 kg finns men hjälper inte mot färgmotsägelsen."
+ }
+]
