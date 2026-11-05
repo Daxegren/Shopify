@@ -56,8 +56,6 @@
     "fitness (löpband, motionscyklar, crosstrainers, roddmaskiner, bänkar, rack, vikter)"
   ],
   "utanfor_tills_vidare": [
-    "barn",
-    "kosttillskott",
     "isbroddar",
     "rullskridskor",
     "akupressur",
@@ -88,5 +86,9 @@
   "marken_versaler_tillatna": {
     "SOKE": "skrivs i versaler som i redan skrivna SOKE-texter; David 2026-11-04",
     "TRYM": "skrivs i versaler som i redan skrivna TRYM-texter; David 2026-11-04"
+  },
+  "frislappta_2026_11_05": {
+    "barn": "David 2026-11-05: skrivs med bara fakta ur källan, inga säkerhets-/skydds-/utvecklingspåståenden. Fortfarande utanför: barnhjälmar, barnstolar och säten, bälten, babyprodukter, skyddsfunktion, barntransport",
+    "kosttillskott": "David 2026-11-05: skrivs med produktfakta och användning utan hälsopåståenden; påståenden först när etikettens mängder och svensk registerlydelse är bekräftade. Fortfarande utanför: melatonin, viktminskning, potens/libido, växtextrakt, koffein/energishots, glukosamin/hyaluron"
   }
 }
