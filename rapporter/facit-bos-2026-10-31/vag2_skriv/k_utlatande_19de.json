@@ -1,0 +1,111 @@
+[
+ {
+  "nr": 20035,
+  "id": "10636643565834",
+  "fil": "k_19d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live (Default Title, SKU 101160-00147-0001) stämmer: kork, 183x61x0,5 cm, 0,8 kg, yoga och övrig träning. Lukt- och vattenavvisande, komfort och 'populärt' är rätt utelämnade (R5). Ingen äldre granskning finns."
+ },
+ {
+  "nr": 20036,
+  "id": "10636643762442",
+  "fil": "k_19d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live (Default Title, SKU 101159-00147-0001) stämmer: kork, 22,5x15x7,5 cm, 0,8 kg och rörlighetsträning står i källan. 'Säkerställa korrekt utförande' och 'flexibilitet' är rätt utelämnade (R5). Måtten i titeln står i källans specifikation."
+ },
+ {
+  "nr": 20037,
+  "id": "10636647006474",
+  "fil": "k_19d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Upphängning till boxningssäck med vridbar krok.",
+    "efter": "Upphängningen till boxningssäck har en vridbar krok."
+   }
+  },
+  "skal": "Metans första mening saknar verb (R11). Lastgränsen: källan har ordagrant 'Maximal belastning 75kg' på svenska med etikett och enhet, i produktens egen lista, och ingen annan siffra i löptexten. Hängande del: Davids beslut 3 (v1.7, 5 november) tillåter bara ordagrann svensk lastgräns, och den finns. Texten skriver den en gång, 'Maximal belastning enligt tillverkaren: 75 kg' (R4, R5). Vridbar krok, 13 länkar per kedja och tre öglor stämmer. 'Förhindrar att snurras upp' och 'passar nästan alla säckar' är rätt utelämnade. EXCALIBUR är produktserie, inte i profilen; 'Excalibur' följer R8."
+ },
+ {
+  "nr": 20040,
+  "id": "10636660015370",
+  "fil": "k_19d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Lastgränsen: källan har 'Maximal belastning: 75kg' (svensk, etikett, enhet), och löptextens två värden (belastning 75kg, totalvikt 75kg) är samma. Inga motstridiga värden (R4 v1.5). Hängande del med ordagrann svensk lastgräns, alltså tillåten enligt beslut 3 (v1.7). Den står en gång med 'enligt tillverkaren'. SEO-titeln: titeln har 44 tecken (gräns 43). Kortningen tar bort 'Upphängning' och behåller typord först och märket (R7, R12), och den krockar inte med 20037. Stål, svart/silver och vridbar arm stämmer. 'Massiv', 'högkvalitativt' och 'säker' är rätt utelämnade, liksom 'Dimensioner: Se bild'."
+ },
+ {
+  "nr": 20041,
+  "id": "10636662112522",
+  "fil": "k_19d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Stående boxningssäck formad som en docka",
+    "efter": "Den stående boxningssäcken är formad som en docka"
+   },
+   "html": {
+    "fore": "Dig som inte kan hänga en vanlig boxningssäck i tak eller vägg",
+    "efter": "Dig som har svårt att hänga en vanlig boxningssäck i tak eller vägg"
+   }
+  },
+  "skal": "Metans första mening saknar finit verb ('formad', R11). 'Inte kan hänga' skärps till källans 'svårt att hänga' (R1). 130 kg: källan säger att den väger runt 130 kg när stativet fylls med vatten eller sand. Texten anger det som vikt med fylld bas, inte som lastgräns, och det är rätt (R4: fyllnadsmängd är ingen lastgräns). 'Stabil', 'full kraft', 'minimerar stressen på leder' och 'motiverande' är rätt utelämnade (R5). Säcken är inte hängande, och 69 cm, svart gummi, 160/170/180 cm, hård plast och 150 cm träningsyta stämmer."
+ },
+ {
+  "nr": 20043,
+  "id": "10636676104458",
+  "fil": "k_19d_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Väntar på Davids beslut: en plyobox bär användarens kroppsvikt och källan saknar lastgräns. Under v1.7 (beslut 3 den 5 november) skrivs bärande delar bara med ordagrann svensk lastgräns; övriga förblir avvisade. Samma skäl som c_20 (Soft Plyobox 3-in-1) och stepbrädorna i k_19b, och skälet gäller fortfarande. Själva texten stämmer med källan (fyra delar, 15/30/45/60 cm, 90x75 cm, svart med vit text) och påstår ingen bärförmåga. Den kan skrivas oförändrad om David frisläpper plyoboxar utan lastgräns. Obs: Tunturis plyoboxar skrevs i h-vågen utan lastgräns, före beslut 3. Det bör tas upp i beslutsunderlaget."
+ },
+ {
+  "nr": 20047,
+  "id": "10636687606026",
+  "fil": "k_19e_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Väntar på Davids beslut: paketet innehåller en upphängning (väggfäst plattform som speedbagen hänger i), alltså en hängande del. Källans enda lastuppgift, 'Klarar av speedballs med en vikt på upp till 10kg', saknar etikett och utelämnas därför (R4). Enligt beslut 3 (v1.7) skrivs hängande delar bara med ordagrann svensk lastgräns; övriga förblir avvisade. Texten i övrigt stämmer (konstläder, 18 cm, 25 cm, 65,5x59x49,5 cm, plastfjädring, bollpump) och kan skrivas oförändrad efter ett ja."
+ },
+ {
+  "nr": 20049,
+  "id": "10636693733642",
+  "fil": "k_19e_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Två yogablock i svart EVA-skum, 23,5 x 15 x 8 cm.",
+    "efter": "Paketet har två yogablock i svart EVA-skum som mäter 23,5 x 15 x 8 cm."
+   }
+  },
+  "skal": "Metans första mening saknar verb (R11). Två block, svart EVA-skum, 23,5x15x8 cm och användning liggande/upprätt/på längden stämmer. 'Stöd' står ordagrant i källan och används utan hälsoeffekt. 'Hudvänligt' och märkesnamnet i logotypen är rätt utelämnade."
+ },
+ {
+  "nr": 20054,
+  "id": "10636705956106",
+  "fil": "k_19e_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Svart plyobox i tall och poppel (plywood), 76 x 51 x 60,5 cm, med tre användbara höjder",
+    "efter": "Den svarta plyoboxen är gjord av tall och poppel (plywood), mäter 76 x 51 x 60,5 cm och har tre höjder"
+   }
+  },
+  "skal": "Metan saknar finit verb, och 'användbara' är utfyllnad (R11, standard §14). Lastgränsen: källan har 'Maximal lastkapacitet: 500kg' (svensk, etikett, enhet). Titelns '500kg' är samma värde, och texten skriver gränsen en gång med 'enligt tillverkaren'. Plyoboxen bär kroppsvikt, men har ordagrann svensk lastgräns och är därför tillåten enligt beslut 3. Webbkoll: Decathlon.ch och Galaxus.ch svarade 403/503 vid direkt hämtning; sökresultaten för samma sidor anger 76 x 51 x 60,5 cm, 500 kg, tall och poppel samt vikt 23 kg (Decathlon) mot 24,25 kg (Galaxus). Vikten är därför rätt utelämnad. Höjderna 76/60,5/51 cm och handtagen stämmer med källan. Ingen krock med 20057 (Plyobox 200kg i k_19f)."
+ },
+ {
+  "nr": 20055,
+  "id": "10636719882506",
+  "fil": "k_19e_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Justerbar plyo box i metall med fem höjder",
+    "efter": "Den justerbara plyo boxen i metall har fem höjder"
+   }
+  },
+  "skal": "Metan saknar finit verb (R11). Rättningen håller metan under 155 tecken. Lastgränsen: källan har 'Maxbelastning: 300kg' (svensk, etikett), och löptextens 'upp till 300kg' är samma värde. Texten skriver den en gång per fält med 'enligt tillverkaren' (inom R5:s högst två), med etiketten ordagrant. Bärande produkt med ordagrann svensk lastgräns är tillåten enligt beslut 3. Webbkoll: Decathlon.ch svarade 403; sökresultaten anger fem nivåer 45–65 cm, 59 x 50 cm och 300 kg, vilket stämmer. 'Slitstarkt', 'förhindrar att lådan rör sig', 'professionell' och viktväst är rätt utelämnade (R5)."
+ }
+]
