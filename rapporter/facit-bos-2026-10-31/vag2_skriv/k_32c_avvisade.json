@@ -1,0 +1,17 @@
+[
+ {
+  "id": "10472244150538",
+  "nr": 32025,
+  "skäl": "Kedja Shimano HG53: kedjor bär last och är säkerhetskritiska; någon lastgräns för kedjor finns inte i produktens källa och är inte tillämplig i v1.10. Dessutom tunn källa (tät konstruktion, vikt 304 g, 116 länkar) utan uppgift om vilket drev kedjan passar mer än \"9 gears\" i titeln."
+ },
+ {
+  "id": "10472284979466",
+  "nr": 32034,
+  "skäl": "Pedalblock Look Keo Grip: egen källa är helt tom (R3), och produkten är en kloss som styr fotens fäste/utlösning i pedalen (säkerhetskritisk koppling). Någon lastgräns finns inte för en kloss och v1.10-spåret (\"Ej känd\") passar inte; webben ger bara handlarnas uppgifter (svart, 0 graders float) utan tillverkardata."
+ },
+ {
+  "id": "10472293499146",
+  "nr": 32035,
+  "skäl": "Vevlager M-Wave Strong F: egen källa har bara tre rader (särskilt lämplig för elcyklar, lämplig för 24\"-29\" hjul, aluminium) och saknar gängstandard och mått där passformen är avgörande; hjulstorleken är en cykeluppgift, inte lagrets. Webbsökning på modellen (430706) gav ingen träff på tillverkardata eller lastgräns. Hellre avvisa än skriva \"Ej känd\" på en passformskritisk drivlinedel."
+ }
+]
