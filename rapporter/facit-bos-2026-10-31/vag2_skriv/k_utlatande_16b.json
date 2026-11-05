@@ -1,0 +1,108 @@
+[
+ {
+  "nr": 6052,
+  "id": "10472294285578",
+  "fil": "k_16b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Shimano 105 Di2 med 22 växlar och",
+    "efter": "Shimano 105 Di2 och"
+   },
+   "html": [
+    {
+     "fore": "Shimano 105 Di2 med 22 växlar, hydrauliska",
+     "efter": "Shimano 105 Di2, hydrauliska"
+    },
+    {
+     "fore": "<li>Dig som vill ha Shimano 105 Di2 med 22 växlar</li>",
+     "efter": "<li>Dig som vill ha växelsystemet Shimano 105 Di2</li>"
+    },
+    {
+     "fore": "<li>Växelsystem: Shimano 105 Di2, 22 växlar</li>",
+     "efter": "<li>Växelsystem: Shimano 105 Di2</li>"
+    }
+   ]
+  },
+  "skal": "Källan anger 'Shimano 105 Di2 22 växlar'. Shimano 105 Di2 (R7150) finns bara som 12-växlad grupp; Defy Advanced 1 i Charcoal/Milky Way (2024) säljs med 105 Di2 2x12, alltså 24 växlar (https://bike-room.com/products/giant-defy-advanced-1-2024-giant-pr2-shimano-105-di2-2x12sp, https://ivanhoecycles.com.au/products/giant-defy-advanced-1-2024-charcoal-milky-way). Källans 22 är fel och motsäger modellen (R2): växelantalet stryks i meta, inledning, Passar för och specifikation. Övrigt spårbart. Ingen storlek nämns (en SKU). Utkast 10468706812170 med samma titel är DRAFT, inte skriven."
+ },
+ {
+  "nr": 7047,
+  "id": "10472321024266",
+  "fil": "k_16b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt spårbart i den engelska källan (Advanced SL-grade composite, 12x142/12x100, integrerad sadelstolpe, Ultegra Di2 24, SLR 0 40, CADEX Race GC 700x28c). Di2 anges ordagrant (v1.7); varken mekanisk eller elektronisk växling påstås. Inga storlekar. Ingen dubblett i butiken."
+ },
+ {
+  "nr": 7052,
+  "id": "10472331575562",
+  "fil": "k_16b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Däck: Cadex GX, tubeless, 700x40C (max 53 mm)</li>",
+    "efter": "<li>Däck: Cadex GX, tubeless, 700x40C</li>"
+   }
+  },
+  "skal": "GRX RX-820 är Shimanos mekaniska 12-växlade grupp (Di2 är RX-825): https://www.cyclingweekly.com/products/shimano-grx-12-speed-goes-electronic-with-2x12-speed-di2-shifting, https://cycletechreview.com/2023/components-reviews/shimano-grx-rx820-12-speed-mechanical-gravel-groupset/. Exakt modell (Devote Advanced 0 SE, Tropical Collage) med RX-820 2x12: https://www.pushys.com.au/liv-devote-advanced-0-se-tropical-collage/. Texten påstår varken mekanisk eller elektronisk växling, vilket är korrekt och får stå. Avvisningen i k_12 som kallade RX-820 Di2 var fel. Rättning: '(max 53 mm)' i däckraden är tvetydigt (däckfrigång eller däck?) och stryks (R2)."
+ },
+ {
+  "nr": 7055,
+  "id": "10472335376650",
+  "fil": "k_16b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Giant Trinity Advanced SL 1, Carbon/Matte",
+    "efter": "Giant Trinity Advanced SL 1, Matte Carbon"
+   }
+  },
+  "skal": "Allt spårbart (Force AXS (D2), 24 växlar, S-900 Aero, CADEX Aero 700x25c, vätskesystem och bento box, fyra sadelstolpslägen och 24 styrinställningar). SEO-titelns 'Carbon/Matte' är en färg som inte finns; ändras till 'Matte Carbon' (del av färgnamnet, 41 tecken). 'Landsvägscykel' stöds av taggen Racercykel och källans 'road bike'."
+ },
+ {
+  "nr": 6060,
+  "id": "10472335671562",
+  "fil": "k_16b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt spårbart i den svenska källan (105 Di2, 24 växlar, P-R1 30 mm, Gavia Course 0 700x28c). Ingen storlek nämns. Ingen dubblett med samma färg."
+ },
+ {
+  "nr": 7057,
+  "id": "10472435024138",
+  "fil": "k_16b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt spårbart (105 Di2 24, SLR 2 50, Gavia Course 0 700x28c, däck upp till 32 mm). DUBBLETTRISK: 6057 (SKU 1074029106), 7089 (S/M, SKU 1074029104/105) och 7123 (SKU 1074029108) är samma modell, år och färg, samma pris 67 389 kr, inga skrivna; källorna är samma text (engelska/svenska). Bara en av de fyra får skrivas (R12a/R12 unika titlar); godkänd under förutsättning att 7057 är den som väljs, annars hålls den."
+ },
+ {
+  "nr": 7062,
+  "id": "10476066701578",
+  "fil": "k_16b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Varianterna XS/L/XL har olika SKU men samma färg och pris; titeln låser ingen storlek och texten nämner inga storlekar. Källans '700x25c (28mm)' motsäger sig, bara 700x25c skrivs (R2). 7061 (Default Title och M/L med samma SKU men olika pris) är rätt avvisad som dubblett."
+ },
+ {
+  "nr": 7065,
+  "id": "10476123521290",
+  "fil": "k_16b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt spårbart (105 Di2 24, Gavia Course 0 700x28, däck upp till 32 mm). Dubblett 7064 ej skriven. Utkastarens skäl för 7064 är oprecist: 7064:s egna varianter (Default Title och XS / gray) har samma SKU 1096028143 och samma pris och vore skrivbar enligt v1.7; den avvisas ändå som dubblett av 7065. Priset skiljer mellan 7064 (59 229 kr) och 7065 (68 119 kr) – fråga för David, inte textfel."
+ },
+ {
+  "nr": 7069,
+  "id": "10476145213706",
+  "fil": "k_16b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "helt kompositstyrrör, genomgående axel 12x100 mm",
+    "efter": "styrrör helt i kolfiber, genomgående axel 12x100 mm"
+   }
+  },
+  "skal": "SRAM RED AXS E1 med 12 växlar stämmer: Trinity Advanced SL 0 har 1x12 (https://99spokes.com/bikes/giant/2025/trinity-advanced-sl-0, https://www.giant-bicycles.com/gb/bikes-trinity-advanced-sl-2027). Rättning: gaffelns 'helt kompositstyrrör' kommer från syskonet 7084; den egna källan säger 'full carbon styrrör' (R1). DUBBLETTRISK: 7084 (SKU 1138005107, 186 389 kr) är samma modell och färg som 7069 (SKU 1138005105, 217 359 kr), ingen skriven; bara en får skrivas. Prisskillnaden 30 970 kr bör David titta på."
+ }
+]

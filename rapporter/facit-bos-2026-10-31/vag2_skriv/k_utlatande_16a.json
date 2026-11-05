@@ -1,0 +1,89 @@
+[
+ {
+  "nr": 7003,
+  "id": "10468733223178",
+  "fil": "k_16a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Modellnamnet TCR Advanced Pro 0 står i källtexten och Di2 i växelraden; alla specifikationer (Advanced-Grade Composite, Ultegra Di2, 24 växlar, 36/52 med Giant Power Pro, SLR 0 40, CADEX Race GC 700x28c) står ordagrant i live-källan (R1). R3 v1.7: Default Title (89 219 kr) har samma SKU 1096025247 som L / gray (77 579 kr) och ignoreras; titel, SEO och meta låser varken färg (Mercury), storlek eller pris. Elektronisk växling återges bara som modellnamn (v1.7). Ingen dubblett: Pro 0 Di2 Ocean Twilight (10476214026506, 10476107464970) är en annan färg och ännu inte skriven."
+ },
+ {
+  "nr": 7004,
+  "id": "10468733321482",
+  "fil": "k_16a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Källans inledning nämner Pro 0 (kopierad från 7003, ordagrant samma mening), men titeln, ramen (Advanced SL-Grade Composite, integrerad sadelstolpe) och tillverkarlänken i källan (giant-bicycles.com/gb/tcr-advanced-sl-1-2025) anger SL 1. Inledningen är rätt utelämnad (R2). Webbkoll (v1.6/v1.7) på samma adress bekräftar SL 1 2025: Advanced SL-Grade-ram med integrerad sadelstolpe, Ultegra Di2, 36/52 med Giant Power Pro, Giant SLR 0 40 och CADEX Race GC 700x28. Bara en variant (Default Title), så färgen Blue Dragonfly i titeln låser ingen annan variant (R3)."
+ },
+ {
+  "nr": 7033,
+  "id": "10472249032970",
+  "fil": "k_16a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Modellnamnet EnviLiv Advanced SL LTD står i live-titeln och tillverkarlänken; specifikationerna (Advanced-Grade Composite, SRAM Rival eTap AXS, hydrauliska bromsar, Cadex Race 700x25 26,5 mm) står i källan. Typordet Damcykel är live-ordet och cykeltypen Landsvägscykel kommer ur källtexten (R7). 'XR-skivor', 'pegboards' och märkeshistorik rätt utelämnade (R2, R5). Anmärkning utan textpåverkan: att_bekrafta säger 'Di2' men växlingen är eTap AXS; texten är korrekt och påstår ingen mekanisk växling. En variant, ingen R3-fråga."
+ },
+ {
+  "nr": 7038,
+  "id": "10472255488266",
+  "fil": "k_16a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Modellnamnet Pro 1-AXS står bara i live-titeln; källtexten säger TCR Advanced och anger Advanced-Grade Composite och SRAM Rival AXS, vilket stämmer med titeln. Typordet Landsvägscykel ersätter Road bike med stöd i källtexten (R7). Rotordiametrarna ([E]160mm, [T]140mm) rätt utelämnade (R2). Anmärkning utan textpåverkan: att_bekrafta säger 'Di2' men växlingen är SRAM AXS. En variant, ingen R3-fråga."
+ },
+ {
+  "nr": 7039,
+  "id": "10472259322122",
+  "fil": "k_16a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Gaffel: Advanced SL-Grade Composite, integrerad sadelstolpe, skivbroms</li>",
+    "efter": "<li>Gaffel: Advanced SL-Grade Composite, skivbroms</li>"
+   }
+  },
+  "skal": "Källans gaffelrad säger 'integrerad sadelstolpe', vilket är kopierat från ramraden; en gaffel har ingen sadelstolpe. Den delen utelämnas enligt R2, resten av raden är entydig. '22 växlar' är rätt utelämnat: källan anger samtidigt Dura-Ace Di2 ST-R9250, som är en 2x12-växel (24 växlar), och tillverkarlänken gäller 2023 års modell med 12-växlad Dura-Ace Di2. Uppgiften är motsägelsefull (R2). Fästpunkter för tillbehör saknas i källan och är rätt utelämnade. Modellnamnet SL 0 står i källtexten och Disc i live-titeln och länken (tcr-advanced-sl-disc-0-2023)."
+ },
+ {
+  "nr": 7040,
+  "id": "10472276492554",
+  "fil": "k_16a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Modellnamnet TCR Advanced SL 0 DA står ordagrant i källtexten; alla specifikationer står i live-källan (R1). R3 v1.7: Default Title (158 509 kr) har samma SKU 1096031107 som L / black (137 829 kr) och ignoreras; titel, SEO och meta låser varken färg (Black Lava), storlek eller pris. Ingen annan SL 0 DA i butiken, ingen dubblett."
+ },
+ {
+  "nr": 7041,
+  "id": "10472282587402",
+  "fil": "k_16a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Dig som vill ha hydrauliska skivbromsar</li>",
+    "efter": "<li>Dig som vill ha hydrauliska bromsar</li>"
+   }
+  },
+  "skal": "R3: produkten får skrivas utan storlek och färg i titeln. Default Title (B36134CD06, 107 459 kr) har samma SKU som XL / gray och är därmed en överbliven Default Title enligt v1.7; den ignoreras. Kvar finns M, L och XL med olika SKU men samma pris (93 439 kr) och samma färg (gray). Olika SKU är här vanliga storleksvarianter, inte det fall v1.7 avser (en Default Title med egen SKU). Den ursprungliga R3 avvisar bara när titeln anger en variant och varianterna har olika pris; titeln anger ingen storlek eller färg, och '29 tum' gäller alla sålda storlekar (27,5-tumsbakhjulet gäller bara S, som inte säljs). Ramstorlekarna M, L och XL med mått och längder stämmer med källan (R3 v1.5). Rättning (R1): källan säger 'SRAM G2 RSC hydrauliska' men nämner aldrig skivbromsar; 'skivbromsar' tas bort. AXS T-Type står i källan och återges utan påstående om mekanisk växling (v1.7)."
+ },
+ {
+  "nr": 6061,
+  "id": "10472290124042",
+  "fil": "k_16a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Källtexten säger TCR Advanced 1; tillverkarlänken i källan (giant-bicycles.com/ee/tcr-advanced-1-pc-2025) och live-titeln säger 1 PC. Webbkoll på samma adress (v1.6/v1.7) bekräftar Shimano 105 Di2, 12 växlar bak (24 totalt), Giant P-R2 36 mm, Gavia Course 1 tubeless 700x25c (28mm) och färgen Mars Dust. Däckraden '700x25c (28 mm)' är alltså tillverkarens egen och inte motsägelsefull. Fyra varianter M–XL med olika SKU men samma pris (50 029 kr) och samma färg: titeln låser ingen storlek, och storlekarna i texten är exakt de som säljs (R3 v1.5). Andra färger (Dreamy Blue, Asphalt Green) är egna produkter och inga dubbletter."
+ },
+ {
+  "nr": 7044,
+  "id": "10472293171466",
+  "fil": "k_16a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Dig som vill ha hydrauliska skivbromsar</li>",
+    "efter": "<li>Dig som vill ha hydrauliska bromsar</li>"
+   }
+  },
+  "skal": "Källans inledning kallar cykeln landsvägscykel och cykelcross; titel, tagg Mountainbike och specifikationer (Fox 34-gaffel 120 mm, Fox Float-bakdämpare, 115 mm FlexPoint Pro, Maxxis Aspen 29x2.4) visar entydigt en mountainbike. Inledningen är rätt utelämnad (R2) och typordet Mountainbike följer live-titeln (R7). Modellnamnet Pique Advanced 29 1 står i live-titeln och länken. Enda variant S / gray: ramstorlek S (41 cm) får nämnas (R3 v1.5). Rättning (R1): källan säger 'Shimano XT, hydrauliska' men nämner aldrig skivbromsar; 'skivbromsar' tas bort."
+ }
+]
