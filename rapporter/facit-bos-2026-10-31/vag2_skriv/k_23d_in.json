@@ -1,0 +1,86 @@
+[
+ {
+  "id": "10475384930570",
+  "nr": 23037,
+  "avvisningsskal": "Titeln säger glidmedel men källan beskriver klister/grepp (UNIVERSAL WIDE) och är maskinöversatt ('klämmor', 'klor', 'klinker'); motsägelse. Lyfts till David.",
+  "batch_gammal": "b_30_avvisade.json",
+  "titel_nu": "Start glidmedel WIDE +10...-5"
+ },
+ {
+  "id": "10494699110666",
+  "nr": 23038,
+  "avvisningsskal": "Tunn källa: tom beskrivning och bara titeln; går inte att avgöra vad skyddsplåten är till eller passar utan att hitta på,.",
+  "batch_gammal": "b_31_avvisade.json",
+  "titel_nu": "Skyddsplåt UNIPLAST Apple, lila"
+ },
+ {
+  "id": "10515737706762",
+  "nr": 23039,
+  "avvisningsskal": "Belysning med lagkrav och batteri/elektronik (baklykta, IPX7, ljussensor); källan har dessutom trasig text i kompatibilitetsraderna. Tas för hand.",
+  "batch_gammal": "b_5_avvisade.json",
+  "titel_nu": "Baklykta GIANT RECON TL 200"
+ },
+ {
+  "id": "10515738067210",
+  "nr": 23040,
+  "avvisningsskal": "Oklar produkttyp och trasig leverantörsdata: 'Stöd för bakre löpare GIANT DIRECT MOUNT KSA 40MM' är en maskinöversättning (möjligen sidstöd eller del i drivlinan), 'Aluminium klätterutrustning material' och 'kompatibel med KSA40' går inte att tolka entydigt. Ingen säker produkttyp, alltså inget utkast. Lyfts till handläggning.",
+  "batch_gammal": "b_3_avvisade.json",
+  "titel_nu": "Stöd för bakre löpare GIANT DIRECT MOUNT KSA 40MM"
+ },
+ {
+  "id": "10515754615050",
+  "nr": 23041,
+  "avvisningsskal": "Motsägande källa: titeln anger Credit V2 Pro men texten säger \"Union Classic V2 Pro-hjul\" med samma vikt som Classic (236 g). Går inte att skriva säkert; Classic V2 Pro 110 mm Krom/Blå skrivs i nr 9029.",
+  "batch_gammal": "b_50_avvisade.json",
+  "titel_nu": "Hjul för sparkcykel Union Credit V2 Pro Scooter Wheel 110mm Rosa"
+ },
+ {
+  "id": "10548235403530",
+  "nr": 23042,
+  "avvisningsskal": "Titeln anger PE, men källtexten anger genomgående PVC med sandfyllning. Motsägande materialuppgift mellan titel och källa; källan innehåller dessutom en oklar rad (\"Iga\"). Går inte att skriva säkert utan besked om PE eller PVC. Samma sak som 10338.",
+  "batch_gammal": "f_14_avvisade.json",
+  "titel_nu": "TUNTURI PE Kettlebell 8kg"
+ },
+ {
+  "id": "10548235862282",
+  "nr": 23043,
+  "avvisningsskal": "Titeln anger PE, men källtexten anger genomgående PVC med sandfyllning (\"PVC-kettle\"). Motsägande materialuppgift mellan titel och källa; källan innehåller dessutom garblad text. Går inte att skriva säkert utan besked om PE eller PVC.",
+  "batch_gammal": "f_14_avvisade.json",
+  "titel_nu": "TUNTURI PE Kettlebell 10kg"
+ },
+ {
+  "id": "10581100658954",
+  "nr": 23044,
+  "avvisningsskal": "Fristående ishockeymål (ställning/konstruktion, risk vid tippning och hårda skott). Säkerhetsprodukt, tas för hand. Källan saknar mått och material.",
+  "batch_gammal": "c_3_avvisade.json",
+  "titel_nu": "Court Icehockey Goal"
+ },
+ {
+  "id": "10581100822794",
+  "nr": 23045,
+  "avvisningsskal": "Fristående minimål (ställning/konstruktion). Säkerhetsprodukt, tas för hand. Källan kallar produkten 'målvakt' (maskinöversättning) och saknar mått.",
+  "batch_gammal": "c_3_avvisade.json",
+  "titel_nu": "Court Mini Goal"
+ },
+ {
+  "id": "10581101674762",
+  "nr": 23046,
+  "avvisningsskal": "Skivstång/lyftstång med belastning/last (10kg Lifting Bar). Säkerhetsprodukt, tas för hand. Källan saknar maxbelastning och mått.",
+  "batch_gammal": "c_3_avvisade.json",
+  "titel_nu": "10kg Lifting Bar"
+ },
+ {
+  "id": "10581101838602",
+  "nr": 23047,
+  "avvisningsskal": "Viktset med skivstång och viktskivor (50 kg Vinyl Weight Set). Last och lyft, säkerhetsprodukt. Källan har dessutom rehabiliteringspåstående och saknar uppdelning av vikter.",
+  "batch_gammal": "c_3_avvisade.json",
+  "titel_nu": "50kg Vinyl Weight Set"
+ },
+ {
+  "id": "10581101936906",
+  "nr": 23048,
+  "avvisningsskal": "Skivstång med belastning/last (7kg Curved Bar). Säkerhetsprodukt, tas för hand. Källan saknar maxbelastning och mått.",
+  "batch_gammal": "c_3_avvisade.json",
+  "titel_nu": "7kg Curved Bar"
+ }
+]

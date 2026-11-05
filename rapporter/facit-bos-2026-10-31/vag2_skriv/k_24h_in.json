@@ -1,0 +1,86 @@
+[
+ {
+  "id": "10581107933450",
+  "nr": 24145,
+  "avvisningsskal": "Tillbehör (stång med remskiva, PRO-550M) till en 5-stationsmaskin; passformen mot en maskin i butiken kan inte styrkas och källan saknar mått, material och lastgräns. Bärande del utan lastgräns, pris 27 999 kr, ett entydigt faktum utöver titeln (R3, R4).",
+  "batch_gammal": "k_11e_avvisade.json",
+  "titel_nu": "Horisontell stång med remskiva för 5-stationer"
+ },
+ {
+  "id": "10581108818186",
+  "nr": 24146,
+  "avvisningsskal": "Varianterna A (469 kr) och F (399 kr) förklaras inte och F kan vara icke-justerbar medan titeln säger Adjustable; källan saknar antal mattor, mått, material och bärighet (R3).",
+  "batch_gammal": "k_13b_avvisade.json",
+  "titel_nu": "Mat Rack - Adjustable"
+ },
+ {
+  "id": "10581109408010",
+  "nr": 24147,
+  "avvisningsskal": "Balansbräda som man står på: ingen svensk lastgräns i produktens egen källa. Webbfaktakoll (v1.6): Galaxus anger tillverkarnummer 61132 och 120 kg maxbelastning, men på engelska (R4: utelämnas), och Varuste.net anger justerbar höjd och 1,48 kg. Föregående granskning (c_11, nr 3163) underkände produkten som oklar produkttyp som ska tas för hand. Källan har bara effektpåståenden (balans, stabilitet, kärnstyrka) och kvalitetsord. Lyfts till David om lastuppgift ska få tas från Galaxus.",
+  "batch_gammal": "k_12b_avvisade.json",
+  "titel_nu": "Performance Board"
+ },
+ {
+  "id": "10581109670154",
+  "nr": 24148,
+  "avvisningsskal": "Power Rings (träningsringar): hängs upp och bär kroppsvikt (belastning/last); källan anger ingen maxbelastning eller montering. Tas för hand med Davids ja.",
+  "batch_gammal": "c_12_avvisade.json",
+  "titel_nu": "Power Rings"
+ },
+ {
+  "id": "10581109735690",
+  "nr": 24149,
+  "avvisningsskal": "Hängande redskap (chin-up-stång) utan lastgräns eller montering i källan (R4); källan är bara reklamtext (stabilitet, hållbarhet, ergonomisk design) utan mått, material eller vikt. Tunn källa (R3). Tidigare underkänt mönster för Gymstick-hängredskap.",
+  "batch_gammal": "k_11f_avvisade.json",
+  "titel_nu": "Premium Chin Up Bar"
+ },
+ {
+  "id": "10581109801226",
+  "nr": 24150,
+  "avvisningsskal": "Pro Chinning Bar (räcke för hemmaträning): bär kroppsvikt och monteras; belastning och montering anges inte i källan. Tas för hand med Davids ja.",
+  "batch_gammal": "c_12_avvisade.json",
+  "titel_nu": "Pro Chinning Bar"
+ },
+ {
+  "id": "10581109833994",
+  "nr": 24151,
+  "avvisningsskal": "Premium Parallettes (barr/ställning som bär kroppsvikt): belastningsprodukt; storlekarna S/M/L är oförklarade och källan anger ingen maxbelastning. Tas för hand med Davids ja.",
+  "batch_gammal": "c_12_avvisade.json",
+  "titel_nu": "Premium Parallettes, Large"
+ },
+ {
+  "id": "10581110849802",
+  "nr": 24152,
+  "avvisningsskal": "Tillbehör till Smith Half Rack (kabel/belastad del) vars källa bara säger \"Gymstick Smith Half Rack\" plus reklamord (robust, professionell). Ingen lastgräns, inga mått eller material; ett entydigt faktum utöver titeln (R3). Ingen entydig webbkälla sökt fram för exakt modellen.",
+  "batch_gammal": "k_11f_avvisade.json",
+  "titel_nu": "Pulley Station för Smith Half Rack"
+ },
+ {
+  "id": "10581111341322",
+  "nr": 24153,
+  "avvisningsskal": "Slant Board: lutande ställning som bär användarens vikt; källan saknar belastningsuppgift och nämner skadeförebyggande effekt. Tas för hand med Davids ja.",
+  "batch_gammal": "c_14_avvisade.json",
+  "titel_nu": "Slant Board"
+ },
+ {
+  "id": "10581112520970",
+  "nr": 24154,
+  "avvisningsskal": "Fem varianter (CR, ELI, MV, PRO, HRL; 899–11 499 kr) är olika modeller eller tillbehör; källan har bara reklamord och ingen lastgräns (R3, R4).",
+  "batch_gammal": "k_13b_avvisade.json",
+  "titel_nu": "WalkingPad Core"
+ },
+ {
+  "id": "10593398554890",
+  "nr": 24155,
+  "avvisningsskal": "R3/R4: live visar en variant '2' (SKU DB-2, 229 kr) utan förklaring; stång för viktbelastning, ingen svensk ordagrann lastgräns, inga mått. Tas för hand med Davids ja.",
+  "batch_gammal": "k_17j_avvisade.json",
+  "titel_nu": "2kg Dumbbell Bar"
+ },
+ {
+  "id": "10593399308554",
+  "nr": 24156,
+  "avvisningsskal": "Ab Straps: hängande band som bär kroppsvikt (belastning/last och fastsättning); källan anger ingen maxbelastning eller fäste. Tas för hand med Davids ja.",
+  "batch_gammal": "c_18_avvisade.json",
+  "titel_nu": "Ab Straps"
+ }
+]

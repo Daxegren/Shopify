@@ -1,0 +1,86 @@
+[
+ {
+  "id": "10581104460042",
+  "nr": 23049,
+  "avvisningsskal": "Säkerhetsprodukt: idrottsskydd (J-Cup), skyddsfunktion. Källan nämner inte vad produkten är; tunn text.",
+  "batch_gammal": "c_4_avvisade.json",
+  "titel_nu": "Alpha J-Cup"
+ },
+ {
+  "id": "10581105115402",
+  "nr": 23050,
+  "avvisningsskal": "Säkerhetsprodukt: kabelsystem/träningsstation med last och montering; källan saknar uppgifter om konstruktion och belastning.",
+  "batch_gammal": "c_5_avvisade.json",
+  "titel_nu": "Cable Pulley System"
+ },
+ {
+  "id": "10581105705226",
+  "nr": 23051,
+  "avvisningsskal": "Motionscykel (Crank Bike X4): träningscykel med belastning och möjligen elektronik/broms; källan saknar uppgifter. Tas för hand med Davids ja.",
+  "batch_gammal": "c_6_avvisade.json",
+  "titel_nu": "Crank Bike X4"
+ },
+ {
+  "id": "10581110259978",
+  "nr": 23052,
+  "avvisningsskal": "Pro Knee Straps: oklar produkttyp (knäremmar eller knästöd; källan säger 'knäskydd' och 'justerbara remmar') och källan bygger på skydds- och skadeförebyggande påståenden. Skyddsprodukt, lyfts till handläggning enligt standarden. Titeln ändras inte för att komma förbi kontrollen.",
+  "batch_gammal": "c_13_avvisade.json",
+  "titel_nu": "Pro Knee Straps"
+ },
+ {
+  "id": "10581110718730",
+  "nr": 23053,
+  "avvisningsskal": "Pro Wrist Straps: oklar produkttyp (lyftremmar eller handledsstöd; källan säger 'ge extra stöd under tunga lyft' och 'minskar belastningen på handlederna') och skyddspåståenden. Lyfts till handläggning. Titeln ändras inte för att komma förbi kontrollen.",
+  "batch_gammal": "c_13_avvisade.json",
+  "titel_nu": "Pro Wrist Straps"
+ },
+ {
+  "id": "10581111013642",
+  "nr": 23054,
+  "avvisningsskal": "Quick-Lock Dumbbell 36kg: justerbar hantel med snabblås; belastning och lås; källan saknar säkerhets- och belastningsuppgifter. Tas för hand med Davids ja.",
+  "batch_gammal": "c_14_avvisade.json",
+  "titel_nu": "Quick-Lock Dumbbell 36kg"
+ },
+ {
+  "id": "10581111046410",
+  "nr": 23055,
+  "avvisningsskal": "Quick-Lock Kettlebell 13,5kg: justerbar kettlebell med snabbkopplingssystem; belastning och lås; källan saknar säkerhets- och belastningsuppgifter. Tas för hand med Davids ja.",
+  "batch_gammal": "c_14_avvisade.json",
+  "titel_nu": "Quick-Lock Kettlebell 13,5kg"
+ },
+ {
+  "id": "10581119435018",
+  "nr": 23056,
+  "avvisningsskal": "Vivid Tube Trainer: webbträffarna (Decathlon.ch, Manor) beskriver ett motståndsband på 140 cm med handtag och dörrfäste, men sidorna kunde inte hämtas (403), streckkoden 6430062515435 kunde inte matchas och material är motstridigt (gummi/PVC); livekällan nämner rehabilitering och saknar svenskt typord (R2, R7, v1.6: utelämna). Kan prövas igen om en sida kan läsas.",
+  "batch_gammal": "k_12a_avvisade.json",
+  "titel_nu": "Vivid Tube Trainer"
+ },
+ {
+  "id": "10593396949258",
+  "nr": 23057,
+  "avvisningsskal": "Aktiv Hantelstång: hantel-/skivstång för belastning (last). Titeln säger hantelstång men taggen är Pull-up, så produkttypen är oklar; inga mått eller maxbelastning. Tas för hand med Davids ja.",
+  "batch_gammal": "c_18_avvisade.json",
+  "titel_nu": "Aktiv Hantelstång, Svart"
+ },
+ {
+  "id": "10650167771402",
+  "nr": 23058,
+  "avvisningsskal": "Oklar produkt: titeln Flaskhållare för Excelsior-styre, pris 9 kr och källa med ursprungspåstående; passform på styre går inte att fastställa.",
+  "batch_gammal": "b_28_avvisade.json",
+  "titel_nu": "Flaskhållare för Excelsior-styre"
+ },
+ {
+  "id": "10656691257610",
+  "nr": 23059,
+  "avvisningsskal": "Motsägande källa: titeln säger Crosstrainer men källtexten beskriver en roddmaskin (ER1000R, 'professionell roddmaskin', 19\" skärm, steglängd 46 cm). Dessutom samma SKU ER1000R19 och samma innehåll som nr 10165; kan inte skrivas säkert.",
+  "batch_gammal": "f_7_avvisade.json",
+  "titel_nu": "Crosstrainer BH FITNESS Movemia ER1000R"
+ },
+ {
+  "id": "10676607189258",
+  "nr": 23060,
+  "avvisningsskal": "Tunn källa: ingen beskrivning alls, bara titeln. Ingen faktagrund att skriva från.",
+  "batch_gammal": "b_50_avvisade.json",
+  "titel_nu": "Sparkcykelstöd Ethic Scooter Stand Pad"
+ }
+]

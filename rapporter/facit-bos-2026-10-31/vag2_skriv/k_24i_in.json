@@ -1,0 +1,65 @@
+[
+ {
+  "id": "10593408057610",
+  "nr": 24157,
+  "avvisningsskal": "Viktbälte som bär extra vikt vid dips och pull-ups (bärande, kroppen belastas). Ingen lastgräns, inget material eller mått i källan; ett entydigt faktum utöver titeln (R3, R4).",
+  "batch_gammal": "k_11e_avvisade.json",
+  "titel_nu": "Dip Belt"
+ },
+ {
+  "id": "10611413647626",
+  "nr": 24158,
+  "avvisningsskal": "Två varianter (\"0\" 7 479 kr, Default 309 kr) utan förklaring; rack som bär hantlar (bärande del) och källan saknar lastgräns och fakta (R3, R4).",
+  "batch_gammal": "k_13b_avvisade.json",
+  "titel_nu": "2-Layer Rack for Dumbbells"
+ },
+ {
+  "id": "10611414958346",
+  "nr": 24159,
+  "avvisningsskal": "Tjugo varianter med koder är olika bänkar och redskap (1 119–15 589 kr) och bär last; ingen text kan stämma för alla (R3, R4).",
+  "batch_gammal": "k_13b_avvisade.json",
+  "titel_nu": "AbBench"
+ },
+ {
+  "id": "10611442188554",
+  "nr": 24160,
+  "avvisningsskal": "Viktväst 2,5kg (viktväst): belastningsprodukt som bärs på kroppen vid löpning och styrketräning; varianterna '2,5' och '5' är oförklarade och priset skiljer (349 respektive 449 kr). Tas för hand med Davids ja.",
+  "batch_gammal": "c_20_avvisade.json",
+  "titel_nu": "Viktväst 2,5kg"
+ },
+ {
+  "id": "10636628066570",
+  "nr": 24161,
+  "avvisningsskal": "Bärande reservdel: stålkabel med lastgräns (280 kg) till latsdragsstation, utan angiven maskinmodell (källan säger bara \"Reservdel för Latsdrag Kabelstation\"). Passform och hållfasthet kan inte styrkas ur källan, och felaktig passform på en bärande kabel är en säkerhetsrisk. Avvisas tills ägaren beslutat om reservdelar med bärande funktion.",
+  "batch_gammal": "k_11b_avvisade.json",
+  "titel_nu": "Kabel Latsdragsstation Lång Kabel"
+ },
+ {
+  "id": "10636670894346",
+  "nr": 24162,
+  "avvisningsskal": "Bärande reservdel: kabelset (kort 182 cm och lång 241,5 cm stålkabel, lastgräns 280 kg vardera) till latsdragsstation, utan angiven maskinmodell. Samma skäl som 9844: passform och hållfasthet kan inte styrkas ur källan. Avvisas tills ägaren beslutat om reservdelar med bärande funktion.",
+  "batch_gammal": "k_11b_avvisade.json",
+  "titel_nu": "Kabelset Latsdragsstation Två Kablar"
+ },
+ {
+  "id": "10665232367882",
+  "nr": 24163,
+  "avvisningsskal": "El-lastcykel Cargobike of Sweden Longtail Varia: elcykel med motor (250 W) och batteri (20 Ah), lastcykel med lastkapacitet 110 kg. Avvisas.",
+  "batch_gammal": "k_17_avvisade.json",
+  "titel_nu": "El-lastcykel CARGOBIKE of SWEDEN Longtail Varia"
+ },
+ {
+  "id": "10676713586954",
+  "nr": 24164,
+  "avvisningsskal": "El-lastcykel Cargobike of Sweden Long Lite: elcykel med motor (250 W) och batteri (19,6 Ah), lastcykel med lastkapacitet 180 kg. Avvisas.",
+  "batch_gammal": "k_17_avvisade.json",
+  "titel_nu": "El-lastcykel CARGOBIKE OF SWEDEN Long Lite"
+ },
+ {
+  "id": "10676713652490",
+  "nr": 24165,
+  "avvisningsskal": "El-lastcykel Cargobike of Sweden Long Lite: elcykel med motor och batteri, lastcykel med lastkapacitet 180 kg. Avvisas.",
+  "batch_gammal": "k_17_avvisade.json",
+  "titel_nu": "El-lastcykel CARGOBIKE OF SWEDEN Long Lite"
+ }
+]

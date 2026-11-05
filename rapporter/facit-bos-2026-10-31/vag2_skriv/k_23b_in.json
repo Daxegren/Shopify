@@ -1,0 +1,86 @@
+[
+ {
+  "id": "10471009026314",
+  "nr": 23013,
+  "avvisningsskal": "Titel säger pjäxor men källan beskriver vallningsbara skidor med monterad bindning (NIS Touring Basic); motsägelse mellan titel och källa, kräver beslut.",
+  "batch_gammal": "b_29_avvisade.json",
+  "titel_nu": "Klassiska pjäxor PELTONEN Astra Wax + Basic skidbindning"
+ },
+ {
+  "id": "10471139213578",
+  "nr": 23014,
+  "avvisningsskal": "Titeln anger 12,8–45,5 kg och \"Justerbar hantel\", men källan anger vikter 12,7–45,3 kg och beskriver ett skivstångsset (rak och EZ-stång, bas). Motsägande uppgifter om vikt och typ; längdraderna är också motstridiga (högsta och tyngsta vikt). Går inte att skriva säkert.",
+  "batch_gammal": "f_13_avvisade.json",
+  "titel_nu": "Justerbar hantel TUNTURI MX100 skivstång 12,8 - 45,5 kg"
+ },
+ {
+  "id": "10472189788426",
+  "nr": 23015,
+  "avvisningsskal": "Dubbdäck (Schwalbe Winter): säkerhetskritiskt däck med belastningsuppgift (maximal belastning 100 kg). Källan motsäger också sig (titel 1.85 tum, tabell 1.75 tum). Avvisas.",
+  "batch_gammal": "k_7_avvisade.json",
+  "titel_nu": "Dubbdäck SCHWALBE Winter (47-559) 26 x 1.85\", 2 rad dubb"
+ },
+ {
+  "id": "10472230387978",
+  "nr": 23016,
+  "avvisningsskal": "Källan motsäger sig: titeln säger Styckväska men texten beskriver en styrväska för montering på styret; kan inte skrivas utan att byta typ. Dessutom reflexdetaljer och belastningsuppgift.",
+  "batch_gammal": "b_27_avvisade.json",
+  "titel_nu": "Styckväska Giant H2Pro, 12,5 liter"
+ },
+ {
+  "id": "10472235565322",
+  "nr": 23017,
+  "avvisningsskal": "Motsägande källa (dynamo kontra 6 V batteri/e-cykelbatteri), se 9038; gå inte att skriva säkert.",
+  "batch_gammal": "b_51_avvisade.json",
+  "titel_nu": "Baklykta från AXA JUNO DYNAMO STEADY/80MM"
+ },
+ {
+  "id": "10472239923466",
+  "nr": 23018,
+  "avvisningsskal": "Hjulmonteringssats/telefonfäste (SP Connect, iPhone XR) hör till mobiltillbehör, inte batchens kategorier; pris 7 289 kr och skyddspåstående motsäger produkten. Tas för hand.",
+  "batch_gammal": "b_28_avvisade.json",
+  "titel_nu": "Hjulmonteringssats SP CONNECT iPhone XR"
+ },
+ {
+  "id": "10472240709898",
+  "nr": 23019,
+  "avvisningsskal": "Motsägande källa: Compact 8 med ETRTO 54-110 men beskrivningen anger 26 tum; storlek och ventil (Dunlop) kan inte fastställas för en storleksberoende slang.",
+  "batch_gammal": "b_28_avvisade.json",
+  "titel_nu": "Inner tire CONTINENTAL Compact 8, 54-110, Dunlop"
+ },
+ {
+  "id": "10472242348298",
+  "nr": 23020,
+  "avvisningsskal": "Titeln 'Växelväljare ... Lef 2s' är oklar (vänster? 2 växlar?) och beskrivningen är maskinöversatt och motsägande ('växellådan' för reglage, 'Längd på elektrisk kabel', 'framåtdrift'). Motsägelse mellan titel och text, utelämnas.",
+  "batch_gammal": "k_9_avvisade.json",
+  "titel_nu": "Växelväljare Shimano Lef 2s SL-A050"
+ },
+ {
+  "id": "10472243593482",
+  "nr": 23021,
+  "avvisningsskal": "Framnav (HB-TX506): nav är del av hjulet och säkerhetskritiskt, avvisas. Källan har dessutom ingen beskrivning (tunn).",
+  "batch_gammal": "k_9_avvisade.json",
+  "titel_nu": "Framnav Shimano 100/36 Svart HB-TX506"
+ },
+ {
+  "id": "10472246968586",
+  "nr": 23022,
+  "avvisningsskal": "Lastcykel (Ecobike Cargo) med främre och bakre lastram; källan har dessutom en trasig specifikationsrad (upprepade Shimano-ord) och motsägande lastuppgifter (15 kg + 40 kg mot 155 kg): inte säker att skriva.",
+  "batch_gammal": "b_42_avvisade.json",
+  "titel_nu": "Electric bicycle ECOBIKE Cargo"
+ },
+ {
+  "id": "10472252801290",
+  "nr": 23023,
+  "avvisningsskal": "Bakväxel Shimano RD-TX800 \"ram 7/8v\": titeln anger 7/8v men källan \"8-växlad drivlina\", \"43T\" och \"ram\" är oförklarade. Antalet växlar motsägs (samma skäl som underkännandet av 6178 i k_8). Ingen entydig webbkälla funnen.",
+  "batch_gammal": "k_07c_avvisade.json",
+  "titel_nu": "Bakväxel för Shimano RD-TX800 ram 7/8v"
+ },
+ {
+  "id": "10472253522186",
+  "nr": 23024,
+  "avvisningsskal": "Motsägande, maskinöversatt källa: texten handlar om att montera cykel och få däck på plats (\"korkstartare\"), medan märket Start och artikelnumret (15MU) hör till skidvalla och kork. Produkttypen är inte bestämd (R2). Underkänd tidigare i b_21 och avvisad som 9487 i k_07d.",
+  "batch_gammal": "k_11g_avvisade.json",
+  "titel_nu": "Korkstart Alpine natural med feize"
+ }
+]

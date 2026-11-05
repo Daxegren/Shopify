@@ -1,0 +1,86 @@
+[
+ {
+  "id": "10411858428170",
+  "nr": 24061,
+  "avvisningsskal": "Stödben Hebie Fox I: bärande fäste (stödben bär cykelns vikt). Källan anger lastkapacitet 25 kg, vilket gör säkerhetsprofilen tydligare. David kan släppa stödben som grupp.",
+  "batch_gammal": "k_07c_avvisade.json",
+  "titel_nu": "Stödben för bakre löpare HEBIE Fox I, 26\"-28\", med två fästpunkter, svart"
+ },
+ {
+  "id": "10461971284234",
+  "nr": 24062,
+  "avvisningsskal": "Framkorg med lastgräns i källan (upp till 10 kg) enligt standarden avsnitt 12.",
+  "batch_gammal": "b_20_avvisade.json",
+  "titel_nu": "Framkorg Basil Portland, 25 l"
+ },
+ {
+  "id": "10462762664202",
+  "nr": 24063,
+  "avvisningsskal": "Basil KF-styvfäste (framkorgsfäste): bärande fäste med maximal lastkapacitet 5 kg i källan (belastning/last och styrmontering). Kompatibilitet med adapterplattor, styrdiameter och Bosch-display kräver bekräftelse. Tas för hand med Davids ja.",
+  "batch_gammal": "b_1_avvisade.json",
+  "titel_nu": "Framkorgsfäste till BASIL KF-styre, avtagbart"
+ },
+ {
+  "id": "10462762729738",
+  "nr": 24064,
+  "avvisningsskal": "Fäste för korg vid styrstam (styre/stam, bär last); tom källa.",
+  "batch_gammal": "b_20_avvisade.json",
+  "titel_nu": "Frontkorgsfäste för BASIL KF AHEAD STEMHOLDER styrfäste, löstagbart"
+ },
+ {
+  "id": "10462836490506",
+  "nr": 24065,
+  "avvisningsskal": "Vikten 3,5 kg står bara i produktnamnet; källan anger inte om den avser handtaget eller en största vikt för en justerbar kettlebell, och tillbehöret (skruv för att fästa vikter, Add-On Kit) bär last. Källan har dessutom en tom rad (\"Mått\"). Kan skrivas när vikten och kompatibiliteten bekräftats.",
+  "batch_gammal": "f_14_avvisade.json",
+  "titel_nu": "TUNTURI Rapid Justerbart Kettlebellhandtag 3.5kg"
+ },
+ {
+  "id": "10462840094986",
+  "nr": 24066,
+  "avvisningsskal": "Underkänd i g_utlatande_1 (nr 10407, samma id): mått 68 x 77 x 117 cm motsäger hyllhöjd upp till 189 cm, 'hyllhöjd', '8-stegs justering av stegpinnarna' och '2 hållare för 30 mm kedjor' är maskinöversatta med oklar betydelse, och 'säkerhetskrokar … högsta säkerhetsstandarder' är ett säkerhetspåstående (R2, R5). Squatställning bär last; lastkapacitet 120 kg har oklar etikett.",
+  "batch_gammal": "k_09b_avvisade.json",
+  "titel_nu": "Squat Stand HAMMER Core 2.0"
+ },
+ {
+  "id": "10462846943498",
+  "nr": 24067,
+  "avvisningsskal": "Otillräcklig källa: livekällan innehåller bara \"Tillverkaren är Hammer\" och den engelska titeln \"Adjustable dumbbell stand Stronglock\". Ingen uppgift om mått, vikt, material, antal eller vilka hantlar ställningen är avsedd för, så ingen text går att skriva utan att gissa. Hantelställ bär dessutom last.",
+  "batch_gammal": "g_1_avvisade.json",
+  "titel_nu": "Adjustable dumbbell stand HAMMER Stronglock"
+ },
+ {
+  "id": "10469226512650",
+  "nr": 24068,
+  "avvisningsskal": "Cykelhållare Peruzzo Parma (dragkrok, 4 cyklar): bärande fäste på bilens dragkrok med lastgräns 60 kg och typgodkännande. Källan är maskinöversatt engelska med upprepade trasiga rader (R2) och motsägelser (t.ex. \"Max. antal hjul: max\"). Säkerhetskritisk (R4 och bärande fäste). Taggen På beställning.",
+  "batch_gammal": "k_07c_avvisade.json",
+  "titel_nu": "Bicycle rack Peruzzo Parma, for 4 bikes"
+ },
+ {
+  "id": "10470929334538",
+  "nr": 24069,
+  "avvisningsskal": "Pedaler är lastbärande delar (som vevar). Två varianter med oförklarade namn (sinine) och olika pris; beställningsvara.",
+  "batch_gammal": "b_6_avvisade.json",
+  "titel_nu": "Pedaler Giant Pinner Comp MTB"
+ },
+ {
+  "id": "10470989824266",
+  "nr": 24070,
+  "avvisningsskal": "Last: cykelkorg som fästs på pakethållare med angiven lastkapacitet 5 kg (belastning/last, pakethållarfäste). Lyfts till handläggning.",
+  "batch_gammal": "b_4_avvisade.json",
+  "titel_nu": "Cykelkorg för Basil Class pakethållare"
+ },
+ {
+  "id": "10472218853642",
+  "nr": 24071,
+  "avvisningsskal": "Last: styrväska med uppgiven bärkapacitet 2,5 kg (last på styret). Faller under belastning/last och tas för hand med Davids ja. Kan släppas om David bedömer att en väska med lastuppgift inte är en säkerhetsprodukt.",
+  "batch_gammal": "b_3_avvisade.json",
+  "titel_nu": "Handlebar bag Basil Miles KF"
+ },
+ {
+  "id": "10472222425354",
+  "nr": 24072,
+  "avvisningsskal": "Väska med lastuppgift (bärkapacitet 5 kg) och val av monteringsfäste.",
+  "batch_gammal": "b_7_avvisade.json",
+  "titel_nu": "Styckväska Basil Magnolia City Bag, 7 l"
+ }
+]

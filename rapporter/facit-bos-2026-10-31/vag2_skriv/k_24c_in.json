@@ -1,0 +1,86 @@
+[
+ {
+  "id": "10472241168650",
+  "nr": 24085,
+  "avvisningsskal": "Vevlager (center chain/kedja/drev, BB) är en drivlinedel som bär last tillsammans med vevarna och kräver exakt kompatibilitet (BSA-bredd, vevtyp). Hör till vevar/kedjor som skrivs inte.",
+  "batch_gammal": "k_8_avvisade.json",
+  "titel_nu": "Center chain Shimano BSA 115mm/68mm BB-UN300 Square"
+ },
+ {
+  "id": "10472241234186",
+  "nr": 24086,
+  "avvisningsskal": "Vevlager (center chain/kedja/drev, BB) är en drivlinedel som bär last tillsammans med vevarna och kräver exakt kompatibilitet (BSA-bredd, vevtyp). Hör till vevar/kedjor som skrivs inte.",
+  "batch_gammal": "k_8_avvisade.json",
+  "titel_nu": "Center chain Shimano BSA 122.5mm/73m BB-UN101 Square"
+ },
+ {
+  "id": "10472241266954",
+  "nr": 24087,
+  "avvisningsskal": "Kassett (CS-HG41-7): drivlinedel som bär last, avvisas enligt reglerna (kassetter).",
+  "batch_gammal": "k_9_avvisade.json",
+  "titel_nu": "Kassett Shimano 7s 11-28 CS-HG41-7 11-13-15-18-21-24-28 AC"
+ },
+ {
+  "id": "10472241627402",
+  "nr": 24088,
+  "avvisningsskal": "Vevlager (center chain/kedja/drev, BB) är en drivlinedel som bär last tillsammans med vevarna och kräver exakt kompatibilitet (BSA-bredd, vevtyp). Hör till vevar/kedjor som skrivs inte.",
+  "batch_gammal": "k_8_avvisade.json",
+  "titel_nu": "Center chain Shimano BSA 83mm SM-BB52"
+ },
+ {
+  "id": "10472243233034",
+  "nr": 24089,
+  "avvisningsskal": "Vevlager (center chain/kedja/drev, BB) är en drivlinedel som bär last tillsammans med vevarna och kräver exakt kompatibilitet (BSA-bredd, vevtyp). Hör till vevar/kedjor som skrivs inte.",
+  "batch_gammal": "k_8_avvisade.json",
+  "titel_nu": "Center chain SHIMANO BB-UN300 73/122.5mm"
+ },
+ {
+  "id": "10472244150538",
+  "nr": 24090,
+  "avvisningsskal": "Kedja: kedjor bär last och är säkerhetskritiska, avvisas enligt cykelreglerna.",
+  "batch_gammal": "k_9_avvisade.json",
+  "titel_nu": "Chain SHIMANO HG53 9 gears"
+ },
+ {
+  "id": "10472244510986",
+  "nr": 24091,
+  "avvisningsskal": "Stödben (kickstand) bär cykelns vikt, och källan är trasig ('För ToRoad ToRoad…'); kompatibilitet kan inte styrkas. Tas för hand.",
+  "batch_gammal": "b_2_avvisade.json",
+  "titel_nu": "GIANT Mobility Kickstand"
+ },
+ {
+  "id": "10472245362954",
+  "nr": 24092,
+  "avvisningsskal": "Stödben Hebie Fix 18: bärande fäste (stödben). Tunn källa: ögonavstånd 18 mm och \"bred ände 18 mm\" är oklara mått. David kan släppa stödben som grupp.",
+  "batch_gammal": "k_07c_avvisade.json",
+  "titel_nu": "Stödben för bakmontering HEBIE Fix 18, 26\"-29\", svart"
+ },
+ {
+  "id": "10472245428490",
+  "nr": 24093,
+  "avvisningsskal": "Stödben Hebie Abstellheld 18: stödben bär cykelns vikt (bärande fäste), linje med 5003/5010/8052/8056. Källan har dessutom bara kvalitetsord utöver bulthålsavståndet. David kan släppa stödben som grupp.",
+  "batch_gammal": "k_07c_avvisade.json",
+  "titel_nu": "Stödben HEBIE Abstellheld 18"
+ },
+ {
+  "id": "10472245494026",
+  "nr": 24094,
+  "avvisningsskal": "Säkerhetsprodukt: stöd för bakre hjul/cykel med lastkapacitet 25 kg (belastning/last); passform för 29 tum.",
+  "batch_gammal": "b_4_avvisade.json",
+  "titel_nu": "Stöd för bakre löpare HEBIE Fox I, 29\", med två fästpunkter, svart"
+ },
+ {
+  "id": "10472245526794",
+  "nr": 24095,
+  "avvisningsskal": "Stödben Hebie Fox Uni: bärande fäste (stödben). Raden \"Kraftigt för styraxeln\" är obegriplig. David kan släppa stödben som grupp.",
+  "batch_gammal": "k_07c_avvisade.json",
+  "titel_nu": "Stödben för bakre löpare HEBIE Fox Uni, 26\"-28\", med två fästpunkter, svart"
+ },
+ {
+  "id": "10472246608138",
+  "nr": 24096,
+  "avvisningsskal": "Elektrisk lastcykel med motor (Bafang 250 W), batteri, lådcykel med lastkapacitet 100 kg. Elcykel och lastcykel: avvisas.",
+  "batch_gammal": "k_1_avvisade.json",
+  "titel_nu": "El-lastcykel CARGOBIKE of SWEDEN Classic"
+ }
+]

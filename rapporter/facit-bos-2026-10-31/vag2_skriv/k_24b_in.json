@@ -1,0 +1,86 @@
+[
+ {
+  "id": "10472227340554",
+  "nr": 24073,
+  "avvisningsskal": "Stödben (cykelstöd, Mini-stöd med bakre fäste) är bärande/säkerhetskritisk del; källan är dessutom trasig/maskinöversatt (upprepad stödmening) och lastuppgiften \"Lastkapacitet 35 kg\" står utan etikettkontext (R2, R4). Samma beslut som 9801.",
+  "batch_gammal": "k_11g_avvisade.json",
+  "titel_nu": "Ursus King R78 Mini-stöd med bakre fäste, 16-"
+ },
+ {
+  "id": "10472228389130",
+  "nr": 24074,
+  "avvisningsskal": "Säkerhetsrelaterad drivlinedel som bär last (pedaler, fästs i vevar, 9/16-tums gänga). Faller under kedjor/vevar som bär last. Titeln 'Pedals Giant Pinner Elite 9/' är dessutom avkortad och kan inte användas som källa. Tas för hand med Davids ja.",
+  "batch_gammal": "b_3_avvisade.json",
+  "titel_nu": "Pedals Giant Pinner Elite 9/"
+ },
+ {
+  "id": "10472228454666",
+  "nr": 24075,
+  "avvisningsskal": "Pedaler är lastbärande delar (som vevar). Dessutom oförklarat artikelnummer (sku 230000100) och ovanligt pris. Tas för hand med Davids ja.",
+  "batch_gammal": "b_7_avvisade.json",
+  "titel_nu": "Pedaler GIANT Pinner Elite, grön"
+ },
+ {
+  "id": "10472238055690",
+  "nr": 24076,
+  "avvisningsskal": "Vevlager (center chain/kedja/drev, BB) är en drivlinedel som bär last tillsammans med vevarna och kräver exakt kompatibilitet (BSA-bredd, vevtyp). Hör till vevar/kedjor som skrivs inte.",
+  "batch_gammal": "k_8_avvisade.json",
+  "titel_nu": "Center kedja Shimano BSA 117.5mm/68mm BB-UN300 Square"
+ },
+ {
+  "id": "10472239563018",
+  "nr": 24077,
+  "avvisningsskal": "Vevlager (center chain/kedja/drev, BB) är en drivlinedel som bär last tillsammans med vevarna och kräver exakt kompatibilitet (BSA-bredd, vevtyp). Hör till vevar/kedjor som skrivs inte.",
+  "batch_gammal": "k_8_avvisade.json",
+  "titel_nu": "Centerdrev Shimano BSA 107mm/68mm BB-UN300 Square"
+ },
+ {
+  "id": "10472239628554",
+  "nr": 24078,
+  "avvisningsskal": "Vevlager (center chain/kedja/drev, BB) är en drivlinedel som bär last tillsammans med vevarna och kräver exakt kompatibilitet (BSA-bredd, vevtyp). Hör till vevar/kedjor som skrivs inte.",
+  "batch_gammal": "k_8_avvisade.json",
+  "titel_nu": "Center chain Shimano BSA 110mm/68mm BB-UN300 Square"
+ },
+ {
+  "id": "10472239694090",
+  "nr": 24079,
+  "avvisningsskal": "Vevlager (center chain/kedja/drev, BB) är en drivlinedel som bär last tillsammans med vevarna och kräver exakt kompatibilitet (BSA-bredd, vevtyp). Hör till vevar/kedjor som skrivs inte.",
+  "batch_gammal": "k_8_avvisade.json",
+  "titel_nu": "Center chain Shimano BSA 113mm/68mm BB-UN300 Square"
+ },
+ {
+  "id": "10472239857930",
+  "nr": 24080,
+  "avvisningsskal": "Vevlager (center chain/kedja/drev, BB) är en drivlinedel som bär last tillsammans med vevarna och kräver exakt kompatibilitet (BSA-bredd, vevtyp). Hör till vevar/kedjor som skrivs inte.",
+  "batch_gammal": "k_8_avvisade.json",
+  "titel_nu": "Center chain Shimano BSA BB-MT800 68mm/73mm"
+ },
+ {
+  "id": "10472240414986",
+  "nr": 24081,
+  "avvisningsskal": "Titeln 'Tirr' (frihjul/kassett) motsäger beskrivningen som kallar delen 'kassettnav' och 'kassett'. Drivlinedel (kassett/nav) som bär last; avvisas och uppgiften utelämnas.",
+  "batch_gammal": "k_9_avvisade.json",
+  "titel_nu": "Tirr SHIMANO MF-TZ500-7 7k 14-28"
+ },
+ {
+  "id": "10472240447754",
+  "nr": 24082,
+  "avvisningsskal": "Vevlager (center chain/kedja/drev, BB) är en drivlinedel som bär last tillsammans med vevarna och kräver exakt kompatibilitet (BSA-bredd, vevtyp). Hör till vevar/kedjor som skrivs inte.",
+  "batch_gammal": "k_8_avvisade.json",
+  "titel_nu": "Centerdrev Shimano BSA 127.5/68mm BB-UN300 Square"
+ },
+ {
+  "id": "10472240513290",
+  "nr": 24083,
+  "avvisningsskal": "Vevlager (center chain/kedja/drev, BB) är en drivlinedel som bär last tillsammans med vevarna och kräver exakt kompatibilitet (BSA-bredd, vevtyp). Hör till vevar/kedjor som skrivs inte.",
+  "batch_gammal": "k_8_avvisade.json",
+  "titel_nu": "Center kedja Shimano BSA 113mm/73mm BB-UN300 Square"
+ },
+ {
+  "id": "10472240546058",
+  "nr": 24084,
+  "avvisningsskal": "Vevlager (center chain/kedja/drev, BB) är en drivlinedel som bär last tillsammans med vevarna och kräver exakt kompatibilitet (BSA-bredd, vevtyp). Hör till vevar/kedjor som skrivs inte.",
+  "batch_gammal": "k_8_avvisade.json",
+  "titel_nu": "Center chain Shimano BSA 118mm/73mm BB-UN300 Square"
+ }
+]

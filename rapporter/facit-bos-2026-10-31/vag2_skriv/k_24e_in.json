@@ -1,0 +1,86 @@
+[
+ {
+  "id": "10472293499146",
+  "nr": 24109,
+  "avvisningsskal": "Vevlager är en bärande del i drivlinan där passformen är avgörande (gänga, axellängd, ISO-standard); källan är tre fragment (\"särskilt lämplig för elcyklar\", \"24\"-29\" hjul\", aluminium) och hjulstorleken är orimlig för ett vevlager. Titeln är avbruten (\"24\"-\"). Kan inte skrivas säkert (R2, R3).",
+  "batch_gammal": "k_11f_avvisade.json",
+  "titel_nu": "Vevlager M-WAVE Strong F för E-bikes 24\"-"
+ },
+ {
+  "id": "10472294547722",
+  "nr": 24110,
+  "avvisningsskal": "Sadelstolpsrack med angiven lastkapacitet (10 kg) och fäste på sadelstolpe; lastbärande pakethållare.",
+  "batch_gammal": "b_27_avvisade.json",
+  "titel_nu": "RACKTIME ClipIT 2.0 sadelstolpsrack, 20\"-29\", 10 kg"
+ },
+ {
+  "id": "10472294940938",
+  "nr": 24111,
+  "avvisningsskal": "Pedaler: säkerhetskritisk och lastbärande del (specialregler för cykeldelar; tidigare underkänd som 5273). Tas för hand med Davids ja.",
+  "batch_gammal": "k_07b_avvisade.json",
+  "titel_nu": "Pedaler GIANT Combo Touring Pedal"
+ },
+ {
+  "id": "10472296153354",
+  "nr": 24112,
+  "avvisningsskal": "Cykelställ Peruzzo Siena (dragkrok, 4 cyklar): bärande fäste på bilens dragkrok med lastgräns 60 kg, typgodkännande och bakljus. Källan har upprepade trasiga rader (R2) och säkerhetskritiska uppgifter. Taggen På beställning.",
+  "batch_gammal": "k_07c_avvisade.json",
+  "titel_nu": "Cykelställ Peruzzo Siena, för 4 cyklar"
+ },
+ {
+  "id": "10472298086666",
+  "nr": 24113,
+  "avvisningsskal": "Titeln anger skruvar för extra vikter till hantlar, men källan beskriver tillbehör till Tunturi Rapid skivstång eller kettlebell. Motsägande kompatibilitet och fästdelar som bär last; går inte att skriva säkert utan Davids beslut.",
+  "batch_gammal": "f_13_avvisade.json",
+  "titel_nu": "Skruvar för fastsättning av extra vikter till hantlar TUNTURI Rapid Long Screw"
+ },
+ {
+  "id": "10472522023178",
+  "nr": 24114,
+  "avvisningsskal": "Korg med lastgräns (maximal lastkapacitet 10 kg) och pakethållarfäste.",
+  "batch_gammal": "b_8_avvisade.json",
+  "titel_nu": "Cykelkorg/frontkorg BASIL Nordland MIK, svart/trä"
+ },
+ {
+  "id": "10475424284938",
+  "nr": 24115,
+  "avvisningsskal": "Oklar produkttyp: titeln 'BASIL 22-25,4 mm fästes på den främre korgen' och källan 'Fixed Mounted Stem Holder' (styrdiameter 22–25,4 mm) säger inte vad det är (styrfäste till korg?). Fäste för korg som bär last; ingen säker typ att skriva. Lyfts till handläggning.",
+  "batch_gammal": "b_22_avvisade.json",
+  "titel_nu": "BASIL 22-25,4 mm fästes på den främre korgen"
+ },
+ {
+  "id": "10475981701386",
+  "nr": 24116,
+  "avvisningsskal": "Stöd för bakre hjul OXC Deluxe: källan är tom, och produkten är ett stödben (bärande fäste). Tunn källa (R3) och bärande fäste.",
+  "batch_gammal": "k_07c_avvisade.json",
+  "titel_nu": "Stöd för bakre hjul OXC Deluxe 24\"-28\", 18 mm, justerbart"
+ },
+ {
+  "id": "10487987699978",
+  "nr": 24117,
+  "avvisningsskal": "Stänkskärmset med lastuppgift: bakre skärmen kan enligt källan bära 8 kg per sida (pakethållarfunktion).",
+  "batch_gammal": "b_8_avvisade.json",
+  "titel_nu": "Stänkskärmset HEBIE Alumee 40mm"
+ },
+ {
+  "id": "10494687805706",
+  "nr": 24118,
+  "avvisningsskal": "Pedaler (landsvägspedaler): pedaler är säkerhetskritiska och bär last. Avvisas.",
+  "batch_gammal": "k_7_avvisade.json",
+  "titel_nu": "Landsvägscykels-pedaler Giant Road Comp, utan klossar"
+ },
+ {
+  "id": "10494688952586",
+  "nr": 24119,
+  "avvisningsskal": "Pedaler är lastbärande delar (som vevar).",
+  "batch_gammal": "b_8_avvisade.json",
+  "titel_nu": "Pedaler Giant Pinner Pro MTB"
+ },
+ {
+  "id": "10494699340042",
+  "nr": 24120,
+  "avvisningsskal": "Motsägelse och bärande fäste: titeln säger \"Stöd för bakväxel\", texten \"justerbart stöd för bakhjul\" (320-400 mm), \"Giant för Giant\" är trasig text; samma artikel som 9445 under annat SKU. Underkänd tidigare som 5010 (R2, R3).",
+  "batch_gammal": "k_07b_avvisade.json",
+  "titel_nu": "Stöd för bakväxel GIANT DIRECT MOUNT KSA 24\" - 29\", 18MM"
+ }
+]

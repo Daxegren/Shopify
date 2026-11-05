@@ -1,0 +1,86 @@
+[
+ {
+  "id": "10581104394506",
+  "nr": 24133,
+  "avvisningsskal": "Titeln säger Golvstativ men produkten har två varianter: FS (golvstativ, 4 539 kr) och WM (troligen väggmontering, 829 kr). Källan stämmer inte med titeln (R3). Hängande/bärande redskap utan lastgräns i källan.",
+  "batch_gammal": "k_11d_avvisade.json",
+  "titel_nu": "Air Ski Trainer Pro Golvstativ"
+ },
+ {
+  "id": "10581104853258",
+  "nr": 24134,
+  "avvisningsskal": "Nackskydd för tunga lyft: källan består av skydds- och trycklättnadspåståenden utan mått eller material (tunn källa, R3, R5). Bär last över nacken; ingen webbkälla funnen. Liknande nackskydd underkändes av granskare tidigare.",
+  "batch_gammal": "k_11d_avvisade.json",
+  "titel_nu": "Barbell Pad"
+ },
+ {
+  "id": "10581104951562",
+  "nr": 24135,
+  "avvisningsskal": "Bär- och säkerhetsdel (vägg-/golvfäste för battle rope, R4: ingen ordagrann svensk lastgräns). Dessutom tre varianter med olika SKU och pris, live: 0 (SKU 61090-0, 349 kr); 1,5 (SKU 61090-1,5, 1299 kr); 2 (SKU 61090-2, 1599 kr).",
+  "batch_gammal": "k_17h_avvisade.json",
+  "titel_nu": "Battle Rope Wall-/Floor Mount"
+ },
+ {
+  "id": "10581105541386",
+  "nr": 24136,
+  "avvisningsskal": "Reservdel med oklar funktion (koppling, sannolikt lastbärande) och motsägande varianter: CON 19 kr, Default 1 499 kr, RFS 29 kr; produkttyp okänd.",
+  "batch_gammal": "c_5_avvisade.json",
+  "titel_nu": "Connector - liitoskappale (varaosa)"
+ },
+ {
+  "id": "10581105770762",
+  "nr": 24137,
+  "avvisningsskal": "Dörrankare för träningsband: bärande fäste där fel text kan ge skada (last/säkerhet); källan anger inga belastningsuppgifter. Tas för hand.",
+  "batch_gammal": "c_6_avvisade.json",
+  "titel_nu": "Dörrankare för Pro träningsband"
+ },
+ {
+  "id": "10581105803530",
+  "nr": 24138,
+  "avvisningsskal": "Dipsstation som bär hela kroppsvikten (bärande del); sex oförklarade varianter (899–2 999 kr) och ingen lastgräns eller montering i källan (R3, R4).",
+  "batch_gammal": "k_13b_avvisade.json",
+  "titel_nu": "Dip Station for Wall Bars"
+ },
+ {
+  "id": "10581105869066",
+  "nr": 24139,
+  "avvisningsskal": "Door Gym Bar (dörrkarmsräcke för chins, pull-ups, dips): bärande last och säkerhet; dessutom oförklarade varianter (BL, WH, Default). Tas för hand.",
+  "batch_gammal": "c_6_avvisade.json",
+  "titel_nu": "Door Gym Bar - Black"
+ },
+ {
+  "id": "10581106426122",
+  "nr": 24140,
+  "avvisningsskal": "Lyftremmar som bär stången vid tunga lyft (bärande del) utan lastgräns, material eller mått i källan; ett entydigt faktum utöver titeln. Källan har effektpåståenden (minskar belastningen på händer och underarmar) (R3, R4, R5).",
+  "batch_gammal": "k_11e_avvisade.json",
+  "titel_nu": "Figure 8 Straps"
+ },
+ {
+  "id": "10581106524426",
+  "nr": 24141,
+  "avvisningsskal": "Fitness Trampoline: trampolin där användarens vikt bärs och fall ger skaderisk (säkerhet/last); källan anger ingen maxvikt och påstår 'skonsam mot lederna'. Varianterna Default och SC har samma pris och är oförklarade. Tas för hand.",
+  "batch_gammal": "c_7_avvisade.json",
+  "titel_nu": "Fitness Trampoline"
+ },
+ {
+  "id": "10581107802378",
+  "nr": 24142,
+  "avvisningsskal": "Heavy Bag 20kg: hängande boxsäck med last (slag och spark). Säkerhetsprodukt, tas för hand med Davids ja. Dessutom sju oförklarade varianter (20, 30, 45, CM, HS, WM, WMPRO) med priserna 79–2 499 kr.",
+  "batch_gammal": "c_9_avvisade.json",
+  "titel_nu": "Heavy Bag 20kg"
+ },
+ {
+  "id": "10581107835146",
+  "nr": 24143,
+  "avvisningsskal": "Hi-Rise Parallettes: bärande redskap där kroppsvikt belastar konstruktionen; källan har säkerhetspåståenden men saknar mått och belastningsuppgifter. Säkerhetsprodukt, tas för hand.",
+  "batch_gammal": "c_9_avvisade.json",
+  "titel_nu": "Hi-Rise Parallettes"
+ },
+ {
+  "id": "10581107867914",
+  "nr": 24144,
+  "avvisningsskal": "Bär-/lastprodukt (R4) och fem varianter med olika SKU och pris, live: 10 (SKU BPHI-10, 689 kr); 15 (SKU BPHI-15, 849 kr); 20 (SKU BPHI-20, 1149 kr); 25 (SKU BPHI-25, 1499 kr); 5 (SKU BPHI-5, 419 kr).",
+  "batch_gammal": "k_17h_avvisade.json",
+  "titel_nu": "Hi-Impact Bumper Plate 10kg - enkel"
+ }
+]

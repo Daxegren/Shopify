@@ -1,0 +1,86 @@
+[
+ {
+  "id": "10494699372810",
+  "nr": 24121,
+  "avvisningsskal": "Oklar produkttyp och bärande fäste: \"Stöd för Giant Direct Mount KSA\" med 18 mm bultavstånd och längd 320-400 mm ser ut att vara ett stödben som monteras på ramen och bär cykelns vikt. Typordet \"Stöd\" är inte begripligt för kunden. Underkänd tidigare som 5003. Kräver bekräftad typ och Davids ja.",
+  "batch_gammal": "k_07b_avvisade.json",
+  "titel_nu": "Stöd för Giant Direct Mount KSA 24\"-29\", 18 mm"
+ },
+ {
+  "id": "10502528041226",
+  "nr": 24122,
+  "avvisningsskal": "Kedja (HG54): kedjor bär last och är säkerhetskritiska, avvisas. Källan saknar dessutom beskrivning.",
+  "batch_gammal": "k_9_avvisade.json",
+  "titel_nu": "Kedja SHIMANO HG54 10-växlad"
+ },
+ {
+  "id": "10515745636618",
+  "nr": 24123,
+  "avvisningsskal": "R3: titelns färg 'Krom/Svart' motsäger källans 'Färg: svart-grå' (en variant, v1.7 hjälper inte), och källan nämner 'sits i aluminium' som inte hör till en tricksparkcykel (trasig rad). Lastgräns 100 kg finns men hjälper inte mot färgmotsägelsen.",
+  "batch_gammal": "k_17f_avvisade.json",
+  "titel_nu": "Tricksparkcykel Versatyl S2S Edition Pro Scooter Krom/Svart"
+ },
+ {
+  "id": "10548251230474",
+  "nr": 24124,
+  "avvisningsskal": "Pedaler (bär last, säkerhetsprodukt)",
+  "batch_gammal": "b_24_avvisade.json",
+  "titel_nu": "Pedaler KONA Wah Wah 2 Alloy, Forest Green"
+ },
+ {
+  "id": "10554354073866",
+  "nr": 24125,
+  "avvisningsskal": "Pedaler (bär last, säkerhetsprodukt)",
+  "batch_gammal": "b_24_avvisade.json",
+  "titel_nu": "Pedaler LOOK TRAIL GRIP, Lime"
+ },
+ {
+  "id": "10554354139402",
+  "nr": 24126,
+  "avvisningsskal": "Cykelväska med lastgräns i källan (maxvikt 5 kg)",
+  "batch_gammal": "b_24_avvisade.json",
+  "titel_nu": "Cykelväska BASIL Miles Tarpaulin 8L, svart-orange"
+ },
+ {
+  "id": "10554363117834",
+  "nr": 24127,
+  "avvisningsskal": "Pedalplattor (del av pedalsystemet, bär last och styr frigöring, säkerhetsprodukt)",
+  "batch_gammal": "b_24_avvisade.json",
+  "titel_nu": "Pedalplattor LOOK Keo Cleat, landsväg, röd"
+ },
+ {
+  "id": "10565560631562",
+  "nr": 24128,
+  "avvisningsskal": "Pedaler (bär last, säkerhetsprodukt)",
+  "batch_gammal": "b_24_avvisade.json",
+  "titel_nu": "Pedaler GIANT Pinner Elite, blå"
+ },
+ {
+  "id": "10565595726090",
+  "nr": 24129,
+  "avvisningsskal": "Fotstöd för Fiido T2 (lastcykel/elcykel, bär last, säkerhetsprodukt), källa en rad",
+  "batch_gammal": "b_24_avvisade.json",
+  "titel_nu": "Fotstöd FIIDO T2 Bakre Pinnar"
+ },
+ {
+  "id": "10581101641994",
+  "nr": 24130,
+  "avvisningsskal": "Sju varianter med olika SKU och priser 2 039-4 789 kr (10CURVED, 15, 20COM, 20PRE, 20, BH6, HB182), oförklarade (R3). Skivstång med belastning: säkerhetsprodukt, ingen ordagrann svensk lastgräns i källan (R4).",
+  "batch_gammal": "k_17g_avvisade.json",
+  "titel_nu": "10kg Curved Bar"
+ },
+ {
+  "id": "10581102035210",
+  "nr": 24131,
+  "avvisningsskal": "Hängande redskap (remmar för crunch i stång) utan lastgräns i den svenska källan. Webbsidan anger 80 kg bara på engelska, vilket utelämnas (R4), och materialuppgifterna där motsäger varandra. Tunn källa utan fakta att bygga på.",
+  "batch_gammal": "k_11d_avvisade.json",
+  "titel_nu": "Ab Crunch Strap"
+ },
+ {
+  "id": "10581102231818",
+  "nr": 24132,
+  "avvisningsskal": "Två varianter med olika SKU och pris (61070-15 1 139 kr, 61070-20 1 449 kr) trots titeln 15 kg (R3). Justerbara hantlar med lås och last: säkerhetsprodukt utan ordagrann svensk lastgräns (R4).",
+  "batch_gammal": "k_17g_avvisade.json",
+  "titel_nu": "Adjustable Dumbbell Set 15kg"
+ }
+]

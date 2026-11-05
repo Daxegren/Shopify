@@ -1,0 +1,86 @@
+[
+ {
+  "id": "10472255324426",
+  "nr": 23025,
+  "avvisningsskal": "Motsägande källa: tjockleken anges som '105*10.5' i titeln, 'Handtagets diameter: Ø 10,5 mm' och '10 mm Ø 10,5 mm', och texten blandar nederländska godkännanden (ART 4-stjärnigt, ART 16, rostfritt stål) med oklara rader. Går inte att skriva säkert.",
+  "batch_gammal": "b_37_avvisade.json",
+  "titel_nu": "Kedjelås AXA Procarat+ NEO 105*10.5"
+ },
+ {
+  "id": "10472256667914",
+  "nr": 23026,
+  "avvisningsskal": "Motsägande källa: titeln 32-622 men beskrivningen 32-47-622 S60; ventiltyp saknas och S60/RE förklaras inte.",
+  "batch_gammal": "b_28_avvisade.json",
+  "titel_nu": "Inner tube CONTINENTAL Cross Tube 28\" S60 RE, 32-622"
+ },
+ {
+  "id": "10472262959370",
+  "nr": 23027,
+  "avvisningsskal": "Battery set for Fiido Titan: batteripaket till elcykel (batteri/elektronik, säkerhetsprodukt som hålls utanför enligt utkastprompten) och tunn källa (två meningar, bara satsens innehåll). Kvarstår avvisad.",
+  "batch_gammal": "k_17c_avvisade.json",
+  "titel_nu": "Battery set for Fiido Titan"
+ },
+ {
+  "id": "10472271020298",
+  "nr": 23028,
+  "avvisningsskal": "Motsägande källa: titeln säger Vredeslås men texten kallar produkten hjullås; typen går inte att fastställa och byts inte för att komma förbi kontrollen. Ingen mer fakta än längd 69 cm och vikt 0,5 kg.",
+  "batch_gammal": "b_37_avvisade.json",
+  "titel_nu": "Vredeslås SQUIRE Folda Mini FL690"
+ },
+ {
+  "id": "10472297791754",
+  "nr": 23029,
+  "avvisningsskal": "Tunn källa: texten innehåller bara synlighets- och säkerhetsformuleringar ('gröna prickar bidrar till ökad synlighet, förbättrar din säkerhet') och inga mått, lumen, batteri eller annan fakta.",
+  "batch_gammal": "b_51_avvisade.json",
+  "titel_nu": "LAZER HMT Nutz 2.0 KC Pannlampa, Gröna prickar"
+ },
+ {
+  "id": "10472299299082",
+  "nr": 23030,
+  "avvisningsskal": "Tunn källa: ingen beskrivning, bara titeln 'Hantelvikter Safe Lock, 50mm' och taggarna Cykellås och viktlås. Produkttypen är oklar (titelns Hantelvikter mot taggen viktlås), och typen får inte bytas för att komma förbi en kontroll. Kan skrivas när leverantören bekräftat vad produkten är.",
+  "batch_gammal": "f_12_avvisade.json",
+  "titel_nu": "Hantelvikter TOORX Safe Lock, 50mm"
+ },
+ {
+  "id": "10472304017674",
+  "nr": 23031,
+  "avvisningsskal": "Dubbdäck Suomi Tyres Routa W126 28 x 1.: dubbdäck är säkerhetskritiska och avvisas. Titeln är avklippt ('28 x 1.') och källan har en trasig rad om användning.",
+  "batch_gammal": "k_07d_avvisade.json",
+  "titel_nu": "Dubbdäck SUOMI TYRES Routa W126 28 x 1."
+ },
+ {
+  "id": "10472304935178",
+  "nr": 23032,
+  "avvisningsskal": "Dubbdäck (vinterdäck med dubbar) är en säkerhetskritisk produkt utanför faktatextläget; samma bedömning som för Suomi Tyres Hile W240 (6209, k_9). Källan är dessutom tunn och trasig: rader '244 pounds' och '74.01' saknar etikett, och löptexten innehåller säkerhets- och kvalitetslöften ('säker', 'slitstarka', 'utmärkt grepp'). Lyft till koordinatorn.",
+  "batch_gammal": "k_01c_avvisade.json",
+  "titel_nu": "Cykeldäck SUOMI TYRES Routa W244 E-Bike 28 x 1.38"
+ },
+ {
+  "id": "10472305688842",
+  "nr": 23033,
+  "avvisningsskal": "Motsägande källa: titeln anger 100 mm men källans hjuldiameter är 110 mm, och färg svart/blå mot titelns Blue/Black.",
+  "batch_gammal": "b_49_avvisade.json",
+  "titel_nu": "Hjul till sparkcykel Union Credit V2 Pro Scooter Wheel 100mm Blue/Black"
+ },
+ {
+  "id": "10472323023114",
+  "nr": 23034,
+  "avvisningsskal": "Hunddörr (sidopanel) till Amladcyklers lådcykel: tillbehör till lastcykel och djurtransport, med passform bara för 'Ultimate Curve och Deluxe' och tunn källa (en mening). Kompatibilitet och användning går inte att styrka mer; tas för hand.",
+  "batch_gammal": "k_1_avvisade.json",
+  "titel_nu": "Hunddörr för AMLADCYKLER lådcykel, sidöppning"
+ },
+ {
+  "id": "10472324432138",
+  "nr": 23035,
+  "avvisningsskal": "Otillräcklig källa: livekällan är bara 'Produkten passar för BH Fitness' med en länk till en velotrainer/cykeltrainer och 'Tillverkaren är BH Fitness'. Ingen uppgift om mått, material eller användning, och produkttypen Step board är oklar (finns i handhavd_ids.txt: stepbräda, källan länkar till cykeltrainer). Ingen text går att skriva utan att gissa.",
+  "batch_gammal": "g_2_avvisade.json",
+  "titel_nu": "Step board BH FITNESS"
+ },
+ {
+  "id": "10475384832266",
+  "nr": 23036,
+  "avvisningsskal": "Titeln säger glidvalla men källan beskriver en syntetisk fästkompound för fästområdet; motsägelse, plus maskinöversatt källa. Lyfts till David.",
+  "batch_gammal": "b_30_avvisade.json",
+  "titel_nu": "Glidvalla Start pid. grön -5...-10"
+ }
+]

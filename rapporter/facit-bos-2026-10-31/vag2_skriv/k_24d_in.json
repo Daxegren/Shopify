@@ -1,0 +1,86 @@
+[
+ {
+  "id": "10472246870282",
+  "nr": 24097,
+  "avvisningsskal": "Stödben Hebie eLex: bärande fäste (stödben för elcykel, last 40 kg i källan). Elcykelfäste med viktfördelning i marknadsföringstexten. David kan släppa stödben som grupp.",
+  "batch_gammal": "k_07c_avvisade.json",
+  "titel_nu": "Stödben för mittmontering HEBIE eLex 26\"-28\", svart"
+ },
+ {
+  "id": "10472248148234",
+  "nr": 24098,
+  "avvisningsskal": "Elektrisk lastcykel (motor 250 W, batteri, display, lastkapacitet 150 kg): elcykel och lastcykel. Avvisas.",
+  "batch_gammal": "k_11_avvisade.json",
+  "titel_nu": "El-lastcykel JOBOBIKE Transer, Grön"
+ },
+ {
+  "id": "10472249295114",
+  "nr": 24099,
+  "avvisningsskal": "Bakre stödhjul/stödben Hebie Abstellheld 40: stödben bär cykelns vikt (bärande fäste), i linje med tidigare underkännanden (5003, 5010, 8052, 8056). Live-titeln säger dessutom \"stödhjul\" medan taggen och handtaget säger stödben; typordet är inte entydigt i källan (R7). David kan släppa stödben som grupp.",
+  "batch_gammal": "k_07c_avvisade.json",
+  "titel_nu": "Bakre stödhjul HEBIE Abstellheld 40, svart, tjock"
+ },
+ {
+  "id": "10472250114314",
+  "nr": 24100,
+  "avvisningsskal": "Framkorg/bagagehållare med maximal lastkapacitet 10 kg i källan; korg med lastgräns.",
+  "batch_gammal": "b_27_avvisade.json",
+  "titel_nu": "Framkorg/bagagehållare BASIL PORTLAND, 25 l, matt svart"
+ },
+ {
+  "id": "10472250376458",
+  "nr": 24101,
+  "avvisningsskal": "Pedaler: säkerhetskritisk och lastbärande del (specialregler för cykeldelar; tidigare underkänd som 5267). Tas för hand med Davids ja.",
+  "batch_gammal": "k_07b_avvisade.json",
+  "titel_nu": "Pedaler GIANT Pinner Elite, lila"
+ },
+ {
+  "id": "10472250441994",
+  "nr": 24102,
+  "avvisningsskal": "Stödben för bakre löpare (cykelstöd) bär cykelns vikt: säkerhetskritisk/bärande del. Avvisas (som 8052/8056 i tidigare granskning). Källan har dessutom bara en mening (\"Stöd för Academy 20\" cyklar, avstånd 40 mm\").",
+  "batch_gammal": "k_11a_avvisade.json",
+  "titel_nu": "Stödben för bakre löpare för ACADEMY 20\" cyklar, KSA 40"
+ },
+ {
+  "id": "10472250835210",
+  "nr": 24103,
+  "avvisningsskal": "Stödben/stativ som bär cykelns vikt; källan är garblad ('bakre löpare') och saknar kompatibilitetsuppgift utöver titeln.",
+  "batch_gammal": "b_20_avvisade.json",
+  "titel_nu": "Stående ben för bakre löpare ACADEMY 24\"-27.5\", KSA 40"
+ },
+ {
+  "id": "10472251228426",
+  "nr": 24104,
+  "avvisningsskal": "Korg med lastgräns (maxvikt 10 kg).",
+  "batch_gammal": "b_8_avvisade.json",
+  "titel_nu": "Bagagekorg BASIL Base M MIK, svart"
+ },
+ {
+  "id": "10472251326730",
+  "nr": 24105,
+  "avvisningsskal": "Pedaler (Giant Pinner Comp): pedaler är en säkerhetsprodukt (bär last och påverkar kontrollen) enligt standardens lista. Tas för hand med Davids ja.",
+  "batch_gammal": "b_21_avvisade.json",
+  "titel_nu": "Pedaler GIANT Pinner Comp, röd"
+ },
+ {
+  "id": "10472251851018",
+  "nr": 24106,
+  "avvisningsskal": "Väska med lastgräns (Maxvikt 10 kg totalt, max 5 kg per väska).",
+  "batch_gammal": "b_7_avvisade.json",
+  "titel_nu": "Pakväska Basil City, 28-32L, dubbelsidig, brun"
+ },
+ {
+  "id": "10472268955914",
+  "nr": 24107,
+  "avvisningsskal": "Vuxentrehjuling med korg och lastkapacitet 120 kg (trehjuling/lastcykel med belastningsuppgift). Lastcykel och belastning: avvisas.",
+  "batch_gammal": "k_1_avvisade.json",
+  "titel_nu": "Tricycle AMLADCYKLER"
+ },
+ {
+  "id": "10472284979466",
+  "nr": 24108,
+  "avvisningsskal": "Pedalblock (Look Keo Grip): pedaldel som bär last; tom beskrivning. Avvisas.",
+  "batch_gammal": "k_7_avvisade.json",
+  "titel_nu": "Pedalblock för racercykel LOOK KEO GRIP, 0 grader"
+ }
+]

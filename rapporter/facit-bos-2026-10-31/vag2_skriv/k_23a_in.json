@@ -1,0 +1,86 @@
+[
+ {
+  "id": "10411319263498",
+  "nr": 23001,
+  "avvisningsskal": "Säkerhetsprodukt: lås/säkerhetsrep från AXA Bike Security; källan är trasig (vikt 1620 g och raden '1620 Loop: 1616o Loop: 1620o').",
+  "batch_gammal": "b_4_avvisade.json",
+  "titel_nu": "Rep med öglor AXA Double Loop 1000/10"
+ },
+ {
+  "id": "10411859181834",
+  "nr": 23002,
+  "avvisningsskal": "Källan riktar sig till unga/nybörjare ('följeslagare för unga'), höjd 82 cm tyder på liten modell, och källtexten är maskinöversatt och motsägande ('linser', dubbla måttrader). Kan inte skrivas säkert.",
+  "batch_gammal": "b_49_avvisade.json",
+  "titel_nu": "Stuntscooter SOKE GO! blå-gul"
+ },
+ {
+  "id": "10430254809354",
+  "nr": 23003,
+  "avvisningsskal": "Titeln anger blå och 12 kg, men SKU är KCAE-14 medan övriga Olympic EVO har SKU som motsvarar vikten (KCAE-16 = 16 kg, KCAE-18 = 18 kg, KCAE-20 = 20 kg). Källan säger varken vikt eller färg. Motsägande uppgift om vikten; kan skrivas när leverantören bekräftat 12 eller 14 kg.",
+  "batch_gammal": "f_14_avvisade.json",
+  "titel_nu": "TOORX Olympic EVO Kettlebell, blå, 12 kg"
+ },
+ {
+  "id": "10461967188234",
+  "nr": 23004,
+  "avvisningsskal": "Källan motsäger sig: titeln säger mörkbrun men texten havsgrön, och texten säger både att cykelkorgen medföljer ej och beskriver korgen. Oklart om produkten är korgen eller bara fästet. Lyfts till handläggning.",
+  "batch_gammal": "b_4_avvisade.json",
+  "titel_nu": "Framkorg BASIL Bremen Rattan Look FM, mörkbrun"
+ },
+ {
+  "id": "10462134763786",
+  "nr": 23005,
+  "avvisningsskal": "Motsägande källa: namnet Juno Dynamo (dynamo) men texten anger '6 V batteridriven med 6 V batteri' och kompatibilitet med e-cykelbatteri; strömkällan går inte att skriva säkert. Samma problem som 9046.",
+  "batch_gammal": "b_51_avvisade.json",
+  "titel_nu": "Baklykta från AXA JUNO DYNAMO STEADY/50MM"
+ },
+ {
+  "id": "10462767284490",
+  "nr": 23006,
+  "avvisningsskal": "Cykeldäck (Continental Ride Tour 42-622): däck är säkerhetskritiskt; källan saknar dessutom beskrivning (bara titel).",
+  "batch_gammal": "k_7_avvisade.json",
+  "titel_nu": "Utomhusdäck CONTINENTAL Tire Ride Tour 42-622/ 28x1.60"
+ },
+ {
+  "id": "10462780424458",
+  "nr": 23007,
+  "avvisningsskal": "Tunn källa utan faktagrund (bara namn, märke och vikt 0,01 kg); inga mått, antal eller motiv, och priset 1 459 kr är oförklarat.",
+  "batch_gammal": "b_49_avvisade.json",
+  "titel_nu": "Scooter stickers Union Sticker"
+ },
+ {
+  "id": "10462785896714",
+  "nr": 23008,
+  "avvisningsskal": "Kork Start NATURAL: tunn och trasig källa. Användningen är maskinöversatt ('skrubba bort hal jord') och det enda andra är vad korken inte ska användas till (fästvalla); produkttypen går inte att fastställa säkert (R2). Underkändes i b_20 (b_utlatande_20_21). Ingen webbkälla sökt, eftersom modellen 'Start Natural' inte kan skiljas från andra Start-korkar utan tillverkarsida.",
+  "batch_gammal": "k_07d_avvisade.json",
+  "titel_nu": "Kork Start NATURAL"
+ },
+ {
+  "id": "10468704420106",
+  "nr": 23009,
+  "avvisningsskal": "Pedaler (Road Elite, Look KEO): pedaler avvisas. Källtexten motsäger titeln ('landsvägscykelsadlar').",
+  "batch_gammal": "k_7_avvisade.json",
+  "titel_nu": "Road bike pedals Giant Road Elite"
+ },
+ {
+  "id": "10468710678794",
+  "nr": 23010,
+  "avvisningsskal": "Källan motsäger titeln: beskriver 'ADO Air 28 framhjälm' (hjälm) för en frontkorg. Hjälm/säkerhet och motsägelse; systerprodukten (silver, 10472248738058) har utkast.",
+  "batch_gammal": "b_20_avvisade.json",
+  "titel_nu": "Frontkorg för ADO A28, svart"
+ },
+ {
+  "id": "10470912753930",
+  "nr": 23011,
+  "avvisningsskal": "Belysning med lagkrav och batteri (AXA Nox City, 4 lux, hänvisar till franska regler); källan motsägs i datarader.",
+  "batch_gammal": "b_6_avvisade.json",
+  "titel_nu": "Headlight AXA NOX City"
+ },
+ {
+  "id": "10470983958794",
+  "nr": 23012,
+  "avvisningsskal": "Union GH-022 'Frame ear': titeln (Frame ear) och texten (ramring) motsäger varandra om vad delen är, och den anger kompatibilitet via en lång märkeslista utan modeller ('för olika modeller'). Delen sitter i ramen och påverkar växlingen; kompatibilitet är inte entydig. Utelämnas.",
+  "batch_gammal": "k_9_avvisade.json",
+  "titel_nu": "Frame ear Union GH-022"
+ }
+]
