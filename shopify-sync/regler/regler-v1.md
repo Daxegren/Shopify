@@ -47,3 +47,7 @@ Cirkulära inledningar (R11), meta utan verb, typord som byts utan stöd i käll
 - Bärande och hängande delar: nuvarande regel (R4) gäller oförändrad; skrivs bara med ordagrann svensk lastgräns.
 - R3: varianter med samma SKU och samma färg, där en är en överbliven Default Title, ignoreras och produkten skrivs utan färg och pris i titeln (som 10113). Varianter med olika SKU avvisas som förut.
 - R1 (G): faktakoll på nätet gäller alla webbplatser (inga domänbegränsningar); källan måste entydigt gälla exakt modellen och adressen anges i `att_bekrafta`.
+
+## v1.8 (2026-11-05): förtydligande av R3 (David)
+- Storleksvarianter med olika artikelnummer men SAMMA pris och SAMMA färg skrivs; titeln får inte låsa storlek, och färg anges bara om ingen variant anger en annan kulör. Olika pris eller olika färg mellan varianter avvisas som förut. Detta förtydligar v1.7, där "olika SKU avvisas" gäller riktiga varianter med olika pris.
+- Taggen "På beställning" kräver leveranstidsmeningen (R13); kontrolleras av granskaren.

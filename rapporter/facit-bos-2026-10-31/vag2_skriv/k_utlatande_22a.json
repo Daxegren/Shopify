@@ -1,0 +1,28 @@
+[
+ {
+  "nr": 22004,
+  "id": "10624088637706",
+  "fil": "k_22a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Se sidan Frakt för övriga länder.</p>",
+    "efter": "Se sidan Frakt för övriga länder. Beställningsvaror kan ta upp till en vecka längre.</p>"
+   }
+  },
+  "skal": "Produkten har taggen På beställning men leveranstidsmeningen saknas i standardblocket (R13, v1.5). Färgen Shell White får stå i titel, SEO, meta och specifikation: Livs egen sida för exakt modellen (liv-cycling.com/ee/avail-advanced-1-2027, länkad från källan, öppnad 2026-11-05) anger Shell White som enda färg. 'gray' i varianten är leverantörens färgfamilj, inte ett annat kulörnamn (samma nivå som 20061 Midnight Moon/gray och 9029 Mars Dust/Red); ingen variant anger en annan kulör. Varianter Default Title (SKU 1017039143) och M / gray (SKU 1017039145), samma pris 52 139 kr; skrivs enligt Davids bekräftade tolkning 2026-11-05. Ingen ramstorlek nämns, rätt. 'Shimano 105 Di2' står ordagrant i källan och på Livs sida; texten säger varken elektronisk eller mekanisk och anger inget batteri (v1.7), godtas. 24 växlar ordagrant i källan (2x12 enligt Liv). Ram, gaffel, fälgar, däck och fästpunkter stämmer med live. Dubblett 10635810046218 (samma SKU, yngre) är upptagen i sammanslagningsplanen rad 39 med denna som behållare."
+ },
+ {
+  "nr": 22005,
+  "id": "10676720501002",
+  "fil": "k_22a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Se sidan Frakt för övriga länder.</p>",
+    "efter": "Se sidan Frakt för övriga länder. Beställningsvaror kan ta upp till en vecka längre.</p>"
+   }
+  },
+  "skal": "Produkten har taggen På beställning men leveranstidsmeningen saknas (R13, v1.5). '29 2' i källans löptext är ett skrivfel: Giants sida för XTC SLR 29 1 (2027) (giant-bicycles.com/ee/xtc-slr-29-1-2027, öppnad 2026-11-05) har exakt källans komponenter (ALUXX SLR 12x148, Crest XC Comp 100 mm 15x110 remote lockout, Deore RD-M6200, Tektro Orion, Maxxis Recon Race 29x2.4, XCA 2 29 25 mm) och färgen Tempest Purple. XTC SLR 29 2 har andra delar (Crest 34 RRL, Deore M-6100, MT200, XCT 29; giant-bicycles.com/ee/xtc-slr-29-2-2027 visar 2025-modellen). Storlekarna S, M, L och XL i texten är exakt de fyra varianterna (alla purple, 24 669 kr, olika SKU), och Giant anger S-XL (R3 v1.5). Källan anger inte mekanisk/elektronisk och texten påstår inget. Övriga fakta stämmer med live. Ingen annan 2027 Tempest Purple finns (dubblettsök live)."
+ }
+]
