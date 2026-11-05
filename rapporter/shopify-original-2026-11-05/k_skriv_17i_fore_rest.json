@@ -1,0 +1,47 @@
+[
+ {
+  "id": "gid://shopify/Product/10581112848650",
+  "title": "Wrist Support 1.0",
+  "handle": "wrist-support-1-0",
+  "status": "ACTIVE",
+  "tags": [
+   "Gymstick"
+  ],
+  "updatedAt": "2026-10-24T12:46:14Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Stärk dina handleder och förbättra din stabilitet under tuffa träningspass med <strong>Gymstick Wrist Support 1.0</strong>. Dessa handledsstöd är designade för att ge optimalt stöd och skydd, vilket minskar risken för skador och låter dig lyfta tyngre med ökat självförtroende. Perfekta för styrketräning, tyngdlyftning eller andra aktiviteter där handlederna utsätts för hög belastning.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/10581112160522",
+  "title": "Triceps Full Extension Bar",
+  "handle": "triceps-full-extension-bar",
+  "status": "ACTIVE",
+  "tags": [
+   "Gymstick"
+  ],
+  "updatedAt": "2026-10-18T04:13:09Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Förbättra din tricepsstyrka och muskeldefinition med <strong>Gymstick Triceps Full Extension Bar</strong>. Denna mångsidiga träningsutrustning är designad för att ge dig en effektiv och målinriktad träning av armarnas baksida.</p>\n\n<p>Konstruerad för <strong>hållbarhet och komfort</strong>, möjliggör denna bar en full rörelsebana för att maximera muskelaktivering. Perfekt för både hemmaträning och gymanvändning, den är ett utmärkt komplement till ditt befintliga träningsprogram för att bygga starkare och mer definierade armar.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/10581112258826",
+  "title": "Universal Paw",
+  "handle": "universal-paw",
+  "status": "ACTIVE",
+  "tags": [
+   "Gymstick"
+  ],
+  "updatedAt": "2026-10-29T19:39:37Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Med <strong>Gymstick Universal Paw</strong> får du en mångsidig träningspartner som utökar dina träningsmöjligheter rejält. Denna robusta utrustning är designad för att tåla tuffa pass och passar perfekt för allt från styrkeövningar till rörlighetsträning. Förbättra din greppstyrka och variera din träning med detta effektiva tillskott till din hemmagym eller träningsstudio.</p>"
+ }
+]
