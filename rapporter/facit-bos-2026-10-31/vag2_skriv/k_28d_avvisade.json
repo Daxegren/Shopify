@@ -1,0 +1,42 @@
+[
+ {
+  "id": "10471429898506",
+  "nr": 28037,
+  "avvisningsskal": "R6/v. 2026-11-05: Källan anger 'Designad för: barn' (barnscooter, Rideoo 175 City Scooter); inget fakta utöver typ och barnmålgrupp bär en text, och produkten avvisades redan i in-filen."
+ },
+ {
+  "id": "10472232780042",
+  "nr": 28040,
+  "avvisningsskal": "R2/R3: Trasig/motsägande källa. Titeln 'Snow boots' men källtexten beskriver en hopfällbar snödörr/sparkcykel med ram och styre (tagg Sparkcykel); typen är oklar. Ålder 5+ barnprodukt."
+ },
+ {
+  "id": "10472237433098",
+  "nr": 28041,
+  "avvisningsskal": "R6/v. 2026-11-05 (in-filens skäl 'utanför tills vidare' är hävt för barncyklar, men bedömningen lämnas till koordinatorn): Flickcykel för 4–6 år är inte bedömd av mig här eftersom in-filen redan markerat den som avvisad; tas om vid behov."
+ },
+ {
+  "id": "10472238809354",
+  "nr": 28042,
+  "avvisningsskal": "R6: Innerslang till 16-tums barncykel (däckdel med säkerhetsfunktion); storlekskompatibilitet 32/47-305/349 kan inte styrkas. Avvisad i in-filen, tas för hand."
+ },
+ {
+  "id": "10472239366410",
+  "nr": 28043,
+  "avvisningsskal": "R3 (tunn källa): Källan har bara kapacitet 350 ml (står även i titeln) och en hedgad passformsuppgift ('~10-12 tum; modellerna ZERO 20 och ZERO 24'). Färre än två entydiga fakta utöver titeln. Webbkoll gav ingen träff på SKU SOLELYJR350."
+ },
+ {
+  "id": "10472248115466",
+  "nr": 28046,
+  "avvisningsskal": "R12a/R15: Redan skriven. Live-texten (titel, SEO, standardblock, Passar för, specifikationer) är redan i färdigt format och verifierad OK i verifiering_facit30.md; ingen ny text skrivs. Samma modell som 28044/28045 men svart (EK-SP027-M)."
+ },
+ {
+  "id": "10472248181002",
+  "nr": 28047,
+  "avvisningsskal": "R6/v. 2026-11-05: Barnprodukt (cykelklocka med Musse Pigg-tema); avvisad i in-filen."
+ },
+ {
+  "id": "10472248213770",
+  "nr": 28048,
+  "avvisningsskal": "R6/v. 2026-11-05: Skyddshandskar för barn (skyddsfunktion, storlek efter ålder); avvisad i in-filen."
+ }
+]
