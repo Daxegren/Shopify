@@ -197,3 +197,7 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 ## 2026-11-04: Shopify-verktygets koppling delas mellan sessioner och pekar på en butik åt gången
 - Vad hände: Sju nya sessioner startades parallellt för olika butiker. Flera körde `switch-shop`, vilket återkallade åtkomsten till BEST OF SPORTS för den delade kopplingen och krävde ny inloggning av David vid varje butiksbyte. Parallella sessioner via verktyget går därför inte.
 - Regel: Läs och skriv butiker via Admin API med en app per organisation (token hämtas i minnet per körning, adress per butik), inte via Shopify-verktygets `switch-shop`. Verktyget duger för en butik i en session, aldrig för flera parallellt. Starta aldrig flera butikssessioner innan åtkomsten per butik är ordnad.
+
+## 2026-11-05: parallella agenter skrev över varandras filer
+- **Vad hände:** En utkastagent skrev sin utkastfil till ett redan använt batchnamn (`k_14_utkast.json`, ett äldre tracked utkast), och en annan agent körde ett delat skript med generiskt namn (`bygg.py`) som skrev om `k_16a`-filerna. Inget nådde butiken, eftersom allt granskades som filerna såg ut på disk, men äldre arbetsfiler hade kunnat gå förlorade.
+- **Regel:** Varje agent får unika filnamn per batch (fortlöpande batchnummer som inte använts tidigare) och skapar hjälpskript bara i scratchpad med batchnamnet i filnamnet. Kontrollera `git status` efter varje agent.
