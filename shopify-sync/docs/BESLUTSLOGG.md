@@ -27,3 +27,9 @@ Skapad 2026-11-04. Filen fylls bara på; nya beslut läggs överst i tabellen, g
 | 2026-11-05 | Typord tillagda i profilen: träningshjul, gummitass, tricepsstång | Träningsutrustning | David | `shopify-sync/config/butiksprofil-bestofsports.json` |
 | 2026-11-05 | 9017 och 9018: längdintervallet "ca 165–195 cm" tas bort (tillverkaren anger 170–200 cm, källorna går isär) | Engwe E26 | David | Chatt 2026-11-05 ("3. Ja") |
 | 2026-11-05 | Dubbletter ska slås ihop (planen tas fram och godkänns innan något ändras i butiken) | Dubbletter 7057, 7069, 7127 m.fl. | David | Chatt 2026-11-05 ("1. Slå ihop") |
+| 2026-11-05 | Plyoboxar samt step- och balansbrädor utan svensk lastgräns får skrivas utan lastgräns (som Tunturis plyoboxar) | 20015, 20016, 20020–20023, 20043 | David | Chatt 2026-11-05 ("Kör på dina rekommendationer") |
+| 2026-11-05 | Handlindor och bandage (20017, 20018, 9897) får skrivas utan hälso- och skyddspåståenden | Skyddsprodukter | David | Chatt 2026-11-05 |
+| 2026-11-05 | Svensson Family (21064, barntransport) hålls utanför | Cargobike of Sweden | David | Chatt 2026-11-05 |
+| 2026-11-05 | Typord balansbräda och märkena Maxxus och Excalibur tillagda i profilen | Träningsutrustning | David | `shopify-sync/config/butiksprofil-bestofsports.json` |
+| 2026-11-05 | Storleksvarianter med olika artikelnummer men samma pris och färg skrivs (tolkningen bekräftad) | Cyklar m.fl. | David | Chatt 2026-11-05 ("5. Det är rätt som du gjort") |
+| 2026-11-05 | Vid dubbletter behålls den äldsta annonsen så länge den har all info och alla bilder | Dubbletter | David | Chatt 2026-11-05 ("6. ... så länge den som sparas har all info, bilder etc.") |

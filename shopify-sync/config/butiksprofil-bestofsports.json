@@ -14,7 +14,9 @@
     "Kettler",
     "Fluid",
     "Union",
-    "Peltonen"
+    "Peltonen",
+    "Maxxus",
+    "Excalibur"
   ],
   "marken_varning_bara": [
     "Fluid"
@@ -73,7 +75,8 @@
     "lyftarbälte": "bälte för tunga lyft; David 2026-11-04 (\"Träningsbälte och/eller lyftarbälte\")",
     "träningshjul": "ab-hjul/Exercise Wheel; David 2026-11-05 (\"4. Ja\")",
     "gummitass": "gummidel/Paw för stavar; David 2026-11-05 (\"4. Ja\")",
-    "tricepsstång": "stång för triceps/Pull Down Bar; David 2026-11-05 (\"4. Ja\")"
+    "tricepsstång": "stång för triceps/Pull Down Bar; David 2026-11-05 (\"4. Ja\")",
+    "balansbräda": "balansbräda/Balance Board; David 2026-11-05 (\"Kör på dina rekommendationer\")"
   },
   "format_regler": "rapporter/facit-bos-2026-10-31/format_regler.py",
   "sparrlista": "shopify-sync/config/sparrlista.json",
