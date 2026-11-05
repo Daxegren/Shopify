@@ -1,0 +1,42 @@
+[
+ {
+  "id": "10411923276042",
+  "nr": 31007,
+  "skäl": "Varianterna är olika artiklar: tre vikter (AKCA-10, AKCA-12, AKCA-14) med priserna 779, 1 609 och 1 789 kr. Titeln anger 12 kg; kettlebell med olika vikt är inte samma artikel (v1.9). Källtexten anger dessutom ingen vikt."
+ },
+ {
+  "id": "10462201839882",
+  "nr": 31009,
+  "skäl": "Två varianter (14TUSCF058 1 549 kr och 14TUSCF059 1 829 kr) utan förklaring i källan; det framgår inte vad som skiljer. Källan anger bara 15 kg men har en trasig rad (\"Inkluderar 1 kedja som väger 15 kg\") och tom tillverkarrad. Kan vara olika vikt eller utförande, alltså inte säkert samma artikel (v1.9, R2, R3)."
+ },
+ {
+  "id": "10462774690058",
+  "nr": 31010,
+  "skäl": "Varianterna är olika artiklar: 14TUSGA006 (2 119 kr) och 14TUSGA005 (789 kr), prisskillnad cirka 2,7 gånger, och källan förklarar inte skillnaden. Källan har dessutom hälsopåståenden (\"bra för matsmältningen\", \"hälsosamt för alla åldrar\") och maximal användarvikt (belastning, R4), och trampolin är en produkt där användaren bär last."
+ },
+ {
+  "id": "10462794776842",
+  "nr": 31011,
+  "skäl": "Varianterna Red, blue och green har olika pris (339, 449, 249 kr) och färgen följer troligen vikten (titeln anger 3,0 kg för röd); källan anger ingen vikt. Olika vikter är olika artiklar (v1.9). Källan är dessutom tunn."
+ },
+ {
+  "id": "10472211448074",
+  "nr": 31012,
+  "skäl": "Två varianter (14TUSCL145 269 kr och 14TUSCL147 769 kr) med cirka 2,9 gånger prisskillnad och ingen förklaring; sannolikt olika vikt. Källan anger bara 5 kg och 30 mm, så varianterna går inte att styrka som samma artikel (v1.9, R3)."
+ },
+ {
+  "id": "10462853693706",
+  "nr": 31001,
+  "skäl": "Spärrad i shopify-sync/config/sparrlista.json (tidigare-avvisade-2026-11-04) och får därför inte ligga i en skrivfil. Reflexprodukter är frisläppta av David 2026-11-05 (\"ja på alla\"), men spärrlistan saknar undantag för produkten. Färdigt utkast finns i k_31a_sparrade_utkast.json och kan flyttas till utkastet när ett undantag lagts in."
+ },
+ {
+  "id": "10471175192842",
+  "nr": 31003,
+  "skäl": "Spärrad i shopify-sync/config/sparrlista.json (tidigare-avvisade-2026-11-04) och får därför inte ligga i en skrivfil. Reflexprodukter är frisläppta av David 2026-11-05 (\"ja på alla\"), men spärrlistan saknar undantag för produkten. Färdigt utkast finns i k_31a_sparrade_utkast.json och kan flyttas till utkastet när ett undantag lagts in."
+ },
+ {
+  "id": "10665228206346",
+  "nr": 31006,
+  "skäl": "Spärrad i shopify-sync/config/sparrlista.json (tidigare-avvisade-2026-11-04) och får därför inte ligga i en skrivfil. Reflexprodukter är frisläppta av David 2026-11-05 (\"ja på alla\"), men spärrlistan saknar undantag för produkten. Färdigt utkast finns i k_31a_sparrade_utkast.json och kan flyttas till utkastet när ett undantag lagts in."
+ }
+]

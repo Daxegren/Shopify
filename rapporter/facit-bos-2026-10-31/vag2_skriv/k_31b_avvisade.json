@@ -1,0 +1,42 @@
+[
+ {
+  "id": "10472325349642",
+  "nr": 31014,
+  "skäl": "Källan är tunn och gäller inte just denna kettlebell: beskrivningen är en generell text om kettlebells i viktintervallet 4–24 kg och ger inga fakta utöver titeln (R3, minst två entydiga fakta krävs). Dessutom är SKU (17367) och handle (…-17369) inte samma artikelnummer, och båda varianterna har samma SKU men olika pris (1879 / 1639 kr). Titeln anger 22 kg, vilket källan inte kan bekräfta."
+ },
+ {
+  "id": "10541372801290",
+  "nr": 31018,
+  "skäl": "Sex varianter med olika SKU (25TUPLA070–075) och olika pris (389 kr och 679 kr) utan förklarande namn; titeln anger 8 kg men det går inte att visa att alla varianter har samma vikt. Kettlebells i flera vikter är olika artiklar (v1.9). Källan är dessutom tunn: bara marknadsföring (\"designad för avancerade idrottare\", \"maximal intensitet\") utan mått, vikt eller material."
+ },
+ {
+  "id": "10581104492810",
+  "nr": 31019,
+  "skäl": "Fyra varianter med olika SKU (OC-03BL, OC-03R, OC-01, OC-07) och stor prisskillnad (159 kr till 399 kr) där namnen (03BL, 03R, 01, 07) inte förklaras; varianterna kan vara olika artiklar (olika mått), och titeln låser 50 mm och svart. Källan är tunn (bara diameter 50 mm och färg, resten marknadsföring) och handlar om infästning av vikter (säkerhetsprodukt, R3/v1.9)."
+ },
+ {
+  "id": "10581106950410",
+  "nr": 31020,
+  "skäl": "Två varianter med olika SKU (62066 / 62066-0) och mycket olika pris (459 / 259 kr) vars namn (Default, 0) inte förklaras, så det går inte att visa att de är samma artikel. Källan är tunn: bara marknadsföring (\"mångsidig\", \"robust konstruktion\", \"justerbara inställningar\") utan ett enda entydigt mått eller material (R3). Träningsstation med last kräver dessutom svensk lastgräns (R4)."
+ },
+ {
+  "id": "10581108818186",
+  "nr": 31021,
+  "skäl": "Två varianter (A, SKU 61106-A, 469 kr / F, SKU 61106-F, 399 kr) med oförklarade namn och olika pris, så det är oklart om det är samma artikel. Källan är tunn: bara marknadsföring (\"praktisk\", \"hållbar\", \"rymma flera mattor\") utan mått, material eller antal platser (R3)."
+ },
+ {
+  "id": "10581109702922",
+  "nr": 31022,
+  "skäl": "Varianterna har olika vikt: titeln anger 10 kg och variant \"20\" (SKU 61048-20, 1449 kr) är en annan vikt än Default (61048, 1099 kr). Olika vikter är olika artiklar (v1.9). Viktväst är dessutom en produkt där källan bara har marknadsföring och inga entydiga mått (R3)."
+ },
+ {
+  "id": "10581110358282",
+  "nr": 31023,
+  "skäl": "Sju varianter i olika vikt (1,25–25 kg, SKU PRO PU-1,25 till PRO PU-25, 109–1429 kr). Viktplattor i olika vikter är olika artiklar (v1.9) och titeln anger 1,25 kg. Källan är tunn och innehåller kvalitetspåståenden (\"slitstarkt\", \"skyddar utrustning och golv\") utan mått eller material (R3, R5)."
+ },
+ {
+  "id": "10581110980874",
+  "nr": 31024,
+  "skäl": "Två varianter med olika SKU (61031 / 61031-0) och mycket olika pris (2549 / 999 kr) med oförklarade namn; titeln anger 22,5 kg men det går inte att visa att varianterna är samma artikel (olika vikt eller konfiguration möjligt, v1.9). Källan är tunn: bara marknadsföring (\"ultimata lösningen\", \"hög kvalitet och hållbarhet\") och inga entydiga mått (R3)."
+ }
+]
