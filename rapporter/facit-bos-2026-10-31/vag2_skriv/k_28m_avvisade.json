@@ -1,0 +1,17 @@
+[
+ {
+  "id": "10474112975114",
+  "nr": 28149,
+  "skäl": "Dubblett (R12a): Barncykel Tabou Mini FR 16 tum Rosa-Lila är redan skriven och märkt texter-klara som 10462813225226 (utkast k_28b). Samma modell och färg; ingen färg- eller storleksskillnad i titeln. Hanteras i dubblettsammanslagningen."
+ },
+ {
+  "id": "10475361206538",
+  "nr": 28150,
+  "skäl": "Cykelstöd är en bärande del som egen produkt och källan saknar ordagrann svensk lastgräns med enhet och etikett (bara \"hjuldiameter 16–20 tum\" och \"Material: aluminium\"): avvisas enligt R4/v1.7. Gäller även efter barnfrisläppningen (bärande delar kräver svensk lastgräns i egen källa)."
+ },
+ {
+  "id": "10475367956746",
+  "nr": 28151,
+  "skäl": "R3: varianterna 28–32 har olika pris (29 kostar 1549 kr, övriga 1779 kr), så titeln kan inte skrivas storleks- och prisneutral enligt v1.8. Dessutom flera kvalitets- och verkningspåståenden i källan (vattentätt, varmt foder, snölås) som är svåra att skilja från fakta. Kräver Davids beslut om prisskillnaden."
+ }
+]

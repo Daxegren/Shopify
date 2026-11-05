@@ -1,0 +1,411 @@
+[
+ {
+  "nr": 28097,
+  "id": "10472294449418",
+  "fil": "k_28i_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": [
+    {
+     "fore": "Scooter Rideoo 120 City, Svart",
+     "efter": "Sparkcykel Rideoo 120 City, Svart"
+    }
+   ],
+   "seo_title": [
+    {
+     "fore": "Scooter Rideoo 120 City, Svart",
+     "efter": "Sparkcykel Rideoo 120 City, Svart"
+    }
+   ],
+   "meta": [
+    {
+     "fore": "Scootern Rideoo 120 City i svart är hopfällbar",
+     "efter": "Sparkcykeln Rideoo 120 City i svart är hopfällbar"
+    }
+   ],
+   "html": [
+    {
+     "fore": "<p>Scootern Rideoo 120 City är hopfällbar och har höjdjusterbart styre. Hjulen är av polyuretan med en diameter på 120 mm och lagren är av typen ABEC-9. Scootern väger 3,4 kg. Den är svart.</p>",
+     "efter": "<p>Sparkcykeln Rideoo 120 City är hopfällbar och har höjdjusterbart styre. Hjulen är av polyuretan med en diameter på 120 mm och lagren är av typen ABEC-9. Sparkcykeln väger 3,4 kg. Den är svart.</p>"
+    },
+    {
+     "fore": "<li>Dig som söker en hopfällbar scooter</li>\n<li>Dig som vill ha en scooter med höjdjusterbart styre</li>\n<li>Dig som söker en scooter med 120 mm polyuretanhjul</li>",
+     "efter": "<li>Dig som söker en hopfällbar sparkcykel</li>\n<li>Dig som vill ha en sparkcykel med höjdjusterbart styre</li>\n<li>Dig som söker en sparkcykel med 120 mm polyuretanhjul</li>"
+    },
+    {
+     "fore": "<li>Typ: Scooter</li>",
+     "efter": "<li>Typ: Sparkcykel</li>"
+    }
+   ]
+  },
+  "skal": "Live: en variant, 2969 kr, produkttyp Sparkcyklar. Hopfällbar, höjdjusterbart styre, polyuretanhjul 120 mm, ABEC-9 och 3,4 kg stämmer. 'Lastkapacitet: upp till 70 kg' (svensk rad med etikett och enhet) och åldern 4 till 7 år står en gång vardera med 'enligt tillverkaren', alltså två gånger (R5-taket); barnlinjen tillåter ålder och maxvikt. LED är rätt utelämnat (källan nämner ingen belysning) och komfortorden är borta. Färgen svart står i live-titeln. Rättning: typordet blir Sparkcykel, som för syskonen 28076 (rättad i k_28efgh och skriven) och 28037 (R7, enhetligt där källorna är lika)."
+ },
+ {
+  "nr": 28098,
+  "id": "10472294777098",
+  "fil": "k_28i_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": [
+    {
+     "fore": "Barncykel S´COOL XXlite, 12 tum, Svart-Orange",
+     "efter": "Barncykel S'cool XXlite, 12 tum, Svart-Orange"
+    }
+   ],
+   "seo_title": [
+    {
+     "fore": "Barncykel S´COOL XXlite, Svart-Orange",
+     "efter": "Barncykel S'cool XXlite, Svart-Orange"
+    }
+   ],
+   "meta": [
+    {
+     "fore": "Barncykeln S´COOL XXlite",
+     "efter": "Barncykeln S'cool XXlite"
+    }
+   ],
+   "html": [
+    {
+     "fore": "<p>Barncykeln S´COOL XXlite",
+     "efter": "<p>Barncykeln S'cool XXlite"
+    }
+   ]
+  },
+  "skal": "Live: en variant, 6099 kr, SKU 3076. Aluminiumram, 85–100 cm (en gång enligt tillverkaren), 1 växel, V-broms och fotbroms, 7,6 kg, kedjeskydd och stänkskärmar som medföljande delar och 'stödhjul ingår ej' stämmer. 'Idealisk', 'barnvänlig geometri' och 'kvalitet' är borta. 12 tum står bara i live-titeln och tas bara med i titeln, vilket är rätt. Inget säkerhetspåstående. Rättning: märket skrivs S'cool som i 28026 och k_28efgh (R8), inte S´COOL."
+ },
+ {
+  "nr": 28100,
+  "id": "10472295399690",
+  "fil": "k_28i_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: en variant, 9619 kr. Aluminiumram, 8 växlar, Shimano Claris (ur löptexten), V-bromsar och 7,8 kg stämmer. Ramstorlek 10 tum och 120–140 cm är den entydiga delen av den trasiga raden 'Aluminium::: 10\" - lämplig ...' (R2). De trasiga raderna '120 cm - 120 cm ...' och 'Shimano Claris: 8 bromsar' är rätt utelämnade, liksom 'Ultralätt', 'effektiva' och pulkfästena. 20 står bara i live-titeln och bara i titeln. Inga påståenden."
+ },
+ {
+  "nr": 28103,
+  "id": "10472297005322",
+  "fil": "k_28i_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: en variant, 2219 kr. Alla åtta rader stämmer: 3–5 år, 3 hjul, styrstång av aluminium, styrhöjd 490/580/670 mm, maxvikt 50 kg och 2,1 kg. Maxvikt (svensk etikett och enhet) och ålder står en gång vardera med 'enligt tillverkaren' (två, R5-taket), vilket barnlinjen tillåter. Typordet Barnsparkcykel är butikens live-ord på systerprodukten Aest Barnsparkcykel (R7). Inga påståenden."
+ },
+ {
+  "nr": 28104,
+  "id": "10472297365770",
+  "fil": "k_28i_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: en variant, 6969 kr. Magnesiumram, gaffel, fälgar och vevar av aluminium, ramstorlek 22 cm för 95–110 cm, 1 växel, V-bromsar och medföljande stödhjul och kedjeskydd stämmer. 'Maximal säkerhet och komfort', 'hållbarhet', 'under alla förhållanden', 'ultralätt' och den felbetecknade raden 'Hjulvikt: 6 kg' är rätt utelämnade. Stödhjul och kedjeskydd nämns bara som medföljande delar. 14 tum står bara i live-titeln och bara i titeln."
+ },
+ {
+  "nr": 28105,
+  "id": "10472297398538",
+  "fil": "k_28i_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "Pakethållare, stöd, stänkskärmar samt fram- och bakljus ingår.",
+     "efter": "Pakethållare, stöd och stänkskärmar ingår."
+    },
+    {
+     "fore": "<li>Medföljer: Pakethållare, stöd, stänkskärmar samt fram- och bakljus</li>",
+     "efter": "<li>Medföljer: Pakethållare, stöd och stänkskärmar</li>"
+    }
+   ]
+  },
+  "skal": "Live: en variant, 7209 kr, SKU 24130063-B, EAN 5904803259052. Aluminiumram, 24 x 1,75 tum, S (13 tum) för 125–155 cm, Shimano Tourney, 21 växlar, Revoshift, V-bromsar och 14,4 kg stämmer. Pakethållaren nämns utan lastgräns. Rättning: fram- och bakljus stryks som medföljande delar (synbarhetsfunktion, praxis 28067 och 28084 i k_28efgh). Dubblett: 10589703373066 har samma titel men annat SKU (24130063-C), EAN 5904803263615, pris 7219 kr, en bild och är skapad 2026-08-11; denna (2026-04-11, en bild) är äldst och skrivs enligt dubblettbeslutet. Den yngre ska hanteras i sammanslagningsplanen och får inte skrivas med samma text."
+ },
+ {
+  "nr": 28106,
+  "id": "10472297431306",
+  "fil": "k_28i_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Däck: 24 × 1,90 tum</li>",
+     "efter": "<li>Däck: 24 × 1,90</li>"
+    }
+   ]
+  },
+  "skal": "Live: en variant, 6959 kr. Aluminiumram, S (13 tum) för 130–150 cm (entydig del av trasig rad), 21 växlar från Shimano, skivbromsar och främre stänkskärm stämmer med löptexten. Säkerhetsorden, 'kraftfulla', 'stoppar omedelbart', livstidsgarantin och 'Shimano Tourney' (bara på trasig bromsrad) är rätt utelämnade. Obs: utkastets anteckning säger 'Hjulvikt: 13,4 kg' men källan säger 14,3 kg; raden är ändå rätt utelämnad (felbetecknad). Rättning: källan anger däcket '24×1.90' utan enhet, och enheten tum är tillagd av utkastaren (R2, gissa inte); enheten stryks."
+ },
+ {
+  "nr": 28107,
+  "id": "10472302969098",
+  "fil": "k_28i_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: en variant, 4969 kr, inget EAN. Låg aluminiumram, 12-tumshjul, justerbar snabbspännesadel och ca 85–100 cm (entydig del av den trasiga raden, en gång enligt tillverkaren) stämmer. 'Världens största cykeltillverkare', 'inspirerar' och 'perfekt' är borta. Typordet Balanscykel står i källan. 'Snabbspänne' är en sadelfunktion och inget påstående."
+ },
+ {
+  "nr": 30021,
+  "id": "10472270856458",
+  "fil": "k_30c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": [
+    {
+     "fore": "Proteinbar från Trec med chokladöverdrag och karamellfyllning. Baren väger 46 g och innehåller sötningsmedlet maltitol.",
+     "efter": "Proteinbaren Trec Nougat och Caramel har chokladöverdrag och karamellfyllning. Den väger 46 g och innehåller sötningsmedlet maltitol."
+    }
+   ],
+   "html": [
+    {
+     "fore": "har ett överdrag av choklad (45 %), smaksatt krispigt innehåll (15 %) och karamellfyllning.",
+     "efter": "har ett överdrag av choklad och karamellfyllning."
+    },
+    {
+     "fore": "<li>Bas: Choklad (45 %), mjölkchoklad med kakaohalt minst 32 %</li>\n<li>Innehåll: Smaksatt krispigt innehåll 15 % med karamellfyllning</li>",
+     "efter": "<li>Bas: Mjölkchoklad med kakaohalt minst 32 %</li>\n<li>Fyllning: Karamellfyllning</li>"
+    }
+   ]
+  },
+  "skal": "Live: en variant, 29 kr, SKU 13049, EAN 5902114040598. Typordet Proteinbar står i källtexten (live-titelns 'Proteingel' är fel), som 30011/30012. Tillverkaren (https://trecnutrition.com/brands/trec/better-food/protein-bar-nougat-caramel/) bekräftar 46 g, maltitol och 1–2 barer per dag med vatten. Den anger 'nougat-flavoured filling (45 %)' och 'caramel filling (15 %)', medan live-källan anger choklad 45 % och krispigt innehåll 15 %. Procentsatserna motsäger varandra och stryks (R2, praxis 30019). 'Utan tillsatt socker', 'högt proteininnehåll' och 'hälsosammare alternativ' är borta. Allergener följer ingredienslistan, och diarrévarningen återges som i källan. Underlag för senare (inte infört): 30 g protein och 515 kcal per 100 g. Rättningar: meta saknade verb i första meningen (praxis 30011), samt procentsatserna."
+ },
+ {
+  "nr": 30022,
+  "id": "10472270921994",
+  "fil": "k_30c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": [
+    {
+     "fore": "Proteinbar från Trec av mjölkchoklad med karamellfyllning och jordnötter. Baren väger 49 g och innehåller sötningsmedlet maltitol.",
+     "efter": "Proteinbaren Trec Peanut och Caramel är gjord av mjölkchoklad med karamellfyllning och jordnötter. Den väger 49 g och är sötad med maltitol."
+    }
+   ]
+  },
+  "skal": "Live: en variant, 29 kr, SKU 13050, EAN 5902114040604. Tillverkaren (https://trecnutrition.com/brands/trec/better-food/protein-bar-peanut-caramel/) bekräftar 49 g, maltitol, karamellfyllning 20 % och 1–2 barer per dag. Jordnötsandelarna (30 %, 10 % och 9 %) går isär och är rätt utelämnade. Inga påståenden. Allergener enligt ingredienslistan. Underlag: 27 g protein och 500 kcal per 100 g. Rättning: meta saknade verb i första meningen."
+ },
+ {
+  "nr": 30023,
+  "id": "10472277672202",
+  "fil": "k_30c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Innehåll per portion enligt tillverkaren: 3 000 mg fiskolja, med 360 mg DHA och 540 mg EPA</li>\n",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Live: en variant, 109 kr, SKU 21154. Typordet Fettsyra är live-ordet (praxis 30005). Alla hälsopåståenden (hjärta, hjärna, syn, oxidativ stress, 'potent') är borta. Varningsraden återges som källan, och allergenraden är rätt utelämnad. Tillverkarens sida (https://trecnutrition.com/brands/trec/vitality-lifestyle/omega-3-6-9/) gäller Omega 3-6-9 utan Essensey (3 kapslar per dag, 225 mg fiskolja) och alltså inte entydigt den här produkten; Essensey finns inte på trecnutrition.com. Rättning: raden '3 000 mg fiskolja, 360 mg DHA och 540 mg EPA per portion' stryks. Portionen är odefinierad, och mängden går inte ihop med ingredienslistan: gurkörtolja står före fiskoljan, så 2 kapslar skulle innehålla över 6 g olja (R2). Kvar är ett 'enligt tillverkaren'."
+ },
+ {
+  "nr": 30024,
+  "id": "10472280359178",
+  "fil": "k_30c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": [
+    {
+     "fore": "Trec Vit. C Strong 1000 är ett kosttillskott med C-vitamin (1000 mg). Förpackningen innehåller 90 kapslar och dosen är 1 st dagligen med 300 ml vatten.",
+     "efter": "Trec Vit. C 1000 innehåller C-vitamin i 90 kapslar. Dosen är 1 st dagligen med 300 ml vatten, helst efter en huvudmåltid."
+    }
+   ],
+   "html": [
+    {
+     "fore": "<p>Trec Vit. C Strong 1000 är ett kosttillskott med C-vitamin (1000 mg).",
+     "efter": "<p>Trec Vit. C 1000 innehåller C-vitamin."
+    },
+    {
+     "fore": "<li>Dig som vill ha ett C-vitamintillskott med 1000 mg C-vitamin</li>",
+     "efter": "<li>Dig som vill ha ett C-vitamintillskott som tas en gång om dagen</li>"
+    },
+    {
+     "fore": "<li>Innehåll: C-vitamin 1000 mg</li>\n",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Live: en variant, 109 kr, SKU 11664, EAN 5902114018443. Källan blandar två produkter. Löptexten beskriver 'Vit. C Strong 1000' (tablett, bioflavonoider och zink), medan titeln, ingredienslistan (C-vitamin och kapselhölje av HPMC) och 90 kapslar gäller Vit. C 1000 i kapslar. En webbsökning på EAN:et ger detaljhandlare med 'Trec Vit. C 1000 90 caps', men sidorna gick inte att öppna, så inget hämtas därifrån. trecnutrition.com har ingen sida för produkten. Utkastet utelämnar rätt bioflavonoider, zink, azorubinraden och 'ökad mängd'. Rättningar: produktnamnet följer titeln ('Vit. C 1000', inte 'Strong'), den cirkulära inledningen 'är ett kosttillskott' tas bort och '1000 mg' utan bas (per kapsel eller per dag framgår inte) stryks ur meta, text och specifikation (R2). 1000 står kvar som del av namnet. Beslut för David: alternativet är att avvisa enligt R3 (källtexten gäller en annan variant)."
+ },
+ {
+  "nr": 30026,
+  "id": "10472280523018",
+  "fil": "k_30c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: en variant, 129 kr, SKU 14625. Tillverkaren (https://trecnutrition.com/brands/trec/vitality-lifestyle/triple-magnesium-complex/) bekräftar 120 kapslar, 4 kapslar per dag, 2 kapslar med 300 ml och 2 portioner per dag, i samband med måltid. 'Lättupptagliga' och alla påståenden (energiomsättning, trötthet, proteinsyntes, ben) är borta. Varningsraden återges som källan, och allergenraden är rätt utelämnad. Underlag för senare (inte infört): 261,2 mg magnesium per 4 kapslar."
+ },
+ {
+  "nr": 30027,
+  "id": "10472280654090",
+  "fil": "k_30c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": [
+    {
+     "fore": "Mineral kapslar Trec Essensey Zinc Organic, 120 kapslar",
+     "efter": "Mineralkapslar Trec Essensey Zinc Organic, 120 kapslar"
+    }
+   ],
+   "seo_title": [
+    {
+     "fore": "Mineral kapslar Trec Essensey Zinc Organic",
+     "efter": "Mineralkapslar Trec Essensey Zinc Organic"
+    }
+   ]
+  },
+  "skal": "Live: en variant, 109 kr, SKU 21339. 15 mg zink per dag (en gång enligt tillverkaren), 1 kapsel dagligen med mycket vatten efter måltid, ingredienserna och varningen stämmer. Alla påståenden om immunförsvar, hud, hår, naglar, celler och ben är borta. trecnutrition.com har bara 'Zinc' i 90 kapslar (en annan linje än Essensey), så sidan används inte. 'Organic' är en del av produktnamnet. Rättning: live-ordet 'Mineral kapslar' är särskrivet och skrivs Mineralkapslar i titel och SEO-titel. Det är samma ord, som 'Vitaminkapslar' i 30024 (R7)."
+ },
+ {
+  "nr": 30029,
+  "id": "10472297890058",
+  "fil": "k_30c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": [
+    {
+     "fore": "Kreatinpulver från Trec med kreatinmonohydrat och smaken Bubble Gum. Burken innehåller 300 g och en portion är 3,9 g som löses upp i 150 ml vatten.",
+     "efter": "Kreatinpulvret Trec Boogie Creatine innehåller kreatinmonohydrat och har smaken Bubble Gum. Burken rymmer 300 g, en portion är 3,9 g i 150 ml vatten."
+    }
+   ]
+  },
+  "skal": "Live: en variant, 179 kr, SKU = EAN 5902114049409. Kreatinmonohydrat 87,5 %, 3,9 g (3/4 skopa) i 150 ml, högst 1 portion per dag, tiderna och varningen (under 18 år, gravida och ammande, dagsdos, varierad kost) stämmer. 'Förbättrar den fysiska prestationen' och 'önskad effekt' är borta. Allergenraden och den trasiga raden om hållbarhet efter öppnande är rätt utelämnade. Boogie Creatine finns inte på trecnutrition.com (sökningen ger bara Boogie Whey, Bar och Oat Gainer), så smak och 300 g bygger på live-titeln. Typordet Kreatin följer praxis 30010/30014. Rättning: meta saknade verb i första meningen."
+ },
+ {
+  "nr": 30030,
+  "id": "10472298709258",
+  "fil": "k_30c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": [
+    {
+     "fore": "Kreatinpulver från Trec med kreatinmonohydrat och smaken Candy. Burken innehåller 300 g och en portion är 3,9 g som löses upp i 150 ml vatten.",
+     "efter": "Kreatinpulvret Trec Boogie Creatine innehåller kreatinmonohydrat och har smaken Candy. Burken rymmer 300 g, en portion är 3,9 g i 150 ml vatten."
+    }
+   ]
+  },
+  "skal": "Live: en variant, 169 kr, SKU = EAN 5902114049416. Som 30029, med aromer och svart morotskoncentrat enligt den egna ingredienslistan, och smaken Candy ur live-titeln. Inga påståenden. Ingen tillverkarsida finns. Rättning: meta saknade verb i första meningen."
+ },
+ {
+  "nr": 30031,
+  "id": "10472301756682",
+  "fil": "k_30d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": [
+    {
+     "fore": "en portion är 4,1 g i 200 ml vatten.",
+     "efter": "en portion är 4,1 g (1 skopa)."
+    }
+   ],
+   "html": [
+    {
+     "fore": "som löses upp i 200 ml vatten.</p>",
+     "efter": "som löses upp i vatten.</p>"
+    },
+    {
+     "fore": "<li>Portion: 4,1 g (1 skopa) i 200 ml vatten</li>",
+     "efter": "<li>Portion: 4,1 g (1 skopa) i vatten</li>"
+    }
+   ]
+  },
+  "skal": "Live: en variant, 129 kr, SKU = EAN 5902114045807. Tillverkaren (https://trecnutrition.com/brands/trec/trec-core/creatine-mono/) bekräftar 300 g, smaken Green apple, 4,1 g (1 skopa) och tiderna. Den anger 3,00 g kreatin och 80 mg vitamin C per 4,1 g (underlag, inte infört). Påståendena om prestation och trötthet är borta. Typordet Kreatinkomplex är live-ordet. Rättning: tillverkaren anger '250 ml vatten eller juice' och live-källan '200 ml vatten'. Vattenmängden motsäger sig och stryks (R2, praxis 30019)."
+ },
+ {
+  "nr": 30032,
+  "id": "10472301789450",
+  "fil": "k_30d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: en variant, 129 kr, SKU = EAN 5902114040130. Tillverkaren (https://trecnutrition.com/brands/trec/endurance/creatine-sport/; utkastets adress under trec-core är fel) bekräftar 300 g, smaken Raspberry, 5 g (1 skopa) i 250 ml med shaker eller mixer och tiderna. Per 5 g anges 3000 mg kreatinmonohydrat, 1000 mg dextros och 250 mg taurin, vilket stämmer med 60, 20 och 5 %. Kreatinkomplex är en entydig översättning av 'Creatine complex' och butikens live-ord (R7). 'Högkvalitativt' och 'uthållighetssporter' är borta. Varningen återges som källan."
+ },
+ {
+  "nr": 30033,
+  "id": "10472301887754",
+  "fil": "k_30d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": [
+    {
+     "fore": "Trec Crea Xtreme innehåller tre former av kreatin: monohydrat, hydroklorid och citrat. Burken rymmer 180 g pulver med smak av vattenmelon.",
+     "efter": "Kreatinpulvret Trec Crea Xtreme innehåller kreatinmonohydrat, kreatinhydroklorid och kreatincitrat. Burken rymmer 180 g med smak av vattenmelon."
+    }
+   ],
+   "html": [
+    {
+     "fore": "<p>Trec Crea Xtreme innehåller tre former av kreatin, kreatinmonohydrat, kreatinhydroklorid och kreatincitrat, i pulverform.",
+     "efter": "<p>Trec Crea Xtreme innehåller kreatinmonohydrat, kreatinhydroklorid och kreatincitrat i pulverform."
+    },
+    {
+     "fore": "<li>Dig som vill ta kreatin i pulverform med tre kreatinformer</li>",
+     "efter": "<li>Dig som vill ta kreatin i pulverform</li>"
+    }
+   ]
+  },
+  "skal": "Live: en variant, 179 kr, SKU = EAN 5902114018986. Kapslar mot pulver är löst. Tillverkaren har en egen pulversida (https://trecnutrition.com/brands/trec/trec-core/crea-xtreme-powder/) med 180 g, smaken Watermelon, 3 g (0,5 skopa) i 300 ml, 2 portioner och 6 g per dag. Den stämmer med live-källan. Kapselsidan som utkastaren hittade gäller en annan förpackning. Prestationspåståendena och 'biotillgänglighet' är borta, och 'Kreatinhypersmältning' är rätt utelämnat. Underlag (inte infört): 3696 mg kreatin per 6 g. Rättning: tillverkaren anger fyra kreatinformer (även trikreatinmalat), medan live-källan anger tre. Antalet 'tre' stryks i meta, första meningen och Passar för (R2). Ämnena från den egna ingredienslistan står kvar."
+ },
+ {
+  "nr": 30035,
+  "id": "10472301986058",
+  "fil": "k_30d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: en variant, 209 kr, SKU = EAN 5902114044671. Utkastet säger att tillverkarsida saknas, men trecnutrition.com har CM3 1250 (https://trecnutrition.com/brands/trec/trec-core/cm3-1250/) med 180 kapslar, 3 kapslar med cirka 300 ml och 2 portioner per dag (6 kapslar). Det stämmer med texten. Sidans tabell 'per 4 capsules' motsäger dagsdosen 6 och används inte. Alla påståenden om ATP, muskler, återhämtning och 'sur miljö' är borta. Typordet Kreatinkomplex är live-ordet. SEO-titeln 'Kreatinkomplex Trec CM3 Kapslar' är unik mot 30001 ('... Pulver Ananas')."
+ },
+ {
+  "nr": 30036,
+  "id": "10472302084362",
+  "fil": "k_30d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "och den ska inte överskrida den rekommenderade dagliga mängden.",
+     "efter": "och den rekommenderade dagliga mängden ska inte överskridas."
+    }
+   ]
+  },
+  "skal": "Live: en variant, 639 kr, SKU = EAN 5902114046217. Tillverkaren (https://trecnutrition.com/brands/trec/trec-core/isolate-100/) bekräftar 700 g, smaken Creamy-blueberry, 30 g (1,5 skopa) i 200 ml och 90 g per dag. BV 159, 'snabb absorption', muskelpåståendet och 'fett- och sockerfritt' är borta. Typordet Proteinisolat rättar live-ordets felstavning 'Proteinisolaat' (R7). Den tomma vilodagsraden och den obegripliga varningsmeningen är rätt utelämnade (R2). Mjölk är den enda allergenen enligt listan. Underlag: 77 g protein per 90 g. Rättning: Obs-raden sa att produkten 'ska inte överskrida' mängden; det skrivs om."
+ },
+ {
+  "nr": 30037,
+  "id": "10472302149898",
+  "fil": "k_30d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "och den ska inte överskrida den rekommenderade dagliga mängden.",
+     "efter": "och den rekommenderade dagliga mängden ska inte överskridas."
+    },
+    {
+     "fore": "innehåller vassleproteinkoncentrat (WPC) med tillsatt kalcium, zink, vitamin B6 och vitamin D, i ett pulver med jordgubbssmak.",
+     "efter": "innehåller vassleproteinkoncentrat (WPC), kalcium, zink, vitamin B6 och vitamin D i ett pulver med jordgubbssmak."
+    },
+    {
+     "fore": "<li>Tillsatta vitaminer och mineraler: Kalcium, zink, vitamin B6 och vitamin D</li>",
+     "efter": "<li>Vitaminer och mineraler: Kalcium, zink, vitamin B6 och vitamin D</li>"
+    }
+   ],
+   "meta": [
+    {
+     "fore": "innehåller vassleproteinkoncentrat med tillsatt kalcium, zink, vitamin B6 och vitamin D.",
+     "efter": "innehåller vassleproteinkoncentrat, kalcium, zink, vitamin B6 och vitamin D."
+    }
+   ]
+  },
+  "skal": "Live: en variant, 369 kr, SKU = EAN 5902114019853. Tillverkaren (https://trecnutrition.com/brands/trec/trec-core/whey-100-new-formula/) bekräftar 700 g, Creamy strawberry, 30 g (2 skopor) i 200 ml och 3 portioner per dag. Rättningar: 'med tillsatt kalcium, zink, vitamin B6 och vitamin D' och 'Tillsatta vitaminer och mineraler' är formuleringen av näringspåståendet 'Med tillsatt [näringsämne]' enligt bilagan till 1924/2006. Enligt Davids linje stryks det och ersätts med en uppräkning av innehållet. Mängderna per 90 g (198 mg kalcium, 2,52 mg zink, 0,36 mg B6, 1,35 µg D) är underlag för senare. Obs-raden skrivs om som i 30036."
+ },
+ {
+  "nr": 30038,
+  "id": "10472302346506",
+  "fil": "k_30d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: en variant, 519 kr, SKU = EAN 5902114044541. Ingredienserna, 30 g i 200 ml, 3 portioner och tiderna stämmer. Påståendena om muskelmassa, 'snabbt upptag' och 'högkvalitativt' är borta. Smaken Saltkaramell står bara i live-titeln. Tillverkaren (https://trecnutrition.com/brands/trec/trec-core/whey-100/) listar 900 g men bara 'Chocolate Salted Caramel'. Kakaopulvret i listan talar för samma smak, men det är inte entydigt, så live-titeln får gälla och ingen webbfakta förs in (rätt bedömt). Att notera för butiken: smaknamnet kan behöva kontrolleras mot förpackningen."
+ },
+ {
+  "nr": 30040,
+  "id": "10472350187786",
+  "fil": "k_30d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: en variant, 1789 kr, SKU 20898, EAN 5902114045739. Koncentrat mot isolat är rätt hanterat. Löptexten och tillverkaren (https://trecnutrition.com/brands/trec/trec-core/whey-100/: 85,19 g vassleproteinkoncentrat per 90 g, 2000 g, Vanilla) anger koncentrat, men live-källans ingredienslista är Isolate 100:s ('91,7 % CFM vassleproteinisolat'). Ingredienslistan är därför utelämnad och proteinkällan skriven neutralt som 'vassleprotein (från mjölk)' (R2). Tillverkarens uppgift skulle kunna föras in enligt v1.6, men den egna källan säger emot, så den neutrala formen är säkrast. 30 g i 200 ml, 3 portioner och tiderna stämmer. Påståendena om muskelmassa och upptag är borta."
+ }
+]

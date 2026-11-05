@@ -1,0 +1,17 @@
+[
+ {
+  "id": "10472332034314",
+  "nr": 28135,
+  "skäl": "Redan skriven: live har redan titel \"Stuntscooter Union Lite S, Blå\", SEO-beskrivning och text i vår mall (Passar för, Specifikationer, standardblock). Ingen ny skrivning (R15); vår egen tidigare text räknas inte som källa (R3) och leverantörens originaltext finns inte längre live. Observera för koordinatorn: den skrivna texten anger lastgränsen \"Max lastkapacitet: 100 kg\" utan \"enligt tillverkaren\" och SEO-titeln är tom (live-titeln används)."
+ },
+ {
+  "id": "10472332493066",
+  "nr": 28139,
+  "skäl": "Titel mot källa (R2/R3): live-titeln \"Scooter Union Lite S Scooter Lime\" anger scooter, men källtexten beskriver en \"trike\" (\"UNION LITE-triken ... en riktig trike\"), vilket motsäger titeln. Webbkoll (EAN/SKU 2902506587840) visar att modellen säljs som Union Lite S Scooter Lime och att estniska butiker kallar den \"Trikitõukeratas\" (trickscooter), så \"trike\" är sannolikt en maskinöversättning, men produktens egen källa är motsägande och produkten avvisas enligt uppdraget. Kan skrivas som stuntsparkcykel (S, 105–125 cm, 690 mm, 3,293 kg) om David/koordinatorn godtar webbkällan; Lime-färgen och SKU:n skiljer den från övriga Union Lite S."
+ },
+ {
+  "id": "10472332820746",
+  "nr": 28141,
+  "skäl": "Titel mot källa (R2/R3): live-titeln \"Stuntscooter Union Lite M Scooter Blue\" anger scooter, men källtexten beskriver en \"trike\" (\"UNION LITE-triken ... en riktig trike\"), vilket motsäger titeln. Sannolikt maskinöversättning av estniska \"Trikitõukeratas\" (trickscooter), men källan är motsägande och produkten avvisas enligt uppdraget. Kan skrivas som stuntsparkcykel (M, 750 mm, 3,415 kg) om koordinatorn godtar webbkällan; Blå och SKU 2906869937854 skiljer den från M Lime och M Neochrome."
+ }
+]
