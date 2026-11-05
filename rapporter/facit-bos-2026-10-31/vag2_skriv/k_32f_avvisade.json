@@ -1,0 +1,42 @@
+[
+ {
+  "id": "10581106426122",
+  "nr": 32061,
+  "skäl": "Figure 8 Straps: lyftremmar som bär stången vid tunga lyft (bärande del). Live-källan är tunn (R3): bara marknadsföring ('slitstarka', 'extra stöd och stabilitet') utan en enda entydig produktuppgift; webben ger ingen lastgräns eller modelldata för SKU 61011/EAN 6430016900942. Hellre avvisa än skriva 'Ej känd' på en tunn källa."
+ },
+ {
+  "id": "10581106524426",
+  "nr": 32062,
+  "skäl": "Fitness Trampoline: trampolin, uttryckligen undantagen från v1.10. Dessutom två varianter (Default och SC)."
+ },
+ {
+  "id": "10581106950410",
+  "nr": 32063,
+  "skäl": "Functional Trainer: två varianter med olika artikelnummer (62066 / 62066-0) och mycket olika pris (459 respektive 259 kr), alltså olika artiklar (v1.9). Bärande station utan lastgräns."
+ },
+ {
+  "id": "10581107802378",
+  "nr": 32064,
+  "skäl": "Heavy Bag 20kg: sju varianter med olika artikelnummer, pris och vikt (20/30/45 kg, CM, HS, WM, WMPRO), alltså olika artiklar (v1.9); titeln låser 20 kg."
+ },
+ {
+  "id": "10581107867914",
+  "nr": 32066,
+  "skäl": "Hi-Impact Bumper Plate 10kg - enkel: fem varianter 5, 10, 15, 20 och 25 kg med olika artikelnummer och pris, alltså olika artiklar (v1.9); titeln låser 10 kg."
+ },
+ {
+  "id": "10581107933450",
+  "nr": 32067,
+  "skäl": "Horisontell stång med remskiva för 5-stationer (PRO-550M): tillbehör till en 5-stationsmaskin där passformen och lastgränsen hör till maskinen; källan är tunn (marknadsföring) och ingen entydig lastgräns eller kompatibilitet går att belägga för exakt modell (PRO-550M-HPB)."
+ },
+ {
+  "id": "10581109702922",
+  "nr": 32071,
+  "skäl": "Power Vest 10kg: två varianter (Default 1099 kr och 20 1449 kr) med olika artikelnummer, alltså olika artiklar (v1.9); titeln låser 10 kg. Viktväst är dessutom en belastningsprodukt."
+ },
+ {
+  "id": "10581109735690",
+  "nr": 32072,
+  "skäl": "Premium Chin Up Bar: hängande/bärande redskap vars montering saknas i live-källan (bara marknadsföring). Webbsökning på SKU 61006/EAN 6430062514391 gav ingen sida som entydigt gäller exakt modellen (prisjämförelse anger 180 kg men utan bekräftat artikelnummer); tunn källa (R3) och oklart monteringssätt. Avvisas hellre än 'Ej känd')."
+ }
+]
