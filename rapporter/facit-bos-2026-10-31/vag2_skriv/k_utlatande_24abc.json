@@ -1,0 +1,132 @@
+[
+ {
+  "nr": 24061,
+  "id": "10411858428170",
+  "fil": "k_24a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": ", 26–28 tum, svart",
+    "efter": ", 26–28 tum, Svart"
+   },
+   "html": [
+    {
+     "fore": "<li>Dig som behöver ett stödben som kan justeras för olika prismor</li>\n",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Justering: Längd och prismor</li>",
+     "efter": "<li>Längd: Justerbar</li>"
+    }
+   ]
+  },
+  "skal": "Live-källan (Specifikt-listan) har 'Lastkapacitet 25 kg': svensk rad, etikett och enhet, gäller stödbenet; står en gång enligt tillverkaren i html (och en gång i meta). Titelbytet är belagt: live-titeln har tre kommatecken (Fox I, 26\"-28\", två fästpunkter, svart); utkastet stryker den maskinöversatta frasen 'för bakre löpare' och 'med två fästpunkter' (flyttad till specifikationen) och har två kommatecken. Rättning 1: färgen med stor bokstav som i syskonet 24094 och tidigare skrivna titlar (Stänkskärmset Hebie ..., Svart); skriptet missade det. Rättning 2: 'Justerbar för att passa olika prismor' är oklar svenska (R2) och utelämnades redan i syskonet 24094 med samma källa; stryks här för enhetlighet. 'Bred ände för stabilitet' rätt utelämnad (R5). En variant (Default Title, 0672VE). Ingen dubblett (29-tumsmodellen 24094 har egen SKU 0672V29E)."
+ },
+ {
+  "nr": 24062,
+  "id": "10461971284234",
+  "fil": "k_24a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Kan bära upp till 10 kg (enligt tillverkaren)</li>",
+    "efter": "<li>Kapacitet: Upp till 10 kg enligt tillverkaren</li>"
+   }
+  },
+  "skal": "Lastgränsen står två gånger i egen källa med samma värde: löptext 'kan bära upp till 10 kg' och etiketterad rad 'Kapacitet: upp till 10 kg.' (svensk, enhet, gäller korgen); återges en gång enligt tillverkaren i html och en gång i meta. Rättningen ger specifikationsraden en etikett som i källan (raden saknade etikett och kolon; skriptet missade det). 'robusta', 'cykelställ' och märkesbakgrunden (ursprung, hög kvalitet) rätt utelämnade. Titeln = live-titeln. Inte dubblett med 10472250114314 'Framkorg/bagagehållare BASIL PORTLAND, 25 l, matt svart' (annan färg; denna har color=gray)."
+ },
+ {
+  "nr": 24063,
+  "id": "10462762664202",
+  "fil": "k_24a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Maximal lastkapacitet 5 kg.' står ordagrant på svenska med etikett och enhet i egen källa och gäller fästet; en gång enligt tillverkaren. Titelbytet är bara märkets skrivsätt (BASIL -> Basil, R8); typordet Framkorgsfäste är live-titelns. 'styvfäste' (oklart) och 'styre väska' -> styrväska är rimligt hanterat; passform för 'de flesta stadscyklar', elcyklar med Bosch-display, 'hållbart' och 'stadigt' rätt utelämnade. Plast, 22–31,8 mm, justerbar vinkel och de två adapterplattorna ordagranna. Inga säkerhetspåståenden."
+ },
+ {
+  "nr": 24066,
+  "id": "10462840094986",
+  "fil": "k_24a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Lastkapacitet: 120 kg' står som egen etiketterad svensk rad under 'Mer information' i egen källa; en gång enligt tillverkaren. Texten säger inte att lasten gäller stången, krokarna eller ställningen särskilt, alltså inget som källan inte anger. Titelbytet 'Squat Stand' -> Skivstångsställning är belagt av profilens godkanda_typord (skivstångsställning = barbell stand/squat stand). Inga säkerhetspåståenden: säkerhetskrokar, 'högsta säkerhetsstandarder' och de maskinöversatta 'hållare för 30 mm kedjor' och 'stegpinnar' är strukna, liksom träningseffekterna (R5). 7-stegs breddjustering 77–124 cm och 19,5 kg ordagranna. 'Dig som tränar med fria vikter hemma' är inget effektpåstående. En variant (5203)."
+ },
+ {
+  "nr": 24070,
+  "id": "10470989824266",
+  "fil": "k_24a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Lastkapacitet: 5 kg.' etiketterad svensk rad i egen källa, gäller korgen; en gång enligt tillverkaren. Titelbytet 'Cykelkorg för Basil Class pakethållare' -> 'Cykelkorg Basil Class för pakethållare' är belagt: källtexten säger 'Cykelkorgen Basil Class är gjord av stål ... enkel att fästa på pakethållaren', så Basil Class är korgens modellnamn. Stål, mått 38 x 31 x 27 cm, avtagbar rem, verktyg för montering och reflexremsa baktill ordagranna. 'säkert', 'se bättre i mörker' (synlighet), 'bekväm och rymlig' och märkesbakgrunden rätt utelämnade."
+ },
+ {
+  "nr": 24071,
+  "id": "10472218853642",
+  "fil": "k_24a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Bärkapacitet: 2,5 kg.' etiketterad svensk rad i egen källa, gäller väskan; en gång enligt tillverkaren. Titelbytet 'Handlebar bag' -> Styrväska är belagt: källtexten säger '-styre väska' (styrväska) och Styrväska är butikens live-ord för samma typ (Styrväska Basil Mali, Giant H2Pro, PRO Gravel). 'Vattentätt och ljusreflekterande material' står ordagrant och har 'enligt tillverkaren' (andra och sista i html, R5). 'Magnetiskt toppskydd', 'rymlig' och märkesbakgrunden rätt utelämnade. 6 liter, mått och fästen ordagranna."
+ },
+ {
+  "nr": 24072,
+  "id": "10472222425354",
+  "fil": "k_24a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Bärkapacitet: 5 kg.' etiketterad svensk rad i egen källa, gäller väskan; en gång enligt tillverkaren. Titelbytet Styckväska -> Handväska är belagt: egen källa säger 'en riktig damhandväska' och har 'två korta handtag' och axelrem, och Handväska är live-ord i butiken för Basil (Handväska BASIL Bloom Field). Alternativet Styrväska (som 23016) har inte stöd i den här källan, som inte kallar väskan styrväska. 'slitstarkt vattentätt' och 'syns lätt i mörkare väder' rätt utelämnade (R5); valet av fäste via meddelandefältet rätt utelämnat. 7 l, polyester, 34 x 14 x 23 cm, 870 g, styrefäste ingår och BasEasy/Klickfix ordagranna. Enda varianten är Red; färg anges inte, godtas. Ingen dubblett."
+ },
+ {
+  "nr": 24073,
+  "id": "10472227340554",
+  "fil": "k_24b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": " Lastkapaciteten anges enligt tillverkaren.",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Dig som vill ha ett stöd från det italienska märket Ursus</li>\n",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Lastkapacitet: 35 kg</li>",
+     "efter": "<li>Lastkapacitet enligt tillverkaren: 35 kg</li>"
+    },
+    {
+     "fore": "<li>Tillverkare: Italien</li>\n",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "'Lastkapacitet 35 kg.' är en ren svensk rad med etikett och enhet i produktens egen källa, gäller stödet, och får stå trots att källans stödmening är trasig (R4, bedöms per rad). Rättningar: (1) meningen 'Lastkapaciteten anges enligt tillverkaren.' är innehållslös och stryks; (2) specifikationsraden saknade 'enligt tillverkaren' i html och får det, så lastgränsen står en gång enligt tillverkaren i html och en gång i meta; (3) 'Tillverkare: Italien' och 'det italienska märket Ursus' är ursprungsord (R5, prejudikat 23001 AXA Nederländerna) och stryks. Titeln: live-titelns avkortade '16-' rätt struken och storleken utelämnad (trasig i källan); typordet Mini-stöd är live-titelns. Tunn källa: aluminium och 35 kg är två entydiga fakta utöver titeln (R3). Webbkällan (bikesportadventure, EAN 8053677177379 = live-EAN, 'Max 35 Kg') bekräftar men behövs inte. Ingen dubblett: King R78 24\" (10494685479178) är arkiverad och annan storlek."
+ },
+ {
+  "nr": 24094,
+  "id": "10472245494026",
+  "fil": "k_24c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "'Lastkapacitet 25 kg' i egen källa (svensk, etikett, enhet), gäller stödet; en gång enligt tillverkaren. Titelbytet: live-titeln har tre kommatecken; utkastet stryker 'för bakre löpare' (maskinöversatt, R2) och 'med två fästpunkter' (flyttad till specifikationen) och har två kommatecken. Typordet Stöd är live-titelns och källans eget ('Universellt stöd'); syskonet 24061 behåller sitt live-ord Stödben (R7, syskon behåller egna live-ord). 'Universellt stöd med prismadapter (lämpligt för olika ramar)' är ordagrant. 'Bred ände för stabilitet' och 'olika prismor' rätt utelämnade. En variant (0672V29E). Om David vill ha samma typord på båda Hebie-stöden krävs ett beslut."
+ },
+ {
+  "nr": 24096,
+  "id": "10472246608138",
+  "fil": "k_24c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "har lådan placerad framtill, Bafang-motor",
+     "efter": "har en låda, Bafang-motor"
+    },
+    {
+     "fore": "<li>Räckvidd: 20–40 km</li>",
+     "efter": "<li>Räckvidd: 20–40 km enligt tillverkaren</li>"
+    }
+   ]
+  },
+  "skal": "'Lastkapacitet: 100 kg (låda) + 100 kg (förare).' står ordagrant på svenska med etikett och enhet i egen källa och anger själv vad lasten gäller; återges så en gång enligt tillverkaren. Rättning 1: 'lådan placerad framtill' står inte i källan (bara 'lådcykel' och lådans mått) och stryks (R1). Rättning 2: räckvidden får 'enligt tillverkaren' som i alla tidigare skrivna elcykeltexter (t.ex. 'Räckvidd: Upp till 100 km enligt tillverkaren'); html har då två, högst tillåtna (R5). Titeln: bara märkets skrivsätt (CARGOBIKE of SWEDEN -> Cargobike of Sweden, R8). Marknadsord ('beprövad', 'pålitlig arbetshäst', 'mest sedda') rätt strukna. Ingen dubblett: Classic Box 10470906364170 (21067, skriven) har lock och lådmått 87 x 59 x 59 cm, annan produkt. Ingen tagg På beställning, ingen leveranstidsmening (rätt). Ingen barnuppgift i källan."
+ }
+]
