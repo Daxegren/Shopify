@@ -1,0 +1,77 @@
+[
+ {
+  "nr": 34040,
+  "id": "10635791565066",
+  "fil": "k_34d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 'Handtag GIANT Tactal Grip, Svart', SKU 190000112, EAN 4718905782100, 99 kr, lager 3, en variant, tom beskrivning (tunn egen källa, Davids beslut a: webbkoll). Webbkällorna kontrollerade 2026-11-05: alfjonescycles anger artikel 190000112, EAN 4718905782100 (exakt vår), 135 mm, svart; allterraincycles anger artikel 190000112, 'unique polymer compound', push-on och ändpluggar; Giants sida 'Tactal Grips 135mm' anger polymer och 'simple push-on fit includes end plugs'. Alla uppgifter i texten (135 mm, svart, mountainbike, polymer, push-on, ändpluggar, artikelnummer) har stöd. Antal (par/styck) och modellår (2026/2027 går isär) är rätt utelämnade. Ett 'enligt tillverkaren' i meta och ett i texten. Titel 40, SEO 39, meta inom 70–155. Ingen tagg På beställning, standardblock utan leveranstidsmening: rätt."
+ },
+ {
+  "nr": 35001,
+  "id": "10462773838090",
+  "fil": "k_35a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 'Damcykel LIV Flourish 3, Gunmetal Black', SKU/streckkod 2200203113, 8349 kr, lager 1, tagg På beställning (leveranstidsmeningen finns i standardblocket). Storleken XS var härledd ur artikelnummermönster i utkastet, men är nu verifierad för exakt artikelnummer: bikesheduk.com (https://www.bikesheduk.com/product/190094/liv-liv-flourish-3/option/) anger 2200203113 som 'XS GUNMETAL BLACK' (Flourish 3, syskonnumren 2200203114/-115). Sökindex visar samma koppling hos canga15.hu ('LIV Flourish 3 XS Gunmetal Black'), men den sidan gav 404 vid hämtning. Ersätt mönsterresonemanget i att_bekrafta med bikesheduk-källan. Modellnamnet Flourish 3 (inte FS 3) stöds av webbkällan och av Livs specifikation (liv-cycling.com/ee/flourish-3: stålgaffel utan fjädring, Shimano Tourney, Kenda K-192 700x38c, XS/S/M, Gunmetal Black). XS (35,5 cm) står i egen källa. Stötdämpande sadelstolpe och fjäderbelastad sadel står i egen källa och Livs sida beskriver en dämpande sadelstolpe. Ingen dubblett: syskonet 10472256831754 har 2200203114/2200203115 (S och M). Titel = SEO-titel, 43 tecken, unik. Inga kvalitets- eller komfortlöften."
+ },
+ {
+  "nr": 35002,
+  "id": "10462783897866",
+  "fil": "k_35a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Toorx Professional Gloves är träningshandskar i svart och grå, storlek L, med öglor mellan fingrarna.",
+    "efter": "<p>Toorx Professional Gloves i svart och grå, storlek L, har öglor mellan fingrarna som gör handskarna enkla att ta av."
+   }
+  },
+  "skal": "Live: ACTIVE, 'Träningshandskar TOORX Professional Gloves, svart-grå', SKU AHF-033, EAN 8029975990958, 139 kr, lager 3, en variant. Egen källa: rekommenderas för styrketräning, öglor mellan fingrarna, 'den halkfria handflatan' (ordagrant, därför tillåtet en gång som tillverkarens uppgift enligt R5), kettlebells och hantlar. Storlek L för exakt artikelnummer AHF-033: MediaMarkt BE ('TOORX AHF-033 - L Fitness glove', adressen innehåller 'ahf-033-l') och MediaMarkt NL (svart/grå, storlek L). Båda sidorna gav 403 vid hämtning, så uppgiften är kontrollerad via sökindex och adressen. Sökindex för enerfitsport.it visar serien AHF-031 = S, AHF-032 = M, AHF-033 = L, AHF-034 = XL (sidan gav 403). Två oberoende handlare anger alltså L för AHF-033, och inget motsäger. Storleken godtas, men källan bör skrivas in i att_bekrafta med förbehållet att sidorna inte gick att hämta. EAN:et gav ingen träff. Syskonet 10472305393930 (AHF-034) är enligt samma serie XL, alltså annan storlek och ingen exakt dubblett (beslut b). Rättning: cirkulär inledning av typen 'X Gloves är handskar' (R11). Två 'enligt tillverkaren' i texten och ett i meta, inom gränsen. Titel 60 tecken och 2 kommatecken, SEO 37, meta inom 70–155. 'Maximal komfort och säkerhet' och ursprung Italien är rätt utelämnade."
+ },
+ {
+  "nr": 35003,
+  "id": "10462832001290",
+  "fil": "k_35a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Däck: Maxxis Rekon Race EXO TR, 29 x 2,25\"</li>",
+    "efter": "<li>Däck: Maxxis Rekon Race EXO TR, 29 x 2,25 tum</li>"
+   }
+  },
+  "skal": "Live: ACTIVE, 'Gravelcykel KONA Sutra LTD 29\" Gloss Bone Vit', SKU/streckkod B36SULWHSHFA56, 46099 kr, lager 1, ingen tagg På beställning. 56 cm verifierad för exakt artikelnummer: joe-bike.com (Kona Sutra LTD w/Shimano) listar 'Gloss Bone w/ Charcoal Decals / 56cm / 29-inch', SKU B36SULWHSHFA56, UPC 841073186082. L (56cm) står i egen källa. Samma sida: Shimano GRX 12-växlad bakväxel, GRX-bromsar med 180 mm skivor, Maxxis Rekon Race EXO TR 29x2.25. Mekanisk eller elektronisk anges inte, och texten påstår ingetdera (v1.7), som för syskonet. Syskonet 10471133675786 har 50/54/58 cm, alltså annan storlek och ingen dubblett. 'Vit' ersatt med leverantörens färgnamn Gloss Bone är rätt. Prisskillnaden mot syskonet (46099 mot 35239 kr) är en prisfråga för David, inte en textfråga: joe-bike har samma pris för alla storlekar. Rättning: tum-tecknet i specifikationen skrivs 'tum' som i inledningen (R9). Titel 52 tecken och 2 kommatecken, SEO 33, meta inom 70–155. Inga löften ('robusta', 'slitstarka', 'komfort') kvar."
+ },
+ {
+  "nr": 35010,
+  "id": "10472269840650",
+  "fil": "k_35a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 'Damcykel LIV Flourish FS 2, Eclipse', SKU/streckkod 2200206114, 8679 kr, lager 8, ingen tagg På beställning (standardblocket saknar leveranstidsmeningen: rätt). Storleken S var härledd ur mönster i utkastet, men är nu verifierad för exakt artikelnummer: centrumrowerowe.pl (https://www.centrumrowerowe.pl/rower-trekkingowy-damski-liv-flourish-fs-2-pd48691/) anger 'Kod producenta 2200206114', 'Rozmiar producenta S', 'Kolor wg producenta eclipse', EAN 4712878717107. olimpiasport.pl (Giant Liv Flourish FS 2 Eclipse 2022) listar 'S - 2200206114' (XS 2200206113, M 2200206115). Ersätt mönsterresonemanget i att_bekrafta med dessa källor. S (40,6 cm), gaffeln CR7V T40 40 mm, Tourney TY710, Altus M310, V-bromsar, Kenda K-192 700x38c och fästpunkterna står i egen källa. Syskonet 10470937002250 (2200206113 = XS) är annan storlek, ingen dubblett. Titel 46, SEO 38, meta inom 70–155. 'Dämpar alla vägbulor' och märkeshistorik är rätt utelämnade."
+ },
+ {
+  "nr": 35011,
+  "id": "10472288190730",
+  "fil": "k_35a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Herrcykel Romet Orkan M, Tourney/Altus, Svart",
+    "efter": "Herrcykel Romet Orkan M, 28 tum, Svart och Guld"
+   },
+   "seo_title": {
+    "fore": "Herrcykel Romet Orkan M, Tourney/Altus",
+    "efter": "Herrcykel Romet Orkan M, Svart och Guld"
+   },
+   "meta": {
+    "fore": "Herrcykeln Romet Orkan M i svart har aluminiumram, 28-tumshjul, 21 växlar med Shimano Tourney/Altus och en gaffel med 63 mm fjädringsväg.",
+    "efter": "Herrcykeln Romet Orkan M i svart och guld har aluminiumram, 28-tumshjul, 21 Shimano-växlar och en gaffel med 63 mm fjädringsväg."
+   },
+   "html": {
+    "fore": "<p>Herrcykeln Romet Orkan M har aluminiumram, 28-tumshjul och 21 växlar med Shimano Tourney/Altus. Gaffeln har 63 mm fjädringsväg, och cykeln har fästpunkter för pakethållare, stöd och flaskhållare.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en cykel med aluminiumram och 28-tumshjul</li>\n<li>Dig som vill ha en cykel med 21 växlar</li>\n<li>Dig som vill kunna montera pakethållare, stöd och flaskhållare</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Herrcykel</li>\n<li>Ram: Aluminium</li>\n<li>Hjulstorlek: 28 tum</li>\n<li>Gaffel: 63 mm fjädringsväg</li>\n<li>Växlar: Shimano Tourney/Altus</li>\n<li>Antal växlar: 21</li>\n<li>Fästpunkter: Pakethållare, stöd och flaskhållare</li>\n<li>Färg: Svart</li>",
+    "efter": "<p>Herrcykeln Romet Orkan M i svart och guld har aluminiumram, 28-tumshjul och 21 Shimano-växlar. Gaffeln har 63 mm fjädringsväg, och cykeln har fästpunkter för pakethållare, stöd och flaskhållare.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en cykel med aluminiumram och 28-tumshjul</li>\n<li>Dig som vill ha en cykel med 21 växlar</li>\n<li>Dig som vill kunna montera pakethållare, stöd och flaskhållare</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Herrcykel</li>\n<li>Ram: Aluminium</li>\n<li>Hjulstorlek: 28 tum</li>\n<li>Gaffel: 63 mm fjädringsväg</li>\n<li>Antal växlar: 21 (Shimano)</li>\n<li>Fästpunkter: Pakethållare, stöd och flaskhållare</li>\n<li>Färg: Svart och guld</li>"
+   }
+  },
+  "skal": "Live: ACTIVE, 'Herrcykel ROMET Orkan M, svart-guld', varianter L / black (28190095-A, EAN 5904803164271, lager 1) och XL / black (28210094-A, EAN 5904803164295, lager 2), båda 6519 kr: samma pris och färg, så v1.8 gäller och storleken låses inte (rätt i utkastet). Färg: utkastets 'Svart' är fel. För exakt EAN 5904803164271 anger rowerzysta.pl ('Romet Orkan M 2024 - czarny-złoty', EAN 5904803164271) och activsport.eu ('Orkan M 28 L(19\") czarny/złoty', kod producenta 5904803164271, symbol 28190095-A-19) svart och guld, och live-titeln säger svart-guld. Variantnamnet 'black' är förkortat. Därför Svart och Guld. Växelgrupp: egen källa säger Tourney/Altus, men samma två webbkällor för exakt EAN kallar bakväxeln 'Shimano Acera RD-M310' (framväxel FD-TY510). Namnen går isär (RD-M310 är en Altus-modell, men handlarna skriver Acera), så gruppnamnet utelämnas enligt R2 och texten säger '21 Shimano-växlar', som egen källa. Skillnaden mot syskonet 10472281932042 (2228362, EAN 5907782798321, Orkan M L 19\", enligt mirapolnext.pl 2022) var i utkastet växelgruppen. Det är ingen verklig skillnad: syskonets live-text anger samma komponenter (FD-TY510, RD-M310). Syskonet är annan artikel (annan EAN och artikelnummer, enligt handlarna annat modellår, 2022 mot 2024), så ingen exakt dubblett enligt beslut b. Titlarna skiljer sig nu genom typordet och färgen. Modellåret anges inte, eftersom källorna går isär (rowerzysta 2024, amadio.pl 2025). Hjulstorlek 28 tum, gaffel 63 mm fjädringsväg, aluminiumram, 21 växlar och fästpunkterna står i egen källa. Däckbredd och vikt är rätt utelämnade. Titel 47 tecken och 2 kommatecken, SEO 39, meta inom 70–155."
+ }
+]
