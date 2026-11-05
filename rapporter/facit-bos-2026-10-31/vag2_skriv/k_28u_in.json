@@ -1,0 +1,86 @@
+[
+ {
+  "id": "10541367656714",
+  "nr": 28241,
+  "avvisningsskal": "Barnprodukt/leksak med licensierade Disney-figurer (Spider-Man); barn ligger under utanför_tills_vidare (R6). Källan är tunn: två plastracketar och en liten boll.",
+  "batch_gammal": "",
+  "titel_nu": "Beach rackets Spiderman"
+ },
+ {
+  "id": "10541370605834",
+  "nr": 28242,
+  "avvisningsskal": "",
+  "batch_gammal": "",
+  "titel_nu": "Barncykel TABOU Venom Lite, 27,5\" 15\" M, röd-svart"
+ },
+ {
+  "id": "10548248215818",
+  "nr": 28243,
+  "avvisningsskal": "",
+  "batch_gammal": "",
+  "titel_nu": "Reflekterande klistermärken för barn BOOKMAN Reflective Adventure Stickers, Vit"
+ },
+ {
+  "id": "10548282753290",
+  "nr": 28244,
+  "avvisningsskal": "Barnprodukt: cykelklocka för barn med Disney-figurer",
+  "batch_gammal": "",
+  "titel_nu": "Trombone Frozen 2, green-purple"
+ },
+ {
+  "id": "10548295368970",
+  "nr": 28245,
+  "avvisningsskal": "R3: live-titeln anger färgen Vit, men produkten har två riktiga varianter (white SKU K25/5/23/2, black SKU K25/5/23/1) med olika SKU; ingen överblivet Default Title (v1.7: olika SKU avvisas). Kräver beslut: dela produkten eller ta bort färgen ur titeln. Barnspärren är ej skälet (vuxen el-trehjuling, 250 W Bafang, 37 kg, 160–185 cm förare enligt källan).",
+  "batch_gammal": "",
+  "titel_nu": "LEADER FOX Bormio el-trehjuling, Vit"
+ },
+ {
+  "id": "10561327956234",
+  "nr": 28246,
+  "avvisningsskal": "Barnprodukt: Minnie-trumpet/ringsignal i Musse-design, barnriktad",
+  "batch_gammal": "",
+  "titel_nu": "Trumpet Minnie, pink"
+ },
+ {
+  "id": "10572637012234",
+  "nr": 28247,
+  "avvisningsskal": "Stödhjul/sidohjul för barncyklar (12–20 tum): barnprodukt (R6) och bärande/säkerhetskritisk del. Källan säger också \"Reservhjul\" och \"Ej lämpliga för cyklar med utanpåliggande växlar\".",
+  "batch_gammal": "",
+  "titel_nu": "Stödhjul 12-20\", svart plast"
+ },
+ {
+  "id": "10581100265738",
+  "nr": 28248,
+  "avvisningsskal": "Court Floorball Goal är ett fristående innebandymål (stabilitet 'stadig konstruktion', risk för att mål tippar och skadar spelare, särskilt barn). Behandlas som ställning/konstruktion med säkerhetsrisk; tas för hand med Davids ja.",
+  "batch_gammal": "",
+  "titel_nu": "Court Floorball Goal"
+ },
+ {
+  "id": "10581100396810",
+  "nr": 28249,
+  "avvisningsskal": "Fristående fotbollsmål (ställning/konstruktion, risk för tippning; kan användas av barn). Säkerhetsprodukt, tas för hand med Davids ja. Källan saknar mått, material och förankring.",
+  "batch_gammal": "",
+  "titel_nu": "Court Football Goal"
+ },
+ {
+  "id": "10589703373066",
+  "nr": 28250,
+  "avvisningsskal": "R6: barncykel (källan: \"barncykel ... barn mellan 125 och 155 cm\"); barnprodukt, utanfor_tills_vidare.",
+  "batch_gammal": "",
+  "titel_nu": "Flickcykel ROMET Panda 1, vit-blå"
+ },
+ {
+  "id": "10589714645258",
+  "nr": 28251,
+  "avvisningsskal": "",
+  "batch_gammal": "",
+  "titel_nu": "Barncykel KONA Process 246, Gloss Metallic Black"
+ },
+ {
+  "id": "10612572160266",
+  "nr": 28252,
+  "avvisningsskal": "Barnprodukt: cykelklocka med Minnie-tema för barn, säkerhetslöfte",
+  "batch_gammal": "",
+  "titel_nu": "Cykelklocka Minnie Retro, vit"
+ }
+]

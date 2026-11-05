@@ -1,0 +1,86 @@
+[
+ {
+  "id": "10472334360842",
+  "nr": 28145,
+  "avvisningsskal": "R6 (barn/ungdom): källan kallar produkten \"mountainbike designad för kvinnor och ungdomar\" och \"för ungdomar\". Ungdomscyklar avvisas tills David beslutat (tidigare utlåtande UNDERKÄND, 9200). Storlek L (165-180 cm) och typordet Damcykel talar för vuxen; utkast finns i k_02d_utkast.json om David säger ja.",
+  "batch_gammal": "",
+  "titel_nu": "Damcykel ROMET Jolene 6.2, 26\" 19\" L, vit-lila"
+ },
+ {
+  "id": "10472334426378",
+  "nr": 28146,
+  "avvisningsskal": "",
+  "batch_gammal": "",
+  "titel_nu": "Flickcykel ROMET Panda 1, 24\" lila-vit"
+ },
+ {
+  "id": "10472334754058",
+  "nr": 28147,
+  "avvisningsskal": "R6: ungdomscykel. Källan: \"Rambler R6.1 ungdomscykel\"; barn-/ungdomsprodukt.",
+  "batch_gammal": "",
+  "titel_nu": "Ungdomscykel ROMET Rambler R6.1, 26\" 17\" M, röd-vit-grå"
+ },
+ {
+  "id": "10472334917898",
+  "nr": 28148,
+  "avvisningsskal": "R6: ungdomscykel. Källan: \"mountainbike för unga\", \"ungdoms-mountainbike\", S (15\") 148–160 cm; ungdomscyklar avvisas (precedent k_5, k_10, k_12). Dessutom anger titeln vit-blå-grön men varianterna S / white och M / white.",
+  "batch_gammal": "",
+  "titel_nu": "Ungdomscykel ROMET Jolene 6.0, 26\" vit-blå-grön"
+ },
+ {
+  "id": "10474112975114",
+  "nr": 28149,
+  "avvisningsskal": "",
+  "batch_gammal": "",
+  "titel_nu": "Barncykel TABOU Mini FR, 16\" rosa-lila"
+ },
+ {
+  "id": "10475361206538",
+  "nr": 28150,
+  "avvisningsskal": "Cykelstöd (bärande del, bär cykelns vikt) utan ordagrann svensk lastgräns i källan (R4/v1.7), och \"16-20 tum\" är barncykelstorlek (R6). Tidigare utlåtande UNDERKÄND (9404, 8056). Kräver Davids beslut.",
+  "batch_gammal": "",
+  "titel_nu": "Cykelstöd för 16-20 tums cyklar"
+ },
+ {
+  "id": "10475367956746",
+  "nr": 28151,
+  "avvisningsskal": "",
+  "batch_gammal": "",
+  "titel_nu": "Barnskidpjäxor Alpina T 8 JR"
+ },
+ {
+  "id": "10475368186122",
+  "nr": 28152,
+  "avvisningsskal": "",
+  "batch_gammal": "",
+  "titel_nu": "Alpina T KID pjäxor"
+ },
+ {
+  "id": "10475525734666",
+  "nr": 28153,
+  "avvisningsskal": "",
+  "batch_gammal": "",
+  "titel_nu": "Barncykel S´COOL Wave Steel LTD, 24\" korall/röd"
+ },
+ {
+  "id": "10475527209226",
+  "nr": 28154,
+  "avvisningsskal": "R6: ungdomscykel (titel och tagg \"ungdom\"; källan: \"ungdomscykel\", märket \"största tillverkaren av barn- och ungdomscyklar\"); ungdomsprodukt, utanfor_tills_vidare (barn).",
+  "batch_gammal": "",
+  "titel_nu": "S´COOL Wave Steel LTD ungdomscykel, 26\" korall/röd"
+ },
+ {
+  "id": "10475527340298",
+  "nr": 28155,
+  "avvisningsskal": "",
+  "batch_gammal": "",
+  "titel_nu": "Ultralätt barncykel ACADEMY Grade 2, 14\" blå"
+ },
+ {
+  "id": "10475600183562",
+  "nr": 28156,
+  "avvisningsskal": "",
+  "batch_gammal": "",
+  "titel_nu": "Ultralätt barncykel ACADEMY Grade 2, 14\" Lila"
+ }
+]

@@ -1,0 +1,86 @@
+[
+ {
+  "id": "10411476779274",
+  "nr": 28001,
+  "avvisningsskal": "Trasig/motsägande källa: titeln säger snöskor men texten beskriver ett fordon med ram, styre och lastkapacitet (taggad Sparkcykel); produkten kan inte skrivas säkert utan att byta typ. Lämplig ålder 7+, barnprodukt.",
+  "batch_gammal": "",
+  "titel_nu": "Snöskor STIGA Snow Kick Free, vit/svart"
+ },
+ {
+  "id": "10411721916682",
+  "nr": 28002,
+  "avvisningsskal": "Barn-/juniorprodukt (JR).",
+  "batch_gammal": "",
+  "titel_nu": "Skidor KÄSTLE XAJR Crown"
+ },
+ {
+  "id": "10411852333322",
+  "nr": 28003,
+  "avvisningsskal": "",
+  "batch_gammal": "",
+  "titel_nu": "Ultralätt barncykel TABOU Rocket Lite MG, 14\" blå-vit"
+ },
+ {
+  "id": "10411859181834",
+  "nr": 28004,
+  "avvisningsskal": "Barnkategori (R6): webbkällor (bl.a. kidero.be, EN 14619, Kinderroller) säljer SOKE GO! som barn-/nybörjarscooter, och live-källan säger \"för unga som börjar\"; spärren gäller tills David beslutat. Dessutom maskinöversatt källa (\"linser\"), dubbla måttrader och EAN 5903890604790 hittades inte på nätet.",
+  "batch_gammal": "",
+  "titel_nu": "Stuntscooter SOKE GO! blå-gul"
+ },
+ {
+  "id": "10411902402826",
+  "nr": 28005,
+  "avvisningsskal": "R6 (barn): källan anger \"Lämplig för ryttare som är 130-145 cm långa\", alltså junior/barnstorlek. Samma bedömning som tidigare utlåtande 9334 (UNDERKÄND, barnsparkcyklar utanför tills David beslutat) och Union Lite 9330/9331. Utkast finns i k_05a_utkast.json om David frisläpper juniormodeller. Lastkapacitet 100 kg är ordagrann svensk (R4) och kunde skrivas.",
+  "batch_gammal": "",
+  "titel_nu": "Kicksparkcykel Versatyl Cosmopolitan V2 Pro Scooter Black"
+ },
+ {
+  "id": "10439143981322",
+  "nr": 28006,
+  "avvisningsskal": "R6: ungdomscykel (titel \"Ungdomscykel ... 14+ år\", tagg \"ungdom\", källan: \"designad för unga\"); ungdomsprodukt.",
+  "batch_gammal": "",
+  "titel_nu": "Ungdomscykel TABOU Venom 1.0 W, 27,5\" svart-turkos, 14+ år"
+ },
+ {
+  "id": "10460946465034",
+  "nr": 28007,
+  "avvisningsskal": "",
+  "batch_gammal": "",
+  "titel_nu": "Barncykel LIV Tempt 24, Dusty Blue"
+ },
+ {
+  "id": "10460950003978",
+  "nr": 28008,
+  "avvisningsskal": "Barn-/storleksmodell: användarhöjd 100–120 cm och XS; källan har även trasig rad (14,1495 kg - 120-120 cm).",
+  "batch_gammal": "",
+  "titel_nu": "Stuntsparkcykel Union Lite XS Scooter Svart"
+ },
+ {
+  "id": "10462150525194",
+  "nr": 28009,
+  "avvisningsskal": "Säkerhetskritisk utanför faktatextläget och trasig källa: lastcykel för barntransport (2 säten med trepunkts säkerhetsbälten, regnskydd) och en maskinöversatt/trasig källtext (\"Shimano 4x4\", \"Shiflex fram- och bakljus\", \"Lastcykeln nu äntligen i Estland\", dubblerade batteriuppgifter 12,5A/12,5Wh). Engelsk live-titel (\"Electric bike\"). Koordinatorn avgör, kräver Davids beslut om barnrelaterade lastcyklar.",
+  "batch_gammal": "",
+  "titel_nu": "Electric bike CANGOO Buzz"
+ },
+ {
+  "id": "10462188503306",
+  "nr": 28010,
+  "avvisningsskal": "",
+  "batch_gammal": "",
+  "titel_nu": "Chain guard AXA GSR Junior"
+ },
+ {
+  "id": "10462231167242",
+  "nr": 28011,
+  "avvisningsskal": "",
+  "batch_gammal": "",
+  "titel_nu": "Barnskidor Peltonen Delta jr + BASIC skidbindning"
+ },
+ {
+  "id": "10462768988426",
+  "nr": 28012,
+  "avvisningsskal": "Barnprodukt (barncykelklocka Minnie) med säkerhetspåstående i källan; tas för hand.",
+  "batch_gammal": "",
+  "titel_nu": "Cykelklocka Minnie, rosa"
+ }
+]
