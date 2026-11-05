@@ -19,3 +19,8 @@ Skapad 2026-11-04. Filen fylls bara på; nya beslut läggs överst i tabellen, g
 | 2026-11-03 | Gymstick- och Velomarket-taggar får aldrig ändras; felaktiga cykeltaggar rörs inte utan beslut | Alla produkter | David | Chatt 2026-11-03 |
 | 2026-11-03 | Vinterprodukter frisläppta (pulkor, kälkar, skridskor), isbroddar hålls utanför | Vintergruppen | David | `produkttexter-standard.md` §15 |
 | 2026-10-30 | Experiment 1 och pilotens 20 ändras inte i vågorna | Se ovan | David | `produkttexter-standard.md` rad 73 (hävd för experiment 1 2026-11-04) |
+| 2026-11-05 | Elektronisk växling på cyklar får skrivas med ordagrann källa (Di2 m.fl.) | Cyklar | David | `regler-v1.md` v1.7 |
+| 2026-11-05 | Bärande och hängande delar: nuvarande regel gäller (ordagrann svensk lastgräns) | Bärande delar | David | `regler-v1.md` v1.7 |
+| 2026-11-05 | R3: Default Title med samma SKU och färg ignoreras; produkten skrivs utan färg och pris i titeln | Produkter med överblivna varianter | David | `regler-v1.md` v1.7 |
+| 2026-11-05 | Faktakoll på nätet får göras mot alla webbplatser (inga domänbegränsningar) | Alla produkter | David | `regler-v1.md` v1.7 |
+| 2026-11-05 | Barn- och ungdomsspärren: lista för genomläsning tas fram (spärren gäller tills David svarat) | 211 produkter | David | `rapporter/barn-ungdom-spar-granskning-2026-11-05.md` |

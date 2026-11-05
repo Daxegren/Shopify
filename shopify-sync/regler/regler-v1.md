@@ -41,3 +41,9 @@ Cirkulära inledningar (R11), meta utan verb, typord som byts utan stöd i käll
 
 ## v1.6 (2026-11-04): faktakoll på nätet (Davids beslut)
 - R1 (G) kompletteras: saknas uppgiften i produktens egen källa får den hämtas från tillverkarens egen sida eller annan tillförlitlig källa på nätet, om källan entydigt gäller exakt den modellen. Källans adress anges i `att_bekrafta`. Tvetydigt eller ej funnet: utelämna. Leverantören kontaktas inte för bekräftelse.
+
+## v1.7 (2026-11-05): beslut av David
+- Elektronisk växling på cyklar (Di2, GRX Di2 m.fl.) får skrivas när källan ordagrant anger modellen; texten får inte påstå mekanisk växling. Batteri och räckvidd för växlingen återges bara om källan anger dem.
+- Bärande och hängande delar: nuvarande regel (R4) gäller oförändrad; skrivs bara med ordagrann svensk lastgräns.
+- R3: varianter med samma SKU och samma färg, där en är en överbliven Default Title, ignoreras och produkten skrivs utan färg och pris i titeln (som 10113). Varianter med olika SKU avvisas som förut.
+- R1 (G): faktakoll på nätet gäller alla webbplatser (inga domänbegränsningar); källan måste entydigt gälla exakt modellen och adressen anges i `att_bekrafta`.
