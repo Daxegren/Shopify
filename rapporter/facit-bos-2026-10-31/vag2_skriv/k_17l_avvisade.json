@@ -1,0 +1,27 @@
+[
+ {
+  "id": "10665228075274",
+  "nr": 9417,
+  "avvisningsskal": "Redan skriven: produkten har taggen texter-klara live (titel, SEO och beskrivning finns). Dessutom tre siffervarianter (520-522) utan färgkoppling (R3)."
+ },
+ {
+  "id": "10673147511050",
+  "nr": 9654,
+  "avvisningsskal": "R3/R2: titeln anger 'Fluid Mega och Apollo Pro', men produktens egen källa anger 'Apollo Pro XL, Tunturi Platinum RW30'. Webbkällorna går isär om Mega (Decathlon/Velomarket: Apollo Pro XL och RW30; fitshop.ch: passar inte Mega Pro XL och Apollo Pro), så kompatibiliteten kan inte återges entydigt. v1.7 ändrar inget (en enda Default Title-variant, ingen färg/pris-fråga). Titeln får inte bytas för att komma runt detta."
+ },
+ {
+  "id": "10676714111242",
+  "nr": 9106,
+  "avvisningsskal": "R3, tunn källa: egen källa har bara 'Kapellställning för Flex Nova och Delight Nova' och tillverkare (ett faktum utöver titeln); 'Premium' i titeln finns inte i källan. Webbsökning (lucky-bike.de) gav ingen sida som entydigt gäller exakt denna kapellställning och 'Premium', så inget kan bekräftas. v1.7 ändrar inget (en variant)."
+ },
+ {
+  "id": "10676720173322",
+  "nr": 9052,
+  "avvisningsskal": "Redan skriven: produkten har taggen texter-klara live. Dessutom två varianter black/green med olika SKU (v1.7 undantar inte) och titeln anger Svart."
+ },
+ {
+  "id": "10676720501002",
+  "nr": 9120,
+  "avvisningsskal": "R3: titeln säger XTC SLR 29 1 (2027) men egen källa beskriver 'Giant XTC SLR 29 2' med komponenter (Deore M6200, Tektro Orion, Crest XC Comp) som hör till 29 2. Modellen kan inte fastställas ur källan; varianterna är S-XL purple med olika SKU och samma pris, men det är modellmotsägelsen som avgör. Inte tillåtet att skriva."
+ }
+]
