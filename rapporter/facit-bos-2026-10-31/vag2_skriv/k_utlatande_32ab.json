@@ -1,0 +1,240 @@
+[
+ {
+  "nr": 32001,
+  "id": "10462762729738",
+  "fil": "k_32a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "ett löstagbart frontkorgsfäste av aluminium som används med korgar och väskor med KF-adapterplatta",
+    "efter": "tillverkat av aluminium och används för att fästa korgar och väskor med KF-adapterplatta. Fästet är löstagbart"
+   }
+  },
+  "skal": "Live 2026-11-05: ACTIVE, 'Frontkorgsfäste för BASIL KF AHEAD STEMHOLDER styrfäste, löstagbart', 70189/EAN 8715019701894/319 kr, lager 94, tom beskrivning. basil.com (EAN 8715019701894) bekräftar aluminium, 13 x 5 x 3 cm, endast svart, KF-adapterplatta; ingen lastgräns på sidan → 'Ej känd'-raden och meningen finns (v1.10), inga andra lastuppgifter. 5 kg från andra Basil-produkter rätt utelämnat. Cirkulär inledning \"Namn är en/ett typord\" (R11, skriptvarning) omskriven. "
+ },
+ {
+  "nr": 32003,
+  "id": "10462836490506",
+  "fil": "k_32a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Tunturi Rapid är ett justerbart kettlebellhandtag",
+    "efter": "Det justerbara kettlebellhandtaget Tunturi Rapid är tillverkat"
+   }
+  },
+  "skal": "Live: ACTIVE, 'TUNTURI Rapid Justerbart Kettlebellhandtag 3.5kg', 14TUSCL469/EAN 8717842037775/799 kr, lager 2. Handtag, skruv, Add-On Kit, järn ordagrant; 3,5 kg i live-titeln och 'Base handle weight: 3.5 kg' på tunturi.com. Tillverkaren anger 'Adjustable weight from 3.5 kg to 36 kg' (viktintervall med tillval, inte en lastgräns, och sidan säger samtidigt handtag 2,5 kg) → 'Ej känd' är försvarbart enligt R4 (tolka aldrig). Cirkulär inledning \"Namn är en/ett typord\" (R11, skriptvarning) omskriven. "
+ },
+ {
+  "nr": 32006,
+  "id": "10472218034442",
+  "fil": "k_32a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 12 i lager, en variant 17580. 'Bärkapacitet: 5 kg.' står ordagrant på svenska med etikett och enhet → R4/§16.3, en gång 'enligt tillverkaren'; vattentät som andra 'enligt tillverkaren' (2 av 2). Frisläppt via undantag-2026-11-05 (omprövning pass3), som upphäver §12-avvisningen i b_utlatande_1_6/k_utlatande_07. Titel/SEO lika med äldre utkast 5077 (b_6) och 9413 (k_07a) för SAMMA id; båda UNDERKÄNDA och i ingen skrivfil → ingen krock."
+ },
+ {
+  "nr": 32007,
+  "id": "10472224588042",
+  "fil": "k_32a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Basil Bohème City Bag är en cykelväska på 8 liter som",
+    "efter": "Cykelväskan Basil Bohème City Bag rymmer 8 liter och"
+   }
+  },
+  "skal": "Live: ACTIVE, 'Basil Boheme bike bag', 18017/669 kr, lager 18. 'Bärkapacitet: upp till 2,5 kg.' ordagrant → en gång 'enligt tillverkaren'; raden '2,5 kg.' utan etikett rätt utelämnad; reflexdetaljer och 'styvadapter' rätt utelämnade. Typord Cykelväska: entydig översättning av live-titelns 'bike bag', butikens live-ord (taggen och 32006). Cirkulär inledning \"Namn är en/ett typord\" (R11, skriptvarning) omskriven. "
+ },
+ {
+  "nr": 32008,
+  "id": "10472228389130",
+  "fil": "k_32a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "9/16 tum",
+    "efter": "Svart"
+   },
+   "seo_title": {
+    "fore": "Elite 9/16 tum",
+    "efter": "Elite, Svart"
+   },
+   "html": {
+    "fore": ">Maximal",
+    "efter": ">Färg: Svart</li>\n<li>Maximal"
+   }
+  },
+  "skal": "Live: ACTIVE, 'Pedals Giant Pinner Elite 9/', SKU 230000099, EAN 4713250020433, 1519 kr, lager 20. EAN 4713250020433 och MPN 230000099 = Platform/Black (wheelworld.com/product/giant-pinner-elite-flat-pedal-397968-1.htm, sssports.com/.../4713250020433.html); bildfilen heter ..._230000099. Färgen är alltså entydigt svart: lägg till 'Svart' i titel, SEO och specifikation, så att risken för dubblett mot 32009 (grön, EAN 4713250020440) är undanröjd. Handlen slutar på 230000101 men ändras aldrig (R12a). Lägg webbkällan i att_bekrafta. Inga lastuppgifter; 'Ej känd' rad och mening finns."
+ },
+ {
+  "nr": 32009,
+  "id": "10472228454666",
+  "fil": "k_32a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 'Pedaler GIANT Pinner Elite, grön', 230000100/EAN 4713250020440, lager 8. Alla fakta ordagrant i egen källa; 'slitstark' rätt utelämnat. Ej dubblett mot 32008 (svart, annan EAN). Meta säger 'Lastgräns är inte känd' (texten har 'Maximal lastgräns ...'); godtagbart."
+ },
+ {
+  "nr": 32010,
+  "id": "10472238055690",
+  "fil": "k_32a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Shimano BB-UN300 är ett vevlager med",
+    "efter": "Vevlagret Shimano BB-UN300 har"
+   }
+  },
+  "skal": "Live: ACTIVE, 'Center kedja Shimano BSA 117.5mm/68mm BB-UN300 Square', EBBUN300B17X/EAN 4550170619220, lager 49, tom beskrivning. bike-components p76645 listar 'BSA 68x117.5 | EBBUN300B17X', stålaxel, 'delivery does not include crank bolts' → entydigt. Vevlager är rätt svensk term (mohlins.se 'Vevlager Shimano BB-UN300 Fyrkant BSA 117.5/68mm', bikeshop.se, egen källa 32023). Mått 117,5/68 entydiga (skal finns bara som 68/73). Cirkulär inledning \"Namn är en/ett typord\" (R11, skriptvarning) omskriven. "
+ },
+ {
+  "nr": 32011,
+  "id": "10472239563018",
+  "fil": "k_32a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Shimano BB-UN300 är ett vevlager med",
+    "efter": "Vevlagret Shimano BB-UN300 har"
+   }
+  },
+  "skal": "Live: ACTIVE, 'Centerdrev Shimano BSA 107mm/68mm BB-UN300 Square', VMEBBUN300B07X, lager 19. bike-components: 'BSA 68x107 | EBBUN300B07X'. Vevlager rätt. Cirkulär inledning \"Namn är en/ett typord\" (R11, skriptvarning) omskriven. "
+ },
+ {
+  "nr": 32012,
+  "id": "10472239628554",
+  "fil": "k_32a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Shimano BB-UN300 är ett vevlager med",
+    "efter": "Vevlagret Shimano BB-UN300 har"
+   }
+  },
+  "skal": "Live: ACTIVE, 'Center chain Shimano BSA 110mm/68mm BB-UN300 Square', VMEBBUN300B10X, lager 31. bike-components: 'BSA 68x110 | EBBUN300B10X'. Vevlager rätt. Cirkulär inledning \"Namn är en/ett typord\" (R11, skriptvarning) omskriven. "
+ },
+ {
+  "nr": 32013,
+  "id": "10472239694090",
+  "fil": "k_32b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, VMEBBUN300B13X/EAN 4550170619329, lager 12, tom beskrivning. bike-components: BSA 68x113. Bara titelns fakta plus BSA/JIS; Vevlager rätt; 'Ej känd' rad och mening finns."
+ },
+ {
+  "nr": 32016,
+  "id": "10472240447754",
+  "fil": "k_32b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "BSA, skal 68 mm, axel 127.5",
+    "efter": "BSA skal 68 mm, axel 127,5"
+   },
+   "seo_title": {
+    "fore": "68/127.5",
+    "efter": "68/127,5"
+   },
+   "meta": {
+    "fore": "127.5",
+    "efter": "127,5"
+   },
+   "html": {
+    "fore": "127.5 mm axellängd. Maximal lastgräns är inte känd.</p><h2>Passar för</h2><ul>\n<li>Dig som söker ett vevlager med BSA-gänga</li>\n<li>Dig som söker ett vevlager för 68 mm skalbredd</li>\n<li>Dig som vill ha ett vevlager med fyrkantig axeltapp</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Vevlager</li>\n<li>Modell: Shimano BB-UN300</li>\n<li>Gänga: BSA</li>\n<li>Skalbredd: 68 mm</li>\n<li>Axellängd: 127.5",
+    "efter": "127,5 mm axellängd. Maximal lastgräns är inte känd.</p><h2>Passar för</h2><ul>\n<li>Dig som söker ett vevlager med BSA-gänga</li>\n<li>Dig som söker ett vevlager för 68 mm skalbredd</li>\n<li>Dig som vill ha ett vevlager med fyrkantig axeltapp</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Vevlager</li>\n<li>Modell: Shimano BB-UN300</li>\n<li>Gänga: BSA</li>\n<li>Skalbredd: 68 mm</li>\n<li>Axellängd: 127,5"
+   }
+  },
+  "skal": "Live: ACTIVE, 'Centerdrev Shimano BSA 127.5/68mm BB-UN300 Square', VMEBBUN300B27B/EAN 4550170619312, 269 kr, lager 24. EAN = BB-UN300 BSA 68 x 127,5 mm (D-EL), EBBUN300B27B: https://www.bike24.com/p2372410.html (bättre källa än p2372398 i att_bekrafta; bike-components listar inte 127,5). Rättning: decimalkomma som i 32010 (117,5); titeln får då 'BSA skal' utan komma för att hålla ≤2 kommatecken."
+ },
+ {
+  "nr": 32017,
+  "id": "10472240513290",
+  "fil": "k_32b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, VMEBBUN300C13X, lager 6, beskrivning 'Shimano BSA 113mm/73mm BB-UN300 Square centerkrok' ('centerkrok' rätt utelämnat). bike-components: BSA 73x113. Godkänd."
+ },
+ {
+  "nr": 32018,
+  "id": "10472240546058",
+  "fil": "k_32b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, VMEBBUN300C18X, lager 21. bike-components: BSA 73x118. Godkänd."
+ },
+ {
+  "nr": 32023,
+  "id": "10472243233034",
+  "fil": "k_32b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "BSA, skal 73 mm, axel 122.5",
+    "efter": "BSA skal 73 mm, axel 122,5"
+   },
+   "seo_title": {
+    "fore": "73/122.5",
+    "efter": "73/122,5"
+   },
+   "meta": {
+    "fore": "122.5",
+    "efter": "122,5"
+   },
+   "html": {
+    "fore": "122.5 mm axellängd. Maximal lastgräns är inte känd.</p><h2>Passar för</h2><ul>\n<li>Dig som söker ett vevlager med BSA-gänga</li>\n<li>Dig som söker ett vevlager för 73 mm skalbredd</li>\n<li>Dig som vill ha ett vevlager med fyrkantig axeltapp</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Vevlager</li>\n<li>Modell: Shimano BB-UN300</li>\n<li>Gänga: BSA</li>\n<li>Skalbredd: 73 mm</li>\n<li>Axellängd: 122.5",
+    "efter": "122,5 mm axellängd. Maximal lastgräns är inte känd.</p><h2>Passar för</h2><ul>\n<li>Dig som söker ett vevlager med BSA-gänga</li>\n<li>Dig som söker ett vevlager för 73 mm skalbredd</li>\n<li>Dig som vill ha ett vevlager med fyrkantig axeltapp</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Vevlager</li>\n<li>Modell: Shimano BB-UN300</li>\n<li>Gänga: BSA</li>\n<li>Skalbredd: 73 mm</li>\n<li>Axellängd: 122,5"
+   }
+  },
+  "skal": "Live: ACTIVE, 'Center chain SHIMANO BB-UN300 73/122.5mm', EBBUN300C23X/EAN 4550170622190, lager 29. Egen källa: 'Shimano BB-UN300 Vevlager - BSA 73mm - JIS Square Taper'. EAN = BSA 73 x 122,5 mm (ebikeparts.fi, mysport.lv). Marknadsföring och 'stabilisatorn' rätt utelämnade. Rättning: decimalkomma."
+ },
+ {
+  "nr": 32020,
+  "id": "10472241234186",
+  "fil": "k_32b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "BSA, skal 73 mm, axel 122.5",
+    "efter": "BSA skal 73 mm, axel 122,5"
+   },
+   "seo_title": {
+    "fore": "73/122.5",
+    "efter": "73/122,5"
+   },
+   "meta": {
+    "fore": "122.5",
+    "efter": "122,5"
+   },
+   "html": {
+    "fore": "122.5 mm axellängd. Maximal lastgräns är inte känd.</p><h2>Passar för</h2><ul>\n<li>Dig som söker ett vevlager med BSA-gänga</li>\n<li>Dig som söker ett vevlager för 73 mm skalbredd</li>\n<li>Dig som vill ha ett vevlager med fyrkantig axeltapp</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Vevlager</li>\n<li>Modell: Shimano BB-UN101</li>\n<li>Gänga: BSA</li>\n<li>Skalbredd: 73 mm</li>\n<li>Axellängd: 122.5",
+    "efter": "122,5 mm axellängd. Maximal lastgräns är inte känd.</p><h2>Passar för</h2><ul>\n<li>Dig som söker ett vevlager med BSA-gänga</li>\n<li>Dig som söker ett vevlager för 73 mm skalbredd</li>\n<li>Dig som vill ha ett vevlager med fyrkantig axeltapp</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Vevlager</li>\n<li>Modell: Shimano BB-UN101</li>\n<li>Gänga: BSA</li>\n<li>Skalbredd: 73 mm</li>\n<li>Axellängd: 122,5"
+   }
+  },
+  "skal": "Live: ACTIVE, 'Center chain Shimano BSA 122.5mm/73m BB-UN101 Square', VMABBUN101C23X, 99 kr, lager 39, ingen EAN. 73 x 122,5 finns för BB-UN101 (velonova.lt, bike.shimano.com BB-UN101). Rättning: decimalkomma."
+ },
+ {
+  "nr": 32014,
+  "id": "10472239857930",
+  "fil": "k_32b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 'Center chain Shimano BSA BB-MT800 68mm/73mm', VMIBBMT800B/EAN 4524667919957, 459 kr, lager 19. BB-MT800 = gängat Hollowtech II för 68/73 mm skal och 24 mm axel (Shimano, nashbar, muziker). Här är båda måtten skalbredd (att_bekrafta-raden om 'första måttet = axellängd' är kopierad och gäller inte, men texten är rätt). Godkänd."
+ },
+ {
+  "nr": 32022,
+  "id": "10472241627402",
+  "fil": "k_32b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 'Center chain Shimano BSA 83mm SM-BB52', VMESMBB52D/EAN 4524667351481, 319 kr, lager 60. EAN och ESMBB52D = SM-BB52 Hollowtech II BSA 83 mm, 24 mm axel (bike-discount.de, ugurbisiklet, mohlins.se 'Vevlager SM-BB52 BSA 83mm'). Godkänd."
+ },
+ {
+  "nr": 32021,
+  "id": "10472241266954",
+  "fil": "k_32b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 'Kassett Shimano 7s 11-28 CS-HG41-7 11-13-15-18-21-24-28 AC', VMACSHG417128, 199 kr, lager 50, tom beskrivning. Alla fakta i live-titeln; 'AC' rätt utelämnat; typordet Kassett är live-ordet. Kassetten klassades som bärande del i k_24c/k_9 och ingår därmed i v1.10-gruppen, så 'Ej känd'-raden följer beslutet (raden är föga meningsfull för en kassett; fråga till David om den ska stå på drivlinedelar). Godkänd."
+ }
+]

@@ -1,0 +1,47 @@
+[
+ {
+  "id": "10581101641994",
+  "nr": 32050,
+  "skäl": "Sju varianter med olika SKU, artiklar och priser (2 039–4 789 kr, till exempel 10CURVED, 15, 20COM, 20PRE, BH6, HB182); olika artiklar enligt v1.9. Källan är dessutom bara marknadstext utan mått."
+ },
+ {
+  "id": "10581102035210",
+  "nr": 32052,
+  "skäl": "Tunn källa (R3): bara marknadsföring (\"ultimata\", \"slitstarka\") utan mått, material eller andra entydiga fakta utöver titeln. Lastgräns hittades inte entydigt: enda webbträffen (80 kg, galaxus.ch) saknar artikelnummer och kan inte knytas till exakt modell 61239."
+ },
+ {
+  "id": "10581102231818",
+  "nr": 32053,
+  "skäl": "Två varianter med olika SKU och pris (15: 1 139 kr, 20: 1 449 kr) som är olika artiklar (olika vikt) enligt v1.9. Källan är dessutom bara marknadstext."
+ },
+ {
+  "id": "10581104394506",
+  "nr": 32054,
+  "skäl": "Titeln säger Golvstativ men varianterna är olika artiklar: FS (golvstativ, 4 539 kr) och WM (829 kr, troligen väggmontering). Olika artiklar enligt v1.9."
+ },
+ {
+  "id": "10581104853258",
+  "nr": 32055,
+  "skäl": "Tunn källa (R3/R5): nackskydd för tunga lyft där källan bara består av skydds- och trycklättnadspåståenden (\"maximal komfort och skydd\", \"minska trycket\") utan mått eller material; inga entydiga fakta utöver titeln."
+ },
+ {
+  "id": "10581105115402",
+  "nr": 32056,
+  "skäl": "Tunn och motsägelsefull källa (R3): bara marknadstext (\"mångsidig träningsstation\", \"solid konstruktion\"), inga mått, delar eller lastuppgift; produktens typ (kabelsystem/träningsstation) är oklar. Ingen text kan byggas utan gissning."
+ },
+ {
+  "id": "10581105541386",
+  "nr": 32057,
+  "skäl": "Reservdel med oklar funktion (koppling, sannolikt lastbärande) och tre varianter med olika SKU och priser (19, 1 499 och 29 kr: CON, Default, RFS) som uppenbart är olika artiklar (v1.9). Produkttypen är oklar."
+ },
+ {
+  "id": "10581105770762",
+  "nr": 32058,
+  "skäl": "Tunn källa (R3): bara marknadstext (\"robust\", \"säkert och stabilt fäste\") utan material, mått eller lastuppgift. Webbsökning (bygghemma.se, EAN 6430016903745) gav inga tekniska uppgifter eller lastgräns. Bärande fäste där \"Ej känd\" saknar annat innehåll att bygga text på."
+ },
+ {
+  "id": "10581105803530",
+  "nr": 32059,
+  "skäl": "Sex varianter med olika SKU och priser (899–2 999 kr: DB, PS, SA, 22S, 22WS, WB) som är olika artiklar (v1.9). Dipsstation som bär kroppsvikten; källan är bara marknadstext."
+ }
+]
