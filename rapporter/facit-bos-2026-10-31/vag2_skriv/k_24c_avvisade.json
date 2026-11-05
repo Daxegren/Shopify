@@ -1,0 +1,52 @@
+[
+ {
+  "id": "10472241168650",
+  "nr": 24085,
+  "skäl": "bärande utan svensk lastgräns: Vevlager BB-UN300; tom beskrivning, ingen lastgräns i egen källa."
+ },
+ {
+  "id": "10472241234186",
+  "nr": 24086,
+  "skäl": "bärande utan svensk lastgräns: Vevlager BB-UN101; tom beskrivning, ingen lastgräns i egen källa."
+ },
+ {
+  "id": "10472241266954",
+  "nr": 24087,
+  "skäl": "bärande utan svensk lastgräns: Kassett CS-HG41-7; tom beskrivning, ingen lastgräns i egen källa."
+ },
+ {
+  "id": "10472241627402",
+  "nr": 24088,
+  "skäl": "bärande utan svensk lastgräns: Vevlager SM-BB52; tom beskrivning, ingen lastgräns i egen källa."
+ },
+ {
+  "id": "10472243233034",
+  "nr": 24089,
+  "skäl": "bärande utan svensk lastgräns: Vevlager BB-UN300; källan har bara en kort beskrivning utan lastgräns."
+ },
+ {
+  "id": "10472244150538",
+  "nr": 24090,
+  "skäl": "bärande utan svensk lastgräns: Kedja HG53; källan (vikt, 116 länkar) saknar lastgräns."
+ },
+ {
+  "id": "10472244510986",
+  "nr": 24091,
+  "skäl": "bärande utan svensk lastgräns: Giant Mobility Kickstand; källan saknar lastgräns (och raden \"För ToRoad...\" är trasig)."
+ },
+ {
+  "id": "10472245362954",
+  "nr": 24092,
+  "skäl": "bärande utan svensk lastgräns: Stödben Hebie Fix 18; källan saknar lastgräns (\"Kraftig\" är inte en lastgräns)."
+ },
+ {
+  "id": "10472245428490",
+  "nr": 24093,
+  "skäl": "bärande utan svensk lastgräns: Stödben Hebie Abstellheld 18; källan saknar lastgräns (bara \"Tuff och stabil\", \"Stark och robust\")."
+ },
+ {
+  "id": "10472245526794",
+  "nr": 24095,
+  "skäl": "bärande utan svensk lastgräns: Stödben Hebie Fox Uni; källan saknar lastgräns."
+ }
+]

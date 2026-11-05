@@ -1,0 +1,116 @@
+[
+ {
+  "nr": 23037,
+  "id": "10475384930570",
+  "fil": "k_23d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Typordsbytet glidmedel -> Klister godtas. Live-titelns 'glidmedel' är sakligt fel: källtexten beskriver en fästvalla i tub för fästzonen ('greppsmörjning', 'klämmor', 'klinker' är maskinöversättningar av klister). Att behålla 'glidmedel' vore att skriva något fel (R2). varuste.net/sv/p68113 (öppnad 2026-11-05) säljer exakt 'Start Universal Wide Klister +10°...-5°C 55g' i kategorin Fästvallor > Klistervallor. Namn, temperaturområde och vikt är identiska, och det finns bara en Universal Wide 55 g. EAN saknas på sidan, men identiteten är entydig (v1.6/v1.7), och 9359 (Vikbart lås) är prejudikat för typord som belagts på nätet. Bruksanvisningens fem steg stämmer med varuste.net (steg 3–7). Basgreppssteget, som saknas där, är rätt utelämnat. Temperaturområde, 55 g och blandbarhet står i live. 'Enligt tillverkaren' förekommer 1 gång. Förslag: lägg in 'klister' i profilens godkanda_typord."
+ },
+ {
+  "nr": 23039,
+  "id": "10515737706762",
+  "fil": "k_23d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: 200 lumen, 'Vattentät enligt IPX7', indikator för batterinivå och automatisk ljussensor. Giants egen sida (giant-bicycles.com/cz/recon-tl-200-2020, öppnad 2026-11-05) har produktkod 400000166, samma som SKU. Den anger Li-Ion-polymer 1000 mAh, USB-laddkabel i förpackningen, 46 g inklusive fäste och 53 x 28 x 28 mm, och allt stämmer med utkastet. De trasiga raderna (IPSX/1 100 lumen, lumen per minut, hjälmlistan) och Giant-historiken är rätt utelämnade. Texten påstår inget om lagkrav. 'Enligt tillverkaren' förekommer 1 gång."
+ },
+ {
+  "nr": 23042,
+  "id": "10548235403530",
+  "fil": "k_23d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt står i live: 8 kg, svart, sandfylld, lätt att rengöra och finns i olika vikter. Materialet är rätt utelämnat, eftersom titeln säger PE och källtexten PVC (R2), och PE är struket ur titeln. Måttet 19 x 8 x 21,5 cm är rätt utelämnat, eftersom andra källor anger 22,8 x 18,2 x 26 cm. Taggen På beställning finns och leveranstidsmeningen är med (R13). Träningseffekts- och priståltext är utelämnad (R5)."
+ },
+ {
+  "nr": 23043,
+  "id": "10548235862282",
+  "fil": "k_23d_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt står i live: 10 kg, svart, sandfylld och (LWH) 25 x 20 x 28 cm. Måtten bekräftas av Galaxus och Velomarket (25 x 20 x 28 cm) och Decathlon (24,9 x 20 x 28,4), enligt sökning 2026-11-05. Den trasiga raden 'Varje LWH…' är rätt utelämnad (R2). Materialet (PE eller PVC) är rätt utelämnat, och PE är struket ur titeln. Taggen På beställning finns och meningen är med."
+ },
+ {
+  "nr": 23046,
+  "id": "10581101674762",
+  "fil": "k_23d_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "Ett par fjäderlås ingår men viktskivor ingår inte. Enligt tillverkaren är maxbelastningen 150 kg.</p>",
+     "efter": "Ett par fjäderlås ingår men viktskivor ingår inte.</p>"
+    },
+    {
+     "fore": "<li>Maxbelastning: 150 kg</li>\n",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Lastgränsen stryks. 150 kg står ordagrant på svenska med etikett hos Elgiganten ('Maximal kapacitet (kg): 150') och Bygghemma ('Max Belastning 150 Kg', 'Maxlast 150 kg'). Båda har EAN 6430062510546, och båda sidorna öppnade granskaren 2026-11-05. Ingen sida från Gymstick finns, och granskarens egen sökning gav ingen heller. Det räcker inte: (1) 'Enligt tillverkaren' vore ett påstående om en källa vi inte har, och en återförsäljares tabell är inte tillverkaren. (2) Alt A (2026-11-04) godtar lastgräns 'i produktens egen källa', och beslut 3 (v1.7) säger att R4 gäller oförändrad. Webbfaktakollen enligt v1.6/v1.7 lättar inte den särskilda lastgränsregeln. (3) Prejudikat 09b: Hammer Core 2.0, med lastgräns bara hos återförsäljare, skrevs inte. En lyftstång är ingen bärande eller hängande del i beslut 3:s mening, eftersom den inte bär kroppen. Skivstänger har skrivits utan maxvikt (alt A, f_10: 10235, 10238), så produkten kan skrivas utan lastgräns. Övrigt stämmer: 10 kg, 180 cm, stål (Elgiganten 'Steel'), krom (Bygghemma 'Färg: Krom'), ett par fjäderlås (båda sidorna) och 'vikter ingår ej' (Bygghemma). 'Marklyft till knäböj' och typordet lyftstång står i live (R7). Diametern 30 eller 31 mm är rätt utelämnad, eftersom källorna går isär. Om David godtar svenska återförsäljaruppgifter kan raden läggas tillbaka utan 'enligt tillverkaren'."
+ },
+ {
+  "nr": 23051,
+  "id": "10581105705226",
+  "fil": "k_23e_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<li>Max användarvikt: 110 kg (enligt tillverkaren)</li>\n",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Max användarvikt stryks av samma skäl som för 23046. 110 kg står på svenska med etikett bara hos Bygghemma ('Max användarvikt 110 Kg', öppnad 2026-11-05). Prisma ('max käyttäjäpaino 110 kg') är finsk. Ingen sida från Gymstick hittades. 'Enligt tillverkaren' saknar alltså grund, och Alt A kräver produktens egen källa. Motionscyklar skrivs utan användarvikt när den saknas (alt A), och cykeln hör inte till beslut 3:s bärande och hängande delar, så produkten kan skrivas. Övrigt stämmer med Bygghemma (EAN 6430016904117): magnetiskt motstånd, svänghjul 5 kg, vit/svart, 148 x 90 x 53 cm, display med tid, distans, hastighet, kalorier och puls. Handpedaler och fotpedaler står hos Prisma ('jalkapolkimien lisäksi polkimet myös käsille'), och Bygghemma säger att pedalerna kan användas med händerna. Typordet Motionscykel godtas: live säger 'träningscykel', men Motionscykel är synonymt, Bygghemma använder det för exakt modellen, och 10122 är prejudikat. Vikten och de 8 nivåerna är rätt utelämnade."
+ },
+ {
+  "nr": 23054,
+  "id": "10581111013642",
+  "fil": "k_23e_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Prisma (tuotekoodi 6430016905602, samma som variantens EAN, öppnad 2026-11-05) har ordagrant 'Säädettävä paino 2 - 36 kg (2 kg:n välein)', 'teräksiset painolevyt', 'Ergonominen teräskahva kumigripillä' och 'Myydään yksittäin'. Översättningarna är entydiga (R2). 'Kestävät' och 'ergonominen' är rätt strukna (R5). Typordet hantel står i live. Ingen lastgräns."
+ },
+ {
+  "nr": 23055,
+  "id": "10581111046410",
+  "fil": "k_23e_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Gigantti.fi (EAN 6430062515589, GY61032, öppnad 2026-11-05) anger 4,5–13,5 kg, viktlägena 4,5/7/9/11/13,5 kg, 'Quick-Lock mekanismi kahvakuulan yläosassa' och 30 x 18,3 x 22,4 cm. Allt stämmer med utkastet. 'Erittäin kestävä rakenne' är rätt utelämnat (R5), och inget material anges. Typordet Kettlebell står i live."
+ },
+ {
+  "nr": 23058,
+  "id": "10650167771402",
+  "fil": "k_23e_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Allt står i live: aluminiumlegering och silverfärgad. Det är två entydiga fakta utöver titeln och uppfyller minimikravet för tunn källa (R3). Ursprunget 'Tillverkad i Tyskland' är rätt struket (R5). Texten nämner inget pris: titel, SEO, meta och html är kontrollerade, och 9 eller kr förekommer inte. Priset 9 kr finns redan på listan över prisavvikelser (beslut 2026-11-04) och rörs inte. Artikelnumret 3199007 är variantens SKU."
+ },
+ {
+  "nr": 23060,
+  "id": "10676607189258",
+  "fil": "k_23e_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Samma produkt. Variantens EAN 3760004842576, som också finns i handle, är hos Rideside 'Ethic Scooter Stand 12 Standard' och hos Picar 'Ethic 12 Std Scooter Stand'. SkatePro kallar exakt 12 Std-versionen '12 Std Scooter Standpad' ('works with 30mm wide wheels', skatepro.ca/en/298-31241.htm, öppnad 2026-11-05). 'Stand Pad' är alltså Ethics eget namn och ingen annan produkt. Classic-versionen (24 mm) har ett annat EAN, 3760004842569 för Basic hos Picar. Plast, 30 mm (12STD), högst 125 mm och 1 st står hos Rideside. 'Durable' och 'säker' är rätt utelämnade (R5). OBS till David: butikspriset 1 409 kr är orimligt mot 2,95–9,95 € hos återförsäljarna. Det är en prisavvikelse som textutrullningen inte rör, men den bör läggas på prislistan."
+ },
+ {
+  "nr": 20023,
+  "id": "10581119336714",
+  "fil": "k_23e_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "David godkände 2026-11-05 att produkten skrivs utan lastgräns, och texten har ingen. Elgiganten (EAN 6430062515404, GY61336, öppnad 2026-11-05) anger två höjder, 28 cm bred, 68 cm lång och 3 kg, vilket stämmer. Aerobiska övningar och styrketräning står i live. 'Säker', 'robust' och 'stabilitet' är rätt utelämnade (R5). Typordet stepbräda finns i profilen."
+ },
+ {
+  "nr": 20047,
+  "id": "10636687606026",
+  "fil": "k_23e_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "David godkände 2026-11-05 att produkten skrivs utan '10kg'. Varken titel, SEO, meta eller html innehåller 10 kg eller någon last- eller bärförmåga. Upphängningen beskrivs bara med mått (65,5 x 59 x 49,5 cm, ordagrant ur live) och 'Fäste för speedbag: Plastfjädring', som är en komponentuppgift ur live utan påstående om bärförmåga eller säkerhet ('Högkvalitativ' är struket). Allt övrigt står ordagrant i live: konstläder, 18 cm, 25 cm, hålet i botten och vanlig bollpump. Träningseffekter är utelämnade (R5)."
+ }
+]
