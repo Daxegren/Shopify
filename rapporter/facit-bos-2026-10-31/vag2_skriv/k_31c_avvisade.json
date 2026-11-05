@@ -1,0 +1,52 @@
+[
+ {
+  "id": "10581112094986",
+  "nr": 31025,
+  "skäl": "Varianterna Default (249 kr) och SPR (299 kr, SKU 61141-SPR) är oförklarade och kan vara olika förpackningar eller utföranden; källan är tunn (en enda uppgift: smörjolja för löpband, inga mått, mängd eller typ). R3, tunn källa."
+ },
+ {
+  "id": "10581112815882",
+  "nr": 31026,
+  "skäl": "Varianterna S (1449 kr, SKU 61162-S) och Default (1899 kr, utan lager) är troligen olika storlekar på boxen, medan titeln låser måtten 50 x 45 x 40 cm; olika mått betyder olika artiklar. Källan är dessutom tunn (trä, box jumps, step-ups, dips) och är marknadsföringstext. R3."
+ },
+ {
+  "id": "10588451635466",
+  "nr": 31027,
+  "skäl": "Varianterna är kettlebells i olika vikter (olika artikel, olika pris 1599/1619 kr; vikten står bara som artikelnummer). Titeln anger dessutom 12 kg i handle men säljer flera vikter. v1.9: olika vikter avvisas."
+ },
+ {
+  "id": "10611414237450",
+  "nr": 31028,
+  "skäl": "37 varianter med priser från 419 till 149 989 kr (PRO-540M, PRO-514, PRO-PBAR m.fl.) är helt olika maskiner och tillbehör, inte samma artikel; titeln 4-Station Multi Gym stämmer inte med varianterna. Bärande och belastade maskiner utan svensk lastgräns. v1.9, R3."
+ },
+ {
+  "id": "10611414958346",
+  "nr": 31029,
+  "skäl": "31 varianter (AB, BB, BP7.0, HG3.0, HPR m.fl.) med priser 1079–15 589 kr är olika bänkar, rack och maskiner, inte samma artikel i olika färg eller storlek. Bänkar bär last och saknar svensk lastgräns. v1.9, R3."
+ },
+ {
+  "id": "10611418398986",
+  "nr": 31030,
+  "skäl": "Varianterna är viktskivor i 5, 10, 15, 20 och 25 kg (olika vikt, pris 459–1099 kr), medan titeln låser 10 kg. Olika vikter är olika artiklar. v1.9."
+ },
+ {
+  "id": "10611442188554",
+  "nr": 31031,
+  "skäl": "Varianterna är viktvästar på 2,5 kg (349 kr, slut i lager) och 5 kg (449 kr, 416 i lager), medan titeln låser 2,5 kg. Olika vikter är olika artiklar och de lagerförda är en annan vikt än titeln. v1.9, R3."
+ },
+ {
+  "id": "10636617875722",
+  "nr": 31032,
+  "skäl": "Nio varianter är olika set (4 x 0,5 kg upp till 2 x 20 kg, 449–1799 kr): olika vikt och olika antal skivor med olika mått är olika artiklar. v1.9. Texten är dessutom redan skriven och innehåller tillverkningsuppgifter för flera vikter."
+ },
+ {
+  "id": "10636696518922",
+  "nr": 31033,
+  "skäl": "Studsmatta/trampolin är på listan över säkerhetsprodukter (v1.9: trampoliner) och källan anger maxbelastning 150 kg i löptext utan etikett (R4). Varianterna är färgerna orange, rosa och blå med olika pris (1749/1799/1899 kr), men produkten avvisas som säkerhetsprodukt."
+ },
+ {
+  "id": "10650210468106",
+  "nr": 31034,
+  "skäl": "Varianterna 17360 (409 kr, 4 kg enligt titeln) och 17368 (1949 kr) är kettlebells i olika vikter (källan anger intervallet 4–24 kg), alltså olika artiklar; titeln låser 4 kg. v1.9: olika vikter avvisas."
+ }
+]
