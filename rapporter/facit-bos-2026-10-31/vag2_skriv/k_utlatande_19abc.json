@@ -1,0 +1,224 @@
+[
+ {
+  "nr": 20006,
+  "id": "10472245231882",
+  "fil": "k_19a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live (Default Title, SKU 920937) stämmer: pump, 65 cm och blå (titel och metafält), stolsanvändningen står i källan och har 'enligt tillverkaren'. Hälso-, hållnings- och anti-burst-påståenden är utelämnade. Typordet Gymnastikboll är live-ordet. Lastgräns saknas och lovas inte; gymnastikbollar har skrivits tidigare utan lastgräns."
+ },
+ {
+  "nr": 20015,
+  "id": "10581104263434",
+  "fil": "k_19b_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Väntar på Davids beslut: produkten bär användarens kroppsvikt och saknar svensk lastgräns. Tillverkarens sida anger lastgränsen bara på engelska, så den får inte skrivas (R4). Under v1.7 gäller att bärande delar utan ordagrann svensk lastgräns förblir avvisade, och stepbrädor/balansbrädor hålls enligt beslut-2026-11-02 punkt 2 och beslut-2026-11-03 punkt 4 (öppen fråga F11). Faktakollen på nätet (v1.6/v1.7) löser inte detta. Själva texten stämmer med gymstick.com/aerobic-stepper.html (SKU 62054, 63 x 25 x 12 cm, 2,9 kg, PP, 12/17/22 cm, Black-Pink).",
+  "rattningar_vid_frislappning": {
+   "meta": {
+    "fore": "Stepbräda av PP-plast från Gymstick med tre höjdlägen: 12, 17 och 22 cm.",
+    "efter": "Stepbrädan från Gymstick är gjord av PP-plast och kan ställas i tre höjdlägen: 12, 17 och 22 cm."
+   }
+  }
+ },
+ {
+  "nr": 20016,
+  "id": "10581104787722",
+  "fil": "k_19b_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Väntar på Davids beslut: produkten bär användarens kroppsvikt och saknar svensk lastgräns. Tillverkarens sida anger lastgränsen bara på engelska, så den får inte skrivas (R4). Under v1.7 gäller att bärande delar utan ordagrann svensk lastgräns förblir avvisade, och stepbrädor/balansbrädor hålls enligt beslut-2026-11-02 punkt 2 och beslut-2026-11-03 punkt 4 (öppen fråga F11). Faktakollen på nätet (v1.6/v1.7) löser inte detta. Den här produkten underkändes också i c_5 (3063) av samma skäl. Fakta stämmer med gymstick.com/balance-board.html (SKU 62015, 36 x 36 x 5 cm, 0,56 kg, PP, Black-Red). Typordet Balansbräda är butikens live-ord (Tunturi och Toorx) och godtas enligt R7.",
+  "rattningar_vid_frislappning": {
+   "meta": {
+    "fore": "Balansbräda av PP-plast från Gymstick i svart och rött.",
+    "efter": "Balansbrädan från Gymstick är gjord av PP-plast och är svart och röd."
+   }
+  }
+ },
+ {
+  "nr": 20017,
+  "id": "10581105082634",
+  "fil": "k_19b_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Väntar på Davids beslut: handlindor står bland de skyddsprodukter som hålls utanför (beslut-2026-11-03 punkt 4, underkänd i c_5 som 3071) och inget beslut finns i BESLUTSLOGG. Själva texten har inga skyddspåståenden och stämmer med gymstick.com/boxing-hand-wraps.html (SKU 61182, 350 x 5 cm, 70 % bomull och 30 % polyester, tumögla och kardborreband, Black-Red).",
+  "rattningar_vid_frislappning": {
+   "meta": {
+    "fore": "Gymstick Boxing Hand Wraps är handlindor på 350 x 5 cm",
+    "efter": "Handlindorna Gymstick Boxing Hand Wraps mäter 350 x 5 cm och är gjorda"
+   },
+   "html": {
+    "fore": "<p>Gymstick Boxing Hand Wraps är handlindor på 350 cm i längd och 5 cm i bredd.",
+    "efter": "<p>Handlindorna Gymstick Boxing Hand Wraps är 350 cm långa och 5 cm breda."
+   }
+  }
+ },
+ {
+  "nr": 20018,
+  "id": "10581105213706",
+  "fil": "k_19b_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Väntar på Davids beslut: samma produkt som 9897, som hålls tillbaka i k_vantar_11d_bandage.json. Beslutsunderlaget beslut-2026-11-04-8 rekommenderar att skriva den, men David har inte svarat och inget beslut finns i BESLUTSLOGG. Tillverkaren (gymstick.com/cohesive-bandage-tape-2pcs.html, SKU 63041-TU) skriver 'medical non-wovens fabric' och 'medical grade acrylic adhesive' och placerar produkten under Sport Supports > Recovery. Texten har inga medicinska påståenden eller skyddspåståenden, och 75 mm, 400 cm, 2 st, polypropylen och elastan samt turkos stämmer. Kan skrivas oförändrad om David säger ja."
+ },
+ {
+  "nr": 20020,
+  "id": "10581110554890",
+  "fil": "k_19b_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Väntar på Davids beslut: produkten bär användarens kroppsvikt och saknar svensk lastgräns. Tillverkarens sida anger lastgränsen bara på engelska, så den får inte skrivas (R4). Under v1.7 gäller att bärande delar utan ordagrann svensk lastgräns förblir avvisade, och stepbrädor/balansbrädor hålls enligt beslut-2026-11-02 punkt 2 och beslut-2026-11-03 punkt 4 (öppen fråga F11). Faktakollen på nätet (v1.6/v1.7) löser inte detta. Tillverkarens sida (pro-step-black.html, SKU 61054BL) anger ingen lastgräns alls. Höjder 15/20/25 cm, 8 kg och gummiyta stämmer.",
+  "rattningar_vid_frislappning": {
+   "meta": {
+    "fore": "Svart stepbräda från Gymstick med gummibelagd yta och tre höjdlägen: 15, 20 och 25 cm.",
+    "efter": "Den svarta stepbrädan från Gymstick har gummibelagd yta och kan ställas i tre höjdlägen: 15, 20 och 25 cm."
+   }
+  }
+ },
+ {
+  "nr": 20021,
+  "id": "10581110587658",
+  "fil": "k_19b_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Väntar på Davids beslut: produkten bär användarens kroppsvikt och saknar svensk lastgräns. Tillverkarens sida anger lastgränsen bara på engelska, så den får inte skrivas (R4). Under v1.7 gäller att bärande delar utan ordagrann svensk lastgräns förblir avvisade, och stepbrädor/balansbrädor hålls enligt beslut-2026-11-02 punkt 2 och beslut-2026-11-03 punkt 4 (öppen fråga F11). Faktakollen på nätet (v1.6/v1.7) löser inte detta. Max user weight 120 kg står bara på engelska (pro-step-grey-black.html, SKU 61054G). PP 62 %, TPR 38 %, 15/20/25 cm och 8 kg stämmer.",
+  "rattningar_vid_frislappning": {
+   "meta": {
+    "fore": "Grå och svart stepbräda från Gymstick av PP och TPR med gummibelagd plattform",
+    "efter": "Stepbrädan från Gymstick är grå och svart, gjord av PP och TPR och har gummibelagd plattform"
+   }
+  }
+ },
+ {
+  "nr": 20022,
+  "id": "10581112750346",
+  "fil": "k_19b_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Väntar på Davids beslut: produkten bär användarens kroppsvikt och saknar svensk lastgräns. Tillverkarens sida anger lastgränsen bara på engelska, så den får inte skrivas (R4). Under v1.7 gäller att bärande delar utan ordagrann svensk lastgräns förblir avvisade, och stepbrädor/balansbrädor hålls enligt beslut-2026-11-02 punkt 2 och beslut-2026-11-03 punkt 4 (öppen fråga F11). Faktakollen på nätet (v1.6/v1.7) löser inte detta. Max user weight 120 kg står bara på engelska. Fråga 3,2 kg: tillverkaren (wooden-balance-board.html, SKU 61131) anger 'Product (kg) 3.2' (förpackningen 3,6 kg) och 'Contains two parts board and roller'. Vikten gäller alltså produkten, det vill säga bräda och rulle, och 'produkten väger 3,2 kg' är korrekt. Livetexten använder ordet 'balansbräde'; Balansbräda är butikens live-ord och godtas.",
+  "rattningar_vid_frislappning": {
+   "meta": {
+    "fore": "Balansbräda i trä med rulle från Gymstick.",
+    "efter": "Balansbrädan från Gymstick är gjord i trä och levereras med rulle."
+   }
+  }
+ },
+ {
+  "nr": 20023,
+  "id": "10581119336714",
+  "fil": "k_19c_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Väntar på Davids beslut: produkten bär användarens kroppsvikt och saknar svensk lastgräns. Tillverkarens sida anger lastgränsen bara på engelska, så den får inte skrivas (R4). Under v1.7 gäller att bärande delar utan ordagrann svensk lastgräns förblir avvisade, och stepbrädor/balansbrädor hålls enligt beslut-2026-11-02 punkt 2 och beslut-2026-11-03 punkt 4 (öppen fråga F11). Faktakollen på nätet (v1.6/v1.7) löser inte detta. Dessutom är källan tunn: bara märke, namn och användning, och Gymsticks egen sida för SKU 61336 hittades inte. Återförsäljare anger 68 x 28 cm och 10/15 cm men utan artikelnummer, så de räknas inte som entydig källa. Om David frisläpper stepbrädor ska den cirkulära metan och inledningen rättas enligt rattningar_vid_frislappning.",
+  "rattningar_vid_frislappning": {
+   "meta": {
+    "fore": "Gymstick Vivid Step Board är en stepbräda från Gymstick för träning, till exempel aerobiska övningar och styrketräning.",
+    "efter": "Stepbrädan Gymstick Vivid Step Board används vid träning, till exempel aerobiska övningar och styrketräning."
+   },
+   "html": {
+    "fore": "<p>Gymstick Vivid Step Board är en stepbräda för träning,",
+    "efter": "<p>Stepbrädan Gymstick Vivid Step Board används vid träning,"
+   }
+  }
+ },
+ {
+  "nr": 20024,
+  "id": "10581606629642",
+  "fil": "k_19c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Giant AnyTour CS 2 GB är en stadscykel med aluminiumram,",
+    "efter": "Stadscykeln Giant AnyTour CS 2 GB har aluminiumram,"
+   },
+   "html": {
+    "fore": "<p>Giant AnyTour CS 2 GB är en stadscykel i färgen Stealth Chrome med aluminiumram,",
+    "efter": "<p>Stadscykeln Giant AnyTour CS 2 GB i färgen Stealth Chrome har aluminiumram,"
+   }
+  },
+  "skal": "Den cirkulära inledningen rättas i meta och i första meningen (R11). Belysningen: 7124/9113 underkändes för att 'leverantörens besked' saknades. David har sedan beslutat (BESLUTSLOGG 2026-11-04) att leverantören inte bekräftar något och att vi faktakollar, och belysning är frisläppt i faktatextläge (§16). Giants sida och vaxelsystem_webbsok anger en dynamonav (DH3D37QR) och B&M-lampor utan batteri. Texten säger bara att fram- och bakljus ingår och lovar ingenting om ljuset, på samma sätt som den redan skrivna 9114 (AnyTour RS 3). Nexus 8 (navet SG-C6001-8D) är mekanisk; texten påstår inget om växlingstyp. Gates remdrift, MT200, dämpad sadelstolpe och P-X3 700x45 med reflexrand finns i livekällan. Taggen 'På beställning' finns och leveranstidsmeningen ingår. 'Stadscykel' står i källtexten (R7). Ramstorleken är rätt utelämnad (Default Title). Om David vill se 7124 före skrivning, flagga den i beslutsunderlaget."
+ },
+ {
+  "nr": 20025,
+  "id": "10636601458954",
+  "fil": "k_19c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "MAXXUS",
+    "efter": "Maxxus"
+   },
+   "seo_title": {
+    "fore": "MAXXUS",
+    "efter": "Maxxus"
+   },
+   "meta": {
+    "fore": "MAXXUS",
+    "efter": "Maxxus"
+   },
+   "html": [
+    {
+     "fore": "<p>MAXXUS Vatten och Luft är en boxningssäck i PVC med 7 mm materialtjocklek.",
+     "efter": "<p>Boxningssäcken Maxxus Vatten och Luft är tillverkad i PVC med 7 mm materialtjocklek."
+    },
+    {
+     "fore": "<li>Märke: MAXXUS</li>",
+     "efter": "<li>Märke: Maxxus</li>"
+    }
+   ]
+  },
+  "skal": "Märket ska skrivas 'Maxxus' enligt R8, som i de skrivna 9876 med flera (k_utlatande_11d). MAXXUS finns inte bland undantagen i profilen. Den cirkulära inledningen rättas (R11). Fakta (PVC 7 mm, vatten och luft, 30 cm, 150 cm, pump ingår ej) stämmer med livekällan, och 30 kg är rätt utelämnat (fyllnadsmängd, R4). Säcken är ingen hängande del; upphängning ingår inte och nämns inte."
+ },
+ {
+  "nr": 20027,
+  "id": "10636602802442",
+  "fil": "k_19c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Livekällan har ordagrant 'Maxbelastning: 220kg' (balanskudde) och 'Maxbelastning: 120kg' (balansplatta), på svenska, med etikett och enhet. Varje värde står en gång med 'enligt tillverkaren', alltså två i hela texten (R4, R5). Motstånden i kg är inga lastgränser, och lb är rätt utelämnat. Rehab-, skadeförebyggande- och halkfri-påståenden är utelämnade. Övriga uppgifter stämmer med livekällan."
+ },
+ {
+  "nr": 20032,
+  "id": "10636620398858",
+  "fil": "k_19c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Yogapaket med yogamatta 190x60 cm, yogablock i EVA-skum och yogaboll med 65 cm diameter. Pump medföljer. Färg rosa på matta och block.",
+    "efter": "Yogapaketet innehåller yogamatta 190x60 cm, yogablock i EVA-skum och yogaboll med 65 cm diameter. Bollen levereras med pump och alla delar är rosa."
+   },
+   "html": [
+    {
+     "fore": "Matta och block är rosa,",
+     "efter": "Matta, block och boll är rosa,"
+    },
+    {
+     "fore": "maxbelastning 150 kg enligt tillverkaren",
+     "efter": "maximal belastning 150 kg enligt tillverkaren"
+    },
+    {
+     "fore": "maxbelastning 500 kg enligt tillverkaren",
+     "efter": "maximal belastning 500 kg enligt tillverkaren"
+    },
+    {
+     "fore": "pump ingår</li>",
+     "efter": "pump ingår, färg rosa</li>"
+    }
+   ]
+  },
+  "skal": "Metan saknar verb (R11). Källan säger ordagrant 'Maximal belastning: 150kg' och '500kg'. Etiketten återges nu exakt, och de står en gång var med 'enligt tillverkaren' (R4). Utkastarens anteckning att bollens färg står på en avkortad rad stämmer inte: livekällan har 'Yogaboll: … Färg: Rosa'. Bollens färg läggs därför till. Mattans mått, vikt och material samt blockets mått stämmer."
+ },
+ {
+  "nr": 20033,
+  "id": "10636624167178",
+  "fil": "k_19c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Pilatesset med justerbar pilatesstång 90–100 cm,",
+    "efter": "Pilatessetet innehåller en justerbar pilatesstång på 90–100 cm,"
+   }
+  },
+  "skal": "Metan saknar verb (R11). Antalet band är rätt utelämnat eftersom källan motsäger sig själv (R2). Färgerna grå 13 kg, svart 18 kg och röd 23 kg står i källans brödtext; motståndet i kg är ingen lastgräns. 90–100 cm, tre delar, 2 hand- och fotremmar, dörrankare, bärväska och 1,5 kg stämmer."
+ }
+]
