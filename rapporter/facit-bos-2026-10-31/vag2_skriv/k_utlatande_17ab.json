@@ -1,0 +1,55 @@
+[
+ {
+  "nr": 9655,
+  "id": "10411857641738",
+  "fil": "k_17a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Exercise Wheel Tunturi Deluxe",
+    "efter": "Träningshjul Tunturi Exercise Wheel Deluxe"
+   },
+   "seo_title": {
+    "fore": "Exercise Wheel Tunturi Deluxe",
+    "efter": "Träningshjul Tunturi Exercise Wheel Deluxe"
+   },
+   "html": {
+    "fore": "Dig som vill ha ett Exercise Wheel med dubbelt hjul",
+    "efter": "Dig som vill ha ett träningshjul med dubbelt hjul"
+   }
+  },
+  "skal": "Live (ACTIVE, en variant Default Title, SKU TS14TUSFU270, 149 kr): titeln TUNTURI Exercise Wheel Deluxe, men källtexten säger 'Tunturi Double Exercise Wheel'. Tunturis sida tunturi.com/en/go/product/97611798 (öppnad) gäller artikel 14TUSFU270 = SKU utan TS och heter Exercise Wheel Deluxe: dubbelt massivt hjul, skumhandtag, matta/knäskydd ingår, 26 x 23 x 60 cm, 0,650 kg, syntet. Tunturis Double Exercise Wheel (tunturi.com/en/double-exercise-wheel.html, öppnad) är 14TUSCL245, 18,5 x 24 x 18,5 cm, 0,58 kg, ingen knämatta; den är redan skriven i butiken (10472215347466). Källtextens fakta (knämatta, 26 x 23 x 60 cm) stämmer med Deluxe, inte med Double, så namnet i källtexten är ett leverantörsfel och titelns modell är rätt (R1 v1.6/v1.7). Typordet: 'Exercise Wheel Tunturi Deluxe' delar modellnamnet Exercise Wheel Deluxe och har engelskt typord. R7 tillåter en entydig översättning när butikens live-ord har den: 'Träningshjul' används live för Gymstick Pro Exercise Wheel (10581110161674) och Toorx (10472279867658). Rättat till Träningshjul + märke + hela modellnamnet (42 tecken, ryms i SEO-titeln). Tunturis syskon (Double Exercise Wheel, Pro Exercise Wheel Deluxe) heter Magträningshjul; vill koordinatorn ha det ordet i stället är det också försvarbart, men Träningshjul är den direkta översättningen. Föreslå 'träningshjul' i profilens godkanda_typord. 'Enligt tillverkaren ... muskler och balans' står i källan, en gång (R5). Halkskydd rätt utelämnat. Ingen dubblett: Pro Exercise Wheel Deluxe (14TUSFU194) och Double Exercise Wheel (14TUSCL245) är andra artiklar."
+ },
+ {
+  "nr": 10112,
+  "id": "10462795202826",
+  "fil": "k_17a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live (ACTIVE): varianterna Default Title 10 239 kr och L / must 9 509 kr har samma SKU 28201502-C; Default Title är överbliven (v1.7), så titeln saknar färg och pris och texten nämner varken färg, storlek eller pris. Taggar utan På beställning: ingen leveranstidsmening, rätt. Modellen: källtexten säger 'Art Deco Eco Lux' men specifikationen i samma källa (aluminiumram, Shimano Nexus 7, 7 växlar, V-broms + fotbroms, ca 17 kg) stämmer med Romet Art Deco Lux och inte med Art Deco Eco. Sportanos sida för Romet Art Deco Lux svart (sportano.com/p/81718/..., öppnad) anger aluminium, 7 växlar, Shimano Nexus 7 bakre nav, Promax V-broms och torpedbroms, 17,2 kg. Romet Art Deco Eco (centrumrowerowe.pl pd27690, öppnad) är en annan modell: Nexus 3 växlar, 16 kg, fjädrande gaffel, batteribelysning. 'Eco Lux' är alltså en sammanblandning i leverantörstexten och titelns 'Lux' är rätt modell. Velomarkets egen sida gav HTTP 403 och kunde inte öppnas. Alla påståenden i texten finns i den egna källan (stänkskärmar i metall, stöd, kedjeskydd, fram- och bakljus, dold navväxling); främre korg stöds av titeln, taggen Cykelkorg och tvillingens källa. Utelämnanden (ramstorlek, ryttarhöjd, 'främre hjälm', Tillverkad i EU, komfort) är rätt (R2, R5). Dubbletter: blå Art Deco Lux 10472332329226 är skriven med annan färg och SKU; svart tvilling 10474077847818 (SKU 2228549) är DRAFT och oskriven och får inte skrivas senare. Ingen SEO-krock: 'Damcykel Romet Art Deco Lux' är unik mot 'Damcykel Romet Art Deco Lux, Blå'."
+ },
+ {
+  "nr": 9430,
+  "id": "10472238874890",
+  "fil": "k_17b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live (ACTIVE, en variant, SKU VMCO0181121, 89 kr): titeln 'Compact 16 PV 42mm, 32/47-305/349', beskrivningen bara 'Presta-ventil. Storlek: 26 tum.' 26 tum motsäger 16 och ETRTO 305/349 och är rätt utelämnat. reifen.com (öppnad) för 'Continental Compact Tube 16\" S42 RE 32/47-305/349', tillverkarens artikelnr 01811210000 (= SKU utan VMCO), anger Presta, 42 mm, 16 tum, svart och ETRTO-listan 32-305 till 47-305 och 32-349 till 47-349. ETRTO 32/47-305/349 och 42 mm stämmer därmed med både titel och nätkälla och är inte gissade. Vikt rätt utelämnad. Ingen dubblett: Compact 16 AV (10472238809354, SKU VMCO0181091) har autoventil och är inte skriven."
+ },
+ {
+  "nr": 9433,
+  "id": "10470898827530",
+  "fil": "k_17b_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Dubblett (R12a). Måtten är i sig rätt lösta: rubbex.com (reifen.com omdirigerar dit, öppnad) för EAN 4019238651225, artikelnr 01823510000 (= SKU VMCO0182351), anger Continental MTB Tube 27.5\" S42 47/62-584, Presta 42 mm, ETRTO 47-584 till 62-584; bike-components.de (öppnad) anger samma för Presta 42 mm, butyl. Men bikable.com (öppnad) visar att 0182351 (samma EAN) är 'Continental Tube 27,5\" x 1.75-2.50\" with presta valve without box', alltså samma slang som 0182311 utan förpackning, vilket stämmer med live-titelns 'löst'. 0182311 finns redan skriven i butiken: 'Innerslang Continental MTB 27,5 tum, Presta 42 mm' (10472239333642, SKU VMCO0182311, ACTIVE, skriven i facit batch2_b, se b_33_avvisade.json). Samma modell, samma ventil, samma ETRTO och samma (svarta) slang: dubblett enligt R12a. Den föreslagna titeln skulle dessutom bli nästan lika den skrivna. Om David vill ha båda annonserna kvar behövs ett beslut om hur den oförpackade varianten ska skiljas åt (till exempel 'utan förpackning'); då får texten skrivas om. Notera: 10472239333642 saknar taggen texter-klara trots att den är skriven."
+ },
+ {
+  "nr": 10121,
+  "id": "10472239005962",
+  "fil": "k_17b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live (ACTIVE, en variant, SKU VMCO0181521, 99 kr): titeln '37/47-559/597', beskrivningen 'ETRTO: 37-559 -> 47-559/44-590, Ventil: Presta, Färg: Svart'. reifen.com (öppnad) för artikelnr 01815210000 (= SKU utan VMCO), EAN 4019238556612, anger Presta, 42 mm, 26 tum, svart och ETRTO 37-559, 40-559, 42-559, 44-559, 47-559 samt 37-590, 42-590. 37-559 till 47-559 stämmer därmed med både egen källa och nätkälla; 590-delen och titelns 597 är rätt utelämnade (motsägelse, R2). 42 mm och 26 tum från nätkällan som entydigt gäller exakt artikeln (v1.6/v1.7). Svart står i egen källa. Ingen dubblett: Tour 26 AV (10472238907658) är DRAFT med autoventil, Tour 26 Wide (10472239202570, skriven) är 47/62-559, en annan artikel."
+ }
+]

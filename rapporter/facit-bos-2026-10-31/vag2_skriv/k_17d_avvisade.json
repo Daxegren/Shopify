@@ -1,0 +1,47 @@
+[
+ {
+  "id": "10472278163722",
+  "nr": 10123,
+  "skäl": "R3: två varianter med olika SKU och olika pris (30-1872 439 kr, 30-1873 589 kr); titeln låser 2 x 3 kg och källan skiljer inte varianterna åt. v1.7 gäller bara samma SKU med överbliven Default Title."
+ },
+ {
+  "id": "10472286290186",
+  "nr": 9464,
+  "skäl": "Tunn källa (R3): live-källan är tom, bara titeln. Tidigare webbsökning (k_07c) gav ingen sida som entydigt gäller färgsättningen \"Bench\" (v1.6: utelämna). Oförändrat."
+ },
+ {
+  "id": "10472287371530",
+  "nr": 10570,
+  "skäl": "R3: två varianter med olika SKU och pris (AHF-071 99 kr, AHF-072 139 kr) som källan inte skiljer åt; titeln 2 x 0,5 kg kan inte låsas."
+ },
+ {
+  "id": "10472289075466",
+  "nr": 10131,
+  "skäl": "R3/R2: fem varianter med olika SKU och pris (59-439 kr) som bara heter artikelnummer; titeln låser blå, 30 mm, 10 kg medan källan anger borrdiameter 29 mm."
+ },
+ {
+  "id": "10472289861898",
+  "nr": 10317,
+  "skäl": "R3/R2: två varianter med olika SKU och pris (14TUSCL454 639 kr, 14TUSCL455 1 479 kr); källan motsäger sig (viktsumma, mått 114 x 114 cm - 114,5 cm)."
+ },
+ {
+  "id": "10472289927434",
+  "nr": 8309,
+  "skäl": "Dubblett (R12a): samma modell (Astra Skin 25 Med) som redan skrivna, aktiva 10471008796938 (live-titel Klassiska Skidor Peltonen Astra Skin 25 Med, klar). Denna har SKU 21AI925100-180; längden 180 cm står bara i SKU, inte i källan, så en unik titel går inte att skriva utan att tolka SKU:n."
+ },
+ {
+  "id": "10472297300234",
+  "nr": 10114,
+  "skäl": "R3: Default Title (SKU 28201899-A, 9 979 kr) och M / yellow (SKU 28181898-A, 8 679 kr) har olika SKU och pris; v1.7 gäller bara samma SKU. Källans storlekar M och L stämmer inte med varianten."
+ },
+ {
+  "id": "10472294842634",
+  "nr": 9401,
+  "skäl": "Tunn källa (R3): live-källan är \"Stativ för ADO Air Carbon-modellen\". Tillverkarens sida (adoebike.com/products/ado-air-carbon-kickstand) har ingen beskrivning eller specifikation, bara titeln. Inga andra entydiga webbkällor om materialet eller passformen; minst två fakta utöver titeln saknas."
+ },
+ {
+  "id": "10472296808714",
+  "nr": 9506,
+  "skäl": "Tunn källa (R3): live-källan är bara \"2x5 kg\"; dessutom står produkten i handhavd_ids.txt (beslut 2026-11-02, ej hävt). Ingen webbkoll gjord."
+ }
+]
