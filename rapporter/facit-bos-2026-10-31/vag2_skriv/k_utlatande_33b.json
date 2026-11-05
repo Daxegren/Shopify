@@ -1,0 +1,128 @@
+[
+ {
+  "nr": 33012,
+  "id": "10472270004490",
+  "fil": "k_33b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Koffeintabletter Trec Essensey Caffeine, 120 kapslar",
+    "efter": "Koffein Trec Essensey Caffeine, 120 kapslar"
+   },
+   "seo_title": {
+    "fore": "Koffeintabletter Trec Essensey Caffeine",
+    "efter": "Koffein Trec Essensey Caffeine"
+   }
+  },
+  "skal": "Live: ACTIVE, SKU 21370, 119 kr, lager 12, productType Kosttillskott. Ingredienser, 40 % vattenfritt koffein, 10 % grapefruktextrakt (98 % naringenin), 1 kapsel per dag, användning, varningar och förvaring stämmer ordagrant. Allergenraden (\"kan innehålla mjölk, soja, vete ...\") har inget stöd i ingredienslistan och är rätt utelämnad. Energi-, skärpe- och antioxidantpåståendena är borta. Rättning: live-ordet \"Koffeintabletter\" säger emot \"120 kapslar\" i samma titel och källans \"kapselskal\" (R2, motsägelse ska inte föras vidare). \"Koffein\" står i källtexten (\"en stark dos koffein\"), så typordet får bytas (R7), som Kreatin i 30010. Typordet är inget effektord. Koffeinhalten per kapsel anges inte och har rätt inte räknats ut. Lagligt i Sverige: koffein är tillåtet i kosttillskott. Varningen för barn, gravida och ammande finns. \"halsa\" från kontrollscriptet på koffein är ett känt falsklarm. Titeln har 43 tecken, SEO-titeln 30, och båda är unika."
+ },
+ {
+  "nr": 33013,
+  "id": "10472277180682",
+  "fil": "k_33b_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Kan vara otillåtet i Sverige: glukosamin är klassat som läkemedel av Läkemedelsverket. Riksdagen skriftlig fråga 2000/01:1500 med svar 2001-07-24 (https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/glukosamin_go111500/): \"Läkemedelsverket har beslutat att produkter som innehåller glukosamin ska klassificeras som läkemedel\"; Läkemedelsvärlden 2003-08-07 (https://www.lakemedelsvarlden.se/halsokostaffarer-saljer-ater-glukosamin/): fortsatt försäljning i hälsokostbutik kallas av Läkemedelsverket \"en överträdelse av läkemedelslagen\"; godkända glukosaminläkemedel finns (Glucomed, Glucosamine Navamedic, docetp.mpa.se). Ingen senare ändring av klassningen hittades, men inget beslut nyare än 2010 hittades heller. Produkten är en glukosaminprodukt i namnet, med glukosaminsulfat 2 KCl 31,3 % och 4 kapslar per dag, och den säljs som kosttillskott. Att skriva om texten ändrar inte klassningen, men vi bör inte lägga arbete på eller marknadsföra en produkt som kan vara ett oregistrerat läkemedel. David behöver besluta (fråga Läkemedelsverket eller låta bli). Själva utkastet är rent: mängder, dos och varningar stämmer mot live (ACTIVE, SKU 21734, lager 5), och allergenraden är rätt utelämnad. Släpps produkten ska typordet \"Mineral\" ändå bytas, eftersom glukosamin, kondroitin och MSM inte är mineraler och det är vilseledande. Förslag: \"Kosttillskott\" efter productType, som 33014."
+ },
+ {
+  "nr": 33014,
+  "id": "10472277213450",
+  "fil": "k_33b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Mineral kapslar Trec Essensey Hyaluronic Acid, 90 kapslar",
+    "efter": "Kosttillskott Trec Essensey Hyaluronic Acid, 90 kapslar"
+   },
+   "seo_title": {
+    "fore": "Mineral kapslar Trec Hyaluronic Acid",
+    "efter": "Kosttillskott Trec Hyaluronic Acid"
+   }
+  },
+  "skal": "Live: ACTIVE, SKU 21744, 159 kr, lager 7. Ingredienser, 1 kapsel per dag och 30 minuter före måltid, varningar och förvaring stämmer. Brosk-, led-, hud-, kollagen- och biotillgänglighetspåståendena är borta. Ingen mängd per kapsel anges, så C-vitaminpåståendet har rätt inte tagits med. Rättning: typordet \"Mineral kapslar\" är fel i sak. Ingredienslistan innehåller inget mineral, så ordet ger en vilseledande bild av vad produkten är (1169/2011 art. 7). \"Kapslar\" står dessutom två gånger i titeln, och \"Mineral kapslar\" är särskrivet. Källtexten säger \"är ett kosttillskott\", så \"Kosttillskott\" får användas (R7, som 30007). Kondroitin och hyaluronsyra: ingen svensk läkemedelsklassning hittades. Titeln har 55 tecken, SEO-titeln 34, och båda är unika."
+ },
+ {
+  "nr": 33015,
+  "id": "10472277311754",
+  "fil": "k_33b_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Innehåller glukosaminsulfat 2KCl (ingredienslistan), och samma läkemedelsklassning som för 33013 gäller: Riksdagen skriftlig fråga 2000/01:1500 med svar 2001-07-24 (https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/glukosamin_go111500/): \"Läkemedelsverket har beslutat att produkter som innehåller glukosamin ska klassificeras som läkemedel\"; Läkemedelsvärlden 2003-08-07 (https://www.lakemedelsvarlden.se/halsokostaffarer-saljer-ater-glukosamin/): fortsatt försäljning i hälsokostbutik kallas av Läkemedelsverket \"en överträdelse av läkemedelslagen\"; godkända glukosaminläkemedel finns (Glucomed, Glucosamine Navamedic, docetp.mpa.se). Ingen senare ändring av klassningen hittades, men inget beslut nyare än 2010 hittades heller. Ska bedömas tillsammans med 33013. Annars är utkastet rent mot live (ACTIVE, SKU 17597, 269 kr, lager 11): 15 g (2,5 skopor) i 200 ml, 1 portion per dag, ingredienslistan med fisk och gelatin, och kollagenbildnings-, ben-, rörlighets- och antiinflammationspåståendena är borta. Släpps produkten behövs en rättning: metans första mening \"Kosttillskott i pulverform med smak av jordgubb och vanilj.\" saknar verb (R11). Förslag: \"Trec TBL Flexi Move är ett kosttillskott i pulverform med smak av jordgubb och vanilj. ...\""
+ },
+ {
+  "nr": 33018,
+  "id": "10472280719626",
+  "fil": "k_33b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Adaptogen Trec Essensey Bacopa Monnieri, 90 kapslar",
+    "efter": "Kosttillskott Trec Essensey Bacopa Monnieri, 90 kapslar"
+   },
+   "seo_title": {
+    "fore": "Adaptogen Trec Essensey Bacopa Monnieri",
+    "efter": "Kosttillskott Trec Essensey Bacopa Monnieri"
+   }
+  },
+  "skal": "Live: ACTIVE, SKU 21726, 109 kr, lager 10. 46 % extrakt med 50 % bacosider, 1 kapsel efter måltid och varningarna stämmer. Källans minnes-, koncentrations-, inlärnings-, blodcirkulations- och \"hjärntonikum\"-påståenden och målgruppen (studenter, pensionärer) finns inte någonstans i titel, SEO, meta, Passar för eller beskrivning. Rättning: \"Adaptogen\" är ett effektord. Det betyder ett ämne som hjälper kroppen att stå emot stress, och det är alltså ett underförstått hälsopåstående (1924/2006 art. 2.2.5). Källan använder inte ens ordet för Bacopa. Källtexten säger \"kosttillskott\", så det ordet används (R7). Lagligt i Sverige: Bacopa monnieri räknas inte som nytt livsmedel (novel food) i EU-katalogen, enligt MDPI Foods 14(18):3275. Ingen svensk läkemedelsklassning hittades. Titeln har 55 tecken, SEO-titeln 43, och båda är unika."
+ },
+ {
+  "nr": 33019,
+  "id": "10472280785162",
+  "fil": "k_33b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Adaptogen Trec Ashwagandha Max, 60 kapslar",
+    "efter": "Kosttillskott Trec Ashwagandha Max, 60 kapslar"
+   },
+   "seo_title": {
+    "fore": "Adaptogen Trec Ashwagandha Max",
+    "efter": "Kosttillskott Trec Ashwagandha Max"
+   }
+  },
+  "skal": "Live: ACTIVE, SKU 8340, 139 kr, lager 4. 28,2 mg withanolider per kapsel, 9 %, 71,3 %, hela växten, 1 kapsel med 250 ml till måltid och varningarna stämmer. Hela listan med påståenden (sömn, libido, ångest, depression, kortisol, testosteron m.fl.) är borta. \"Enligt tillverkaren\" står en gång i metan och en gång i texten. Rättning: \"Adaptogen\" är ett effektord (se 33018) och byts mot \"Kosttillskott\" (productType, och samma ord som utkastets \"Typ: Kosttillskott i kapslar\"). Lagligt i Sverige: Livsmedelsverket har inget förbud. Verket \"inväntar EUs granskning och har inte gjort någon egen riskvärdering av växten\", och företagen ska kunna visa att produkten är säker (https://www.livsmedelsverket.se/livsmedel-och-innehall/kosttillskott/vaxtbaserade-kosttillskott/ (granskad 2026-09-16) och https://www.livsmedelsverket.se/foretagande-regler-kontroll/nyheter-for-livsmedelsforetag/nyheter-for-foretag/livsmedelsverket-omarbetar-informationen-om-ashwagandha/ (2025-05-02)). Tyska BfR avråder. Enligt sekundärkällor är ashwagandha förbjudet i kosttillskott i Danmark (2023) och Frankrike, och Nederländerna avser att förbjuda det (nutritioninsight.com, food-safety.com). Risk för David: produkten innehåller extrakt av hela växten, även bladen, som Indien förbjudit. Skickar butiken till Danmark? Titeln har 46 tecken, SEO-titeln 34, och båda är unika."
+ },
+ {
+  "nr": 33020,
+  "id": "10472297693450",
+  "fil": "k_33b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, EAN-SKU 5902114048365, 39 kr, lager 12. Ingredienserna, 60 ml per portion, upp till 3 per dag (180 ml), skaka före, varningarna (under 18 år, hjärt-kärlsjukdom, koffeinintolerans, inte före sänggåendet, inga andra koffeinkällor) och förvaringen vid 5–25 °C stämmer. Energiboost-, resultat-, återfuktnings- och koncentrationspåståendena är borta. \"Energigel\" är live-ordet och en vedertagen produktbenämning, som den skrivna 30018. Det är inget prestationslöfte, så \"Energi\" från kontrollscriptet är ett känt falsklarm. 60 ml kommer från live-titeln. Inga mängder mg är påhittade. SEO-titeln har 43 tecken, och alla fält är unika."
+ },
+ {
+  "nr": 33021,
+  "id": "10472297824522",
+  "fil": "k_33b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Adaptogen Trec Ashwagandha, 60 kapslar",
+    "efter": "Kosttillskott Trec Ashwagandha, 60 kapslar"
+   },
+   "seo_title": {
+    "fore": "Adaptogen Trec Ashwagandha",
+    "efter": "Kosttillskott Trec Ashwagandha"
+   }
+  },
+  "skal": "Live: ACTIVE, SKU 5902114044749, 119 kr, lager 9. 83 % rotextrakt, 1 kapsel med 250 ml, upp till 1 per dag, inom 3 månader efter öppnande och varningen om lugnande medel, sömntabletter och antiepileptika stämmer. Varningen är en säkerhetsuppgift från tillverkaren, inget sömnpåstående. Källan har ingen allergenrad. Vitalitets-, välbefinnande- och stresspåståendena är borta. Rättning: \"Adaptogen\" är ett effektord (se 33018). Källans egen text (\"har adaptogena egenskaper och hjälper till att bibehålla vitalitet\") visar att ordet är ett påstående. Lagligt i Sverige med samma risk som 33019. Titeln har 42 tecken, SEO-titeln 30, och båda är unika. Den kommer inte att krocka med 10472351203594 (Essensey Exclusive KSM-66, 90 kapslar, ännu inte skriven)."
+ },
+ {
+  "nr": 33022,
+  "id": "10472302018826",
+  "fil": "k_33b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Adaptogen Trec Ashwagandha KSM-66, 60 kapslar",
+    "efter": "Kosttillskott Trec Ashwagandha KSM-66, 60 kapslar"
+   },
+   "seo_title": {
+    "fore": "Adaptogen Trec Ashwagandha KSM-66",
+    "efter": "Kosttillskott Trec Ashwagandha KSM-66"
+   }
+  },
+  "skal": "Live: ACTIVE, SKU 5902114044756, 119 kr, lager 4. 46 % KSM-66-rotextrakt (5 % \"vitanolider\", källans stavning), 1 kapsel en gång dagligen med 250 ml och varningarna stämmer. Allergenraden är rätt utelämnad. Vitalitets- och välbefinnandepåståendena är borta. Rättning: \"Adaptogen\" är ett effektord (källan: \"har adaptogena egenskaper och stöder vitalitet\"). Källtexten säger \"är ett kosttillskott\" (R7). Lagligt i Sverige med samma risk som 33019. Titeln har 49 tecken, SEO-titeln 37, och båda är unika."
+ }
+]

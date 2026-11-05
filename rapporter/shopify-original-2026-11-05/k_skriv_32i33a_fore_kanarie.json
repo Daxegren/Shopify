@@ -1,0 +1,57 @@
+[
+ {
+  "id": "gid://shopify/Product/10472241168650",
+  "title": "Center chain Shimano BSA 115mm/68mm BB-UN300 Square",
+  "handle": "center-chain-shimano-bsa-115mm-68mm-bb-un300-square-vmebbun300b15b",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykeldelar",
+   "Kedja",
+   "Shimano",
+   "Velomarket"
+  ],
+  "updatedAt": "2026-09-28T03:27:23Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": ""
+ },
+ {
+  "id": "gid://shopify/Product/10472294940938",
+  "title": "Pedaler GIANT Combo Touring Pedal",
+  "handle": "pedaler-giant-combo-touring-pedal-230000095",
+  "status": "ACTIVE",
+  "tags": [
+   "Giant",
+   "Pedaler",
+   "pedals",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "updatedAt": "2026-10-19T04:06:45Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Mångsidig, dubbelsidig pedal med ena sidan lämplig för vanliga skor och den andra sidan för skor med SPD-pedalkloss.<br><br>Tillverkad av <strong>Giant</strong>.</div>"
+ },
+ {
+  "id": "gid://shopify/Product/10475424284938",
+  "title": "BASIL 22-25,4 mm fästes på den främre korgen",
+  "handle": "basil-22-25-4-mm-f-stes-p-den-fr-mre-korgen-70183",
+  "status": "ACTIVE",
+  "tags": [
+   "Basil",
+   "Cykelkorg",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "updatedAt": "2026-10-22T10:51:22Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p><strong>BASIL Fixed Mounted Stem Holder</strong> passar för styrets diametrar 22-25,4 mm.</p>\n<p>Mått: 15 x 9 x 8 cm.</p>"
+ }
+]
