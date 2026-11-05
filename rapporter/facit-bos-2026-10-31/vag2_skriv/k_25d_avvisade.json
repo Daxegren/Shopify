@@ -1,0 +1,32 @@
+[
+ {
+  "id": "10472308179210",
+  "nr": 25040,
+  "skäl": "Rullskridskor (Fila Legacy QF Lady): rullskridskor står under utanfor_tills_vidare (R6, profilen) och är obeslutade; källan är dessutom bara engelsk. Skälet gäller fortfarande. Butikens taggar (Damcykel, Fido) är felaktiga och rörs inte."
+ },
+ {
+  "id": "10472324399370",
+  "nr": 25041,
+  "skäl": "Snowboard/SnowSkate (Stiga): åkdon med fall- och skaderisk, ingen ålders- eller viktuppgift i källan. Gruppen är inte frisläppt (beslutsloggen 2026-11-03 frisläpper pulkor, kälkar och skridskor, inte snowboard/SnowSkate) och inget senare beslut finns; lyfts till David. Skälet gäller fortfarande."
+ },
+ {
+  "id": "10472325415178",
+  "nr": 25042,
+  "skäl": "Hantelställ (Hammer StrongLock 8.0): bärande del som håller hantlar, och källan (engelsk) saknar lastgräns; David beslut 3 (v1.7) kräver ordagrann svensk lastgräns i egen källa. Källan har dessutom bara måtten och att stället rymmer två hantlar, och live-titeln \"Hantlite alus\" är inte svenska. Skälet gäller fortfarande."
+ },
+ {
+  "id": "10472435024138",
+  "nr": 25044,
+  "skäl": "Dublett (R12a): samma modell, år och färg (Giant Propel Advanced 1 (2027), Carbon) som 6057 (id 10486710305034, SKU 1074029106, samma pris 67 389 kr), som redan har texter-klara live. Produkten (före detta 7057) står på Davids lista för sammanslagning (beslutsloggen 2026-11-05). Tidigare skäl (elektronisk växling, Shimano 105 Di2) gäller inte längre (v1.7), men dubbletten gör att texten inte skrivs. Vid sammanslagning: behåll äldsta annonsen om den har all info och alla bilder."
+ },
+ {
+  "id": "10476120310026",
+  "nr": 25046,
+  "skäl": "Dublett (R12a) av 8313 (id 10480048767242, aktiv, texter-klara live, samma modell Peltonen Skinpro 22 Stiff+ i längderna SKU ...181/188/195/207). Denna produkt är en femte längd (SKU 21AI522202202, samma pris 5 869 kr) som säljs som egen annons med samma text i källan; hör till dubbletter som ska slås ihop (Davids beslut 2026-11-05). Skälet gäller fortfarande."
+ },
+ {
+  "id": "10494941692170",
+  "nr": 25050,
+  "skäl": "R3: produkten har två varianter med olika SKU och olika pris (Default Title, SKU 3005010114, 22 889 kr, och \"M / purple\", SKU 3005010115, 19 909 kr), och titeln anger färgen Deep Cove. Olika pris och färg mellan varianter avvisas (v1.7/v1.8). Det tidigare skälet (belysning, ramlås och pakethållare i setet) skulle inte längre ensamt avvisa, men R3 gör det."
+ }
+]
