@@ -33,3 +33,5 @@ Skapad 2026-11-04. Filen fylls bara på; nya beslut läggs överst i tabellen, g
 | 2026-11-05 | Typord balansbräda och märkena Maxxus och Excalibur tillagda i profilen | Träningsutrustning | David | `shopify-sync/config/butiksprofil-bestofsports.json` |
 | 2026-11-05 | Storleksvarianter med olika artikelnummer men samma pris och färg skrivs (tolkningen bekräftad) | Cyklar m.fl. | David | Chatt 2026-11-05 ("5. Det är rätt som du gjort") |
 | 2026-11-05 | Vid dubbletter behålls den äldsta annonsen så länge den har all info och alla bilder | Dubbletter | David | Chatt 2026-11-05 ("6. ... så länge den som sparas har all info, bilder etc.") |
+| 2026-11-05 | Dubbdäck får skrivas utan prestandapåståenden (endast fakta ur källan) | Dubbdäck | David | Chatt 2026-11-05 ("ja på båda") |
+| 2026-11-05 | Produkter där alla varianter har samma pris men olika färg/storlek skrivs med färg- och storleksneutral titel (som 10113) i stället för att delas | Variantprodukter | David | Chatt 2026-11-05 ("ja på båda") |
