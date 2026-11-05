@@ -1,0 +1,47 @@
+[
+ {
+  "id": "10541369622794",
+  "nr": 35037,
+  "skäl": "Exakt dubblett av 10530129051914 (Flaskhållare Giant ProWay, svart/neongrön, texter-klara): samma modell, färg, plast, 45 g och 500–750 ml. Endast SKU (490000074 mot 490000072), streckkod och pris skiljer. Även identisk med 10541369721098 (35038). Ingen skillnad i någon källa."
+ },
+ {
+  "id": "10541369721098",
+  "nr": 35038,
+  "skäl": "Exakt dubblett av 10530129051914 (Flaskhållare Giant ProWay, svart/neongrön, texter-klara): samma modell, färg, material och vikt i källan. Endast SKU (490000071), streckkod och pris skiljer. Även identisk med 10541369622794 (35037)."
+ },
+ {
+  "id": "10548290978058",
+  "nr": 35039,
+  "skäl": "Exakt dubblett av 10472332067082 (Herrcykel Romet Wagant 8, svart, texter-klara): samma modell, färg, ramstorlek L (21 tum), 27 växlar och utrustning i båda källorna. Endast SKU (28190608-A mot 28210609-A) och streckkod skiljer."
+ },
+ {
+  "id": "10623405523210",
+  "nr": 35040,
+  "skäl": "Skillnaden mot 10623405490442 (Lateral Pull Down Bar Gymstick 110 cm, texter-klara) går inte att fastställa: egen källa ger bara att stången tränar rygg, axlar och armar, inga mått eller material (tunn källa, R3). Webbsökning på EAN 6430062510249 gav ingen träff. David kan avgöra."
+ },
+ {
+  "id": "10636601655562",
+  "nr": 35041,
+  "skäl": "R3: titeln anger 100 cm men egen källa anger längd 120 cm (motsägelse); handtaget (kopia) pekar på Excalibur Workout 100. Webbsökning på EAN 4250663127330 gav ingen träff som avgör längd eller fyllning. Kan inte skrivas utan att gissa. Skiljer sig annars från 10636601458954 (150 cm). David kan avgöra."
+ },
+ {
+  "id": "10636706349322",
+  "nr": 35043,
+  "skäl": "Redan skriven: live har vår text (SEO-titel, meta, Passar för, Specifikationer och standardblock) på 10636706349322, men taggen texter-klara saknas och en kvarlämnad Vanliga frågor-sektion finns. Ingen ny text; en ev. rättning av befintlig text är ett separat ärende."
+ },
+ {
+  "id": "10636715163914",
+  "nr": 35044,
+  "skäl": "Exakt dubblett av 10636691013898 (Ankelband för Kabelmaskin i Syntetiskt Läder, 34 cm, texter-klara): samma modell, material, längd 34 cm, fem hål och 120 kg. Endast SKU, streckkod och pris skiljer. Källan har dessutom rehab-påstående."
+ },
+ {
+  "id": "10636737184010",
+  "nr": 35045,
+  "skäl": "Redan skriven: live har vår text (SEO-titel, meta, Passar för, Specifikationer, standardblock) men en kvarlämnad Vanliga frågor-sektion och saknar taggen texter-klara. Ingen ny text; en ev. rättning av befintlig text är ett separat ärende."
+ },
+ {
+  "id": "10636758286602",
+  "nr": 35046,
+  "skäl": "Redan skriven: live har vår text (SEO-titel, meta, Passar för, Specifikationer, standardblock). Ingen ny text behövs."
+ }
+]
