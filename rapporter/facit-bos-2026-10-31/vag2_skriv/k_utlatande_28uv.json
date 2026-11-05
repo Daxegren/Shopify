@@ -1,0 +1,220 @@
+[
+ {
+  "nr": 28241,
+  "id": "10541367656714",
+  "fil": "k_28u_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live (API 2026-11-05): ACTIVE, 'Beach rackets Spiderman', SevenPolska, Default Title/59541/99 kr. Två plastracketar, liten boll, användning (strand, park, trädgård) och tillverkare Seven Polska stämmer. 'Disney-figurer' rätt utelämnat (Spiderman är Marvel), 'roligt'/'perfekta' borta. Typord Strandracketar ur källtexten. Villkor: oskrivna utkastet nr 2506 i a_5_utkast.json (samma id, 'Strandracketar Seven Polska Spiderman') måste strykas ur bygget, annars två texter för samma produkt. Obs: i k_28t avvisades syskonen 28239/28240 i stället för att ersätta a_5-utkasten 2504/2505; praxis bör bli en (se öppna frågor)."
+ },
+ {
+  "nr": 28242,
+  "id": "10541370605834",
+  "fil": "k_28u_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Cykel Tabou Venom Lite 27,5 tum, Röd-Svart",
+    "efter": "Cykel Tabou Venom Lite, Storlek M, Röd-Svart"
+   }
+  },
+  "skal": "Live (API 2026-11-05): ACTIVE, 'Barncykel TABOU Venom Lite, 27,5\" 15\" M, röd-svart', Default Title/TAB25-8120/8929 kr. Fakta stämmer (aluminium, M 15 tum, ca 145–160 cm en gång enligt tillverkaren, Shimano Essa, 8 växlar, V-bromsar, 10,5 kg, fästpunkter, stöd; 27,5 tum ur live-titeln). Typord Cykel som syskonen. Syskonen 28217 (L, röd-svart) och 28218 (M, blå-svart) är redan skrivna live med titlarna 'Cykel Tabou Venom Lite, Röd-Svart' och 'Cykel Tabou Venom Lite, Blå-Svart'. Utkastets titel skiljer sig från 28217 bara genom '27,5 tum', men båda cyklarna har 27,5-tumshjul, så skillnaden vilseleder; det som skiljer är ramstorleken. Titeln rättas till storleksformen i 28201 ('Storlek S'). SEO-titel (M) och meta är unika och godkända."
+ },
+ {
+  "nr": 28244,
+  "id": "10548282753290",
+  "fil": "k_28u_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Live (API 2026-11-05): ACTIVE, 'Trombone Frozen 2, green-purple', SevenPolska, Default Title/9156/129 kr. Oklar produkttyp (R2/R3), samma fall som 28238 i k_28t: live-titeln säger trombone (tuta), den svenska källtexten är mallen 'Cykelklockan ger ifrån sig ett högt ljud' med samma mått (6,5 cm diameter, 14 cm längd) som Paw Patrol-tutan. Webbkoll: producentkod 9156 är 'Trąbka DISNEY Frozen 2' (tuta), https://www.centrumrowerowe.pl/trabka-disney-frozen-2-pd37090/. Typordet Cykelklocka är alltså fel. Kan skrivas som 'Cykeltuta' om David godkänner typordet."
+ },
+ {
+  "nr": 28246,
+  "id": "10561327956234",
+  "fil": "k_28u_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Live (API 2026-11-05): ACTIVE, 'Trumpet Minnie, pink', SevenPolska, Default Title/9129/129 kr. Oklar produkttyp: på svenska betyder 'trumpet' ett musikinstrument, men webbkoll visar att producentkod 9129 är en cykeltuta ('Trąbka DISNEY Minnie', gummiballong med fäste för styret, 14 cm lång, 6,5 cm i diameter), https://www.centrumrowerowe.pl/trabka-disney-minnie-pd37093/. Andra webbsidor kallar 9129 en ringklocka (skroutz.mt). Utkastet påstår ingen funktion, men typordet Trumpet vilseleder kunden. Tillverkaren saknas i källan och är rätt utelämnad (R1). Samma beslut som för 28238 och 28244: kan skrivas som 'Cykeltuta' om David godkänner typordet."
+ },
+ {
+  "nr": 28251,
+  "id": "10589714645258",
+  "fil": "k_28u_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live (API 2026-11-05): ACTIVE, 'Barncykel KONA Process 246, Gloss Metallic Black', taggar Mountainbike och På beställning, Default Title/B37PR246BKSRHK00/47079 kr. Leveranstidsmeningen finns och resten av standardblocket är exakt (R13/v1.8). Ram Kona 6061, butted, 120 mm (Travel = fjädringsväg), S (33 cm), ca 130–150 cm (en gång enligt tillverkaren), Manitou JUNIT 34 mm Comp, Rock Shox Deluxe Select, Shimano Cues 10 växlar, hydrauliska bromsar (inga skivor påstås), Maxxis-däcken 26/24 x 2,3 tum och fästpunkter stämmer. Typordet Barncykel finns i källan ('Barncykeln Kona Process 246'). Påståenden om utveckling ('naturligt nästa steg', 'utveckla sina färdigheter') och bromskomfort är borta. Mekanisk eller elektronisk växling påstås inte (v1.7). Ingen dubblett."
+ },
+ {
+  "nr": 28252,
+  "id": "10612572160266",
+  "fil": "k_28u_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Minnie Retro i vit är",
+    "efter": "Minnie Retro i vitt är"
+   }
+  },
+  "skal": "Live (API 2026-11-05): ACTIVE, 'Cykelklocka Minnie Retro, vit', SevenPolska, Default Title/9139/129 kr. Minnie-tema, för barn, metall, 80 mm och 55 mm stämmer. Säkerhetslöftet ('säkerställer cyklistens säkerhet') och 'behagliga ljud' är borta. Produkttypen stöds: 'Dzwonek Disney Retro Minnie' är en ringklocka (centrumrowerowe.pl pd48566). Inte dubblett av 28012 (Minnie, rosa). Rättning, som i 28232 ('i röd' blev 'i rött'): färgadjektivet efter 'i' står i neutrum."
+ },
+ {
+  "nr": 28257,
+  "id": "10635759780106",
+  "fil": "k_28v_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "med 26 tums hjul",
+    "efter": "med 26-tumshjul"
+   },
+   "html": [
+    {
+     "fore": "Hjulstorleken är 26 x 2.1 tum",
+     "efter": "Hjulstorleken är 26 x 2,1 tum"
+    },
+    {
+     "fore": "<li>Hjulstorlek: 26 x 2.1 tum</li>",
+     "efter": "<li>Hjulstorlek: 26 x 2,1 tum</li>"
+    }
+   ]
+  },
+  "skal": "Live (API 2026-11-05): ACTIVE, 'Ungdomscykel ROMET Rambler R6.1 JR, 26\" svart', Default Title/26150074-A/7499 kr. Aluminium, fjädring fram, Shimano Tourney 21 växlar, V-bromsar, 13,4 kg och fästpunkter stämmer. Ramstorlekarna S/M/L i källan är rätt utelämnade, eftersom produkten bara har en variant (v1.5). Titelformen ', 26 tum,' följer 28147/28231. Rättningar: decimalkomma i '26 x 2.1' (som Panda 1 '24 x 1,75 tum' och 28231 '26x1,9 tum'), och '26-tumshjul' i meta enligt R10 och syskonen 28155/28124. Meta är unik men nästan likadan som 28258; godtagbart."
+ },
+ {
+  "nr": 28258,
+  "id": "10635759911178",
+  "fil": "k_28v_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "med 26 tums hjul",
+    "efter": "med 26-tumshjul"
+   },
+   "html": [
+    {
+     "fore": "Hjulstorleken är 26 x 2.1 tum",
+     "efter": "Hjulstorleken är 26 x 2,1 tum"
+    },
+    {
+     "fore": "<li>Hjulstorlek: 26 x 2.1 tum</li>",
+     "efter": "<li>Hjulstorlek: 26 x 2,1 tum</li>"
+    }
+   ]
+  },
+  "skal": "Live (API 2026-11-05): ACTIVE, 'Ungdomscykel ROMET Rambler R6.0, 26\" svart-orange-röd', Default Title/26170002-B/7059 kr. Aluminium, fjädring fram, M (17 tum) som enda storlek i källan, ca 150–160 cm (en gång enligt tillverkaren), Tourney 21 växlar, V-bromsar, 13,4 kg och fästpunkter stämmer. Revoshift och omdömen är borta. SEO-titeln utan Rambler godtas: med Rambler blir den 49 tecken, och ett alternativ utan Romet skulle stryka märket (R12). Typordet och modellnumret står kvar, och titeln är unik mot 28031 ('Ungdomscykel Romet Rambler R6.0') och 28201. Rättningar som i 28257: '2.1' blir '2,1' och '26 tums hjul' blir '26-tumshjul'."
+ },
+ {
+  "nr": 28259,
+  "id": "10635806572810",
+  "fil": "k_28v_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Giant Talon 2 27,5 tum, Phoenix Fire",
+    "efter": "Mountainbike Giant Talon 2 27,5 tum"
+   },
+   "meta": {
+    "fore": "har 27,5 tums hjul",
+    "efter": "har 27,5-tumshjul"
+   },
+   "html": {
+    "fore": "Se sidan Frakt för övriga länder.</p>",
+    "efter": "Se sidan Frakt för övriga länder. Beställningsvaror kan ta upp till en vecka längre.</p>"
+   }
+  },
+  "skal": "Live (API 2026-11-05): ACTIVE, 'Barncykel GIANT Talon 2 (2027) 27.5\" XS, Phoenix Fire', taggar Mountainbike och På beställning, Default Title/1095015283/13459 kr. Typordet Mountainbike godtas: källtexten säger 'mountainbike-äventyr' och 'mountainbike-cyklist', taggen är Mountainbike, cykeln är för 155–166 cm och syskonet 7153 heter Mountainbike. Däckstorleken 27,7 rättad till 27,5 godtas (R1 v1.6/v1.7): live-titeln säger 27.5\" och tillverkarens sida anges i att_bekrafta (giant-bicycles.com/us/talon-2-2027). Övriga fakta (ALUXX-grade, XS 34,5 cm, SXC32-3 RL 80 mm, microSHIFT Advent 9 växlar, Tektro HDC M275 hydrauliska, fästpunkter) stämmer. Titeln behålls utan komma före 27,5 eftersom decimalkommat redan räknas (2 kommatecken). Rättningar: (1) Leveranstidsmeningen saknas trots taggen På beställning (R13/v1.8), fast att_bekrafta säger att den finns. (2) SEO-titeln saknar typordet först (R7); den nya formen behåller märket och skiljer sig från 7153 ('Mountainbike Giant Talon 2, Phoenix Fire'). (3) '27,5-tumshjul' i meta (R10)."
+ },
+ {
+  "nr": 28261,
+  "id": "10656684704010",
+  "fil": "k_28v_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "har 16 tums hjul",
+    "efter": "har 16-tumshjul"
+   },
+   "html": [
+    {
+     "fore": " Enligt tillverkaren är den lämplig för barn i åldern cirka 4 till 6 år.",
+     "efter": ""
+    },
+    {
+     "fore": "<p>Barncykeln Academy Grade 3 har 16 tums hjul",
+     "efter": "<p>Barncykeln Academy Grade 3 har 16-tumshjul"
+    },
+    {
+     "fore": "en barncykel med 16 tums hjul</li>",
+     "efter": "en barncykel med 16-tumshjul</li>"
+    }
+   ]
+  },
+  "skal": "Live (API 2026-11-05): ACTIVE, 'Ultralätt barncykel ACADEMY Grade 3, 16\" blå', Default Title/8821/8439 kr. 16 tum, 1 växel, ramhöjd 26 cm, ca 4–6 år, V-bromsar och 5,5 kg stämmer. Den trasiga raden är utelämnad, och 'ultralätt' är borta. Dubbletten 28262 (SKU 8821, 8319 kr) är nyare (högre id). Enligt Davids beslut behålls den äldsta annonsen, alltså denna. Rättningar: åldern stod två gånger 'enligt tillverkaren' (i löptexten och i specifikationen). R5 tillåter en gång per påstående, och de skrivna syskonen 28155/28124 har åldern bara i specifikationen, så meningen i löptexten stryks. '16-tumshjul' enligt R10 och syskonen."
+ },
+ {
+  "nr": 28263,
+  "id": "10656686440714",
+  "fil": "k_28v_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": [
+    {
+     "fore": "har 14 tums hjul",
+     "efter": "har 14-tumshjul"
+    },
+    {
+     "fore": "för barn cirka 3–5 år",
+     "efter": "för barn 3–5 år"
+    }
+   ],
+   "html": [
+    {
+     "fore": " Enligt tillverkaren är den lämplig för barn i åldern 3–5 år.",
+     "efter": ""
+    },
+    {
+     "fore": "<p>Barncykeln Academy Grade 2 har 14 tums hjul",
+     "efter": "<p>Barncykeln Academy Grade 2 har 14-tumshjul"
+    },
+    {
+     "fore": "en barncykel med 14 tums hjul</li>",
+     "efter": "en barncykel med 14-tumshjul</li>"
+    }
+   ]
+  },
+  "skal": "Live (API 2026-11-05): ACTIVE, 'Ultralätt barncykel ACADEMY Grade 2, 14\" röd', Default Title/8812/7579 kr. 14 tum, 1 växel, ramhöjd 21 cm, 3–5 år, V-bromsar och 5,3 kg stämmer. Den trasiga raden är utelämnad. Inte dubblett: 28155/28156/28157 är Blå, Lila och Ocean. Rättningar: metan säger 'cirka 3–5 år', men källan säger '3-5 år' utan ca (R1). Åldersmeningen i löptexten stryks av samma skäl som i 28261 (R5). '14-tumshjul' enligt R10."
+ },
+ {
+  "nr": 28264,
+  "id": "10656686506250",
+  "fil": "k_28v_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": [
+    {
+     "fore": "har 20 tums hjul",
+     "efter": "har 20-tumshjul"
+    },
+    {
+     "fore": "Grade 4 i blå har",
+     "efter": "Grade 4 i blått har"
+    }
+   ],
+   "html": [
+    {
+     "fore": " Enligt tillverkaren är den lämplig för barn i åldern 6–8 år.",
+     "efter": ""
+    },
+    {
+     "fore": "har 20 tums hjul och",
+     "efter": "har 20-tumshjul och"
+    },
+    {
+     "fore": "en barncykel med 20 tums hjul</li>",
+     "efter": "en barncykel med 20-tumshjul</li>"
+    }
+   ]
+  },
+  "skal": "Live (API 2026-11-05): ACTIVE, 'Ultralätt barncykel ACADEMY Grade 4, 20\" blå', Default Title/8831/9479 kr. 20 tum, Shimano Claris 8 växlar, ramhöjd 29 cm, 6–8 år, V-bromsar och 7,5 kg stämmer. Inte dubblett: 28123 är Belt Lila, 28124 är Magenta, och 28268/28276 i k_28w är Ocean och Lila. Rättningar: åldersmeningen i löptexten stryks (R5, som 28261), '20-tumshjul' (R10) och 'i blått' (neutrum, som 28232)."
+ }
+]
