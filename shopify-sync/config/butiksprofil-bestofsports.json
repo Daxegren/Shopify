@@ -1,85 +1,88 @@
 {
- "butik": "bestofsports.se",
- "myshopify": "6f2e53-67.myshopify.com",
- "sprak": "sv",
- "ton": "Saklig, konkret, faktatextläge: bara uppgifter ur produktens egen källa. Ingen utfyllnad, inga löften.",
- "marken": [
-  "Hammer",
-  "Toorx",
-  "Tunturi",
-  "BH Fitness",
-  "Finnlo by Hammer",
-  "Gymstick",
-  "Christopeit",
-  "Kettler",
-  "Fluid",
-  "Union",
-  "Peltonen"
- ],
- "marken_varning_bara": [
-  "Fluid"
- ],
- "gransvarden": {
-  "titel_max": 70,
-  "titel_max_komma": 2,
-  "seo_titel_max": 43,
-  "seo_suffix": " – BEST OF SPORTS",
-  "meta_min": 70,
-  "meta_max": 155
- },
- "standardblock_krav": [
-  "Leverans, retur och garanti",
-  "Frakt och leverans",
-  "Retur:",
-  "Reklamation:",
-  "Säljare:",
-  "info@bestofsports.se"
- ],
- "standardblock_kanonisk": "rapporter/facit-bos-2026-10-31/vag2_skriv/b_skriv_24.json",
- "leveranstidsmening": "Beställningsvaror kan ta upp till en vecka längre.",
- "leveranstidstagg": "På beställning",
- "klartagg": "texter-klara",
- "taggar_som_inte_far_roras": [
-  "Velomarket",
-  "Gymstick"
- ],
- "faktatextlage_kategorier": [
-  "pakethållare",
-  "solglasögon",
-  "lås",
-  "hjälmar",
-  "elcyklar",
-  "sparkcyklar",
-  "belysning",
-  "fitness (löpband, motionscyklar, crosstrainers, roddmaskiner, bänkar, rack, vikter)"
- ],
- "utanfor_tills_vidare": [
-  "barn",
-  "kosttillskott",
-  "isbroddar",
-  "rullskridskor",
-  "akupressur",
-  "massagepistoler och massagerullar med värme/vibration",
-  "vibrationsplattor",
-  "kroppsanalysvågar (hälsoparametrar)"
- ],
- "godkanda_typord": {
-  "träningsstation": "multigym/kraftstation (estniska Jõujaam)",
-  "viktskiva": "viktskivor, plural för set",
-  "skivstångsställning": "barbell stand/squat stand",
-  "stepbräda": "aerobic stepper",
-  "golvmatta": "bara där produktens egen källa säger det",
-  "träningsbälte": "bälte för styrketräning (midja/rygg); David 2026-11-04",
-  "lyftarbälte": "bälte för tunga lyft; David 2026-11-04 (\"Träningsbälte och/eller lyftarbälte\")"
- },
- "format_regler": "rapporter/facit-bos-2026-10-31/format_regler.py",
- "sparrlista": "shopify-sync/config/sparrlista.json",
- "beslutslogg": "shopify-sync/docs/BESLUTSLOGG.md",
- "regelbok": "shopify-sync/regler/regler-v1.md",
- "skrivmetod": "mcp (ensure_ascii, högst 5 per anrop) tills API-token finns; sedan skript mot Admin API",
- "anmarkning": "Mall för nya butiker: kopiera filen, byt butik, märken, standardblock, taggar och spärrlista.",
- "marken_versaler_tillatna": {
-  "SOKE": "skrivs i versaler som i redan skrivna SOKE-texter; David 2026-11-04",
-  "TRYM": "skrivs i versaler som i redan skrivna TRYM-texter; David 2026-11-04"
- }
+  "butik": "bestofsports.se",
+  "myshopify": "6f2e53-67.myshopify.com",
+  "sprak": "sv",
+  "ton": "Saklig, konkret, faktatextläge: bara uppgifter ur produktens egen källa. Ingen utfyllnad, inga löften.",
+  "marken": [
+    "Hammer",
+    "Toorx",
+    "Tunturi",
+    "BH Fitness",
+    "Finnlo by Hammer",
+    "Gymstick",
+    "Christopeit",
+    "Kettler",
+    "Fluid",
+    "Union",
+    "Peltonen"
+  ],
+  "marken_varning_bara": [
+    "Fluid"
+  ],
+  "gransvarden": {
+    "titel_max": 70,
+    "titel_max_komma": 2,
+    "seo_titel_max": 43,
+    "seo_suffix": " – BEST OF SPORTS",
+    "meta_min": 70,
+    "meta_max": 155
+  },
+  "standardblock_krav": [
+    "Leverans, retur och garanti",
+    "Frakt och leverans",
+    "Retur:",
+    "Reklamation:",
+    "Säljare:",
+    "info@bestofsports.se"
+  ],
+  "standardblock_kanonisk": "rapporter/facit-bos-2026-10-31/vag2_skriv/b_skriv_24.json",
+  "leveranstidsmening": "Beställningsvaror kan ta upp till en vecka längre.",
+  "leveranstidstagg": "På beställning",
+  "klartagg": "texter-klara",
+  "taggar_som_inte_far_roras": [
+    "Velomarket",
+    "Gymstick"
+  ],
+  "faktatextlage_kategorier": [
+    "pakethållare",
+    "solglasögon",
+    "lås",
+    "hjälmar",
+    "elcyklar",
+    "sparkcyklar",
+    "belysning",
+    "fitness (löpband, motionscyklar, crosstrainers, roddmaskiner, bänkar, rack, vikter)"
+  ],
+  "utanfor_tills_vidare": [
+    "barn",
+    "kosttillskott",
+    "isbroddar",
+    "rullskridskor",
+    "akupressur",
+    "massagepistoler och massagerullar med värme/vibration",
+    "vibrationsplattor",
+    "kroppsanalysvågar (hälsoparametrar)"
+  ],
+  "godkanda_typord": {
+    "träningsstation": "multigym/kraftstation (estniska Jõujaam)",
+    "viktskiva": "viktskivor, plural för set",
+    "skivstångsställning": "barbell stand/squat stand",
+    "stepbräda": "aerobic stepper",
+    "golvmatta": "bara där produktens egen källa säger det",
+    "träningsbälte": "bälte för styrketräning (midja/rygg); David 2026-11-04",
+    "lyftarbälte": "bälte för tunga lyft; David 2026-11-04 (\"Träningsbälte och/eller lyftarbälte\")",
+    "träningshjul": "ab-hjul/Exercise Wheel; David 2026-11-05 (\"4. Ja\")",
+    "gummitass": "gummidel/Paw för stavar; David 2026-11-05 (\"4. Ja\")",
+    "tricepsstång": "stång för triceps/Pull Down Bar; David 2026-11-05 (\"4. Ja\")"
+  },
+  "format_regler": "rapporter/facit-bos-2026-10-31/format_regler.py",
+  "sparrlista": "shopify-sync/config/sparrlista.json",
+  "beslutslogg": "shopify-sync/docs/BESLUTSLOGG.md",
+  "regelbok": "shopify-sync/regler/regler-v1.md",
+  "skrivmetod": "mcp (ensure_ascii, högst 5 per anrop) tills API-token finns; sedan skript mot Admin API",
+  "anmarkning": "Mall för nya butiker: kopiera filen, byt butik, märken, standardblock, taggar och spärrlista.",
+  "marken_versaler_tillatna": {
+    "SOKE": "skrivs i versaler som i redan skrivna SOKE-texter; David 2026-11-04",
+    "TRYM": "skrivs i versaler som i redan skrivna TRYM-texter; David 2026-11-04"
+  }
 }

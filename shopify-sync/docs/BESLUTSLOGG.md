@@ -24,3 +24,6 @@ Skapad 2026-11-04. Filen fylls bara på; nya beslut läggs överst i tabellen, g
 | 2026-11-05 | R3: Default Title med samma SKU och färg ignoreras; produkten skrivs utan färg och pris i titeln | Produkter med överblivna varianter | David | `regler-v1.md` v1.7 |
 | 2026-11-05 | Faktakoll på nätet får göras mot alla webbplatser (inga domänbegränsningar) | Alla produkter | David | `regler-v1.md` v1.7 |
 | 2026-11-05 | Barn- och ungdomsspärren: lista för genomläsning tas fram (spärren gäller tills David svarat) | 211 produkter | David | `rapporter/barn-ungdom-spar-granskning-2026-11-05.md` |
+| 2026-11-05 | Typord tillagda i profilen: träningshjul, gummitass, tricepsstång | Träningsutrustning | David | `shopify-sync/config/butiksprofil-bestofsports.json` |
+| 2026-11-05 | 9017 och 9018: längdintervallet "ca 165–195 cm" tas bort (tillverkaren anger 170–200 cm, källorna går isär) | Engwe E26 | David | Chatt 2026-11-05 ("3. Ja") |
+| 2026-11-05 | Dubbletter ska slås ihop (planen tas fram och godkänns innan något ändras i butiken) | Dubbletter 7057, 7069, 7127 m.fl. | David | Chatt 2026-11-05 ("1. Slå ihop") |
