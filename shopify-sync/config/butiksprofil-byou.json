@@ -1,0 +1,87 @@
+{
+  "_meta": {
+    "status": "TOM_PROFIL_EJ_GODKAND",
+    "klar_for_skrivning": false,
+    "skapad": "2026-11-06",
+    "forklaring": "Fält med nyckeln FYLLS_I_AV_DAVID är obesvarade. Inget får skrivas till butiken innan alla sådana fält är ifyllda och klar_for_skrivning satts till true av David. Ordning och frågor: shopify-sync/docs/ny-butik-checklista.md.",
+    "kallor": {
+      "butik": "shopify-sync/docs/BESLUTSLOGG.md (rad 2026-11-04, Davids beslut om nästa sajter)",
+      "domaner": "shopify-sync/docs/BESLUTSLOGG.md (rad 2026-11-04) och shopify-sync/docs/flera-sajter.md",
+      "marknader_sprak": "shopify-sync/sites.portfolio.draft.toml (utkast, primary_locale per domän; ej bekräftat av David)",
+      "gransvarden.titel_max, titel_max_komma, meta_min, meta_max": "shopify-sync/regler/regler-v1.md R12 (butiksoberoende regelbok)",
+      "klartagg": "shopify-sync/regler/regler-v1.md R18",
+      "sparrlista, beslutslogg, regelbok": "filer i repot",
+      "skrivmetod": "shopify-sync/docs/textutrullning-rutin.md §3 och shopify-sync/docs/LARDOMAR.md (2026-11-04, aldrig switch-shop)",
+      "sprak": "shopify-sync/sites.portfolio.draft.toml (utkast, primary_locale = sv); bekräfta"
+    }
+  },
+  "butik": "B You Underwear",
+  "domaner": [
+    "byouunderwear.se"
+  ],
+  "marknader_sprak": {
+    "byouunderwear.se": "sv"
+  },
+  "myshopify": {
+    "FYLLS_I_AV_DAVID": "Butikens *.myshopify.com-adress? (Inställningar → Domäner i Shopify. Ingen token i chatten.)"
+  },
+  "sprak": "sv",
+  "ton": {
+    "FYLLS_I_AV_DAVID": "Ton för butiken? (BOS: saklig faktatext, inga löften.) Samma här, eller mer varumärkesnära?"
+  },
+  "marken": {
+    "FYLLS_I_AV_DAVID": "Lista över märken (egna och inköpta) som ska skrivas rätt. Är 'B You' butikens eget märke? Finns fler?"
+  },
+  "marken_varning_bara": {
+    "FYLLS_I_AV_DAVID": "Märken som också är vanliga ord (varning i stället för fel), t.ex. 'Fluid' hos BOS?"
+  },
+  "gransvarden": {
+    "titel_max": 70,
+    "titel_max_komma": 2,
+    "seo_titel_max": {
+      "FYLLS_I_AV_DAVID": "Största tillåtna längd på SEO-titeln inklusive suffix? (BOS: 43 plus suffixet ' – BEST OF SPORTS')"
+    },
+    "seo_suffix": {
+      "FYLLS_I_AV_DAVID": "Suffix efter SEO-titeln, t.ex. ' – <BUTIKSNAMN>'? Eller inget suffix?"
+    },
+    "meta_min": 70,
+    "meta_max": 155
+  },
+  "standardblock_krav": {
+    "FYLLS_I_AV_DAVID": "Vilka rubriker och uppgifter ska finnas i butikens standardblock (leverans, retur, garanti, säljare, kontakt-e-post)? Per marknad om villkoren skiljer."
+  },
+  "standardblock_kanonisk": {
+    "FYLLS_I_AV_DAVID": "Vilken skrivfil eller text är facit för standardblocket? Skapas när blocket är godkänt."
+  },
+  "leveranstidsmening": {
+    "FYLLS_I_AV_DAVID": "Mening för beställningsvaror (BOS: 'Beställningsvaror kan ta upp till en vecka längre.'). Finns beställningsvaror?"
+  },
+  "leveranstidstagg": {
+    "FYLLS_I_AV_DAVID": "Tagg som markerar beställningsvaror (BOS: 'På beställning')? Finns en sådan tagg i butiken?"
+  },
+  "klartagg": "texter-klara",
+  "taggar_som_inte_far_roras": {
+    "FYLLS_I_AV_DAVID": "Vilka taggar sätts av leverantör eller appar och får aldrig ändras (BOS: Velomarket, Gymstick)? Finns en leverantörssynk som skriver produktdata?"
+  },
+  "faktatextlage_kategorier": {
+    "FYLLS_I_AV_DAVID": "Vilka kategorier ska skrivas i faktatextläge (bara uppgifter ur källan, 'enligt tillverkaren')? Förslag finns i ny-butik-checklista.md; bekräfta eller ändra."
+  },
+  "utanfor_tills_vidare": {
+    "FYLLS_I_AV_DAVID": "Vilka kategorier ska hållas utanför tills du beslutat? Förslag finns i ny-butik-checklista.md; bekräfta eller ändra."
+  },
+  "godkanda_typord": {
+    "FYLLS_I_AV_DAVID": "Godkända svenska typord där källan är engelsk. Fylls efter inventeringen; David godkänner."
+  },
+  "format_regler": {
+    "FYLLS_I_AV_DAVID": "Ska butiken använda BOS formatkontroll (rapporter/facit-bos-2026-10-31/format_regler.py) eller behövs en egen, t.ex. för danska och finska?"
+  },
+  "sparrlista": "shopify-sync/config/sparrlista-byou.json",
+  "beslutslogg": "shopify-sync/docs/BESLUTSLOGG.md",
+  "regelbok": "shopify-sync/regler/regler-v1.md",
+  "skrivmetod": "Skript mot Admin API (shopify-sync/docs/textutrullning-rutin.md §3). Åtkomst saknas tills David ordnat stegen där. Aldrig switch-shop (LARDOMAR 2026-11-04).",
+  "anmarkning": "Tom profil skapad 2026-11-06 utifrån butiksprofil-bestofsports.json. Fyll i enligt shopify-sync/docs/ny-butik-checklista.md. Inget får skrivas till butiken så länge klar_for_skrivning är false.",
+  "marken_versaler_tillatna": {
+    "FYLLS_I_AV_DAVID": "Märken som får skrivas i versaler (BOS: SOKE, TRYM)? Fylls efter inventeringen."
+  },
+  "frislappta": {}
+}
