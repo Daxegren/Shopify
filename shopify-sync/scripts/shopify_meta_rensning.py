@@ -11,7 +11,8 @@ Lägen:
   --kanarie   skriver de 3 första "skriv", läser tillbaka och jämför
   --rest      skriver övriga "skriv" i delar om 4, läser tillbaka och jämför efter varje del
 Stopp vid första avvikelse (kod 1). Före-fil och resultatfil sparas i --ut (standard rapporter/shopify-original-<datum>/).
-Användning: shopify_meta_rensning.py INFIL (--dry-run | --kanarie | --rest) [--ut KATALOG]
+Användning: shopify_meta_rensning.py INFIL (--dry-run | --kanarie | --rest) [--ut KATALOG] [--profil BUTIKSPROFIL.json]
+Butik, miljövariabelnamn och spärrlista läses ur butiksprofilen (standard: BEST OF SPORTS).
 """
 import datetime, json, os, sys
 
@@ -19,6 +20,7 @@ HAR = os.path.dirname(os.path.abspath(__file__))
 ROT = os.path.abspath(os.path.join(HAR, '..', '..'))
 sys.path.insert(0, HAR)
 import shopify_api as api  # noqa: E402
+import butiksprofil  # noqa: E402
 from skrivfil_kontroll import las_sparr  # noqa: E402
 
 KANARIE_ANTAL = 3
@@ -60,7 +62,7 @@ def skriv_och_verifiera(klient, poster, fore_per_id):
 
 
 def main(argv=None):
-    a = list(argv if argv is not None else sys.argv[1:])
+    profil, a = butiksprofil.profil_fran_argv(argv if argv is not None else sys.argv[1:])
     lage = next((x for x in ('--dry-run', '--kanarie', '--rest') if x in a), None)
     ut = os.path.join(ROT, 'rapporter', f'shopify-original-{datetime.date.today().isoformat()}')
     if '--ut' in a:
@@ -70,9 +72,9 @@ def main(argv=None):
         print(__doc__); return 2
     poster = json.load(open(filer[0], encoding='utf-8'))
     namn = os.path.splitext(os.path.basename(filer[0]))[0]
-    sparr = las_sparr(os.path.join(ROT, 'shopify-sync/config/sparrlista.json'))
+    sparr = las_sparr(butiksprofil.i_rot(profil, 'sparrlista'))
 
-    klient = api.ShopifyKlient()
+    klient = api.klient_fran_profil(profil)
     print('Butik:', api.verifiera_butik(klient))
     ids = [w['id'] for w in poster]
     live = api.hamta_produkter(klient, ids)
@@ -120,5 +122,5 @@ def main(argv=None):
 if __name__ == '__main__':
     try:
         sys.exit(main())
-    except api.ShopifyFel as e:
+    except (api.ShopifyFel, butiksprofil.ProfilFel) as e:
         print('FEL:', api.maska(e)); sys.exit(1)

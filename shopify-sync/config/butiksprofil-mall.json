@@ -1,0 +1,34 @@
+{
+  "_om_mallen": "Kopiera till shopify-sync/config/butiksprofil-<butik>.json och fyll i ALLA fält utan understreck. Fält som börjar med _ är kommentarer och läses inte. En annan butiks profil ärver aldrig värden från BEST OF SPORTS: saknas ett obligatoriskt fält, eller står <...> kvar, stoppar skripten med ett fel. Lägg aldrig hemligheter i filen, bara NAMNEN på miljövariablerna.",
+  "butik": "<domän, t.ex. alphazoo.se>",
+  "myshopify": "<butik>.myshopify.com",
+  "butiksnamn": "<visningsnamn, t.ex. Alpha Zoo>",
+  "sprak": "sv",
+  "api": {
+    "klient_id_var": "<SHOPIFY_CLIENT_ID_KORTNAMN>",
+    "klient_hemlighet_var": "<SHOPIFY_CLIENT_SECRET_KORTNAMN>",
+    "_kommentar": "Namn på miljövariabler i molnmiljön. Måste skilja sig från BEST OF SPORTS variabler. Värdena läses bara av ShopifyKlient i minnet."
+  },
+  "gransvarden": {
+    "seo_titel_max": 43,
+    "seo_suffix": "<tema-suffix inkl. inledande mellanslag och tankstreck, t.ex.  – Alpha Zoo>",
+    "meta_min": 70,
+    "meta_max": 155
+  },
+  "klartagg": "texter-klara",
+  "sparrlista": "shopify-sync/config/sparrlista-<butik>.json",
+  "regelbok": "shopify-sync/regler/regler-v1.md",
+  "beslutslogg": "shopify-sync/docs/BESLUTSLOGG.md",
+  "arbetskatalog": "rapporter/<butik>/skriv",
+  "granskningskatalog": "rapporter/<butik>/granskning",
+  "filprefix": ["<a>", "<b>"],
+  "_filprefix_kommentar": "Batchprefix i ordning; filerna heter <prefix>_<nr>_in.json, <prefix>_<nr>_utkast.json, <prefix>_skriv_<nr>.json osv.",
+  "ersatta_batcher": [],
+  "delade_skrivfiler": [],
+  "statusfil": "shopify-sync/status/<butik>-textutrullning.md",
+  "oppna_fragor": "shopify-sync/status/oppna_fragor-<butik>.json",
+  "statusgrupp": "Batcherna",
+  "marken": [],
+  "standardblock_krav": [],
+  "taggar_som_inte_far_roras": []
+}

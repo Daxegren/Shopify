@@ -26,8 +26,13 @@ class ShopifyFel(Exception):
     pass
 
 
+# Namn (inte värden) på miljövariabler som en profil har pekat ut; maskas utöver SHOPIFY_CLIENT_*.
+_EXTRA_HEMLIGA_VARIABLER = set()
+
+
 def _hemligheter(extra=()):
-    vals = [os.environ.get(k) for k in os.environ if k.startswith('SHOPIFY_CLIENT_')]
+    namn = {k for k in os.environ if k.startswith('SHOPIFY_CLIENT_')} | {k for k in _EXTRA_HEMLIGA_VARIABLER if k in os.environ}
+    vals = [os.environ.get(k) for k in namn]
     return [v for v in list(vals) + list(extra) if v and len(v) >= 6]
 
 
@@ -53,6 +58,7 @@ class ShopifyKlient:
     def __init__(self, butik=BUTIK, id_var='SHOPIFY_CLIENT_ID_BOS', secret_var='SHOPIFY_CLIENT_SECRET_BOS',
                  transport=None, sleep=time.sleep, klocka=time.time, max_forsok=6):
         self.butik, self.id_var, self.secret_var = butik, id_var, secret_var
+        _EXTRA_HEMLIGA_VARIABLER.update((id_var, secret_var))
         self._transport, self._sleep, self._klocka, self.max_forsok = transport or _http_transport, sleep, klocka, max_forsok
         self._token = None
         self._giltig_till = 0
@@ -109,6 +115,12 @@ class ShopifyKlient:
                 self._sleep(max(1.0, (100 - ts['currentlyAvailable']) / max(ts.get('restoreRate', 50), 1)))
             return d['data']
         raise ShopifyFel(f'Gav upp efter {self.max_forsok} försök (rate limit eller serverfel).')
+
+
+def klient_fran_profil(profil, **kw):
+    """Skapar en klient för butiken i en butiksprofil (se butiksprofil.py). Läser inga miljövariabler här."""
+    return ShopifyKlient(butik=profil['myshopify'], id_var=profil['klient_id_var'],
+                         secret_var=profil['klient_hemlighet_var'], **kw)
 
 
 def gid(i):
@@ -192,8 +204,10 @@ def jamfor_efter(fore, efter, forvantad_meta, forvantad_seo_title=None):
     return fel
 
 
-def verifiera_butik(klient, forvantad=BUTIK):
-    """Stoppar om API-svaret inte kommer från förväntad butik (körs före varje skrivning)."""
+def verifiera_butik(klient, forvantad=None):
+    """Stoppar om API-svaret inte kommer från förväntad butik (körs före varje skrivning).
+    Förväntad butik är klientens egen adress (profilens myshopify) om inget annat anges."""
+    forvantad = forvantad or klient.butik
     s = klient.graphql('{shop{name myshopifyDomain}}')['shop']
     if s['myshopifyDomain'] != forvantad:
         raise ShopifyFel(f'Fel butik: {s["myshopifyDomain"]} (väntade {forvantad}).')

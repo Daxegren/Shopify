@@ -6,6 +6,10 @@ Syftet är att samma fel inte upprepas i nya arbetspass. Filen fylls bara på: n
 Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 
 
+### 2026-11-06: Skript som tyst faller tillbaka på BEST OF SPORTS kan läsa eller skriva i fel butik
+- **Vad hände:** kartläggningen för flerbutik (`flerbutik-kartlaggning.md`) visade att butiksadress, miljövariabler och taggar var standardvärden i koden. Ett skript som körs för en ny butik utan att butiken pekats ut hade därför gått mot BEST OF SPORTS, och `verifiera_butik` hade inte stoppat det eftersom både klient och förväntad butik var BOS. Skripten `shopify_skriv_texter.py`, `arkivera_dubbletter.py`, `nattkontroll.py` och `verifiera_skrivna.py` har fortfarande den egenskapen (ej ändrade i detta pass).
+- **Regel:** en profil för en annan butik får aldrig ärva butik, miljövariabler eller sökvägar från BOS; saknade obligatoriska fält ger fel (`butiksprofil.py`). Lägg `--profil` i varje skript som skriver innan det används för en andra butik, och kör alltid `verifiera_butik` mot profilens egen adress.
+
 ### 2026-11-04: Formatskriptet gav "El-Lastcykel", och granskaren fångade det bara i en av tre batcher
 - **Vad hände:** `format_regler.py` skriver stor bokstav efter bindestreck i typordet ("El-Lastcykel"). Granskaren av k_01a rättade det, men det gick igenom i k_01c (9055 och 9060) och skrevs i butiken. Upptäcktes när jag gjorde granskarens fynd till test; rättades samma dag (skrivet och återläst). Granskaren av k_01c fann dessutom 3 gånger "enligt tillverkaren" i en text (R5, högst 2), som skriptet inte räknade.
 - **Regel:** testerna "stor bokstav efter bindestreck i typordet" och "enligt tillverkaren högst 2 per text" finns nu i `skrivfil_kontroll.py`. Kör kontrollen om på skrivfilerna efter att ett nytt test lagts till, även på batcher som redan granskats.
