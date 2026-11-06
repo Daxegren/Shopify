@@ -76,3 +76,11 @@ Produkter skrivna / totalt, andel med 0 avvikelser i stickprov, antal korrigerin
 - **Rensning av metabeskrivningar:** `python3 -I shopify-sync/scripts/shopify_meta_rensning.py <indata.json> (--dry-run | --kanarie | --rest)`. Indata: lista med id, seo_title, meta_gammal, meta_ny. Före skrivning klassas varje produkt mot live (skriv / redan klar / avviker; spärrlistan respekteras). Ändrar bara `seo.description`. Före-fil och resultatfil sparas i `rapporter/shopify-original-<datum>/`. Stopp vid första avvikelse. Ordning: `--dry-run`, `--kanarie` (3 produkter), `--rest` (resten, i delar om 4, med återläsning efter varje del).
 - **Tester utan nätverk:** `python3 -I shopify-sync/scripts/test_shopify_api.py` (23 tester: token i minnet, maskning, återförsök, seo med båda fälten, jämförelse tecken för tecken, klassning).
 - **Efter arbetet:** David byter Klienthemligheten i Dev Dashboard och tar bort miljövariablerna.
+
+## Tillägg 2026-11-06: nya regler och daglig kontroll
+
+- **Regelboken** har tillägg v1.7–v1.10 (se `shopify-sync/regler/regler-v1.md`): v1.9 (varianter med olika pris, reflexprodukter) och v1.10 (lastgräns på bärande delar: sök på nätet, annars "Maximal lastgräns: Ej känd").
+- **Dubbletter:** Bara exakt samma artikel (modell, färg, storlek, vikt) räknas som dubblett (Davids beslut 2026-11-05). Samma SKU eller streckkod räcker inte som test: i praktiken är många produkter samma artikel under en annan artikelkod.
+- **Granskarens rättningar** ska anges som ett sammanhängande före/efter-par per fält. Läs byggskriptets utskrift efter rader med "fore träffar 0" före skrivning (LARDOMAR 2026-11-05).
+- **Daglig kontroll:** Kör `shopify-sync/scripts/nattkontroll.py` varje morgon. Den är bara läsande, jämför butiken med senast avsedda text och rapporterar nya avvikelser mot baslinjen (`rapporter/nattkontroll/baslinje.json`). Efter en genomgång av läget skapas en ny baslinje med `--skapa-baslinje`.
+- **Leverantörssynken (Velomarket3, jobb 13 kl. 03:22 UTC)** kan arkivera produkter och återställa text. Statusskyddet i Lovable-projektet är införskaffat 2026-11-06; se `rapporter/lovable-prompt-nattsynk-2026-11-06.md`.
