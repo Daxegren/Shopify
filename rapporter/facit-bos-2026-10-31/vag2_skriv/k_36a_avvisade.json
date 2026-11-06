@@ -1,0 +1,42 @@
+[
+ {
+  "id": "10665228173578",
+  "nr": 36001,
+  "skäl": "Bookman Reflekterande klistermärken Black Flames: tre varianter (SKU 520, 521, 522, samma pris) med oförklarade namn; vad de skiljer sig åt i (mönster eller färg) går inte att avgöra, varken i egen källa eller på webben (EAN gav ingen träff), och titeln anger \"Black Flames\". R3: titel/SEO/text skulle kunna låsa fel variant. Egen källa är dessutom tunn (flammönster, sidodekaler, cykel eller hjälm; resten är synlighetsmarknadsföring som utelämnas för reflexprodukter)."
+ },
+ {
+  "id": "10565633638666",
+  "nr": 36003,
+  "skäl": "Dubblett (R12a): samma modell och färg (Kona Rove AL/DL, Gloss Aragorn) är redan skriven i produkt 10530213429514 (ACTIVE, texter-klara). Samma titel, SEO och meta kan inte göras unika."
+ },
+ {
+  "id": "10682105987338",
+  "nr": 36004,
+  "skäl": "Dubblett (R12a): Kona Dew (2027) 29\", Gloss Metallic Peridot är redan skriven i produkt 10682105626890 (ACTIVE, texter-klara)."
+ },
+ {
+  "id": "10682106052874",
+  "nr": 36005,
+  "skäl": "Dubblett (R12a): Kona Dew (2027) 29\", Gloss Fancy Karman är redan skriven i produkt 10682105561354 (ACTIVE, texter-klara)."
+ },
+ {
+  "id": "10656688341258",
+  "nr": 36006,
+  "skäl": "Dubblett (R12a): Tunturi Platinum Hex gummibelagd hantel 37,5 kg är redan skriven i produkt 10656688275722 (ACTIVE, texter-klara). En andra oskriven kopia finns (10656688308490); tre produkter med samma artikel (SKU 25TUPLA033) kan inte få unika texter."
+ },
+ {
+  "id": "10665225978122",
+  "nr": 36007,
+  "skäl": "Dubblett (R12a): Spinningcykel Toorx SRX Speed Mag (SKU SRX-SPEED-MAG, EAN 8029975999371) är redan skriven i produkt 10665225912586 (ACTIVE, texter-klara). Ingen färg eller variant skiljer produkterna åt, så titel, SEO och meta kan inte bli unika."
+ },
+ {
+  "id": "10665226010890",
+  "nr": 36008,
+  "skäl": "Dubblett (R12a): samma artikel som 36007 (SKU SRX-SPEED-MAG, samma EAN), redan skriven i produkt 10665225912586. Pris skiljer (9979 mot 10039 kr) men inget i artikeln."
+ },
+ {
+  "id": "10656691618058",
+  "nr": 36009,
+  "skäl": "BH Fitness Lyon Climber Multimedia: i huvudsak elektronisk (10-tums pekskärm med multimedia, Netflix/Zwift, Bluetooth FTMS, bromssystem med servomotor, elektroniskt justerbar lutning). Avvisas enligt regeln om elektronik/motor/display."
+ }
+]
