@@ -208,3 +208,6 @@ Datum, vad som gick fel eller upptäcktes, och regeln som följer av det.
 
 ## 2026-11-05: Granskarens rättning med flera delar föll bort tyst
 Opus-utlåtandet för 28232 hade en html-rättning med flera delar skarvade med "|". Byggskriptet (`bygg_m_skriv.py`) skrev ut "fore träffar 0" men stoppade inte, så produkten skrevs med ett felaktigt ord ("Biltema") i beskrivningen. Stickprovet hittade det; rättat med `k_skriv_korr8.json`. Regel: läs byggskriptets utskrift efter rader med "fore träffar 0" och åtgärda före skrivning. Granskare ska ange en rättning per fält som en enda sammanhängande textbit eller ett fält per ändring.
+
+## 2026-11-06: leverantörssynken (Velomarket3) arkiverar produkter över natten
+Appen Velomarket3 arkiverade 2026-11-06 kl. 03:22–03:23 ett femtiotal produkter, varav 62 hade fått text av oss (totalt 64 skrivna produkter är nu ej aktiva), trots att Shopify visar lager på de flesta. Det syns i produkternas historik (`events`). Regel: återaktivera aldrig arkiverade produkter utan att först kontrollera historiken; synken arkiverar dem igen. Kontrollera dagen efter varje skrivomgång både status och att texterna ligger kvar (`verifiera_skrivna.py`). Produkten 10348 (Finnlo Tricon Flex, pilot-20) har också återställts av synken till leverantörens titel och text och mist taggen texter-klara; den är spärrad och rörs inte före ca 2026-11-22.
