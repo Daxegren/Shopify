@@ -1,0 +1,103 @@
+[
+ {
+  "nr": 36002,
+  "id": "10530213921034",
+  "fil": "k_36a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Gravelcykel Kona Libre 2026, 700c, Blank Metallic Kolgrå",
+    "efter": "Gravelcykel Kona Libre 2026, 700x45c, Gloss Metallic Charcoal"
+   },
+   "seo_title": {
+    "fore": "Gravelcykel Kona Libre 2026, Kolgrå",
+    "efter": "Gravelcykel Kona Libre, Metallic Charcoal"
+   },
+   "html": {
+    "fore": "<li>Färg: Blank Metallic Kolgrå</li>",
+    "efter": "<li>Färg: Gloss Metallic Charcoal</li>"
+   }
+  },
+  "skal": "Live (API 2026-11-06, BEST OF SPORTS/bestofsports.se): ACTIVE, 'Gravelcykel KONA Libre (2026) Gloss Metallic Charcoal', en variant Default Title, SKU/streckkod B37LBGYSHFA52, 38 019 kr, lager 0, taggar Cyklar, Gravelcykel, Kona, På beställning, Velomarket. Varje uppgift står i egen källa: aluminiumram och kolfibergaffel (löptext), Kona 6061 Aluminium Butted, Kona Libre Carbon Flat Mount Disc, Shimano Cues, 20 växlar, Shimano Cues Hydrauliska, WTB Vulpine TCS Light 700x45c, fästpunkter för stänkskärmar och andra tillbehör, modellår 2026 i titeln. Inga skivbroms-, mekanik- eller prestandapåståenden. Ramstorlekar rätt utelämnade (en variant; SKU-suffixet 52 motsvarar troligen M 52 cm men står inte i källan). Inte dubblett: syskonet 10488282251530 (samma titel, oskrivet) har FA48/50/54/56/58, alltså andra storlekar; Libre Winter Sky 10635810537738 (texter-klara) är annan färg. Leveranstidsmeningen finns och taggen På beställning finns; standardblocket i övrigt exakt (b_skriv_24.json). Meta 140 tecken med verb, Passar för finns, ingen 'enligt tillverkaren' behövs. skrivfil_kontroll.py: 0 fel. Rättning: färgen är Konas färgnamn och översätts inte till hälften ('Blank Metallic Kolgrå' blandar svenska och engelska). Alla 40 skrivna Kona-titlar behåller Konas namn, t.ex. 'Mountainbike Kona Process 153, Gloss Metallic Charcoal (Grå)' och 'Gravelcykel Kona Libre, 700x45c, Winter Sky'. '700c' står inte i källan, '700x45c' gör det. Ny titel 61 tecken med 2 kommatecken, SEO 41 tecken. Båda är unika mot alla utkast och skrivfiler."
+ },
+ {
+  "nr": 36102,
+  "id": "10636737184010",
+  "fil": "k_36b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, 'Viktskivor Trigrip 51 mm, 6 x 5 kg, Gjutjärn med Gummi', Default Title, SKU 100630-00009-0113, streckkod 4260200847409, 1 959 kr, lager 111, typ 'Viktskivor - 50mm', ingen tagg På beställning. Nuvarande live-text har avsnittet 'Vanliga frågor' (R15: ersätts helt). Källan är leverantörens originaltext i facit30-original.json (text_fore), inte vår text. Där står alla uppgifter ordagrant: 6x5kg, diameter 24 cm, tjocklek 3,5 cm, gjutjärn med gummibeläggning, tre handtag, håldiameter 51 mm, passar stänger med 50 mm diameter, viktmarkering, totalt 30 kg. 'Praktiska' är utelämnat. Ingen FAQ, ingen lastgräns, ingen lastuppgift. Ingen leveranstidsmening, vilket är rätt eftersom produkten saknar På beställning. Standardblocket är exakt. Titel 54 tecken och 2 kommatecken (samma som live), SEO 34 (samma som live), meta 145 med verb. Passar för har 2 punkter. Unik mot alla utkast och skrivfiler. Närmaste syskon är andra artiklar: 10636748062986 är Trigrip Gjutjärn 6 x 5 kg med 31 mm håldiameter och 10636695699722 är Trigrip Gjutjärn 51 mm i lösa vikter. skrivfil_kontroll.py: 0 fel."
+ },
+ {
+  "nr": 36001,
+  "id": "10665228173578",
+  "fil": "k_36a_avvisade.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Avvisningen står. Tre varianter, 520/521/522 (EAN 7350051865206/213/220), alla 69 kr med lager 3/5/3. Variantnamnen förklarar inte skillnaden, och titeln låser 'Black Flames'. Källan är tunn. David stängde reflexfrågan 2026-11-05 ('Reflexerna: stängda')."
+ },
+ {
+  "nr": 36003,
+  "id": "10565633638666",
+  "fil": "k_36a_avvisade.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "AVVISNINGSSKÄLET ÄR FEL, men produkten kan ändå inte skrivas säkert nu. Det är ingen dubblett enligt Davids definition från 2026-11-05 (exakt samma artikel, delat SKU eller streckkod). 36003 har SKU och streckkod B37RVADRDSHIN52, medan det skrivna syskonet 10530213429514 har B37RVADRDSHIN54 med varianten 'M/L / pink'. Samma modell och färg, men annan storlek. Egen källa: XS 48, S 50, M 52, M/L 54, L 56 och XL 58 cm. Suffixet 52 motsvarar alltså sannolikt M (52 cm), men källan säger inte vilken storlek just den här annonsen gäller. Webbkollen 2026-11-06 hittade ingen sida med exakt SKU:n (velomarket.ee, en-eu.konaworld.com/products/rove-al-dl-37 och simplebikestore.eu visar bara modellen). Utan storleken blir titel, SEO och meta lika syskonets (R12). Enligt prejudikatet 35003 Sutra LTD 56 cm skrivs storleken bara när den är verifierad för exakt SKU. Beslut för David: godta SKU-suffixet som ramstorlek ('52 cm'), så kan produkten släppas. Annars lämnas den."
+ },
+ {
+  "nr": 36004,
+  "id": "10682105987338",
+  "fil": "k_36a_avvisade.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "AVVISNINGSSKÄLET ÄR FEL, men produkten kan ändå inte skrivas säkert nu. Färgen är samma (Gloss Metallic Peridot) men storleken är inte samma. 36004 har en variant, SKU och streckkod B37DWGNSHIN06. Det skrivna syskonet 10682105626890 har varianterna S/M/L med SKU 01/03/05, och dess text säger 'Ramstorlek: S (42 cm), M (47 cm) och L (52 cm)'. Egen källa listar S, M, L och XL (57 cm), så 36004 är rimligen XL. Det stöds av mönstret i hibike.com, där Dew 27,5 XL 2022 har MPN B22DWGR06. Exakt SKU hittades dock inte på webben. Inte dubblett enligt Davids definition. Titeln måste skilja sig från syskonet och kräver då 'XL (57 cm)', vilket inte är verifierat. Källan är dessutom engelsk. Beslut för David som för 36003: godta suffixet 06 som XL, så kan produkten släppas. Då ska texten bara nämna XL, inte S/M/L."
+ },
+ {
+  "nr": 36005,
+  "id": "10682106052874",
+  "fil": "k_36a_avvisade.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "AVVISNINGSSKÄLET ÄR FEL, samma läge som 36004. Färgen är samma (Gloss Fancy Karman), men SKU och streckkod B37DWBL1SHIN06 skiljer sig från det skrivna syskonet 10682105561354 (S/M/L, SKU 01/03/05). Rimligen XL (57 cm), men det är inte verifierat för exakt SKU. Ingen dubblett. Kan släppas om David godtar suffixet som storlek, annars lämnas den."
+ },
+ {
+  "nr": 36006,
+  "id": "10656688341258",
+  "fil": "k_36a_avvisade.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Avvisningen står: exakt samma artikel. SKU 25TUPLA033 och EAN 8717842039038 är identiska med de i den skrivna produkten 10656688275722 (texter-klara, 37,5 kg) och i 10656688308490. Bara priset skiljer (2 429 mot 2 469 kr). Det är en dubblett enligt Davids definition och hör till sammanslagningsplanen."
+ },
+ {
+  "nr": 36007,
+  "id": "10665225978122",
+  "fil": "k_36a_avvisade.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Avvisningen står. SKU SRX-SPEED-MAG och EAN 8029975999371 är identiska med de i den skrivna produkten 10665225912586, och priset är detsamma (10 039 kr). Exakt dubblett."
+ },
+ {
+  "nr": 36008,
+  "id": "10665226010890",
+  "fil": "k_36a_avvisade.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Avvisningen står: samma SKU och EAN som 36007 och 10665225912586. Priset är 9 979 kr. Exakt dubblett."
+ },
+ {
+  "nr": 36009,
+  "id": "10656691618058",
+  "fil": "k_36a_avvisade.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Avvisningen står: H9117TFT är i huvudsak elektronik (pekskärm, motor och servobroms). Det är en säkerhetskategori enligt granskarmallen."
+ },
+ {
+  "nr": 36101,
+  "id": "10636706349322",
+  "fil": "k_36b_avvisade.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Avvisningen står. Varianterna är fem olika artiklar: 5, 10, 15, 20 och 25 kg, SKU 100946-00001-0010 till -0029, egna EAN och olika mått (diameter 25 eller 45 cm, tjocklek 3,4–6 cm). v1.9 nämner uttryckligen vikter i flera storlekar. Befintlig FAQ ligger kvar live, och produkten måste delas upp genom ett separat beslut."
+ }
+]
