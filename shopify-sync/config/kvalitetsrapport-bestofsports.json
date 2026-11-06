@@ -1,0 +1,21 @@
+{
+  "namn": "BEST OF SPORTS, textutrullning till och med 2026-11-06",
+  "butik": "BEST OF SPORTS",
+  "profil": "shopify-sync/config/butiksprofil-bestofsports.json",
+  "sparrlista": "shopify-sync/config/sparrlista.json",
+  "regelbok": "shopify-sync/regler/regler-v1.md",
+  "inventering": ["rapporter/facit-bos-2026-10-31/vag2_skriv/*_in.json"],
+  "utkast": ["rapporter/facit-bos-2026-10-31/vag2_skriv/*_utkast.json"],
+  "avvisade": ["rapporter/facit-bos-2026-10-31/vag2_skriv/*_avvisade.json"],
+  "utlatanden": ["rapporter/facit-bos-2026-10-31/vag2_skriv/*utlatande*.json"],
+  "skrivfiler": ["rapporter/facit-bos-2026-10-31/vag2_skriv/*skriv*.json"],
+  "korrigeringsmonster": ["korr", "fix"],
+  "fore": ["rapporter/shopify-original-*/*fore*.json"],
+  "resultat": ["rapporter/shopify-original-*/*resultat*.json"],
+  "skrivrapporter": ["rapporter/facit-bos-2026-10-31/granskning/*skrivrapport*.md"],
+  "stickprov": ["rapporter/facit-bos-2026-10-31/granskning/stickprov_*.md"],
+  "oppna_fragor": "shopify-sync/status/oppna_fragor.json",
+  "efterkontroll": ["rapporter/nattkontroll/nattkontroll-2026-11-06.md", "rapporter/arkiverade-av-synk-2026-11-06.md"],
+  "totalt_i_butiken": {"antal": 3234, "kalla": "rapporter/beslut-2026-11-06.md (aktiva produkter 2026-11-06)"},
+  "exempel": {"antal": 5, "fro": "bestofsports-2026-11-06"}
+}
