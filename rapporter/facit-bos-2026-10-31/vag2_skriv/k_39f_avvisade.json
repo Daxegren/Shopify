@@ -1,0 +1,52 @@
+[
+ {
+  "id": "10472518779146",
+  "nr": 39125,
+  "skäl": "Tunn och motsägande källa (R3): egen källa är tom (ingen beskrivning), bara titel, SKU CFF och EAN; taggen \"Viktlås 31mm\" motsäger titelns 30 mm. Inga två entydiga fakta utöver titeln."
+ },
+ {
+  "id": "10475362025738",
+  "nr": 39126,
+  "skäl": "Titel och källa motsäger varandra (R3): titeln anger 26\", källtexten säger \"Passar för 28\" cyklar\". Storleken kan inte styrkas."
+ },
+ {
+  "id": "10475369562378",
+  "nr": 39127,
+  "skäl": "El/batteri/elektronik: elektrisk sparkcykel med motor 80 W, litiumjonbatteri, laddare och LED-belysning. Dessutom barnprodukt med motor."
+ },
+ {
+  "id": "10475619942666",
+  "nr": 39132,
+  "skäl": "Lås (kedjelås, säkerhetsnivå 7/15): rent säkerhetsprodukt, avvisas enligt beslut."
+ },
+ {
+  "id": "10480045523210",
+  "nr": 39135,
+  "skäl": "Elektronik: LCD-display och träningsprogram (3 st); spinningcykel med elektronik tas för hand med Davids ja (standard §10)."
+ },
+ {
+  "id": "10480045850890",
+  "nr": 39136,
+  "skäl": "Elektronik: pekskärmsdator med bakgrundsbelyst LCD, 10 + 5 träningsprogram, konditionstest och pulssensorer. Källan har dessutom motstridiga rader (\"Lastkapacitet: 24\", \"Max. belastning: 9 kg\" mot användarvikt 150 kg)."
+ },
+ {
+  "id": "10480054599946",
+  "nr": 39137,
+  "skäl": "Olika artiklar i en annons (v1.9): två varianter med olika artikelnummer (21-2547, 21-2548), streckkod och pris (289 och 489 kr) medan titeln anger 4 kg; källan saknar vikt per variant. Lyft till uppdelning per vikt."
+ },
+ {
+  "id": "10486670786826",
+  "nr": 39138,
+  "skäl": "El/batteri/elektronik: elcykel med motor 250 W, batteri 696 Wh, momentgivare och belysning."
+ },
+ {
+  "id": "10488282317066",
+  "nr": 39140,
+  "skäl": "Hjälm (avvisas enligt beslut)."
+ },
+ {
+  "id": "10494689378570",
+  "nr": 39144,
+  "skäl": "Källan motsäger titeln och sig själv (R2/R3): titeln säger Hantel 2,25 kg 30x360 mm, källan beskriver ett \"Hantelgrepp\"/förkromat handtag med längd 35 cm (mot 360 mm), och måttraden är trasig (\"Mått: 30 mm, längd: 30 mm, längd: 30 mm\"). Oklart om det är en komplett hantel eller bara stången; vikten 2,25 kg står inte i källan."
+ }
+]
