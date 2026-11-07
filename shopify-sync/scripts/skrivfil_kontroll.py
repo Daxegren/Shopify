@@ -6,6 +6,9 @@ Användning: skrivfil_kontroll.py FIL [FIL ...] [--sparr shopify-sync/config/spa
 """
 import csv, json, re, sys, os, collections
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import regeltester  # nya kontroller (läge per kontroll i shopify-sync/config/regeltester.json); börjar som varning
+
 ROT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
 MARKEN = ['Hammer', 'Toorx', 'Tunturi', 'BH Fitness', 'Finnlo by Hammer', 'Gymstick', 'Christopeit', 'Kettler', 'Fluid', 'Union', 'Peltonen']
 MARKEN_VARNING = ['Fluid']
@@ -110,6 +113,20 @@ def kontrollera(fil, sparr, tillat_kanda):
     return len(d), fel, varn
 
 
+def kontrollera_regeltester(fil):
+    """Nya kontroller (regeltester.py). Returnerar (fel, varningar) som textrader. Påverkar inte kontrollera() eller utgångskoden
+    så länge alla kontroller står i läget varning (standard)."""
+    cfg = regeltester.las_cfg()
+    fel, varn = [], []
+    with open(fil, encoding='utf-8') as fh:
+        utkast = json.load(fh)
+    for x in utkast:
+        for lage, fy in regeltester.kontrollera_utkast(x, cfg):
+            rad = f"{x.get('nr')} ({x.get('id')}): [{fy.kod}] i {fy.falt}: {fy.text}"
+            (fel if lage == 'fel' else varn).append(rad)
+    return fel, varn
+
+
 def main():
     a = sys.argv[1:]
     sparr_path = os.path.join(ROT, 'shopify-sync/config/sparrlista.json')
@@ -129,6 +146,12 @@ def main():
         for m in fel: print('  FEL  ', m)
         for m in varn[:5]: print('  varn ', m)
         totalfel += len(fel)
+        rfel, rvarn = kontrollera_regeltester(fil)
+        if rfel or rvarn:
+            print(f'  regeltester: {len(rfel)} FEL, {len(rvarn)} varningar (varje kontroll: shopify-sync/scripts/regeltester.py)')
+            for m in rfel: print('  FEL  ', m)
+            for m in rvarn[:5]: print('  varn ', m)
+        totalfel += len(rfel)
     sys.exit(1 if totalfel else 0)
 
 

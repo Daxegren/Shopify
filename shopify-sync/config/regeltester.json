@@ -1,0 +1,23 @@
+{
+  "beskrivning": "Inställningar för shopify-sync/scripts/regeltester.py. Läge per kontroll: varning (stoppar inte), fel (stoppar skrivfilen) eller av. Alla nya kontroller började som varning 2026-11-06; de som hade för många falsklarm i mätningen (se shopify-sync/status/regeltester-matning.md) är satta till av. Listorna nedan är förslag framtagna ur granskningsfacit och ska godkännas av David innan någon kontroll får läget fel.",
+  "standardlage": "varning",
+  "lage": {
+    "TYPORD_FEL_PLATS": "av",
+    "TUM_HJUL": "av",
+    "LASTGRANS_UTAN_ETV": "av",
+    "META_UTAN_VERB": "av"
+  },
+  "extra_marken": ["Giant", "SKS", "Union", "Trec", "Kona", "Liv"],
+  "butiksord": {
+    "scooter": "sparkcykel"
+  },
+  "engelska_typord": [
+    "power rack", "half rack", "squat stand", "mini bike", "foam roller",
+    "aerobic stepper", "training belts?", "power station", "ab roller"
+  ],
+  "kvalitetsord": [
+    "slitstark", "slitstyrk", "robust", "hållbar", "tålig", "halkfri", "halkskydd",
+    "stödjer", "skyddar", "premium", "bekväm", "underlätt", "förbättr", "effektiv",
+    "BPA-fri", "andningsaktiv", "fukttransport", "UPF"
+  ]
+}
