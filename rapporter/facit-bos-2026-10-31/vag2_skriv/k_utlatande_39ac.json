@@ -1,0 +1,265 @@
+[
+ {
+  "nr": 39001,
+  "id": "10406816186634",
+  "fil": "k_39a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live (API 2026-11-07, BEST OF SPORTS): ACTIVE, en variant 14TUSCL331, 449 kr, lager 1. Vikt 24 kg, svart, gjutjärn och vinyl står i källan. Marknadsföring och hälsopåståenden (viktminskning, toning) är utelämnade. Meta 94 tecken med verb. Unik."
+ },
+ {
+  "nr": 39002,
+  "id": "10411603558666",
+  "fil": "k_39a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, en variant TS14TUSYO053, lager 10. Mått 32 x 5,8 x 0,2 cm, 40 g, motstånd 7–10 kg, 70 % polyester/30 % bomull, latexfritt gummiband och tvättråd står ordagrant i källan. 'Förbättrar hållningen', 'minskar risken för skador', 'halkfria', 'högkvalitativa' är utelämnade. Typordet Träningsgummiband är korrekt svenska, stöds av källans 'träningsgummi' och är samma som på det skrivna syskonet 10472238547210 (Träningsgummiband Tunturi Textile, Ljusgult). Det bör läggas in i profilens godkanda_typord. Medium/Grön står i live-titeln (en variant)."
+ },
+ {
+  "nr": 39003,
+  "id": "10411704320266",
+  "fil": "k_39a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, en variant SC1730, 289 kr, lager 11. Ingen dubblett: den skrivna 10472253980938 (SKU 1730) var ursprungligen 'Venice, svart' (handle ...-venice-svart-1730), och denna är brun. Annan färg behålls (BESLUTSLOGG 2026-11-05). Titel, SEO och meta är unika. Ursprung och kvalitetslöfte ('tillverkad i Italien med bästa material') samt trasiga rader är utelämnade. Övriga fakta står i källan."
+ },
+ {
+  "nr": 39004,
+  "id": "10411761336586",
+  "fil": "k_39a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, två färgvarianter (blå 179 kr, rosa 169 kr), lager 21. v1.9 är uppfylld: titel, SEO och text låser varken färg eller pris. Massagerulle utan värme/vibration omfattas inte av spärren i profilen. Typordet Massagerulle är rätt svenska och samma som på det skrivna syskonet 10472259092746. Längd, diameter och EVA står i källan. Effektpåståenden ('slappna av och stretcha muskler') är utelämnade."
+ },
+ {
+  "nr": 39006,
+  "id": "10411861213450",
+  "fil": "k_39a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Rekommenderade bindningar enligt tillverkaren: Xcelerator 2.0 CL eller Performance CL</li>",
+    "efter": "<li>Rekommenderade bindningar: Xcelerator 2.0 CL eller Performance CL</li>"
+   }
+  },
+  "skal": "Live: ACTIVE, SKU 21AM321200-R00T188, EAN 6417858565119, lager 1. Det skrivna syskonet 10411722506506 (R00T202) är en annan längd, så produkten är ingen dubblett. Längden 188 cm: smartech.ee-adressen ger 403 för granskaren, men sökvägen ('...infrac2122stiff188...') och leverantörens längdkod T### stämmer med Alpina-stavarna 39057, där varianttitlarna 135–160 motsvarar T135–T160. Uppgiften godtas. Rättning: källan säger 'För skidbindningar rekommenderar vi' (säljaren), inte tillverkaren. Raden skrivs därför utan 'enligt tillverkaren', som på syskonet. Övriga fakta (Aircell Honeycomb, PRG 4100, 44/44/44 mm, MOVE NIS) står i källan, och prestandapåståenden är utelämnade. Titeln har 54 tecken och 2 kommatecken."
+ },
+ {
+  "nr": 39012,
+  "id": "10462199120138",
+  "fil": "k_39a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, två varianter (2201126288 Default Title, 2201126287 L / blue) med samma pris 13 399 kr och lager 14 (v1.8). Ingen storlek låses. Sapphire stämmer med 'blue'. Ram, gaffel, fälgar, däck, Alivio M3120/M3100, 18 växlar, Tektro HDC M275 och 180/160 mm står i källan. Den trasiga storleksraden och marknadsföringen är utelämnade. Ingen skriven Talon 29 3 GE Sapphire finns live (10411713528074 är en 27,5-tums DRAFT). Ingen tagg På beställning, så ingen leveranstidsmening. Detta är rätt."
+ },
+ {
+  "nr": 39013,
+  "id": "10462224777482",
+  "fil": "k_39a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, en variant (Red) 14TUSCL376, lager 10. 2 x 2 kg, mått 19 x 8,4 x 7,2 cm, gjutjärn och neopren står i källan. Formatet är samma som på syskonen (2 x 0,5 kg Rosa m.fl.), och titel och SEO är unika. Greppåståenden är utelämnade."
+ },
+ {
+  "nr": 39014,
+  "id": "10462756405514",
+  "fil": "k_39a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, en variant, EAN 5902659841957, lager 1. Källan är tunn. Webbkollen bekräftar exakt EAN, 65 cm och grå (morele.net). Enligt BESLUTSLOGG 2026-11-05 skrivs tunn källa efter webbkoll. 'Anti-Burst' (säkerhetsord) och maxlasten 150 kg (bara hos återförsäljare) är rätt utelämnade. Det skrivna syskonet Spokey Fitball III skrevs utan lastgräns. Användningsplatserna står i källan och anges en gång 'enligt tillverkaren'."
+ },
+ {
+  "nr": 39015,
+  "id": "10462764040458",
+  "fil": "k_39a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, en variant, lager 3. Diametrarna 7,5/9,5/6,5/6,5 cm, bärväska och färgerna står i källan. Den dubbla silikonbollen anges som 'Diameter 6,5 cm', som i källan, utan att antalet bollar tolkas. Effekt- och kvalitetsord är utelämnade."
+ },
+ {
+  "nr": 39016,
+  "id": "10462770987274",
+  "fil": "k_39a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, en variant, lager 4. Endast produktfakta: smak, 900 g, ingredienser, portion och dos ordagrant. Alla effektpåståenden (återhämtning, metabolism, 'bekämpa överflödiga kilon') är utelämnade, och typordet anger kosttillskott. Samma upplägg som det skrivna syskonet 10470974980362. Obs till David: källans rad 'kan innehålla ... jordnötter och nötter' är utelämnad, som på syskonen. På en produkt med jordnötssmak kan det vara klokt att ta med allergenraden ordagrant (se utlåtandet)."
+ },
+ {
+  "nr": 39017,
+  "id": "10462771151114",
+  "fil": "k_39a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, en variant, lager 12. Ingredienslista, 2000 g, portion och dos står ordagrant. BCAA-, katabolism-, fettförbrännings- och aptitpåståenden är utelämnade. Samma upplägg som det skrivna syskonet Jordgubb 10470937985290. SEO-titeln skiljs med smaken och är unik."
+ },
+ {
+  "nr": 39018,
+  "id": "10462773182730",
+  "fil": "k_39a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, en variant, lager 11. Endast fakta: 60 kapslar, 1 kapsel per dag, användning, förvaring och varning. Alla påståenden om kalcium, ben och hjärta är utelämnade. Kapsel valdes framför källans 'tablett', vilket stämmer med titeln. Obs till David: källan har varningen 'Azorubin kan ha negativa effekter på barns aktivitet och uppmärksamhet' men ingen ingredienslista. Utkastaren utelämnade varningen. Se utlåtandet."
+ },
+ {
+  "nr": 39021,
+  "id": "10462847467786",
+  "fil": "k_39a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Golvmatta Hammer Puzzlemat Professional, 156 x 104 x 2,5 cm",
+    "efter": "Träningsmatta Hammer Puzzlemat Professional, 156 x 104 x 2,5 cm"
+   },
+   "seo_title": {
+    "fore": "Golvmatta Hammer Puzzlemat Professional",
+    "efter": "Träningsmatta Hammer Puzzlemat Professional"
+   },
+   "meta": {
+    "fore": "Golvmattan Hammer Puzzlemat Professional består av sex delar och mäter 156 x 104 x 2,5 cm. Den går att fälla ihop och utöka med en 2-delad förlängning.",
+    "efter": "Träningsmattan Hammer Puzzlemat Professional består av sex delar och mäter 156 x 104 x 2,5 cm. Den går att fälla ihop och utöka med en 2-delad förlängning."
+   },
+   "html": {
+    "fore": "<p>Hammer Puzzlemat Professional är en golvmatta i sex delar som mäter 156 x 104 x 2,5 cm. Mattan är avsedd att användas under träningsutrustning, går att fälla ihop och demontera och kan utökas med en 2-delad förlängning.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en golvmatta att använda under träningsutrustning</li>\n<li>Dig som vill kunna utöka mattan med en 2-delad förlängning</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Golvmatta</li>\n<li>Märke: Hammer</li>\n<li>Modell: Puzzlemat Professional</li>\n<li>Mått: 156 x 104 x 2,5 cm</li>\n<li>Antal delar: 6</li>\n<li>Förvaring: Går att fälla ihop och demontera</li>\n<li>Utökning: Går att utöka med en 2-delad förlängning</li>\n</ul>",
+    "efter": "<p>Hammer Puzzlemat Professional består av sex delar och mäter 156 x 104 x 2,5 cm. Träningsmattan är avsedd att användas under träningsutrustning, går att fälla ihop och demontera och kan utökas med en 2-delad förlängning.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en träningsmatta att använda under träningsutrustning</li>\n<li>Dig som vill kunna utöka mattan med en 2-delad förlängning</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Träningsmatta</li>\n<li>Märke: Hammer</li>\n<li>Modell: Puzzlemat Professional</li>\n<li>Mått: 156 x 104 x 2,5 cm</li>\n<li>Antal delar: 6</li>\n<li>Förvaring: Går att fälla ihop och demontera</li>\n<li>Utökning: Går att utöka med en 2-delad förlängning</li>\n</ul>"
+   }
+  },
+  "skal": "Live: ACTIVE, en variant 18005, lager 3. Mått, 6 delar, att den går att fälla ihop och demontera och 2-delad förlängning står i källan. Ljud- och skyddspåståendena är utelämnade. Rättning (R7/R11): utkastets motivering att syskonet heter 'Golvmatta Hammer Puzzlemat Basic' stämmer inte. Det skrivna syskonet 10650169508106 heter 'Träningsmatta Hammer Puzzlemat Basic', och live-titeln här säger 'träningsmatta'. Typordet blir Träningsmatta i titel, SEO, meta och text. Samtidigt tas den cirkulära inledningen bort ('X är en golvmatta', som skriptet varnade för). Ny titel: 63 tecken och 2 kommatecken. SEO: 43 tecken. Meta: 155 tecken. Alla är unika."
+ },
+ {
+  "nr": 39022,
+  "id": "10462853136650",
+  "fil": "k_39a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, en variant 1073001120, lager 7. Barnprodukt som är frisläppt (2026-11-05). Bara fakta, inga säkerhetsord. Aluminiumram, 12 tum och justerbar sadel med snabbspänne står i källan. 'Ca 85–100 cm' är en entydig del av en trasig rad (R2) och anges en gång enligt tillverkaren. Syskonen (Svart, Dusted Peri, utan färg) har andra SKU, så produkten är ingen dubblett."
+ },
+ {
+  "nr": 39023,
+  "id": "10468718051594",
+  "fil": "k_39a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Hammer Ferrum TX3 är ett multigym med bröstpress, ryggpress, benpress och kabelpress. Det är 210 x 120 x 198 cm och väger 147 kg.",
+    "efter": "Multigymmet Hammer Ferrum TX3 har bröstpress, ryggpress, benpress och kabelpress och väger 147 kg. Maximal lastgräns är inte känd."
+   },
+   "html": {
+    "fore": "<p>Hammer Ferrum TX3 är ett multigym för styrketräning hemma med bröstpress, ryggpress, benpress och kabelpress. Det är 210 x 120 x 198 cm och väger 147 kg.</p><h2>Passar för</h2><ul>\n<li>Dig som söker ett multigym med bröstpress, ryggpress, benpress och kabelpress</li>\n<li>Dig som har en takhöjd på minst 200 cm</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Multigym</li>\n<li>Märke: Hammer</li>\n<li>Modell: Ferrum TX3</li>\n<li>Övningar: Bröstpress, ryggpress, benpress och kabelpress</li>\n<li>Mått: 210 x 120 x 198 cm</li>\n<li>Minsta takhöjd: 200 cm</li>\n<li>Vikt: 147 kg</li>\n</ul>",
+    "efter": "<p>Multigymmet Hammer Ferrum TX3 för styrketräning hemma har bröstpress, ryggpress, benpress och kabelpress. Det är 210 x 120 x 198 cm och väger 147 kg. Maximal lastgräns är inte känd.</p><h2>Passar för</h2><ul>\n<li>Dig som söker ett multigym med bröstpress, ryggpress, benpress och kabelpress</li>\n<li>Dig som har en takhöjd på minst 200 cm</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Multigym</li>\n<li>Märke: Hammer</li>\n<li>Modell: Ferrum TX3</li>\n<li>Övningar: Bröstpress, ryggpress, benpress och kabelpress</li>\n<li>Mått: 210 x 120 x 198 cm</li>\n<li>Minsta takhöjd: 200 cm</li>\n<li>Vikt: 147 kg</li>\n<li>Maximal lastgräns: Ej känd</li>\n</ul>"
+   }
+  },
+  "skal": "Live: ACTIVE, en variant 9038, EAN 4005251903809, lager 1. Typordet Multigym är etablerad svenska, står i live-titeln ('Multi-gym') och är samma som på det skrivna syskonet 10650169213194 (Multigym Hammer Ferrum TX2). Behåll det, men lägg in multigym i profilens godkanda_typord (profilen har annars träningsstation). Lastgräns (v1.10): 'Maximal belastningsvikt: 120 kg' är maskinöversatt från leverantörens engelska 'Maximum operating weight' (LARDOMAR 2026-11-04), och det framgår inte om den gäller användaren eller belastningen. Att utelämna den är därför rätt enligt R4. Webbsökningen gav 120 kg bara hos återförsäljare (OTTO, discounto, velomarket). Manualen på manualslib gäller art.-nr 9035, inte 9038. Enligt v1.10 och beslutet om 32069/32070 ska då 'Maximal lastgräns: Ej känd' stå. Det saknades i utkastet och läggs till. Samtidigt rättas den cirkulära inledningen i meta och text ('Hammer Ferrum TX3 är ett multigym'). Ny meta: 130 tecken. Ursprung och kvalitetsord är rätt utelämnade."
+ },
+ {
+  "nr": 39050,
+  "id": "10472237465866",
+  "fil": "k_39c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, en variant CE-S23X-B, lager 3. Grilamid TR90, PC, 13 %, UV400 och 27,6 g står i källan. 'Stark nylon' (motsägelse), 'giftfri' och 'mångsidiga' är utelämnade. UV400 anges med 'enligt tillverkaren', vilket följer praxis (Lins enligt tillverkaren: 100 % UV400 i en redan skriven text). Titeln har 61 tecken och 2 kommatecken."
+ },
+ {
+  "nr": 39054,
+  "id": "10472240087306",
+  "fil": "k_39c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, EAN 4019238043839, lager 17. Webbkollen bekräftar exakt EAN: rubbex.com anger 65-622 till 70-622, Schrader (autoventil) och 29 tum. Typordet Innerslang följer praxis (k_skriv_07, 17ab, 34ab). Notationen 65/622-70/622 är samma som i de skrivna slangarna."
+ },
+ {
+  "nr": 39057,
+  "id": "10472242086154",
+  "fil": "k_39c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, fem längdvarianter 135–160 cm med samma pris 329 kr (v1.8). Längd och färg låses inte. Gummihandtag 16 mm, rem Tour och stålspets står i källan. Källans 'Längd 125–160 cm' (motsäger varianterna) och de trasiga formelraderna är rätt utelämnade."
+ },
+ {
+  "nr": 39062,
+  "id": "10472244281610",
+  "fil": "k_39c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, lager 2. Verkan ('förbättrar glidet', 'skyddar mot frysning') står ordagrant i källan och anges en gång 'enligt tillverkaren' per fält (R5). Det är produktens funktion, inget kvalitetslöfte. Typordet Antifrys följer live-titeln (R7: källan använder inte 'antifrysmedel'), men syskonen heter Antifrysmedel. Det kan enhetliggöras senare, men ingen rättning görs. 85 ml står i titeln, och +5…-15 skrivs utan påhittad enhet."
+ },
+ {
+  "nr": 39064,
+  "id": "10472245002506",
+  "fil": "k_39c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Material: Gel</li>\n<li>Ingår:",
+    "efter": "<li>Ingår:"
+   }
+  },
+  "skal": "Live: ACTIVE, en variant, lager 1. Gul står i live-titeln. Vibrations- och komfortpåståendena är rätt utelämnade. Rättning (R1): 'Material: Gel' står inte i källan, som bara säger att tejpen har 'en gel'. Raden tas bort, och texten 'har en gel' står kvar. Det skrivna syskonet 10470908264714 har ingen materialrad."
+ },
+ {
+  "nr": 39066,
+  "id": "10472246837514",
+  "fil": "k_39c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, en variant 0759E, lager 53. 56/75 cm, ca 55 mm och fästen står i källan. 26 tum och svart står i live-titeln. Typordet är samma som på de skrivna Taipan-syskonen (24 och 28 tum), och texten är unik."
+ },
+ {
+  "nr": 39067,
+  "id": "10472248443146",
+  "fil": "k_39c_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, tom beskrivning, SKU 10100, lager 5. Webbkollen bekräftar tillverkarnummer 10100, svart, 26–28 tum, fram- och bakskärm och att monteringsmaterial ingår (bike-components.de, sportano.com; bild-EAN 4002556168025). Vikten är rätt utelämnad eftersom källorna går isär. Ingen dubblett: Beavertail XL är 10101."
+ },
+ {
+  "nr": 39068,
+  "id": "10472251523338",
+  "fil": "k_39c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Justerbart Cykelstöd Azimut, 20–29 tum",
+    "efter": "Cykelstöd Azimut, Justerbart, 20–29 tum"
+   },
+   "seo_title": {
+    "fore": "Justerbart Cykelstöd Azimut, 20–29 tum",
+    "efter": "Cykelstöd Azimut, Justerbart, 20–29 tum"
+   }
+  },
+  "skal": "Live: ACTIVE, en variant, lager 205. Bärande del (v1.10) utan lastgräns. 'Maximal lastgräns: Ej känd' och meningen i texten finns. Rättning (R7): typordet först, som på de skrivna Cykelstöd OXC Deluxe och Giant KSA. Ny titel och SEO: 39 tecken och 2 kommatecken, unika."
+ },
+ {
+  "nr": 39070,
+  "id": "10472261878026",
+  "fil": "k_39c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Damcykel Liv Tempt 2, 29 tum, Ocean Wave",
+    "efter": "Damcykel Liv Tempt 2, 29 tum"
+   },
+   "seo_title": {
+    "fore": "Damcykel Liv Tempt 2 29 tum, Ocean Wave",
+    "efter": "Damcykel Liv Tempt 2, 29 tum"
+   },
+   "meta": {
+    "fore": "Damcykeln Liv Tempt 2 i Ocean Wave har aluminiumram, Shimano Altus, hydrauliska skivbromsar och en gaffel med 100 mm slaglängd. Däcken är 29 x 2,2 tum.",
+    "efter": "Damcykeln Liv Tempt 2 har aluminiumram, Shimano Altus, hydrauliska skivbromsar och en gaffel med 100 mm slaglängd. Däcken är 29 x 2,2 tum."
+   }
+  },
+  "skal": "Live: ACTIVE, två varianter med samma SKU 2201119285 och EAN men olika pris (Default Title 13 449 kr, M / green 11 699 kr), lager 4. Beslut: färgnamnet tas bort ur titel, SEO och meta. v1.7 säger uttryckligen att en produkt med överbliven Default Title och samma SKU skrivs utan färg i titeln (som 10113), och v1.9 säger att titel och SEO inte låser färg när priserna skiljer. Raden 'Färg: Ocean Wave' i specifikationen får stå, eftersom båda varianterna är samma artikel. Övriga fakta står i källan, och marknadsföringen är utelämnad. Ny titel 'Damcykel Liv Tempt 2, 29 tum' är unik (skrivna syskon: 27,5 tum Ocean Wave, Tempt 2 GE, Mountainbike Tempt 2 med andra färger). Meta: 138 tecken."
+ },
+ {
+  "nr": 39072,
+  "id": "10472263123210",
+  "fil": "k_39c_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Giant Talon 29 2, 29 tum, Phantom Green",
+    "efter": "Mountainbike Giant Talon 29 2 Phantom Green"
+   }
+  },
+  "skal": "Live: ACTIVE, varianterna M/L/XL green med olika pris (10 299/8 959/8 959 kr), lager 8. v1.9 är uppfylld: ingen storlek och inget pris låses, och färgen gäller alla varianter. Taggen 'På beställning' finns. Leveranstidsmeningen 'Beställningsvaror kan ta upp till en vecka längre.' står i Frakt-stycket, och standardblocket är exakt (b_skriv_24 plus meningen, som 38001). Fakta står i källan. Rättning (R7): SEO-titeln saknade typordet. Med komma blir den 44 tecken, så den blir utan komma: 'Mountainbike Giant Talon 29 2 Phantom Green' (43 tecken, unik)."
+ }
+]
