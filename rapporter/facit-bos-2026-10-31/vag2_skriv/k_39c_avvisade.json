@@ -1,0 +1,72 @@
+[
+ {
+  "id": "10472232419594",
+  "nr": 39049,
+  "skäl": "Tunn källa (R3): live-texten är bara marknadsföring (\"snygg\", \"unik design\", \"hög kvalitet\", \"bra ljud\") och märkeshistorik; entydiga fakta finns bara i titeln (märke, modell, färg). Webbsökning på modell och EAN 4718905933137 gav ingen sida med mått eller material för exakt klockan. Färre än två entydiga fakta."
+ },
+ {
+  "id": "10472237596938",
+  "nr": 39051,
+  "skäl": "Hjälm (cykelhjälm Lazer Chiru): avvisas enligt uppdraget (hjälmar, säkerhetsprodukt)."
+ },
+ {
+  "id": "10472238678282",
+  "nr": 39052,
+  "skäl": "Tunn källa (R3): live-beskrivningen är tom; titeln ger bara typ, huva och färg. Webbsökning på märke, modell och EAN 8711252647869 gav ingen träff. Färre än två entydiga fakta."
+ },
+ {
+  "id": "10472238743818",
+  "nr": 39053,
+  "skäl": "Belysning (bakljus för hjälm, batteridriven): avvisas enligt uppdraget."
+ },
+ {
+  "id": "10472240382218",
+  "nr": 39055,
+  "skäl": "Bromsdel (bromsskiveadapter för 160 mm bromsskiva): avvisas enligt uppdraget."
+ },
+ {
+  "id": "10472240611594",
+  "nr": 39056,
+  "skäl": "Källan och titeln motsäger varandra (R2/R3): titeln och live-texten anger ETRTO 57/70-584, men webbkoll på EAN 4019238008074 ger Continental MTB 27.5 B+ med dimensionen 65-584 till 70-584 (27,5 x 2,6–2,8 tum) och autoventil, medan en annan Continental-slang med Presta har 57/70-584. Dimensionen går inte att skriva entydigt, och slangen kan vara samma artikel som 8249. https://hollandbikeshop.com/en-gb/bicycle-tires-and-inner-tubes/continental-bicycle-tires/continental-inner-tube-schrader-valve/continental-27-5-inch-inner-tube-sv/continental-mtb-27-5-b-inner-tube-27-5x2-6-2-8-sv-40mm-bl-606124/"
+ },
+ {
+  "id": "10472242249994",
+  "nr": 39058,
+  "skäl": "Titeln och källan motsäger varandra: titeln säger \"Bakdäck\" men live-texten beskriver en bakre frihjulsnav (Shimano FH-TX5008-QR, 8/9-delat, V-broms). Nav bär last och är säkerhetskritisk; produkttypen byts inte."
+ },
+ {
+  "id": "10472243200266",
+  "nr": 39059,
+  "skäl": "Bromsdel (bromshandtag/bromsreglage Shimano BL-R400): avvisas enligt uppdraget."
+ },
+ {
+  "id": "10472243298570",
+  "nr": 39060,
+  "skäl": "Titeln och källan motsäger varandra (R2): titeln säger \"Gymnastikgummiband/boxningssäcksfäste\", live-texten säger fäste för träningsbollar och boxningssäckar, och butikens tagg är Cykelväska. Dessutom hängande/bärande del utan lastgräns, med trasig materialrad (\"Stål: 18 mm - 18 gauge stål ... 18 mm handtag i rostfritt stål\"). Entydiga fakta: stål och takmontering."
+ },
+ {
+  "id": "10472244052234",
+  "nr": 39061,
+  "skäl": "Bromsdel (Shimano BR-R451 bromsok): avvisas enligt uppdraget."
+ },
+ {
+  "id": "10472244871434",
+  "nr": 39063,
+  "skäl": "Bromsdel (Shimano BR-R451 bromsok, engelsk titel): avvisas enligt uppdraget."
+ },
+ {
+  "id": "10472245330186",
+  "nr": 39065,
+  "skäl": "Titeln och egen tagg/källa motsäger varandra: titeln säger \"Bakre stödhjul\", men taggen är \"stödben\" och texten (\"Hålavstånd 18 mm, Ø 18 mm\") och artikeln (Hebie Fix 18) beskriver ett stödben. Typordet kan inte bytas utan stöd i källan. Bärande del där lastgräns är oenig i webbkällorna (se 32026: 25 respektive 50 kg)."
+ },
+ {
+  "id": "10472255979786",
+  "nr": 39069,
+  "skäl": "Elcykel (motor Bafang M410, batteri 36 V 14 Ah): avvisas enligt uppdraget (motor/batteri/elektronik)."
+ },
+ {
+  "id": "10472261976330",
+  "nr": 39071,
+  "skäl": "Hjälm (Melon New York, även med storlek för barn): avvisas enligt uppdraget. Varianterna har dessutom samma SKU med olika pris."
+ }
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "id": "10470888243466",
+  "nr": 39025,
+  "skäl": "Lås (viktlås/skivstångslås) enligt uppdragets avvisningslista; hindrar att viktskivor glider av stången. Live-titeln \"Leverlås\" stämmer inte med källans \"skivstångslås\", taggen Cykellås är felaktig och källan innehåller säkerhetsord (\"starka lås som sitter stadigt\"). Kan tas för hand om David vill."
+ },
+ {
+  "id": "10470922944778",
+  "nr": 39026,
+  "skäl": "Barnhjälm: hjälmar (även barnhjälmar) avvisas."
+ },
+ {
+  "id": "10470925074698",
+  "nr": 39028,
+  "skäl": "Lås (fjäderklämmor för viktskivor) enligt avvisningslistan; källan lovar \"starkt grepp\" och säkerhet. Live-titeln \"Lever springlås\" och taggen Cykellås stämmer inte med källans \"fjäderklämmor\". Källans vikt anges som 39 g och 39 ltr (motsägelse)."
+ },
+ {
+  "id": "10470925238538",
+  "nr": 39029,
+  "skäl": "Titeln och källan motsäger varandra: titeln säger PE-kettlebell 12 kg men källan säger PVC (material och namn), \"16 kg PVC-kettle\" i löptexten och 12 kg i tabellen, och produktkoden 14TUSCL183 stämmer inte med SKU 14TUSCL182. Källan verkar delvis höra till en annan produkt."
+ },
+ {
+  "id": "10470929334538",
+  "nr": 39032,
+  "skäl": "Pedaler: bärande/säkerhetskritisk cykeldel enligt avvisningslistan. Dessutom varianter med olika pris (629 / 489 kr) och en variant med estniska namnet \"sinine\"."
+ },
+ {
+  "id": "10470943621386",
+  "nr": 39035,
+  "skäl": "Källan och titeln motsäger varandra: titeln \"Vitaminpulver\" men produkten är ett pre-workout-pulver med koffein, betalanin, L-arginin och kreatin, och ingredienslistan (kreatinmonohydrat, natriumcitrat, vitamin C) skiljer sig från beskrivningen. Koffeinprodukt (utanför enligt profilen)."
+ },
+ {
+  "id": "10470944702730",
+  "nr": 39038,
+  "skäl": "Utanför enligt profilen: potens/libido (källan: \"gynnsam effekt på fertiliteten\", \"naturlig sexuell aktivitet\") och växtextrakt (maca rot, huvudingrediens i produktnamnet). Taggarna Herrcykel och Trek är dessutom felaktiga."
+ },
+ {
+  "id": "10472221802762",
+  "nr": 39047,
+  "skäl": "Löpband med motor, display och elektronik (enligt avvisningslistan: elektronik/batteri); dessutom en variant med pris 0 kr (svart, SKU 24TCFT3000) och taggen Gymstick, På beställning."
+ }
+]
