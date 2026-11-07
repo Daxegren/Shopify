@@ -64,3 +64,6 @@ Skapad 2026-11-04. Filen fylls bara på; nya beslut läggs överst i tabellen, g
 
 ## 2026-11-07 (David: "Vill även att vi släpper igenom löpband och elcyklar")
 - Löpband och elcyklar släpps igenom för textskrivning (faktatext ur produktens egen källa). Gäller de som ligger aktiva utan texter-klara (61 elcyklar, 4 löpband enligt `rapporter/kvarvarande-2026-11-07/uppdelning.csv`). Inga säkerhets-, räckvidds-, prestanda- eller hälsolöften; batteri/motordata bara när källan är entydig.
+
+## 2026-11-07 (David: "Ja" till att skriva Gymstick-produkterna)
+- De 98 aktiva Gymstick-produkterna utan texter-klara (ej lås, löpband tas i k_41) får text enligt vanliga regler. Gymstick-taggen rörs inte.
