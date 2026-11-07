@@ -1,0 +1,303 @@
+[
+ {
+  "nr": 39121,
+  "id": "10472348221706",
+  "fil": "k_39f_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Stänkskärmar Hebie Taipan 20 tum, Svart",
+    "efter": "Stänkskärmset Hebie Taipan, 20 tum, Svart"
+   },
+   "seo_title": {
+    "fore": "Stänkskärmar Hebie Taipan 20 tum",
+    "efter": "Stänkskärmset Hebie Taipan, 20 tum"
+   },
+   "meta": {
+    "fore": "Stänkskärmssetet Hebie Taipan är lämpligt för nästan alla 20-tums hjul. Fästelement och monteringsfästen för alla fälgar ingår.",
+    "efter": "Stänkskärmsetet Hebie Taipan är lämpligt för nästan alla 20-tums hjul. Fästelement och monteringsfästen för alla fälgar ingår."
+   },
+   "html": {
+    "fore": "<p>Stänkskärmssetet Hebie Taipan är lämpligt för nästan alla 20-tums hjul. Fästelement och monteringsfästen för alla fälgar ingår, och bakhjulsbågen är cirka 72 cm lång.</p><h2>Passar för</h2><ul>\n<li>Dig som söker stänkskärmar till 20-tums hjul</li>\n<li>Dig som vill ha ett skärmset med fästelement inkluderade</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Stänkskärmar</li>",
+    "efter": "<p>Stänkskärmsetet Hebie Taipan är lämpligt för nästan alla 20-tums hjul. Fästelement och monteringsfästen för alla fälgar ingår, och bakhjulsbågen är cirka 72 cm lång.</p><h2>Passar för</h2><ul>\n<li>Dig som söker stänkskärmar till 20-tums hjul</li>\n<li>Dig som vill ha ett skärmset med fästelement inkluderade</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Stänkskärmset</li>"
+   }
+  },
+  "skal": "Live ACTIVE, en variant 0757E, lager 64. Alla fakta i egen källa (nästan alla 20-tumshjul, fästelement och monteringsfästen ingår, bakhjulsbågen ca 72 cm, bredd ca 50 mm; svart ur live-titeln). Rättning R7/R12: de skrivna syskonen heter 'Stänkskärmset Hebie Taipan, 24 tum, Svart' och '…, 26 tum, Svart' (samma engelska källtyp 'Fender set'); typordet ska vara enhetligt, och 'Stänkskärmssetet' stavas 'Stänkskärmsetet'. Unik mot syskonen genom 20 tum."
+ },
+ {
+  "nr": 39122,
+  "id": "10472351105290",
+  "fil": "k_39f_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Kosttillskott Trec Essensey Magnesium",
+    "efter": "Kosttillskott Trec Essensey Magnesium + B6"
+   },
+   "html": {
+    "fore": "<p>Trec Essensey Magnesium + B6 är ett kosttillskott med magnesium i fyra former och vitamin B6.",
+    "efter": "<p>Kosttillskottet Trec Essensey Magnesium + B6 innehåller magnesium i fyra former och vitamin B6."
+   }
+  },
+  "skal": "Live ACTIVE, lager 7. Kosttillskott frisläppt 2026-11-05; magnesium/B6 hör inte till de undantagna. Bara produktfakta: ingredienslista ordagrann, dos, användning, förvaring, varningar. Källans påståenden (100 % av dagligt behov, trötthet, sömn, återhämtning, elektrolytbalans, vegetarianer) är utelämnade. Typordet Kosttillskott enligt uppdraget. 'halsa' på 'vitamin' är det kända falsklarmet. Rättning R11: inledningen var cirkulär ('X är ett kosttillskott'). Rättning R12: SEO-titeln utan '+ B6' går inte att skilja från syskonet Trec Essensey Magnesium+Zinc+B6 (10472351170826, skrivet); '+ B6' ryms (42 tecken)."
+ },
+ {
+  "nr": 39123,
+  "id": "10472400486666",
+  "fil": "k_39f_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Hammer Basic är en 6-delad pusselmatta som mäter 185 x 120 x 1,2 cm och har ytan i träimitation.",
+    "efter": "<p>Pusselmattan Hammer Basic består av 6 delar, mäter 185 x 120 x 1,2 cm och har ytan i träimitation."
+   }
+  },
+  "skal": "Live ACTIVE, lager 1. Fakta i egen källa (6-delad, 185 x 120 x 1,2 cm, träimitation, kan demonteras och förvaras kompakt, golvmatta/bas för gymutrustning hemma). Skydds- och dämpningspåståenden utelämnade. Typordet Pusselmatta ur live-titeln. Rättning R11: cirkulär inledning ('Hammer Basic är en … pusselmatta')."
+ },
+ {
+  "nr": 39124,
+  "id": "10472434073866",
+  "fil": "k_39f_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Tunturi PR60 Power Rack är ett knäböjsställ i stål för hemmet eller gymmet. Det har en chinsstång med flera grepp och justerbara J-hooks, och det kan kompletteras med tillbehör. Ställningens höjder kan ställas in i 18 lägen.</p>",
+    "efter": "<p>Knäböjsstället Tunturi PR60 Power Rack är byggt i stål för hemmet eller gymmet. Det har en chinsstång med flera grepp och J-hooks som kan ställas in i 18 höjder, och det kan kompletteras med tillbehör.</p>"
+   }
+  },
+  "skal": "Live ACTIVE, lager 1, tagg På beställning; leveranstidsmeningen finns. Egen källa engelsk; fakta verifierade på https://www.tunturi.com/en/pr60-power-rack.html (art.nr 25TSPR6000, EAN 8717842038321): 123 x 135 x 213,7 cm, 78 kg, 'Maximum load: 300 kg', 'Number of adjustable heights: 18' för J-hooks och spotter arms. 300 kg skrivs en gång enligt tillverkaren (v1.10). Rättning: 'Ställningens höjder kan ställas in i 18 lägen' var fel (det är J-hooks/spotterarmar som ställs i 18 höjder, inte ställningen) och inledningen var cirkulär. Till David: tillverkarens sida säger inte uttryckligen om 300 kg gäller hela ställningen eller J-hooks/spotterarmar; tillbehören dip/kabeldrag har lägre gränser. Säkerhetsarmar ('safety grips') nämns inte, korrekt."
+ },
+ {
+  "nr": 39128,
+  "id": "10475373101322",
+  "fil": "k_39f_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Tunturi Pro är en väggmonterad pull-up-stång i stål för pull-ups och chin-ups.",
+    "efter": "<p>Pull-up-stången Tunturi Pro monteras på vägg, är gjord i stål och används för pull-ups och chin-ups."
+   }
+  },
+  "skal": "Live ACTIVE, lager 3. Fakta i egen källa och på https://www.tunturi.com/en/pro-pull-up-bar-wall-connect.html (149 x 38 x 41,5 cm, stål, svart/krom, monteringskit med expanderbultar, art.nr 14TUSCF085). Lastgräns: tillverkaren anger ingen; 300 kg finns bara hos återförsäljaren eleme.ee, och andra återförsäljare anger 120 kg för liknande Tunturi-stänger. 'Maximal lastgräns: Ej känd' enligt v1.10 är rätt. Typordet Pull-up-stång står i egen källa ('Pull up-stång'). Rättning R11: cirkulär inledning."
+ },
+ {
+  "nr": 39129,
+  "id": "10475373429002",
+  "fil": "k_39f_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, en variant, lager 9. Alla fakta i egen svensk källa (35 cm stång, största skivan 16 cm, totalvikt 10 kg, 2 x 2,5 + 2 x 1,25 kg, 2 skruvpluggar per hantel, svart/krom, gjutjärn/stål). Halkfritt, säkert och skruvlåspåståendet utelämnade. Unik mot de skrivna Tunturi-hantelseten (15, 20 och 28 kg)."
+ },
+ {
+  "nr": 39130,
+  "id": "10475418485002",
+  "fil": "k_39f_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Liv Doublespring är en dricksflaska som rymmer 600 ml. Enligt tillverkaren är flaskan 100 % BPA-fri.",
+    "efter": "Dricksflaskan Liv Doublespring rymmer 600 ml och är transparent. Enligt tillverkaren är flaskan 100 % BPA-fri."
+   },
+   "html": {
+    "fore": "<p>Liv Doublespring är en dricksflaska som rymmer 600 ml.",
+    "efter": "<p>Dricksflaskan Liv Doublespring rymmer 600 ml."
+   }
+  },
+  "skal": "Live ACTIVE, lager 7, SKU 480000362 (annan SKU än skrivna Liv Doublespring 600 ml Transparent och Svart, 480000278, alltså inte dubblett). Tunn källa: 600 ml och '100% BPA-fri' (ordagrant, en gång enligt tillverkaren per fält), transparent ur titeln; 'lätt att rengöra' och 'Bench' utelämnade. Rättning R11: meta och inledning var cirkulära ('Liv Doublespring är en dricksflaska'). Meta efter 109 tecken med verb."
+ },
+ {
+  "nr": 39131,
+  "id": "10475418681610",
+  "fil": "k_39f_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Giant KSA är ett justerbart cykelstöd av aluminium för Giant Direct Mount KSA och 20–24 tums bakhjul. Det fästs med två bultar.",
+    "efter": "Cykelstödet Giant KSA är justerbart, gjort av aluminium och avsett för Giant Direct Mount KSA och 20–24 tums bakhjul. Det fästs med två bultar."
+   },
+   "html": {
+    "fore": "<p>Giant KSA är ett justerbart cykelstöd för Giant Direct Mount KSA och 20–24 tums bakhjul.",
+    "efter": "<p>Cykelstödet Giant KSA är justerbart och avsett för Giant Direct Mount KSA och 20–24 tums bakhjul."
+   }
+  },
+  "skal": "Live ACTIVE, lager 83. Fakta i egen källa (justerbart, Giant Direct Mount KSA, 20–24 tums bakhjul, aluminium, fästs på KSA18 med två bultar). Webbkoll (giant-bicycles.com, balfesbikes, ridleys med 500000038): ingen lastgräns hos tillverkaren, så 'Ej känd' enligt v1.10 är rätt. Rättning R11: meta och inledning var cirkulära."
+ },
+ {
+  "nr": 39133,
+  "id": "10475980226826",
+  "fil": "k_39f_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, sex storleksvarianter (37–41, 43) med olika SKU men samma pris och ingen färg (v1.8); titeln låser ingen storlek och spec listar bara storlekar som säljs. Typordet Kombipjäxor står i egen källa ('kombipjäxor i TOURING-serien'). Fakta: skate och klassisk, innerfoder, snölås, vattentätt och vattenavvisande yttermaterial (en gång enligt tillverkaren), Touring Auto/Basic. Komfort- och värmelöften utelämnade. Inte samma produkt som Barnskidpjäxor Alpina T 8 JR."
+ },
+ {
+  "nr": 39134,
+  "id": "10475983339786",
+  "fil": "k_39f_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "NIS Performance CL är en klassisk skidbindning för både träning och tävling. Bindningen har ett manuellt fästsystem.",
+    "efter": "Den klassiska skidbindningen NIS Performance CL är avsedd för både träning och tävling och har ett manuellt fästsystem."
+   },
+   "html": {
+    "fore": "<p>NIS Performance CL är en klassisk skidbindning för både träning och tävling.",
+    "efter": "<p>Den klassiska skidbindningen NIS Performance CL är avsedd för både träning och tävling."
+   }
+  },
+  "skal": "Live ACTIVE, lager 12. Tunn källa men två entydiga fakta (klassisk bindning för träning och tävling, manuellt fästsystem); 'säker och bekväm passform' utelämnat. Pjäxsystem inte angivet, korrekt. Rättning R11: meta och inledning var cirkulära."
+ },
+ {
+  "nr": 39139,
+  "id": "10488246698250",
+  "fil": "k_39f_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Giant Attend RS 3 GTS är en stadscykel med aluminiumram, 8 växlar och V-bromsar. Stänkskärmar, pakethållare samt fram- och bakljus ingår.",
+    "efter": "Stadscykeln Giant Attend RS 3 GTS har aluminiumram, 8 växlar och V-bromsar. Stänkskärmar, pakethållare samt fram- och bakljus ingår."
+   },
+   "html": {
+    "fore": "<p>Giant Attend RS 3 GTS är en stadscykel med ram av aluminium (ALUXX-Grade),",
+    "efter": "<p>Stadscykeln Giant Attend RS 3 GTS har ram av aluminium (ALUXX-Grade),"
+   }
+  },
+  "skal": "Live ACTIVE, lager 14, tagg På beställning; leveranstidsmeningen finns. Sju variantrader, alla svarta och 10 529 kr, storlekar M/L/XL (v1.8); titeln låser ingen storlek, svart gäller alla varianter. Fakta i egen källa (ALUXX-Grade, Shimano Altus, 8 växlar, Tektro V-bromsar, CST REACH 37-622, ramstorlekar och längder, medföljande delar). Stadscykel står i källan och matchar skrivna Attend RS 2 GTS. Rättning R11: meta och inledning var cirkulära. Till David (ej textfel): variantlistan har dubblettrader (SKU 2226011185 tre gånger för M, extra SKU 2226011187/2226011188 för L/XL utan streckkod) och bör städas i butiken."
+ },
+ {
+  "nr": 39141,
+  "id": "10494672929034",
+  "fil": "k_39f_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Tunturi PE Kettlebell är en sandfylld kettlebell på 2 kg i svart. Den finns i olika vikter. Artikelnummer 14TUSCL102.",
+    "efter": "Kettlebellen Tunturi PE väger 2 kg, är fylld med sand och är svart. Den finns i olika vikter. Artikelnumret är 14TUSCL102."
+   },
+   "html": {
+    "fore": "<p>Tunturi PE Kettlebell är en sandfylld kettlebell på 2 kg.",
+    "efter": "<p>Kettlebellen Tunturi PE väger 2 kg och är fylld med sand."
+   }
+  },
+  "skal": "Live ACTIVE, lager 2, tagg På beställning; leveranstidsmeningen finns. Material och mått utelämnade med rätta (titeln PE, egen källa PVC, webben delad PE/PVC och olika mått). 'PE' behålls bara som produktnamn (Tunturi/återförsäljare säljer den som 'Tunturi PE Kettlebell'). Fakta: 2 kg, sandfylld, svart, finns i olika vikter. Rättning R11: meta och inledning var cirkulära ('Tunturi PE Kettlebell är en … kettlebell'). Till David: skrivna syskonet 10588446589194 (16 kg) har 'PVC' i titeln; materialfrågan gäller hela serien."
+ },
+ {
+  "nr": 39142,
+  "id": "10494685479178",
+  "fil": "k_39f_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Ursus King R78 är ett cykelstöd för bakgaffel till 24–28 tums hjul. Stödet är av aluminium och har 18 mm mellan de två bultarna.",
+    "efter": "Cykelstödet Ursus King R78 är avsett för bakgaffel och 24–28 tums hjul. Det är av aluminium och har 18 mm mellan de två bultarna."
+   },
+   "html": {
+    "fore": "<p>Ursus King R78 är ett stöd för bakgaffel till 24–28 tums hjul.",
+    "efter": "<p>Cykelstödet Ursus King R78 är avsett för bakgaffel och 24–28 tums hjul."
+   }
+  },
+  "skal": "Live ACTIVE, lager 1. Fakta i egen svensk källa (bakgaffel, 24–28 tum, 18 mm mellan bultarna, aluminium, 'Lastkapacitet 35 kg' med etikett och enhet; skrivs en gång enligt tillverkaren enligt R4/v1.10). Rättning R11: meta och inledning var cirkulära. Unik mot skrivna Mini-stöd Ursus King R78 (10472227340554)."
+ },
+ {
+  "nr": 39143,
+  "id": "10494689280266",
+  "fil": "k_39f_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Look Geo City Grip är platta pedaler i komposit med gummigrepp från Vibram. Plattformen mäter 107 x 103 mm. Maximal lastgräns är inte känd.",
+    "efter": "Pedalerna Look Geo City Grip är platta och gjorda i komposit, med grepp av vulkaniserat gummi (Look Activ Grip från Vibram)."
+   },
+   "html": {
+    "fore": "<p>Look Geo City Grip är platta pedaler i komposit. Greppet är av vulkaniserat gummi (LOOK Activ Grip från Vibram). Plattformens yta är 107 x 103 mm och Q-faktorn är 63 mm. Maximal lastgräns är inte känd.</p><h2>Passar för</h2><ul>\n<li>Dig som söker platta pedaler med gummigrepp</li>\n<li>Dig som vill ha pedaler i komposit</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Pedaler (platta)</li>\n<li>Material: Komposit</li>\n<li>Grepp: Vulkaniserat gummi, LOOK Activ Grip från Vibram</li>\n<li>Q-faktor: 63 mm</li>\n<li>Plattformens yta: 107 x 103 mm</li>\n<li>Vikt: 265 g</li>",
+    "efter": "<p>Pedalerna Look Geo City Grip är platta och gjorda i komposit. Greppet är av vulkaniserat gummi (Look Activ Grip från Vibram), och varje pedal väger 265 g. Maximal lastgräns är inte känd.</p><h2>Passar för</h2><ul>\n<li>Dig som söker platta pedaler med gummigrepp</li>\n<li>Dig som vill ha pedaler i komposit</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Pedaler (platta)</li>\n<li>Material: Komposit</li>\n<li>Grepp: Vulkaniserat gummi, Look Activ Grip från Vibram</li>\n<li>Vikt: 265 g per pedal</li>"
+   }
+  },
+  "skal": "Live ACTIVE, lager 7. Webbkoll hos tillverkaren (https://www.lookcycle.com/by-en/products/pedals/urban/geo-city-grip): komposit, vulkaniserat gummi activ grip, platta pedaler + LOOK activ grip by VIBRAM, 'Pedal 265 g', men 'Q Factor 62 mm' och 'Platform area 100x103 mm' mot egen källas 63 mm och 107x103 mm. Motsägelse enligt R2: Q-faktor och plattformsmått tas bort ur meta, löptext och specifikation; vikten gäller per pedal enligt tillverkaren. Ingen lastgräns hos tillverkaren, 'Ej känd' enligt v1.10. Meta utan lastgränsmeningen (står i text och spec). Märket skrivs 'Look' som i skrivna syskonet Camo. Till David: skrivna syskonet Pedaler Look Geo City Grip, Camo (10494689345802) har 63 mm och 107 x 103 mm i texten, som tillverkaren inte anger."
+ },
+ {
+  "nr": 39145,
+  "id": "10494691115274",
+  "fil": "k_39g_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, lager 10. Alla fakta i egen källa (golvmatta L för elliptiska tränare/crosstrainers och löpband, ca 1600 x 840 x 3 mm). Grepp- och skyddspåståenden utelämnade. Golvmatta står i källan. Enhetlig med skrivna Golvmatta Christopeit M och XL."
+ },
+ {
+  "nr": 39146,
+  "id": "10494691410186",
+  "fil": "k_39g_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Christopeit Speed Jumper är ett hopprep med PVC-sladd.",
+    "efter": "<p>Hopprepet Christopeit Speed Jumper har PVC-sladd."
+   }
+  },
+  "skal": "Live ACTIVE, lager 2. Fakta i egen källa (Speed Jumper, PVC-sladd, justerbar längd upp till ca 276 cm, 0,1 kg). Effektpåståenden utelämnade. Hopprep står i källan. Rättning R11: cirkulär inledning ('… är ett hopprep')."
+ },
+ {
+  "nr": 39148,
+  "id": "10494695342346",
+  "fil": "k_39g_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>M-Wave ADA T90 är en adapter för flaskhållare. Adaptern är av aluminium och svart.</p>",
+    "efter": "<p>Adaptern M-Wave ADA T90 används för att montera en flaskhållare. Den är av aluminium och svart.</p>"
+   }
+  },
+  "skal": "Live ACTIVE, lager 101. Egen källa tunn och delvis trasig ('lins'); modell, material, färg och användning verifierade hos tillverkaren https://messingschlager.com/en/products/bottle-cages_t54/m-wave-ada-t90-adapter-for-bottle-cages_a340017 (M-WAVE Ada T90, art.nr 340017, EAN 887539017446 = live, aluminium, svart, 'for mounting a bottle cage'). Rättning R11: cirkulär inledning."
+ },
+ {
+  "nr": 39149,
+  "id": "10494695375114",
+  "fil": "k_39g_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Giant FSX är en framskärm för mountainbikes. Artikelnumret är 350703. Finns hos BEST OF SPORTS.",
+    "efter": "Framskärmen Giant FSX är gjord för mountainbikes. Enligt tillverkaren passar den de flesta gafflar och är snabb att ta bort och installera."
+   },
+   "html": {
+    "fore": "<p>Giant FSX är en framskärm för mountainbikes.",
+    "efter": "<p>Framskärmen Giant FSX är gjord för mountainbikes."
+   }
+  },
+  "skal": "Live ACTIVE, lager 24. Fakta i egen källa (framskärm för mountainbikes, snabb att ta bort och installera, kompatibel med de flesta gafflar; giant-bicycles.com bekräftar). 'Högkvalitativ' utelämnat. Rättning R11/R12: meta var cirkulär och fylld med 'Artikelnumret är 350703. Finns hos BEST OF SPORTS.' trots att källan räcker; ersatt med källans två fakta (en gång enligt tillverkaren). Meta efter 141 tecken."
+ },
+ {
+  "nr": 39154,
+  "id": "10494919180554",
+  "fil": "k_39g_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "S'cool flaX 8.5 är en hopfällbar sparkcykel med aluminiumram, fotbroms och höjdjusterbart styre mellan 92 och 102 cm.",
+    "efter": "Sparkcykeln S'cool flaX 8.5 är hopfällbar och har aluminiumram, fotbroms och höjdjusterbart styre mellan 92 och 102 cm."
+   },
+   "html": {
+    "fore": "<p>S'cool flaX 8.5 är en hopfällbar sparkcykel med aluminiumram, fotbroms och höjdjusterbart styre.",
+    "efter": "<p>Sparkcykeln S'cool flaX 8.5 är hopfällbar och har aluminiumram, fotbroms och höjdjusterbart styre."
+   }
+  },
+  "skal": "Live ACTIVE, lager 2, varianter blue och Red, samma pris 3 679 kr (v1.9); titel, SEO och text låser ingen färg. Barnprodukt frisläppt 2026-11-05, sparkcykel ej undantagen; inga säkerhets- eller utvecklingslöften. Källans maxhöjd '102 mm' är trasig; 92–102 cm och hjulen 230 x 40 mm/215 x 40 mm i mm står på tillverkarens sida enligt sökmotorns index (scool.de/en/products/s-cool-flax-8-5 med exakt EAN), men sidan är nu borttagen (404) och kunde inte läsas direkt. Godtas eftersom siffrorna stämmer med egen källa och enheten är entydig hos tillverkaren; flaggas till David. 'Maximal belastning: 100 kg' svensk rad med etikett, en gång enligt tillverkaren. Rättning R11: meta och inledning var cirkulära ('S'cool flaX 8.5 är en … sparkcykel'; skriptet missar mönstret på grund av punkten i 8.5)."
+ },
+ {
+  "nr": 39155,
+  "id": "10494919213322",
+  "fil": "k_39g_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "S'cool flaX 8.4 är en hopfällbar sparkcykel med aluminiumram, fotbroms och höjdjusterbart styre mellan 870 och 970 mm.",
+    "efter": "Sparkcykeln S'cool flaX 8.4 är hopfällbar och har aluminiumram, fotbroms och höjdjusterbart styre mellan 870 och 970 mm."
+   },
+   "html": {
+    "fore": "<p>S'cool flaX 8.4 är en hopfällbar sparkcykel med aluminiumram, fotbroms och höjdjusterbart styre. Styrets höjd kan ställas in mellan 870 och 970 mm. Hjulen är av PU, 200 mm, med ABEC-7-lager. Serien flaX är enligt tillverkaren utvecklad för barn.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en hopfällbar sparkcykel</li>\n<li>Dig som söker en sparkcykel med höjdjusterbart styre</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Sparkcykel</li>\n<li>Ram: Aluminium</li>\n<li>Hopfällbar: Ja</li>\n<li>Styrehöjd: 870–970 mm</li>\n<li>Hjul: PU, 200 mm</li>",
+    "efter": "<p>Sparkcykeln S'cool flaX 8.4 är hopfällbar och har aluminiumram, fotbroms och höjdjusterbart styre. Styrets höjd kan ställas in mellan 870 och 970 mm. Hjulen är av PU och har ABEC-7-lager. Serien flaX är enligt tillverkaren utvecklad för barn.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en hopfällbar sparkcykel</li>\n<li>Dig som söker en sparkcykel med höjdjusterbart styre</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Sparkcykel</li>\n<li>Ram: Aluminium</li>\n<li>Hopfällbar: Ja</li>\n<li>Styrehöjd: 870–970 mm</li>\n<li>Hjul: PU</li>"
+   }
+  },
+  "skal": "Live ACTIVE, en variant, lager 3; färg vit/gul ur live-titeln. Styrhöjd 870–970 mm i egen källa (sökindex för scool.de anger 87–97 cm för EAN 4250969225174). Rättning R2: hjulmåttet '200' saknar enhet i egen källa och bekräftades inte hos tillverkaren för 8.4 (bara för 8.3 hos en återförsäljare); utelämnat i löptext och spec, PU och ABEC-7 står kvar. Rättning R11: meta och inledning var cirkulära. 'Maximal belastning: 100 kg' en gång enligt tillverkaren."
+ }
+]
