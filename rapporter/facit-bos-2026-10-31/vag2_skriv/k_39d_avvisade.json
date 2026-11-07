@@ -1,0 +1,32 @@
+[
+ {
+  "id": "10472263844106",
+  "nr": 39077,
+  "skäl": "Varianterna är olika artiklar (olika artikelnummer 14TUSCL290 och 14TUSCL291 och olika pris 69 och 149 kr, titeln anger 0,50 kg men varianterna namnges bara med artikelnummer); v1.9 avvisar olika artiklar i en annons."
+ },
+ {
+  "id": "10472265056522",
+  "nr": 39081,
+  "skäl": "Titeln och källan motsäger varandra: titeln anger färgen Off-white men källans specifikation anger \"Färg: grönaktig\". Dessutom står \"Anti Burst\" bara i titeln och källan listar fyra storlekar medan bara 75 cm säljs."
+ },
+ {
+  "id": "10472269611274",
+  "nr": 39087,
+  "skäl": "Kosttillskott med växtextrakt (Rhodiola rosea-extrakt): utanför enligt butiksprofilen (frislappta_2026_11_05, \"växtextrakt\"). Källans text består dessutom av hälsopåståenden."
+ },
+ {
+  "id": "10472270987530",
+  "nr": 39090,
+  "skäl": "Kosttillskott med växtextrakt (Centella asiatica-extrakt, Gotu Kola): utanför enligt butiksprofilen. Källan anger hälsopåståenden (cirkulation, kognitiv funktion, sårläkning)."
+ },
+ {
+  "id": "10472276984074",
+  "nr": 39091,
+  "skäl": "Akupressurmadrass och kudde: akupressur ligger under utanfor_tills_vidare i butiksprofilen (R6); källan består av hälsopåståenden."
+ },
+ {
+  "id": "10472285569290",
+  "nr": 39095,
+  "skäl": "Tunn källa (R3): live-beskrivningen är tom, titeln är enda källa. Webbsökning på Azimut THIN gel sadelöverdrag 275x160 mm gav ingen sida för exakt modell (inga Azimut-träffar). Färre än två entydiga fakta utöver titeln."
+ }
+]

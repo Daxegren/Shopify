@@ -1,0 +1,62 @@
+[
+ {
+  "id": "10472289075466",
+  "nr": 39097,
+  "skäl": "Olika artiklar i en annons (v1.9): fem varianter med olika artikelnummer, streckkod och pris (59–439 kr), troligen olika vikter, medan titeln anger 10 kg. Källan har bara producent, borrdiameter 29 mm och material järn, och motsägs av titelns 30 mm. Lyft till uppdelning per vikt."
+ },
+ {
+  "id": "10472299135242",
+  "nr": 39099,
+  "skäl": "Elektronik (LCD-display) och motsägelse i egen källa: svänghjul anges som 20 kg i texten och 24 kg i specifikationen. Spinningcykel med elektronik hör till de produkter som tas för hand med Davids ja (standard §10)."
+ },
+ {
+  "id": "10472300085514",
+  "nr": 39100,
+  "skäl": "Trampolin (avvisas enligt beslut). Källan har dessutom bara hälso- och säkerhetsfraser och inga mått."
+ },
+ {
+  "id": "10472303755530",
+  "nr": 39102,
+  "skäl": "Däck med säkerhetsfunktion (dubbade vinterdäck, grepp på is; samma grupp avvisades tidigare, b_2). Live-titeln är avklippt (\"20 x 1.\") och källan motsäger den: ETRTO 47-406 (motsvarar 20 tum) anges som \"24 tum\"; texten är dessutom upprepade trasiga rader (\"för kullersten\" m.fl.). Titeln kan inte skrivas om utan att gissa däckbredd."
+ },
+ {
+  "id": "10472304083210",
+  "nr": 39103,
+  "skäl": "Däck med säkerhetsfunktion (dubbade vinterdäck, grepp på is; samma grupp avvisades tidigare, b_2). Live-titeln är avklippt (\"28x1.\") och källan saknar däckstorlek och ETRTO (bara \"106 lbs\"); texten innehåller dessutom säkerhetspåståenden (säkerhet, stabilitet) som inte kan skrivas."
+ },
+ {
+  "id": "10472304902410",
+  "nr": 39104,
+  "skäl": "Däck med säkerhetsfunktion (dubbade vinterdäck, grepp på is; samma grupp avvisades tidigare, b_2). Live-titeln är avklippt (\"24 x 1.\") och börjar med \"Dubbdäck SUOMI TYRES Hjul\"; källan är en kopia av Routa-texten (modellen W106 nämns inte) med trasiga rader. Modellen kan inte styrkas entydigt."
+ },
+ {
+  "id": "10472305000714",
+  "nr": 39105,
+  "skäl": "Däck med säkerhetsfunktion (dubbade vinterdäck, grepp på is; samma grupp avvisades tidigare, b_2). Live-titeln är avklippt (\"24 x 1.\") och källan har trasig uppgift (\"212 lb\") i stället för dubbantal; däckbredd saknas."
+ },
+ {
+  "id": "10472306606346",
+  "nr": 39106,
+  "skäl": "Elektronik: LCD-display, servomotor/PMS-bromssystem, FTMS-anslutning och effektmätning (max effekt 800 W). Spinningcykel med elektronisk broms tas för hand med Davids ja (standard §10)."
+ },
+ {
+  "id": "10472329969930",
+  "nr": 39112,
+  "skäl": "Elcykel med motor (Bafang H300, 250 W), batteri (378 Wh) och belysning; avvisas enligt beslut (elektronik/batteri)."
+ },
+ {
+  "id": "10472330756362",
+  "nr": 39115,
+  "skäl": "Hjälm (avvisas enligt beslut)."
+ },
+ {
+  "id": "10472330789130",
+  "nr": 39116,
+  "skäl": "Hjälm (avvisas enligt beslut)."
+ },
+ {
+  "id": "10472332198154",
+  "nr": 39117,
+  "skäl": "Titel och källa motsäger varandra: titeln säger Rambler R6.0 JR, källtexten beskriver R6.1 JR. Dessutom två varianter med olika artikelnummer och pris (7059 kr \"Default Title\" och 6139 kr \"L / roheline\") och källan listar tre ramstorlekar (S/M/L) som inte matchar varianterna; taggen På beställning. R3/v1.8: olika pris och oklara varianter avvisas."
+ }
+]
