@@ -1,0 +1,36 @@
+[
+ {
+  "nr": 38001,
+  "id": "10565633638666",
+  "fil": "k_38a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live (API 2026-11-07, BEST OF SPORTS/bestofsports.se): ACTIVE, 'Gravelcykel KONA Rove AL/DL, Gloss Aragorn', en variant Default Title, SKU/streckkod B37RVADRDSHIN52, 18 399 kr, lager 0, taggar Cyklar, Gravelcykel, Kona, På beställning, Velomarket. STORLEKEN ÄR VERIFIERAD, inte bara härledd: Konas egen produktdata (https://en-eu.konaworld.com/products/rove-al-dl-37.json) har variant '52' med SKU B37RVADRDSHIN52 (övriga 48/50/54/56/58 = B37RVADRDSHIN48…58). Live-källan anger M = 52 cm, så 'M (52 cm)' stämmer. Butikens syskon stämmer med mönstret (…54 = M/L, arkiverade 10472335343882: …48 XS, …50 S, …58 XL). Varje uppgift står i egen källa: Kona 6061 Aluminium Butted, gaffel Kona 6061 Aluminium Disc, Shimano Cues, 9 växlar, Shimano Sora mekaniska, Maxxis Rambler 700x40mm, 700c slanglösa fälgar, skärmar ingår, fästpunkter för flaskhållare och tillbehör. Inga prestanda- eller kvalitetsord. Leveranstidsmeningen finns (tagg På beställning); standardblocket är exakt (b_skriv_24 + leveranstidsmening). Titel 49 tecken/2 kommatecken, SEO 43, meta 133 med verb, Passar för finns. Unik mot alla utkast, skrivfiler och live (syskonet 10530213429514 har titeln utan '52 cm'). skrivfil_kontroll.py: 0 fel. att_bekrafta bör uppdateras från 'härledd' till 'verifierad hos Kona'."
+ },
+ {
+  "nr": 38002,
+  "id": "10682105987338",
+  "fil": "k_38a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Kona Dew (2027), Peridot, XL (57 cm)",
+    "efter": "Cykel Kona Dew (2027), Peridot, XL (57 cm)"
+   }
+  },
+  "skal": "Live: ACTIVE, 'Bicycle KONA Dew (2027) 29\" Gloss Metallic Peridot', en variant, SKU/streckkod B37DWGNSHIN06, 13 109 kr, lager 0, tagg På beställning. STORLEKEN ÄR VERIFIERAD: Konas produktdata https://en-eu.konaworld.com/products/dew-b37-gn.json har XL = B37DWGNSHIN06 (SM 01, MD 03, LG 05); källan anger XL = 57 cm. 'Skivbromsar' står inte i den egna källan ('Tektro HD-M280 hydraulic') men Konas sida för Dew 2027 (https://en-eu.konaworld.com/products/dew-37) anger Tektro M280-ok och 160 mm-skivor, så uppgiften får stå (R1 v1.6). Övriga fakta står i källan (6061 butted aluminium, gaffel 6061 aluminium, Shimano ESSA, 8 växlar, WTB Groov-E 29 x 2.0\", kickstand, fästpunkter för stänkskärmar och tillbehör). Leveranstidsmeningen och standardblocket exakt. Titel 57/2 kommatecken, meta 137 med verb. Rättning: R7, typordet först även i SEO-titeln; syskonet Fancy Karman (10682105561354) har 'Cykel Kona Dew (2027), …'. Ny SEO 42 tecken, unik mot utkast, skrivfiler och live."
+ },
+ {
+  "nr": 38003,
+  "id": "10682106052874",
+  "fil": "k_38a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Kona Dew (2027), Fancy Karman, XL",
+    "efter": "Cykel Kona Dew (2027), Fancy Karman, XL"
+   }
+  },
+  "skal": "Live: ACTIVE, 'Bicycle KONA Dew (2027) 29\" Gloss Fancy Karman', en variant, SKU/streckkod B37DWBL1SHIN06, 13 109 kr, lager 0, tagg På beställning. STORLEKEN ÄR VERIFIERAD: https://en-eu.konaworld.com/products/dew-b37-bl1.json har XL = B37DWBL1SHIN06. Samma källtext och samma fakta som 38002; skivbromsar stöds av Konas sida (160 mm-skivor). Skiljer sig från 38002 genom färgen i titel, SEO, meta och text, och från syskonet 10682105561354 (S/M/L) genom XL. Leveranstidsmeningen och standardblocket exakt. Titel 53/2 kommatecken, meta 133 med verb. Rättning: R7, typordet först i SEO-titeln som syskonet. Ny SEO 39 tecken ('(57 cm)' ryms inte inom 43), unik mot utkast, skrivfiler och live."
+ }
+]
