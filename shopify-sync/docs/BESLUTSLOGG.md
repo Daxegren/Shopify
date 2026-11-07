@@ -61,3 +61,6 @@ Skapad 2026-11-04. Filen fylls bara på; nya beslut läggs överst i tabellen, g
 - Typord godkända: träningsgummiband, massagerulle, multigym, handtag för gummiband, kettlebell.
 - Allergenrad (39016) och azorubinvarning (39018) läggs in som ren produktfakta.
 - Power rack 39124: 300 kg behålls "enligt tillverkaren".
+
+## 2026-11-07 (David: "Vill även att vi släpper igenom löpband och elcyklar")
+- Löpband och elcyklar släpps igenom för textskrivning (faktatext ur produktens egen källa). Gäller de som ligger aktiva utan texter-klara (61 elcyklar, 4 löpband enligt `rapporter/kvarvarande-2026-11-07/uppdelning.csv`). Inga säkerhets-, räckvidds-, prestanda- eller hälsolöften; batteri/motordata bara när källan är entydig.
