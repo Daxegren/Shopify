@@ -1,0 +1,22 @@
+[
+ {
+  "id": "10488282251530",
+  "nr": 41101,
+  "skäl": "Varianter motsäger sig (R3/v1.9): tre varianter delar SKU B37LBGYSHFA58 med olika pris (38019 respektive 33059) och färgerna gray/dark gray; ingen lager. Skrivs inte."
+ },
+ {
+  "id": "10494834245898",
+  "nr": 41102,
+  "skäl": "Källan motsäger sig och titeln (R2/R3): titeln säger röd men källan 'Färg: grön'; hjulstorlek 28\" men tre ramstorlekar listade för en variant (Default Title); 'kedjebromsar' i texten mot 'mekaniska skivbromsar' i specifikationen."
+ },
+ {
+  "id": "10503205519626",
+  "nr": 41103,
+  "skäl": "Varianter med olika pris (43109 och 37479) och samma SKU 1079015247, ingen lager (v1.9: utan lager skrivs inte); samma namn som den redan skrivna 10503202472202 (XL) och 10503212138762 (2025)."
+ },
+ {
+  "id": "10541368377610",
+  "nr": 41104,
+  "skäl": "Varianter M (28919 kr) och L (25149 kr) med olika pris och ingen lager (v1.9); titeln anger C48 (48 cm = S i källans tabell) men varianterna är M och L, titeln stämmer inte med källan (R3)."
+ }
+]

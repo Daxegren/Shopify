@@ -1,0 +1,82 @@
+[
+ {
+  "id": "10462150525194",
+  "nr": 39156,
+  "skäl": "Barntransport/säkerhet: el-lastcykel med två säten för barn och trepunktssäkerhetsbälten samt regnskydd; barntransport hålls utanför (jfr Svensson Family 21064, v1.10). Dessutom trasig källa (R2): hjulstorlek \"framhjul 12\", bakhjul 26\"\" för en tvåhjuling, rader \"12,5A, 12,5Wh…\", \"Shiflex fram- och bakljus\" och \"Shimano 4x4\" är meningslösa."
+ },
+ {
+  "id": "10468744397066",
+  "nr": 39157,
+  "skäl": "Varianter med olika pris (v1.9): L/blue 111449 kr och XL/blue 111239 kr (Default Title delar SKU B36REX06 med XL), och produkten har lager 0; text skrivs inte för olika pris utan lager. Källan motsäger sig också: 178 mm mot 180 mm fjädringsväg och ramstorlekarna S och M båda 38 cm."
+ },
+ {
+  "id": "10468773232906",
+  "nr": 39158,
+  "skäl": "Redan skriven (R15): produkten har vår standardtext och SEO sedan tidigare omgång (se b_33_avvisade, skrivfilen skriv_batch1_a…). Taggen texter-klara saknas dock; kontrollera taggen, ingen ny text."
+ },
+ {
+  "id": "10472296120586",
+  "nr": 39165,
+  "skäl": "Varianter med olika pris (v1.9): Default Title 34399 kr och XL / black 29909 kr med samma SKU 081301580045, lager 0. Default Title-regeln (v1.7) gäller samma SKU och färg, men priset skiljer och lager saknas; lämnas för beslut."
+ },
+ {
+  "id": "10475369562378",
+  "nr": 39168,
+  "skäl": "Utanför släppet: elektrisk sparkcykel för barn (8+), inte elcykel eller löpband. Barnprodukt med motor, batteri och hastighetsuppgift; avvisades även i k_39f. Kräver eget ja."
+ },
+ {
+  "id": "10476123783434",
+  "nr": 39169,
+  "skäl": "Varianter med olika pris (v1.9): Default Title 46299 kr och L / blue 40259 kr (samma SKU 1079014147), lager 0. Text skrivs inte för olika pris utan lager."
+ },
+ {
+  "id": "10472295268618",
+  "nr": 39163,
+  "skäl": "Dubblett (R12a) och spärrad (tidigare-avvisade): samma modell och färg som 10471090749706 (Elcykel Tenways CGO600 Pro, Pebble Grey), som är ACTIVE, har text och texter-klara."
+ },
+ {
+  "id": "10472295792906",
+  "nr": 39164,
+  "skäl": "Dubblett (R12a) och spärrad: samma modell och färg som 10472293990666 (Gravelcykel Giant Revolt 0, Mars Dust), ACTIVE med text och texter-klara."
+ },
+ {
+  "id": "10476126306570",
+  "nr": 39170,
+  "skäl": "Dubblett (R12a) och spärrad: samma modell och färg som 10468740727050 (Giant Revolt Advanced 0 (2025), Aurora Noise), ACTIVE med text och texter-klara."
+ },
+ {
+  "id": "10476149768458",
+  "nr": 39171,
+  "skäl": "Dubblett (R12a) och spärrad: samma modell och färg som 10486676455690 (Kona Rove LTD, Gloss Metallic Gentian), ACTIVE med text och texter-klara."
+ },
+ {
+  "id": "10476211732746",
+  "nr": 39173,
+  "skäl": "Dubblett (R12a) och spärrad: samma modell och färg som 10476126699786 (Giant Revolt Advanced 1 (2025), Steampunk), ACTIVE med text och texter-klara."
+ },
+ {
+  "id": "10476232868106",
+  "nr": 39175,
+  "skäl": "Dubblett (R12a) och spärrad: samma modell och färg som 10472326463754 (Giant Talon E+, 29 tum, Asphalt Green), ACTIVE med text och texter-klara."
+ },
+ {
+  "id": "10476275630346",
+  "nr": 39176,
+  "skäl": "Dubblett (R12a) och spärrad: samma modell och färg som 10476224741642 (Liv Tempt E+, Havsgrönt), ACTIVE med text och texter-klara."
+ },
+ {
+  "id": "10472292057354",
+  "nr": 39161,
+  "skäl": "Möjlig dubblett (R12a) som kräver beslut: samma titel som 10502526894346 (Gravelcykel Giant Revolt Advanced 2, Carbon; ACTIVE, texter-klara, variant M / gray, SKU 1080024145, 49099 kr). Vår produkt är L / gray, SKU 1079015147, 43109 kr; olika artikelnummerserie (1079 mot 1080, troligen olika modellår). Titeln går inte att särskilja utan årsmodell/storlek ur källan."
+ },
+ {
+  "id": "10476185125130",
+  "nr": 39172,
+  "skäl": "Möjlig dubblett (R12a) som kräver beslut: samma modell och färg som 10460948398346 (Giant Revolt 2, 700x38c, Ocean Storm; ACTIVE, texter-klara, SKU 1080010186, 25439 kr). Vår produkt har SKU 1080010187 (troligen annan ramstorlek, ej angiven i källan), samma pris. Titeln kan inte särskiljas utan storleksuppgift."
+ },
+ {
+  "id": "10476211929354",
+  "nr": 39174,
+  "skäl": "Möjlig dubblett (R12a) som kräver beslut: samma modell och färg som 10476168020234 (Giant Revolt 1, 700x38c, Alpine Green; ACTIVE, texter-klara, SKU 1080014184/1080014185). Vår produkt har SKU 1080014187/1080014188 (troligen andra ramstorlekar, ej angivna i källan). Titeln kan inte särskiljas utan storleksuppgift."
+ }
+]

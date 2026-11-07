@@ -1,0 +1,97 @@
+[
+ {
+  "id": "10581105541386",
+  "nr": 42201,
+  "skäl": "Olika artiklar i en annons (v1.9): tre varianter med olika artikelnummer och pris (19, 1499 och 29 kr) under titeln Connector - liitoskappale (varaosa). Egen källa utan hårda fakta."
+ },
+ {
+  "id": "10581105803530",
+  "nr": 42203,
+  "skäl": "Olika artiklar i en annons (v1.9): sex varianter (DB, PS, SA, 22S, 22WS, WB) med priser från 899 till 2999 kr. Källan saknar fakta per variant."
+ },
+ {
+  "id": "10581105901834",
+  "nr": 42204,
+  "skäl": "Tunn källa (R3): egen källa är bara marknadsföring utan hårda uppgifter, och ingen sida på gymstick.com hittades för SKU 63066 (bara kategorilistning). Färre än två entydiga fakta utöver titeln."
+ },
+ {
+  "id": "10581106229514",
+  "nr": 42206,
+  "skäl": "Elektronik och utanför_tills_vidare: massagepistol (Fascia Gun) med motor/vibration."
+ },
+ {
+  "id": "10581106295050",
+  "nr": 42207,
+  "skäl": "Spärrad (utanfor-tills-vidare-2026-11-04, kategori massage): massagerullen Fascia Roller är manuell, men spärren är inte hävd. Faktaunderlag från gymstick.com/fascia-roller-61165.html är klart (EVA, 13 x 32 x 13 cm, 0,42 kg, övningsguide) om David häver spärren för manuella massagerullar."
+ },
+ {
+  "id": "10581106491658",
+  "nr": 42209,
+  "skäl": "Olika artiklar i en annons (v1.9): sju varianter med olika vikt (0, 5, 7,5, 10, 15, 20, 30 kg) och pris 699 till 2999 kr; titeln anger 10 kg."
+ },
+ {
+  "id": "10581106524426",
+  "nr": 42210,
+  "skäl": "Trampolin: ingår inte i v1.10 (lastgräns på trampoliner är inte beslutad) och hoppande med max användarvikt är en säkerhetsfråga. Lyft till David om trampoliner ska få skrivas med tillverkarens uppgift (100 kg, 32 fjädrar, 102 x 102 x 125 cm, 8,8 kg enligt gymstick.com)."
+ },
+ {
+  "id": "10581106917642",
+  "nr": 42211,
+  "skäl": "Elektronik: motionscykel med datorstyrt magnetiskt motstånd, LCD-display, program och Bluetooth enligt tillverkarens sida."
+ },
+ {
+  "id": "10581106950410",
+  "nr": 42212,
+  "skäl": "Olika artiklar i en annons (v1.9): två varianter med olika artikelnummer och pris (459 och 259 kr). Egen källa utan hårda fakta."
+ },
+ {
+  "id": "10581107802378",
+  "nr": 42213,
+  "skäl": "Olika artiklar i en annons (v1.9): sju varianter (20, 30, 45 kg, CM, HS, WM, WMPRO) med priser från 79 till 2499 kr; titeln anger 20 kg."
+ },
+ {
+  "id": "10581107867914",
+  "nr": 42214,
+  "skäl": "Olika artiklar i en annons (v1.9): fem varianter med olika vikt (5, 10, 15, 20, 25 kg) och pris 419 till 1499 kr; titeln anger 10 kg."
+ },
+ {
+  "id": "10581107900682",
+  "nr": 42215,
+  "skäl": "Utanför_tills_vidare: massagerulle med värme/kyla (Varm & Kall Roller); källan är dessutom bara marknadsföring med hälsopåståenden om läkning och inflammation."
+ },
+ {
+  "id": "10581108130058",
+  "nr": 42217,
+  "skäl": "Olika artiklar i en annons (v1.9): sju varianter med olika vikt (1,25 till 20 kg och RACK) och pris 79 till 1599 kr; titeln anger 1,25 kg."
+ },
+ {
+  "id": "10581108228362",
+  "nr": 42218,
+  "skäl": "Varianter med olika pris (FIN 79 kr mot 99 kr) och tillverkarsidan (SKU 63026) anger EAN 6430016901994 som bara motsvarar färgvarianten CAM och en text med hälso- och skadepåståenden; ingen entydig faktabas för alla färger. Lyft om tejp ska skrivas med bara mått och material."
+ },
+ {
+  "id": "10581108261130",
+  "nr": 42219,
+  "skäl": "Spärrad (tidigare-avvisade-2026-11-04): Knästöd 1.0. Dessutom motsägande beskrivning på tillverkarens sida (kallar den ankle support). Specifikationer finns (gummi 30 %, polyester 35 %, nylon 35 %, 23,5 x 75 x 1 cm, 0,08 kg)."
+ },
+ {
+  "id": "10581108326666",
+  "nr": 42220,
+  "skäl": "Spärrad (tidigare-avvisade-2026-11-04): Knästöd 2.0. Tillverkarens sida har smärt- och artritpåstående som måste utelämnas. Specifikationer finns (3 mm neopren, tre kardborrband, 20,5 x 60 x 1 cm, 0,12 kg)."
+ },
+ {
+  "id": "10581108752650",
+  "nr": 42223,
+  "skäl": "Spärrad (utanfor-tills-vidare-2026-11-04, kategori massage): Massage Hook är manuell (ingen värme/vibration), men spärren är inte hävd. Faktaunderlag från gymstick.com/massage-hook.html är klart (35 x 7,5 x 16 cm, 0,16 kg, rulle i änden; materialet motsägs)."
+ },
+ {
+  "id": "10581108785418",
+  "nr": 42224,
+  "skäl": "Elektronik och utanför_tills_vidare: massagepistol (Massage Gun) med motor/vibration."
+ },
+ {
+  "id": "10581108818186",
+  "nr": 42225,
+  "skäl": "Olika artiklar i en annons (v1.9): varianten A (469 kr, lager 67) och F (399 kr, lager 0) har olika artikelnummer och pris; egen källa saknar fakta per variant."
+ }
+]

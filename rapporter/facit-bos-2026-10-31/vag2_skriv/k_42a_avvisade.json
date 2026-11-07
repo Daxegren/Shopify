@@ -1,0 +1,97 @@
+[
+ {
+  "id": "10581095874826",
+  "nr": 42101,
+  "skäl": "Tunn källa med hälsolöften; kylmassage-produkt (massage/kyla) i kategorin massageutrustning som står utanför tills vidare; ingen entydig produktbeskrivning (hur den används/är uppbyggd)."
+ },
+ {
+  "id": "10581105180938",
+  "nr": 42102,
+  "skäl": "Samma som Active Cold Massager: massage/kylprodukt, tunn källa med hälso- och återhämtningslöften, oklart om elektrisk eller rulle."
+ },
+ {
+  "id": "10581096300810",
+  "nr": 42103,
+  "skäl": "Elektronik/massageapparat (\"kraftfull massageapparat\", blodcirkulation): massage utanför tills vidare och elektronik som inte står entydigt."
+ },
+ {
+  "id": "10581096562954",
+  "nr": 42104,
+  "skäl": "Akupressur (akupressurpiggar) står under utanfor_tills_vidare (R6); källan har dessutom hälsolöften."
+ },
+ {
+  "id": "10581097054474",
+  "nr": 42105,
+  "skäl": "Tunn källa (R3): bara att produkten är en träningsslang med dörrankare, en entydig uppgift utöver titeln; ingen text om motstånd eller längd."
+ },
+ {
+  "id": "10581100888330",
+  "nr": 42106,
+  "skäl": "Källan motsäger titeln (R2/R3): titeln säger Mini Goal Net, källan beskriver ett kompakt mål och ger inga uppgifter om nätet. Oklart vad som säljs."
+ },
+ {
+  "id": "10581101641994",
+  "nr": 42107,
+  "skäl": "Olika artiklar i en annons (v1.9): sju varianter med olika SKU (OB-10CURVED, OB-15, OB-20 m.fl.), streckkoder och priser 2039–4789 kr; titeln anger 10 kg."
+ },
+ {
+  "id": "10581102231818",
+  "nr": 42108,
+  "skäl": "Olika artiklar i en annons (v1.9): två varianter, 15 och 20 (61070-15 och 61070-20), olika vikt och pris (1139 och 1449 kr) medan titeln anger 15 kg."
+ },
+ {
+  "id": "10581104230666",
+  "nr": 42109,
+  "skäl": "Tunn och vag källa (R3): \"anpassa motståndet och greppet\" utan entydig funktion, mått eller användning; inga två entydiga fakta utöver titeln."
+ },
+ {
+  "id": "10581104394506",
+  "nr": 42110,
+  "skäl": "Olika artiklar i en annons (v1.9): variant FS (golvstativ, 4539 kr) och WM (829 kr, troligen väggmontering) med helt olika pris; källan anger inga fakta."
+ },
+ {
+  "id": "10581104460042",
+  "nr": 42111,
+  "skäl": "Källan är generisk och beskriver ingen identifierbar produkt (inga mått, material eller användning); ingen entydig fakta utöver titeln."
+ },
+ {
+  "id": "10581104492810",
+  "nr": 42112,
+  "skäl": "Olika artiklar i en annons (v1.9): fyra varianter med olika SKU (OC-03BL, 03R, 01, 07) och priser 159–399 kr; titeln anger 50 mm svart men varianterna avviker."
+ },
+ {
+  "id": "10581104623882",
+  "nr": 42113,
+  "skäl": "Stöd för kroppsdel med kompression/rehab-löften; källan ger inga entydiga fakta (inga mått eller material) utöver att storleken är en; tunn källa (R3, R5)."
+ },
+ {
+  "id": "10581104754954",
+  "nr": 42114,
+  "skäl": "Ryggstöd med kompression/skadeförebyggande löften; källan ger inga entydiga fakta utöver att stödet finns i två storlekar; tunn källa (R3, R5). Titeln låser dessutom L/XL medan varianterna är S/M och L/XL."
+ },
+ {
+  "id": "10581104951562",
+  "nr": 42115,
+  "skäl": "Olika artiklar i en annons (v1.9): tre varianter (61090-0, -1,5, -2) med priserna 349, 1299 och 1599 kr; källan beskriver ett fäste men varianterna ser ut att vara olika produkter."
+ },
+ {
+  "id": "10581105115402",
+  "nr": 42116,
+  "skäl": "Tunn källa (R3): oklart vad produkten är (kabelsystem/träningsstation), inga mått, vikt eller delar; inga två entydiga fakta utöver titeln, och inget godkänt typord."
+ },
+ {
+  "id": "10581096136970",
+  "nr": 42117,
+  "skäl": "Massage utanför tills vidare: spärrad i skrivfilskontrollen (utanfor-tills-vidare-2026-11-04). Tunn källa med hälsolöften."
+ },
+ {
+  "id": "10581104853258",
+  "nr": 42118,
+  "skäl": "Tunn källa (R3, R5): bara nackskydd för knäböj och höftlyft med skydds- och komfortpåståenden, inga mått eller material; avvisad tidigare i k_24g (bärande utan svensk lastgräns) och Pro i k_17g."
+ },
+ {
+  "id": "10581104918794",
+  "nr": 42119,
+  "skäl": "Tunn källa (R3, R5): bara skydds-, säkerhets- och stötdämpningspåståenden utan mått eller material; avvisad tidigare i k_17g."
+ }
+]

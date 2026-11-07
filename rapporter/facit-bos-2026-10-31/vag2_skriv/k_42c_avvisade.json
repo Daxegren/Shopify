@@ -1,0 +1,87 @@
+[
+ {
+  "id": "10581108850954",
+  "nr": 42301,
+  "skäl": "Massageredskap (Massage Stick, \"massage hook\" för muskelhinnor och triggerpunkter): massage ligger under utanför_tills_vidare och motsvarande Active Massage Hook avvisades i k_42a; ingen godkänd typord och källans funktion är en hälsopåstående-beskrivning."
+ },
+ {
+  "id": "10581109211402",
+  "nr": 42302,
+  "skäl": "Nackprodukt (Neck Relaxer) vars källa bara beskriver smärt- och spänningslindring och ryggradsställning; hälso-/rehabprodukt utan godkänt typord. Ur källan återstår bara material (EVA) och mått, inte tillräckligt för en text utan hälsopåstående."
+ },
+ {
+  "id": "10581109244170",
+  "nr": 42303,
+  "skäl": "Nackdragningsenhet (Neck Traction Device) som enligt källan \"lindrar spänning och smärta\" och sträcker nacke och ryggrad: hälsoprodukt, kan inte skrivas utan hälsopåstående."
+ },
+ {
+  "id": "10581109276938",
+  "nr": 42304,
+  "skäl": "Massagepistol med värme/kyla, 38 W motor och batteri (elektronik): massagepistoler ligger utanför tills vidare (R6) och elektronik skrivs inte."
+ },
+ {
+  "id": "10581109375242",
+  "nr": 42305,
+  "skäl": "Knäbandage (Patella Brace 2.0) vars källa är nästan enbart tillståndspåståenden (hopparknä, löparknä, patellafel) och smärtlindring; skyddsprodukt utan godkänt typord. Utelämnas helt återstår bara PU, svart och mått."
+ },
+ {
+  "id": "10581109571850",
+  "nr": 42306,
+  "skäl": "Hållningskorrigerare: källan bygger på smärtlindring och hållningspåståenden (nack-, axel- och ryggsmärta); rehab-/hälsoprodukt. Källan anger dessutom två storlekar med EAN för L/XL men S/M saknas på tillverkarens sida."
+ },
+ {
+  "id": "10581109702922",
+  "nr": 42307,
+  "skäl": "Varianter som är olika artiklar (R3, v1.9): Power Vest 10 kg (1 099 kr) och variant \"20\" (1 449 kr); tillverkarens sida listar \"10 kg / 20 kg\" med 20 kg produktvikt. Titeln låser 10 kg. Lämnas till uppdelning."
+ },
+ {
+  "id": "10581109768458",
+  "nr": 42308,
+  "skäl": "Varianter är olika artiklar (R3, v1.9): Default 799 kr, SL 149 kr och G 129 kr (troligen strumpor och handskar). Titeln anger 180 cm men varianterna är olika produkter. Lämnas till uppdelning."
+ },
+ {
+  "id": "10581109833994",
+  "nr": 42309,
+  "skäl": "Varianter är olika artiklar (R3, v1.9): S, M och L har olika mått och vikt (24 x 16 x 12, 50 x 25 x 10 och 50 x 35 x 30 cm) och olika pris (669, 889, 1 099 kr). Titeln anger Large. Lämnas till uppdelning."
+ },
+ {
+  "id": "10581110259978",
+  "nr": 42310,
+  "skäl": "Pro Knee Straps (162 cm långa polyesterremmar): oklart vad produkten är (knälindor för lyft) och inget godkänt typord; källan bygger på \"secure fit\" och stöd. Behöver typord av David innan texten kan skrivas."
+ },
+ {
+  "id": "10581110358282",
+  "nr": 42311,
+  "skäl": "Varianter är olika artiklar (R3, v1.9): sju vikter 1,25–25 kg med priser 109–1 429 kr. Titeln låser 1,25 kg. Lämnas till uppdelning."
+ },
+ {
+  "id": "10581110718730",
+  "nr": 42312,
+  "skäl": "Pro Wrist Straps: oklart vad produkten är (handledsremmar, lyftremmar) och inget godkänt typord; källan bygger på stöd under tunga lyft. Behöver typord av David innan texten kan skrivas."
+ },
+ {
+  "id": "10581110980874",
+  "nr": 42313,
+  "skäl": "Varianter är olika artiklar (R3, v1.9): Default 22,5 kg (2 549 kr) och variant \"0\" (999 kr, SKU 61031-0). Titeln låser 22,5 kg och tillverkarens sida gäller bara 22,5 kg. Lämnas till uppdelning."
+ },
+ {
+  "id": "10581111734538",
+  "nr": 42314,
+  "skäl": "Källan stämmer inte entydigt: live-varianten har SKU 28000 och EAN 6430016901895, men tillverkarens sida (telescopic-fit-walker-black) har SKU 28000BL och EAN 6430062513363. Gymstick.com hittar inte live-EAN. Ingen egen källtext med fakta. Kan skrivas om David bekräftar att det är samma stavar."
+ },
+ {
+  "id": "10581111898378",
+  "nr": 42315,
+  "skäl": "Armbågsstöd för tennisarmbåge (Tennis Elbow Support 2.0): källan är \"lindra smärta vid tennis-/golfarmbåge\" (behandlingspåstående); skyddsprodukt utan godkänt typord."
+ },
+ {
+  "id": "10581111963914",
+  "nr": 42316,
+  "skäl": "Armbågsstöd för tennisarmbåge (Premium): källan är \"behandla tennisarmbåge och underarmsbelastning\" med kompression; hälsoprodukt, kan inte skrivas utan hälsopåstående."
+ },
+ {
+  "id": "10581112520970",
+  "nr": 42317,
+  "skäl": "Elektronik (gångmatta/löpband med motor, LED-display, fjärrkontroll och app) och varianterna är olika modeller med olika pris (CR 3 999, MV 5 899, PRO 8 999, ELI 11 499, HRL 899 kr). Titeln anger Core. Lämnas till uppdelning och elektronikbeslut."
+ }
+]

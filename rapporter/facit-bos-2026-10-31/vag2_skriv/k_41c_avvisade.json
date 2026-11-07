@@ -1,0 +1,92 @@
+[
+ {
+  "id": "10598561841418",
+  "nr": 41101,
+  "skäl": "Kan inte skiljas åt från 10673174774026 (R12a/R3): samma modell (Giant Revolt 0) och färg (Stealth Chrome), olika artikelnummer (1080018184 mot 1080018187) men ingen storlek säljs som variant (Default Title) och storleken kunde inte verifieras på webben för exakta artikelnummer. Titel, SEO och text skulle bli identiska. Lyft till uppdelning per ramstorlek."
+ },
+ {
+  "id": "10673174774026",
+  "nr": 41102,
+  "skäl": "Kan inte skiljas åt från 10598561841418 (R12a/R3): samma modell (Giant Revolt 0) och färg (Stealth Chrome), olika artikelnummer (1080018187 mot 1080018184), ingen storlek som variant och storleken kunde inte verifieras på webben. Se 10598561841418."
+ },
+ {
+  "id": "10673178706186",
+  "nr": 41103,
+  "skäl": "Kan inte skiljas åt från 10673180246282 (R12a/R3): samma modell (Giant Revolt Advanced SL 1 (2027) Tempest Purple), samma pris 116209 kr, olika artikelnummer (1081002107 mot 1081002105), ingen storlek som variant och storleken kunde inte verifieras på webben."
+ },
+ {
+  "id": "10673180246282",
+  "nr": 41104,
+  "skäl": "Kan inte skiljas åt från 10673178706186 (R12a/R3): samma modell och färg, olika artikelnummer (1081002105 mot 1081002107), ingen storlek som variant och storleken kunde inte verifieras på webben."
+ },
+ {
+  "id": "10635809849610",
+  "nr": 41105,
+  "skäl": "Källan motsäger sig (R2): löptexten anger batteriet EnergyPak Smart 800 Wh, detaljraderna anger EnergyPak 625 Wh och räckvidd 167 km. Batteriet är en huvuduppgift. Dessutom två varianter med samma SKU 5332005188 men olika pris (54439 och 47339 kr)."
+ },
+ {
+  "id": "10635809882378",
+  "nr": 41106,
+  "skäl": "Källan motsäger sig (R2): löptexten anger batteriet EnergyPak Smart 800 Wh, detaljraderna anger EnergyPak 625 Wh och räckvidd 167 km. Batteriet är en huvuduppgift, och titeln (Fathom E+ 2 EX) kan inte styrkas mot någon av uppgifterna."
+ },
+ {
+  "id": "10472221802762",
+  "nr": 41107,
+  "skäl": "Varianter med olika artikelnummer och modell (v1.9): 16TCFT3000 (8429 kr, EAN 8717842028971) och 24TCFT3000 (variant \"must\", pris 0,00 kr, annan EAN). En variant har pris 0 kr och källan säger inget om att det är samma artikel. Källan är dessutom tunn (bara specifikationsrader). Taggen Gymstick rörs inte."
+ },
+ {
+  "id": "10581107343626",
+  "nr": 41108,
+  "skäl": "Olika artiklar i en annons (v1.9): tio varianter med olika modell (GT1.0, GT3.0, GT5.0, GT7.0, GT8.0, GT10.0, GTPR, PRO15.0, PRO25.0, WPAD), artikelnummer och pris (6899 till 49999 kr). Källan är tunn och består av påståenden (\"pålitlig\", \"kvalitet och hållbarhet\") utan fakta. Lyft till uppdelning per modell."
+ },
+ {
+  "id": "10581112094986",
+  "nr": 41109,
+  "skäl": "Inte ett löpband utan smörjolja till löpband (Treadmill Lubrication); taggen Löpband är missvisande. Två varianter med olika artikelnummer och pris (61141 249 kr, 61141-SPR 299 kr) utan angiven skillnad, och källan är bara påståenden (\"avgörande\", \"förlänger livslängden\") utan fakta (ingen volym eller innehåll)."
+ },
+ {
+  "id": "10605383909642",
+  "nr": 41110,
+  "skäl": "Samma modell och färg som redan skriven aktiv produkt 10593839644938 (annat artikelnummer 5300001104 mot 001105/001107); egen produkt har Default Title, så ramstorleken säljs inte som variant och går inte att verifiera i egen källa eller på webben (R3/R12a). Titel, SEO och text skulle bli identiska med den skrivna produkten. Storleken kan bara härledas ur artikelnumrets slutsiffra, vilket Davids undantag 2026-11-07 inte täcker. Lyft till beslut."
+ },
+ {
+  "id": "10624088244490",
+  "nr": 41111,
+  "skäl": "Samma modell och färg som redan skriven aktiv produkt 10589706780938 (annat artikelnummer 5060020105 mot 5060020104); egen produkt har Default Title, så ramstorleken säljs inte som variant och går inte att verifiera i egen källa eller på webben (R3/R12a). Titel, SEO och text skulle bli identiska med den skrivna produkten. Storleken kan bara härledas ur artikelnumrets slutsiffra, vilket Davids undantag 2026-11-07 inte täcker. Lyft till beslut."
+ },
+ {
+  "id": "10656692207882",
+  "nr": 41112,
+  "skäl": "Samma modell och färg som redan skriven aktiv produkt 10635806900490 (annat artikelnummer 5332003185 mot 5332003188); egen produkt har Default Title, så ramstorleken säljs inte som variant och går inte att verifiera i egen källa eller på webben (R3/R12a). Titel, SEO och text skulle bli identiska med den skrivna produkten. Storleken kan bara härledas ur artikelnumrets slutsiffra, vilket Davids undantag 2026-11-07 inte täcker. Lyft till beslut."
+ },
+ {
+  "id": "10650209747210",
+  "nr": 41113,
+  "skäl": "Samma modell och färg som redan skriven aktiv produkt 10588450881802 (annat artikelnummer 5600003105 mot 5600003104); egen produkt har Default Title, så ramstorleken säljs inte som variant och går inte att verifiera i egen källa eller på webben (R3/R12a). Titel, SEO och text skulle bli identiska med den skrivna produkten. Storleken kan bara härledas ur artikelnumrets slutsiffra, vilket Davids undantag 2026-11-07 inte täcker. Lyft till beslut."
+ },
+ {
+  "id": "10650209845514",
+  "nr": 41114,
+  "skäl": "Samma modell och färg som redan skriven aktiv produkt 10598564757770 (annat artikelnummer 5230005104 mot 5230005103/5230005105); egen produkt har Default Title, så ramstorleken säljs inte som variant och går inte att verifiera i egen källa eller på webben (R3/R12a). Titel, SEO och text skulle bli identiska med den skrivna produkten. Storleken kan bara härledas ur artikelnumrets slutsiffra, vilket Davids undantag 2026-11-07 inte täcker. Lyft till beslut."
+ },
+ {
+  "id": "10673180410122",
+  "nr": 41115,
+  "skäl": "Samma modell och färg som redan skriven aktiv produkt 10673177952522 (annat artikelnummer 5600004105 mot 5600004104); egen produkt har Default Title, så ramstorleken säljs inte som variant och går inte att verifiera i egen källa eller på webben (R3/R12a). Titel, SEO och text skulle bli identiska med den skrivna produkten. Storleken kan bara härledas ur artikelnumrets slutsiffra, vilket Davids undantag 2026-11-07 inte täcker. Lyft till beslut."
+ },
+ {
+  "id": "10682106085642",
+  "nr": 41116,
+  "skäl": "Samma modell och färg som redan skriven aktiv produkt 10682105463050 (annat artikelnummer 5090005108 mot 5090005104/05/07); egen produkt har Default Title, så ramstorleken säljs inte som variant och går inte att verifiera i egen källa eller på webben (R3/R12a). Titel, SEO och text skulle bli identiska med den skrivna produkten. Storleken kan bara härledas ur artikelnumrets slutsiffra, vilket Davids undantag 2026-11-07 inte täcker. Lyft till beslut."
+ },
+ {
+  "id": "10635810177290",
+  "nr": 41117,
+  "skäl": "Samma modell och färg som redan skriven aktiv produkt 10588452847882 (annat artikelnummer B36ORCDGYSRHK48 mot …52/54/58); egen produkt har Default Title, så ramstorleken säljs inte som variant och går inte att verifiera i egen källa eller på webben (R3/R12a). Titel, SEO och text skulle bli identiska med den skrivna produkten. Storleken kan bara härledas ur artikelnumrets slutsiffra, vilket Davids undantag 2026-11-07 inte täcker. Lyft till beslut."
+ },
+ {
+  "id": "10656691880202",
+  "nr": 41118,
+  "skäl": "Dubblett (R12a): variant B37LBBLSHFA54 (M/L) finns redan i den skrivna aktiva produkten 10635810537738 (Gravelcykel Kona Libre, 700x45c, Winter Sky). Samma artikel i två annonser; titel, SEO och text skulle bli identiska."
+ }
+]
