@@ -1,0 +1,142 @@
+[
+ {
+  "nr": 39098,
+  "id": "10472294318346",
+  "fil": "k_39e_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live (API 2026-11-07): ACTIVE, en variant TAB25-7670, 7329 kr, lager 13. Magnesiumram, aluminium i gaffel, fälgar och vevar, ramstorlek 24 cm, längd 110–120 cm, 1 växel, stödhjul och kedjeskydd står i källan. 'Hjulvikt: 7 kg' är maskinöversatt cykelvikt; tabou.pl (Miss Lite MG, 18\"): 7 kg WITHOUT EQUIP., 110–120 cm, ST 240 mm, magnesiumram, V-broms fram och bandbroms bak. Bromstypen är därför rätt utelämnad. 18 tum och färg i live-titeln. Inga säkerhetspåståenden. Ej dubblett (skrivet syskon är 14 tum)."
+ },
+ {
+  "nr": 39101,
+  "id": "10472301232394",
+  "fil": "k_39e_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, AHF-141, 49 kr, lager 5. Källan: 'Setet innehåller två handtag', titel 'Handles for Elastic Bands'. Tunn källa men entydig; David 2026-11-05: tunn källa skrivs efter webbkoll. Kort meta 83 tecken med 'Finns hos BEST OF SPORTS.' enligt standard §14/§17. Typordet 'Handtag för Gummiband' är en entydig översättning; både 'Handtag' och 'Gummiband' är butikens live-ord (t.ex. 'Gymnastikgummi Toorx Elastic med Handtag', 'Gummiband med Handtag'). Rimligt; föreslås till godkanda_typord."
+ },
+ {
+  "nr": 39107,
+  "id": "10472307360010",
+  "fil": "k_39e_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, TAB25-6410, lager 3. Stålram, 22 cm, 80–100 cm, 1 växel, 'Hjulvikt 6,8 kg (utan tillbehör)' och tillbehörslistan står i källan; 'utan tillbehör' visar att det är cykelns vikt (samma tolkning som skrivna syskonet Miss ST 14). 'Framhorn' (troligen främre korg) och bromstyp rätt utelämnade. Inga säkerhetsord."
+ },
+ {
+  "nr": 39108,
+  "id": "10472307392778",
+  "fil": "k_39e_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live: ACTIVE, TAB25-6400, lager 14. Som 39107. 'Stödstång' står ordagrant i egen källa (syskonet säger skjutstång); godtas som källans ord, obs nedan. Titel/SEO/meta unika mot 39107."
+ },
+ {
+  "nr": 39109,
+  "id": "10472307458314",
+  "fil": "k_39e_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Barncykeln Tabou Miss FR har aluminiumram, 16 tums hjul och en växel. Ramen, fälgarna och vevarmarna är av aluminium, och cykeln har V-bromsar, kedjeskydd, stödhjul och skjutstång.</p>",
+    "efter": "<p>Barncykeln Tabou Miss FR har ram, fälgar och vevarmar av aluminium, 16 tums hjul och en växel. Cykeln har V-bromsar, kedjeskydd, stödhjul och skjutstång.</p>"
+   }
+  },
+  "skal": "Live: ACTIVE, TAB26-1480, lager 20. Källan: aluminium i ram, fälgar och vevarmar, 24,5 cm, 100–120 cm, 1 växel, V-bromsar, 7,5 kg utan tillbehör. tabou.pl Rocket FR 16\": 7,5 kg utan utrustning, V-broms fram och bak, ST 245 mm, så V-bromsar får stå. Rättning: inledningen nämnde aluminium två gånger."
+ },
+ {
+  "nr": 39110,
+  "id": "10472308703498",
+  "fil": "k_39e_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Toorx SRX-9000 är en spinningcykel med remdrift, ett svänghjul på 22 kg och en friktionsbroms med läderbelägg.",
+    "efter": "<p>Spinningcykeln Toorx SRX-9000 har remdrift, ett svänghjul på 22 kg och en friktionsbroms med läderbelägg."
+   }
+  },
+  "skal": "Live: ACTIVE, SRX-9000, lager 1. Manuell friktionsbroms, ingen display/motor/batteri; datorn är ett tillval och nämns inte. Får skrivas (David har släppt träningsutrustning med bara faktatext; §10 gäller utrustning med elektronik). 'Maximal användarvikt: 150 kg' är ren svensk rad med etikett och enhet (R4), en gång 'enligt tillverkaren' i spec och en gång i meta som praxis (65 skrivna metas). 'Robust', 'ljudlös', 'professionell' utelämnade. Rättning: cirkulär inledning ('X är en spinningcykel')."
+ },
+ {
+  "nr": 39111,
+  "id": "10472328823050",
+  "fil": "k_39e_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Toorx Vinyl är en kettlebell på 18 kg med vinylbelagd yta. Den ingår i en serie med flera vikter.</p>",
+    "efter": "<p>Kettlebellen Toorx Vinyl har vinylbelagd yta och väger 18 kg. Den ingår i en serie med flera vikter.</p>"
+   }
+  },
+  "skal": "Live: ACTIVE, KRV-18, 1839 kr, lager 1, en variant. Typordet Kettlebell är butikens live-ord och används på skrivna syskonen Kettlebell Toorx Vinyl 12 kg och 20 kg; rimligt, föreslås till godkanda_typord. Tunn källa ('vinylbelagd yta', 'brett utbud av vikter'); kort meta 100 tecken. 'Skyddar golvet', 'bekvämt grepp', 'hållbara' utelämnade. Rättning: cirkulär inledning."
+ },
+ {
+  "nr": 39113,
+  "id": "10472330494218",
+  "fil": "k_39e_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Barncykeln Tabou Rocket FR har aluminiumram, 12 tums hjul och en växel. Ramen, fälgarna och vevarmarna är av aluminium, och till cykeln hör skjutstång, stödhjul, ringklocka, kedjeskydd och stänkskärmar.</p>",
+    "efter": "<p>Barncykeln Tabou Rocket FR har ram, fälgar och vevarmar av aluminium, 12 tums hjul och en växel. Till cykeln hör skjutstång, stödhjul, ringklocka, kedjeskydd och stänkskärmar.</p>"
+   }
+  },
+  "skal": "Live: ACTIVE, TAB25-6600, lager 7. tabou.pl Rocket FR 12\": 6,5 kg utan utrustning, 80–100 cm, ST 220 mm, V-broms fram och bandbroms bak; bromstyp rätt utelämnad. Rättning: aluminium nämndes två gånger i inledningen."
+ },
+ {
+  "nr": 39114,
+  "id": "10472330625290",
+  "fil": "k_39e_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Barncykeln Tabou Poison 20 utformad som en mountainbike har aluminiumram, 20 tums hjul och 6 växlar med Shimano Tourney. Cykeln väger 10,4 kg och har fästpunkter för stänkskärmar och andra tillbehör.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en barncykel med aluminiumram</li>\n<li>Dig som söker en barncykel med 6 växlar</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Barncykel</li>\n<li>Ram: Aluminium</li>\n<li>Hjulstorlek: 20 tum</li>\n<li>Cyklistens längd enligt tillverkaren: Ca 115–130 cm</li>\n<li>Växlar: Shimano Tourney</li>\n<li>Antal växlar: 6</li>\n<li>Vikt: 10,4 kg</li>\n<li>Fästpunkter: För stänkskärmar och andra tillbehör</li>\n<li>Ingår: Stöd</li>\n<li>Färg: Röd och svart</li>\n</ul>",
+    "efter": "<p>Barncykeln Tabou Poison 20 är utformad som en mountainbike och har aluminiumram, 20 tums hjul och 6 växlar med Shimano Tourney. Cykeln väger 10,4 kg och har fästpunkter för stänkskärmar och andra tillbehör.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en barncykel med aluminiumram</li>\n<li>Dig som söker en barncykel med 6 växlar</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Barncykel</li>\n<li>Ram: Aluminium</li>\n<li>Hjulstorlek: 20 tum</li>\n<li>Cyklistens längd enligt tillverkaren: Ca 115–130 cm</li>\n<li>Växlar: Shimano Tourney</li>\n<li>Antal växlar: 6</li>\n<li>Vikt: 10,4 kg</li>\n<li>Fästpunkter: För stänkskärmar och andra tillbehör</li>\n<li>Ingår: Cykelstöd</li>\n<li>Färg: Röd och svart</li>\n</ul>"
+   }
+  },
+  "skal": "Live: ACTIVE, TAB26-1550, lager 15. Aluminium, 115–130 cm, Shimano Tourney, 6 växlar, 10,4 kg, stöd ingår, fästpunkter står i källan; 20 tum ur modellnamnet och leverantörens sida. Rättningar: grammatiskt fel i inledningen ('Poison 20 utformad som en mountainbike har'), och 'Stöd' blir 'Cykelstöd' som på skrivna syskonet Poison 24 (godkänt typord för kickstand)."
+ },
+ {
+  "nr": 39118,
+  "id": "10472332722442",
+  "fil": "k_39e_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Union Lite XS är en stuntsparkcykel med aluminiumkonstruktion,",
+    "efter": "<p>Stuntsparkcykeln Union Lite XS har aluminiumkonstruktion,"
+   }
+  },
+  "skal": "Live: ACTIVE, en variant, lager 1. Trasiga rader (vikt, användarhöjd) rätt utelämnade. 'Max. lastkapacitet: 100 kg' är ren svensk rad med etikett och enhet; skrivs en gång enligt tillverkaren, som på skrivna syskonet Lite XS Svart. Sparkcyklar ligger i faktatextläget. Rättning: cirkulär inledning."
+ },
+ {
+  "nr": 39119,
+  "id": "10472333148426",
+  "fil": "k_39e_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Liv Tempt 3 GE är en damcykel med aluminiumram,",
+    "efter": "<p>Damcykeln Liv Tempt 3 GE har aluminiumram,"
+   }
+  },
+  "skal": "Live: ACTIVE, 2201133284, lager 2, en variant. Engelsk källa, korrekt översatt: ALUXX-Grade, SR Suntour XCM RL 100 mm, Shimano Altus, 18 växlar, Tektro HDC TKD 149 hydraulic, Kenda Booster 27.5 x 2.2 wire bead, fästpunkter. Ramstorlek utelämnad (en variant utan storlek), rätt. Titeln har 2 kommatecken inklusive decimalkommat. Rättning: cirkulär inledning."
+ },
+ {
+  "nr": 39120,
+  "id": "10472346812682",
+  "fil": "k_39e_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Tunturi Aero Step är en stepbräda av syntetiskt material som är justerbar i tre lägen. Enligt tillverkaren är maxvikten 120 kg.",
+    "efter": "Stepbrädan Tunturi Aero Step är justerbar i tre lägen och gjord av syntetiskt material. Enligt tillverkaren är maxvikten 120 kg."
+   },
+   "html": {
+    "fore": "<p>Tunturi Aero Step är en stepbräda som är justerbar i tre lägen, med höjdinställning upp till 20 och 25 cm. Stepbrädan är gjord av syntetiskt material och väger 8 kg.</p>",
+    "efter": "<p>Stepbrädan Tunturi Aero Step är justerbar i tre lägen, med höjdinställning upp till 20 och 25 cm. Den är gjord av syntetiskt material och väger 8 kg.</p>"
+   }
+  },
+  "skal": "Live: ACTIVE, 14TUSCL270, lager 4, taggen På beställning; leveranstidsmeningen finns och resten av blocket är exakt. tunturi.com bekräftar art.nr, EAN, 120 kg, 8 kg, syntetiskt, tre lägen, 20 och 25 cm; måtten motsäger varandra och är rätt utelämnade. Maxvikt ren svensk rad (R4). Rättning: cirkulär inledning i meta och html."
+ }
+]
