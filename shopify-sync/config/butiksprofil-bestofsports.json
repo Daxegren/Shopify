@@ -60,9 +60,9 @@
     "isbroddar",
     "rullskridskor",
     "akupressur",
-    "massagepistoler och massagerullar med värme/vibration",
     "vibrationsplattor",
-    "kroppsanalysvågar (hälsoparametrar)"
+    "kroppsanalysvågar (hälsoparametrar)",
+    "akupressur och massagestolar (massageredskap hävda 2026-11-08, v1.11)"
   ],
   "godkanda_typord": {
     "träningsstation": "multigym/kraftstation (estniska Jõujaam)",
@@ -85,7 +85,13 @@
     "massagerulle": "godkänt av David 2026-11-07",
     "multigym": "godkänt av David 2026-11-07 (kraftstation)",
     "handtag för gummiband": "godkänt av David 2026-11-07",
-    "kettlebell": "godkänt av David 2026-11-07"
+    "kettlebell": "godkänt av David 2026-11-07",
+    "kylmassageredskap": "godkänt av granskare/David 2026-11-08 (v1.11)",
+    "massagehook": "godkänt av granskare/David 2026-11-08 (v1.11)",
+    "massageredskap": "godkänt av granskare/David 2026-11-08 (v1.11)",
+    "massagepinne": "godkänt av granskare/David 2026-11-08 (v1.11)",
+    "skivstångshållare": "godkänt av granskare/David 2026-11-08 (v1.11)",
+    "cable pulley system": "godkänt av granskare/David 2026-11-08 (v1.11)"
   },
   "format_regler": "rapporter/facit-bos-2026-10-31/format_regler.py",
   "sparrlista": "shopify-sync/config/sparrlista.json",
