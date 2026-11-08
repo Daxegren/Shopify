@@ -1,0 +1,62 @@
+[
+ {
+  "id": "10472232419594",
+  "nr": 46201,
+  "skäl": "Tunn källa (R3): egen källa är bara marknadsföring (\"snygg\", \"unik design\", \"hög kvalitet\", \"bra ljud\") och Giants märkestext; inga entydiga fakta utöver titeln."
+ },
+ {
+  "id": "10472232780042",
+  "nr": 46202,
+  "skäl": "Produkttypen oklar: titeln säger \"Snow boots\", källan beskriver en hopfälbar \"snödörr\" med styre (tagg Sparkcykel/Pulkor). Inget godkänt typord och ingen entydig tillverkarsida kontrollerad."
+ },
+ {
+  "id": "10472235663626",
+  "nr": 46203,
+  "skäl": "Källan motsäger titeln (titel Greenline, källa Compactline) och har motstridiga värden (brinntid/laddningstid i två block)."
+ },
+ {
+  "id": "10472237170954",
+  "nr": 46204,
+  "skäl": "Tunn och motsägande källa: titeln säger 5 mm, källan 35 mm; bara ett faktum (diameter) utöver titeln."
+ },
+ {
+  "id": "10472239923466",
+  "nr": 46205,
+  "skäl": "Produkttypen oklar: titeln \"Hjulmonteringssats\" men källan beskriver telefonfäste för iPhone XR med klämfäste för 23-43 mm; pris 7289 kr verkar felaktigt; ingen entydig källa."
+ },
+ {
+  "id": "10472239956234",
+  "nr": 46206,
+  "skäl": "Tunn källa (R3): bara modell, 160 mm och Post/Standard, inget utöver titeln; tillverkarsida kunde inte läsas (403)."
+ },
+ {
+  "id": "10472240021770",
+  "nr": 46207,
+  "skäl": "Tom källa (ingen beskrivning); tillverkarsidan kunde inte läsas (403) och återförsäljarsidor räknas inte som tillverkarsida."
+ },
+ {
+  "id": "10472240349450",
+  "nr": 46208,
+  "skäl": "Tom källa (ingen beskrivning); tillverkarsidan kunde inte läsas och återförsäljarsidor räknas inte som tillverkarsida."
+ },
+ {
+  "id": "10472240382218",
+  "nr": 46209,
+  "skäl": "Tunn och vag källa (marknadsföringstext om att montera en 160 mm skiva); anger inte tydligt vad adaptern gör; ingen EAN, ingen tillverkarsida kontrollerad."
+ },
+ {
+  "id": "10472240578826",
+  "nr": 46210,
+  "skäl": "Tom källa: beskrivningen är bara titeln; tillverkarsidan kunde inte kontrolleras."
+ },
+ {
+  "id": "10472240611594",
+  "nr": 46211,
+  "skäl": "Källan och titeln motsäger varandra (R2/R3): ETRTO 57/70-584 mot webbkoll på EAN 4019238008074 som ger annan dimension; dimensionen kan inte styrkas."
+ },
+ {
+  "id": "10472242184458",
+  "nr": 46212,
+  "skäl": "Källan anger två ytterdiametrar (180 och 160 mm) medan titeln säger 180 mm; kan inte avgöra vilken som gäller; ingen EAN; taggen Cykellås är fel."
+ }
+]

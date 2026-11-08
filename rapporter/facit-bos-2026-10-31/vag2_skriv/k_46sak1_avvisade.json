@@ -1,0 +1,57 @@
+[
+ {
+  "id": "10462191878410",
+  "nr": 46008,
+  "skäl": "R3: varianterna motsäger sig (samma SKU BOB-A101103 men priserna 1529 och 749 kr, en Default Title och en M/L), storleken som säljs går inte att avgöra och källan nämner både vuxna och barn med vikten 410 g för M/L mot 268 g för S/M."
+ },
+ {
+  "id": "10462192009482",
+  "nr": 46009,
+  "skäl": "R3/R2: en variant (Default Title) men källan anger både S/M 48–54 och M/L 54–60 cm; vikterna 268 g och 410 g är orimliga, flera rader är maskinöversatta/trasiga (\"justerbar, justerbar och justerbar\") och storleken som säljs kan inte avgöras."
+ },
+ {
+  "id": "10462752997642",
+  "nr": 46010,
+  "skäl": "Redan skriven: live-texten har strukturen (Passar för, Specifikationer, standardblock) och SEO-fält. Ingen ny text."
+ },
+ {
+  "id": "10470922682634",
+  "nr": 46021,
+  "skäl": "Redan skriven: live-texten har strukturen och SEO-fält (kvar är bara en avslutande FAQ-del). Ingen ny text; FAQ-delen tas i separat städning om David vill."
+ },
+ {
+  "id": "10462767284490",
+  "nr": 46011,
+  "skäl": "Tom live-källa: ingen beskrivning, bara titeln (Continental Ride Tour 42-622/28x1.60), SKU och EAN. Färre än två entydiga fakta utöver titeln."
+ },
+ {
+  "id": "10462774690058",
+  "nr": 46012,
+  "skäl": "R3/v1.9: två varianter med olika artikelnummer (14TUSGA006 och 14TUSGA005) och mycket olika pris (2119 och 789 kr), men inget i källan visar att det är samma artikel i olika färg eller storlek; källtexten har dessutom hälsolöften (\"bra för matsmältningen\")."
+ },
+ {
+  "id": "10462813159690",
+  "nr": 46013,
+  "skäl": "R3: två varianter med olika artikelnummer och pris (TAB25-6720 6189 kr, TAB26-1370 3569 kr), och titeln anger färg och storlek; olika artiklar."
+ },
+ {
+  "id": "10462846943498",
+  "nr": 46014,
+  "skäl": "Tom live-källa: bara \"Tillverkaren är Hammer\" och titeln; tidigare webbkoll på EAN 4005251173554 gav ingen entydig träff på exakt modell. Färre än två entydiga fakta; hantelställ bär last."
+ },
+ {
+  "id": "10468710678794",
+  "nr": 46015,
+  "skäl": "Motsägande källa: beskrivningen säger \"ADO Air 28 framhjälm för cykel\" (hjälm) medan titeln är en frontkorg; ingen streckkod och lager 0."
+ },
+ {
+  "id": "10468771463434",
+  "nr": 46017,
+  "skäl": "R3/v1.9: tre varianter med olika artikelnummer och pris (17433, 17431, 17435 med 3989, 3419 och 4309 kr) som är olika vikter, och lager 0; källan är på engelska."
+ },
+ {
+  "id": "10470968918282",
+  "nr": 46024,
+  "skäl": "R3/v1.9: två varianter med olika artikelnummer och pris (AHF-094 229 kr, AHF-093 289 kr) som sannolikt är olika vikter, medan titeln anger 2 x 2,0 kg och källan bara säger 2 kg per vikt; olika artiklar."
+ }
+]

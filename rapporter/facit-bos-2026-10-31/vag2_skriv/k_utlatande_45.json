@@ -1,0 +1,90 @@
+[
+ {
+  "nr": 45001,
+  "id": "10471009026314",
+  "fil": "k_45a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Klassiska skidorna Peltonen Astra Wax är vallningsbara och har Rottefella NIS Touring Basic-bindningar monterade. Längder 180, 190 och 200 cm.",
+    "efter": "Peltonen Astra Wax är vallningsbara klassiska skidor med monterade Rottefella NIS Touring Basic-bindningar. Längder 180, 190 och 200 cm."
+   },
+   "html": {
+    "fore": "<p>Klassiska skidor Peltonen Astra Wax är vallningsbara skidor med kärna av trä med luftkanaler.",
+    "efter": "<p>Peltonen Astra Wax är vallningsbara klassiska skidor med kärna av trä med luftkanaler."
+   }
+  },
+  "skal": "Live ACTIVE, lager 4 (180: 1, 190: 2, 200: 1), tre längder av samma skida (SKU 21AN925100180/190/200, pris 3 499/3 499/3 489 kr): samma artikel i olika storlek, v1.9 uppfylld; titel, SEO och text låser ingen längd. Egen källtext säger 'Klassiska skidor Peltonen ASTRA' med monterade Rottefella NIS Touring Basic-bindningar och 'vallningsbara skidor (Astra Wax)'; live-titelns 'pjäxor' motsägs av källan och produkttypen 'Klassiska skidor Peltonen', så typordsbytet till Klassiska Skidor stöds (R7) och följer syskonen Astra Skin 25. Alla specifikationsrader stämmer med källan. Längdenheten cm är en tolkning av variantvärdena (skidlängd i cm är entydigt för klassiska skidor 180–200). Ingen tillverkarsida hittades för SKU 21AN925100 (webben visar bara Astra Step/Skin/G-Grip), så inget hämtat därifrån. Rättning: första meningen var nära cirkulär ('Klassiska skidor ... är vallningsbara skidor', R11) och metan saknade artikel ('Klassiska skidorna ...' ska vara 'De klassiska skidorna'); båda omformulerade utan nya fakta. Meta 136 tecken."
+ },
+ {
+  "nr": 45002,
+  "id": "10470929334538",
+  "fil": "k_45a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, lager 10 (3+7), tagg På beställning, leveranstidsmeningen finns. Varianterna 230000103 (EAN 4713250020471, 629 kr) och 230000104 'sinine' (EAN 4713250020488, 489 kr) är samma pedal i svart respektive blå enligt ebike24.com (black 230000103, blue 230000104, purple 105, red 106) och bikesandbeyond.ca (Blue 04713250020488 230000104): v1.9 uppfylld, inga färger eller priser låsta. Mått, kontaktyta, profil 16/17,1 mm, 9 pinnar per sida, tätade lager och stålaxel stämmer med källan (webben: Cr-Mo-axel, 117x110 mm, 350 g). Vikten rätt utelämnad. v1.10: ingen lastgräns i egen källa eller på webben (Giants maxvikter gäller cyklar, inte pedaler), därför 'Maximal lastgräns: Ej känd' i spec och mening i texten. Inga kvalitetsord. Ingen dubblett: Pinner Comp Röd (230000106, skriven) och Lila (230000105, DRAFT) är andra artiklar."
+ },
+ {
+  "nr": 45101,
+  "id": "10472332493066",
+  "fil": "k_45b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Vikt: 3,293 kg</li>\n<li>Användarhöjd enligt tillverkaren: 105–125 cm</li>",
+    "efter": "<li>Vikt: 3,293 kg</li>"
+   }
+  },
+  "skal": "Live ACTIVE, en variant EAN 2902506587840, lager 1. Uppgifterna stämmer med egen källa; typordet Stuntsparkcykel följer de skrivna Union Lite-syskonen och 'trike' är maskinöversättning. Ingen dubblett: Lite S finns skriven i Svart och Neochrome, inte Lime. Rättning (R2): egen källa anger användarhöjd 105–125 cm, men scootshop.net för exakt EAN 2902506587840 anger 'For rider height: 110-145 cm'. Uppgiften är motsägande och stryks; de skrivna syskonen (Lite XS/S/M) saknar också användarhöjd. Kvar finns en 'enligt tillverkaren' (lastkapacitet 100 kg, ren svensk rad, bekräftad av scootshop). Inga säkerhets- eller utvecklingslöften."
+ },
+ {
+  "nr": 45102,
+  "id": "10472332820746",
+  "fil": "k_45b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Vikt: 3,415 kg</li>\n<li>Användarhöjd enligt tillverkaren: 110–130 cm</li>",
+    "efter": "<li>Vikt: 3,415 kg</li>"
+   }
+  },
+  "skal": "Live ACTIVE, en variant EAN 2906869937854, lager 3. Uppgifterna stämmer med egen källa (källans 'Styrning: 520 x 480 mm' återgivet som Styre, som syskonen). Ingen dubblett: Lite M finns skriven i Svart, Lime och Neochrome, inte Blå. Rättning (R2): egen källa anger användarhöjd 110–130 cm, men scootshop.net för exakt EAN 2906869937854 anger 'Rider height: 135-165 cm' (vikt 3 415 g, styre 520/480 mm och 100 kg stämmer där). Uppgiften stryks som för syskonen."
+ },
+ {
+  "nr": 45103,
+  "id": "10515745636618",
+  "fil": "k_45b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Stuntsparkcykel Versatyl S2S Edition Pro",
+    "efter": "Tricksparkcykel Versatyl S2S Edition Pro"
+   },
+   "seo_title": {
+    "fore": "Stuntsparkcykel Versatyl S2S Edition Pro",
+    "efter": "Tricksparkcykel Versatyl S2S Edition Pro"
+   },
+   "html": {
+    "fore": "<p>Stuntsparkcykeln Versatyl S2S Edition Pro har ståplattform och styre i aluminium, styrsystemet IHC och ABEC-9-lager. Hjulen är 110 mm och sparkcykeln väger 2,9 kg.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en stuntsparkcykel med plattform och styre i aluminium</li>\n<li>Dig som är mellan 160 och 170 cm lång, enligt tillverkaren</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Stuntsparkcykel</li>\n<li>Märke: Versatyl</li>\n<li>Modell: S2S Edition Pro</li>\n<li>Plattformens längd: 508 mm</li>\n<li>Plattformens bredd: 118 mm</li>\n<li>Plattformens material: Aluminium</li>\n<li>Styrmaterial: Aluminium</li>\n<li>Styrsystem: IHC</li>\n<li>Styrarmens längd: 600 mm</li>\n<li>Styrbredd: 540 mm</li>\n<li>Lager: ABEC-9</li>\n<li>Hjulstorlek: 110 mm</li>\n<li>Vikt: 2,9 kg</li>\n<li>Åkarlängd: 160–170 cm</li>",
+    "efter": "<p>Tricksparkcykeln Versatyl S2S Edition Pro har ståplattform och styre i aluminium, styrsystemet IHC och ABEC-9-lager. Hjulen är 110 mm och sparkcykeln väger 2,9 kg.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en tricksparkcykel med plattform och styre i aluminium</li>\n<li>Dig som vill köra trick och åka i skatepark</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Tricksparkcykel</li>\n<li>Märke: Versatyl</li>\n<li>Modell: S2S Edition Pro</li>\n<li>Plattformens längd: 508 mm</li>\n<li>Plattformens bredd: 118 mm</li>\n<li>Plattformens material: Aluminium</li>\n<li>Styrmaterial: Aluminium</li>\n<li>Styrsystem: IHC</li>\n<li>Styrarmens längd: 600 mm</li>\n<li>Styrbredd: 540 mm</li>\n<li>Lager: ABEC-9</li>\n<li>Hjulstorlek: 110 mm</li>\n<li>Vikt: 2,9 kg</li>"
+   }
+  },
+  "skal": "Live ACTIVE, en variant SKU 3760004845294 (EAN enligt scootshop.net och veloplus.ee), lager 2. Färgen rätt utelämnad (live-titeln Krom/Svart mot källans svart-grå; webben säger Chrome/Black respektive 'black, silver'), liksom sätet i aluminium och färdighetsnivån. Mått och material stämmer med källan och med veloplus.ee (däck 508x118 mm, styre 600x540 mm, 110 mm hjul, 100 kg). Rättning 1 (R7): live-ordet är Tricksparkcykel och egen källa talar om trickelement, inte stunt; praxis (vag2b_utlatande_49_50, k_utlatande_02e) behåller Tricksparkcykel där live-titeln säger det. Rättning 2 (R2): åkarlängden 160–170 cm i egen källa motsägs för exakt artikeln av veloplus.ee ('Riders 140–170 cm') och scootshop.net ('135-165 cm'); stryks i 'Passar för' och specifikationen, och 'Passar för' får i stället källans användning (trick och skatepark). Vikt 2,9 kg behålls ur egen källa (webben 2,95–2,99 kg). En 'enligt tillverkaren' kvar (lastkapacitet)."
+ },
+ {
+  "nr": 45104,
+  "id": "10488246632714",
+  "fil": "k_45b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, lager 3 (Default Title SKU 2206041185, EAN 4712878765702, 12 469 kr, lager 3; L / black SKU 2206041187, EAN 4712878765719, 5 229 kr, lager 0). Enligt Davids beslut 2026-11-08 är slutsiffra 5 = M och 7 = L för Giant, och Attend RS 3 GTS i butiken följer samma mönster (2226011185 M, 1187 L); velomarket.ee visar Attend RS 1 GTS, Black, med ram M (50 cm) för 168–178 cm. Varianterna är alltså samma cykel i M och L; v1.9 uppfylld trots den orimliga prisskillnaden, och texten låser varken storlek eller pris. Bara M och L nämns (XL säljs inte). Färg Svart: L-varianten och live-titeln, ingen variant anger annan kulör (v1.8). Alla tekniska uppgifter och medföljande delar stämmer med källan; 'pålitlig', 'hållbarhet', 'utmärkt hantering' rätt utelämnade. Ramlås och belysning bara som medföljande delar. Tagg På beställning, leveranstidsmeningen finns. Prisfelet bör rättas av David/leverantören (påverkar inte texten)."
+ },
+ {
+  "nr": 45105,
+  "id": "10488246796554",
+  "fil": "k_45b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, lager 1 (S / white). Default Title och S / white delar SKU 1017035184 och EAN 4711291218024: överbliven Default Title (v1.7), ignoreras; prisskillnaden låses inte. Slutsiffra 4 = S (Davids beslut 2026-11-08) stämmer med variantnamnet S. Ingen dubblett enligt dubblettbeslutet 2026-11-05: 10502528205066 är SKU 1017035185 (M). Titeln skiljer produkterna med 'storlek S' (två kommatecken, samma form som skrivna Liv-titlar). Färgen rätt utelämnad (white mot Lavender Blush). Ramstorlek S 46,5 cm för 158–169 cm, ALUXX, gaffel, Shimano Cues 20 växlar, BR-U6030, S-R2 Disc, Gavia Fondo 2 700x32c och fästpunkter stämmer med källan; stabilitets-, komfort- och bromskraftlöften rätt utelämnade. Ingen webbträff på EAN, men uppgifterna kommer ur produktens egen källa. Tagg På beställning, leveranstidsmeningen finns."
+ }
+]
