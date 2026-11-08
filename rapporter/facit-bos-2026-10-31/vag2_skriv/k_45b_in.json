@@ -1,0 +1,152 @@
+[
+ {
+  "id": "10472289861898",
+  "titel": "Styrketräningsset TUNTURI Hantel- & Skivstångsset 20 kg",
+  "lager": 4,
+  "forra_skal": "{'id': '10472289861898', 'nr': 10317, 'skäl': 'R3/R2: två varianter med olika SKU och pris (14TUSCL454 639 kr, 14TUSCL455 1 479 kr); källan motsäger sig (viktsumma, mått 114 x 114 cm - 114,5 cm).'}"
+ },
+ {
+  "id": "10472297595146",
+  "titel": "Proteinpulver 6PAK 90 Whey Protein 30g Vanilj",
+  "lager": 11,
+  "forra_skal": "R3/R2: titeln säger \"6PAK 90 Whey Protein ... Vanilj\" men källtexten säger \"80 Whey Protein\" (kopierad från syskonet 6PAK 80 Whey Protein Jordgubb, utkast 10472297529610), och smaken Vanilj finns inte"
+ },
+ {
+  "id": "10472305557770",
+  "titel": "Träningshandskar TOORX Professional Gloves, svart-röd",
+  "lager": 3,
+  "forra_skal": "{'id': '10472305557770', 'nr': 10580, 'skäl': 'R3: enda varianten heter \"M / black\" (SKU AHF-087) men titeln säger svart-röd; källan nämner varken färg eller storlek, så titeln motsäger varianten. Käl"
+ },
+ {
+  "id": "10472324432138",
+  "titel": "Step board BH FITNESS",
+  "lager": 5,
+  "forra_skal": "{'id': '10472324432138', 'nr': 34025, 'skäl': \"Webbkoll 2026-11-05 på artikelnummer 0191191 och EAN 8431284975340 gav ingen träff på BH Fitness Step board; egen källa är bara 'passar för BH Fitness' m"
+ },
+ {
+  "id": "10472325349642",
+  "titel": "Kettlebell HAMMER Premium Kettlebell 22 kg",
+  "lager": 2,
+  "forra_skal": "{'id': '10472325349642', 'nr': 31014, 'skäl': 'Källan är tunn och gäller inte just denna kettlebell: beskrivningen är en generell text om kettlebells i viktintervallet 4–24 kg och ger inga fakta utöve"
+ },
+ {
+  "id": "10472332198154",
+  "titel": "Ungdomscykel ROMET Rambler R6.0 JR, 26\" grön",
+  "lager": 6,
+  "forra_skal": "{'id': '10472332198154', 'nr': 39117, 'skäl': 'Titel och källa motsäger varandra: titeln säger Rambler R6.0 JR, källtexten beskriver R6.1 JR. Dessutom två varianter med olika artikelnummer och pris (7"
+ },
+ {
+  "id": "10472332493066",
+  "titel": "Scooter Union Lite S Scooter Lime",
+  "lager": 1,
+  "forra_skal": "{'id': '10472332493066', 'nr': 28139, 'skäl': 'Titel mot källa (R2/R3): live-titeln \"Scooter Union Lite S Scooter Lime\" anger scooter, men källtexten beskriver en \"trike\" (\"UNION LITE-triken ... en ri"
+ },
+ {
+  "id": "10472332820746",
+  "titel": "Stuntscooter Union Lite M Scooter Blue",
+  "lager": 3,
+  "forra_skal": "{'id': '10472332820746', 'nr': 28141, 'skäl': 'Titel mot källa (R2/R3): live-titeln \"Stuntscooter Union Lite M Scooter Blue\" anger scooter, men källtexten beskriver en \"trike\" (\"UNION LITE-triken ... "
+ },
+ {
+  "id": "10472333279498",
+  "titel": "Cykel ROMET Vintage Classic 2.0 M, grön",
+  "lager": 6,
+  "forra_skal": "{'id': '10472333279498', 'nr': 35016, 'skäl': 'Skillnaden går inte att fastställa utan gissning (R1/R3): källtexten säger Vintage Classic 1.0 M men live-titeln 2.0 M; spec (Nexus 7, 7 växlar) stämmer "
+ },
+ {
+  "id": "10472346190090",
+  "titel": "Stöd med bakre fäste för 26-29\" cykel",
+  "lager": 201,
+  "forra_skal": "{'id': '10472346190090', 'nr': 34027, 'skäl': \"Egen källa är bara 'Passar alla 26-29 tums cyklar'; EAN 2099900001178 är internt och ger ingen webbträff. Priset är 0,00 kr (ofärdig produkt). Färre än t"
+ },
+ {
+  "id": "10475362025738",
+  "titel": "Stänkskärmar SKS Velo 47 26\"",
+  "lager": 11,
+  "forra_skal": "{'id': '10475362025738', 'nr': 39126, 'skäl': 'Titel och källa motsäger varandra (R3): titeln anger 26\", källtexten säger \"Passar för 28\" cyklar\". Storleken kan inte styrkas.'}"
+ },
+ {
+  "id": "10475367006474",
+  "titel": "Skridskor Alpina T 40 2022",
+  "lager": 21,
+  "forra_skal": "{'id': '10475367006474', 'nr': 9802, 'titel_nu': 'Skridskor Alpina T 40 2022', 'skäl': \"R3/R7: titeln 'Skridskor' stämmer inte med källan, som beskriver en pjäxa med NNN-bindning (live-typ Skridskopjä"
+ },
+ {
+  "id": "10480054567178",
+  "titel": "Sangpomm CHRISTOPEIT Kettlebell 12kg",
+  "lager": 2,
+  "forra_skal": "{'id': '10480054567178', 'nr': 34029, 'skäl': \"Webbkoll på EAN 5704796035677 och 'Christopeit Kettlebell 12 kg' gav ingen träff som gäller exakt modellen (bara en begagnad Finn.no-annons utan EAN); eg"
+ },
+ {
+  "id": "10480054599946",
+  "titel": "Sangpomm CHRISTOPEIT Kettlebell 4kg",
+  "lager": 6,
+  "forra_skal": "{'id': '10480054599946', 'nr': 39137, 'skäl': 'Olika artiklar i en annons (v1.9): två varianter med olika artikelnummer (21-2547, 21-2548), streckkod och pris (289 och 489 kr) medan titeln anger 4 kg;"
+ },
+ {
+  "id": "10488246632714",
+  "titel": "Cykel GIANT Attend RS 1 GTS, Svart",
+  "lager": 3,
+  "forra_skal": "{'id': '10488246632714', 'nr': 10109, 'titel_nu': 'Cykel GIANT Attend RS 1 GTS, Svart', 'skäl': 'R3: olika SKU (2206041185 Default Title 12 469 kr mot 2206041187 L / black 5 229 kr) och prisskillnad ö"
+ },
+ {
+  "id": "10488246796554",
+  "titel": "Liv Avail AR 2 damcykel, Lavender Blush",
+  "lager": 1,
+  "forra_skal": "{'id': '10488246796554', 'nr': 35028, 'skäl': 'R3 och dubblettfråga: varianterna Default Title (lager 0, 26 209 kr) och S / white (lager 1, 22 789 kr) har samma SKU 1017035184 och färgen white stämmer"
+ },
+ {
+  "id": "10494685315338",
+  "titel": "Skridskoskidor Peltonen Acadia SK 21 STIFF",
+  "lager": 4,
+  "forra_skal": "{'id': '10494685315338', 'nr': 34030, 'skäl': 'Webbkoll på EAN 6417858571158: träffar gäller Peltonen Acadia Skate (stiff flex) som skidor i flera längder/pjäxpaket, men ingen sida kopplar EAN eller b"
+ },
+ {
+  "id": "10494689378570",
+  "titel": "Hantel RUCANOR 2,25 kg 30x360 mm",
+  "lager": 3,
+  "forra_skal": "{'id': '10494689378570', 'nr': 39144, 'skäl': 'Källan motsäger titeln och sig själv (R2/R3): titeln säger Hantel 2,25 kg 30x360 mm, källan beskriver ett \"Hantelgrepp\"/förkromat handtag med längd 35 cm"
+ },
+ {
+  "id": "10494699110666",
+  "titel": "Skyddsplåt UNIPLAST Apple, lila",
+  "lager": 1,
+  "forra_skal": "{'id': '10494699110666', 'nr': 34031, 'skäl': \"Webbkoll på EAN 4743128000045 och 'Uniplast Apple' gav ingen träff; egen källa är tom. Färre än två entydiga fakta (R3).\"}"
+ },
+ {
+  "id": "10494699340042",
+  "titel": "Stöd för bakväxel GIANT DIRECT MOUNT KSA 24\" - 29\", 18MM",
+  "lager": 61,
+  "forra_skal": "{'id': '10494699340042', 'nr': 32042, 'skäl': 'Titel och källa motsäger varandra (R3): titeln säger \"Stöd för bakväxel\", källan säger stöd för bakhjul. Webbkoll visar att artikel 500000012 är e-cykelv"
+ },
+ {
+  "id": "10502528008458",
+  "titel": "Canopy frame CARGOBIKE Canopy Framework 2-kids för Classic",
+  "lager": 1,
+  "forra_skal": "{'id': '10502528008458', 'nr': 28208, 'skäl': 'Lastcykeldel (kalesch/ram för lastcykel) med tom källa: ingen beskrivning, bara titel och SKU. Tunn källa (R3) och lastcykeldelar avvisas.'}"
+ },
+ {
+  "id": "10502528041226",
+  "titel": "Kedja SHIMANO HG54 10-växlad",
+  "lager": 15,
+  "forra_skal": "{'id': '10502528041226', 'nr': 32044, 'skäl': 'Kedja (Shimano HG54): live-beskrivningen är tom, så källan är tunn (R3), och kedjor är säkerhetskritiska delar som inte ingår i Davids beslut om lastgrän"
+ },
+ {
+  "id": "10515738067210",
+  "titel": "Stöd för bakre löpare GIANT DIRECT MOUNT KSA 40MM",
+  "lager": 20,
+  "forra_skal": "{'id': '10515738067210', 'nr': 32045, 'skäl': 'Källan är maskinöversatt och motsägelsefull: \"stöd för bakre löpare\", \"aluminium klätterutrustning material\", \"stabilt och gediget\"; bara aluminium och K"
+ },
+ {
+  "id": "10515745636618",
+  "titel": "Tricksparkcykel Versatyl S2S Edition Pro Scooter Krom/Svart",
+  "lager": 2,
+  "forra_skal": "{'id': '10515745636618', 'nr': 34032, 'skäl': \"Titelns färg 'Krom/Svart' motsäger källans 'Färg: svart-grå' och källan nämner 'säte i aluminium', som inte hör till en trick-sparkcykel (trasig rad). We"
+ },
+ {
+  "id": "10515754385674",
+  "titel": "Stuntsparkcykel SOKE PRO, lila-röd",
+  "lager": 1,
+  "forra_skal": "{'id': '10515754385674', 'nr': 35033, 'skäl': 'R3: två varianter med olika pris (Default Title SKU 1525, 3 369 kr; variant 1525-801113, 2 319 kr, olika streckkod) och källan anger ingen färg, så titel"
+ }
+]
