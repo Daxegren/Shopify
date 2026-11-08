@@ -67,3 +67,8 @@ Skapad 2026-11-04. Filen fylls bara på; nya beslut läggs överst i tabellen, g
 
 ## 2026-11-07 (David: "Ja" till att skriva Gymstick-produkterna)
 - De 98 aktiva Gymstick-produkterna utan texter-klara (ej lås, löpband tas i k_41) får text enligt vanliga regler. Gymstick-taggen rörs inte.
+
+## 2026-11-08 (David: "Kör på. Massageredskapen häver vi spärren på …")
+- Giant/Liv: ramstorlek får härledas ur artikelnumrets slutsiffra (3=XS, 4=S, 5=M, 7=L, 8=XL), eftersom butikens egna 380 varianter följer det. Gäller inte Leader Fox, Revolt Advanced 2 (2025) (slutsiffra 6) eller Kona.
+- RecoPod Ice Bath skrivs med bara produktfakta. Fyra lyftbara Gymstick-produkter (10581097054474, 10581100888330, 10581104460042, 10581105115402) får utkast.
+- Spärren på massageredskap hävs (kategori massage i utanfor_tills_vidare; akupressur och massagestolar ingår inte i hävningen utan särskilt besked). Regel: texten får beskriva avsedd användning ("avsedd för massage av …") men inga resultatlöften (smärtlindring, återhämtning, blodcirkulation, muskelhälsa m.fl.) som inte styrks av publicerade studier från välkända institut, t.ex. Karolinska; i praktiken skrivs inga sådana påståenden. Se regler-v1.md v1.11.
