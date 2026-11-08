@@ -1,0 +1,122 @@
+[
+ {
+  "id": "10581109768458",
+  "nr": 45301,
+  "skäl": "Olika artiklar (v1.9): Default 799 kr (Powerslider), SL 149 kr och G 129 kr är olika tillbehör (troligen strumpor och handskar), inte färg/storlek av samma artikel."
+ },
+ {
+  "id": "10581109833994",
+  "nr": 45302,
+  "skäl": "Olika artiklar (v1.9): S, M och L har olika mått och vikt (24x16x12, 50x25x10, 50x35x30 cm) och pris 669/889/1099 kr; titeln låser Large."
+ },
+ {
+  "id": "10581112094986",
+  "nr": 45303,
+  "skäl": "Inte ett löpband utan smörjmedel. Varianterna 61141 (249 kr) och 61141-SPR (299 kr) är olika artiklar (troligen olika förpackning/spray) och egen källa är en generisk mening utan fakta; ingen entydig modell att styrka."
+ },
+ {
+  "id": "10581112520970",
+  "nr": 45304,
+  "skäl": "Olika artiklar (v1.9): fem WalkingPad-modeller (CR, MV, PRO, ELI, HRL) med pris 899-11499 kr; dessutom elektronik (motor, display, app) som inte får skrivas utan särskilt besked."
+ },
+ {
+  "id": "10581112815882",
+  "nr": 45305,
+  "skäl": "Olika artiklar/oklar källa: S (61162-S, 1449 kr, lager 11) och Default (61162, 1899 kr, lager 0) har olika pris och streckkod; egen källa är en marknadsföringstext utan mått eller material, så vad Default-varianten är kan inte styrkas."
+ },
+ {
+  "id": "10593396949258",
+  "nr": 45306,
+  "skäl": "Titel och källa motsäger varandra (R2/R3): live-titel och text säger hantelstång men SKU 72019/EAN 6430062511222 är Gymsticks Active Chin Up Bar (tagg Pull-up); egen källa har inga entydiga fakta."
+ },
+ {
+  "id": "10611406242058",
+  "nr": 45307,
+  "skäl": "Olika artiklar (v1.9): 10 kg (72022-10, 319 kr, lager 209) och 15 kg (72022-15, 419 kr, lager 0) är olika vikter/set; viktuppgift är artikelns kärna."
+ },
+ {
+  "id": "10611413647626",
+  "nr": 45308,
+  "skäl": "Olika artiklar (v1.9): 61077-0 (7479 kr) och 61077 (309 kr) har olika pris och streckkod; innehåll kan inte styrkas."
+ },
+ {
+  "id": "10611414237450",
+  "nr": 45309,
+  "skäl": "Olika artiklar (v1.9): 39 varianter (PRO-501 till PRO-550M, maskiner och tillbehör) med pris 419-149989 kr; titeln gäller bara en modell."
+ },
+ {
+  "id": "10611414958346",
+  "nr": 45310,
+  "skäl": "Olika artiklar (v1.9): 31 varianter (STR-AB m.fl., olika bänkar och ställ) med pris 1079-15589 kr; titeln AbBench gäller bara en."
+ },
+ {
+  "id": "10611415220490",
+  "nr": 45311,
+  "skäl": "Olika artiklar (v1.9): Aerobic Bar 3, 4, 6, 8 och 10 kg med olika SKU, streckkod och pris (399-1019 kr); vikten är artikelns kärna."
+ },
+ {
+  "id": "10611418398986",
+  "nr": 45312,
+  "skäl": "Olika artiklar (v1.9): viktskivor 5, 10, 15, 20 och 25 kg (459-1099 kr); bärande del och vikten är artikelns kärna."
+ },
+ {
+  "id": "10611419054346",
+  "nr": 45313,
+  "skäl": "Olika artiklar (v1.9): 7 varianter (SB-CS, SB-FTR, SB-FTR7, SB-PROFTR, SB-RCR, SB-SPD m.fl.) med pris 449-12999 kr; titeln Comfort Seat gäller bara en."
+ },
+ {
+  "id": "10611424854282",
+  "nr": 45314,
+  "skäl": "Olika artiklar (v1.9): fem crosstrainermodeller (GX3.0-GX9.0, PRO20.0) med pris 5499-28999 kr; dessutom elektronik och bärande del utan entydig källa."
+ },
+ {
+  "id": "10611433537802",
+  "nr": 45315,
+  "skäl": "Olika artiklar (v1.9): 14 hantelvikter 0,5-10 kg och set med olika SKU, streckkod och pris (79-10599 kr)."
+ },
+ {
+  "id": "10611442188554",
+  "nr": 45316,
+  "skäl": "Olika artiklar (v1.9): viktväst 2,5 kg (349 kr, lager 0) och 5 kg (449 kr, lager 416) är olika vikter; titeln låser 2,5 kg som saknar lager."
+ },
+ {
+  "id": "10612578976010",
+  "nr": 45317,
+  "skäl": "Tunn och motstridig källa (R2/R3): egen källa är en mening (\"slitstarkt material\", damasker). Webbkoll på EAN 5902308590908 (Seven Disney Mickey 59090) anger grå-gul färg, storlek S/barn, medan live-titeln säger green och annan butik anger one size; barnhandskar med motsägelser, inget entydigt att skriva."
+ },
+ {
+  "id": "10624084148490",
+  "nr": 45318,
+  "skäl": "Tunn källa (R3): egen källa är bara \"Tillverkaren är Toorx\"; tidigare webbkoll (EAN 8029975990248, KIT-PALLAWBX-70, Fastball WBX-70) gav ingen träff. Färre än två entydiga fakta utöver titeln."
+ },
+ {
+  "id": "10636601655562",
+  "nr": 45319,
+  "skäl": "R3: titeln anger 100 cm men egen källa anger längd 120 cm (motsägelse); handtaget pekar på Excalibur Workout 100 (kopia). Tidigare webbsökning på EAN 4250663127330 gav ingen entydig träff."
+ },
+ {
+  "id": "10636616040714",
+  "nr": 45320,
+  "skäl": "Redan skriven (struktur finns live: Passar för, specifikationer, standardblock; bara taggen texter-klara saknas). Leverantörens original finns inte kvar och egen text räknas inte som källa (R3); ingen ny skrivning. Taggfrågan lämnas till beslut."
+ },
+ {
+  "id": "10636636782858",
+  "nr": 45321,
+  "skäl": "Redan skriven (struktur finns live) men med kvarvarande FAQ-avsnitt; leverantörens original finns inte kvar och egen text är ingen källa (R3). Motståndsvärden i kg är inte lastgränser men kan inte styrkas på nytt. Ingen ny skrivning; FAQ-rensning och tagg lämnas till beslut."
+ },
+ {
+  "id": "10636737806602",
+  "nr": 45322,
+  "skäl": "Olika artiklar (v1.9): tio vikter 1-10 kg med olika SKU och pris (599-1039 kr); vikten är artikelns kärna och titeln anger intervallet."
+ },
+ {
+  "id": "10650210369802",
+  "nr": 45323,
+  "skäl": "Olika artiklar (v1.9): tre varianter med olika SKU och pris (Red 17050 379 kr, gray 17051 559 kr, yellow 17053 2039 kr), troligen olika vikter; bärande del och titeln låser röd/2,5 kg. Lager 2 per variant."
+ },
+ {
+  "id": "10650210664714",
+  "nr": 45324,
+  "skäl": "Olika artiklar (v1.9, v1.10): 17611 (3039 kr) och 17613 (5699 kr) är olika stänger (olika längd/vikt); titeln låser 183 cm och 250 kg; bärande del utan styrkt lastgräns per variant."
+ }
+]

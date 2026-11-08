@@ -1,0 +1,127 @@
+[
+ {
+  "id": "10515754615050",
+  "nr": 45201,
+  "skäl": "Motsägande källa (R2/R3): titeln anger Union Credit V2 Pro, texten Union Classic V2 Pro-hjul och vikten 236 g; en variant, SKU 105829 hittades inte entydigt på webben. Gissar inte modell."
+ },
+ {
+  "id": "10530130854154",
+  "nr": 45202,
+  "skäl": "Tom källa (ingen beskrivning, bara titel): inga fakta att skriva från (R1/R3). Ingen ändring mot tidigare."
+ },
+ {
+  "id": "10541369098506",
+  "nr": 45203,
+  "skäl": "Tunn källa: bara flaskstorlek 500-750 ml och märke. Webbkoll hittade familjen Airway Sport Sidepull men inte artikelnumren 490000099/490000095 eller vad (L) betyder; kan inte knytas entydigt (R1, v1.6)."
+ },
+ {
+  "id": "10541372801290",
+  "nr": 45204,
+  "skäl": "Olika artiklar (v1.9): sex varianter 25TUPLA070-075 med olika vikt och pris (389 resp. 679 kr); titeln anger 8 kg och källan saknar vikt per variant."
+ },
+ {
+  "id": "10554363117834",
+  "nr": 45205,
+  "skäl": "Säkerhetsdel (frigörande klosskoppling mellan sko och pedal), ingår inte i v1.10; källan har bara \"9 grader\" utöver titeln."
+ },
+ {
+  "id": "10581101641994",
+  "nr": 45206,
+  "skäl": "Olika artiklar (v1.9): sju stänger med olika SKU/modell (10CURVED, 15, 20COM, 20PRE, 20, BH6, HB182) och pris 2039-4789 kr; titeln anger 10 kg."
+ },
+ {
+  "id": "10581102231818",
+  "nr": 45207,
+  "skäl": "Olika artiklar (v1.9): 15 kg och 20 kg-set (61070-15/-20) med olika vikt och pris."
+ },
+ {
+  "id": "10581104230666",
+  "nr": 45208,
+  "skäl": "Varianterna L och S har samma pris men webbkoll tyder på olika motståndsklasser (lätt respektive stark, olika kg-intervall) = olika artiklar; ej entydigt för exakt SKU 61055. Egen källa tunn och vag."
+ },
+ {
+  "id": "10581104394506",
+  "nr": 45209,
+  "skäl": "Olika artiklar (v1.9): golvstativ FS (4539 kr) och WM (829 kr, annan monteringstyp); källan saknar fakta."
+ },
+ {
+  "id": "10581104492810",
+  "nr": 45210,
+  "skäl": "Olika artiklar (v1.9): fyra varianter (03BL, 03R, 01, 07) med priser 159-399 kr; källan beskriver inte skillnaden, titeln låser 50 mm svart."
+ },
+ {
+  "id": "10581104623882",
+  "nr": 45211,
+  "skäl": "Stöd för kroppsdel med kompressions- och rehablöften; källan ger inga mått eller material. Tunn källa (R3, R5)."
+ },
+ {
+  "id": "10581104853258",
+  "nr": 45212,
+  "skäl": "Nackskydd för tunga lyft: bara skydds- och komfortpåståenden, inga mått eller material. Tunn källa/skyddsprodukt (R3, R5)."
+ },
+ {
+  "id": "10581104918794",
+  "nr": 45213,
+  "skäl": "Nackskydd: bara skydds-, säkerhets- och stötdämpningspåståenden utan mått eller material. Tunn källa (R3, R5)."
+ },
+ {
+  "id": "10581104951562",
+  "nr": 45214,
+  "skäl": "Olika artiklar (v1.9): tre varianter (61090-0, -1,5, -2) med pris 349, 1299 och 1599 kr; fästet och rep i olika längd inte åtskilda av källan."
+ },
+ {
+  "id": "10581105541386",
+  "nr": 45215,
+  "skäl": "Olika artiklar (v1.9): tre varianter (61054-CON 19 kr, 61054 1499 kr, 61054-RFS 29 kr) med helt olika pris; reservdel utan entydig beskrivning."
+ },
+ {
+  "id": "10581105803530",
+  "nr": 45216,
+  "skäl": "Olika artiklar (v1.9): sex varianter (DB, PS, SA, 22S, 22WS, WB) med pris 899-2999 kr; källan saknar fakta per variant."
+ },
+ {
+  "id": "10581105901834",
+  "nr": 45217,
+  "skäl": "Stöd med kompressions-/skyddspåståenden och ingen hård uppgift; ingen tillverkarsida hittad för SKU 63066. Tunn källa (R3, R5)."
+ },
+ {
+  "id": "10581106491658",
+  "nr": 45218,
+  "skäl": "Olika artiklar (v1.9): sju varianter med vikt 0-30 kg och pris 699-2999 kr; titeln anger 10 kg."
+ },
+ {
+  "id": "10581106950410",
+  "nr": 45219,
+  "skäl": "Olika artiklar (v1.9): 62066 (459 kr) och 62066-0 (259 kr); egen källa utan hårda fakta."
+ },
+ {
+  "id": "10581107343626",
+  "nr": 45220,
+  "skäl": "Olika artiklar (v1.9): tio löpband av olika modell (GT1.0-PRO25.0, WPAD) med pris 6899-49999 kr; titeln anger GT1.0. Dessutom elektronik."
+ },
+ {
+  "id": "10581107802378",
+  "nr": 45221,
+  "skäl": "Olika artiklar (v1.9): sju varianter (20, 30, 45 kg, CM, HS, WM, WMPRO) med pris 79-2499 kr."
+ },
+ {
+  "id": "10581107867914",
+  "nr": 45222,
+  "skäl": "Olika artiklar (v1.9): fem vikter (5-25 kg) med pris 419-1499 kr; titeln anger 10 kg."
+ },
+ {
+  "id": "10581108130058",
+  "nr": 45223,
+  "skäl": "Olika artiklar (v1.9): sju varianter (1,25-20 kg och RACK) med pris 79-1599 kr; titeln anger 1,25 kg."
+ },
+ {
+  "id": "10581108228362",
+  "nr": 45224,
+  "skäl": "Tape för kroppen med prestations- och skadeförebyggande påståenden; ingen hård uppgift (mått, material) i egen källa. Variant FIN (79 kr) mot övriga färger (99 kr) ej förklarad, och titeln låser beige. Tunn källa (R3, R5)."
+ },
+ {
+  "id": "10581108818186",
+  "nr": 45225,
+  "skäl": "Olika artiklar (v1.9): varianterna A (469 kr) och F (399 kr, lager 0) med olika artikelnummer och pris; källan saknar fakta per variant."
+ }
+]
