@@ -1,0 +1,146 @@
+[
+ {
+  "id": "10494941692170",
+  "titel": "Damcykel LIV Allure CS 2 GB, Deep Cove",
+  "lager": 2,
+  "forra_skal": "{'id': '10494941692170', 'nr': 25050, 'skäl': 'R3: produkten har två varianter med olika SKU och olika pris (Default Title, SKU 3005010114, 22 889 kr, och \"M / purple\", SKU 3005010115, 19 909 kr), och"
+ },
+ {
+  "id": "10515754516746",
+  "titel": "Scooter Rideoo 120 City Scooter med LED-belysning",
+  "lager": 2,
+  "forra_skal": "{'id': '10515754516746', 'nr': 28215, 'skäl': 'R3: titeln säger \"med LED-belysning\" men källan nämner varken belysning eller färg, så titel och källa stämmer inte och färg saknas för unikhet. Webbkoll"
+ },
+ {
+  "id": "10523488190730",
+  "titel": "Damcykel Romet Gazela 0, 21 Växlar, Turkos",
+  "lager": 6,
+  "forra_skal": "{'id': '10523488190730', 'nr': 35035, 'skäl': 'Redan skriven: live-text (SEO-titel, meta och beskrivning med Passar för, Specifikationer och standardblock) finns redan på produkten. Taggen texter-klar"
+ },
+ {
+  "id": "10523488387338",
+  "titel": "Cykel GIANT AnyTour CS 2 GB, Stealth Chrome",
+  "lager": 0,
+  "forra_skal": "{'id': '10523488387338', 'nr': 25055, 'skäl': 'Cykeln AnyTour CS 2 GB: de två varianterna har samma artikelnummer (3009011118) men olika pris (22 399 kr för Default Title, 19 479 kr för XL / gray) och"
+ },
+ {
+  "id": "10523491467530",
+  "titel": "Cykelklocka GIANT DING-A-LING Flick, Svart",
+  "lager": 19,
+  "forra_skal": "{'id': '10523491467530', 'nr': 9439, 'skäl': 'Tunn källa (R3): live-beskrivningen är helt tom, titeln är enda källa. Enda variant är Default Title (SKU 510000013), så varianterna hindrar inte. Webbsök"
+ },
+ {
+  "id": "10530129477898",
+  "titel": "Barnhjälm GIANT Relay MIPS, Gloss White",
+  "lager": 5,
+  "forra_skal": ""
+ },
+ {
+  "id": "10541372277002",
+  "titel": "Barnhjälm CAIRN Sunny, Vintage Blue Game, XS",
+  "lager": 5,
+  "forra_skal": ""
+ },
+ {
+  "id": "10548248215818",
+  "titel": "Reflekterande klistermärken för barn BOOKMAN Reflective Adventure Stickers, Vit",
+  "lager": 3,
+  "forra_skal": "{'id': '10548248215818', 'nr': 28243, 'skäl': 'Reflekterande klistermärken (reflexer) räknas som säkerhetsprodukter med synlighetslöfte (standard §12) och skrivs inte i vågor; källan lovar säkerhet oc"
+ },
+ {
+  "id": "10548295368970",
+  "titel": "LEADER FOX Bormio el-trehjuling, Vit",
+  "lager": 0,
+  "forra_skal": "{'id': '10548295368970', 'nr': 28245, 'skäl': 'Elcykel med motor, batteri och belysning (Bafang 250 W, LG 518,4 Wh, fram-/bakljus): avvisas enligt uppdraget. Dessutom R3/v1.8: varianterna har olika fä"
+ },
+ {
+  "id": "10554353910026",
+  "titel": "Barnhjälm GIANT Holler, Matt Blå",
+  "lager": 1,
+  "forra_skal": ""
+ },
+ {
+  "id": "10577688527114",
+  "titel": "Barnhjälm LIMAR Kid Pro S, Space Blue",
+  "lager": 1,
+  "forra_skal": ""
+ },
+ {
+  "id": "10581104754954",
+  "titel": "Back Support 2.0 Large/Extra Large",
+  "lager": 181,
+  "forra_skal": "{'id': '10581104754954', 'nr': 42114, 'skäl': 'Ryggstöd med kompression/skadeförebyggande löften; källan ger inga entydiga fakta utöver att stödet finns i två storlekar; tunn källa (R3, R5). Titeln lå"
+ },
+ {
+  "id": "10581106524426",
+  "titel": "Fitness Trampoline",
+  "lager": 149,
+  "forra_skal": "{'id': '10581106524426', 'nr': 42210, 'skäl': 'Trampolin: ingår inte i v1.10 (lastgräns på trampoliner är inte beslutad) och hoppande med max användarvikt är en säkerhetsfråga. Lyft till David om tram"
+ },
+ {
+  "id": "10581106557194",
+  "titel": "Flip-Lock Collars 30mm",
+  "lager": 974,
+  "forra_skal": "{'id': '10581106557194', 'nr': 3102, 'skäl': 'Skivstångslås (last/säkerhet, R4) och varianter som är olika artiklar med olika SKU och pris, live: FL30 (SKU 61057-FL30, 149 kr); BAR (SKU 61057-BAR, 299"
+ },
+ {
+  "id": "10581106917642",
+  "titel": "Motionscykel GB3.0, Svart-Vit",
+  "lager": 37,
+  "forra_skal": "{'id': '10581106917642', 'nr': 42211, 'skäl': 'Elektronik: motionscykel med datorstyrt magnetiskt motstånd, LCD-display, program och Bluetooth enligt tillverkarens sida.'}"
+ },
+ {
+  "id": "10581109702922",
+  "titel": "Power Vest 10kg",
+  "lager": 390,
+  "forra_skal": "{'id': '10581109702922', 'nr': 42307, 'skäl': 'Varianter som är olika artiklar (R3, v1.9): Power Vest 10 kg (1 099 kr) och variant \"20\" (1 449 kr); tillverkarens sida listar \"10 kg / 20 kg\" med 20 kg "
+ },
+ {
+  "id": "10581110358282",
+  "titel": "Pro PU Viktplatta 1,25kg / styck",
+  "lager": 550,
+  "forra_skal": "{'id': '10581110358282', 'nr': 42311, 'skäl': 'Varianter är olika artiklar (R3, v1.9): sju vikter 1,25–25 kg med priser 109–1 429 kr. Titeln låser 1,25 kg. Lämnas till uppdelning.'}"
+ },
+ {
+  "id": "10581110980874",
+  "titel": "Snabbkoppling Hantel 22,5kg",
+  "lager": 289,
+  "forra_skal": "{'id': '10581110980874', 'nr': 42313, 'skäl': 'Varianter är olika artiklar (R3, v1.9): Default 22,5 kg (2 549 kr) och variant \"0\" (999 kr, SKU 61031-0). Titeln låser 22,5 kg och tillverkarens sida gäl"
+ },
+ {
+  "id": "10588448227594",
+  "titel": "Shaker TREC Shaker 061, TREC TEAM, 0,7 l, mint",
+  "lager": 17,
+  "forra_skal": "Tunn källa (R3): live-beskrivningen är tom och titeln \"Shaker TREC Shaker 061, TREC TEAM, 0,7 l, mint\" ger bara volym och färg utöver produkttypen. Tillverkarens sida kunde inte hittas. Behöver produk"
+ },
+ {
+  "id": "10588451471626",
+  "titel": "Viktväska TUNTURI Platinum Bulgarian Bag, 10 kg",
+  "lager": 2,
+  "forra_skal": "{'id': '10588451471626', 'nr': 10603, 'titel_nu': 'Viktväska TUNTURI Platinum Bulgarian Bag, 10 kg', 'skäl': 'R3: två riktiga varianter med olika SKU och pris (25TUPLA092 1 499 kr, 25TUPLA091 739 kr) "
+ },
+ {
+  "id": "10588451504394",
+  "titel": "Heavy bag TUNTURI Platinum Bulgarian Bag, 15 kg",
+  "lager": 1,
+  "forra_skal": "{'id': '10588451504394', 'nr': 10589, 'titel_nu': 'Heavy bag TUNTURI Platinum Bulgarian Bag, 15 kg', 'skäl': 'R3: två riktiga varianter med olika SKU och pris (25TUPLA093 1 579 kr, 25TUPLA094 1 669 kr"
+ },
+ {
+  "id": "10588451602698",
+  "titel": "TUNTURI Platinum Slam Ball, 6 kg",
+  "lager": 3,
+  "forra_skal": "{'id': '10588451602698', 'nr': 10541, 'titel_nu': 'TUNTURI Platinum Slam Ball, 6 kg', 'skäl': 'R3: live-kontroll visar en Default Title (SKU 25TUPLA096, 369 kr) men dessutom riktiga varianter med olik"
+ },
+ {
+  "id": "10605358055690",
+  "titel": "Griptape Ethic Basic",
+  "lager": 4,
+  "forra_skal": "{'id': '10605358055690', 'nr': 34038, 'skäl': 'Redan skriven: produkten har i butiken redan ny titel och text med standardblock (Griptape Ethic Basic). Skrivs inte om.'}"
+ },
+ {
+  "id": "10624081527050",
+  "titel": "Cykelklocka Minnie Flowers Retro, vit blommig",
+  "lager": 1,
+  "forra_skal": "{'id': '10624081527050', 'nr': 28256, 'skäl': 'Tunn och motsägelsefull källa (R3): två meningar där säkerhetslöfte (\"säkerställer cyklistens säkerhet\") är kärnan, material metal och en linsdiameter so"
+ }
+]

@@ -1,0 +1,86 @@
+[
+ {
+  "id": "10635809882378",
+  "titel": "Elcykel GIANT Fathom E+ 2 EX (2027) Pangea Green",
+  "lager": 0,
+  "forra_skal": "{'id': '10635809882378', 'nr': 41106, 'skäl': 'Källan motsäger sig (R2): löptexten anger batteriet EnergyPak Smart 800 Wh, detaljraderna anger EnergyPak 625 Wh och räckvidd 167 km. Batteriet är en huv"
+ },
+ {
+  "id": "10636687933706",
+  "titel": "Wall Ball Paket PRO 6kg 12kg 15kg",
+  "lager": 2,
+  "forra_skal": "{'id': '10636687933706', 'nr': 20048, 'titel_nu': 'Wall Ball Paket PRO 6kg 12kg 15kg', 'skäl': 'R3: tre riktiga varianter med olika SKU och pris (Paket 6 kg 1 629 kr, 12 kg 1 799 kr, 15 kg 2 899 kr); "
+ },
+ {
+  "id": "10636696518922",
+  "titel": "Studsmatta Trampolin 100cm",
+  "lager": 96,
+  "forra_skal": "{'id': '10636696518922', 'nr': 31033, 'skäl': 'Studsmatta/trampolin är på listan över säkerhetsprodukter (v1.9: trampoliner) och källan anger maxbelastning 150 kg i löptext utan etikett (R4). Variante"
+ },
+ {
+  "id": "10636706349322",
+  "titel": "Viktskivor Bumper Color 51 mm, 5–25 kg",
+  "lager": 550,
+  "forra_skal": "{'id': '10636706349322', 'nr': 36101, 'skäl': 'Varianter är olika artiklar (R3, v1.9): fem vikter 5, 10, 15, 20 och 25 kg med olika SKU (100946-00001-0010 till -0029), färger och priser (1 179–4 619 k"
+ },
+ {
+  "id": "10636727025930",
+  "titel": "Viktlås PRO Jawlock 2st 30mm",
+  "lager": 813,
+  "forra_skal": "{'id': '10636727025930', 'nr': 9357, 'skäl': \"Titeln anger 30 mm men källan anger 'Diamteter på 31mm' och ingen text anger 30 mm (R3). Produkten har taggen 'Viktlås 31mm'. En variant. Kan skrivas som "
+ },
+ {
+  "id": "10636752584970",
+  "titel": "Kabelhandtag Parallellt Roddhandtag, 76 cm, Krom",
+  "lager": 353,
+  "forra_skal": "{'id': '10636752584970', 'nr': 9533, 'skäl': 'Redan skriven: live har vår text (standardblock, SEO-titel och meta; produkten ingår i facit30-batchen). Kabelhandtag Parallellt Roddhandtag, 76 cm, Krom "
+ },
+ {
+  "id": "10636758286602",
+  "titel": "Curlstångspaket Chrome 35 kg med Krommade Viktskivor",
+  "lager": 85,
+  "forra_skal": "{'id': '10636758286602', 'nr': 35046, 'skäl': 'Redan skriven: live har vår text (SEO-titel, meta, Passar för, Specifikationer, standardblock). Ingen ny text behövs.'}"
+ },
+ {
+  "id": "10650210468106",
+  "titel": "Kettlebell HAMMER Premium 4kg",
+  "lager": 4,
+  "forra_skal": "{'id': '10650210468106', 'nr': 31034, 'skäl': 'Varianterna 17360 (409 kr, 4 kg enligt titeln) och 17368 (1949 kr) är kettlebells i olika vikter (källan anger intervallet 4–24 kg), alltså olika artikla"
+ },
+ {
+  "id": "10656690372874",
+  "titel": "Cykel GIANT AnyTour RS 2 GB, Ocean Storm",
+  "lager": 0,
+  "forra_skal": "Bärande del utan lastgräns (David beslut 3): setet inkluderar pakethållare och ramlås, och källan saknar svensk lastgräns för pakethållaren. Dessutom är de två annonserna (SKU 3009009117 18 099 kr och"
+ },
+ {
+  "id": "10656691618058",
+  "titel": "Motionscykel BH FITNESS Lyon Climber Multimedia",
+  "lager": 1,
+  "forra_skal": "{'id': '10656691618058', 'nr': 36009, 'skäl': 'BH Fitness Lyon Climber Multimedia: i huvudsak elektronisk (10-tums pekskärm med multimedia, Netflix/Zwift, Bluetooth FTMS, bromssystem med servomotor, e"
+ },
+ {
+  "id": "10656691912970",
+  "titel": "Cykel GIANT AnyTour RS 2 GB, Ocean Storm",
+  "lager": 0,
+  "forra_skal": "Bärande del utan lastgräns (David beslut 3): setet inkluderar pakethållare och ramlås, och källan saknar svensk lastgräns för pakethållaren. Dessutom är de två annonserna (SKU 3009009117 18 099 kr och"
+ },
+ {
+  "id": "10665226830090",
+  "titel": "Ljus BOOKMAN Eclipse Bärbar lampa",
+  "lager": 1,
+  "forra_skal": "{'id': '10665226830090', 'nr': 28280, 'skäl': 'Belysning/synlighet: bärbar säkerhetslampa som lovar \"synlighet och säkerhet\" och \"maximal synlighet\" samt fästs på barnvagn och hjälm; ingen lumen, batt"
+ },
+ {
+  "id": "10665228173578",
+  "titel": "Reflekterande klistermärken för cykel BOOKMAN Reflective Stickers for Bicycles, Black Flames",
+  "lager": 11,
+  "forra_skal": "{'id': '10665228173578', 'nr': 36001, 'skäl': 'Bookman Reflekterande klistermärken Black Flames: tre varianter (SKU 520, 521, 522, samma pris) med oförklarade namn; vad de skiljer sig åt i (mönster el"
+ },
+ {
+  "id": "10676721189130",
+  "titel": "Landsvägscykel GIANT Propel Advanced Pro 0 AXS (2027) Obsidian Pulse",
+  "lager": 1,
+  "forra_skal": "{'id': '10676721189130', 'nr': 10028, 'skäl': 'R3: fyra varianter med olika SKU (M 1074033105, M/L 1074033106, L 1074033107, XL 1074033108) och två priser (104 029 kr för M och M/L, 103 819 kr för L o"
+ }
+]

@@ -1,0 +1,122 @@
+[
+ {
+  "id": "10472289861898",
+  "nr": 45201,
+  "titel_nu": "Styrketräningsset TUNTURI Hantel- & Skivstångsset 20 kg",
+  "skäl": "Olika artiklar (v1.9): varianterna 14TUSCL454 (639 kr, lager 4) och 14TUSCL455 (1 479 kr, lager 0) är olika set, och källan motsäger sig (viktsumma, mått 114 x 114 cm - 114,5 cm)."
+ },
+ {
+  "id": "10472297595146",
+  "nr": 45202,
+  "titel_nu": "Proteinpulver 6PAK 90 Whey Protein 30g Vanilj",
+  "skäl": "Kosttillskott där titeln (90 Whey Protein, Vanilj) motsäger källan (80 Whey Protein, ingen smak nämnd); R3."
+ },
+ {
+  "id": "10472305557770",
+  "nr": 45203,
+  "titel_nu": "Träningshandskar TOORX Professional Gloves, svart-röd",
+  "skäl": "R3: enda varianten är M / black men titeln säger svart-röd; källan nämner varken färg eller storlek. Bara tre fakta (styrketräning, öglor mellan fingrarna, tillverkare), varav halkfri handflata och Italien är kvalitets-/ursprungsord; tunn källa."
+ },
+ {
+  "id": "10472324432138",
+  "nr": 45204,
+  "titel_nu": "Step board BH FITNESS",
+  "skäl": "Tunn källa (R3): egen källa är bara \"Produkten passar för BH Fitness\"; inga entydiga fakta utöver titeln och ingen webbträff på artikelnummer 0191191/EAN 8431284975340."
+ },
+ {
+  "id": "10472325349642",
+  "nr": 45205,
+  "titel_nu": "Kettlebell HAMMER Premium Kettlebell 22 kg",
+  "skäl": "Tunn källa (R3): generell text om kettlebells 4-24 kg som inte gäller exakt 22 kg; två varianter med samma SKU 17367 men olika pris (1 879 / 1 639 kr). Ingen webbverifiering av modellen gjordes."
+ },
+ {
+  "id": "10472332198154",
+  "nr": 45206,
+  "titel_nu": "Ungdomscykel ROMET Rambler R6.0 JR, 26\" grön",
+  "skäl": "R3: titeln säger Rambler R6.0 JR, källan beskriver R6.1 JR; varianterna 26170022-A (7 059 kr) och 26190023-A (6 139 kr) är sannolikt olika modeller. Ungdomscykel."
+ },
+ {
+  "id": "10472333279498",
+  "nr": 45207,
+  "titel_nu": "Cykel ROMET Vintage Classic 2.0 M, grön",
+  "skäl": "R1/R3: källan säger Vintage Classic 1.0 M, titeln 2.0 M; skillnaden kan inte fastställas utan gissning."
+ },
+ {
+  "id": "10472346190090",
+  "nr": 45208,
+  "titel_nu": "Stöd med bakre fäste för 26-29\" cykel",
+  "skäl": "Tunn källa (R3): bara \"Passar alla 26-29 tums cyklar\"; internt EAN utan webbträff; pris 0,00 kr (ofärdig produkt)."
+ },
+ {
+  "id": "10475362025738",
+  "nr": 45209,
+  "titel_nu": "Stänkskärmar SKS Velo 47 26\"",
+  "skäl": "R3: titeln anger 26 tum men källan säger \"Passar för 28 tum cyklar\"; storleken kan inte styrkas ur egen källa och ingen tillverkarsida lästes."
+ },
+ {
+  "id": "10475367006474",
+  "nr": 45210,
+  "titel_nu": "Skridskor Alpina T 40 2022",
+  "skäl": "R3/R7: titeln Skridskor stämmer inte med källan, som beskriver en pjäxa med NNN-bindning; källan består i övrigt av skydds-, värme- och stödpåståenden (R5)."
+ },
+ {
+  "id": "10480054567178",
+  "nr": 45211,
+  "titel_nu": "Sangpomm CHRISTOPEIT Kettlebell 12kg",
+  "skäl": "Tunn källa (R3): generell kettlebelltext utan vikt eller mått; ingen webbträff på EAN 5704796035677 som gäller exakt modellen."
+ },
+ {
+  "id": "10480054599946",
+  "nr": 45212,
+  "titel_nu": "Sangpomm CHRISTOPEIT Kettlebell 4kg",
+  "skäl": "Olika artiklar (v1.9): varianterna 21-2547 (289 kr) och 21-2548 (489 kr) har olika SKU, streckkod och pris medan titeln anger 4 kg; sannolikt olika vikter."
+ },
+ {
+  "id": "10494685315338",
+  "nr": 45213,
+  "titel_nu": "Skridskoskidor Peltonen Acadia SK 21 STIFF",
+  "skäl": "Tunn källa (R3): tre korta rader utan fakta om modellen; ingen webbträff som kopplar EAN 6417858571158 till Acadia SK 21 Stiff."
+ },
+ {
+  "id": "10494689378570",
+  "nr": 45214,
+  "titel_nu": "Hantel RUCANOR 2,25 kg 30x360 mm",
+  "skäl": "R2/R3: källan beskriver ett hantelgrepp/förkromat handtag (längd 35 cm, trasiga måttrader) och motsäger titeln Hantel 2,25 kg 30x360 mm."
+ },
+ {
+  "id": "10494699110666",
+  "nr": 45215,
+  "titel_nu": "Skyddsplåt UNIPLAST Apple, lila",
+  "skäl": "Tunn källa (R3): tom källa, ingen webbträff på EAN 4743128000045; pulkatillbehör utan fakta."
+ },
+ {
+  "id": "10494699340042",
+  "nr": 45216,
+  "titel_nu": "Stöd för bakväxel GIANT DIRECT MOUNT KSA 24\" - 29\", 18MM",
+  "skäl": "R3: titeln Stöd för bakväxel motsäger källan (stöd för bakhjul, KSA) och källan är maskinöversatt (\"Passar Giant cyklar Giant för Giant\"); tidigare webbkoll visade att artikel 500000012 inte är det titeln anger."
+ },
+ {
+  "id": "10502528008458",
+  "nr": 45217,
+  "titel_nu": "Canopy frame CARGOBIKE Canopy Framework 2-kids för Classic",
+  "skäl": "Lastcykeldel med tom källa (ingen beskrivning, bara titel och SKU); tunn källa (R3), lastcykeldelar avvisas."
+ },
+ {
+  "id": "10502528041226",
+  "nr": 45218,
+  "titel_nu": "Kedja SHIMANO HG54 10-växlad",
+  "skäl": "Kedja Shimano HG54: tom källa (R3) och kedjor är säkerhetskritiska bärande delar som inte omfattas av v1.10 utan webbverifierad uppgift."
+ },
+ {
+  "id": "10515738067210",
+  "nr": 45219,
+  "titel_nu": "Stöd för bakre löpare GIANT DIRECT MOUNT KSA 40MM",
+  "skäl": "R2: källan är maskinöversatt och motsägelsefull (\"stöd för bakre löpare\", \"aluminium klätterutrustning material\", \"stabilt och gediget\"); bara aluminium och KSA40 är entydigt, under två fakta."
+ },
+ {
+  "id": "10515754385674",
+  "nr": 45220,
+  "titel_nu": "Stuntsparkcykel SOKE PRO, lila-röd",
+  "skäl": "R3/v1.9: varianterna 1525 (3 369 kr, lager 1) och 1525-801113 (2 319 kr, lager 0, annan streckkod) anger varken färg eller storlek, och prisskillnaden på 1 050 kr går inte att hänföra till samma artikel; titelns lila-röd styrks inte av källan. Källan har dessutom trasiga rader (Däcklängd/Däckbredd)."
+ }
+]

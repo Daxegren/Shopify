@@ -1,0 +1,146 @@
+[
+ {
+  "id": "10411495817482",
+  "titel": "Rullskridskor FILA Legacy Pro 84, svart-röd",
+  "lager": 3,
+  "forra_skal": ""
+ },
+ {
+  "id": "10411673714954",
+  "titel": "Vibrationsplatta TUNTURI Cardio Fit V20",
+  "lager": 5,
+  "forra_skal": "{'id': '10411673714954', 'nr': 34002, 'skäl': 'Vibrationsplatta: utanför enligt profilen (utanfor_tills_vidare) och R6; källan motsäger dessutom modell (V20 i titeln, V10 i texten).'}"
+ },
+ {
+  "id": "10411849646346",
+  "titel": "Kosttillskott för sömn TREC Melatonin, 90 kapslar",
+  "lager": 4,
+  "forra_skal": ""
+ },
+ {
+  "id": "10411850432778",
+  "titel": "Isskor ANTi SKid Sole Double, 41/46",
+  "lager": 21,
+  "forra_skal": "{'id': '10411850432778', 'nr': 25001, 'skäl': 'Isbroddar/isskor (Winter-Grip ANTi SKid Sole Double): isbroddar är utanför tills vidare (profilen, utanfor_tills_vidare; beslutsloggen 2026-11-03 \"isbrod"
+ },
+ {
+  "id": "10411932647690",
+  "titel": "Våg TUNTURI SC30 Smart Scale med app, vit",
+  "lager": 6,
+  "forra_skal": ""
+ },
+ {
+  "id": "10460947054858",
+  "titel": "GIANT Roam 2 Bicycle, Asphalt Green",
+  "lager": 2,
+  "forra_skal": "{'id': '10460947054858', 'nr': 6041, 'skäl': 'Överhoppad: status DRAFT i live-hämtningen (inte ACTIVE).'}"
+ },
+ {
+  "id": "10461967188234",
+  "titel": "Framkorg BASIL Bremen Rattan Look FM, mörkbrun",
+  "lager": 18,
+  "forra_skal": "{'id': '10461967188234', 'nr': 39009, 'skäl': 'Titel och källa motsäger varandra: titeln säger mörkbrun, källan säger \"havsgrön färg\". Källan säger dessutom \"Cykelkorg medföljer ej!\" och är otydlig om"
+ },
+ {
+  "id": "10462155473162",
+  "titel": "Cassette SHIMANO CS-M8000 11-42 11k",
+  "lager": 9,
+  "forra_skal": "{'id': '10462155473162', 'nr': 39010, 'skäl': 'Kassett (Shimano CS-M8000, drivlina; kedjor/kassetter ingår i bärande/säkerhetskritiska delar): avvisas enligt uppdraget.'}"
+ },
+ {
+  "id": "10462176936202",
+  "titel": "4in1 (rullskridskor) NILS EXTREME NH18192, rosa-mint, L",
+  "lager": 1,
+  "forra_skal": ""
+ },
+ {
+  "id": "10462778392842",
+  "titel": "TUNTURI SC30 Smartvåg med app, svart",
+  "lager": 6,
+  "forra_skal": "{'id': '10462778392842', 'nr': 9656, 'skäl': \"R6: kroppsanalysvåg (mäter fettprocent, muskelmassa, visceralt fett, kroppsålder, BMR m.m.); 'kroppsanalysvågar (hälsoparametrar)' står under utanfor_till"
+ },
+ {
+  "id": "10462780424458",
+  "titel": "Scooter stickers Union Sticker",
+  "lager": 3,
+  "forra_skal": "{'id': '10462780424458', 'nr': 34005, 'skäl': 'Webbkoll (artikel 104912, Union scooter sticker) gav ingen träff på modellen. Bara märke och vikt 0,01 kg i källan: under två entydiga fakta.'}"
+ },
+ {
+  "id": "10462785896714",
+  "titel": "Kork Start NATURAL",
+  "lager": 5,
+  "forra_skal": "{'id': '10462785896714', 'nr': 34006, 'skäl': 'Webbkoll på EAN 6418016050287 och artikelnummer 15MU502800 gav ingen träff. Egen källa är maskinöversatt och tunn; produkttyp kan inte fastställas.'}"
+ },
+ {
+  "id": "10462850449674",
+  "titel": "Akupunkturmatta och kudde TUNTURI PRO Akupressurmatta och kudde, beige",
+  "lager": 2,
+  "forra_skal": ""
+ },
+ {
+  "id": "10468713529610",
+  "titel": "Cargobike assembly",
+  "lager": 0,
+  "forra_skal": "{'id': '10468713529610', 'nr': 25003, 'skäl': 'Monteringstjänst för lastcykel (Cargobike assembly): tjänst, inte en produkt med produkttext. Skälet gäller fortfarande.'}"
+ },
+ {
+  "id": "10468713595146",
+  "titel": "Large exercise machine assembly",
+  "lager": 0,
+  "forra_skal": "{'id': '10468713595146', 'nr': 25004, 'skäl': 'Monteringstjänst för stor träningsmaskin (Large exercise machine assembly): tjänst, inte en produkt med produkttext. Skälet gäller fortfarande.'}"
+ },
+ {
+  "id": "10468719493386",
+  "titel": "TUNTURI Akupressurmadrass och kudde, ljusblå",
+  "lager": 3,
+  "forra_skal": ""
+ },
+ {
+  "id": "10468734009610",
+  "titel": "Fixie bike 6KU Shelby 2",
+  "lager": 0,
+  "forra_skal": ""
+ },
+ {
+  "id": "10468744397066",
+  "titel": "Elcykel KONA Remote X (2025) 29\" Gloss Viridian (Blå)",
+  "lager": 0,
+  "forra_skal": "{'id': '10468744397066', 'nr': 39157, 'skäl': 'Varianter med olika pris (v1.9): L/blue 111449 kr och XL/blue 111239 kr (Default Title delar SKU B36REX06 med XL), och produkten har lager 0; text skrivs"
+ },
+ {
+  "id": "10468771004682",
+  "titel": "Hantel HAMMER Compact Dumbbell PU 5 kg",
+  "lager": 0,
+  "forra_skal": "{'id': '10468771004682', 'nr': 10278, 'skäl': 'R3: fem riktiga varianter (SKU 17421, 17423, 17425, 17427, 17429) med priser 469–2 969 kr och oförklarade namn; titeln anger 5 kg.'}"
+ },
+ {
+  "id": "10468772708618",
+  "titel": "Gravel bike GIANT Revolt X Advanced Pro 2, Black/Sea Sparkle",
+  "lager": 0,
+  "forra_skal": "{'id': '10468772708618', 'nr': 7009, 'skäl': \"R3: titeln anger Pro 2 men källtexten anger 'Giant Revolt X Advanced Pro 1' (motsägelse om modell), källan är dessutom engelsk. Varianterna Default Title "
+ },
+ {
+  "id": "10468773232906",
+  "titel": "Gravelcykel Liv Devote 1 (2026) för Dam, Dune Beige",
+  "lager": 3,
+  "forra_skal": "{'id': '10468773232906', 'nr': 39158, 'skäl': 'Redan skriven (R15): produkten har vår standardtext och SEO sedan tidigare omgång (se b_33_avvisade, skrivfilen skriv_batch1_a…). Taggen texter-klara sak"
+ },
+ {
+  "id": "10469226512650",
+  "titel": "Bicycle rack Peruzzo Parma, for 4 bikes",
+  "lager": 0,
+  "forra_skal": "{'id': '10469226512650', 'nr': 24068, 'skäl': 'Bärande utan svensk lastgräns: cykelhållare för dragkrok som bär cyklar; källan är på engelska och maskinöversatt med upprepade trasiga rader, lastgränse"
+ },
+ {
+  "id": "10470896173322",
+  "titel": "Rullskridskor FILA Mizar 80 Lady, svart-blå",
+  "lager": 2,
+  "forra_skal": ""
+ },
+ {
+  "id": "10470925238538",
+  "titel": "TUNTURI PE Kettlebell 12kg",
+  "lager": 2,
+  "forra_skal": "{'id': '10470925238538', 'nr': 39029, 'skäl': 'Titeln och källan motsäger varandra: titeln säger PE-kettlebell 12 kg men källan säger PVC (material och namn), \"16 kg PVC-kettle\" i löptexten och 12 kg "
+ }
+]

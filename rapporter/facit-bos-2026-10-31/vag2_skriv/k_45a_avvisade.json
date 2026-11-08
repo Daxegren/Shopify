@@ -1,0 +1,117 @@
+[
+ {
+  "id": "10411476779274",
+  "nr": 45003,
+  "skäl": "Titel och källa motsäger varandra (R3/R7): titeln säger Snöskor, källan beskriver en sparkstötting/pulka-liknande produkt med styre 83-93 cm och lastkapacitet 50 kg, ålder 7+ (taggar Pulkor/Sparkcykel); första raden är trasig (\"Snowboardets sluttande stege\"). Egen källa använder inget entydigt nytt typord."
+ },
+ {
+  "id": "10411853414666",
+  "nr": 45004,
+  "skäl": "Olika artiklar (v1.9): två varianter 14TUSCL093 (49 kr) och 14TUSCL094 (119 kr), källan nämner 0,5 och 1,5 kg i en trasig rad; titeln låser 0,5 kg."
+ },
+ {
+  "id": "10411923276042",
+  "nr": 45005,
+  "skäl": "Olika artiklar (v1.9): tre vikter AKCA-10, AKCA-12, AKCA-14 med pris 779, 1609 och 1789 kr; titeln låser 12 kg."
+ },
+ {
+  "id": "10430254809354",
+  "nr": 45006,
+  "skäl": "Källan motsäger titeln (R3): SKU KCAE-14 är enligt tidigare webbkoll Olympic EVO 14 kg i ljusgult, titeln säger blå 12 kg; egen källa anger varken vikt eller färg."
+ },
+ {
+  "id": "10462201839882",
+  "nr": 45007,
+  "skäl": "Olika artiklar (v1.9): två varianter 14TUSCF058 (1549 kr) och 14TUSCF059 (1829 kr) utan förklaring; källan anger bara 15 kg och oklart \"kedja som väger 15 kg\"; troligen olika vikt."
+ },
+ {
+  "id": "10462784880906",
+  "nr": 45008,
+  "skäl": "Kan inte styrkas som samma artikel (v1.9): varianterna 14TUSFU344 (199 kr) och 14TUSFU345 \"blue (U345)\" (219 kr) är inte förklarade; webbsökning gav inga träffar på koderna och källan listar fyra storlekar (55-90 cm), så 344/345 kan vara olika diametrar; titeln låser 65 cm."
+ },
+ {
+  "id": "10462794776842",
+  "nr": 45009,
+  "skäl": "Olika artiklar (v1.9): Red/blue/green med pris 339/449/249 kr; färgen följer troligen vikten och källan anger ingen vikt; titeln låser 3,0 kg."
+ },
+ {
+  "id": "10462852284682",
+  "nr": 45010,
+  "skäl": "Olika artiklar (v1.9): fem varianter (25TUPLA002, 003, 007, 008, 009) med pris 659-2159 kr och oförklarade namn; källan säger att setet har en skiva på 5 kg medan titeln låser svart och 5 kg."
+ },
+ {
+  "id": "10470888276234",
+  "nr": 45011,
+  "skäl": "Olika artiklar/motsägande källa (v1.9, R2): varianterna 14TUSCL218 (299 kr) och 14TUSCL219 (319 kr) är inte förklarade, och källan säger både 150 cm och 130 cm stånglängd; lastuppgiften \"Maxvikt 100 kg\" står dubbelt utan tydlig etikett för lasten."
+ },
+ {
+  "id": "10472211448074",
+  "nr": 45012,
+  "skäl": "Olika artiklar (v1.9): 14TUSCL145 (269 kr) och 14TUSCL147 (769 kr), cirka 2,9 gångers prisskillnad, troligen olika vikt; titeln låser 5 kg."
+ },
+ {
+  "id": "10472221802762",
+  "nr": 45013,
+  "skäl": "Motstridiga uppgifter och prisfel: andra varianten 24TCFT3000 (\"must\") har pris 0,00 kr och annan EAN; webben anger olika motor (1,5 respektive 2 hk), hastighet (12 respektive 14 km/h) och program (12/17) för samma modell, så egen källas specifikation kan inte styrkas (R2). Dessutom elektronik (LCD, träningsprogram) och taggen Gymstick. Varianten med pris 0 kr bör ses över i butiken."
+ },
+ {
+  "id": "10472236876042",
+  "nr": 45014,
+  "skäl": "Kan inte skrivas med unik titel: samma modell och färg som 6133 (10462795366666) men annan SKU/EAN, och källan anger ramstorlek M eller L utan att säga vilken som gäller denna SKU. Ramstorlek får inte härledas ur slutsiffran för Romet (bara Giant/Liv, Kona, Fancy)."
+ },
+ {
+  "id": "10472238678282",
+  "nr": 45015,
+  "skäl": "Tunn källa (R3): live-beskrivningen är tom, titeln ger bara typ, huva och färg; tidigare webbsökning på märke, modell och EAN 8711252647869 gav ingen träff."
+ },
+ {
+  "id": "10472239366410",
+  "nr": 45016,
+  "skäl": "Tunn källa (R3): bara kapacitet 350 ml (står även i titeln) och en passformsuppgift (cyklar med mindre ramar, ~10-12 tum, ZERO 20/24); färre än två entydiga fakta utöver titeln."
+ },
+ {
+  "id": "10472243659018",
+  "nr": 45017,
+  "skäl": "Titel och källa motsäger varandra (R3): titeln säger universellt snabbsmörjmedel, egen källa är en maskinöversatt, delvis obegriplig text om flytande greppmedel med svamp (4-5 lager, +5 till +15 °C). Typord kan inte styrkas."
+ },
+ {
+  "id": "10472244412682",
+  "nr": 45018,
+  "skäl": "Titel och källa motsäger varandra (R3): titeln säger Underhållsfett, egen källa är en trasig, maskinöversatt text om flytande greppmedel med svamp (-5 till -15 °C)."
+ },
+ {
+  "id": "10472257716490",
+  "nr": 45019,
+  "skäl": "Kan inte styrkas som samma artikel (v1.9): varianterna 26170070-A (6869 kr, Default Title) och 26190069-A \"L / blue\" (5979 kr) skiljer 890 kr utan förklaring; webbsökning gav inga träffar på SKU:erna, och källan listar tre ramstorlekar och anger \"155 x 155 cm\" (trasig rad). Titeln låser 26\" blå."
+ },
+ {
+  "id": "10472263844106",
+  "nr": 45020,
+  "skäl": "Olika artiklar (v1.9): 14TUSCL290 (69 kr) och 14TUSCL291 (149 kr), troligen olika vikt; titeln låser 0,50 kg och orange."
+ },
+ {
+  "id": "10472269676810",
+  "nr": 45021,
+  "skäl": "Kan inte styrkas som samma artikel (v1.9): varianterna 13978 (409 kr) och 13398 (369 kr) har olika EAN; webben kopplar 13398 till citron-grapefrukt men 13978 hittades inte, och linjen finns även som apelsin, persika och ananas. Dessutom kosttillskott med tagg På beställning."
+ },
+ {
+  "id": "10472271511818",
+  "nr": 45022,
+  "skäl": "Källan motsäger titeln (R3): live-texten säger Large 105 cm medan titeln säger Medium 105 cm; webben visar samma motsägelse (Medium/Large, 105 cm kan vara lägsta justeringen 105-120 cm). Dessutom hälsoladdad text (stöd för rygg, förebygger skador) som inte får användas."
+ },
+ {
+  "id": "10472281833738",
+  "nr": 45023,
+  "skäl": "Titel och källa motsäger varandra (R3/R7): titeln säger Snöskor, källan beskriver en \"hopfällbar snöplog\" (trasig översättning) med styre 77-87 cm och lastkapacitet 50 kg, ålder 5+ (taggar Pulkor/Sparkcykel); inget entydigt typord i källan."
+ },
+ {
+  "id": "10472285569290",
+  "nr": 45024,
+  "skäl": "Tunn källa (R3): live-beskrivningen är tom, titeln är enda källa; tidigare webbsökning gav ingen sida för exakt modell."
+ },
+ {
+  "id": "10472289075466",
+  "nr": 45025,
+  "skäl": "Olika artiklar (v1.9): fem varianter med olika artikelnummer, streckkod och pris (59-439 kr), troligen olika vikt; källan har bara borrdiameter och en trasig rad; titeln låser 10 kg."
+ }
+]

@@ -1,0 +1,146 @@
+[
+ {
+  "id": "10411860394250",
+  "titel": "Styrkälke STIGA Snowpower, rosa",
+  "lager": 6,
+  "forra_skal": ""
+ },
+ {
+  "id": "10411907940618",
+  "titel": "Nyckellås AXA Fold Lite C100, med kod",
+  "lager": 22,
+  "forra_skal": "{'id': '10411907940618', 'nr': 39007, 'skäl': 'Lås (AXA Fold Lite C100, vikbart kodlås): avvisas enligt uppdraget.'}"
+ },
+ {
+  "id": "10460948234506",
+  "titel": "Helmet MELON Frozen Lake",
+  "lager": 7,
+  "forra_skal": "{'id': '10460948234506', 'nr': 39008, 'skäl': 'Hjälm (Melon Frozen Lake): avvisas enligt uppdraget.'}"
+ },
+ {
+  "id": "10462148722954",
+  "titel": "Barnhjälm LAZER Lil' Gekko, Pony",
+  "lager": 4,
+  "forra_skal": ""
+ },
+ {
+  "id": "10462155407626",
+  "titel": "Bromsskiva SHIMANO SM-RT64 180 CL",
+  "lager": 25,
+  "forra_skal": "{'id': '10462155407626', 'nr': 6185, 'skäl': 'Säkerhetsprodukt: Bromsskiva, bromsdel. Bromsar och bromsdelar skrivs inte (specialregler för cyklar och cykeldelar).'}"
+ },
+ {
+  "id": "10462175101194",
+  "titel": "Baklykta för skärm AXA Go Steady",
+  "lager": 7,
+  "forra_skal": "{'id': '10462175101194', 'nr': 39011, 'skäl': 'Belysning (baklykta AXA Go Steady, med elcykelbatteri-kompatibilitet): avvisas enligt uppdraget.'}"
+ },
+ {
+  "id": "10462188503306",
+  "titel": "Chain guard AXA GSR Junior",
+  "lager": 24,
+  "forra_skal": "{'id': '10462188503306', 'nr': 28010, 'avvisningsskal': 'Kedjeskydd (skydd): produkt med skyddsfunktion ligger kvar utanför efter Davids beslut 2026-11-05, och källan är byggd på skyddspåståendet (\"sk"
+ },
+ {
+  "id": "10462191878410",
+  "titel": "Hjälm BOBBIN Disco, silver",
+  "lager": 3,
+  "forra_skal": ""
+ },
+ {
+  "id": "10462192009482",
+  "titel": "Hjälm BOBBIN Starling, Head",
+  "lager": 9,
+  "forra_skal": "{'id': '10462192009482', 'nr': 9301, 'skäl': 'R6/R3: Bobbin Starling i storlek S/M 48–54 cm. Webben (Bobbin, Galaxus, Velomarket) beskriver S/M som barn och små vuxna, och återförsäljare säljer modell"
+ },
+ {
+  "id": "10462752997642",
+  "titel": "Bakljus för Hjälm Lazer LED USB, Passar Gekko, Lil' Gekko och Lizard",
+  "lager": 39,
+  "forra_skal": ""
+ },
+ {
+  "id": "10462767284490",
+  "titel": "Utomhusdäck CONTINENTAL Tire Ride Tour 42-622/ 28x1.60",
+  "lager": 13,
+  "forra_skal": "{'id': '10462767284490', 'nr': 32002, 'skäl': 'Tom live-källa (bara titeln Continental Ride Tour 42-622/28x1.60) och cykeldäck är säkerhetskritisk del med säkerhetsfunktion; ingen lastgräns eller andr"
+ },
+ {
+  "id": "10462774690058",
+  "titel": "Trampoline TUNTURI Funhop Trampoline 125cm",
+  "lager": 6,
+  "forra_skal": "{'id': '10462774690058', 'nr': 39019, 'skäl': 'Trampolin (Tunturi Funhop 125 cm): avvisas enligt uppdraget. Dessutom två varianter med olika artikelnummer och pris (2119 kr och 789 kr) och hälsopåståe"
+ },
+ {
+  "id": "10462813159690",
+  "titel": "Barncykel TABOU Rocket FR, 20\" blå-turkos",
+  "lager": 3,
+  "forra_skal": "{'id': '10462813159690', 'nr': 39020, 'skäl': 'Barncykel Tabou Rocket FR: två varianter som är olika artiklar (SKU TAB25-6720 för 6189 kr och TAB26-1370 20/sinine för 3569 kr), titeln låser 20 tum och"
+ },
+ {
+  "id": "10462846943498",
+  "titel": "Adjustable dumbbell stand HAMMER Stronglock",
+  "lager": 1,
+  "forra_skal": "{'id': '10462846943498', 'nr': 32004, 'skäl': 'Tom live-källa (bara titeln Adjustable dumbbell stand HAMMER Stronglock). Webbsök på EAN 4005251173554 gav ingen entydig träff på exakt denna modell (bar"
+ },
+ {
+  "id": "10468710678794",
+  "titel": "Frontkorg för ADO A28, svart",
+  "lager": 0,
+  "forra_skal": "{'id': '10468710678794', 'nr': 23010, 'titel_nu': 'Frontkorg för ADO A28, svart', 'skäl': 'R3: live-källan beskriver en hjälm (\"ADO Air 28 framhjälm\"), inte korgen. Webbkoll (https://adoebike.com/prod"
+ },
+ {
+  "id": "10468736925962",
+  "titel": "Helmet MELON Venice",
+  "lager": 5,
+  "forra_skal": "{'id': '10468736925962', 'nr': 39024, 'skäl': 'Hjälm (Melon Venice): avvisas enligt uppdraget.'}"
+ },
+ {
+  "id": "10468771463434",
+  "titel": "Hantel HAMMER Compact Dumbbell PU 35 kg",
+  "lager": 0,
+  "forra_skal": "{'id': '10468771463434', 'nr': 10276, 'skäl': 'R3 (v1.7): tre varianter med olika SKU och pris (Default Title SKU 17433 3 989 kr, 17431 3 419 kr, 17435 4 309 kr). Det är riktiga varianter, inte en öve"
+ },
+ {
+  "id": "10470888243466",
+  "titel": "Leverlås TUNTURI ABS Collar, 30mm",
+  "lager": 2,
+  "forra_skal": "{'id': '10470888243466', 'nr': 39025, 'skäl': 'Lås (viktlås/skivstångslås) enligt uppdragets avvisningslista; hindrar att viktskivor glider av stången. Live-titeln \"Leverlås\" stämmer inte med källans "
+ },
+ {
+  "id": "10470898237706",
+  "titel": "Bromsskiva SHIMANO SMRT-66S 160 mm SLX DEORE DISC BRAKE ROTOR",
+  "lager": 24,
+  "forra_skal": "{'id': '10470898237706', 'nr': 6187, 'skäl': 'Säkerhetsprodukt: Bromsskiva, bromsdel. Bromsar och bromsdelar skrivs inte (specialregler för cyklar och cykeldelar).'}"
+ },
+ {
+  "id": "10470900597002",
+  "titel": "Bromsskiva SHIMANO SM-RT66 180 mm, 6 bultar",
+  "lager": 24,
+  "forra_skal": "{'id': '10470900597002', 'nr': 6186, 'skäl': 'Säkerhetsprodukt: Bromsskiva, bromsdel. Bromsar och bromsdelar skrivs inte (specialregler för cyklar och cykeldelar).'}"
+ },
+ {
+  "id": "10470922682634",
+  "titel": "Barnhjälm Melon Real Melon, XXS/S, 46–52 cm",
+  "lager": 7,
+  "forra_skal": ""
+ },
+ {
+  "id": "10470922944778",
+  "titel": "Barnhjälm MELON Little Pirate",
+  "lager": 11,
+  "forra_skal": "{'id': '10470922944778', 'nr': 39026, 'skäl': 'Barnhjälm: hjälmar (även barnhjälmar) avvisas.'}"
+ },
+ {
+  "id": "10470925074698",
+  "titel": "Lever springlås TUNTURI Spring Collar, 30mm",
+  "lager": 6,
+  "forra_skal": "{'id': '10470925074698', 'nr': 39028, 'skäl': 'Lås (fjäderklämmor för viktskivor) enligt avvisningslistan; källan lovar \"starkt grepp\" och säkerhet. Live-titeln \"Lever springlås\" och taggen Cykellås s"
+ },
+ {
+  "id": "10470968918282",
+  "titel": "Handledd- och ankelvikter TOORX Handleds-/Ankelvikter 2 x 2,0 kg",
+  "lager": 8,
+  "forra_skal": "{'id': '10470968918282', 'nr': 10571, 'skäl': 'R3 (v1.7): två varianter med olika SKU och pris (AHF-094 229 kr, AHF-093 289 kr) som källan inte skiljer åt; titelns 2 x 2,0 kg kan inte låsas. Kvarstår "
+ }
+]

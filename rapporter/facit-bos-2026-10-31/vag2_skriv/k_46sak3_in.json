@@ -1,0 +1,146 @@
+[
+ {
+  "id": "10472243331338",
+  "titel": "Brake SHIMANO BR-T4000 rear silver",
+  "lager": 41,
+  "forra_skal": "{'id': '10472243331338', 'nr': 25013, 'skäl': 'Bromsdel (Shimano BR-T4000 broms): bromsdelar avvisas enligt specialregeln. Skälet gäller fortfarande.'}"
+ },
+ {
+  "id": "10472243593482",
+  "titel": "Framnav Shimano 100/36 Svart HB-TX506",
+  "lager": 16,
+  "forra_skal": "{'id': '10472243593482', 'nr': 32024, 'skäl': \"Framnav HB-TX506 är hjulets bärande del och har enligt webben 6-bultsfäste för skivbroms (bromsrelaterad del); tom beskrivning, tunn källa. Avvisas hellr"
+ },
+ {
+  "id": "10472244019466",
+  "titel": "Brake SHIMANO BR-R353 first black",
+  "lager": 18,
+  "forra_skal": "{'id': '10472244019466', 'nr': 25015, 'skäl': 'Bromsdel (broms). Bromsar och bromsdelar skrivs inte (specialregel för cyklar och cykeldelar, bromsdelar fortfarande avvisade). Bekräftat live: Shimano B"
+ },
+ {
+  "id": "10472244052234",
+  "titel": "Broms SHIMANO BR-R451 MNT bak svart",
+  "lager": 8,
+  "forra_skal": "{'id': '10472244052234', 'nr': 39061, 'skäl': 'Bromsdel (Shimano BR-R451 bromsok): avvisas enligt uppdraget.'}"
+ },
+ {
+  "id": "10472244150538",
+  "titel": "Chain SHIMANO HG53 9 gears",
+  "lager": 6,
+  "forra_skal": "{'id': '10472244150538', 'nr': 32025, 'skäl': 'Kedja Shimano HG53: kedjor bär last och är säkerhetskritiska; någon lastgräns för kedjor finns inte i produktens källa och är inte tillämplig i v1.10. De"
+ },
+ {
+  "id": "10472244642058",
+  "titel": "Brake SHIMANO BR-R353 rear black",
+  "lager": 6,
+  "forra_skal": "{'id': '10472244642058', 'nr': 25016, 'skäl': 'Bromsdel (broms). Bromsar och bromsdelar skrivs inte (specialregel för cyklar och cykeldelar, bromsdelar fortfarande avvisade). Bekräftat live: Shimano B"
+ },
+ {
+  "id": "10472244871434",
+  "titel": "Brake SHIMANO BR-R451 MNT black",
+  "lager": 2,
+  "forra_skal": "{'id': '10472244871434', 'nr': 39063, 'skäl': 'Bromsdel (Shimano BR-R451 bromsok, engelsk titel): avvisas enligt uppdraget.'}"
+ },
+ {
+  "id": "10472245461258",
+  "titel": "Ytterdäck CONTINENTAL RIDE TOUR 32-630 27x1 1/4",
+  "lager": 2,
+  "forra_skal": "{'id': '10472245461258', 'nr': 6157, 'skäl': 'Cykeldäck (Continental Ride Tour 32-630): säkerhetskritiskt däck med påståenden om grepp och punkteringsskydd.'}"
+ },
+ {
+  "id": "10472250474762",
+  "titel": "Cykellåskedja M-Wave C 10.9-360, 10 mm, 900 mm",
+  "lager": 21,
+  "forra_skal": "{'id': '10472250474762', 'nr': 35009, 'skäl': 'Lås (säkerhetsprodukt): avvisas. Dessutom redan skriven live (titel, SEO, meta, beskrivning med standardblock) och inget syskon med SKU 230950; skrivs in"
+ },
+ {
+  "id": "10472251654410",
+  "titel": "Barnhjälm GIANT Musa, Gloss Bubble White",
+  "lager": 3,
+  "forra_skal": ""
+ },
+ {
+  "id": "10472252244234",
+  "titel": "Barnhjälm LIMAR Kid Pro S, Ghost Blue",
+  "lager": 3,
+  "forra_skal": ""
+ },
+ {
+  "id": "10472256110858",
+  "titel": "Cykelklocka Wish, lila",
+  "lager": 7,
+  "forra_skal": "{'id': '10472256110858', 'nr': 28064, 'skäl': 'Tunn källa (R3): bara material metall och Wish-tema är entydigt; \"Linsdiameter: 22 mm\" är oklar (R2) och \"säkerställer cyklistens säkerhet\" är ett säkerh"
+ },
+ {
+  "id": "10472258011402",
+  "titel": "Hybridcykel ROMET Wagant 1, grå-blå",
+  "lager": 1,
+  "forra_skal": "{'id': '10472258011402', 'nr': 10116, 'skäl': 'R3 (v1.7): varianterna Default Title (8 549 kr) och XL / hall (7 439 kr) har samma SKU 28230568-A men olika pris, och den riktiga varianten har färgen \"h"
+ },
+ {
+  "id": "10472261976330",
+  "titel": "Helmet MELON New York",
+  "lager": 9,
+  "forra_skal": "{'id': '10472261976330', 'nr': 39071, 'skäl': 'Hjälm (Melon New York, även med storlek för barn): avvisas enligt uppdraget. Varianterna har dessutom samma SKU med olika pris.'}"
+ },
+ {
+  "id": "10472262566154",
+  "titel": "Barnhjälm MELON Big Bronto",
+  "lager": 8,
+  "forra_skal": ""
+ },
+ {
+  "id": "10472262959370",
+  "titel": "Battery set for Fiido Titan",
+  "lager": 0,
+  "forra_skal": "{'id': '10472262959370', 'nr': 23027, 'skäl': 'Tunn källa: live-källan säger bara att satsen är ett batteripaket till Fiido Titan och innehåller batterihållare, 2 batterier och påsar. Webbsökning på S"
+ },
+ {
+  "id": "10472278163722",
+  "titel": "Hantlar CHRISTOPEIT 2 x 3 kg, svart",
+  "lager": 5,
+  "forra_skal": "{'id': '10472278163722', 'nr': 10123, 'skäl': 'R3: två varianter med olika SKU och olika pris (30-1872 439 kr, 30-1873 589 kr); titeln låser 2 x 3 kg och källan skiljer inte varianterna åt. v1.7 gälle"
+ },
+ {
+  "id": "10472284979466",
+  "titel": "Pedalblock för racercykel LOOK KEO GRIP, 0 grader",
+  "lager": 4,
+  "forra_skal": "{'id': '10472284979466', 'nr': 32034, 'skäl': 'Pedalblock Look Keo Grip: egen källa är helt tom (R3), och produkten är en kloss som styr fotens fäste/utlösning i pedalen (säkerhetskritisk koppling). N"
+ },
+ {
+  "id": "10472287371530",
+  "titel": "Hand- och fotvikter TOORX Hand-/fotvikter 2 x 0,5 kg",
+  "lager": 9,
+  "forra_skal": "{'id': '10472287371530', 'nr': 10570, 'skäl': 'R3: två varianter med olika SKU och pris (AHF-071 99 kr, AHF-072 139 kr) som källan inte skiljer åt; titeln 2 x 0,5 kg kan inte låsas.'}"
+ },
+ {
+  "id": "10472292188426",
+  "titel": "Barnhjälm CAIRN EON J, Matte Night Breeze",
+  "lager": 2,
+  "forra_skal": ""
+ },
+ {
+  "id": "10472295923978",
+  "titel": "Köp AXA Fold Lite 80",
+  "lager": 99,
+  "forra_skal": "{'id': '10472295923978', 'nr': 35013, 'skäl': 'Avvisas: lås (säkerhetsprodukt). Dessutom samma modell och längd (Fold Lite 80, 80 cm) som redan skrivna 10472233107722; ingen färg-, storleks- eller vik"
+ },
+ {
+  "id": "10472297791754",
+  "titel": "LAZER HMT Nutz 2.0 KC Pannlampa, Gröna prickar",
+  "lager": 1,
+  "forra_skal": "{'id': '10472297791754', 'nr': 23029, 'skäl': 'Avvisas: produkten är en barnhjälm, inte en pannlampa. Webben (EAN 5400974036664, Lazer NutZ 2.0 KinetiCore) beskriver en barnhjälm i unisize 50-56 cm; t"
+ },
+ {
+  "id": "10472299299082",
+  "titel": "Hantelvikter TOORX Safe Lock, 50mm",
+  "lager": 3,
+  "forra_skal": "{'id': '10472299299082', 'nr': 23030, 'skäl': 'Ingen beskrivning, bara titeln och taggarna Cykellås/viktlås. Webbsökning på Toorx CFSL Safe Lock 50 mm gav ingen träff på modellen, så inga entydiga fak"
+ },
+ {
+  "id": "10472300052746",
+  "titel": "Sangpomm TOORX Vinyl Kettlebell, 10 kg",
+  "lager": 5,
+  "forra_skal": "{'id': '10472300052746', 'nr': 10329, 'skäl': 'R3: tre varianter med olika SKU och pris (KRV-10 649 kr, KRV-16 och KRV-14 789 kr); titeln låser 10 kg men varianterna går inte att koppla till vikt. Int"
+ }
+]
