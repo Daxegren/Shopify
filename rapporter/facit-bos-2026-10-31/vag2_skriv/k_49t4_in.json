@@ -1,0 +1,80 @@
+[
+{
+"id": "10502528008458",
+"titel": "Canopy frame CARGOBIKE Canopy Framework 2-kids för Classic",
+"lager": 1,
+"forra_skal": "Lastcykeldel med tom källa (ingen beskrivning, bara titel och SKU); tunn källa (R3), lastcykeldelar avvisas."
+},
+{
+"id": "10523491434762",
+"titel": "Träningshjul GIANT Steel Träningshjul, 16\"-",
+"lager": 14,
+"forra_skal": "Tom källa: ingen beskrivning, bara titel och SKU 910522. Bärande del (träningshjul/stödhjul) utan uppgifter; inga fakta att skriva."
+},
+{
+"id": "10523491467530",
+"titel": "Cykelklocka GIANT DING-A-LING Flick, Svart",
+"lager": 19,
+"forra_skal": "Tom live-beskrivning och ingen källa hittades på nätet för Giant Ding-A-Ling Flick (SKU 510000013); bara titeln finns, för tunn källa (R3)."
+},
+{
+"id": "10530130854154",
+"titel": "Framkorg Minnie, mörkrosa",
+"lager": 15,
+"forra_skal": "Tom källa (ingen beskrivning, bara titel): inga fakta att skriva från (R1/R3). Ingen ändring mot tidigare."
+},
+{
+"id": "10541369098506",
+"titel": "Flaskhållare GIANT Airway Sport Sidepull (L), Svart/Blå",
+"lager": 29,
+"forra_skal": "Tunn källa: bara flaskstorlek 500-750 ml och märke. Webbkoll hittade familjen Airway Sport Sidepull men inte artikelnumren 490000099/490000095 eller vad (L) betyder; kan inte knytas entydigt (R1, v1.6)."
+},
+{
+"id": "10554352894218",
+"titel": "Regnskydd för HAMAX barncykelstol",
+"lager": 1,
+"forra_skal": "Tom källa: ingen beskrivning, bara titel och SKU BABS162. Regnskydd för barncykelstol (barntransport) utan uppgifter att skriva."
+},
+{
+"id": "10565595726090",
+"titel": "Fotstöd FIIDO T2 Bakre Pinnar",
+"lager": 0,
+"forra_skal": "Tunn källa: en enda rad (\"Fotstöd för Fiido T2-modellen\"), inga två entydiga fakta utöver titeln (R3); fotstöd är en bärande del och lastgräns saknas, så texten skulle bara bestå av \"Ej känd\". Ingen tillverkarsida med artikelnumret T2-REARPEGS hittad. Lager 0."
+},
+{
+"id": "10581104230666",
+"titel": "Justerbart handtag, lätt",
+"lager": 2245,
+"forra_skal": "Varianterna L och S har samma pris men webbkoll tyder på olika motståndsklasser (lätt respektive stark, olika kg-intervall) = olika artiklar; ej entydigt för exakt SKU 61055. Egen källa tunn och vag."
+},
+{
+"id": "10581104754954",
+"titel": "Back Support 2.0 Large/Extra Large",
+"lager": 181,
+"forra_skal": "Tunn källa: beskrivningen består av löften (kompression, minskad skaderisk, hållning) och ger inga fakta utöver två storlekar; ingen tillverkarsida kunde läsas (R3, R5)."
+},
+{
+"id": "10581104918794",
+"titel": "Barbell Pad Pro",
+"lager": 127,
+"forra_skal": "Nackskydd: bara skydds-, säkerhets- och stötdämpningspåståenden utan mått eller material. Tunn källa (R3, R5)."
+},
+{
+"id": "10581105901834",
+"titel": "Armbågsstöd 1.0, En storlek",
+"lager": 230,
+"forra_skal": "Stöd med kompressions-/skyddspåståenden och ingen hård uppgift; ingen tillverkarsida hittad för SKU 63066. Tunn källa (R3, R5)."
+},
+{
+"id": "10581107933450",
+"titel": "Horisontell stång med remskiva för 5-stationer",
+"lager": 17,
+"forra_skal": "Horisontell stång med remskiva för 5-stationer (PRO-550M): tillbehör till en 5-stationsmaskin där passformen och lastgränsen hör till maskinen; källan är tunn (marknadsföring) och ingen entydig lastgräns eller kompatibilitet går att belägga för exakt modell (PRO-550M-HPB)."
+},
+{
+"id": "10612569112842",
+"titel": "Stänkskydd ZEFAL KID MTB set 16\"-",
+"lager": 1,
+"forra_skal": "Tom källa (ingen beskrivning, bara titel, SKU och EAN) och titeln är avkortad (\"16\\\"-\"); tillverkarsidan Zefal ger 16/18/20 tum medan återförsäljare anger 16 och 20, EAN går inte att knyta entydigt till modellen."
+}
+]

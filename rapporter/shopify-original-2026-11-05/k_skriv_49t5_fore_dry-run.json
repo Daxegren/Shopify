@@ -1,0 +1,40 @@
+[
+ {
+  "id": "gid://shopify/Product/10612578976010",
+  "title": "Gloves Mickey, green",
+  "handle": "gloves-mickey-green-59090",
+  "status": "ACTIVE",
+  "tags": [
+   "SevenPolska",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "updatedAt": "2026-09-28T04:53:49Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Cykelhandskarna är gjorda av slitstarkt material och har damasker.<br><br>\n</div>"
+ },
+ {
+  "id": "gid://shopify/Product/10636716376330",
+  "title": "Adduktor Tränare",
+  "handle": "adduktor-tranare",
+  "status": "ACTIVE",
+  "tags": [
+   "adduktor",
+   "all products",
+   "ben träning",
+   "benträning",
+   "gymtillbehör",
+   "höft",
+   "insida lår"
+  ],
+  "updatedAt": "2026-09-22T07:38:26Z",
+  "seo": {
+   "title": null,
+   "description": "Adduktor Tränare Adduktorerna är en muskelgrupp som består av tre muskler och utgör det vi i daligt tal brukar kalla för ljumskar och är den enda muskelgrupp."
+  },
+  "descriptionHtml": "<h2>Adduktor Tränare</h2>\n<p>Adduktorerna är en muskelgrupp som består av tre muskler och utgör det vi i daligt tal brukar kalla för ljumskar och är den enda muskelgrupp som är engagerad under hela löpsteget. Är adduktorerna svaga och blir trötta när du springer är det lätt att tappa symmetrin i höften och en känsla av att det ena benet känns kortare än det andra kan smyga sig på. Det i sin tur leder till att löpsteget förändras och att skaderisken ökar markant.<br><br>Med denna utrustning kan du träna adduktorerna, insidan av låren, och med starkare muskler lättare hålla symmetrin i höften.</p>"
+ }
+]

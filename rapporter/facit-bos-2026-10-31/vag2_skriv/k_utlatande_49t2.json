@@ -1,0 +1,106 @@
+[
+ {
+  "nr": 49101,
+  "id": "10472252932362",
+  "fil": "k_49t2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Stödhjul från Selle Monte Grappa för barn som lär sig cykla, till cyklar med 12–16 tums hjul i svart. Artikelnummer 82.",
+    "efter": "Stödhjulen från Selle Monte Grappa är avsedda för barn som lär sig cykla och för cyklar med 12–16 tums hjul. Färgen är svart. Artikelnummer 82."
+   }
+  },
+  "skal": "Live ACTIVE, SKU 82, lager 46, ingen EAN. Meta saknade verb (krav) och \"12–16 tums hjul i svart\" kunde läsas som att hjulen på cykeln är svarta; rättad till 143 tecken med verb. Övrigt stämmer mot källa och titel: avsedd användning (barn som lär sig cykla) ur källan, 12–16 tum ur titeln, \"högkvalitativa/bekväma/nödvändiga\" utelämnade, inga säkerhets- eller utvecklingslöften. \"Maximal lastgräns: Ej känd\" enligt v1.10 (stödhjul är bärande del). Tillverkarkälla sökt (Selle Monte Grappa, art 82): ingen sida för exakt artikel, bara återförsäljare för andra märken; texten bygger bara på egen källa och titel (godkänt enligt v1.12). Ingen dubblett: 12–20-tumsvarianten SKU 85 är DRAFT och annan artikel; Polaver-stödhjulen är annat märke."
+ },
+ {
+  "nr": 49102,
+  "id": "10472262959370",
+  "fil": "k_49t2_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, TITAN-BATTERY, tagg På beställning, lager 0 (beställningsvara; leveranstidsmeningen finns i standardblocket, rätt). Tillverkarkälla: https://uk.fiido.com/collections/bags listar \"Extender Battery Combo (Battery Rack*1, Battery*2, Battery Bag*2) for Titan\", vilket stämmer med texten (batterihållare, 2 batterier, påsar). Ingen kapacitet, spänning eller räckvidd skriven (saknas i egen källa och på sidan). Typordet Batteripaket ur källans svenska text. Ej dubblett: batteriet FX-145 är annan artikel (DRAFT)."
+ },
+ {
+  "nr": 49103,
+  "id": "10472279900426",
+  "fil": "k_49t2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Dig som vill ha en liten träningsboll från Toorx</li>",
+    "efter": "<li>Dig som vill ha en träningsboll från Toorx</li>"
+   }
+  },
+  "skal": "Live ACTIVE, AHF-020, EAN 8029975990811, lager 3. \"Liten\" är obelagt i egen källa (utkastaren flaggade själv) och tas bort. Blodcirkulation, stresslindring och rehabilitering är rätt utelämnade; \"avsedd för träning av muskler i armar, handleder och fingrar\" är avsedd användning ur källan, inget resultatlöfte. Typord Träningsboll ur butikens egna taggar godtas. Tillverkarkälla: toorx.it/accessori.toorx.it saknar produktsida; återförsäljare (MediaMarkt BE, AHF-020) beskriver en greppboll, vilket stämmer med typen. Inga uppgifter därifrån används. OBS process: skrivfil_kontroll.py ger FEL – id står på spärrlistan tidigare-avvisade-2026-11-04 och finns inte i någon undantagslista. Innehållet är rättat och godtagbart enligt v1.12, men produkten får inte skrivas förrän ett undantag med Davids beslut (v1.12, 2026-11-08) lagts in i sparrlista.json; granskaren ändrar inte spärrlistan."
+ },
+ {
+  "nr": 49104,
+  "id": "10472285569290",
+  "fil": "k_49t2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Material: Gel</li>",
+    "efter": "<li>Utförande: Med gel</li>"
+   }
+  },
+  "skal": "Live ACTIVE, SADL216, EAN 2099900002311, tom källa; allt ur titeln. Titelns \"m/GEL\" säger att överdraget har gel, inte att materialet är gel (utkastaren noterade själv att materialet inte anges); specifikationsraden rättas så att den inte påstår material. Övrigt stämmer (Thin, 275 x 160 mm, svart). Ingen tillverkarsida för exakt artikel hittades. Ej dubblett: Sadelunderlag Azimut Gel 260 x 230 mm är annan artikel (SADL217)."
+ },
+ {
+  "nr": 49105,
+  "id": "10472293499146",
+  "fil": "k_49t2_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Oklar produkttyp och motsägelse (v1.12 punkt 5, R2). Källan anger \"särskilt lämplig för elcyklar; Lämplig för 24\"-29\" hjul; aluminium\" – hjulstorleksintervall är typiskt för ett cykelstöd, inte ett vevlager, vilket utkastaren själv påpekar. M-Wave säljer stöd med namnen Strong (Strong R III är ett cykelstöd, galaxus) och \"24–29\"\" e-bike-stöd; ingen tillverkarsida för 430706/Strong F hittades. Typordet Vevlager kommer bara från live-titeln, som sannolikt är felöversatt. Att skriva ut \"Vevlager\" med \"Maximal lastgräns: Ej känd\" kan alltså beskriva fel produkt. Skrivs inte förrän produkttypen är belagd (live-titeln bör ses över; handle slutar på 430707 men SKU är 430706)."
+ },
+ {
+  "nr": 49106,
+  "id": "10472294842634",
+  "fil": "k_49t2_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, ADO-CARBON-SEISUJALG, tagg På beställning (leveranstidsmening finns), lager 0. Tillverkarkälla: https://adoebike.com/products/ado-air-carbon-kickstand heter \"ADO Air Carbon Stand\"; stämmer med typordet Stativ ur egen svensk källa. Inget mått, material eller last på tillverkarsidan; \"Maximal lastgräns: Ej känd\" enligt v1.10. Typordet cykelstöd (godkänt i profilen) hade varit tydligare, men R7 tillåter källans eget ord; se fråga."
+ },
+ {
+  "nr": 49107,
+  "id": "10472300085514",
+  "fil": "k_49t2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Trampolinen Toorx Trampoline på 97 cm används som studsmatta för träning hemma.</p>",
+    "efter": "<p>Trampolinen Toorx Trampoline på 97 cm är avsedd för träning hemma.</p>"
+   },
+   "meta": {
+    "fore": "Studsmattan Toorx Trampoline på 97 cm är avsedd för träning hemma och har artikelnummer TF-01 hos BEST OF SPORTS.",
+    "efter": "Trampolinen Toorx Trampoline på 97 cm är avsedd för träning hemma och har artikelnummer TF-01 hos BEST OF SPORTS."
+   }
+  },
+  "skal": "Live ACTIVE, TF-01, lager 1. Inledningen \"Trampolinen ... används som studsmatta\" är i praktiken cirkulär (trampolin = studsmatta, R11) och rättas; meta använde typordet Studsmattan medan titel och SEO säger Trampolin (R7, enhetligt typord) och rättas (113 tecken, verb). Löftesord (hållbar, robust, stabil, säker, uthållighet, koordination, balans, alla åldrar) rätt utelämnade; ingen lastgräns (trampolin undantagen i v1.10). Tillverkarsida saknas (toorx.it); MediaMarkt NL listar TF-01 i 97 cm, stämmer. Ej dubblett: Trampoline Pro 122 cm (TF-03) är annan artikel."
+ },
+ {
+  "nr": 49108,
+  "id": "10472302444810",
+  "fil": "k_49t2_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU/EAN 5902114058340, lager 18, tom källa. Texten har bara titelns uppgifter (pillerdosa, Trec, Essensey, vit); taggen Kosttillskott rätt inte använd, inga innehålls- eller hälsouppgifter. Ingen tillverkarsida för EAN hittades (sökning på Trec och EAN). Kort men belagd text, godkänd enligt v1.12. Meta 93 tecken med verb."
+ },
+ {
+  "nr": 49109,
+  "id": "10472305557770",
+  "fil": "k_49t2_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, en variant M / black, AHF-087, lager 3. Källans uppgifter (styrketräning, öglor mellan fingrarna för enkel borttagning) korrekt återgivna; halkfri handflata, komfort, säkerhet och Italien rätt utelämnade. Färg rätt utelämnad: titeln säger svart-röd, varianten black och MediaMarkt NL (AHF-087) röd – motsägelse. Storlek M ur den enda varianten. Ingen tillverkarsida (toorx.it). Ej dubblett: skrivna Professional Gloves är AHF-033/AHF-034; SEO-titeln skiljer sig från deras (\"... Professional L\", \"... Professional Gloves\")."
+ },
+ {
+  "nr": 49110,
+  "id": "10472323023114",
+  "fil": "k_49t2_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, AMLADCYKLER-82-1, lager 2. Ultimate Curve och Deluxe ur källan; hund, sidöppning och lådcykel ur titeln. Inga mått, material eller löften. Tillverkarsida för exakt artikel hittades inte (amladcykler.dk-sökning gav bara cyklarna); bygger på egen källa och titel (v1.12). Ingen annan Hunddörr i butiken."
+ }
+]

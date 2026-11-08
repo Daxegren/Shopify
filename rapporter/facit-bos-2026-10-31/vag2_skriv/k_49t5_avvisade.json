@@ -1,0 +1,47 @@
+[
+ {
+  "id": "10612571504906",
+  "nr": 49403,
+  "skäl": "Exakt dubblett av annan aktiv annons (R12a): lager måste flyttas först. Annons 10612571537674 har samma titel och EAN 4751036031341 (pris 449 mot 359 kr). Källan är dessutom tunn och \"Skyddsnivå: extrem\" är ett skyddslöfte."
+ },
+ {
+  "id": "10624084148490",
+  "nr": 49404,
+  "skäl": "Produkttypen är oklar och källan tom: bara \"Tillverkaren är Toorx\". Titeln säger både Boxningssäck och Fastball för WBX-70 (säck, speedball eller tillbehör till ställning är inte avgörbart). Webbsökning på EAN 8029975990248, KIT-PALLAWBX-70 och WBX-70 gav ingen träff hos Toorx eller återförsäljare, så inga belagda fakta finns utöver titeln."
+ },
+ {
+  "id": "10656690307338",
+  "nr": 49405,
+  "skäl": "Exakt dubblett av annan aktiv annons (R12a): lager måste flyttas först. Annons 10656690274570 har samma SKU 1521-30, EAN 7350097565429 och titel."
+ },
+ {
+  "id": "10676713750794",
+  "nr": 49406,
+  "skäl": "Exakt dubblett av annan aktiv annons (R12a): lager måste flyttas först. Annons 10676713783562 har samma SKU 1521-28, EAN och pris."
+ },
+ {
+  "id": "10676713783562",
+  "nr": 49407,
+  "skäl": "Exakt dubblett av annan aktiv annons (R12a): lager måste flyttas först. Annons 10676713750794 har samma SKU 1521-28, EAN och pris."
+ },
+ {
+  "id": "10676714111242",
+  "nr": 49408,
+  "skäl": "Exakt dubblett av annan aktiv annons (R12a): lager måste flyttas först. Annons 10676714144010 har samma SKU 1521-100, EAN 7350097567997 och pris; \"Premium\" i titeln saknar dessutom stöd i källan."
+ },
+ {
+  "id": "10676714144010",
+  "nr": 49409,
+  "skäl": "Exakt dubblett av annan aktiv annons (R12a): lager måste flyttas först. Annons 10676714111242 har samma SKU 1521-100, EAN och pris; \"Premium\" i titeln saknar dessutom stöd i källan."
+ },
+ {
+  "id": "10676715258122",
+  "nr": 49410,
+  "skäl": "Exakt dubblett av annan aktiv annons (R12a): lager måste flyttas först. Annons 10676715323658 har samma SKU 1521-22, EAN 7350097561209 och pris. Barntransport (sittdynor i barnlåda) ingår dessutom inte."
+ },
+ {
+  "id": "10676715323658",
+  "nr": 49411,
+  "skäl": "Exakt dubblett av annan aktiv annons (R12a): lager måste flyttas först. Annons 10676715258122 har samma SKU 1521-22, EAN och pris. Barntransport ingår dessutom inte."
+ }
+]

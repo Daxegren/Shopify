@@ -1,0 +1,68 @@
+[
+{
+"id": "10612571504906",
+"titel": "Knäskydd Boom Solid Knee Pads Svart L",
+"lager": 1,
+"forra_skal": "Exakt dubblett av aktiv annons 10612571537674 (samma titel, samma EAN 4751036031341, olika pris 359 mot 449 kr). Lager måste flyttas först (R12a); källan är dessutom tunn (skyddsnivå \"extrem\" är ett skyddslöfte)."
+},
+{
+"id": "10612578976010",
+"titel": "Gloves Mickey, green",
+"lager": 1,
+"forra_skal": "Tunn och motstridig källa (R2/R3): egen källa är en mening (\"slitstarkt material\", damasker). Webbkoll på EAN 5902308590908 (Seven Disney Mickey 59090) anger grå-gul färg, storlek S/barn, medan live-titeln säger green och annan butik anger one size; barnhandskar med motsägelser, inget entydigt att skriva."
+},
+{
+"id": "10624084148490",
+"titel": "Boxningssäck TOORX Fastball för WBX-70",
+"lager": 1,
+"forra_skal": "Tunn källa (R3): egen källa är bara \"Tillverkaren är Toorx\"; tidigare webbkoll (EAN 8029975990248, KIT-PALLAWBX-70, Fastball WBX-70) gav ingen träff. Färre än två entydiga fakta utöver titeln."
+},
+{
+"id": "10636716376330",
+"titel": "Adduktor Tränare",
+"lager": 1001,
+"forra_skal": "Tunn och otydlig källa (R2/R3): egen text beskriver bara adduktorernas anatomi och löpning, ingen produktbeskrivning (material, mått, hur redskapet används). Webbkoll på EAN 4260438736360 ger en enda återförsäljare med avvikande namn och mått (Kruidvat, Dijbeen Trainer, 47 x 20 x 11 cm, 0,8 kg) och ingen tillverkarsida bekräftar modellen, så inga entydiga fakta finns."
+},
+{
+"id": "10656690307338",
+"titel": "Sittdyna för baksäte med ryggstöd CARGOBIKE of Sweden Flex/Delight",
+"lager": 2,
+"forra_skal": "Exakt dubblett av aktiv annons 10656690274570 (samma SKU 1521-30 och EAN 7350097565429, samma titel). Lager måste flyttas först (R12a). Källan är dessutom tunn: bara att sittdynan passar Flex och Delight."
+},
+{
+"id": "10676713750794",
+"titel": "Kapellställning CARGOBIKE of SWEDEN Canopy Bows Long Lite",
+"lager": 0,
+"forra_skal": "Exakt dubblett av aktiv annons 10676713783562 (samma titel, SKU 1521-28, EAN 7350097568499, samma pris) och tunn källa: bara att kapellställningen är för Long Lite (ett faktum utöver titeln). Lager måste flyttas först (R12a)."
+},
+{
+"id": "10676713783562",
+"titel": "Kapellställning CARGOBIKE of SWEDEN Canopy Bows Long Lite",
+"lager": 0,
+"forra_skal": "Exakt dubblett av aktiv annons 10676713750794 (samma titel, SKU 1521-28, EAN 7350097568499, samma pris) och tunn källa: bara att kapellställningen är för Long Lite (ett faktum utöver titeln). Lager måste flyttas först (R12a)."
+},
+{
+"id": "10676714111242",
+"titel": "Kapellställning CARGOBIKE of SWEDEN för Flex/Delight Nova Premium",
+"lager": 0,
+"forra_skal": "Tunn källa (R3): egen text har bara modellerna Flex Nova och Delight Nova och tillverkaren (ett faktum utöver titeln), och \"Premium\" i titeln saknar stöd i källan. Ingen tillverkarsida har kunnat knytas entydigt till artikelnumret 1521-100."
+},
+{
+"id": "10676714144010",
+"titel": "Kapellställning CARGOBIKE of SWEDEN för Flex/Delight Nova Premium",
+"lager": 0,
+"forra_skal": "Tunn och motsägande källa: live-texten anger bara att ställningen är för Flex Nova och Delight Nova från Cargobike of Sweden (en entydig uppgift utöver titeln), men titeln säger 'Flex/Delight Nova Premium' och 'Premium' finns inte i källan (R3). Lager 0 (På beställning), inga mått, material eller artikelnummer i källan; ingen entydig tillverkarsida för exakt artikelnummer 1521-100 (handle slutar på 1521-101) kunde knytas till modellen."
+},
+{
+"id": "10676715258122",
+"titel": "Sittdynor CARGOBIKE of Sweden för 6-barnslåda med ryggstöd",
+"lager": 0,
+"forra_skal": "Exakt dubblett (samma SKU 1521-22, EAN och pris) av 10676715323658, båda aktiva (R12a): lager måste flyttas först. Dessutom barntransport (sittdynor till barnlåda på lastcykel) och tunn källa; lager 0."
+},
+{
+"id": "10676715323658",
+"titel": "Sittdynor CARGOBIKE of Sweden för 6-barnslåda med ryggstöd",
+"lager": 0,
+"forra_skal": "Exakt dubblett (samma SKU 1521-22, EAN och pris) av 10676715258122, båda aktiva (R12a): lager måste flyttas först. Dessutom barntransport och tunn källa; lager 0."
+}
+]

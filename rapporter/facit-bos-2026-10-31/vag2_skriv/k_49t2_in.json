@@ -1,0 +1,80 @@
+[
+{
+"id": "10472252932362",
+"titel": "Stödhjul SELLE MONTE GRAPPA 12\"-16\", svart",
+"lager": 46,
+"forra_skal": "Tunn och maskinöversatt källa: en enda mening, där bara \"träningshjul för barn som lär sig cykla\" är entydigt (\"Monte Grappa12\" oklart); inga två fakta utöver titeln. Dessutom bärande del utan känd lastgräns."
+},
+{
+"id": "10472258404618",
+"titel": "Träningshandskar Gymstick Workout gloves S/M",
+"lager": 1,
+"forra_skal": "Dubblett av redan skriven aktiv produkt: Gymstick Workout Gloves, id 10581112783114 (nr 3241, texter-klara, S/M och L/XL à 199 kr). Velomarket-kopian har dessutom tunn källa (R12a)."
+},
+{
+"id": "10472262959370",
+"titel": "Battery set for Fiido Titan",
+"lager": 0,
+"forra_skal": "Tunn källa: bara att satsen är ett batteripaket för Fiido Titan med batterihållare, 2 batterier och påsar. Elektronik får bara skrivas med ordagranna uppgifter ur källan, och webben ger ingen bekräftad specifikation för just denna sats (kapacitet, innehåll). Lager 0."
+},
+{
+"id": "10472279900426",
+"titel": "Handleddboll TOORX Power Grip Ball",
+"lager": 3,
+"forra_skal": "Tunn källa och trasigt typord (R2/R3): live-titelns \"Handleddboll\" är ingen svensk produktbeteckning, och källan består av en mening vars enda uppgifter är påståenden (blodcirkulation, muskelträning, stresslindring, rehabilitering) som inte får skrivas. Kvar blir märke, modell och artikelnummer, inte två entydiga fakta om produkten."
+},
+{
+"id": "10472285569290",
+"titel": "Sadelöverdrag AZIMUT THIN m/GEL 275x160mm, svart",
+"lager": 3,
+"forra_skal": "Tunn källa (R3): live-beskrivningen är tom, titeln är enda källa; tidigare webbsökning gav ingen sida för exakt modell."
+},
+{
+"id": "10472293499146",
+"titel": "Vevlager M-WAVE Strong F för E-bikes 24\"-",
+"lager": 6,
+"forra_skal": "Tunn och tvetydig källa (R3/R2): tre rader (särskilt lämplig för elcyklar, lämplig för 24\"-29\" hjul, aluminium). Hjulstorlek är ingen egenskap hos ett vevlager och raden är därför trasig; gängstandard och axellängd saknas, så passform går inte att ange. Vevlager är en bärande del och lastgräns saknas."
+},
+{
+"id": "10472294842634",
+"titel": "Stand ADO Air Carbon",
+"lager": 0,
+"forra_skal": "Tunn källa (R3): live-källan är bara \"Stativ för ADO Air Carbon-modellen\". Ingen mått-, material- eller monteringsuppgift, och tillverkarens sida har ingen beskrivning. Mindre än två entydiga fakta utöver titeln."
+},
+{
+"id": "10472296317194",
+"titel": "Kindad Frozen 2",
+"lager": 3,
+"forra_skal": "Tom källa: ingen beskrivning, bara titel, SKU 9058 och EAN; produkttypen (\"Kindad Frozen 2\") går inte att avgöra."
+},
+{
+"id": "10472299299082",
+"titel": "Hantelvikter TOORX Safe Lock, 50mm",
+"lager": 3,
+"forra_skal": "Egen källa helt tom, ingen EAN och bara titel/taggar (taggarna Cykellås/viktlås motsäger titeln Hantelvikter). Webben (endast återförsäljare) beskriver ett par skivlås för 50 mm stänger, men ingen tillverkarsida styrker det. Produkttypen oklar i butiken; för tunn källa."
+},
+{
+"id": "10472300085514",
+"titel": "Trampolin TOORX Trampoline, 97 cm",
+"lager": 1,
+"forra_skal": "Tunn källa: texten innehåller bara hälso-, säkerhets- och kvalitetsfraser (kompakt, hållbar, robust, stabil, säker) och inga mått eller specifikationer utöver titelns 97 cm; färre än två entydiga fakta (R3)."
+},
+{
+"id": "10472302444810",
+"titel": "TREC ESSENSEY Pillerdosa, vit",
+"lager": 18,
+"forra_skal": "Tunn källa (R3): live-beskrivningen är tom och titeln ger bara färg utöver produkttypen. Tillverkarens sida hittades inte."
+},
+{
+"id": "10472305557770",
+"titel": "Träningshandskar TOORX Professional Gloves, svart-röd",
+"lager": 3,
+"forra_skal": "R3: enda varianten är M / black men titeln säger svart-röd; källan nämner varken färg eller storlek. Bara tre fakta (styrketräning, öglor mellan fingrarna, tillverkare), varav halkfri handflata och Italien är kvalitets-/ursprungsord; tunn källa."
+},
+{
+"id": "10472323023114",
+"titel": "Hunddörr för AMLADCYKLER lådcykel, sidöppning",
+"lager": 2,
+"forra_skal": "Tunn källa (R3): bara att dörrpanelen passar Amladcykler Ultimate Curve och Deluxe; källan säger varken hund eller sidöppning, så titeln kan inte styrkas. Inga två entydiga fakta utöver titeln."
+}
+]

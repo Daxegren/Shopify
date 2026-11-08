@@ -1,0 +1,173 @@
+[
+ {
+  "nr": 49001,
+  "id": "10462767284490",
+  "fil": "k_49t1_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Utomhusdäck Continental Ride Tour 42-622, 28 x 1,60",
+    "efter": "Ytterdäck Continental Ride Tour 42-622, 28 x 1,60"
+   },
+   "seo_title": {
+    "fore": "Utomhusdäck Continental Ride Tour",
+    "efter": "Ytterdäck Continental Ride Tour 42-622"
+   },
+   "meta": {
+    "fore": "Utomhusdäcket Continental Ride Tour har däckstorlek 42-622 (28 x 1,60). Artikelnummer CO0101157, EAN 4019238693478.",
+    "efter": "Ytterdäcket Continental Ride Tour har däckstorlek 42-622 (28 x 1,60). Artikelnummer CO0101157, EAN 4019238693478."
+   },
+   "html": {
+    "fore": "<p>Utomhusdäcket Ride Tour från Continental har däckstorlek 42-622, vilket motsvarar 28 x 1,60.</p><h2>Passar för</h2><ul>\n<li>Dig som söker ett utomhusdäck i storlek 42-622</li>\n<li>Dig som vill ha ett däck i dimensionen 28 x 1,60</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Utomhusdäck</li>\n<li>Märke: Continental</li>\n<li>Modell: Ride Tour</li>\n<li>Däckstorlek (ETRTO): 42-622</li>\n<li>Dimension: 28 x 1,60</li>\n<li>Artikelnummer: CO0101157</li>\n<li>EAN: 4019238693478</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p>",
+    "efter": "<p>Ytterdäcket Ride Tour från Continental har däckstorlek 42-622, vilket motsvarar 28 x 1,60.</p><h2>Passar för</h2><ul>\n<li>Dig som söker ett ytterdäck i storlek 42-622</li>\n<li>Dig som vill ha ett däck i dimensionen 28 x 1,60</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Ytterdäck</li>\n<li>Märke: Continental</li>\n<li>Modell: Ride Tour</li>\n<li>Däckstorlek (ETRTO): 42-622</li>\n<li>Dimension: 28 x 1,60</li>\n<li>Artikelnummer: CO0101157</li>\n<li>EAN: 4019238693478</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p>"
+   }
+  },
+  "skal": "Live ACTIVE, CO0101157, EAN 4019238693478, 329 kr, lager 13, tom beskrivning. EAN-träff (reifen.com, galaxus) = Continental Ride Tour 42-622 (28 x 1.60), svart; titelns uppgifter stämmer. Ingen tryck-, punkterings- eller kvalitetsuppgift i texten. RÄTTA: 'Utomhusdäck' är en maskinöversättning (R2) av ytterdäck; samma modell Ride Tour 32-630 är skriven som 'Ytterdäck' (butikens live-ord), så typordet blir Ytterdäck i alla fält. SEO-titeln 'Ytterdäck Continental Ride Tour' skulle krocka med syskonet, därför med dimension (38 tecken)."
+ },
+ {
+  "nr": 49002,
+  "id": "10462780424458",
+  "fil": "k_49t1_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Scooter stickers Union Sticker",
+    "efter": "Scooter Stickers Union Sticker"
+   },
+   "seo_title": {
+    "fore": "Scooter stickers Union Sticker",
+    "efter": "Scooter Stickers Union Sticker"
+   }
+  },
+  "skal": "Live ACTIVE, 104912, ingen EAN, lager 3. Egen källa: märke Union, vikt 0,0100 kg; allt i texten stämmer. Ingen tillverkarkälla funnen (sökning på 104912 och Union scooter sticker gav ingen träff), så texten bygger bara på titel och egen källa (v1.12). Typordet 'Scooter stickers' behålls från titeln (R7). RÄTTA: stor bokstav på beskrivande ord i titel och SEO (R9). Obs till David: priset 1 459 kr för ett klistermärke på 0,01 kg ser fel ut (ingen textfråga)."
+ },
+ {
+  "nr": 49003,
+  "id": "10472232419594",
+  "fil": "k_49t1_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Cykelklocka Giant Classic Bell, svart",
+    "efter": "Cykelklocka Giant Classic Bell, Svart"
+   }
+  },
+  "skal": "Live ACTIVE, 580901, EAN 4718905933137, 49 kr, lager 29. Leverantörens sida velomarket.ee (SKU 580901, Giant Classic Bell svart) stämmer; Giants egen sida hittades inte. Marknadsföringsord (snygg, unik design, hög kvalitet, bra ljud) och märkestexten rätt utelämnade. RÄTTA: färgen med stor bokstav i titeln som skrivna syskon (Cykelklocka Giant Ding-A-Ling, Svart; R9)."
+ },
+ {
+  "nr": 49004,
+  "id": "10472238678282",
+  "fil": "k_49t1_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Regnjacka Prophete Lifetime travel, med huva, blå",
+    "efter": "Regnjacka Prophete Lifetime Travel, med Huva, Blå"
+   },
+   "seo_title": {
+    "fore": "Regnjacka Prophete Lifetime travel",
+    "efter": "Regnjacka Prophete Lifetime Travel"
+   },
+   "meta": {
+    "fore": "Regnjackan Prophete Lifetime travel har huva och är blå. Artikelnummer S103-647869, EAN 8711252647869.",
+    "efter": "Regnjackan Prophete Lifetime Travel har huva och är blå. Artikelnummer S103-647869, EAN 8711252647869."
+   },
+   "html": {
+    "fore": "<p>Regnjackan Lifetime travel från Prophete har huva och är blå.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en regnjacka med huva</li>\n<li>Dig som vill ha en blå regnjacka</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Regnjacka</li>\n<li>Märke: Prophete</li>\n<li>Modell: Lifetime travel</li>\n<li>Huva: Ja</li>\n<li>Färg: Blå</li>\n<li>Artikelnummer: S103-647869</li>\n<li>EAN: 8711252647869</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p>",
+    "efter": "<p>Regnjackan Lifetime Travel från Prophete har huva och är blå.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en regnjacka med huva</li>\n<li>Dig som vill ha en blå regnjacka</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Regnjacka</li>\n<li>Märke: Prophete</li>\n<li>Modell: Lifetime Travel</li>\n<li>Huva: Ja</li>\n<li>Färg: Blå</li>\n<li>Artikelnummer: S103-647869</li>\n<li>EAN: 8711252647869</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p>"
+   }
+  },
+  "skal": "Live ACTIVE, S103-647869, EAN 8711252647869, 29 kr, lager 9, tom beskrivning. Märket Prophete finns bara i vendor och tagg, inte i live-titeln; EAN gav ingen träff på nätet (8711252 är ett nederländskt företagsprefix), så märket kan inte bekräftas mot tillverkare. Godtas eftersom vendor är produktens egen data, men David bör veta att märket i titeln bygger på vendorfältet. Inga storleks-, material- eller vattentäthetsuppgifter, inga löften. RÄTTA: stor bokstav på beskrivande ord i titel och SEO (R9, format_regler.py) och modellnamnet 'Lifetime Travel' enhetligt i meta och beskrivning."
+ },
+ {
+  "nr": 49005,
+  "id": "10472239366410",
+  "fil": "k_49t1_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SOLELYJR350, ingen EAN, 119 kr, lager 3, tagg Barncykel men ingen På beställning. Egen källa: passar mindre ramar ~10–12 tum (ZERO 20 och ZERO 24), 350 ml. mtbiker.shop (Beany Solely.Jr 350 ml) bekräftar ZERO 20 (10 tum) och ZERO 24 (11 tum); Beanys egen sida hittades inte. 'Enligt tillverkaren' en gång i beskrivningen och en i meta. Inga säkerhets- eller utvecklingslöften (barnprodukt, beslut 2026-11-08). Ingen dubblett."
+ },
+ {
+  "nr": 49006,
+  "id": "10472239956234",
+  "fil": "k_49t1_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, VMISMMA90R160PS, EAN 4524667430513, 189 kr, lager 24. Befintlig kort text och SEO-titel ersätts med samma fakta (modell, 160 mm, Post/Standard). SKU (…PS) stämmer med titelns Post/Standard. Ingen tillverkarsida eller EAN-träff hittades; Shimanos återförsäljarsidor ger 403. Inget användningsområde påstås utöver titeln, rätt enligt v1.12. Annan modell än 49008 (MA90-R160 mot MA-F160), inte dubblett."
+ },
+ {
+  "nr": 49007,
+  "id": "10472240021770",
+  "fil": "k_49t1_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Bromsoksadaptern SM-MA-F180 från Shimano är avsedd för 180 mm bromsskiva och finns i utförandet Post/Standard. Enligt Shimanos återförsäljarsida är den en framadapter.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en bromsoksadapter för 180 mm bromsskiva</li>\n<li>Dig som söker en adapter i utförandet Post/Standard</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Bromsoksadapter</li>\n<li>Märke: Shimano</li>\n<li>Modell: SM-MA-F180</li>\n<li>Storlek: 180 mm</li>\n<li>Utförande: Post/Standard</li>\n<li>Placering: Fram</li>\n<li>Artikelnummer: VMISMMAF180PSA</li>\n<li>EAN: 4524667108146</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p>",
+    "efter": "<p>Bromsoksadaptern SM-MA-F180 från Shimano är avsedd för 180 mm bromsskiva och finns i utförandet Post/Standard. Enligt tillverkaren är den avsedd för framhjulet.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en bromsoksadapter för 180 mm bromsskiva</li>\n<li>Dig som söker en adapter i utförandet Post/Standard</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Bromsoksadapter</li>\n<li>Märke: Shimano</li>\n<li>Modell: SM-MA-F180</li>\n<li>Storlek: 180 mm</li>\n<li>Utförande: Post/Standard</li>\n<li>Placering: Fram</li>\n<li>Artikelnummer: VMISMMAF180PSA</li>\n<li>EAN: 4524667108146</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p>"
+   }
+  },
+  "skal": "Live ACTIVE, VMISMMAF180PSA, EAN 4524667108146, 179 kr, lager 13, tom beskrivning. SKU (…PSA) stämmer med Post/Standard; 'F' i Shimanos modellbeteckning SM-MA-F180 anger framadapter och 180 mm gäller bromsskivan (samma namngivning i återförsäljarlistor för SM-MA-F160P/S). Shimanos sida (dealers.bike.shimano.com) gav 403 för granskaren; utkastarens källa godtas för fram/180 mm-skiva. EAN-träff saknas på nätet men EAN är produktens egen streckkod. RÄTTA: 'Enligt Shimanos återförsäljarsida' är en källhänvisning i kundtext (R11); ersätts med 'Enligt tillverkaren' (en gång i texten)."
+ },
+ {
+  "nr": 49008,
+  "id": "10472240382218",
+  "fil": "k_49t1_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, VMKSMMAF160PZA, ingen EAN, 99 kr, lager 40. Motsägelse: titeln och live-texten säger Post/Standard (P/S, som på 49007 där SKU slutar på PSA), men SKU slutar på PZA. Shimano har en separat variant SM-MA-F160P/Z (front 160 mm, P/Z) enligt återförsäljare (rodalink.com), så artikeln kan vara P/Z och inte P/S. Adapterns utförande är det enda belagda faktumet och det går inte att avgöra entydigt (R2, v1.12 punkt 5: motsägelse). Live-textens 'montera en 160 mm bromsskiva' är dessutom tekniskt oklart (adaptern fäster bromsoket). Skrivs inte förrän utförandet är bekräftat mot Shimano eller leverantören."
+ },
+ {
+  "nr": 49009,
+  "id": "10472241791242",
+  "fil": "k_49t1_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Rullskridskor Fila Primo LX 90, svart, blå och gul",
+    "efter": "Rullskridskor Fila Primo LX 90, Svart, Blå och Gul"
+   },
+   "meta": {
+    "fore": "Rullskridskorna Fila Primo LX 90 är herrmodeller för avancerade åkare och finns i svart, blått och gult.",
+    "efter": "Rullskridskorna Fila Primo LX 90 riktar sig till herrar som är avancerade åkare och har färgerna svart, blått och gult."
+   },
+   "html": {
+    "fore": "<p>Rullskridskorna Primo LX 90 från Fila är herrmodeller för avancerade åkare som gillar fart.</p><h2>Passar för</h2><ul>\n<li>Herrar som söker rullskridskor</li>\n<li>Avancerade åkare som gillar fart</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Rullskridskor</li>\n<li>Märke: Fila</li>\n<li>Modell: Primo LX 90</li>\n<li>Målgrupp: Herr</li>\n<li>Färg: Svart, blå och gul</li>\n<li>Artikelnummer: FILA-PRIMOLX90-BLKBLUYLW-41</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p>",
+    "efter": "<p>Rullskridskorna Primo LX 90 från Fila riktar sig till herrar som är avancerade åkare och gillar fart.</p><h2>Passar för</h2><ul>\n<li>Herrar som söker rullskridskor</li>\n<li>Avancerade åkare som gillar fart</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Rullskridskor</li>\n<li>Märke: Fila</li>\n<li>Modell: Primo LX 90</li>\n<li>Målgrupp: Herr</li>\n<li>Färg: Svart, blå och gul</li>\n<li>Artikelnummer: FILA-PRIMOLX90-BLKBLUYLW-41</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p>"
+   }
+  },
+  "skal": "Live ACTIVE, FILA-PRIMOLX90-BLKBLUYLW-41, streckkod = SKU-text, 2 429 kr, lager 2. Egen källa: rullskridsko för herrar, avancerade åkare som gillar fart; 'lätta', 'bekväma', 'trevlig upplevelse' rätt utelämnade. sportisimo.com listar Fila Primo LX 90 (90 mm hjul m.m.); Filas egen sida hittades inte, och tekniska uppgifter tas inte med eftersom de inte är kontrollerade mot exakt artikel. Storlek anges inte (SKU -41 och handle -40 motsäger varandra), rätt. RÄTTA: färgerna med stor bokstav i titeln (R9, som skrivna Fila-syskon); 'är herrmodeller' blir en icke-cirkulär inledning i beskrivning och meta (skrivfil_kontroll varnade för 'Namn är en …'); metans 'finns i svart, blått och gult' antydde tre färgval fast det är en färgkombination. Spärrad (utanfor-tills-vidare, rullskridskor): behöver undantagsrad enligt beslutet 2026-11-08 innan skrivning."
+ },
+ {
+  "nr": 49010,
+  "id": "10472241987850",
+  "fil": "k_49t1_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, tre färgvarianter 74-6263-01/-07/-09, samma pris 339 kr, EAN 7318686263019/-071/-095, lager 26. Samma artikel i tre färger med samma pris (v1.8/v1.9): titeln låser rätt inte färg. Egen källa: passar både barn och vuxna; 'robust', 'tåla tuffa tag', 'pålitlig' rätt utelämnade. Velomarket.ee och galaxus (74-6263-01/-09) bekräftar Stiga Pacer i dessa färger; stiga.com gav 404. Inte dubblett: skriven 'Kälke Stiga Pacer med Bromsar' är annan artikel (74-6273) och skiljs i titel och SEO. Inga säkerhetslöften (barn). Spärrad (tidigare-avvisade): behöver undantagsrad enligt beslutet 2026-11-08."
+ },
+ {
+  "nr": 49011,
+  "id": "10472245330186",
+  "fil": "k_49t1_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Cykelstöd Hebie Fix 18 I, 29 tum, svart",
+    "efter": "Stödben Hebie Fix 18 I, 29 tum, Svart"
+   },
+   "seo_title": {
+    "fore": "Cykelstöd Hebie Fix 18 I, 29 tum",
+    "efter": "Stödben Hebie Fix 18 I, 29 tum"
+   },
+   "meta": {
+    "fore": "Cykelstödet Hebie Fix 18 I monteras bak, har 18 mm hålavstånd och är avsett för 29 tum. Artikelnummer 066329E.",
+    "efter": "Stödbenet Hebie Fix 18 I monteras bak, har 18 mm hålavstånd och är avsett för 29 tum. Artikelnummer 066329E."
+   },
+   "html": {
+    "fore": "<p>Cykelstödet Fix 18 I från Hebie monteras bak på cykeln och har ett hålavstånd på 18 mm. Det är avsett för 29 tum. Maximal lastgräns är inte känd.</p><h2>Passar för</h2><ul>\n<li>Dig som söker ett cykelstöd för bakmontering</li>\n<li>Dig som söker ett cykelstöd med 18 mm hålavstånd</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Cykelstöd</li>\n<li>Märke: Hebie</li>\n<li>Modell: Fix 18 I</li>\n<li>Montering: Bak</li>\n<li>Hålavstånd: 18 mm</li>\n<li>Hjulstorlek: 29 tum</li>\n<li>Färg: Svart</li>\n<li>Maximal lastgräns: Ej känd</li>\n<li>Artikelnummer: 066329E</li>\n<li>EAN: 4021834066327</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p>",
+    "efter": "<p>Stödbenet Fix 18 I från Hebie monteras bak på cykeln och har ett hålavstånd på 18 mm. Det är avsett för 29 tum. Maximal lastgräns är inte känd.</p><h2>Passar för</h2><ul>\n<li>Dig som söker ett stödben för bakmontering</li>\n<li>Dig som söker ett stödben med 18 mm hålavstånd</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Stödben</li>\n<li>Märke: Hebie</li>\n<li>Modell: Fix 18 I</li>\n<li>Montering: Bak</li>\n<li>Hålavstånd: 18 mm</li>\n<li>Hjulstorlek: 29 tum</li>\n<li>Färg: Svart</li>\n<li>Maximal lastgräns: Ej känd</li>\n<li>Artikelnummer: 066329E</li>\n<li>EAN: 4021834066327</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p>"
+   }
+  },
+  "skal": "Live ACTIVE, 066329E, EAN 4021834066327, 319 kr, lager 47. Egen källa: hålavstånd 18 mm; titeln: Fix 18 I, 29 tum, svart. Webb: Hebie 0663 29 E, Fix 18 i överlängd för 29 tum, KSA 18 (fahrrad.de, bike-components.de). Lastgränsen anges olika (25 och 50 kg), så 'Maximal lastgräns: Ej känd' och meningen i texten är rätt (v1.10). 'Robust och stark' och raden '18 mm Ø 18 mm' rätt utelämnade. RÄTTA: typordet. 'Cykelstöd' finns inte i produktens egen källa; egen tagg och handle säger 'stödben (för bakmontering)', och det skrivna syskonet Fix 18 (0663E) heter 'Stödben' (R7). Färgen med stor bokstav (R9). SEO unik mot syskonet 'Stödben Hebie Fix 18, Svart'."
+ }
+]

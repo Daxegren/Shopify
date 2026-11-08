@@ -1,0 +1,80 @@
+[
+{
+"id": "10472324432138",
+"titel": "Step board BH FITNESS",
+"lager": 5,
+"forra_skal": "Tunn källa (R3): egen källa är bara \"Produkten passar för BH Fitness\"; inga entydiga fakta utöver titeln och ingen webbträff på artikelnummer 0191191/EAN 8431284975340."
+},
+{
+"id": "10472325349642",
+"titel": "Kettlebell HAMMER Premium Kettlebell 22 kg",
+"lager": 2,
+"forra_skal": "Tunn källa (R3): generell text om kettlebells 4-24 kg som inte gäller exakt 22 kg; två varianter med samma SKU 17367 men olika pris (1 879 / 1 639 kr). Ingen webbverifiering av modellen gjordes."
+},
+{
+"id": "10472334491914",
+"titel": "Fälgskydd M-Wave Ringlock 29-33",
+"lager": 4,
+"forra_skal": "Tom källa: bara titeln. Webbkoll på EAN 5904803283262 gav ingen träff, och pris 6 779 kr samt taggen Romet tyder på felklassad produkt. Inga entydiga fakta."
+},
+{
+"id": "10472346190090",
+"titel": "Stöd med bakre fäste för 26-29\" cykel",
+"lager": 201,
+"forra_skal": "Tunn källa (R3): bara \"Passar alla 26-29 tums cyklar\"; internt EAN utan webbträff; pris 0,00 kr (ofärdig produkt)."
+},
+{
+"id": "10472518779146",
+"titel": "Hantelvikter TOORX Spring Locks, 30 mm",
+"lager": 3,
+"forra_skal": "Tom källa (ingen beskrivning, bara titel, SKU CFF och EAN); taggen Viktlås 31mm motsäger titelns 30 mm."
+},
+{
+"id": "10475517772042",
+"titel": "TOORX Bröstbälte 5.3 kHz",
+"lager": 3,
+"forra_skal": "Elektronik med tunn källa (R3): egen källa har bara frekvens 5,3 kHz (redan i titeln) och en trasig frekvensomfångsrad; ingen entydig fakta utöver titeln. Ursprungsuppgiften (Italien) räcker inte."
+},
+{
+"id": "10475980882186",
+"titel": "Trouser leg clamp",
+"lager": 59,
+"forra_skal": "Tunn och trasig källa (R2/R3): en enda mening (\"En svart reflekterande benfästeklämma\") plus märkesreklam; engelsk live-titel utan godkänt typord och artikelnumret 120967 hittades inte hos tillverkaren."
+},
+{
+"id": "10480054567178",
+"titel": "Sangpomm CHRISTOPEIT Kettlebell 12kg",
+"lager": 2,
+"forra_skal": "Tunn källa (R3): generell kettlebelltext utan vikt eller mått; ingen webbträff på EAN 5704796035677 som gäller exakt modellen."
+},
+{
+"id": "10494685315338",
+"titel": "Skridskoskidor Peltonen Acadia SK 21 STIFF",
+"lager": 4,
+"forra_skal": "Tunn källa (R3): tre korta rader utan fakta om modellen; ingen webbträff som kopplar EAN 6417858571158 till Acadia SK 21 Stiff."
+},
+{
+"id": "10494695932170",
+"titel": "Pedalblock för racercykel LOOK KEO GRIP, 9 grader",
+"lager": 7,
+"forra_skal": "Tom källa (bara titel, SKU och EAN); produkttypen pedalblock/klosskoppling kan inte styrkas med fakta."
+},
+{
+"id": "10494696161546",
+"titel": "Pedal blocks LOOK X-TRACK",
+"lager": 3,
+"forra_skal": "Tom källa (bara titel, SKU och EAN); engelsk titel utan typord på svenska och inga fakta."
+},
+{
+"id": "10494698881290",
+"titel": "Skidor UNIPLAST Junior, med bindningar för barn, 56 cm, mix",
+"lager": 11,
+"forra_skal": "Tunn källa (R3): egen källa är bara \"Maximal användarvikt 60 kg\" (lastgräns i löptext utan etikett, utelämnas). Måtten 56 cm, bindningar och junior står bara i live-titeln; högst ett entydigt faktum."
+},
+{
+"id": "10494699110666",
+"titel": "Skyddsplåt UNIPLAST Apple, lila",
+"lager": 1,
+"forra_skal": "Tunn källa (R3): tom källa, ingen webbträff på EAN 4743128000045; pulkatillbehör utan fakta."
+}
+]

@@ -1,0 +1,17 @@
+[
+ {
+  "id": "10472334491914",
+  "nr": 49211,
+  "skäl": "Motsägelse: titeln anger fälgskydd (Ringlock) men märke/vendor är Romet, priset 6 779 kr och SKU 26150015-D tyder på felklassad produkt; källan är bara titeln och EAN 5904803283262 gav ingen webbträff. Produkttypen är oklar."
+ },
+ {
+  "id": "10472518779146",
+  "nr": 49212,
+  "skäl": "Motsägelse: titeln anger 30 mm men taggen \"Viktlås 31mm\" anger 31 mm; källan är tom (bara SKU CFF och EAN 8029975950174) och dimensionen kan inte avgöras. Pris 29 kr."
+ },
+ {
+  "id": "10494699110666",
+  "nr": 49213,
+  "skäl": "Produkttypen är oklar: \"Skyddsplåt Apple\" (pulkatillbehör) saknar all källtext, och ingen webbträff finns på EAN 4743128000045; vad plåten är eller passar till kan inte styrkas."
+ }
+]

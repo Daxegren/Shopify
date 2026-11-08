@@ -1,0 +1,104 @@
+[
+ {
+  "nr": 49301,
+  "id": "10523491434762",
+  "fil": "k_49t4_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Träningshjul Giant Steel för 16–20 tum",
+    "efter": "Träningshjul Giant Steel till cykel, 16–20 tum"
+   }
+  },
+  "skal": "Live ACTIVE, 910522, EAN 8717611301120, lager 14, tom beskrivning. Tillverkarsidan https://www.giant-bicycles.com/nz/giant-steel-training-wheels?partnumber=910522 lästes: 'Suits 16\" - 20\" wheels', ingen lastgräns, inget material. 16–20 tum belagt; 'Maximal lastgräns: Ej känd' rätt enligt v1.10. Rättning: i butiken betyder Träningshjul annars ab-hjul (Tunturi, Toorx, Gymstick; profilens godkända typord), så titeln förtydligas med 'till cykel'. Typordet behålls enligt R7 (live-titelns ord). Inga löften."
+ },
+ {
+  "nr": 49302,
+  "id": "10523491467530",
+  "fil": "k_49t4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 510000013, EAN 4718905786306, lager 19, tom beskrivning. Webbsökning på namn och artikelnummer gav ingen tillverkarsida; texten bygger bara på titeln (typ, märke, modell, färg) och SKU/EAN, vilket är tillåtet enligt v1.12. Ingen dubblett: Flick Silver (510000014) är DRAFT och har annan färg."
+ },
+ {
+  "nr": 49303,
+  "id": "10530130854154",
+  "fil": "k_49t4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 59232, EAN 5902308592322, lager 15, tom beskrivning. Bara titelns uppgifter; återförsäljaruppgifter (tormino) är rätt utelämnade. Underkändes i k_47b1 enligt den äldre regeln för tom källa och är nu tillåten enligt v1.12. Ingen annan aktiv framkorg Minnie."
+ },
+ {
+  "nr": 49304,
+  "id": "10554352894218",
+  "fil": "k_49t4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, BABS162, EAN 7029775900103, lager 1, tom beskrivning. Webbsökning: EAN kopplas av bike-discount.de (återförsäljare) till Hamax Rain Cover för barncykelstol, vilket stämmer med titeln. Texten har bara titelns uppgifter och inga säkerhets- eller skyddslöften (barntransport, v1.10 gäller inte). OBS: skrivfil_kontroll.py ger FEL eftersom produkten står på spärrlistan utanfor-tills-vidare-2026-11-04 (barn) utan undantag; den kan inte skrivas förrän spärren lyfts (se frågor)."
+ },
+ {
+  "nr": 49305,
+  "id": "10565595726090",
+  "fil": "k_49t4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, T2-REARPEGS, lager 0, taggen På beställning, källa 'Fotstöd för Fiido T2-modellen.'. Tillverkarsidan https://uk.fiido.com/products/rear-pegs-for-t2 ('Rear Pegs for T2') bekräftar typ och modell men anger ingen lastgräns, så 'Ej känd' är rätt enligt v1.10. Leveranstidsmeningen finns i standardblocket, och taggen finns på produkten (R13, v1.8)."
+ },
+ {
+  "nr": 49306,
+  "id": "10581104754954",
+  "fil": "k_49t4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, varianterna L/XL (63065-L/XL) och S/M (63065-S/M), båda 299 kr, lager 181. Samma artikel i två storlekar med samma pris: v1.8 är uppfyllt, och titel och SEO låser inte storlek. Typordet Ryggstöd kommer från källan ('Denna ryggstöd'). Löftena om kompression, minskad skaderisk, hållning, stabilitet och att träna säkrare är utelämnade. 'Används vid träning' bygger på källans 'under intensiva träningspass'. gymstick.com svarar 403 och webbsökningen gav ingen tillverkarsida, så texten bygger bara på egen källa."
+ },
+ {
+  "nr": 49307,
+  "id": "10581104918794",
+  "fil": "k_49t4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 61253, EAN 6430016903073, lager 127. Typordet nackskydd och övningarna knäböj, höftlyft och utfall finns ordagrant i källan. Löftena om stötdämpning, säkerhet, minskat tryck och komfort är utelämnade. Ingen tillverkarsida hittades. Ingen dubblett: Barbell Pad Gymstick 61003 är en annan artikel."
+ },
+ {
+  "nr": 49308,
+  "id": "10581105901834",
+  "fil": "k_49t4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 63066, EAN 6430062510850, lager 230. Uppgifterna 'universella', 'en storlek' och 'från styrkelyft till konditionsövningar' finns i källan och titeln. Löftena om prestation, skydd, kompression och slitstyrka är utelämnade, och materialet från återförsäljare är rätt utelämnat. gymstick.com svarar 403. De neoprenstöd som finns är DRAFT och har andra SKU:er."
+ },
+ {
+  "nr": 49309,
+  "id": "10612569112842",
+  "fil": "k_49t4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 03-POR-2291, EAN 3420586601281, lager 1, tom beskrivning, taggen Barncykel. Webbsökning: EAN gäller Zefal Kid MTB Mudguard Set (återförsäljare 16–20 tum, zefal.com 616 enligt sökträff 16/18/20 tum). Tillverkarsidan gav ingen produktdata vid läsning, så det är rätt att storleken utelämnas. Texten har inga löften. OBS: skrivfil_kontroll.py ger FEL eftersom produkten står på spärrlistan utanfor-tills-vidare-2026-11-04 (barn) utan undantag."
+ },
+ {
+  "nr": 49310,
+  "id": "10502528008458",
+  "fil": "k_49t4_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Canopy frame Cargobike of Sweden 2-kids för Classic",
+    "efter": "Kapellställning Cargobike of Sweden 2-kids för Classic"
+   },
+   "seo_title": {
+    "fore": "Canopy frame Cargobike 2-kids Classic",
+    "efter": "Kapellställning Cargobike 2-kids Classic"
+   },
+   "meta": {
+    "fore": "Canopy frame 2-kids från Cargobike of Sweden är avsedd för modellen Classic. Artikelnummer 1521-16.",
+    "efter": "Kapellställningen 2-kids från Cargobike of Sweden är avsedd för lastcykelmodellen Classic. Artikelnummer 1521-16."
+   },
+   "html": {
+    "fore": "<p>Canopy frame 2-kids från Cargobike of Sweden är avsedd för modellen Classic.</p><h2>Passar för</h2><ul>\n<li>Dig som äger en Cargobike of Sweden Classic och söker en canopy frame för 2-kids</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Canopy frame</li>",
+    "efter": "<p>Kapellställningen 2-kids från Cargobike of Sweden är avsedd för lastcykelmodellen Classic.</p><h2>Passar för</h2><ul>\n<li>Dig som äger en Cargobike of Sweden Classic och söker en kapellställning av utförandet 2-kids</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Kapellställning (canopy frame)</li>"
+   }
+  },
+  "skal": "Live ACTIVE, 1521-16, ingen EAN, lager 1, tom beskrivning. Ingen tillverkarsida för artikelnumret. Lucky-Bike (återförsäljare) har en liknande artikel men anger andra modeller, så den används inte. Texten bygger bara på titeln, vilket är tillåtet. Rättning: det engelska typordet Canopy frame byts mot butikens eget ord Kapellställning (live på Cargobike of Sweden Canopy Bows 1521-28), vilket är tillåtet enligt R7 eftersom ordet är en entydig översättning som butiken redan använder. Uppdraget gäller svensk text. 'Lastcykelmodellen' bygger på produkttypen Lastcykeltillbehör. Ingen lastgräns, eftersom delen inte är lastbärande och barntransport är undantagen i v1.10."
+ }
+]
