@@ -58,3 +58,8 @@ Cirkulära inledningar (R11), meta utan verb, typord som byts utan stöd i käll
 
 ## v1.10 (2026-11-05): lastgräns på bärande delar (David)
 - R4: finns ordagrann svensk lastgräns i produktens egen källa gäller R4 som förut. Annars söks lastgränsen på nätet; hittas den entydigt för exakt modellen (artikelnummer/EAN) skrivs den en gång med "enligt tillverkaren" och källadressen anges i `att_bekrafta`. Hittas den inte skrivs i specifikationen raden "Maximal lastgräns: Ej känd" och i texten att maximal lastgräns inte är känd. Ingen annan lastuppgift, inga säkerhets- eller hållbarhetslöften. Bromsdelar, trampoliner, hjälmar och barntransport ingår inte.
+
+## v1.11 (2026-11-08): massageredskap (David)
+- Spärren på massageredskap (massagepistoler, massagerullar, massagebollar, foam rollers, massagepinnar) är hävd. Akupressur, massagestolar och rehab/hälsostöd (t.ex. nackdrag, knästöd) ingår inte i hävningen utan särskilt besked.
+- Texten får ange avsedd användning ("avsedd för massage av …", "används för …") men inga resultatlöften (smärtlindring, återhämtning, bättre blodcirkulation, muskelhälsa, vävnadsförbättring m.fl.). Sådana påståenden får bara förekomma om de styrs av publicerade studier från välkända institut (t.ex. Karolinska); i praktiken skrivs de inte. Värme- och kylfunktioner, vibration och batterikapacitet återges bara ordagrant ur källan, utan effekt.
+- Elektroniska massageredskap (pistoler): bara tekniska uppgifter ur källan; ingen säkerhets- eller hälsotext.
