@@ -1,0 +1,57 @@
+[
+ {
+  "id": "10480048668938",
+  "nr": 46801,
+  "skäl": "Produkttypen är oklar och källan motsäger sig: titeln och texten säger rullskridskor, men källan beskriver ett skridskoblad i rostfritt hockeystål (53–55 HRC) som är \"lämpligt på isen\", titeln anger \"Ice G\"; storlek säljs inte tydligt (en variant, S32 bara i SKU)."
+ },
+ {
+  "id": "10494698881290",
+  "nr": 46803,
+  "skäl": "Tunn källa (R3): egen källa är bara \"Maximal användarvikt 60 kg\" (lastgräns i löptext utan etikett, utelämnas). Måtten 56 cm, bindningar och junior står bara i live-titeln; högst ett entydigt faktum."
+ },
+ {
+  "id": "10523491434762",
+  "nr": 46806,
+  "skäl": "Tom källa: ingen beskrivning, bara titel och SKU 910522. Bärande del (träningshjul/stödhjul) utan uppgifter; inga fakta att skriva."
+ },
+ {
+  "id": "10526099210506",
+  "nr": 46807,
+  "skäl": "Produkten har redan en färdig text som följer strukturen (Passar för, Specifikationer, standardblock) samt SEO-titel och meta; ingen omskrivning behövs."
+ },
+ {
+  "id": "10530130886922",
+  "nr": 46811,
+  "skäl": "Tunn källa (R3): en enda mening (\"Kitet innehåller skydd för knän och armbågar\") och inget annat entydigt faktum utöver titeln."
+ },
+ {
+  "id": "10554352894218",
+  "nr": 46814,
+  "skäl": "Tom källa: ingen beskrivning, bara titel och SKU BABS162. Regnskydd för barncykelstol (barntransport) utan uppgifter att skriva."
+ },
+ {
+  "id": "10605358121226",
+  "nr": 46817,
+  "skäl": "Barnstol på cykel (barntransport): profilen håller barnstolar utanför, och v1.10 undantar barntransport från lastgränsrutinen. Källans kg-uppgift (9–22 kg) saknar etikett (R4). Lyfts till David för särskilt besked."
+ },
+ {
+  "id": "10656690274570",
+  "nr": 46820,
+  "skäl": "Barntransport (tillbehör för lastcykel) med trasigt pris 9 kr; källan är bara \"Passar modellerna Flex och Delight\" (ett faktum)."
+ },
+ {
+  "id": "10676715258122",
+  "nr": 46822,
+  "skäl": "Exakt dubblett (samma SKU 1521-22, EAN och pris) av 10676715323658, båda aktiva (R12a): lager måste flyttas först. Dessutom barntransport (sittdynor till barnlåda på lastcykel) och tunn källa; lager 0."
+ },
+ {
+  "id": "10676715323658",
+  "nr": 46823,
+  "skäl": "Exakt dubblett (samma SKU 1521-22, EAN och pris) av 10676715258122, båda aktiva (R12a): lager måste flyttas först. Dessutom barntransport och tunn källa; lager 0."
+ },
+ {
+  "id": "10676715487498",
+  "nr": 46824,
+  "skäl": "Barntransport: skyddsram för barnstol på lastcykel; källans huvudpoänger är säkerhetslöften (\"sitter säkert och tryggt\", \"skyddsräcken\"), och barntransport ingår inte i v1.10. Lager 0."
+ }
+]

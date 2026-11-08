@@ -1,0 +1,10 @@
+[
+ {
+  "nr": 46901,
+  "id": "10676715553034",
+  "fil": "k_46barn4_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Exakt dubblett (R12a, BESLUTSLOGG 2026-11-05 och 2026-11-08): den aktiva produkten 10676715487498 \"Skyddsram för barnstol CARGOBIKE of SWEDEN Longtail Varia\" har samma SKU 1580-5 och EAN 7350097561254 (live, båda ACTIVE, lager 0, På beställning). Exakta dubbletter av andra aktiva annonser skrivs inte förrän en annons valts bort och lagret flyttats; tvillingen avvisades dessutom i k_46barn3 (46824) med säkerhetsskäl, så de två annonserna skulle få olika behandling. Texten i sig är korrekt: live ACTIVE, en variant 1580-5, 1749 kr; SKU och EAN bekräftade på https://cargobikeofsweden.com/sv/articles/2.8.409/skyddsram-for-barnsate-longtail; löftena (tryggt, säkert, skydda barnens händer) är utelämnade, standardblocket med leveranstidsmeningen exakt, format inom gränserna. Spärrad (utanfor-tills-vidare-2026-11-04) i sparrlista.json och behöver undantag. Utkastet kan återanvändas för den annons David väljer att behålla."
+ }
+]

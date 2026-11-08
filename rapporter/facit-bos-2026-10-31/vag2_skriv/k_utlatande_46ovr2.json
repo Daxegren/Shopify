@@ -1,0 +1,112 @@
+[
+ {
+  "nr": 47101,
+  "id": "10470932807946",
+  "fil": "k_46ovr2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Dig som söker en kroppsanalysvåg med sensorer för både fötter och händer",
+    "efter": "Dig som söker en kroppsanalysvåg med viktsensorer och handsensorer"
+   }
+  },
+  "skal": "Live ACTIVE, 75000, EAN 4005251750007, lager 2. Alla uppgifter står i egen svensk källa (4+4 sensorer, DSM-BIA/SMFIM, 43 parametrar, Bodypedia, 200 kg, mått, vikt, 4 x AA). Hälsorelaterade, exakta, hälsopoäng, patenterade och hälsa/träningsresultat är rätt utelämnade. 200 kg är en svensk rad med etikett och enhet och står en gång med \"enligt tillverkaren\" (R4/v1.10). \"Enligt tillverkaren\" står 2 gånger. Rättning: källan säger inte \"fötter\"; \"Passar för\" använder nu källans ord (R1). Ingen tillverkarsida hittades (webbsökning på SKU/EAN gav ingen träff), så texten bygger bara på egen källa. Typordet Kroppsanalysvåg följer profilens kategorinamn (live-titeln är \"Weight\"). Kategorin omfattas av beslutet 2026-11-08 (elektronik, tidigare utanför)."
+ },
+ {
+  "nr": 47102,
+  "id": "10470937755914",
+  "fil": "k_46ovr2_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 5534, EAN 5902114011758, lager 1. Ingredienser, dos, användning, varning och förvaring finns ordagrant i egen källa. Metabolismaktivatorer, stress/kost/träning, lättassimilerade och hälsosam livsstil är utelämnade; inga hälsopåståenden. Texten är konsekvent med det skrivna syskonet 60 kapslar (10470937788682, SKU 5533, egen EAN) men har egen titel, SEO och meta, så det är ingen dubblett. Gemena \"kapslar\" följer praxis i skrivna Trec-titlar. Ett äldre utkast för samma id (k_30a) är inte skrivet; produkten saknar texter-klara."
+ },
+ {
+  "nr": 47105,
+  "id": "10471019020554",
+  "fil": "k_46ovr2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Akupressurmatta Tunturi med kudde, Svart",
+    "efter": "Akupressurmatta Tunturi med Kudde, Svart"
+   }
+  },
+  "skal": "Live ACTIVE, 14TUSYO068, EAN 8717842035245, lager 0. Taggen På beställning finns och leveranstidsmeningen står i standardblocket (R13/v1.8). Mått, vikter, set med väska och avtagbart tvättbart överdrag finns i egen källa. Alla hälsopåståenden (avslappning, sömn, smärta, stress, cirkulation, energi) är utelämnade. OBS-raden återger bara de entydiga delarna av tillverkarens kontraindikationer, som upplysning och inte som löfte; det svarta setet saknar \"gravid\" i källan, vilket är rätt. Färgen står i live-titeln. Rättning R9: stor bokstav på beskrivande ord i titeln (Kudde, som i skrivna titlar \"med Främre Korg\"). Akupressur omfattas av beslutet 2026-11-08. Spärrlistan: produkten står i en aktiv spärr i sparrlista.json; skrivfil_kontroll.py stoppar den tills en undantagspost med Davids beslut 2026-11-08 läggs in (R14). Innehållet är granskat och dömt."
+ },
+ {
+  "nr": 47123,
+  "id": "10472276721930",
+  "fil": "k_46ovr2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Akupressurmatta Tunturi med kudde, Roséguld",
+    "efter": "Akupressurmatta Tunturi med Kudde, Roséguld"
+   }
+  },
+  "skal": "Live ACTIVE, 14TUSYO094, EAN 8717842037256, lager 3, ingen På beställning och ingen leveranstidsmening (rätt). Uppgifterna och OBS-raden (inklusive gravid) finns i egen källa; hälsopåståendena är utelämnade. Annan färg och EAN än 47105/47124, så ingen dubblett (beslut 2026-11-05). Rättning R9: Kudde i titeln. Spärrlistan: produkten står i en aktiv spärr i sparrlista.json; skrivfil_kontroll.py stoppar den tills en undantagspost med Davids beslut 2026-11-08 läggs in (R14). Innehållet är granskat och dömt."
+ },
+ {
+  "nr": 47124,
+  "id": "10472276984074",
+  "fil": "k_46ovr2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Akupressurmatta Tunturi med kudde, Mintgrön",
+    "efter": "Akupressurmatta Tunturi med Kudde, Mintgrön"
+   }
+  },
+  "skal": "Live ACTIVE, 14TUSYO092, EAN 8717842037232, lager 5, ingen På beställning. Samma bedömning som 47123. Rättning R9: Kudde i titeln. Spärrlistan stoppar inte denna. Obs: syskonet Ljusblå i k_46ovr1 har titelordningen \"Akupressurmatta med kudde Tunturi, Ljusblå\". Båda formerna är tillåtna, men titlarna bör göras enhetliga när skrivfilen byggs."
+ },
+ {
+  "nr": 47106,
+  "id": "10471232602378",
+  "fil": "k_46ovr2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Innersulan Zero-Shock sitter i hälområdet, och fästsystemet har remmar, klämma och knappar på fotvalvet.</p><h2>Passar för</h2><ul>\n<li>Dig som söker rullskridskor med tre hjul på 110 mm</li>\n<li>Dig som vill ha rullskridskor med aluminiumram och ABEC 9-lager</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Rullskridskor</li>\n<li>Märke: Fila</li>\n<li>Modell: Houdini Pro</li>\n<li>Ram: Aluminium, 6000-serien</li>\n<li>Hjul: 3 x 110 mm</li>\n<li>Lager: ABEC 9</li>\n<li>Stövel: Hög</li>\n<li>Innersula: Zero-Shock i hälområdet</li>\n<li>Vaddering: Förformad och anatomisk (Performance-fit)</li>\n<li>Fästsystem: Remmar, klämma och knappar på fotvalvet</li>",
+    "efter": "Innersulan Zero-Shock sitter i hälområdet.</p><h2>Passar för</h2><ul>\n<li>Dig som söker rullskridskor med tre hjul på 110 mm</li>\n<li>Dig som vill ha rullskridskor med aluminiumram och ABEC 9-lager</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Rullskridskor</li>\n<li>Märke: Fila</li>\n<li>Modell: Houdini Pro</li>\n<li>Ram: Aluminium, 6000-serien</li>\n<li>Hjul: 3 x 110 mm</li>\n<li>Lager: ABEC 9</li>\n<li>Stövel: Hög</li>\n<li>Innersula: Zero-Shock i hälområdet</li>\n<li>Vaddering: Förformad och anatomisk (Performance-fit)</li>"
+   }
+  },
+  "skal": "Live ACTIVE, totalInventory 7. Storlekarna 40–44 är alla black: 44 kostar 3 059 kr och de övriga 3 519 kr. Default Title delar SKU med 44. Titel, SEO och text låser varken storlek, pris eller färg (v1.7/v1.9), och färgen är rätt utelämnad eftersom live-titeln Svart/Vit inte stämmer med varianterna. Ram, hjul, lager, stövel, innersula och vaddering finns i egen källa och stämmer med återförsäljares uppgifter (3x110, ABEC 9). Löftesord (säkert, stabilitet, dämpning, hållbara, högpresterande) är utelämnade. Rättning R2: raden om fästsystemet (\"remmar, klämma och knappar på fotvalvet\") är maskinöversatt och går inte att verifiera, eftersom återförsäljarna anger snörning, spänne och rem olika. Den tas bort ur inledningen och specifikationen. Ett äldre utkast för samma id (a_2) har samma SEO-titel men är inte skrivet; produkten saknar texter-klara. Spärrlistan: produkten står i en aktiv spärr i sparrlista.json; skrivfil_kontroll.py stoppar den tills en undantagspost med Davids beslut 2026-11-08 läggs in (R14). Innehållet är granskat och dömt."
+ },
+ {
+  "nr": 47116,
+  "id": "10472253227274",
+  "fil": "k_46ovr2_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 15MW503200-U00T000, EAN 6418016050324, lager 2. Källan är maskinöversatt (finskt \"voide\", alltså valla, översatt som \"fett\"). Enligt återförsäljarna är Start-produkten en vallaborttagare (Start Ski Wax Remover 1000 ml). Typordet Fettlösare och uppgiften \"främst för att ta bort underhållsfett\" är därför fel, och källan motsäger sig själv (fettlösare eller glidvallningsborttagning) (R2/R3). Ett korrekt typord (vallaborttagning) har inget stöd i den egna källtexten (R7). Kemikalien har en ofullständig farovarning som bör stämmas av mot säkerhetsdatabladet. Kan inte rättas säkert."
+ },
+ {
+  "nr": 47118,
+  "id": "10472257323274",
+  "fil": "k_46ovr2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Liv Energize LF har TransTextura-tyg samt 4-vägs stretchtyg på baksidan och i panelerna, och handskarna är gjorda i mjukt mikrofibermaterial. Fingertopparna är avsedda för smartphoneanvändning.</p><h2>Passar för</h2><ul>\n<li>Dig som söker handskar med fingertoppar för smartphoneanvändning</li>\n<li>Dig som vill ha handskar i mikrofiber och stretchtyg",
+    "efter": "Liv Energize LF har TransTextura-tyg, 4-vägs stretchtyg på baksidan och i panelerna samt mjukt mikrofibermaterial. Fingertopparna är avsedda för smartphoneanvändning.</p><h2>Passar för</h2><ul>\n<li>Dig som söker handskar med fingertoppar för smartphoneanvändning</li>\n<li>Dig som vill ha handskar med mikrofiber och stretchtyg"
+   }
+  },
+  "skal": "Live ACTIVE. S/M/L är alla blue och kostar 379/379/389 kr; totalInventory 24. Samma artikel i olika storlekar (v1.9). Färgen får stå eftersom alla varianter är blå (v1.8), och storlekarna S, M och L säljs som varianter. TransTextura, 4-vägs stretchtyg, mikrofiber och fingertoppar för smartphone finns i egen källa. Skyddslöftet (skavsår vid fall), fukt- och torkegenskaper och \"andningsbart, krymper inte\" är rätt utelämnade. Rättning R1: källan säger \"Mjukt mikrofibermaterial\", inte att handskarna är gjorda av mikrofiber. Därför står nu \"har ... mikrofibermaterial\" och \"handskar med mikrofiber\". Ingen sport anges, vilket är rätt. Spärrlistan: produkten står i en aktiv spärr i sparrlista.json; skrivfil_kontroll.py stoppar den tills en undantagspost med Davids beslut 2026-11-08 läggs in (R14). Innehållet är granskat och dömt."
+ },
+ {
+  "nr": 47120,
+  "id": "10472265351434",
+  "fil": "k_46ovr2_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 30-1970, EAN 4044163019703, lager 6. Taggen På beställning finns och leveranstidsmeningen står i standardblocket. Bara tekniska uppgifter ur egen svensk källa. Regenerativ/förebyggande effekt, muskelgrupper och frekvensernas effekter är utelämnade; inga hälso- eller träningseffektlöften. 120 kg är en svensk rad med etikett och enhet och står en gång med \"enligt tillverkaren\". Det stöds av flera återförsäljare (BAUR, Kaufland) och av bruksanvisningen för best.-nr 1970; en enstaka eBay-uppgift om 150 kg bedöms som avvikande. 0,3 kW och 500 W återges som i källan med separata etiketter. Vibrationsplattor omfattas av beslutet 2026-11-08."
+ },
+ {
+  "nr": 47121,
+  "id": "10472269611274",
+  "fil": "k_46ovr2_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 12127, EAN 5902114019006, lager 5. Ingredienser, dos, användning, varning och förvaring finns ordagrant i egen källa. Alla hälsopåståenden (trötthet, stress, koncentration, sexuella funktioner, fysik) är utelämnade, liksom den motsägande raden om \"3 mg per dag\" (R2). Typordet Adaptogen (ett påståendeord) är bytt mot Kosttillskott enligt butikens tagg och de skrivna Trec-syskonen. Obs: Rhodiola markerades 2026-11-07 som \"väntar tills David svarat särskilt\". Beslutet 2026-11-08 omfattar kosttillskott generellt; David bör bekräfta att Rhodiola ingår."
+ }
+]

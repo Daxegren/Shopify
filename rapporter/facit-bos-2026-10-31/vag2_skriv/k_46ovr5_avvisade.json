@@ -1,0 +1,27 @@
+[
+ {
+  "id": "10541368377610",
+  "nr": 47620,
+  "skäl": "Varianterna M (28 919 kr) och L (25 149 kr) har olika pris och lager 0 (v1.9: skrivs inte utan lager); titeln anger C48 (48 cm = S i källans tabell) men varianterna är M och L (R3); variantfärgen är grön medan titeln säger Grigio Opaco."
+ },
+ {
+  "id": "10548291469578",
+  "nr": 47621,
+  "skäl": "Två varianter med olika SKU och olika pris (Default Title K25/2/3/1/19 11 169 kr, M / black K25/2/3/1/17 11 239 kr), lager 0 (v1.9: olika pris kräver lager); ramstorleken per variant framgår inte av egen källa (M 17\", L 19\" i tabellen), och Leader Fox är undantaget från slutsiffre-regeln."
+ },
+ {
+  "id": "10565595726090",
+  "nr": 47622,
+  "skäl": "Tunn källa: en enda rad (\"Fotstöd för Fiido T2-modellen\"), inga två entydiga fakta utöver titeln (R3); fotstöd är en bärande del och lastgräns saknas, så texten skulle bara bestå av \"Ej känd\". Ingen tillverkarsida med artikelnumret T2-REARPEGS hittad. Lager 0."
+ },
+ {
+  "id": "10581108261130",
+  "nr": 47623,
+  "skäl": "Tillverkarens sida (https://www.gymstick.com/knee-support-1-0-one-size.html, SKU 63062 och EAN 6430062510782 stämmer) motsäger sig: beskrivningen säger \"ankle support\" med stabilisering för \"sore knee\", medan titel och egen källa säger knästöd. Motsägande källa (R2); produkttypen är därmed oklar. Specifikationerna (gummi 30 %, polyester 35 %, nylon 35 %, 23,5 x 75 x 1 cm, 0,08 kg, grå-vit) skulle räcka först om David bekräftar att det är ett knästöd."
+ },
+ {
+  "id": "10581111734538",
+  "nr": 47624,
+  "skäl": "Källan stämmer inte entydigt (artikelnummer/EAN ska stämma): live-varianten har SKU 28000 och EAN 6430016901895, men tillverkarens sida (https://www.gymstick.com/telescopic-fit-walker-black.html) har SKU 28000BL och EAN 6430062513363, och egen källa har inga fakta. Kan inte styrkas att det är samma stavar."
+ }
+]

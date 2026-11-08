@@ -1,0 +1,47 @@
+[
+ {
+  "id": "10472250474762",
+  "nr": 46301,
+  "skäl": "Texten är redan skriven live (titel, SEO, meta, beskrivning med standardblock); bara taggen texter-klara saknas. Ingen omskrivning behövs, taggfråga lyfts separat. Lås."
+ },
+ {
+  "id": "10472284979466",
+  "nr": 46302,
+  "skäl": "Egen källa helt tom och ingen tillverkarsida verifierad (Look) att styrka uppgifterna mot; endast återförsäljarlistningar (EAN 3611720061560 = Keo Grip 0 grader). För tunn källa enligt beslutet."
+ },
+ {
+  "id": "10472262959370",
+  "nr": 46303,
+  "skäl": "Tunn källa: bara att satsen är ett batteripaket för Fiido Titan med batterihållare, 2 batterier och påsar. Elektronik får bara skrivas med ordagranna uppgifter ur källan, och webben ger ingen bekräftad specifikation för just denna sats (kapacitet, innehåll). Lager 0."
+ },
+ {
+  "id": "10472278163722",
+  "nr": 46304,
+  "skäl": "R3/v1.9: två varianter med olika SKU och pris (30-1872 439 kr, 30-1873 589 kr) som källan inte skiljer åt; titeln låser 2 x 3 kg. Möjligen olika artiklar (vikt). Lyft till uppdelning per vikt."
+ },
+ {
+  "id": "10472287371530",
+  "nr": 46305,
+  "skäl": "R3/v1.9: två varianter med olika SKU och pris (AHF-071 99 kr, AHF-072 139 kr) som källan inte skiljer åt; titeln låser 2 x 0,5 kg. Sannolikt olika vikter, olika artiklar. Lyft till uppdelning."
+ },
+ {
+  "id": "10472295923978",
+  "nr": 46306,
+  "skäl": "Exakt dubblett (R12a): samma modell och längd (AXA Fold Lite 80, 80 cm) som den aktiva, färdigskrivna annonsen 10472233107722 (Vikbart Lås AXA Fold Lite 80 i Legerat Stål, 80 cm, texter-klara). Lager måste flyttas först."
+ },
+ {
+  "id": "10472297791754",
+  "nr": 46307,
+  "skäl": "Produkttypen är oklar: live-titel och text säger pannlampa, men EAN 5400974036664 är barnhjälmen Lazer NutZ 2.0 KinetiCore. Texten motsäger sig själv; måste rättas i butiken före textning."
+ },
+ {
+  "id": "10472299299082",
+  "nr": 46308,
+  "skäl": "Egen källa helt tom, ingen EAN och bara titel/taggar (taggarna Cykellås/viktlås motsäger titeln Hantelvikter). Webben (endast återförsäljare) beskriver ett par skivlås för 50 mm stänger, men ingen tillverkarsida styrker det. Produkttypen oklar i butiken; för tunn källa."
+ },
+ {
+  "id": "10472300052746",
+  "nr": 46309,
+  "skäl": "R3/v1.9: tre varianter med olika SKU och pris (KRV-10 649 kr, KRV-16 och KRV-14 789 kr); titeln låser 10 kg. Olika vikter är olika artiklar. Lyft till uppdelning per vikt."
+ }
+]

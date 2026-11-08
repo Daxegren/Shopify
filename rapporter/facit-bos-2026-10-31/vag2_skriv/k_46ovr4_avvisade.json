@@ -1,0 +1,67 @@
+[
+ {
+  "id": "10472314503434",
+  "nr": 47401,
+  "skäl": "Produkttypen är oklar och källan trasig: titeln är engelska (\"Ice cats ANTi SKid Sole\"), texten maskinöversatt (\"ispåsar\", \"vintergrepp\") och taggen säger Skidor; kvar blir bara löften (säkert stöd, minskar risken för halka och fall). Inget godkänt typord."
+ },
+ {
+  "id": "10475431657738",
+  "nr": 47402,
+  "skäl": "Redan skriven: produkten har struktur-text, SEO-titel och meta (k_07a_utkast.json) men saknar bara taggen texter-klara; ska inte skrivas om utan beslut om taggen."
+ },
+ {
+  "id": "10475517772042",
+  "nr": 47403,
+  "skäl": "Elektronik med tunn källa (R3): egen källa har bara frekvens 5,3 kHz (redan i titeln) och en trasig frekvensomfångsrad; ingen entydig fakta utöver titeln. Ursprungsuppgiften (Italien) räcker inte."
+ },
+ {
+  "id": "10475980882186",
+  "nr": 47404,
+  "skäl": "Tunn och trasig källa (R2/R3): en enda mening (\"En svart reflekterande benfästeklämma\") plus märkesreklam; engelsk live-titel utan godkänt typord och artikelnumret 120967 hittades inte hos tillverkaren."
+ },
+ {
+  "id": "10476123783434",
+  "nr": 47405,
+  "skäl": "Varianter med olika pris (46299 och 40259 kr, samma SKU 1079014147) och lager 0: v1.9 skriver inte produkter utan lager med olika pris."
+ },
+ {
+  "id": "10476218679562",
+  "nr": 47406,
+  "skäl": "Varianter med olika pris (57569 och 50059 kr) och dubblerad SKU 1096021148 på två varianter, lager 0, och titeln låser färgen Frost Silver: v1.9 avvisar."
+ },
+ {
+  "id": "10487969939722",
+  "nr": 47407,
+  "skäl": "Samma modell och färg (Prism Dragonfly) är redan skriven som 10565633736970 med storleksvarianter; denna har en variant utan storlek (SKU B37LDBLMSIN06), källan listar XS–XL och Kona omfattas inte av slutsiffreregeln. Skillnaden går inte att fastställa utan gissning (R3/R12a)."
+ },
+ {
+  "id": "10488282251530",
+  "nr": 47408,
+  "skäl": "Varianter motsäger sig (v1.9): XL delar SKU B37LBGYSHFA58 med olika pris (38019 och 33059 kr) och färgerna gray/dark gray, lager 0."
+ },
+ {
+  "id": "10494939660554",
+  "nr": 47409,
+  "skäl": "Källan motsäger sig och saknar modelldata: färglistan anger både Svart och Blå, titeln ingen färg, variant utan storlek; i övrigt bara hälso- och prestationslöften (\"hjälper till att bränna 500–700 kalorier\"). Färre än två entydiga fakta (R2/R3)."
+ },
+ {
+  "id": "10494941495562",
+  "nr": 47410,
+  "skäl": "Två varianter med olika pris och olika streckkod (Default Title 2589 kr EAN 8026473450984 mot 44 / black 2249 kr EAN 8026473451004) där Default Title saknar storlek och färg: oklart om samma artikel (R3/v1.9); källan är dessutom allmän text som delas med andra Fila-modeller."
+ },
+ {
+  "id": "10494945001738",
+  "nr": 47411,
+  "skäl": "Varianter med olika pris (75659 och 65769 kr), dubblerad SKU 59RD104615, lager 0, och titeln låser färgen Vit Blå: v1.9 avvisar."
+ },
+ {
+  "id": "10503205519626",
+  "nr": 47412,
+  "skäl": "Varianter med olika pris (43109 och 37479 kr) och samma SKU 1079015247, lager 0 (v1.9); dessutom samma pris och modell som redan skrivna 10503202472202 (SKU 1079015248)."
+ },
+ {
+  "id": "10503212138762",
+  "nr": 47413,
+  "skäl": "Samma modell och färg (Revolt Advanced 2, Solar Flare) är redan skriven som 10503202472202 (SKU ending 248); denna är SKU 1079015246 med slutsiffra 6, där ramstorlek inte får härledas (beslut 2026-11-08), och lager 0. Skillnaden går inte att fastställa utan gissning (R12a)."
+ }
+]

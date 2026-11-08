@@ -1,0 +1,67 @@
+[
+ {
+  "id": "10523488190730",
+  "nr": 46501,
+  "skäl": "Redan skriven: live-texten har SEO-titel, meta, Passar för, Specifikationer och standardblock (Damcykel Romet Gazela 0). Skrivs inte om; taggen texter-klara saknas på produkten, vilket bör kontrolleras separat."
+ },
+ {
+  "id": "10523491467530",
+  "nr": 46502,
+  "skäl": "Tom live-beskrivning och ingen källa hittades på nätet för Giant Ding-A-Ling Flick (SKU 510000013); bara titeln finns, för tunn källa (R3)."
+ },
+ {
+  "id": "10581104754954",
+  "nr": 46503,
+  "skäl": "Tunn källa: beskrivningen består av löften (kompression, minskad skaderisk, hållning) och ger inga fakta utöver två storlekar; ingen tillverkarsida kunde läsas (R3, R5)."
+ },
+ {
+  "id": "10581106524426",
+  "nr": 46504,
+  "skäl": "Tunn källa: egen text är bara löften. Enda funna fakta (102 cm, max 100 kg) kommer från en enda återförsäljare (Galaxus), inte tillverkaren; varianterna 61026 och 61026-SC oförklarade. Ingen entydig källa (R1, R3)."
+ },
+ {
+  "id": "10581106557194",
+  "nr": 46505,
+  "skäl": "Varianterna är olika artiklar med olika SKU och pris (FL30 149 kr, BAR 299 kr, 1,25PU 119 kr, 10PU 699 kr m.fl., åtta stycken) och titeln låser 30 mm; olika artiklar avvisas (R3, v1.9)."
+ },
+ {
+  "id": "10581109702922",
+  "nr": 46506,
+  "skäl": "Varianter som är olika artiklar: Power Vest 10 kg (1 099 kr) och 20 (1 449 kr, SKU 61048-20); titeln låser 10 kg (R3, v1.9)."
+ },
+ {
+  "id": "10581110358282",
+  "nr": 46507,
+  "skäl": "Sju varianter med olika vikter 1,25-25 kg och priser 109-1 429 kr är olika artiklar; titeln låser 1,25 kg (R3, v1.9)."
+ },
+ {
+  "id": "10581110980874",
+  "nr": 46508,
+  "skäl": "Varianter som är olika artiklar: Default 22,5 kg (2 549 kr) och variant 0 (999 kr, SKU 61031-0); titeln låser 22,5 kg (R3, v1.9)."
+ },
+ {
+  "id": "10588448227594",
+  "nr": 46509,
+  "skäl": "Tom live-beskrivning; titeln ger bara volym 0,7 l och färg mint. Enda funna källor är återförsäljare (mygp.com) som inte bekräftar modellnumret 061; ingen entydig tillverkarsida (R1, R3)."
+ },
+ {
+  "id": "10588451471626",
+  "nr": 46510,
+  "skäl": "Två varianter med olika SKU och pris (25TUPLA092 1 499 kr, 25TUPLA091 739 kr) som sannolikt är olika vikter; titeln låser 10 kg och källan anger ingen vikt per variant (R3, v1.9)."
+ },
+ {
+  "id": "10588451504394",
+  "nr": 46511,
+  "skäl": "Två varianter med olika SKU och pris (25TUPLA093 1 579 kr, 25TUPLA094 1 669 kr) utan förklaring i källan; titeln låser 15 kg och live-titeln (Heavy bag) stämmer inte med källans Bulgarian Bag (R3, v1.9)."
+ },
+ {
+  "id": "10588451602698",
+  "nr": 46512,
+  "skäl": "Varianter oklara och motsägande: SKU 25TUPLA096 förekommer två gånger med olika pris (369 och 319 kr) plus 25TUPLA097 (319 kr); titeln låser 6 kg (R2, R3, v1.9)."
+ },
+ {
+  "id": "10605358055690",
+  "nr": 46513,
+  "skäl": "Redan skriven: produkten har titel och text med standardblock (Griptape Ethic Basic). Källan består bara av titeln, så ingen ytterligare text kan skrivas utan att gissa (R3)."
+ }
+]

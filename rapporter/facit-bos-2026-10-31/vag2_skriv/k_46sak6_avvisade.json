@@ -1,0 +1,57 @@
+[
+ {
+  "id": "10635809882378",
+  "nr": 41106,
+  "skäl": "Källan motsäger sig (R2): löptexten anger batteriet EnergyPak Smart 800 Wh, detaljraderna EnergyPak 625 Wh och räckvidd 167 km; webben stöder 625 Wh endast via återförsäljare och Giants sida för E+ 2, inte entydigt för exakt modell EX. Batteriet är en huvuduppgift för elcykeln. Dessutom lager 0."
+ },
+ {
+  "id": "10636687933706",
+  "nr": 20048,
+  "skäl": "R3/v1.9: tre paket med olika SKU, innehåll (vikter 1–5 kg) och pris (1 629, 1 799, 2 899 kr) är olika artiklar, inte samma artikel i olika storlek; titeln listar alla tre."
+ },
+ {
+  "id": "10636706349322",
+  "nr": 36101,
+  "skäl": "Live har redan vår text (standardblock, Passar för, Specifikationer), och varianterna är fem olika artiklar (5–25 kg, olika diameter, tjocklek, färg, pris, v1.9). Ingen ny text."
+ },
+ {
+  "id": "10636727025930",
+  "nr": 9357,
+  "skäl": "Titeln anger 30 mm men källan anger \"Diamteter på 31mm\" (taggen Viktlås 31mm) och ingen text anger 30 mm: motsägelse mellan titel och källa (R3) som inte kan avgöras ur egen källa."
+ },
+ {
+  "id": "10636752584970",
+  "nr": 9533,
+  "skäl": "Redan skriven: live har vår text (standardblock, SEO-titel och meta). Ingen ny text behövs."
+ },
+ {
+  "id": "10636758286602",
+  "nr": 35046,
+  "skäl": "Redan skriven: live har vår text (SEO-titel, meta, Passar för, Specifikationer, standardblock). Ingen ny text behövs."
+ },
+ {
+  "id": "10650210468106",
+  "nr": 31034,
+  "skäl": "R3/v1.9: varianterna 17360 (409 kr, 4 kg enligt titeln) och 17368 (1 949 kr) är kettlebells i olika vikter (källan anger intervallet 4–24 kg), alltså olika artiklar; källan anger inte vikten för 17368."
+ },
+ {
+  "id": "10656690372874",
+  "nr": 10029,
+  "skäl": "Exakt dubblett (R12a): två aktiva annonser med samma titel och samma text, Giant AnyTour RS 2 GB Ocean Storm (SKU 3009009117 18 099 kr och 3009009115 17 829 kr), båda lager 0; skillnaden (ramstorlek?) framgår inte av källan. Lager måste flyttas/annonserna redas ut först."
+ },
+ {
+  "id": "10656691912970",
+  "nr": 10030,
+  "skäl": "Exakt dubblett (R12a): samma som 10656690372874 (SKU 3009009115 17 829 kr mot 3009009117 18 099 kr), lager 0; inget i källan skiljer annonserna åt."
+ },
+ {
+  "id": "10656691618058",
+  "nr": 36009,
+  "skäl": "Exakt dubblett (R12a) av andra aktiva annonser: 10656691585290 (samma titel, SKU H9117TFT, EAN 8445960087678) och redan skrivna 10656691552522 (texter-klara). Lager måste flyttas först."
+ },
+ {
+  "id": "10665228173578",
+  "nr": 36001,
+  "skäl": "R3: tre varianter (SKU 520, 521, 522, samma pris) med oförklarade namn; källan anger inte vad de skiljer sig i (mönster eller färg) och titeln låser \"Black Flames\". Går inte att styrka att det är samma artikel."
+ }
+]

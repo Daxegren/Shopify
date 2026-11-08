@@ -1,0 +1,225 @@
+[
+ {
+  "nr": 47201,
+  "id": "10472280359178",
+  "fil": "k_46ovr3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Vitaminkapslar Trec Vitamin C 1000, 90 kapslar",
+    "efter": "Vitaminkapslar Trec Vit. C 1000, 90 kapslar"
+   },
+   "seo_title": {
+    "fore": "Vitaminkapslar Trec Vitamin C 1000",
+    "efter": "Vitaminkapslar Trec Vit. C 1000"
+   },
+   "meta": {
+    "fore": "Kosttillskottet Trec Vitamin C 1000 innehåller 1000 mg C-vitamin i 90 kapslar. Dosen är 1 kapsel per dag med 300 ml vatten, helst efter en huvudmåltid.",
+    "efter": "Kosttillskottet Trec Vit. C 1000 innehåller C-vitamin i 90 kapslar. Dosen är 1 kapsel per dag med 300 ml vatten, helst efter en huvudmåltid."
+   },
+   "html": {
+    "fore": "<p>Kosttillskottet Trec Vitamin C 1000 innehåller 1000 mg C-vitamin i kapselform. Förpackningen har 90 kapslar och rekommenderad daglig dos är 1 kapsel.</p><h2>Passar för</h2><ul>\n<li>Dig som söker C-vitamin i kapselform</li>\n<li>Dig som vill ha ett kosttillskott med fast dos om 1 kapsel per dag</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Kosttillskott i kapslar</li>\n<li>Innehåll: C-vitamin, 1000 mg</li>\n<li>Förpackning: 90 kapslar</li>\n<li>Ingredienser: C-vitamin, kapselkropp (hydroxipropylmetylcellulosa), klumpförebyggande medel (magnesiumstearat)</li>\n<li>Rekommenderad daglig dos: 1 kapsel</li>\n<li>Användning: 1 kapsel med 300 ml vatten, helst efter en huvudmåltid</li>\n<li>Förvaring: Burken stängd på en torr plats, 15–25 °C, och utom räckhåll för barn</li>\n<li>Obs: Överskrid inte den dagliga mängden. Använd inte som ersättning för en varierad kost. Enligt tillverkaren är produkten inte avsedd för barn, gravida eller ammande kvinnor. Produkten kan innehålla allergener som mjölk, soja, vete, korn, havre, ägg, jordnötter och nötter.</li>\n<li>Varning: Azorubin kan ha negativa effekter på barns aktivitet och uppmärksamhet.</li>\n</ul>",
+    "efter": "<p>Kosttillskottet Trec Vit. C 1000 innehåller C-vitamin i kapselform. Förpackningen har 90 kapslar och rekommenderad daglig dos är 1 kapsel.</p><h2>Passar för</h2><ul>\n<li>Dig som söker C-vitamin i kapselform</li>\n<li>Dig som vill ha ett kosttillskott med fast dos om 1 kapsel per dag</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Kosttillskott i kapslar</li>\n<li>Förpackning: 90 kapslar</li>\n<li>Ingredienser: C-vitamin, kapselkropp (hydroxipropylmetylcellulosa), klumpförebyggande medel (magnesiumstearat)</li>\n<li>Rekommenderad daglig dos: 1 kapsel</li>\n<li>Användning: 1 kapsel med 300 ml vatten, helst efter en huvudmåltid</li>\n<li>Förvaring: Burken stängd på en torr plats, 15–25 °C, och utom räckhåll för barn</li>\n<li>Obs: Överskrid inte den dagliga mängden. Använd inte som ersättning för en varierad kost. Enligt tillverkaren är produkten inte avsedd för barn, gravida eller ammande kvinnor. Produkten kan innehålla allergener som mjölk, soja, vete, korn, havre, ägg, jordnötter och nötter.</li>\n</ul>"
+   }
+  },
+  "skal": "Live ACTIVE, SKU 11664, EAN 5902114018443, 109 kr, lager 6. Källan blandar två produkter: löptexten gäller 'Vit. C Strong 1000' (tablett, bioflavonoider, zink, 1000 mg), medan live-titeln, ingredienslistan och 90 kapslar gäller Vit. C 1000 i kapslar (samma bedömning som k_utlatande_28i30cd, nr 30024). Rättning: produktnamnet följer live-titeln ('Vit. C 1000', som skrivna syskonet Trec Vit. C + L-Lysin); '1000 mg' utan bas (per kapsel eller dag) och bara ur Strong-texten stryks (R2); azorubinvarningen stryks eftersom azorubin inte finns i ingredienslistan (motsägelse, R2; samma praxis som 30024). Inga hälsopåståenden kvar."
+ },
+ {
+  "nr": 47202,
+  "id": "10472280424714",
+  "fil": "k_46ovr3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Isotoniskt pulver Trec Isotonic Sport Citron, 400 g",
+    "efter": "Isotoniskt Pulver Trec Isotonic Sport Citron, 400 g"
+   },
+   "seo_title": {
+    "fore": "Isotoniskt pulver Trec Isotonic Sport",
+    "efter": "Isotoniskt Pulver Trec Isotonic Sport"
+   }
+  },
+  "skal": "Live ACTIVE, SKU 13094, EAN 5902114019631, lager 2. Alla uppgifter finns ordagrant i källans ingredienslista, dos och varning; L-karnitin, taurin och B-vitaminer (finns bara i påståendetexten, inte i ingredienslistan) rätt utelämnade. Inga effektord (rehydrering, uthållighet, trötthet utelämnade). Rättning: stor bokstav på beskrivande ord i titel och SEO-titel (R9, format_regler.py)."
+ },
+ {
+  "nr": 47203,
+  "id": "10472280490250",
+  "fil": "k_46ovr3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Multivitamin för män Trec, 90 kapslar",
+    "efter": "Multivitamin för Män Trec, 90 kapslar"
+   },
+   "seo_title": {
+    "fore": "Multivitamin för män Trec",
+    "efter": "Multivitamin för Män Trec"
+   },
+   "html": {
+    "fore": "kapselskal (gelatin), multivitaminkomplex",
+    "efter": "kapselskal (gelatin eller hydroxipropylmetylcellulosa beroende på parti), multivitaminkomplex"
+   }
+  },
+  "skal": "Live ACTIVE, SKU 14286, EAN 5902114041687, lager 10. Ingredienser, dos, 3-månadersgräns och varningar stämmer; alla funktionspåståenden (celler, immunförsvar, testosteron, elektrolytbalans) utelämnade. Fel: källan anger kapselskal av gelatin (parti B) ELLER hydroxipropylmetylcellulosa (parti C) beroende på parti; utkastet skrev bara gelatin, vilket är fel för hälften av partierna. Rättning av ingrediensraden och stor bokstav på 'Män' (R9)."
+ },
+ {
+  "nr": 47204,
+  "id": "10472280621322",
+  "fil": "k_46ovr3_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 21337, EAN 5902114046668, lager 7. Typordet Antioxidant (effektbeteckning) byts mot Kosttillskott, som källans varningsrad använder (R7). Källans felaktiga 'lakritsrotsextrakt' för Berberis aristata utelämnat, bara latinska namnet används (R2). Ingredienser, halter (40 %, 2 % berberin, 95 % curcumin), dos och förvaring stämmer. Alla effektpåståenden (antiinflammatorisk, immunstärkande, blodsocker) utelämnade. Inga subtila löften."
+ },
+ {
+  "nr": 47205,
+  "id": "10472282063114",
+  "fil": "k_46ovr3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Finnlo by Hammer Autark 5.0 är ett hemmagym för styrketräning hemma. Det mäter 200 x 143 x 217 cm, kräver ett fritt utrymme på 200 x 160 x 217 cm och en takhöjd på minst 220 cm.</p><h2>Passar för</h2><ul>\n<li>Dig som söker ett hemmagym för styrketräning</li>\n<li>Dig som har en takhöjd på minst 220 cm</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Kraftstation (hemmagym)</li>\n<li>Märke: Finnlo by Hammer</li>\n<li>Modell: Autark 5.0</li>\n<li>Mått: 200 x 143 x 217 cm</li>\n<li>Nödvändigt fritt utrymme: 200 x 160 x 217 cm</li>\n<li>Minsta takhöjd: 220 cm</li>\n<li>Maximalt motstånd: 120 kg</li>\n<li>Artikelnummer: 3654</li>",
+    "efter": "<p>Finnlo by Hammer Autark 5.0 är ett hemmagym för styrketräning. Det mäter 200 x 143 x 217 cm, kräver ett fritt utrymme på 200 x 160 x 217 cm och en takhöjd på minst 220 cm. Maximal lastgräns är inte känd.</p><h2>Passar för</h2><ul>\n<li>Dig som söker ett hemmagym för styrketräning</li>\n<li>Dig som har en takhöjd på minst 220 cm</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Kraftstation (hemmagym)</li>\n<li>Märke: Finnlo by Hammer</li>\n<li>Modell: Autark 5.0</li>\n<li>Mått: 200 x 143 x 217 cm</li>\n<li>Nödvändigt fritt utrymme: 200 x 160 x 217 cm</li>\n<li>Minsta takhöjd: 220 cm</li>\n<li>Maximalt motstånd: 120 kg</li>\n<li>Maximal lastgräns: Ej känd</li>\n<li>Artikelnummer: 3654</li>"
+   }
+  },
+  "skal": "Live ACTIVE, lager 0, tagg På beställning (meningen finns i standardblocket). SKU 3654, EAN 4005251365409. Mått, fritt utrymme, takhöjd och maximalt motstånd 120 kg stämmer; totalvikten (80 och 255 kg) rätt utelämnad som motsägelse. Typord Kraftstation följer skrivna syskon (Finnlo Autark 600/2200). Inte exakt dubblett av skrivna 'Powerstation Hammer Autark 5.0' (10589703241994): annan SKU (14003) och EAN, och David 2026-11-05 räknar bara samma SKU/EAN som dubblett. Kraftstationen bär användaren och källan har bara 'Maximal driftsvikt: 150 kg', som inte får tolkas (R4). v1.10: webbsökning ger 150 kg bara hos återförsäljare (gigantti.fi 'Max. kapasiteetti 150 kg' för Ha3654, velomarket.ee för Hammer-varianten), inte på tillverkarens sida (hammer.de gick inte att läsa), så uppgiften är inte entydig från tillverkaren: 'Maximal lastgräns: Ej känd' läggs in i specifikationen och i texten. Dessutom tas dubblerat 'hemma' bort."
+ },
+ {
+  "nr": 47206,
+  "id": "10472284520714",
+  "fil": "k_46ovr3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Springcykel S'cool X Magnesium, 12 tum, 2-4 år",
+    "efter": "Springcykel S'cool X Magnesium, 12 tum, 2–4 år"
+   }
+  },
+  "skal": "Live ACTIVE, SKU 2050, EAN 4250969220506, lager 1. Aluminiumram, 12-tums luftfyllda däck, 3,4 kg och sadelhöjd 32–44 cm stämmer; 'snabbaste och lättaste', 'säkra', 'hållbara' utelämnade. Inga säkerhets- eller utvecklingslöften. Åldern finns bara i live-titeln och behålls där som förut. Rättning: tankstreck i intervallet 2–4 år (som skrivna 'Flickcykel Bobbin Gingersnap för 4–6 år')."
+ },
+ {
+  "nr": 47207,
+  "id": "10472286257418",
+  "fil": "k_46ovr3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Skydd för knän och armbågar Fuses Avengers, Blå",
+    "efter": "Skydd för Knän och Armbågar Avengers, Blå"
+   },
+   "seo_title": {
+    "fore": "Skydd för knän och armbågar Avengers",
+    "efter": "Skydd för Knän och Armbågar Avengers"
+   },
+   "html": {
+    "fore": "<p>Fuses Avengers är skydd för knän och armbågar avsedda för barn. De har Avengers-design och är vadderade.</p>",
+    "efter": "<p>Avengers-skydden för knän och armbågar är avsedda för barn. De har vaddering och Avengers-design i blått.</p>"
+   }
+  },
+  "skal": "Live ACTIVE, SKU 9062, EAN 5902308590625, lager 4. 'Fuses' är en maskinöversättning (estniska 'kaitsmed' = både säkringar och skydd), inget modellnamn; det tas bort ur titel och text (R2). Kvar är bara källans fakta: skydd för knän och armbågar, avsedda för barn, vaddering, Avengers-design, blå. 'Skyddar vid fall' och 'utmärkt skydd' rätt utelämnade; ordet skydd står bara som produktbenämning. Antal delar och storlek anges inte i källan och skrivs inte. Rättningar: titel (utan Fuses, R9), SEO (R9) och inledningen."
+ },
+ {
+  "nr": 47208,
+  "id": "10472287043850",
+  "fil": "k_46ovr3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Handskar Paw Patrol för barn, Storlek S",
+    "efter": "Handskar Paw Patrol för Barn, Storlek S"
+   },
+   "seo_title": {
+    "fore": "Handskar Paw Patrol för barn",
+    "efter": "Handskar Paw Patrol för Barn"
+   }
+  },
+  "skal": "Live ACTIVE, två varianter (Default Title 129 kr, lager 5; blue 109 kr, lager 2) med samma SKU 34011 och EAN: samma artikel i två färger med olika pris och lager > 0 (v1.9); titel, SEO och text låser varken färg eller pris. Storlek S och ålder 4–6 år gäller båda. Skydd mot stötar och repor och 'bekväm' utelämnade; trasig måttrad utelämnad. Rättning: stor bokstav på 'Barn' (R9)."
+ },
+ {
+  "nr": 47209,
+  "id": "10472295694602",
+  "fil": "k_46ovr3_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 59051595KS, EAN 8713249347189, lager 7. Kedjelås, 150 cm, 5 mm och fästa cykeln i olika objekt står i källan; 'pålitlig', 'bra säkerhet', 'slitstark' och 'motstå stöld' utelämnade. Typord Kedjelås ur källan (live-titelns norska 'Kettlukk'). AXA i versaler följer alla skrivna AXA-titlar. Inga säkerhetslöften."
+ },
+ {
+  "nr": 47210,
+  "id": "10472299135242",
+  "fil": "k_46ovr3_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU SRX-80EVO, EAN 8029975999623, lager 1. Remdrift, precisionsfriktionsbroms, justerbar sadel och styre, LCD, mått, 51 kg stämmer; svänghjulet (20 kg i text, 24 kg i specifikation) rätt utelämnat. 'Maximal användarvikt: 140 kg' är en svensk rad med etikett och enhet och står en gång med 'enligt tillverkaren' (R4). 'Hållbar', 'intensiva', 'realistisk' utelämnade. Inte dubblett av skrivna SRX-modeller."
+ },
+ {
+  "nr": 47211,
+  "id": "10472301920522",
+  "fil": "k_46ovr3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Akupressurmatta med kudde Tunturi Pro, Svart",
+    "efter": "Akupressurmatta med Kudde Tunturi Pro, Svart"
+   }
+  },
+  "skal": "Live ACTIVE, lager 0, tagg På beställning (meningen finns i standardblocket). SKU 14TUSYO095, EAN 8717842038451. Mått, kokosfiberfyllning, linne och bomull, bärväska, tvättbart överdrag och 2,4 kg stämmer. Alla effektord (koppla av, spänningar, cirkulation, nervändar, återhämtning, hudvänliga) och OCS-certifiering utelämnade. Beige syskon 10462850449674 är annan SKU/färg, ingen dubblett. Rättning: stor bokstav på 'Kudde' i titeln (R9)."
+ },
+ {
+  "nr": 47212,
+  "id": "10472301953290",
+  "fil": "k_46ovr3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Multivitamin för kvinnor Trec, 90 kapslar",
+    "efter": "Multivitamin för Kvinnor Trec, 90 kapslar"
+   },
+   "seo_title": {
+    "fore": "Multivitamin för kvinnor Trec",
+    "efter": "Multivitamin för Kvinnor Trec"
+   }
+  },
+  "skal": "Live ACTIVE, SKU=EAN 5902114041694, lager 12. Ingredienser, dos och alla varningar (tom mage, grönt te-extrakt, 800 mg EGCG) stämmer; källans 'ECGC' och 'linolensyra' är uppenbara stavfel och ändras till EGCG respektive bara CLA (bekräfta mot förpackningen). Påståenden om celler, immunförsvar, hud och hår utelämnade. Typord följer live-titeln på syskonet för män. Rättning: stor bokstav på 'Kvinnor' (R9)."
+ },
+ {
+  "nr": 47213,
+  "id": "10472302051594",
+  "fil": "k_46ovr3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Ingredienser: Uthållighetsformula [maltodextrin",
+    "efter": "<li>Ingredienser: Formula [maltodextrin"
+   }
+  },
+  "skal": "Live ACTIVE, SKU=EAN 5902114019624, lager 10. Ingredienser, dos 50 g (8 skopor), portion 25 g (4 skopor) i 500 ml, förvaring och varningar stämmer; alla prestanda- och trötthetspåståenden utelämnade. Ett subtilt prestandaord fanns kvar: ingrediensgruppens namn 'Uthållighetsformula' (källans 'PRO uthållighetssportformula'). Rättning: 'Formula', i linje med 'mineralformula' och 'vitaminformula'; innehållet i gruppen är oförändrat."
+ },
+ {
+  "nr": 47214,
+  "id": "10472308179210",
+  "fil": "k_46ovr3_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 010622085-38-5, lager 2. Engelsk källa: soft fitness roller skate, AirFlow-foder, hög stövel, spak, kardborre och ATOP-hjul, aluminiumram, 4 x 84 mm, ABEC 7, färg Black/Violet; allt återgivet utan komfort-, stöd- eller säkerhetsord. Titel och SEO sammanfaller med ett äldre oskrivet utkast (a_4_utkast.json, nr 2406) för samma produkt, som aldrig nådde butiken; ingen krock mot skrivna texter. Storlek nämns inte i källan; syskonet Legacy Pro 80 Lady har SKU-suffixen -37, -37-5 och -38-5 som storlekar, så detta par är troligen storlek 38,5 (se frågor). Ingen rättning."
+ },
+ {
+  "nr": 47215,
+  "id": "10472314274058",
+  "fil": "k_46ovr3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Vintergrepp Winter-Grip Anti Skid Sole Single, 35-40",
+    "efter": "Vintergrepp Winter-Grip Anti Skid Sole Single, 35–40"
+   },
+   "meta": {
+    "fore": "i storlek 35-40.",
+    "efter": "i storlek 35–40."
+   },
+   "html": {
+    "fore": "<p>Winter-Grip Anti Skid Sole Single är vintergrepp, även kallade isskydd, för vinterskor. De har gummitaggar och en elastisk gummisula och passar enligt tillverkaren de flesta skor, stövlar och träningsskor.</p><h2>Passar för</h2><ul>\n<li>Dig som söker vintergrepp till vinterskor</li>\n<li>Dig som söker vintergrepp i storlek 35-40</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Vintergrepp (isskydd)</li>\n<li>Märke: Winter-Grip</li>\n<li>Modell: Anti Skid Sole Single</li>\n<li>Storlek: 35-40</li>\n<li>Taggar: Gummi</li>\n<li>Sula: Elastisk gummisula</li>\n<li>Passar till: Skor, stövlar och träningsskor</li>\n",
+    "efter": "<p>Winter-Grip Anti Skid Sole Single är vintergrepp med gummitaggar och en elastisk gummisula. De passar enligt tillverkaren de flesta skor, stövlar och träningsskor.</p><h2>Passar för</h2><ul>\n<li>Dig som söker vintergrepp till skor och stövlar</li>\n<li>Dig som söker vintergrepp i storlek 35–40</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Vintergrepp</li>\n<li>Märke: Winter-Grip</li>\n<li>Modell: Anti Skid Sole Single</li>\n<li>Storlek: 35–40</li>\n<li>Taggar: Gummi</li>\n<li>Sula: Elastisk gummisula</li>\n<li>Passar till: Skor, stövlar och träningsskor</li>\n"
+   }
+  },
+  "skal": "Live ACTIVE, SKU WNT09633540, EAN 8716404237301, lager 8. Gummitaggar, elastisk gummisula, passar de flesta skor och stövlar och köldbeständighet ner till -20 grader står i källan; 'säkra', 'säker promenad', 'säkert stöd' och 'minskar risken för halka och fall' rätt utelämnade. Single är modellnamn (syskonet heter Double), inte antal. Rättningar: ordet 'isskydd' (skyddsord) tas bort ur text och specifikation; 'vinterskor' (finns inte i källan) ersätts med källans skor och stövlar; tankstreck i storleksintervallet 35–40 i titel, meta och text."
+ }
+]

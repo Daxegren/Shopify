@@ -1,0 +1,226 @@
+[
+ {
+  "nr": 46201,
+  "id": "10472243331338",
+  "fil": "k_46sak3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Broms Shimano Alivio BR-T4000 bak, Silver",
+    "efter": "Broms Shimano Alivio BR-T4000 Bak, Silver"
+   }
+  },
+  "skal": "Live ACTIVE, en variant EBRT4000RX43XSP, EAN 4524667610090, lager 41, ingen På beställning. 'rear' = bak, S65T, M65T4, 107 mm ur egen källa; V-broms och serienamnet Alivio T4000 (källans 'T400' är felstavning) från tillverkarens BR-T4000-sida. 'Pålitlig bromskraft' och 'flat trail-cyklister' rätt utelämnade. Bromsdel: ingen lastgräns (v1.10). DRAFT-syskonen 10472244085002 (fram) och 10472348483850 (bak, annan EAN) är inte aktiva, ingen dubblett. Titelns versaler (R9, format_regler.titel_versaler) rättas: positions- och beskrivande ord med stor bokstav, som praxis 46019 (\"6 Bultar\")."
+ },
+ {
+  "nr": 46202,
+  "id": "10472243593482",
+  "fil": "k_46sak3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Framnav Shimano HB-TX506, 36 hål, Svart",
+    "efter": "Framnav Shimano HB-TX506, 36 Hål, Svart"
+   }
+  },
+  "skal": "Live ACTIVE, VMEHBTX506AAL, EAN 4550170620837, lager 16. Egen källa tom, men live-titeln ger 100/36, svart och HB-TX506; 6-bultsfäste och snabbfattning från Shimanos HB-TX506-sida, artikelnummer EHBTX506AAL stämmer (36H svart). Nav är bärande del: 'Maximal lastgräns: Ej känd' i specifikation och text enligt v1.10, inga hållbarhetslöften. Titelns versaler (R9, format_regler.titel_versaler) rättas: positions- och beskrivande ord med stor bokstav, som praxis 46019 (\"6 Bultar\")."
+ },
+ {
+  "nr": 46203,
+  "id": "10472244019466",
+  "fil": "k_46sak3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Broms Shimano BR-R353 fram, Svart",
+    "efter": "Broms Shimano BR-R353 Fram, Svart"
+   },
+   "seo_title": {
+    "fore": "Broms Shimano BR-R353 fram",
+    "efter": "Broms Shimano BR-R353 Fram"
+   },
+   "html": {
+    "fore": "kompakt bågstorlek på 90 mm och finns i svart och silver.",
+    "efter": "kompakt bågstorlek på 90 mm och är svart."
+   }
+  },
+  "skal": "Live ACTIVE, VMEBRR353FX42XLP (FX = fram; live 'first' är maskinöversatt 'front'), EAN 4524667313342, lager 18. 90 mm bågstorlek och flat bar road-kompatibilitet står i egen källa (trasig rad) och hos tillverkaren; 'enligt tillverkaren' en gång. 'Säkerställa korrekt bromskraft', 'rörelsefrihet' utelämnade. RÄTTA: 'finns i svart och silver' anger färgalternativ som inte säljs i annonsen (bara svart) och låser fel bild av artikeln; ändras till 'är svart'. Titelns versaler (R9, format_regler.titel_versaler) rättas: positions- och beskrivande ord med stor bokstav, som praxis 46019 (\"6 Bultar\")."
+ },
+ {
+  "nr": 46204,
+  "id": "10472244642058",
+  "fil": "k_46sak3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Broms Shimano BR-R353 bak, Svart",
+    "efter": "Broms Shimano BR-R353 Bak, Svart"
+   },
+   "seo_title": {
+    "fore": "Broms Shimano BR-R353 bak",
+    "efter": "Broms Shimano BR-R353 Bak"
+   },
+   "html": {
+    "fore": "kompakt bågstorlek på 90 mm och finns i svart och silver.",
+    "efter": "kompakt bågstorlek på 90 mm och är svart."
+   }
+  },
+  "skal": "Live ACTIVE, VMEBRR353RX42XLP (RX = bak), EAN 4524667313366, lager 6. Samma bedömning som 46203; egen artikel (bak, annan EAN), ingen dubblett. RÄTTA: 'finns i svart och silver' till 'är svart'. Titelns versaler (R9, format_regler.titel_versaler) rättas: positions- och beskrivande ord med stor bokstav, som praxis 46019 (\"6 Bultar\")."
+ },
+ {
+  "nr": 46205,
+  "id": "10472244052234",
+  "fil": "k_46sak3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Broms Shimano BR-R451 bak, Svart",
+    "efter": "Broms Shimano BR-R451 Bak, Svart"
+   },
+   "seo_title": {
+    "fore": "Broms Shimano BR-R451 bak",
+    "efter": "Broms Shimano BR-R451 Bak"
+   }
+  },
+  "skal": "Live ACTIVE, VMEBRR451AR73L, EAN 4524667726616, lager 8, live-titel 'bak'. Dual-pivot, 57 mm reach, enkelpack, R50T2, fälgbredd 19–26 mm, max 32C och SUPER SLR ur egen källa; trasig breddrad och 'ökat däckutrymme' utelämnade. Bromsdel: ingen lastgräns. Titelns versaler (R9, format_regler.titel_versaler) rättas: positions- och beskrivande ord med stor bokstav, som praxis 46019 (\"6 Bultar\")."
+ },
+ {
+  "nr": 46206,
+  "id": "10472244871434",
+  "fil": "k_46sak3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Broms Shimano BR-R451 fram, Svart",
+    "efter": "Broms Shimano BR-R451 Fram, Svart"
+   },
+   "seo_title": {
+    "fore": "Broms Shimano BR-R451 fram",
+    "efter": "Broms Shimano BR-R451 Fram"
+   }
+  },
+  "skal": "Live ACTIVE, VMEBRR451AF73XL, EAN 4524667726654, lager 2. Samma fakta som 46205 ur egen källa; position fram från artikelnumrets AF (motsvarar AR = bak på 46205) och EAN-träffar hos flera återförsäljare. 'Finns i svart och silver' rätt utelämnat. Titelns versaler (R9, format_regler.titel_versaler) rättas: positions- och beskrivande ord med stor bokstav, som praxis 46019 (\"6 Bultar\")."
+ },
+ {
+  "nr": 46207,
+  "id": "10472244150538",
+  "fil": "k_46sak3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Kedja Shimano HG53, 9 växlar",
+    "efter": "Kedja Shimano HG53, 9 Växlar"
+   },
+   "seo_title": {
+    "fore": "Kedja Shimano HG53, 9 växlar",
+    "efter": "Kedja Shimano HG53, 9 Växlar"
+   }
+  },
+  "skal": "Live ACTIVE, VMECNHG53C116IS, EAN 4524667893547, lager 6. 9 växlar (titel), 116 länkar och 304 g ur egen källa räcker (R3: två fakta utöver titeln). Webbuppgifter användes inte eftersom EAN avviker; rätt. 'Tät konstruktion' utelämnad. Kedja är ingen lastgränsprodukt i v1.10. Titelns versaler (R9, format_regler.titel_versaler) rättas: positions- och beskrivande ord med stor bokstav, som praxis 46019 (\"6 Bultar\")."
+ },
+ {
+  "nr": 46208,
+  "id": "10472245461258",
+  "fil": "k_46sak3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Continental Ride Tour har dimensionen 32-630 och passar cyklar med 27-tums fälgar, som även kallas 630 mm eller 1 1/4 tum.",
+    "efter": "Continental Ride Tour har dimensionen 32-630 (27 x 1 1/4 tum) och passar 27-tums fälgar med diametern 630 mm."
+   }
+  },
+  "skal": "Live ACTIVE, VMCO0101161, EAN 4019238693447, lager 2. Befintlig text är löftestext (pålitlig, komfort, grepp, punkteringsskydd) och rätt utelämnad. 32-630/27 x 1 1/4 ur titeln; vajerkant och svart från återförsäljare med samma EAN (bike24). Däck frisläppta 2026-11-08; inga grepp- eller punkteringslöften kvar. Syskonet 42-622 (10462767284490) är annan dimension. RÄTTA: inledningen påstår att 27-tumsfälgar 'även kallas 630 mm eller 1 1/4 tum'; 1 1/4 tum är däckbredden, inte fälgen (följer en felaktig källrad). Spärrlistan: produkten står i en aktiv spärr i sparrlista.json; skrivfil_kontroll.py stoppar den tills en undantagspost med Davids beslut 2026-11-08 läggs in (R14). Innehållet är granskat och dömt."
+ },
+ {
+  "nr": 46209,
+  "id": "10472256110858",
+  "fil": "k_46sak3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Cykelklockan Wish har Wish-tema, är gjord för barncyklar och har metallkropp. Klockan är lila och har artikelnummer 59360.",
+    "efter": "Den här cykelklockan är gjord för barncyklar, har Wish-tema och är av metall. Klockan är lila och har artikelnummer 59360."
+   },
+   "html": {
+    "fore": "<p>Cykelklockan Wish har Wish-tema och är gjord för barncyklar.",
+    "efter": "<p>Den här cykelklockan är gjord för barncyklar och har Wish-tema."
+   }
+  },
+  "skal": "Live ACTIVE, 59360, EAN 5902308593602, lager 7. Barncykelklocka, Wish-tema och metall ur egen källa, lila ur titeln; 'säkerställer cyklistens säkerhet', 'behagliga ljud' och oklar linsdiameter rätt utelämnade. Syskonen i Wish-serien är andra artiklar. RÄTTA: inledningen i html och meta är cirkulär ('Cykelklockan Wish har Wish-tema', R11), och 'metallkropp' är mer än källans 'metall'."
+ },
+ {
+  "nr": 46210,
+  "id": "10472251654410",
+  "fil": "k_46sak3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "har antimikrobiell vaddering och kropp",
+    "efter": "har TransTexture-vaddering och kropp"
+   },
+   "html": {
+    "fore": "har antimikrobiell TransTexture-vaddering och kropp av gjuten polykarbonat. Hjälmen är avsedd för barn mellan 4 och 10 år och har storleken 50–55 cm.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en barnhjälm för barn mellan 4 och 10 år</li>\n<li>Dig som vill ha en barnhjälm med antimikrobiell vaddering</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Barnhjälm</li>\n<li>Märke: Giant</li>\n<li>Modell: Musa</li>\n<li>Storlek: 50–55 cm</li>\n<li>Ålder: 4–10 år</li>\n<li>Kropp: Gjuten polykarbonat</li>\n<li>Vaddering: Antimikrobiell (TransTexture)</li>",
+    "efter": "har TransTexture-vaddering och kropp av gjuten polykarbonat. Hjälmen är avsedd för barn mellan 4 och 10 år och har storleken 50–55 cm.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en barnhjälm för barn mellan 4 och 10 år</li>\n<li>Dig som söker en barnhjälm i storlek 50–55 cm</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Barnhjälm</li>\n<li>Märke: Giant</li>\n<li>Modell: Musa</li>\n<li>Storlek: 50–55 cm</li>\n<li>Ålder: 4–10 år</li>\n<li>Kropp: Gjuten polykarbonat</li>\n<li>Vaddering: TransTexture</li>"
+   }
+  },
+  "skal": "Live ACTIVE, 800002252, EAN 4713250839349, lager 3. Egen källa motsäger sig om ålder (5–10/4–10 år); flera återförsäljare med exakt EAN och MPN anger 50–55 cm och 4–10 år (sssports.com/4713250839349, velomarket.ee Musa Gloss Bubble White 50-55 cm), så 4–10 år och 50–55 cm godtas (v1.6). Säkerhet, passform, polystyrenraden och märkestext rätt utelämnade. RÄTTA: 'antimikrobiell' är ett hälsopåstående och stryks i meta, brödtext, Passar för och specifikation (praxis 46103/46104 och Giant Doublespring); vadderingen anges bara med namnet TransTexture. Spärrlistan: produkten står i en aktiv spärr i sparrlista.json; skrivfil_kontroll.py stoppar den tills en undantagspost med Davids beslut 2026-11-08 läggs in (R14). Innehållet är granskat och dömt."
+ },
+ {
+  "nr": 46211,
+  "id": "10472252244234",
+  "fil": "k_46sak3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Barnhjälm Limar Kid Pro S",
+    "efter": "Barnhjälm Limar Kid Pro S Ghost Blue"
+   },
+   "meta": {
+    "fore": "antibakteriell och tvättbar stoppning",
+    "efter": "tvättbar stoppning"
+   },
+   "html": {
+    "fore": "11 ventilationshål, antibakteriell och tvättbar stoppning och justeras med Competition + Fit-System.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en barnhjälm i storlek S, 46–52 cm</li>\n<li>Dig som vill ha en barnhjälm med tvättbar stoppning</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Barnhjälm</li>\n<li>Märke: Limar</li>\n<li>Modell: Kid Pro S</li>\n<li>Storlek: S, 46–52 cm</li>\n<li>Ventilation: 11 ventilationshål</li>\n<li>Stoppning: Antibakteriell och tvättbar</li>",
+    "efter": "11 ventilationshål, tvättbar stoppning och justeras med Competition + Fit-System.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en barnhjälm i storlek S, 46–52 cm</li>\n<li>Dig som vill ha en barnhjälm med tvättbar stoppning</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Barnhjälm</li>\n<li>Märke: Limar</li>\n<li>Modell: Kid Pro S</li>\n<li>Storlek: S, 46–52 cm</li>\n<li>Ventilation: 11 ventilationshål</li>\n<li>Stoppning: Tvättbar</li>"
+   }
+  },
+  "skal": "Live ACTIVE, GCKIDSCEIGS, EAN 8055186665651, lager 3. Storlek S 46–52 cm, 11 ventilationshål, tvättbar stoppning, Competition + Fit-System och blå ur egen källa; 'utmärkt ventilation', 'säkerhet', 'skydd' och märkeshistorik utelämnade. Space Blue (10577688527114) och Kid Pro M (DRAFT) är andra artiklar. RÄTTA: 'antibakteriell' är hälsopåstående och stryks (praxis 46103/46104). SEO-titeln 'Barnhjälm Limar Kid Pro S' krockar med utkastet för Space Blue i k_46sak5_utkast.json (R12); färgen läggs till. Spärrlistan: produkten står i en aktiv spärr i sparrlista.json; skrivfil_kontroll.py stoppar den tills en undantagspost med Davids beslut 2026-11-08 läggs in (R14). Innehållet är granskat och dömt."
+ },
+ {
+  "nr": 46212,
+  "id": "10472262566154",
+  "fil": "k_46sak3_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, MUA.K004M.XS, EAN 4260243722022, lager 8, en variant. Allt ur egen engelsk källa: gul med dinosaurier, 3–7 år, XXS/S 46–52 cm (stämmer med XS i artikelnumret), tre tjocklekar stoppning, Fidlock, 12 ventilationshål, Spin Dial, under 300 g, PC/EPS, vinteröverdrag tillval. 'Protect them', 'grow with your child', 'extra-safe EPS', 'hygienic' och märkestext rätt utelämnade. Ingen dubblett (EAN-sökning). Spärrlistan: produkten står i en aktiv spärr i sparrlista.json; skrivfil_kontroll.py stoppar den tills en undantagspost med Davids beslut 2026-11-08 läggs in (R14). Innehållet är granskat och dömt."
+ },
+ {
+  "nr": 46213,
+  "id": "10472292188426",
+  "fil": "k_46sak3_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 030032975S, EAN 3267654952414, lager 2. Stad/cykelbana, storlek S 53–55 cm och 370 g ur egen källa; skyddsfunktionen mot stötar bakifrån, 'säkerhet och komfort' och ursprung rätt utelämnade. Tunn men tillräcklig källa (R3). Vuxen-EON-syskonen är andra artiklar. Spärrlistan: produkten står i en aktiv spärr i sparrlista.json; skrivfil_kontroll.py stoppar den tills en undantagspost med Davids beslut 2026-11-08 läggs in (R14). Innehållet är granskat och dömt."
+ },
+ {
+  "nr": 46214,
+  "id": "10472261976330",
+  "fil": "k_46sak3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Modell: New York</li>",
+    "efter": "<li>Modell: Posh</li>\n<li>Utförande: New York</li>"
+   }
+  },
+  "skal": "Live ACTIVE, två varianter med samma SKU MUA.P106M.XL och EAN 4260243725382 (Default Title 1 599 kr, 'XL / green' 1 399 kr), lager 9: överbliven Default Title enligt v1.7; titeln låser varken färg eller pris. XL/XXL 58–63 cm verifierad för exakt artikelnummer hos meinhartje.com (melon helmet 'Posh' New York grey matt, XL-XXL 58-63 cm, MUA.P106M.XL). Fidlock, 12 hål, Spin Dial, EPS/PC, under 300 g, vinterskydd ur egen källa; 'säkerhet', 'perfekt skydd', 'stark' utelämnade. Färg rätt utelämnad (variant säger green, återförsäljaren grey matt). RÄTTA: tillverkarens modell är Posh och New York är utförandet (samma praxis som 46016); specifikationsraden delas."
+ },
+ {
+  "nr": 46215,
+  "id": "10472258011402",
+  "fil": "k_46sak3_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, två varianter med samma SKU 28230568-A och EAN (Default Title 8 549 kr lager 1, 'XL / hall' 7 439 kr lager 0), totalt lager 1: v1.7/v1.9 uppfyllda, titel och text låser inte storlek, färg eller pris. Taggen På beställning finns och leveranstidsmeningen står i standardblocket (annars tecken för tecken lika). Aluminiumram, inre kabeldragning, 28 tum, 21 växlar Shimano Tourney/Altus, V-bromsar, fästpunkter och medföljande utrustning ur egen källa; 'motståndskraftig', 'perfekta', ramstorlekar och den ospecificerade vikten rätt utelämnade. Titeln följer skrivna Wagant-syskon ('21 Växlar'). Ingen dubblett."
+ }
+]

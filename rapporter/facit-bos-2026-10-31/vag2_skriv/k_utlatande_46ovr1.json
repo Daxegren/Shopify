@@ -1,0 +1,107 @@
+[
+ {
+  "nr": 47001,
+  "id": "10411495817482",
+  "fil": "k_46ovr1_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Rullskridskor Fila Legacy Pro 84 Röd",
+    "efter": "Rullskridskor Fila Legacy Pro 84 Svart-Röd"
+   }
+  },
+  "skal": "Live ACTIVE, Fila, varianter 45.5/46/47 (2429/2119/2119 kr), samma färg BLKRED, lager 3: v1.9 uppfylld, titel/SEO/text låser varken storlek eller pris. Fakta ur egen källa (Air-Flow, nybörjare och avancerade, justerbar bromsvinkel och intensitet); 'enligt tillverkaren' två gånger. 'Stötdämpning och prestanda', 'stabila hjul', 'bekväma' rätt utelämnade. RÄTTA: SEO-titeln angav bara 'Röd' fast färgen är svart-röd; full färg behövs också för att skilja från oskrivna Legacy Pro 84 svart-grå (10494941495562) och 84 Lady. Spärrlistan stoppar produkten i skrivfil_kontroll.py (utanfor-tills-vidare-2026-11-04) tills undantag läggs in enligt beslutet 2026-11-08 (R14)."
+ },
+ {
+  "nr": 47002,
+  "id": "10411850432778",
+  "fil": "k_46ovr1_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, WNT096441/46, EAN 8716404237332, 209 kr, lager 21. Uppgifter ur egen källa (gummitaggar, elastisk gummisula, 41-46, de flesta skor och stövlar, köldbeständighet -20 grader). Säkerhetsorden 'säkert', 'fast grepp', 'minskar risken att halka och falla', 'slitstarka' rätt utelämnade. Märket Winter-Grip kommer ur produktens vendor-fält och tagg (egen live-data), godtas. Inga löften. Ingen dubblett (ensam i butiken). Inte i spärrlistan."
+ },
+ {
+  "nr": 47003,
+  "id": "10411932647690",
+  "fil": "k_46ovr1_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Mäter: Vikt,",
+    "efter": "<li>Mätvärden enligt tillverkaren: Vikt,"
+   }
+  },
+  "skal": "Live ACTIVE, 14TUSSP002, EAN 8717842037669, 259 kr, lager 6. Mätlista, mått, vikt, batterier ordagrant ur källan; 'Maximal belastningsvikt: 180 kg' är svensk ordagrann rad med etikett och enhet, en gång 'enligt tillverkaren' (R4). Hälsoformuleringar ('överblick över din hälsa', 'förbättra sin hälsa') utelämnade. RÄTTA (subtilt): listan med kroppsparametrar (fettprocent, intraabdominellt fett, kroppsålder m.fl.) stod som egen sakuppgift 'Mäter:'; den attribueras nu till tillverkaren så att texten inte själv utlovar mätningar av hälsoparametrar (2 'enligt tillverkaren' totalt). Typordet Våg följer live-titeln, svarta syskonet behåller Smartvåg (R7). Spärrlistan stoppar produkten i skrivfil_kontroll.py (tidigare-avvisade-2026-11-04) tills undantag läggs in enligt beslutet 2026-11-08 (R14)."
+ },
+ {
+  "nr": 47004,
+  "id": "10462778392842",
+  "fil": "k_46ovr1_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Mäter: Vikt,",
+    "efter": "<li>Mätvärden enligt tillverkaren: Vikt,"
+   }
+  },
+  "skal": "Live ACTIVE, 14TUSSP001, EAN 8717842035467, 269 kr, lager 6. Annan SKU/EAN och färg än 47003, ingen dubblett. Samma bedömning och samma rättning av 'Mäter:' som 47003. Typord Smartvåg ur live-titeln. Inte i spärrlistan."
+ },
+ {
+  "nr": 47005,
+  "id": "10460947054858",
+  "fil": "k_46ovr1_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Giant Roam 2 har raka styren, ram av ALUXX-aluminium och 20 växlar med Shimano Cues. Cykeln har fästpunkter för pakethållare och stänkskärmar.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en hybridcykel med raka styren</li>\n<li>Dig som vill kunna montera pakethållare och stänkskärmar</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Hybridcykel</li>\n<li>Märke: Giant</li>\n<li>Modell: Roam 2</li>\n<li>Ram: ALUXX-aluminium, skivbroms</li>",
+    "efter": "<p>Giant Roam 2 har rakt styre, ram av ALUXX-aluminium och 20 växlar med Shimano Cues. Cykeln har fästpunkter för pakethållare och stänkskärmar.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en hybridcykel med rakt styre</li>\n<li>Dig som vill kunna montera pakethållare och stänkskärmar</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Hybridcykel</li>\n<li>Märke: Giant</li>\n<li>Modell: Roam 2</li>\n<li>Ram: ALUXX-aluminium, för skivbroms</li>"
+   }
+  },
+  "skal": "Live ACTIVE, varianter S/gray 1082009184 och L/gray 1082009187, båda 16849 kr, lager 1+1, tagg På beställning (leveranstidsmeningen finns). Bara S och L nämns (v1.5/v1.8). Specifikationerna stämmer med egen källa och med https://www.giant-bicycles.com/ee/roam-2-2025 (ALUXX, SR Suntour NEX HLO 63 mm, Tektro TKD-143, CrossCut 700x42c, Shimano CUES 2x10 = 20 växlar). Giant anger bara färgerna Asphalt Green och Black för Roam 2; svarta syskonet 10460947087626 (1082009285/287) är redan skrivet, så denna är Asphalt Green; variantnamnet 'gray' är leverantörens förenkling, färgen står bara i titeln som i live. RÄTTA: 'raka styren' (felaktig plural, två ställen) blir 'rakt styre', och specifikationsraden 'Ram: ALUXX-aluminium, skivbroms' är otydlig och blir 'för skivbroms'. Rättningen ges som ett sammanhängande stycke. Spärrlistan stoppar produkten i skrivfil_kontroll.py (tidigare-avvisade-2026-11-04) tills undantag läggs in enligt beslutet 2026-11-08 (R14)."
+ },
+ {
+  "nr": 47006,
+  "id": "10462155473162",
+  "fil": "k_46ovr1_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, VMICSM8000142, EAN 4524667322238, 2099 kr, lager 9. EAN bekräftad som Shimano Deore XT CS-M8000 11-växlad 11-42T (ICSM8000142, https://www.bike24.com/p2124061.html, https://bike.shimano.com/en-SG/product/component/grx-di2/CS-M8000.html). DYNA-SYS11, drevbärare i legering, aluminium- och ståldrev ur egen källa. Viktminskning, hållbarhet, exakt växling och effektivitet rätt utelämnade. Drivlina, ej bärande med lastuppgift. Inte i spärrlistan."
+ },
+ {
+  "nr": 47007,
+  "id": "10462850449674",
+  "fil": "k_46ovr1_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 14TUSYO096, EAN 8717842038468, 699 kr, lager 2, tagg På beställning (meningen finns). Bara material, innehåll och vikt; alla effektlöften (spänningar, cirkulation, nervändar, återhämtning, avslappning) och OCS utelämnade. Motsägande måttrader och oklar kuddfyllning rätt utelämnade (R2). Annan SKU än svarta Pro (47211) och övriga färger; SEO unik. Spärrlistan stoppar produkten i skrivfil_kontroll.py (tidigare-avvisade-2026-11-04) tills undantag läggs in enligt beslutet 2026-11-08 (R14)."
+ },
+ {
+  "nr": 47008,
+  "id": "10468719493386",
+  "fil": "k_46ovr1_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 14TUSYO091, EAN 8717842037225, 319 kr, lager 3. Mått, vikter, överdrag och innehåll ur egen källa; alla effektlöften utelämnade. Källans medicinska varningstext är utelämnad; den innehåller själv ett medicinskt påstående (oxytocin, sammandragningar) och tas därför inte in utan Davids besked (se frågor). Unik mot färgsyskonen i k_46ovr2. Spärrlistan stoppar produkten i skrivfil_kontroll.py (tidigare-avvisade-2026-11-04) tills undantag läggs in enligt beslutet 2026-11-08 (R14)."
+ },
+ {
+  "nr": 47009,
+  "id": "10469226512650",
+  "fil": "k_46ovr1_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "när ställer är monterat.",
+    "efter": "när stället är monterat."
+   }
+  },
+  "skal": "Live ACTIVE, 4199, lager 0, tagg På beställning (meningen finns; beställningsvara, skrivs enligt beslutet 2026-11-08). Egen källa är engelsk och delvis trasig; bara entydiga rader används (R2). v1.10: lastgränsen i egen källa är engelsk och artikelnumret kunde inte knytas till tillverkarens Parma 4-sida, därför 'Maximal lastgräns: Ej känd' i spec och text, vilket är tillåtet. Typgodkännande och 'mest ekonomiska' rätt utelämnade. RÄTTA: stavfel 'ställer' blir 'stället'. Inte i spärrlistan."
+ },
+ {
+  "nr": 47010,
+  "id": "10470896173322",
+  "fil": "k_46ovr1_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, Default Title (överbliven) och 40.5/black med samma SKU, lager 1+1: v1.7, färg, storlek och pris utelämnade. Fakta ur egen källa (damer, fritidsåkning, mjuk sko med nät, fästning, Air Flow, aluminiumchassi, 4 hjul 80 mm 82A, ABEC 5). 'Hög komfort', 'stabil gång', 'håller fötterna torra' rätt utelämnade. Ensam Mizar i butiken. Spärrlistan stoppar produkten i skrivfil_kontroll.py (utanfor-tills-vidare-2026-11-04) tills undantag läggs in enligt beslutet 2026-11-08 (R14)."
+ }
+]

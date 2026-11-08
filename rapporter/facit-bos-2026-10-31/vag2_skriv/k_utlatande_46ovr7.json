@@ -1,0 +1,85 @@
+[
+ {
+  "nr": 47601,
+  "id": "10636681773322",
+  "fil": "k_46ovr7_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "har 6 210 plastspikar, kudden 1 971.",
+    "efter": "har 6 210 spikar, kudden 1 971."
+   }
+  },
+  "skal": "Live ACTIVE, Gorilla Sports Norden, sju färgvarianter 101043-000xx-0001 (EAN 42506631035xx), alla 549 kr, totalInventory 794 (v1.9: samma artikel i olika färg, ingen färg låst). Akupressur/rehab frisläppt för aktiva produkter 2026-11-08. Alla mått, antal knoppar/spikar, material och innehåll stämmer ordagrant mot egen källa. Effektord (blodcirkulation, smärta, avslappning, akupressur) rätt utelämnade. Rättning: meta 'plastspikar' har inget stöd (källan anger bara att knopparna är av plast). Inga dubbletter (EAN/SKU bara här)."
+ },
+ {
+  "nr": 47602,
+  "id": "10650167640330",
+  "fil": "k_46ovr7_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "och har en förlängd fästanordning med snoddfäste.",
+    "efter": "och har en längre fästanordning."
+   },
+   "html": {
+    "fore": "Det har en längre fästanordning med snoddfäste.</p><h2>Passar för</h2><ul>\n<li>Dig som söker ett kedjestagsskydd i neopren</li>\n<li>Dig som vill ha ett kedjestagsskydd med snoddfäste</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Kedjestagsskydd</li>\n<li>Märke: SKS</li>\n<li>Material: Flexibelt neopren</li>\n<li>Fäste: Längre fästanordning med snoddfäste</li>",
+    "efter": "Det har en längre fästanordning.</p><h2>Passar för</h2><ul>\n<li>Dig som söker ett kedjestagsskydd i neopren</li>\n<li>Dig som vill ha ett kedjestagsskydd med längre fästanordning</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Kedjestagsskydd</li>\n<li>Märke: SKS</li>\n<li>Material: Flexibelt neopren</li>\n<li>Fäste: Längre fästanordning</li>"
+   }
+  },
+  "skal": "Live ACTIVE, SKU 10994, EAN 4002556440633, lager 0, tagg På beställning; leveranstidsmening finns. Typordet stöds av live-titeln och av bike-components.de (SKS Chainstay Protector, tillverkarnr 10994) och bike24 (EAN 4002556440633, neopren). Skyddslöften (förhindrar skador och repor, tillförlitligt skydd, slitstarkt) rätt utelämnade. Rättning: 'snoddfäste' är sannolikt maskinöversättning och motsägs av återförsäljarnas kardborreband (R2: utelämna); kvar står neopren, flexibelt material och längre fästanordning."
+ },
+ {
+  "nr": 47603,
+  "id": "10650208993546",
+  "fil": "k_46ovr7_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 1090029180, EAN 4711291240063, lager 0, tagg På beställning; leveranstidsmening finns. Tidigare underkänd som möjlig säkerhetsprodukt (7163, 20059); släppt av Davids beslut 2026-11-08. Alla specifikationer stämmer mot egen källa och mot giant-bicycles.com/ee/stp-26 (2026, Quicksilver): [F] mekanisk skivbroms 180 mm, [R] Shimano MT500 hydraulisk 160 mm, Marzocchi Bomber DJ 36 mm/GRIP/20x110/100 mm, Kenda Booster 26x2.25, Contact TR35. (bike24 med samma artikelnummer anger MT501/MT500 runt om, men tillverkarsidan och egen källa är samstämmiga.) Användningsområdet står en gång som 'enligt tillverkaren'; hopp-, kontroll- och hållbarhetslöften utelämnade. SEO lika titeln, unik mot butiken (äldre utkast k_02a/k_16 för samma id ersätts)."
+ },
+ {
+  "nr": 47604,
+  "id": "10656692044042",
+  "fil": "k_46ovr7_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, totalInventory 3; L 1082011287 13 989 kr (lager 2), XL 1082011288 13 999 kr, plus överbliven Default Title med samma SKU/EAN som XL (v1.7: ignoreras). v1.9: samma artikel i två storlekar med olika pris och lager > 0; titel/SEO/meta låser varken storlek eller pris, och specifikationen nämner bara sålda storlekar L och XL (v1.5). Typord och format följer skrivna syskon (Roam 3 Metall, Ultra Navy). Fakta stämmer mot egen källa; punkteringsskydd och komfort/stabilitetsord utelämnade. Tagg På beställning: leveranstidsmening finns."
+ },
+ {
+  "nr": 47605,
+  "id": "10665226797322",
+  "fil": "k_46ovr7_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 418, EAN 7350051864186, lager 2. Reflex frisläppt 2026-11-08 (tidigare b_25). Bara fakta: form (källans 'Rektangel'), fäste på dragkedja, färg från live-titeln. Inga synlighets- eller säkerhetslöften. Titeln unik mot 47606 och butikens Soft Reflector-produkter (barnvarianterna heter Soft Adventure). Ingen dubblett."
+ },
+ {
+  "nr": 47606,
+  "id": "10665226862858",
+  "fil": "k_46ovr7_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 423, EAN 7350051864230, lager 1. Bara fakta ur källan (rund form, fäste på dragkedja, färg vit ur live-titeln). Synlighets- och säkerhetsord utelämnade. Unik titel, SEO och meta. Ingen dubblett."
+ },
+ {
+  "nr": 47607,
+  "id": "10665226928394",
+  "fil": "k_46ovr7_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Material: Elastiska band</li>",
+    "efter": "<li>Band: Elastiska</li>"
+   }
+  },
+  "skal": "Live ACTIVE, SKU 531, EAN 7350051865312, lager 4. Fakta stämmer (elastiska band, justerbart spänne, runt ben eller arm, byxor borta från kedja och drev som användning). Säkerhets- och synlighetsord utelämnade, färg saknas i källan och anges inte. Skiljer sig från skrivna Reflexband Bookman för Arm och Ben (SKU 428). Rättning: 'Material: Elastiska band' anger inget material; skrivs som bandets egenskap."
+ },
+ {
+  "nr": 47608,
+  "id": "10665228402954",
+  "fil": "k_46ovr7_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 492, EAN 7350051864926, lager 3. Fakta stämmer (mönstrade klistermärken för kläder och väskor, även ytterkläder och sportkläder, ljusreflekterande yta). 'Syns bra i mörker', 'mer synlig', 'starka limmet', 'lätta att ta bort' rätt utelämnade. Unik mot Adventure Silver/Leopard Silver (andra SKU, DRAFT)."
+ }
+]

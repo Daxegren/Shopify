@@ -1,0 +1,124 @@
+[
+ {
+  "nr": 47301,
+  "id": "10472324399370",
+  "fil": "k_46ovr4_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Dig som söker en kort snowboard i plast och glasfiber</li>",
+    "efter": "<li>Dig som söker en snowboard i plast och glasfiber</li>"
+   }
+  },
+  "skal": "Live ACTIVE, Default 75-1116-06, EAN 7318681116068, 1719 kr, lager 4. Plast och glasfiber, EVA-skum på ovansidan, 85 x 23,5 cm ur egen källa; återförsäljare bekräftar 75-1116-06 = blå, 85 x 23,5 cm. Slitstark, bättre balans och 'för mindre berg' rätt utelämnade; lastgräns 'Ej känd' enligt v1.10. RÄTTA (R1): 'kort' i Passar för är en egen värdering som inte står i källan."
+ },
+ {
+  "nr": 47302,
+  "id": "10472349597962",
+  "fil": "k_46ovr4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 21372, EAN 5902114046835, 109 kr, lager 10. Ingredienser, dos, användning, varning och förvaring ordagrant ur egen källa; 'bidrar till korrekt energimetabolism', 'friskt hår och frisk hud' och livsstilsmeningen rätt utelämnade. Grönt teextrakt, CLA och natriumhyaluronat står bara som ingredienser utan effekt. Två 'enligt tillverkaren' (dos, varning). Kosttillskott omfattas av beslutet 2026-11-08 för aktiva produkter. Typordet Multivitamin är live-titelns ord (R7)."
+ },
+ {
+  "nr": 47303,
+  "id": "10472435187978",
+  "fil": "k_46ovr4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 11055, EAN 8715019110559, 489 kr, lager 17. Hopfällbar, tätt vävt stål, svart, pakethållare, tre monteringsklämmor och instruktioner ur egen källa. Måtten rätt utelämnade (33 x 23 x 20 mot 33 x 32 x 20 i samma källa, R2). Unik, idealisk och 'mobila bagageutrymme' utelämnade. Spärrlistan (tidigare-avvisade, DRAFT-status 2026-11-04) stoppar produkten tills undantag läggs in (R14)."
+ },
+ {
+  "nr": 47304,
+  "id": "10472522055946",
+  "fil": "k_46ovr4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 11057, EAN 8715019110573, 279 kr, lager 13. Pakethållare, svart, avtagbar, plastbelagda handtag och mått 19 x 27 x 32 cm ur egen källa. Avlastning av rygg och axlar, säker hantering, högkvalitativ och prisvärd rätt utelämnade. Ingen lastuppgift. Spärrlistan (tidigare-avvisade, DRAFT-status) stoppar produkten tills undantag läggs in (R14)."
+ },
+ {
+  "nr": 47305,
+  "id": "10476166807818",
+  "fil": "k_46ovr4_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Dig som är ca 178–186 cm lång (storlek M/L enligt tillverkaren)</li>",
+    "efter": "<li>Dig som är ca 178–186 cm lång (storlek M/L)</li>"
+   }
+  },
+  "skal": "Live ACTIVE, en variant M/L / gray, SKU 1031022146, EAN 4711291228443, 56709 kr, lager 2, tagg På beställning; leveranstidsmeningen finns. Storleken står i varianttiteln, ingen härledning ur slutsiffra behövs. Skriven syskonprodukt 10476178669834 (SKU 1031022144, 48929 kr) är annan storlek, alltså inte exakt dubblett (beslut 2026-11-05); titeln skiljer dem med M/L. Di2 enligt v1.7 utan batteri. Vibrationsdämpning, trötthet och 'lättaste i sin klass' utelämnade. SEO börjar med märket som syskonen (Giant-praxis). RÄTTA (R5): längden enligt tillverkaren stod två gånger (Passar för och specifikation); behålls bara i specifikationen."
+ },
+ {
+  "nr": 47306,
+  "id": "10476252692746",
+  "fil": "k_46ovr4_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Damcykel Liv Tempt 3 29 tum, Tyrian Purple",
+    "efter": "Damcykel Liv Tempt 3 29 tum, Tyrian Purple, M och L"
+   },
+   "html": {
+    "fore": "<li>Gaffel: SR Suntour XCE, snabbspänne, styrrör av stål, 100 mm</li>",
+    "efter": "<li>Gaffel: SR Suntour XCE, snabbspänne, styrrör av stål</li>"
+   }
+  },
+  "skal": "Live ACTIVE, M / purple 1101019185 (lager 1) och L / purple 1101019187 (lager 0), samma pris 11919 kr och färg: v1.8 uppfylld. Slutsiffror 5=M och 7=L stämmer med Giant/Liv-regeln. Tagg På beställning; leveranstidsmeningen finns. Skriven syskonprodukt 10476230541578 (Mountainbike Liv Tempt 3, 29 tum, Tyrian Purple, SKU 1101019184 = S) har samma modell och färg; beslutet 2026-11-05 kräver titel som skiljer dem. Damcykel är entydig översättning av live-ordet Women's bike och används på andra Liv Tempt. RÄTTA: titeln får 'M och L' så att den skiljer sig från syskonet (låser ingen enskild storlek); '100 mm' i gaffelraden är oklart i den engelska källan ('steel steerer 100mm', troligen fjäderväg) och stryks (R2)."
+ },
+ {
+  "nr": 47307,
+  "id": "10480045523210",
+  "fil": "k_46ovr4_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Maximal användarvikt enligt tillverkaren: 110 kg</li>",
+    "efter": "<li>Maximal användarvikt: 110 kg</li>"
+   }
+  },
+  "skal": "Live ACTIVE, H9115, EAN 8445960018313, 12129 kr, lager 4. Magnetisk broms, 16 kg svänghjul, 32 nivåer, LCD, 3 program, mått, vikt och användarvikt ur egen svensk källa. Spinningcykel är live-titelns typord (R7). RÄTTA (R5): användarvikten stod med 'enligt tillverkaren' både i inledningen och i specifikationen; en gång räcker (praxis k_41c)."
+ },
+ {
+  "nr": 47308,
+  "id": "10480045850890",
+  "fil": "k_46ovr4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 30-11072B, EAN 4044163110721, 6699 kr, lager 1. Uppgifterna finns i egen källa. Lastraderna motsäger varandra (Lastkapacitet 24, Max. belastning 9 kg, Maximal användarvikt 150 kg) och 'Ej känd' är godtagbart enligt R4/v1.5. Återförsäljare (baur.de, otto.de) anger 150 kg för AL 2 men ingen tillverkarsida knyter 150 kg till exakt 30-11072B; därför står 'Ej känd' kvar. Tyst, slitagefri och användarvänlig utelämnade; '9 kg broms' utelämnad."
+ },
+ {
+  "nr": 47309,
+  "id": "10486629597450",
+  "fil": "k_46ovr4_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Vibrationsplattan har en avtagbar sits och levereras med två träningsgummiband med handtag, en stång och handtag för armförlängningar. Enligt tillverkaren är maximal användarvikt 150 kg.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en vibrationsplatta med oscillation</li>\n<li>Dig som vill ha en platta med avtagbar sits och gummiband med handtag</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Vibrationsplatta</li>\n<li>Märke: Tunturi</li>\n<li>Modell: Cardio Fit V10</li>\n<li>Funktion: Oscillation</li>\n<li>Mått: 58 x 35 x 33 cm (inklusive sits)</li>\n<li>Produktvikt: 11 kg</li>\n<li>Maximal användarvikt enligt tillverkaren: 150 kg</li>\n<li>Ingår: Avtagbar sits, två träningsgummiband med handtag, en stång och handtag för armförlängningar</li>",
+    "efter": "Vibrationsplattan har en avtagbar sits och levereras med två träningsgummiband med handtag samt handtag för armhävningar. Enligt tillverkaren är maximal användarvikt 150 kg.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en vibrationsplatta med oscillation</li>\n<li>Dig som vill ha en platta med avtagbar sits och gummiband med handtag</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Vibrationsplatta</li>\n<li>Märke: Tunturi</li>\n<li>Modell: Cardio Fit V10</li>\n<li>Funktion: Oscillation</li>\n<li>Mått: 58 x 35 x 33 cm (inklusive sits)</li>\n<li>Produktvikt: 11 kg</li>\n<li>Maximal användarvikt: 150 kg</li>\n<li>Ingår: Avtagbar sits, två träningsgummiband med handtag och handtag för armhävningar</li>"
+   }
+  },
+  "skal": "Live ACTIVE, 19TCFV1000, EAN 8717842033135, 4439 kr, lager 10, tagg På beställning; leveranstidsmeningen finns. Vibrationsplattor omfattas av beslutet 2026-11-08 (tidigare utanför-kategorier, aktiva produkter). https://www.tunturi.com/en/tunturi-cardio-fit-v10-vibration-plate.html (SKU och EAN stämmer): oscillation, 58 x 35 x 33 cm inkl. sits, 11 kg, max användarvikt 150 kg, ingår två gummiband med handtag, fjärrkontroll och push-up-handtag. Alla effektpåståenden (balans, muskler, ryggkotor, avslappning) utelämnade. RÄTTA: 'handtag för armförlängningar' är maskinöversättning av push-up-handtag (tillverkarsidan) och blir 'handtag för armhävningar'; 'en stång' finns inte hos tillverkaren och stryks (R2); dubbelt 'enligt tillverkaren' om användarvikten tas bort i specifikationen (R5). Obs: vissa återförsäljare anger 120 kg, men egen källa och tillverkaren anger 150 kg. Spärrlistan (tidigare-avvisade) stoppar produkten tills undantag läggs in (R14)."
+ },
+ {
+  "nr": 47310,
+  "id": "10494939595018",
+  "fil": "k_46ovr4_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Rullskridskor Fila Legacy Pro 80",
+    "efter": "Rullskridskor Fila Legacy Pro 80, 42,5"
+   }
+  },
+  "skal": "Live ACTIVE, en variant 42.5 / black, SKU/EAN 8026473412241, 2329 kr, lager 1. Vuxna, ABEC 5-lager och användningsområden ur egen källa; ABEC 5 bekräftas för Legacy Pro 80 hos återförsäljare (decathlon.it, galaxus). Högkvalitativa, stabilitet, robust och 'nybörjare och avancerade' rätt utelämnade. RÄTTA (R12): SEO-titeln 'Rullskridskor Fila Legacy Pro 80' finns redan i a_5_utkast.json för den andra aktiva Legacy Pro 80 (10494939660554, EAN 8026473464257); storleken (enda varianten) skiljer dem. Spärrlistan (utanfor-tills-vidare, rullskridskor) stoppar produkten tills undantag läggs in (R14)."
+ },
+ {
+  "nr": 47311,
+  "id": "10494939627786",
+  "fil": "k_46ovr4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, en variant 38 / black, SKU/EAN 8026473451097, 2709 kr, lager 1. Air-Flow och justerbar bromsvinkel/intensitet ur egen källa; Air-Flow bekräftas för Legacy Pro 84 hos återförsäljare. Källtexten delas med Legacy Pro 84 svart-grå, men de två uppgifterna gäller modellserien och inga löften återges (stötdämpning, prestanda, ventilation, nybörjare utelämnade). Tunn men minst två fakta utöver titeln (R3). SEO-träffen i a_5_utkast.json gäller samma produkt-id och är ingen krock. Spärrlistan (utanfor-tills-vidare, rullskridskor) stoppar produkten tills undantag läggs in (R14)."
+ }
+]

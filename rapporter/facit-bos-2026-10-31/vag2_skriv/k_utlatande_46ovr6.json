@@ -1,0 +1,107 @@
+[
+ {
+  "nr": 47501,
+  "id": "10588451897610",
+  "fil": "k_46ovr6_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, Velomarket, lager 10. Sju storleksvarianter 37,5–41 (010621215-xx) à 2319 kr plus en överbliven Default Title med samma SKU som 37,5 (2669 kr), som ignoreras enligt v1.7; samma artikel i storlekar, inget låst (v1.8). Hjul 84 mm/83 A, ABEC 7, chassi 6000-serie aluminium, broms, vadderad och andningsbar sko, klassiskt fästsystem och målgrupp stämmer ordagrant. 'Större stabilitet', 'enklare hantering' och 'lätta' utelämnade. Färg utelämnad (titeln Svart/Magenta, varianterna black). Inte dubblett: 10472238153994 (Argon 84 Lady svart-rosa) är DRAFT med annan SKU."
+ },
+ {
+  "nr": 47502,
+  "id": "10588451930378",
+  "fil": "k_46ovr6_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, lager 6. Fyra storlekar 37–40 med 2319/2309 kr, lager > 0, samma artikel (v1.9); ingen storlek eller färg låst. Ram, high-cut manschetter, spänne/snören/kardborreband, Fila Air Flow-vaddering, 80 mm/82A, ABEC 5, metallaxlar och aluminiumdistanser stämmer. Robust, komfort, stabilitet, kalorier och träningseffekter utelämnade. Övriga Legacy-produkter i butiken är andra modeller (Pro 80 utan Lady, Pro 84, QF, Comp) med andra SKU."
+ },
+ {
+  "nr": 47503,
+  "id": "10636609224970",
+  "fil": "k_46ovr6_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Suspensionstränare TRYM med dörrankare",
+    "efter": "Suspensionstränare TRYM med Dörrankare"
+   },
+   "seo_title": {
+    "fore": "Suspensionstränare TRYM med dörrankare",
+    "efter": "Suspensionstränare TRYM med Dörrankare"
+   }
+  },
+  "skal": "Live ACTIVE, T000164, EAN 4250663123349, lager 0. Uppgifterna stämmer; 'förbättrar styrka, balans och rörlighet', 'halkfria', 'ergonomiskt', 'stabila', 'supereffektivt' utelämnade. Hängande produkt: ingen lastgräns i källan; granskarens webbsökning på SKU/EAN gav ingen entydig uppgift för exakt modellen (samma utfall som k_19c), så 'Maximal lastgräns: Ej känd' i specifikation och text är rätt enligt v1.10. Rättning: stor bokstav på beskrivande ord i titel och SEO-titel (R9)."
+ },
+ {
+  "nr": 47504,
+  "id": "10636622168330",
+  "fil": "k_46ovr6_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Nacksträckare GS med massagepunkter",
+    "efter": "Nacksträckare GS med Massagepunkter"
+   },
+   "seo_title": {
+    "fore": "Nacksträckare GS med massagepunkter",
+    "efter": "Nacksträckare GS med Massagepunkter"
+   }
+  },
+  "skal": "Live ACTIVE, 101321-00019-0001, EAN 4250663126012, lager 1280. Material, C-kurva, massagepunkter, mått, vikt och färg stämmer. Alla effektord (spänningar, avslappning, hållning, 'känner dig bättre') utelämnade; inga subtila löften. Typordet finns i live-titeln. Rättning: stor bokstav på beskrivande ord (R9)."
+ },
+ {
+  "nr": 47505,
+  "id": "10636624331018",
+  "fil": "k_46ovr6_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Kallbadtunna Maxxus Isbadkar XL, 450 liter",
+    "efter": "Kallbadtunna Maxxus Isbadkar XL, 450 l"
+   }
+  },
+  "skal": "Live ACTIVE, GSMX-600419-00019-0001, EAN 4250663125879, lager 367. Kapacitet, mått, material/tjocklekar, fem lager, innehåll, vikt 3,8 kg, 1 års garanti och färg stämmer. Hälsopåståenden (muskelvärk, stress, sömn, motståndskraft), 'håller temperaturen', 'hållbart' och badtider utelämnade. Obs-raden (vattenvikt cirka 450 kg och hjärtfel/läkare) är en varning ur källan, inget löfte; behålls i linje med praxis för varningsrader (allergen/azorubin). Ej dubblett: RecoPod (63085) är annan artikel. Rättning: enheten skrivs 'l' som på skrivna syskonet (Isbadkar Gymstick RecoPod, 420 l), så att formatregeln inte gör 'Liter' versal (R9)."
+ },
+ {
+  "nr": 47506,
+  "id": "10636632817930",
+  "fil": "k_46ovr6_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, T000196, EAN 4250663124346, lager 0. Användningsområden, intensitet via kroppsvikt, EPP, 15 x 30 cm och ca 240 g stämmer. Effektpåståenden (muskelspänningar, rörlighet, näringsämnen, balans/stabilitet) utelämnade enligt v1.11. Typordet Foam Roller ur live-titeln; massagerulle i specifikationen. Ingen annan aktiv TRYM-rulle."
+ },
+ {
+  "nr": 47507,
+  "id": "10636662571274",
+  "fil": "k_46ovr6_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Vibrationsplatta Lifeplate 1.0 med två gummiband",
+    "efter": "Vibrationsplatta Lifeplate 1.0 med Två Gummiband"
+   }
+  },
+  "skal": "Live ACTIVE, GSMX-600164-00019-0001, EAN 4260244711070, lager 0. Platta, frekvens, två styrkesteg, 3 program plus manuellt, två LED-skärmar, panel/fjärrkontroll, fyra vadderade fjädrar, gummiband, mått och vikt stämmer. Lastgräns: svensk etiketterad rad 'Maximal belastning: 100kg', en gång enligt tillverkaren (R4). 'Tyst drift', 'bra vibrationer' och effekter utelämnade. Övriga Lifeplate-modeller är DRAFT med annan SKU. Rättning: stor bokstav på beskrivande ord (R9)."
+ },
+ {
+  "nr": 47508,
+  "id": "10636663521546",
+  "fil": "k_46ovr6_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Vibrationsplatta Lifeplate 4.0 med radiosändare",
+    "efter": "Vibrationsplatta Lifeplate 4.0 med Radiosändare"
+   }
+  },
+  "skal": "Live ACTIVE, GSMX-600184-00019-0001, EAN 4260244716044, lager 0. Motor DC 200 W plus 40 W, frekvensområden, platta, tre program plus manuellt, display/radiosändare, två träningsband, mått och vikt stämmer. 'Maximal användarvikt: 100kg' är svensk etiketterad rad, en gång enligt tillverkaren. Uppvärmning, återhämtning, 'snäll mot leder' och 'effektiv' (även i nuvarande SEO-titel) utelämnade. Rättning: stor bokstav på beskrivande ord (R9)."
+ },
+ {
+  "nr": 47509,
+  "id": "10612579139850",
+  "fil": "k_46ovr6_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, Velomarket, SKU 427, EAN 7350051864278, lager 1. Fästning på arm, ben, väska och barnvagn och vit färg stämmer; synlighets- och säkerhetsord (360 grader, säkrare, syns i mörkret) utelämnade enligt v1.9. Tunn källa men samma nivå som skrivna syskon 426 (svart) och 428 (rosa), som har andra EAN; ingen dubblett. Titel och SEO är unika mot syskonen. Tidigare avvisad i b_25 som säkerhetsprodukt; släppt av beslutet 2026-11-08."
+ }
+]

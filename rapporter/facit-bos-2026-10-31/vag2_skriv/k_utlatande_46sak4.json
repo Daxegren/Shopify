@@ -1,0 +1,147 @@
+[
+ {
+  "nr": 46301,
+  "id": "10472303198474",
+  "fil": "k_46sak4_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Reflexklistermärken Bookman Adventure",
+    "efter": "Reflexklistermärken Bookman Adventure, Gul"
+   },
+   "meta": {
+    "fore": "Reflexklistermärken från Bookman som kan monteras på cykelramar, styren och hjälmar. Klistermärkena går att kombinera i olika färger och designer.",
+    "efter": "De gula reflexklistermärkena Bookman Reflective Adventure Stickers kan sättas på cykelramar, styren och hjälmar och kombineras med andra färger."
+   }
+  },
+  "skal": "Live ACTIVE, en variant 489, EAN 7350051864896, lager 4. Uppgifterna (montering på ram/styre/hjälm, lätta att ta bort, kombinera färger och designer) finns i egen källa; säkerhet, synlighet och väderbeständighet rätt utelämnade (v1.9). RÄTTA: SEO-titel och meta saknade färgen och skulle krocka med de aktiva syskonen Adventure Stickers Green (10471175520522) och Vit (10548248215818); metans första mening saknade huvudverb."
+ },
+ {
+  "nr": 46302,
+  "id": "10472306606346",
+  "fil": "k_46sak4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, H9340S, EAN 8445960018290, lager 1. Alla uppgifter står ordagrant i egen källa (24 nivåer, PMS servomotor, 15 kg svänghjul, Q-factor 190, 800 W, FTMS, mått, 62 kg). Max användarvikt 130 kg som svensk rad med etikett, en gång enligt tillverkaren (R4). Inga löften. Ingen dubblett (Xcalibur Multimedia H9340TFT är annan artikel)."
+ },
+ {
+  "nr": 46303,
+  "id": "10472325415178",
+  "fil": "k_46sak4_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Enligt tillverkaren tar du hantlarna från ställets höjd vid höften.",
+    "efter": "Hantlarna tas från stället i höfthöjd enligt tillverkaren."
+   },
+   "meta": {
+    "fore": "Hantlarna lyfts från ställets höjd vid höften.",
+    "efter": "Hantlarna tas från stället i höfthöjd."
+   }
+  },
+  "skal": "Live ACTIVE, 17373, lager 0, tagg På beställning, leveranstidsmeningen finns. Stället till StrongLock 8.0 (skrivna hanteln 10507432722698 är annan artikel). Lastgräns saknas i egen källa och hittades inte på nätet för artikelnummer 17373 (sökning gav bara 17374/17376 och StrongLock 4.0-stället); 'Maximal lastgräns: Ej känd' enligt v1.10. Ergonomi, rygg, stabilitet och halkfria fötter rätt utelämnade. RÄTTA: meningen om höfthöjd var otydlig svenska i både html och meta."
+ },
+ {
+  "nr": 46304,
+  "id": "10472330756362",
+  "fil": "k_46sak4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, MUA.P001M.XL, EAN 4260182014554, lager 7. Alla uppgifter ur egen svensk källa; säkerhetsstandarder, komfort och kylning utelämnade. Storlek utelämnad eftersom källan anger två storlekar (skrivna syskon anger 'Storlekar i serien', frivilligt). Ingen annan Closed Eyes-produkt i butiken."
+ },
+ {
+  "nr": 46305,
+  "id": "10472330789130",
+  "fil": "k_46sak4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, MUA.G087M.XL, EAN 4260243726167, lager 4. Uppgifterna stämmer med egen källa; inga löften. OBS: syskonet 10471081541898 (MUA.G087M.ML, samma live-titel) är DRAFT; om det aktiveras och skrivs måste titlarna skiljas åt (storlek)."
+ },
+ {
+  "nr": 46306,
+  "id": "10488282317066",
+  "fil": "k_46sak4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, MUA.P112M.ML, EAN 4260243722558, lager 4. Användning (cykling, skateboard, elcykel), Fidlock, 12 luftventiler, Spin Dial, vikt och material ur egen källa. 'Huvudskydd', 'säkerhet', 'svalt' utelämnade. Färg brun ur live-titeln, enda varianten."
+ },
+ {
+  "nr": 46307,
+  "id": "10472346124554",
+  "fil": "k_46sak4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 10002420, EAN 194521042806, lager 7. Storlek XS 48–52 cm, MIPS beskrivet bara som friktionslager (ingen stötdämpande effekt), polykarbonat, Fidlock, 11 ventilationsöppningar, GROW Flex Fit; standarder CE/CPSC/AS en gång 'enligt tillverkaren' ur egen källa (fakta, inget löfte). Skydds-, komfort- och ventilationslöften utelämnade. Obs: skrivfil_kontroll ger FEL eftersom id finns i spärren utanfor-tills-vidare-2026-11-04 (barn); beslutet 2026-11-08 frisläpper aktiva barn-/hjälmprodukter, men spärrlistan behöver ett undantag innan skrivning."
+ },
+ {
+  "nr": 46308,
+  "id": "10475979702538",
+  "fil": "k_46sak4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 10001790, EAN 194521007850, lager 3. Samma bedömning som 46307: bara fakta, standarder en gång enligt tillverkaren, inga skyddslöften. Samma spärrlisteanmärkning (undantag krävs före skrivning)."
+ },
+ {
+  "nr": 46309,
+  "id": "10475367956746",
+  "fil": "k_46sak4_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Bindning: Touring Auto eller Touring Basic</li>",
+    "efter": "<li>Passande bindning: Touring Auto eller Touring Basic</li>"
+   }
+  },
+  "skal": "Live ACTIVE, fem storleksvarianter 28–32 i svart, 29 billigare, lager 44: samma artikel i olika storlek, v1.9 uppfylld (titel/SEO låser varken storlek eller pris; storlekarna i meta är just de som säljs). Vattentätt yttre en gång enligt tillverkaren; snölås, mjuk sula och varmt foder står ordagrant i källan. RÄTTA: 'Bindning:' kunde läsas som att bindning ingår; källan anger bara lämplig bindning."
+ },
+ {
+  "nr": 46310,
+  "id": "10475432476938",
+  "fil": "k_46sak4_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND (R12a, dubblett): samma modell som redan skrivna aktiva 10472255455498 'Framlampa AXA Compact Line Battery 20, USB' (texter-klara, lager 16): Compactline Front 20 lux, 12 h, USB. Bara förpackningskoden skiljer (93932095CB/EAN 8713249290065 mot 93932095BX/EAN 8713249267197); samma modell, färg och storlek (beslut 2026-11-05). Titeln kan inte skiljas ut utan en påhittad skillnad. Avvisades av samma skäl i k_04a. Kräver Davids beslut (arkivera den ena efter att lagret flyttats, eller skriv med förpackningen som skillnad om han godkänner)."
+ },
+ {
+  "nr": 46311,
+  "id": "10475619942666",
+  "fil": "k_46sak4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 59051195KS, EAN 8713249346830, lager 22. Längd 110 cm, härdade stållänkar 5 mm, polyesterhölje, klick-in, 2 nycklar och nyckelbeställning ur egen källa. Säkerhetsnivå 7/15, 'starkt', 'skyddar' och stöldrisk utelämnade. Inte dubblett av Absolute 5-150, 7-150, 8-110 eller 9-110 (andra längder och tjocklekar)."
+ },
+ {
+  "nr": 46312,
+  "id": "10494693507338",
+  "fil": "k_46sak4_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Roddmaskin Christopeit WP 5000, ek",
+    "efter": "Roddmaskin Christopeit WP 5000, Ek"
+   }
+  },
+  "skal": "Live ACTIVE, 30-2265, EAN 4044163022659, lager 3, tagg På beställning, leveranstidsmeningen finns. Alla specifikationer ur egen svensk källa; max användarvikt 150 kg en gång enligt tillverkaren; robust, stabil, slitstark, ledvänlig, muskel- och uthållighetslöften utelämnade. RÄTTA: beskrivande ord i titeln ska ha stor bokstav (R9)."
+ },
+ {
+  "nr": 46313,
+  "id": "10494697341194",
+  "fil": "k_46sak4_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Den har sex funktioner: aktuell hastighet",
+    "efter": "Den visar aktuell hastighet"
+   }
+  },
+  "skal": "Live ACTIVE, 410000003, EAN 4718905972532, lager 24. Källan säger '6 funktioner' men listar fem; den skrivna Axact 9W räknar automatisk på/av som funktion. RÄTTA: texten sa 'sex funktioner:' följt av fem, vilket inte är entydigt; nu 'visar' och listan. Spec 'Antal funktioner: 6' och titeln följer källan och den skrivna 9W."
+ },
+ {
+  "nr": 46314,
+  "id": "10494777229578",
+  "fil": "k_46sak4_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 23TCF65000, EAN 8717842036570, lager 1, tagg På beställning, leveranstidsmeningen finns. Typordet Crosstrainer står i egen källa och i taggarna (R7). Motsägelsen 32/26 belastningsnivåer och oklara 'Belastning: 35 kg' rätt utelämnade. 7-tums skärm, 26 program, Bluetooth, PMS, 50 cm steglängd, mått, vikt och 150 kg enligt tillverkaren stämmer."
+ }
+]

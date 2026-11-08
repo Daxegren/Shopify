@@ -1,0 +1,40 @@
+[
+ {
+  "nr": 46601,
+  "id": "10636696518922",
+  "fil": "k_46sak6_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Studsmattan har sex fötter, 48 gummiband i fjädringssystemet och ett justerbart handtag. Maximal belastning är 150 kg enligt tillverkaren.",
+    "efter": "Studsmattan har sex fötter, 48 gummiband i fjädringssystemet och ett handtag som justeras i sex steg. Den kan användas inomhus och utomhus."
+   }
+  },
+  "skal": "Live ACTIVE, Gorilla Sports Norden, tre färgvarianter (Orange 100974-00043-0001 1749 kr, Rosa -00077 1799 kr, Blå -00042 1899 kr; EAN 4260438738586/593/579), lager 96: samma artikel i olika färg, v1.9 uppfylld (titel/SEO låser varken färg eller pris). Trampolin släppt 2026-11-08. Alla uppgifter står ordagrant i egen svensk källa (sex fötter, 48 gummiband, 77/100 cm, handtag sex steg 87–114 cm, höjd 144/30 cm, inomhus/utomhus, färger). Lastgräns: svensk rad med etikett och enhet ('Maximal belastning: 150kg'), får stå en gång enligt tillverkaren (R4, v1.10); den tidigare avvisningens 'löptext utan etikett' stämmer inte. Leder, balans, koordination, kondition, 'högkvalitativt' och 'skonsamt' rätt utelämnade; inga löften. Ingen dubblett (Physionics-studsmattan är annan artikel och DRAFT). RÄTTA: lastgränsen stod två gånger (meta och specifikation); R4 och praxis i k_46sak4 tillåter en gång, så den tas bort ur meta och står kvar i specifikationen."
+ },
+ {
+  "nr": 46602,
+  "id": "10665226830090",
+  "fil": "k_46sak6_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Ljus Bookman Eclipse bärbar lampa",
+    "efter": "Ljus Bookman Eclipse Bärbar Lampa"
+   },
+   "seo_title": {
+    "fore": "Ljus Bookman Eclipse bärbar lampa",
+    "efter": "Ljus Bookman Eclipse Bärbar Lampa"
+   }
+  },
+  "skal": "Live ACTIVE, Bookman, SKU 575, EAN 7350051865756, en variant, lager 1. Belysning släppt 2026-11-08. Alla uppgifter står i egen källa (andra generationen, vita och röda lysdioder, fram eller bak, klämma eller silikonrem, fästpunkter, användningsområden). Säkerhetslampa, synlighet, säkerhet, 'maximal synlighet', 'kraftfull', 'robust', 'breda ljuskäglan' och reflexkombinationen rätt utelämnade; uppladdning/micro-USB från återförsäljare rätt utelämnat (ingen tillverkarsida). Typordet Ljus ur live-titeln (R7). Ingen dubblett (enda Eclipse-lampan i butiken; äldre oskrivet utkast b_51 för samma id ersätts). RÄTTA: beskrivande ord i titel och SEO-titel med stor bokstav (R9, format_regler.titel_versaler)."
+ },
+ {
+  "nr": 46603,
+  "id": "10676721189130",
+  "fil": "k_46sak6_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, tagg På beställning (leveranstidsmeningen finns), fyra storleksvarianter M/M/L (104 029 kr) och L/XL (103 819 kr), SKU 1074033105–108, alla black, lager 1: samma artikel i olika storlek, v1.9 uppfylld; S säljs inte och är utelämnad (v1.5). Alla specifikationer stämmer med egen källa och med tillverkarsidan https://www.giant-bicycles.com/ee/propel-advanced-pro-0-axs-2027 (färg Obsidian Pulse, ram, gaffel, SRAM Force AXS E1, hydrauliska Force E1, SLR 0 50, Cadex Aero 700x28c, 32 mm max däck, cyklistlängder per storlek). 24 växlar ur egen källa. Fart, styvhet, aerodynamik, vibrationsdämpning, komfort, väghållning och 'maximal prestanda' rätt utelämnade. Ingen lastgräns behövs (ingen pakethållare). SEO-titeln är unik mot butikens Propel-annonser och andra utkast."
+ }
+]

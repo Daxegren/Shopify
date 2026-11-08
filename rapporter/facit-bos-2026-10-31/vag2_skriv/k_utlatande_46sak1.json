@@ -1,0 +1,153 @@
+[
+ {
+  "nr": 46001,
+  "id": "10411860394250",
+  "fil": "k_46sak1_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Styrkälke Stiga Snowpower",
+    "efter": "Styrkälke Stiga Snowpower, Rosa"
+   }
+  },
+  "skal": "Live ACTIVE, en variant 74-7122-07, EAN 7318687122070, lager 6, ingen På beställning. Alla uppgifter (ratt som styr två skidor, broms, reflektor fram och bak, plast, 5+) står i egen källa; 'hållbar', 'slitstark', 'säker åktur', 'dragkontrollkabel' rätt utelämnade. Rosa står i live-titeln. R12a: syskonet 10472281899274 (Svart och Grön, 74-7122-19, annan EAN) är skrivet med SEO 'Stiga SnowPower Styrkälke'; ingen dubblett men SEO-titeln skiljs med färgen. Spärrlistan: produkten står i en aktiv spärr i sparrlista.json; skrivfil_kontroll.py stoppar den tills en undantagspost med Davids beslut 2026-11-08 läggs in (R14). Innehållet är granskat och dömt nedan."
+ },
+ {
+  "nr": 46002,
+  "id": "10411907940618",
+  "fil": "k_46sak1_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Vikbart lås Axa Fold Lite C100 med kod",
+    "efter": "Vikbart Lås Axa Fold Lite C100 med Kod"
+   },
+   "seo_title": {
+    "fore": "Vikbart lås Axa Fold Lite C100",
+    "efter": "Vikbart Lås Axa Fold Lite C100"
+   }
+  },
+  "skal": "Live ACTIVE, 59842095KB, EAN 8713249350073, lager 22. Allt i texten står i egen källa (100 cm, flexibla ben, stållänkar 5 mm med gummihölje, fyrsiffrig kod, hållare på flaskhållaren eller med remmar). 'Säkerhet: 7/15', 'härdade', stöldrisk, 'skydda hjulet' och anti-rattle rätt utelämnade. Typordet Vikbart lås ur källan; skrivna syskon heter 'Vikbart Lås'. Rättning: formatregeln för versaler i titel/SEO (format_regler.py). Inte dubblett av skrivna Fold Lite 100 (59841095KB, nyckel) eller Fold Lite 80."
+ },
+ {
+  "nr": 46003,
+  "id": "10460948234506",
+  "fil": "k_46sak1_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Modell: Frozen Lake</li>",
+    "efter": "<li>Modell: Mosaique</li>\n<li>Utförande: Frozen Lake, matt</li>"
+   }
+  },
+  "skal": "Live ACTIVE, MUA.M103M.XL, EAN 4260243725924, lager 7. Storlek XL/XXL 58–63 cm verifierad för exakt EAN och artikelnummer: https://meinhartje.com/en/melon-helmet-mosaique/08655119 (sökträff: MUA.M103M.XL, EAN 4260243725924, frozen lake matt, XL-XXL 58-63 cm). Tillverkarens modell är Mosaique och Frozen Lake är utförandet (syskon MUA.M103M.ML/.XS heter 'Mosaique frozen lake matt', https://meinhartje.com/en/print/product/4028973e81ba228101821bfae88e145f), så specifikationsraden 'Modell: Frozen Lake' rättas. Övriga uppgifter står i egen källa; 'perfekt skydd', 'stark', 'säkerhet' utelämnade. Vikt 'under 300 g' ur egen källa (återförsäljarens 0,32 kg gäller ML och troligen med förpackning). Titeln behåller live-namnet. Ej spärrad."
+ },
+ {
+  "nr": 46004,
+  "id": "10462148722954",
+  "fil": "k_46sak1_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, BLC2207888207, EAN 5420078882165, lager 4. Enda storlek i källan 46–50 cm, 280 g, 12 ventilationshål, Autofit, rem nära örat, lång skärm: allt ur egen källa. 'Extra skydd', 'skyddar ögon och ansikte', 'förhindra nyp' och märkeshistorik rätt utelämnade; 'automatisk passform' är källans funktionsbeskrivning, inget skyddslöfte. Pony ur live-titeln. Fox-syskonet (BLC2207888204) är DRAFT och annan EAN. Spärrlistan: produkten står i en aktiv spärr i sparrlista.json; skrivfil_kontroll.py stoppar den tills en undantagspost med Davids beslut 2026-11-08 läggs in (R14). Innehållet är granskat och dömt nedan."
+ },
+ {
+  "nr": 46005,
+  "id": "10462155407626",
+  "fil": "k_46sak1_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, VMESMRT64MEC, EAN 4550170451967, lager 25. 180 mm och CL ur live-titeln, Center Lock med spår och låsring, harts/metall ur källan; 'kraftfull', '10 % mer bromskraft' och 220 mm-jämförelsen rätt utelämnade. Bromsdel: ingen lastgräns (v1.10). Syskonet SM-RT64 160 (10472242446602) är annan EAN och oskrivet. Spärrlistan: produkten står i en aktiv spärr i sparrlista.json; skrivfil_kontroll.py stoppar den tills en undantagspost med Davids beslut 2026-11-08 läggs in (R14). Innehållet är granskat och dömt nedan."
+ },
+ {
+  "nr": 46006,
+  "id": "10462175101194",
+  "fil": "k_46sak1_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Baklykta Axa Go Steady för skärm",
+    "efter": "Baklykta Axa Go Steady för Skärm"
+   }
+  },
+  "skal": "Live ACTIVE, 93913095SC, EAN 3379939130957, lager 7. Bakskärmsmontering, 4 min stå-ljus, inbyggd reflektor, dynamo ('Dünamo', entydigt), 6 V elcykelbatteri, 100 x 45 x 45 mm, 70 g, vitt matt hölje: allt ur egen källa; LED framgår av källans LED-rader. 'Synlig upp till 500 m', LED-livslängd och 'fantastisk design' rätt utelämnade (inga synlighetslöften). Rättning: formatregeln för versaler i titel."
+ },
+ {
+  "nr": 46007,
+  "id": "10462188503306",
+  "fil": "k_46sak1_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 8A501521, EAN 8716808152118, lager 24. 375 mm, vevaxelöppning 120 mm, ABS svart, enkel-/trippeldrev, montering med vev och bakdrev ur egen källa. Skyddspåståendena (kläder, smuts, fukt) och den motsägande tandantalsraden rätt utelämnade (R2). Kedjeskydd är typordet och källans ord, inget löfte. Engelsk live-titel ersatt med källans svenska ord."
+ },
+ {
+  "nr": 46016,
+  "id": "10468736925962",
+  "fil": "k_46sak1_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Modell: Venice</li>",
+    "efter": "<li>Modell: Posh</li>\n<li>Utförande: Venice, matt</li>"
+   }
+  },
+  "skal": "Live ACTIVE, MUA.P108M.ML, EAN 4260243725436, lager 5. Storleken M/L 52–58 cm är nu verifierad för exakt EAN: https://meinhartje.com/en/melon-helmet-posh/08655100 (Venice matt, size M-L (52-58cm), Supplier Article Number MUA.P108M.ML, EAN 4260243725436). Tillverkarens modell är Posh och Venice är utförandet; specifikationsraden rättas. Övrigt ur egen källa (Fidlock med en hand, 12 lufthål, Spin Dial, PC/EPS, under 300 g, vinteröverdrag tillval); 'moderiktig', 'hållbar konstruktion' utelämnade. Ej spärrad."
+ },
+ {
+  "nr": 46022,
+  "id": "10470922944778",
+  "fil": "k_46sak1_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, MUA.K003M.XS, EAN 4260243722015, lager 11. Källan anger bara XXS/S 46–52 cm (3 till 7 år), som stämmer med artikelnumrets XS. Motiv, tre tjocklekar stoppning, Fidlock, MACS 12 hål, Spin Dial, PC/EPS, under 300 g ur egen källa. 'Växa med ditt barn', 'skydda dem', 'extra säkert EPS', 'sprider stötkrafter', 'hygienisk' rätt utelämnade. Inte dubblett av skrivna Real Melon (10470922682634, annan EAN). Spärrlistan: produkten står i en aktiv spärr i sparrlista.json; skrivfil_kontroll.py stoppar den tills en undantagspost med Davids beslut 2026-11-08 läggs in (R14). Innehållet är granskat och dömt nedan."
+ },
+ {
+  "nr": 46018,
+  "id": "10470888243466",
+  "fil": "k_46sak1_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 14TUSCL158, EAN 8717842026984, lager 2. 2-delat set, Ø 30 mm, snäppfäste, 53 g, svart, syntetiskt ur egen källa. Typord Skivstångslås ur källan ('ABS-skivstångslåsen'); live-ordet Leverlås och taggen Cykellås är fel men taggen rörs inte. 'Säkert', 'starka lås som sitter stadigt' och 'perfekt' utelämnade; 'används för att hålla viktskivorna på stången' är avsedd användning, inget löfte. Kettlebell i källan rätt utelämnat ur Passar för. Spärrlistan: produkten står i en aktiv spärr i sparrlista.json; skrivfil_kontroll.py stoppar den tills en undantagspost med Davids beslut 2026-11-08 läggs in (R14). Innehållet är granskat och dömt nedan."
+ },
+ {
+  "nr": 46019,
+  "id": "10470898237706",
+  "fil": "k_46sak1_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Bromsskiva Shimano SM-RT66, 160 mm, 6 bultar",
+    "efter": "Bromsskiva Shimano SM-RT66, 160 mm, 6 Bultar"
+   },
+   "html": {
+    "fore": "<li>Belägg: Harts och metall</li>",
+    "efter": "<li>Belägg: Harts och metall (med bromsoken BR-S700 och BR-S7000 bara harts)</li>"
+   }
+  },
+  "skal": "Live ACTIVE, SMRT66-S, EAN 4550170598334, lager 24. SM-RT66, 6 bultar, 160 mm, låsplattor, harts/metall ur egen källa; 'pålitlig', 'jämn bromskraft', 'säker installation' utelämnade. Rättningar: formatregeln för versaler i titel; samma modellbegränsning som syskonet 46020 (egen källa där och https://www.bike-components.de/en/Shimano/SM-RT66-6-bolt-Brake-Rotor-p81603/: med BR-S700/BR-S7000 bara hartsbelägg) läggs till så att beläggsraden inte blir för vid. Ingen lastgräns (v1.10). Spärrlistan: produkten står i en aktiv spärr i sparrlista.json; skrivfil_kontroll.py stoppar den tills en undantagspost med Davids beslut 2026-11-08 läggs in (R14). Innehållet är granskat och dömt nedan."
+ },
+ {
+  "nr": 46020,
+  "id": "10470900597002",
+  "fil": "k_46sak1_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Bromsskiva Shimano SM-RT66, 180 mm, 6 bultar",
+    "efter": "Bromsskiva Shimano SM-RT66, 180 mm, 6 Bultar"
+   },
+   "html": {
+    "fore": "<li>Belägg: Metall och harts</li>",
+    "efter": "<li>Belägg: Metall och harts (med bromsoken BR-S700 och BR-S7000 bara harts)</li>"
+   }
+  },
+  "skal": "Live ACTIVE, SMRT66-M, EAN 4524667299554, lager 24. 6 bultar, 180 mm, rostfritt stål, ca 140 g, metall/harts ur egen källa. Källans rad 'endast med BR-S700 och BR-S7000 hartser!' är entydig i sak och bekräftas av https://www.bike-components.de/en/Shimano/SM-RT66-6-bolt-Brake-Rotor-p81603/ (med BR-S700 och BR-S7000 fungerar bara organiska/hartsbelägg); utkastet utelämnade den men påstod obegränsad beläggskompatibilitet, så begränsningen läggs till i specifikationen. Bromsoklistan rätt utelämnad. Rättning även av versaler i titel. Spärrlistan: produkten står i en aktiv spärr i sparrlista.json; skrivfil_kontroll.py stoppar den tills en undantagspost med Davids beslut 2026-11-08 läggs in (R14). Innehållet är granskat och dömt nedan."
+ },
+ {
+  "nr": 46023,
+  "id": "10470925074698",
+  "fil": "k_46sak1_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 14TUSCL159, EAN 8717842026991, lager 6. Säljs i par, Ø 30 mm, 9 x 8 x 1,7 cm, 39 g, svart/krom, metall/syntetisk och fästsättet ur egen källa. 'Vikt: 39 ltr' är en trasig enhet på samma värde; 39 g står entydigt (R2, entydig del). 'Starkt grepp', 'säkert träningspass' utelämnade. Typord Fjäderklämmor ur källan; skrivna syskonet Olympic Spring Collars 50 mm (10472212463882) är annan artikel. Taggen Cykellås är fel men rörs inte."
+ }
+]

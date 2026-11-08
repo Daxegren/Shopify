@@ -1,0 +1,47 @@
+[
+ {
+  "id": "10462824235274",
+  "nr": 46605,
+  "skäl": "R3/v1.9: Fyra färgvarianter med mycket olika pris (blå 2269 kr; gul, grön, rosa 729 kr) men samma beskrivning; prisskillnaden på 3,1 gånger kan inte förklaras av källan, och källtexten är trasig (\"Barn 3-5 Barn 3-5 ...\", \"Ålder: 5 - 5\"). Går inte att fastställa att det är samma artikel i olika färg; lyft prisfrågan till uppdelning eller rättelse av priset före text."
+ },
+ {
+  "id": "10468735484170",
+  "nr": 46608,
+  "skäl": "R3: Titeln (\"Ram FIIDO T2 barnsäkerhetsstaket med sittdyna\") motsäger källan, som säger \"Stänkskärm för barn Fiido T2 elcykel\"; SKU T2-SAFETYFENCE pekar på ett barnstaket. Produkttypen är oklar och källan har inga fler fakta. Lager 0."
+ },
+ {
+  "id": "10468769399050",
+  "nr": 46609,
+  "skäl": "R3: Titeln \"Youth bike LIV Tempt 0, 27.5\\\" XS\" motsäger källan, som beskriver Liv Tempt som en damcykel (\"women's bike\", ramstorlek XS 33 cm, för längd 150–163 cm), inte en ungdomscykel. Produkttypen är oklar. Lager 0."
+ },
+ {
+  "id": "10471018561802",
+  "nr": 46614,
+  "skäl": "R3/v1.9: Två storleksvarianter (130 cm, 150207, 2399 kr; 140 cm, 150208, 2409 kr) med olika pris och totalInventory 0; produkter utan lager skrivs inte när varianterna har olika pris."
+ },
+ {
+  "id": "10472240152842",
+  "nr": 46616,
+  "skäl": "R2/R3: Källan motsäger sig på en nyckeluppgift: \"Storleken kan justeras mellan 37-40\" mot listraden \"Storlek: 40-43\". Storleken på justerbara skridskor kan inte utelämnas, och ingen entydig tillverkarsida har kontrollerats."
+ },
+ {
+  "id": "10472240742666",
+  "nr": 46617,
+  "skäl": "Produkttypen oklar: titeln säger rullskridskor (Barnishockeyrullskridskor) men källan beskriver skridskohållare med blad i rostfritt hockeystål 53-55 HRC \"för isen\" (isskridsko). Titel och källa motsäger varandra; kräver rättad titel/typord före text."
+ },
+ {
+  "id": "10472240775434",
+  "nr": 46618,
+  "skäl": "Produkttypen oklar: titeln säger rullskridskor (Barnhockeyrullskridskor) men källan beskriver skridskoblad av förspänt rostfritt stål \"designat för hockeyis\" (isskridsko). Titel och källa motsäger varandra; kräver rättad titel/typord före text."
+ },
+ {
+  "id": "10472240808202",
+  "nr": 46619,
+  "skäl": "Produkttypen oklar: titeln/typen säger rullskridskor (Barnhockeyrullskridskor) men källan beskriver skridskoblad av förspänt rostfritt stål \"designat för hockeyis\" (isskridsko). Titel och källa motsäger varandra; kräver rättad titel/typord före text."
+ },
+ {
+  "id": "10472248705290",
+  "nr": 46621,
+  "skäl": "Produkttypen oklar (R2/R7): titeln säger Vantar men källan säger \"Vantar i Winnie the Pooh-stil är handskar\", och källan är i övrigt bara storlek, ålder och omkrets; vantar eller handskar kan inte avgöras utan att gissa. Skyddspåståendet utelämnas men typordet saknar stöd."
+ }
+]

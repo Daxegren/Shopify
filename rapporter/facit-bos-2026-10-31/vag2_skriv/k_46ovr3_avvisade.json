@@ -1,0 +1,47 @@
+[
+ {
+  "id": "10472279900426",
+  "nr": 47401,
+  "skäl": "Tunn källa och trasigt typord (R2/R3): live-titelns \"Handleddboll\" är ingen svensk produktbeteckning, och källan består av en mening vars enda uppgifter är påståenden (blodcirkulation, muskelträning, stresslindring, rehabilitering) som inte får skrivas. Kvar blir märke, modell och artikelnummer, inte två entydiga fakta om produkten."
+ },
+ {
+  "id": "10472280588554",
+  "nr": 47402,
+  "skäl": "R2/R3 motsägelse: källtexten säger att Collagen Anti-Age innehåller marint kollagen, hyaluronsyra, koenzym Q10, C-vitamin och DracoBelle-extrakt, men ingredienslistan nämner bara kollagenhydrolysat och C-vitamin. Typordet \"Mineralpulver\" stämmer inte heller. Vad som finns i produkten kan inte avgöras ur egen källa."
+ },
+ {
+  "id": "10472293499146",
+  "nr": 47403,
+  "skäl": "Tunn och tvetydig källa (R3/R2): tre rader (särskilt lämplig för elcyklar, lämplig för 24\"-29\" hjul, aluminium). Hjulstorlek är ingen egenskap hos ett vevlager och raden är därför trasig; gängstandard och axellängd saknas, så passform går inte att ange. Vevlager är en bärande del och lastgräns saknas."
+ },
+ {
+  "id": "10472294842634",
+  "nr": 47404,
+  "skäl": "Tunn källa (R3): live-källan är bara \"Stativ för ADO Air Carbon-modellen\". Ingen mått-, material- eller monteringsuppgift, och tillverkarens sida har ingen beskrivning. Mindre än två entydiga fakta utöver titeln."
+ },
+ {
+  "id": "10472296120586",
+  "nr": 47405,
+  "skäl": "Varianter med olika pris (v1.9) och ingen lager: Default Title 34399 kr och XL / black 29909 kr med samma SKU 081301580045, totalInventory 0. v1.9: produkter utan lager skrivs inte, och Default Title-regeln (v1.7) gäller bara samma pris."
+ },
+ {
+  "id": "10472298086666",
+  "nr": 47406,
+  "skäl": "Källa och titel motsäger varandra (R2/R3): titeln säger hantlar, egen källa säger Tunturi Rapid skivstång eller kettlebell, och webben (velomarket.ee) säger hantlar. Skruvar som fäster extra vikter är en bärande del, lastgräns hittades inte, och antalet skruvar skiljer sig mellan annonserna (två enligt egen källa, en enligt webben). Lager 0."
+ },
+ {
+  "id": "10472302444810",
+  "nr": 47407,
+  "skäl": "Tunn källa (R3): live-beskrivningen är tom och titeln ger bara färg utöver produkttypen. Tillverkarens sida hittades inte."
+ },
+ {
+  "id": "10472305688842",
+  "nr": 47408,
+  "skäl": "Titel och källa motsäger varandra (R3): titeln anger 100 mm, egen källa 110 mm. Hjulet finns i båda diametrarna hos andra säljare, så diametern kan inte styrkas ur egen källa."
+ },
+ {
+  "id": "10472307654922",
+  "nr": 47409,
+  "skäl": "Produkttypen är oklar och källan motsäger titeln (R2/R3): titeln säger inline-/ishockeyrullskridskor, källan säger rullskridskoåkning och konståkning (\"två-i-ett\"). Det framgår inte vilka två funktioner som avses eller om skenor ingår."
+ }
+]

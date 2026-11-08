@@ -1,0 +1,72 @@
+[
+ {
+  "id": "10470943621386",
+  "nr": 47103,
+  "skäl": "Titeln (Vitaminpulver) och källan motsäger varandra: texten beskriver ett pre-workout-pulver med betalanin, koffein, L-arginin och kreatin, medan ingredienslistan bara anger kreatinmonohydrat, natriumcitrat och vitamin C. Produkttypen oklar."
+ },
+ {
+  "id": "10470983958794",
+  "nr": 47104,
+  "skäl": "Titeln (Frame ear) och texten (ramring, aluminiumkomponent) motsäger varandra, och produkttypen är oklar; passar-listan är ren uppräkning av märken."
+ },
+ {
+  "id": "10471334543626",
+  "nr": 47107,
+  "skäl": "Olika pris (97919 kr och 85149 kr) och olika SKU mellan Default Title och M/L utan säkerhet att det är samma artikel, och totalInventory 0 (v1.9: utan lager skrivs inte)."
+ },
+ {
+  "id": "10472240414986",
+  "nr": 47109,
+  "skäl": "Produkttypen oklar: titeln Tirr, texten kassettnav/kassett; drivlinedel som bär last utan lastgräns. Titel och källa motsäger varandra."
+ },
+ {
+  "id": "10472241791242",
+  "nr": 47110,
+  "skäl": "För tunn källa (R3): en mening med bara herr och avancerade åkare; inga mått, hjul eller lager."
+ },
+ {
+  "id": "10472237891850",
+  "nr": 47108,
+  "skäl": "Samma modell och titel som en annan aktiv annons (10507390091530, Legacy Comp Lady, SKU -42.5, 1139 kr). Storleken står bara i artikelnumret och kan inte verifieras ur källan, så annonserna går inte att skilja åt (R12a). Källan anger dessutom färg svart medan SKU säger BLKBLU."
+ },
+ {
+  "id": "10472241987850",
+  "nr": 47111,
+  "skäl": "För tunn källa (R3): bara att kälken passar barn och vuxna; texten säger svart design medan varianterna är svart, rosa och grön."
+ },
+ {
+  "id": "10472243298570",
+  "nr": 47112,
+  "skäl": "Titeln (Gymnastikgummiband/boxningssäcksfäste) och källan (fäste för träningsbollar och boxningssäckar) motsäger varandra (R2/R3); materialraderna är trasiga."
+ },
+ {
+  "id": "10472244510986",
+  "nr": 47113,
+  "skäl": "Bärande del utan lastgräns och för tunn källa: bara att den passar FastRoad/ToughRoad/Rapid, resten är trasig text."
+ },
+ {
+  "id": "10472245330186",
+  "nr": 47114,
+  "skäl": "Titeln (Bakre stödhjul) motsäger taggen (stödben) och källan (Hålavstånd 18 mm); produkttypen oklar och källan tunn."
+ },
+ {
+  "id": "10472250835210",
+  "nr": 47115,
+  "skäl": "Bärande del utan lastgräns; källan är en mening och \"bakre löpare\" i titeln är garblat. Produkttypen oklar."
+ },
+ {
+  "id": "10472253522186",
+  "nr": 47117,
+  "skäl": "Källan är maskinöversatt och motsägande (cykelverktyg i texten, skidkork enligt märke och artikelnummer); produkttypen oklar."
+ },
+ {
+  "id": "10472265056522",
+  "nr": 47119,
+  "skäl": "Titeln anger färgen Off-white men källan anger grönaktig, och Anti Burst står bara i titeln. Samma modell finns i andra aktiva annonser (10470998147338, 14TUSFU338), så annonsen kan inte skiljas åt utan verifierad färg (R12a)."
+ },
+ {
+  "id": "10472276590858",
+  "nr": 47122,
+  "skäl": "Redan klar: produkten har taggen texter-klara och text enligt strukturen (titel, SEO, meta, standardblock). Ingen ny text behövs."
+ }
+]

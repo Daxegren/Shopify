@@ -1,0 +1,72 @@
+[
+ {
+  "id": "10411673714954",
+  "nr": 47011,
+  "skäl": "Källan motsäger titeln: titeln anger Cardio Fit V20 men texten anger Tunturi Cardio Fit V10 (R2/R3). Modellen kan inte styrkas."
+ },
+ {
+  "id": "10411849646346",
+  "nr": 47012,
+  "skäl": "Melatonin: David undantog uttryckligen melatonin (33001) vid frisläppningen 2026-11-06 och profilen listar melatonin som fortfarande utanför; beslutet 2026-11-08 nämner inte melatonin särskilt. Källan har dessutom sömnpåstående och varningstext. Kräver särskilt besked."
+ },
+ {
+  "id": "10461967188234",
+  "nr": 47013,
+  "skäl": "Titel och källa motsäger varandra: titeln säger mörkbrun, källan säger \"havsgrön färg\"; källan säger dessutom \"Cykelkorg medföljer ej!\" och är otydlig om vad som säljs (R2/R3)."
+ },
+ {
+  "id": "10462176936202",
+  "nr": 47014,
+  "skäl": "Produkttypen är oklar: källan beskriver NH18192 som skridskor i 4 konfigurationer (1 med skridskoblad, 3 med hjul) men titeln anger 4in1 rullskridskor i rosa-mint L; källan nämner varken färg eller en storlek L (justerbar i tre storlekar, innerdiameter 21,5–24 cm). Går inte att avgöra vad som ingår."
+ },
+ {
+  "id": "10462780424458",
+  "nr": 47015,
+  "skäl": "Tunn källa: bara märke Union och vikt 0,01 kg utöver titeln, under två entydiga fakta (R3); tidigare webbkoll (artikel 104912) gav ingen träff."
+ },
+ {
+  "id": "10462785896714",
+  "nr": 47016,
+  "skäl": "Produkttypen är oklar och källan är tunn och maskinöversatt (\"skrubba bort hal jord\", \"Ej lämplig för applicering av fästvalla\"); tidigare webbkoll på EAN 6418016050287 och artikelnummer gav ingen träff."
+ },
+ {
+  "id": "10468713529610",
+  "nr": 47017,
+  "skäl": "Tjänst (montering av lastcykel), inte en produkt med produkttext; källan innehåller bara beställningsmeningen. Ingen produktfakta att skriva."
+ },
+ {
+  "id": "10468713595146",
+  "nr": 47018,
+  "skäl": "Tjänst (montering av stor träningsmaskin), inte en produkt med produkttext; källan innehåller bara beställningsmeningen. Ingen produktfakta att skriva."
+ },
+ {
+  "id": "10468734009610",
+  "nr": 47019,
+  "skäl": "Fixie bike 6KU Shelby 2 (CB68S1042) är samma modell som den redan skrivna 10588445540618 (Fixie 6KU Shelby 2, 28 tum, CB65S1041, texter-klara) men en annan ramstorlek. Källan listar fem storlekar och produkten har ingen storleksvariant, så storleken kan inte styrkas för titeln (6KU ingår inte i tillståndet att härleda storlek ur artikelnummer). Texten skulle bli identisk med syskonet (R12a, unik titel/SEO/meta). Lyft för beslut om storlek."
+ },
+ {
+  "id": "10468744397066",
+  "nr": 47020,
+  "skäl": "Varianter med olika pris (L/blue 111449 kr och XL/blue 111239 kr; Default Title delar SKU B36REX06 med XL) och lager 0; v1.9 kräver lager för att skriva produkter med olika pris."
+ },
+ {
+  "id": "10468771004682",
+  "nr": 47021,
+  "skäl": "R3/v1.9: fem varianter är olika artiklar (hantlar 2,5–40 kg; SKU 17421–17429, priser 469–2 969 kr, lager 0) medan titeln anger 5 kg; källan är engelsk."
+ },
+ {
+  "id": "10468772708618",
+  "nr": 47022,
+  "skäl": "Källan motsäger titeln: titeln anger Pro 2 men källtexten anger \"Giant Revolt X Advanced Pro 1\" (R3); dessutom varianter med olika pris och lager 0."
+ },
+ {
+  "id": "10468773232906",
+  "nr": 47023,
+  "skäl": "Redan skriven (R15): produkten har vår standardtext, SEO och beskrivning med struktur. Taggen texter-klara saknas men det är ett taggsteg, inte en textuppgift."
+ },
+ {
+  "id": "10470925238538",
+  "nr": 47024,
+  "skäl": "Titel och källa motsäger varandra: titeln säger PE-kettlebell 12 kg, källan säger PVC (material och namn), \"16 kg PVC-kettle\" i löptexten och 12 kg i rubriken (R2/R3). Dessutom trasig upprepad rad."
+ }
+]

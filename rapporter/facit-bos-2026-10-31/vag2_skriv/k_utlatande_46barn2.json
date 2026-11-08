@@ -1,0 +1,267 @@
+[
+ {
+  "nr": 46702,
+  "id": "10472253718794",
+  "fil": "k_46barn2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Dig som söker en el-lastcykel med lådan fram</li>",
+    "efter": "<li>Dig som söker en el-lastcykel med låda i EPP och trä</li>"
+   }
+  },
+  "skal": "Live ACTIVE, en variant CB07U2400100MEN1, EAN 8719636019523, lager 0, tagg På beställning; leveranstidsmeningen finns. Uppgifterna (aluminium, 250 W 95 Nm mittmotor, Enviolo Stepless, hydrauliska skivbromsar, 26 tum, räckvidd upp till 60 km en gång enligt tillverkaren, EPP och trä, 4 magnetiska trepunktsbälten, Lådcykelvikt 50 kg) står i egen källa; batteriraden (700 Wh mot 48 V 2 Ah) och skräpdelen '50 kg: 50 lb' rätt utelämnade (R2). Lastgräns saknas i källan och hittades inte på nätet (sökning på modell/artikelnummer gav ingen träff): 'Ej känd' (v1.10). Robust/säkerhet/stark/bekväm utelämnade. RÄTTA: 'lådan fram' står inte i källan (R1), byts mot källans 'låda i EPP och trä'."
+ },
+ {
+  "nr": 46703,
+  "id": "10472255848714",
+  "fil": "k_46barn2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Handskar Prinsessa, rosa",
+    "efter": "Handskar Prinsessa, Rosa"
+   },
+   "seo_title": {
+    "fore": "Handskar Prinsessa, rosa",
+    "efter": "Handskar Prinsessa, Rosa"
+   },
+   "meta": {
+    "fore": "Handskar Prinsessa är barnhandskar i storlek S för åldern 4–6 år, med inre vaddering och justerbara manschetter. Omkrets 15 cm.",
+    "efter": "Handskar Prinsessa i storlek S är gjorda för barn i åldern 4–6 år och har inre vaddering och justerbara manschetter. Omkrets 15 cm."
+   },
+   "html": {
+    "fore": "<p>Prinsesshandskarna är handskar för barn i storlek S, avsedda för åldern 4–6 år.",
+    "efter": "<p>Handskarna Prinsessa är gjorda för barn i storlek S och avsedda för åldern 4–6 år."
+   }
+  },
+  "skal": "Live ACTIVE, 59092, EAN 5902308590922, lager 8. Storlek S, ålder 4–6, omkrets 15 cm, inre vaddering och justerbara manschetter ur egen källa; skyddslöftet 'skydda händerna från stötar och repor', 'bekväm' och trasiga raden '5 - 15 cm - 15 cm' rätt utelämnade. RÄTTA: cirkulär inledning i html och meta ('Prinsesshandskarna är handskar', 'Handskar Prinsessa är barnhandskar', R11); färgordet i titel och SEO får stor bokstav (R9, praxis 'Handskar Liv Supreme SF, Svart')."
+ },
+ {
+  "nr": 46705,
+  "id": "10472281800970",
+  "fil": "k_46barn2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Babykälke Stiga Cruiser, grön",
+    "efter": "Babykälke Stiga Cruiser, Grön"
+   },
+   "seo_title": {
+    "fore": "Babykälke Stiga Cruiser",
+    "efter": "Babykälke Stiga Cruiser Grön"
+   },
+   "meta": {
+    "fore": "Kälken har dessutom en reflex på baksidan av kälken.",
+    "efter": "Kälken har dessutom en reflex på baksidan."
+   },
+   "html": {
+    "fore": "<li>Tillverkningsland enligt tillverkaren: Sverige</li>",
+    "efter": "<li>Tillverkningsland: Sverige</li>"
+   }
+  },
+  "skal": "Live ACTIVE, 74-6250-09, EAN 7318686250095, lager 6. Bälte, vadderad rygg och sits, reflex på baksidan och 'Tillverkad i Sverige' (ordagrant, ursprung enligt tillverkaren, R5) ur egen källa; 'säkerhetsbälte' skrivet som 'bälte', 'så säkra som möjligt' och skyddsutrustningsråd rätt utelämnade. RÄTTA: R9 i titeln (Grön); SEO får färgen eftersom syskonen Cruiser rosa (74-6250-07), black (74-6250-01) och Cruiser Eco är aktiva och oskrivna (R12, praxis 46001); 'av kälken' upprepas i meta; 'enligt tillverkaren' stod två gånger för samma ursprungspåstående (text och specifikation, R5, praxis 42401)."
+ },
+ {
+  "nr": 46706,
+  "id": "10472282784010",
+  "fil": "k_46barn2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Lastkapacitet 150 kg.",
+    "efter": "Lastkapacitet 150 kg enligt tillverkaren."
+   },
+   "html": {
+    "fore": "<li>Lastkapacitet enligt tillverkaren: 150 kg</li>",
+    "efter": "<li>Lastkapacitet: 150 kg</li>"
+   }
+  },
+  "skal": "Live ACTIVE, AM_CLASSICCARGO, lager 1, tagg På beställning; leveranstidsmeningen finns. Typordet Lastcykel står i egen källa (R7). Alla tekniska rader ur egen källa; 'Lastkapacitet: 150 kg' är svensk rad med etikett och enhet (R4). 'Slitstarkt stål och aluminium' (motsäger ramraden), 'hög säkerhetsnivå', 'slitstarka fotbromsar' rätt utelämnade. RÄTTA: 'enligt tillverkaren' stod två gånger för lastkapaciteten (text och specifikation, R5); i meta stod lastkapaciteten utan 'enligt tillverkaren' (R4)."
+ },
+ {
+  "nr": 46707,
+  "id": "10472282980618",
+  "fil": "k_46barn2_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, AM_ULTIMATEHARMONY, lager 1, tagg På beställning; leveranstidsmeningen finns. Alla uppgifter står i egen källa (36 V x 14 Ah = 504 Wh stämmer). Räckvidd och lastkapacitet 150 kg (svensk rad med etikett och enhet) under ett 'enligt tillverkaren'. Tippskydd och elektroniskt bromssystem rätt utelämnade. Inga löften. El-lastcykel med liten bokstav efter bindestreck (v1.5). Ingen dubblett (Deluxe, Ultimate Curve är andra modeller)."
+ },
+ {
+  "nr": 46708,
+  "id": "10472284487946",
+  "fil": "k_46barn2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Barnstol Urban Iki Bincho Black, med ramfäste framtill",
+    "efter": "Barnstol Urban Iki Bincho Black, med Ramfäste Framtill"
+   },
+   "html": {
+    "fore": "<li>Modell: Bincho Black</li>\n<li>Montering: Ramfäste framtill</li>\n<li>Rammonteringsdiameter: 22–28 mm</li>\n<li>Ålder: 9 månader till 3 år</li>\n<li>Lastkapacitet enligt tillverkaren: Upp till 15 kg</li>",
+    "efter": "<li>Färg: Bincho Black</li>\n<li>Montering: Ramfäste framtill</li>\n<li>Rammonteringsdiameter: 22–28 mm</li>\n<li>Ålder: 9 månader till 3 år</li>\n<li>Lastkapacitet: Upp till 15 kg</li>"
+   }
+  },
+  "skal": "Live ACTIVE, 212665, EAN 4511890212665, lager 3. EAN motsvarar Urban Iki framsits i färgen Bincho Black (https://www.cyclesuk.com/product/132342/urban-iki-front-seat-take/, https://www.urbaniki.com/en-dk/front-seat-in-bincho-black-bincho-black/): ramfäste framtill, 9 månader–3 år och 15 kg stämmer; källans 'bakre säten' är generell sortimentstext. EN14344, 'höga säkerhetsstandarder' och 'ultimat komfort' rätt utelämnade. RÄTTA: Bincho Black är färgnamnet, inte modellen (specifikationsraden); 'enligt tillverkaren' stod två gånger för lastkapaciteten (R5); R9 i titeln. Spärrlistan (utanfor-tills-vidare) stoppar produkten i skriptet tills undantag läggs in enligt beslutet 2026-11-08 (R14)."
+ },
+ {
+  "nr": 46711,
+  "id": "10472286322954",
+  "fil": "k_46barn2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Barnstol Polisport Joy med ramfäste, ljusgrå",
+    "efter": "Barnstol Polisport Joy med Ramfäste, Ljusgrå"
+   },
+   "meta": {
+    "fore": "Kapacitet upp till 22 kg. Artikelnummer 4838.",
+    "efter": "Kapaciteten är enligt tillverkaren upp till 22 kg."
+   },
+   "html": {
+    "fore": "<li>Kapacitet enligt tillverkaren: Upp till 22 kg</li>",
+    "efter": "<li>Kapacitet: Upp till 22 kg</li>"
+   }
+  },
+  "skal": "Live ACTIVE, 4838, EAN 5604415085406, lager 4. Egen källa: lätt borttagbar, rammonterad, ljusgrå, 'Kapacitet upp till 22 kg'. EAN hittades inte på nätet, men Polisport anger för Joy FF (rammonterad) högst 22 kg för barnet (https://www.polisport.com/en/move/child-bike-seats/rear-frame-mounting-system/joy-ff-frame-mounted-bicycle-child-seat_p4728.html); värdet återges ordagrant utan tolkning, vilket godtas. Tunn men räcker (två fakta utöver titeln). RÄTTA: 'enligt tillverkaren' två gånger för kapaciteten (R5); meta hade kapaciteten utan 'enligt tillverkaren' (R4) och utfyllnaden 'Artikelnummer 4838'; R9 i titeln. Spärrlistan stoppar produkten tills undantag läggs in (R14)."
+ },
+ {
+  "nr": 46712,
+  "id": "10472286552330",
+  "fil": "k_46barn2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Barnstol 9–15 kg, svart-grå, med ramfäste fram",
+    "efter": "Barnstol 9–15 kg, Svart-Grå, med Ramfäste Fram"
+   },
+   "seo_title": {
+    "fore": "Barnstol 9–15 kg, svart-grå",
+    "efter": "Barnstol 9–15 kg, Svart-Grå"
+   },
+   "meta": {
+    "fore": "Barnstol för barn som väger 9–15 kg, med ramfäste fram, justerbara fotstöd och tvättbart överdrag.",
+    "efter": "Barnstolen är avsedd för barn som väger 9–15 kg och har ramfäste fram, justerbara fotstöd och tvättbart överdrag."
+   }
+  },
+  "skal": "Live ACTIVE, S123-0024, EAN 4009208000245, lager 1. Barn 9–15 kg, runda och ovala ramrör, 3-punktsbälte, justerbara fotstöd och tvättbart överdrag ur egen källa; viktintervallet står även i live-titeln och är produktens målgrupp. Märke utelämnat (vendor Polisport, men EAN-prefixet pekar inte på Polisport): rätt. RÄTTA: metans första mening saknade huvudverb; R9 i titel och SEO. Spärrlistan stoppar produkten tills undantag läggs in (R14)."
+ },
+ {
+  "nr": 46713,
+  "id": "10472289468682",
+  "fil": "k_46barn2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Handskar Musse, blå",
+    "efter": "Handskar Musse, Blå"
+   },
+   "seo_title": {
+    "fore": "Handskar Musse, blå",
+    "efter": "Handskar Musse, Blå"
+   }
+  },
+  "skal": "Live ACTIVE, 9016, EAN 5902308590168, lager 12. Cykelhandskar, bild av Disneys tecknade figurer, kardborreband, vadderad handflata och handflatans bredd 7–8 cm ur egen källa; 'slitstarkt material' och 'perfekt passform' rätt utelämnade. RÄTTA: R9 i titel och SEO (Blå)."
+ },
+ {
+  "nr": 46714,
+  "id": "10472291205386",
+  "fil": "k_46barn2_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, FIIDOT2, lager 1, tagg På beställning; leveranstidsmeningen finns. Alla tekniska rader i egen svensk källa; cyklistlängd 155–200 cm är den entydiga delen av den trasiga ramraden (R2). Lastkapacitet 200 kg (svensk rad med etikett och enhet) och räckvidd under ett 'enligt tillverkaren'. 'Kraftfull', 'tar hand om dig' och barntransport rätt utelämnade. Annan färg än 46716, inte dubblett. El-lastcykel enligt v1.5."
+ },
+ {
+  "nr": 46716,
+  "id": "10472295072010",
+  "fil": "k_46barn2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "drivs av en 250 W motor",
+    "efter": "drivs av en 250 W-motor"
+   }
+  },
+  "skal": "Live ACTIVE, FIIDOT2-GREY, lager 1, tagg På beställning; leveranstidsmeningen finns. Samma tekniska data som 46714 ur egen källa (fjädringsväg här, slaglängd i den gröna, båda ordagrant). Annan färg, inte dubblett. RÄTTA: '250 W motor' ska skrivas '250 W-motor' i meta."
+ },
+ {
+  "nr": 46715,
+  "id": "10472291238154",
+  "fil": "k_46barn2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Barncykel Tabou Rocket FR, 16 tum, röd-gul",
+    "efter": "Barncykel Tabou Rocket FR, 16 tum, Röd-Gul"
+   },
+   "seo_title": {
+    "fore": "Barncykel Tabou Rocket FR 16 tum",
+    "efter": "Barncykel Tabou Rocket FR 16 tum Röd-Gul"
+   }
+  },
+  "skal": "Live ACTIVE, TAB25-6680, EAN 5904257310859, lager 7. 16 tum, stålram, kedjekåpa och 4–6 år beroende på längd ur egen källa; robust, pålitlig, skyddande och 'ökad säkerhet' rätt utelämnade. RÄTTA (R12): den skrivna 10486810575114 (Rocket FR 16 tum Blå-Turkos) har SEO 'Barncykel Tabou Rocket FR, 16 tum', som bara skiljer sig med ett kommatecken; färgen läggs till. R9 i titeln (Röd-Gul, som skrivna syskon)."
+ },
+ {
+  "nr": 46718,
+  "id": "10472303296778",
+  "fil": "k_46barn2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Reflex Bookman Soft Adventure",
+    "efter": "Reflex Bookman Soft Adventure Fox Red"
+   },
+   "meta": {
+    "fore": "Bookman Soft Adventure Reflector, Fox Red, är en reflex i enkla geometriska former som fästs med klämma eller snodd.",
+    "efter": "Reflexen Bookman Soft Adventure Reflector i färgen Fox Red har enkla geometriska former och fästs med klämma eller snodd."
+   }
+  },
+  "skal": "Live ACTIVE, 484B, EAN 7350051864841, lager 2. Enkla geometriska former, fästs med klämma eller snodd på kläder, ryggsäckar och barnvagnar ur egen källa; synlighets- och säkerhetslöften rätt utelämnade (v1.9). RÄTTA: meta var cirkulär ('… Reflector … är en reflex', R11); SEO får färgen eftersom rosa syskonet 485B (10665226895626) är aktivt och oskrivet (R12)."
+ },
+ {
+  "nr": 46719,
+  "id": "10472308211978",
+  "fil": "k_46barn2_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, lager 5. Varianter Default Title (010623130-M35, 1889 kr), M/black (samma SKU, 1639 kr) och XL/black (1639 kr): samma artikel i olika storlek med lager, v1.9 uppfylld; titel och text låser varken storlek, färg eller pris. Alla uppgifter ur egen källa; storlekstabellen S–XL rätt utelämnad, robust/säker/stabil/ergonomi rätt utelämnade. Spärrlistan (rullskridskor) stoppar produkten tills undantag läggs in (R14). Till David: Default Title-varianten har samma SKU som M/black men 250 kr högre pris."
+ },
+ {
+  "nr": 46722,
+  "id": "10475361206538",
+  "fil": "k_46barn2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Cykelstöd för 16–20 tums cyklar",
+    "efter": "Cykelstöd för 16–20 tums Cyklar"
+   },
+   "seo_title": {
+    "fore": "Cykelstöd för 16–20 tums cyklar",
+    "efter": "Cykelstöd för 16–20 tums Cyklar"
+   }
+  },
+  "skal": "Live ACTIVE, 1011, EAN 2099900001208 (butiksintern kod), lager 176. Centrerat, aluminium, 16–20 tum ur egen källa. Lastgräns saknas; EAN är internt och ingen tillverkarsida hittas, så 'Ej känd' enligt v1.10. Märke utelämnat (taggar Azimut/Azimuth). RÄTTA: R9 i titel och SEO ('Cyklar')."
+ },
+ {
+  "nr": 46723,
+  "id": "10475369562378",
+  "fil": "k_46barn2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Elektrisk sparkcykel Razor Electric Tekno Scooter",
+    "efter": "Elektrisk Sparkcykel Razor Electric Tekno Scooter"
+   },
+   "seo_title": {
+    "fore": "Elektrisk sparkcykel Razor Tekno",
+    "efter": "Elektrisk Sparkcykel Razor Tekno"
+   },
+   "meta": {
+    "fore": "drivs av en 80 W motor",
+    "efter": "drivs av en 80 W-motor"
+   }
+  },
+  "skal": "Live ACTIVE, 13173809, lager 1. Alla tekniska rader ordagrant ur egen källa; 'Maximal lastkapacitet: 50 kg' är svensk rad med etikett och enhet, en gång enligt tillverkaren (R4). UL2271, 'mjuk acceleration, lämplig för barn', 'slitstarkt' och Razors märkestext rätt utelämnade. RÄTTA: R9 i titel och SEO (Sparkcykel, praxis 'Liggande Motionscykel'); '80 W motor' ska skrivas '80 W-motor' i meta."
+ }
+]

@@ -1,0 +1,66 @@
+[
+ {
+  "id": "10636716376330",
+  "skäl": "Tunn och otydlig källa (R2/R3): egen text beskriver bara adduktorernas anatomi och löpning, ingen produktbeskrivning (material, mått, hur redskapet används). Webbkoll på EAN 4260438736360 ger en enda återförsäljare med avvikande namn och mått (Kruidvat, Dijbeen Trainer, 47 x 20 x 11 cm, 0,8 kg) och ingen tillverkarsida bekräftar modellen, så inga entydiga fakta finns."
+ },
+ {
+  "id": "10656691290378",
+  "skäl": "Produkttypen är oklar och källan motsäger titeln (R2/R3): titeln och taggarna säger Elliptisk träningsmaskin/Crosstrainer, men texten beskriver en roddmaskin. Dessutom exakt dubblett av aktiv annons 10656691323146 (samma SKU ER1000R19, olika pris 120 819 mot 119 009 kr). Lager måste flyttas först (R12a)."
+ },
+ {
+  "id": "10656691323146",
+  "skäl": "Produkttypen är oklar och källan motsäger titeln (R2/R3): titeln och taggarna säger Elliptisk träningsmaskin/Crosstrainer, men texten beskriver en roddmaskin. Dessutom exakt dubblett av aktiv annons 10656691290378 (samma SKU ER1000R19, pris 119 009 mot 120 819 kr). Lager måste flyttas först (R12a)."
+ },
+ {
+  "id": "10656690307338",
+  "skäl": "Exakt dubblett av aktiv annons 10656690274570 (samma SKU 1521-30 och EAN 7350097565429, samma titel). Lager måste flyttas först (R12a). Källan är dessutom tunn: bara att sittdynan passar Flex och Delight."
+ },
+ {
+  "id": "10656691716362",
+  "skäl": "Exakt dubblett av aktiv, färdigskriven annons 10656691650826 (Motionscykel BH Fitness Lyon Climber med 8 Lutningar, samma SKU H9117 och EAN 8445960033309; pris 14 319 mot 14 529 kr). Lager måste flyttas först (R12a)."
+ },
+ {
+  "id": "10656694173962",
+  "skäl": "Dubblett (R12a): samma modell och smak som den redan skrivna 10471287783690 (Kosttillskott Trec Boogieman Shot Bubble Gum, 100 ml, EAN 5902114046781; denna har EAN 5902114081409) med samma ingredienslista. Titel och SEO-titel kan inte göras unika utan ett typord eller en skillnad som saknar stöd i källan."
+ },
+ {
+  "id": "10665227976970",
+  "skäl": "Exakt dubblett av aktiv annons 10665228042506 (samma titel, SKU 317, EAN 7350051863172, samma pris). Lager måste flyttas först (R12a)."
+ },
+ {
+  "id": "10665228042506",
+  "skäl": "Exakt dubblett av aktiv annons 10665227976970 (samma titel, SKU 317, EAN 7350051863172, samma pris). Lager måste flyttas först (R12a)."
+ },
+ {
+  "id": "10665228239114",
+  "skäl": "Exakt dubblett av aktiv annons 10665228271882 (samma titel, SKU 528, EAN 7350051865282, samma pris). Lager måste flyttas först (R12a)."
+ },
+ {
+  "id": "10665228271882",
+  "skäl": "Exakt dubblett av aktiv annons 10665228239114 (samma titel, SKU 528, EAN 7350051865282, samma pris). Lager måste flyttas först (R12a)."
+ },
+ {
+  "id": "10673181229322",
+  "skäl": "Dubblett i titeln (R12a): samma modell och färg (Ayra 29 tum, Orange) som den skrivna aktiva 10673180475658 (variant L, SKU ...195). Denna har SKU K23/8/2/3/29/3/215 men storleken går inte att belägga på exakt artikelnummer (Leader Fox ingår inte i slutsiffreregeln), så ingen skiljande titel kan skrivas. Samma bedömning som i k_41c."
+ },
+ {
+  "id": "10673181360394",
+  "skäl": "Dubblett i titeln (R12a): samma modell och färg (Ayra 29 tum, Blå) som den skrivna aktiva 10673180508426 (variant L, SKU ...195). Denna har SKU K23/8/2/3/29/2/215 men storleken går inte att belägga på exakt artikelnummer (Leader Fox ingår inte i slutsiffreregeln), så ingen skiljande titel kan skrivas. Samma bedömning som i k_41c."
+ },
+ {
+  "id": "10676623966474",
+  "skäl": "Exakt dubblett av aktiv, färdigskriven annons 10676623933706 (Framlampa Bookman Volume 800, 800 Lumen, Svart, samma SKU 547 och EAN 7350051865473; pris 1 639 mot 1 629 kr). Lager måste flyttas först (R12a)."
+ },
+ {
+  "id": "10676713750794",
+  "skäl": "Exakt dubblett av aktiv annons 10676713783562 (samma titel, SKU 1521-28, EAN 7350097568499, samma pris) och tunn källa: bara att kapellställningen är för Long Lite (ett faktum utöver titeln). Lager måste flyttas först (R12a)."
+ },
+ {
+  "id": "10676713783562",
+  "skäl": "Exakt dubblett av aktiv annons 10676713750794 (samma titel, SKU 1521-28, EAN 7350097568499, samma pris) och tunn källa: bara att kapellställningen är för Long Lite (ett faktum utöver titeln). Lager måste flyttas först (R12a)."
+ },
+ {
+  "id": "10676714111242",
+  "skäl": "Tunn källa (R3): egen text har bara modellerna Flex Nova och Delight Nova och tillverkaren (ett faktum utöver titeln), och \"Premium\" i titeln saknar stöd i källan. Ingen tillverkarsida har kunnat knytas entydigt till artikelnumret 1521-100."
+ }
+]

@@ -1,0 +1,197 @@
+[
+ {
+  "nr": 46802,
+  "id": "10494685348106",
+  "fil": "k_46barn3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Barnskidstavar Rex Apollo, glasfiber",
+    "efter": "Barnskidstavar Rex Apollo, Glasfiber"
+   }
+  },
+  "skal": "Live ACTIVE, nio storleksvarianter 70–120 med olika SKU/EAN (21ARAH03AP-T03T…), 199 kr utom 115 (169 kr), lager 20. v1.9: samma artikel i olika längd, lager > 0; titel, SEO och text låser varken längd eller pris. Glasfiber, barn och de två stavlängdsformlerna står ordagrant i egen källa; enhet för längderna saknas och anges rätt inte. Inga löften. RÄTTA (R9): beskrivande ord i titeln med stor bokstav (praxis 46barn2). Obs: varianterna 70 och 80 har SKU-slut 670/680; påverkar inte texten."
+ },
+ {
+  "nr": 46804,
+  "id": "10494941823242",
+  "fil": "k_46barn3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Barnrullskridskor Fila J-One, S29–32, svart och röd",
+    "efter": "Barnrullskridskor Fila J-One, S29–32, Svart och Röd"
+   }
+  },
+  "skal": "Live ACTIVE, SKU 010619147, EAN 8026473412692, 2009 kr, lager 1. Modell J-One 2020, 70–72 mm 82A PU-hjul och ABEC 5 ur egen källa; storlek S29–32 och färg ur live-titeln. 'Hållbar', 'bekväm', 'säkerheten', 'stabilitet' och 'barn som väger upp till 100 kg' (lastuppgift i löptext, R4) rätt utelämnade. Inga dubbletter (J-One G Rosa/Magenta är annan artikel och DRAFT). RÄTTA (R9): färgen i titeln med stor bokstav. Spärrlistan (utanfor-tills-vidare-2026-11-04) stoppar produkten i skriptet tills undantag läggs in enligt beslutet 2026-11-08 (R14)."
+ },
+ {
+  "nr": 46805,
+  "id": "10494941888778",
+  "fil": "k_46barn3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Rullskridskor Fila J-One Combo",
+    "efter": "Barnrullskridskor Fila J-One Combo"
+   }
+  },
+  "skal": "Live ACTIVE, SKU 010616150, EAN 8026473364489, 2739 kr, lager 2. Justerbara, nybörjare ('tillverkaren riktar'), hjälm och skydd för knän/armbågar/handleder som innehåll, upp till fyra storlekar, 70–72 mm, ABEC 5 och fästsystem ur egen källa; storlek och färg ur live-titeln. 'Nödvändig skyddsutrustning', 'bekväm och stabil', 'säkert', 'jämn och kontrollerad' rätt utelämnade; hjälm och skydd utan funktionslöfte. RÄTTA (R7): SEO-titeln började med 'Rullskridskor' när titeln har typordet 'Barnrullskridskor'. Spärrlistan (utanfor-tills-vidare-2026-11-04) stoppar produkten i skriptet tills undantag läggs in enligt beslutet 2026-11-08 (R14)."
+ },
+ {
+  "nr": 46808,
+  "id": "10530126332170",
+  "fil": "k_46barn3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Handskar för barn Seven Polska Avengers, blå",
+    "efter": "Handskar för barn Seven Polska Avengers, Blå"
+   }
+  },
+  "skal": "Live ACTIVE, SKU 9059, EAN 5902308590595, 129 kr, lager 12. Barn, Avengers-stil, inre vaddering, storlek S/ålder 4–6 och justerbara manschetter ur egen källa; färg ur live-titeln. Skyddslöftet ('skydda händerna från stötar och repor'), 'bekväm' och den trasiga raden rätt utelämnade. Ingen dubblett (Handskar Cars 9044 och Prinsessa 59092 är andra artiklar). RÄTTA (R9): färgen i titeln med stor bokstav, som praxis 'Handskar Cars för barn, Röda'."
+ },
+ {
+  "nr": 46809,
+  "id": "10530129445130",
+  "fil": "k_46barn3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Knä- och armbågsskydd Seven Polska Fuses Cars, röd",
+    "efter": "Knä- och armbågsskydd Seven Polska Cars, Röd"
+   },
+   "seo_title": {
+    "fore": "Armbågsskydd Seven Polska Fuses Cars",
+    "efter": "Knä- och armbågsskydd Seven Polska Cars"
+   },
+   "meta": {
+    "fore": "Knä- och armbågsskydd för barn med bil-motiv från Cars och vaddering. Färgen är röd och artikelnumret 9006.",
+    "efter": "Seven Polska Cars är vadderade knä- och armbågsskydd för barn med bilmotiv. Färgen är röd och artikelnumret är 9006."
+   },
+   "html": {
+    "fore": "<p>Fuses Cars från Seven Polska är knä- och armbågsskydd för barn i bil-stil. Skydden har vadderingen som beskrivs av tillverkaren.</p><h2>Passar för</h2><ul>\n<li>Dig som söker knä- och armbågsskydd till barn</li>\n<li>Dig som vill ha skydd med bil-motiv</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Knä- och armbågsskydd för barn</li>\n<li>Märke: Seven Polska</li>\n<li>Serie: Fuses Cars</li>",
+    "efter": "<p>Cars från Seven Polska är vadderade knä- och armbågsskydd för barn med bilmotiv.</p><h2>Passar för</h2><ul>\n<li>Dig som söker knä- och armbågsskydd till barn</li>\n<li>Dig som vill ha skydd med bil-motiv</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Knä- och armbågsskydd för barn</li>\n<li>Märke: Seven Polska</li>\n<li>Modell: Cars</li>"
+   }
+  },
+  "skal": "Live ACTIVE, SKU 9006, EAN 5902308590069, 209 kr, lager 5. Källan är en mening med skyddslöften; entydiga fakta är knän och armbågar, barn, bilstil och vaddering, plus Cars och röd ur live-titeln (räcker enligt R3). 'Skyddar', 'vid fall', 'utmärkt skydd' rätt utelämnade. RÄTTA: (1) 'Fuses' är ingen serie utan maskinöversättning (estniska 'kaitsmed' = skydd/säkringar; syskonet 10541367394570 heter 'Frozen protectors') och stryks ur titel, SEO och text (R2); (2) SEO-titeln 'Armbågsskydd …' beskrev bara halva produkten och avvek från titelns typord (R7); (3) 'vadderingen som beskrivs av tillverkaren' är en arbetsformulering (R11); (4) metan 'bil-motiv från Cars' antyder en licens som källan inte nämner. Färgen i titeln med stor bokstav (R9)."
+ },
+ {
+  "nr": 46810,
+  "id": "10530129838346",
+  "fil": "k_46barn3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Knä- och armbågsskydd Seven Polska Fuses Frozen 2, grön",
+    "efter": "Knä- och armbågsskydd Seven Polska Frozen 2, Grön"
+   },
+   "seo_title": {
+    "fore": "Armbågsskydd Seven Polska Fuses Frozen",
+    "efter": "Knä- och armbågsskydd Seven Polska Frozen 2"
+   },
+   "html": {
+    "fore": "<p>Setet Fuses Frozen 2 från Seven Polska innehåller två armbågsskydd och två knäskydd för barn. Delarna är anatomiskt formade och dekorerade med Disney-figurer.</p><h2>Passar för</h2><ul>\n<li>Dig som söker knä- och armbågsskydd till barn</li>\n<li>Dig som åker rullskridskor, skridskor, inlines eller sparkcykel</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Knä- och armbågsskydd för barn</li>\n<li>Märke: Seven Polska</li>\n<li>Serie: Fuses Frozen 2</li>",
+    "efter": "<p>Setet Frozen 2 från Seven Polska innehåller två armbågsskydd och två knäskydd för barn. Delarna är anatomiskt formade och dekorerade med Disney-figurer.</p><h2>Passar för</h2><ul>\n<li>Dig som söker knä- och armbågsskydd till barn</li>\n<li>Dig som åker rullskridskor, skridskor, inlines eller sparkcykel</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Knä- och armbågsskydd för barn</li>\n<li>Märke: Seven Polska</li>\n<li>Modell: Frozen 2</li>"
+   }
+  },
+  "skal": "Live ACTIVE, SKU 9061, EAN 5902308590618, 209 kr, lager 2. Anatomiskt formade, barn, användning med rullskridskor/skridskor/inlines/sparkcyklar, Disney-figurer, breda elastiska band, två armbågs- och två knäskydd ur egen källa. 'Slitstarkt', 'perfekt passform', 'minska skador vid fall' rätt utelämnade; EN 14120 utelämnad (godtas, ingen säkerhetsuppgift i texten). RÄTTA: 'Fuses' är maskinöversättning, inte serienamn (R2, se 46809), stryks ur titel, SEO och text; SEO-titeln 'Armbågsskydd …' ändras till titelns typord (R7, exakt 43 tecken); färgen i titeln med stor bokstav (R9)."
+ },
+ {
+  "nr": 46812,
+  "id": "10541367263498",
+  "fil": "k_46barn3_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 59542, EAN 5902308595422, 99 kr, lager 5. Två plastracketar och en liten boll, Disney-figurer, lek på stranden/parken/trädgården och inomhus, Seven Polska ur egen källa; Frozen och lila ur live-titeln. 'Roligt' och 'perfekt' rätt utelämnade. Titel och SEO finns bara i det aldrig skrivna a_5-utkastet för samma produkt. Ingen dubblett."
+ },
+ {
+  "nr": 46813,
+  "id": "10541367492874",
+  "fil": "k_46barn3_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 59497, EAN 5902308594975, 39 kr, lager 3. Lätt (ordagrant), Disney-figurer, 23 cm, utomhuslek, Seven Polska ur egen källa; Frozen och lila ur live-titeln. 'Idealisk' och 'roliga' rätt utelämnade. Titel och SEO finns bara i det aldrig skrivna a_5-utkastet för samma produkt."
+ },
+ {
+  "nr": 46815,
+  "id": "10561353187594",
+  "fil": "k_46barn3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Skydden är gjorda av plast och har mattsvart finish. Beställningsvaror kan ta upp till en vecka längre.</p>",
+    "efter": "Skydden är gjorda av plast och har mattsvart finish.</p>"
+   }
+  },
+  "skal": "Live ACTIVE, SKU 12153, EAN 4002556159092, 359 kr, lager 3, tagg På beställning. Rowdy 2.0, 20–24 tum, mountainbikes för barn och ungdomar, plast, mattsvart ur egen källa. 'Slitstarkt', 'hållbar', 'effektivt skydd mot lera och vatten', 'lätt', 'enkel installation' rätt utelämnade. Ingen dubblett (SKS Rowdy 10078 är annan EAN och DRAFT). RÄTTA (R13): leveranstidsmeningen stod två gånger, i inledningen och i standardblocket; den i inledningen stryks så att blocket är exakt som i profilen. Spärrlistan (utanfor-tills-vidare-2026-11-04) stoppar produkten i skriptet tills undantag läggs in enligt beslutet 2026-11-08 (R14)."
+ },
+ {
+  "nr": 46816,
+  "id": "10572637012234",
+  "fil": "k_46barn3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Polaver stödhjul är cykelsidohjul för barn och passar cyklar med 12, 14, 16, 18 och 20 tums hjul.",
+    "efter": "<p>Polaver stödhjul passar barncyklar med 12, 14, 16, 18 och 20 tums hjul."
+   },
+   "meta": {
+    "fore": "Passar barncyklar med hjul på 12 till 20 tum: Polaver stödhjul med plasthjul i svart gummi och monteringsfästen i stål.",
+    "efter": "Polaver stödhjul passar barncyklar med 12–20 tums hjul. Hjulen är av plast täckt med svart gummi och fästena av silverfärgat stål."
+   }
+  },
+  "skal": "Live ACTIVE, SKU AR-1220-M, ingen EAN, 229 kr, lager 5. 12/14/16/18/20 tum, plast med svart gummi, stålfästen silver, alla monteringsdelar, enkelväxel/navväxel, ej utanpåliggande växlar ur egen källa. Bärande del utan lastgräns i källan; 'Maximal lastgräns: Ej känd' och meningen i texten följer v1.10. 'Reservhjul' (motsäger resten) rätt utelämnat. RÄTTA: inledningen 'stödhjul är cykelsidohjul' är cirkulär (R11); metan sade 'plasthjul i svart gummi', men källan anger plasthjul täckta med svart gummi (R1)."
+ },
+ {
+  "nr": 46818,
+  "id": "10612579041546",
+  "fil": "k_46barn3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Barnsolglasögon Cairn Play, 4–8 år, matt svart",
+    "efter": "Barnsolglasögon Cairn Play, 4–8 år, Matt Svart och Fluo Rosa"
+   },
+   "html": {
+    "fore": "<li>Ögonavstånd: 116 mm</li>\n<li>Bredd på tinningen: 16 mm</li>\n",
+    "efter": ""
+   }
+  },
+  "skal": "Live ACTIVE, SKU JSPLAY812TU, EAN 3267654914276, 179 kr, lager 1. Ålder 4–8, kategori 4, antireflex, flexibla bågar och glasbredd 54 mm ur egen källa. 'Pålitligt skydd', 'helt skyddade från UV', 'säker sikt', 'tål stötar' rätt utelämnade. Tillverkarsidan gick inte att nå. RÄTTA: (1) 'Ögonavstånd 116 mm' är orimligt som ögonavstånd och troligen maskinöversatt (ram- eller bågmått), och 'Bredd på tinningen 16 mm' är oklar; båda stryks (R2), samma bedömning som utkastaren gjorde för Bloom; (2) titeln angav bara 'matt svart' men live-färgen är Matt Svart Fluo Rosa; hela färgen och stor bokstav (R1, R9)."
+ },
+ {
+  "nr": 46819,
+  "id": "10612579074314",
+  "fil": "k_46barn3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Barnsolglasögon Cairn Bloom, 8–12 år, matt svart",
+    "efter": "Barnsolglasögon Cairn Bloom, 8–12 år, Matt Svart och Ljusröd"
+   }
+  },
+  "skal": "Live ACTIVE, SKU JLBLOOM02TU, EAN 3267654930092, 209 kr, lager 1. Ålder 8–12, kategori 4, antireflex, (super)flexibla bågar, glasbredd 51 mm ur egen källa; de otydliga måttraderna rätt utelämnade. 'Säkerhet', 'maximalt skydd mot UV', 'säker sikt', 'oöverträffad bärkomfort' rätt utelämnade. RÄTTA: titeln angav bara 'matt svart' men live-färgen är Matt Svart Ljus Röd; hela färgen och stor bokstav (R1, R9)."
+ },
+ {
+  "nr": 46821,
+  "id": "10665226895626",
+  "fil": "k_46barn3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Reflektor för barn Bookman Soft Adventure, rosa",
+    "efter": "Reflektor för barn Bookman Soft Adventure, Rosa"
+   },
+   "html": {
+    "fore": "<p>Bookman Soft Adventure är reflektorer i form av små djur, gjorda för barn. De fästs med klämma eller snöre.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en reflektor till barnets kläder eller ryggsäck</li>\n<li>Dig som vill fästa en reflektor på en barnvagn</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Reflektor för barn</li>\n<li>Märke: Bookman</li>\n<li>Modell: Soft Adventure</li>\n<li>Form: Små djur</li>\n",
+    "efter": "<p>Bookman Soft Adventure är gjord för barn och fästs med klämma eller snöre. Förpackningen innehåller en reflektor.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en reflektor till barnets kläder eller ryggsäck</li>\n<li>Dig som vill fästa en reflektor på en barnvagn</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Reflektor för barn</li>\n<li>Märke: Bookman</li>\n<li>Modell: Soft Adventure</li>\n<li>Innehåll: 1 reflektor</li>\n"
+   },
+   "meta": {
+    "fore": "Bookman Soft Adventure är reflektorer i form av små djur för barn. De fästs på kläder, ryggsäck eller barnvagn med klämma eller snöre.",
+    "efter": "Den rosa reflektorn Bookman Soft Adventure är gjord för barn och fästs på kläder, ryggsäck eller barnvagn med klämma eller snöre."
+   }
+  },
+  "skal": "Live ACTIVE, SKU 485B, EAN 7350051864858, 89 kr, lager 1. Tillverkarsidan https://bookman.se/products.json (produkt 'Hanging Reflectors Adventure', handle soft-adventure-reflectors) visar varianten 485 'Ghost Pink' och 'Contents: 1 x Hanging Reflectors Adventure'. Utkastets 'reflektorer i form av små djur' och 'Form: Små djur' gäller serien (Fox Red 484 är räv), inte exakt denna artikel, och plural motsäger tillverkarens innehåll (en reflektor). Löften om skydd, säkerhet och certifierad reflektion rätt utelämnade (v1.9). RÄTTA: formen stryks, innehållet anges som 1 reflektor (R1, artikelentydighet); färgen i titeln med stor bokstav (R9). Ingen dubblett (Fox Red 484B är annan EAN)."
+ }
+]

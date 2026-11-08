@@ -1,0 +1,155 @@
+[
+ {
+  "nr": 46101,
+  "id": "10471175520522",
+  "fil": "k_46sak2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Reflekterande klistermärken Bookman Reflective Adventure Stickers",
+    "efter": "Reflekterande klistermärken Bookman Adventure Stickers, Grön"
+   },
+   "seo_title": {
+    "fore": "Klistermärken Bookman Adventure Stickers",
+    "efter": "Klistermärken Bookman Adventure Grön"
+   },
+   "meta": {
+    "fore": "Klistermärkena är lätta att ta bort.",
+    "efter": "Klistermärkena är enligt tillverkaren lätta att ta bort."
+   },
+   "html": {
+    "fore": "<li>Modell: Reflective Adventure Stickers</li>",
+    "efter": "<li>Modell: Reflective Adventure Stickers</li>\n<li>Färg: Grön</li>"
+   }
+  },
+  "skal": "Live ACTIVE, Bookman, två varianter med samma SKU 491 och EAN 7350051864919 (Default Title 69 kr lager 4, \"491\" 59 kr lager 3): överbliven Default Title, v1.7 gäller. Källan stämmer (cykelramar, styren, hjälmar, lätta att ta bort, kombinera färger och mönster); \"säkerhet\", \"mer synlig i trafiken\" och vidhäftning i regn/snö/hagel är rätt utelämnade (v1.9, inga synlighets- eller skyddslöften). RÄTTA: samma serie finns aktiv i Yellow (10472303198474, EAN …4896, utkast 46301) och Vit (10548248215818, EAN …4889, utkast 46408), så titeln måste skilja färgerna (David 2026-11-05: samma modell, annan färg får egen titel som skiljer dem). Färgen Green står i live-titeln och översätts till Grön i titel, SEO och specifikation; \"Reflective\" stryks i titeln så att den ryms (60 tecken). Meta: \"lätta att ta bort\" får \"enligt tillverkaren\" som i beskrivningen."
+ },
+ {
+  "nr": 46102,
+  "id": "10472193655050",
+  "fil": "k_46sak2_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, Nutcase, en variant 10001789, EAN 194521007843, 2059 kr, lager 3. Allt ur egen källa: XS 48–52 cm, MIPS, polykarbonatskal, EPS-skum, Fidlock magnetspänne, CE/CPSC/AS. Standarderna står ordagrant i källan och återges som \"Standarder enligt tillverkaren\" utan skyddslöfte; \"ledande inom säkerhet\", \"skyddande\", \"absorbera kraft\", att MIPS minskar stöten och \"maximal komfort\" är utelämnade. Ingen dubblett (övriga Little Nutty har andra EAN och mönster). Typord Hjälm följer live-titeln (syskonen i 46307/46308 heter Barnhjälm i live). Spärrlistan (utanfor-tills-vidare) stoppar produkten i skriptet tills undantag läggs in enligt beslutet 2026-11-08."
+ },
+ {
+  "nr": 46103,
+  "id": "10472234123530",
+  "fil": "k_46sak2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "har antibakteriell vaddering,",
+    "efter": "har TransTextura Plus-vaddering,"
+   },
+   "html": {
+    "fore": "Den har antibakteriell TransTextura Plus-vaddering och justerbara, vadderade fästband av typen Textura-Transflex.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en cykelhjälm i storlek 46–51 cm</li>\n<li>Dig som vill ha en cykelhjälm med integrerat visir</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Cykelhjälm</li>\n<li>Märke: Giant</li>\n<li>Modell: Lena</li>\n<li>Färg: Gloss Coral</li>\n<li>Storlek: 46–51 cm</li>\n<li>Vaddering: Antibakteriell TransTextura Plus</li>",
+    "efter": "Den har TransTextura Plus-vaddering och justerbara, vadderade fästband av typen Textura-Transflex.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en cykelhjälm i storlek 46–51 cm</li>\n<li>Dig som vill ha en cykelhjälm med integrerat visir</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Cykelhjälm</li>\n<li>Märke: Giant</li>\n<li>Modell: Lena</li>\n<li>Färg: Gloss Coral</li>\n<li>Storlek: 46–51 cm</li>\n<li>Vaddering: TransTextura Plus</li>"
+   }
+  },
+  "skal": "Live ACTIVE, vendor Liv, live-titel GIANT Lena, en variant 800002260, EAN 4713250839424, 479 kr, lager 6. Storlek 46–51 cm, visir i skum, TransTextura Plus-vaddering och justerbara vadderade band stämmer med källan; \"säker passform\" och Giants märkestext utelämnade. RÄTTA: \"antibakteriell\" är ett hälsopåstående (praxis: Giant Doublespring 418 m.fl. strök ordet) och tas bort i meta, brödtext och specifikation. Spärrad som tidigare avvisad (barnhjälm), behöver undantag enligt beslutet 2026-11-08."
+ },
+ {
+  "nr": 46104,
+  "id": "10472235270410",
+  "fil": "k_46sak2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "har insektsnät, antibakteriell vaddering och",
+    "efter": "har insektsnät, TransTextura Plus-vaddering och"
+   },
+   "html": {
+    "fore": "insektsnät och antibakteriell TransTextura Plus-vaddering.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en cykelhjälm med insektsnät</li>\n<li>Dig som vill ha en cykelhjälm i storlek 46–51 cm</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Cykelhjälm</li>\n<li>Märke: Giant</li>\n<li>Modell: Lena</li>\n<li>Färg: Gloss Aqua</li>\n<li>Storlek: 46–51 cm</li>\n<li>Vaddering: Antibakteriell TransTextura Plus</li>",
+    "efter": "insektsnät och TransTextura Plus-vaddering.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en cykelhjälm med insektsnät</li>\n<li>Dig som vill ha en cykelhjälm i storlek 46–51 cm</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Cykelhjälm</li>\n<li>Märke: Giant</li>\n<li>Modell: Lena</li>\n<li>Färg: Gloss Aqua</li>\n<li>Storlek: 46–51 cm</li>\n<li>Vaddering: TransTextura Plus</li>"
+   }
+  },
+  "skal": "Live ACTIVE, vendor Liv, en variant 800002259, EAN 4713250839417, 459 kr, lager 4. Egen källa: 46–51 cm, skärm i skum, insektsnät, vaddering, band. Egen artikel (annan färg och EAN än 46103), titlarna skiljer färgerna. RÄTTA: \"antibakteriell\" stryks i meta, brödtext och specifikation (hälsopåstående)."
+ },
+ {
+  "nr": 46105,
+  "id": "10472237367562",
+  "fil": "k_46sak2_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, Lazer, en variant BLC2227891160, EAN 5400974014747, 689 kr, lager 1. Egen källa: KinetiCore, automatiskt EZ Fit-system, 46–52 cm, barn från 1 år. Viktraden är delvis trasig (\"240 g 240 g 240 cm - 240 lbs\"); den entydiga delen 240 g bekräftas av https://lazersport.com/products/pnut-kineticore (240 g, Toddler uni-size 46–52 cm), R2. \"Starkare material\", \"absorberar slagkraft\", \"mer skydd\", \"bättre ventilerad\" utelämnade; CE-CPSC ur live-titeln utelämnat. Ingen dubblett (Pnut 2.0 KC 10472298348810 är annan modell och DRAFT). Spärrad som tidigare avvisad, behöver undantag."
+ },
+ {
+  "nr": 46106,
+  "id": "10472237596938",
+  "fil": "k_46sak2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": " Hjälmen väger 300 g.",
+    "efter": ""
+   },
+   "html": {
+    "fore": " Hjälmen väger 300 g.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en cykelhjälm på 300 g</li>\n<li>Dig som söker en cykelhjälm med Turnfit plus-system</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Cykelhjälm</li>\n<li>Märke: Lazer</li>\n<li>Modell: Chiru</li>\n<li>Färg: Röd</li>\n<li>System: Turnfit plus</li>\n<li>Ventilation: 15 öppningar</li>\n<li>Vikt: 300 g</li>\n",
+    "efter": "</p><h2>Passar för</h2><ul>\n<li>Dig som söker en cykelhjälm med 15 ventilationsöppningar</li>\n<li>Dig som söker en cykelhjälm med Turnfit plus-system</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Cykelhjälm</li>\n<li>Märke: Lazer</li>\n<li>Modell: Chiru</li>\n<li>Färg: Röd</li>\n<li>System: Turnfit plus</li>\n<li>Ventilation: 15 öppningar</li>\n"
+   }
+  },
+  "skal": "Live ACTIVE, Lazer, en variant BLC2207887978, EAN 5420078879875, 1699 kr, lager 3. Limar-stycket är rätt utelämnat; Turnfit plus, 15-luftventilationssystem (15 ventiler bekräftas av återförsäljare, t.ex. https://www.99bikes.com.au/helmet-lazer-chiru-matte-red) och CE/CPSC/AS är entydiga. RÄTTA: källan listar storlekarna S, M och L och sedan \"Vikt: 300g\", men produkten säljs som en variant utan storlek; återförsäljare anger 300 g bara för storlek S (M 340 g, L 370 g), så vikten är inte entydig för just denna artikel (R1/R2) och stryks i meta, brödtext, Passar för och specifikation. Kvar finns tre entydiga fakta utöver titeln. Storleken på exemplaret är okänd, se frågor."
+ },
+ {
+  "nr": 46107,
+  "id": "10472237629706",
+  "fil": "k_46sak2_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, Lazer, en variant BLC2167880917, EAN 5420078809179, 729 kr, lager 2. Egen källa: Comfit3-spännsystem, 6 ventilationsöppningar, vikt 260 g, CE/CPSC/AS. Det maskinöversatta stycket (\"Bob Bobs Bobs …\") och alla säkerhetsformuleringar (\"säkerställer säkerheten\", \"bekvämt och säkert\", \"svalt\") är utelämnade. 6 ventiler och Comfit3 stämmer med återförsäljare; vikten varierar mellan återförsäljare (260–277 g), men egen källa anger entydigt 260 g (R1). Spärrad (utanfor-tills-vidare), behöver undantag."
+ },
+ {
+  "nr": 46108,
+  "id": "10472238743818",
+  "fil": "k_46sak2_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, Lazer, tagg Cykelbelysning, en variant PLZ2167881921, EAN 5420078819222, 159 kr, lager 31. Bara tekniska uppgifter ordagrant ur källan (CR2032, 37 h, 4 lumen, 12 g); \"göra dig synlig\" och \"ett av de bästa sätten\" utelämnade. Inga synlighets- eller säkerhetslöften. Titel 43 tecken, unik."
+ },
+ {
+  "nr": 46109,
+  "id": "10472242249994",
+  "fil": "k_46sak2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Frihjulsnav bak Shimano FH-TX5008-QR, 8/9-delat",
+    "efter": "Frihjulsnav bak Shimano FH-TX5008-QR för V-broms"
+   },
+   "meta": {
+    "fore": "Frihjulsnav bak Shimano FH-TX5008-QR för mountainbikes med V-broms. Navet har snabbkoppling, är 8/9-delat och har O.L.D. 135 mm.",
+    "efter": "Frihjulsnavet Shimano FH-TX5008-QR monteras bak på mountainbikes med V-broms. Navet har snabbkoppling och O.L.D. 135 mm."
+   },
+   "html": {
+    "fore": "<p>Frihjulsnaven Shimano FH-TX5008-QR monteras bak på mountainbikes med V-broms. Navet har snabbkoppling och är 8/9-delat.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en frihjulsnav bak till en mountainbike med V-broms</li>\n<li>Dig som söker ett 8/9-delat nav med snabbkoppling</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Frihjulsnav bak</li>\n<li>Märke: Shimano</li>\n<li>Modell: FH-TX5008-QR</li>\n<li>Bromstyp: V-broms</li>\n<li>Fastsättning: Snabbkoppling</li>\n<li>Delning: 8/9-delat</li>\n",
+    "efter": "<p>Frihjulsnavet Shimano FH-TX5008-QR monteras bak på mountainbikes med V-broms. Navet har snabbkoppling och O.L.D. 135 mm.</p><h2>Passar för</h2><ul>\n<li>Dig som söker ett frihjulsnav bak till en mountainbike med V-broms</li>\n<li>Dig som söker ett nav med snabbkoppling och O.L.D. 135 mm</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Frihjulsnav bak</li>\n<li>Märke: Shimano</li>\n<li>Modell: FH-TX5008-QR</li>\n<li>Bromstyp: V-broms</li>\n<li>Fastsättning: Snabbkoppling</li>\n"
+   }
+  },
+  "skal": "Live ACTIVE, Shimano, en variant VMAFHTX5008AZBL, ingen EAN, 219 kr, lager 18. Typbytet Bakdäck → Frihjulsnav bak har stöd i egen källtext (R7) och är rätt; FH-TX5008-QR används av återförsäljare för QR-versionen. O.L.D. 135 och flänsdiameter 53,8 mm stämmer med återförsäljardata. RÄTTA: (1) växeluppgiften är motsägande i egen källa (\"8/9-delat\" i rubriken, \"Bakre hastigheter: 11/10/9/8\" i specifikationen; återförsäljare anger 8/9/10) och \"8/9-delat\" är dessutom en maskinöversättning av 8/9-speed, så den stryks i titel, meta, brödtext, Passar för och specifikation (R2, R4-praxis för motsägande värden). (2) Nav är neutrum: \"Frihjulsnaven\" → \"Frihjulsnavet\", \"en frihjulsnav\" → \"ett frihjulsnav\". (3) Metans första mening saknade verb. Färg Svart ur live-titeln enligt praxis."
+ },
+ {
+  "nr": 46110,
+  "id": "10472242446602",
+  "fil": "k_46sak2_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, Shimano, en variant VMESMRT64SEC (S = 160 mm), EAN 4550170451974, 469 kr, lager 5. 160 mm och Center Lock ur live-titeln; källans serietext med 220/203 mm och alla bromsprestandapåståenden (\"kraftfull\", \"10 % mer bromskraft\", \"jämn bromsning\") är utelämnade. Kompatibilitet harts/metall står ordagrant i källan. Skild från SM-RT64 180 mm (46005, annan EAN 4550170451967). Bromsdel skrivs enligt beslutet 2026-11-08."
+ },
+ {
+  "nr": 46111,
+  "id": "10472242512138",
+  "fil": "k_46sak2_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, Shimano, en variant VMISMRT86L2, EAN 4524667744689, 1639 kr, lager 9. EAN är SM-RT86 L 203 mm 6-bult (https://nanobike.de/en/bike-parts/brakes/discs/8576/shimano-disc-sm-rt86-ice-tech-6-loch-203-mm). ICE TECHNOLOGY och tre lager rostfritt stål/aluminium/rostfritt stål ur egen källa; \"jämn prestanda\", \"kylteknik\", \"värmebeständighet\", \"mindre blekning\", \"längre livslängd\" och \"certifierad\" utelämnade. Modellbeteckningen kan läggas till senare (v1.6, EAN-träff) men krävs inte. Skild från SM-RT86 180 mm (10472240349450, avvisad 46208). Spärrad som tidigare avvisad (bromsdel), behöver undantag."
+ },
+ {
+  "nr": 46112,
+  "id": "10472243200266",
+  "fil": "k_46sak2_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, Shimano, en variant BLR400RL, ingen EAN, 259 kr, lager 7. Källan är delvis maskinöversatt; de entydiga delarna används: \"SHIMANO SORA BL-R400 bromshandtag … droppformade styren\", klämma 23,8–24,2 mm (Shimanos klämdiameter för droppstyre), kompatibel med Dual-Pivot-bromssystem; höger ur live-titeln och SKU (BLR400RL). Typbytet Bromslänk → Bromshandtag har stöd i källtexten (R7). \"Aerodynamisk\", \"fjädring\", \"SUPER SLR\" och \"bekväm skyddande ringform\" utelämnade."
+ }
+]

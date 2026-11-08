@@ -1,0 +1,169 @@
+[
+ {
+  "nr": 46401,
+  "id": "10494941692170",
+  "fil": "k_46sak5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, lager 2, tagg På beställning (leveranstidsmeningen finns). Två varianter: Default Title 3005010114/EAN …0460 22 889 kr och M / purple 3005010115/EAN …0477 19 909 kr; enligt Giant/Liv-regeln 2026-11-08 är det S och M i olika färg av samma modell, så v1.9 gäller (lager > 0) och titel, SEO och text låser varken färg, storlek eller pris. Alla uppgifter (ALUXX-aluminium, Gates remdrift, Nexus 8, MT200 hydrauliska, P-X3 700x45C, stöd/stänkskärmar/pakethållare/ramlås/ljus, stadskörning och lättare turer) står i egen källa; pålitlig, stabil, underhållsfri, säkerhet och trygghet rätt utelämnade. Pakethållaren nämns bara som ingående del, ingen lastuppgift. Ingen dubblett (Liv Allure RS 2 GB är annan modell)."
+ },
+ {
+  "nr": 46402,
+  "id": "10515754516746",
+  "fil": "k_46sak5_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Scooter Rideoo 120 City, Hopfällbar",
+    "efter": "Sparkcykel Rideoo 120 City, Rosa"
+   },
+   "seo_title": {
+    "fore": "Scooter Rideoo 120 City",
+    "efter": "Sparkcykel Rideoo 120 City, Rosa"
+   },
+   "meta": {
+    "fore": "Rideoo 120 City Scooter är hopfällbar, har justerbar styrehöjd och polyuretanhjul på 120 mm. Den är lämplig för åldrarna 4–7 år och väger 3,4 kg.",
+    "efter": "Sparkcykeln Rideoo 120 City i rosa är hopfällbar, har höjdjusterbart styre och polyuretanhjul på 120 mm. Den är för åldrarna 4–7 år och väger 3,4 kg."
+   },
+   "html": {
+    "fore": "<p>Rideoo 120 City Scooter fälls ihop och har justerbar styrehöjd och polyuretanhjul på 120 mm. Den väger 3,4 kg och är lämplig för åldrarna 4–7 år. Enligt tillverkaren är maximal belastning 70 kg.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en hopfällbar scooter för barn i åldern 4–7 år</li>\n<li>Dig som vill ha en scooter med justerbar styrehöjd</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Scooter</li>\n<li>Märke: Rideoo</li>\n<li>Modell: 120 City Scooter</li>\n<li>Hopfällbar: Ja</li>\n<li>Styrehöjd: Justerbar</li>",
+    "efter": "<p>Sparkcykeln Rideoo 120 City i rosa är hopfällbar och har höjdjusterbart styre och polyuretanhjul på 120 mm. Den väger 3,4 kg och är lämplig för åldrarna 4–7 år. Enligt tillverkaren är maximal belastning 70 kg.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en hopfällbar sparkcykel för barn i åldern 4–7 år</li>\n<li>Dig som vill ha en sparkcykel med höjdjusterbart styre</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Sparkcykel</li>\n<li>Märke: Rideoo</li>\n<li>Modell: 120 City Scooter</li>\n<li>Färg: Rosa</li>\n<li>Hopfällbar: Ja</li>\n<li>Styre: Höjdjusterbart</li>"
+   }
+  },
+  "skal": "Live ACTIVE, lager 2, en variant SKU 4751036030139 (inget EAN-fält). Uppgifterna (hopfällbar, justerbart styre, PU-hjul 120 mm, ABEC-9, 3,4 kg, 4–7 år) står i egen källa; 'Maximal belastning: upp till 70 kg' är svensk rad med etikett och enhet och står en gång enligt tillverkaren i texten (R4, som de skrivna syskonen). LED-belysning rätt struken. RÄTTA: (1) Samma serie finns skriven i Turkos, Svart, Salmon, Blå och Lila som 'Sparkcykel Rideoo 120 City, <färg>' från samma typ av live-titel ('Scooter Rideoo 120 City Scooter …'), så typordet görs enhetligt (R7) och titeln måste skilja färgen (David 2026-11-05). EAN 4751036030139 är enligt scootshop.net (https://www.scootshop.net/mestske-kolobezky/folding-scooters/rideoo/) 'Rideoo 120 City Scooter Pink' (kod 101070); samma sida anger Blue 4751036030122, Turquoise 4751036030733 och Purple 4751036030740, vilket stämmer med butikens skrivna syskon, så färgen Rosa är entydig för exakt artikeln (v1.6/v1.7, återförsäljare). Ingen rosa variant finns skriven, ingen dubblett. (2) 'styrehöjd' ändras till syskonens 'höjdjusterbart styre' (stavning)."
+ },
+ {
+  "nr": 46403,
+  "id": "10523488387338",
+  "fil": "k_46sak5_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Cykel Giant AnyTour CS 2 GB med remdrift",
+    "efter": "Stadscykel Giant AnyTour CS 2 GB med remdrift, XL"
+   },
+   "seo_title": {
+    "fore": "Cykel Giant AnyTour CS 2 GB",
+    "efter": "Stadscykel Giant AnyTour CS 2 GB XL"
+   },
+   "html": {
+    "fore": "<li>Typ: Cykel (stadscykel)</li>\n<li>Märke: Giant</li>\n<li>Ram: ALUXX-aluminium</li>",
+    "efter": "<li>Typ: Stadscykel</li>\n<li>Märke: Giant</li>\n<li>Ramstorlek: XL (60 cm)</li>\n<li>Ram: ALUXX-aluminium</li>"
+   }
+  },
+  "skal": "Live ACTIVE, lager 0, tagg På beställning (leveranstidsmeningen finns). Båda varianterna har SKU 3009011118 och EAN 4711291230408 (samma artikel, olika pris); slutomgången 2026-11-06 och beslutet 2026-11-08 tillåter skrivning, titel och text låser inte färg eller pris. Uppgifterna står i egen källa; perfekt, pålitlig, säkerställer, högkvalitativ rätt utelämnade. RÄTTA: syskonet 10581606629642 (SKU 3009011117, texter-klara) har samma live-titel och skrevs som 'Stadscykel Giant AnyTour CS 2 GB, 700x45, Stealth Chrome' med SEO 'Stadscykel Giant AnyTour CS 2 GB'. Typordet görs enhetligt med syskonet (R7, källtexten säger stadscykel) och titeln måste skilja produkterna (David 2026-11-05). Skillnaden är ramstorleken: slutsiffra 8 = XL enligt Giant-regeln 2026-11-08, och varianten heter 'XL / gray'; källan anger 'XL (60 cm)'. Storleken låses inte fel eftersom båda varianterna är samma SKU."
+ },
+ {
+  "nr": 46404,
+  "id": "10530129477898",
+  "fil": "k_46sak5_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Direct Flow Cooling ventilationssystem",
+    "efter": "Direct Flow Cooling-ventilationssystem"
+   },
+   "html": {
+    "fore": "Direct Flow Cooling ventilationssystem och en innerfoder av TransTextura.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en cykelhjälm för landsväg och terräng</li>\n<li>Dig som behöver en hjälm i storlek S/M, 49–57 cm</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Cykelhjälm</li>\n<li>Märke: Giant</li>\n<li>Modell: Relay MIPS</li>\n<li>Storlek: S/M (49–57 cm)</li>\n<li>System: 360° Cinch One MIPS</li>\n<li>Ventilation: Direct Flow Cooling</li>\n<li>Innerfoder: TransTextura (fukt- och lukttransporterande)</li>",
+    "efter": "Direct Flow Cooling-ventilationssystem och ett innerfoder av TransTextura.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en cykelhjälm för landsväg och terräng</li>\n<li>Dig som behöver en hjälm i storlek S/M, 49–57 cm</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Cykelhjälm</li>\n<li>Märke: Giant</li>\n<li>Modell: Relay MIPS</li>\n<li>Storlek: S/M (49–57 cm)</li>\n<li>System: 360° Cinch One MIPS</li>\n<li>Ventilation: Direct Flow Cooling</li>\n<li>Innerfoder: TransTextura</li>"
+   }
+  },
+  "skal": "Live ACTIVE, lager 5, 800002576, EAN 4713250018218. Live-titeln säger Barnhjälm men källan beskriver en cykelhjälm för landsväg och terräng i S/M 49–57 cm; bytet till källans typord Cykelhjälm följer R7 och de skrivna Relay-syskonen. Ingen dubblett: skrivna Gloss White 10530129510666 är M/L (800002577), och titeln skiljer storleken. Maximalt skydd, sidokollisioner, komfort och Robust rätt utelämnade; MIPS bara som systemnamn. RÄTTA: '(fukt- och lukttransporterande)' är ett funktionslöfte (prestanda) och stryks; 'en innerfoder' → 'ett innerfoder'; 'Direct Flow Cooling ventilationssystem' får bindestreck (sammansättning). Spärrlistan: produkten står i aktiv spärr (utanfor-tills-vidare-2026-11-04); skrivfil_kontroll.py stoppar den tills en undantagspost med Davids beslut 2026-11-08 läggs in (R14). Innehållet är granskat och dömt."
+ },
+ {
+  "nr": 46405,
+  "id": "10541372277002",
+  "fil": "k_46sak5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, lager 5, 030012955XS, EAN 3267654944181. Storlek XS 48–52 cm, insektsnät, reflekterande element, justering och användning på springcykel/cykel/cykelstol står i egen källa; säkerhet, synlighet, bekväm passform och lekfulla designer rätt utelämnade (reflekterande element bara som fakta, v1.9). Ingen annan Cairn Sunny i butiken. Spärrlistan: produkten står i aktiv spärr (utanfor-tills-vidare-2026-11-04); skrivfil_kontroll.py stoppar den tills en undantagspost med Davids beslut 2026-11-08 läggs in (R14). Innehållet är granskat och dömt."
+ },
+ {
+  "nr": 46406,
+  "id": "10554353910026",
+  "fil": "k_46sak5_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Hjälmen har EPS-konstruktion, inbyggt insektsnät och vaddering av TransTexture med antimikrobiell behandling.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en barnhjälm i storlek 46–51 cm</li>\n<li>Dig som vill ha en hjälm med inbyggt insektsnät</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Barnhjälm</li>\n<li>Märke: Giant</li>\n<li>Modell: Holler</li>\n<li>Ålder: Under 5 år</li>\n<li>Storlek: 46–51 cm</li>\n<li>Konstruktion: EPS</li>\n<li>Vaddering: TransTexture, antimikrobiell</li>",
+    "efter": "Hjälmen har EPS-konstruktion, inbyggt insektsnät och TransTexture-vaddering.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en barnhjälm i storlek 46–51 cm</li>\n<li>Dig som vill ha en hjälm med inbyggt insektsnät</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Barnhjälm</li>\n<li>Märke: Giant</li>\n<li>Modell: Holler</li>\n<li>Ålder: Under 5 år</li>\n<li>Storlek: 46–51 cm</li>\n<li>Konstruktion: EPS</li>\n<li>Vaddering: TransTexture</li>"
+   }
+  },
+  "skal": "Live ACTIVE, lager 1, 800002244, EAN 4713250839264. Under 5 år, EPS, 46–51 cm och inbyggt insektsnät står i egen källa; ålder en gång enligt tillverkaren. Lime-syskonet (800002243) är DRAFT och annan färg. RÄTTA: 'antimikrobiell' är hälsopåstående och stryks i brödtext och specifikation (praxis 46103/46104/46210). Spärrlistan: produkten står i aktiv spärr (utanfor-tills-vidare-2026-11-04); skrivfil_kontroll.py stoppar den tills en undantagspost med Davids beslut 2026-11-08 läggs in (R14). Innehållet är granskat och dömt."
+ },
+ {
+  "nr": 46407,
+  "id": "10577688527114",
+  "fil": "k_46sak5_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Barnhjälm Limar Kid Pro S",
+    "efter": "Barnhjälm Limar Kid Pro S Space Blue"
+   },
+   "html": {
+    "fore": "insektsnät och antibakteriell, tvättbar stoppning.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en barnhjälm med insektsnät</li>\n<li>Dig som vill ha en hjälm med tvättbar stoppning</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Barnhjälm</li>\n<li>Märke: Limar</li>\n<li>Modell: Kid Pro S</li>\n<li>Färg: Space Blue</li>\n<li>Vikt: 195 g</li>\n<li>Teknik: Monoshell in-mould (Superlight)</li>\n<li>Stoppning: Antibakteriell och tvättbar</li>",
+    "efter": "insektsnät och tvättbar stoppning.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en barnhjälm med insektsnät</li>\n<li>Dig som vill ha en hjälm med tvättbar stoppning</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Barnhjälm</li>\n<li>Märke: Limar</li>\n<li>Modell: Kid Pro S</li>\n<li>Färg: Space Blue</li>\n<li>Vikt: 195 g</li>\n<li>Teknik: Monoshell in-mould (Superlight)</li>\n<li>Stoppning: Tvättbar</li>"
+   }
+  },
+  "skal": "Live ACTIVE, lager 1, HCKIDSCEGVS, EAN 8055186667686. 195 g, insektsnät, tvättbar stoppning och Monoshell in-mould Superlight står i egen källa; storleken rätt utelämnad (46-52 cm och 46 - 46 cm motsäger varandra, R2). RÄTTA: 'antibakteriell' stryks (hälsopåstående, praxis 46103/46211). SEO 'Barnhjälm Limar Kid Pro S' krockar med utkastet för Ghost Blue (10472252244234, k_46sak3_utkast.json); färgen läggs till (R12). Spärrlistan: produkten står i aktiv spärr (utanfor-tills-vidare-2026-11-04); skrivfil_kontroll.py stoppar den tills en undantagspost med Davids beslut 2026-11-08 läggs in (R14). Innehållet är granskat och dömt."
+ },
+ {
+  "nr": 46408,
+  "id": "10548248215818",
+  "fil": "k_46sak5_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Reflekterande klistermärken Bookman",
+    "efter": "Reflekterande klistermärken Bookman, Vit"
+   },
+   "meta": {
+    "fore": "Bookman Reflective Adventure Stickers är reflekterande klistermärken i vitt som kan sättas på cykelramar, styren och hjälmar.",
+    "efter": "De vita reflekterande klistermärkena Bookman Reflective Adventure Stickers kan sättas på cykelramar, styren och hjälmar och kombineras med andra färger."
+   },
+   "html": {
+    "fore": "<p>Bookman Reflective Adventure Stickers är reflekterande klistermärken som kan sättas på cykelramar, styren och hjälmar. Klistermärkena kan kombineras i olika färger och mönster, och enligt tillverkaren är de lätta att ta bort.</p><h2>Passar för</h2><ul>\n<li>Dig som söker reflekterande klistermärken till cykel</li>\n<li>Dig som vill kombinera olika färger och mönster</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Reflekterande klistermärken</li>\n<li>Märke: Bookman</li>\n<li>Modell: Reflective Adventure Stickers</li>\n<li>Färg: Vit</li>\n<li>Användning: Cykelramar, styren och hjälmar</li>\n<li>Vidhäftning: Enligt tillverkaren tappar de inte sin vidhäftning i regn, snö eller hagel</li>\n",
+    "efter": "<p>De vita reflekterande klistermärkena Bookman Reflective Adventure Stickers kan sättas på cykelramar, styren och hjälmar. Klistermärkena kan kombineras i olika färger och mönster, och enligt tillverkaren är de lätta att ta bort.</p><h2>Passar för</h2><ul>\n<li>Dig som söker reflekterande klistermärken till cykel</li>\n<li>Dig som vill kombinera olika färger och mönster</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Reflekterande klistermärken</li>\n<li>Märke: Bookman</li>\n<li>Modell: Reflective Adventure Stickers</li>\n<li>Färg: Vit</li>\n<li>Användning: Cykelramar, styren och hjälmar</li>\n"
+   }
+  },
+  "skal": "Live ACTIVE, lager 3, 488, EAN 7350051864889. Montering på ram/styre/hjälm, lätta att ta bort och kombinera färger/mönster står i egen källa; 'för barn' i live-titeln saknar stöd och är rätt struket. RÄTTA: (1) Första meningen i html och meta är cirkulär engelska ('Bookman Reflective Adventure Stickers är reflekterande klistermärken', R11). (2) Raden om vidhäftning i regn, snö och hagel är ett hållbarhetslöfte och utelämnades på syskonen Grön (46101) och Gul (46301); den stryks här också. (3) SEO 'Reflekterande klistermärken Bookman' krockar med b_6_utkast.json (Black Flames) och skiljer inte färgen från syskonen; färgen läggs till. Titeln skiljer redan färgen."
+ },
+ {
+  "nr": 46409,
+  "id": "10548295368970",
+  "fil": "k_46sak5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, lager 0, tagg På beställning (leveranstidsmeningen finns). Varianterna white K25/5/23/2 och black K25/5/23/1 har samma pris; v1.8: färgen är rätt struken ur titeln och texten. Motor, batteri, ram, växlar, bromsar, däck, vikt, förarlängd och ingående delar står ordagrant i egen källa; räckvidd 70 km rätt utelämnad (prestanda), likaså perfekt, prisvärd, stabil, trygg. Lastgräns saknas i egen källa; webbsökning hittade ingen uppgift för Bormio (velomarket.ee nekar åtkomst, övriga träffar gäller andra trehjulingar), så 'Maximal lastgräns: Ej känd' i specifikation och text följer v1.10. Ingen annan Bormio i butiken."
+ },
+ {
+  "nr": 46410,
+  "id": "10581106917642",
+  "fil": "k_46sak5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, lager 37, EB-GB3.0-WH, EAN 6430016905060. Elektronik är frisläppt 2026-11-08. Egen källa är bara löften; uppgifterna kommer ur tillverkarens svenska manual för EB-GB3.0 (https://hefitness.se/produktfiler/eb-gb3.0exercisebike-manualse.pdf, text kontrollerad: 'Max användarvikt: 120 kg', 'Välj mellan 10 förinställda träningsprogram', 'Visa hastighet (RPM), TIME, DIST., CAL., WATT, PULS, LEVEL', 'Omfång: 1–16', inomhus- och hemmabruk, manuellt program och wattkontrollprogram). Maxvikten står en gång enligt tillverkaren (R4, svensk rad med etikett). Pulskontrollprogram, Bluetooth/appar och mått rätt utelämnade. Manualen gäller modellen EB-GB3.0 utan färgsuffix; Galaxus säljer GB3.0 i vit och svart som samma modell, så uppgifterna godtas för WH. Ingen annan GB3.0 i butiken."
+ },
+ {
+  "nr": 46411,
+  "id": "10624081527050",
+  "fil": "k_46sak5_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Cykelklocka Minnie Flowers Retro, vit blommig",
+    "efter": "Cykelklocka Minnie Flowers Retro, Vit Blommig"
+   },
+   "meta": {
+    "fore": "Barncykelklockan Minnie Flowers Retro är av metall, har 55 mm i diameter och Minnie-tema i vit blommig design. Artikelnummer 9136.",
+    "efter": "Den här cykelklockan för barn är av metall och har en diameter på 55 mm. Den har Minnie-tema i vit blommig design och artikelnummer 9136."
+   },
+   "html": {
+    "fore": "<p>Barncykelklockan Minnie Flowers Retro har Minnie-tema i vit blommig design.",
+    "efter": "<p>Den här cykelklockan för barn har Minnie-tema i vit blommig design."
+   }
+  },
+  "skal": "Live ACTIVE, lager 1, 9136, EAN 5902308591363. Barncykelklocka, Minnie-tema, metall och diameter 55 mm står i egen källa (fyra fakta, R3 uppfylld); säkerhetslöftet och 'linsdiameter' rätt utelämnade. Skriven Minnie Retro Vit (9139) är annan artikel. RÄTTA: titelns beskrivande ord får stor bokstav (R9, praxis 'Cykelklocka Minnie Retro, Vit'); inledningen i html och meta är cirkulär ('Minnie … har Minnie-tema') och skrivs om enligt praxis 46209. 55 mm är egen källas 'diameter'; syskonet 9139 anger 80 mm diameter och 55 mm höjd, se fråga till David."
+ }
+]

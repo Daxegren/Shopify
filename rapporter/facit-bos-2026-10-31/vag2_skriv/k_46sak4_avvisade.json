@@ -1,0 +1,52 @@
+[
+ {
+  "id": "10472300085514",
+  "nr": 46350,
+  "skäl": "Tunn källa: texten innehåller bara hälso-, säkerhets- och kvalitetsfraser (kompakt, hållbar, robust, stabil, säker) och inga mått eller specifikationer utöver titelns 97 cm; färre än två entydiga fakta (R3)."
+ },
+ {
+  "id": "10472305131786",
+  "nr": 46351,
+  "skäl": "R3: källan motsäger varianterna. Texten anger storlekarna 35–43 men varianterna är 30 och 31 (barnstorlekar); live-titeln är engelsk och typordet oklart."
+ },
+ {
+  "id": "10472311357706",
+  "nr": 46352,
+  "skäl": "R3/v1.9: två varianter med olika SKU och mycket olika pris (blue 25TUPLA049 679 kr, green 25TUPLA047 409 kr) tyder på olika artiklar; titeln låser Blå och 50 mm medan taggen säger 30mm och källan anger håldiameter 51,5 mm. Motsägande källa."
+ },
+ {
+  "id": "10472323940618",
+  "nr": 46353,
+  "skäl": "R3: live-titeln anger ungdomscykel (Youth bike) men källan beskriver en damcykel (Liv Tempt, ram XS 33 cm); produkttypen och målgruppen är oklar. Lager 0."
+ },
+ {
+  "id": "10472332034314",
+  "nr": 46354,
+  "skäl": "Redan skriven: live har titel, SEO-beskrivning och text i vår mall (Passar för, Specifikationer, standardblock). Skrivs inte om (R15)."
+ },
+ {
+  "id": "10472334491914",
+  "nr": 46355,
+  "skäl": "Tom källa: bara titeln. Webbkoll på EAN 5904803283262 gav ingen träff, och pris 6 779 kr samt taggen Romet tyder på felklassad produkt. Inga entydiga fakta."
+ },
+ {
+  "id": "10472518779146",
+  "nr": 46356,
+  "skäl": "Tom källa (ingen beskrivning, bara titel, SKU CFF och EAN); taggen Viktlås 31mm motsäger titelns 30 mm."
+ },
+ {
+  "id": "10494695932170",
+  "nr": 46357,
+  "skäl": "Tom källa (bara titel, SKU och EAN); produkttypen pedalblock/klosskoppling kan inte styrkas med fakta."
+ },
+ {
+  "id": "10494696161546",
+  "nr": 46358,
+  "skäl": "Tom källa (bara titel, SKU och EAN); engelsk titel utan typord på svenska och inga fakta."
+ },
+ {
+  "id": "10494834245898",
+  "nr": 46359,
+  "skäl": "R2/R3: titeln säger röd men källan anger färg grön; hjulstorlek och ramstorlekar motsäger varandra för en variant (Default Title). Motsägande källa."
+ }
+]

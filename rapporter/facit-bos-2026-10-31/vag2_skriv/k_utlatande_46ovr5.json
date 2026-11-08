@@ -1,0 +1,191 @@
+[
+ {
+  "nr": 47601,
+  "id": "10507390091530",
+  "fil": "k_46ovr5_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Rullskridskor Fila Legacy Comp Lady",
+    "efter": "Rullskridskor Fila Legacy Comp Lady, Storlek 42,5"
+   },
+   "seo_title": {
+    "fore": "Rullskridskor Fila Legacy Comp Lady",
+    "efter": "Rullskridskor Fila Legacy Comp Lady 42,5"
+   },
+   "html": {
+    "fore": "<li>Modell: Legacy Comp Lady</li>",
+    "efter": "<li>Modell: Legacy Comp Lady</li>\n<li>Storlek: 42,5</li>"
+   }
+  },
+  "skal": "Live ACTIVE, en variant (Default Title) FILA-LEGCOMPLADY-BLKBLU-42.5, lager 1. Fakta (komposittram, Air Flow, 80 mm hjul, ABEC 5, fritidsbruk) finns i egen svensk källa; löftesord (pålitliga, slitstarkt, ultralätt, torra fötter, åkkapacitet, komfort och säkerhet) korrekt utelämnade. Rättning R12a/beslut 2026-11-05: en annan aktiv annons utan text, 10472237891850 'Rullskridskor FILA Legacy Comp Lady, svart' (SKU ...-42), är samma modell i storlek 42. Titeln måste skilja dem; storleken 42,5 står entydigt i artikelnumret (samma mönster som butikens Fila-varianter). Färgen lämnas utanför (BLKBLU mot 'svart'). Spärrlistan (utanfor-tills-vidare) kräver undantag enligt beslutet 2026-11-08."
+ },
+ {
+  "nr": 47602,
+  "id": "10515754352906",
+  "fil": "k_46ovr5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 105557, EAN 2909452639647, lager 3. Varje uppgift finns i den svenska specifikationen (förare 115–130 cm, 4–9 år, nybörjare, ståplatta och styre i aluminium med mått, IHC, ABEC-9, 110 mm, 2,48 kg, svart/grå). Lastgräns 'Lastkapacitet: upp till 100 kg' är svensk med etikett och enhet och står en gång med 'enligt tillverkaren' (R4). Live-titelns 'Rå' mot källans 'grå': texten följer källan, som skrivna syskonet Union DOT L Svart/Grå. Inga säkerhets- eller utvecklingslöften. Skild från 47603 genom färg, SKU och EAN. Spärrlistan kräver undantag."
+ },
+ {
+  "nr": 47603,
+  "id": "10515754451210",
+  "fil": "k_46ovr5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 105556, EAN 2909698309939, lager 2. Samma kontroll som 47602; färg svart enligt källan. Lastgräns en gång enligt tillverkaren (R4). Titel och SEO unika mot 47602 och mot skrivna Union Lite/DOT. Spärrlistan kräver undantag."
+ },
+ {
+  "nr": 47604,
+  "id": "10554365903114",
+  "fil": "k_46ovr5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 480, EAN 7350051864803, lager 1. USB-laddning, fast sken/blinkande, fästen hand/väska/cykel och användningsområde finns i egen källa. 'Reflexlampa', synlighet, säkerhet, 'i alla väder' och 'idealisk' utelämnade (v1.9, inga synlighets- eller säkerhetslöften). Typordet Bärbar lampa finns i live-titeln på Bookman Eclipse (R7). Skild från 47605 genom färg, SKU och EAN. Spärrlistan kräver undantag."
+ },
+ {
+  "nr": 47605,
+  "id": "10554365935882",
+  "fil": "k_46ovr5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 509, EAN 7350051865091, lager 1. Samma kontroll som 47604; egen källas ordval (laddningsbar, kontinuerligt, daglig pendling) följs. Inga synlighets- eller säkerhetslöften. Spärrlistan kräver undantag."
+ },
+ {
+  "nr": 47606,
+  "id": "10561341620490",
+  "fil": "k_46ovr5_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Den har 99 hastigheter, 10 program, magnetisk benstimulering och LED-display. Stretchbollar och en sladdlös fjärrkontroll följer med, och hastighet och program justeras med fjärrkontrollen.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en vibrationsplatta med 99 hastigheter och 10 program</li>\n<li>Dig som vill ha en vibrationsplatta med fjärrkontroll</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Vibrationsplatta</li>\n<li>Märke: Tunturi</li>\n<li>Modell: Cardio Fit V30</li>\n<li>Motor: 200 W</li>\n<li>Hastigheter: 99</li>\n<li>Program: 10</li>\n<li>Benstimulering: Magnetisk</li>",
+    "efter": "Den har 99 hastigheter, 10 program och LED-display. Stretchbollar och en sladdlös fjärrkontroll följer med, och hastighet och program justeras med fjärrkontrollen.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en vibrationsplatta med 99 hastigheter och 10 program</li>\n<li>Dig som vill ha en vibrationsplatta med fjärrkontroll</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Vibrationsplatta</li>\n<li>Märke: Tunturi</li>\n<li>Modell: Cardio Fit V30</li>\n<li>Motor: 200 W</li>\n<li>Hastigheter: 99</li>\n<li>Program: 10</li>"
+   }
+  },
+  "skal": "Live ACTIVE, 24TCFV3000, EAN 8717842037287, lager 14, taggen På beställning: leveranstidsmeningen finns i standardblocket. Alla effektpåståenden (fettförbränning, muskeluppbyggnad, bentäthet, cirkulation, balans) korrekt utelämnade, men 'magnetisk benstimulering' står kvar i löptext och specifikation. 'Stimulering' av ben (ben = skelett eller ben) är ett subtilt hälsopåstående i en källa som samtidigt lovar förbättrad bentäthet; tas bort (2026-11-08: inga hälsolöften). Maximal användarvikt 120 kg är svensk rad med etikett och enhet, en gång enligt tillverkaren (R4). Spärrlistan kräver undantag; profilen har kvar vibrationsplattor under utanfor_tills_vidare."
+ },
+ {
+  "nr": 47607,
+  "id": "10561341718794",
+  "fil": "k_46ovr5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 24TCFV4000, EAN 8717842037294, lager 0, en variant, taggen På beställning: leveranstidsmeningen finns. Uppgifterna stämmer med egen källa (99 hastigheter, 10 program, 200 W, LED, 68 x 39 x 14 cm, 11 kg, stretchbollar, sladdlös kontroll). 'Max. brukarvikt: 150 kg' en gång enligt tillverkaren (R4). Inga effektpåståenden. Skriven utan lager enligt beslutet 2026-11-06 (en variant, v1.9 berörs inte). Spärrlistan kräver undantag."
+ },
+ {
+  "nr": 47608,
+  "id": "10565607850250",
+  "fil": "k_46ovr5_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "De är rosa och väger 0,233–0,245 kg, beroende på storlek.",
+    "efter": "De är rosa och väger 0,233–0,245 kg."
+   }
+  },
+  "skal": "Live ACTIVE, varianter S/pink 105810 och L/pink 105808, båda 279 kr, lager 1+1 (v1.8: samma pris och färg, titeln låser ingen storlek). Vadderad insida, viktintervall, färg, användning och målgrupp finns i källan; kvalitets-, slitage- och komfortlöften samt 'Skyddsnivå: Extreme' korrekt utelämnade. Rättning R1: 'beroende på storlek' står inte i källan (bara intervallet 0.2330–0.2450). Boom Solid Knee Pads är annan modell. Spärrlistan kräver undantag."
+ },
+ {
+  "nr": 47609,
+  "id": "10574017691914",
+  "fil": "k_46ovr5_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Mountainbike Giant Talon 2, 27,5 tum",
+    "efter": "Mountainbike Giant Talon 2 XS 27,5 tum, Pure Red"
+   },
+   "seo_title": {
+    "fore": "Mountainbike Giant Talon 2, 27,5 tum",
+    "efter": "Mountainbike Giant Talon 2 XS, Pure Red"
+   }
+  },
+  "skal": "Live ACTIVE (tidigare DRAFT), 1094009283, EAN 4711291189409, lager 1. Alla uppgifter finns i egen specifikation (ALUXX, XS 34,5 cm för 155–166 cm, SXC32-3 RL 80 mm, Microshift Advent 9 växlar, Tektro HDC M275, Maxxis Rekon 27,5 x 2,2 tum, fästpunkter). 'Trygg', 'hållbar', 'bättre grepp' utelämnade. Rättning R12a/beslut 2026-11-05: butiken har flera Talon 2 (skrivna 29 tum Asfaltsgrön och Dried Matcha, oskriven aktiv 29 tum Pure Red, utkast 27,5 XS Dried Matcha); titeln ska skilja på storlek och färg som syskonet 'Mountainbike Giant Talon 3 XS 27,5 tum, Beeswax'. Färgen Pure Red står i live-titeln. Spärrlistan kräver undantag."
+ },
+ {
+  "nr": 47610,
+  "id": "10581096562954",
+  "fil": "k_46ovr5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 72041, EAN 6430062511482, lager 301. https://www.gymstick.com/active-spike-mat.html (SKU och EAN stämmer): 6 210 piggar, 64 x 40 x 3 cm, 0,52 kg, svart-blå, material bomull/skumplast/PP (tabell), länk till träningsvideo. Motsägelsen om piggarnas material (ABS i text) hanterad genom att bara tabellen återges. All text om cirkulation, spänningar, smärta, stress och avslappning utelämnad. Akupressur/rehab frisläppt för aktiva produkter 2026-11-08; typordet Akupressurmatta finns i butikens Tunturi-titlar. Spärrlistan kräver undantag."
+ },
+ {
+  "nr": 47611,
+  "id": "10581107933450",
+  "fil": "k_46ovr5_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "UNDERKÄND. Live ACTIVE, PRO-550M-HPB, lager 17, men EAN i butiken (6430016904520) skiljer sig från tillverkarsidans (6430016901963) för samma SKU, och produkten är uttryckligen hållen i beslutsunderlaget 2026-11-08 punkt 7 ('streckkoden skiljer') utan att David har svarat. Uppdraget kräver att SKU och EAN stämmer mot källan, och den avvisade Telescopic Fit Walker avvisades på samma grund. Dessutom är det en bärande del (pull-ups) där mått 230 x 95 x 220 cm, vikt 215 kg och 86 kg viktstapel på tillverkarsidan läses som hela stationens och inte entydigt som tilläggets. Skrivs när David bekräftat streckkoden; utkastets fakta kan då återanvändas (jämför 42216 i k_utlatande_42)."
+ },
+ {
+  "nr": 47612,
+  "id": "10581108326666",
+  "fil": "k_46ovr5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 63063, EAN 6430062510812, lager 195. https://www.gymstick.com/knee-support-2-0-one-size.html (SKU och EAN stämmer): 3 mm neopren, tre kardborrband, justerbar, material 15/45/34/6 % (spandex = elastan), 20,5 x 60 x 1 cm, 0,12 kg, svart. Stabilisering, patellaposition, knäsmärta, artrit, prestation och skydd utelämnade. Knästöd är live-titelns ord. Spärrlistan kräver undantag."
+ },
+ {
+  "nr": 47613,
+  "id": "10581109211402",
+  "fil": "k_46ovr5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 61262, EAN 6430016903813, lager 911. https://www.gymstick.com/neck-relaxer.html (SKU och EAN stämmer): mjukt EVA, ergonomisk form, manual, 22,5 x 21 x 13 cm, 0,23 kg, svart. Användningsområdet anges bara som område (nacke, axlar, övre rygg); lindring, spänning, smärta, ryggradsställning och rörlighet utelämnade. 'Ergonomisk form' är ordagrann formbeskrivning (praxis k_utlatande_43). Nackstöd är egen källas ord. Spärrlistan kräver undantag."
+ },
+ {
+  "nr": 47614,
+  "id": "10581109244170",
+  "fil": "k_46ovr5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 61240, EAN 6430016901048, lager 100. https://www.gymstick.com/neck-traction-device.html (SKU och EAN stämmer, enhet SET): enhet med fast hängrem, justerbara mitt- och sidokuddar, ögonmask, bärpåse, material 65/15/10/5/5 %, 0,18 kg, svart. Användningen (huvudet vilar, remmen hängs ovanifrån) är ordagrann; 'svävar', 'helt avslappnade', sträckning till naturligt läge, lindring och hållning utelämnade. Engelskt typord behålls (R7). Spärrlistan kräver undantag."
+ },
+ {
+  "nr": 47615,
+  "id": "10581109375242",
+  "fil": "k_46ovr5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 63072, EAN 6430016909594, lager 733. https://www.gymstick.com/patella-brace-2-0.html (SKU och EAN stämmer): kompressionsdesign, justerbart kardborrband, strax under knäskålen, öppen rygg, PU, 13 x 5,5 x 3 cm, 0,032 kg, svart, smal profil under sportkläder. Smärta, stabilitet, patellastyrning, belastning, diagnoser, andning och 'sitter säkert' utelämnade. Engelskt typord behålls (R7). Spärrlistan kräver undantag."
+ },
+ {
+  "nr": 47616,
+  "id": "10581109571850",
+  "fil": "k_46ovr5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, varianter L/XL (lager 146) och S/M (lager 0), båda 199 kr och svarta (v1.8: titeln låser ingen storlek; live-titelns 'Stor/Extra stor' tas bort). https://www.gymstick.com/posture-corrector.html (SKU 63069-X, EAN för L/XL stämmer): polyester 85/PU 10/PP 5 %, svart, två storlekar med justering. Mått och vikt korrekt utelämnade (storlek ej angiven). Alla hållnings- och smärtpåståenden utelämnade; 'Hållningskorrigerare' står bara som produktnamn/typord (live-titeln, praxis 2026-11-06 för varunamn). Inte på spärrlistan."
+ },
+ {
+  "nr": 47617,
+  "id": "10581110259978",
+  "fil": "k_46ovr5_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Gymstick Pro Knee Straps är elastiska knee straps av polyester med kardborrstängning. De är 162 cm långa och säljs som par.",
+    "efter": "Gymstick Pro Knee Straps är elastiska remmar av polyester med kardborrstängning. De är 162 cm långa och säljs som par."
+   }
+  },
+  "skal": "Live ACTIVE, 61137, EAN 6430016906296, lager 113. https://www.gymstick.com/pro-knee-straps.html (SKU och EAN stämmer): elastiska remmar, kardborre, polyester, svart-röd-vit, 162 x 8 x 0,4 cm, 0,4 kg, par, för styrketränare och lyftare. Skydd, stöd, skadeförebyggande och 'secure fit' utelämnade. Rättning: metan använder det engelska namnet som gemen svensk substantivfras ('elastiska knee straps'); svenska 'remmar' som i beskrivningen. Inte på spärrlistan."
+ },
+ {
+  "nr": 47618,
+  "id": "10581110718730",
+  "fil": "k_46ovr5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 61138, EAN 6430016906302, lager 562. https://www.gymstick.com/pro-wrist-straps.html (SKU och EAN stämmer): polyester och gummi, kardborre, svart-röd-vit, 40 x 8 x 0,4 cm, 0,128 kg, par; kategori Weightlifting Gear. Stöd, belastning, prestation, grepp och skydd utelämnade. Engelskt typord behålls (R7). Inte på spärrlistan."
+ },
+ {
+  "nr": 47619,
+  "id": "10581111898378",
+  "fil": "k_46ovr5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 63067, EAN 6430062510881, lager 115. https://www.gymstick.com/tennis-elbow-support-2-0.html (SKU och EAN stämmer): 'Forearm support', justerbart kardborrband, material 50/10/34/6 %, svart, 0,02 kg, 5 x 45 x 0,9 cm. Längden korrekt utelämnad (42 cm i text, 45 cm i tabell). Smärta, tendontryck, kompression och prestation utelämnade; 'Tennis Elbow' står bara som produktnamn. Spärrlistan kräver undantag."
+ }
+]

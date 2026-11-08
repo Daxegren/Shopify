@@ -1,0 +1,62 @@
+[
+ {
+  "id": "10581111963914",
+  "skäl": "Källan är vår egen tidigare AI-text med hälso- och skadelöften; ingen entydig tillverkarsida kunde läsas (gymstick.com gav 404/403), så inga verifierbara fakta finns att skriva ur (R1/R3)."
+ },
+ {
+  "id": "10581119271178",
+  "skäl": "Akupressurmatta: egen källa är vår tidigare AI-text med smärtlindrings- och blodcirkulationslöften; ingen tillverkarsida kunde läsas, inga verifierbara produktfakta (R1/R3)."
+ },
+ {
+  "id": "10588446130442",
+  "skäl": "Exakt dubblett av aktiv, färdigskriven annons 10588446163210 (Motionscykel Tunturi Centuri E100, samma SKU 23CBE10000 och EAN 8717842036525). Lager måste flyttas först (R12a)."
+ },
+ {
+  "id": "10588453142794",
+  "skäl": "Dubblett (R12a): samma modell och färg som aktiva 10588452847882 (texter-klara) och 10635810177290 (Gravelcykel Kona Ouroboros CR/DL, Gloss Concrete)."
+ },
+ {
+  "id": "10593407500554",
+  "skäl": "Fotledsstöd (spärrad stödprodukt): egen källa är vår tidigare AI-text med skade- och prestandalöften; tillverkarsidan gymstick.com gick inte att läsa, så inga verifierbara fakta (R1/R3)."
+ },
+ {
+  "id": "10593407533322",
+  "skäl": "Ryggstöd (spärrad stödprodukt): egen källa är vår tidigare AI-text med skade- och stabiliseringslöften; tillverkarsidan gick inte att läsa, så inga verifierbara fakta (R1/R3)."
+ },
+ {
+  "id": "10598555582730",
+  "skäl": "Produkttypen är oklar: löptexten beskriver rullskridskor men SKU är ROWER-COMPACT, handle rower-compact och taggarna Roddmaskin/Toorx; EAN och artikelnummer går inte att koppla till skridskorna."
+ },
+ {
+  "id": "10612569112842",
+  "skäl": "Tom källa (ingen beskrivning, bara titel, SKU och EAN) och titeln är avkortad (\"16\\\"-\"); tillverkarsidan Zefal ger 16/18/20 tum medan återförsäljare anger 16 och 20, EAN går inte att knyta entydigt till modellen."
+ },
+ {
+  "id": "10612571504906",
+  "skäl": "Exakt dubblett av aktiv annons 10612571537674 (samma titel, samma EAN 4751036031341, olika pris 359 mot 449 kr). Lager måste flyttas först (R12a); källan är dessutom tunn (skyddsnivå \"extrem\" är ett skyddslöfte)."
+ },
+ {
+  "id": "10612571537674",
+  "skäl": "Exakt dubblett av aktiv annons 10612571504906 (samma titel och EAN, pris 449 mot 359 kr). Lager måste flyttas först (R12a)."
+ },
+ {
+  "id": "10624087523594",
+  "skäl": "R3/v1.9: varianter med olika SKU och olika pris (M 52 139, L 52 939, M/L 45 339, XL 52 139 kr) och totalInventory 0; produkter utan lager med olika pris skrivs inte."
+ },
+ {
+  "id": "10635809849610",
+  "skäl": "Källan motsäger sig (R2): löptext anger batteri 800 Wh, detaljraden 625 Wh. Dessutom två varianter med samma SKU 5332005188 och olika pris (54 439 och 47 339 kr) och totalInventory 0 (v1.9)."
+ },
+ {
+  "id": "10636608569610",
+  "skäl": "Titeln anger BLACK men källan säger \"Färg: Krom\" och \"svarta färgen är snygg\": motsägelse (R2/R3). Dessutom sannolik dubblett av aktiv, färdigskriven 10636751241482 (Roddhandtag Parallell, 12 cm, Krom) (R12a)."
+ },
+ {
+  "id": "10636626231562",
+  "skäl": "Två aktiva annonser av samma modell (GSMX-600335 och GSMX-600336, 31 999 respektive 31 399 kr) utan skillnad i källan; färgen går inte att fastställa (webbsökning hittade ingen koppling), så unik titel och SEO kan inte skrivas (R12a). Elektronik/massagestol; lager 0."
+ },
+ {
+  "id": "10636626428170",
+  "skäl": "Se 10636626231562: två annonser av samma modell (GSMX-600336) utan urskiljbar skillnad i källan; unik titel och SEO kan inte skrivas (R12a). Lager 0."
+ }
+]
