@@ -1,0 +1,86 @@
+[
+{
+"id": "10673180410122",
+"titel": "Elcykel LIV Allure E+ 1, Sunset Ivory",
+"lager": 0,
+"forra_skal": "Samma modell och färg som redan skriven aktiv produkt 10673177952522 (annat artikelnummer 5600004105 mot 5600004104); egen produkt har Default Title, så ramstorleken säljs inte som variant och går inte att verifiera i egen källa eller på webben (R3/R12a). Titel, SEO och text skulle bli identiska med den skrivna produkten. Storleken kan bara härledas ur artikelnumrets slutsiffra, vilket Davids undantag 2026-11-07 inte täcker. Lyft till beslut."
+},
+{
+"id": "10475431657738",
+"titel": "Strålkastare AXA LUX 606 AUTO, 15 lux, Dark Chrome",
+"lager": 24,
+"forra_skal": "Redan skriven: produkten har struktur-text, SEO-titel och meta (k_07a_utkast.json) men saknar bara taggen texter-klara; ska inte skrivas om utan beslut om taggen."
+},
+{
+"id": "10472332034314",
+"titel": "Stuntscooter Union Lite S, Blå",
+"lager": 3,
+"forra_skal": "Redan skriven: live har titel, SEO-beskrivning och text i vår mall (Passar för, Specifikationer, standardblock). Skrivs inte om (R15)."
+},
+{
+"id": "10605358055690",
+"titel": "Griptape Ethic Basic",
+"lager": 4,
+"forra_skal": "Redan skriven: produkten har titel och text med standardblock (Griptape Ethic Basic). Källan består bara av titeln, så ingen ytterligare text kan skrivas utan att gissa (R3)."
+},
+{
+"id": "10593398554890",
+"titel": "2kg Dumbbell Bar",
+"lager": 130,
+"forra_skal": "Dubblett (R12a): samma artikel som redan skriven 10472257913098 (Hantelstång Gymstick 35 cm, 2 kg, 30 mm, SKU DB-2/GYMDB-2, samma EAN 6430062510478)."
+},
+{
+"id": "10624087621898",
+"titel": "Landsvägscykel GIANT Defy Advanced 2 (2027) Pearl White",
+"lager": 0,
+"forra_skal": "R12a dubblett: samma modell och färg (Defy Advanced 2 (2027) Pearl White) är redan skriven och har texter-klara live (10676719288586, nr 9128). Dessutom motsäger källan sig (Växelsystem Shimano 105 men bromsar Shimano 105 Di2) och Default Title har okänd färg. Sammanslagning är Davids beslut (plan rad 24)."
+},
+{
+"id": "10487969939722",
+"titel": "Cykel KONA Lava Dome, Gloss Prism Dragonfly",
+"lager": 1,
+"forra_skal": "Samma modell och färg (Prism Dragonfly) är redan skriven som 10565633736970 med storleksvarianter; denna har en variant utan storlek (SKU B37LDBLMSIN06), källan listar XS–XL och Kona omfattas inte av slutsiffreregeln. Skillnaden går inte att fastställa utan gissning (R3/R12a)."
+},
+{
+"id": "10523487240458",
+"titel": "Cykel GIANT XTC SLR 29 1 (2026) Abyss Black",
+"lager": 0,
+"forra_skal": "Trolig dubblett (R12a) av 6035 (10502528336138, \"Mountainbike Giant XTC SLR 29 1, 29 tum, Svart\", redan skriven med texter-klara): samma modell, samma färg (Abyss Black = svart), samma pris 28 509 kr, SKU i samma serie (1119019188 mot 1119019185). Källtexten är i stort sett identisk. David avgör om det är samma produkt."
+},
+{
+"id": "10589703373066",
+"titel": "Flickcykel ROMET Panda 1, vit-blå",
+"lager": 7,
+"forra_skal": "Dubblett (R12a): samma modell och färg, Flickcykel Romet Panda 1 vit-blå, finns redan skriven som 10472297398538 (ACTIVE, texter-klara, SKU 24130063-B, 7209 kr; denna har SKU 24130063-C, 7219 kr). Titel och SEO skulle krocka; kräver beslut av David (t.ex. skilja på ramstorlek)."
+},
+{
+"id": "10472232943882",
+"titel": "Set med cykellampor AXA Niteline 44-R",
+"lager": 6,
+"forra_skal": "Belysning (säkerhetsprodukt): avvisas. Dessutom inte exakt dubblett av 10475622400266 (Ljussats AXA Niteline 44-R, USB, redan skriven): här SKU 90900495SC och EAN 8713249258706, där 90900495KC och EAN 8713249350899."
+},
+{
+"id": "10656691683594",
+"titel": "Motionscykel BH FITNESS Lyon Climber",
+"lager": 1,
+"forra_skal": "Dubblett (R12a): Lyon Climber är redan skriven, aktiv och texter-klara som 10656691650826 (nr 10079). Fler oskrivna dubbletter finns (10656691716362)."
+},
+{
+"id": "10656691585290",
+"titel": "Motionscykel BH FITNESS Lyon Climber Multimedia",
+"lager": 1,
+"forra_skal": "Dubblett (R12a): Lyon Climber Multimedia är redan skriven, aktiv och texter-klara som 10656691552522 (nr 10080). Ytterligare oskriven dubblett: 10656691618058."
+},
+{
+"id": "10656691519754",
+"titel": "Spinningcykel BH FITNESS Stratos",
+"lager": 1,
+"forra_skal": "Dubblett (R12a): Stratos spinningcykel är redan skriven, aktiv och texter-klara som 10656691454218 (nr 10088)."
+},
+{
+"id": "10636758286602",
+"titel": "Curlstångspaket Chrome 35 kg med Krommade Viktskivor",
+"lager": 85,
+"forra_skal": "Redan skriven: live har vår text (SEO-titel, meta, Passar för, Specifikationer, standardblock). Ingen ny text behövs."
+}
+]

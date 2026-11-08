@@ -1,0 +1,17 @@
+[
+ {
+  "id": "10469223301386",
+  "nr": 48006,
+  "skäl": "R12a dublett och lager 0: samma modell och färg (Peltonen Skinpro 22 Med+) som redan skriven och aktiv produkt 10468730798346 (8306, texter-klara, längderna 195/202); denna har längderna 181/188. Källan är dessutom engelsk, oöversatt och bara tillverkarens marknadsföring. Skrivs inte (v1.9: ingen text för produkter utan lager när varianter ska kunna skilja sig)."
+ },
+ {
+  "id": "10503212138762",
+  "nr": 48010,
+  "skäl": "Giant Revolt Advanced 2 (2025) Solar Flare, SKU 1079015246: slutsiffra 6 omfattas inte av Davids ramstorleksregel (2026-11-08), så storleken kan inte fastställas. Samma modell och färg är redan skriven som 10503202472202; texten skulle bli identisk (R12a). Dessutom lager 0."
+ },
+ {
+  "id": "10635810177290",
+  "nr": 48011,
+  "skäl": "KONA Ouroboros CR/DL, SKU B36ORCDGYSRHK48: Kona omfattas inte av ramstorleksregeln (2026-11-08) och artikelnumret ger ingen storlek utan gissning; samma modell och färg är redan skriven som 10588452847882 (Default Title, storlek ej verifierbar), texten skulle bli identisk (R3/R12a). Webbkoll av storlek ej gjord eftersom artikelnumret inte går att slå upp entydigt."
+ }
+]

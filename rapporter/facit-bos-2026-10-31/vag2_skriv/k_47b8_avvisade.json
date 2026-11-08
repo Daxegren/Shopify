@@ -1,0 +1,62 @@
+[
+ {
+  "id": "10472286126346",
+  "nr": 49101,
+  "skäl": "Produkttypen oklar: \"stödben för bakre löpare\" och \"bakre fjädring\" går inte att tolka entydigt, enda måttet är \"Avstånd 40mm\"; bärande del utan lastgräns. Ingen tillverkarsida hittad; gissar inte."
+ },
+ {
+  "id": "10472302444810",
+  "nr": 49102,
+  "skäl": "Tunn källa (R3): live-beskrivningen är tom och titeln ger bara typ och färg. Webbsökning på EAN 5902114058340 och modellnamn gav ingen entydig tillverkarsida för exakt artikel (endast annan Trec-pillerdosa)."
+ },
+ {
+  "id": "10494698881290",
+  "nr": 49103,
+  "skäl": "Tunn källa (R3): egen källa är bara \"Maximal användarvikt 60 kg\" (lastgräns i löptext utan etikett, utelämnas); mått, bindningar och junior står bara i titeln. Ingen tillverkarsida kontrollerad."
+ },
+ {
+  "id": "10502528008458",
+  "nr": 49104,
+  "skäl": "Lastcykeldel (barntransport, ttak/ram för 2 barn) med tom källa: bara titel och SKU 1521-16, ingen EAN. Tunn källa (R3); barntransport ingår inte i frisläppningen."
+ },
+ {
+  "id": "10676715258122",
+  "nr": 49105,
+  "skäl": "Exakt dubblett (samma SKU 1521-22, EAN 7350097561209 och pris) av 10676715323658, båda aktiva (R12a): lager måste flyttas först. Dessutom lager 0, barntransport och tunn källa."
+ },
+ {
+  "id": "10676715323658",
+  "nr": 49106,
+  "skäl": "Exakt dubblett (samma SKU 1521-22, EAN 7350097561209 och pris) av 10676715258122, båda aktiva (R12a): lager måste flyttas först. Dessutom lager 0, barntransport och tunn källa."
+ },
+ {
+  "id": "10472238678282",
+  "nr": 49107,
+  "skäl": "Tunn källa (R3): live-beskrivningen är tom, titeln ger bara typ, huva och färg; tidigare webbsökning på märke, modell och EAN 8711252647869 gav ingen träff."
+ },
+ {
+  "id": "10472240382218",
+  "nr": 49108,
+  "skäl": "Källan (live) är marknadsföringstext med säkerhets- och kvalitetsord och anger inte entydigt vad adaptern gör. Bromsdel: webbsökning gav bara återförsäljarsidor för SM-MA-F160P/S (framhjul, postmount 74 mm, 160 mm skiva), ingen Shimano-sida och ingen EAN-matchning (live-SKU saknar EAN); titelns \"Post/Standard\" kan inte knytas säkert till exakt modellsuffix. Gissar inte."
+ },
+ {
+  "id": "10472245330186",
+  "nr": 49109,
+  "skäl": "Titeln (Bakre stödhjul) motsäger taggen (stödben) och källan (Hålavstånd 18 mm, \"Robust och stark\"); produkttypen oklar och källan tunn. Ingen tillverkarsida kontrollerad."
+ },
+ {
+  "id": "10470943621386",
+  "nr": 49110,
+  "skäl": "Titeln (Vitaminpulver) och källan motsäger varandra: texten beskriver ett pre-workout-pulver med betalanin, koffein, L-arginin och kreatin, medan ingredienslistan bara anger kreatinmonohydrat, natriumcitrat och vitamin C. Produkttypen oklar."
+ },
+ {
+  "id": "10472285569290",
+  "nr": 49111,
+  "skäl": "Tunn källa (R3): live-beskrivningen är tom, titeln är enda källa; ingen tillverkarsida för exakt modell kontrollerad."
+ },
+ {
+  "id": "10472300085514",
+  "nr": 49112,
+  "skäl": "Tunn källa: texten innehåller bara hälso-, säkerhets- och kvalitetsfraser och inga mått utöver titelns 97 cm. Webbsökning (bara återförsäljare, ingen tillverkarsida) gav ingen lastgräns eller vikt för Toorx TF-01; trampolin utan känd lastgräns skrivs inte."
+ }
+]

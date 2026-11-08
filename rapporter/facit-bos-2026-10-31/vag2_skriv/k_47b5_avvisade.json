@@ -1,0 +1,47 @@
+[
+ {
+  "id": "10494695932170",
+  "nr": 48702,
+  "skäl": "Produkten är ARCHIVED i butiken (inte aktiv), så beslutet 2026-11-08 om aktiva produkter gäller inte. Källan är dessutom tom (bara titel, SKU och EAN)."
+ },
+ {
+  "id": "10472240021770",
+  "nr": 48703,
+  "skäl": "Ingen entydig källa: egen källa tom, Shimanos sida går inte att läsa (403) och återförsäljare går isär om fästtyp (SM-MA-F180P/S anges med både IS 51 mm och IS2000 160 mm; SM-MA-F180S/P är en annan artikel). Live-titeln saknar suffixet P/S och artikelkoden är inte styrkt mot EAN 4524667108146. Bromsdel där fel fästtyp ger fel produkt: gissar inte."
+ },
+ {
+  "id": "10472240414986",
+  "nr": 48707,
+  "skäl": "Typord oklart och live-text motsäger: titeln \"Tirr\", live-texten \"kassettnav/kassett\". Webben visar att MF-TZ500-7 är en skruvbar frihjulskrans (freewheel) 14-28T, inte nav eller kassett. Rätt svenskt typord (frihjul/skruvkrans) finns inte i profilen; kräver beslut om typord och rättad live-text."
+ },
+ {
+  "id": "10470983958794",
+  "nr": 48708,
+  "skäl": "Titeln (Frame ear) och live-texten (ramring, aluminiumkomponent) motsäger varandra. Webben visar att GH-022 är ett växelöra (derailleur hanger) i aluminium, men typordet växelöra finns inte i profilen och passar-listan i live-texten (70 märken) är generisk och ostyrkt (\"GH-022 är ett generellt typnummer, kontrollera ram och årsmodell\"). Avvisas tills typord och passform beslutats."
+ },
+ {
+  "id": "10515737542922",
+  "nr": 48709,
+  "skäl": "Titeln \"Landsvägscykelsadlar\" och live-texten (Look KEO-system, tätade lager, 257 g, 82 x 92 mm) motsäger produkten: Giants sida visar att art.nr 230000081 är pedalen Giant Road Pro (Look KEO-kompatibel, 250 g, 90x81x33 mm), inte en sadel. Live-vikt och mått stämmer inte med Giants. Pedal är dessutom en bärande del utan styrkt lastgräns. Kräver att live-titeln rättas till pedal; skrivs inte som sadel."
+ },
+ {
+  "id": "10476257116426",
+  "nr": 48710,
+  "skäl": "Lager 0 och tidigare underkänd (k_utlatande_13_15): växelsystemet anges bara som \"SRAM GX Eagle\" utan att visa mekaniskt eller AXS/Transmission, och enda varianten heter \"L / gray\" medan titeln anger Dark Irisdescent. Ingen tillverkarsida har knutit färg och växelsystem entydigt till artikelnumret 1008002107."
+ },
+ {
+  "id": "10676714111242",
+  "nr": 48711,
+  "skäl": "Tunn källa (R3): bara modellerna Flex Nova och Delight Nova samt tillverkaren. Ingen tillverkarsida för artikelnummer 1521-100 hittades (närmast är en kapellbåge/Verdeckbügel 0096488.001 hos en tysk återförsäljare, annat artikelnummer). \"Premium\" i titeln saknar stöd. Lager 0."
+ },
+ {
+  "id": "10656690274570",
+  "nr": 48712,
+  "skäl": "Barntransport (tillbehör till lastcykel; bakre sittdyna med ryggstöd) och tunn källa (ett faktum: passar Flex och Delight). Priset är 9 kr (trasigt). Ingen tillverkarsida för 1521-30; närmast är sittdynan 0096497.002 hos en tysk återförsäljare med annat artikelnummer och 18 cm ryggstödshöjd. Svensson Family-linjen (barntransport) hölls utanför 2026-11-05; ingen entydig källa att skriva från."
+ },
+ {
+  "id": "10526099046666",
+  "nr": 48713,
+  "skäl": "Trolig dubblett (R12a): samma modell, färg (svart-gul), ramstorlek (M 17 tum), vikt och text som den aktiva 10472334819594 (Ungdomscykel ROMET Rambler R6.2 (2024) svart-gul); endast artikelnummer och EAN skiljer (26170271-E/5904803257072 mot 26170271-A/5904803164981) och modellåret anges bara på den ena. Modellår går inte att styrka för vår annons (EAN hittades inte på webben), så titel som skiljer dem kan inte skrivas. Behöver beslut om dubblett (David 2026-11-05: bara exakt samma artikel räknas, men här kan det inte styrkas)."
+ }
+]

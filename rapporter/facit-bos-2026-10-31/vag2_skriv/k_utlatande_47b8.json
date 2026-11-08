@@ -1,0 +1,36 @@
+[
+ {
+  "nr": 49001,
+  "id": "10472248115466",
+  "fil": "k_47b8_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Spencer frontkorg för barncykel i svartlackerat stålnät, lämplig för cyklar med 16, 18, 20 och 24 tums hjul.</p>",
+    "efter": "<p>Spencer frontkorg för barncykel är gjord av svartlackerat stålnät och passar cyklar med 16, 18, 20 och 24 tums hjul.</p>"
+   },
+   "meta": {
+    "fore": "Spencer frontkorg i svartlackerat stålnät för barncyklar med 16–24 tums hjul.",
+    "efter": "Spencer frontkorg i svartlackerat stålnät som passar barncyklar med 16–24 tums hjul."
+   }
+  },
+  "skal": "Live ACTIVE, en variant EK-SP027-M (streckkod = SKU, ingen EAN), 159 kr, lager 15, ingen På beställning-tagg. Leverantörens originaltext (rapporter/shopify-original-2026-10-31/facit30-original.json) bekräftar 16/18/20/24 tums hjul, svartlackerat stålnät, klämma mellan styrkronorna, 1 tums (25,4 mm) gaffelrör, 25 x 17 x 18 cm och monteringsplatta, bultar, muttrar, brickor. Källans felrad 'Cykelhjälm för barn Spencer' och 'starkt' är rätt utelämnade. Inga säkerhets-, skydds- eller kvalitetslöften. Inte dubblett: Spencer-korgarna i rött (EK-SP020-P) och rosa (EK-SP028-R) är andra färger/SKU. Korgar skrivs utan lastgränsrad (praxis 24070, 28044, 28210). Gamla FAQ borttagen (R15). Rättning R11: första meningen i html och meta saknade verb."
+ },
+ {
+  "nr": 49002,
+  "id": "10526099210506",
+  "fil": "k_47b8_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<li>Barn som ska lära sig cykla (avtagbara stödhjul och skjutstång för föräldern)</li>",
+    "efter": "<li>Dig som vill ha en barncykel med avtagbara stödhjul och skjutstång</li>"
+   },
+   "meta": {
+    "fore": "Barncykel med aluminiumram och 14-tums hjul.",
+    "efter": "Barncykeln Tabou Rocket Alu har aluminiumram och 14-tums hjul."
+   }
+  },
+  "skal": "Live ACTIVE, en variant TAB27-0340, EAN 5904257320209, 4 779 kr, lager 7, ingen På beställning-tagg. Leverantörens originaltext (facit30-original.json) bekräftar aluminiumram, ramstorlek 24 cm, 1 växel, V-broms + fotbroms, 8,2 kg utan tillbehör, avtagbara stödhjul, skjutstång, korg fram och ingår-listan; fotbroms, vikt och ramstorlek som utkastaren flaggade är alltså belagda. 14 tum ur leverantörstiteln. 'Lätt', 'utmärkt första cykel' och längdintervallet rätt borta (längden står i källan men utelämnas utan fel). Inte dubblett: Rocket Alu svart-blå (TAB26-0320) och 16 tum svart-röd (TAB27-0370) är andra artiklar. Rättningar: 'lära sig cykla' är ett utvecklingslöfte och ersätts som i 28219; första metameningen saknade verb (R11)."
+ }
+]

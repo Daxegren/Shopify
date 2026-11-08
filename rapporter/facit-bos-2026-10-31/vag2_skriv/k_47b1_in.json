@@ -1,0 +1,86 @@
+[
+{
+"id": "10530130854154",
+"titel": "Framkorg Minnie, mörkrosa",
+"lager": 15,
+"forra_skal": "Tom källa (ingen beskrivning, bara titel): inga fakta att skriva från (R1/R3). Ingen ändring mot tidigare."
+},
+{
+"id": "10530130886922",
+"titel": "Fuses Stitch, blue",
+"lager": 4,
+"forra_skal": "Tunn källa (R3): en enda mening (\"Kitet innehåller skydd för knän och armbågar\") och inget annat entydigt faktum utöver titeln."
+},
+{
+"id": "10472296317194",
+"titel": "Kindad Frozen 2",
+"lager": 3,
+"forra_skal": "Tom källa: ingen beskrivning, bara titel, SKU 9058 och EAN; produkttypen (\"Kindad Frozen 2\") går inte att avgöra."
+},
+{
+"id": "10468710678794",
+"titel": "Frontkorg för ADO A28, svart",
+"lager": 0,
+"forra_skal": "Motsägande källa: beskrivningen säger \"ADO Air 28 framhjälm för cykel\" (hjälm) medan titeln är en frontkorg; ingen streckkod och lager 0."
+},
+{
+"id": "10472250835210",
+"titel": "Stående ben för bakre löpare ACADEMY 24\"-27.5\", KSA 40",
+"lager": 2,
+"forra_skal": "Bärande del utan lastgräns; källan är en mening och \"bakre löpare\" i titeln är garblat. Produkttypen oklar."
+},
+{
+"id": "10472271020298",
+"titel": "Vredeslås SQUIRE Folda Mini FL690",
+"lager": 25,
+"forra_skal": "Motsägelse som webben inte löser: titeln säger Vredeslås, live-källan hjullås. Tillverkaren och återförsäljare (samma EAN 5012245039542) säljer Squire Folda Mini FL690 som ett vikbart länklås (folding lock), och längden går isär (69 cm i live, 650 mm hos flera webbsäljare). Inget av typorden (vredeslås, hjullås) har stöd av egen källa och vikbart lås är inget godkänt typord; ingen text kan skrivas utan att gissa typ eller längd."
+},
+{
+"id": "10468713529610",
+"titel": "Cargobike assembly",
+"lager": 0,
+"forra_skal": "Tjänst (montering av lastcykel), inte en produkt med produkttext; källan innehåller bara beställningsmeningen. Ingen produktfakta att skriva."
+},
+{
+"id": "10468713595146",
+"titel": "Large exercise machine assembly",
+"lager": 0,
+"forra_skal": "Tjänst (montering av stor träningsmaskin), inte en produkt med produkttext; källan innehåller bara beställningsmeningen. Ingen produktfakta att skriva."
+},
+{
+"id": "10472293433610",
+"titel": "Pakethållare M-Wave SP-Quick för Sadelstolpe, 9 kg",
+"lager": 6,
+"forra_skal": "Pakethållare med lastgräns (bärande del) som redan är skriven live med ordagrann lastkapacitet 9 kg, SEO och standardblock; inget syskon med SKU 440170. Ingen dubblett, skrivs inte om."
+},
+{
+"id": "10612578976010",
+"titel": "Gloves Mickey, green",
+"lager": 1,
+"forra_skal": "Tunn och motstridig källa (R2/R3): egen källa är en mening (\"slitstarkt material\", damasker). Webbkoll på EAN 5902308590908 (Seven Disney Mickey 59090) anger grå-gul färg, storlek S/barn, medan live-titeln säger green och annan butik anger one size; barnhandskar med motsägelser, inget entydigt att skriva."
+},
+{
+"id": "10676713750794",
+"titel": "Kapellställning CARGOBIKE of SWEDEN Canopy Bows Long Lite",
+"lager": 0,
+"forra_skal": "Exakt dubblett av aktiv annons 10676713783562 (samma titel, SKU 1521-28, EAN 7350097568499, samma pris) och tunn källa: bara att kapellställningen är för Long Lite (ett faktum utöver titeln). Lager måste flyttas först (R12a)."
+},
+{
+"id": "10676713783562",
+"titel": "Kapellställning CARGOBIKE of SWEDEN Canopy Bows Long Lite",
+"lager": 0,
+"forra_skal": "Exakt dubblett av aktiv annons 10676713750794 (samma titel, SKU 1521-28, EAN 7350097568499, samma pris) och tunn källa: bara att kapellställningen är för Long Lite (ett faktum utöver titeln). Lager måste flyttas först (R12a)."
+},
+{
+"id": "10472232780042",
+"titel": "Snow boots STIGA Snow Kick, black/blue",
+"lager": 3,
+"forra_skal": "Produkttypen oklar: titeln säger \"Snow boots\", källan beskriver en hopfälbar \"snödörr\" med styre (tagg Sparkcykel/Pulkor). Inget godkänt typord och ingen entydig tillverkarsida kontrollerad."
+},
+{
+"id": "10494699110666",
+"titel": "Skyddsplåt UNIPLAST Apple, lila",
+"lager": 1,
+"forra_skal": "Tunn källa (R3): tom källa, ingen webbträff på EAN 4743128000045; pulkatillbehör utan fakta."
+}
+]

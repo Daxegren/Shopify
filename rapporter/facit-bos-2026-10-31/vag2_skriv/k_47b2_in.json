@@ -1,0 +1,86 @@
+[
+{
+"id": "10472241987850",
+"titel": "Kälke STIGA Pacer, svart",
+"lager": 26,
+"forra_skal": "För tunn källa (R3): bara att kälken passar barn och vuxna; texten säger svart design medan varianterna är svart, rosa och grön."
+},
+{
+"id": "10472314503434",
+"titel": "Ice cats ANTi SKid Sole Single, 41-46",
+"lager": 3,
+"forra_skal": "Produkttypen är oklar och källan trasig: titeln är engelska (\"Ice cats ANTi SKid Sole\"), texten maskinöversatt (\"ispåsar\", \"vintergrepp\") och taggen säger Skidor; kvar blir bara löften (säkert stöd, minskar risken för halka och fall). Inget godkänt typord."
+},
+{
+"id": "10554363117834",
+"titel": "Pedalplattor LOOK Keo Cleat, landsväg, röd",
+"lager": 1,
+"forra_skal": "Säkerhetsdel (frigörande klosskoppling mellan sko och pedal), ingår inte i v1.10; källan har bara \"9 grader\" utöver titeln."
+},
+{
+"id": "10565595726090",
+"titel": "Fotstöd FIIDO T2 Bakre Pinnar",
+"lager": 0,
+"forra_skal": "Tunn källa: en enda rad (\"Fotstöd för Fiido T2-modellen\"), inga två entydiga fakta utöver titeln (R3); fotstöd är en bärande del och lastgräns saknas, så texten skulle bara bestå av \"Ej känd\". Ingen tillverkarsida med artikelnumret T2-REARPEGS hittad. Lager 0."
+},
+{
+"id": "10612571504906",
+"titel": "Knäskydd Boom Solid Knee Pads Svart L",
+"lager": 1,
+"forra_skal": "Exakt dubblett av aktiv annons 10612571537674 (samma titel, samma EAN 4751036031341, olika pris 359 mot 449 kr). Lager måste flyttas först (R12a); källan är dessutom tunn (skyddsnivå \"extrem\" är ett skyddslöfte)."
+},
+{
+"id": "10472244510986",
+"titel": "GIANT Mobility Kickstand",
+"lager": 36,
+"forra_skal": "Bärande del utan lastgräns och för tunn källa: bara att den passar FastRoad/ToughRoad/Rapid, resten är trasig text."
+},
+{
+"id": "10472232419594",
+"titel": "Cykelklocka GIANT CLASSIC BELL, SVART",
+"lager": 29,
+"forra_skal": "Tunn källa (R3): egen källa är bara marknadsföring (\"snygg\", \"unik design\", \"hög kvalitet\", \"bra ljud\") och Giants märkestext; inga entydiga fakta utöver titeln."
+},
+{
+"id": "10472239923466",
+"titel": "Hjulmonteringssats SP CONNECT iPhone XR",
+"lager": 1,
+"forra_skal": "Produkttypen oklar: titeln \"Hjulmonteringssats\" men källan beskriver telefonfäste för iPhone XR med klämfäste för 23-43 mm; pris 7289 kr verkar felaktigt; ingen entydig källa."
+},
+{
+"id": "10472240742666",
+"titel": "Barnishockeyrullskridskor FILA X-One Ice Blue/Lime",
+"lager": 4,
+"forra_skal": "Produkttypen oklar: titeln säger rullskridskor (Barnishockeyrullskridskor) men källan beskriver skridskohållare med blad i rostfritt hockeystål 53-55 HRC \"för isen\" (isskridsko). Titel och källa motsäger varandra; kräver rättad titel/typord före text."
+},
+{
+"id": "10472240775434",
+"titel": "Barnhockeyrullskridskor FILA Viper Hc Junior Svart",
+"lager": 1,
+"forra_skal": "Produkttypen oklar: titeln säger rullskridskor (Barnhockeyrullskridskor) men källan beskriver skridskoblad av förspänt rostfritt stål \"designat för hockeyis\" (isskridsko). Titel och källa motsäger varandra; kräver rättad titel/typord före text."
+},
+{
+"id": "10515738067210",
+"titel": "Stöd för bakre löpare GIANT DIRECT MOUNT KSA 40MM",
+"lager": 20,
+"forra_skal": "R2: källan är maskinöversatt och motsägelsefull (\"stöd för bakre löpare\", \"aluminium klätterutrustning material\", \"stabilt och gediget\"); bara aluminium och KSA40 är entydigt, under två fakta."
+},
+{
+"id": "10462780424458",
+"titel": "Scooter stickers Union Sticker",
+"lager": 3,
+"forra_skal": "Tunn källa: bara märke Union och vikt 0,01 kg utöver titeln, under två entydiga fakta (R3); tidigare webbkoll (artikel 104912) gav ingen träff."
+},
+{
+"id": "10635809882378",
+"titel": "Elcykel GIANT Fathom E+ 2 EX (2027) Pangea Green",
+"lager": 0,
+"forra_skal": "Källan motsäger sig (R2): löptexten anger batteriet EnergyPak Smart 800 Wh, detaljraderna EnergyPak 625 Wh och räckvidd 167 km; webben stöder 625 Wh endast via återförsäljare och Giants sida för E+ 2, inte entydigt för exakt modell EX. Batteriet är en huvuduppgift för elcykeln. Dessutom lager 0."
+},
+{
+"id": "10472297791754",
+"titel": "LAZER HMT Nutz 2.0 KC Pannlampa, Gröna prickar",
+"lager": 1,
+"forra_skal": "Produkttypen är oklar: live-titel och text säger pannlampa, men EAN 5400974036664 är barnhjälmen Lazer NutZ 2.0 KinetiCore. Texten motsäger sig själv; måste rättas i butiken före textning."
+}
+]

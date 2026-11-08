@@ -1,0 +1,22 @@
+[
+ {
+  "id": "10472323023114",
+  "nr": 48612,
+  "skäl": "Tunn källa (R3): egen källa säger bara att dörrpanelen passar Amladcykler Ultimate Curve och Deluxe; den nämner varken hund eller sidöppning, så titeln kan inte styrkas. Webbsökning (mohlins.se, Amladcykler/Velomarket) bekräftar inte någon sidöppning eller hunddörr för Ultimate Curve/Deluxe; tillverkarsida saknas. Färre än två entydiga fakta utöver titeln."
+ },
+ {
+  "id": "10462767284490",
+  "nr": 48613,
+  "skäl": "Tom live-källa (bara tom div) och ingen tillverkarsida gick att läsa: Continentals sida för Ride Tour saknar specifikationer, och återförsäljarsidorna motsäger varandra (vikbart/vajerdäck, 3,5 eller 4,5 bar, 60 eller 180 TPI, \"road bike\" mot trekking/e-cykel). Bara storlek 42-622/28x1,60 och svart färg är entydiga, dvs färre än två fakta utöver titeln."
+ },
+ {
+  "id": "10494696161546",
+  "nr": 48614,
+  "skäl": "Tom live-källa (ingen beskrivning). Tillverkarsidan (lookcycle.com, artikel 18234: vinkelfrihet 6 grader, utlösningsvinkel 13 grader, SPD-kompatibel, 45 g, svart) gäller klossar men anger inte EAN 3611720144997; den kopplingen finns bara hos återförsäljare. Typordet saknas dessutom: \"Pedal blocks\" är engelska och butikens godkända typord har inget ord för pedalklossar (R7). Produkten är en kopplingsdel mellan sko och pedal. Kan skrivas om David godkänner typordet \"Pedalklossar\"."
+ },
+ {
+  "id": "10561356398858",
+  "nr": 48611,
+  "skäl": "Artikelnumrets slutsiffra är 3 (SKU 1074031103). Källans storlekstabell för Propel Advanced 2 (S, M, M/L, L, XL) saknar XS, så ramstorleken kan inte härledas enligt beslutet 2026-11-08 och inget sägs i källan som styrker den. Gissa aldrig. Övriga fakta är lika de två skrivna Propel Advanced 2 i Vit (S och XL)."
+ }
+]

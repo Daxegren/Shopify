@@ -1,0 +1,52 @@
+[
+ {
+  "id": "10472518779146",
+  "nr": 49104,
+  "skäl": "Tom källa (ingen beskrivning, bara titel, SKU CFF och EAN) och taggen Viktlås 31mm motsäger titelns 30 mm; ingen tillverkarsida knuten till exakt artikel. Färre än två entydiga fakta (R3)."
+ },
+ {
+  "id": "10472240808202",
+  "nr": 49105,
+  "skäl": "Titel och typ motsäger källan: titeln/typen säger rullskridskor men källan beskriver skridskoblad av förspänt rostfritt stål designat för hockeyis (isskridsko). Typen är oklar; kräver rättad titel/typord före text."
+ },
+ {
+  "id": "10554352894218",
+  "nr": 49106,
+  "skäl": "Tom källa (ingen beskrivning, bara titel och SKU BABS162); webbsökning gav ingen sida som knyter BABS162 eller EAN 7029775900103 entydigt till exakt denna modell (närmast liknande Hamax regnskydd har annan artikelkod)."
+ },
+ {
+  "id": "10676715487498",
+  "nr": 49107,
+  "skäl": "Oklar funktion och typ: titeln säger skyddsram för barnstol men källan säger att barnen sitter i ramen (plats för två barn) och består mest av säkerhetslöften; ingen tillverkarsida för artikel 1580-5 hittades. Lager 0."
+ },
+ {
+  "id": "10411849646346",
+  "nr": 49108,
+  "skäl": "Melatonin: David undantog uttryckligen melatonin (33001) vid frisläppningen 2026-11-06 och profilen listar melatonin som utanför; beslutet 2026-11-08 nämner inte melatonin särskilt. Källan har dessutom sömnpåstående och varningstext. Kräver särskilt besked."
+ },
+ {
+  "id": "10472241791242",
+  "nr": 49109,
+  "skäl": "Tunn källa (R3): en mening med bara herr och avancerade åkare. Ingen tillverkarsida för exakt artikel; webbträffar är återförsäljare för närliggande Primo-modeller och anger olika lager (ABEC 7 mot ABEC 9). Gissar inte."
+ },
+ {
+  "id": "10598555582730",
+  "nr": 49110,
+  "skäl": "Produkttypen är oklar: löptexten beskriver rullskridskor (justerbar storlek 29-33) men SKU är ROWER-COMPACT, handle rower-compact, taggarna Roddmaskin/Toorx och EAN 8029975990026 hör till Toorx; artikelnummer och EAN går inte att koppla till skridskorna."
+ },
+ {
+  "id": "10612569112842",
+  "nr": 49111,
+  "skäl": "Tom källa och avkortad titel (\"16\\\"-\"). Ingen tillverkarsida kunde läsas (zefal.com gav fel sida); återförsäljare anger 16/18/20 respektive 16/20 tum, så storleken går inte att fastställa entydigt."
+ },
+ {
+  "id": "10676714144010",
+  "nr": 49112,
+  "skäl": "Tunn och motsägande källa: live-texten anger bara att ställningen är för Flex Nova och Delight Nova, men titeln säger \"Premium\" som inte finns i källan (R3). Artikelnummer 1521-100 (handle 1521-101) och ingen tillverkarsida hittad. Lager 0."
+ },
+ {
+  "id": "10656690307338",
+  "nr": 49113,
+  "skäl": "Exakt dubblett av aktiv annons 10656690274570 (samma SKU 1521-30, EAN 7350097565429 och titel; båda aktiva, lager 2). Lager måste flyttas först (R12a). Källan är dessutom tunn."
+ }
+]

@@ -1,0 +1,80 @@
+[
+{
+"id": "10472518779146",
+"titel": "Hantelvikter TOORX Spring Locks, 30 mm",
+"lager": 3,
+"forra_skal": "Tom källa (ingen beskrivning, bara titel, SKU CFF och EAN); taggen Viktlås 31mm motsäger titelns 30 mm."
+},
+{
+"id": "10472240808202",
+"titel": "Barnhockeyrullskridskor FILA Viper Hc Junior Vit",
+"lager": 1,
+"forra_skal": "Produkttypen oklar: titeln/typen säger rullskridskor (Barnhockeyrullskridskor) men källan beskriver skridskoblad av förspänt rostfritt stål \"designat för hockeyis\" (isskridsko). Titel och källa motsäger varandra; kräver rättad titel/typord före text."
+},
+{
+"id": "10472284619018",
+"titel": "Vindskydd för barnstol URBAN IKI Seiboku Grey",
+"lager": 3,
+"forra_skal": "Tunn källa (R3): en enda mening med bara kvalitets- och skyddsord (\"hållbart, starkt, slagtåligt, skyddar mot regn och vind\"); inga entydiga fakta utöver titeln."
+},
+{
+"id": "10475402330378",
+"titel": "Vindskydd för barnstol URBAN IKI Asahi Gold",
+"lager": 5,
+"forra_skal": "Tunn källa (R3): samma enda mening som Seiboku Grey med bara kvalitets- och skyddsord; inga entydiga fakta utöver titeln."
+},
+{
+"id": "10554352894218",
+"titel": "Regnskydd för HAMAX barncykelstol",
+"lager": 1,
+"forra_skal": "Tom källa: ingen beskrivning, bara titel och SKU BABS162. Regnskydd för barncykelstol (barntransport) utan uppgifter att skriva."
+},
+{
+"id": "10605358121226",
+"titel": "Barnstol Polisport Joy FF 26\"-28\", mörkgrå",
+"lager": 5,
+"forra_skal": "Barnstol på cykel (barntransport): profilen håller barnstolar utanför, och v1.10 undantar barntransport från lastgränsrutinen. Källans kg-uppgift (9–22 kg) saknar etikett (R4). Lyfts till David för särskilt besked."
+},
+{
+"id": "10676715487498",
+"titel": "Skyddsram för barnstol CARGOBIKE of SWEDEN Longtail Varia",
+"lager": 0,
+"forra_skal": "Barntransport: skyddsram för barnstol på lastcykel; källans huvudpoänger är säkerhetslöften (\"sitter säkert och tryggt\", \"skyddsräcken\"), och barntransport ingår inte i v1.10. Lager 0."
+},
+{
+"id": "10411849646346",
+"titel": "Kosttillskott för sömn TREC Melatonin, 90 kapslar",
+"lager": 4,
+"forra_skal": "Melatonin: David undantog uttryckligen melatonin (33001) vid frisläppningen 2026-11-06 och profilen listar melatonin som fortfarande utanför; beslutet 2026-11-08 nämner inte melatonin särskilt. Källan har dessutom sömnpåstående och varningstext. Kräver särskilt besked."
+},
+{
+"id": "10472241791242",
+"titel": "Rullskridskor FILA Primo LX 90, svart-blå-gul",
+"lager": 2,
+"forra_skal": "För tunn källa (R3): en mening med bara herr och avancerade åkare; inga mått, hjul eller lager."
+},
+{
+"id": "10598555582730",
+"titel": "Rullskridskor NILS EXTREME NF102",
+"lager": 1,
+"forra_skal": "Produkttypen är oklar: löptexten beskriver rullskridskor men SKU är ROWER-COMPACT, handle rower-compact och taggarna Roddmaskin/Toorx; EAN och artikelnummer går inte att koppla till skridskorna."
+},
+{
+"id": "10612569112842",
+"titel": "Stänkskydd ZEFAL KID MTB set 16\"-",
+"lager": 1,
+"forra_skal": "Tom källa (ingen beskrivning, bara titel, SKU och EAN) och titeln är avkortad (\"16\\\"-\"); tillverkarsidan Zefal ger 16/18/20 tum medan återförsäljare anger 16 och 20, EAN går inte att knyta entydigt till modellen."
+},
+{
+"id": "10676714144010",
+"titel": "Kapellställning CARGOBIKE of SWEDEN för Flex/Delight Nova Premium",
+"lager": 0,
+"forra_skal": "Tunn och motsägande källa: live-texten anger bara att ställningen är för Flex Nova och Delight Nova från Cargobike of Sweden (en entydig uppgift utöver titeln), men titeln säger 'Flex/Delight Nova Premium' och 'Premium' finns inte i källan (R3). Lager 0 (På beställning), inga mått, material eller artikelnummer i källan; ingen entydig tillverkarsida för exakt artikelnummer 1521-100 (handle slutar på 1521-101) kunde knytas till modellen."
+},
+{
+"id": "10656690307338",
+"titel": "Sittdyna för baksäte med ryggstöd CARGOBIKE of Sweden Flex/Delight",
+"lager": 2,
+"forra_skal": "Exakt dubblett av aktiv annons 10656690274570 (samma SKU 1521-30 och EAN 7350097565429, samma titel). Lager måste flyttas först (R12a). Källan är dessutom tunn: bara att sittdynan passar Flex och Delight."
+}
+]

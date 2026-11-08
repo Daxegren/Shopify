@@ -1,0 +1,86 @@
+[
+{
+"id": "10472235663626",
+"titel": "Ljussats AXA Greenline Set 15 Lux",
+"lager": 25,
+"forra_skal": "Källan motsäger titeln (titel Greenline, källa Compactline) och har motstridiga värden (brinntid/laddningstid i två block)."
+},
+{
+"id": "10472242184458",
+"titel": "Bromsskiva SHIMANO 180 mm Center Lock SM-RT10 Endast Resinbelägg",
+"lager": 59,
+"forra_skal": "Källan anger två ytterdiametrar (180 och 160 mm) medan titeln säger 180 mm; kan inte avgöra vilken som gäller; ingen EAN; taggen Cykellås är fel."
+},
+{
+"id": "10472334491914",
+"titel": "Fälgskydd M-Wave Ringlock 29-33",
+"lager": 4,
+"forra_skal": "Tom källa: bara titeln. Webbkoll på EAN 5904803283262 gav ingen träff, och pris 6 779 kr samt taggen Romet tyder på felklassad produkt. Inga entydiga fakta."
+},
+{
+"id": "10472239956234",
+"titel": "Adapter Shimano SM-MA90-R160 Post/Standard, 160 mm",
+"lager": 24,
+"forra_skal": "Tunn källa (R3): bara modell, 160 mm och Post/Standard, inget utöver titeln; tillverkarsida kunde inte läsas (403)."
+},
+{
+"id": "10472294842634",
+"titel": "Stand ADO Air Carbon",
+"lager": 0,
+"forra_skal": "Tunn källa (R3): live-källan är bara \"Stativ för ADO Air Carbon-modellen\". Ingen mått-, material- eller monteringsuppgift, och tillverkarens sida har ingen beskrivning. Mindre än två entydiga fakta utöver titeln."
+},
+{
+"id": "10472346190090",
+"titel": "Stöd med bakre fäste för 26-29\" cykel",
+"lager": 201,
+"forra_skal": "Tunn källa (R3): bara \"Passar alla 26-29 tums cyklar\"; internt EAN utan webbträff; pris 0,00 kr (ofärdig produkt)."
+},
+{
+"id": "10523491467530",
+"titel": "Cykelklocka GIANT DING-A-LING Flick, Svart",
+"lager": 19,
+"forra_skal": "Tom live-beskrivning och ingen källa hittades på nätet för Giant Ding-A-Ling Flick (SKU 510000013); bara titeln finns, för tunn källa (R3)."
+},
+{
+"id": "10541369098506",
+"titel": "Flaskhållare GIANT Airway Sport Sidepull (L), Svart/Blå",
+"lager": 29,
+"forra_skal": "Tunn källa: bara flaskstorlek 500-750 ml och märke. Webbkoll hittade familjen Airway Sport Sidepull men inte artikelnumren 490000099/490000095 eller vad (L) betyder; kan inte knytas entydigt (R1, v1.6)."
+},
+{
+"id": "10523491434762",
+"titel": "Träningshjul GIANT Steel Träningshjul, 16\"-",
+"lager": 14,
+"forra_skal": "Tom källa: ingen beskrivning, bara titel och SKU 910522. Bärande del (träningshjul/stödhjul) utan uppgifter; inga fakta att skriva."
+},
+{
+"id": "10480054567178",
+"titel": "Sangpomm CHRISTOPEIT Kettlebell 12kg",
+"lager": 2,
+"forra_skal": "Tunn källa (R3): generell kettlebelltext utan vikt eller mått; ingen webbträff på EAN 5704796035677 som gäller exakt modellen."
+},
+{
+"id": "10462785896714",
+"titel": "Kork Start NATURAL",
+"lager": 5,
+"forra_skal": "Produkttypen är oklar och källan är tunn och maskinöversatt (\"skrubba bort hal jord\", \"Ej lämplig för applicering av fästvalla\"); tidigare webbkoll på EAN 6418016050287 och artikelnummer gav ingen träff."
+},
+{
+"id": "10472262959370",
+"titel": "Battery set for Fiido Titan",
+"lager": 0,
+"forra_skal": "Tunn källa: bara att satsen är ett batteripaket för Fiido Titan med batterihållare, 2 batterier och påsar. Elektronik får bara skrivas med ordagranna uppgifter ur källan, och webben ger ingen bekräftad specifikation för just denna sats (kapacitet, innehåll). Lager 0."
+},
+{
+"id": "10475517772042",
+"titel": "TOORX Bröstbälte 5.3 kHz",
+"lager": 3,
+"forra_skal": "Elektronik med tunn källa (R3): egen källa har bara frekvens 5,3 kHz (redan i titeln) och en trasig frekvensomfångsrad; ingen entydig fakta utöver titeln. Ursprungsuppgiften (Italien) räcker inte."
+},
+{
+"id": "10636716376330",
+"titel": "Adduktor Tränare",
+"lager": 1001,
+"forra_skal": "Tunn och otydlig källa (R2/R3): egen text beskriver bara adduktorernas anatomi och löpning, ingen produktbeskrivning (material, mått, hur redskapet används). Webbkoll på EAN 4260438736360 ger en enda återförsäljare med avvikande namn och mått (Kruidvat, Dijbeen Trainer, 47 x 20 x 11 cm, 0,8 kg) och ingen tillverkarsida bekräftar modellen, så inga entydiga fakta finns."
+}
+]

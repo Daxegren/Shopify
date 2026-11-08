@@ -1,0 +1,62 @@
+[
+ {
+  "id": "10581105901834",
+  "nr": 48910,
+  "skäl": "Armbågsstöd 1.0: ingen källa som visar material, mått eller andra fakta hittades (gymstick.com-sida saknas, EAN 6430062510850 ger ingen träff); egen källa består bara av stöd-/kompressionslöften."
+ },
+ {
+  "id": "10581104754954",
+  "nr": 48911,
+  "skäl": "Back Support 2.0: ingen sida för art.nr 63065/EAN 6430062510836 hittades; bara modell 1.0 hos återförsäljare, som inte får användas. Egen källa är bara löften. Varianterna S/M och L/XL saknar mått."
+ },
+ {
+  "id": "10581104918794",
+  "nr": 48912,
+  "skäl": "Barbell Pad Pro: ingen källa med EAN 6430016903073 eller art.nr 61253 hittades; egen källa är bara skydds- och säkerhetslöften utan fakta."
+ },
+ {
+  "id": "10581107933450",
+  "nr": 48913,
+  "skäl": "Horisontell stång med remskiva: tillverkarsidan gymstick.com (SKU PRO-550M-HPB stämmer) anger EAN 6430016901963 men butiken har 6430016904520, och sidan beskriver ett tillägg till 4-stationers multigym, inte 5-station. EAN stämmer inte; ingen lastgräns. Avvisas."
+ },
+ {
+  "id": "10581104230666",
+  "nr": 48914,
+  "skäl": "Justerbart handtag, lätt: varianterna L och S kan vara olika motståndsklasser (olika artiklar, v1.9); ingen källa för art.nr 61055/EAN 6430016902670 hittades. Egen källa är bara löften."
+ },
+ {
+  "id": "10472293499146",
+  "nr": 48915,
+  "skäl": "Vevlager M-Wave Strong F: bärande del utan känd lastgräns; källan är tre trasiga rader (24\"-29\" hjul är ingen vevlagerfakta); ingen tillverkarsida för art.nr 430706 hittades; gängstandard och axellängd saknas."
+ },
+ {
+  "id": "10494685315338",
+  "nr": 48916,
+  "skäl": "Skridskoskidor Peltonen Acadia SK 21 Stiff: ingen träff på EAN 6417858571158 eller SK 21; bara närliggande Acadia SK 22/äldre modeller hos återförsäljare, ej entydigt för exakt artikel. Egen källa tunn."
+ },
+ {
+  "id": "10472252932362",
+  "nr": 48917,
+  "skäl": "Stödhjul Selle Monte Grappa: en enda maskinöversatt mening, inga mått eller material, ingen källa funnen för art.nr 82; barnprodukt/bärande del utan känd lastgräns."
+ },
+ {
+  "id": "10472253227274",
+  "nr": 48918,
+  "skäl": "Grease remover Start: kemikalie med farovarning (lättantändligt, skadligt vid inandning, hudkontakt, förtäring); faroklassning och märkning kan inte kontrolleras ur källan; ingen beslutad kategori för kemikalier."
+ },
+ {
+  "id": "10472253522186",
+  "nr": 48919,
+  "skäl": "Korkstart Alpine natural: motsägande källa (cykelverktyg i texten, skidkork enligt märke Start och artikelnummer 15MU502600); produkttypen oklar."
+ },
+ {
+  "id": "10472237170954",
+  "nr": 48920,
+  "skäl": "Cykelklocka Azimut Mini: titeln anger 5 mm, källan 35 mm; ingen träff på BELL53/EAN 2099900001642. Bara diameter och aluminium i källan, motsägelse mot titeln olöst."
+ },
+ {
+  "id": "10472239366410",
+  "nr": 48921,
+  "skäl": "Dricksflaska Beany Solely JR: bara kapacitet 350 ml (finns redan i titeln) och passformsuppgift; ingen källa för SOLELYJR350 hittades; färre än två entydiga fakta."
+ }
+]

@@ -1,0 +1,86 @@
+[
+{
+"id": "10475980882186",
+"titel": "Trouser leg clamp",
+"lager": 59,
+"forra_skal": "Tunn och trasig källa (R2/R3): en enda mening (\"En svart reflekterande benfästeklämma\") plus märkesreklam; engelsk live-titel utan godkänt typord och artikelnumret 120967 hittades inte hos tillverkaren."
+},
+{
+"id": "10581108228362",
+"titel": "Kinesiology Tape (beige)",
+"lager": 12909,
+"forra_skal": "Tape för kroppen med prestations- och skadeförebyggande påståenden; ingen hård uppgift (mått, material) i egen källa. Variant FIN (79 kr) mot övriga färger (99 kr) ej förklarad, och titeln låser beige. Tunn källa (R3, R5)."
+},
+{
+"id": "10581108261130",
+"titel": "Knästöd 1.0, One-Size",
+"lager": 845,
+"forra_skal": "Tillverkarens sida (https://www.gymstick.com/knee-support-1-0-one-size.html, SKU 63062 och EAN 6430062510782 stämmer) motsäger sig: beskrivningen säger \"ankle support\" med stabilisering för \"sore knee\", medan titel och egen källa säger knästöd. Motsägande källa (R2); produkttypen är därmed oklar. Specifikationerna (gummi 30 %, polyester 35 %, nylon 35 %, 23,5 x 75 x 1 cm, 0,08 kg, grå-vit) skulle räcka först om David bekräftar att det är ett knästöd."
+},
+{
+"id": "10581106524426",
+"titel": "Fitness Trampoline",
+"lager": 149,
+"forra_skal": "Tunn källa: egen text är bara löften. Enda funna fakta (102 cm, max 100 kg) kommer från en enda återförsäljare (Galaxus), inte tillverkaren; varianterna 61026 och 61026-SC oförklarade. Ingen entydig källa (R1, R3)."
+},
+{
+"id": "10581104623882",
+"titel": "Fotledsstöd 1.0, En storlek",
+"lager": 453,
+"forra_skal": "Stöd för kroppsdel med kompressions- och rehablöften; källan ger inga mått eller material. Tunn källa (R3, R5)."
+},
+{
+"id": "10472299299082",
+"titel": "Hantelvikter TOORX Safe Lock, 50mm",
+"lager": 3,
+"forra_skal": "Egen källa helt tom, ingen EAN och bara titel/taggar (taggarna Cykellås/viktlås motsäger titeln Hantelvikter). Webben (endast återförsäljare) beskriver ett par skivlås för 50 mm stänger, men ingen tillverkarsida styrker det. Produkttypen oklar i butiken; för tunn källa."
+},
+{
+"id": "10472325349642",
+"titel": "Kettlebell HAMMER Premium Kettlebell 22 kg",
+"lager": 2,
+"forra_skal": "Tunn källa (R3): generell text om kettlebells 4-24 kg som inte gäller exakt 22 kg; två varianter med samma SKU 17367 men olika pris (1 879 / 1 639 kr). Ingen webbverifiering av modellen gjordes."
+},
+{
+"id": "10656691257610",
+"titel": "Crosstrainer BH FITNESS Movemia ER1000R",
+"lager": 0,
+"forra_skal": ""
+},
+{
+"id": "10462846943498",
+"titel": "Adjustable dumbbell stand HAMMER Stronglock",
+"lager": 1,
+"forra_skal": "Tom live-källa: bara \"Tillverkaren är Hammer\" och titeln; tidigare webbkoll på EAN 4005251173554 gav ingen entydig träff på exakt modell. Färre än två entydiga fakta; hantelställ bär last."
+},
+{
+"id": "10624084148490",
+"titel": "Boxningssäck TOORX Fastball för WBX-70",
+"lager": 1,
+"forra_skal": "Tunn källa (R3): egen källa är bara \"Tillverkaren är Toorx\"; tidigare webbkoll (EAN 8029975990248, KIT-PALLAWBX-70, Fastball WBX-70) gav ingen träff. Färre än två entydiga fakta utöver titeln."
+},
+{
+"id": "10472276590858",
+"titel": "Massagerulle Tunturi Vibrating Duo Massage Roller",
+"lager": 1,
+"forra_skal": "Redan klar: produkten har taggen texter-klara och text enligt strukturen (titel, SEO, meta, standardblock). Ingen ny text behövs."
+},
+{
+"id": "10472324432138",
+"titel": "Step board BH FITNESS",
+"lager": 5,
+"forra_skal": "Tunn källa (R3): egen källa är bara \"Produkten passar för BH Fitness\"; inga entydiga fakta utöver titeln och ingen webbträff på artikelnummer 0191191/EAN 8431284975340."
+},
+{
+"id": "10472305557770",
+"titel": "Träningshandskar TOORX Professional Gloves, svart-röd",
+"lager": 3,
+"forra_skal": "R3: enda varianten är M / black men titeln säger svart-röd; källan nämner varken färg eller storlek. Bara tre fakta (styrketräning, öglor mellan fingrarna, tillverkare), varav halkfri handflata och Italien är kvalitets-/ursprungsord; tunn källa."
+},
+{
+"id": "10472279900426",
+"titel": "Handleddboll TOORX Power Grip Ball",
+"lager": 3,
+"forra_skal": "Tunn källa och trasigt typord (R2/R3): live-titelns \"Handleddboll\" är ingen svensk produktbeteckning, och källan består av en mening vars enda uppgifter är påståenden (blodcirkulation, muskelträning, stresslindring, rehabilitering) som inte får skrivas. Kvar blir märke, modell och artikelnummer, inte två entydiga fakta om produkten."
+}
+]

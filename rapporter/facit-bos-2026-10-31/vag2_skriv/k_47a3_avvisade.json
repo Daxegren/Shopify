@@ -1,0 +1,37 @@
+[
+ {
+  "id": "10656691781898",
+  "nr": 48307,
+  "skäl": "Exakt dubblett (R12a): samma SKU G340 och EAN 8445960014155 som aktiva 10656691749130 (Träningsmaskin BH Fitness Power Tower, texter-klara, pris 8049 mot 7929 kr). Lager måste flyttas/produkten hanteras först."
+ },
+ {
+  "id": "10656688308490",
+  "nr": 48308,
+  "skäl": "Exakt dubblett (R12a): samma SKU 25TUPLA033 och EAN 8717842039038 som aktiva 10656688275722 (texter-klara) och 10656688341258. Tre listningar av samma artikel kan inte få unika texter."
+ },
+ {
+  "id": "10656688341258",
+  "nr": 48309,
+  "skäl": "Exakt dubblett (R12a): samma SKU 25TUPLA033 och EAN som aktiva 10656688275722 (texter-klara) och 10656688308490. Lager måste flyttas/produkten hanteras först."
+ },
+ {
+  "id": "10472258404618",
+  "nr": 48310,
+  "skäl": "Exakt dubblett (R12a): samma EAN 6430062511888 som S/M-varianten i aktiva 10581112783114 (Gymstick Workout Gloves, texter-klara). Egen källa är dessutom tunn (en marknadsföringstext med kvalitetslöften, storlek S/M)."
+ },
+ {
+  "id": "10472330461450",
+  "nr": 48311,
+  "skäl": "Motsägande källa (R2): live-texten anger lätt aluminiumram, men webbsökning (Velomarket/Smartech, EAN 5904257308931) anger att modellen Rocket Lite MG har magnesiumram med aluminiumgaffel, fälgar och vevar. Leverantörens original finns inte kvar och sidorna gick inte att läsa (403), så ramen kan inte fastställas; \"enkel att manövrera\" är dessutom ett prestandalöfte. Gissar inte."
+ },
+ {
+  "id": "10665225978122",
+  "nr": 48312,
+  "skäl": "Exakt dubblett (R12a): samma SKU SRX-SPEED-MAG och EAN 8029975999371 som aktiva 10665225912586 (texter-klara) och 10665226010890. Titel, SEO och meta kan inte bli unika."
+ },
+ {
+  "id": "10665226010890",
+  "nr": 48313,
+  "skäl": "Exakt dubblett (R12a): samma SKU SRX-SPEED-MAG och EAN som aktiva 10665225912586 (texter-klara) och 10665225978122. Pris skiljer (9979 mot 10039 kr) men inget i artikeln."
+ }
+]

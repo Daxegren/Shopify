@@ -1,0 +1,57 @@
+[
+ {
+  "id": "10472241987850",
+  "nr": 48101,
+  "skäl": "Ingen tillverkarsida nåbar (Stiga/Velomarket gav 403/503); mått och material finns bara hos återförsäljare för en färg, \"tillverkad i Sverige\" är ursprungsuppgift utan tillverkarkälla (R5). Egen källa har bara löften (\"robust\", \"pålitlig\"). Under två entydiga fakta (R3)."
+ },
+ {
+  "id": "10472314503434",
+  "nr": 48102,
+  "skäl": "Produkttypen oklar: ingen källa på nätet för Ice Cats/EAN 8716404237318, engelsk titel, maskinöversatt text (ispåsar, vintergrepp), taggen Skidor; kvar blir bara halk-/säkerhetslöften. Inget godkänt typord."
+ },
+ {
+  "id": "10565595726090",
+  "nr": 48103,
+  "skäl": "Tunn källa: en rad (\"Fotstöd för Fiido T2-modellen\"), ingen tillverkarsida för T2-REARPEGS; bärande del utan lastgräns, lager 0. Under två fakta (R3)."
+ },
+ {
+  "id": "10612571504906",
+  "nr": 48104,
+  "skäl": "Exakt dubblett av aktiv annons 10612571537674 (samma titel och EAN 4751036031341); lager måste flyttas först (R12a). Källan innehåller dessutom skyddsnivå \"extrem\" (skyddslöfte)."
+ },
+ {
+  "id": "10472232419594",
+  "nr": 48105,
+  "skäl": "Tunn källa: egen källa är bara marknadsföring (\"snygg\", \"unik design\", \"hög kvalitet\", \"bra ljud\"); ingen tillverkarsida för artikel 580901 hittad (bara Velomarket-återförsäljare och en recension). Inga två entydiga fakta (R3)."
+ },
+ {
+  "id": "10472239923466",
+  "nr": 48106,
+  "skäl": "Produkttyp oklar: titeln \"Hjulmonteringssats\" men källan beskriver telefonfäste för iPhone XR; priset 7289 kr är sannolikt fel. Titel och pris måste rättas före text."
+ },
+ {
+  "id": "10472240742666",
+  "nr": 48107,
+  "skäl": "Titel och källa motsäger varandra: titeln säger rullskridskor men källan beskriver skridskohållare med stålblad för is. Kräver rättad titel/typord före text."
+ },
+ {
+  "id": "10472240775434",
+  "nr": 48108,
+  "skäl": "Titel och källa motsäger varandra: titeln säger rullskridskor men källan beskriver skridskoblad för hockeyis. Kräver rättad titel/typord före text."
+ },
+ {
+  "id": "10462780424458",
+  "nr": 48109,
+  "skäl": "Tunn källa: bara märke Union och vikt 0,01 kg utöver titeln, ingen tillverkarsida för artikel 104912 (R3)."
+ },
+ {
+  "id": "10635809882378",
+  "nr": 48110,
+  "skäl": "Källan motsäger sig: löptext 800 Wh, detaljrad 625 Wh och räckvidd 167 km. Giants sida bekräftar 625 Wh för E+ 2 men inte entydigt för exakt modell EX; ingen källa för färgen Pangea Green. Batteriet är huvuduppgift för elcykeln; lager 0."
+ },
+ {
+  "id": "10472297791754",
+  "nr": 48111,
+  "skäl": "Produkttypen oklar: live-titel och text säger pannlampa, men EAN 5400974036664 är barnhjälmen Lazer NutZ 2.0 KinetiCore. Texten motsäger sig själv; måste rättas i butiken före textning."
+ }
+]

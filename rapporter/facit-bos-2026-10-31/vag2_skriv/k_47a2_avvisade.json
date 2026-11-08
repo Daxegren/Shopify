@@ -1,0 +1,52 @@
+[
+ {
+  "id": "10673180410122",
+  "nr": 48201,
+  "skäl": "Dubblett (R12a): samma modell och färg (Liv Allure E+ 1, Sunset Ivory) som aktiva 10673177952522 (SKU 5600004104, texter-klara). Egen produkt har Default Title och ramstorleken kan inte verifieras i egen källa eller på webben; slutsiffran 5 (M) räknas bara som ramstorlek om David så beslutat, och titel/SEO/text skulle bli identiska. Lager 0. Kvarstår för beslut."
+ },
+ {
+  "id": "10605358055690",
+  "nr": 48202,
+  "skäl": "Tunn och motsägande källa (R2/R3): live-texten är en mening (\"ett griptape från Ethic\") utan fakta. Webben (EAN 3760004841838) anger produkten som Ethic DTC Classic/Classic 2, inte \"Basic\", med motstridiga mått (60 x 15 cm, 54,5 x 12,5 cm, 540 x 125 mm). Ingen entydig källa; gissar inte."
+ },
+ {
+  "id": "10593398554890",
+  "nr": 48203,
+  "skäl": "Exakt dubblett (R12a): samma streckkod 6430062510478 som aktiva 10472257913098 (Hantelstång Gymstick 35 cm, 2 kg, 30 mm, texter-klara). Lager måste flyttas/produkten hanteras först. Live-texten är dessutom säljtext med kvalitetslöften."
+ },
+ {
+  "id": "10624087621898",
+  "nr": 48204,
+  "skäl": "Dubblett (R12a): samma modell och färg som aktiva 10676719288586 (Defy Advanced 2 (2027) Pearl White, texter-klara). Dessutom lager 0, källan motsäger sig (växelsystem/bromsar) och varianten M/L white har skild SKU mot Default Title med okänd färg."
+ },
+ {
+  "id": "10487969939722",
+  "nr": 48205,
+  "skäl": "Samma modell och färg (Prism Dragonfly) som aktiva 10565633736970 med storleksvarianter. Denna har en variant utan storlek (SKU B37LDBLMSIN06) medan källan listar XS-XL; Kona omfattas inte av slutsiffreregeln, så skillnaden går inte att fastställa utan gissning (R3/R12a)."
+ },
+ {
+  "id": "10523487240458",
+  "nr": 48206,
+  "skäl": "Dubblett (R12a): samma modell och färg (XTC SLR 29 1, Abyss Black = svart) som aktiva 10502528336138 (texter-klara), SKU-serie 1119019188 mot 1119019185, samma pris. Lager 0. Skillnaden går inte att fastställa; David avgör om det är samma produkt."
+ },
+ {
+  "id": "10589703373066",
+  "nr": 48207,
+  "skäl": "Dubblett (R12a): samma modell och färg (Flickcykel Romet Panda 1, vit-blå) som aktiva 10472297398538 (SKU 24130063-B, EAN 5904803259052, texter-klara); denna har SKU 24130063-C och EAN 5904803263615. Skillnaden (troligen ramstorlek) står inte i någon källa och produkten har Default Title, så titel och SEO skulle krocka."
+ },
+ {
+  "id": "10656691683594",
+  "nr": 48208,
+  "skäl": "Exakt dubblett (R12a): samma SKU H9117 och EAN 8445960033309 som aktiva 10656691650826 (Lyon Climber, texter-klara)."
+ },
+ {
+  "id": "10656691585290",
+  "nr": 48209,
+  "skäl": "Exakt dubblett (R12a): samma SKU H9117TFT och EAN 8445960087678 som aktiva 10656691552522 (Lyon Climber Multimedia, texter-klara)."
+ },
+ {
+  "id": "10656691519754",
+  "nr": 48210,
+  "skäl": "Exakt dubblett (R12a): samma SKU H9178B och EAN 8445960041830 som aktiva 10656691454218 (Stratos, texter-klara)."
+ }
+]

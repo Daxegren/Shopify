@@ -1,0 +1,86 @@
+[
+{
+"id": "10581105901834",
+"titel": "Armbågsstöd 1.0, En storlek",
+"lager": 230,
+"forra_skal": "Stöd med kompressions-/skyddspåståenden och ingen hård uppgift; ingen tillverkarsida hittad för SKU 63066. Tunn källa (R3, R5)."
+},
+{
+"id": "10581104754954",
+"titel": "Back Support 2.0 Large/Extra Large",
+"lager": 181,
+"forra_skal": "Tunn källa: beskrivningen består av löften (kompression, minskad skaderisk, hållning) och ger inga fakta utöver två storlekar; ingen tillverkarsida kunde läsas (R3, R5)."
+},
+{
+"id": "10581104853258",
+"titel": "Barbell Pad",
+"lager": 923,
+"forra_skal": "Nackskydd för tunga lyft: bara skydds- och komfortpåståenden, inga mått eller material. Tunn källa/skyddsprodukt (R3, R5)."
+},
+{
+"id": "10581104918794",
+"titel": "Barbell Pad Pro",
+"lager": 127,
+"forra_skal": "Nackskydd: bara skydds-, säkerhets- och stötdämpningspåståenden utan mått eller material. Tunn källa (R3, R5)."
+},
+{
+"id": "10581107933450",
+"titel": "Horisontell stång med remskiva för 5-stationer",
+"lager": 17,
+"forra_skal": "Horisontell stång med remskiva för 5-stationer (PRO-550M): tillbehör till en 5-stationsmaskin där passformen och lastgränsen hör till maskinen; källan är tunn (marknadsföring) och ingen entydig lastgräns eller kompatibilitet går att belägga för exakt modell (PRO-550M-HPB)."
+},
+{
+"id": "10581104230666",
+"titel": "Justerbart handtag, lätt",
+"lager": 2245,
+"forra_skal": "Varianterna L och S har samma pris men webbkoll tyder på olika motståndsklasser (lätt respektive stark, olika kg-intervall) = olika artiklar; ej entydigt för exakt SKU 61055. Egen källa tunn och vag."
+},
+{
+"id": "10472293499146",
+"titel": "Vevlager M-WAVE Strong F för E-bikes 24\"-",
+"lager": 6,
+"forra_skal": "Tunn och tvetydig källa (R3/R2): tre rader (särskilt lämplig för elcyklar, lämplig för 24\"-29\" hjul, aluminium). Hjulstorlek är ingen egenskap hos ett vevlager och raden är därför trasig; gängstandard och axellängd saknas, så passform går inte att ange. Vevlager är en bärande del och lastgräns saknas."
+},
+{
+"id": "10494685315338",
+"titel": "Skridskoskidor Peltonen Acadia SK 21 STIFF",
+"lager": 4,
+"forra_skal": "Tunn källa (R3): tre korta rader utan fakta om modellen; ingen webbträff som kopplar EAN 6417858571158 till Acadia SK 21 Stiff."
+},
+{
+"id": "10472252932362",
+"titel": "Stödhjul SELLE MONTE GRAPPA 12\"-16\", svart",
+"lager": 46,
+"forra_skal": "Tunn och maskinöversatt källa: en enda mening, där bara \"träningshjul för barn som lär sig cykla\" är entydigt (\"Monte Grappa12\" oklart); inga två fakta utöver titeln. Dessutom bärande del utan känd lastgräns."
+},
+{
+"id": "10472253227274",
+"titel": "Grease remover Start 1 L",
+"lager": 2,
+"forra_skal": "Kemikalie (fettlösare/glidvallningsborttagning) med farovarning i källan: lättantändligt, skadligt vid inandning, hudkontakt och förtäring. Ingen beslutad kategori för kemikalier; faroklassning och märkning kan inte kontrolleras ur källan. Underkänd tidigare i b_21 av samma skäl; skälet gäller fortfarande."
+},
+{
+"id": "10472253522186",
+"titel": "Korkstart Alpine natural med feize",
+"lager": 3,
+"forra_skal": "Källan är maskinöversatt och motsägande (cykelverktyg i texten, skidkork enligt märke och artikelnummer); produkttypen oklar."
+},
+{
+"id": "10472237170954",
+"titel": "Cykelklocka Azimut Mini 5 mm",
+"lager": 115,
+"forra_skal": "Tunn och motsägande källa: titeln säger 5 mm, källan 35 mm; bara ett faktum (diameter) utöver titeln."
+},
+{
+"id": "10581106000138",
+"titel": "Exercise Ball 65cm",
+"lager": 408,
+"forra_skal": ""
+},
+{
+"id": "10472239366410",
+"titel": "Dricksflaska Beany Solely JR, 350 ml",
+"lager": 3,
+"forra_skal": "Tunn källa (R3): bara kapacitet 350 ml (står även i titeln) och en passformsuppgift (cyklar med mindre ramar, ~10-12 tum, ZERO 20/24); färre än två entydiga fakta utöver titeln."
+}
+]

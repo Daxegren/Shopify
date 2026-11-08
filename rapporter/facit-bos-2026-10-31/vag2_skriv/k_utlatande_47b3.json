@@ -1,0 +1,36 @@
+[
+ {
+  "nr": 48501,
+  "id": "10581106524426",
+  "fil": "k_47b3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Måtten är 102 x 102 x 125 cm, och enligt tillverkaren är maximal användarvikt 100 kg.</p>",
+    "efter": "Måtten är 102 x 102 x 125 cm.</p>"
+   }
+  },
+  "skal": "Live ACTIVE, två varianter 61026 (EAN 6430016908283, lager 105) och 61026-SC (utan EAN, lager 44), båda 1 149 kr, taggar Gymstick och Trampoliner, ingen På beställning-tagg. https://www.gymstick.com/fitness-trampoline.html (SKU och EAN stämmer, läst av granskaren): hopfällbar 'for easy storage', 32 steel springs, 102 x 102 x 125 cm, Iron 76 %/PVC 8 %/PE 10 %/EPE 5 %/NBR 1 %, Max user weight (kg): 100. Allt i texten stämmer. Trampoliner är frisläppta 2026-11-08 med lastgräns enligt v1.10: etiketterad rad med enhet på tillverkarsidan för exakt SKU/EAN får stå en gång 'enligt tillverkaren'. Löfteskonst ur live-texten och tillverkarsidan (rolig och effektiv, kompakt och stabil, kondition/koordination/balans, skonsam mot lederna, 'wellbeing of respiratory and circulatory system') rätt utelämnad; inga hälso-, säkerhets- eller stabilitetsord. RÄTTA: användarvikten stod två gånger (löptext och specifikation); R4/R5 säger en gång, praxis k_47b1 är bara specifikationsraden. Titel/SEO unika mot butiken och alla vag2-filer (Tunturi 4-folding, Toorx, Hammer JumpStep är andra artiklar); ingen dubblett på EAN. Spärrlistan: 0 fel i skrivfil_kontroll. Fråga: 61026-SC saknas hos tillverkaren; texten låser inte varianten men anger Artikelnummer 61026."
+ },
+ {
+  "nr": 48502,
+  "id": "10581108228362",
+  "fil": "k_47b3_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, titel 'Kinesiology Tape (beige)' men sex färgvarianter 63026-BE/BL/CAM/FIN/PI/TU med egna EAN, 99 kr (FIN 79 kr), lager 12 909, ingen På beställning-tagg. https://www.gymstick.com/kinesiology-tape.html (SKU 63026, EAN 6430016901994 = CAM-varianten, läst av granskaren): 97 % Cotton/3 % Spandex, 500 x 5 x 0,1 cm, 0,08 kg, latex-free, max stretch 75 %, instructions for use, 'Available in several different colors'. Allt i texten stämmer. v1.9: samma artikel i olika färg med lager; titel, SEO och text låser ingen färg eller pris (beige ur live-titeln rätt borttaget). Alla smärtlindrings-, läknings-, skadeförebyggande-, stöd-, prestanda- och kvalitetsord ur källan (pain relief, healing, prevent/treat injuries, supports muscles, 7 dagar, vatten, medical grade/does not irritate skin, högkvalitativ) rätt utelämnade; 'latexfri' och 'max töjning' är materialuppgifter. Typordet Kinesiology Tape följer titelns ord (R7). Ingen annan kinesiologitejp i butiken; unik titel/SEO/meta. Spärr: produkten står i tidigare-avvisade-2026-11-04 och skrivfil_kontroll ger FEL tills en undantagsrad (bara tillägg) med hänvisning till Davids beslut 2026-11-08 läggs in (R14). Fråga: FIN kostar 79 kr; att den är samma tejp i annan färg kan inte styrkas på tillverkarsidan."
+ },
+ {
+  "nr": 48503,
+  "id": "10581104623882",
+  "fil": "k_47b3_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "<p>Fotledsstödet 1.0 från Gymstick har ett justerbart elastiskt band. Enligt tillverkaren är det elastiskt, andas och leder bort fukt. Materialet är gummi, polyester och nylon, och stödet finns i storleken En storlek.</p>",
+    "efter": "<p>Fotledsstödet 1.0 från Gymstick har ett justerbart elastiskt band. Materialet är gummi, polyester och nylon, och stödet finns i en storlek.</p>"
+   }
+  },
+  "skal": "Live ACTIVE, en variant 63060, EAN 6430062510744, 79 kr, lager 453, ingen På beställning-tagg. https://www.gymstick.com/ankle-support-1-0-one-size.html (SKU och EAN stämmer, läst av granskaren): justerbart elastiskt band, Rubber 30 %/Polyester 35 %/Nylon 35 %, Grey-White, 21,5 x 50,5 x 1 cm, 0,05 kg. Specifikationen stämmer; stabiliserings-, värme-, komfort- och skadeförebyggande löften rätt utelämnade. RÄTTA: 'andas och leder bort fukt' är funktions-/prestandaegenskaper på en stöd-/rehabprodukt och tas bort enligt uppdraget (inga subtila löften; praxis k_utlatande_4x utelämnar fukt- och andningsegenskaper på skyddsprodukter); 'i storleken En storlek' blir 'i en storlek' (språk). Inte dubblett: Fotledsstöd 2.0 (10593407500554) är annan modell; unik titel/SEO/meta. Spärr: tidigare-avvisade-2026-11-04, skrivfil_kontroll ger FEL tills en undantagsrad (bara tillägg) med hänvisning till beslutet 2026-11-08 läggs in (R14)."
+ }
+]

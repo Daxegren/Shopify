@@ -1,0 +1,61 @@
+[
+ {
+  "nr": 48701,
+  "id": "10472284979466",
+  "fil": "k_47b5_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "skruvar och brickor ingår.</p><h2>Passar för</h2><ul>\n<li>Dig som har Look Keo-pedaler</li>\n<li>Dig som söker pedalblock med 0 graders float</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Pedalblock</li>\n<li>Märke: Look</li>\n<li>Modell: Keo Grip</li>\n<li>Float: 0 grader</li>\n<li>Material: Polyamid och TPU</li>\n<li>Justering: 4 mm i sidled och 9 mm i längdled</li>\n<li>Passar: Look Keo-pedaler</li>\n<li>Ingår: 6 skruvar (5 x 9 mm) och 6 brickor</li>\n<li>Färg: Svart</li>",
+    "efter": "skruvar och brickor ingår. Maximal lastgräns är inte känd.</p><h2>Passar för</h2><ul>\n<li>Dig som har Look Keo-pedaler</li>\n<li>Dig som söker pedalblock med 0 graders float</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Pedalblock</li>\n<li>Märke: Look</li>\n<li>Modell: Keo Grip</li>\n<li>Float: 0 grader</li>\n<li>Material: Polyamid och TPU</li>\n<li>Justering: 4 mm i sidled och 9 mm i längdled</li>\n<li>Passar: Look Keo-pedaler</li>\n<li>Ingår: 6 skruvar (5 x 9 mm) och 6 brickor</li>\n<li>Färg: Svart</li>\n<li>Maximal lastgräns: Ej känd</li>"
+   }
+  },
+  "skal": "Live ACTIVE, Default Title 3611720061560 (SKU = EAN), 319 kr, lager 4, ingen På beställning-tagg, egen källa tom. Granskarens webbkoll: Look och flera återförsäljare anger för Keo Grip polyamid och TPU, justering 4 mm i sidled och 9 mm i längdled, 6 skruvar 5 x 9 mm och 6 brickor; svart = 0 grader, grå = 4,5, röd = 9; EAN 3611720061560 = 0 grader svart hos återförsäljare. Lookcycle.com svarade 404 för granskaren (bekräfta mot Looks sida). Några återförsäljare anger polyacetal och 5 x 11 mm; tillverkarens uppgift gäller. Inga löften (anti-slip, tystare, fast fotposition utelämnade). RÄTTA: pedalblock hör till bärande delar (beslut 2026-11-05: klosskopplingar i bärande delar-gruppen; praxis Pedaler Look Geo City Grip m.fl.) och ingen lastgräns finns hos Look, så 'Maximal lastgräns: Ej känd' läggs till i löptext och specifikation (v1.10). Unik titel/SEO mot butiken (Pedalplattor LOOK Keo Cleat är annan artikel och eget live-ord)."
+ },
+ {
+  "nr": 48704,
+  "id": "10472240578826",
+  "fil": "k_47b5_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Högerreglaget Shimano Alivio BL-T4000 i silver har två fingrar och justerbart greppavstånd. Det är av aluminium",
+    "efter": "Bromsreglaget Shimano Alivio BL-T4000 för höger sida har två fingrar och justerbart greppavstånd. Det är silverfärgat, av aluminium"
+   }
+  },
+  "skal": "Live ACTIVE, Default Title VMEBLT4000RS, EAN 4524667601944, 159 kr, lager 8, ingen På beställning-tagg; egen källa bara titeln. Webb (bike24, bike-discount, hollandbikeshop på exakt EAN): höger, silver, 2 fingrar, V-brake och mekanisk skivbroms, innerwire och hölje ingår inte; aluminium och reach adjust enligt Shimano/återförsäljare. Bromsdelar frisläppta 2026-11-08; inga säkerhets- eller bromskraftsord. RÄTTA: meta inleddes med det ovanliga 'Högerreglaget … i silver'; skrivs med typordet först (155 tecken)."
+ },
+ {
+  "nr": 48705,
+  "id": "10472240349450",
+  "fil": "k_47b5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, Default Title VMISMRT86M2, EAN 4524667744702, 709 kr, lager 30, ingen På beställning-tagg, egen källa tom. Webb: SM-RT86 är Deore XT-skivan med Ice Technologies (rostfritt stål/aluminium i sandwich), 6-bult, 180 mm stämmer med live-titeln; Center Lock-versionen är en annan artikel. Kylnings- och bromskraftsord rätt utelämnade; 'Ice Technologies' står bara som namn. Bromsskiva är inte bärande del i v1.10-mening (bromsdelar undantagna). Spärr: produkten står i tidigare-avvisade-2026-11-04; skrivfil_kontroll ger FEL tills en undantagsrad (bara tillägg) med hänvisning till Davids beslut 2026-11-08 läggs in (R14). Innehållet godkänt."
+ },
+ {
+  "nr": 48706,
+  "id": "10502528041226",
+  "fil": "k_47b5_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": " Maximal lastgräns är inte känd.",
+    "efter": ""
+   },
+   "html": {
+    "fore": " Maximal lastgräns är inte känd.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en kedja för 10-växlad drivlina</li>\n<li>Dig som söker en Shimano-kedja med 116 länkar</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Kedja</li>\n<li>Märke: Shimano</li>\n<li>Modell: Deore CN-HG54</li>\n<li>Antal växlar: 10</li>\n<li>Typ av kedja: HG-X Super Narrow, riktningsberoende</li>\n<li>Antal länkar: 116</li>\n<li>Maximal lastgräns: Ej känd</li>\n",
+    "efter": "</p><h2>Passar för</h2><ul>\n<li>Dig som söker en kedja för 10-växlad drivlina</li>\n<li>Dig som söker en Shimano-kedja med 116 länkar</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Kedja</li>\n<li>Märke: Shimano</li>\n<li>Modell: Deore CN-HG54</li>\n<li>Antal växlar: 10</li>\n<li>Typ av kedja: HG-X Super Narrow, riktningsberoende</li>\n<li>Antal länkar: 116</li>\n"
+   }
+  },
+  "skal": "Live ACTIVE, Default Title ICNHG54116I, EAN 4524667722960, 349 kr, lager 15, ingen På beställning-tagg, egen källa tom. Webb (materiel-velo på exakt EAN och art.nr): CN-HG54, 10 växlar, 116 länkar, riktningsberoende HG-X, Super Narrow; Shimano listar den som Deore-kedja. RÄTTA: 'Maximal lastgräns' tas bort ur meta och html. En kedja är en drivlinedel, inte en bärande del i v1.10:s mening, och praxis är den skrivna Kedja Shimano HG53 (10472244150538, k_skriv_46sak3) utan lastgränsrad. Meta efter rättning 85 tecken med verb."
+ },
+ {
+  "nr": 48714,
+  "id": "10475432476938",
+  "fil": "k_47b5_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, Default Title 93932095CB, EAN 8713249290065, 329 kr, lager 3, ingen På beställning-tagg. Egen svensk källa: USB-uppladdningsbar, gummiband, 20 lux, laddningstid mindre än 2,5 h, 1000 laddningscykler, indikator för lågt batteri: allt i texten stöds. Synlighet (2500 m, från sidorna), räckvidd 40 m, väder/temperatur, 'utmärkt alternativ' och AXA:s säkerhetstext rätt utelämnade; brinntid utelämnad. Framlampa är butikens live-ord för samma lampfamilj (källans 'Front'). Inte exakt dubblett (R12a, beslut 2026-11-05): syskonet 10472255455498 har SKU 93932095BX och EAN 8713249267197; titel/SEO/meta unika. Fråga till David: CB och BX ser ut som förpackningsvarianter av samma lampa."
+ }
+]

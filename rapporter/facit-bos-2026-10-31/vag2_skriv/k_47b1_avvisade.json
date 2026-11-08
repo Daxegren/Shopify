@@ -1,0 +1,52 @@
+[
+ {
+  "id": "10468710678794",
+  "nr": 48311,
+  "skäl": "Motsägande källa: beskrivningen säger \"ADO Air 28 framhjälm för cykel\" (hjälm) medan titeln är en frontkorg; ingen streckkod, lager 0."
+ },
+ {
+  "id": "10472271020298",
+  "nr": 48312,
+  "skäl": "Typen går inte att avgöra entydigt: titel vredeslås, live-källa hjullås, tillverkare/återförsäljare säljer vikbart länklås; längd 69 cm mot 650 mm. Inget typord har stöd av egen källa (R2/R7)."
+ },
+ {
+  "id": "10468713529610",
+  "nr": 48313,
+  "skäl": "Tjänst (montering av lastcykel), inte en produkt; källan innehåller bara beställningsmeningen."
+ },
+ {
+  "id": "10468713595146",
+  "nr": 48314,
+  "skäl": "Tjänst (montering av träningsmaskin), inte en produkt; källan innehåller bara beställningsmeningen."
+ },
+ {
+  "id": "10472296317194",
+  "nr": 48315,
+  "skäl": "Tom källa och ingen webbträff på EAN 5902308590588 eller SKU 9058; produkttypen går inte att avgöra."
+ },
+ {
+  "id": "10612578976010",
+  "nr": 48316,
+  "skäl": "Tunn och motstridig källa: live en mening (slitstarkt material, damasker); webben på EAN 5902308590908 anger grå-gul och barnstorlek mot titelns green. Inget entydigt att skriva."
+ },
+ {
+  "id": "10676713750794",
+  "nr": 48317,
+  "skäl": "Exakt dubblett av aktiv annons 10676713783562 (samma titel, SKU 1521-28, EAN 7350097568499, pris), lager 0 och tunn källa. Lager måste flyttas först (R12a)."
+ },
+ {
+  "id": "10676713783562",
+  "nr": 48318,
+  "skäl": "Exakt dubblett av aktiv annons 10676713750794 (samma SKU/EAN/pris), lager 0 och tunn källa (R12a)."
+ },
+ {
+  "id": "10472232780042",
+  "nr": 48319,
+  "skäl": "Produkttypen oklar: titeln \"Snow boots\", live-källan \"hopfällbar snödörr\" med styre; webben visar en snösparkcykel (Stiga Snow Kick). Inget godkänt typord och ingen tillverkarsida läst (R7)."
+ },
+ {
+  "id": "10494699110666",
+  "nr": 48320,
+  "skäl": "Tom källa och ingen webbträff på EAN 4743128000045; pulkatillbehör utan fakta."
+ }
+]

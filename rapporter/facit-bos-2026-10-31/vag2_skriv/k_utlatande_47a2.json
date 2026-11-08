@@ -1,0 +1,70 @@
+[
+ {
+  "nr": 48101,
+  "id": "10475431657738",
+  "fil": "k_47a2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "AXA LUX 606 AUTO är en LED-strålkastare på 15 lux med inbyggd reflektor och automatisk ljussensor. Kan anslutas till dynamon. Passar klassiska cyklar.",
+    "efter": "LED-strålkastaren AXA LUX 606 AUTO har 15 lux, inbyggd reflektor och automatisk ljussensor och kan anslutas till dynamon. Passar klassiska cyklar."
+   },
+   "html": {
+    "fore": "<p>AXA LUX 606 AUTO är en LED-strålkastare på 15 lux med inbyggd reflektor och automatisk ljussensor.",
+    "efter": "<p>LED-strålkastaren AXA LUX 606 AUTO har 15 lux, inbyggd reflektor och automatisk ljussensor."
+   }
+  },
+  "skal": "Live ACTIVE, 92915196SC, EAN 8713249282862, lager 24, ingen På beställning-tagg. Utkastet är live-texten ordagrant. Ursprungskällan finns i rapporter/shopify-original-2026-10-31/facit30-original.json (leverantörens svenska text): standardstrålkastare med inbyggd reflektor, 15 LUX, kan anslutas till dynamon, passar bäst för klassiska och retrocyklar, automatisk ljussensor, Dark Chrome. Alla uppgifter stöds; ljussensorn står i egen källa (R1), webbens splittrade uppgift påverkar inte. 'bättre synlighet' och 'extra säkerhet' rätt utelämnade. Rättat: inledningen 'Namn är en typord' i meta och html (skriptvarning). OBS: produkten står på spärrlistan (tidigare-avvisade-2026-11-04, skäl 'redan skriven, saknar bara taggen'); skrivfil_kontroll.py ger FEL tills en ny undantagsrad läggs till (bara tillägg) med hänvisning till Davids beslut 2026-11-08. Annars bara taggen texter-klara."
+ },
+ {
+  "nr": 48102,
+  "id": "10472332034314",
+  "fil": "k_47a2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Stuntscooter Union Lite S",
+    "efter": "Stuntscooter Union Lite S, Blå"
+   },
+   "meta": {
+    "fore": "Total höjd 690 mm.",
+    "efter": "Totalhöjd 690 mm."
+   },
+   "html": {
+    "fore": "<li>Total höjd: 690 mm</li>\n<li>Hjul: 100 mm, 88A</li>\n<li>Kompression: IHC</li>\n<li>Vikt: 3,293 kg</li>\n<li>Lager: ABEC-9</li>",
+    "efter": "<li>Totalhöjd: 690 mm</li>\n<li>Hjul: 100 mm, 88A</li>\n<li>Kompression: IHC</li>\n<li>Vikt: 3,293 kg</li>\n<li>Lager: ABEC-9</li>\n<li>Färg: Blå</li>"
+   }
+  },
+  "skal": "Live ACTIVE, SKU/EAN 2906269724573, lager 3, ingen På beställning-tagg; frisläppt i undantag_2026-11-05 (omprovning-barn) och omfattas av beslutet 2026-11-08. Ursprungskällan (facit30-original.json, svensk) har 'Max. lastkapacitet: 100 kg' med etikett och enhet, så 'enligt tillverkaren' är rätt (R4/v1.10); samma som skrivna syskon Lite S Svart/Neochrome. Användarhöjd 105–125 cm rätt utelämnad (motsägs av scootshop.net 110–145 cm, R2); 'nybörjare', 'hållbar', 'mjuk och stabil' rätt utelämnade. Rättat: SEO-titeln utan färg skiljer inte från skrivna Lite S Svart/Neochrome/Lime, färgen läggs till (30 tecken); särskrivningen 'Total höjd' blir 'Totalhöjd' i meta och html, och raden Färg: Blå läggs till som på syskonen. Inte dubblett: egen EAN/färg."
+ },
+ {
+  "nr": 48103,
+  "id": "10636758286602",
+  "fil": "k_47a2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Curlstångspaket med krommade viktskivor och en curlstång på 120 cm, totalt 35 kg.",
+    "efter": "Curlstångspaketet innehåller krommade viktskivor och en curlstång på 120 cm, totalt 35 kg."
+   }
+  },
+  "skal": "Live ACTIVE, 100055-00004-0036, EAN 4260200840851, lager 85, ingen På beställning-tagg. Ursprungskällan (facit30-original.json, Gorilla Sports svenska text) har 'Maximal belastning curlstång: 180kg' med etikett och enhet, så raden med 'enligt tillverkaren' får stå (R4); lastlöftet i metan rätt borttaget. Övriga uppgifter (120 cm, 30 mm, 8 kg, 31 mm, 2 x 1,25/2 x 2,5/4 x 5 kg, två stjärnlås, 35 kg) står ordagrant i källan. Delarna summerar till 35,5 kg mot källans 35 kg; godtas som tidigare (titeln/varunamnet anger 35 kg). Rättat: metans första mening saknade verb. Unik mot andra Curlstångspaket i butiken."
+ },
+ {
+  "nr": 48104,
+  "id": "10472232943882",
+  "fil": "k_47a2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "4 ljuslägen och batterilåg indikator.",
+    "efter": "4 ljuslägen och indikator för låg batterinivå."
+   },
+   "html": {
+    "fore": "<li>Indikator: Batterilåg</li>",
+    "efter": "<li>Indikator: Låg batterinivå</li>"
+   }
+  },
+  "skal": "Live ACTIVE, 90900495SC, EAN 8713249258706, lager 6, ingen På beställning-tagg. Live-källan är leverantörens svenska text: USB-uppladdningsbara, 4 LED, brinntid 6 h bak och 11 h fram (entydigt i löptexten), 4 ljuslägen, batterilåg indikator, gummiband, mått 110 x 70 x 30 mm. Synlighet 450 m, 'små och kompakta' och AXA:s säkerhetstext rätt utelämnade (belysning frisläppt 2026-11-08, inga säkerhetslöften). Inte exakt dubblett av 10475622400266 (90900495KC, annan EAN), enligt dubblettbeslutet 2026-11-05; titel, SEO och meta skiljer sig. Rättat: 'batterilåg indikator' är otydlig svenska och blir 'indikator för låg batterinivå' i meta och 'Låg batterinivå' i specifikationen."
+ }
+]

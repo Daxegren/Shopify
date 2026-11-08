@@ -1,0 +1,80 @@
+[
+{
+"id": "10636752584970",
+"titel": "Kabelhandtag Parallellt Roddhandtag, 76 cm, Krom",
+"lager": 353,
+"forra_skal": "Redan skriven: live har vår text (standardblock, SEO-titel och meta). Ingen ny text behövs."
+},
+{
+"id": "10656691781898",
+"titel": "Power station BH FITNESS Power Tower",
+"lager": 1,
+"forra_skal": "Dubblett av redan skriven nr 10381 (Träningsmaskin BH Fitness Power Tower, id 10656691749130, aktiv, texter-klara, g_skriv_1): samma modell och samma data (105 x 96 x 212 cm, 40 kg) (R12a)."
+},
+{
+"id": "10656688308490",
+"titel": "Hantel TUNTURI Platinum Hex Gummibelagd Hantel, 37,5 kg",
+"lager": 2,
+"forra_skal": "Dubblett (R12a): samma modell och vikt (Platinum Hex Gummibelagd, 37,5 kg) som redan skriven aktiv 10656688275722 (texter-klara); även en tredje oskriven listning 10656688341258 med samma titel finns."
+},
+{
+"id": "10472258404618",
+"titel": "Träningshandskar Gymstick Workout gloves S/M",
+"lager": 1,
+"forra_skal": "Dubblett av redan skriven aktiv produkt: Gymstick Workout Gloves, id 10581112783114 (nr 3241, texter-klara, S/M och L/XL à 199 kr). Velomarket-kopian har dessutom tunn källa (R12a)."
+},
+{
+"id": "10636616040714",
+"titel": "Höftband Hip Glute Band Women's Health, Set med 3 Band",
+"lager": 80,
+"forra_skal": "Redan skriven (struktur finns live: Passar för, specifikationer, standardblock; bara taggen texter-klara saknas). Leverantörens original finns inte kvar och egen text räknas inte som källa (R3); ingen ny skrivning. Taggfrågan lämnas till beslut."
+},
+{
+"id": "10636636782858",
+"titel": "Miniband Latex, Set med 5 Band och Påse",
+"lager": 1405,
+"forra_skal": "Redan skriven (struktur finns live) men med kvarvarande FAQ-avsnitt; leverantörens original finns inte kvar och egen text är ingen källa (R3). Motståndsvärden i kg är inte lastgränser men kan inte styrkas på nytt. Ingen ny skrivning; FAQ-rensning och tagg lämnas till beslut."
+},
+{
+"id": "10472330461450",
+"titel": "Barncykel Tabou Rocket Lite MG, 14 tum, Röd och Vit",
+"lager": 4,
+"forra_skal": "Redan skriven: live har titel, SEO och beskrivning i vår mall (facit 30). Leverantörens originaltext finns inte kvar som källa. Saknar bara taggen texter-klara, vilket är ett separat beslut."
+},
+{
+"id": "10474112975114",
+"titel": "Barncykel TABOU Mini FR, 16\" rosa-lila",
+"lager": 1,
+"forra_skal": "Dubblett (R12a): Barncykel Tabou Mini FR 16 tum Rosa-Lila är redan skriven och märkt texter-klara som 10462813225226 (utkast k_28b). Samma modell och färg; ingen färg- eller storleksskillnad i titeln. Hanteras i dubblettsammanslagningen."
+},
+{
+"id": "10656688341258",
+"titel": "Hantel TUNTURI Platinum Hex Gummibelagd Hantel, 37,5 kg",
+"lager": 2,
+"forra_skal": "Dubblett (R12a): Tunturi Platinum Hex gummibelagd hantel 37,5 kg är redan skriven i produkt 10656688275722 (ACTIVE, texter-klara). En andra oskriven kopia finns (10656688308490); tre produkter med samma artikel (SKU 25TUPLA033) kan inte få unika texter."
+},
+{
+"id": "10665225978122",
+"titel": "Spinningcykel TOORX SRX Speed Mag",
+"lager": 1,
+"forra_skal": "Dubblett (R12a): Spinningcykel Toorx SRX Speed Mag (SKU SRX-SPEED-MAG, EAN 8029975999371) är redan skriven i produkt 10665225912586 (ACTIVE, texter-klara). Ingen färg eller variant skiljer produkterna åt, så titel, SEO och meta kan inte bli unika."
+},
+{
+"id": "10665226010890",
+"titel": "Spinningcykel TOORX SRX Speed Mag",
+"lager": 1,
+"forra_skal": "Dubblett (R12a): samma artikel som 36007 (SKU SRX-SPEED-MAG, samma EAN), redan skriven i produkt 10665225912586. Pris skiljer (9979 mot 10039 kr) men inget i artikeln."
+},
+{
+"id": "10682106085642",
+"titel": "Electric bicycle GIANT Talon E+ 2 EX (2027) 29\" Frost Fern",
+"lager": 0,
+"forra_skal": "Samma modell och färg som redan skriven aktiv produkt 10682105463050 (annat artikelnummer 5090005108 mot 5090005104/05/07); egen produkt har Default Title, så ramstorleken säljs inte som variant och går inte att verifiera i egen källa eller på webben (R3/R12a). Titel, SEO och text skulle bli identiska med den skrivna produkten. Storleken kan bara härledas ur artikelnumrets slutsiffra, vilket Davids undantag 2026-11-07 inte täcker. Lyft till beslut."
+},
+{
+"id": "10470922682634",
+"titel": "Barnhjälm Melon Real Melon, XXS/S, 46–52 cm",
+"lager": 7,
+"forra_skal": "Redan skriven: live-texten har strukturen och SEO-fält (kvar är bara en avslutande FAQ-del). Ingen ny text; FAQ-delen tas i separat städning om David vill."
+}
+]

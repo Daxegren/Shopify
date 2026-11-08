@@ -1,0 +1,55 @@
+[
+ {
+  "id": "gid://shopify/Product/10605358121226",
+  "title": "Barnstol Polisport Joy FF 26\"-28\", mörkgrå",
+  "handle": "barnstol-polisport-joy-ff-26-28-m-rkgr-4837",
+  "status": "ACTIVE",
+  "tags": [
+   "Barnstolar",
+   "Polisport",
+   "Velomarket"
+  ],
+  "updatedAt": "2026-10-19T03:53:05Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p><span class=\"Y2IQFc\" lang=\"et\">Designad för att transportera barn som väger 9-22 kg.</span></p>\n<p>Funktioner:</p>\n<ul>\n<li class=\"tw-data-text tw-text-large tw-ta\" dir=\"ltr\" data-placeholder=\"Tõlge\"><span class=\"Y2IQFc\" lang=\"et\">Höjdjusterbara fotstöd.</span></li>\n<li class=\"tw-data-text tw-text-large tw-ta\" dir=\"ltr\" data-placeholder=\"Tõlge\"><span class=\"Y2IQFc\" lang=\"et\">3-punkts säkerhetsbälte </span></li>\n<li class=\"tw-data-text tw-text-large tw-ta\" dir=\"ltr\" data-placeholder=\"Tõlge\"><span class=\"Y2IQFc\" lang=\"et\">Lämplig för cyklar med hjulstorlek: 26''-28''. </span></li>\n<li class=\"tw-data-text tw-text-large tw-ta\" dir=\"ltr\" data-placeholder=\"Tõlge\"><span class=\"Y2IQFc\" lang=\"et\">Lämplig för cykelramdiameter: 28-40 mm </span></li>\n<li class=\"tw-data-text tw-text-large tw-ta\" dir=\"ltr\" data-placeholder=\"Tõlge\"><span class=\"Y2IQFc\" lang=\"et\">Färg: mörkgrå Vikt: 3,2 kg</span></li>\n<li dir=\"ltr\" data-placeholder=\"Tõlge\">Med reflexdekal</li>\n</ul>"
+ },
+ {
+  "id": "gid://shopify/Product/10472284619018",
+  "title": "Vindskydd för barnstol URBAN IKI Seiboku Grey",
+  "handle": "vindskydd-f-r-barnstol-urban-iki-seiboku-grey-218439",
+  "status": "ACTIVE",
+  "tags": [
+   "Barnstolar",
+   "Hybridcykel",
+   "Urban Iki",
+   "Velomarket"
+  ],
+  "updatedAt": "2026-10-12T03:52:06Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p><strong>URBAN IKI Seiboku Grey </strong>vindskyddet är hållbart, starkt, slagtåligt och skyddar mot regn och vind.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/10475402330378",
+  "title": "Vindskydd för barnstol URBAN IKI Asahi Gold",
+  "handle": "vindskydd-f-r-barnstol-urban-iki-asahi-gold-218933",
+  "status": "ACTIVE",
+  "tags": [
+   "Barnstolar",
+   "Hybridcykel",
+   "Urban Iki",
+   "Velomarket"
+  ],
+  "updatedAt": "2026-10-22T10:47:57Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p><strong>URBAN IKI Asahi Gold </strong>vindskydd är hållbart, starkt, slagtåligt och skyddar mot regn och vind.</p>"
+ }
+]

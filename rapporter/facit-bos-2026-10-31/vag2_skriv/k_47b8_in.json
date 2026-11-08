@@ -1,0 +1,86 @@
+[
+{
+"id": "10472248115466",
+"titel": "Frontkorg för Barncykel Spencer, 16–24 tum, Svart Stål",
+"lager": 15,
+"forra_skal": ""
+},
+{
+"id": "10472286126346",
+"titel": "Stödben för bakre löpare ACADEMY 14\"-16\" barncyklar",
+"lager": 1,
+"forra_skal": "Produkttypen oklar: \"stödben för bakre löpare\" och \"bakre fjädring\" går inte att tolka entydigt, enda måttet är \"Avstånd 40mm\"; bärande del utan lastgräns."
+},
+{
+"id": "10472302444810",
+"titel": "TREC ESSENSEY Pillerdosa, vit",
+"lager": 18,
+"forra_skal": "Tunn källa (R3): live-beskrivningen är tom och titeln ger bara färg utöver produkttypen. Tillverkarens sida hittades inte."
+},
+{
+"id": "10494698881290",
+"titel": "Skidor UNIPLAST Junior, med bindningar för barn, 56 cm, mix",
+"lager": 11,
+"forra_skal": "Tunn källa (R3): egen källa är bara \"Maximal användarvikt 60 kg\" (lastgräns i löptext utan etikett, utelämnas). Måtten 56 cm, bindningar och junior står bara i live-titeln; högst ett entydigt faktum."
+},
+{
+"id": "10502528008458",
+"titel": "Canopy frame CARGOBIKE Canopy Framework 2-kids för Classic",
+"lager": 1,
+"forra_skal": "Lastcykeldel med tom källa (ingen beskrivning, bara titel och SKU); tunn källa (R3), lastcykeldelar avvisas."
+},
+{
+"id": "10526099210506",
+"titel": "Barncykel Tabou Rocket Alu, 14 tum, Svart och Röd",
+"lager": 7,
+"forra_skal": "Produkten har redan en färdig text som följer strukturen (Passar för, Specifikationer, standardblock) samt SEO-titel och meta; ingen omskrivning behövs."
+},
+{
+"id": "10676715258122",
+"titel": "Sittdynor CARGOBIKE of Sweden för 6-barnslåda med ryggstöd",
+"lager": 0,
+"forra_skal": "Exakt dubblett (samma SKU 1521-22, EAN och pris) av 10676715323658, båda aktiva (R12a): lager måste flyttas först. Dessutom barntransport (sittdynor till barnlåda på lastcykel) och tunn källa; lager 0."
+},
+{
+"id": "10676715323658",
+"titel": "Sittdynor CARGOBIKE of Sweden för 6-barnslåda med ryggstöd",
+"lager": 0,
+"forra_skal": "Exakt dubblett (samma SKU 1521-22, EAN och pris) av 10676715258122, båda aktiva (R12a): lager måste flyttas först. Dessutom barntransport och tunn källa; lager 0."
+},
+{
+"id": "10472238678282",
+"titel": "Regnjacka Lifetime travel, med huva, blå",
+"lager": 9,
+"forra_skal": "Tunn källa (R3): live-beskrivningen är tom, titeln ger bara typ, huva och färg; tidigare webbsökning på märke, modell och EAN 8711252647869 gav ingen träff."
+},
+{
+"id": "10472240382218",
+"titel": "Bromsskiveadapter Shimano 160mm SM-MA-F160 Post/Standard",
+"lager": 40,
+"forra_skal": "Tunn och vag källa (marknadsföringstext om att montera en 160 mm skiva); anger inte tydligt vad adaptern gör; ingen EAN, ingen tillverkarsida kontrollerad."
+},
+{
+"id": "10472245330186",
+"titel": "Bakre stödhjul HEBIE Fix 18 I, 29\", svart",
+"lager": 47,
+"forra_skal": "Titeln (Bakre stödhjul) motsäger taggen (stödben) och källan (Hålavstånd 18 mm); produkttypen oklar och källan tunn."
+},
+{
+"id": "10470943621386",
+"titel": "Vitaminpulver TREC SAW 400g, WILDBERRY",
+"lager": 1,
+"forra_skal": "Titeln (Vitaminpulver) och källan motsäger varandra: texten beskriver ett pre-workout-pulver med betalanin, koffein, L-arginin och kreatin, medan ingredienslistan bara anger kreatinmonohydrat, natriumcitrat och vitamin C. Produkttypen oklar."
+},
+{
+"id": "10472285569290",
+"titel": "Sadelöverdrag AZIMUT THIN m/GEL 275x160mm, svart",
+"lager": 3,
+"forra_skal": "Tunn källa (R3): live-beskrivningen är tom, titeln är enda källa; tidigare webbsökning gav ingen sida för exakt modell."
+},
+{
+"id": "10472300085514",
+"titel": "Trampolin TOORX Trampoline, 97 cm",
+"lager": 1,
+"forra_skal": "Tunn källa: texten innehåller bara hälso-, säkerhets- och kvalitetsfraser (kompakt, hållbar, robust, stabil, säker) och inga mått eller specifikationer utöver titelns 97 cm; färre än två entydiga fakta (R3)."
+}
+]

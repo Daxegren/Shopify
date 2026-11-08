@@ -1,0 +1,86 @@
+[
+{
+"id": "10472250474762",
+"titel": "Cykellåskedja M-Wave C 10.9-360, 10 mm, 900 mm",
+"lager": 21,
+"forra_skal": "Texten är redan skriven live (titel, SEO, meta, beskrivning med standardblock); bara taggen texter-klara saknas. Ingen omskrivning behövs, taggfråga lyfts separat. Lås."
+},
+{
+"id": "10468773232906",
+"titel": "Gravelcykel Liv Devote 1 (2026) för Dam, Dune Beige",
+"lager": 3,
+"forra_skal": "Redan skriven (R15): produkten har vår standardtext, SEO och beskrivning med struktur. Taggen texter-klara saknas men det är ett taggsteg, inte en textuppgift."
+},
+{
+"id": "10471057719562",
+"titel": "Landsvägscykel Giant TCR Advanced 2 PC, Carbon",
+"lager": 8,
+"forra_skal": "Redan skriven och ingen dubblett: live-texten (Passar för, Specifikationer, standardblock, SEO-titel och meta) finns redan på just den här produkten, och inget syskon har samma artikelnummer (1096036146; syskonen 1096036147/-148 är andra storlekar med egna titlar). Skrivs inte om. Taggen texter-klara saknas men texten är live; varianterna Default Title och M/L har samma SKU men olika pris, att ta upp med David."
+},
+{
+"id": "10472237957386",
+"titel": "Innerslang Continental 26 tum, PV 60 mm, 47/62-559",
+"lager": 42,
+"forra_skal": "Redan skriven och ingen dubblett: live-beskrivning (intro, standardblock) och SEO-titel finns på produkten, och inget annat syskon med SKU CO0181671 hittades. Skrivs inte om."
+},
+{
+"id": "10523488190730",
+"titel": "Damcykel Romet Gazela 0, 21 Växlar, Turkos",
+"lager": 6,
+"forra_skal": "Redan skriven: live-texten har SEO-titel, meta, Passar för, Specifikationer och standardblock (Damcykel Romet Gazela 0). Skrivs inte om; taggen texter-klara saknas på produkten, vilket bör kontrolleras separat."
+},
+{
+"id": "10469223301386",
+"titel": "Classic skis with skin Peltonen SKINPRO 22 MED +",
+"lager": 0,
+"forra_skal": "R12a dublett: samma modell (Peltonen Skinpro 22 Med+) som redan skriven och aktiv 8306 (10468730798346, texter-klara, storlekar 195/202); denna har storlekarna 181/188. Källan är dessutom engelsk, oöversatt."
+},
+{
+"id": "10462752997642",
+"titel": "Bakljus för Hjälm Lazer LED USB, Passar Gekko, Lil' Gekko och Lizard",
+"lager": 39,
+"forra_skal": "Redan skriven: live-texten har strukturen (Passar för, Specifikationer, standardblock) och SEO-fält. Ingen ny text."
+},
+{
+"id": "10605383909642",
+"titel": "Elcykel GIANT Stance E+ 0 (2027) 29\" Deep Lake/Black",
+"lager": 0,
+"forra_skal": "Samma modell och färg som redan skriven aktiv produkt 10593839644938 (annat artikelnummer 5300001104 mot 001105/001107); egen produkt har Default Title, så ramstorleken säljs inte som variant och går inte att verifiera i egen källa eller på webben (R3/R12a). Titel, SEO och text skulle bli identiska med den skrivna produkten. Storleken kan bara härledas ur artikelnumrets slutsiffra, vilket Davids undantag 2026-11-07 inte täcker. Lyft till beslut."
+},
+{
+"id": "10624088244490",
+"titel": "Elcykel GIANT Explore E+ 3 STA, Pyrite Brown",
+"lager": 0,
+"forra_skal": "Samma modell och färg som redan skriven aktiv produkt 10589706780938 (annat artikelnummer 5060020105 mot 5060020104); egen produkt har Default Title, så ramstorleken säljs inte som variant och går inte att verifiera i egen källa eller på webben (R3/R12a). Titel, SEO och text skulle bli identiska med den skrivna produkten. Storleken kan bara härledas ur artikelnumrets slutsiffra, vilket Davids undantag 2026-11-07 inte täcker. Lyft till beslut."
+},
+{
+"id": "10503212138762",
+"titel": "Gravelcykel GIANT Revolt Advanced 2 (2025) Solar Flare",
+"lager": 0,
+"forra_skal": "Samma modell och färg (Revolt Advanced 2, Solar Flare) är redan skriven som 10503202472202 (SKU ending 248); denna är SKU 1079015246 med slutsiffra 6, där ramstorlek inte får härledas (beslut 2026-11-08), och lager 0. Skillnaden går inte att fastställa utan gissning (R12a)."
+},
+{
+"id": "10635810177290",
+"titel": "Gravelcykel KONA Ouroboros CR/DL, Gloss Concrete",
+"lager": 0,
+"forra_skal": "Samma modell och färg som redan skriven aktiv produkt 10588452847882 (annat artikelnummer B36ORCDGYSRHK48 mot …52/54/58); egen produkt har Default Title, så ramstorleken säljs inte som variant och går inte att verifiera i egen källa eller på webben (R3/R12a). Titel, SEO och text skulle bli identiska med den skrivna produkten. Storleken kan bara härledas ur artikelnumrets slutsiffra, vilket Davids undantag 2026-11-07 inte täcker. Lyft till beslut."
+},
+{
+"id": "10650209747210",
+"titel": "Elcykel LIV Allure E+ 0, Storm Cloud",
+"lager": 0,
+"forra_skal": "Samma modell och färg som redan skriven aktiv produkt 10588450881802 (annat artikelnummer 5600003105 mot 5600003104); egen produkt har Default Title, så ramstorleken säljs inte som variant och går inte att verifiera i egen källa eller på webben (R3/R12a). Titel, SEO och text skulle bli identiska med den skrivna produkten. Storleken kan bara härledas ur artikelnumrets slutsiffra, vilket Davids undantag 2026-11-07 inte täcker. Lyft till beslut."
+},
+{
+"id": "10650209845514",
+"titel": "Elcykel LIV Amiti E+ 4, Clear Sky",
+"lager": 0,
+"forra_skal": "Samma modell och färg som redan skriven aktiv produkt 10598564757770 (annat artikelnummer 5230005104 mot 5230005103/5230005105); egen produkt har Default Title, så ramstorleken säljs inte som variant och går inte att verifiera i egen källa eller på webben (R3/R12a). Titel, SEO och text skulle bli identiska med den skrivna produkten. Storleken kan bara härledas ur artikelnumrets slutsiffra, vilket Davids undantag 2026-11-07 inte täcker. Lyft till beslut."
+},
+{
+"id": "10656692207882",
+"titel": "Elcykel GIANT Fathom E+ 1 (2027) Amber Glow",
+"lager": 0,
+"forra_skal": "Samma modell och färg som redan skriven aktiv produkt 10635806900490 (annat artikelnummer 5332003185 mot 5332003188); egen produkt har Default Title, så ramstorleken säljs inte som variant och går inte att verifiera i egen källa eller på webben (R3/R12a). Titel, SEO och text skulle bli identiska med den skrivna produkten. Storleken kan bara härledas ur artikelnumrets slutsiffra, vilket Davids undantag 2026-11-07 inte täcker. Lyft till beslut."
+}
+]

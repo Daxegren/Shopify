@@ -1,0 +1,72 @@
+[
+ {
+  "id": "10472235663626",
+  "nr": 48801,
+  "skäl": "Källan motsäger titeln (Greenline mot Compactline) och har två block med motstridiga värden (brinntid 6 mot 4 timmar). Webbkoll på EAN 8713249283760 gav bara återförsäljarsidor (smartech.ee, velomarket.ee) med samma namnkonflikt, ingen tillverkarsida (axa.lu)."
+ },
+ {
+  "id": "10472242184458",
+  "nr": 48802,
+  "skäl": "Källan anger två ytterdiametrar (180 och 160 mm) och kan inte avgöra vilken som gäller; ingen EAN; taggen Cykellås är fel. Ingen entydig tillverkarsida för exakt artikelnummer ASMRT10-M."
+ },
+ {
+  "id": "10472334491914",
+  "nr": 48803,
+  "skäl": "Tom källa (bara titeln); pris 6 779 kr och taggen Romet tyder på felklassad produkt; EAN 5904803283262 gav ingen träff. Inga entydiga fakta."
+ },
+ {
+  "id": "10472239956234",
+  "nr": 48804,
+  "skäl": "Tillverkarens sida (dealers.bike.shimano.com) gav 403 och kunde inte läsas. Bara återförsäljarsidor (allterraincycles.co.uk) beskriver SM-MA90-R160P/S; EAN 4524667430513 bekräftas inte på någon läsbar sida och namnet på live-produkten skiljer sig. Ingen entydig tillverkarkälla."
+ },
+ {
+  "id": "10472294842634",
+  "nr": 48805,
+  "skäl": "Tunn källa (R3): bara 'Stativ för ADO Air Carbon-modellen'; inga mått, material eller montering, ingen EAN och ingen tillverkarsida hittad."
+ },
+ {
+  "id": "10472346190090",
+  "nr": 48806,
+  "skäl": "Tunn källa (R3): bara 'Passar alla 26-29 tums cyklar'; pris 0,00 kr (ofärdig produkt); EAN 2099900001178 är internt och gav ingen webbträff."
+ },
+ {
+  "id": "10523491467530",
+  "nr": 48807,
+  "skäl": "Tom live-beskrivning. Webbkoll på EAN 4718905786306 och namnet Giant Ding-A-Ling Flick gav ingen träff på exakt modell. Bara titeln finns."
+ },
+ {
+  "id": "10541369098506",
+  "nr": 48808,
+  "skäl": "Tunn källa: bara flaskstorlek 500-750 ml och märke; artikelnumren 490000099/490000095 och betydelsen av (L) kan inte knytas till någon tillverkarsida."
+ },
+ {
+  "id": "10523491434762",
+  "nr": 48809,
+  "skäl": "Tom källa: ingen beskrivning, bara titel och SKU 910522. Bärande del (träningshjul) utan uppgifter; ingen entydig tillverkarsida hittad."
+ },
+ {
+  "id": "10480054567178",
+  "nr": 48810,
+  "skäl": "Tunn källa (R3): generell kettlebelltext med löften, utan mått eller material; ingen webbträff på artikelnummer 21-3567 eller EAN 5704796035677 som gäller exakt modellen."
+ },
+ {
+  "id": "10462785896714",
+  "nr": 48811,
+  "skäl": "Produkttypen är oklar och källan är tunn och maskinöversatt ('skrubba bort hal jord', 'Ej lämplig för applicering av fästvalla'); ingen webbträff på EAN 6418016050287."
+ },
+ {
+  "id": "10472262959370",
+  "nr": 48812,
+  "skäl": "Tunn källa och lager 0; elektronik får bara skrivas med ordagranna uppgifter ur källan, och ingen bekräftad specifikation (kapacitet, innehåll) hittades för just denna sats."
+ },
+ {
+  "id": "10475517772042",
+  "nr": 48813,
+  "skäl": "Elektronik med tunn källa (R3): bara frekvens 5,3 kHz (redan i titeln) och en trasig frekvensomfångsrad. Webbkoll på EAN 8029975970295 gav ingen träff på exakt modell; närliggande Toorx-modeller har andra uppgifter. Ingen entydig källa."
+ },
+ {
+  "id": "10636716376330",
+  "nr": 48814,
+  "skäl": "Produkttypen är oklar (ingen beskrivning av vad utrustningen är) och egen text är generell kroppsbeskrivning med hälso-/skadelöften. EAN 4260438736360 pekar bara på en återförsäljarsida (Gorilla Sports Dijbeen Trainer, kruidvat.nl), inte tillverkarsida; artikelnumret gav ingen träff. Ingen entydig källa."
+ }
+]

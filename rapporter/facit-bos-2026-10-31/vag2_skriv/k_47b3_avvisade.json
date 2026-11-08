@@ -1,0 +1,57 @@
+[
+ {
+  "id": "10475980882186",
+  "nr": 48504,
+  "skäl": "Tunn källa (R3): live-texten är en mening (\"En svart reflekterande benfästeklämma\") plus märkesreklam. Artikelnummer 120967 / EAN 887539025205 hittades inte på någon tillverkar- eller återförsäljarsida (endast närliggande M-Wave-artiklar 120965, 120902). Engelsk live-titel utan godkänt typord. Ingen entydig källa."
+ },
+ {
+  "id": "10581108261130",
+  "nr": 48505,
+  "skäl": "Motsägande källa (R2): tillverkarsidan (https://www.gymstick.com/knee-support-1-0-one-size.html, SKU 63062 och EAN 6430062510782 stämmer) beskriver produkten som \"ankle support\" i beskrivningen men som knästöd i titel, adress och text om \"sore knee\". Produkttypen är oklar; gissar inte vilken som är rätt."
+ },
+ {
+  "id": "10472299299082",
+  "nr": 48506,
+  "skäl": "Tom live-källa (ingen beskrivning, inget EAN). Taggarna Cykellås/viktlås motsäger titeln Hantelvikter; produkttypen oklar. Ingen tillverkarsida för SKU CFSL hittades i tidigare kontroll, och viktlås bär last."
+ },
+ {
+  "id": "10472325349642",
+  "nr": 48507,
+  "skäl": "Ingen tillverkarsida för Hammer Premium Kettlebell 22 kg / artikel 17367 / EAN 4005251173677 hittades (endast andra Hammer-modeller). Live-texten är generell för 4-24 kg och gäller inte exakt 22 kg; två varianter med samma SKU men priserna 1 879 och 1 639 kr är oförklarade. Färre än två entydiga fakta."
+ },
+ {
+  "id": "10656691257610",
+  "nr": 48508,
+  "skäl": "Produkttypen motsäger sig: live-titel och tagg säger Crosstrainer, beskrivningen säger roddmaskin. Ingen sida för modellen ER1000R hittades hos BH Fitness (endast Movemia RW1000/RW1200). Live-texten består av kvalitetslöften och skärmen/lastuppgifter går inte att styrka. Elektronik utan entydig källa."
+ },
+ {
+  "id": "10462846943498",
+  "nr": 48509,
+  "skäl": "Tom live-källa: bara \"Tillverkaren är Hammer\". Ingen träff på tillverkarsida för 17355 / EAN 4005251173554 (endast Hammer Strength, annan tillverkare). Färre än två entydiga fakta; hantelställ bär last."
+ },
+ {
+  "id": "10624084148490",
+  "nr": 48510,
+  "skäl": "Tunn källa (R3): live-texten är bara \"Tillverkaren är Toorx\". Ingen träff på Fastball WBX-70 / KIT-PALLAWBX-70 / EAN 8029975990248. Färre än två entydiga fakta."
+ },
+ {
+  "id": "10472276590858",
+  "nr": 48511,
+  "skäl": "Redan klar: produkten har taggen texter-klara och live-texten följer strukturen utan löften. Ingen ny text behövs."
+ },
+ {
+  "id": "10472324432138",
+  "nr": 48512,
+  "skäl": "Tunn källa (R3): live-texten är bara \"Produkten passar för BH Fitness\". Ingen träff på artikelnummer 0191191 / EAN 8431284975340. Färre än två entydiga fakta."
+ },
+ {
+  "id": "10472305557770",
+  "nr": 48513,
+  "skäl": "R3: enda varianten är M / black men titeln säger svart-röd, och källan nämner varken färg eller storlek. Ingen tillverkarsida för AHF-087 hittades (endast närliggande modeller); live-källan ger bara styrketräning och öglor mellan fingrarna, resten är kvalitets-/ursprungsord."
+ },
+ {
+  "id": "10472279900426",
+  "nr": 48514,
+  "skäl": "Tunn källa och trasigt typord: \"Handleddboll\" är ingen svensk produktbeteckning. Live-källan består av effektpåståenden (blodcirkulation, stresslindring, rehabilitering) och ett trasigt \"Tillverkare .\" Endast återförsäljarsidor finns (EAN 8029975990811 stämmer, 70 g, 8 cm, limegrön), ingen tillverkarsida; produkten har ingen färgvariant att stödja uppgifterna."
+ }
+]

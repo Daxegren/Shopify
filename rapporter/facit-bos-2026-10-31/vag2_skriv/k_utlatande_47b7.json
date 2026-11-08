@@ -1,0 +1,27 @@
+[
+ {
+  "nr": 48901,
+  "id": "10581106000138",
+  "fil": "k_47b7_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Exakt dubblett (R12a, BESLUTSLOGG 2026-11-08: exakta dubbletter av andra aktiva annonser skrivs inte, lager måste flyttas först). Live ACTIVE, 62010, EAN 6430016901505, lager 408. Samma EAN finns på den redan skrivna aktiva produkten 10411728240906 'Träningsboll Gymstick, 65 cm, Svart' (GYM62010, texter-klara, lager 1). Källorna säger dessutom emot varandra om färg (tillverkaren Graphite grey, den skrivna produkten Svart). Texten i övrigt är korrekt mot https://www.gymstick.com/exercise-ball.html (SKU 620-X, EAN stämmer, PVC, 65 x 65 x 65 cm, 1,24 kg, handpump, träningsguide; lastgräns och rehabilitering rätt utelämnade). David behöver besluta vilken annons som behålls och flytta lagret."
+ },
+ {
+  "nr": 48902,
+  "id": "10581104853258",
+  "fil": "k_47b7_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Barbell Pad från Gymstick är ett nackstöd av gjutet skumgummi med nackspår. Den används vid squats, lunges och hip thrusts. Artikelnummer 61003.",
+    "efter": "Barbell Pad från Gymstick kläms runt skivstången och är gjord av gjutet skumgummi med nackspår. Den används vid squats, lunges och hip thrusts."
+   },
+   "html": {
+    "fore": "<li>Montering: Klämmas runt stången</li>",
+    "efter": "<li>Montering: Kläms runt stången</li>"
+   }
+  },
+  "skal": "Live ACTIVE, 61003, EAN 6430062511635, lager 923, ingen tagg På beställning, ingen dubblett (Barbell Pad Pro 61253 och Kraftmark KM10026 är andra artiklar). Tillverkarsida saknas; bygghemma.se (Gy61003, EAN 6430062511635) anger gjutet skumgummi, svart, nackspår, kläms runt stången, squats/lunges/hip thrusts, vilket täcker alla uppgifter (v1.6/v1.7). 'Enligt återförsäljaren' korrekt. Rättat: meta 'ett nackstöd' är ett subtilt stöd-/skyddslöfte som inte står i källan och gav cirkulär inledning (skriptvarning); specifikationsraden 'Klämmas' är grammatiskt fel. Skydds-, komfort- och tjockleksord är rätt utelämnade. Typordet Barbell Pad behålls från live-titeln (R7)."
+ }
+]

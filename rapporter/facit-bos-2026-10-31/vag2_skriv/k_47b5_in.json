@@ -1,0 +1,86 @@
+[
+{
+"id": "10472284979466",
+"titel": "Pedalblock för racercykel LOOK KEO GRIP, 0 grader",
+"lager": 4,
+"forra_skal": "Egen källa helt tom och ingen tillverkarsida verifierad (Look) att styrka uppgifterna mot; endast återförsäljarlistningar (EAN 3611720061560 = Keo Grip 0 grader). För tunn källa enligt beslutet."
+},
+{
+"id": "10494695932170",
+"titel": "Pedalblock för racercykel LOOK KEO GRIP, 9 grader",
+"lager": 7,
+"forra_skal": "Tom källa (bara titel, SKU och EAN); produkttypen pedalblock/klosskoppling kan inte styrkas med fakta."
+},
+{
+"id": "10472240021770",
+"titel": "Bromsoksadapter Shimano 180mm SM-MA-F180 Post/Standard",
+"lager": 13,
+"forra_skal": "Tom källa (ingen beskrivning); tillverkarsidan kunde inte läsas (403) och återförsäljarsidor räknas inte som tillverkarsida."
+},
+{
+"id": "10472240578826",
+"titel": "Bromsreglage Shimano Höger 2-finger Silver BL-T4000 Alivio V-Brake",
+"lager": 8,
+"forra_skal": "Tom källa: beskrivningen är bara titeln; tillverkarsidan kunde inte kontrolleras."
+},
+{
+"id": "10472240349450",
+"titel": "Bromsskiva Shimano 180mm 6-bult SM-RT86",
+"lager": 30,
+"forra_skal": "Tom källa (ingen beskrivning); tillverkarsidan kunde inte läsas och återförsäljarsidor räknas inte som tillverkarsida."
+},
+{
+"id": "10502528041226",
+"titel": "Kedja SHIMANO HG54 10-växlad",
+"lager": 15,
+"forra_skal": "Kedja Shimano HG54: tom källa (R3) och kedjor är säkerhetskritiska bärande delar som inte omfattas av v1.10 utan webbverifierad uppgift."
+},
+{
+"id": "10472240414986",
+"titel": "Tirr SHIMANO MF-TZ500-7 7k 14-28",
+"lager": 64,
+"forra_skal": "Produkttypen oklar: titeln Tirr, texten kassettnav/kassett; drivlinedel som bär last utan lastgräns. Titel och källa motsäger varandra."
+},
+{
+"id": "10470983958794",
+"titel": "Frame ear Union GH-022",
+"lager": 4,
+"forra_skal": "Titeln (Frame ear) och texten (ramring, aluminiumkomponent) motsäger varandra, och produkttypen är oklar; passar-listan är ren uppräkning av märken."
+},
+{
+"id": "10515737542922",
+"titel": "Landsvägscykelsadlar Giant Road Pro",
+"lager": 4,
+"forra_skal": "Redan som utkast: samma produkt-id finns i b_22_utkast.json (nr 8068, Sadel Giant Road Pro). Ingen dubblett av annan produkt; skrivs från b_22, inte två gånger."
+},
+{
+"id": "10476257116426",
+"titel": "Mountain bike GIANT Anthem Advanced 29 1, Dark Irisdescent",
+"lager": 0,
+"forra_skal": "Dubblett: samma produkt-id som 7080 (Giant Anthem Advanced 29 1, Dark Iridescent), som redan finns som utkast i k_13_utkast.json."
+},
+{
+"id": "10676714111242",
+"titel": "Kapellställning CARGOBIKE of SWEDEN för Flex/Delight Nova Premium",
+"lager": 0,
+"forra_skal": "Tunn källa (R3): egen text har bara modellerna Flex Nova och Delight Nova och tillverkaren (ett faktum utöver titeln), och \"Premium\" i titeln saknar stöd i källan. Ingen tillverkarsida har kunnat knytas entydigt till artikelnumret 1521-100."
+},
+{
+"id": "10656690274570",
+"titel": "Sittdyna för baksäte med ryggstöd CARGOBIKE of Sweden Flex/Delight",
+"lager": 2,
+"forra_skal": "Barntransport (tillbehör för lastcykel) med trasigt pris 9 kr; källan är bara \"Passar modellerna Flex och Delight\" (ett faktum)."
+},
+{
+"id": "10526099046666",
+"titel": "Ungdomscykel ROMET Rambler R6.2, 26\" 17\" M, svart-gul",
+"lager": 1,
+"forra_skal": "R6: ungdomscykel. Källan: \"Rambler R6.2 ungdomscykel\"; barn-/ungdomsprodukt. Dessutom trolig dubblett av 9221."
+},
+{
+"id": "10475432476938",
+"titel": "Cykellampa AXA Compact Line Batteri 20 Lux",
+"lager": 3,
+"forra_skal": "Avvisas: belysning (cykellampa med batteri) är en säkerhetsprodukt."
+}
+]

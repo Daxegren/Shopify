@@ -1,0 +1,48 @@
+[
+ {
+  "id": "gid://shopify/Product/10581106524426",
+  "title": "Fitness Trampoline",
+  "handle": "fitness-trampoline",
+  "status": "ACTIVE",
+  "tags": [
+   "Gymstick",
+   "Trampoliner"
+  ],
+  "updatedAt": "2026-10-30T06:21:48Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Med Gymstick Fitness Trampoline får du en rolig och effektiv träningsupplevelse hemma. Denna <strong>kompakta och stabila trampolin</strong> är perfekt för att förbättra kondition, koordination och balans, samtidigt som den är skonsam mot lederna. Perfekt för allt från högintensiva intervaller till lugnare studsövningar, och en utmärkt addition till din <strong>träningsutrustning</strong> för att variera din hemmaträning.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/10581108228362",
+  "title": "Kinesiology Tape (beige)",
+  "handle": "kinesiology-tape-beige",
+  "status": "ACTIVE",
+  "tags": [
+   "Gymstick"
+  ],
+  "updatedAt": "2026-10-29T20:42:06Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Gymstick Kinesiology Tape i beige är det ultimata valet för dig som vill optimera din prestation och snabba på återhämtningen. Denna <strong>högkvalitativa tejp</strong> är designad för att ge <strong>stöd och stabilitet</strong> åt muskler och leder utan att begränsa din rörelsefrihet, vilket gör den perfekt för alla typer av träning och rehabilitering. Upplev ökad komfort och minskad risk för skador med Gymstick Kinesiology Tape.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/10581104623882",
+  "title": "Fotledsstöd 1.0, En storlek",
+  "handle": "fotledsstod-1-0-en-storlek",
+  "status": "ACTIVE",
+  "tags": [
+   "Gymstick"
+  ],
+  "updatedAt": "2026-10-18T04:03:16Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Ge dina anklar det stöd de förtjänar med <strong>Gymstick Fotledsstöd 1.0</strong>, din pålitliga partner för träning och rehabilitering. Detta fotledsstöd är designat för att ge optimal kompression och stabilitet, vilket hjälper till att förebygga skador och påskynda återhämtningen efter ansträngning. Dess <strong>en storlek</strong> passar de flesta och materialet är valt för att vara både hållbart och bekvämt under hela din träningssession.</p>"
+ }
+]

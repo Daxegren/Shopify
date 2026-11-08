@@ -1,0 +1,48 @@
+[
+ {
+  "nr": 48401,
+  "id": "10515738067210",
+  "fil": "k_47b2_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, en variant 500000042, EAN 4713250037448, 329 kr, lager 20; ingen På beställning-tagg. https://www.giant-bicycles.com/us/direct-mount-ksa-40mm-bike-kickstand: aluminium, justerbar längd för 24–29 tum, KSA40 tvåbultsfäste på vänster kedjestag med 40 mm avstånd, M6-bultar ingår, justering utan verktyg; artikelnumret bekräftat hos återförsäljare. Lastgräns saknas: Ej känd enligt v1.10. Inga löften (stabilt/gediget/robust utelämnade). Typord Cykelstöd godkänt. Ingen dubblett: syskonen 500000012/500000013/500000038 är andra artiklar."
+ },
+ {
+  "nr": 48402,
+  "id": "10472244510986",
+  "fil": "k_47b2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "är 335 mm långt och har en struktur i legering. Det är avsett för Giant FastRoad, ToughRoad och Rapid.",
+    "efter": "är 335 mm långt och gjort av legering. Det passar Giant FastRoad och ToughRoad."
+   },
+   "html": {
+    "fore": "<p>Cykelstödet Giant Mobility Kickstand har en struktur i legering och är 335 mm långt. Enligt Giant är det avsett för FastRoad och ToughRoad, och enligt Velomarket även för Rapid. Maximal lastgräns är inte känd.</p><h2>Passar för</h2><ul>\n<li>Dig som söker ett cykelstöd till Giant FastRoad, ToughRoad eller Rapid</li>\n<li>Dig som vill ha ett cykelstöd med fast längd på 335 mm</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Cykelstöd</li>\n<li>Material: Legering</li>\n<li>Längd: 335 mm</li>\n<li>Passar: Giant FastRoad, ToughRoad och Rapid</li>\n",
+    "efter": "<p>Cykelstödet Giant Mobility Kickstand är 335 mm långt och gjort av legering. Det passar Giant FastRoad och ToughRoad. Maximal lastgräns är inte känd.</p><h2>Passar för</h2><ul>\n<li>Dig som söker ett cykelstöd till Giant FastRoad eller ToughRoad</li>\n<li>Dig som vill ha ett cykelstöd som är 335 mm långt</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Cykelstöd</li>\n<li>Material: Legering</li>\n<li>Längd: 335 mm</li>\n<li>Passar: Giant FastRoad och ToughRoad</li>\n"
+   }
+  },
+  "skal": "Live ACTIVE, 500000007, EAN 4718905893608, 339 kr, lager 36. Giants sida (RIF 500000007): lega ultraleggera, L335MM, FastRoad/ToughRoad. Rapid står bara i den egna live-raden, medan Velomarkets produktadress säger AnyRoad och Giant inte nämner någon av dem: motsägelse, så bara de två modeller som båda källorna anger står kvar (R2). 'enligt Velomarket' är arbetsterm i kundtext (R11) och tas bort; 'fast längd' saknar stöd (R1). 'struktur i legering' omformuleras. Lastgräns Ej känd enligt v1.10."
+ },
+ {
+  "nr": 48403,
+  "id": "10554363117834",
+  "fil": "k_47b2_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Pedalplattor Look Keo Cleat, röd, 9 grader",
+    "efter": "Pedalplattor Look Keo Cleat, Röd, 9 grader"
+   },
+   "seo_title": {
+    "fore": "Pedalplattor Look Keo Cleat, röd",
+    "efter": "Pedalplattor Look Keo Cleat, Röd"
+   },
+   "html": {
+    "fore": "<p>Look Keo Cleat är pedalplattor i rött med 9 graders float",
+    "efter": "<p>Pedalplattorna Look Keo Cleat är röda och har 9 graders float"
+   }
+  },
+  "skal": "Live ACTIVE, 3611720061546 (SKU=EAN), 279 kr, lager 1; egen källa bara '9 grader'. https://www.sweetpetes.com/product/look-keo-cleats-250848-1.htm: UPC 3611720061546 = Red/9°, MPN 8149, 68 g (pair + fasteners); Excelsports: säljs i par med monteringsdetaljer, röd 9°. Entydigt för exakt EAN. Inga frigörings-, säkerhets- eller kompatibilitetslöften. Ej dubblett av Keo Grip 9° (EAN 3611720061577, annan artikel). Inledningen var cirkulär ('Keo Cleat är pedalplattor', R11); beskrivande ord med stor bokstav i titel och SEO (R9)."
+ }
+]
