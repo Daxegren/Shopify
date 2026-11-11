@@ -47,3 +47,26 @@ Underlag för sidan i en sida-rapport (`mallar/presentation-sida.md`): läget, v
 
 | Datum | Vad ändrades | Av vem | Efter 4 v: position/klick | Anmärkning |
 |---|---|---|---|---|
+
+## Live-undersökning 2026-11-11
+
+**Metod:** egen hämtning av sidans HTML 2026-11-11 (verktyget `mallar/analys_sida.py`). Synliga ord räknas utan sidhuvud, sidfot och meny. Inga sökdata (position, klick) ingår: Search Console är inte ansluten ännu.
+
+**URL:** https://www.gorillasports.se/collections/avlastningsstativ (svarar 200, canonical pekar på sig själv)
+
+| Mätpunkt | Värde |
+|---|---|
+| Titel | "Avlastningsstativ 🏋️‍♂️ - Stabil – Gorilla Sports Nordics" (emoji, radbrytning i titeln) |
+| Metabeskrivning | "Prisvärda avlastningsstativ för säker skivstångsförvaring ✅ Hållbarhet ✅ Funktionalitet ✅ Kvalitet från Gorilla Sports!" (emoji, tre allmänna kvalitetsord) |
+| H1 | Avlastningsstativ (en H1) |
+| Synliga ord | cirka 298 |
+| Rubriker (H2) | Avlastningsstativ för Styrketräning, Varför välja våra avlastningsstativ?, Fördelar med avlastningsstativ, Vårt sortiment av avlastningsstativ |
+| Antal produkter på sidan | 2 |
+| Strukturerad data | ItemList (ingen BreadcrumbList, ingen FAQPage) |
+
+**Iakttagelser:** sidan är hög prioritet i Etals-rapporten. Den har bara 2 produkter och cirka 300 ord. Titel och metabeskrivning bygger på emoji och allmänna ord ("Stabil", "Kvalitet", "Hållbarhet"), som inte säger vad som skiljer produkterna.
+
+**Förslag (inget är genomfört, beslut av David krävs):**
+1. Skriv om titel och metabeskrivning utan emoji, med typ, antal modeller och faktiska uppgifter (material, bärförmåga enligt tillverkaren, mått). Effekt: tydligare träffbild; risk: låg.
+2. Utöka texten enligt rapportens tvådelade modell (kort intro ovanför produkterna, köpguide under), med belagda uppgifter om skillnaden mellan avlastningsstativ och rack. Risk: låg.
+3. Länka till närliggande kategorier (rack, skivstång 30 mm) så att sidan får interna länkar. Bekräfta först i Search Console om sidan har trafik; med bara 2 produkter kan en sammanslagning med rack-kategorin vara bättre. Beslutspunkt.

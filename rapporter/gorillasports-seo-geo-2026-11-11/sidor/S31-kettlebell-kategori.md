@@ -47,3 +47,23 @@ Underlag för sidan i en sida-rapport (`mallar/presentation-sida.md`): läget, v
 
 | Datum | Vad ändrades | Av vem | Efter 4 v: position/klick | Anmärkning |
 |---|---|---|---|---|
+
+## Live-undersökning 2026-11-11
+
+**Metod:** egen hämtning av sidans HTML 2026-11-11 (verktyget `mallar/analys_sida.py`). Synliga ord räknas utan sidhuvud, sidfot och meny. Inga sökdata (position, klick) ingår: Search Console är inte ansluten ännu.
+
+**URL:** https://www.gorillasports.se/collections/kettlebell (200, canonical till sig själv)
+
+| Mätpunkt | Värde |
+|---|---|
+| Titel | "Kettlebell - Köp kettlebell mellan 2-40 kg till bra pris – Gorilla Sports Nordics" |
+| Metabeskrivning | "Här hittar du competition kettlebells, järnkettlebells och kettlebells med gummibeläggning till de bästa priserna. Prisvärda kettlebells i vikter från 2-40kg." |
+| H1 | Kettlebell |
+| Synliga ord | cirka 505 |
+| H2 | Våra kettlebells, Olika modeller, Välj rätt kettlebell för ditt hemmagym, Populära kettlebellövningar, Kettlebellens historia |
+| Produkter | 31 |
+| Strukturerad data | ItemList |
+
+**Iakttagelser:** sidan är den mest citerade av AI-assistenter (AI-rapporten) och Gorilla Sports leder ämnet kettlebells med 13 %. Sidan är redan välstrukturerad. Det finns fler kettlebell-kategorier (`kettlebells-cement`, `kettlebells-gjutjern`, `kettlebellpaket`, `justerbara-kettlebells`, `kettlebellstall`).
+
+**Förslag:** skydda sidan: ändra inte rubrikerna utan skäl. Lägg FAQPage-schema, och bygg ut med en kettlebellguide (AI-rapportens åtgärd 3: ni är topp 10 för 0 av 10 köpfrågor) som länkar till de fem underkategorierna. Beslut av David krävs.

@@ -47,3 +47,23 @@ Underlag för sidan i en sida-rapport (`mallar/presentation-sida.md`): läget, v
 
 | Datum | Vad ändrades | Av vem | Efter 4 v: position/klick | Anmärkning |
 |---|---|---|---|---|
+
+## Live-undersökning 2026-11-11
+
+**Metod:** egen hämtning av sidans HTML 2026-11-11 (verktyget `mallar/analys_sida.py`). Synliga ord räknas utan sidhuvud, sidfot och meny. Inga sökdata (position, klick) ingår: Search Console är inte ansluten ännu.
+
+**URL:** https://www.gorillasports.se/collections/stallbara-hantlar (200, canonical till sig själv)
+
+| Mätpunkt | Värde |
+|---|---|
+| Titel | "Justerbara hantlar – Ställbara hantlar för flexibel träning – Gorilla Sports Nordics" |
+| Metabeskrivning | "Ställbara hantlar som hantelset med viktskivor och hantelstänger. Välj färdiga set eller bygg ditt eget och ändra vikten efter övning. Snabb leverans." |
+| H1 | Justerbara Hantlar (innehåller inte ordet "ställbara") |
+| Synliga ord | cirka 503 |
+| H2 | Ställbara/Justerbar hantlar, Köp justerbara hantlar |
+| Produkter | 42 |
+| Strukturerad data | ItemList |
+
+**Iakttagelser:** sökordet *ställbara hantlar* (880/mån, pos. 21) finns i titeln och i en H2, men H1 säger "Justerbara Hantlar". Sidan är omfattande (42 produkter, 503 ord) men har bara två rubriker i texten.
+
+**Förslag (beslut av David krävs):** 1) Gör H1 och H2 konsekventa mot sökordet, t.ex. "Ställbara hantlar" (Google förstår synonymen justerbara, men sidan bör vara tydlig). 2) Lägg till köpguide under produkterna (typer: hantelset, skivstångs-hantlar, viktskivor; vad som skiljer 30 mm/50 mm enligt tillverkaren). Rankingen ligger nära sida 1, så det här är en av de snabbaste vinsterna enligt rapporten. Verifiera med Search Console.

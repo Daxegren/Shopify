@@ -36,3 +36,8 @@ Syftet är att varje enskild sida ska kunna **undersökas, utvecklas och present
 
 ## Tidigare underlag i repot som hör ihop med detta
 `rapporter/gorillasports-se-genomlysning.md` (genomlysning 2026-10-09, utan trafikdata), `rapporter/titlar-lag-ctr.csv` (förslag på nya titlar och beskrivningar för blogginlägg med låg klickfrekvens), `rapporter/kategorisidor-underlag-2026-10-20.md` och `rapporter/kategoritexter-utkast-2026-10-20.md`. Gå igenom dem när en sida undersöks så att redan gjorda förslag inte görs om. Kolumnen `url_komplett` är ifylld för 13 av 35 sidor (de som inte var avkortade samt en som kunde matchas mot filerna ovan). S17 har flera möjliga träffar och ska bekräftas.
+
+## Läge 2026-11-11 (uppdaterat efter Davids ja)
+- Search Console är inte ansluten i Windsor.ai (bara Facebook Organic är kopplad). Länken för att ansluta ges till David i chatten. Tills dess saknas position och klick.
+- Egen genomgång av 230 kategorier och sidor finns i `tema/crawl-sammanfattning-2026-11-11.csv`/`.md`. Verktyget `mallar/analys_sida.py` kan köras mot vilken adress som helst.
+- Fyra sidor har fått live-undersökning och förslag: S01 Avlastningsstativ, S25/S28 Motionscykel och Spinningcykel, S27 Ställbara hantlar, S31 Kettlebell. Förslagen är inte genomförda.

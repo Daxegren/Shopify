@@ -47,3 +47,23 @@ Underlag för sidan i en sida-rapport (`mallar/presentation-sida.md`): läget, v
 
 | Datum | Vad ändrades | Av vem | Efter 4 v: position/klick | Anmärkning |
 |---|---|---|---|---|
+
+## Live-undersökning 2026-11-11
+
+**Metod:** egen hämtning av sidans HTML 2026-11-11 (verktyget `mallar/analys_sida.py`). Synliga ord räknas utan sidhuvud, sidfot och meny. Inga sökdata (position, klick) ingår: Search Console är inte ansluten ännu.
+
+**URL:** https://www.gorillasports.se/collections/spinningcykel (200, canonical till sig själv)
+
+| Mätpunkt | Värde |
+|---|---|
+| Titel | "Spinningcykel – Köp cyklar för kondition och intensiv träning – Gorilla Sports Nordics" |
+| Metabeskrivning | "Spinningcykel för effektiv konditionsträning hemma eller på gym. Justerbart motstånd, ergonomisk design och stabil konstruktion. Gratis hemleverans!" |
+| H1 | Spinningcykel |
+| Synliga ord | cirka 310 |
+| H2 | Fördelar med en spinningcykel, Så väljer du rätt spinningcykel |
+| Produkter | 2 |
+| Strukturerad data | ItemList |
+
+**Iakttagelser:** sidan har 2 produkter och är den som rapporten visar rankar på pos. 25 för *motionscykel*, ett bredare sökord än sidans ämne. Se S25 om kannibalisering.
+
+**Förslag:** behåll sidan för spinning-sökningar, men gör den inte till huvudsida för *motionscykel*. Lägg till faktabaserad jämförelse spinning kontra motionscykel med länk till S25. Beslut av David krävs.
