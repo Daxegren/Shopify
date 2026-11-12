@@ -4,14 +4,21 @@
 Används tills skrivning går via API-skript. Klistra in UTSKRIFTEN oförändrad i graphql_mutation; skriv aldrig text för hand (R16).
 Användning: mutation_fran_skrivfil.py <skrivfil> <start> <antal>   (antal högst 5)
 Efteråt kan taggen läggas med: mutation_fran_skrivfil.py <skrivfil> <start> <antal> --tagga
+Taggen (standard texter-klara) läses ur butiksprofilen: --profil <profil.json> (standard: BEST OF SPORTS).
 """
-import json, sys
+import json, os, sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import butiksprofil  # noqa: E402
 
 def q(s):
     return json.dumps(s, ensure_ascii=True)
 
 def main():
-    a = sys.argv[1:]
+    try:
+        profil, a = butiksprofil.profil_fran_argv(sys.argv[1:])
+    except butiksprofil.ProfilFel as e:
+        sys.exit(f'FEL: {e}')
     tagga = '--tagga' in a
     a = [x for x in a if x != '--tagga']
     fil, start, antal = a[0], int(a[1]), int(a[2])
@@ -22,7 +29,7 @@ def main():
     for i, x in enumerate(d):
         gid = f'gid://shopify/Product/{x["id"]}'
         if tagga:
-            delar.append(f'a{i}: tagsAdd(id:"{gid}", tags:["texter-klara"]){{userErrors{{field message}}}}')
+            delar.append(f'a{i}: tagsAdd(id:"{gid}", tags:[{q(profil["klartagg"])}]){{userErrors{{field message}}}}')
         else:
             seo = f'seo:{{title:{q(x["seo_title"] or x["titel"])}, description:{q(x["meta"])}}}' if x.get('meta') else f'seo:{{title:{q(x["seo_title"] or x["titel"])}}}'
             delar.append(f'p{i}: productUpdate(product:{{id:"{gid}", title:{q(x["titel"])}, {seo}, descriptionHtml:{q(x["html"])}}}){{product{{id}} userErrors{{field message}}}}')

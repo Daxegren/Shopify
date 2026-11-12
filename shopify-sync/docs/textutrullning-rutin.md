@@ -84,3 +84,10 @@ Produkter skrivna / totalt, andel med 0 avvikelser i stickprov, antal korrigerin
 - **Granskarens rättningar** ska anges som ett sammanhängande före/efter-par per fält. Läs byggskriptets utskrift efter rader med "fore träffar 0" före skrivning (LARDOMAR 2026-11-05).
 - **Daglig kontroll:** Kör `shopify-sync/scripts/nattkontroll.py` varje morgon. Den är bara läsande, jämför butiken med senast avsedda text och rapporterar nya avvikelser mot baslinjen (`rapporter/nattkontroll/baslinje.json`). Efter en genomgång av läget skapas en ny baslinje med `--skapa-baslinje`.
 - **Leverantörssynken (Velomarket3, jobb 13 kl. 03:22 UTC)** kan arkivera produkter och återställa text. Statusskyddet i Lovable-projektet är införskaffat 2026-11-06; se `rapporter/lovable-prompt-nattsynk-2026-11-06.md`.
+
+## Tillägg 2026-11-06: flera butiker (profilstyrda skript)
+
+- **Butiksval:** `status_uppdatera.py`, `shopify_meta_rensning.py`, `mutation_fran_skrivfil.py` och `mat_utbyte.py` tar `--profil <sökväg>`. Utan argument gäller BEST OF SPORTS-profilen, så befintliga körningar är oförändrade. Mall: `shopify-sync/config/butiksprofil-mall.json`. Kartläggning, fältlista och startordning för nästa butik: `shopify-sync/docs/flerbutik-kartlaggning.md`.
+- **Säkerhet:** en annan butiks profil ärver inget från BOS; ofullständiga profiler stoppar skriptet före första anropet. `verifiera_butik` jämför med profilens egen adress.
+- **Kvar före Alpha Zoo skrivs:** `--profil` i `shopify_skriv_texter.py`, `arkivera_dubbletter.py`, `nattkontroll.py` och `verifiera_skrivna.py`; samt profilstöd i `skrivfil_kontroll.py` (se beslutsfilen).
+- **Tester utan nätverk:** `python3 -I shopify-sync/scripts/test_shopify_api.py` (28 tester) och `python3 -I shopify-sync/scripts/test_butiksprofil.py` (32 tester: profilval, fallback, avvisning av ofullständiga profiler, klient per profil, status för flera butiker).

@@ -4,9 +4,13 @@
 För varje batch: antal godkända / rättas / underkända, och hur rättningarna fördelar sig på
 'format' (bara versaler/gemener, mellanslag eller skiljetecken ändras: kan kontrolleras av skript)
 och 'innehåll' (ord, uppgifter eller betydelse ändras: kräver granskare).
-Användning: mat_utbyte.py [katalog] [--md]
+Användning: mat_utbyte.py [katalog] [--md] [--profil <profil.json>]
+Utan katalog används butiksprofilens arbetskatalog (standard: BEST OF SPORTS).
 """
 import json, glob, os, re, sys, collections
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import butiksprofil  # noqa: E402
 
 def norm(s):
     return re.sub(r'[\W_]+', '', (s or '').lower())
@@ -19,11 +23,16 @@ def typ(fore, efter):
     return 'innehåll'
 
 def main():
-    kat = next((a for a in sys.argv[1:] if not a.startswith('--')), 'rapporter/facit-bos-2026-10-31/vag2_skriv')
+    try:
+        profil, argv = butiksprofil.profil_fran_argv(sys.argv[1:])
+    except butiksprofil.ProfilFel as e:
+        sys.exit(f'FEL: {e}')
+    kat = next((a for a in argv if not a.startswith('--')), None) or butiksprofil.i_rot(profil, 'arbetskatalog')
     rader, tot = [], collections.Counter()
     for f in sorted(glob.glob(os.path.join(kat, '*utlatande*.json')), key=lambda p: (re.sub(r'\d+', '', os.path.basename(p)), int(re.findall(r'\d+', os.path.basename(p))[0]) if re.findall(r'\d+', os.path.basename(p)) else 0)):
         try:
-            d = json.load(open(f, encoding='utf-8'))
+            with open(f, encoding='utf-8') as fh:
+                d = json.load(fh)
         except Exception:
             continue
         if not isinstance(d, list):
