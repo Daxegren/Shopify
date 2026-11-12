@@ -124,3 +124,11 @@ BOS-reglerna om faktatextläge, lastgräns (R4) och "enligt tillverkaren" (R5) �
 - BOS-kategorierna (barn, kosttillskott, skydd) har inga direkta motsvarigheter. Motsvarande riskpunkter är foder och läkemedel för djur (Alpha Zoo) samt kropps-, hälso- och hygienpåståenden (B You).
 - Typord (`godkanda_typord`) och märken (`marken`) fylls först efter inventeringen. Gissa dem inte.
 - Spärrlistan är tom tills inventeringen är gjord. En tom spärrlista är ingen kontroll av att kategorierna är säkra.
+
+## 7. Tillägg 2026-11-12: läget för Alpha Zoo efter att skripten blev profilstyrda
+
+- **Inaktuellt sedan 2026-11-12, se ändringsloggen:** orden "när skripten är profilstyrda" i steg 8. Alla skript i rutinen tar nu `--profil` (se `flerbutik-kartlaggning.md`, avsnitt 4).
+- **Förberett (utan nätverk):** `config/butiksprofil-alphazoo-forslag.json` innehåller Claudes förslag på de tekniska fälten: miljövariabelnamn `SHOPIFY_CLIENT_ID_ALPHAZOO` och `SHOPIFY_CLIENT_SECRET_ALPHAZOO`, katalogerna `rapporter/alphazoo/skriv` och `rapporter/alphazoo/granskning`, batchprefix `az`, statusfil och öppna frågor under `shopify-sync/status/`, SEO-suffix ` – Alpha Zoo`. Filen är ett förslag och läses inte av något skript; `butiksprofil-alphazoo.json` är oförändrad. Ett test (`test_flerbutik_skript.py`) visar att förslaget, med Davids svar på adressen och standardblocket ifyllda, ger en profil som skripten godtar, utan något värde från BEST OF SPORTS.
+- **Provkört med en testprofil (påhittad adress, i en tillfällig katalog):** `skrivfil_kontroll.py --profil` på en provskrivfil gav 0 fel, och `status_uppdatera.py --profil` skrev en tom statusfil för butiken. Det är steg 8 utan API-delen; dry-run mot API:et kräver åtkomst (steg 2).
+- **Det som nu väntar på David:** A1 (en butik eller tre), A2 (myshopify-adress), A3 (språk), A4 (app och miljövariabler), A7 (standardblock), A9 (SEO-suffix), A10 (butiksnamnets skrivning) och till sist `klar_for_skrivning`. A5, A6, A8 och A11–A14 kan besvaras parallellt. Utan A2 och A4 går ingenting att läsa från butiken.
+- **Beslut 1 och 2 från 2026-11-12 (regeltester per butik, SEO-suffixregel):** Davids ja tolkades som godkännande av rekommendationerna: ingen regel läggs till nu och en egen regeltestkonfiguration görs efter butikens första granskade batch.

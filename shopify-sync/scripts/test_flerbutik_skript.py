@@ -301,5 +301,22 @@ class TestSkrivfilKontrollProfil(unittest.TestCase):
             sys.argv = gammal
 
 
+class TestAlphaZooForslag(unittest.TestCase):
+    """Förslagsfilen för Alpha Zoo ska, med Davids återstående svar ifyllda, ge en profil som skripten godtar."""
+    def test_forslaget_blir_giltig_profil_med_davids_svar(self):
+        f = json.load(open(os.path.join(bp.ROT, 'shopify-sync/config/butiksprofil-alphazoo-forslag.json'), encoding='utf-8'))
+        f = {k: v for k, v in f.items() if not k.startswith('_')}
+        with self.assertRaises(bp.ProfilFel):  # utan myshopify (A2) är den ofullständig och stoppas
+            bp.tolka_profil(dict(f, butik='alphazoo.se'))
+        p = bp.tolka_profil(dict(f, butik='alphazoo.se', myshopify='test-alphazoo.myshopify.com'))
+        self.assertFalse(p['ar_standardprofil'])
+        self.assertEqual((p['klient_id_var'], p['filprefix'], p['seo_suffix']), ('SHOPIFY_CLIENT_ID_ALPHAZOO', ['az'], ' – Alpha Zoo'))
+        self.assertNotIn('BOS', p['klient_id_var'])
+        self.assertIsNone(p['pilotlista'])
+        self.assertTrue(os.path.exists(bp.i_rot(p, 'sparrlista')))
+        for k in ('arbetskatalog', 'granskningskatalog', 'statusfil', 'oppna_fragor'):
+            self.assertNotIn('facit-bos', p[k]); self.assertNotIn('bestofsports', p[k])
+
+
 if __name__ == '__main__':
     unittest.main()
