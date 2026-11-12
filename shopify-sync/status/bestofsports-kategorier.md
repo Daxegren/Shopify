@@ -11,3 +11,4 @@ Skapad 2026-11-04. Sessionen `claude/bos-kategorier`. Gren och underlag: `rappor
 | Pilotutkast (10 kategorier) | klara, 0 fel i kontroll; Opus-granskning: se `granskning-opus.md` |
 | Skrivning i Shopify | **ej påbörjad, väntar på Davids ja** |
 | Opus-granskning av pilotutkast (2026-11-05) | klar: 1 godkänd, 2 efter språkrättelse, 6 rättas, 1 underkänd; alla rättade, kontroll 0 fel; ny granskning av de rättade texterna återstår före skrivning |
+| Andra Opus-granskning (2026-11-12) | klar: 5 godkända, 5 rättade (hantlar, cykellås, elcyklar, sparkcykel, tunturi), kontroll 0 fel; underlagsfrågor kvarstår (hantlar, löpband, elcyklar, sparkcykel, cykellås), se `granskning-opus-2.md` |

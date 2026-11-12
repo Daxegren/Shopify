@@ -76,13 +76,13 @@ Utkast. Inget är skrivet i Shopify. Underlag: `underlag/<handle>.json` (framtag
 - **Nuvarande SEO-titel:** Hantlar – Justerbara och fasta för alla nivåer (46 tecken)
 - **Ny SEO-titel:** Hantlar – Hantelset och justerbara hantlar (42 tecken)
 - **Nuvarande meta:** Hantlar i olika vikter och material. Perfekta för styrketräning hemma eller på gym, från nybörjare till avancerad träning. Snabb leverans 
-- **Ny meta:** Köp hantlar, hantelset och justerbara hantlar från Tunturi, Gymstick, Hammer, Toorx och Christopeit. Vikter från 2 till 50 kg. Priser från cirka 70 kr. (151 tecken)
+- **Ny meta:** Köp hantlar, hantelset och justerbara hantlar från bland annat Tunturi, Gymstick, Hammer och Toorx. Vikter från 1 till 50 kg. Priser från cirka 70 kr. (150 tecken)
 - **Nuvarande text (325 ord), början:** Letar du efter hantlar för effektiv styrketräning hemma eller på gym? Hos Best Of Sports hittar du ett brett utbud av hantlar i olika modeller och material som passar alla nivåer och träningsmål. Hantlar är ett av de mest mångsidiga redskapen för styrketräning och kan användas för allt från isolerad…
-- **Ny text (83 ord):**
+- **Ny text (85 ord):**
 
-> BEST OF SPORTS säljer hantlar, hantelset och justerbara hantlar från Tunturi, Gymstick, Hammer, Toorx och Christopeit. Här finns minst 40 produkter i prisklassen cirka 70–14 500 kr.
+> BEST OF SPORTS säljer hantlar, hantelset och justerbara hantlar från bland annat Tunturi, Gymstick, Hammer, Toorx och Christopeit. Här finns minst 40 produkter i prisklassen cirka 70–14 500 kr.
 
-> Vikterna i produktnamnen går från 2 till 50 kg. Material som anges i titlarna är bland annat gjutjärn, vinyl, neopren och gummibelagd yta. Tunturi har flest modeller.
+> Vikterna i produktnamnen går från 1 till 50 kg. Material som anges i titlarna är bland annat gjutjärn, vinyl, neopren och gummibelagd yta. Tunturi har flest modeller.
 
 > Öppna en produkt för att se pris, lagerstatus och produktuppgifter.
 
@@ -112,11 +112,11 @@ Utkast. Inget är skrivet i Shopify. Underlag: `underlag/<handle>.json` (framtag
 - **Nuvarande SEO-titel:** Cykellås – Tryggt och säkert skydd för din cykel - Stort sortiment (66 tecken)
 - **Ny SEO-titel:** Cykellås – Vajer-, kedje- och vikbara lås (41 tecken)
 - **Nuvarande meta:** Upptäck cykellås som skyddar din cykel mot stöld. Välj bland bygel-, vajer- och kabellås för säker och enkel användning. Snabb leverans. Vi kan cyklar!
-- **Ny meta:** Köp cykellås hos BEST OF SPORTS: vajerlås, kedjelås, vikbara lås, U-lås och kabellås från bland annat AXA, Squire och Giant. Priser från cirka 90 kr. (149 tecken)
+- **Ny meta:** Köp cykellås, bland annat vajerlås, kedjelås, vikbara lås, U-lås och kabellås, från AXA, Squire, Giant och M-Wave. Minst 50 lås från cirka 90 kr. (145 tecken)
 - **Nuvarande text (271 ord), början:** Ett cykellås är en viktig investering för att skydda din cykel mot stöld. Hos Best Of Sports hittar du ett brett sortiment av cykellås i olika modeller och säkerhetsnivåer som passar alla typer av cyklar, från stadscyklar och hybridcyklar till mountainbikes och elcyklar. Olika typer av cykellås Vi e…
-- **Ny text (81 ord):**
+- **Ny text (82 ord):**
 
-> BEST OF SPORTS säljer cykellås: vajerlås, kedjelås, vikbara lås, U-lås och kabellås från bland annat AXA, Squire och Giant. Här finns minst 50 lås i prisklassen cirka 90–5 300 kr.
+> BEST OF SPORTS säljer cykellås, bland annat vajerlås, kedjelås, vikbara lås, U-lås och kabellås, från AXA, Squire, Giant och M-Wave. Här finns minst 50 lås i prisklassen cirka 90–5 300 kr.
 
 > AXA och Squire har flest modeller. Några lås anger nyckel eller 4-siffrig kod i produktnamnet.
 
@@ -128,15 +128,15 @@ Utkast. Inget är skrivet i Shopify. Underlag: `underlag/<handle>.json` (framtag
 
 ## Elcykel (`elcyklar`, gid://shopify/Collection/561573069066)
 - **Nuvarande SEO-titel:** Elcyklar | Köp billiga och premium elcyklar online med lång räckvidd (68 tecken)
-- **Ny SEO-titel:** Elcykel – TENWAYS, ADO, Giant, Fiido (36 tecken)
+- **Ny SEO-titel:** Elcykel – Tenways, ADO, Giant, Fiido (36 tecken)
 - **Nuvarande meta:** Upptäck elcyklar online för pendling, fritid och längre turer. Välj billiga elcyklar, prisvärda modeller, premium elcyklar och elcyklar med lång räckvidd.
-- **Ny meta:** Köp elcykel, hopfällbar elcykel eller el-lastcykel från TENWAYS, ADO, Giant, Fiido och Engwe. Minst 60 produkter från cirka 13 900 kr. (134 tecken)
+- **Ny meta:** Köp elcykel, hopfällbar elcykel eller el-lastcykel från bland annat Tenways, ADO, Giant, Fiido och Engwe. Minst 60 produkter från cirka 13 900 kr. (146 tecken)
 - **Nuvarande text (406 ord), början:** Letar du efter elcyklar online? Hos Best Of Sports hittar du ett brett utbud av elcyklar som passar alla typer av cyklister och behov. En elcykel gör pendling, fritid och längre turer både enklare och roligare. Med el-assistans får du extra kraft i uppförsbackar och på längre sträckor samtidigt som …
 - **Ny text (73 ord):**
 
-> BEST OF SPORTS säljer elcyklar, hopfällbara elcyklar och el-lastcyklar från bland annat TENWAYS, ADO, Giant, Fiido och Engwe. Här finns minst 60 produkter i prisklassen cirka 13 900–104 000 kr.
+> BEST OF SPORTS säljer elcyklar, hopfällbara elcyklar och el-lastcyklar från bland annat Tenways, ADO, Giant, Fiido och Engwe. Här finns minst 60 produkter i prisklassen cirka 13 900–104 000 kr.
 
-> TENWAYS och ADO har flest modeller. Ett tiotal produkter är hopfällbara, och flera är el-lastcyklar.
+> Tenways och ADO har flest produkter. Ett tiotal produkter är hopfällbara, och flera är el-lastcyklar.
 
 > Öppna en produkt för att se pris, lagerstatus och produktuppgifter.
 
@@ -148,7 +148,7 @@ Utkast. Inget är skrivet i Shopify. Underlag: `underlag/<handle>.json` (framtag
 - **Nuvarande SEO-titel:** Tunturi Träningsutrustning – Kondition och Styrka - Hela sortimentet (68 tecken)
 - **Ny SEO-titel:** Tunturi – Motionscykel, löpband, hantlar (40 tecken)
 - **Nuvarande meta:** Upptäck Tunturi hos BestOfSports högkvalitativ träningsutrustning för kondition, styrka och funktionell träning hemma eller på gymmet. Hela sortimentet.
-- **Ny meta:** Köp Tunturi hos BEST OF SPORTS: motionscyklar, löpband, roddmaskiner, träningsbänkar, hantlar och yogamattor. Minst 300 produkter från cirka 40 kr. (147 tecken)
+- **Ny meta:** Köp Tunturi hos BEST OF SPORTS, bland annat motionscyklar, löpband, roddmaskiner, träningsbänkar och hantlar. Minst 300 produkter från cirka 40 kr. (147 tecken)
 - **Nuvarande text (369 ord), början:** Tunturi är ett av de mest välkända varumärkena inom träningsutrustning och gymprodukter i världen. Med decennier av erfarenhet har Tunturi byggt upp ett rykte för hög kvalitet, hållbarhet och innovativ design. Produkterna är utformade för att ge både hemmatränande och professionella atleter bästa mö…
 - **Ny text (72 ord):**
 
@@ -164,7 +164,7 @@ Utkast. Inget är skrivet i Shopify. Underlag: `underlag/<handle>.json` (framtag
 - **Nuvarande SEO-titel:** Sparkcyklar för tricks, transport & barn | Best of Sports (57 tecken)
 - **Ny SEO-titel:** Sparkcykel – Stunt- och tricksparkcyklar (40 tecken)
 - **Nuvarande meta:** Upptäck sparkcyklar för tricks, stunt, transport och barn. Stabil kvalitet och flera modeller för både nybörjare och erfarna åkare. Köp online idag. 🛴
-- **Ny meta:** Köp sparkcykel, stuntsparkcykel eller tricksparkcykel från SOKE, Union, Rideoo, Versatyl och Ethic. Minst 50 produkter i prisklassen cirka 2 200–5 000 kr. (154 tecken)
+- **Ny meta:** Köp sparkcykel, stuntsparkcykel eller tricksparkcykel från bland annat SOKE, Union, Rideoo, Versatyl och Ethic. Minst 50 produkter från cirka 2 200 kr. (151 tecken)
 - **Nuvarande text (0 ord), början:** …
 - **Ny text (74 ord):**
 
