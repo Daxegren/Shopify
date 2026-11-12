@@ -233,3 +233,16 @@ Appen Velomarket3 arkiverade 2026-11-06 kl. 03:22–03:23 ett femtiotal produkte
 ## 2026-11-06: ordsökning i fria motiveringar ger bara ungefärlig sortering
 - **Vad hände:** första versionen av kvalitetsrapporten sorterade avvisade produkter efter första träffande kategori i en fast lista. Det gav till exempel "Dubblett" för ett knäskydd som avvisats för säkerhet och där dubbletten bara nämndes sist ("dessutom dubblett"). Sorteringen ändrades till det ord som förekommer tidigast i motiveringen, men är fortfarande ungefärlig.
 - **Regel:** fria motiveringar ska i nya körningar få ett fält `kategori` från en fast lista, så att rapporter kan räkna exakt. Tills dess redovisas sorteringen i rapporten som ungefärlig.
+
+
+## 2026-11-12: repot har ingen gren som heter main
+- **Vad hände:** jag pratade om att slå ihop till `main`, men fjärrrepot har ingen sådan gren. Standardgrenen (HEAD) är `claude/zealous-johnson-0ywddr`, och alla sessioner utgick från den. Dessutom var min lokala kopia grund (shallow), så `git merge-base` gav tomt svar tills `git fetch --unshallow` kördes.
+- **Regel:** kontrollera `git ls-remote --symref origin HEAD` innan "main" nämns, och hämta full historik (`git fetch --unshallow`) före jämförelser mellan grenar.
+
+## 2026-11-12: parallella sessioner valde samma beslutsfilnamn
+- **Vad hände:** sex sessioner skapade alla `rapporter/beslut-2026-11-06-2.md`, och namnet fanns dessutom redan på standardgrenen. Sammanslagningen krävde omdöpning.
+- **Regel:** när flera sessioner startas samma dag får varje session ett eget reserverat löpnummer för beslutsfilen i uppdraget.
+
+## 2026-11-12: långa inklistringar i Cloud Shell blir sönderhackade
+- **Vad hände:** en 90-raders heredoc blandades ihop med `EOF` och gav en trasig fil.
+- **Regel:** dela skript i delar om högst cirka 55 rader (`cat >` för första delen, `cat >>` för resten) och kontrollera med `python3 -m py_compile` och `wc -l` före körning.
