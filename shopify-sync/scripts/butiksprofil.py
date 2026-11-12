@@ -21,6 +21,8 @@ Fält som profilen kan sätta (se `shopify-sync/config/butiksprofil-mall.json`):
   statusfil               sökväg till den genererade statusfilen
   oppna_fragor            sökväg till öppna frågor (JSON), eller utelämnad
   statusgrupp             ordet i statusfilens sammanfattning ("Fitnessgruppen")
+  pilotlista              CSV med pilotprodukter som arkivera_dubbletter.py aldrig arkiverar (kolumnen produkt_id);
+                          utelämnad för en annan butik = ingen pilotlista
 
 Fallback: saknas ett fält i BEST OF SPORTS-profilen gäller de värden som skripten hade före
 flerbutiksändringen (`BOS_STANDARD`). En ANNAN butiks profil får aldrig falla tillbaka på BOS-värden
@@ -53,6 +55,7 @@ BOS_STANDARD = {
     'statusfil': 'shopify-sync/status/bestofsports-textutrullning.md',
     'oppna_fragor': 'shopify-sync/status/oppna_fragor.json',
     'statusgrupp': 'Fitnessgruppen',
+    'pilotlista': 'rapporter/bestofsports-pilot-20-produkter-2026-10-25.csv',
 }
 
 # Obligatoriska fält för en annan butik än BOS (inget får ärvas från BOS).
@@ -66,6 +69,7 @@ VALFRITT_NEUTRALT = {
     'delade_skrivfiler': [],
     'oppna_fragor': None,
     'statusgrupp': 'Batcherna',
+    'pilotlista': None,
 }
 
 
@@ -95,6 +99,7 @@ def _plocka(rå):
         'statusfil': rå.get('statusfil'),
         'oppna_fragor': rå.get('oppna_fragor'),
         'statusgrupp': rå.get('statusgrupp'),
+        'pilotlista': rå.get('pilotlista'),
     }
     return ut
 
@@ -176,3 +181,17 @@ def relativ_sokvag(profil):
     """Profilens sökväg relativt repots rot (för text i genererade filer)."""
     s = profil.get('sokvag')
     return os.path.relpath(s, ROT) if s else ''
+
+
+def butiksslug(profil):
+    """Kort ASCII-namn för butiken (för kataloger som inte får delas med andra butiker), t.ex. 'alphazoo'."""
+    slug = re.sub(r'[^a-z0-9]+', '', str(profil.get('butiksnamn') or '').lower().replace('å', 'a').replace('ä', 'a').replace('ö', 'o'))
+    if not slug:
+        raise ProfilFel('Profilen har inget butiksnamn som kan bli ett katalognamn.')
+    return slug
+
+
+def las_ra_profil(profil):
+    """Hela profilfilen som den står (för fält som inte plattas ut, t.ex. märken och standardblock). Läser bara filen."""
+    with open(profil['sokvag'], encoding='utf-8') as f:
+        return json.load(f)

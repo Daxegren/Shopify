@@ -246,3 +246,7 @@ Appen Velomarket3 arkiverade 2026-11-06 kl. 03:22–03:23 ett femtiotal produkte
 ## 2026-11-12: långa inklistringar i Cloud Shell blir sönderhackade
 - **Vad hände:** en 90-raders heredoc blandades ihop med `EOF` och gav en trasig fil.
 - **Regel:** dela skript i delar om högst cirka 55 rader (`cat >` för första delen, `cat >>` för resten) och kontrollera med `python3 -m py_compile` och `wc -l` före körning.
+
+## 2026-11-12: "butiksoberoende" ska bevisas per skript, inte antas av kartläggningen
+- **Vad hände:** kartläggningen 2026-11-06 listade fyra skript plus skrivfilskontrollen som hårdkodade. När jag gick igenom dem hittades fler delade ärvda BOS-värden som inte stod i listan: en standardtagg som parameterstandard i `jamfor_text` (importeras av två andra skript), `regeltester.py` som alltid läser BOS-profilen och BOS-konfigurationen (`regeltester.json`) även när skrivfilskontrollen fick en annan profil, delade utkataloger (`shopify-original-<datum>`, `rapporter/nattkontroll/baslinje.json`) och BOS pilotlista i `arkivera_dubbletter.py`. Hade bara de listade raderna ändrats hade en andra butik delat baslinje och rapportkatalog med BOS.
+- **Regel:** vid butiksoberoende ändringar, sök i varje berört skript (och i modulerna det anropar) efter BOS-värden, delade sökvägar och parameterstandarder, och skriv ett test som kör skriptet med en annan butiks profil och kontrollerar att ingen BOS-fil, BOS-tagg eller BOS-katalog används. Bevisa "oförändrat utan argument" med före/efter-utskrift på alla skrivfiler.

@@ -91,3 +91,10 @@ Produkter skrivna / totalt, andel med 0 avvikelser i stickprov, antal korrigerin
 - **Säkerhet:** en annan butiks profil ärver inget från BOS; ofullständiga profiler stoppar skriptet före första anropet. `verifiera_butik` jämför med profilens egen adress.
 - **Kvar före Alpha Zoo skrivs:** `--profil` i `shopify_skriv_texter.py`, `arkivera_dubbletter.py`, `nattkontroll.py` och `verifiera_skrivna.py`; samt profilstöd i `skrivfil_kontroll.py` (se beslutsfilen).
 - **Tester utan nätverk:** `python3 -I shopify-sync/scripts/test_shopify_api.py` (28 tester) och `python3 -I shopify-sync/scripts/test_butiksprofil.py` (32 tester: profilval, fallback, avvisning av ofullständiga profiler, klient per profil, status för flera butiker).
+
+## Tillägg 2026-11-12: alla skript i rutinen tar `--profil`
+
+- **Inaktuellt sedan 2026-11-12, se ändringsloggen:** raden "Kvar före Alpha Zoo skrivs" i tillägget 2026-11-06 ovan. `shopify_skriv_texter.py`, `arkivera_dubbletter.py`, `nattkontroll.py`, `verifiera_skrivna.py` och `skrivfil_kontroll.py` tar nu `--profil <sökväg>` (standard: BEST OF SPORTS, så utan argument är allt som förut).
+- **Annan butik:** ge `--profil` till varje skript i rutinen, inklusive `skrivfil_kontroll.py` före varje skrivning. Standardblock, märken och butiksnamn läses då ur den butikens profil; en profil utan `standardblock_krav` stoppas.
+- **Katalogerna skiljs åt:** före-/resultatfiler hamnar i `rapporter/shopify-original-<datum>-<butik>` och nattkontrollens rapport och baslinje i `rapporter/nattkontroll/<butik>/` för en annan butik.
+- **Tester utan nätverk:** `python3 -I shopify-sync/scripts/test_flerbutik_skript.py` (22 tester). Detaljer: `shopify-sync/docs/flerbutik-kartlaggning.md`, avsnitt 4.

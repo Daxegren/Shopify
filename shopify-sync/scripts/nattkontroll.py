@@ -7,22 +7,25 @@ Rapporterar bara AVVIKELSER SOM ÄR NYA mot baslinjen (`--baslinje`), så att k�
 Användning:
   nattkontroll.py                          # jämför mot baslinjen och skriv rapport
   nattkontroll.py --skapa-baslinje         # spara dagens läge som baslinje (görs efter att David godkänt läget)
+  Tillägg: --profil BUTIKSPROFIL.json (standard: BEST OF SPORTS). Skrivfiler = profilens arbetskatalog; en annan butik får
+  egen rapport- och baslinjekatalog rapporter/nattkontroll/<butik>/ så att inget delas med BEST OF SPORTS.
 Rapport: rapporter/nattkontroll/nattkontroll-ÅÅÅÅ-MM-DD.md och .csv. Kod 1 om nya avvikelser finns.
 Skriv aldrig ut hemligheter. Ändrar inget i Shopify."""
 import csv, glob, json, os, sys, time
 HAR = os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0, HAR)
 import shopify_api as api
+import butiksprofil
 from shopify_skriv_texter import jamfor_text
 
 ROT = os.path.abspath(os.path.join(HAR, '..', '..'))
-SKRIV = os.path.join(ROT, 'rapporter', 'facit-bos-2026-10-31', 'vag2_skriv')
+SKRIV = os.path.join(ROT, 'rapporter', 'facit-bos-2026-10-31', 'vag2_skriv')  # BEST OF SPORTS-värden; main() använder profilens
 UT = os.path.join(ROT, 'rapporter', 'nattkontroll')
 BASLINJE = os.path.join(UT, 'baslinje.json')
 NORM = ' (enligt tillverkaren)'  # rensning 2 (2026-11-04) lade till detta på lastgränsrader
 
 
-def avsedda():
-    filer = list(dict.fromkeys(sorted(glob.glob(os.path.join(SKRIV, '*skriv*.json')))))
+def avsedda(skriv=SKRIV):
+    filer = list(dict.fromkeys(sorted(glob.glob(os.path.join(skriv, '*skriv*.json')))))
     nyckel = lambda f: (1 if 'korr' in os.path.basename(f) else 0, os.path.getmtime(f), os.path.basename(f))
     exp = {}
     for f in sorted(filer, key=nyckel):
@@ -34,8 +37,10 @@ def avsedda():
     return exp
 
 
-def kontrollera():
-    exp = avsedda(); k = api.ShopifyKlient(); ids = list(exp); live = None
+def kontrollera(profil=None):
+    profil = profil or butiksprofil.las_butiksprofil()
+    klartagg = profil['klartagg']
+    exp = avsedda(butiksprofil.i_rot(profil, 'arbetskatalog')); k = api.klient_fran_profil(profil); ids = list(exp); live = None
     for forsok in range(4):
         try: live = api.hamta_produkter(k, ids, del_storlek=10); break
         except Exception as e: print('nätverksfel, försöker igen:', type(e).__name__); time.sleep(5)
@@ -47,33 +52,37 @@ def kontrollera():
         if l.get('status') != 'ACTIVE': fynd[i] = ('ej aktiv: ' + str(l.get('status')), fil, w.get('nr'), l.get('title', '')[:60]); continue
         w2 = dict(w, html=w['html'].replace(NORM, ''))
         l2 = dict(l, descriptionHtml=(l.get('descriptionHtml') or '').replace(NORM, ''))
-        fe = [x for x in jamfor_text(w2, l2, l2, tagg_klar=False) if not x.startswith('taggar avviker')]
+        fe = [x for x in jamfor_text(w2, l2, l2, tagg_klar=False, klartagg=klartagg) if not x.startswith('taggar avviker')]
         if w.get('meta') is None: fe = [x for x in fe if not x.startswith('seo.description')]  # äldre skrivfiler saknade meta
-        if 'texter-klara' not in (l.get('tags') or []): fe.append('taggen texter-klara saknas')
+        if klartagg not in (l.get('tags') or []): fe.append(f'taggen {klartagg} saknas')
         if fe: fynd[i] = ('; '.join(fe)[:200], fil, w.get('nr'), l.get('title', '')[:60])
     return fynd, len(ids)
 
 
 def main(a):
-    os.makedirs(UT, exist_ok=True)
-    fynd, n = kontrollera()
+    profil, a = butiksprofil.profil_fran_argv(a)
+    ut = UT if profil['ar_standardprofil'] else os.path.join(UT, butiksprofil.butiksslug(profil))
+    baslinje = os.path.join(ut, 'baslinje.json')
+    os.makedirs(ut, exist_ok=True)
+    fynd, n = kontrollera(profil)
     if '--skapa-baslinje' in a:
-        json.dump({'skapad': time.strftime('%Y-%m-%d %H:%M'), 'ids': sorted(fynd)}, open(BASLINJE, 'w'), indent=1)
+        json.dump({'skapad': time.strftime('%Y-%m-%d %H:%M'), 'ids': sorted(fynd)}, open(baslinje, 'w'), indent=1)
         print(f'Baslinje sparad: {len(fynd)} kända avvikelser av {n} produkter.'); return 0
-    bas = set(json.load(open(BASLINJE))['ids']) if os.path.exists(BASLINJE) else set()
+    bas = set(json.load(open(baslinje))['ids']) if os.path.exists(baslinje) else set()
     nya = {i: v for i, v in fynd.items() if i not in bas}
     atgardade = sorted(bas - set(fynd))
     dag = time.strftime('%Y-%m-%d')
-    with open(os.path.join(UT, f'nattkontroll-{dag}.csv'), 'w', newline='', encoding='utf-8') as o:
+    with open(os.path.join(ut, f'nattkontroll-{dag}.csv'), 'w', newline='', encoding='utf-8') as o:
         w = csv.writer(o); w.writerow(['produkt_id', 'nr', 'avvikelse', 'skrivfil', 'titel_live'])
         for i, (t, fil, nr, ti) in nya.items(): w.writerow([i, nr, t, fil, ti])
     rad = [f'# Nattkontroll {dag}', '', f'- Kontrollerade produkter: {n}', f'- Kända avvikelser (baslinjen): {len(bas)}', f'- **Nya avvikelser: {len(nya)}**', f'- Kända som nu är åtgärdade: {len(atgardade)}', '']
     typer = {}
     for t, *_ in nya.values(): typer[t.split(';')[0].split(' ')[0] + ' ' + (t.split(' ')[1] if ' ' in t else '')] = typer.get(t.split(';')[0].split(' ')[0] + ' ' + (t.split(' ')[1] if ' ' in t else ''), 0) + 1
     for t, c in sorted(typer.items(), key=lambda x: -x[1]): rad.append(f'- {c} st: {t.strip()}')
-    open(os.path.join(UT, f'nattkontroll-{dag}.md'), 'w', encoding='utf-8').write('\n'.join(rad) + '\n')
+    open(os.path.join(ut, f'nattkontroll-{dag}.md'), 'w', encoding='utf-8').write('\n'.join(rad) + '\n')
     print('\n'.join(rad)); return 1 if nya else 0
 
 
 if __name__ == '__main__':
-    sys.exit(main(sys.argv[1:]))
+    try: sys.exit(main(sys.argv[1:]))
+    except (api.ShopifyFel, butiksprofil.ProfilFel) as e: print('FEL:', api.maska(e)); sys.exit(1)

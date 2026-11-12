@@ -2,11 +2,14 @@
 """Kontroll av skrivfiler (JSON-lista med id, nr, titel, seo_title, meta, html) innan något skrivs till Shopify.
 
 Bygger på lärdomar i shopify-sync/docs/LARDOMAR.md. Avslutar med kod 1 om något FEL hittas.
-Användning: skrivfil_kontroll.py FIL [FIL ...] [--sparr shopify-sync/config/sparrlista.json] [--tillat-kanda]
+Användning: skrivfil_kontroll.py FIL [FIL ...] [--sparr shopify-sync/config/sparrlista.json] [--tillat-kanda] [--profil BUTIKSPROFIL.json]
+Märken, standardblockets krav och butiksnamn läses ur butiksprofilen (standard: BEST OF SPORTS). En annan butiks profil ärver
+inget från BEST OF SPORTS: saknas standardblock_krav stoppas körningen; märkeslistor utelämnade i profilen blir tomma.
 """
 import csv, json, re, sys, os, collections
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import butiksprofil  # profilval (--profil), samma modul som övriga skript
 import regeltester  # nya kontroller (läge per kontroll i shopify-sync/config/regeltester.json); börjar som varning
 
 ROT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
@@ -22,14 +25,38 @@ FORBJUDET = [
 BLOCK_KRAV = ['Leverans, retur och garanti', 'Frakt och leverans', 'Retur:', 'Reklamation:', 'Säljare:', 'info@bestofsports.se']
 
 
-def las_profil(path):
-    """Läser märken och standardblock ur butiksprofilen; faller tillbaka på standardvärdena ovan."""
-    global MARKEN, MARKEN_VARNING, BLOCK_KRAV
-    if path and os.path.exists(path):
-        p = json.load(open(path, encoding='utf-8'))
-        MARKEN = p.get('marken', MARKEN)
-        MARKEN_VARNING = p.get('marken_varning_bara', MARKEN_VARNING)
-        BLOCK_KRAV = p.get('standardblock_krav', BLOCK_KRAV)
+_BOS = (list(MARKEN), list(MARKEN_VARNING), list(BLOCK_KRAV), regeltester.PROFIL_SOKVAG, regeltester.CFG_SOKVAG)  # BOS-värdena
+BUTIKSNAMN = 'BEST OF SPORTS'
+SEO_SUFFIX = ' – BEST OF SPORTS'  # läses ur profilen; ingen regel använder det ännu (SEO-titelns längd kontrolleras som förut)
+REGELTEST_CFG = regeltester.CFG_SOKVAG  # None = neutrala standardvärden (annan butik utan egen regeltestkonfiguration)
+
+
+def las_profil(path, strikt=False):
+    """Läser märken, standardblock och butiksnamn ur butiksprofilen. BEST OF SPORTS-profilen (och äldre anrop utan fil) faller
+    tillbaka på värdena ovan, precis som före flerbutiksändringen. En annan butiks profil ärver inget från BEST OF SPORTS.
+    strikt=True: en profilfil som saknas är ett fel (annars används BOS-värdena, som förut)."""
+    global MARKEN, MARKEN_VARNING, BLOCK_KRAV, BUTIKSNAMN, SEO_SUFFIX, REGELTEST_CFG
+    if not (path and os.path.exists(path)):
+        if strikt:
+            raise butiksprofil.ProfilFel('Profilfilen finns inte: %s' % path)
+        return
+    prof = butiksprofil.las_butiksprofil(path)
+    p = butiksprofil.las_ra_profil(prof)
+    BUTIKSNAMN, SEO_SUFFIX = prof['butiksnamn'], prof['seo_suffix']
+    if prof['ar_standardprofil']:
+        MARKEN = p.get('marken', list(_BOS[0]))
+        MARKEN_VARNING = p.get('marken_varning_bara', list(_BOS[1]))
+        BLOCK_KRAV = p.get('standardblock_krav', list(_BOS[2]))
+        regeltester.PROFIL_SOKVAG, REGELTEST_CFG = _BOS[3], _BOS[4]
+        return
+    if not p.get('standardblock_krav'):
+        raise butiksprofil.ProfilFel('Profilen %s saknar standardblock_krav (får inte ärvas från BEST OF SPORTS).' % prof['sokvag'])
+    MARKEN = list(p.get('marken') or [])
+    MARKEN_VARNING = list(p.get('marken_varning_bara') or [])
+    BLOCK_KRAV = list(p['standardblock_krav'])
+    regeltester.PROFIL_SOKVAG = prof['sokvag']
+    cfg = p.get('regeltester_cfg')
+    REGELTEST_CFG = os.path.join(ROT, cfg) if cfg else None
 
 
 def las_sparr(path):
@@ -92,8 +119,9 @@ def kontrollera(fil, sparr, tillat_kanda):
         if x.get('meta') and not 70 <= len(x['meta']) <= 155: f(f'meta {len(x["meta"])} tecken (70–155)')
         if not x.get('meta'): v('meta saknas (null)')
         mt = x.get('meta') or ''
-        if mt.endswith('Finns hos BEST OF SPORTS.') and len(mt) - len('Finns hos BEST OF SPORTS.') - 1 >= 70:
-            v('meta slutar med utfyllnaden "Finns hos BEST OF SPORTS." fast den redan är över 70 tecken (R12); rensas i butiken när API-vägen finns')
+        utfyllnad = f'Finns hos {BUTIKSNAMN}.'
+        if mt.endswith(utfyllnad) and len(mt) - len(utfyllnad) - 1 >= 70:
+            v(f'meta slutar med utfyllnaden "{utfyllnad}" fast den redan är över 70 tecken (R12); rensas i butiken när API-vägen finns')
         for k in ('titel', 'seo_title', 'meta'):
             if x.get(k) and c[k][x[k]] > 1:
                 f(f'dubblett av {k} inom filen')
@@ -116,7 +144,7 @@ def kontrollera(fil, sparr, tillat_kanda):
 def kontrollera_regeltester(fil):
     """Nya kontroller (regeltester.py). Returnerar (fel, varningar) som textrader. Påverkar inte kontrollera() eller utgångskoden
     så länge alla kontroller står i läget varning (standard)."""
-    cfg = regeltester.las_cfg()
+    cfg = regeltester.las_cfg(REGELTEST_CFG)
     fel, varn = [], []
     with open(fil, encoding='utf-8') as fh:
         utkast = json.load(fh)
@@ -132,10 +160,11 @@ def main():
     sparr_path = os.path.join(ROT, 'shopify-sync/config/sparrlista.json')
     if '--sparr' in a:
         k = a.index('--sparr'); sparr_path = a[k + 1]; del a[k:k + 2]
-    profil = os.path.join(ROT, 'shopify-sync/config/butiksprofil-bestofsports.json')
-    if '--profil' in a:
-        k = a.index('--profil'); profil = a[k + 1]; del a[k:k + 2]
-    las_profil(profil)
+    try:
+        profil, a = butiksprofil.plocka_profilargument(a)
+        las_profil(os.path.abspath(profil) if profil else butiksprofil.STANDARD_PROFIL, strikt=True)
+    except butiksprofil.ProfilFel as e:
+        sys.exit(f'FEL: {e}')
     tillat = '--tillat-kanda' in a
     a = [x for x in a if x != '--tillat-kanda']
     sparr = las_sparr(sparr_path)
