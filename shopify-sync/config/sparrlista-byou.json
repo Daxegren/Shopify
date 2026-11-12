@@ -1,0 +1,6 @@
+{
+  "butik": "B You Underwear",
+  "beskrivning": "Produkter som inte får skrivas av textutrullningen. Läses av shopify-sync/scripts/skrivfil_kontroll.py. Lägg till nya spärrar som nya poster; sätt aktiv=false när en spärr hävts och ange datum och beslut. Ta inte bort poster. TOM LISTA: inget är inventerat än och tom lista betyder inte att inget är riskprodukter. Lägg in spärrar enligt shopify-sync/docs/ny-butik-checklista.md innan någon skrivning.",
+  "status": "TOM_EJ_INVENTERAD",
+  "sparrar": []
+}
