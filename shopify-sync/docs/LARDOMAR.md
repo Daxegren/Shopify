@@ -246,3 +246,7 @@ Appen Velomarket3 arkiverade 2026-11-06 kl. 03:22–03:23 ett femtiotal produkte
 ## 2026-11-12: långa inklistringar i Cloud Shell blir sönderhackade
 - **Vad hände:** en 90-raders heredoc blandades ihop med `EOF` och gav en trasig fil.
 - **Regel:** dela skript i delar om högst cirka 55 rader (`cat >` för första delen, `cat >>` för resten) och kontrollera med `python3 -m py_compile` och `wc -l` före körning.
+
+## 2026-11-12: bot-kontroll på bloggartiklar och två mätfel i egen analys
+- **Vad hände:** (1) Vid genomsökning av bestofsports.se svarade Cloudflare med bot-kontroll (HTTP 429, `cf-mitigated: challenge`) på bloggartiklar efter cirka 130 anrop, även vid 1,2 anrop/s; kollektioner och produkter påverkades inte. 21 av 155 artiklar hämtades aldrig och 8 blockerades. Sitemapen sorterades alfabetiskt så bloggarna kom först. (2) Första analysen slog ihop pagineringssidor med första sidan och gav produkter för grunt djup (max 2 i stället för 50), och ankartexter räknades per länk i stället för per källsida. Båda fångades i granskning av mellanresultat.
+- **Regel:** hämta kollektioner och produkter före bloggartiklar, håll högst cirka 1 anrop/s mot bestofsports.se, och försök aldrig ta dig förbi bot-kontrollen (redovisa i stället luckan). Räkna pagineringssidor som egna steg i klickdjup, och räkna inlänkar och ankartexter per unik källsida. Granska mellanresultat på riktig data innan slutsatser skrivs.
