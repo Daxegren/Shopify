@@ -1,0 +1,214 @@
+{
+ "totalt": 5354,
+ "status": {
+  "ACTIVE": {
+   "totalt": 3891,
+   "med_klara": 3160,
+   "utan_klara": 731
+  },
+  "DRAFT": {
+   "totalt": 1167,
+   "med_klara": 14,
+   "utan_klara": 1153
+  },
+  "ARCHIVED": {
+   "totalt": 296,
+   "med_klara": 17,
+   "utan_klara": 279
+  }
+ },
+ "jamfort_med": "rapporter/inventering-bos-2026-11-04/alla_produkter.json",
+ "nya_id": 39,
+ "borta_id": 0,
+ "statusbyten": {
+  "ARCHIVED>ACTIVE": 150,
+  "DRAFT>ACTIVE": 454,
+  "ACTIVE>ARCHIVED": 116,
+  "DRAFT>ARCHIVED": 15,
+  "ACTIVE>DRAFT": 1
+ },
+ "sparrar": {
+  "pilot-20": {
+   "rå": 20,
+   "efter_undantag": 19,
+   "status": {
+    "ACTIVE": 19
+   },
+   "med_klara": 19
+  },
+  "utanfor-tills-vidare-2026-11-04": {
+   "rå": 333,
+   "efter_undantag": 13,
+   "status": {
+    "ACTIVE": 10,
+    "ARCHIVED": 3
+   },
+   "med_klara": 0
+  },
+  "tidigare-avvisade-2026-11-04": {
+   "rå": 567,
+   "efter_undantag": 77,
+   "status": {
+    "ARCHIVED": 47,
+    "ACTIVE": 30
+   },
+   "med_klara": 0
+  },
+  "titeldubbletter-2026-11-04": {
+   "rå": 26,
+   "efter_undantag": 12,
+   "status": {
+    "ARCHIVED": 10,
+    "ACTIVE": 2
+   },
+   "med_klara": 0
+  }
+ },
+ "undantag_unika_id": 1234,
+ "batchfiler": {
+  "bearbetade_id": 3437,
+  "avvisade_id": 1019
+ },
+ "aktiva_utan_klara": {
+  "totalt": 731,
+  "grupper": {
+   "A spärr: utanför tills vidare": 10,
+   "B spärr: titeldubblett": 2,
+   "C spärr: tidigare avvisad": 30,
+   "D avvisad i batch (ej i spärrlistan) / barn": 9,
+   "D avvisad i batch (ej i spärrlistan) / dubblett": 52,
+   "D avvisad i batch (ej i spärrlistan) / elektronik": 1,
+   "D avvisad i batch (ej i spärrlistan) / kosttillskott": 4,
+   "D avvisad i batch (ej i spärrlistan) / olika pris/artiklar": 73,
+   "D avvisad i batch (ej i spärrlistan) / säkerhetsprodukt": 18,
+   "D avvisad i batch (ej i spärrlistan) / tunn/tom/motsägande källa": 25,
+   "D avvisad i batch (ej i spärrlistan) / övrigt": 16,
+   "F aldrig bearbetad / kandidat för ny omgång": 244,
+   "F aldrig bearbetad / lager 0": 118,
+   "F aldrig bearbetad / riskord i titel/typ": 123,
+   "F aldrig bearbetad / titel lika med redan skriven aktiv produkt": 6
+  }
+ },
+ "kategorier_nyckelord": {
+  "isbroddar": {
+   "alla": 0,
+   "status": {},
+   "aktiva_med_klara": 0,
+   "aktiva_utan_klara": 0
+  },
+  "rullskridskor": {
+   "alla": 34,
+   "status": {
+    "ACTIVE": 34
+   },
+   "aktiva_med_klara": 13,
+   "aktiva_utan_klara": 21
+  },
+  "akupressur": {
+   "alla": 13,
+   "status": {
+    "ACTIVE": 8,
+    "DRAFT": 4,
+    "ARCHIVED": 1
+   },
+   "aktiva_med_klara": 7,
+   "aktiva_utan_klara": 1
+  },
+  "vibrationsplattor": {
+   "alla": 12,
+   "status": {
+    "ACTIVE": 7,
+    "DRAFT": 5
+   },
+   "aktiva_med_klara": 6,
+   "aktiva_utan_klara": 1
+  },
+  "kroppsanalysvågar": {
+   "alla": 1,
+   "status": {
+    "ACTIVE": 1
+   },
+   "aktiva_med_klara": 1,
+   "aktiva_utan_klara": 0
+  },
+  "massagestolar": {
+   "alla": 8,
+   "status": {
+    "DRAFT": 6,
+    "ARCHIVED": 2
+   },
+   "aktiva_med_klara": 0,
+   "aktiva_utan_klara": 0
+  },
+  "barn (brett nyckelord)": {
+   "alla": 323,
+   "status": {
+    "ACTIVE": 290,
+    "ARCHIVED": 8,
+    "DRAFT": 25
+   },
+   "aktiva_med_klara": 203,
+   "aktiva_utan_klara": 87
+  },
+  "kosttillskott": {
+   "alla": 153,
+   "status": {
+    "DRAFT": 40,
+    "ACTIVE": 104,
+    "ARCHIVED": 9
+   },
+   "aktiva_med_klara": 89,
+   "aktiva_utan_klara": 15
+  }
+ },
+ "titeldubbletter": {
+  "alla_grupper": 81,
+  "alla_produkter": 179,
+  "aktiva_grupper": 36,
+  "aktiva_produkter": 75,
+  "aktiva_med_klara": 10,
+  "aktiva_utan_klara": 65
+ },
+ "luckor": {
+  "aktiva_med_klara": {
+   "n": 3160,
+   "meta_saknas": 27,
+   "meta_under_70": 7,
+   "meta_over_155": 1,
+   "seo_titel_ej_satt_titeln_anvands": 1106,
+   "seo_titel_over_60_tecken": 4,
+   "titel_over_70": 0,
+   "standardblock_saknas": 0,
+   "beskrivning_under_50_tecken": 0,
+   "pa_bestallning_utan_leveranstidsmening": 13,
+   "leveranstidsmening_utan_tagg": 0
+  },
+  "aktiva_utan_klara": {
+   "n": 731,
+   "meta_saknas": 722,
+   "meta_under_70": 0,
+   "meta_over_155": 0,
+   "seo_titel_ej_satt_titeln_anvands": 728,
+   "seo_titel_over_60_tecken": 0,
+   "titel_over_70": 37,
+   "standardblock_saknas": 726,
+   "beskrivning_under_50_tecken": 10,
+   "pa_bestallning_utan_leveranstidsmening": 207,
+   "leveranstidsmening_utan_tagg": 0
+  },
+  "alla": {
+   "n": 5354,
+   "meta_saknas": 2063,
+   "meta_under_70": 8,
+   "meta_over_155": 14,
+   "seo_titel_ej_satt_titeln_anvands": 3259,
+   "seo_titel_over_60_tecken": 6,
+   "titel_over_70": 55,
+   "standardblock_saknas": 2157,
+   "beskrivning_under_50_tecken": 45,
+   "pa_bestallning_utan_leveranstidsmening": 444,
+   "leveranstidsmening_utan_tagg": 0
+  }
+ },
+ "luckor_skrivna_produkter": 54
+}
