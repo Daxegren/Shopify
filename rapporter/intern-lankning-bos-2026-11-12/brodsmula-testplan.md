@@ -98,3 +98,10 @@ Hämtat med Davids uttryckliga ok (bara v2-kopian, 60 sidor, högst ungefär 1 a
 
 ### Införande i den kopia som ska publiceras (Kopia av Brödsmula test 2026-11-13, `196612718858`)
 Den kopian ägs av Davids anställde och redigeras av honom: den rörs inte medan han arbetar (en fil skrivs över i sin helhet). När han meddelar att den är färdig: (1) läs filens kontrollsumma, förväntat `0f376f73be0ef5bcaa820bb4f5923adb` om ingen annan ändrat `main-product.liquid`; (2) är den lika, skriv v2-filen (md5 `1fbbb1c3c0d501db49c0e2a4628313ee`) och återläs; (3) är den ändrad, läs hans fil, lägg in bara v2-blocket ovanpå och verifiera att skillnaden mot hans fil bara är v2-blocket; (4) han publicerar.
+
+### Införande av v2 (2026-11-13, efter Davids "gör det nu")
+Det publicerade temat är "Kopia av Brödsmula test 2026-11-13" (`196612718858`), som Davids anställde fortfarande redigerar. v2 lades därför i en ny kopia av det temat, inte i temat självt (verktyget skriver inte till publicerat tema, och en ny publicering av den gamla v2-kopian skulle ha tagit bort hans Black Friday-ändringar).
+- Kandidat 1 (`196614127882`) är **utdaterad**: den kopierades kl. 11:44:16 och det publicerade temat ändrades kl. 11:44:28 (`sections/header-group.json`). Publicera inte den.
+- **Kandidat 2: "Brödsmula v2 live-kandidat 2 2026-11-13" (`196614422794`)**, kopierad kl. 11:47:13. Kontrollerat kl. 11:49: `header-group.json`, `templates/index.json` och `config/settings_data.json` har samma md5 som det publicerade temat, och `main-product.liquid` är v2 (md5 `1fbbb1c3c0d501db49c0e2a4628313ee`). Det publicerade temats `updatedAt` var oförändrat (11:44:28).
+- **Villkor för publicering:** om någon ändrar det publicerade temat efter kl. 11:47 saknas ändringen i kandidat 2. Kontrollera då att det publicerade temats `updatedAt` fortfarande är 11:44:28, annars ska kopian göras om (cirka 3 minuter).
+- Inte testat i förhandsgranskning: själva filen är byte-identisk med den som testades (60 av 60 sidor godkända) men kandidat 2 har inte hämtats via förhandsgranskning eftersom Davids ok gällde v2-kopian `196613013770`.
