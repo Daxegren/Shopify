@@ -108,8 +108,15 @@ class HubbByte(unittest.TestCase):
     def test_hubbyte_till_icke_kollektion_underkanns(self):
         self.assertFalse(self.run_case(self.OLD, [("/collections/gymutrustning", "G"), ("/pages/x", "X")], True)["ok"])
 
-    def test_tva_borttagna_underkanns_aven_nar_tillatet(self):
-        self.assertFalse(self.run_case(self.OLD + [("/collections/y", "Y")], self.NEW, True)["ok"])
+    def test_varumarke_hubb_och_val_byts_mot_amne(self):
+        r = self.run_case(self.OLD + [("/collections/giant", "Giant")], self.NEW, True)
+        self.assertTrue(r["ok"], r["fel"])
+
+    def test_tre_borttagna_underkanns_aven_nar_tillatet(self):
+        self.assertFalse(self.run_case(self.OLD + [("/collections/y", "Y"), ("/collections/z", "Z")], self.NEW, True)["ok"])
+
+    def test_borttagen_icke_kollektionslank_underkanns(self):
+        self.assertFalse(self.run_case([("/pages/x", "X")], self.NEW, True)["ok"])
 
 
 class Urval(unittest.TestCase):

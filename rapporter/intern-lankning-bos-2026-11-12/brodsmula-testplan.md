@@ -85,3 +85,16 @@ Hämtat med Davids delningslänk och hans uttryckliga ok (trots robots.txt, bara
 - Liquid-koden för v2 (körd i motorn) stämmer med simuleringen på 3 860 av 3 860 produkter. Motorn är inte Shopifys egen, så den verkliga förhandsgranskningen är fortfarande testet som räknas.
 
 **Test i Shopify (före publicering).** Ny opublicerad temakopia "Brödsmula v2 test 2026-11-13" (`gid://shopify/OnlineStoreTheme/196613013770`), duplicerad från det publicerade temat. `sections/main-product.liquid` i kopian återläst: md5 `1fbbb1c3c0d501db49c0e2a4628313ee`, 113 914 byte, exakt den förväntade filen. Publicerat tema oförändrat (md5 `0f376f73…`). Före-bild från publika sidan för 60 produkter: `brodsmula-v2-fore.json` (urval i `brodsmula-v2-testsidor.csv`: 20 får ny länk, 20 byter huvudlänk, 10 oförändrade, 10 utan länk). Kvar: hämta samma 60 sidor ur kopian, `brodsmula_kontroll.py jamfor ... --tillat-hubbbyte`, skärmbilder, samt de manuella kontrollerna. Kräver Davids ok att hämta från förhandsgranskningen av den nya kopian.
+
+### Testresultat v2 2026-11-13 (kopian "Brödsmula v2 test 2026-11-13")
+Hämtat med Davids uttryckliga ok (bara v2-kopian, 60 sidor, högst ungefär 1 anrop/s, trots robots.txt). Varje sida bekräftades komma från v2-kopian (`Shopify.theme.id` 196613013770, `role: unpublished`).
+- **Jämförelse mot före-bilden (`jamfor --tillat-hubbbyte`): GODKÄND, 0 fel på 60 sidor.** Ingen sida har fått en länk som inte är en kollektion, produktnamnen är kvar, varje sida har en canonical och giltig strukturerad data, antalet h1 och övriga länkar är oförändrade.
+- **Verkligt resultat = simulerat resultat på 60 av 60 sidor.** 40 sidor fick ny eller utbytt kollektionslänk (20 + 20 enligt urvalet), 20 sidor oförändrade (10 med och 10 utan ämneslänk).
+- **Länkmål:** 30 unika nya länkmål, alla svarar 200.
+- **Skärmbilder** (mobil 390 px, dator 1 280 px): `skarmbilder/mobil-v2-*.png`, `dator-v2-*.png`. Brödsmulan bryts till två rader på mobil vid långa produktnamn, men är läsbar.
+- **Observation (bedömning):** Brödsmulan följer produktens kollektionstillhörighet. En hjälm "för elcyklar" ligger i Elcykel men inte i Cykelhjälmar, och får därför länken Elcykel; det visar att de saknade medlemskapen (se `produkter-utan-specifik-kollektion.csv`) påverkar hur träffsäker brödsmulan blir.
+- **Verktygsrättning under testet:** testverktyget underkände först byte från varumärkeslänk till ämneslänk (förväntat mönster var fel: både huvudlänk och underlänk byts). Regeln rättades och testades (19 tester), och körningen om gav 0 fel.
+- **Kvar:** manuella kontroller (presentkort, produkt med tom produkttyp), och att Davids anställde säger att hans kopia är klar innan v2 läggs in där (se nedan).
+
+### Införande i den kopia som ska publiceras (Kopia av Brödsmula test 2026-11-13, `196612718858`)
+Den kopian ägs av Davids anställde och redigeras av honom: den rörs inte medan han arbetar (en fil skrivs över i sin helhet). När han meddelar att den är färdig: (1) läs filens kontrollsumma, förväntat `0f376f73be0ef5bcaa820bb4f5923adb` om ingen annan ändrat `main-product.liquid`; (2) är den lika, skriv v2-filen (md5 `1fbbb1c3c0d501db49c0e2a4628313ee`) och återläs; (3) är den ändrad, läs hans fil, lägg in bara v2-blocket ovanpå och verifiera att skillnaden mot hans fil bara är v2-blocket; (4) han publicerar.

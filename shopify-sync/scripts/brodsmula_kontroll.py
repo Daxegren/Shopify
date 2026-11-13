@@ -107,10 +107,10 @@ def compare(before: dict, after: dict, allow_hub_change: bool = False) -> dict:
         bc, ac = b["crumbs"], a["crumbs"]
         added = [c for c in ac if c not in bc]
         removed = [c for c in bc if c not in ac]
-        hub_change = (allow_hub_change and len(removed) == 1 and removed[0][0].startswith("/collections/") and len(added) == 2
-                      and all(x[0].startswith("/collections/") for x in added))
+        hub_change = (allow_hub_change and 1 <= len(removed) <= 2 and all(x[0].startswith("/collections/") for x in removed)
+                      and len(added) == 2 and all(x[0].startswith("/collections/") for x in added))
         if hub_change:
-            info.append((h, f"huvudlänk byttes: {removed[0][0]} -> {added[0][0]}, ny: {added[1][0]}"))
+            info.append((h, f"huvudlänk byttes: {[x[0] for x in removed]} -> {[x[0] for x in added]}"))
         else:
             if removed:
                 fel.append((h, f"länk borttagen ur brödsmulan: {removed}"))
