@@ -91,6 +91,27 @@ class Compare(unittest.TestCase):
         self.assertFalse(bk.compare(before, {"kb": after})["ok"])
 
 
+class HubbByte(unittest.TestCase):
+    OLD = [("/collections/varumarke", "Varumärken")]
+    NEW = [("/collections/gymutrustning", "Gymutrustning"), ("/collections/traningsbank", "Träningsbänk")]
+
+    def run_case(self, before_crumbs, after_crumbs, allow):
+        b = {"kb": bk.extract(page(before_crumbs), "kb")}
+        a = bk.extract(page(after_crumbs), "kb")
+        return bk.compare(b, {"kb": a}, allow_hub_change=allow)
+
+    def test_hubbyte_godkanns_bara_nar_tillatet(self):
+        self.assertFalse(self.run_case(self.OLD, self.NEW, False)["ok"])
+        r = self.run_case(self.OLD, self.NEW, True)
+        self.assertTrue(r["ok"], r["fel"])
+
+    def test_hubbyte_till_icke_kollektion_underkanns(self):
+        self.assertFalse(self.run_case(self.OLD, [("/collections/gymutrustning", "G"), ("/pages/x", "X")], True)["ok"])
+
+    def test_tva_borttagna_underkanns_aven_nar_tillatet(self):
+        self.assertFalse(self.run_case(self.OLD + [("/collections/y", "Y")], self.NEW, True)["ok"])
+
+
 class Urval(unittest.TestCase):
     def test_stratifierat_urval_ur_gz(self):
         with tempfile.TemporaryDirectory() as d:

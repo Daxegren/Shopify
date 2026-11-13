@@ -1,0 +1,89 @@
+--- sections/main-product.liquid (publicerat, md5 0f376f73be0ef5bcaa820bb4f5923adb)
++++ sections/main-product.liquid (v2, md5 1fbbb1c3c0d501db49c0e2a4628313ee)
+@@ -710,6 +710,60 @@
+                 endif
+               -%}
+ 
++              {%- liquid
++                assign sub_found = false
++                if main_category != blank
++                  for child in main_category.links
++                    if child.type == 'collection_link' and prod_col_handles contains child.object.handle
++                      assign sub_category = child
++                      assign sub_found = true
++                      for grandchild in child.links
++                        if grandchild.type == 'collection_link' and prod_col_handles contains grandchild.object.handle
++                          assign sub_category = grandchild
++                          break
++                        endif
++                      endfor
++                      break
++                    endif
++                  endfor
++                endif
++                assign main_is_brand = false
++                if main_category != blank and main_category.object.handle == 'varumarke'
++                  assign main_is_brand = true
++                endif
++                if sub_found == false or main_is_brand
++                  assign generic_handles = 'ovrig-utrustning,tillbehor' | split: ','
++                  assign best_depth = 0
++                  for top in linklists[menu_handle].links
++                    if top.type != 'collection_link' or top.object.handle == 'varumarke'
++                      continue
++                    endif
++                    for child in top.links
++                      if child.type == 'collection_link' and prod_col_handles contains child.object.handle and best_depth < 2
++                        unless generic_handles contains child.object.handle
++                          assign alt_sub = child
++                          assign alt_top = top
++                          assign best_depth = 2
++                        endunless
++                      endif
++                      for grandchild in child.links
++                        if grandchild.type == 'collection_link' and prod_col_handles contains grandchild.object.handle and best_depth < 3
++                          unless generic_handles contains grandchild.object.handle
++                            assign alt_sub = grandchild
++                            assign alt_top = top
++                            assign best_depth = 3
++                          endunless
++                        endif
++                      endfor
++                    endfor
++                  endfor
++                  if best_depth > 0
++                    assign sub_category = alt_sub
++                    assign sub_found = true
++                    assign main_category = alt_top
++                  endif
++                endif
++              -%}
+               <nav class="custom-breadcrumb" role="navigation" aria-label="breadcrumbs" style="margin-bottom: 10px; text-transform: none !important;">
+                 <a href="{{ routes.root_url }}" class="breadcrumb-link" style="text-decoration: underline; text-transform: none !important;">Hem</a>
+                 <span aria-hidden="true" class="breadcrumb-separator" style="margin: 0 4px; color: #888;">›</span>
+@@ -724,24 +778,7 @@
+                   <span aria-hidden="true" class="breadcrumb-separator" style="margin: 0 4px; color: #888;">›</span>
+                 {%- endif -%}
+                 
+-                {%- liquid
+-                  assign sub_category = blank
+-                  if main_category != blank
+-                    for child in main_category.links
+-                      if child.type == 'collection_link' and prod_col_handles contains child.object.handle
+-                        assign sub_category = child
+-                        for grandchild in child.links
+-                          if grandchild.type == 'collection_link' and prod_col_handles contains grandchild.object.handle
+-                            assign sub_category = grandchild
+-                            break
+-                          endif
+-                        endfor
+-                        break
+-                      endif
+-                    endfor
+-                  endif
+-                -%}
+-                {%- if sub_category != blank -%}
++                {%- if sub_found -%}
+                   <a href="{{ sub_category.url }}" class="breadcrumb-link" style="text-decoration: underline; text-transform: none !important;">{{ sub_category.title }}</a>
+                   <span aria-hidden="true" class="breadcrumb-separator" style="margin: 0 4px; color: #888;">›</span>
+                 {%- endif -%}

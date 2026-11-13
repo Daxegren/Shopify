@@ -1,0 +1,46 @@
+{
+ "produkter": 3860,
+ "v1_med_underkollektion": 1962,
+ "v2_amneskollektion": 2515,
+ "v2_bara_varumarke": 294,
+ "v2_ingen": 1051,
+ "per_huvudgren": {
+  "cyklar": {
+   "produkter": 770,
+   "v1": 588,
+   "v2_amne": 589,
+   "v2_ingen_eller_bara_varumarke": 181
+  },
+  "gymutrustning": {
+   "produkter": 129,
+   "v1": 124,
+   "v2_amne": 128,
+   "v2_ingen_eller_bara_varumarke": 1
+  },
+  "konditionsutrustning": {
+   "produkter": 670,
+   "v1": 191,
+   "v2_amne": 373,
+   "v2_ingen_eller_bara_varumarke": 297
+  },
+  "kosttillskott": {
+   "produkter": 104,
+   "v1": 92,
+   "v2_amne": 95,
+   "v2_ingen_eller_bara_varumarke": 9
+  },
+  "ovrig-utrustning": {
+   "produkter": 45,
+   "v1": 45,
+   "v2_amne": 45,
+   "v2_ingen_eller_bara_varumarke": 0
+  },
+  "varumarke": {
+   "produkter": 2142,
+   "v1": 922,
+   "v2_amne": 1285,
+   "v2_ingen_eller_bara_varumarke": 857
+  }
+ },
+ "utan_medlemskap_i_nagon_kollektion_funnen": 0
+}

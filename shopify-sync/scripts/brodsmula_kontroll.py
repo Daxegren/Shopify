@@ -87,7 +87,7 @@ def stratified_sample(ra_dir: str, per_hub: int, seed: int = 1) -> list[tuple[st
     return out
 
 
-def compare(before: dict, after: dict) -> dict:
+def compare(before: dict, after: dict, allow_hub_change: bool = False) -> dict:
     """Regler: sidan svarar 200, exakt en canonical, giltig JSON-LD, samma övriga länkar, samma sidnamn sist i brödsmulan,
     Hem och huvudkategori kvar i oförändrad ordning, och högst EN tillagd länk (till en kollektion)."""
     fel, info = [], []
@@ -107,23 +107,28 @@ def compare(before: dict, after: dict) -> dict:
         bc, ac = b["crumbs"], a["crumbs"]
         added = [c for c in ac if c not in bc]
         removed = [c for c in bc if c not in ac]
-        if removed:
-            fel.append((h, f"länk borttagen ur brödsmulan: {removed}"))
-        if len(added) > 1:
-            fel.append((h, f"fler än en tillagd länk: {added}"))
-        if added and not added[0][0].startswith("/collections/"):
-            fel.append((h, f"tillagd länk pekar inte på en kollektion: {added[0]}"))
-        if [c for c in ac if c in bc] != [c for c in bc if c in ac]:
-            fel.append((h, "ordningen på befintliga länkar ändrad"))
+        hub_change = (allow_hub_change and len(removed) == 1 and removed[0][0].startswith("/collections/") and len(added) == 2
+                      and all(x[0].startswith("/collections/") for x in added))
+        if hub_change:
+            info.append((h, f"huvudlänk byttes: {removed[0][0]} -> {added[0][0]}, ny: {added[1][0]}"))
+        else:
+            if removed:
+                fel.append((h, f"länk borttagen ur brödsmulan: {removed}"))
+            if len(added) > 1:
+                fel.append((h, f"fler än en tillagd länk: {added}"))
+            if added and not added[0][0].startswith("/collections/"):
+                fel.append((h, f"tillagd länk pekar inte på en kollektion: {added[0]}"))
+            if [c for c in ac if c in bc] != [c for c in bc if c in ac]:
+                fel.append((h, "ordningen på befintliga länkar ändrad"))
         extra = set(a["other_links"]) - set(b["other_links"])
         missing = set(b["other_links"]) - set(a["other_links"])
         if missing:
             fel.append((h, f"{len(missing)} länkar utanför brödsmulan saknas efter ändringen, t.ex. {sorted(missing)[:3]}"))
-        if extra and not added:
+        if extra and not added and not hub_change:
             info.append((h, f"{len(extra)} nya länkar utanför brödsmulan (kan vara slumpade rekommendationer)"))
         if a["h1_count"] != b["h1_count"]:
             fel.append((h, f"antal h1 ändrat {b['h1_count']} -> {a['h1_count']}"))
-        if added:
+        if added and not hub_change:
             info.append((h, f"tillagd: {added[0][0]}"))
         # schemat ska innehålla minst lika många poster som före och sluta på samma produkt
         bj, aj = b["jsonld_breadcrumbs"], a["jsonld_breadcrumbs"]
@@ -144,7 +149,10 @@ def cmd_snapshot(args):
     f = Fetcher(USER_AGENT, 1.0)
     rb = f.fetch(base + "/robots.txt")
     robots = Robots(rb.body.decode("utf-8", "replace") if rb.status == 200 else "")
-    sample = stratified_sample(args.urval_fran, args.antal_per_hubb)
+    if args.handles_fil:
+        sample = [(h.strip(), "") for h in open(args.handles_fil, encoding="utf-8") if h.strip()]
+    else:
+        sample = stratified_sample(args.urval_fran, args.antal_per_hubb)
     snap, brus = {}, {}
     for i, (handle, hub) in enumerate(sample):
         path = "/products/" + handle
@@ -181,7 +189,7 @@ def cmd_jamfor(args):
     b = json.load(open(args.fore, encoding="utf-8"))
     a = json.load(open(args.efter, encoding="utf-8"))
     sub = {h: v for h, v in b["sidor"].items() if h in a["sidor"]} if args.bara_gemensamma else b["sidor"]
-    res = compare(sub, a["sidor"])
+    res = compare(sub, a["sidor"], allow_hub_change=args.tillat_hubbbyte)
     print(f"Jämförde {res['antal']} sidor. Fel: {len(res['fel'])}. {'GODKÄND' if res['ok'] else 'EJ GODKÄND'}")
     for h, m in res["fel"]:
         print(f"  FEL  {h}: {m}")
@@ -194,7 +202,8 @@ def main(argv=None):
     sub = ap.add_subparsers(dest="cmd", required=True)
     s = sub.add_parser("snapshot")
     s.add_argument("--bas", required=True)
-    s.add_argument("--urval-fran", required=True)
+    s.add_argument("--urval-fran", default=None)
+    s.add_argument("--handles-fil", default=None, help="fil med en produkthandle per rad i stället för stratifierat urval")
     s.add_argument("--antal-per-hubb", type=int, default=8)
     s.add_argument("--brus-antal", type=int, default=6)
     s.add_argument("--ut", required=True)
@@ -206,6 +215,7 @@ def main(argv=None):
     j = sub.add_parser("jamfor")
     j.add_argument("fore")
     j.add_argument("efter")
+    j.add_argument("--tillat-hubbbyte", action="store_true", help="tillåt att ett byte av huvudlänk (en länk ut, två kollektionslänkar in) godkänns (regel v2)")
     j.add_argument("--bara-gemensamma", action="store_true", help="jämför bara sidor som finns i båda bilderna")
     j.set_defaults(fn=cmd_jamfor)
     args = ap.parse_args(argv)
