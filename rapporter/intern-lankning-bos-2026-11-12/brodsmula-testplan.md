@@ -62,3 +62,13 @@ Förslaget når bara kollektioner som finns i huvudmenyn (165 av 344). Av de nio
 - **Verifierat genom återläsning:** `sections/main-product.liquid` i kopian är 112 078 byte, md5 `0f376f73be0ef5bcaa820bb4f5923adb`, exakt den förväntade filen (levande fil + de 22 raderna i `brodsmula-andring.diff`).
 - **Det publicerade temat är orört:** huvudtemat `195516039434` har fortfarande md5 `683650d8…` på filen och oförändrad tidsstämpel (2026-11-12 14:02).
 - Kvar: förhandsgranska kopian, spara de 48 sidorna (`brodsmula-testsidor.csv`), kör `brodsmula_kontroll.py` och gör de manuella kontrollerna (steg 3–5). Publicering görs av David.
+
+## Testresultat 2026-11-13 (testkopian "Brödsmula test 2026-11-13")
+Hämtat med Davids delningslänk och hans uttryckliga ok (trots robots.txt, bara kopian och de 48 sidorna, högst 1 anrop/s). Varje hämtad sida bekräftades komma från kopian (`Shopify.theme.id` = 196608491786, `role: unpublished`).
+- **Automatisk jämförelse mot före-bilden (`brodsmula_kontroll.py jamfor`): GODKÄND, 0 fel på 48 sidor.** Ingen länk borttagen, ordningen oförändrad, produktnamnet kvar, en canonical, giltig JSON-LD, samma övriga länkar och samma antal h1 på alla sidor.
+- **31 av 48 sidor fick den nya länken** (ovrig-utrustning 8 av 8, gymutrustning 7 av 8, kosttillskott 7 av 8, varumarke 5 av 8, cyklar 4 av 8). 17 sidor fick ingen, vilket är väntat: produkten ligger inte i någon undermeny-kollektion.
+- **Länkmål:** 20 unika nya länkmål, alla svarar 200.
+- **Mobil (390 px) och dator (1 280 px):** skärmbilder i `skarmbilder/`. Brödsmulan bryts till två rader på mobil när produktnamnet är långt, men är läsbar. Sidan utan ny länk ser ut som förut.
+- **Observationer (bedömning):** (1) För produkter under Varumärken blir den nya länken en varumärkessida (Tunturi, Giant) och inte en ämneskategori. (2) Tre skid-/skridskoprodukter fick länk till `/collections/skidor` eller `/collections/pjaxor`; brödsmulan följer produktens kollektionstillhörighet, så om en skridsko ligger i "skidor" är det ett datafel i katalogen, inte i koden. (3) Strukturerad data (JSON-LD) ändras inte i den här versionen.
+- **Inte testat:** presentkort, produkt med tom produkttyp, och Google-sidan efter publicering. Presentkort och tom produkttyp bör kontrolleras manuellt i förhandsgranskningen innan publicering.
+- Resultatfil: `brodsmula-efter-kopia.json`. Publicering görs av David; efter publicering körs `snapshot` + `jamfor` mot den publika sidan samt länkmätningen om.
