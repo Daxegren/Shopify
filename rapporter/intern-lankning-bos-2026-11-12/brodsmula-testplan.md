@@ -49,3 +49,10 @@ Förslaget når bara kollektioner som finns i huvudmenyn (165 av 344). Av de nio
 - Menyn ändras av någon: brödsmulan ändras med den (gäller redan idag).
 - Produkter i många menykollektioner får den första i menyordning, inte nödvändigtvis den mest passande.
 - Sidans laddtid: en extra loop över menyn per produktsida; menyn har några hundra poster, så effekten är sannolikt liten men bör kännas i förhandsvisningen.
+
+## Uppdatering 2026-11-13: steg 1 gjort i Shopify
+- Butiken var BEST OF SPORTS (kontrollerat med `get-shop-info`; kopplingen byttes från Gorilla Sports med `switch-shop`).
+- Den levande `sections/main-product.liquid` lästes: skiljer sig från 2026-10-26-originalet bara på de tre godkända `shop.url`→`request.origin`-raderna. Ankarraden `{%- if type_label != blank -%}` finns en gång (rad 727).
+- **Opublicerad temakopia skapad:** "Brödsmula test 2026-11-13" (`gid://shopify/OnlineStoreTheme/196608491786`), duplicerad från det publicerade temat. Filen i kopian har samma kontrollsumma som den levande (md5 683650d83661ad3ee65038488e138c25).
+- **Kodtillägget är inte inlagt.** Att skriva filen via verktyget kräver att hela filen (112 kB) skickas i ett anrop, vilket inte ryms. Tillägget (22 rader, bara tillägg) ligger i `brodsmula-andring.diff`. Det läggs in manuellt i kopian i temaredigeraren (steg 2 i mejlet). Efteråt läser jag tillbaka filen ur kopian och jämför mot förväntad kontrollsumma 0f376f73be0ef5bcaa820bb4f5923adb (kan skilja på blanksteg om det klistrats in annorlunda; då jämför jag raderna).
+- Det publicerade temat är orört.

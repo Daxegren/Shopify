@@ -1,0 +1,31 @@
+--- sections/main-product.liquid (levande tema 2026-11-13, md5 683650d83661ad3ee65038488e138c25)
++++ sections/main-product.liquid (med tillägget, md5 0f376f73be0ef5bcaa820bb4f5923adb)
+@@ -724,6 +724,28 @@
+                   <span aria-hidden="true" class="breadcrumb-separator" style="margin: 0 4px; color: #888;">›</span>
+                 {%- endif -%}
+                 
++                {%- liquid
++                  assign sub_category = blank
++                  if main_category != blank
++                    for child in main_category.links
++                      if child.type == 'collection_link' and prod_col_handles contains child.object.handle
++                        assign sub_category = child
++                        for grandchild in child.links
++                          if grandchild.type == 'collection_link' and prod_col_handles contains grandchild.object.handle
++                            assign sub_category = grandchild
++                            break
++                          endif
++                        endfor
++                        break
++                      endif
++                    endfor
++                  endif
++                -%}
++                {%- if sub_category != blank -%}
++                  <a href="{{ sub_category.url }}" class="breadcrumb-link" style="text-decoration: underline; text-transform: none !important;">{{ sub_category.title }}</a>
++                  <span aria-hidden="true" class="breadcrumb-separator" style="margin: 0 4px; color: #888;">›</span>
++                {%- endif -%}
++
+                 {%- if type_label != blank -%}
+                   {%- assign type_title = type_label | downcase | capitalize -%}
+                   {%- assign type_label_lower = type_label | downcase -%}
