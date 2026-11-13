@@ -56,3 +56,9 @@ Förslaget når bara kollektioner som finns i huvudmenyn (165 av 344). Av de nio
 - **Opublicerad temakopia skapad:** "Brödsmula test 2026-11-13" (`gid://shopify/OnlineStoreTheme/196608491786`), duplicerad från det publicerade temat. Filen i kopian har samma kontrollsumma som den levande (md5 683650d83661ad3ee65038488e138c25).
 - **Kodtillägget är inte inlagt.** Att skriva filen via verktyget kräver att hela filen (112 kB) skickas i ett anrop, vilket inte ryms. Tillägget (22 rader, bara tillägg) ligger i `brodsmula-andring.diff`. Det läggs in manuellt i kopian i temaredigeraren (steg 2 i mejlet). Efteråt läser jag tillbaka filen ur kopian och jämför mot förväntad kontrollsumma 0f376f73be0ef5bcaa820bb4f5923adb (kan skilja på blanksteg om det klistrats in annorlunda; då jämför jag raderna).
 - Det publicerade temat är orört.
+
+## Uppdatering 2026-11-13 (senare): tillägget inlagt i testkopian av Claude
+- Lösning på storleksproblemet: den färdiga filen laddades upp via `stagedUploadsCreate` (ett tillfälligt uppladdningsmål, ingen fil skapades i butikens filbibliotek) och skrevs till kopian med `themeFilesUpsert` (body-typ URL). Skrivningen riktades bara mot den opublicerade kopian (`196608491786`).
+- **Verifierat genom återläsning:** `sections/main-product.liquid` i kopian är 112 078 byte, md5 `0f376f73be0ef5bcaa820bb4f5923adb`, exakt den förväntade filen (levande fil + de 22 raderna i `brodsmula-andring.diff`).
+- **Det publicerade temat är orört:** huvudtemat `195516039434` har fortfarande md5 `683650d8…` på filen och oförändrad tidsstämpel (2026-11-12 14:02).
+- Kvar: förhandsgranska kopian, spara de 48 sidorna (`brodsmula-testsidor.csv`), kör `brodsmula_kontroll.py` och gör de manuella kontrollerna (steg 3–5). Publicering görs av David.
