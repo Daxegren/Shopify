@@ -22,7 +22,7 @@ HUVUD = {  # regex mot titelns två första ord (gemener): vad som räknas som k
 # EXKLUDERA tar bort tillbehör som annars räknas som huvudprodukter (hantelställ, hantelstänger, hantellås) först i titeln.
 EXTRA_HELA_TITELN = {'sparkcykel': r'\bscooter\b', 'hantlar': r'hantel|dumbbell', 'lopband': r'treadmill(?!.*(lubric|oil|spray|olja))', 'elcyklar': r'electric (cargo )?bike',
                      'cykellas': r'\b(cable|frame|chain) lock\b'}
-EXKLUDERA = {'hantlar': r'ställ|stång|stäng|rack|tower|hållare|skiv|^hyllplan', 'cykellas': r'hantellås|skivstångslås|collar',
+EXKLUDERA = {'hantlar': r'ställ|stång|stäng|rack|tower|hållare|^skivstång\b|^hyllplan', 'cykellas': r'hantellås|skivstångslås|collar',
              'elcyklar': r'baklykta|lykta|skydd för|hjälm', 'sparkcykel': r'hjul|wheel|holder|sticker|snow|snö|grip|tejp|stöd|stand\b|pad\b'}
 EXKLUDERA_HELA = {'hantlar': r'dumbbell (bar|stand|rack|tower)', 'sparkcykel': r'(scooter|sparkcykel)\s?(wheel|holder|hjul|sticker)|wheel|holder|sticker'}
 HUVUD_V2 = {'hantlar': r'hantel|hantlar|dumbbell', 'cykellas': r'(?<!hantel)lås'}
