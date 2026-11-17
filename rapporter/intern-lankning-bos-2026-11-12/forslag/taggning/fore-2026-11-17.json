@@ -1,0 +1,1082 @@
+[
+ {
+  "id": "gid://shopify/Product/10581108916490",
+  "handle": "medicine-ball-10kg",
+  "status": "ACTIVE",
+  "tags": [
+   "Gymstick",
+   "Medicinbollar",
+   "price-change-job-active",
+   "sale",
+   "texter-klara"
+  ],
+  "tagg_att_lagga_till": "medicinboll",
+  "kollektion": "traningsboll",
+  "har_redan": false,
+  "job": true,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/53461531263242",
+    "809.10",
+    "899.00"
+   ],
+   [
+    "gid://shopify/ProductVariant/53461531296010",
+    "269.10",
+    "299.00"
+   ],
+   [
+    "gid://shopify/ProductVariant/53461531328778",
+    "359.10",
+    "399.00"
+   ],
+   [
+    "gid://shopify/ProductVariant/53461531361546",
+    "413.10",
+    "459.00"
+   ],
+   [
+    "gid://shopify/ProductVariant/53461531394314",
+    "449.10",
+    "499.00"
+   ],
+   [
+    "gid://shopify/ProductVariant/53461531427082",
+    "503.10",
+    "559.00"
+   ],
+   [
+    "gid://shopify/ProductVariant/53461531459850",
+    "566.10",
+    "629.00"
+   ],
+   [
+    "gid://shopify/ProductVariant/53461531492618",
+    "629.10",
+    "699.00"
+   ],
+   [
+    "gid://shopify/ProductVariant/53461531525386",
+    "683.10",
+    "759.00"
+   ],
+   [
+    "gid://shopify/ProductVariant/53461531558154",
+    "719.10",
+    "799.00"
+   ],
+   [
+    "gid://shopify/ProductVariant/53461531590922",
+    "1169.10",
+    "1299.00"
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10581112586506",
+  "handle": "wall-ball-12kg",
+  "status": "ACTIVE",
+  "tags": [
+   "Gymstick",
+   "Medicinbollar",
+   "price-change-job-active",
+   "sale",
+   "texter-klara"
+  ],
+  "tagg_att_lagga_till": "wall ball",
+  "kollektion": "traningsboll",
+  "har_redan": false,
+  "job": true,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/53461544239370",
+    "809.10",
+    "899.00"
+   ],
+   [
+    "gid://shopify/ProductVariant/53461544272138",
+    "539.10",
+    "599.00"
+   ],
+   [
+    "gid://shopify/ProductVariant/53461544304906",
+    "629.10",
+    "699.00"
+   ],
+   [
+    "gid://shopify/ProductVariant/53461544337674",
+    "719.10",
+    "799.00"
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10581108883722",
+  "handle": "medicine-ball-with-handles-10kg",
+  "status": "ACTIVE",
+  "tags": [
+   "Gymstick",
+   "Medicinbollar",
+   "price-change-job-active",
+   "sale",
+   "texter-klara"
+  ],
+  "tagg_att_lagga_till": "medicinboll",
+  "kollektion": "traningsboll",
+  "har_redan": false,
+  "job": true,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/53461531132170",
+    "899.10",
+    "999.00"
+   ],
+   [
+    "gid://shopify/ProductVariant/53461531164938",
+    "629.10",
+    "699.00"
+   ],
+   [
+    "gid://shopify/ProductVariant/53461531197706",
+    "764.10",
+    "849.00"
+   ],
+   [
+    "gid://shopify/ProductVariant/53461531230474",
+    "854.10",
+    "949.00"
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10472282456330",
+  "handle": "medicinboll-med-handtag-gymstick-4kg-gym61044-4",
+  "status": "ACTIVE",
+  "tags": [
+   "Gymstick",
+   "Konditionsträning & Fitness",
+   "price-change-job-active",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "tagg_att_lagga_till": "medicinboll",
+  "kollektion": "traningsboll",
+  "har_redan": false,
+  "job": true,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/52848472195338",
+    "1849.00",
+    "1839.00"
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10581095940362",
+  "handle": "active-exercise-ball-65cm",
+  "status": "ACTIVE",
+  "tags": [
+   "Gymstick",
+   "texter-klara",
+   "Träningsbollar"
+  ],
+  "tagg_att_lagga_till": "träningsboll",
+  "kollektion": "traningsboll",
+  "har_redan": false,
+  "job": false,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/53461488795914",
+    "199.00",
+    null
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10581095973130",
+  "handle": "active-exercise-ball-75cm",
+  "status": "ACTIVE",
+  "tags": [
+   "Gymstick",
+   "texter-klara",
+   "Träningsbollar"
+  ],
+  "tagg_att_lagga_till": "träningsboll",
+  "kollektion": "traningsboll",
+  "har_redan": false,
+  "job": false,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/53461488828682",
+    "219.00",
+    null
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10581105967370",
+  "handle": "exercise-ball-55cm",
+  "status": "ACTIVE",
+  "tags": [
+   "Gymstick",
+   "texter-klara",
+   "Träningsbollar"
+  ],
+  "tagg_att_lagga_till": "träningsboll",
+  "kollektion": "traningsboll",
+  "har_redan": false,
+  "job": false,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/53461525004554",
+    "259.00",
+    null
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10581106032906",
+  "handle": "exercise-ball-75cm",
+  "status": "ACTIVE",
+  "tags": [
+   "Gymstick",
+   "texter-klara",
+   "Träningsbollar"
+  ],
+  "tagg_att_lagga_till": "träningsboll",
+  "kollektion": "traningsboll",
+  "har_redan": false,
+  "job": false,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/53461525070090",
+    "369.00",
+    null
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10581106753802",
+  "handle": "flowball-65cm",
+  "status": "ACTIVE",
+  "tags": [
+   "Gymstick",
+   "texter-klara"
+  ],
+  "tagg_att_lagga_till": "träningsboll",
+  "kollektion": "traningsboll",
+  "har_redan": false,
+  "job": false,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/53461526479114",
+    "799.00",
+    null
+   ],
+   [
+    "gid://shopify/ProductVariant/53461526511882",
+    "799.00",
+    null
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10581109309706",
+  "handle": "office-ball-65cm",
+  "status": "ACTIVE",
+  "tags": [
+   "Gymstick",
+   "texter-klara"
+  ],
+  "tagg_att_lagga_till": "träningsboll",
+  "kollektion": "traningsboll",
+  "har_redan": false,
+  "job": false,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/53461532246282",
+    "699.00",
+    null
+   ],
+   [
+    "gid://shopify/ProductVariant/53461532279050",
+    "699.00",
+    null
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10581109866762",
+  "handle": "pro-core-ball-22cm",
+  "status": "ACTIVE",
+  "tags": [
+   "Gymstick",
+   "texter-klara"
+  ],
+  "tagg_att_lagga_till": "träningsboll",
+  "kollektion": "traningsboll",
+  "har_redan": false,
+  "job": false,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/53461533557002",
+    "89.00",
+    null
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10581111374090",
+  "handle": "slam-ball-12kg",
+  "status": "ACTIVE",
+  "tags": [
+   "Gymstick",
+   "Medicinbollar",
+   "texter-klara"
+  ],
+  "tagg_att_lagga_till": "träningsboll",
+  "kollektion": "traningsboll",
+  "har_redan": false,
+  "job": false,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/53461541880074",
+    "499.00",
+    null
+   ],
+   [
+    "gid://shopify/ProductVariant/53461541912842",
+    "699.00",
+    null
+   ],
+   [
+    "gid://shopify/ProductVariant/53461541945610",
+    "299.00",
+    null
+   ],
+   [
+    "gid://shopify/ProductVariant/53461541978378",
+    "399.00",
+    null
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10611453886730",
+  "handle": "vivid-core-ball-rosa",
+  "status": "ACTIVE",
+  "tags": [
+   "Gymstick",
+   "texter-klara"
+  ],
+  "tagg_att_lagga_till": "träningsboll",
+  "kollektion": "traningsboll",
+  "har_redan": false,
+  "job": false,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/53632941752586",
+    "89.00",
+    null
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10581119009034",
+  "handle": "vivid-fitness-ball-65cm",
+  "status": "ACTIVE",
+  "tags": [
+   "Gymstick",
+   "texter-klara",
+   "Träningsbollar"
+  ],
+  "tagg_att_lagga_till": "träningsboll",
+  "kollektion": "traningsboll",
+  "har_redan": false,
+  "job": false,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/53461555216650",
+    "289.00",
+    null
+   ],
+   [
+    "gid://shopify/ProductVariant/53461555249418",
+    "289.00",
+    null
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10581106131210",
+  "handle": "traningsboll-2-x-1-kg",
+  "status": "ACTIVE",
+  "tags": [
+   "Gymstick",
+   "texter-klara",
+   "Träningsbollar"
+  ],
+  "tagg_att_lagga_till": "träningsboll",
+  "kollektion": "traningsboll",
+  "har_redan": false,
+  "job": false,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/53461525201162",
+    "149.00",
+    null
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10462175265034",
+  "handle": "gymnastikboll-hms-yb03n-gym-ball-65-cm-gr-17-42-185",
+  "status": "ACTIVE",
+  "tags": [
+   "HMS",
+   "Konditionsträning & Fitness",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "tagg_att_lagga_till": "träningsboll",
+  "kollektion": "traningsboll",
+  "har_redan": false,
+  "job": false,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/52799791137034",
+    "259.00",
+    null
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10430370775306",
+  "handle": "traningsboll-tunturi-gymball-55cm-anti-burst-petrol",
+  "status": "ACTIVE",
+  "tags": [
+   "Konditionsträning & Fitness",
+   "texter-klara",
+   "Tunturi",
+   "Velomarket"
+  ],
+  "tagg_att_lagga_till": "träningsboll",
+  "kollektion": "traningsboll",
+  "har_redan": false,
+  "job": false,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/52657866703114",
+    "149.00",
+    null
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10461962764554",
+  "handle": "tr-ningsboll-tunturi-gymball-55cm-anti-burst-svart-14tusfu287",
+  "status": "ACTIVE",
+  "tags": [
+   "Fell",
+   "texter-klara",
+   "Träningsbollar",
+   "Tunturi",
+   "Velomarket"
+  ],
+  "tagg_att_lagga_till": "träningsboll",
+  "kollektion": "traningsboll",
+  "har_redan": false,
+  "job": false,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/52798571446538",
+    "139.00",
+    null
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10472265023754",
+  "handle": "tr-ningsboll-tunturi-gymball-65-cm-mint-anti-burst-gr-n-14tusfu335",
+  "status": "ACTIVE",
+  "tags": [
+   "Fell",
+   "Konditionsträning & Fitness",
+   "texter-klara",
+   "Tunturi",
+   "Velomarket"
+  ],
+  "tagg_att_lagga_till": "träningsboll",
+  "kollektion": "traningsboll",
+  "har_redan": false,
+  "job": false,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/52848428581130",
+    "179.00",
+    null
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10470998147338",
+  "handle": "tr-ningsboll-tunturi-gymball-75cm-anti-burst-lila-14tusfu338",
+  "status": "ACTIVE",
+  "tags": [
+   "Fell",
+   "texter-klara",
+   "Träningsbollar",
+   "Tunturi",
+   "Velomarket"
+  ],
+  "tagg_att_lagga_till": "träningsboll",
+  "kollektion": "traningsboll",
+  "har_redan": false,
+  "job": false,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/52844604326154",
+    "219.00",
+    null
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10472214921482",
+  "handle": "tr-ningsboll-tunturi-gymball-90cm-r-d-14tusfu283",
+  "status": "ACTIVE",
+  "tags": [
+   "texter-klara",
+   "Träningsbollar",
+   "Tunturi",
+   "Velomarket"
+  ],
+  "tagg_att_lagga_till": "träningsboll",
+  "kollektion": "traningsboll",
+  "har_redan": false,
+  "job": false,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/52848153002250",
+    "179.00",
+    null
+   ],
+   [
+    "gid://shopify/ProductVariant/52848153035018",
+    "139.00",
+    null
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10708320944394",
+  "handle": "tr-ningsb-nk-bh-fitness-pl-line-crunch-abdominal-bench-l835bb",
+  "status": "ACTIVE",
+  "tags": [
+   "BH Fitness",
+   "price-change-job-active",
+   "Professionell utrustning",
+   "På beställning",
+   "sale",
+   "Velomarket"
+  ],
+  "tagg_att_lagga_till": "träningsbänk",
+  "kollektion": "traningsbank",
+  "har_redan": false,
+  "job": true,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/54085584093450",
+    "13256.10",
+    "14729.00"
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10708321075466",
+  "handle": "tr-ningsb-nk-bh-fitness-pl-line-horisontell-olympisk-b-nk-l815bb",
+  "status": "ACTIVE",
+  "tags": [
+   "BH Fitness",
+   "price-change-job-active",
+   "Professionell utrustning",
+   "På beställning",
+   "sale",
+   "Velomarket"
+  ],
+  "tagg_att_lagga_till": "träningsbänk",
+  "kollektion": "traningsbank",
+  "har_redan": false,
+  "job": true,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/54085584224522",
+    "20019.00",
+    "19879.00"
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10708321042698",
+  "handle": "tr-ningsb-nk-bh-fitness-pl-line-lutande-pressb-nk-l820bb",
+  "status": "ACTIVE",
+  "tags": [
+   "BH Fitness",
+   "price-change-job-active",
+   "Professionell utrustning",
+   "På beställning",
+   "sale",
+   "Velomarket"
+  ],
+  "tagg_att_lagga_till": "träningsbänk",
+  "kollektion": "traningsbank",
+  "har_redan": false,
+  "job": true,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/54085584191754",
+    "25389.00",
+    "25209.00"
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10708320977162",
+  "handle": "tr-ningsb-nk-bh-fitness-pl-line-multi-positioned-bench-l825bb",
+  "status": "ACTIVE",
+  "tags": [
+   "BH Fitness",
+   "price-change-job-active",
+   "Professionell utrustning",
+   "På beställning",
+   "sale",
+   "Velomarket"
+  ],
+  "tagg_att_lagga_till": "träningsbänk",
+  "kollektion": "traningsbank",
+  "har_redan": false,
+  "job": true,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/54085584126218",
+    "20019.00",
+    "19879.00"
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10708320911626",
+  "handle": "tr-ningsb-nk-bh-fitness-pl-line-roman-chair-l840bb",
+  "status": "ACTIVE",
+  "tags": [
+   "BH Fitness",
+   "price-change-job-active",
+   "Professionell utrustning",
+   "På beställning",
+   "sale",
+   "Velomarket"
+  ],
+  "tagg_att_lagga_till": "träningsbänk",
+  "kollektion": "traningsbank",
+  "har_redan": false,
+  "job": true,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/54085584060682",
+    "8738.10",
+    "9709.00"
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10708321009930",
+  "handle": "tr-ningsb-nk-bh-fitness-pl-line-scottb-nk-l830bb",
+  "status": "ACTIVE",
+  "tags": [
+   "BH Fitness",
+   "price-change-job-active",
+   "Professionell utrustning",
+   "På beställning",
+   "sale",
+   "Velomarket"
+  ],
+  "tagg_att_lagga_till": "träningsbänk",
+  "kollektion": "traningsbank",
+  "har_redan": false,
+  "job": true,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/54085584158986",
+    "9999.00",
+    "9929.00"
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10708320846090",
+  "handle": "tr-ningsb-nk-bh-fitness-pl-line-shoulder-press-bench-l850bb",
+  "status": "ACTIVE",
+  "tags": [
+   "BH Fitness",
+   "price-change-job-active",
+   "Professionell utrustning",
+   "På beställning",
+   "sale",
+   "Velomarket"
+  ],
+  "tagg_att_lagga_till": "träningsbänk",
+  "kollektion": "traningsbank",
+  "har_redan": false,
+  "job": true,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/54085583962378",
+    "18908.10",
+    "21009.00"
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10565602410762",
+  "handle": "tr-ningsb-nk-bh-fitness-optima-press-g330b",
+  "status": "ACTIVE",
+  "tags": [
+   "BH Fitness",
+   "Konditionsträning & Fitness",
+   "price-change-job-active",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "tagg_att_lagga_till": "träningsbänk",
+  "kollektion": "traningsbank",
+  "har_redan": false,
+  "job": true,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/53355637539082",
+    "7019.00",
+    "6969.00"
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10589705568522",
+  "handle": "bh-fitness-weight-bench-g312",
+  "status": "ACTIVE",
+  "tags": [
+   "BH Fitness",
+   "Konditionsträning & Fitness",
+   "price-change-job-active",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "tagg_att_lagga_till": "träningsbänk",
+  "kollektion": "traningsbank",
+  "har_redan": false,
+  "job": true,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/53504308281610",
+    "3569.00",
+    "3549.00"
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10472323481866",
+  "handle": "weight-bench-bh-fitness-adjustable-g322",
+  "status": "ACTIVE",
+  "tags": [
+   "BH Fitness",
+   "Konditionsträning & Fitness",
+   "price-change-job-active",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "tagg_att_lagga_till": "träningsbänk",
+  "kollektion": "traningsbank",
+  "har_redan": false,
+  "job": true,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/52848787259658",
+    "4839.00",
+    "4809.00"
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10494691639562",
+  "handle": "tr-ningsb-nk-christopeit-horse-glider-30-1732",
+  "status": "ACTIVE",
+  "tags": [
+   "Christopeit",
+   "Konditionsträning & Fitness",
+   "price-change-job-active",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "tagg_att_lagga_till": "träningsbänk",
+  "kollektion": "traningsbank",
+  "har_redan": false,
+  "job": true,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/52980985921802",
+    "3179.00",
+    "3159.00"
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10507302764810",
+  "handle": "tr-ningsb-nk-finnlo-by-hammer-tricon-flex-16002",
+  "status": "ACTIVE",
+  "tags": [
+   "Finnlo by Hammer",
+   "Konditionsträning & Fitness",
+   "price-change-job-active",
+   "sale",
+   "sync-skydd",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "tagg_att_lagga_till": "träningsbänk",
+  "kollektion": "traningsbank",
+  "har_redan": false,
+  "job": true,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/53049406030090",
+    "3815.10",
+    "4239.00"
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10507303354634",
+  "handle": "tr-ningsb-nk-hammer-force-2-0-5200",
+  "status": "ACTIVE",
+  "tags": [
+   "Hammer",
+   "Konditionsträning & Fitness",
+   "price-change-job-active",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "tagg_att_lagga_till": "träningsbänk",
+  "kollektion": "traningsbank",
+  "har_redan": false,
+  "job": true,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/53049416777994",
+    "4239.00",
+    "4209.00"
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10507262624010",
+  "handle": "viktb-nk-hammer-force-4-0-5202",
+  "status": "ACTIVE",
+  "tags": [
+   "Hammer",
+   "Konditionsträning & Fitness",
+   "price-change-job-active",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "tagg_att_lagga_till": "träningsbänk",
+  "kollektion": "traningsbank",
+  "har_redan": false,
+  "job": true,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/53049278234890",
+    "5579.00",
+    "5539.00"
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10605384892682",
+  "handle": "viktb-nk-hammer-force-5-0-16004",
+  "status": "ACTIVE",
+  "tags": [
+   "Hammer",
+   "Konditionsträning & Fitness",
+   "price-change-job-active",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "tagg_att_lagga_till": "träningsbänk",
+  "kollektion": "traningsbank",
+  "har_redan": false,
+  "job": true,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/53602733719818",
+    "6189.00",
+    "6139.00"
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10472298840330",
+  "handle": "treeningpink-hammer-force-6-0-16001",
+  "status": "ACTIVE",
+  "tags": [
+   "Hammer",
+   "Konditionsträning & Fitness",
+   "price-change-job-active",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "tagg_att_lagga_till": "träningsbänk",
+  "kollektion": "traningsbank",
+  "har_redan": false,
+  "job": true,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/52848514466058",
+    "6239.00",
+    "6199.00"
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10708312293642",
+  "handle": "tr-ningsb-nk-tunturi-platinum-horisontell-b-nkpress-plate-loaded-v-series-25pvp26000",
+  "status": "ACTIVE",
+  "tags": [
+   "price-change-job-active",
+   "Professionell utrustning",
+   "sale",
+   "Tunturi",
+   "Velomarket"
+  ],
+  "tagg_att_lagga_till": "träningsbänk",
+  "kollektion": "traningsbank",
+  "har_redan": false,
+  "job": true,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/54085513445642",
+    "12349.00",
+    "12259.00"
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10541111443722",
+  "handle": "powerb-nk-tunturi-ct80-core-trainer-17tsct8000",
+  "status": "ACTIVE",
+  "tags": [
+   "Gymstick",
+   "Konditionsträning & Fitness",
+   "price-change-job-active",
+   "sale",
+   "texter-klara",
+   "Tunturi",
+   "Velomarket"
+  ],
+  "tagg_att_lagga_till": "träningsbänk",
+  "kollektion": "traningsbank",
+  "har_redan": false,
+  "job": true,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/53213962109194",
+    "4519.00",
+    "4479.00"
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10598559842570",
+  "handle": "tr-ningsb-nk-tunturi-platinum-utility-bench-v-series-25pvp28000",
+  "status": "ACTIVE",
+  "tags": [
+   "price-change-job-active",
+   "Professionell utrustning",
+   "sale",
+   "texter-klara",
+   "Tunturi",
+   "Velomarket"
+  ],
+  "tagg_att_lagga_till": "träningsbänk",
+  "kollektion": "traningsbank",
+  "har_redan": false,
+  "job": true,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/53552258089226",
+    "9519.00",
+    "9449.00"
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10472255258890",
+  "handle": "lyftb-nk-tunturi-ub40-utility-bench-17tsub4000",
+  "status": "ACTIVE",
+  "tags": [
+   "Fell",
+   "Gymstick",
+   "Konditionsträning & Fitness",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Träningsbänkar",
+   "Tunturi",
+   "Velomarket"
+  ],
+  "tagg_att_lagga_till": "träningsbänk",
+  "kollektion": "traningsbank",
+  "har_redan": false,
+  "job": true,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/52848407904522",
+    "2679.00",
+    "2659.00"
+   ]
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/10541268795658",
+  "handle": "tr-ningsb-nk-tunturi-ub70-utility-bench-25tsub7000",
+  "status": "ACTIVE",
+  "tags": [
+   "Konditionsträning & Fitness",
+   "price-change-job-active",
+   "sale",
+   "sync-skydd",
+   "texter-klara",
+   "Tunturi",
+   "Velomarket"
+  ],
+  "tagg_att_lagga_till": "träningsbänk",
+  "kollektion": "traningsbank",
+  "har_redan": false,
+  "job": true,
+  "priser": [
+   [
+    "gid://shopify/ProductVariant/53214321770762",
+    "4279.00",
+    "4289.00"
+   ]
+  ]
+ }
+]
