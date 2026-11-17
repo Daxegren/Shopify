@@ -1,0 +1,1246 @@
+{
+ "fore": {
+  "id": "gid://shopify/Collection/526982414602",
+  "handle": "boxning",
+  "title": "Boxning",
+  "updatedAt": "2026-11-17T14:11:39Z",
+  "descriptionHtml": "<p data-start=\"363\" data-end=\"705\" style=\"text-align: left;\">Letar du efter utrustning för boxning hemma eller på gymmet? Hos Best Of Sports hittar du ett komplett sortiment av boxningsutrustning som passar både nybörjare och avancerade atleter. Boxning är en effektiv träningsform som kombinerar styrka, kondition, snabbhet och koordination, och med rätt utrustning blir träningen både säker och rolig.</p>\n<h2 data-start=\"707\" data-end=\"746\" style=\"text-align: left;\"><strong data-start=\"707\" data-end=\"744\">Boxningssäckar och stående säckar</strong></h2>\n<p data-start=\"748\" data-end=\"1095\" style=\"text-align: left;\">Vi erbjuder boxningssäckar i olika storlekar och material, från traditionella hängande säckar till stående säckar som passar hemma. Boxningssäckar är perfekta för att träna slagkraft, uthållighet och explosivitet. Stående boxningssäckar är idealiska för mindre utrymmen och gör det möjligt att träna precision och timing utan behov av montering.</p>\n<h2 data-start=\"1097\" data-end=\"1130\" style=\"text-align: left;\"><strong data-start=\"1097\" data-end=\"1128\">Boxningshandskar och mitsar</strong></h2>\n<p data-start=\"1132\" data-end=\"1390\" style=\"text-align: left;\">Rätt handskar är avgörande för både säkerhet och prestanda. Vi har boxningshandskar i olika material, vikter och modeller för nybörjare och proffs. Kombinera med mitsar för partnerträning och utveckla teknik, reaktionsförmåga och styrka på ett säkert sätt.</p>\n<h2 data-start=\"1392\" data-end=\"1422\" style=\"text-align: left;\"><strong data-start=\"1392\" data-end=\"1420\">Päronboll och reflexboll</strong></h2>\n<p data-start=\"1424\" data-end=\"1749\" style=\"text-align: left;\">För snabbhet, timing och koordination erbjuder vi päronbollar och reflexbollar. Dessa redskap tränar både öga-hand-koordination och snabbhet, vilket är avgörande inom boxning och kampsport. Päronbollen passar utmärkt för precisionsträning och explosiva slag, medan reflexbollen är perfekt för snabbhet och reaktionsförmåga.</p>\n<h2 data-start=\"1751\" data-end=\"1789\" style=\"text-align: left;\"><strong data-start=\"1751\" data-end=\"1787\">Prisvärda och premium alternativ</strong></h2>\n<p data-start=\"1791\" data-end=\"2128\" style=\"text-align: left;\">Hos Best Of Sports hittar du både prisvärda boxningsprodukter och premiumalternativ med hög kvalitet och lång hållbarhet. Våra produkter är slitstarka, ergonomiska och designade för att tåla intensiv träning. Med rätt boxningsutrustning kan du träna hela kroppen, förbättra kondition och styrka, och samtidigt ha roligt under varje pass.</p>\n<h2 data-start=\"2130\" data-end=\"2152\" style=\"text-align: left;\"><strong data-start=\"2130\" data-end=\"2150\">Kända varumärken</strong></h2>\n<p data-start=\"2154\" data-end=\"2410\" style=\"text-align: left;\">Vi erbjuder boxningsutrustning från pålitliga varumärken som TUNTURI, CHRISTOPEIT, KETTLER, HAMMER, BH Fitness, Gorilla Sports och MAXXUS. Dessa märken står för kvalitet, slitstyrka och funktionalitet, och passar både nybörjare och professionella boxare.</p>\n<h2 data-start=\"2412\" data-end=\"2465\" style=\"text-align: left;\"><strong data-start=\"2412\" data-end=\"2463\">Varför köpa boxningsutrustning hos Best Of Sports</strong></h2>\n<p data-start=\"2467\" data-end=\"2777\" style=\"text-align: left;\">Hos Best Of Sports kan du köpa boxningsutrustning online med snabb leverans och trygg service. Våra produkter är byggda för maximal säkerhet, komfort och funktion, oavsett träningsnivå. Utforska vårt sortiment idag och hitta den perfekta utrustningen som gör din boxningsträning både effektiv, rolig och säker.</p>",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "boxning",
+  "seo": {
+   "title": "Boxning – Utrustning för styrka, kondition och teknik - Stort utbud",
+   "description": "Upptäck boxningshandskar, mitsar, boxningssäckar och päronbollar. Perfekt för träning hemma eller på gym, för nybörjare och avancerade. Snabb leverans."
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "boxning"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "boxningssäck"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "Boxningsutrustning"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "stående boxningssäck"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "boxningshandskar"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "Boxningspads"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 105
+  }
+ },
+ "produkter_fore": {
+  "gid://shopify/Product/10636741411082": [
+   "DRAFT",
+   [
+    "all products",
+    "boxning",
+    "hopprep",
+    "sjippetorv"
+   ],
+   "2.92"
+  ],
+  "gid://shopify/Product/10636717785354": [
+   "DRAFT",
+   [
+    "boxning",
+    "fäste",
+    "montering",
+    "repfäste",
+    "takfäste",
+    "upphängning",
+    "väggfäste"
+   ],
+   "137.0"
+  ],
+  "gid://shopify/Product/10636714639626": [
+   "DRAFT",
+   [
+    "all products",
+    "boxning",
+    "hopprep",
+    "sjippetorv"
+   ],
+   "199.0"
+  ],
+  "gid://shopify/Product/10636714475786": [
+   "DRAFT",
+   [
+    "Boxning",
+    "Boxningspads",
+    "Pads",
+    "boxningstillbehör",
+    "slag",
+    "sparkar"
+   ],
+   "16.92"
+  ],
+  "gid://shopify/Product/10636714115338": [
+   "DRAFT",
+   [
+    "Boxningssäck",
+    "all products",
+    "boxning",
+    "boxningsboll",
+    "boxningstillbehör",
+    "kampsport",
+    "slag",
+    "säck"
+   ],
+   "12.85"
+  ],
+  "gid://shopify/Product/10636713951498": [
+   "DRAFT",
+   [
+    "Boxningssäck",
+    "boxning",
+    "boxningspaket",
+    "kampsport",
+    "price-change-job-active",
+    "sale",
+    "säck"
+   ],
+   "1295.1"
+  ],
+  "gid://shopify/Product/10636713853194": [
+   "DRAFT",
+   [
+    "boxningshandskar",
+    "mma",
+    "mma handskar",
+    "mmahandskar"
+   ],
+   "459.0"
+  ],
+  "gid://shopify/Product/10636713361674": [
+   "DRAFT",
+   [
+    "all products",
+    "ankel",
+    "ankelvikt",
+    "ankelvikter",
+    "boxning",
+    "boxningstillbehör",
+    "fotled",
+    "fotledsvikt",
+    "fotvikt",
+    "handled",
+    "handledsvikt",
+    "handvikt",
+    "håndledvægt",
+    "jogga",
+    "konditions",
+    "löpning",
+    "viktmanchett",
+    "vristvikt"
+   ],
+   "7.88"
+  ],
+  "gid://shopify/Product/10636713197834": [
+   "DRAFT",
+   [
+    "Bokse bandage",
+    "Boksebandage",
+    "all products",
+    "boxarlindor",
+    "boxning",
+    "boxningslinda",
+    "boxningslindor",
+    "boxningstillbehör",
+    "handledslinda",
+    "handledslindor",
+    "kampsport",
+    "linda",
+    "lindor"
+   ],
+   "2.04"
+  ],
+  "gid://shopify/Product/10636712837386": [
+   "ARCHIVED",
+   [
+    "boxning",
+    "boxningshjälm",
+    "boxningstillbehör",
+    "hjälm",
+    "kampsport",
+    "sparring",
+    "sparringhjälm"
+   ],
+   "9.22"
+  ],
+  "gid://shopify/Product/10636712575242": [
+   "DRAFT",
+   [
+    "Boxningshandskar",
+    "all products",
+    "boxhandskar",
+    "boxning",
+    "boxnings handskar",
+    "handskar",
+    "säck",
+    "säck handskar",
+    "säckhandskar",
+    "träningshandskar"
+   ],
+   "19.25"
+  ],
+  "gid://shopify/Product/10636707627274": [
+   "DRAFT",
+   [
+    "boxning",
+    "boxningspaket",
+    "paket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2483.1"
+  ],
+  "gid://shopify/Product/10636695011594": [
+   "DRAFT",
+   [
+    "boxning",
+    "boxningssäck",
+    "stående boxning",
+    "stående boxningssäck"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10636694946058": [
+   "DRAFT",
+   [
+    "Boxningspaket",
+    "boxning"
+   ],
+   "653.0"
+  ],
+  "gid://shopify/Product/10636694847754": [
+   "DRAFT",
+   [
+    "boxning",
+    "boxningssäck",
+    "price-change-job-active",
+    "sale",
+    "stående boxning",
+    "stående boxningssäck"
+   ],
+   "3441.6"
+  ],
+  "gid://shopify/Product/10636694749450": [
+   "DRAFT",
+   [
+    "Boxning",
+    "boxningssäck",
+    "price-change-job-active",
+    "sale",
+    "säck"
+   ],
+   "989.1"
+  ],
+  "gid://shopify/Product/10636694651146": [
+   "DRAFT",
+   [
+    "Boxning",
+    "boxningssäck",
+    "price-change-job-active",
+    "sale",
+    "säck"
+   ],
+   "1100.7"
+  ],
+  "gid://shopify/Product/10636692881674": [
+   "DRAFT",
+   [
+    "boxning",
+    "boxnings handskar",
+    "boxningshandskar",
+    "kampsport",
+    "price-change-job-active",
+    "sale"
+   ],
+   "926.1"
+  ],
+  "gid://shopify/Product/10636692357386": [
+   "DRAFT",
+   [
+    "Boxning",
+    "boxningssäck",
+    "price-change-job-active",
+    "sale",
+    "säck"
+   ],
+   "928.8"
+  ],
+  "gid://shopify/Product/10636692259082": [
+   "DRAFT",
+   [
+    "Boxningspaket",
+    "boxning",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1892.7"
+  ],
+  "gid://shopify/Product/10636692128010": [
+   "DRAFT",
+   [
+    "Boxningspaket",
+    "boxning",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1892.7"
+  ],
+  "gid://shopify/Product/10636691931402": [
+   "DRAFT",
+   [
+    "Boxningspaket",
+    "boxning",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1583.1"
+  ],
+  "gid://shopify/Product/10636691833098": [
+   "DRAFT",
+   [
+    "Boxningspaket",
+    "boxning",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1583.1"
+  ],
+  "gid://shopify/Product/10636691603722": [
+   "DRAFT",
+   [
+    "Boxningspaket",
+    "boxning",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1583.1"
+  ],
+  "gid://shopify/Product/10636688818442": [
+   "DRAFT",
+   [
+    "Boxningspaket",
+    "all products",
+    "boxning",
+    "price-change-job-active",
+    "sale"
+   ],
+   "3014.1"
+  ],
+  "gid://shopify/Product/10636687606026": [
+   "ACTIVE",
+   [
+    "boxning",
+    "price-change-job-active",
+    "päronboll",
+    "sale",
+    "texter-klara"
+   ],
+   "1664.1"
+  ],
+  "gid://shopify/Product/10636668961034": [
+   "DRAFT",
+   [
+    "all products",
+    "ankel",
+    "ankelvikt",
+    "ankelvikter",
+    "boxning",
+    "fotled",
+    "fotledsvikt",
+    "fotvikt",
+    "handled",
+    "handledsvikt",
+    "handvikt",
+    "håndledvægt",
+    "jogga",
+    "konditions",
+    "löpning",
+    "price-change-job-active",
+    "sale",
+    "viktmanchett",
+    "vristvikt"
+   ],
+   "1016.1"
+  ],
+  "gid://shopify/Product/10636667453706": [
+   "DRAFT",
+   [
+    "boxning",
+    "boxnings handskar",
+    "boxningshandskar",
+    "kampsport"
+   ],
+   "578.0"
+  ],
+  "gid://shopify/Product/10636667289866": [
+   "DRAFT",
+   [
+    "boxning",
+    "boxnings handskar",
+    "boxningshandskar",
+    "kampsport"
+   ],
+   "578.0"
+  ],
+  "gid://shopify/Product/10636667093258": [
+   "DRAFT",
+   [
+    "boxning",
+    "boxnings handskar",
+    "boxningshandskar",
+    "kampsport"
+   ],
+   "378.0"
+  ],
+  "gid://shopify/Product/10636666962186": [
+   "DRAFT",
+   [
+    "boxning",
+    "boxnings handskar",
+    "boxningshandskar",
+    "kampsport"
+   ],
+   "378.0"
+  ],
+  "gid://shopify/Product/10636666634506": [
+   "ARCHIVED",
+   [
+    "boxning",
+    "boxningssäck",
+    "price-change-job-active",
+    "sale",
+    "stående boxning",
+    "stående boxningssäck"
+   ],
+   "6299.1"
+  ],
+  "gid://shopify/Product/10636666470666": [
+   "ARCHIVED",
+   [
+    "boxning",
+    "boxningssäck",
+    "price-change-job-active",
+    "sale",
+    "stående boxning",
+    "stående boxningssäck"
+   ],
+   "7919.1"
+  ],
+  "gid://shopify/Product/10636663881994": [
+   "ARCHIVED",
+   [
+    "boxning",
+    "boxnings handskar",
+    "boxningshandskar",
+    "kampsport"
+   ],
+   "12.8"
+  ],
+  "gid://shopify/Product/10636663718154": [
+   "DRAFT",
+   [
+    "boxning",
+    "boxnings handskar",
+    "boxningshandskar",
+    "kampsport"
+   ],
+   "344.0"
+  ],
+  "gid://shopify/Product/10636660310282": [
+   "DRAFT",
+   [
+    "boxning",
+    "boxningspaket",
+    "kampsport",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1945.8"
+  ],
+  "gid://shopify/Product/10636659196170": [
+   "DRAFT",
+   [
+    "Boxningshandskar",
+    "boxhandskar",
+    "boxning",
+    "boxnings handskar",
+    "handskar",
+    "säck",
+    "säck handskar",
+    "säckhandskar",
+    "träningshandskar"
+   ],
+   "13.53"
+  ],
+  "gid://shopify/Product/10636658934026": [
+   "DRAFT",
+   [
+    "Boxningshandskar",
+    "boxhandskar",
+    "boxning",
+    "boxnings handskar",
+    "handskar",
+    "säck",
+    "säck handskar",
+    "säckhandskar",
+    "träningshandskar"
+   ],
+   "412.0"
+  ],
+  "gid://shopify/Product/10636658802954": [
+   "DRAFT",
+   [
+    "Boxningshandskar",
+    "boxhandskar",
+    "boxning",
+    "boxnings handskar",
+    "handskar",
+    "säck",
+    "säck handskar",
+    "säckhandskar",
+    "träningshandskar"
+   ],
+   "412.0"
+  ],
+  "gid://shopify/Product/10636658639114": [
+   "DRAFT",
+   [
+    "Boxningspaket",
+    "boxning",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1376.1"
+  ],
+  "gid://shopify/Product/10636658376970": [
+   "DRAFT",
+   [
+    "Boxningshandskar",
+    "boxhandskar",
+    "boxning",
+    "boxnings handskar",
+    "handskar",
+    "säck",
+    "säck handskar",
+    "säckhandskar",
+    "träningshandskar"
+   ],
+   "344.0"
+  ],
+  "gid://shopify/Product/10636658213130": [
+   "DRAFT",
+   [
+    "Boxningshandskar",
+    "boxhandskar",
+    "boxning",
+    "boxnings handskar",
+    "handskar",
+    "säck",
+    "säck handskar",
+    "säckhandskar",
+    "träningshandskar"
+   ],
+   "385.0"
+  ],
+  "gid://shopify/Product/10636657688842": [
+   "DRAFT",
+   [
+    "Boxningshandskar",
+    "boxhandskar",
+    "boxning",
+    "boxnings handskar",
+    "handskar",
+    "säck",
+    "säck handskar",
+    "säckhandskar",
+    "träningshandskar"
+   ],
+   "344.0"
+  ],
+  "gid://shopify/Product/10636656771338": [
+   "DRAFT",
+   [
+    "Boxningshandskar",
+    "boxhandskar",
+    "boxning",
+    "boxnings handskar",
+    "handskar",
+    "säck",
+    "säck handskar",
+    "säckhandskar",
+    "träningshandskar"
+   ],
+   "406.0"
+  ],
+  "gid://shopify/Product/10636656607498": [
+   "DRAFT",
+   [
+    "Boxningspaket",
+    "boxning"
+   ],
+   "91.46"
+  ],
+  "gid://shopify/Product/10636656443658": [
+   "DRAFT",
+   [
+    "Boxningspaket",
+    "boxning",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1926.9"
+  ],
+  "gid://shopify/Product/10636656247050": [
+   "DRAFT",
+   [
+    "Boxningspaket",
+    "boxning",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1926.9"
+  ],
+  "gid://shopify/Product/10636656083210": [
+   "DRAFT",
+   [
+    "Boxning",
+    "boxningspaket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1513.8"
+  ],
+  "gid://shopify/Product/10636655919370": [
+   "DRAFT",
+   [
+    "Boxningspaket",
+    "boxning",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1513.8"
+  ],
+  "gid://shopify/Product/10636655755530": [
+   "DRAFT",
+   [
+    "Boxningspaket",
+    "boxning",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1789.2"
+  ],
+  "gid://shopify/Product/10636654182666": [
+   "DRAFT",
+   [
+    "Boxningspaket",
+    "boxning"
+   ],
+   "80.77"
+  ],
+  "gid://shopify/Product/10636645499146": [
+   "DRAFT",
+   [
+    "Boxning",
+    "boxningssäck",
+    "price-change-job-active",
+    "sale",
+    "säck"
+   ],
+   "1286.1"
+  ],
+  "gid://shopify/Product/10636644385034": [
+   "DRAFT",
+   [
+    "Boxning",
+    "boxningssäck",
+    "price-change-job-active",
+    "sale",
+    "stående boxningssäck",
+    "säck"
+   ],
+   "3410.1"
+  ],
+  "gid://shopify/Product/10636644221194": [
+   "DRAFT",
+   [
+    "boxning",
+    "hopprep",
+    "sjippetorv"
+   ],
+   "61.0"
+  ],
+  "gid://shopify/Product/10636642058506": [
+   "DRAFT",
+   [
+    "Upphängning",
+    "boxning",
+    "krok",
+    "price-change-job-active",
+    "sale"
+   ],
+   "989.1"
+  ],
+  "gid://shopify/Product/10636633899274": [
+   "ARCHIVED",
+   [
+    "boxning",
+    "boxningspaket"
+   ],
+   "51.72"
+  ],
+  "gid://shopify/Product/10636633735434": [
+   "ARCHIVED",
+   [
+    "boxning",
+    "boxningspaket"
+   ],
+   "32.2"
+  ],
+  "gid://shopify/Product/10636627280138": [
+   "ARCHIVED",
+   [
+    "barn",
+    "barn boxingset",
+    "barn boxning",
+    "boxning",
+    "boxningspaket"
+   ],
+   "28.54"
+  ],
+  "gid://shopify/Product/10636601655562": [
+   "ACTIVE",
+   [
+    "Maxxus",
+    "boxning",
+    "boxningssäck",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1052.1"
+  ],
+  "gid://shopify/Product/10636601458954": [
+   "ACTIVE",
+   [
+    "Maxxus",
+    "boxning",
+    "boxningssäck",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1169.1"
+  ],
+  "gid://shopify/Product/10623399657738": [
+   "DRAFT",
+   [
+    "Boxning",
+    "Gymstick"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10581118746890": [
+   "DRAFT",
+   [
+    "Boxning",
+    "Gymstick"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10581114781962": [
+   "DRAFT",
+   [
+    "Boxning",
+    "Gymstick"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10581114487050": [
+   "DRAFT",
+   [
+    "Boxning",
+    "Gymstick",
+    "Plyo Boxar"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10581113700618": [
+   "DRAFT",
+   [
+    "Boxning",
+    "Gymstick",
+    "Plyo Boxar"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10581105082634": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Gymstick",
+    "texter-klara"
+   ],
+   "119.0"
+  ],
+  "gid://shopify/Product/10581105049866": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Gymstick",
+    "texter-klara"
+   ],
+   "389.0"
+  ],
+  "gid://shopify/Product/10581099086090": [
+   "DRAFT",
+   [
+    "Boxning",
+    "Gymstick"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10581099020554": [
+   "DRAFT",
+   [
+    "Boxning",
+    "Gymstick"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10581098955018": [
+   "DRAFT",
+   [
+    "Boxning",
+    "Gymstick"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10581098692874": [
+   "DRAFT",
+   [
+    "Boxning",
+    "Gymstick"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10581098496266": [
+   "DRAFT",
+   [
+    "Boxning",
+    "Gymstick"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10581098037514": [
+   "DRAFT",
+   [
+    "Boxning",
+    "Gymstick"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10581098004746": [
+   "DRAFT",
+   [
+    "Boxning",
+    "Gymstick"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10581097971978": [
+   "DRAFT",
+   [
+    "Boxning",
+    "Gymstick"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10581097939210": [
+   "DRAFT",
+   [
+    "Boxning",
+    "Gymstick"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10581097840906": [
+   "DRAFT",
+   [
+    "Boxning",
+    "Gymstick"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10581097808138": [
+   "DRAFT",
+   [
+    "Boxning",
+    "Gymstick"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10541114491146": [
+   "ACTIVE",
+   [
+    "Boxningsutrustning",
+    "Cykelväska",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1739.0"
+  ],
+  "gid://shopify/Product/10494766907658": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Boxningsutrustning",
+    "Cykelväska",
+    "Fell",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2079.0"
+  ],
+  "gid://shopify/Product/10475982520586": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Boxningsutrustning",
+    "Cykelväska",
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "239.0"
+  ],
+  "gid://shopify/Product/10475982029066": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Boxningsutrustning",
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "629.0"
+  ],
+  "gid://shopify/Product/10475981865226": [
+   "ACTIVE",
+   [
+    "Boxningsutrustning",
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "619.0"
+  ],
+  "gid://shopify/Product/10475517804810": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "289.0"
+  ],
+  "gid://shopify/Product/10472302575882": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "6429.0"
+  ],
+  "gid://shopify/Product/10472299954442": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Cykelväska",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "stående boxningssäck",
+    "texter-klara"
+   ],
+   "2029.0"
+  ],
+  "gid://shopify/Product/10472283865354": [
+   "ACTIVE",
+   [
+    "Boxningsutrustning",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "89.0"
+  ],
+  "gid://shopify/Product/10472279605514": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "319.0"
+  ],
+  "gid://shopify/Product/10472279572746": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "289.0"
+  ],
+  "gid://shopify/Product/10472279539978": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "429.0"
+  ],
+  "gid://shopify/Product/10472271184138": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Boxningsutrustning",
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "429.0"
+  ],
+  "gid://shopify/Product/10472270561546": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "699.0"
+  ],
+  "gid://shopify/Product/10472270102794": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "699.0"
+  ],
+  "gid://shopify/Product/10472268824842": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "429.0"
+  ],
+  "gid://shopify/Product/10472259813642": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Boxningsutrustning",
+    "Cykelväska",
+    "Fell",
+    "Gymstick",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "boxningssäck",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "5519.0"
+  ],
+  "gid://shopify/Product/10472259354890": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Boxningsutrustning",
+    "Cykelväska",
+    "Fell",
+    "Kedja",
+    "Tunturi",
+    "Velomarket",
+    "boxningssäck",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1839.0"
+  ],
+  "gid://shopify/Product/10472254603530": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Boxningsutrustning",
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "429.0"
+  ],
+  "gid://shopify/Product/10472243298570": [
+   "ACTIVE",
+   [
+    "Boxningsutrustning",
+    "Cykelväska",
+    "Velomarket",
+    "Zipro"
+   ],
+   "259.0"
+  ],
+  "gid://shopify/Product/10472202731786": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Boxningsutrustning",
+    "Cykelväska",
+    "Fell",
+    "Kedja",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1839.0"
+  ],
+  "gid://shopify/Product/10472202436874": [
+   "DRAFT",
+   [
+    "Boxning",
+    "Boxningsutrustning",
+    "Cykelväska",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "139.0"
+  ],
+  "gid://shopify/Product/10468720476426": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "429.0"
+  ],
+  "gid://shopify/Product/10468720378122": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "319.0"
+  ],
+  "gid://shopify/Product/10462774395146": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "699.0"
+  ],
+  "gid://shopify/Product/10462758469898": [
+   "ACTIVE",
+   [
+    "Boxing equipment",
+    "Boxning",
+    "Fell",
+    "Herrcykel",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "8149.0"
+  ],
+  "gid://shopify/Product/10411720704266": [
+   "ACTIVE",
+   [
+    "Boxningsutrustning",
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "benskydd",
+    "texter-klara"
+   ],
+   "259.0"
+  ]
+ }
+}

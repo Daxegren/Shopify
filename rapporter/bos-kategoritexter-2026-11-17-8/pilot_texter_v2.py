@@ -31,11 +31,11 @@ T = {
  "Köp crosstrainer från bland annat Christopeit, Hammer, Tunturi, BH Fitness och Gymstick. Här finns minst 20 produkter hos BEST OF SPORTS."),
 'hantlar': (
  ["BEST OF SPORTS säljer hantlar, hantelset och justerbara hantlar från bland annat Tunturi, Gymstick, Toorx, Hammer och Christopeit. Här finns minst 50 produkter.",
-  "Vikterna i produktnamnen börjar vid 0,5 kg. Hantelset finns på bland annat 15, 20 och 28 kg, och kombinerade hantel- och skivstångsset på bland annat 20 och 50 kg. Material som anges i titlarna är bland annat gjutjärn, vinyl, neopren och gummi. Tunturi har flest produkter.",
+  "Vikterna i produktnamnen går från 0,5 kg upp till 60 kg, som är den största vikten som anges för ett paket: Skivstångs- och Hantelset Gymstick, Vinyl, 60 kg. Hantelset finns på bland annat 15, 20 och 28 kg, och kombinerade hantel- och skivstångsset på bland annat 20, 50 och 60 kg. Material som anges i titlarna är bland annat gjutjärn, vinyl, neopren och gummi. Tunturi har flest produkter.",
   PRIS,
   "Exempel på produkter: Hantelset Tunturi Vinyl, 28 kg; Justerbar Hantel Hammer SmartLock med Vrid-och-lås-mekanism; Hantel Zipro HEX gummerad 2,5 kg, svart."],
  "Hantlar – Hantelset och justerbara hantlar",
- "Köp hantlar, hantelset och justerbara hantlar från bland annat Tunturi, Gymstick, Toorx och Hammer. Vikter från 0,5 kg. Minst 50 produkter."),
+ "Köp hantlar, hantelset och justerbara hantlar från bland annat Tunturi, Gymstick, Toorx och Hammer. Vikter från 0,5 kg upp till 60 kg i största paketet."),
 'kettlebell': (
  ["BEST OF SPORTS säljer kettlebells från bland annat Tunturi, Toorx, Hammer, Gymstick och Christopeit. Här finns minst 30 produkter.",
   "Vikterna i produktnamnen går från 2 till 24 kg. Material och utföranden som anges i titlarna är bland annat gjutjärn, vinyl och gummibotten. Tunturi och Toorx har flest produkter.",

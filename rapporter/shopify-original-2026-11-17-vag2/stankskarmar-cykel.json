@@ -1,0 +1,758 @@
+{
+ "fore": {
+  "id": "gid://shopify/Collection/561575985418",
+  "handle": "stankskarmar-cykel",
+  "title": "Stänkskärm - Cykel",
+  "updatedAt": "2026-11-16T06:50:34Z",
+  "descriptionHtml": "<p data-start=\"140\" data-end=\"421\" style=\"text-align: left;\">Stänkskärmar är ett viktigt tillbehör för cykeln som håller dig torr och ren under regniga eller leriga förhållanden. Hos Best Of Sports hittar du ett brett utbud av stänkskärmar som passar alla typer av cyklar, från stadscyklar och hybridcyklar till mountainbikes och racercyklar.</p>\n<h2 data-start=\"423\" data-end=\"456\" style=\"text-align: left;\"><strong data-start=\"423\" data-end=\"454\">Olika typer av stänkskärmar</strong></h2>\n<p data-start=\"458\" data-end=\"753\" style=\"text-align: left;\">Vi erbjuder både fram- och bakskärmar samt fullstora eller kortare modeller beroende på behov. Fullstora stänkskärmar ger maximal skyddseffekt och passar perfekt för pendling året runt. Kortare, lättare skärmar är idealiska för sport- och mountainbikecykling där vikt och smidighet är viktigt.</p>\n<h2 data-start=\"755\" data-end=\"782\" style=\"text-align: left;\"><strong data-start=\"755\" data-end=\"780\">Material och funktion</strong></h2>\n<p data-start=\"784\" data-end=\"1072\" style=\"text-align: left;\">Våra stänkskärmar är tillverkade i slitstarka material som plast eller aluminium, vilket gör dem hållbara och lätta att montera. Många modeller är justerbara för att passa olika ramstorlekar och däckbredder. Vissa stänkskärmar har även reflekterande detaljer för ökad säkerhet i mörker.</p>\n<h2 data-start=\"1074\" data-end=\"1112\" style=\"text-align: left;\"><strong data-start=\"1074\" data-end=\"1110\">Enkel installation och underhåll</strong></h2>\n<p data-start=\"1114\" data-end=\"1315\" style=\"text-align: left;\">Stänkskärmar är enkla att montera på cykeln med medföljande fästen och skruvar. De är även lätta att ta bort eller justera vid behov, vilket gör det enkelt att anpassa cykeln efter väder och terräng.</p>\n<h2 data-start=\"1317\" data-end=\"1364\" style=\"text-align: left;\"><strong data-start=\"1317\" data-end=\"1362\">Varför köpa stänkskärmar hos Best Of Sports</strong></h2>\n<p data-start=\"1366\" data-end=\"1616\" style=\"text-align: left;\">Hos Best Of Sports kan du köpa stänkskärmar online från pålitliga märken som kombinerar kvalitet, funktion och stil. Oavsett om du pendlar, tränar eller cyklar på fritiden, hittar du modeller som skyddar dig och din cykel mot smuts, vatten och stänk.</p>\n<p data-start=\"1618\" data-end=\"1710\" style=\"text-align: left;\">Håll dig torr och cykla bekvämt med stänkskärmar som passar just din cykel och dina behov.</p>",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "stankskarm-cykel",
+  "seo": {
+   "title": "Stänkskärm för cykel – Skydda dig mot smuts och vatten - Stort utbud",
+   "description": "Stänkskärmar är ett viktigt tillbehör för cykeln som håller dig torr och ren under regniga eller leriga förhållanden. Stort utbud & snabb leverans."
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "stänkskärm"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "stänkskärmar"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "mudguard"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "mudguards"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 64
+  }
+ },
+ "produkter_fore": {
+  "gid://shopify/Product/10656684441866": [
+   "ACTIVE",
+   [
+    "På beställning",
+    "SKS",
+    "Stänkskärmar",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "509.0"
+  ],
+  "gid://shopify/Product/10650166591754": [
+   "ACTIVE",
+   [
+    "På beställning",
+    "SKS",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "79.0"
+  ],
+  "gid://shopify/Product/10650166427914": [
+   "ACTIVE",
+   [
+    "På beställning",
+    "SKS",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "149.0"
+  ],
+  "gid://shopify/Product/10650166395146": [
+   "ACTIVE",
+   [
+    "På beställning",
+    "SKS",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "149.0"
+  ],
+  "gid://shopify/Product/10612572487946": [
+   "DRAFT",
+   [
+    "Ass Savers",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "199.0"
+  ],
+  "gid://shopify/Product/10605357859082": [
+   "ACTIVE",
+   [
+    "SKS",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "129.0"
+  ],
+  "gid://shopify/Product/10598556270858": [
+   "DRAFT",
+   [
+    "Mountainbike",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "439.0"
+  ],
+  "gid://shopify/Product/10589582655754": [
+   "ACTIVE",
+   [
+    "Hebie",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "279.0"
+  ],
+  "gid://shopify/Product/10589571744010": [
+   "ACTIVE",
+   [
+    "Hebie",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "Vikbar cykel",
+    "texter-klara"
+   ],
+   "299.0"
+  ],
+  "gid://shopify/Product/10589508174090": [
+   "ACTIVE",
+   [
+    "På beställning",
+    "SKS",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "149.0"
+  ],
+  "gid://shopify/Product/10581593358602": [
+   "ACTIVE",
+   [
+    "Ass Savers",
+    "Racercykel",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "319.0"
+  ],
+  "gid://shopify/Product/10561353187594": [
+   "ACTIVE",
+   [
+    "På beställning",
+    "SKS",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "359.0"
+  ],
+  "gid://shopify/Product/10554359578890": [
+   "DRAFT",
+   [
+    "På beställning",
+    "SKS",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "509.0"
+  ],
+  "gid://shopify/Product/10554359513354": [
+   "ACTIVE",
+   [
+    "På beställning",
+    "SKS",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "469.0"
+  ],
+  "gid://shopify/Product/10554354303242": [
+   "ACTIVE",
+   [
+    "SKS",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "79.0"
+  ],
+  "gid://shopify/Product/10554354270474": [
+   "DRAFT",
+   [
+    "Ass Savers",
+    "Racercykel",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "339.0"
+  ],
+  "gid://shopify/Product/10554353746186": [
+   "ACTIVE",
+   [
+    "Academy",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "339.0"
+  ],
+  "gid://shopify/Product/10541100499210": [
+   "ACTIVE",
+   [
+    "Ass Savers",
+    "Racercykel",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "359.0"
+  ],
+  "gid://shopify/Product/10530179285258": [
+   "ACTIVE",
+   [
+    "Giant",
+    "Gravelcykel",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "529.0"
+  ],
+  "gid://shopify/Product/10494696587530": [
+   "ACTIVE",
+   [
+    "Ass Savers",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "239.0"
+  ],
+  "gid://shopify/Product/10494695375114": [
+   "ACTIVE",
+   [
+    "Giant",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "229.0"
+  ],
+  "gid://shopify/Product/10494689476874": [
+   "ARCHIVED",
+   [
+    "Skärmar",
+    "Stänkskärm",
+    "Velomarket",
+    "XLC"
+   ],
+   "159.0"
+  ],
+  "gid://shopify/Product/10494689411338": [
+   "ACTIVE",
+   [
+    "Stänkskärm",
+    "Stänkskärmar",
+    "Velomarket",
+    "XLC",
+    "texter-klara"
+   ],
+   "149.0"
+  ],
+  "gid://shopify/Product/10487987798282": [
+   "ACTIVE",
+   [
+    "Hebie",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2569.0"
+  ],
+  "gid://shopify/Product/10487987765514": [
+   "ACTIVE",
+   [
+    "Hebie",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2569.0"
+  ],
+  "gid://shopify/Product/10487987699978": [
+   "ACTIVE",
+   [
+    "Hebie",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2569.0"
+  ],
+  "gid://shopify/Product/10475980095754": [
+   "ACTIVE",
+   [
+    "SKS",
+    "Stänkskärmar",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "359.0"
+  ],
+  "gid://shopify/Product/10475978588426": [
+   "ACTIVE",
+   [
+    "SKS",
+    "Skärmar",
+    "Stänkskärm",
+    "Velomarket"
+   ],
+   "369.0"
+  ],
+  "gid://shopify/Product/10475364909322": [
+   "ACTIVE",
+   [
+    "På beställning",
+    "SKS",
+    "Stänkskärmar",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "659.0"
+  ],
+  "gid://shopify/Product/10475362025738": [
+   "ACTIVE",
+   [
+    "SKS",
+    "Stänkskärmar",
+    "Velomarket"
+   ],
+   "369.0"
+  ],
+  "gid://shopify/Product/10475361894666": [
+   "ACTIVE",
+   [
+    "På beställning",
+    "SKS",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "369.0"
+  ],
+  "gid://shopify/Product/10475355570442": [
+   "ACTIVE",
+   [
+    "På beställning",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "149.0"
+  ],
+  "gid://shopify/Product/10474070802698": [
+   "ACTIVE",
+   [
+    "SKS",
+    "Stänkskärm",
+    "Stänkskärmar",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "369.0"
+  ],
+  "gid://shopify/Product/10472348221706": [
+   "ACTIVE",
+   [
+    "Hebie",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "109.0"
+  ],
+  "gid://shopify/Product/10472345895178": [
+   "ACTIVE",
+   [
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "639.0"
+  ],
+  "gid://shopify/Product/10472281473290": [
+   "ACTIVE",
+   [
+    "Hebie",
+    "Stänkskärm",
+    "Stänkskärmar",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "229.0"
+  ],
+  "gid://shopify/Product/10472265679114": [
+   "ACTIVE",
+   [
+    "SKS",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "129.0"
+  ],
+  "gid://shopify/Product/10472252735754": [
+   "ACTIVE",
+   [
+    "Ass Savers",
+    "Stänkskärm",
+    "Stänkskärmar",
+    "Velomarket"
+   ],
+   "109.0"
+  ],
+  "gid://shopify/Product/10472251425034": [
+   "DRAFT",
+   [
+    "Ass Savers",
+    "Stänkskärm",
+    "Stänkskärmar",
+    "Velomarket"
+   ],
+   "129.0"
+  ],
+  "gid://shopify/Product/10472248443146": [
+   "ACTIVE",
+   [
+    "SKS",
+    "Stänkskärmar",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "289.0"
+  ],
+  "gid://shopify/Product/10472246837514": [
+   "ACTIVE",
+   [
+    "Hebie",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "109.0"
+  ],
+  "gid://shopify/Product/10472246771978": [
+   "ACTIVE",
+   [
+    "Hebie",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "529.0"
+  ],
+  "gid://shopify/Product/10472246739210": [
+   "ACTIVE",
+   [
+    "Hebie",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "109.0"
+  ],
+  "gid://shopify/Product/10472245297418": [
+   "ACTIVE",
+   [
+    "Hebie",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "399.0"
+  ],
+  "gid://shopify/Product/10472245199114": [
+   "ACTIVE",
+   [
+    "Hebie",
+    "Hybridcykel",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "109.0"
+  ],
+  "gid://shopify/Product/10472243527946": [
+   "ACTIVE",
+   [
+    "På beställning",
+    "SKS",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "369.0"
+  ],
+  "gid://shopify/Product/10472243462410": [
+   "ACTIVE",
+   [
+    "SKS",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "369.0"
+  ],
+  "gid://shopify/Product/10472243167498": [
+   "ACTIVE",
+   [
+    "Hebie",
+    "Mountainbike",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "499.0"
+  ],
+  "gid://shopify/Product/10472242381066": [
+   "ACTIVE",
+   [
+    "Giant",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "369.0"
+  ],
+  "gid://shopify/Product/10472232091914": [
+   "ACTIVE",
+   [
+    "Giant",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "239.0"
+  ],
+  "gid://shopify/Product/10472232059146": [
+   "ACTIVE",
+   [
+    "Giant",
+    "Sadel",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "309.0"
+  ],
+  "gid://shopify/Product/10472231928074": [
+   "ACTIVE",
+   [
+    "Giant",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "179.0"
+  ],
+  "gid://shopify/Product/10472195064074": [
+   "DRAFT",
+   [
+    "SKS",
+    "Stänkskärmar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1304.1"
+  ],
+  "gid://shopify/Product/10472186708234": [
+   "ACTIVE",
+   [
+    "Barncykel",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "cykeldäck",
+    "texter-klara"
+   ],
+   "239.0"
+  ],
+  "gid://shopify/Product/10470902890762": [
+   "ACTIVE",
+   [
+    "Hebie",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "239.0"
+  ],
+  "gid://shopify/Product/10470902857994": [
+   "ACTIVE",
+   [
+    "Hebie",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "109.0"
+  ],
+  "gid://shopify/Product/10470902792458": [
+   "DRAFT",
+   [
+    "Hebie",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "119.0"
+  ],
+  "gid://shopify/Product/10470899810570": [
+   "ACTIVE",
+   [
+    "Hebie",
+    "Mountainbike",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "509.0"
+  ],
+  "gid://shopify/Product/10470892798218": [
+   "ACTIVE",
+   [
+    "Giant",
+    "Stänkskydd",
+    "Stänkskärm",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "109.0"
+  ],
+  "gid://shopify/Product/10468708843786": [
+   "ACTIVE",
+   [
+    "Hebie",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "109.0"
+  ],
+  "gid://shopify/Product/10462177558794": [
+   "ACTIVE",
+   [
+    "Giant",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "cykeldäck",
+    "texter-klara"
+   ],
+   "199.0"
+  ],
+  "gid://shopify/Product/10462175101194": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykelbelysning",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "119.0"
+  ],
+  "gid://shopify/Product/10461842047242": [
+   "ACTIVE",
+   [
+    "SKS",
+    "Stänkskärm",
+    "Stänkskärmar",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "369.0"
+  ],
+  "gid://shopify/Product/10411736301834": [
+   "ACTIVE",
+   [
+    "SKS",
+    "Stänkskärmar",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "369.0"
+  ]
+ }
+}

@@ -1,0 +1,2290 @@
+{
+ "fore": {
+  "id": "gid://shopify/Collection/561573298442",
+  "handle": "racercykel",
+  "title": "Racercykel",
+  "updatedAt": "2026-11-16T06:59:54Z",
+  "descriptionHtml": "<p style=\"text-align: left;\" data-end=\"779\" data-start=\"369\">Letar du efter racercyklar online? Hos Best Of Sports hittar du ett komplett utbud av racercyklar som kombinerar hastighet, precision och komfort. En racercykel är perfekt för dig som vill cykla snabbt på landsväg, träna inför lopp eller uppleva långa turer med hög effektivitet. Med sin lätta ram, aerodynamiska design och precisa växlar får du en cykel som levererar både prestanda och kontroll på varje mil.</p>\n<p data-start=\"73\" data-end=\"284\">Racercyklar är optimerade för fart och effektivitet på slät asfalt med smala däck och aggressiv körrställning, vilket skiljer dem från gravelcyklar som är mer mångsidiga och komfortabla på varierande underlag.</p>\n<p style=\"text-align: left;\" data-end=\"1196\" data-start=\"781\">När du ska köpa racercykel är det viktigt att tänka på vilken typ av cykling du planerar. Vill du ha en prisvärd racercykel för nybörjare eller en premium racercykel med avancerade komponenter för längre och snabbare turer? Fundera även på ramstorlek, material, bromssystem och tillbehör som flaska, cykeldator och sadelväska. Hos oss hittar du racercyklar som passar både nybörjare och erfarna cyklister.</p>\n<h2 style=\"text-align: left;\" data-end=\"1232\" data-start=\"1198\"><strong data-end=\"1230\" data-start=\"1198\">Racercyklar för herr och dam</strong></h2>\n<p style=\"text-align: left;\" data-end=\"1609\" data-start=\"1234\">Våra racercyklar finns i både herr- och dammodeller, designade för optimal komfort och prestanda. Herrcyklar erbjuder ofta sportigare geometri med fokus på fart och effektivitet, medan dammodeller har en mer anpassad design för bekvämare sittposition och längre turer. Oavsett modell får du en stabil och pålitlig cykel som ger kontroll och trygghet på landsväg och asfalt.</p>\n<h2 style=\"text-align: left;\" data-end=\"1650\" data-start=\"1611\"><strong data-end=\"1648\" data-start=\"1611\">Prisvärda och premium racercyklar</strong></h2>\n<p style=\"text-align: left;\" data-end=\"2005\" data-start=\"1652\">Hos BestOfSports hittar du både prisvärda racercyklar och premiumracercyklar med högsta kvalitet. Våra modeller är byggda för hållbarhet, prestanda och komfort och passar både nybörjare och tävlingscyklister. Med en racercykel från vårt sortiment kan du cykla snabbare, längre och mer effektivt, oavsett om du tränar, tävlar eller njuter av helgturer.</p>\n<h2 style=\"text-align: left;\" data-end=\"2029\" data-start=\"2007\"><strong data-end=\"2027\" data-start=\"2007\">Kända varumärken</strong></h2>\n<p style=\"text-align: left;\" data-end=\"2361\" data-start=\"2031\">Vi erbjuder racercyklar från välkända och pålitliga märken som Giant, Liv, Kona och Romet. Dessa varumärken står för kvalitet, innovation och hållbarhet. Oavsett om du letar efter en prisvärd racercykel för vardag och träning eller en premiummodell med avancerad teknik och låg vikt hittar du ett alternativ som passar just dig.</p>\n<h2 style=\"text-align: left;\" data-end=\"2408\" data-start=\"2363\"><strong data-end=\"2406\" data-start=\"2363\">Varför köpa racercykel hos BestOfSports</strong></h2>\n<p style=\"text-align: left;\" data-end=\"2846\" data-start=\"2410\">Hos Best Of Sports kan du köpa racercyklar online med snabb leverans och trygg service. Våra cyklar är designade för att ge maximal prestanda, komfort och hållbarhet. Oavsett om du vill ha en prisvärd racercykel, premium racercykel, racercykel herr eller racercykel dam, erbjuder vi modeller som kombinerar kvalitet och funktion. Utforska vårt sortiment idag och hitta den racercykel som tar din cykling till nästa nivå.</p>",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "racercykel",
+  "seo": {
+   "title": "Racercyklar för fart och prestanda | Kända varumärken - Herr & dam",
+   "description": "Hitta racercyklar online för träning, pendling och tävling. Välj prisvärda racercyklar, premiummodeller och cyklar för herr och dam med hög kvalitet och komfort"
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "racercykel"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "tävlingscykel"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "race bike"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "road bike"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "racer"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 168
+  }
+ },
+ "produkter_fore": {
+  "gid://shopify/Product/10708320485642": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "92753.1"
+  ],
+  "gid://shopify/Product/10708320026890": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "184489.0"
+  ],
+  "gid://shopify/Product/10708319928586": [
+   "ACTIVE",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "103809.0"
+  ],
+  "gid://shopify/Product/10676721189130": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "93437.1"
+  ],
+  "gid://shopify/Product/10676719419658": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "41369.0"
+  ],
+  "gid://shopify/Product/10676719288586": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "37241.1"
+  ],
+  "gid://shopify/Product/10676718797066": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "76399.0"
+  ],
+  "gid://shopify/Product/10676718698762": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "68768.1"
+  ],
+  "gid://shopify/Product/10676718665994": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "68768.1"
+  ],
+  "gid://shopify/Product/10676718174474": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "115959.0"
+  ],
+  "gid://shopify/Product/10676717945098": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "84572.1"
+  ],
+  "gid://shopify/Product/10676717846794": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "85202.1"
+  ],
+  "gid://shopify/Product/10665232204042": [
+   "ACTIVE",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "115959.0"
+  ],
+  "gid://shopify/Product/10665232171274": [
+   "ACTIVE",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "67239.0"
+  ],
+  "gid://shopify/Product/10665232138506": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "115959.0"
+  ],
+  "gid://shopify/Product/10635810046218": [
+   "ARCHIVED",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "40805.1"
+  ],
+  "gid://shopify/Product/10624088670474": [
+   "ACTIVE",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "94649.0"
+  ],
+  "gid://shopify/Product/10624088637706": [
+   "ACTIVE",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "46484.1"
+  ],
+  "gid://shopify/Product/10624088572170": [
+   "ACTIVE",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "41369.0"
+  ],
+  "gid://shopify/Product/10624087818506": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "54710.1"
+  ],
+  "gid://shopify/Product/10624087785738": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "68021.1"
+  ],
+  "gid://shopify/Product/10624087752970": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "32444.1"
+  ],
+  "gid://shopify/Product/10624087654666": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "68264.1"
+  ],
+  "gid://shopify/Product/10624087621898": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "41369.0"
+  ],
+  "gid://shopify/Product/10624087556362": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "85202.1"
+  ],
+  "gid://shopify/Product/10624087523594": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "40805.1"
+  ],
+  "gid://shopify/Product/10624087490826": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "54665.1"
+  ],
+  "gid://shopify/Product/10624086507786": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "9609.0"
+  ],
+  "gid://shopify/Product/10624084377866": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "16509.0"
+  ],
+  "gid://shopify/Product/10598564692234": [
+   "ARCHIVED",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "47459.0"
+  ],
+  "gid://shopify/Product/10589706092810": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "13839.0"
+  ],
+  "gid://shopify/Product/10588452684042": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "69605.1"
+  ],
+  "gid://shopify/Product/10588451832074": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "184489.0"
+  ],
+  "gid://shopify/Product/10588451438858": [
+   "ACTIVE",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "47459.0"
+  ],
+  "gid://shopify/Product/10581593358602": [
+   "ACTIVE",
+   [
+    "Ass Savers",
+    "Racercykel",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "319.0"
+  ],
+  "gid://shopify/Product/10565633769738": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "67239.0"
+  ],
+  "gid://shopify/Product/10561356398858": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "47459.0"
+  ],
+  "gid://shopify/Product/10554363117834": [
+   "ACTIVE",
+   [
+    "Look",
+    "Pedaler",
+    "Racercykel",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "279.0"
+  ],
+  "gid://shopify/Product/10554361905418": [
+   "ACTIVE",
+   [
+    "Giant",
+    "Racercykel",
+    "Tillbehör",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1479.0"
+  ],
+  "gid://shopify/Product/10554354270474": [
+   "DRAFT",
+   [
+    "Ass Savers",
+    "Racercykel",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "339.0"
+  ],
+  "gid://shopify/Product/10541100499210": [
+   "ACTIVE",
+   [
+    "Ass Savers",
+    "Racercykel",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "359.0"
+  ],
+  "gid://shopify/Product/10530216771850": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "47459.0"
+  ],
+  "gid://shopify/Product/10526098850058": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "173114.1"
+  ],
+  "gid://shopify/Product/10526098718986": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "128149.0"
+  ],
+  "gid://shopify/Product/10523487174922": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "23480.1"
+  ],
+  "gid://shopify/Product/10515754483978": [
+   "ACTIVE",
+   [
+    "Racercykel",
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "4029.0"
+  ],
+  "gid://shopify/Product/10515754451210": [
+   "ACTIVE",
+   [
+    "Racercykel",
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4009.0"
+  ],
+  "gid://shopify/Product/10515754352906": [
+   "ACTIVE",
+   [
+    "Racercykel",
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3969.0"
+  ],
+  "gid://shopify/Product/10515737542922": [
+   "ACTIVE",
+   [
+    "Giant",
+    "Racercykel",
+    "Tillbehör",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2009.0"
+  ],
+  "gid://shopify/Product/10507440783626": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "47459.0"
+  ],
+  "gid://shopify/Product/10502528270602": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "26149.0"
+  ],
+  "gid://shopify/Product/10502528205066": [
+   "ACTIVE",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "20510.1"
+  ],
+  "gid://shopify/Product/10502528172298": [
+   "ARCHIVED",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "22886.1"
+  ],
+  "gid://shopify/Product/10502528106762": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "50021.1"
+  ],
+  "gid://shopify/Product/10494945722634": [
+   "ACTIVE",
+   [
+    "Bottecchia",
+    "Cyklar",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "81489.0"
+  ],
+  "gid://shopify/Product/10494945165578": [
+   "ACTIVE",
+   [
+    "Bottecchia",
+    "Cyklar",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "47744.1"
+  ],
+  "gid://shopify/Product/10494945001738": [
+   "ACTIVE",
+   [
+    "Bottecchia",
+    "Cyklar",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "59192.1"
+  ],
+  "gid://shopify/Product/10494910431498": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "106172.1"
+  ],
+  "gid://shopify/Product/10494697079050": [
+   "ACTIVE",
+   [
+    "Ibera",
+    "Iberian",
+    "Pakethållare",
+    "Racercykel",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "719.0"
+  ],
+  "gid://shopify/Product/10494695932170": [
+   "ACTIVE",
+   [
+    "Cykeldelar",
+    "Look",
+    "Pedaler",
+    "Racercykel",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "319.0"
+  ],
+  "gid://shopify/Product/10494687805706": [
+   "ACTIVE",
+   [
+    "Cykeldelar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "719.0"
+  ],
+  "gid://shopify/Product/10488326226186": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "47459.0"
+  ],
+  "gid://shopify/Product/10488318427402": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "90602.1"
+  ],
+  "gid://shopify/Product/10488318329098": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "67239.0"
+  ],
+  "gid://shopify/Product/10488282185994": [
+   "ACTIVE",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "60479.0"
+  ],
+  "gid://shopify/Product/10488246829322": [
+   "ACTIVE",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "19871.1"
+  ],
+  "gid://shopify/Product/10488246796554": [
+   "ACTIVE",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "20510.1"
+  ],
+  "gid://shopify/Product/10486710305034": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "67239.0"
+  ],
+  "gid://shopify/Product/10480050110730": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "185989.0"
+  ],
+  "gid://shopify/Product/10480047325450": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "44711.1"
+  ],
+  "gid://shopify/Product/10476279988490": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "58445.1"
+  ],
+  "gid://shopify/Product/10476279496970": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "33308.1"
+  ],
+  "gid://shopify/Product/10476276547850": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "22886.1"
+  ],
+  "gid://shopify/Product/10476276449546": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "115959.0"
+  ],
+  "gid://shopify/Product/10476274909450": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "22886.1"
+  ],
+  "gid://shopify/Product/10476248531210": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "50021.1"
+  ],
+  "gid://shopify/Product/10476246892810": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "121247.1"
+  ],
+  "gid://shopify/Product/10476218679562": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "45053.1"
+  ],
+  "gid://shopify/Product/10476214026506": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "69821.1"
+  ],
+  "gid://shopify/Product/10476211175690": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "39399.0"
+  ],
+  "gid://shopify/Product/10476178669834": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "44036.1"
+  ],
+  "gid://shopify/Product/10476166807818": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "50561.1"
+  ],
+  "gid://shopify/Product/10476166217994": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "34298.1"
+  ],
+  "gid://shopify/Product/10476145213706": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "195623.1"
+  ],
+  "gid://shopify/Product/10476124012810": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "39399.0"
+  ],
+  "gid://shopify/Product/10476123521290": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "67969.0"
+  ],
+  "gid://shopify/Product/10476107497738": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "53306.1"
+  ],
+  "gid://shopify/Product/10476107464970": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "89029.0"
+  ],
+  "gid://shopify/Product/10476066701578": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "44612.1"
+  ],
+  "gid://shopify/Product/10476044845322": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "39158.1"
+  ],
+  "gid://shopify/Product/10474079453450": [
+   "DRAFT",
+   [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "36071.1"
+  ],
+  "gid://shopify/Product/10474076897546": [
+   "ACTIVE",
+   [
+    "Giant",
+    "Racercykel",
+    "Solglasögon",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1579.0"
+  ],
+  "gid://shopify/Product/10472484700426": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "33965.1"
+  ],
+  "gid://shopify/Product/10472435056906": [
+   "ACTIVE",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "33308.1"
+  ],
+  "gid://shopify/Product/10472435024138": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "67239.0"
+  ],
+  "gid://shopify/Product/10472346812682": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Racercykel",
+    "Stepper",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "step up",
+    "step up-bräda",
+    "texter-klara"
+   ],
+   "2019.0"
+  ],
+  "gid://shopify/Product/10472335704330": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "40789.0"
+  ],
+  "gid://shopify/Product/10472335671562": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "54319.0"
+  ],
+  "gid://shopify/Product/10472335376650": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "147929.0"
+  ],
+  "gid://shopify/Product/10472334295306": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "47459.0"
+  ],
+  "gid://shopify/Product/10472330658058": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "26149.0"
+  ],
+  "gid://shopify/Product/10472329838858": [
+   "DRAFT",
+   [
+    "Bottecchia",
+    "Cyklar",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "40889.0"
+  ],
+  "gid://shopify/Product/10472329773322": [
+   "ARCHIVED",
+   [
+    "Bottecchia",
+    "Cyklar",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "75249.0"
+  ],
+  "gid://shopify/Product/10472322138378": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "36071.1"
+  ],
+  "gid://shopify/Product/10472321024266": [
+   "ACTIVE",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "116069.0"
+  ],
+  "gid://shopify/Product/10472310669578": [
+   "ACTIVE",
+   [
+    "Racercykel",
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "3969.0"
+  ],
+  "gid://shopify/Product/10472308670730": [
+   "ACTIVE",
+   [
+    "Racercykel",
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "3969.0"
+  ],
+  "gid://shopify/Product/10472308637962": [
+   "ACTIVE",
+   [
+    "Racercykel",
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "4029.0"
+  ],
+  "gid://shopify/Product/10472296284426": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "44919.0"
+  ],
+  "gid://shopify/Product/10472295170314": [
+   "ACTIVE",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "52529.0"
+  ],
+  "gid://shopify/Product/10472295039242": [
+   "DRAFT",
+   [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "59174.1"
+  ],
+  "gid://shopify/Product/10472294285578": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "55539.0"
+  ],
+  "gid://shopify/Product/10472290681098": [
+   "ACTIVE",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "41449.0"
+  ],
+  "gid://shopify/Product/10472290320650": [
+   "DRAFT",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "60047.1"
+  ],
+  "gid://shopify/Product/10472290124042": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "49929.0"
+  ],
+  "gid://shopify/Product/10472286028042": [
+   "DRAFT",
+   [
+    "Barncykel",
+    "Hjälm",
+    "Limar",
+    "Lime",
+    "Racercykel",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "479.0"
+  ],
+  "gid://shopify/Product/10472285995274": [
+   "ARCHIVED",
+   [
+    "Cykelbelysning",
+    "Elite",
+    "Flaskor och hållare",
+    "Racercykel",
+    "Velomarket",
+    "flaskhållare"
+   ],
+   "169.0"
+  ],
+  "gid://shopify/Product/10472285503754": [
+   "ARCHIVED",
+   [
+    "Elite",
+    "Flaskor och hållare",
+    "Racercykel",
+    "Velomarket"
+   ],
+   "239.0"
+  ],
+  "gid://shopify/Product/10472284979466": [
+   "ACTIVE",
+   [
+    "Cykeldelar",
+    "Look",
+    "Pedaler",
+    "Racercykel",
+    "Velomarket",
+    "pedals",
+    "texter-klara"
+   ],
+   "319.0"
+  ],
+  "gid://shopify/Product/10472284750090": [
+   "DRAFT",
+   [
+    "Cykeldelar",
+    "Look",
+    "Pedaler",
+    "Racercykel",
+    "Velomarket",
+    "pedals"
+   ],
+   "319.0"
+  ],
+  "gid://shopify/Product/10472281243914": [
+   "DRAFT",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "73520.1"
+  ],
+  "gid://shopify/Product/10472276492554": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "124046.1"
+  ],
+  "gid://shopify/Product/10472259322122": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "101411.1"
+  ],
+  "gid://shopify/Product/10472258371850": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "46889.0"
+  ],
+  "gid://shopify/Product/10472258208010": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "32749.0"
+  ],
+  "gid://shopify/Product/10472255488266": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "72479.0"
+  ],
+  "gid://shopify/Product/10472254931210": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "42609.0"
+  ],
+  "gid://shopify/Product/10472252702986": [
+   "ACTIVE",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Excelsior",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "8849.0"
+  ],
+  "gid://shopify/Product/10472251949322": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "42609.0"
+  ],
+  "gid://shopify/Product/10472249032970": [
+   "ACTIVE",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "121209.0"
+  ],
+  "gid://shopify/Product/10472248869130": [
+   "DRAFT",
+   [
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "68390.1"
+  ],
+  "gid://shopify/Product/10472248410378": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "39369.0"
+  ],
+  "gid://shopify/Product/10472242118922": [
+   "ACTIVE",
+   [
+    "Alpina",
+    "Alpine",
+    "Klassiska pjäxor",
+    "Racercykel",
+    "Skidor",
+    "Skridskopjäxor",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "4219.0"
+  ],
+  "gid://shopify/Product/10472241660170": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "56949.0"
+  ],
+  "gid://shopify/Product/10472241463562": [
+   "DRAFT",
+   [
+    "Kvinnusúkklur",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "52352.1"
+  ],
+  "gid://shopify/Product/10472239399178": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "19889.0"
+  ],
+  "gid://shopify/Product/10472237990154": [
+   "DRAFT",
+   [
+    "Continental",
+    "Racercykel",
+    "Slang",
+    "Slangar",
+    "Velomarket"
+   ],
+   "79.0"
+  ],
+  "gid://shopify/Product/10472237826314": [
+   "DRAFT",
+   [
+    "Elite",
+    "Flaskor och hållare",
+    "Racercykel",
+    "Velomarket"
+   ],
+   "169.0"
+  ],
+  "gid://shopify/Product/10472237760778": [
+   "DRAFT",
+   [
+    "Elite",
+    "Flaska & Hållare",
+    "Flaskor och hållare",
+    "Racercykel",
+    "Velomarket"
+   ],
+   "219.0"
+  ],
+  "gid://shopify/Product/10472237105418": [
+   "ACTIVE",
+   [
+    "Cykeldelar",
+    "Racercykel",
+    "Shimano",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "139.0"
+  ],
+  "gid://shopify/Product/10472233566474": [
+   "ACTIVE",
+   [
+    "Giant",
+    "Pump",
+    "Racercykel",
+    "Tillbehör",
+    "Velomarket",
+    "sync-skydd",
+    "texter-klara"
+   ],
+   "439.0"
+  ],
+  "gid://shopify/Product/10472232681738": [
+   "ACTIVE",
+   [
+    "Giant",
+    "Racercykel",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "579.0"
+  ],
+  "gid://shopify/Product/10472232124682": [
+   "ACTIVE",
+   [
+    "Giant",
+    "Racercykel",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "539.0"
+  ],
+  "gid://shopify/Product/10472193655050": [
+   "ACTIVE",
+   [
+    "Cykelhjälm",
+    "Hjälm",
+    "Nutcase",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2049.0"
+  ],
+  "gid://shopify/Product/10472186216714": [
+   "ARCHIVED",
+   [
+    "Cykeldelar",
+    "Look",
+    "Racercykel",
+    "Tillbehör",
+    "Velomarket",
+    "pedals",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1929.0"
+  ],
+  "gid://shopify/Product/10471447232778": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "40789.0"
+  ],
+  "gid://shopify/Product/10471335461130": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Gravelcykel",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "28403.1"
+  ],
+  "gid://shopify/Product/10471334543626": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "76634.1"
+  ],
+  "gid://shopify/Product/10471334379786": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "19556.1"
+  ],
+  "gid://shopify/Product/10471117717770": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "41539.0"
+  ],
+  "gid://shopify/Product/10471084556554": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "39399.0"
+  ],
+  "gid://shopify/Product/10471057719562": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "36080.1"
+  ],
+  "gid://shopify/Product/10470907478282": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "22159.0"
+  ],
+  "gid://shopify/Product/10470906822922": [
+   "ACTIVE",
+   [
+    "Cykeldelar",
+    "Giant",
+    "Pedaler",
+    "Racercykel",
+    "Velomarket",
+    "pedals",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1609.0"
+  ],
+  "gid://shopify/Product/10469286773002": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "46799.0"
+  ],
+  "gid://shopify/Product/10469240504586": [
+   "ACTIVE",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "115959.0"
+  ],
+  "gid://shopify/Product/10468777165066": [
+   "ARCHIVED",
+   [
+    "Bottecchia",
+    "Cyklar",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "88676.1"
+  ],
+  "gid://shopify/Product/10468776575242": [
+   "ARCHIVED",
+   [
+    "Bottecchia",
+    "Cyklar",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "63309.0"
+  ],
+  "gid://shopify/Product/10468751212810": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "59639.0"
+  ],
+  "gid://shopify/Product/10468743151882": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "19556.1"
+  ],
+  "gid://shopify/Product/10468734042378": [
+   "ACTIVE",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "71559.0"
+  ],
+  "gid://shopify/Product/10468733321482": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "109849.0"
+  ],
+  "gid://shopify/Product/10468733223178": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "69821.1"
+  ],
+  "gid://shopify/Product/10468706812170": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "55539.0"
+  ],
+  "gid://shopify/Product/10468704420106": [
+   "ACTIVE",
+   [
+    "Cykeldelar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "pedals",
+    "texter-klara"
+   ],
+   "749.0"
+  ],
+  "gid://shopify/Product/10462852546826": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "29258.1"
+  ],
+  "gid://shopify/Product/10462752145674": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "18099.0"
+  ],
+  "gid://shopify/Product/10411848532234": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "sync-skydd",
+    "texter-klara"
+   ],
+   "19070.1"
+  ]
+ }
+}

@@ -1,0 +1,194 @@
+{
+ "fore": {
+  "id": "gid://shopify/Collection/526982906122",
+  "handle": "grepptraning",
+  "title": "Greppträning",
+  "updatedAt": "2026-11-13T11:40:49Z",
+  "descriptionHtml": "<p data-start=\"332\" data-end=\"717\" style=\"text-align: left;\">Vill du stärka greppet, förbättra handstyrkan och öka kontrollen i styrketräning eller sport? Hos Best Of Sports hittar du ett komplett sortiment av grepptränare och greppträningstillbehör som hjälper dig att bygga starka händer, fingrar och underarmar. Greppträning är viktigt för alla typer av styrketräning, klättring, kampsport och funktionell träning där greppstyrka är avgörande.</p>\n<h2 data-start=\"719\" data-end=\"759\" style=\"text-align: left;\"><strong data-start=\"719\" data-end=\"757\">Grepptränare och handstyrketränare</strong></h2>\n<p data-start=\"761\" data-end=\"1114\" style=\"text-align: left;\">Vi erbjuder grepptränare i olika motståndsnivåer som passar både nybörjare och avancerade. Med en grepptränare kan du träna styrka i fingrar, händer och underarmar på ett kontrollerat och effektivt sätt. Träningen hjälper till att förbättra uthållighet, kraft och stabilitet, vilket är viktigt för övningar som pull ups, chins, marklyft och bänkpress.</p>\n<h2 data-start=\"1116\" data-end=\"1149\" style=\"text-align: left;\"><strong data-start=\"1116\" data-end=\"1147\">Flera typer av greppträning</strong></h2>\n<p data-start=\"1151\" data-end=\"1493\" style=\"text-align: left;\">Vårt sortiment inkluderar allt från klassiska handgreppstränare med fjädermotstånd till justerbara grepptränare och gummiklädda handtränare. Du hittar även fingertränare och grip rings som isolerar träningen för varje finger, vilket ger ett mer komplett grepppass. Greppträning kan utföras var som helst, hemma, på gymmet eller på kontoret.</p>\n<h2 data-start=\"1495\" data-end=\"1533\" style=\"text-align: left;\"><strong data-start=\"1495\" data-end=\"1531\">Prisvärda och premium alternativ</strong></h2>\n<p data-start=\"1535\" data-end=\"1857\" style=\"text-align: left;\">Hos Best Of Sports hittar du både prisvärda grepptränare och premiumalternativ med hög kvalitet och lång hållbarhet. Våra produkter är ergonomiska, slitstarka och byggda för daglig träning. Med regelbunden greppträning kan du förbättra prestation i både styrketräning och sport, samtidigt som du minskar risken för skador.</p>\n<h2 data-start=\"1859\" data-end=\"1881\" style=\"text-align: left;\"><strong data-start=\"1859\" data-end=\"1879\">Kända varumärken</strong></h2>\n<p data-start=\"1883\" data-end=\"2174\" style=\"text-align: left;\">Vi erbjuder grepptränare och greppträningstillbehör från pålitliga varumärken som TUNTURI, CHRISTOPEIT, KETTLER, HAMMER, BH Fitness, Gorilla Sports och MAXXUS. Dessa märken står för kvalitet, funktionalitet och hållbarhet och passar alla nivåer, från nybörjare till professionella atleter.</p>\n<h2 data-start=\"2176\" data-end=\"2223\" style=\"text-align: left;\"><strong data-start=\"2176\" data-end=\"2221\">Varför köpa grepptränare hos BestOfSports</strong></h2>\n<p data-start=\"2225\" data-end=\"2538\" style=\"text-align: left;\">Hos Best Of Sports kan du köpa grepptränare online med snabb leverans och trygg service. Våra produkter är designade för att ge maximal komfort, säkerhet och funktion, oavsett träningsnivå. Utforska vårt sortiment idag och hitta grepptränaren som stärker dina händer, fingrar och underarmar på ett effektivt sätt.</p>",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "grepptraning",
+  "seo": {
+   "title": "Greppträning – Redskap för starka händer och underarmar ",
+   "description": "Stärk grepp, fingrar och underarmar med grepptränare och handredskap. Perfekt för hemmaträning, gym och alla nivåer av styrketräning. Snabb leverans."
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "grepptränare"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "greppträning"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "handtränare"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 17
+  }
+ },
+ "produkter_fore": {
+  "gid://shopify/Product/10636748390666": [
+   "ACTIVE",
+   [
+    "all products",
+    "greppträning",
+    "handled",
+    "texter-klara"
+   ],
+   "159.0"
+  ],
+  "gid://shopify/Product/10636737937674": [
+   "ACTIVE",
+   [
+    "all products",
+    "greppträning",
+    "gymtillbehör",
+    "texter-klara"
+   ],
+   "349.0"
+  ],
+  "gid://shopify/Product/10636652806410": [
+   "DRAFT",
+   [
+    "grepptränare",
+    "handledstränare",
+    "handledsträning"
+   ],
+   "240.0"
+  ],
+  "gid://shopify/Product/10581120286986": [
+   "DRAFT",
+   [
+    "Greppträning",
+    "Gymstick"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10581118812426": [
+   "DRAFT",
+   [
+    "Greppträning",
+    "Gymstick",
+    "Pull-up"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10581115830538": [
+   "DRAFT",
+   [
+    "Greppträning",
+    "Gymstick"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10581113766154": [
+   "DRAFT",
+   [
+    "Greppträning",
+    "Gymstick"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10581112488202": [
+   "ACTIVE",
+   [
+    "Greppträning",
+    "Gymstick",
+    "Viktset",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "989.1"
+  ],
+  "gid://shopify/Product/10581106393354": [
+   "ACTIVE",
+   [
+    "Greppträning",
+    "Gymstick",
+    "texter-klara"
+   ],
+   "119.0"
+  ],
+  "gid://shopify/Product/10581104525578": [
+   "ACTIVE",
+   [
+    "Greppträning",
+    "Gymstick",
+    "texter-klara"
+   ],
+   "149.0"
+  ],
+  "gid://shopify/Product/10581104230666": [
+   "ACTIVE",
+   [
+    "Greppträning",
+    "Gymstick"
+   ],
+   "169.0"
+  ],
+  "gid://shopify/Product/10581102199050": [
+   "ACTIVE",
+   [
+    "Greppträning",
+    "Gymstick",
+    "texter-klara"
+   ],
+   "219.0"
+  ],
+  "gid://shopify/Product/10581101707530": [
+   "DRAFT",
+   [
+    "Greppträning",
+    "Gymstick"
+   ],
+   "119.0"
+  ],
+  "gid://shopify/Product/10581096497418": [
+   "ACTIVE",
+   [
+    "Greppträning",
+    "Gymstick",
+    "texter-klara"
+   ],
+   "169.0"
+  ],
+  "gid://shopify/Product/10581096104202": [
+   "ACTIVE",
+   [
+    "Greppträning",
+    "Gymstick",
+    "texter-klara"
+   ],
+   "129.0"
+  ],
+  "gid://shopify/Product/10581096005898": [
+   "ACTIVE",
+   [
+    "Greppträning",
+    "Gymstick",
+    "texter-klara"
+   ],
+   "99.0"
+  ],
+  "gid://shopify/Product/10581095809290": [
+   "ACTIVE",
+   [
+    "Greppträning",
+    "Gymstick",
+    "texter-klara"
+   ],
+   "169.0"
+  ]
+ }
+}

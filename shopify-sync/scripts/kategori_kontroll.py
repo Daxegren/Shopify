@@ -53,7 +53,7 @@ def main(mapp, texter):
             if re.search(r'\b' + re.escape(kand) + r'\b', text + ' ' + seo + ' ' + meta) and kand.lower() not in marken and kand not in ('Fluid',) and h != 'tunturi':
                 F(f'märke {kand} nämns men finns inte i kollektionens köpbara produkter')
         # R1: tal. Varje tal i texten ska finnas i underlagets tillåtna tal (avrundade) eller i en titel.
-        tillat = tillatna_tal(u); titlar = ' '.join(u['alla_titlar'])
+        tillat = tillatna_tal(u); titlar = ' '.join(u['alla_titlar'] + u.get('ovriga_titlar', []))  # tillägg 2026-11-17: tal får stödjas av köpbara produkter bland övriga (kräver granskarens kontroll)
         for n in tal_i_text(text + ' ' + meta + ' ' + seo):
             if n not in tillat and str(n) not in titlar and not (n in (70, 40) and h in ('hantlar', 'tunturi')) :
                 F(f'tal {n} saknar stöd i underlaget')

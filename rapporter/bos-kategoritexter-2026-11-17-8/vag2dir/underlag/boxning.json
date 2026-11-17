@@ -75,7 +75,7 @@
  "forsta_ord_i_titel": [
   [
    "boxningshandskar",
-   11
+   13
   ],
   [
    "boxningssäck",
@@ -87,10 +87,6 @@
   ],
   [
    "boxningsdocka",
-   2
-  ],
-  [
-   "boxing",
    2
   ],
   [
@@ -111,6 +107,10 @@
   ],
   [
    "stående",
+   1
+  ],
+  [
+   "innerhandskar",
    1
   ]
  ],
@@ -155,12 +155,12 @@
  ],
  "alla_titlar": [
   "Benskydd Tunturi Allround, Svart, Set med Två",
-  "Boxing gloves HAMMER X-Shock 10oz",
-  "Boxing gloves HAMMER X-Shock 14oz",
   "Boxningsdocka Tunturi Free Stand, 155/170/185 cm",
   "Boxningsdocka Tunturi Slam Man",
   "Boxningshandskar Gymstick Boxing Gloves",
+  "Boxningshandskar Hammer X-Shock 10 oz",
   "Boxningshandskar Hammer X-Shock 12 oz",
+  "Boxningshandskar Hammer X-Shock 14 oz",
   "Boxningshandskar Toorx Jaguar Boxing Gloves, S/M",
   "Boxningshandskar Toorx Jaguar, L/XL",
   "Boxningshandskar Toorx Leopard, 12 oz, Polyuretan",

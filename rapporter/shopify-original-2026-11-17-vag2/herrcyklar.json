@@ -1,0 +1,248 @@
+{
+ "fore": {
+  "id": "gid://shopify/Collection/561573953802",
+  "handle": "herrcyklar",
+  "title": "Herrcykel",
+  "updatedAt": "2026-11-16T06:26:18Z",
+  "descriptionHtml": "<p data-start=\"374\" data-end=\"712\" style=\"text-align: left;\">Letar du efter herrcyklar online? Hos Best Of Sports hittar du ett brett utbud av herrcyklar som kombinerar komfort, prestanda och stil. En herrcykel är perfekt för pendling, fritid, träning och längre turer. Med ergonomiskt anpassad ram, bekväm sittposition och smidiga växlar får du en cykel som gör varje tur både effektiv och njutbar.</p>\n<p data-start=\"714\" data-end=\"1193\" style=\"text-align: left;\">När du ska köpa herrcykel är det viktigt att fundera över vilken typ av cykling du främst kommer göra. Vill du ha en prisvärd herrcykel för vardagspendling eller en premium herrcykel med avancerade komponenter för längre och mer krävande turer? Fundera även på ramstorlek, bromssystem, däcktyp och om du vill kunna montera tillbehör som pakethållare, stänkskärmar, belysning eller cykelkorg. Hos oss hittar du herrcyklar som passar både nybörjare och erfarna cyklister.</p>\n<h2 data-start=\"1195\" data-end=\"1226\" style=\"text-align: left;\"><strong data-start=\"1195\" data-end=\"1224\">Herrcyklar för alla behov</strong></h2>\n<p data-start=\"1228\" data-end=\"1620\" style=\"text-align: left;\">Våra herrcyklar finns i modeller för alla typer av cyklister. För pendling erbjuder vi cyklar med lätt ram, stabila däck och bekväm geometri som gör vardagscyklingen enkel och trygg. För fritid och träning finns sportigare modeller med aerodynamisk design och precisa växlar. Oavsett modell får du en stabil och pålitlig cykel som kombinerar komfort och prestanda på alla typer av underlag.</p>\n<h2 data-start=\"1622\" data-end=\"1660\" style=\"text-align: left;\"><strong data-start=\"1622\" data-end=\"1658\">Prisvärda och premium herrcyklar</strong></h2>\n<p data-start=\"1662\" data-end=\"2028\" style=\"text-align: left;\">Hos Best Of Sports hittar du både prisvärda herrcyklar och premiumcyklar med hög kvalitet och slitstarka komponenter. Våra modeller är byggda för hållbarhet, komfort och funktion, oavsett om du cyklar korta sträckor i staden eller längre turer på helgen. Med rätt herrcykel kan du kombinera pendling, fritid och träning utan kompromisser på kvalitet eller prestanda.</p>\n<h2 data-start=\"2030\" data-end=\"2052\" style=\"text-align: left;\"><strong data-start=\"2030\" data-end=\"2050\">Kända varumärken</strong></h2>\n<p data-start=\"2054\" data-end=\"2388\" style=\"text-align: left;\">Vi erbjuder herrcyklar från välkända och pålitliga märken som Giant, Liv, Kona och Romet. Dessa märken står för kvalitet, innovation och hållbarhet. Oavsett om du letar efter en prisvärd herrcykel för vardag eller en premium herrcykel med hög komfort och avancerade komponenter, hittar du ett alternativ som passar just dig.</p>\n<h2 data-start=\"2390\" data-end=\"2434\" style=\"text-align: left;\"><strong data-start=\"2390\" data-end=\"2432\">Varför köpa herrcykel hos Best Of Sports</strong></h2>\n<p data-start=\"2436\" data-end=\"2871\" style=\"text-align: left;\">Hos Best Of Sports kan du köpa herrcyklar online med snabb leverans och trygg service. Våra cyklar är byggda för maximal komfort, funktion och hållbarhet. Oavsett om du vill ha en prisvärd herrcykel, premium herrcykel eller en herrcykel för pendling, fritid eller träning, erbjuder vi modeller som kombinerar kvalitet och stil. Utforska vårt sortiment idag och hitta den herrcykel som gör vardagscyklingen roligare och enklare.</p>\n<p style=\"text-align: left;\">Vi har även cyklar från <a href=\"/collections/romet\">Romet</a>.</p>",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "herrcykel",
+  "seo": {
+   "title": "Herrcyklar – Snabb leverans - Bra priser - Många modeller & varumärken",
+   "description": "Vi erbjuder allt från eleganta stadscyklar till robusta sportcyklar och mångsidiga hybridcyklar. Upptäck ett brett urval av herrcyklar online. Snabb leverans."
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "Herrcyklar"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "Herrcykel"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "herr cykel"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "mens bike"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "mens bikes"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 15
+  }
+ },
+ "produkter_fore": {
+  "gid://shopify/Product/10548290978058": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Herrcykel",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "12329.0"
+  ],
+  "gid://shopify/Product/10488246763786": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Herrcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "12129.0"
+  ],
+  "gid://shopify/Product/10488246698250": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Herrcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "9476.1"
+  ],
+  "gid://shopify/Product/10488246632714": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Herrcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4706.1"
+  ],
+  "gid://shopify/Product/10472372338954": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Herrcykel",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "6539.0"
+  ],
+  "gid://shopify/Product/10472332099850": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Herrcykel",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "8855.1"
+  ],
+  "gid://shopify/Product/10472332067082": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Herrcykel",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "12329.0"
+  ],
+  "gid://shopify/Product/10472294514954": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Herrcykel",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "7589.0"
+  ],
+  "gid://shopify/Product/10472292090122": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Herrcykel",
+    "Tabou",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "7415.1"
+  ],
+  "gid://shopify/Product/10472288190730": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Herrcykel",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "6509.0"
+  ],
+  "gid://shopify/Product/10472280490250": [
+   "ACTIVE",
+   [
+    "Herrcykel",
+    "Kosttillskott",
+    "Trec",
+    "Velomarket",
+    "Vitaminer",
+    "multivitamin",
+    "texter-klara"
+   ],
+   "119.0"
+  ],
+  "gid://shopify/Product/10472257618186": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Herrcykel",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "6539.0"
+  ],
+  "gid://shopify/Product/10471092257034": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Herrcykel",
+    "På beställning",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "9188.1"
+  ],
+  "gid://shopify/Product/10470944702730": [
+   "ACTIVE",
+   [
+    "Herrcykel",
+    "Kosttillskott",
+    "Trec",
+    "Trek",
+    "Velomarket",
+    "Vitaminer",
+    "texter-klara"
+   ],
+   "129.0"
+  ],
+  "gid://shopify/Product/10462758469898": [
+   "ACTIVE",
+   [
+    "Boxing equipment",
+    "Boxning",
+    "Fell",
+    "Herrcykel",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "8149.0"
+  ]
+ }
+}

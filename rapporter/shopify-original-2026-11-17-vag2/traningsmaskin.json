@@ -1,0 +1,300 @@
+{
+ "fore": {
+  "id": "gid://shopify/Collection/526981529866",
+  "handle": "traningsmaskin",
+  "title": "Träningsmaskin",
+  "updatedAt": "2026-11-16T06:37:31Z",
+  "descriptionHtml": "<p data-start=\"337\" data-end=\"694\" style=\"text-align: left;\">Letar du efter träningsmaskiner för hemmagym eller professionellt gym? Hos Best Of Sports hittar du ett brett utbud av träningsmaskiner som kombinerar kvalitet, hållbarhet och funktionalitet. Med rätt träningsmaskin kan du träna hela kroppen effektivt, från styrketräning av rygg, armar, axlar och ben till funktionella övningar som stärker core och balans.</p>\n<p data-start=\"696\" data-end=\"1120\" style=\"text-align: left;\">När du ska köpa en träningsmaskin är det viktigt att tänka på vilka övningar du vill utföra och vilken typ av motstånd som passar dig. Vill du ha en multifunktionell träningsmaskin som låter dig träna flera muskelgrupper, eller en mer specialiserad maskin för specifika övningar som latsdrag, bröstpress eller benpress? Fundera även på storlek, viktkapacitet och utrymme – särskilt om maskinen ska användas i hemmagym.</p>\n<h2 data-start=\"1122\" data-end=\"1181\" style=\"text-align: left;\"><strong data-start=\"1122\" data-end=\"1179\">Multifunktionella och specialiserade träningsmaskiner</strong></h2>\n<p data-start=\"1183\" data-end=\"1601\" style=\"text-align: left;\">Vi erbjuder både multifunktionella träningsmaskiner och maskiner för specifika övningar. Multifunktionella maskiner är perfekta för dig som vill kunna träna hela kroppen på en och samma maskin, medan specialiserade maskiner ger möjlighet till fokuserad styrketräning för enskilda muskelgrupper. Våra maskiner är byggda för att ge stabilitet, säkerhet och komfort, oavsett om du tränar nybörjare eller avancerad nivå.</p>\n<h2 data-start=\"1603\" data-end=\"1640\" style=\"text-align: left;\"><strong data-start=\"1603\" data-end=\"1638\">Prisvärda och premiumalternativ</strong></h2>\n<p data-start=\"1642\" data-end=\"2038\" style=\"text-align: left;\">Hos Best Of Sports hittar du både prisvärda träningsmaskiner och premiumalternativ med hög kvalitet, robust konstruktion och lång livslängd. Våra maskiner är designade för att tåla intensiv träning, ge jämnt motstånd och säkerhet vid alla typer av övningar. Med rätt träningsmaskin kan du skapa ett komplett hemmagym eller komplettera ett professionellt gym med utrustning för alla muskelgrupper.</p>\n<h2 data-start=\"2040\" data-end=\"2062\" style=\"text-align: left;\"><strong data-start=\"2040\" data-end=\"2060\">Kända varumärken</strong></h2>\n<p data-start=\"2064\" data-end=\"2332\" style=\"text-align: left;\">Vi erbjuder träningsmaskiner från välkända märken som TUNTURI, CHRISTOPEIT, KETTLER, HAMMER, BH Fitness, Gorilla Sports och MAXXUS. Dessa märken står för kvalitet, säkerhet och funktionalitet, och erbjuder både prisvärda och premiumalternativ som passar alla nivåer.</p>\n<h2 data-start=\"2334\" data-end=\"2383\" style=\"text-align: left;\"><strong data-start=\"2334\" data-end=\"2381\">Varför köpa träningsmaskin hos BestOfSports</strong></h2>\n<p data-start=\"2385\" data-end=\"2712\" style=\"text-align: left;\">Hos Best Of Sports kan du köpa träningsmaskiner online med snabb leverans och trygg service. Våra maskiner är byggda för maximal hållbarhet, säkerhet och funktion, oavsett om du tränar hemma eller på gym. Utforska vårt sortiment idag och hitta den perfekta träningsmaskinen som gör styrketräningen effektiv, säker och varierad.</p>\n<p style=\"text-align: left;\">Se även <a href=\"/collections/multigymspaket\">multigymspaket</a>.</p>",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "traningsmaskin",
+  "seo": {
+   "title": "Träningsmaskiner – Gymmaskiner för alla nivåer och behov",
+   "description": "Upptäck träningsmaskiner från TUNTURI, CHRISTOPEIT, KETTLER, HAMMER, BH Fitness, Gorilla Sports och MAXXUS. Perfekt för hemmagym och professionella gym."
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "träningsmaskin"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 18
+  }
+ },
+ "produkter_fore": {
+  "gid://shopify/Product/10636736299274": [
+   "ACTIVE",
+   [
+    "all products",
+    "price-change-job-active",
+    "sale",
+    "sissy squat",
+    "sissysquat",
+    "texter-klara",
+    "träningsbänk",
+    "träningsmaskin"
+   ],
+   "1646.1"
+  ],
+  "gid://shopify/Product/10636720210186": [
+   "DRAFT",
+   [
+    "gymutrustning",
+    "hemmagym",
+    "home gym",
+    "price-change-job-active",
+    "sale",
+    "träningsmaskin"
+   ],
+   "6209.1"
+  ],
+  "gid://shopify/Product/10636709691658": [
+   "DRAFT",
+   [
+    "Cablecross",
+    "all products",
+    "cable cross",
+    "kabel cross",
+    "kabelcross",
+    "kabelmaskin",
+    "kabelstation",
+    "latsdragsmaskin",
+    "träningsmaskin"
+   ],
+   "327.44"
+  ],
+  "gid://shopify/Product/10636704973066": [
+   "ACTIVE",
+   [
+    "Sissysquat",
+    "all products",
+    "price-change-job-active",
+    "sale",
+    "sissy squat",
+    "texter-klara",
+    "träningsmaskin"
+   ],
+   "2303.1"
+  ],
+  "gid://shopify/Product/10636640092426": [
+   "DRAFT",
+   [
+    "price-change-job-active",
+    "sale",
+    "sittande vadpress",
+    "träningsmaskin",
+    "tåhävningar",
+    "vad",
+    "vader",
+    "vadmaskin",
+    "vadpress",
+    "vadtränare"
+   ],
+   "1617.3"
+  ],
+  "gid://shopify/Product/10475368251658": [
+   "ARCHIVED",
+   [
+    "Fell",
+    "Multigym",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "träningsmaskin"
+   ],
+   "77059.0"
+  ],
+  "gid://shopify/Product/10472306901258": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Latsdrag",
+    "Velomarket",
+    "lats drag",
+    "latsdragsstation",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsmaskin"
+   ],
+   "8839.0"
+  ],
+  "gid://shopify/Product/10472304607498": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Multigym",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsmaskin"
+   ],
+   "40729.0"
+  ],
+  "gid://shopify/Product/10472304378122": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Professionell utrustning",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "träningsmaskin"
+   ],
+   "28669.0"
+  ],
+  "gid://shopify/Product/10472304312586": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Latsdrag",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsmaskin"
+   ],
+   "28829.0"
+  ],
+  "gid://shopify/Product/10472304279818": [
+   "ARCHIVED",
+   [
+    "Fell",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "träningsmaskin"
+   ],
+   "28449.0"
+  ],
+  "gid://shopify/Product/10472304214282": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "kabelmaskin",
+    "price-change-job-active",
+    "sale",
+    "smithmaskin",
+    "texter-klara",
+    "träningsmaskin"
+   ],
+   "50679.0"
+  ],
+  "gid://shopify/Product/10472304181514": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Professionell utrustning",
+    "På beställning",
+    "Styrketräning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "smithmaskin",
+    "texter-klara",
+    "träningsmaskin"
+   ],
+   "30679.0"
+  ],
+  "gid://shopify/Product/10472298578186": [
+   "ACTIVE",
+   [
+    "Finnlo by Hammer",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsmaskin"
+   ],
+   "23949.0"
+  ],
+  "gid://shopify/Product/10472298512650": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsmaskin"
+   ],
+   "19599.0"
+  ],
+  "gid://shopify/Product/10472224325898": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsmaskin"
+   ],
+   "11779.0"
+  ],
+  "gid://shopify/Product/10472223211786": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Multistationer",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsmaskin"
+   ],
+   "12999.0"
+  ],
+  "gid://shopify/Product/10470887063818": [
+   "ARCHIVED",
+   [
+    "Fell",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "träningsmaskin"
+   ],
+   "53639.0"
+  ]
+ }
+}
