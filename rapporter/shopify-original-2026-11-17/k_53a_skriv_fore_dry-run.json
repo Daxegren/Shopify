@@ -1,0 +1,61 @@
+[
+ {
+  "id": "gid://shopify/Product/10462823842058",
+  "title": "Handtag GIANT Stratus Comp 2.5, svart",
+  "handle": "handtag-giant-stratus-comp-2-5-svart-190000255",
+  "status": "ACTIVE",
+  "tags": [
+   "Giant",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 6,
+  "updatedAt": "2026-11-16T06:30:14Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Tillverkaren är <strong>Giant</strong>, världens största cykeltillverkare.<br><br><br>\n</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52805419303178",
+     "sku": "190000255",
+     "price": "219.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 6
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472228651274",
+  "title": "Pedaler GIANT Pinner Comp, lila",
+  "handle": "pedaler-giant-pinner-comp-lila-230000107",
+  "status": "ACTIVE",
+  "tags": [
+   "Giant",
+   "pedals",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-09T05:58:10Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Universella pedaler <strong>Giant Pinner Elite</strong> för mountainbikes.</p>\n<ul>\n<li>Platt design (pedalcentrum 16 mm, utsida 17,1 mm).</li>\n<li>9 utbytbara och justerbara stift på varje sida.</li>\n<li>Slitstark kromstålsaxel.</li>\n<li>Tätade lager.</li>\n<li>9/16\" gänga.</li>\n<li>Mått: 117 x 110 mm (stödyta 112 mm x 105 mm).</li>\n<li>Vikt: 380 g.</li>\n</ul>\n\n<p><strong>Giant</strong>, grundat <strong>1972</strong>, är världens ledande tillverkare av kvalitets-cyklar och cykeltillbehör. <strong>Giant</strong> introducerade lättare och starkare aluminiumramar för cyklar och introducerade kolfiberramar för bredare användning. Utvecklingen av utrustning sker i ett ständigt samarbete med toppcyklister.</p>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52848264773898",
+     "sku": "230000105",
+     "price": "659.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1
+    }
+   ]
+  }
+ }
+]

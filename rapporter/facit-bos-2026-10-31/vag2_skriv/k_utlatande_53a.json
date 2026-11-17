@@ -1,0 +1,54 @@
+[
+ {
+  "nr": 53001,
+  "id": "10462823842058",
+  "fil": "k_53a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Styrtejp ",
+    "efter": "Handtagstejp "
+   },
+   "seo_title": {
+    "fore": "Styrtejp ",
+    "efter": "Handtagstejp "
+   },
+   "meta": {
+    "fore": "Styrtejpen ",
+    "efter": "Handtagstejpen "
+   },
+   "html": [
+    {
+     "fore": "en svart styrtejp av EVA",
+     "efter": "en svart handtagstejp av EVA"
+    },
+    {
+     "fore": "söker en svart styrtejp</li>",
+     "efter": "söker en svart handtagstejp</li>"
+    },
+    {
+     "fore": "ha en styrtejp med",
+     "efter": "ha en handtagstejp med"
+    },
+    {
+     "fore": "<li>Typ: Styrtejp</li>",
+     "efter": "<li>Typ: Handtagstejp</li>"
+    }
+   ]
+  },
+  "skal": "Live ACTIVE, SKU 190000255, EAN 4713250057927 (variantens streckkod i butiken), lager 6, en variant, ingen På beställning-tagg. Giants sida https://www.giant-bicycles.com/int/stratus-comp-2dot5-bar-tape-2024 gäller exakt Stratus Comp 2.5: 70g (pair), 2.5mm, EVA, Adhesive backing / End plug, 'PU finishing tapes and bar end plugs included', svart = 190000255 (bildfil STRATUS-COMP-2-5-TAPE@BLACK@190000255). Alla fakta har källstöd. Ett påstående med 'enligt tillverkaren' (vibrationsdämpning, ordagrant 'Eva foam provides excellent vibration damping'); grepp/komfort ('frosted surface') rätt utelämnat. Typordet: Davids fråga i beslut-2026-11-17-6 punkt 1 lyder 'rätta titeln till handtagstejp', medan rekommendationsraden skrev 'Styrtejp'; hans ja är därför inte entydigt bundet till ordet Styrtejp, och syftet var att rätta produkttypen. Butikens sex skrivna syskon heter Handtagstejp, däribland samma familj Stratus 2.0 och Stratus Pro 2.0 (Giant 'bar tape' för alla), och Styrtejp finns inte i godkanda_typord. R7 enhetlighet: Handtagstejp i titel, SEO, meta och html. Om David uttryckligen vill ha Styrtejp ska rättningen strykas. Efter rättning titel/SEO 42 tecken, meta 134; ingen krock mot butikens titlar/SEO/meta. Handle oförändrad."
+ },
+ {
+  "nr": 53002,
+  "id": "10472228651274",
+  "fil": "k_53a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Varje pedal har 9 formgjutna stift.",
+    "efter": "Varje sida har 9 formgjutna stift."
+   }
+  },
+  "skal": "Live ACTIVE, SKU 230000105, EAN 4713250020495 (variantens streckkod), lager 1, en variant. Butikens källtext (Pinner Elite, 380 g) rätt INTE använd. Giants sida https://www.giant-bicycles.com/int/pinner-comp-flat-pedals-2022?partnumber=230000105 gäller exakt Pinner Comp (inte Elite): Nylon Composite Pedal Body, Cr-Mo Spindle, Sealed Bearings, '9 Nylon Composite Pins per Side', 'Concave shape and 9 molded pins', 117x110mm, Contact Surface 112mm * 105mm, 350g; lila = 230000105 enligt bildfil PINNER-COMP-PURPLE-230000105. Felet: Giant anger 9 stift per SIDA; 'Varje pedal har 9' ger halva antalet (en pedal har två sidor), därför rättning; spec och meta säger rätt 'per sida'. Mountainbike: Giant skriver 'trail and enduro riders' (terrängcykling) och skrivna syskonet heter Pinner Comp MTB; godtas. Ingen maxvikt hos Giant: 'Maximal lastgräns: Ej känd' och meningen i texten enligt v1.10, ingen annan last- eller hållbarhetsuppgift ('durable', 'strong' rätt utelämnade). Inga 'enligt tillverkaren'. Unik mot skrivna Pinner Comp, Röd, Pinner Comp MTB och Pinner Elite, Lila (titel, SEO, meta). Notera: handle slutar på -230000107 men SKU är 230000105; handle ändras aldrig (R12a), påverkar inte texten."
+ }
+]
