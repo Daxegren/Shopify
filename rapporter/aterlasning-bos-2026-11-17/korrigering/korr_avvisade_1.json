@@ -1,0 +1,50 @@
+[
+ {
+  "id": "10462758469898",
+  "skal": "hoppad: Hoppad över: texten innehåller bara märke, modell och typ (boxningsdocka). Ingen fakta för en meta på 70 tecken utan utfyllnad."
+ },
+ {
+  "id": "10462845829386",
+  "skal": "hoppad: Hoppad över: bara märke, material (neopren) och att den säljs styckvis. En meta på 70 tecken skulle bli utfyllnad."
+ },
+ {
+  "id": "10468752720138",
+  "skal": "hoppad: Orörd: bara leveranstidsmening som skript lägger in."
+ },
+ {
+  "id": "10472258535690",
+  "skal": "hoppad: Hoppad över: 'Tunturi Sauna Smoke är en grå svettdräkt' upprepar inte typordet i namnet, alltså inte cirkulär enligt brief. Kan rättas om ni vill ha mer än definitionen."
+ },
+ {
+  "id": "10472259092746",
+  "skal": "hoppad: Hoppad över: 'Yoga Foam Grid är en massagerulle' upprepar inte typordet i namnet, alltså inte cirkulär enligt brief. Leveranstidsmening läggs av skript."
+ },
+ {
+  "id": "10472299725066",
+  "skal": "hoppad: Hoppad över: bara märke, typ och mått (200 x 100 x 0,6 cm). Meta på 70 tecken skulle bli utfyllnad."
+ },
+ {
+  "id": "10472308801802",
+  "skal": "hoppad: Underlag saknas: källan ger bara typ, märke och färg (grön); en meta på minst 70 tecken kräver utfyllnad. Orörd."
+ },
+ {
+  "id": "10472245756170",
+  "skal": "hoppad: Underlag saknas: bara typ, märke och färg; befintlig meta innehåller förbjuden utfyllnad men ny meta på minst 70 tecken kräver utfyllnad. Orörd."
+ },
+ {
+  "id": "10472297464074",
+  "skal": "hoppad: Underlag saknas: bara typ, märke och färg; befintlig meta har förbjuden utfyllnad. Orörd."
+ },
+ {
+  "id": "10475517870346",
+  "skal": "hoppad: Underlag saknas: bara typ, märke och avsedd för boxare; meta på minst 70 tecken kräver utfyllnad. Orörd."
+ },
+ {
+  "id": "10472242381066",
+  "skal": "hoppad: Underlag saknas: bara typ och modell; befintlig meta har förbjuden utfyllnad. Orörd."
+ },
+ {
+  "id": "10515736723722",
+  "skal": "hoppad: Underlag saknas: bara typ och märke; meta på minst 70 tecken kräver utfyllnad. Orörd."
+ }
+]
