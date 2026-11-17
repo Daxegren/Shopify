@@ -1,0 +1,37 @@
+{
+ "produkt": {
+  "id": "gid://shopify/Product/10636609421578",
+  "legacyResourceId": "10636609421578",
+  "title": "Miniband TRYM i Latex, Set om Fem Band med Påse",
+  "status": "ACTIVE",
+  "handle": "miniband-latex-5-pack-trym-inkl-pase",
+  "tags": [
+   "all products",
+   "gummi band",
+   "gummiband",
+   "korta gummiband",
+   "rumpträning",
+   "små gummiband",
+   "texter-klara",
+   "TRYM"
+  ],
+  "updatedAt": "2026-11-17T19:50:18Z",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/53782153363722",
+     "sku": "T000194",
+     "price": "109.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 226,
+     "inventoryItem": {
+      "unitCost": {
+       "amount": "49.0",
+       "currencyCode": "SEK"
+      }
+     }
+    }
+   ]
+  }
+ }
+}
