@@ -1,0 +1,91 @@
+{
+ "lage": "--kanarie",
+ "priser_fore": {
+  "10472238973194": [
+   [
+    "gid://shopify/ProductVariant/52848370057482",
+    "119.00",
+    null
+   ]
+  ],
+  "10581096005898": [
+   [
+    "gid://shopify/ProductVariant/53461488861450",
+    "99.00",
+    null
+   ]
+  ],
+  "10581096104202": [
+   [
+    "gid://shopify/ProductVariant/53461488959754",
+    "129.00",
+    null
+   ]
+  ],
+  "10581096694026": [
+   [
+    "gid://shopify/ProductVariant/53461489713418",
+    "109.00",
+    null
+   ]
+  ],
+  "10581096988938": [
+   [
+    "gid://shopify/ProductVariant/53461490204938",
+    "179.00",
+    null
+   ]
+  ],
+  "10581108949258": [
+   [
+    "gid://shopify/ProductVariant/53461531656458",
+    "159.00",
+    null
+   ]
+  ]
+ },
+ "priser_efter": {
+  "10472238973194": [
+   [
+    "gid://shopify/ProductVariant/52848370057482",
+    "119.00",
+    null
+   ]
+  ],
+  "10581096005898": [
+   [
+    "gid://shopify/ProductVariant/53461488861450",
+    "99.00",
+    null
+   ]
+  ],
+  "10581096104202": [
+   [
+    "gid://shopify/ProductVariant/53461488959754",
+    "129.00",
+    null
+   ]
+  ],
+  "10581096694026": [
+   [
+    "gid://shopify/ProductVariant/53461489713418",
+    "109.00",
+    null
+   ]
+  ],
+  "10581096988938": [
+   [
+    "gid://shopify/ProductVariant/53461490204938",
+    "179.00",
+    null
+   ]
+  ],
+  "10581108949258": [
+   [
+    "gid://shopify/ProductVariant/53461531656458",
+    "159.00",
+    null
+   ]
+  ]
+ }
+}
