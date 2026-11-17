@@ -1,0 +1,18 @@
+{
+ "lage": "--kanarie",
+ "datum": "2026-11-17T13:50:19",
+ "skrivna_och_verifierade": [
+  "10411771363594",
+  "10439135691018",
+  "10462190240010"
+ ],
+ "avvikelser": [],
+ "redan_klara": [],
+ "hoppade_over": [
+  {
+   "id": "10411495555338",
+   "skal": "spärrad (pilot-20)"
+  }
+ ],
+ "anrop": 14
+}
