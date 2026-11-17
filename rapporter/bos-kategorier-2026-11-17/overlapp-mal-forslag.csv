@@ -1,0 +1,20 @@
+handle,grupp,koopbara,visningar,klick,forslag,mal_starkast_enligt_search_console,kontroll
+cykelsolglasogon,cykelsolglasogon + solglasogon,16,2526,1,behåll,"(behåll, är starkast)",
+ladcyklar,ladcyklar + cargobikes,17,1507,0,behåll,"(behåll, är starkast)",
+hopfallbara-cyklar,hopfallbara-cyklar + hopfallbar-gymutrustning,8,1364,1,behåll,"(behåll, är starkast)",
+skivstangsset,skivstangspaket + skivstangsset,7,1232,1,behåll,"(behåll, är starkast)",
+skivstangspaket,skivstangspaket + skivstangsset,7,1209,1,slå ihop,skivstangsset,
+proteinpulver,proteinpulver + proteinpulver-1,6,1197,1,behåll,"(behåll, är starkast)",
+cargobikes,ladcyklar + cargobikes,17,321,1,slå ihop,ladcyklar,
+konditionsutrustning,konditionsutrustning + traningsutrustning-for-viktnedgang,534,280,1,behåll,"(behåll, är starkast)",
+aminosyror-1,aminosyror + aminosyror-1,7,258,0,behåll,"(behåll, är starkast)",
+all,varumarke + alla-produkter-best-of-sports + all,2667,0,0,behåll,"(behåll, är starkast)","GRANSKA: olika ämnen, troligen tillfälligt lika produktuppsättning; slå inte ihop utan kontroll"
+alla-produkter-best-of-sports,varumarke + alla-produkter-best-of-sports + all,2667,0,0,behåll,all,"GRANSKA: olika ämnen, troligen tillfälligt lika produktuppsättning; slå inte ihop utan kontroll"
+aminosyror,aminosyror + aminosyror-1,7,0,0,slå ihop,aminosyror-1,
+gympaket-1,gympaket-1 + viktpaket,35,0,0,behåll,"(behåll, är starkast)",
+hopfallbar-gymutrustning,hopfallbara-cyklar + hopfallbar-gymutrustning,8,0,0,slå ihop,hopfallbara-cyklar,
+proteinpulver-1,proteinpulver + proteinpulver-1,6,0,0,slå ihop,proteinpulver,
+solglasogon,cykelsolglasogon + solglasogon,16,0,0,slå ihop,cykelsolglasogon,
+traningsutrustning-for-viktnedgang,konditionsutrustning + traningsutrustning-for-viktnedgang,534,0,0,slå ihop,konditionsutrustning,
+varumarke,varumarke + alla-produkter-best-of-sports + all,2667,0,0,slå ihop,all,"GRANSKA: olika ämnen, troligen tillfälligt lika produktuppsättning; slå inte ihop utan kontroll"
+viktpaket,gympaket-1 + viktpaket,35,0,0,slå ihop,gympaket-1,

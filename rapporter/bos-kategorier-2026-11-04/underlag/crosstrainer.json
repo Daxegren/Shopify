@@ -1,0 +1,119 @@
+{
+ "handle": "crosstrainer",
+ "id": "gid://shopify/Collection/526983889162",
+ "titel": "Crosstrainer",
+ "regel": [
+  [
+   "TAG",
+   "EQUALS",
+   "crosstrainer"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "crosstrainers"
+  ]
+ ],
+ "huvud_regex": "crosstrainer",
+ "antal_i_kollektionen": 56,
+ "antal_koopbara_alla": 22,
+ "antal_koopbara": 20,
+ "antal_ovriga_koopbara": 2,
+ "exempel_ovriga": [
+  "Hybridtränare Christopeit AX 6500",
+  "Pulsband Tunturi Digital HR Armband"
+ ],
+ "marken": [
+  [
+   "Hammer",
+   6
+  ],
+  [
+   "Christopeit",
+   6
+  ],
+  [
+   "Tunturi",
+   4
+  ],
+  [
+   "BH Fitness",
+   3
+  ],
+  [
+   "Gymstick",
+   1
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "crosstrainer",
+   19
+  ],
+  [
+   "gx3.0",
+   1
+  ]
+ ],
+ "pris_min": 3209.0,
+ "pris_max": 43459.0,
+ "pris_median": 11199.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [
+  [
+   "Crosstrainer Christopeit Walker",
+   3209.0
+  ],
+  [
+   "Crosstrainer Christopeit CT 5",
+   4419.0
+  ],
+  [
+   "Crosstrainer och Motionscykel Christopeit CT 6",
+   4689.0
+  ],
+  [
+   "Crosstrainer Tunturi Cardio Fit C30, 8 Nivåer, Manuell Broms",
+   5109.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Crosstrainer Tunturi Platinum CT20",
+   43459.0
+  ],
+  [
+   "Crosstrainer Hammer CrossPace 7.0 NorsK",
+   22969.0
+  ],
+  [
+   "Crosstrainer BH Fitness Crystal 2.0 Multimedia",
+   19249.0
+  ]
+ ],
+ "alla_titlar": [
+  "Crosstrainer BH Fitness Altai",
+  "Crosstrainer BH Fitness Crystal 2.0",
+  "Crosstrainer BH Fitness Crystal 2.0 Multimedia",
+  "Crosstrainer Christopeit AX 8000",
+  "Crosstrainer Christopeit CT 5",
+  "Crosstrainer Christopeit ECO 2000",
+  "Crosstrainer Christopeit EL 8000",
+  "Crosstrainer Christopeit Walker",
+  "Crosstrainer Hammer CrossPace 5.0 NorsK",
+  "Crosstrainer Hammer CrossPace 7.0 NorsK",
+  "Crosstrainer Hammer Crossfly BT",
+  "Crosstrainer Hammer Crosstech XTR BT",
+  "Crosstrainer Hammer Ellypsis E3500",
+  "Crosstrainer Hammer SpeedMotion II",
+  "Crosstrainer Tunturi Cardio Fit C30, 8 Nivåer, Manuell Broms",
+  "Crosstrainer Tunturi FitCross 50i",
+  "Crosstrainer Tunturi Platinum CT20",
+  "Crosstrainer Tunturi Signature C60",
+  "Crosstrainer och Motionscykel Christopeit CT 6",
+  "GX3.0 Crosstrainer"
+ ]
+}

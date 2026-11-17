@@ -1,0 +1,89 @@
+rang,handle,titel,klass,koopbara,visningar,klick,position,potential
+1,kona-1,Kona,2 våg 2 (20+ köpbara),21,2887,22,16.6,2887
+2,traningsmaskin,Träningsmaskin,3 våg 3 (5-19 köpbara),8,3192,2,54.6,1622
+3,herrcyklar,Herrcykel,3 våg 3 (5-19 köpbara),11,2542,0,50.7,1490
+4,hybridcykel,Hybridcykel,2 våg 2 (20+ köpbara),53,2202,1,46.8,1462
+5,traningsbank,Träningsbänk,3 våg 3 (5-19 köpbara),18,3432,1,59.1,1435
+6,traningsutrustning-for-hemmagym,Träningsutrustning för hemmagym,2 våg 2 (20+ köpbara),605,1509,1,34.2,1382
+7,grepptraning,Greppträning,3 våg 3 (5-19 köpbara),11,1367,8,35.0,1230
+8,boxning,Boxning,2 våg 2 (20+ köpbara),25,966,0,33.1,906
+9,racercykel,Racercykel,2 våg 2 (20+ köpbara),43,1590,1,52.9,862
+10,stankskarmar-cykel,Stänkskärm - Cykel,2 våg 2 (20+ köpbara),41,1207,1,45.8,826
+11,gorilla-sports,Gorilla Sports,2 våg 2 (20+ köpbara),232,777,3,13.7,777
+12,basil,Basil,2 våg 2 (20+ köpbara),60,754,2,27.8,754
+13,pulsmatare,Pulsmätare,3 våg 3 (5-19 köpbara),6,1223,1,50.2,729
+14,balans,Balans,3 våg 3 (5-19 köpbara),9,1014,0,47.5,659
+15,hammer,Hammer,2 våg 2 (20+ köpbara),73,654,1,26.1,654
+16,gympaket,Gympaket,2 våg 2 (20+ köpbara),42,754,0,38.8,621
+17,cyklar,Cykel,2 våg 2 (20+ köpbara),383,1727,3,62.3,611
+18,fria-vikter,Fria Vikter,2 våg 2 (20+ köpbara),157,973,1,50.0,584
+19,cykeltillbehor,Cykeltillbehör,3 våg 3 (5-19 köpbara),6,1193,1,57.1,546
+20,traningsmatta,Träningsmatta,2 våg 2 (20+ köpbara),33,1937,0,67.2,496
+21,giant,Giant,2 våg 2 (20+ köpbara),239,499,2,30.7,492
+22,gymgolv,Gymgolv,3 våg 3 (5-19 köpbara),12,1764,11,67.3,448
+23,pedaler-cykel,Pedal - Cykel,3 våg 3 (5-19 köpbara),15,1542,0,65.7,441
+24,pjaxor,Pjäxor,3 våg 3 (5-19 köpbara),5,543,0,39.7,438
+25,liv,Liv,2 våg 2 (20+ köpbara),55,433,8,26.4,433
+26,romet,Romet,2 våg 2 (20+ köpbara),140,1376,49,9.8,413
+27,cykelhjalmar,Cykelhjälm,2 våg 2 (20+ köpbara),20,411,1,20.7,411
+28,fot-handledsvikt,Fot- handledsvikt,3 våg 3 (5-19 köpbara),7,407,1,30.0,407
+29,yoga-pilates,Yoga & Pilates,2 våg 2 (20+ köpbara),48,737,1,53.8,386
+30,stretching,Stretching,2 våg 2 (20+ köpbara),56,373,3,19.0,373
+31,cykelkedjor,Cykelkedja,2 våg 2 (20+ köpbara),32,1443,1,67.3,367
+32,flaskhallare,Flaskhållare,3 våg 3 (5-19 köpbara),14,969,2,61.4,360
+33,gravelcykel,Gravelcykel,2 våg 2 (20+ köpbara),36,505,2,44.7,357
+34,stodben-stodhjul-cykel,Stödben & stödhjul,3 våg 3 (5-19 köpbara),11,497,3,48.0,318
+35,skidor,Skidor,2 våg 2 (20+ köpbara),24,467,0,46.2,316
+36,viktvast,Viktväst,3 våg 3 (5-19 köpbara),5,593,0,55.9,286
+37,cykelslangar,Cykelslang,2 våg 2 (20+ köpbara),21,777,0,61.7,284
+38,cykelvaskor,Cykelväska,3 våg 3 (5-19 köpbara),17,435,1,48.8,271
+39,tillbehor,Tillbehör,2 våg 2 (20+ köpbara),469,272,0,34.0,250
+40,damcyklar,Damcykel,2 våg 2 (20+ köpbara),98,312,0,41.5,240
+41,traningsboll,Träningsboll,3 våg 3 (5-19 köpbara),15,334,0,45.9,228
+42,sportutrustning,Sportutrustning,2 våg 2 (20+ köpbara),20,296,0,42.8,220
+43,hemmagym,Hemmagym,2 våg 2 (20+ köpbara),42,516,1,59.5,212
+44,pakethallare-cykel,Pakethållare - Cykel,2 våg 2 (20+ köpbara),43,558,0,61.2,210
+45,yogamatta,Yogamatta,3 våg 3 (5-19 köpbara),8,621,0,64.1,197
+46,cykelpumpar,Cykelpump,3 våg 3 (5-19 köpbara),19,509,0,60.8,195
+47,cykelkorgar,Cykelkorg,2 våg 2 (20+ köpbara),45,252,0,42.9,187
+48,viktskivor,Viktskiva,2 våg 2 (20+ köpbara),55,573,0,63.8,186
+49,cykelbelysning,Cykelbelysning,2 våg 2 (20+ köpbara),49,555,0,65.9,157
+50,skivstang,Skivstång,2 våg 2 (20+ köpbara),21,387,0,63.4,128
+51,gummiband,Gummiband,2 våg 2 (20+ köpbara),23,1543,0,77.0,93
+52,hopprep,Hopprep,3 våg 3 (5-19 köpbara),14,951,0,75.7,82
+53,traningsutrustning-for-viktnedgang-kopia-kopia,Träningsutrustning för kvinnor,2 våg 2 (20+ köpbara),549,0,0,0,0
+54,tillbehor-1,Tillbehör,2 våg 2 (20+ köpbara),461,0,0,0,0
+55,toorx,Toorx,2 våg 2 (20+ köpbara),129,0,0,0,0
+56,traningsutrustning-for-crossfit-kop-crossfit-utrustning,Träningsutrustning för crossfit,2 våg 2 (20+ köpbara),118,0,0,0,0
+57,gymutrustning,Gymutrustning,2 våg 2 (20+ köpbara),109,0,0,0,0
+58,traningsutrustning-for-ben-och-rumpa-allt-du-behover-pa-ett-stalle,Träningsutrustning för ben och rumpa,2 våg 2 (20+ köpbara),103,0,0,0,0
+59,funktionellt,Funktionellt,2 våg 2 (20+ köpbara),95,0,0,0,0
+60,mountainbike,Mountainbike,2 våg 2 (20+ köpbara),70,0,0,0,0
+61,bh-fitness,BH Fitness,2 våg 2 (20+ köpbara),55,0,0,0,0
+62,ovrig-utrustning,Övrig utrustning,2 våg 2 (20+ köpbara),33,0,0,0,0
+63,cykelsadlar,Cykelsadel,2 våg 2 (20+ köpbara),28,0,0,0,0
+64,ryggtraning,Ryggträning,2 våg 2 (20+ köpbara),22,0,0,0,0
+65,kabelhandtag,Kabelhandtag,3 våg 3 (5-19 köpbara),18,0,0,0,0
+66,halsa-ovrigt,Hälsa & övrigt,3 våg 3 (5-19 köpbara),17,0,0,0,0
+67,selle-monte-grappa,Selle Monte Grappa,3 våg 3 (5-19 köpbara),17,0,0,0,0
+68,viktskivor-gummi,Viktskivor - Gummi,3 våg 3 (5-19 köpbara),17,0,0,0,0
+69,lopband-med-lutning,Löpband med lutning,3 våg 3 (5-19 köpbara),15,0,0,0,0
+70,skridskor,Skridskor,3 våg 3 (5-19 köpbara),13,0,0,0,0
+71,hopfallbara-lopband,Hopfällbara löpband,3 våg 3 (5-19 köpbara),12,0,0,0,0
+72,cairn,Cairn,3 våg 3 (5-19 köpbara),10,0,0,0,0
+73,curlstang,Curlstång,3 våg 3 (5-19 köpbara),10,0,0,0,0
+74,magtraning,Magträning,3 våg 3 (5-19 köpbara),9,0,0,0,0
+75,pulkor,Pulkor,3 våg 3 (5-19 köpbara),9,0,0,0,0
+76,viktskivor-jarn,Viktskivor - Järn,3 våg 3 (5-19 köpbara),9,0,0,0,0
+77,balansplatta,Balansplatta,3 våg 3 (5-19 köpbara),8,0,0,0,0
+78,lopband-med-skarm,Löpband med skärm,3 våg 3 (5-19 köpbara),8,0,0,0,0
+79,skivstang-30-mm,Skivstång 30mm,3 våg 3 (5-19 köpbara),8,0,0,0,0
+80,traningstillbehor,Träningstillbehör,3 våg 3 (5-19 köpbara),8,0,0,0,0
+81,viktlas,Viktlås,3 våg 3 (5-19 köpbara),8,0,0,0,0
+82,adaptogener,Adaptogener,3 våg 3 (5-19 köpbara),7,0,0,0,0
+83,mineralkomplex-mineralkapslar,Mineralkomplex & mineralkapslar,3 våg 3 (5-19 köpbara),7,0,0,0,0
+84,push-up-bars,Push up Bars,3 våg 3 (5-19 köpbara),7,0,0,0,0
+85,skivstangspaket-30-31mm,Skivstångspaket - 30/31mm,3 våg 3 (5-19 köpbara),6,0,0,0,0
+86,antioxidanter,Antioxidanter,3 våg 3 (5-19 köpbara),5,0,0,0,0
+87,shakers-och-dosaskar,Shakers och dosaskar,3 våg 3 (5-19 köpbara),5,0,0,0,0
+88,viktskiva-30-31mm,Viktskiva - 30/31mm,3 våg 3 (5-19 köpbara),5,0,0,0,0

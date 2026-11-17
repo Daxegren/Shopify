@@ -1,0 +1,149 @@
+{
+ "handle": "crosstrainer",
+ "id": "gid://shopify/Collection/526983889162",
+ "titel": "Crosstrainer",
+ "regel": [
+  [
+   "TAG",
+   "EQUALS",
+   "crosstrainer"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "crosstrainers"
+  ]
+ ],
+ "huvud_regex": "crosstrainer",
+ "antal_i_kollektionen": 56,
+ "antal_koopbara_alla": 28,
+ "antal_koopbara": 24,
+ "antal_ovriga_koopbara": 4,
+ "exempel_ovriga": [
+  "Pulsbälte TUNTURI CHEST BELT 5.3KHZ",
+  "Hybridtränare Christopeit AX 6500",
+  "Pulsband Tunturi Digital HR Armband",
+  "Hybrid trainer CHRISTOPEIT CT 4"
+ ],
+ "ovriga_titlar": [
+  "Hybrid trainer CHRISTOPEIT CT 4",
+  "Hybridtränare Christopeit AX 6500",
+  "Pulsband Tunturi Digital HR Armband",
+  "Pulsbälte TUNTURI CHEST BELT 5.3KHZ"
+ ],
+ "ovriga_med_pris": [
+  [
+   "Hybrid trainer CHRISTOPEIT CT 4",
+   5089.0
+  ],
+  [
+   "Hybridtränare Christopeit AX 6500",
+   7829.0
+  ],
+  [
+   "Pulsband Tunturi Digital HR Armband",
+   1789.0
+  ],
+  [
+   "Pulsbälte TUNTURI CHEST BELT 5.3KHZ",
+   509.0
+  ]
+ ],
+ "marken": [
+  [
+   "Christopeit",
+   8
+  ],
+  [
+   "Hammer",
+   6
+  ],
+  [
+   "Tunturi",
+   6
+  ],
+  [
+   "BH Fitness",
+   3
+  ],
+  [
+   "Gymstick",
+   1
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "crosstrainer",
+   23
+  ],
+  [
+   "gx3.0",
+   1
+  ]
+ ],
+ "pris_min": 3199.0,
+ "pris_max": 43369.0,
+ "pris_median": 10844.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [
+  [
+   "Crosstrainer Christopeit Walker",
+   3199.0
+  ],
+  [
+   "Crosstrainer Christopeit CT 5",
+   4409.0
+  ],
+  [
+   "Crosstrainer och Motionscykel Christopeit CT 6",
+   4679.0
+  ],
+  [
+   "Crosstrainer CHRISTOPEIT CT 3",
+   4929.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Crosstrainer Tunturi Platinum CT20",
+   43369.0
+  ],
+  [
+   "Crosstrainer Hammer CrossPace 7.0 NorsK",
+   22919.0
+  ],
+  [
+   "Crosstrainer BH Fitness Crystal 2.0 Multimedia",
+   19199.0
+  ]
+ ],
+ "alla_titlar": [
+  "Crosstrainer BH Fitness Altai",
+  "Crosstrainer BH Fitness Crystal 2.0",
+  "Crosstrainer BH Fitness Crystal 2.0 Multimedia",
+  "Crosstrainer CHRISTOPEIT CT 3",
+  "Crosstrainer CHRISTOPEIT Fitwheel Pro",
+  "Crosstrainer Christopeit AX 8000",
+  "Crosstrainer Christopeit CT 5",
+  "Crosstrainer Christopeit ECO 2000",
+  "Crosstrainer Christopeit EL 8000",
+  "Crosstrainer Christopeit Walker",
+  "Crosstrainer Hammer CrossPace 5.0 NorsK",
+  "Crosstrainer Hammer CrossPace 7.0 NorsK",
+  "Crosstrainer Hammer Crossfly BT",
+  "Crosstrainer Hammer Crosstech XTR BT",
+  "Crosstrainer Hammer Ellypsis E3500",
+  "Crosstrainer Hammer SpeedMotion II",
+  "Crosstrainer Tunturi Cardio Fit C30, 8 Nivåer, Manuell Broms",
+  "Crosstrainer Tunturi FitCross 50i",
+  "Crosstrainer Tunturi Platinum CT20",
+  "Crosstrainer Tunturi Signature C20-R",
+  "Crosstrainer Tunturi Signature C60",
+  "Crosstrainer Tunturi Signature C65",
+  "Crosstrainer och Motionscykel Christopeit CT 6",
+  "GX3.0 Crosstrainer"
+ ]
+}

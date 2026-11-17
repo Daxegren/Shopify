@@ -1,0 +1,183 @@
+{
+ "handle": "motionscykel",
+ "id": "gid://shopify/Collection/526984020234",
+ "titel": "Motionscykel",
+ "regel": [
+  [
+   "TAG",
+   "EQUALS",
+   "motionscykel"
+  ]
+ ],
+ "huvud_regex": "motionscykel|spinningcykel|träningscykel",
+ "antal_i_kollektionen": 125,
+ "antal_koopbara_alla": 75,
+ "antal_koopbara": 72,
+ "antal_ovriga_koopbara": 3,
+ "exempel_ovriga": [
+  "Cykelsadel Tunturi Comfort Seat med Gel för Motionscykel",
+  "Minicykel Tunturi Hopfällbar med Display",
+  "Crosstrainer och Motionscykel Christopeit CT 6"
+ ],
+ "marken": [
+  [
+   "Tunturi",
+   24
+  ],
+  [
+   "BH Fitness",
+   17
+  ],
+  [
+   "Toorx",
+   15
+  ],
+  [
+   "Hammer",
+   10
+  ],
+  [
+   "Christopeit",
+   4
+  ],
+  [
+   "Velomarket",
+   2
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "motionscykel",
+   47
+  ],
+  [
+   "spinningcykel",
+   17
+  ],
+  [
+   "hopfällbar",
+   5
+  ],
+  [
+   "träningscykel",
+   2
+  ],
+  [
+   "liggande",
+   1
+  ]
+ ],
+ "pris_min": 3699.0,
+ "pris_max": 27829.0,
+ "pris_median": 10039.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": 11.0,
+ "kg_i_titlar_max": 180.0,
+ "antal_titlar_med_kg": 13,
+ "billigaste": [
+  [
+   "Motionscykel Tunturi Cardio Fit D20 Deskbike",
+   3699.0
+  ],
+  [
+   "Hopfällbar Motionscykel Christopeit S-Bike Velo Fit, Svart",
+   4079.0
+  ],
+  [
+   "Motionscykel Christopeit Active",
+   4079.0
+  ],
+  [
+   "Motionscykel Tunturi Fit B20 X-bike",
+   4119.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Motionscykel Tunturi Platinum E30",
+   27829.0
+  ],
+  [
+   "Motionscykel BH Fitness XTR Multimedia 16 med Ryggstöd",
+   27729.0
+  ],
+  [
+   "Motionscykel Tunturi Platinum E20",
+   26019.0
+  ]
+ ],
+ "alla_titlar": [
+  "Hopfällbar Motionscykel BH Fitness X-Tri 2 med Ryggstöd",
+  "Hopfällbar Motionscykel Christopeit S-Bike Velo Fit, Svart",
+  "Hopfällbar Motionscykel Toorx BRX Compact",
+  "Hopfällbar Motionscykel Toorx Compact MultiFit",
+  "Hopfällbar Motionscykel Tunturi Fit B25 X-bike med Ryggstöd",
+  "Liggande Motionscykel Tunturi Signature E60R",
+  "Motionscykel BH FITNESS Lyon Climber",
+  "Motionscykel BH FITNESS Lyon Climber Multimedia",
+  "Motionscykel BH FITNESS Lyon Climber Multimedia",
+  "Motionscykel BH Fitness Arctic med 8 Motståndsnivåer",
+  "Motionscykel BH Fitness EC01 Exercycle med 11 kg Svänghjul",
+  "Motionscykel BH Fitness Lyon Climber Multimedia med 10-tums Skärm",
+  "Motionscykel BH Fitness Lyon Climber med 8 Lutningar",
+  "Motionscykel BH Fitness Osaka med 32 Motståndsnivåer",
+  "Motionscykel BH Fitness TFR Ergo med Ryggstöd och Bluetooth",
+  "Motionscykel BH Fitness XTB MED, Maximal Användarvikt 180 kg",
+  "Motionscykel BH Fitness XTB med 30 Träningsprogram",
+  "Motionscykel BH Fitness XTR MED med Ryggstöd",
+  "Motionscykel BH Fitness XTR Multimedia 16 med Ryggstöd",
+  "Motionscykel Christopeit Active",
+  "Motionscykel Christopeit ET 3.1",
+  "Motionscykel Christopeit ET 5.1, Svart",
+  "Motionscykel Hammer Cardio Motion BT med 22 Program",
+  "Motionscykel Hammer Cardio T3 med 8 Nivåer",
+  "Motionscykel Hammer Cardio XT7 med 24 Träningsprogram",
+  "Motionscykel Hammer CardioPace 5.0 NorsK med 24 Program",
+  "Motionscykel Hammer Maximum Presidio med 41 Nivåer",
+  "Motionscykel Hammer Speed Race med 16 kg Svänghjul",
+  "Motionscykel Toorx BRX 65 Comfort med Ryggstöd",
+  "Motionscykel Toorx BRX-100 Ergo med 32 Nivåer",
+  "Motionscykel Toorx BRX-100 med 12 kg Svänghjul",
+  "Motionscykel Toorx BRX-300 med 14 kg Svänghjul",
+  "Motionscykel Toorx BRX95 Comfort med Ryggstöd",
+  "Motionscykel Toorx SRX Speed Mag Pro med 20 kg Svänghjul",
+  "Motionscykel Tunturi Cardio Fit B30 med 4 Program",
+  "Motionscykel Tunturi Cardio Fit B40 med 4 Program",
+  "Motionscykel Tunturi Cardio Fit D20 Deskbike",
+  "Motionscykel Tunturi Cardio Fit E30 Ergometer",
+  "Motionscykel Tunturi Centuri E100",
+  "Motionscykel Tunturi Competence F20 med 3 Program",
+  "Motionscykel Tunturi Fit B20 X-bike",
+  "Motionscykel Tunturi FitCycle 20 med 8 Svårighetsgrader",
+  "Motionscykel Tunturi FitCycle 30 med 4 Program",
+  "Motionscykel Tunturi FitCycle 50i",
+  "Motionscykel Tunturi Fitcycle 40i",
+  "Motionscykel Tunturi Platinum E20",
+  "Motionscykel Tunturi Platinum E30",
+  "Motionscykel Tunturi Signature E40",
+  "Motionscykel Tunturi Signature E60",
+  "Motionscykel Tunturi Signature E80",
+  "Motionscykel Tunturi Star Fit B100 Bike",
+  "Motionscykel Tunturi Star Fit E100 HR I+",
+  "Motionscykel Tunturi Star Fit X100 X-Bike",
+  "Spinningcykel BH FITNESS Stratos",
+  "Spinningcykel BH Fitness Stratos med 22 kg Svänghjul",
+  "Spinningcykel BH Fitness Tokyo med 20 kg Svänghjul",
+  "Spinningcykel BH Fitness i.Rhone med 32 Nivåer",
+  "Spinningcykel Hammer HyRace SR med Pekskärm",
+  "Spinningcykel Hammer Speed PRO med 36 Nivåer",
+  "Spinningcykel Hammer Speed Race SR med 10,1-tums Pekskärm",
+  "Spinningcykel Hammer Speed Race X med 20 kg Svänghjul",
+  "Spinningcykel TOORX SRX Speed Mag",
+  "Spinningcykel TOORX SRX Speed Mag",
+  "Spinningcykel TOORX SRX Speed Mag",
+  "Spinningcykel Toorx SRX Speed Mag med 20 kg Svänghjul",
+  "Spinningcykel Toorx SRX-50S med 20 kg Svänghjul",
+  "Spinningcykel Toorx SRX-70S med 22 kg Svänghjul",
+  "Spinningcykel Toorx SRX-EVOLVE med 22 kg Svänghjul",
+  "Spinningcykel Tunturi Cardio Fit S20 Sprinter Bike",
+  "Spinningcykel Tunturi Platinum S20",
+  "Träningscykel BH FITNESS Lyon Climber",
+  "Träningscykel TUNTURI Centuri E100"
+ ]
+}
