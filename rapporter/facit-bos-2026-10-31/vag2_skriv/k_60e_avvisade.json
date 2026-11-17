@@ -1,0 +1,17 @@
+[
+ {
+  "id": "10472294252810",
+  "nr": 60105,
+  "skäl": "Källan stämmer inte med titeln (R3/v1.8): titeln anger färgen gul, men produkten har två varianter med olika färg och olika artikelnummer (yellow 02130231, blue 02130230)."
+ },
+ {
+  "id": "10472294973706",
+  "nr": 60107,
+  "skäl": "Dubblett (R12a): samma modell och färg (Excelsior Cracker, Guld Matt) som redan skrivna 60008 i k_60a (annat artikelnummer, 02130059 mot 02130057, men samma titel och samma källa). Texten kan inte skiljas från 60008:s."
+ },
+ {
+  "id": "10472298971402",
+  "nr": 60115,
+  "skäl": "Redan skriven: live-beskrivningen och SEO följer redan vår struktur (inledning, Passar för, Specifikationer, standardblock; SEO-titel och meta finns), bara taggen texter-klara saknas (R15). Ingen ny text behövs; granskaren bör kontrollera live-texten."
+ }
+]

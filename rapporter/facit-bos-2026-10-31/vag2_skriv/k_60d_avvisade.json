@@ -1,0 +1,22 @@
+[
+ {
+  "id": "10472258306314",
+  "nr": 60078,
+  "skäl": "Motsägande källa (R2/R3): titeln anger Talon 29 4 med 29-tumshjul, men källtexten kallar cykeln \"Talon 4 Metallic Black\" och anger däck Kenda Booster 27,5 x 2,2\". Hjulstorlek och modell kan inte avgöras utan gissning."
+ },
+ {
+  "id": "10472283439370",
+  "nr": 60090,
+  "skäl": "Källan stämmer inte med titeln (R3): titeln anger färgen svart, men leverantörstexten anger \"Färg: lime\"."
+ },
+ {
+  "id": "10472285012234",
+  "nr": 60093,
+  "skäl": "Motsägande källa (R2/R3): titeln anger hjul 100 mm, men källans rad anger \"Hjuldiameter (mm): 110\"."
+ },
+ {
+  "id": "10472291041546",
+  "nr": 60098,
+  "skäl": "Motsägande källa (R2/R3): titeln anger stuntscooter, men källtexten beskriver en \"trehjuling\" för barn (\"S'Cool-trehjulingen\"). Produkttypen kan inte avgöras utan gissning."
+ }
+]
