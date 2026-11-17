@@ -1,0 +1,89 @@
+[
+ {
+  "id": "gid://shopify/Product/10472251752714",
+  "title": "Träningshandskar SPOKEY Lava, svart, XL",
+  "handle": "tr-ningshandskar-spokey-lava-svart-xl-928977",
+  "status": "ACTIVE",
+  "tags": [
+   "Konditionsträning & Fitness",
+   "Spokey",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-16T05:55:51Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Den perfekta kombinationen av komfort och passform, den passar nästan alla händer men gör träningen superbekväm.</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52848395780362",
+     "sku": "928977",
+     "price": "349.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10589598908682",
+  "title": "Oxford Aquatex bicycle cover",
+  "handle": "oxford-aquatex-bicycle-cover-03-cc100",
+  "status": "ACTIVE",
+  "tags": [
+   "Oxford",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 2,
+  "updatedAt": "2026-11-16T06:12:37Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Mått: 192 x 72 x 110 cm<br><br>. Passar en cykel.<br><br>Tillverkad av Oxford.</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/53503917392138",
+     "sku": "03-CC100",
+     "price": "389.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 2
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10411479695626",
+  "title": "Set med cykellampor AXA Niteline 44",
+  "handle": "set-med-cykellampor-axa-niteline-44",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellampor",
+   "Velomarket"
+  ],
+  "totalInventory": 4,
+  "updatedAt": "2026-11-09T05:59:21Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p><strong>AXA Niteline 44</strong>-lamporna är små och kompakta, men ändå synliga i trafiken (från ett avstånd av 450 m). Båda lamporna har 4 LED-lampor, en brinntid på upp till 44 timmar och 4 ljuslägen. CR2032-batterier är lämpliga. Gummiband gör lamporna lätta att installera.</p>\n<ul>\n<li>Lämpliga CR2032-batterier.</li>\n<li>Synlig från ett avstånd av 450 m.</li>\n<li>4 ljuslägen.</li>\n<li>Mått: 110 x 70 x 30 mm.</li>\n</ul>\n\n<p><strong>AXA</strong> är en välkänd <strong>nederländsk</strong> tillverkare av säkerhetsprodukter. <strong>AXA Bike Security</strong> är oskiljaktigt förknippat med cykelvärlden - med <strong>115</strong> års erfarenhet hjälper <strong>AXA Bike Security</strong> till att säkerställa säkerheten för cyklister och deras cyklar. Som en sann cykelentusiast vet <strong>AXA Bike Security</strong> exakt vad cyklister behöver för att cykla säkert.</p>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52586685006090",
+     "sku": "90900295SC",
+     "price": "169.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 4
+    }
+   ]
+  }
+ }
+]
