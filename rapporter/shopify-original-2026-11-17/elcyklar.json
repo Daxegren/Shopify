@@ -1,0 +1,4221 @@
+{
+ "fore": {
+  "id": "gid://shopify/Collection/561573069066",
+  "handle": "elcyklar",
+  "title": "Elcykel",
+  "updatedAt": "2026-11-16T07:00:23Z",
+  "descriptionHtml": "<p style=\"text-align: left;\" data-end=\"801\" data-start=\"360\">Letar du efter elcyklar online? Hos Best Of Sports hittar du ett brett utbud av elcyklar som passar alla typer av cyklister och behov. En elcykel gör pendling, fritid och längre turer både enklare och roligare. Med el-assistans får du extra kraft i uppförsbackar och på längre sträckor samtidigt som du behåller känslan av att trampa själv. Våra elcyklar kombinerar komfort, stil och prestanda och finns i både prisvärda och premiumalternativ.</p>\n<p style=\"text-align: left;\" data-end=\"1286\" data-start=\"803\">När du ska köpa elcykel är det viktigt att fundera över vilken typ av cykling du främst kommer göra. Vill du ha en billig elcykel för korta pendlingsturer eller en premium elcykel med lång räckvidd och avancerad teknik? Hos oss hittar du modeller som passar både nybörjare och vana cyklister, med olika ramstorlekar, batterikapacitet och motoralternativ. Fundera även på tillbehör som pakethållare, skärmar, cykellås och belysning för att få en komplett lösning för vardagen.</p>\n<h2 style=\"text-align: left;\" data-end=\"1317\" data-start=\"1288\"><strong data-end=\"1317\" data-start=\"1288\">Elcyklar för herr och dam</strong></h2>\n<p style=\"text-align: left;\" data-end=\"1653\" data-start=\"1319\">Våra elcyklar finns i både herr- och dammodeller, anpassade för optimal komfort och prestanda. En elcykel för herr erbjuder ofta sportigare körställning medan dammodeller har en mer upprätt position för extra komfort under längre turer. Oavsett modell får du en stabil och pålitlig cykel som gör varje tur smidig och energibesparande.</p>\n<h2 style=\"text-align: left;\" data-end=\"1689\" data-start=\"1655\"><strong data-end=\"1689\" data-start=\"1655\">Prisvärda och premium elcyklar</strong></h2>\n<p style=\"text-align: left;\" data-end=\"2145\" data-start=\"1691\">Hos Best Of Sports hittar du både prisvärda elcyklar och premiumelcyklar med högsta kvalitet och modern teknik. Våra elcyklar med lång räckvidd gör det enkelt att cykla längre sträckor utan oro för batteriet. Du kan välja mellan lättviktiga elcyklar för stadspendling, robusta modeller för längre turer och familjevänliga varianter med plats för pakethållare och barnstolar. Alla våra elcyklar är byggda för att ge maximal komfort, säkerhet och hållbarhet.</p>\n<h2 style=\"text-align: left;\" data-end=\"2167\" data-start=\"2147\"><strong data-end=\"2167\" data-start=\"2147\">Kända varumärken</strong></h2>\n<p style=\"text-align: left;\" data-end=\"2546\" data-start=\"2169\">Vi erbjuder elcyklar från etablerade och pålitliga varumärken som Giant, Liv, Kona och Romet. Dessa märken står för kvalitet, prestanda och innovation och erbjuder cyklar som passar både korta pendlingsturer och längre äventyr. Oavsett om du letar efter en prisvärd elcykel eller en premiummodell med avancerad motor och batteri, hittar du ett alternativ som passar dina behov.</p>\n<h2 style=\"text-align: left;\" data-end=\"2588\" data-start=\"2548\"><strong data-end=\"2588\" data-start=\"2548\">Varför köpa elcykel hos Best Of Sports</strong></h2>\n<p style=\"text-align: left;\" data-end=\"3039\" data-start=\"2590\">Hos Best Of Sports kan du köpa elcyklar online med snabb leverans och trygg service. Våra cyklar är designade för alla typer av cyklister och användningsområden. Oavsett om du vill ha en billig elcykel, prisvärd elcykel, premium elcykel eller elcykel med lång räckvidd, erbjuder vi modeller som kombinerar kvalitet, komfort och prestanda. Utforska vårt sortiment idag och hitta den perfekta elcykeln för din vardag, träning och fritid.</p>",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "elcykel",
+  "seo": {
+   "title": "Elcyklar | Köp billiga och premium elcyklar online med lång räckvidd",
+   "description": "Upptäck elcyklar online för pendling, fritid och längre turer. Välj billiga elcyklar, prisvärda modeller, premium elcyklar och elcyklar med lång räckvidd."
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "Elcyklar"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "Elcykel"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "electric bike"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "e-bike"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 292
+  }
+ },
+ "produkter_fore": {
+  "gid://shopify/Product/10721332232458": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket"
+   ],
+   "44659.0"
+  ],
+  "gid://shopify/Product/10721332199690": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket"
+   ],
+   "47959.0"
+  ],
+  "gid://shopify/Product/10721331970314": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket"
+   ],
+   "139179.0"
+  ],
+  "gid://shopify/Product/10721331904778": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket"
+   ],
+   "122989.0"
+  ],
+  "gid://shopify/Product/10708320551178": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "124361.1"
+  ],
+  "gid://shopify/Product/10708320452874": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "163409.0"
+  ],
+  "gid://shopify/Product/10708320059658": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "54289.0"
+  ],
+  "gid://shopify/Product/10708319994122": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "42857.1"
+  ],
+  "gid://shopify/Product/10708319469834": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "58349.0"
+  ],
+  "gid://shopify/Product/10708319305994": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "44659.0"
+  ],
+  "gid://shopify/Product/10682106118410": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "58349.0"
+  ],
+  "gid://shopify/Product/10682106085642": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "43253.1"
+  ],
+  "gid://shopify/Product/10682105594122": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Kona",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "96713.1"
+  ],
+  "gid://shopify/Product/10682105528586": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "13839.0"
+  ],
+  "gid://shopify/Product/10682105463050": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "47959.0"
+  ],
+  "gid://shopify/Product/10682105430282": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "44659.0"
+  ],
+  "gid://shopify/Product/10682105397514": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "163409.0"
+  ],
+  "gid://shopify/Product/10682105331978": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "40283.1"
+  ],
+  "gid://shopify/Product/10682105299210": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "40283.1"
+  ],
+  "gid://shopify/Product/10676722008330": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "139179.0"
+  ],
+  "gid://shopify/Product/10676721549578": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "44659.0"
+  ],
+  "gid://shopify/Product/10676720697610": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "44659.0"
+  ],
+  "gid://shopify/Product/10676720173322": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "33619.0"
+  ],
+  "gid://shopify/Product/10676717453578": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "26159.0"
+  ],
+  "gid://shopify/Product/10676713652490": [
+   "ARCHIVED",
+   [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "75979.0"
+  ],
+  "gid://shopify/Product/10676713586954": [
+   "ACTIVE",
+   [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "68399.1"
+  ],
+  "gid://shopify/Product/10676713390346": [
+   "ARCHIVED",
+   [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "61839.0"
+  ],
+  "gid://shopify/Product/10676713259274": [
+   "ACTIVE",
+   [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "55664.1"
+  ],
+  "gid://shopify/Product/10673181851914": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "23209.0"
+  ],
+  "gid://shopify/Product/10673181819146": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "23209.0"
+  ],
+  "gid://shopify/Product/10673181688074": [
+   "ACTIVE",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "22418.1"
+  ],
+  "gid://shopify/Product/10673181655306": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "22418.1"
+  ],
+  "gid://shopify/Product/10673181524234": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "25089.0"
+  ],
+  "gid://shopify/Product/10673181491466": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "41419.0"
+  ],
+  "gid://shopify/Product/10673181425930": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "41419.0"
+  ],
+  "gid://shopify/Product/10673181360394": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "39455.1"
+  ],
+  "gid://shopify/Product/10673181229322": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "39455.1"
+  ],
+  "gid://shopify/Product/10673180508426": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "43739.0"
+  ],
+  "gid://shopify/Product/10673180475658": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "43739.0"
+  ],
+  "gid://shopify/Product/10673180410122": [
+   "ARCHIVED",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "55879.0"
+  ],
+  "gid://shopify/Product/10673177952522": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "55879.0"
+  ],
+  "gid://shopify/Product/10665232367882": [
+   "ACTIVE",
+   [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "67599.0"
+  ],
+  "gid://shopify/Product/10665232105738": [
+   "ACTIVE",
+   [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "28789.0"
+  ],
+  "gid://shopify/Product/10665232072970": [
+   "ARCHIVED",
+   [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale"
+   ],
+   "33849.0"
+  ],
+  "gid://shopify/Product/10656694272266": [
+   "ACTIVE",
+   [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "30986.1"
+  ],
+  "gid://shopify/Product/10656694239498": [
+   "ACTIVE",
+   [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "sync-skydd",
+    "texter-klara"
+   ],
+   "30527.1"
+  ],
+  "gid://shopify/Product/10656692207882": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "59959.0"
+  ],
+  "gid://shopify/Product/10650209845514": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "47459.0"
+  ],
+  "gid://shopify/Product/10650209747210": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "77919.0"
+  ],
+  "gid://shopify/Product/10635810111754": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "49562.1"
+  ],
+  "gid://shopify/Product/10635809882378": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "57549.0"
+  ],
+  "gid://shopify/Product/10635809849610": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "42605.1"
+  ],
+  "gid://shopify/Product/10635809325322": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "63189.0"
+  ],
+  "gid://shopify/Product/10635807064330": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "63189.0"
+  ],
+  "gid://shopify/Product/10635806998794": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "51425.1"
+  ],
+  "gid://shopify/Product/10635806900490": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "59959.0"
+  ],
+  "gid://shopify/Product/10635806802186": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "48536.1"
+  ],
+  "gid://shopify/Product/10624088539402": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "66419.0"
+  ],
+  "gid://shopify/Product/10624088441098": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Hybridcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "57549.0"
+  ],
+  "gid://shopify/Product/10624088375562": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "56169.0"
+  ],
+  "gid://shopify/Product/10624088244490": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "54638.1"
+  ],
+  "gid://shopify/Product/10612594540810": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "41949.0"
+  ],
+  "gid://shopify/Product/10612594508042": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "47299.0"
+  ],
+  "gid://shopify/Product/10612594475274": [
+   "ACTIVE",
+   [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "28789.0"
+  ],
+  "gid://shopify/Product/10605383909642": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "92299.0"
+  ],
+  "gid://shopify/Product/10598565019914": [
+   "ACTIVE",
+   [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "23729.0"
+  ],
+  "gid://shopify/Product/10598564987146": [
+   "ACTIVE",
+   [
+    "Bottecchia",
+    "Damcyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "24599.0"
+  ],
+  "gid://shopify/Product/10598564954378": [
+   "ACTIVE",
+   [
+    "Bottecchia",
+    "Damcyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "28149.0"
+  ],
+  "gid://shopify/Product/10598564888842": [
+   "ACTIVE",
+   [
+    "Bottecchia",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "24839.0"
+  ],
+  "gid://shopify/Product/10598564856074": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "87059.0"
+  ],
+  "gid://shopify/Product/10598564757770": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "47459.0"
+  ],
+  "gid://shopify/Product/10593839644938": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "92299.0"
+  ],
+  "gid://shopify/Product/10593839612170": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "55109.0"
+  ],
+  "gid://shopify/Product/10593839579402": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "48649.0"
+  ],
+  "gid://shopify/Product/10593839546634": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "61149.0"
+  ],
+  "gid://shopify/Product/10593839513866": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "53441.1"
+  ],
+  "gid://shopify/Product/10593839022346": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Hybridcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "35909.0"
+  ],
+  "gid://shopify/Product/10589714088202": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Hybridcykel",
+    "Liv",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "47459.0"
+  ],
+  "gid://shopify/Product/10589711892746": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Kona",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "77099.0"
+  ],
+  "gid://shopify/Product/10589707501834": [
+   "ACTIVE",
+   [
+    "Elcykel",
+    "Elcyklar",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "79309.0"
+  ],
+  "gid://shopify/Product/10589707141386": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "99089.0"
+  ],
+  "gid://shopify/Product/10589706780938": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "61149.0"
+  ],
+  "gid://shopify/Product/10589704749322": [
+   "ACTIVE",
+   [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "33849.0"
+  ],
+  "gid://shopify/Product/10588453372170": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Kona",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "122732.1"
+  ],
+  "gid://shopify/Product/10588453241098": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Kona",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "54026.1"
+  ],
+  "gid://shopify/Product/10588453208330": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "32408.1"
+  ],
+  "gid://shopify/Product/10588452946186": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "36845.1"
+  ],
+  "gid://shopify/Product/10588452225290": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "74529.0"
+  ],
+  "gid://shopify/Product/10588452192522": [
+   "ACTIVE",
+   [
+    "Elcykel",
+    "Elcyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "76184.1"
+  ],
+  "gid://shopify/Product/10588452159754": [
+   "ACTIVE",
+   [
+    "Elcykel",
+    "Elcyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "68039.0"
+  ],
+  "gid://shopify/Product/10588452126986": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "50269.0"
+  ],
+  "gid://shopify/Product/10588452094218": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "50269.0"
+  ],
+  "gid://shopify/Product/10588451963146": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "136189.0"
+  ],
+  "gid://shopify/Product/10588451864842": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "76139.0"
+  ],
+  "gid://shopify/Product/10588450881802": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "77919.0"
+  ],
+  "gid://shopify/Product/10561356103946": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "68039.0"
+  ],
+  "gid://shopify/Product/10561355972874": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "71839.0"
+  ],
+  "gid://shopify/Product/10561355874570": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "76139.0"
+  ],
+  "gid://shopify/Product/10561353908490": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "76139.0"
+  ],
+  "gid://shopify/Product/10554441924874": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "44399.0"
+  ],
+  "gid://shopify/Product/10554441498890": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "39049.0"
+  ],
+  "gid://shopify/Product/10548295368970": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "29219.0"
+  ],
+  "gid://shopify/Product/10548292878602": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "39049.0"
+  ],
+  "gid://shopify/Product/10548232913162": [
+   "ACTIVE",
+   [
+    "Elcykel",
+    "Hjälm",
+    "Limar",
+    "Tillbehör",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1939.0"
+  ],
+  "gid://shopify/Product/10541372473610": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Fiido",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "26839.0"
+  ],
+  "gid://shopify/Product/10541371752714": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Fiido",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "28599.0"
+  ],
+  "gid://shopify/Product/10541371523338": [
+   "DRAFT",
+   [
+    "Cykelbelysning",
+    "Damcyklar",
+    "Elcykel",
+    "Gravelcykel",
+    "Liv",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "26234.1"
+  ],
+  "gid://shopify/Product/10541073301770": [
+   "ACTIVE",
+   [
+    "Elcykel",
+    "Hjälm",
+    "Lazer",
+    "Tillbehör",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2539.0"
+  ],
+  "gid://shopify/Product/10526099964170": [
+   "ACTIVE",
+   [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "43969.0"
+  ],
+  "gid://shopify/Product/10526098882826": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "48518.1"
+  ],
+  "gid://shopify/Product/10526095933706": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "38369.0"
+  ],
+  "gid://shopify/Product/10523491893514": [
+   "ACTIVE",
+   [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "43969.0"
+  ],
+  "gid://shopify/Product/10523491860746": [
+   "ACTIVE",
+   [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "33849.0"
+  ],
+  "gid://shopify/Product/10523491401994": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "76139.0"
+  ],
+  "gid://shopify/Product/10523487109386": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "64209.0"
+  ],
+  "gid://shopify/Product/10523486945546": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "71839.0"
+  ],
+  "gid://shopify/Product/10507703779594": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Mountainbike",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "58059.0"
+  ],
+  "gid://shopify/Product/10507703386378": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Mountainbike",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "55179.0"
+  ],
+  "gid://shopify/Product/10507703124234": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "31719.0"
+  ],
+  "gid://shopify/Product/10507441537290": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "47459.0"
+  ],
+  "gid://shopify/Product/10507440226570": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "64209.0"
+  ],
+  "gid://shopify/Product/10503245529354": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "79999.0"
+  ],
+  "gid://shopify/Product/10503245332746": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "64187.1"
+  ],
+  "gid://shopify/Product/10503235698954": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "33379.0"
+  ],
+  "gid://shopify/Product/10502528565514": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Liv",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "137119.0"
+  ],
+  "gid://shopify/Product/10502528139530": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "53559.0"
+  ],
+  "gid://shopify/Product/10502528073994": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "57709.0"
+  ],
+  "gid://shopify/Product/10502527910154": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Engwe",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "25939.0"
+  ],
+  "gid://shopify/Product/10502527877386": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Engwe",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "25939.0"
+  ],
+  "gid://shopify/Product/10502527811850": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "36129.0"
+  ],
+  "gid://shopify/Product/10494946312458": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Engwe",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "25939.0"
+  ],
+  "gid://shopify/Product/10494946181386": [
+   "ACTIVE",
+   [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "33849.0"
+  ],
+  "gid://shopify/Product/10494943953162": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Mountainbike",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "44489.0"
+  ],
+  "gid://shopify/Product/10494943854858": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Mountainbike",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "44419.0"
+  ],
+  "gid://shopify/Product/10494943723786": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "30095.1"
+  ],
+  "gid://shopify/Product/10494942937354": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "38369.0"
+  ],
+  "gid://shopify/Product/10488326193418": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "sync-skydd",
+    "texter-klara"
+   ],
+   "42920.1"
+  ],
+  "gid://shopify/Product/10488326160650": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "44429.0"
+  ],
+  "gid://shopify/Product/10488318296330": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "68039.0"
+  ],
+  "gid://shopify/Product/10488308203786": [
+   "ACTIVE",
+   [
+    "Cargo bike",
+    "Cyklar",
+    "Elcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "65591.1"
+  ],
+  "gid://shopify/Product/10488282480906": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Mountainbike",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "41549.0"
+  ],
+  "gid://shopify/Product/10488282448138": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Mountainbike",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "41549.0"
+  ],
+  "gid://shopify/Product/10487987011850": [
+   "ACTIVE",
+   [
+    "Bottecchia",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "51279.0"
+  ],
+  "gid://shopify/Product/10486670786826": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Fido",
+    "Fiido",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "33039.0"
+  ],
+  "gid://shopify/Product/10480054468874": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Fido",
+    "Fiido",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "21379.0"
+  ],
+  "gid://shopify/Product/10480054337802": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Fido",
+    "Fiido",
+    "På beställning",
+    "Velomarket",
+    "Vikbar cykel",
+    "cykel",
+    "hopfällbar",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "24369.0"
+  ],
+  "gid://shopify/Product/10480044572938": [
+   "DRAFT",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "39338.1"
+  ],
+  "gid://shopify/Product/10476276318474": [
+   "ARCHIVED",
+   [
+    "Bicycles",
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "53360.1"
+  ],
+  "gid://shopify/Product/10476275761418": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "47579.0"
+  ],
+  "gid://shopify/Product/10476275630346": [
+   "ARCHIVED",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "44429.0"
+  ],
+  "gid://shopify/Product/10476274647306": [
+   "ARCHIVED",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "44429.0"
+  ],
+  "gid://shopify/Product/10476239454474": [
+   "ACTIVE",
+   [
+    "Bicycles",
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "37448.1"
+  ],
+  "gid://shopify/Product/10476232868106": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "43379.1"
+  ],
+  "gid://shopify/Product/10476224741642": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "34505.1"
+  ],
+  "gid://shopify/Product/10475438080266": [
+   "DRAFT",
+   [
+    "ADO",
+    "Elcykel",
+    "Elcyklar",
+    "På beställning",
+    "Velomarket",
+    "Vikbar cykel",
+    "cykel",
+    "hopfällbar",
+    "price-change-job-active",
+    "sale"
+   ],
+   "20429.1"
+  ],
+  "gid://shopify/Product/10475437359370": [
+   "DRAFT",
+   [
+    "ADO",
+    "Elcykel",
+    "Elcyklar",
+    "På beställning",
+    "Velomarket",
+    "Vikbar cykel",
+    "cykel",
+    "hopfällbar",
+    "price-change-job-active",
+    "sale"
+   ],
+   "20600.1"
+  ],
+  "gid://shopify/Product/10475434934538": [
+   "DRAFT",
+   [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "Velomarket",
+    "Vikbar cykel",
+    "cykel",
+    "hopfällbar",
+    "price-change-job-active",
+    "sale"
+   ],
+   "18197.1"
+  ],
+  "gid://shopify/Product/10475369562378": [
+   "ACTIVE",
+   [
+    "Elcykel",
+    "Razor",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4119.0"
+  ],
+  "gid://shopify/Product/10472349991178": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Kona",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "29240.1"
+  ],
+  "gid://shopify/Product/10472349303050": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "30716.1"
+  ],
+  "gid://shopify/Product/10472349106442": [
+   "ACTIVE",
+   [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "35529.0"
+  ],
+  "gid://shopify/Product/10472348188938": [
+   "ACTIVE",
+   [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "68029.0"
+  ],
+  "gid://shopify/Product/10472334885130": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Romet",
+    "Velomarket",
+    "Vikbar cykel",
+    "cykel",
+    "hopfällbar",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "23589.0"
+  ],
+  "gid://shopify/Product/10472334622986": [
+   "ARCHIVED",
+   [
+    "Bottecchia",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "36099.0"
+  ],
+  "gid://shopify/Product/10472333017354": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Romet",
+    "Velomarket",
+    "Vikbar cykel",
+    "cykel",
+    "hopfällbar",
+    "price-change-job-active",
+    "sale"
+   ],
+   "23589.0"
+  ],
+  "gid://shopify/Product/10472331280650": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "57709.0"
+  ],
+  "gid://shopify/Product/10472331018506": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "51443.1"
+  ],
+  "gid://shopify/Product/10472330264842": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "176219.0"
+  ],
+  "gid://shopify/Product/10472329969930": [
+   "ACTIVE",
+   [
+    "COAST",
+    "Cykelbelysning",
+    "Cyklar",
+    "Elcykel",
+    "Velomarket",
+    "Vikbar cykel",
+    "cykel",
+    "hopfällbar",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "26149.0"
+  ],
+  "gid://shopify/Product/10472326463754": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "47579.0"
+  ],
+  "gid://shopify/Product/10472319484170": [
+   "DRAFT",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "43532.1"
+  ],
+  "gid://shopify/Product/10472307065098": [
+   "ACTIVE",
+   [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "cykel",
+    "hopfällbar",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "29699.1"
+  ],
+  "gid://shopify/Product/10472304935178": [
+   "ACTIVE",
+   [
+    "Cykeldelar",
+    "Elcykel",
+    "Finland Tyres",
+    "På beställning",
+    "Suomi Tyres",
+    "Velomarket",
+    "cykeldäck",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1939.0"
+  ],
+  "gid://shopify/Product/10472303526154": [
+   "ARCHIVED",
+   [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "29672.1"
+  ],
+  "gid://shopify/Product/10472303493386": [
+   "ACTIVE",
+   [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "31742.1"
+  ],
+  "gid://shopify/Product/10472302903562": [
+   "ACTIVE",
+   [
+    "Cargo bike",
+    "Cyklar",
+    "Elcykel",
+    "Velomarket",
+    "Vogue Bike",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "59759.1"
+  ],
+  "gid://shopify/Product/10472298414346": [
+   "ACTIVE",
+   [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "27079.0"
+  ],
+  "gid://shopify/Product/10472298053898": [
+   "ACTIVE",
+   [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "27079.0"
+  ],
+  "gid://shopify/Product/10472297955594": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Mountainbike",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "38349.0"
+  ],
+  "gid://shopify/Product/10472297922826": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Mountainbike",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "37819.0"
+  ],
+  "gid://shopify/Product/10472296251658": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "62576.1"
+  ],
+  "gid://shopify/Product/10472296120586": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "26918.1"
+  ],
+  "gid://shopify/Product/10472295956746": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "63369.0"
+  ],
+  "gid://shopify/Product/10472295268618": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "34541.1"
+  ],
+  "gid://shopify/Product/10472295072010": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Fido",
+    "Fiido",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "31299.0"
+  ],
+  "gid://shopify/Product/10472294220042": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "33379.0"
+  ],
+  "gid://shopify/Product/10472293237002": [
+   "ACTIVE",
+   [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "35529.0"
+  ],
+  "gid://shopify/Product/10472292778250": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Fido",
+    "Fiido",
+    "På beställning",
+    "Velomarket",
+    "Vikbar cykel",
+    "cykel",
+    "hopfällbar",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "22119.0"
+  ],
+  "gid://shopify/Product/10472291827978": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "33379.0"
+  ],
+  "gid://shopify/Product/10472291729674": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "33379.0"
+  ],
+  "gid://shopify/Product/10472291565834": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "33379.0"
+  ],
+  "gid://shopify/Product/10472291500298": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "36129.0"
+  ],
+  "gid://shopify/Product/10472291434762": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "33379.0"
+  ],
+  "gid://shopify/Product/10472291205386": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Fido",
+    "Fiido",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "31299.0"
+  ],
+  "gid://shopify/Product/10472288944394": [
+   "DRAFT",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "22733.1"
+  ],
+  "gid://shopify/Product/10472287863050": [
+   "DRAFT",
+   [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "35209.0"
+  ],
+  "gid://shopify/Product/10472287305994": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "36279.0"
+  ],
+  "gid://shopify/Product/10472286355722": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "TOTEM",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "13829.0"
+  ],
+  "gid://shopify/Product/10472283046154": [
+   "DRAFT",
+   [
+    "Amladcyclers",
+    "Amladcykler",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "59089.0"
+  ],
+  "gid://shopify/Product/10472282980618": [
+   "ACTIVE",
+   [
+    "Amladcyclers",
+    "Amladcykler",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "47789.0"
+  ],
+  "gid://shopify/Product/10472282620170": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Kona",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "62669.0"
+  ],
+  "gid://shopify/Product/10472281112842": [
+   "DRAFT",
+   [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale"
+   ],
+   "26360.1"
+  ],
+  "gid://shopify/Product/10472281080074": [
+   "ACTIVE",
+   [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "Velomarket",
+    "Vikbar cykel",
+    "cykel",
+    "hopfällbar",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "28789.0"
+  ],
+  "gid://shopify/Product/10472265810186": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Momentum",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "10889.1"
+  ],
+  "gid://shopify/Product/10472263024906": [
+   "ACTIVE",
+   [
+    "Elcykel",
+    "Fido",
+    "Fiido",
+    "På beställning",
+    "Tillbehör",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "7759.0"
+  ],
+  "gid://shopify/Product/10472258273546": [
+   "DRAFT",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "21149.1"
+  ],
+  "gid://shopify/Product/10472258240778": [
+   "DRAFT",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "Hybridcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "42380.1"
+  ],
+  "gid://shopify/Product/10472257126666": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Hybridcykel",
+    "Velomarket",
+    "Victoria",
+    "price-change-job-active",
+    "sale"
+   ],
+   "32409.0"
+  ],
+  "gid://shopify/Product/10472256176394": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Mountainbike",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "45159.0"
+  ],
+  "gid://shopify/Product/10472255979786": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Mountainbike",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "45159.0"
+  ],
+  "gid://shopify/Product/10472255193354": [
+   "DRAFT",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Mountainbike",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "30716.1"
+  ],
+  "gid://shopify/Product/10472254308618": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "55939.0"
+  ],
+  "gid://shopify/Product/10472253718794": [
+   "ACTIVE",
+   [
+    "Cangoo",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "88419.0"
+  ],
+  "gid://shopify/Product/10472253456650": [
+   "DRAFT",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "57689.1"
+  ],
+  "gid://shopify/Product/10472250966282": [
+   "ACTIVE",
+   [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "32139.0"
+  ],
+  "gid://shopify/Product/10472250769674": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "34369.0"
+  ],
+  "gid://shopify/Product/10472250343690": [
+   "ACTIVE",
+   [
+    "Basil",
+    "Elcykel",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "409.0"
+  ],
+  "gid://shopify/Product/10472250212618": [
+   "ACTIVE",
+   [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "82489.0"
+  ],
+  "gid://shopify/Product/10472250179850": [
+   "ACTIVE",
+   [
+    "Cykelbelysning",
+    "Cyklar",
+    "Elcykel",
+    "Gravelcykel",
+    "TENWAYS",
+    "Velomarket",
+    "cykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "31739.0"
+  ],
+  "gid://shopify/Product/10472249852170": [
+   "ACTIVE",
+   [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "62018.1"
+  ],
+  "gid://shopify/Product/10472249819402": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "JOBOBIKE",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "16899.0"
+  ],
+  "gid://shopify/Product/10472249688330": [
+   "ACTIVE",
+   [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "83939.0"
+  ],
+  "gid://shopify/Product/10472248508682": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "79289.1"
+  ],
+  "gid://shopify/Product/10472248246538": [
+   "ACTIVE",
+   [
+    "ADO",
+    "Cykelbelysning",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "25399.0"
+  ],
+  "gid://shopify/Product/10472248148234": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "JOBOBIKE",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "40899.0"
+  ],
+  "gid://shopify/Product/10472246968586": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Ecobike",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "45549.0"
+  ],
+  "gid://shopify/Product/10472246608138": [
+   "ACTIVE",
+   [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "66149.0"
+  ],
+  "gid://shopify/Product/10472243790090": [
+   "ACTIVE",
+   [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "79309.0"
+  ],
+  "gid://shopify/Product/10472243691786": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Elcyklar",
+    "Fido",
+    "Fiido",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "21379.0"
+  ],
+  "gid://shopify/Product/10472243626250": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Elcyklar",
+    "Fido",
+    "Fiido",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "21379.0"
+  ],
+  "gid://shopify/Product/10472241922314": [
+   "DRAFT",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Fido",
+    "Fiido",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale"
+   ],
+   "20582.1"
+  ],
+  "gid://shopify/Product/10472241299722": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Italwin",
+    "Velomarket",
+    "Vikbar cykel",
+    "cykel",
+    "hopfällbar",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "24519.0"
+  ],
+  "gid://shopify/Product/10472236482826": [
+   "ACTIVE",
+   [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "Velomarket",
+    "Vikbar cykel",
+    "cykel",
+    "hopfällbar",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "22049.0"
+  ],
+  "gid://shopify/Product/10472236384522": [
+   "ACTIVE",
+   [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "Vikbar cykel",
+    "cykel",
+    "hopfällbar",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "22049.0"
+  ],
+  "gid://shopify/Product/10471305838858": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "47459.0"
+  ],
+  "gid://shopify/Product/10471199342858": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "26918.1"
+  ],
+  "gid://shopify/Product/10471199080714": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "26918.1"
+  ],
+  "gid://shopify/Product/10471141605642": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Mountainbike",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "39459.0"
+  ],
+  "gid://shopify/Product/10471128498442": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "49949.1"
+  ],
+  "gid://shopify/Product/10471124992266": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "65049.0"
+  ],
+  "gid://shopify/Product/10471119159562": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "Momentum",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "28961.1"
+  ],
+  "gid://shopify/Product/10471090749706": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "34319.0"
+  ],
+  "gid://shopify/Product/10471090553098": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "34319.0"
+  ],
+  "gid://shopify/Product/10471067222282": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "31739.0"
+  ],
+  "gid://shopify/Product/10471065026826": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "23359.0"
+  ],
+  "gid://shopify/Product/10471010730250": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "35209.0"
+  ],
+  "gid://shopify/Product/10471009485066": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "36279.0"
+  ],
+  "gid://shopify/Product/10470930153738": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Elcykel",
+    "TOTEM",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "14899.0"
+  ],
+  "gid://shopify/Product/10470923141386": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "103769.0"
+  ],
+  "gid://shopify/Product/10470923075850": [
+   "DRAFT",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Hybridcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "24137.1"
+  ],
+  "gid://shopify/Product/10470915539210": [
+   "DRAFT",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "38600.1"
+  ],
+  "gid://shopify/Product/10470912557322": [
+   "ACTIVE",
+   [
+    "Cykelbelysning",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "45188.1"
+  ],
+  "gid://shopify/Product/10470908526858": [
+   "DRAFT",
+   [
+    "Cyklar",
+    "Elcykel",
+    "TOTEM",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "14429.0"
+  ],
+  "gid://shopify/Product/10470907412746": [
+   "ACTIVE",
+   [
+    "ADO",
+    "Cykelbelysning",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "32139.0"
+  ],
+  "gid://shopify/Product/10470906659082": [
+   "ACTIVE",
+   [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "68381.1"
+  ],
+  "gid://shopify/Product/10470906364170": [
+   "ACTIVE",
+   [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "66527.1"
+  ],
+  "gid://shopify/Product/10470906331402": [
+   "ACTIVE",
+   [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "73669.0"
+  ],
+  "gid://shopify/Product/10470906167562": [
+   "ACTIVE",
+   [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "88129.0"
+  ],
+  "gid://shopify/Product/10470905446666": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykelbelysning",
+    "Elcykel",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "179.0"
+  ],
+  "gid://shopify/Product/10470905413898": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykelbelysning",
+    "Elcykel",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "179.0"
+  ],
+  "gid://shopify/Product/10470905282826": [
+   "ACTIVE",
+   [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "50389.0"
+  ],
+  "gid://shopify/Product/10470905086218": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "90389.0"
+  ],
+  "gid://shopify/Product/10470903152906": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Mountainbike",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "43793.1"
+  ],
+  "gid://shopify/Product/10470903087370": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Elcykel",
+    "JOBOBIKE",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "28489.0"
+  ],
+  "gid://shopify/Product/10470902366474": [
+   "DRAFT",
+   [
+    "Amladcykler",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "46199.0"
+  ],
+  "gid://shopify/Product/10470902333706": [
+   "ACTIVE",
+   [
+    "Amladcyclers",
+    "Amladcykler",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "41079.0"
+  ],
+  "gid://shopify/Product/10470900957450": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "JOBOBIKE",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "28339.0"
+  ],
+  "gid://shopify/Product/10470900924682": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "35839.0"
+  ],
+  "gid://shopify/Product/10469246206218": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "53559.0"
+  ],
+  "gid://shopify/Product/10469226283274": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Kona",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "64319.0"
+  ],
+  "gid://shopify/Product/10469208916234": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "52649.0"
+  ],
+  "gid://shopify/Product/10469208752394": [
+   "ACTIVE",
+   [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "25399.0"
+  ],
+  "gid://shopify/Product/10468779032842": [
+   "ARCHIVED",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "44429.0"
+  ],
+  "gid://shopify/Product/10468777525514": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "72179.1"
+  ],
+  "gid://shopify/Product/10468776739082": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "122525.1"
+  ],
+  "gid://shopify/Product/10468744397066": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Kona",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "111209.0"
+  ],
+  "gid://shopify/Product/10468736499978": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "Hybridcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "27188.1"
+  ],
+  "gid://shopify/Product/10468734992650": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "34339.0"
+  ],
+  "gid://shopify/Product/10468727521546": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "36279.0"
+  ],
+  "gid://shopify/Product/10468719034634": [
+   "ACTIVE",
+   [
+    "Amladcykler",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "37519.0"
+  ],
+  "gid://shopify/Product/10468716216586": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "102249.0"
+  ],
+  "gid://shopify/Product/10468713791754": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Mountainbike",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "47829.0"
+  ],
+  "gid://shopify/Product/10468708614410": [
+   "ACTIVE",
+   [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "64849.0"
+  ],
+  "gid://shopify/Product/10462832558346": [
+   "ACTIVE",
+   [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "33849.0"
+  ],
+  "gid://shopify/Product/10462762369290": [
+   "DRAFT",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "28133.1"
+  ],
+  "gid://shopify/Product/10462752309514": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "28754.1"
+  ],
+  "gid://shopify/Product/10462190272778": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Mountainbike",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "50559.0"
+  ],
+  "gid://shopify/Product/10462177526026": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "45188.1"
+  ],
+  "gid://shopify/Product/10462150525194": [
+   "ACTIVE",
+   [
+    "Cangoo",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "70629.0"
+  ],
+  "gid://shopify/Product/10460947251466": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "51149.0"
+  ],
+  "gid://shopify/Product/10460942336266": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "54289.0"
+  ],
+  "gid://shopify/Product/10430383948042": [
+   "ACTIVE",
+   [
+    "COAST",
+    "Cykelbelysning",
+    "Cyklar",
+    "Elcykel",
+    "Velomarket",
+    "Vikbar cykel",
+    "cykel",
+    "hopfällbar",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "26149.0"
+  ]
+ }
+}

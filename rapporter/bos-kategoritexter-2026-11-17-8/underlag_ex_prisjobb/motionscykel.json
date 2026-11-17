@@ -1,0 +1,53 @@
+{
+ "handle": "motionscykel",
+ "id": "gid://shopify/Collection/526984020234",
+ "titel": "Motionscykel",
+ "regel": [
+  [
+   "TAG",
+   "EQUALS",
+   "motionscykel"
+  ]
+ ],
+ "huvud_regex": "motionscykel|spinningcykel|träningscykel",
+ "antal_i_kollektionen": 10,
+ "antal_koopbara_alla": 3,
+ "antal_koopbara": 0,
+ "antal_ovriga_koopbara": 3,
+ "exempel_ovriga": [
+  "Cykelsadel Tunturi Comfort Seat med Gel för Motionscykel",
+  "TOORX BRX R300 Ergo motionscykel med ryggstöd",
+  "TOORX BRX R300 motionscykel med ryggstöd"
+ ],
+ "ovriga_titlar": [
+  "Cykelsadel Tunturi Comfort Seat med Gel för Motionscykel",
+  "TOORX BRX R300 Ergo motionscykel med ryggstöd",
+  "TOORX BRX R300 motionscykel med ryggstöd"
+ ],
+ "ovriga_med_pris": [
+  [
+   "Cykelsadel Tunturi Comfort Seat med Gel för Motionscykel",
+   399.0
+  ],
+  [
+   "TOORX BRX R300 Ergo motionscykel med ryggstöd",
+   13129.0
+  ],
+  [
+   "TOORX BRX R300 motionscykel med ryggstöd",
+   11419.0
+  ]
+ ],
+ "marken": [],
+ "forsta_ord_i_titel": [],
+ "pris_min": null,
+ "pris_max": null,
+ "pris_median": null,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [],
+ "dyraste": [],
+ "alla_titlar": []
+}

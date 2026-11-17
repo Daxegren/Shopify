@@ -1,0 +1,126 @@
+{
+ "handle": "kettlebell",
+ "id": "gid://shopify/Collection/526982086922",
+ "titel": "Kettlebell",
+ "regel": [
+  [
+   "TAG",
+   "EQUALS",
+   "kettlebell"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "kettlebells"
+  ]
+ ],
+ "huvud_regex": "kettlebell|sangpomm",
+ "antal_i_kollektionen": 27,
+ "antal_koopbara_alla": 15,
+ "antal_koopbara": 13,
+ "antal_ovriga_koopbara": 2,
+ "exempel_ovriga": [
+  "Golvskydd Gymstick Kettlebell Pad",
+  "TUNTURI PE Kettlebell 12kg"
+ ],
+ "ovriga_titlar": [
+  "Golvskydd Gymstick Kettlebell Pad",
+  "TUNTURI PE Kettlebell 12kg"
+ ],
+ "ovriga_med_pris": [
+  [
+   "Golvskydd Gymstick Kettlebell Pad",
+   79.0
+  ],
+  [
+   "TUNTURI PE Kettlebell 12kg",
+   349.0
+  ]
+ ],
+ "marken": [
+  [
+   "Tunturi",
+   7
+  ],
+  [
+   "Christopeit",
+   3
+  ],
+  [
+   "Toorx",
+   2
+  ],
+  [
+   "Gymstick",
+   1
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "kettlebell",
+   11
+  ],
+  [
+   "sangpomm",
+   1
+  ],
+  [
+   "kettlebellhandtag",
+   1
+  ]
+ ],
+ "pris_min": 79.0,
+ "pris_max": 799.0,
+ "pris_median": 289.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": 2.0,
+ "kg_i_titlar_max": 24.0,
+ "antal_titlar_med_kg": 12,
+ "billigaste": [
+  [
+   "Kettlebell Tunturi PE, 2 kg",
+   79.0
+  ],
+  [
+   "Kettlebell Gymstick i Vinyl",
+   99.0
+  ],
+  [
+   "Kettlebell Christopeit, 2 kg",
+   159.0
+  ],
+  [
+   "Kettlebell Tunturi Platinum i Gjutjärn, 4 kg",
+   199.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Kettlebellhandtag Tunturi Rapid Justerbart, 3,5 kg",
+   799.0
+  ],
+  [
+   "Kettlebell Toorx Pro Cross EVO, 12 kg",
+   789.0
+  ],
+  [
+   "Kettlebell Toorx Vinyl, 12 kg",
+   779.0
+  ]
+ ],
+ "alla_titlar": [
+  "Kettlebell Christopeit 12 kg",
+  "Kettlebell Christopeit, 2 kg",
+  "Kettlebell Gymstick i Vinyl",
+  "Kettlebell TUNTURI Platinum gjutjärn 8 kg",
+  "Kettlebell Toorx Pro Cross EVO, 12 kg",
+  "Kettlebell Toorx Vinyl, 12 kg",
+  "Kettlebell Tunturi 8 kg",
+  "Kettlebell Tunturi PE 16 kg, PVC Fylld med Sand",
+  "Kettlebell Tunturi PE, 2 kg",
+  "Kettlebell Tunturi Platinum i Gjutjärn, 4 kg",
+  "Kettlebell Tunturi, 24 kg, Svart",
+  "Kettlebellhandtag Tunturi Rapid Justerbart, 3,5 kg",
+  "Sangpomm CHRISTOPEIT Kettlebell 4kg"
+ ]
+}

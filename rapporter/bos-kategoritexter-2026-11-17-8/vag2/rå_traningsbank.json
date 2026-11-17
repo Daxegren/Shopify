@@ -1,0 +1,122 @@
+{
+ "handle": "traningsbank",
+ "id": "gid://shopify/Collection/526981431562",
+ "titel": "Träningsbänk",
+ "regel": [
+  [
+   "TAG",
+   "EQUALS",
+   "träningsbänk"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "bänk"
+  ]
+ ],
+ "huvud_regex": "",
+ "antal_i_kollektionen": 41,
+ "antal_koopbara_alla": 20,
+ "antal_koopbara": 20,
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
+ "marken": [
+  [
+   "Tunturi",
+   12
+  ],
+  [
+   "Gorilla Sports Norden",
+   2
+  ],
+  [
+   "Christopeit",
+   2
+  ],
+  [
+   "Finnlo by Hammer",
+   2
+  ],
+  [
+   "BH Fitness",
+   1
+  ],
+  [
+   "Hammer",
+   1
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "träningsbänk",
+   19
+  ],
+  [
+   "sissy",
+   1
+  ]
+ ],
+ "pris_min": 1529.1,
+ "pris_max": 13259.0,
+ "pris_median": 3619.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": 250.0,
+ "kg_i_titlar_max": 250.0,
+ "antal_titlar_med_kg": 1,
+ "billigaste": [
+  [
+   "Träningsbänk Gorilla Sports, Rak, Svart, 250 kg Maxbelastning",
+   1529.1
+  ],
+  [
+   "Sissy Squat-bänk, Svart",
+   1646.1
+  ],
+  [
+   "Träningsbänk Tunturi CT40 Core Trainer, Hopfällbar",
+   2009.0
+  ],
+  [
+   "Träningsbänk Tunturi AB20 Magbänk, Justerbar",
+   2069.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Träningsbänk Hammer Bench Pullup och Dip",
+   13259.0
+  ],
+  [
+   "Träningsbänk Tunturi GH10 Glute Ham Developer",
+   7499.0
+  ],
+  [
+   "Träningsbänk Tunturi WB60 Olympic Width Weight Bench",
+   5549.0
+  ]
+ ],
+ "alla_titlar": [
+  "Sissy Squat-bänk, Svart",
+  "Träningsbänk BH Fitness Optima",
+  "Träningsbänk Christopeit AB 1000",
+  "Träningsbänk Christopeit TE 1000",
+  "Träningsbänk Finnlo by Hammer Ab och Back Trainer",
+  "Träningsbänk Finnlo by Hammer Tricon",
+  "Träningsbänk Gorilla Sports, Rak, Svart, 250 kg Maxbelastning",
+  "Träningsbänk Hammer Bench Pullup och Dip",
+  "Träningsbänk TUNTURI UB60 Utility Bench",
+  "Träningsbänk Tunturi AB20 Magbänk, Justerbar",
+  "Träningsbänk Tunturi CT40 Core Trainer, Hopfällbar",
+  "Träningsbänk Tunturi Centuri UB100 Utility Bench",
+  "Träningsbänk Tunturi FB20 Flat Bench",
+  "Träningsbänk Tunturi GH10 Glute Ham Developer",
+  "Träningsbänk Tunturi MX Select, Justerbar",
+  "Träningsbänk Tunturi UB20 Utility Bench, Hopfällbar",
+  "Träningsbänk Tunturi UB80 Utility Bench, Justerbar",
+  "Träningsbänk Tunturi UB90 Utility Bench Pro",
+  "Träningsbänk Tunturi WB20 Basic Weight Bench",
+  "Träningsbänk Tunturi WB60 Olympic Width Weight Bench"
+ ]
+}

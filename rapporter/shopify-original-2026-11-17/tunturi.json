@@ -1,0 +1,6986 @@
+{
+ "fore": {
+  "id": "gid://shopify/Collection/561578246410",
+  "handle": "tunturi",
+  "title": "Tunturi",
+  "updatedAt": "2026-11-16T06:59:24Z",
+  "descriptionHtml": "<p data-start=\"154\" data-end=\"630\" style=\"text-align: left;\">Tunturi är ett av de mest välkända varumärkena inom träningsutrustning och gymprodukter i världen. Med decennier av erfarenhet har Tunturi byggt upp ett rykte för hög kvalitet, hållbarhet och innovativ design. Produkterna är utformade för att ge både hemmatränande och professionella atleter bästa möjliga träningsupplevelse. Hos BestOfSports hittar du ett komplett sortiment av Tunturi-utrustning som gör det enkelt att bygga ett funktionellt och effektivt träningsprogram.</p>\n<h2 data-start=\"632\" data-end=\"670\" style=\"text-align: left;\">Konditionsutrustning från Tunturi</h2>\n<p data-start=\"671\" data-end=\"1233\" style=\"text-align: left;\">Tunturi är särskilt känt för sin konditionsutrustning som roddmaskiner, löpband, crosstrainers och motionscyklar. Dessa maskiner är designade för att ge både nybörjare och avancerade användare möjlighet att förbättra kondition, uthållighet och hjärt- och kärlhälsa. Roddmaskiner från Tunturi är byggda för att ge en jämn och realistisk roddkänsla, medan deras löpband erbjuder stabila och justerbara hastigheter samt lutningsalternativ för varierad träning. Crosstrainers och motionscyklar gör det enkelt att träna hela kroppen samtidigt som du skonar lederna.</p>\n<h2 data-start=\"1235\" data-end=\"1277\" style=\"text-align: left;\">Styrketräning och funktionell träning</h2>\n<p data-start=\"1278\" data-end=\"1800\" style=\"text-align: left;\">För styrketräning erbjuder Tunturi robusta maskiner och tillbehör som passar både hemmagym och professionella gymmiljöer. Från multigym och fria vikter till kettlebells och träningsbänkar – Tunturi kombinerar funktionalitet och ergonomi. Maskinerna är utformade för att ge korrekt rörelsebana, vilket hjälper dig att minska risken för skador och maximera träningsresultatet. Tunturi tillbehör och träningsredskap är också anpassade för funktionell träning, vilket gör att du kan träna hela kroppen på ett effektivt sätt.</p>\n<h2 data-start=\"1802\" data-end=\"1830\" style=\"text-align: left;\">Innovation och kvalitet</h2>\n<p data-start=\"1831\" data-end=\"2170\" style=\"text-align: left;\">Tunturi lägger stor vikt vid innovation och kvalitet. Produkterna är tillverkade av slitstarka material och designade för att hålla under många års användning. Med moderna funktioner som pulsmätning, justerbart motstånd, träningsprogram och digitala displayfunktioner får du en upplevelse som gör träningen både motiverande och effektiv.</p>\n<h2 data-start=\"2172\" data-end=\"2197\" style=\"text-align: left;\">Varför välja Tunturi</h2>\n<p data-start=\"2198\" data-end=\"2556\" style=\"text-align: left;\">Att välja Tunturi innebär att investera i hållbarhet, kvalitet och säkerhet. Produkterna är byggda för att ge maximal komfort och stöd under träning, vilket gör dem lämpliga för alla nivåer – från nybörjare till erfarna atleter. Oavsett om du vill träna kondition, styrka eller funktionell träning, erbjuder Tunturi lösningar som passar dina behov och mål.</p>\n<p data-start=\"2558\" data-end=\"2865\" style=\"text-align: left;\">Utforska Tunturi hos Best Of Sports och hitta träningsutrustning som hjälper dig att nå dina mål, förbättra prestation och skapa en hållbar träningsrutin hemma eller på gymmet. Med Tunturi får du produkter som kombinerar kvalitet, innovation och funktionalitet, vilket gör träningen både effektiv och rolig.</p>",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "tunturi",
+  "seo": {
+   "title": "Tunturi Träningsutrustning – Kondition och Styrka - Hela sortimentet",
+   "description": "Upptäck Tunturi hos BestOfSports högkvalitativ träningsutrustning för kondition, styrka och funktionell träning hemma eller på gymmet. Hela sortimentet."
+  },
+  "image": {
+   "url": "https://cdn.shopify.com/s/files/1/0761/6911/7962/collections/Tunturi-logo-centered-black_1.png?v=1764084404",
+   "altText": null
+  },
+  "ruleSet": {
+   "appliedDisjunctively": false,
+   "rules": [
+    {
+     "column": "VENDOR",
+     "relation": "EQUALS",
+     "condition": "Tunturi"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 539
+  }
+ },
+ "produkter_fore": {
+  "gid://shopify/Product/10472281342218": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Sadel",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "399.0"
+  ],
+  "gid://shopify/Product/10588451504394": [
+   "ACTIVE",
+   [
+    "Cykelväska",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1579.0"
+  ],
+  "gid://shopify/Product/10472215150858": [
+   "ACTIVE",
+   [
+    "Bälten",
+    "Crosstrainers",
+    "Fell",
+    "Gymstick",
+    "Pulsmätare",
+    "Tunturi",
+    "Velomarket",
+    "puls",
+    "pulsklocka"
+   ],
+   "509.0"
+  ],
+  "gid://shopify/Product/10470997197066": [
+   "ACTIVE",
+   [
+    "Extra vikter",
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "Viktväst",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "tillbehör"
+   ],
+   "1609.0"
+  ],
+  "gid://shopify/Product/10462785405194": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "229.0"
+  ],
+  "gid://shopify/Product/10411721261322": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "149.0"
+  ],
+  "gid://shopify/Product/10721332035850": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "179.0"
+  ],
+  "gid://shopify/Product/10708320190730": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "149.0"
+  ],
+  "gid://shopify/Product/10708312293642": [
+   "ACTIVE",
+   [
+    "Professionell utrustning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "träningsbänk"
+   ],
+   "12349.0"
+  ],
+  "gid://shopify/Product/10708309278986": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "21479.0"
+  ],
+  "gid://shopify/Product/10708309213450": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "19196.1"
+  ],
+  "gid://shopify/Product/10676602732810": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "9419.0"
+  ],
+  "gid://shopify/Product/10673180147978": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "8309.0"
+  ],
+  "gid://shopify/Product/10673174741258": [
+   "ACTIVE",
+   [
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "15759.0"
+  ],
+  "gid://shopify/Product/10673173725450": [
+   "ACTIVE",
+   [
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "16679.0"
+  ],
+  "gid://shopify/Product/10673149804810": [
+   "ARCHIVED",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2649.0"
+  ],
+  "gid://shopify/Product/10673149739274": [
+   "ARCHIVED",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2393.1"
+  ],
+  "gid://shopify/Product/10673149673738": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2393.1"
+  ],
+  "gid://shopify/Product/10673149542666": [
+   "ARCHIVED",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "3129.0"
+  ],
+  "gid://shopify/Product/10673149411594": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2816.1"
+  ],
+  "gid://shopify/Product/10673147838730": [
+   "ARCHIVED",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2739.0"
+  ],
+  "gid://shopify/Product/10673147609354": [
+   "ARCHIVED",
+   [
+    "Professionell utrustning",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "36469.0"
+  ],
+  "gid://shopify/Product/10673147511050": [
+   "ARCHIVED",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2474.1"
+  ],
+  "gid://shopify/Product/10673147445514": [
+   "ARCHIVED",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "30799.0"
+  ],
+  "gid://shopify/Product/10673147412746": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2474.1"
+  ],
+  "gid://shopify/Product/10673147085066": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "27791.1"
+  ],
+  "gid://shopify/Product/10673146921226": [
+   "ACTIVE",
+   [
+    "Professionell utrustning",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "32894.1"
+  ],
+  "gid://shopify/Product/10656688341258": [
+   "ACTIVE",
+   [
+    "Hantlar",
+    "Professionell utrustning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2429.0"
+  ],
+  "gid://shopify/Product/10656688308490": [
+   "ACTIVE",
+   [
+    "Hantlar",
+    "Professionell utrustning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2222.1"
+  ],
+  "gid://shopify/Product/10656688275722": [
+   "ACTIVE",
+   [
+    "Hantlar",
+    "Professionell utrustning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2222.1"
+  ],
+  "gid://shopify/Product/10650210795786": [
+   "DRAFT",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "179.0"
+  ],
+  "gid://shopify/Product/10650165772554": [
+   "ACTIVE",
+   [
+    "Cykelväska",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "6649.0"
+  ],
+  "gid://shopify/Product/10612579533066": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "14199.0"
+  ],
+  "gid://shopify/Product/10612569211146": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "239.0"
+  ],
+  "gid://shopify/Product/10605385122058": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "20589.0"
+  ],
+  "gid://shopify/Product/10605385056522": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "22559.0"
+  ],
+  "gid://shopify/Product/10605355172106": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2729.0"
+  ],
+  "gid://shopify/Product/10605354713354": [
+   "ACTIVE",
+   [
+    "Crosstrainer",
+    "Professionell utrustning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "43369.0"
+  ],
+  "gid://shopify/Product/10605354254602": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "Yoga",
+    "texter-klara"
+   ],
+   "149.0"
+  ],
+  "gid://shopify/Product/10598560399626": [
+   "ACTIVE",
+   [
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "28069.0"
+  ],
+  "gid://shopify/Product/10598560366858": [
+   "ACTIVE",
+   [
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "15609.0"
+  ],
+  "gid://shopify/Product/10598560301322": [
+   "ACTIVE",
+   [
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "25969.0"
+  ],
+  "gid://shopify/Product/10598560203018": [
+   "ACTIVE",
+   [
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "24599.0"
+  ],
+  "gid://shopify/Product/10598560170250": [
+   "ACTIVE",
+   [
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "19106.1"
+  ],
+  "gid://shopify/Product/10598560104714": [
+   "ACTIVE",
+   [
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "17249.0"
+  ],
+  "gid://shopify/Product/10598560039178": [
+   "ACTIVE",
+   [
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "29979.0"
+  ],
+  "gid://shopify/Product/10598559908106": [
+   "ACTIVE",
+   [
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "27749.0"
+  ],
+  "gid://shopify/Product/10598559875338": [
+   "ACTIVE",
+   [
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "26509.0"
+  ],
+  "gid://shopify/Product/10598559842570": [
+   "ACTIVE",
+   [
+    "Professionell utrustning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "9519.0"
+  ],
+  "gid://shopify/Product/10588451635466": [
+   "ACTIVE",
+   [
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "sync-skydd",
+    "texter-klara"
+   ],
+   "1457.1"
+  ],
+  "gid://shopify/Product/10588451602698": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "319.0"
+  ],
+  "gid://shopify/Product/10588451569930": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2959.0"
+  ],
+  "gid://shopify/Product/10588451471626": [
+   "ACTIVE",
+   [
+    "Cykelväska",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "739.0"
+  ],
+  "gid://shopify/Product/10588448129290": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Skivstång",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2609.0"
+  ],
+  "gid://shopify/Product/10588447572234": [
+   "ACTIVE",
+   [
+    "Skivstång",
+    "Tunturi",
+    "Velomarket",
+    "Vikter och tillbehör",
+    "texter-klara"
+   ],
+   "179.0"
+  ],
+  "gid://shopify/Product/10588447539466": [
+   "ACTIVE",
+   [
+    "Magträningshjul",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "209.0"
+  ],
+  "gid://shopify/Product/10588447473930": [
+   "ACTIVE",
+   [
+    "Extra vikter",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara",
+    "tillbehör"
+   ],
+   "129.0"
+  ],
+  "gid://shopify/Product/10588447342858": [
+   "DRAFT",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "179.0"
+  ],
+  "gid://shopify/Product/10588446851338": [
+   "ACTIVE",
+   [
+    "Cykelbelysning",
+    "Konditionsträning & Fitness",
+    "Massage",
+    "Tunturi",
+    "Velomarket",
+    "Yoga",
+    "texter-klara"
+   ],
+   "169.0"
+  ],
+  "gid://shopify/Product/10588446589194": [
+   "ACTIVE",
+   [
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "sync-skydd",
+    "texter-klara"
+   ],
+   "439.0"
+  ],
+  "gid://shopify/Product/10588446327050": [
+   "ACTIVE",
+   [
+    "Cykelbelysning",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "179.0"
+  ],
+  "gid://shopify/Product/10588446163210": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "12469.0"
+  ],
+  "gid://shopify/Product/10588446130442": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "7487.1"
+  ],
+  "gid://shopify/Product/10588445835530": [
+   "ACTIVE",
+   [
+    "Tunturi",
+    "Velomarket",
+    "Yoga",
+    "Yogamattor",
+    "texter-klara"
+   ],
+   "349.0"
+  ],
+  "gid://shopify/Product/10561341718794": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3189.0"
+  ],
+  "gid://shopify/Product/10561341620490": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2679.0"
+  ],
+  "gid://shopify/Product/10561337393418": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "7959.0"
+  ],
+  "gid://shopify/Product/10561324220682": [
+   "ACTIVE",
+   [
+    "Löpband",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "76989.0"
+  ],
+  "gid://shopify/Product/10548292649226": [
+   "ACTIVE",
+   [
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Mineraler",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "199.0"
+  ],
+  "gid://shopify/Product/10548235862282": [
+   "ACTIVE",
+   [
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "299.0"
+  ],
+  "gid://shopify/Product/10548235403530": [
+   "ACTIVE",
+   [
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "259.0"
+  ],
+  "gid://shopify/Product/10541372801290": [
+   "ACTIVE",
+   [
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Mineraler",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "389.0"
+  ],
+  "gid://shopify/Product/10541268795658": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "sync-skydd",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "4279.0"
+  ],
+  "gid://shopify/Product/10541114491146": [
+   "ACTIVE",
+   [
+    "Boxningsutrustning",
+    "Cykelväska",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1739.0"
+  ],
+  "gid://shopify/Product/10541111443722": [
+   "ACTIVE",
+   [
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "4519.0"
+  ],
+  "gid://shopify/Product/10523476623626": [
+   "ACTIVE",
+   [
+    "Hantlar",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "9489.0"
+  ],
+  "gid://shopify/Product/10523474821386": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1519.0"
+  ],
+  "gid://shopify/Product/10523460337930": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "22119.0"
+  ],
+  "gid://shopify/Product/10507258495242": [
+   "ACTIVE",
+   [
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Multistationer",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "17939.0"
+  ],
+  "gid://shopify/Product/10507246600458": [
+   "ACTIVE",
+   [
+    "Tunturi",
+    "Velomarket",
+    "Yoga",
+    "Yogamattor",
+    "texter-klara"
+   ],
+   "179.0"
+  ],
+  "gid://shopify/Product/10494913347850": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Pakethållare",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "9539.0"
+  ],
+  "gid://shopify/Product/10494900633866": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "799.0"
+  ],
+  "gid://shopify/Product/10494898962698": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "229.0"
+  ],
+  "gid://shopify/Product/10494886969610": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "63919.0"
+  ],
+  "gid://shopify/Product/10494881399050": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Pakethållare",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4159.0"
+  ],
+  "gid://shopify/Product/10494881366282": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "6849.0"
+  ],
+  "gid://shopify/Product/10494881333514": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2079.0"
+  ],
+  "gid://shopify/Product/10494881300746": [
+   "ARCHIVED",
+   [
+    "Fell",
+    "Hantlar",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2199.0"
+  ],
+  "gid://shopify/Product/10494829199626": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Löpband",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "52879.0"
+  ],
+  "gid://shopify/Product/10494792892682": [
+   "ARCHIVED",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "299.0"
+  ],
+  "gid://shopify/Product/10494791188746": [
+   "DRAFT",
+   [
+    "Fell",
+    "På beställning",
+    "Tillbehör",
+    "Tunturi",
+    "Velomarket",
+    "Vikter"
+   ],
+   "99.0"
+  ],
+  "gid://shopify/Product/10494779588874": [
+   "DRAFT",
+   [
+    "Fell",
+    "Massage",
+    "På beställning",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "299.0"
+  ],
+  "gid://shopify/Product/10494777229578": [
+   "ACTIVE",
+   [
+    "Crosstrainer",
+    "Crosstrainers",
+    "Fell",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "18049.0"
+  ],
+  "gid://shopify/Product/10494771265802": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Professionell utrustning",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "27459.0"
+  ],
+  "gid://shopify/Product/10494766907658": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Boxningsutrustning",
+    "Cykelväska",
+    "Fell",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2079.0"
+  ],
+  "gid://shopify/Product/10494766186762": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4449.0"
+  ],
+  "gid://shopify/Product/10494733123850": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "21609.0"
+  ],
+  "gid://shopify/Product/10494687379722": [
+   "DRAFT",
+   [
+    "Träningsband",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "269.0"
+  ],
+  "gid://shopify/Product/10494687346954": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1489.0"
+  ],
+  "gid://shopify/Product/10494685511946": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "179.0"
+  ],
+  "gid://shopify/Product/10494680563978": [
+   "ACTIVE",
+   [
+    "Massage",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "299.0"
+  ],
+  "gid://shopify/Product/10494672929034": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "79.0"
+  ],
+  "gid://shopify/Product/10486640345354": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "15239.0"
+  ],
+  "gid://shopify/Product/10486630252810": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Motionscykel",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "27769.0"
+  ],
+  "gid://shopify/Product/10486629597450": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4429.0"
+  ],
+  "gid://shopify/Product/10486622355722": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3689.0"
+  ],
+  "gid://shopify/Product/10480045752586": [
+   "ACTIVE",
+   [
+    "Gymnastikmattor",
+    "Tunturi",
+    "Velomarket",
+    "Yoga",
+    "Yogamattor",
+    "texter-klara"
+   ],
+   "319.0"
+  ],
+  "gid://shopify/Product/10480045424906": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2999.0"
+  ],
+  "gid://shopify/Product/10480045129994": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3889.0"
+  ],
+  "gid://shopify/Product/10476079186186": [
+   "ARCHIVED",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "gymgolv"
+   ],
+   "369.0"
+  ],
+  "gid://shopify/Product/10476047204618": [
+   "DRAFT",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "gymgolv"
+   ],
+   "279.0"
+  ],
+  "gid://shopify/Product/10475983175946": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "209.0"
+  ],
+  "gid://shopify/Product/10475982651658": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Träningsboll",
+    "Träningsbollar",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "659.0"
+  ],
+  "gid://shopify/Product/10475982520586": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Boxningsutrustning",
+    "Cykelväska",
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "239.0"
+  ],
+  "gid://shopify/Product/10475982029066": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Boxningsutrustning",
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "629.0"
+  ],
+  "gid://shopify/Product/10475981865226": [
+   "ACTIVE",
+   [
+    "Boxningsutrustning",
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "619.0"
+  ],
+  "gid://shopify/Product/10475980718346": [
+   "ACTIVE",
+   [
+    "Multigym",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "kabelmaskin",
+    "price-change-job-active",
+    "sale"
+   ],
+   "70949.0"
+  ],
+  "gid://shopify/Product/10475978948874": [
+   "ACTIVE",
+   [
+    "Tunturi",
+    "Utomhusträning",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "99.0"
+  ],
+  "gid://shopify/Product/10475978916106": [
+   "ACTIVE",
+   [
+    "Tunturi",
+    "Utomhusträning",
+    "Velomarket",
+    "tennis",
+    "texter-klara"
+   ],
+   "429.0"
+  ],
+  "gid://shopify/Product/10475387781386": [
+   "ARCHIVED",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "kabelmaskin",
+    "price-change-job-active",
+    "sale",
+    "smithmaskin"
+   ],
+   "17139.0"
+  ],
+  "gid://shopify/Product/10475386503434": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Styrketräning",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "309.0"
+  ],
+  "gid://shopify/Product/10475385848074": [
+   "ACTIVE",
+   [
+    "Crosstrainer",
+    "Crosstrainers",
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "5099.0"
+  ],
+  "gid://shopify/Product/10475374543114": [
+   "ARCHIVED",
+   [
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "109.0"
+  ],
+  "gid://shopify/Product/10475374248202": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1509.0"
+  ],
+  "gid://shopify/Product/10475373560074": [
+   "ACTIVE",
+   [
+    "Extra vikter",
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "Vikttillbehör",
+    "texter-klara",
+    "tillbehör"
+   ],
+   "129.0"
+  ],
+  "gid://shopify/Product/10475373429002": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "Viktset",
+    "texter-klara"
+   ],
+   "499.0"
+  ],
+  "gid://shopify/Product/10475373101322": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Pull-up",
+    "Styrketräning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1959.0"
+  ],
+  "gid://shopify/Product/10475372871946": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "629.0"
+  ],
+  "gid://shopify/Product/10475372740874": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "219.0"
+  ],
+  "gid://shopify/Product/10475372642570": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1599.0"
+  ],
+  "gid://shopify/Product/10475371495690": [
+   "ACTIVE",
+   [
+    "Fell",
+    "På beställning",
+    "Träningsband",
+    "Tunturi",
+    "Velomarket",
+    "gummiband",
+    "texter-klara"
+   ],
+   "369.0"
+  ],
+  "gid://shopify/Product/10475371233546": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "249.0"
+  ],
+  "gid://shopify/Product/10475369791754": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1919.0"
+  ],
+  "gid://shopify/Product/10475368251658": [
+   "ARCHIVED",
+   [
+    "Fell",
+    "Multigym",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "träningsmaskin"
+   ],
+   "77059.0"
+  ],
+  "gid://shopify/Product/10474070999306": [
+   "DRAFT",
+   [
+    "Träningsbollar",
+    "Tunturi",
+    "Utomhusträning",
+    "Velomarket"
+   ],
+   "369.0"
+  ],
+  "gid://shopify/Product/10474037838090": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hula Hoop",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "hoppring",
+    "texter-klara"
+   ],
+   "539.0"
+  ],
+  "gid://shopify/Product/10474037707018": [
+   "DRAFT",
+   [
+    "Hopprep",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "349.0"
+  ],
+  "gid://shopify/Product/10472518582538": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "hantelställ",
+    "hantelställning",
+    "price-change-job-active",
+    "sale"
+   ],
+   "4039.0"
+  ],
+  "gid://shopify/Product/10472518549770": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1829.0"
+  ],
+  "gid://shopify/Product/10472505934090": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Justerbara hantlar",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "5229.0"
+  ],
+  "gid://shopify/Product/10472505868554": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "Yoga",
+    "Yogamattor",
+    "texter-klara",
+    "yogamatta"
+   ],
+   "369.0"
+  ],
+  "gid://shopify/Product/10472434073866": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Pakethållare",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "power cage",
+    "power rack",
+    "powercage",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "10449.0"
+  ],
+  "gid://shopify/Product/10472350253322": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "169.0"
+  ],
+  "gid://shopify/Product/10472350220554": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "159.0"
+  ],
+  "gid://shopify/Product/10472349663498": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Tunturi",
+    "Velomarket",
+    "gymtillbehör",
+    "texter-klara"
+   ],
+   "229.0"
+  ],
+  "gid://shopify/Product/10472349630730": [
+   "ACTIVE",
+   [
+    "Hula Hoop",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "319.0"
+  ],
+  "gid://shopify/Product/10472349270282": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2849.0"
+  ],
+  "gid://shopify/Product/10472349237514": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4319.0"
+  ],
+  "gid://shopify/Product/10472349204746": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Pakethållare",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "hantelställ",
+    "price-change-job-active",
+    "sale"
+   ],
+   "3539.0"
+  ],
+  "gid://shopify/Product/10472349171978": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Pakethållare",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "hantelställ",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2929.0"
+  ],
+  "gid://shopify/Product/10472346812682": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Racercykel",
+    "Stepper",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "step up",
+    "step up-bräda",
+    "texter-klara"
+   ],
+   "2019.0"
+  ],
+  "gid://shopify/Product/10472346779914": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Skivstång",
+    "Tunturi",
+    "Velomarket",
+    "skivstång 30mm",
+    "texter-klara"
+   ],
+   "499.0"
+  ],
+  "gid://shopify/Product/10472346747146": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Skivstång",
+    "Tunturi",
+    "Velomarket",
+    "skivstång 30mm"
+   ],
+   "689.0"
+  ],
+  "gid://shopify/Product/10472330428682": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Pakethållare",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "dips",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1699.0"
+  ],
+  "gid://shopify/Product/10472330068234": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Skivstångsställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "5019.0"
+  ],
+  "gid://shopify/Product/10472326660362": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "Viktväst",
+    "texter-klara"
+   ],
+   "669.0"
+  ],
+  "gid://shopify/Product/10472315126026": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "719.0"
+  ],
+  "gid://shopify/Product/10472311390474": [
+   "DRAFT",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "knäskydd"
+   ],
+   "129.0"
+  ],
+  "gid://shopify/Product/10472311357706": [
+   "ACTIVE",
+   [
+    "30mm",
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "Viktskiva",
+    "viktskivor"
+   ],
+   "399.0"
+  ],
+  "gid://shopify/Product/10472311324938": [
+   "DRAFT",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Mineraler",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "299.0"
+  ],
+  "gid://shopify/Product/10472311292170": [
+   "ARCHIVED",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Mineraler",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "251.1"
+  ],
+  "gid://shopify/Product/10472311030026": [
+   "DRAFT",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "handledsvikt",
+    "texter-klara"
+   ],
+   "249.0"
+  ],
+  "gid://shopify/Product/10472310997258": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Massage",
+    "Tunturi",
+    "Velomarket",
+    "Yoga",
+    "texter-klara"
+   ],
+   "199.0"
+  ],
+  "gid://shopify/Product/10472310931722": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Träningsband",
+    "Tunturi",
+    "Velomarket",
+    "gummiband",
+    "texter-klara"
+   ],
+   "139.0"
+  ],
+  "gid://shopify/Product/10472310866186": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "gymgolv",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1599.0"
+  ],
+  "gid://shopify/Product/10472308539658": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Träningsband",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "89.0"
+  ],
+  "gid://shopify/Product/10472308506890": [
+   "DRAFT",
+   [
+    "Tunturi",
+    "Utomhusträning",
+    "Velomarket",
+    "texter-klara",
+    "träningsmatta"
+   ],
+   "219.0"
+  ],
+  "gid://shopify/Product/10472306376970": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "13719.0"
+  ],
+  "gid://shopify/Product/10472305426698": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "27209.0"
+  ],
+  "gid://shopify/Product/10472304607498": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Multigym",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsmaskin"
+   ],
+   "40729.0"
+  ],
+  "gid://shopify/Product/10472304378122": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Professionell utrustning",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "träningsmaskin"
+   ],
+   "28669.0"
+  ],
+  "gid://shopify/Product/10472304312586": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Latsdrag",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsmaskin"
+   ],
+   "28829.0"
+  ],
+  "gid://shopify/Product/10472304279818": [
+   "ARCHIVED",
+   [
+    "Fell",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "träningsmaskin"
+   ],
+   "28449.0"
+  ],
+  "gid://shopify/Product/10472304214282": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "kabelmaskin",
+    "price-change-job-active",
+    "sale",
+    "smithmaskin",
+    "texter-klara",
+    "träningsmaskin"
+   ],
+   "50679.0"
+  ],
+  "gid://shopify/Product/10472304181514": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Professionell utrustning",
+    "På beställning",
+    "Styrketräning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "smithmaskin",
+    "texter-klara",
+    "träningsmaskin"
+   ],
+   "30679.0"
+  ],
+  "gid://shopify/Product/10472303689994": [
+   "DRAFT",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Träningsbollar",
+    "Tunturi",
+    "Velomarket",
+    "Yoga",
+    "texter-klara"
+   ],
+   "249.0"
+  ],
+  "gid://shopify/Product/10472303395082": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "12159.0"
+  ],
+  "gid://shopify/Product/10472302870794": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Professionell utrustning",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "719.0"
+  ],
+  "gid://shopify/Product/10472302838026": [
+   "DRAFT",
+   [
+    "Fell",
+    "Hantlar",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "559.0"
+  ],
+  "gid://shopify/Product/10472302805258": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "559.0"
+  ],
+  "gid://shopify/Product/10472302772490": [
+   "DRAFT",
+   [
+    "Hantlar",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "249.0"
+  ],
+  "gid://shopify/Product/10472302674186": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "justerbar bänk",
+    "justerbar träningsbänk",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "3799.0"
+  ],
+  "gid://shopify/Product/10472302575882": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "6429.0"
+  ],
+  "gid://shopify/Product/10472302412042": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Massage",
+    "Tunturi",
+    "Velomarket",
+    "Yoga",
+    "texter-klara"
+   ],
+   "169.0"
+  ],
+  "gid://shopify/Product/10472301920522": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "Yoga",
+    "Yogamattor",
+    "texter-klara"
+   ],
+   "699.0"
+  ],
+  "gid://shopify/Product/10472298381578": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Stepper",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2319.0"
+  ],
+  "gid://shopify/Product/10472298283274": [
+   "DRAFT",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "729.0"
+  ],
+  "gid://shopify/Product/10472298250506": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1659.0"
+  ],
+  "gid://shopify/Product/10472298217738": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3599.0"
+  ],
+  "gid://shopify/Product/10472298086666": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "729.0"
+  ],
+  "gid://shopify/Product/10472296775946": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Justerbara hantlar",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "5369.0"
+  ],
+  "gid://shopify/Product/10472296677642": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "109.0"
+  ],
+  "gid://shopify/Product/10472296055050": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "8629.0"
+  ],
+  "gid://shopify/Product/10472295661834": [
+   "ACTIVE",
+   [
+    "Hantlar",
+    "Justerbara hantlar",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "6272.1"
+  ],
+  "gid://shopify/Product/10472295596298": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "sync-skydd",
+    "texter-klara"
+   ],
+   "5111.1"
+  ],
+  "gid://shopify/Product/10472295137546": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Mineraler",
+    "Skivstång",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "skivstångspaket",
+    "texter-klara"
+   ],
+   "1779.0"
+  ],
+  "gid://shopify/Product/10472290976010": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Pakethållare",
+    "Professionell utrustning",
+    "Pump",
+    "På beställning",
+    "Skivstångsställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "skivstångsställ"
+   ],
+   "8579.0"
+  ],
+  "gid://shopify/Product/10472290091274": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "549.0"
+  ],
+  "gid://shopify/Product/10472289992970": [
+   "ACTIVE",
+   [
+    "30mm",
+    "Fell",
+    "Professionell utrustning",
+    "Pump",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "Viktskiva",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "viktskivor"
+   ],
+   "2189.0"
+  ],
+  "gid://shopify/Product/10472289960202": [
+   "ACTIVE",
+   [
+    "30mm",
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Pump",
+    "Tunturi",
+    "Velomarket",
+    "Viktskiva",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "viktskivor"
+   ],
+   "1979.0"
+  ],
+  "gid://shopify/Product/10472289894666": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Pump",
+    "På beställning",
+    "Skivstångspaket - 30mm",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "skivstångspaket",
+    "texter-klara"
+   ],
+   "2129.0"
+  ],
+  "gid://shopify/Product/10472289861898": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Skivstång",
+    "Skivstångspaket - 30mm",
+    "Tunturi",
+    "Velomarket",
+    "skivstångspaket"
+   ],
+   "639.0"
+  ],
+  "gid://shopify/Product/10472289829130": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "puls",
+    "pulsklocka",
+    "pulsmätare",
+    "texter-klara"
+   ],
+   "769.0"
+  ],
+  "gid://shopify/Product/10472289796362": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "789.0"
+  ],
+  "gid://shopify/Product/10472289698058": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "fotledsvikt",
+    "texter-klara"
+   ],
+   "269.0"
+  ],
+  "gid://shopify/Product/10472289665290": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "Yoga",
+    "Yogamattor",
+    "texter-klara",
+    "yogamatta"
+   ],
+   "349.0"
+  ],
+  "gid://shopify/Product/10472289632522": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "239.0"
+  ],
+  "gid://shopify/Product/10472289534218": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Pakethållare",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "6249.0"
+  ],
+  "gid://shopify/Product/10472289501450": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Pakethållare",
+    "På beställning",
+    "Styrketräning",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "479.0"
+  ],
+  "gid://shopify/Product/10472289173770": [
+   "DRAFT",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "hantelstång"
+   ],
+   "89.0"
+  ],
+  "gid://shopify/Product/10472289141002": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Pakethållare",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "5089.0"
+  ],
+  "gid://shopify/Product/10472289108234": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "189.0"
+  ],
+  "gid://shopify/Product/10472288780554": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Pakethållare",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "3609.0"
+  ],
+  "gid://shopify/Product/10472285798666": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "gymgolv",
+    "texter-klara"
+   ],
+   "479.0"
+  ],
+  "gid://shopify/Product/10472285733130": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "gymgolv",
+    "texter-klara"
+   ],
+   "269.0"
+  ],
+  "gid://shopify/Product/10472284684554": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Träningsbollar",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "459.0"
+  ],
+  "gid://shopify/Product/10472284389642": [
+   "ACTIVE",
+   [
+    "Tunturi",
+    "Velomarket",
+    "Yoga",
+    "Yogamattor",
+    "texter-klara",
+    "träningsmatta"
+   ],
+   "369.0"
+  ],
+  "gid://shopify/Product/10472284356874": [
+   "DRAFT",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "319.0"
+  ],
+  "gid://shopify/Product/10472284258570": [
+   "ACTIVE",
+   [
+    "Fell",
+    "På beställning",
+    "Stretchband",
+    "Tunturi",
+    "Velomarket",
+    "pilates",
+    "texter-klara"
+   ],
+   "169.0"
+  ],
+  "gid://shopify/Product/10472284225802": [
+   "DRAFT",
+   [
+    "Fell",
+    "Pump",
+    "Tillbehör",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "109.0"
+  ],
+  "gid://shopify/Product/10472284127498": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "gymgolv",
+    "texter-klara"
+   ],
+   "119.0"
+  ],
+  "gid://shopify/Product/10472284094730": [
+   "DRAFT",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "kabelhandtag"
+   ],
+   "169.0"
+  ],
+  "gid://shopify/Product/10472284061962": [
+   "DRAFT",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "kabelhandtag"
+   ],
+   "319.0"
+  ],
+  "gid://shopify/Product/10472284029194": [
+   "DRAFT",
+   [
+    "På beställning",
+    "Tillbehör",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "139.0"
+  ],
+  "gid://shopify/Product/10472283996426": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "14489.0"
+  ],
+  "gid://shopify/Product/10472283963658": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Stepper",
+    "Tunturi",
+    "Velomarket",
+    "step up",
+    "step up-bräda",
+    "texter-klara"
+   ],
+   "399.0"
+  ],
+  "gid://shopify/Product/10472283898122": [
+   "DRAFT",
+   [
+    "Fell",
+    "På beställning",
+    "Stretchband",
+    "Tunturi",
+    "Velomarket",
+    "gummiband",
+    "texter-klara"
+   ],
+   "139.0"
+  ],
+  "gid://shopify/Product/10472283865354": [
+   "ACTIVE",
+   [
+    "Boxningsutrustning",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "89.0"
+  ],
+  "gid://shopify/Product/10472283832586": [
+   "ACTIVE",
+   [
+    "Extra vikter",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara",
+    "tillbehör"
+   ],
+   "219.0"
+  ],
+  "gid://shopify/Product/10472283701514": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1609.0"
+  ],
+  "gid://shopify/Product/10472281735434": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hula Hoop",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "269.0"
+  ],
+  "gid://shopify/Product/10472281374986": [
+   "ACTIVE",
+   [
+    "Crosstrainer",
+    "Crosstrainers",
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "10089.0"
+  ],
+  "gid://shopify/Product/10472281309450": [
+   "ACTIVE",
+   [
+    "Extra vikter",
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "fotledsvikt",
+    "texter-klara",
+    "tillbehör"
+   ],
+   "149.0"
+  ],
+  "gid://shopify/Product/10472281145610": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4389.0"
+  ],
+  "gid://shopify/Product/10472280883466": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "209.0"
+  ],
+  "gid://shopify/Product/10472280817930": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "129.0"
+  ],
+  "gid://shopify/Product/10472280031498": [
+   "DRAFT",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "249.0"
+  ],
+  "gid://shopify/Product/10472279998730": [
+   "DRAFT",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "219.0"
+  ],
+  "gid://shopify/Product/10472279965962": [
+   "DRAFT",
+   [
+    "Konditionsträning & Fitness",
+    "Träningsboll",
+    "Träningsbollar",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "179.0"
+  ],
+  "gid://shopify/Product/10472277803274": [
+   "DRAFT",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "219.0"
+  ],
+  "gid://shopify/Product/10472277606666": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Minibikar",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1939.0"
+  ],
+  "gid://shopify/Product/10472277508362": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2029.0"
+  ],
+  "gid://shopify/Product/10472277442826": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1869.0"
+  ],
+  "gid://shopify/Product/10472277082378": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hula Hoop",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "609.0"
+  ],
+  "gid://shopify/Product/10472276984074": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "319.0"
+  ],
+  "gid://shopify/Product/10472276918538": [
+   "DRAFT",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "319.0"
+  ],
+  "gid://shopify/Product/10472276721930": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "319.0"
+  ],
+  "gid://shopify/Product/10472276656394": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Stepper",
+    "Tunturi",
+    "Velomarket",
+    "balansplatta"
+   ],
+   "209.0"
+  ],
+  "gid://shopify/Product/10472276590858": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Massage",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "619.0"
+  ],
+  "gid://shopify/Product/10472276558090": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "229.0"
+  ],
+  "gid://shopify/Product/10472276459786": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "3229.0"
+  ],
+  "gid://shopify/Product/10472276001034": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "pedals",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2249.0"
+  ],
+  "gid://shopify/Product/10472275509514": [
+   "ARCHIVED",
+   [
+    "Tillbehör",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "169.0"
+  ],
+  "gid://shopify/Product/10472274133258": [
+   "ACTIVE",
+   [
+    "Tunturi",
+    "Velomarket",
+    "Yogamattor",
+    "texter-klara",
+    "träningsmatta"
+   ],
+   "369.0"
+  ],
+  "gid://shopify/Product/10472271511818": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "249.0"
+  ],
+  "gid://shopify/Product/10472271184138": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Boxningsutrustning",
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "429.0"
+  ],
+  "gid://shopify/Product/10472270823690": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3189.0"
+  ],
+  "gid://shopify/Product/10472270266634": [
+   "ACTIVE",
+   [
+    "Extra vikter",
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "fotledsvikt",
+    "texter-klara",
+    "tillbehör"
+   ],
+   "219.0"
+  ],
+  "gid://shopify/Product/10472269447434": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Pakethållare",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4669.0"
+  ],
+  "gid://shopify/Product/10472268824842": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "429.0"
+  ],
+  "gid://shopify/Product/10472268693770": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "219.0"
+  ],
+  "gid://shopify/Product/10472268038410": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "399.0"
+  ],
+  "gid://shopify/Product/10472266465546": [
+   "ARCHIVED",
+   [
+    "Fluid",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "25199.0"
+  ],
+  "gid://shopify/Product/10472266170634": [
+   "ARCHIVED",
+   [
+    "Fluid",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "25519.0"
+  ],
+  "gid://shopify/Product/10472266072330": [
+   "ARCHIVED",
+   [
+    "Fluid",
+    "Professionell utrustning",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "43719.0"
+  ],
+  "gid://shopify/Product/10472265875722": [
+   "ACTIVE",
+   [
+    "Crosstrainer",
+    "Crosstrainers",
+    "Fell",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "10759.0"
+  ],
+  "gid://shopify/Product/10472265777418": [
+   "ACTIVE",
+   [
+    "Crosstrainer",
+    "Crosstrainers",
+    "Fell",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "15529.0"
+  ],
+  "gid://shopify/Product/10472265187594": [
+   "DRAFT",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "träningsmatta"
+   ],
+   "309.0"
+  ],
+  "gid://shopify/Product/10472265154826": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "Yogamattor",
+    "texter-klara",
+    "träningsmatta"
+   ],
+   "369.0"
+  ],
+  "gid://shopify/Product/10472265122058": [
+   "DRAFT",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "träningsmatta"
+   ],
+   "309.0"
+  ],
+  "gid://shopify/Product/10472265089290": [
+   "ARCHIVED",
+   [
+    "Cykelbelysning",
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "träningsmatta"
+   ],
+   "369.0"
+  ],
+  "gid://shopify/Product/10472265056522": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "219.0"
+  ],
+  "gid://shopify/Product/10472265023754": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara",
+    "träningsboll"
+   ],
+   "179.0"
+  ],
+  "gid://shopify/Product/10472264925450": [
+   "ARCHIVED",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "12409.0"
+  ],
+  "gid://shopify/Product/10472264827146": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "10209.0"
+  ],
+  "gid://shopify/Product/10472263876874": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hopprep",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "119.0"
+  ],
+  "gid://shopify/Product/10472263844106": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "69.0"
+  ],
+  "gid://shopify/Product/10472263745802": [
+   "ARCHIVED",
+   [
+    "Konditionsträning & Fitness",
+    "Pull up",
+    "Styrketräning",
+    "Tunturi",
+    "Velomarket",
+    "pull ups"
+   ],
+   "429.0"
+  ],
+  "gid://shopify/Product/10472263614730": [
+   "ACTIVE",
+   [
+    "Fell",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "Yoga",
+    "Yogamattor",
+    "texter-klara",
+    "träningsmatta"
+   ],
+   "369.0"
+  ],
+  "gid://shopify/Product/10472263581962": [
+   "DRAFT",
+   [
+    "Balansträning",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10472263549194": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "gymgolv",
+    "texter-klara"
+   ],
+   "519.0"
+  ],
+  "gid://shopify/Product/10472263516426": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "gymgolv",
+    "texter-klara"
+   ],
+   "589.0"
+  ],
+  "gid://shopify/Product/10472263483658": [
+   "DRAFT",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "69.0"
+  ],
+  "gid://shopify/Product/10472263418122": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "139.0"
+  ],
+  "gid://shopify/Product/10472263319818": [
+   "DRAFT",
+   [
+    "Fell",
+    "Massage",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "319.0"
+  ],
+  "gid://shopify/Product/10472263287050": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "319.0"
+  ],
+  "gid://shopify/Product/10472263254282": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "399.0"
+  ],
+  "gid://shopify/Product/10472263221514": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "369.0"
+  ],
+  "gid://shopify/Product/10472262729994": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "23329.0"
+  ],
+  "gid://shopify/Product/10472262664458": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "gymtillbehör",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3129.0"
+  ],
+  "gid://shopify/Product/10472262598922": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2389.0"
+  ],
+  "gid://shopify/Product/10472261681418": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3009.0"
+  ],
+  "gid://shopify/Product/10472261615882": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "9389.0"
+  ],
+  "gid://shopify/Product/10472261452042": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4989.0"
+  ],
+  "gid://shopify/Product/10472261419274": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4769.0"
+  ],
+  "gid://shopify/Product/10472261320970": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4399.0"
+  ],
+  "gid://shopify/Product/10472261288202": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2529.0"
+  ],
+  "gid://shopify/Product/10472261189898": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "9129.0"
+  ],
+  "gid://shopify/Product/10472261058826": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "7069.0"
+  ],
+  "gid://shopify/Product/10472260993290": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "6879.0"
+  ],
+  "gid://shopify/Product/10472260927754": [
+   "ACTIVE",
+   [
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1331.1"
+  ],
+  "gid://shopify/Product/10472260862218": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "519.0"
+  ],
+  "gid://shopify/Product/10472260796682": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Träningsboll",
+    "Träningsbollar",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1509.0"
+  ],
+  "gid://shopify/Product/10472260665610": [
+   "ACTIVE",
+   [
+    "Extra vikter",
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "Viktväst",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "tillbehör"
+   ],
+   "2339.0"
+  ],
+  "gid://shopify/Product/10472260632842": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2089.0"
+  ],
+  "gid://shopify/Product/10472260567306": [
+   "ACTIVE",
+   [
+    "Extra vikter",
+    "Fell",
+    "Pakethållare",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "tillbehör",
+    "viktskivställ",
+    "viktskivställning"
+   ],
+   "3119.0"
+  ],
+  "gid://shopify/Product/10472260174090": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "justerbar bänk",
+    "justerbar träningsbänk",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "4639.0"
+  ],
+  "gid://shopify/Product/10472260141322": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Pakethållare",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "hantelställ",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2099.0"
+  ],
+  "gid://shopify/Product/10472260108554": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1689.0"
+  ],
+  "gid://shopify/Product/10472260075786": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Skivstång",
+    "Skivstångspaket - 30mm",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "skivstångspaket",
+    "texter-klara"
+   ],
+   "1839.0"
+  ],
+  "gid://shopify/Product/10472260043018": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1679.0"
+  ],
+  "gid://shopify/Product/10472259977482": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "Viktset",
+    "texter-klara"
+   ],
+   "609.0"
+  ],
+  "gid://shopify/Product/10472259944714": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1519.0"
+  ],
+  "gid://shopify/Product/10472259813642": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Boxningsutrustning",
+    "Cykelväska",
+    "Fell",
+    "Gymstick",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "boxningssäck",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "5519.0"
+  ],
+  "gid://shopify/Product/10472259780874": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Skivstång",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "skivstångsställ"
+   ],
+   "3589.0"
+  ],
+  "gid://shopify/Product/10472259748106": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "3919.0"
+  ],
+  "gid://shopify/Product/10472259682570": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2539.0"
+  ],
+  "gid://shopify/Product/10472259649802": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "skivstång 50mm"
+   ],
+   "3709.0"
+  ],
+  "gid://shopify/Product/10472259584266": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Skivstång",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "skivstång 50mm",
+    "texter-klara"
+   ],
+   "1689.0"
+  ],
+  "gid://shopify/Product/10472259551498": [
+   "ACTIVE",
+   [
+    "Extra vikter",
+    "Fell",
+    "Pakethållare",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "tillbehör",
+    "viktskivställ",
+    "viktskivställning"
+   ],
+   "4449.0"
+  ],
+  "gid://shopify/Product/10472259420426": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "4739.0"
+  ],
+  "gid://shopify/Product/10472259354890": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Boxningsutrustning",
+    "Cykelväska",
+    "Fell",
+    "Kedja",
+    "Tunturi",
+    "Velomarket",
+    "boxningssäck",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1839.0"
+  ],
+  "gid://shopify/Product/10472259256586": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Skivstång",
+    "Tunturi",
+    "Velomarket",
+    "skivstång 30mm",
+    "texter-klara"
+   ],
+   "629.0"
+  ],
+  "gid://shopify/Product/10472259223818": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Skivstång",
+    "Skivstångspaket - 30mm",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "skivstångspaket"
+   ],
+   "7399.0"
+  ],
+  "gid://shopify/Product/10472259191050": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Massage",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2039.0"
+  ],
+  "gid://shopify/Product/10472259158282": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1889.0"
+  ],
+  "gid://shopify/Product/10472259125514": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "739.0"
+  ],
+  "gid://shopify/Product/10472259092746": [
+   "ACTIVE",
+   [
+    "Massage",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "Yoga",
+    "texter-klara"
+   ],
+   "169.0"
+  ],
+  "gid://shopify/Product/10472259059978": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "5799.0"
+  ],
+  "gid://shopify/Product/10472258928906": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "justerba",
+    "justerbar träningsbänk",
+    "price-change-job-active",
+    "sale",
+    "träningsbänk"
+   ],
+   "4249.0"
+  ],
+  "gid://shopify/Product/10472258896138": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4169.0"
+  ],
+  "gid://shopify/Product/10472258863370": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "7679.0"
+  ],
+  "gid://shopify/Product/10472258830602": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "5509.0"
+  ],
+  "gid://shopify/Product/10472258535690": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Tillbehör",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "179.0"
+  ],
+  "gid://shopify/Product/10472258339082": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "7499.0"
+  ],
+  "gid://shopify/Product/10472258076938": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "7699.0"
+  ],
+  "gid://shopify/Product/10472256897290": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hyperextension",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "rygglyftsbänk",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "2009.0"
+  ],
+  "gid://shopify/Product/10472255389962": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "13809.0"
+  ],
+  "gid://shopify/Product/10472255291658": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "559.0"
+  ],
+  "gid://shopify/Product/10472255258890": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Träningsbänkar",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "2679.0"
+  ],
+  "gid://shopify/Product/10472255127818": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "5349.0"
+  ],
+  "gid://shopify/Product/10472254603530": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Boxningsutrustning",
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "429.0"
+  ],
+  "gid://shopify/Product/10472254210314": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "5549.0"
+  ],
+  "gid://shopify/Product/10472253849866": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "6429.0"
+  ],
+  "gid://shopify/Product/10472253686026": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3629.0"
+  ],
+  "gid://shopify/Product/10472253063434": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "smithmaskin",
+    "texter-klara"
+   ],
+   "19719.0"
+  ],
+  "gid://shopify/Product/10472252637450": [
+   "ACTIVE",
+   [
+    "Fell",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "Yoga",
+    "Yogamattor",
+    "texter-klara",
+    "träningsmatta"
+   ],
+   "319.0"
+  ],
+  "gid://shopify/Product/10472252277002": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "justerbar träningsbänk",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "2789.0"
+  ],
+  "gid://shopify/Product/10472250900746": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "20619.0"
+  ],
+  "gid://shopify/Product/10472249884938": [
+   "ARCHIVED",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1999.0"
+  ],
+  "gid://shopify/Product/10472249458954": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Minibikar",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2199.0"
+  ],
+  "gid://shopify/Product/10472249196810": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4359.0"
+  ],
+  "gid://shopify/Product/10472249065738": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2149.0"
+  ],
+  "gid://shopify/Product/10472248967434": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Stepper",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "299.0"
+  ],
+  "gid://shopify/Product/10472248901898": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "69.0"
+  ],
+  "gid://shopify/Product/10472246935818": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Löpband",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "44039.0"
+  ],
+  "gid://shopify/Product/10472245723402": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "9709.0"
+  ],
+  "gid://shopify/Product/10472245625098": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "16519.0"
+  ],
+  "gid://shopify/Product/10472245559562": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "10699.0"
+  ],
+  "gid://shopify/Product/10472245395722": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "15979.0"
+  ],
+  "gid://shopify/Product/10472242938122": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "21039.0"
+  ],
+  "gid://shopify/Product/10472240873738": [
+   "ARCHIVED",
+   [
+    "Fell",
+    "Stretchband",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "219.0"
+  ],
+  "gid://shopify/Product/10472238547210": [
+   "ACTIVE",
+   [
+    "Cykelbelysning",
+    "Fell",
+    "Stretchband",
+    "Tunturi",
+    "Velomarket",
+    "gummiband",
+    "texter-klara"
+   ],
+   "119.0"
+  ],
+  "gid://shopify/Product/10472225538314": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Pakethållare",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "power cage",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "17339.0"
+  ],
+  "gid://shopify/Product/10472225177866": [
+   "DRAFT",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "7424.1"
+  ],
+  "gid://shopify/Product/10472225046794": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3849.0"
+  ],
+  "gid://shopify/Product/10472224325898": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsmaskin"
+   ],
+   "11779.0"
+  ],
+  "gid://shopify/Product/10472223211786": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Multistationer",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsmaskin"
+   ],
+   "12999.0"
+  ],
+  "gid://shopify/Product/10472222785802": [
+   "ARCHIVED",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "4643.1"
+  ],
+  "gid://shopify/Product/10472222523658": [
+   "ACTIVE",
+   [
+    "Bänkpress",
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "3139.0"
+  ],
+  "gid://shopify/Product/10472221901066": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Multistationer",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "8693.1"
+  ],
+  "gid://shopify/Product/10472221802762": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Kardioträning & Fitness",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10472221245706": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "2069.0"
+  ],
+  "gid://shopify/Product/10472220754186": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "11879.0"
+  ],
+  "gid://shopify/Product/10472220197130": [
+   "ARCHIVED",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4549.0"
+  ],
+  "gid://shopify/Product/10472219672842": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4109.0"
+  ],
+  "gid://shopify/Product/10472219279626": [
+   "DRAFT",
+   [
+    "Crosstrainer",
+    "Crosstrainers",
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "13202.1"
+  ],
+  "gid://shopify/Product/10472218984714": [
+   "ACTIVE",
+   [
+    "Crosstrainers",
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "puls",
+    "pulsklocka",
+    "pulsmätare",
+    "sale",
+    "texter-klara"
+   ],
+   "1789.0"
+  ],
+  "gid://shopify/Product/10472218263818": [
+   "ACTIVE",
+   [
+    "Tillbehör",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "49.0"
+  ],
+  "gid://shopify/Product/10472216985866": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "169.0"
+  ],
+  "gid://shopify/Product/10472216559882": [
+   "ACTIVE",
+   [
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "229.0"
+  ],
+  "gid://shopify/Product/10472216363274": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Massage",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "129.0"
+  ],
+  "gid://shopify/Product/10472215937290": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "Yoga",
+    "Yogamattor",
+    "texter-klara"
+   ],
+   "119.0"
+  ],
+  "gid://shopify/Product/10472215642378": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "Yoga",
+    "Yogamattor",
+    "texter-klara"
+   ],
+   "159.0"
+  ],
+  "gid://shopify/Product/10472215544074": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Massage",
+    "Tunturi",
+    "Velomarket",
+    "Yoga",
+    "texter-klara"
+   ],
+   "319.0"
+  ],
+  "gid://shopify/Product/10472215347466": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Magträningshjul",
+    "Magträningsrullar",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "109.0"
+  ],
+  "gid://shopify/Product/10472214921482": [
+   "ACTIVE",
+   [
+    "Träningsbollar",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara",
+    "träningsboll"
+   ],
+   "139.0"
+  ],
+  "gid://shopify/Product/10472214724874": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hula Hoop",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "279.0"
+  ],
+  "gid://shopify/Product/10472214266122": [
+   "DRAFT",
+   [
+    "Fell",
+    "Hopprep",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "109.0"
+  ],
+  "gid://shopify/Product/10472213971210": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Stepper",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2159.0"
+  ],
+  "gid://shopify/Product/10472213348618": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "79.0"
+  ],
+  "gid://shopify/Product/10472213315850": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Kedja",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "219.0"
+  ],
+  "gid://shopify/Product/10472213250314": [
+   "ACTIVE",
+   [
+    "Cykelväska",
+    "Cykelväskor",
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "729.0"
+  ],
+  "gid://shopify/Product/10472212889866": [
+   "ARCHIVED",
+   [
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "359.0"
+  ],
+  "gid://shopify/Product/10472212463882": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "189.0"
+  ],
+  "gid://shopify/Product/10472212332810": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1529.0"
+  ],
+  "gid://shopify/Product/10472211644682": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "499.0"
+  ],
+  "gid://shopify/Product/10472211513610": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Skivstång",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "589.0"
+  ],
+  "gid://shopify/Product/10472211448074": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "269.0"
+  ],
+  "gid://shopify/Product/10472211251466": [
+   "ARCHIVED",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "139.0"
+  ],
+  "gid://shopify/Product/10472210956554": [
+   "ACTIVE",
+   [
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "169.0"
+  ],
+  "gid://shopify/Product/10472209416458": [
+   "ACTIVE",
+   [
+    "Extra vikter",
+    "Fell",
+    "Tilläggsvikter",
+    "Tunturi",
+    "Velomarket",
+    "fotledsvikt",
+    "tillbehör"
+   ],
+   "129.0"
+  ],
+  "gid://shopify/Product/10472209154314": [
+   "DRAFT",
+   [
+    "Gymstick",
+    "Tunturi",
+    "Velomarket",
+    "Yogamattor"
+   ],
+   "259.0"
+  ],
+  "gid://shopify/Product/10472208564490": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Fell",
+    "Hantlar & Viktskivor",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "189.0"
+  ],
+  "gid://shopify/Product/10472208236810": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Träningsboll",
+    "Träningsbollar",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "469.0"
+  ],
+  "gid://shopify/Product/10472203518218": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1579.0"
+  ],
+  "gid://shopify/Product/10472203321610": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Tillbehör",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2079.0"
+  ],
+  "gid://shopify/Product/10472202731786": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Boxningsutrustning",
+    "Cykelväska",
+    "Fell",
+    "Kedja",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1839.0"
+  ],
+  "gid://shopify/Product/10472202436874": [
+   "DRAFT",
+   [
+    "Boxning",
+    "Boxningsutrustning",
+    "Cykelväska",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "139.0"
+  ],
+  "gid://shopify/Product/10471415578890": [
+   "DRAFT",
+   [
+    "Fell",
+    "Hantlar",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "439.0"
+  ],
+  "gid://shopify/Product/10471350665482": [
+   "ACTIVE",
+   [
+    "Hantlar",
+    "Professionell utrustning",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "339.0"
+  ],
+  "gid://shopify/Product/10471350534410": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "269.0"
+  ],
+  "gid://shopify/Product/10471317602570": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "519.0"
+  ],
+  "gid://shopify/Product/10471183876362": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "28669.0"
+  ],
+  "gid://shopify/Product/10471183712522": [
+   "ACTIVE",
+   [
+    "Professionell utrustning",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "42409.0"
+  ],
+  "gid://shopify/Product/10471174242570": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1619.0"
+  ],
+  "gid://shopify/Product/10471172800778": [
+   "DRAFT",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2529.0"
+  ],
+  "gid://shopify/Product/10471139213578": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Skivstång",
+    "Tunturi",
+    "Velomarket",
+    "fast skivstång",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "13039.0"
+  ],
+  "gid://shopify/Product/10471107723530": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "8979.0"
+  ],
+  "gid://shopify/Product/10471042646282": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Professionell utrustning",
+    "Pump",
+    "Skivstångspaket - 30mm",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "skivstångspaket",
+    "texter-klara"
+   ],
+   "2969.0"
+  ],
+  "gid://shopify/Product/10471040975114": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "6589.0"
+  ],
+  "gid://shopify/Product/10471027835146": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "679.0"
+  ],
+  "gid://shopify/Product/10471027507466": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "369.0"
+  ],
+  "gid://shopify/Product/10471027212554": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "119.0"
+  ],
+  "gid://shopify/Product/10471026819338": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1509.0"
+  ],
+  "gid://shopify/Product/10471019020554": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "299.0"
+  ],
+  "gid://shopify/Product/10471009943818": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "22119.0"
+  ],
+  "gid://shopify/Product/10471002931466": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "16259.0"
+  ],
+  "gid://shopify/Product/10470998147338": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Träningsbollar",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara",
+    "träningsboll"
+   ],
+   "219.0"
+  ],
+  "gid://shopify/Product/10470970589450": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1999.0"
+  ],
+  "gid://shopify/Product/10470947324170": [
+   "ACTIVE",
+   [
+    "Cykelbelysning",
+    "Stretchband",
+    "Tunturi",
+    "Velomarket",
+    "gummiband",
+    "texter-klara"
+   ],
+   "99.0"
+  ],
+  "gid://shopify/Product/10470943424778": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Träningsboll",
+    "Träningsbollar",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "749.0"
+  ],
+  "gid://shopify/Product/10470942114058": [
+   "DRAFT",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "579.0"
+  ],
+  "gid://shopify/Product/10470936215818": [
+   "ACTIVE",
+   [
+    "Cykelbelysning",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "49.0"
+  ],
+  "gid://shopify/Product/10470935363850": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3759.0"
+  ],
+  "gid://shopify/Product/10470935068938": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3469.0"
+  ],
+  "gid://shopify/Product/10470934741258": [
+   "ACTIVE",
+   [
+    "Fluid",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2709.0"
+  ],
+  "gid://shopify/Product/10470934544650": [
+   "ARCHIVED",
+   [
+    "Fell",
+    "Professionell utrustning",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "30199.0"
+  ],
+  "gid://shopify/Product/10470933496074": [
+   "DRAFT",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "träningsmatta"
+   ],
+   "309.0"
+  ],
+  "gid://shopify/Product/10470933037322": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "8749.0"
+  ],
+  "gid://shopify/Product/10470927433994": [
+   "ACTIVE",
+   [
+    "Cykelbelysning",
+    "Stretchband",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "99.0"
+  ],
+  "gid://shopify/Product/10470926156042": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Stepper",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "449.0"
+  ],
+  "gid://shopify/Product/10470925697290": [
+   "ACTIVE",
+   [
+    "Extra vikter",
+    "Tunturi",
+    "Velomarket",
+    "Viktväst",
+    "texter-klara",
+    "tillbehör"
+   ],
+   "509.0"
+  ],
+  "gid://shopify/Product/10470925238538": [
+   "ACTIVE",
+   [
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "349.0"
+  ],
+  "gid://shopify/Product/10470925074698": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "49.0"
+  ],
+  "gid://shopify/Product/10470923010314": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "6279.0"
+  ],
+  "gid://shopify/Product/10470913179914": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Motionscykel",
+    "Professionell utrustning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "22109.0"
+  ],
+  "gid://shopify/Product/10470912950538": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "529.0"
+  ],
+  "gid://shopify/Product/10470912491786": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "gymtillbehör",
+    "mobilhållare"
+   ],
+   "579.0"
+  ],
+  "gid://shopify/Product/10470904889610": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "34109.0"
+  ],
+  "gid://shopify/Product/10470900367626": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Multistationer",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "7699.0"
+  ],
+  "gid://shopify/Product/10470888898826": [
+   "ACTIVE",
+   [
+    "Tillbehör",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "39.0"
+  ],
+  "gid://shopify/Product/10470888276234": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Pump",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "299.0"
+  ],
+  "gid://shopify/Product/10470888243466": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "99.0"
+  ],
+  "gid://shopify/Product/10470887063818": [
+   "ARCHIVED",
+   [
+    "Fell",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "träningsmaskin"
+   ],
+   "53639.0"
+  ],
+  "gid://shopify/Product/10468759306506": [
+   "ARCHIVED",
+   [
+    "Fell",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "26989.0"
+  ],
+  "gid://shopify/Product/10468752720138": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "139.0"
+  ],
+  "gid://shopify/Product/10468731683082": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "269.0"
+  ],
+  "gid://shopify/Product/10468724834570": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "3939.0"
+  ],
+  "gid://shopify/Product/10468719493386": [
+   "ACTIVE",
+   [
+    "Cykelbelysning",
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "319.0"
+  ],
+  "gid://shopify/Product/10468718575882": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "puls",
+    "pulsklocka",
+    "pulsmätare",
+    "sale"
+   ],
+   "1819.0"
+  ],
+  "gid://shopify/Product/10468716740874": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Professionell utrustning",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "50209.0"
+  ],
+  "gid://shopify/Product/10468716085514": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "3979.0"
+  ],
+  "gid://shopify/Product/10468715036938": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "hantelställ",
+    "hantelställning",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2249.0"
+  ],
+  "gid://shopify/Product/10468713824522": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "30199.0"
+  ],
+  "gid://shopify/Product/10468712939786": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "5199.0"
+  ],
+  "gid://shopify/Product/10468709761290": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "9109.0"
+  ],
+  "gid://shopify/Product/10462856806666": [
+   "DRAFT",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "249.0"
+  ],
+  "gid://shopify/Product/10462852284682": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "659.0"
+  ],
+  "gid://shopify/Product/10462850777354": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "699.0"
+  ],
+  "gid://shopify/Product/10462850449674": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "699.0"
+  ],
+  "gid://shopify/Product/10462836490506": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "799.0"
+  ],
+  "gid://shopify/Product/10462794776842": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "249.0"
+  ],
+  "gid://shopify/Product/10462794547466": [
+   "ACTIVE",
+   [
+    "Extra vikter",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara",
+    "tillbehör"
+   ],
+   "159.0"
+  ],
+  "gid://shopify/Product/10462784880906": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "189.0"
+  ],
+  "gid://shopify/Product/10462778917130": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "79.0"
+  ],
+  "gid://shopify/Product/10462778818826": [
+   "ACTIVE",
+   [
+    "Tunturi",
+    "Velomarket",
+    "Yoga",
+    "Yogamattor",
+    "texter-klara",
+    "träningsmatta"
+   ],
+   "369.0"
+  ],
+  "gid://shopify/Product/10462778753290": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "159.0"
+  ],
+  "gid://shopify/Product/10462778392842": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara",
+    "våg"
+   ],
+   "269.0"
+  ],
+  "gid://shopify/Product/10462778097930": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "539.0"
+  ],
+  "gid://shopify/Product/10462776361226": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Stepper",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "209.0"
+  ],
+  "gid://shopify/Product/10462775771402": [
+   "ACTIVE",
+   [
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "Yoga",
+    "Yogamattor",
+    "texter-klara",
+    "träningsmatta"
+   ],
+   "319.0"
+  ],
+  "gid://shopify/Product/10462774690058": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Trampoliner",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "789.0"
+  ],
+  "gid://shopify/Product/10462774231306": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "359.0"
+  ],
+  "gid://shopify/Product/10462774198538": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "199.0"
+  ],
+  "gid://shopify/Product/10462773084426": [
+   "ARCHIVED",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "12068.1"
+  ],
+  "gid://shopify/Product/10462764040458": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Massage",
+    "Tunturi",
+    "Velomarket",
+    "massageboll",
+    "texter-klara"
+   ],
+   "249.0"
+  ],
+  "gid://shopify/Product/10462758469898": [
+   "ACTIVE",
+   [
+    "Boxing equipment",
+    "Boxning",
+    "Fell",
+    "Herrcykel",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "8149.0"
+  ],
+  "gid://shopify/Product/10462315446538": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2469.0"
+  ],
+  "gid://shopify/Product/10462229463306": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "6587.1"
+  ],
+  "gid://shopify/Product/10462229233930": [
+   "ARCHIVED",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "träningsmatta"
+   ],
+   "309.0"
+  ],
+  "gid://shopify/Product/10462224777482": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "469.0"
+  ],
+  "gid://shopify/Product/10462201839882": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1549.0"
+  ],
+  "gid://shopify/Product/10462201446666": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Pakethållare",
+    "Skivstångsställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "squat",
+    "squat rack",
+    "squat stativ",
+    "texter-klara"
+   ],
+   "5629.0"
+  ],
+  "gid://shopify/Product/10462191223050": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "309.0"
+  ],
+  "gid://shopify/Product/10462191190282": [
+   "ACTIVE",
+   [
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "709.0"
+  ],
+  "gid://shopify/Product/10462191124746": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "119.0"
+  ],
+  "gid://shopify/Product/10462190240010": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Massage",
+    "Tunturi",
+    "Velomarket",
+    "Yoga",
+    "texter-klara"
+   ],
+   "169.0"
+  ],
+  "gid://shopify/Product/10462177263882": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Stepper",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "229.0"
+  ],
+  "gid://shopify/Product/10461966860554": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "8379.0"
+  ],
+  "gid://shopify/Product/10461962764554": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Träningsbollar",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara",
+    "träningsboll"
+   ],
+   "139.0"
+  ],
+  "gid://shopify/Product/10461961978122": [
+   "DRAFT",
+   [
+    "Träningsbollar",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "179.0"
+  ],
+  "gid://shopify/Product/10461961224458": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Pump",
+    "Skivstångspaket - 30mm",
+    "Tunturi",
+    "Velomarket",
+    "skivstångspaket",
+    "texter-klara"
+   ],
+   "739.0"
+  ],
+  "gid://shopify/Product/10461961027850": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1689.0"
+  ],
+  "gid://shopify/Product/10461958144266": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "289.0"
+  ],
+  "gid://shopify/Product/10461917741322": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "Yogamattor",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsmatta"
+   ],
+   "609.0"
+  ],
+  "gid://shopify/Product/10439135691018": [
+   "ACTIVE",
+   [
+    "Fell",
+    "På beställning",
+    "Stretchband",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "169.0"
+  ],
+  "gid://shopify/Product/10430372151562": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "149.0"
+  ],
+  "gid://shopify/Product/10430370775306": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara",
+    "träningsboll"
+   ],
+   "149.0"
+  ],
+  "gid://shopify/Product/10429961928970": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2739.0"
+  ],
+  "gid://shopify/Product/10411932647690": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara",
+    "våg"
+   ],
+   "259.0"
+  ],
+  "gid://shopify/Product/10411898339594": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "5099.0"
+  ],
+  "gid://shopify/Product/10411865604362": [
+   "DRAFT",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "Yoga"
+   ],
+   "369.0"
+  ],
+  "gid://shopify/Product/10411860099338": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Motionscykel",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "19817.1"
+  ],
+  "gid://shopify/Product/10411857641738": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "149.0"
+  ],
+  "gid://shopify/Product/10411853512970": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "339.0"
+  ],
+  "gid://shopify/Product/10411853414666": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "49.0"
+  ],
+  "gid://shopify/Product/10411771363594": [
+   "ACTIVE",
+   [
+    "Fell",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "Yogamattor",
+    "texter-klara",
+    "träningsmatta"
+   ],
+   "309.0"
+  ],
+  "gid://shopify/Product/10411761336586": [
+   "ACTIVE",
+   [
+    "Massage",
+    "Tunturi",
+    "Velomarket",
+    "Yoga",
+    "texter-klara"
+   ],
+   "169.0"
+  ],
+  "gid://shopify/Product/10411753668874": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "89.0"
+  ],
+  "gid://shopify/Product/10411753505034": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "419.0"
+  ],
+  "gid://shopify/Product/10411741085962": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "5579.0"
+  ],
+  "gid://shopify/Product/10411738300682": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "7329.0"
+  ],
+  "gid://shopify/Product/10411734565130": [
+   "ARCHIVED",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "6079.0"
+  ],
+  "gid://shopify/Product/10411731616010": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "5219.0"
+  ],
+  "gid://shopify/Product/10411721392394": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "119.0"
+  ],
+  "gid://shopify/Product/10411720704266": [
+   "ACTIVE",
+   [
+    "Boxningsutrustning",
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "benskydd",
+    "texter-klara"
+   ],
+   "259.0"
+  ],
+  "gid://shopify/Product/10411701272842": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Massage",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1599.0"
+  ],
+  "gid://shopify/Product/10411688132874": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "319.0"
+  ],
+  "gid://shopify/Product/10411685806346": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Motionscykel",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "25959.0"
+  ],
+  "gid://shopify/Product/10411677745418": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Pakethållare",
+    "Racks & Burar",
+    "Skivstångsställning",
+    "Tunturi",
+    "Velomarket",
+    "power cage",
+    "power rack",
+    "powercage",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "6677.1"
+  ],
+  "gid://shopify/Product/10411677516042": [
+   "ARCHIVED",
+   [
+    "Armhävningsstöd",
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "129.0"
+  ],
+  "gid://shopify/Product/10411677155594": [
+   "ACTIVE",
+   [
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Minibikar",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1769.0"
+  ],
+  "gid://shopify/Product/10411673714954": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "5259.0"
+  ],
+  "gid://shopify/Product/10411606081802": [
+   "ACTIVE",
+   [
+    "Stretchband",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "199.0"
+  ],
+  "gid://shopify/Product/10411603558666": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Stretchband",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "129.0"
+  ],
+  "gid://shopify/Product/10411585175818": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Tillbehör",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "169.0"
+  ],
+  "gid://shopify/Product/10406816186634": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "239.0"
+  ],
+  "gid://shopify/Product/10403787735306": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Skivstång",
+    "Tunturi",
+    "Velomarket",
+    "skivstång 30mm",
+    "texter-klara"
+   ],
+   "569.0"
+  ]
+ }
+}

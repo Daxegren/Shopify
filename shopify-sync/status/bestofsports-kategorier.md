@@ -14,3 +14,7 @@ Skapad 2026-11-04. Sessionen `claude/bos-kategorier`. Gren och underlag: `rappor
 | Andra Opus-granskning (2026-11-12) | klar: 5 godkända, 5 rättade (hantlar, cykellås, elcyklar, sparkcykel, tunturi), kontroll 0 fel; underlagsfrågor kvarstår (hantlar, löpband, elcyklar, sparkcykel, cykellås), se `granskning-opus-2.md` |
 | Underlag omkört (2026-11-17) | klart för tio kategorier i `rapporter/bos-kategorier-2026-11-17/`; sortiment och priser har ändrats, så texterna måste skrivas om och kontrolleras igen 2026-12-01 |
 | Skrivning av texter och struktur | **väntar till 2026-12-01 (Black Week, inga liveändringar före)** |
+
+## Tillägg 2026-11-17 (beslutsfil `rapporter/beslut-2026-11-17-8.md`)
+- Pilot (10 kollektioner) skriven i butiken och återläst utan avvikelse: motionscykel, lopband, roddmaskin, cykellas, elcyklar, tunturi, sparkcykel, crosstrainer, hantlar, kettlebell. Före-filer: `rapporter/shopify-original-2026-11-17/`.
+- Våg 2: nio utkast granskade i två rundor (`rapporter/bos-kategoritexter-2026-11-17-8/`), inget skrivet. kona-1 och traningsutrustning-for-hemmagym hålls tillbaka (se beslutsfilen).

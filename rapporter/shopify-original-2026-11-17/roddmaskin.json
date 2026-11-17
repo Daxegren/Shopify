@@ -1,0 +1,1034 @@
+{
+ "fore": {
+  "id": "gid://shopify/Collection/526984053002",
+  "handle": "roddmaskin",
+  "title": "Roddmaskin",
+  "updatedAt": "2026-11-16T06:36:10Z",
+  "descriptionHtml": "<p style=\"text-align: left;\" data-end=\"666\" data-start=\"329\">En roddmaskin är ett av de mest effektiva redskapen för kondition och styrketräning samtidigt. Hos Best Of Sports hittar du ett brett sortiment av roddmaskiner som passar alla nivåer, från nybörjare till avancerade idrottare. Roddmaskinen tränar hela kroppen, stärker rygg, armar, ben och core och förbättrar både uthållighet och styrka.</p>\n<h2 style=\"text-align: left;\" data-end=\"702\" data-start=\"668\"><strong data-end=\"700\" data-start=\"668\">Roddmaskiner för alla nivåer</strong></h2>\n<p style=\"text-align: left;\" data-end=\"1013\" data-start=\"704\">Våra roddmaskiner finns i flera olika modeller och prisklasser. Med justerbart motstånd kan du anpassa träningen efter din nivå och mål, oavsett om du vill förbättra kondition, styrka eller återhämtning.</p>\n<h2 style=\"text-align: left;\" data-end=\"1043\" data-start=\"1015\"><strong data-end=\"1041\" data-start=\"1015\">Funktioner och komfort</strong></h2>\n<p style=\"text-align: left;\" data-end=\"1366\" data-start=\"1045\">Moderna roddmaskiner erbjuder funktioner som digitala displayer, pulsmätare, förinställda träningsprogram och ergonomiska sittplatser. Detta gör träningen både effektiv och bekväm. Många modeller har dessutom stabil konstruktion och tystgående mekanismer, vilket gör dem perfekta för hemmabruk eller professionella gym.</p>\n<h2 style=\"text-align: left;\" data-end=\"1409\" data-start=\"1368\"><strong data-end=\"1407\" data-start=\"1368\">Vattentroddmaskin och träroddmaskin</strong></h2>\n<p style=\"text-align: left;\" data-end=\"1769\" data-start=\"1411\">Vattentroddmaskiner ger en verklighetstrogen känsla med motstånd som simulerar riktig rodd på vatten, medan träroddmaskiner kombinerar funktion med stilren design och hållbarhet. Luft- och magnetmotståndsmodeller erbjuder snabba och smidiga justeringar för effektiv intervallträning. Alla typer tränar hela kroppen och förbättrar både kondition och styrka.</p>\n<h2 style=\"text-align: left;\" data-end=\"1809\" data-start=\"1771\"><strong data-end=\"1807\" data-start=\"1771\">Prisvärda och premium alternativ</strong></h2>\n<p style=\"text-align: left;\" data-end=\"2090\" data-start=\"1811\">Hos Best Of Sports erbjuder vi roddmaskiner i olika prisklasser och modeller, från prisvärda alternativ för hemmabruk till premiumversioner för professionella gym. Våra roddmaskiner kombinerar kvalitet, funktion och hållbarhet för att ge en säker och effektiv träning varje gång.</p>\n<h2 style=\"text-align: left;\" data-end=\"2114\" data-start=\"2092\"><strong data-end=\"2112\" data-start=\"2092\">Kända varumärken</strong></h2>\n<p style=\"text-align: left;\" data-end=\"2378\" data-start=\"2116\">Roddmaskinerna i vårt sortiment kommer från pålitliga varumärken som Tunturi, Hammer, Christopeit, BH Fitness, Finnlo och Toorx. Dessa märken garanterar hög kvalitet, hållbarhet och prestanda, vilket gör roddträningen både säker och effektiv.</p>\n<h2 style=\"text-align: left;\" data-end=\"2425\" data-start=\"2380\"><strong data-end=\"2423\" data-start=\"2380\">Varför köpa roddmaskin hos BestOfSports</strong></h2>\n<p style=\"text-align: left;\" data-end=\"2759\" data-start=\"2427\">Hos Best Of Sports kan du köpa roddmaskiner online med snabb leverans och trygg service. Våra roddmaskiner är designade för maximal komfort, funktion och hållbarhet, vilket gör det enkelt att träna kondition, styrka och uthållighet hemma eller på gym. Utforska vårt sortiment idag och hitta roddmaskinen som passar dina träningsmål!</p>",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "roddmaskin-2",
+  "seo": {
+   "title": "Roddmaskiner – Köp roddmaskin för effektiv helkroppsträning",
+   "description": "Roddmaskiner ger helkroppsträning som stärker ben, rygg, armar och core. Perfekt för kondition och styrka hemma eller på gym. Snabb leverans. Hemleverans."
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": false,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "roddmaskin"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 76
+  }
+ },
+ "produkter_fore": {
+  "gid://shopify/Product/10708309278986": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "21479.0"
+  ],
+  "gid://shopify/Product/10708309213450": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "19196.1"
+  ],
+  "gid://shopify/Product/10676602732810": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "9419.0"
+  ],
+  "gid://shopify/Product/10673180147978": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "8309.0"
+  ],
+  "gid://shopify/Product/10673149804810": [
+   "ARCHIVED",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2649.0"
+  ],
+  "gid://shopify/Product/10673149739274": [
+   "ARCHIVED",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2393.1"
+  ],
+  "gid://shopify/Product/10673149673738": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2393.1"
+  ],
+  "gid://shopify/Product/10673149542666": [
+   "ARCHIVED",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "3129.0"
+  ],
+  "gid://shopify/Product/10673149411594": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2816.1"
+  ],
+  "gid://shopify/Product/10673147838730": [
+   "ARCHIVED",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2739.0"
+  ],
+  "gid://shopify/Product/10673147609354": [
+   "ARCHIVED",
+   [
+    "Professionell utrustning",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "36469.0"
+  ],
+  "gid://shopify/Product/10673147511050": [
+   "ARCHIVED",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2474.1"
+  ],
+  "gid://shopify/Product/10673147445514": [
+   "ARCHIVED",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "30799.0"
+  ],
+  "gid://shopify/Product/10673147412746": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2474.1"
+  ],
+  "gid://shopify/Product/10673147085066": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "27791.1"
+  ],
+  "gid://shopify/Product/10673146921226": [
+   "ACTIVE",
+   [
+    "Professionell utrustning",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "32894.1"
+  ],
+  "gid://shopify/Product/10656691814666": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Professionell utrustning",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "13079.0"
+  ],
+  "gid://shopify/Product/10650166755594": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "11809.0"
+  ],
+  "gid://shopify/Product/10636739969290": [
+   "DRAFT",
+   [
+    "fotarbete",
+    "kondition",
+    "konditionsutrustning",
+    "roddmaskin"
+   ],
+   "160.66"
+  ],
+  "gid://shopify/Product/10636699140362": [
+   "DRAFT",
+   [
+    "Roddmaskin",
+    "kondition",
+    "konditionsutrustning",
+    "price-change-job-active",
+    "sale"
+   ],
+   "7228.8"
+  ],
+  "gid://shopify/Product/10636699009290": [
+   "DRAFT",
+   [
+    "Roddmaskin",
+    "price-change-job-active",
+    "sale"
+   ],
+   "12392.1"
+  ],
+  "gid://shopify/Product/10636698845450": [
+   "DRAFT",
+   [
+    "Roddmaskin",
+    "price-change-job-active",
+    "sale"
+   ],
+   "11703.6"
+  ],
+  "gid://shopify/Product/10636678070538": [
+   "DRAFT",
+   [
+    "all products",
+    "cardio",
+    "kondition",
+    "konditionsutrustning",
+    "roddmaskin",
+    "romaskine"
+   ],
+   "345.6"
+  ],
+  "gid://shopify/Product/10636667977994": [
+   "DRAFT",
+   [
+    "kondition",
+    "konditionsutrustning",
+    "price-change-job-active",
+    "roddmaskin",
+    "sale"
+   ],
+   "2064.6"
+  ],
+  "gid://shopify/Product/10636665520394": [
+   "DRAFT",
+   [
+    "all products",
+    "kondition",
+    "konditionsutrustning",
+    "roddmaskin"
+   ],
+   "552.6"
+  ],
+  "gid://shopify/Product/10636665291018": [
+   "ARCHIVED",
+   [
+    "kondition",
+    "konditionsutrustning",
+    "roddmaskin"
+   ],
+   "546.57"
+  ],
+  "gid://shopify/Product/10636646547722": [
+   "DRAFT",
+   [
+    "all products",
+    "kondition",
+    "konditionsutrustning",
+    "roddmaskin"
+   ],
+   "346.1"
+  ],
+  "gid://shopify/Product/10605385122058": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "20589.0"
+  ],
+  "gid://shopify/Product/10605385056522": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "22559.0"
+  ],
+  "gid://shopify/Product/10605384761610": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Professionell utrustning",
+    "På beställning",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "15149.0"
+  ],
+  "gid://shopify/Product/10598555615498": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "5709.0"
+  ],
+  "gid://shopify/Product/10598555582730": [
+   "ACTIVE",
+   [
+    "På beställning",
+    "Roddmaskin",
+    "Skridskor",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "3589.0"
+  ],
+  "gid://shopify/Product/10572636520714": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "7789.0"
+  ],
+  "gid://shopify/Product/10572633899274": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4409.0"
+  ],
+  "gid://shopify/Product/10561337393418": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "7959.0"
+  ],
+  "gid://shopify/Product/10494771265802": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Professionell utrustning",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "27459.0"
+  ],
+  "gid://shopify/Product/10494693507338": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "13239.0"
+  ],
+  "gid://shopify/Product/10480047423754": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Christopher",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "9029.0"
+  ],
+  "gid://shopify/Product/10480045129994": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3889.0"
+  ],
+  "gid://shopify/Product/10472506556682": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "5129.0"
+  ],
+  "gid://shopify/Product/10472330330378": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "18939.0"
+  ],
+  "gid://shopify/Product/10472323318026": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "11409.0"
+  ],
+  "gid://shopify/Product/10472308932874": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "9109.0"
+  ],
+  "gid://shopify/Product/10472306376970": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "13719.0"
+  ],
+  "gid://shopify/Product/10472304378122": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Professionell utrustning",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "träningsmaskin"
+   ],
+   "28669.0"
+  ],
+  "gid://shopify/Product/10472298774794": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "9579.0"
+  ],
+  "gid://shopify/Product/10472287994122": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "16039.0"
+  ],
+  "gid://shopify/Product/10472287338762": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "5829.0"
+  ],
+  "gid://shopify/Product/10472280162570": [
+   "ACTIVE",
+   [
+    "Finnlo by Hammer",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "31219.0"
+  ],
+  "gid://shopify/Product/10472280129802": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "14813.1"
+  ],
+  "gid://shopify/Product/10472268497162": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "10679.0"
+  ],
+  "gid://shopify/Product/10472266465546": [
+   "ARCHIVED",
+   [
+    "Fluid",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "25199.0"
+  ],
+  "gid://shopify/Product/10472266170634": [
+   "ARCHIVED",
+   [
+    "Fluid",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "25519.0"
+  ],
+  "gid://shopify/Product/10472266072330": [
+   "ARCHIVED",
+   [
+    "Fluid",
+    "Professionell utrustning",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "43719.0"
+  ],
+  "gid://shopify/Product/10472264958218": [
+   "ACTIVE",
+   [
+    "Finnlo by Hammer",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "20009.0"
+  ],
+  "gid://shopify/Product/10472262729994": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "23329.0"
+  ],
+  "gid://shopify/Product/10472262664458": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "gymtillbehör",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3129.0"
+  ],
+  "gid://shopify/Product/10472262598922": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2389.0"
+  ],
+  "gid://shopify/Product/10472262271242": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "14929.0"
+  ],
+  "gid://shopify/Product/10472260993290": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "6879.0"
+  ],
+  "gid://shopify/Product/10472259059978": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "5799.0"
+  ],
+  "gid://shopify/Product/10472225177866": [
+   "DRAFT",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "7424.1"
+  ],
+  "gid://shopify/Product/10472220754186": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "11879.0"
+  ],
+  "gid://shopify/Product/10471183712522": [
+   "ACTIVE",
+   [
+    "Professionell utrustning",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "42409.0"
+  ],
+  "gid://shopify/Product/10470971408650": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "6799.0"
+  ],
+  "gid://shopify/Product/10470934741258": [
+   "ACTIVE",
+   [
+    "Fluid",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2709.0"
+  ],
+  "gid://shopify/Product/10470934544650": [
+   "ARCHIVED",
+   [
+    "Fell",
+    "Professionell utrustning",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "30199.0"
+  ],
+  "gid://shopify/Product/10470912491786": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "gymtillbehör",
+    "mobilhållare"
+   ],
+   "579.0"
+  ],
+  "gid://shopify/Product/10470900498698": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "3819.0"
+  ],
+  "gid://shopify/Product/10468718575882": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "puls",
+    "pulsklocka",
+    "pulsmätare",
+    "sale"
+   ],
+   "1819.0"
+  ],
+  "gid://shopify/Product/10468716740874": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Professionell utrustning",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "50209.0"
+  ],
+  "gid://shopify/Product/10468713824522": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "30199.0"
+  ],
+  "gid://shopify/Product/10462786748682": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "21499.0"
+  ],
+  "gid://shopify/Product/10461966860554": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "8379.0"
+  ],
+  "gid://shopify/Product/10411898339594": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "5099.0"
+  ],
+  "gid://shopify/Product/10411868422410": [
+   "ARCHIVED",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "8339.0"
+  ]
+ }
+}

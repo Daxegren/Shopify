@@ -1,0 +1,1562 @@
+{
+ "fore": {
+  "id": "gid://shopify/Collection/526983954698",
+  "handle": "lopband",
+  "title": "Löpband",
+  "updatedAt": "2026-11-16T06:34:00Z",
+  "descriptionHtml": "<p data-start=\"353\" data-end=\"656\" style=\"text-align: left;\">Letar du efter ett effektivt sätt att förbättra kondition och uthållighet? Hos BestOfSports hittar du ett brett utbud av löpband som passar både hemmaträning och professionella gym. Löpbandet är ett mångsidigt redskap som gör det enkelt att springa, gå eller intervallträna oavsett väder eller årstid.</p>\n<h2 data-start=\"658\" data-end=\"687\" style=\"text-align: left;\"><strong data-start=\"658\" data-end=\"685\">Löpband för alla nivåer</strong></h2>\n<p data-start=\"689\" data-end=\"1006\" style=\"text-align: left;\">Våra löpband finns i modeller för både nybörjare och avancerade löpare. Med justerbar hastighet och lutning kan du anpassa träningen efter din nivå och dina mål. Ett löpband är perfekt för intervallträning, långdistanspass eller lätt jogging och hjälper dig att förbättra uthållighet, kondition och fettförbränning.</p>\n<h2 data-start=\"1008\" data-end=\"1036\" style=\"text-align: left;\"><strong data-start=\"1008\" data-end=\"1034\">Funktioner och komfort</strong></h2>\n<p data-start=\"1038\" data-end=\"1370\" style=\"text-align: left;\">Moderna löpband erbjuder funktioner som justerbar lutning, pulsmätare, inbyggda träningsprogram och stötdämpande löpytor. Detta gör träningen både effektiv och skonsam för lederna. Många löpband har även stabila ramar och motorer som klarar höga belastningar, vilket gör dem lämpliga för regelbunden användning hemma eller på gym.</p>\n<h2 data-start=\"1372\" data-end=\"1412\" style=\"text-align: left;\"><strong data-start=\"1372\" data-end=\"1410\">Motoriserade och manuella modeller</strong></h2>\n<p data-start=\"1414\" data-end=\"1761\" style=\"text-align: left;\">Hos BestOfSports hittar du både motoriserade och manuella löpband. Motoriserade löpband ger en jämn och kontrollerad löpning med möjlighet att ställa in hastighet och lutning, medan manuella löpband är enkla, prisvärda och kräver att användaren driver bandet med sin egen kraft. Båda typerna är effektiva för kondition och träning av benmuskler.</p>\n<h2 data-start=\"1763\" data-end=\"1801\" style=\"text-align: left;\"><strong data-start=\"1763\" data-end=\"1799\">Prisvärda och premium alternativ</strong></h2>\n<p data-start=\"1803\" data-end=\"2064\" style=\"text-align: left;\">Vi erbjuder löpband i olika prisklasser och modeller, från prisvärda alternativ för hemmabruk till premiumversioner för avancerade löpare. Våra löpband kombinerar kvalitet, hållbarhet och funktionalitet för att ge dig en säker och effektiv träning varje gång.</p>\n<h2 data-start=\"2066\" data-end=\"2088\" style=\"text-align: left;\"><strong data-start=\"2066\" data-end=\"2086\">Kända varumärken</strong></h2>\n<p data-start=\"2090\" data-end=\"2346\" style=\"text-align: left;\">Löpbanden i vårt sortiment kommer från pålitliga varumärken som TUNTURI, CHRISTOPEIT, KETTLER, HAMMER, BH Fitness, Gorilla Sports och MAXXUS. Dessa märken står för hög kvalitet, hållbarhet och prestanda, vilket gör din löpträning både säker och effektiv.</p>\n<h2 data-start=\"2348\" data-end=\"2390\" style=\"text-align: left;\"><strong data-start=\"2348\" data-end=\"2388\">Varför köpa löpband hos BestOfSports</strong></h2>\n<p data-start=\"2392\" data-end=\"2740\" style=\"text-align: left;\">Hos BestOfSports kan du köpa löpband online med snabb leverans och trygg service. Våra löpband är designade för att ge maximal komfort, funktion och hållbarhet, oavsett om du vill springa korta intervaller, långa distanser eller använda bandet för gångträning. Utforska vårt sortiment idag och hitta löpbandet som passar din träning och dina mål!</p>",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "lopband",
+  "seo": {
+   "title": "Löpband – Alla prisklasser - Enormt utbud - Köp löpband online",
+   "description": "Upptäck löpband för alla nivåer. Perfekt för löpning, intervaller och konditionsträning hemma eller på gym med justerbar hastighet och lutning. Snabb leverans."
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "löpband"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 116
+  }
+ },
+ "produkter_fore": {
+  "gid://shopify/Product/10494769529098": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "16819.0"
+  ],
+  "gid://shopify/Product/10665232335114": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "16819.0"
+  ],
+  "gid://shopify/Product/10656692502794": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Löpband",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "52779.0"
+  ],
+  "gid://shopify/Product/10656692470026": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Löpband",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "82369.0"
+  ],
+  "gid://shopify/Product/10656692404490": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Löpband",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "129069.0"
+  ],
+  "gid://shopify/Product/10656691945738": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Löpband",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "106949.0"
+  ],
+  "gid://shopify/Product/10656691847434": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "45899.0"
+  ],
+  "gid://shopify/Product/10656691421450": [
+   "ARCHIVED",
+   [
+    "BH Fitness",
+    "Löpband",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "106949.0"
+  ],
+  "gid://shopify/Product/10656691355914": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Löpband",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "97919.1"
+  ],
+  "gid://shopify/Product/10656691126538": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Löpband",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "39049.0"
+  ],
+  "gid://shopify/Product/10656691093770": [
+   "ARCHIVED",
+   [
+    "BH Fitness",
+    "Löpband",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "48639.0"
+  ],
+  "gid://shopify/Product/10656691061002": [
+   "ARCHIVED",
+   [
+    "BH Fitness",
+    "Löpband",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "44519.0"
+  ],
+  "gid://shopify/Product/10656690929930": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Löpband",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "44531.1"
+  ],
+  "gid://shopify/Product/10656690897162": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Löpband",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "40760.1"
+  ],
+  "gid://shopify/Product/10650209976586": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Löpband",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "125309.0"
+  ],
+  "gid://shopify/Product/10650209059082": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Löpband",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "183709.0"
+  ],
+  "gid://shopify/Product/10650208633098": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Löpband",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "41899.0"
+  ],
+  "gid://shopify/Product/10650208502026": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "34899.0"
+  ],
+  "gid://shopify/Product/10636718604554": [
+   "DRAFT",
+   [
+    "Löpband",
+    "kondition",
+    "price-change-job-active",
+    "sale",
+    "springa",
+    "springband"
+   ],
+   "11015.1"
+  ],
+  "gid://shopify/Product/10636718506250": [
+   "DRAFT",
+   [
+    "Löpband",
+    "kondition",
+    "price-change-job-active",
+    "sale",
+    "springa",
+    "springband"
+   ],
+   "7091.1"
+  ],
+  "gid://shopify/Product/10636701073674": [
+   "DRAFT",
+   [
+    "kondition",
+    "löpband",
+    "price-change-job-active",
+    "rullband",
+    "sale",
+    "springband"
+   ],
+   "8123.4"
+  ],
+  "gid://shopify/Product/10636699664650": [
+   "DRAFT",
+   [
+    "kondition",
+    "löpband",
+    "price-change-job-active",
+    "rullband",
+    "sale",
+    "springband"
+   ],
+   "12392.1"
+  ],
+  "gid://shopify/Product/10636699435274": [
+   "DRAFT",
+   [
+    "band",
+    "kondition",
+    "löpband",
+    "price-change-job-active",
+    "rullband",
+    "sale",
+    "springband"
+   ],
+   "13080.6"
+  ],
+  "gid://shopify/Product/10636699304202": [
+   "DRAFT",
+   [
+    "kondition",
+    "löpband",
+    "price-change-job-active",
+    "rullband",
+    "sale",
+    "springband"
+   ],
+   "18588.6"
+  ],
+  "gid://shopify/Product/10636698222858": [
+   "DRAFT",
+   [
+    "kondition",
+    "löpband",
+    "price-change-job-active",
+    "rullband",
+    "sale",
+    "springband"
+   ],
+   "41399.1"
+  ],
+  "gid://shopify/Product/10636685017354": [
+   "DRAFT",
+   [
+    "all products",
+    "kondition",
+    "löpband",
+    "rullband",
+    "springband"
+   ],
+   "600.63"
+  ],
+  "gid://shopify/Product/10636684820746": [
+   "DRAFT",
+   [
+    "all products",
+    "kondition",
+    "löpband",
+    "rullband",
+    "springband"
+   ],
+   "421.42"
+  ],
+  "gid://shopify/Product/10636666208522": [
+   "DRAFT",
+   [
+    "all products",
+    "hopfällbar",
+    "kondition",
+    "löpband",
+    "rullband",
+    "springband"
+   ],
+   "450.81"
+  ],
+  "gid://shopify/Product/10636666077450": [
+   "DRAFT",
+   [
+    "kondition",
+    "löpband",
+    "price-change-job-active",
+    "rullband",
+    "sale",
+    "springband"
+   ],
+   "25649.1"
+  ],
+  "gid://shopify/Product/10636664897802": [
+   "DRAFT",
+   [
+    "kondition",
+    "löpband",
+    "price-change-job-active",
+    "rullband",
+    "sale",
+    "springband"
+   ],
+   "41399.1"
+  ],
+  "gid://shopify/Product/10636655329546": [
+   "DRAFT",
+   [
+    "all products",
+    "kondition",
+    "löpband",
+    "løbebånd",
+    "price-change-job-active",
+    "rullband",
+    "sale",
+    "springband"
+   ],
+   "773.1"
+  ],
+  "gid://shopify/Product/10636655132938": [
+   "DRAFT",
+   [
+    "all products",
+    "kondition",
+    "löpband",
+    "løbebånd",
+    "price-change-job-active",
+    "rullband",
+    "sale",
+    "springband"
+   ],
+   "879.3"
+  ],
+  "gid://shopify/Product/10636651921674": [
+   "DRAFT",
+   [
+    "all products",
+    "hopfällbar",
+    "kondition",
+    "löpband",
+    "løbebånd",
+    "rullband",
+    "springband"
+   ],
+   "673.89"
+  ],
+  "gid://shopify/Product/10636648481034": [
+   "DRAFT",
+   [
+    "kondition",
+    "löpband",
+    "løbebånd",
+    "price-change-job-active",
+    "rullband",
+    "sale",
+    "springband"
+   ],
+   "9356.4"
+  ],
+  "gid://shopify/Product/10636634161418": [
+   "DRAFT",
+   [
+    "hopfällbar",
+    "kondition",
+    "löpband",
+    "rullband",
+    "springband"
+   ],
+   "771.44"
+  ],
+  "gid://shopify/Product/10636628689162": [
+   "DRAFT",
+   [
+    "Löpband",
+    "all products",
+    "kondition",
+    "konditionsutrustning",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1147.5"
+  ],
+  "gid://shopify/Product/10624083296522": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "10239.0"
+  ],
+  "gid://shopify/Product/10612582318346": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "5529.0"
+  ],
+  "gid://shopify/Product/10612579533066": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "14199.0"
+  ],
+  "gid://shopify/Product/10612574191882": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "47399.0"
+  ],
+  "gid://shopify/Product/10598555549962": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "På beställning",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "27849.0"
+  ],
+  "gid://shopify/Product/10589705371914": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "21719.0"
+  ],
+  "gid://shopify/Product/10581118288138": [
+   "DRAFT",
+   [
+    "Gymstick",
+    "Löpband"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10581118255370": [
+   "DRAFT",
+   [
+    "Gymstick",
+    "Löpband"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10581112094986": [
+   "ACTIVE",
+   [
+    "Gymstick",
+    "Löpband"
+   ],
+   "249.0"
+  ],
+  "gid://shopify/Product/10581112062218": [
+   "DRAFT",
+   [
+    "Gymstick",
+    "Löpband"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10581107343626": [
+   "ACTIVE",
+   [
+    "Gymstick",
+    "Löpband",
+    "price-change-job-active",
+    "sale"
+   ],
+   "6209.1"
+  ],
+  "gid://shopify/Product/10581097611530": [
+   "DRAFT",
+   [
+    "Gymstick",
+    "Löpband"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10581097545994": [
+   "DRAFT",
+   [
+    "Gymstick",
+    "Löpband"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10572673941770": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "9349.0"
+  ],
+  "gid://shopify/Product/10565561745674": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "19179.0"
+  ],
+  "gid://shopify/Product/10561324220682": [
+   "ACTIVE",
+   [
+    "Löpband",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "76989.0"
+  ],
+  "gid://shopify/Product/10523460337930": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "22119.0"
+  ],
+  "gid://shopify/Product/10515747668234": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "10239.0"
+  ],
+  "gid://shopify/Product/10494829199626": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Löpband",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "52879.0"
+  ],
+  "gid://shopify/Product/10494733123850": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "21609.0"
+  ],
+  "gid://shopify/Product/10486654075146": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Velomarket",
+    "gymtillbehör",
+    "texter-klara"
+   ],
+   "219.0"
+  ],
+  "gid://shopify/Product/10480048144650": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Christopher",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "9809.0"
+  ],
+  "gid://shopify/Product/10480047456522": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Christopher",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "7369.0"
+  ],
+  "gid://shopify/Product/10480046375178": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Christopher",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Velomarket",
+    "gåband",
+    "price-change-job-active",
+    "sale"
+   ],
+   "5179.0"
+  ],
+  "gid://shopify/Product/10476097601802": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "På beställning",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "13539.0"
+  ],
+  "gid://shopify/Product/10472349663498": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Tunturi",
+    "Velomarket",
+    "gymtillbehör",
+    "texter-klara"
+   ],
+   "229.0"
+  ],
+  "gid://shopify/Product/10472334262538": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "20839.0"
+  ],
+  "gid://shopify/Product/10472323776778": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Löpband",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "47219.0"
+  ],
+  "gid://shopify/Product/10472311193866": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "13369.0"
+  ],
+  "gid://shopify/Product/10472307982602": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "På beställning",
+    "Velomarket",
+    "gåband",
+    "price-change-job-active",
+    "sale",
+    "sync-skydd",
+    "texter-klara"
+   ],
+   "7640.1"
+  ],
+  "gid://shopify/Product/10472307884298": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "26819.0"
+  ],
+  "gid://shopify/Product/10472307818762": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Löpband",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "51399.0"
+  ],
+  "gid://shopify/Product/10472307556618": [
+   "ARCHIVED",
+   [
+    "BH Fitness",
+    "Löpband",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "47329.0"
+  ],
+  "gid://shopify/Product/10472307425546": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "24349.0"
+  ],
+  "gid://shopify/Product/10472306737418": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "11119.0"
+  ],
+  "gid://shopify/Product/10472306671882": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "9629.0"
+  ],
+  "gid://shopify/Product/10472306475274": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "18469.0"
+  ],
+  "gid://shopify/Product/10472305033482": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "23809.0"
+  ],
+  "gid://shopify/Product/10472303395082": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "12159.0"
+  ],
+  "gid://shopify/Product/10472299036938": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Toorx",
+    "Velomarket",
+    "gymtillbehör",
+    "texter-klara"
+   ],
+   "69.0"
+  ],
+  "gid://shopify/Product/10472298971402": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "8739.0"
+  ],
+  "gid://shopify/Product/10472298938634": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "20379.0"
+  ],
+  "gid://shopify/Product/10472298676490": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "38309.0"
+  ],
+  "gid://shopify/Product/10472298447114": [
+   "ACTIVE",
+   [
+    "Finnlo by Hammer",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "32969.0"
+  ],
+  "gid://shopify/Product/10472296055050": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "8629.0"
+  ],
+  "gid://shopify/Product/10472295596298": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "sync-skydd",
+    "texter-klara"
+   ],
+   "5111.1"
+  ],
+  "gid://shopify/Product/10472290386186": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Velomarket",
+    "gymtillbehör",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1639.0"
+  ],
+  "gid://shopify/Product/10472289042698": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "6909.0"
+  ],
+  "gid://shopify/Product/10472284913930": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "24229.0"
+  ],
+  "gid://shopify/Product/10472282554634": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Christopher",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "6470.1"
+  ],
+  "gid://shopify/Product/10472280850698": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "sync-skydd",
+    "texter-klara"
+   ],
+   "9008.1"
+  ],
+  "gid://shopify/Product/10472278458634": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "22129.0"
+  ],
+  "gid://shopify/Product/10472268366090": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "20269.0"
+  ],
+  "gid://shopify/Product/10472265384202": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "5729.0"
+  ],
+  "gid://shopify/Product/10472264630538": [
+   "ACTIVE",
+   [
+    "Finnlo by Hammer",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "41869.0"
+  ],
+  "gid://shopify/Product/10472264532234": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "13149.0"
+  ],
+  "gid://shopify/Product/10472263778570": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Christopher",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "7849.0"
+  ],
+  "gid://shopify/Product/10472261779722": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Löpband",
+    "Professionell utrustning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "35349.0"
+  ],
+  "gid://shopify/Product/10472261714186": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "32879.0"
+  ],
+  "gid://shopify/Product/10472250900746": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "20619.0"
+  ],
+  "gid://shopify/Product/10472246935818": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Löpband",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "44039.0"
+  ],
+  "gid://shopify/Product/10472245723402": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "9709.0"
+  ],
+  "gid://shopify/Product/10472245625098": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "16519.0"
+  ],
+  "gid://shopify/Product/10472245559562": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "10699.0"
+  ],
+  "gid://shopify/Product/10472245395722": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "15979.0"
+  ],
+  "gid://shopify/Product/10472242938122": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "21039.0"
+  ],
+  "gid://shopify/Product/10472221802762": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Kardioträning & Fitness",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10471417118986": [
+   "ARCHIVED",
+   [
+    "BH Fitness",
+    "Löpband",
+    "Professionell utrustning",
+    "Pulka",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "165619.0"
+  ],
+  "gid://shopify/Product/10471307411722": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Löpband",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "95519.0"
+  ],
+  "gid://shopify/Product/10471192166666": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "12349.0"
+  ],
+  "gid://shopify/Product/10471107723530": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "8979.0"
+  ],
+  "gid://shopify/Product/10471009943818": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "22119.0"
+  ],
+  "gid://shopify/Product/10470957646090": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "På beställning",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "16399.0"
+  ],
+  "gid://shopify/Product/10470935593226": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "13349.0"
+  ],
+  "gid://shopify/Product/10470923010314": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "6279.0"
+  ],
+  "gid://shopify/Product/10470904889610": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "34109.0"
+  ],
+  "gid://shopify/Product/10468770087178": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Löpband",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "81779.0"
+  ],
+  "gid://shopify/Product/10462779867402": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "18089.0"
+  ],
+  "gid://shopify/Product/10411839914250": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "8289.0"
+  ],
+  "gid://shopify/Product/10411738300682": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "7329.0"
+  ]
+ }
+}

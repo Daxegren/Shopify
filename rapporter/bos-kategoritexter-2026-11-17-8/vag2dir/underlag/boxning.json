@@ -1,0 +1,188 @@
+{
+ "handle": "boxning",
+ "id": "gid://shopify/Collection/526982414602",
+ "titel": "Boxning",
+ "regel": [
+  [
+   "TAG",
+   "EQUALS",
+   "boxning"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "boxningssäck"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "Boxningsutrustning"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "stående boxningssäck"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "boxningshandskar"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "Boxningspads"
+  ]
+ ],
+ "huvud_regex": "",
+ "antal_i_kollektionen": 105,
+ "antal_koopbara_alla": 30,
+ "antal_koopbara": 30,
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
+ "marken": [
+  [
+   "Tunturi",
+   14
+  ],
+  [
+   "Toorx",
+   7
+  ],
+  [
+   "Hammer",
+   3
+  ],
+  [
+   "MAXXUS",
+   2
+  ],
+  [
+   "Gymstick",
+   2
+  ],
+  [
+   "Gorilla Sports Norden",
+   1
+  ],
+  [
+   "Zipro",
+   1
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "boxningshandskar",
+   11
+  ],
+  [
+   "boxningssäck",
+   5
+  ],
+  [
+   "skyddshjälm",
+   2
+  ],
+  [
+   "boxningsdocka",
+   2
+  ],
+  [
+   "boxing",
+   2
+  ],
+  [
+   "speedbag",
+   1
+  ],
+  [
+   "handlindor",
+   1
+  ],
+  [
+   "speedball",
+   1
+  ],
+  [
+   "speedballpivot",
+   1
+  ],
+  [
+   "stående",
+   1
+  ]
+ ],
+ "pris_min": 89.0,
+ "pris_max": 8149.0,
+ "pris_median": 524.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": 26.0,
+ "kg_i_titlar_max": 26.0,
+ "antal_titlar_med_kg": 1,
+ "billigaste": [
+  [
+   "Innerhandskar Tunturi för Boxning, Bomull, Svart",
+   89.0
+  ],
+  [
+   "Handlindor Gymstick Boxing Hand Wraps",
+   119.0
+  ],
+  [
+   "Speedballpivot Tunturi Swivel Chrome med Kullager",
+   239.0
+  ],
+  [
+   "Gymnastikgummiband/boxningssäcksfäste ZIPRO Hållare",
+   259.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Boxningsdocka Tunturi Slam Man",
+   8149.0
+  ],
+  [
+   "Boxningsdocka Tunturi Free Stand, 155/170/185 cm",
+   6429.0
+  ],
+  [
+   "Boxningssäck Tunturi Fristående, 69 x 69 x 170 cm, Svart",
+   5519.0
+  ]
+ ],
+ "alla_titlar": [
+  "Benskydd Tunturi Allround, Svart, Set med Två",
+  "Boxing gloves HAMMER X-Shock 10oz",
+  "Boxing gloves HAMMER X-Shock 14oz",
+  "Boxningsdocka Tunturi Free Stand, 155/170/185 cm",
+  "Boxningsdocka Tunturi Slam Man",
+  "Boxningshandskar Gymstick Boxing Gloves",
+  "Boxningshandskar Hammer X-Shock 12 oz",
+  "Boxningshandskar Toorx Jaguar Boxing Gloves, S/M",
+  "Boxningshandskar Toorx Jaguar, L/XL",
+  "Boxningshandskar Toorx Leopard, 12 oz, Polyuretan",
+  "Boxningshandskar Toorx Leopard, Polyuretan, 10 oz",
+  "Boxningshandskar Toorx Panther, 12 oz, Polyuretan",
+  "Boxningshandskar Toorx Panther, Polyuretan, 10 oz",
+  "Boxningshandskar Tunturi Allround Boxing Gloves, 12 oz",
+  "Boxningshandskar Tunturi Allround, 14 oz, Konstläder",
+  "Boxningshandskar Tunturi Allround, 16 oz, Konstläder",
+  "Boxningssäck MAXXUS Vatten & Luft 100cm/26kg",
+  "Boxningssäck Maxxus, Vatten och Luft, 150 cm",
+  "Boxningssäck Tunturi Boxing Bag 80 cm, inkl. kedja",
+  "Boxningssäck Tunturi Classic Boxing Bag 80 cm, inkl. kedja",
+  "Boxningssäck Tunturi Fristående, 69 x 69 x 170 cm, Svart",
+  "Gymnastikgummiband/boxningssäcksfäste ZIPRO Hållare",
+  "Handlindor Gymstick Boxing Hand Wraps",
+  "Innerhandskar Tunturi för Boxning, Bomull, Svart",
+  "Skyddshjälm Tunturi Head Guard L/XL",
+  "Skyddshjälm Tunturi Head Guard S/M",
+  "Speedbag Päronboll med Upphängning, Paket",
+  "Speedball Tunturi Free Standing",
+  "Speedballpivot Tunturi Swivel Chrome med Kullager",
+  "Stående Boxboll Toorx Professional"
+ ]
+}

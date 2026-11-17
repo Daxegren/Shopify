@@ -1,0 +1,290 @@
+{
+ "handle": "racercykel",
+ "id": "gid://shopify/Collection/561573298442",
+ "titel": "Racercykel",
+ "regel": [
+  [
+   "TAG",
+   "EQUALS",
+   "racercykel"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "tävlingscykel"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "race bike"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "road bike"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "racer"
+  ]
+ ],
+ "huvud_regex": "landsvägscykel(?!sadl)|racercykel|^cykel giant tcr",
+ "antal_i_kollektionen": 168,
+ "antal_koopbara_alla": 56,
+ "antal_koopbara": 24,
+ "antal_ovriga_koopbara": 32,
+ "exempel_ovriga": [
+  "Motionscykel Hammer Speed Race med 16 kg Svänghjul",
+  "Motionscykel HAMMER Speed Race S",
+  "Spinningcykel Hammer Speed Race X med 20 kg Svänghjul",
+  "Bakskärm Ass Savers Win Wing Road Logo",
+  "Pedalplattor Look Keo Cleat, Röd, 9 grader",
+  "Däckreparationskit Giant Quick Fix Kit Road"
+ ],
+ "ovriga_titlar": [
+  "Bakskärm Ass Savers Win Wing 2 Road Spektrum",
+  "Bakskärm Ass Savers Win Wing Road Logo",
+  "Bakväxel Shimano Tourney RD-TY300-SGS, 6/7-växlad",
+  "Cykel Giant TCR Advanced 2 Disc-PC Hematite",
+  "Damcykel EXCELSIOR Road Cruiser Alu, 28\", 3vxl, svart",
+  "Damcykel Liv Avail AR 2, 700x32c, storlek S",
+  "Däckreparationskit Giant Quick Fix Kit Road",
+  "Handpump Giant Control Mini Road+, Svart, 160 psi",
+  "Hjälm Nutcase Little Nutty Defy Gravity MIPS, XS",
+  "Landsvägscykelsadlar Giant Road Pro",
+  "Motionscykel HAMMER Speed Race S",
+  "Motionscykel Hammer Speed Race med 16 kg Svänghjul",
+  "Pakethållare Ibera PakRak Road IB-RA17, Svart",
+  "Pedalblock Look Keo Grip, 0 grader",
+  "Pedalblock Look Keo Grip, 9 grader",
+  "Pedaler Giant Flipside Road Pedal",
+  "Pedaler Giant Road Comp, utan klossar",
+  "Pedaler Giant Road Elite, för Look KEO",
+  "Pedalplattor Look Keo Cleat, Röd, 9 grader",
+  "Skidåkningsteknik pjäxor Alpina RACE SK (22)",
+  "Solglasögon GIANT STRATOS LITE SVART/GRÅ KOLOR UP ROAD CAT.3 + KLARA",
+  "Spinningcykel Hammer Speed Race SR med 10,1-tums Pekskärm",
+  "Spinningcykel Hammer Speed Race X med 20 kg Svänghjul",
+  "Stepbräda Tunturi Aero Step",
+  "Stuntsparkcykel Union Aero XS Scooter, Svart",
+  "Stuntsparkcykel Union Aero XS, Svart/Grå",
+  "Stänkskärmar Giant Speedshield Defy & Contend Caliper",
+  "Stänkskärmar Giant Speedshield Defy & Contend Disc",
+  "Tricksparkcykel Union Aero M Scooter Black",
+  "Tricksparkcykel Union Aero M Scooter Black/Raw",
+  "Tricksparkcykel Union Aero S Scooter Black/Raw",
+  "Tricksparkcykel Union Aero S Svart"
+ ],
+ "ovriga_med_pris": [
+  [
+   "Bakskärm Ass Savers Win Wing 2 Road Spektrum",
+   359.0
+  ],
+  [
+   "Bakskärm Ass Savers Win Wing Road Logo",
+   319.0
+  ],
+  [
+   "Bakväxel Shimano Tourney RD-TY300-SGS, 6/7-växlad",
+   139.0
+  ],
+  [
+   "Cykel Giant TCR Advanced 2 Disc-PC Hematite",
+   32749.0
+  ],
+  [
+   "Damcykel EXCELSIOR Road Cruiser Alu, 28\", 3vxl, svart",
+   8849.0
+  ],
+  [
+   "Damcykel Liv Avail AR 2, 700x32c, storlek S",
+   20510.1
+  ],
+  [
+   "Däckreparationskit Giant Quick Fix Kit Road",
+   1479.0
+  ],
+  [
+   "Handpump Giant Control Mini Road+, Svart, 160 psi",
+   439.0
+  ],
+  [
+   "Hjälm Nutcase Little Nutty Defy Gravity MIPS, XS",
+   2049.0
+  ],
+  [
+   "Landsvägscykelsadlar Giant Road Pro",
+   2009.0
+  ],
+  [
+   "Motionscykel HAMMER Speed Race S",
+   16509.0
+  ],
+  [
+   "Motionscykel Hammer Speed Race med 16 kg Svänghjul",
+   9609.0
+  ],
+  [
+   "Pakethållare Ibera PakRak Road IB-RA17, Svart",
+   719.0
+  ],
+  [
+   "Pedalblock Look Keo Grip, 0 grader",
+   319.0
+  ],
+  [
+   "Pedalblock Look Keo Grip, 9 grader",
+   319.0
+  ],
+  [
+   "Pedaler Giant Flipside Road Pedal",
+   1609.0
+  ],
+  [
+   "Pedaler Giant Road Comp, utan klossar",
+   719.0
+  ],
+  [
+   "Pedaler Giant Road Elite, för Look KEO",
+   749.0
+  ],
+  [
+   "Pedalplattor Look Keo Cleat, Röd, 9 grader",
+   279.0
+  ],
+  [
+   "Skidåkningsteknik pjäxor Alpina RACE SK (22)",
+   4219.0
+  ],
+  [
+   "Solglasögon GIANT STRATOS LITE SVART/GRÅ KOLOR UP ROAD CAT.3 + KLARA",
+   1579.0
+  ],
+  [
+   "Spinningcykel Hammer Speed Race SR med 10,1-tums Pekskärm",
+   19070.1
+  ],
+  [
+   "Spinningcykel Hammer Speed Race X med 20 kg Svänghjul",
+   13839.0
+  ],
+  [
+   "Stepbräda Tunturi Aero Step",
+   2019.0
+  ],
+  [
+   "Stuntsparkcykel Union Aero XS Scooter, Svart",
+   4009.0
+  ],
+  [
+   "Stuntsparkcykel Union Aero XS, Svart/Grå",
+   3969.0
+  ],
+  [
+   "Stänkskärmar Giant Speedshield Defy & Contend Caliper",
+   539.0
+  ],
+  [
+   "Stänkskärmar Giant Speedshield Defy & Contend Disc",
+   579.0
+  ],
+  [
+   "Tricksparkcykel Union Aero M Scooter Black",
+   4029.0
+  ],
+  [
+   "Tricksparkcykel Union Aero M Scooter Black/Raw",
+   3969.0
+  ],
+  [
+   "Tricksparkcykel Union Aero S Scooter Black/Raw",
+   3969.0
+  ],
+  [
+   "Tricksparkcykel Union Aero S Svart",
+   4029.0
+  ]
+ ],
+ "marken": [
+  [
+   "Giant",
+   24
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "landsvägscykel",
+   23
+  ],
+  [
+   "racercykel",
+   1
+  ]
+ ],
+ "pris_min": 18099.0,
+ "pris_max": 93437.1,
+ "pris_median": 42074.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [
+  [
+   "Landsvägscykel Giant Contend 1, 700x28c, Rosewood",
+   18099.0
+  ],
+  [
+   "Landsvägscykel Giant Contend AR 2, 700x32c, Solar Flare",
+   19556.1
+  ],
+  [
+   "Landsvägscykel Giant Contend AR 2, 700x32c, Dark Iridescent",
+   19556.1
+  ],
+  [
+   "Landsvägscykel Giant Contend AR 3, 700x32c, Amber Glow",
+   19889.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Landsvägscykel Giant Propel Advanced Pro 0 AXS (2027)",
+   93437.1
+  ],
+  [
+   "Landsvägscykel Giant Propel Advanced 1 (2027), Carbon",
+   67239.0
+  ],
+  [
+   "Landsvägscykel Giant Defy Advanced 1, Charcoal/Milky Way",
+   55539.0
+  ]
+ ],
+ "alla_titlar": [
+  "Landsvägscykel GIANT Contend AR 2, Sandshell",
+  "Landsvägscykel GIANT TCR Advanced 2 KOM, kolfiber",
+  "Landsvägscykel Giant Contend 1, 700x28c, Rosewood",
+  "Landsvägscykel Giant Contend AR 2, 700x32c, Dark Iridescent",
+  "Landsvägscykel Giant Contend AR 2, 700x32c, Solar Flare",
+  "Landsvägscykel Giant Contend AR 3, 700x32c, Amber Glow",
+  "Landsvägscykel Giant Defy Advanced 1, Charcoal/Milky Way",
+  "Landsvägscykel Giant Defy Advanced 1, Thundercloud, M/L",
+  "Landsvägscykel Giant Defy Advanced 2, 700x32c, Abyss Black",
+  "Landsvägscykel Giant Defy Advanced 2, 700x32c, Mars Dust",
+  "Landsvägscykel Giant Defy Advanced 2, 700x32c, Tiger Red",
+  "Landsvägscykel Giant Propel Advanced 1 (2027), Carbon",
+  "Landsvägscykel Giant Propel Advanced 2, 700c, Carbon",
+  "Landsvägscykel Giant Propel Advanced 2, 700c, Supernova",
+  "Landsvägscykel Giant Propel Advanced Pro 0 AXS (2027)",
+  "Landsvägscykel Giant TCR Advanced 0 PC",
+  "Landsvägscykel Giant TCR Advanced 1 PC, Dreamy Blue",
+  "Landsvägscykel Giant TCR Advanced 1 PC, Mars Dust",
+  "Landsvägscykel Giant TCR Advanced 2 KOM, 700c, Carbon",
+  "Landsvägscykel Giant TCR Advanced 2 KOM, 700x28c, Stealth Chrome",
+  "Landsvägscykel Giant TCR Advanced 2 PC storlek M/L, Carbon",
+  "Landsvägscykel Giant TCR Advanced 2 PC, 700c, Carbon",
+  "Landsvägscykel Giant TCR Advanced 2 PC, 700x28c, Stealth Chrome",
+  "Racercykel Giant TCR Advanced 1 Disc-KOM, 700c, Svart Krom"
+ ]
+}

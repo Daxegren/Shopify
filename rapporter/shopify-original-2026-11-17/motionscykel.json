@@ -1,0 +1,1731 @@
+{
+ "fore": {
+  "id": "gid://shopify/Collection/526984020234",
+  "handle": "motionscykel",
+  "title": "Motionscykel",
+  "updatedAt": "2026-11-16T06:59:58Z",
+  "descriptionHtml": "<p data-start=\"364\" data-end=\"706\" style=\"text-align: left;\">Letar du efter ett enkelt sätt att förbättra kondition, styrka och uthållighet? Hos Best Of Sports hittar du ett brett utbud av motionscyklar som passar alla nivåer och träningsmål. Motionscykeln är ett mångsidigt träningsredskap som gör det möjligt att träna både lågintensiv uthållighet och högintensiv konditionsträning hemma eller på gym.</p>\n<h2 data-start=\"708\" data-end=\"742\" style=\"text-align: left;\"><strong data-start=\"708\" data-end=\"740\">Motionscykel för alla nivåer</strong></h2>\n<p data-start=\"744\" data-end=\"1056\" style=\"text-align: left;\">Våra motionscyklar finns i modeller för både nybörjare och avancerade cyklister. Med justerbart motstånd och ergonomisk design kan du anpassa träningen efter din nivå och dina mål. Motionscykeln är perfekt för intervallträning, längre cykelpass eller återhämtningsövningar och stärker både ben, rumpa och core.</p>\n<h2 data-start=\"1058\" data-end=\"1086\" style=\"text-align: left;\"><strong data-start=\"1058\" data-end=\"1084\">Funktioner och komfort</strong></h2>\n<p data-start=\"1088\" data-end=\"1430\" style=\"text-align: left;\">Moderna motionscyklar erbjuder funktioner som digitala display, pulsmätare, justerbar sits och styre samt förinställda träningsprogram. Detta gör träningen både effektiv och bekväm. Många modeller är även utrustade med transporthjul, stabil ram och tystgående mekanism, vilket gör dem lämpliga för regelbunden användning hemma eller på gym.</p>\n<h2 data-start=\"1432\" data-end=\"1465\" style=\"text-align: left;\"><strong data-start=\"1432\" data-end=\"1463\">Stationär och spinningcykel</strong></h2>\n<p data-start=\"1467\" data-end=\"1812\" style=\"text-align: left;\">Hos Best Of Sports hittar du både klassiska stationära motionscyklar och spinningcyklar. Stationära cyklar är enkla, prisvärda och idealiska för lågintensiv konditionsträning, medan spinningcyklar erbjuder högre intensitet och är perfekta för gruppträning eller hårda intervallpass. Båda typerna ger effektiv träning av benmuskler och kondition.</p>\n<h2 data-start=\"1814\" data-end=\"1852\" style=\"text-align: left;\"><strong data-start=\"1814\" data-end=\"1850\">Prisvärda och premium alternativ</strong></h2>\n<p data-start=\"1854\" data-end=\"2121\" style=\"text-align: left;\">Vi erbjuder motionscyklar i olika prisklasser och modeller, från prisvärda alternativ för hemmabruk till premiumversioner för professionella gym. Våra cyklar kombinerar kvalitet, hållbarhet och funktionalitet för att ge dig en säker och effektiv träning varje gång.</p>\n<h2 data-start=\"2123\" data-end=\"2145\" style=\"text-align: left;\"><strong data-start=\"2123\" data-end=\"2143\">Kända varumärken</strong></h2>\n<p data-start=\"2147\" data-end=\"2411\" style=\"text-align: left;\">Motionscyklarna i vårt sortiment kommer från pålitliga varumärken som Tunturi, BH Fitness, Toorx, Hammer och Christopeit. Dessa märken står för hög kvalitet, hållbarhet och prestanda, vilket gör din cykelträning både säker och effektiv.</p>\n<h2 data-start=\"2413\" data-end=\"2460\" style=\"text-align: left;\"><strong data-start=\"2413\" data-end=\"2458\">Varför köpa motionscykel hos BestOfSports</strong></h2>\n<p data-start=\"2462\" data-end=\"2777\" style=\"text-align: left;\">Hos Best Of Sports kan du köpa motionscyklar online med snabb leverans och trygg service. Våra cyklar är designade för maximal komfort, funktion och hållbarhet, vilket gör det enkelt att träna kondition hemma eller på gymmet. Utforska vårt sortiment idag och hitta motionscykeln som passar din träning och dina mål!</p>",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "motionscykel",
+  "seo": {
+   "title": "Motionscykel & Träningscykel – Köp motionscyklar online",
+   "description": "Motionscyklar ger dig friheten att träna när det passar, med justerbart motstånd och olika träningsprogram för effektiv kondition hemma eller på gym."
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "motionscykel"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 128
+  }
+ },
+ "produkter_fore": {
+  "gid://shopify/Product/10472281342218": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Sadel",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "399.0"
+  ],
+  "gid://shopify/Product/10721331511562": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Toorx",
+    "Velomarket"
+   ],
+   "13129.0"
+  ],
+  "gid://shopify/Product/10721331478794": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Toorx",
+    "Velomarket"
+   ],
+   "11419.0"
+  ],
+  "gid://shopify/Product/10721331249418": [
+   "ACTIVE",
+   [
+    "Motionscykel",
+    "Professionell utrustning",
+    "På beställning",
+    "Toorx",
+    "Velomarket"
+   ],
+   "16069.0"
+  ],
+  "gid://shopify/Product/10665231417610": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "19475.1"
+  ],
+  "gid://shopify/Product/10665226010890": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "9959.0"
+  ],
+  "gid://shopify/Product/10665225978122": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "9035.1"
+  ],
+  "gid://shopify/Product/10665225945354": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "9035.1"
+  ],
+  "gid://shopify/Product/10665225912586": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "9035.1"
+  ],
+  "gid://shopify/Product/10656692011274": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "10059.0"
+  ],
+  "gid://shopify/Product/10656691978506": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Motionscykel",
+    "Professionell utrustning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "21539.0"
+  ],
+  "gid://shopify/Product/10656691716362": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Motionscykel",
+    "Professionell utrustning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "14289.0"
+  ],
+  "gid://shopify/Product/10656691683594": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Motionscykel",
+    "Professionell utrustning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "13076.1"
+  ],
+  "gid://shopify/Product/10656691650826": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Motionscykel",
+    "Professionell utrustning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "13076.1"
+  ],
+  "gid://shopify/Product/10656691618058": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Motionscykel",
+    "Professionell utrustning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "24729.0"
+  ],
+  "gid://shopify/Product/10656691585290": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Motionscykel",
+    "Professionell utrustning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "22643.1"
+  ],
+  "gid://shopify/Product/10656691552522": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Motionscykel",
+    "Professionell utrustning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "22643.1"
+  ],
+  "gid://shopify/Product/10656691519754": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Motionscykel",
+    "Professionell utrustning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "12909.0"
+  ],
+  "gid://shopify/Product/10656691454218": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Motionscykel",
+    "Professionell utrustning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "11816.1"
+  ],
+  "gid://shopify/Product/10656691028234": [
+   "ARCHIVED",
+   [
+    "BH Fitness",
+    "Motionscykel",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "60229.0"
+  ],
+  "gid://shopify/Product/10656690995466": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Motionscykel",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "55142.1"
+  ],
+  "gid://shopify/Product/10650208370954": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "15979.0"
+  ],
+  "gid://shopify/Product/10650166690058": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "12819.0"
+  ],
+  "gid://shopify/Product/10636730007818": [
+   "DRAFT",
+   [
+    "all products",
+    "cykel",
+    "konditionscykel",
+    "motionscykel",
+    "spinning",
+    "spinningcykel"
+   ],
+   "297.92"
+  ],
+  "gid://shopify/Product/10636727320842": [
+   "DRAFT",
+   [
+    "cykel",
+    "konditionscykel",
+    "motionscykel",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2615.4"
+  ],
+  "gid://shopify/Product/10636716704010": [
+   "DRAFT",
+   [
+    "Kondition",
+    "cykel",
+    "motionscykel",
+    "price-change-job-active",
+    "sale",
+    "träningscykel"
+   ],
+   "2429.1"
+  ],
+  "gid://shopify/Product/10636710773002": [
+   "DRAFT",
+   [
+    "all products",
+    "konditionsutrustning",
+    "motionscykel"
+   ],
+   "446.93"
+  ],
+  "gid://shopify/Product/10636705169674": [
+   "DRAFT",
+   [
+    "cykel",
+    "konditionscykel",
+    "motionscykel",
+    "price-change-job-active",
+    "sale"
+   ],
+   "5282.1"
+  ],
+  "gid://shopify/Product/10636700877066": [
+   "DRAFT",
+   [
+    "Recumbent",
+    "Recumbentcykel",
+    "kondition",
+    "motionscykel",
+    "price-change-job-active",
+    "sale"
+   ],
+   "11703.6"
+  ],
+  "gid://shopify/Product/10636698681610": [
+   "DRAFT",
+   [
+    "Motionscykel",
+    "cykel",
+    "konditionsutrustning",
+    "price-change-job-active",
+    "sale",
+    "träningscykel"
+   ],
+   "6884.1"
+  ],
+  "gid://shopify/Product/10636698485002": [
+   "ARCHIVED",
+   [
+    "Motionscykel",
+    "cykel",
+    "konditionsutrustning",
+    "träningscykel"
+   ],
+   "736.53"
+  ],
+  "gid://shopify/Product/10636664668426": [
+   "DRAFT",
+   [
+    "cardio",
+    "förbränning",
+    "kondition",
+    "motionscykel",
+    "price-change-job-active",
+    "sale"
+   ],
+   "8261.1"
+  ],
+  "gid://shopify/Product/10636664537354": [
+   "DRAFT",
+   [
+    "all products",
+    "cardio",
+    "förbränning",
+    "kondition",
+    "motionscykel"
+   ],
+   "771.3"
+  ],
+  "gid://shopify/Product/10636645925130": [
+   "DRAFT",
+   [
+    "motionscykel",
+    "price-change-job-active",
+    "sale",
+    "spinning",
+    "spinningcykel",
+    "træningscykel"
+   ],
+   "1034.1"
+  ],
+  "gid://shopify/Product/10636644581642": [
+   "DRAFT",
+   [
+    "all products",
+    "cardio",
+    "förbränning",
+    "kondition",
+    "motionscykel",
+    "spinningcykel"
+   ],
+   "355.02"
+  ],
+  "gid://shopify/Product/10636638486794": [
+   "DRAFT",
+   [
+    "konditionsutrustning",
+    "motionscykel",
+    "price-change-job-active",
+    "sale",
+    "spinning",
+    "spinningcykel"
+   ],
+   "17549.1"
+  ],
+  "gid://shopify/Product/10635766006026": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "12589.0"
+  ],
+  "gid://shopify/Product/10635764498698": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "6449.0"
+  ],
+  "gid://shopify/Product/10635764138250": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "11099.0"
+  ],
+  "gid://shopify/Product/10624086507786": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "9609.0"
+  ],
+  "gid://shopify/Product/10624084377866": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "16509.0"
+  ],
+  "gid://shopify/Product/10612594344202": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Motionscykel",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "25639.0"
+  ],
+  "gid://shopify/Product/10612594311434": [
+   "ACTIVE",
+   [
+    "Motionscykel",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "20249.0"
+  ],
+  "gid://shopify/Product/10605381615882": [
+   "ACTIVE",
+   [
+    "Motionscykel",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "27669.0"
+  ],
+  "gid://shopify/Product/10605381583114": [
+   "ACTIVE",
+   [
+    "Motionscykel",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "21949.0"
+  ],
+  "gid://shopify/Product/10605381550346": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Motionscykel",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "19339.0"
+  ],
+  "gid://shopify/Product/10589715104010": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Motionscykel",
+    "Professionell utrustning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "18229.0"
+  ],
+  "gid://shopify/Product/10589706092810": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "13839.0"
+  ],
+  "gid://shopify/Product/10588446163210": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "12469.0"
+  ],
+  "gid://shopify/Product/10588446130442": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "7487.1"
+  ],
+  "gid://shopify/Product/10572603752714": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "6909.0"
+  ],
+  "gid://shopify/Product/10541370114314": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "sync-skydd",
+    "texter-klara"
+   ],
+   "5516.1"
+  ],
+  "gid://shopify/Product/10515744194826": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "13839.0"
+  ],
+  "gid://shopify/Product/10508994150666": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "7809.0"
+  ],
+  "gid://shopify/Product/10494898897162": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Motionscykel",
+    "Professionell utrustning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "18699.0"
+  ],
+  "gid://shopify/Product/10494691770634": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Christopher",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "7889.0"
+  ],
+  "gid://shopify/Product/10486640345354": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "15239.0"
+  ],
+  "gid://shopify/Product/10486630252810": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Motionscykel",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "27769.0"
+  ],
+  "gid://shopify/Product/10486622355722": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3689.0"
+  ],
+  "gid://shopify/Product/10480052207882": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Christopher",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4069.0"
+  ],
+  "gid://shopify/Product/10480045850890": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Christopher",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "6689.0"
+  ],
+  "gid://shopify/Product/10480045523210": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "12099.0"
+  ],
+  "gid://shopify/Product/10475515642122": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Motionscyklar",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "11389.0"
+  ],
+  "gid://shopify/Product/10475515478282": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Motionscyklar",
+    "På beställning",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "12819.0"
+  ],
+  "gid://shopify/Product/10472518549770": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1829.0"
+  ],
+  "gid://shopify/Product/10472325513482": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Motionscykel",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "20949.0"
+  ],
+  "gid://shopify/Product/10472325316874": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Motionscykel",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "70149.0"
+  ],
+  "gid://shopify/Product/10472323383562": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Motionscykel",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "33789.0"
+  ],
+  "gid://shopify/Product/10472317714698": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "18099.0"
+  ],
+  "gid://shopify/Product/10472311226634": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "5749.0"
+  ],
+  "gid://shopify/Product/10472308900106": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Crosstrainer",
+    "Crosstrainers",
+    "Motionscykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4679.0"
+  ],
+  "gid://shopify/Product/10472308867338": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4069.0"
+  ],
+  "gid://shopify/Product/10472308703498": [
+   "ACTIVE",
+   [
+    "Motionscykel",
+    "Professionell utrustning",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "17179.0"
+  ],
+  "gid://shopify/Product/10472308605194": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "7089.0"
+  ],
+  "gid://shopify/Product/10472308375818": [
+   "ACTIVE",
+   [
+    "Motionscykel",
+    "Professionell utrustning",
+    "På beställning",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "18339.0"
+  ],
+  "gid://shopify/Product/10472308113674": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "26709.0"
+  ],
+  "gid://shopify/Product/10472306606346": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "17399.0"
+  ],
+  "gid://shopify/Product/10472305164554": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "spinningcykel",
+    "texter-klara"
+   ],
+   "9829.0"
+  ],
+  "gid://shopify/Product/10472305099018": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "12459.0"
+  ],
+  "gid://shopify/Product/10472300380426": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Toorx",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "5019.0"
+  ],
+  "gid://shopify/Product/10472300183818": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Toorx",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4329.0"
+  ],
+  "gid://shopify/Product/10472299135242": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "spinningcykel",
+    "texter-klara"
+   ],
+   "9959.0"
+  ],
+  "gid://shopify/Product/10472284356874": [
+   "DRAFT",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "319.0"
+  ],
+  "gid://shopify/Product/10472283308298": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Christopher",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "5759.0"
+  ],
+  "gid://shopify/Product/10472278688010": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "9239.0"
+  ],
+  "gid://shopify/Product/10472278655242": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "9959.0"
+  ],
+  "gid://shopify/Product/10472278491402": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "7839.0"
+  ],
+  "gid://shopify/Product/10472268661002": [
+   "DRAFT",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "9389.0"
+  ],
+  "gid://shopify/Product/10472268267786": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "12509.0"
+  ],
+  "gid://shopify/Product/10472265646346": [
+   "ARCHIVED",
+   [
+    "Christopeit",
+    "Christopher",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "6689.0"
+  ],
+  "gid://shopify/Product/10472265580810": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Christopher",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "5939.0"
+  ],
+  "gid://shopify/Product/10472264925450": [
+   "ARCHIVED",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "12409.0"
+  ],
+  "gid://shopify/Product/10472264827146": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "10209.0"
+  ],
+  "gid://shopify/Product/10472262041866": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "24039.0"
+  ],
+  "gid://shopify/Product/10472261812490": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "6449.0"
+  ],
+  "gid://shopify/Product/10472261615882": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "9389.0"
+  ],
+  "gid://shopify/Product/10472261452042": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4989.0"
+  ],
+  "gid://shopify/Product/10472261419274": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4769.0"
+  ],
+  "gid://shopify/Product/10472261189898": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "9129.0"
+  ],
+  "gid://shopify/Product/10472261058826": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "7069.0"
+  ],
+  "gid://shopify/Product/10472259420426": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "4739.0"
+  ],
+  "gid://shopify/Product/10472258896138": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4169.0"
+  ],
+  "gid://shopify/Product/10472258863370": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "7679.0"
+  ],
+  "gid://shopify/Product/10472258830602": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "5509.0"
+  ],
+  "gid://shopify/Product/10472258076938": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "7699.0"
+  ],
+  "gid://shopify/Product/10472255389962": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "13809.0"
+  ],
+  "gid://shopify/Product/10472255127818": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "5349.0"
+  ],
+  "gid://shopify/Product/10472253849866": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "6429.0"
+  ],
+  "gid://shopify/Product/10472249196810": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4359.0"
+  ],
+  "gid://shopify/Product/10472220197130": [
+   "ARCHIVED",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4549.0"
+  ],
+  "gid://shopify/Product/10472219672842": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4109.0"
+  ],
+  "gid://shopify/Product/10471417348362": [
+   "ARCHIVED",
+   [
+    "BH Fitness",
+    "Motionscykel",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "37239.0"
+  ],
+  "gid://shopify/Product/10471334084874": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Motionscykel",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "27199.0"
+  ],
+  "gid://shopify/Product/10471040975114": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "6589.0"
+  ],
+  "gid://shopify/Product/10471040188682": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "6799.0"
+  ],
+  "gid://shopify/Product/10471002931466": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "16259.0"
+  ],
+  "gid://shopify/Product/10470933037322": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "8749.0"
+  ],
+  "gid://shopify/Product/10470913179914": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Motionscykel",
+    "Professionell utrustning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "22109.0"
+  ],
+  "gid://shopify/Product/10468768284938": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Motionscykel",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "25469.0"
+  ],
+  "gid://shopify/Product/10462773084426": [
+   "ARCHIVED",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "12068.1"
+  ],
+  "gid://shopify/Product/10462768038154": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "sync-skydd",
+    "texter-klara"
+   ],
+   "5336.1"
+  ],
+  "gid://shopify/Product/10462229463306": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "6587.1"
+  ],
+  "gid://shopify/Product/10411916722442": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "19409.0"
+  ],
+  "gid://shopify/Product/10411860099338": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Motionscykel",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "19817.1"
+  ],
+  "gid://shopify/Product/10411848532234": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "sync-skydd",
+    "texter-klara"
+   ],
+   "19070.1"
+  ],
+  "gid://shopify/Product/10411734565130": [
+   "ARCHIVED",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "6079.0"
+  ],
+  "gid://shopify/Product/10411731616010": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "5219.0"
+  ],
+  "gid://shopify/Product/10411685806346": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Motionscykel",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "25959.0"
+  ]
+ }
+}
