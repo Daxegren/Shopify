@@ -1,0 +1,657 @@
+[
+ {
+  "id": "gid://shopify/Product/10475978588426",
+  "title": "Bakskärm SKS X-Blade Dark 26\"/27,5\"",
+  "handle": "baksk-rm-sks-x-blade-dark-26-27-5-03-por-sks11449",
+  "status": "ACTIVE",
+  "vendor": "SKS",
+  "productType": "Skärmar",
+  "tags": [
+   "SKS",
+   "Skärmar",
+   "Stänkskärm",
+   "Velomarket"
+  ],
+  "totalInventory": 3,
+  "updatedAt": "2026-11-16T05:45:12Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Bakskärm <strong>SKS X-BLADE 26″/27,5″</strong> för terräng- och stadscyklar.</p>\n<p>Egenskaper:</p>\n<ul>\n<li>Snabbfäste för sadelstolpe</li>\n<li>För montering på sadeln</li>\n<li>Justerbar vinkel</li>\n<li>2-komponentsplast</li>\n<li>Färg: svart</li>\n<li>Vikt: 239 g</li>\n</ul>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52868852089098",
+     "title": "Default Title",
+     "sku": "03-POR-SKS11449",
+     "barcode": "4002556812416",
+     "price": "369.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 3,
+     "selectedOptions": [
+      {
+       "name": "Title",
+       "value": "Default Title"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10487970365706",
+  "title": "Sittdyna för framsäte med ryggstöd CARGOBIKE of Sweden Flex/Delight",
+  "handle": "sittdyna-f-r-frams-te-med-ryggst-d-cargobike-of-sweden-flex-delight-1521-32",
+  "status": "ACTIVE",
+  "vendor": "Cargobike of Sweden",
+  "productType": "Cargobike tillbehör",
+  "tags": [
+   "Cargobike of Sweden",
+   "Cargobike tillbehör",
+   "Lastcykel",
+   "Velomarket"
+  ],
+  "totalInventory": 2,
+  "updatedAt": "2026-11-09T07:07:29Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Passar fram på lådan på alla Cargobike of Sweden Flex och Delight modeller.<br><br>\n</div><ul><li>Ryggstödshöjd: 18 cm</li></ul><div>\n<br>Tillverkad av <strong>Cargobike of Sweden</strong>.</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52934718423306",
+     "title": "Default Title",
+     "sku": "1521-31",
+     "barcode": "7350097565214",
+     "price": "559.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 2,
+     "selectedOptions": [
+      {
+       "name": "Title",
+       "value": "Default Title"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10507247911178",
+  "title": "Pedaler LOOK TRAIL FUSION LIME, grön",
+  "handle": "pedaler-look-trail-fusion-lime-gr-n-26171",
+  "status": "ACTIVE",
+  "vendor": "Look",
+  "productType": "Cykeldelar",
+  "tags": [
+   "Cykeldelar",
+   "Look",
+   "Mountainbike",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-16T05:54:04Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Med sin 25 % bredare plattform erbjuder <strong>Look Trail Fusion</strong>-pedalerna bättre kontroll och därmed högre prestanda jämfört med klassiska OEM-pedaler. Pedalhusen är gjorda av<strong> lättviktigt</strong> kompositmaterial och erbjuder ökad<strong> stabilitet</strong> och <strong>komfort</strong>. Deras konkava design minskar profilhøjden till endast 18 mm.<br>\n<strong>8 utbytbara</strong> piggar på varje sida av pedalen säkerställer nödvändigt grepp på banan. <strong>Trail Fusion</strong>-pedalerna är tillverkade i Frankrike och byggda för att hålla. Alla komponenter kan enkelt bytas ut vid behov.</p>\n<p>Funktioner:</p>\n<ul>\n<li>Material pedalaxel: chromoly.</li>\n<li>Material pedalhus: komposit.</li>\n<li>Material remskiva: stål</li>\n<li>Total höjd: 18 mm</li>\n<li>Pedalens fotavtryck: 107 mm x 105 mm</li>\n<li>Antal fjädrar: 8 per sida</li>\n<li>Lager: premiumlager (2 kullager och 1 glidlager) + tätningar.</li>\n<li>Tätning: Premium Seal System</li>\n<li>Kompatibla skor: -</li>\n<li>max. Max. förarens vikt: 100 kg</li>\n<li>Färg: lime</li>\n<li>Vikt enligt tillverkare: 324 g</li>\n</ul>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/53049238225162",
+     "title": "Default Title",
+     "sku": "00026171",
+     "barcode": "3611720201812",
+     "price": "789.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1,
+     "selectedOptions": [
+      {
+       "name": "Title",
+       "value": "Default Title"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10515737968906",
+  "title": "Dricksflaska GIANT ARX 400ML BLÅ",
+  "handle": "dricksflaska-giant-arx-400ml-bl-480000400",
+  "status": "ACTIVE",
+  "vendor": "Giant",
+  "productType": "Tillbehör",
+  "tags": [
+   "Barncykel",
+   "Flaska & Hållare",
+   "Giant",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 2,
+  "updatedAt": "2026-11-16T05:47:43Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Giant Arx 400CC är en kompakt vattenflaska designad för barncyklar.</p>\n<p><strong>Mer information:</strong></p>\n<ul>\n<li>Antimikrobiell teknologi håller vattnet fräscht.</li>\n<li>100% diskmaskinssäker, maxtemperatur 90°C</li>\n<li>400CC storlek</li>\n</ul>\n<p>Grundat <strong>1972</strong>, <strong>Giant</strong> är världens ledande tillverkare av kvalitativa cyklar och cykeltillbehör. <strong>Giant</strong> introducerade lättare och starkare aluminiumramar, introducerade kolfiberramar för bredare användning. Utvecklingen av utrustning sker i konstant samarbete med toppcyklister.</p>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/53096555741450",
+     "title": "Default Title",
+     "sku": "480000400",
+     "barcode": "4713250851389",
+     "price": "69.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 2,
+     "selectedOptions": [
+      {
+       "name": "Title",
+       "value": "Default Title"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10515741606154",
+  "title": "Saddle GIANT APPROACH",
+  "handle": "saddle-giant-approach-120000182",
+  "status": "ACTIVE",
+  "vendor": "Giant",
+  "productType": "Cykeldelar",
+  "tags": [
+   "Cykeldelar",
+   "Giant",
+   "Sadel",
+   "Velomarket"
+  ],
+  "totalInventory": 3,
+  "updatedAt": "2026-11-09T06:16:09Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Giant Approach är en mångsidig sadel som erbjuder den perfekta kombinationen av komfort och stöd. Dess optimerade form och ergonomiska design ger utmärkt komfort för en mängd olika cyklister i olika sittställningar.</p>\n<p><strong>Ytterligare information:</strong></p>\n<ul>\n<li>Optimerad ramanslutningsstruktur</li>\n<li>Den ergonomiska utskärningsdesignen och ultralätta, fritt flödande partiklar minskar tryckpunkter med mer än 20 procent och hjälper till att fördela trycket över ett större kontaktyta</li>\n<li>Lätt, högresistent PU-skum bidrar till total viktreduktion och ger större stöd</li>\n<li>Kompatibel med Giants UniClip monteringssystem</li>\n<li>270 mm x 145 mm</li>\n</ul>\n<p>Giant grundades 1972 och är en världsledande tillverkare av högkvalitativa cyklar och cykelutrustning. Giant introducerade en lättare och starkare aluminiumcykelram och bidrog till att kolfiberramar fick en bredare användning. Utvecklingen av utrustning involverar ett kontinuerligt samarbete med cyklister på toppnivå.</p>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/53096573960458",
+     "title": "Default Title",
+     "sku": "120000182",
+     "barcode": "4713250007601",
+     "price": "469.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 3,
+     "selectedOptions": [
+      {
+       "name": "Title",
+       "value": "Default Title"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10530179285258",
+  "title": "Stänkskärmsset för GIANT Revolt 2019+ modeller",
+  "handle": "st-nksk-rmsset-f-r-giant-revolt-2019-modeller-530000043",
+  "status": "ACTIVE",
+  "vendor": "Giant",
+  "productType": "Tillbehör",
+  "tags": [
+   "Giant",
+   "Gravelcykel",
+   "Stänkskärm",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 2,
+  "updatedAt": "2026-11-16T06:50:33Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>HÅLL DIG TORR ÄVEN PÅ LÅNGA TURER. Håll vatten, lera och grus borta med dessa enkla, hållbara och lättmonterade Revolt-specifika stänkskärmar. Designade för däckbredder upp till 40c, säkerställer utrymmet att det finns tillräckligt med plats för att cykla bekvämt på en mängd olika underlag.</div><div>Revolt stänkskärmsset erbjuder det skydd du behöver för att med självförtroende kunna avverka långa distanser över varierande terräng och i alla väderförhållanden.</div><div>\n<br>Tillverkare: <strong>Giant</strong>.</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/53171968639242",
+     "title": "Default Title",
+     "sku": "530000043",
+     "barcode": "4713250839622",
+     "price": "529.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 2,
+     "selectedOptions": [
+      {
+       "name": "Title",
+       "value": "Default Title"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10541368738058",
+  "title": "Grips LIV Sole-O Double Lock-On, Svart/Vit",
+  "handle": "grips-liv-sole-o-double-lock-on-svart-vit-190000062",
+  "status": "ACTIVE",
+  "vendor": "Liv",
+  "productType": "Tillbehör",
+  "tags": [
+   "Cykellås",
+   "Liv",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 3,
+  "updatedAt": "2026-11-16T06:57:35Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Liv Sole-O styren är utrustade med en anodiserad dubbelsidig Lock-On-klämma, vilket säkerställer en säker och pålitlig fastsättning på styret. Den mjuka Kraton-gummiytan med högt grepp erbjuder körkomfort och ett säkert grepp under en mängd olika körförhållanden.<br><br>Tillverkaren är <strong>Giant</strong>, världens största cykeltillverkare.</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/53214521164042",
+     "title": "Default Title",
+     "sku": "190000062",
+     "barcode": "4718905868095",
+     "price": "279.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 3,
+     "selectedOptions": [
+      {
+       "name": "Title",
+       "value": "Default Title"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10554353746186",
+  "title": "Stänkskärmsset för ACADEMY 24\" hjul",
+  "handle": "st-nksk-rmsset-f-r-academy-24-hjul-1667",
+  "status": "ACTIVE",
+  "vendor": "Academy",
+  "productType": "Tillbehör",
+  "tags": [
+   "Academy",
+   "Stänkskärm",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-16T05:53:05Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>ACADEMY fram- och bakskärm för 24-tums barncyklar.</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/53272250810634",
+     "title": "Default Title",
+     "sku": "1667",
+     "barcode": "4250969216677",
+     "price": "339.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1,
+     "selectedOptions": [
+      {
+       "name": "Title",
+       "value": "Default Title"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10554354172170",
+  "title": "Grips GIANT Tactal Double Lock-on Grip, svart-röd",
+  "handle": "grips-giant-tactal-double-lock-on-grip-svart-r-d-190000102",
+  "status": "ACTIVE",
+  "vendor": "Giant",
+  "productType": "Tillbehör",
+  "tags": [
+   "Cykellås",
+   "Giant",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-16T05:56:39Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Lätta och bekväma handtag, tillverkade av mjuk Kraton-gummi.<br><br>\n</div><ul>\n<li>Längd: 135 mm, yttre diameter: 30 mm</li>\n<li>Pålitlig dubbelsidig infästning</li>\n<li>\n<strong>Förpackningen innehåller handtag i en enda färg – fotot är endast för illustrationsändamål!<br></strong><br>\n</li>\n</ul><div>Grundat 1972 är <strong>Giant</strong> världens ledande tillverkare av högkvalitativa cyklar och cykelutrustning. Giant introducerade en lättare och starkare aluminiumram och bidrog till att kolfiberramar fick en bredare användning. Utvecklingen av utrustning innebär ett ständigt samarbete med cyklister på toppnivå.</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/53272254644490",
+     "title": "Default Title",
+     "sku": "190000102",
+     "barcode": "4718905782001",
+     "price": "319.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1,
+     "selectedOptions": [
+      {
+       "name": "Title",
+       "value": "Default Title"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10554359513354",
+  "title": "Framskärm SKS Mudrocker Front, svart",
+  "handle": "framsk-rm-sks-mudrocker-front-svart-11669",
+  "status": "ACTIVE",
+  "vendor": "SKS",
+  "productType": "Tillbehör",
+  "tags": [
+   "På beställning",
+   "SKS",
+   "Stänkskärm",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-16T06:14:55Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>\n<strong>SKS Mudrocker </strong>framskärm passar för 27,5 - 29 tums hjul. Tillverkad av slitstark och lätt plast.<br><br><strong>Mer information:</strong>\n</div><ul>\n<li>Material: plast</li>\n<li>Plast: plast</li>\n<li>Vikt: 155 g</li>\n<li>Längd: 490 mm</li>\n<li>Hjulstorlek: 27,5\", 28\", 29\".</li>\n<li>Däckbredd: 59-76 mm</li>\n<li>Framhjulslängd: 490 mm</li>\n</ul>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/53272271716618",
+     "title": "Default Title",
+     "sku": "11669",
+     "barcode": "4002556978785",
+     "price": "469.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1,
+     "selectedOptions": [
+      {
+       "name": "Title",
+       "value": "Default Title"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10554360693002",
+  "title": "Saddle GIANT Romero, black",
+  "handle": "saddle-giant-romero-black-120000189",
+  "status": "ACTIVE",
+  "vendor": "Giant",
+  "productType": "Tillbehör",
+  "tags": [
+   "Giant",
+   "Sadel",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-09T06:32:12Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>\n<strong>Giant Romero-sadeln</strong> har utformats för att ge optimal form, flexibilitet och komfort för terrängkörning. Side-Flex-teknik för komfort vid inre benet och utmärkt dämpning för att absorbera stötar.<br><br>\n</div><ul>\n<li>Den nya Side-Flex-tekniken gör att sadelns sidor kan flexa och anpassa sig, vilket minskar friktion och stress på insidan av foten.</li>\n<li>Side-Wrap-teknik täcker sadelns sidor med elastisk dämpning, vilket säkerställer bättre sido- och bakre stötdämpning.</li>\n<li>Side-wrap ger enkel rörelse och skydd mot stötar.</li>\n<li>Lätt och flexibelt PU-skum för extra komfort och stötdämpning.</li>\n</ul><div>\n<br>Tillverkad av <strong>Giant</strong>, världens största cykeltillverkare.<br><br>\n</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/53272274436362",
+     "title": "Default Title",
+     "sku": "120000189",
+     "barcode": "4713250007670",
+     "price": "389.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1,
+     "selectedOptions": [
+      {
+       "name": "Title",
+       "value": "Default Title"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10565562466570",
+  "title": "Knä- och armbågsskydd BOOM Basic Double Pad Set, blå",
+  "handle": "kn-och-armb-gsskydd-boom-basic-double-pad-set-bl-104297",
+  "status": "ACTIVE",
+  "vendor": "Boom",
+  "productType": "Tillbehör",
+  "tags": [
+   "Boom",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 2,
+  "updatedAt": "2026-11-16T06:07:30Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<ul>\n<li>Vikt (kg): 0.2000</li>\n<li>Skyddsnivå: extrem.</li>\n<li>Färg: Blå</li>\n<li>Lämplig användning: Cyklar, BMX, Boards, Sparkcyklar</li>\n<li>Designad för: vuxna</li>\n<li>Märke: Boom</li>\n</ul><div><br></div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/53355571052810",
+     "title": "Default Title",
+     "sku": "104298",
+     "barcode": "4751036031303",
+     "price": "349.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1,
+     "selectedOptions": [
+      {
+       "name": "Variant",
+       "value": "Default Title"
+      }
+     ]
+    },
+    {
+     "id": "gid://shopify/ProductVariant/53355571085578",
+     "title": "M / blue",
+     "sku": "104298",
+     "barcode": "4751036031303",
+     "price": "329.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1,
+     "selectedOptions": [
+      {
+       "name": "Variant",
+       "value": "M / blue"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10588446327050",
+  "title": "Träningsboll TUNTURI Gymball 65cm Ljusblå, Anti Burst",
+  "handle": "tr-ningsboll-tunturi-gymball-65cm-ljusbl-anti-burst-14tusfu329",
+  "status": "ACTIVE",
+  "vendor": "Tunturi",
+  "productType": "Konditionsträning & Fitness",
+  "tags": [
+   "Cykelbelysning",
+   "Konditionsträning & Fitness",
+   "Tunturi",
+   "Velomarket"
+  ],
+  "totalInventory": 9,
+  "updatedAt": "2026-11-16T06:06:14Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Tunturi gymbollens fördelar:<br><br>\n</div><ul>\n<li>Utmana dig själv och arbeta med flera muskelgrupper</li>\n<li>Brottsäker då den klarar upp till 220 kg.</li>\n<li>Pumpa upp den och håll den enkelt tack vare den medföljande handpumpen</li>\n<li>Beställ din Tunturi Gymball och börja göra roliga och utmanande övningar på bollen!<br><br>\n</li>\n</ul><div>\"Må bättre varje dag\" - det är Tunturis motto. Våra rötter finns i Finland, där två bröder startade en cykelbutik 1922. Nu, över 100 år senare, är vi ett holländskt företag och ett globalt varumärke. Vi stöder dig på vägen till en frisk och vältränad kropp, ett balanserat sinne och ett lyckligt liv. Vi gör detta med ett brett utbud av konditions- och styrketräningsutrustning, tillbehör och stödjande appar. Det är ett sortiment som ständigt utökas och förbättras, med kvalitetsprodukter och bra garantier.<br><br>\n</div><div>Lägg till detaljer:</div><ul>\n<li>Material: vinyl</li>\n<li>Vinyl: material: plast<br><br>\n</li>\n</ul><div>*Notera: när du använder bollen för första gången, fyll den med maximal mängd luft. Det kan ta 1 eller 2 dagar innan bollen når rätt storlek.<br><br>\n</div><div>Vilken storlek behöver du?<br><br>\n</div><ul>\n<li>Kroppslängd upp till 155 cm = Ø 45 cm.</li>\n<li>155 cm - 165 cm = Ø 55 cm</li>\n<li>166 cm - 178 cm = Ø 65 cm</li>\n<li>179 cm - 190 cm = Ø 75 cm</li>\n<li>190 cm eller längre = Ø 90 cm</li>\n</ul>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/53499257913610",
+     "title": "Default Title",
+     "sku": "14TUSFU329",
+     "barcode": "8717842035627",
+     "price": "179.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 9,
+     "selectedOptions": [
+      {
+       "name": "Title",
+       "value": "Default Title"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10656694010122",
+  "title": "Grips LIV Sole-O Double Lock-On, Svart",
+  "handle": "grips-liv-sole-o-double-lock-on-svart-190000061",
+  "status": "ACTIVE",
+  "vendor": "Liv",
+  "productType": "Tillbehör",
+  "tags": [
+   "Cykellås",
+   "Liv",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-16T07:00:11Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>\n<strong>Liv Sole-O Grips</strong> har en anodiserad dubbelsidig låsmekanism som säkerställer en säker och stabil passform. Den bekväma, mjuka Kraton-gummiytan ger ett säkert grepp och förbättrar körkomforten.<br><br> Tillverkad av Giant, världens största cykeltillverkare. En del av <strong>Liv</strong>-sortimentet, designat för kvinnor.</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/53857308573962",
+     "title": "Default Title",
+     "sku": "190000061",
+     "barcode": "4718905868088",
+     "price": "279.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1,
+     "selectedOptions": [
+      {
+       "name": "Title",
+       "value": "Default Title"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10708320157962",
+  "title": "Tire milk GIANT 125ml/4oz",
+  "handle": "tire-milk-giant-125ml-4oz-300000204",
+  "status": "ACTIVE",
+  "vendor": "Velomarket",
+  "productType": "Cykeldelar",
+  "tags": [
+   "Cykeldelar",
+   "Velomarket"
+  ],
+  "totalInventory": 2,
+  "updatedAt": "2026-11-09T05:46:26Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Tillverkaren är <strong>Giant</strong>, världens största cykeltillverkare.</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/54085582160138",
+     "title": "Default Title",
+     "sku": "300000204",
+     "barcode": "4713250064697",
+     "price": "139.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 2,
+     "selectedOptions": [
+      {
+       "name": "Title",
+       "value": "Default Title"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10721320861962",
+  "title": "Grips ETHIC Grips Transparent",
+  "handle": "grips-ethic-grips-transparent-3760004841616",
+  "status": "ACTIVE",
+  "vendor": "Ethic",
+  "productType": "Tillbehör",
+  "tags": [
+   "Ethic",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-16T05:06:22Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Ethic Grips Transparent från Ethic DTC erbjuder sparkcykelåkare en pålitlig och bekväm grepplösning, designad för att förbättra kontrollen och minska trötthet i händerna. Dessa handtag är tillverkade av mjukt, stötdämpande gummi och ger optimal dämpning som hjälper till att absorbera stötar och vibrationer under körning. Med en längd på 170 mm och en diameter på 32 mm ger de en rejäl känsla för åkare som föredrar ett stadigare grepp. Den transparenta designen ger en stilren och elegant touch utan att kompromissa med prestandan. Den greppvänliga, ultra-vidhäftande ytan ser till att händerna sitter stadigt på plats, vilket förbättrar manövrerbarheten och säkerheten. Oavsett om du njuter av en lugn åktur eller utför trick, kombinerar dessa handtag komfort, hållbarhet och stil för att förbättra din körupplevelse.<br><br>\n</div><ul>\n<li>Det mjuka gummimaterialet ger komfort och minskar trötthet i händerna</li>\n<li>Överlägsen stötdämpning skyddar dina handleder från stötar och vibrationer</li>\n<li>Generös längd och diameter säkerställer ett säkert och stadigt grepp</li>\n<li>Den transparenta designen ger din sparkcykel en ren och stilren look</li>\n<li>Den klibbiga ytan med högt grepp förbättrar kontroll och säkerhet</li>\n</ul><div>Uppgradera din sparkcykel med Ethic Grips Transparent för en bekväm och säker åktur.</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/54140563685642",
+     "title": "Default Title",
+     "sku": "3760004841616",
+     "barcode": "3760004841616",
+     "price": "139.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1,
+     "selectedOptions": [
+      {
+       "name": "Title",
+       "value": "Default Title"
+      }
+     ]
+    }
+   ]
+  }
+ }
+]
