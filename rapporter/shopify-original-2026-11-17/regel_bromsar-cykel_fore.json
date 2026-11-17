@@ -1,0 +1,51 @@
+{
+ "kollektion": {
+  "id": "gid://shopify/Collection/561577492746",
+  "handle": "bromsar-cykel",
+  "title": "Cykelbroms",
+  "sortOrder": "BEST_SELLING",
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "breakes"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "broms"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "bromsar"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "cykelbroms"
+    }
+   ]
+  }
+ },
+ "antal_medlemmar": 1,
+ "antal_koepbara": 0,
+ "medlemmar": [
+  [
+   "broms-shimano-bak-silver-br-t4000-alivio-m-s65t-vmebrt4000rx43xsp",
+   "DRAFT",
+   3,
+   "Cykeldelar",
+   false,
+   [
+    [
+     "gid://shopify/ProductVariant/52849438130442",
+     "279.00",
+     null
+    ]
+   ]
+  ]
+ ]
+}

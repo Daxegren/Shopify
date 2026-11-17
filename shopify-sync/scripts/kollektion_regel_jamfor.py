@@ -10,4 +10,4 @@ print(h, 'medlemmar', len(fa), '->', len(fb), '| köpbara', a['antal_koepbara'],
 from collections import Counter
 print('borta per typ:', dict(Counter(fa[x][3] for x in bort)))
 print('kvarvarande med annan typ än tillåtna:', sorted({fb[x][3] for x in fb}))
-print('priser oförändrade för alla kvarvarande:', all(fa[x][5] == fb[x][5] for x in fb), '| prisjobb-taggade borta:', sum(1 for x in bort if fa[x][4]))
+print('priser oförändrade för alla kvarvarande:', all(fa[x][5] == fb[x][5] for x in fb if x in fa), '| prisjobb-taggade borta:', sum(1 for x in bort if fa[x][4]))

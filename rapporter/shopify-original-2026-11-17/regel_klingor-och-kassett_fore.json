@@ -1,0 +1,56 @@
+{
+ "kollektion": {
+  "id": "gid://shopify/Collection/561577787658",
+  "handle": "klingor-och-kassett",
+  "title": "Klinga och kassett",
+  "sortOrder": "BEST_SELLING",
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "klingor"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "klinga"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "kassett"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "kassetts"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "sprockets"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "sprocket"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "cassettes"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "cassette"
+    }
+   ]
+  }
+ },
+ "antal_medlemmar": 0,
+ "antal_koepbara": 0,
+ "medlemmar": []
+}
