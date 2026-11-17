@@ -1,0 +1,302 @@
+{
+ "depth_all": {
+  "home": {
+   "sidor": 1,
+   "nadda": 1,
+   "onaadda": 0,
+   "median": 0,
+   "medel": 0,
+   "max": 0,
+   "fordelning": {
+    "0": 1
+   }
+  },
+  "collection": {
+   "sidor": 344,
+   "nadda": 234,
+   "onaadda": 110,
+   "median": 1.0,
+   "medel": 1.37,
+   "max": 7,
+   "fordelning": {
+    "1": 167,
+    "2": 55,
+    "3": 9,
+    "4": 1,
+    "5+": 2
+   }
+  },
+  "product": {
+   "sidor": 3860,
+   "nadda": 3860,
+   "onaadda": 0,
+   "median": 3.0,
+   "medel": 5.58,
+   "max": 50,
+   "fordelning": {
+    "1": 32,
+    "2": 1239,
+    "3": 1109,
+    "4": 610,
+    "5+": 870
+   }
+  },
+  "article": {
+   "sidor": 126,
+   "nadda": 126,
+   "onaadda": 0,
+   "median": 4.0,
+   "medel": 3.96,
+   "max": 5,
+   "fordelning": {
+    "2": 12,
+    "3": 25,
+    "4": 45,
+    "5+": 44
+   }
+  },
+  "blog": {
+   "sidor": 1,
+   "nadda": 1,
+   "onaadda": 0,
+   "median": 1,
+   "medel": 1,
+   "max": 1,
+   "fordelning": {
+    "1": 1
+   }
+  },
+  "page": {
+   "sidor": 13,
+   "nadda": 12,
+   "onaadda": 1,
+   "median": 1.0,
+   "medel": 1.08,
+   "max": 2,
+   "fordelning": {
+    "1": 11,
+    "2": 1
+   }
+  }
+ },
+ "depth_content": {
+  "home": {
+   "sidor": 1,
+   "nadda": 1,
+   "onaadda": 0,
+   "median": 0,
+   "medel": 0,
+   "max": 0,
+   "fordelning": {
+    "0": 1
+   }
+  },
+  "collection": {
+   "sidor": 344,
+   "nadda": 218,
+   "onaadda": 126,
+   "median": 3.0,
+   "medel": 3.21,
+   "max": 9,
+   "fordelning": {
+    "1": 19,
+    "2": 49,
+    "3": 67,
+    "4": 51,
+    "5+": 32
+   }
+  },
+  "product": {
+   "sidor": 3860,
+   "nadda": 3860,
+   "onaadda": 0,
+   "median": 4.0,
+   "medel": 6.73,
+   "max": 51,
+   "fordelning": {
+    "1": 32,
+    "2": 295,
+    "3": 749,
+    "4": 948,
+    "5+": 1836
+   }
+  },
+  "article": {
+   "sidor": 126,
+   "nadda": 0,
+   "onaadda": 126,
+   "median": null,
+   "medel": null,
+   "max": null,
+   "fordelning": {}
+  },
+  "blog": {
+   "sidor": 1,
+   "nadda": 0,
+   "onaadda": 1,
+   "median": null,
+   "medel": null,
+   "max": null,
+   "fordelning": {}
+  },
+  "page": {
+   "sidor": 13,
+   "nadda": 1,
+   "onaadda": 12,
+   "median": 2,
+   "medel": 2,
+   "max": 2,
+   "fordelning": {
+    "2": 1
+   }
+  }
+ },
+ "unchecked_targets": 252,
+ "tracking": {
+  "lankar": 169,
+  "per_parameter": {
+   "_pos": 168,
+   "_psq": 168,
+   "_ss": 168,
+   "_v": 120,
+   "shpxid": 2,
+   "_psid": 52
+  },
+  "per_region": {
+   "innehall": 169
+  },
+  "kallsidor": 57,
+  "kallsidor_per_typ": {
+   "article": 52,
+   "collection": 5
+  },
+  "exempel": [
+   [
+    "/blogs/news/15-minuters-magpass-for-starka-magmuskler",
+    "/collections/hantlar",
+    "innehall",
+    "_pos,_psq,_ss,_v"
+   ],
+   [
+    "/blogs/news/15-minuters-magpass-for-starka-magmuskler",
+    "/collections/gummiband",
+    "innehall",
+    "_pos,_psq,_ss,_v"
+   ],
+   [
+    "/blogs/news/15-minuters-magpass-for-starka-magmuskler",
+    "/collections/yogamatta",
+    "innehall",
+    "_pos,_psq,_ss,_v"
+   ],
+   [
+    "/blogs/news/5-fordelar-med-yogatraning",
+    "/collections/yoga-pilates",
+    "innehall",
+    "_pos,_psq,_ss,_v"
+   ],
+   [
+    "/blogs/news/5-fordelar-med-yogatraning",
+    "/collections/yogamatta",
+    "innehall",
+    "_pos,_psq,_ss,_v"
+   ],
+   [
+    "/blogs/news/5-tips-for-att-fa-synliga-magrutor",
+    "/collections/hantlar",
+    "innehall",
+    "_pos,_psq,_ss,_v"
+   ],
+   [
+    "/blogs/news/5-tips-for-att-fa-synliga-magrutor",
+    "/collections/gummiband",
+    "innehall",
+    "_pos,_psq,_ss,_v"
+   ],
+   [
+    "/blogs/news/5-tips-for-att-fa-synliga-magrutor",
+    "/collections/kettlebell",
+    "innehall",
+    "_pos,_psq,_ss,_v"
+   ],
+   [
+    "/blogs/news/5-tips-for-att-fa-synliga-magrutor",
+    "/collections/traningsmatta",
+    "innehall",
+    "_pos,_psq,_ss,_v"
+   ],
+   [
+    "/blogs/news/5-tips-for-att-ga-ner-i-vikt",
+    "/collections/roddmaskin",
+    "innehall",
+    "_pos,_psq,_ss,_v"
+   ],
+   [
+    "/blogs/news/5-tips-for-att-ga-ner-i-vikt",
+    "/collections/lopband",
+    "innehall",
+    "_pos,_psq,_ss,_v"
+   ],
+   [
+    "/blogs/news/5-tips-for-att-ga-ner-i-vikt",
+    "/collections/cyklar",
+    "innehall",
+    "_pos,_psq,_ss,_v"
+   ],
+   [
+    "/blogs/news/5-vanliga-misstag-vid-bankpress-och-hur-du-undviker-dem",
+    "/collections/bankpress",
+    "innehall",
+    "_pos,_psq,_ss,_v"
+   ],
+   [
+    "/blogs/news/7-fordelar-med-konditionstraning",
+    "/collections/konditionsutrustning",
+    "innehall",
+    "_pos,_psq,_ss,_v"
+   ],
+   [
+    "/blogs/news/ar-det-nagon-skillnad-mellan-maskiner-och-fria-vikter-vi-forklarar",
+    "/collections/traningsmaskin",
+    "innehall",
+    "_pos,_psq,_ss,_v"
+   ]
+  ]
+ },
+ "scoped_product_links": 0,
+ "ignored_link_families": {
+  "other": 22936
+ },
+ "antal_problem": 0,
+ "antal_felformade_lankar": 0,
+ "meta": {
+  "bas": "https://bestofsports.se",
+  "start": "2026-11-13 12:09:51",
+  "slut": "2026-11-13 13:42:47",
+  "sekunder": 5575,
+  "sitemap_adresser": 4375,
+  "sitemap_fel": [],
+  "sitemap_per_typ": {
+   "other": 1,
+   "home": 1,
+   "product": 3860,
+   "page": 13,
+   "collection": 344,
+   "blog": 1,
+   "article": 155
+  },
+  "produkter_i_sitemap": 3860,
+  "produkter_hamtade_urval": 3860,
+  "produkturval": "alla",
+  "hamtade_sidor": 5634,
+  "hastighet_anrop_per_sekund_max": 1.0,
+  "user_agent": "LinkStructureMeasure/1.0 (read-only internal link measurement; no login)",
+  "robots_blockerade_sitemapadresser": [],
+  "stopp": null,
+  "hoppade_over_sidtyper": [
+   "article"
+  ],
+  "fel_serier": {},
+  "pauser": 0
+ }
+}

@@ -1,0 +1,195 @@
+{
+ "cyklar": {
+  "elcyklar": {},
+  "gravelcykel": {},
+  "racercykel": {},
+  "hybridcykel": {},
+  "mountainbike": {},
+  "hopfallbara-cyklar": {},
+  "ladcyklar": {},
+  "damcyklar": {},
+  "herrcyklar": {},
+  "juniorcyklar": {},
+  "barncyklar": {
+   "barncyklar-2-4-ar-12-14": {},
+   "barncyklar-4-6-ar-16": {}
+  },
+  "sparkcykel": {},
+  "cykeltillbehor": {
+   "cykelkorgar": {},
+   "cykelvaskor": {},
+   "cykelhjalmar": {},
+   "skyddsutrustning-cykel": {},
+   "cykellas": {},
+   "pedaler-cykel": {},
+   "stankskarmar-cykel": {},
+   "pakethallare-cykel": {},
+   "cykelsolglasogon": {},
+   "flaskhallare": {},
+   "cykelpumpar": {},
+   "cykelsadlar": {},
+   "cykelbelysning": {},
+   "stodben-stodhjul-cykel": {},
+   "mobilhallare-cykel": {}
+  },
+  "cykelreservdelar": {
+   "cykelslangar": {},
+   "cykeldack": {},
+   "cykelkedjor": {},
+   "bottenlager": {}
+  }
+ },
+ "gymutrustning": {
+  "hemmagym": {
+   "gymgolv": {},
+   "kabelmaskin": {},
+   "latsdragmaskin": {},
+   "traningsbank": {},
+   "traningsmaskin": {},
+   "traningsmatta": {},
+   "skivstangsstallning": {},
+   "smithmaskin": {},
+   "viktstall": {},
+   "rygglyftsbank-hyperextension-ryggresningsbank": {}
+  },
+  "fria-vikter": {
+   "hantlar": {},
+   "kettlebell": {},
+   "skivstang": {},
+   "skivstangspaket": {},
+   "viktskivor": {}
+  },
+  "funktionellt": {
+   "boxning": {},
+   "chins-dips": {},
+   "grepptraning": {},
+   "magtraning": {},
+   "traningsboll": {},
+   "parallettes": {},
+   "sandsack": {},
+   "viktvast": {},
+   "yoga-pilates": {},
+   "fot-handledsvikt": {}
+  },
+  "gympaket": {
+   "bankpresspaket": {},
+   "kabelhandtags-paket": {},
+   "kettlebellpaket": {},
+   "multigymspaket": {},
+   "skivstangsset": {},
+   "viktpaket": {}
+  },
+  "tillbehor": {
+   "balans": {},
+   "foam-roller-massageboll": {},
+   "fot-handledsvikt": {},
+   "fasten-upphangningar": {},
+   "gummiband": {},
+   "ovrig-utrustning": {},
+   "hopprep": {},
+   "kabelhandtag": {},
+   "step-brada": {},
+   "traningsbalte": {}
+  }
+ },
+ "konditionsutrustning": {
+  "crosstrainer": {},
+  "lopband": {},
+  "motionscykel": {},
+  "roddmaskin": {},
+  "vibrationsplatts": {},
+  "pulsmatare": {}
+ },
+ "kosttillskott": {
+  "protein": {
+   "proteinpulver": {},
+   "kasein": {},
+   "vaxtbaserat-proteinpulver": {},
+   "proteinbars": {},
+   "proteinisolat": {}
+  },
+  "aminosyror": {
+   "bcaa": {},
+   "eaa": {},
+   "l-karnitin-l-tryptofan-tyrosin": {},
+   "aakg": {}
+  },
+  "kreatin": {
+   "kreatinmonohydrat": {},
+   "kreatinkomplex": {}
+  },
+  "energi-prestation": {
+   "energigele": {},
+   "energidryck-koffeinshots": {},
+   "pwo-energipulver": {},
+   "kolhydratkomplex": {},
+   "gainer-mass-supplement": {}
+  },
+  "aterhamtning-vatska": {
+   "elektrolyter": {},
+   "isotoniskt-sportdryckspulver": {}
+  },
+  "vitaminer-mineraler": {
+   "multivitamin-herr": {},
+   "multivitamin-kvinna": {},
+   "vitaminkapslar-pulver": {},
+   "magnesium": {},
+   "mineralkomplex-mineralkapslar": {},
+   "zink": {}
+  },
+  "halsa-ovrigt": {
+   "omega-3-fettsyror": {},
+   "antioxidanter": {},
+   "adaptogener": {},
+   "kollagen": {},
+   "melatonin": {},
+   "viktminskning-fettforbranning": {},
+   "led-hudtillskott": {}
+  },
+  "shakers-och-dosaskar": {}
+ },
+ "ovrig-utrustning": {
+  "sportutrustning": {},
+  "skidor": {
+   "pjaxor": {},
+   "skidstavar": {}
+  },
+  "vag": {},
+  "rullskridskor": {},
+  "studsmatta": {},
+  "solglasogon": {}
+ },
+ "traningsklader": {
+  "traningsklader-herr": {
+   "traningsshorts-herr": {},
+   "tranings-t-shirt-herr": {},
+   "traningsbyxor-herr": {}
+  },
+  "traningsklader-dam": {
+   "traningsshorts-dam": {},
+   "tranings-t-shirt-dam": {},
+   "traningsbyxor-dam": {}
+  }
+ },
+ "varumarke": {
+  "tunturi": {},
+  "christopeit-sport-germany": {},
+  "kettler": {},
+  "hammer": {},
+  "bh-fitness": {},
+  "toorx": {},
+  "maxxus": {},
+  "giant": {},
+  "liv": {},
+  "romet": {},
+  "basil": {},
+  "cairn": {},
+  "selle-monte-grappa": {},
+  "gorilla-sports": {},
+  "leader": {},
+  "trec": {},
+  "trym": {},
+  "kona-1": {},
+  "excalibur": {}
+ }
+}
