@@ -1,0 +1,273 @@
+[
+ {
+  "nr": 50001,
+  "id": "10411668996362",
+  "fil": "k_50a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 941534, EAN 5905339415349, lager 1, ej spärrad. Allt finns i källan: yoga och meditation, mandalamönster, går att rulla ihop för transport och förvaring. 'Halkfritt' står ordagrant i källan ('halkfria material') och återges en gång med 'enligt tillverkaren' (R5). 'Stabil', 'bekväm' och 'säkerställer' är rätt utelämnade. Systerprodukten 'Yogamatta Spokey Mandala, 183 x 61 cm, Lila' är skriven, men titel och SEO skiljer sig. Ingen krock."
+ },
+ {
+  "nr": 50002,
+  "id": "10411721261322",
+  "fil": "k_50a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": "<p>Tunturi Fitness Gloves Pro Gel är träningshandskar i läder. De finns i storlekarna S, M, L, XL och XXL.</p>",
+     "efter": "<p>Tunturi Fitness Gloves Pro Gel är träningshandskar i läder med gel i handflatorna, öppna fingrar och handledsstöd med kardborreband. De säljs parvis, levereras med innerhandske och finns i storlekarna S, M, L, XL och XXL.</p>"
+    },
+    {
+     "fore": "<li>Material: Läder</li>\n",
+     "efter": "<li>Material: Läder</li>\n<li>Fingrar: Öppna</li>\n<li>Handledsstöd: Med kardborreband</li>\n<li>Handflator: Gel</li>\n<li>Ingår: Innerhandske</li>\n<li>Säljs: Parvis</li>\n"
+    }
+   ]
+  },
+  "skal": "Live ACTIVE, lager 11, fem storlekar (S 169 kr, M–XXL 149 kr). Enligt v1.9 får produkten skrivas, eftersom det är samma artikel i olika storlekar och produkten har lager. Utkastet låser inget pris och nämner bara storlekar som säljs som variant. Utkastaren gjorde rätt i att inte använda live-texten och live-titeln som källa: båda är vår egen facit-text från 2026-10-31. Originaltiteln var 'Träningshandskar TUNTURI Fitness Gloves Pro Gel', så ordet 'Läder' kommer inte från leverantören via titeln. Leverantörens originaltext finns däremot sparad i repot, i fältet fakta för id 10411721261322 i rapporter/facit-bos-2026-10-31/utkast_kontroll.json (före-läge 2026-10-31). Där står 'Material: läder', 'Öppna fingrar', 'Levereras med innerhandske', 'Kardborreband', 'Parvis', 'speciell gel i handflatorna' och 'Starka handskar med handledsstöd'. Uppgiften om läder har alltså stöd, och de övriga uppgifterna förs tillbaka. De fanns i den facit-text som David godkände. Utelämnat: 'halkfria', 'skydd', 'hygieniska' och 'starka' (R5), samt färgen 'Grå | Svart' (ingen färgvariant finns, R3). Källa till rättningen: den sparade originaltexten, inte live-texten. Vill koordinatorn bara använda live-källan blir domen i stället GODKÄND utan rättning. Då är uppgiften om läder bara belagd i den sparade originaltexten."
+ },
+ {
+  "nr": 50003,
+  "id": "10462177263882",
+  "fil": "k_50a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 14TUSYO023, lager 4. Mått, material, vikt och färg står ordagrant i källan. Raden 'Maximal vikt: 120 kg' anger inte vad lasten gäller och är rätt utelämnad (R4). Systerproduktens 'Maximal användarvikt' får inte lånas (R1). Enligt beslutet 2026-11-05 får balansbrädor utan svensk lastgräns skrivas utan lastgräns. Effektpåståendena om balans, cirkulation och barn är strukna. SEO-titeln skiljer sig från den skrivna Turkos ('Balansplatta Tunturi Air Stepper Pad') och från 50015."
+ },
+ {
+  "nr": 50004,
+  "id": "10462193942794",
+  "fil": "k_50a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, två varianter (GYM72042110 och GYM72042115) med samma pris (579 kr) och lager 1 vardera. Enligt v1.8 ska storleken inte låsas, så det är rätt att stryka 110 cm ur titeln och att inte nämna intervallet 110–125 cm, eftersom 120 och 125 cm inte säljs. Remmar, skumgummi och EVA-grepp med tumrem står i källan. 'Nybörjare till motionsidrottare' anges en gång med 'enligt tillverkaren'. Typordet Gåstavar är live-titelns ord (R7), och Gymstick-taggen rörs inte."
+ },
+ {
+  "nr": 50005,
+  "id": "10462774395146",
+  "fil": "k_50a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 95314, lager 1. Live-titelns engelska 'Boxing gloves' byts mot 'Boxningshandskar', som källtexten använder (R7). Samma ord har den skrivna systerprodukten 'Boxningshandskar Hammer X-Shock 12 oz'. Ventilationshål, handledsstöd och sidostygnad tumme är funktioner som står ordagrant i källan. 'Förhindrar skador' och 'hudvänligt' är rätt strukna (R5). Ursprunget '(Tyskland)' står inte i den här produktens källa och finns inte med."
+ },
+ {
+  "nr": 50006,
+  "id": "10462785405194",
+  "fil": "k_50a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 14TUSFU340, lager 4. Raden 'Bärförmåga: 220 kg' är en svensk rad med etikett och enhet och står en gång med 'enligt tillverkaren' (R4). Löptexten anger samma värde, så v1.5 hindrar inte. Längdguiden för 75 cm är ordagrann. 'Anti-Burst' är rätt struket: säkerhetslöften som 'anti-burst' tas bort (standard §10, R5), och i en titel går det inte att skriva 'enligt tillverkaren'. Det stämmer med de skrivna systerprodukterna (Gymball 55 cm Mint och Petrol). Att ta bort uppgifter strider inte mot R7 eller R1, för R7 gäller typordet. Typordet Gymnastikboll är live-ordet. Titel och SEO skiljer sig från allt som redan är skrivet."
+ },
+ {
+  "nr": 50021,
+  "id": "10708320190730",
+  "fil": "k_50a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Rose Gold",
+    "efter": "Roséguld"
+   },
+   "seo_title": {
+    "fore": "Rose Gold",
+    "efter": "Roséguld"
+   },
+   "meta": {
+    "fore": "färgen rose gold",
+    "efter": "färgen roséguld"
+   },
+   "html": [
+    {
+     "fore": "färgen rose gold",
+     "efter": "färgen roséguld"
+    },
+    {
+     "fore": "<li>Färg: Rose Gold</li>",
+     "efter": "<li>Färg: Roséguld</li>"
+    }
+   ]
+  },
+  "skal": "Fakta stämmer: 55 cm, 800 g och 'Maxbelastning: 220 kg' står som en svensk rad (en gång med 'enligt tillverkaren'), och längdguiden är ordagrann. Anti-Burst är rätt struket. Rättningen gäller bara färgen. Titeln ska ange färgen på svenska (standard §3), och butiken skriver 'Roséguld' i redan skrivna Tunturi-texter, till exempel 'Träningsboll Tunturi Gymball 65 cm, Roséguld' och 'Yogamatta Tunturi 8 mm, Roséguld'. SEO-titeln efter rättningen, 'Gymnastikboll Tunturi 55 cm Roséguld', är unik."
+ },
+ {
+  "nr": 50024,
+  "id": "10721332035850",
+  "fil": "k_50a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 14TUSFU337, lager 9. Diameter 65 cm, produktvikt 800 g och maxbelastning 220 kg står ordagrant i källan (R4, en gång). Anti Burst är rätt struket. Lila är svenska. SEO-titeln skiljer sig från utkastet 'Gymnastikboll Tunturi Gymball 65 cm', som är skrivet men ligger som DRAFT."
+ },
+ {
+  "nr": 50007,
+  "id": "10469213143306",
+  "fil": "k_50a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Yoga set",
+    "efter": "Yogaset"
+   },
+   "seo_title": {
+    "fore": "Yoga set",
+    "efter": "Yogaset"
+   },
+   "html": [
+    {
+     "fore": "3 st motståndsband i färgen svart. Mattan är gjord av PVC-skum.</p>",
+     "efter": "3 st motståndsband. Setet är svart och mattan är gjord av PVC-skum.</p>"
+    },
+    {
+     "fore": "ett yoga set med",
+     "efter": "ett yogaset med"
+    },
+    {
+     "fore": "<li>Typ: Yoga set</li>",
+     "efter": "<li>Typ: Yogaset</li>"
+    }
+   ]
+  },
+  "skal": "Innehållet stämmer med en webbkoll. Sportano (https://sportano.com/p/35987/spokey-mantra-yoga-set-928924) och mediamarkt.pl anger matta, block och tre gummiband för 928924, och Velomarket (https://velomarket.ee/en/products/yoga-set-spokey-mantra-set-black/) anger PVC-skum. Att antalet mattor inte anges är rätt, eftersom källraden är dubblerad (R2). 'Stretching Drum Set' är rätt utelämnat. Rättning 1 gäller typordet: 'Yoga set' är särskrivet, och butikens live-ord är 'Yogaset' (Yogaset Toorx med Matta, Block och Väska). R7 tillåter butikens live-ord, och formatskriptet skulle annars göra om ordet till 'Yoga Set'. Rättning 2: 'i färgen svart' kunde läsas som att bara banden är svarta. Färgen står i titeln ('black') och gäller setet."
+ },
+ {
+  "nr": 50009,
+  "id": "10472215150858",
+  "fil": "k_50a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Tunturi träningscyklar, elliptiska tränare, löpband",
+    "efter": "Tunturi träningscyklar, crosstrainers, löpband"
+   }
+  },
+  "skal": "Live ACTIVE, 14TUSRU150, lager 1. Räckvidden 120 cm och 'Vattentät upp till 20 m' står ordagrant i källan, och båda står med ett 'enligt tillverkaren' i samma mening (en gång totalt). Tillverkarens egen sida bekräftar vattentätheten upp till 20 m för modellen (https://www.tunturi.com/en/chest-belt-53khz.html, enligt sökresultat), så ingen rättning behövs där. Kompatibiliteten ligger i samma 'enligt tillverkaren'-mening. Den enda rättningen är 'elliptiska tränare', som blir 'crosstrainers'. Det är butikens ord, produkten ligger i kollektionen Crosstrainers och samma rättning gjordes i k_utlatande_07 (9421). Effekt- och säkerhetspåståendena är rätt strukna."
+ },
+ {
+  "nr": 50010,
+  "id": "10472245920010",
+  "fil": "k_50a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 6413502, lager 1. Mått, tjocklek (0,4 cm motsvarar titelns 4 mm) och vikt står i källan. 'Halkfri yta' är ordagrant och står en gång med 'enligt tillverkaren'. Materialraderna motsäger varandra och är rätt utelämnade (R2), liksom märkesbakgrunden. Typordet är live-ordet. Zipro har normal skrivning (R8)."
+ },
+ {
+  "nr": 50012,
+  "id": "10472263254282",
+  "fil": "k_50a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Viktskiva Tunturi Training Bumper Plate",
+    "efter": "Viktskiva Training Bumper Plate 5 kg"
+   }
+  },
+  "skal": "Bytet av typord från Viktplatta till Viktskiva är rätt: källtexten säger 'Viktskivan' och 'viktskivor', ordet finns i godkanda_typord och de skrivna Toorx-syskonen heter också Viktskiva (R7). Fakta stämmer. 'Setet innehåller 1 kedja' och 'Hålavstånd' är rätt utelämnade (R2). 'Olympiska hantlar' är källans ordalydelse och står med 'enligt tillverkaren'. Det är troligen en översättning av 'olympic bars', men det motsäger inget. Rättningen gäller SEO-titeln, som saknar vikt. Den osålda systerprodukten 'Training Bumper Plate, 50 mm, 15 kg' (10462201839882) skulle annars få samma SEO-titel. Med vikten följer SEO-titeln mönstret i 'Viktskiva Bumper Plate Challenge Blå 20 kg' (36 tecken; varumärket ryms inte tillsammans med modell och vikt)."
+ },
+ {
+  "nr": 50013,
+  "id": "10472263418122",
+  "fil": "k_50a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 14TUSFU312, lager 1. Material, vikt och färg står ordagrant i källan. 'Halkfritt innerlager' är ordagrant och står en gång med 'enligt tillverkaren'. Storleksraden med mått är rätt utelämnad. Typordet 'Handskar' är live-ordet (R7)."
+ },
+ {
+  "nr": 50014,
+  "id": "10472270102794",
+  "fil": "k_50a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 95310, lager 1. Granskad på samma sätt som 50005, och storleken 10 oz stämmer med titel och SKU. '(Tyskland)' i källan är ett ursprungspåstående och är rätt utelämnat (standard §2.3). Titel och SEO skiljer sig från 12 oz och 14 oz."
+ },
+ {
+  "nr": 50015,
+  "id": "10472276656394",
+  "fil": "k_50a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 14TUSYO022, lager 11. 'Maximal användarvikt: 120 kg' är en svensk rad med etikett och enhet och står en gång med 'enligt tillverkaren' (R4). Handpump, mått och vikt står i källan. 'Bra hållning', 'träna balans' och 'stärka muskler' är rätt strukna (R5). Grön står i live-titeln."
+ },
+ {
+  "nr": 50016,
+  "id": "10472277082378",
+  "fil": "k_50a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, taggen 'På beställning'. Leveranstidsmeningen finns, bara i standardblocket och exakt enligt profilen (R13). Källans egen rad med ⏳ följer inte med, så ingen dubbel mening. Omkrets, batteri, mått och vikt står ordagrant i källan. Laddnings- och driftstid står en gång med 'enligt tillverkaren'. Displayen finns bara i titeln ('inkl. Display'), vilket v1.12 tillåter. Beskrivningen påstår ingen funktion för displayen. 'Med vikt' är rätt struket, eftersom källan inte beskriver någon vikt. Hälso- och formpåståendena är strukna. Titeln följer de skrivna syskonen ('Hula Hoop Tunturi, Justerbar, med Vikter')."
+ },
+ {
+  "nr": 50017,
+  "id": "10472302870794",
+  "fil": "k_50a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Hantel Tunturi Platinum Hex Rubber Dumbbell, 15 kg",
+    "efter": "Hantel Tunturi Platinum Hex Rubber, 15 kg"
+   },
+   "seo_title": {
+    "fore": "Hantel Platinum Hex Rubber Dumbbell 15 kg",
+    "efter": "Hantel Tunturi Platinum Hex Rubber 15 kg"
+   }
+  },
+  "skal": "Fakta stämmer. Källan säger 'OBS: Setet innehåller en hantel med en vikt på 15 kg'. 'Gummiöverdraget förhindrar skador på golvet' står ordagrant och har 'enligt tillverkaren' en gång. Det är ett skydd för golvet, inte för personer. Rättningen gäller SEO-titeln, som saknar märket fast det ryms (R12: märket kvar om det ryms; 40 tecken). Rättningen följer de skrivna syskonen 'Hantel Tunturi Platinum Hex Rubber, 6 kg/10 kg', som också strök det engelska ordet 'Dumbbell' ur titeln. Modellnamnet med Dumbbell står kvar i meta och specifikation."
+ },
+ {
+  "nr": 50018,
+  "id": "10472306802954",
+  "fil": "k_50a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 0190906, lager 2. En webbkoll bekräftar att modellen 0190906 är en justerbar hållare för smartphone och surfplatta, 4,7–13 tum (outlet-pc.com, https://outlet-pc.com/SE/products/bh-0190906-soporte-para-smartphone-y-tablet-fitness-regulable-4-7-13-negro). Kompatibilitetsraden är entydig i början men slutar i skräpet '4,7\" - 4,7\"'. Enligt R2 får den entydiga delen användas, och den står en gång med 'enligt tillverkaren'. Raden om 'alla cyklar och alla fyrhjulingar' är skräp och rätt utelämnad. 'Pedaltränare' är källans ord. Ingen tillverkarsida bekräftar kompatibiliteten, och det framgår av att uppgiften står med 'enligt tillverkaren'. Formatskriptet skulle göra om typordet till 'Telefon- och Surfplattahållare'. Det behöver kontrolleras vid bygget: typordet ska behålla liten bokstav, som i 'El-lastcykel'."
+ },
+ {
+  "nr": 50019,
+  "id": "10472346747146",
+  "fil": "k_50a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 14TUSCL225, lager 1. En skivstång bär vikter och räknas som bärande del enligt v1.10. Prejudikat: kettlebellhandtaget Tunturi Rapid fick 'Ej känd'. Källan saknar lastgräns. På nätet finns bara återförsäljarnas uppgifter, och de går isär: 100 kg hos galaxus.de och decathlon.ch, 200 kg hos decathlon.co.uk. Ingen tillverkarsida hittades. Enligt beslutet 2026-11-05 blir en lastgräns som bara stöds av återförsäljare 'Ej känd', så 'Ej känd' är rätt. Formuleringen stämmer med v1.10 och prejudikaten: specifikationsraden 'Maximal lastgräns: Ej känd' och meningen 'Maximal lastgräns är inte känd.' Utkastet lovar inget om säkerhet eller hållbarhet ('robust', 'stadigt' och 'trygghet' är strukna). Typordet Lyftstång är live-ordet, och skrivna syskon heter 'Skivstång ...' (R7 tillåter olika live-ord)."
+ },
+ {
+  "nr": 50020,
+  "id": "10480054403338",
+  "fil": "k_50a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Christopeit 2-i-1 hantelset på 15 kg med fyra viktskivor",
+    "efter": "Christopeit 2-i-1 hantelset på 15 kg innehåller fyra viktskivor"
+   }
+  },
+  "skal": "Fakta stämmer: 15 kg och innehållet (4 st 1,5 kg, 4 st 2 kg, 2 handtag och 1 stång) står ordagrant i källan. 'Nybörjare och avancerade' står en gång med 'enligt tillverkaren'. 'Säkra', 'halkfria', 'slitstarka' och 'skyddar ditt golv' är rätt strukna. Metabeskrivningen saknade verb och får därför ett ('innehåller'). Det är ett av de vanligaste fynden enligt regelboken. Setet har en fast totalvikt, så ingen lastgränsrad behövs. Lastgränsen ska ändå bekräftas om koordinatorn bedömer att stången i ett set räknas som bärande del enligt v1.10."
+ },
+ {
+  "nr": 50022,
+  "id": "10721331478794",
+  "fil": "k_50a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "med ryggstöd",
+    "efter": "med Ryggstöd"
+   },
+   "seo_title": {
+    "fore": "med ryggstöd",
+    "efter": "med Ryggstöd"
+   }
+  },
+  "skal": "Live ACTIVE, BRX-R300, ingen EAN, lager 1. Alla specifikationsrader står ordagrant i källan. 'PMS, servomotor' återges ordagrant och förklaras inte. Det är rätt, eftersom vi inte ska gissa vad PMS betyder. 'Maximal användarvikt: 150 kg' är en svensk rad och står en gång med 'enligt tillverkaren'. Kondition- och muskeleffekterna är strukna. Rättningen gäller bara versaler (R9): 'med Ryggstöd' följer format_regler.titel_versaler och den skrivna produkten 'Liggande Motionscykel Toorx BRX R3000 med Ryggstöd'."
+ },
+ {
+  "nr": 50023,
+  "id": "10721331511562",
+  "fil": "k_50a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "med ryggstöd",
+    "efter": "med Ryggstöd"
+   }
+  },
+  "skal": "Live ACTIVE, BRX-R300ERGO, lager 1. Ryggstöd, horisontellt justerbar sits, magnetiskt motstånd med 32 nivåer, LCD-färgskärm, Bluetooth med iConsole+ och Kinomap, mått och vikter står ordagrant i källan. Löptextens '150 kg' och tabellen stämmer överens. Värdet står en gång med 'enligt tillverkaren'. 'Ventilerande' och 'robusta' är rätt strukna. Typordet Motionscykel är live-ordet. Källan kallar produkten 'ergometer'. Rättningen gäller bara versalen i 'Ryggstöd' (R9), som i 50022."
+ }
+]
