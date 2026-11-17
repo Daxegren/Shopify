@@ -1,0 +1,33 @@
+[
+ {
+  "id": "gid://shopify/Product/10494697242890",
+  "title": "Baklykta Giant Recon TL 100",
+  "handle": "baklykta-giant-recon-tl-100-400000170",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykelbelysning",
+   "Giant",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 3,
+  "updatedAt": "2026-11-17T14:40:48Z",
+  "seo": {
+   "title": null,
+   "description": "Giant Recon TL 100 lyser med maximalt 100 lumen, har sidobelysning upp till 180 grader och indikator för lågt batteri."
+  },
+  "descriptionHtml": "<p>Baklyktan Giant Recon TL 100 lyser med en maximal ljusstyrka på 100 lumen och har sidobelysning upp till 180 grader samt indikator för lågt batteri. Enligt tillverkaren är den vattentät enligt IPX7 och syns på upp till 1 km avstånd i mörker.</p><h2>Passar för</h2><ul>\n<li>Dig som söker en baklykta med maximalt 100 lumen</li>\n<li>Dig som vill ha en uppladdningsbar baklykta</li>\n<li>Dig som vill ha en baklykta med indikator för lågt batteri</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Typ: Baklykta</li>\n<li>Märke: Giant</li>\n<li>Modell: Recon TL 100</li>\n<li>Maximal ljusstyrka: 100 lumen</li>\n<li>Sidobelysning: Upp till 180 grader</li>\n<li>Indikator: Lågt batteri</li>\n<li>Batteri: Litiumjonpolymer, 420 mAh, uppladdningsbart</li>\n<li>Vattentålighet: IPX7</li>\n<li>Vikt: 33 g inklusive fäste</li>\n<li>Mått: 31 x 31 x 32 mm</li>\n<li>Kompatibel med hjälmar i serierna: Rev Comp, Compel, Roost och Prompt</li>\n<li>Artikelnummer: 400000169</li>\n<li>EAN: 4713250842912</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52981008105738",
+     "sku": "400000169",
+     "price": "389.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 3
+    }
+   ]
+  }
+ }
+]
