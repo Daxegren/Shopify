@@ -31,3 +31,12 @@ Hoppa över: tomma kollektioner (0 köpbara), kollektioner med 1–4 köpbara (s
 
 ## 6. Skrivning (efter Davids ja)
 Samma rutin som produkttexter: före-fil i `rapporter/shopify-original-<datum>/`, dry-run, kanarie på 3, återläsning och tecken-för-tecken-jämförelse, skript mot Admin API (aldrig handskrivna variabler). Ändrar bara `descriptionHtml` och `seo{title, description}` (båda fälten alltid tillsammans). Logg i `ANDRINGSLOGG.md`, status i `shopify-sync/status/bestofsports-kategorier.md`.
+
+## 7. Godkännande (tillägg 2026-11-17, ändrar ingen text ovan)
+David har godkänt standarden: bekräftat 2026-11-12 (standarden godkänd, textlängd 60–200 ord, kort text ovanför listan tills vidare) och den 2026-11-17 genom sessionen Översikt (alternativet "markering längst ned"; se `BESLUTSLOGG.md`). Rubriken och inledningen ovan säger fortfarande "utkast": *Inaktuellt sedan 2026-11-12, se ändringsloggen.* Godkännandet av standarden är inte ett godkännande av några texter; pilottexterna godkänns först efter granskning av nytt underlag (se avsnitt 8) och skrivs tidigast 2026-12-01 (Black Week).
+
+## 8. Kontroll av underlaget (tillägg 2026-11-17: förslag till arbetsrutin, ännu inte beslutat av David; bygger på granskningarna 2026-11-05 och 2026-11-12)
+1. Kör om underlaget direkt före varje text eller skrivning. Sortimentet och priserna ändras (inom två veckor ändrades antal, titlar och märkesstavning i flera kategorier), och exempelmodeller kan ha bytt namn eller försvunnit.
+2. Granska underlaget separat: billigaste och dyraste titel, intervall i vikter ("1–10 kg"), produkter bland "övriga" (engelska titlar som Dumbbell, Treadmill, Electric bike), tillbehör som räknas som huvudprodukter (hantelställ, hantellås, löpbandsolja).
+3. Skriv inte priser eller prisspann medan en prisjobbstagg (`price-change-job-active`) är aktiv på produkterna i kollektionen. Rabattpriset är inte ordinarie pris.
+4. Skriv "bland annat" före varje uppräkning som inte är bevisat fullständig. Märken stavas som i produkttitlarna (inte versaler, R8). Skriv "produkter" om inte unika modeller är räknade.

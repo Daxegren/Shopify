@@ -1,0 +1,586 @@
+{
+ "handle": "sparkcykel",
+ "id": "gid://shopify/Collection/569052135690",
+ "titel": "Sparkcykel",
+ "regel": [
+  [
+   "TAG",
+   "EQUALS",
+   "sparkcykel"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "Sparkcyklar"
+  ]
+ ],
+ "huvud_regex": "^(?!.*(?:barn|sticker|klistermärke))(?=.*(sparkcykel(?!hjul|stöd)|scooter(?!hjul|stick)))",
+ "antal_i_kollektionen": 161,
+ "antal_koopbara_alla": 155,
+ "antal_koopbara": 87,
+ "antal_ovriga_koopbara": 68,
+ "exempel_ovriga": [
+  "Sparkcykelstöd Ethic Scooter Stand Pad",
+  "Sparkcykelhjul Ethic Incube V2, 100 mm, Svart",
+  "Hjul till sparkcykel Ethic Incube Wheel V2 110mm Rainbow",
+  "Griptape Ethic Basic",
+  "Hjul till sparkcykel UNION Honeycomb Pro Scooter Wheel 110mm, svart",
+  "Sparkcykelhjul Union Honeycomb Pro, 110 mm, Rosa"
+ ],
+ "ovriga_titlar": [
+  "Aest Barnsparkcykel, blå",
+  "Barnskoter RICOKIDS Loco, blå",
+  "Barnsparkcykel Aest Kids, Svart",
+  "Barnsparkcykel NILS EXTREME HLB09 rosa",
+  "Barnsparkcykel NILS FUN HLB02 Hjortsparkcykel, orange",
+  "Flytande Tjärvalla Start Easy Kick Wax Tar",
+  "Grepptejp Union Be Union, 580 x 150 mm",
+  "Griptape Ethic Basic",
+  "Griptape Union Griptape Just Smile",
+  "Griptape Union Griptape Lisa",
+  "Griptape Union Griptape Pizza",
+  "Hjul för sparkcykel UNION Classic V2 Pro Scooter Wheel 110mm, svart",
+  "Hjul för sparkcykel UNION Classic V2 Pro Scooter Wheel 110mm, svart/grå",
+  "Hjul för sparkcykel Union Credit V2 Pro Scooter Wheel 110mm Rosa",
+  "Hjul till sparkcykel Ethic Acteon Wheel 110mm Rainbow",
+  "Hjul till sparkcykel Ethic Acteon Wheel 110mm Svart",
+  "Hjul till sparkcykel Ethic Incube Wheel V2 100 mm Rainbow",
+  "Hjul till sparkcykel Ethic Incube Wheel V2 110mm Rainbow",
+  "Hjul till sparkcykel UNION Classic V2 Pro Scooter Wheel 110mm, svart/lila",
+  "Hjul till sparkcykel UNION Classic V2 Pro Scooter Wheel 110mm, svart/polerad lila",
+  "Hjul till sparkcykel UNION Classic V2 Pro Scooter Wheel 110mm, svart/polerad turkos",
+  "Hjul till sparkcykel UNION Honeycomb Pro Scooter Wheel 110mm, Krom/Blå",
+  "Hjul till sparkcykel UNION Honeycomb Pro Scooter Wheel 110mm, svart",
+  "Hjul till sparkcykel UNION Honeycomb Pro Scooter Wheel 110mm, svart/polerad lila",
+  "Hjul till sparkcykel UNION Honeycomb Pro Scooter Wheel 110mm, svart/polerad turkos",
+  "Hjul till sparkcykel UNION Honeycomb Pro Scooter Wheel 110mm, svart/silver",
+  "Hjul till sparkcykel Union Credit V2 Pro Scooter Wheel 100mm Blue/Black",
+  "Hjul till sparkcykel Union Credit V2 Pro Scooter Wheel 110mm Krom/Blå",
+  "Hjul till sparkcykel Union Turbomatic V2 Pro Scooter Wheel 110mm Black/Purple",
+  "Hjul till sparkcykel Union Yolo Pro Scooter Wheel 100mm Raw/Black",
+  "START Easy HF Quick Kick universellt snabbsmörjmedel",
+  "Scooter Stickers Union Sticker",
+  "Scooter holder Ethic Stand Pad",
+  "Scooter wheel Panda Spoked V2 100MM Scooter Wheel Chrome",
+  "Scooterhjul Ethic Incube V2 Pro 115 mm, Svart",
+  "Snow boots STIGA Snow Kick, black/blue",
+  "Snöskor STIGA Snow Kick Free, vit/svart",
+  "Snöskor STIGA Snow Kick, limegrön/svart",
+  "Sparkcykelhjul Ethic Incube V2, 100 mm, Röd",
+  "Sparkcykelhjul Ethic Incube V2, 100 mm, Svart",
+  "Sparkcykelhjul Fuzion Thiccboys, 110 x 30 mm, Navy/Silver",
+  "Sparkcykelhjul Fuzion Thiccboys, 110 x 30 mm, Svart",
+  "Sparkcykelhjul Union Classic V2 Pro, 110 mm, Krom/Blå",
+  "Sparkcykelhjul Union Credit V2 Pro, 100 mm, Lila/Svart",
+  "Sparkcykelhjul Union Credit V2 Pro, 100 mm, Neochrome/Svart",
+  "Sparkcykelhjul Union Credit V2 Pro, 100 mm, Svart",
+  "Sparkcykelhjul Union Credit V2 Pro, 100 mm, Svart/Grå",
+  "Sparkcykelhjul Union Dragon, 100 mm, Svart/Röd",
+  "Sparkcykelhjul Union Honeycomb Pro, 110 mm, Rosa",
+  "Sparkcykelhjul Union Spider Pro, 110 mm, Blå/Svart",
+  "Sparkcykelhjul Union Spider Pro, 110 mm, Lila/Grå",
+  "Sparkcykelhjul Union Spider Pro, 110 mm, Lila/Svart",
+  "Sparkcykelhjul Union Spider Pro, 110 mm, Svart/Grå",
+  "Sparkcykelhjul Union Turbomatic V2 Pro, 110 mm, Blå/Grå",
+  "Sparkcykelhjul Union Turbomatic V2 Pro, 110 mm, Lila/Svart",
+  "Sparkcykelhjul Union Turbomatic V2 Pro, 110 mm, Svart",
+  "Sparkcykelhjul Union Turbomatic V2 Pro, 110 mm, Svart/Grå",
+  "Sparkcykelhjul Union Yolo Pro, 100 mm, Rosa",
+  "Sparkcykelhjul Union Yolo Pro, 100 mm, Svart",
+  "Sparkcykelhjul Union Yolo Pro, 100 mm, Svart/Blå",
+  "Sparkcykelhjul Union Yolo Pro, 100 mm, Svart/Grå",
+  "Sparkcykelhjul Union Yolo, 100 mm, Svart/Neochrome",
+  "Sparkcykelhjul Versatyl, 110 mm",
+  "Sparkcykelstöd Ethic Scooter Stand Pad",
+  "UNION Griptape Hot",
+  "UNION Griptape Repeat V2",
+  "UNION Griptape Trick Bomb",
+  "Underhållsfett START Easy HF Quick Kick, kallt"
+ ],
+ "ovriga_med_pris": [
+  [
+   "Aest Barnsparkcykel, blå",
+   656.1
+  ],
+  [
+   "Barnskoter RICOKIDS Loco, blå",
+   2039.0
+  ],
+  [
+   "Barnsparkcykel Aest Kids, Svart",
+   2209.0
+  ],
+  [
+   "Barnsparkcykel NILS EXTREME HLB09 rosa",
+   2049.0
+  ],
+  [
+   "Barnsparkcykel NILS FUN HLB02 Hjortsparkcykel, orange",
+   2079.0
+  ],
+  [
+   "Flytande Tjärvalla Start Easy Kick Wax Tar",
+   189.0
+  ],
+  [
+   "Grepptejp Union Be Union, 580 x 150 mm",
+   1489.0
+  ],
+  [
+   "Griptape Ethic Basic",
+   1419.0
+  ],
+  [
+   "Griptape Union Griptape Just Smile",
+   1489.0
+  ],
+  [
+   "Griptape Union Griptape Lisa",
+   1489.0
+  ],
+  [
+   "Griptape Union Griptape Pizza",
+   1489.0
+  ],
+  [
+   "Hjul för sparkcykel UNION Classic V2 Pro Scooter Wheel 110mm, svart",
+   1659.0
+  ],
+  [
+   "Hjul för sparkcykel UNION Classic V2 Pro Scooter Wheel 110mm, svart/grå",
+   1659.0
+  ],
+  [
+   "Hjul för sparkcykel Union Credit V2 Pro Scooter Wheel 110mm Rosa",
+   1659.0
+  ],
+  [
+   "Hjul till sparkcykel Ethic Acteon Wheel 110mm Rainbow",
+   1799.0
+  ],
+  [
+   "Hjul till sparkcykel Ethic Acteon Wheel 110mm Svart",
+   1769.0
+  ],
+  [
+   "Hjul till sparkcykel Ethic Incube Wheel V2 100 mm Rainbow",
+   1709.0
+  ],
+  [
+   "Hjul till sparkcykel Ethic Incube Wheel V2 110mm Rainbow",
+   1739.0
+  ],
+  [
+   "Hjul till sparkcykel UNION Classic V2 Pro Scooter Wheel 110mm, svart/lila",
+   1669.0
+  ],
+  [
+   "Hjul till sparkcykel UNION Classic V2 Pro Scooter Wheel 110mm, svart/polerad lila",
+   1659.0
+  ],
+  [
+   "Hjul till sparkcykel UNION Classic V2 Pro Scooter Wheel 110mm, svart/polerad turkos",
+   1669.0
+  ],
+  [
+   "Hjul till sparkcykel UNION Honeycomb Pro Scooter Wheel 110mm, Krom/Blå",
+   1819.0
+  ],
+  [
+   "Hjul till sparkcykel UNION Honeycomb Pro Scooter Wheel 110mm, svart",
+   1520.1
+  ],
+  [
+   "Hjul till sparkcykel UNION Honeycomb Pro Scooter Wheel 110mm, svart/polerad lila",
+   1799.0
+  ],
+  [
+   "Hjul till sparkcykel UNION Honeycomb Pro Scooter Wheel 110mm, svart/polerad turkos",
+   1799.0
+  ],
+  [
+   "Hjul till sparkcykel UNION Honeycomb Pro Scooter Wheel 110mm, svart/silver",
+   1789.0
+  ],
+  [
+   "Hjul till sparkcykel Union Credit V2 Pro Scooter Wheel 100mm Blue/Black",
+   1579.0
+  ],
+  [
+   "Hjul till sparkcykel Union Credit V2 Pro Scooter Wheel 110mm Krom/Blå",
+   1659.0
+  ],
+  [
+   "Hjul till sparkcykel Union Turbomatic V2 Pro Scooter Wheel 110mm Black/Purple",
+   1669.0
+  ],
+  [
+   "Hjul till sparkcykel Union Yolo Pro Scooter Wheel 100mm Raw/Black",
+   1539.0
+  ],
+  [
+   "START Easy HF Quick Kick universellt snabbsmörjmedel",
+   209.0
+  ],
+  [
+   "Scooter Stickers Union Sticker",
+   1459.0
+  ],
+  [
+   "Scooter holder Ethic Stand Pad",
+   1459.0
+  ],
+  [
+   "Scooter wheel Panda Spoked V2 100MM Scooter Wheel Chrome",
+   289.0
+  ],
+  [
+   "Scooterhjul Ethic Incube V2 Pro 115 mm, Svart",
+   1809.0
+  ],
+  [
+   "Snow boots STIGA Snow Kick, black/blue",
+   1649.0
+  ],
+  [
+   "Snöskor STIGA Snow Kick Free, vit/svart",
+   1889.0
+  ],
+  [
+   "Snöskor STIGA Snow Kick, limegrön/svart",
+   1609.0
+  ],
+  [
+   "Sparkcykelhjul Ethic Incube V2, 100 mm, Röd",
+   1709.0
+  ],
+  [
+   "Sparkcykelhjul Ethic Incube V2, 100 mm, Svart",
+   1709.0
+  ],
+  [
+   "Sparkcykelhjul Fuzion Thiccboys, 110 x 30 mm, Navy/Silver",
+   1959.0
+  ],
+  [
+   "Sparkcykelhjul Fuzion Thiccboys, 110 x 30 mm, Svart",
+   1959.0
+  ],
+  [
+   "Sparkcykelhjul Union Classic V2 Pro, 110 mm, Krom/Blå",
+   1659.0
+  ],
+  [
+   "Sparkcykelhjul Union Credit V2 Pro, 100 mm, Lila/Svart",
+   1569.0
+  ],
+  [
+   "Sparkcykelhjul Union Credit V2 Pro, 100 mm, Neochrome/Svart",
+   1619.0
+  ],
+  [
+   "Sparkcykelhjul Union Credit V2 Pro, 100 mm, Svart",
+   1619.0
+  ],
+  [
+   "Sparkcykelhjul Union Credit V2 Pro, 100 mm, Svart/Grå",
+   1579.0
+  ],
+  [
+   "Sparkcykelhjul Union Dragon, 100 mm, Svart/Röd",
+   1549.0
+  ],
+  [
+   "Sparkcykelhjul Union Honeycomb Pro, 110 mm, Rosa",
+   1809.0
+  ],
+  [
+   "Sparkcykelhjul Union Spider Pro, 110 mm, Blå/Svart",
+   1669.0
+  ],
+  [
+   "Sparkcykelhjul Union Spider Pro, 110 mm, Lila/Grå",
+   1669.0
+  ],
+  [
+   "Sparkcykelhjul Union Spider Pro, 110 mm, Lila/Svart",
+   1669.0
+  ],
+  [
+   "Sparkcykelhjul Union Spider Pro, 110 mm, Svart/Grå",
+   1779.0
+  ],
+  [
+   "Sparkcykelhjul Union Turbomatic V2 Pro, 110 mm, Blå/Grå",
+   1779.0
+  ],
+  [
+   "Sparkcykelhjul Union Turbomatic V2 Pro, 110 mm, Lila/Svart",
+   1669.0
+  ],
+  [
+   "Sparkcykelhjul Union Turbomatic V2 Pro, 110 mm, Svart",
+   1759.0
+  ],
+  [
+   "Sparkcykelhjul Union Turbomatic V2 Pro, 110 mm, Svart/Grå",
+   1669.0
+  ],
+  [
+   "Sparkcykelhjul Union Yolo Pro, 100 mm, Rosa",
+   1599.0
+  ],
+  [
+   "Sparkcykelhjul Union Yolo Pro, 100 mm, Svart",
+   1412.1
+  ],
+  [
+   "Sparkcykelhjul Union Yolo Pro, 100 mm, Svart/Blå",
+   1559.0
+  ],
+  [
+   "Sparkcykelhjul Union Yolo Pro, 100 mm, Svart/Grå",
+   1549.0
+  ],
+  [
+   "Sparkcykelhjul Union Yolo, 100 mm, Svart/Neochrome",
+   1609.0
+  ],
+  [
+   "Sparkcykelhjul Versatyl, 110 mm",
+   1659.0
+  ],
+  [
+   "Sparkcykelstöd Ethic Scooter Stand Pad",
+   1409.0
+  ],
+  [
+   "UNION Griptape Hot",
+   1489.0
+  ],
+  [
+   "UNION Griptape Repeat V2",
+   1489.0
+  ],
+  [
+   "UNION Griptape Trick Bomb",
+   1489.0
+  ],
+  [
+   "Underhållsfett START Easy HF Quick Kick, kallt",
+   209.0
+  ]
+ ],
+ "marken": [
+  [
+   "SOKE",
+   30
+  ],
+  [
+   "Union",
+   22
+  ],
+  [
+   "Rideoo",
+   10
+  ],
+  [
+   "Versatyl",
+   8
+  ],
+  [
+   "Ethic",
+   5
+  ],
+  [
+   "S´COOL",
+   5
+  ],
+  [
+   "Flyby",
+   3
+  ],
+  [
+   "Razor",
+   2
+  ],
+  [
+   "Velomarket",
+   1
+  ],
+  [
+   "Excelsior",
+   1
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "stuntsparkcykel",
+   34
+  ],
+  [
+   "tricksparkcykel",
+   16
+  ],
+  [
+   "sparkcykel",
+   13
+  ],
+  [
+   "stuntscooter",
+   12
+  ],
+  [
+   "scooter",
+   4
+  ],
+  [
+   "elektrisk",
+   1
+  ],
+  [
+   "trikssparkcykel",
+   1
+  ],
+  [
+   "ethic",
+   1
+  ],
+  [
+   "trikitõukeratas",
+   1
+  ],
+  [
+   "versatyl",
+   1
+  ]
+ ],
+ "pris_min": 1412.1,
+ "pris_max": 5049.0,
+ "pris_median": 2959.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [
+  [
+   "Stuntscooter SOKE GO! Turkos",
+   1412.1
+  ],
+  [
+   "Stuntsparkcykel SOKE PRO, lila-röd",
+   2087.1
+  ],
+  [
+   "Stuntsparkcykel SOKE GO, Gul",
+   2199.0
+  ],
+  [
+   "Tricksparkcykel SOKE EVO, svart",
+   2249.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Trikssparkcykel Ethic Pandora Complete Pro Scooter M Röd",
+   5049.0
+  ],
+  [
+   "Ethic Pandora Complete Pro Scooter M Blue",
+   5049.0
+  ],
+  [
+   "Trikitõukeratas Ethic Pandora Complete Pro Scooter L Black",
+   5049.0
+  ]
+ ],
+ "alla_titlar": [
+  "Elektrisk Sparkcykel Razor Electric Tekno Scooter",
+  "Ethic Pandora Complete Pro Scooter M Blue",
+  "Kicksparkcykel Versatyl Cosmopolitan V2 Pro, Svart",
+  "Scooter EXCELSIOR Retro Scooter, 12 1/2\", gul",
+  "Scooter RIDEOO 200 City Scooter svart",
+  "Scooter SOKE City, green",
+  "Scooter SOKE City, pink",
+  "Soke City Scooter, vit",
+  "Sparkcykel Rideoo 120 City, Blå",
+  "Sparkcykel Rideoo 120 City, Lila",
+  "Sparkcykel Rideoo 120 City, Rosa",
+  "Sparkcykel Rideoo 120 City, Salmon",
+  "Sparkcykel Rideoo 120 City, Svart",
+  "Sparkcykel Rideoo 120 City, Turkos",
+  "Sparkcykel Rideoo 175 City Scooter",
+  "Sparkcykel Rideoo 175 City, Mint",
+  "Sparkcykel Rideoo 175 City, Turkos",
+  "Sparkcykel S'cool flaX 8.4, Vit och Gul",
+  "Sparkcykel S'cool flaX 8.5",
+  "Sparkcykel SOKE City, Grå",
+  "Sparkcykel SOKE City, Svart och Turkos",
+  "Stuntscooter FLYBY Air V2 Complete Pro Scooter Chrome/Blue",
+  "Stuntscooter FLYBY Lite V2 Complete Pro Scooter Svart/Blå",
+  "Stuntscooter FLYBY Lite V2 Complete Pro Scooter Svart/Lila",
+  "Stuntscooter SOKE GO! Svart",
+  "Stuntscooter SOKE GO! Turkos",
+  "Stuntscooter SOKE GO, Blå-Gul",
+  "Stuntscooter SOKE PRO, Svart-Röd-Grå",
+  "Stuntscooter SOKE PRO, svart-guld",
+  "Stuntscooter S´COOL DIKKA, blå",
+  "Stuntscooter Union Lite S, Blå",
+  "Stuntscooter Union Lite S, Svart",
+  "Stuntscooter Versatyl Bloody Mary V2 Pro Scooter Neochrome",
+  "Stuntsparkcykel Ethic Erawan V2 M, Blå Iridium",
+  "Stuntsparkcykel Ethic Erawan V2, Svart/Neochrome",
+  "Stuntsparkcykel Ethic Pandora Complete Pro L, Blå",
+  "Stuntsparkcykel Razor Beast V6 för barn",
+  "Stuntsparkcykel S'Cool flaX 8.6, Flash Blue",
+  "Stuntsparkcykel S'Cool flaX 8.6, Flash Gold",
+  "Stuntsparkcykel SOKE EVO Street, Silver",
+  "Stuntsparkcykel SOKE GO! Oövervinnerlig, svart-orange-blå",
+  "Stuntsparkcykel SOKE GO, Grön/Blå",
+  "Stuntsparkcykel SOKE GO, Gul",
+  "Stuntsparkcykel SOKE GO, Svart och Rosa",
+  "Stuntsparkcykel SOKE PRO, Svart/Gul/Neon",
+  "Stuntsparkcykel SOKE PRO, lila-röd",
+  "Stuntsparkcykel SOKE XTR, Silver/Svart",
+  "Stuntsparkcykel SOKE XTR, Svart/Turkos",
+  "Stuntsparkcykel Union Aero XS Scooter, Svart",
+  "Stuntsparkcykel Union Aero XS, Svart/Grå",
+  "Stuntsparkcykel Union DOT L Scooter svart/neochrome",
+  "Stuntsparkcykel Union DOT L, Svart/Grå",
+  "Stuntsparkcykel Union DOT M Svart/Neochrome",
+  "Stuntsparkcykel Union DOT M Svart/Rå",
+  "Stuntsparkcykel Union Lite M, Blå",
+  "Stuntsparkcykel Union Lite M, Lime",
+  "Stuntsparkcykel Union Lite M, Neochrome",
+  "Stuntsparkcykel Union Lite M, Svart",
+  "Stuntsparkcykel Union Lite S, Lime",
+  "Stuntsparkcykel Union Lite S, Neochrome",
+  "Stuntsparkcykel Union Lite XS, Blå",
+  "Stuntsparkcykel Union Lite XS, Lime",
+  "Stuntsparkcykel Union Lite XS, Neochrome",
+  "Stuntsparkcykel Union Lite XS, Svart",
+  "Stuntsparkcykel Versatyl Bloody Mary V2 Pro, Orange/Blå/Svart",
+  "Stuntsparkcykel Versatyl Bloody Mary V2 Pro, Svart",
+  "Stuntsparkcykel Versatyl Cosmopolitan V2 Pro, Neochrome",
+  "Trick scooter SOKE PRO black-grey-turquoise",
+  "Tricksparkcykel SOKE EVO, Blå",
+  "Tricksparkcykel SOKE EVO, Guld",
+  "Tricksparkcykel SOKE EVO, Neochromic",
+  "Tricksparkcykel SOKE EVO, Svart/Blå",
+  "Tricksparkcykel SOKE EVO, Svart/Grön",
+  "Tricksparkcykel SOKE EVO, Svart/Lila",
+  "Tricksparkcykel SOKE EVO, Svart/Neochrome",
+  "Tricksparkcykel SOKE EVO, Svart/Röd",
+  "Tricksparkcykel SOKE EVO, svart",
+  "Tricksparkcykel SOKE XTR, Rainbow",
+  "Tricksparkcykel Union Aero M Scooter Black",
+  "Tricksparkcykel Union Aero M Scooter Black/Raw",
+  "Tricksparkcykel Union Aero S Scooter Black/Raw",
+  "Tricksparkcykel Union Aero S Svart",
+  "Tricksparkcykel Versatyl Bloody Mary V2 Pro Scooter, svart-orange",
+  "Tricksparkcykel Versatyl S2S Edition Pro",
+  "Trikitõukeratas Ethic Pandora Complete Pro Scooter L Black",
+  "Trikssparkcykel Ethic Pandora Complete Pro Scooter M Röd",
+  "VERSATYL Cosmopolitan V2 Pro Scooter, Blå/Svart"
+ ]
+}

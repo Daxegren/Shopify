@@ -1,0 +1,273 @@
+{
+ "handle": "elcyklar",
+ "id": "gid://shopify/Collection/561573069066",
+ "titel": "Elcykel",
+ "regel": [
+  [
+   "TAG",
+   "EQUALS",
+   "Elcyklar"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "Elcykel"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "electric bike"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "e-bike"
+  ]
+ ],
+ "huvud_regex": "elcykel|el-lastcykel",
+ "antal_i_kollektionen": 292,
+ "antal_koopbara_alla": 84,
+ "antal_koopbara": 78,
+ "antal_ovriga_koopbara": 6,
+ "exempel_ovriga": [
+  "Cykelhjälm Limar Delta, Matt Electric Blue",
+  "Hjälm LAZER Cruizer, Matt Mörkgrå (för elcyklar)",
+  "Elektrisk Sparkcykel Razor Electric Tekno Scooter",
+  "Skydd för elcykelns mittmotor Basil Mid Engine Cover, svart",
+  "Baklykta AXA Juno E-Bike, 6–12 V, 80 mm",
+  "Baklykta AXA Juno E-Bike, 6–12 V, 50 mm"
+ ],
+ "ovriga_titlar": [
+  "Baklykta AXA Juno E-Bike, 6–12 V, 50 mm",
+  "Baklykta AXA Juno E-Bike, 6–12 V, 80 mm",
+  "Cykelhjälm Limar Delta, Matt Electric Blue",
+  "Elektrisk Sparkcykel Razor Electric Tekno Scooter",
+  "Hjälm LAZER Cruizer, Matt Mörkgrå (för elcyklar)",
+  "Skydd för elcykelns mittmotor Basil Mid Engine Cover, svart"
+ ],
+ "ovriga_med_pris": [
+  [
+   "Baklykta AXA Juno E-Bike, 6–12 V, 50 mm",
+   179.0
+  ],
+  [
+   "Baklykta AXA Juno E-Bike, 6–12 V, 80 mm",
+   179.0
+  ],
+  [
+   "Cykelhjälm Limar Delta, Matt Electric Blue",
+   1939.0
+  ],
+  [
+   "Elektrisk Sparkcykel Razor Electric Tekno Scooter",
+   4119.0
+  ],
+  [
+   "Hjälm LAZER Cruizer, Matt Mörkgrå (för elcyklar)",
+   2539.0
+  ],
+  [
+   "Skydd för elcykelns mittmotor Basil Mid Engine Cover, svart",
+   409.0
+  ]
+ ],
+ "marken": [
+  [
+   "TENWAYS",
+   25
+  ],
+  [
+   "ADO",
+   17
+  ],
+  [
+   "Giant",
+   11
+  ],
+  [
+   "Fiido",
+   6
+  ],
+  [
+   "Engwe",
+   3
+  ],
+  [
+   "Cargobike of Sweden",
+   3
+  ],
+  [
+   "Romet",
+   2
+  ],
+  [
+   "COAST",
+   2
+  ],
+  [
+   "Amladcykler",
+   2
+  ],
+  [
+   "Velomarket",
+   1
+  ],
+  [
+   "Vogue Bike",
+   1
+  ],
+  [
+   "TOTEM",
+   1
+  ],
+  [
+   "Victoria",
+   1
+  ],
+  [
+   "Italwin",
+   1
+  ],
+  [
+   "Momentum",
+   1
+  ],
+  [
+   "Cangoo",
+   1
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "elcykel",
+   53
+  ],
+  [
+   "hopfällbar",
+   13
+  ],
+  [
+   "el-lastcykel",
+   12
+  ]
+ ],
+ "pris_min": 13829.0,
+ "pris_max": 103769.0,
+ "pris_median": 33849.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [
+  [
+   "Elcykel Totem XC921, Grå",
+   13829.0
+  ],
+  [
+   "Elcykel Fiido C11 Pro, Grön",
+   21379.0
+  ],
+  [
+   "Elcykel Fiido C11, Emerald Green",
+   21379.0
+  ],
+  [
+   "Hopfällbar Elcykel ADO A20S Air, 20 tum, Grå",
+   22049.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Elcykel Giant Stormguard E+ 2, Good Grey",
+   103769.0
+  ],
+  [
+   "El-lastcykel Cargobike of Sweden Delight",
+   79309.0
+  ],
+  [
+   "El-lastcykel Cangoo Buzz",
+   70629.0
+  ]
+ ],
+ "alla_titlar": [
+  "El-lastcykel Amladcykler Deluxe",
+  "El-lastcykel Amladcykler Ultimate Harmony",
+  "El-lastcykel Batavus Fier 3",
+  "El-lastcykel Cangoo Buzz",
+  "El-lastcykel Cargobike of Sweden Classic",
+  "El-lastcykel Cargobike of Sweden Delight",
+  "El-lastcykel Cargobike of Sweden Flex",
+  "El-lastcykel Fiido T2 Longtail Cargo, Grå",
+  "El-lastcykel Fiido T2 Longtail Cargo, Skogsgrön",
+  "El-lastcykel Momentum PakYak E+, Svart",
+  "El-lastcykel TENWAYS Longtail DUO",
+  "El-lastcykel Vogue Avenger, Svart",
+  "Elcykel ADO Air 28 PRO, Grå",
+  "Elcykel ADO Air 28 PRO, Ljusgul",
+  "Elcykel ADO Air 28 Ultra, Grå",
+  "Elcykel ADO Air 28 Ultra, Latte",
+  "Elcykel ADO Air 28, 28 tum, Grå",
+  "Elcykel ADO Air 30 Pro, Forest Green",
+  "Elcykel ADO Air 30 Ultra, 700x40c, Meteorgrå",
+  "Elcykel ADO Air One Pro, Grå",
+  "Elcykel ADO Air One Ultra, Grå",
+  "Elcykel Engwe E26",
+  "Elcykel Engwe E26 ST, Svart",
+  "Elcykel Engwe E26, Svart",
+  "Elcykel Fiido C11 Pro, Grön",
+  "Elcykel Fiido C11, Emerald Green",
+  "Elcykel Fiido Titan, Grå",
+  "Elcykel Giant Explore E+ 4 GTS, Hematite",
+  "Elcykel Giant Fathom E+ 2, 29 tum, Gunmetalsvart",
+  "Elcykel Giant Fathom E+ 2, 29 tum, Sun Beam",
+  "Elcykel Giant Roam E+ STA, 28 tum",
+  "Elcykel Giant Stormguard E+ 2, Good Grey",
+  "Elcykel Giant Talon E+ 2, Metallic Blue",
+  "Elcykel Giant Talon E+ 3, 29 tum, Gunmetalsvart",
+  "Elcykel Giant Talon E+ EX, 29 tum, Metallicmarinblå",
+  "Elcykel Giant Talon E+ storlek M, 29 tum, Asphalt Green",
+  "Elcykel Giant Talon E+, 29 tum, Asphalt Green",
+  "Elcykel Giant Talon E+, 29 tum, Electron Blue",
+  "Elcykel Romet ProEco Wave AN 1.0 R, Grafit",
+  "Elcykel TENWAYS CGO800 Plus, Midnight Black",
+  "Elcykel Tenways AGO T, Pärlvit",
+  "Elcykel Tenways AGO T, Svart",
+  "Elcykel Tenways AGO X 29 tum, Gradient Silver",
+  "Elcykel Tenways AGO X, 29 tum, Midnight Black",
+  "Elcykel Tenways Ago Air, Midnight Black",
+  "Elcykel Tenways Ago Air, Velvet Red",
+  "Elcykel Tenways Ago Performance, 29 tum, Mineral Blue",
+  "Elcykel Tenways Ago Performance, 29 tum, Valnötsbrun",
+  "Elcykel Tenways CGO Compact",
+  "Elcykel Tenways CGO009, Djungelgrön",
+  "Elcykel Tenways CGO009, Ice Blue",
+  "Elcykel Tenways CGO009, Midnight Black",
+  "Elcykel Tenways CGO600 Pro, Avocado Green",
+  "Elcykel Tenways CGO600 Pro, Himmelsblå",
+  "Elcykel Tenways CGO600 Pro, Ljusgrå",
+  "Elcykel Tenways CGO600 Pro, Midnight Black",
+  "Elcykel Tenways CGO600 Pro, Mintgrön",
+  "Elcykel Tenways CGO600 Pro, Pebble Grey",
+  "Elcykel Tenways CGO600 Pro, Willow Mist",
+  "Elcykel Tenways CGO800S, Himmelsblå",
+  "Elcykel Tenways CGO800S, Midnight Black",
+  "Elcykel Tenways CGO800S, Pebble Grey",
+  "Elcykel Tenways CGO800S, Wild Berry",
+  "Elcykel Totem XC921, Grå",
+  "Elcykel Victoria eTrekking 4.7, Diamond 28\" brun",
+  "Hopfällbar Elcykel ADO A20 Carbon, 20 tum, Amble Latte",
+  "Hopfällbar Elcykel ADO A20 Carbon, 20 tum, Svart",
+  "Hopfällbar Elcykel ADO A20S Air, 20 tum, Blå",
+  "Hopfällbar Elcykel ADO A20S Air, 20 tum, Grå",
+  "Hopfällbar Elcykel ADO Air 20 PRO, Blå",
+  "Hopfällbar Elcykel ADO Air 20 Ultra (2026), Grå",
+  "Hopfällbar Elcykel ADO Air Carbon PRO, Svart",
+  "Hopfällbar Elcykel ADO Air Carbon PRO, Vit",
+  "Hopfällbar Elcykel Coast Vybe Light, Dammblå",
+  "Hopfällbar Elcykel Fiido M1 Pro, Grön",
+  "Hopfällbar Elcykel Italwin K2 XL, Vit",
+  "Hopfällbar Elcykel Romet E-Wigry 1.0, 20 tum, Mörkgrå",
+  "Hopfällbar elcykel Coast Jifo Light, Honey"
+ ]
+}
