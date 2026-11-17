@@ -1,0 +1,12 @@
+[
+ {
+  "id": "10472209416458",
+  "nr": 50901,
+  "skäl": "R3: live-titeln anger färg \"red\" men källans specifikation anger \"Färg: Svart\" (motsägelse). Dessutom handledsskydd (skyddsprodukt) vars källa bygger på stöd-/skyddspåståenden."
+ },
+ {
+  "id": "10472251752714",
+  "nr": 50902,
+  "skäl": "Tunn källa (R3/v1.12): källan är en enda marknadsföringsmening utan entydiga fakta (\"passar nästan alla händer\" motsäger titelns XL), ingen EAN. Webbsökning på artikelnumret 928977 gav bara andra storlekar (928973, 928975) hos återförsäljare, inget entydigt för XL."
+ }
+]
