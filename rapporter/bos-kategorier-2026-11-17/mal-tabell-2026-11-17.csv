@@ -1,0 +1,44 @@
+beslut,källa,mål,grupp,källa_visningar,källa_position,mål_visningar,mål_position,motivering,källan_finns,källan_publicerad_webbshop,målet_finns,målet_publicerat_webbshop,mål_köpbara,källans_köpbara_finns_i_målet,källans_köpbara
+körklar (väntar på avpublicering),pwo-energipulver,pre-workout-pwo,pwo,≤235 (utanför topp 150),,4102,67.46,Samma ämne. Målet har 4 102 visningar; källan ligger utanför topp 150 (högst 235).,True,True,True,True,7,True,4
+körklar (väntar på avpublicering),benmaskiner,traningsmaskin,ben,1286,33.58,3192,54.62,Överordnad kollektion med flest visningar i gruppen (3 192).,True,True,True,True,8,True,0
+körklar (väntar på avpublicering),benspark,traningsmaskin,ben,348,29.5,3192,54.62,Samma som benmaskiner.,True,True,True,True,8,True,0
+körklar (väntar på avpublicering),bankpresspaket,traningsbank,bänk,841,18.93,3432,59.08,Bänkpress hör till träningsbänk (3 432 visningar).,True,True,True,True,20,True,0
+körklar (väntar på avpublicering),situps-bank,traningsbank,bänk,613,34.76,3432,59.08,Överordnad kollektion (3 432 visningar).,True,True,True,True,20,True,0
+körklar (väntar på avpublicering),stallbar-traningsbank,traningsbank,bänk,308,45.02,3432,59.08,Överordnad kollektion (3 432 visningar).,True,True,True,True,20,True,0
+körklar (väntar på avpublicering),vevparti-cykel,cykelkedjor,cykel-drivlina,411,54.5,1443,67.26,Drivlina; målet har flest visningar bland närliggande (1 443).,True,True,True,True,35,True,0
+körklar (väntar på avpublicering),klingor-och-kassett,cykelkedjor,cykel-drivlina,373,26.17,1443,67.26,Drivlina; målet har flest visningar bland närliggande (1 443).,True,True,True,True,35,True,0
+körklar (väntar på avpublicering),cykeldatorer,cykeltillbehor,cykel-delar,381,69.51,1193,57.1,Överordnad cykelkollektion (1 193 visningar).,True,True,True,True,9,True,0
+körklar (väntar på avpublicering),bromsar-cykel,cykeltillbehor,cykel-delar,328,41.31,1193,57.1,Överordnad cykelkollektion (1 193 visningar).,True,True,True,True,9,True,0
+körklar (väntar på avpublicering),nav-cykel,cykeltillbehor,cykel-delar,326,31.51,1193,57.1,Överordnad cykelkollektion (1 193 visningar).,True,True,True,True,9,True,0
+körklar (väntar på avpublicering),kettlebellpaket,kettlebell,kettlebell,397,40.87,1884,66.38,Överordnad kollektion (1 884 visningar).,True,True,True,True,38,True,0
+körklar (väntar på avpublicering),skivstang-50-mm,skivstang,skivstång,263,32.6,387,63.38,"Överordnad kollektion (387 visningar, källan 263).",True,True,True,True,24,True,0
+körklar (väntar på avpublicering),skivstangspaket,skivstangsset,överlapp,1209,26.45,1232,38.52,Överlappar skivstangsset (samma produkter); skivstangsset starkast (1 232 mot 1 209).,True,True,True,True,9,True,9
+körklar (väntar på avpublicering),cargobikes,ladcyklar,överlapp,321,39.86,1507,48.0,Samma taggregel och samma 72 produkter; ladcyklar starkast (1 507 mot 321).,True,True,True,True,23,True,23
+körklar (väntar på avpublicering),aminosyror,aminosyror-1,överlapp,≤235 (utanför topp 150),,258,60.93,Samma produkter; aminosyror-1 starkast (258 mot högst 235).,True,True,True,True,9,True,9
+körklar (väntar på avpublicering),proteinpulver-1,proteinpulver,överlapp,≤235 (utanför topp 150),,1197,44.23,Samma produkter; proteinpulver starkast (1 197 mot högst 235).,True,True,True,True,14,True,14
+körklar (väntar på avpublicering),solglasogon,cykelsolglasogon,överlapp,≤235 (utanför topp 150),,2526,69.95,Samma 20 produkter; cykelsolglasogon starkast (2 526 mot högst 235).,True,True,True,True,19,True,19
+väntar på Davids ja,tranings-t-shirt-dam,sportutrustning,,2288,49.67,296,42.76,"Inga matchande produkter finns (4 T-shirt-produkter, alla utkast, lager 0, Gorilla Sports). Föreslaget mål är en svag matchning.",True,True,True,True,30,,0
+väntar på Davids ja,tranings-t-shirt-herr,sportutrustning,,1905,48.06,296,42.76,Som tranings-t-shirt-dam.,True,True,True,True,30,,0
+väntar på Davids ja,traningsbyxor-dam,sportutrustning,,1453,53.33,296,42.76,Klädkollektion; inget klädsortiment finns. Föreslaget mål är en svag matchning.,True,True,True,True,30,,0
+väntar på Davids ja,traningsbyxor-herr,sportutrustning,,1226,53.72,296,42.76,Som traningsbyxor-dam.,True,True,True,True,30,,0
+väntar på Davids ja,traningstroja-dam,sportutrustning,,1220,57.15,296,42.76,Som traningsbyxor-dam.,True,True,True,True,30,,0
+väntar på Davids ja,traningstroja-herr,sportutrustning,,759,47.13,296,42.76,Som traningsbyxor-dam.,True,True,True,True,30,,0
+väntar på Davids ja,traningsshorts-dam,sportutrustning,,680,60.52,296,42.76,Som traningsbyxor-dam.,True,True,True,True,30,,0
+väntar på Davids ja,cykelreservdelar,cykeltillbehor,,1780,45.2,1193,57.1,Föreslaget mål har färre visningar (1 193) än källan (1 780).,True,True,True,True,9,,0
+väntar på Davids ja,slam-ball,traningsboll,,486,48.39,334,45.94,Föreslaget mål har färre visningar (334) än källan (486).,True,True,True,True,17,,0
+väntar på Davids ja,barnskidor,skidor,,534,59.5,467,46.18,Föreslaget mål har färre visningar (467) än källan (534). Dessutom pekar en gammal omdirigering (konditionsutrustning-kopia) hit.,True,True,True,True,28,,0
+väntar på Davids ja,trap-bar-hex-bar,skivstang,,723,45.57,387,63.38,Föreslaget mål har färre visningar (387) än källan (723).,True,True,True,True,24,,0
+väntar på Davids ja,barncyklar-8-12-ar-24,barncyklar,,332,55.86,≤235 (utanför topp 150),,Målet saknas i topp 150 (högst 235) medan källan har 332 visningar.,True,True,True,True,123,,0
+väntar på Davids ja,multigymspaket,traningsmaskin,,1564,56.39,3192,54.62,Har nu 5 aktiva produkter (slutsålda). Sidan är inte tom.,True,True,True,True,8,,0
+väntar på Davids ja,hantelset,hantlar,,471,43.0,411,48.84,Har 5 aktiva produkter (slutsålda). Sidan är inte tom.,True,True,True,True,64,,0
+väntar på Davids ja,ribbstol,hemmagym,,334,45.72,516,59.5,Har 1 aktiv produkt (slutsåld) och svag matchning.,True,True,True,True,46,,0
+väntar på Davids ja,vibrationsplatts,konditionsutrustning,,659,40.22,280,57.9,Har 2 aktiva produkter (slutsålda) och svag matchning.,True,True,True,True,297,,0
+väntar på Davids ja,kettler,,,579,12.85,,,"Position 12,9 med 9 klick; inget lämpligt mål; märkessidor väntar.",True,True,,,,,0
+väntar på Davids ja,christopeit-sport-germany,,,455,11.94,,,"Ska inte omdirigeras; samlingsregeln är fel (märke), position 11,9 med 4 klick.",True,True,,,,,0
+väntar på Davids ja,koner-hoga-och-laga,traningstillbehor,,248,45.81,≤235 (utanför topp 150),,Manuell tom kollektion; svag matchning.,True,True,True,True,8,,0
+väntar på Davids ja,produkter-for-crossfit,traningsutrustning-for-crossfit-kop-crossfit-utrustning,,235,50.36,≤235 (utanför topp 150),,Målet är inte publicerat (0 kanaler).,True,True,True,False,131,,0
+väntar på Davids ja,traningsutrustning-for-viktnedgang,konditionsutrustning,,≤235 (utanför topp 150),,280,57.9,Ny sida med egen text (ändrad 2026-11-16) och 882 produkter; annan sökavsikt än målet.,True,True,True,True,297,,277
+väntar på Davids ja,hopfallbar-gymutrustning,hopfallbara-cyklar,,≤235 (utanför topp 150),,1364,49.87,Annan sökavsikt (gym mot cykel); alla aktiva produkter är idag cyklar.,True,True,True,True,9,,9
+väntar på Davids ja,viktpaket,gympaket-1,,≤235 (utanför topp 150),,≤235 (utanför topp 150),,Varken källa eller mål finns i topp 150; starkaste sida kan inte avgöras utan gsc_export.,True,True,True,True,35,,35
+väntar på Davids ja,varumarke,all,,≤235 (utanför topp 150),,≤235 (utanför topp 150),,"Systemsida (varumärkesindex, 5 030 produkter); slås inte ihop utan beslut.",True,True,True,True,161,,161
+väntar på Davids ja,alla-produkter-best-of-sports,all,,≤235 (utanför topp 150),,≤235 (utanför topp 150),,Systemsida (5 030 produkter); slås inte ihop utan beslut.,True,True,True,True,161,,161
