@@ -1,0 +1,10 @@
+{
+  "tagen": "2026-11-17 före regelrättning (läsning via Admin API och Shopify MCP)",
+  "kollektion": {"id": "gid://shopify/Collection/561578344714", "handle": "christopeit-sport-germany", "title": "Christopeit Sport Germany", "sortOrder": "BEST_SELLING"},
+  "regel_fore": {"source": "gid://shopify/CollectionConditionsSource/24987271434", "matchType": "ALL",
+    "condition": {"id": "gid://shopify/CollectionSourceInclusionConditionProductVendor/12555649290", "column": "VENDOR", "relation": "EQUALS", "values": ["Christopeit Sport Germany"]}},
+  "medlemmar_fore": 0,
+  "produkter_med_marke_Christopeit": {"alla": 69, "aktiva": 68, "aktiva_med_lager": 66, "med_price-change-job-active": 51},
+  "avsedd_regel_efter": {"column": "VENDOR", "relation": "EQUALS", "values": ["Christopeit"]},
+  "angra": "Sätt regelns värde tillbaka till 'Christopeit Sport Germany' (collectionUpdate, sourcesToUpdate, productVendor values) med samma condition-id."
+}
