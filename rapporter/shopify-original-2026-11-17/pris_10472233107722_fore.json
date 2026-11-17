@@ -1,0 +1,38 @@
+{
+ "tidpunkt_utc": "2026-11-17T14:32:30.167765Z",
+ "produkt": {
+  "id": "gid://shopify/Product/10472233107722",
+  "legacyResourceId": "10472233107722",
+  "title": "Vikbart Lås AXA Fold Lite 80 i Legerat Stål, 80 cm",
+  "status": "ACTIVE",
+  "handle": "vikbart-l-s-axa-fold-lite-80-59840895sc",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "price-change-job-active",
+   "sale",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket",
+   "Vikbar cykel"
+  ],
+  "updatedAt": "2026-11-13T11:18:33Z",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52848348627210",
+     "sku": "59840895SC",
+     "price": "4805.10",
+     "compareAtPrice": "5339.00",
+     "inventoryQuantity": 1,
+     "inventoryItem": {
+      "unitCost": {
+       "amount": "323.8",
+       "currencyCode": "SEK"
+      }
+     }
+    }
+   ]
+  }
+ }
+}
