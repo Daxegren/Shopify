@@ -1,0 +1,18 @@
+{
+  "_om_filen": "FÖRSLAG, ingen profil. Tekniska fält för Alpha Zoo som Claude föreslår 2026-11-12 så att butikens profil kan sättas ihop så fort David svarat på A1–A10 i shopify-sync/docs/ny-butik-checklista.md. Filen läses inte av något skript. Inget här är ett beslut; butiksprofil-alphazoo.json är oförändrad och är den som gäller. När David godkänt flyttas fälten dit tillsammans med Davids svar (myshopify, standardblock_krav, marken m.fl.).",
+  "butiksnamn": "Alpha Zoo",
+  "api": {
+    "klient_id_var": "SHOPIFY_CLIENT_ID_ALPHAZOO",
+    "klient_hemlighet_var": "SHOPIFY_CLIENT_SECRET_ALPHAZOO"
+  },
+  "gransvarden": { "seo_suffix": " – Alpha Zoo" },
+  "klartagg": "texter-klara",
+  "sparrlista": "shopify-sync/config/sparrlista-alphazoo.json",
+  "arbetskatalog": "rapporter/alphazoo/skriv",
+  "granskningskatalog": "rapporter/alphazoo/granskning",
+  "filprefix": ["az"],
+  "statusfil": "shopify-sync/status/alphazoo-textutrullning.md",
+  "oppna_fragor": "shopify-sync/status/oppna_fragor-alphazoo.json",
+  "statusgrupp": "Batcherna",
+  "_saknas_fran_david": ["myshopify (A2)", "butiksnamnets skrivning (A10)", "SEO-suffix (A9)", "standardblock_krav (A7)", "marken (efter inventering)", "klar_for_skrivning"]
+}

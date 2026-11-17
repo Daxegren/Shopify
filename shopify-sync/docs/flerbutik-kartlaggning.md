@@ -56,3 +56,39 @@ Alla skripten i tabellen ovan tar `--profil <sökväg>`. Utan argument används 
 2. David: tillåt butikens `*.myshopify.com` i molnmiljön, skapa appen, lägg klient-id och hemlighet som miljövariabler med de namn som står i profilen (aldrig i chatten).
 3. Kör `python3 -I shopify-sync/scripts/status_uppdatera.py --profil shopify-sync/config/butiksprofil-alphazoo.json` och `shopify_meta_rensning.py ... --profil ...` (dry-run först; skriptet verifierar att API-svaret kommer från profilens butik).
 4. Före skrivning med `shopify_skriv_texter.py`: `--profil` måste först läggas till där (se tabellen ovan).
+
+
+## 4. Tillägg 2026-11-12: de fyra återstående skripten och skrivfilskontrollen är nu profilstyrda
+
+Det här avsnittet är ett tillägg. Tabellen "Hårdkodat i skript utanför uppdraget" och punkt 4 i avsnitt 3 ovan beskriver läget före 2026-11-12 och är **inaktuella sedan 2026-11-12, se ändringsloggen**; texten är orörd.
+
+### Butiksoberoende nu (`--profil <sökväg>`, standard: BEST OF SPORTS-profilen)
+
+| Skript | Vad som kommer ur profilen | Särskilt |
+|---|---|---|
+| `shopify_skriv_texter.py` | butik och nyckelnamn (klient), spärrlista, klartagg | Standardkatalogen för före-/resultatfiler blir `rapporter/shopify-original-<datum>-<butik>` för en annan butik, så att inget skrivs över BOS-filer. Utan argument oförändrad |
+| `arkivera_dubbletter.py` | butik och nyckelnamn, klartagg, ny valfri `pilotlista` | En annan butik har ingen pilotlista om profilen inte anger en (BOS pilotfil läses aldrig för en annan butik). Samma katalogregel som ovan |
+| `nattkontroll.py` | butik och nyckelnamn, klartagg, `arbetskatalog` (skrivfilerna) | En annan butik får egen rapport- och baslinjekatalog `rapporter/nattkontroll/<butik>/` och delar aldrig baslinje med BOS |
+| `verifiera_skrivna.py` | butik och nyckelnamn, klartagg | |
+| `skrivfil_kontroll.py` | butiksnamn (regeln om utfyllnaden "Finns hos <butik>."), standardblockets krav, märken, SEO-suffix | Se nedan |
+
+Alla fyra skripten skapar sin klient med `klient_fran_profil` och kontrollerar butiken med `verifiera_butik` mot profilens egen adress. `ShopifyKlient()` utan profil används inte längre i något av dem. Profilfältet `pilotlista` är nytt och valfritt (BOS fallback: den befintliga pilotfilen; annan butik: ingen). Hjälpfunktionerna `butiksslug` och `las_ra_profil` finns i `butiksprofil.py`.
+
+### Skrivfilskontrollen och profilen
+
+- BOS-profilen (eller inget argument): märken, `marken_varning_bara` och `standardblock_krav` läses ur `butiksprofil-bestofsports.json` som förut och med samma reservvärden. Utskrift och utgångskod är byte för byte lika som före ändringen (bevis i beslutsfilen `rapporter/beslut-2026-11-12-3.md`).
+- En annan butiks profil: `standardblock_krav` är **obligatoriskt** (saknas det stoppas körningen); `marken` och `marken_varning_bara` blir tomma listor om de utelämnas (de ärvs inte från BOS); butiksnamnet i utfyllnadsregeln är profilens `butiksnamn`; en saknad profilfil är ett fel.
+- Regeltesterna (`regeltester.py`) läser märken ur samma profil. För en annan butik används inte `regeltester.json` (BOS-konfigurationen med bland annat extra märken och butiksord) utan neutrala standardvärden, om inte profilen pekar ut en egen konfiguration med det nya valfria fältet `regeltester_cfg`. Varningarna för BOS är oförändrade.
+- SEO-suffixet läses in ur profilen men ingen regel i kontrollen använder det ännu (SEO-titelns längd kontrolleras som förut, 43 tecken). Det är inte en ändring i beteendet.
+
+### Tester
+
+`python3 -I shopify-sync/scripts/test_flerbutik_skript.py` (22 tester, utan nätverk): falska klienter ersätter allt som pratar med Shopify, och `ShopifyKlient()` utan profil får inte anropas. Testerna täcker profilens butik, nyckelnamn, klartagg, spärrlista, katalogerna, pilotlistan, felaktiga profiler (stoppar före första anrop) och skrivfilskontrollens profilval.
+
+### Vad som återstår innan en andra butik skrivs
+
+1. En ifylld profil och spärrlista för butiken (Alpha Zoo: `butiksprofil-alphazoo.json` är ett ännu ofyllt utkast med platshållare och avvisas av skripten med fel tills adress, butiksnamn, nyckelnamn, kataloger, prefix och statusfil är ifyllda; kontrollerat 2026-11-12 med `skrivfil_kontroll.py --profil`) och Davids åtgärder för åtkomst (adress tillåten, app, miljövariabler).
+2. `regeltester.json` är fortfarande BOS-specifik; en annan butik behöver en egen konfiguration (`regeltester_cfg`) om regeltesternas butiksord och extra märken ska gälla den.
+3. Regelboken (`regler-v1.md`) och nästan alla kontrollers språk- och branschregler är gemensamma och byggda på BOS-erfarenhet; de ska läsas av David innan de används för en butik med annan bransch (djur, underkläder).
+4. Hjälptexter och dokumentation i de äldre skripten (audit, rendera, samtycke m.fl.) nämner BOS i exempel; ingen funktion.
+5. Inget av ovanstående skript har körts mot någon butik i den här ändringen. Första körningen mot en andra butik ska vara `--dry-run`.

@@ -36,7 +36,8 @@ def las_cfg(sokvag=CFG_SOKVAG):
     return cfg
 
 
-def las_marken(sokvag=PROFIL_SOKVAG):
+def las_marken(sokvag=None):
+    sokvag = sokvag or PROFIL_SOKVAG  # skrivfil_kontroll.py sätter PROFIL_SOKVAG när en annan butiksprofil används
     if sokvag and os.path.exists(sokvag):
         with open(sokvag, encoding='utf-8') as fh:
             return json.load(fh).get('marken', [])

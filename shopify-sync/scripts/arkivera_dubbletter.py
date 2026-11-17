@@ -9,7 +9,8 @@ har ett gemensamt artikelnummer (SKU) och samma normaliserade titel-kärna. Kand
   - kandidaten har inget lager (totalInventory == 0) eller högst lika mycket som... (annars hoppas den över)
   - kandidaten är inte pilotprodukt
 Lägen: --dry-run (standard, skriver inget) och --kor (arkiverar, sparar före-fil, läser tillbaka).
-Användning: arkivera_dubbletter.py [--dry-run | --kor] [--lista FIL] [--ut KATALOG]
+Användning: arkivera_dubbletter.py [--dry-run | --kor] [--lista FIL] [--ut KATALOG] [--profil BUTIKSPROFIL.json]
+Butik, miljövariabelnamn, klartagg och pilotlista läses ur butiksprofilen (standard: BEST OF SPORTS).
 """
 import datetime, json, os, re, sys, csv
 
@@ -17,6 +18,7 @@ HAR = os.path.dirname(os.path.abspath(__file__))
 ROT = os.path.abspath(os.path.join(HAR, '..', '..'))
 sys.path.insert(0, HAR)
 import shopify_api as api  # noqa: E402
+import butiksprofil  # noqa: E402
 
 Q = '''query($c:String){products(first:100,after:$c,query:"status:active"){pageInfo{hasNextPage endCursor}
  nodes{id title handle createdAt tags status totalInventory mediaCount{count}
@@ -43,15 +45,15 @@ def skus(p):
     return {v['sku'] for v in p['variants']['nodes'] if v['sku']}
 
 
-def hitta(produkter, pilot):
-    klara = [p for p in produkter if 'texter-klara' in p['tags']]
+def hitta(produkter, pilot, klartagg='texter-klara'):
+    klara = [p for p in produkter if klartagg in p['tags']]
     per_sku = {}
     for p in klara:
         for s in skus(p):
             per_sku.setdefault(s, []).append(p)
     ark, hoppar = [], []
     for p in produkter:
-        if 'texter-klara' in p['tags'] or api.sifferid(p['id']) in pilot:
+        if klartagg in p['tags'] or api.sifferid(p['id']) in pilot:
             continue
         ss = skus(p)
         if not ss:
@@ -77,16 +79,18 @@ def hitta(produkter, pilot):
 
 
 def main(argv=None):
-    a = list(argv if argv is not None else sys.argv[1:])
+    profil, a = butiksprofil.profil_fran_argv(argv if argv is not None else sys.argv[1:])
     kor = '--kor' in a
-    ut = os.path.join(ROT, 'rapporter', f'shopify-original-{datetime.date.today().isoformat()}')
+    ut = os.path.join(ROT, 'rapporter', f'shopify-original-{datetime.date.today().isoformat()}'
+                      + ('' if profil['ar_standardprofil'] else '-' + butiksprofil.butiksslug(profil)))
     if '--ut' in a:
         i = a.index('--ut'); ut = a[i + 1]
-    klient = api.ShopifyKlient()
+    klient = api.klient_fran_profil(profil)
     print('Butik:', api.verifiera_butik(klient))
-    pilot = {r['produkt_id'] for r in csv.DictReader(open(os.path.join(ROT, 'rapporter/bestofsports-pilot-20-produkter-2026-10-25.csv'), encoding='utf-8'))}
+    pilotfil = butiksprofil.i_rot(profil, 'pilotlista')
+    pilot = {r['produkt_id'] for r in csv.DictReader(open(pilotfil, encoding='utf-8'))} if pilotfil else set()
     produkter = hamta_alla(klient)
-    ark, hoppar = hitta(produkter, pilot)
+    ark, hoppar = hitta(produkter, pilot, profil['klartagg'])
     if '--lista' in a:  # begränsa till exakt de rader David godkänt
         gk = {(r['arkiveras'], r['behaller']) for r in json.load(open(a[a.index('--lista') + 1], encoding='utf-8'))}
         ark = [(p, k, s) for p, k, s in ark if (api.sifferid(p['id']), api.sifferid(k['id'])) in gk]
@@ -127,5 +131,5 @@ def main(argv=None):
 if __name__ == '__main__':
     try:
         sys.exit(main())
-    except api.ShopifyFel as e:
+    except (api.ShopifyFel, butiksprofil.ProfilFel) as e:
         print('FEL:', api.maska(e)); sys.exit(1)
