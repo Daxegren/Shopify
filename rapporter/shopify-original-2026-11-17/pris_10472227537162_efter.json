@@ -1,0 +1,34 @@
+{
+ "produkt": {
+  "id": "gid://shopify/Product/10472227537162",
+  "legacyResourceId": "10472227537162",
+  "title": "Dricksflaska Tunturi Centuri Deluxe, 700 ml",
+  "status": "ACTIVE",
+  "handle": "dricksflaska-tunturi-centuri-water-bottle-deluxe-22ctste148-1",
+  "tags": [
+   "Fell",
+   "Flaska & Hållare",
+   "Flaskor och hållare",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52848242196746",
+     "sku": "22CTSTE148",
+     "title": "Default Title",
+     "price": "89.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 2,
+     "inventoryItem": {
+      "unitCost": {
+       "amount": "40.17",
+       "currencyCode": "SEK"
+      }
+     }
+    }
+   ]
+  }
+ }
+}

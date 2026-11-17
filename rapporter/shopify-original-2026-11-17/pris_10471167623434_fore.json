@@ -1,0 +1,35 @@
+{
+ "tidpunkt_utc": "2026-11-17T19:51:26.747466+00:00",
+ "produkt": {
+  "id": "gid://shopify/Product/10471167623434",
+  "legacyResourceId": "10471167623434",
+  "title": "Vinylhantel Toorx, Röd, 2 kg",
+  "status": "ACTIVE",
+  "handle": "toorx-vinylhantel-r-d-2-kg-mv-2",
+  "tags": [
+   "Hantlar",
+   "Konditionsträning & Fitness",
+   "texter-klara",
+   "Toorx",
+   "Velomarket"
+  ],
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52845205291274",
+     "sku": "MV-2",
+     "title": "MV-2",
+     "price": "59.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 5,
+     "inventoryItem": {
+      "unitCost": {
+       "amount": "55.94",
+       "currencyCode": "SEK"
+      }
+     }
+    }
+   ]
+  }
+ }
+}
