@@ -1,0 +1,49 @@
+{
+ "lage": "--kanarie",
+ "priser_fore": {
+  "10411495555338": [
+   [
+    "gid://shopify/ProductVariant/52586736713994",
+    "369.00",
+    null
+   ]
+  ],
+  "10472323186954": [
+   [
+    "gid://shopify/ProductVariant/52848786931978",
+    "19.00",
+    null
+   ]
+  ],
+  "10588446589194": [
+   [
+    "gid://shopify/ProductVariant/53499258831114",
+    "439.00",
+    null
+   ]
+  ]
+ },
+ "priser_efter": {
+  "10411495555338": [
+   [
+    "gid://shopify/ProductVariant/52586736713994",
+    "369.00",
+    null
+   ]
+  ],
+  "10472323186954": [
+   [
+    "gid://shopify/ProductVariant/52848786931978",
+    "19.00",
+    null
+   ]
+  ],
+  "10588446589194": [
+   [
+    "gid://shopify/ProductVariant/53499258831114",
+    "439.00",
+    null
+   ]
+  ]
+ }
+}
