@@ -263,3 +263,7 @@ Appen Velomarket3 arkiverade 2026-11-06 kl. 03:22–03:23 ett femtiotal produkte
 ## 2026-11-17: två sessioner rättade samma produkter, och en taggspärr fanns bara i den andra sessionens chatt
 - **Vad hände:** medan jag byggde korrigeringar för 74 aktiva produkter skrev en parallell session (gren `claude/bos-status-10348-f2`) metabeskrivningar och leveranstidsmeningar på 39 produkter (13:50–13:51 UTC). 26 av mina 44 färdiga utkast var därför inaktuella; torrkörningens före-fil visade det, och jag skrev bara de 18 som var orörda. Den andra sessionen behandlar dessutom taggen `price-change-job-active` som "rörs inte"; den regeln står inte i repots dokument på min gren, och 4 av de 18 jag skrev bär taggen.
 - **Regel:** kontrollera `git fetch` och grenarnas senaste loggposter före en skrivomgång, och jämför före-filen med underlaget innan något skrivs (det gjordes här och räddade 26 produkter). Regler om taggar som låser produkter ska stå i `BESLUTSLOGG.md`/profilen, inte bara i en chatt; fråga David om `price-change-job-active` innan fler produkter med den taggen skrivs.
+
+## 2026-11-17: backtecken i en skal-heredoc körs som kommandon
+- **Vad hände:** ett tillägg till beslutsfilen skrevs med en oavgränsad heredoc som innehöll backtecken; skalet körde `price-change-job-active` och filnamnen som kommandon och stoppade in tomma strängar i filen. Upptäcktes vid kontroll av filens slut.
+- **Regel:** skriv text med backtecken via en citerad heredoc (`<<'E'`) eller med Write-verktyget, och läs filens slut efter varje tillägg.
