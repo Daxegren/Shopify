@@ -1,0 +1,227 @@
+[
+ {
+  "nr": 50101,
+  "id": "10411854004490",
+  "fil": "k_50b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "fästs med kardborreband på ram, sadel eller styre",
+    "efter": "fästs på cykelramen med kardborreband"
+   },
+   "html": [
+    {
+     "fore": "fästs med medföljande kardborreband på cykelns ram, sadel eller styre",
+     "efter": "fästs på cykelns ram med medföljande kardborreband"
+    },
+    {
+     "fore": "<li>Montering: Ram, sadel eller styre med kardborreband (ingår)</li>",
+     "efter": "<li>Montering: Ram, med kardborreband (ingår)</li>"
+    },
+    {
+     "fore": "<li>Yttre mått: 16 x 38 x 6 cm</li>\n",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Live ACTIVE, 18276, EAN 8715019182761, lager 6, ej 'På beställning'. Tillverkarens sida (basil.com/en/p/8715019182761/...) bekräftar artikelnummer, EAN, svart, 2,2 l, IPX3 och reflekterande logotyp. Den visar att väskan är en ramväska som sitter på ramen, antingen mot sadeln eller mot styret. Källans 'ram, sadel eller styre' är alltså en felöversättning (R2) och rättas till ram. Tillverkaren anger två olika mått (16 x 38 x 6 cm i texten, 5,5 x 36 x 8,5 cm i specifikationen). Måtten utelämnas därför (R2). 'Vattentät (IPX3)' står ordagrant i källan och återges en gång med 'enligt tillverkaren' (R5). Halkskydd, synlighet och 'hög kvalitet' är rätt utelämnade. Ingen dubblett: syskonen Navigator Storm S (ramväska, 0,8 l) och sadelväskan M (1,5 l) är andra artiklar."
+ },
+ {
+  "nr": 50102,
+  "id": "10471000047882",
+  "fil": "k_50b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "Spiderman-handskar i rött för barn, storlek S, ålder 4–6 år, omkrets 15 cm.",
+    "efter": "De röda Spiderman-handskarna är avsedda för barn i åldern 4–6 år (storlek S, omkrets 15 cm)."
+   }
+  },
+  "skal": "Live ACTIVE, 9060, EAN 5902308590601, lager 6, en variant. Texten är sanningsenlig. Barnfakta (storlek S, 4–6 år, omkrets 15 cm) står på en ren rad i källan. 'Justerbara manschetter' är den entydiga delen av en annars trasig rad (R2). Inre vaddering står i källan. Skyddspåståendet (stötar och repor) och 'Superman-stil' är rätt utelämnade. Avvisas inte: produkten är aktiv, och David beslutade 2026-11-08 att aktiva barnprodukter och produkter med tidigare skyddsspärr får faktatext utan skyddslöften. Handskar är inte personlig skyddsutrustning som hjälmar, och texten lovar inget skydd. Syskonet Disney Mickey-handskar (49401) skrevs på samma sätt. Rättning: metans första mening saknar verb (R11). Risk till David: leverantören marknadsför produkten som skydd. Vill David hålla barnprodukter med skyddsmarknadsföring utanför helt, ska 50102 i stället underkännas."
+ },
+ {
+  "nr": 50103,
+  "id": "10472224882954",
+  "fil": "k_50b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 18072, EAN 8715019180729, lager 4. Webbkoll hos tillverkaren (basil.com/en/city-double-bicycle-bag-grey-melee.html) visar att artikelnummer, EAN, grå (grey melee) och vattenavvisande polyester stämmer. Väskan rymmer 28 liter och kan utökas till 32 liter. Universal Bridge, förinstallerade remmar, DBS och MIK (köps separat) och reflexer på alla sidor stämmer också. 'Rymmer 28–32 liter' stämmer därmed. 'Vattenavvisande' står ordagrant och återges en gång. Lastgränsen 10 kg (5 kg per väska) finns på tillverkarens sida men behöver inte stå, eftersom en pakväska inte är en bärande del. Den trasiga raden '28,28 till 28,7 mm' är rätt utelämnad. Titelns typord är live-ordet (R7). Brun syskon 18373 är en annan färg och ingen dubblett. Valfritt: 'rymmer 28 liter och kan utökas till 32 liter' vore exaktare."
+ },
+ {
+  "nr": 50104,
+  "id": "10472239268106",
+  "fil": "k_50b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Styckväska",
+    "efter": "Styrväska"
+   },
+   "seo_title": {
+    "fore": "Styckväska",
+    "efter": "Styrväska"
+   },
+   "meta": {
+    "fore": "Styckväskan",
+    "efter": "Styrväskan"
+   },
+   "html": [
+    {
+     "fore": "<p>Styckväskan",
+     "efter": "<p>Styrväskan"
+    },
+    {
+     "fore": "<li>Typ: Styckväska</li>",
+     "efter": "<li>Typ: Styrväska</li>"
+    }
+   ]
+  },
+  "skal": "Live ACTIVE, PRBA0065, EAN 8717009419598, lager 1. Fakta stämmer med källan. Vattentät konstruktion återges en gång med 'enligt tillverkaren'. Synlighetslöftet och 'idealisk' är rätt utelämnade. Typordet 'Styckväska' finns inte på svenska. Det är en felstavning av styrväska, eftersom källan själv säger att väskan fästs på styret och styrröret. Butikens redan skrivna styrväskor heter 'Styrväska', bland annat 'Styrväska PRO Gravel Handlebar Bag, 8 l' (R7: butikens live-ord för samma typ). Rättningen byter alltså inte typ, den rättar en felstavning. Vill David behålla live-ordet ordagrant, godkänns utkastet utan rättning."
+ },
+ {
+  "nr": 50105,
+  "id": "10472267710730",
+  "fil": "k_50b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Hjul till sparkcykel Panda Spoked V2, 100 mm, krom",
+    "efter": "Sparkcykelhjul Panda Spoked V2, 100 mm, krom"
+   },
+   "seo_title": {
+    "fore": "Hjul till sparkcykel Panda Spoked V2",
+    "efter": "Sparkcykelhjul Panda Spoked V2 100 mm"
+   },
+   "meta": {
+    "fore": "Hjul till sparkcykel Panda Spoked V2 på 100 mm i krom.",
+    "efter": "Sparkcykelhjulet Panda Spoked V2 mäter 100 mm och är i krom."
+   },
+   "html": [
+    {
+     "fore": "<p>Hjulet Panda Spoked V2 till sparkcykel mäter 100 mm och är krom.",
+     "efter": "<p>Sparkcykelhjulet Panda Spoked V2 mäter 100 mm och är i krom."
+    },
+    {
+     "fore": "<li>Typ: Hjul till sparkcykel</li>",
+     "efter": "<li>Typ: Sparkcykelhjul</li>"
+    }
+   ]
+  },
+  "skal": "Live ACTIVE, 104684, EAN 5713847006160, lager 1. Fakta (6061-aluminium, ekrad, rund profil, 193 g, 24 mm) står i källan. Återförsäljaren picar.hu (samma EAN) bekräftar 100 mm, krom, 193 g och 24 mm. Den trasiga raden '193 mm: 24 mm' och 'bekväm och säker' är rätt utelämnade. Typordet: butikens 26 redan skrivna sparkcykelhjul heter alla 'Sparkcykelhjul' (Union, Ethic, Fuzion). 'Hjul till sparkcykel' finns bara i oskrivna leverantörstitlar. R7 kräver enhetligt typord där källorna är lika (engelska 'Scooter wheel'). Därför byts ordet till 'Sparkcykelhjul'. Ordet läggs lämpligen till i profilens godkanda_typord. Metans första mening saknade dessutom verb (R11)."
+ },
+ {
+  "nr": 50106,
+  "id": "10472281997578",
+  "fil": "k_50b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Chill X LF Glove,",
+    "efter": "Chill X LF,"
+   },
+   "seo_title": {
+    "fore": "Handskar Giant Chill X LF Glove",
+    "efter": "Handskar Giant Chill X LF"
+   },
+   "meta": {
+    "fore": "Giant Chill X LF Glove i svart",
+    "efter": "Giant Chill X LF i svart"
+   }
+  },
+  "skal": "Live ACTIVE, 830001091, EAN 4713250017327, lager 2. Fakta (Bolton-tumme, böjd form, 3M Thinsulate C100/C40, Protextura, Wiretap, svettavtorkning, 3M Scotchlite) står ordagrant i källan. Vindtätt och vattenavvisande återges en gång med 'enligt tillverkaren'. Värme, artärblodflöde och 'maximalt skydd' är rätt utelämnade. Rättning: det engelska ordet 'Glove' stryks ur titel, SEO och meta, eftersom typordet redan är 'Handskar' och beskrivningen har modellen 'Chill X LF'. Flagga till David: en annan aktiv produkt, 10554367475978 (art.nr 830001141, utan text), har exakt samma live-titel. Enligt återförsäljarlistor (alfjonescycles.co.uk) tillhör artikelnumren olika storlekar eller serier. 830001091 kopplas där till storlek XL, men det gick inte att bekräfta entydigt (bikemart-sidan ger 404). Storleken anges därför inte. När 10554367475978 skrivs måste titeln skilja sig från denna. Kunden ser i dag ingen storlek på någon av annonserna."
+ },
+ {
+  "nr": 50107,
+  "id": "10475396825354",
+  "fil": "k_50b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": " Den är tillverkad av Brave (Tyskland).",
+    "efter": ""
+   },
+   "html": [
+    {
+     "fore": " Den är tillverkad av Brave (Tyskland).",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Tillverkare: Brave (Tyskland)</li>\n",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Live ACTIVE, 2071160002, EAN 848165003845, lager 7. '(Tyskland)' står bara i parentes efter märket. Det räknas som en obekräftad ursprungsuppgift (standard §2.3, R5 ursprungsord) och tas bort. Meningen 'tillverkad av Brave' blir då en upprepning av märket och stryks också, i meta, beskrivning och specifikation. Kvar finns styrdiametern 22,2 och 31,8 mm, som står ordagrant i källan. Webbkoll: EAN 848165003845 hos meinhartje.com gäller Brave Classic Mini Bell 'Copenhagen' i guld (22,2 och 31,8 mm, 45 g). Uppgifterna stämmer, och live-titelns modellnamn 'Classics Mini' behålls. Metan blir cirka 95 tecken, vilket är över 70 och godkänt."
+ },
+ {
+  "nr": 50108,
+  "id": "10476106645770",
+  "fil": "k_50b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 56050, EAN 6932112104243, lager 4. Källans 'HO67' är en skrivvariant. Galaxus och Mwave listar modellen som Choetech H067, justerbar cykelhållare, 4,7–7 tum, 360 grader. Titelns H067 är alltså rätt. Den trasiga frasen 'cykel- eller styre på skoter' är rätt reducerad till cykel (R2). Alla uppgifter står i källan. Inga löften. Ingen dubblett bland aktiva produkter (en DRAFT med samma typord finns)."
+ },
+ {
+  "nr": 50109,
+  "id": "10515742523658",
+  "fil": "k_50b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Dricksflaska Giant Doublespring blå/grå",
+    "efter": "Dricksflaska Giant 750 ml blå/grå"
+   },
+   "html": {
+    "fore": "Enligt tillverkaren är flaskan av antibakteriell plast och tål maskindisk upp till 90 °C.",
+    "efter": "Flaskan är av plast och tål maskindisk upp till 90 °C."
+   }
+  },
+  "skal": "Live ACTIVE, 480000269, EAN 4713250803722, lager 2. Antibakteriell plast är ett biocid- och hygienpåstående. Enligt praxis stryks det även med \"enligt tillverkaren\" (Doublespring 600 ml-syskonen i b_skriv_4, 46103, 46211, 46406). SEO-titeln skiljer sig bara med snedstreck från den redan skrivna 600 ml-flaskan 'Dricksflaska Giant Doublespring blå och grå' (10472251588874). Volymen läggs till och modellnamnet stryks, så att titeln ryms inom 43 tecken och märket finns kvar (R12). De tre flaskorna 50109–50111 blir unika i titel, SEO och meta genom färg, artikelnummer och EAN."
+ },
+ {
+  "nr": 50110,
+  "id": "10515742654730",
+  "fil": "k_50b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "seo_title": {
+    "fore": "Dricksflaska Giant Doublespring blå/svart",
+    "efter": "Dricksflaska Giant 750 ml blå/svart"
+   },
+   "html": {
+    "fore": "Enligt tillverkaren är flaskan av antibakteriell plast och tål maskindisk upp till 90 °C.",
+    "efter": "Flaskan är av plast och tål maskindisk upp till 90 °C."
+   }
+  },
+  "skal": "Live ACTIVE, 480000353, EAN 4713250832821, lager 2. SEO-titeln 'Dricksflaska Giant Doublespring blå/svart' krockar EXAKT med den redan skrivna 600 ml-flaskan 10468718641418 (b_skriv_4.json, R12). Den rättas med volym. Antibakteriell plast är ett biocid- och hygienpåstående. Enligt praxis stryks det även med \"enligt tillverkaren\" (Doublespring 600 ml-syskonen i b_skriv_4, 46103, 46211, 46406). Den dubblerade källtexten ('antibakteriell, antibakteriell') är rätt inte vidareförd."
+ },
+ {
+  "nr": 50111,
+  "id": "10515742687498",
+  "fil": "k_50b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Enligt tillverkaren är flaskan av antibakteriell plast och kan diskas i diskmaskin upp till 90 °C.",
+    "efter": "Flaskan är av plast och kan diskas i diskmaskin upp till 90 °C."
+   }
+  },
+  "skal": "Live ACTIVE, 480000355, EAN 4713250832845, lager 2. Antibakteriell plast är ett biocid- och hygienpåstående. Enligt praxis stryks det även med \"enligt tillverkaren\" (Doublespring 600 ml-syskonen i b_skriv_4, 46103, 46211, 46406). Raden 'Diskmaskinssäker (upp till 90°C)' återges som 'kan diskas i diskmaskin'. Det är korrekt och utan säkerhetsord. SEO-titeln 'Dricksflaska Giant Doublespring svart' är unik mot skrivna filer och mot 50109/50110 efter rättning."
+ },
+ {
+  "nr": 50112,
+  "id": "10554354106634",
+  "fil": "k_50b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 15-02-044, EAN 5907695552324, lager 1. Tritan, 950 ml, höjd 28,5 cm, diameter 7,8 cm, 220 g och separat nät för frukt står i källan. Varm vätska och diskmaskin står ordagrant ('kan fyllas med varm vätska', 'diskas i diskmaskin') och återges en gång med 'enligt tillverkaren'. Hållbarhet, minusgrader, sterilisering, 'inga skadliga föreningar' och UV-skydd är rätt utelämnade (R5). Det oklara 'fack på baksidan' och 'Enkelt lager' är rätt utelämnade (R2). Märket 'Nils' följer live-titeln (leverantör Nils Extreme). Ingen dubblett."
+ },
+ {
+  "nr": 50113,
+  "id": "10589598908682",
+  "fil": "k_50b_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, 03-CC100, EAN 5030009319648, lager 2. (1) Trolig exakt dubblett (R12a, beslut 2026-11-05/08). Den redan skrivna aktiva produkten 10635765743882 'Cykelskydd Oxford Aquatex' (texter-klara, lager 7) har handle '...aquatex-oxfcc100', alltså samma Oxford-artikel CC100 (enkelt cykelskydd). Enligt Oxfords sida och flera återförsäljare är EAN 5030009319648 = CC100. (2) Måtten går isär: källan anger 192 x 72 x 110 cm, medan Oxford (oxfordproducts.com) och återförsäljare anger 200 x 80 x 110 cm för CC100. Den skrivna syskonprodukten har 200 x 80 x 110 cm. Utkastets titel, meta och specifikation bygger på de avvikande måtten (R2). Typordsfrågan: 'Cykelskydd' vore rätt (butikens skrivna Aquatex-syskon). 'Cykelöverdrag' används inte i butiken. Åtgärd för koordinatorn: läs streckkoden på 10635765743882. Är den 5030009319648 gäller dubblettbeslutet (lagret flyttas först, sedan arkivering). Är den en annan, kan produkten skrivas med tillverkarens mått 200 x 80 x 110 cm."
+ }
+]
