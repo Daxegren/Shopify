@@ -1,0 +1,296 @@
+{
+ "tid": "2026-11-17T15:10:28Z",
+ "kollektion": {
+  "id": "gid://shopify/Collection/561573953802",
+  "handle": "herrcyklar",
+  "title": "Herrcykel",
+  "ruleSet": {
+   "appliedDisjunctively": false,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "Herrcyklar"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "Herrcykel"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "herr cykel"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "mens bike"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "mens bikes"
+    },
+    {
+     "column": "TYPE",
+     "relation": "NOT_EQUALS",
+     "condition": "Kosttillskott"
+    },
+    {
+     "column": "TYPE",
+     "relation": "NOT_EQUALS",
+     "condition": "Boxing equipment"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "__typename": "CollectionConditionsSource",
+    "id": "gid://shopify/CollectionConditionsSource/24985698570",
+    "title": "Untitled Source",
+    "targetType": "PRODUCTS",
+    "inclusion": {
+     "matchType": "ALL",
+     "conditions": [
+      {
+       "__typename": "CollectionSourceInclusionConditionProductTag"
+      },
+      {
+       "__typename": "CollectionSourceInclusionConditionProductType"
+      }
+     ]
+    },
+    "exclusion": {
+     "matchType": "ALL",
+     "conditions": [],
+     "selections": {
+      "nodes": []
+     }
+    }
+   }
+  ]
+ },
+ "faltoversikt": {
+  "id": "gid://shopify/Collection/561573953802",
+  "handle": "herrcyklar",
+  "title": "Herrcykel",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "herrcykel",
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": false,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "Herrcyklar"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "Herrcykel"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "herr cykel"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "mens bike"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "mens bikes"
+    },
+    {
+     "column": "TYPE",
+     "relation": "NOT_EQUALS",
+     "condition": "Kosttillskott"
+    },
+    {
+     "column": "TYPE",
+     "relation": "NOT_EQUALS",
+     "condition": "Boxing equipment"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 12
+  }
+ },
+ "medlemmar_fore": {
+  "gid://shopify/Product/10548290978058": {
+   "title": "Herrcykel ROMET Wagant 8, svart",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Herrcykel",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "12329.0"
+  },
+  "gid://shopify/Product/10488246763786": {
+   "title": "Stadscykel Giant Attend RS 2 GTS, Svart",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Herrcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "12129.0"
+  },
+  "gid://shopify/Product/10488246698250": {
+   "title": "Stadscykel Giant Attend RS 3 GTS",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Herrcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "9476.1"
+  },
+  "gid://shopify/Product/10488246632714": {
+   "title": "Stadscykel Giant Attend RS 1 GTS",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Herrcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "4706.1"
+  },
+  "gid://shopify/Product/10472372338954": {
+   "title": "Herrcykel ROMET Orkan M, grå-röd",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Herrcykel",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "6539.0"
+  },
+  "gid://shopify/Product/10472332099850": {
+   "title": "Herrcykel Romet Wagant 7",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Herrcykel",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "8855.1"
+  },
+  "gid://shopify/Product/10472332067082": {
+   "title": "Herrcykel Romet Wagant 8, 27 Växlar, Svart",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Herrcykel",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "12329.0"
+  },
+  "gid://shopify/Product/10472294514954": {
+   "title": "Herrcykel Romet Wagant, Svart och Blå",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Herrcykel",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "7589.0"
+  },
+  "gid://shopify/Product/10472292090122": {
+   "title": "Herrcykel Tabou Kinetic 1.0, 28 tum",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Herrcykel",
+    "Tabou",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "7415.1"
+  },
+  "gid://shopify/Product/10472288190730": {
+   "title": "Herrcykel Romet Orkan M, 28 tum, Svart och Guld",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Herrcykel",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "6509.0"
+  },
+  "gid://shopify/Product/10472257618186": {
+   "title": "Herrcykel ROMET Orkan M, grå-röd",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Herrcykel",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "6539.0"
+  },
+  "gid://shopify/Product/10471092257034": {
+   "title": "Herrcykel Romet Mustang M1 CS, 29 tum, Mörkgrå",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Herrcykel",
+    "På beställning",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "9188.1"
+  }
+ },
+ "undantas": []
+}

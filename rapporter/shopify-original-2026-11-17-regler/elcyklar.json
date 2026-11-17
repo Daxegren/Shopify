@@ -1,0 +1,4564 @@
+{
+ "tid": "2026-11-17T15:10:47Z",
+ "kollektion": {
+  "id": "gid://shopify/Collection/561573069066",
+  "handle": "elcyklar",
+  "title": "Elcykel",
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "Elcyklar"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "Elcykel"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "electric bike"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "e-bike"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "__typename": "CollectionConditionsSource",
+    "id": "gid://shopify/CollectionConditionsSource/24985403658",
+    "title": "Untitled Source",
+    "targetType": "PRODUCTS",
+    "inclusion": {
+     "matchType": "ANY",
+     "conditions": [
+      {
+       "__typename": "CollectionSourceInclusionConditionProductTag"
+      }
+     ]
+    },
+    "exclusion": {
+     "matchType": "ALL",
+     "conditions": [],
+     "selections": {
+      "nodes": []
+     }
+    }
+   }
+  ]
+ },
+ "faltoversikt": {
+  "id": "gid://shopify/Collection/561573069066",
+  "handle": "elcyklar",
+  "title": "Elcykel",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "elcykel",
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "Elcyklar"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "Elcykel"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "electric bike"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "e-bike"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 292
+  }
+ },
+ "medlemmar_fore": {
+  "gid://shopify/Product/10721332232458": {
+   "title": "Elcykel LIV Tempt E+ 2 (2027) Cryo Silver",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket"
+   ],
+   "pris": "44659.0"
+  },
+  "gid://shopify/Product/10721332199690": {
+   "title": "Elcykel LIV Tempt E+ 2 EX (2027) Tyrian Purple",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket"
+   ],
+   "pris": "47959.0"
+  },
+  "gid://shopify/Product/10721331970314": {
+   "title": "Elcykel GIANT Reign Advanced E+ 1 (2027) Mars Dust",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket"
+   ],
+   "pris": "139179.0"
+  },
+  "gid://shopify/Product/10721331904778": {
+   "title": "Elcykel GIANT Reign Advanced E+ 2 (2027) Prismatic Haze",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket"
+   ],
+   "pris": "122989.0"
+  },
+  "gid://shopify/Product/10708320551178": {
+   "title": "Elcykel GIANT Reign Advanced E+ 1 (2027) Mars Dust",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "124361.1"
+  },
+  "gid://shopify/Product/10708320452874": {
+   "title": "Elcykel GIANT Reign Advanced E+ 0 (2027) Celestial Tide",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "163409.0"
+  },
+  "gid://shopify/Product/10708320059658": {
+   "title": "Elcykel LIV Lurra E+ 2, Sea Sparkle",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "54289.0"
+  },
+  "gid://shopify/Product/10708319994122": {
+   "title": "Elcykel LIV Tempt E+ 2 EX (2027) Tyrian Purple",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "42857.1"
+  },
+  "gid://shopify/Product/10708319469834": {
+   "title": "Elcykel LIV Allure E+ 1 (2027) Midnight Pine",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "58349.0"
+  },
+  "gid://shopify/Product/10708319305994": {
+   "title": "Elcykel LIV Tempt E+ 2 (2027) Cryo Silver",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "44659.0"
+  },
+  "gid://shopify/Product/10682106118410": {
+   "title": "Elcykel Liv Allure E+ 1 (2027), Midnight Pine",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "58349.0"
+  },
+  "gid://shopify/Product/10682106085642": {
+   "title": "Elcykel Giant Talon E+ 2 EX (2027), 29 tum XL, Frost Fern",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "43253.1"
+  },
+  "gid://shopify/Product/10682105594122": {
+   "title": "Elcykel Kona Remote 160 (2027), Gloss Reef Blue",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Kona",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "96713.1"
+  },
+  "gid://shopify/Product/10682105528586": {
+   "title": "Cykel Kona Coco (2027) 27,5 tum, Gloss Metallic Electric Blue",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "13839.0"
+  },
+  "gid://shopify/Product/10682105463050": {
+   "title": "Elcykel Giant Talon E+ 2 EX (2027), 29 tum, Frost Fern",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "47959.0"
+  },
+  "gid://shopify/Product/10682105430282": {
+   "title": "Elcykel Liv Tempt E+ 2 (2027), Abyss Black",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "44659.0"
+  },
+  "gid://shopify/Product/10682105397514": {
+   "title": "Elcykel Giant Reign Advanced E+ 0 (2027), Celestial Tide",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "163409.0"
+  },
+  "gid://shopify/Product/10682105331978": {
+   "title": "Elcykel Giant Talon E+ 2 (2027) Moonstone, M–XL",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "40283.1"
+  },
+  "gid://shopify/Product/10682105299210": {
+   "title": "Elcykel Giant Talon E+ 2 (2027) Mars Dust, M–XL",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "40283.1"
+  },
+  "gid://shopify/Product/10676722008330": {
+   "title": "Elcykel Giant Reign Advanced E+ 1 (2027), Mars Dust",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "139179.0"
+  },
+  "gid://shopify/Product/10676721549578": {
+   "title": "Elcykel Giant Talon E+ 2 (2027), 29 tum, Moonstone",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "44659.0"
+  },
+  "gid://shopify/Product/10676720697610": {
+   "title": "Elcykel Giant Talon E+ 2 (2027), 29 tum, Mars Dust",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "44659.0"
+  },
+  "gid://shopify/Product/10676720173322": {
+   "title": "Elcykel Fatbike Leader Fox Cody, 20 tum, Hopfällbar",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "33619.0"
+  },
+  "gid://shopify/Product/10676717453578": {
+   "title": "Elcykel Leader Fox Lotus 26 tum, Svart",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "26159.0"
+  },
+  "gid://shopify/Product/10676713652490": {
+   "title": "El-lastcykel CARGOBIKE OF SWEDEN Long Lite",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "75979.0"
+  },
+  "gid://shopify/Product/10676713586954": {
+   "title": "El-lastcykel Cargobike of Sweden Long Lite",
+   "status": "ACTIVE",
+   "tags": [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "68399.1"
+  },
+  "gid://shopify/Product/10676713390346": {
+   "title": "El-lastcykel CARGOBIKE of SWEDEN Delivery",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "61839.0"
+  },
+  "gid://shopify/Product/10676713259274": {
+   "title": "El-lastcykel Cargobike of Sweden Delivery",
+   "status": "ACTIVE",
+   "tags": [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "55664.1"
+  },
+  "gid://shopify/Product/10673181851914": {
+   "title": "Elcykel Leader Fox Arimo 27,5 tum, Svart",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "23209.0"
+  },
+  "gid://shopify/Product/10673181819146": {
+   "title": "Elcykel Leader Fox Arimo 27,5 tum, Blå",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "23209.0"
+  },
+  "gid://shopify/Product/10673181688074": {
+   "title": "Elcykel Leader Fox Swan Dam, 29 tum, Vit",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "22418.1"
+  },
+  "gid://shopify/Product/10673181655306": {
+   "title": "Elcykel Leader Fox Swan Herr, 29 tum, Blå",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "22418.1"
+  },
+  "gid://shopify/Product/10673181524234": {
+   "title": "Elcykel Leader Fox Swan Herr 27,5 tum, Vit",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "25089.0"
+  },
+  "gid://shopify/Product/10673181491466": {
+   "title": "Elcykel Leader Fox Arran, 29 tum, Grå",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "41419.0"
+  },
+  "gid://shopify/Product/10673181425930": {
+   "title": "Elcykel Leader Fox Arran, 29 tum, Grön",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "41419.0"
+  },
+  "gid://shopify/Product/10673181360394": {
+   "title": "Elcykel LEADER FOX Ayra 29\", Blå",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "39455.1"
+  },
+  "gid://shopify/Product/10673181229322": {
+   "title": "Elcykel LEADER FOX Ayra 29\", Orange",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "39455.1"
+  },
+  "gid://shopify/Product/10673180508426": {
+   "title": "Elcykel Leader Fox Ayra, 29 tum, Blå",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "43739.0"
+  },
+  "gid://shopify/Product/10673180475658": {
+   "title": "Elcykel Leader Fox Ayra, 29 tum, Orange",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "43739.0"
+  },
+  "gid://shopify/Product/10673180410122": {
+   "title": "Elcykel LIV Allure E+ 1, Sunset Ivory",
+   "status": "ARCHIVED",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "55879.0"
+  },
+  "gid://shopify/Product/10673177952522": {
+   "title": "Elcykel Liv Allure E+ 1, Sunset Ivory",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "55879.0"
+  },
+  "gid://shopify/Product/10665232367882": {
+   "title": "El-lastcykel Cargobike of Sweden Longtail Varia",
+   "status": "ACTIVE",
+   "tags": [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "67599.0"
+  },
+  "gid://shopify/Product/10665232105738": {
+   "title": "Hopfällbar Elcykel ADO Air 20 PRO (2026), Blå",
+   "status": "ACTIVE",
+   "tags": [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "28789.0"
+  },
+  "gid://shopify/Product/10665232072970": {
+   "title": "Hopfällbar elcykel ADO Air 20 Ultra (2026) Polar Blue",
+   "status": "ARCHIVED",
+   "tags": [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "33849.0"
+  },
+  "gid://shopify/Product/10656694272266": {
+   "title": "Hopfällbar Elcykel ADO Air 20 Ultra (2026), Polar Blue",
+   "status": "ACTIVE",
+   "tags": [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "30986.1"
+  },
+  "gid://shopify/Product/10656694239498": {
+   "title": "Hopfällbar Elcykel ADO Air 20 Ultra (2026), Grå",
+   "status": "ACTIVE",
+   "tags": [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "sync-skydd",
+    "texter-klara"
+   ],
+   "pris": "30527.1"
+  },
+  "gid://shopify/Product/10656692207882": {
+   "title": "Elcykel Giant Fathom E+ 1 (2027) storlek M, 29 tum, Amber Glow",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "59959.0"
+  },
+  "gid://shopify/Product/10650209845514": {
+   "title": "Elcykel Liv Amiti E+ 4 storlek S, Clear Sky",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "47459.0"
+  },
+  "gid://shopify/Product/10650209747210": {
+   "title": "Elcykel Liv Allure E+ 0 storlek M, Storm Cloud",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "77919.0"
+  },
+  "gid://shopify/Product/10635810111754": {
+   "title": "Elcykel Giant Fathom E+ 1 EX (2027), Thundercloud, L och XL",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "49562.1"
+  },
+  "gid://shopify/Product/10635809882378": {
+   "title": "Elcykel GIANT Fathom E+ 2 EX (2027) Pangea Green",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "57549.0"
+  },
+  "gid://shopify/Product/10635809849610": {
+   "title": "Elcykel GIANT Fathom E+ 2 (2027) Null White",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "42605.1"
+  },
+  "gid://shopify/Product/10635809325322": {
+   "title": "Elcykel Giant Fathom E+ 1 EX (2027), Thundercloud, S",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "63189.0"
+  },
+  "gid://shopify/Product/10635807064330": {
+   "title": "Elcykel Giant Fathom E+ 1 EX (2027), 29 tum, Thundercloud",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "63189.0"
+  },
+  "gid://shopify/Product/10635806998794": {
+   "title": "Elcykel Giant Fathom E+ 2 EX (2027), 29 tum, Pangea Green",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "51425.1"
+  },
+  "gid://shopify/Product/10635806900490": {
+   "title": "Elcykel Giant Fathom E+ 1 (2027), 29 tum, Amber Glow",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "59959.0"
+  },
+  "gid://shopify/Product/10635806802186": {
+   "title": "Elcykel Giant Fathom E+ 2 (2027), 29 tum, Null White",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "48536.1"
+  },
+  "gid://shopify/Product/10624088539402": {
+   "title": "Elcykel Liv Lurra E+ 1 (2027), Desert Pearl",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "66419.0"
+  },
+  "gid://shopify/Product/10624088441098": {
+   "title": "Elcykel Liv Lurra E+ 2 EX (2027), Urban Oasis",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Hybridcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "57549.0"
+  },
+  "gid://shopify/Product/10624088375562": {
+   "title": "Elcykel Liv Amiti E+ 3, Early Espresso",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "56169.0"
+  },
+  "gid://shopify/Product/10624088244490": {
+   "title": "Elcykel Giant Explore E+ 3 STA storlek M, Pyrite Brown",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "54638.1"
+  },
+  "gid://shopify/Product/10612594540810": {
+   "title": "Trehjulig Elcykel Leader Fox Lovelo, Lila",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "41949.0"
+  },
+  "gid://shopify/Product/10612594508042": {
+   "title": "Trehjulig Elcykel Leader Fox Curtis X, Grå",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "47299.0"
+  },
+  "gid://shopify/Product/10612594475274": {
+   "title": "Hopfällbar Elcykel ADO Air 20 PRO (2026), Grå",
+   "status": "ACTIVE",
+   "tags": [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "28789.0"
+  },
+  "gid://shopify/Product/10605383909642": {
+   "title": "Elcykel Giant Stance E+ 0 (2027) storlek S, Deep Lake/Black",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "92299.0"
+  },
+  "gid://shopify/Product/10598565019914": {
+   "title": "Hopfällbar Elcykel ADO Air 20S (2026), Grå",
+   "status": "ACTIVE",
+   "tags": [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "23729.0"
+  },
+  "gid://shopify/Product/10598564987146": {
+   "title": "Elcykel Bottecchia BE12 Active, Blu Opaco",
+   "status": "ACTIVE",
+   "tags": [
+    "Bottecchia",
+    "Damcyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "24599.0"
+  },
+  "gid://shopify/Product/10598564954378": {
+   "title": "Elcykel Bottecchia BE20 Richmond, Blå Blank",
+   "status": "ACTIVE",
+   "tags": [
+    "Bottecchia",
+    "Damcyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "28149.0"
+  },
+  "gid://shopify/Product/10598564888842": {
+   "title": "Elcykel Bottecchia BE13 Active, Blu Opaco",
+   "status": "ACTIVE",
+   "tags": [
+    "Bottecchia",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "24839.0"
+  },
+  "gid://shopify/Product/10598564856074": {
+   "title": "Elcykel Liv Embolden E+ 0 (2027), Atmosphere/Svart",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "87059.0"
+  },
+  "gid://shopify/Product/10598564757770": {
+   "title": "Elcykel Liv Amiti E+ 4, Clear Sky",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "47459.0"
+  },
+  "gid://shopify/Product/10593839644938": {
+   "title": "Elcykel Giant Stance E+ 0 (2027), Deep Lake/Black",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "92299.0"
+  },
+  "gid://shopify/Product/10593839612170": {
+   "title": "Elcykel Giant NewTour E+ 1 LST (2027), Eclipse",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "55109.0"
+  },
+  "gid://shopify/Product/10593839579402": {
+   "title": "Elcykel Giant NewTour E+ 2 LST (2027), Cold Night",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "48649.0"
+  },
+  "gid://shopify/Product/10593839546634": {
+   "title": "Elcykel Giant Explore E+ 3 DD, Pyrite Brown",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "61149.0"
+  },
+  "gid://shopify/Product/10593839513866": {
+   "title": "Elcykel Giant Explore E+ 2 STA, Alpine Green",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "53441.1"
+  },
+  "gid://shopify/Product/10593839022346": {
+   "title": "Elcykel Tenways CGO Compact",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Hybridcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "35909.0"
+  },
+  "gid://shopify/Product/10589714088202": {
+   "title": "Elcykel Liv Flourish E+ 2 (2027), Mountain Air",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Hybridcykel",
+    "Liv",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "47459.0"
+  },
+  "gid://shopify/Product/10589711892746": {
+   "title": "Elcykel Kona El Kahuna S–L, Satin Metallic Lazuli",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Kona",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "77099.0"
+  },
+  "gid://shopify/Product/10589707501834": {
+   "title": "Elcykel Giant Explore E+ 1 STA, Metallic Navy",
+   "status": "ACTIVE",
+   "tags": [
+    "Elcykel",
+    "Elcyklar",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "79309.0"
+  },
+  "gid://shopify/Product/10589707141386": {
+   "title": "Elcykel Giant Explore E+ 0 STA, Snow Drift",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "99089.0"
+  },
+  "gid://shopify/Product/10589706780938": {
+   "title": "Elcykel Giant Explore E+ 3 STA, Pyrite Brown",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "61149.0"
+  },
+  "gid://shopify/Product/10589704749322": {
+   "title": "Elcykel ADO Air One Pro, Grå",
+   "status": "ACTIVE",
+   "tags": [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "33849.0"
+  },
+  "gid://shopify/Product/10588453372170": {
+   "title": "Elcykel Kona Remote 160 CR, Gloss Burnt Orange",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Kona",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "122732.1"
+  },
+  "gid://shopify/Product/10588453241098": {
+   "title": "Elcykel Kona El Kahuna, 29 tum, Satin Metallic Lazuli",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Kona",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "54026.1"
+  },
+  "gid://shopify/Product/10588453208330": {
+   "title": "Elcykel KONA Dew-E, Gloss Metallic Dark Faux Raw (Grå)",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "32408.1"
+  },
+  "gid://shopify/Product/10588452946186": {
+   "title": "Elcykel Kona Dew-E, Gloss Metallic Dark Faux Raw",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "36845.1"
+  },
+  "gid://shopify/Product/10588452225290": {
+   "title": "Elcykel Giant Anytour X E+ 2 (2027) 27,5 tum, Abyss Black",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "74529.0"
+  },
+  "gid://shopify/Product/10588452192522": {
+   "title": "Elcykel Giant Anytour X E+ 0 (2027) 27,5 tum, Truffle",
+   "status": "ACTIVE",
+   "tags": [
+    "Elcykel",
+    "Elcyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "76184.1"
+  },
+  "gid://shopify/Product/10588452159754": {
+   "title": "Elcykel Giant Anytour X E+ 3 (2027) 27,5 tum, Good Grey",
+   "status": "ACTIVE",
+   "tags": [
+    "Elcykel",
+    "Elcyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "68039.0"
+  },
+  "gid://shopify/Product/10588452126986": {
+   "title": "Elcykel Giant Explore E+ 4 DD, Mars Dust",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "50269.0"
+  },
+  "gid://shopify/Product/10588452094218": {
+   "title": "Elcykel Giant Explore E+ 4 STA, Mars Dust",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "50269.0"
+  },
+  "gid://shopify/Product/10588451963146": {
+   "title": "Elcykel Giant Reign Advanced E+ 1, Mercury/Carbon Smoke",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "136189.0"
+  },
+  "gid://shopify/Product/10588451864842": {
+   "title": "Elcykel Giant Stance E+ 1 (2027), storlek S och M, Charcoal/Black",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "76139.0"
+  },
+  "gid://shopify/Product/10588450881802": {
+   "title": "Elcykel Liv Allure E+ 0, Storm Cloud",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "77919.0"
+  },
+  "gid://shopify/Product/10561356103946": {
+   "title": "Elcykel Giant Stance E+ 2 (2027) storlek XL, Desert Sage/Black",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "68039.0"
+  },
+  "gid://shopify/Product/10561355972874": {
+   "title": "Elcykel Liv Embolden E+ 1 (2027) storlek S, Pale Moss/Black",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "71839.0"
+  },
+  "gid://shopify/Product/10561355874570": {
+   "title": "Elcykel Giant Stance E+ 1 (2027) storlek XL, Mandel/Svart",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "76139.0"
+  },
+  "gid://shopify/Product/10561353908490": {
+   "title": "Elcykel Giant Stance E+ 1 (2027), Mandel/Svart",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "76139.0"
+  },
+  "gid://shopify/Product/10554441924874": {
+   "title": "Trehjulig Elcykel Leader Fox Curtis X, Svart",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "44399.0"
+  },
+  "gid://shopify/Product/10554441498890": {
+   "title": "Trehjulig Elcykel Leader Fox Lovelo, Vit",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "39049.0"
+  },
+  "gid://shopify/Product/10548295368970": {
+   "title": "El-trehjuling Leader Fox Bormio",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "29219.0"
+  },
+  "gid://shopify/Product/10548292878602": {
+   "title": "Trehjulig Elcykel Leader Fox Lovelo, Svart",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "39049.0"
+  },
+  "gid://shopify/Product/10548232913162": {
+   "title": "Cykelhjälm Limar Delta, Matt Electric Blue",
+   "status": "ACTIVE",
+   "tags": [
+    "Elcykel",
+    "Hjälm",
+    "Limar",
+    "Tillbehör",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "1939.0"
+  },
+  "gid://shopify/Product/10541372473610": {
+   "title": "Elcykel Fiido C700",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Fiido",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "26839.0"
+  },
+  "gid://shopify/Product/10541371752714": {
+   "title": "Elcykel Fiido Nomads",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Fiido",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "28599.0"
+  },
+  "gid://shopify/Product/10541371523338": {
+   "title": "Elcykel LIV Rove E+, 28\" Laurel, ljusgrön",
+   "status": "DRAFT",
+   "tags": [
+    "Cykelbelysning",
+    "Damcyklar",
+    "Elcykel",
+    "Gravelcykel",
+    "Liv",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "26234.1"
+  },
+  "gid://shopify/Product/10541073301770": {
+   "title": "Hjälm LAZER Cruizer, Matt Mörkgrå (för elcyklar)",
+   "status": "ACTIVE",
+   "tags": [
+    "Elcykel",
+    "Hjälm",
+    "Lazer",
+    "Tillbehör",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "2539.0"
+  },
+  "gid://shopify/Product/10526099964170": {
+   "title": "Hopfällbar Elcykel ADO Air Carbon PRO, Vit",
+   "status": "ACTIVE",
+   "tags": [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "43969.0"
+  },
+  "gid://shopify/Product/10526098882826": {
+   "title": "Elcykel Giant Fathom E+ 2, 29 tum, Sun Beam",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "48518.1"
+  },
+  "gid://shopify/Product/10526095933706": {
+   "title": "Elcykel Tenways CGO009, Ice Blue",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "38369.0"
+  },
+  "gid://shopify/Product/10523491893514": {
+   "title": "Hopfällbar Elcykel ADO Air Carbon PRO, Svart",
+   "status": "ACTIVE",
+   "tags": [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "43969.0"
+  },
+  "gid://shopify/Product/10523491860746": {
+   "title": "Elcykel ADO Air 28 Ultra, Latte",
+   "status": "ACTIVE",
+   "tags": [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "33849.0"
+  },
+  "gid://shopify/Product/10523491401994": {
+   "title": "Elcykel Giant Stance E+ 1 (2027), 29 tum, Kolsvart/Svart",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "76139.0"
+  },
+  "gid://shopify/Product/10523487109386": {
+   "title": "Elcykel Liv Embolden E+ 2 (2027) storlek XS, Slate Grey/Black",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "64209.0"
+  },
+  "gid://shopify/Product/10523486945546": {
+   "title": "Elcykel Liv Embolden E+ 1 (2027) storlek XS, Pale Moss/Black",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "71839.0"
+  },
+  "gid://shopify/Product/10507703779594": {
+   "title": "Elcykel Tenways Ago Performance, 29 tum, Mineral Blue",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Mountainbike",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "58059.0"
+  },
+  "gid://shopify/Product/10507703386378": {
+   "title": "Elcykel Tenways Ago Performance, 29 tum, Valnötsbrun",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Mountainbike",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "55179.0"
+  },
+  "gid://shopify/Product/10507703124234": {
+   "title": "Elcykel Tenways CGO600 Pro, Willow Mist",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "31719.0"
+  },
+  "gid://shopify/Product/10507441537290": {
+   "title": "Elcykel Liv Tempt E+ EX storlek L, Sandshell",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "47459.0"
+  },
+  "gid://shopify/Product/10507440226570": {
+   "title": "Elcykel Liv Embolden E+ 2 (2027), Slate Grey/Black",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "64209.0"
+  },
+  "gid://shopify/Product/10503245529354": {
+   "title": "Elcykel Liv Intrigue X Advanced E+ Elite 3, Shoreline",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "79999.0"
+  },
+  "gid://shopify/Product/10503245332746": {
+   "title": "Elcykel Liv Embolden E+ 1 (2027), Pale Moss/Black",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "64187.1"
+  },
+  "gid://shopify/Product/10503235698954": {
+   "title": "Elcykel Tenways CGO600 Pro storlek XL, Mintgrön",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "33379.0"
+  },
+  "gid://shopify/Product/10502528565514": {
+   "title": "Elcykel Liv Intrigue X Advanced E+ Elite 1, Raw Carbon",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Liv",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "137119.0"
+  },
+  "gid://shopify/Product/10502528139530": {
+   "title": "Elcykel Liv Lurra E+ storlek M, Lunar Eclipse",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "53559.0"
+  },
+  "gid://shopify/Product/10502528073994": {
+   "title": "Elcykel Liv Lurra E+ EX storlek M, Grå Gryning",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "57709.0"
+  },
+  "gid://shopify/Product/10502527910154": {
+   "title": "Elcykel Engwe E26, Svart",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Engwe",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "25939.0"
+  },
+  "gid://shopify/Product/10502527877386": {
+   "title": "Elcykel Engwe E26 ST, Svart",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Engwe",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "25939.0"
+  },
+  "gid://shopify/Product/10502527811850": {
+   "title": "Elcykel Tenways CGO800S, Wild Berry",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "36129.0"
+  },
+  "gid://shopify/Product/10494946312458": {
+   "title": "Elcykel Engwe E26",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Engwe",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "25939.0"
+  },
+  "gid://shopify/Product/10494946181386": {
+   "title": "Elcykel ADO Air 28 Ultra, Grå",
+   "status": "ACTIVE",
+   "tags": [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "33849.0"
+  },
+  "gid://shopify/Product/10494943953162": {
+   "title": "Elcykel Tenways Ago Air Belt, Velvet Red",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Mountainbike",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "44489.0"
+  },
+  "gid://shopify/Product/10494943854858": {
+   "title": "Elcykel Tenways Ago Air Belt, Valnötsbrun",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Mountainbike",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "44419.0"
+  },
+  "gid://shopify/Product/10494943723786": {
+   "title": "Elcykel Tenways CGO009, Midnight Black",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "30095.1"
+  },
+  "gid://shopify/Product/10494942937354": {
+   "title": "Elcykel TENWAYS CGO009, Sage Green",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "38369.0"
+  },
+  "gid://shopify/Product/10488326193418": {
+   "title": "Elcykel Giant Talon E+ 29\", Mountainbike, Asphalt Green",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "sync-skydd",
+    "texter-klara"
+   ],
+   "pris": "42920.1"
+  },
+  "gid://shopify/Product/10488326160650": {
+   "title": "Elcykel Liv Tempt E+, Lunar Eclipse",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "44429.0"
+  },
+  "gid://shopify/Product/10488318296330": {
+   "title": "Elcykel Giant Stance E+ 2 (2027), 29 tum, Desert Sage/Black",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "68039.0"
+  },
+  "gid://shopify/Product/10488308203786": {
+   "title": "El-lastcykel Batavus Fier 3",
+   "status": "ACTIVE",
+   "tags": [
+    "Cargo bike",
+    "Cyklar",
+    "Elcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "65591.1"
+  },
+  "gid://shopify/Product/10488282480906": {
+   "title": "Elcykel Tenways AGO X Special Edition, 29 tum, Grön",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Mountainbike",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "41549.0"
+  },
+  "gid://shopify/Product/10488282448138": {
+   "title": "Elcykel Tenways AGO X Special Edition, 29 tum, Silver",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Mountainbike",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "41549.0"
+  },
+  "gid://shopify/Product/10487987011850": {
+   "title": "Elcykel Bottecchia BE51 Hydron, Antracit/Röd",
+   "status": "ACTIVE",
+   "tags": [
+    "Bottecchia",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "51279.0"
+  },
+  "gid://shopify/Product/10486670786826": {
+   "title": "Elcykel Fiido Titan, Grå",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Fido",
+    "Fiido",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "33039.0"
+  },
+  "gid://shopify/Product/10480054468874": {
+   "title": "Elcykel Fiido C11 Pro, Grön",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Fido",
+    "Fiido",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "21379.0"
+  },
+  "gid://shopify/Product/10480054337802": {
+   "title": "Hopfällbar Elcykel Fiido X",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Fido",
+    "Fiido",
+    "På beställning",
+    "Velomarket",
+    "Vikbar cykel",
+    "cykel",
+    "hopfällbar",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "24369.0"
+  },
+  "gid://shopify/Product/10480044572938": {
+   "title": "Elcykel GIANT Fathom E+ EX 29\", Svart",
+   "status": "DRAFT",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "39338.1"
+  },
+  "gid://shopify/Product/10476276318474": {
+   "title": "Electric bicycle GIANT Stance E+ 2 (2027) 29\" Desert Sage/Black",
+   "status": "ARCHIVED",
+   "tags": [
+    "Bicycles",
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "53360.1"
+  },
+  "gid://shopify/Product/10476275761418": {
+   "title": "Elcykel Giant Talon E+ storlek M, 29 tum, Asphalt Green",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "47579.0"
+  },
+  "gid://shopify/Product/10476275630346": {
+   "title": "Elcykel LIV Tempt E+, Havsgrönt",
+   "status": "ARCHIVED",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "44429.0"
+  },
+  "gid://shopify/Product/10476274647306": {
+   "title": "Elcykel LIV Tempt E+, Havsgrönt",
+   "status": "ARCHIVED",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "44429.0"
+  },
+  "gid://shopify/Product/10476239454474": {
+   "title": "Elcykel Giant Talon E+, 29 tum, Electron Blue",
+   "status": "ACTIVE",
+   "tags": [
+    "Bicycles",
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "37448.1"
+  },
+  "gid://shopify/Product/10476232868106": {
+   "title": "Electric bicycle GIANT Talon E+ (2026) 29\" Asphalt Green",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "43379.1"
+  },
+  "gid://shopify/Product/10476224741642": {
+   "title": "Elcykel Liv Tempt E+, Havsgrönt",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "34505.1"
+  },
+  "gid://shopify/Product/10475438080266": {
+   "title": "Hopfällbar elcykel ADO A20 AIR, vit",
+   "status": "DRAFT",
+   "tags": [
+    "ADO",
+    "Elcykel",
+    "Elcyklar",
+    "På beställning",
+    "Velomarket",
+    "Vikbar cykel",
+    "cykel",
+    "hopfällbar",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "20429.1"
+  },
+  "gid://shopify/Product/10475437359370": {
+   "title": "Hopfällbar elcykel ADO A20 AIR, grå",
+   "status": "DRAFT",
+   "tags": [
+    "ADO",
+    "Elcykel",
+    "Elcyklar",
+    "På beställning",
+    "Velomarket",
+    "Vikbar cykel",
+    "cykel",
+    "hopfällbar",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "20600.1"
+  },
+  "gid://shopify/Product/10475434934538": {
+   "title": "Hopfällbar elcykel ADO A20 AIR, blå",
+   "status": "DRAFT",
+   "tags": [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "Velomarket",
+    "Vikbar cykel",
+    "cykel",
+    "hopfällbar",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "18197.1"
+  },
+  "gid://shopify/Product/10475369562378": {
+   "title": "Elektrisk Sparkcykel Razor Electric Tekno Scooter",
+   "status": "ACTIVE",
+   "tags": [
+    "Elcykel",
+    "Razor",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "4119.0"
+  },
+  "gid://shopify/Product/10472349991178": {
+   "title": "Elcykel Kona El Kahuna, 29 tum, Gloss Plum",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Kona",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "29240.1"
+  },
+  "gid://shopify/Product/10472349303050": {
+   "title": "Elcykel Giant Talon E+ 2, Metallic Blue",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "30716.1"
+  },
+  "gid://shopify/Product/10472349106442": {
+   "title": "Hopfällbar Elcykel ADO A20 Carbon, 20 tum, Amble Latte",
+   "status": "ACTIVE",
+   "tags": [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "35529.0"
+  },
+  "gid://shopify/Product/10472348188938": {
+   "title": "El-lastcykel Cargobike of Sweden Flex Dog",
+   "status": "ACTIVE",
+   "tags": [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "68029.0"
+  },
+  "gid://shopify/Product/10472334885130": {
+   "title": "Hopfällbar Elcykel Romet E-Wigry 1.0, 20 tum, Mörkgrå",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Romet",
+    "Velomarket",
+    "Vikbar cykel",
+    "cykel",
+    "hopfällbar",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "23589.0"
+  },
+  "gid://shopify/Product/10472334622986": {
+   "title": "Electric bicycle BOTTECCHIA BE33 Teaser, C81 Red Black",
+   "status": "ARCHIVED",
+   "tags": [
+    "Bottecchia",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "36099.0"
+  },
+  "gid://shopify/Product/10472333017354": {
+   "title": "Hopfällbar elcykel ROMET E-Wigry 1.0, silver",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Romet",
+    "Velomarket",
+    "Vikbar cykel",
+    "cykel",
+    "hopfällbar",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "23589.0"
+  },
+  "gid://shopify/Product/10472331280650": {
+   "title": "Elcykel Liv Lurra E+ EX, Grå Gryning",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "57709.0"
+  },
+  "gid://shopify/Product/10472331018506": {
+   "title": "Elcykel GIANT Fathom E+, 29\" Deep Lake",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "51443.1"
+  },
+  "gid://shopify/Product/10472330264842": {
+   "title": "Elcykel Giant Trance X Advanced E+ Elite 0, Blue Dragonfly",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "176219.0"
+  },
+  "gid://shopify/Product/10472329969930": {
+   "title": "Hopfällbar elcykel Coast Jifo Light, Honey",
+   "status": "ACTIVE",
+   "tags": [
+    "COAST",
+    "Cykelbelysning",
+    "Cyklar",
+    "Elcykel",
+    "Velomarket",
+    "Vikbar cykel",
+    "cykel",
+    "hopfällbar",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "26149.0"
+  },
+  "gid://shopify/Product/10472326463754": {
+   "title": "Elcykel Giant Talon E+, 29 tum, Asphalt Green",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "47579.0"
+  },
+  "gid://shopify/Product/10472319484170": {
+   "title": "Electric bicycle LIV Amiti E+ 1, Estoril Blue",
+   "status": "DRAFT",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "43532.1"
+  },
+  "gid://shopify/Product/10472307065098": {
+   "title": "Hopfällbar Elcykel ADO Air 20 Ultra, Meteor Grey",
+   "status": "ACTIVE",
+   "tags": [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "cykel",
+    "hopfällbar",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "29699.1"
+  },
+  "gid://shopify/Product/10472304935178": {
+   "title": "Cykeldäck Suomi Tyres Routa W244 E-Bike, 28 x 1,38",
+   "status": "ACTIVE",
+   "tags": [
+    "Cykeldelar",
+    "Elcykel",
+    "Finland Tyres",
+    "På beställning",
+    "Suomi Tyres",
+    "Velomarket",
+    "cykeldäck",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "1939.0"
+  },
+  "gid://shopify/Product/10472303526154": {
+   "title": "Elcykel ADO Air 20 Ultra, Polarblå",
+   "status": "ARCHIVED",
+   "tags": [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "29672.1"
+  },
+  "gid://shopify/Product/10472303493386": {
+   "title": "Elcykel ADO Air One Ultra, Grå",
+   "status": "ACTIVE",
+   "tags": [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "31742.1"
+  },
+  "gid://shopify/Product/10472302903562": {
+   "title": "El-lastcykel Vogue Avenger, Svart",
+   "status": "ACTIVE",
+   "tags": [
+    "Cargo bike",
+    "Cyklar",
+    "Elcykel",
+    "Velomarket",
+    "Vogue Bike",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "59759.1"
+  },
+  "gid://shopify/Product/10472298414346": {
+   "title": "Elcykel ADO Air 30 Pro, Forest Green",
+   "status": "ACTIVE",
+   "tags": [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "27079.0"
+  },
+  "gid://shopify/Product/10472298053898": {
+   "title": "Elcykel ADO Air 30 Pro, Meteor Grey",
+   "status": "ACTIVE",
+   "tags": [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "27079.0"
+  },
+  "gid://shopify/Product/10472297955594": {
+   "title": "Elcykel Tenways Ago Air, Midnight Black",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Mountainbike",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "38349.0"
+  },
+  "gid://shopify/Product/10472297922826": {
+   "title": "Elcykel Tenways Ago Air, Pebble Grey",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Mountainbike",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "37819.0"
+  },
+  "gid://shopify/Product/10472296251658": {
+   "title": "Elcykel Giant Anytour X E+ 2, Black Diamond",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "62576.1"
+  },
+  "gid://shopify/Product/10472296120586": {
+   "title": "Elcykel TENWAYS CGO600 Pro, Midnight Black",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "26918.1"
+  },
+  "gid://shopify/Product/10472295956746": {
+   "title": "Elcykel Giant Anytour X E+ 3, Pyrite Brown",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "63369.0"
+  },
+  "gid://shopify/Product/10472295268618": {
+   "title": "Elcykel TENWAYS CGO600 PRO (2025) Pebble Grey",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "34541.1"
+  },
+  "gid://shopify/Product/10472295072010": {
+   "title": "El-lastcykel Fiido T2 Longtail Cargo, Grå",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Fido",
+    "Fiido",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "31299.0"
+  },
+  "gid://shopify/Product/10472294220042": {
+   "title": "Elcykel Tenways CGO600 Pro, Mintgrön",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "33379.0"
+  },
+  "gid://shopify/Product/10472293237002": {
+   "title": "Hopfällbar Elcykel ADO A20 Carbon, 20 tum, Svart",
+   "status": "ACTIVE",
+   "tags": [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "35529.0"
+  },
+  "gid://shopify/Product/10472292778250": {
+   "title": "Hopfällbar Elcykel Fiido M1 Pro, Grön",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Fido",
+    "Fiido",
+    "På beställning",
+    "Velomarket",
+    "Vikbar cykel",
+    "cykel",
+    "hopfällbar",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "22119.0"
+  },
+  "gid://shopify/Product/10472291827978": {
+   "title": "Elcykel TENWAYS CGO800 Plus, himmelsblå",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "33379.0"
+  },
+  "gid://shopify/Product/10472291729674": {
+   "title": "Elcykel Tenways CGO800S, Midnight Black",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "33379.0"
+  },
+  "gid://shopify/Product/10472291565834": {
+   "title": "Elcykel TENWAYS CGO800 Plus, Midnight Black",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "33379.0"
+  },
+  "gid://shopify/Product/10472291500298": {
+   "title": "Elcykel Tenways CGO800S, Himmelsblå",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "36129.0"
+  },
+  "gid://shopify/Product/10472291434762": {
+   "title": "Elcykel Tenways CGO800S, Pebble Grey",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "33379.0"
+  },
+  "gid://shopify/Product/10472291205386": {
+   "title": "El-lastcykel Fiido T2 Longtail Cargo, Skogsgrön",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Fido",
+    "Fiido",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "31299.0"
+  },
+  "gid://shopify/Product/10472288944394": {
+   "title": "Elcykel ROMET PROECO Wave LTD 1.0, röd",
+   "status": "DRAFT",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "22733.1"
+  },
+  "gid://shopify/Product/10472287863050": {
+   "title": "El-fatbike LEADER FOX Braga 26\": Svart",
+   "status": "DRAFT",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "35209.0"
+  },
+  "gid://shopify/Product/10472287305994": {
+   "title": "Elcykel Fatbike Leader Fox Brasa, 26 tum, Grön",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "36279.0"
+  },
+  "gid://shopify/Product/10472286355722": {
+   "title": "Elcykel Totem XC921, Grå",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "TOTEM",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "13829.0"
+  },
+  "gid://shopify/Product/10472283046154": {
+   "title": "El-lastcykel AMLADCYKLER Ultimate Curve MID",
+   "status": "DRAFT",
+   "tags": [
+    "Amladcyclers",
+    "Amladcykler",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "59089.0"
+  },
+  "gid://shopify/Product/10472282980618": {
+   "title": "El-lastcykel Amladcykler Ultimate Harmony",
+   "status": "ACTIVE",
+   "tags": [
+    "Amladcyclers",
+    "Amladcykler",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "47789.0"
+  },
+  "gid://shopify/Product/10472282620170": {
+   "title": "Elcykel Kona Remote 160, 29 tum, Gloss Metallic Black",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Kona",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "62669.0"
+  },
+  "gid://shopify/Product/10472281112842": {
+   "title": "Elcykel ADO Air 20 PRO, hopfällbar, grå",
+   "status": "DRAFT",
+   "tags": [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "26360.1"
+  },
+  "gid://shopify/Product/10472281080074": {
+   "title": "Hopfällbar Elcykel ADO Air 20 PRO, Blå",
+   "status": "ACTIVE",
+   "tags": [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "Velomarket",
+    "Vikbar cykel",
+    "cykel",
+    "hopfällbar",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "28789.0"
+  },
+  "gid://shopify/Product/10472265810186": {
+   "title": "Elcykel MOMENTUM Voya E+ 3 Bumblebee",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Momentum",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "10889.1"
+  },
+  "gid://shopify/Product/10472263024906": {
+   "title": "Batteri Titan, FIIDO Titan för elcykel",
+   "status": "ACTIVE",
+   "tags": [
+    "Elcykel",
+    "Fido",
+    "Fiido",
+    "På beställning",
+    "Tillbehör",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "7759.0"
+  },
+  "gid://shopify/Product/10472258273546": {
+   "title": "Elcykel Giant Roam E+ STA, 28 tum",
+   "status": "DRAFT",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "21149.1"
+  },
+  "gid://shopify/Product/10472258240778": {
+   "title": "Elcykel GIANT DailyTour E+ 1 BD LDS, Metallic Navy",
+   "status": "DRAFT",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "Hybridcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "42380.1"
+  },
+  "gid://shopify/Product/10472257126666": {
+   "title": "Elcykel Victoria eTrekking 4.7, Diamond 28\" brun",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Hybridcykel",
+    "Velomarket",
+    "Victoria",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "32409.0"
+  },
+  "gid://shopify/Product/10472256176394": {
+   "title": "Elcykel Tenways AGO X, 29 tum, Midnight Black",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Mountainbike",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "45159.0"
+  },
+  "gid://shopify/Product/10472255979786": {
+   "title": "Elcykel Tenways AGO X 29 tum, Gradient Silver",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Mountainbike",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "45159.0"
+  },
+  "gid://shopify/Product/10472255193354": {
+   "title": "Elcykel TENWAYS AGO X, 29\" Sky Blue",
+   "status": "DRAFT",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Mountainbike",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "30716.1"
+  },
+  "gid://shopify/Product/10472254308618": {
+   "title": "Elcykel Giant Explore E+ 1 GTS, Misty Forest",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "55939.0"
+  },
+  "gid://shopify/Product/10472253718794": {
+   "title": "El-lastcykel Cangoo Buckle Up",
+   "status": "ACTIVE",
+   "tags": [
+    "Cangoo",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "88419.0"
+  },
+  "gid://shopify/Product/10472253456650": {
+   "title": "Elcykel GIANT Explore E+ 0 Pro STA, Gunmetal Black",
+   "status": "DRAFT",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "57689.1"
+  },
+  "gid://shopify/Product/10472250966282": {
+   "title": "Elcykel ADO Air 28 PRO, Grå",
+   "status": "ACTIVE",
+   "tags": [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "32139.0"
+  },
+  "gid://shopify/Product/10472250769674": {
+   "title": "Elcykel Giant Explore E+ 4 GTS, Hematite",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "34369.0"
+  },
+  "gid://shopify/Product/10472250343690": {
+   "title": "Skydd för elcykelns mittmotor Basil Mid Engine Cover, svart",
+   "status": "ACTIVE",
+   "tags": [
+    "Basil",
+    "Elcykel",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "pris": "409.0"
+  },
+  "gid://shopify/Product/10472250212618": {
+   "title": "El-lastcykel Cargobike of Sweden Delight Dog",
+   "status": "ACTIVE",
+   "tags": [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "82489.0"
+  },
+  "gid://shopify/Product/10472250179850": {
+   "title": "Elcykel Tenways CGO600 Pro, Ljusgrå",
+   "status": "ACTIVE",
+   "tags": [
+    "Cykelbelysning",
+    "Cyklar",
+    "Elcykel",
+    "Gravelcykel",
+    "TENWAYS",
+    "Velomarket",
+    "cykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "31739.0"
+  },
+  "gid://shopify/Product/10472249852170": {
+   "title": "El-lastcykel Cargobike of Sweden Classic Dog",
+   "status": "ACTIVE",
+   "tags": [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "62018.1"
+  },
+  "gid://shopify/Product/10472249819402": {
+   "title": "Elcykel Jobobike Viva ST, 28 tum, Blå",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "JOBOBIKE",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "16899.0"
+  },
+  "gid://shopify/Product/10472249688330": {
+   "title": "El-lastcykel Cargobike of Sweden Delight Kindergarten",
+   "status": "ACTIVE",
+   "tags": [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "83939.0"
+  },
+  "gid://shopify/Product/10472248508682": {
+   "title": "Elcykel GIANT Trance X E+ 2, 29\" Messier",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "79289.1"
+  },
+  "gid://shopify/Product/10472248246538": {
+   "title": "Elcykel ADO Air 28, 28 tum, Ljusgul",
+   "status": "ACTIVE",
+   "tags": [
+    "ADO",
+    "Cykelbelysning",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "25399.0"
+  },
+  "gid://shopify/Product/10472248148234": {
+   "title": "El-lastcykel Jobobike Transer, Grön",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "JOBOBIKE",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "40899.0"
+  },
+  "gid://shopify/Product/10472246968586": {
+   "title": "El-lastcykel Ecobike Cargo",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Ecobike",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "45549.0"
+  },
+  "gid://shopify/Product/10472246608138": {
+   "title": "El-lastcykel Cargobike of Sweden Classic",
+   "status": "ACTIVE",
+   "tags": [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "66149.0"
+  },
+  "gid://shopify/Product/10472243790090": {
+   "title": "El-lastcykel Cargobike of Sweden Delight",
+   "status": "ACTIVE",
+   "tags": [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "79309.0"
+  },
+  "gid://shopify/Product/10472243691786": {
+   "title": "Elcykel Fiido C11, Vit",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Elcyklar",
+    "Fido",
+    "Fiido",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "21379.0"
+  },
+  "gid://shopify/Product/10472243626250": {
+   "title": "Elcykel Fiido C11, Emerald Green",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Elcyklar",
+    "Fido",
+    "Fiido",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "21379.0"
+  },
+  "gid://shopify/Product/10472241922314": {
+   "title": "Folding electric bicycle FIIDO X",
+   "status": "DRAFT",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Fido",
+    "Fiido",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "20582.1"
+  },
+  "gid://shopify/Product/10472241299722": {
+   "title": "Hopfällbar Elcykel Italwin K2 XL, Vit",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Italwin",
+    "Velomarket",
+    "Vikbar cykel",
+    "cykel",
+    "hopfällbar",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "24519.0"
+  },
+  "gid://shopify/Product/10472236482826": {
+   "title": "Hopfällbar Elcykel ADO A20S Air, 20 tum, Grå",
+   "status": "ACTIVE",
+   "tags": [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "Velomarket",
+    "Vikbar cykel",
+    "cykel",
+    "hopfällbar",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "22049.0"
+  },
+  "gid://shopify/Product/10472236384522": {
+   "title": "Hopfällbar Elcykel ADO A20S Air, 20 tum, Blå",
+   "status": "ACTIVE",
+   "tags": [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "Vikbar cykel",
+    "cykel",
+    "hopfällbar",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "22049.0"
+  },
+  "gid://shopify/Product/10471305838858": {
+   "title": "Elcykel Liv Tempt E+ EX, Sandshell",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "47459.0"
+  },
+  "gid://shopify/Product/10471199342858": {
+   "title": "Elcykel Tenways CGO600 Pro, Himmelsblå",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "26918.1"
+  },
+  "gid://shopify/Product/10471199080714": {
+   "title": "Elcykel Tenways CGO600 Pro, Avocado Green",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "26918.1"
+  },
+  "gid://shopify/Product/10471141605642": {
+   "title": "Elcykel Tenways Ago Air, Velvet Red",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Mountainbike",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "39459.0"
+  },
+  "gid://shopify/Product/10471128498442": {
+   "title": "Elcykel Giant Fathom E+ 1 EX, 29 tum, Space Grey",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "49949.1"
+  },
+  "gid://shopify/Product/10471124992266": {
+   "title": "El-lastcykel TENWAYS Longtail DUO",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "65049.0"
+  },
+  "gid://shopify/Product/10471119159562": {
+   "title": "El-lastcykel Momentum PakYak E+, Svart",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "Momentum",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "28961.1"
+  },
+  "gid://shopify/Product/10471090749706": {
+   "title": "Elcykel Tenways CGO600 Pro, Pebble Grey",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "34319.0"
+  },
+  "gid://shopify/Product/10471090553098": {
+   "title": "Elcykel Tenways CGO600 Pro, Midnight Black",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "34319.0"
+  },
+  "gid://shopify/Product/10471067222282": {
+   "title": "Elcykel TENWAYS CGO600 Plus, himmelsblå",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "31739.0"
+  },
+  "gid://shopify/Product/10471065026826": {
+   "title": "Elcykel Romet ProEco Wave AN 1.0 R, Grafit",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "23359.0"
+  },
+  "gid://shopify/Product/10471010730250": {
+   "title": "El-fatbike LEADER FOX Braga 26\": Grön",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "35209.0"
+  },
+  "gid://shopify/Product/10471009485066": {
+   "title": "Elcykel Fatbike Leader Fox Brasa, 26 tum, Vit",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "36279.0"
+  },
+  "gid://shopify/Product/10470930153738": {
+   "title": "Elcykel TOTEM XC921, 28\" vit",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "TOTEM",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "14899.0"
+  },
+  "gid://shopify/Product/10470923141386": {
+   "title": "Elcykel Giant Stormguard E+ 2, Good Grey",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "103769.0"
+  },
+  "gid://shopify/Product/10470923075850": {
+   "title": "Elcykel Giant Roam E+ GTS, 28 tum",
+   "status": "DRAFT",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Hybridcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "24137.1"
+  },
+  "gid://shopify/Product/10470915539210": {
+   "title": "Elcykel KONA Dew-E, 27.5\" Satin Black",
+   "status": "DRAFT",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "38600.1"
+  },
+  "gid://shopify/Product/10470912557322": {
+   "title": "Elcykel Tenways CGO009, Ljusblå",
+   "status": "ACTIVE",
+   "tags": [
+    "Cykelbelysning",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "45188.1"
+  },
+  "gid://shopify/Product/10470908526858": {
+   "title": "Elcykel TOTEM XC920 28\", grå",
+   "status": "DRAFT",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "TOTEM",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "14429.0"
+  },
+  "gid://shopify/Product/10470907412746": {
+   "title": "Elcykel ADO Air 28 PRO, Ljusgul",
+   "status": "ACTIVE",
+   "tags": [
+    "ADO",
+    "Cykelbelysning",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "32139.0"
+  },
+  "gid://shopify/Product/10470906659082": {
+   "title": "El-lastcykel Cargobike of Sweden Classic Kindergarten",
+   "status": "ACTIVE",
+   "tags": [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "68381.1"
+  },
+  "gid://shopify/Product/10470906364170": {
+   "title": "El-lastcykel Cargobike of Sweden Classic Box",
+   "status": "ACTIVE",
+   "tags": [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "66527.1"
+  },
+  "gid://shopify/Product/10470906331402": {
+   "title": "El-lastcykel Cargobike of Sweden Flex Box",
+   "status": "ACTIVE",
+   "tags": [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "73669.0"
+  },
+  "gid://shopify/Product/10470906167562": {
+   "title": "El-lastcykel Cargobike of Sweden Delight Box",
+   "status": "ACTIVE",
+   "tags": [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "88129.0"
+  },
+  "gid://shopify/Product/10470905446666": {
+   "title": "Baklykta AXA Juno E-Bike, 6–12 V, 80 mm",
+   "status": "ACTIVE",
+   "tags": [
+    "AXA",
+    "Cykelbelysning",
+    "Elcykel",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "pris": "179.0"
+  },
+  "gid://shopify/Product/10470905413898": {
+   "title": "Baklykta AXA Juno E-Bike, 6–12 V, 50 mm",
+   "status": "ACTIVE",
+   "tags": [
+    "AXA",
+    "Cykelbelysning",
+    "Elcykel",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "pris": "179.0"
+  },
+  "gid://shopify/Product/10470905282826": {
+   "title": "El-lastcykel Cargobike of Sweden Svensson Family",
+   "status": "ACTIVE",
+   "tags": [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "50389.0"
+  },
+  "gid://shopify/Product/10470905086218": {
+   "title": "Elcykel GIANT Stormguard E+ 3, Bay Leaf",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "90389.0"
+  },
+  "gid://shopify/Product/10470903152906": {
+   "title": "Elcykel Tenways AGO T, Jungle Green",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Mountainbike",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "43793.1"
+  },
+  "gid://shopify/Product/10470903087370": {
+   "title": "Elcykel Jobobike Robin ST, 26 tum, Svart",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "JOBOBIKE",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "28489.0"
+  },
+  "gid://shopify/Product/10470902366474": {
+   "title": "El-lastcykel AMLADCYKLER Ultimate Curve",
+   "status": "DRAFT",
+   "tags": [
+    "Amladcykler",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "46199.0"
+  },
+  "gid://shopify/Product/10470902333706": {
+   "title": "El-lastcykel Amladcykler Deluxe",
+   "status": "ACTIVE",
+   "tags": [
+    "Amladcyclers",
+    "Amladcykler",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "41079.0"
+  },
+  "gid://shopify/Product/10470900957450": {
+   "title": "Elcykel Jobobike Robin ST, 26 tum, Grön",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "JOBOBIKE",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "28339.0"
+  },
+  "gid://shopify/Product/10470900924682": {
+   "title": "Elcykel Giant Talon E+ 3, 29 tum, Gunmetalsvart",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "35839.0"
+  },
+  "gid://shopify/Product/10469246206218": {
+   "title": "Elcykel Liv Lurra E+, Lunar Eclipse",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "53559.0"
+  },
+  "gid://shopify/Product/10469226283274": {
+   "title": "Elcykel Kona Remote 130 (2025), 29 tum, Gloss Metallic Blue",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Kona",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "64319.0"
+  },
+  "gid://shopify/Product/10469208916234": {
+   "title": "Elcykel Liv Allure E+ 2, Desert Sage",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "52649.0"
+  },
+  "gid://shopify/Product/10469208752394": {
+   "title": "Elcykel ADO Air 28, 28 tum, Grå",
+   "status": "ACTIVE",
+   "tags": [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "25399.0"
+  },
+  "gid://shopify/Product/10468779032842": {
+   "title": "Elcykel LIV Tempt E+, Lunar Eclipse",
+   "status": "ARCHIVED",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Liv",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "44429.0"
+  },
+  "gid://shopify/Product/10468777525514": {
+   "title": "Elcykel Giant Trance X Advanced E+ Elite 2, Sea Sparkle",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "72179.1"
+  },
+  "gid://shopify/Product/10468776739082": {
+   "title": "Elcykel Giant Trance X Advanced E+ Elite 1, Raw Carbon",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "122525.1"
+  },
+  "gid://shopify/Product/10468744397066": {
+   "title": "Elcykel KONA Remote X (2025) 29\" Gloss Viridian (Blå)",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Kona",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "111209.0"
+  },
+  "gid://shopify/Product/10468736499978": {
+   "title": "Elcykel Giant Roam E+ STA, 28 tum",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "Hybridcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "27188.1"
+  },
+  "gid://shopify/Product/10468734992650": {
+   "title": "Elcykel Tenways CGO600 Plus, 700x48c, Stengrå",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "34339.0"
+  },
+  "gid://shopify/Product/10468727521546": {
+   "title": "Elcykel Fatbike Leader Fox Brasa, 26 tum, Grå",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "LEADERFOX",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "36279.0"
+  },
+  "gid://shopify/Product/10468719034634": {
+   "title": "Eltrehjuling Amladcykler Lightweight Tricycle, 24 tum",
+   "status": "ACTIVE",
+   "tags": [
+    "Amladcykler",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "37519.0"
+  },
+  "gid://shopify/Product/10468716216586": {
+   "title": "El-lastcykel Tenways Cargo One",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "102249.0"
+  },
+  "gid://shopify/Product/10468713791754": {
+   "title": "Elcykel Tenways AGO T, Pärlvit",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Mountainbike",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "47829.0"
+  },
+  "gid://shopify/Product/10468708614410": {
+   "title": "El-lastcykel Cargobike of Sweden Flex",
+   "status": "ACTIVE",
+   "tags": [
+    "Cargobike of Sweden",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "64849.0"
+  },
+  "gid://shopify/Product/10462832558346": {
+   "title": "Elcykel ADO Air 30 Ultra, 700x40c, Meteorgrå",
+   "status": "ACTIVE",
+   "tags": [
+    "ADO",
+    "Cyklar",
+    "Elcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "33849.0"
+  },
+  "gid://shopify/Product/10462762369290": {
+   "title": "Elcykel GIANT Talon E+ 2, 29\" Svart",
+   "status": "DRAFT",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "28133.1"
+  },
+  "gid://shopify/Product/10462752309514": {
+   "title": "Elcykel GIANT Explore E+ 4 STA, Hematite",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "28754.1"
+  },
+  "gid://shopify/Product/10462190272778": {
+   "title": "Elcykel Tenways AGO T, Svart",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Mountainbike",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "50559.0"
+  },
+  "gid://shopify/Product/10462177526026": {
+   "title": "Elcykel Tenways CGO009, Djungelgrön",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "45188.1"
+  },
+  "gid://shopify/Product/10462150525194": {
+   "title": "El-lastcykel Cangoo Buzz",
+   "status": "ACTIVE",
+   "tags": [
+    "Cangoo",
+    "Cyklar",
+    "Elcykel",
+    "Lastcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "70629.0"
+  },
+  "gid://shopify/Product/10460947251466": {
+   "title": "Elcykel Giant Talon E+ EX, 29 tum, Metallicmarinblå",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "51149.0"
+  },
+  "gid://shopify/Product/10460942336266": {
+   "title": "Elcykel Giant Fathom E+ 2, 29 tum, Gunmetalsvart",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "54289.0"
+  },
+  "gid://shopify/Product/10430383948042": {
+   "title": "Hopfällbar Elcykel Coast Vybe Light, Dammblå",
+   "status": "ACTIVE",
+   "tags": [
+    "COAST",
+    "Cykelbelysning",
+    "Cyklar",
+    "Elcykel",
+    "Velomarket",
+    "Vikbar cykel",
+    "cykel",
+    "hopfällbar",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "26149.0"
+  }
+ },
+ "undantas": [
+  "gid://shopify/Product/10475369562378"
+ ]
+}

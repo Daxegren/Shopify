@@ -1,0 +1,2525 @@
+{
+ "tid": "2026-11-17T15:10:43Z",
+ "kollektion": {
+  "id": "gid://shopify/Collection/561573298442",
+  "handle": "racercykel",
+  "title": "Racercykel",
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "racercykel"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "tävlingscykel"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "race bike"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "road bike"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "racer"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "__typename": "CollectionConditionsSource",
+    "id": "gid://shopify/CollectionConditionsSource/24985534730",
+    "title": "Untitled Source",
+    "targetType": "PRODUCTS",
+    "inclusion": {
+     "matchType": "ANY",
+     "conditions": [
+      {
+       "__typename": "CollectionSourceInclusionConditionProductTag"
+      }
+     ]
+    },
+    "exclusion": {
+     "matchType": "ALL",
+     "conditions": [],
+     "selections": {
+      "nodes": []
+     }
+    }
+   }
+  ]
+ },
+ "faltoversikt": {
+  "id": "gid://shopify/Collection/561573298442",
+  "handle": "racercykel",
+  "title": "Racercykel",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "racercykel",
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "racercykel"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "tävlingscykel"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "race bike"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "road bike"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "racer"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 168
+  }
+ },
+ "medlemmar_fore": {
+  "gid://shopify/Product/10708320485642": {
+   "title": "Landsvägscykel GIANT Propel Advanced Pro 0 AXS (2027) Obsidian Pulse",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "92753.1"
+  },
+  "gid://shopify/Product/10708320026890": {
+   "title": "Landsvägscykel GIANT Trinity Advanced SL 0 (2027) Prism Pearl",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "184489.0"
+  },
+  "gid://shopify/Product/10708319928586": {
+   "title": "Damcykel LIV EnviLiv Advanced Pro 0 AXS (2027) Ember Violet",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "103809.0"
+  },
+  "gid://shopify/Product/10676721189130": {
+   "title": "Landsvägscykel Giant Propel Advanced Pro 0 AXS (2027)",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "93437.1"
+  },
+  "gid://shopify/Product/10676719419658": {
+   "title": "Landsvägscykel GIANT Defy Advanced 2 (2027) Pearl White",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "41369.0"
+  },
+  "gid://shopify/Product/10676719288586": {
+   "title": "Landsvägscykel Giant Defy Advanced 2 (2027), Pearl White",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "37241.1"
+  },
+  "gid://shopify/Product/10676718797066": {
+   "title": "Landsvägscykel GIANT Defy Advanced Pro 1 (2027) Midnight Moon",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "76399.0"
+  },
+  "gid://shopify/Product/10676718698762": {
+   "title": "Landsvägscykel GIANT Defy Advanced Pro 1 (2027) Midnight Moon",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "68768.1"
+  },
+  "gid://shopify/Product/10676718665994": {
+   "title": "Landsvägscykel Giant Defy Advanced Pro 1 (2027), Midnight Moon",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "68768.1"
+  },
+  "gid://shopify/Product/10676718174474": {
+   "title": "Landsvägscykel GIANT Trinity Advanced SL 2 (2027) Carbon/Pearl Teal",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "115959.0"
+  },
+  "gid://shopify/Product/10676717945098": {
+   "title": "Landsvägscykel GIANT Defy Advanced Pro 0 (2027) Luminous Lagoon",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "84572.1"
+  },
+  "gid://shopify/Product/10676717846794": {
+   "title": "Landsvägscykel Giant Defy Advanced Pro 0 (2027), Luminous Lagoon",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "85202.1"
+  },
+  "gid://shopify/Product/10665232204042": {
+   "title": "Liv Avow Advanced SL 2 (2027) Damracersportcykel Pearl White",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "115959.0"
+  },
+  "gid://shopify/Product/10665232171274": {
+   "title": "Damcykel Liv EnviLiv Advanced 1 (2027), Null White",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "67239.0"
+  },
+  "gid://shopify/Product/10665232138506": {
+   "title": "Landsvägscykel Giant Trinity Advanced SL 2 (2027), Carbon/Pearl Teal",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "115959.0"
+  },
+  "gid://shopify/Product/10635810046218": {
+   "title": "Liv Avail Advanced 1 (2027) damcykel, Shell White",
+   "status": "ARCHIVED",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "40805.1"
+  },
+  "gid://shopify/Product/10624088670474": {
+   "title": "Damcykel Liv Avail Advanced Pro 0 (2027), Midnight Pine",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "94649.0"
+  },
+  "gid://shopify/Product/10624088637706": {
+   "title": "Damcykel Liv Avail Advanced 1 (2027), Shell White",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "46484.1"
+  },
+  "gid://shopify/Product/10624088572170": {
+   "title": "Damcykel Liv Avail Advanced 2, 700x32c, Cosmic Dust",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "41369.0"
+  },
+  "gid://shopify/Product/10624087818506": {
+   "title": "Landsvägscykel GIANT Defy Advanced Pro 1 (2027) Midnight Moon",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "54710.1"
+  },
+  "gid://shopify/Product/10624087785738": {
+   "title": "Landsvägscykel GIANT Defy Advanced Pro 0 (2027) Luminous Lagoon",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "68021.1"
+  },
+  "gid://shopify/Product/10624087752970": {
+   "title": "Landsvägscykel GIANT Defy Advanced 2 (2027) Pearl White",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "32444.1"
+  },
+  "gid://shopify/Product/10624087654666": {
+   "title": "Landsvägscykel Giant Defy Advanced Pro 1 (2027), Midnight Moon",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "68264.1"
+  },
+  "gid://shopify/Product/10624087621898": {
+   "title": "Landsvägscykel GIANT Defy Advanced 2 (2027) Pearl White",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "41369.0"
+  },
+  "gid://shopify/Product/10624087556362": {
+   "title": "Landsvägscykel Giant Defy Advanced Pro 0 (2027), Luminous Lagoon",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "85202.1"
+  },
+  "gid://shopify/Product/10624087523594": {
+   "title": "Landsvägscykel GIANT Defy Advanced 1 (2027) Obsidian Pulse",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "40805.1"
+  },
+  "gid://shopify/Product/10624087490826": {
+   "title": "Landsvägscykel Giant Defy Advanced 0 (2027), Supernova Grey",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "54665.1"
+  },
+  "gid://shopify/Product/10624086507786": {
+   "title": "Motionscykel Hammer Speed Race med 16 kg Svänghjul",
+   "status": "ACTIVE",
+   "tags": [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "9609.0"
+  },
+  "gid://shopify/Product/10624084377866": {
+   "title": "Motionscykel HAMMER Speed Race S",
+   "status": "ACTIVE",
+   "tags": [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "16509.0"
+  },
+  "gid://shopify/Product/10598564692234": {
+   "title": "LIV EnviLiv Advanced 2 (2027) Damracen Midnight Pine",
+   "status": "ARCHIVED",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "47459.0"
+  },
+  "gid://shopify/Product/10589706092810": {
+   "title": "Spinningcykel Hammer Speed Race X med 20 kg Svänghjul",
+   "status": "ACTIVE",
+   "tags": [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "13839.0"
+  },
+  "gid://shopify/Product/10588452684042": {
+   "title": "Landsvägscykel Giant Propel Advanced 0 (2027), Azurite Blue",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "69605.1"
+  },
+  "gid://shopify/Product/10588451832074": {
+   "title": "Landsvägscykel GIANT Propel Advanced SL 0 RED (2027) Superspeed Blå",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "184489.0"
+  },
+  "gid://shopify/Product/10588451438858": {
+   "title": "Racercykel Liv EnviLiv Advanced 2 (2027), 700x28c, Midnight Pine",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "47459.0"
+  },
+  "gid://shopify/Product/10581593358602": {
+   "title": "Bakskärm Ass Savers Win Wing Road Logo",
+   "status": "ACTIVE",
+   "tags": [
+    "Ass Savers",
+    "Racercykel",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "pris": "319.0"
+  },
+  "gid://shopify/Product/10565633769738": {
+   "title": "Landsvägscykel Giant Propel Advanced 1 (2027), Carbon, XL",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "67239.0"
+  },
+  "gid://shopify/Product/10561356398858": {
+   "title": "Landsvägscykel GIANT Propel Advanced 2 (2027) Vit",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "47459.0"
+  },
+  "gid://shopify/Product/10554363117834": {
+   "title": "Pedalplattor Look Keo Cleat, Röd, 9 grader",
+   "status": "ACTIVE",
+   "tags": [
+    "Look",
+    "Pedaler",
+    "Racercykel",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "pris": "279.0"
+  },
+  "gid://shopify/Product/10554361905418": {
+   "title": "Däckreparationskit Giant Quick Fix Kit Road",
+   "status": "ACTIVE",
+   "tags": [
+    "Giant",
+    "Racercykel",
+    "Tillbehör",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "1479.0"
+  },
+  "gid://shopify/Product/10554354270474": {
+   "title": "Bakskärm ASS SAVERS Win Wing 2 Road Praline",
+   "status": "DRAFT",
+   "tags": [
+    "Ass Savers",
+    "Racercykel",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "pris": "339.0"
+  },
+  "gid://shopify/Product/10541100499210": {
+   "title": "Bakskärm Ass Savers Win Wing 2 Road Spektrum",
+   "status": "ACTIVE",
+   "tags": [
+    "Ass Savers",
+    "Racercykel",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "pris": "359.0"
+  },
+  "gid://shopify/Product/10530216771850": {
+   "title": "Landsvägscykel Giant Propel Advanced 2 (2027), Vit, XL",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "47459.0"
+  },
+  "gid://shopify/Product/10526098850058": {
+   "title": "Landsvägscykel Giant Propel Advanced SL 0 RED (2027), Superspeed Blå",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "173114.1"
+  },
+  "gid://shopify/Product/10526098718986": {
+   "title": "Landsvägscykel Giant Propel Advanced Pro DA (2027), Supernova Grey",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "128149.0"
+  },
+  "gid://shopify/Product/10523487174922": {
+   "title": "Landsvägscykel Giant Contend AR 2 (2026), 700x32c, Thundercloud",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "23480.1"
+  },
+  "gid://shopify/Product/10515754483978": {
+   "title": "Tricksparkcykel Union Aero S Svart",
+   "status": "ACTIVE",
+   "tags": [
+    "Racercykel",
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "4029.0"
+  },
+  "gid://shopify/Product/10515754451210": {
+   "title": "Stuntsparkcykel Union Aero XS Scooter, Svart",
+   "status": "ACTIVE",
+   "tags": [
+    "Racercykel",
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "4009.0"
+  },
+  "gid://shopify/Product/10515754352906": {
+   "title": "Stuntsparkcykel Union Aero XS, Svart/Grå",
+   "status": "ACTIVE",
+   "tags": [
+    "Racercykel",
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "3969.0"
+  },
+  "gid://shopify/Product/10515737542922": {
+   "title": "Landsvägscykelsadlar Giant Road Pro",
+   "status": "ACTIVE",
+   "tags": [
+    "Giant",
+    "Racercykel",
+    "Tillbehör",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "2009.0"
+  },
+  "gid://shopify/Product/10507440783626": {
+   "title": "Landsvägscykel Giant Propel Advanced 2 (2027), Vit, S",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "47459.0"
+  },
+  "gid://shopify/Product/10502528270602": {
+   "title": "Landsvägscykel GIANT Contend AR 2, Thundercloud",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "26149.0"
+  },
+  "gid://shopify/Product/10502528205066": {
+   "title": "Damcykel Liv Avail AR 2 (2026), 700x32c, Lavender Blush",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "20510.1"
+  },
+  "gid://shopify/Product/10502528172298": {
+   "title": "Damcykel Liv Avail AR 1 (2026) Sandshell/Cold Night",
+   "status": "ARCHIVED",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "22886.1"
+  },
+  "gid://shopify/Product/10502528106762": {
+   "title": "Landsvägscykel Giant Defy Advanced 0 (2026), Meteorite Mist, S",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "50021.1"
+  },
+  "gid://shopify/Product/10494945722634": {
+   "title": "Landsvägscykel Bottecchia Aerospace Ultegra Di2, Nero Lucido",
+   "status": "ACTIVE",
+   "tags": [
+    "Bottecchia",
+    "Cyklar",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "81489.0"
+  },
+  "gid://shopify/Product/10494945165578": {
+   "title": "Landsvägscykel Bottecchia 8avio Ultimate, Shimano 105 Di2",
+   "status": "ACTIVE",
+   "tags": [
+    "Bottecchia",
+    "Cyklar",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "47744.1"
+  },
+  "gid://shopify/Product/10494945001738": {
+   "title": "Landsvägscykel BOTTECCHIA 8avio Ultimate - Ultegra Di2 24s - C15 Vit Blå",
+   "status": "ACTIVE",
+   "tags": [
+    "Bottecchia",
+    "Cyklar",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "59192.1"
+  },
+  "gid://shopify/Product/10494910431498": {
+   "title": "Landsvägscykel Giant Trinity Advanced SL 2, Carbon/Blue Dragonfly, S",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "106172.1"
+  },
+  "gid://shopify/Product/10494697079050": {
+   "title": "Pakethållare Ibera PakRak Road IB-RA17, Svart",
+   "status": "ACTIVE",
+   "tags": [
+    "Ibera",
+    "Iberian",
+    "Pakethållare",
+    "Racercykel",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "pris": "719.0"
+  },
+  "gid://shopify/Product/10494695932170": {
+   "title": "Pedalblock Look Keo Grip, 9 grader",
+   "status": "ACTIVE",
+   "tags": [
+    "Cykeldelar",
+    "Look",
+    "Pedaler",
+    "Racercykel",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "pris": "319.0"
+  },
+  "gid://shopify/Product/10494687805706": {
+   "title": "Pedaler Giant Road Comp, utan klossar",
+   "status": "ACTIVE",
+   "tags": [
+    "Cykeldelar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "pris": "719.0"
+  },
+  "gid://shopify/Product/10488326226186": {
+   "title": "Landsvägscykel Giant Propel Advanced 2 (2027), 700x28c, Vit",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "47459.0"
+  },
+  "gid://shopify/Product/10488318427402": {
+   "title": "Landsvägscykel Giant Trinity Advanced SL 2, Carbon/Blue Dragonfly, L",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "90602.1"
+  },
+  "gid://shopify/Product/10488318329098": {
+   "title": "Landsvägscykel GIANT Propel Advanced 1 (2027) Carbon",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "67239.0"
+  },
+  "gid://shopify/Product/10488282185994": {
+   "title": "Liv Avail Advanced 0 damcykel, Interstellar",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "60479.0"
+  },
+  "gid://shopify/Product/10488246829322": {
+   "title": "Damcykel Liv Avail AR 1, 700x32c, Sandshell/Cold Night",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "19871.1"
+  },
+  "gid://shopify/Product/10488246796554": {
+   "title": "Damcykel Liv Avail AR 2, 700x32c, storlek S",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "20510.1"
+  },
+  "gid://shopify/Product/10486710305034": {
+   "title": "Landsvägscykel Giant Propel Advanced 1 (2027), Carbon",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "67239.0"
+  },
+  "gid://shopify/Product/10480050110730": {
+   "title": "Landsvägscykel Giant Trinity Advanced SL 0, Carbon/Prismatic Haze",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "185989.0"
+  },
+  "gid://shopify/Product/10480047325450": {
+   "title": "Landsvägscykel Giant TCR Advanced 0 PC",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "44711.1"
+  },
+  "gid://shopify/Product/10476279988490": {
+   "title": "GIANT Defy Advanced 0 (2026) Road Bike Meteorite Mist",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "58445.1"
+  },
+  "gid://shopify/Product/10476279496970": {
+   "title": "Road bike GIANT Defy Advanced 2 (2026) Abyss Black",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "33308.1"
+  },
+  "gid://shopify/Product/10476276547850": {
+   "title": "Landsvägscykel Giant Contend AR 1, 700x32c, Abyss Black",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "22886.1"
+  },
+  "gid://shopify/Product/10476276449546": {
+   "title": "Road bike GIANT Trinity Advanced SL 2, Carbon/Blue Dragonfly",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "115959.0"
+  },
+  "gid://shopify/Product/10476274909450": {
+   "title": "Landsvägscykel GIANT Contend AR 1, Abyss Black",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "22886.1"
+  },
+  "gid://shopify/Product/10476248531210": {
+   "title": "Landsvägscykel Giant Defy Advanced 0 (2026), Meteorite Mist",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "50021.1"
+  },
+  "gid://shopify/Product/10476246892810": {
+   "title": "Landsvägscykel Giant Trinity Advanced SL 2, Carbon/Blue Dragonfly",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "121247.1"
+  },
+  "gid://shopify/Product/10476218679562": {
+   "title": "Maanteeratas GIANT TCR Advanced 0 PC, Frost Silver",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "45053.1"
+  },
+  "gid://shopify/Product/10476214026506": {
+   "title": "Landsvägscykel Giant TCR Advanced Pro 0 Di2, Ocean Twilight",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "69821.1"
+  },
+  "gid://shopify/Product/10476211175690": {
+   "title": "Landsvägscykel GIANT TCR Advanced 2 PC, Illusion White",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "39399.0"
+  },
+  "gid://shopify/Product/10476178669834": {
+   "title": "Landsvägscykel Giant Defy Advanced 1 (2026), Thundercloud",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "44036.1"
+  },
+  "gid://shopify/Product/10476166807818": {
+   "title": "Landsvägscykel Giant Defy Advanced 1, Thundercloud, M/L",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "50561.1"
+  },
+  "gid://shopify/Product/10476166217994": {
+   "title": "Landsvägscykel Giant Defy Advanced 2, 700x32c, Abyss Black",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "34298.1"
+  },
+  "gid://shopify/Product/10476145213706": {
+   "title": "Landsvägscykel GIANT Trinity Advanced SL 0 Carbon/Prismatic Haze",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "195623.1"
+  },
+  "gid://shopify/Product/10476124012810": {
+   "title": "Landsvägscykel Giant TCR Advanced 2 PC, 700x25c, Illusion White",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "39399.0"
+  },
+  "gid://shopify/Product/10476123521290": {
+   "title": "Landsvägscykel Giant TCR Advanced Pro 1-Di2, Carbon",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "67969.0"
+  },
+  "gid://shopify/Product/10476107497738": {
+   "title": "Landsvägscykel GIANT TCR Advanced Pro 1-Di2, Carbon",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "53306.1"
+  },
+  "gid://shopify/Product/10476107464970": {
+   "title": "Landsvägscykel GIANT TCR Advanced Pro 0 Di2, Ocean Twilight",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "89029.0"
+  },
+  "gid://shopify/Product/10476066701578": {
+   "title": "Landsvägscykel Giant TCR Advanced 1 PC, Asphalt Green",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "44612.1"
+  },
+  "gid://shopify/Product/10476044845322": {
+   "title": "Landsvägscykel GIANT TCR Advanced 1 PC, Asphalt Green",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "39158.1"
+  },
+  "gid://shopify/Product/10474079453450": {
+   "title": "Cykel Giant Propel Advanced 2 Disc, Grenadine",
+   "status": "DRAFT",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "36071.1"
+  },
+  "gid://shopify/Product/10474076897546": {
+   "title": "Solglasögon GIANT STRATOS LITE SVART/GRÅ KOLOR UP ROAD CAT.3 + KLARA",
+   "status": "ACTIVE",
+   "tags": [
+    "Giant",
+    "Racercykel",
+    "Solglasögon",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "1579.0"
+  },
+  "gid://shopify/Product/10472484700426": {
+   "title": "Landsvägscykel Giant Defy Advanced 2, 700x32c, Bay Leaf",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "33965.1"
+  },
+  "gid://shopify/Product/10472435056906": {
+   "title": "Damcykel Liv Avail Advanced 2 (2026), RosyBrown/OceanStorm",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "33308.1"
+  },
+  "gid://shopify/Product/10472435024138": {
+   "title": "Road bike GIANT Propel Advanced 1 (2027) Carbon",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "67239.0"
+  },
+  "gid://shopify/Product/10472346812682": {
+   "title": "Stepbräda Tunturi Aero Step",
+   "status": "ACTIVE",
+   "tags": [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Racercykel",
+    "Stepper",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "step up",
+    "step up-bräda",
+    "texter-klara"
+   ],
+   "pris": "2019.0"
+  },
+  "gid://shopify/Product/10472335704330": {
+   "title": "Landsvägscykel Giant TCR Advanced 2 KOM, 700x28c, Stealth Chrome",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "40789.0"
+  },
+  "gid://shopify/Product/10472335671562": {
+   "title": "Landsvägscykel Giant TCR Advanced 1 PC, Dreamy Blue",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "54319.0"
+  },
+  "gid://shopify/Product/10472335376650": {
+   "title": "Landsvägscykel Giant Trinity Advanced SL 1, Carbon/Matte Carbon",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "147929.0"
+  },
+  "gid://shopify/Product/10472334295306": {
+   "title": "Road bike GIANT Propel Advanced 2 (2027) White",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "47459.0"
+  },
+  "gid://shopify/Product/10472330658058": {
+   "title": "Landsvägscykel GIANT Contend AR 2, Thundercloud",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "26149.0"
+  },
+  "gid://shopify/Product/10472329838858": {
+   "title": "Road bike BOTTECCHIA 8avio Ultimate - Shimano 105 24s - 71 Black Orange",
+   "status": "DRAFT",
+   "tags": [
+    "Bottecchia",
+    "Cyklar",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "40889.0"
+  },
+  "gid://shopify/Product/10472329773322": {
+   "title": "Road Bike BOTTECCHIA Emme 5 - Shimano 105 Di2 24s - D5 Glossy White",
+   "status": "ARCHIVED",
+   "tags": [
+    "Bottecchia",
+    "Cyklar",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "75249.0"
+  },
+  "gid://shopify/Product/10472322138378": {
+   "title": "Landsvägscykel Giant TCR Advanced 2 PC, 2025, Carbon",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "36071.1"
+  },
+  "gid://shopify/Product/10472321024266": {
+   "title": "Landsvägscykel Liv Langma Advanced SL 1, Cosmic Dust",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "116069.0"
+  },
+  "gid://shopify/Product/10472310669578": {
+   "title": "Tricksparkcykel Union Aero S Scooter Black/Raw",
+   "status": "ACTIVE",
+   "tags": [
+    "Racercykel",
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "3969.0"
+  },
+  "gid://shopify/Product/10472308670730": {
+   "title": "Tricksparkcykel Union Aero M Scooter Black/Raw",
+   "status": "ACTIVE",
+   "tags": [
+    "Racercykel",
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "3969.0"
+  },
+  "gid://shopify/Product/10472308637962": {
+   "title": "Tricksparkcykel Union Aero M Scooter Black",
+   "status": "ACTIVE",
+   "tags": [
+    "Racercykel",
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "4029.0"
+  },
+  "gid://shopify/Product/10472296284426": {
+   "title": "Landsvägscykel Giant Propel Advanced 2, 700c, Carbon",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "44919.0"
+  },
+  "gid://shopify/Product/10472295170314": {
+   "title": "LIV Avail Advanced 1 (2025) Women's Road Bike Mechanic Rose",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "52529.0"
+  },
+  "gid://shopify/Product/10472295039242": {
+   "title": "Landsvägscykel GIANT Defy Advanced 1 (2025) Frost Silver",
+   "status": "DRAFT",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "59174.1"
+  },
+  "gid://shopify/Product/10472294285578": {
+   "title": "Landsvägscykel Giant Defy Advanced 1, Charcoal/Milky Way",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "55539.0"
+  },
+  "gid://shopify/Product/10472290681098": {
+   "title": "Damcykel LIV Langma Advanced 2 QOM (2025) Prismatic Haze",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "41449.0"
+  },
+  "gid://shopify/Product/10472290320650": {
+   "title": "Landsvägscykel GIANT Propel Advanced Pro 1, Frost Silver",
+   "status": "DRAFT",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "60047.1"
+  },
+  "gid://shopify/Product/10472290124042": {
+   "title": "Landsvägscykel Giant TCR Advanced 1 PC, Mars Dust",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "49929.0"
+  },
+  "gid://shopify/Product/10472286028042": {
+   "title": "Barnhjälm LIMAR Kid Pro M, Race Black",
+   "status": "DRAFT",
+   "tags": [
+    "Barncykel",
+    "Hjälm",
+    "Limar",
+    "Lime",
+    "Racercykel",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "pris": "479.0"
+  },
+  "gid://shopify/Product/10472285995274": {
+   "title": "Pudelhållare ELITE T-Race Light Blue Soft Touch",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cykelbelysning",
+    "Elite",
+    "Flaskor och hållare",
+    "Racercykel",
+    "Velomarket",
+    "flaskhållare"
+   ],
+   "pris": "169.0"
+  },
+  "gid://shopify/Product/10472285503754": {
+   "title": "Flaskhållare ELITE Custom Race+ Plus Skin, Black Soft Touch",
+   "status": "ARCHIVED",
+   "tags": [
+    "Elite",
+    "Flaskor och hållare",
+    "Racercykel",
+    "Velomarket"
+   ],
+   "pris": "239.0"
+  },
+  "gid://shopify/Product/10472284979466": {
+   "title": "Pedalblock Look Keo Grip, 0 grader",
+   "status": "ACTIVE",
+   "tags": [
+    "Cykeldelar",
+    "Look",
+    "Pedaler",
+    "Racercykel",
+    "Velomarket",
+    "pedals",
+    "texter-klara"
+   ],
+   "pris": "319.0"
+  },
+  "gid://shopify/Product/10472284750090": {
+   "title": "Pedalblock för racercykel LOOK KEO GRIP, 4,5 grader",
+   "status": "DRAFT",
+   "tags": [
+    "Cykeldelar",
+    "Look",
+    "Pedaler",
+    "Racercykel",
+    "Velomarket",
+    "pedals"
+   ],
+   "pris": "319.0"
+  },
+  "gid://shopify/Product/10472281243914": {
+   "title": "Landsvägscykel GIANT TCR Advanced SL 1 Disc AXS, Airglow",
+   "status": "DRAFT",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "73520.1"
+  },
+  "gid://shopify/Product/10472276492554": {
+   "title": "Landsvägscykel Giant TCR Advanced SL 0 DA",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "124046.1"
+  },
+  "gid://shopify/Product/10472259322122": {
+   "title": "Landsvägscykel Giant TCR Advanced SL 0 Disc, Raw Carbon",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "101411.1"
+  },
+  "gid://shopify/Product/10472258371850": {
+   "title": "Racercykel Giant TCR Advanced 1 Disc-KOM, 700c, Svart Krom",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "46889.0"
+  },
+  "gid://shopify/Product/10472258208010": {
+   "title": "Cykel Giant TCR Advanced 2 Disc-PC Hematite",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "32749.0"
+  },
+  "gid://shopify/Product/10472255488266": {
+   "title": "Landsvägscykel Giant TCR Advanced Pro 1-AXS, Carbon",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "72479.0"
+  },
+  "gid://shopify/Product/10472254931210": {
+   "title": "Landsvägscykel GIANT TCR Advanced 2 KOM, kolfiber",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "42609.0"
+  },
+  "gid://shopify/Product/10472252702986": {
+   "title": "Damcykel EXCELSIOR Road Cruiser Alu, 28\", 3vxl, svart",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Excelsior",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "8849.0"
+  },
+  "gid://shopify/Product/10472251949322": {
+   "title": "Landsvägscykel Giant TCR Advanced 2 KOM, 700c, Carbon",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "42609.0"
+  },
+  "gid://shopify/Product/10472249032970": {
+   "title": "Damcykel Liv EnviLiv Advanced SL LTD, Blanc",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "121209.0"
+  },
+  "gid://shopify/Product/10472248869130": {
+   "title": "Landsvegshjól LIV Avail Advanced Pro 0, Carbon",
+   "status": "DRAFT",
+   "tags": [
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "68390.1"
+  },
+  "gid://shopify/Product/10472248410378": {
+   "title": "Landsvägscykel Giant Defy Advanced 2, 700x32c, Tiger Red",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "39369.0"
+  },
+  "gid://shopify/Product/10472242118922": {
+   "title": "Skidåkningsteknik pjäxor Alpina RACE SK (22)",
+   "status": "ACTIVE",
+   "tags": [
+    "Alpina",
+    "Alpine",
+    "Klassiska pjäxor",
+    "Racercykel",
+    "Skidor",
+    "Skridskopjäxor",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "4219.0"
+  },
+  "gid://shopify/Product/10472241660170": {
+   "title": "Landsvägscykel GIANT Defy Advanced Pro 2, Carbon/Sangria",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "56949.0"
+  },
+  "gid://shopify/Product/10472241463562": {
+   "title": "Landsvegshjól LIV Avail Advanced Pro 1, Golden Haze",
+   "status": "DRAFT",
+   "tags": [
+    "Kvinnusúkklur",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "52352.1"
+  },
+  "gid://shopify/Product/10472239399178": {
+   "title": "Landsvägscykel Giant Contend AR 3, 700x32c, Amber Glow",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "19889.0"
+  },
+  "gid://shopify/Product/10472237990154": {
+   "title": "Inner tube CONTINENTAL Tube Race 28 Valve Presta 18/25-622/630",
+   "status": "DRAFT",
+   "tags": [
+    "Continental",
+    "Racercykel",
+    "Slang",
+    "Slangar",
+    "Velomarket"
+   ],
+   "pris": "79.0"
+  },
+  "gid://shopify/Product/10472237826314": {
+   "title": "Flaskhållare ELITE T-Race Amaranth, Soft Touch",
+   "status": "DRAFT",
+   "tags": [
+    "Elite",
+    "Flaskor och hållare",
+    "Racercykel",
+    "Velomarket"
+   ],
+   "pris": "169.0"
+  },
+  "gid://shopify/Product/10472237760778": {
+   "title": "Pudelihoidja ELITE Bottle Cage Custom Race+, Red Glossy",
+   "status": "DRAFT",
+   "tags": [
+    "Elite",
+    "Flaska & Hållare",
+    "Flaskor och hållare",
+    "Racercykel",
+    "Velomarket"
+   ],
+   "pris": "219.0"
+  },
+  "gid://shopify/Product/10472237105418": {
+   "title": "Bakväxel Shimano Tourney RD-TY300-SGS, 6/7-växlad",
+   "status": "ACTIVE",
+   "tags": [
+    "Cykeldelar",
+    "Racercykel",
+    "Shimano",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "pris": "139.0"
+  },
+  "gid://shopify/Product/10472233566474": {
+   "title": "Handpump Giant Control Mini Road+, Svart, 160 psi",
+   "status": "ACTIVE",
+   "tags": [
+    "Giant",
+    "Pump",
+    "Racercykel",
+    "Tillbehör",
+    "Velomarket",
+    "sync-skydd",
+    "texter-klara"
+   ],
+   "pris": "439.0"
+  },
+  "gid://shopify/Product/10472232681738": {
+   "title": "Stänkskärmar Giant Speedshield Defy & Contend Disc",
+   "status": "ACTIVE",
+   "tags": [
+    "Giant",
+    "Racercykel",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "pris": "579.0"
+  },
+  "gid://shopify/Product/10472232124682": {
+   "title": "Stänkskärmar Giant Speedshield Defy & Contend Caliper",
+   "status": "ACTIVE",
+   "tags": [
+    "Giant",
+    "Racercykel",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "pris": "539.0"
+  },
+  "gid://shopify/Product/10472193655050": {
+   "title": "Hjälm Nutcase Little Nutty Defy Gravity MIPS, XS",
+   "status": "ACTIVE",
+   "tags": [
+    "Cykelhjälm",
+    "Hjälm",
+    "Nutcase",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "2049.0"
+  },
+  "gid://shopify/Product/10472186216714": {
+   "title": "LOOK X-Track Race pedals",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cykeldelar",
+    "Look",
+    "Racercykel",
+    "Tillbehör",
+    "Velomarket",
+    "pedals",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "1929.0"
+  },
+  "gid://shopify/Product/10471447232778": {
+   "title": "Landsvägscykel Giant TCR Advanced 2 PC, 700x28c, Stealth Chrome",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "40789.0"
+  },
+  "gid://shopify/Product/10471335461130": {
+   "title": "Cykel Giant FastRoad AR Advanced 1, 700x40c, Asfaltsgrön",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Gravelcykel",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "28403.1"
+  },
+  "gid://shopify/Product/10471334543626": {
+   "title": "Road bike GIANT Defy Advanced Pro 0 (2026) Mariana Blue",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "76634.1"
+  },
+  "gid://shopify/Product/10471334379786": {
+   "title": "Landsvägscykel Giant Contend AR 2, 700x32c, Solar Flare",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "19556.1"
+  },
+  "gid://shopify/Product/10471117717770": {
+   "title": "Landsvägscykel Giant Defy Advanced 2, 700x32c, Mars Dust",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "41539.0"
+  },
+  "gid://shopify/Product/10471084556554": {
+   "title": "Landsvägscykel Giant TCR Advanced 2 PC, 700c, Carbon",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "39399.0"
+  },
+  "gid://shopify/Product/10471057719562": {
+   "title": "Landsvägscykel Giant TCR Advanced 2 PC storlek M/L, Carbon",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "36080.1"
+  },
+  "gid://shopify/Product/10470907478282": {
+   "title": "Landsvägscykel GIANT Contend AR 2, Sandshell",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "22159.0"
+  },
+  "gid://shopify/Product/10470906822922": {
+   "title": "Pedaler Giant Flipside Road Pedal",
+   "status": "ACTIVE",
+   "tags": [
+    "Cykeldelar",
+    "Giant",
+    "Pedaler",
+    "Racercykel",
+    "Velomarket",
+    "pedals",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "1609.0"
+  },
+  "gid://shopify/Product/10469286773002": {
+   "title": "Landsvägscykel Giant Propel Advanced 2, 700c, Supernova",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "46799.0"
+  },
+  "gid://shopify/Product/10469240504586": {
+   "title": "Women's road bike LIV Avow Advanced SL, Carbon",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "115959.0"
+  },
+  "gid://shopify/Product/10468777165066": {
+   "title": "Road bike BOTTECCHIA Cronothlon, 81 Black Red",
+   "status": "ARCHIVED",
+   "tags": [
+    "Bottecchia",
+    "Cyklar",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "88676.1"
+  },
+  "gid://shopify/Product/10468776575242": {
+   "title": "Road bike BOTTECCHIA Aerospace - Shimano 105 Di2 24s - B1 Matt and Glossy Black",
+   "status": "ARCHIVED",
+   "tags": [
+    "Bottecchia",
+    "Cyklar",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "63309.0"
+  },
+  "gid://shopify/Product/10468751212810": {
+   "title": "GIANT Propel Advanced 1 (2026) Landsvägscykel Meteorite Mist",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "59639.0"
+  },
+  "gid://shopify/Product/10468743151882": {
+   "title": "Landsvägscykel Giant Contend AR 2, 700x32c, Dark Iridescent",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "19556.1"
+  },
+  "gid://shopify/Product/10468734042378": {
+   "title": "Damcykel LIV Langma Advanced Pro 1 PC (2025) Aurora Noise",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Liv",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "71559.0"
+  },
+  "gid://shopify/Product/10468733321482": {
+   "title": "Landsvägscykel Giant TCR Advanced SL 1, Blue Dragonfly",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "109849.0"
+  },
+  "gid://shopify/Product/10468733223178": {
+   "title": "Landsvägscykel Giant TCR Advanced Pro 0 Di2",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "69821.1"
+  },
+  "gid://shopify/Product/10468706812170": {
+   "title": "Landsvägscykel GIANT Defy Advanced 1, Charcoal/Milky Way",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "55539.0"
+  },
+  "gid://shopify/Product/10468704420106": {
+   "title": "Pedaler Giant Road Elite, för Look KEO",
+   "status": "ACTIVE",
+   "tags": [
+    "Cykeldelar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "pedals",
+    "texter-klara"
+   ],
+   "pris": "749.0"
+  },
+  "gid://shopify/Product/10462852546826": {
+   "title": "Cykel Giant TCR Advanced 2 Disc-PC Hematite",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "29258.1"
+  },
+  "gid://shopify/Product/10462752145674": {
+   "title": "Landsvägscykel Giant Contend 1, 700x28c, Rosewood",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "18099.0"
+  },
+  "gid://shopify/Product/10411848532234": {
+   "title": "Spinningcykel Hammer Speed Race SR med 10,1-tums Pekskärm",
+   "status": "ACTIVE",
+   "tags": [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Motionscykel",
+    "På beställning",
+    "Racercykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "sync-skydd",
+    "texter-klara"
+   ],
+   "pris": "19070.1"
+  }
+ },
+ "undantas": [
+  "gid://shopify/Product/10411848532234",
+  "gid://shopify/Product/10472242118922",
+  "gid://shopify/Product/10472308637962",
+  "gid://shopify/Product/10472308670730",
+  "gid://shopify/Product/10472310669578",
+  "gid://shopify/Product/10472346812682",
+  "gid://shopify/Product/10515754352906",
+  "gid://shopify/Product/10515754451210",
+  "gid://shopify/Product/10515754483978",
+  "gid://shopify/Product/10589706092810",
+  "gid://shopify/Product/10624084377866",
+  "gid://shopify/Product/10624086507786"
+ ]
+}

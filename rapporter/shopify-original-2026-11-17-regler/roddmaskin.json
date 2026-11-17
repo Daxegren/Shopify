@@ -1,0 +1,1143 @@
+{
+ "tid": "2026-11-17T15:10:45Z",
+ "kollektion": {
+  "id": "gid://shopify/Collection/526984053002",
+  "handle": "roddmaskin",
+  "title": "Roddmaskin",
+  "ruleSet": {
+   "appliedDisjunctively": false,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "roddmaskin"
+    },
+    {
+     "column": "TYPE",
+     "relation": "NOT_EQUALS",
+     "condition": "Skridskor"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "__typename": "CollectionConditionsSource",
+    "id": "gid://shopify/CollectionConditionsSource/21505704202",
+    "title": "Untitled Source",
+    "targetType": "PRODUCTS",
+    "inclusion": {
+     "matchType": "ALL",
+     "conditions": [
+      {
+       "__typename": "CollectionSourceInclusionConditionProductTag"
+      },
+      {
+       "__typename": "CollectionSourceInclusionConditionProductType"
+      }
+     ]
+    },
+    "exclusion": {
+     "matchType": "ALL",
+     "conditions": [],
+     "selections": {
+      "nodes": []
+     }
+    }
+   }
+  ]
+ },
+ "faltoversikt": {
+  "id": "gid://shopify/Collection/526984053002",
+  "handle": "roddmaskin",
+  "title": "Roddmaskin",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "roddmaskin-2",
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": false,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "roddmaskin"
+    },
+    {
+     "column": "TYPE",
+     "relation": "NOT_EQUALS",
+     "condition": "Skridskor"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 75
+  }
+ },
+ "medlemmar_fore": {
+  "gid://shopify/Product/10708309278986": {
+   "title": "Roddmaskin TUNTURI Fluid Rower Neon Plus Svart",
+   "status": "ACTIVE",
+   "tags": [
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "21479.0"
+  },
+  "gid://shopify/Product/10708309213450": {
+   "title": "Roddmaskin TUNTURI Fluid Rower Neon Plus Svart",
+   "status": "ACTIVE",
+   "tags": [
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "19196.1"
+  },
+  "gid://shopify/Product/10676602732810": {
+   "title": "Roddmaskin Tunturi FitRow 90i by Fluid",
+   "status": "ACTIVE",
+   "tags": [
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "9419.0"
+  },
+  "gid://shopify/Product/10673180147978": {
+   "title": "Roddmaskin Tunturi Signature R20",
+   "status": "ACTIVE",
+   "tags": [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "8309.0"
+  },
+  "gid://shopify/Product/10673149804810": {
+   "title": "Ryggstöd för FLUID roddmaskiner",
+   "status": "ARCHIVED",
+   "tags": [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "2649.0"
+  },
+  "gid://shopify/Product/10673149739274": {
+   "title": "Ryggstöd för FLUID roddmaskiner",
+   "status": "ARCHIVED",
+   "tags": [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "2393.1"
+  },
+  "gid://shopify/Product/10673149673738": {
+   "title": "Ryggstöd för FLUID Roddmaskiner i Järn och Skumgummi",
+   "status": "ACTIVE",
+   "tags": [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "2393.1"
+  },
+  "gid://shopify/Product/10673149542666": {
+   "title": "Handtag med pulssensorer för V- och XL-modeller av FLUID roddmaskiner",
+   "status": "ARCHIVED",
+   "tags": [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "3129.0"
+  },
+  "gid://shopify/Product/10673149411594": {
+   "title": "Pulssensorhandtag för FLUID Roddmaskiner V och XL",
+   "status": "ACTIVE",
+   "tags": [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "2816.1"
+  },
+  "gid://shopify/Product/10673147838730": {
+   "title": "Surfplattahållare för FLUID Mega och Apollo Pro roddmaskiner",
+   "status": "ARCHIVED",
+   "tags": [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "2739.0"
+  },
+  "gid://shopify/Product/10673147609354": {
+   "title": "Roddmaskin FLUID Viking Pro XL, trä",
+   "status": "ARCHIVED",
+   "tags": [
+    "Professionell utrustning",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "36469.0"
+  },
+  "gid://shopify/Product/10673147511050": {
+   "title": "Surfplattahållare för FLUID Mega och Apollo Pro roddmaskiner",
+   "status": "ARCHIVED",
+   "tags": [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "2474.1"
+  },
+  "gid://shopify/Product/10673147445514": {
+   "title": "Roddmaskin FLUID Viking 3 XL, trä",
+   "status": "ARCHIVED",
+   "tags": [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "30799.0"
+  },
+  "gid://shopify/Product/10673147412746": {
+   "title": "Surfplattehållare för FLUID Roddmaskiner, 6–13 tum",
+   "status": "ACTIVE",
+   "tags": [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "2474.1"
+  },
+  "gid://shopify/Product/10673147085066": {
+   "title": "Roddmaskin Fluid Viking 3 XL, Trä",
+   "status": "ACTIVE",
+   "tags": [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "27791.1"
+  },
+  "gid://shopify/Product/10673146921226": {
+   "title": "Roddmaskin Fluid Viking Pro XL, Trä",
+   "status": "ACTIVE",
+   "tags": [
+    "Professionell utrustning",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "32894.1"
+  },
+  "gid://shopify/Product/10656691814666": {
+   "title": "Roddmaskin BH Fitness Cardiff",
+   "status": "ACTIVE",
+   "tags": [
+    "BH Fitness",
+    "Professionell utrustning",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "13079.0"
+  },
+  "gid://shopify/Product/10650166755594": {
+   "title": "Roddmaskin Hammer RowTech NorsK",
+   "status": "ACTIVE",
+   "tags": [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "11809.0"
+  },
+  "gid://shopify/Product/10636739969290": {
+   "title": "Roddmaskin COMPACT",
+   "status": "DRAFT",
+   "tags": [
+    "fotarbete",
+    "kondition",
+    "konditionsutrustning",
+    "roddmaskin"
+   ],
+   "pris": "160.66"
+  },
+  "gid://shopify/Product/10636699140362": {
+   "title": "Roddmaskin MAXXUS 6.1",
+   "status": "DRAFT",
+   "tags": [
+    "Roddmaskin",
+    "kondition",
+    "konditionsutrustning",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "7228.8"
+  },
+  "gid://shopify/Product/10636699009290": {
+   "title": "Roddmaskin MAXXUS 10.0",
+   "status": "DRAFT",
+   "tags": [
+    "Roddmaskin",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "12392.1"
+  },
+  "gid://shopify/Product/10636698845450": {
+   "title": "Roddmaskin MAXXUS 10.1 Pro",
+   "status": "DRAFT",
+   "tags": [
+    "Roddmaskin",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "11703.6"
+  },
+  "gid://shopify/Product/10636678070538": {
+   "title": "Roddmaskin Vattenmotstånd",
+   "status": "DRAFT",
+   "tags": [
+    "all products",
+    "cardio",
+    "kondition",
+    "konditionsutrustning",
+    "roddmaskin",
+    "romaskine"
+   ],
+   "pris": "345.6"
+  },
+  "gid://shopify/Product/10636667977994": {
+   "title": "Roddmaskin Christopeit Accord",
+   "status": "DRAFT",
+   "tags": [
+    "kondition",
+    "konditionsutrustning",
+    "price-change-job-active",
+    "roddmaskin",
+    "sale"
+   ],
+   "pris": "2064.6"
+  },
+  "gid://shopify/Product/10636665520394": {
+   "title": "Roddmaskin MAXXUS 8.1",
+   "status": "DRAFT",
+   "tags": [
+    "all products",
+    "kondition",
+    "konditionsutrustning",
+    "roddmaskin"
+   ],
+   "pris": "552.6"
+  },
+  "gid://shopify/Product/10636665291018": {
+   "title": "Roddmaskin MAXXUS Oxford AXR",
+   "status": "ARCHIVED",
+   "tags": [
+    "kondition",
+    "konditionsutrustning",
+    "roddmaskin"
+   ],
+   "pris": "546.57"
+  },
+  "gid://shopify/Product/10636646547722": {
+   "title": "Roddmaskin MAXXUS 7.4",
+   "status": "DRAFT",
+   "tags": [
+    "all products",
+    "kondition",
+    "konditionsutrustning",
+    "roddmaskin"
+   ],
+   "pris": "346.1"
+  },
+  "gid://shopify/Product/10605385122058": {
+   "title": "Roddmaskin Tunturi Fluid Rower Neon Plus Svart",
+   "status": "ACTIVE",
+   "tags": [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "20589.0"
+  },
+  "gid://shopify/Product/10605385056522": {
+   "title": "Roddmaskin Tunturi Fluid Rower Apollo Plus",
+   "status": "ACTIVE",
+   "tags": [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "22559.0"
+  },
+  "gid://shopify/Product/10605384761610": {
+   "title": "Roddmaskin Hammer Maximum SpeedROW Competition",
+   "status": "ACTIVE",
+   "tags": [
+    "Hammer",
+    "Professionell utrustning",
+    "På beställning",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "15149.0"
+  },
+  "gid://shopify/Product/10598555615498": {
+   "title": "Roddmaskin Toorx Rower Master",
+   "status": "ACTIVE",
+   "tags": [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "5709.0"
+  },
+  "gid://shopify/Product/10572636520714": {
+   "title": "Roddmaskin CHRISTOPEIT WP 2000",
+   "status": "ACTIVE",
+   "tags": [
+    "Christopeit",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "7789.0"
+  },
+  "gid://shopify/Product/10572633899274": {
+   "title": "Roddmaskin Christopeit RW 1000",
+   "status": "ACTIVE",
+   "tags": [
+    "Christopeit",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "4409.0"
+  },
+  "gid://shopify/Product/10561337393418": {
+   "title": "Roddmaskin Tunturi FitRow 50",
+   "status": "ACTIVE",
+   "tags": [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "7959.0"
+  },
+  "gid://shopify/Product/10494771265802": {
+   "title": "Roddmaskin Tunturi Fluid Rower Apollo Pro XL",
+   "status": "ACTIVE",
+   "tags": [
+    "Fell",
+    "Professionell utrustning",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "27459.0"
+  },
+  "gid://shopify/Product/10494693507338": {
+   "title": "Roddmaskin Christopeit WP 5000, Ek",
+   "status": "ACTIVE",
+   "tags": [
+    "Christopeit",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "13239.0"
+  },
+  "gid://shopify/Product/10480047423754": {
+   "title": "Rowing ergometer CHRISTOPEIT Vico",
+   "status": "ACTIVE",
+   "tags": [
+    "Christopeit",
+    "Christopher",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "9029.0"
+  },
+  "gid://shopify/Product/10480045129994": {
+   "title": "Roddmaskin Tunturi Cardio Fit R20",
+   "status": "ACTIVE",
+   "tags": [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "3889.0"
+  },
+  "gid://shopify/Product/10472506556682": {
+   "title": "Roddmaskin CHRISTOPEIT Accord, svart",
+   "status": "ACTIVE",
+   "tags": [
+    "Christopeit",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "5129.0"
+  },
+  "gid://shopify/Product/10472330330378": {
+   "title": "Roddmaskin Hammer RowTech Smart NorsK",
+   "status": "ACTIVE",
+   "tags": [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "18939.0"
+  },
+  "gid://shopify/Product/10472323318026": {
+   "title": "Roddmaskin BH Fitness i.Hudson",
+   "status": "ACTIVE",
+   "tags": [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "11409.0"
+  },
+  "gid://shopify/Product/10472308932874": {
+   "title": "Rowing machine CHRISTOPEIT Colorado",
+   "status": "ACTIVE",
+   "tags": [
+    "Christopeit",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "9109.0"
+  },
+  "gid://shopify/Product/10472306376970": {
+   "title": "Roddmaskin Tunturi FitRow 80i AIR",
+   "status": "ACTIVE",
+   "tags": [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "13719.0"
+  },
+  "gid://shopify/Product/10472304378122": {
+   "title": "TUNTURI Platinum - Sittande roddmaskin - Viktmagasin - V-Series",
+   "status": "ACTIVE",
+   "tags": [
+    "Fell",
+    "Professionell utrustning",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "träningsmaskin"
+   ],
+   "pris": "28669.0"
+  },
+  "gid://shopify/Product/10472298774794": {
+   "title": "Rowing ergometer HAMMER AquaFold",
+   "status": "ACTIVE",
+   "tags": [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "9579.0"
+  },
+  "gid://shopify/Product/10472287994122": {
+   "title": "Roddmaskin HAMMER RowFlow 5.0 NorsK",
+   "status": "ACTIVE",
+   "tags": [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "16039.0"
+  },
+  "gid://shopify/Product/10472287338762": {
+   "title": "Roddmaskin Christopeit Garda",
+   "status": "ACTIVE",
+   "tags": [
+    "Christopeit",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "5829.0"
+  },
+  "gid://shopify/Product/10472280162570": {
+   "title": "Roddmaskin FINNLO by Hammer, Aquon Water Flo",
+   "status": "ACTIVE",
+   "tags": [
+    "Finnlo by Hammer",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "31219.0"
+  },
+  "gid://shopify/Product/10472280129802": {
+   "title": "Roddmaskin HAMMER Water Stream II",
+   "status": "ACTIVE",
+   "tags": [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "14813.1"
+  },
+  "gid://shopify/Product/10472268497162": {
+   "title": "Roddmaskin Hammer Cobra XTR Plus",
+   "status": "ACTIVE",
+   "tags": [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "10679.0"
+  },
+  "gid://shopify/Product/10472266465546": {
+   "title": "Rowing ergometer FLUID Apollo XL",
+   "status": "ARCHIVED",
+   "tags": [
+    "Fluid",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "25199.0"
+  },
+  "gid://shopify/Product/10472266170634": {
+   "title": "Rowing ergometer FLUID Neon Pro XL",
+   "status": "ARCHIVED",
+   "tags": [
+    "Fluid",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "25519.0"
+  },
+  "gid://shopify/Product/10472266072330": {
+   "title": "Rowing ergometer FLUID Evolution E350",
+   "status": "ARCHIVED",
+   "tags": [
+    "Fluid",
+    "Professionell utrustning",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "43719.0"
+  },
+  "gid://shopify/Product/10472264958218": {
+   "title": "Rodd-ergometer Finnlo by Hammer Aquon Evolution",
+   "status": "ACTIVE",
+   "tags": [
+    "Finnlo by Hammer",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "20009.0"
+  },
+  "gid://shopify/Product/10472262729994": {
+   "title": "Roddmaskin Tunturi Fluid Rower Apollo Plus Svart",
+   "status": "ACTIVE",
+   "tags": [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "23329.0"
+  },
+  "gid://shopify/Product/10472262664458": {
+   "title": "Roddmaskinsben i Stål för Tunturi Fluid, 20 cm",
+   "status": "ACTIVE",
+   "tags": [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "gymtillbehör",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "3129.0"
+  },
+  "gid://shopify/Product/10472262598922": {
+   "title": "Roddmaskinsben i Trä för Tunturi Fluid Viking och Apollo",
+   "status": "ACTIVE",
+   "tags": [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "2389.0"
+  },
+  "gid://shopify/Product/10472262271242": {
+   "title": "Roddmaskin BH Fitness Kingston",
+   "status": "ACTIVE",
+   "tags": [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "14929.0"
+  },
+  "gid://shopify/Product/10472260993290": {
+   "title": "Roddmaskin TUNTURI FitRow 40",
+   "status": "ACTIVE",
+   "tags": [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "6879.0"
+  },
+  "gid://shopify/Product/10472259059978": {
+   "title": "Roddmaskin Tunturi Cardio Fit R30",
+   "status": "ACTIVE",
+   "tags": [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "5799.0"
+  },
+  "gid://shopify/Product/10472225177866": {
+   "title": "Roddmaskin TUNTURI Endurance R85W Dual Rail",
+   "status": "DRAFT",
+   "tags": [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "7424.1"
+  },
+  "gid://shopify/Product/10472220754186": {
+   "title": "Roddmaskin Tunturi FitRow 70 WTR",
+   "status": "ACTIVE",
+   "tags": [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "11879.0"
+  },
+  "gid://shopify/Product/10471183712522": {
+   "title": "Rodd-ergometer TUNTURI by Fluid Platinum R30W",
+   "status": "ACTIVE",
+   "tags": [
+    "Professionell utrustning",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "42409.0"
+  },
+  "gid://shopify/Product/10470971408650": {
+   "title": "Roddmaskin Hammer Pro Force II",
+   "status": "ACTIVE",
+   "tags": [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "6799.0"
+  },
+  "gid://shopify/Product/10470934741258": {
+   "title": "Tabletthållare för Fluid Roddmaskiner",
+   "status": "ACTIVE",
+   "tags": [
+    "Fluid",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "2709.0"
+  },
+  "gid://shopify/Product/10470934544650": {
+   "title": "Roddmaskin Tunturi Signature R90W by Fluid, Vattenmotstånd",
+   "status": "ARCHIVED",
+   "tags": [
+    "Fell",
+    "Professionell utrustning",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "30199.0"
+  },
+  "gid://shopify/Product/10470912491786": {
+   "title": "Mobiltelefonhållare för TUNTURI Fluid V & XL roddmaskinsmodeller",
+   "status": "ACTIVE",
+   "tags": [
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "gymtillbehör",
+    "mobilhållare"
+   ],
+   "pris": "579.0"
+  },
+  "gid://shopify/Product/10470900498698": {
+   "title": "Rodd-ergometer CHRISTOPEIT Cambridge II Black Edition",
+   "status": "ACTIVE",
+   "tags": [
+    "Christopeit",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "3819.0"
+  },
+  "gid://shopify/Product/10468718575882": {
+   "title": "Pulsbältesläsare för rodd ergometrar i FLUID Plus-serien",
+   "status": "ACTIVE",
+   "tags": [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "puls",
+    "pulsklocka",
+    "pulsmätare",
+    "sale"
+   ],
+   "pris": "1819.0"
+  },
+  "gid://shopify/Product/10468716740874": {
+   "title": "Roddmaskin Tunturi Fluid Rower Evo E550 Side Tank Silver Bronze",
+   "status": "ACTIVE",
+   "tags": [
+    "Fell",
+    "Professionell utrustning",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "50209.0"
+  },
+  "gid://shopify/Product/10468713824522": {
+   "title": "Roddmaskin Fluid Viking 3 V med Smartphonehållare",
+   "status": "ACTIVE",
+   "tags": [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "30199.0"
+  },
+  "gid://shopify/Product/10462786748682": {
+   "title": "Roddmaskin Hammer RowFlow 10.0",
+   "status": "ACTIVE",
+   "tags": [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "21499.0"
+  },
+  "gid://shopify/Product/10461966860554": {
+   "title": "Roddmaskin Tunturi Star Fit R100",
+   "status": "ACTIVE",
+   "tags": [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "8379.0"
+  },
+  "gid://shopify/Product/10411898339594": {
+   "title": "Roddmaskin Tunturi Cardio Fit R25",
+   "status": "ACTIVE",
+   "tags": [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "5099.0"
+  },
+  "gid://shopify/Product/10411868422410": {
+   "title": "Roddmaskin BH Fitness i.Thames",
+   "status": "ARCHIVED",
+   "tags": [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Roddmaskin",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "8339.0"
+  }
+ },
+ "undantas": []
+}
