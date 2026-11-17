@@ -1,0 +1,119 @@
+[
+ {
+  "id": "gid://shopify/Product/10411668996362",
+  "title": "Yogamatta SPOKEY Mandala, grön",
+  "handle": "yogamatta-spokey-mandala-gron",
+  "status": "ACTIVE",
+  "tags": [
+   "Spokey",
+   "Velomarket",
+   "Yoga",
+   "Yogamattor"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-16T05:52:27Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Yogamatta SPOKEY Mandala i en vacker grön färg erbjuder en stabil och bekväm yta för din yoga och meditation. Dess halkfria material säkerställer att du kan utföra alla positioner med självförtroende.</p>\n<p>Mattan är designad med ett inspirerande Mandala-mönster och är lätt att rulla ihop för enkel transport och förvaring, vilket gör den till en praktisk följeslagare för både hemmaträning och studiopass.</p>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52586970972426",
+     "sku": "941534",
+     "price": "409.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10411721261322",
+  "title": "Träningshandskar Tunturi Fitness Gloves Pro Gel, Läder",
+  "handle": "traningshandskar-tunturi-fitness-gloves-pro-gel",
+  "status": "ACTIVE",
+  "tags": [
+   "Konditionsträning & Fitness",
+   "Tunturi",
+   "Velomarket"
+  ],
+  "totalInventory": 11,
+  "updatedAt": "2026-11-16T05:59:04Z",
+  "seo": {
+   "title": "Träningshandskar Tunturi Fitness Gloves Pro",
+   "description": "Tunturi Fitness Gloves Pro Gel är träningshandskar i läder med gel i handflatorna, öppna fingrar, handledsstöd och kardborreband. Storlek S–XXL."
+  },
+  "descriptionHtml": "<p>Tunturi Fitness Gloves Pro Gel är träningshandskar i läder med gel i handflatorna, öppna fingrar och handledsstöd, för träning med vikter och stänger.</p><h2>Passar för</h2><ul>\n<li>Dig som regelbundet tränar med vikter och stänger</li>\n<li>Dig som vill ha handskar med gel i handflatorna</li>\n<li>Dig som vill ha öppna fingrar och handledsstöd</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Gel: Speciell gel i handflatorna, halkfria handskar</li>\n<li>Storlekar: S, M, L, XL och XXL</li>\n<li>Handledsstöd med kardborreband</li>\n<li>Levereras med innerhandske</li>\n<li>Färg: Grå eller svart</li>\n<li>Material: Läder</li>\n<li>Fingrar: Öppna</li>\n<li>Säljs parvis</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p><h2>Vanliga frågor</h2><h3>Vilka storlekar finns?</h3><p>Handskarna finns i storlek S, M, L, XL och XXL.</p><h2>Om märket</h2><p>Tunturi grundades 1922 i Finland.</p>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52587138580746",
+     "sku": "14TUSFU221",
+     "price": "169.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 3
+    },
+    {
+     "id": "gid://shopify/ProductVariant/52587138613514",
+     "sku": "14TUSFU222",
+     "price": "149.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 2
+    },
+    {
+     "id": "gid://shopify/ProductVariant/52587138646282",
+     "sku": "14TUSFU223",
+     "price": "149.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 2
+    },
+    {
+     "id": "gid://shopify/ProductVariant/52587138679050",
+     "sku": "14TUSFU224",
+     "price": "149.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1
+    },
+    {
+     "id": "gid://shopify/ProductVariant/52587138711818",
+     "sku": "14TUSFU225",
+     "price": "149.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 3
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10462177263882",
+  "title": "Balansplatta TUNTURI Air Stepper Pad, Svart",
+  "handle": "balansplatta-tunturi-air-stepper-pad-svart-14tusyo023",
+  "status": "ACTIVE",
+  "tags": [
+   "Konditionsträning & Fitness",
+   "Stepper",
+   "Tunturi",
+   "Velomarket"
+  ],
+  "totalInventory": 4,
+  "updatedAt": "2026-11-16T05:55:28Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Med denna praktiska Tuntur balansplatta får du garanterat bra balans och starka muskler! Använd den som en madrass för sittande eller stående yogapass. När du sitter eller står på en vickningskudde söker din kropp ständigt och omedvetet efter rätt balans. Detta hjälper dig att träna dina rygg- och benmuskler samt förbättra balans, koncentration, koordination och cirkulation. Air Stepper Path är fylld med luft och du kan pumpa så mycket du vill.</p>\n<p>Funktioner:</p>\n<p>- Förbättrar din balans, koncentration, koordination och cirkulation.<br>\n- Lätt och därför lätt att bära<br>\n- Förbättrar koncentrationen hos barn som har svårt att slappna av.<br>\n- Perfekt för att stärka muskler!</p>\n<p>Specifikationer:<br>\n- Diameter: 33 cm.<br>\n- Höjd: 9 cm<br>\n- Mått: 33 cm - 9 cm<br>\n- Material: PP/PVC<br>\n- Maximal vikt: 120 kg.<br>\n- Vikt: 1 kg.<br>\n- Färg: svart</p>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52799814041866",
+     "sku": "14TUSYO023",
+     "price": "229.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 4
+    }
+   ]
+  }
+ }
+]
