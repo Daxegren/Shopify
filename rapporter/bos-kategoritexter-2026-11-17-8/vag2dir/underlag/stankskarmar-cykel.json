@@ -98,7 +98,7 @@
  "forsta_ord_i_titel": [
   [
    "stänkskärmset",
-   14
+   16
   ],
   [
    "framskärm",
@@ -114,10 +114,6 @@
   ],
   [
    "stänkskydd",
-   2
-  ],
-  [
-   "stänkskärmsset",
    2
   ]
  ],
@@ -168,7 +164,7 @@
   "Bakskärm Giant Uniclip Fender, Fästs på Sadeln",
   "Bakskärm Hebie Viper X för Sadelstolpe",
   "Bakskärm SKS S-Guard, Svart",
-  "Bakskärm SKS X-Blade Dark 26\"/27,5\"",
+  "Bakskärm SKS X-Blade Dark för 26–27,5 tum, Svart",
   "Bakskärm SKS X-Blade för 26–27,5 tum, Svart och Grå",
   "Bakskärm SKS X-Blade, 29 tum",
   "Framskärm Giant FSX, för mountainbikes",
@@ -178,13 +174,13 @@
   "Framskärm Hebie Swap Front Adrenaline, 320 x 140 mm",
   "Framskärm Hebie Viper X med Adaptrar",
   "Framskärm SKS Flap Guard, Svart",
-  "Framskärm SKS Mudrocker Front, svart",
+  "Framskärm SKS Mudrocker Front för 27,5–29 tum, Svart",
   "Framskärm SKS Shockblade Dark för 26–27,5 tum, Svart",
   "Framskärm SKS Shockblade för 26–27,5 tum, Svart och Grå",
   "Framskärm SKS Shockblade för 28–29 tum",
   "Framskärm XLC MG-C05 för Hjul 26–29 tum",
   "Stänkskydd SKS Rowdy 2.0 för barncykel, 20–24 tum",
-  "Stänkskydd SKS VELOFLEXX 55 set",
+  "Stänkskydd SKS Veloflexx 55, Set, Svart",
   "Stänkskärmar Hebie Taipan 16 tum, Svart",
   "Stänkskärmar SKS Beavertail Set, 26–28 tum, Svart",
   "Stänkskärmar SKS Fatboard för Fatbike",
@@ -192,7 +188,9 @@
   "Stänkskärmar SKS Velo 47 26\"",
   "Stänkskärmar SKS Velo 55 Junior Set, Svart",
   "Stänkskärmar SKS Velo 55, 26 tum",
+  "Stänkskärmset Academy för 24-tums barncyklar",
   "Stänkskärmset Giant Swift",
+  "Stänkskärmset Giant för Revolt 2019+ modeller",
   "Stänkskärmset Hebie Alumee 52 mm",
   "Stänkskärmset Hebie Alumee 62 mm",
   "Stänkskärmset Hebie Alumee, 40 mm",
@@ -205,8 +203,6 @@
   "Stänkskärmset Hebie Viper S, 26–29 tum, Svart",
   "Stänkskärmset Hebie Viper X MTB, 24–28 tum, Svart",
   "Stänkskärmset Hebie Viper X Stealth, 26–29 tum, MTB",
-  "Stänkskärmset Hebie Viper, 26–29 tum, Svart",
-  "Stänkskärmsset för ACADEMY 24\" hjul",
-  "Stänkskärmsset för GIANT Revolt 2019+ modeller"
+  "Stänkskärmset Hebie Viper, 26–29 tum, Svart"
  ]
 }

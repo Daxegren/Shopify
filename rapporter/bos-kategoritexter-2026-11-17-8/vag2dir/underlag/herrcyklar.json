@@ -30,34 +30,13 @@
   ]
  ],
  "huvud_regex": "herrcykel|stadscykel",
- "antal_i_kollektionen": 15,
- "antal_koopbara_alla": 14,
+ "antal_i_kollektionen": 12,
+ "antal_koopbara_alla": 11,
  "antal_koopbara": 11,
- "antal_ovriga_koopbara": 3,
- "exempel_ovriga": [
-  "Multivitamin för Män Trec, 90 kapslar",
-  "Kosttillskott Trec Essensey Multivit For Him + Maca Root, 90 kapslar",
-  "Boxningsdocka Tunturi Slam Man"
- ],
- "ovriga_titlar": [
-  "Boxningsdocka Tunturi Slam Man",
-  "Kosttillskott Trec Essensey Multivit For Him + Maca Root, 90 kapslar",
-  "Multivitamin för Män Trec, 90 kapslar"
- ],
- "ovriga_med_pris": [
-  [
-   "Boxningsdocka Tunturi Slam Man",
-   8149.0
-  ],
-  [
-   "Kosttillskott Trec Essensey Multivit For Him + Maca Root, 90 kapslar",
-   129.0
-  ],
-  [
-   "Multivitamin för Män Trec, 90 kapslar",
-   119.0
-  ]
- ],
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
  "marken": [
   [
    "Romet",

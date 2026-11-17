@@ -18,3 +18,5 @@ Skapad 2026-11-04. Sessionen `claude/bos-kategorier`. Gren och underlag: `rappor
 ## Tillägg 2026-11-17 (beslutsfil `rapporter/beslut-2026-11-17-8.md`)
 - Pilot (10 kollektioner) skriven i butiken och återläst utan avvikelse: motionscykel, lopband, roddmaskin, cykellas, elcyklar, tunturi, sparkcykel, crosstrainer, hantlar, kettlebell. Före-filer: `rapporter/shopify-original-2026-11-17/`.
 - Våg 2: nio utkast granskade i två rundor (`rapporter/bos-kategoritexter-2026-11-17-8/`), inget skrivet. kona-1 och traningsutrustning-for-hemmagym hålls tillbaka (se beslutsfilen).
+
+- Våg 2 (8 kollektioner) och hantlar-metan skrivna och återlästa utan avvikelse 2026-11-17 (före-filer i `rapporter/shopify-original-2026-11-17-vag2/` och `-hantlar-meta/`). Kvar: hemmagym (text ändrad av annan 13:50) och kona-1 (märkessida).
