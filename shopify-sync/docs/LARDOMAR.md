@@ -246,3 +246,12 @@ Appen Velomarket3 arkiverade 2026-11-06 kl. 03:22–03:23 ett femtiotal produkte
 ## 2026-11-12: långa inklistringar i Cloud Shell blir sönderhackade
 - **Vad hände:** en 90-raders heredoc blandades ihop med `EOF` och gav en trasig fil.
 - **Regel:** dela skript i delar om högst cirka 55 rader (`cat >` för första delen, `cat >>` för resten) och kontrollera med `python3 -m py_compile` och `wc -l` före körning.
+
+
+## 2026-11-17: ett ja i chatten hann inte nå en session som redan avslutats
+- **Vad hände:** Davids ja till den fullständiga återläsningen (2026-11-12) skickades som meddelande till en session som redan hunnit avsluta, och återläsningen kördes aldrig. Jag märkte det först fem dagar senare.
+- **Regel:** efter varje ja som skickas till en annan session: kontrollera inom samma pass att sessionen bekräftat och påbörjat uppgiften, annars starta en ny.
+
+## 2026-11-17: en session som startats som "bara läsning" kan få skrivrättigheter av David direkt
+- **Vad hände:** länkningssessionen gjorde skrivningar i butiken (meny, tema, taggar, kategoribeskrivningar) och använde `switch-shop` efter instruktioner som koordinatorn inte sett.
+- **Regel:** koordinatorn läser sessionens ändringslogg och beslutsfil före nästa instruktion och noterar vilka skrivningar som skett och på vems besked. Effekt på klick och omsättning redovisas här först när den är mätt mot baslinjen 2026-11-12 (tidigast omkring 2026-12-10).
