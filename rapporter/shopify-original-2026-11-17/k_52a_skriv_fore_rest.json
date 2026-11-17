@@ -1,0 +1,271 @@
+[
+ {
+  "id": "gid://shopify/Product/10472186118410",
+  "title": "LOOK X-Track pedals",
+  "handle": "pedaler-look-x-track-m-rkg-gr-00018220",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykeldelar",
+   "Look",
+   "pedals",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-09T05:56:09Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>The pedal body is made <strong>from strong, lightweight carbon fibre</strong>. All pedals in the <strong>X-Track</strong> series are compatible with the <strong>Shimano SPD</strong> system.<br><br> The manufacturer is <strong>LOOK</strong>.</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52847985459466",
+     "sku": "00018220",
+     "price": "779.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472249229578",
+  "title": "Stöd för mittmontering AZIMUT Dual 20-29\" justerbart, aluminium",
+  "handle": "st-d-f-r-mittmontering-azimut-dual-20-29-justerbart-aluminium-1016",
+  "status": "ACTIVE",
+  "tags": [
+   "Azimut",
+   "Azimuth",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 11,
+  "updatedAt": "2026-11-16T05:53:56Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Justerbart stödAzimut<strong>Dualon</strong>lämpligt för cyklar från 20\" till 28\".<br><br>\n</div><ul>\n<li>Standard M10 x 50 mm bult</li>\n<li>Aluminiummaterial</li>\n</ul><div><br></div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52848392569098",
+     "sku": "1016",
+     "price": "119.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 11
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472250310922",
+  "title": "Pedaler GIANT Urbano, svart",
+  "handle": "pedaler-giant-urbano-svart-230000055",
+  "status": "ACTIVE",
+  "tags": [
+   "Giant",
+   "pedals",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-09T06:06:11Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Universella pedaler <strong>Giant Urbano</strong> för stadscyklar. Tillverkade av kompositmaterial.</div><div><br></div><div>Grundat <strong>1972, </strong> <strong>Giant </strong>är världens ledande tillverkare av högkvalitativa cyklar och cykeltillbehör. <strong>Giant </strong>introducerade lättare och starkare aluminiumramar och introducerade kolfiberramar. Utvecklingen av utrustning sker i ständig samarbete med toppcyklister.<br><br>\n</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52848393781514",
+     "sku": "230000055",
+     "price": "139.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472254701834",
+  "title": "Golv-/väggankare för cykelförvaring AXA WALL/FLOOR ANCHOR 4*/14MM GRAY/CARD",
+  "handle": "golv-v-ggankare-f-r-cykelf-rvaring-axa-wall-floor-anchor-4-14mm-gray-card-59500596sc",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 2,
+  "updatedAt": "2026-11-16T05:57:36Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Ankaret är perfekt för att låsa din cykel i garaget för att förhindra stöld även vid inbrott. Ankaret kan monteras på vägg eller golv och kan användas inomhus eller utomhus. Cykeln kan sedan säkras till stålkrone med en kedja.<br><br>\n</div><div>AXA-ankaret finns i en snygg grå färg. Skruvar för installation ingår.<br><br>\n</div><div><strong>Mer information:</strong></div><ul>\n<li>Säkerhetsnivå: 20</li>\n<li>Uppfyller holländska ART 4-stjärniga krav</li>\n<li>Godkänd för cykelförsäkring NL/FIN/DK/SE/UK.</li>\n<li>Godkänd för montering på vägg eller golv</li>\n<li>Lämplig för inomhus- och utomhusbruk</li>\n<li>Inkluderar monteringsskruvar</li>\n<li>Härdad stålkrone och låshus</li>\n<li>Kronans diameter: 14 mm</li>\n</ul><div>\n<br><br><strong>AXA Bike</strong> är oskiljaktigt förknippat med cykelvärlden - med 115 års erfarenhet kan <strong>AXA Bike</strong> garantera säkerheten och komforten för cyklist och cykel.</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52848407085322",
+     "sku": "59500596SC",
+     "price": "659.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 2
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472283439370",
+  "title": "Pedaler LOOK Trail Fusion, Svart",
+  "handle": "pedaler-look-trail-fusion-svart-25826",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykeldelar",
+   "Look",
+   "Mountainbike",
+   "pedals",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-16T06:12:15Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Med sin 25 % bredare plattform erbjuder <strong>Look Trail Fusion</strong>-pedalerna bättre kontroll och därmed högre prestanda jämfört med klassiska OEM-pedaler. Pedalhusen är gjorda av<strong> lättviktigt</strong> kompositmaterial och erbjuder större<strong> stabilitet</strong> och <strong>komfort</strong>. Deras konkava design minskar profilhöjden till endast 18 mm.<br>\n<strong>8 utbytbara</strong> stift på varje sida av pedalen säkerställer nödvändigt grepp på banan. <strong>Trail Fusion</strong>-pedalerna är tillverkade i Frankrike och byggda för att hålla. Alla komponenter kan enkelt bytas ut vid behov.</p>\n<p>Funktioner:</p>\n<ul>\n<li>Pedalaxelmaterial: chromoly.</li>\n<li>Pedalkroppsmaterial: komposit.</li>\n<li>Rullmaterial: stål</li>\n<li>Totalhöjd: 18 mm</li>\n<li>Pedalavtryck: 107 mm x 105 mm</li>\n<li>Antal fjädrar: 8 per sida</li>\n<li>Lager: premiumlager (2 kullager och 1 glidlager) + tätningar.</li>\n<li>Tätning: Premium Seal System</li>\n<li>Kompatibla skor: -</li>\n<li>max. Max. förarens vikt: 100 kg</li>\n<li>Färg: lime</li>\n<li>Vikt enligt tillverkare: 324 g</li>\n</ul>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52848474292490",
+     "sku": "00025825",
+     "price": "789.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472284881162",
+  "title": "Handtag ETHIC DTC Hand Grips Lila",
+  "handle": "handtag-ethic-dtc-hand-grips-lila-3760004844808",
+  "status": "ACTIVE",
+  "tags": [
+   "Ethic",
+   "Ethics",
+   "Styrtejp och handtag",
+   "Velomarket"
+  ],
+  "totalInventory": 2,
+  "updatedAt": "2026-11-16T03:54:11Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Ethic är en av de stora aktörerna på marknaden för skoterdelar med sitt sortiment av högkvalitativa delar. Mjuka gummihandtag är bekväma för alla förare.</p>\n<p><strong>Mer information:</strong></p>\n<p>Längd: 170 mm<br>\n170 mm<br>\nMaterial: gummi<br>\nDiameter: 33 mm<br>\nInkluderar silikonloopändar.<br>\nFärg: lila</p>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52848477143306",
+     "sku": "3760004844808",
+     "price": "109.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 2
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472301494538",
+  "title": "TOORX Set med elastiska band med Soft Touch-handtag, grön",
+  "handle": "toorx-set-med-elastiska-band-med-soft-touch-handtag-gr-n-ahf-068",
+  "status": "ACTIVE",
+  "tags": [
+   "Konditionsträning & Fitness",
+   "Toorx",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-09T06:48:06Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Tillverkaren är <strong>Toorx</strong>.</div><div><br></div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52848516792586",
+     "sku": "AHF-068",
+     "price": "229.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472345895178",
+  "title": "Stänkskydd SKS VELOFLEXX 55 set",
+  "handle": "st-nkskydd-sks-veloflexx-55-set-03-sks-11665",
+  "status": "ACTIVE",
+  "tags": [
+   "Stänkskärm",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 3,
+  "updatedAt": "2026-11-16T05:45:16Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Stänkskydd set med justerbar ramadapter</p>\n<p>Det finns en ny medlem i Velo-familjen: VELOFLEXX 55 stänkskydd set, tillverkat av högpresterande slagtålig plast, kombinerar stabiliteten hos ett fast stänkskydd med flexibiliteten hos ett klämt stänkskydd. Med VELOFLEXX-bryggan kan det bakre stänkskyddet fästas på ovansidan av sadelstolpen utan verktyg med hjälp av gummibollar. Om det, trots skivbromsar, finns en tvärgående stång mellan sadelstolparna, måste avståndet mellan däcket och tvärstången vara 30 mm för att cykeln ska vara kompatibel med VELOFLEXX-stänkskyddet.</p>\n<p>Starkt men flexibelt</p>\n<p>För att fästa det främre stänkskyddet fästs VELOFLEXX-gaffeln på bryggan med en gummifästanordning eller buntband. Ramadaptrarna möjliggör montering av stänkskydden på nästan alla gafflar och är dessutom justerbara i vinkel. Svartlackade hållare ger ännu bättre stöd. VELOFLEXX-kitet är lämpligt för fitnesscyklar, mountainbikes och stadscyklar. Kitet levereras med gummiband och elastiska band.</p>\n<p>- Tillverkad av slagtålig högpresterande plast.</p>\n<p>- Justerbar ramadapter</p>\n<p>- Perfekt för fitness-, mountain- och stadscyklar</p>\n<p>- Levereras med elastiska band och gummiband</p>\n<p>- Tillverkad i Tyskland</p>\n<p>Mer information:</p>\n<ul>\n<li>Färg: svart</li>\n<li>Vikt: 580 g</li>\n<li>Hjulstorlek: 26\", 27,5\" (650b)\", 28\"\".</li>\n<li>Däckbredd i tum: 1,9\"-2,1\"</li>\n<li>Däckbredd i mm: 48-53 mm</li>\n<li>Gaffellängd fram: 680 mm</li>\n<li>Bakre plattformslängd: 870 mm</li>\n</ul>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52849333895434",
+     "sku": "03-SKS-11665",
+     "price": "639.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 3
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472388231434",
+  "title": "Handtag Union Honeycomb Soft Grips Black",
+  "handle": "handtag-union-honeycomb-soft-grips-black-105230",
+  "status": "ACTIVE",
+  "tags": [
+   "Styrtejp och handtag",
+   "Union",
+   "Velomarket"
+  ],
+  "totalInventory": 2,
+  "updatedAt": "2026-11-16T04:11:30Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>\n<strong>Union Honeycomb </strong>supermjuka handtag säkerställer god komfort när du cyklar på scootern.<br><br><strong>Mer information:</strong>\n</div><ul>\n<li>Vikt: 114 g</li>\n<li>Längd: 150 mm</li>\n</ul><div></div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52849682546954",
+     "sku": "105230",
+     "price": "119.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 2
+    }
+   ]
+  }
+ }
+]
