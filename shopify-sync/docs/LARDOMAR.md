@@ -255,3 +255,7 @@ Appen Velomarket3 arkiverade 2026-11-06 kl. 03:22–03:23 ett femtiotal produkte
 - **Vad hände:** kvalitetsrapporten 2026-11-06 och beslutsunderlaget räknade 10348 (Finnlo Tricon Flex, pilot-20) som överträdelse eftersom produkten finns i två skrivfiler. Live-läsning 2026-11-12 visar att skrivfilernas text inte ligger i butiken; beskrivning och metabeskrivning är pilottexten.
 - **Regel:** en överträdelse av en spärr bevisas med butikens läge (live), inte med att produkten finns i en skrivfil. Läs produkten live innan den förs in i spärrlistan som känd överträdelse.
 
+
+## 2026-11-17: filernas ändringstid säger inget om skrivordning i en ny kopia
+- **Vad hände:** `nattkontroll.py` väljer "senast avsedd text" per produkt med filens ändringstid (`getmtime`) när flera skrivfiler innehåller samma produkt. I en ny kopia av repot har alla filer samma tid och git-historiken är ihopslagen (179 av 218 skrivfiler har samma commit-tid), så ordningen blir godtycklig för de 287 produkter där filerna har olika text. Vid återläsningen 2026-11-17 användes i stället resultatfilernas tidsstämplar, med rättningsfiler (`korr`) sist; för 252 produkter saknas tidsstämpel för minst en fil och ordningen är inte bevisad.
+- **Regel:** bestäm skrivordning ur tidsstämplar i resultatfilerna eller ett fält i skrivfilen, aldrig ur filens ändringstid eller git-datum. Nya skrivfiler ska få ett fält `skriven` (datum) när de skrivs. Redovisa produkter där ordningen inte kan styrkas i stället för att räkna dem som säkra.

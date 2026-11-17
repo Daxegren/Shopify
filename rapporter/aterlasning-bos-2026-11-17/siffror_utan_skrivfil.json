@@ -1,0 +1,31 @@
+{
+ "antal": 105,
+ "med_varning": 94,
+ "status": {
+  "ACTIVE": 92,
+  "DRAFT": 12,
+  "ARCHIVED": 1
+ },
+ "varningstyper": {
+  "meta börjar \"Namn är en/ett typord\" (cirkulär inledning, 30+ granskarr": 47,
+  "FAQ-avsnitt kopierat från källa": 40,
+  "första meningen börjar \"Namn är en/ett typord\" (cirkulär inledning, 30": 29,
+  "saknad metabeskrivning": 24,
+  "dubbla mellanslag": 24,
+  "meta saknas (null)": 24,
+  "SPÄRRAD produkt (pilot-20) får inte skrivas": 16,
+  "spärrad produkt (pilot-20) – förväntat, ingen åtgärd": 16,
+  "seo-titel över 43 tecken": 15,
+  "\"Om märket\"-avsnitt från pilotens gamla text": 13,
+  "[KVALITETSORD_UTAN_ETV]": 12,
+  "På beställning utan leveranstidsmening": 9,
+  "[ENGELSKT_TYPORD]": 7,
+  "titel har fler än 2 kommatecken": 2,
+  "meta saknar verb (granskarfynd 31 av 37 rättningar i k_08b–d): börja i": 1,
+  "meta 159 tecken (70–155)": 1,
+  "[CIRKULAR_TYPORD]": 1,
+  "cirkulär inledning: \"yogablock är ett yogablock\" (R11)": 1,
+  "\"enligt tillverkaren\" fler än 2 gånger i texten (R5)": 1,
+  "\"enligt tillverkaren\" fler än två gånger": 1
+ }
+}
