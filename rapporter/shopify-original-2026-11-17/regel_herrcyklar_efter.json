@@ -1,0 +1,280 @@
+{
+ "kollektion": {
+  "id": "gid://shopify/Collection/561573953802",
+  "handle": "herrcyklar",
+  "title": "Herrcykel",
+  "sortOrder": "BEST_SELLING",
+  "ruleSet": {
+   "appliedDisjunctively": false,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "Herrcyklar"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "Herrcykel"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "herr cykel"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "mens bike"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "mens bikes"
+    },
+    {
+     "column": "TYPE",
+     "relation": "NOT_EQUALS",
+     "condition": "Kosttillskott"
+    },
+    {
+     "column": "TYPE",
+     "relation": "NOT_EQUALS",
+     "condition": "Boxing equipment"
+    }
+   ]
+  }
+ },
+ "antal_medlemmar": 12,
+ "antal_koepbara": 11,
+ "medlemmar": [
+  [
+   "herrcykel-romet-wagant-8-svart-28190608-a",
+   "ACTIVE",
+   1,
+   "Cyklar",
+   true,
+   [
+    [
+     "gid://shopify/ProductVariant/53243188707594",
+     "12329.00",
+     "12239.00"
+    ]
+   ]
+  ],
+  [
+   "cykel-giant-attend-rs-2-gts-svart-2206043187",
+   "ACTIVE",
+   3,
+   "Cyklar",
+   true,
+   [
+    [
+     "gid://shopify/ProductVariant/52935246741770",
+     "12129.00",
+     "12039.00"
+    ]
+   ]
+  ],
+  [
+   "cykel-giant-attend-rs-3-gts-svart-2226011115",
+   "ACTIVE",
+   14,
+   "Cyklar",
+   true,
+   [
+    [
+     "gid://shopify/ProductVariant/52935246250250",
+     "10509.00",
+     "10429.00"
+    ],
+    [
+     "gid://shopify/ProductVariant/52935246283018",
+     "10509.00",
+     "10429.00"
+    ],
+    [
+     "gid://shopify/ProductVariant/52935246315786",
+     "10509.00",
+     "10429.00"
+    ],
+    [
+     "gid://shopify/ProductVariant/52935246348554",
+     "9476.10",
+     "10529.00"
+    ],
+    [
+     "gid://shopify/ProductVariant/52935246381322",
+     "9476.10",
+     "10529.00"
+    ],
+    [
+     "gid://shopify/ProductVariant/52935246414090",
+     "9476.10",
+     "10529.00"
+    ],
+    [
+     "gid://shopify/ProductVariant/52935246446858",
+     "9476.10",
+     "10529.00"
+    ]
+   ]
+  ],
+  [
+   "cykel-giant-attend-rs-1-gts-svart-2206041185",
+   "ACTIVE",
+   3,
+   "Cyklar",
+   true,
+   [
+    [
+     "gid://shopify/ProductVariant/52935245889802",
+     "12449.00",
+     "12359.00"
+    ],
+    [
+     "gid://shopify/ProductVariant/52935245922570",
+     "4706.10",
+     "5229.00"
+    ]
+   ]
+  ],
+  [
+   "herrcykel-romet-orkan-m-gr-r-d-28190093-a",
+   "ACTIVE",
+   1,
+   "Cyklar",
+   true,
+   [
+    [
+     "gid://shopify/ProductVariant/52849585488138",
+     "6539.00",
+     "6489.00"
+    ]
+   ]
+  ],
+  [
+   "herrcykel-romet-wagant-7-r-d-28230604-d",
+   "ACTIVE",
+   6,
+   "Cyklar",
+   true,
+   [
+    [
+     "gid://shopify/ProductVariant/52848805183754",
+     "11289.00",
+     "11209.00"
+    ],
+    [
+     "gid://shopify/ProductVariant/52848805216522",
+     "8855.10",
+     "9839.00"
+    ]
+   ]
+  ],
+  [
+   "herrcykel-romet-wagant-8-svart-28210609-a",
+   "ACTIVE",
+   2,
+   "Cyklar",
+   true,
+   [
+    [
+     "gid://shopify/ProductVariant/52848805150986",
+     "12329.00",
+     "12239.00"
+    ]
+   ]
+  ],
+  [
+   "herrcykel-romet-wagant-svart-bl-2328789",
+   "ACTIVE",
+   2,
+   "Cyklar",
+   true,
+   [
+    [
+     "gid://shopify/ProductVariant/52848509747466",
+     "7589.00",
+     "7539.00"
+    ]
+   ]
+  ],
+  [
+   "cykel-tabou-kinetic-1-0-bl-tab23-3011",
+   "ACTIVE",
+   17,
+   "Cyklar",
+   true,
+   [
+    [
+     "gid://shopify/ProductVariant/52848500408586",
+     "9459.00",
+     "9389.00"
+    ],
+    [
+     "gid://shopify/ProductVariant/52848500441354",
+     "7415.10",
+     "8239.00"
+    ]
+   ]
+  ],
+  [
+   "herrcykel-romet-orkan-m-svart-guld-28190095-a-1",
+   "ACTIVE",
+   3,
+   "Cyklar",
+   true,
+   [
+    [
+     "gid://shopify/ProductVariant/52848487563530",
+     "6509.00",
+     "6459.00"
+    ],
+    [
+     "gid://shopify/ProductVariant/52848487596298",
+     "6509.00",
+     "6459.00"
+    ]
+   ]
+  ],
+  [
+   "herrcykel-romet-orkan-m-gr-r-d-28210092-a",
+   "ACTIVE",
+   2,
+   "Cyklar",
+   true,
+   [
+    [
+     "gid://shopify/ProductVariant/52848411934986",
+     "6539.00",
+     "6489.00"
+    ]
+   ]
+  ],
+  [
+   "herrcykel-romet-mustang-m1-cs-29-m-rkgr-29170189-b",
+   "ACTIVE",
+   0,
+   "Cyklar",
+   true,
+   [
+    [
+     "gid://shopify/ProductVariant/52844817645834",
+     "9188.10",
+     "10209.00"
+    ],
+    [
+     "gid://shopify/ProductVariant/52844817678602",
+     "9188.10",
+     "10209.00"
+    ],
+    [
+     "gid://shopify/ProductVariant/52844817711370",
+     "9188.10",
+     "10209.00"
+    ]
+   ]
+  ]
+ ]
+}
