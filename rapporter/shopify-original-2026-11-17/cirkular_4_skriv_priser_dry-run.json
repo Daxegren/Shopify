@@ -1,0 +1,103 @@
+{
+ "lage": "--dry-run",
+ "priser_fore": {
+  "10581108031754": [
+   [
+    "gid://shopify/ProductVariant/53461529559306",
+    "239.00",
+    null
+   ]
+  ],
+  "10581110948106": [
+   [
+    "gid://shopify/ProductVariant/53461541093642",
+    "139.00",
+    null
+   ]
+  ],
+  "10581112553738": [
+   [
+    "gid://shopify/ProductVariant/53461544042762",
+    "249.00",
+    null
+   ],
+   [
+    "gid://shopify/ProductVariant/53461544075530",
+    "299.00",
+    null
+   ],
+   [
+    "gid://shopify/ProductVariant/53461544108298",
+    "99.00",
+    null
+   ],
+   [
+    "gid://shopify/ProductVariant/53461544141066",
+    "159.00",
+    null
+   ],
+   [
+    "gid://shopify/ProductVariant/53461544173834",
+    "199.00",
+    null
+   ]
+  ],
+  "10581118976266": [
+   [
+    "gid://shopify/ProductVariant/53461555183882",
+    "49.00",
+    null
+   ]
+  ]
+ },
+ "priser_efter": {
+  "10581108031754": [
+   [
+    "gid://shopify/ProductVariant/53461529559306",
+    "239.00",
+    null
+   ]
+  ],
+  "10581110948106": [
+   [
+    "gid://shopify/ProductVariant/53461541093642",
+    "139.00",
+    null
+   ]
+  ],
+  "10581112553738": [
+   [
+    "gid://shopify/ProductVariant/53461544042762",
+    "249.00",
+    null
+   ],
+   [
+    "gid://shopify/ProductVariant/53461544075530",
+    "299.00",
+    null
+   ],
+   [
+    "gid://shopify/ProductVariant/53461544108298",
+    "99.00",
+    null
+   ],
+   [
+    "gid://shopify/ProductVariant/53461544141066",
+    "159.00",
+    null
+   ],
+   [
+    "gid://shopify/ProductVariant/53461544173834",
+    "199.00",
+    null
+   ]
+  ],
+  "10581118976266": [
+   [
+    "gid://shopify/ProductVariant/53461555183882",
+    "49.00",
+    null
+   ]
+  ]
+ }
+}
