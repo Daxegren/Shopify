@@ -255,3 +255,11 @@ Appen Velomarket3 arkiverade 2026-11-06 kl. 03:22–03:23 ett femtiotal produkte
 ## 2026-11-17: en session som startats som "bara läsning" kan få skrivrättigheter av David direkt
 - **Vad hände:** länkningssessionen gjorde skrivningar i butiken (meny, tema, taggar, kategoribeskrivningar) och använde `switch-shop` efter instruktioner som koordinatorn inte sett.
 - **Regel:** koordinatorn läser sessionens ändringslogg och beslutsfil före nästa instruktion och noterar vilka skrivningar som skett och på vems besked. Effekt på klick och omsättning redovisas här först när den är mätt mot baslinjen 2026-11-12 (tidigast omkring 2026-12-10).
+## 2026-11-12: "klar" gällde bara tills nya produkter aktiverades; en kontroll som aldrig kan ge fel upptäcktes sent
+- **Vad hände:** utrullningen räknades klar 2026-11-08 med 281 aktiva produkter utan text. Läsningen 2026-11-12 visar 731: 454 utkast blev aktiva och 39 nya produkter tillkom (alla med taggen Velomarket, ingen med text). Dessutom räknade min första inventering standardblock och leveranstidsmening som aldrig saknade (0 av 5 354), eftersom profilladdaren (`butiksprofil.py`) inte lämnar fälten `standardblock_krav` och `leveranstidsmening` vidare; en tom lista ger `all([]) = True`. Det syntes först när 10 tomma beskrivningar ändå räknades som "har standardblock".
+- **Regel:** ett "klart" gäller ett mätdatum; mät om innan det upprepas. Låt en inventering fela högt om ett kontrollfält är tomt (`inventera_bos.py` stoppar nu) och granska resultat som är exakt 0 innan de redovisas.
+
+## 2026-11-12: "spärrad produkt har fått text" bygger på skrivfilen, inte på butiken
+- **Vad hände:** kvalitetsrapporten 2026-11-06 och beslutsunderlaget räknade 10348 (Finnlo Tricon Flex, pilot-20) som överträdelse eftersom produkten finns i två skrivfiler. Live-läsning 2026-11-12 visar att skrivfilernas text inte ligger i butiken; beskrivning och metabeskrivning är pilottexten.
+- **Regel:** en överträdelse av en spärr bevisas med butikens läge (live), inte med att produkten finns i en skrivfil. Läs produkten live innan den förs in i spärrlistan som känd överträdelse.
+
