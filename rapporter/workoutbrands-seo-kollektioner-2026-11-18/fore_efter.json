@@ -1,5 +1,5 @@
 {
- "beskrivning": "Före-läge 2026-11-18: seo.title och seo.description är null på alla fem. Åtgärd: collectionUpdate seo. Ångra: sätt seo till null.",
+ "beskrivning": "Före-läge 2026-11-18: seo.title och seo.description är null på alla fem. Åtgärd: collectionUpdate seo. Ångra: sätt seo till null. Skrivet 2026-11-18 med collectionUpdate; återläst i svaret (titel och beskrivning stämmer). SEO-titlarna avslutas inte med butiksnamn (Davids besked: bara om koordinatorn tycker det; butikens övriga SEO-titlar saknar suffix och temat lägger inte till något).",
  "kollektioner": [
   {
    "id": "639225626952",
@@ -9,7 +9,7 @@
     "description": null
    },
    "efter": {
-    "title": "Rocawear herr – jeans och streetwear | Workout Brands",
+    "title": "Rocawear herr – jeans och streetwear",
     "description": "Köp Rocawear för herr hos Workout Brands: jeans, hoodies, tröjor och shorts i streetwearstil. Se hela sortimentet och beställ online."
    }
   },
@@ -21,7 +21,7 @@
     "description": null
    },
    "efter": {
-    "title": "Rocawear – herr och dam | Workout Brands",
+    "title": "Rocawear herr och dam – streetwear och jeans",
     "description": "Utforska Rocawear för herr och dam hos Workout Brands: jeans, hoodies, långärmade tröjor och shorts. Välj modell och beställ online."
    }
   },
@@ -33,7 +33,7 @@
     "description": null
    },
    "efter": {
-    "title": "Relode – träningskläder för kvinnor | Workout Brands",
+    "title": "Relode – träningskläder för kvinnor",
     "description": "Se Relode hos Workout Brands: träningskläder för kvinnor i flera modeller. Välj din storlek och beställ online."
    }
   },
@@ -45,7 +45,7 @@
     "description": null
    },
    "efter": {
-    "title": "Starter Black Label herr – streetwear | Workout Brands",
+    "title": "Starter Black Label herr – streetwear",
     "description": "Köp Starter Black Label för herr hos Workout Brands: plagg i streetwearstil från ett välkänt märke. Se hela sortimentet och beställ online."
    }
   },
@@ -57,7 +57,7 @@
     "description": null
    },
    "efter": {
-    "title": "Dangerous DNGRS herr – streetwear | Workout Brands",
+    "title": "Dangerous DNGRS herr – streetwear",
     "description": "Utforska Dangerous DNGRS för herr hos Workout Brands: plagg med attityd och tryck i streetwearstil. Se sortimentet och beställ online."
    }
   }
