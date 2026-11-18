@@ -4,6 +4,7 @@ Den här filen fylls bara på, nya poster överst. Befintliga poster ändras ald
 
 | Datum | Fil | Vad | Varför | Beslut |
 |---|---|---|---|---|
+| 2026-11-18 | `rapporter/gsc-workoutbrands-2026-11-18/indexeringskontroll_sv_1825.csv` (ny), `baslinje.md` (nytt avsnitt sist) | URL-inspektion av 1 825 svenska kollektions- och produktadresser: 89 % av kollektionerna och 95 % av produkterna är indexerade; 76 kollektioner att åtgärda listade. Bara läsning. | Davids körning i Cloud Shell 2026-11-18 | David (underlag 2026-11-18) |
 | 2026-11-18 | `rapporter/gsc-workoutbrands-2026-11-18/baslinje.md` och `googleads-och-forsaljning.md` (nya avsnitt sist) | Konverteringsvärde ur Google Ads mot annonskostnad; "Genomsökt – inte indexerad"; leverantörsfaktura som bevis för euro-inköpspriser. Bara läsning, inget ändrat i butik eller annonskonto. | Davids exporter och faktura | David (underlag 2026-11-18) |
 | 2026-11-18 | Ny fil `rapporter/gsc-workoutbrands-2026-11-18/googleads-och-forsaljning.md` | Workout Brands: Google Ads-kostnad och klick 2026-07-21–11-17 jämförda med Shopify-försäljning och källor. Bara läsning; inget ändrat i Google Ads eller Shopify. | Davids fråga om Google Ads-trafiken och relevansen av jämförelse | David (exporter 2026-11-18) |
 | 2026-11-18 | `rapporter/gsc-workoutbrands-2026-11-18/baslinje.md` (nytt avsnitt sist) | Jämförelse bestofsports.se mot workoutbrands.com för 2026-10-01–15: BOS visar inget fall 8–9 oktober. Bara läsning. | Kontroll om oktoberfallet är Google-gemensamt | David (körde skriptet 2026-11-18) |
