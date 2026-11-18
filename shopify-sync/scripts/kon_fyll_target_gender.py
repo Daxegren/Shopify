@@ -137,12 +137,31 @@ def _verifiera(klient, grupp, mapp):
 
 
 def skriv_grupp(klient, grupp, mapp):
-    """Skriver en grupp. Vid fel i gruppen provas varje produkt för sig. Returnerar lista (id, felmeddelande)."""
+    """Skriver en grupp. Nekade produkter pekas ut av felindexen i svaret och skrivs inte; resten skrivs i ett anrop.
+    Om svaret inte går att tolka provas varje produkt för sig. Returnerar lista (id, felmeddelande)."""
     fel = _satt(klient, grupp, mapp)
     if not fel:
         _verifiera(klient, grupp, mapp)
         return []
-    misslyckade, ok = [], []
+    dalig = {}
+    for e in fel:
+        f = e.get("field") or []
+        if len(f) >= 2 and f[0] == "metafields" and str(f[1]).isdigit() and int(f[1]) < len(grupp):
+            dalig[int(f[1])] = e["message"]
+        else:
+            dalig = None
+            break
+    misslyckade = []
+    if dalig:
+        misslyckade = [(grupp[ix], m) for ix, m in sorted(dalig.items())]
+        rest = [i for ix, i in enumerate(grupp) if ix not in dalig]
+        if not rest:
+            return misslyckade
+        if not _satt(klient, rest, mapp):
+            _verifiera(klient, rest, mapp)
+            return misslyckade
+        grupp = rest
+    ok = []
     for i in grupp:
         e = _satt(klient, [i], mapp)
         if e:

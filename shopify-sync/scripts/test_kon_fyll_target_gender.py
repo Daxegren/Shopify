@@ -17,9 +17,11 @@ class Falsk:
         if "category{fullName}" in q:
             return {"nodes": [{"id": g, "title": "t", "category": {"fullName": "Fel > Kategori"}} for g in v["ids"]]}
         if "metafieldsSet" in q:
-            ogiltiga = [m for m in v["m"] if self.p[int(m["ownerId"].split("/")[-1])].get("ogiltig")]
-            if ogiltiga:  # atomiskt: hela anropet nekas
-                return {"metafieldsSet": {"metafields": [], "userErrors": [{"field": ["metafields", "0"], "message": "Owner subtype does not match", "code": "INVALID_VALUE"}]}}
+            self.anrop = getattr(self, "anrop", 0) + 1
+            fel = [{"field": ["metafields", str(ix)], "message": "Owner subtype does not match", "code": "INVALID_VALUE"}
+                   for ix, m in enumerate(v["m"]) if self.p[int(m["ownerId"].split("/")[-1])].get("ogiltig")]
+            if fel:  # atomiskt: hela anropet nekas
+                return {"metafieldsSet": {"metafields": [], "userErrors": fel}}
             for m in v["m"]:
                 i = int(m["ownerId"].split("/")[-1]); self.skrivna.append(i)
                 if not self.daligt:
@@ -99,6 +101,13 @@ class T(unittest.TestCase):
         self.assertEqual(r["skrivna"], 2); self.assertEqual(r["misslyckade"], 1)
         self.assertEqual(c.p[1]["tg"], [DAM]); self.assertIsNone(c.p[2]["tg"])
         self.assertIn("2;Fel > Kategori;Owner subtype", rad)
+
+    def test_nekade_pekas_ut_och_resten_skrivs_i_ett_anrop(self):
+        c = Falsk({i: P(ogiltig=(i in (2, 7))) for i in range(1, 11)})
+        with tempfile.TemporaryDirectory() as d:
+            r = k.kor(c, {i: "herr" for i in range(1, 11)}, skriv=True, fore_fil=os.path.join(d, "f.json"), logg=lambda *_: None)
+        self.assertEqual(r["skrivna"], 8); self.assertEqual(r["misslyckade"], 2)
+        self.assertEqual(c.anrop, 2)  # ett nekat anrop och ett för de åtta
 
     def test_stopp_om_for_manga_misslyckade(self):
         c = Falsk({i: P(ogiltig=True) for i in range(1, 6)})
