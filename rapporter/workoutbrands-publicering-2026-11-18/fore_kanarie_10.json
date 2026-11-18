@@ -1,0 +1,12 @@
+{"butik": "workoutbrands.com (doyou-se.myshopify.com)", "tid": "2026-11-18", "beskrivning": "Före-läge för kanariepublicering (10 produkter): alla ACTIVE, publishedAt null, inga publikationer (resourcePublicationsV2 tom). Åtgärd: publishablePublish till de sex publikationerna 93969055958, 94924406998, 96542359766, 96587284694, 192812089672, 194698805576. Ångra: publishableUnpublish till samma publikationer.",
+"produkter": [
+{"id": 9435126563144, "handle": "uc-basic-essential-hoody", "lager": 61737},
+{"id": 9394515706184, "handle": "uc-canvas-belt", "lager": 32641},
+{"id": 10233804390728, "handle": "110-dia-double-mesh-trucker-navy-one-size", "lager": 16403},
+{"id": 10138945847624, "handle": "uc-basic-boxy-tee", "lager": 15279},
+{"id": 10233808552264, "handle": "uc-soft-brushed-knit-pants", "lager": 6682},
+{"id": 9340077048136, "handle": "mstrds-stonewashed-jersey-beanie", "lager": 4688},
+{"id": 9404856566088, "handle": "def-straight-fit-jeans", "lager": 3147},
+{"id": 10389793800520, "handle": "mister-tee-flanell-shirt", "lager": 2277},
+{"id": 9340103065928, "handle": "cs-plain-hoody", "lager": 1814},
+{"id": 10029951123784, "handle": "ecko-unltd-quiet-t-shirts", "lager": 1417}]}
