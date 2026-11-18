@@ -80,6 +80,11 @@ class T(unittest.TestCase):
             with self.assertRaises(k.Stopp):
                 k.lasa_mappning(f)
 
+    def test_mutationen_ber_inte_om_ogiltigt_falt(self):
+        # Metafield saknar ownerId (felet som stoppade första körningen); id och key finns.
+        self.assertNotIn("ownerId}", k.SKRIV.split("userErrors")[0].split("metafields{")[1])
+        self.assertIn("id key", k.SKRIV)
+
     def test_omkorning_hoppar_det_som_ar_gjort(self):
         c = Falsk({1: P(), 2: P()})
         with tempfile.TemporaryDirectory() as d:

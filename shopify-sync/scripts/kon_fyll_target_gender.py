@@ -21,7 +21,7 @@ VARDEN = {  # klass i mappningsfilen -> metaobjekt (Avsett för)
     "dam+herr": ["gid://shopify/Metaobject/115133645128", "gid://shopify/Metaobject/115381502280"],
 }
 LASA = '''query($ids:[ID!]!){nodes(ids:$ids){... on Product{id status tg:metafield(namespace:"shopify",key:"target-gender"){value}}}}'''
-SKRIV = '''mutation($m:[MetafieldsSetInput!]!){metafieldsSet(metafields:$m){metafields{ownerId} userErrors{field message code}}}'''
+SKRIV = '''mutation($m:[MetafieldsSetInput!]!){metafieldsSet(metafields:$m){metafields{id key} userErrors{field message code}}}'''
 
 
 class Stopp(Exception):

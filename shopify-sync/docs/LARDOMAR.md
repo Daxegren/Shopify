@@ -327,3 +327,5 @@ Appen Velomarket3 arkiverade 2026-11-06 kl. 03:22–03:23 ett femtiotal produkte
 ### 2026-11-18: Kopierad chattgränssnitts-HTML i beskrivningar
 - **Vad som hände:** en läsande räkning visade stark rest av chattgränssnitts-HTML (`data-start`, `data-end`, `data-is-last-node` med flera) i 2 904 av 7 371 aktiva produkter, 470 av 674 kollektioner, 71 av 144 bloggartiklar och 8 av 85 sidor, ofta även i de översatta texterna.
 - **Regel:** kontrollera varje ny eller omskriven text mot dessa mönster före skrivning. Klistra inte in text direkt från ett chattgränssnitt utan att rensa attributen. Översätt inte från en källtext som innehåller dem, eftersom resterna följer med. Skriptet `shopify-sync/scripts/chatt_html_rester.py` räknar mönstren.
+
+- 2026-11-18, könsfältet (workoutbrands.com): mitt skript valde fältet `ownerId` på typen Metafield i mutationen metafieldsSet, som inte finns. Fakeklienten i testerna fångade det inte, och felet visade sig först i Davids körning. Regel: kontrollera varje fält i en ny mutation mot Shopifys schema (graphql_schema) innan skriptet lämnas till David, och lägg ett test som låser urvalsfälten.
