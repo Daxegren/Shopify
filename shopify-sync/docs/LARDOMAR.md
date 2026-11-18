@@ -322,3 +322,5 @@ Appen Velomarket3 arkiverade 2026-11-06 kl. 03:22–03:23 ett femtiotal produkte
 
 
 - 2026-11-18, Search Console-export (workoutbrands.com): sid-, sökfråge- och sida×sökfråge-rapporterna avkortas vid 25 000 rader (`MAX_ROWS` i `gsc_export.py`), så deras visningssummor är lägre än verkliga totaler (3,98 av 6,56 miljoner). Jag redovisade först den avkortade summan som butikens totala visningar. Regel: ta totaler ur land-, enhets- och månadsrapporterna och ange alltid om en sidtyps- eller frågeandel gäller de avkortade raderna. Klick är i praktiken kompletta, visningar inte.
+
+- 2026-11-18, Workout Brands, kollektioner: jag tolkade `hoodie-oversized-herren` som en dubblett av `hoodie-oversized-herr` och skrev det i baslinjen och i uppdraget till sessionen. Adressen finns bara som `/de/collections/…` (tyska versionen; "Herren" = män). Regel: kontrollera språkprefixet (`/de/`, `/fr/` …) innan en kollektion kallas dubblett; sammanslagning över språk döljer att handles kan vara översättningar.

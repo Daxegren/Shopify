@@ -1,0 +1,14 @@
+Skäl,Källa,Verifiering,Sidor
+Server-fel (5xx),Webbplats,Misslyckades,1759
+Utesluten av taggen noindex,Webbplats,Har inte startats,373085
+Alternativ sida med korrekt kanonisk tagg,Webbplats,Har inte startats,332215
+Hittades inte (404),Webbplats,Har inte startats,5833
+Blockerad av robots.txt,Webbplats,Har inte startats,3532
+Sida med omdirigering,Webbplats,Har inte startats,1802
+Soft 404,Webbplats,Har inte startats,41
+Dubblett utan att användaren valt en kanonisk sida,Webbplats,Har inte startats,11
+Sidan blockerades på grund av ett annat 4xx-problem,Webbplats,Har inte startats,1
+Blockerad på grund av en oauktoriserad begäran (401),Webbplats,Har inte startats,1
+Genomsökt – inte indexerad för närvarande,Googles system,Har inte startats,146442
+Dubblett: Google har valt en annan kanonisk sida än användaren,Googles system,Har inte startats,165
+Upptäckt – inte indexerad för närvarande,Googles system,Godkändes,7475

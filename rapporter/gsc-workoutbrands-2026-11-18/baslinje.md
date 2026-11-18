@@ -50,3 +50,24 @@ Källa: `kollektioner_prioritet.csv` (alla språkversioner av en kollektion summ
 - Märkena sköts delvis av filtersidor (`/collections/vendors?q=…`) i stället för egna märkeskollektioner; ändra inte det utan beslut.
 - Tillfällesktioner (examen, dop, present till 18-åring) får många visningar men är osäkra som köpavsikt för streetwear; bedöm mot försäljning innan de prioriteras.
 - Dubblettkollektionen `hoodie-oversized-herren` bör undersökas (omdirigering eller sammanslagning); ändring tidigast 2026-12-01.
+
+## Rättelse 2026-11-18, kollektionerna (tillägg; texten ovan är oförändrad)
+`hoodie-oversized-herren` är **inte** en dubblett av `hoodie-oversized-herr`. Sidrapporten visar att adressen bara finns som `/de/collections/hoodie-oversized-herren` (tyska versionen; "Herren" är tyska för män): 25 klick, 37 485 visningar, position 41. Avsnittet ovan som föreslår att undersöka den som dubblett är fel och ska inte följas. URL-inspektionen visar dessutom att den svenska adressen `/collections/hoodie-oversized-herren` är okänd för Google. Den tyska hoodie-kollektionen med 37 485 visningar på position 41 är i stället en möjlig förbättringspost i sig.
+
+## Tillägg 2026-11-18: indexering, sitemap, Kärnvärden och oktoberfallet
+Källor: skärmbilder och täckningsexport ur Search Console (`indexering/`, fyra CSV-filer), samt `gsc_brandit_dag.py` och `gsc_index.py` körda av David i Cloud Shell (bara läsning).
+
+**Fakta**
+- **Indexering (alla kända sidor, 2026-11-10):** 139 tusen indexerade och 872 tusen inte indexerade (13 orsaker). Antalet kända, ej indexerade sidor föll i ett enda steg 2026-09-22 från 1 969 457 till 908 913; indexerade sidor ändrades då inte (155 257 till 158 280). Indexerade sidor har därefter sjunkit från 158 280 (2026-09-22) till 138 692 (2026-11-10).
+- **Orsaker (sidor):** utesluten av noindex 373 085; alternativ sida med korrekt kanonisk tagg 332 215; genomsökt men inte indexerad 146 442; upptäckt men inte indexerad 7 475; hittades inte (404) 5 833; blockerad av robots.txt 3 532; sida med omdirigering 1 802; serverfel (5xx) 1 759 (verifiering misslyckades); soft 404 41; Google valde annan kanonisk 165; dubblett utan vald kanonisk 11.
+- **Webbplatskarta:** `https://workoutbrands.com/sitemap.xml`, inskickad 2025-01-02, senast läst 2026-11-14, status lyckades, 125 011 upptäckta webbsidor och 113 362 bilder, inga fel eller varningar. Kolumnen indexerade visar 0 (fältet fylls inte av API:et).
+- **Viktiga webbvärden (Chrome-användardata):** mobil och desktop var för sig 1 008 bra webbadresser, 0 behöver förbättras, 0 dåliga.
+- **URL-inspektion, stickprov om nio produkter ur de 449 som saknas i sitemapen:** alla nio "URL is unknown to Google". Kollektionerna `/collections/hoodie-oversized-herr` (senast genomsökt 2026-11-11) och `/collections/rocawear-herr` (2026-10-23) är indexerade och skickade via sitemapen, och Google valde samma kanoniska adress.
+- **Oktoberfallet, dag för dag (visningar):** alla sökfrågor låg på 20 000–28 000 per dag till och med 2026-10-07, föll 2026-10-08 till 21 151 och 2026-10-09 till 16 439, och ligger sedan på cirka 10 500–14 500 per dag. Klick per dag är oförändrade, cirka 80–150, genom hela perioden. Sökfrågor som innehåller "brandit" hade 2 400–4 700 visningar per dag fram till 2026-10-07, 982 den 2026-10-08 och 88 den 2026-10-09, och därefter cirka 10–100 per dag. Brandit-frågorna gav 0–2 klick per dag även före fallet.
+
+**Bedömning**
+- Oktoberfallet är ett tydligt avbrott 2026-10-08/09 i visningar men inte i klick, och Brandit-frågorna förklarar bara cirka 2 500–3 000 av de cirka 12 000 visningar per dag som försvann. Orsaken är inte fastställd. Det som bör kontrolleras: om andra egendomar (till exempel BOS) har samma fall samma dagar (då är det sannolikt Google-gemensamt), och vad som ändrades i Workout Brands-butiken eller dess appar 2026-10-08/09.
+- Eftersom klicken inte påverkades är den direkta affärseffekten på sökklick liten.
+- Steget 2026-09-22 i antalet kända sidor stämmer inte med någon förändring i indexerade sidor eller visningar; det ser ut som en omräkning eller rensning av kända adresser (till exempel parameter- eller filteradresser), inte ett index som försvann.
+- 705 000 av de 872 000 oindexerade sidorna är noindex eller korrekt kanoniska alternativ (förväntat för en butik med 21 språk, filter och varianter). Intressantast för försäljning är de 146 442 genomsökta men inte indexerade sidorna (kvalitet eller dubbletter) och 1 759 serverfel.
+- De nio produkterna ur sitemap-gapet är okända för Google; det bekräftar att 362 produkter med lager i praktiken inte syns i sökmotorn.
