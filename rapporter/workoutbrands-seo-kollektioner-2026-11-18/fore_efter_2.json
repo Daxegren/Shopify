@@ -1,0 +1,149 @@
+{
+ "beskrivning": "Före-läge och planerad ändring 2026-11-18 (seo.title/seo.description på 12 kollektioner). null = saknades; None i efter = oförändrat. Ångra: sätt tillbaka fore-värdena (null = tomt).",
+ "kollektioner": [
+  {
+   "id": "416096846038",
+   "handle": "long-sleeve-man",
+   "fore": {
+    "title": null,
+    "description": null
+   },
+   "efter": {
+    "title": "Långärmade tröjor för män – träning och vardag",
+    "description": "Köp långärmade tröjor för män hos Workout Brands: träningströjor och streetwear i flera modeller och storlekar. Beställ online."
+   }
+  },
+  {
+   "id": "639224840520",
+   "handle": "def-herr",
+   "fore": {
+    "title": null,
+    "description": null
+   },
+   "efter": {
+    "title": "DEF herr – streetwearkläder",
+    "description": "Köp DEF för herr hos Workout Brands: plagg i streetwearstil från ett välkänt märke. Se hela sortimentet och beställ online."
+   }
+  },
+  {
+   "id": "640425165128",
+   "handle": "wob-alla-produkter",
+   "fore": {
+    "title": null,
+    "description": null
+   },
+   "efter": {
+    "title": "Alla produkter – streetwear och träningskläder",
+    "description": "Se alla produkter hos Workout Brands: streetwear, träningskläder och accessoarer för dam och herr från många märken. Beställ online."
+   }
+  },
+  {
+   "id": "607123603784",
+   "handle": "astani-alla-produkter",
+   "fore": {
+    "title": null,
+    "description": "Astani Wear | Damer | Innovativa och bekväma träningskläder från Astani | Handla kollektionen på Workout Brands"
+   },
+   "efter": {
+    "title": "Astani Wear damer – alla produkter",
+    "description": null
+   }
+  },
+  {
+   "id": "641865744712",
+   "handle": "southpole-jeans",
+   "fore": {
+    "title": null,
+    "description": "Southpole jeans kombinerar streetwear med en avslappnad, urban stil för att skapa plagg som både ser bra ut och känns bekväma. "
+   },
+   "efter": {
+    "title": "Southpole jeans – streetwear och urban stil",
+    "description": null
+   }
+  },
+  {
+   "id": "642224980296",
+   "handle": "oversized-klader-herr",
+   "fore": {
+    "title": null,
+    "description": "Kolla in vårt stora sortiment av oversized kläder för herr från trendiga varumärken som Urban Classics och Mister Tee. "
+   },
+   "efter": {
+    "title": "Oversized kläder för herr – streetwear",
+    "description": null
+   }
+  },
+  {
+   "id": "642913763656",
+   "handle": "streetwear-barn",
+   "fore": {
+    "title": null,
+    "description": "Streetwear för barn kombinerar bekvämlighet, funktionalitet och en tydlig känsla för stil – perfekt för aktiva dagar, skola och fritid. "
+   },
+   "efter": {
+    "title": "Streetwear för barn – kläder för skola och fritid",
+    "description": null
+   }
+  },
+  {
+   "id": "644448878920",
+   "handle": "klader-till-dop-dam",
+   "fore": {
+    "title": null,
+    "description": "Kläder till dop | Dam | Eleganta och stilfulla plagg från kända varumärken | Perfekta för dop och speciella tillfällen i alla storlekar"
+   },
+   "efter": {
+    "title": "Kläder till dop för dam – alla storlekar",
+    "description": null
+   }
+  },
+  {
+   "id": "645686427976",
+   "handle": "musee-mimmi-pigg-klader-herr-dam",
+   "fore": {
+    "title": null,
+    "description": "Musee | Mimmi Pigg kläder för herr & dam | Trendiga och bekväma plagg från kända varumärken | Perfekta för vardag och lekfull stil"
+   },
+   "efter": {
+    "title": "Musee Mimmi Pigg kläder för herr och dam",
+    "description": null
+   }
+  },
+  {
+   "id": "636823306568",
+   "handle": "flexfit-keps",
+   "fore": {
+    "title": "FlexFit kepsar – Stil och komfort i alla storlekar - Upptäck FlexFit ",
+    "description": null
+   },
+   "efter": {
+    "title": "Flexfit kepsar – stil och passform i många storlekar",
+    "description": null
+   }
+  },
+  {
+   "id": "643861217608",
+   "handle": "yoga-pants",
+   "fore": {
+    "title": "Yoga pants - Snygga och bekväma yogabyxor & tights i alla storlekar",
+    "description": null
+   },
+   "efter": {
+    "title": "Yoga pants – yogabyxor och tights för träning",
+    "description": null
+   }
+  },
+  {
+   "id": "643865968968",
+   "handle": "gymvaska-1",
+   "fore": {
+    "title": null,
+    "description": "Kolla in vårt noggrant utvalda sortiment av gymväskor, oavsett om du behöver en kompakt väska för snabba gympass eller en rymlig modell för hela veckans träningskit."
+   },
+   "efter": {
+    "title": null,
+    "description": "Se gymväskor och träningsväskor hos Workout Brands: kompakta modeller för snabba pass och rymliga väskor för hela träningskitet."
+   }
+  }
+ ]
+}
