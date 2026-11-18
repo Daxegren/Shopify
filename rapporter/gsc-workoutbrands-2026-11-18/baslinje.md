@@ -28,3 +28,11 @@ Källa: `gsc_export.py sc-domain:workoutbrands.com --months 16` (2025-07-17 till
 
 ## Saknas
 Sidindexering, Sitemaps (inskickade mot indexerade) och Kärnvärden ur Search Console-gränssnittet.
+
+## Rättelse 2026-11-18 (tillägg; texten ovan är oförändrad)
+Efter omkörning av exporten visar totalerna per land, enhet och månad (inte avkortade): **42 266 klick och 6 556 547 visningar**, klickfrekvens 0,64 %. Sidrapporten, sökfrågerapporten och rapporten sida × sökfråga är avkortade vid 25 000 rader och summerar bara 3 983 347 visningar (cirka 61 % av totalen) men 42 545 klick (klickdelen är i praktiken komplett).
+- Uppgiften "3,98 miljoner visningar" ovan är alltså sidrapportens avkortade summa, inte butikens totala visningar.
+- Andelar av visningar per sidtyp (blogg cirka 52 %) gäller de 3,98 miljoner som ingår i sidrapporten. Räknat på alla 6,56 miljoner är bloggens synliga andel högst cirka 32 %; resten av visningarna ligger på sidor utanför de 25 000 raderna och kan inte fördelas per typ med den här exporten.
+- Klickandelar per sidtyp (produkt 33 %, blogg 32 %, kollektion 24 %) påverkas knappt, eftersom klicken är i stort sett kompletta.
+- Månadssiffrorna (visningar, klick, position) kommer från den fullständiga månadsrapporten och står kvar.
+- September mot oktober per sidtyp bygger på avkortade sidrapporter (täckning 61–73 % av månadens visningar).

@@ -320,3 +320,5 @@ Appen Velomarket3 arkiverade 2026-11-06 kl. 03:22–03:23 ett femtiotal produkte
 - **Vad hände:** `orders(query:"billing_address.country_code:SE")` och `shipping_address.country_code:DK` returnerade samma senaste order oavsett land (ogiltiga filter ignoreras utan fel). Rätt land hittades först genom att läsa 100 ordrar och gruppera på `shippingAddress.countryCodeV2` i efterhand.
 - **Regel:** kontrollera att ett filter faktiskt begränsar (ordernummer eller land i svaret) innan resultatet används; gruppera annars på klientsidan.
 
+
+- 2026-11-18, Search Console-export (workoutbrands.com): sid-, sökfråge- och sida×sökfråge-rapporterna avkortas vid 25 000 rader (`MAX_ROWS` i `gsc_export.py`), så deras visningssummor är lägre än verkliga totaler (3,98 av 6,56 miljoner). Jag redovisade först den avkortade summan som butikens totala visningar. Regel: ta totaler ur land-, enhets- och månadsrapporterna och ange alltid om en sidtyps- eller frågeandel gäller de avkortade raderna. Klick är i praktiken kompletta, visningar inte.

@@ -4,6 +4,7 @@ Den här filen fylls bara på, nya poster överst. Befintliga poster ändras ald
 
 | Datum | Fil | Vad | Varför | Beslut |
 |---|---|---|---|---|
+| 2026-11-18 | `rapporter/gsc-workoutbrands-2026-11-18/baslinje.md` (nytt avsnitt sist), `shopify-sync/docs/LARDOMAR.md` (ny post sist) | Rättelse efter omkörd export: verkliga totaler 42 266 klick och 6 556 547 visningar; sidrapporten är avkortad vid 25 000 rader och visar 3,98 miljoner. Befintlig text ändrades inte. | Min tidigare uppgift om totala visningar var fel (avkortad summa) | Koordinatorn (egen rättelse; ingen ändring av befintlig text) |
 | 2026-11-18 | Search Console (workoutbrands.com), inte i repot | Massexport till BigQuery aktiverad av David i Search Console-inställningarna. Ingen ändring i Shopify eller i repots kod. | Löpande sökdata för Workout Brands | David (chatt 2026-11-18) |
 | 2026-11-18 | Ny fil `rapporter/gsc-workoutbrands-2026-11-18/baslinje.md` | Search Console-baslinje för workoutbrands.com (16 månader, sidtyper, sökfrågor, sida per sökfråga, september mot oktober). Bara läsning; rådata ligger i Davids Cloud Shell. | David körde exporten i Cloud Shell; underlag för SEO-prioritering | David (chatt 2026-11-18) |
 | 2026-11-18 | `shopify-sync/scripts/pris_forslag.py`, `test_pris_forslag.py` | Målmarginal, golv, tak och tolerans är nu valbara (--marginal, --golv, --tak, --tolerans); standardvärdena (BOS 40 %, 30–50 %) oförändrade. 13 tester gröna. Inget körts mot någon butik. | Davids beslut: Workout Brands målmarginal cirka 60 % | David (chatt 2026-11-18) |
