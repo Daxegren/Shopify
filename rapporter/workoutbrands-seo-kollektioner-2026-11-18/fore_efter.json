@@ -1,0 +1,65 @@
+{
+ "beskrivning": "Före-läge 2026-11-18: seo.title och seo.description är null på alla fem. Åtgärd: collectionUpdate seo. Ångra: sätt seo till null.",
+ "kollektioner": [
+  {
+   "id": "639225626952",
+   "handle": "rocawear-herr",
+   "fore": {
+    "title": null,
+    "description": null
+   },
+   "efter": {
+    "title": "Rocawear herr – jeans och streetwear | Workout Brands",
+    "description": "Köp Rocawear för herr hos Workout Brands: jeans, hoodies, tröjor och shorts i streetwearstil. Se hela sortimentet och beställ online."
+   }
+  },
+  {
+   "id": "639225528648",
+   "handle": "rocawear-herr-och-dam",
+   "fore": {
+    "title": null,
+    "description": null
+   },
+   "efter": {
+    "title": "Rocawear – herr och dam | Workout Brands",
+    "description": "Utforska Rocawear för herr och dam hos Workout Brands: jeans, hoodies, långärmade tröjor och shorts. Välj modell och beställ online."
+   }
+  },
+  {
+   "id": "618641686856",
+   "handle": "relode",
+   "fore": {
+    "title": null,
+    "description": null
+   },
+   "efter": {
+    "title": "Relode – träningskläder för kvinnor | Workout Brands",
+    "description": "Se Relode hos Workout Brands: träningskläder för kvinnor i flera modeller. Välj din storlek och beställ online."
+   }
+  },
+  {
+   "id": "638982979912",
+   "handle": "starter-black-label-man",
+   "fore": {
+    "title": null,
+    "description": null
+   },
+   "efter": {
+    "title": "Starter Black Label herr – streetwear | Workout Brands",
+    "description": "Köp Starter Black Label för herr hos Workout Brands: plagg i streetwearstil från ett välkänt märke. Se hela sortimentet och beställ online."
+   }
+  },
+  {
+   "id": "639906906440",
+   "handle": "dangerous-dngrs-herr",
+   "fore": {
+    "title": null,
+    "description": null
+   },
+   "efter": {
+    "title": "Dangerous DNGRS herr – streetwear | Workout Brands",
+    "description": "Utforska Dangerous DNGRS för herr hos Workout Brands: plagg med attityd och tryck i streetwearstil. Se sortimentet och beställ online."
+   }
+  }
+ ]
+}
