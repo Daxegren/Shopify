@@ -4,6 +4,7 @@ Den här filen fylls bara på, nya poster överst. Befintliga poster ändras ald
 
 | Datum | Fil | Vad | Varför | Beslut |
 |---|---|---|---|---|
+| 2026-11-18 | Search Console (workoutbrands.com), inte i repot | Massexport till BigQuery aktiverad av David i Search Console-inställningarna. Ingen ändring i Shopify eller i repots kod. | Löpande sökdata för Workout Brands | David (chatt 2026-11-18) |
 | 2026-11-18 | Ny fil `rapporter/gsc-workoutbrands-2026-11-18/baslinje.md` | Search Console-baslinje för workoutbrands.com (16 månader, sidtyper, sökfrågor, sida per sökfråga, september mot oktober). Bara läsning; rådata ligger i Davids Cloud Shell. | David körde exporten i Cloud Shell; underlag för SEO-prioritering | David (chatt 2026-11-18) |
 | 2026-11-18 | `shopify-sync/scripts/pris_forslag.py`, `test_pris_forslag.py` | Målmarginal, golv, tak och tolerans är nu valbara (--marginal, --golv, --tak, --tolerans); standardvärdena (BOS 40 %, 30–50 %) oförändrade. 13 tester gröna. Inget körts mot någon butik. | Davids beslut: Workout Brands målmarginal cirka 60 % | David (chatt 2026-11-18) |
 | 2026-11-18 | `shopify-sync/config/sparrlista-workoutbrands.json` | Alla 13 spärrar aktiverade (aktiv=true) med riktiga id-filer ur genomlysningen; de fem tidigare förslagsposterna (aktiv=false, idfil TODO) ersatta. Grenen `claude/genomlysning-workoutbrands` ihopslagen i arbetsgrenen (ANDRINGSLOGG-konflikt löst genom att behålla båda raderna). Ingenting ändrat i Shopify. | Davids beslut att aktivera alla spärrar | David (chatt 2026-11-18) |
