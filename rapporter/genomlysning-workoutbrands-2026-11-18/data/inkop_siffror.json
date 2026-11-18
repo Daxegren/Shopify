@@ -1,0 +1,188 @@
+{
+ "varianter_totalt": 33007,
+ "med_inkop": 32906,
+ "rimliga_30_90": 23799,
+ "over_90": 8920,
+ "under_inkop": 141,
+ "saknar_inkop": 101,
+ "mellan_0_30": 46,
+ "kvot_rimliga": {
+  "median": 3.18,
+  "q1": 2.89,
+  "q3": 3.18
+ },
+ "kvot_over_90": {
+  "median": 27.05,
+  "q1": 24.83,
+  "q3": 29.53
+ },
+ "formelmarginal_median_rimliga": 0.6064,
+ "implicit_faktor_k_over_90": {
+  "median": 54.99,
+  "q1": 50.47,
+  "q3": 60.01,
+  "p10": 47.75,
+  "p90": 67.13
+ },
+ "faktor_k_histogram_topp": [
+  [
+   52,
+   883
+  ],
+  [
+   50,
+   712
+  ],
+  [
+   57,
+   626
+  ],
+  [
+   55,
+   552
+  ],
+  [
+   59,
+   503
+  ],
+  [
+   61,
+   494
+  ],
+  [
+   60,
+   494
+  ],
+  [
+   49,
+   480
+  ],
+  [
+   48,
+   363
+  ],
+  [
+   51,
+   342
+  ],
+  [
+   56,
+   322
+  ],
+  [
+   54,
+   313
+  ]
+ ],
+ "andel_k_10_12": 0.0,
+ "andel_k_9_13": 0.0,
+ "produkter_alla_varianter_over_90": 1880,
+ "produkter_blandade": 36,
+ "produkter_inga_over_90": 5433,
+ "sku_modeller_blandade": 28,
+ "sku_modeller_totalt": 8676,
+ "andel_over_90_per_skapandear": {
+  "2023": [
+   96,
+   0.0
+  ],
+  "2024": [
+   173,
+   0.0
+  ],
+  "2025": [
+   29302,
+   0.199
+  ],
+  "2026": [
+   3335,
+   0.926
+  ]
+ },
+ "andel_over_90_in_sheet": [
+  23447,
+  0.008
+ ],
+ "andel_over_90_utan_in_sheet": [
+  9459,
+  0.923
+ ],
+ "andel_over_90_prisjobb": [
+  14014,
+  0.24
+ ],
+ "andel_over_90_ej_prisjobb": [
+  18892,
+  0.294
+ ],
+ "andel_over_90_lager_0": [
+  18732,
+  0.19
+ ],
+ "andel_over_90_lager_pos": [
+  14174,
+  0.378
+ ],
+ "under_inkop_kvot_median": 0.458,
+ "under_inkop_vendor_topp": [
+  [
+   "Relode",
+   49
+  ],
+  [
+   "Gavelo",
+   28
+  ],
+  [
+   "Out of stock",
+   26
+  ],
+  [
+   "CLN",
+   14
+  ],
+  [
+   "Under Armour",
+   9
+  ],
+  [
+   "outlet",
+   8
+  ],
+  [
+   "UC Men",
+   5
+  ],
+  [
+   "MT Men",
+   1
+  ]
+ ],
+ "under_inkop_prisjobb": 0,
+ "saknas_vendor_topp": [
+  [
+   "workoutbrands.com",
+   85
+  ],
+  [
+   "UC Ladies",
+   7
+  ],
+  [
+   "Out of stock",
+   4
+  ],
+  [
+   "Workout Brands",
+   3
+  ],
+  [
+   "HYPR",
+   1
+  ],
+  [
+   "Urban Classics Kids",
+   1
+  ]
+ ]
+}
