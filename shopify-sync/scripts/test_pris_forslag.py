@@ -57,6 +57,19 @@ class T(unittest.TestCase):
         b = p.bedom(9.0, 0, 0.33, [], 1)
         self.assertNotIn("MARGINAL_UTANFOR_30_50", b["flaggor"])
 
+    def test_wb_malmarginal_60(self):
+        # inköp 100: formelpris 60 % = ceil9(100/0.4*1.25=312.5) = 319
+        self.assertEqual(p.formelpris(100, marginal=0.60), 319)
+        b = p.bedom(499.0, 0, 100.0, [], 5, marginal=0.60, golv=0.55, tak=0.65)
+        self.assertEqual(b["nytt"], 319)
+        self.assertEqual(b["riktning"], "ner")
+        self.assertTrue(b["hallen"])  # -36 % hålls kvar
+
+    def test_tolerans_ror_inte_nara_malet(self):
+        # pris 319 / inköp 100: marginal 60,2 %
+        self.assertIsNone(p.bedom(319.0, 0, 100.0, [], 5, marginal=0.60, tolerans=0.03))
+        self.assertIsNotNone(p.bedom(319.0, 0, 100.0, [], 5, marginal=0.60, tolerans=0.0))
+
     def test_rader_med_falsk_klient(self):
         class K:
             def graphql(self, q, v=None):

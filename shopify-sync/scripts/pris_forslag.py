@@ -39,7 +39,7 @@ def marginal_efter_moms(pris, inkop, moms=MOMS):
     return (netto - inkop) / netto
 
 
-def bedom(pris_nu, jamforpris, inkop, tags, lager, moms=MOMS, marginal=MARGINAL):
+def bedom(pris_nu, jamforpris, inkop, tags, lager, moms=MOMS, marginal=MARGINAL, golv=GOLV, tak=TAK, tolerans=0.0):
     """Returnerar en dict med förslag och flaggor för en variant, eller None om inköpspris saknas."""
     if inkop is None or inkop <= 0 or pris_nu is None or pris_nu <= 0:
         return None
@@ -53,7 +53,7 @@ def bedom(pris_nu, jamforpris, inkop, tags, lager, moms=MOMS, marginal=MARGINAL)
     hallen = False
     if nytt / moms < inkop:
         flaggor.append("UNDER_INKOP")
-    if nytt >= SMA_VAROR and m_efter is not None and (m_efter < GOLV or m_efter > TAK):
+    if nytt >= SMA_VAROR and m_efter is not None and (m_efter < golv or m_efter > tak):
         flaggor.append("MARGINAL_UTANFOR_30_50")
     if abs(andring) > MAX_ANDRING:
         hallen = True
@@ -62,6 +62,8 @@ def bedom(pris_nu, jamforpris, inkop, tags, lager, moms=MOMS, marginal=MARGINAL)
         flaggor.append("KONTROLLERA_INKOP_ELLER_FORPACKNING")
     if nytt < 0.4 * ordinarie:
         flaggor.append("NYTT_UNDER_40_PCT_AV_NUVARANDE")
+    if tolerans and m_fore is not None and abs(m_fore - marginal) <= tolerans and not rea:
+        return None  # redan nära målmarginalen: ändras inte
     prisjobb = PRISJOBB in (tags or [])
     if prisjobb:
         flaggor.append("PRISJOBBSTAGG_SKRIVS_EJ")
@@ -95,13 +97,13 @@ def hamta(klient, paus=0.4, logg=print):
         time.sleep(paus)
 
 
-def rader(klient, **kw):
+def rader(klient, marginal=MARGINAL, golv=GOLV, tak=TAK, tolerans=0.0, **kw):
     for p, v in hamta(klient, **kw):
         uc = (v.get("inventoryItem") or {}).get("unitCost")
         inkop = float(uc["amount"]) if uc and uc.get("amount") else None
         pris = float(v["price"])
         jmf = float(v["compareAtPrice"]) if v.get("compareAtPrice") else 0.0
-        b = bedom(pris, jmf, inkop, p.get("tags") or [], v.get("inventoryQuantity"))
+        b = bedom(pris, jmf, inkop, p.get("tags") or [], v.get("inventoryQuantity"), marginal=marginal, golv=golv, tak=tak, tolerans=tolerans)
         if not b or b["nytt"] == pris and not b["rea"] and not b["flaggor"]:
             continue
         if b["riktning"] == "lika" and not b["flaggor"]:
@@ -134,10 +136,14 @@ def main(argv=None):
     ap = argparse.ArgumentParser()
     ap.add_argument("--ut", required=True)
     ap.add_argument("--profil", default=None, help="butiksprofil (standard: BEST OF SPORTS)")
+    ap.add_argument("--marginal", type=float, default=MARGINAL, help="målmarginal efter moms (BOS 0.40, Workout Brands 0.60)")
+    ap.add_argument("--golv", type=float, default=GOLV)
+    ap.add_argument("--tak", type=float, default=TAK)
+    ap.add_argument("--tolerans", type=float, default=0.0, help="rör inte varianter vars marginal redan ligger inom så många procentenheter (0.03 = 3 pp)")
     a = ap.parse_args(argv)
     from shopify_api import ShopifyKlient
     klient = ShopifyKlient() if not a.profil else __import__("shopify_api").klient_fran_profil(a.profil)
-    rs = list(rader(klient))
+    rs = list(rader(klient, marginal=a.marginal, golv=a.golv, tak=a.tak, tolerans=a.tolerans))
     with open(a.ut, "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=KOLUMNER, delimiter=";")
         w.writeheader()
