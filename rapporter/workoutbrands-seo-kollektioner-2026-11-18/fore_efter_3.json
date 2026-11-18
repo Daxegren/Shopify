@@ -1,0 +1,64 @@
+{
+ "beskrivning": "2026-11-18. (a) SEO-fält på tre kollektioner (före/efter). (b) Regeländring på hoodie-man. Ångra: sätt tillbaka före-värdena.",
+ "seo": [
+  {
+   "id": "416096977110",
+   "handle": "kepsar",
+   "fore": {
+    "title": "Kepsar för Träning och Vardag - Snabb leverans",
+    "description": "Upptäck kepsar från Flexfit, Brandit och Urban Classics som kombinerar passform, komfort och stil för både träning och vardag. Stort sortiment."
+   },
+   "efter": {
+    "title": "Kepsar och träningskeps – Flexfit, Brandit m.fl.",
+    "description": "Köp kepsar och träningskepsar hos Workout Brands: snapback, trucker och fitted från Flexfit, Brandit och Urban Classics. Se hela sortimentet och beställ online."
+   }
+  },
+  {
+   "id": "636896477512",
+   "handle": "linne-herr",
+   "fore": {
+    "title": "Linnen & Tanktops | Herr – Bekväma & Trendiga ",
+    "description": "Linnen & tanktops | Herr | Bekväma och trendiga plagg från kända varumärken | Perfekta för träning, vardag och fritid i alla storlekar"
+   },
+   "efter": {
+    "title": "Gymlinne och tanktops för herr",
+    "description": "Köp gymlinne och tanktops för herr hos Workout Brands: linnen för träning, vardag och fritid från kända märken i alla storlekar. Beställ online."
+   }
+  },
+  {
+   "id": "642920153416",
+   "handle": "billiga-t-shirts-herr",
+   "fore": {
+    "title": null,
+    "description": "Letar du efter billiga t-shirts för herr som kombinerar bra kvalitet med prisvärdhet? Hos Workout Brands hittar du ett stort utbud av prisvärda t-shirts."
+   },
+   "efter": {
+    "title": "Billiga t-shirts för herr – prisvärda t-shirts",
+    "description": "(oförändrad)"
+   }
+  }
+ ],
+ "regelandring": {
+  "id": "416096944342",
+  "handle": "hoodie-man",
+  "antal_produkter_fore": 2,
+  "fore": {
+   "kalla": "gid://shopify/CollectionConditionsSource/10563191112",
+   "tagg_villkor": "gid://shopify/CollectionSourceInclusionConditionProductTag/5728272712",
+   "matchType": "ALL",
+   "relation": "TAGGED_WITH",
+   "values": [
+    "Men",
+    "träningshoodie"
+   ],
+   "ovrigt": "villkor för variantlager (oförändrat)"
+  },
+  "efter": {
+   "values": [
+    "Hoodie",
+    "men"
+   ]
+  },
+  "forvantat_antal": "cirka 597 aktiva produkter med taggarna Hoodie och men (före lagerkravet)"
+ }
+}
