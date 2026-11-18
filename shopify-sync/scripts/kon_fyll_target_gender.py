@@ -1,0 +1,174 @@
+#!/usr/bin/env python3
+"""Fyller produktfältet shopify.target-gender ("Avsett för") från en godkänd mappningsfil. Torrkörning som standard.
+
+Skriver bara det fältet. Rör inte priser, taggar, texter eller status. Hoppar över produkter som redan har ett annat
+värde i fältet (om inte --overskriv), icke-aktiva produkter och produkter som inte finns. Före-fil sparas, varje grupp
+läses tillbaka och körningen stoppar vid första avvikelse. Kan köras om: redan rätt värde hoppas över.
+
+Miljövariabler (skrivs i terminalen, aldrig i chatten): SHOPIFY_CLIENT_ID_WB, SHOPIFY_CLIENT_SECRET_WB
+  python3 kon_fyll_target_gender.py --csv kon_mapping.csv                      (torrkörning)
+  python3 kon_fyll_target_gender.py --csv kon_mapping.csv --skriv --max 10 --fore-fil fore_kon.json   (kanariefall)
+  python3 kon_fyll_target_gender.py --csv kon_mapping.csv --skriv --fore-fil fore_kon.json            (resten)
+"""
+import argparse, csv, json, os, sys, time, urllib.parse, urllib.request, urllib.error
+
+BUTIK = "doyou-se.myshopify.com"
+API = os.environ.get("SHOPIFY_API_VERSION", "2026-07")
+VARDEN = {  # klass i mappningsfilen -> metaobjekt (Avsett för)
+    "dam": ["gid://shopify/Metaobject/115133645128"],
+    "herr": ["gid://shopify/Metaobject/115381502280"],
+    "unisex": ["gid://shopify/Metaobject/115213959496"],
+    "dam+herr": ["gid://shopify/Metaobject/115133645128", "gid://shopify/Metaobject/115381502280"],
+}
+LASA = '''query($ids:[ID!]!){nodes(ids:$ids){... on Product{id status tg:metafield(namespace:"shopify",key:"target-gender"){value}}}}'''
+SKRIV = '''mutation($m:[MetafieldsSetInput!]!){metafieldsSet(metafields:$m){metafields{ownerId} userErrors{field message code}}}'''
+
+
+class Stopp(Exception):
+    pass
+
+
+class Klient:
+    def __init__(self, transport=None, sleep=time.sleep):
+        self.t = transport or self._http
+        self.sleep = sleep
+        self.token = None
+
+    @staticmethod
+    def _http(url, headers, body):
+        req = urllib.request.Request(url, data=body, headers=headers)
+        try:
+            with urllib.request.urlopen(req, timeout=60) as r:
+                return r.status, r.read().decode("utf-8")
+        except urllib.error.HTTPError as e:
+            return e.code, e.read().decode("utf-8", "replace")
+
+    def hamta_token(self):
+        cid, sec = os.environ.get("SHOPIFY_CLIENT_ID_WB"), os.environ.get("SHOPIFY_CLIENT_SECRET_WB")
+        if not cid or not sec:
+            raise Stopp("SHOPIFY_CLIENT_ID_WB och SHOPIFY_CLIENT_SECRET_WB måste vara satta i terminalen")
+        body = urllib.parse.urlencode({"grant_type": "client_credentials", "client_id": cid, "client_secret": sec}).encode()
+        st, txt = self.t(f"https://{BUTIK}/admin/oauth/access_token", {"Content-Type": "application/x-www-form-urlencoded"}, body)
+        if st != 200 or "access_token" not in txt:
+            raise Stopp(f"Token misslyckades: HTTP {st} {txt[:150]}")
+        self.token = json.loads(txt)["access_token"]
+
+    def graphql(self, q, v=None):
+        if self.token is None:
+            self.hamta_token()
+        body = json.dumps({"query": q, "variables": v or {}}).encode()
+        for forsok in range(1, 7):
+            st, txt = self.t(f"https://{BUTIK}/admin/api/{API}/graphql.json",
+                             {"Content-Type": "application/json", "X-Shopify-Access-Token": self.token}, body)
+            if st == 401 and forsok == 1:
+                self.token = None; self.hamta_token(); continue
+            if st == 429 or st >= 500:
+                self.sleep(min(2 ** forsok, 30)); continue
+            if st != 200:
+                raise Stopp(f"HTTP {st}: {txt[:200]}")
+            d = json.loads(txt)
+            if d.get("errors"):
+                if any((e.get("extensions") or {}).get("code") == "THROTTLED" for e in d["errors"] if isinstance(e, dict)):
+                    self.sleep(min(2 ** forsok, 30)); continue
+                raise Stopp("GraphQL-fel: " + json.dumps(d["errors"], ensure_ascii=False)[:300])
+            return d["data"]
+        raise Stopp("Gav upp efter 6 försök")
+
+
+def lasa_mappning(sokvag):
+    ut = {}
+    for r in csv.DictReader(open(sokvag, encoding="utf-8"), delimiter=";"):
+        v = (r.get("varden") or "").strip().lower()
+        if v not in VARDEN:
+            raise Stopp(f"okänt värde '{v}' för produkt {r.get('produkt_id')}")
+        ut[int(r["produkt_id"])] = v
+    return ut
+
+
+def gid(i):
+    return f"gid://shopify/Product/{i}"
+
+
+def onskat(v):
+    return sorted(VARDEN[v])
+
+
+def tolka(varde):
+    if not varde:
+        return None
+    try:
+        return sorted(json.loads(varde))
+    except Exception:
+        return ["?"]
+
+
+def planera(klient, mapp, overskriv=False, logg=print):
+    ids = list(mapp)
+    skriv, hoppa = [], {"redan_ratt": 0, "annat_varde": 0, "ej_aktiv_eller_saknas": 0}
+    fore = []
+    for k in range(0, len(ids), 50):
+        d = klient.graphql(LASA, {"ids": [gid(i) for i in ids[k:k + 50]]})["nodes"]
+        for i, n in zip(ids[k:k + 50], d):
+            if not n or n.get("status") != "ACTIVE":
+                hoppa["ej_aktiv_eller_saknas"] += 1; continue
+            nu = tolka((n.get("tg") or {}).get("value"))
+            if nu == onskat(mapp[i]):
+                hoppa["redan_ratt"] += 1; continue
+            if nu is not None and not overskriv:
+                hoppa["annat_varde"] += 1; continue
+            skriv.append(i); fore.append({"produkt_id": i, "tidigare": nu})
+        if (k // 50) % 20 == 0:
+            logg(f"läst {min(k + 50, len(ids))} av {len(ids)}")
+    return skriv, hoppa, fore
+
+
+def skriv_grupp(klient, grupp, mapp):
+    m = [{"ownerId": gid(i), "namespace": "shopify", "key": "target-gender", "type": "list.metaobject_reference",
+          "value": json.dumps(VARDEN[mapp[i]])} for i in grupp]
+    d = klient.graphql(SKRIV, {"m": m})["metafieldsSet"]
+    if d["userErrors"]:
+        raise Stopp(f"userErrors: {d['userErrors'][:3]}")
+    r = klient.graphql(LASA, {"ids": [gid(i) for i in grupp]})["nodes"]
+    for i, n in zip(grupp, r):
+        if tolka((n.get("tg") or {}).get("value")) != onskat(mapp[i]):
+            raise Stopp(f"återläsning avviker för produkt {i}: {(n.get('tg') or {}).get('value')}")
+
+
+def kor(klient, mapp, skriv=False, max_n=0, fore_fil=None, overskriv=False, logg=print):
+    att, hoppa, fore = planera(klient, mapp, overskriv, logg)
+    logg(f"att skriva: {len(att)}; hoppas över: {hoppa}")
+    if not skriv:
+        return {"skrivna": 0, "att_skriva": len(att), "hoppa": hoppa}
+    if not fore_fil:
+        raise Stopp("--fore-fil krävs vid skrivning")
+    if max_n:
+        att = att[:max_n]; fore = fore[:max_n]
+    with open(fore_fil, "w", encoding="utf-8") as f:
+        json.dump(fore, f)
+    n = 0
+    for k in range(0, len(att), 25):
+        skriv_grupp(klient, att[k:k + 25], mapp)
+        n += len(att[k:k + 25])
+        if (k // 25) % 10 == 0:
+            logg(f"skrivit {n} av {len(att)}")
+        klient.sleep(0.4)
+    logg(f"klart: {n} skrivna och återlästa")
+    return {"skrivna": n, "att_skriva": len(att), "hoppa": hoppa}
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--csv", required=True)
+    ap.add_argument("--skriv", action="store_true")
+    ap.add_argument("--max", type=int, default=0)
+    ap.add_argument("--fore-fil")
+    ap.add_argument("--overskriv", action="store_true")
+    a = ap.parse_args()
+    try:
+        kor(Klient(), lasa_mappning(a.csv), a.skriv, a.max, a.fore_fil, a.overskriv)
+    except Stopp as e:
+        print("STOPP:", e); sys.exit(2)
+
+
+if __name__ == "__main__":
+    main()
