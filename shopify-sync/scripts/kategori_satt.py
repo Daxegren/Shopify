@@ -72,6 +72,20 @@ def forslag(klient, inn, ut):
     return rader
 
 
+def godkann(inn, ut, grupper):
+    """Sätter godkand=ja på rader i angivna grupper (exakt gruppnamn). Övriga rader lämnas som de är."""
+    with open(inn, encoding="utf-8") as f:
+        rader = list(csv.DictReader(f, delimiter=";"))
+    n = 0
+    for r in rader:
+        if r["grupp"] in grupper and r.get("kategori_id"):
+            r["godkand"] = "ja"; n += 1
+    with open(ut, "w", encoding="utf-8", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=list(rader[0]), delimiter=";")
+        w.writeheader(); w.writerows(rader)
+    return n
+
+
 def skriv(klient, godkand, fore_fil, max_n=None, kor=False, logg=print):
     rader = [r for r in csv.DictReader(open(godkand, encoding="utf-8"), delimiter=";")
              if r.get("godkand", "").strip().lower() == "ja" and r.get("kategori_id")]
@@ -102,6 +116,7 @@ def skriv(klient, godkand, fore_fil, max_n=None, kor=False, logg=print):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--forslag", nargs=2, metavar=("IN", "UT"))
+    ap.add_argument("--godkann", nargs=3, metavar=("IN", "UT", "GRUPPER"), help="GRUPPER kommaseparerade, t.ex. kläder,keps")
     ap.add_argument("--skriv", metavar="GODKAND")
     ap.add_argument("--kor", action="store_true", help="skriv på riktigt (annars torrkörning)")
     ap.add_argument("--max", type=int)
@@ -113,6 +128,8 @@ def main():
             r = forslag(k, *a.forslag)
             from collections import Counter
             print(Counter(x["grupp"] for x in r))
+        elif a.godkann:
+            print(godkann(a.godkann[0], a.godkann[1], set(a.godkann[2].split(","))), "rader godkända")
         elif a.skriv:
             print(skriv(k, a.skriv, a.fore_fil, a.max, a.kor))
         else:

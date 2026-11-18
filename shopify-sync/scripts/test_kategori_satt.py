@@ -37,6 +37,14 @@ class T(unittest.TestCase):
         self.assertEqual(list(k.cat), ["gid://shopify/Product/1"])
         self.assertEqual(K.skriv(k, p, os.path.join(d, "f.json"), kor=True), (1, 0))
 
+    def test_godkann_grupper(self):
+        d = tempfile.mkdtemp(); i = os.path.join(d, "i.csv"); o = os.path.join(d, "o.csv")
+        with open(i, "w", encoding="utf-8") as f:
+            f.write("produkt_id;grupp;kategori_id;godkand\n1;kläder;X;\n2;byte-kläder;X;\n3;keps;;\n4;keps;Y;\n")
+        self.assertEqual(K.godkann(i, o, {"kläder", "keps"}), 2)
+        r = list(csv.DictReader(open(o, encoding="utf-8"), delimiter=";"))
+        self.assertEqual([x["godkand"] for x in r], ["ja", "", "", "ja"])
+
     def test_torrkorning_skriver_inget(self):
         d = tempfile.mkdtemp(); p = os.path.join(d, "g.csv")
         open(p, "w", encoding="utf-8").write("produkt_id;kategori_id;godkand\n1;gid://shopify/TaxonomyCategory/aa;ja\n")
