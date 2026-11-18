@@ -320,3 +320,7 @@ Appen Velomarket3 arkiverade 2026-11-06 kl. 03:22–03:23 ett femtiotal produkte
 - **Vad hände:** `orders(query:"billing_address.country_code:SE")` och `shipping_address.country_code:DK` returnerade samma senaste order oavsett land (ogiltiga filter ignoreras utan fel). Rätt land hittades först genom att läsa 100 ordrar och gruppera på `shippingAddress.countryCodeV2` i efterhand.
 - **Regel:** kontrollera att ett filter faktiskt begränsar (ordernummer eller land i svaret) innan resultatet används; gruppera annars på klientsidan.
 
+
+### 2026-11-18: Kopierad chattgränssnitts-HTML i beskrivningar
+- **Vad som hände:** en läsande räkning visade stark rest av chattgränssnitts-HTML (`data-start`, `data-end`, `data-is-last-node` med flera) i 2 904 av 7 371 aktiva produkter, 470 av 674 kollektioner, 71 av 144 bloggartiklar och 8 av 85 sidor, ofta även i de översatta texterna.
+- **Regel:** kontrollera varje ny eller omskriven text mot dessa mönster före skrivning. Klistra inte in text direkt från ett chattgränssnitt utan att rensa attributen. Översätt inte från en källtext som innehåller dem, eftersom resterna följer med. Skriptet `shopify-sync/scripts/chatt_html_rester.py` räknar mönstren.
