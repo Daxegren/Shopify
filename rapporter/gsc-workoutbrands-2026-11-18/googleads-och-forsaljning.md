@@ -24,3 +24,9 @@ Källor: Davids exporter ur Google Ads (konto Workout Brands: konto, kampanjer, 
 
 ## Saknas
 Konverteringar, konverteringsvärde, ROAS och land per kampanj ur Google Ads; om annonseringen pausades avsiktligt omkring 2026-11-10.
+
+## Tillägg 2026-11-18: konverteringsvärde ur Google Ads
+Källa: Davids export "Conv. value" per dag, 2026-07-21 till 2026-11-17 (120 dagar).
+**Fakta.** Summa konverteringsvärde 94 725,01 kr (jul från 21:a 6 424, aug 27 047, sep 21 537, okt 29 498, nov 1–9 10 219). 24 av 120 dagar har värde 0, alla dagar från 10 november (annonserna pausade). Annonskostnad samma period 68 769,92 kr, alltså Googles egen ROAS cirka 1,38.
+**Jämförelse.** Googles konverteringsvärde (94 725 kr) motsvarar 76 % av Shopifys bruttoförsäljning (124 160 kr) och är 105 % av nettoförsäljningen (89 961 kr) för alla kanaler. Google tillskriver sig alltså nästan all försäljning i butiken; det går inte att läsa ut hur mycket som hade skett utan annonser.
+**Bedömning (marginalräkning, ej bokföring).** Om konverteringsvärdet är inklusive 25 % moms blir intäkten före moms 75 780 kr och ROAS 1,10; om det är före moms 94 725 kr och ROAS 1,38. Bruttovinst vid 50–60 % marginal blir 37 900–45 500 kr respektive 47 400–56 800 kr, mot en annonskostnad på 68 770 kr: ett underskott på cirka 12 000–31 000 kr under perioden, även om Googles egen tillskrivning är helt korrekt. Frakt, returer, betalavgifter och momsfrågan är inte inräknade.
