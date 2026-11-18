@@ -1,0 +1,11 @@
+{
+  "butik": "workoutbrands.com",
+  "beskrivning": "Spärrlista för WORKOUT BRANDS enligt mallen sparrlista.json. Fas 1: inga produkt-id-filer finns än (kräver inventering via Shopify-verktyget). Posterna nedan är FÖRSLAG och aktiv=false tills David beslutat.",
+  "sparrar": [
+    {"namn": "out-of-stock-kategori", "aktiv": false, "idfil": "TODO", "idkolumn": "produkt_id", "skal": "Produkter med produkttyp eller vendor 'Out of stock' (34 resp. 36 i offentlig data).", "beslut": "Väntar på David"},
+    {"namn": "outlet", "aktiv": false, "idfil": "TODO", "idkolumn": "produkt_id", "skal": "Vendor 'outlet' (18) och tagg 'outlet' (83).", "beslut": "Väntar på David"},
+    {"namn": "barn", "aktiv": false, "idfil": "TODO", "idkolumn": "produkt_id", "skal": "MT Kids och Urban Classics Kids (293 enligt vendor).", "beslut": "Väntar på David (R6)"},
+    {"namn": "titel-med-enskild-variant", "aktiv": false, "idfil": "TODO", "idkolumn": "produkt_id", "skal": "127 titlar slutar på storlek (t.ex. 'UC Shaped Long Tee NAVY XL' med varianten Black/XS), R3.", "beslut": "Väntar på David"},
+    {"namn": "dubbletter", "aktiv": false, "idfil": "TODO", "idkolumn": "produkt_id", "skal": "145 titlar förekommer flera gånger (311 produkter), R12a.", "beslut": "Väntar på David"}
+  ]
+}

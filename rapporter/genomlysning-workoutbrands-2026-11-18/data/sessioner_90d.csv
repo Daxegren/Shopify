@@ -1,0 +1,18 @@
+dimension,varde,sessioner,konvertering
+land,United States,120967,0.0
+land,Brazil,17955,0.0
+land,Sweden,17316,0.01317
+land,United Kingdom,10001,0.0
+land,Colombia,8777,0.0
+land,China,7658,0.0
+land,Ecuador,5804,0.0
+land,Mexico,4273,0.0
+land,Venezuela,4245,0.0
+enhet,desktop,225448,9.31e-05
+enhet,mobile,24731,0.00853
+enhet,tablet,359,0.00836
+kalla,direct,220533,0.000354
+kalla,search,22274,0.005387
+kalla,social,5802,0.006032
+kalla,email,10,0.0
+kalla,paid,4,0.0

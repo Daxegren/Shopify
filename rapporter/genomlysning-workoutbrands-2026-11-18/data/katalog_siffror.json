@@ -1,0 +1,533 @@
+{
+ "produkter_analyserade": 7371,
+ "vendor_topp": [
+  [
+   "UC Ladies",
+   1207
+  ],
+  [
+   "MT Men",
+   931
+  ],
+  [
+   "UC Men",
+   905
+  ],
+  [
+   "Urban Classics Accessoires",
+   485
+  ],
+  [
+   "Brandit",
+   385
+  ],
+  [
+   "MT Upscale",
+   366
+  ],
+  [
+   "Flexfit",
+   286
+  ],
+  [
+   "Miss Tee",
+   275
+  ],
+  [
+   "Merchcode",
+   231
+  ],
+  [
+   "Build your Brand",
+   208
+  ],
+  [
+   "DEF",
+   191
+  ],
+  [
+   "Urban Classics Kids",
+   157
+  ],
+  [
+   "MT Kids",
+   154
+  ],
+  [
+   "MT Accessoires",
+   129
+  ],
+  [
+   "MJ GONZALES",
+   128
+  ],
+  [
+   "Starter Black Label",
+   121
+  ],
+  [
+   "Dangerous DNGRS",
+   104
+  ],
+  [
+   "Ecko Unltd.",
+   101
+  ],
+  [
+   "Rocawear",
+   87
+  ],
+  [
+   "Just Rhyse",
+   83
+  ],
+  [
+   "Lost Youth",
+   74
+  ],
+  [
+   "MT Ladies",
+   73
+  ],
+  [
+   "Merchcode Ladies",
+   69
+  ],
+  [
+   "CS",
+   66
+  ],
+  [
+   "MT X Artist",
+   56
+  ],
+  [
+   "Zoo York",
+   55
+  ],
+  [
+   "Urban Classics",
+   42
+  ],
+  [
+   "MSTRDS",
+   39
+  ],
+  [
+   "Out of stock",
+   36
+  ],
+  [
+   "New Morning Studios",
+   31
+  ],
+  [
+   "Forvert",
+   29
+  ],
+  [
+   "Thug Life",
+   27
+  ],
+  [
+   "Cloud5ive",
+   25
+  ],
+  [
+   "Southpole",
+   25
+  ],
+  [
+   "9N1M SENSE",
+   24
+  ],
+  [
+   "Forgotten Faces",
+   19
+  ],
+  [
+   "workoutbrands.com",
+   18
+  ],
+  [
+   "outlet",
+   18
+  ],
+  [
+   "Mister Tee",
+   15
+  ],
+  [
+   "Merchcode Accessoires",
+   14
+  ]
+ ],
+ "vendor_antal": 54,
+ "typ_topp": [
+  [
+   "T-shirt",
+   2223
+  ],
+  [
+   "Hoodie",
+   917
+  ],
+  [
+   "Jacka",
+   497
+  ],
+  [
+   "Keps",
+   413
+  ],
+  [
+   "Långärmad tröja",
+   324
+  ],
+  [
+   "Byxor",
+   249
+  ],
+  [
+   "Shorts",
+   245
+  ],
+  [
+   "Mjukisbyxor",
+   178
+  ],
+  [
+   "Skjorta",
+   148
+  ],
+  [
+   "Topp",
+   137
+  ],
+  [
+   "Linne",
+   134
+  ],
+  [
+   "Jeans",
+   120
+  ],
+  [
+   "Tights",
+   117
+  ],
+  [
+   "Solglasögon",
+   111
+  ],
+  [
+   "Klänning",
+   110
+  ],
+  [
+   "Mössa",
+   90
+  ],
+  [
+   "Stickad tröja",
+   89
+  ],
+  [
+   "Strumpor",
+   87
+  ],
+  [
+   "Tillbehör",
+   86
+  ],
+  [
+   "Väska",
+   82
+  ],
+  [
+   "(tom)",
+   80
+  ],
+  [
+   "Bälte",
+   80
+  ],
+  [
+   "Halsband",
+   79
+  ],
+  [
+   "Väst",
+   61
+  ],
+  [
+   "Hatt",
+   48
+  ],
+  [
+   "Ryggsäck",
+   48
+  ],
+  [
+   "Underkläder",
+   35
+  ],
+  [
+   "Out of stock",
+   34
+  ],
+  [
+   "Badbyxor",
+   34
+  ],
+  [
+   "Armband",
+   33
+  ]
+ ],
+ "typ_antal": 101,
+ "typ_tom": 80,
+ "tagg_antal": 447,
+ "tagg_topp": [
+  [
+   "urban classics",
+   6965
+  ],
+  [
+   "in sheet",
+   5315
+  ],
+  [
+   "svart",
+   5072
+  ],
+  [
+   "men",
+   4285
+  ],
+  [
+   "Plus Size",
+   3813
+  ],
+  [
+   "Man",
+   3515
+  ],
+  [
+   "Herr",
+   2953
+  ],
+  [
+   "Women",
+   2921
+  ],
+  [
+   "BF26",
+   2897
+  ],
+  [
+   "price-change-job-active",
+   2897
+  ],
+  [
+   "lifestyle",
+   2787
+  ],
+  [
+   "skjorta",
+   2421
+  ],
+  [
+   "vit",
+   2350
+  ],
+  [
+   "woman",
+   2287
+  ],
+  [
+   "Dam",
+   2248
+  ],
+  [
+   "tee",
+   1998
+  ],
+  [
+   "t shirt tryck",
+   1895
+  ],
+  [
+   "t-shirt",
+   1420
+  ],
+  [
+   "grå",
+   1395
+  ],
+  [
+   "blå",
+   1300
+  ],
+  [
+   "grön",
+   1289
+  ],
+  [
+   "beige",
+   1178
+  ],
+  [
+   "MISTER TEE",
+   998
+  ],
+  [
+   "t shirt",
+   932
+  ],
+  [
+   "MT Men",
+   931
+  ],
+  [
+   "oversized",
+   925
+  ],
+  [
+   "Huvtröja",
+   848
+  ],
+  [
+   "Hoodie",
+   836
+  ],
+  [
+   "Hoodies",
+   832
+  ],
+  [
+   "TILLBEHÖR",
+   689
+  ],
+  [
+   "JACKA",
+   585
+  ],
+  [
+   "hoodie tryck",
+   579
+  ],
+  [
+   "byxor",
+   577
+  ],
+  [
+   "Kvinna",
+   561
+  ],
+  [
+   "Tjej",
+   515
+  ],
+  [
+   "röd",
+   485
+  ],
+  [
+   "Kille",
+   475
+  ],
+  [
+   "långärmad tröja",
+   454
+  ],
+  [
+   "keps",
+   431
+  ],
+  [
+   "pants",
+   430
+  ]
+ ],
+ "tagg_pris_kampanj_import": [
+  [
+   "in sheet",
+   5315
+  ],
+  [
+   "BF26",
+   2897
+  ],
+  [
+   "price-change-job-active",
+   2897
+  ],
+  [
+   "outlet",
+   89
+  ],
+  [
+   "STARTER BLACK LABEL",
+   38
+  ],
+  [
+   "Sale",
+   29
+  ],
+  [
+   "WOB",
+   12
+  ]
+ ],
+ "tagg_skiftlagesdubbletter": 17,
+ "seo_titel_saknas": 6988,
+ "seo_meta_saknas": 3059,
+ "seo_titel_over_70": 0,
+ "seo_meta_under_70": 28,
+ "seo_meta_over_155": 352,
+ "seo_meta_median_tecken": 125.0,
+ "seo_titel_slutar_med_suffix": 338,
+ "titel_over_70": 1,
+ "dubbletitlar_grupper": 171,
+ "dubbletitlar_produkter": 366,
+ "titel_slutar_pa_storlek": 97,
+ "varianter_i_urval(första 5/produkt)": 33008,
+ "varianter_med_inkopspris": 32906,
+ "varianter_utan_inkopspris": 101,
+ "marginal_efter_moms": {
+  "median": 0.607,
+  "q1": 0.569,
+  "q3": 0.946,
+  "p10": 0.564,
+  "p90": 0.956,
+  "under_inkop": 141,
+  "over_60pct": 21814,
+  "under_20pct": 159,
+  "mellan_30_50": 417
+ },
+ "jamforpris_hogre_an_pris(rea)": 14619,
+ "jamforpris_lika_med_pris(falskt)": 13008,
+ "rea_djup_median": 0.099,
+ "jamforpris_lika_med_pris_per_vendor": null,
+ "totalInventory_0": 2081,
+ "totalInventory_median": 67,
+ "varianter_per_produkt_median": 9,
+ "bilder_0": 3,
+ "text_tom": 16,
+ "text_under_30_ord": 8,
+ "text_ord_median": 91,
+ "text_ord_q1_q3": [
+  75,
+  111
+ ],
+ "text_mest_engelsk": 61,
+ "text_blandad_sv_en": 39,
+ "text_faq_eller_vanliga_fragor": 0,
+ "text_om_market": 2,
+ "text_med_ampersand_i_html": 22,
+ "text_html_obalanserad": 2,
+ "text_cirkular_inledning(heur)": 322,
+ "text_identisk_inledning_grupper": 56,
+ "text_identisk_inledning_produkter": 128
+}

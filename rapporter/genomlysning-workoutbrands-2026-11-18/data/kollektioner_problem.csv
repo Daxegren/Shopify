@@ -1,0 +1,147 @@
+id,handle,titel,produkter,kanaler,seo_titel_saknas,seo_meta_saknas,beskrivning_saknas,problem
+414829707478,home-start-collection,colection 2,0,6,1,1,1,tom
+414830067926,collection-1,Collection 1,0,6,1,1,1,tom;handle med suffix
+414830231766,collection-3,collection 3,0,6,1,1,1,tom;handle med suffix
+416096780502,tights-man,"Träningstights för Herrar: Stil, Funktion och Komfort",2,6,1,1,0,1-4 produkter
+416096911574,hoodie-kvinna,"Träningshoodie för Damer: Stil, Komfort och Funktion",1,6,1,1,0,1-4 produkter
+416096944342,hoodie-man,"Träningshoodie för Herrar: Stil, Komfort och Funktion",2,6,0,0,0,1-4 produkter
+416097534166,traningsskor-kvinna,Träningsskor - Kvinna,0,6,1,1,0,tom
+416097566934,traningssko,Träningsskor,0,6,1,1,0,tom
+416152846550,sneakers,Sneakers,0,6,1,1,0,tom
+416152879318,sneakers-kvinna,Sneakers - Kvinna,0,6,1,1,0,tom
+416153010390,loparskor-kvinna,Löparskor - Kvinna,1,6,1,1,0,1-4 produkter
+416153043158,loparskor,Löparskor,1,6,1,1,0,1-4 produkter
+416153141462,bastsaljare-skor-kvinna,Bästsäljare Skor - Kvinna,0,6,1,1,0,tom
+416153206998,bastsaljare-skor-man,Bästsäljare Skor - Man,0,6,1,1,0,tom
+416153501910,hovr-kvinna,Hovr - Kvinna,0,6,1,1,0,tom
+416153534678,hovr-man,Hovr - Man,0,6,1,1,0,tom
+597896888648,svettband-kvinna,"SVETTBAND FÖR KVINNOR: STIL, KOMFORT OCH PRESTANDA",3,6,1,1,0,1-4 produkter
+597896921416,svettband-man,"SVETTBAND FÖR MÄN: STIL, KOMFORT OCH PRESTANDA",3,6,1,1,0,1-4 produkter
+599548068168,handskar-man,Handskar,17,6,1,1,0,dubblettitel
+600143298888,coldgear-kvinna,ColdGear - Kvinna,0,6,1,1,0,tom
+600143331656,coldgear-man,ColdGear - Man,0,6,1,1,0,tom
+601702924616,workout-brands-kvinna-all,Workout Brands - Kvinna,4796,6,1,1,0,dubblettitel
+609674527048,cln-athletics-man,CLN Athletics - Man,1,6,1,1,0,1-4 produkter
+609674920264,cln-athletics-kvinna,CLN Athletics - Kvinna,2,6,1,1,0,1-4 produkter
+612048765256,cln-athletics-kvinna-man,CLN Athletics Träningskläder - Kvinna & Man,2,6,1,1,0,1-4 produkter
+616549024072,cln-tights,CLN Athletics Tights,3,6,1,1,0,1-4 produkter
+616549155144,under-armour-tights,Under Armour Tights,3,6,1,1,0,1-4 produkter
+616549384520,under-armour-tights-kvinna,Under Armour Tights - Kvinna,1,6,1,1,0,1-4 produkter
+616549417288,under-armour-tights-man,Under Armour Tights - Man,1,6,1,1,0,1-4 produkter
+616549450056,cln-athletics-tights-kvinna,CLN Athletics Tights - Kvinna,2,6,1,1,0,1-4 produkter
+616549482824,cln-athletics-tights-man,CLN Athletics Tights - Man,1,6,1,1,0,1-4 produkter
+616861237576,traningsset-top-and-bottom,Träningsset - Top and Bottom,3,6,1,1,0,1-4 produkter
+618430071112,workout-brands-kvinna-1,Workout Brands - Kvinna,8,6,1,1,1,handle med suffix;dubblettitel
+618430103880,workout-brands-man-1,Workout Brands - Man,12,6,1,1,1,handle med suffix
+618641686856,relode,Relode,3,6,1,1,0,1-4 produkter
+620355944776,gavelo-man-alla-produkter,ALLA GAVELO PRODUKTER: HERRAR,1,6,1,1,0,1-4 produkter
+620356043080,gavelo-alla-produkter,Gavelo - Kvinna & Man,0,6,1,1,0,tom
+621962690888,cargo-tights,GAVELO CARGO TIGHTS,1,6,1,1,0,1-4 produkter
+621964362056,seamless-tights,SEAMLESS TIGHTS,0,6,1,1,0,tom
+625348968776,db-journey,Db Journey,0,6,1,1,0,tom
+626908234056,vattenflaska-1,Vattenflaska,2,6,1,1,0,1-4 produkter;handle med suffix
+627552878920,resvaska,Resväska - För den aktiva resenären,0,6,1,1,0,tom
+627553927496,kompressionstights,Kompressionstights - Kvinna,2,6,0,0,0,1-4 produkter
+633096733000,hypr,HYPR,4,6,1,1,0,1-4 produkter
+633096831304,hypr-energy-drink,HYPR Energy Drink,1,6,1,1,0,1-4 produkter
+633096864072,hypr-klader,HYPR Kläder,4,6,1,1,0,1-4 produkter
+633232687432,byou-seamless-hipster-thong,BYOU - Seamless Hipster & Thong,3,6,1,1,0,1-4 produkter
+634902905160,pullover-herrar,Pullover - Herrar,0,6,1,1,1,tom
+634902937928,pullover-damer,Pullover - Damer,0,6,1,1,1,tom
+634903822664,smycken,Smycken - radera,0,6,1,1,1,tom
+635317944648,test,test,0,6,1,1,1,tom;dubblettitel;test/kopia
+635864973640,nyheter-nya-produkter,Nyheter - Nya Produkter,14,0,1,1,0,ej publicerad i alla kanaler
+636073279816,storleksguide-astani-ampario-oversize-t-shirt,Storleksguide - Astani - Ampario Oversize T-shirt,0,6,1,1,1,tom
+636427174216,svettband-for-dig-stil-komfort-och-prestanda,"SVETTBAND FÖR DIG: STIL, KOMFORT OCH PRESTANDA",0,6,1,1,0,tom
+636823175496,lader-keps,Läder Keps - Konstläder,3,6,1,1,0,1-4 produkter
+636824224072,hoodie-med-dragkedja-kvinna,Hoodie Med Dragkedja - Kvinna,4,6,1,1,0,1-4 produkter
+636826419528,vindjacka-kvinna,Vindjacka - Kvinna,0,6,1,1,0,tom
+636869804360,byxor-dam-1,Byxor - Dam,129,6,1,1,0,handle med suffix
+636927410504,urban-classics-1,Urban Classics,14756,0,1,1,1,handle med suffix;ej publicerad i alla kanaler
+637179003208,tapered-fit-jeans-kvinna,Tapered Fit Jeans - Kvinna,2,6,1,1,0,1-4 produkter
+637205381448,jeansshorts-kvinna,Jeansshorts - Kvinna,3,6,1,1,0,1-4 produkter
+637356278088,kappa-herr,Kappa - Herr,3,6,1,1,0,1-4 produkter
+637359161672,kappa-kvinna,Kappa - Kvinna,4,6,1,1,0,1-4 produkter
+637359817032,lader-konstlader-jacka-kvinna,Läder- Konstläder Jacka - Kvinna,4,6,1,1,0,1-4 produkter
+637360898376,bomberjacka-herr,test,0,6,1,1,1,tom;dubblettitel;test/kopia
+637361127752,bomberjacka-herr-1,Bomberjacka - Herr,73,6,0,0,0,handle med suffix
+637362340168,svart-troja-herr,Svart tröja - Herr,152,6,1,1,0,dubblettitel
+637724328264,klanning-dam,Klänning - Dam,0,6,1,1,1,tom;dubblettitel
+637724361032,klanning-dam-1,Klänning - Dam,1,6,1,1,1,1-4 produkter;handle med suffix;dubblettitel
+637724492104,klanning-dam-2,Klänning - Dam,143,6,1,1,0,handle med suffix;dubblettitel
+637724787016,svart-troja-herr-1,Svart Tröja - Herr,119,6,1,1,0,handle med suffix;dubblettitel
+637750116680,troja-1-4-zip-herr,test,0,6,1,1,1,tom;dubblettitel;test/kopia
+637750444360,troja-1-4-zip-herr-1,test,0,6,1,1,1,tom;handle med suffix;dubblettitel;test/kopia
+637750739272,troja-1-4-zip-herr-2,Tröja 1/4 Zip - Herr,14,6,1,1,0,handle med suffix
+637968810312,fleece-troja-herr,Fleece Tröja - Herr,19,6,1,1,0,dubblettitel
+637969236296,fleece-troja-dam,släng,0,6,1,1,1,tom
+637969269064,fleece-troja-dam-1,Fleece Tröja - Dam,5,6,1,1,0,handle med suffix;dubblettitel
+637969727816,solglasogon-herr,Solglasögon - Herr,99,6,1,1,1,dubblettitel
+637969858888,smycken-1,Smycken - Man och Kvinna,6761,6,1,1,0,handle med suffix
+638404886856,fleece-troja-herr-1,Fleece Tröja - Herr,19,6,1,1,0,handle med suffix;dubblettitel
+638405083464,fleece-troja-dam-2,Fleece Tröja - Dam,4,6,1,1,0,1-4 produkter;handle med suffix;dubblettitel
+638405771592,solglasogon-1,Solglasögon,157,6,0,0,0,handle med suffix
+638406263112,solglasogon-herr-1,Solglasögon - Herr,99,6,1,1,0,handle med suffix;dubblettitel
+638406852936,smycken-2,Smycken,117,6,1,1,0,handle med suffix
+638980358472,mstrds-man-och-kvinna,MSTRDS - Man och Kvinna,62,6,1,1,0,dubblettitel
+638981079368,southpole-herr,Southpole - Herr,0,6,1,1,0,tom
+638982816072,starter-black-label-man-och-kvinna,Starter Black Label - Man och Kvinna - radera,0,6,1,1,1,tom
+638985863496,halsduk-kvinna,Halsduk - Kvinna,21,6,1,1,0,dubblettitel
+639192203592,halsduk-kvinna-1,Halsduk - Kvinna,21,6,1,1,0,handle med suffix;dubblettitel
+639220678984,jeansjacka-herr,Jeansjacka - Herr,3,6,1,1,0,1-4 produkter
+639220941128,jeansjacka-dam,Jeansjacka - Dam,4,6,1,1,0,1-4 produkter
+639222415688,handskar,Handskar,11,6,1,1,0,dubblettitel
+639223333192,mstrds-man-och-kvinna-1,MSTRDS - Man och Kvinna,29,6,1,1,0,handle med suffix;dubblettitel
+639906414920,forvert-dam,radera,0,6,1,1,1,tom;dubblettitel;test/kopia
+639906545992,forvert-dam-1,Forvert - Dam,17,6,1,1,0,handle med suffix
+640106627400,ryggsack-1,Ryggsäck,94,6,0,0,0,handle med suffix
+640106824008,utsvangda-byxor-dam,Utsvängda Byxor - Dam,15,6,1,1,0,dubblettitel
+640298451272,linnebyxor-dam,Linnebyxor - Dam,0,6,1,1,0,tom
+640298615112,linnebyxor-herr,Linnebyxor - Herr,1,6,1,1,0,1-4 produkter
+640299073864,skinny-jeans-dam,Skinny Jeans - Dam,2,6,1,1,0,1-4 produkter
+640299237704,kavaj-herr,Kavaj - Herr,2,6,1,1,0,1-4 produkter
+640303300936,turtleneck-herr,Turtleneck - Herr,4,6,1,1,0,1-4 produkter
+641381007688,cloud5ive-dam,Cloud5ive - Dam,1,6,0,0,0,1-4 produkter
+641801683272,brandit-skjorta-dam,Brandit - Skjorta - Dam,4,6,1,0,0,1-4 produkter
+641802830152,brandit-t-shirt-dam,Brandit - T-shirt - Dam,1,6,1,0,0,1-4 produkter
+641858666824,brandit-vindjacka-dam,Brandit - Vindjacka - Dam,3,6,1,0,0,1-4 produkter
+641858797896,brandit-britannia-jacket-herr-dam,raders,0,6,1,1,1,tom
+641859158344,brandit-britannia-jacket-herr-dam-1,Brandit Britannia Jacket  - Herr & Dam,5,6,1,0,0,handle med suffix
+641859518792,brandit-cargobyxor-dam,Brandit - Cargobyxor - Dam,3,6,1,0,0,1-4 produkter
+641860305224,brandit-us-cooper-shoulder-bag,Brandit US Cooper Shoulder Bag,1,6,1,0,0,1-4 produkter
+641863549256,kamouflage-klader-herr,Kamouflage Kläder - Herr,23,6,1,0,0,dubblettitel
+641864008008,brandit-herrskjorta,radera,0,6,1,1,1,tom;dubblettitel;test/kopia
+641865122120,thug-life-hoodie-herr,Thug life - Hoodie - Herr,4,6,1,0,0,1-4 produkter
+642225242440,bekvama-klader-dam,Kläder Med Tryck - Dam,1,6,1,1,1,1-4 produkter
+642226061640,vinterklader-herr,Vinterkläder - Herr,241,6,1,0,0,dubblettitel
+642698576200,days-beyond,Days Beyond,4,6,1,0,0,1-4 produkter
+642739601736,festklader-dam,Festkläder - Dam,0,6,1,0,0,tom
+642746319176,langa-trojor-herr-dm,raderra,0,6,1,1,1,tom
+642782888264,svart-troja-herr-2,Svart Tröja - Herr,131,6,1,0,0,handle med suffix;dubblettitel
+643043950920,t-shirt-herr-dam,T-shirt - Herr & Dam,5896,6,1,1,1,dubblettitel
+643272147272,traningsshorts-herr-dam-1,Träningsshorts herr & dam,94,6,1,1,1,handle med suffix
+643865411912,gymvaska,radera,3,6,1,1,1,1-4 produkter;dubblettitel;test/kopia
+643865968968,gymvaska-1,Gymväska,27,6,0,0,0,handle med suffix
+643872162120,utsvangda-byxor-dam-1,Utsvängda Byxor - Dam,15,6,0,0,0,handle med suffix;dubblettitel
+644407165256,kamouflage-klader-herr-1,Kamouflage Kläder - Herr,69,6,1,0,0,handle med suffix;dubblettitel
+644416012616,vinterklader-herr-1,Vinterkläder - Herr,94,6,1,0,0,handle med suffix;dubblettitel
+644632576328,streetwear-nyheter-herr-dam,radera,0,6,1,1,1,tom;dubblettitel;test/kopia
+644632609096,streetwear-nyheter-herr-dam-1,Streetwear Nyheter - Herr & Dam,14950,6,1,1,0,handle med suffix
+645725946184,skor-dam,Skor - Dam,4,6,1,0,0,1-4 produkter
+646116835656,klader-med-tryck-fran-kanda-artister-filmer-stader-och-sportklubbar,"Kläder med tryck från kända artister, filmer, städer och sportklubbar",0,6,1,0,0,tom
+648036974920,glansiga-leggings,Glansiga leggings,4,6,0,0,0,1-4 produkter
+651065229640,workout-brands-black-friday-2025,Workout Brands BLACK FRIDAY 2025,14950,6,0,0,0,handle med suffix
+651087282504,present-till-honom,Present till honom,0,6,1,0,0,tom
+651088003400,present-till-henne,Present till henne,0,6,1,0,0,tom
+658043306312,trojor-dam-herr-kopia,Tröjor: Dam & Herr (kopia),402,0,1,1,1,handle med suffix;ej publicerad i alla kanaler;test/kopia
+659133628744,hoodie-herr-dam-1,Hoodie - Herr & Dam,2254,6,1,1,1,handle med suffix
+662499557704,varjacka-dam-2,VårJacka- Dam 2,10,6,1,1,1,handle med suffix
+662500245832,t-shirts-med-tryck-dam-herr-1,T-Shirts med tryck dam & herr,20,6,1,1,1,handle med suffix
+667750269256,herr-bastsaljare-60-dagar,Herr - Bästsäljare,0,6,1,1,0,tom
+670644470088,t-shirt-herr-dam-1,T-shirt - Herr & Dam,5896,6,1,1,1,handle med suffix;dubblettitel
+673410187592,essentials,"Essentials – basplagg för herr, dam och barn",349,1,0,0,0,ej publicerad i alla kanaler
+673410220360,essentials-herr,Essentials herr – basplagg för män,186,1,0,0,0,ej publicerad i alla kanaler
+673410253128,essentials-dam,Essentials dam – basplagg för kvinnor,146,1,0,0,0,ej publicerad i alla kanaler
+673410285896,essentials-barn,Essentials barn – basplagg för barn,27,1,0,0,0,ej publicerad i alla kanaler
+673946861896,flerpack-barn,Flerpack - Barn,3,6,1,1,0,1-4 produkter
+675549643080,produkter-over-500,Produkter över 500,3268,6,1,1,1,handle med suffix
