@@ -71,3 +71,18 @@ Källor: skärmbilder och täckningsexport ur Search Console (`indexering/`, fyr
 - Steget 2026-09-22 i antalet kända sidor stämmer inte med någon förändring i indexerade sidor eller visningar; det ser ut som en omräkning eller rensning av kända adresser (till exempel parameter- eller filteradresser), inte ett index som försvann.
 - 705 000 av de 872 000 oindexerade sidorna är noindex eller korrekt kanoniska alternativ (förväntat för en butik med 21 språk, filter och varianter). Intressantast för försäljning är de 146 442 genomsökta men inte indexerade sidorna (kvalitet eller dubbletter) och 1 759 serverfel.
 - De nio produkterna ur sitemap-gapet är okända för Google; det bekräftar att 362 produkter med lager i praktiken inte syns i sökmotorn.
+
+## Tillägg 2026-11-18: vad de oindexerade sidorna är (stickprov om 1 000 adresser per orsak)
+Källa: Search Console, Indexering, Sidor, export per orsak (Davids filer, sex stycken). Varje fil innehåller de första 1 000 adresserna av orsakens totala antal; procentandelar gäller alltså stickprovet, inte hela antalet. **Fakta** om stickproven, **bedömning** om slutsatser.
+
+| Orsak (sidor totalt) | Vad stickprovet visar |
+|---|---|
+| Utesluten av noindex (373 085, upp från 309 210 den 2026-08-21) | Alla 1 000 är Shopifys tekniska adresser `/web-pixels@…/sandbox/…`. |
+| Alternativ sida med korrekt kanonisk tagg (332 215) | 95 % produktadresser på många språk; 53 % har parametrarna `_pos`/`_ss`/`_fid` (söksidor och rekommendationer), 43 % `pr_prod_strat` (rekommendationsmodul). Alla genomsöktes i november. |
+| Genomsökt – inte indexerad (146 442) | Ingen exportfil mottagen än. |
+| Hittades inte, 404 (5 833, 6 592 den 2026-08-21) | 97 % produktadresser; 46 % saknar parametrar (till exempel `/products/veloce-shorts-blue`, `/it/products/a-euphoria-top-bianco-crema`) och är alltså riktiga produktadresser som inte finns längre; de flesta på andra språk än svenska (svenska 10 %). Några enstaka `/upload/…` och `/public/video/…`. |
+| Blockerad av robots.txt (3 532, 4 319 den 2026-08-21) | 971 av 1 000 är kollektionsflöden som slutar på `.atom` (till exempel `/is/collections/mossa.atom`), resten inloggnings- och kontosidor. Det är avsiktlig blockering och inget fel. 983 av 1 000 genomsöktes senast i augusti. |
+| Sida med omdirigering (1 802, 2 365 den 2026-08-21) | 91 % utan parametrar: 47 % produkter, 30 % kollektioner, 11 % sidor, 10 % bloggartiklar. Riktiga omdirigeringar, genomsökta över hela sommaren och hösten. |
+| Serverfel 5xx (1 759; 83 den 2026-08-21 och 1 838 från 2026-09-05) | 97 % franska produktadresser med `q=` och `pr_prod_strat` (rekommendationsmodulens parametrar); 999 av 1 000 genomsöktes senast i september. Antalet hoppade från 83 till 1 838 mellan 2026-09-04 och 2026-09-05. Verifiering har misslyckats. |
+
+**Bedömning.** (1) Noindex, alternativ kanonisk och robots-blockeringen är i huvudsak väntat beteende för en Shopify-butik med 21 språk och rekommendationsparametrar, och de påverkar inte intäkter. (2) 404-adresserna med rena produktadresser är riktiga döda produktsidor; en sidotäckande omdirigering till närmaste kollektion är en strukturändring och görs tidigast 2026-12-01. (3) Serverfelen på franska rekommendationsadresser började 2026-09-05 och hör till parameteradresser, inte till produktsidorna själva; orsaken är inte fastställd, men de har inte genomsökts om sedan september. Det ger inget bevis för att riktiga produktsidor felar. (4) Den intressantaste gruppen för sökbarhet är "Genomsökt – inte indexerad" (146 442), men exempel saknas.
