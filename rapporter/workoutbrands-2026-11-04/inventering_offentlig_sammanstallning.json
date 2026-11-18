@@ -1,0 +1,576 @@
+{
+ "antal": 6920,
+ "vendor": [
+  [
+   "UC Ladies",
+   1128
+  ],
+  [
+   "MT Men",
+   891
+  ],
+  [
+   "UC Men",
+   815
+  ],
+  [
+   "Urban Classics Accessoires",
+   462
+  ],
+  [
+   "Brandit",
+   371
+  ],
+  [
+   "MT Upscale",
+   359
+  ],
+  [
+   "Miss Tee",
+   269
+  ],
+  [
+   "Flexfit",
+   268
+  ],
+  [
+   "Merchcode",
+   222
+  ],
+  [
+   "Build your Brand",
+   200
+  ],
+  [
+   "DEF",
+   183
+  ],
+  [
+   "MT Kids",
+   149
+  ],
+  [
+   "Urban Classics Kids",
+   144
+  ],
+  [
+   "MJ GONZALES",
+   128
+  ],
+  [
+   "MT Accessoires",
+   123
+  ],
+  [
+   "Starter Black Label",
+   116
+  ],
+  [
+   "Dangerous DNGRS",
+   96
+  ],
+  [
+   "Ecko Unltd.",
+   83
+  ],
+  [
+   "Just Rhyse",
+   81
+  ],
+  [
+   "Rocawear",
+   79
+  ],
+  [
+   "Lost Youth",
+   73
+  ],
+  [
+   "MT Ladies",
+   68
+  ],
+  [
+   "CS",
+   63
+  ],
+  [
+   "Merchcode Ladies",
+   63
+  ],
+  [
+   "MT X Artist",
+   55
+  ],
+  [
+   "Zoo York",
+   54
+  ],
+  [
+   "MSTRDS",
+   38
+  ],
+  [
+   "Out of stock",
+   36
+  ],
+  [
+   "Forvert",
+   29
+  ],
+  [
+   "New Morning Studios",
+   28
+  ],
+  [
+   "Thug Life",
+   26
+  ],
+  [
+   "Cloud5ive",
+   23
+  ],
+  [
+   "Southpole",
+   22
+  ],
+  [
+   "9N1M SENSE",
+   21
+  ],
+  [
+   "Forgotten Faces",
+   19
+  ],
+  [
+   "outlet",
+   18
+  ],
+  [
+   "workoutbrands.com",
+   17
+  ],
+  [
+   "Merchcode Accessoires",
+   14
+  ],
+  [
+   "Wu-Wear",
+   13
+  ],
+  [
+   "Relode",
+   12
+  ]
+ ],
+ "n_vendor": 53,
+ "typ": [
+  [
+   "T-shirt",
+   2125
+  ],
+  [
+   "Hoodie",
+   877
+  ],
+  [
+   "Jacka",
+   457
+  ],
+  [
+   "Keps",
+   390
+  ],
+  [
+   "Långärmad tröja",
+   300
+  ],
+  [
+   "Byxor",
+   238
+  ],
+  [
+   "Shorts",
+   234
+  ],
+  [
+   "Mjukisbyxor",
+   165
+  ],
+  [
+   "Skjorta",
+   134
+  ],
+  [
+   "Topp",
+   126
+  ],
+  [
+   "Linne",
+   119
+  ],
+  [
+   "Jeans",
+   118
+  ],
+  [
+   "Tights",
+   115
+  ],
+  [
+   "Solglasögon",
+   106
+  ],
+  [
+   "Klänning",
+   101
+  ],
+  [
+   "Strumpor",
+   87
+  ],
+  [
+   "Mössa",
+   83
+  ],
+  [
+   "Tillbehör",
+   83
+  ],
+  [
+   "Väska",
+   79
+  ],
+  [
+   "Halsband",
+   78
+  ],
+  [
+   "Stickad tröja",
+   78
+  ],
+  [
+   "Bälte",
+   75
+  ],
+  [
+   "",
+   61
+  ],
+  [
+   "Väst",
+   54
+  ],
+  [
+   "Ryggsäck",
+   48
+  ],
+  [
+   "Hatt",
+   47
+  ],
+  [
+   "Out of stock",
+   34
+  ],
+  [
+   "Underkläder",
+   33
+  ],
+  [
+   "Armband",
+   33
+  ],
+  [
+   "Badbyxor",
+   32
+  ],
+  [
+   "Bikini",
+   31
+  ],
+  [
+   "Body",
+   30
+  ],
+  [
+   "Kjol",
+   30
+  ],
+  [
+   "Sneakers",
+   28
+  ],
+  [
+   "Mobilskal",
+   24
+  ],
+  [
+   "Kalsonger",
+   22
+  ],
+  [
+   "Jumpsuit",
+   22
+  ],
+  [
+   "Halsduk",
+   21
+  ],
+  [
+   "Skor",
+   16
+  ],
+  [
+   "Handskar",
+   16
+  ]
+ ],
+ "n_typ": 86,
+ "taggar": [
+  [
+   "urban classics",
+   6518
+  ],
+  [
+   "in sheet",
+   5155
+  ],
+  [
+   "svart",
+   4774
+  ],
+  [
+   "men",
+   4062
+  ],
+  [
+   "Plus Size",
+   3614
+  ],
+  [
+   "Man",
+   3385
+  ],
+  [
+   "Herr",
+   2793
+  ],
+  [
+   "Women",
+   2770
+  ],
+  [
+   "lifestyle",
+   2720
+  ],
+  [
+   "skjorta",
+   2301
+  ],
+  [
+   "vit",
+   2225
+  ],
+  [
+   "woman",
+   2182
+  ],
+  [
+   "Dam",
+   2119
+  ],
+  [
+   "tee",
+   1949
+  ],
+  [
+   "t shirt tryck",
+   1824
+  ],
+  [
+   "grå",
+   1327
+  ],
+  [
+   "t-shirt",
+   1312
+  ],
+  [
+   "grön",
+   1241
+  ],
+  [
+   "blå",
+   1225
+  ],
+  [
+   "beige",
+   1129
+  ],
+  [
+   "MISTER TEE",
+   979
+  ],
+  [
+   "t shirt",
+   912
+  ],
+  [
+   "oversized",
+   901
+  ],
+  [
+   "MT Men",
+   891
+  ],
+  [
+   "Hoodie",
+   823
+  ],
+  [
+   "Hoodies",
+   816
+  ],
+  [
+   "Huvtröja",
+   815
+  ],
+  [
+   "TILLBEHÖR",
+   664
+  ],
+  [
+   "hoodie tryck",
+   569
+  ],
+  [
+   "Kvinna",
+   548
+  ],
+  [
+   "byxor",
+   547
+  ],
+  [
+   "JACKA",
+   530
+  ],
+  [
+   "Tjej",
+   502
+  ],
+  [
+   "Kille",
+   464
+  ],
+  [
+   "röd",
+   463
+  ],
+  [
+   "pants",
+   419
+  ],
+  [
+   "långärmad tröja",
+   415
+  ],
+  [
+   "keps",
+   405
+  ],
+  [
+   "rosa",
+   399
+  ],
+  [
+   "Jacket",
+   381
+  ]
+ ],
+ "n_taggar": 442,
+ "beskr_tom": 0,
+ "beskr_lt30ord": 1,
+ "beskr_ge100": 2549,
+ "median_ord": 90,
+ "body_engelsk_ord": 80,
+ "body_svensk_ord": 6887,
+ "titel_engelsk": 350,
+ "dubbla_titlar": 145,
+ "dubbla_titlar_prod": 311,
+ "dubbla_ex": [
+  "uc boxer shorts 3-pack",
+  "zy highbridge",
+  "def loose fit jeans",
+  "zy highbridge (gs)",
+  "uc short oversized tee 2-pack",
+  "just rhyse water shorts",
+  "zy highbridge (td)",
+  "zy pyramid (td)"
+ ],
+ "varianter": 104356,
+ "pris_min_max_median": [
+  16.9,
+  7499.0,
+  399.0
+ ],
+ "utan_bild": 0,
+ "bilder_utan_alt": 66514,
+ "bilder_tot": 66514,
+ "tillgangliga": 4958,
+ "outlet": 83,
+ "utan_sku": 24,
+ "skapad_ar": [
+  [
+   "2025",
+   6381
+  ],
+  [
+   "2026",
+   465
+  ],
+  [
+   "2024",
+   50
+  ],
+  [
+   "2023",
+   24
+  ]
+ ],
+ "skapad_manad_senaste": [
+  [
+   "2025-02",
+   2340
+  ],
+  [
+   "2025-03",
+   1741
+  ],
+  [
+   "2025-04",
+   764
+  ],
+  [
+   "2025-06",
+   555
+  ],
+  [
+   "2025-01",
+   466
+  ],
+  [
+   "2026-09",
+   228
+  ],
+  [
+   "2025-07",
+   191
+  ],
+  [
+   "2025-11",
+   118
+  ]
+ ],
+ "mkoder_title_lang": 1
+}

@@ -1,0 +1,110 @@
+{
+ "butik": "workoutbrands.com",
+ "beskrivning": "Spärrlista för WORKOUT BRANDS enligt mallen sparrlista.json. Alla spärrar aktiverade av David 2026-11-18 (chatt, koordinatorn). Hävs bara genom ny post med datum och beslut.",
+ "sparrar": [
+  {
+   "namn": "out-of-stock",
+   "aktiv": true,
+   "idfil": "rapporter/genomlysning-workoutbrands-2026-11-18/data/sparr_out_of_stock_vendor_eller_typ.csv",
+   "idkolumn": "produkt_id",
+   "skal": "Produkttyp eller vendor 'Out of stock' (37 produkter)",
+   "beslut": "David 2026-11-18: aktivera alla spärrar"
+  },
+  {
+   "namn": "outlet",
+   "aktiv": true,
+   "idfil": "rapporter/genomlysning-workoutbrands-2026-11-18/data/sparr_outlet.csv",
+   "idkolumn": "produkt_id",
+   "skal": "Vendor eller tagg outlet (92 produkter)",
+   "beslut": "David 2026-11-18: aktivera alla spärrar"
+  },
+  {
+   "namn": "barn",
+   "aktiv": true,
+   "idfil": "rapporter/genomlysning-workoutbrands-2026-11-18/data/sparr_barn.csv",
+   "idkolumn": "produkt_id",
+   "skal": "MT Kids och Urban Classics Kids (vendor) (311 produkter)",
+   "beslut": "David 2026-11-18: aktivera alla spärrar"
+  },
+  {
+   "namn": "barn-taggar",
+   "aktiv": true,
+   "idfil": "rapporter/genomlysning-workoutbrands-2026-11-18/data/sparr_barn_taggar_utover_vendor.csv",
+   "idkolumn": "produkt_id",
+   "skal": "Barntagg utöver vendor (71 produkter)",
+   "beslut": "David 2026-11-18: aktivera alla spärrar"
+  },
+  {
+   "namn": "prisjobb-bf26",
+   "aktiv": true,
+   "idfil": "rapporter/genomlysning-workoutbrands-2026-11-18/data/sparr_prisjobb_bf26.csv",
+   "idkolumn": "produkt_id",
+   "skal": "Black Friday-prisjobb (price-change-job-active/BF26); inga text- eller prisskrivningar tills appen och återställningen är kända (2897 produkter)",
+   "beslut": "David 2026-11-18: aktivera alla spärrar"
+  },
+  {
+   "namn": "titel-med-storlek",
+   "aktiv": true,
+   "idfil": "rapporter/genomlysning-workoutbrands-2026-11-18/data/sparr_titel_med_storlek.csv",
+   "idkolumn": "produkt_id",
+   "skal": "Titel slutar på enskild storlek (86 produkter)",
+   "beslut": "David 2026-11-18: aktivera alla spärrar"
+  },
+  {
+   "namn": "dubbletitlar",
+   "aktiv": true,
+   "idfil": "rapporter/genomlysning-workoutbrands-2026-11-18/data/sparr_dubbletitlar.csv",
+   "idkolumn": "produkt_id",
+   "skal": "Dubblettitlar (366 produkter)",
+   "beslut": "David 2026-11-18: aktivera alla spärrar"
+  },
+  {
+   "namn": "solglasogon",
+   "aktiv": true,
+   "idfil": "rapporter/genomlysning-workoutbrands-2026-11-18/data/sparr_solglasogon.csv",
+   "idkolumn": "produkt_id",
+   "skal": "Solglasögon (111 produkter)",
+   "beslut": "David 2026-11-18: aktivera alla spärrar"
+  },
+  {
+   "namn": "mobilskal",
+   "aktiv": true,
+   "idfil": "rapporter/genomlysning-workoutbrands-2026-11-18/data/sparr_mobilskal.csv",
+   "idkolumn": "produkt_id",
+   "skal": "Mobilskal (28 produkter)",
+   "beslut": "David 2026-11-18: aktivera alla spärrar"
+  },
+  {
+   "namn": "vendor-ej-marke",
+   "aktiv": true,
+   "idfil": "rapporter/genomlysning-workoutbrands-2026-11-18/data/sparr_vendor_ej_marke.csv",
+   "idkolumn": "produkt_id",
+   "skal": "Vendor som inte är ett märke (138 produkter)",
+   "beslut": "David 2026-11-18: aktivera alla spärrar"
+  },
+  {
+   "namn": "inkopspris-misstankt",
+   "aktiv": true,
+   "idfil": "rapporter/genomlysning-workoutbrands-2026-11-18/data/sparr_inkopspris_misstankt.csv",
+   "idkolumn": "produkt_id",
+   "skal": "Misstänkt inköpspris (marginal över 90 % eller pris under inköp); gäller pris (1927 produkter)",
+   "beslut": "David 2026-11-18: aktivera alla spärrar"
+  },
+  {
+   "namn": "utan-inkopspris",
+   "aktiv": true,
+   "idfil": "rapporter/genomlysning-workoutbrands-2026-11-18/data/sparr_utan_inkopspris.csv",
+   "idkolumn": "produkt_id",
+   "skal": "Saknar inköpspris (22 produkter)",
+   "beslut": "David 2026-11-18: aktivera alla spärrar"
+  },
+  {
+   "namn": "presentkort",
+   "aktiv": true,
+   "idfil": "rapporter/genomlysning-workoutbrands-2026-11-18/data/sparr_presentkort.csv",
+   "idkolumn": "produkt_id",
+   "skal": "Presentkort (1 produkter)",
+   "beslut": "David 2026-11-18: aktivera alla spärrar"
+  }
+ ]
+}

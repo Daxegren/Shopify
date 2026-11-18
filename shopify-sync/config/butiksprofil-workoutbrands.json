@@ -1,0 +1,124 @@
+{
+  "butik": "workoutbrands.com",
+  "myshopify": "doyou-se.myshopify.com (verifierat med get-shop-info och shop-fråga 2026-11-17)",
+  "sprak": "sv (primärt); 20 publicerade språk i Shopify (cs, da, de, en, es, fi, fr, hr, hu, is, it, nl, no, pl, pt-PT, sk, sl, sr, sv, tr); sajten visar 21 hreflang-versioner",
+  "ton": "TODO (David): förslag saklig och konkret, faktatextläge med bara uppgifter ur leverantörens egen källa",
+  "marken": [
+    "Urban Classics (UC Men, UC Ladies, Urban Classics Accessoires, Urban Classics Kids)",
+    "Mister Tee (MT Men, MT Upscale, MT Kids, MT Ladies, MT Accessoires, MT X Artist, Miss Tee)",
+    "Brandit",
+    "Flexfit",
+    "Merchcode",
+    "Build your Brand",
+    "DEF",
+    "MJ Gonzales",
+    "Starter Black Label",
+    "Dangerous DNGRS",
+    "Ecko Unltd.",
+    "Just Rhyse",
+    "Rocawear",
+    "Lost Youth",
+    "Zoo York",
+    "MSTRDS",
+    "Forvert",
+    "New Morning Studios",
+    "Thug Life",
+    "Cloud5ive",
+    "Southpole",
+    "9N1M Sense",
+    "Forgotten Faces",
+    "Wu-Wear",
+    "Relode"
+  ],
+  "marken_varning_bara": [
+    "Out of stock",
+    "outlet",
+    "workoutbrands.com",
+    "CS"
+  ],
+  "anmarkning_vendor": "Fältet vendor används delvis som varumärkeslinje (UC Men/UC Ladies, MT Men) och delvis som statusvärde (Out of stock, outlet). Märkesnamn måste normaliseras innan R8 kan tillämpas. David beslutar.",
+  "gransvarden": {
+    "titel_max": 70,
+    "titel_max_komma": 2,
+    "seo_titel_max": "TODO",
+    "seo_suffix": " | Workout Brands",
+    "meta_min": 70,
+    "meta_max": 155
+  },
+  "gransvarden_anmarkning": "SEO-titel saknas på 6 988 av 7 371 aktiva (temat använder produkttiteln); 338 har suffixet ' | Workout Brands'. seo_titel_max måste beslutas. Metabeskrivning median 125 tecken; 352 över 155.",
+  "standardblock_krav": [
+    "TODO"
+  ],
+  "standardblock_kanonisk": "TODO (butikens leverans-, retur- och garantitexter finns ej inventerade)",
+  "leveranstidsmening": "TODO",
+  "leveranstidstagg": "TODO",
+  "klartagg": "texter-klara (förslag; samma som BEST OF SPORTS)",
+  "taggar_som_inte_far_roras": [
+    "price-change-job-active",
+    "BF26",
+    "in sheet",
+    "outlet",
+    "urban classics",
+    "(David bekräftar; prisjobb och import ägs av appar/flöden som inte identifierats)"
+  ],
+  "faktatextlage_kategorier": [
+    "TODO"
+  ],
+  "utanfor_tills_vidare_forslag": [
+    "barnkläder (vendor Kids 311 + barntagg 71)",
+    "vendor/typ 'Out of stock' (37 aktiva)",
+    "outlet (92)",
+    "produkter med price-change-job-active/BF26 (2 897)",
+    "titel slutar på enskild storlek (86)",
+    "dubbletitlar (171 grupper, 366 produkter)",
+    "solglasögon (111) och mobilskal (28)",
+    "vendor som inte är märke (138)",
+    "produkter med misstänkt inköpspris (1 927) för allt som rör pris",
+    "produkter som saknas i sitemapen (466) tills publicering är utredd"
+  ],
+  "godkanda_typord": {},
+  "typord_anmarkning": "Butikens produkttyper (86 st) finns i rapporter/workoutbrands-2026-11-04/inventering_offentlig_sammanstallning.json. TODO: David godkänner typord.",
+  "format_regler": "rapporter/facit-bos-2026-10-31/format_regler.py",
+  "sparrlista": "shopify-sync/config/sparrlista-workoutbrands.json",
+  "beslutslogg": "shopify-sync/docs/BESLUTSLOGG.md",
+  "regelbok": "shopify-sync/regler/regler-v1.md",
+  "skrivmetod": "TODO (API-väg kräver att David skapar app/nyckel, se textutrullning-rutin.md avsnitt 3)",
+  "ovrigt_hardlett": {
+    "vertical": "Streetwear och mode (inte träningsutrustning): Urban Classics, Mister Tee, Brandit, Flexfit m.fl. Titeln 'Streetwear, Träningskläder & Skor'. Utkastet i sites.portfolio.draft.toml antog träning och varumärken.",
+    "valuta": "Public sida visar SEK. Flera valutor är ej bekräftat (kräver Shopify Markets via verktyget).",
+    "produkter_publika": 6920,
+    "kalla": "Publika /products.json 2026-11-04. Status utöver publicerade ej känd."
+  },
+  "anmarkning": "Fas 2 (2026-11-18). Uppdaterad ur genomlysningen; allt som fortfarande är TODO kräver Davids svar. Fas 1-versionen finns kvar på grenen claude/workoutbrands-onboarding.",
+  "valuta_marknader": "Basvaluta SEK; 24 presentationsvalutor; 33 marknader (30 aktiva, 3 utkast: Irland, Serbien, USA); plan Grow",
+  "moms": {
+    "taxesIncluded_butik": false,
+    "anmarkning": "Svenska ordrar har taxesIncluded=true (pris inkl. 25 % moms); danska ordrar taxesIncluded=false (moms läggs på). Marginal Sverige = (pris/1,25 − inköp)/(pris/1,25). Källa: fem senaste svenska ordrar 2026-11-17."
+  },
+  "produkter_publika": null,
+  "produkter_antal": {
+    "totalt": 15648,
+    "aktiva": 7371,
+    "utkast": 8149,
+    "arkiverade": 125,
+    "kalla": "productsCount och fullständig läsning av aktiva, 2026-11-17"
+  },
+  "vertical_not": "Streetwear och mode (Urban Classics, Mister Tee, Brandit, Flexfit m.fl.) med en mindre träningsdel (Under Armour, Relode, Gavelo); butiken har 12 mån omsättning 428 206 kr brutto (1 244 ordrar), Sverige 68 %, Danmark 25 %",
+  "marken_aktiva_vendor_topp": [
+    "UC Ladies 1207",
+    "MT Men 931",
+    "UC Men 905",
+    "Urban Classics Accessoires 485",
+    "Brandit 385",
+    "MT Upscale 366",
+    "Flexfit 286",
+    "Miss Tee 275",
+    "Merchcode 231",
+    "Build your Brand 208",
+    "DEF 191",
+    "Urban Classics Kids 157",
+    "MT Kids 154"
+  ],
+  "prisregel_varning": "1 927 aktiva produkter har marginal över 90 % eller pris under inköp (sannolikt fel enhet/valuta i inköpspris). Inga prisförslag förrän inköpspriserna är kontrollerade. Prisjobb: 2 897 aktiva produkter med BF26 (10 % rabatt via jämförpris).",
+  "sparrkandidater": "rapporter/genomlysning-workoutbrands-2026-11-18/data/sparr_*.csv (förslag, aktiv=false)"
+}

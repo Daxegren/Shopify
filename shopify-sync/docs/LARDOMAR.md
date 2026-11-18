@@ -291,3 +291,19 @@ Appen Velomarket3 arkiverade 2026-11-06 kl. 03:22–03:23 ett femtiotal produkte
 ## 2026-11-13: collectionUpdate kräver `collection`, inte `input`; antalsfältet släpar; Cloudflare stoppar även produktsidor
 - **Vad hände:** (1) Admin-API 2026-10 avvisar `collectionUpdate(input:)` som föråldrat; rätt form är `collectionUpdate(collection: CollectionUpdateInput)` med `id` och `descriptionHtml`. (2) `productsCount` på en taggstyrd kollektion visade 125 flera minuter efter att 10 produkter fått taggen, trots att `inCollection` redan var sant. (3) Publik hämtning av en produktsida gav HTTP 429 (Cloudflare) efter att `products.json` hade hämtats några gånger i följd.
 - **Regel:** kontrollera kollektionsmedlemskap med `product.inCollection`, inte med `productsCount`. Verifiera varje textändring i en kollektion genom att jämföra hela `descriptionHtml` mot original plus avsedd text. Hämta inte `products.json` upprepat för att vänta in en ändring; vid 429, vänta och försök inte ta dig förbi.
+
+## 2026-11-18: inköpspris på 27 % av varianterna ger marginal över 90 %; ta inte fram prisförslag före kontroll (Workout Brands)
+- **Vad hände:** i läsningen av 7 371 aktiva produkter (32 906 varianter med inköpspris) hade 8 900 varianter (27 %) marginal över 90 % efter moms (till exempel pris 199 kr mot inköpspris 6,50 kr; Build your Brand och MJ Gonzales 100 % av varianterna), 141 låg under inköpspris och övriga 73 % låg tätt kring 60,6 %. Det tyder på fel enhet eller valuta i `unitCost`. Skriptet `pris_forslag.py` (BEST OF SPORTS-mönster, 25 % moms på allt, 40 % målmarginal) hade gett 1 927 felaktiga förslag.
+- **Regel:** läs fördelningen av marginal per leverantör före varje prisarbete; en gruppvis över 90 % är ett datafel tills motsatsen är bevisad. Ta inte fram prisförslag på butiker vars inköpspris inte är kontrollerat.
+
+## 2026-11-18: butiksinställningen taxesIncluded säger inte hur varje marknad räknar moms (Workout Brands)
+- **Vad hände:** `shop.taxesIncluded` var false, men svenska ordrar hade `taxesIncluded=true` (pris 199,00 kr inkl. 39,80 kr moms) och danska ordrar false (667,17 kr + 150,08 kr moms på). Hade butiksinställningen använts hade marginalen blivit fel.
+- **Regel:** läs `taxesIncluded` och `taxLines` på några senaste ordrar per marknad innan marginal räknas efter moms.
+
+## 2026-11-18: bulkOperationRunQuery fastnar i godkännande; sidindelning med sparad svarsfil fungerar (Workout Brands)
+- **Vad hände:** `graphql_mutation` med bulkexport väntade på ett godkännande som ingen kunde ge nattetid (avbröts). `graphql_query` med 100 produkter per sida sparar stora svar i en fil, så 7 371 aktiva produkter lästes på 74 sidor utan att svaren fyllde samtalet; två agenter delade intervallet på id (74 respektive 7 297 produkter, 0 fel, 9 minuter för den större delen). Föråldrade fält (`Collection.ruleSet`, `Market.enabled`, `ShopPlan.displayName`) avvisas av schema 2026-10; använd `sources`, `status` respektive `publicDisplayName`.
+- **Regel:** vid nattkörning, planera sidindelad läsning med `graphql_query` och undvik allt som kräver godkännande. Kontrollera antal mot `productsCount` (EXACT) per delintervall.
+
+## 2026-11-18: Cloudflare ger HTTP 429 på produktsidor efter cirka 120 stora sidor (Workout Brands)
+- **Vad hände:** publik genomsökning av workoutbrands.com (cirka 1,4 anrop/s, sidor 0,5–1,3 MB) gav 200 på startsida, 101 kollektioner och 17 sidor, sedan 429 på sex produktsidor i rad, även efter 60 och 30 sekunders väntan. En enskild produktsida gick att hämta efter en paus. Därför saknas produktsidor och blogg i klickdjups- och inlänkningsmätningen.
+- **Regel:** räkna med att volymen (inte bara takten) triggar bot-kontrollen; hämta produktsidor före kollektioner i en separat, långsammare körning, eller använd sitemap och Shopify-data i stället. Försök aldrig ta dig förbi kontrollen; redovisa luckan.
