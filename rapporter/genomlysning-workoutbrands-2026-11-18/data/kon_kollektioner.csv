@@ -1,0 +1,675 @@
+handle;titel;typ;antal_produkter;analyserade_aktiva;bara_dam_pct;bara_herr_pct;unisex_pct;bada_pct;ingen_pct;urval;kandidat_konsfilter
+varjacka-dam-herr;Vårjacka;manuell;304;296;36.8;58.1;0.0;0.7;4.4;forsta_300;ja
+hoodie-herr-dam;Hoodie: Herr & Dam;manuell;2257;295;20.7;63.1;0.0;0.7;15.6;forsta_300;ja
+streetwear-man-och-kvinna;Streetwear – Trendiga & Funktionella Kläder Online;manuell;6413;294;28.9;51.4;1.0;11.6;7.1;forsta_300;ja
+trojor-dam-herr;Tröjor: Dam & Herr;manuell;402;294;35.7;57.1;0.7;1.4;5.1;forsta_300;ja
+trojor-dam-herr-kopia;Tröjor: Dam & Herr (kopia);manuell;402;294;36.1;56.8;0.7;1.4;5.1;forsta_300;ja
+vardagsklader-man-och-kvinna;Vardagskläder - Man och Kvinna;manuell;2811;292;35.6;43.2;1.4;14.4;5.5;forsta_300;ja
+plus-size-klader-herr-dam;Plus Size Kläder - Herr & Dam;manuell;14964;292;28.4;51.7;1.4;12.0;6.5;forsta_300;ja
+workout-brands-black-friday-2025;Workout Brands BLACK FRIDAY 2025;manuell;14964;292;28.4;51.7;1.4;12.0;6.5;forsta_300;ja
+urban-classics;Urban classics - Man och Kvinna;manuell;480;289;28.4;30.4;0.0;30.8;10.4;forsta_300;ja
+vinterklader-herr-dam;Vinterkläder - Herr & Dam;manuell;482;285;22.5;37.2;1.1;33.3;6.0;forsta_300;ja
+urban-classics-1;Urban Classics;manuell;14772;282;28.0;51.4;1.4;10.3;8.9;forsta_300;ja
+hatt;Hatt;manuell;6740;275;27.3;50.9;1.1;12.7;8.0;forsta_300;ja
+smycken-1;Smycken - Man och Kvinna;manuell;6741;275;27.3;50.9;1.1;12.7;8.0;forsta_300;ja
+produkter-over-500;Produkter över 500;manuell;3272;233;21.5;56.2;0.4;3.0;18.9;forsta_300;ja
+shorts;Shorts;manuell;491;227;33.0;56.8;0.0;0.9;9.3;forsta_300;ja
+t-shirt-herr-dam;T-shirt - Herr & Dam;manuell;5897;216;25.5;57.9;0.5;1.4;14.8;forsta_300;ja
+t-shirt-herr-dam-1;T-shirt - Herr & Dam;manuell;5897;216;25.5;57.9;0.5;1.4;14.8;forsta_300;ja
+wob-alla-produkter;WOB - Alla produkter;manuell;14787;214;31.3;41.1;0.9;6.5;20.1;forsta_300;ja
+byxor-herr-dam;Byxor - Herr & Dam;manuell;857;212;29.7;53.3;0.5;0.5;16.0;forsta_300;ja
+trojor-herr-dam;Tröjor - Herr & Dam;manuell;611;209;33.5;47.8;0.0;1.0;17.7;forsta_300;ja
+jackor-herr-dam;Jackor - herr & Dam;manuell;208;205;38.5;59.0;0.0;0.0;2.4;alla;ja
+essentials;Essentials – basplagg för herr, dam och barn;manuell;349;199;39.2;27.6;0.0;4.0;29.1;forsta_300;ja
+sportklader-herr-dam;Sportkläder - Herr & Dam;manuell;208;183;56.3;35.0;3.3;3.8;1.6;alla;ja
+jeans-herr-dam;Jeans - Herr & Dam;manuell;316;176;36.9;49.4;0.0;1.7;11.9;forsta_300;ja
+jeans-man-och-kvinna;Jeans - Man och Kvinna;manuell;316;173;38.7;47.4;0.0;0.0;13.9;forsta_300;ja
+def-herr-och-dam;DEF - Man och Kvinna;manuell;172;110;24.5;60.9;4.5;0.9;9.1;alla;ja
+cargobyxor-herr-dam;Cargobyxor - Herr & Dam;manuell;111;109;26.6;63.3;0.0;0.9;9.2;alla;ja
+vinterjacka-man-och-kvinna;Vinterjacka - Man och Kvinna;manuell;123;104;37.5;58.7;0.0;0.0;3.8;alla;ja
+dangerous-dngrs-herr-och-dam;Dangerous DNGRS - Herr och Kvinna;manuell;267;104;38.5;52.9;0.0;1.9;6.7;alla;ja
+alla-traningsprodukter-kvinna-och-man;Alla träningsprodukter - Kvinna och man;manuell;6785;96;38.5;30.2;0.0;3.1;28.1;forsta_300;ja
+nyheter-herr-dam;Nyheter - Herr & Dam;manuell;6710;96;38.5;30.2;0.0;3.1;28.1;forsta_300;ja
+traningsshorts-herr-dam;Träningsshorts - Herr & Dam;manuell;94;88;47.7;50.0;1.1;0.0;1.1;alla;ja
+traningsshorts-herr-dam-1;Träningsshorts herr & dam;manuell;94;88;47.7;50.0;1.1;0.0;1.1;alla;ja
+biker-shorts-dam;Biker Shorts - Dam;manuell;94;88;47.7;50.0;1.1;0.0;1.1;alla;ja
+fleecejackor-herr;Fleecejackor - Herr;manuell;107;82;26.8;52.4;0.0;11.0;9.8;alla;ja
+klader-till-kontoret-herr-dam;Kläder Till Kontoret - Herr & Dam;manuell;81;80;33.8;36.2;0.0;18.8;11.2;alla;ja
+klader-till-grillfesten-herr-dam;Kläder till grillfesten - Herr & Dam;manuell;82;80;46.2;25.0;0.0;17.5;11.2;alla;ja
+badklader-herr-dam;Badkläder - Herr & Dam;manuell;99;66;48.5;47.0;0.0;0.0;4.5;alla;ja
+vastar-herr-dam;Västar - Herr & Dam;manuell;60;60;33.3;55.0;0.0;5.0;6.7;alla;ja
+underklader;Underkläder;manuell;59;58;53.4;41.4;3.4;0.0;1.7;alla;ja
+vilodag;Vilodag;manuell;57;47;55.3;38.3;0.0;2.1;4.3;alla;ja
+klader-till-kontoret-herr;Kläder Till Kontoret - Herr;manuell;47;46;21.7;63.0;0.0;6.5;8.7;alla;ja
+traningsjacka;Träningsjacka;manuell;45;45;46.7;46.7;2.2;2.2;2.2;alla;ja
+just-rhyse-herr-och-dam;Just Rhyse - Man och Kvinna;manuell;114;45;40.0;60.0;0.0;0.0;0.0;alla;ja
+starter-black-label-herr-och-dam;Starter Black Label - Man och Kvinna;manuell;48;42;26.2;59.5;0.0;11.9;2.4;alla;ja
+collageklader-herr-dam;Collagekläder herr & dam;manuell;60;41;22.0;63.4;0.0;7.3;7.3;alla;ja
+klader-till-halloween-herr-dam;Kläder till Halloween - Herr & Dam;manuell;38;37;29.7;45.9;0.0;18.9;5.4;alla;ja
+def-t-shirt-herr;DEF - T-shirt - Herr;manuell;131;35;20.0;74.3;2.9;0.0;2.9;alla;ja
+bastsaljare;Bästsäljare;manuell;38;33;36.4;51.5;0.0;12.1;0.0;alla;ja
+populara-produkter;Populära produkter;manuell;32;32;34.4;53.1;0.0;12.5;0.0;alla;ja
+byxor-kvinna-man;Träningsbyxor - Kvinna & Man;manuell;37;32;21.9;71.9;3.1;0.0;3.1;alla;ja
+t-shirts-med-tryck-dam-herr-homepage;T-shirts Med Tryck - Dam & Herr - Homepage;manuell;32;32;31.2;59.4;0.0;0.0;9.4;alla;ja
+forvert-herr-och-dam;Forvert - Herr och Kvinna;manuell;47;29;31.0;37.9;0.0;27.6;3.4;alla;ja
+musee-mimmi-pigg-klader-herr-dam;Musee- Mimmi Pigg Kläder - Herr & Dam;manuell;25;24;29.2;50.0;0.0;0.0;20.8;alla;ja
+t-shirts-med-tryck-dam-herr-1;T-Shirts med tryck dam & herr;manuell;20;20;30.0;50.0;0.0;0.0;20.0;alla;ja
+thug-life-herr-och-dam;Thug life - Herr och Dam;manuell;36;16;43.8;50.0;0.0;6.2;0.0;alla;ja
+jultroja-herr;Jultröja - Herr;manuell;11;11;36.4;63.6;0.0;0.0;0.0;alla;ja
+jultroja-dam;Jultröja - Dam;manuell;11;11;36.4;63.6;0.0;0.0;0.0;alla;ja
+jultrojor-herr-dam;Jultröjor - Herr & Dam;manuell;11;11;36.4;63.6;0.0;0.0;0.0;alla;ja
+jeans-for-alla-tillfallen;Jeans för alla tillfällen;manuell;11;11;54.5;27.3;0.0;0.0;18.2;alla;ja
+bekvama-huvtrojor;Bekväma huvtröjor;manuell;10;10;20.0;70.0;10.0;0.0;0.0;alla;ja
+trojor-for-alla-tillfallen;Tröjor för alla tillfällen;manuell;10;10;50.0;40.0;10.0;0.0;0.0;alla;ja
+t-shirt-med-tryck-dam;T-shirt Med Tryck - Dam;manuell;340;300;98.3;0.0;0.0;1.7;0.0;forsta_300;nej
+tillbehor;Tillbehör;manuell;453;299;13.0;5.4;2.3;65.9;13.4;forsta_300;nej
+back-to-school-klader-barn;Back To School Kläder - Barn;manuell;349;299;1.3;0.7;0.7;0.3;97.0;forsta_300;nej
+streetwear-barn;Streetwear - Barn;manuell;349;299;1.3;0.7;0.7;0.3;97.0;forsta_300;nej
+huvtroja-dam-herr;Huvtröja - Dam & Herr;manuell;859;299;19.7;65.6;1.7;1.3;11.7;forsta_300;nej
+t-shirt-oversized-herr;T-shirt Oversized - Herr;manuell;539;298;0.0;99.3;0.3;0.3;0.0;forsta_300;nej
+oversized-klader-herr;Oversized Kläder - Herr;manuell;755;298;0.0;98.0;0.7;1.3;0.0;forsta_300;nej
+hoodies-med-tryck-man;Hoodies Med Tryck - Man;manuell;305;297;0.0;99.3;0.3;0.3;0.0;forsta_300;nej
+presenter-till-barn-klader-med-roliga-tryck-for-pojkar-flickor;Presenter till barn - Kläder med roliga tryck för pojkar & flickor;manuell;370;297;1.0;0.7;0.7;0.0;97.6;forsta_300;nej
+streetwear-man;Streetwear - Man;manuell;3353;295;0.0;89.8;0.3;9.8;0.0;forsta_300;nej
+vardagsklader-man;Vardagskläder - Man;manuell;1349;294;0.0;92.5;0.0;7.5;0.0;forsta_300;nej
+stort-utbud-av-storlekar-fran-xs-till-5xl-herr;Stort utbud av storlekar, från XS till 5XL – Herr;manuell;5738;294;0.0;81.0;0.3;18.7;0.0;forsta_300;nej
+plus-size-klader-herr;Plus Size Kläder - Herr;manuell;5738;294;0.0;81.0;0.3;18.7;0.0;forsta_300;nej
+herrklader-stora-storlekar;Herrkläder - Stora Storlekar;manuell;5738;294;0.0;81.0;0.3;18.7;0.0;forsta_300;nej
+hoodie-herr-dam-1;Hoodie - Herr & Dam;manuell;2257;294;19.7;68.7;1.7;0.7;9.2;forsta_300;nej
+brandit-herr-och-dam;Brandit - Herr och Dam;manuell;6813;279;6.8;49.1;3.9;23.3;16.8;forsta_300;nej
+stort-utbud-av-storlekar-fran-xs-till-5xl-dam;Stort utbud av storlekar, från XS till 5XL – Dam;manuell;4483;276;71.0;0.0;0.0;29.0;0.0;forsta_300;nej
+plus-size-klader-dam;Plus Size Kläder - Dam;manuell;4483;276;71.0;0.0;0.0;29.0;0.0;forsta_300;nej
+damklader-stora-storlekar;Damkläder - Stora Storlekar;manuell;4483;276;71.0;0.0;0.0;29.0;0.0;forsta_300;nej
+t-shirt-herr;T-shirt - Herr;manuell;1157;274;0.0;98.2;0.0;1.8;0.0;forsta_300;nej
+urban-classics-man;Urban Classics - Man;manuell;616;270;0.4;93.0;0.0;0.4;6.3;forsta_300;nej
+militarklader-herr-dam;Militärkläder - Herr & Dam;manuell;424;270;4.8;41.9;3.3;20.4;29.6;forsta_300;nej
+urban-classics-kvinna;Urban Classics - Kvinna;manuell;928;269;98.5;0.0;0.0;1.5;0.0;forsta_300;nej
+herrklader-nyheter;Herrkläder - Nyheter;manuell;2840;267;0.0;94.4;0.0;5.6;0.0;forsta_300;nej
+skjortor-herr;Skjortor - Herr;manuell;1496;262;0.0;98.5;0.4;1.1;0.0;forsta_300;nej
+billiga-herrklader-prisvard-stil-och-kvalitet-under-500-kr;Billiga herrkläder;manuell;4461;261;0.0;74.3;0.0;25.7;0.0;forsta_300;nej
+dam-alla;Dam - Alla;manuell;4869;261;72.4;0.0;0.0;27.6;0.0;forsta_300;nej
+prisvarda-klader-herr;Prisvärda Kläder - Herr;manuell;3708;260;0.0;72.7;0.0;27.3;0.0;forsta_300;nej
+kepsar;Kepsar;manuell;335;259;3.5;2.3;3.9;75.3;15.1;forsta_300;nej
+streetwear-dam;Streetwear - Dam;manuell;3807;259;90.0;0.0;0.0;10.0;0.0;forsta_300;nej
+hoodie-herr;Hoodie - Herr;manuell;418;258;0.0;97.3;0.4;2.3;0.0;forsta_300;nej
+brandit-herr;Brandit - Herr;manuell;262;257;0.0;71.6;0.0;28.4;0.0;alla;nej
+militarklader-herr;Militärkläder - Herr;manuell;262;257;0.0;71.6;0.0;28.4;0.0;alla;nej
+black-friday-2026-herrklader;Black Friday 2026 - Herrkläder;manuell;3424;251;0.0;92.4;0.4;7.2;0.0;forsta_300;nej
+prisvarda-klader-dam;Prisvärda Kläder - Dam;manuell;4004;244;70.5;0.0;0.0;29.5;0.0;forsta_300;nej
+billiga-damklader;Billiga damkläder;manuell;4004;244;70.5;0.0;0.0;29.5;0.0;forsta_300;nej
+herr-alla;Herr - Alla;manuell;6203;239;0.0;82.8;0.4;16.7;0.0;forsta_300;nej
+black-friday-2026-damklader;Black Friday 2026 - Damkläder;manuell;3820;239;88.7;0.0;0.0;11.3;0.0;forsta_300;nej
+workout-brands-man-all;Workout Brands - Man - Alla Produkter;manuell;6075;238;0.0;93.7;0.0;6.3;0.0;forsta_300;nej
+vinterklader-herr;Vinterkläder - Herr;manuell;241;236;0.4;78.4;0.4;18.6;2.1;alla;nej
+jackor-herr;Jackor - Herr;manuell;325;222;0.0;100.0;0.0;0.0;0.0;forsta_300;nej
+vardagsklader-kvinna;Vardagskläder - Kvinna;manuell;225;221;96.8;0.0;0.0;3.2;0.0;alla;nej
+flexfit-keps;Flexfit Keps;manuell;231;220;0.5;1.4;3.6;83.2;11.4;alla;nej
+boyfriends-hoodie;Boyfriend's Hoodie;manuell;218;218;15.1;78.9;0.5;2.3;3.2;alla;nej
+mister-tee-herr-och-dam;Mister Tee - Man och Kvinna;manuell;8226;215;76.7;16.3;0.0;2.8;4.2;forsta_300;nej
+vinterklader-dam;Vinterkläder - Dam;manuell;210;206;72.8;2.9;0.5;21.8;1.9;alla;nej
+sommarklader-dam;Sommarkläder - Dam;manuell;209;205;86.8;0.0;0.0;13.2;0.0;alla;nej
+jackor-dam;Jackor - Dam;manuell;255;201;99.5;0.0;0.0;0.5;0.0;alla;nej
+snapback-keps;Snapback Keps;manuell;200;200;5.5;3.5;2.5;75.0;13.5;alla;nej
+present-till-18-arig-kille;Present Till 18 årig Kille;manuell;207;196;0.0;65.8;0.5;33.7;0.0;alla;nej
+hoodie-dam;Hoodie - Dam;manuell;263;190;95.8;0.0;0.0;4.2;0.0;alla;nej
+billiga-t-shirts-herr;Billiga T-shirts - Herr;manuell;1734;187;0.0;97.9;0.0;2.1;0.0;forsta_300;nej
+semesterklader-dam;Semesterkläder - Dam;manuell;187;185;81.1;3.2;0.0;14.1;1.6;alla;nej
+t-shirt-dam;T-shirt - Dam;manuell;508;183;97.3;0.0;0.0;2.7;0.0;forsta_300;nej
+barnklader-pojke;Barnkläder - Pojke;manuell;180;177;0.6;0.6;1.1;0.0;97.7;alla;nej
+var-jacka-herr;Vårjacka - Herr;manuell;180;176;0.0;98.9;0.0;1.1;0.0;alla;nej
+byxor-herr;Byxor - Herr;manuell;180;174;0.0;97.7;0.0;2.3;0.0;alla;nej
+hoodie-oversized-herr;Hoodie Oversized - Herr;manuell;174;174;0.0;96.6;0.6;2.9;0.0;alla;nej
+urban-classics-herrjackor;Urban Classics - Herrjackor;manuell;229;172;1.2;96.5;0.0;0.0;2.3;alla;nej
+tunn-jacka-herr;Tunn Jacka - Herr;manuell;174;170;0.0;98.8;0.0;1.2;0.0;alla;nej
+skaljacka-herr;Skaljacka - Herr;manuell;174;170;0.0;98.8;0.0;1.2;0.0;alla;nej
+workout-brands-kvinna-all;Workout Brands - Kvinna;manuell;4796;166;93.4;0.0;0.0;6.6;0.0;forsta_300;nej
+present-till-18-arig-tjej;Present Till 18 årig Tjej;manuell;172;166;69.3;0.0;0.0;30.7;0.0;alla;nej
+urban-classics-damjackor;Urban Classics - Damjackor;manuell;209;164;97.6;0.0;0.0;2.4;0.0;alla;nej
+vintertillbehor;Vintertillbehör;manuell;197;160;1.9;19.4;1.9;64.4;12.5;alla;nej
+damklader-nyheter;Damkläder - Nyheter;manuell;4483;158;93.7;0.0;0.0;6.3;0.0;forsta_300;nej
+klanning-kvinna;Klänning - Kvinna;manuell;288;157;100.0;0.0;0.0;0.0;0.0;alla;nej
+collegetrojor-herr;Collegetröjor - Herr;manuell;244;157;0.0;97.5;0.0;2.5;0.0;alla;nej
+festivaloutfits-dam;Festivaloutfits - Dam;manuell;157;156;70.5;0.0;0.0;29.5;0.0;alla;nej
+after-work-klader-dam;After Work Kläder - Dam;manuell;152;151;98.0;0.0;0.0;2.0;0.0;alla;nej
+vaskor-till-resan;Väskor till resan;manuell;212;149;5.4;2.7;5.4;57.0;29.5;alla;nej
+hostklader-herr;Höstkläder - Herr;manuell;152;148;5.4;70.9;0.7;18.9;4.1;alla;nej
+topp;Topp - Kvinna;manuell;148;147;100.0;0.0;0.0;0.0;0.0;alla;nej
+svart-troja-herr;Svart tröja - Herr;manuell;152;145;0.0;98.6;0.0;1.4;0.0;alla;nej
+fodelsedagspresent-till-mamma;Födelsedagspresent Till Mamma;manuell;146;144;54.2;0.0;0.0;45.8;0.0;alla;nej
+tights-kvinna-och-man;Tights - Kvinna och Man;manuell;201;142;86.6;2.1;0.0;0.0;11.3;alla;nej
+tights-leggings;Tights & Leggings;manuell;201;142;86.6;2.1;0.0;0.0;11.3;alla;nej
+yoga-pants;Yoga Pants;manuell;201;142;86.6;2.1;0.0;0.0;11.3;alla;nej
+oversized-klader-dam;Oversized Kläder - Dam;manuell;141;141;97.9;0.0;0.0;2.1;0.0;alla;nej
+mister-tee-hoodie-herr;Mister Tee - Hoodie - Herr;manuell;315;140;0.7;97.1;0.0;0.0;2.1;forsta_300;nej
+mjukistroja-herr;Mjukiströja - Herr;manuell;144;140;0.0;97.1;0.0;2.9;0.0;alla;nej
+langarmad-troja-herr;Långärmad tröja - Herr;manuell;146;139;0.0;100.0;0.0;0.0;0.0;alla;nej
+loungewear-dam;Loungewear - Dam;manuell;139;135;97.0;1.5;0.0;1.5;0.0;alla;nej
+essentials-herr;Essentials herr – basplagg för män;manuell;186;132;0.0;51.5;0.0;7.6;40.9;alla;nej
+jacka-herr;Jacka - Herr;manuell;133;131;0.0;98.5;0.0;1.5;0.0;alla;nej
+urban-classics-klanning;Urban Classics - Klänning;manuell;172;131;100.0;0.0;0.0;0.0;0.0;alla;nej
+sommarklanning;Sommarklänning;manuell;172;131;100.0;0.0;0.0;0.0;0.0;alla;nej
+after-work-klader-herr;After Work Kläder - Herr;manuell;132;131;0.0;80.9;0.0;16.0;3.1;alla;nej
+t-shirts-med-tryck-dam-herr;T-shirts Med Tryck - Dam & Herr;manuell;2312;131;2.3;95.4;0.0;0.8;1.5;forsta_300;nej
+def-herr;DEF - Herr;manuell;170;130;0.0;97.7;0.8;1.5;0.0;alla;nej
+skjorta-pojke;Skjorta - Pojke;manuell;130;130;1.5;0.0;0.0;0.0;98.5;alla;nej
+svart-troja-herr-2;Svart Tröja - Herr;manuell;131;129;0.0;93.0;0.0;2.3;4.7;alla;nej
+mjukistroja-dam;Mjukiströja - Dam;manuell;132;129;95.3;0.0;0.0;4.7;0.0;alla;nej
+long-sleeve-man;Långärmad Träningströja För Män: Prestanda och Stil i Ett;manuell;141;128;0.0;98.4;0.0;1.6;0.0;alla;nej
+langarmad-troja-dam;Långärmad tröja - Dam;manuell;134;127;100.0;0.0;0.0;0.0;0.0;alla;nej
+barnklader-flicka;Barnkläder - Flicka;manuell;127;125;1.6;0.8;0.8;0.0;96.8;alla;nej
+sommarklader-herr;Sommarkläder - Herr;manuell;125;125;0.0;77.6;0.0;21.6;0.8;alla;nej
+byxor-dam-1;Byxor - Dam;manuell;129;123;97.6;0.0;0.0;2.4;0.0;alla;nej
+semesterklader-herr;Semesterkläder - Herr;manuell;122;120;6.7;70.0;0.0;17.5;5.8;alla;nej
+klanning-dam-2;Klänning - Dam;manuell;142;119;100.0;0.0;0.0;0.0;0.0;alla;nej
+hostjacka-herr;Höstjacka - Herr;manuell;122;119;0.0;100.0;0.0;0.0;0.0;alla;nej
+klader-till-skolavslutning-dam;Kläder Till Skolavslutning - Dam;manuell;118;118;91.5;0.0;0.0;8.5;0.0;alla;nej
+shorts-herr;Shorts - Herr;manuell;122;117;0.0;97.4;0.0;2.6;0.0;alla;nej
+smycken-2;Smycken;manuell;117;117;38.5;0.9;0.9;56.4;3.4;alla;nej
+klader-till-mohippan-dam;Kläder Till Möhippan - Dam;manuell;119;117;79.5;0.0;0.0;20.5;0.0;alla;nej
+festklader-herr-dam;Festkläder - Herr & Dam;manuell;116;116;83.6;16.4;0.0;0.0;0.0;alla;nej
+solglasogon-1;Solglasögon;manuell;157;115;12.2;3.5;0.0;80.9;3.5;alla;nej
+casual-outfits-herr;Casual Outfits - Herr;manuell;115;114;0.0;96.5;0.0;1.8;1.8;alla;nej
+casual-outfits-dam;Casual Outfits - Dam;manuell;117;114;100.0;0.0;0.0;0.0;0.0;alla;nej
+svart-troja-herr-1;Svart Tröja - Herr;manuell;119;113;0.0;99.1;0.0;0.9;0.0;alla;nej
+smycken-dam;Smycken - Dam;manuell;111;111;40.5;0.0;0.0;59.5;0.0;alla;nej
+varjacka-kvinna;Vårjacka - Kvinna;manuell;110;110;99.1;0.0;0.0;0.9;0.0;alla;nej
+tunn-jacka-kvinna;Tunn Jacka - Kvinna;manuell;109;109;99.1;0.0;0.0;0.9;0.0;alla;nej
+skaljacka-dam;Skaljacka - Dam;manuell;109;109;99.1;0.0;0.0;0.9;0.0;alla;nej
+traningsvaska;TRÄNINGSVÄSKA;manuell;127;108;4.6;1.9;6.5;57.4;29.6;alla;nej
+hostklader-dam;Höstkläder - Dam;manuell;109;108;98.1;0.0;0.0;1.9;0.0;alla;nej
+julklappar-till-herr;Julklappar Till Killar;manuell;114;108;0.0;63.0;4.6;30.6;1.9;alla;nej
+solglasogon-dam;Solglasögon - Dam;manuell;109;107;13.1;0.0;0.0;86.9;0.0;alla;nej
+klader-for-flygresan-herr;Kläder för flygresan - Herr;manuell;104;104;0.0;69.2;7.7;23.1;0.0;alla;nej
+starter-black-label-man;Starter Black Label - Man;manuell;114;103;0.0;94.2;0.0;5.8;0.0;alla;nej
+picknick-klader-herr;Picknick Kläder - Herr;manuell;105;102;0.0;52.9;1.0;45.1;1.0;alla;nej
+long-sleeve-kvinna;Långärmad Träningströja för Damer: Stil, Komfort och Prestanda;manuell;113;101;100.0;0.0;0.0;0.0;0.0;alla;nej
+nyheter-dam;Nyheter - Dam;manuell;146;101;96.0;0.0;0.0;4.0;0.0;alla;nej
+jacka-dam;Jacka - Dam;manuell;100;100;99.0;0.0;0.0;1.0;0.0;alla;nej
+outdoorklader-herr-dam;Outdoorkläder - Herr & Dam;manuell;102;100;3.0;56.0;5.0;16.0;20.0;alla;nej
+essentials-dam;Essentials dam – basplagg för kvinnor;manuell;146;100;90.0;0.0;0.0;10.0;0.0;alla;nej
+brandit-dam;Brandit - Dam;manuell;102;99;26.3;0.0;0.0;73.7;0.0;alla;nej
+brandit-damjackor;Brandit - Damjackor;manuell;102;99;26.3;0.0;0.0;73.7;0.0;alla;nej
+militarklader-dam;Militärkläder - Dam;manuell;102;99;26.3;0.0;0.0;73.7;0.0;alla;nej
+svart-troja-kvinna;Svart tröja - Kvinna;manuell;100;98;100.0;0.0;0.0;0.0;0.0;alla;nej
+svart-troja-dam;Svart Tröja - Dam;manuell;100;98;100.0;0.0;0.0;0.0;0.0;alla;nej
+solglasogon-herr;Solglasögon - Herr;manuell;99;97;0.0;4.1;0.0;95.9;0.0;alla;nej
+solglasogon-herr-1;Solglasögon - Herr;manuell;99;97;0.0;4.1;0.0;95.9;0.0;alla;nej
+urban-classics-solglasogon;Urban Classics - Solglasögon;manuell;122;97;12.4;4.1;0.0;82.5;1.0;alla;nej
+black-friday-2026-barnklader;Black Friday 2026 - Barnkläder;manuell;747;96;2.1;2.1;1.0;0.0;94.8;forsta_300;nej
+billiga-solglasogon-dam;Billiga Solglasögon - Dam;manuell;97;95;12.6;0.0;0.0;87.4;0.0;alla;nej
+klader-till-nyar-dam;Kläder Till Nyår - Dam;manuell;95;95;91.6;0.0;0.0;8.4;0.0;alla;nej
+styrketraning-kvinna;STYRKETRÄNINGSKLÄDER FÖR DAMER: STIL, KOMFORT OCH PRESTANDA;manuell;155;93;98.9;0.0;0.0;1.1;0.0;alla;nej
+strumpor-herr-och-dam;Strumpor - Herr och Dam;manuell;160;93;20.4;11.8;2.2;57.0;8.6;alla;nej
+outdoorklader-herr;Outdoorkläder - Herr;manuell;93;93;0.0;77.4;4.3;16.1;2.2;alla;nej
+stumpor-herr-dam;Stumpor - Herr & dam;manuell;160;93;20.4;11.8;2.2;57.0;8.6;alla;nej
+mossa;Mössa;manuell;112;92;1.1;12.0;2.2;75.0;9.8;alla;nej
+vinterklader-herr-1;Vinterkläder - Herr;manuell;94;92;0.0;70.7;0.0;21.7;7.6;alla;nej
+fodelsedagspresent-till-pappa;Födelsedagspresent Till Pappa;manuell;95;92;0.0;31.5;0.0;68.5;0.0;alla;nej
+present-till-barn;Present till barn;manuell;763;91;2.2;2.2;1.1;0.0;94.5;forsta_300;nej
+klader-for-middagen-dam;Kläder för middagen - Dam;manuell;91;90;92.2;0.0;0.0;7.8;0.0;alla;nej
+rorlighetstraning-kvinna;Rörlighetsträning för Kvinnor: Funktionalitet, Passform och Stil;manuell;125;89;100.0;0.0;0.0;0.0;0.0;alla;nej
+morsdag-presenter-till-mamma;Morsdag Presenter Till Mamma;manuell;89;89;93.3;0.0;0.0;6.7;0.0;alla;nej
+ecko-unltd-herr;Ecko Unltd - Herr;manuell;102;88;0.0;97.7;0.0;2.3;0.0;alla;nej
+dejt-klader-dam;Dejt Kläder - Dam;manuell;88;88;97.7;0.0;0.0;2.3;0.0;alla;nej
+farsdag-presenter-till-pappa;Farsdag Presenter Till Pappa;manuell;92;88;0.0;67.0;0.0;28.4;4.5;alla;nej
+jeans-man;Jeans - Man;manuell;122;87;0.0;97.7;0.0;2.3;0.0;alla;nej
+rocawear-herr-och-dam;Rocawear - Herr och Dam;manuell;228;87;18.4;71.3;0.0;4.6;5.7;alla;nej
+billiga-solglasogon-herr;Billiga Solglasögon - Herr;manuell;89;87;0.0;4.6;0.0;95.4;0.0;alla;nej
+klader-for-flygresan-dam;Kläder för flygresan - Dam;manuell;87;87;73.6;0.0;5.7;20.7;0.0;alla;nej
+alla-produkter-kvinna;Träningskläder för Damer: Stil, Funktion och Prestation;manuell;125;86;96.5;0.0;0.0;3.5;0.0;alla;nej
+outdoor-tillbehor;Outdoor Tillbehör;manuell;86;86;0.0;7.0;12.8;51.2;29.1;alla;nej
+styrketraning;STYRKETRÄNINGSKLÄDER: STIL, KOMFORT OCH PRESTANDA;manuell;140;85;81.2;17.6;0.0;0.0;1.2;alla;nej
+picknick-klader-dam;Picknick Kläder - Dam;manuell;86;85;70.6;0.0;0.0;28.2;1.2;alla;nej
+business-casual-damklader;Business Casual – Damkläder;manuell;84;84;96.4;0.0;0.0;3.6;0.0;alla;nej
+leggings;Leggings;manuell;82;82;92.7;0.0;0.0;0.0;7.3;alla;nej
+t-shirt-pojke;T-shirt - Pojke;manuell;81;81;1.2;0.0;0.0;0.0;98.8;alla;nej
+minimalistiska-klader-dam;Minimalistiska Kläder - Dam;manuell;81;81;88.9;0.0;0.0;11.1;0.0;alla;nej
+sommar-t-shirt-herr;Sommar T-shirt - Herr;manuell;80;80;7.5;90.0;0.0;0.0;2.5;alla;nej
+klader-till-svensexa-herr;Kläder Till Svensexa - Herr;manuell;82;80;0.0;75.0;0.0;22.5;2.5;alla;nej
+sommarkeps;Sommarkeps;manuell;78;78;0.0;0.0;0.0;94.9;5.1;alla;nej
+mj-gonzales-herr;Mj Gonzales - Herr;manuell;96;78;0.0;97.4;1.3;1.3;0.0;alla;nej
+hostjacka-dam;Höstjacka - Dam;manuell;78;78;100.0;0.0;0.0;0.0;0.0;alla;nej
+brandit-vaskor;Brandit - Väskor;manuell;81;77;0.0;2.6;10.4;53.2;33.8;alla;nej
+militarvaskor;Militärväskor;manuell;81;77;0.0;2.6;10.4;53.2;33.8;alla;nej
+collegetroja-dam;Collegetröja - Dam;manuell;129;76;94.7;0.0;0.0;5.3;0.0;alla;nej
+tights-kvinna;Träningstights för Damer: Prestanda, Stil och Funktionalitet;manuell;92;75;100.0;0.0;0.0;0.0;0.0;alla;nej
+t-shirt-oversized-dam;T-shirt Oversized - Dam;manuell;75;75;96.0;0.0;0.0;4.0;0.0;alla;nej
+tapered-byxor-dam;Croppade Tröjor - Dam;manuell;75;75;100.0;0.0;0.0;0.0;0.0;alla;nej
+konditionstraning-kvinna;TRÄNNGSKLÄDER MED FOKUS PÅ KONDITIONSTRÄNING: DAMER;manuell;96;74;100.0;0.0;0.0;0.0;0.0;alla;nej
+rorlighetstraning;TRÄNNGSKLÄDER MED FOKUS PÅ RÖRLIGHETSTRÄNING;manuell;110;74;91.9;6.8;0.0;0.0;1.4;alla;nej
+halsband-kvinna;Halsband - Kvinna;manuell;74;74;41.9;0.0;0.0;58.1;0.0;alla;nej
+studentklader-dam;Studentkläder - Dam;manuell;74;74;95.9;0.0;0.0;4.1;0.0;alla;nej
+lost-youth;Lost Youth;manuell;217;74;2.7;90.5;1.4;0.0;5.4;alla;nej
+basplagg-herr;Basplagg - Herr;manuell;78;74;0.0;79.7;0.0;17.6;2.7;alla;nej
+basplagg-dam;Basplagg - Dam;manuell;77;74;85.1;0.0;0.0;14.9;0.0;alla;nej
+deals-on-sale;Deals - On Sale;manuell;97;73;16.4;6.8;1.4;8.2;67.1;alla;nej
+billiga-t-shirts-dam;Billiga T-shirts - Dam;manuell;1137;73;95.9;0.0;0.0;4.1;0.0;forsta_300;nej
+outlet;Outlet;manuell;97;73;16.4;6.8;1.4;8.2;67.1;alla;nej
+skjorta-flicka;Skjorta - Flicka;manuell;72;72;4.2;0.0;0.0;0.0;95.8;alla;nej
+klader-till-baby-shower-herr;Kläder Till Baby Shower - Herr;manuell;73;72;0.0;59.7;0.0;37.5;2.8;alla;nej
+klader-till-nyar-herr;Kläder Till Nyår - Herr;manuell;71;71;2.8;53.5;0.0;40.8;2.8;alla;nej
+solglasogon;Solglasögon - Herr och Dam;manuell;74;69;11.6;5.8;0.0;79.7;2.9;alla;nej
+jeans-kvinna;Jeans - Kvinna;manuell;90;68;98.5;0.0;0.0;1.5;0.0;alla;nej
+vandringsklader-herr;Vandringskläder - Herr;manuell;68;68;0.0;52.9;0.0;44.1;2.9;alla;nej
+shorts-dam;Shorts - Dam;manuell;71;67;97.0;0.0;0.0;3.0;0.0;alla;nej
+smycken-herr;Smycken - Herr;manuell;67;67;0.0;1.5;0.0;98.5;0.0;alla;nej
+bekvama-byxor-dam;Bekväma byxor - Dam;manuell;67;67;98.5;0.0;0.0;1.5;0.0;alla;nej
+retroinspirerade-klader-herr-dam;RetroInspirerade Kläder - Herr & Dam;manuell;79;67;4.5;41.8;0.0;49.3;4.5;alla;nej
+balte-kvinna;Bälte - Kvinna;manuell;68;66;24.2;0.0;0.0;75.8;0.0;alla;nej
+urban-classics-jeans-dam;Urban Classics - Jeans - Dam;manuell;86;65;100.0;0.0;0.0;0.0;0.0;alla;nej
+minimalistiska-klader-herr;Minimalistiska Kläder - Herr;manuell;65;65;0.0;78.5;0.0;21.5;0.0;alla;nej
+bomberjacka-herr-1;Bomberjacka - Herr;manuell;73;64;0.0;100.0;0.0;0.0;0.0;alla;nej
+balte-man;Bälte - Man;manuell;63;63;0.0;20.6;0.0;79.4;0.0;alla;nej
+rocawear-herr;Rocawear - Herr;manuell;92;63;0.0;93.7;0.0;6.3;0.0;alla;nej
+hogtidsklader-dam;Högtidskläder - Dam;manuell;80;63;76.2;1.6;0.0;22.2;0.0;alla;nej
+konditionstraning;TRÄNNGSKLÄDER MED FOKUS PÅ KONDITIONSTRÄNING;manuell;85;62;93.5;6.5;0.0;0.0;0.0;alla;nej
+kamouflage-klader-herr-1;Kamouflage Kläder - Herr;manuell;69;62;1.6;62.9;0.0;29.0;6.5;alla;nej
+dunjacka-herr;Dunjacka - Herr;manuell;73;61;0.0;98.4;0.0;1.6;0.0;alla;nej
+stickad-troja-kvinna;Stickad Tröja - Kvinna;manuell;59;59;100.0;0.0;0.0;0.0;0.0;alla;nej
+ryggsack-1;Ryggsäck;manuell;94;59;0.0;0.0;3.4;64.4;32.2;alla;nej
+klader-till-examen-dam;Kläder Till Examen - Dam;manuell;59;59;100.0;0.0;0.0;0.0;0.0;alla;nej
+klader-till-baby-shower-dam;Kläder Till Baby Shower - Dam;manuell;59;59;100.0;0.0;0.0;0.0;0.0;alla;nej
+dad-caps;Dad Caps;manuell;60;59;13.6;3.4;3.4;62.7;16.9;alla;nej
+vinterjacka-herr;Vinterjacka - Herr;manuell;66;58;0.0;100.0;0.0;0.0;0.0;alla;nej
+vaska;Väska;manuell;57;57;8.8;1.8;7.0;56.1;26.3;alla;nej
+linne-dam;Linne - Dam;manuell;59;57;100.0;0.0;0.0;0.0;0.0;alla;nej
+bekvama-byxor-herr;Bekväma Byxor - Herr;manuell;57;57;0.0;96.5;1.8;1.8;0.0;alla;nej
+friluftsklader-herr;Friluftskläder - Herr;manuell;58;57;0.0;78.9;0.0;21.1;0.0;alla;nej
+rak-keps;Rak Keps;manuell;56;56;0.0;10.7;0.0;80.4;8.9;alla;nej
+traningsskor;Träningsskor: Ditt Ultimata Val för Aktivitet;manuell;57;55;5.5;72.7;1.8;12.7;7.3;alla;nej
+skor-kvinna-och-man;Skor - Kvinna och man;manuell;57;55;5.5;72.7;1.8;12.7;7.3;alla;nej
+klader-till-skolavslutning-herr;Kläder Till Skolavslutning - Herr;manuell;55;55;1.8;52.7;0.0;41.8;3.6;alla;nej
+hogtidsklader-herr;Högtidskläder - Herr;manuell;55;55;16.4;49.1;0.0;27.3;7.3;alla;nej
+outdoorklader-dam;Outdoorkläder - Dam;manuell;56;55;49.1;0.0;14.5;36.4;0.0;alla;nej
+vindjacka-man;Vindjacka - Man;manuell;55;54;0.0;96.3;0.0;3.7;0.0;alla;nej
+skjorta-herr;Skjorta - Herr;manuell;55;54;0.0;98.1;0.0;1.9;0.0;alla;nej
+retroinspirerade-klader-dam;Retroinspirerade kläder – Dam;manuell;56;54;37.0;0.0;0.0;61.1;1.9;alla;nej
+klader-for-jobbintervju-dam;Kläder För Jobbintervju - Dam;manuell;55;54;87.0;0.0;0.0;13.0;0.0;alla;nej
+langa-strumpor-kvinna;Långa Strumpor - Kvinna;manuell;53;53;22.6;0.0;0.0;77.4;0.0;alla;nej
+dangerous-dngrs-herr;Dangerous DNGRS - Herr;manuell;74;53;0.0;96.2;0.0;3.8;0.0;alla;nej
+brandit-herrjackor;Brandit - Herrjackor;manuell;54;53;0.0;100.0;0.0;0.0;0.0;alla;nej
+langa-strumpor-herr;Långa Strumpor - Herr;manuell;53;52;0.0;19.2;0.0;80.8;0.0;alla;nej
+friluftsklader-dam;Friluftskläder - Dam;manuell;52;52;75.0;0.0;0.0;23.1;1.9;alla;nej
+just-rhyse-herr;Just Rhyse - Herr;manuell;65;51;0.0;100.0;0.0;0.0;0.0;alla;nej
+urban-classics-jeans-herr;Urban Classics - Jeans - Herr;manuell;77;51;0.0;92.2;0.0;2.0;5.9;alla;nej
+sommar-t-shirt-dam;Sommar T-shirt - Dam;manuell;50;50;94.0;4.0;0.0;0.0;2.0;alla;nej
+loparklader-dam;Löparkläder - Dam;manuell;62;50;94.0;0.0;0.0;0.0;6.0;alla;nej
+klader-for-middagen-herr;Kläder för middagen - Herr;manuell;50;50;4.0;86.0;0.0;6.0;4.0;alla;nej
+brandit-skjorta-herr;Brandit - Skjorta - Herr;manuell;50;49;0.0;98.0;0.0;2.0;0.0;alla;nej
+klader-till-dop-dam;Kläder Till Dop - Dam;manuell;49;49;83.7;0.0;0.0;16.3;0.0;alla;nej
+retroinspirerade-klader-herr;Retroinspirerade kläder – Herr;manuell;49;48;0.0;52.1;0.0;47.9;0.0;alla;nej
+klader-till-dop-herr;Kläder Till Dop - Herr;manuell;49;48;2.1;58.3;0.0;35.4;4.2;alla;nej
+nyheter-herr;Nyheter - Herr;manuell;68;48;0.0;91.7;0.0;8.3;0.0;alla;nej
+dunjacka-kvinna;Dunjacka - Kvinna;manuell;60;47;100.0;0.0;0.0;0.0;0.0;alla;nej
+stickad-troja-herr;Stickad Tröja - Herr;manuell;48;47;0.0;97.9;0.0;2.1;0.0;alla;nej
+ryggsack;Ryggsäck för träning och vardag;manuell;56;46;0.0;0.0;4.3;63.0;32.6;alla;nej
+business-casual-herrklader;Business Casual – Herrkläder;manuell;48;46;0.0;78.3;4.3;17.4;0.0;alla;nej
+quiet-luxury-herr;Quiet Luxury - Herr;manuell;47;46;0.0;56.5;0.0;41.3;2.2;alla;nej
+leggings-vardag-dam;Leggings - Vardag - Dam;manuell;45;45;97.8;0.0;0.0;0.0;2.2;alla;nej
+zoo-york-herr;Zoo York - Herr;manuell;54;45;0.0;86.7;0.0;13.3;0.0;alla;nej
+stickat-dam;Stickat - Dam;manuell;44;44;100.0;0.0;0.0;0.0;0.0;alla;nej
+halsband-man;Halsband - Man;manuell;44;44;0.0;2.3;0.0;97.7;0.0;alla;nej
+kortarmad-skjorta-man;kortärmad skjorta - Man;manuell;44;44;0.0;100.0;0.0;0.0;0.0;alla;nej
+def-dam;DEF - Dam;manuell;93;44;95.5;0.0;0.0;4.5;0.0;alla;nej
+klader-till-kontoret-dam;Kläder Till Kontoret - Dam;manuell;43;43;93.0;2.3;0.0;4.7;0.0;alla;nej
+trucker-keps;Trucker Keps;manuell;43;43;0.0;0.0;4.7;86.0;9.3;alla;nej
+knalanga-shorts-herr;Knälånga Shorts - Herr;manuell;42;42;0.0;100.0;0.0;0.0;0.0;alla;nej
+vandringsklader-dam;Vandringskläder - Dam;manuell;42;42;50.0;0.0;0.0;47.6;2.4;alla;nej
+enfargade-kepsar-utan-tryck;Enfärgade kepsar - Utan tryck;manuell;42;42;0.0;2.4;4.8;88.1;4.8;alla;nej
+hoodie-pojke;Hoodie - Pojke;manuell;41;41;0.0;0.0;2.4;0.0;97.6;alla;nej
+t-shirt-flicka;T-shirt - Flicka;manuell;41;41;4.9;0.0;0.0;0.0;95.1;alla;nej
+dangerous-dngrs-dam;Dangerous DNGRS - Kvinna;manuell;50;41;95.1;0.0;0.0;4.9;0.0;alla;nej
+svarta-byxor-dam;Svarta Byxor - Dam;manuell;41;41;100.0;0.0;0.0;0.0;0.0;alla;nej
+bucket-hat-herr-dam;Bucket hat - Herr & Dam;manuell;50;41;0.0;4.9;0.0;90.2;4.9;alla;nej
+cayler-sons-keps;Cayler & Sons - Keps;manuell;82;40;0.0;2.5;0.0;87.5;10.0;alla;nej
+vinterjacka-kvinna;Vinterjacka - Kvinna;manuell;45;39;100.0;0.0;0.0;0.0;0.0;alla;nej
+mstrds-man-och-kvinna;MSTRDS - Man och Kvinna;manuell;62;39;7.7;2.6;0.0;76.9;12.8;alla;nej
+vida-byxor-dam;Vida Byxor - Dam;manuell;40;39;100.0;0.0;0.0;0.0;0.0;alla;nej
+brandit-varjacka-herr;Brandit - Vårjacka - Herr;manuell;38;38;0.0;100.0;0.0;0.0;0.0;alla;nej
+vilodagar-kvinna;Vilodag - Kvinna;manuell;56;37;100.0;0.0;0.0;0.0;0.0;alla;nej
+hoodie-oversized-dam;Hoodie Oversized - Dam;manuell;37;37;89.2;0.0;0.0;10.8;0.0;alla;nej
+rektangulara-solglasogon-dam;Rektangulära Solglasögon - Dam;manuell;39;37;8.1;0.0;0.0;91.9;0.0;alla;nej
+shorts-kvinna;SHORTS FÖR KVINNOR: STIL,KOMFORT OCH PRESTANDA;manuell;39;36;100.0;0.0;0.0;0.0;0.0;alla;nej
+bomberjacka-kvinna;Bomberjacka - Kvinna;manuell;38;36;100.0;0.0;0.0;0.0;0.0;alla;nej
+armband-kvinna;Armband - Kvinna;manuell;36;36;36.1;0.0;0.0;63.9;0.0;alla;nej
+vast-man;Väst - Man;manuell;36;36;0.0;91.7;0.0;8.3;0.0;alla;nej
+kamouflageklader-herr;Kamouflagekläder - Herr;manuell;50;36;8.3;61.1;0.0;25.0;5.6;alla;nej
+strumpor-kvinna;Träningsstrumpor för Damer: Komfort och Prestanda i Fokus;manuell;36;35;25.7;0.0;0.0;74.3;0.0;alla;nej
+strumpor-dam;Strumpor - Dam;manuell;35;35;25.7;0.0;0.0;74.3;0.0;alla;nej
+linne-herr;Linne - Herr;manuell;37;35;0.0;100.0;0.0;0.0;0.0;alla;nej
+body-dam;Body - Dam;manuell;35;35;100.0;0.0;0.0;0.0;0.0;alla;nej
+brandit-ryggsack;Brandit - Ryggsäck;manuell;37;35;0.0;0.0;5.7;62.9;31.4;alla;nej
+hoodie-med-dragkedja-man;Hoodie Med Dragkedja - Man;manuell;36;34;0.0;91.2;2.9;5.9;0.0;alla;nej
+hoodie-flicka;Hoodie - Flicka;manuell;34;34;0.0;0.0;2.9;0.0;97.1;alla;nej
+cayler-sons-man;Cayler & Sons - Herr;manuell;50;34;0.0;8.8;0.0;82.4;8.8;alla;nej
+svarta-byxor-herr;Svarta Byxor - Herr;manuell;34;34;0.0;100.0;0.0;0.0;0.0;alla;nej
+billiga-byxor-dam;Billiga Byxor - Dam;manuell;34;34;97.1;0.0;0.0;2.9;0.0;alla;nej
+kamouflage-vaskor;Kamouflage Väskor;manuell;35;34;0.0;2.9;2.9;76.5;17.6;alla;nej
+utomhustraning;Utomhusträning;manuell;43;33;75.8;15.2;3.0;3.0;3.0;alla;nej
+mstrds-dam;MSTRDS - Dam;manuell;34;33;9.1;0.0;0.0;90.9;0.0;alla;nej
+sommar-hoodie-herr;Sommar Hoodie - Herr;manuell;33;33;6.1;87.9;0.0;3.0;3.0;alla;nej
+festklader-herr;Festkläder - Herr;manuell;33;33;3.0;90.9;0.0;3.0;3.0;alla;nej
+crossbody-vaskor-herr-dam;Crossbody Väskor - Herr & Dam;manuell;38;33;6.1;0.0;9.1;69.7;15.2;alla;nej
+klader-till-examen-herr;Kläder Till Examen - Herr;manuell;33;33;0.0;87.9;0.0;9.1;3.0;alla;nej
+utomhustraning-kvinna;Utomhusträning för Damer: Prestanda och Funktionalitet balansetat med Stil;manuell;39;32;96.9;0.0;0.0;3.1;0.0;alla;nej
+jumpsuit-dam;Jumpsuit - Dam;manuell;46;32;87.5;6.2;0.0;3.1;3.1;alla;nej
+urban-classics-bikini;Urban Classics - Bikini;manuell;36;32;100.0;0.0;0.0;0.0;0.0;alla;nej
+oversized-troja-herr;Oversized Tröja - Herr;manuell;32;32;0.0;100.0;0.0;0.0;0.0;alla;nej
+bikini;Bikini;manuell;37;32;100.0;0.0;0.0;0.0;0.0;alla;nej
+shorts-man;SHORTS FÖR MÄN: STIL, KOMFORT OCH PRESTANDA;manuell;33;31;0.0;100.0;0.0;0.0;0.0;alla;nej
+skjol-dam;Skjol - Dam;manuell;31;31;100.0;0.0;0.0;0.0;0.0;alla;nej
+barn-jacka;Brandit - Jacka - Barn;manuell;37;31;0.0;0.0;0.0;0.0;100.0;alla;nej
+rektangulara-solglasogon-herr;Rektangulära Solglasögon - Herr;manuell;31;31;0.0;3.2;0.0;96.8;0.0;alla;nej
+cocktailklanningar;Cocktailklänningar;manuell;31;31;100.0;0.0;0.0;0.0;0.0;alla;nej
+mstrds-herr;MSTRDS - Herr;manuell;30;30;0.0;0.0;0.0;100.0;0.0;alla;nej
+brandit-molle;Brandit Molle;manuell;30;30;0.0;6.7;16.7;50.0;26.7;alla;nej
+starter-black-label-herrjacka;Starter Black Label - Herrjacka;manuell;44;30;10.0;90.0;0.0;0.0;0.0;alla;nej
+starter-black-label-damjacka;Starter Black Label - Damjacka;manuell;44;30;10.0;90.0;0.0;0.0;0.0;alla;nej
+baddrakt-dam;Baddräkt - Dam;manuell;39;30;100.0;0.0;0.0;0.0;0.0;alla;nej
+lost-youth-herr;Lost Youth - Herr;manuell;45;30;0.0;100.0;0.0;0.0;0.0;alla;nej
+stovlar-herr-dam;Stövlar - Herr & Dam;manuell;30;29;3.4;62.1;0.0;20.7;13.8;alla;nej
+dejt-klader-herr;Dejt Kläder - Herr;manuell;29;29;0.0;79.3;0.0;20.7;0.0;alla;nej
+kangor-herr;Kängor - Herr;manuell;30;29;3.4;62.1;0.0;20.7;13.8;alla;nej
+alla-produkter-man;Träningskläder för Herrar: Stil och Funktion i Perfekt Harmoni;manuell;39;28;0.0;89.3;0.0;10.7;0.0;alla;nej
+strumpor-man;Träningsstrumpor för Män: Komfort och Prestanda i Fokus;manuell;28;28;0.0;10.7;0.0;89.3;0.0;alla;nej
+strumpor-herr;Strumpor - Herr;manuell;28;28;0.0;10.7;0.0;89.3;0.0;alla;nej
+cykelshorts-dam;Cykelshorts - Dam;manuell;28;28;100.0;0.0;0.0;0.0;0.0;alla;nej
+jumpsuit;Jumpsuit - Kvinna;manuell;36;28;100.0;0.0;0.0;0.0;0.0;alla;nej
+cropped-t-shirt;Cropped T-shirt;manuell;28;28;85.7;14.3;0.0;0.0;0.0;alla;nej
+sommartroja-dam;Sommartröja - Dam;manuell;28;28;92.9;3.6;0.0;3.6;0.0;alla;nej
+kamouflageklader-dam;Kamouflagekläder - Dam;manuell;28;28;78.6;7.1;0.0;14.3;0.0;alla;nej
+hotpants-dam;Hotpants - Dam;manuell;28;28;100.0;0.0;0.0;0.0;0.0;alla;nej
+trendiga-solglasogon-dam;Trendiga Solglasögon - Dam;manuell;28;28;10.7;0.0;0.0;89.3;0.0;alla;nej
+halsdukar;Halsdukar;manuell;34;27;3.7;0.0;3.7;74.1;18.5;alla;nej
+halsduk-herr-och-dam;Halsduk - Herr och Dam;manuell;34;27;3.7;0.0;3.7;74.1;18.5;alla;nej
+just-rhyse-dam;Just Rhyse - Dam;manuell;35;27;100.0;0.0;0.0;0.0;0.0;alla;nej
+kamouflage-jackor-herr;Kamouflage Jackor - Herr;manuell;27;27;3.7;92.6;0.0;0.0;3.7;alla;nej
+womens-bestsellers-last-60-days;Dam - Bästsäljare;manuell;28;27;63.0;0.0;0.0;37.0;0.0;alla;nej
+urban-classics-underklader-dam;Urban Classics - Underkläder - Dam;manuell;26;26;100.0;0.0;0.0;0.0;0.0;alla;nej
+sommar-hoodie-dam;Sommar Hoodie - Dam;manuell;26;26;96.2;0.0;0.0;3.8;0.0;alla;nej
+gymvaska-1;Gymväska;manuell;27;26;0.0;0.0;3.8;84.6;11.5;alla;nej
+brandit-byxor-herr;Brandit Byxor - Herr;manuell;26;25;12.0;60.0;0.0;0.0;28.0;alla;nej
+festklanning-dam;Festklänning - Dam;manuell;25;25;100.0;0.0;0.0;0.0;0.0;alla;nej
+klader-med-film-musik-och-pop-motiv-herr-dam;Kläder Med Film, Musik och POP Motiv - Herr & Dam;manuell;1475;25;0.0;96.0;0.0;4.0;0.0;forsta_300;nej
+fleecejackor-dam;Fleecejackor - Dam;manuell;26;25;88.0;0.0;0.0;12.0;0.0;alla;nej
+underwear-kvinna;Sportunderkläder för Damer: Komfort och Prestanda i Fokus;manuell;24;24;100.0;0.0;0.0;0.0;0.0;alla;nej
+skjorta-dam;Skjorta - Dam;manuell;24;24;95.8;0.0;0.0;4.2;0.0;alla;nej
+mstrds-man-och-kvinna-1;MSTRDS - Man och Kvinna;manuell;29;24;4.2;4.2;0.0;79.2;12.5;alla;nej
+mobilskal;Mobilskal;manuell;24;24;0.0;0.0;0.0;41.7;58.3;alla;nej
+high-waist-byxor-dam;High Waist Byxor - Dam;manuell;25;24;100.0;0.0;0.0;0.0;0.0;alla;nej
+svart-topp-dam;Svart Topp - Dam;manuell;28;24;100.0;0.0;0.0;0.0;0.0;alla;nej
+kamouflage-kepsar;Kamouflage Kepsar;manuell;24;24;0.0;0.0;0.0;91.7;8.3;alla;nej
+armband-man;Armband - Man;manuell;23;23;0.0;0.0;0.0;100.0;0.0;alla;nej
+kamouflage-klader-herr;Kamouflage Kläder - Herr;manuell;23;23;0.0;69.6;0.0;26.1;4.3;alla;nej
+svarta-jeans-herr;Svarta Jeans - Herr;manuell;24;23;0.0;87.0;0.0;4.3;8.7;alla;nej
+klader-for-jobbintervju-herr;Kläder För Jobbintervju - Herr;manuell;23;23;0.0;78.3;0.0;21.7;0.0;alla;nej
+skor-herr;Skor - Herr;manuell;23;23;0.0;78.3;0.0;21.7;0.0;alla;nej
+starter-black-label-woman;Starter Black Label - Woman;manuell;29;22;72.7;0.0;0.0;27.3;0.0;alla;nej
+crop-top;Crop Top;manuell;22;22;95.5;0.0;0.0;0.0;4.5;alla;nej
+boxerkalsonger;Boxerkalsonger;manuell;30;22;0.0;95.5;0.0;0.0;4.5;alla;nej
+stickat-herr;Stickat - Herr;manuell;21;21;0.0;100.0;0.0;0.0;0.0;alla;nej
+underklader-dam;Underkläder - Dam;manuell;21;21;100.0;0.0;0.0;0.0;0.0;alla;nej
+vast-kvinna;Väst - Kvinna;manuell;21;21;95.2;0.0;0.0;4.8;0.0;alla;nej
+halsduk-kvinna;Halsduk - Kvinna;manuell;21;21;4.8;0.0;0.0;95.2;0.0;alla;nej
+halsduk-kvinna-1;Halsduk - Kvinna;manuell;21;21;4.8;0.0;0.0;95.2;0.0;alla;nej
+kofta-dam;Kofta - Dam;manuell;32;21;100.0;0.0;0.0;0.0;0.0;alla;nej
+urban-classics-badbyxor;Urban Classics - Badbyxor;manuell;23;21;0.0;100.0;0.0;0.0;0.0;alla;nej
+mister-tee-hoodie-dam;Mister Tee - Hoodie - Dam;manuell;70;21;95.2;0.0;0.0;4.8;0.0;alla;nej
+trojor-i-ekologiskt-bomull-dam;Tröjor I Ekologiskt Bomull - Dam;manuell;21;21;100.0;0.0;0.0;0.0;0.0;alla;nej
+sneakers-herr;Sneakers - Herr;manuell;23;21;0.0;95.2;0.0;4.8;0.0;alla;nej
+populara-produkter-man;Populära produkter - Man;manuell;22;20;0.0;85.0;0.0;15.0;0.0;alla;nej
+halsduk-man;Halsduk - Man;manuell;20;20;0.0;0.0;0.0;100.0;0.0;alla;nej
+halsduk-herr;Halsduk - Herr;manuell;20;20;0.0;0.0;0.0;100.0;0.0;alla;nej
+kamouflage-klader-dam;Kamouflage Kläder - Dam;manuell;26;20;55.0;10.0;0.0;25.0;10.0;alla;nej
+satinklader-dam;Satinkläder - Dam;manuell;25;20;85.0;0.0;0.0;15.0;0.0;alla;nej
+loose-fit-jeans-herr;Loose Fit Jeans - Herr;manuell;19;19;0.0;100.0;0.0;0.0;0.0;alla;nej
+fleece-trojor-herr;Fleece Tröjor - Herr;manuell;19;19;0.0;100.0;0.0;0.0;0.0;alla;nej
+fleece-troja-man;Fleece Tröja - Man;manuell;19;19;0.0;100.0;0.0;0.0;0.0;alla;nej
+fleece-troja-herr;Fleece Tröja - Herr;manuell;19;19;0.0;100.0;0.0;0.0;0.0;alla;nej
+fleece-troja-herr-1;Fleece Tröja - Herr;manuell;19;19;0.0;100.0;0.0;0.0;0.0;alla;nej
+rocawear-dam;Rocawear - Dam;manuell;23;19;78.9;0.0;0.0;21.1;0.0;alla;nej
+forvert-herr;Forvert - Herr;manuell;19;19;0.0;57.9;0.0;42.1;0.0;alla;nej
+turtleneck-dam;Turtleneck - Dam;manuell;19;19;100.0;0.0;0.0;0.0;0.0;alla;nej
+starter-black-label-troja-herr;Starter Black Label - Tröja - Herr;manuell;19;19;10.5;89.5;0.0;0.0;0.0;alla;nej
+starter-black-label-troja-dam;Starter Black Label - Tröja - Dam;manuell;19;19;10.5;89.5;0.0;0.0;0.0;alla;nej
+billiga-byxor-herr;Billiga Byxor - Herr;manuell;48;19;0.0;94.7;0.0;5.3;0.0;alla;nej
+rund-solglasogon-herr;Rund Solglasögon - Herr;manuell;19;19;0.0;0.0;0.0;100.0;0.0;alla;nej
+fargglada-skjortor-herr;Färgglada Skjortor - Herr;manuell;20;19;0.0;89.5;0.0;5.3;5.3;alla;nej
+trojor-dam-herr-homepage;Tröjor: Dam & Herr - Homepage;manuell;19;19;15.8;42.1;0.0;5.3;36.8;alla;nej
+jeans-herr-dam-homepage;Jeans - Herr & Dam - Homepage;manuell;20;19;73.7;15.8;0.0;0.0;10.5;alla;nej
+kepsar-homepage;kepsar homepage;manuell;23;19;0.0;0.0;0.0;94.7;5.3;alla;nej
+hoodie-cropped-kvinna;Hoodie Cropped - Kvinna;manuell;18;18;100.0;0.0;0.0;0.0;0.0;alla;nej
+badklader-dam;Badkläder - Dam;manuell;18;18;100.0;0.0;0.0;0.0;0.0;alla;nej
+brandit-shorts-herr;Brandit Shorts - Herr;manuell;20;18;0.0;83.3;0.0;0.0;16.7;alla;nej
+urban-classics-kalsonger;Urban Classics - Kalsonger;manuell;18;18;0.0;100.0;0.0;0.0;0.0;alla;nej
+urban-classics-kvinna-homepage;Urban Classics - Kvinna - Homepage;manuell;18;18;100.0;0.0;0.0;0.0;0.0;alla;nej
+handskar-man;Handskar;manuell;17;17;0.0;11.8;0.0;88.2;0.0;alla;nej
+badklader-herr;Badkläder - Herr;manuell;17;17;0.0;100.0;0.0;0.0;0.0;alla;nej
+forvert-dam-1;Forvert - Dam;manuell;17;17;52.9;0.0;0.0;47.1;0.0;alla;nej
+mstrds-solglasogon;MSTRDS - Solglasögon;manuell;31;17;11.8;0.0;0.0;70.6;17.6;alla;nej
+oversized-troja-dam;Oversized Tröja - Dam;manuell;17;17;100.0;0.0;0.0;0.0;0.0;alla;nej
+brandit-motorhead;Brandit - Motörhead;manuell;20;17;0.0;82.4;0.0;17.6;0.0;alla;nej
+essentials-barn;Essentials barn – basplagg för barn;manuell;27;17;0.0;0.0;0.0;0.0;100.0;alla;nej
+populara-produkter-kvinna;Populära produkter - Kvinna;manuell;19;16;75.0;0.0;0.0;25.0;0.0;alla;nej
+brandit-vinterjacka-herr;Brandit - Vinterjacka - Herr;manuell;17;16;0.0;100.0;0.0;0.0;0.0;alla;nej
+brandit-t-shirt-herr;Brandit - T-shirt - Herr;manuell;17;16;0.0;93.8;0.0;6.2;0.0;alla;nej
+sports-bra-kvinna;SPORT BH: STIL, KOMFORT OCH PRESTANDA;manuell;38;15;100.0;0.0;0.0;0.0;0.0;alla;nej
+handskar-kvinna;Handskar - Kvinna;manuell;15;15;0.0;0.0;0.0;100.0;0.0;alla;nej
+jacka-pojke;Jacka - Pojke;manuell;16;15;0.0;0.0;0.0;0.0;100.0;alla;nej
+utsvangda-byxor-dam;Utsvängda Byxor - Dam;manuell;15;15;100.0;0.0;0.0;0.0;0.0;alla;nej
+thug-life-herr;Thug Life - Herr;manuell;17;15;0.0;86.7;0.0;13.3;0.0;alla;nej
+utsvangda-byxor-dam-1;Utsvängda Byxor - Dam;manuell;15;15;100.0;0.0;0.0;0.0;0.0;alla;nej
+trojor-i-ekologiskt-bomull-herr;Tröjor I Ekologiskt Bomull - Herr;manuell;15;15;0.0;93.3;0.0;6.7;0.0;alla;nej
+t-shirts-i-ekologiskt-bomull-dam;T-shirts I Ekologiskt Bomull - Dam;manuell;15;15;100.0;0.0;0.0;0.0;0.0;alla;nej
+vintertillbehor-homepage;Vintertillbehör - Homepage;manuell;15;15;0.0;0.0;0.0;93.3;6.7;alla;nej
+forgotten-faces;Forgotten Faces;manuell;25;15;0.0;100.0;0.0;0.0;0.0;alla;nej
+byxor-man;Träningsbyxor för Herrar: Prestanda och Stil i Perfekt Harmoni;manuell;18;14;0.0;92.9;7.1;0.0;0.0;alla;nej
+troja-1-4-zip-herr-2;Tröja 1/4 Zip - Herr;manuell;14;14;0.0;100.0;0.0;0.0;0.0;alla;nej
+jacka-flicka;Jacka - Flicka;manuell;14;14;0.0;0.0;0.0;0.0;100.0;alla;nej
+herrklader-2pac;Herrkläder - 2Pac;manuell;17;14;0.0;100.0;0.0;0.0;0.0;alla;nej
+brandit-iron-maiden;Brandit - Iron Maiden;manuell;19;14;0.0;64.3;0.0;35.7;0.0;alla;nej
+brandit-cooper-backpack;Brandit - Cooper Backpack;manuell;15;14;0.0;0.0;7.1;78.6;14.3;alla;nej
+sommarskjorta-herr;Sommarskjorta - Herr;manuell;14;14;7.1;85.7;0.0;0.0;7.1;alla;nej
+sommartroja-herr;Sommartröja - Herr;manuell;14;14;0.0;100.0;0.0;0.0;0.0;alla;nej
+runda-solglasogon-dam;Runda Solglasögon - Dam;manuell;14;14;0.0;0.0;0.0;100.0;0.0;alla;nej
+9n1m-sense-herr-och-dam;9N1M Sense – Herr och dam;manuell;40;14;0.0;85.7;0.0;14.3;0.0;alla;nej
+randiga-trojor-dam;Randiga tröjor - Dam;manuell;14;14;100.0;0.0;0.0;0.0;0.0;alla;nej
+scrunch-tights;Scrunch Tights;manuell;24;13;69.2;0.0;0.0;0.0;30.8;alla;nej
+underklader-herr;Underkläder - Herr;manuell;13;13;0.0;100.0;0.0;0.0;0.0;alla;nej
+byxor-pojke;Byxor - Pojke;manuell;13;13;0.0;0.0;0.0;0.0;100.0;alla;nej
+jeansshorts-herr;Jeansshorts - Herr;manuell;14;13;0.0;92.3;0.0;7.7;0.0;alla;nej
+svart-jean-dam;Svarta Jeans - Dam;manuell;14;13;100.0;0.0;0.0;0.0;0.0;alla;nej
+star-wars-klader-herr-dam;Star Wars Kläder - Herr & Dam;manuell;22;13;0.0;61.5;0.0;0.0;38.5;alla;nej
+ryggsack-homepage;Ryggsäck - Homepage;manuell;13;13;0.0;0.0;7.7;53.8;38.5;alla;nej
+jacket-kvinna;Träningsjacka för Damer: Kombinera Stil och Prestanda;manuell;12;12;91.7;0.0;0.0;8.3;0.0;alla;nej
+relode-kvinna;Relode - Kvinna;manuell;12;12;100.0;0.0;0.0;0.0;0.0;alla;nej
+byxor-barn;Byxor: Flicka;manuell;12;12;0.0;0.0;0.0;0.0;100.0;alla;nej
+tote-bag;Tote Bag;manuell;12;12;50.0;0.0;0.0;25.0;25.0;alla;nej
+thug-life-dam;Thug Life - Dam;manuell;13;12;83.3;0.0;0.0;16.7;0.0;alla;nej
+sommarskjorta-dam;Sommarskjorta - Dam;manuell;12;12;91.7;8.3;0.0;0.0;0.0;alla;nej
+barrel-jeans-dam;Barrel Jeans - Dam;manuell;12;12;100.0;0.0;0.0;0.0;0.0;alla;nej
+vinterjacka-herr-homepage;Vinterjacka - Herr - Homepage;manuell;12;12;0.0;100.0;0.0;0.0;0.0;alla;nej
+solglasogon-homepage;solglasögon homepage;manuell;13;12;8.3;0.0;0.0;83.3;8.3;alla;nej
+short-sleeve-man;Träningströja för Herrar: Stil, Prestanda och Komfort;manuell;17;11;0.0;100.0;0.0;0.0;0.0;alla;nej
+linne-kvinna;TRÄNINGSLINNE FÖR KVINNOR: STIL,KOMFORT OCH PRESTANDA;manuell;11;11;100.0;0.0;0.0;0.0;0.0;alla;nej
+korta-strumpor-kvinna;Korta Strumpor - Kvinna;manuell;12;11;45.5;0.0;0.0;54.5;0.0;alla;nej
+brandit-barnklader;Brandit - Barnkläder;manuell;11;11;0.0;0.0;0.0;0.0;100.0;alla;nej
+starter-black-label-traningsklader-herr;Starter Black Label - Träningskläder - Herr;manuell;11;11;0.0;90.9;0.0;9.1;0.0;alla;nej
+t-shirts-i-ekologiskt-bomull-herr;T-shirts I Ekologiskt Bomull - Herr;manuell;11;11;9.1;90.9;0.0;0.0;0.0;alla;nej
+coca-cola-klader-herr-dam;Coca Cola kläder - Herr & Dam;manuell;17;11;0.0;72.7;0.0;27.3;0.0;alla;nej
+skaljacka-barn;Skaljacka - Barn;manuell;11;11;0.0;0.0;0.0;0.0;100.0;alla;nej
+bambuklader-herr-dam;Bambukläder - Herr & Dam;manuell;12;11;63.6;18.2;0.0;9.1;9.1;alla;nej
+short-sleeve-kvinna;Träningströja för Damer: Prestanda, Komfort och Stil;manuell;14;10;100.0;0.0;0.0;0.0;0.0;alla;nej
+underwear-man;Träningsunderkläder för Herrar: Komfort och Prestanda i Fokus;manuell;11;10;0.0;100.0;0.0;0.0;0.0;alla;nej
+handskar;Handskar;manuell;11;10;0.0;10.0;0.0;80.0;10.0;alla;nej
+shorts-pojke;Shorts - Pojke;manuell;10;10;0.0;0.0;0.0;0.0;100.0;alla;nej
+green-day-klader-herr-dam;Green Day Kläder - Herr & Dam;manuell;12;10;0.0;60.0;0.0;40.0;0.0;alla;nej
+skosnoren;Skosnören;manuell;10;10;0.0;10.0;0.0;30.0;60.0;alla;nej
+varjacka-herr;VårJacka-Herr;manuell;10;10;0.0;100.0;0.0;0.0;0.0;alla;nej
+varjacka-dam-2;VårJacka- Dam 2;manuell;10;10;80.0;0.0;0.0;0.0;20.0;alla;nej
+jacket-man;Träningsjacka för Herrar: Prestanda, Stil och Skydd i Perfekt Harmoni;manuell;9;9;0.0;88.9;0.0;11.1;0.0;alla;nej
+relode-tights-women;Relode Tights - Kvinna;manuell;9;9;100.0;0.0;0.0;0.0;0.0;alla;nej
+kofta-man;Kofta - Man;manuell;14;9;0.0;100.0;0.0;0.0;0.0;alla;nej
+brandit-varjacka-dam;Brandit - Vårjacka - Dam;manuell;9;9;100.0;0.0;0.0;0.0;0.0;alla;nej
+brandit-cargobyxor-herr;Brandit - Cargobyxor - Herr;manuell;9;9;0.0;100.0;0.0;0.0;0.0;alla;nej
+axelremmsvaskor;Axelremmsväskor;manuell;14;9;0.0;0.0;0.0;66.7;33.3;alla;nej
+parkasjackor-dam;Parkasjackor - Dam;manuell;9;9;100.0;0.0;0.0;0.0;0.0;alla;nej
+parkasjackor-herr;Parkasjackor - Herr;manuell;10;9;0.0;100.0;0.0;0.0;0.0;alla;nej
+skor-kvinna;Träningsskor för Damer: Stil, Komfort och Prestanda;manuell;8;8;25.0;0.0;0.0;75.0;0.0;alla;nej
+under-armour;Under Armour;manuell;8;8;62.5;37.5;0.0;0.0;0.0;alla;nej
+loose-fit-jeans-kvinna;Loose Fit Jeans - Kvinna;manuell;8;8;100.0;0.0;0.0;0.0;0.0;alla;nej
+jeanskjol;Jeanskjol;manuell;8;8;100.0;0.0;0.0;0.0;0.0;alla;nej
+kortarmad-skjorta-kvinna;Kortärmad Skjorta - Kvinna;manuell;8;8;100.0;0.0;0.0;0.0;0.0;alla;nej
+starter-black-label-traningsklader-dam;Starter Black Label - Träningskläder - Dam;manuell;8;8;87.5;0.0;0.0;12.5;0.0;alla;nej
+brandit-vindjacka-herr;Brandit - Vindjacka - Herr;manuell;8;8;0.0;100.0;0.0;0.0;0.0;alla;nej
+southpole-jeans;Southpole - Jeans;manuell;27;8;0.0;75.0;0.0;0.0;25.0;alla;nej
+langa-trojor-herr;Långa Tröjor - Herr;manuell;8;8;0.0;100.0;0.0;0.0;0.0;alla;nej
+triangel-bikini;Triangel Bikini;manuell;11;8;100.0;0.0;0.0;0.0;0.0;alla;nej
+kamouflage-jackor-dam;Kamouflage Jackor - Dam;manuell;8;8;87.5;0.0;0.0;0.0;12.5;alla;nej
+ac-dc-t-shirt-herr-dam;AC/DC T-shirt Herr & Dam;manuell;8;8;25.0;75.0;0.0;0.0;0.0;alla;nej
+julstrumpor-herr-dam;Julstrumpor - Herr & Dam;manuell;8;8;0.0;37.5;0.0;37.5;25.0;alla;nej
+tubelaces;Tubelaces;manuell;23;8;0.0;12.5;0.0;50.0;37.5;alla;nej
+randiga-trojor-herr;Randiga Tröjor - Herr;manuell;8;8;0.0;87.5;0.0;0.0;12.5;alla;nej
+flerpack-herr;Flerpack - Herr;manuell;8;8;0.0;87.5;0.0;12.5;0.0;alla;nej
+linne-man;TRÄNINGSLINNE FÖR MÄN: STIL, KOMFORT OCH PRESTANDA;manuell;8;7;0.0;100.0;0.0;0.0;0.0;alla;nej
+tapered-fit-jeans-herr;Tapered Fit Jeans - Herr;manuell;7;7;0.0;100.0;0.0;0.0;0.0;alla;nej
+ringar-kvinna;Ringar - Kvinna;manuell;7;7;42.9;0.0;0.0;57.1;0.0;alla;nej
+troja-pojke;Tröja - Pojke;manuell;7;7;0.0;0.0;0.0;0.0;100.0;alla;nej
+tillbehor-barn;Tillbehör - Barn;manuell;7;7;0.0;0.0;0.0;0.0;100.0;alla;nej
+pike-dam;Piké - Kvinna;manuell;8;7;100.0;0.0;0.0;0.0;0.0;alla;nej
+def-t-shirt-dam;DEF - T-shirt - Dam;manuell;20;7;100.0;0.0;0.0;0.0;0.0;alla;nej
+harband;Hårband;manuell;10;7;100.0;0.0;0.0;0.0;0.0;alla;nej
+midikjolar-dam;Midikjol - Dam;manuell;7;7;100.0;0.0;0.0;0.0;0.0;alla;nej
+graphic-t-shirt-herr;Graphic t-shirt - Herr;manuell;7;7;0.0;85.7;14.3;0.0;0.0;alla;nej
+t-shirt-homepage;T-shirt -homepage;manuell;7;7;42.9;57.1;0.0;0.0;0.0;alla;nej
+t-shirt-tryck-homepage;t-shirt tryck homepage;manuell;7;7;14.3;85.7;0.0;0.0;0.0;alla;nej
+under-armour-kvinna;Under Armour - Kvinna;manuell;10;6;100.0;0.0;0.0;0.0;0.0;alla;nej
+gavelo-woman-alla-produkter;ALLA GAVELO PRODUKTER: DAMER;manuell;6;6;100.0;0.0;0.0;0.0;0.0;alla;nej
+keps-stativ;Keps Stativ;manuell;12;6;0.0;0.0;0.0;16.7;83.3;alla;nej
+korta-strumpor-man;Korta Strumpor - Man;manuell;6;6;0.0;16.7;0.0;83.3;0.0;alla;nej
+troja-flicka;Tröja - Flicka;manuell;6;6;0.0;0.0;0.0;0.0;100.0;alla;nej
+flerpack-dam;Flerpack - Dam;manuell;6;6;83.3;0.0;0.0;16.7;0.0;alla;nej
+byxor-dam;Träningsbyxor för Damer: Stil, Komfort och Prestanda i Perfekt Harmoni;manuell;7;5;100.0;0.0;0.0;0.0;0.0;alla;nej
+gavelo-tights-kvinna;GAVELO TIGHTS;manuell;5;5;100.0;0.0;0.0;0.0;0.0;alla;nej
+hoodie-med-tryck-kvinna;Hoodie Med Tryck - Kvinna;manuell;5;5;100.0;0.0;0.0;0.0;0.0;alla;nej
+klanning-flicka;Klänning - Flicka;manuell;5;5;0.0;0.0;0.0;0.0;100.0;alla;nej
+shorts-flicka;Shorts - Flicka;manuell;5;5;0.0;0.0;0.0;0.0;100.0;alla;nej
+balte-herr;Bälte - Barn;manuell;6;5;0.0;0.0;0.0;0.0;100.0;alla;nej
+brandit-vinterjacka-dam;Brandit - Vinterjacka - Dam;manuell;5;5;100.0;0.0;0.0;0.0;0.0;alla;nej
+brandit-herrjacka-m65;Brandit - Herrjacka M65;manuell;5;5;0.0;80.0;0.0;0.0;20.0;alla;nej
+hoodie-med-dragkedja-kvinna;Hoodie Med Dragkedja - Kvinna;manuell;4;4;100.0;0.0;0.0;0.0;0.0;alla;nej
+fleece-trojor-kvinna;Fleece Tröjor - Kvinna;manuell;5;4;100.0;0.0;0.0;0.0;0.0;alla;nej
+lader-konstlader-jacka-kvinna;Läder- Konstläder Jacka - Kvinna;manuell;4;4;100.0;0.0;0.0;0.0;0.0;alla;nej
+fleece-troja-dam-1;Fleece Tröja - Dam;manuell;5;4;100.0;0.0;0.0;0.0;0.0;alla;nej
+fleece-troja-dam-2;Fleece Tröja - Dam;manuell;4;4;100.0;0.0;0.0;0.0;0.0;alla;nej
+jeansjacka-dam;Jeansjacka - Dam;manuell;4;4;100.0;0.0;0.0;0.0;0.0;alla;nej
+pike-herr;Piké - Herr;manuell;8;4;0.0;100.0;0.0;0.0;0.0;alla;nej
+turtleneck-herr;Turtleneck - Herr;manuell;4;4;0.0;100.0;0.0;0.0;0.0;alla;nej
+brandit-skjorta-dam;Brandit - Skjorta - Dam;manuell;4;4;75.0;0.0;0.0;25.0;0.0;alla;nej
+brandit-britannia-jacket-herr-dam-1;Brandit Britannia Jacket  - Herr & Dam;manuell;5;4;25.0;50.0;0.0;0.0;25.0;alla;nej
+thug-life-hoodie-herr;Thug life - Hoodie - Herr;manuell;4;4;0.0;100.0;0.0;0.0;0.0;alla;nej
+skor-dam;Skor - Dam;manuell;4;4;25.0;0.0;0.0;75.0;0.0;alla;nej
+glansiga-leggings;Glansiga leggings;manuell;4;4;100.0;0.0;0.0;0.0;0.0;alla;nej
+under-armour-man;Under Armour - Man;manuell;11;3;0.0;100.0;0.0;0.0;0.0;alla;nej
+cln-tights;CLN Athletics Tights;manuell;3;3;66.7;33.3;0.0;0.0;0.0;alla;nej
+relode;Relode;manuell;3;3;100.0;0.0;0.0;0.0;0.0;alla;nej
+byou-seamless-hipster-thong;BYOU - Seamless Hipster & Thong;manuell;3;3;100.0;0.0;0.0;0.0;0.0;alla;nej
+traningshoodie-kvinna-man;Träningshoodie - Kvinna & Man;manuell;15;3;0.0;66.7;0.0;0.0;33.3;alla;nej
+lader-keps;Läder Keps - Konstläder;manuell;3;3;0.0;0.0;0.0;100.0;0.0;alla;nej
+jeansshorts-kvinna;Jeansshorts - Kvinna;manuell;3;3;100.0;0.0;0.0;0.0;0.0;alla;nej
+kappa-herr;Kappa - Herr;manuell;3;3;0.0;100.0;0.0;0.0;0.0;alla;nej
+kappa-kvinna;Kappa - Kvinna;manuell;4;3;100.0;0.0;0.0;0.0;0.0;alla;nej
+lader-konstlader-jacka-man;Läder- Konstläder Jacka - Man;manuell;5;3;0.0;100.0;0.0;0.0;0.0;alla;nej
+jeansjacka-herr;Jeansjacka - Herr;manuell;3;3;0.0;100.0;0.0;0.0;0.0;alla;nej
+kavaj-dam;Kavaj - Dam;manuell;16;3;100.0;0.0;0.0;0.0;0.0;alla;nej
+brandit-vindjacka-dam;Brandit - Vindjacka - Dam;manuell;3;3;100.0;0.0;0.0;0.0;0.0;alla;nej
+brandit-cargobyxor-dam;Brandit - Cargobyxor - Dam;manuell;3;3;100.0;0.0;0.0;0.0;0.0;alla;nej
+gymvaska;radera;manuell;3;3;0.0;0.0;0.0;66.7;33.3;alla;nej
+flerpack-barn;Flerpack - Barn;manuell;3;3;0.0;0.0;0.0;0.0;100.0;alla;nej
+tights-man;Träningstights för Herrar: Stil, Funktion och Komfort;manuell;2;2;0.0;100.0;0.0;0.0;0.0;alla;nej
+cln-athletics-kvinna;CLN Athletics - Kvinna;manuell;2;2;100.0;0.0;0.0;0.0;0.0;alla;nej
+cln-athletics-kvinna-man;CLN Athletics Träningskläder - Kvinna & Man;manuell;2;2;50.0;50.0;0.0;0.0;0.0;alla;nej
+under-armour-tights;Under Armour Tights;manuell;3;2;50.0;50.0;0.0;0.0;0.0;alla;nej
+cln-athletics-tights-kvinna;CLN Athletics Tights - Kvinna;manuell;2;2;100.0;0.0;0.0;0.0;0.0;alla;nej
+traningsset-top-and-bottom;Träningsset - Top and Bottom;manuell;3;2;50.0;0.0;0.0;0.0;50.0;alla;nej
+kompressionstights;Kompressionstights - Kvinna;manuell;2;2;100.0;0.0;0.0;0.0;0.0;alla;nej
+nyheter-nya-produkter;Nyheter - Nya Produkter;manuell;14;2;0.0;0.0;0.0;0.0;100.0;alla;nej
+tapered-fit-jeans-kvinna;Tapered Fit Jeans - Kvinna;manuell;2;2;100.0;0.0;0.0;0.0;0.0;alla;nej
+skinny-jeans-dam;Skinny Jeans - Dam;manuell;2;2;100.0;0.0;0.0;0.0;0.0;alla;nej
+kavaj-herr;Kavaj - Herr;manuell;2;2;0.0;100.0;0.0;0.0;0.0;alla;nej
+just-rhyse-klanning;Just Rhyse - Klänning;manuell;7;2;100.0;0.0;0.0;0.0;0.0;alla;nej
+frontpage;Nyheter;manuell;9;1;100.0;0.0;0.0;0.0;0.0;alla;nej
+loparskor-kvinna;Löparskor - Kvinna;manuell;1;1;0.0;0.0;0.0;100.0;0.0;alla;nej
+svettband-kvinna;SVETTBAND FÖR KVINNOR: STIL, KOMFORT OCH PRESTANDA;manuell;3;1;100.0;0.0;0.0;0.0;0.0;alla;nej
+svettband-man;SVETTBAND FÖR MÄN: STIL, KOMFORT OCH PRESTANDA;manuell;3;1;100.0;0.0;0.0;0.0;0.0;alla;nej
+cln-athletics-man;CLN Athletics - Man;manuell;1;1;0.0;100.0;0.0;0.0;0.0;alla;nej
+under-armour-tights-kvinna;Under Armour Tights - Kvinna;manuell;1;1;100.0;0.0;0.0;0.0;0.0;alla;nej
+under-armour-tights-man;Under Armour Tights - Man;manuell;1;1;0.0;100.0;0.0;0.0;0.0;alla;nej
+cln-athletics-tights-man;CLN Athletics Tights - Man;manuell;1;1;0.0;100.0;0.0;0.0;0.0;alla;nej
+workout-brands-the-brand;Workout Brands;manuell;24;1;0.0;0.0;0.0;0.0;100.0;alla;nej
+gavelo-man-alla-produkter;ALLA GAVELO PRODUKTER: HERRAR;manuell;1;1;0.0;100.0;0.0;0.0;0.0;alla;nej
+cargo-tights;GAVELO CARGO TIGHTS;manuell;1;1;100.0;0.0;0.0;0.0;0.0;alla;nej
+vattenflaska-1;Vattenflaska;manuell;2;1;0.0;0.0;100.0;0.0;0.0;alla;nej
+hypr;HYPR;manuell;4;1;0.0;0.0;0.0;0.0;100.0;alla;nej
+hypr-energy-drink;HYPR Energy Drink;manuell;1;1;0.0;0.0;0.0;0.0;100.0;alla;nej
+hypr-klader;HYPR Kläder;manuell;4;1;0.0;0.0;0.0;0.0;100.0;alla;nej
+klanning-dam-1;Klänning - Dam;manuell;1;1;0.0;0.0;0.0;100.0;0.0;alla;nej
+linnebyxor-herr;Linnebyxor - Herr;manuell;1;1;0.0;100.0;0.0;0.0;0.0;alla;nej
+brandit-t-shirt-dam;Brandit - T-shirt - Dam;manuell;1;1;0.0;0.0;0.0;100.0;0.0;alla;nej
+brandit-us-cooper-shoulder-bag;Brandit US Cooper Shoulder Bag;manuell;1;1;0.0;0.0;0.0;100.0;0.0;alla;nej
+bekvama-klader-dam;Kläder Med Tryck - Dam;manuell;1;1;100.0;0.0;0.0;0.0;0.0;alla;nej
+days-beyond;Days Beyond;manuell;4;1;100.0;0.0;0.0;0.0;0.0;alla;nej
+streetwear-nyheter-herr-dam-1;Streetwear Nyheter - Herr & Dam;manuell;14964;1;100.0;0.0;0.0;0.0;0.0;forsta_300;nej
+home-start-collection;colection 2;manuell;0;0;0;0;0;0;0;alla;nej
+collection-1;Collection 1;manuell;0;0;0;0;0;0;0;alla;nej
+collection-3;collection 3;manuell;0;0;0;0;0;0;0;alla;nej
+hoodie-kvinna;Träningshoodie för Damer: Stil, Komfort och Funktion;manuell;1;0;0;0;0;0;0;alla;nej
+hoodie-man;Träningshoodie för Herrar: Stil, Komfort och Funktion;manuell;2;0;0;0;0;0;0;alla;nej
+traningsskor-kvinna;Träningsskor - Kvinna;manuell;0;0;0;0;0;0;0;alla;nej
+traningssko;Träningsskor;manuell;0;0;0;0;0;0;0;alla;nej
+sneakers;Sneakers;manuell;0;0;0;0;0;0;0;alla;nej
+sneakers-kvinna;Sneakers - Kvinna;manuell;0;0;0;0;0;0;0;alla;nej
+loparskor;Löparskor;manuell;1;0;0;0;0;0;0;alla;nej
+bastsaljare-skor-kvinna;Bästsäljare Skor - Kvinna;manuell;0;0;0;0;0;0;0;alla;nej
+bastsaljare-skor-man;Bästsäljare Skor - Man;manuell;0;0;0;0;0;0;0;alla;nej
+hovr-kvinna;Hovr - Kvinna;manuell;0;0;0;0;0;0;0;alla;nej
+hovr-man;Hovr - Man;manuell;0;0;0;0;0;0;0;alla;nej
+coldgear-kvinna;ColdGear - Kvinna;manuell;0;0;0;0;0;0;0;alla;nej
+coldgear-man;ColdGear - Man;manuell;0;0;0;0;0;0;0;alla;nej
+astani-alla-produkter;Astani Wear Damer: Innovativ Design och Passform i Fokus;manuell;62;0;0;0;0;0;0;alla;nej
+astani-man;Astani Wear för Herrar: Innovativ Design och Passform i Fokus;manuell;28;0;0;0;0;0;0;alla;nej
+astani-wear-kvinna-man;Astani Wear - Kvinna & Man;manuell;54;0;0;0;0;0;0;alla;nej
+astani-tights;Astani Wear Tights;manuell;11;0;0;0;0;0;0;alla;nej
+workout-brands-kvinna-1;Workout Brands - Kvinna;manuell;8;0;0;0;0;0;0;alla;nej
+workout-brands-man-1;Workout Brands - Man;manuell;12;0;0;0;0;0;0;alla;nej
+gavelo-alla-produkter;Gavelo - Kvinna & Man;manuell;0;0;0;0;0;0;0;alla;nej
+seamless-tights;SEAMLESS TIGHTS;manuell;0;0;0;0;0;0;0;alla;nej
+db-journey;Db Journey;manuell;0;0;0;0;0;0;0;alla;nej
+resvaska;Resväska - För den aktiva resenären;manuell;0;0;0;0;0;0;0;alla;nej
+pullover-herrar;Pullover - Herrar;manuell;0;0;0;0;0;0;0;alla;nej
+pullover-damer;Pullover - Damer;manuell;0;0;0;0;0;0;0;alla;nej
+smycken;Smycken - radera;manuell;0;0;0;0;0;0;0;alla;nej
+test;test;manuell;0;0;0;0;0;0;0;alla;nej
+storleksguide-astani-ampario-oversize-t-shirt;Storleksguide - Astani - Ampario Oversize T-shirt;manuell;0;0;0;0;0;0;0;alla;nej
+svettband-for-dig-stil-komfort-och-prestanda;SVETTBAND FÖR DIG: STIL, KOMFORT OCH PRESTANDA;manuell;0;0;0;0;0;0;0;alla;nej
+vindjacka-kvinna;Vindjacka - Kvinna;manuell;0;0;0;0;0;0;0;alla;nej
+bomberjacka-herr;test;manuell;0;0;0;0;0;0;0;alla;nej
+klanning-dam;Klänning - Dam;manuell;0;0;0;0;0;0;0;alla;nej
+troja-1-4-zip-herr;test;manuell;0;0;0;0;0;0;0;alla;nej
+troja-1-4-zip-herr-1;test;manuell;0;0;0;0;0;0;0;alla;nej
+fleece-troja-dam;släng;manuell;0;0;0;0;0;0;0;alla;nej
+southpole-herr;Southpole - Herr;manuell;0;0;0;0;0;0;0;alla;nej
+starter-black-label-man-och-kvinna;Starter Black Label - Man och Kvinna - radera;manuell;0;0;0;0;0;0;0;alla;nej
+forvert-dam;radera;manuell;0;0;0;0;0;0;0;alla;nej
+linnebyxor-dam;Linnebyxor - Dam;manuell;0;0;0;0;0;0;0;alla;nej
+cloud5ive-dam;Cloud5ive - Dam;manuell;1;0;0;0;0;0;0;alla;nej
+brandit-britannia-jacket-herr-dam;raders;manuell;0;0;0;0;0;0;0;alla;nej
+brandit-herrskjorta;radera;manuell;0;0;0;0;0;0;0;alla;nej
+festklader-dam;Festkläder - Dam;manuell;0;0;0;0;0;0;0;alla;nej
+langa-trojor-herr-dm;raderra;manuell;0;0;0;0;0;0;0;alla;nej
+streetwear-nyheter-herr-dam;radera;manuell;0;0;0;0;0;0;0;alla;nej
+klader-med-tryck-fran-kanda-artister-filmer-stader-och-sportklubbar;Kläder med tryck från kända artister, filmer, städer och sportklubbar;manuell;0;0;0;0;0;0;0;alla;nej
+present-till-honom;Present till honom;manuell;0;0;0;0;0;0;0;alla;nej
+present-till-henne;Present till henne;manuell;0;0;0;0;0;0;0;alla;nej
+herr-bastsaljare-60-dagar;Herr - Bästsäljare;manuell;0;0;0;0;0;0;0;alla;nej
+klader-tv-spel;Kläder med TV-spelsinspirerade motiv;;7;0;0;0;0;0;0;alla;nej
