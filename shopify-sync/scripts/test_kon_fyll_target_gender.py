@@ -14,7 +14,12 @@ class Falsk:
         self.sleep = lambda s: None
 
     def graphql(self, q, v=None):
+        if "category{fullName}" in q:
+            return {"nodes": [{"id": g, "title": "t", "category": {"fullName": "Fel > Kategori"}} for g in v["ids"]]}
         if "metafieldsSet" in q:
+            ogiltiga = [m for m in v["m"] if self.p[int(m["ownerId"].split("/")[-1])].get("ogiltig")]
+            if ogiltiga:  # atomiskt: hela anropet nekas
+                return {"metafieldsSet": {"metafields": [], "userErrors": [{"field": ["metafields", "0"], "message": "Owner subtype does not match", "code": "INVALID_VALUE"}]}}
             for m in v["m"]:
                 i = int(m["ownerId"].split("/")[-1]); self.skrivna.append(i)
                 if not self.daligt:
@@ -84,6 +89,22 @@ class T(unittest.TestCase):
         # Metafield saknar ownerId (felet som stoppade första körningen); id och key finns.
         self.assertNotIn("ownerId}", k.SKRIV.split("userErrors")[0].split("metafields{")[1])
         self.assertIn("id key", k.SKRIV)
+
+    def test_ogiltig_produkt_stoppar_inte_resten_av_gruppen(self):
+        c = Falsk({1: P(), 2: P(ogiltig=True), 3: P()})
+        with tempfile.TemporaryDirectory() as d:
+            fel = os.path.join(d, "fel.csv")
+            r = k.kor(c, {1: "dam", 2: "dam", 3: "herr"}, skriv=True, fore_fil=os.path.join(d, "f.json"), fel_fil=fel, logg=lambda *_: None)
+            rad = open(fel, encoding="utf-8").read()
+        self.assertEqual(r["skrivna"], 2); self.assertEqual(r["misslyckade"], 1)
+        self.assertEqual(c.p[1]["tg"], [DAM]); self.assertIsNone(c.p[2]["tg"])
+        self.assertIn("2;Fel > Kategori;Owner subtype", rad)
+
+    def test_stopp_om_for_manga_misslyckade(self):
+        c = Falsk({i: P(ogiltig=True) for i in range(1, 6)})
+        with tempfile.TemporaryDirectory() as d:
+            r = k.kor(c, {i: "dam" for i in range(1, 6)}, skriv=True, fore_fil=os.path.join(d, "f.json"), max_fel=2, logg=lambda *_: None)
+        self.assertEqual(r["misslyckade"], 5)  # en grupp om fem prövas färdigt innan kontrollen
 
     def test_omkorning_hoppar_det_som_ar_gjort(self):
         c = Falsk({1: P(), 2: P()})

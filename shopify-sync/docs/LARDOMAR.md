@@ -329,3 +329,5 @@ Appen Velomarket3 arkiverade 2026-11-06 kl. 03:22–03:23 ett femtiotal produkte
 - **Regel:** kontrollera varje ny eller omskriven text mot dessa mönster före skrivning. Klistra inte in text direkt från ett chattgränssnitt utan att rensa attributen. Översätt inte från en källtext som innehåller dem, eftersom resterna följer med. Skriptet `shopify-sync/scripts/chatt_html_rester.py` räknar mönstren.
 
 - 2026-11-18, könsfältet (workoutbrands.com): mitt skript valde fältet `ownerId` på typen Metafield i mutationen metafieldsSet, som inte finns. Fakeklienten i testerna fångade det inte, och felet visade sig först i Davids körning. Regel: kontrollera varje fält i en ny mutation mot Shopifys schema (graphql_schema) innan skriptet lämnas till David, och lägg ett test som låser urvalsfälten.
+
+- 2026-11-18, könsfältet: standardfältet `shopify.target-gender` är begränsat till vissa produktkategorier (definitionens constraints). Produkter vars kategori inte ingår nekas med "Owner subtype does not match". Regel: kontrollera constraints och produkternas kategori före en stor metafältsskrivning; skriv enskilda produkter om en grupp nekas och lista de nekade med kategori.

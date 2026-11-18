@@ -21,6 +21,7 @@ VARDEN = {  # klass i mappningsfilen -> metaobjekt (Avsett för)
     "dam+herr": ["gid://shopify/Metaobject/115133645128", "gid://shopify/Metaobject/115381502280"],
 }
 LASA = '''query($ids:[ID!]!){nodes(ids:$ids){... on Product{id status tg:metafield(namespace:"shopify",key:"target-gender"){value}}}}'''
+KAT = '''query($ids:[ID!]!){nodes(ids:$ids){... on Product{id title category{fullName}}}}'''
 SKRIV = '''mutation($m:[MetafieldsSetInput!]!){metafieldsSet(metafields:$m){metafields{id key} userErrors{field message code}}}'''
 
 
@@ -122,38 +123,72 @@ def planera(klient, mapp, overskriv=False, logg=print):
     return skriv, hoppa, fore
 
 
-def skriv_grupp(klient, grupp, mapp):
+def _satt(klient, grupp, mapp):
     m = [{"ownerId": gid(i), "namespace": "shopify", "key": "target-gender", "type": "list.metaobject_reference",
           "value": json.dumps(VARDEN[mapp[i]])} for i in grupp]
-    d = klient.graphql(SKRIV, {"m": m})["metafieldsSet"]
-    if d["userErrors"]:
-        raise Stopp(f"userErrors: {d['userErrors'][:3]}")
+    return klient.graphql(SKRIV, {"m": m})["metafieldsSet"]["userErrors"]
+
+
+def _verifiera(klient, grupp, mapp):
     r = klient.graphql(LASA, {"ids": [gid(i) for i in grupp]})["nodes"]
     for i, n in zip(grupp, r):
         if tolka((n.get("tg") or {}).get("value")) != onskat(mapp[i]):
             raise Stopp(f"återläsning avviker för produkt {i}: {(n.get('tg') or {}).get('value')}")
 
 
-def kor(klient, mapp, skriv=False, max_n=0, fore_fil=None, overskriv=False, logg=print):
+def skriv_grupp(klient, grupp, mapp):
+    """Skriver en grupp. Vid fel i gruppen provas varje produkt för sig. Returnerar lista (id, felmeddelande)."""
+    fel = _satt(klient, grupp, mapp)
+    if not fel:
+        _verifiera(klient, grupp, mapp)
+        return []
+    misslyckade, ok = [], []
+    for i in grupp:
+        e = _satt(klient, [i], mapp)
+        if e:
+            misslyckade.append((i, "; ".join(x["message"] for x in e)))
+        else:
+            ok.append(i)
+    if ok:
+        _verifiera(klient, ok, mapp)
+    return misslyckade
+
+
+def kor(klient, mapp, skriv=False, max_n=0, fore_fil=None, overskriv=False, fel_fil=None, max_fel=50, logg=print):
     att, hoppa, fore = planera(klient, mapp, overskriv, logg)
     logg(f"att skriva: {len(att)}; hoppas över: {hoppa}")
     if not skriv:
-        return {"skrivna": 0, "att_skriva": len(att), "hoppa": hoppa}
+        return {"skrivna": 0, "att_skriva": len(att), "hoppa": hoppa, "misslyckade": 0}
     if not fore_fil:
         raise Stopp("--fore-fil krävs vid skrivning")
     if max_n:
         att = att[:max_n]; fore = fore[:max_n]
     with open(fore_fil, "w", encoding="utf-8") as f:
         json.dump(fore, f)
-    n = 0
+    n, alla_fel = 0, []
     for k in range(0, len(att), 25):
-        skriv_grupp(klient, att[k:k + 25], mapp)
-        n += len(att[k:k + 25])
+        grupp = att[k:k + 25]
+        fel = skriv_grupp(klient, grupp, mapp)
+        alla_fel += fel
+        n += len(grupp) - len(fel)
         if (k // 25) % 10 == 0:
-            logg(f"skrivit {n} av {len(att)}")
+            logg(f"försökt {k + len(grupp)} av {len(att)}; skrivna {n}; misslyckade {len(alla_fel)}")
+        if len(alla_fel) > max_fel:
+            logg(f"STOPP: fler än {max_fel} misslyckade")
+            break
         klient.sleep(0.4)
-    logg(f"klart: {n} skrivna och återlästa")
-    return {"skrivna": n, "att_skriva": len(att), "hoppa": hoppa}
+    if alla_fel and fel_fil:
+        kat = {}
+        for k in range(0, len(alla_fel), 50):
+            ids = [i for i, _ in alla_fel[k:k + 50]]
+            for i, nod in zip(ids, klient.graphql(KAT, {"ids": [gid(x) for x in ids]})["nodes"]):
+                kat[i] = ((nod or {}).get("category") or {}).get("fullName", "(ingen kategori)")
+        with open(fel_fil, "w", newline="", encoding="utf-8") as f:
+            w = csv.writer(f, delimiter=";"); w.writerow(["produkt_id", "kategori", "felmeddelande"])
+            for i, m in alla_fel:
+                w.writerow([i, kat.get(i, ""), m])
+    logg(f"klart: {n} skrivna och återlästa, {len(alla_fel)} misslyckade" + (f" (se {fel_fil})" if alla_fel and fel_fil else ""))
+    return {"skrivna": n, "att_skriva": len(att), "hoppa": hoppa, "misslyckade": len(alla_fel)}
 
 
 def main():
@@ -163,9 +198,11 @@ def main():
     ap.add_argument("--max", type=int, default=0)
     ap.add_argument("--fore-fil")
     ap.add_argument("--overskriv", action="store_true")
+    ap.add_argument("--fel-fil", default="misslyckade_kon.csv")
+    ap.add_argument("--max-fel", type=int, default=50)
     a = ap.parse_args()
     try:
-        kor(Klient(), lasa_mappning(a.csv), a.skriv, a.max, a.fore_fil, a.overskriv)
+        kor(Klient(), lasa_mappning(a.csv), a.skriv, a.max, a.fore_fil, a.overskriv, a.fel_fil, a.max_fel)
     except Stopp as e:
         print("STOPP:", e); sys.exit(2)
 
