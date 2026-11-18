@@ -23,7 +23,7 @@ class T(unittest.TestCase):
             ("UC High Waist Transparent Tech Mesh Tights", "Tights", "kläder"), ("Basic Trackpants - 2 Pack", "Mjukisbyxor", "kläder"),
             ("MT Lettered Coffee Mug", "Tillbehör", "ingen"), ("Pizza Art Exercise Book 2-Pack", "Tillbehör", "ingen"),
             ("MSTRDS Jersey Beanie Reversible", "Mössa", "manuell"), ("UC Big Classic Necklace 2-Pack", "Halsband", "manuell"),
-            ("ZY Highbridge", "Sneakers", "manuell"), ("A Burger Tee heather grey XXL", "Men", "kläder"),
+            ("ZY Highbridge", "Sneakers", "manuell"), ("UC Camo Belt Pouch Hip Bag One Size", "Väska", "manuell"), ("A Burger Tee heather grey XXL", "Men", "kläder"),
             ("UC Multicolor Bandana 3-Pack", "Bandana", "manuell"), ("BYOU Seamless Thong - Beige", "Underkläder", "kläder")]:
             self.assertEqual(K.klassa(titel, typ), vänta, titel)
 

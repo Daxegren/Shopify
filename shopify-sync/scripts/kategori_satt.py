@@ -23,6 +23,7 @@ INGEN = ("mug", "exercise book", "exercises book")
 GRUPPER = [
     ("keps", ("keps", " cap", "snapback", "trucker", "visor", "dockercap", "driver")),
     ("strumpor", ("sock", "strumpor")),
+    ("manuell", ("pouch", "hip bag")),
     ("bälte", ("belt", "bälte")),
     ("solglasögon", ("sunglasses", "solglas")),
     ("ryggsäck", ("ryggsäck", "backpack", "duffel")),
