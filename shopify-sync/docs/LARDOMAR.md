@@ -307,3 +307,16 @@ Appen Velomarket3 arkiverade 2026-11-06 kl. 03:22–03:23 ett femtiotal produkte
 ## 2026-11-18: Cloudflare ger HTTP 429 på produktsidor efter cirka 120 stora sidor (Workout Brands)
 - **Vad hände:** publik genomsökning av workoutbrands.com (cirka 1,4 anrop/s, sidor 0,5–1,3 MB) gav 200 på startsida, 101 kollektioner och 17 sidor, sedan 429 på sex produktsidor i rad, även efter 60 och 30 sekunders väntan. En enskild produktsida gick att hämta efter en paus. Därför saknas produktsidor och blogg i klickdjups- och inlänkningsmätningen.
 - **Regel:** räkna med att volymen (inte bara takten) triggar bot-kontrollen; hämta produktsidor före kollektioner i en separat, långsammare körning, eller använd sitemap och Shopify-data i stället. Försök aldrig ta dig förbi kontrollen; redovisa luckan.
+
+## 2026-11-18: inköpspris i fel enhet följer importvägen, inte märket (Workout Brands)
+- **Vad hände:** av 33 007 varianter hade 8 920 marginal över 90 % efter moms. 92,3 % av varianterna utan taggen `in sheet` var misstänkta mot 0,8 % av dem med taggen; 88 % av de misstänkta inköpspriserna har decimaler (2,45, 7,90, 12,90) medan de rimliga är hela kronor. Vid 11 kr per euro blir marginalen cirka 49 %, vilket är rimligt. Att räkna per märke dolde mönstret (Build your Brand och MJ Gonzales 100 %, men MT Men 22 %).
+- **Regel:** gruppera misstänkta inköpspriser på importväg och skapandeår (tagg, datum) före märke, och kontrollera decimaler och valutakurs som hypotes. Skriv ingen ny kostnad innan leverantörens valuta är bekräftad.
+
+## 2026-11-18: handles med tecknet ® är URL-kodade i sitemapen och ger falska sitemap-luckor (Workout Brands)
+- **Vad hände:** jämförelsen mellan 7 371 aktiva produkter och sitemapen gav först 466 saknade; 16 av dem var produkter med ® i handle (URL-kodade i sitemapen). Rätt siffra var 450, varav 449 är opublicerade i Online Store. Filtret `published_status:unpublished` på produkter gav direkt 449.
+- **Regel:** avkoda URL-kodning före jämförelse av handles och kontrollera med `productsCount(query:"status:active AND published_status:unpublished")` mot sitemapens antal.
+
+## 2026-11-18: orderfilter som är fel stavade ignoreras tyst (Workout Brands)
+- **Vad hände:** `orders(query:"billing_address.country_code:SE")` och `shipping_address.country_code:DK` returnerade samma senaste order oavsett land (ogiltiga filter ignoreras utan fel). Rätt land hittades först genom att läsa 100 ordrar och gruppera på `shippingAddress.countryCodeV2` i efterhand.
+- **Regel:** kontrollera att ett filter faktiskt begränsar (ordernummer eller land i svaret) innan resultatet används; gruppera annars på klientsidan.
+
