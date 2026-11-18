@@ -36,3 +36,17 @@ Efter omkörning av exporten visar totalerna per land, enhet och månad (inte av
 - Klickandelar per sidtyp (produkt 33 %, blogg 32 %, kollektion 24 %) påverkas knappt, eftersom klicken är i stort sett kompletta.
 - Månadssiffrorna (visningar, klick, position) kommer från den fullständiga månadsrapporten och står kvar.
 - September mot oktober per sidtyp bygger på avkortade sidrapporter (täckning 61–73 % av månadens visningar).
+
+## Tillägg 2026-11-18: kollektioner (språk sammanslagna per handle)
+Källa: `kollektioner_prioritet.csv` (alla språkversioner av en kollektion summerade, frågetecken-parametrar borttagna), skapad med `shopify-sync/scripts/gsc_kollektioner.py` ur sidrapporten (avkortad vid 25 000 rader; visningar är därför lägre än verkligt). Rådata: `gsc_workoutbrands_radata.tgz`.
+
+**Fakta**
+- 1 616 kollektionshandles syns i sidrapporten. Mest visningar: `hoodie-oversized-herr` 44 048 (449 klick, position 16,1, 21 sidor på 10 språk), `hoodie-oversized-herren` 37 691 (28 klick, position 41,0), `ecko-unltd-herr` 19 126 (305 klick), `vendors` 17 393 (440 klick, 291 filtersidor `/collections/vendors?…` per märke), `klader-till-examen-herr` 16 432, `relode` 15 677 (20 klick), `klader-till-dop-herr` 13 400 och `-dam` 10 258, `starter-black-label-man` 12 026, `present-till-18-arig-kille` 11 960, `rocawear-herr` 11 138 (172 klick).
+- Mest klick: `forgotten-faces-eng` 474 (4,9 %), `hoodie-oversized-herr` 449, `vendors` 440, `dangerous-dngrs-herr` 396 (6,7 %), `ecko-unltd-herr` 305, `cayler-sons-man` 294 (4,4 %), `dangerous-dngrs-man` 200.
+- `hoodie-oversized-herr` och `hoodie-oversized-herren` är två kollektioner med nästan samma namn och konkurrerar om samma sökord.
+- Kollektioner med många visningar och nästan inga klick: `oversized-clothing-man` 10 497 visningar och 4 klick, `long-sleeve-kvinna` 10 176 och 3, `relode` 15 677 och 20, `astani-wear-women-and-men` 9 145 och 20.
+
+**Bedömning**
+- Märkena sköts delvis av filtersidor (`/collections/vendors?q=…`) i stället för egna märkeskollektioner; ändra inte det utan beslut.
+- Tillfällesktioner (examen, dop, present till 18-åring) får många visningar men är osäkra som köpavsikt för streetwear; bedöm mot försäljning innan de prioriteras.
+- Dubblettkollektionen `hoodie-oversized-herren` bör undersökas (omdirigering eller sammanslagning); ändring tidigast 2026-12-01.
