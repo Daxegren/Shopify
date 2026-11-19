@@ -1,0 +1,3 @@
+{"beskrivning":"2026-11-19: regeländring på kollektionen hoodie-kvinna (gid 416096911574). Före: taggvillkor ALL ['Women','träningshoodie'] + lagervillkor på variant, produktantal 1. Efter: ['Hoodie','Women'] (samma som hoodie-man med 'Women'). Ångra: collectionConditionsSourceUpdate med conditionsToUpdate på villkor 5728207176 och values ['Women','träningshoodie'].",
+"kalla_id":"gid://shopify/CollectionConditionsSource/10563158344","villkor_id":"gid://shopify/CollectionSourceInclusionConditionProductTag/5728207176",
+"fore":{"values":["Women","träningshoodie"],"antal":1},"efter":{"values":["Hoodie","Women"]}}

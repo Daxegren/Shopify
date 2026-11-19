@@ -1,0 +1,9 @@
+{"beskrivning":"2026-11-19, omgång 1: collectionUpdate seo på sju kollektioner. Ångra: sätt tillbaka fore-värdena (null = tomt). Skrivet och återläst i svaret, inga userErrors. Beskrivningar som angavs oförändrade skickades med oförändrad text.",
+"kollektioner":[
+{"id":"640298025288","handle":"hoodie-oversized-dam","fore":{"title":null,"description":null}},
+{"id":"636822946120","handle":"snapback-keps","fore":{"title":null,"description":null}},
+{"id":"627564740936","handle":"ryggsack","fore":{"title":null,"description":null}},
+{"id":"641804697928","handle":"mister-tee-hoodie-herr","fore":{"title":null,"description":"Mister Tee är varumärket för dig som vill bära streetwear med unika motiv. Mister Tee hoodies kombinerar design, stil och funktion."}},
+{"id":"644631462216","handle":"mj-gonzales-herr","fore":{"title":null,"description":"Mj Gonzales Herrkollektion Denna herrkollektion består av hoodies, t-shirts och tröjor som passar perfekt för vardagen, träningen eller avslappnade helger. "}},
+{"id":"642925789512","handle":"billiga-byxor-herr","fore":{"title":null,"description":"Letar du efter prisvärda byxor som kombinerar komfort, stil och kvalitet? Hos Workout Brands hittar du ett brett urval av billiga herrbyxor."}},
+{"id":"643932848456","handle":"klader-till-examen-herr","fore":{"title":"Kläder Till Examen - Snygga Kläder Till Din Stora Dag - Herr","description":"Hos Workout Brands har vi samlat ett noga utvalt sortiment av examenskläder för herr som passar olika stilar, smaker och tillfällen. "}}]}
