@@ -24,3 +24,10 @@ Enhet: mobil 2 283 klick (CTR 1,0 %, position 10,2), dator 801 (0,6 %, position 
 1. Isländska (5 klick) och serbiska (15 klick) har så lite trafik att översättning inte lönar sig.
 2. Turkiska ger 119 klick med hög CTR (3,2 %) men har dålig översättningstäckning (många föråldrade, hälften av kollektionerna). Värd att prioritera.
 3. Italienska, tyska, polska, finska och spanska är nästa i trafik och har redan ganska hög täckning men många föråldrade kollektionsbeskrivningar.
+
+## Indexeringsläge 2026-11-19 (`gsc_indexering.py`, URL Inspection API)
+Fil: `gsc_indexering_2026-11-19.csv` (43 sidor: 38 ändrade kollektioner, 5 kontroll).
+- 42 av 43 "Angiven och indexerad"; Googles canonical = vår canonical på alla 43.
+- 1 ändrad kollektion (billiga-t-shirts-herr) är "Genomsökt – inte indexerad för närvarande"; senaste genomsökning 2026-06-20.
+- Googles senaste genomsökning är för de flesta sidor före våra ändringar (18–19 november): bara 6 av 38 ändrade sidor har lästs om sedan 18 november. Effekten av nya titlar syns först när Google läst om sidorna.
+- present-till-honom indexerades 2026-08-29 och present-till-henne 2026-10-02, båda då tomma; omläsning behövs efter regelfixen.
