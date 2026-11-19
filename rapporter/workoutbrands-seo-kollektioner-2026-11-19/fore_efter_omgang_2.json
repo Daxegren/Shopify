@@ -1,0 +1,9 @@
+{"beskrivning":"2026-11-19, omgång 2: collectionUpdate seo på sju kollektioner (fem nya, två ändrade befintliga: ecko-unltd-herr och present-till-18-arig-kille). klader-till-dop-herr lämnades orörd. Ångra: sätt tillbaka fore-värdena (null = tomt). Skrivet och återläst, inga userErrors.",
+"kollektioner":[
+{"id":"416096911574","handle":"hoodie-kvinna","fore":{"title":null,"description":null}},
+{"id":"644472176968","handle":"klader-till-skolavslutning-dam","fore":{"title":null,"description":"Skolavslutningen är en dag då du vill känna dig både fin och bekväm, med en outfit som speglar din personliga stil. Stort & prisvärt utbud. "}},
+{"id":"644407165256","handle":"kamouflage-klader-herr-1","fore":{"title":null,"description":"I vårt sortiment hittar du allt från cargobyxor och jackor till hoodies och t-shirts – perfekta för dig som vill ha en kraftfull look med militärinspirerade inslag. "}},
+{"id":"643428647240","handle":"retroinspirerade-klader-herr","fore":{"title":null,"description":"Kolla in vårt stora stortiment av retroinspirerade herrkläder hos Workout Brands. Här möter nostalgi modern streetwear i en perfekt mix. "}},
+{"id":"637359391048","handle":"lader-konstlader-jacka-man","fore":{"title":null,"description":null}},
+{"id":"639906087240","handle":"ecko-unltd-herr","fore":{"title":"Ecko Unltd. – Streetwear med attityd","description":"Upptäck Ecko Unltd. med trendiga och bekväma streetwear-plagg för herr och dam. Perfekt för en urban och stilfull look."}},
+{"id":"644417618248","handle":"present-till-18-arig-kille","fore":{"title":"Present Till 18 årig Kille - Kläder Till 18 åringar","description":"Present till 18-årig kille | Kläder och tillbehör från kända varumärken |  Snygga och trendiga gåvor för speciella tillfällen"}}]}
