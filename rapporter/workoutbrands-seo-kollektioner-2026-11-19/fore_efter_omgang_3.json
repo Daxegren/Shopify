@@ -1,0 +1,173 @@
+{
+ "beskrivning": "2026-11-19 omgång 3: SEO-titel (och ny beskrivning där den saknades) på 21 kollektioner. astani-tights, astani-man, relode-kvinna hölls tillbaka (varumärkena fylls inte på). Obs: att utelämna description i SEOInput tömmer den; skickas alltid med. Ångra: sätt tillbaka fore.",
+ "kollektioner": [
+  {
+   "id": "416097173718",
+   "handle": "linne-man",
+   "fore": {
+    "title": null,
+    "description": null
+   }
+  },
+  {
+   "id": "416096780502",
+   "handle": "tights-man",
+   "fore": {
+    "title": null,
+    "description": null
+   }
+  },
+  {
+   "id": "637725901128",
+   "handle": "jumpsuit-dam",
+   "fore": {
+    "title": null,
+    "description": null
+   }
+  },
+  {
+   "id": "637201449288",
+   "handle": "stickad-troja-kvinna",
+   "fore": {
+    "title": null,
+    "description": null
+   }
+  },
+  {
+   "id": "637176611144",
+   "handle": "loose-fit-jeans-herr",
+   "fore": {
+    "title": null,
+    "description": null
+   }
+  },
+  {
+   "id": "648137867592",
+   "handle": "julstrumpor-herr-dam",
+   "fore": {
+    "title": null,
+    "description": "När julen närmar sig är det dags att fylla garderoben med festliga detaljer som sprider julkänsla och julstrumpor är en klassisk och uppskattad accessoar."
+   }
+  },
+  {
+   "id": "416096878806",
+   "handle": "short-sleeve-man",
+   "fore": {
+    "title": null,
+    "description": null
+   }
+  },
+  {
+   "id": "645097685320",
+   "handle": "9n1m-sense-herr-och-dam",
+   "fore": {
+    "title": null,
+    "description": "Kolla in det exklusiva sortimentet från 9N1M Sense för både herr och dam på Workout Brands. "
+   }
+  },
+  {
+   "id": "642782888264",
+   "handle": "svart-troja-herr-2",
+   "fore": {
+    "title": null,
+    "description": "Alla män behöver en svart tröja. En svart tröja är ett av de mest användbara plaggen i herrgarderoben, stilren, tidlös och enkel att kombinera med andra plagg."
+   }
+  },
+  {
+   "id": "644468080968",
+   "handle": "klader-till-nyar-dam",
+   "fore": {
+    "title": null,
+    "description": "Oavsett om du firar med en stor fest, en elegant middag eller en mysig hemmakväll med nära och kära, har vi kläderna som lyfter din nyårslook. Stort sortiment."
+   }
+  },
+  {
+   "id": "416096551126",
+   "handle": "short-sleeve-kvinna",
+   "fore": {
+    "title": null,
+    "description": null
+   }
+  },
+  {
+   "id": "654888894792",
+   "handle": "randiga-trojor-herr",
+   "fore": {
+    "title": null,
+    "description": "Randiga tröjor för herr är ett självklart val för dig som vill kombinera klassisk design med modern streetwear-känsla. "
+   }
+  },
+  {
+   "id": "640481821000",
+   "handle": "streetwear-man-och-kvinna",
+   "fore": {
+    "title": null,
+    "description": "Upptäck streetwear hos Workout Brands – stilrena, funktionella kläder för vardag och träning. Snabba leveranser, fri frakt över 499 kr & 30 dagars öppet köp."
+   }
+  },
+  {
+   "id": "618641719624",
+   "handle": "workout-brands-the-brand",
+   "fore": {
+    "title": null,
+    "description": "Träningskläder från Workout Brands är utvecklade med funktionalitet som främsta mål, för att göra din träning så bekväm och effektiv som möjligt. Snabb leverans"
+   }
+  },
+  {
+   "id": "645686690120",
+   "handle": "star-wars-klader-herr-dam",
+   "fore": {
+    "title": null,
+    "description": "Star Wars kläder för herr och dam förenar ikonisk sci-fi-estetik med modern streetwear."
+   }
+  },
+  {
+   "id": "641865122120",
+   "handle": "thug-life-hoodie-herr",
+   "fore": {
+    "title": null,
+    "description": "Thug Life-hoodies kombinerar kraftfull attityd med hög komfort – en självklar del av varje streetwear-garderob. "
+   }
+  },
+  {
+   "id": "651090395464",
+   "handle": "enfargade-kepsar-utan-tryck",
+   "fore": {
+    "title": null,
+    "description": null
+   }
+  },
+  {
+   "id": "416096485590",
+   "handle": "tights-kvinna",
+   "fore": {
+    "title": null,
+    "description": null
+   }
+  },
+  {
+   "id": "642744615240",
+   "handle": "militarklader-dam",
+   "fore": {
+    "title": null,
+    "description": "Kolla in vårt stora sortiment av militärkläder för dam, plagg som kombinerar stil med funktion. Hos Workout "
+   }
+  },
+  {
+   "id": "644416471368",
+   "handle": "klader-for-flygresan-herr",
+   "fore": {
+    "title": null,
+    "description": "Att klä sig rätt inför en flygresa handlar om att hitta den perfekta balansen mellan komfort, funktionalitet och stil. Allt du behöver för en bekväm resa."
+   }
+  },
+  {
+   "id": "642785083720",
+   "handle": "t-shirt-med-tryck-dam",
+   "fore": {
+    "title": null,
+    "description": "Kolla in vårt stora sortiment med t-shirts med tryck för damer på Workout Brands! "
+   }
+  }
+ ]
+}
