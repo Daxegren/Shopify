@@ -31,6 +31,24 @@ def urls():
     return [(BAS + h, "andrad") for h in ANDRADE + EXTRA] + [(BAS + h, "kontroll") for h in KONTROLL]
 
 
+def hamta(s, url, site, forsok=3):
+    """Ett anrop med omförsök vid timeout/nätverksfel. Returnerar (status, svar eller text)."""
+    for n in range(1, forsok + 1):
+        try:
+            r = s.post(API, json={"inspectionUrl": url, "siteUrl": site, "languageCode": "sv"}, timeout=60)
+            return r.status_code, (r.json() if r.status_code == 200 else r.text)
+        except Exception as e:  # timeout, nätverksfel
+            if n == forsok:
+                return 0, f"{type(e).__name__}: {e}"
+            time.sleep(3 * n)
+
+
+def las_klara(sokvag):
+    if not os.path.exists(sokvag):
+        return {}
+    return {r["url"]: r for r in csv.DictReader(open(sokvag, encoding="utf-8"), delimiter=";") if r.get("verdict")}
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("site")
@@ -38,27 +56,38 @@ def main():
     a = ap.parse_args()
     s = session()
     ut = os.path.expanduser(a.ut or f"~/gsc_indexering_{dt.date.today()}.csv")
-    rader, fel_i_rad = [], 0
-    for n, (u, g) in enumerate(urls(), 1):
-        r = s.post(API, json={"inspectionUrl": u, "siteUrl": a.site, "languageCode": "sv"}, timeout=120)
-        if r.status_code == 429:
+    klara = las_klara(ut)
+    if klara:
+        print(f"Återupptar: {len(klara)} sidor är redan klara i {ut}")
+    rader, fel_i_rad, lista = [], 0, urls()
+    for n, (u, g) in enumerate(lista, 1):
+        if u in klara:
+            rader.append(klara[u]); continue
+        status, svar = hamta(s, u, a.site)
+        if status == 429:
             print("Kvoten är slut för i dag (429). Försök igen i morgon."); break
-        if r.status_code != 200:
+        if status != 200:
             fel_i_rad += 1
-            print(f"Fel {r.status_code} för {u}: {r.text[:600]}"); rader.append(rad(u, g, {}))
+            print(f"Fel {status} för {u}: {str(svar)[:600]}"); rader.append(rad(u, g, {}))
             if fel_i_rad >= 3:
-                sys.exit("STOPP: tre fel i rad, inget skrivs. Klistra in felmeddelandet ovan.")
+                skriv(ut, rader)
+                sys.exit("STOPP: tre fel i rad. Det som är klart är sparat; kör samma kommando igen för att återuppta.")
             continue
         fel_i_rad = 0
-        rader.append(rad(u, g, r.json()))
+        rader.append(rad(u, g, svar))
         if n % 10 == 0:
-            print(f"  {n} av {len(urls())}")
+            print(f"  {n} av {len(lista)}")
+            skriv(ut, rader)
         time.sleep(0.4)
-    with open(ut, "w", encoding="utf-8", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=KOLUMNER, delimiter=";"); w.writeheader(); w.writerows(rader)
+    skriv(ut, rader)
     from collections import Counter
     print(Counter((r["grupp"], r["coverageState"]) for r in rader))
     print("KLART ->", ut)
+
+
+def skriv(ut, rader):
+    with open(ut, "w", encoding="utf-8", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=KOLUMNER, delimiter=";"); w.writeheader(); w.writerows(rader)
 
 
 if __name__ == "__main__":
