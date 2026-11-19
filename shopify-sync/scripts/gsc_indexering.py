@@ -38,13 +38,18 @@ def main():
     a = ap.parse_args()
     s = session()
     ut = os.path.expanduser(a.ut or f"~/gsc_indexering_{dt.date.today()}.csv")
-    rader = []
+    rader, fel_i_rad = [], 0
     for n, (u, g) in enumerate(urls(), 1):
         r = s.post(API, json={"inspectionUrl": u, "siteUrl": a.site, "languageCode": "sv"}, timeout=120)
         if r.status_code == 429:
             print("Kvoten är slut för i dag (429). Försök igen i morgon."); break
         if r.status_code != 200:
-            print(f"Fel {r.status_code} för {u}: {r.text[:200]}"); rader.append(rad(u, g, {})); continue
+            fel_i_rad += 1
+            print(f"Fel {r.status_code} för {u}: {r.text[:600]}"); rader.append(rad(u, g, {}))
+            if fel_i_rad >= 3:
+                sys.exit("STOPP: tre fel i rad, inget skrivs. Klistra in felmeddelandet ovan.")
+            continue
+        fel_i_rad = 0
         rader.append(rad(u, g, r.json()))
         if n % 10 == 0:
             print(f"  {n} av {len(urls())}")
