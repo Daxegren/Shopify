@@ -1,0 +1,201 @@
+{
+ "beskrivning": "2026-11-19: tomma kollektioner avpubliceras från Webbshop (online_store, publication 93969055958) och 25 av dem får omdirigering /collections/<handle> -> /collections/<mål>. Före: alla 39 var publicerade på sex kanaler (Webbshop, Facebook & Instagram, TikTok, Google & YouTube, Pinterest, Inbox). Ångra: publishablePublish med publicationId 93969055958 på kollektionen och urlRedirectDelete på omdirigeringen.",
+ "online_store_publication": "gid://shopify/Publication/93969055958",
+ "kollektioner": [
+  {
+   "handle": "gavelo-alla-produkter",
+   "id": "620356043080",
+   "mal": "tights-kvinna-och-man"
+  },
+  {
+   "handle": "traningsskor-kvinna",
+   "id": "416097534166",
+   "mal": "skor-kvinna-och-man"
+  },
+  {
+   "handle": "db-journey",
+   "id": "625348968776",
+   "mal": "traningsvaska"
+  },
+  {
+   "handle": "vindjacka-kvinna",
+   "id": "636826419528",
+   "mal": "tunn-jacka-kvinna"
+  },
+  {
+   "handle": "linnebyxor-dam",
+   "id": "640298451272",
+   "mal": "byxor-dam-1"
+  },
+  {
+   "handle": "svettband-for-dig-stil-komfort-och-prestanda",
+   "id": "636427174216",
+   "mal": "alla-traningsprodukter-kvinna-och-man"
+  },
+  {
+   "handle": "klader-med-tryck-fran-kanda-artister-filmer-stader-och-sportklubbar",
+   "id": "646116835656",
+   "mal": "streetwear-man-och-kvinna"
+  },
+  {
+   "handle": "hovr-man",
+   "id": "416153534678",
+   "mal": "skor-herr"
+  },
+  {
+   "handle": "bastsaljare-skor-kvinna",
+   "id": "416153141462",
+   "mal": "skor-kvinna-och-man"
+  },
+  {
+   "handle": "traningssko",
+   "id": "416097566934",
+   "mal": "traningsskor"
+  },
+  {
+   "handle": "festklader-dam",
+   "id": "642739601736",
+   "mal": "festklader-herr-dam"
+  },
+  {
+   "handle": "test",
+   "id": "635317944648",
+   "mal": ""
+  },
+  {
+   "handle": "hovr-kvinna",
+   "id": "416153501910",
+   "mal": "skor-kvinna-och-man"
+  },
+  {
+   "handle": "sneakers",
+   "id": "416152846550",
+   "mal": "skor-kvinna-och-man"
+  },
+  {
+   "handle": "resvaska",
+   "id": "627552878920",
+   "mal": "vaskor-till-resan"
+  },
+  {
+   "handle": "pullover-herrar",
+   "id": "634902905160",
+   "mal": "mjukistroja-herr"
+  },
+  {
+   "handle": "collection-3",
+   "id": "414830231766",
+   "mal": ""
+  },
+  {
+   "handle": "coldgear-kvinna",
+   "id": "600143298888",
+   "mal": "langarmad-troja-dam"
+  },
+  {
+   "handle": "coldgear-man",
+   "id": "600143331656",
+   "mal": "langarmad-troja-herr"
+  },
+  {
+   "handle": "herr-bastsaljare-60-dagar",
+   "id": "667750269256",
+   "mal": "bastsaljare"
+  },
+  {
+   "handle": "bastsaljare-skor-man",
+   "id": "416153206998",
+   "mal": "skor-herr"
+  },
+  {
+   "handle": "seamless-tights",
+   "id": "621964362056",
+   "mal": "tights-kvinna"
+  },
+  {
+   "handle": "klanning-dam",
+   "id": "637724328264",
+   "mal": "klanning-dam-2"
+  },
+  {
+   "handle": "streetwear-nyheter-herr-dam",
+   "id": "644632576328",
+   "mal": "streetwear-nyheter-herr-dam-1"
+  },
+  {
+   "handle": "sneakers-kvinna",
+   "id": "416152879318",
+   "mal": "skor-kvinna-och-man"
+  },
+  {
+   "handle": "pullover-damer",
+   "id": "634902937928",
+   "mal": "mjukistroja-dam"
+  },
+  {
+   "handle": "starter-black-label-man-och-kvinna",
+   "id": "638982816072",
+   "mal": "starter-black-label-man"
+  },
+  {
+   "handle": "home-start-collection",
+   "id": "414829707478",
+   "mal": ""
+  },
+  {
+   "handle": "collection-1",
+   "id": "414830067926",
+   "mal": ""
+  },
+  {
+   "handle": "smycken",
+   "id": "634903822664",
+   "mal": ""
+  },
+  {
+   "handle": "storleksguide-astani-ampario-oversize-t-shirt",
+   "id": "636073279816",
+   "mal": ""
+  },
+  {
+   "handle": "bomberjacka-herr",
+   "id": "637360898376",
+   "mal": ""
+  },
+  {
+   "handle": "troja-1-4-zip-herr",
+   "id": "637750116680",
+   "mal": ""
+  },
+  {
+   "handle": "troja-1-4-zip-herr-1",
+   "id": "637750444360",
+   "mal": ""
+  },
+  {
+   "handle": "fleece-troja-dam",
+   "id": "637969236296",
+   "mal": ""
+  },
+  {
+   "handle": "forvert-dam",
+   "id": "639906414920",
+   "mal": ""
+  },
+  {
+   "handle": "brandit-britannia-jacket-herr-dam",
+   "id": "641858797896",
+   "mal": ""
+  },
+  {
+   "handle": "brandit-herrskjorta",
+   "id": "641864008008",
+   "mal": ""
+  },
+  {
+   "handle": "langa-trojor-herr-dm",
+   "id": "642746319176",
+   "mal": ""
+  }
+ ]
+}
