@@ -210,6 +210,28 @@ def kor(klient, mapp, skriv=False, max_n=0, fore_fil=None, overskriv=False, fel_
     return {"skrivna": n, "att_skriva": len(att), "hoppa": hoppa, "misslyckade": len(alla_fel)}
 
 
+NAMN = {v[0] if len(v) == 1 else "+".join(v): k for k, v in VARDEN.items()}
+TITEL = '''query($ids:[ID!]!){nodes(ids:$ids){... on Product{id title vendor productType status tags tg:metafield(namespace:"shopify",key:"target-gender"){value}}}}'''
+
+
+def lista_annat(klient, mapp, ut):
+    """LÄSER bara. Skriver en CSV över produkter vars fält redan har ett värde som skiljer sig från mappningen."""
+    ids, rader = list(mapp), []
+    for k in range(0, len(ids), 50):
+        for i, n in zip(ids[k:k + 50], klient.graphql(TITEL, {"ids": [gid(x) for x in ids[k:k + 50]]})["nodes"]):
+            nu = tolka(((n or {}).get("tg") or {}).get("value"))
+            if not n or nu is None or nu == onskat(mapp[i]):
+                continue
+            namn = "+".join(NAMN.get(g, g) for g in nu)
+            rader.append({"produkt_id": i, "titel": n["title"], "marke": n["vendor"], "produkttyp": n["productType"],
+                          "tagg_kon": ",".join(t for t in n["tags"] if t.lower() in ("men", "ladies", "unisex", "women", "kids")),
+                          "nuvarande": namn, "mappning": mapp[i], "status": n["status"]})
+    with open(ut, "w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=["produkt_id", "titel", "marke", "produkttyp", "tagg_kon", "nuvarande", "mappning", "status"], delimiter=";")
+        w.writeheader(); w.writerows(rader)
+    return len(rader)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--csv", required=True)
@@ -219,8 +241,11 @@ def main():
     ap.add_argument("--overskriv", action="store_true")
     ap.add_argument("--fel-fil", default="misslyckade_kon.csv")
     ap.add_argument("--max-fel", type=int, default=50)
+    ap.add_argument("--lista-annat", metavar="UT", help="skriv CSV över produkter med annat värde (läser bara)")
     a = ap.parse_args()
     try:
+        if a.lista_annat:
+            print(lista_annat(Klient(), lasa_mappning(a.csv), a.lista_annat), "rader"); return
         kor(Klient(), lasa_mappning(a.csv), a.skriv, a.max, a.fore_fil, a.overskriv, a.fel_fil, a.max_fel)
     except Stopp as e:
         print("STOPP:", e); sys.exit(2)
