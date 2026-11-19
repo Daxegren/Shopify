@@ -1,0 +1,9 @@
+datum;butik;atgard;enhet;antal;aktiv_tid_timmar;vantetid_timmar;kommentar
+2026-11-19;workoutbrands.com;Kategori på produkter som saknade kategori;produkter;252;2.5;0.5;Grov uppskattning ur samtalet. Mycket tid gick åt till felsökning av nycklar och filnamn
+2026-11-19;workoutbrands.com;Könsfält (Avsett för);produkter;6535;2.5;1.0;Grov uppskattning. Körningar i omgångar, fel kategori på 255 produkter krävde extra arbete
+2026-11-19;workoutbrands.com;SEO-titel och beskrivning på kollektioner inkl. engelska och tyska;kollektioner;42;2.0;0;Grov uppskattning. Tre omgångar, godkännande mellan varje
+2026-11-19;workoutbrands.com;Regelfix på kollektioner;kollektioner;3;0.3;0;Grov uppskattning (hoodie-kvinna, present-till-honom, present-till-henne)
+2026-11-19;workoutbrands.com;Omdirigeringar (skapade, ej verksamma än);omdirigeringar;25;0.5;0;Avpublicering görs av ägaren
+2026-11-19;workoutbrands.com;Alt-text på bilder;bilder;33020;1.0;1.2;Grov uppskattning. Körningen stoppade en gång (delad bild) och återupptas
+2026-11-19;workoutbrands.com;Export och analys (produkter, kollektioner, översättningar);produkter;15664;1.0;0.7;Grov uppskattning. Steg 2 stoppade en gång på saknad behörighet
+2026-11-19;workoutbrands.com;Mätunderlag (Search Console-baslinje, indexering);sidor;43;1.0;0.8;Grov uppskattning. Ny inloggning och tre omstarter behövdes
