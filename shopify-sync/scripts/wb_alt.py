@@ -23,13 +23,16 @@ GRUPP = 20
 
 def att_gora(jsonl):
     """[(media_id, ny_alt)] för bilder utan alt, och räkning."""
-    ut, produkter = [], set()
+    ut, produkter, sedda = [], set(), set()
     for nod, barn in las_jsonl(jsonl):
         titel = (nod.get("title") or "").strip()
         if not titel:
             continue
         for b in barn:
             if b.get("id", "").startswith("gid://shopify/MediaImage") and not (b.get("alt") or "").strip():
+                if b["id"] in sedda:  # samma bild på flera produkter: första produktens titel gäller
+                    continue
+                sedda.add(b["id"])
                 ut.append((b["id"], titel[:512], nod["id"]))
                 produkter.add(nod["id"])
     return ut, len(produkter)

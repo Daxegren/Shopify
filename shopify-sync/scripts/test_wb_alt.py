@@ -31,6 +31,14 @@ class T(unittest.TestCase):
         self.assertEqual([(i, a) for i, a, _ in jobb], [("gid://shopify/MediaImage/1", "Tee Black"), ("gid://shopify/MediaImage/4", "Hoodie")])
         self.assertEqual(n, 2)
 
+    def test_samma_bild_pa_flera_produkter_skrivs_en_gang(self):
+        p = jsonl([{"id": "gid://shopify/Product/1", "title": "Tee XL"},
+                   {"id": "gid://shopify/MediaImage/9", "alt": "", "__parentId": "gid://shopify/Product/1"},
+                   {"id": "gid://shopify/Product/2", "title": "Tee M"},
+                   {"id": "gid://shopify/MediaImage/9", "alt": "", "__parentId": "gid://shopify/Product/2"}])
+        jobb, _ = W.att_gora(p)
+        self.assertEqual([(i, a) for i, a, _ in jobb], [("gid://shopify/MediaImage/9", "Tee XL")])
+
     def test_torrkorning_skriver_inget_och_max_produkter(self):
         jobb = [(f"m{i}", "T", f"p{i // 3}") for i in range(9)]
         k, d = Fake(), tempfile.mkdtemp()
