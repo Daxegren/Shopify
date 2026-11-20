@@ -1,0 +1,20 @@
+id;omrade;titel;antal;av;andel_pct;allvar;paket;atgard;enhet;exempel
+alt_text;Bilder;Bilder utan alt-text (aktiva produkter);7854;8228;95.5;BRIST;P1;Sätt alt-text i bulk (wb_alt.py);per 1 000 bilder;
+utan_kategori;Katalog;Aktiva produkter utan produktkategori;210;885;23.7;BRIST;P1;Sätt produktkategori (kategori_satt.py);per 100 produkter;Curlstång CHROME 35kg | Hantlar IRON Gjutjärn 2x15kg | Curlstång IRON 35kg
+utan_bild;Bilder;Aktiva produkter utan bild;0;885;0.0;BRIST;P1;Lägg till bild eller avpublicera;per produkt;
+utan_kon;Attribut;Aktiva produkter utan fältet Avsett för (kön);879;885;99.3;VARNING;P1;Fyll attributet efter regel (kon_fyll_target_gender.py);per 1 000 produkter;
+ovs_foraldrad_collection_body_html;Språk;Föråldrade översättningar av kollektionsbeskrivningar (alla språk);77;370;20.8;VARNING;P5;Översätt om ändrade källtexter;per språk och 1 000 texter;
+ovs_foraldrad_product_title;Språk;Föråldrade översättningar av produkttitlar (alla språk);446;2464;18.1;VARNING;P5;Översätt om ändrade källtexter;per språk och 1 000 texter;
+kollektion_utan_seo_titel;Kollektioner;Kollektioner utan SEO-titel;31;216;14.4;VARNING;P4;Skriv SEO-titel (prioritera efter visningar);per kollektion;
+kollektion_kort_text;Kollektioner;Kollektioner med nästan ingen beskrivning (under 50 tecken);28;216;13.0;VARNING;P4;Skriv kategoritext;per kollektion;
+ovs_collection_body_html;Språk;Minst översatta kollektionsbeskrivningar (de tre sämsta språken: no saknar 32, da saknar 20);52;633;8.2;VARNING;P5;Översätt saknade texter per språk;per språk och 1 000 texter;
+kollektion_utan_seo_beskr;Kollektioner;Kollektioner utan SEO-beskrivning;17;216;7.9;VARNING;P4;Skriv SEO-beskrivning;per kollektion;
+ovs_foraldrad_collection_title;Språk;Föråldrade översättningar av kollektionstitlar (alla språk);26;408;6.4;VARNING;P5;Översätt om ändrade källtexter;per språk och 1 000 texter;
+ovs_product_title;Språk;Minst översatta produkttitlar (de tre sämsta språken: no saknar 154, da saknar 0);154;3927;3.9;VARNING;P5;Översätt saknade texter per språk;per språk och 1 000 texter;
+ovs_collection_title;Språk;Minst översatta kollektionstitlar (de tre sämsta språken: no saknar 24, da saknar 0);24;648;3.7;VARNING;P5;Översätt saknade texter per språk;per språk och 1 000 texter;
+dubblettitlar;Katalog;Produkttitlar som används på flera aktiva produkter (antal produkter);27;885;3.1;VARNING;P1;Granska: samma produkt i flera storlekar eller riktiga dubbletter;per 100 produkter;skivstång 170cm stjärnlås 30mm | skivstång curlstång hantlar iron 108kg | skivstångsset fjäderlås 30mm
+tomma_kollektioner;Kollektioner;Tomma kollektioner;5;216;2.3;VARNING;P2;Regelfix, avpublicera och omdirigera;per kollektion;frontpage | kinesiologi-kinesiotejp | traningsutrustning-for-seniorer-och-aldre | gyronetics | showroom
+kort_beskrivning;Innehåll;Aktiva produkter med beskrivning under 100 tecken;0;885;0.0;VARNING;P4;Skriv produkttexter;per produkt;
+seo_titel_lang;Metadata;SEO-titlar över 60 tecken (av satta);0;77;0.0;VARNING;P4;Korta titeln;per 100 produkter;
+seo_beskr_lang;Metadata;SEO-beskrivningar över 160 tecken (av satta);0;885;0.0;VARNING;P4;Korta beskrivningen;per 100 produkter;
+utkast;Katalog;Produkter i status utkast/arkiverad (av alla);424;1309;32.4;INFO;P1;Granska om de ska publiceras eller tas bort;per 100 produkter;

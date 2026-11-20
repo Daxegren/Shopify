@@ -41,7 +41,7 @@ def till_csv(fynd_lista) -> str:
 
 
 def rapport_md(namn: str, datum: str, kallor: list[str], fynd_lista, anmarkningar: list[str] | None = None) -> str:
-    fl = sortera(fynd_lista)
+    fl = sortera([f for f in fynd_lista if f["antal"] > 0])  # kontroller utan träffar är inga fynd
     r = [f"# Skanningsrapport: {namn}", "", f"Datum: {datum}. Källor: {', '.join(kallor) or 'inga'}. Läsande skanning, inget har ändrats på sajten.", ""]
     brist = sum(1 for f in fl if f["allvar"] == "BRIST")
     varn = sum(1 for f in fl if f["allvar"] == "VARNING")

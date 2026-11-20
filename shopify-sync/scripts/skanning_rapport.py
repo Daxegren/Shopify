@@ -59,7 +59,7 @@ def main() -> int:
     ut = Path(a.ut).expanduser(); ut.mkdir(parents=True, exist_ok=True)
     (ut / "fynd.csv").write_text(till_csv(fl), encoding="utf-8")
     (ut / "rapport.md").write_text(rapport_md(a.namn, date.today().isoformat(), kallor, fl, anm), encoding="utf-8")
-    print(f"SAMMANFATTNING {a.namn}: {sum(1 for f in fl if f['allvar'] == 'BRIST')} brister, {sum(1 for f in fl if f['allvar'] == 'VARNING')} varningar. Rapport: {ut}/rapport.md")
+    print(f"SAMMANFATTNING {a.namn}: {sum(1 for f in fl if f['allvar'] == 'BRIST' and f['antal'] > 0)} brister, {sum(1 for f in fl if f['allvar'] == 'VARNING' and f['antal'] > 0)} varningar. Rapport: {ut}/rapport.md")
     return 0
 
 
