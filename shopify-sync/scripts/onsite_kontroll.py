@@ -94,6 +94,7 @@ class Page(HTMLParser):
         super().__init__(convert_charrefs=True)
         self.title = ""
         self._in_title = False
+        self._title_done = False
         self.meta: dict[str, str] = {}
         self.canonical = ""
         self.canonicals: list[str] = []
@@ -117,7 +118,10 @@ class Page(HTMLParser):
     def handle_starttag(self, tag, attrs):
         a = {k: (v or "") for k, v in attrs}
         if tag == "title":
-            self._in_title = True
+            # Bara sidans egen <title>: svg-ikoner har egna <title>-element (t.ex. betalningsmärken) som annars läggs till.
+            if not self._title_done and not self._skip:
+                self._in_title = True
+                self._title_done = True
         elif tag == "meta":
             key = (a.get("name") or a.get("property") or a.get("http-equiv") or "").lower()
             if key:
@@ -155,6 +159,8 @@ class Page(HTMLParser):
 
     def handle_endtag(self, tag):
         if tag == "title":
+            if self._in_title:
+                self.title = " ".join(self.title.split())
             self._in_title = False
         elif tag == "h1":
             self._h1 = False
