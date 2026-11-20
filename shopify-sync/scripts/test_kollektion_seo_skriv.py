@@ -8,6 +8,8 @@ class Fake:
         self.s = samlingar; self.skadlig = skadlig; self.skrivna = []
 
     def graphql(self, q, v=None):
+        if "currentAppInstallation" in q:
+            return {"currentAppInstallation": {"accessScopes": [{"handle": h} for h in getattr(self, "scopes", ["write_products"])]}}
         if "collectionUpdate" in q:
             c = v["c"]; self.skrivna.append(c)
             kol = self.s[c["id"]]
@@ -62,6 +64,14 @@ class T(unittest.TestCase):
         r = rad(1); r["seo_title_forslag"] = "x" * 61
         with self.assertRaises(Stopp):
             K.skriv(Fake({"gid://shopify/Collection/1": kol(1)}), fil([r]), tempfile.mktemp(), kor=True, logg=lambda *a: None)
+
+
+    def test_stoppar_utan_behorighet(self):
+        k = Fake({"gid://shopify/Collection/1": kol(1)})
+        k.scopes = ["read_products"]
+        with self.assertRaises(Stopp):
+            K.skriv(k, fil([rad(1)]), tempfile.mktemp(), kor=True, logg=lambda *a: None)
+        self.assertEqual(k.skrivna, [])
 
 
 if __name__ == "__main__":

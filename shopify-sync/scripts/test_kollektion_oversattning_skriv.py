@@ -8,6 +8,8 @@ class Fake:
         self.kalla = kalla; self.tr = dict(befintlig or {}); self.trasig = trasig; self.reg = []
 
     def graphql(self, q, v=None):
+        if "currentAppInstallation" in q:
+            return {"currentAppInstallation": {"accessScopes": [{"handle": h} for h in getattr(self, "scopes", ["write_translations"])]}}
         if "translationsRegister" in q:
             for t in v["t"]:
                 self.reg.append(t)
@@ -55,6 +57,14 @@ class T(unittest.TestCase):
         for r in (rad(ov="x" * 61), rad(loc="sv"), rad(key="title"), rad(ov="")):
             with self.assertRaises(Stopp):
                 K.skriv(Fake(ST), fil([r]), tempfile.mktemp(), kor=True, logg=lambda *a: None)
+
+
+    def test_stoppar_utan_behorighet(self):
+        k = Fake(ST)
+        k.scopes = ["read_products"]
+        with self.assertRaises(Stopp):
+            K.skriv(k, fil([rad()]), tempfile.mktemp(), kor=True, logg=lambda *a: None)
+        self.assertEqual(k.reg, [])
 
 
 if __name__ == "__main__":

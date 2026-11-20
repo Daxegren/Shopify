@@ -17,10 +17,21 @@ SATT = '''mutation($id:ID!,$t:[TranslationInput!]!){translationsRegister(resourc
 TILLATNA = {"meta_title": 60, "meta_description": 160}
 
 
+def behorighet(klient, krav):
+    """Stoppar innan något skrivs om appen saknar en nödvändig behörighet (lärdom 2026-11-20)."""
+    d = klient.graphql('{ currentAppInstallation { accessScopes { handle } } }')
+    har = {s["handle"] for s in d["currentAppInstallation"]["accessScopes"]}
+    saknas = sorted(set(krav) - har)
+    if saknas:
+        raise Stopp("appen saknar behörighet: " + ", ".join(saknas))
+
+
 def skriv(klient, csv_fil, fore_fil, max_n=None, kor=False, logg=print):
     rader = [r for r in csv.DictReader(open(csv_fil, encoding="utf-8"), delimiter=";") if r.get("godkand", "").strip().lower() == "ja"]
     if max_n:
         rader = rader[:max_n]
+    if kor:
+        behorighet(klient, {"write_translations"})
     fore, klara = [], 0
     try:
         for r in rader:
