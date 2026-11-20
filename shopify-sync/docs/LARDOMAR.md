@@ -355,3 +355,6 @@ Vad hände: regeln för viktskivor matchade ordet "Viktskivor" i titeln "Bicepsc
 
 ## 2026-11-20: Kategori, kön och kollektioner är olika lager
 Vad hände: David frågade varför vi kategoriserade produkter som redan hade taggar som styr kollektionerna. Vi hade behandlat "produkter utan kategori" som en brist utan att fråga om butikens mål. Regel: skilj alltid på (1) site, kollektioner och menyer, (2) kanaler och produktflöden, (3) filter och attribut. Fråga om målet innan ett fynd prioriteras, och kontrollera om någon kollektion använder produktkategori som regel (de kan peka på nedlagda kategorier) innan kategorier skrivs. Se playbook avsnitt 10.
+
+## 2026-11-20: SEO på huvudspråket ger svensk titel på översatta sidor när översättning saknas
+Vad hände: när 13 kollektioner fick svensk SEO-titel visade gorillasports.dk (danska) direkt den svenska titeln i `<title>`, eftersom SEO-titelns översättning saknades. Före ändringen var källtiteln tom och sidan använde den översatta kollektionstiteln. Regel: skriv inte SEO-titel på huvudspråket i en butik med flera språk utan att översättningarna (meta_title, meta_description) är klara i samma körning, eller kontrollera en översatt domän direkt efter kanariekörningen.
