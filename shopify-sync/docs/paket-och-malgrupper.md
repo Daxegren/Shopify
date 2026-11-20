@@ -50,3 +50,9 @@ Varje paket har: vad som levereras, vad kunden behöver ge, hur det mäts, och e
 - **Effekt är inte bevisad än.** Vi har bara en baslinje. En del förbättringar (alt-text, kategorier) är rena kvalitetsåtgärder med osäker sökeffekt.
 - **Insatsen beror på kundens katalog.** Workout Brands har 15 000 produkter och 674 kollektioner; en liten butik har betydligt färre fynd och mindre att sälja.
 - **Skanningen är underlag, inte facit.** Rapporten säger det själv, och varje fynd ska granskas av en människa före åtgärd.
+
+## 7. Tillägg 2026-11-20: två paket för det som inte syns på sajten
+Utöver paketen ovan finns två paket som arbetar utan att röra kollektioner och sajtens synlighet (se playbook, avsnitt 10):
+- **Kanaler och produktflöden:** produktkategori och obligatoriska attribut för TikTok Shop, Meta Shop, Google Shopping och Pinterest. Mäts med flödesstatus per kanal. Referens: Gorilla Sports 2026-11-20 (100 produkter kategoriserade, 133 återstår). Effekt inte mätt.
+- **Filter och attribut:** standardattribut för filter i butikens sökning, till exempel Avsett för (kön). Referens: Workout Brands (6 186 produkter fick könsvärde via kategori). Gäller bara butiker där filtret används.
+Båda sålda separat från paketen för kollektioner och SEO, så att kunden ser vad som syns på sajten och vad som bara förbättrar kanalerna.

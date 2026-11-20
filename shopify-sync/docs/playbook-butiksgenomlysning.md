@@ -96,3 +96,31 @@ Fyll i `tidslogg-genomlysning.csv` efter varje åtgärd (datum, butik, åtgärd,
 
 ## 9. Tillägg 2026-11-20: flera butiker med samma skript
 Skripten som använder `Klient` i `kon_fyll_target_gender.py` (`wb_export.py`, `wb_alt.py`, `kategori_satt.py` m.fl.) är nu butiksoberoende: sätt `SHOPIFY_BUTIK` till butikens `*.myshopify.com`-adress (standard är Workout Brands) och antingen `SHOPIFY_CLIENT_ID` + `SHOPIFY_CLIENT_SECRET` (Dev Dashboard-app, klient-id/hemlighet) eller `SHOPIFY_ADMIN_TOKEN` (äldre egen app med färdig token). Gamla variabelnamn med suffix `_WB` fungerar fortfarande. Ge en skanningsapp bara läsbehörigheter (`read_products`, `read_locales`, `read_translations`); skrivbehörigheter läggs till först när ett skrivuppdrag är godkänt.
+
+## 10. Tillägg 2026-11-20: tre lager som hålls isär (site, kanaler, filter)
+Ett vanligt missförstånd, och ett vi själva gjorde på Gorilla Sports: att "kategori" och "kön" skulle vara samma sak som kollektioner. De är tre olika lager, och vi arbetar med dem separat.
+
+| Lager | Vad det styr | Vad det består av | Påverkar sajtens synlighet? | Exempel på uppdrag |
+|---|---|---|---|---|
+| 1. Site (kollektioner och menyer) | Vilka produkter som visas på vilka sidor, i vilken ordning | Taggar, produkttyp, leverantör, titel, pris, status, kollektionsregler, menyer | Ja, det är lagret som syns | SEO på kollektioner, tomma sidor, omdirigeringar |
+| 2. Kanaler (TikTok Shop, Meta/Facebook/Instagram Shop, Google Shopping, Pinterest, Shop) | Hur produkten tas emot och visas i köpkanalerna | Shopifys produktkategori (taxonomin) och kanalernas obligatoriska attribut (till exempel märke, kön, färg, storlek, material, GTIN) | Nej | Kategorisering, flödeskvalitet, attributfyllnad |
+| 3. Filter och attribut (Search & Discovery) | Filter och facetter i butikens egen sökning | Standardattribut som "Avsett för" (kön), kopplade till produktkategorin | Bara om filtret används på sajten | Könsfältet på Workout Brands |
+
+**Grundregler**
+- Lager 2 och 3 ändras utan att lager 1 rörs. En produkts kategori ska inte avgöra vilka kollektioner den hamnar i. Kollektioner styrs av taggar och regler (lager 1).
+- Undantag att alltid kontrollera: kollektioner som själva använder produktkategori som regel. På Gorilla Sports fanns en sådan (`hemmagym-traningsredskap-hemma`, regel: kategori EQUALS en nedlagd, gammal kategori, eller en tagg). Före varje kategoriskrivning: lista kollektioner med kategoriregel, notera deras antal, skriv några produkter först (kanarie) och räkna om. Antalet ska vara oförändrat.
+- Kategorier i äldre kategoriträd (id som `archived-…`) finns kvar i butiker och i kollektionsregler. De kan flyttas till det nya trädet, men kollektionsregler som pekar på dem måste kollas först.
+- Ett skanningsfynd som "produkter utan kategori" är bara en brist om butikens mål kräver det. Fråga först: säljer butiken via kanaler (lager 2) eller behöver den filter (lager 3)? Gorilla Sports: kanaler är aktiva (Google, Facebook, Pinterest, TikTok, Shop) och kön är irrelevant för gymutrustning. Workout Brands: kön behövs för filter. Dela inte på samma prioritet för båda.
+
+**Rutin för kategorisering (lager 2), så som den kördes på Gorilla Sports**
+1. Exportera produkter läsande (`wb_export.py`), skapa förslag med `gorilla_kategori_forslag.py` (regler efter produkttyp och titel, säkerhet hög, medel eller manuell).
+2. Verifiera varje kategori-id mot butikens kategoriträd (sökning fungerar på svenska; `nodes(ids:[…]) { … on TaxonomyCategory { fullName } }` ger namnet). Shopifys svenska namn kan vara felöversatta (handtag heter "Användarnamn").
+3. Granska fil före skrivning: jämför hög-raderna mot produkttyp. Specifika regler först, regler på titelord bara där produkttypen stödjer dem (lärdom 2026-11-20: en curlbänk fick Viktskivor av ordet i titeln).
+4. David godkänner per säkerhetsgrupp. Skriv i ordningen torrkörning, kanarie (5, granska på titel), resten, med före-fil och återläsning (`kategori_satt.py`). Kontrollera efteråt ett slumpurval och antalet i kollektioner med kategoriregel.
+5. Skrivbehörighet (`write_products`) kräver en app som butikens ägare godkänt.
+
+**Rutin för attribut och kön (lager 3, Workout Brands)**
+Kategori sätts först (via `kategori_satt.py`), därefter fylls attributet (`kon_fyll_target_gender.py`). Attribut fylls bara där det är relevant (gymutrustning har inget kön).
+
+**Att verifiera innan vi lovar något kund (lager 2)**
+Vilka attribut TikTok Shop, Meta Shop och Google Merchant Center kräver per kategori, och hur flödenas fel ser ut, är inte undersökt av oss. Det är en antagen nytta, inte en mätt. Mät flödesstatus per kanal (avvisade produkter, varningar) före och efter innan effekten redovisas.
