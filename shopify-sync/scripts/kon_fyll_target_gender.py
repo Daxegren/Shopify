@@ -12,7 +12,7 @@ Miljövariabler (skrivs i terminalen, aldrig i chatten): SHOPIFY_CLIENT_ID_WB, S
 """
 import argparse, csv, json, os, sys, time, urllib.parse, urllib.request, urllib.error
 
-BUTIK = "doyou-se.myshopify.com"
+BUTIK = os.environ.get("SHOPIFY_BUTIK", "doyou-se.myshopify.com")  # t.ex. gs-nordic-production.myshopify.com för Gorilla Sports
 API = os.environ.get("SHOPIFY_API_VERSION", "2026-07")
 VARDEN = {  # klass i mappningsfilen -> metaobjekt (Avsett för)
     "dam": ["gid://shopify/Metaobject/115133645128"],
@@ -45,9 +45,16 @@ class Klient:
             return e.code, e.read().decode("utf-8", "replace")
 
     def hamta_token(self):
-        cid, sec = os.environ.get("SHOPIFY_CLIENT_ID_WB"), os.environ.get("SHOPIFY_CLIENT_SECRET_WB")
+        # Alternativ 1: en färdig Admin API-token (äldre egen app): SHOPIFY_ADMIN_TOKEN. Alternativ 2: klient-id och hemlighet
+        # (SHOPIFY_CLIENT_ID / SHOPIFY_CLIENT_SECRET, eller de gamla namnen med suffix _WB).
+        fardig = os.environ.get("SHOPIFY_ADMIN_TOKEN")
+        if fardig:
+            self.token = fardig
+            return
+        cid = os.environ.get("SHOPIFY_CLIENT_ID") or os.environ.get("SHOPIFY_CLIENT_ID_WB")
+        sec = os.environ.get("SHOPIFY_CLIENT_SECRET") or os.environ.get("SHOPIFY_CLIENT_SECRET_WB")
         if not cid or not sec:
-            raise Stopp("SHOPIFY_CLIENT_ID_WB och SHOPIFY_CLIENT_SECRET_WB måste vara satta i terminalen")
+            raise Stopp("SHOPIFY_CLIENT_ID och SHOPIFY_CLIENT_SECRET (eller SHOPIFY_ADMIN_TOKEN) måste vara satta i terminalen")
         body = urllib.parse.urlencode({"grant_type": "client_credentials", "client_id": cid, "client_secret": sec}).encode()
         st, txt = self.t(f"https://{BUTIK}/admin/oauth/access_token", {"Content-Type": "application/x-www-form-urlencoded"}, body)
         if st != 200 or "access_token" not in txt:

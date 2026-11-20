@@ -93,3 +93,6 @@ Fyll i `tidslogg-genomlysning.csv` efter varje åtgärd (datum, butik, åtgärd,
 - Avtal och behörighetsmodell för kunder (personuppgifter, åtkomst, ansvar).
 - Vem som säljer tjänsten (bolag och varumärke): beslutas av David, inte av koordinatorn.
 - Effekten av åtgärderna är inte mätt än (jämförelse 2026-11-26 för Workout Brands).
+
+## 9. Tillägg 2026-11-20: flera butiker med samma skript
+Skripten som använder `Klient` i `kon_fyll_target_gender.py` (`wb_export.py`, `wb_alt.py`, `kategori_satt.py` m.fl.) är nu butiksoberoende: sätt `SHOPIFY_BUTIK` till butikens `*.myshopify.com`-adress (standard är Workout Brands) och antingen `SHOPIFY_CLIENT_ID` + `SHOPIFY_CLIENT_SECRET` (Dev Dashboard-app, klient-id/hemlighet) eller `SHOPIFY_ADMIN_TOKEN` (äldre egen app med färdig token). Gamla variabelnamn med suffix `_WB` fungerar fortfarande. Ge en skanningsapp bara läsbehörigheter (`read_products`, `read_locales`, `read_translations`); skrivbehörigheter läggs till först när ett skrivuppdrag är godkänt.
