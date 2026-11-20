@@ -68,7 +68,12 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("site")
     ap.add_argument("--ut")
+    ap.add_argument("--andrade", help="kommaseparerade kollektionsadresser (handles) som ändras; standard är Workout Brands lista")
+    ap.add_argument("--kontroll", help="kommaseparerade kollektionsadresser som inte ändras; standard är Workout Brands lista")
+    ap.add_argument("--andringar", default="SEO-titlar 2026-11-18 och 2026-11-19, se ANDRINGSLOGG", help="fritext till info.json")
     a = ap.parse_args()
+    andrade = [h.strip() for h in a.andrade.split(",") if h.strip()] if a.andrade else ANDRADE
+    kontroll = [h.strip() for h in a.kontroll.split(",") if h.strip()] if a.kontroll else KONTROLL
     idag = dt.date.today()
     ut = os.path.expanduser(a.ut or f"~/gsc_baslinje_{idag}")
     os.makedirs(ut, exist_ok=True)
@@ -82,7 +87,7 @@ def main():
     skriv(f"{ut}/enhet.csv", ["enhet"], [((), r) for r in hamta(s, a.site, ["device"], d28, slut)])
     print("Sida x sökfråga för kollektionerna (28 dagar)")
     rader = []
-    for grupp, hs in (("andrad", ANDRADE), ("kontroll", KONTROLL)):
+    for grupp, hs in (("andrad", andrade), ("kontroll", kontroll)):
         for r in hamta(s, a.site, ["page", "query"], d28, slut, {"dimension": "page", "operator": "includingRegex", "expression": regex_for(hs)}):
             rader.append(((grupp,), r))
     skriv(f"{ut}/sida_fraga_28d.csv", ["grupp", "sida", "fraga"], rader)
@@ -94,8 +99,8 @@ def main():
         print(f"  {st}..{en}: {len(part)} sidor")
         vr += [((str(st),), r) for r in part]
     skriv(f"{ut}/vecka_sida.csv", ["veckostart", "sida"], vr)
-    json.dump({"kord": str(idag), "data_till": str(slut), "andrade_kollektioner": ANDRADE, "kontroll": KONTROLL,
-               "andringar": "SEO-titlar 2026-11-18 och 2026-11-19, se ANDRINGSLOGG"}, open(f"{ut}/info.json", "w"), ensure_ascii=False, indent=1)
+    json.dump({"kord": str(idag), "data_till": str(slut), "andrade_kollektioner": andrade, "kontroll": kontroll,
+               "andringar": a.andringar}, open(f"{ut}/info.json", "w"), ensure_ascii=False, indent=1)
     print("KLART ->", ut)
 
 
