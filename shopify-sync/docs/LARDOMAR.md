@@ -349,3 +349,6 @@ Vad hände: skanningsrapporten listade kontroller med noll träffar (t.ex. 0 pro
 
 ## 2026-11-20: Alt-text i Shopify och i sidans HTML är olika mått
 Vad hände: Shopify-exporten visade 95,5 % av Gorillas aktiva bilder utan alt-text, medan den publika skanningen bara hittade 2,1 % `<img>` utan alt. Temat fyller sannolikt i produkttiteln som reserv i HTML:en. Regel: redovisa båda måtten och säg vilket som avses; alt i mediabiblioteket påverkar främst bildsök och flöden, inte nödvändigtvis det synliga i sidkällan.
+
+## 2026-11-20: Regelkollision i kategoriförslag (Gorilla Sports)
+Vad hände: regeln för viktskivor matchade ordet "Viktskivor" i titeln "Bicepscurlbänk Z Stång Viktskivor Totalt 40kg" före regeln för curlbänkar, och förslaget markerades ändå som hög säkerhet. Felet upptäcktes först när kanariekörningen listade de fem skrivna produkterna. En andra träff: en skivstång med inkluderad kudde fick kategorin Skivstångskuddar. Regel: (1) ordningen på regler avgör utfallet, så de mest specifika reglerna först och regler på titelord bara där produkttypen stödjer dem; (2) före skrivning ska alla rader med hög säkerhet jämföras mot produkttypen och avvikelser lyftas ut; (3) kanariekörningen granskas på produkttitel, inte bara på antal.
