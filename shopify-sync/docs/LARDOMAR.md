@@ -447,3 +447,6 @@ Vad hände: vid konsolideringen av BOS-grenarna fördes nio filer med å i namne
 ## 2026-11-04: Tre sessioner numrerade regelboken v1.5 oberoende av varandra (samordnaren)
 - **Vad hände:** BEST OF SPORTS-sessionen hade ett eget v1.5-avsnitt, Alpha Zoo-sessionen skrev om rubriken till v1.5 med R20/R21, och en tredje version v1.6 lades till. Sammanslagning hade gett konflikt och två olika v1.5.
 - **Regel:** butikssessioner föreslår regler i sin rapport eller i ett eget utkast; bara samordnaren numrerar och för in dem i `regler-v1.md`. Regler som skriptet kan testa läggs samtidigt som test i `skrivfil_kontroll.py`.
+
+## 2026-11-21: Läs butikens spärrar i BESLUTSLOGG före varje skrivbatch, även när David ger ja
+Vad hände: BESLUTSLOGG hade sedan 2026-11-17 en rad om ändringsstopp i Gorillas butiker till och med 2026-11-30. Jag läste den inte före skrivningarna 2026-11-20, och därför kunde jag inte säga till David att stoppet fanns innan han godkände steg för steg. Regel: före varje skrivbatch i en butik, sök i `BESLUTSLOGG.md` efter butikens namn och ord som stopp, spärr och ändringsstopp, och redovisa resultatet för David i samma meddelande som ber om godkännande. Ett ja i chatten ändrar inte att spärren ska nämnas.
