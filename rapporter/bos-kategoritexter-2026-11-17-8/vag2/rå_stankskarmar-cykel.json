@@ -1,0 +1,204 @@
+{
+ "handle": "stankskarmar-cykel",
+ "id": "gid://shopify/Collection/561575985418",
+ "titel": "Stänkskärm - Cykel",
+ "regel": [
+  [
+   "TAG",
+   "EQUALS",
+   "stänkskärm"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "stänkskärmar"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "mudguard"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "mudguards"
+  ]
+ ],
+ "huvud_regex": "",
+ "antal_i_kollektionen": 64,
+ "antal_koopbara_alla": 52,
+ "antal_koopbara": 52,
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
+ "marken": [
+  [
+   "SKS",
+   17
+  ],
+  [
+   "Hebie",
+   17
+  ],
+  [
+   "Giant",
+   8
+  ],
+  [
+   "Ass Savers",
+   4
+  ],
+  [
+   "Velomarket",
+   3
+  ],
+  [
+   "Academy",
+   1
+  ],
+  [
+   "XLC",
+   1
+  ],
+  [
+   "AXA",
+   1
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "stänkskärmset",
+   14
+  ],
+  [
+   "framskärm",
+   12
+  ],
+  [
+   "bakskärm",
+   10
+  ],
+  [
+   "stänkskärmar",
+   7
+  ],
+  [
+   "stänkskydd",
+   2
+  ],
+  [
+   "stänkskärmsset",
+   2
+  ],
+  [
+   "stänkskärmsförlängning",
+   1
+  ],
+  [
+   "fästklämma",
+   1
+  ],
+  [
+   "stänkskärmsfäste",
+   1
+  ],
+  [
+   "front",
+   1
+  ]
+ ],
+ "pris_min": 79.0,
+ "pris_max": 2569.0,
+ "pris_median": 304.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [
+  [
+   "Fästklämma för Stänkskärm SKS, 2 st",
+   79.0
+  ],
+  [
+   "Stänkskärmset Hebie Taipan, 20 tum, Svart",
+   109.0
+  ],
+  [
+   "Front Fender Ass Savers Toetector Regular",
+   109.0
+  ],
+  [
+   "Stänkskärmset Hebie Taipan, 26 tum, Svart",
+   109.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Stänkskärmset Hebie Alumee 62 mm",
+   2569.0
+  ],
+  [
+   "Stänkskärmset Hebie Alumee 52 mm",
+   2569.0
+  ],
+  [
+   "Stänkskärmset Hebie Alumee, 40 mm",
+   2569.0
+  ]
+ ],
+ "alla_titlar": [
+  "Baklykta Axa Go Steady för Skärm",
+  "Bakskärm Ass Savers Fendor Bendor Regular",
+  "Bakskärm Ass Savers Win Wing 2 Road Spektrum",
+  "Bakskärm Ass Savers Win Wing Road Logo",
+  "Bakskärm Giant Speedshield Clip-On",
+  "Bakskärm Giant Uniclip Fender, Fästs på Sadeln",
+  "Bakskärm Hebie Viper X för Sadelstolpe",
+  "Bakskärm SKS S-Guard, Svart",
+  "Bakskärm SKS X-Blade Dark 26\"/27,5\"",
+  "Bakskärm SKS X-Blade för 26–27,5 tum, Svart och Grå",
+  "Bakskärm SKS X-Blade, 29 tum",
+  "Framskärm Giant FSX, för mountainbikes",
+  "Framskärm Giant Proguard Zip",
+  "Framskärm Giant Speedshield Clip-On",
+  "Framskärm Giant Swift, 28 tum, Aluminium",
+  "Framskärm Hebie Swap Front Adrenaline, 320 x 140 mm",
+  "Framskärm Hebie Viper X med Adaptrar",
+  "Framskärm SKS Flap Guard, Svart",
+  "Framskärm SKS Mudrocker Front, svart",
+  "Framskärm SKS Shockblade Dark för 26–27,5 tum, Svart",
+  "Framskärm SKS Shockblade för 26–27,5 tum, Svart och Grå",
+  "Framskärm SKS Shockblade för 28–29 tum",
+  "Framskärm XLC MG-C05 för Hjul 26–29 tum",
+  "Front Fender Ass Savers Toetector Regular",
+  "Fästklämma för Stänkskärm SKS, 2 st",
+  "Stänkskydd SKS Rowdy 2.0 för barncykel, 20–24 tum",
+  "Stänkskydd SKS VELOFLEXX 55 set",
+  "Stänkskärmar Hebie Taipan 16 tum, Svart",
+  "Stänkskärmar SKS Beavertail Set, 26–28 tum, Svart",
+  "Stänkskärmar SKS Fatboard för Fatbike",
+  "Stänkskärmar SKS Velo 42, Set, 42 mm",
+  "Stänkskärmar SKS Velo 47 26\"",
+  "Stänkskärmar SKS Velo 55 Junior Set, Svart",
+  "Stänkskärmar SKS Velo 55, 26 tum",
+  "Stänkskärmset Giant Swift",
+  "Stänkskärmset Hebie Alumee 52 mm",
+  "Stänkskärmset Hebie Alumee 62 mm",
+  "Stänkskärmset Hebie Alumee, 40 mm",
+  "Stänkskärmset Hebie Swap Set, 26–29 tum, Kamouflage",
+  "Stänkskärmset Hebie Taipan Trekking, 28 tum, Svart",
+  "Stänkskärmset Hebie Taipan, 20 tum, Svart",
+  "Stänkskärmset Hebie Taipan, 24 tum, Svart",
+  "Stänkskärmset Hebie Taipan, 26 tum, Svart",
+  "Stänkskärmset Hebie Viper F, 26–29 tum, Svart",
+  "Stänkskärmset Hebie Viper S, 26–29 tum, Svart",
+  "Stänkskärmset Hebie Viper X MTB, 24–28 tum, Svart",
+  "Stänkskärmset Hebie Viper X Stealth, 26–29 tum, MTB",
+  "Stänkskärmset Hebie Viper, 26–29 tum, Svart",
+  "Stänkskärmsfäste SKS Velo 55 Cross",
+  "Stänkskärmsförlängning för SKS Speedrocker",
+  "Stänkskärmsset för ACADEMY 24\" hjul",
+  "Stänkskärmsset för GIANT Revolt 2019+ modeller"
+ ]
+}

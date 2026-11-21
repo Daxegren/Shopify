@@ -1,0 +1,126 @@
+{
+ "handle": "grepptraning",
+ "id": "gid://shopify/Collection/526982906122",
+ "titel": "Greppträning",
+ "regel": [
+  [
+   "TAG",
+   "EQUALS",
+   "grepptränare"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "greppträning"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "handtränare"
+  ]
+ ],
+ "huvud_regex": "",
+ "antal_i_kollektionen": 17,
+ "antal_koopbara_alla": 11,
+ "antal_koopbara": 11,
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
+ "marken": [
+  [
+   "Gymstick",
+   9
+  ],
+  [
+   "Gorilla Sports Norden",
+   2
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "fingerexpander",
+   2
+  ],
+  [
+   "handtränare",
+   2
+  ],
+  [
+   "greppstärkare",
+   2
+  ],
+  [
+   "grepptränare",
+   1
+  ],
+  [
+   "extra",
+   1
+  ],
+  [
+   "viktset",
+   1
+  ],
+  [
+   "justerbart",
+   1
+  ],
+  [
+   "greppringar",
+   1
+  ]
+ ],
+ "pris_min": 99.0,
+ "pris_max": 989.1,
+ "pris_median": 169.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": 10.0,
+ "kg_i_titlar_max": 20.0,
+ "antal_titlar_med_kg": 2,
+ "billigaste": [
+  [
+   "Fingerexpander Gymstick Active, Set med 2 st",
+   99.0
+  ],
+  [
+   "Fingerexpander Gymstick, Set med 3 Delar",
+   119.0
+  ],
+  [
+   "Greppringar Gymstick Active, Set",
+   129.0
+  ],
+  [
+   "Handtränare i Aluminium Gymstick",
+   149.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Viktset Gymstick Vinyl Grip Pump Set, 20 kg",
+   989.1
+  ],
+  [
+   "Extra Grepp Barbell Grips, Svarta",
+   349.0
+  ],
+  [
+   "Handtränare Gymstick, Justerbar, med Räknare",
+   219.0
+  ]
+ ],
+ "alla_titlar": [
+  "Extra Grepp Barbell Grips, Svarta",
+  "Fingerexpander Gymstick Active, Set med 2 st",
+  "Fingerexpander Gymstick, Set med 3 Delar",
+  "Greppringar Gymstick Active, Set",
+  "Greppstärkare Gymstick Active Power",
+  "Greppstärkare Gymstick Active, Justerbart Motstånd",
+  "Grepptränare Handgripper BASIC, 10 kg",
+  "Handtränare Gymstick, Justerbar, med Räknare",
+  "Handtränare i Aluminium Gymstick",
+  "Justerbart handtag, lätt",
+  "Viktset Gymstick Vinyl Grip Pump Set, 20 kg"
+ ]
+}

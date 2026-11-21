@@ -1,0 +1,109 @@
+{
+ "handle": "traningsmaskin",
+ "id": "gid://shopify/Collection/526981529866",
+ "titel": "Träningsmaskin",
+ "regel": [
+  [
+   "TAG",
+   "EQUALS",
+   "träningsmaskin"
+  ]
+ ],
+ "huvud_regex": "",
+ "antal_i_kollektionen": 18,
+ "antal_koopbara_alla": 8,
+ "antal_koopbara": 8,
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
+ "marken": [
+  [
+   "Tunturi",
+   3
+  ],
+  [
+   "Gorilla Sports Norden",
+   2
+  ],
+  [
+   "Hammer",
+   2
+  ],
+  [
+   "Finnlo by Hammer",
+   1
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "sissy",
+   2
+  ],
+  [
+   "träningsmaskin",
+   2
+  ],
+  [
+   "hemmagym",
+   2
+  ],
+  [
+   "latsdragsstation",
+   1
+  ],
+  [
+   "träningsstation",
+   1
+  ]
+ ],
+ "pris_min": 1646.1,
+ "pris_max": 50679.0,
+ "pris_median": 12389.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [
+  [
+   "Sissy Squat-bänk, Svart",
+   1646.1
+  ],
+  [
+   "Sissy Squat Profi, Svart, med Justerbara Kuddar",
+   2303.1
+  ],
+  [
+   "Latsdragsstation Hammer Multi-Lat Tower",
+   8839.0
+  ],
+  [
+   "Träningsmaskin Tunturi WT85 Leverage Pulley Gym",
+   11779.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Träningsmaskin Tunturi Platinum Full Smith Selectorized V-Series",
+   50679.0
+  ],
+  [
+   "Hemmagym Finnlo by Hammer Autark 1500",
+   23949.0
+  ],
+  [
+   "Träningsstation Hammer Bio Force Extreme Sixpack Plus",
+   19599.0
+  ]
+ ],
+ "alla_titlar": [
+  "Hemmagym Finnlo by Hammer Autark 1500",
+  "Hemmagym Tunturi WT80 Leverage Gym",
+  "Latsdragsstation Hammer Multi-Lat Tower",
+  "Sissy Squat Profi, Svart, med Justerbara Kuddar",
+  "Sissy Squat-bänk, Svart",
+  "Träningsmaskin Tunturi Platinum Full Smith Selectorized V-Series",
+  "Träningsmaskin Tunturi WT85 Leverage Pulley Gym",
+  "Träningsstation Hammer Bio Force Extreme Sixpack Plus"
+ ]
+}
