@@ -81,7 +81,7 @@ def skanna(bas: str, max_sidor: int = 150, paus: float = 1.0, logg=print):
         ut.append(fynd("robots_blockerar", "Indexering", "robots.txt blockerar sajten för alla", 1, 1, "BRIST", "P3", "Rätta robots.txt", "per sajt"))
     mal = urval(sidor_alla, bas, max_sidor)
     logg(f"{len(sidor_alla)} sidor i sitemap, skannar {len(mal)}")
-    sidor, hoppade = [], 0
+    sidor, hoppade, spar_stopp = [], 0, 0
     for i, u in enumerate(mal, 1):
         if not rp.can_fetch(UA_NAMN, u) and rob["status"] == 200:
             hoppade += 1
@@ -99,6 +99,10 @@ def skanna(bas: str, max_sidor: int = 150, paus: float = 1.0, logg=print):
                         "ord": a["ord_main"], "jsonld": sum(a["jsonld_typer"].values()), "jsonld_trasiga": a["jsonld_trasiga"], "og_bild": a["og_bild"],
                         "html": True})
         sidor.append(rad)
+        spar_stopp = spar_stopp + 1 if r["status"] in (429, 403) else 0
+        if spar_stopp >= 3:  # bot-kontroll: försök aldrig ta dig förbi den (lärdom 2026-11-12), redovisa luckan
+            anm.append(f"Skanningen avbröts efter {i} av {len(mal)} sidor: tre svar i rad med HTTP 429/403 (troligen bot-kontroll). Resterande sidor är inte skannade.")
+            break
         if i % 25 == 0:
             logg(f"  {i} av {len(mal)}")
         time.sleep(paus)
