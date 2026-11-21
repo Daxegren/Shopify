@@ -405,3 +405,8 @@ Vad hände: översättningskörningen på Gorilla Sports stoppade med `ACCESS_DE
 ## 2026-11-17: backtecken i en skal-heredoc körs som kommandon
 - **Vad hände:** ett tillägg till beslutsfilen skrevs med en oavgränsad heredoc som innehöll backtecken; skalet körde `price-change-job-active` och filnamnen som kommandon och stoppade in tomma strängar i filen. Upptäcktes vid kontroll av filens slut.
 - **Regel:** skriv text med backtecken via en citerad heredoc (`<<'E'`) eller med Write-verktyget, och läs filens slut efter varje tillägg.
+
+<!-- Förd över från sidospåret bos-intern-lankning-matning 2026-11-21 -->
+## 2026-11-17: handskriven återgivning av beskrivningstext ger tysta avvikelser
+- **Vad hände:** Vid första skrivningen av en kollektionsbeskrivning (efter att ha borttagit spårningsparametrar) tappade jag ett fast mellanslag (U+00A0) och skrev "upphörsbacke" i stället för "uppförsbacke". Återläsning med exakt jämförelse mot förväntad text fångade båda. Ingen kund hann se felet länge, men det hade inte synts utan jämförelsen.
+- **Regel:** skriv aldrig kollektionstext för hand utan att skriva ut den som kodad JSON (`json.dumps`) och kopiera den; kör alltid en kanarie först och jämför hela texten byte för byte mot förväntat före övriga skrivningar.
