@@ -1,0 +1,17 @@
+[
+ {
+  "id": "10472239989002",
+  "nr": 60056,
+  "skäl": "Produkttypen är oklar: titeln säger 'Spike bomb', källan 'Traditionell Spokey hinkbomb' (maskinöversättning utan känd betydelse). Övriga fakta är bara färg svart och vikt 12 kg; entydig produkttyp saknas och en text skulle kräva gissning (v1.12 punkt 5)."
+ },
+ {
+  "id": "10472252309770",
+  "nr": 60063,
+  "skäl": "Varianterna går inte ihop: två varianter med samma artikelnummer och EAN men olika pris (2 499 kr och 1 412,10 kr) och olika färg ('sinine' = blå, titeln säger turkos). Går inte att avgöra vilken artikel och vilket pris texten gäller (R3, v1.9)."
+ },
+ {
+  "id": "10472257683722",
+  "nr": 60075,
+  "skäl": "Modellen stämmer inte: titeln säger Rambler R6.0 JR, källan beskriver Rambler R6.1 JR. Går inte att avgöra modell utan tillverkarsida; en text skulle kräva gissning (R3)."
+ }
+]

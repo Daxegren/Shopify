@@ -1,0 +1,966 @@
+[
+ {
+  "id": "10515741606154",
+  "nr": 60176,
+  "titel": "Saddle GIANT APPROACH",
+  "lager": 3,
+  "status": "ACTIVE",
+  "vendor": "Giant",
+  "produkttyp": "Cykeldelar",
+  "taggar": [
+   "Cykeldelar",
+   "Giant",
+   "Sadel",
+   "Velomarket"
+  ],
+  "live_beskrivning_html": "<p>Giant Approach är en mångsidig sadel som erbjuder den perfekta kombinationen av komfort och stöd. Dess optimerade form och ergonomiska design ger utmärkt komfort för en mängd olika cyklister i olika sittställningar.</p>\n<p><strong>Ytterligare information:</strong></p>\n<ul>\n<li>Optimerad ramanslutningsstruktur</li>\n<li>Den ergonomiska utskärningsdesignen och ultralätta, fritt flödande partiklar minskar tryckpunkter med mer än 20 procent och hjälper till att fördela trycket över ett större kontaktyta</li>\n<li>Lätt, högresistent PU-skum bidrar till total viktreduktion och ger större stöd</li>\n<li>Kompatibel med Giants UniClip monteringssystem</li>\n<li>270 mm x 145 mm</li>\n</ul>\n<p>Giant grundades 1972 och är en världsledande tillverkare av högkvalitativa cyklar och cykelutrustning. Giant introducerade en lättare och starkare aluminiumcykelram och bidrog till att kolfiberramar fick en bredare användning. Utvecklingen av utrustning involverar ett kontinuerligt samarbete med cyklister på toppnivå.</p>",
+  "live_seo": {
+   "title": null,
+   "description": null
+  },
+  "varianter": [
+   {
+    "sku": "120000182",
+    "ean": "4713250007601",
+    "pris": "469.00",
+    "jamforpris": null,
+    "titel": "Default Title",
+    "val": [
+     {
+      "name": "Title",
+      "value": "Default Title"
+     }
+    ]
+   }
+  ],
+  "pa_bestallning": false,
+  "las_av_prisjobb": false
+ },
+ {
+  "id": "10515743998218",
+  "nr": 60177,
+  "titel": "Tricksparkcykel Versatyl Bloody Mary V2 Pro Scooter, svart-orange",
+  "lager": 2,
+  "status": "ACTIVE",
+  "vendor": "Versatyl",
+  "produkttyp": "Sparkcyklar",
+  "taggar": [
+   "price-change-job-active",
+   "sale",
+   "Sparkcyklar",
+   "Velomarket",
+   "Versatyl"
+  ],
+  "live_beskrivning_html": "<ul>\n<li><strong>Lämplig för åkare 16-170 cm långa.</strong></li>\n<li>Färdighetsnivå: professionell</li>\n<li>Plattformslängd: 510 mm</li>\n<li>Plattformsbredd: 1018 mm.</li>\n<li>Plattformsmaterial: aluminium.</li>\n<li>Styrmaterial: krompläterat stål.</li>\n<li>Styrstångslängd: 600 mm.</li>\n<li>Styrhalsbredd: 550 mm.</li>\n<li>Lager typ: ABEC-9.</li>\n<li>Hjulstorlek: 110 mm.</li>\n<li>Lastkapacitet: upp till 100 kg.</li>\n<li>Vikt: 2,9 kg</li>\n<li><strong>Färg: svart-orange</strong></li>\n</ul>",
+  "live_seo": {
+   "title": null,
+   "description": null
+  },
+  "varianter": [
+   {
+    "sku": "3760004845270",
+    "ean": "3760004845270",
+    "pris": "3379.00",
+    "jamforpris": "3359.00",
+    "titel": "Default Title",
+    "val": [
+     {
+      "name": "Title",
+      "value": "Default Title"
+     }
+    ]
+   }
+  ],
+  "pa_bestallning": false,
+  "las_av_prisjobb": true
+ },
+ {
+  "id": "10515744424202",
+  "nr": 60178,
+  "titel": "Scooter SOKE City, pink",
+  "lager": 2,
+  "status": "ACTIVE",
+  "vendor": "SOKE",
+  "produkttyp": "Sparkcyklar",
+  "taggar": [
+   "Hybridcykel",
+   "price-change-job-active",
+   "sale",
+   "SOKE",
+   "Sparkcyklar",
+   "Velomarket"
+  ],
+  "live_beskrivning_html": "<div>\n<strong>Soke City </strong>är en bra följeslagare för både unga och vuxna. Den justerbara styrehöjden garanterar att alla kan åka på denna sparkcykel. Ett enkelt viksystem gör sparkcykeln lätt att transportera, liksom dess axelrem. Handbromsen är lättare att använda än tryckluftsbromsen. Borrbromsen är en fjäderbroms, gjord av stål. <br><br><strong>Mer information:</strong>\n</div><ul>\n<li>Höjd: 88, 93, 98 cm</li>\n<li>Lager: ABEC-9</li>\n<li>Material: ram - aluminium; lins - järn; klämma - aluminium; bromsar - stål.</li>\n<li>Maximal ryttarbelastning: 100 kg.</li>\n<li>Hjulhårdhet: 88A</li>\n<li>Hjuldiameter: 200x30 mm</li>\n<li>48,5 cm bred lins</li>\n<li>Vikt: 3,96 kg</li>\n</ul><div></div>",
+  "live_seo": {
+   "title": null,
+   "description": null
+  },
+  "varianter": [
+   {
+    "sku": "1591",
+    "ean": "5903890612450",
+    "pris": "2389.00",
+    "jamforpris": "2379.00",
+    "titel": "Default Title",
+    "val": [
+     {
+      "name": "Title",
+      "value": "Default Title"
+     }
+    ]
+   }
+  ],
+  "pa_bestallning": false,
+  "las_av_prisjobb": true
+ },
+ {
+  "id": "10515744489738",
+  "nr": 60179,
+  "titel": "Scooter SOKE City, green",
+  "lager": 1,
+  "status": "ACTIVE",
+  "vendor": "SOKE",
+  "produkttyp": "Sparkcyklar",
+  "taggar": [
+   "Hybridcykel",
+   "price-change-job-active",
+   "sale",
+   "SOKE",
+   "Sparkcyklar",
+   "Velomarket"
+  ],
+  "live_beskrivning_html": "<div>\n<strong>Soke City </strong>är en bra följeslagare för både unga och vuxna. Den justerbara styrehöjden garanterar att alla kan åka på denna scooter. Ett enkelt viksystem gör scootern lätt att transportera, liksom dess axelrem. Handbromsen är lättare att använda än en tryckluftsbroms. Borrbromsen är en fjäderbroms, tillverkad av stål. <br><br><strong>Mer information:</strong>\n</div><ul>\n<li>Höjd: 88, 93, 98 cm</li>\n<li>Lager: ABEC-9</li>\n<li>Material: ram - aluminium; lins - järn; klämma - aluminium; bromsar - stål.</li>\n<li>Maximal ryttarbelastning: 100 kg.</li>\n<li>Hjulhårdhet: 88A</li>\n<li>Hjuldimensioner: 200x30 mm</li>\n<li>48,5 cm bred lins</li>\n<li>Vikt: 3,96 kg</li>\n</ul><div></div>",
+  "live_seo": {
+   "title": null,
+   "description": null
+  },
+  "varianter": [
+   {
+    "sku": "1613",
+    "ean": "5908220476047",
+    "pris": "2309.00",
+    "jamforpris": "2299.00",
+    "titel": "Default Title",
+    "val": [
+     {
+      "name": "Title",
+      "value": "Default Title"
+     }
+    ]
+   }
+  ],
+  "pa_bestallning": false,
+  "las_av_prisjobb": true
+ },
+ {
+  "id": "10515744588042",
+  "nr": 60180,
+  "titel": "Hjul för sparkcykel UNION Classic V2 Pro Scooter Wheel 110mm, svart/grå",
+  "lager": 2,
+  "status": "ACTIVE",
+  "vendor": "Union",
+  "produkttyp": "Sparkcyklar",
+  "taggar": [
+   "price-change-job-active",
+   "sale",
+   "Sparkcyklar",
+   "Union",
+   "Velomarket"
+  ],
+  "live_beskrivning_html": "<div>Union Classic sparkcykelhjul har en snygg design som gör din sparkcykel mer modern. <br> <br><strong>Mer information:</strong>\n</div><ul>\n<li>Mått: 110mm * 24mm.</li>\n<li>Lager: ABEC-9</li>\n<li>Vikt: 239 g</li>\n</ul><div><br></div>",
+  "live_seo": {
+   "title": null,
+   "description": null
+  },
+  "varianter": [
+   {
+    "sku": "104876",
+    "ean": "2900503233906",
+    "pris": "1659.00",
+    "jamforpris": "1649.00",
+    "titel": "Default Title",
+    "val": [
+     {
+      "name": "Title",
+      "value": "Default Title"
+     }
+    ]
+   }
+  ],
+  "pa_bestallning": false,
+  "las_av_prisjobb": true
+ },
+ {
+  "id": "10515746095370",
+  "nr": 60181,
+  "titel": "Sadel GIANT Romero SL, svart",
+  "lager": 1,
+  "status": "ACTIVE",
+  "vendor": "Giant",
+  "produkttyp": "Tillbehör",
+  "taggar": [
+   "Giant",
+   "price-change-job-active",
+   "Sadel",
+   "sale",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "live_beskrivning_html": "<ul>\n<li>Den nya Side-Flex-tekniken gör att sadelns sidor kan flexa och anpassa sig efter cyklisten, vilket undviker friktion och skador</li>\n<li>Side-Wrap-tekniken täcker sadelkanterna med mycket elastisk dämpning för bättre absorption av vibrationer och stötar</li>\n<li>Vikt: 245 gram</li>\n<li>Mått: 138 x 277 mm</li>\n</ul>",
+  "live_seo": {
+   "title": null,
+   "description": null
+  },
+  "varianter": [
+   {
+    "sku": "120000188",
+    "ean": "4713250007663",
+    "pris": "1689.00",
+    "jamforpris": "1679.00",
+    "titel": "Default Title",
+    "val": [
+     {
+      "name": "Title",
+      "value": "Default Title"
+     }
+    ]
+   }
+  ],
+  "pa_bestallning": false,
+  "las_av_prisjobb": true
+ },
+ {
+  "id": "10515746423050",
+  "nr": 60182,
+  "titel": "Stuntsparkcykel Union DOT M Svart/Neochrome",
+  "lager": 1,
+  "status": "ACTIVE",
+  "vendor": "Union",
+  "produkttyp": "Sparkcyklar",
+  "taggar": [
+   "price-change-job-active",
+   "sale",
+   "Sparkcyklar",
+   "Union",
+   "Velomarket"
+  ],
+  "live_beskrivning_html": "<div>\n<strong>UNION DOT M</strong> är ett utmärkt värde för pengarna och är <strong>världens lättaste serieproducerade kompletta parksparkcykel</strong> i denna storlek, med en vikt på endast <strong>2,75 kg!<br></strong><br>\n</div><ul>\n<li><strong>Lämplig för förare mellan 130 och 160 cm långa.</strong></li>\n<li>Färdighetsnivå: professionell</li>\n<li>Plattformslängd: 460 mm</li>\n<li>Plattformsbredd: 120 mm</li>\n<li>Plattformsmaterial: aluminium</li>\n<li>Stångmaterial: aluminium</li>\n<li>Styrningssystem: IHC</li>\n<li>Styrarmens längd: 60 mm</li>\n<li>Styrbredd: 560 mm</li>\n<li>Lager typ: ABEC-9</li>\n<li>Hjulstorlek: 110 mm</li>\n<li>Lastkapacitet: upp till 100 kg</li>\n<li>Vikt: 2,75 kg</li>\n<li><strong>Färg: svart/neochrome</strong></li>\n<li>\n</li>\n</ul>",
+  "live_seo": {
+   "title": null,
+   "description": null
+  },
+  "varianter": [
+   {
+    "sku": "105560",
+    "ean": "2902523862197",
+    "pris": "4399.00",
+    "jamforpris": "4299.00",
+    "titel": "Default Title",
+    "val": [
+     {
+      "name": "Title",
+      "value": "Default Title"
+     }
+    ]
+   }
+  ],
+  "pa_bestallning": false,
+  "las_av_prisjobb": true
+ },
+ {
+  "id": "10515746455818",
+  "nr": 60183,
+  "titel": "Stuntsparkcykel Union DOT M Svart/Rå",
+  "lager": 1,
+  "status": "ACTIVE",
+  "vendor": "Union",
+  "produkttyp": "Sparkcyklar",
+  "taggar": [
+   "price-change-job-active",
+   "sale",
+   "Sparkcyklar",
+   "Union",
+   "Velomarket"
+  ],
+  "live_beskrivning_html": "<div>\n<strong>UNION DOT M</strong> är ett utmärkt val för pengarna och är <strong>världens lättaste serieproducerade kompletta parksparkcykel</strong> i denna storlek, med en vikt på endast <strong>2,75 kg!<br></strong><br>\n</div><ul>\n<li><strong>Lämplig för förare mellan 130 och 160 cm långa.</strong></li>\n<li>Färdighetsnivå: professionell</li>\n<li>Plattformslängd: 460 mm</li>\n<li>Plattformsbredd: 120 mm</li>\n<li>Plattformsmaterial: aluminium</li>\n<li>Styrmaterial: aluminium</li>\n<li>Styrsystem: IHC</li>\n<li>Styrarmens längd: 60 mm</li>\n<li>Styrbredd: 560 mm</li>\n<li>Lager typ: ABEC-9</li>\n<li>Hjulstorlek: 110 mm</li>\n<li>Lastkapacitet: upp till 100 kg</li>\n<li>Vikt: 2,75 kg</li>\n<li><strong>Färg: svart/grå</strong></li>\n</ul><div></div>",
+  "live_seo": {
+   "title": null,
+   "description": null
+  },
+  "varianter": [
+   {
+    "sku": "105561",
+    "ean": "2906213364435",
+    "pris": "4329.00",
+    "jamforpris": "4229.00",
+    "titel": "Default Title",
+    "val": [
+     {
+      "name": "Title",
+      "value": "Default Title"
+     }
+    ]
+   }
+  ],
+  "pa_bestallning": false,
+  "las_av_prisjobb": true
+ },
+ {
+  "id": "10515746488586",
+  "nr": 60184,
+  "titel": "Griptape Union Griptape Pizza",
+  "lager": 2,
+  "status": "ACTIVE",
+  "vendor": "Union",
+  "produkttyp": "Sparkcyklar",
+  "taggar": [
+   "price-change-job-active",
+   "sale",
+   "Sparkcyklar",
+   "Union",
+   "Velomarket"
+  ],
+  "live_beskrivning_html": "<div>\n<strong>Union Griptape </strong>har ett mycket bra grepp, så dina fötter kommer aldrig att glida av fotplattan. Dessutom väger den bara 20 gram, så även tunga trick är möjliga och mycket precisa.<br><br>\n</div><div>\n<strong>Mer information:</strong><br><br>\n</div><ul>\n<li>Vikt (kg): 0.0200</li>\n<li>Griptape längd (mm): 580</li>\n<li>Griptape bredd (mm): 150</li>\n<li>Märke: Union</li>\n</ul><div><br></div>",
+  "live_seo": {
+   "title": null,
+   "description": null
+  },
+  "varianter": [
+   {
+    "sku": "104987",
+    "ean": "2017956395362",
+    "pris": "1489.00",
+    "jamforpris": "1479.00",
+    "titel": "Default Title",
+    "val": [
+     {
+      "name": "Title",
+      "value": "Default Title"
+     }
+    ]
+   }
+  ],
+  "pa_bestallning": false,
+  "las_av_prisjobb": true
+ },
+ {
+  "id": "10515746980106",
+  "nr": 60185,
+  "titel": "Sadel GIANT Grit SL, svart",
+  "lager": 1,
+  "status": "ACTIVE",
+  "vendor": "Giant",
+  "produkttyp": "Tillbehör",
+  "taggar": [
+   "Giant",
+   "price-change-job-active",
+   "sale",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "live_beskrivning_html": "<div>Grit SL är en sadel som tål påfrestningarna från terräng (XC), grusvägar och allsidig landsvägscykling. Robusta skenor i rostfritt stål säkerställer hållbarhet, medan den böjda profilen ger mer utrymme för effektiv pedaling. Sadelns ekologiska nylon-kolfiberkompositbas med Rebound Foam-dämpning minskar energiförlusten även på de mest tekniska och svåra partierna. En ergonomisk mittsektion hjälper till att lätta på trycket i känsliga områden, medan en uppåtgående bakre sektion ger stöd för sittbenen och främjar en aerodynamisk sittställning.</div>",
+  "live_seo": {
+   "title": null,
+   "description": null
+  },
+  "varianter": [
+   {
+    "sku": "120000209",
+    "ean": "4713250067469",
+    "pris": "1709.00",
+    "jamforpris": "1699.00",
+    "titel": "Default Title",
+    "val": [
+     {
+      "name": "Title",
+      "value": "Default Title"
+     }
+    ]
+   }
+  ],
+  "pa_bestallning": false,
+  "las_av_prisjobb": true
+ },
+ {
+  "id": "10515748290826",
+  "nr": 60186,
+  "titel": "Hantlar TOORX Gjutjärnshantel 15 kg",
+  "lager": 2,
+  "status": "ACTIVE",
+  "vendor": "Toorx",
+  "produkttyp": "Konditionsträning & Fitness",
+  "taggar": [
+   "Hantlar",
+   "Konditionsträning & Fitness",
+   "Mineraler",
+   "price-change-job-active",
+   "sale",
+   "Toorx",
+   "Velomarket"
+  ],
+  "live_beskrivning_html": "<div>Toorx gjutjärnshantlar är hållbara och klassiskt designade hantlar som är idealiska för styrketräning hemma. De lätta grepphandtagen säkerställer ett säkert och bekvämt träningspass. Lämpliga för både överkropps- och helkroppsövningar, vilket gör att du kan anpassa vikten efter dina träningsbehov.<br><br>Setet innehåller:</div><ul>\n<li>8x 1 kg viktskivor</li>\n<li>1 x 1 x 1 x 1 x 1 x 0,75 kg viktskiva</li>\n<li>2x 2 kg hantelvikter 2 kg</li>\n<li>hantellås</li>\n</ul><div>\n<br>Tillverkaren är <strong>Toorx</strong>.<br><br>\n</div>",
+  "live_seo": {
+   "title": null,
+   "description": null
+  },
+  "varianter": [
+   {
+    "sku": "VAL-15DGN",
+    "ean": "8029975950334",
+    "pris": "1489.00",
+    "jamforpris": "1489.00",
+    "titel": "Default Title",
+    "val": [
+     {
+      "name": "Title",
+      "value": "Default Title"
+     }
+    ]
+   }
+  ],
+  "pa_bestallning": false,
+  "las_av_prisjobb": true
+ },
+ {
+  "id": "10515749306634",
+  "nr": 60187,
+  "titel": "Hjul till sparkcykel Ethic Acteon Wheel 110mm Rainbow",
+  "lager": 6,
+  "status": "ACTIVE",
+  "vendor": "Ethic",
+  "produkttyp": "Sparkcyklar",
+  "taggar": [
+   "Ethic",
+   "price-change-job-active",
+   "sale",
+   "Sparkcyklar",
+   "Velomarket"
+  ],
+  "live_beskrivning_html": "<div>Ge din sparkcykel ett tufft utseende med Ethic-hjul!<br><br>\n</div><div>Mer information:<br><br>\n</div><ul>\n<li>Hjuldiameter (mm): 110</li>\n<li>Pris per: 1 hjul</li>\n<li>Färg: svart</li>\n<li>Märke: Ethic</li>\n<li>Vikt (kg): 0.215</li>\n</ul><div></div>",
+  "live_seo": {
+   "title": null,
+   "description": null
+  },
+  "varianter": [
+   {
+    "sku": "103729",
+    "ean": "3760004842408",
+    "pris": "1799.00",
+    "jamforpris": "1789.00",
+    "titel": "Default Title",
+    "val": [
+     {
+      "name": "Title",
+      "value": "Default Title"
+     }
+    ]
+   }
+  ],
+  "pa_bestallning": false,
+  "las_av_prisjobb": true
+ },
+ {
+  "id": "10515754483978",
+  "nr": 60188,
+  "titel": "Tricksparkcykel Union Aero S Svart",
+  "lager": 1,
+  "status": "ACTIVE",
+  "vendor": "Union",
+  "produkttyp": "Sparkcyklar",
+  "taggar": [
+   "price-change-job-active",
+   "Racercykel",
+   "sale",
+   "Sparkcyklar",
+   "Union",
+   "Velomarket"
+  ],
+  "live_beskrivning_html": "<ul>\n<li><strong>Lämplig för förare 130-145 cm.</strong></li>\n<li>Ålder: 5,6,7,8,9</li>\n<li>Färdighetsnivå: nybörjare</li>\n<li>Plattformens längd: 460 mm</li>\n<li>Plattformens bredd: 120 mm.</li>\n<li>Plattformens material: aluminium.</li>\n<li>Styrets material: aluminium.</li>\n<li>Gaffelsystem: IHC</li>\n<li>Styrets längd: 550 mm.</li>\n<li>Styrets bredd: 520 mm.</li>\n<li>Hjulstorlek: 110 mm.</li>\n<li>Maxvikt: upp till 100 kg.</li>\n<li>Vikt: 2,55 kg</li>\n<li><strong>Färg: svart</strong></li>\n</ul><div></div>",
+  "live_seo": {
+   "title": null,
+   "description": null
+  },
+  "varianter": [
+   {
+    "sku": "105558",
+    "ean": "2902070619824",
+    "pris": "4029.00",
+    "jamforpris": "3939.00",
+    "titel": "Default Title",
+    "val": [
+     {
+      "name": "Title",
+      "value": "Default Title"
+     }
+    ]
+   }
+  ],
+  "pa_bestallning": false,
+  "las_av_prisjobb": true
+ },
+ {
+  "id": "10515754582282",
+  "nr": 60189,
+  "titel": "Hjul till sparkcykel UNION Honeycomb Pro Scooter Wheel 110mm, Krom/Blå",
+  "lager": 2,
+  "status": "ACTIVE",
+  "vendor": "Union",
+  "produkttyp": "Sparkcyklar",
+  "taggar": [
+   "price-change-job-active",
+   "sale",
+   "Sparkcyklar",
+   "Union",
+   "Velomarket"
+  ],
+  "live_beskrivning_html": "<div>Ge din sparkcykel ett coolt nytt utseende med Union Honeycomb Pro-hjul!</div><ul>\n<li>Pris per: 1 hjul</li>\n<li>Hjuldiameter (mm): 110</li>\n<li>Färg: krom/blå</li>\n<li>Märke: Union</li>\n<li>Vikt (g): 224</li>\n</ul><div></div>",
+  "live_seo": {
+   "title": null,
+   "description": null
+  },
+  "varianter": [
+   {
+    "sku": "105832",
+    "ean": "2900610473998",
+    "pris": "1819.00",
+    "jamforpris": "1819.00",
+    "titel": "Default Title",
+    "val": [
+     {
+      "name": "Title",
+      "value": "Default Title"
+     }
+    ]
+   }
+  ],
+  "pa_bestallning": false,
+  "las_av_prisjobb": true
+ },
+ {
+  "id": "10515754680586",
+  "nr": 60190,
+  "titel": "Hjul till sparkcykel Union Credit V2 Pro Scooter Wheel 110mm Krom/Blå",
+  "lager": 1,
+  "status": "ACTIVE",
+  "vendor": "Union",
+  "produkttyp": "Sparkcyklar",
+  "taggar": [
+   "price-change-job-active",
+   "sale",
+   "Sparkcyklar",
+   "Union",
+   "Velomarket"
+  ],
+  "live_beskrivning_html": "<div>Ge din sparkcykel ett coolt nytt utseende med Union Classic V2 Pro-hjul!</div><ul>\n<li>Pris per: 1 hjul</li>\n<li>Hjuldiameter (mm): 110</li>\n<li>Färg: Krom/blå</li>\n<li>Märke: Union</li>\n<li>Vikt (g): 236</li>\n</ul><div></div>",
+  "live_seo": {
+   "title": null,
+   "description": null
+  },
+  "varianter": [
+   {
+    "sku": "105828",
+    "ean": "2903713762181",
+    "pris": "1659.00",
+    "jamforpris": "1659.00",
+    "titel": "Default Title",
+    "val": [
+     {
+      "name": "Title",
+      "value": "Default Title"
+     }
+    ]
+   }
+  ],
+  "pa_bestallning": false,
+  "las_av_prisjobb": true
+ },
+ {
+  "id": "10523469414666",
+  "nr": 60191,
+  "titel": "Fixie EXCELSIOR Gaudy, turquoise",
+  "lager": 3,
+  "status": "ACTIVE",
+  "vendor": "Excelsior",
+  "produkttyp": "Cyklar",
+  "taggar": [
+   "Cyklar",
+   "Excelsior",
+   "price-change-job-active",
+   "sale",
+   "Velomarket"
+  ],
+  "live_beskrivning_html": "<div>Stilren och retro, <strong>Excelsior Gaudy fixiecykel</strong> är en iögonfallande följeslagare för vardagsresor. Gaudy är hållbar tack vare sin stålram. Dess sportiga karaktär förstärks av 25 mm breda däck och en mycket låg vikt på cirka 11 kg. Denna minimalistiska stadscykel påminner om klassiska racercyklar. Tack vare sin låga vikt är den idealisk för stadskörning, eftersom den är lätt att bära uppför trappor eller över hinder. Utrustningen påminner om en trendig singlespeed-cykel, men EXCELSIOR:s \"Gaudy\" är inte begränsad till bara en växel – den har en 2-växlad baknav. Om du uppskattar klassisk, trendig design och vill ta dig igenom dina dagliga aktiviteter med minimal ansträngning, är Excelsior's Gaudy cykeln för dig. <br><br>Tillverkaren är <strong>Excelsior</strong>.<br><br><strong>Mer information:</strong>\n</div><ul>\n<li>Ram: stål</li>\n<li>Ramstorlek:<br><strong>M </strong>(52 cm) - lämplig för cyklister mellan <strong>165 och 180 cm</strong> långa.<br><strong>L</strong> (56 cm) - lämplig för en cyklist <strong>ca 178-195 cm</strong> lång</li>\n<li>Växellåda: Sturmey Archer</li>\n<li>Antal växlar: 2</li>\n<li>Bromsar: V-bromsar</li>\n<li>Cykelns vikt: 11,4 kg</li>\n</ul><div>\n<br>Alla tillbehör kan läggas till i beställningen, antingen online eller på plats.</div><div>\n<br><br><br>\n</div>",
+  "live_seo": {
+   "title": null,
+   "description": null
+  },
+  "varianter": [
+   {
+    "sku": "02130071",
+    "ean": "4251971160590",
+    "pris": "9899.00",
+    "jamforpris": "9829.00",
+    "titel": "M / blue",
+    "val": [
+     {
+      "name": "Variant",
+      "value": "M / blue"
+     }
+    ]
+   },
+   {
+    "sku": "02130072",
+    "ean": "4251971160606",
+    "pris": "9899.00",
+    "jamforpris": "9829.00",
+    "titel": "L / blue",
+    "val": [
+     {
+      "name": "Variant",
+      "value": "L / blue"
+     }
+    ]
+   }
+  ],
+  "pa_bestallning": false,
+  "las_av_prisjobb": true
+ },
+ {
+  "id": "10523474559242",
+  "nr": 60192,
+  "titel": "Glasögon CAIRN Flake, Matte Black Fire",
+  "lager": 1,
+  "status": "ACTIVE",
+  "vendor": "Cairn",
+  "produkttyp": "Tillbehör",
+  "taggar": [
+   "Cairn",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "live_beskrivning_html": "<div>Designade för dagens äventyrare - oavsett om du är en erfaren atlet eller en passionerad hobbyist - som letar efter en följeslagare som kombinerar komfort, säkerhet och elegans. Med <strong>FLAKE</strong>-glasögon går sport och stil hand i hand - utan kompromisser. Cairn FLAKE-glasögonlinser är belagda med <em>en reptålig behandling</em> för enastående hållbarhet och maximalt skydd för dina ögon.<br><br>Tillverkade av Cairn.<br><br>\n</div><ul>\n<li>Kat. 3</li>\n<li>Ögonavstånd: 128 mm</li>\n<li>Nosbredd: 15 mm</li>\n<li>Glasbredd: 40 mm</li>\n</ul>",
+  "live_seo": {
+   "title": null,
+   "description": null
+  },
+  "varianter": [
+   {
+    "sku": "SPFLAKE103TU",
+    "ean": "3267654914108",
+    "pris": "319.00",
+    "jamforpris": null,
+    "titel": "Default Title",
+    "val": [
+     {
+      "name": "Title",
+      "value": "Default Title"
+     }
+    ]
+   }
+  ],
+  "pa_bestallning": false,
+  "las_av_prisjobb": false
+ },
+ {
+  "id": "10523486617866",
+  "nr": 60193,
+  "titel": "Fixie EXCELSIOR Dandy, Mossgrön",
+  "lager": 1,
+  "status": "ACTIVE",
+  "vendor": "Excelsior",
+  "produkttyp": "Cyklar",
+  "taggar": [
+   "Cyklar",
+   "Excelsior",
+   "price-change-job-active",
+   "sale",
+   "Velomarket"
+  ],
+  "live_beskrivning_html": "<div>\n<strong>Fixie Excelsior Dandy</strong> är ett <em>statement</em> i sig – ren minimalism utan kompromisser, inget överflödigt. Excelsior har skalat ner sin Dandy-modell till det absolut nödvändigaste för att snabbt och sportigt ta sig från A till B i staden. Utan växlar är det helt upp till föraren att få denna klassiskt utseende stålram att röra sig. De lätta hjulen med smala 23 mm däck och det faktum att cykeln knappt har mer än en sportig sadel, färgmatchade handtag på det raka styret och två tumbromsar hjälper till.</div><div>Om du vill förvandla en singlespeed till en fixie behöver du bara vända på bakhjulet. En flip-flop-nav gör att du kan byta till ett fast drev utan frihjul. Detta gör Dandy helt minimalistisk.</div><div>\n<br>Tillverkaren är <strong>Excelsior</strong>.<br><br><strong>Mer information:</strong>\n</div><ul>\n<li>Ram: stål</li>\n<li>Rammstorlek:<br><strong>M </strong>(52 cm) – lämplig för cyklister mellan <strong>165 och 180 cm</strong> långa.<br><strong>L</strong> (56 cm) – lämplig för en cyklist <strong>ca 178-195 cm</strong> lång</li>\n<li>Antal växlar: 1</li>\n<li>Bromsar: V-bromsar</li>\n<li>Hjulvikt: 10,9 kg</li>\n</ul><div>\n<br>Cyklar har fästpunkter för montering av tillbehör. Alla tillbehör kan läggas till beställningen antingen online eller på plats.</div><div>\n<br><br><br>\n</div>",
+  "live_seo": {
+   "title": null,
+   "description": null
+  },
+  "varianter": [
+   {
+    "sku": "02130075",
+    "ean": "4251971160637",
+    "pris": "7399.00",
+    "jamforpris": "7349.00",
+    "titel": "Default Title",
+    "val": [
+     {
+      "name": "Title",
+      "value": "Default Title"
+     }
+    ]
+   }
+  ],
+  "pa_bestallning": false,
+  "las_av_prisjobb": true
+ },
+ {
+  "id": "10526099374346",
+  "nr": 60194,
+  "titel": "Cykel EXCELSIOR Swan Retro FT Alu, Khaki",
+  "lager": 1,
+  "status": "ACTIVE",
+  "vendor": "Excelsior",
+  "produkttyp": "Cyklar",
+  "taggar": [
+   "Cyklar",
+   "Excelsior",
+   "price-change-job-active",
+   "sale",
+   "Velomarket"
+  ],
+  "live_beskrivning_html": "<div>Den eleganta cykeln Excelsior Swan Retro FT är idealisk för daglig stadskörning och har en retroinspirerad stil som för närvarande ökar i popularitet. Praktisk användning säkerställs av pakethållaren med remmar och den robusta främre korgen. Cykelns utmärkta utseende beror på ramens form, de stora hjulen och de många små, noggrant genomtänkta detaljerna – en mjuk, bred och extremt bekväm sadel, långa stänkskärmar i metall, en främre korg, en bakre pakethållare med remmar, ett kedjeskydd i metall, styre som kan justeras i alla riktningar (uppåt, nedåt och framåt/bakåt). Växelsystemet är snyggt dolt i navet – ett Shimano Nexus 7 navväxelsystem.<br><br>\n</div>\n<div>Tillverkad av Excelsior.<br><br>\n</div>\n<div><strong>Ytterligare detaljer:</strong></div>\n<ul>\n<li>Ram: aluminium</li>\n<li>Ramstorlek:<br>L (55 cm) – rekommenderad för cyklister med en längd på ca 175–190 cm</li>\n<li>Växelreglage: Shimano Nexus</li>\n<li>Antal växlar: 7</li>\n<li>Bromsar: V-bromsar + fotbroms</li>\n</ul>\n<div>Setet inkluderar ett komplett utbud av tillbehör: stänkskärmar i metall, främre och bakre belysning, ett stöd, robusta pakethållare och ett kedjeskydd.</div>\n<div></div>",
+  "live_seo": {
+   "title": null,
+   "description": null
+  },
+  "varianter": [
+   {
+    "sku": "02130086",
+    "ean": "4251971160743",
+    "pris": "12999.00",
+    "jamforpris": "12909.00",
+    "titel": "Default Title",
+    "val": [
+     {
+      "name": "Title",
+      "value": "Default Title"
+     }
+    ]
+   }
+  ],
+  "pa_bestallning": false,
+  "las_av_prisjobb": true
+ },
+ {
+  "id": "10530179285258",
+  "nr": 60195,
+  "titel": "Stänkskärmsset för GIANT Revolt 2019+ modeller",
+  "lager": 2,
+  "status": "ACTIVE",
+  "vendor": "Giant",
+  "produkttyp": "Tillbehör",
+  "taggar": [
+   "Giant",
+   "Gravelcykel",
+   "Stänkskärm",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "live_beskrivning_html": "<div>HÅLL DIG TORR ÄVEN PÅ LÅNGA TURER. Håll vatten, lera och grus borta med dessa enkla, hållbara och lättmonterade Revolt-specifika stänkskärmar. Designade för däckbredder upp till 40c, säkerställer utrymmet att det finns tillräckligt med plats för att cykla bekvämt på en mängd olika underlag.</div><div>Revolt stänkskärmsset erbjuder det skydd du behöver för att med självförtroende kunna avverka långa distanser över varierande terräng och i alla väderförhållanden.</div><div>\n<br>Tillverkare: <strong>Giant</strong>.</div>",
+  "live_seo": {
+   "title": null,
+   "description": null
+  },
+  "varianter": [
+   {
+    "sku": "530000043",
+    "ean": "4713250839622",
+    "pris": "529.00",
+    "jamforpris": null,
+    "titel": "Default Title",
+    "val": [
+     {
+      "name": "Title",
+      "value": "Default Title"
+     }
+    ]
+   }
+  ],
+  "pa_bestallning": false,
+  "las_av_prisjobb": false
+ },
+ {
+  "id": "10541368738058",
+  "nr": 60196,
+  "titel": "Grips LIV Sole-O Double Lock-On, Svart/Vit",
+  "lager": 3,
+  "status": "ACTIVE",
+  "vendor": "Liv",
+  "produkttyp": "Tillbehör",
+  "taggar": [
+   "Cykellås",
+   "Liv",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "live_beskrivning_html": "<div>Liv Sole-O styren är utrustade med en anodiserad dubbelsidig Lock-On-klämma, vilket säkerställer en säker och pålitlig fastsättning på styret. Den mjuka Kraton-gummiytan med högt grepp erbjuder körkomfort och ett säkert grepp under en mängd olika körförhållanden.<br><br>Tillverkaren är <strong>Giant</strong>, världens största cykeltillverkare.</div>",
+  "live_seo": {
+   "title": null,
+   "description": null
+  },
+  "varianter": [
+   {
+    "sku": "190000062",
+    "ean": "4718905868095",
+    "pris": "279.00",
+    "jamforpris": null,
+    "titel": "Default Title",
+    "val": [
+     {
+      "name": "Title",
+      "value": "Default Title"
+     }
+    ]
+   }
+  ],
+  "pa_bestallning": false,
+  "las_av_prisjobb": false
+ },
+ {
+  "id": "10548235108618",
+  "nr": 60197,
+  "titel": "Helmet MELON Sydney",
+  "lager": 1,
+  "status": "ACTIVE",
+  "vendor": "Melon",
+  "produkttyp": "Tillbehör",
+  "taggar": [
+   "Hjälm",
+   "Melon",
+   "price-change-job-active",
+   "sale",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "live_beskrivning_html": "<div>\n<strong>Melon</strong>-hjälmen kombinerar modern design och säkerhet, vilket gör den till ett idealiskt val för stadscyklister.</div><div></div><ul>\n<li>\n<strong>Fäste:</strong> Fidlock magnetiskt fäste, snabb och enkel fastsättning</li>\n<li>\n<strong>Ventilation:</strong> 12 ventilationshål för perfekt kylning</li>\n<li>\n<strong>Vikt:</strong> Mindre än 300 g, lätt och bekväm att bära</li>\n<li>\n<strong>Justering:</strong> Spin Dial-system för en exakt passform</li>\n<li>\n<strong>Material:</strong> Stark EPS-innerskal och polykarbonat-ytterskal för perfekt skydd</li>\n<li>\n<strong>Tillbehör:</strong> Valfri vintertätning</li>\n<li>\n<strong>Storlekar:</strong><br> * M/L 52 - 58 cm<br> * XL/XXL 58 - 63 cm</li>\n</ul><div><br></div>",
+  "live_seo": {
+   "title": null,
+   "description": null
+  },
+  "varianter": [
+   {
+    "sku": "MUA.P105M.ML",
+    "ean": "4260243725344",
+    "pris": "1599.00",
+    "jamforpris": "1589.00",
+    "titel": "Default Title",
+    "val": [
+     {
+      "name": "Title",
+      "value": "Default Title"
+     }
+    ]
+   }
+  ],
+  "pa_bestallning": false,
+  "las_av_prisjobb": true
+ },
+ {
+  "id": "10554353746186",
+  "nr": 60198,
+  "titel": "Stänkskärmsset för ACADEMY 24\" hjul",
+  "lager": 1,
+  "status": "ACTIVE",
+  "vendor": "Academy",
+  "produkttyp": "Tillbehör",
+  "taggar": [
+   "Academy",
+   "Stänkskärm",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "live_beskrivning_html": "<div>ACADEMY fram- och bakskärm för 24-tums barncyklar.</div>",
+  "live_seo": {
+   "title": null,
+   "description": null
+  },
+  "varianter": [
+   {
+    "sku": "1667",
+    "ean": "4250969216677",
+    "pris": "339.00",
+    "jamforpris": null,
+    "titel": "Default Title",
+    "val": [
+     {
+      "name": "Title",
+      "value": "Default Title"
+     }
+    ]
+   }
+  ],
+  "pa_bestallning": false,
+  "las_av_prisjobb": false
+ },
+ {
+  "id": "10554354172170",
+  "nr": 60199,
+  "titel": "Grips GIANT Tactal Double Lock-on Grip, svart-röd",
+  "lager": 1,
+  "status": "ACTIVE",
+  "vendor": "Giant",
+  "produkttyp": "Tillbehör",
+  "taggar": [
+   "Cykellås",
+   "Giant",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "live_beskrivning_html": "<div>Lätta och bekväma handtag, tillverkade av mjuk Kraton-gummi.<br><br>\n</div><ul>\n<li>Längd: 135 mm, yttre diameter: 30 mm</li>\n<li>Pålitlig dubbelsidig infästning</li>\n<li>\n<strong>Förpackningen innehåller handtag i en enda färg – fotot är endast för illustrationsändamål!<br></strong><br>\n</li>\n</ul><div>Grundat 1972 är <strong>Giant</strong> världens ledande tillverkare av högkvalitativa cyklar och cykelutrustning. Giant introducerade en lättare och starkare aluminiumram och bidrog till att kolfiberramar fick en bredare användning. Utvecklingen av utrustning innebär ett ständigt samarbete med cyklister på toppnivå.</div>",
+  "live_seo": {
+   "title": null,
+   "description": null
+  },
+  "varianter": [
+   {
+    "sku": "190000102",
+    "ean": "4718905782001",
+    "pris": "319.00",
+    "jamforpris": null,
+    "titel": "Default Title",
+    "val": [
+     {
+      "name": "Title",
+      "value": "Default Title"
+     }
+    ]
+   }
+  ],
+  "pa_bestallning": false,
+  "las_av_prisjobb": false
+ },
+ {
+  "id": "10554359513354",
+  "nr": 60200,
+  "titel": "Framskärm SKS Mudrocker Front, svart",
+  "lager": 1,
+  "status": "ACTIVE",
+  "vendor": "SKS",
+  "produkttyp": "Tillbehör",
+  "taggar": [
+   "På beställning",
+   "SKS",
+   "Stänkskärm",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "live_beskrivning_html": "<div>\n<strong>SKS Mudrocker </strong>framskärm passar för 27,5 - 29 tums hjul. Tillverkad av slitstark och lätt plast.<br><br><strong>Mer information:</strong>\n</div><ul>\n<li>Material: plast</li>\n<li>Plast: plast</li>\n<li>Vikt: 155 g</li>\n<li>Längd: 490 mm</li>\n<li>Hjulstorlek: 27,5\", 28\", 29\".</li>\n<li>Däckbredd: 59-76 mm</li>\n<li>Framhjulslängd: 490 mm</li>\n</ul>",
+  "live_seo": {
+   "title": null,
+   "description": null
+  },
+  "varianter": [
+   {
+    "sku": "11669",
+    "ean": "4002556978785",
+    "pris": "469.00",
+    "jamforpris": null,
+    "titel": "Default Title",
+    "val": [
+     {
+      "name": "Title",
+      "value": "Default Title"
+     }
+    ]
+   }
+  ],
+  "pa_bestallning": true,
+  "las_av_prisjobb": false
+ }
+]

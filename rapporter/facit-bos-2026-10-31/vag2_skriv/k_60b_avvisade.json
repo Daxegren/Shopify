@@ -1,0 +1,17 @@
+[
+ {
+  "id": "10471000047882",
+  "nr": 60032,
+  "skäl": "Källan stämmer inte med titeln: titeln 'Spiderman gloves, red', källtexten beskriver 'handskar i Superman-stil' (och färgen röd finns inte i källan). Källan är dessutom maskinöversatt ('linsen') och innehåller skyddsformuleringar. Går inte att avgöra vad produkten är utan gissning (R3, R2)."
+ },
+ {
+  "id": "10472209416458",
+  "nr": 60048,
+  "skäl": "Motsägelse mellan titel och källa: titeln anger röd (red), källans specifikationsrad anger 'Färg: Svart'. Går inte att avgöra vilken färg som gäller utan tillverkarsida; texten skulle kräva gissning (R3)."
+ },
+ {
+  "id": "10472228651274",
+  "nr": 60050,
+  "skäl": "Modellnamnet stämmer inte: titeln säger Giant Pinner Comp (lila), källan säger Giant Pinner Elite och nämner ingen färg. Går inte att avgöra vilken modell det är utan tillverkarsida (R3)."
+ }
+]
