@@ -1,0 +1,31 @@
+{
+ "kollektion": {
+  "id": "gid://shopify/Collection/561577951498",
+  "handle": "nav-cykel",
+  "title": "Cykelnav",
+  "sortOrder": "BEST_SELLING",
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "nav"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "hub"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "hubs"
+    }
+   ]
+  }
+ },
+ "antal_medlemmar": 0,
+ "antal_koepbara": 0,
+ "medlemmar": []
+}

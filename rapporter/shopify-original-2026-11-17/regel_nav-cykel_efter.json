@@ -1,0 +1,55 @@
+{
+ "kollektion": {
+  "id": "gid://shopify/Collection/561577951498",
+  "handle": "nav-cykel",
+  "title": "Cykelnav",
+  "sortOrder": "BEST_SELLING",
+  "ruleSet": {
+   "appliedDisjunctively": false,
+   "rules": [
+    {
+     "column": "TYPE",
+     "relation": "EQUALS",
+     "condition": "Cykeldelar"
+    },
+    {
+     "column": "TITLE",
+     "relation": "CONTAINS",
+     "condition": "nav"
+    }
+   ]
+  }
+ },
+ "antal_medlemmar": 2,
+ "antal_koepbara": 2,
+ "medlemmar": [
+  [
+   "framnav-shimano-100-36-svart-hb-tx506-vmehbtx506aal",
+   "ACTIVE",
+   16,
+   "Cykeldelar",
+   false,
+   [
+    [
+     "gid://shopify/ProductVariant/52848377757962",
+     "249.00",
+     null
+    ]
+   ]
+  ],
+  [
+   "bakd-ck-8-9s-135-36-svart-fh-tx5008-qr-170mm-vmafhtx5008azbl",
+   "ACTIVE",
+   18,
+   "Cykeldelar",
+   false,
+   [
+    [
+     "gid://shopify/ProductVariant/52848376185098",
+     "219.00",
+     null
+    ]
+   ]
+  ]
+ ]
+}

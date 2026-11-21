@@ -1,0 +1,167 @@
+{
+ "kollektion": {
+  "id": "gid://shopify/Collection/526987264266",
+  "handle": "skivstang-50-mm",
+  "title": "Skivstång 50mm",
+  "sortOrder": "BEST_SELLING",
+  "ruleSet": {
+   "appliedDisjunctively": false,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "skivstång"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "50mm"
+    }
+   ]
+  }
+ },
+ "antal_medlemmar": 10,
+ "antal_koepbara": 0,
+ "medlemmar": [
+  [
+   "skivstang-50mm-iconiq-cerakote-rod",
+   "DRAFT",
+   0,
+   "Skivstänger - 50mm",
+   true,
+   [
+    [
+     "gid://shopify/ProductVariant/53782261334282",
+     "3441.60",
+     "3824.00"
+    ]
+   ]
+  ],
+  [
+   "skivstang-50mm-iconiq-cerakote-gron-camou",
+   "DRAFT",
+   0,
+   "Skivstänger - 50mm",
+   true,
+   [
+    [
+     "gid://shopify/ProductVariant/53782261170442",
+     "3717.00",
+     "4130.00"
+    ]
+   ]
+  ],
+  [
+   "skivstang-50mm-iconiq-cerakote-gra-camou",
+   "DRAFT",
+   0,
+   "Skivstänger - 50mm",
+   true,
+   [
+    [
+     "gid://shopify/ProductVariant/53782261006602",
+     "3717.00",
+     "4130.00"
+    ]
+   ]
+  ],
+  [
+   "olympisk-skivstang-se-trym-20kg",
+   "DRAFT",
+   0,
+   "Skivstänger - 50mm",
+   false,
+   [
+    [
+     "gid://shopify/ProductVariant/53782182887690",
+     "146.35",
+     "146.35"
+    ]
+   ]
+  ],
+  [
+   "olympisk-skivstang50mm-201cm-se",
+   "DRAFT",
+   0,
+   "Skivstänger - 50mm",
+   false,
+   [
+    [
+     "gid://shopify/ProductVariant/53782182691082",
+     "141.21",
+     "141.21"
+    ]
+   ]
+  ],
+  [
+   "styrkelyft-skivstang-220cm-trym",
+   "ARCHIVED",
+   0,
+   "Skivstänger - 50mm",
+   false,
+   [
+    [
+     "gid://shopify/ProductVariant/53782182560010",
+     "131.73",
+     "131.73"
+    ]
+   ]
+  ],
+  [
+   "skivstang-50mm-15-kg-201-cm",
+   "DRAFT",
+   0,
+   "Skivstänger - 50mm",
+   false,
+   [
+    [
+     "gid://shopify/ProductVariant/53782182396170",
+     "119.16",
+     "119.16"
+    ]
+   ]
+  ],
+  [
+   "skivstang-womens-health-10kg-168cm",
+   "DRAFT",
+   0,
+   "Skivstänger - 50mm",
+   false,
+   [
+    [
+     "gid://shopify/ProductVariant/53782158868746",
+     "0.00",
+     null
+    ]
+   ]
+  ],
+  [
+   "skivstang-mens-health-10kg-168cm",
+   "DRAFT",
+   0,
+   "Skivstänger - 50mm",
+   false,
+   [
+    [
+     "gid://shopify/ProductVariant/53782156706058",
+     "0.00",
+     null
+    ]
+   ]
+  ],
+  [
+   "olympisk-skivstang-mens-health-50mm-20kg-220cm",
+   "DRAFT",
+   0,
+   "Skivstänger - 50mm",
+   false,
+   [
+    [
+     "gid://shopify/ProductVariant/53782156574986",
+     "0.00",
+     null
+    ]
+   ]
+  ]
+ ]
+}

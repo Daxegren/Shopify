@@ -1,0 +1,79 @@
+{
+ "kollektion": {
+  "id": "gid://shopify/Collection/561577787658",
+  "handle": "klingor-och-kassett",
+  "title": "Klinga och kassett",
+  "sortOrder": "BEST_SELLING",
+  "ruleSet": {
+   "appliedDisjunctively": false,
+   "rules": [
+    {
+     "column": "TYPE",
+     "relation": "EQUALS",
+     "condition": "Cykeldelar"
+    },
+    {
+     "column": "TITLE",
+     "relation": "CONTAINS",
+     "condition": "kassett"
+    },
+    {
+     "column": "TITLE",
+     "relation": "CONTAINS",
+     "condition": "klinga"
+    },
+    {
+     "column": "TITLE",
+     "relation": "CONTAINS",
+     "condition": "kedjekrans"
+    }
+   ]
+  }
+ },
+ "antal_medlemmar": 3,
+ "antal_koepbara": 2,
+ "medlemmar": [
+  [
+   "kassett-shimano-7s-11-28-cs-hg41-7-11-13-15-18-21-24-28-ac-vmacshg417128",
+   "ACTIVE",
+   50,
+   "Cykeldelar",
+   false,
+   [
+    [
+     "gid://shopify/ProductVariant/52848374579466",
+     "199.00",
+     null
+    ]
+   ]
+  ],
+  [
+   "shimano-kassettkugghjul-6s-mf-tz500-6-14-16-18-21-24-28t-vmamftz5006428",
+   "DRAFT",
+   5,
+   "Cykeldelar",
+   false,
+   [
+    [
+     "gid://shopify/ProductVariant/52848373629194",
+     "169.00",
+     null
+    ]
+   ]
+  ],
+  [
+   "cassette-shimano-cs-m8000-11-42-11k-vmicsm8000142",
+   "ACTIVE",
+   9,
+   "Cykeldelar",
+   true,
+   [
+    [
+     "gid://shopify/ProductVariant/52799661736202",
+     "1871.10",
+     "2079.00"
+    ]
+   ]
+  ]
+ ]
+}
