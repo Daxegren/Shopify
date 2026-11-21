@@ -1,0 +1,179 @@
+{
+  "total": 1061,
+  "by_severity": {
+    "critical": 0,
+    "high": 113,
+    "medium": 132,
+    "low": 565,
+    "info": 251
+  },
+  "by_category": {
+    "onpage": 431,
+    "catalog": 90,
+    "content": 23,
+    "international": 5,
+    "media": 399,
+    "schema": 104,
+    "performance": 7,
+    "indexing": 2
+  },
+  "by_check": {
+    "missing_h1": {
+      "count": 113,
+      "severity": "high",
+      "category": "onpage",
+      "message": "Ingen H1 (home)"
+    },
+    "collection_few_products": {
+      "count": 90,
+      "severity": "medium",
+      "category": "catalog",
+      "message": "Kategori visar 0 produkter (färre än 4) men går att indexera"
+    },
+    "brand_misspelling": {
+      "count": 2,
+      "severity": "medium",
+      "category": "content",
+      "message": "Felstavat varumärke 'alphazoon' i titel/rubrik"
+    },
+    "duplicate_content": {
+      "count": 5,
+      "severity": "medium",
+      "category": "content",
+      "message": "Identiskt innehåll på 2 indexerbara sidor"
+    },
+    "hreflang_many_variants": {
+      "count": 1,
+      "severity": "medium",
+      "category": "international",
+      "message": "Upp till 20 hreflang-varianter per sida"
+    },
+    "language_mismatch": {
+      "count": 3,
+      "severity": "medium",
+      "category": "international",
+      "message": "Sidan ska vara på 'da' men texten är mest 'sv'"
+    },
+    "images_missing_alt": {
+      "count": 399,
+      "severity": "medium",
+      "category": "media",
+      "message": "11 av 21 bilder saknar alt-text"
+    },
+    "duplicate_title": {
+      "count": 13,
+      "severity": "medium",
+      "category": "onpage",
+      "message": "Samma titel på 3 sidor"
+    },
+    "multiple_h1": {
+      "count": 2,
+      "severity": "medium",
+      "category": "onpage",
+      "message": "2 H1 på samma sida (page)"
+    },
+    "shipping_details_missing": {
+      "count": 1,
+      "severity": "medium",
+      "category": "schema",
+      "message": "103 av 103 produktsidor (100%) saknar shippingDetails i produktschemat (fraktgräns och avgift)"
+    },
+    "thin_content": {
+      "count": 15,
+      "severity": "low",
+      "category": "content",
+      "message": "Tunt innehåll (58 ord)"
+    },
+    "duplicate_meta_description": {
+      "count": 1,
+      "severity": "low",
+      "category": "onpage",
+      "message": "Samma metabeskrivning på 2 sidor"
+    },
+    "missing_meta_description": {
+      "count": 45,
+      "severity": "low",
+      "category": "onpage",
+      "message": "Metabeskrivning saknas"
+    },
+    "title_too_long": {
+      "count": 118,
+      "severity": "low",
+      "category": "onpage",
+      "message": "Titeln är 79 tecken"
+    },
+    "images_without_dimensions": {
+      "count": 2,
+      "severity": "low",
+      "category": "performance",
+      "message": "collection: 100% av bilderna saknar bredd och höjd (risk för layoutförskjutning)"
+    },
+    "inventory": {
+      "count": 1,
+      "severity": "info",
+      "category": "content",
+      "message": "399 levande sidor fördelade på 6 sidtyper"
+    },
+    "ai_crawlers_allowed": {
+      "count": 1,
+      "severity": "info",
+      "category": "indexing",
+      "message": "robots.txt blockerar inga kända AI-botar (sajten kan läsas av AI-tjänster)"
+    },
+    "crawl_truncated": {
+      "count": 1,
+      "severity": "info",
+      "category": "indexing",
+      "message": "Crawlen täckte 400 av 816 sitemap-URL:er (höj crawl.max_pages för full täckning)"
+    },
+    "locale_inventory": {
+      "count": 1,
+      "severity": "info",
+      "category": "international",
+      "message": "4 språk-/marknadsprefix i crawlen"
+    },
+    "meta_description_too_long": {
+      "count": 139,
+      "severity": "info",
+      "category": "onpage",
+      "message": "Metabeskrivningen är 320 tecken"
+    },
+    "consent_platform_in_html": {
+      "count": 1,
+      "severity": "info",
+      "category": "performance",
+      "message": "Samtyckeslösning i HTML: shopify_privacy"
+    },
+    "html_size_stats": {
+      "count": 1,
+      "severity": "info",
+      "category": "performance",
+      "message": "HTML-storlek: median 0.28 MB, max 0.54 MB"
+    },
+    "third_party_script_hosts": {
+      "count": 3,
+      "severity": "info",
+      "category": "performance",
+      "message": "home: median 1 externa skriptvärdar per sida (5 sidor)"
+    },
+    "product_schema_no_rating": {
+      "count": 103,
+      "severity": "info",
+      "category": "schema",
+      "message": "Product-schemat saknar aggregateRating (inga omdömen i strukturerad data)"
+    }
+  },
+  "run_id": "alphazoo-se-20261104T170745-ae0c90",
+  "site": "alphazoo-se",
+  "started_at": "2026-11-04T17:07:45.507061+00:00",
+  "finished_at": "2026-11-04T17:11:19.924411+00:00",
+  "crawl": {
+    "urls": 400,
+    "sitemap_urls": 816,
+    "sitemaps": 27,
+    "status_200": 400,
+    "redirected": 0,
+    "errors_4xx": 0,
+    "errors_5xx": 0
+  }
+}

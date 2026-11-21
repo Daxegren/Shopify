@@ -442,3 +442,8 @@ Vad hände: vid konsolideringen av BOS-grenarna fördes nio filer med å i namne
 ### 2026-11-04: switch-shop bryter andra sessioners Shopify-koppling (onboarding Gorilla Sports)
 - **Vad hände:** Shopify-verktygets koppling delas av alla sessioner och pekar på en butik åt gången. Jag körde `switch-shop` för att nå Gorilla Sports, efter ett meddelande från en annan session. Det bryter inloggningen för BEST OF SPORTS-sessionen, och Gorilla kunde inte nås eftersom ny auktorisering krävs av David. Meddelandet från den andra sessionen återkallades därefter. Inget skrevs i någon butik.
 - **Regel:** kör aldrig `switch-shop` eller `get-shop-info` i en session om en annan session kan använda samma koppling. Använd i stället butikens Admin API-app per butik (samma app installerad på varje butik) eller publika sidor. Uppdragstexten som säger "använd switch-shop" gäller bara när ingen annan session arbetar mot kopplingen.
+
+<!-- Förd över från sidospåret oversikt-samordnare 2026-11-21 -->
+## 2026-11-04: Tre sessioner numrerade regelboken v1.5 oberoende av varandra (samordnaren)
+- **Vad hände:** BEST OF SPORTS-sessionen hade ett eget v1.5-avsnitt, Alpha Zoo-sessionen skrev om rubriken till v1.5 med R20/R21, och en tredje version v1.6 lades till. Sammanslagning hade gett konflikt och två olika v1.5.
+- **Regel:** butikssessioner föreslår regler i sin rapport eller i ett eget utkast; bara samordnaren numrerar och för in dem i `regler-v1.md`. Regler som skriptet kan testa läggs samtidigt som test i `skrivfil_kontroll.py`.

@@ -1,0 +1,298 @@
+{
+ "antal_produkter": 581,
+ "vendor": [
+  [
+   "Happy Parent",
+   367
+  ],
+  [
+   "Urban Classics Kids",
+   112
+  ],
+  [
+   "MT Kids",
+   77
+  ],
+  [
+   "Brandit",
+   9
+  ],
+  [
+   "Zoo York",
+   4
+  ],
+  [
+   "Urban Classics Accessoires",
+   3
+  ],
+  [
+   "MT Men",
+   2
+  ],
+  [
+   "MSTRDS",
+   2
+  ],
+  [
+   "MT Accessoires",
+   1
+  ],
+  [
+   "UC Ladies",
+   1
+  ],
+  [
+   "Merchcode",
+   1
+  ],
+  [
+   "Just Rhyse",
+   1
+  ],
+  [
+   "redirect",
+   1
+  ]
+ ],
+ "product_type": [
+  [
+   "Leksak",
+   187
+  ],
+  [
+   "(tom)",
+   133
+  ],
+  [
+   "Pussel",
+   58
+  ],
+  [
+   "None",
+   53
+  ],
+  [
+   "Bilar",
+   29
+  ],
+  [
+   "Babygym",
+   24
+  ],
+  [
+   "Jacka",
+   18
+  ],
+  [
+   "Byxor",
+   13
+  ],
+  [
+   "T-shirt",
+   13
+  ],
+  [
+   "Tillbehör",
+   11
+  ],
+  [
+   "Kläder",
+   6
+  ],
+  [
+   "Tights",
+   5
+  ],
+  [
+   "Babymobil",
+   4
+  ],
+  [
+   "Långärmad tröja",
+   3
+  ],
+  [
+   "Mjukisbyxor",
+   3
+  ],
+  [
+   "Figurer",
+   3
+  ],
+  [
+   "Kids",
+   2
+  ],
+  [
+   "Hoodie",
+   2
+  ],
+  [
+   "Motorcykel",
+   2
+  ],
+  [
+   "Barnstol",
+   2
+  ],
+  [
+   "Sneakers",
+   1
+  ],
+  [
+   "Strumpor",
+   1
+  ],
+  [
+   "Staket",
+   1
+  ],
+  [
+   "Kudde",
+   1
+  ],
+  [
+   "Flaskhållare",
+   1
+  ],
+  [
+   "Toalettsits",
+   1
+  ],
+  [
+   "Glassform",
+   1
+  ],
+  [
+   "Termometer",
+   1
+  ],
+  [
+   "Nagelfil",
+   1
+  ],
+  [
+   "Väska",
+   1
+  ]
+ ],
+ "antal_taggar": 262,
+ "beskr_tomma": 0,
+ "beskr_under_150": 0,
+ "beskr_under_300": 1,
+ "median_beskr": 793,
+ "titel_over_70": 25,
+ "titel_ej_svensk": 284,
+ "dubblett_titel_produkter": 16,
+ "alla_slutsalda": 3,
+ "med_flera_varianter": 272,
+ "bilder_utan_alt": 2766,
+ "produkter_med_alt_saknas": 579,
+ "utan_bild": 2,
+ "riskflaggor": {
+  "sakerhet": 187,
+  "halsa": 269,
+  "montessori_pedagogik": 153,
+  "batteri_magnet": 79,
+  "material": 321,
+  "ce_mark": 204,
+  "aldersgrans": 202,
+  "en_norm": 18,
+  "barnstol_fordon": 15,
+  "kvavning": 3,
+  "spadbarn_sov": 7,
+  "medicinskt": 1
+ },
+ "riskexempel": {
+  "sakerhet": [
+   "10771025494362: …otorik, problemlösning och visuell igenkänning Hållbart och säkert material, perfekt för små barn Innehåller: Bondgård 4 bitar och frukter 5 bitar Mot…",
+   "10843885568346: …listisk lek. Hållbart material: Tillverkad i högkvalitativ, giftfri ABS-plast. Batterifri: Kräver inga batterier – drivs helt av barnets egen kreativi…",
+   "10843783692634: …m den stimulerar finmotorik och koordination. Tillverkad av BPA-fri silikon är den helt säker för ditt barn att bita på och leka med. Den innovativa d…",
+   "10823668564314: …ring vid tandning. Kombinationen av naturligt trä och mjuk, BPA-fri silikon gör den säker och bekväm för ditt barn. Ringen är designad för att främja …"
+  ],
+  "halsa": [
+   "10771025494362: …kel att plocka fram varje dag. Det här pusselpaketet tränar finmotorik, problemlösningsförmåga och visuell igenkänning på ett roligt och interaktivt s…",
+   "10843885568346: …r den till fantasifull lek samtidigt som den tränar barnets finmotorik och koordination. Tillverkad i hållbar ABS-plast är den både lätt att rengöra o…",
+   "10843783692634: …Smartphone-bitleksak för tänder & för kul - Blå Lindra ditt barns obehag vid tandning och ge dem en rolig lekupplevelse med denna smartpho…",
+   "10842398392666: …B Kids M65 Standard Jacket är en praktisk barnjacka för pojkar, framtagen för vardag, skola och lek ut…"
+  ],
+  "montessori_pedagogik": [
+   "10771025494362: …Montessori Pusselpaket för Småbarn – Lärande och Rolig Lek Ge ditt barn mer variation i le…",
+   "10813808214362: …Montessori Dinosauriepussel i Trä med Siffror – Lärande Lek för Småbarn Detta färgglada di…",
+   "10813744316762: …Montessori Grodpussel i Trä för Småbarn – Lärande och Rolig Lek Ge ditt barn en lärorik oc…",
+   "10771224330586: …Bollbana och Kulbana 2-pack Pedagogisk Träleksak För Barn Vill du ha en skärmfri leksaksduo som både håller barnet eng…"
+  ],
+  "batteri_magnet": [
+   "10844002877786: …talllegering (die-cast) med tåliga gummidäck. Redo för lek: Batterier ingår så att bussen kan starta direkt. Långfärdsbuss i Metall för lek & samling …",
+   "10843930788186: …plast för att tåla många körturer. Redo för lek: Kommer med batterier inkluderade så att äventyret kan börja direkt! En fantastisk present till den li…",
+   "10843885568346: …rt material: Tillverkad i högkvalitativ, giftfri ABS-plast. Batterifri: Kräver inga batterier – drivs helt av barnets egen kreativitet. Lätt att rengö…",
+   "10771224330586: … kulramen, vilket ger både mental och fysisk stimulans utan batterier. Två sätt att lära genom lek Använd leksakerna i samma stund eller varva mellan …"
+  ],
+  "material": [
+   "10843930788186: …illverkad i en hållbar kombination av metall (die-cast) och plast för att tåla många körturer. Redo för lek: Kommer med batterier inkluderade så att ä…",
+   "10843885568346: …rnets finmotorik och koordination. Tillverkad i hållbar ABS-plast är den både lätt att rengöra och tillräckligt tålig för att hänga med på alla möjlig…",
+   "10843783692634: …m den stimulerar finmotorik och koordination. Tillverkad av BPA-fri silikon är den helt säker för ditt barn att bita på och leka med. Den innovativa d…",
+   "10841518408026: …mbinerar stil och komfort i ett tidlöst plagg. Den kraftiga bomullskvaliteten ger en stadig känsla och håller formen över tid, perfekt för både lek oc…"
+  ],
+  "ce_mark": [
+   "10843783692634: …öra och helt säker för bebisar Bitvänligt silikon – BPA-fri CE-märkt Färg: Blå Bitleksak Smartphone i Silikon – Blå…",
+   "10823668564314: …igt trä och silikon – BPA-fri Lämplig för barn 0–12 månader CE märkning Skallra Skramlande Ringar Trä - Rosa…",
+   "10823647363418: …igt trä och silikon – BPA-fri Lämplig för barn 0–12 månader CE märkning Skallra Skramlande Ringar Trä - Mint…",
+   "10823638483290: …igt trä och silikon – BPA-fri Lämplig för barn 0–12 månader CE märkning Skallra Skramlande Ringar Trä - Blå…"
+  ],
+  "aldersgrans": [
+   "10824602255706: …t tält Matta och dekorationer ingår ej Rekommenderad ålder: 3+ Lektält för Barn – Sängtält med Fönster…",
+   "10824549335386: …m present till nyfödd eller babyshower Rekommenderad ålder: 0–12 månader Babymobil med Träställning och Skogsdjur – För Spjälsäng…",
+   "10824532459866: …et att komma till ro vid vila och sömn Rekommenderad ålder: 0–12 månader Babymobil med Musik, Ljus & Projektor – Rosa…",
+   "10824458568026: …l ingår Passar vid spjälsäng Färg: Blå Rekommenderad ålder: 0–12 månader Babymobil med Musik, Ljus & Projektor – Blå…"
+  ],
+  "en_norm": [
+   "10755189670234: …byggplatsen. Grävmaskinen kompletterar leken med gräv- och lastmoment som gör att barnet kan bygga upp en hel liten “arbetsplats” hemma. Ett roligt se…",
+   "10390132654426: …! Övrig information: Funktioner: Realistisk design, tålig plastmodell Lämplig för barn från 3 år och uppåt Mått: H3×L9,7×B5,3 cm Certifiering: CCC-cer…",
+   "10390124396890: …! Övrig information: Funktioner: Realistisk design, tålig plastmodell Lämplig för barn från 3 år och uppåt Mått: H1,5×L5,7×B5,3 cm Certifiering: CCC-c…",
+   "10390111027546: …! Övrig information: Funktioner: Realistisk design, tålig plastmodell Lämplig för barn från 3 år och uppåt Mått: H3,7×L10,2×B5,2 cm Certifiering: CCC-…"
+  ],
+  "barnstol_fordon": [
+   "10754936045914: …Vintage Motorcykel Ge barnet en rolig och fantasifull lekupplevelse med denna klassiska motorcykel i sk…",
+   "10754916122970: …Crossmotorcykel 1:10 – Leksaksmotorcykel i Metallmodell i Grön Ge barnet en fartfylld lekupplevelse …",
+   "10754888139098: …Crossmotorcykel 1:10 – Leksaksmotorcykel i Metallmodell i Orange Ge barnet en fartfylld lekupplevels…",
+   "10754833351002: …Sportmotorcykel 1:18 – Detaljerad Modell Ge barnet en fartfylld och fantasirik lekupplevelse med den…"
+  ],
+  "kvavning": [
+   "10699845435738: … plast, säker för badlek under vuxen övervakning Innehåller små delar: ej lämplig för barn under 3 år Rekommenderad ålder: 3+ Perfekt present för barn…",
+   "10699831837018: … plast, säker för badlek under vuxen övervakning Innehåller små delar: ej lämplig för barn under 3 år Rekommenderad ålder: 3+ Perfekt present för barn…",
+   "10699792580954: …r finmotorik, koncentration och logiskt tänkande Innehåller små delar – inte lämplig för barn under 3 år Interaktivt äventyrsspel med rullande bollar …"
+  ],
+  "spadbarn_sov": [
+   "10624676331866: …Babygym - Lekmatta & Krypfilt för Tidig Inlärning - Vit - Björnar Ge din bebis en trygg och stimulerande plats att …",
+   "10624674562394: …Babygym - Lekmatta & Krypfilt för Tidig Inlärning - Röd - Fåglar Ge din bebis en trygg och stimulerande plats att l…",
+   "10624670531930: …Babygym - Lekmatta & Krypfilt för Tidig Inlärning - Rosa - Apor Ge din bebis en trygg och stimulerande plats att le…",
+   "10565512397146: …. De samlade ärmsluten och fickorna som är smart infogade i sidsömmarna framhäver jackans lätta blousonform, medan den lätt fodrade huvan och de extra…"
+  ],
+  "medicinskt": [
+   "10074595918170: …äm, lutande position, vilket underlättar matsmältningen och förebygger halsbränna och obehag. Att mata en nyfödd kan vara utmanande, särskilt om ditt …"
+  ]
+ },
+ "samlingar": 96,
+ "tomma_samlingar": [
+  "barnvagn-tillbehor",
+  "byggleksaker",
+  "dockor",
+  "frontpage",
+  "inredning",
+  "leksaker-for-nyfodda-barn",
+  "maskeradklader",
+  "paraply",
+  "pyssel",
+  "rabattkod-happy-parent",
+  "radiostyrt",
+  "sandleksaker",
+  "solskydd",
+  "tecknade-motivpussel"
+ ],
+ "samlingar_utan_beskrivning": 48,
+ "valuta_pris": {
+  "min": 29.9,
+  "max": 2199.0
+ }
+}

@@ -1,0 +1,27 @@
+# Beslutsunderlag 2026-11-04 (HYPR Nutrition, fas 1)
+
+## 1. Sammanfattning
+Vi har startat onboarding av HYPR Nutrition (kosttillskott, bolaget HYPR Sthlm AB) med enbart läsning. Shopify-adminverktyget krävde ny inloggning, så butiken har genomlysts via sina offentliga sidor: 9 produkter, 5 kollektioner, 9 sidor och 86 bloggartiklar. Det allvarligaste fyndet är att köpvillkor och integritetspolicy tillhör ett annat bolag (en restaurang), och att leverans- och returpolicy saknas. Dessutom innehåller produkttexterna och troligen många artiklar hälsopåståenden (till exempel "stärker immunförsvaret") som regelverket för tillskott kräver särskild kontroll av. Jag har skrivit utkast till butiksprofil, spärrlista och en försiktig regeluppsättning, men ingen produkttext skrivs förrän du och en person med regulatorisk kompetens har godkänt dem.
+
+## 2. Resultat
+- **Före:** ingen profil, spärrlista eller genomlysning för HYPR. **Efter:** profil och spärrlista (utkast), regeluppsättning (utkast), genomlysning med 9 rangordnade fynd.
+- **Kontroll:** 111 offentliga adresser hämtades och granskades maskinellt (titel, meta, canonical, rubriker, strukturerad data, bilder); alla gav status 200. Påståenden hittades med nyckelordsträff i alla 9 produkttexter och 86 artiklar. Träfflistorna är grova (falska träffar förekommer) och har inte lästs artikel för artikel. Resultatet är inte kontrollerat mot admin eftersom Shopify-verktyget inte gick att använda.
+- **Anslutet:** Windsor har bara Facebook Organic (Gorilla Sports). Search Console, GA4 och Google Ads för HYPR är inte anslutna. Ahrefs svarar "Insufficient plan". Därför finns ingen analys av sökefterfrågan mot sidor och ingen GEO-mätning (Brand Radar).
+
+## 3. Beslut som behövs
+- **Shopify-inloggning:** autentisera Shopify-kopplingen i claude.ai (jag kan inte göra det) och bekräfta rätt butik. Rekommendation: ja, nu. Risk: ingen. Om inget görs: inventeringen förblir ofullständig (utkast, arkiverade produkter, marknader och SEO-fält osedda).
+- **Fel bolags villkor och policy:** ska köpvillkor, integritetspolicy, kontakt och presentkort bytas till HYPR Sthlm AB:s egna? Rekommendation: ja, snarast, men som en separat, beslutad åtgärd. Risk: ångerrätt, villkor och personuppgiftsansvarig pekar på fel bolag. Om inget görs: problemet ligger kvar.
+- **Regulatorisk granskare:** utse en person med regulatorisk kompetens som granskar regeluppsättningen för tillskott (`shopify-sync/regler/regler-tillskott-utkast.md`). Rekommendation: ja, före fas 2. Risk: jag ger inga juridiska utlåtanden. Om inget görs: fas 2 startar inte.
+- **Befintliga hälsopåståenden:** ska de ligga kvar tills granskaren svarat, eller tas bort i en beslutad åtgärd? Rekommendation: be granskaren prioritera Protect, Kollagen, PEA Boswellia och Multivitamin. Risk: påståendena är publicerade nu. Om inget beslutas: ingenting ändras.
+- **Spärrlista och profil:** godkänn eller ändra utkasten (alla 9 produkter spärrade tills vidare). Rekommendation: godkänn. Om inget görs: ingen skrivning.
+- **Bloggen:** ska de 86 artiklarna ingå i granskningen? Rekommendation: ja, i en egen etapp efter produkterna. Om inget beslutas: bloggen lämnas.
+- **Data och verktyg:** Search Console, GA4 och Google Ads för HYPR (vem äger dem, eget Google Cloud-projekt enligt `ny-sajt.md`), samt om Ahrefs-planen ska uppgraderas. Rekommendation: koppla Search Console först. Om inget görs: ingen sökanalys.
+- Övriga frågor (etiketter som källa, typord, marknader, språk) finns i `rapporter/hyprnutrition-2026-11-04/genomlysning.md`, avsnitt 6.
+
+## 4. Ändrat
+- **Shopify: nej.** Ingenting ändrades i Shopify, tema, Search Console, Analytics, Google Ads eller Ahrefs.
+- **Tillägg efter första rapporten:** jag körde `switch-shop` en gång (och `get-shop-info`, som misslyckades) efter ett meddelande från en annan session. Den sessionen meddelade sedan att Shopify-kopplingen delas mellan alla sessioner och att `switch-shop` kan ha stört BEST OF SPORTS-sessionen. Jag har inte använt Shopify-verktyget efter det och gör det inte. Admin-inventeringen pausas tills David ordnar API-åtkomst per butik. Kontrollera gärna att BEST OF SPORTS-sessionens koppling fungerar.
+- **Filer (nya):** `shopify-sync/config/butiksprofil-hyprnutrition.json`, `shopify-sync/config/sparrlista-hyprnutrition.json`, `shopify-sync/regler/regler-tillskott-utkast.md`, `rapporter/hyprnutrition-2026-11-04/` (genomlysning, rådata, skript), denna fil. Nya rader i `shopify-sync/docs/BESLUTSLOGG.md` (överst) och `shopify-sync/docs/ANDRINGSLOGG.md` (sist). Ingen befintlig text ändrades.
+
+## 5. Nästa steg
+Om du säger ja: du autentiserar Shopify, jag verifierar butiken och kompletterar inventeringen i admin (status, marknader, taggar, SEO-fält, utkast). Därefter, när granskaren och du godkänt profil, spärrar och regler, startar fas 2 med en liten kanariebatch på kreatin. Först därefter övriga produkter.

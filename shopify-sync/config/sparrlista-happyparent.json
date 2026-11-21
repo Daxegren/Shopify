@@ -1,0 +1,33 @@
+{
+ "butik": "happyparent.store",
+ "beskrivning": "Spärrlista för Happy Parent (utkast fas 1, 2026-11-04). Mall: sparrlista.json. Läses av skrivfil_kontroll.py med --sparr shopify-sync/config/sparrlista-happyparent.json --profil shopify-sync/config/butiksprofil-happyparent.json. Nya spärrar läggs till som nya poster; sätt aktiv=false vid hävning med datum och beslut. Ta inte bort poster.",
+ "sparrar": [
+  {
+   "namn": "hogrisk-barnsakerhet-2026-11-04",
+   "aktiv": true,
+   "idfil": "rapporter/happyparent-2026-11-04/sparr_hogrisk_barnsakerhet.csv",
+   "idkolumn": "produkt_id",
+   "skal": "133 produkter där texten rör sömn/spädbarn, bit/tandning, barnstol/lekhage, hälsopåstående eller batteri/magnet. Nyckelordsträff på offentlig produktdata: BRED, innehåller produkter som inte är riskprodukter (främst 'batteri'). Skrivs inte förrän David beslutat regelförslaget B1–B12.",
+   "beslut": "Förslag av Claude 2026-11-04, ej beslutat av David. Aktiv som försiktighetsspärr tills fas 2 startat.",
+   "kanda_overtradelser": []
+  },
+  {
+   "namn": "ce-certifieringspastaenden-2026-11-04",
+   "aktiv": true,
+   "idfil": "rapporter/happyparent-2026-11-04/sparr_ce_cert_pastaende.csv",
+   "idkolumn": "produkt_id",
+   "skal": "210 produkter vars text nämner CE-märkning eller certifiering (CCC). Ingen text nämner EN 71. Påståendet kan inte kontrolleras mot något underlag i repot. Ska varken behållas eller förstärkas i nya texter förrän David beslutat B3.",
+   "beslut": "Förslag av Claude 2026-11-04, ej beslutat av David.",
+   "kanda_overtradelser": []
+  },
+  {
+   "namn": "titeldubbletter-2026-11-04",
+   "aktiv": true,
+   "idfil": "rapporter/happyparent-2026-11-04/sparr_titeldubbletter.csv",
+   "idkolumn": "produkt_id",
+   "skal": "16 produkter med exakt samma titel som en annan produkt (R12a). Kan vara färgvarianter som är separata produkter; kontrolleras i fas 2.",
+   "beslut": "Förslag av Claude 2026-11-04, ej beslutat av David.",
+   "kanda_overtradelser": []
+  }
+ ]
+}

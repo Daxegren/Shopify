@@ -1,0 +1,2570 @@
+[
+ {
+  "url": "https://mondido.com/",
+  "status": 200,
+  "slutadress": "https://mondido.com/",
+  "bytes": 286932,
+  "html_lang": "sv",
+  "title": "Mondido Payments - Vi har betaltjänster för e-handlare",
+  "meta_description": "Betaltjänsterna för dig som jobbar inom e-com; Klarna, Zaver, Swish, Kort, Mobilepay, Vipps mm.",
+  "canonical": "https://mondido.com/",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/"
+   ],
+   [
+    "sv",
+    "https://mondido.com/"
+   ],
+   [
+    "en",
+    "https://mondido.com/en"
+   ]
+  ],
+  "og": {
+   "title": "Mondido Payments - Vi har betaltjänster för e-handlare",
+   "type": "website",
+   "description": "Betaltjänsterna för dig som jobbar inom e-com; Klarna, Zaver, Swish, Kort, Mobilepay, Vipps mm.",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "Mondido",
+   "Din konvertering är  vår konvertering"
+  ],
+  "h2_antal": 14,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 73,
+  "bilder_utan_alt": 56,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 1048
+ },
+ {
+  "url": "https://mondido.com/blogs/nyheter",
+  "status": 200,
+  "slutadress": "https://mondido.com/blogs/nyheter",
+  "bytes": 225890,
+  "html_lang": "sv",
+  "title": "Nyheter\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/blogs/nyheter",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/blogs/nyheter"
+   ],
+   [
+    "sv",
+    "https://mondido.com/blogs/nyheter"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/blogs/news"
+   ]
+  ],
+  "og": {
+   "title": "Nyheter",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "Nyheter"
+  ],
+  "h2_antal": 5,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 15,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 884
+ },
+ {
+  "url": "https://mondido.com/blogs/nyheter/accept-amex-online-grow-your-e-commerce-with-american-express",
+  "status": 200,
+  "slutadress": "https://mondido.com/blogs/nyheter/accept-amex-online-grow-your-e-commerce-with-american-express",
+  "bytes": 201528,
+  "html_lang": "sv",
+  "title": "Acceptera Amex online: Utöka din e-handel med American Express\n – Mondido",
+  "meta_description": "Ta emot American Express online med Mondido. Upptäck Amex-betalningar för e-handel, Shopify, säker utcheckning och internationella kunder.",
+  "canonical": "https://mondido.com/blogs/nyheter/accept-amex-online-grow-your-e-commerce-with-american-express",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/blogs/nyheter/accept-amex-online-grow-your-e-commerce-with-american-express"
+   ],
+   [
+    "sv",
+    "https://mondido.com/blogs/nyheter/accept-amex-online-grow-your-e-commerce-with-american-express"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/blogs/news/accept-amex-online-grow-your-e-commerce-with-american-express"
+   ]
+  ],
+  "og": {
+   "title": "Acceptera Amex online: Utöka din e-handel med American Express",
+   "type": "article",
+   "description": "Ta emot American Express online med Mondido. Upptäck Amex-betalningar för e-handel, Shopify, säker utcheckning och internationella kunder.",
+   "image": "http://mondido.com/cdn/shop/articles/60799d924206150018175e1e_7a043f86-72bf-4350-a401-3f0f8d31de95.webp?v=1789648611"
+  },
+  "h1": [
+   "Acceptera Amex online: Utöka din e-handel med American Express"
+  ],
+  "h2_antal": 16,
+  "jsonld_typer": [
+   "Organization",
+   "Article"
+  ],
+  "bilder": 3,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 1673
+ },
+ {
+  "url": "https://mondido.com/blogs/nyheter/accept-apple-pay-online-the-faster-way-to-pay-in-e-commerce",
+  "status": 200,
+  "slutadress": "https://mondido.com/blogs/nyheter/accept-apple-pay-online-the-faster-way-to-pay-in-e-commerce",
+  "bytes": 195091,
+  "html_lang": "sv",
+  "title": "Acceptera Apple Pay online | Snabbare e-handelsbetalning\n – Mondido",
+  "meta_description": "Ta emot Apple Pay online med Mondido. Erbjud en snabbare och enklare utcheckning och ge dina kunder ett säkert och smidigt sätt att betala i din e-handel.",
+  "canonical": "https://mondido.com/blogs/nyheter/accept-apple-pay-online-the-faster-way-to-pay-in-e-commerce",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/blogs/nyheter/accept-apple-pay-online-the-faster-way-to-pay-in-e-commerce"
+   ],
+   [
+    "sv",
+    "https://mondido.com/blogs/nyheter/accept-apple-pay-online-the-faster-way-to-pay-in-e-commerce"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/blogs/news/accept-apple-pay-online-the-faster-way-to-pay-in-e-commerce"
+   ]
+  ],
+  "og": {
+   "title": "Acceptera Apple Pay online | Snabbare e-handelsbetalning",
+   "type": "article",
+   "description": "Ta emot Apple Pay online med Mondido. Erbjud en snabbare och enklare utcheckning och ge dina kunder ett säkert och smidigt sätt att betala i din e-handel.",
+   "image": "http://mondido.com/cdn/shop/articles/apple_pay__c08w264834sy_og.png?v=1789648723"
+  },
+  "h1": [
+   "Acceptera Apple Pay online: Det snabbare sättet att betala inom e-handel"
+  ],
+  "h2_antal": 16,
+  "jsonld_typer": [
+   "Organization",
+   "Article"
+  ],
+  "bilder": 3,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 1354
+ },
+ {
+  "url": "https://mondido.com/blogs/nyheter/accept-google-pay-online-faster-e-commerce-checkout",
+  "status": 200,
+  "slutadress": "https://mondido.com/blogs/nyheter/accept-google-pay-online-faster-e-commerce-checkout",
+  "bytes": 197239,
+  "html_lang": "sv",
+  "title": "Acceptera Google Pay online | Snabbare utcheckning för e-handel\n – Mondido",
+  "meta_description": "Ta emot Google Pay online med Mondido. Erbjud snabbare utcheckning, enklare betalningar och ett smidigt sätt för kunder att betala på din e-handel.",
+  "canonical": "https://mondido.com/blogs/nyheter/accept-google-pay-online-faster-e-commerce-checkout",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/blogs/nyheter/accept-google-pay-online-faster-e-commerce-checkout"
+   ],
+   [
+    "sv",
+    "https://mondido.com/blogs/nyheter/accept-google-pay-online-faster-e-commerce-checkout"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/blogs/news/accept-google-pay-online-faster-e-commerce-checkout"
+   ]
+  ],
+  "og": {
+   "title": "Acceptera Google Pay online | Snabbare utcheckning för e-handel",
+   "type": "article",
+   "description": "Ta emot Google Pay online med Mondido. Erbjud snabbare utcheckning, enklare betalningar och ett smidigt sätt för kunder att betala på din e-handel.",
+   "image": "http://mondido.com/cdn/shop/articles/93b51e7630aa655e2113344c315a86c0.jpg?v=1789648876"
+  },
+  "h1": [
+   "Acceptera Google Pay online: Snabbare betalning i e-handeln"
+  ],
+  "h2_antal": 16,
+  "jsonld_typer": [
+   "Organization",
+   "Article"
+  ],
+  "bilder": 3,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 1475
+ },
+ {
+  "url": "https://mondido.com/blogs/nyheter/accept-mobilepay-online-reach-more-nordic-customers",
+  "status": 200,
+  "slutadress": "https://mondido.com/blogs/nyheter/accept-mobilepay-online-reach-more-nordic-customers",
+  "bytes": 195940,
+  "html_lang": "sv",
+  "title": "Acceptera MobilePay Online | Nå fler nordiska kunder\n – Mondido",
+  "meta_description": "Ta emot MobilePay online med Mondido. Nå nordiska kunder med en välkänd mobil betalningsmetod och skapa en snabbare och lokalanpassad betalningslösning för e-handel.",
+  "canonical": "https://mondido.com/blogs/nyheter/accept-mobilepay-online-reach-more-nordic-customers",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/blogs/nyheter/accept-mobilepay-online-reach-more-nordic-customers"
+   ],
+   [
+    "sv",
+    "https://mondido.com/blogs/nyheter/accept-mobilepay-online-reach-more-nordic-customers"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/blogs/news/accept-mobilepay-online-reach-more-nordic-customers"
+   ]
+  ],
+  "og": {
+   "title": "Acceptera MobilePay Online | Nå fler nordiska kunder",
+   "type": "article",
+   "description": "Ta emot MobilePay online med Mondido. Nå nordiska kunder med en välkänd mobil betalningsmetod och skapa en snabbare och lokalanpassad betalningslösning för e-handel.",
+   "image": "http://mondido.com/cdn/shop/articles/MobilePay_1.webp?v=1789649071"
+  },
+  "h1": [
+   "Acceptera MobilePay Online: Nå fler nordiska kunder"
+  ],
+  "h2_antal": 16,
+  "jsonld_typer": [
+   "Organization",
+   "Article"
+  ],
+  "bilder": 3,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 1383
+ },
+ {
+  "url": "https://mondido.com/blogs/nyheter/accept-vipps-online-reach-more-norwegian-customers",
+  "status": 200,
+  "slutadress": "https://mondido.com/blogs/nyheter/accept-vipps-online-reach-more-norwegian-customers",
+  "bytes": 196117,
+  "html_lang": "sv",
+  "title": "Acceptera Vipps Online | Nå fler norska kunder\n – Mondido",
+  "meta_description": "Acceptera Vipps online med Mondido. Erbjud norska kunder en välkänd mobil betalningsmetod och skapa en snabbare, lokaliserad e-handelskassa.",
+  "canonical": "https://mondido.com/blogs/nyheter/accept-vipps-online-reach-more-norwegian-customers",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/blogs/nyheter/accept-vipps-online-reach-more-norwegian-customers"
+   ],
+   [
+    "sv",
+    "https://mondido.com/blogs/nyheter/accept-vipps-online-reach-more-norwegian-customers"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/blogs/news/accept-vipps-online-reach-more-norwegian-customers"
+   ]
+  ],
+  "og": {
+   "title": "Acceptera Vipps Online | Nå fler norska kunder",
+   "type": "article",
+   "description": "Acceptera Vipps online med Mondido. Erbjud norska kunder en välkänd mobil betalningsmetod och skapa en snabbare, lokaliserad e-handelskassa.",
+   "image": "http://mondido.com/cdn/shop/articles/1fb02bcac8b60a437b01ca04c3e989e04b79c2ea-1080x1080.png?v=1789648975"
+  },
+  "h1": [
+   "Acceptera Vipps Online: Nå fler norska kunder"
+  ],
+  "h2_antal": 16,
+  "jsonld_typer": [
+   "Organization",
+   "Article"
+  ],
+  "bilder": 3,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 1445
+ },
+ {
+  "url": "https://mondido.com/blogs/nyheter/bakom-kassan-renjith-om-shopify-ux-och-konvertering",
+  "status": 200,
+  "slutadress": "https://mondido.com/blogs/nyheter/bakom-kassan-renjith-om-shopify-ux-och-konvertering",
+  "bytes": 190389,
+  "html_lang": "sv",
+  "title": "Bakom kassan: Renjith om Shopify, UX och konvertering\n – Mondido",
+  "meta_description": "Renjith berättar om vad som krävs för att bygga en utmärkt Shopify-kassa – från UX-beslut till integrationer av betalmetoder – och vad han tycker bäst om med att förvandla idéer till verkliga verktyg för handlare.På Mondido handlar allt om att göra betalningar enklare – för handlare och deras kunder. En stor del av det",
+  "canonical": "https://mondido.com/blogs/nyheter/bakom-kassan-renjith-om-shopify-ux-och-konvertering",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/blogs/nyheter/bakom-kassan-renjith-om-shopify-ux-och-konvertering"
+   ],
+   [
+    "sv",
+    "https://mondido.com/blogs/nyheter/bakom-kassan-renjith-om-shopify-ux-och-konvertering"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/blogs/news/behind-the-checkout-renjith-on-shopify-ux-and-conversion"
+   ]
+  ],
+  "og": {
+   "title": "Bakom kassan: Renjith om Shopify, UX och konvertering",
+   "type": "article",
+   "description": "Renjith berättar om vad som krävs för att bygga en utmärkt Shopify-kassa – från UX-beslut till integrationer av betalmetoder – och vad han tycker bäst om med att förvandla idéer till verkliga verktyg för handlare.På Mondido handlar allt om att göra betalningar enklare – för handlare och deras kunder. En stor del av det",
+   "image": "http://mondido.com/cdn/shop/articles/Renjith-e1745310009751_1.jpg?v=1788177074"
+  },
+  "h1": [
+   "Bakom kassan: Renjith om Shopify, UX och konvertering"
+  ],
+  "h2_antal": 5,
+  "jsonld_typer": [
+   "Organization",
+   "Article"
+  ],
+  "bilder": 4,
+  "bilder_utan_alt": 1,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 887
+ },
+ {
+  "url": "https://mondido.com/blogs/nyheter/bnpl-tjanster-for-b2b-handlare-pa-shopify-oka-forsaljningen-med-two",
+  "status": 200,
+  "slutadress": "https://mondido.com/blogs/nyheter/bnpl-tjanster-for-b2b-handlare-pa-shopify-oka-forsaljningen-med-two",
+  "bytes": 187122,
+  "html_lang": "sv",
+  "title": "BNPL-tjänster för B2B-handlare på Shopify: Öka försäljningen med Two\n – Mondido",
+  "meta_description": "Mondido har inlett ett samarbete med Two för att erbjuda BNPL till B2B Shopify-handlare. Med omedelbara kreditgodkännanden och smidig integration kan du erbjuda flexibla betalningsvillkor samtidigt som du får betalt i förskott. Detta bidrar till att öka försäljningen, öka ordervärdena och förbättra köpupplevelsen för d",
+  "canonical": "https://mondido.com/blogs/nyheter/bnpl-tjanster-for-b2b-handlare-pa-shopify-oka-forsaljningen-med-two",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/blogs/nyheter/bnpl-tjanster-for-b2b-handlare-pa-shopify-oka-forsaljningen-med-two"
+   ],
+   [
+    "sv",
+    "https://mondido.com/blogs/nyheter/bnpl-tjanster-for-b2b-handlare-pa-shopify-oka-forsaljningen-med-two"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/blogs/news/bnpl-services-for-b2b-merchants-on-shopify-boost-sales-with-two"
+   ]
+  ],
+  "og": {
+   "title": "BNPL-tjänster för B2B-handlare på Shopify: Öka försäljningen med Two",
+   "type": "article",
+   "description": "Mondido har inlett ett samarbete med Two för att erbjuda BNPL till B2B Shopify-handlare. Med omedelbara kreditgodkännanden och smidig integration kan du erbjuda flexibla betalningsvillkor samtidigt som du får betalt i förskott. Detta bidrar till att öka försäljningen, öka ordervärdena och förbättra köpupplevelsen för d",
+   "image": "http://mondido.com/cdn/shop/articles/girl-with-laptop_1.jpg?v=1788177119"
+  },
+  "h1": [
+   "BNPL-tjänster för B2B-handlare på Shopify: Öka försäljningen med Two"
+  ],
+  "h2_antal": 7,
+  "jsonld_typer": [
+   "Organization",
+   "Article"
+  ],
+  "bilder": 3,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 662
+ },
+ {
+  "url": "https://mondido.com/blogs/nyheter/bra-konvertering-vs-utmarkt-konvertering",
+  "status": 200,
+  "slutadress": "https://mondido.com/blogs/nyheter/bra-konvertering-vs-utmarkt-konvertering",
+  "bytes": 189760,
+  "html_lang": "sv",
+  "title": "Bra konvertering vs UTMÄRKT konvertering\n – Mondido",
+  "meta_description": "Att förstå skillnaden mellan bra och utmärkta konverteringsgrader är avgörande för framgång inom e-handel. Genom att analysera användarbeteende, effektivisera kassor och erbjuda alternativ som Swish kan företag maximera försäljningen och skapa lojalitet. Konvertering kan ses i många sammanhang, såsom valutor, marknadsf",
+  "canonical": "https://mondido.com/blogs/nyheter/bra-konvertering-vs-utmarkt-konvertering",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/blogs/nyheter/bra-konvertering-vs-utmarkt-konvertering"
+   ],
+   [
+    "sv",
+    "https://mondido.com/blogs/nyheter/bra-konvertering-vs-utmarkt-konvertering"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/blogs/news/good-conversion-vs-great-conversion"
+   ]
+  ],
+  "og": {
+   "title": "Bra konvertering vs UTMÄRKT konvertering",
+   "type": "article",
+   "description": "Att förstå skillnaden mellan bra och utmärkta konverteringsgrader är avgörande för framgång inom e-handel. Genom att analysera användarbeteende, effektivisera kassor och erbjuda alternativ som Swish kan företag maximera försäljningen och skapa lojalitet. Konvertering kan ses i många sammanhang, såsom valutor, marknadsf",
+   "image": "http://mondido.com/cdn/shop/articles/E-commerce-conversion-1980x1080-1-e1733175410955_3.jpg?v=1788177215"
+  },
+  "h1": [
+   "Bra konvertering vs UTMÄRKT konvertering"
+  ],
+  "h2_antal": 8,
+  "jsonld_typer": [
+   "Organization",
+   "Article"
+  ],
+  "bilder": 3,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 817
+ },
+ {
+  "url": "https://mondido.com/blogs/nyheter/klarna-for-e-commerce-why-businesses-choose-klarna-for-online-payments",
+  "status": 200,
+  "slutadress": "https://mondido.com/blogs/nyheter/klarna-for-e-commerce-why-businesses-choose-klarna-for-online-payments",
+  "bytes": 203077,
+  "html_lang": "sv",
+  "title": "Klarna för e-handel: Varför företag väljer Klarna för onlinebetalninga\n – Mondido",
+  "meta_description": "Klarna för e-handel: Upptäck hur Klarna fungerar, dess fördelar för onlinebetalningar och hur du erbjuder Klarna via Shopify och Mondido.",
+  "canonical": "https://mondido.com/blogs/nyheter/klarna-for-e-commerce-why-businesses-choose-klarna-for-online-payments",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/blogs/nyheter/klarna-for-e-commerce-why-businesses-choose-klarna-for-online-payments"
+   ],
+   [
+    "sv",
+    "https://mondido.com/blogs/nyheter/klarna-for-e-commerce-why-businesses-choose-klarna-for-online-payments"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/blogs/news/klarna-for-e-commerce-why-businesses-choose-klarna-for-online-payments"
+   ]
+  ],
+  "og": {
+   "title": "Klarna för e-handel: Varför företag väljer Klarna för onlinebetalninga",
+   "type": "article",
+   "description": "Klarna för e-handel: Upptäck hur Klarna fungerar, dess fördelar för onlinebetalningar och hur du erbjuder Klarna via Shopify och Mondido.",
+   "image": "http://mondido.com/cdn/shop/articles/825e56be644e9c89_org.jpg?v=1789648184"
+  },
+  "h1": [
+   "Klarna för e-handel: Varför företag väljer Klarna för onlinebetalningar"
+  ],
+  "h2_antal": 17,
+  "jsonld_typer": [
+   "Organization",
+   "Article"
+  ],
+  "bilder": 3,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 1793
+ },
+ {
+  "url": "https://mondido.com/blogs/nyheter/klarna-in-shopify-via-mondido-a-smoother-checkout-with-competitive-fees",
+  "status": 200,
+  "slutadress": "https://mondido.com/blogs/nyheter/klarna-in-shopify-via-mondido-a-smoother-checkout-with-competitive-fees",
+  "bytes": 188512,
+  "html_lang": "sv",
+  "title": "Klarna i Shopify via Mondido | Smidig kassa",
+  "meta_description": "Erbjud Klarna i Shopify med Mondido. Få en smidig utcheckning, konkurrenskraftig prissättning från Klarna och undvik Shopifys extra transaktionsavgifter för tredjepartsleverantörer.",
+  "canonical": "https://mondido.com/blogs/nyheter/klarna-in-shopify-via-mondido-a-smoother-checkout-with-competitive-fees",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/blogs/nyheter/klarna-in-shopify-via-mondido-a-smoother-checkout-with-competitive-fees"
+   ],
+   [
+    "sv",
+    "https://mondido.com/blogs/nyheter/klarna-in-shopify-via-mondido-a-smoother-checkout-with-competitive-fees"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/blogs/news/klarna-in-shopify-via-mondido-a-smoother-checkout-with-competitive-fees"
+   ]
+  ],
+  "og": {
+   "title": "Klarna i Shopify via Mondido | Smidig kassa",
+   "type": "article",
+   "description": "Erbjud Klarna i Shopify med Mondido. Få en smidig utcheckning, konkurrenskraftig prissättning från Klarna och undvik Shopifys extra transaktionsavgifter för tredjepartsleverantörer.",
+   "image": "http://mondido.com/cdn/shop/articles/images.jpg?v=1790864410"
+  },
+  "h1": [
+   "Klarna i Shopify via Mondido – en smidigare utcheckning med konkurrenskraftiga avgifter"
+  ],
+  "h2_antal": 11,
+  "jsonld_typer": [
+   "Organization",
+   "Article"
+  ],
+  "bilder": 3,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 802
+ },
+ {
+  "url": "https://mondido.com/blogs/nyheter/mondido-lanserar-vipps-mobilepay-i-norge-danmark-och-finland",
+  "status": 200,
+  "slutadress": "https://mondido.com/blogs/nyheter/mondido-lanserar-vipps-mobilepay-i-norge-danmark-och-finland",
+  "bytes": 184662,
+  "html_lang": "sv",
+  "title": "Mondido lanserar Vipps & MobilePay i Norge, Danmark och Finland",
+  "meta_description": "Vi är glada att kunna meddela att Vipps och MobilePay nu är fullt integrerade i Mondidos plattform och betalningsapp för Shopify. Det innebär att handlare i Norge, Danmark och Finland kan erbjuda några av Nordens mest använda mobila betalningslösningar direkt i kassan. Med Vipps i Norge och MobilePay i Danmark och Finl",
+  "canonical": "https://mondido.com/blogs/nyheter/mondido-lanserar-vipps-mobilepay-i-norge-danmark-och-finland",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/blogs/nyheter/mondido-lanserar-vipps-mobilepay-i-norge-danmark-och-finland"
+   ],
+   [
+    "sv",
+    "https://mondido.com/blogs/nyheter/mondido-lanserar-vipps-mobilepay-i-norge-danmark-och-finland"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/blogs/news/mondido-launches-vipps-mobilepay-in-norway-denmark-finland"
+   ]
+  ],
+  "og": {
+   "title": "Mondido lanserar Vipps & MobilePay i Norge, Danmark och Finland",
+   "type": "article",
+   "description": "Vi är glada att kunna meddela att Vipps och MobilePay nu är fullt integrerade i Mondidos plattform och betalningsapp för Shopify. Det innebär att handlare i Norge, Danmark och Finland kan erbjuda några av Nordens mest använda mobila betalningslösningar direkt i kassan. Med Vipps i Norge och MobilePay i Danmark och Finl",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "Mondido lanserar Vipps & MobilePay i Norge, Danmark och Finland"
+  ],
+  "h2_antal": 5,
+  "jsonld_typer": [
+   "Organization",
+   "Article"
+  ],
+  "bilder": 2,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 475
+ },
+ {
+  "url": "https://mondido.com/blogs/nyheter/redo-for-hogsasongen",
+  "status": 200,
+  "slutadress": "https://mondido.com/blogs/nyheter/redo-for-hogsasongen",
+  "bytes": 180304,
+  "html_lang": "sv",
+  "title": "Redo för högsäsongen?\n – Mondido",
+  "meta_description": "Are you ready? 🏋️ Peak season is just around the corner, and for many e-commerce merchants, this is one of the busiest times of the year with events like #Halloween, #BlackFriday, #CyberMonday and #SinglesDay. Make sure you have Mondido Swish set up in your Shopify checkout and give your customers a fast and familiar w",
+  "canonical": "https://mondido.com/blogs/nyheter/redo-for-hogsasongen",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/blogs/nyheter/redo-for-hogsasongen"
+   ],
+   [
+    "sv",
+    "https://mondido.com/blogs/nyheter/redo-for-hogsasongen"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/blogs/news/ready-for-peak-season"
+   ]
+  ],
+  "og": {
+   "title": "Redo för högsäsongen?",
+   "type": "article",
+   "description": "Are you ready? 🏋️ Peak season is just around the corner, and for many e-commerce merchants, this is one of the busiest times of the year with events like #Halloween, #BlackFriday, #CyberMonday and #SinglesDay. Make sure you have Mondido Swish set up in your Shopify checkout and give your customers a fast and familiar w",
+   "image": "http://mondido.com/cdn/shop/articles/Tap-phone-shopping-bg-1024x628-1_4.jpg?v=1788177252"
+  },
+  "h1": [
+   "Redo för högsäsongen?"
+  ],
+  "h2_antal": 5,
+  "jsonld_typer": [
+   "Organization",
+   "Article"
+  ],
+  "bilder": 3,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 332
+ },
+ {
+  "url": "https://mondido.com/blogs/nyheter/seamless-visa-mastercard-payments-for-e-commerce",
+  "status": 200,
+  "slutadress": "https://mondido.com/blogs/nyheter/seamless-visa-mastercard-payments-for-e-commerce",
+  "bytes": 201022,
+  "html_lang": "sv",
+  "title": "Sömlösa Visa & Mastercard-betalningar för e-handel\n – Mondido",
+  "meta_description": "Acceptera Visa och Mastercard online med Mondido. Upptäck säkra kortbetalningar för e-handel, Shopify och internationella kunder genom en och samma integration.",
+  "canonical": "https://mondido.com/blogs/nyheter/seamless-visa-mastercard-payments-for-e-commerce",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/blogs/nyheter/seamless-visa-mastercard-payments-for-e-commerce"
+   ],
+   [
+    "sv",
+    "https://mondido.com/blogs/nyheter/seamless-visa-mastercard-payments-for-e-commerce"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/blogs/news/seamless-visa-mastercard-payments-for-e-commerce"
+   ]
+  ],
+  "og": {
+   "title": "Sömlösa Visa & Mastercard-betalningar för e-handel",
+   "type": "article",
+   "description": "Acceptera Visa och Mastercard online med Mondido. Upptäck säkra kortbetalningar för e-handel, Shopify och internationella kunder genom en och samma integration.",
+   "image": "http://mondido.com/cdn/shop/articles/mc-visa-241_dd825a88-907f-4446-952d-9b72e58dae0e.jpg?v=1789648459"
+  },
+  "h1": [
+   "Smidiga Visa- och Mastercard-betalningar för e-handel"
+  ],
+  "h2_antal": 16,
+  "jsonld_typer": [
+   "Organization",
+   "Article"
+  ],
+  "bilder": 3,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 1588
+ },
+ {
+  "url": "https://mondido.com/blogs/nyheter/zaver-for-e-commerce-flexible-payments-for-high-value-purchases",
+  "status": 200,
+  "slutadress": "https://mondido.com/blogs/nyheter/zaver-for-e-commerce-flexible-payments-for-high-value-purchases",
+  "bytes": 202099,
+  "html_lang": "sv",
+  "title": "Zaver för e-handel: Flexibla betalningar för köp av högt värde\n – Mondido",
+  "meta_description": "Zaver för e-handel: Erbjud direktbankbetalningar, BNPL och flexibel finansiering för köp av högt värde med Zaver och Mondido.",
+  "canonical": "https://mondido.com/blogs/nyheter/zaver-for-e-commerce-flexible-payments-for-high-value-purchases",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/blogs/nyheter/zaver-for-e-commerce-flexible-payments-for-high-value-purchases"
+   ],
+   [
+    "sv",
+    "https://mondido.com/blogs/nyheter/zaver-for-e-commerce-flexible-payments-for-high-value-purchases"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/blogs/news/zaver-for-e-commerce-flexible-payments-for-high-value-purchases"
+   ]
+  ],
+  "og": {
+   "title": "Zaver för e-handel: Flexibla betalningar för köp av högt värde",
+   "type": "article",
+   "description": "Zaver för e-handel: Erbjud direktbankbetalningar, BNPL och flexibel finansiering för köp av högt värde med Zaver och Mondido.",
+   "image": "http://mondido.com/cdn/shop/articles/5fa56afb84b7cb3a914faa79_Open_Graph_-_Image_1200x630_f0eacd2f-529c-4e06-8092-62d41f7e3efd.jpg?v=1789648334"
+  },
+  "h1": [
+   "Zaver för e-handel: Flexibla betalningar för köp av högt värde",
+   "Zaver för e-handel: Flexibla betalningar för köp med högre värde"
+  ],
+  "h2_antal": 17,
+  "jsonld_typer": [
+   "Organization",
+   "Article"
+  ],
+  "bilder": 3,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 1664
+ },
+ {
+  "url": "https://mondido.com/collections/startsida",
+  "status": 200,
+  "slutadress": "https://mondido.com/collections/startsida",
+  "bytes": 273324,
+  "html_lang": "sv",
+  "title": "Startsida\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/collections/startsida",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/collections/startsida"
+   ],
+   [
+    "sv",
+    "https://mondido.com/collections/startsida"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/collections/frontpage"
+   ]
+  ],
+  "og": {
+   "title": "Startsida",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "Startsida"
+  ],
+  "h2_antal": 6,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 2,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 381
+ },
+ {
+  "url": "https://mondido.com/en",
+  "status": 200,
+  "slutadress": "https://mondido.com/en",
+  "bytes": 286827,
+  "html_lang": "en",
+  "title": "Mondido Payments - Vi har betaltjänsterna för e-handlare",
+  "meta_description": "Betaltjänsterna för dig som jobbar inom e-com; Klarna, Zaver, Swish, Kort, Mobilepay, Vipps etc.",
+  "canonical": "https://mondido.com/en",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/"
+   ],
+   [
+    "sv",
+    "https://mondido.com/"
+   ],
+   [
+    "en",
+    "https://mondido.com/en"
+   ]
+  ],
+  "og": {
+   "title": "Mondido Payments - Vi har betaltjänsterna för e-handlare",
+   "type": "website",
+   "description": "Betaltjänsterna för dig som jobbar inom e-com; Klarna, Zaver, Swish, Kort, Mobilepay, Vipps etc.",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "Mondido",
+   "Your Conversion is  Our Conversion"
+  ],
+  "h2_antal": 14,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 73,
+  "bilder_utan_alt": 56,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 1086
+ },
+ {
+  "url": "https://mondido.com/en/pages/kontakt",
+  "status": 200,
+  "slutadress": "https://mondido.com/en/pages/contact",
+  "bytes": 177591,
+  "html_lang": "en",
+  "title": "Contact\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/en/pages/contact",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/kontakt"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/kontakt"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/contact"
+   ]
+  ],
+  "og": {
+   "title": "Contact",
+   "type": "website",
+   "description": "Betaltjänsterna för dig som jobbar inom e-com; Klarna, Zaver, Swish, Kort, Mobilepay, Vipps etc. ",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [],
+  "h2_antal": 5,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 2,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 224
+ },
+ {
+  "url": "https://mondido.com/en/pages/swish",
+  "status": 200,
+  "slutadress": "https://mondido.com/en/pages/swish",
+  "bytes": 230333,
+  "html_lang": "en",
+  "title": "Swish\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/en/pages/swish",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/swish"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/swish"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/swish"
+   ]
+  ],
+  "og": {
+   "title": "Swish",
+   "type": "website",
+   "description": "Betaltjänsterna för dig som jobbar inom e-com; Klarna, Zaver, Swish, Kort, Mobilepay, Vipps etc. ",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "Swish + Mondido  Leading payment provider in Sweden"
+  ],
+  "h2_antal": 12,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 7,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-SEKTION",
+    "G-SEKTION"
+   ],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 809
+ },
+ {
+  "url": "https://mondido.com/pages/abonemang",
+  "status": 200,
+  "slutadress": "https://mondido.com/pages/abonemang",
+  "bytes": 228228,
+  "html_lang": "sv",
+  "title": "Abonemang\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/pages/abonemang",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/abonemang"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/abonemang"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/abonemang"
+   ]
+  ],
+  "og": {
+   "title": "Abonemang",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "Prenumerationsbetalningar med Mondido"
+  ],
+  "h2_antal": 12,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 7,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-SEKTION",
+    "G-SEKTION"
+   ],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 672
+ },
+ {
+  "url": "https://mondido.com/pages/allmanna-villkor",
+  "status": 200,
+  "slutadress": "https://mondido.com/pages/allmanna-villkor",
+  "bytes": 207423,
+  "html_lang": "sv",
+  "title": "Allmänna villkor\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/pages/allmanna-villkor",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/allmanna-villkor"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/allmanna-villkor"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/general-terms-and-conditions"
+   ]
+  ],
+  "og": {
+   "title": "Allmänna villkor",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "Allmänna villkor"
+  ],
+  "h2_antal": 17,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 3,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 3060
+ },
+ {
+  "url": "https://mondido.com/pages/amex",
+  "status": 200,
+  "slutadress": "https://mondido.com/pages/amex",
+  "bytes": 230218,
+  "html_lang": "sv",
+  "title": "Amex\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/pages/amex",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/amex"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/amex"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/amex"
+   ]
+  ],
+  "og": {
+   "title": "Amex",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "Acceptera Amex med Mondido   Världens populäraste kreditkort"
+  ],
+  "h2_antal": 12,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 7,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-SEKTION",
+    "G-SEKTION"
+   ],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 754
+ },
+ {
+  "url": "https://mondido.com/pages/apple-pay",
+  "status": 200,
+  "slutadress": "https://mondido.com/pages/apple-pay",
+  "bytes": 221109,
+  "html_lang": "sv",
+  "title": "Apple Pay\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/pages/apple-pay",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/apple-pay"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/apple-pay"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/apple-pay"
+   ]
+  ],
+  "og": {
+   "title": "Apple Pay",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "Apple Pay + Mondido  Ledande mobil plånbok för globala shoppare"
+  ],
+  "h2_antal": 11,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 7,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-SEKTION",
+    "G-SEKTION"
+   ],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 728
+ },
+ {
+  "url": "https://mondido.com/pages/blogg",
+  "status": 200,
+  "slutadress": "https://mondido.com/pages/blogg",
+  "bytes": 196326,
+  "html_lang": "sv",
+  "title": "Blogg\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/pages/blogg",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/blogg"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/blogg"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/blog"
+   ]
+  ],
+  "og": {
+   "title": "Blogg",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "Vad är nytt i  branschen?"
+  ],
+  "h2_antal": 7,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 11,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 558
+ },
+ {
+  "url": "https://mondido.com/pages/cookiepolicy",
+  "status": 200,
+  "slutadress": "https://mondido.com/pages/cookiepolicy",
+  "bytes": 185503,
+  "html_lang": "sv",
+  "title": "Cookiepolicy\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/pages/cookiepolicy",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/cookiepolicy"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/cookiepolicy"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/cookie-policy"
+   ]
+  ],
+  "og": {
+   "title": "Cookiepolicy",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "Cookiepolicy"
+  ],
+  "h2_antal": 10,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 3,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 622
+ },
+ {
+  "url": "https://mondido.com/pages/forsaljning",
+  "status": 200,
+  "slutadress": "https://mondido.com/pages/forsaljning",
+  "bytes": 197975,
+  "html_lang": "sv",
+  "title": "Försäljning\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/pages/forsaljning",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/forsaljning"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/forsaljning"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/sales"
+   ]
+  ],
+  "og": {
+   "title": "Försäljning",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [],
+  "h2_antal": 7,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 2,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 478
+ },
+ {
+  "url": "https://mondido.com/pages/google-pay",
+  "status": 200,
+  "slutadress": "https://mondido.com/pages/google-pay",
+  "bytes": 221197,
+  "html_lang": "sv",
+  "title": "Google Pay\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/pages/google-pay",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/google-pay"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/google-pay"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/google-pay"
+   ]
+  ],
+  "og": {
+   "title": "Google Pay",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "Google Pay + Mondido  Ledande mobilplånbok för Android-användare världen över"
+  ],
+  "h2_antal": 11,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 7,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-SEKTION",
+    "G-SEKTION"
+   ],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 720
+ },
+ {
+  "url": "https://mondido.com/pages/guide",
+  "status": 200,
+  "slutadress": "https://mondido.com/pages/guide",
+  "bytes": 188978,
+  "html_lang": "sv",
+  "title": "Guide\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/pages/guide",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/guide"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/guide"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/guide"
+   ]
+  ],
+  "og": {
+   "title": "Guide",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [],
+  "h2_antal": 6,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 2,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 497
+ },
+ {
+  "url": "https://mondido.com/pages/ideell-verksamhet",
+  "status": 200,
+  "slutadress": "https://mondido.com/pages/ideell-verksamhet",
+  "bytes": 204789,
+  "html_lang": "sv",
+  "title": "Ideell\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/pages/ideell-verksamhet",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/ideell-verksamhet"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/ideell-verksamhet"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/non-profit"
+   ]
+  ],
+  "og": {
+   "title": "Ideell",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "Ideell verksamhet med Mondido  Ta emot donationer"
+  ],
+  "h2_antal": 9,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 6,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 486
+ },
+ {
+  "url": "https://mondido.com/pages/integritetspolicy",
+  "status": 200,
+  "slutadress": "https://mondido.com/pages/integritetspolicy",
+  "bytes": 187665,
+  "html_lang": "sv",
+  "title": "Integritetspolicy\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/pages/integritetspolicy",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/integritetspolicy"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/integritetspolicy"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/privacy-policy"
+   ]
+  ],
+  "og": {
+   "title": "Integritetspolicy",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "Integritetspolicy"
+  ],
+  "h2_antal": 12,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 3,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 706
+ },
+ {
+  "url": "https://mondido.com/pages/klarna",
+  "status": 200,
+  "slutadress": "https://mondido.com/pages/klarna",
+  "bytes": 233661,
+  "html_lang": "sv",
+  "title": "Klarna\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/pages/klarna",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/klarna"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/klarna"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/klarna"
+   ]
+  ],
+  "og": {
+   "title": "Klarna",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "Klarna + Mondido  ledande BNPL-leverantör för köp med högt ordervärde"
+  ],
+  "h2_antal": 12,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 7,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-SEKTION",
+    "G-SEKTION"
+   ],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 816
+ },
+ {
+  "url": "https://mondido.com/pages/kontakt",
+  "status": 200,
+  "slutadress": "https://mondido.com/pages/kontakt",
+  "bytes": 177404,
+  "html_lang": "sv",
+  "title": "Kontakt\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/pages/kontakt",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/kontakt"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/kontakt"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/contact"
+   ]
+  ],
+  "og": {
+   "title": "Kontakt",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [],
+  "h2_antal": 5,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 2,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 213
+ },
+ {
+  "url": "https://mondido.com/pages/mobilepay",
+  "status": 200,
+  "slutadress": "https://mondido.com/pages/mobilepay",
+  "bytes": 222011,
+  "html_lang": "sv",
+  "title": "Mobilepay\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/pages/mobilepay",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/mobilepay"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/mobilepay"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/mobilepay"
+   ]
+  ],
+  "og": {
+   "title": "Mobilepay",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "MobilePay + Mondido  Leading direct payment provider in Denmark &amp; Finland"
+  ],
+  "h2_antal": 11,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 7,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-SEKTION",
+    "G-SEKTION"
+   ],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 707
+ },
+ {
+  "url": "https://mondido.com/pages/nyheter",
+  "status": 200,
+  "slutadress": "https://mondido.com/pages/nyheter",
+  "bytes": 198066,
+  "html_lang": "sv",
+  "title": "Nyheter\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/pages/nyheter",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/nyheter"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/nyheter"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/newsroom"
+   ]
+  ],
+  "og": {
+   "title": "Nyheter",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "Vad är nytt  hos Mondido?"
+  ],
+  "h2_antal": 9,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 9,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 424
+ },
+ {
+  "url": "https://mondido.com/pages/om-oss",
+  "status": 200,
+  "slutadress": "https://mondido.com/pages/om-oss",
+  "bytes": 225910,
+  "html_lang": "sv",
+  "title": "Om oss\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/pages/om-oss",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/om-oss"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/om-oss"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/about-us"
+   ]
+  ],
+  "og": {
+   "title": "Om oss",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "Kärnan i  Mondido"
+  ],
+  "h2_antal": 10,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 10,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 702
+ },
+ {
+  "url": "https://mondido.com/pages/paypal",
+  "status": 200,
+  "slutadress": "https://mondido.com/pages/paypal",
+  "bytes": 230287,
+  "html_lang": "sv",
+  "title": "Paypal\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/pages/paypal",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/paypal"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/paypal"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/paypal"
+   ]
+  ],
+  "og": {
+   "title": "Paypal",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "PayPal + Mondido Ledande global betalningsmetod för trygg betalning på nätet"
+  ],
+  "h2_antal": 12,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 7,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-SEKTION",
+    "G-SEKTION"
+   ],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 774
+ },
+ {
+  "url": "https://mondido.com/pages/pdf",
+  "status": 200,
+  "slutadress": "https://mondido.com/pages/pdf",
+  "bytes": 228550,
+  "html_lang": "sv",
+  "title": "PDF\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/pages/pdf",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/pdf"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/pdf"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/pdf"
+   ]
+  ],
+  "og": {
+   "title": "PDF",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "PDF-fakturering med Mondido"
+  ],
+  "h2_antal": 12,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 7,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-SEKTION",
+    "G-SEKTION"
+   ],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 642
+ },
+ {
+  "url": "https://mondido.com/pages/priskalkylator",
+  "status": 200,
+  "slutadress": "https://mondido.com/pages/priskalkylator",
+  "bytes": 181997,
+  "html_lang": "sv",
+  "title": "Kalkylator\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/pages/priskalkylator",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/priskalkylator"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/priskalkylator"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/kalkylator"
+   ]
+  ],
+  "og": {
+   "title": "Kalkylator",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "Kalkylator"
+  ],
+  "h2_antal": 5,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 2,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 206
+ },
+ {
+  "url": "https://mondido.com/pages/prislista",
+  "status": 200,
+  "slutadress": "https://mondido.com/pages/prislista",
+  "bytes": 184096,
+  "html_lang": "sv",
+  "title": "Prislista\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/pages/prislista",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/prislista"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/prislista"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/prislista"
+   ]
+  ],
+  "og": {
+   "title": "Prislista",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [],
+  "h2_antal": 6,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 2,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 410
+ },
+ {
+  "url": "https://mondido.com/pages/produkt",
+  "status": 200,
+  "slutadress": "https://mondido.com/pages/produkt",
+  "bytes": 276018,
+  "html_lang": "sv",
+  "title": "Produkt\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/pages/produkt",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/produkt"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/produkt"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/products"
+   ]
+  ],
+  "og": {
+   "title": "Produkt",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "Ta emot betalningar online.  Globalt och lokalt."
+  ],
+  "h2_antal": 14,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 27,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 1354
+ },
+ {
+  "url": "https://mondido.com/pages/shopify-se",
+  "status": 200,
+  "slutadress": "https://mondido.com/pages/shopify-se",
+  "bytes": 209312,
+  "html_lang": "sv",
+  "title": "Shopify\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/pages/shopify-se",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/shopify-se"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/shopify-se"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/shopify"
+   ]
+  ],
+  "og": {
+   "title": "Shopify",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "Shopify + Mondido  Flexibla kassalösningar"
+  ],
+  "h2_antal": 7,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 11,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 554
+ },
+ {
+  "url": "https://mondido.com/pages/swish",
+  "status": 200,
+  "slutadress": "https://mondido.com/pages/swish",
+  "bytes": 230276,
+  "html_lang": "sv",
+  "title": "Swish\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/pages/swish",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/swish"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/swish"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/swish"
+   ]
+  ],
+  "og": {
+   "title": "Swish",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "Swish + Mondido  Ledande betalningsleverantör i Sverige"
+  ],
+  "h2_antal": 12,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 7,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-SEKTION",
+    "G-SEKTION"
+   ],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 787
+ },
+ {
+  "url": "https://mondido.com/pages/swish-svenska-marknaden",
+  "status": 200,
+  "slutadress": "https://mondido.com/pages/swish-svenska-marknaden",
+  "bytes": 207575,
+  "html_lang": "sv",
+  "title": "Swish - Sverige\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/pages/swish-svenska-marknaden",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/swish-svenska-marknaden"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/swish-svenska-marknaden"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/swish-sverige"
+   ]
+  ],
+  "og": {
+   "title": "Swish - Sverige",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "Swish + Mondido  Lokala betalningar i Sverige"
+  ],
+  "h2_antal": 11,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 11,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-SEKTION",
+    "G-SEKTION"
+   ],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 634
+ },
+ {
+  "url": "https://mondido.com/pages/test-checkout-se",
+  "status": 200,
+  "slutadress": "https://mondido.com/pages/test-checkout-se",
+  "bytes": 186233,
+  "html_lang": "sv",
+  "title": "Test checkout\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/pages/test-checkout-se",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/test-checkout-se"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/test-checkout-se"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/test-checkout"
+   ]
+  ],
+  "og": {
+   "title": "Test checkout",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [],
+  "h2_antal": 7,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 4,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 269
+ },
+ {
+  "url": "https://mondido.com/pages/tillgangar",
+  "status": 200,
+  "slutadress": "https://mondido.com/pages/tillgangar",
+  "bytes": 194506,
+  "html_lang": "sv",
+  "title": "Tillgångar\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/pages/tillgangar",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/tillgangar"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/tillgangar"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/resources"
+   ]
+  ],
+  "og": {
+   "title": "Tillgångar",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "En värld av  insikter"
+  ],
+  "h2_antal": 10,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 9,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 459
+ },
+ {
+  "url": "https://mondido.com/pages/trustly",
+  "status": 200,
+  "slutadress": "https://mondido.com/pages/trustly",
+  "bytes": 230687,
+  "html_lang": "sv",
+  "title": "Trustly\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/pages/trustly",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/trustly"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/trustly"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/trustly"
+   ]
+  ],
+  "og": {
+   "title": "Trustly",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "Ledande leverantör av open banking och konto-till-konto-betalningar"
+  ],
+  "h2_antal": 12,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 7,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-SEKTION",
+    "G-SEKTION"
+   ],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 783
+ },
+ {
+  "url": "https://mondido.com/pages/two",
+  "status": 200,
+  "slutadress": "https://mondido.com/pages/two",
+  "bytes": 228635,
+  "html_lang": "sv",
+  "title": "Two\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/pages/two",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/two"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/two"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/two"
+   ]
+  ],
+  "og": {
+   "title": "Two",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "Ledande leverantör av open banking och konto-till-konto-betalningar"
+  ],
+  "h2_antal": 11,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 6,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-SEKTION",
+    "G-SEKTION"
+   ],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 668
+ },
+ {
+  "url": "https://mondido.com/pages/vipps",
+  "status": 200,
+  "slutadress": "https://mondido.com/pages/vipps",
+  "bytes": 229854,
+  "html_lang": "sv",
+  "title": "Vipps\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/pages/vipps",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/vipps"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/vipps"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/vipps"
+   ]
+  ],
+  "og": {
+   "title": "Vipps",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "Vipps + Mondido  Ledande betalningsleverantör i Norge"
+  ],
+  "h2_antal": 12,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 7,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-SEKTION",
+    "G-SEKTION"
+   ],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 728
+ },
+ {
+  "url": "https://mondido.com/pages/visa-mastercard",
+  "status": 200,
+  "slutadress": "https://mondido.com/pages/visa-mastercard",
+  "bytes": 230660,
+  "html_lang": "sv",
+  "title": "Visa & Mastercard\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/pages/visa-mastercard",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/visa-mastercard"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/visa-mastercard"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/visa-mastercard"
+   ]
+  ],
+  "og": {
+   "title": "Visa & Mastercard",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "Erbjud Visa &amp; Mastercard med Mondido  Världens ledande kortleverantörer"
+  ],
+  "h2_antal": 12,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 7,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-SEKTION",
+    "G-SEKTION"
+   ],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 776
+ },
+ {
+  "url": "https://mondido.com/pages/zaver",
+  "status": 200,
+  "slutadress": "https://mondido.com/pages/zaver",
+  "bytes": 224501,
+  "html_lang": "sv",
+  "title": "Zaver\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/pages/zaver",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/pages/zaver"
+   ],
+   [
+    "sv",
+    "https://mondido.com/pages/zaver"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/pages/zaver"
+   ]
+  ],
+  "og": {
+   "title": "Zaver",
+   "type": "website",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "Zaver + Mondido  ledande BNPL-leverantör för köp med högt värde"
+  ],
+  "h2_antal": 11,
+  "jsonld_typer": [
+   "Organization"
+  ],
+  "bilder": 7,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-SEKTION",
+    "G-SEKTION"
+   ],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 838
+ },
+ {
+  "url": "https://mondido.com/products/test-checkout-se",
+  "status": 200,
+  "slutadress": "https://mondido.com/products/test-checkout-se",
+  "bytes": 199403,
+  "html_lang": "sv",
+  "title": "Test checkout\n – Mondido",
+  "meta_description": "",
+  "canonical": "https://mondido.com/products/test-checkout-se",
+  "robots_meta": null,
+  "hreflang": [
+   [
+    "x-default",
+    "https://mondido.com/products/test-checkout-se"
+   ],
+   [
+    "sv",
+    "https://mondido.com/products/test-checkout-se"
+   ],
+   [
+    "en",
+    "https://mondido.com/en/products/test-checkout"
+   ]
+  ],
+  "og": {
+   "title": "Test checkout",
+   "type": "product",
+   "image": "http://mondido.com/cdn/shop/files/mondido_upscale_4x_d8316a31-2167-4e43-ba79-b476ca982367.png?v=1789548040"
+  },
+  "h1": [
+   "Test checkout"
+  ],
+  "h2_antal": 5,
+  "jsonld_typer": [
+   "Organization",
+   "Product"
+  ],
+  "bilder": 2,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 237
+ }
+]

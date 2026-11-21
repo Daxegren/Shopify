@@ -1,0 +1,1720 @@
+[
+ {
+  "url": "https://www.gorillasports.se/",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/",
+  "bytes": 433887,
+  "title": "Gorilla Sports - Bäst på träningsutrustning & träningsredskap\n – Gorilla Sports Nordics",
+  "meta": "Vi erbjuder ett av Sveriges bredaste utbud av kvalitativa och prisvärda gymstationer för träning direkt i hemmiljö! Beställ redan idag!",
+  "canonical": [
+   "https://www.gorillasports.se/"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 16,
+  "jsonld": [
+   "Organization"
+  ],
+  "img": 95,
+  "img_utan_alt": 76,
+  "og_title": "Gorilla Sports - Bäst på träningsutrustning &amp; träningsredskap",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.dk/",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.dk/",
+  "bytes": 429619,
+  "title": "Gorilla Sports - Et af Danmarks største udvalg af træningsudstyr\n – Gorilla Sports Nordics",
+  "meta": "Vi tilbyder et af Danmarks bredeste udvalg af kvalitets- og prisvenlige træningspakken til træning direkte i hjemmemiljøet! Bestil i dag!",
+  "canonical": [
+   "https://www.gorillasports.dk/"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 13,
+  "jsonld": [
+   "Organization"
+  ],
+  "img": 95,
+  "img_utan_alt": 76,
+  "og_title": "Gorilla Sports - Et af Danmarks største udvalg af træningsudstyr",
+  "lang": "da"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/viktskivor-26mm",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/viktskivor-26mm",
+  "bytes": 298955,
+  "title": "Viktskivor 26mm - För effektiv styrketräning\n – Gorilla Sports Nordics",
+  "meta": "Upptäck vårt utbud av hållbara viktskivor 26mm i olika vikter och material. Perfekta för styrketräning hemma eller på gymmet.",
+  "canonical": [
+   "https://www.gorillasports.se/collections/viktskivor-26mm"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/viktskivor-26mm"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/viktskivor-26mm"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/vagtskiver-26mm"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 15,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 63,
+  "img_utan_alt": 57,
+  "og_title": "Viktskivor 26mm - För effektiv styrketräning",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/parallettes",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/parallettes",
+  "bytes": 307492,
+  "title": "Parallettes – Förbättra styrka och balans 💪 - Gorilla Sports\n – Gorilla Sports Nordics",
+  "meta": "Parallettes hjälper dig att träna kroppsvikt med fokus på armar, axlar och bålstabilitet. Robust design och bra grepp för effektiv träning. ✅",
+  "canonical": [
+   "https://www.gorillasports.se/collections/parallettes"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/parallettes"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/parallettes"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/parallettes-push-up-bars"
+   ]
+  ],
+  "robots": null,
+  "h1": 2,
+  "h2": 11,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 66,
+  "img_utan_alt": 57,
+  "og_title": "Parallettes – Förbättra styrka och balans 💪 - Gorilla Sports",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/yogamatta",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/yogamatta",
+  "bytes": 329474,
+  "title": "Yogamatta - Köp yogamattor för hemmaträning\n – Gorilla Sports Nordics",
+  "meta": "Upptäck vårt utbud av yogamattor i olika material och tjocklekar. Perfekta för alla nivåer av yoga, från nybörjare till avancerade utövare.",
+  "canonical": [
+   "https://www.gorillasports.se/collections/yogamatta"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/yogamatta"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/yogamatta"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/yogamatte"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 13,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 69,
+  "img_utan_alt": 57,
+  "og_title": "Yogamatta - Köp yogamattor för hemmaträning",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/helkroppstraning",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/helkroppstraning",
+  "bytes": 381452,
+  "title": "Helkroppsträning 🏋️‍♀️ – Träna hela kroppen\n – Gorilla Sports Nordics",
+  "meta": "Effektiv helkroppsträning med träningsmaskiner från vårt stora sortiment. Prisvärda produkter och snabb leverans gör träningen smidig.",
+  "canonical": [
+   "https://www.gorillasports.se/collections/helkroppstraning"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/helkroppstraning"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/helkroppstraning"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/fuld-kropstraening"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 9,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 85,
+  "img_utan_alt": 57,
+  "og_title": "Helkroppsträning 🏋️‍♀️ – Träna hela kroppen",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/latsdragsmaskin",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/latsdragsmaskin",
+  "bytes": 343862,
+  "title": "Latsdragsmaskin – Kabelmaskin för latsdrag\n – Gorilla Sports Nordics",
+  "meta": "Prisvärda latsdragsmaskiner för hemma eller gymmet som stärker rygg och armar. Stabil konstruktion, enkel att använda och perfekt för starkare rygg &amp; armar.",
+  "canonical": [
+   "https://www.gorillasports.se/collections/latsdragsmaskin"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/latsdragsmaskin"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/latsdragsmaskin"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/traktarn-lat-pull-down"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 11,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 75,
+  "img_utan_alt": 57,
+  "og_title": "Latsdragsmaskin – Kabelmaskin för latsdrag",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/boxningspaket",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/boxningspaket",
+  "bytes": 296407,
+  "title": "Boxningsset & Boxningspaket - För vuxen & barn\n – Gorilla Sports Nordics",
+  "meta": "Prisvärda boxningspaket för träning och sparring, med handskar, bandage och robust boxsäck. Gratis hemleverans!",
+  "canonical": [
+   "https://www.gorillasports.se/collections/boxningspaket"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/boxningspaket"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/boxningspaket"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/boksesat-boksepakke"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 10,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 63,
+  "img_utan_alt": 57,
+  "og_title": "Boxningsset &amp; Boxningspaket - För vuxen &amp; barn",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/viktskivor-jern",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/viktskivor-jern",
+  "bytes": 391003,
+  "title": "Viktskivor Järn\n – Gorilla Sports Nordics",
+  "meta": "Viktskivor Järn Här hittar du riktigt bra viktskivor som passar perfekt för din styrketräning. Oavsett om du är nybörjare och just börjat bygga ett eget gym hemma, eller om du är van vid träning och vill uppgradera din utrustning, så har vi massor av olika vikter och storlekar som passar alla nivåer och mål. Våra järnv",
+  "canonical": [
+   "https://www.gorillasports.se/collections/viktskivor-jern"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/viktskivor-jern"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/viktskivor-jern"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/vaegtskiver-jern"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 12,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 85,
+  "img_utan_alt": 57,
+  "og_title": "Viktskivor Järn",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/skivstenger",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/skivstenger",
+  "bytes": 380275,
+  "title": "Skivstång – Högkvalitativa skivstänger för alla nivåer\n – Gorilla Sports Nordics",
+  "meta": "Hitta skivstänger för alla nivåer – hållbara, prisvärda och perfekta för både hemmagym och professionell träning. Beställ enkelt online idag!",
+  "canonical": [
+   "https://www.gorillasports.se/collections/skivstenger"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/skivstenger"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/skivstenger"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/vegtstang-barbell"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 11,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 85,
+  "img_utan_alt": 57,
+  "og_title": "Skivstång – Högkvalitativa skivstänger för alla nivåer",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/boxningstillbehor",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/boxningstillbehor",
+  "bytes": 327531,
+  "title": "Boxningstillbehör 🥊 - Allt för din boxningsträning\n – Gorilla Sports Nordics",
+  "meta": "Prisvärda boxningstillbehör som bandage, handskar och mer 🔥 Snabb leverans 🔥 Kundtjänst i världsklass 🔥 Hög kvalitet från Gorilla Sports.",
+  "canonical": [
+   "https://www.gorillasports.se/collections/boxningstillbehor"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/boxningstillbehor"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/boxningstillbehor"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/boksetilbehor"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 16,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 71,
+  "img_utan_alt": 57,
+  "og_title": "Boxningstillbehör 🥊 - Allt för din boxningsträning",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/chinsstang-vagg",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/chinsstang-vagg",
+  "bytes": 316236,
+  "title": "Kraftfull Väggchinsstång – Träna rygg och armar enkelt hemma\n – Gorilla Sports Nordics",
+  "meta": "Stabil och kraftfull väggmonterad chinsstång för hemmet. Träna rygg och armar effektivt med prisvärda och högkvalitativa produkter.",
+  "canonical": [
+   "https://www.gorillasports.se/collections/chinsstang-vagg"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/chinsstang-vagg"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/chinsstang-vagg"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/chin-up-bar-vaeg"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 10,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 68,
+  "img_utan_alt": 57,
+  "og_title": "Kraftfull Väggchinsstång – Träna rygg och armar enkelt hemma",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/traningsmaskin",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/traningsmaskin",
+  "bytes": 352980,
+  "title": "Träningsmaskiner – Köp gymmaskiner till hemmagymmet!\n – Gorilla Sports Nordics",
+  "meta": "Kolla in vårt enorma sortiment av träningsmaskiner för hemmagym. Olika modeller och prisklasser. Gratis hemleverans.",
+  "canonical": [
+   "https://www.gorillasports.se/collections/traningsmaskin"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/traningsmaskin"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/traningsmaskin"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/traningsmaskine"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 10,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 77,
+  "img_utan_alt": 57,
+  "og_title": "Träningsmaskiner – Köp gymmaskiner till hemmagymmet!",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/spinningcykel",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/spinningcykel",
+  "bytes": 299588,
+  "title": "Spinningcykel – Köp cyklar för kondition och intensiv träning\n – Gorilla Sports Nordics",
+  "meta": "Spinningcykel för effektiv konditionsträning hemma eller på gym. Justerbart motstånd, ergonomisk design och stabil konstruktion. Gratis hemleverans!",
+  "canonical": [
+   "https://www.gorillasports.se/collections/spinningcykel"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/spinningcykel"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/spinningcykel"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/spinningcykler"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 11,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 63,
+  "img_utan_alt": 57,
+  "og_title": "Spinningcykel – Köp cyklar för kondition och intensiv träning",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/traningshandskar",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/traningshandskar",
+  "bytes": 304393,
+  "title": "Träningshandskar – Skydd och grepp för din träning\n – Gorilla Sports Nordics",
+  "meta": "Bekväma och slitstarka träningshandskar som ger bra grepp och skyddar händerna under lyft och styrketräning. ✅ Andningsbart material ✅ Halkfria handflator ✅",
+  "canonical": [
+   "https://www.gorillasports.se/collections/traningshandskar"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/traningshandskar"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/traningshandskar"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/traningshandsker"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 13,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 65,
+  "img_utan_alt": 57,
+  "og_title": "Träningshandskar – Skydd och grepp för din träning",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/kettlebellpaket",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/kettlebellpaket",
+  "bytes": 347281,
+  "title": "Kettlebellpaket – Färdiga set med kettlebells för hemma och gym\n – Gorilla Sports Nordics",
+  "meta": "Kettlebellpaket med flera vikter för alla nivåer. Träna styrka och kondition hemma eller på gymmet med våra färdiga set.",
+  "canonical": [
+   "https://www.gorillasports.se/collections/kettlebellpaket"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/kettlebellpaket"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/kettlebellpaket"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/kettlebellsat"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 12,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 78,
+  "img_utan_alt": 57,
+  "og_title": "Kettlebellpaket – Färdiga set med kettlebells för hemma och gym",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/skivstangsstallningspaket",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/skivstangsstallningspaket",
+  "bytes": 305543,
+  "title": "Skivstångsställningspaket 🏋️‍♂️ – Hög Kvalitet – Gorilla Sports\n – Gorilla Sports Nordics",
+  "meta": "Prisvärda paket med skivstångsställningar för säker och effektiv träning. ✅ Stabil design ✅ Enkel montering ✅ Anpassade för olika träningsbehov.",
+  "canonical": [
+   "https://www.gorillasports.se/collections/skivstangsstallningspaket"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/skivstangsstallningspaket"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/skivstangsstallningspaket"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/squatstativset"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 12,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 64,
+  "img_utan_alt": 57,
+  "og_title": "Skivstångsställningspaket 🏋️‍♂️ – Hög Kvalitet – Gorilla Sports",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/v-grepp-%F0%9F%92%AA-ergonomiskt-och-prisvart-gorilla-sports",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/v-grepp-%F0%9F%92%AA-ergonomiskt-och-prisvart-gorilla-sports",
+  "bytes": 307400,
+  "title": "V-grepp 💪 Ergonomiskt och prisvärt | Gorilla Sports\n – Gorilla Sports Nordics",
+  "meta": "Prisvärda V-grepp ✅ Ergonomisk design för bättre grepp ✅ Kundtjänst i världsklass hjälper dig snabbt.",
+  "canonical": [
+   "https://www.gorillasports.se/collections/v-grepp-%f0%9f%92%aa-ergonomiskt-och-prisvart-gorilla-sports"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/v-grepp-%F0%9F%92%AA-ergonomiskt-och-prisvart-gorilla-sports"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/v-grepp-%F0%9F%92%AA-ergonomiskt-och-prisvart-gorilla-sports"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/v-greb"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 16,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 66,
+  "img_utan_alt": 57,
+  "og_title": "V-grepp 💪 Ergonomiskt och prisvärt | Gorilla Sports",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/roddhandtag",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/roddhandtag",
+  "bytes": 323946,
+  "title": "Roddhandtag\n – Gorilla Sports Nordics",
+  "meta": "Roddhandtag Här kan du hitta ett brett utbud av roddhandtag som är perfekta för din styrketräning. Oavsett om du är nybörjare som precis har börjat utforska styrketräningens fördelar eller en erfaren atlet som strävar efter att maximera prestationen, är våra roddhandtag ett utmärkt tillskott till ditt träningsprogram.",
+  "canonical": [
+   "https://www.gorillasports.se/collections/roddhandtag"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/roddhandtag"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/roddhandtag"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/rohandtag"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 16,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 71,
+  "img_utan_alt": 57,
+  "og_title": "Roddhandtag",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/stallningar-viktstall-hantelstall",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/stallningar-viktstall-hantelstall",
+  "bytes": 376783,
+  "title": "Viktställ & hantelställ – Ordning och kvalitet\n – Gorilla Sports Nordics",
+  "meta": "Viktställ &amp; hantelställ ✅ Starka och stabila konstruktioner ✅ Perfekt för hemma och gym ✅ Skapa ordning och öka säkerheten vid träning.",
+  "canonical": [
+   "https://www.gorillasports.se/collections/stallningar-viktstall-hantelstall"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/stallningar-viktstall-hantelstall"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/stallningar-viktstall-hantelstall"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/vagtstativ"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 11,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 85,
+  "img_utan_alt": 57,
+  "og_title": "Viktställ &amp; hantelställ – Ordning och kvalitet",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/gymtillbehor-hemmagym",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/gymtillbehor-hemmagym",
+  "bytes": 369414,
+  "title": "Gymtillbehör – För styrka, funktion och rolig träning\n – Gorilla Sports Nordics",
+  "meta": "Upptäck ett stort utbud av prisvärda gymtillbehör som förbättrar din träning. Snabb leverans, hög kvalitet och produkter för alla nivåer.",
+  "canonical": [
+   "https://www.gorillasports.se/collections/gymtillbehor-hemmagym"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/gymtillbehor-hemmagym"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/gymtillbehor-hemmagym"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/traningstilbehor-hjemme"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 13,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 85,
+  "img_utan_alt": 57,
+  "og_title": "Gymtillbehör – För styrka, funktion och rolig träning",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/viktpaket-paket-viktskivor",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/viktpaket-paket-viktskivor",
+  "bytes": 369872,
+  "title": "Viktpaket - Viktskivor\n – Gorilla Sports Nordics",
+  "meta": "Viktskivor i paket med tre olika diameter till din träning. Gorilla Sports erbjuder ett av Sveriges bredaste utbud av kvalitativa &amp; prisvärda träningsredskap. Beställ ditt viktpaket idag!",
+  "canonical": [
+   "https://www.gorillasports.se/collections/viktpaket-paket-viktskivor"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/viktpaket-paket-viktskivor"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/viktpaket-paket-viktskivor"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/vegtpakke-pakke-vegtskiver"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 12,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 85,
+  "img_utan_alt": 57,
+  "og_title": "Viktpaket - Viktskivor",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/viktskivor-51mm-jarn",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/viktskivor-51mm-jarn",
+  "bytes": 350260,
+  "title": "Viktskivor 51mm järn 🏋️‍♂️ – Hållbara viktskivor\n – Gorilla Sports Nordics",
+  "meta": "Prisvärda järnviktskivor 51mm för effektiv styrketräning ✅ Prisvärda produkter ✅ Kundtjänst i världsklass ✅ Robust och tålig kvalitet.",
+  "canonical": [
+   "https://www.gorillasports.se/collections/viktskivor-51mm-jarn"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/viktskivor-51mm-jarn"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/viktskivor-51mm-jarn"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/vegtskiver-51mm-jern"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 12,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 77,
+  "img_utan_alt": 57,
+  "og_title": "Viktskivor 51mm järn 🏋️‍♂️ – Hållbara viktskivor",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/tricepsrep",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/tricepsrep",
+  "bytes": 307573,
+  "title": "Tricepsrep - Längder mellan 30-100cm\n – Gorilla Sports Nordics",
+  "meta": "Tricepsrep i hög kvalitet för styrketräning hemma eller på gym. Perfekt för armar, axlar och rygg med stabilt och bekvämt grepp.",
+  "canonical": [
+   "https://www.gorillasports.se/collections/tricepsrep"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/tricepsrep"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/tricepsrep"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/tricepsreb-30-100cm"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 13,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 66,
+  "img_utan_alt": 57,
+  "og_title": "Tricepsrep - Längder mellan 30-100cm",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/skivstangsstallning",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/skivstangsstallning",
+  "bytes": 360832,
+  "title": "Skivstångsställning 🏋️‍♂️ - Ställning för skivstång - Racks\n – Gorilla Sports Nordics",
+  "meta": "Skivstångsställning för säker träning hemma och på gym. Perfekt för bänkpress, knäböj och andra styrkeövningar, justerbar och robust. Gratis hemleverans!",
+  "canonical": [
+   "https://www.gorillasports.se/collections/skivstangsstallning"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/skivstangsstallning"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/skivstangsstallning"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/squat-rack"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 12,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 79,
+  "img_utan_alt": 57,
+  "og_title": "Skivstångsställning 🏋️‍♂️ - Ställning för skivstång - Racks",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/hantelset",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/hantelset",
+  "bytes": 386589,
+  "title": "Hantelset 🏋️‍♂️💪 – Kompletta set\n – Gorilla Sports Nordics",
+  "meta": "Prisvärda hantelset för effektiv styrketräning hemma och på gym ✅ Prisvärda produkter ✅ Kundtjänst i världsklass ✅ Passar alla nivåer.",
+  "canonical": [
+   "https://www.gorillasports.se/collections/hantelset"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/hantelset"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/hantelset"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/handvegtset"
+   ]
+  ],
+  "robots": null,
+  "h1": 2,
+  "h2": 13,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 85,
+  "img_utan_alt": 57,
+  "og_title": "Hantelset 🏋️‍♂️💪 – Kompletta set",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/skivstang-120-200cm-30mm",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/skivstang-120-200cm-30mm",
+  "bytes": 341235,
+  "title": "Skivstång - 120-200cm - 30mm\n – Gorilla Sports Nordics",
+  "meta": "Vi har fri frakt på alla köp för mer än 800kr.",
+  "canonical": [
+   "https://www.gorillasports.se/collections/skivstang-120-200cm-30mm"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/skivstang-120-200cm-30mm"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/skivstang-120-200cm-30mm"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/vegtstang-120-200cm-30mm"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 9,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 76,
+  "img_utan_alt": 57,
+  "og_title": "Skivstång - 120-200cm - 30mm",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/fasten-upphangning-krokar",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/fasten-upphangning-krokar",
+  "bytes": 314847,
+  "title": "Fästen & upphängningar 🔧🏋️ - Säkra och hållbara lösningar\n – Gorilla Sports Nordics",
+  "meta": "Prisvärda fästen och upphängningar för din träningsutrustning ✅ Prisvärda produkter ✅ Kundtjänst i världsklass ✅ Stabil och säker montering från Gorilla Sports.",
+  "canonical": [
+   "https://www.gorillasports.se/collections/fasten-upphangning-krokar"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/fasten-upphangning-krokar"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/fasten-upphangning-krokar"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/beslag-og-opheng"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 14,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 68,
+  "img_utan_alt": 57,
+  "og_title": "Fästen &amp; upphängningar 🔧🏋️ - Säkra och hållbara lösningar",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/ga-ner-i-vikt",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/ga-ner-i-vikt",
+  "bytes": 378515,
+  "title": "Gå ner i vikt – Träningsredskap för fettförbränning\n – Gorilla Sports Nordics",
+  "meta": "Effektiv viktminskning med träningsutrustning som bränner fett och stärker kroppen. Enkel träning hemma eller på gymmet.",
+  "canonical": [
+   "https://www.gorillasports.se/collections/ga-ner-i-vikt"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/ga-ner-i-vikt"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/ga-ner-i-vikt"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/tabe-sig"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 13,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 85,
+  "img_utan_alt": 57,
+  "og_title": "Gå ner i vikt – Träningsredskap för fettförbränning",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/bygga-muskler",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/bygga-muskler",
+  "bytes": 384379,
+  "title": "Bygga muskler 💪 - Effektiva produkter\n – Gorilla Sports Nordics",
+  "meta": "Bygg muskler effektivt med vårt stora sortiment av träningsmaskiner och redskap. Prisvärt, hög kvalitet och snabb leverans för alla nivåer.",
+  "canonical": [
+   "https://www.gorillasports.se/collections/bygga-muskler"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/bygga-muskler"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/bygga-muskler"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/bygge-muskler"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 9,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 85,
+  "img_utan_alt": 57,
+  "og_title": "Bygga muskler 💪 - Effektiva produkter",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/skivstangsstallning-rea",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/skivstangsstallning-rea",
+  "bytes": 336973,
+  "title": "Skivstångsställning - rea\n – Gorilla Sports Nordics",
+  "meta": "Vi erbjuder ett av Sveriges bredaste utbud av kvalitativa och prisvärda gymstationer för träning direkt i hemmiljö! Beställ redan idag!",
+  "canonical": [
+   "https://www.gorillasports.se/collections/skivstangsstallning-rea"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/skivstangsstallning-rea"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/skivstangsstallning-rea"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/skivstangsstallning-rea"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 9,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 74,
+  "img_utan_alt": 57,
+  "og_title": "Skivstångsställning - rea",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/traningsutrustning-for-seniorer-och-aldre",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/traningsutrustning-for-seniorer-och-aldre",
+  "bytes": 290996,
+  "title": "Träningsutrustning för seniorer och äldre - Träna effektivt hemifrån\n – Gorilla Sports Nordics",
+  "meta": "Hos Gorilla Sports hittar du ett noga utvalt sortiment av träningsredskap som är anpassade för äldre och deras behov.",
+  "canonical": [
+   "https://www.gorillasports.se/collections/traningsutrustning-for-seniorer-och-aldre"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/traningsutrustning-for-seniorer-och-aldre"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/traningsutrustning-for-seniorer-och-aldre"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/traeningsudstyr-til-seniorer-og-aeldre"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 14,
+  "jsonld": [
+   "Organization"
+  ],
+  "img": 61,
+  "img_utan_alt": 57,
+  "og_title": "Träningsutrustning för seniorer och äldre - Träna effektivt hemifrån",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/trym",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/trym",
+  "bytes": 330687,
+  "title": "Trym – Högkvalitativ gymutrustning 🏋️‍♂️\n – Gorilla Sports Nordics",
+  "meta": "Upptäck robust och pålitlig gymutrustning från Trym hos Gorilla Sports. ✅ Kvalitet och hållbarhet i fokus ✅ Prisvärda produkter för alla nivåer.",
+  "canonical": [
+   "https://www.gorillasports.se/collections/trym"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/trym"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/trym"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/trym-professionelt-treningsudstyr"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 9,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 74,
+  "img_utan_alt": 57,
+  "og_title": "Trym – Högkvalitativ gymutrustning 🏋️‍♂️",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/tyst-traningsutrustning-for-hemmet",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/tyst-traningsutrustning-for-hemmet",
+  "bytes": 394736,
+  "title": "Tyst Träningsutrustning För Hemmet\n – Gorilla Sports Nordics",
+  "meta": "Träna i ditt hem utan att störa familj eller grannar med prisvärd och tyst utrustning från vårt stora sortiment.",
+  "canonical": [
+   "https://www.gorillasports.se/collections/tyst-traningsutrustning-for-hemmet"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/tyst-traningsutrustning-for-hemmet"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/tyst-traningsutrustning-for-hemmet"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/stille-traeningsudstyr-til-hjemmet"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 14,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 85,
+  "img_utan_alt": 57,
+  "og_title": "Tyst Träningsutrustning För Hemmet",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/gorilla-sports-black-friday-2026",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/gorilla-sports-black-friday-2026",
+  "bytes": 410255,
+  "title": "Gorilla Sports Black Friday 2026 – Rabatt på träningsutrustning!\n – Gorilla Sports Nordics",
+  "meta": "Gör dig redo för Black Friday 2026 hos Gorilla Sports! Upptäck erbjudanden på gymutrustning, vikter, träningsredskap och allt för hemmagymmet.",
+  "canonical": [
+   "https://www.gorillasports.se/collections/gorilla-sports-black-friday-2026"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/gorilla-sports-black-friday-2026"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/gorilla-sports-black-friday-2026"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/gorilla-sports-black-friday-2026-dk"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 15,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 86,
+  "img_utan_alt": 58,
+  "og_title": "Gorilla Sports Black Friday 2026 – Rabatt på träningsutrustning!",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/showroom",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/showroom",
+  "bytes": 286153,
+  "title": "Showroom\n – Gorilla Sports Nordics",
+  "meta": "Vi erbjuder ett av Sveriges bredaste utbud av kvalitativa och prisvärda gymstationer för träning direkt i hemmiljö! Beställ redan idag!",
+  "canonical": [
+   "https://www.gorillasports.se/collections/showroom"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/showroom"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/showroom"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/showroom"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 9,
+  "jsonld": [
+   "Organization"
+  ],
+  "img": 61,
+  "img_utan_alt": 57,
+  "og_title": "Showroom",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/foam-roller-massageboll",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/foam-roller-massageboll",
+  "bytes": 334372,
+  "title": "Foam roller & massageboll - Effektiv återhämtning\n – Gorilla Sports Nordics",
+  "meta": "Självmassage med foam roller och massageboll stimulerar blodflödet, ökar rörlighet och hjälper stela muskler – perfekt för hemmaträning.",
+  "canonical": [
+   "https://www.gorillasports.se/collections/foam-roller-massageboll"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/foam-roller-massageboll"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/foam-roller-massageboll"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/foam-roller-massagebold"
+   ]
+  ],
+  "robots": null,
+  "h1": 2,
+  "h2": 16,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 73,
+  "img_utan_alt": 57,
+  "og_title": "Foam roller &amp; massageboll - Effektiv återhämtning",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/kabelmaskin",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/kabelmaskin",
+  "bytes": 323080,
+  "title": "Kabelmaskin – Cable Cross för hemmagym\n – Gorilla Sports Nordics",
+  "meta": "Kabelmaskin för funktionell och mångsidig styrketräning. Perfekt för hemmagym och professionella gym, enkel att använda för alla nivåer. Gratis hemleverans!",
+  "canonical": [
+   "https://www.gorillasports.se/collections/kabelmaskin"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/kabelmaskin"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/kabelmaskin"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/kabelmaskine"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 10,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 69,
+  "img_utan_alt": 57,
+  "og_title": "Kabelmaskin – Cable Cross för hemmagym",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/viktskivor-31mm-gummi",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/viktskivor-31mm-gummi",
+  "bytes": 326302,
+  "title": "Viktskivor 31mm - Gummi\n – Gorilla Sports Nordics",
+  "meta": "Viktskivor av Gummi med 31mm Håldiameter Viktskivor av gummi med en håldiameter på 31 mm är ett populärt val inom både hemmagym och professionella träningsanläggningar. De är designade för att passa skivstänger med en diameter på 30 mm, vilket är en standardstorlek. Denna kombination säkerställer en stabil och säker pa",
+  "canonical": [
+   "https://www.gorillasports.se/collections/viktskivor-31mm-gummi"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/viktskivor-31mm-gummi"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/viktskivor-31mm-gummi"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/vegtskiver-31mm-gummi"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 13,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 71,
+  "img_utan_alt": 57,
+  "og_title": "Viktskivor 31mm - Gummi",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/cross-training",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/cross-training",
+  "bytes": 392469,
+  "title": "Crosstraining 🏋️‍♀️⏱️ - Funktionell träning\n – Gorilla Sports Nordics",
+  "meta": "Köp prisvärd utrustning för funktionell träning och crossfit. Hållbar och funktionell träning med battle ropes, viktvästar, plyoboxar och mer.",
+  "canonical": [
+   "https://www.gorillasports.se/collections/cross-training"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/cross-training"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/cross-training"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/crosstraining"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 13,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 85,
+  "img_utan_alt": 57,
+  "og_title": "Crosstraining 🏋️‍♀️⏱️ - Funktionell träning",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/power-rack",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/power-rack",
+  "bytes": 302166,
+  "title": "Power Racks 🏋️‍♂️ Robust och säker träning\n – Gorilla Sports Nordics",
+  "meta": "Upptäck våra power racks med stark konstruktion för säker träning ✅ Anpassningsbara höjder för olika övningar ✅ Passar både nybörjare och proffs.",
+  "canonical": [
+   "https://www.gorillasports.se/collections/power-rack"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/power-rack"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/power-rack"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/power-cage"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 13,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 64,
+  "img_utan_alt": 57,
+  "og_title": "Power Racks 🏋️‍♂️ Robust och säker träning",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/collections/presentkort",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/collections/presentkort",
+  "bytes": 294015,
+  "title": "Presentkort Gorilla Sports\n – Gorilla Sports Nordics",
+  "meta": "Ett presentkort från Gorilla Sports är den perfekta gåvan för alla som älskar träning och hälsa. Med våra digitala presentkort kan mottagaren själv välja bland hela vårt sortiment, från vikter och träningsmaskiner till tillbehör och träningskläder. Det är en flexibel och uppskattad present som passar både nybörjare och",
+  "canonical": [
+   "https://www.gorillasports.se/collections/presentkort"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/collections/presentkort"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/collections/presentkort"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/collections/gavekort"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 13,
+  "jsonld": [
+   "Organization",
+   "ItemList"
+  ],
+  "img": 62,
+  "img_utan_alt": 57,
+  "og_title": "Presentkort Gorilla Sports",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/pages/delivery",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/pages/delivery",
+  "bytes": 268093,
+  "title": "Leveransinformation\n – Gorilla Sports Nordics",
+  "meta": "Vår normala leveranstid är 5-6 arbetsdagar - Vi levererar med olika fraktbolag. Tunga paket levereras direkt till dörren/porten.",
+  "canonical": [
+   "https://www.gorillasports.se/pages/delivery"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/pages/delivery"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/pages/delivery"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/pages/leverings-information"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 12,
+  "jsonld": [
+   "Organization"
+  ],
+  "img": 61,
+  "img_utan_alt": 57,
+  "og_title": "Leveransinformation",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/pages/returning",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/pages/returning",
+  "bytes": 268974,
+  "title": "Byten och returer\n – Gorilla Sports Nordics",
+  "meta": "Hos Gorilla Sports har du alltid 30 dagars öppet köp. Vid köp av varor gäller alltid 30 dagars ångerrätt i enlighet med distans- och hemförsäljningslagen.",
+  "canonical": [
+   "https://www.gorillasports.se/pages/returning"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/pages/returning"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/pages/returning"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/pages/bytte-og-retur"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 11,
+  "jsonld": [
+   "Organization"
+  ],
+  "img": 61,
+  "img_utan_alt": 57,
+  "og_title": "Byten och returer",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/pages/gorilla-sports",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/pages/gorilla-sports",
+  "bytes": 276915,
+  "title": "Om Gorilla Sports\n – Gorilla Sports Nordics",
+  "meta": "Gorilla Sports grundades 2005 med målet att erbjuda prisvärd och professionell tränings- och sportutrustning för alla nivåer. Upptäck vårt breda sortiment idag.",
+  "canonical": [
+   "https://www.gorillasports.se/pages/gorilla-sports"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/pages/gorilla-sports"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/pages/gorilla-sports"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/pages/om-gorilla-sports-dk"
+   ]
+  ],
+  "robots": null,
+  "h1": 0,
+  "h2": 14,
+  "jsonld": [
+   "Organization"
+  ],
+  "img": 63,
+  "img_utan_alt": 59,
+  "og_title": "Om Gorilla Sports",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/pages/payments",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/pages/payments",
+  "bytes": 267871,
+  "title": "Betalning\n – Gorilla Sports Nordics",
+  "meta": "Hos Gorilla Sports kan du betala med korten VISA &amp; Mastercard samt faktura genom vår partner Klarna. Kontakta kundtjänst för B2B köp.",
+  "canonical": [
+   "https://www.gorillasports.se/pages/payments"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/pages/payments"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/pages/payments"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/pages/betaling"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 11,
+  "jsonld": [
+   "Organization"
+  ],
+  "img": 61,
+  "img_utan_alt": 57,
+  "og_title": "Betalning",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/pages/kontakta-oss",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/pages/kontakta-oss",
+  "bytes": 293468,
+  "title": "Kontakta oss\n – Gorilla Sports Nordics",
+  "meta": "Vi svarar alltid på dina frågor inom 24h(måndag-fredag) oavsett om det gäller din order, produktfrågor eller tips om hur du ska använda dina produkter.",
+  "canonical": [
+   "https://www.gorillasports.se/pages/kontakta-oss"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/pages/kontakta-oss"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/pages/kontakta-oss"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/pages/kontakt-os"
+   ]
+  ],
+  "robots": null,
+  "h1": 0,
+  "h2": 10,
+  "jsonld": [
+   "Organization"
+  ],
+  "img": 61,
+  "img_utan_alt": 57,
+  "og_title": "Kontakta oss",
+  "lang": "sv"
+ },
+ {
+  "url": "https://www.gorillasports.se/pages/bygga-hemmagym",
+  "status": 200,
+  "slutadress": "https://www.gorillasports.se/pages/bygga-hemmagym",
+  "bytes": 320445,
+  "title": "Bygg hemmagym\n – Gorilla Sports Nordics",
+  "meta": "Vi erbjuder ett av Sveriges bredaste utbud av kvalitativa och prisvärda gymstationer för träning direkt i hemmiljö! Beställ redan idag!",
+  "canonical": [
+   "https://www.gorillasports.se/pages/bygga-hemmagym"
+  ],
+  "hreflang": [
+   [
+    "x-default",
+    "https://www.gorillasports.se/pages/bygga-hemmagym"
+   ],
+   [
+    "sv",
+    "https://www.gorillasports.se/pages/bygga-hemmagym"
+   ],
+   [
+    "da-DK",
+    "https://www.gorillasports.dk/pages/bygga-hemmagym"
+   ]
+  ],
+  "robots": null,
+  "h1": 1,
+  "h2": 18,
+  "jsonld": [
+   "Organization"
+  ],
+  "img": 77,
+  "img_utan_alt": 57,
+  "og_title": "Bygg hemmagym",
+  "lang": "sv"
+ }
+]
