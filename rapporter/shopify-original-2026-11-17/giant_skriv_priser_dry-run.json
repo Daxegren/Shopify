@@ -1,0 +1,21 @@
+{
+ "lage": "--dry-run",
+ "priser_fore": {
+  "10472233566474": [
+   [
+    "gid://shopify/ProductVariant/52848350167306",
+    "439.00",
+    null
+   ]
+  ]
+ },
+ "priser_efter": {
+  "10472233566474": [
+   [
+    "gid://shopify/ProductVariant/52848350167306",
+    "439.00",
+    null
+   ]
+  ]
+ }
+}
