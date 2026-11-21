@@ -1,0 +1,64 @@
+{
+ "handle": "sparkcykel",
+ "id": "gid://shopify/Collection/569052135690",
+ "titel": "Sparkcykel",
+ "regel": [
+  [
+   "TAG",
+   "EQUALS",
+   "sparkcykel"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "Sparkcyklar"
+  ]
+ ],
+ "huvud_regex": "^(?!.*(?:barn|sticker|klistermärke))(?=.*(sparkcykel(?!hjul|stöd)|scooter(?!hjul|stick)))",
+ "antal_i_kollektionen": 5,
+ "antal_koopbara_alla": 4,
+ "antal_koopbara": 0,
+ "antal_ovriga_koopbara": 4,
+ "exempel_ovriga": [
+  "Scooter wheel Panda Spoked V2 100MM Scooter Wheel Chrome",
+  "Underhållsfett START Easy HF Quick Kick, kallt",
+  "START Easy HF Quick Kick universellt snabbsmörjmedel",
+  "Flytande Tjärvalla Start Easy Kick Wax Tar"
+ ],
+ "ovriga_titlar": [
+  "Flytande Tjärvalla Start Easy Kick Wax Tar",
+  "START Easy HF Quick Kick universellt snabbsmörjmedel",
+  "Scooter wheel Panda Spoked V2 100MM Scooter Wheel Chrome",
+  "Underhållsfett START Easy HF Quick Kick, kallt"
+ ],
+ "ovriga_med_pris": [
+  [
+   "Flytande Tjärvalla Start Easy Kick Wax Tar",
+   189.0
+  ],
+  [
+   "START Easy HF Quick Kick universellt snabbsmörjmedel",
+   209.0
+  ],
+  [
+   "Scooter wheel Panda Spoked V2 100MM Scooter Wheel Chrome",
+   289.0
+  ],
+  [
+   "Underhållsfett START Easy HF Quick Kick, kallt",
+   209.0
+  ]
+ ],
+ "marken": [],
+ "forsta_ord_i_titel": [],
+ "pris_min": null,
+ "pris_max": null,
+ "pris_median": null,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [],
+ "dyraste": [],
+ "alla_titlar": []
+}

@@ -1,0 +1,393 @@
+{
+ "handle": "hybridcykel",
+ "id": "gid://shopify/Collection/561572937994",
+ "titel": "Hybridcykel",
+ "regel": [
+  [
+   "TAG",
+   "EQUALS",
+   "hybrid"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "hybridcykel"
+  ]
+ ],
+ "huvud_regex": "hybridcykel(?!s)",
+ "antal_i_kollektionen": 135,
+ "antal_koopbara_alla": 82,
+ "antal_koopbara": 27,
+ "antal_ovriga_koopbara": 55,
+ "exempel_ovriga": [
+  "Löpband Toorx City Compact, Rose Gold",
+  "Elcykel Tenways CGO Compact",
+  "Hybridtränare Christopeit AX 6500",
+  "Sparkcykel SOKE City, Grå",
+  "Barnstol för pakethållare URBAN IKI Ta-ke, Koga Brun/Kurumi Brun, beige-brun",
+  "Barnstol för pakethållare URBAN IKI Ta-ke, Bincho Black/Bincho Black, svart-svart"
+ ],
+ "ovriga_titlar": [
+  "Armstöd för barnstol URBAN IKI Bincho Svart",
+  "Barnsits URBAN IKI Junior Seat, Kurumi Brun, svartbrun",
+  "Barnstol URBAN IKI Ta-ke BIO, Haniwa Brun/Bincho Svart, för pakethållare",
+  "Barnstol Urban Iki Aotake Mint Blue + Shinju White, med ramfäste",
+  "Barnstol Urban Iki Bincho Black, med Ramfäste Framtill",
+  "Barnstol för pakethållare URBAN IKI Ta-ke Easy Fix, Bincho Black/Bincho Black",
+  "Barnstol för pakethållare URBAN IKI Ta-ke, Bincho Black/Bincho Black, svart-svart",
+  "Barnstol för pakethållare URBAN IKI Ta-ke, Bincho Black/Kurumi Brown, svartbrun",
+  "Barnstol för pakethållare URBAN IKI Ta-ke, Koga Brun/Kurumi Brun, beige-brun",
+  "Barnstol för pakethållare URBAN IKI U-me Easy Fix, Bincho Black/Bincho Black",
+  "Cykel EXCELSIOR Swan Urban, Aubergine",
+  "Cykelväska Basil City MIK, Svart",
+  "Cykelväska Basil City, 28–32 l, Brun",
+  "Cykelväska Basil Urban Dry, Grå",
+  "Damcykel Liv Flourish 3, 700x38c, Gunmetal Black",
+  "Damcykel Liv Flourish 3, Gunmetal Black, XS",
+  "Damcykel Liv Flourish FS 2, Eclipse",
+  "Damcykel Romet Gazela 0, Turkos och Guld",
+  "Elcykel Giant Roam E+ STA, 28 tum",
+  "Elcykel Tenways CGO Compact",
+  "Elcykel Victoria eTrekking 4.7, Diamond 28\" brun",
+  "Handskar Liv Energize LF, Blå",
+  "Handväska Basil Magnolia City Bag, 7 l",
+  "Hybrid trainer CHRISTOPEIT CT 4",
+  "Hybridtränare Christopeit AX 6500",
+  "Kedjelås AXA Linq City med Gummihandtag, 100 cm",
+  "LIV Flourish 3 Disc Women's Bike, Muscat Blanc",
+  "Löpband Toorx City Compact, Pure Bronze",
+  "Löpband Toorx City Compact, Rose Gold",
+  "Pakväska Basil City dubbel cykelväska, 28-32 l, grå",
+  "Pedaler Look Geo City Grip, Camo",
+  "Pedaler Look Geo City Grip, Svart",
+  "Pedaler Look Geo Trekking Grip",
+  "Ramfäste Urban Iki för barnstolar",
+  "Ramfäste för barnstol (fram) URBAN IKI Compact Adapter",
+  "Scooter RIDEOO 200 City Scooter svart",
+  "Scooter SOKE City, green",
+  "Scooter SOKE City, pink",
+  "Soke City Scooter, vit",
+  "Sparkcykel Rideoo 120 City, Blå",
+  "Sparkcykel Rideoo 120 City, Lila",
+  "Sparkcykel Rideoo 120 City, Rosa",
+  "Sparkcykel Rideoo 120 City, Salmon",
+  "Sparkcykel Rideoo 120 City, Svart",
+  "Sparkcykel Rideoo 120 City, Turkos",
+  "Sparkcykel Rideoo 175 City Scooter",
+  "Sparkcykel Rideoo 175 City, Mint",
+  "Sparkcykel Rideoo 175 City, Turkos",
+  "Sparkcykel SOKE City, Grå",
+  "Sparkcykel SOKE City, Svart och Turkos",
+  "Strumpor Mund City Winter 12, Svart",
+  "Strålkastare AXA Nox City",
+  "Stänkskärmset Hebie Taipan Trekking, 28 tum, Svart",
+  "Vindskydd för barnstol Urban Iki Asahi Gold",
+  "Vindskydd för barnstol Urban Iki Seiboku Grey"
+ ],
+ "ovriga_med_pris": [
+  [
+   "Armstöd för barnstol URBAN IKI Bincho Svart",
+   139.0
+  ],
+  [
+   "Barnsits URBAN IKI Junior Seat, Kurumi Brun, svartbrun",
+   1719.0
+  ],
+  [
+   "Barnstol URBAN IKI Ta-ke BIO, Haniwa Brun/Bincho Svart, för pakethållare",
+   1939.0
+  ],
+  [
+   "Barnstol Urban Iki Aotake Mint Blue + Shinju White, med ramfäste",
+   1509.0
+  ],
+  [
+   "Barnstol Urban Iki Bincho Black, med Ramfäste Framtill",
+   1589.0
+  ],
+  [
+   "Barnstol för pakethållare URBAN IKI Ta-ke Easy Fix, Bincho Black/Bincho Black",
+   1779.0
+  ],
+  [
+   "Barnstol för pakethållare URBAN IKI Ta-ke, Bincho Black/Bincho Black, svart-svart",
+   1779.0
+  ],
+  [
+   "Barnstol för pakethållare URBAN IKI Ta-ke, Bincho Black/Kurumi Brown, svartbrun",
+   1779.0
+  ],
+  [
+   "Barnstol för pakethållare URBAN IKI Ta-ke, Koga Brun/Kurumi Brun, beige-brun",
+   1779.0
+  ],
+  [
+   "Barnstol för pakethållare URBAN IKI U-me Easy Fix, Bincho Black/Bincho Black",
+   1649.0
+  ],
+  [
+   "Cykel EXCELSIOR Swan Urban, Aubergine",
+   10889.1
+  ],
+  [
+   "Cykelväska Basil City MIK, Svart",
+   1549.0
+  ],
+  [
+   "Cykelväska Basil City, 28–32 l, Brun",
+   1579.0
+  ],
+  [
+   "Cykelväska Basil Urban Dry, Grå",
+   1529.0
+  ],
+  [
+   "Damcykel Liv Flourish 3, 700x38c, Gunmetal Black",
+   8329.0
+  ],
+  [
+   "Damcykel Liv Flourish 3, Gunmetal Black, XS",
+   8329.0
+  ],
+  [
+   "Damcykel Liv Flourish FS 2, Eclipse",
+   7811.1
+  ],
+  [
+   "Damcykel Romet Gazela 0, Turkos och Guld",
+   8779.0
+  ],
+  [
+   "Elcykel Giant Roam E+ STA, 28 tum",
+   27188.1
+  ],
+  [
+   "Elcykel Tenways CGO Compact",
+   35909.0
+  ],
+  [
+   "Elcykel Victoria eTrekking 4.7, Diamond 28\" brun",
+   32409.0
+  ],
+  [
+   "Handskar Liv Energize LF, Blå",
+   379.0
+  ],
+  [
+   "Handväska Basil Magnolia City Bag, 7 l",
+   649.0
+  ],
+  [
+   "Hybrid trainer CHRISTOPEIT CT 4",
+   5089.0
+  ],
+  [
+   "Hybridtränare Christopeit AX 6500",
+   7829.0
+  ],
+  [
+   "Kedjelås AXA Linq City med Gummihandtag, 100 cm",
+   599.0
+  ],
+  [
+   "LIV Flourish 3 Disc Women's Bike, Muscat Blanc",
+   13269.0
+  ],
+  [
+   "Löpband Toorx City Compact, Pure Bronze",
+   10239.0
+  ],
+  [
+   "Löpband Toorx City Compact, Rose Gold",
+   10239.0
+  ],
+  [
+   "Pakväska Basil City dubbel cykelväska, 28-32 l, grå",
+   739.0
+  ],
+  [
+   "Pedaler Look Geo City Grip, Camo",
+   1749.0
+  ],
+  [
+   "Pedaler Look Geo City Grip, Svart",
+   1749.0
+  ],
+  [
+   "Pedaler Look Geo Trekking Grip",
+   2059.0
+  ],
+  [
+   "Ramfäste Urban Iki för barnstolar",
+   269.0
+  ],
+  [
+   "Ramfäste för barnstol (fram) URBAN IKI Compact Adapter",
+   269.0
+  ],
+  [
+   "Scooter RIDEOO 200 City Scooter svart",
+   3539.0
+  ],
+  [
+   "Scooter SOKE City, green",
+   2309.0
+  ],
+  [
+   "Scooter SOKE City, pink",
+   2389.0
+  ],
+  [
+   "Soke City Scooter, vit",
+   2339.0
+  ],
+  [
+   "Sparkcykel Rideoo 120 City, Blå",
+   2959.0
+  ],
+  [
+   "Sparkcykel Rideoo 120 City, Lila",
+   2959.0
+  ],
+  [
+   "Sparkcykel Rideoo 120 City, Rosa",
+   2959.0
+  ],
+  [
+   "Sparkcykel Rideoo 120 City, Salmon",
+   2959.0
+  ],
+  [
+   "Sparkcykel Rideoo 120 City, Svart",
+   2959.0
+  ],
+  [
+   "Sparkcykel Rideoo 120 City, Turkos",
+   2959.0
+  ],
+  [
+   "Sparkcykel Rideoo 175 City Scooter",
+   3249.0
+  ],
+  [
+   "Sparkcykel Rideoo 175 City, Mint",
+   3249.0
+  ],
+  [
+   "Sparkcykel Rideoo 175 City, Turkos",
+   3249.0
+  ],
+  [
+   "Sparkcykel SOKE City, Grå",
+   2379.0
+  ],
+  [
+   "Sparkcykel SOKE City, Svart och Turkos",
+   2399.0
+  ],
+  [
+   "Strumpor Mund City Winter 12, Svart",
+   139.0
+  ],
+  [
+   "Strålkastare AXA Nox City",
+   179.0
+  ],
+  [
+   "Stänkskärmset Hebie Taipan Trekking, 28 tum, Svart",
+   109.0
+  ],
+  [
+   "Vindskydd för barnstol Urban Iki Asahi Gold",
+   469.0
+  ],
+  [
+   "Vindskydd för barnstol Urban Iki Seiboku Grey",
+   469.0
+  ]
+ ],
+ "marken": [
+  [
+   "Romet",
+   16
+  ],
+  [
+   "Giant",
+   11
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "hybridcykel",
+   27
+  ]
+ ],
+ "pris_min": 6539.0,
+ "pris_max": 20819.0,
+ "pris_median": 10359.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [
+  [
+   "Hybridcykel Romet Orkan M, 28 tum, Grå och Röd",
+   6539.0
+  ],
+  [
+   "Hybridcykel Romet Orkan M, 28 tum, Svart",
+   6549.0
+  ],
+  [
+   "Hybridcykel Romet Wagant 1, 21 Växlar",
+   6695.1
+  ],
+  [
+   "Hybridcykel Romet Orkan 1 M, Svart och Grön",
+   7739.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Hybridcykel Giant Roam 1, 11 Växlar, Midnight Moon",
+   20819.0
+  ],
+  [
+   "Hybridcykel Giant Roam 1, 11 Växlar, Elektronblå",
+   17018.1
+  ],
+  [
+   "Hybridcykel Giant Roam 2, 700c, Asphalt Green",
+   16809.0
+  ]
+ ],
+ "alla_titlar": [
+  "Hybridcykel Giant AnyTour RS 3, Charcoal",
+  "Hybridcykel Giant Cypress 3 City, 28 tum, Phantom Green",
+  "Hybridcykel Giant Escape 3 Disc, 700x38c, Metallic Blue",
+  "Hybridcykel Giant Roam 1, 11 Växlar, Elektronblå",
+  "Hybridcykel Giant Roam 1, 11 Växlar, Midnight Moon",
+  "Hybridcykel Giant Roam 2, 700c, Asphalt Green",
+  "Hybridcykel Giant Roam 2, 700c, Svart",
+  "Hybridcykel Giant Roam 3, 18 Växlar, Metall",
+  "Hybridcykel Giant Roam 3, 18 Växlar, Shell White",
+  "Hybridcykel Giant Roam 3, 18 Växlar, Ultra Navy",
+  "Hybridcykel Giant Roam 4, 700c, Svart",
+  "Hybridcykel ROMET Wagant 0, grågrön",
+  "Hybridcykel Romet Orkan 1 M, Svart och Grön",
+  "Hybridcykel Romet Orkan 1 M, Svart och Röd",
+  "Hybridcykel Romet Orkan 5 M, Silver",
+  "Hybridcykel Romet Orkan 7 M, Silvergrå",
+  "Hybridcykel Romet Orkan M, 28 tum, Grå och Röd",
+  "Hybridcykel Romet Orkan M, 28 tum, Svart",
+  "Hybridcykel Romet Wagant 0, 21 Växlar, Grågrön",
+  "Hybridcykel Romet Wagant 0, 21 Växlar, Turkos och Guld",
+  "Hybridcykel Romet Wagant 1, 21 Växlar",
+  "Hybridcykel Romet Wagant 3, 21 Växlar, Blå",
+  "Hybridcykel Romet Wagant 4, 21 Växlar, Blå",
+  "Hybridcykel Romet Wagant 4, 21 Växlar, Silver och Svart",
+  "Hybridcykel Romet Wagant 5, 24 Växlar, Blå",
+  "Hybridcykel Romet Wagant 6, 24 Växlar, Brun och Svart",
+  "Hybridcykel Romet Wagant 6, 24 Växlar, Svart"
+ ]
+}

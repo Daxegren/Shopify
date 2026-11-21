@@ -1,0 +1,1303 @@
+{
+ "fore": {
+  "id": "gid://shopify/Collection/561575887114",
+  "handle": "cykellas",
+  "title": "Cykellås",
+  "updatedAt": "2026-11-16T07:00:07Z",
+  "descriptionHtml": "<p data-start=\"108\" data-end=\"379\" style=\"text-align: left;\">Ett cykellås är en viktig investering för att skydda din cykel mot stöld. Hos Best Of Sports hittar du ett brett sortiment av cykellås i olika modeller och säkerhetsnivåer som passar alla typer av cyklar, från stadscyklar och hybridcyklar till mountainbikes och elcyklar.</p>\n<h2 data-start=\"381\" data-end=\"410\" style=\"text-align: left;\"><strong data-start=\"381\" data-end=\"408\">Olika typer av cykellås</strong></h2>\n<p data-start=\"412\" data-end=\"785\" style=\"text-align: left;\">Vi erbjuder flera typer av cykellås, inklusive kedjelås, kabellås, bygel- och U-lås samt kombinationslås. Kedjelås är flexibla och starka, perfekta för att låsa fast cykeln vid olika objekt. U-lås ger hög säkerhet och passar särskilt för stöldutsatta områden. Kabellås är lätta och smidiga att använda vid kortare stopp. Kombinationslås erbjuder bekvämlighet utan nyckel.</p>\n<h2 data-start=\"787\" data-end=\"814\" style=\"text-align: left;\"><strong data-start=\"787\" data-end=\"812\">Säkerhet och funktion</strong></h2>\n<p data-start=\"816\" data-end=\"1128\" style=\"text-align: left;\">Alla våra cykellås är tillverkade i slitstarka material som stål och härdat järn. Låsen har robust konstruktion och hög brytsäkerhet, vilket minimerar risken för stöld. Många modeller har dessutom extra funktioner som nyckelfri öppning, integrerad kodlåsning eller reflexdetaljer för ökad synlighet vid mörker.</p>\n<h2 data-start=\"1130\" data-end=\"1166\" style=\"text-align: left;\"><strong data-start=\"1130\" data-end=\"1164\">Enkel användning och transport</strong></h2>\n<p data-start=\"1168\" data-end=\"1444\" style=\"text-align: left;\">Cykellåsen är lätta att bära med sig och vissa modeller levereras med monteringsfästen för cykelramen, vilket gör att du alltid har låset nära till hands. Oavsett om du cyklar i stan, till jobbet eller på längre turer är ett bra cykellås ett måste för trygghet och sinnesro.</p>\n<h2 data-start=\"1446\" data-end=\"1489\" style=\"text-align: left;\"><strong data-start=\"1446\" data-end=\"1487\">Varför köpa cykellås hos Best Of Sports</strong></h2>\n<p data-start=\"1491\" data-end=\"1794\" style=\"text-align: left;\">Hos Best Of Sports kan du köpa cykellås online med snabb leverans och säker betalning. Vi erbjuder produkter som kombinerar hög säkerhet, funktion och hållbarhet. Oavsett om du vill ha ett enkelt lås för korta stopp eller ett premiumlås för långvarig trygghet, har vi ett cykellås som passar dina behov.</p>\n<p data-start=\"1796\" data-end=\"1902\" style=\"text-align: left;\">Skydda din cykel och dina värdesaker med ett cykellås som är pålitligt, hållbart och enkelt att använda.</p>",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "cykellas",
+  "seo": {
+   "title": "Cykellås – Tryggt och säkert skydd för din cykel - Stort sortiment",
+   "description": "Upptäck cykellås som skyddar din cykel mot stöld. Välj bland bygel-, vajer- och kabellås för säker och enkel användning. Snabb leverans. Vi kan cyklar!"
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "cykellås"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "lås"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "cykel lås"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "bicycle locks"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "bike lock"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 113
+  }
+ },
+ "produkter_fore": {
+  "gid://shopify/Product/10665232302346": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Squire",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "499.0"
+  ],
+  "gid://shopify/Product/10665232269578": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Squire",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "549.0"
+  ],
+  "gid://shopify/Product/10656694010122": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Liv",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "279.0"
+  ],
+  "gid://shopify/Product/10656693977354": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Squire",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "619.0"
+  ],
+  "gid://shopify/Product/10656693944586": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "309.0"
+  ],
+  "gid://shopify/Product/10656693911818": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Kedja",
+    "Squire",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "289.0"
+  ],
+  "gid://shopify/Product/10656693879050": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1489.0"
+  ],
+  "gid://shopify/Product/10656693846282": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1629.0"
+  ],
+  "gid://shopify/Product/10656692240650": [
+   "DRAFT",
+   [
+    "Cykellås",
+    "Giant",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "219.0"
+  ],
+  "gid://shopify/Product/10635764859146": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Squire",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "239.0"
+  ],
+  "gid://shopify/Product/10635764400394": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Squire",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "179.0"
+  ],
+  "gid://shopify/Product/10635764367626": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Squire",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "219.0"
+  ],
+  "gid://shopify/Product/10635764269322": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Kedja",
+    "Squire",
+    "Tillbehör",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1699.0"
+  ],
+  "gid://shopify/Product/10635749064970": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Giant",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "439.0"
+  ],
+  "gid://shopify/Product/10605380698378": [
+   "DRAFT",
+   [
+    "Cykellås",
+    "Giant",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "299.0"
+  ],
+  "gid://shopify/Product/10572666208522": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Kedja",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "319.0"
+  ],
+  "gid://shopify/Product/10572666175754": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Kedja",
+    "Squire",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "469.0"
+  ],
+  "gid://shopify/Product/10554354172170": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Giant",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "319.0"
+  ],
+  "gid://shopify/Product/10548282196234": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Giant",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "589.0"
+  ],
+  "gid://shopify/Product/10548236058890": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Squire",
+    "Tillbehör",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2969.0"
+  ],
+  "gid://shopify/Product/10541368934666": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Giant",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "469.0"
+  ],
+  "gid://shopify/Product/10541368803594": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Liv",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "279.0"
+  ],
+  "gid://shopify/Product/10541368738058": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Liv",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "279.0"
+  ],
+  "gid://shopify/Product/10541205291274": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Squire",
+    "Tillbehör",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2479.0"
+  ],
+  "gid://shopify/Product/10541168951562": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Kedja",
+    "Squire",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "269.0"
+  ],
+  "gid://shopify/Product/10541168853258": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Kedja",
+    "Squire",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "259.0"
+  ],
+  "gid://shopify/Product/10541140279562": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Squire",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "189.0"
+  ],
+  "gid://shopify/Product/10541139919114": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Squire",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "379.0"
+  ],
+  "gid://shopify/Product/10541139394826": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Squire",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "209.0"
+  ],
+  "gid://shopify/Product/10530183414026": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Liv",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "219.0"
+  ],
+  "gid://shopify/Product/10530128888074": [
+   "DRAFT",
+   [
+    "Cykellås",
+    "Giant",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "219.0"
+  ],
+  "gid://shopify/Product/10494706254090": [
+   "ARCHIVED",
+   [
+    "AXA",
+    "Cykellås",
+    "Velomarket",
+    "Vikbar cykel",
+    "Vikbara lås",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1509.0"
+  ],
+  "gid://shopify/Product/10494705041674": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Fällbara lås",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1809.0"
+  ],
+  "gid://shopify/Product/10494704681226": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Velomarket",
+    "Vikbar cykel",
+    "texter-klara"
+   ],
+   "789.0"
+  ],
+  "gid://shopify/Product/10494702977290": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "89.0"
+  ],
+  "gid://shopify/Product/10494702944522": [
+   "ARCHIVED",
+   [
+    "AXA",
+    "Cykellås",
+    "Velomarket"
+   ],
+   "89.0"
+  ],
+  "gid://shopify/Product/10494702911754": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Kedja",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "499.0"
+  ],
+  "gid://shopify/Product/10494702846218": [
+   "DRAFT",
+   [
+    "AXA",
+    "Cykellås",
+    "Kedja",
+    "Velomarket"
+   ],
+   "429.0"
+  ],
+  "gid://shopify/Product/10494702747914": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Kedja",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "799.0"
+  ],
+  "gid://shopify/Product/10494701175050": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Giant",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "369.0"
+  ],
+  "gid://shopify/Product/10475621155082": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "329.0"
+  ],
+  "gid://shopify/Product/10475621122314": [
+   "DRAFT",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "269.0"
+  ],
+  "gid://shopify/Product/10475621089546": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "sync-skydd",
+    "texter-klara"
+   ],
+   "1367.1"
+  ],
+  "gid://shopify/Product/10475620925706": [
+   "ARCHIVED",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1629.0"
+  ],
+  "gid://shopify/Product/10475619942666": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Kedja",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "469.0"
+  ],
+  "gid://shopify/Product/10475619877130": [
+   "ARCHIVED",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "159.0"
+  ],
+  "gid://shopify/Product/10475619778826": [
+   "DRAFT",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "159.0"
+  ],
+  "gid://shopify/Product/10475619746058": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "På beställning",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "269.0"
+  ],
+  "gid://shopify/Product/10475619713290": [
+   "DRAFT",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "89.0"
+  ],
+  "gid://shopify/Product/10475619680522": [
+   "DRAFT",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "89.0"
+  ],
+  "gid://shopify/Product/10475619647754": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "På beställning",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "299.0"
+  ],
+  "gid://shopify/Product/10475619549450": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "369.0"
+  ],
+  "gid://shopify/Product/10475619516682": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "619.0"
+  ],
+  "gid://shopify/Product/10475422417162": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "429.0"
+  ],
+  "gid://shopify/Product/10475421860106": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket",
+    "viktlås"
+   ],
+   "299.0"
+  ],
+  "gid://shopify/Product/10475421139210": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "329.0"
+  ],
+  "gid://shopify/Product/10475420516618": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "269.0"
+  ],
+  "gid://shopify/Product/10475420385546": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "219.0"
+  ],
+  "gid://shopify/Product/10475419730186": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Hybridcykel",
+    "Kedja",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "599.0"
+  ],
+  "gid://shopify/Product/10472299299082": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "viktlås"
+   ],
+   "139.0"
+  ],
+  "gid://shopify/Product/10472296481034": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket",
+    "Vikbar cykel",
+    "texter-klara"
+   ],
+   "649.0"
+  ],
+  "gid://shopify/Product/10472296448266": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "559.0"
+  ],
+  "gid://shopify/Product/10472296415498": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Kedja",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "449.0"
+  ],
+  "gid://shopify/Product/10472295923978": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket",
+    "Vikbar cykel"
+   ],
+   "679.0"
+  ],
+  "gid://shopify/Product/10472295858442": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1789.0"
+  ],
+  "gid://shopify/Product/10472295825674": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1559.0"
+  ],
+  "gid://shopify/Product/10472295760138": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "539.0"
+  ],
+  "gid://shopify/Product/10472295694602": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "499.0"
+  ],
+  "gid://shopify/Product/10472271020298": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Squire",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "419.0"
+  ],
+  "gid://shopify/Product/10472264433930": [
+   "DRAFT",
+   [
+    "Cykellås",
+    "Giant",
+    "Velomarket"
+   ],
+   "339.0"
+  ],
+  "gid://shopify/Product/10472264302858": [
+   "DRAFT",
+   [
+    "Cykellås",
+    "Giant",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "279.0"
+  ],
+  "gid://shopify/Product/10472259453194": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Kedja",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "559.0"
+  ],
+  "gid://shopify/Product/10472258044170": [
+   "DRAFT",
+   [
+    "Cykellås",
+    "Extra vikter",
+    "Gymstick",
+    "Velomarket",
+    "tillbehör"
+   ],
+   "479.0"
+  ],
+  "gid://shopify/Product/10472256504074": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Velomarket"
+   ],
+   "279.0"
+  ],
+  "gid://shopify/Product/10472255422730": [
+   "DRAFT",
+   [
+    "AXA",
+    "Cykellås",
+    "Kedja",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "339.0"
+  ],
+  "gid://shopify/Product/10472255324426": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Kedja",
+    "Tillbehör",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1769.0"
+  ],
+  "gid://shopify/Product/10472255095050": [
+   "DRAFT",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "159.0"
+  ],
+  "gid://shopify/Product/10472255062282": [
+   "DRAFT",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "159.0"
+  ],
+  "gid://shopify/Product/10472254996746": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "89.0"
+  ],
+  "gid://shopify/Product/10472254472458": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Kedja",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "179.0"
+  ],
+  "gid://shopify/Product/10472254046474": [
+   "ARCHIVED",
+   [
+    "AXA",
+    "Cykellås",
+    "Kedja",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "179.0"
+  ],
+  "gid://shopify/Product/10472253948170": [
+   "DRAFT",
+   [
+    "AXA",
+    "Cykellås",
+    "Velomarket"
+   ],
+   "269.0"
+  ],
+  "gid://shopify/Product/10472251621642": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Giant",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "409.0"
+  ],
+  "gid://shopify/Product/10472251490570": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Giant",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "219.0"
+  ],
+  "gid://shopify/Product/10472250605834": [
+   "ARCHIVED",
+   [
+    "Cykellås",
+    "Giant",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "369.0"
+  ],
+  "gid://shopify/Product/10472250474762": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Kedja",
+    "M-Wave",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "489.0"
+  ],
+  "gid://shopify/Product/10472246673674": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Flaska & Hållare",
+    "M-Wave",
+    "Pump",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "89.0"
+  ],
+  "gid://shopify/Product/10472242184458": [
+   "ACTIVE",
+   [
+    "Cykeldelar",
+    "Cykellås",
+    "Shimano",
+    "Velomarket"
+   ],
+   "129.0"
+  ],
+  "gid://shopify/Product/10472233107722": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4805.1"
+  ],
+  "gid://shopify/Product/10472232550666": [
+   "ARCHIVED",
+   [
+    "AXA",
+    "Cykellås",
+    "Kedja",
+    "Velomarket"
+   ],
+   "429.0"
+  ],
+  "gid://shopify/Product/10472231371018": [
+   "DRAFT",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "579.0"
+  ],
+  "gid://shopify/Product/10472225702154": [
+   "ARCHIVED",
+   [
+    "Cykellås",
+    "Giant",
+    "Styrtejp och handtag",
+    "Velomarket"
+   ],
+   "279.0"
+  ],
+  "gid://shopify/Product/10472225636618": [
+   "DRAFT",
+   [
+    "Cykellås",
+    "Giant",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "309.0"
+  ],
+  "gid://shopify/Product/10472225440010": [
+   "ARCHIVED",
+   [
+    "Cykellås",
+    "Giant",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "249.0"
+  ],
+  "gid://shopify/Product/10472208564490": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Fell",
+    "Hantlar & Viktskivor",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "189.0"
+  ],
+  "gid://shopify/Product/10470993854730": [
+   "DRAFT",
+   [
+    "Cykellås",
+    "Kedja",
+    "M-Wave",
+    "Velomarket"
+   ],
+   "299.0"
+  ],
+  "gid://shopify/Product/10470925074698": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "49.0"
+  ],
+  "gid://shopify/Product/10470909149450": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Giant",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "309.0"
+  ],
+  "gid://shopify/Product/10470904594698": [
+   "ARCHIVED",
+   [
+    "AXA",
+    "Cykellås",
+    "Velomarket",
+    "Vikbar cykel"
+   ],
+   "529.0"
+  ],
+  "gid://shopify/Product/10470893388042": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "159.0"
+  ],
+  "gid://shopify/Product/10470893060362": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "779.0"
+  ],
+  "gid://shopify/Product/10470893027594": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "519.0"
+  ],
+  "gid://shopify/Product/10470892896522": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "599.0"
+  ],
+  "gid://shopify/Product/10470888243466": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "99.0"
+  ],
+  "gid://shopify/Product/10462187421962": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "439.0"
+  ],
+  "gid://shopify/Product/10462187389194": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "119.0"
+  ],
+  "gid://shopify/Product/10461972496650": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Giant",
+    "Kedja",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "729.0"
+  ],
+  "gid://shopify/Product/10411907940618": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1499.0"
+  ],
+  "gid://shopify/Product/10411905417482": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket",
+    "Vikbar cykel",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1629.0"
+  ],
+  "gid://shopify/Product/10405835833610": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Kedja",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "349.0"
+  ],
+  "gid://shopify/Product/10405835571466": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "579.0"
+  ],
+  "gid://shopify/Product/10403817029898": [
+   "ACTIVE",
+   [
+    "Cykellås",
+    "Giant",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "339.0"
+  ],
+  "gid://shopify/Product/10403816472842": [
+   "DRAFT",
+   [
+    "AXA",
+    "Cykellås",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "319.0"
+  ]
+ }
+}

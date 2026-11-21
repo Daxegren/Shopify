@@ -1,0 +1,176 @@
+{
+ "handle": "hantlar",
+ "id": "gid://shopify/Collection/526981955850",
+ "titel": "Hantlar",
+ "regel": [
+  [
+   "TAG",
+   "EQUALS",
+   "hantlar"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "hantel"
+  ]
+ ],
+ "huvud_regex": "hantel|hantlar",
+ "antal_i_kollektionen": 49,
+ "antal_koopbara_alla": 26,
+ "antal_koopbara": 21,
+ "antal_ovriga_koopbara": 5,
+ "exempel_ovriga": [
+  "Hantelstång 2x35 cm, 30 mm, Svart",
+  "2kg Dumbbell Bar",
+  "Hantelstång Gymstick 35 cm, 2 kg, 30 mm",
+  "Hantelstång Tunturi Bananformad, 38 cm, Krom",
+  "Hantelstång Tunturi, 36 cm, med Skruvfästen"
+ ],
+ "ovriga_titlar": [
+  "2kg Dumbbell Bar",
+  "Hantelstång 2x35 cm, 30 mm, Svart",
+  "Hantelstång Gymstick 35 cm, 2 kg, 30 mm",
+  "Hantelstång Tunturi Bananformad, 38 cm, Krom",
+  "Hantelstång Tunturi, 36 cm, med Skruvfästen"
+ ],
+ "ovriga_med_pris": [
+  [
+   "2kg Dumbbell Bar",
+   229.0
+  ],
+  [
+   "Hantelstång 2x35 cm, 30 mm, Svart",
+   349.0
+  ],
+  [
+   "Hantelstång Gymstick 35 cm, 2 kg, 30 mm",
+   289.0
+  ],
+  [
+   "Hantelstång Tunturi Bananformad, 38 cm, Krom",
+   229.0
+  ],
+  [
+   "Hantelstång Tunturi, 36 cm, med Skruvfästen",
+   169.0
+  ]
+ ],
+ "marken": [
+  [
+   "Tunturi",
+   9
+  ],
+  [
+   "Toorx",
+   5
+  ],
+  [
+   "Gymstick",
+   4
+  ],
+  [
+   "Rucanor",
+   1
+  ],
+  [
+   "Christopeit",
+   1
+  ],
+  [
+   "Zipro",
+   1
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "hantel",
+   9
+  ],
+  [
+   "hantelset",
+   5
+  ],
+  [
+   "vinylhantel",
+   3
+  ],
+  [
+   "active",
+   1
+  ],
+  [
+   "hantel-",
+   1
+  ],
+  [
+   "styrketräningsset",
+   1
+  ],
+  [
+   "hantlar",
+   1
+  ]
+ ],
+ "pris_min": 59.0,
+ "pris_max": 719.0,
+ "pris_median": 339.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": 2.0,
+ "kg_i_titlar_max": 28.0,
+ "antal_titlar_med_kg": 18,
+ "billigaste": [
+  [
+   "Vinylhantel Toorx, Röd, 2 kg",
+   59.0
+  ],
+  [
+   "Hantel Toorx i Neopren, Säljs Styckvis",
+   69.0
+  ],
+  [
+   "Vinylhantel Gymstick Pro",
+   89.0
+  ],
+  [
+   "Hantel Gymstick Studio, 3 kg, Röd",
+   139.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Hantel Tunturi Platinum Hex Rubber, 15 kg",
+   719.0
+  ],
+  [
+   "Hantelset Tunturi med Skruvfästen, 15 kg",
+   709.0
+  ],
+  [
+   "Styrketräningsset TUNTURI Hantel- & Skivstångsset 20 kg",
+   639.0
+  ]
+ ],
+ "alla_titlar": [
+  "Active 10kg Vinyl Dumbbell Set",
+  "Hantel Gymstick Studio, 3 kg, Röd",
+  "Hantel RUCANOR 2,25 kg 30x360 mm",
+  "Hantel Toorx Gjutjärn, 10 kg",
+  "Hantel Toorx Neoprene, Svart, 6 kg",
+  "Hantel Toorx i Neopren, Säljs Styckvis",
+  "Hantel Tunturi Platinum Hex Rubber, 10 kg",
+  "Hantel Tunturi Platinum Hex Rubber, 15 kg",
+  "Hantel Tunturi Platinum Hex Rubber, 6 kg",
+  "Hantel Zipro HEX gummerad 2,5 kg, svart",
+  "Hantel- och skivstångsset Christopeit 2-i-1, 15 kg",
+  "Hantelset Gymstick Vinyl, 15 kg",
+  "Hantelset Tunturi 10 kg, 1 stång",
+  "Hantelset Tunturi Vinyl, 15 kg",
+  "Hantelset Tunturi Vinyl, 28 kg",
+  "Hantelset Tunturi med Skruvfästen, 15 kg",
+  "Hantlar Tunturi Platinum Hex med Gummiöverdrag",
+  "Styrketräningsset TUNTURI Hantel- & Skivstångsset 20 kg",
+  "Vinylhantel Gymstick Pro",
+  "Vinylhantel Toorx, 3 kg, Mörkröd",
+  "Vinylhantel Toorx, Röd, 2 kg"
+ ]
+}

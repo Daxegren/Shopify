@@ -1,0 +1,74 @@
+{
+ "hantlar": {
+  "alla": 53,
+  "utan_prisjobb": 21,
+  "marken_alla": [
+   [
+    "Tunturi",
+    26
+   ],
+   [
+    "Gymstick",
+    10
+   ],
+   [
+    "Toorx",
+    7
+   ],
+   [
+    "Hammer",
+    5
+   ],
+   [
+    "Christopeit",
+    2
+   ],
+   [
+    "Gorilla Sports Norden",
+    1
+   ],
+   [
+    "Rucanor",
+    1
+   ],
+   [
+    "Zipro",
+    1
+   ]
+  ],
+  "marken_utan": [
+   [
+    "Tunturi",
+    9
+   ],
+   [
+    "Toorx",
+    5
+   ],
+   [
+    "Gymstick",
+    4
+   ],
+   [
+    "Rucanor",
+    1
+   ],
+   [
+    "Christopeit",
+    1
+   ],
+   [
+    "Zipro",
+    1
+   ]
+  ],
+  "kg_alla": [
+   0.5,
+   50.0
+  ],
+  "kg_utan": [
+   2.0,
+   28.0
+  ]
+ }
+}

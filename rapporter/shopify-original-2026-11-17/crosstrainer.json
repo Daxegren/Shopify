@@ -1,0 +1,776 @@
+{
+ "fore": {
+  "id": "gid://shopify/Collection/526983889162",
+  "handle": "crosstrainer",
+  "title": "Crosstrainer",
+  "updatedAt": "2026-11-16T06:13:02Z",
+  "descriptionHtml": "",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "crosstrainer",
+  "seo": {
+   "title": "Crosstrainer – Effektiv konditionsträning för hela kroppen",
+   "description": "Köp crosstrainer hos Best Of Sports. Stort urval av modeller för hemmaträning och gym, med justerbart motstånd och program för alla nivåer."
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "crosstrainer"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "crosstrainers"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 56
+  }
+ },
+ "produkter_fore": {
+  "gid://shopify/Product/10472215150858": [
+   "ACTIVE",
+   [
+    "Bälten",
+    "Crosstrainers",
+    "Fell",
+    "Gymstick",
+    "Pulsmätare",
+    "Tunturi",
+    "Velomarket",
+    "puls",
+    "pulsklocka"
+   ],
+   "509.0"
+  ],
+  "gid://shopify/Product/10673179623690": [
+   "ACTIVE",
+   [
+    "Crosstrainer",
+    "Crosstrainers",
+    "Hammer",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "15641.1"
+  ],
+  "gid://shopify/Product/10673179525386": [
+   "ACTIVE",
+   [
+    "Crosstrainer",
+    "Crosstrainers",
+    "Hammer",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "8603.1"
+  ],
+  "gid://shopify/Product/10665231515914": [
+   "ACTIVE",
+   [
+    "Crosstrainer",
+    "Crosstrainers",
+    "Hammer",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "10232.1"
+  ],
+  "gid://shopify/Product/10656691323146": [
+   "ARCHIVED",
+   [
+    "BH Fitness",
+    "Crosstrainer",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "118759.0"
+  ],
+  "gid://shopify/Product/10656691290378": [
+   "ARCHIVED",
+   [
+    "BH Fitness",
+    "Crosstrainer",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "108737.1"
+  ],
+  "gid://shopify/Product/10656691257610": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Crosstrainer",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "108737.1"
+  ],
+  "gid://shopify/Product/10656691224842": [
+   "ARCHIVED",
+   [
+    "BH Fitness",
+    "Crosstrainer",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "118759.0"
+  ],
+  "gid://shopify/Product/10656691192074": [
+   "ARCHIVED",
+   [
+    "BH Fitness",
+    "Crosstrainer",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "108737.1"
+  ],
+  "gid://shopify/Product/10656691159306": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Crosstrainer",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "108737.1"
+  ],
+  "gid://shopify/Product/10656690962698": [
+   "ARCHIVED",
+   [
+    "BH Fitness",
+    "Crosstrainer",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "117819.0"
+  ],
+  "gid://shopify/Product/10656690864394": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Crosstrainer",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "107873.1"
+  ],
+  "gid://shopify/Product/10650208895242": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Crosstrainer",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "73179.0"
+  ],
+  "gid://shopify/Product/10650169180426": [
+   "ACTIVE",
+   [
+    "Crosstrainer",
+    "Crosstrainers",
+    "Hammer",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "14589.0"
+  ],
+  "gid://shopify/Product/10636740362506": [
+   "DRAFT",
+   [
+    "all products",
+    "crosstrainer",
+    "kondition"
+   ],
+   "154.98"
+  ],
+  "gid://shopify/Product/10636726108426": [
+   "DRAFT",
+   [
+    "crosstrainer",
+    "kondition",
+    "price-change-job-active",
+    "sale"
+   ],
+   "4750.2"
+  ],
+  "gid://shopify/Product/10636707102986": [
+   "DRAFT",
+   [
+    "all products",
+    "crosstrainer",
+    "förbränning",
+    "kondition",
+    "motion",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2879.1"
+  ],
+  "gid://shopify/Product/10636700713226": [
+   "DRAFT",
+   [
+    "crosstrainer",
+    "förbränning",
+    "kondition",
+    "price-change-job-active",
+    "sale"
+   ],
+   "10326.6"
+  ],
+  "gid://shopify/Product/10636700451082": [
+   "DRAFT",
+   [
+    "crosstrainer",
+    "konditionsutrustning",
+    "maxxus",
+    "price-change-job-active",
+    "sale"
+   ],
+   "17900.1"
+  ],
+  "gid://shopify/Product/10636699795722": [
+   "DRAFT",
+   [
+    "crosstrainer",
+    "konditionsutrustning",
+    "maxxus",
+    "price-change-job-active",
+    "sale"
+   ],
+   "19277.1"
+  ],
+  "gid://shopify/Product/10636655493386": [
+   "DRAFT",
+   [
+    "all products",
+    "crosstrainer",
+    "förbränning",
+    "kondition",
+    "konditionsutrustning",
+    "maxxus"
+   ],
+   "470.41"
+  ],
+  "gid://shopify/Product/10636647792906": [
+   "DRAFT",
+   [
+    "crosstrainer",
+    "förbränning",
+    "kondition",
+    "konditionsutrustning",
+    "maxxus",
+    "price-change-job-active",
+    "sale"
+   ],
+   "23219.1"
+  ],
+  "gid://shopify/Product/10636639895818": [
+   "ARCHIVED",
+   [
+    "crosstrainer",
+    "förbränning",
+    "kondition",
+    "konditionsutrustning",
+    "maxxus"
+   ],
+   "568.88"
+  ],
+  "gid://shopify/Product/10636612829450": [
+   "DRAFT",
+   [
+    "Järn",
+    "Kettlebell",
+    "Kettlebell Järn",
+    "Kettlebells",
+    "Lukadora",
+    "crosstrainer",
+    "funktionell",
+    "funktionellt",
+    "kettle",
+    "mens health"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10635766137098": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Crosstrainer",
+    "Crosstrainers",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "19199.0"
+  ],
+  "gid://shopify/Product/10635766104330": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Crosstrainer",
+    "Crosstrainers",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "15639.0"
+  ],
+  "gid://shopify/Product/10612594442506": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Crosstrainer",
+    "Crosstrainers",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "11739.0"
+  ],
+  "gid://shopify/Product/10611424854282": [
+   "ACTIVE",
+   [
+    "Crosstrainers",
+    "Gymstick",
+    "price-change-job-active",
+    "sale"
+   ],
+   "4949.1"
+  ],
+  "gid://shopify/Product/10605354713354": [
+   "ACTIVE",
+   [
+    "Crosstrainer",
+    "Professionell utrustning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "43369.0"
+  ],
+  "gid://shopify/Product/10589705797898": [
+   "ACTIVE",
+   [
+    "Crosstrainer",
+    "Crosstrainers",
+    "Hammer",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "19489.0"
+  ],
+  "gid://shopify/Product/10572663816458": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Crosstrainers",
+    "Hybridcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "7829.0"
+  ],
+  "gid://shopify/Product/10494777229578": [
+   "ACTIVE",
+   [
+    "Crosstrainer",
+    "Crosstrainers",
+    "Fell",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "18049.0"
+  ],
+  "gid://shopify/Product/10494695244042": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Christopher",
+    "Crosstrainer",
+    "Crosstrainers",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3199.0"
+  ],
+  "gid://shopify/Product/10494693474570": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Christopher",
+    "Crosstrainer",
+    "Crosstrainers",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "11009.0"
+  ],
+  "gid://shopify/Product/10480046670090": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Christopher",
+    "Crosstrainer",
+    "Crosstrainers",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "8299.0"
+  ],
+  "gid://shopify/Product/10475385848074": [
+   "ACTIVE",
+   [
+    "Crosstrainer",
+    "Crosstrainers",
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "5099.0"
+  ],
+  "gid://shopify/Product/10472506589450": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Crosstrainer",
+    "Crosstrainers",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "7979.0"
+  ],
+  "gid://shopify/Product/10472356118794": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Christopher",
+    "Crosstrainer",
+    "Crosstrainers",
+    "Velomarket",
+    "kondition",
+    "konditionsutrustning",
+    "price-change-job-active",
+    "sale"
+   ],
+   "4929.0"
+  ],
+  "gid://shopify/Product/10472308900106": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Crosstrainer",
+    "Crosstrainers",
+    "Motionscykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4679.0"
+  ],
+  "gid://shopify/Product/10472307851530": [
+   "ARCHIVED",
+   [
+    "BH Fitness",
+    "Crosstrainer",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "23839.0"
+  ],
+  "gid://shopify/Product/10472307720458": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Crosstrainer",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "26549.0"
+  ],
+  "gid://shopify/Product/10472307228938": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Crosstrainer",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "26549.0"
+  ],
+  "gid://shopify/Product/10472306409738": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Crosstrainer",
+    "Crosstrainers",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "16459.0"
+  ],
+  "gid://shopify/Product/10472303657226": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Crosstrainer",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "24839.0"
+  ],
+  "gid://shopify/Product/10472303591690": [
+   "ARCHIVED",
+   [
+    "Crosstrainer",
+    "Crosstrainers",
+    "Finnlo by Hammer",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "40759.0"
+  ],
+  "gid://shopify/Product/10472281374986": [
+   "ACTIVE",
+   [
+    "Crosstrainer",
+    "Crosstrainers",
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "10089.0"
+  ],
+  "gid://shopify/Product/10472280293642": [
+   "ACTIVE",
+   [
+    "Crosstrainer",
+    "Crosstrainers",
+    "Hammer",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "22919.0"
+  ],
+  "gid://shopify/Product/10472280195338": [
+   "ACTIVE",
+   [
+    "Crosstrainer",
+    "Crosstrainers",
+    "Hammer",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "18709.0"
+  ],
+  "gid://shopify/Product/10472265875722": [
+   "ACTIVE",
+   [
+    "Crosstrainer",
+    "Crosstrainers",
+    "Fell",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "10759.0"
+  ],
+  "gid://shopify/Product/10472265777418": [
+   "ACTIVE",
+   [
+    "Crosstrainer",
+    "Crosstrainers",
+    "Fell",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "15529.0"
+  ],
+  "gid://shopify/Product/10472219279626": [
+   "DRAFT",
+   [
+    "Crosstrainer",
+    "Crosstrainers",
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "13202.1"
+  ],
+  "gid://shopify/Product/10472218984714": [
+   "ACTIVE",
+   [
+    "Crosstrainers",
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "puls",
+    "pulsklocka",
+    "pulsmätare",
+    "sale",
+    "texter-klara"
+   ],
+   "1789.0"
+  ],
+  "gid://shopify/Product/10471266713866": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Crosstrainer",
+    "Crosstrainers",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4409.0"
+  ],
+  "gid://shopify/Product/10468718608650": [
+   "ARCHIVED",
+   [
+    "BH Fitness",
+    "Crosstrainer",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "47309.0"
+  ],
+  "gid://shopify/Product/10462777377034": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Crosstrainers",
+    "Hybridcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "5089.0"
+  ],
+  "gid://shopify/Product/10462755029258": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Christopher",
+    "Crosstrainer",
+    "Crosstrainers",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "10929.0"
+  ]
+ }
+}

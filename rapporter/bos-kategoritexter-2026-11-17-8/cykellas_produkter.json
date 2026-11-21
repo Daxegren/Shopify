@@ -1,0 +1,2733 @@
+[
+ {
+  "id": "gid://shopify/Product/10665232302346",
+  "title": "D-lås Squire Nevis 230 med Härdad Stålbygel",
+  "vendor": "Squire",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Squire",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "handle": "d-lock-squire-nevis-230-41057",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "41057",
+     "price": "499.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10665232269578",
+  "title": "D-lås Squire Nevis 230/10C med Vajer",
+  "vendor": "Squire",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Squire",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "handle": "squire-nevis-230-10c-d-l-s-med-vajer-41064",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "41064",
+     "price": "549.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10656694010122",
+  "title": "Grips LIV Sole-O Double Lock-On, Svart",
+  "vendor": "Liv",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Liv",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "handle": "grips-liv-sole-o-double-lock-on-svart-190000061",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "190000061",
+     "price": "279.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10656693977354",
+  "title": "Vikbart Lås Squire Foldalok Plus, 850 mm",
+  "vendor": "Squire",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Squire",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 7,
+  "handle": "vikbart-l-s-squire-foldalok-plus-85mm-53159",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "53159",
+     "price": "619.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10656693944586",
+  "title": "Vajerlås AXA Resolute C10-150 med Kod, 150 cm",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 35,
+  "handle": "vajerl-s-axa-resolute-c10-150-med-kod-59441595kc",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59441595KC",
+     "price": "309.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10656693911818",
+  "title": "Kedjelås Squire Chainlok Combi 6 med Kod, 900 mm",
+  "vendor": "Squire",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Kedja",
+   "Squire",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 6,
+  "handle": "kedjel-s-squire-chainlok-combi-6-med-kod-52886",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "52886",
+     "price": "289.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10656693879050",
+  "title": "U-lås AXA Newton Pro 16-140 med Vajer",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "price-change-job-active",
+   "sale",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 3,
+  "handle": "u-l-s-axa-newton-u-l-s-pro-16-140-vajer-59502995ks",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59502995KS",
+     "price": "1489.00",
+     "compareAtPrice": "1479.00"
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10656693846282",
+  "title": "Cykellås AXA Fold 110 med Åtta Stållänkar, 110 cm",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "price-change-job-active",
+   "sale",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket",
+   "Vikbar cykel"
+  ],
+  "totalInventory": 10,
+  "handle": "axa-fold-110-cykell-s-59851095kb",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59851095KB",
+     "price": "1629.00",
+     "compareAtPrice": "1619.00"
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10656692240650",
+  "title": "Grips GIANT Tactal Single Lock-On, Svart",
+  "vendor": "Giant",
+  "status": "DRAFT",
+  "tags": [
+   "Cykellås",
+   "Giant",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "handle": "grips-giant-tactal-single-lock-on-svart-190000106",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "190000106",
+     "price": "219.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10635764859146",
+  "title": "Vajerlås Squire Straplok Combi 10 med Kod, 450 mm",
+  "vendor": "Squire",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Squire",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 3,
+  "handle": "vajerl-s-squire-straplok-combi-10-med-kod-40685",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "40685",
+     "price": "239.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10635764400394",
+  "title": "Vajerlås Squire Kilda Combi 10/1800, 180 cm, Kod",
+  "vendor": "Squire",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Squire",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 3,
+  "handle": "vajerl-s-squire-kilda-combi-10-1800-med-kod-39498",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "39498",
+     "price": "179.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10635764367626",
+  "title": "Vajerlås SQUIRE Kilda Combi 12/1800, med kod",
+  "vendor": "Squire",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Squire",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 2,
+  "handle": "vajerl-s-squire-kilda-combi-12-1800-med-kod-39511",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "39511",
+     "price": "219.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10635764269322",
+  "title": "Kedjelås Squire Chainlok 10, 850 mm",
+  "vendor": "Squire",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Kedja",
+   "price-change-job-active",
+   "sale",
+   "Squire",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 3,
+  "handle": "kedjel-s-squire-chainlok-10-41194",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "41194",
+     "price": "1699.00",
+     "compareAtPrice": "1689.00"
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10635749064970",
+  "title": "Handtag Giant Tactal Pro Single Lock-On, Röd",
+  "vendor": "Giant",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Giant",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "handle": "handtag-giant-tactal-pro-single-lock-on-r-d-190000212",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "190000212",
+     "price": "439.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10605380698378",
+  "title": "U-lås GIANT Surelock Protector 2",
+  "vendor": "Giant",
+  "status": "DRAFT",
+  "tags": [
+   "Cykellås",
+   "Giant",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "handle": "u-l-s-giant-surelock-protector-2-520000004",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "520000004",
+     "price": "299.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10572666208522",
+  "title": "Golv- och Väggfäste Squire Peak WA300 för Kedjelås",
+  "vendor": "Velomarket",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Kedja",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "handle": "f-stes-f-r-kedjel-s-f-r-golv-v-gg-squire-peak-wa300-36985",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "36985",
+     "price": "319.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10572666175754",
+  "title": "Golv- och Väggfäste Squire Summit WA500 för Kedjelås",
+  "vendor": "Squire",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Kedja",
+   "Squire",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "handle": "f-stes-f-r-kedjel-s-f-r-golv-v-gg-squire-summit-wa500-36992",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "36992",
+     "price": "469.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10554354172170",
+  "title": "Grips GIANT Tactal Double Lock-on Grip, svart-röd",
+  "vendor": "Giant",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Giant",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "handle": "grips-giant-tactal-double-lock-on-grip-svart-r-d-190000102",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "190000102",
+     "price": "319.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10548282196234",
+  "title": "U-lås Giant Surelock Protector 1 DT med Vajer",
+  "vendor": "Giant",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Giant",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "handle": "u-l-s-giant-surelock-protector-1-dt-med-vajer-520000000",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "520000000",
+     "price": "589.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10548236058890",
+  "title": "Vikbart Lås Squire Inigma FL1 med Bluetooth, 80 cm",
+  "vendor": "Squire",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "price-change-job-active",
+   "sale",
+   "Squire",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "handle": "nyckell-s-squire-inigma-fl1-med-bluetooth-37821",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "37821",
+     "price": "2969.00",
+     "compareAtPrice": "2949.00"
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10541368934666",
+  "title": "Handtag Giant Connect Ergo Max Plus Lock-On",
+  "vendor": "Giant",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Giant",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 3,
+  "handle": "handtag-giant-connect-ergo-max-plus-lock-on-190000113",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "190000113",
+     "price": "469.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10541368803594",
+  "title": "Handtag Liv Sole-O Double Lock-On, Svart/Lila",
+  "vendor": "Liv",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Liv",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 3,
+  "handle": "grips-liv-sole-o-double-lock-on-svart-lila-190000063",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "190000063",
+     "price": "279.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10541368738058",
+  "title": "Grips LIV Sole-O Double Lock-On, Svart/Vit",
+  "vendor": "Liv",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Liv",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 3,
+  "handle": "grips-liv-sole-o-double-lock-on-svart-vit-190000062",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "190000062",
+     "price": "279.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10541205291274",
+  "title": "Vikbart Lås Squire Stronghold FL/850 i Borförstärkt Stål",
+  "vendor": "Squire",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "price-change-job-active",
+   "sale",
+   "Squire",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 3,
+  "handle": "bygel-s-squire-stronghold-fl-850-39566",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "39566",
+     "price": "2479.00",
+     "compareAtPrice": "2469.00"
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10541168951562",
+  "title": "Kedjelås Squire Kilda Combi CN6/900, 90 cm, Kod",
+  "vendor": "Squire",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Kedja",
+   "Squire",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 4,
+  "handle": "kedjel-s-squire-kilda-combi-cn6-900-med-kod-39528",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "39528",
+     "price": "269.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10541168853258",
+  "title": "Kedjelås Squire Kilda CN6/900, 90 cm, Nyckel",
+  "vendor": "Squire",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Kedja",
+   "Squire",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 6,
+  "handle": "kedjel-s-squire-kilda-cn6-900-39481",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "39481",
+     "price": "259.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10541140279562",
+  "title": "Vajerlås Squire Kilda 10/1800, 180 cm, Nyckel",
+  "vendor": "Squire",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Squire",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 4,
+  "handle": "vajerl-s-squire-kilda-10-1800-39443",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "39443",
+     "price": "189.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10541139919114",
+  "title": "Vajerlås Squire Kilda 15/1800, 180 cm, Nyckel",
+  "vendor": "Squire",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Squire",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 7,
+  "handle": "vajerl-s-squire-kilda-15-1800-39474",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "39474",
+     "price": "379.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10541139394826",
+  "title": "Vajerlås Squire Kilda 12/1800, 180 cm, Nyckel",
+  "vendor": "Squire",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Squire",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 7,
+  "handle": "vajerl-s-squire-kilda-12-1800-39467",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "39467",
+     "price": "209.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10530183414026",
+  "title": "Handtag Liv Swage Single Lock-On, Svart/Lila",
+  "vendor": "Liv",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Liv",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 4,
+  "handle": "grips-liv-swage-single-lock-on-svart-lila-190000176",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "190000176",
+     "price": "219.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10530128888074",
+  "title": "Grips Giant Swage Lock-On, grå",
+  "vendor": "Giant",
+  "status": "DRAFT",
+  "tags": [
+   "Cykellås",
+   "Giant",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 2,
+  "handle": "grips-giant-swage-lock-on-gr-190000167",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "190000167",
+     "price": "219.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10494706254090",
+  "title": "Vikbart lås AXA Fold 85, längd 85 cm",
+  "vendor": "AXA",
+  "status": "ARCHIVED",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "price-change-job-active",
+   "sale",
+   "Velomarket",
+   "Vikbar cykel",
+   "Vikbara lås"
+  ],
+  "totalInventory": 3,
+  "handle": "vikbart-l-s-axa-fold-85-l-ngd-85-cm-59810895sb-1",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59810895SB",
+     "price": "1509.00",
+     "compareAtPrice": "1499.00"
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10494705041674",
+  "title": "Vikbart Lås AXA Foldable 1000 i Härdat Stål, 105 cm",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "Fällbara lås",
+   "price-change-job-active",
+   "sale",
+   "texter-klara",
+   "Velomarket",
+   "Vikbar cykel"
+  ],
+  "totalInventory": 10,
+  "handle": "vikbart-l-s-axa-foldable-1000-l-ngd-105-cm-59800595sb",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59800595SB",
+     "price": "1809.00",
+     "compareAtPrice": "1799.00"
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10494704681226",
+  "title": "Vikbart Lås AXA Foldable 800 i Härdat Stål, 100 cm",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "texter-klara",
+   "Velomarket",
+   "Vikbar cykel"
+  ],
+  "totalInventory": 14,
+  "handle": "vikbart-l-s-axa-foldable-800-l-ngd-100-cm-59800495sb",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59800495SB",
+     "price": "789.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10494702977290",
+  "title": "Vajerlås Axa Resolute 6-60, Petrolblå",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "totalInventory": 28,
+  "handle": "vajerl-s-axa-resolute-6-60-petrolbl-59430603sc",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59430603SC",
+     "price": "89.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10494702944522",
+  "title": "Vajerlås AXA RESOLUTE 6-60 army green",
+  "vendor": "AXA",
+  "status": "ARCHIVED",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "Velomarket"
+  ],
+  "totalInventory": 3,
+  "handle": "vajerl-s-axa-resolute-6-60-army-green-59430601sc",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59430601SC",
+     "price": "89.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10494702911754",
+  "title": "Kedjelås AXA Absolute 8-110 i Härdat Stål, 110 cm",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "Kedja",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "totalInventory": 15,
+  "handle": "kedjel-s-axa-absolute-8-110-l-ngd-110-cm-59081195ss-1",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59081195SS",
+     "price": "499.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10494702846218",
+  "title": "Kedjelås AXA Clinch+ 85/6",
+  "vendor": "AXA",
+  "status": "DRAFT",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "Kedja",
+   "Velomarket"
+  ],
+  "totalInventory": 4,
+  "handle": "kedjel-s-axa-clinch-85-6-59003297ss",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59003297SS",
+     "price": "429.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10494702747914",
+  "title": "Kedjelås AXA Linq i Härdat Stål, 100 cm",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "Kedja",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "totalInventory": 14,
+  "handle": "kedjel-s-axa-linq-l-ngd-100-cm-59002795ss",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59002795SS",
+     "price": "799.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10494701175050",
+  "title": "Vajerlås Giant Surelock Rubber med Kombinationslås, Grön",
+  "vendor": "Giant",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Giant",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "totalInventory": 10,
+  "handle": "vajerl-s-giant-surelock-rubber-gr-n-520000026",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "520000026",
+     "price": "369.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10475621155082",
+  "title": "Vajerlås AXA Resolute 15-120, 120 cm, 15 mm",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 68,
+  "handle": "vajerl-s-axa-resolute-15-120-59432295kc-1",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59432295KC",
+     "price": "329.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10475621122314",
+  "title": "Vajerlås AXA Resolute C12-65, med kod",
+  "vendor": "AXA",
+  "status": "DRAFT",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 16,
+  "handle": "vajerl-s-axa-resolute-c12-65-med-kod-59440695kc",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59440695KC",
+     "price": "269.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10475621089546",
+  "title": "Vikbart Cykellås AXA Fold 85, 85 cm, Sold Secure Bronze",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "price-change-job-active",
+   "sale",
+   "sync-skydd",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket",
+   "Vikbar cykel"
+  ],
+  "totalInventory": 29,
+  "handle": "axa-fold-85-vikbart-l-s-59810895kb-1",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59810895KB",
+     "price": "1367.10",
+     "compareAtPrice": "1519.00"
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10475620925706",
+  "title": "AXA Fold 100 cykellås",
+  "vendor": "AXA",
+  "status": "ARCHIVED",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "price-change-job-active",
+   "sale",
+   "Tillbehör",
+   "Velomarket",
+   "Vikbar cykel"
+  ],
+  "totalInventory": 16,
+  "handle": "axa-fold-100-cykell-s-59811095kb-1",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59811095KB",
+     "price": "1629.00",
+     "compareAtPrice": "1619.00"
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10475619942666",
+  "title": "Kedjelås AXA Absolute 5-110",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "Kedja",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 22,
+  "handle": "kedjel-s-axa-absolute-5-110-59051195ks",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59051195KS",
+     "price": "469.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10475619877130",
+  "title": "Vajerlås AXA Resolute 8-120, Ice Blue",
+  "vendor": "AXA",
+  "status": "ARCHIVED",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 17,
+  "handle": "vajerl-s-axa-resolute-8-120-ice-blue-59431202kc",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59431202KC",
+     "price": "159.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10475619778826",
+  "title": "Vajerlås AXA Resolute 8-120, Army Green",
+  "vendor": "AXA",
+  "status": "DRAFT",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 8,
+  "handle": "vajerl-s-axa-resolute-8-120-army-green-59431201kc",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59431201KC",
+     "price": "159.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10475619746058",
+  "title": "Vajerlås AXA Resolute 12-180, 180 cm, 12 mm",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "På beställning",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 39,
+  "handle": "vajerl-s-axa-resolute-12-180-59431895kc",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59431895SC",
+     "price": "309.00",
+     "compareAtPrice": null
+    },
+    {
+     "sku": "59431895SC",
+     "price": "269.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10475619713290",
+  "title": "Vajerlås AXA Resolute 60-6, Royal Purple",
+  "vendor": "AXA",
+  "status": "DRAFT",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 15,
+  "handle": "vajerl-s-axa-resolute-60-6-royal-purple-59430604kc",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59430604KC",
+     "price": "89.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10475619680522",
+  "title": "Vajerlås AXA Resolute 6-60, Army Green",
+  "vendor": "AXA",
+  "status": "DRAFT",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 17,
+  "handle": "vajerl-s-axa-resolute-6-60-army-green-59430601kc",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59430601KC",
+     "price": "89.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10475619647754",
+  "title": "Vajerlås AXA Resolute 15-180, 180 cm",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "På beställning",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 31,
+  "handle": "vajerl-s-axa-resolute-15-180-59432895kc",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59432895SC",
+     "price": "349.00",
+     "compareAtPrice": null
+    },
+    {
+     "sku": "59432895SC",
+     "price": "299.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10475619549450",
+  "title": "Vajerlås AXA Resolute C15-180 med 4-siffrig Kod",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 57,
+  "handle": "vajerl-s-axa-resolute-c15-180-med-kod-59441895kc",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59441895KC",
+     "price": "369.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10475619516682",
+  "title": "U-lås AXA Newton Pro 190 mm i Härdat Stål",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 14,
+  "handle": "u-l-s-axa-newton-pro-190mm-59502595ks",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59502595KS",
+     "price": "619.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10475422417162",
+  "title": "U-lås AXA Newton Mini med Vajer 100*8",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 53,
+  "handle": "u-l-s-axa-newton-mini-wire-100-8-med-vajer-59502795ss",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59502795SS",
+     "price": "429.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10475421860106",
+  "title": "Vajerlås AXA RESOLUTE C10-150, med kod",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "Tillbehör",
+   "Velomarket",
+   "viktlås"
+  ],
+  "totalInventory": 17,
+  "handle": "vajerl-s-axa-resolute-c10-150-med-kod-59441595sc",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59441595SC",
+     "price": "299.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10475421139210",
+  "title": "Vajerlås AXA Resolute 15-120 i Härdat Stål, 120 cm",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "totalInventory": 32,
+  "handle": "vajerl-s-axa-resolute-15-120-l-ngd-120-cm-59432295sc",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59432295SC",
+     "price": "329.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10475420516618",
+  "title": "Vajer för Ramlås AXA Newton PI 150/10, 150 cm",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "totalInventory": 29,
+  "handle": "vajer-f-r-raml-s-axa-newton-pi-150-10-59501795sc",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59501795SC",
+     "price": "269.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10475420385546",
+  "title": "Vajerlås AXA Resolute C8-180 med 4-siffrig Kod",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "totalInventory": 29,
+  "handle": "vajerl-s-axa-resolute-c8-180-59440895sc",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59440895SC",
+     "price": "219.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10475419730186",
+  "title": "Kedjelås AXA Linq City med Gummihandtag, 100 cm",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "Hybridcykel",
+   "Kedja",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "totalInventory": 12,
+  "handle": "kedjel-s-axa-linq-city-59005795ss",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59005795SS",
+     "price": "599.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472299299082",
+  "title": "Hantelvikter TOORX Safe Lock, 50mm",
+  "vendor": "Toorx",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Konditionsträning & Fitness",
+   "Toorx",
+   "Velomarket",
+   "viktlås"
+  ],
+  "totalInventory": 3,
+  "handle": "hantelvikter-toorx-safe-lock-50mm-cfsl",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "CFSL",
+     "price": "139.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472296481034",
+  "title": "Låskedja AXA Foldable 6-95 med Neoprenbeläggning",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket",
+   "Vikbar cykel"
+  ],
+  "totalInventory": 35,
+  "handle": "l-skedja-axa-foldable-6-95-59802295kb",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59802295KB",
+     "price": "649.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472296448266",
+  "title": "Kedjelås AXA Clinch+, 105 cm, Svart",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 24,
+  "handle": "k-ttl-s-axa-clinch-105cm-svart-59003095ss",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59003095SS",
+     "price": "559.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472296415498",
+  "title": "Kedjelås AXA Absolute C5-90 med 4-siffrig Kod, 90 cm",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "Kedja",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 38,
+  "handle": "kedjel-s-axa-absolute-c5-90-med-kod-59052995ks",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59052995KS",
+     "price": "449.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472295923978",
+  "title": "Köp AXA Fold Lite 80",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "Tillbehör",
+   "Velomarket",
+   "Vikbar cykel"
+  ],
+  "totalInventory": 99,
+  "handle": "k-p-axa-fold-lite-80-59840895kb",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59840895KB",
+     "price": "679.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472295858442",
+  "title": "Låskedja AXA Foldable 10-105 med Neoprenbeläggning",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "price-change-job-active",
+   "sale",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket",
+   "Vikbar cykel"
+  ],
+  "totalInventory": 17,
+  "handle": "l-skedja-axa-foldable-10-105-59802595kb",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59802595KB",
+     "price": "1789.00",
+     "compareAtPrice": "1779.00"
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472295825674",
+  "title": "Låskedja AXA Foldable 8-130 med Neoprenbeläggning",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "price-change-job-active",
+   "sale",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket",
+   "Vikbar cykel"
+  ],
+  "totalInventory": 14,
+  "handle": "l-skedja-axa-foldable-8-130-59802495kb",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59802495KB",
+     "price": "1559.00",
+     "compareAtPrice": "1549.00"
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472295760138",
+  "title": "Kedjelås AXA Absolute 7-150, 150 cm",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 10,
+  "handle": "kettlukk-axa-absolute-7-150-59071595ks",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59071595KS",
+     "price": "539.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472295694602",
+  "title": "Kedjelås AXA Absolute 5-150",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 7,
+  "handle": "kettlukk-axa-absolute-5-150-59051595ks",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59051595KS",
+     "price": "499.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472271020298",
+  "title": "Vredeslås SQUIRE Folda Mini FL690",
+  "vendor": "Squire",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Squire",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 25,
+  "handle": "vredesl-s-squire-folda-mini-fl690-39542",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "39542",
+     "price": "419.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472264433930",
+  "title": "Kabellås GIANT SURELOCK RUBBER BENCH",
+  "vendor": "Giant",
+  "status": "DRAFT",
+  "tags": [
+   "Cykellås",
+   "Giant",
+   "Velomarket"
+  ],
+  "totalInventory": 3,
+  "handle": "kabell-s-giant-surelock-rubber-bench-520000028",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "520000027",
+     "price": "339.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472264302858",
+  "title": "Grips GIANT Tactal Double Lock-On, svart",
+  "vendor": "Giant",
+  "status": "DRAFT",
+  "tags": [
+   "Cykellås",
+   "Giant",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "handle": "handtag-giant-tactal-double-lock-on-grip-svart-190000100",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "190000100",
+     "price": "279.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472259453194",
+  "title": "Kedjelås AXA Absolute 9-110 i Härdat Stål, 110 cm",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "Kedja",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "totalInventory": 12,
+  "handle": "kedjel-s-axa-absolute-9-110-l-ngd-110-cm-59091195ss",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59091195SS",
+     "price": "559.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472258044170",
+  "title": "GYMSTICK Flip-Lock Collars, 50 mm",
+  "vendor": "Gymstick",
+  "status": "DRAFT",
+  "tags": [
+   "Cykellås",
+   "Extra vikter",
+   "Gymstick",
+   "tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "handle": "gymstick-flip-lock-collars-50-mm-gymoc-01",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "GYMOC-01",
+     "price": "479.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472256504074",
+  "title": "Cable lock AXA RESOLUTE 10-150",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "handle": "cable-lock-axa-resolute-10-150-59431595sc-1",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59431595SC",
+     "price": "279.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472255422730",
+  "title": "Kedjelås AXA HAWK 100*8/3 KEYS",
+  "vendor": "AXA",
+  "status": "DRAFT",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "Kedja",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 6,
+  "handle": "kedjel-s-axa-hawk-100-8-3-keys-59003395ss-1",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59003395SS",
+     "price": "339.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472255324426",
+  "title": "Kedjelås AXA Procarat+ NEO, 105 cm",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "Kedja",
+   "price-change-job-active",
+   "sale",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 2,
+  "handle": "kedjel-s-axa-procarat-neo-105-10-5-59003996ss",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59003996SS",
+     "price": "1769.00",
+     "compareAtPrice": "1759.00"
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472255095050",
+  "title": "Kabelås AXA RESOLUTE 120/8 ROYAL PURPLE",
+  "vendor": "AXA",
+  "status": "DRAFT",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 9,
+  "handle": "kabel-s-axa-resolute-120-8-royal-purple-59431204sc",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59431204SC",
+     "price": "159.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472255062282",
+  "title": "Kabellås AXA RESOLUTE 120/8 ICE BLUE",
+  "vendor": "AXA",
+  "status": "DRAFT",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 2,
+  "handle": "kabell-s-axa-resolute-120-8-ice-blue-59431202sc",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59431202SC",
+     "price": "159.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472254996746",
+  "title": "Kabellås Axa Resolute 6-60",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 9,
+  "handle": "kabell-s-axa-resolute-60-6-ice-blue-59430602sc",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59430602SC",
+     "price": "89.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472254472458",
+  "title": "Kedjelås AXA Rigid RCC 120/3.5 med Kod, Grön",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "Kedja",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "totalInventory": 3,
+  "handle": "kedjel-s-axa-rigid-rcc-120-3-5-59540495ss",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59540495SS",
+     "price": "179.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472254046474",
+  "title": "Kedjelås AXA Rigid RCC 120/3.5",
+  "vendor": "AXA",
+  "status": "ARCHIVED",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "Kedja",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 20,
+  "handle": "kedjel-s-axa-rigid-rcc-120-3-5-59540095ss",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59540095SS",
+     "price": "179.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472253948170",
+  "title": "Cable lock AXA RESOLUTE C12-65",
+  "vendor": "AXA",
+  "status": "DRAFT",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "handle": "cable-lock-axa-resolute-c12-65-59440695sc",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59440695SC",
+     "price": "269.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472251621642",
+  "title": "Kabellås Giant Surelock Tough 1 med Tre Nycklar",
+  "vendor": "Giant",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Giant",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 11,
+  "handle": "kabell-s-giant-surelock-tough-1-520000008",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "520000008",
+     "price": "409.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472251490570",
+  "title": "Handtag Giant Swage Lock-On, Blå Fästen",
+  "vendor": "Giant",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Giant",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 5,
+  "handle": "grips-giant-swage-lock-on-blue-190000165",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "190000165",
+     "price": "219.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472250605834",
+  "title": "Kabellås GIANT SURELOCK RUBBER Sky Blue, blå",
+  "vendor": "Giant",
+  "status": "ARCHIVED",
+  "tags": [
+   "Cykellås",
+   "Giant",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 2,
+  "handle": "kabell-s-giant-surelock-rubber-sky-blue-bl-520000029",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "520000029",
+     "price": "369.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472250474762",
+  "title": "Cykellåskedja M-Wave C 10.9-360, 10 mm, 900 mm",
+  "vendor": "M-Wave",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Kedja",
+   "M-Wave",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "totalInventory": 21,
+  "handle": "cykell-skedja-m-wave-c-10-9-360-med-nyckel-230950",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "230950",
+     "price": "489.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472246673674",
+  "title": "Universalfäste M-Wave Anyhold Clip On för Flaska, Lås och Pump",
+  "vendor": "M-Wave",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Flaska & Hållare",
+   "M-Wave",
+   "Pump",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 22,
+  "handle": "universal-attachment-m-wave-anyhold-clip-on-bottle-lock-pump-230300",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "230299",
+     "price": "89.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472242184458",
+  "title": "Bromsskiva SHIMANO 180 mm Center Lock SM-RT10 Endast Resinbelägg",
+  "vendor": "Shimano",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykeldelar",
+   "Cykellås",
+   "Shimano",
+   "Velomarket"
+  ],
+  "totalInventory": 59,
+  "handle": "bromsskiva-shimano-180-mm-center-lock-sm-rt10-endast-resinbel-gg-asmrt10-m",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "ASMRT10-M",
+     "price": "129.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472233107722",
+  "title": "Vikbart Lås AXA Fold Lite 80 i Legerat Stål, 80 cm",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "price-change-job-active",
+   "sale",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket",
+   "Vikbar cykel"
+  ],
+  "totalInventory": 1,
+  "handle": "vikbart-l-s-axa-fold-lite-80-59840895sc",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59840895SC",
+     "price": "4805.10",
+     "compareAtPrice": "5339.00"
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472232550666",
+  "title": "Kedjelås AXA Clinch+ 85, längd 85 cm",
+  "vendor": "AXA",
+  "status": "ARCHIVED",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "Kedja",
+   "Velomarket"
+  ],
+  "totalInventory": 3,
+  "handle": "kedjel-s-axa-clinch-85-l-ngd-85-cm-59003298ss",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59003298SS",
+     "price": "429.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472231371018",
+  "title": "Frame lock AXA Victory",
+  "vendor": "AXA",
+  "status": "DRAFT",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 2,
+  "handle": "frame-lock-axa-victory-545550964405c",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "545550964405C",
+     "price": "579.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472225702154",
+  "title": "Handles Giant Ergo MAX Lock-On",
+  "vendor": "Giant",
+  "status": "ARCHIVED",
+  "tags": [
+   "Cykellås",
+   "Giant",
+   "Styrtejp och handtag",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "handle": "handles-giant-ergo-max-lock-on-190000121",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "190000119",
+     "price": "279.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472225636618",
+  "title": "Handles Giant Tactal Double Lock-On",
+  "vendor": "Giant",
+  "status": "DRAFT",
+  "tags": [
+   "Cykellås",
+   "Giant",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "handle": "handles-giant-tactal-double-lock-on-190000107",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "190000105",
+     "price": "309.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472225440010",
+  "title": "Handtag Giant Swage Lock-On, svart",
+  "vendor": "Giant",
+  "status": "ARCHIVED",
+  "tags": [
+   "Cykellås",
+   "Giant",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 6,
+  "handle": "handtag-giant-swage-lock-on-svart-190000164",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "190000164",
+     "price": "249.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472208564490",
+  "title": "Hantellås Tunturi Olympic Lock Jaw Collars 50 mm",
+  "vendor": "Tunturi",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Fell",
+   "Hantlar & Viktskivor",
+   "texter-klara",
+   "Tunturi",
+   "Velomarket"
+  ],
+  "totalInventory": 5,
+  "handle": "tunturi-olympic-lock-jaw-collars-50mm-14tuscf032-1",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "14TUSCF032",
+     "price": "189.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10470993854730",
+  "title": "Cykellås med kedja och M-Wave C10.11-nyckel",
+  "vendor": "M-Wave",
+  "status": "DRAFT",
+  "tags": [
+   "Cykellås",
+   "Kedja",
+   "M-Wave",
+   "Velomarket"
+  ],
+  "totalInventory": 3,
+  "handle": "cykell-s-med-kedja-och-m-wave-c10-11-nyckel-230313",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "230313",
+     "price": "299.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10470925074698",
+  "title": "Fjäderklämmor Tunturi Spring Collar, 30 mm",
+  "vendor": "Tunturi",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Konditionsträning & Fitness",
+   "texter-klara",
+   "Tunturi",
+   "Velomarket"
+  ],
+  "totalInventory": 6,
+  "handle": "lever-springl-s-tunturi-spring-collar-30mm-14tuscl159",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "14TUSCL159",
+     "price": "49.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10470909149450",
+  "title": "Grips GIANT Tactal Double Lock-on Grip, svart-gul",
+  "vendor": "Giant",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Giant",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "handle": "handtag-giant-tactal-double-lock-on-grip-svart-gul-190000103",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "190000103",
+     "price": "309.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10470904594698",
+  "title": "Vikbart lås AXA Foldable 600, längd 95 cm",
+  "vendor": "AXA",
+  "status": "ARCHIVED",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "Velomarket",
+   "Vikbar cykel"
+  ],
+  "totalInventory": 1,
+  "handle": "vikbart-l-s-axa-foldable-600-l-ngd-95-cm-59800295sb",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59800295SB",
+     "price": "529.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10470893388042",
+  "title": "Kabellås AXA Roll 75 med 3-siffrig Kod, 75 cm",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "totalInventory": 33,
+  "handle": "kabell-s-axa-roll-75-l-ngd-75-cm-59850095sc",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59850095SC",
+     "price": "159.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10470893060362",
+  "title": "U-lås AXA Newton Mini Pro med Vajer 100/10",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "totalInventory": 18,
+  "handle": "u-l-s-axa-newton-mini-pro-vajer-100-10-59502995ss",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59502995SS",
+     "price": "779.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10470893027594",
+  "title": "U-lås AXA Newton UL-230 i Härdat Stål, 23 cm",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 25,
+  "handle": "u-lock-axa-newton-ul-230-59502395ss",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59502395SS",
+     "price": "519.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10470892896522",
+  "title": "Frame lock AXA Imenso Large",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 3,
+  "handle": "frame-lock-axa-imenso-large-586400560x05sc",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "586400560X05SC",
+     "price": "599.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10470888243466",
+  "title": "Skivstångslås Tunturi ABS Collar, 30 mm",
+  "vendor": "Tunturi",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Konditionsträning & Fitness",
+   "texter-klara",
+   "Tunturi",
+   "Velomarket"
+  ],
+  "totalInventory": 2,
+  "handle": "leverl-s-tunturi-abs-collar-30mm-14tuscl158",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "14TUSCL158",
+     "price": "99.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10462187421962",
+  "title": "Ramlås AXA Defender Retractable med Vikbar Nyckel",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 6,
+  "handle": "frame-lock-axa-defender-retractable-55665195v405sc",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "55665195V405SC",
+     "price": "439.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10462187389194",
+  "title": "Fäste för Ramlås AXA Flex Mount/Card med 2 Band",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 8,
+  "handle": "f-ste-f-r-raml-s-axa-flex-mount-card-55500395sc",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "55500395SC",
+     "price": "119.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10461972496650",
+  "title": "Kedjelås Giant Surelock Force 1 i Titan, 10 mm",
+  "vendor": "Giant",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Giant",
+   "Kedja",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 18,
+  "handle": "kedjel-s-giant-surelock-force-1-520000006",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "520000006",
+     "price": "729.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10411907940618",
+  "title": "Vikbart Lås Axa Fold Lite C100 med Kod",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "price-change-job-active",
+   "sale",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket",
+   "Vikbar cykel"
+  ],
+  "totalInventory": 22,
+  "handle": "nyckellas-axa-fold-lite-c100-med-kod",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59842095KB",
+     "price": "1499.00",
+     "compareAtPrice": "1479.00"
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10411905417482",
+  "title": "Låskedja AXA Fold 100",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "price-change-job-active",
+   "sale",
+   "Tillbehör",
+   "Velomarket",
+   "Vikbar cykel"
+  ],
+  "totalInventory": 4,
+  "handle": "laskedja-axa-fold-100",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59811095SB",
+     "price": "1629.00",
+     "compareAtPrice": "1619.00"
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10405835833610",
+  "title": "Kedja för Ramlås AXA ULC 130/5.5, 130 cm",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "Kedja",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 16,
+  "handle": "kedja-for-ramlas-axa-ulc-130-5-5",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59571395SS",
+     "price": "349.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10405835571466",
+  "title": "U-lås AXA Newton UL-300 i Härdat Stål, 30 cm",
+  "vendor": "AXA",
+  "status": "ACTIVE",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "totalInventory": 19,
+  "handle": "u-las-axa-newton-ul-300",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "59503095SS",
+     "price": "579.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10403817029898",
+  "title": "Vajerlås Giant Surelock Rubber Orange med Kodlås",
+  "vendor": "Giant",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Giant",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "totalInventory": 12,
+  "handle": "cable-lock-giant-surelock-rubber-orange",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "520000028",
+     "price": "339.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10403816472842",
+  "title": "Ramenlås AXA Solid",
+  "vendor": "AXA",
+  "status": "DRAFT",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 6,
+  "handle": "frame-lock-axa-solid",
+  "variants": {
+   "nodes": [
+    {
+     "sku": "511050950X05SC",
+     "price": "319.00",
+     "compareAtPrice": null
+    }
+   ]
+  }
+ }
+]

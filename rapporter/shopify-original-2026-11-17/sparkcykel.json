@@ -1,0 +1,1919 @@
+{
+ "fore": {
+  "id": "gid://shopify/Collection/569052135690",
+  "handle": "sparkcykel",
+  "title": "Sparkcykel",
+  "updatedAt": "2026-11-16T06:55:52Z",
+  "descriptionHtml": "",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "sparkcykel",
+  "seo": {
+   "title": "Sparkcyklar för tricks, transport & barn | Best of Sports",
+   "description": "Upptäck sparkcyklar för tricks, stunt, transport och barn. Stabil kvalitet och flera modeller för både nybörjare och erfarna åkare. Köp online idag. 🛴"
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "sparkcykel"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "Sparkcyklar"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 161
+  }
+ },
+ "produkter_fore": {
+  "gid://shopify/Product/10721332756746": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Professionell utrustning",
+    "På beställning",
+    "Sparkcykel",
+    "Velomarket"
+   ],
+   "33089.0"
+  ],
+  "gid://shopify/Product/10676720271626": [
+   "DRAFT",
+   [
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1609.0"
+  ],
+  "gid://shopify/Product/10676607189258": [
+   "ACTIVE",
+   [
+    "Ethic",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1409.0"
+  ],
+  "gid://shopify/Product/10605385187594": [
+   "ACTIVE",
+   [
+    "Ethic",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1709.0"
+  ],
+  "gid://shopify/Product/10605361889546": [
+   "ACTIVE",
+   [
+    "Ethic",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1739.0"
+  ],
+  "gid://shopify/Product/10605358055690": [
+   "ACTIVE",
+   [
+    "Ethic",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1419.0"
+  ],
+  "gid://shopify/Product/10572697338122": [
+   "ACTIVE",
+   [
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3689.0"
+  ],
+  "gid://shopify/Product/10572697239818": [
+   "ACTIVE",
+   [
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3689.0"
+  ],
+  "gid://shopify/Product/10572665946378": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3806.1"
+  ],
+  "gid://shopify/Product/10572665848074": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "3473.1"
+  ],
+  "gid://shopify/Product/10572664897802": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4829.0"
+  ],
+  "gid://shopify/Product/10572663980298": [
+   "ACTIVE",
+   [
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2249.0"
+  ],
+  "gid://shopify/Product/10572593824010": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2379.0"
+  ],
+  "gid://shopify/Product/10565594874122": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1520.1"
+  ],
+  "gid://shopify/Product/10526097572106": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1809.0"
+  ],
+  "gid://shopify/Product/10515754680586": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1659.0"
+  ],
+  "gid://shopify/Product/10515754647818": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1659.0"
+  ],
+  "gid://shopify/Product/10515754615050": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1659.0"
+  ],
+  "gid://shopify/Product/10515754582282": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1819.0"
+  ],
+  "gid://shopify/Product/10515754549514": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1599.0"
+  ],
+  "gid://shopify/Product/10515754516746": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Rideoo",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2959.0"
+  ],
+  "gid://shopify/Product/10515754483978": [
+   "ACTIVE",
+   [
+    "Racercykel",
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "4029.0"
+  ],
+  "gid://shopify/Product/10515754451210": [
+   "ACTIVE",
+   [
+    "Racercykel",
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4009.0"
+  ],
+  "gid://shopify/Product/10515754385674": [
+   "ACTIVE",
+   [
+    "På beställning",
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2087.1"
+  ],
+  "gid://shopify/Product/10515754352906": [
+   "ACTIVE",
+   [
+    "Racercykel",
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3969.0"
+  ],
+  "gid://shopify/Product/10515754320138": [
+   "ACTIVE",
+   [
+    "Ethic",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4539.0"
+  ],
+  "gid://shopify/Product/10515751108874": [
+   "ACTIVE",
+   [
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3809.0"
+  ],
+  "gid://shopify/Product/10515749339402": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1579.0"
+  ],
+  "gid://shopify/Product/10515749306634": [
+   "ACTIVE",
+   [
+    "Ethic",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1799.0"
+  ],
+  "gid://shopify/Product/10515746488586": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1489.0"
+  ],
+  "gid://shopify/Product/10515746455818": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "4329.0"
+  ],
+  "gid://shopify/Product/10515746423050": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "4399.0"
+  ],
+  "gid://shopify/Product/10515745636618": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Velomarket",
+    "Versatyl",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2589.0"
+  ],
+  "gid://shopify/Product/10515745571082": [
+   "ACTIVE",
+   [
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2839.0"
+  ],
+  "gid://shopify/Product/10515744588042": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1659.0"
+  ],
+  "gid://shopify/Product/10515744522506": [
+   "ACTIVE",
+   [
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3079.0"
+  ],
+  "gid://shopify/Product/10515744489738": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2309.0"
+  ],
+  "gid://shopify/Product/10515744456970": [
+   "ACTIVE",
+   [
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2479.0"
+  ],
+  "gid://shopify/Product/10515744424202": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2389.0"
+  ],
+  "gid://shopify/Product/10515744030986": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Rideoo",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2959.0"
+  ],
+  "gid://shopify/Product/10515743998218": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Velomarket",
+    "Versatyl",
+    "price-change-job-active",
+    "sale"
+   ],
+   "3379.0"
+  ],
+  "gid://shopify/Product/10515743244554": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1619.0"
+  ],
+  "gid://shopify/Product/10515743211786": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1609.0"
+  ],
+  "gid://shopify/Product/10515741573386": [
+   "ACTIVE",
+   [
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2299.0"
+  ],
+  "gid://shopify/Product/10515741344010": [
+   "ACTIVE",
+   [
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2449.0"
+  ],
+  "gid://shopify/Product/10515741278474": [
+   "ACTIVE",
+   [
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2439.0"
+  ],
+  "gid://shopify/Product/10515741245706": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2399.0"
+  ],
+  "gid://shopify/Product/10515741180170": [
+   "ACTIVE",
+   [
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2199.0"
+  ],
+  "gid://shopify/Product/10515739181322": [
+   "DRAFT",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1659.0"
+  ],
+  "gid://shopify/Product/10494919213322": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "S´COOL",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3669.0"
+  ],
+  "gid://shopify/Product/10494919180554": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "S´COOL",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3669.0"
+  ],
+  "gid://shopify/Product/10494699176202": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Rideoo",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "3539.0"
+  ],
+  "gid://shopify/Product/10486673473802": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Velomarket",
+    "Versatyl",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2979.0"
+  ],
+  "gid://shopify/Product/10475981111562": [
+   "ACTIVE",
+   [
+    "Razor",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2639.0"
+  ],
+  "gid://shopify/Product/10475369562378": [
+   "ACTIVE",
+   [
+    "Elcykel",
+    "Razor",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4119.0"
+  ],
+  "gid://shopify/Product/10472348745994": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "grepptejp",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1489.0"
+  ],
+  "gid://shopify/Product/10472348713226": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "grepptejp",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1489.0"
+  ],
+  "gid://shopify/Product/10472348680458": [
+   "ACTIVE",
+   [
+    "Cykeltillbehör",
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1489.0"
+  ],
+  "gid://shopify/Product/10472332886282": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Rideoo",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3249.0"
+  ],
+  "gid://shopify/Product/10472332853514": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2749.0"
+  ],
+  "gid://shopify/Product/10472332820746": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2959.0"
+  ],
+  "gid://shopify/Product/10472332755210": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2589.0"
+  ],
+  "gid://shopify/Product/10472332722442": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2959.0"
+  ],
+  "gid://shopify/Product/10472332493066": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2959.0"
+  ],
+  "gid://shopify/Product/10472332361994": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2959.0"
+  ],
+  "gid://shopify/Product/10472332296458": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2959.0"
+  ],
+  "gid://shopify/Product/10472332132618": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2959.0"
+  ],
+  "gid://shopify/Product/10472332034314": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2959.0"
+  ],
+  "gid://shopify/Product/10472332001546": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Rideoo",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3249.0"
+  ],
+  "gid://shopify/Product/10472331968778": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Rideoo",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2959.0"
+  ],
+  "gid://shopify/Product/10472331936010": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2959.0"
+  ],
+  "gid://shopify/Product/10472331870474": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2999.0"
+  ],
+  "gid://shopify/Product/10472331804938": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Rideoo",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2959.0"
+  ],
+  "gid://shopify/Product/10472310800650": [
+   "ACTIVE",
+   [
+    "Ethic",
+    "Ethics",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "5049.0"
+  ],
+  "gid://shopify/Product/10472310669578": [
+   "ACTIVE",
+   [
+    "Racercykel",
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "3969.0"
+  ],
+  "gid://shopify/Product/10472308670730": [
+   "ACTIVE",
+   [
+    "Racercykel",
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "3969.0"
+  ],
+  "gid://shopify/Product/10472308637962": [
+   "ACTIVE",
+   [
+    "Racercykel",
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "4029.0"
+  ],
+  "gid://shopify/Product/10472308474122": [
+   "ACTIVE",
+   [
+    "Ethic",
+    "Ethics",
+    "Sparkcykel",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "5049.0"
+  ],
+  "gid://shopify/Product/10472308441354": [
+   "ACTIVE",
+   [
+    "Ethic",
+    "Ethics",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "5049.0"
+  ],
+  "gid://shopify/Product/10472308408586": [
+   "ACTIVE",
+   [
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2939.0"
+  ],
+  "gid://shopify/Product/10472306082058": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1669.0"
+  ],
+  "gid://shopify/Product/10472306049290": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1779.0"
+  ],
+  "gid://shopify/Product/10472306016522": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1669.0"
+  ],
+  "gid://shopify/Product/10472305983754": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1669.0"
+  ],
+  "gid://shopify/Product/10472305950986": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1669.0"
+  ],
+  "gid://shopify/Product/10472305885450": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1669.0"
+  ],
+  "gid://shopify/Product/10472305819914": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1549.0"
+  ],
+  "gid://shopify/Product/10472305754378": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1539.0"
+  ],
+  "gid://shopify/Product/10472305688842": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1579.0"
+  ],
+  "gid://shopify/Product/10472305623306": [
+   "ACTIVE",
+   [
+    "Ethic",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1769.0"
+  ],
+  "gid://shopify/Product/10472297005322": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2209.0"
+  ],
+  "gid://shopify/Product/10472296087818": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1489.0"
+  ],
+  "gid://shopify/Product/10472296022282": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1799.0"
+  ],
+  "gid://shopify/Product/10472295203082": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1669.0"
+  ],
+  "gid://shopify/Product/10472294449418": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Rideoo",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2959.0"
+  ],
+  "gid://shopify/Product/10472294416650": [
+   "ACTIVE",
+   [
+    "Ethic",
+    "Ethics",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4969.0"
+  ],
+  "gid://shopify/Product/10472294252810": [
+   "ACTIVE",
+   [
+    "Excelsior",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "4119.0"
+  ],
+  "gid://shopify/Product/10472293302538": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Velomarket",
+    "Versatyl",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3379.0"
+  ],
+  "gid://shopify/Product/10472292352266": [
+   "ACTIVE",
+   [
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3079.0"
+  ],
+  "gid://shopify/Product/10472291041546": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "S´COOL",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2929.0"
+  ],
+  "gid://shopify/Product/10472290812170": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "S´COOL",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3709.0"
+  ],
+  "gid://shopify/Product/10472290779402": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "S´COOL",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3709.0"
+  ],
+  "gid://shopify/Product/10472287633674": [
+   "DRAFT",
+   [
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2699.0"
+  ],
+  "gid://shopify/Product/10472287109386": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1789.0"
+  ],
+  "gid://shopify/Product/10472287011082": [
+   "ACTIVE",
+   [
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2719.0"
+  ],
+  "gid://shopify/Product/10472286159114": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1659.0"
+  ],
+  "gid://shopify/Product/10472285536522": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Rideoo",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2959.0"
+  ],
+  "gid://shopify/Product/10472285077770": [
+   "ARCHIVED",
+   [
+    "Hybridcykel",
+    "Rideoo",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "3539.0"
+  ],
+  "gid://shopify/Product/10472285012234": [
+   "ACTIVE",
+   [
+    "Ethic",
+    "Ethics",
+    "Sparkcyklar",
+    "Tillbehör",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1709.0"
+  ],
+  "gid://shopify/Product/10472284946698": [
+   "ACTIVE",
+   [
+    "Sparkcykel",
+    "Sparkcyklar",
+    "Stuntscootrar",
+    "Velomarket",
+    "Versatyl",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3379.0"
+  ],
+  "gid://shopify/Product/10472281833738": [
+   "ACTIVE",
+   [
+    "Pulkor",
+    "Sparkcykel",
+    "Stiga",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1609.0"
+  ],
+  "gid://shopify/Product/10472278622474": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1669.0"
+  ],
+  "gid://shopify/Product/10472278360330": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1489.0"
+  ],
+  "gid://shopify/Product/10472278327562": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1809.0"
+  ],
+  "gid://shopify/Product/10472278262026": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1412.1"
+  ],
+  "gid://shopify/Product/10472278196490": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1559.0"
+  ],
+  "gid://shopify/Product/10472278098186": [
+   "ACTIVE",
+   [
+    "Ethic",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1709.0"
+  ],
+  "gid://shopify/Product/10472267710730": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Velomarket"
+   ],
+   "289.0"
+  ],
+  "gid://shopify/Product/10472264106250": [
+   "ACTIVE",
+   [
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3019.0"
+  ],
+  "gid://shopify/Product/10472264040714": [
+   "ARCHIVED",
+   [
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2749.0"
+  ],
+  "gid://shopify/Product/10472263975178": [
+   "ACTIVE",
+   [
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2279.0"
+  ],
+  "gid://shopify/Product/10472263057674": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Velo",
+    "Velomarket",
+    "Versatyl",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2969.0"
+  ],
+  "gid://shopify/Product/10472257487114": [
+   "ACTIVE",
+   [
+    "Flyby",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2779.0"
+  ],
+  "gid://shopify/Product/10472254079242": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1459.0"
+  ],
+  "gid://shopify/Product/10472252309770": [
+   "ACTIVE",
+   [
+    "På beställning",
+    "SOKE",
+    "Scooters",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1412.1"
+  ],
+  "gid://shopify/Product/10472252047626": [
+   "ACTIVE",
+   [
+    "Ricokids",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2039.0"
+  ],
+  "gid://shopify/Product/10472250638602": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1489.0"
+  ],
+  "gid://shopify/Product/10472248639754": [
+   "ACTIVE",
+   [
+    "Fusion",
+    "Fuzion",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1959.0"
+  ],
+  "gid://shopify/Product/10472248574218": [
+   "ACTIVE",
+   [
+    "Fusion",
+    "Fuzion",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1959.0"
+  ],
+  "gid://shopify/Product/10472244412682": [
+   "ACTIVE",
+   [
+    "Sparkcykel",
+    "Start",
+    "Velomarket",
+    "Vinterutrustning"
+   ],
+   "209.0"
+  ],
+  "gid://shopify/Product/10472243659018": [
+   "ACTIVE",
+   [
+    "Sparkcykel",
+    "Start",
+    "Velomarket",
+    "Vinterutrustning"
+   ],
+   "209.0"
+  ],
+  "gid://shopify/Product/10472243429642": [
+   "ACTIVE",
+   [
+    "Nils Extreme",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2079.0"
+  ],
+  "gid://shopify/Product/10472242741514": [
+   "ACTIVE",
+   [
+    "Sparkcykel",
+    "Start",
+    "Velomarket",
+    "Vinterutrustning",
+    "texter-klara"
+   ],
+   "189.0"
+  ],
+  "gid://shopify/Product/10472232780042": [
+   "ACTIVE",
+   [
+    "Pulkor",
+    "Sparkcykel",
+    "Stiga",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1649.0"
+  ],
+  "gid://shopify/Product/10471429898506": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Rideoo",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3249.0"
+  ],
+  "gid://shopify/Product/10471122436362": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Velomarket",
+    "Versatyl",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1659.0"
+  ],
+  "gid://shopify/Product/10470995165450": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Velomarket",
+    "Versatyl",
+    "price-change-job-active",
+    "sale"
+   ],
+   "3379.0"
+  ],
+  "gid://shopify/Product/10470955516170": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1779.0"
+  ],
+  "gid://shopify/Product/10470954959114": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1759.0"
+  ],
+  "gid://shopify/Product/10470929105162": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2339.0"
+  ],
+  "gid://shopify/Product/10470928810250": [
+   "ACTIVE",
+   [
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2769.0"
+  ],
+  "gid://shopify/Product/10470928711946": [
+   "ACTIVE",
+   [
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2799.0"
+  ],
+  "gid://shopify/Product/10470927958282": [
+   "ACTIVE",
+   [
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2329.0"
+  ],
+  "gid://shopify/Product/10470914883850": [
+   "ACTIVE",
+   [
+    "Flyby",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2689.0"
+  ],
+  "gid://shopify/Product/10470912885002": [
+   "ACTIVE",
+   [
+    "Flyby",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "3209.0"
+  ],
+  "gid://shopify/Product/10462824235274": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "656.1"
+  ],
+  "gid://shopify/Product/10462822826250": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1669.0"
+  ],
+  "gid://shopify/Product/10462822695178": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1659.0"
+  ],
+  "gid://shopify/Product/10462822531338": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1799.0"
+  ],
+  "gid://shopify/Product/10462780424458": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1459.0"
+  ],
+  "gid://shopify/Product/10462779998474": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1569.0"
+  ],
+  "gid://shopify/Product/10462779965706": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1619.0"
+  ],
+  "gid://shopify/Product/10462779769098": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1549.0"
+  ],
+  "gid://shopify/Product/10462765711626": [
+   "ACTIVE",
+   [
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2409.0"
+  ],
+  "gid://shopify/Product/10462176837898": [
+   "ACTIVE",
+   [
+    "Nils Extreme",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2049.0"
+  ],
+  "gid://shopify/Product/10460950003978": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Union",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2959.0"
+  ],
+  "gid://shopify/Product/10411902402826": [
+   "ACTIVE",
+   [
+    "Sparkcyklar",
+    "Velomarket",
+    "Versatyl",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2969.0"
+  ],
+  "gid://shopify/Product/10411859476746": [
+   "ACTIVE",
+   [
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2799.0"
+  ],
+  "gid://shopify/Product/10411859181834": [
+   "ACTIVE",
+   [
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2289.0"
+  ],
+  "gid://shopify/Product/10411859083530": [
+   "ACTIVE",
+   [
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2729.0"
+  ],
+  "gid://shopify/Product/10411476779274": [
+   "ACTIVE",
+   [
+    "Pulkor",
+    "Sparkcykel",
+    "Stiga",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1889.0"
+  ]
+ }
+}

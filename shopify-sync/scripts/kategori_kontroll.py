@@ -20,6 +20,8 @@ def tillatna_tal(u):
     return t
 def tal_i_text(s): return [int(x.replace(' ', '')) for x in re.findall(r'\d[\d ]*\d|\d', s.replace(' ', ' ')) if x.strip()]
 
+UTAN_PRISER = '--utan-priser' in sys.argv   # tillägg 2026-11-17: stoppar prisuppgifter medan taggen price-change-job-active finns
+
 def main(mapp, texter):
     spec = importlib.util.spec_from_file_location('t', texter); m = importlib.util.module_from_spec(spec); spec.loader.exec_module(m)
     fel, seo_set, meta_set = [], {}, {}
@@ -28,13 +30,15 @@ def main(mapp, texter):
         text = ' '.join(stycken); lc = text.lower(); F = lambda msg: fel.append(f'{h}: {msg}')
         ord_ = len(text.split())
         if not 60 <= ord_ <= 200: F(f'{ord_} ord (60-200)')
-        if 'Exempel på modeller' in text:
+        if 'Exempel på modeller' in text or 'Exempel på produkter' in text:
             hittade = [x for x in u['alla_titlar'] if x in text]
             if len(hittade) < 3: F(f'exempelmodeller: bara {len(hittade)} av 3 titlar finns ordagrant i kollektionen')
         if len(seo) > 43: F(f'SEO-titel {len(seo)} tecken (max 43)')
         if not 120 <= len(meta) <= 155: F(f'meta {len(meta)} tecken (120-155)')
         for w in FORBJUDET:
             if w in lc or w in (seo + ' ' + meta).lower(): F(f'förbjudet ord/uttryck: {w}')
+        if UTAN_PRISER and re.search(r'\d\s?(kr|kronor|:-)(?![a-zåäö])|\bfrån cirka\b|\bprisklass', (text + ' ' + seo + ' ' + meta).lower()):
+            F('prisuppgift i texten (prisfri text krävs medan prisjobbet pågår)')
         if seo in seo_set: F(f'SEO-titel dubblett med {seo_set[seo]}')
         if meta in meta_set: F(f'meta dubblett med {meta_set[meta]}')
         seo_set[seo] = h; meta_set[meta] = h
@@ -49,7 +53,7 @@ def main(mapp, texter):
             if re.search(r'\b' + re.escape(kand) + r'\b', text + ' ' + seo + ' ' + meta) and kand.lower() not in marken and kand not in ('Fluid',) and h != 'tunturi':
                 F(f'märke {kand} nämns men finns inte i kollektionens köpbara produkter')
         # R1: tal. Varje tal i texten ska finnas i underlagets tillåtna tal (avrundade) eller i en titel.
-        tillat = tillatna_tal(u); titlar = ' '.join(u['alla_titlar'])
+        tillat = tillatna_tal(u); titlar = ' '.join(u['alla_titlar'] + u.get('ovriga_titlar', []))  # tillägg 2026-11-17: tal får stödjas av köpbara produkter bland övriga (kräver granskarens kontroll)
         for n in tal_i_text(text + ' ' + meta + ' ' + seo):
             if n not in tillat and str(n) not in titlar and not (n in (70, 40) and h in ('hantlar', 'tunturi')) :
                 F(f'tal {n} saknar stöd i underlaget')

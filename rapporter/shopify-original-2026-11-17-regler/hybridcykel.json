@@ -1,0 +1,1238 @@
+{
+ "tid": "2026-11-17T15:10:41Z",
+ "kollektion": {
+  "id": "gid://shopify/Collection/561572937994",
+  "handle": "hybridcykel",
+  "title": "Hybridcykel",
+  "ruleSet": {
+   "appliedDisjunctively": false,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "hybrid"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "hybridcykel"
+    },
+    {
+     "column": "TYPE",
+     "relation": "EQUALS",
+     "condition": "Cyklar"
+    },
+    {
+     "column": "TYPE",
+     "relation": "EQUALS",
+     "condition": "Damcyklar"
+    },
+    {
+     "column": "TYPE",
+     "relation": "EQUALS",
+     "condition": "Elcyklar"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "__typename": "CollectionConditionsSource",
+    "id": "gid://shopify/CollectionConditionsSource/24985338122",
+    "title": "Untitled Source",
+    "targetType": "PRODUCTS",
+    "inclusion": {
+     "matchType": "ALL",
+     "conditions": [
+      {
+       "__typename": "CollectionSourceInclusionConditionProductTag"
+      },
+      {
+       "__typename": "CollectionSourceInclusionConditionProductType"
+      }
+     ]
+    },
+    "exclusion": {
+     "matchType": "ALL",
+     "conditions": [],
+     "selections": {
+      "nodes": []
+     }
+    }
+   }
+  ]
+ },
+ "faltoversikt": {
+  "id": "gid://shopify/Collection/561572937994",
+  "handle": "hybridcykel",
+  "title": "Hybridcykel",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "hybridcykel",
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": false,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "hybrid"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "hybridcykel"
+    },
+    {
+     "column": "TYPE",
+     "relation": "EQUALS",
+     "condition": "Cyklar"
+    },
+    {
+     "column": "TYPE",
+     "relation": "EQUALS",
+     "condition": "Damcyklar"
+    },
+    {
+     "column": "TYPE",
+     "relation": "EQUALS",
+     "condition": "Elcyklar"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 77
+  }
+ },
+ "medlemmar_fore": {
+  "gid://shopify/Product/10708319633674": {
+   "title": "Cykel KONA Dew DL (2027) Gloss Metallic Silver",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "13040.1"
+  },
+  "gid://shopify/Product/10708319502602": {
+   "title": "Cykel KONA Dew DL (2027) Gloss Metallic Silver",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "14589.0"
+  },
+  "gid://shopify/Product/10708319371530": {
+   "title": "LIV Thrive Advanced 2 (2027) Damcykel Clear Sky",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Hybridcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "29179.0"
+  },
+  "gid://shopify/Product/10682106052874": {
+   "title": "Cykel Kona Dew (2027), Gloss Fancy Karman, XL (57 cm)",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "11798.1"
+  },
+  "gid://shopify/Product/10682105987338": {
+   "title": "Cykel Kona Dew (2027), Gloss Metallic Peridot, XL (57 cm)",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "11798.1"
+  },
+  "gid://shopify/Product/10682105626890": {
+   "title": "Cykel Kona Dew (2027), 29 tum, Gloss Metallic Peridot",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "13089.0"
+  },
+  "gid://shopify/Product/10682105561354": {
+   "title": "Cykel Kona Dew (2027), 29 tum, Gloss Fancy Karman",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "13089.0"
+  },
+  "gid://shopify/Product/10682105528586": {
+   "title": "Cykel Kona Coco (2027) 27,5 tum, Gloss Metallic Electric Blue",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "13839.0"
+  },
+  "gid://shopify/Product/10656692175114": {
+   "title": "Hybridcykel Romet Orkan M, 28 tum, Grå och Röd",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Romet",
+    "Velomarket",
+    "hybridcykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "6539.0"
+  },
+  "gid://shopify/Product/10656692044042": {
+   "title": "Hybridcykel Giant Roam 3, 18 Växlar, Shell White",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "12599.1"
+  },
+  "gid://shopify/Product/10656691912970": {
+   "title": "Cykel GIANT AnyTour RS 2 GB, Ocean Storm",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "17789.0"
+  },
+  "gid://shopify/Product/10656690438410": {
+   "title": "Cykel GIANT AnyTour RS 2 GB, Ocean Storm",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "sammanslagen"
+   ],
+   "pris": "17789.0"
+  },
+  "gid://shopify/Product/10656690372874": {
+   "title": "Cykel GIANT AnyTour RS 2 GB, Ocean Storm",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "16289.1"
+  },
+  "gid://shopify/Product/10650208862474": {
+   "title": "Cykel Kona Dr Dew, 29 tum, Satin Algae (Grön)",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "16849.0"
+  },
+  "gid://shopify/Product/10650208796938": {
+   "title": "Cykel Kona Dew DL, 29 tum, Satin Future Dusk (Lila)",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "12365.1"
+  },
+  "gid://shopify/Product/10635810504970": {
+   "title": "Cykel KONA Dr Dew, 29\" Satin Algae (Grön)",
+   "status": "DRAFT",
+   "tags": [
+    "Cyklar",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "15425.1"
+  },
+  "gid://shopify/Product/10624088441098": {
+   "title": "Elcykel Liv Lurra E+ 2 EX (2027), Urban Oasis",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Hybridcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "57549.0"
+  },
+  "gid://shopify/Product/10593839022346": {
+   "title": "Elcykel Tenways CGO Compact",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Hybridcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "35909.0"
+  },
+  "gid://shopify/Product/10589714088202": {
+   "title": "Elcykel Liv Flourish E+ 2 (2027), Mountain Air",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Hybridcykel",
+    "Liv",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "47459.0"
+  },
+  "gid://shopify/Product/10588453208330": {
+   "title": "Elcykel KONA Dew-E, Gloss Metallic Dark Faux Raw (Grå)",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "32408.1"
+  },
+  "gid://shopify/Product/10588452946186": {
+   "title": "Elcykel Kona Dew-E, Gloss Metallic Dark Faux Raw",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "36845.1"
+  },
+  "gid://shopify/Product/10588452225290": {
+   "title": "Elcykel Giant Anytour X E+ 2 (2027) 27,5 tum, Abyss Black",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "74529.0"
+  },
+  "gid://shopify/Product/10588452192522": {
+   "title": "Elcykel Giant Anytour X E+ 0 (2027) 27,5 tum, Truffle",
+   "status": "ACTIVE",
+   "tags": [
+    "Elcykel",
+    "Elcyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "76184.1"
+  },
+  "gid://shopify/Product/10588452159754": {
+   "title": "Elcykel Giant Anytour X E+ 3 (2027) 27,5 tum, Good Grey",
+   "status": "ACTIVE",
+   "tags": [
+    "Elcykel",
+    "Elcyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "68039.0"
+  },
+  "gid://shopify/Product/10588447605002": {
+   "title": "Hybridcykel Romet Orkan 1 M, Svart och Röd",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Romet",
+    "Velomarket",
+    "hybridcykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "8319.0"
+  },
+  "gid://shopify/Product/10581606629642": {
+   "title": "Stadscykel Giant AnyTour CS 2 GB, 700x45, Stealth Chrome",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "17531.1"
+  },
+  "gid://shopify/Product/10561340211466": {
+   "title": "Damcykel Kona Coco, 27,5 tum, Röd",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "12365.1"
+  },
+  "gid://shopify/Product/10541372113162": {
+   "title": "Hybridcykel Kona Dew, 29 tum, Niagra (Blå)",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "9674.1"
+  },
+  "gid://shopify/Product/10526100226314": {
+   "title": "Hybridcykel Romet Wagant 4, 21 Växlar, Silver och Svart",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Romet",
+    "Velomarket",
+    "hybridcykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "8396.1"
+  },
+  "gid://shopify/Product/10523488387338": {
+   "title": "Stadscykel Giant AnyTour CS 2 GB med remdrift, XL",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "17531.1"
+  },
+  "gid://shopify/Product/10523468759306": {
+   "title": "Cykel GIANT Roam 1, Electron Blue",
+   "status": "DRAFT",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "19574.1"
+  },
+  "gid://shopify/Product/10507443208458": {
+   "title": "Hybridcykel Romet Orkan 1 M, Svart och Grön",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Romet",
+    "Velomarket",
+    "hybridcykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "7739.0"
+  },
+  "gid://shopify/Product/10507289755914": {
+   "title": "Hybridcykel Romet Orkan 5 M, Silver",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Romet",
+    "Velomarket",
+    "hybridcykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "11129.0"
+  },
+  "gid://shopify/Product/10507259478282": {
+   "title": "Hybridcykel Romet Wagant 0, 21 Växlar, Grågrön",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Hybridcykel",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "8929.0"
+  },
+  "gid://shopify/Product/10507259412746": {
+   "title": "Hybridcykel Romet Wagant 0, 21 Växlar, Turkos och Guld",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Hybridcykel",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "8929.0"
+  },
+  "gid://shopify/Product/10502527025418": {
+   "title": "Hybridcykel Giant Roam 3, 18 Växlar, Ultra Navy",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "14209.0"
+  },
+  "gid://shopify/Product/10494944182538": {
+   "title": "Damcykel Romet Gazela 0, Turkos och Guld",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Hybridcykel",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "8779.0"
+  },
+  "gid://shopify/Product/10487987503370": {
+   "title": "Hybridcykel Romet Wagant 6, 24 Växlar, Svart",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Romet",
+    "Velomarket",
+    "cykel",
+    "hybridcykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "11209.0"
+  },
+  "gid://shopify/Product/10474079060234": {
+   "title": "Hybridcykel Giant Cypress 3 City, 28 tum, Phantom Green",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "12649.0"
+  },
+  "gid://shopify/Product/10472434958602": {
+   "title": "LIV Thrive 2 Women's Bike, Cosmos Navy",
+   "status": "DRAFT",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Hybridcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "16676.1"
+  },
+  "gid://shopify/Product/10472335212810": {
+   "title": "Cykel KONA Dew, 29\" Gloss Niagra (Blå)",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "12329.0"
+  },
+  "gid://shopify/Product/10472333574410": {
+   "title": "Hybridcykel Romet Wagant 6, 24 Växlar, Brun och Svart",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Romet",
+    "Velomarket",
+    "hybridcykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "8036.1"
+  },
+  "gid://shopify/Product/10472333508874": {
+   "title": "Hybridcykel Romet Orkan 7 M, Silvergrå",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Romet",
+    "Velomarket",
+    "hybridcykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "13159.0"
+  },
+  "gid://shopify/Product/10472333181194": {
+   "title": "Hybridcykel Giant Roam 4, 700c, Svart",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "9917.1"
+  },
+  "gid://shopify/Product/10472332230922": {
+   "title": "Hybridcykel ROMET Wagant 0, grågrön",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Hybridcykel",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "8929.0"
+  },
+  "gid://shopify/Product/10472323645706": {
+   "title": "Hybridcykel Giant Roam 1, 11 Växlar, Midnight Moon",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "20819.0"
+  },
+  "gid://shopify/Product/10472296251658": {
+   "title": "Elcykel Giant Anytour X E+ 2, Black Diamond",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "62576.1"
+  },
+  "gid://shopify/Product/10472295956746": {
+   "title": "Elcykel Giant Anytour X E+ 3, Pyrite Brown",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "63369.0"
+  },
+  "gid://shopify/Product/10472295727370": {
+   "title": "Hybridcykel Giant AnyTour RS 3, Charcoal",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "16529.0"
+  },
+  "gid://shopify/Product/10472281932042": {
+   "title": "Hybridcykel Romet Orkan M, 28 tum, Svart",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Hybridcykel",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "6549.0"
+  },
+  "gid://shopify/Product/10472269840650": {
+   "title": "Damcykel Liv Flourish FS 2, Eclipse, storlek S",
+   "status": "ARCHIVED",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Hybridcykel",
+    "Liv",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "8659.0"
+  },
+  "gid://shopify/Product/10472258502922": {
+   "title": "Damcykel TABOU Kayla 28\", röd/svart",
+   "status": "ARCHIVED",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Hybridcykel",
+    "Taboo",
+    "Tabou",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "7622.1"
+  },
+  "gid://shopify/Product/10472258273546": {
+   "title": "Elcykel Giant Roam E+ STA, 28 tum",
+   "status": "DRAFT",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "21149.1"
+  },
+  "gid://shopify/Product/10472258240778": {
+   "title": "Elcykel GIANT DailyTour E+ 1 BD LDS, Metallic Navy",
+   "status": "DRAFT",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "Hybridcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "42380.1"
+  },
+  "gid://shopify/Product/10472258109706": {
+   "title": "Hybridcykel Romet Wagant 3, 21 Växlar, Blå",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Hybridcykel",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "9669.0"
+  },
+  "gid://shopify/Product/10472258011402": {
+   "title": "Hybridcykel Romet Wagant 1, 21 Växlar",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Hybridcykel",
+    "På beställning",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "6695.1"
+  },
+  "gid://shopify/Product/10472257126666": {
+   "title": "Elcykel Victoria eTrekking 4.7, Diamond 28\" brun",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Hybridcykel",
+    "Velomarket",
+    "Victoria",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "32409.0"
+  },
+  "gid://shopify/Product/10472256831754": {
+   "title": "Damcykel Liv Flourish 3, 700x38c, Gunmetal Black",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Hybridcykel",
+    "Liv",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "8329.0"
+  },
+  "gid://shopify/Product/10472245887242": {
+   "title": "Damcykel LIV Flourish 3 Disc, Vit",
+   "status": "ARCHIVED",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Hybridcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "8027.1"
+  },
+  "gid://shopify/Product/10472238416138": {
+   "title": "LIV Flourish 3 Disc Women's Bike, Muscat Blanc",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Hybridcykel",
+    "Liv",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "13269.0"
+  },
+  "gid://shopify/Product/10472236679434": {
+   "title": "Hybridcykel Romet Wagant 5, 24 Växlar, Blå",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Romet",
+    "Velomarket",
+    "hybridcykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "10129.0"
+  },
+  "gid://shopify/Product/10471083999498": {
+   "title": "Hybridcykel Giant Roam 1, 11 Växlar, Elektronblå",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "17018.1"
+  },
+  "gid://shopify/Product/10471072006410": {
+   "title": "Cykel GIANT Roam 1, Electron Blue",
+   "status": "ARCHIVED",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "21699.0"
+  },
+  "gid://shopify/Product/10470937002250": {
+   "title": "Damcykel Liv Flourish FS 2, Eclipse",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Hybridcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "7811.1"
+  },
+  "gid://shopify/Product/10470935888138": {
+   "title": "Cykel LIV Flourish FS 3, Desert Sage",
+   "status": "ARCHIVED",
+   "tags": [
+    "Damcyklar",
+    "Hybridcykel",
+    "Liv",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "8109.0"
+  },
+  "gid://shopify/Product/10470923075850": {
+   "title": "Elcykel Giant Roam E+ GTS, 28 tum",
+   "status": "DRAFT",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Hybridcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "24137.1"
+  },
+  "gid://shopify/Product/10470915539210": {
+   "title": "Elcykel KONA Dew-E, 27.5\" Satin Black",
+   "status": "DRAFT",
+   "tags": [
+    "Cyklar",
+    "Elcykel",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "38600.1"
+  },
+  "gid://shopify/Product/10470896271626": {
+   "title": "Hybridcykel Giant Escape 3 Disc, 700x38c, Metallic Blue",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "11199.0"
+  },
+  "gid://shopify/Product/10468767334666": {
+   "title": "Hybridcykel Giant Roam 3, 18 Växlar, Metall",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "14209.0"
+  },
+  "gid://shopify/Product/10468767170826": {
+   "title": "Hybridcykel Giant Roam 1, 11 Växlar, Kolgrå",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "16631.1"
+  },
+  "gid://shopify/Product/10468736499978": {
+   "title": "Elcykel Giant Roam E+ STA, 28 tum",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "Hybridcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "27188.1"
+  },
+  "gid://shopify/Product/10462832230666": {
+   "title": "Cykel EXCELSIOR Swan Urban, Aubergine",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcyklar",
+    "Excelsior",
+    "Hybridcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "10889.1"
+  },
+  "gid://shopify/Product/10462795366666": {
+   "title": "Hybridcykel Romet Wagant 4, 21 Växlar, Blå",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Romet",
+    "Velomarket",
+    "hybridcykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "10359.0"
+  },
+  "gid://shopify/Product/10462773838090": {
+   "title": "Damcykel Liv Flourish 3, Gunmetal Black, XS",
+   "status": "ACTIVE",
+   "tags": [
+    "Damcykel",
+    "Damcyklar",
+    "Hybridcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "8329.0"
+  },
+  "gid://shopify/Product/10462190010634": {
+   "title": "Cykel KONA Dew Plus, 27.5\" Gloss Titian (Orange)",
+   "status": "DRAFT",
+   "tags": [
+    "Cyklar",
+    "Hybridcykel",
+    "Kona",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "pris": "13625.1"
+  },
+  "gid://shopify/Product/10460947087626": {
+   "title": "Hybridcykel Giant Roam 2, 700c, Svart",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "16549.0"
+  },
+  "gid://shopify/Product/10460947054858": {
+   "title": "Hybridcykel Giant Roam 2, 700c, Asphalt Green",
+   "status": "ACTIVE",
+   "tags": [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "pris": "16809.0"
+  }
+ },
+ "undantas": []
+}

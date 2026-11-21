@@ -1,0 +1,1503 @@
+{
+ "fore": {
+  "id": "gid://shopify/Collection/526981955850",
+  "handle": "hantlar",
+  "title": "Hantlar",
+  "updatedAt": "2026-11-16T06:50:57Z",
+  "descriptionHtml": "<p data-start=\"313\" data-end=\"649\" style=\"text-align: left;\">Letar du efter hantlar för effektiv styrketräning hemma eller på gym? Hos Best Of Sports hittar du ett brett utbud av hantlar i olika modeller och material som passar alla nivåer och träningsmål. Hantlar är ett av de mest mångsidiga redskapen för styrketräning och kan användas för allt från isolerade övningar till funktionell träning.</p>\n<p data-start=\"651\" data-end=\"1022\" style=\"text-align: left;\">När du ska köpa hantlar är det viktigt att tänka på vilken typ av träning du vill utföra. Vill du ha justerbara hantlar som sparar plats och ger flexibilitet, eller fasta hantlar för snabb och enkel träning? Fundera även på material: gummerade hantlar ger skydd för golv och minskar ljud, medan kromade eller järnhantlar är slitstarka och passar för tunga lyft.</p>\n<h2 data-start=\"1024\" data-end=\"1052\" style=\"text-align: left;\"><strong data-start=\"1024\" data-end=\"1050\">Olika typer av hantlar</strong></h2>\n<p data-start=\"1054\" data-end=\"1488\" style=\"text-align: left;\">Vi erbjuder hantlar i flera varianter för olika träningsbehov. Justerbara hantlar är perfekta för dig som vill variera vikten utan att behöva flera hantelpar, vilket sparar utrymme och gör träningen mer flexibel. Fasta hantlar är idealiska för snabba set och högintensiv träning, och finns i olika vikter och material. Vi har även olympiska hantlar som passar för professionella gym och avancerade styrketräningsprogram.</p>\n<h2 data-start=\"1490\" data-end=\"1528\" style=\"text-align: left;\"><strong data-start=\"1490\" data-end=\"1526\">Prisvärda och premium alternativ</strong></h2>\n<p data-start=\"1530\" data-end=\"1826\" style=\"text-align: left;\">Hos Best Of Sports hittar du både prisvärda hantlar och premiumalternativ med hög kvalitet och lång livslängd. Våra hantlar är designade för maximal hållbarhet, komfort och säkerhet. Med rätt hantlar kan du träna hela kroppen effektivt, förbättra styrka, muskelmassa och stabilitet, oavsett nivå.</p>\n<h2 data-start=\"1828\" data-end=\"1850\" style=\"text-align: left;\"><strong data-start=\"1828\" data-end=\"1848\">Kända varumärken</strong></h2>\n<p data-start=\"1852\" data-end=\"2133\" style=\"text-align: left;\">Vi erbjuder hantlar från pålitliga och välkända varumärken som TUNTURI, CHRISTOPEIT, KETTLER, HAMMER, BH Fitness, Gorilla Sports och MAXXUS. Dessa märken står för kvalitet, slitstyrka och funktionalitet, och erbjuder både justerbara och fasta hantlar i olika vikter och material.</p>\n<h2 data-start=\"2135\" data-end=\"2177\" style=\"text-align: left;\"><strong data-start=\"2135\" data-end=\"2175\">Varför köpa hantlar hos BestOfSports</strong></h2>\n<p data-start=\"2179\" data-end=\"2492\" style=\"text-align: left;\">Hos Best Of Sports kan du köpa hantlar online med snabb leverans och trygg service. Våra hantlar är byggda för att ge maximal komfort, säkerhet och funktion, oavsett om du tränar hemma eller på gym. Utforska vårt sortiment idag och hitta de perfekta hantlarna som gör styrketräningen varierad, effektiv och säker.</p>",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "hantlar",
+  "seo": {
+   "title": "Hantlar – Justerbara och fasta för alla nivåer",
+   "description": "Hantlar i olika vikter och material. Perfekta för styrketräning hemma eller på gym, från nybörjare till avancerad träning. Snabb leverans "
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "hantlar"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "hantel"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 117
+  }
+ },
+ "produkter_fore": {
+  "gid://shopify/Product/10656688341258": [
+   "ACTIVE",
+   [
+    "Hantlar",
+    "Professionell utrustning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2429.0"
+  ],
+  "gid://shopify/Product/10656688308490": [
+   "ACTIVE",
+   [
+    "Hantlar",
+    "Professionell utrustning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2222.1"
+  ],
+  "gid://shopify/Product/10656688275722": [
+   "ACTIVE",
+   [
+    "Hantlar",
+    "Professionell utrustning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2222.1"
+  ],
+  "gid://shopify/Product/10650210402570": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "6469.0"
+  ],
+  "gid://shopify/Product/10636742066442": [
+   "DRAFT",
+   [
+    "fasta hantlar",
+    "hantlar"
+   ],
+   "20.0"
+  ],
+  "gid://shopify/Product/10636741968138": [
+   "DRAFT",
+   [
+    "hantlar"
+   ],
+   "240.0"
+  ],
+  "gid://shopify/Product/10636741837066": [
+   "DRAFT",
+   [
+    "hantlar"
+   ],
+   "82.0"
+  ],
+  "gid://shopify/Product/10636739870986": [
+   "DRAFT",
+   [
+    "hantlar",
+    "price-change-job-active",
+    "sale"
+   ],
+   "3028.5"
+  ],
+  "gid://shopify/Product/10636733710602": [
+   "DRAFT",
+   [
+    "Vinylhantlar",
+    "hantlar"
+   ],
+   "54.0"
+  ],
+  "gid://shopify/Product/10636708086026": [
+   "ACTIVE",
+   [
+    "Järn",
+    "all products",
+    "hantel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1187.1"
+  ],
+  "gid://shopify/Product/10636706906378": [
+   "DRAFT",
+   [
+    "hantlar",
+    "price-change-job-active",
+    "sale"
+   ],
+   "894.6"
+  ],
+  "gid://shopify/Product/10636688621834": [
+   "DRAFT",
+   [
+    "hantlar",
+    "price-change-job-active",
+    "sale"
+   ],
+   "915.3"
+  ],
+  "gid://shopify/Product/10636675744010": [
+   "DRAFT",
+   [
+    "hantlar",
+    "håndvægte",
+    "price-change-job-active",
+    "sale"
+   ],
+   "894.6"
+  ],
+  "gid://shopify/Product/10636675449098": [
+   "DRAFT",
+   [
+    "hantlar",
+    "håndvægte",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1032.3"
+  ],
+  "gid://shopify/Product/10636674990346": [
+   "DRAFT",
+   [
+    "hantlar",
+    "håndvægte",
+    "price-change-job-active",
+    "sale"
+   ],
+   "894.6"
+  ],
+  "gid://shopify/Product/10636674695434": [
+   "DRAFT",
+   [
+    "hantlar",
+    "håndvægte",
+    "price-change-job-active",
+    "sale"
+   ],
+   "894.6"
+  ],
+  "gid://shopify/Product/10636648907018": [
+   "ACTIVE",
+   [
+    "all products",
+    "hantel",
+    "hantelstång",
+    "texter-klara"
+   ],
+   "349.0"
+  ],
+  "gid://shopify/Product/10636645630218": [
+   "DRAFT",
+   [
+    "all products",
+    "hantlar",
+    "håndvægte"
+   ],
+   "24.73"
+  ],
+  "gid://shopify/Product/10636630163722": [
+   "DRAFT",
+   [
+    "Hyrox",
+    "all products",
+    "fasta hantlar",
+    "gummi hantlar",
+    "gummihantlar",
+    "hantlar",
+    "hexagon hantlar",
+    "hexagonhantlar",
+    "hexhantlar",
+    "price-change-job-active",
+    "sale"
+   ],
+   "350.1"
+  ],
+  "gid://shopify/Product/10636614729994": [
+   "DRAFT",
+   [
+    "Gummi",
+    "fasta hantlar",
+    "gummihantlar",
+    "hantel",
+    "hantlar"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10636612960522": [
+   "DRAFT",
+   [
+    "Järn",
+    "Lukadora",
+    "fasta hantlar",
+    "hantel",
+    "hantlar",
+    "men's",
+    "mens health",
+    "vikt"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10636606570762": [
+   "DRAFT",
+   [
+    "Bundle",
+    "Hantlar",
+    "Hemmagym",
+    "Paket",
+    "Starter",
+    "Träningsbänk",
+    "price-change-job-active",
+    "sale"
+   ],
+   "3380.4"
+  ],
+  "gid://shopify/Product/10636606439690": [
+   "DRAFT",
+   [
+    "Bundle",
+    "Hantlar",
+    "Hemmagym",
+    "Mest Populär",
+    "Paket",
+    "Pro",
+    "Träningsbänk",
+    "price-change-job-active",
+    "sale"
+   ],
+   "5818.5"
+  ],
+  "gid://shopify/Product/10636606243082": [
+   "DRAFT",
+   [
+    "Bundle",
+    "Elite",
+    "Hantlar",
+    "Paket",
+    "Premium",
+    "Proffs",
+    "Träningsbänk",
+    "price-change-job-active",
+    "sale"
+   ],
+   "8741.7"
+  ],
+  "gid://shopify/Product/10636599329034": [
+   "ACTIVE",
+   [
+    "Hexagon",
+    "fasta",
+    "fasta hantlar",
+    "fasta hantlar paket",
+    "hantlar",
+    "hexagon hantlar",
+    "texter-klara"
+   ],
+   "259.0"
+  ],
+  "gid://shopify/Product/10636599099658": [
+   "ACTIVE",
+   [
+    "Hexagon",
+    "fasta hantlar",
+    "fasta hantlar paket",
+    "gummi hantlar",
+    "gummihantlar",
+    "hantlar",
+    "hexagon hantlar",
+    "hexagonhantlar",
+    "texter-klara"
+   ],
+   "499.0"
+  ],
+  "gid://shopify/Product/10636598935818": [
+   "ACTIVE",
+   [
+    "fasta hantlar",
+    "fasta hantlar paket",
+    "gummi hantlar",
+    "gummihantlar",
+    "hantlar",
+    "hexagon hantlar",
+    "hexagonhantlar",
+    "hexhantlar",
+    "texter-klara"
+   ],
+   "799.0"
+  ],
+  "gid://shopify/Product/10636598640906": [
+   "ACTIVE",
+   [
+    "fasta hantlar",
+    "gummi hantlar",
+    "gummihantlar",
+    "hantlar",
+    "hexagon hantlar",
+    "hexagonhantlar",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "827.1"
+  ],
+  "gid://shopify/Product/10636598477066": [
+   "ACTIVE",
+   [
+    "fasta hantlar",
+    "fasta hantlar paket",
+    "gummi hantlar",
+    "gummihantlar",
+    "hantlar",
+    "hexagon hantlar",
+    "hexagonhantlar",
+    "hexhantlar",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "899.1"
+  ],
+  "gid://shopify/Product/10636598247690": [
+   "ACTIVE",
+   [
+    "fasta hantlar",
+    "fasta hantlar paket",
+    "gummi hantlar",
+    "gummihantlar",
+    "hantlar",
+    "hexagon hantlar",
+    "hexagonhantlar",
+    "hexhantlar",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1169.1"
+  ],
+  "gid://shopify/Product/10611433537802": [
+   "ACTIVE",
+   [
+    "Gymstick",
+    "Hantlar",
+    "price-change-job-active",
+    "sale"
+   ],
+   "71.1"
+  ],
+  "gid://shopify/Product/10611406242058": [
+   "ACTIVE",
+   [
+    "Gymstick",
+    "Hantlar",
+    "Viktset"
+   ],
+   "319.0"
+  ],
+  "gid://shopify/Product/10593398554890": [
+   "ACTIVE",
+   [
+    "Gymstick",
+    "Hantlar"
+   ],
+   "229.0"
+  ],
+  "gid://shopify/Product/10581114880266": [
+   "DRAFT",
+   [
+    "Gymstick",
+    "Hantlar"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10581114093834": [
+   "DRAFT",
+   [
+    "Gymstick",
+    "Hantlar"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10581113536778": [
+   "DRAFT",
+   [
+    "Gymstick",
+    "Hantlar"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10581112389898": [
+   "ACTIVE",
+   [
+    "Gymstick",
+    "Hantlar",
+    "Viktset",
+    "texter-klara"
+   ],
+   "429.0"
+  ],
+  "gid://shopify/Product/10581111013642": [
+   "ACTIVE",
+   [
+    "Gymstick",
+    "Hantlar",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2969.1"
+  ],
+  "gid://shopify/Product/10581110980874": [
+   "ACTIVE",
+   [
+    "Gymstick",
+    "Hantlar",
+    "price-change-job-active",
+    "sale"
+   ],
+   "899.1"
+  ],
+  "gid://shopify/Product/10581110653194": [
+   "ACTIVE",
+   [
+    "Gymstick",
+    "Hantlar",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10581110620426": [
+   "ACTIVE",
+   [
+    "Gymstick",
+    "Hantlar",
+    "texter-klara"
+   ],
+   "89.0"
+  ],
+  "gid://shopify/Product/10581110227210": [
+   "ACTIVE",
+   [
+    "Gymstick",
+    "Hantlar",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "71.1"
+  ],
+  "gid://shopify/Product/10581102231818": [
+   "ACTIVE",
+   [
+    "Gymstick",
+    "Hantlar",
+    "Viktset",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1025.1"
+  ],
+  "gid://shopify/Product/10581102002442": [
+   "ACTIVE",
+   [
+    "Gymstick",
+    "Hantlar",
+    "Skivstänger",
+    "Viktset",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1844.1"
+  ],
+  "gid://shopify/Product/10581097283850": [
+   "DRAFT",
+   [
+    "Gymstick",
+    "Hantlar"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10581097021706": [
+   "DRAFT",
+   [
+    "Gymstick",
+    "Hantlar"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10523476623626": [
+   "ACTIVE",
+   [
+    "Hantlar",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "9489.0"
+  ],
+  "gid://shopify/Product/10515748323594": [
+   "ACTIVE",
+   [
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Mineraler",
+    "Toorx",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "539.0"
+  ],
+  "gid://shopify/Product/10515748290826": [
+   "ACTIVE",
+   [
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Mineraler",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1489.0"
+  ],
+  "gid://shopify/Product/10507432722698": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Hantlar",
+    "Professionell utrustning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4909.0"
+  ],
+  "gid://shopify/Product/10494881399050": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Pakethållare",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4159.0"
+  ],
+  "gid://shopify/Product/10494881366282": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "6849.0"
+  ],
+  "gid://shopify/Product/10494881333514": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2079.0"
+  ],
+  "gid://shopify/Product/10494881300746": [
+   "ARCHIVED",
+   [
+    "Fell",
+    "Hantlar",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2199.0"
+  ],
+  "gid://shopify/Product/10494689378570": [
+   "ACTIVE",
+   [
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Rucanor",
+    "Velomarket"
+   ],
+   "289.0"
+  ],
+  "gid://shopify/Product/10494687346954": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1489.0"
+  ],
+  "gid://shopify/Product/10480054501642": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Christopher",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Skivstång",
+    "Skivstångspaket - 30mm",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "skivstångspaket",
+    "texter-klara"
+   ],
+   "1499.0"
+  ],
+  "gid://shopify/Product/10480054403338": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Christopher",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Skivstång",
+    "Velomarket",
+    "hantelpaket",
+    "skivstångspaket"
+   ],
+   "609.0"
+  ],
+  "gid://shopify/Product/10475373429002": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "Viktset",
+    "texter-klara"
+   ],
+   "499.0"
+  ],
+  "gid://shopify/Product/10472518582538": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "hantelställ",
+    "hantelställning",
+    "price-change-job-active",
+    "sale"
+   ],
+   "4039.0"
+  ],
+  "gid://shopify/Product/10472505934090": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Justerbara hantlar",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "5229.0"
+  ],
+  "gid://shopify/Product/10472349237514": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4319.0"
+  ],
+  "gid://shopify/Product/10472349204746": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Pakethållare",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "hantelställ",
+    "price-change-job-active",
+    "sale"
+   ],
+   "3539.0"
+  ],
+  "gid://shopify/Product/10472349171978": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Pakethållare",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "hantelställ",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2929.0"
+  ],
+  "gid://shopify/Product/10472325185802": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Hantlar",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4199.0"
+  ],
+  "gid://shopify/Product/10472325153034": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Hantlar",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3189.0"
+  ],
+  "gid://shopify/Product/10472325054730": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Hantlar",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3579.0"
+  ],
+  "gid://shopify/Product/10472324956426": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Hantlar",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2279.0"
+  ],
+  "gid://shopify/Product/10472324825354": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Hantlar",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "689.0"
+  ],
+  "gid://shopify/Product/10472324792586": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Hantlar",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1809.0"
+  ],
+  "gid://shopify/Product/10472324759818": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Hantlar",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2719.0"
+  ],
+  "gid://shopify/Product/10472302870794": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Professionell utrustning",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "719.0"
+  ],
+  "gid://shopify/Product/10472302838026": [
+   "DRAFT",
+   [
+    "Fell",
+    "Hantlar",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "559.0"
+  ],
+  "gid://shopify/Product/10472302805258": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "559.0"
+  ],
+  "gid://shopify/Product/10472302772490": [
+   "DRAFT",
+   [
+    "Hantlar",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "249.0"
+  ],
+  "gid://shopify/Product/10472302477578": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1949.0"
+  ],
+  "gid://shopify/Product/10472301461770": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Mineraler",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1519.0"
+  ],
+  "gid://shopify/Product/10472301297930": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1609.0"
+  ],
+  "gid://shopify/Product/10472301035786": [
+   "ACTIVE",
+   [
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "339.0"
+  ],
+  "gid://shopify/Product/10472300773642": [
+   "DRAFT",
+   [
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket"
+   ],
+   "29.0"
+  ],
+  "gid://shopify/Product/10472298217738": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3599.0"
+  ],
+  "gid://shopify/Product/10472296775946": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Justerbara hantlar",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "5369.0"
+  ],
+  "gid://shopify/Product/10472295661834": [
+   "ACTIVE",
+   [
+    "Hantlar",
+    "Justerbara hantlar",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "6272.1"
+  ],
+  "gid://shopify/Product/10472295137546": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Mineraler",
+    "Skivstång",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "skivstångspaket",
+    "texter-klara"
+   ],
+   "1779.0"
+  ],
+  "gid://shopify/Product/10472289861898": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Skivstång",
+    "Skivstångspaket - 30mm",
+    "Tunturi",
+    "Velomarket",
+    "skivstångspaket"
+   ],
+   "639.0"
+  ],
+  "gid://shopify/Product/10472289730826": [
+   "DRAFT",
+   [
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Spokey",
+    "Velomarket"
+   ],
+   "319.0"
+  ],
+  "gid://shopify/Product/10472289173770": [
+   "DRAFT",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "hantelstång"
+   ],
+   "89.0"
+  ],
+  "gid://shopify/Product/10472283996426": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "14489.0"
+  ],
+  "gid://shopify/Product/10472283701514": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1609.0"
+  ],
+  "gid://shopify/Product/10472281768202": [
+   "ACTIVE",
+   [
+    "Gymstick",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "139.0"
+  ],
+  "gid://shopify/Product/10472281145610": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4389.0"
+  ],
+  "gid://shopify/Product/10472269447434": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Pakethållare",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "4669.0"
+  ],
+  "gid://shopify/Product/10472260141322": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Pakethållare",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "hantelställ",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2099.0"
+  ],
+  "gid://shopify/Product/10472260075786": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Skivstång",
+    "Skivstångspaket - 30mm",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "skivstångspaket",
+    "texter-klara"
+   ],
+   "1839.0"
+  ],
+  "gid://shopify/Product/10472259977482": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "Viktset",
+    "texter-klara"
+   ],
+   "609.0"
+  ],
+  "gid://shopify/Product/10472257913098": [
+   "ACTIVE",
+   [
+    "Gymstick",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "hantelstång",
+    "texter-klara"
+   ],
+   "289.0"
+  ],
+  "gid://shopify/Product/10472249065738": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2149.0"
+  ],
+  "gid://shopify/Product/10472245657866": [
+   "ACTIVE",
+   [
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "Zipro",
+    "texter-klara"
+   ],
+   "219.0"
+  ],
+  "gid://shopify/Product/10472216559882": [
+   "ACTIVE",
+   [
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "229.0"
+  ],
+  "gid://shopify/Product/10472212332810": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1529.0"
+  ],
+  "gid://shopify/Product/10472210956554": [
+   "ACTIVE",
+   [
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "169.0"
+  ],
+  "gid://shopify/Product/10471415578890": [
+   "DRAFT",
+   [
+    "Fell",
+    "Hantlar",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "439.0"
+  ],
+  "gid://shopify/Product/10471350665482": [
+   "ACTIVE",
+   [
+    "Hantlar",
+    "Professionell utrustning",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "339.0"
+  ],
+  "gid://shopify/Product/10471314489610": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Hantlar",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "229.0"
+  ],
+  "gid://shopify/Product/10471167852810": [
+   "ACTIVE",
+   [
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "179.0"
+  ],
+  "gid://shopify/Product/10471167623434": [
+   "ACTIVE",
+   [
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "59.0"
+  ],
+  "gid://shopify/Product/10471139213578": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Skivstång",
+    "Tunturi",
+    "Velomarket",
+    "fast skivstång",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "13039.0"
+  ],
+  "gid://shopify/Product/10468771463434": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Hantlar",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "3419.0"
+  ],
+  "gid://shopify/Product/10468771004682": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Hantlar",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "469.0"
+  ],
+  "gid://shopify/Product/10468752720138": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "139.0"
+  ],
+  "gid://shopify/Product/10468715036938": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "hantelställ",
+    "hantelställning",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2249.0"
+  ],
+  "gid://shopify/Product/10462848188682": [
+   "ACTIVE",
+   [
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Mineraler",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1709.0"
+  ],
+  "gid://shopify/Product/10462846943498": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "3019.0"
+  ],
+  "gid://shopify/Product/10462845829386": [
+   "ACTIVE",
+   [
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "69.0"
+  ],
+  "gid://shopify/Product/10462782554378": [
+   "DRAFT",
+   [
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2869.0"
+  ],
+  "gid://shopify/Product/10462191223050": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "309.0"
+  ],
+  "gid://shopify/Product/10462191190282": [
+   "ACTIVE",
+   [
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "709.0"
+  ]
+ }
+}

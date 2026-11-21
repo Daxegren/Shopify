@@ -1,0 +1,140 @@
+{
+ "handle": "traningsbank",
+ "id": "gid://shopify/Collection/526981431562",
+ "titel": "Träningsbänk",
+ "regel": [
+  [
+   "TAG",
+   "EQUALS",
+   "träningsbänk"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "bänk"
+  ]
+ ],
+ "huvud_regex": "träningsbänk",
+ "antal_i_kollektionen": 62,
+ "antal_koopbara_alla": 34,
+ "antal_koopbara": 33,
+ "antal_ovriga_koopbara": 1,
+ "exempel_ovriga": [
+  "Sissy Squat-bänk, Svart"
+ ],
+ "ovriga_titlar": [
+  "Sissy Squat-bänk, Svart"
+ ],
+ "ovriga_med_pris": [
+  [
+   "Sissy Squat-bänk, Svart",
+   1646.1
+  ]
+ ],
+ "marken": [
+  [
+   "Tunturi",
+   17
+  ],
+  [
+   "Hammer",
+   5
+  ],
+  [
+   "BH Fitness",
+   4
+  ],
+  [
+   "Finnlo by Hammer",
+   3
+  ],
+  [
+   "Christopeit",
+   3
+  ],
+  [
+   "Gorilla Sports Norden",
+   1
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "träningsbänk",
+   33
+  ]
+ ],
+ "pris_min": 1529.1,
+ "pris_max": 13259.0,
+ "pris_median": 4239.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": 250.0,
+ "kg_i_titlar_max": 250.0,
+ "antal_titlar_med_kg": 1,
+ "billigaste": [
+  [
+   "Träningsbänk Gorilla Sports, Rak, Svart, 250 kg Maxbelastning",
+   1529.1
+  ],
+  [
+   "Träningsbänk Tunturi CT40 Core Trainer, Hopfällbar",
+   2009.0
+  ],
+  [
+   "Träningsbänk Tunturi AB20 Magbänk, Justerbar",
+   2069.0
+  ],
+  [
+   "Träningsbänk Christopeit AB 1000",
+   2169.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Träningsbänk Hammer Bench Pullup och Dip",
+   13259.0
+  ],
+  [
+   "Träningsbänk TUNTURI Platinum - Horisontell bänkpress - Plate Loaded V-Series",
+   12349.0
+  ],
+  [
+   "Träningsbänk Tunturi Platinum V-Series",
+   9519.0
+  ]
+ ],
+ "alla_titlar": [
+  "Träningsbänk BH Fitness Optima",
+  "Träningsbänk BH Fitness Optima Press",
+  "Träningsbänk BH Fitness Weight Bench",
+  "Träningsbänk BH Fitness Weight Bench Adjustable",
+  "Träningsbänk Christopeit AB 1000",
+  "Träningsbänk Christopeit Horse Glider",
+  "Träningsbänk Christopeit TE 1000",
+  "Träningsbänk Finnlo by Hammer Ab och Back Trainer",
+  "Träningsbänk Finnlo by Hammer Tricon",
+  "Träningsbänk Finnlo by Hammer Tricon Flex, Hopfällbar",
+  "Träningsbänk Gorilla Sports, Rak, Svart, 250 kg Maxbelastning",
+  "Träningsbänk Hammer Bench Pullup och Dip",
+  "Träningsbänk Hammer Force 2.0",
+  "Träningsbänk Hammer Force 4.0, Justerbar",
+  "Träningsbänk Hammer Force 5.0, Justerbar",
+  "Träningsbänk Hammer Force 6.0",
+  "Träningsbänk TUNTURI Platinum - Horisontell bänkpress - Plate Loaded V-Series",
+  "Träningsbänk TUNTURI UB60 Utility Bench",
+  "Träningsbänk Tunturi AB20 Magbänk, Justerbar",
+  "Träningsbänk Tunturi CT40 Core Trainer, Hopfällbar",
+  "Träningsbänk Tunturi CT80 Core Trainer",
+  "Träningsbänk Tunturi Centuri UB100 Utility Bench",
+  "Träningsbänk Tunturi FB20 Flat Bench",
+  "Träningsbänk Tunturi GH10 Glute Ham Developer",
+  "Träningsbänk Tunturi MX Select, Justerbar",
+  "Träningsbänk Tunturi Platinum V-Series",
+  "Träningsbänk Tunturi UB20 Utility Bench, Hopfällbar",
+  "Träningsbänk Tunturi UB40 Utility Bench, Justerbar",
+  "Träningsbänk Tunturi UB70 Utility Bench, Justerbar",
+  "Träningsbänk Tunturi UB80 Utility Bench, Justerbar",
+  "Träningsbänk Tunturi UB90 Utility Bench Pro",
+  "Träningsbänk Tunturi WB20 Basic Weight Bench",
+  "Träningsbänk Tunturi WB60 Olympic Width Weight Bench"
+ ]
+}

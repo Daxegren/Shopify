@@ -1,0 +1,34 @@
+{
+ "traningsmaskin": {
+  "status": "verifierad",
+  "fel": []
+ },
+ "herrcyklar": {
+  "status": "verifierad",
+  "fel": []
+ },
+ "hybridcykel": {
+  "status": "verifierad",
+  "fel": []
+ },
+ "traningsbank": {
+  "status": "verifierad",
+  "fel": []
+ },
+ "grepptraning": {
+  "status": "verifierad",
+  "fel": []
+ },
+ "boxning": {
+  "status": "verifierad",
+  "fel": []
+ },
+ "racercykel": {
+  "status": "verifierad",
+  "fel": []
+ },
+ "stankskarmar-cykel": {
+  "status": "verifierad",
+  "fel": []
+ }
+}

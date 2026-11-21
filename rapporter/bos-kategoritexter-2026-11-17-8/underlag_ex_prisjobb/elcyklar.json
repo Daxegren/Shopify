@@ -1,0 +1,68 @@
+{
+ "handle": "elcyklar",
+ "id": "gid://shopify/Collection/561573069066",
+ "titel": "Elcykel",
+ "regel": [
+  [
+   "TAG",
+   "EQUALS",
+   "Elcyklar"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "Elcykel"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "electric bike"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "e-bike"
+  ]
+ ],
+ "huvud_regex": "elcykel|el-lastcykel",
+ "antal_i_kollektionen": 7,
+ "antal_koopbara_alla": 3,
+ "antal_koopbara": 0,
+ "antal_ovriga_koopbara": 3,
+ "exempel_ovriga": [
+  "Skydd för elcykelns mittmotor Basil Mid Engine Cover, svart",
+  "Baklykta AXA Juno E-Bike, 6–12 V, 80 mm",
+  "Baklykta AXA Juno E-Bike, 6–12 V, 50 mm"
+ ],
+ "ovriga_titlar": [
+  "Baklykta AXA Juno E-Bike, 6–12 V, 50 mm",
+  "Baklykta AXA Juno E-Bike, 6–12 V, 80 mm",
+  "Skydd för elcykelns mittmotor Basil Mid Engine Cover, svart"
+ ],
+ "ovriga_med_pris": [
+  [
+   "Baklykta AXA Juno E-Bike, 6–12 V, 50 mm",
+   179.0
+  ],
+  [
+   "Baklykta AXA Juno E-Bike, 6–12 V, 80 mm",
+   179.0
+  ],
+  [
+   "Skydd för elcykelns mittmotor Basil Mid Engine Cover, svart",
+   409.0
+  ]
+ ],
+ "marken": [],
+ "forsta_ord_i_titel": [],
+ "pris_min": null,
+ "pris_max": null,
+ "pris_median": null,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [],
+ "dyraste": [],
+ "alla_titlar": []
+}

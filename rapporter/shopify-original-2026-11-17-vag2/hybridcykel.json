@@ -1,0 +1,1803 @@
+{
+ "fore": {
+  "id": "gid://shopify/Collection/561572937994",
+  "handle": "hybridcykel",
+  "title": "Hybridcykel",
+  "updatedAt": "2026-11-16T06:55:52Z",
+  "descriptionHtml": "<p data-end=\"899\" data-start=\"457\" style=\"text-align: left;\">Letar du efter den bästa hybridcykeln online? Hos BestOfSports hittar du ett stort utbud av hybridcyklar som kombinerar det bästa från stadscyklar och racercyklar. En hybridcykel är det perfekta valet för dig som vill ha en mångsidig cykel som fungerar lika bra för pendling som för träning och fritid. Med sin lätta ram, smidiga växlar och bekväma sittposition får du en cykel som klarar både asfalt, grusvägar och längre turer utan problem.</p>\n<p data-end=\"1284\" data-start=\"901\" style=\"text-align: left;\">En hybridcykel är skapad för dig som vill ha allt i ett. Den ger dig den effektiva känslan från en sportcykel men med den komfort som krävs för vardagsbruk. Du kan enkelt använda den till jobbet på vardagarna och till längre motionspass på helgen. Många uppskattar också hybridcykeln som ett miljövänligt alternativ till bilen – perfekt för dig som vill leva mer aktivt och hållbart.</p>\n<p data-end=\"1874\" data-start=\"1286\" style=\"text-align: left;\">När du ska köpa hybridcykel är det viktigt att fundera över vilket användningsområde som passar dig bäst. En sportigare modell passar bra för dig som vill träna och cykla längre sträckor, medan en mer komfortinriktad variant ger extra bekvämlighet för vardagscykling och pendling. Hos BestOfSports hittar du modeller med olika växelsystem, ramstorlekar och däcktyper så att du enkelt kan välja den cykel som passar din livsstil och körstil bäst. Du kan även utrusta din cykel med tillbehör som pakethållare, cykelkorg, stöd, stänkskärmar och belysning för en komplett och praktisk helhet.</p>\n<h2 data-end=\"1909\" data-start=\"1876\" style=\"text-align: left;\"><strong data-end=\"1909\" data-start=\"1876\">Hybridcyklar för herr och dam</strong></h2>\n<p data-end=\"2363\" data-start=\"1911\" style=\"text-align: left;\">Våra hybridcyklar finns i modeller för både herr och dam och är noggrant utformade för att ge optimal balans mellan prestanda och komfort. En hybridcykel för herr erbjuder ofta en sportigare körställning med fokus på fart och effektivitet, medan en hybridcykel för dam ger en mer upprätt position och extra komfort för längre turer. Oavsett modell får du en cykel som levererar pålitlig prestanda och smidig hantering varje gång du sätter dig i sadeln.</p>\n<h2 data-end=\"2388\" data-start=\"2365\" style=\"text-align: left;\"><strong data-end=\"2388\" data-start=\"2365\">Välj rätt varumärke</strong></h2>\n<p data-end=\"2919\" data-start=\"2390\" style=\"text-align: left;\">Hos BestOfSports hittar du hybridcyklar från välkända varumärken som Giant, Liv, Kona och Romet. Dessa märken står för hög kvalitet, modern design och innovativa lösningar. Giant och Liv erbjuder lättviktsramar och pålitliga komponenter för både nybörjare och erfarna cyklister, medan Kona är känt för sina robusta och sportiga modeller. Romet erbjuder prisvärda alternativ utan att kompromissa med prestanda eller komfort. Oavsett vilket märke du väljer kan du vara säker på att du får en cykel byggd för många mil av körglädje.</p>\n<h2 data-end=\"2950\" data-start=\"2921\" style=\"text-align: left;\"><strong data-end=\"2950\" data-start=\"2921\">Varför välja BestOfSports</strong></h2>\n<p data-end=\"3361\" data-start=\"2952\" style=\"text-align: left;\">Hos Best Of Sports kan du köpa hybridcyklar online till bra priser med snabb leverans och trygg service. Vi erbjuder cyklar för alla typer av cyklister – från nybörjare till erfarna entusiaster. Vårt sortiment är noggrant utvalt för att ge dig den bästa kombinationen av kvalitet, komfort och prestanda. En hybridcykel från BestOfSports gör din vardag enklare, din träning roligare och dina äventyr ännu bättre.</p>\n<p data-end=\"3616\" data-start=\"3363\" style=\"text-align: left;\">Utforska vårt sortiment av hybridcyklar redan idag och hitta din nya favoritcykel. Hos BestOfSports handlar du tryggt, smidigt och alltid med fokus på kvalitet och kundnöjdhet. Köp din hybridcykel online och upplev friheten med en cykel som klarar allt.</p>",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "hybridcykel",
+  "seo": {
+   "title": "Hybridcyklar | Köp hybridcykel för herr & dam online",
+   "description": "Upptäck hybridcyklar från Giant, Liv, Kona och Romet. Köp hybridcykel för pendling, träning och fritid online med komfort och kvalitet. Snabb leverans."
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "hybrid"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "hybridcykel"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 135
+  }
+ },
+ "produkter_fore": {
+  "gid://shopify/Product/10472227275018": [
+   "DRAFT",
+   [
+    "Barncykel",
+    "Barnstolar",
+    "Hybridcykel",
+    "Urban Iki",
+    "Velomarket"
+   ],
+   "239.0"
+  ],
+  "gid://shopify/Product/10470904987914": [
+   "DRAFT",
+   [
+    "AXA",
+    "Hybridcykel",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "199.0"
+  ],
+  "gid://shopify/Product/10708319633674": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "13040.1"
+  ],
+  "gid://shopify/Product/10708319502602": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "14589.0"
+  ],
+  "gid://shopify/Product/10708319371530": [
+   "ACTIVE",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Hybridcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "29179.0"
+  ],
+  "gid://shopify/Product/10682106052874": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "11798.1"
+  ],
+  "gid://shopify/Product/10682105987338": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "11798.1"
+  ],
+  "gid://shopify/Product/10682105626890": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "13089.0"
+  ],
+  "gid://shopify/Product/10682105561354": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "13089.0"
+  ],
+  "gid://shopify/Product/10682105528586": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "13839.0"
+  ],
+  "gid://shopify/Product/10656692175114": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Romet",
+    "Velomarket",
+    "hybridcykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "6539.0"
+  ],
+  "gid://shopify/Product/10656692044042": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "12599.1"
+  ],
+  "gid://shopify/Product/10656691912970": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "17789.0"
+  ],
+  "gid://shopify/Product/10656690438410": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "sammanslagen"
+   ],
+   "17789.0"
+  ],
+  "gid://shopify/Product/10656690372874": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "16289.1"
+  ],
+  "gid://shopify/Product/10650208862474": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "16849.0"
+  ],
+  "gid://shopify/Product/10650208796938": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "12365.1"
+  ],
+  "gid://shopify/Product/10635810504970": [
+   "DRAFT",
+   [
+    "Cyklar",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "15425.1"
+  ],
+  "gid://shopify/Product/10624088441098": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Hybridcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "57549.0"
+  ],
+  "gid://shopify/Product/10624083296522": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "10239.0"
+  ],
+  "gid://shopify/Product/10593839022346": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Hybridcykel",
+    "På beställning",
+    "TENWAYS",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "35909.0"
+  ],
+  "gid://shopify/Product/10589714088202": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Hybridcykel",
+    "Liv",
+    "Mountainbike",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "47459.0"
+  ],
+  "gid://shopify/Product/10588453208330": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "32408.1"
+  ],
+  "gid://shopify/Product/10588452946186": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "36845.1"
+  ],
+  "gid://shopify/Product/10588452225290": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "74529.0"
+  ],
+  "gid://shopify/Product/10588452192522": [
+   "ACTIVE",
+   [
+    "Elcykel",
+    "Elcyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "76184.1"
+  ],
+  "gid://shopify/Product/10588452159754": [
+   "ACTIVE",
+   [
+    "Elcykel",
+    "Elcyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "68039.0"
+  ],
+  "gid://shopify/Product/10588447605002": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Romet",
+    "Velomarket",
+    "hybridcykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "8319.0"
+  ],
+  "gid://shopify/Product/10581606629642": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "17531.1"
+  ],
+  "gid://shopify/Product/10572663816458": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Crosstrainers",
+    "Hybridcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "7829.0"
+  ],
+  "gid://shopify/Product/10572593824010": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2379.0"
+  ],
+  "gid://shopify/Product/10565562564874": [
+   "DRAFT",
+   [
+    "Giant",
+    "Hybridcykel",
+    "Sadel",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "649.0"
+  ],
+  "gid://shopify/Product/10561340211466": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "12365.1"
+  ],
+  "gid://shopify/Product/10554354401546": [
+   "DRAFT",
+   [
+    "Hybridcykel",
+    "Tillbehör",
+    "Urban Iki",
+    "Velomarket"
+   ],
+   "469.0"
+  ],
+  "gid://shopify/Product/10554354041098": [
+   "DRAFT",
+   [
+    "Hybridcykel",
+    "Look",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "559.0"
+  ],
+  "gid://shopify/Product/10548234191114": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Pakethållare",
+    "Tillbehör",
+    "Urban Iki",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1779.0"
+  ],
+  "gid://shopify/Product/10548234158346": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Pakethållare",
+    "Tillbehör",
+    "Urban Iki",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1779.0"
+  ],
+  "gid://shopify/Product/10548234125578": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Pakethållare",
+    "Tillbehör",
+    "Urban Iki",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1939.0"
+  ],
+  "gid://shopify/Product/10541372113162": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "9674.1"
+  ],
+  "gid://shopify/Product/10541212238090": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Look",
+    "Tillbehör",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2059.0"
+  ],
+  "gid://shopify/Product/10541206536458": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Pakethållare",
+    "Tillbehör",
+    "Urban Iki",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1649.0"
+  ],
+  "gid://shopify/Product/10541206143242": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Pakethållare",
+    "Tillbehör",
+    "Urban Iki",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1779.0"
+  ],
+  "gid://shopify/Product/10526100226314": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Romet",
+    "Velomarket",
+    "hybridcykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "8396.1"
+  ],
+  "gid://shopify/Product/10523488387338": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "17531.1"
+  ],
+  "gid://shopify/Product/10523468759306": [
+   "DRAFT",
+   [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "19574.1"
+  ],
+  "gid://shopify/Product/10515754516746": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Rideoo",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2959.0"
+  ],
+  "gid://shopify/Product/10515747668234": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Konditionsträning & Fitness",
+    "Löpband",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "10239.0"
+  ],
+  "gid://shopify/Product/10515744489738": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2309.0"
+  ],
+  "gid://shopify/Product/10515744424202": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2389.0"
+  ],
+  "gid://shopify/Product/10515744030986": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Rideoo",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2959.0"
+  ],
+  "gid://shopify/Product/10515741245706": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2399.0"
+  ],
+  "gid://shopify/Product/10507443208458": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Romet",
+    "Velomarket",
+    "hybridcykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "7739.0"
+  ],
+  "gid://shopify/Product/10507289755914": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Romet",
+    "Velomarket",
+    "hybridcykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "11129.0"
+  ],
+  "gid://shopify/Product/10507259478282": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Hybridcykel",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "8929.0"
+  ],
+  "gid://shopify/Product/10507259412746": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Hybridcykel",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "8929.0"
+  ],
+  "gid://shopify/Product/10502527025418": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "14209.0"
+  ],
+  "gid://shopify/Product/10494944182538": [
+   "ACTIVE",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Hybridcykel",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "8779.0"
+  ],
+  "gid://shopify/Product/10494830903562": [
+   "ACTIVE",
+   [
+    "Barncykel",
+    "Barnstol",
+    "Hybridcykel",
+    "Tillbehör",
+    "Urban Iki",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1719.0"
+  ],
+  "gid://shopify/Product/10494830870794": [
+   "ARCHIVED",
+   [
+    "Barncykel",
+    "Hybridcykel",
+    "Tillbehör",
+    "Urban Iki",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1719.0"
+  ],
+  "gid://shopify/Product/10494754586890": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Pakethållare",
+    "Tillbehör",
+    "Urban Iki",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1779.0"
+  ],
+  "gid://shopify/Product/10494699176202": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Rideoo",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "3539.0"
+  ],
+  "gid://shopify/Product/10494689345802": [
+   "ACTIVE",
+   [
+    "Cykeldelar",
+    "Hybridcykel",
+    "Look",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1749.0"
+  ],
+  "gid://shopify/Product/10494689280266": [
+   "ACTIVE",
+   [
+    "Cykeldelar",
+    "Hybridcykel",
+    "Look",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1749.0"
+  ],
+  "gid://shopify/Product/10487987503370": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Romet",
+    "Velomarket",
+    "cykel",
+    "hybridcykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "11209.0"
+  ],
+  "gid://shopify/Product/10475419730186": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Cykellås",
+    "Hybridcykel",
+    "Kedja",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "599.0"
+  ],
+  "gid://shopify/Product/10475402330378": [
+   "ACTIVE",
+   [
+    "Barnstolar",
+    "Hybridcykel",
+    "Urban Iki",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "469.0"
+  ],
+  "gid://shopify/Product/10475396956426": [
+   "ACTIVE",
+   [
+    "Barnstolar",
+    "Hybridcykel",
+    "Urban Iki",
+    "Velomarket"
+   ],
+   "139.0"
+  ],
+  "gid://shopify/Product/10474079060234": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "12649.0"
+  ],
+  "gid://shopify/Product/10472434958602": [
+   "DRAFT",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Hybridcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "16676.1"
+  ],
+  "gid://shopify/Product/10472335212810": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "12329.0"
+  ],
+  "gid://shopify/Product/10472333574410": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Romet",
+    "Velomarket",
+    "hybridcykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "8036.1"
+  ],
+  "gid://shopify/Product/10472333508874": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Romet",
+    "Velomarket",
+    "hybridcykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "13159.0"
+  ],
+  "gid://shopify/Product/10472333181194": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "9917.1"
+  ],
+  "gid://shopify/Product/10472332886282": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Rideoo",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3249.0"
+  ],
+  "gid://shopify/Product/10472332230922": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Hybridcykel",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "8929.0"
+  ],
+  "gid://shopify/Product/10472332001546": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Rideoo",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3249.0"
+  ],
+  "gid://shopify/Product/10472331968778": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Rideoo",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2959.0"
+  ],
+  "gid://shopify/Product/10472331804938": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Rideoo",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2959.0"
+  ],
+  "gid://shopify/Product/10472330723594": [
+   "DRAFT",
+   [
+    "Barncykel",
+    "Barnstol",
+    "Hybridcykel",
+    "Mountainbike",
+    "Tillbehör",
+    "Urban Iki",
+    "Velomarket"
+   ],
+   "299.0"
+  ],
+  "gid://shopify/Product/10472323645706": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "20819.0"
+  ],
+  "gid://shopify/Product/10472296251658": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "62576.1"
+  ],
+  "gid://shopify/Product/10472295956746": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "63369.0"
+  ],
+  "gid://shopify/Product/10472295727370": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "16529.0"
+  ],
+  "gid://shopify/Product/10472294449418": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Rideoo",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2959.0"
+  ],
+  "gid://shopify/Product/10472285536522": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Rideoo",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2959.0"
+  ],
+  "gid://shopify/Product/10472285208842": [
+   "ACTIVE",
+   [
+    "Barnstol",
+    "Barnstolar",
+    "Hybridcykel",
+    "Urban Iki",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1509.0"
+  ],
+  "gid://shopify/Product/10472285077770": [
+   "ARCHIVED",
+   [
+    "Hybridcykel",
+    "Rideoo",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "3539.0"
+  ],
+  "gid://shopify/Product/10472284619018": [
+   "ACTIVE",
+   [
+    "Barnstolar",
+    "Hybridcykel",
+    "Urban Iki",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "469.0"
+  ],
+  "gid://shopify/Product/10472284487946": [
+   "ACTIVE",
+   [
+    "Barnstol",
+    "Barnstolar",
+    "Hybridcykel",
+    "Urban Iki",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1589.0"
+  ],
+  "gid://shopify/Product/10472281932042": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Hybridcykel",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "6549.0"
+  ],
+  "gid://shopify/Product/10472269840650": [
+   "ARCHIVED",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Hybridcykel",
+    "Liv",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "8659.0"
+  ],
+  "gid://shopify/Product/10472258502922": [
+   "ARCHIVED",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Hybridcykel",
+    "Taboo",
+    "Tabou",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "7622.1"
+  ],
+  "gid://shopify/Product/10472258273546": [
+   "DRAFT",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "21149.1"
+  ],
+  "gid://shopify/Product/10472258240778": [
+   "DRAFT",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "Hybridcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "42380.1"
+  ],
+  "gid://shopify/Product/10472258109706": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Hybridcykel",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "9669.0"
+  ],
+  "gid://shopify/Product/10472258011402": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Hybridcykel",
+    "På beställning",
+    "Romet",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "6695.1"
+  ],
+  "gid://shopify/Product/10472257323274": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Liv",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "379.0"
+  ],
+  "gid://shopify/Product/10472257126666": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Hybridcykel",
+    "Velomarket",
+    "Victoria",
+    "price-change-job-active",
+    "sale"
+   ],
+   "32409.0"
+  ],
+  "gid://shopify/Product/10472256831754": [
+   "ACTIVE",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Hybridcykel",
+    "Liv",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "8329.0"
+  ],
+  "gid://shopify/Product/10472251851018": [
+   "ACTIVE",
+   [
+    "Basil",
+    "Cykelväska",
+    "Hybridcykel",
+    "Tillbehör",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1579.0"
+  ],
+  "gid://shopify/Product/10472251556106": [
+   "DRAFT",
+   [
+    "Cykeldelar",
+    "Giant",
+    "Hybridcykel",
+    "Velomarket",
+    "pedals"
+   ],
+   "259.0"
+  ],
+  "gid://shopify/Product/10472251261194": [
+   "ACTIVE",
+   [
+    "Basil",
+    "Cykelväska",
+    "Hybridcykel",
+    "Tillbehör",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1529.0"
+  ],
+  "gid://shopify/Product/10472249524490": [
+   "ACTIVE",
+   [
+    "Basil",
+    "Cykelväska",
+    "Hybridcykel",
+    "Tillbehör",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1549.0"
+  ],
+  "gid://shopify/Product/10472249426186": [
+   "ARCHIVED",
+   [
+    "Cykeldelar",
+    "Hybridcykel",
+    "Look",
+    "Velomarket",
+    "pedals",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1909.0"
+  ],
+  "gid://shopify/Product/10472247132426": [
+   "ACTIVE",
+   [
+    "Barncykel",
+    "Barnstol",
+    "Hybridcykel",
+    "Tillbehör",
+    "Urban Iki",
+    "Velomarket"
+   ],
+   "269.0"
+  ],
+  "gid://shopify/Product/10472245887242": [
+   "ARCHIVED",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Hybridcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "8027.1"
+  ],
+  "gid://shopify/Product/10472245199114": [
+   "ACTIVE",
+   [
+    "Hebie",
+    "Hybridcykel",
+    "Stänkskärm",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "109.0"
+  ],
+  "gid://shopify/Product/10472238416138": [
+   "ACTIVE",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Hybridcykel",
+    "Liv",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "13269.0"
+  ],
+  "gid://shopify/Product/10472236679434": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Romet",
+    "Velomarket",
+    "hybridcykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "10129.0"
+  ],
+  "gid://shopify/Product/10472235860234": [
+   "DRAFT",
+   [
+    "AXA",
+    "Cykellampor",
+    "Hybridcykel",
+    "Velomarket"
+   ],
+   "159.0"
+  ],
+  "gid://shopify/Product/10472224882954": [
+   "ACTIVE",
+   [
+    "Basil",
+    "Cykelväska",
+    "Hybridcykel",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "739.0"
+  ],
+  "gid://shopify/Product/10472222425354": [
+   "ACTIVE",
+   [
+    "Basil",
+    "Cykelväska",
+    "Hybridcykel",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "649.0"
+  ],
+  "gid://shopify/Product/10471429898506": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Rideoo",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3249.0"
+  ],
+  "gid://shopify/Product/10471083999498": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "17018.1"
+  ],
+  "gid://shopify/Product/10471072006410": [
+   "ARCHIVED",
+   [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "21699.0"
+  ],
+  "gid://shopify/Product/10470937002250": [
+   "ACTIVE",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Hybridcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "7811.1"
+  ],
+  "gid://shopify/Product/10470935888138": [
+   "ARCHIVED",
+   [
+    "Damcyklar",
+    "Hybridcykel",
+    "Liv",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "8109.0"
+  ],
+  "gid://shopify/Product/10470929105162": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "SOKE",
+    "Sparkcyklar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2339.0"
+  ],
+  "gid://shopify/Product/10470923075850": [
+   "DRAFT",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Giant",
+    "Hybridcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "24137.1"
+  ],
+  "gid://shopify/Product/10470915539210": [
+   "DRAFT",
+   [
+    "Cyklar",
+    "Elcykel",
+    "Hybridcykel",
+    "Kona",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "38600.1"
+  ],
+  "gid://shopify/Product/10470912753930": [
+   "ACTIVE",
+   [
+    "AXA",
+    "Hybridcykel",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "179.0"
+  ],
+  "gid://shopify/Product/10470896271626": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "11199.0"
+  ],
+  "gid://shopify/Product/10468767334666": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "14209.0"
+  ],
+  "gid://shopify/Product/10468767170826": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "16631.1"
+  ],
+  "gid://shopify/Product/10468736499978": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Elcykel",
+    "Giant",
+    "Hybridcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "27188.1"
+  ],
+  "gid://shopify/Product/10462832230666": [
+   "ACTIVE",
+   [
+    "Damcyklar",
+    "Excelsior",
+    "Hybridcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "10889.1"
+  ],
+  "gid://shopify/Product/10462795366666": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Romet",
+    "Velomarket",
+    "hybridcykel",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "10359.0"
+  ],
+  "gid://shopify/Product/10462777377034": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Crosstrainers",
+    "Hybridcykel",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "5089.0"
+  ],
+  "gid://shopify/Product/10462773838090": [
+   "ACTIVE",
+   [
+    "Damcykel",
+    "Damcyklar",
+    "Hybridcykel",
+    "Liv",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "8329.0"
+  ],
+  "gid://shopify/Product/10462769643786": [
+   "DRAFT",
+   [
+    "Giant",
+    "Hybridcykel",
+    "Sadel",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "579.0"
+  ],
+  "gid://shopify/Product/10462190010634": [
+   "DRAFT",
+   [
+    "Cyklar",
+    "Hybridcykel",
+    "Kona",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "13625.1"
+  ],
+  "gid://shopify/Product/10460947087626": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "16549.0"
+  ],
+  "gid://shopify/Product/10460947054858": [
+   "ACTIVE",
+   [
+    "Cyklar",
+    "Giant",
+    "Hybridcykel",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "16809.0"
+  ],
+  "gid://shopify/Product/10411887165706": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Tillbehör",
+    "Urban Iki",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "269.0"
+  ],
+  "gid://shopify/Product/10411725652234": [
+   "ACTIVE",
+   [
+    "Hybridcykel",
+    "Velomarket",
+    "Vinterutrustning",
+    "texter-klara"
+   ],
+   "139.0"
+  ]
+ }
+}

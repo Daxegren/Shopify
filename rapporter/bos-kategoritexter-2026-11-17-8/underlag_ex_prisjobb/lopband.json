@@ -1,0 +1,59 @@
+{
+ "handle": "lopband",
+ "id": "gid://shopify/Collection/526983954698",
+ "titel": "Löpband",
+ "regel": [
+  [
+   "TAG",
+   "EQUALS",
+   "löpband"
+  ]
+ ],
+ "huvud_regex": "löpband(?!s)",
+ "antal_i_kollektionen": 14,
+ "antal_koopbara_alla": 4,
+ "antal_koopbara": 0,
+ "antal_ovriga_koopbara": 4,
+ "exempel_ovriga": [
+  "Treadmill Lubrication",
+  "Silikonspray Hammer för Löpband, 400 ml",
+  "Löpbandsolja Tunturi T-Lube 200 ml",
+  "Löpbandsolja Toorx Lubetech, 200 ml"
+ ],
+ "ovriga_titlar": [
+  "Löpbandsolja Toorx Lubetech, 200 ml",
+  "Löpbandsolja Tunturi T-Lube 200 ml",
+  "Silikonspray Hammer för Löpband, 400 ml",
+  "Treadmill Lubrication"
+ ],
+ "ovriga_med_pris": [
+  [
+   "Löpbandsolja Toorx Lubetech, 200 ml",
+   69.0
+  ],
+  [
+   "Löpbandsolja Tunturi T-Lube 200 ml",
+   229.0
+  ],
+  [
+   "Silikonspray Hammer för Löpband, 400 ml",
+   219.0
+  ],
+  [
+   "Treadmill Lubrication",
+   249.0
+  ]
+ ],
+ "marken": [],
+ "forsta_ord_i_titel": [],
+ "pris_min": null,
+ "pris_max": null,
+ "pris_median": null,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [],
+ "dyraste": [],
+ "alla_titlar": []
+}

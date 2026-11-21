@@ -1,0 +1,677 @@
+{
+ "fore": {
+  "id": "gid://shopify/Collection/526982086922",
+  "handle": "kettlebell",
+  "title": "Kettlebell",
+  "updatedAt": "2026-11-16T06:59:24Z",
+  "descriptionHtml": "<p data-start=\"333\" data-end=\"718\" style=\"text-align: left;\">Letar du efter kettlebells för effektiv och funktionell träning hemma eller på gymmet? Hos Best Of Sports hittar du ett brett utbud av kettlebells i olika material, vikter och modeller som passar alla nivåer och träningsmål. Kettlebells är perfekta för styrketräning, kondition och explosivitet, och används för övningar som svingar, snatch, clean &amp; press, goblet squat och många fler.</p>\n<p data-start=\"720\" data-end=\"1108\" style=\"text-align: left;\">När du ska köpa en kettlebell är det viktigt att tänka på vilken typ av träning du vill utföra och vilket material som passar dig bäst. Vill du ha <strong data-start=\"867\" data-end=\"893\">justerbara kettlebells</strong> som sparar plats och ger flexibilitet, eller fasta kettlebells i gummi eller järn för hög slitstyrka? Fundera även på viktintervall, greppvänlighet och om kettlebellen ska användas hemma, på gymmet eller utomhus.</p>\n<h2 data-start=\"1110\" data-end=\"1142\" style=\"text-align: left;\"><strong data-start=\"1110\" data-end=\"1140\">Olika typer av kettlebells</strong></h2>\n<p data-start=\"1144\" data-end=\"1582\" style=\"text-align: left;\">Vi erbjuder kettlebells i flera varianter för olika träningsbehov. Justerbara kettlebells låter dig ändra vikten snabbt, vilket är perfekt för intervallträning eller varierad styrketräning. Fasta kettlebells finns i gummi, järn och vinyl och passar både nybörjare och avancerade atleter. Gummikettlebells skyddar golv och är tysta vid användning, medan järnkettlebells är slitstarka och perfekta för tuffa pass och tung träning.</p>\n<h2 data-start=\"1584\" data-end=\"1622\" style=\"text-align: left;\"><strong data-start=\"1584\" data-end=\"1620\">Prisvärda och premium alternativ</strong></h2>\n<p data-start=\"1624\" data-end=\"1933\" style=\"text-align: left;\">Hos BestOfSports hittar du både prisvärda kettlebells och premiumalternativ med hög kvalitet och lång hållbarhet. Våra kettlebells är designade för maximal komfort, grepp och säkerhet. Med rätt kettlebell kan du träna hela kroppen effektivt, förbättra styrka, kondition och stabilitet, oavsett träningsnivå.</p>\n<h2 data-start=\"1935\" data-end=\"1957\" style=\"text-align: left;\"><strong data-start=\"1935\" data-end=\"1955\">Kända varumärken</strong></h2>\n<p data-start=\"1959\" data-end=\"2236\" style=\"text-align: left;\">Vi erbjuder kettlebells från pålitliga varumärken som TUNTURI, CHRISTOPEIT, KETTLER, HAMMER, BH Fitness, Gorilla Sports och MAXXUS. Dessa märken står för kvalitet, hållbarhet och funktionalitet, och erbjuder kettlebells som passar både nybörjare och avancerade styrketränare.</p>\n<h2 data-start=\"2238\" data-end=\"2284\" style=\"text-align: left;\"><strong data-start=\"2238\" data-end=\"2282\">Varför köpa kettlebells hos Best Of Sports</strong></h2>\n<p data-start=\"2286\" data-end=\"2603\" style=\"text-align: left;\">Hos Best Of Sports kan du köpa kettlebells online med snabb leverans och trygg service. Våra kettlebells är byggda för att ge maximal säkerhet, komfort och funktion, oavsett om du tränar hemma eller på gym. Utforska vårt sortiment idag och hitta de perfekta kettlebells som gör träningen effektiv, varierad och rolig.</p>",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "kettlebell-2",
+  "seo": {
+   "title": "Kettlebells – Hitta rätt vikt för styrka och kondition - 2-50kg",
+   "description": "Upptäck kettlebells i olika vikter och material. Perfekta för styrketräning, funktionell träning och kondition hemma eller på gym. Snabb leverans - Stort utbud."
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "kettlebell"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "kettlebells"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 54
+  }
+ },
+ "produkter_fore": {
+  "gid://shopify/Product/10650210468106": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "409.0"
+  ],
+  "gid://shopify/Product/10650210435338": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2149.0"
+  ],
+  "gid://shopify/Product/10650169475338": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1538.1"
+  ],
+  "gid://shopify/Product/10636746359050": [
+   "ACTIVE",
+   [
+    "Kettlebells",
+    "kettlebellstativ",
+    "kettlebellställ",
+    "price-change-job-active",
+    "sale",
+    "stativ",
+    "ställ",
+    "texter-klara",
+    "viktställ"
+   ],
+   "2609.1"
+  ],
+  "gid://shopify/Product/10636745179402": [
+   "DRAFT",
+   [
+    "Kettlebell",
+    "Kettlebell Järn",
+    "kettlebells"
+   ],
+   "653.0"
+  ],
+  "gid://shopify/Product/10636741607690": [
+   "DRAFT",
+   [
+    "Kettlebell",
+    "kettle",
+    "kettlebells",
+    "price-change-job-active",
+    "sale"
+   ],
+   "206.1"
+  ],
+  "gid://shopify/Product/10636713427210": [
+   "DRAFT",
+   [
+    "Kettlebell",
+    "Kettlebell Järn",
+    "Kettlebells"
+   ],
+   "275.0"
+  ],
+  "gid://shopify/Product/10636695208202": [
+   "DRAFT",
+   [
+    "Kettlebell",
+    "Kettlebell Järn",
+    "Kettlebells"
+   ],
+   "123.0"
+  ],
+  "gid://shopify/Product/10636629737738": [
+   "ARCHIVED",
+   [
+    "Kettlebell",
+    "Kettlebell Järn",
+    "Kettlebells"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10636614631690": [
+   "DRAFT",
+   [
+    "Kettlebell",
+    "Kettlebell Järn",
+    "Kettlebells",
+    "Lukadora",
+    "crossfit",
+    "kettle",
+    "womens health"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10636612829450": [
+   "DRAFT",
+   [
+    "Järn",
+    "Kettlebell",
+    "Kettlebell Järn",
+    "Kettlebells",
+    "Lukadora",
+    "crosstrainer",
+    "funktionell",
+    "funktionellt",
+    "kettle",
+    "mens health"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10636612632842": [
+   "DRAFT",
+   [
+    "Järn",
+    "Kettlebell",
+    "Kettlebell Järn",
+    "Kettlebells",
+    "Lukadora",
+    "crossfit",
+    "funktionell",
+    "funktionellt",
+    "mens health"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10588451635466": [
+   "ACTIVE",
+   [
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "sync-skydd",
+    "texter-klara"
+   ],
+   "1457.1"
+  ],
+  "gid://shopify/Product/10588446589194": [
+   "ACTIVE",
+   [
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "sync-skydd",
+    "texter-klara"
+   ],
+   "439.0"
+  ],
+  "gid://shopify/Product/10581114355978": [
+   "DRAFT",
+   [
+    "Gymstick",
+    "Kettlebells"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10581112553738": [
+   "ACTIVE",
+   [
+    "Gymstick",
+    "Kettlebells",
+    "texter-klara"
+   ],
+   "99.0"
+  ],
+  "gid://shopify/Product/10581111046410": [
+   "ACTIVE",
+   [
+    "Gymstick",
+    "Kettlebells",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1349.1"
+  ],
+  "gid://shopify/Product/10581110292746": [
+   "ACTIVE",
+   [
+    "Gymstick",
+    "Kettlebells",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "251.1"
+  ],
+  "gid://shopify/Product/10581108162826": [
+   "ACTIVE",
+   [
+    "Gymstick",
+    "Kettlebells",
+    "texter-klara"
+   ],
+   "79.0"
+  ],
+  "gid://shopify/Product/10581105934602": [
+   "ACTIVE",
+   [
+    "Gymstick",
+    "Kettlebells",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "224.1"
+  ],
+  "gid://shopify/Product/10581105574154": [
+   "ACTIVE",
+   [
+    "Gymstick",
+    "Kettlebells",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "719.1"
+  ],
+  "gid://shopify/Product/10581097218314": [
+   "DRAFT",
+   [
+    "Gymstick",
+    "Kettlebells"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10548292649226": [
+   "ACTIVE",
+   [
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Mineraler",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "199.0"
+  ],
+  "gid://shopify/Product/10548235862282": [
+   "ACTIVE",
+   [
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "299.0"
+  ],
+  "gid://shopify/Product/10548235403530": [
+   "ACTIVE",
+   [
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "259.0"
+  ],
+  "gid://shopify/Product/10541372801290": [
+   "ACTIVE",
+   [
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Mineraler",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "389.0"
+  ],
+  "gid://shopify/Product/10507306926346": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1799.0"
+  ],
+  "gid://shopify/Product/10494672929034": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "79.0"
+  ],
+  "gid://shopify/Product/10480054599946": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Christopher",
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Velomarket"
+   ],
+   "289.0"
+  ],
+  "gid://shopify/Product/10480054567178": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Christopher",
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "599.0"
+  ],
+  "gid://shopify/Product/10480054534410": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Christopher",
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "159.0"
+  ],
+  "gid://shopify/Product/10475374543114": [
+   "ARCHIVED",
+   [
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "109.0"
+  ],
+  "gid://shopify/Product/10475372642570": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1599.0"
+  ],
+  "gid://shopify/Product/10472329380106": [
+   "ACTIVE",
+   [
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1959.0"
+  ],
+  "gid://shopify/Product/10472328823050": [
+   "ACTIVE",
+   [
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1829.0"
+  ],
+  "gid://shopify/Product/10472328790282": [
+   "ACTIVE",
+   [
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2099.0"
+  ],
+  "gid://shopify/Product/10472328757514": [
+   "ACTIVE",
+   [
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1969.0"
+  ],
+  "gid://shopify/Product/10472328462602": [
+   "ACTIVE",
+   [
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1859.0"
+  ],
+  "gid://shopify/Product/10472327905546": [
+   "ACTIVE",
+   [
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2219.0"
+  ],
+  "gid://shopify/Product/10472327840010": [
+   "ARCHIVED",
+   [
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1909.0"
+  ],
+  "gid://shopify/Product/10472325349642": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1475.1"
+  ],
+  "gid://shopify/Product/10472315126026": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "719.0"
+  ],
+  "gid://shopify/Product/10472300052746": [
+   "ACTIVE",
+   [
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "710.1"
+  ],
+  "gid://shopify/Product/10472299561226": [
+   "ACTIVE",
+   [
+    "Kettlebell",
+    "Kettlebell Järn",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "779.0"
+  ],
+  "gid://shopify/Product/10472299462922": [
+   "ACTIVE",
+   [
+    "Kettlebell",
+    "Kettlebell Järn",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "789.0"
+  ],
+  "gid://shopify/Product/10472278720778": [
+   "ACTIVE",
+   [
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1619.0"
+  ],
+  "gid://shopify/Product/10472260927754": [
+   "ACTIVE",
+   [
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1331.1"
+  ],
+  "gid://shopify/Product/10472260632842": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2089.0"
+  ],
+  "gid://shopify/Product/10472212889866": [
+   "ARCHIVED",
+   [
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "359.0"
+  ],
+  "gid://shopify/Product/10470925238538": [
+   "ACTIVE",
+   [
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket"
+   ],
+   "349.0"
+  ],
+  "gid://shopify/Product/10462836490506": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "799.0"
+  ],
+  "gid://shopify/Product/10430254809354": [
+   "ACTIVE",
+   [
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1729.0"
+  ],
+  "gid://shopify/Product/10411923276042": [
+   "ACTIVE",
+   [
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "779.0"
+  ],
+  "gid://shopify/Product/10406816186634": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Kettlebell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "239.0"
+  ]
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "motionscykel": {
+  "status": "verifierad",
+  "fel": []
+ },
+ "lopband": {
+  "status": "verifierad",
+  "fel": []
+ },
+ "roddmaskin": {
+  "status": "verifierad",
+  "fel": []
+ },
+ "cykellas": {
+  "status": "verifierad",
+  "fel": []
+ },
+ "elcyklar": {
+  "status": "verifierad",
+  "fel": []
+ },
+ "tunturi": {
+  "status": "verifierad",
+  "fel": []
+ },
+ "sparkcykel": {
+  "status": "verifierad",
+  "fel": []
+ },
+ "crosstrainer": {
+  "status": "verifierad",
+  "fel": []
+ },
+ "hantlar": {
+  "status": "verifierad",
+  "fel": []
+ },
+ "kettlebell": {
+  "status": "verifierad",
+  "fel": []
+ }
+}

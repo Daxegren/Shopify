@@ -1,0 +1,882 @@
+{
+ "fore": {
+  "id": "gid://shopify/Collection/526981431562",
+  "handle": "traningsbank",
+  "title": "Träningsbänk",
+  "updatedAt": "2026-11-17T14:01:07Z",
+  "descriptionHtml": "<p data-start=\"335\" data-end=\"778\" style=\"text-align: left;\">Letar du efter en träningsbänk för hemmagym eller professionellt gym? Hos Best Of Sports hittar du ett brett utbud av träningsbänkar som kombinerar stabilitet, kvalitet och funktionalitet. En träningsbänk är en av de mest mångsidiga utrustningarna i gymmet och kan användas för bänkpress, hantelträning, magövningar, axelövningar och mycket mer. Med rätt träningsbänk kan du utföra hela kroppens styrketräning på ett effektivt och säkert sätt.</p>\n<p data-start=\"780\" data-end=\"1195\" style=\"text-align: left;\">När du ska köpa en träningsbänk är det viktigt att tänka på vilka övningar du vill fokusera på, vilken viktkapacitet som krävs och om bänken ska vara justerbar. Vill du ha en justerbar träningsbänk med lutning och decline för fler övningar, eller en platt bänk för traditionell bänkpress och hantelträning? Fundera även på storlek, stabilitet och om bänken ska användas hemma, i garage eller i ett större gym.</p>\n<h2 data-start=\"1197\" data-end=\"1239\" style=\"text-align: left;\"><strong data-start=\"1197\" data-end=\"1237\">Justerbara och platta träningsbänkar</strong></h2>\n<p data-start=\"1241\" data-end=\"1600\" style=\"text-align: left;\">Vi erbjuder både justerbara och platta träningsbänkar. Justerbara bänkar ger möjlighet till lutning för bänkpress, axelpress och sittande övningar, medan platta bänkar är perfekta för traditionell bänkpress och grundläggande styrketräning. Våra bänkar är designade för att ge maximal stabilitet och säkerhet, med slitstarka material som tål tung belastning.</p>\n<h2 data-start=\"1602\" data-end=\"1639\" style=\"text-align: left;\"><strong data-start=\"1602\" data-end=\"1637\">Prisvärda och premiumalternativ</strong></h2>\n<p data-start=\"1641\" data-end=\"2033\" style=\"text-align: left;\">Hos Best Of Sports hittar du både prisvärda träningsbänkar och premiumalternativ med hög kvalitet, robust konstruktion och lång livslängd. Våra bänkar är byggda för att tåla intensiv träning, ge stabilitet och säkerhet vid alla typer av styrketräning. Med rätt träningsbänk kan du skapa ett komplett hemmagym eller komplettera ett professionellt gym med mångsidig utrustning för hela kroppen.</p>\n<h2 data-start=\"2035\" data-end=\"2057\" style=\"text-align: left;\"><strong data-start=\"2035\" data-end=\"2055\">Kända varumärken</strong></h2>\n<p data-start=\"2059\" data-end=\"2426\" style=\"text-align: left;\">Vi erbjuder träningsbänkar från varumärken som Tunturi, Hammer, Finnlo, Christopeit och Gorilla Sports. Dessa märken står för kvalitet, säkerhet och funktionalitet. Oavsett om du letar efter en prisvärd träningsbänk eller en premium träningsbänk med justerbar lutning, hittar du en modell som passar dina behov och ditt utrymme.</p>\n<h2 data-start=\"2428\" data-end=\"2475\" style=\"text-align: left;\"><strong data-start=\"2428\" data-end=\"2473\">Varför köpa träningsbänk hos Best Of Sports</strong></h2>\n<p data-start=\"2477\" data-end=\"2798\" style=\"text-align: left;\">Hos Best Of Sports kan du köpa träningsbänkar online med snabb leverans och trygg service. Våra bänkar är byggda för maximal hållbarhet, säkerhet och funktion, oavsett om du tränar hemma eller på gym. Utforska vårt sortiment idag och hitta den perfekta träningsbänken som gör styrketräningen effektiv, säker och varierad.</p>",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "traningsbank",
+  "seo": {
+   "title": "Träningsbänk – Justerbar, platt och hopfällbar för olika övningar",
+   "description": "Upptäck träningsbänkar från Tunturi, Hammer, Finnlo, Christopeit och Gorilla Sports. Stabil, justerbar och perfekt för hemmagym och gym."
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "träningsbänk"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "bänk"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 62
+  }
+ },
+ "produkter_fore": {
+  "gid://shopify/Product/10708321075466": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "träningsbänk"
+   ],
+   "20019.0"
+  ],
+  "gid://shopify/Product/10708321042698": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "träningsbänk"
+   ],
+   "25389.0"
+  ],
+  "gid://shopify/Product/10708321009930": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "träningsbänk"
+   ],
+   "9999.0"
+  ],
+  "gid://shopify/Product/10708320977162": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "träningsbänk"
+   ],
+   "20019.0"
+  ],
+  "gid://shopify/Product/10708320944394": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "träningsbänk"
+   ],
+   "13256.1"
+  ],
+  "gid://shopify/Product/10708320911626": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "träningsbänk"
+   ],
+   "8738.1"
+  ],
+  "gid://shopify/Product/10708320846090": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Professionell utrustning",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "träningsbänk"
+   ],
+   "18908.1"
+  ],
+  "gid://shopify/Product/10708312293642": [
+   "ACTIVE",
+   [
+    "Professionell utrustning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "träningsbänk"
+   ],
+   "12349.0"
+  ],
+  "gid://shopify/Product/10636746064138": [
+   "DRAFT",
+   [
+    "all products",
+    "magbänk",
+    "magträning",
+    "mave",
+    "mavebænk",
+    "mavetræner",
+    "situpbänk",
+    "situps",
+    "situpsbänk",
+    "träningsbänk"
+   ],
+   "82.42"
+  ],
+  "gid://shopify/Product/10636736299274": [
+   "ACTIVE",
+   [
+    "all products",
+    "price-change-job-active",
+    "sale",
+    "sissy squat",
+    "sissysquat",
+    "texter-klara",
+    "träningsbänk",
+    "träningsmaskin"
+   ],
+   "1646.1"
+  ],
+  "gid://shopify/Product/10636717654282": [
+   "DRAFT",
+   [
+    "Sned bänk",
+    "Sned bänkpress",
+    "all products",
+    "bänk",
+    "bänkpress",
+    "träningsbänk"
+   ],
+   "108.16"
+  ],
+  "gid://shopify/Product/10636715884810": [
+   "DRAFT",
+   [
+    "all products",
+    "benlyft",
+    "core",
+    "magbänk",
+    "mage",
+    "rygg",
+    "rygglyft",
+    "rygglyftsbänk",
+    "sit up",
+    "situp",
+    "situpbänk",
+    "situpsbänk",
+    "träningsbänk"
+   ],
+   "73.12"
+  ],
+  "gid://shopify/Product/10636706709770": [
+   "DRAFT",
+   [
+    "bänk",
+    "curlbänk",
+    "justerbar bänk",
+    "price-change-job-active",
+    "sale",
+    "ställbar bänk",
+    "träningsbänk"
+   ],
+   "1970.1"
+  ],
+  "gid://shopify/Product/10636705333514": [
+   "DRAFT",
+   [
+    "magträning",
+    "mave",
+    "mavebænk",
+    "mavetræner",
+    "price-change-job-active",
+    "sale",
+    "situpbänk",
+    "situps",
+    "situpsbänk",
+    "träningsbänk"
+   ],
+   "1034.1"
+  ],
+  "gid://shopify/Product/10636686491914": [
+   "DRAFT",
+   [
+    "bänk",
+    "price-change-job-active",
+    "rak bänk",
+    "sale",
+    "träningsbänk"
+   ],
+   "3303.9"
+  ],
+  "gid://shopify/Product/10636686393610": [
+   "DRAFT",
+   [
+    "bänk",
+    "justerbar bänk",
+    "price-change-job-active",
+    "sale",
+    "ställbar bänk",
+    "träningsbänk"
+   ],
+   "6195.6"
+  ],
+  "gid://shopify/Product/10636641468682": [
+   "DRAFT",
+   [
+    "bänk",
+    "justerbar bänk",
+    "ställbar bänk"
+   ],
+   "71.48"
+  ],
+  "gid://shopify/Product/10636641337610": [
+   "DRAFT",
+   [
+    "bänk",
+    "justerbar bänk",
+    "ställbar bänk",
+    "träningsbänk"
+   ],
+   "47.67"
+  ],
+  "gid://shopify/Product/10636641173770": [
+   "DRAFT",
+   [
+    "bänk",
+    "justerbar bänk",
+    "ställbar bänk",
+    "träningsbänk"
+   ],
+   "47.26"
+  ],
+  "gid://shopify/Product/10636641042698": [
+   "DRAFT",
+   [
+    "bänk",
+    "rak bänk",
+    "träningsbänk"
+   ],
+   "681.0"
+  ],
+  "gid://shopify/Product/10636640878858": [
+   "DRAFT",
+   [
+    "bänk",
+    "rak bänk",
+    "träningsbänk"
+   ],
+   "33.71"
+  ],
+  "gid://shopify/Product/10636636389642": [
+   "DRAFT",
+   [
+    "Maxxus",
+    "Rak bänk",
+    "all products",
+    "bänk",
+    "träningsbänk"
+   ],
+   "99.02"
+  ],
+  "gid://shopify/Product/10636619907338": [
+   "DRAFT",
+   [
+    "Nyhet",
+    "all products",
+    "bänk",
+    "price-change-job-active",
+    "sale",
+    "ställbar",
+    "ställbar bänk",
+    "träningsbänk"
+   ],
+   "4859.1"
+  ],
+  "gid://shopify/Product/10636614500618": [
+   "DRAFT",
+   [
+    "Lukadora",
+    "justerbar träningsbänk",
+    "ställbar",
+    "ställbar bänk",
+    "tränings bänk",
+    "träningsbänk",
+    "womens health"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10636612206858": [
+   "DRAFT",
+   [
+    "Lukadora",
+    "Rak bänk",
+    "bänk",
+    "mens health",
+    "rak",
+    "tränings bänk",
+    "träningsbänk"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10636606570762": [
+   "DRAFT",
+   [
+    "Bundle",
+    "Hantlar",
+    "Hemmagym",
+    "Paket",
+    "Starter",
+    "Träningsbänk",
+    "price-change-job-active",
+    "sale"
+   ],
+   "3380.4"
+  ],
+  "gid://shopify/Product/10636606439690": [
+   "DRAFT",
+   [
+    "Bundle",
+    "Hantlar",
+    "Hemmagym",
+    "Mest Populär",
+    "Paket",
+    "Pro",
+    "Träningsbänk",
+    "price-change-job-active",
+    "sale"
+   ],
+   "5818.5"
+  ],
+  "gid://shopify/Product/10636606243082": [
+   "DRAFT",
+   [
+    "Bundle",
+    "Elite",
+    "Hantlar",
+    "Paket",
+    "Premium",
+    "Proffs",
+    "Träningsbänk",
+    "price-change-job-active",
+    "sale"
+   ],
+   "8741.7"
+  ],
+  "gid://shopify/Product/10636604932362": [
+   "ACTIVE",
+   [
+    "Rak bänk",
+    "all products",
+    "bänk",
+    "price-change-job-active",
+    "sale",
+    "sync-skydd",
+    "texter-klara",
+    "tränings bänk",
+    "träningsbänk"
+   ],
+   "1529.1"
+  ],
+  "gid://shopify/Product/10636604768522": [
+   "DRAFT",
+   [
+    "all products",
+    "magbänk",
+    "mage",
+    "magträning",
+    "mave",
+    "mavebænk",
+    "mavetræner",
+    "sexpack",
+    "sit-ups",
+    "situpbänk",
+    "situps",
+    "situpsbänk",
+    "träningsbänk"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10605384892682": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "6189.0"
+  ],
+  "gid://shopify/Product/10598559842570": [
+   "ACTIVE",
+   [
+    "Professionell utrustning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "9519.0"
+  ],
+  "gid://shopify/Product/10589705568522": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "3569.0"
+  ],
+  "gid://shopify/Product/10565602410762": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "7019.0"
+  ],
+  "gid://shopify/Product/10541268795658": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "sync-skydd",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "4279.0"
+  ],
+  "gid://shopify/Product/10541111443722": [
+   "ACTIVE",
+   [
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "4519.0"
+  ],
+  "gid://shopify/Product/10507303354634": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "4239.0"
+  ],
+  "gid://shopify/Product/10507302764810": [
+   "ACTIVE",
+   [
+    "Finnlo by Hammer",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "sync-skydd",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "3815.1"
+  ],
+  "gid://shopify/Product/10507262624010": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "5579.0"
+  ],
+  "gid://shopify/Product/10494691639562": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "3179.0"
+  ],
+  "gid://shopify/Product/10472323514634": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "justerbar bänk",
+    "justerbar träningsbänk",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "3459.0"
+  ],
+  "gid://shopify/Product/10472323481866": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "4839.0"
+  ],
+  "gid://shopify/Product/10472302674186": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "justerbar bänk",
+    "justerbar träningsbänk",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "3799.0"
+  ],
+  "gid://shopify/Product/10472298840330": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "6239.0"
+  ],
+  "gid://shopify/Product/10472289239306": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "träningsbänk"
+   ],
+   "12919.0"
+  ],
+  "gid://shopify/Product/10472288485642": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Styrketräning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "13259.0"
+  ],
+  "gid://shopify/Product/10472277836042": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Christopher",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "3779.0"
+  ],
+  "gid://shopify/Product/10472276459786": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "3229.0"
+  ],
+  "gid://shopify/Product/10472265449738": [
+   "ACTIVE",
+   [
+    "Christopeit",
+    "Hyperextension",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "price-change-job-active",
+    "rygglyftsbänk",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "2169.0"
+  ],
+  "gid://shopify/Product/10472264892682": [
+   "ACTIVE",
+   [
+    "Finnlo by Hammer",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "3349.0"
+  ],
+  "gid://shopify/Product/10472264597770": [
+   "ACTIVE",
+   [
+    "Finnlo by Hammer",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "5239.0"
+  ],
+  "gid://shopify/Product/10472260174090": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "justerbar bänk",
+    "justerbar träningsbänk",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "4639.0"
+  ],
+  "gid://shopify/Product/10472258928906": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "justerba",
+    "justerbar träningsbänk",
+    "price-change-job-active",
+    "sale",
+    "träningsbänk"
+   ],
+   "4249.0"
+  ],
+  "gid://shopify/Product/10472258339082": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "7499.0"
+  ],
+  "gid://shopify/Product/10472256897290": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hyperextension",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "rygglyftsbänk",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "2009.0"
+  ],
+  "gid://shopify/Product/10472255258890": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Träningsbänkar",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "2679.0"
+  ],
+  "gid://shopify/Product/10472254210314": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "5549.0"
+  ],
+  "gid://shopify/Product/10472252277002": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "justerbar träningsbänk",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "2789.0"
+  ],
+  "gid://shopify/Product/10472222523658": [
+   "ACTIVE",
+   [
+    "Bänkpress",
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "3139.0"
+  ],
+  "gid://shopify/Product/10472221245706": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "2069.0"
+  ],
+  "gid://shopify/Product/10468724834570": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "3939.0"
+  ],
+  "gid://shopify/Product/10468712939786": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "träningsbänk"
+   ],
+   "5199.0"
+  ]
+ }
+}

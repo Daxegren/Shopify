@@ -1,0 +1,116 @@
+{
+ "handle": "herrcyklar",
+ "id": "gid://shopify/Collection/561573953802",
+ "titel": "Herrcykel",
+ "regel": [
+  [
+   "TAG",
+   "EQUALS",
+   "Herrcyklar"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "Herrcykel"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "herr cykel"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "mens bike"
+  ],
+  [
+   "TAG",
+   "EQUALS",
+   "mens bikes"
+  ]
+ ],
+ "huvud_regex": "herrcykel|stadscykel",
+ "antal_i_kollektionen": 12,
+ "antal_koopbara_alla": 11,
+ "antal_koopbara": 11,
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
+ "marken": [
+  [
+   "Romet",
+   7
+  ],
+  [
+   "Giant",
+   3
+  ],
+  [
+   "Tabou",
+   1
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "herrcykel",
+   8
+  ],
+  [
+   "stadscykel",
+   3
+  ]
+ ],
+ "pris_min": 4706.1,
+ "pris_max": 12329.0,
+ "pris_median": 7589.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [
+  [
+   "Stadscykel Giant Attend RS 1 GTS",
+   4706.1
+  ],
+  [
+   "Herrcykel Romet Orkan M, 28 tum, Svart och Guld",
+   6509.0
+  ],
+  [
+   "Herrcykel ROMET Orkan M, grå-röd",
+   6539.0
+  ],
+  [
+   "Herrcykel ROMET Orkan M, grå-röd",
+   6539.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Herrcykel ROMET Wagant 8, svart",
+   12329.0
+  ],
+  [
+   "Herrcykel Romet Wagant 8, 27 Växlar, Svart",
+   12329.0
+  ],
+  [
+   "Stadscykel Giant Attend RS 2 GTS, Svart",
+   12129.0
+  ]
+ ],
+ "alla_titlar": [
+  "Herrcykel ROMET Orkan M, grå-röd",
+  "Herrcykel ROMET Orkan M, grå-röd",
+  "Herrcykel ROMET Wagant 8, svart",
+  "Herrcykel Romet Orkan M, 28 tum, Svart och Guld",
+  "Herrcykel Romet Wagant 7",
+  "Herrcykel Romet Wagant 8, 27 Växlar, Svart",
+  "Herrcykel Romet Wagant, Svart och Blå",
+  "Herrcykel Tabou Kinetic 1.0, 28 tum",
+  "Stadscykel Giant Attend RS 1 GTS",
+  "Stadscykel Giant Attend RS 2 GTS, Svart",
+  "Stadscykel Giant Attend RS 3 GTS"
+ ]
+}

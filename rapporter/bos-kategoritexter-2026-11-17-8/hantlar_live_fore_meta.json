@@ -1,0 +1,34 @@
+{
+ "hantlar": {
+  "id": "gid://shopify/Collection/526981955850",
+  "handle": "hantlar",
+  "title": "Hantlar",
+  "updatedAt": "2026-11-17T14:11:47Z",
+  "descriptionHtml": "<p>BEST OF SPORTS säljer hantlar, hantelset och justerbara hantlar från bland annat Tunturi, Gymstick, Toorx, Hammer och Christopeit. Här finns minst 50 produkter.</p><p>Vikterna i produktnamnen börjar vid 0,5 kg. Hantelset finns på bland annat 15, 20 och 28 kg, och kombinerade hantel- och skivstångsset på bland annat 20 och 50 kg. Material som anges i titlarna är bland annat gjutjärn, vinyl, neopren och gummi. Tunturi har flest produkter.</p><p>Öppna en produkt för att se pris, lagerstatus och produktuppgifter.</p><p>Exempel på produkter: Hantelset Tunturi Vinyl, 28 kg; Justerbar Hantel Hammer SmartLock med Vrid-och-lås-mekanism; Hantel Zipro HEX gummerad 2,5 kg, svart.</p>",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "hantlar",
+  "seo": {
+   "title": "Hantlar – Hantelset och justerbara hantlar",
+   "description": "Köp hantlar, hantelset och justerbara hantlar från bland annat Tunturi, Gymstick, Toorx och Hammer. Vikter från 0,5 kg. Minst 50 produkter."
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "hantlar"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "hantel"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 117
+  }
+ }
+}
