@@ -410,3 +410,6 @@ Vad hände: översättningskörningen på Gorilla Sports stoppade med `ACCESS_DE
 ## 2026-11-17: handskriven återgivning av beskrivningstext ger tysta avvikelser
 - **Vad hände:** Vid första skrivningen av en kollektionsbeskrivning (efter att ha borttagit spårningsparametrar) tappade jag ett fast mellanslag (U+00A0) och skrev "upphörsbacke" i stället för "uppförsbacke". Återläsning med exakt jämförelse mot förväntad text fångade båda. Ingen kund hann se felet länge, men det hade inte synts utan jämförelsen.
 - **Regel:** skriv aldrig kollektionstext för hand utan att skriva ut den som kodad JSON (`json.dumps`) och kopiera den; kör alltid en kanarie först och jämför hela texten byte för byte mot förväntat före övriga skrivningar.
+
+## 2026-11-21: git visar svenska tecken i filnamn med citattecken och oktala koder
+Vad hände: vid konsolideringen av BOS-grenarna fördes nio filer med å i namnet (`rå_*.json`) först över med felaktiga namn (`"rapporter/…r\303\245_…json"`), eftersom git skriver ut sådana namn inom citattecken. Felet upptäcktes vid kontrollen att allt från grenarna fanns i målgrenen. Regel: sätt `git config core.quotepath false` och läs filnamn med `-z` (eller med den inställningen) i alla skript som hanterar sökvägar, och kontrollera efter varje överföring att varje källfil finns i målet.
