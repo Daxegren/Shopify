@@ -4,6 +4,7 @@ Skapad 2026-11-04. Filen fylls bara på; nya beslut läggs överst i tabellen, g
 
 | Datum | Beslut | Gäller | Vem | Källa |
 |---|---|---|---|---|
+| 2026-11-04 | Onboarding av WORKOUT BRANDS startad (fas 1, bara läsning). Profil och spärrlista är utkast; inga beslut taget om kategorier. Fas 2 startar när David godkänt profil, spärrar och åtgärdsförslag | WORKOUT BRANDS | David (uppdrag), Claude | `rapporter/beslut-2026-11-04-7.md` |
 | 2026-11-04 | Mondido: ingen fas 1 (inventering, profil, genomlysning) påbörjas förrän David bekräftat att det är en Shopify-butik. Obekräftat vad Mondido är | Mondido | Claude föreslog, väntar på David | `rapporter/beslut-2026-11-04-7.md` |
 | 2026-11-04 | "To The Moon": typ (butik, domän, projekt) är obekräftad. Ingen inventering, profil eller spärrlista skapas förrän David bekräftat. Inget gissas | To The Moon | Claude väntar på David | `rapporter/beslut-2026-11-04-7.md` |
 | 2026-11-04 | HYPR Nutrition (HYPR Sthlm AB) onboardas i fas 1: bara läsning och analys. Skrivning av produkttexter hålls tills David godkänt butiksprofil, spärrlista och regeluppsättning för kosttillskott. Förslagen ligger i `config/butiksprofil-hyprnutrition.json`, `config/sparrlista-hyprnutrition.json`, `regler/regler-tillskott-utkast.md` | HYPR Nutrition | Claude föreslog (utkast), David har inte beslutat | `rapporter/hyprnutrition-2026-11-04/genomlysning.md` |
