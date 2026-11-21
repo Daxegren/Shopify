@@ -473,3 +473,7 @@ Den här filen fylls bara på, nya poster överst. Befintliga poster ändras ald
 
 <!-- Förd över från sidospåret tothemoon-onboarding 2026-11-21 -->
 | 2026-11-04 | Ny fil: `rapporter/beslut-2026-11-04-7.md`. Ingenting ändrades i Shopify. Ingen befintlig text ändrad | Första kartläggning av "To The Moon": ingen träff i repot, Shopify-kopplingen krävde ny inloggning, inga Google-källor anslutna | Typen (butik, domän, projekt) är obekräftad; gissas inte | Claude (uppdrag från David), inga ändringar kräver beslut |
+
+<!-- Förd över från sidospåret mondido-onboarding 2026-11-21 -->
+| 2026-11-04 | `rapporter/beslut-2026-11-04-7.md`: tillägg sist (publik kontroll av mondido.com: betaltjänst). Ingen befintlig text ändrad. Ingenting ändrades i Shopify eller andra tjänster | Mondido bekräftat som betaltjänst via publik sida; butiksbyte i Shopify-verktyget utfördes inte efter begäran från annan session | David (uppdrag), Claude |
+| 2026-11-04 | Ny fil: `rapporter/beslut-2026-11-04-7.md` (Mondido: kartläggning). Ingen befintlig text ändrad. Ingenting ändrades i Shopify, teman, Search Console, Analytics eller Google Ads | Mondido är inte bekräftat som butik; repot saknar uppgifter och Shopify (inloggning), Windsor.ai och Ahrefs (plan) gav inget underlag | David (uppdrag), Claude |
