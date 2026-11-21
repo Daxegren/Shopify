@@ -1,0 +1,241 @@
+{
+ "lasta": 449,
+ "inkluderade": 346,
+ "uteslutna": 103,
+ "lagerenheter_inkl": 566521,
+ "orsak_forsta": {
+  "variant saknar inköpspris": 1,
+  "outlet": 3,
+  "redan publicerad": 1,
+  "pris utanför 20-5000": 5,
+  "saknar bild": 1,
+  "lager 0": 92
+ },
+ "orsak_alla": {
+  "variant saknar inköpspris": 2,
+  "outlet": 4,
+  "redan publicerad": 1,
+  "pris utanför 20-5000": 8,
+  "saknar bild": 3,
+  "lager 0": 92,
+  "variant under inköpspris": 1
+ },
+ "vendor_topp10": [
+  [
+   "UC Men",
+   68,
+   174930
+  ],
+  [
+   "UC Ladies",
+   57,
+   155295
+  ],
+  [
+   "Urban Classics",
+   42,
+   77098
+  ],
+  [
+   "MT Men",
+   33,
+   8218
+  ],
+  [
+   "Flexfit",
+   16,
+   36777
+  ],
+  [
+   "Ecko Unltd.",
+   16,
+   9598
+  ],
+  [
+   "Urban Classics Accessoires",
+   15,
+   43463
+  ],
+  [
+   "Brandit",
+   11,
+   13850
+  ],
+  [
+   "Urban Classics Kids",
+   10,
+   5207
+  ],
+  [
+   "Mister Tee",
+   8,
+   5989
+  ]
+ ],
+ "prisjobb_inkl": 121,
+ "utan_beskrivning_inkl": 5,
+ "barn_inkl": 18,
+ "kanarie": [
+  {
+   "produkt_id": "9435126563144",
+   "handle": "uc-basic-essential-hoody",
+   "titel": "UC Basic Essential Hoody",
+   "vendor": "UC Men",
+   "typ": "Hoodie",
+   "lager": 61737,
+   "antal_bilder": 16,
+   "antal_varianter": 32,
+   "lagsta_pris": "299.00",
+   "hogsta_pris": "359.00",
+   "prisjobb": "nej",
+   "beskrivning_finns": "ja",
+   "barn": "nej",
+   "tags_kort": "beige, blå, grå, Hoodie, Hoodies, Huvtröja"
+  },
+  {
+   "produkt_id": "9394515706184",
+   "handle": "uc-canvas-belt",
+   "titel": "UC Canvas Belt",
+   "vendor": "Urban Classics Accessoires",
+   "typ": "Bälte",
+   "lager": 32641,
+   "antal_bilder": 41,
+   "antal_varianter": 18,
+   "lagsta_pris": "89.00",
+   "hogsta_pris": "89.00",
+   "prisjobb": "nej",
+   "beskrivning_finns": "ja",
+   "barn": "nej",
+   "tags_kort": "beige, belt, blå, bälte, grå, grön"
+  },
+  {
+   "produkt_id": "10233804390728",
+   "handle": "110-dia-double-mesh-trucker-navy-one-size",
+   "titel": "110 Dia Double Mesh Trucker",
+   "vendor": "Flexfit",
+   "typ": "Keps",
+   "lager": 16403,
+   "antal_bilder": 8,
+   "antal_varianter": 3,
+   "lagsta_pris": "219.00",
+   "hogsta_pris": "219.00",
+   "prisjobb": "nej",
+   "beskrivning_finns": "ja",
+   "barn": "nej",
+   "tags_kort": "blå, Flexfit, grå, keps, svart, urban classics"
+  },
+  {
+   "produkt_id": "10138945847624",
+   "handle": "uc-basic-boxy-tee",
+   "titel": "UC Basic Boxy Tee",
+   "vendor": "UC Ladies",
+   "typ": "T-shirt",
+   "lager": 15279,
+   "antal_bilder": 20,
+   "antal_varianter": 36,
+   "lagsta_pris": "219.00",
+   "hogsta_pris": "219.00",
+   "prisjobb": "nej",
+   "beskrivning_finns": "ja",
+   "barn": "nej",
+   "tags_kort": "beige, blå, Dam, Plus Size, rosa, röd"
+  },
+  {
+   "produkt_id": "10233808552264",
+   "handle": "uc-soft-brushed-knit-pants",
+   "titel": "UC Soft Brushed Knit Pants",
+   "vendor": "Urban Classics",
+   "typ": "Mjukisbyxor",
+   "lager": 6682,
+   "antal_bilder": 12,
+   "antal_varianter": 15,
+   "lagsta_pris": "429.00",
+   "hogsta_pris": "429.00",
+   "prisjobb": "nej",
+   "beskrivning_finns": "ja",
+   "barn": "nej",
+   "tags_kort": "bekväma byxor, byxor, Dam, flared, mjukis, mjukisbyxor"
+  },
+  {
+   "produkt_id": "9340077048136",
+   "handle": "mstrds-stonewashed-jersey-beanie",
+   "titel": "MSTRDS Stonewashed Jersey Beanie",
+   "vendor": "MSTRDS",
+   "typ": "Mössa",
+   "lager": 4688,
+   "antal_bilder": 12,
+   "antal_varianter": 3,
+   "lagsta_pris": "119.00",
+   "hogsta_pris": "119.00",
+   "prisjobb": "nej",
+   "beskrivning_finns": "ja",
+   "barn": "nej",
+   "tags_kort": "Beanie, brun, in sheet, lifestyle, lila, men"
+  },
+  {
+   "produkt_id": "9404856566088",
+   "handle": "def-straight-fit-jeans",
+   "titel": "DEF Straight Fit Jeans",
+   "vendor": "DEF",
+   "typ": "Byxor",
+   "lager": 3147,
+   "antal_bilder": 25,
+   "antal_varianter": 25,
+   "lagsta_pris": "369.00",
+   "hogsta_pris": "369.00",
+   "prisjobb": "nej",
+   "beskrivning_finns": "ja",
+   "barn": "nej",
+   "tags_kort": "beige, blå, byxor, cargo, Dam, DEF"
+  },
+  {
+   "produkt_id": "10389793800520",
+   "handle": "mister-tee-flanell-shirt",
+   "titel": "MT Mister Tee Flanell Shirt",
+   "vendor": "Mister Tee",
+   "typ": "Skjorta",
+   "lager": 2277,
+   "antal_bilder": 8,
+   "antal_varianter": 4,
+   "lagsta_pris": "329.00",
+   "hogsta_pris": "329.00",
+   "prisjobb": "nej",
+   "beskrivning_finns": "ja",
+   "barn": "nej",
+   "tags_kort": "Man, men, shirt, skjorta, urban classics"
+  },
+  {
+   "produkt_id": "9340103065928",
+   "handle": "cs-plain-hoody",
+   "titel": "CS Plain Hoody",
+   "vendor": "CS",
+   "typ": "Hoodie",
+   "lager": 1814,
+   "antal_bilder": 15,
+   "antal_varianter": 27,
+   "lagsta_pris": "469.00",
+   "hogsta_pris": "469.00",
+   "prisjobb": "nej",
+   "beskrivning_finns": "ja",
+   "barn": "nej",
+   "tags_kort": "beige, cs, Herr, Hoodie, Hoodies, Huvtröja"
+  },
+  {
+   "produkt_id": "10029951123784",
+   "handle": "ecko-unltd-quiet-t-shirts",
+   "titel": "Ecko Unltd. Quiet T-Shirts",
+   "vendor": "Ecko Unltd.",
+   "typ": "T-shirt",
+   "lager": 1417,
+   "antal_bilder": 20,
+   "antal_varianter": 28,
+   "lagsta_pris": "379.00",
+   "hogsta_pris": "429.00",
+   "prisjobb": "nej",
+   "beskrivning_finns": "ja",
+   "barn": "nej",
+   "tags_kort": "Ecko Unltd., Herr, Man, men, oversized, Plus Size"
+  }
+ ],
+ "kanarie_lager_over_50": 10
+}

@@ -1,0 +1,480 @@
+{
+ "kurs": 11.0,
+ "totalt_varianter": 109781,
+ "totalt_produkter": 7371,
+ "saknar_inkop": 1236,
+ "under_inkop": 15,
+ "grupper": {
+  "euro": {
+   "varianter": 30184,
+   "produkter": 2021,
+   "bins": {
+    "50-57": 13042,
+    "under 50": 11704,
+    "70-80": 738,
+    "63-70": 1243,
+    "57-63": 3408,
+    "over 80": 49
+   },
+   "inom_57_63": 2471,
+   "hojs": 25435,
+   "sanks": 2120,
+   "lika": 158,
+   "hallen": 14721,
+   "hallen_upp": 14199,
+   "hallen_ner": 522,
+   "median_andring": 25.05592841163311,
+   "medel_andring": 22.558694662266028,
+   "median_andring_utan_hallna": 17.921146953405017,
+   "medel_andring_utan_hallna": 13.803835534422026,
+   "prisjobb": 10545,
+   "rea": 11183
+  },
+  "ovriga": {
+   "varianter": 78346,
+   "produkter": 5486,
+   "bins": {
+    "57-63": 75735,
+    "under 50": 1495,
+    "63-70": 780,
+    "50-57": 319,
+    "70-80": 4,
+    "over 80": 13
+   },
+   "inom_57_63": 36816,
+   "hojs": 1853,
+   "sanks": 35332,
+   "lika": 4345,
+   "hallen": 1691,
+   "hallen_upp": 1674,
+   "hallen_ner": 17,
+   "median_andring": -1.4727540500736376,
+   "medel_andring": 0.2992792118243164,
+   "median_andring_utan_hallna": -1.4727540500736376,
+   "medel_andring_utan_hallna": -1.514411660293675,
+   "prisjobb": 39253,
+   "rea": 40532
+  }
+ },
+ "vendor": {
+  "UC Ladies": {
+   "varianter": 23832,
+   "produkter": 1207,
+   "bins": {
+    "63-70": 388,
+    "70-80": 3,
+    "50-57": 1241,
+    "under 50": 1471,
+    "57-63": 20715,
+    "over 80": 14
+   },
+   "inom_57_63": 8955,
+   "hojs": 2744,
+   "sanks": 11136,
+   "lika": 997,
+   "hallen": 1909,
+   "hallen_upp": 1892,
+   "hallen_ner": 17,
+   "median_andring": -1.4727540500736376,
+   "medel_andring": 3.636932758841488,
+   "median_andring_utan_hallna": -1.6420361247947455,
+   "medel_andring_utan_hallna": -0.5659938699943973,
+   "prisjobb": 12627,
+   "rea": 12879,
+   "euro_varianter": 2872
+  },
+  "UC Men": {
+   "varianter": 18458,
+   "produkter": 905,
+   "bins": {
+    "under 50": 1564,
+    "50-57": 965,
+    "57-63": 15788,
+    "63-70": 133,
+    "over 80": 6,
+    "70-80": 2
+   },
+   "inom_57_63": 4798,
+   "hojs": 2574,
+   "sanks": 9779,
+   "lika": 1307,
+   "hallen": 1871,
+   "hallen_upp": 1863,
+   "hallen_ner": 8,
+   "median_andring": -1.335113484646195,
+   "medel_andring": 4.078641668056265,
+   "median_andring_utan_hallna": -1.4727540500736376,
+   "medel_andring_utan_hallna": -0.35276330473629897,
+   "prisjobb": 11931,
+   "rea": 12413,
+   "euro_varianter": 2442
+  },
+  "MT Men": {
+   "varianter": 10446,
+   "produkter": 931,
+   "bins": {
+    "50-57": 1161,
+    "under 50": 856,
+    "57-63": 8400,
+    "70-80": 4,
+    "63-70": 25
+   },
+   "inom_57_63": 6622,
+   "hojs": 2020,
+   "sanks": 1591,
+   "lika": 213,
+   "hallen": 1343,
+   "hallen_upp": 1339,
+   "hallen_ner": 4,
+   "median_andring": 12.955465587044534,
+   "medel_andring": 13.497907752018154,
+   "median_andring_utan_hallna": -1.4727540500736376,
+   "medel_andring_utan_hallna": 3.9276585720034656,
+   "prisjobb": 2233,
+   "rea": 2260,
+   "euro_varianter": 2099
+  },
+  "Build your Brand": {
+   "varianter": 8714,
+   "produkter": 208,
+   "bins": {
+    "under 50": 1603,
+    "70-80": 548,
+    "63-70": 872,
+    "50-57": 4136,
+    "57-63": 1542,
+    "over 80": 13
+   },
+   "inom_57_63": 1334,
+   "hojs": 5789,
+   "sanks": 1433,
+   "lika": 158,
+   "hallen": 2384,
+   "hallen_upp": 2080,
+   "hallen_ner": 304,
+   "median_andring": 18.2648401826484,
+   "medel_andring": 14.244141368841065,
+   "median_andring_utan_hallna": 14.388489208633093,
+   "medel_andring_utan_hallna": 9.37152038487111,
+   "prisjobb": 1678,
+   "rea": 1798,
+   "euro_varianter": 8672
+  },
+  "Brandit": {
+   "varianter": 8097,
+   "produkter": 385,
+   "bins": {
+    "under 50": 791,
+    "50-57": 189,
+    "57-63": 7107,
+    "63-70": 10
+   },
+   "inom_57_63": 1156,
+   "hojs": 980,
+   "sanks": 5250,
+   "lika": 711,
+   "hallen": 837,
+   "hallen_upp": 837,
+   "hallen_ner": 0,
+   "median_andring": -1.0111223458038423,
+   "medel_andring": 5.182426387179035,
+   "median_andring_utan_hallna": -1.0590743068068447,
+   "medel_andring_utan_hallna": -0.7806475591555679,
+   "prisjobb": 5971,
+   "rea": 6609,
+   "euro_varianter": 709
+  },
+  "MT Upscale": {
+   "varianter": 5924,
+   "produkter": 366,
+   "bins": {
+    "50-57": 170,
+    "57-63": 5438,
+    "under 50": 289,
+    "over 80": 1,
+    "63-70": 26
+   },
+   "inom_57_63": 4027,
+   "hojs": 470,
+   "sanks": 1162,
+   "lika": 265,
+   "hallen": 295,
+   "hallen_upp": 294,
+   "hallen_ner": 1,
+   "median_andring": -1.335113484646195,
+   "medel_andring": 5.565999630156543,
+   "median_andring_utan_hallna": -1.890359168241966,
+   "medel_andring_utan_hallna": 0.3088332385672077,
+   "prisjobb": 1559,
+   "rea": 1559,
+   "euro_varianter": 456
+  },
+  "Miss Tee": {
+   "varianter": 4865,
+   "produkter": 275,
+   "bins": {
+    "50-57": 227,
+    "under 50": 217,
+    "57-63": 4418,
+    "63-70": 3
+   },
+   "inom_57_63": 2858,
+   "hojs": 449,
+   "sanks": 1549,
+   "lika": 9,
+   "hallen": 322,
+   "hallen_upp": 322,
+   "hallen_ner": 0,
+   "median_andring": -1.4727540500736376,
+   "medel_andring": 5.361948824801017,
+   "median_andring_utan_hallna": -1.4727540500736376,
+   "medel_andring_utan_hallna": -0.03854945365796892,
+   "prisjobb": 1656,
+   "rea": 1665,
+   "euro_varianter": 462
+  },
+  "Merchcode": {
+   "varianter": 2764,
+   "produkter": 231,
+   "bins": {
+    "under 50": 638,
+    "50-57": 178,
+    "57-63": 1944,
+    "63-70": 4
+   },
+   "inom_57_63": 1377,
+   "hojs": 816,
+   "sanks": 551,
+   "lika": 20,
+   "hallen": 693,
+   "hallen_upp": 693,
+   "hallen_ner": 0,
+   "median_andring": 24.179620034542314,
+   "medel_andring": 17.64314845666652,
+   "median_andring_utan_hallna": -1.3534277985645242,
+   "medel_andring_utan_hallna": 1.7272586625582553,
+   "prisjobb": 684,
+   "rea": 699,
+   "euro_varianter": 836
+  },
+  "MJ GONZALES": {
+   "varianter": 2365,
+   "produkter": 128,
+   "bins": {
+    "under 50": 988,
+    "50-57": 1342,
+    "57-63": 35
+   },
+   "inom_57_63": 0,
+   "hojs": 2330,
+   "sanks": 35,
+   "lika": 0,
+   "hallen": 1254,
+   "hallen_upp": 1254,
+   "hallen_ner": 0,
+   "median_andring": 25.05592841163311,
+   "medel_andring": 23.6777101281911,
+   "median_andring_utan_hallna": 19.700214132762312,
+   "medel_andring_utan_hallna": 20.029200894154044,
+   "prisjobb": 1298,
+   "rea": 1301,
+   "euro_varianter": 2365
+  },
+  "DEF": {
+   "varianter": 2222,
+   "produkter": 191,
+   "bins": {
+    "50-57": 430,
+    "under 50": 380,
+    "70-80": 4,
+    "63-70": 16,
+    "57-63": 1392
+   },
+   "inom_57_63": 555,
+   "hojs": 835,
+   "sanks": 604,
+   "lika": 228,
+   "hallen": 455,
+   "hallen_upp": 451,
+   "hallen_ner": 4,
+   "median_andring": 4.5662100456621,
+   "medel_andring": 12.092588031301906,
+   "median_andring_utan_hallna": 0.0,
+   "medel_andring_utan_hallna": 4.75715108168878,
+   "prisjobb": 1238,
+   "rea": 1278,
+   "euro_varianter": 865
+  },
+  "Urban Classics Kids": {
+   "varianter": 1926,
+   "produkter": 157,
+   "bins": {
+    "under 50": 122,
+    "50-57": 165,
+    "57-63": 1627,
+    "63-70": 12
+   },
+   "inom_57_63": 1073,
+   "hojs": 287,
+   "sanks": 524,
+   "lika": 42,
+   "hallen": 167,
+   "hallen_upp": 167,
+   "hallen_ner": 0,
+   "median_andring": -1.335113484646195,
+   "medel_andring": 7.633261320970033,
+   "median_andring_utan_hallna": -1.4727540500736376,
+   "medel_andring_utan_hallna": 2.0732693617213265,
+   "prisjobb": 624,
+   "rea": 629,
+   "euro_varianter": 299
+  },
+  "New Morning Studios": {
+   "varianter": 1743,
+   "produkter": 31,
+   "bins": {
+    "57-63": 246,
+    "50-57": 847,
+    "under 50": 507,
+    "63-70": 143
+   },
+   "inom_57_63": 246,
+   "hojs": 1354,
+   "sanks": 143,
+   "lika": 0,
+   "hallen": 578,
+   "hallen_upp": 578,
+   "hallen_ner": 0,
+   "median_andring": 22.964509394572026,
+   "medel_andring": 22.223124125489132,
+   "median_andring_utan_hallna": 20.036429872495447,
+   "medel_andring_utan_hallna": 15.150100193418009,
+   "prisjobb": 580,
+   "rea": 580,
+   "euro_varianter": 1689
+  },
+  "Ecko Unltd.": {
+   "varianter": 1421,
+   "produkter": 101,
+   "bins": {
+    "under 50": 689,
+    "50-57": 281,
+    "over 80": 28,
+    "63-70": 7,
+    "57-63": 416
+   },
+   "inom_57_63": 57,
+   "hojs": 970,
+   "sanks": 351,
+   "lika": 43,
+   "hallen": 758,
+   "hallen_upp": 730,
+   "hallen_ner": 28,
+   "median_andring": 26.50957290132548,
+   "medel_andring": 21.07041447284918,
+   "median_andring_utan_hallna": -0.8628127696289906,
+   "medel_andring_utan_hallna": 7.475988436574516,
+   "prisjobb": 879,
+   "rea": 909,
+   "euro_varianter": 1013
+  },
+  "Lost Youth": {
+   "varianter": 1386,
+   "produkter": 74,
+   "bins": {
+    "50-57": 692,
+    "63-70": 3,
+    "under 50": 391,
+    "57-63": 300
+   },
+   "inom_57_63": 0,
+   "hojs": 1353,
+   "sanks": 3,
+   "lika": 30,
+   "hallen": 482,
+   "hallen_upp": 482,
+   "hallen_ner": 0,
+   "median_andring": 19.633225458468175,
+   "medel_andring": 18.65739948852805,
+   "median_andring_utan_hallna": 16.859852476290833,
+   "medel_andring_utan_hallna": 14.135544849255671,
+   "prisjobb": 1095,
+   "rea": 1095,
+   "euro_varianter": 1349
+  },
+  "Starter Black Label": {
+   "varianter": 1251,
+   "produkter": 121,
+   "bins": {
+    "under 50": 26,
+    "50-57": 31,
+    "57-63": 1175,
+    "63-70": 19
+   },
+   "inom_57_63": 395,
+   "hojs": 57,
+   "sanks": 658,
+   "lika": 141,
+   "hallen": 26,
+   "hallen_upp": 26,
+   "hallen_ner": 0,
+   "median_andring": -1.1507479861910241,
+   "medel_andring": 0.5092239341975673,
+   "median_andring_utan_hallna": -1.221001221001221,
+   "medel_andring_utan_hallna": -0.45139226074978817,
+   "prisjobb": 814,
+   "rea": 814,
+   "euro_varianter": 51
+  }
+ },
+ "kanslighet": {
+  "11.0": {
+   "euro": {
+    "varianter": 30184,
+    "inom_57_63": 2471,
+    "hojs": 25435,
+    "sanks": 2120,
+    "hallen": 14721
+   },
+   "ovriga": {
+    "varianter": 78346,
+    "inom_57_63": 36816,
+    "hojs": 1853,
+    "sanks": 35332,
+    "hallen": 1691
+   }
+  },
+  "10.0": {
+   "euro": {
+    "varianter": 30184,
+    "inom_57_63": 6460,
+    "hojs": 19249,
+    "sanks": 4301,
+    "hallen": 3817
+   },
+   "ovriga": {
+    "varianter": 78346,
+    "inom_57_63": 36816,
+    "hojs": 1853,
+    "sanks": 35332,
+    "hallen": 1691
+   }
+  },
+  "12.0": {
+   "euro": {
+    "varianter": 30184,
+    "inom_57_63": 1465,
+    "hojs": 27305,
+    "sanks": 1112,
+    "hallen": 22477
+   },
+   "ovriga": {
+    "varianter": 78346,
+    "inom_57_63": 36816,
+    "hojs": 1853,
+    "sanks": 35332,
+    "hallen": 1691
+   }
+  }
+ }
+}
