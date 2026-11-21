@@ -1,0 +1,20 @@
+id;omrade;titel;antal;av;andel_pct;allvar;paket;atgard;enhet;exempel
+alt_text;Bilder;Bilder utan alt-text (aktiva produkter);13722;14018;97.9;BRIST;P1;Sätt alt-text i bulk (wb_alt.py);per 1 000 bilder;
+utan_kategori;Katalog;Aktiva produkter utan produktkategori;3033;3923;77.3;BRIST;P1;Sätt produktkategori (kategori_satt.py);per 100 produkter;Sadel Selle Monte Grappa Venice, Brun | Skruvlås Tunturi, 30 mm | Isskor ANTi SKid Sole Double, 41–46
+tomma_kollektioner;Kollektioner;Tomma kollektioner;77;350;22.0;BRIST;P2;Regelfix, avpublicera och omdirigera;per kollektion;frontpage | hantelpaket | teknik | pool | basket
+utan_bild;Bilder;Aktiva produkter utan bild;6;3923;0.2;BRIST;P1;Lägg till bild eller avpublicera;per produkt;
+utan_kon;Attribut;Aktiva produkter utan fältet Avsett för (kön);3548;3923;90.4;VARNING;P1;Fyll attributet efter regel (kon_fyll_target_gender.py);per 1 000 produkter;
+ovs_foraldrad_product_title;Språk;Föråldrade översättningar av produkttitlar (alla språk);5214;8207;63.5;VARNING;P5;Översätt om ändrade källtexter;per språk och 1 000 texter;
+ovs_collection_body_html;Språk;Minst översatta kollektionsbeskrivningar (de tre sämsta språken: en saknar 297, fi saknar 118, da saknar 111);526;924;56.9;VARNING;P5;Översätt saknade texter per språk;per språk och 1 000 texter;
+ovs_product_title;Språk;Minst översatta produkttitlar (de tre sämsta språken: en saknar 5370, fi saknar 2193, da saknar 361);7924;16131;49.1;VARNING;P5;Översätt saknade texter per språk;per språk och 1 000 texter;
+kollektion_kort_text;Kollektioner;Kollektioner med nästan ingen beskrivning (under 50 tecken);160;350;45.7;VARNING;P4;Skriv kategoritext;per kollektion;
+ovs_collection_title;Språk;Minst översatta kollektionstitlar (de tre sämsta språken: en saknar 305, fi saknar 56, da saknar 1);362;1050;34.5;VARNING;P5;Översätt saknade texter per språk;per språk och 1 000 texter;
+ovs_foraldrad_collection_body_html;Språk;Föråldrade översättningar av kollektionsbeskrivningar (alla språk);115;398;28.9;VARNING;P5;Översätt om ändrade källtexter;per språk och 1 000 texter;
+kollektion_utan_seo_titel;Kollektioner;Kollektioner utan SEO-titel;46;350;13.1;VARNING;P4;Skriv SEO-titel (prioritera efter visningar);per kollektion;
+kollektion_utan_seo_beskr;Kollektioner;Kollektioner utan SEO-beskrivning;44;350;12.6;VARNING;P4;Skriv SEO-beskrivning;per kollektion;
+ovs_foraldrad_collection_title;Språk;Föråldrade översättningar av kollektionstitlar (alla språk);15;688;2.2;VARNING;P5;Översätt om ändrade källtexter;per språk och 1 000 texter;
+dubblettitlar;Katalog;Produkttitlar som används på flera aktiva produkter (antal produkter);83;3923;2.1;VARNING;P1;Granska: samma produkt i flera storlekar eller riktiga dubbletter;per 100 produkter;liv rove 3 damcykel, pulp gray | cykel excelsior cracker, guld matt | landsvägscykel giant defy advanced 1, charcoal/milky way
+kort_beskrivning;Innehåll;Aktiva produkter med beskrivning under 100 tecken;32;3923;0.8;VARNING;P4;Skriv produkttexter;per produkt;
+seo_titel_lang;Metadata;SEO-titlar över 60 tecken (av satta);3;2108;0.1;VARNING;P4;Korta titeln;per 100 produkter;
+seo_beskr_lang;Metadata;SEO-beskrivningar över 160 tecken (av satta);0;3236;0.0;VARNING;P4;Korta beskrivningen;per 100 produkter;
+utkast;Katalog;Produkter i status utkast/arkiverad (av alla);1454;5377;27.0;INFO;P1;Granska om de ska publiceras eller tas bort;per 100 produkter;

@@ -1,0 +1,8 @@
+id;omrade;titel;antal;av;andel_pct;allvar;paket;atgard;enhet;exempel
+beskrivning_saknas;Metadata;Sidor utan metabeskrivning;3;100;3.0;BRIST;P4;Skriv metabeskrivning;per sida;
+alt;Bilder;Bilder utan alt-text;10090;12293;82.1;VARNING;P4;Sätt alt-text;per 1 000 bilder;
+titel_lang;Metadata;Titlar över 60 tecken;21;100;21.0;VARNING;P4;Korta titeln;per sida;
+beskrivning_lang;Metadata;Metabeskrivningar över 160 tecken;17;100;17.0;VARNING;P4;Korta beskrivningen;per sida;
+h1;Struktur;Sidor utan exakt en H1;6;100;6.0;VARNING;P4;Ge varje sida en H1;per mall;https://bestofsports.se/collections/hantelset | https://bestofsports.se/collections/hantelpaket | https://bestofsports.se/collections/barnstolar-cyklar
+tunt;Innehåll;Sidor med under 150 ord;2;100;2.0;VARNING;P4;Utveckla innehållet eller slå ihop sidor;per sida;https://bestofsports.se/products/flaskh-llare-giant-proway-svart-neongr-n-490000071 | https://bestofsports.se/products/hjul-till-sparkcykel-union-yolo-pro-scooter-wheel-100mm-raw-black-105691
+omdirigerade_i_sitemap;Indexering;Sitemap-adresser som omdirigerar;1;100;1.0;VARNING;P3;Lista slutadresser i sitemap;per sida;https://www.bestofsports.se/
