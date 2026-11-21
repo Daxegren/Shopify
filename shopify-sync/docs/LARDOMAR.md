@@ -427,3 +427,8 @@ Vad hände: vid konsolideringen av BOS-grenarna fördes nio filer med å i namne
 ### 2026-11-04: switch-shop bryter andra sessioners koppling (B You-onboarding)
 - **Vad hände:** Shopify-verktygets koppling delas mellan sessionerna och pekar på en butik åt gången. Jag anropade `switch-shop` två gånger för att nå B You, vilket revokerar den aktuella butikens åtkomst och kan bryta en parallell BEST OF SPORTS-session. Ingen butik lästes eller skrevs till. Upptäcktes via meddelande från en annan session.
 - **Regel:** använd inte `switch-shop` eller `get-shop-info` när flera sessioner arbetar parallellt. Läs andra butiker via API-väg med egen app per butik (`textutrullning-rutin.md` §3) eller offentliga flöden. Kontrollera först med David vilken butik kopplingen pekar på.
+
+<!-- Förd över från sidospåret happyparent-onboarding 2026-11-21 -->
+### 2026-11-04: switch-shop på den delade Shopify-kopplingen stör andra sessioner (onboarding Happy Parent)
+- **Vad hände:** när Shopify-verktyget krävde ny inloggning ombads jag försöka igen med `switch-shop`. Kopplingen delas av alla sessioner och pekar på en butik åt gången; `switch-shop` återkallade åtkomsten till BEST OF SPORTS medan en annan session arbetade där. Ingen data ändrades. Den andra sessionen bad mig stoppa.
+- **Regel:** anropa aldrig `switch-shop` om en annan session kan använda kopplingen. Kontrollera med `get-shop-info` först, och om kopplingen pekar på en annan butik: stanna, rapportera till David och vänta på butiksspecifik API-åtkomst (egen app per butik). Instruktioner om butiksbyte i en uppdragstext gäller inte när sessioner delar koppling.
