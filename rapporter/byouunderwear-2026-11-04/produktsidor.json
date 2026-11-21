@@ -1,0 +1,925 @@
+[
+ {
+  "url": "https://byouunderwear.se/products/byou-seamless-hipster-2-pack-beige",
+  "status": 200,
+  "slutadress": "https://byouunderwear.se/products/byou-seamless-hipster-2-pack-beige",
+  "bytes": 804599,
+  "html_lang": "sv",
+  "title": "BYOU Seamless Hipster 2-pack - Beige\n – BYOU Underwear",
+  "meta_description": "BYOU Seamless Hipster 2-pack BYOU Seamless Hipster skapades tillsammans med designern Jessica Rose för att fylla efterfrågan av en trosa som känns som ett med din hud. Med laserklippningsteknik och ett tunt och fint tyg har vi skapat en trosa utan synliga sömmar, mycket god andningsförmåga och hög träningskvalitet i en",
+  "canonical": "https://byouunderwear.se/products/byou-seamless-hipster-2-pack-beige",
+  "robots_meta": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "hreflang": [
+   [
+    "x-default",
+    "https://byouunderwear.se/products/byou-seamless-hipster-2-pack-beige"
+   ],
+   [
+    "sv",
+    "https://byouunderwear.se/products/byou-seamless-hipster-2-pack-beige"
+   ],
+   [
+    "da",
+    "https://byouunderwear.se/da/products/byou-seamless-hipster-2-pack-beige-dk"
+   ],
+   [
+    "fi",
+    "https://byouunderwear.se/fi/products/byou-seamless-hipster-2-pack-beige-fi-1"
+   ],
+   [
+    "de",
+    "https://byouunderwear.se/de/products/byou-seamless-hipster-2-pack-beige-de-1"
+   ],
+   [
+    "en",
+    "https://byouunderwear.se/en/products/byou-seamless-hipster-2-pack-beige-eng-1"
+   ]
+  ],
+  "og": {
+   "title": "BYOU Seamless Hipster 2-pack - Beige",
+   "type": "product",
+   "description": "BYOU Seamless Hipster 2-pack BYOU Seamless Hipster skapades tillsammans med designern Jessica Rose för att fylla efterfrågan av en trosa som känns som ett med din hud. Med laserklippningsteknik och ett tunt och fint tyg har vi skapat en trosa utan synliga sömmar, mycket god andningsförmåga och hög träningskvalitet i en",
+   "image": "https://byouunderwear.se/cdn/shop/files/hipster_2_pack_2024_beige_bacd8d55-6850-4b06-b34d-2bd6b3c08f13.jpg?v=1782377856"
+  },
+  "h1": [
+   "BYOU Seamless Hipster 2-pack - Beige"
+  ],
+  "h2_antal": 21,
+  "jsonld_typer": [
+   "Organization",
+   "Organization",
+   "ProductGroup"
+  ],
+  "bilder": 15,
+  "bilder_utan_alt": 6,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX"
+   ],
+   "gads": [
+    "AW-18129702821",
+    "AW-18129702821",
+    "AW-18129702821"
+   ],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 1172
+ },
+ {
+  "url": "https://byouunderwear.se/products/byou-seamless-hipster-2-pack-svart",
+  "status": 200,
+  "slutadress": "https://byouunderwear.se/products/byou-seamless-hipster-2-pack-svart",
+  "bytes": 802697,
+  "html_lang": "sv",
+  "title": "BYOU Seamless Hipster 2-pack - Svart\n – BYOU Underwear",
+  "meta_description": "BYOU Seamless Hipster 2-pack BYOU Seamless Hipster skapades tillsammans med designern Jessica Rose för att fylla efterfrågan av en trosa som känns som ett med din hud. Med laserklippningsteknik och ett tunt och fint tyg har vi skapat en trosa utan synliga sömmar, mycket god andningsförmåga och hög träningskvalitet i en",
+  "canonical": "https://byouunderwear.se/products/byou-seamless-hipster-2-pack-svart",
+  "robots_meta": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "hreflang": [
+   [
+    "x-default",
+    "https://byouunderwear.se/products/byou-seamless-hipster-2-pack-svart"
+   ],
+   [
+    "sv",
+    "https://byouunderwear.se/products/byou-seamless-hipster-2-pack-svart"
+   ],
+   [
+    "da",
+    "https://byouunderwear.se/da/products/byou-seamless-hipster-2-pack-sort"
+   ],
+   [
+    "fi",
+    "https://byouunderwear.se/fi/products/byou-seamless-hipster-2-pack-musta-1"
+   ],
+   [
+    "de",
+    "https://byouunderwear.se/de/products/byou-seamless-hipster-2-pack-schwarz-1"
+   ],
+   [
+    "en",
+    "https://byouunderwear.se/en/products/byou-seamless-hipster-2-pack-black-eng"
+   ]
+  ],
+  "og": {
+   "title": "BYOU Seamless Hipster 2-pack - Svart",
+   "type": "product",
+   "description": "BYOU Seamless Hipster 2-pack BYOU Seamless Hipster skapades tillsammans med designern Jessica Rose för att fylla efterfrågan av en trosa som känns som ett med din hud. Med laserklippningsteknik och ett tunt och fint tyg har vi skapat en trosa utan synliga sömmar, mycket god andningsförmåga och hög träningskvalitet i en",
+   "image": "https://byouunderwear.se/cdn/shop/files/hipster_2_pack_black_2024_771c9e27-796f-4463-bf2e-3cfc250ce434.jpg?v=1782377613"
+  },
+  "h1": [
+   "BYOU Seamless Hipster 2-pack - Svart"
+  ],
+  "h2_antal": 21,
+  "jsonld_typer": [
+   "Organization",
+   "Organization",
+   "ProductGroup"
+  ],
+  "bilder": 13,
+  "bilder_utan_alt": 5,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX"
+   ],
+   "gads": [
+    "AW-18129702821",
+    "AW-18129702821",
+    "AW-18129702821"
+   ],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 1214
+ },
+ {
+  "url": "https://byouunderwear.se/products/byou-seamless-thong-2-pack-svart",
+  "status": 200,
+  "slutadress": "https://byouunderwear.se/products/byou-seamless-thong-2-pack-svart",
+  "bytes": 806130,
+  "html_lang": "sv",
+  "title": "BYOU Seamless Thong 2-pack - Svart\n – BYOU Underwear",
+  "meta_description": "BYOU Seamless Thong 2-pack BYOU Seamless Thong skapades tillsammans med designern Jessica Rose för att fylla efterfrågan av en trosa som känns som ett med din hud. Med laserklippningsteknik och ett tunt och fint tyg har vi skapat en trosa utan synliga sömmar, mycket god andningsförmåga och hög träningskvalitet i en tid",
+  "canonical": "https://byouunderwear.se/products/byou-seamless-thong-2-pack-svart",
+  "robots_meta": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "hreflang": [
+   [
+    "x-default",
+    "https://byouunderwear.se/products/byou-seamless-thong-2-pack-svart"
+   ],
+   [
+    "sv",
+    "https://byouunderwear.se/products/byou-seamless-thong-2-pack-svart"
+   ],
+   [
+    "da",
+    "https://byouunderwear.se/da/products/byou-seamless-thong-2-pack-sort"
+   ],
+   [
+    "fi",
+    "https://byouunderwear.se/fi/products/byou-seamless-thong-2-pack-musta-1"
+   ],
+   [
+    "de",
+    "https://byouunderwear.se/de/products/byou-seamless-thong-2-pack-schwarz-1"
+   ],
+   [
+    "en",
+    "https://byouunderwear.se/en/products/byou-seamless-thong-2-pack-black-eng"
+   ]
+  ],
+  "og": {
+   "title": "BYOU Seamless Thong 2-pack - Svart",
+   "type": "product",
+   "description": "BYOU Seamless Thong 2-pack BYOU Seamless Thong skapades tillsammans med designern Jessica Rose för att fylla efterfrågan av en trosa som känns som ett med din hud. Med laserklippningsteknik och ett tunt och fint tyg har vi skapat en trosa utan synliga sömmar, mycket god andningsförmåga och hög träningskvalitet i en tid",
+   "image": "https://byouunderwear.se/cdn/shop/files/thong_black-2pack_f9733558-f19a-4be8-a22e-1718cf992013.jpg?v=1782377289"
+  },
+  "h1": [
+   "BYOU Seamless Thong 2-pack - Svart"
+  ],
+  "h2_antal": 21,
+  "jsonld_typer": [
+   "Organization",
+   "Organization",
+   "ProductGroup"
+  ],
+  "bilder": 15,
+  "bilder_utan_alt": 6,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX"
+   ],
+   "gads": [
+    "AW-18129702821",
+    "AW-18129702821",
+    "AW-18129702821"
+   ],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 1262
+ },
+ {
+  "url": "https://byouunderwear.se/products/byou-seamless-thong-2-pack-beige-s",
+  "status": 200,
+  "slutadress": "https://byouunderwear.se/products/byou-seamless-thong-2-pack-beige-s",
+  "bytes": 814404,
+  "html_lang": "sv",
+  "title": "BYOU Seamless Thong 2-pack - Beige\n – BYOU Underwear",
+  "meta_description": "BYOU Seamless Thong 2-pack BYOU Seamless Thong skapades tillsammans med designern Jessica Rose för att fylla efterfrågan av en trosa som känns som ett med din hud. Med laserklippningsteknik och ett tunt och fint tyg har vi skapat en trosa utan synliga sömmar, mycket god andningsförmåga och hög träningskvalitet i en tid",
+  "canonical": "https://byouunderwear.se/products/byou-seamless-thong-2-pack-beige-s",
+  "robots_meta": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "hreflang": [
+   [
+    "x-default",
+    "https://byouunderwear.se/products/byou-seamless-thong-2-pack-beige-s"
+   ],
+   [
+    "sv",
+    "https://byouunderwear.se/products/byou-seamless-thong-2-pack-beige-s"
+   ],
+   [
+    "da",
+    "https://byouunderwear.se/da/products/byou-seamless-thong-2-pack-beige-dk"
+   ],
+   [
+    "fi",
+    "https://byouunderwear.se/fi/products/byou-seamless-thong-2-pack-beige-fi-1"
+   ],
+   [
+    "de",
+    "https://byouunderwear.se/de/products/byou-seamless-thong-2-pack-beige-de-1"
+   ],
+   [
+    "en",
+    "https://byouunderwear.se/en/products/byou-seamless-thong-2-pack-beige-eng"
+   ]
+  ],
+  "og": {
+   "title": "BYOU Seamless Thong 2-pack - Beige",
+   "type": "product",
+   "description": "BYOU Seamless Thong 2-pack BYOU Seamless Thong skapades tillsammans med designern Jessica Rose för att fylla efterfrågan av en trosa som känns som ett med din hud. Med laserklippningsteknik och ett tunt och fint tyg har vi skapat en trosa utan synliga sömmar, mycket god andningsförmåga och hög träningskvalitet i en tid",
+   "image": "https://byouunderwear.se/cdn/shop/files/thong_beige_2pack_0c0faa18-9f7b-4697-8189-8fefad1111ae.jpg?v=1782377043"
+  },
+  "h1": [
+   "BYOU Seamless Thong 2-pack - Beige"
+  ],
+  "h2_antal": 21,
+  "jsonld_typer": [
+   "Organization",
+   "Organization",
+   "ProductGroup"
+  ],
+  "bilder": 17,
+  "bilder_utan_alt": 7,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX"
+   ],
+   "gads": [
+    "AW-18129702821",
+    "AW-18129702821",
+    "AW-18129702821"
+   ],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 1301
+ },
+ {
+  "url": "https://byouunderwear.se/products/byou-seamless-hipster-5-pack-svart-senaste",
+  "status": 200,
+  "slutadress": "https://byouunderwear.se/products/byou-seamless-hipster-5-pack-svart-senaste",
+  "bytes": 804725,
+  "html_lang": "sv",
+  "title": "BYOU Seamless Hipster 5-pack - Svart\n – BYOU Underwear",
+  "meta_description": "BYOU Seamless Hipster 5-pack BYOU Seamless Hipster skapades tillsammans med designern Jessica Rose för att fylla efterfrågan av en trosa som känns som ett med din hud. Med laserklippningsteknik och ett tunt och fint tyg har vi skapat en trosa utan synliga sömmar, mycket god andningsförmåga och hög träningskvalitet i en",
+  "canonical": "https://byouunderwear.se/products/byou-seamless-hipster-5-pack-svart-senaste",
+  "robots_meta": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "hreflang": [
+   [
+    "x-default",
+    "https://byouunderwear.se/products/byou-seamless-hipster-5-pack-svart-senaste"
+   ],
+   [
+    "sv",
+    "https://byouunderwear.se/products/byou-seamless-hipster-5-pack-svart-senaste"
+   ],
+   [
+    "da",
+    "https://byouunderwear.se/da/products/byou-seamless-hipster-5-pabyou-seamless-hipster-5-pack-sortck-sort"
+   ],
+   [
+    "fi",
+    "https://byouunderwear.se/fi/products/byou-seamless-hipster-5-pack-musta-1"
+   ],
+   [
+    "de",
+    "https://byouunderwear.se/de/products/byou-seamless-hipster-5-pack-schwarz-1"
+   ],
+   [
+    "en",
+    "https://byouunderwear.se/en/products/byou-seamless-hipster-5-pack-black-eng-1"
+   ]
+  ],
+  "og": {
+   "title": "BYOU Seamless Hipster 5-pack - Svart",
+   "type": "product",
+   "description": "BYOU Seamless Hipster 5-pack BYOU Seamless Hipster skapades tillsammans med designern Jessica Rose för att fylla efterfrågan av en trosa som känns som ett med din hud. Med laserklippningsteknik och ett tunt och fint tyg har vi skapat en trosa utan synliga sömmar, mycket god andningsförmåga och hög träningskvalitet i en",
+   "image": "https://byouunderwear.se/cdn/shop/files/hipster_5_pack_black_2024_fdb962ff-616a-42e0-a8fd-b5e49543c67e.jpg?v=1782376265"
+  },
+  "h1": [
+   "BYOU Seamless Hipster 5-pack - Svart"
+  ],
+  "h2_antal": 21,
+  "jsonld_typer": [
+   "Organization",
+   "Organization",
+   "ProductGroup"
+  ],
+  "bilder": 13,
+  "bilder_utan_alt": 5,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX"
+   ],
+   "gads": [
+    "AW-18129702821",
+    "AW-18129702821",
+    "AW-18129702821"
+   ],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 1255
+ },
+ {
+  "url": "https://byouunderwear.se/products/byou-seamless-hipster-5-pack-beige-senaste",
+  "status": 200,
+  "slutadress": "https://byouunderwear.se/products/byou-seamless-hipster-5-pack-beige-senaste",
+  "bytes": 806396,
+  "html_lang": "sv",
+  "title": "BYOU Seamless Hipster 5-pack - Beige\n – BYOU Underwear",
+  "meta_description": "BYOU Seamless Hipster 5-pack BYOU Seamless Hipster skapades tillsammans med designern Jessica Rose för att fylla efterfrågan av en trosa som känns som ett med din hud.  Med laserklippningsteknik och ett tunt och fint tyg har vi skapat en trosa utan synliga sömmar, mycket god andningsförmåga och hög träningskvalitet i e",
+  "canonical": "https://byouunderwear.se/products/byou-seamless-hipster-5-pack-beige-senaste",
+  "robots_meta": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "hreflang": [
+   [
+    "x-default",
+    "https://byouunderwear.se/products/byou-seamless-hipster-5-pack-beige-senaste"
+   ],
+   [
+    "sv",
+    "https://byouunderwear.se/products/byou-seamless-hipster-5-pack-beige-senaste"
+   ],
+   [
+    "da",
+    "https://byouunderwear.se/da/products/byou-seamless-hipster-5-pack-beige-dk"
+   ],
+   [
+    "fi",
+    "https://byouunderwear.se/fi/products/byou-seamless-hipster-5-pack-beige-fi"
+   ],
+   [
+    "de",
+    "https://byouunderwear.se/de/products/byou-seamless-hipster-5-pack-beige-de-1"
+   ],
+   [
+    "en",
+    "https://byouunderwear.se/en/products/byou-seamless-hipster-5-pack-beige-eng"
+   ]
+  ],
+  "og": {
+   "title": "BYOU Seamless Hipster 5-pack - Beige",
+   "type": "product",
+   "description": "BYOU Seamless Hipster 5-pack BYOU Seamless Hipster skapades tillsammans med designern Jessica Rose för att fylla efterfrågan av en trosa som känns som ett med din hud.  Med laserklippningsteknik och ett tunt och fint tyg har vi skapat en trosa utan synliga sömmar, mycket god andningsförmåga och hög träningskvalitet i e",
+   "image": "https://byouunderwear.se/cdn/shop/files/Hipster_5_pack_beige_2024_13d0769f-e6e0-4e9d-84f4-f789f19aa0f2.jpg?v=1782375992"
+  },
+  "h1": [
+   "BYOU Seamless Hipster 5-pack - Beige"
+  ],
+  "h2_antal": 21,
+  "jsonld_typer": [
+   "Organization",
+   "Organization",
+   "ProductGroup"
+  ],
+  "bilder": 15,
+  "bilder_utan_alt": 6,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX"
+   ],
+   "gads": [
+    "AW-18129702821",
+    "AW-18129702821",
+    "AW-18129702821"
+   ],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 1152
+ },
+ {
+  "url": "https://byouunderwear.se/products/byou-seamless-thong-5-pack-svart-senaste",
+  "status": 200,
+  "slutadress": "https://byouunderwear.se/products/byou-seamless-thong-5-pack-svart-senaste",
+  "bytes": 809878,
+  "html_lang": "sv",
+  "title": "BYOU Seamless Thong 5-pack - Svart\n – BYOU Underwear",
+  "meta_description": "BYOU Seamless Thong 5-pack BYOU Seamless Thong skapades tillsammans med designern Jessica Rose för att fylla efterfrågan av en trosa som känns som ett med din hud. Med laserklippningsteknik och ett tunt och fint tyg har vi skapat en trosa utan synliga sömmar, mycket god andningsförmåga och hög träningskvalitet i en tid",
+  "canonical": "https://byouunderwear.se/products/byou-seamless-thong-5-pack-svart-senaste",
+  "robots_meta": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "hreflang": [
+   [
+    "x-default",
+    "https://byouunderwear.se/products/byou-seamless-thong-5-pack-svart-senaste"
+   ],
+   [
+    "sv",
+    "https://byouunderwear.se/products/byou-seamless-thong-5-pack-svart-senaste"
+   ],
+   [
+    "da",
+    "https://byouunderwear.se/da/products/byou-seamless-thong-5-pack-sort"
+   ],
+   [
+    "fi",
+    "https://byouunderwear.se/fi/products/byou-seamless-thong-5-pack-musta"
+   ],
+   [
+    "de",
+    "https://byouunderwear.se/de/products/byou-seamless-thong-5-pack-schwarz-1"
+   ],
+   [
+    "en",
+    "https://byouunderwear.se/en/products/byou-seamless-thong-5-pack-svart-eng"
+   ]
+  ],
+  "og": {
+   "title": "BYOU Seamless Thong 5-pack - Svart",
+   "type": "product",
+   "description": "BYOU Seamless Thong 5-pack BYOU Seamless Thong skapades tillsammans med designern Jessica Rose för att fylla efterfrågan av en trosa som känns som ett med din hud. Med laserklippningsteknik och ett tunt och fint tyg har vi skapat en trosa utan synliga sömmar, mycket god andningsförmåga och hög träningskvalitet i en tid",
+   "image": "https://byouunderwear.se/cdn/shop/files/thong_black_5pack_a6665409-490c-41eb-bd65-e9aa62439833.jpg?v=1782375687"
+  },
+  "h1": [
+   "BYOU Seamless Thong 5-pack - Svart"
+  ],
+  "h2_antal": 21,
+  "jsonld_typer": [
+   "Organization",
+   "Organization",
+   "ProductGroup"
+  ],
+  "bilder": 15,
+  "bilder_utan_alt": 6,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX"
+   ],
+   "gads": [
+    "AW-18129702821",
+    "AW-18129702821",
+    "AW-18129702821"
+   ],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 1247
+ },
+ {
+  "url": "https://byouunderwear.se/products/byou-seamless-thong-5-pack-beige-senaste",
+  "status": 200,
+  "slutadress": "https://byouunderwear.se/products/byou-seamless-thong-5-pack-beige-senaste",
+  "bytes": 814012,
+  "html_lang": "sv",
+  "title": "BYOU Seamless Thong 5-pack - Beige\n – BYOU Underwear",
+  "meta_description": "BYOU Seamless Thong 5-pack BYOU Seamless Thong skapades tillsammans med designern Jessica Rose för att fylla efterfrågan av en trosa som känns som ett med din hud. Med laserklippningsteknik och ett tunt och fint tyg har vi skapat en trosa utan synliga sömmar, mycket god andningsförmåga och hög träningskvalitet i en tid",
+  "canonical": "https://byouunderwear.se/products/byou-seamless-thong-5-pack-beige-senaste",
+  "robots_meta": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "hreflang": [
+   [
+    "x-default",
+    "https://byouunderwear.se/products/byou-seamless-thong-5-pack-beige-senaste"
+   ],
+   [
+    "sv",
+    "https://byouunderwear.se/products/byou-seamless-thong-5-pack-beige-senaste"
+   ],
+   [
+    "da",
+    "https://byouunderwear.se/da/products/byou-seamless-thong-5-pack-beige"
+   ],
+   [
+    "fi",
+    "https://byouunderwear.se/fi/products/byou-seamless-thong-5-pack-beige-fi-1"
+   ],
+   [
+    "de",
+    "https://byouunderwear.se/de/products/byou-seamless-thong-5-pack-beige-de-1"
+   ],
+   [
+    "en",
+    "https://byouunderwear.se/en/products/byou-seamless-thong-5-pack-beige-eng"
+   ]
+  ],
+  "og": {
+   "title": "BYOU Seamless Thong 5-pack - Beige",
+   "type": "product",
+   "description": "BYOU Seamless Thong 5-pack BYOU Seamless Thong skapades tillsammans med designern Jessica Rose för att fylla efterfrågan av en trosa som känns som ett med din hud. Med laserklippningsteknik och ett tunt och fint tyg har vi skapat en trosa utan synliga sömmar, mycket god andningsförmåga och hög träningskvalitet i en tid",
+   "image": "https://byouunderwear.se/cdn/shop/files/thong_beige_5pack_373efb7f-f479-40cf-997f-dea08f7580c3.jpg?v=1782375446"
+  },
+  "h1": [
+   "BYOU Seamless Thong 5-pack - Beige"
+  ],
+  "h2_antal": 21,
+  "jsonld_typer": [
+   "Organization",
+   "Organization",
+   "ProductGroup"
+  ],
+  "bilder": 17,
+  "bilder_utan_alt": 7,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX"
+   ],
+   "gads": [
+    "AW-18129702821",
+    "AW-18129702821",
+    "AW-18129702821"
+   ],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 1188
+ },
+ {
+  "url": "https://byouunderwear.se/products/byou-seamless-hipster-10-pack-svart",
+  "status": 200,
+  "slutadress": "https://byouunderwear.se/products/byou-seamless-hipster-10-pack-svart",
+  "bytes": 794980,
+  "html_lang": "sv",
+  "title": "BYOU Seamless Hipster 10-pack - Svart\n – BYOU Underwear",
+  "meta_description": "Sömlösa hipstertrosor i 10-pack med mjukt, stretchigt material och osynlig design. Perfekta under kläder och träning för maximal komfort hela dagen.",
+  "canonical": "https://byouunderwear.se/products/byou-seamless-hipster-10-pack-svart",
+  "robots_meta": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "hreflang": [
+   [
+    "x-default",
+    "https://byouunderwear.se/products/byou-seamless-hipster-10-pack-svart"
+   ],
+   [
+    "sv",
+    "https://byouunderwear.se/products/byou-seamless-hipster-10-pack-svart"
+   ],
+   [
+    "da",
+    "https://byouunderwear.se/da/products/byou-seamless-hipster-10-pack-svart"
+   ],
+   [
+    "fi",
+    "https://byouunderwear.se/fi/products/byou-seamless-hipster-10-pack-musta"
+   ],
+   [
+    "de",
+    "https://byouunderwear.se/de/products/byou-seamless-hipster-10-pack-schwarz"
+   ],
+   [
+    "en",
+    "https://byouunderwear.se/en/products/byou-seamless-hipster-10-pack-black-eng"
+   ]
+  ],
+  "og": {
+   "title": "BYOU Seamless Hipster 10-pack - Svart",
+   "type": "product",
+   "description": "Sömlösa hipstertrosor i 10-pack med mjukt, stretchigt material och osynlig design. Perfekta under kläder och träning för maximal komfort hela dagen.",
+   "image": "https://byouunderwear.se/cdn/shop/files/Namnlosdesign-2026-04-30T100534.046.png?v=1777536349"
+  },
+  "h1": [
+   "BYOU Seamless Hipster 10-pack - Svart"
+  ],
+  "h2_antal": 21,
+  "jsonld_typer": [
+   "Organization",
+   "Organization",
+   "ProductGroup"
+  ],
+  "bilder": 12,
+  "bilder_utan_alt": 5,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX"
+   ],
+   "gads": [
+    "AW-18129702821",
+    "AW-18129702821",
+    "AW-18129702821"
+   ],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 1156
+ },
+ {
+  "url": "https://byouunderwear.se/products/byou-seamless-thong-10-pack-beige",
+  "status": 200,
+  "slutadress": "https://byouunderwear.se/products/byou-seamless-thong-10-pack-beige",
+  "bytes": 801819,
+  "html_lang": "sv",
+  "title": "BYOU Seamless Thong 10-pack - Beige\n – BYOU Underwear",
+  "meta_description": "Sömlösa stringtrosor i 10-pack med mjukt, stretchigt material och osynlig design. Perfekta under kläder och träning för maximal komfort hela dagen.",
+  "canonical": "https://byouunderwear.se/products/byou-seamless-thong-10-pack-beige",
+  "robots_meta": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "hreflang": [
+   [
+    "x-default",
+    "https://byouunderwear.se/products/byou-seamless-thong-10-pack-beige"
+   ],
+   [
+    "sv",
+    "https://byouunderwear.se/products/byou-seamless-thong-10-pack-beige"
+   ],
+   [
+    "da",
+    "https://byouunderwear.se/da/products/byou-seamless-thong-10-pak-beige"
+   ],
+   [
+    "fi",
+    "https://byouunderwear.se/fi/products/byou-seamless-thong-10-pack-beige-fi"
+   ],
+   [
+    "de",
+    "https://byouunderwear.se/de/products/byou-seamless-thong-10-pack-beige-de"
+   ],
+   [
+    "en",
+    "https://byouunderwear.se/en/products/byou-seamless-thong-10-pack-beige"
+   ]
+  ],
+  "og": {
+   "title": "BYOU Seamless Thong 10-pack - Beige",
+   "type": "product",
+   "description": "Sömlösa stringtrosor i 10-pack med mjukt, stretchigt material och osynlig design. Perfekta under kläder och träning för maximal komfort hela dagen.",
+   "image": "https://byouunderwear.se/cdn/shop/files/Somlosahipstertrosori10-packmedmjukt_stretchigtmaterialochosynligdesign.Perfektaunderkladerochtraningformaximalkomfortheladagen._2.png?v=1777537293"
+  },
+  "h1": [
+   "BYOU Seamless Thong 10-pack - Beige"
+  ],
+  "h2_antal": 21,
+  "jsonld_typer": [
+   "Organization",
+   "Organization",
+   "ProductGroup"
+  ],
+  "bilder": 14,
+  "bilder_utan_alt": 6,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX"
+   ],
+   "gads": [
+    "AW-18129702821",
+    "AW-18129702821",
+    "AW-18129702821"
+   ],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 1170
+ },
+ {
+  "url": "https://byouunderwear.se/products/byou-seamless-thong-10-pack-svart",
+  "status": 200,
+  "slutadress": "https://byouunderwear.se/products/byou-seamless-thong-10-pack-svart",
+  "bytes": 802662,
+  "html_lang": "sv",
+  "title": "BYOU Seamless Thong 10-pack - Svart\n – BYOU Underwear",
+  "meta_description": "Sömlösa stringtrosor i 10-pack med mjukt, stretchigt material och osynlig design. Perfekta under kläder och träning för maximal komfort hela dagen.",
+  "canonical": "https://byouunderwear.se/products/byou-seamless-thong-10-pack-svart",
+  "robots_meta": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "hreflang": [
+   [
+    "x-default",
+    "https://byouunderwear.se/products/byou-seamless-thong-10-pack-svart"
+   ],
+   [
+    "sv",
+    "https://byouunderwear.se/products/byou-seamless-thong-10-pack-svart"
+   ],
+   [
+    "da",
+    "https://byouunderwear.se/da/products/byou-seamless-thong-10-pak-sort"
+   ],
+   [
+    "fi",
+    "https://byouunderwear.se/fi/products/byou-seamless-thong-10-pack-musta"
+   ],
+   [
+    "de",
+    "https://byouunderwear.se/de/products/byou-seamless-thong-10-pack-schwarz"
+   ],
+   [
+    "en",
+    "https://byouunderwear.se/en/products/byou-seamless-thong-10-pack-svart"
+   ]
+  ],
+  "og": {
+   "title": "BYOU Seamless Thong 10-pack - Svart",
+   "type": "product",
+   "description": "Sömlösa stringtrosor i 10-pack med mjukt, stretchigt material och osynlig design. Perfekta under kläder och träning för maximal komfort hela dagen.",
+   "image": "https://byouunderwear.se/cdn/shop/files/Somlosahipstertrosori10-packmedmjukt_stretchigtmaterialochosynligdesign.Perfektaunderkladerochtraningformaximalkomfortheladagen._1.png?v=1777537100"
+  },
+  "h1": [
+   "BYOU Seamless Thong 10-pack - Svart"
+  ],
+  "h2_antal": 21,
+  "jsonld_typer": [
+   "Organization",
+   "Organization",
+   "ProductGroup"
+  ],
+  "bilder": 14,
+  "bilder_utan_alt": 6,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX"
+   ],
+   "gads": [
+    "AW-18129702821",
+    "AW-18129702821",
+    "AW-18129702821"
+   ],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 1172
+ },
+ {
+  "url": "https://byouunderwear.se/products/byou-seamless-hipster-10-pack-beige",
+  "status": 200,
+  "slutadress": "https://byouunderwear.se/products/byou-seamless-hipster-10-pack-beige",
+  "bytes": 800192,
+  "html_lang": "sv",
+  "title": "BYOU Seamless Hipster 10-pack - Beige\n – BYOU Underwear",
+  "meta_description": "Sömlösa hipstertrosor i 10-pack med mjukt, stretchigt material och osynlig design. Perfekta under kläder och träning för maximal komfort hela dagen.",
+  "canonical": "https://byouunderwear.se/products/byou-seamless-hipster-10-pack-beige",
+  "robots_meta": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "hreflang": [
+   [
+    "x-default",
+    "https://byouunderwear.se/products/byou-seamless-hipster-10-pack-beige"
+   ],
+   [
+    "sv",
+    "https://byouunderwear.se/products/byou-seamless-hipster-10-pack-beige"
+   ],
+   [
+    "da",
+    "https://byouunderwear.se/da/products/byou-seamless-hipster-10-pack-beige"
+   ],
+   [
+    "fi",
+    "https://byouunderwear.se/fi/products/byou-seamless-hipster-10-pack-beige-fi"
+   ],
+   [
+    "de",
+    "https://byouunderwear.se/de/products/byou-seamless-hipster-10-pack-beige-de"
+   ],
+   [
+    "en",
+    "https://byouunderwear.se/en/products/byou-seamless-hipster-10-pack-beige-eng"
+   ]
+  ],
+  "og": {
+   "title": "BYOU Seamless Hipster 10-pack - Beige",
+   "type": "product",
+   "description": "Sömlösa hipstertrosor i 10-pack med mjukt, stretchigt material och osynlig design. Perfekta under kläder och träning för maximal komfort hela dagen.",
+   "image": "https://byouunderwear.se/cdn/shop/files/Somlosahipstertrosori10-packmedmjukt_stretchigtmaterialochosynligdesign.Perfektaunderkladerochtraningformaximalkomfortheladagen..png?v=1777536804"
+  },
+  "h1": [
+   "BYOU Seamless Hipster 10-pack - Beige"
+  ],
+  "h2_antal": 21,
+  "jsonld_typer": [
+   "Organization",
+   "Organization",
+   "ProductGroup"
+  ],
+  "bilder": 14,
+  "bilder_utan_alt": 6,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX"
+   ],
+   "gads": [
+    "AW-18129702821",
+    "AW-18129702821",
+    "AW-18129702821"
+   ],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 1137
+ },
+ {
+  "url": "https://byouunderwear.se/products/byou-underwear-presentkort-2",
+  "status": 200,
+  "slutadress": "https://byouunderwear.se/products/byou-underwear-presentkort-2",
+  "bytes": 776518,
+  "html_lang": "sv",
+  "title": "BYOU Presentkort - Trosor\n – BYOU Underwear",
+  "meta_description": "Den perfekta presenten till den som gillar att välja själv – ett presentkort! Ge bort friheten att själv välja bland våra sömlösa favoriter. Med ett presentkort kan mottagaren hitta sina egna must-haves, från vardagens mest bekväma plagg till de där små detaljerna som gör stor skillnad. Presentkortet levereras digitalt direkt till din mail och är enkelt att använda i webbshoppen. En gåva som alltid blir rätt, oavsett stil, storlek eller tillfälle. Giltighetstid: 12 månader",
+  "canonical": "https://byouunderwear.se/products/byou-underwear-presentkort-2",
+  "robots_meta": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "hreflang": [
+   [
+    "x-default",
+    "https://byouunderwear.se/products/byou-underwear-presentkort-2"
+   ],
+   [
+    "sv",
+    "https://byouunderwear.se/products/byou-underwear-presentkort-2"
+   ],
+   [
+    "da",
+    "https://byouunderwear.se/da/products/byou-underwear-presentkort-2"
+   ],
+   [
+    "fi",
+    "https://byouunderwear.se/fi/products/byou-alusvaatteiden-lahjakortti"
+   ],
+   [
+    "de",
+    "https://byouunderwear.se/de/products/byou-underwear-geschenkkarte"
+   ],
+   [
+    "en",
+    "https://byouunderwear.se/en/products/byou-underwear-presentkort-2"
+   ]
+  ],
+  "og": {
+   "title": "BYOU Presentkort - Trosor",
+   "type": "product",
+   "description": "Den perfekta presenten till den som gillar att välja själv – ett presentkort! Ge bort friheten att själv välja bland våra sömlösa favoriter. Med ett presentkort kan mottagaren hitta sina egna must-haves, från vardagens mest bekväma plagg till de där små detaljerna som gör stor skillnad. Presentkortet levereras digitalt direkt till din mail och är enkelt att använda i webbshoppen. En gåva som alltid blir rätt, oavsett stil, storlek eller tillfälle. Giltighetstid: 12 månader",
+   "image": "https://byouunderwear.se/cdn/shop/files/BYOUGiftCard_34b1f275-83ec-411d-a4c0-2514f66f8f65.png?v=1756975873"
+  },
+  "h1": [
+   "BYOU Underwear Presentkort"
+  ],
+  "h2_antal": 22,
+  "jsonld_typer": [
+   "Organization",
+   "Organization",
+   "ProductGroup"
+  ],
+  "bilder": 6,
+  "bilder_utan_alt": 2,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX"
+   ],
+   "gads": [
+    "AW-18129702821",
+    "AW-18129702821",
+    "AW-18129702821"
+   ],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 1000
+ }
+]

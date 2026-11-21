@@ -1,0 +1,61 @@
+{
+ "butik": "byouunderwear.se",
+ "myshopify": "officialbyou.myshopify.com",
+ "myshopify_kalla": "Hämtat ur https://byouunderwear.se/.well-known/ucp (offentligt). TODO: bekräfta med get-shop-info när Shopify-verktyget är inloggat igen",
+ "sprak": "sv",
+ "sprak_marknader": "Storefront har språkvägar /da, /fi, /de, /en under samma domän (sitemap och hreflang). TODO: David bekräftar vilka marknader som är på riktigt och vilka som bara är maskinöversatta",
+ "ton": "TODO David: ton och tilltal (du/ni). Utkast: saklig, varm, konkret; bara uppgifter ur produktens egen källa; inga löften om hälsa eller effekt",
+ "marken": [
+  "BYOU Underwear"
+ ],
+ "marken_anmarkning": "Butiken säljer bara eget varumärke. Vendor = 'BYOU Underwear'. Regel R8 (märke med stor första bokstav, resten gemener) passar inte: märket skrivs 'BYOU'. TODO David: bekräfta stavning (BYOU / B You / BYOU Underwear)",
+ "marken_varning_bara": [],
+ "gransvarden": {
+  "titel_max": 70,
+  "titel_max_komma": 2,
+  "seo_titel_max": 43,
+  "seo_suffix": " – BYOU Underwear",
+  "meta_min": 70,
+  "meta_max": 155,
+  "_anm": "Samma gränser som BOS tills vidare. Temat lägger redan på ' – BYOU Underwear' i <title>; kontrollera att SEO-titeln inte dubblerar suffixet. TODO David"
+ },
+ "standardblock_krav": "TODO: butiken har idag inget standardblock i produkttexterna. David beslutar om ett ska finnas (leverans, retur, storleksråd) och vilken text",
+ "standardblock_kanonisk": "TODO",
+ "leveranstidsmening": "TODO",
+ "leveranstidstagg": "TODO",
+ "klartagg": "texter-klara",
+ "taggar_som_inte_far_roras": [],
+ "taggar_anmarkning": "Nuvarande taggar är hashtag-strängar ('#seamless #seamlessunderwear ...') i en enda tagg på 8 produkter samt produkttyp, 2pack/5pack och 'giftcard'. Rörs inte i fas 1. TODO David: får taggstädning föreslås i fas 2?",
+ "faktatextlage_kategorier": [
+  "underkläder (trosor: hipster, string/thong)",
+  "materialsammansättning, storlek och passform: bara ordagrant ur produktens egen källa"
+ ],
+ "utanfor_tills_vidare": [
+  "presentkort (ingen varutext)",
+  "barnunderkläder (finns inte idag; hålls utanför om de tillkommer)",
+  "herrunderkläder och könsneutrala plagg tills David beslutat könsbeteckning",
+  "hygien- och hälsopåståenden (antibakteriell, hudvänlig, ekologiskt, medicinsk) utan källa",
+  "mensskydd/inkontinensplagg om de tillkommer",
+  "kompressions-/formande plagg med effektpåståenden"
+ ],
+ "underklader_sarregler_forslag": {
+  "storlek_passform": "Storleksuppgifter (XS–L, 'välj större om du står mellan två storlekar') får bara återges ordagrant ur produktens egen källa. Ingen mått- eller storlekstabell får skrivas utan leverantörens tabell. Passformsråd gäller per modell; överförs aldrig mellan hipster och thong.",
+  "material": "Material och sammansättning (t.ex. procent nylon/elastan) får bara skrivas om det står entydigt i källan. Idag står INGEN sammansättning i någon produkttext; fältet lämnas tomt, aldrig gissat. TODO David: skicka materialuppgifter från tillverkaren.",
+  "hygien": "Inga hygien-, hälso- eller hudpåståenden (bakteriehämmande, allergivänlig, Öko-Tex m.m.) utan certifikat eller tillverkarens ordagranna uppgift, då 'enligt tillverkaren'. Påståenden som 'mycket god andningsförmåga' och 'hög träningskvalitet' i dagens text är leverantörstext och behandlas enligt R5.",
+  "barn": "Barnplagg hålls utanför (R6) tills David beslutat.",
+  "genomskinlighet_synlighet": "Påståenden som 'syns inte genom dina kläder' är en kvalitets-/synlighetsuppgift: 'enligt tillverkaren' eller utelämnas (R5).",
+  "pack_och_farg": "Pack (2/5/10) och färg (Svart/Beige) är olika produkter med egen handle. Titel, pris och antal ska stämma med varandra (R3). Handle ändras aldrig (R12a).",
+  "könsbeteckning": "Dagens taggar säger 'underwearforwomen' och schemakategorin är 'Underkläder för kvinnor'. Könsbeteckning används bara om produktens källa har den. TODO David: ska 'dam' användas i titel/meta?"
+ },
+ "godkanda_typord": {
+  "hipstertrosor": "produktens egen live-typ (product_type)",
+  "stringtrosor": "produktens egen live-typ; titeln använder 'Thong' (engelska). TODO David: behåll 'Thong' i titel eller byt till 'String'? (R7)"
+ },
+ "format_regler": "rapporter/facit-bos-2026-10-31/format_regler.py",
+ "sparrlista": "shopify-sync/config/sparrlista-byou.json",
+ "beslutslogg": "shopify-sync/docs/BESLUTSLOGG.md",
+ "regelbok": "shopify-sync/regler/regler-v1.md",
+ "skrivmetod": "TODO: ingen skrivväg än. Kräver app med read/write_products och token som hemlig variabel (SHOPIFY_CLIENT_ID_BYOU / SHOPIFY_CLIENT_SECRET_BYOU), enligt textutrullning-rutin.md §3",
+ "inventering_status": "Fas 1: endast offentlig läsning (products.json). Shopify-verktyget krävde ny inloggning, så admin-inventering (status, utkast, SEO-fält, taggar, marknader) återstår",
+ "anmarkning": "Skapad 2026-11-04 av Claude från mallen butiksprofil-bestofsports.json. Fält som är TODO är obesvarade frågor till David."
+}

@@ -1,0 +1,455 @@
+[
+ {
+  "url": "https://byouunderwear.se/",
+  "status": 200,
+  "slutadress": "https://byouunderwear.se/",
+  "bytes": 626288,
+  "html_lang": "sv",
+  "title": "BYOU - Trosorna du glömmer att du har på dig\n – BYOU Underwear",
+  "meta_description": "De skönaste underkläderna till kvinnor som vill omfamna självförtroende och självständighet, utan obehag.",
+  "canonical": "https://byouunderwear.se/",
+  "robots_meta": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "hreflang": [
+   [
+    "x-default",
+    "https://byouunderwear.se/"
+   ],
+   [
+    "sv",
+    "https://byouunderwear.se/"
+   ],
+   [
+    "da",
+    "https://byouunderwear.se/da"
+   ],
+   [
+    "fi",
+    "https://byouunderwear.se/fi"
+   ],
+   [
+    "de",
+    "https://byouunderwear.se/de"
+   ],
+   [
+    "en",
+    "https://byouunderwear.se/en"
+   ]
+  ],
+  "og": {
+   "title": "BYOU - Trosorna du glömmer att du har på dig",
+   "type": "website",
+   "description": "De skönaste underkläderna till kvinnor som vill omfamna självförtroende och självständighet, utan obehag.",
+   "image": "https://byouunderwear.se/cdn/shop/files/mailblast_hipsters.png?v=1728045135"
+  },
+  "h1": [
+   ""
+  ],
+  "h2_antal": 16,
+  "jsonld_typer": [
+   "Organization",
+   "Organization",
+   "WebSite"
+  ],
+  "bilder": 18,
+  "bilder_utan_alt": 7,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX"
+   ],
+   "gads": [
+    "AW-18129702821",
+    "AW-18129702821",
+    "AW-18129702821"
+   ],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 878
+ },
+ {
+  "url": "https://byouunderwear.se/products/byou-seamless-hipster-2-pack-beige",
+  "status": 200,
+  "slutadress": "https://byouunderwear.se/products/byou-seamless-hipster-2-pack-beige",
+  "bytes": 804599,
+  "html_lang": "sv",
+  "title": "BYOU Seamless Hipster 2-pack - Beige\n – BYOU Underwear",
+  "meta_description": "BYOU Seamless Hipster 2-pack BYOU Seamless Hipster skapades tillsammans med designern Jessica Rose för att fylla efterfrågan av en trosa som känns som ett med din hud. Med laserklippningsteknik och ett tunt och fint tyg har vi skapat en trosa utan synliga sömmar, mycket god andningsförmåga och hög träningskvalitet i en",
+  "canonical": "https://byouunderwear.se/products/byou-seamless-hipster-2-pack-beige",
+  "robots_meta": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "hreflang": [
+   [
+    "x-default",
+    "https://byouunderwear.se/products/byou-seamless-hipster-2-pack-beige"
+   ],
+   [
+    "sv",
+    "https://byouunderwear.se/products/byou-seamless-hipster-2-pack-beige"
+   ],
+   [
+    "da",
+    "https://byouunderwear.se/da/products/byou-seamless-hipster-2-pack-beige-dk"
+   ],
+   [
+    "fi",
+    "https://byouunderwear.se/fi/products/byou-seamless-hipster-2-pack-beige-fi-1"
+   ],
+   [
+    "de",
+    "https://byouunderwear.se/de/products/byou-seamless-hipster-2-pack-beige-de-1"
+   ],
+   [
+    "en",
+    "https://byouunderwear.se/en/products/byou-seamless-hipster-2-pack-beige-eng-1"
+   ]
+  ],
+  "og": {
+   "title": "BYOU Seamless Hipster 2-pack - Beige",
+   "type": "product",
+   "description": "BYOU Seamless Hipster 2-pack BYOU Seamless Hipster skapades tillsammans med designern Jessica Rose för att fylla efterfrågan av en trosa som känns som ett med din hud. Med laserklippningsteknik och ett tunt och fint tyg har vi skapat en trosa utan synliga sömmar, mycket god andningsförmåga och hög träningskvalitet i en",
+   "image": "https://byouunderwear.se/cdn/shop/files/hipster_2_pack_2024_beige_bacd8d55-6850-4b06-b34d-2bd6b3c08f13.jpg?v=1782377856"
+  },
+  "h1": [
+   "BYOU Seamless Hipster 2-pack - Beige"
+  ],
+  "h2_antal": 21,
+  "jsonld_typer": [
+   "Organization",
+   "Organization",
+   "ProductGroup"
+  ],
+  "bilder": 15,
+  "bilder_utan_alt": 6,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX"
+   ],
+   "gads": [
+    "AW-18129702821",
+    "AW-18129702821",
+    "AW-18129702821"
+   ],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 1172
+ },
+ {
+  "url": "https://byouunderwear.se/collections/hipstertrosor-och-stringtrosor",
+  "status": 200,
+  "slutadress": "https://byouunderwear.se/collections/hipstertrosor-och-stringtrosor",
+  "bytes": 654484,
+  "html_lang": "sv",
+  "title": "Hipster- & stringtrosor | Sömlösa trosor dam - Bekväma trosor\n – BYOU Underwear",
+  "meta_description": "Upptäck hipstertrosor och stringtrosor i sömlös design. Bekväma, osynliga under kläder och skapade för perfekt passform hela dagen. Älskade av tusentals!",
+  "canonical": "https://byouunderwear.se/collections/hipstertrosor-och-stringtrosor",
+  "robots_meta": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "hreflang": [
+   [
+    "x-default",
+    "https://byouunderwear.se/collections/hipstertrosor-och-stringtrosor"
+   ],
+   [
+    "sv",
+    "https://byouunderwear.se/collections/hipstertrosor-och-stringtrosor"
+   ],
+   [
+    "da",
+    "https://byouunderwear.se/da/collections/hipstertrusser-og-g-strengstrusser-behagelige-og-somlose-trusser"
+   ],
+   [
+    "fi",
+    "https://byouunderwear.se/fi/collections/hipsteripikkuhousut-ja-stringit-mukavat-ja-saumattomat-pikkuhousut"
+   ],
+   [
+    "de",
+    "https://byouunderwear.se/de/collections/hipster-slips-und-tangas-bequeme-und-nahtlose-slips"
+   ],
+   [
+    "en",
+    "https://byouunderwear.se/en/collections/hipster-panties-and-thongs-comfortable-and-seamless-underwear"
+   ]
+  ],
+  "og": {
+   "title": "Hipster- &amp; stringtrosor | Sömlösa trosor dam - Bekväma trosor",
+   "type": "website",
+   "description": "Upptäck hipstertrosor och stringtrosor i sömlös design. Bekväma, osynliga under kläder och skapade för perfekt passform hela dagen. Älskade av tusentals!",
+   "image": "https://byouunderwear.se/cdn/shop/files/mailblast_hipsters.png?v=1728045135"
+  },
+  "h1": [
+   "Produktserie:  Hipstertrosor och stringtrosor – Bekväma och sömlösa trosor"
+  ],
+  "h2_antal": 23,
+  "jsonld_typer": [
+   "Organization",
+   "Organization",
+   "ItemList"
+  ],
+  "bilder": 16,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX"
+   ],
+   "gads": [
+    "AW-18129702821",
+    "AW-18129702821",
+    "AW-18129702821"
+   ],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 1069
+ },
+ {
+  "url": "https://byouunderwear.se/collections/all",
+  "status": 200,
+  "slutadress": "https://byouunderwear.se/collections/all",
+  "bytes": 647471,
+  "html_lang": "sv",
+  "title": "Produkter\n – BYOU Underwear",
+  "meta_description": "",
+  "canonical": "https://byouunderwear.se/collections/all",
+  "robots_meta": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "hreflang": [
+   [
+    "x-default",
+    "https://byouunderwear.se/collections/all"
+   ],
+   [
+    "sv",
+    "https://byouunderwear.se/collections/all"
+   ],
+   [
+    "da",
+    "https://byouunderwear.se/da/collections/all"
+   ],
+   [
+    "fi",
+    "https://byouunderwear.se/fi/collections/all"
+   ],
+   [
+    "de",
+    "https://byouunderwear.se/de/collections/all"
+   ],
+   [
+    "en",
+    "https://byouunderwear.se/en/collections/all"
+   ]
+  ],
+  "og": {
+   "title": "Produkter",
+   "type": "website",
+   "description": "De skönaste underkläderna till kvinnor som vill omfamna självförtroende och självständighet, utan obehag.",
+   "image": "https://byouunderwear.se/cdn/shop/files/mailblast_hipsters.png?v=1728045135"
+  },
+  "h1": [
+   "Produktserie:  Produkter"
+  ],
+  "h2_antal": 19,
+  "jsonld_typer": [
+   "Organization",
+   "Organization",
+   "ItemList"
+  ],
+  "bilder": 16,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX"
+   ],
+   "gads": [
+    "AW-18129702821",
+    "AW-18129702821",
+    "AW-18129702821"
+   ],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 673
+ },
+ {
+  "url": "https://byouunderwear.se/da/",
+  "status": 200,
+  "slutadress": "https://byouunderwear.se/da/",
+  "bytes": 626919,
+  "html_lang": "da",
+  "title": "BYOU - Sømløst Undertøj\n – BYOU Underwear",
+  "meta_description": "Sømløst undertøj til kvinder",
+  "canonical": "https://byouunderwear.se/da",
+  "robots_meta": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "hreflang": [
+   [
+    "x-default",
+    "https://byouunderwear.se/"
+   ],
+   [
+    "sv",
+    "https://byouunderwear.se/"
+   ],
+   [
+    "da",
+    "https://byouunderwear.se/da"
+   ],
+   [
+    "fi",
+    "https://byouunderwear.se/fi"
+   ],
+   [
+    "de",
+    "https://byouunderwear.se/de"
+   ],
+   [
+    "en",
+    "https://byouunderwear.se/en"
+   ]
+  ],
+  "og": {
+   "title": "BYOU - Sømløst Undertøj",
+   "type": "website",
+   "description": "Sømløst undertøj til kvinder",
+   "image": "https://byouunderwear.se/cdn/shop/files/mailblast_hipsters.png?v=1728045135"
+  },
+  "h1": [
+   ""
+  ],
+  "h2_antal": 16,
+  "jsonld_typer": [
+   "Organization",
+   "Organization",
+   "WebSite"
+  ],
+  "bilder": 18,
+  "bilder_utan_alt": 7,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX"
+   ],
+   "gads": [
+    "AW-18129702821",
+    "AW-18129702821",
+    "AW-18129702821"
+   ],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 860
+ },
+ {
+  "url": "https://byouunderwear.se/pages/om-oss",
+  "status": 200,
+  "slutadress": "https://byouunderwear.se/pages/om-oss",
+  "bytes": 558162,
+  "html_lang": "sv",
+  "title": "Om oss\n – BYOU Underwear",
+  "meta_description": "BYOU Underwear grundades i Stockholm 2022 och skapades för att vi helt enkelt kände att det inte fanns en perfekt trosa på marknaden. Vi ville ha en trosa som det inte kändes att man hade på sig, som inte syntes genom kläderna och som satt på plats hela dagen utan att behöva justeras. Tillsammans med designern Jessica ",
+  "canonical": "https://byouunderwear.se/pages/om-oss",
+  "robots_meta": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "hreflang": [
+   [
+    "x-default",
+    "https://byouunderwear.se/pages/om-oss"
+   ],
+   [
+    "sv",
+    "https://byouunderwear.se/pages/om-oss"
+   ],
+   [
+    "da",
+    "https://byouunderwear.se/da/pages/om-os"
+   ],
+   [
+    "fi",
+    "https://byouunderwear.se/fi/pages/tietoa-meista"
+   ],
+   [
+    "de",
+    "https://byouunderwear.se/de/pages/uber-uns"
+   ],
+   [
+    "en",
+    "https://byouunderwear.se/en/pages/about-us"
+   ]
+  ],
+  "og": {
+   "title": "Om oss",
+   "type": "website",
+   "description": "BYOU Underwear grundades i Stockholm 2022 och skapades för att vi helt enkelt kände att det inte fanns en perfekt trosa på marknaden. Vi ville ha en trosa som det inte kändes att man hade på sig, som inte syntes genom kläderna och som satt på plats hela dagen utan att behöva justeras. Tillsammans med designern Jessica ",
+   "image": "https://byouunderwear.se/cdn/shop/files/mailblast_hipsters.png?v=1728045135"
+  },
+  "h1": [
+   "Om oss"
+  ],
+  "h2_antal": 14,
+  "jsonld_typer": [
+   "Organization",
+   "Organization",
+   "WebPage"
+  ],
+  "bilder": 4,
+  "bilder_utan_alt": 1,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX",
+    "G-PYSG3SKGJX"
+   ],
+   "gads": [
+    "AW-18129702821",
+    "AW-18129702821",
+    "AW-18129702821"
+   ],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 460
+ },
+ {
+  "url": "https://byouunderwear.se/blogs/news",
+  "status": 0,
+  "slutadress": "https://byouunderwear.se/blogs/news",
+  "bytes": 25,
+  "html_lang": null,
+  "title": "",
+  "meta_description": "",
+  "canonical": null,
+  "robots_meta": null,
+  "hreflang": [],
+  "og": {},
+  "h1": [],
+  "h2_antal": 0,
+  "jsonld_typer": [],
+  "bilder": 0,
+  "bilder_utan_alt": 0,
+  "gtm_ga_tecken": {
+   "gtag": false,
+   "gtm": false,
+   "ga4_id": [],
+   "gads": [],
+   "fb_pixel": false,
+   "klaviyo": false
+  },
+  "ord_i_synlig_text": 5
+ }
+]
