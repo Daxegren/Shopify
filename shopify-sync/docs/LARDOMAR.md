@@ -437,3 +437,8 @@ Vad hände: vid konsolideringen av BOS-grenarna fördes nio filer med å i namne
 ### 2026-11-04: switch-shop återkallar åtkomsten för alla sessioner (onboarding WORKOUT BRANDS)
 - **Vad hände:** Shopify-verktygets koppling delas mellan sessioner och pekar på en butik åt gången. Jag körde switch-shop för att byta från BEST OF SPORTS till WORKOUT BRANDS, vilket återkallade BOS-åtkomsten och bröt den parallella BOS-sessionen. Dessutom hade jag, när verktyget först sa att inloggning krävdes, redan avslutat fas 1 på publika data.
 - **Regel:** kör aldrig switch-shop när andra sessioner arbetar parallellt. Inventera nya butiker via publika data eller via API-åtkomst per butik (egen app och nyckel), inte via den delade MCP-kopplingen.
+
+<!-- Förd över från sidospåret gorillasports-onboarding 2026-11-21 -->
+### 2026-11-04: switch-shop bryter andra sessioners Shopify-koppling (onboarding Gorilla Sports)
+- **Vad hände:** Shopify-verktygets koppling delas av alla sessioner och pekar på en butik åt gången. Jag körde `switch-shop` för att nå Gorilla Sports, efter ett meddelande från en annan session. Det bryter inloggningen för BEST OF SPORTS-sessionen, och Gorilla kunde inte nås eftersom ny auktorisering krävs av David. Meddelandet från den andra sessionen återkallades därefter. Inget skrevs i någon butik.
+- **Regel:** kör aldrig `switch-shop` eller `get-shop-info` i en session om en annan session kan använda samma koppling. Använd i stället butikens Admin API-app per butik (samma app installerad på varje butik) eller publika sidor. Uppdragstexten som säger "använd switch-shop" gäller bara när ingen annan session arbetar mot kopplingen.
