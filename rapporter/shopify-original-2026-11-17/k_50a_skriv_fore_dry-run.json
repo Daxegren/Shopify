@@ -1,0 +1,704 @@
+[
+ {
+  "id": "gid://shopify/Product/10411668996362",
+  "title": "Yogamatta SPOKEY Mandala, grön",
+  "handle": "yogamatta-spokey-mandala-gron",
+  "status": "ACTIVE",
+  "tags": [
+   "Spokey",
+   "Velomarket",
+   "Yoga",
+   "Yogamattor"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-16T05:52:27Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Yogamatta SPOKEY Mandala i en vacker grön färg erbjuder en stabil och bekväm yta för din yoga och meditation. Dess halkfria material säkerställer att du kan utföra alla positioner med självförtroende.</p>\n<p>Mattan är designad med ett inspirerande Mandala-mönster och är lätt att rulla ihop för enkel transport och förvaring, vilket gör den till en praktisk följeslagare för både hemmaträning och studiopass.</p>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52586970972426",
+     "sku": "941534",
+     "price": "409.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10411721261322",
+  "title": "Träningshandskar Tunturi Fitness Gloves Pro Gel, Läder",
+  "handle": "traningshandskar-tunturi-fitness-gloves-pro-gel",
+  "status": "ACTIVE",
+  "tags": [
+   "Konditionsträning & Fitness",
+   "Tunturi",
+   "Velomarket"
+  ],
+  "totalInventory": 11,
+  "updatedAt": "2026-11-16T05:59:04Z",
+  "seo": {
+   "title": "Träningshandskar Tunturi Fitness Gloves Pro",
+   "description": "Tunturi Fitness Gloves Pro Gel är träningshandskar i läder med gel i handflatorna, öppna fingrar, handledsstöd och kardborreband. Storlek S–XXL."
+  },
+  "descriptionHtml": "<p>Tunturi Fitness Gloves Pro Gel är träningshandskar i läder med gel i handflatorna, öppna fingrar och handledsstöd, för träning med vikter och stänger.</p><h2>Passar för</h2><ul>\n<li>Dig som regelbundet tränar med vikter och stänger</li>\n<li>Dig som vill ha handskar med gel i handflatorna</li>\n<li>Dig som vill ha öppna fingrar och handledsstöd</li>\n</ul><h2>Specifikationer</h2><ul>\n<li>Gel: Speciell gel i handflatorna, halkfria handskar</li>\n<li>Storlekar: S, M, L, XL och XXL</li>\n<li>Handledsstöd med kardborreband</li>\n<li>Levereras med innerhandske</li>\n<li>Färg: Grå eller svart</li>\n<li>Material: Läder</li>\n<li>Fingrar: Öppna</li>\n<li>Säljs parvis</li>\n</ul><h2>Leverans, retur och garanti</h2><p><strong>Frakt och leverans:</strong> Normal leveranstid är 5–8 arbetsdagar. Fraktavgiften visas i kassan. Se sidan Frakt för övriga länder.</p><p><strong>Retur:</strong> 30 dagars öppet köp. Vid ångrat köp står du för returfrakten. Vid godkänd reklamation står vi för returfrakten, kontakta kundtjänst för instruktioner.</p><p><strong>Reklamation:</strong> Du har reklamationsrätt enligt konsumentlagstiftningen i ditt land. Tillverkarens garanti anges på produkten när uppgiften finns.</p><p><strong>Säljare:</strong> BOS Latitude 60N AB, org.nr 559500-4325, Lindegårdsvägen 33, 746 36 Bålsta, info@bestofsports.se.</p><h2>Vanliga frågor</h2><h3>Vilka storlekar finns?</h3><p>Handskarna finns i storlek S, M, L, XL och XXL.</p><h2>Om märket</h2><p>Tunturi grundades 1922 i Finland.</p>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52587138580746",
+     "sku": "14TUSFU221",
+     "price": "169.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 3
+    },
+    {
+     "id": "gid://shopify/ProductVariant/52587138613514",
+     "sku": "14TUSFU222",
+     "price": "149.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 2
+    },
+    {
+     "id": "gid://shopify/ProductVariant/52587138646282",
+     "sku": "14TUSFU223",
+     "price": "149.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 2
+    },
+    {
+     "id": "gid://shopify/ProductVariant/52587138679050",
+     "sku": "14TUSFU224",
+     "price": "149.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1
+    },
+    {
+     "id": "gid://shopify/ProductVariant/52587138711818",
+     "sku": "14TUSFU225",
+     "price": "149.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 3
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10462177263882",
+  "title": "Balansplatta TUNTURI Air Stepper Pad, Svart",
+  "handle": "balansplatta-tunturi-air-stepper-pad-svart-14tusyo023",
+  "status": "ACTIVE",
+  "tags": [
+   "Konditionsträning & Fitness",
+   "Stepper",
+   "Tunturi",
+   "Velomarket"
+  ],
+  "totalInventory": 4,
+  "updatedAt": "2026-11-16T05:55:28Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Med denna praktiska Tuntur balansplatta får du garanterat bra balans och starka muskler! Använd den som en madrass för sittande eller stående yogapass. När du sitter eller står på en vickningskudde söker din kropp ständigt och omedvetet efter rätt balans. Detta hjälper dig att träna dina rygg- och benmuskler samt förbättra balans, koncentration, koordination och cirkulation. Air Stepper Path är fylld med luft och du kan pumpa så mycket du vill.</p>\n<p>Funktioner:</p>\n<p>- Förbättrar din balans, koncentration, koordination och cirkulation.<br>\n- Lätt och därför lätt att bära<br>\n- Förbättrar koncentrationen hos barn som har svårt att slappna av.<br>\n- Perfekt för att stärka muskler!</p>\n<p>Specifikationer:<br>\n- Diameter: 33 cm.<br>\n- Höjd: 9 cm<br>\n- Mått: 33 cm - 9 cm<br>\n- Material: PP/PVC<br>\n- Maximal vikt: 120 kg.<br>\n- Vikt: 1 kg.<br>\n- Färg: svart</p>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52799814041866",
+     "sku": "14TUSYO023",
+     "price": "229.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 4
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10462193942794",
+  "title": "Gåstavar GYMSTICK Active Walker 110cm",
+  "handle": "g-stavar-gymstick-active-walker-110cm-gym72042110",
+  "status": "ACTIVE",
+  "tags": [
+   "Gymstick",
+   "Utomhusträning",
+   "Velomarket"
+  ],
+  "totalInventory": 2,
+  "updatedAt": "2026-11-16T06:00:44Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>\n<strong>Gymstick Active Walker </strong>gångstavar passar för nybörjare till motionsidrottare. Active Walker är lätt och hållbar. Remmarna är bekväma och mycket justerbara. Handtagen är gjorda av mjukt och bekvämt skumgummi. Grepp: EVA-grepp och en välpassande tumrem. Finns i: 110 - 125 cm.</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52799918768394",
+     "sku": "GYM72042110",
+     "price": "579.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1
+    },
+    {
+     "id": "gid://shopify/ProductVariant/52799918801162",
+     "sku": "GYM72042115",
+     "price": "579.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10462774395146",
+  "title": "Boxing gloves HAMMER X-Shock 14oz",
+  "handle": "boxing-gloves-hammer-x-shock-14oz-95315",
+  "status": "ACTIVE",
+  "tags": [
+   "Boxning",
+   "Hammer",
+   "Konditionsträning & Fitness",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-09T06:20:03Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>HAMMER X-Shock 14oz boxningshandskar är bekväma och högkvalitativa, gjorda av hudvänligt material och är idealiska för sparring och boxningsträning. Integrerade ventilationshål för bättre luftcirkulation. Handledsstöd förhindrar skador och håller handleden stadigt på plats under träning. Sidostygnad tumme håller tummen i optimal position och förhindrar skador.<br><br><strong>Övrig information:</strong>\n</div>\n<div>\n<ul>\n<li>Storlek 14oz</li>\n<li>\n<meta charset=\"utf-8\">Tillverkare: Hammer</li>\n</ul>\n</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52805303140618",
+     "sku": "95314",
+     "price": "699.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10462785405194",
+  "title": "Gymnastikboll TUNTURI Gymball 75cm, Anti-Burst, Petrol",
+  "handle": "gymnastikboll-tunturi-gymball-75cm-anti-burst-petrol-14tusfu340",
+  "status": "ACTIVE",
+  "tags": [
+   "Konditionsträning & Fitness",
+   "Tunturi",
+   "Velomarket"
+  ],
+  "totalInventory": 4,
+  "updatedAt": "2026-11-09T06:21:54Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Om du letar efter en gymnastikboll som inte bara tar din träning till nästa nivå, utan också är lämplig för yoga, stretching och kanske till och med för att sitta vid ett skrivbord, är Tunturi Gymball ett utmärkt val! Tunturi Gymball är designad för att klara vikter upp till 220 kg, vilket garanterar hållbarhet och stabilitet i varje rörelse.<br><br>Välj rätt storlek på bollen för din längd:<br>55 cm - lämplig för längder mellan 155-165 cm.<br>65 cm - lämplig för längd 166-178 cm.<br>75 cm - lämplig för längder 179-190 cm.<br>90 cm - lämplig för längd &gt; 190 cm.<br><br>Tillverkare <strong>.</strong><br><br><strong>Detaljer:</strong>\n</div><ul>\n<li>Diameter: 75 cm.</li>\n<li>Produktvikt: 1,2 kg.</li>\n<li>Bärförmåga: 220 kg.</li>\n</ul><div>\n<br>Produkten kan ses mer detaljerat på <a href=\"https://www.tunturi.com/en/gymball-anti-burst-including-pump-petrol.html?id=304842921\">Tunturi-webbplatsen.</a>\n</div><div><br></div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52805340758282",
+     "sku": "14TUSFU340",
+     "price": "229.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 4
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10469213143306",
+  "title": "Yoga set SPOKEY Mantra Set, black",
+  "handle": "yoga-set-spokey-mantra-set-black-928924",
+  "status": "ACTIVE",
+  "tags": [
+   "Spokey",
+   "Velomarket",
+   "Yoga",
+   "Yogamattor"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-16T05:52:34Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Yoga is the perfect pastime for anyone who needs to relax after a stressful day and at the same time wants to keep fit and slim. Anyone can practice it, regardless of age or current physical condition! We have prepared a kit especially for you to help you start your yoga adventure.</div><div>\n<br>The kit includes:<br>4 mm yoga mat,<br>4 mm yoga mat, 3'' x 6'' x 9'' yoga block,<br>3 pcs resistance bands<br><br>\n</div><div>\n<strong>Spokey MANTRA yoga mat</strong> - The mat ensures safety, comfort during your workout and above all prevents slipping on the surface. The yoga mat is made of PVC foam which makes it very durable and resistant to damage. Its most important feature is its excellent anti-slip properties - you can be confident and safe while exercising! The classic design is perfect for any interior. Also ideal for pilates and physiotherapy.<br><br>\n</div><div>\n<strong>MANTRA yoga block</strong> - The block works as a support, for exercises where more support is needed. The block is a great support during exercises. Thanks to this, exercises are safer and easier to perform! For the more advanced, it allows for a fuller range of possibilities and greater training comfort. The yoga block is mainly used for stretching the arms, legs and back. It can be used lying, standing, sitting and twisting asanas.<br><br>\n</div><div>\n<strong>MANTRA Stretching Drum Set</strong> - The drums are available in a wide range of difficulty levels. This makes them ideal for beginners and professionals alike. The low weights allow you to develop the right training technique and prepare your muscles for higher loads. Higher weights are an option for people who love to squeeze 200% of the norm out of their muscles. Exercise dumbbells work in a similar way to an expert or a yoga belt - they allow you to perform stretches and lateral movements (e.g. chest exercises), and because of their characteristics and length, they allow you to successfully extend the range of exercises. <br><br>Since 2004, <strong>Spokey </strong>has been a manufacturer and retailer of sports equipment, striving to meet the needs of all sports enthusiasts - from those just starting out on their sporting journey to those with years of experience. The <strong>Spokey </strong>brand places great emphasis on product quality.</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52835330359562",
+     "sku": "928924",
+     "price": "579.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472215150858",
+  "title": "Pulsbälte TUNTURI CHEST BELT 5.3KHZ",
+  "handle": "pulsb-lte-tunturi-chest-belt-5-3khz-14tusru150",
+  "status": "ACTIVE",
+  "tags": [
+   "Bälten",
+   "Crosstrainers",
+   "Fell",
+   "Gymstick",
+   "puls",
+   "pulsklocka",
+   "Pulsmätare",
+   "Tunturi",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-09T05:57:35Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Denna pulsmätare från Tunturi är ett användbart verktyg för sport. Genom att mäta din puls kan du veta om du anstränger dig optimalt. Överdriven puls kan leda till fysisk ansträngning och överbelastningsskador. Om din puls förblir för låg kommer din uthållighet knappt att förbättras. Kort sagt, detta pulsbälte ger dig värdefull information för att göra dina träningspass effektiva och säkra! Sändaren på 5,3 kHz har en räckvidd på 120 cm. Pulsmätaren är lämplig för användning med Tuntur träningscyklar, elliptiska tränare, löpband eller roddmaskiner och alla andra enheter med en 5 kHz-mottagare.</p>\n<p>Fördelar med Tunturi pulsmätare - bröstband<br>\n- Sändaren har en pålitlig trådlös anslutning till träningsenheten<br>\n- Lätt att använda och justera<br>\n- Perfekt för pulsmätning för ett effektivt och säkert träningspass<br>\n- Lämplig för alla träningsmaskiner med 5 kHz-mottagare, oavsett märke</p>\n<p>Kort sagt, Tunturi pulsmätare är det perfekta fitnesstillbehöret för optimal träning!</p>\n<p>Granska specifikationer<br>\n○ Mått på pulsmätaren (LWH): 29,3 x 13 x 3 cm.<br>\n○ Vikt: 43 gr.<br>\n○ Justerbar<br>\n○ Räckvidd 120 cm.<br>\n○ Vattentät upp till 20 m.<br>\n○ Sändare 5,3 kHz<br>\n○ Färg: svart<br>\n○ Material: syntetiskt</p>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52848153428234",
+     "sku": "14TUSRU150",
+     "price": "509.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472245920010",
+  "title": "Gymnastikmatta ZIPRO Training Mat 4mm, svart",
+  "handle": "gymnastikmatta-zipro-training-mat-4mm-svart-6413502",
+  "status": "ACTIVE",
+  "tags": [
+   "Velomarket",
+   "Yogamattor",
+   "Zipro"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-16T05:52:42Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Zipro-mattan är designad för yoga och andra aktiviteter. Den absorberar inte fukt, isolerar bra och glider inte på golvet under träning. Den är flexibel och hållbar och förhindrar repor. Mattan är gjord av ett ekologiskt material som är mjukt, inte absorberar vätskor, inte deformeras och inte orsakar allergiska reaktioner.<br><br>\n</div><div><strong>Mer information:</strong></div><ul>\n<li>Material.</li>\n<li>Mått: 183 x 61 cm</li>\n<li>Tjocklek: 0,4 cm</li>\n<li>Vikt: 1 kg</li>\n<li>Halkfri yta</li>\n<li>Ekologiskt och biologiskt nedbrytbart material</li>\n<li>Luktfri och luktfri material</li>\n<li>Absorberar inte vatten och orsakar inte bakterietillväxt</li>\n</ul><div>\n<br><a href=\"https://www.zipro.pl/\"><strong>Zipro</strong></a> produkter är inte biologiskt nedbrytbara, absorberar inte bakterier, absorberar inte lukt, absorberar inte luktfria och förorenar inte.<br><br><strong>Zipro</strong> produkter kännetecknas av precisionstillverkning, modern design och användarvänlighet. De har varit aktiva i fitnessvärlden i 10 år och har kontinuerligt förbättrat och utvecklat sitt produktsortiment under den tiden. När de designar sina produkter letar de efter bästa möjliga lösningar på tekniska problem och lägger stor vikt vid design. Tack vare denna kombination är utrustningen de producerar tekniskt avancerad och vacker att se på.</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52848381001994",
+     "sku": "6413502",
+     "price": "319.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472263254282",
+  "title": "Viktplatta TUNTURI Training Bumper Plate, 50 mm, 5 kg",
+  "handle": "viktplatta-tunturi-training-bumper-plate-50-mm-5-kg-14tuscf056",
+  "status": "ACTIVE",
+  "tags": [
+   "Fell",
+   "Konditionsträning & Fitness",
+   "Tunturi",
+   "Velomarket"
+  ],
+  "totalInventory": 2,
+  "updatedAt": "2026-11-09T06:15:30Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Om du styrketränar är det självklart att du behöver hantlar. Tuntur-kollektionen har ett brett utbud av viktskivor, som Tuntur Bumper Plate. Viktskivan är gjord av gummi och har ett hål i rostfritt stål. Hålet har en diameter på 50 mm, vilket gör viktskivan lämplig för användning med olympiska hantlar. Viktskivan kan fästas på hanteln med hjälp av fästen som fjäder- eller ABS-klämmor. Dessa måste beställas separat.</div><div>\n<br>Tillverkare <strong>.</strong><br><br>\n</div><div><strong>Detaljer:</strong></div><ul>\n<li>Hålavstånd: <strong>50 mm</strong>\n</li>\n<li>Setet innehåller 1 kedja som väger 5 kg.</li>\n<li>Vikt: 5 kg</li>\n<li>Material: Gummi | Rostfritt stål</li>\n</ul><div><br></div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52848422682890",
+     "sku": "14TUSCF056",
+     "price": "399.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 2
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472263418122",
+  "title": "Handskar TUNTURI Fitness Gloves - Easy Fit Pro",
+  "handle": "handskar-tunturi-fitness-gloves-easy-fit-pro-14tusfu312",
+  "status": "ACTIVE",
+  "tags": [
+   "Konditionsträning & Fitness",
+   "Tunturi",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-16T06:04:29Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Tunturi Fitness Gloves Easy Fit Pro-handskarna hjälper dig att få ut mer av ditt träningspass. Det halkfria innerlagret ger ett bra grepp om handen, vilket gör din träning mer effektiv. Handskarna är också bekväma och har god ventilation.</p>\n<p><strong>Mer information:</strong></p>\n<ul>\n<li>Storlek: L 14 x B 8,5 x H 5 cm.</li>\n<li>Vikt: 33g</li>\n<li>Material: nylon och polyester</li>\n<li>Färg: Svart</li>\n</ul>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52848423731466",
+     "sku": "14TUSFU312",
+     "price": "139.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472270102794",
+  "title": "Boxing gloves HAMMER X-Shock 10oz",
+  "handle": "boxing-gloves-hammer-x-shock-10oz-95310",
+  "status": "ACTIVE",
+  "tags": [
+   "Boxning",
+   "Hammer",
+   "Konditionsträning & Fitness",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-09T06:19:56Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>\n<strong>HAMMER X-Shock 10oz boxningshandskar</strong> är bekväma och högkvalitativa, gjorda av hudvänligt material och är idealiska för sparring och boxningsträning. Integrerade ventilationshål för bättre luftcirkulation. Handledsstöd förhindrar skador och håller handleden stadigt på plats under träning. Sidostygnad tumme håller tummen i optimal position och förhindrar skador.<br><br>Tillverkare: <strong>Hammer</strong> (Tyskland).<br><br>\n</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52848441950474",
+     "sku": "95310",
+     "price": "699.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472276656394",
+  "title": "Balansplatta TUNTURI Air Stepper Pad Grön",
+  "handle": "balansplatta-tunturi-air-stepper-pad-gr-n-14tusyo022-1",
+  "status": "ACTIVE",
+  "tags": [
+   "balansplatta",
+   "Konditionsträning & Fitness",
+   "Stepper",
+   "Tunturi",
+   "Velomarket"
+  ],
+  "totalInventory": 11,
+  "updatedAt": "2026-11-16T06:08:42Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Med Tunturi balansplatta kan du träna din balans och stärka dina muskler. Sitt på den för en bra hållning eller använd den för yogaövningar.<br><br>Tillverkare <strong>.</strong><br><br><strong>Detaljer</strong>:</div><ul>\n<li>Diameter: 33 cm</li>\n<li>Höjd: 9 cm</li>\n<li>Maximal användarvikt: 120 kg</li>\n<li>Produktvikt: 1 kg</li>\n</ul><div>\n<br>Inkluderar handpump.<br><br>\n</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52848447848714",
+     "sku": "14TUSYO022",
+     "price": "209.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 11
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472277082378",
+  "title": "Justerbar hula hoop med vikt TUNTURI Smart Justerbar Hula Hoop inkl. Display",
+  "handle": "justerbar-hula-hoop-med-vikt-tunturi-smart-justerbar-hula-hoop-inkl-display-14tusfu322",
+  "status": "ACTIVE",
+  "tags": [
+   "Fell",
+   "Hula Hoop",
+   "Konditionsträning & Fitness",
+   "På beställning",
+   "Tunturi",
+   "Velomarket"
+  ],
+  "totalInventory": 7,
+  "updatedAt": "2026-11-09T03:50:30Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Letar du efter ett roligt och effektivt sätt att komma i form hemma? Upptäck <strong>Tunturi Justerbar Smart Hulahoop</strong>: en innovativ lösning för en tonad mage, starkare bålmuskler och en förbättrad fysik. Visste du att 15 minuters snurrande med en hula hoop motsvarar 30 minuters simning eller 60 minuters promenad? <br><br>Tillverkare <strong>.</strong><br><br><strong>Detaljer</strong>:</div><ul>\n<li>Justerbar omkrets från 62,8 till 132 cm.</li>\n<li>Batteri: 3,7V litiumjon</li>\n<li>Laddningstid: 1 timme</li>\n<li>Driftstid: 3 timmar</li>\n<li>Mått: 51,5 x 51,5 x 4,1 cm</li>\n<li>Produktvikt: 1,55 kg</li>\n</ul><div><br></div><p><strong>⏳ Denna produkt är en beställningsvara och kan ta upp till 1 vecka längre att leverera.</strong></p>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52848451191050",
+     "sku": "14TUSFU322",
+     "price": "609.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 7
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472302870794",
+  "title": "Hantel TUNTURI Platinum Hex Rubber Dumbbell, 15kg",
+  "handle": "hantel-tunturi-platinum-hex-rubber-dumbbell-15kg-25tupla024",
+  "status": "ACTIVE",
+  "tags": [
+   "Fell",
+   "Hantlar",
+   "Professionell utrustning",
+   "Tunturi",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-16T06:36:32Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>\n<strong>Tunturi Platinum Hex Dumbbell </strong>är ett viktigt träningsredskap i varje hem och professionellt gym. Den är stark, pålitlig och perfekt för dagligt bruk. Dessa hantlar är designade för högintensiv träning. Gummiöverdraget förhindrar skador på golvet och säkerställer att din träning är tyst.<br><strong><br>OBS: Setet innehåller en hantel med en vikt på 15 kg.</strong><br><br>Tillverkaren är <strong>Tunturi.</strong><br><br>\n</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52848518201610",
+     "sku": "25TUPLA024",
+     "price": "719.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472306802954",
+  "title": "Telefon- och surfplattahållare BH FITNESS",
+  "handle": "telefon-och-surfplattah-llare-bh-fitness-0190906",
+  "status": "ACTIVE",
+  "tags": [
+   "BH Fitness",
+   "Konditionsträning & Fitness",
+   "mobilhållare",
+   "Velomarket"
+  ],
+  "totalInventory": 2,
+  "updatedAt": "2026-11-09T04:35:30Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Producenten är <strong>BH Fitness.</strong><br><strong><br>Mer information:</strong>\n</div><ul>\n<li>Passar enheter från 4,7\" till 13\"</li>\n<li>Passar alla BH Fitness pedaltränare och spinningcyklar. 4,7\" - 4,7\"</li>\n<li>För alla cyklar och alla fyrhjulingar - 4,5 till 4,5 mm</li>\n</ul>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52848523608330",
+     "sku": "0190906",
+     "price": "449.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 2
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472346747146",
+  "title": "Lyftstång Tunturi skivstång, 30 mm, 180 cm, Skruv",
+  "handle": "lyftst-ng-tunturi-skivst-ng-30-mm-180-cm-skruv-14tuscl225",
+  "status": "ACTIVE",
+  "tags": [
+   "Konditionsträning & Fitness",
+   "Skivstång",
+   "skivstång 30mm",
+   "Tunturi",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-09T05:57:28Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Lyftstång Tunturi barbell bar med en diameter på 30 mm och en längd på 180 cm är ett robust och pålitligt val för din styrketräning. Skruvmekanismen säkerställer att vikterna sitter stadigt på plats, vilket ger dig trygghet under lyften. Denna stång är idealisk för ett brett utbud av övningar och passar utmärkt för hemmaträning eller kommersiella gym.</p>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52849361322250",
+     "sku": "14TUSCL225",
+     "price": "689.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10480054403338",
+  "title": "Hantel- och skivstångsset CHRISTOPEIT 2-i-1 Hantelset 15kg",
+  "handle": "hantel-och-skivst-ngsset-christopeit-2-i-1-hantelset-15kg-21-3937",
+  "status": "ACTIVE",
+  "tags": [
+   "Christopeit",
+   "Christopher",
+   "hantelpaket",
+   "Hantlar",
+   "Konditionsträning & Fitness",
+   "Skivstång",
+   "skivstångspaket",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-16T06:50:52Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Detta 15 kg 2-i-1 hantelset erbjuder maximal mångsidighet på minimalt utrymme. Oavsett om det är hantlar eller en skivstång – med bara ett set kan du täcka hela ditt hemmaträningspass. Snabbt justerbara viktskivor med säkra låsmekanismer och halkfria handtag säkerställer ett bekvämt och säkert träningspass. De slitstarka plastbelagda vikterna skyddar ditt golv och är idealiska för hemmabruk.<br><br>\n</div><div>Perfekt för både nybörjare och avancerade användare som letar efter ett utrymmesbesparande och flexibelt hantelset för styrketräning hemma.</div><div>\n<br>Setet innehåller:</div><ul>\n<li>1,5 kg viktskivor – 4 st</li>\n<li>2 kg viktskivor – 4 st</li>\n<li>2 hantelhandtag</li>\n<li>1 skivstång</li>\n</ul><div><br></div><div>Tillverkad av <strong>Christopeit</strong>.<br><br>\n</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52890683080970",
+     "sku": "21-3937",
+     "price": "609.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10708320190730",
+  "title": "Gymnastikboll TUNTURI Gymball 55cm, Anti-Burst, Rose Gold",
+  "handle": "gymnastikboll-tunturi-gymball-55cm-anti-burst-rose-gold-14tusfu372",
+  "status": "ACTIVE",
+  "tags": [
+   "Konditionsträning & Fitness",
+   "Tunturi",
+   "Velomarket"
+  ],
+  "totalInventory": 10,
+  "updatedAt": "2026-11-09T05:46:41Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Om du letar efter en gymnastikboll som inte bara tar din träning till nästa nivå utan även passar för yoga, stretching och kanske till och med som sittboll vid skrivbordet, då är Tunturi Gymball ett utmärkt val! Tunturi träningsboll är designad för att tåla en belastning på upp till 220 kg, vilket garanterar hållbarhet och stabilitet i varje rörelse.<br><br> Välj rätt storlek på bollen baserat på din längd:</div><ul>\n<li>55 cm – passar för längd 155–165 cm</li>\n<li>65 cm – passar för längd 166–178 cm</li>\n<li>75 cm – passar för längd 179–190 cm</li>\n<li>90 cm – passar för längd över 190 cm</li>\n</ul><div>\n<br>Tillverkare: <strong>Tunturi</strong>.<br><br> <strong>Ytterligare detaljer</strong>:</div><ul>\n<li>Diameter: 55 cm</li>\n<li>Produktvikt: 800 g</li>\n<li>Maxbelastning: 220 kg</li>\n</ul><div>\n<br><div translate=\"no\"></div>\n</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/54085582258442",
+     "sku": "14TUSFU372",
+     "price": "149.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 10
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10721331478794",
+  "title": "TOORX BRX R300 motionscykel med ryggstöd",
+  "handle": "toorx-brx-r300-motionscykel-med-ryggst-d-brx-r300",
+  "status": "ACTIVE",
+  "tags": [
+   "Konditionsträning & Fitness",
+   "Motionscykel",
+   "Toorx",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-16T05:28:26Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>\n<strong>TOORX BRX R300 motionscykel med ryggstöd</strong> är en träningsmaskin som är idealisk för hemmaträning och för att förbättra din allmänna kondition. Regelbunden träning hjälper till att bygga uthållighet, stärka benmusklerna och främja en aktiv livsstil. Träningsmaskinen gör att du kan träna bekvämt i din egen takt, oavsett väder eller årstid. Tack vare sin design för hemmabruk kan du enkelt passa in träningen i ditt dagliga schema. TOORX BRX R300 är ett praktiskt val för dig som vill förbättra din kondition och göra träningen till en naturlig del av vardagen.<br><br> Tillverkare: <strong>Toorx</strong>.<br><br> <strong>Ytterligare detaljer:</strong>\n</div><ul>\n<li>Display: LCD</li>\n<li>Motståndsnivåer: <strong>32</strong>\n</li>\n<li>Bromssystem: <strong>PMS, servomotor</strong>\n</li>\n<li>Svänghjulsvikt: <strong>14 kg</strong>\n</li>\n<li>Produktvikt: 55 kg</li>\n<li>Maximal användarvikt: 150 kg</li>\n</ul><div>\n<br><div translate=\"no\"></div>\n</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/54140627124490",
+     "sku": "BRX-R300",
+     "price": "11419.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10721331511562",
+  "title": "TOORX BRX R300 Ergo motionscykel med ryggstöd",
+  "handle": "toorx-brx-r300-ergo-motionscykel-med-ryggst-d-brx-r300ergo",
+  "status": "ACTIVE",
+  "tags": [
+   "Konditionsträning & Fitness",
+   "Motionscykel",
+   "Toorx",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-16T05:28:47Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>\n<strong>TOORX BRX R300 Ergo motionscykel med ryggstöd</strong> är en ergometer som är idealisk för konditionsträning i hemmet och erbjuder en bekväm och stabil sittställning. Det breda, ventilerande ryggstödet och den horisontellt justerbara sitsen hjälper dig att hitta rätt position, även under längre träningspass. Det magnetiska motståndssystemet låter dig välja mellan 32 motståndsnivåer för att anpassa träningen efter din förmåga och dina mål. LCD-färgskärmen visar viktig träningsdata, inklusive hastighet, distans, tid, förbrända kalorier och puls. Bluetooth-anslutning gör att du kan använda träningsappen iConsole+ och parkoppla med Kinomap-appen för att få variation i din träning. Den robusta konstruktionen och en maxvikt på 150 kg gör TOORX BRX R300 Ergo till ett praktiskt val för motionärer som värdesätter komfort och funktionalitet.<br><br> Tillverkare: <strong>Toorx</strong>.<br><br> <strong>Ytterligare detaljer:</strong>\n</div><ul>\n<li>Display: LCD</li>\n<li>Motståndsnivåer: <strong>32</strong>\n</li>\n<li>Bromssystem: <strong>PMS, servomotor</strong>\n</li>\n<li>Svänghjulsvikt: <strong>16 kg</strong>\n</li>\n<li>Mått: 154,5 x 65 x 114 cm</li>\n<li>Produktvikt: 57 kg</li>\n<li>Maximal användarvikt: 150 kg</li>\n</ul><div>\n<br><div translate=\"no\"></div>\n</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/54140627157258",
+     "sku": "BRX-R300ERGO",
+     "price": "13129.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10721332035850",
+  "title": "Gymnastikboll TUNTURI Gymball 65cm, Anti Burst, Lila",
+  "handle": "gymnastikboll-tunturi-gymball-65cm-anti-burst-lila-14tusfu337",
+  "status": "ACTIVE",
+  "tags": [
+   "Konditionsträning & Fitness",
+   "Tunturi",
+   "Velomarket"
+  ],
+  "totalInventory": 9,
+  "updatedAt": "2026-11-16T05:32:50Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Om du letar efter en gymnastikboll som inte bara tar din träning till nästa nivå utan även passar för yoga, stretching och kanske till och med som sittboll vid skrivbordet, då är Tunturi Gymball ett utmärkt val! Tunturi träningsboll är designad för att tåla en belastning på upp till 220 kg, vilket garanterar hållbarhet och stabilitet i varje rörelse.<br><br> Välj rätt storlek på bollen utifrån din längd:</div><ul>\n<li>55 cm – passar för längd 155–165 cm</li>\n<li>65 cm – passar för längd 166–178 cm</li>\n<li>75 cm – passar för längd 179–190 cm</li>\n<li>90 cm – passar för längd över 190 cm</li>\n</ul><div>\n<br>Tillverkare: <strong>Tunturi</strong>.<br><br> <strong>Ytterligare detaljer</strong>:</div><ul>\n<li>Diameter: 65 cm</li>\n<li>Produktvikt: 800 g</li>\n<li>Maxbelastning: 220 kg</li>\n</ul><div>\n<br><div translate=\"no\"></div>\n</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/54140627976458",
+     "sku": "14TUSFU337",
+     "price": "179.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 9
+    }
+   ]
+  }
+ }
+]

@@ -1,0 +1,131 @@
+[
+ {
+  "nr": 51001,
+  "id": "10472251752714",
+  "fil": "k_51a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 928977, ingen streckkod, lager 1, en variant, ej 'På beställning'. Kort utkast enligt Davids beslut 2026-11-17 (v1.12): bara titelns uppgifter (typ, märke, modell, färg, storlek) och artikelnumret ur varianten. Källans enda mening ('passar nästan alla händer') är rätt utelämnad, den motsäger storlek XL (R2). Inga kvalitets- eller komfortlöften. Titel och SEO-titel är unika i butiken (ingen annan Spokey Lava finns). Ingen dubblett."
+ },
+ {
+  "nr": 51002,
+  "id": "10589598908682",
+  "fil": "k_51a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": " och har måtten 192 x 72 x 110 cm.",
+    "efter": "."
+   },
+   "html": [
+    {
+     "fore": " Måtten anges som 192 x 72 x 110 cm.",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Dig som vill ha ett cykelskydd med måtten 192 x 72 x 110 cm</li>\n",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Mått: 192 x 72 x 110 cm</li>\n",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Live ACTIVE, SKU 03-CC100, EAN 5030009319648, lager 2. Skrivs enligt Davids beslut 2026-11-17 (annan SKU och EAN än skrivna 10635765743882: OXFCC100, EAN 5030009347726). Måtten utelämnas (R2): källan anger 192 x 72 x 110 cm, tillverkarens sida och flera återförsäljare 200 x 80 x 110 cm (samma EAN 5030009319648 hos t.ex. cycle-technology.co.uk), och andra återförsäljare 190 x 72 x 110 cm. Uppgifterna motsäger varandra, och något beslut om att använda källans mått finns inte i beslutsloggen (utkastarens hänvisning till 'Davids beslut' gäller bara att produkten skrivs). Kvar: typ, märke, modell, en cykel, artikelnummer och EAN (v1.12, kort text). Inget kopierat från den andra produkten; inga löften om väder- eller smutsskydd. Risk till David: båda är Oxford Aquatex för en cykel (CC100), troligen samma modell i två utgåvor, så två annonser för nästan samma vara ligger kvar. Titel och SEO-titel är unika mot 'Cykelskydd Oxford Aquatex'."
+ },
+ {
+  "nr": 51003,
+  "id": "10411479695626",
+  "fil": "k_51a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 90900295SC, EAN 8713249258652, lager 4. Alla uppgifter står i källan (4 LED per lampa, 4 ljuslägen, CR2032, gummiband, 110 x 70 x 30 mm). Brinntid 44 h och synlighet 450 m står ordagrant i källan och återges i en mening med ett 'enligt tillverkaren' (R5, §16.2); högst två påståenden. AXA:s märkestext (säkerhet, 115 år, nederländsk) är rätt utelämnad, ingen ursprungsuppgift. SEO-typordet 'Cykellampor' följer skrivna syskonet Niteline 44-R (10472232943882). SC/KC-paret: syskonet 'Ljussats AXA Niteline 44, med Batterier' (90900295KC) är skrivet; samma upplägg som för 44-R där både SC och KC är skrivna, så ingen dubblett enligt praxis. Titel, SEO och meta unika."
+ },
+ {
+  "nr": 51004,
+  "id": "10472234811658",
+  "fil": "k_51a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 90900395SC, EAN 8713249258676, lager 8. Alla uppgifter står i källan. Synligheten 2000 m står ordagrant i källan och bekräftas av AXA:s egen produktsida ('To be seen 2000 m', axabikesecurity.com/?p=18024 enligt sökresultat), återges en gång med 'enligt tillverkaren' (§16.2). Raden får stå kvar. AXA:s märkestext är rätt utelämnad. Syskonet 'Ljussats AXA Niteline T1, med Batterier' (90900395KC) är skrivet; SC/KC som för 44-R, ingen dubblett enligt praxis. Titel, SEO och meta unika."
+ },
+ {
+  "nr": 51005,
+  "id": "10494697242890",
+  "fil": "k_51a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 400000169, EAN 4713250842912, lager 3. Handle säger 400000170, men SKU 400000169 är Recon TL 100 enligt Giant och återförsäljare (ekkip-sports.com); handle ändras inte (R12a). Från källan: 100 lumen, sidobelysning 180 grader, indikator för lågt batteri och synlighet 1 km. Hjälmkompatibiliteten (Rev Comp, Compel, Roost, Prompt) är källans egen rena rad och bekräftas av Giants sida och återförsäljare, så den får stå (till skillnad från TL 200 var raden inte trasig här). Från tillverkaren (v1.6, giant-bicycles.com recon-tl-100-2020): Li-ion-polymer 420 mAh, uppladdningsbar, IPX7, 33 g med fäste, 31 x 31 x 32 mm. IPX7 och 1 km står i en mening med ett 'enligt tillverkaren'. Trasiga lumenrader och 'perfekt för stadskörning'/'utmärkt synlighet' är rätt utelämnade. Giants märkestext (världsledande, 1972) utelämnad."
+ },
+ {
+  "nr": 51006,
+  "id": "10470892896522",
+  "fil": "k_51a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "är 75 mm brett",
+    "efter": "har 75 mm öppningsbredd"
+   },
+   "html": [
+    {
+     "fore": "Låset är bredare (75 mm) än standardutförandet och passar",
+     "efter": "Låset har en öppningsbredd på 75 mm och passar"
+    },
+    {
+     "fore": "<li>Bredd: 75 mm</li>",
+     "efter": "<li>Öppningsbredd: 75 mm</li>"
+    }
+   ]
+  },
+  "skal": "Live ACTIVE, SKU 586400560X05SC, EAN 8713249305486, lager 3. Typordet Ramlås har stöd i källtexten ('ramlås') och i skrivna syskon (R7). Säkerhetsnivå 12 (skala 1–15) står ordagrant i källan och återges en gång som tillverkarens klassning med 'enligt tillverkaren'; samma lösning som i skrivna Ramlås AXA Defender Retractable (b_skriv_13). Det är tillverkarens uppgift, inte en egen rekommendation (§16.5), och texten lovar inget stöldskydd. Godkänd på den punkten. Rättning 1: 'än standardutförandet' står inte i källan (R1). Rättning 2: 75 mm är låsets öppning för hjulet, inte låsets bredd (återförsäljare: 'Extra wide opening of 75 mm', bike-components.de/en/Axa/Imenso-Large-Frame-Lock-p88860, bikeinn); 'Bredd: 75 mm' och '75 mm brett' motsäger raden Mått 160 x 170 x 35 mm. 'Öppningsbredd' används som i Defender-texten. 'Säkert ramlås' och AXA:s märkestext är rätt utelämnade."
+ },
+ {
+  "nr": 51007,
+  "id": "10475428577546",
+  "fil": "k_51a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 810000134, EAN 4713250832555, lager 1. Alla uppgifter står i källan eller titeln. Kategori 3 och 13 % ljusgenomsläpp är källans specifikation och återges utan UV- eller ögonskyddspåstående; 13 % ligger inom kategori 3 (8–18 %), ingen motsägelse. Essilor Sun Solution, Grilamid TR90, justerbara nässtöd och paketinnehåll står i källan. 'Kan formas för att passa ansiktet' återges med 'enligt tillverkaren'. 'Mycket slagtålig', 'hållbar' och Giants märkestext är rätt utelämnade (R5). Färgen svart/grå kommer från live-titeln och gäller den enda varianten. Unik mot syskonet ROAD (10474076897546, ej skrivet)."
+ },
+ {
+  "nr": 51008,
+  "id": "10523474559242",
+  "fil": "k_51a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "titel": {
+    "fore": "Solglasögon Cairn Flake",
+    "efter": "Glasögon Cairn Flake"
+   },
+   "seo_title": {
+    "fore": "Solglasögon Cairn Flake",
+    "efter": "Glasögon Cairn Flake"
+   },
+   "meta": {
+    "fore": "Cairn Flake är solglasögon i kategori 3.",
+    "efter": "Glasögonen Cairn Flake har linser i kategori 3."
+   },
+   "html": [
+    {
+     "fore": "<p>Cairn Flake är solglasögon i kategori 3.",
+     "efter": "<p>Glasögonen Cairn Flake har linser i kategori 3."
+    },
+    {
+     "fore": "<li>Dig som söker solglasögon i kategori 3</li>",
+     "efter": "<li>Dig som söker glasögon med linser i kategori 3</li>"
+    },
+    {
+     "fore": "<li>Dig som vill ha solglasögon med glasbredden 40 mm</li>",
+     "efter": "<li>Dig som vill ha glasögon med glasbredden 40 mm</li>"
+    },
+    {
+     "fore": "<li>Typ: Solglasögon</li>",
+     "efter": "<li>Typ: Glasögon</li>"
+    }
+   ]
+  },
+  "skal": "Live ACTIVE, SKU SPFLAKE103TU, EAN 3267654914108, lager 1. Produkten är solglasögon: återförsäljare säljer Cairn Flake Cat 3 i färgen Mat Black Fire som 'lunettes de soleil' (hardloop.fr/produit/78606), Galaxus listar Flake som sunglasses, och Kat. 3 är en solglasögonkategori. Den hör alltså till den tillåtna kategorin solglasögon, och utkastet godkänns i sak. Typordet: live-titeln och källtexten säger bara 'glasögon', aldrig 'solglasögon'. R7: byt typord bara om produktens egen källa använder det nya ordet, och syskon med olika live-ord behåller sina egna (det skrivna syskonet 10523474592010 hade 'Solglasögon' live). Därför behålls 'Glasögon' i titel, SEO-titel och text. Kategori 3, mått och 'reptålig behandling' ('enligt tillverkaren') står i källan. 'Säkerhet', 'maximalt skydd för dina ögon' och 'enastående hållbarhet' är rätt utelämnade. Galaxus anger tillverkningsland Frankrike, men det står inte i källan och ska inte med (ingen ursprungsuppgift i texten). Ingen uppgift om barnmodell trots de små måtten. Alternativ till David: tillåta 'Solglasögon' för enhetlighet med syskonet (då blir domen GODKÄND)."
+ }
+]

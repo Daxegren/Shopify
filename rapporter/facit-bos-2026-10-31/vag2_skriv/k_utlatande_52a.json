@@ -1,0 +1,141 @@
+[
+ {
+  "nr": 52002,
+  "id": "10470905544970",
+  "fil": "k_52a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": " och har måtten 47 x 31 x 25 cm.",
+    "efter": "."
+   },
+   "html": [
+    {
+     "fore": "monteras fram på cykeln, rymmer 27 liter och har måtten 47 x 31 x 25 cm.",
+     "efter": "monteras fram på cykeln och rymmer 27 liter."
+    },
+    {
+     "fore": "<li>Mått: 47 x 31 x 25 cm</li>\n",
+     "efter": ""
+    }
+   ]
+  },
+  "skal": "Live ACTIVE, SKU 11218, EAN 8715019112188, lager 6, en variant. Måtten utelämnas (R2): källan anger 47 x 31 x 25 cm, men Basils egen sida för exakt EAN 8715019112188 anger 27,5 x 40 x 23,5 cm (https://www.basil.com/en/p/8715019112188/basil-robin-bicycle-basket-front-black/). Lastgränsen: källans 'kan bära en vikt på upp till 10 kg' är löptext utan etikett och räcker inte ensam (R4), men Basils sida för exakt EAN anger 'Max. 10 kg', så v1.10 gäller: 10 kg en gång med 'enligt tillverkaren' i text och spec (samma mönster som skrivna Framkorg Basil Portland). Basil-sidan ska stå i att_bekrafta i stället för källans löptext. 27 liter bekräftas av Basil. Typord Framkorg: källan säger 'cykelkorg fram', butikens skrivna syskon heter Framkorg; godtas. Ingen dubblett: 10507208491274 (Cykelkorg fram BASIL ROBIN, med stöd för framhjulet, silver) har SKU 11219 och EAN 8715019112195 och är silver enligt Basil, alltså annan färg och artikel (David 2026-11-05: annan färg behålls). Märkestext ('hög kvalitet', 'sofistikerad design', sedan 1976) rätt utelämnad. Meta efter rättning 91 tecken."
+ },
+ {
+  "nr": 52003,
+  "id": "10470909149450",
+  "fil": "k_52a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 190000103, EAN 4718905782018, lager 1, en variant. Material Kraton-gummi, längd 135 mm och yttre diameter 30 mm står i källan; tryckfelsraden '135 cm' rätt utelämnad (R2). Färgen: källan säger att paketet bara innehåller en färg och att bilden är illustrativ; det motsäger inte titelns 'svart-gul' utan förklarar att bilden visar flera färger. Färg ur titeln är tillåten (v1.12), och SKU-serien 190000100 (svart), 102 (svart-röd), 103 (denna) i butiken stöder att det är en egen färgartikel. Webben gav ingen träff på exakt GTIN, så färgen är inte webbekräftad; risken är låg. 'Lätta och bekväma' och Giant-historiken rätt utelämnade. Unik mot Handtag Giant Tactal Grip och Tactal Pro (skrivna) och mot Tactal svart-röd (oskriven). Taggen Cykellås är fel men rörs inte i textomgången (notera för taggstädning)."
+ },
+ {
+  "nr": 52004,
+  "id": "10471027835146",
+  "fil": "k_52a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 14TUSCL241, EAN 8717842020067, lager 1. Bedömd enligt Davids villkor 2026-11-17 (en och en, avvisa om inte sanningsenligt med ren fakta): texten innehåller bara fakta (används för övningar med huvudet nedåt, upphängningskrokar, vaddering på insidan, stängningssystem på utsidan, vikt 2,7 kg, material metall och syntet) och är sanningsenlig. Tunturis sida för exakt kod och EAN (https://www.tunturi.com/en/go/product/97611930) bekräftar 2,7 kg och 'Metal and synthetic', anger ingen maxvikt och kallar produkten 'Inversion Boots, Pair'. Alla hälso- och effektpåståenden (sträcka ryggmusklerna, räta ut ryggraden, 'nästa nivå', 'må bättre') och 'rejäla/starkt' är borta. Stövlarna bär hela kroppsvikten hängande, därför v1.10: 'Maximal lastgräns: Ej känd' i spec och mening i texten; inga andra lastord. Typord Inversionsstövlar står i källtexten (R7). Risk till David: texten ger inga säkerhetsråd (vi får inte lägga till egna), och Tunturis enda anvisning är att fästa stövlarna runt en stång. Om David hellre vill att produkter som bär hela kroppen upp och ned ska vänta tills tillverkaren anger maxvikt är alternativet att avvisa."
+ },
+ {
+  "nr": 52006,
+  "id": "10472186118410",
+  "fil": "k_52a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 00018220, EAN 3611720144850, lager 1. Källan är engelsk och kort. Kolfiberkroppen rätt utelämnad: Looks sida anger komposit för X-Track-serien, så källan går isär (R2). Kvar: Shimano SPD-kompatibilitet (står i källan), artikelnummer, EAN och v1.10-raden 'Ej känd' (pedal = bärande del, ingen lastgräns funnen). Tunn källa men tillåten enligt v1.12 (titelns uppgifter och ett källfaktum, hellre kort). Typordet Pedaler i stället för live-titelns 'pedals' följer butikens ord. 'Enligt tillverkaren' på kompatibiliteten är onödigt men inte fel. Titeln låser inte modellnivå (X-Track, inte X-Track Race; Race-syskonet 10472186216714 är arkiverat), ingen dubblett. Unik mot Pedalblock Look X-Track."
+ },
+ {
+  "nr": 52007,
+  "id": "10472228651274",
+  "fil": "k_52a_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Källan stämmer inte med titeln (R3, R1). Titel, handle och variant säger Pinner Comp lila (SKU 230000105, EAN 4713250020495, bekräftat som Pinner Comp purple av bl.a. smartech.ee och ebike24.com), men källtexten säger 'Universella pedaler Giant Pinner Elite' och anger Elite-uppgifter (380 g, som Giant anger för Pinner Elite, och 'kromstålsaxel'). Källtexten är alltså kopierad från en annan modell. Utkastaren behöll Elite-textens rader och tog namnet Comp från titeln och övriga fakta från skrivna Comp-syskon, vilket R1 förbjuder ('aldrig från syskonprodukt'). Särskild risk: butiken har en redan skriven 'Pedaler Giant Pinner Elite, Lila' (10472250376458), så en Comp-text med Elite-uppgifter förväxlar två aktiva lila pedaler. Handle slutar på 230000107 medan SKU är 230000105 (handle ändras inte). Väg framåt (beslut för David): antingen rättas källtexten i butiken först, eller så skrivs ett nytt utkast enbart från webbuppgifter för exakt EAN 4713250020495 (v1.6/v1.12: nylonkropp, stålaxel, 9 stift per sida, 112 x 105 mm; vikt går isär 350/380 g och utelämnas)."
+ },
+ {
+  "nr": 52008,
+  "id": "10472249229578",
+  "fil": "k_52a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 1016, ingen EAN, lager 11. Källraden är ihopskriven ('stödAzimutDualonlämpligt') men entydig för justerbart, aluminium och bult M10 x 50 mm (R2: entydig del får användas). Hjulstorleken rätt utelämnad: titeln säger 20-29 tum, källan 20 till 28 tum. Typordet Cykelstöd är profilens godkända typord för stöd till cykel (David 2026-11-05) och live-titeln säger 'Stöd'; godtas (R7). 'Mittmontering' kommer från titeln. v1.10: ingen lastgräns i källan och ingen webbträff, därför 'Ej känd'. Inga stabilitetsord. Ingen dubblett mot Cykelstöd Azimut, Justerbart, 20–29 tum (SKU 1002, annan artikel)."
+ },
+ {
+  "nr": 52009,
+  "id": "10472250310922",
+  "fil": "k_52a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 230000055, EAN 4718905782315, lager 1. Två källfakta utöver titeln (stadscyklar, kompositmaterial), färg ur titeln (v1.12). v1.10-raden 'Ej känd' för pedal. 'Högkvalitativa' i märkestexten rätt utelämnat. Unik titel, ingen annan Urbano i butiken."
+ },
+ {
+  "nr": 52011,
+  "id": "10472254701834",
+  "fil": "k_52a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 59500596SC, EAN 8713249312712, lager 2. Bedömd en och en enligt Davids villkor 2026-11-17: texten är ren fakta (vägg eller golv, inomhus och utomhus, stålkrona 14 mm, skruvar ingår, grå) och sanningsenlig. Stöldpåståendet ('förhindra stöld även vid inbrott'), försäkringsgodkännandet, 'perfekt', 'snygg' och AXA:s säkerhetsgaranti är borta. Säkerhetsnivån rätt utelämnad (R2): källan säger 20, AXA:s egen sida säger 15. Obs: AXA-sidan (https://axabikesecurity.com/product/axa-floor-anchor/) visar GTIN 8713249349435, inte vårt 8713249312712, så den gäller troligen en annan förpackning; utkastarens påstående att sidan anger 15 'för 59500596SC' stämmer alltså inte helt, men slutsatsen (utelämna) står sig eftersom uppgifterna går isär. ART 4: 'Uppfyller holländska ART 4-stjärniga krav' står ordagrant i källan och bekräftas av AXA ('Complies with the Dutch ART 4 star approval'); det är en märkning, och §16.2 tillåter märkningar en gång som 'enligt tillverkaren' (jfr säkerhetsnivå 12 på AXA Imenso i k_51a). Meningen får stå och lovar inget stöldskydd. 'Härdad stålkrona och låshus' är materialuppgift ordagrant ur källan, inte ett kvalitetsord. Märket Axa enligt R8. Unik titel."
+ },
+ {
+  "nr": 52013,
+  "id": "10472283439370",
+  "fil": "k_52a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": " Maximal förarvikt är 100 kg enligt tillverkaren.",
+    "efter": " Höjden är 18 mm."
+   }
+  },
+  "skal": "Live ACTIVE, SKU 00025825, EAN 3611720198822, lager 1, en variant. Färgen: källans rad 'Färg: lime' motsäger titeln, men EAN 3611720198822 är svart Trail Fusion enligt återförsäljare (ridewill.com, bike-discount.de), och lime-utförandet är en egen aktiv annons (10507247911178, art.nr 26171). Källans övriga text gäller modellen oberoende av färg (vikt, höjd, stift, material bekräftade av lookcycle.com). Färgraden utelämnas (R2) och svart tas ur titeln med EAN-stöd (v1.6); ingen avvisning enligt R3 eftersom produkten entydigt är svart Trail Fusion. Fotavtrycket rätt utelämnat (107 x 105 i källan, 104 x 104 hos Look). Förarvikt 100 kg: raden 'max. Max. förarens vikt: 100 kg' är svensk med etikett och enhet och anger entydigt vad gränsen gäller (dubbelt 'max' är ett skrivfel); R4 tillåter en sådan rad även i en annars ojämn källa, och återförsäljare anger samma 100 kg för Trail Fusion. Den får stå en gång med 'enligt tillverkaren' i texten och i spec, men tas bort ur meta så att påståendet bara görs en gång i kundtexten (R4/R5). Ursprung: 'tillverkade i Frankrike' står ordagrant i källan och bekräftas av Look; det återges med 'enligt tillverkaren' (R5) och godtas. Prestanda- och kvalitetsord ('bättre kontroll', 'stabilitet', 'komfort', 'byggda för att hålla', 'premium') rätt utelämnade. Meta efter rättning 121 tecken."
+ },
+ {
+  "nr": 52014,
+  "id": "10472284881162",
+  "fil": "k_52a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 3760004844808, ingen streckkod, lager 2. Längd 170 mm, gummi, diameter 33 mm, silikonloopändar och lila står i källan. Ordet 'skoterdelar' rätt utelämnat: på svenska betyder skoter snöskoter, och källan anger inte passform; Ethic är ett märke för sparkcyklar men det står inte i källan (hellre kort). SKU:n ser ut som en EAN men är variantens SKU och skrivs korrekt som artikelnummer, utan EAN-rad. 'Högkvalitativa', 'bekväma för alla förare' utelämnade. Unik mot Handtag Ethic Slim Grips (skriven). 'Silikonloopändar' är ordagrant men ovanligt ord; godtas."
+ },
+ {
+  "nr": 52015,
+  "id": "10472301494538",
+  "fil": "k_52a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU AHF-068, EAN 8029975991764, lager 1. Källan innehåller bara 'Tillverkaren är Toorx'. Enligt v1.12 (David 2026-11-08) får tom eller tunn källa ge en kort text med titelns uppgifter (typ, märke, handtagstyp, färg) när titeln anger entydig produkttyp; R3:s krav på två fakta gäller då inte längre. Texten innehåller inget annat, inget motstånd, antal eller material (återförsäljaruppgifter rätt utelämnade). Produkten är fitness och omfattas av tidigare beslut (2026-11-04, 2026-11-08), inte av cykeldelsbeslutet 2026-11-17. Typordet följer live-titeln (R7). Unik mot Toorx gummiband och Reflexband Bookman."
+ },
+ {
+  "nr": 52016,
+  "id": "10472345895178",
+  "fil": "k_52a_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": [
+    {
+     "fore": " Det bakre stänkskyddet fästs på sadelstolpen utan verktyg.",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Hjulstorlek: 26, 27,5 (650b) och 28 tum</li>\n",
+     "efter": ""
+    },
+    {
+     "fore": "<li>Gaffellängd fram: 680 mm</li>\n<li>Bakre plattformslängd: 870 mm</li>",
+     "efter": "<li>Längd främre stänkskydd: 680 mm</li>\n<li>Längd bakre stänkskydd: 870 mm</li>"
+    }
+   ]
+  },
+  "skal": "Live ACTIVE, SKU 03-SKS-11665, EAN 4002556973162, lager 3. Källan är delvis maskinöversatt. (1) 'Fästs på sadelstolpen': källans 'sadelstolpen/sadelstolparna' är en felöversättning av sadelstag (seat stays); SKS och återförsäljare anger att bakre skärmen fästs på sadelstagen. Meningen är fel i sak och tas bort (R2). (2) Hjulstorleken går isär: källan 26/27,5/28, flera återförsäljare 26–27,5, en 28; utelämnas (R2, jfr 51002). (3) 'Gaffellängd fram' och 'Bakre plattformslängd' är felöversatta etiketter; SKS blogg och återförsäljare anger 680 mm som längden på främre skärmen och 870 mm på bakre, så raderna får korrekta etiketter (v1.6, samma värden). R5: 'slagtålig plast' och 'tillverkad i Tyskland' står ordagrant i källan (två gånger) och återges en gång med ett 'enligt tillverkaren'; det är tillåtet enligt R5 (ursprungs- och kvalitetsord bara när de står ordagrant, då med 'enligt tillverkaren'), och SKS är ett tyskt företag med tillverkning i Sundern. Godtas. 'Högpresterande', 'starkt men flexibelt', 'perfekt' rätt utelämnade. Typordet Stänkskydd står i källan (R7); skrivna syskon heter Stänkskärmar, olika källor får ha olika ord. Unik mot Veloflexx 65 (utkast) och Velo 55 (skrivna)."
+ },
+ {
+  "nr": 52017,
+  "id": "10472388231434",
+  "fil": "k_52a_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 105230, EAN 2900114142291, lager 2. Vikt 114 g och längd 150 mm står i källan, färg svart ur titeln (v1.12). Ordet 'scootern' rätt utelämnat (källan anger inte passform och ordet flaggas av regeltestet), liksom 'supermjuka' och 'god komfort'. Att 114 g kan gälla paret eller ett handtag framgår inte, men texten påstår inget om det. Samma upplägg som skrivna syskon Transparent och Rosa. Unik titel och SEO."
+ }
+]

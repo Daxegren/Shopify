@@ -1,0 +1,94 @@
+[
+ {
+  "id": "gid://shopify/Product/10475978588426",
+  "title": "Bakskärm SKS X-Blade Dark 26\"/27,5\"",
+  "handle": "baksk-rm-sks-x-blade-dark-26-27-5-03-por-sks11449",
+  "status": "ACTIVE",
+  "tags": [
+   "SKS",
+   "Skärmar",
+   "Stänkskärm",
+   "Velomarket"
+  ],
+  "totalInventory": 3,
+  "updatedAt": "2026-11-16T05:45:12Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Bakskärm <strong>SKS X-BLADE 26″/27,5″</strong> för terräng- och stadscyklar.</p>\n<p>Egenskaper:</p>\n<ul>\n<li>Snabbfäste för sadelstolpe</li>\n<li>För montering på sadeln</li>\n<li>Justerbar vinkel</li>\n<li>2-komponentsplast</li>\n<li>Färg: svart</li>\n<li>Vikt: 239 g</li>\n</ul>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52868852089098",
+     "sku": "03-POR-SKS11449",
+     "price": "369.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 3
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10507247911178",
+  "title": "Pedaler LOOK TRAIL FUSION LIME, grön",
+  "handle": "pedaler-look-trail-fusion-lime-gr-n-26171",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykeldelar",
+   "Look",
+   "Mountainbike",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-16T05:54:04Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Med sin 25 % bredare plattform erbjuder <strong>Look Trail Fusion</strong>-pedalerna bättre kontroll och därmed högre prestanda jämfört med klassiska OEM-pedaler. Pedalhusen är gjorda av<strong> lättviktigt</strong> kompositmaterial och erbjuder ökad<strong> stabilitet</strong> och <strong>komfort</strong>. Deras konkava design minskar profilhøjden till endast 18 mm.<br>\n<strong>8 utbytbara</strong> piggar på varje sida av pedalen säkerställer nödvändigt grepp på banan. <strong>Trail Fusion</strong>-pedalerna är tillverkade i Frankrike och byggda för att hålla. Alla komponenter kan enkelt bytas ut vid behov.</p>\n<p>Funktioner:</p>\n<ul>\n<li>Material pedalaxel: chromoly.</li>\n<li>Material pedalhus: komposit.</li>\n<li>Material remskiva: stål</li>\n<li>Total höjd: 18 mm</li>\n<li>Pedalens fotavtryck: 107 mm x 105 mm</li>\n<li>Antal fjädrar: 8 per sida</li>\n<li>Lager: premiumlager (2 kullager och 1 glidlager) + tätningar.</li>\n<li>Tätning: Premium Seal System</li>\n<li>Kompatibla skor: -</li>\n<li>max. Max. förarens vikt: 100 kg</li>\n<li>Färg: lime</li>\n<li>Vikt enligt tillverkare: 324 g</li>\n</ul>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/53049238225162",
+     "sku": "00026171",
+     "price": "789.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10515737968906",
+  "title": "Dricksflaska GIANT ARX 400ML BLÅ",
+  "handle": "dricksflaska-giant-arx-400ml-bl-480000400",
+  "status": "ACTIVE",
+  "tags": [
+   "Barncykel",
+   "Flaska & Hållare",
+   "Giant",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 2,
+  "updatedAt": "2026-11-16T05:47:43Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Giant Arx 400CC är en kompakt vattenflaska designad för barncyklar.</p>\n<p><strong>Mer information:</strong></p>\n<ul>\n<li>Antimikrobiell teknologi håller vattnet fräscht.</li>\n<li>100% diskmaskinssäker, maxtemperatur 90°C</li>\n<li>400CC storlek</li>\n</ul>\n<p>Grundat <strong>1972</strong>, <strong>Giant</strong> är världens ledande tillverkare av kvalitativa cyklar och cykeltillbehör. <strong>Giant</strong> introducerade lättare och starkare aluminiumramar, introducerade kolfiberramar för bredare användning. Utvecklingen av utrustning sker i konstant samarbete med toppcyklister.</p>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/53096555741450",
+     "sku": "480000400",
+     "price": "69.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 2
+    }
+   ]
+  }
+ }
+]

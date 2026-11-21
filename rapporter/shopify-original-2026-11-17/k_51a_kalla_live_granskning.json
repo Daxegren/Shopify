@@ -1,0 +1,317 @@
+[
+ {
+  "id": "gid://shopify/Product/10472251752714",
+  "title": "Träningshandskar SPOKEY Lava, svart, XL",
+  "handle": "tr-ningshandskar-spokey-lava-svart-xl-928977",
+  "status": "ACTIVE",
+  "vendor": "Spokey",
+  "productType": "Konditionsträning & Fitness",
+  "tags": [
+   "Konditionsträning & Fitness",
+   "Spokey",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-16T05:55:51Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Den perfekta kombinationen av komfort och passform, den passar nästan alla händer men gör träningen superbekväm.</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52848395780362",
+     "title": "Default Title",
+     "sku": "928977",
+     "barcode": null,
+     "price": "349.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1,
+     "selectedOptions": [
+      {
+       "name": "Title",
+       "value": "Default Title"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10589598908682",
+  "title": "Oxford Aquatex bicycle cover",
+  "handle": "oxford-aquatex-bicycle-cover-03-cc100",
+  "status": "ACTIVE",
+  "vendor": "Oxford",
+  "productType": "Tillbehör",
+  "tags": [
+   "Oxford",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 2,
+  "updatedAt": "2026-11-16T06:12:37Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Mått: 192 x 72 x 110 cm<br><br>. Passar en cykel.<br><br>Tillverkad av Oxford.</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/53503917392138",
+     "title": "Default Title",
+     "sku": "03-CC100",
+     "barcode": "5030009319648",
+     "price": "389.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 2,
+     "selectedOptions": [
+      {
+       "name": "Title",
+       "value": "Default Title"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10411479695626",
+  "title": "Set med cykellampor AXA Niteline 44",
+  "handle": "set-med-cykellampor-axa-niteline-44",
+  "status": "ACTIVE",
+  "vendor": "AXA",
+  "productType": "Cykellampor",
+  "tags": [
+   "AXA",
+   "Cykellampor",
+   "Velomarket"
+  ],
+  "totalInventory": 4,
+  "updatedAt": "2026-11-09T05:59:21Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p><strong>AXA Niteline 44</strong>-lamporna är små och kompakta, men ändå synliga i trafiken (från ett avstånd av 450 m). Båda lamporna har 4 LED-lampor, en brinntid på upp till 44 timmar och 4 ljuslägen. CR2032-batterier är lämpliga. Gummiband gör lamporna lätta att installera.</p>\n<ul>\n<li>Lämpliga CR2032-batterier.</li>\n<li>Synlig från ett avstånd av 450 m.</li>\n<li>4 ljuslägen.</li>\n<li>Mått: 110 x 70 x 30 mm.</li>\n</ul>\n\n<p><strong>AXA</strong> är en välkänd <strong>nederländsk</strong> tillverkare av säkerhetsprodukter. <strong>AXA Bike Security</strong> är oskiljaktigt förknippat med cykelvärlden - med <strong>115</strong> års erfarenhet hjälper <strong>AXA Bike Security</strong> till att säkerställa säkerheten för cyklister och deras cyklar. Som en sann cykelentusiast vet <strong>AXA Bike Security</strong> exakt vad cyklister behöver för att cykla säkert.</p>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52586685006090",
+     "title": "Default Title",
+     "sku": "90900295SC",
+     "barcode": "8713249258652",
+     "price": "169.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 4,
+     "selectedOptions": [
+      {
+       "name": "Title",
+       "value": "Default Title"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472234811658",
+  "title": "Cykellyktset AXA Niteline T1",
+  "handle": "cykellyktset-axa-niteline-t1-90900395sc",
+  "status": "ACTIVE",
+  "vendor": "AXA",
+  "productType": "Cykellampor",
+  "tags": [
+   "AXA",
+   "Cykelbelysning",
+   "Cykellampor",
+   "Velomarket"
+  ],
+  "totalInventory": 8,
+  "updatedAt": "2026-11-16T05:48:23Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p><strong>AXA Niteline T1</strong>-kitet har en fram- och en baklykta, var och en med 1 LED-lampa - cyklisten syns i trafiken på ett avstånd av 2000 meter. Gummibanden gör det enkelt att fästa lamporna på cykeln.</p>\n<ul>\n<li>AAA-batterier för framlyktan, CR2032-batterier för baklyktan.</li>\n<li>Synlig från 2000 m</li>\n<li>4 ljuslägen</li>\n<li>Mått: 105 x 80 x 30 mm.</li>\n</ul>\n\n<p><strong>AXA</strong> är en välkänd <strong>nederländsk</strong> tillverkare av säkerhetsprodukter. <strong>AXA Bike Security</strong> är oskiljaktigt förknippat med cykelvärlden - med <strong>115</strong> års erfarenhet bidrar <strong>AXA Bike Security</strong> till att säkerställa säkerheten för cyklister och deras cyklar. Som en sann cykelentusiast vet <strong>AXA Bike Security</strong> exakt vad cyklister behöver för att cykla säkert.</p>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52848358457610",
+     "title": "Default Title",
+     "sku": "90900395SC",
+     "barcode": "8713249258676",
+     "price": "209.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 8,
+     "selectedOptions": [
+      {
+       "name": "Title",
+       "value": "Default Title"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10494697242890",
+  "title": "Baklykta GIANT RECON TL 100",
+  "handle": "baklykta-giant-recon-tl-100-400000170",
+  "status": "ACTIVE",
+  "vendor": "Giant",
+  "productType": "Tillbehör",
+  "tags": [
+   "Cykelbelysning",
+   "Giant",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 3,
+  "updatedAt": "2026-11-09T05:58:27Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p><strong>Giant Recon TL 100 </strong>cykelbaklykta som är perfekt för stadskörning. Den blinkande lampan gör dig mycket synlig under dagen och ger också utmärkt synlighet i mörkret - upp till 1 km bort!</p>\n<p><b>Mer information:<br></b></p>\n<ul>\n<li>Maximal ljusstyrka upp till 100 lumen.</li>\n<li>Lysande ljus med upp till 100 lumen</li>\n<li>Upp till 100 lumen LED-ljus kan ge upp till 100 lumen i 100 lumen</li>\n<li>Sidobelysning upp till 180 grader</li>\n<li>Indikator för lågt batteri</li>\n<li>Kompatibel med hjälmarna i serierna Rev Comp, Compel, Roost och Prompt</li>\n</ul>\n<p>Grundat <strong>1972</strong>, <strong>Giant</strong> är världens ledande tillverkare av kvalitativa cyklar och cykeltillbehör. <strong>Giant</strong> introducerade lättare och starkare aluminiumramar för cyklar och populariserade användningen av kolfiberramar. Utvecklingen av utrustning sker i ständig samarbete med toppcyklister.</p>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52981008105738",
+     "title": "Default Title",
+     "sku": "400000169",
+     "barcode": "4713250842912",
+     "price": "389.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 3,
+     "selectedOptions": [
+      {
+       "name": "Title",
+       "value": "Default Title"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10470892896522",
+  "title": "Frame lock AXA Imenso Large",
+  "handle": "frame-lock-axa-imenso-large-586400560x05sc",
+  "status": "ACTIVE",
+  "vendor": "AXA",
+  "productType": "Tillbehör",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 3,
+  "updatedAt": "2026-11-16T05:47:54Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div class=\"text\">\n<p>Säkert ramlås <strong>AXA Imenso Large</strong>. Fästs på bakgaffeln. Möjlighet att fästa en kedja/lina i låset för att låsa fast hjulet vid ett fast föremål. Låset <strong>Imenso</strong> <strong>Large</strong> är bredare (75 mm) – passar på hjul med bredare skärmar och däck.</p>\n</div>\n<ul>\n<li>Nyckeln kan inte tas bort när låset är öppet.</li>\n<li>Vikt: 730 g</li>\n<li>Mått: 160 x 170 x 35 mm.</li>\n<li>Säkerhetsnivå: 12 (på en skala från 1-15).</li>\n<li>Tillverkare.</li>\n</ul>\n\n<p><strong>AXA Bike</strong> är oskiljaktigt förknippat med cykelvärlden – med <strong>115</strong> års erfarenhet bidrar <strong>AXA Bike</strong> till att säkerställa cyklistens och cykelns säkerhet. Som en sann cykelentusiast vet <strong>AXA Bike Security</strong> exakt vad cyklister behöver för att cykla säkert.</p>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52843887034634",
+     "title": "Default Title",
+     "sku": "586400560X05SC",
+     "barcode": "8713249305486",
+     "price": "599.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 3,
+     "selectedOptions": [
+      {
+       "name": "Title",
+       "value": "Default Title"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10475428577546",
+  "title": "Solglasögon GIANT STRATOS LITE SVART/GRÅ KOLOR UP PC KAT.3 + KLAR",
+  "handle": "solglas-gon-giant-stratos-lite-svart-gr-kolor-up-pc-kat-3-klar-810000134",
+  "status": "ACTIVE",
+  "vendor": "Giant",
+  "productType": "Solglasögon",
+  "tags": [
+   "Giant",
+   "Solglasögon",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-16T05:48:17Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p><strong>Stratos Lite</strong> solglasögon har en lättare och tunnare båge. Stratos Lite-linser är utvecklade i samarbete med <strong>Essilor® Sun Solution™</strong>. Den lätta och hållbara <strong>Grilamid TR90</strong>-bågen kan formas för att passa ditt ansikte och är mycket slagtålig. Justerbara nässtöd gör att du kan anpassa passformen för att hålla dina glasögon perfekt på plats.</p>\n<p>Funktioner:</p>\n<ul>\n<li>Inkluderar två storlekar av näskuddar för att passa ditt ansikte.</li>\n<li>Två storlekar för att passa din näsa, med ett val av två storlekar för att passa din näsa.</li>\n<li>Storlek: en storlek passar alla</li>\n<li>Lins: KOLOR UP™ PC: Kat.3 (13% ljusgenomsläpp), grå</li>\n</ul>\n<p>Paketinnehåll: glasögonfodral, mjuk mikrofiberpåse, 2 storlekar näskuddar; extra klara linser.</p>\n<p>Giant, grundat 1972, är världens ledande tillverkare av högkvalitativa cyklar och cykeltillbehör. Giant introducerade lättare och starkare aluminiumramar för cyklar och introducerade kolfiberramar. Utvecklingen av utrustning sker i ett ständigt samarbete med toppcyklister.</p>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52865367441674",
+     "title": "Default Title",
+     "sku": "810000134",
+     "barcode": "4713250832555",
+     "price": "759.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1,
+     "selectedOptions": [
+      {
+       "name": "Title",
+       "value": "Default Title"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10523474559242",
+  "title": "Glasögon CAIRN Flake, Matte Black Fire",
+  "handle": "glas-gon-cairn-flake-matte-black-fire-spflake103tu",
+  "status": "ACTIVE",
+  "vendor": "Cairn",
+  "productType": "Tillbehör",
+  "tags": [
+   "Cairn",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-16T06:31:14Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Designade för dagens äventyrare - oavsett om du är en erfaren atlet eller en passionerad hobbyist - som letar efter en följeslagare som kombinerar komfort, säkerhet och elegans. Med <strong>FLAKE</strong>-glasögon går sport och stil hand i hand - utan kompromisser. Cairn FLAKE-glasögonlinser är belagda med <em>en reptålig behandling</em> för enastående hållbarhet och maximalt skydd för dina ögon.<br><br>Tillverkade av Cairn.<br><br>\n</div><ul>\n<li>Kat. 3</li>\n<li>Ögonavstånd: 128 mm</li>\n<li>Nosbredd: 15 mm</li>\n<li>Glasbredd: 40 mm</li>\n</ul>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/53136587784458",
+     "title": "Default Title",
+     "sku": "SPFLAKE103TU",
+     "barcode": "3267654914108",
+     "price": "319.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1,
+     "selectedOptions": [
+      {
+       "name": "Title",
+       "value": "Default Title"
+      }
+     ]
+    }
+   ]
+  }
+ }
+]

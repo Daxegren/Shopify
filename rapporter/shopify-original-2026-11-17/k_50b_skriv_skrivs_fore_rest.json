@@ -1,0 +1,237 @@
+[
+ {
+  "id": "gid://shopify/Product/10472267710730",
+  "title": "Scooter wheel Panda Spoked V2 100MM Scooter Wheel Chrome",
+  "handle": "scooter-wheel-panda-spoked-v2-100mm-scooter-wheel-chrome-104684",
+  "status": "ACTIVE",
+  "tags": [
+   "Sparkcyklar",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-16T06:07:26Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>En <strong>Panda </strong>cykel säkerställer en bekväm och säker åktur. Navet är tillverkat av 6061 aluminium och har en ekrad design.<br><br>\n</div><ul>\n<li>Rund profil</li>\n<li>Vikt: 193 gram</li>\n<li>Bredd: 24 mm</li>\n<li>193 mm: 24 mm</li>\n</ul>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52848433791242",
+     "sku": "104684",
+     "price": "289.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472281997578",
+  "title": "Handskar GIANT CHILL X LF GLOVE BLACK, svart",
+  "handle": "handskar-giant-chill-x-lf-glove-black-svart-830001091",
+  "status": "ACTIVE",
+  "tags": [
+   "Giant",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 2,
+  "updatedAt": "2026-11-16T06:11:58Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>De helt nya, omdesignade Chill-handskarna håller dina händer bekväma och varma under kalla, våta eller blåsiga dagar med optimerad vaddering och helt ny vattentätning och isolering.</div><ul>\n<li>Den böjda formen och Bolton-tummen följer handens naturliga form.</li>\n<li>Strategiskt placerad vaddering sprider trycket och skyddar artärblodflödet till händerna.</li>\n<li>Vindtätt och vattenavvisande Protextura 4-vägs stretchmaterial för maximalt skydd och andningsförmåga.</li>\n<li>Premium 3M Thinsulate (C100 på baksidan/C40 på handflatan) behåller kroppsvärmen genom att tillåta fukt att avdunsta.</li>\n<li>Wiretap touch-kompatibilitet.</li>\n<li>Mjukt tyg för svettavtorkning på baksidan av tummen.</li>\n<li>3M Scotchlite starkt material på handsken.</li>\n<li>Säker, lättjusterad jackfästning.</li>\n</ul><div>\n<br>Grundat 1972 är <strong>Giant</strong> världens ledande tillverkare av kvalitets-cyklar och cykeltillbehör. Giant introducerade lättare och starkare aluminiumramar och introducerade kolfiberramar för bredare användning. Utvecklingen av utrustning sker i konstant samarbete med toppcyklister.</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52848471048458",
+     "sku": "830001091",
+     "price": "299.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 2
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10475396825354",
+  "title": "Cykelklocka Brave Classics Mini Gold",
+  "handle": "cykelklocka-brave-classics-mini-gold-2071160002",
+  "status": "ACTIVE",
+  "tags": [
+   "Brave",
+   "ringklocka",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 7,
+  "updatedAt": "2026-11-16T05:46:53Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>En stark och tydligt klingande cykelklocka.</p>\n<p>Passar Ø 22,2 mm och 31,8 mm styre.</p>\n<p>Tillverkad av <strong>Brave</strong> (Tyskland).</p>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52865276805386",
+     "sku": "2071160002",
+     "price": "289.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 7
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10476106645770",
+  "title": "Cykelhållare för telefon CHOETECH H067, svart",
+  "handle": "cykelh-llare-f-r-telefon-choetech-h067-svart-56050",
+  "status": "ACTIVE",
+  "tags": [
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 4,
+  "updatedAt": "2026-11-16T06:15:43Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>\n<strong>Choetech HO67</strong> är en justerbar telefonhållare för cykel- eller styre på skoter. Passar telefoner från 4,7 till 7 tum. Den genomtänkta designen gör att hållaren kan rotera 360 grader.<br><br>\n</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52869255987466",
+     "sku": "56050",
+     "price": "219.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 4
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10515742523658",
+  "title": "Dricksflaska GIANT DOUBLESPRING 750ML Transparent Blå/Grå",
+  "handle": "dricksflaska-giant-doublespring-750ml-transparent-bl-gr-480000269",
+  "status": "ACTIVE",
+  "tags": [
+   "Flaska & Hållare",
+   "Giant",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 2,
+  "updatedAt": "2026-11-16T06:07:11Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Dricksflaska <strong>Giant </strong>Doublespring 750 ml.</div><div>\n<br><strong>Mer information:</strong>\n</div><ul>\n<li>Antibakteriell plast.</li>\n<li>Tål maskindisk (upp till 90°C). Antibakteriell.</li>\n</ul><div><br></div><div>\n<strong>Giant</strong>, grundat <strong>1972</strong>, är världens ledande tillverkare av högkvalitativa cyklar och cykelutrustning. <strong>Giant</strong> introducerade lättare och starkare aluminiumramar och kolfiberramar för bredare användning. Utvecklingen av utrustning sker i konstant samarbete med toppcyklister.</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/53096583627018",
+     "sku": "480000269",
+     "price": "89.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 2
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10515742654730",
+  "title": "Dricksflaska GIANT DOUBLESPRING 750ML Transparent Blå/Svart",
+  "handle": "dricksflaska-giant-doublespring-750ml-transparent-bl-svart-480000353",
+  "status": "ACTIVE",
+  "tags": [
+   "Flaska & Hållare",
+   "Giant",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 2,
+  "updatedAt": "2026-11-09T06:18:35Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Dricksflaska <strong>Giant </strong>Doublespring 750 ml.</div><div>\n<br><strong>Mer information:</strong>\n</div><ul>\n<li>Antibakteriell plast.</li>\n<li>Tål maskindisk (upp till 90°C). Antibakteriell, antibakteriell.</li>\n</ul><div><br></div><div>\n<strong>Giant</strong>, grundat <strong>1972</strong>, är världens ledande tillverkare av högkvalitativa cyklar och cykelutrustning. <strong>Giant</strong> introducerade lättare och starkare aluminiumramar och introducerade kolfiberramar för bredare användning. Utvecklingen av utrustning sker i ett konstant samarbete med toppcyklister.</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/53096583725322",
+     "sku": "480000353",
+     "price": "79.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 2
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10515742687498",
+  "title": "Dricksflaska GIANT DOUBLESPRING 750ML Transparent/Svart, transparent-svart",
+  "handle": "dricksflaska-giant-doublespring-750ml-transparent-svart-transparent-svart-480000355",
+  "status": "ACTIVE",
+  "tags": [
+   "Flaska & Hållare",
+   "Giant",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 2,
+  "updatedAt": "2026-11-09T06:19:23Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Dricksflaska <strong>Giant </strong>Doublespring 750 ml.</div><div>\n<br><strong>Mer information:</strong>\n</div><ul>\n<li>Antibakteriell plast.</li>\n<li>Diskmaskinssäker (upp till 90°C). Antibakteriell, antibakteriell.</li>\n</ul><div><br></div><div>\n<strong>Giant</strong>, grundat <strong>1972</strong>, är världens ledande tillverkare av högkvalitativa cyklar och cykelutrustning. <strong>Giant</strong> introducerade lättare och starkare aluminiumramar och introducerade kolfiberramar för bredare användning. Utvecklingen av utrustning sker i ett konstant samarbete med toppcyklister.</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/53096583758090",
+     "sku": "480000355",
+     "price": "79.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 2
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10554354106634",
+  "title": "Vattenflaska NILS NCD04, 950 ml, rosa-grön",
+  "handle": "vattenflaska-nils-ncd04-950-ml-rosa-gr-n-15-02-044",
+  "status": "ACTIVE",
+  "tags": [
+   "Flaska & Hållare",
+   "Nils Extreme",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-16T05:54:50Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>\n<strong>Nilsi</strong> <strong>NCD04</strong>-flaskan utmärker sig från mängden genom sin utmärkta kombination av hållbarhet, ergonomisk form och funktionalitet. Ett fack på flaskans baksida låter dig hålla koll på hur mycket du dricker under dagen.<br>Tritan är ett mycket hållbart och lätt material som tål höga temperaturer. Användningen av moderna material säkerställer dess optimala egenskaper för att förvara vatten, drycker eller te. Flaskan är mycket lätt att underhålla, den kan steriliseras och diskas i diskmaskin. Till skillnad från plast behåller denna flaska sina egenskaper och estetik under lång tid. Tritanflaskan kan fyllas med varm vätska utan rädsla för att skada den. Tritanflaskor tål även minusgrader. Även frysning av vatten kvar i flaskan skadar den inte, som det händer med plast. Tritan avger inte heller skadliga föreningar och skyddar effektivt mot skadliga effekter av UV-strålning. En speciell funktion och nyckelfunktion hos <strong>NCD04</strong> är dess förmåga att placera en mängd olika frukter och andra smakförändrande livsmedel i ett separat nät, vilket gör dricksvattnet mycket godare. <br><br><strong>Mer information:</strong>\n</div><ul>\n<li>Material.</li>\n<li><strong>Mått:</strong></li>\n</ul><div>     - Höjd: 28,5 cm<br>     - Diameter: 7,8 cm</div><ul>\n<li>Kapacitet: 950 ml</li>\n<li>Enkelt lager</li>\n<li>Produktvikt: 220g</li>\n</ul><div><br></div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/53272253628682",
+     "sku": "15-02-044",
+     "price": "279.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1
+    }
+   ]
+  }
+ }
+]

@@ -1,0 +1,92 @@
+[
+ {
+  "id": "gid://shopify/Product/10470905544970",
+  "title": "Bicycle front basket BASIL Robin",
+  "handle": "bicycle-front-basket-basil-robin-11218",
+  "status": "ACTIVE",
+  "tags": [
+   "Basil",
+   "Cykelkorg",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 6,
+  "updatedAt": "2026-11-16T05:54:31Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Korgens mått: 47 cm x 31 cm x 25 cm.</p>\n<p><strong>BASIL Robin </strong>cykelkorg fram är ett praktiskt val för cyklisten som värdesätter utrymme för personliga tillhörigheter. Denna korg kan bära en vikt på upp till 10 kg och rymmer 27 liter.</p>\n<p>Sedan 1976 har <strong>BASIL </strong>strävat efter att hjälpa cyklister att njuta mer och mer av sina cyklar och sin cykling. <strong>Basil </strong>gör allt detta möjligt med de cykelkorgar och cykelväskor som de har utvecklat. Basils samling av cykelkorgar och cykelväskor är så stor att den tillfredsställer behoven och drömmarna hos varje cyklist för att göra cyklingen så bekväm och njutbar som möjligt.</p>\n<ul>\n<li>Sofistikerad design</li>\n<li>Modern design</li>\n<li>Hög kvalitet</li>\n<li>Erfarenhet sedan 1976</li>\n</ul>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52843944640778",
+     "sku": "11218",
+     "price": "619.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 6
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10470909149450",
+  "title": "Grips GIANT Tactal Double Lock-on Grip, svart-gul",
+  "handle": "handtag-giant-tactal-double-lock-on-grip-svart-gul-190000103",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykellås",
+   "Giant",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-09T06:07:47Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Lätta och bekväma handtag, tillverkade av mjuk Kraton-gummi.<br><br>\n</div><ul>\n<li>Längd: 135 mm, yttre diameter: 30 mm.</li>\n<li>135 cm, 30 mm i diameter.</li>\n<li>\n<strong>Paketet innehåller endast en färg av handtag - bilden är illustrativ!<br></strong><br>\n</li>\n</ul><div>Grundat 1972, <strong>Giant</strong> är världens ledande tillverkare av kvalitets-cyklar och cykeltillbehör. Giant introducerade lättare och starkare aluminiumcykelramar, introducerade kolfiberramar för bredare användning. Utvecklingen av utrustning är ett konstant samarbete med toppcyklister.</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52843976294666",
+     "sku": "190000103",
+     "price": "309.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10471027835146",
+  "title": "Inversion boots TUNTURI Inversion Boots",
+  "handle": "inversion-boots-tunturi-inversion-boots-14tuscl241",
+  "status": "ACTIVE",
+  "tags": [
+   "Fell",
+   "Konditionsträning & Fitness",
+   "Tunturi",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-16T06:20:02Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>TUNTURI inversionsstövlar låter dig ta din magträning till nästa nivå genom att låta dig utföra övningar med huvudet hängande nedåt. Förutom träning låter inversionsstövlarna dig också sträcka ut ryggmusklerna och \"räta ut\" ryggraden, vilket är effekten av att hänga med huvudet nedåt.<br><br>\n</div><div>Rejäla upphängningskrokar, mjuk vaddering på insidan och ett starkt stängningssystem på utsidan!<br><br>Se alltid till att du är säker när du använder inversionsstövlar!</div><div>\n<br><br>\n</div><div>Produktspecifikationer:<br><br>\n</div><ul>\n<li>Mått.</li>\n<li><br></li>\n<li>Vikt: 2,7 kg</li>\n<li><br></li>\n<li>Material: metall / syntet</li>\n</ul><div>\n<br><br><br>\n</div><div>\"Må bättre varje dag\" - det är Tuntur-mottot. Våra rötter går tillbaka till Finland, där två bröder grundade en cykelbutik 1922. Nu, över 100 år senare, är vi ett holländskt företag och ett globalt varumärke. Vi stöder dig på din resa mot en frisk och vältränad kropp, ett balanserat sinne och ett lyckligt liv. Vi gör detta med ett brett utbud av konditions- och styrketräningsutrustning, tillbehör och stödjande appar. Sortimentet utökas och växer ständigt, med högkvalitativa produkter och bra garantier.</div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52844685263114",
+     "sku": "14TUSCL241",
+     "price": "679.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1
+    }
+   ]
+  }
+ }
+]

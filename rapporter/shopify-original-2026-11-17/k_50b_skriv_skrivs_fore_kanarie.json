@@ -1,0 +1,94 @@
+[
+ {
+  "id": "gid://shopify/Product/10411854004490",
+  "title": "Ramväska BASIL NAVIGATOR STORM, M - 2,2 l",
+  "handle": "ramvaska-basil-navigator-storm-m-2-2-l",
+  "status": "ACTIVE",
+  "tags": [
+   "Basil",
+   "Cykelväska",
+   "Cykelväskor",
+   "Velomarket"
+  ],
+  "totalInventory": 6,
+  "updatedAt": "2026-11-16T06:12:46Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Basil Navigator Storm är en sportig, kompakt, vattentät cykelväska. Med Navigator Storm-kollektionen kan du ta dig an alla cykelturer!<br>\nDen reflekterande logotypen på sidan av väskan gör dig lite mer synlig för andra trafikanter.</p>\n<p>Fäst enkelt väskan på din cykelram, sadel eller styre med kardborrebanden (ingår) och den sitter kvar tack vare halkskyddsbeläggningen. Det vattentäta (IPX3) materialet säkerställer att du inte blir överraskad av ett skyfall. Den pressade botten är också lätt att torka av, så din väska ser ut som ny.</p>\n<p>Funktioner:<br>\nVattentät (IPX3)<br>\nIPX3 (vattentät (vattentät till IPX3) för bättre synlighet i mörker tack vare reflekterande detaljer.<br>\nFästs enkelt på alla hjul med (medföljande) kardborreband och halkskydd.<br>\nKapacitet: 2,2 liter<br>\nMått: 16 x 38 x 6 cm (yttre mått).<br>\nMontering: ram<br>\nMaterial: Närvarande / Nujakka polyester.<br>\nFärg: svart</p>\n<p>Sedan 1976 har den nederländska tillverkaren av cykelkorgar och tillbehör, BASIL, strävat efter att få cyklister att njuta mer och mer av sina cyklar och sin cykling. Basil gör allt detta möjligt med de cykelkorgar och väskor som de har utvecklat. Basils kollektion av korgar och väskor är så stor att den tillfredsställer behoven och drömmarna hos varje cyklist för att göra cyklingen så bekväm och njutbar som möjligt.</p>\n<p>Sofistikerad design.<br>\nModern design.<br>\nHög kvalitet.<br>\nErfarenhet sedan 1976.</p>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52588163662090",
+     "sku": "18276",
+     "price": "449.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 6
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472224882954",
+  "title": "Pakväska BASIL City dubbel cykelväska, 28-32 L, grå",
+  "handle": "pakv-ska-basil-city-dubbel-cykelv-ska-28-32-l-gr-18074",
+  "status": "ACTIVE",
+  "tags": [
+   "Basil",
+   "Cykelväska",
+   "Hybridcykel",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 4,
+  "updatedAt": "2026-11-09T05:57:46Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p><strong>BASIL City</strong> är kompakt, inte för stor, men ändå tillräckligt rymlig med en kapacitet på<strong> 28 liter</strong>. Väskan är också tillverkad av<strong> vattenavvisande</strong> polyester.<br>\nDubbla pakväskan<strong> Basil City</strong> fästs enkelt på din pakethållare med <strong>Universal Bridge</strong>-systemet. Tack vare <strong>Universal Bridge</strong>-systemet kan du välja hur du vill fästa väskan. Den kan fästas med förinstallerade remmar, med <strong>Basil DBS</strong>-systemet (avtagbara bärplattor) eller med en adapterplatta som <strong>MIK</strong>. Båda systemen måste köpas separat.</p>\n<p>Funktioner:</p>\n<ul>\n<li>Kompakt och rymlig <strong>28-32</strong> liter.</li>\n<li>28,28 till 28,7 mm, med <strong>Universal Bridge</strong>-systemet kan du enkelt fästa väskan på pakethållaren.</li>\n<li>Alla sidor av väskan är utrustade med <strong>reflexer</strong>.</li>\n</ul>\n<p>Sedan 1976 har den nederländska tillverkaren av cykelkorgar och tillbehör, BASIL, strävat efter att hjälpa cyklister att njuta av sina cyklar och cykling mer och mer. Den universella pakväskan med alla tillbehör är utformad för att passa alla dina behov. Basil gör allt detta möjligt med de cykelkorgar och väskor som de har utvecklat. Basils samling av korgar och väskor är så stor att den tillfredsställer behoven och drömmarna hos varje cyklist för att göra cyklingen så bekväm och njutbar som möjligt.</p>\n<p>Sofistikerad design.<br>\nModern design.<br>\nHög kvalitet.<br>\nErfarenhet sedan 1976.</p>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52848209887498",
+     "sku": "18072",
+     "price": "739.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 4
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10472239268106",
+  "title": "Styckväska PRO Gravel Discover 2.5L",
+  "handle": "styckv-ska-pro-gravel-discover-2-5l-prba0065-1",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykelväska",
+   "Cykelväskor",
+   "Gravelcykel",
+   "PRO",
+   "Velomarket"
+  ],
+  "totalInventory": 1,
+  "updatedAt": "2026-11-16T05:51:24Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<p>Med en kapacitet på 2,5 liter är PRO Discover-styckväskan idealisk för korta och lätta cykelpaketresor. Den kompakta väskan fästs på styret och styrröret med justerbara kardborreband. Väskans utsida har en vattentät konstruktion och skyddade dragkedjor, medan insidan är uppdelad i två förvaringsfack. Dessutom säkerställer reflekterande detaljer bättre synlighet.</p>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52848370286858",
+     "sku": "PRBA0065",
+     "price": "599.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 1
+    }
+   ]
+  }
+ }
+]

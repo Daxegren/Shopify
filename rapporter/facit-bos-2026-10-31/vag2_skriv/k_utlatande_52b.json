@@ -1,0 +1,173 @@
+[
+ {
+  "nr": 52101,
+  "id": "10475978588426",
+  "fil": "k_52b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "och monteras på sadeln. Den är avsedd för 26 och 27,5 tum.",
+    "efter": "och justerbar vinkel. Den är avsedd för hjul på 26 och 27,5 tum."
+   },
+   "html": [
+    {
+     "fore": "stadscyklar med 26 eller 27,5 tum. Den monteras på sadeln med snabbfäste för sadelstolpe och har justerbar vinkel.",
+     "efter": "stadscyklar med hjul på 26 eller 27,5 tum. Den monteras på sadelstolpen med snabbfäste och har justerbar vinkel."
+    },
+    {
+     "fore": "<li>Dig som vill ha en bakskärm som monteras på sadeln</li>",
+     "efter": "<li>Dig som vill ha en bakskärm med snabbfäste för sadelstolpe</li>"
+    },
+    {
+     "fore": "<li>Montering: På sadeln, snabbfäste för sadelstolpe</li>",
+     "efter": "<li>Montering: Snabbfäste för sadelstolpe</li>"
+    }
+   ]
+  },
+  "skal": "Live ACTIVE, SKU 03-POR-SKS11449, EAN 4002556812416, lager 3, en variant, ej 'På beställning'. Artikel 11449/EAN bekräftad som SKS X-Blade Dark bakskärm 26/27,5 tum (bike-discount.de, bowcycle.com). Källan säger både 'Snabbfäste för sadelstolpe' och 'För montering på sadeln'; tillverkare och återförsäljare anger montering på sadelstolpen. 'Monteras på sadeln' är fel/maskinöversatt (R2) och tas bort i meta, text, Passar för och specifikation; kvar står snabbfäste för sadelstolpe ur källan. '26 och 27,5 tum' kompletteras med 'hjul på' så att måttet syftar rätt. Vikt 239 g är källans (nanobike anger ca 228 g; källans värde behålls). Titel och SEO unika mot skrivna 'Bakskärm SKS X-Blade för 26–27,5 tum, Svart och Grå' och 'Bakskärm SKS X-Blade, 29 tum'."
+ },
+ {
+  "nr": 52102,
+  "id": "10487970365706",
+  "fil": "k_52b_utkast.json",
+  "dom": "UNDERKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 1521-31, EAN 7350097565214, lager 2. Källan och titeln stämmer inte (R2/R3): titeln säger framsäte och källan ryggstödshöjd 18 cm, men lucky-bike.de säljer Cargobike of Sweden Flex/Delight-sittdynan i två utföranden där FRONT har ca 25 cm och REAR ca 18 cm ryggstöd. Handle slutar på 1521-32 medan varianten har 1521-31, vilket tyder på att fram- och bakdynan blandats ihop i annonsen. Det går inte att avgöra om produkten är fram- eller bakdynan, och inget av numren hittas hos tillverkaren. Dessutom sitter dynan i lådan där lastcykeln transporterar barn (barntransport); en text bör inte skrivas förrän annonsen är rättad. Avvisas; kan tas upp igen om Velomarket/tillverkaren bekräftar vilken dyna 1521-31 är."
+ },
+ {
+  "nr": 52103,
+  "id": "10507247911178",
+  "fil": "k_52b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 00026171, EAN 3611720201812, lager 1. LOOK:s egen sida (lookcycle.com/uk-en/products/dh-dirt/trail-fusion) bekräftar Trail Fusion: komposithus, Chromoly+-axel, 8 utbytbara piggar per sida, 18 mm, 324 g per par, färgen Lime och 'Made in France in our very own workshops in Nevers'. Ursprunget står ordagrant i källan ('tillverkade i Frankrike') och hos tillverkaren, och återges en gång med 'enligt tillverkaren' (R5). Max förarvikt 100 kg: svensk rad med etikett och enhet ('max. Max. förarens vikt: 100 kg'), den entydiga delen får användas (R2/R4) och står en gång med 'enligt tillverkaren'; återförsäljare för lime anger också 100 kg (LOOK:s produktsida anger ingen). Två 'enligt tillverkaren' totalt, inom gränsen. Fotavtrycket 107 x 105 mm stöds av LOOK:s pressmaterial (produktsidan anger 104 x 104 mm; källans värde behålls). EAN-krocken: Bike24 kallar EAN 3611720201812 'Trail Roc Fusion lime' 340 g; LOOK har ingen modell med det namnet på sin sida, och alla källans data (324 g, 18 mm, 8 piggar) stämmer med Trail Fusion, så det bedöms vara återförsäljarens namn, inte en annan artikel. Utelämnat rätt: bättre kontroll, prestanda, stabilitet, komfort, 'byggda för att hålla', remskiva. Titel unik mot 'Pedaler LOOK Trail Fusion, Svart' (ej skriven)."
+ },
+ {
+  "nr": 52104,
+  "id": "10515737968906",
+  "fil": "k_52b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 480000400, EAN 4713250851389, lager 2. Alla uppgifter står i källan; 400CC = 400 ml enligt titeln. 'Designad för barncyklar' är källans ord och ingen säkerhetsfunktion (barn frisläppt 2026-11-05/11-08, bara fakta). 'Diskmaskinssäker, max 90 °C' är en produktuppgift och står en gång med 'enligt tillverkaren'. 'Antimikrobiell teknologi håller vattnet fräscht' och märkestexten rätt utelämnade. Titel och SEO följer de skrivna syskonen (Orange, Röd, Gul, Grön) och är unika."
+ },
+ {
+  "nr": 52105,
+  "id": "10515741606154",
+  "fil": "k_52b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 120000182, EAN 4713250007601, lager 3. PU-skum, UniClip och 270 x 145 mm står i källan. Lastgräns enligt v1.10: specifikationsraden 'Maximal lastgräns: Ej känd' och meningen 'Maximal lastgräns är inte känd.' i texten, ingen annan lastuppgift. Inga komfort-, ergonomi-, tryck- eller stödpåståenden (utskärningen, 'minskar tryckpunkter med mer än 20 procent', 'större stöd' och 'lätt, högresistent' är utelämnade). Typordet Sadel följer skrivna syskon (Sadel Giant Approach SL, Sadel Liv Approach); titel och SEO unika."
+ },
+ {
+  "nr": 52106,
+  "id": "10530179285258",
+  "fil": "k_52b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 530000043, EAN 4713250839622, lager 2. Revolt-specifik, 2019+ och däckbredd upp till 40c står i källan; skydd mot vatten/lera, 'hållbara', 'lättmonterade', 'alla väderförhållanden' rätt utelämnade. Typordet: live och källan skriver 'Stänkskärmsset', utkastet 'Stänkskärmset' som minst tolv redan skrivna syskon (Hebie Viper/Taipan/Alumee, Giant Swift). Det är samma ord i en annan stavning, inte ett nytt typord, och enhetligheten i butiken väger tyngre; därför ingen rättning. Den vanliga svenska sammansättningen är dock 'stänkskärmsset' (jfr butikens 'Stänkskärmsfäste', 'Stänkskärmsförlängning'): beslut för David om enhetlig stavning. Titel och SEO unika."
+ },
+ {
+  "nr": 52108,
+  "id": "10554353746186",
+  "fil": "k_52b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 1667, EAN 4250969216677, lager 1. Källan har en mening: fram- och bakskärm för 24-tums barncyklar; allt i utkastet kommer därifrån. Barnrelaterat bara genom källans ord, ingen skyddsfunktion. Kort text enligt v1.12 är rätt. Typordet Stänkskärmset som 52106 (se där). Titel och SEO unika."
+ },
+ {
+  "nr": 52110,
+  "id": "10554359513354",
+  "fil": "k_52b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 11669, EAN 4002556978785, lager 1, taggen 'På beställning'. Leveranstidsmeningen finns i frakt-stycket (standardblocket i övrigt identiskt med b_skriv_24), och ingen annan produkt i batchen har den (kontrollerat). Hjulstorlek 27,5/28/29 tum, däckbredd 59–76 mm, 490 mm, 155 g och plast står i källan; dubblettraderna är rätt sammanslagna, 'slitstark och lätt' rätt utelämnat. Titel och SEO unika (Bakskärm SKS Mudrocker Bak är DRAFT)."
+ },
+ {
+  "nr": 52111,
+  "id": "10554360693002",
+  "fil": "k_52b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "html": {
+    "fore": "Den har Side-Flex-teknik, där sadelns sidor kan flexa, och Side-Wrap-teknik, där sidorna täcks med elastisk dämpning.",
+    "efter": "Den har Side-Flex-teknik, där sadelns sidor kan flexa, och Side-Wrap-teknik, som täcker sadelns sidor."
+   }
+  },
+  "skal": "Live ACTIVE, SKU 120000189, EAN 4713250007670, lager 1. 'Elastisk dämpning' är i källan del av ett stötdämpnings-/komfortpåstående ('säkerställer bättre sido- och bakre stötdämpning') och läses som en komforteffekt; ordet tas bort, tekniknamnet och att den täcker sidorna står kvar (R5, v1.10: inga hållbarhets- eller komfortlöften). Lastgräns enligt v1.10 ('Ej känd' i specifikation och text); performancebike.com anger ingen. Komfort, stötdämpning, minskad friktion och märkestexten rätt utelämnade. Färg svart ur titeln. Titel och SEO unika mot 'Sadel GIANT Romero SL, svart' (ej skriven)."
+ },
+ {
+  "nr": 52112,
+  "id": "10565562466570",
+  "fil": "k_52b_utkast.json",
+  "dom": "RÄTTA",
+  "rattningar": {
+   "meta": {
+    "fore": "BMX, boards och sparkcykel.",
+    "efter": "BMX, brädor och sparkcykel."
+   },
+   "html": [
+    {
+     "fore": "anges cyklar, BMX, boards och sparkcyklar.",
+     "efter": "anges cyklar, BMX, brädor och sparkcyklar."
+    },
+    {
+     "fore": "<li>Dig som söker skydd för cykel, BMX, board eller sparkcykel</li>",
+     "efter": "<li>Dig som cyklar eller åker BMX, bräda eller sparkcykel</li>"
+    },
+    {
+     "fore": "<li>Lämplig användning: Cyklar, BMX, boards och sparkcyklar</li>",
+     "efter": "<li>Lämplig användning: Cyklar, BMX, brädor och sparkcyklar</li>"
+    }
+   ]
+  },
+  "skal": "Live ACTIVE, två varianter med samma SKU 104298 och EAN 4751036031303 (Default Title 349 kr, 'M / blue' 329 kr, lager 1+1). Skrivbar enligt v1.7/v1.9 (samma artikel, lager > 0); titel, SEO och text låser inte färg, storlek eller pris. Davids beslut 2026-11-17 (knäskydd en och en): texten är sanningsenlig med ren fakta (typ, märke, modell, vuxna, användning, 0,2 kg, artikelnummer, EAN); 'Skyddsnivå: extrem' rätt utelämnad, inga skydds- eller säkerhetspåståenden. Rättningar: 'boards' är engelska och översätts till 'brädor' som i det skrivna syskonet Knäskydd Boom Basic, Rosa; Passar för-raden 'söker skydd för …' formuleras om så att den inte kan läsas som ett skyddsbehov. Titel och SEO unika."
+ },
+ {
+  "nr": 52113,
+  "id": "10588446327050",
+  "fil": "k_52b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 14TUSFU329, EAN 8717842035627, lager 9. 'Anti Burst' struket ur titeln (säkerhetsord, följer skrivna Gymball-syskon). 'Brottsäker då den klarar upp till 220 kg' är lastgräns i löptext utan etikett och rätt utelämnad (R4). Vinyl, handpump, storleksguiden (65 cm = 166–178 cm) och första uppumpningen står i källan; två 'enligt tillverkaren', inom gränsen. Motto, muskelgrupper och märkestext utelämnade. Typordet Träningsboll = live. Titel och SEO unika mot skrivna 'Träningsboll Tunturi Gymball 65 cm, Mint' m.fl. Taggen Cykelbelysning är fel men rörs inte."
+ },
+ {
+  "nr": 52107,
+  "id": "10541368738058",
+  "fil": "k_52b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 190000062, EAN 4718905868095, lager 3. Anodiserad dubbelsidig Lock-On-klämma och mjuk Kraton-gummiyta står i källan; säker fastsättning, grepp och komfort rätt utelämnade. Typordet Handtag för engelska 'Grips' är tillåtet (R7: butikens live-ord, skrivna 'Handtag Liv Sole-O Double Lock-On, Svart/Lila' och flera Giant Tactal-handtag). SEO unik mot syskonets."
+ },
+ {
+  "nr": 52114,
+  "id": "10656694010122",
+  "fil": "k_52b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU 190000061, EAN 4718905868088, lager 1. Uppgifterna står i källan; 'designat för kvinnor' om Liv-sortimentet står en gång med 'enligt tillverkaren'. Säker och stabil passform, grepp och körkomfort rätt utelämnade. Typordet Handtag som 52107. Titel och SEO unika."
+ },
+ {
+  "nr": 52116,
+  "id": "10721320861962",
+  "fil": "k_52b_utkast.json",
+  "dom": "GODKÄND",
+  "rattningar": {},
+  "skal": "Live ACTIVE, SKU = EAN 3760004841616, lager 1. Sparkcykel, mjukt gummi, 170 mm och 32 mm står i källan; stötdämpning, handledsskydd, kontroll, säkerhet, trötthet och hållbarhet rätt utelämnade. Källan säger 'handtag', typordet stöds. Titel och SEO unika mot 'Handtag Ethic Slim Grips, Gummi, Svart'."
+ },
+ {
+  "nr": 52951,
+  "id": "10554354172170",
+  "fil": "k_52b_avvisade.json",
+  "dom": "AVVISNING RÄTT",
+  "rattningar": {},
+  "skal": "Avvisningen är rätt. Källan säger att förpackningen innehåller handtag i en enda färg och att fotot bara är illustration, medan titeln anger svart-röd. Giant anger att färgade låsringar inte ingår, och ebike24 listar 190000102 som e-cykelversionen. Färgen går inte att fastställa (R2/R3). Utan färg skulle titeln krocka med det aktiva syskonet 'Grips GIANT Tactal Double Lock-on Grip, svart-gul' och utkasten för Tactal Double Lock-On, svart. Avvakta."
+ },
+ {
+  "nr": 52952,
+  "id": "10708320157962",
+  "fil": "k_52b_avvisade.json",
+  "dom": "AVVISNING RÄTT",
+  "rattningar": {},
+  "skal": "Avvisningen är rätt. Källan har bara 'Tillverkaren är Giant' och titeln 'Tire milk 125ml/4oz'. Produkttypen är inte entydig på svenska, och typordet däcktätningsvätska finns varken som live-ord i butiken eller i godkanda_typord (R7, v1.12 punkt 5). Kan skrivas om David godkänner typordet."
+ }
+]

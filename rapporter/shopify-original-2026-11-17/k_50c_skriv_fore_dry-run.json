@@ -1,0 +1,31 @@
+[
+ {
+  "id": "gid://shopify/Product/10471000047882",
+  "title": "Spiderman gloves, red",
+  "handle": "handskar-spiderman-r-d-9060",
+  "status": "ACTIVE",
+  "tags": [
+   "SevenPolska",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "totalInventory": 6,
+  "updatedAt": "2026-11-16T06:15:29Z",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "descriptionHtml": "<div>Handskar i Superman-stil är handskar designade för barn för att skydda sina händer från stötar och repor. Den inre vadderingen gör linsen bekväm att hålla i.<br><br><strong>Mer information:</strong>\n</div><ul>\n<li>Storlek: S / Ålder 4-6 år / Omkrets 15 cm.</li>\n<li>5 - 15 cm - 15 cm Justerbar med justerbara manschetter.</li>\n</ul><div></div>",
+  "variants": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/52844607996170",
+     "sku": "9060",
+     "price": "129.00",
+     "compareAtPrice": null,
+     "inventoryQuantity": 6
+    }
+   ]
+  }
+ }
+]
