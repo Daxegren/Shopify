@@ -56,6 +56,24 @@ class T(unittest.TestCase):
         with self.assertRaises(W.Stopp):
             W.skriv_grupp(Dalig(), [("m1", "T", "p")])
 
+    def test_utesluter_produkter_med_tagg(self):
+        p = jsonl([{"id": "gid://shopify/Product/1", "title": "Tee", "tags": ["price-change-job-active"]},
+                   {"id": "gid://shopify/MediaImage/1", "alt": "", "__parentId": "gid://shopify/Product/1"},
+                   {"id": "gid://shopify/Product/2", "title": "Hoodie", "tags": ["texter-klara"]},
+                   {"id": "gid://shopify/MediaImage/2", "alt": "", "__parentId": "gid://shopify/Product/2"}])
+        jobb, n = W.att_gora(p, "price-change-job-active")
+        self.assertEqual([i for i, _, _ in jobb], ["gid://shopify/MediaImage/2"]); self.assertEqual(n, 1)
+        self.assertEqual(len(W.att_gora(p)[0]), 2)
+
+    def test_aterstall_bara_oforandrad_alt(self):
+        k, d = Fake(), tempfile.mkdtemp()
+        f = os.path.join(d, "fore.jsonl")
+        open(f, "w").write("\n".join(json.dumps({"media_id": i, "produkt": "p", "fore": None, "ny": a}) for i, a in (("m1", "A"), ("m2", "B"), ("m3", "C"))))
+        k.alt = {"m1": "A", "m2": "andrad av någon", "m3": "C"}
+        self.assertEqual(W.aterstall(k, f, skriv=False), (2, 1)); self.assertEqual(k.alt["m1"], "A")
+        self.assertEqual(W.aterstall(k, f, skriv=True, sleep=lambda s: None), (2, 1))
+        self.assertEqual((k.alt["m1"], k.alt["m2"], k.alt["m3"]), ("", "andrad av någon", ""))
+
 
 if __name__ == "__main__":
     unittest.main()
