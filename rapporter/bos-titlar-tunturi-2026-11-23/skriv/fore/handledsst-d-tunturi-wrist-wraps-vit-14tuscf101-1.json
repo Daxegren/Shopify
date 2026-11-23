@@ -1,0 +1,33 @@
+{
+ "id": "gid://shopify/Product/10475373560074",
+ "title": "Handledsskydd Tunturi, Bomull, Vit",
+ "handle": "handledsst-d-tunturi-wrist-wraps-vit-14tuscf101-1",
+ "status": "ACTIVE",
+ "tags": [
+  "Extra vikter",
+  "Fell",
+  "texter-klara",
+  "tillbehör",
+  "Tunturi",
+  "Velomarket",
+  "Vikttillbehör"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52865205960970",
+    "sku": "14TUSCF101",
+    "price": "129.00",
+    "compareAtPrice": null,
+    "title": "14TUSCF101"
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52865205993738",
+    "sku": "14TUSCF102",
+    "price": "139.00",
+    "compareAtPrice": null,
+    "title": "14TUSCF102"
+   }
+  ]
+ }
+}

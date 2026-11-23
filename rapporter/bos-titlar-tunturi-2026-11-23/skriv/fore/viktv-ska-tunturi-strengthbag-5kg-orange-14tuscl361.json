@@ -1,0 +1,32 @@
+{
+ "id": "gid://shopify/Product/10472213250314",
+ "title": "Viktväska Tunturi Strengthbag 5 kg",
+ "handle": "viktv-ska-tunturi-strengthbag-5kg-orange-14tuscl361",
+ "status": "ACTIVE",
+ "tags": [
+  "Cykelväska",
+  "Cykelväskor",
+  "Fell",
+  "texter-klara",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848143958282",
+    "sku": "14TUSCL362",
+    "price": "729.00",
+    "compareAtPrice": null,
+    "title": "Default Title"
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848143991050",
+    "sku": "14TUSCL362",
+    "price": "799.00",
+    "compareAtPrice": null,
+    "title": "yellow"
+   }
+  ]
+ }
+}

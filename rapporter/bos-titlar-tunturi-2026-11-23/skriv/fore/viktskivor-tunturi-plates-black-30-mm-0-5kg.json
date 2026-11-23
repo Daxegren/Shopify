@@ -1,0 +1,30 @@
+{
+ "id": "gid://shopify/Product/10411853414666",
+ "title": "Viktskivor TUNTURI Plates Black, 30 mm, 0.5kg",
+ "handle": "viktskivor-tunturi-plates-black-30-mm-0-5kg",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Konditionsträning & Fitness",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52588160057610",
+    "sku": "14TUSCL093",
+    "price": "49.00",
+    "compareAtPrice": null,
+    "title": "14TUSCL093"
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52588160090378",
+    "sku": "14TUSCL094",
+    "price": "119.00",
+    "compareAtPrice": null,
+    "title": "14TUSCL094"
+   }
+  ]
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "gid://shopify/Product/10472211448074",
+ "title": "Viktplatta TUNTURI Rubber Plate, 30 mm, 5 kg",
+ "handle": "viktplatta-tunturi-rubber-plate-30-mm-5-kg-14tuscl145",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Konditionsträning & Fitness",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848137765130",
+    "sku": "14TUSCL145",
+    "price": "269.00",
+    "compareAtPrice": null,
+    "title": "14TUSCL145"
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848137797898",
+    "sku": "14TUSCL147",
+    "price": "769.00",
+    "compareAtPrice": null,
+    "title": "14TUSCL147"
+   }
+  ]
+ }
+}

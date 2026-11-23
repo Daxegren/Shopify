@@ -1,0 +1,34 @@
+{
+ "id": "gid://shopify/Product/10475982651658",
+ "title": "Medicinboll Tunturi Wall Ball, 6 kg, Röd",
+ "handle": "tunturi-wall-ball-6-kg-r-d-14tuscf010",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Konditionsträning & Fitness",
+  "texter-klara",
+  "Träningsboll",
+  "Träningsbollar",
+  "Tunturi",
+  "Velomarket",
+  "wall ball"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52868870504714",
+    "sku": "14TUSCF011",
+    "price": "719.00",
+    "compareAtPrice": null,
+    "title": "Default Title"
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52868870537482",
+    "sku": "14TUSCF011",
+    "price": "659.00",
+    "compareAtPrice": null,
+    "title": "14TUSCF011"
+   }
+  ]
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "id": "gid://shopify/Product/10472263844106",
+ "title": "Viktskivor TUNTURI Aerobic Plates 0.50kg, orange",
+ "handle": "viktskivor-tunturi-aerobic-plates-0-50kg-orange-14tuscl290-1",
+ "status": "ACTIVE",
+ "tags": [
+  "Konditionsträning & Fitness",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848424681738",
+    "sku": "14TUSCL290",
+    "price": "69.00",
+    "compareAtPrice": null,
+    "title": "14TUSCL290"
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848424714506",
+    "sku": "14TUSCL291",
+    "price": "149.00",
+    "compareAtPrice": null,
+    "title": "14TUSCL291"
+   }
+  ]
+ }
+}

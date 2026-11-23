@@ -1,0 +1,30 @@
+{
+ "id": "gid://shopify/Product/10470888276234",
+ "title": "Lyftstång TUNTURI Aerobic Pump Bar, 30 mm, 130 cm",
+ "handle": "lyftst-ng-tunturi-aerobic-pump-bar-30-mm-130-cm-14tuscl218",
+ "status": "ACTIVE",
+ "tags": [
+  "Konditionsträning & Fitness",
+  "Pump",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52843867865354",
+    "sku": "14TUSCL218",
+    "price": "299.00",
+    "compareAtPrice": null,
+    "title": "14TUSCL218"
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52843867898122",
+    "sku": "14TUSCL219",
+    "price": "319.00",
+    "compareAtPrice": null,
+    "title": "14TUSCL219"
+   }
+  ]
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "id": "gid://shopify/Product/10472214921482",
+ "title": "Träningsboll Tunturi Gymball 90 cm",
+ "handle": "tr-ningsboll-tunturi-gymball-90cm-r-d-14tusfu283",
+ "status": "ACTIVE",
+ "tags": [
+  "texter-klara",
+  "träningsboll",
+  "Träningsbollar",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848153002250",
+    "sku": "14TUSFU285",
+    "price": "179.00",
+    "compareAtPrice": null,
+    "title": "Default Title"
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848153035018",
+    "sku": "14TUSFU285",
+    "price": "139.00",
+    "compareAtPrice": null,
+    "title": "black"
+   }
+  ]
+ }
+}

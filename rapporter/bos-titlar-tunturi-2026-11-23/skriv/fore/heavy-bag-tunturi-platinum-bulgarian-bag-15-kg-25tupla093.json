@@ -1,0 +1,32 @@
+{
+ "id": "gid://shopify/Product/10588451504394",
+ "title": "Heavy bag TUNTURI Platinum Bulgarian Bag, 15 kg",
+ "handle": "heavy-bag-tunturi-platinum-bulgarian-bag-15-kg-25tupla093",
+ "status": "ACTIVE",
+ "tags": [
+  "Cykelväska",
+  "Konditionsträning & Fitness",
+  "price-change-job-active",
+  "sale",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53499298251018",
+    "sku": "25TUPLA093",
+    "price": "1412.10",
+    "compareAtPrice": "1569.00",
+    "title": "25TUPLA093"
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499298283786",
+    "sku": "25TUPLA094",
+    "price": "1493.10",
+    "compareAtPrice": "1659.00",
+    "title": "25TUPLA094"
+   }
+  ]
+ }
+}

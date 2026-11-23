@@ -1,0 +1,59 @@
+{
+ "id": "gid://shopify/Product/10541372801290",
+ "title": "Kettlebell TUNTURI Platinum gjutjärn 8 kg",
+ "handle": "kettlebell-tunturi-platinum-gjutj-rn-8-kg-25tupla071",
+ "status": "ACTIVE",
+ "tags": [
+  "Kettlebell",
+  "Konditionsträning & Fitness",
+  "Mineraler",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53214526341386",
+    "sku": "25TUPLA071",
+    "price": "389.00",
+    "compareAtPrice": null,
+    "title": "25TUPLA071"
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53214526374154",
+    "sku": "25TUPLA073",
+    "price": "589.00",
+    "compareAtPrice": null,
+    "title": "25TUPLA073"
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53214526406922",
+    "sku": "25TUPLA070",
+    "price": "679.00",
+    "compareAtPrice": null,
+    "title": "25TUPLA070"
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53214526439690",
+    "sku": "25TUPLA072",
+    "price": "679.00",
+    "compareAtPrice": null,
+    "title": "25TUPLA072"
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53214526472458",
+    "sku": "25TUPLA075",
+    "price": "679.00",
+    "compareAtPrice": null,
+    "title": "25TUPLA075"
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53214526505226",
+    "sku": "25TUPLA074",
+    "price": "679.00",
+    "compareAtPrice": null,
+    "title": "25TUPLA074"
+   }
+  ]
+ }
+}

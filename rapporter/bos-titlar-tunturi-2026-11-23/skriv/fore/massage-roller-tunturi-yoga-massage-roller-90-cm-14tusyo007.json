@@ -1,0 +1,32 @@
+{
+ "id": "gid://shopify/Product/10472215544074",
+ "title": "Massagerulle Tunturi Yoga Massage Roller 90 cm",
+ "handle": "massage-roller-tunturi-yoga-massage-roller-90-cm-14tusyo007",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Massage",
+  "texter-klara",
+  "Tunturi",
+  "Velomarket",
+  "Yoga"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848154050826",
+    "sku": "14TUSYO007",
+    "price": "519.00",
+    "compareAtPrice": null,
+    "title": "14TUSYO007"
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848154083594",
+    "sku": "14TUSYO008",
+    "price": "319.00",
+    "compareAtPrice": null,
+    "title": "14TUSYO008"
+   }
+  ]
+ }
+}

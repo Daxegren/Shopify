@@ -1,0 +1,38 @@
+{
+ "id": "gid://shopify/Product/10462794776842",
+ "title": "Hantlar TUNTURI Vinyl Dumbbells 3.0kg, red",
+ "handle": "hantlar-tunturi-vinyl-dumbbells-3-0kg-red-14tusfu111-1",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Konditionsträning & Fitness",
+  "På beställning",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52805359141130",
+    "sku": "14TUSFU111",
+    "price": "339.00",
+    "compareAtPrice": null,
+    "title": "Red"
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52805359173898",
+    "sku": "14TUSFU112",
+    "price": "449.00",
+    "compareAtPrice": null,
+    "title": "blue"
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52805359206666",
+    "sku": "14TUSFU110",
+    "price": "249.00",
+    "compareAtPrice": null,
+    "title": "green"
+   }
+  ]
+ }
+}

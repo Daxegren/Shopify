@@ -1,0 +1,34 @@
+{
+ "id": "gid://shopify/Product/10462774690058",
+ "title": "Trampoline TUNTURI Funhop Trampoline 125cm",
+ "handle": "trampoline-tunturi-funhop-trampoline-125cm-14tusga006",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Gymstick",
+  "Konditionsträning & Fitness",
+  "price-change-job-active",
+  "sale",
+  "Trampoliner",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52805303959818",
+    "sku": "14TUSGA006",
+    "price": "1889.10",
+    "compareAtPrice": "2099.00",
+    "title": "14TUSGA006"
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52805303992586",
+    "sku": "14TUSGA005",
+    "price": "710.10",
+    "compareAtPrice": "789.00",
+    "title": "14TUSGA005"
+   }
+  ]
+ }
+}

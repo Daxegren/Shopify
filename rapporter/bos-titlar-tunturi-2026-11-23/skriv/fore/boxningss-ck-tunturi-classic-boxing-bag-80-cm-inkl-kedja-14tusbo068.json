@@ -1,0 +1,36 @@
+{
+ "id": "gid://shopify/Product/10472259354890",
+ "title": "Boxningssäck Tunturi Classic Boxing Bag 80 cm, inkl. kedja",
+ "handle": "boxningss-ck-tunturi-classic-boxing-bag-80-cm-inkl-kedja-14tusbo068",
+ "status": "ACTIVE",
+ "tags": [
+  "Boxning",
+  "boxningssäck",
+  "Boxningsutrustning",
+  "Cykelväska",
+  "Fell",
+  "Kedja",
+  "price-change-job-active",
+  "sale",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848415146250",
+    "sku": "14TUSBO068",
+    "price": "1637.10",
+    "compareAtPrice": "1819.00",
+    "title": "14TUSBO068"
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848415179018",
+    "sku": "14TUSBO069",
+    "price": "1763.10",
+    "compareAtPrice": "1959.00",
+    "title": "14TUSBO069"
+   }
+  ]
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "id": "gid://shopify/Product/10472311357706",
+ "title": "Viktskivor TUNTURI Platinum Fractional Plates, Blå, 50mm, 2 x 2 kg",
+ "handle": "viktskivor-tunturi-platinum-fractional-plates-gr-n-50mm-2-x-1-kg-25tupla047",
+ "status": "ACTIVE",
+ "tags": [
+  "30mm",
+  "Fell",
+  "Konditionsträning & Fitness",
+  "På beställning",
+  "Tunturi",
+  "Velomarket",
+  "Viktskiva",
+  "viktskivor"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848570958090",
+    "sku": "25TUPLA049",
+    "price": "679.00",
+    "compareAtPrice": null,
+    "title": "blue"
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848570990858",
+    "sku": "25TUPLA046",
+    "price": "399.00",
+    "compareAtPrice": null,
+    "title": "black"
+   }
+  ]
+ }
+}

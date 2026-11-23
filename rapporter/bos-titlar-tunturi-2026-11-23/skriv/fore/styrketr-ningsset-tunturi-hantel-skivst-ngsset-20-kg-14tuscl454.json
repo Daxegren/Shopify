@@ -1,0 +1,35 @@
+{
+ "id": "gid://shopify/Product/10472289861898",
+ "title": "Styrketräningsset TUNTURI Hantel- & Skivstångsset 20 kg",
+ "handle": "styrketr-ningsset-tunturi-hantel-skivst-ngsset-20-kg-14tuscl454",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Hantlar",
+  "Konditionsträning & Fitness",
+  "På beställning",
+  "Skivstång",
+  "skivstångspaket",
+  "Skivstångspaket - 30mm",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848492675338",
+    "sku": "14TUSCL454",
+    "price": "639.00",
+    "compareAtPrice": null,
+    "title": "14TUSCL454"
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848492708106",
+    "sku": "14TUSCL455",
+    "price": "799.00",
+    "compareAtPrice": null,
+    "title": "14TUSCL455"
+   }
+  ]
+ }
+}

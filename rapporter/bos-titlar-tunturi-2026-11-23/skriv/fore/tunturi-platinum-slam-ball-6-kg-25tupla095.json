@@ -1,0 +1,36 @@
+{
+ "id": "gid://shopify/Product/10588451602698",
+ "title": "TUNTURI Platinum Slam Ball, 6 kg",
+ "handle": "tunturi-platinum-slam-ball-6-kg-25tupla095",
+ "status": "ACTIVE",
+ "tags": [
+  "Konditionsträning & Fitness",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53499298382090",
+    "sku": "25TUPLA095",
+    "price": "369.00",
+    "compareAtPrice": null,
+    "title": "Default Title"
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499298414858",
+    "sku": "25TUPLA097",
+    "price": "319.00",
+    "compareAtPrice": null,
+    "title": "25TUPLA097"
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499298447626",
+    "sku": "25TUPLA096",
+    "price": "319.00",
+    "compareAtPrice": null,
+    "title": "25TUPLA096"
+   }
+  ]
+ }
+}
