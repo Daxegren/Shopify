@@ -1,0 +1,171 @@
+{
+ "fore": {
+  "id": "gid://shopify/Collection/569540903178",
+  "handle": "pulkor",
+  "title": "Pulkor",
+  "updatedAt": "2026-11-23T13:01:59Z",
+  "descriptionHtml": "<p>BEST OF SPORTS säljer kälkar, babykälkar och styrkälkar från bland annat Stiga och Uniplast. Här finns minst 10 produkter.</p><p>Stiga har flest produkter. Kategorin omfattar kälkar, babykälkar, styrkälkar och en rattkälke, med flera färger i produktnamnen. Öppna en produkt för att se pris, lagerstatus och produktuppgifter.</p><p>Exempel på produkter: Babykälke Stiga Cruiser, Grön; Kälke Stiga Pacer med Bromsar; Styrkälke Stiga Snowpower, Rosa.</p>",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "pulkor",
+  "seo": {
+   "title": "Kälke och babykälke – Stiga",
+   "description": "Köp kälke, babykälke eller styrkälke från bland annat Stiga och Uniplast. Här finns minst 10 produkter hos BEST OF SPORTS."
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": false,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "pulka"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 12
+  }
+ },
+ "produkter_fore": {
+  "gid://shopify/Product/10472324333834": [
+   "ACTIVE",
+   [
+    "Pulka",
+    "Stiga",
+    "Velomarket",
+    "Vinterutrustning"
+   ],
+   "469.0"
+  ],
+  "gid://shopify/Product/10472308572426": [
+   "ACTIVE",
+   [
+    "Pulka",
+    "Velomarket",
+    "Vinterutrustning",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2114.1"
+  ],
+  "gid://shopify/Product/10472281899274": [
+   "ACTIVE",
+   [
+    "Pulka",
+    "Pulkor",
+    "Stiga",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1538.1"
+  ],
+  "gid://shopify/Product/10472281800970": [
+   "ACTIVE",
+   [
+    "Pulka",
+    "Pulkor",
+    "Stiga",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "469.0"
+  ],
+  "gid://shopify/Product/10472241987850": [
+   "ACTIVE",
+   [
+    "Pulka",
+    "Stiga",
+    "Velomarket",
+    "Vinterutrustning",
+    "texter-klara"
+   ],
+   "329.0"
+  ],
+  "gid://shopify/Product/10472233664778": [
+   "ACTIVE",
+   [
+    "Kälkar",
+    "Pulka",
+    "Stiga",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "469.0"
+  ],
+  "gid://shopify/Product/10471417118986": [
+   "ARCHIVED",
+   [
+    "BH Fitness",
+    "Löpband",
+    "Professionell utrustning",
+    "Pulka",
+    "På beställning",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "147986.1"
+  ],
+  "gid://shopify/Product/10470985138442": [
+   "ACTIVE",
+   [
+    "Kälkar",
+    "Pulka",
+    "Stiga",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "469.0"
+  ],
+  "gid://shopify/Product/10470970392842": [
+   "ACTIVE",
+   [
+    "Kälkar",
+    "Pulka",
+    "Pulkor",
+    "Uniplast",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "239.0"
+  ],
+  "gid://shopify/Product/10462224417034": [
+   "ACTIVE",
+   [
+    "Pulka",
+    "Stiga",
+    "Velomarket",
+    "Vinterutrustning",
+    "texter-klara"
+   ],
+   "529.0"
+  ],
+  "gid://shopify/Product/10411860394250": [
+   "ACTIVE",
+   [
+    "Pulka",
+    "Stiga",
+    "Velomarket",
+    "Vinterutrustning",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1547.1"
+  ],
+  "gid://shopify/Product/10411476615434": [
+   "ACTIVE",
+   [
+    "Kälkar",
+    "Pulka",
+    "Stiga",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "359.0"
+  ]
+ }
+}

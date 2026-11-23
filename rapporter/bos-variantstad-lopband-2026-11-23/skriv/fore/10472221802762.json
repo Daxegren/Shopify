@@ -1,0 +1,56 @@
+{
+ "id": "gid://shopify/Product/10472221802762",
+ "title": "Treadmill TUNTURI Cardio Fit T30",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Gymstick",
+  "Kardioträning & Fitness",
+  "Konditionsträning & Fitness",
+  "Löpband",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Title"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848191406346",
+    "title": "Default Title",
+    "sku": "24TCFT3000",
+    "price": "8135.10",
+    "compareAtPrice": "9039.00",
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Title",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451948261642",
+    "title": "must",
+    "sku": "24TCFT3000",
+    "price": "0.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Title",
+      "value": "must"
+     }
+    ]
+   }
+  ]
+ }
+}
