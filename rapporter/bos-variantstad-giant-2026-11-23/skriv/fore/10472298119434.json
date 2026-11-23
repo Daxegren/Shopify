@@ -1,0 +1,53 @@
+{
+ "id": "gid://shopify/Product/10472298119434",
+ "title": "Mountainbike Giant Talon 3, 2022, Amber Glow",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "Mountainbike",
+  "price-change-job-active",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Title"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848513745162",
+    "title": "Default Title",
+    "sku": "2201111215",
+    "price": "9305.10",
+    "compareAtPrice": "10339.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Title",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451940659466",
+    "title": "M / oranž",
+    "sku": "2201111285",
+    "price": "9305.10",
+    "compareAtPrice": "10339.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Title",
+      "value": "M / oranž"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -97,23 +97,6 @@
   ]
  },
  {
-  "produkt_id": "gid://shopify/Product/10472298119434",
-  "varianter": [
-   {
-    "fran_sku": "2201111215",
-    "fran_namn": "Default Title",
-    "ny_sku": null,
-    "nytt_namn": "M / Orange"
-   },
-   {
-    "fran_sku": "2201111285",
-    "fran_namn": "M / oranž",
-    "ny_sku": null,
-    "nytt_namn": "M / Orange"
-   }
-  ]
- },
- {
   "produkt_id": "gid://shopify/Product/10708319895818",
   "varianter": [
    {
@@ -921,13 +904,13 @@
     "fran_sku": "430000062",
     "fran_namn": "Default Title",
     "ny_sku": null,
-    "nytt_namn": "0.5 l"
+    "nytt_namn": "0,5 l"
    },
    {
     "fran_sku": "430000064",
     "fran_namn": "black (0064)",
     "ny_sku": null,
-    "nytt_namn": "1.4 l"
+    "nytt_namn": "1,4 l"
    }
   ]
  }

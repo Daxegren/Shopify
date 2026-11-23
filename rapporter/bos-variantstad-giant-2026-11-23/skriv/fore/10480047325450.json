@@ -1,0 +1,69 @@
+{
+ "id": "gid://shopify/Product/10480047325450",
+ "title": "Landsvägscykel Giant TCR Advanced 0 PC",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "price-change-job-active",
+  "På beställning",
+  "Racercykel",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52890548764938",
+    "title": "Default Title",
+    "sku": "1096021146",
+    "price": "52613.10",
+    "compareAtPrice": "58459.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52890548797706",
+    "title": "M/L / gray",
+    "sku": "1096021146",
+    "price": "44711.10",
+    "compareAtPrice": "49679.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M/L / gray"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52890548830474",
+    "title": "L / gray",
+    "sku": "1096021147",
+    "price": "44711.10",
+    "compareAtPrice": "49679.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / gray"
+     }
+    ]
+   }
+  ]
+ }
+}

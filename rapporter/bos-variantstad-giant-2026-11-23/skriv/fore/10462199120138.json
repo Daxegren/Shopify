@@ -1,0 +1,53 @@
+{
+ "id": "gid://shopify/Product/10462199120138",
+ "title": "Mountainbike Giant Talon 29 3 GE, 29 tum, Sapphire",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "Mountainbike",
+  "price-change-job-active",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52799993643274",
+    "title": "Default Title",
+    "sku": "2201126288",
+    "price": "11951.10",
+    "compareAtPrice": "13279.00",
+    "inventoryQuantity": 4,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52799993676042",
+    "title": "L / blue",
+    "sku": "2201126287",
+    "price": "11951.10",
+    "compareAtPrice": "13279.00",
+    "inventoryQuantity": 10,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / blue"
+     }
+    ]
+   }
+  ]
+ }
+}

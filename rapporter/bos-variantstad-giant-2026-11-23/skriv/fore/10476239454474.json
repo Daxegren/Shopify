@@ -1,0 +1,86 @@
+{
+ "id": "gid://shopify/Product/10476239454474",
+ "title": "Elcykel Giant Talon E+, 29 tum, Electron Blue",
+ "status": "ACTIVE",
+ "tags": [
+  "Bicycles",
+  "Cyklar",
+  "Elcykel",
+  "Giant",
+  "Mountainbike",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52869552865546",
+    "title": "Default Title",
+    "sku": "5090000207",
+    "price": "42668.10",
+    "compareAtPrice": "47409.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451943969034",
+    "title": "S / sinine",
+    "sku": "5090000204",
+    "price": "37448.10",
+    "compareAtPrice": "41609.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "S / sinine"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451944165642",
+    "title": "L / sinine",
+    "sku": "5090000207",
+    "price": "37448.10",
+    "compareAtPrice": "41609.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / sinine"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451944231178",
+    "title": "XL / sinine",
+    "sku": "5090000208",
+    "price": "37448.10",
+    "compareAtPrice": "41609.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / sinine"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "id": "gid://shopify/Product/10472291369226",
+ "title": "Mountainbike Giant XTC SLR 29 2, 29 tum, Dark Jade",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "Mountainbike",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848497918218",
+    "title": "Default Title",
+    "sku": "1119018217",
+    "price": "19187.10",
+    "compareAtPrice": "21319.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53442841673994",
+    "title": "M / sinine",
+    "sku": "1119018215",
+    "price": "16838.10",
+    "compareAtPrice": "18709.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / sinine"
+     }
+    ]
+   }
+  ]
+ }
+}

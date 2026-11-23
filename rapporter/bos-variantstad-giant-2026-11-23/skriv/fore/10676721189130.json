@@ -1,0 +1,84 @@
+{
+ "id": "gid://shopify/Product/10676721189130",
+ "title": "Landsvägscykel Giant Propel Advanced Pro 0 AXS (2027)",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "price-change-job-active",
+  "På beställning",
+  "Racercykel",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53955508044042",
+    "title": "Default Title",
+    "sku": "1074033108",
+    "price": "93626.10",
+    "compareAtPrice": "104029.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53955508076810",
+    "title": "M/L / black",
+    "sku": "1074033106",
+    "price": "93626.10",
+    "compareAtPrice": "104029.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M/L / black"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53955508109578",
+    "title": "L / black",
+    "sku": "1074033107",
+    "price": "93437.10",
+    "compareAtPrice": "103819.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / black"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53955508142346",
+    "title": "XL / black",
+    "sku": "1074033108",
+    "price": "93437.10",
+    "compareAtPrice": "103819.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / black"
+     }
+    ]
+   }
+  ]
+ }
+}

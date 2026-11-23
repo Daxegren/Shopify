@@ -1,0 +1,85 @@
+{
+ "id": "gid://shopify/Product/10468777525514",
+ "title": "Elcykel Giant Trance X Advanced E+ Elite 2, Sea Sparkle",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Elcykel",
+  "Giant",
+  "Mountainbike",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52832383467786",
+    "title": "Default Title",
+    "sku": "5028032108",
+    "price": "72179.10",
+    "compareAtPrice": "80199.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832383500554",
+    "title": "M / blue",
+    "sku": "5028032105",
+    "price": "72179.10",
+    "compareAtPrice": "80199.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / blue"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832383533322",
+    "title": "L / blue",
+    "sku": "5028032107",
+    "price": "72179.10",
+    "compareAtPrice": "80199.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / blue"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832383566090",
+    "title": "XL / blue",
+    "sku": "5028032108",
+    "price": "72179.10",
+    "compareAtPrice": "80199.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / blue"
+     }
+    ]
+   }
+  ]
+ }
+}

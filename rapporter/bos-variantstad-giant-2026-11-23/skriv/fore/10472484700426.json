@@ -1,0 +1,54 @@
+{
+ "id": "gid://shopify/Product/10472484700426",
+ "title": "Landsvägscykel Giant Defy Advanced 2, 700x32c, Bay Leaf",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "price-change-job-active",
+  "På beställning",
+  "Racercykel",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52850848301322",
+    "title": "Default Title",
+    "sku": "1031003248",
+    "price": "38690.10",
+    "compareAtPrice": "42989.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52850848334090",
+    "title": "XL / green",
+    "sku": "1031003248",
+    "price": "33965.10",
+    "compareAtPrice": "37739.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / green"
+     }
+    ]
+   }
+  ]
+ }
+}

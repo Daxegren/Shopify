@@ -1,0 +1,68 @@
+{
+ "id": "gid://shopify/Product/10476218679562",
+ "title": "Maanteeratas GIANT TCR Advanced 0 PC, Frost Silver",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "price-change-job-active",
+  "På beställning",
+  "Racercykel",
+  "sale",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Title"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52869519048970",
+    "title": "Default Title",
+    "sku": "1096021148",
+    "price": "51335.10",
+    "compareAtPrice": "57039.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Title",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451947409674",
+    "title": "M / hall",
+    "sku": "1096021145",
+    "price": "45053.10",
+    "compareAtPrice": "50059.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Title",
+      "value": "M / hall"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451947442442",
+    "title": "XL / hall",
+    "sku": "1096021148",
+    "price": "45053.10",
+    "compareAtPrice": "50059.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Title",
+      "value": "XL / hall"
+     }
+    ]
+   }
+  ]
+ }
+}

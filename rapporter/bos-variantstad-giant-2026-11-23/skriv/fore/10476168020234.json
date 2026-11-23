@@ -1,0 +1,54 @@
+{
+ "id": "gid://shopify/Product/10476168020234",
+ "title": "Gravelcykel Giant Revolt 1, 700x38c, Alpine Green",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "Gravelcykel",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Title"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52869427429642",
+    "title": "Default Title",
+    "sku": "1080014184",
+    "price": "26072.10",
+    "compareAtPrice": "28969.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Title",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451946656010",
+    "title": "M / roheline",
+    "sku": "1080014185",
+    "price": "22886.10",
+    "compareAtPrice": "25429.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Title",
+      "value": "M / roheline"
+     }
+    ]
+   }
+  ]
+ }
+}

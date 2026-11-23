@@ -1,0 +1,69 @@
+{
+ "id": "gid://shopify/Product/10502528336138",
+ "title": "Mountainbike Giant XTC SLR 29 1, 29 tum, Svart",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "Mountainbike",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53023206244618",
+    "title": "Default Title",
+    "sku": "1119019185",
+    "price": "25415.10",
+    "compareAtPrice": "28239.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53023206277386",
+    "title": "M / black",
+    "sku": "1119019185",
+    "price": "22310.10",
+    "compareAtPrice": "24789.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / black"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53023206310154",
+    "title": "L / black",
+    "sku": "1119019187",
+    "price": "22310.10",
+    "compareAtPrice": "24789.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / black"
+     }
+    ]
+   }
+  ]
+ }
+}

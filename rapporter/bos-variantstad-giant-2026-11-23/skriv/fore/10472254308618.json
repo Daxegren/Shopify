@@ -1,0 +1,54 @@
+{
+ "id": "gid://shopify/Product/10472254308618",
+ "title": "Elcykel Giant Explore E+ 1 GTS, Misty Forest",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Elcykel",
+  "Giant",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848406593802",
+    "title": "Default Title",
+    "sku": "2303704105",
+    "price": "49985.10",
+    "compareAtPrice": "55539.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848406626570",
+    "title": "L / green",
+    "sku": "2303704107",
+    "price": "57500.10",
+    "compareAtPrice": "63889.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / green"
+     }
+    ]
+   }
+  ]
+ }
+}

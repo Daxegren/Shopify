@@ -1,0 +1,54 @@
+{
+ "id": "gid://shopify/Product/10593839513866",
+ "title": "Elcykel Giant Explore E+ 2 STA, Alpine Green",
+ "status": "ACTIVE",
+ "tags": [
+  "Damcyklar",
+  "Elcykel",
+  "Giant",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53523581731082",
+    "title": "Default Title",
+    "sku": "5060018104",
+    "price": "61280.10",
+    "compareAtPrice": "68089.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53523581763850",
+    "title": "M / green",
+    "sku": "5060018105",
+    "price": "53441.10",
+    "compareAtPrice": "59379.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / green"
+     }
+    ]
+   }
+  ]
+ }
+}

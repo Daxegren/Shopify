@@ -1,0 +1,54 @@
+{
+ "id": "gid://shopify/Product/10468767170826",
+ "title": "Hybridcykel Giant Roam 1, 11 Växlar, Kolgrå",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "Hybridcykel",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52832346013962",
+    "title": "Default Title",
+    "sku": "1082008384",
+    "price": "18953.10",
+    "compareAtPrice": "21059.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832346046730",
+    "title": "M / dark gray",
+    "sku": "1082008385",
+    "price": "16631.10",
+    "compareAtPrice": "18479.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / dark gray"
+     }
+    ]
+   }
+  ]
+ }
+}

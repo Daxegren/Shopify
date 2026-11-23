@@ -1,0 +1,54 @@
+{
+ "id": "gid://shopify/Product/10472276492554",
+ "title": "Landsvägscykel Giant TCR Advanced SL 0 DA",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "price-change-job-active",
+  "På beställning",
+  "Racercykel",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848447258890",
+    "title": "Default Title",
+    "sku": "1096031107",
+    "price": "141335.10",
+    "compareAtPrice": "157039.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848447291658",
+    "title": "L / black",
+    "sku": "1096031107",
+    "price": "124046.10",
+    "compareAtPrice": "137829.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / black"
+     }
+    ]
+   }
+  ]
+ }
+}

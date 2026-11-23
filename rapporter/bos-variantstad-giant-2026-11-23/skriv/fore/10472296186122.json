@@ -1,0 +1,69 @@
+{
+ "id": "gid://shopify/Product/10472296186122",
+ "title": "Gravelcykel Giant Revolt 1, 2025, Ljus Olivgrön",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "Gravelcykel",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Title"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848511648010",
+    "title": "Default Title",
+    "sku": "1079011217",
+    "price": "23912.10",
+    "compareAtPrice": "26569.00",
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Title",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451935678730",
+    "title": "M/L / roheline",
+    "sku": "1079011216",
+    "price": "20987.10",
+    "compareAtPrice": "23319.00",
+    "inventoryQuantity": 4,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Title",
+      "value": "M/L / roheline"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451935744266",
+    "title": "L / roheline",
+    "sku": "1079011217",
+    "price": "20987.10",
+    "compareAtPrice": "23319.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Title",
+      "value": "L / roheline"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "id": "gid://shopify/Product/10476166217994",
+ "title": "Landsvägscykel Giant Defy Advanced 2, 700x32c, Abyss Black",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "price-change-job-active",
+  "På beställning",
+  "Racercykel",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52869422219530",
+    "title": "Default Title",
+    "sku": "1031023147",
+    "price": "39086.10",
+    "compareAtPrice": "43429.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52869422252298",
+    "title": "M/L / black",
+    "sku": "1031023146",
+    "price": "34298.10",
+    "compareAtPrice": "38109.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M/L / black"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52869422285066",
+    "title": "L / black",
+    "sku": "1031023147",
+    "price": "34298.10",
+    "compareAtPrice": "38109.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / black"
+     }
+    ]
+   }
+  ]
+ }
+}

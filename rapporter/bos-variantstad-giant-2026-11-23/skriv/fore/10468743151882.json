@@ -1,0 +1,84 @@
+{
+ "id": "gid://shopify/Product/10468743151882",
+ "title": "Landsvägscykel Giant Contend AR 2, 700x32c, Dark Iridescent",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "price-change-job-active",
+  "På beställning",
+  "Racercykel",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52832233619722",
+    "title": "Default Title",
+    "sku": "1024020116",
+    "price": "22283.10",
+    "compareAtPrice": "24759.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832233652490",
+    "title": "M/L / purple",
+    "sku": "1024020116",
+    "price": "19556.10",
+    "compareAtPrice": "21729.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M/L / purple"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832233685258",
+    "title": "L / purple",
+    "sku": "1024020117",
+    "price": "19556.10",
+    "compareAtPrice": "21729.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / purple"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832233718026",
+    "title": "XL / purple",
+    "sku": "1024020118",
+    "price": "19556.10",
+    "compareAtPrice": "21729.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / purple"
+     }
+    ]
+   }
+  ]
+ }
+}

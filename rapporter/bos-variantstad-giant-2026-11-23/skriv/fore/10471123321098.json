@@ -1,0 +1,69 @@
+{
+ "id": "gid://shopify/Product/10471123321098",
+ "title": "Mountainbike Giant Reign Advanced 2, 29 tum, Sangria/Carbon",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "Mountainbike",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52845058490634",
+    "title": "Default Title",
+    "sku": "1077002108",
+    "price": "71045.10",
+    "compareAtPrice": "78939.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845058523402",
+    "title": "L / Red",
+    "sku": "1077002107",
+    "price": "62360.10",
+    "compareAtPrice": "69289.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / Red"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845058556170",
+    "title": "XL / Red",
+    "sku": "1077002108",
+    "price": "62360.10",
+    "compareAtPrice": "69289.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / Red"
+     }
+    ]
+   }
+  ]
+ }
+}

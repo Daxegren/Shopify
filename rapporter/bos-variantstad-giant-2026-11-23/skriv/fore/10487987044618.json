@@ -1,0 +1,54 @@
+{
+ "id": "gid://shopify/Product/10487987044618",
+ "title": "Mountainbike Giant XTC Advanced 29 2, 29 tum, Purple Haze",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "Mountainbike",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52934859784458",
+    "title": "Default Title",
+    "sku": "1119022144",
+    "price": "41039.10",
+    "compareAtPrice": "45599.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52934859817226",
+    "title": "L / purple",
+    "sku": "1119022147",
+    "price": "36026.10",
+    "compareAtPrice": "40029.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / purple"
+     }
+    ]
+   }
+  ]
+ }
+}

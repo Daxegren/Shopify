@@ -1,0 +1,84 @@
+{
+ "id": "gid://shopify/Product/10624087490826",
+ "title": "Landsvägscykel Giant Defy Advanced 0 (2027), Supernova Grey",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "price-change-job-active",
+  "På beställning",
+  "Racercykel",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53701390008586",
+    "title": "Default Title",
+    "sku": "1031028147",
+    "price": "54665.10",
+    "compareAtPrice": "60739.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53701390041354",
+    "title": "M/L / gray",
+    "sku": "1031028146",
+    "price": "54665.10",
+    "compareAtPrice": "60739.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M/L / gray"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53701390074122",
+    "title": "L / gray",
+    "sku": "1031028147",
+    "price": "54665.10",
+    "compareAtPrice": "60739.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / gray"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53701390106890",
+    "title": "XL / gray",
+    "sku": "1031028148",
+    "price": "54665.10",
+    "compareAtPrice": "60739.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / gray"
+     }
+    ]
+   }
+  ]
+ }
+}

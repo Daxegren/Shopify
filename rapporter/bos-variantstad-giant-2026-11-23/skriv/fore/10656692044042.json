@@ -1,0 +1,69 @@
+{
+ "id": "gid://shopify/Product/10656692044042",
+ "title": "Hybridcykel Giant Roam 3, 18 Växlar, Shell White",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "Hybridcykel",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53857305035018",
+    "title": "Default Title",
+    "sku": "1082011288",
+    "price": "12473.10",
+    "compareAtPrice": "13859.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53857305067786",
+    "title": "L / white",
+    "sku": "1082011287",
+    "price": "12473.10",
+    "compareAtPrice": "13859.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / white"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53857305100554",
+    "title": "XL / white",
+    "sku": "1082011288",
+    "price": "12599.10",
+    "compareAtPrice": "13999.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / white"
+     }
+    ]
+   }
+  ]
+ }
+}

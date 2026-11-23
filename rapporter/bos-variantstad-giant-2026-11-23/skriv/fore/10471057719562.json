@@ -1,0 +1,53 @@
+{
+ "id": "gid://shopify/Product/10471057719562",
+ "title": "Landsvägscykel Giant TCR Advanced 2 PC storlek M/L, Carbon",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "price-change-job-active",
+  "Racercykel",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52844745851146",
+    "title": "Default Title",
+    "sku": "1096036146",
+    "price": "35207.10",
+    "compareAtPrice": "39119.00",
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52844745883914",
+    "title": "M/L / black",
+    "sku": "1096036146",
+    "price": "36080.10",
+    "compareAtPrice": "40089.00",
+    "inventoryQuantity": 5,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M/L / black"
+     }
+    ]
+   }
+  ]
+ }
+}

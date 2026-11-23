@@ -1,0 +1,69 @@
+{
+ "id": "gid://shopify/Product/10530207531274",
+ "title": "Gravelcykel Giant Revolt 0, Stealth Chrome",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "Gravelcykel",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Title"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53172008681738",
+    "title": "Default Title",
+    "sku": "1080018186",
+    "price": "24839.10",
+    "compareAtPrice": "27599.00",
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Title",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451946328330",
+    "title": "M/L / hall",
+    "sku": "1080018186",
+    "price": "25289.10",
+    "compareAtPrice": "28099.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Title",
+      "value": "M/L / hall"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451946361098",
+    "title": "XL / hall",
+    "sku": "1080018188",
+    "price": "25289.10",
+    "compareAtPrice": "28099.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Title",
+      "value": "XL / hall"
+     }
+    ]
+   }
+  ]
+ }
+}

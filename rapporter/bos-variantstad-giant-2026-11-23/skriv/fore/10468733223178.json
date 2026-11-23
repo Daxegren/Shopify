@@ -1,0 +1,54 @@
+{
+ "id": "gid://shopify/Product/10468733223178",
+ "title": "Landsvägscykel Giant TCR Advanced Pro 0 Di2",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "price-change-job-active",
+  "På beställning",
+  "Racercykel",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52832183550218",
+    "title": "Default Title",
+    "sku": "1096025247",
+    "price": "79550.10",
+    "compareAtPrice": "88389.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832183582986",
+    "title": "L / gray",
+    "sku": "1096025247",
+    "price": "69821.10",
+    "compareAtPrice": "77579.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / gray"
+     }
+    ]
+   }
+  ]
+ }
+}

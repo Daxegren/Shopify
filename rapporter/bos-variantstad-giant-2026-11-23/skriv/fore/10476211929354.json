@@ -1,0 +1,53 @@
+{
+ "id": "gid://shopify/Product/10476211929354",
+ "title": "Gravelcykel GIANT Revolt 1, Alpine Green",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "Gravelcykel",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52869507940618",
+    "title": "Default Title",
+    "sku": "1080014188",
+    "price": "26072.10",
+    "compareAtPrice": "28969.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52869507973386",
+    "title": "L / green",
+    "sku": "1080014187",
+    "price": "26072.10",
+    "compareAtPrice": "28969.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / green"
+     }
+    ]
+   }
+  ]
+ }
+}

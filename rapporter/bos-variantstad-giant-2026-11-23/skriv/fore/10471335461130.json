@@ -1,0 +1,85 @@
+{
+ "id": "gid://shopify/Product/10471335461130",
+ "title": "Cykel Giant FastRoad AR Advanced 1, 700x40c, Asfaltsgrön",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "Gravelcykel",
+  "price-change-job-active",
+  "På beställning",
+  "Racercykel",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52845522878730",
+    "title": "Default Title",
+    "sku": "1041009114",
+    "price": "32354.10",
+    "compareAtPrice": "35949.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845522911498",
+    "title": "M / green",
+    "sku": "1041009115",
+    "price": "28403.10",
+    "compareAtPrice": "31559.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / green"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845522944266",
+    "title": "L / green",
+    "sku": "1041009117",
+    "price": "28403.10",
+    "compareAtPrice": "31559.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / green"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845522977034",
+    "title": "XL / green",
+    "sku": "1041009118",
+    "price": "28403.10",
+    "compareAtPrice": "31559.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / green"
+     }
+    ]
+   }
+  ]
+ }
+}

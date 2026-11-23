@@ -1,0 +1,83 @@
+{
+ "id": "gid://shopify/Product/10624087523594",
+ "title": "Landsvägscykel GIANT Defy Advanced 1 (2027) Obsidian Pulse",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "price-change-job-active",
+  "På beställning",
+  "Racercykel",
+  "sale",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53701390139658",
+    "title": "Default Title",
+    "sku": "1031029145",
+    "price": "46484.10",
+    "compareAtPrice": "51649.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53701390172426",
+    "title": "L / brown",
+    "sku": "1031029147",
+    "price": "47645.10",
+    "compareAtPrice": "52939.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / brown"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53701390205194",
+    "title": "M/L / brown",
+    "sku": "1031029146",
+    "price": "40805.10",
+    "compareAtPrice": "45339.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M/L / brown"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53701390237962",
+    "title": "XL / brown",
+    "sku": "1031029148",
+    "price": "46484.10",
+    "compareAtPrice": "51649.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / brown"
+     }
+    ]
+   }
+  ]
+ }
+}

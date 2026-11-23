@@ -1,0 +1,53 @@
+{
+ "id": "gid://shopify/Product/10468772708618",
+ "title": "Gravel bike GIANT Revolt X Advanced Pro 2, Black/Sea Sparkle",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "Gravelcykel",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52832365609226",
+    "title": "Default Title",
+    "sku": "1080004147",
+    "price": "58049.10",
+    "compareAtPrice": "64499.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832365641994",
+    "title": "L / black",
+    "sku": "1080004147",
+    "price": "50948.10",
+    "compareAtPrice": "56609.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / black"
+     }
+    ]
+   }
+  ]
+ }
+}

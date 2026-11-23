@@ -1,0 +1,68 @@
+{
+ "id": "gid://shopify/Product/10468712087818",
+ "title": "Mountainbike GIANT Stance 29 2, Misty Forest",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "Mountainbike",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52832104481034",
+    "title": "Default Title",
+    "sku": "1089003245",
+    "price": "29960.10",
+    "compareAtPrice": "33289.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832104513802",
+    "title": "XL / green",
+    "sku": "1089003248",
+    "price": "29960.10",
+    "compareAtPrice": "33289.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / green"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832104546570",
+    "title": "M / green",
+    "sku": "1089003245",
+    "price": "26297.10",
+    "compareAtPrice": "29219.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / green"
+     }
+    ]
+   }
+  ]
+ }
+}

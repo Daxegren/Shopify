@@ -1,0 +1,54 @@
+{
+ "id": "gid://shopify/Product/10523488387338",
+ "title": "Stadscykel Giant AnyTour CS 2 GB med remdrift, XL",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "Hybridcykel",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53136727769354",
+    "title": "Default Title",
+    "sku": "3009011118",
+    "price": "19970.10",
+    "compareAtPrice": "22189.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53136727802122",
+    "title": "XL / gray",
+    "sku": "3009011118",
+    "price": "17531.10",
+    "compareAtPrice": "19479.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / gray"
+     }
+    ]
+   }
+  ]
+ }
+}

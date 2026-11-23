@@ -1,0 +1,69 @@
+{
+ "id": "gid://shopify/Product/10468774674698",
+ "title": "Mountainbike Giant Trance X 2, 29 tum, Metallsvart",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "Mountainbike",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52832372195594",
+    "title": "Default Title",
+    "sku": "1110002148",
+    "price": "49220.10",
+    "compareAtPrice": "54689.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832372228362",
+    "title": "L / black",
+    "sku": "1110002147",
+    "price": "43199.10",
+    "compareAtPrice": "47999.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / black"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832372261130",
+    "title": "XL / black",
+    "sku": "1110002148",
+    "price": "43199.10",
+    "compareAtPrice": "47999.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / black"
+     }
+    ]
+   }
+  ]
+ }
+}

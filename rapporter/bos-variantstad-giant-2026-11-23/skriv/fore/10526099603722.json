@@ -1,0 +1,50 @@
+{
+ "id": "gid://shopify/Product/10526099603722",
+ "title": "Cykelhandskar Giant Cima SF, Ash Blue",
+ "status": "ACTIVE",
+ "tags": [
+  "Cykelkläder",
+  "Giant",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53151800328458",
+    "title": "Default Title",
+    "sku": "830001404",
+    "price": "249.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53151800361226",
+    "title": "L",
+    "sku": "830001404",
+    "price": "219.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L"
+     }
+    ]
+   }
+  ]
+ }
+}

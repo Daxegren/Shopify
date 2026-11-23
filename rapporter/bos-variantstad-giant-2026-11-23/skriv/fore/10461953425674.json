@@ -1,0 +1,53 @@
+{
+ "id": "gid://shopify/Product/10461953425674",
+ "title": "Sadelväska Giant Shadow DX",
+ "status": "ACTIVE",
+ "tags": [
+  "Cykelväska",
+  "Cykelväskor",
+  "Giant",
+  "På beställning",
+  "Sadel",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52798532419850",
+    "title": "Default Title",
+    "sku": "430000062",
+    "price": "269.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 8,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52798532452618",
+    "title": "black (0064)",
+    "sku": "430000064",
+    "price": "299.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "black (0064)"
+     }
+    ]
+   }
+  ]
+ }
+}

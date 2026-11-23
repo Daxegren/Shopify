@@ -1,0 +1,53 @@
+{
+ "id": "gid://shopify/Product/10476123783434",
+ "title": "Gravelcykel GIANT Revolt Advanced 1, Ocean Twilight",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "Gravelcykel",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52869313134858",
+    "title": "Default Title",
+    "sku": "1079014147",
+    "price": "41282.10",
+    "compareAtPrice": "45869.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52869313167626",
+    "title": "L / blue",
+    "sku": "1079014147",
+    "price": "36233.10",
+    "compareAtPrice": "40259.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / blue"
+     }
+    ]
+   }
+  ]
+ }
+}

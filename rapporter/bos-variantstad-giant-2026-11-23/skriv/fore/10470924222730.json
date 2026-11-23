@@ -1,0 +1,68 @@
+{
+ "id": "gid://shopify/Product/10470924222730",
+ "title": "Mountainbike Giant Talon 1 GE, 29 tum",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "Mountainbike",
+  "price-change-job-active",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52844391858442",
+    "title": "Default Title",
+    "sku": "2201130288",
+    "price": "14867.10",
+    "compareAtPrice": "16519.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52844391891210",
+    "title": "L / brown",
+    "sku": "2201130287",
+    "price": "14867.10",
+    "compareAtPrice": "16519.00",
+    "inventoryQuantity": 5,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / brown"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52844391923978",
+    "title": "XL / brown",
+    "sku": "2201130288",
+    "price": "13049.10",
+    "compareAtPrice": "14499.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / brown"
+     }
+    ]
+   }
+  ]
+ }
+}

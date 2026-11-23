@@ -1,0 +1,84 @@
+{
+ "id": "gid://shopify/Product/10468774576394",
+ "title": "Mountainbike Giant XTC Advanced 29 2, 29 tum, Svart och Shell White",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "Mountainbike",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52832371802378",
+    "title": "Default Title",
+    "sku": "1119005148",
+    "price": "35054.10",
+    "compareAtPrice": "38949.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832371835146",
+    "title": "M / white",
+    "sku": "1119005145",
+    "price": "30761.10",
+    "compareAtPrice": "34179.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / white"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832371867914",
+    "title": "L / white",
+    "sku": "1119005147",
+    "price": "30761.10",
+    "compareAtPrice": "34179.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / white"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832371900682",
+    "title": "XL / white",
+    "sku": "1119005148",
+    "price": "30761.10",
+    "compareAtPrice": "34179.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / white"
+     }
+    ]
+   }
+  ]
+ }
+}

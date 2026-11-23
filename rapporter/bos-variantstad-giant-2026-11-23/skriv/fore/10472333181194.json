@@ -1,0 +1,68 @@
+{
+ "id": "gid://shopify/Product/10472333181194",
+ "title": "Hybridcykel Giant Roam 4, 700c, Svart",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "Hybridcykel",
+  "price-change-job-active",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848806854922",
+    "title": "Default Title",
+    "sku": "1082012184",
+    "price": "11303.10",
+    "compareAtPrice": "12559.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848806887690",
+    "title": "XL / black",
+    "sku": "1082012188",
+    "price": "11303.10",
+    "compareAtPrice": "12559.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / black"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848806920458",
+    "title": "S / black",
+    "sku": "1082012184",
+    "price": "9917.10",
+    "compareAtPrice": "11019.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "S / black"
+     }
+    ]
+   }
+  ]
+ }
+}

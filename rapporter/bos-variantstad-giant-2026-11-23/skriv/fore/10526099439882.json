@@ -1,0 +1,65 @@
+{
+ "id": "gid://shopify/Product/10526099439882",
+ "title": "Cykelhandskar Giant Wisp SF, Mörkblå",
+ "status": "ACTIVE",
+ "tags": [
+  "Cykelkläder",
+  "Giant",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53151799935242",
+    "title": "Default Title",
+    "sku": "830001439",
+    "price": "319.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53151799968010",
+    "title": "XL",
+    "sku": "830001440",
+    "price": "319.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53151800000778",
+    "title": "XXL",
+    "sku": "830001441",
+    "price": "319.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XXL"
+     }
+    ]
+   }
+  ]
+ }
+}

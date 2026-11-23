@@ -1,0 +1,69 @@
+{
+ "id": "gid://shopify/Product/10507441799434",
+ "title": "Mountainbike Giant XTC SLR 29 2, 29 tum, Mineral Yellow",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "Mountainbike",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53049968689418",
+    "title": "Default Title",
+    "sku": "1119020287",
+    "price": "21311.10",
+    "compareAtPrice": "23679.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53049968722186",
+    "title": "M / yellow",
+    "sku": "1119020285",
+    "price": "18710.10",
+    "compareAtPrice": "20789.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / yellow"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53049968754954",
+    "title": "L / yellow",
+    "sku": "1119020287",
+    "price": "18710.10",
+    "compareAtPrice": "20789.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / yellow"
+     }
+    ]
+   }
+  ]
+ }
+}

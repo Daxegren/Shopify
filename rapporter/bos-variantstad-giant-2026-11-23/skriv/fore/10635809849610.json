@@ -1,0 +1,54 @@
+{
+ "id": "gid://shopify/Product/10635809849610",
+ "title": "Elcykel GIANT Fathom E+ 2 (2027) Null White",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Elcykel",
+  "Giant",
+  "Mountainbike",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53778901205258",
+    "title": "Default Title",
+    "sku": "5332005188",
+    "price": "48536.10",
+    "compareAtPrice": "53929.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53778901238026",
+    "title": "XL / white",
+    "sku": "5332005188",
+    "price": "42605.10",
+    "compareAtPrice": "47339.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / white"
+     }
+    ]
+   }
+  ]
+ }
+}

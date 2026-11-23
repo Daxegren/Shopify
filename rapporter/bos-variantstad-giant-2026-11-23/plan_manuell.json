@@ -1,0 +1,19 @@
+[
+ {
+  "produkt_id": "gid://shopify/Product/10472298119434",
+  "varianter": [
+   {
+    "fran_sku": "2201111215",
+    "fran_namn": "Default Title",
+    "ny_sku": null,
+    "nytt_namn": "M / Orange"
+   },
+   {
+    "fran_sku": "2201111285",
+    "fran_namn": "M / oranž",
+    "ny_sku": null,
+    "nytt_namn": "M / Orange"
+   }
+  ]
+ }
+]

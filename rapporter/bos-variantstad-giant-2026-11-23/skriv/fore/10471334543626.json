@@ -1,0 +1,53 @@
+{
+ "id": "gid://shopify/Product/10471334543626",
+ "title": "Road bike GIANT Defy Advanced Pro 0 (2026) Mariana Blue",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "price-change-job-active",
+  "På beställning",
+  "Racercykel",
+  "sale",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52845521699082",
+    "title": "Default Title",
+    "sku": "1031025144",
+    "price": "88127.10",
+    "compareAtPrice": "97919.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845521731850",
+    "title": "M/L / blue",
+    "sku": "1031025146",
+    "price": "76634.10",
+    "compareAtPrice": "85149.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M/L / blue"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "id": "gid://shopify/Product/10708319895818",
+ "title": "Cykel GIANT Talon 4 (2027) 29\" Svart",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Giant",
+  "Mountainbike",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/54085581111562",
+    "title": "Default Title",
+    "sku": "1095020187",
+    "price": "9935.10",
+    "compareAtPrice": "11039.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/54085581144330",
+    "title": "L / black",
+    "sku": "1095020187",
+    "price": "9935.10",
+    "compareAtPrice": "11039.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / black"
+     }
+    ]
+   }
+  ]
+ }
+}
