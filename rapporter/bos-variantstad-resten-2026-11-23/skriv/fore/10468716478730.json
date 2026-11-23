@@ -1,0 +1,113 @@
+{
+ "id": "gid://shopify/Product/10468716478730",
+ "title": "Gravelbike KONA Ouroboros CR/DL, Gloss Harbor Gray (Green)",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Gravelcykel",
+  "Kona",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52832111591690",
+    "title": "Default Title",
+    "sku": "B36ORCD48",
+    "price": "71441.10",
+    "compareAtPrice": "79379.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832111624458",
+    "title": "S / blue",
+    "sku": "B36ORCD50",
+    "price": "71441.10",
+    "compareAtPrice": "79379.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "S / blue"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832111657226",
+    "title": "M / blue",
+    "sku": "B36ORCD52",
+    "price": "71441.10",
+    "compareAtPrice": "79379.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / blue"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832111689994",
+    "title": "M/L / blue",
+    "sku": "B36ORCD54",
+    "price": "71441.10",
+    "compareAtPrice": "79379.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M/L / blue"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832111722762",
+    "title": "L / blue",
+    "sku": "B36ORCD56",
+    "price": "71441.10",
+    "compareAtPrice": "79379.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / blue"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832111755530",
+    "title": "XL / blue",
+    "sku": "B36ORCD58",
+    "price": "71441.10",
+    "compareAtPrice": "79379.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / blue"
+     }
+    ]
+   }
+  ]
+ }
+}

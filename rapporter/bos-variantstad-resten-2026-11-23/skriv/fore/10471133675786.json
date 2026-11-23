@@ -1,0 +1,84 @@
+{
+ "id": "gid://shopify/Product/10471133675786",
+ "title": "Gravelcykel Kona Sutra LTD, 29 tum, Gloss Bone",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Gravelcykel",
+  "Kona",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52845090046218",
+    "title": "Default Title",
+    "sku": "B36SULWHSHFA50",
+    "price": "35243.10",
+    "compareAtPrice": "39159.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845090078986",
+    "title": "S / white",
+    "sku": "B36SULWHSHFA50",
+    "price": "31715.10",
+    "compareAtPrice": "35239.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "S / white"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845090111754",
+    "title": "M/L / white",
+    "sku": "B36SULWHSHFA54",
+    "price": "31715.10",
+    "compareAtPrice": "35239.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M/L / white"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845090144522",
+    "title": "XL / white",
+    "sku": "B36SULWHSHFA58",
+    "price": "31715.10",
+    "compareAtPrice": "35239.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / white"
+     }
+    ]
+   }
+  ]
+ }
+}

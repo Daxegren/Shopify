@@ -1,0 +1,54 @@
+{
+ "id": "gid://shopify/Product/10598564757770",
+ "title": "Elcykel Liv Amiti E+ 4, Clear Sky",
+ "status": "ACTIVE",
+ "tags": [
+  "Damcyklar",
+  "Elcykel",
+  "Liv",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53552275063050",
+    "title": "Default Title",
+    "sku": "5230005105",
+    "price": "42407.10",
+    "compareAtPrice": "47119.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53552275095818",
+    "title": "M / blue",
+    "sku": "5230005105",
+    "price": "42407.10",
+    "compareAtPrice": "47119.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / blue"
+     }
+    ]
+   }
+  ]
+ }
+}

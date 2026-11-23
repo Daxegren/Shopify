@@ -1,0 +1,53 @@
+{
+ "id": "gid://shopify/Product/10472292090122",
+ "title": "Herrcykel Tabou Kinetic 1.0, 28 tum",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Herrcykel",
+  "price-change-job-active",
+  "sale",
+  "Tabou",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848500408586",
+    "title": "Default Title",
+    "sku": "TAB23-3020",
+    "price": "8450.10",
+    "compareAtPrice": "9389.00",
+    "inventoryQuantity": 10,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848500441354",
+    "title": "XL / blue",
+    "sku": "TAB23-3020",
+    "price": "7415.10",
+    "compareAtPrice": "8239.00",
+    "inventoryQuantity": 7,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / blue"
+     }
+    ]
+   }
+  ]
+ }
+}

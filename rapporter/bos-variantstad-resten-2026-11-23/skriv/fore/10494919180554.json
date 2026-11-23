@@ -1,0 +1,52 @@
+{
+ "id": "gid://shopify/Product/10494919180554",
+ "title": "Sparkcykel S'cool flaX 8.5",
+ "status": "ACTIVE",
+ "tags": [
+  "price-change-job-active",
+  "sale",
+  "Sparkcyklar",
+  "S´COOL",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52984745984266",
+    "title": "blue",
+    "sku": "2519",
+    "price": "3275.10",
+    "compareAtPrice": "3639.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "blue"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52984746017034",
+    "title": "Red",
+    "sku": "2518",
+    "price": "3275.10",
+    "compareAtPrice": "3639.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Red"
+     }
+    ]
+   }
+  ]
+ }
+}

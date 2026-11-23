@@ -1,0 +1,51 @@
+{
+ "id": "gid://shopify/Product/10472292811018",
+ "title": "Cykelhjälm Cairn Clarke med LED, Matt Vit",
+ "status": "ACTIVE",
+ "tags": [
+  "Cairn",
+  "Hjälm",
+  "texter-klara",
+  "Tillbehör",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848505225482",
+    "title": "Default Title",
+    "sku": "030030001L",
+    "price": "549.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848505258250",
+    "title": "M / white",
+    "sku": "030030001M",
+    "price": "479.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / white"
+     }
+    ]
+   }
+  ]
+ }
+}

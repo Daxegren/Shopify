@@ -1,0 +1,84 @@
+{
+ "id": "gid://shopify/Product/10469226316042",
+ "title": "Mountainbike Kona Process 153 DL G3, Gloss Jade",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Kona",
+  "Mountainbike",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52835491971338",
+    "title": "Default Title",
+    "sku": "B36153D06",
+    "price": "60785.10",
+    "compareAtPrice": "67539.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52835492004106",
+    "title": "M / green",
+    "sku": "B36153D03",
+    "price": "60785.10",
+    "compareAtPrice": "67539.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / green"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52835492036874",
+    "title": "L / green",
+    "sku": "B36153D05",
+    "price": "60785.10",
+    "compareAtPrice": "67539.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / green"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52835492069642",
+    "title": "XL / green",
+    "sku": "B36153D06",
+    "price": "60785.10",
+    "compareAtPrice": "67539.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / green"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "id": "gid://shopify/Product/10472294252810",
+ "title": "Scooter EXCELSIOR Retro Scooter, 12 1/2\", gul",
+ "status": "ACTIVE",
+ "tags": [
+  "Excelsior",
+  "price-change-job-active",
+  "sale",
+  "Sparkcyklar",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848509026570",
+    "title": "yellow",
+    "sku": "02130231",
+    "price": "3680.10",
+    "compareAtPrice": "4089.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "yellow"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848509059338",
+    "title": "blue",
+    "sku": "02130230",
+    "price": "3680.10",
+    "compareAtPrice": "4089.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "blue"
+     }
+    ]
+   }
+  ]
+ }
+}

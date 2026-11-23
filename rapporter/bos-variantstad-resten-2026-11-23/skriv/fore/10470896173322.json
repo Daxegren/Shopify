@@ -1,0 +1,53 @@
+{
+ "id": "gid://shopify/Product/10470896173322",
+ "title": "Rullskridskor Fila Mizar 80 Lady",
+ "status": "ACTIVE",
+ "tags": [
+  "Damcykel",
+  "Fila",
+  "price-change-job-active",
+  "Rullskridskor",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52843905810698",
+    "title": "Default Title",
+    "sku": "FILA-MIZAR80LADY-BLKBLU-40.5",
+    "price": "2024.10",
+    "compareAtPrice": "2249.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52843905843466",
+    "title": "40.5 / black",
+    "sku": "FILA-MIZAR80LADY-BLKBLU-40.5",
+    "price": "1781.10",
+    "compareAtPrice": "1979.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "40.5 / black"
+     }
+    ]
+   }
+  ]
+ }
+}

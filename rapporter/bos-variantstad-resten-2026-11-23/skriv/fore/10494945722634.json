@@ -1,0 +1,54 @@
+{
+ "id": "gid://shopify/Product/10494945722634",
+ "title": "Landsvägscykel Bottecchia Aerospace Ultegra Di2, Nero Lucido",
+ "status": "ACTIVE",
+ "tags": [
+  "Bottecchia",
+  "Cyklar",
+  "price-change-job-active",
+  "På beställning",
+  "Racercykel",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52985242681610",
+    "title": "Default Title",
+    "sku": "65TD847B1",
+    "price": "72818.10",
+    "compareAtPrice": "80909.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52985242714378",
+    "title": "M/L / black",
+    "sku": "65TD853B1",
+    "price": "72818.10",
+    "compareAtPrice": "80909.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M/L / black"
+     }
+    ]
+   }
+  ]
+ }
+}

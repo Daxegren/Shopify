@@ -1,0 +1,143 @@
+{
+ "id": "gid://shopify/Product/10588451897610",
+ "title": "Rullskridskor Fila Argon 84 Lady",
+ "status": "ACTIVE",
+ "tags": [
+  "Damcykel",
+  "Fila",
+  "price-change-job-active",
+  "sale",
+  "texter-klara",
+  "Utomhusträning",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53499299332362",
+    "title": "Default Title",
+    "sku": "010621215-37-5",
+    "price": "2375.10",
+    "compareAtPrice": "2639.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499299365130",
+    "title": "37.5 / black",
+    "sku": "010621215-37-5",
+    "price": "2087.10",
+    "compareAtPrice": "2319.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "37.5 / black"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499299397898",
+    "title": "38 / black",
+    "sku": "010621215-38",
+    "price": "2087.10",
+    "compareAtPrice": "2319.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "38 / black"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499299430666",
+    "title": "38.5 / black",
+    "sku": "010621215-38-5",
+    "price": "2087.10",
+    "compareAtPrice": "2319.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "38.5 / black"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499299463434",
+    "title": "39 / black",
+    "sku": "010621215-39",
+    "price": "2087.10",
+    "compareAtPrice": "2319.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "39 / black"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499299496202",
+    "title": "40 / black",
+    "sku": "010621215-40",
+    "price": "2087.10",
+    "compareAtPrice": "2319.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "40 / black"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499299528970",
+    "title": "40.5 / black",
+    "sku": "010621215-40-5",
+    "price": "2087.10",
+    "compareAtPrice": "2319.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "40.5 / black"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499299561738",
+    "title": "41 / black",
+    "sku": "010621215-41",
+    "price": "2087.10",
+    "compareAtPrice": "2319.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "41 / black"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "id": "gid://shopify/Product/10462768038154",
+ "title": "Motionscykel Christopeit AL 1, Magnetbroms med 8 Nivåer, Svart",
+ "status": "ACTIVE",
+ "tags": [
+  "Christopeit",
+  "Konditionsträning & Fitness",
+  "Motionscykel",
+  "price-change-job-active",
+  "sale",
+  "sync-skydd",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52805275484426",
+    "title": "gray",
+    "sku": "30-11062",
+    "price": "5336.10",
+    "compareAtPrice": "5929.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "gray"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52805275517194",
+    "title": "30-1106A",
+    "sku": "30-1106A",
+    "price": "5336.10",
+    "compareAtPrice": "5929.00",
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "30-1106A"
+     }
+    ]
+   }
+  ]
+ }
+}

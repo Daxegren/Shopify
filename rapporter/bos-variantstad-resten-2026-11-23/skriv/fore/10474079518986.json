@@ -1,0 +1,54 @@
+{
+ "id": "gid://shopify/Product/10474079518986",
+ "title": "Damcykel Liv Tempt 2 GE, 27,5 tum",
+ "status": "ACTIVE",
+ "tags": [
+  "Damcykel",
+  "Damcyklar",
+  "Liv",
+  "Mountainbike",
+  "price-change-job-active",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52859282522378",
+    "title": "Default Title",
+    "sku": "2201135184",
+    "price": "11897.10",
+    "compareAtPrice": "13219.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52859282555146",
+    "title": "M / green",
+    "sku": "2201135185",
+    "price": "10439.10",
+    "compareAtPrice": "11599.00",
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / green"
+     }
+    ]
+   }
+  ]
+ }
+}

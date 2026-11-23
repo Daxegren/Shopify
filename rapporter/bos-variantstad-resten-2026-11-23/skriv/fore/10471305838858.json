@@ -1,0 +1,70 @@
+{
+ "id": "gid://shopify/Product/10471305838858",
+ "title": "Elcykel Liv Tempt E+ EX, Sandshell",
+ "status": "ACTIVE",
+ "tags": [
+  "Damcyklar",
+  "Elcykel",
+  "Liv",
+  "Mountainbike",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52845475299594",
+    "title": "Default Title",
+    "sku": "5550001104",
+    "price": "42407.10",
+    "compareAtPrice": "47119.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845475332362",
+    "title": "M / beige",
+    "sku": "5550001105",
+    "price": "42407.10",
+    "compareAtPrice": "47119.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / beige"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845475365130",
+    "title": "XS / beige",
+    "sku": "5550001103",
+    "price": "42407.10",
+    "compareAtPrice": "47119.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XS / beige"
+     }
+    ]
+   }
+  ]
+ }
+}

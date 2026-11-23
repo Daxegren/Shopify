@@ -1,0 +1,53 @@
+{
+ "id": "gid://shopify/Product/10708320125194",
+ "title": "Gravelcykel KONA Rove AL (2027) Gloss Winter Sky",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Gravelcykel",
+  "Kona",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/54085582061834",
+    "title": "Default Title",
+    "sku": "B37RVABL1SHIN50",
+    "price": "13715.10",
+    "compareAtPrice": "15239.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/54085582094602",
+    "title": "S / blue",
+    "sku": "B37RVABL1SHIN50",
+    "price": "13715.10",
+    "compareAtPrice": "15239.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "S / blue"
+     }
+    ]
+   }
+  ]
+ }
+}

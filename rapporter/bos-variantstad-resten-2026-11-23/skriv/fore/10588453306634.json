@@ -1,0 +1,84 @@
+{
+ "id": "gid://shopify/Product/10588453306634",
+ "title": "Mountainbike Kona Process 134, Metallic Faux Raw (Grå)",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Kona",
+  "Mountainbike",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53499303133450",
+    "title": "Default Title",
+    "sku": "B36134GYSHHK01",
+    "price": "41975.10",
+    "compareAtPrice": "46639.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499303166218",
+    "title": "S / gray",
+    "sku": "B36134GYSHHK01",
+    "price": "36845.10",
+    "compareAtPrice": "40939.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "S / gray"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499303198986",
+    "title": "M / gray",
+    "sku": "B36134GYSHHK03",
+    "price": "36845.10",
+    "compareAtPrice": "40939.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / gray"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499303231754",
+    "title": "XL / gray",
+    "sku": "B36134GYSHHK06",
+    "price": "36845.10",
+    "compareAtPrice": "40939.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / gray"
+     }
+    ]
+   }
+  ]
+ }
+}

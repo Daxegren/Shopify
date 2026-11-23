@@ -1,0 +1,84 @@
+{
+ "id": "gid://shopify/Product/10468773691658",
+ "title": "Mountainbike Liv Pique Advanced 29 2, 29 tum, Golden Haze",
+ "status": "ACTIVE",
+ "tags": [
+  "Damcyklar",
+  "Liv",
+  "Mountainbike",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52832368722186",
+    "title": "Default Title",
+    "sku": "1072003107",
+    "price": "63863.10",
+    "compareAtPrice": "70959.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832368754954",
+    "title": "S / gold",
+    "sku": "1072003104",
+    "price": "56051.10",
+    "compareAtPrice": "62279.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "S / gold"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832368787722",
+    "title": "M / gold",
+    "sku": "1072003105",
+    "price": "56051.10",
+    "compareAtPrice": "62279.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / gold"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832368820490",
+    "title": "L / gold",
+    "sku": "1072003107",
+    "price": "56051.10",
+    "compareAtPrice": "62279.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / gold"
+     }
+    ]
+   }
+  ]
+ }
+}

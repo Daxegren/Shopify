@@ -1,0 +1,98 @@
+{
+ "id": "gid://shopify/Product/10494945001738",
+ "title": "Landsvägscykel BOTTECCHIA 8avio Ultimate - Ultegra Di2 24s - C15 Vit Blå",
+ "status": "ACTIVE",
+ "tags": [
+  "Bottecchia",
+  "Cyklar",
+  "price-change-job-active",
+  "På beställning",
+  "Racercykel",
+  "sale",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52985229672714",
+    "title": "Default Title",
+    "sku": "59RD104615",
+    "price": "68093.10",
+    "compareAtPrice": "75659.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52985229705482",
+    "title": "M / white",
+    "sku": "59RD105215",
+    "price": "59192.10",
+    "compareAtPrice": "65769.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / white"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52985229738250",
+    "title": "S / white",
+    "sku": "59RD104915",
+    "price": "59192.10",
+    "compareAtPrice": "65769.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "S / white"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52985229771018",
+    "title": "XL / white",
+    "sku": "59RD105815",
+    "price": "59192.10",
+    "compareAtPrice": "65769.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / white"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52985229803786",
+    "title": "XS / white",
+    "sku": "59RD104615",
+    "price": "59192.10",
+    "compareAtPrice": "65769.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XS / white"
+     }
+    ]
+   }
+  ]
+ }
+}

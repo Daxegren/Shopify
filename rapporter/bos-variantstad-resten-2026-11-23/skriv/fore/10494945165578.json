@@ -1,0 +1,54 @@
+{
+ "id": "gid://shopify/Product/10494945165578",
+ "title": "Landsvägscykel Bottecchia 8avio Ultimate, Shimano 105 Di2",
+ "status": "ACTIVE",
+ "tags": [
+  "Bottecchia",
+  "Cyklar",
+  "price-change-job-active",
+  "På beställning",
+  "Racercykel",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52985232228618",
+    "title": "Default Title",
+    "sku": "59DD104939",
+    "price": "47285.10",
+    "compareAtPrice": "52539.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52985232261386",
+    "title": "S / black",
+    "sku": "59DD104939",
+    "price": "47744.10",
+    "compareAtPrice": "53049.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "S / black"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "id": "gid://shopify/Product/10494941495562",
+ "title": "Rullskridskor LEGACY PRO 84, svart-grå",
+ "status": "ACTIVE",
+ "tags": [
+  "Fila",
+  "price-change-job-active",
+  "sale",
+  "Utomhusträning",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52985181798666",
+    "title": "Default Title",
+    "sku": "8026473450984",
+    "price": "2312.10",
+    "compareAtPrice": "2569.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52985181831434",
+    "title": "44 / black",
+    "sku": "8026473451004",
+    "price": "2024.10",
+    "compareAtPrice": "2249.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "44 / black"
+     }
+    ]
+   }
+  ]
+ }
+}

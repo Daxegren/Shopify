@@ -1,0 +1,69 @@
+{
+ "id": "gid://shopify/Product/10471199342858",
+ "title": "Elcykel Tenways CGO600 Pro, Himmelsblå",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Elcykel",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "TENWAYS",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52845274562826",
+    "title": "Default Title",
+    "sku": "081301580044",
+    "price": "30671.10",
+    "compareAtPrice": "34079.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845274595594",
+    "title": "M / blue",
+    "sku": "081301500027",
+    "price": "26918.10",
+    "compareAtPrice": "29909.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / blue"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845274628362",
+    "title": "XL / blue",
+    "sku": "081301580044",
+    "price": "26918.10",
+    "compareAtPrice": "29909.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / blue"
+     }
+    ]
+   }
+  ]
+ }
+}

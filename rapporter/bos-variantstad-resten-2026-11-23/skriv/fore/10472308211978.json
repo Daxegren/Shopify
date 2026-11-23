@@ -1,0 +1,67 @@
+{
+ "id": "gid://shopify/Product/10472308211978",
+ "title": "Barnrullskridskor Fila X-One",
+ "status": "ACTIVE",
+ "tags": [
+  "Fila",
+  "price-change-job-active",
+  "sale",
+  "texter-klara",
+  "Utomhusträning",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848525050122",
+    "title": "Default Title",
+    "sku": "010623130-M35",
+    "price": "1682.10",
+    "compareAtPrice": "1869.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848525082890",
+    "title": "M / black",
+    "sku": "010623130-M35",
+    "price": "1475.10",
+    "compareAtPrice": "1639.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / black"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848525115658",
+    "title": "XL / black",
+    "sku": "010623130-XL41",
+    "price": "1475.10",
+    "compareAtPrice": "1639.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / black"
+     }
+    ]
+   }
+  ]
+ }
+}

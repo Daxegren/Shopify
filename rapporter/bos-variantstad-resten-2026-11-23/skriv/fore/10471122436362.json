@@ -1,0 +1,52 @@
+{
+ "id": "gid://shopify/Product/10471122436362",
+ "title": "Sparkcykelhjul Versatyl, 110 mm",
+ "status": "ACTIVE",
+ "tags": [
+  "price-change-job-active",
+  "sale",
+  "Sparkcyklar",
+  "texter-klara",
+  "Velomarket",
+  "Versatyl"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52845056000266",
+    "title": "blue",
+    "sku": "105097",
+    "price": "1484.10",
+    "compareAtPrice": "1649.00",
+    "inventoryQuantity": 4,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "blue"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845056033034",
+    "title": "black",
+    "sku": "105096",
+    "price": "1484.10",
+    "compareAtPrice": "1649.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "black"
+     }
+    ]
+   }
+  ]
+ }
+}

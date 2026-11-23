@@ -1,0 +1,69 @@
+{
+ "id": "gid://shopify/Product/10673181655306",
+ "title": "Elcykel Leader Fox Swan Herr, 29 tum, Blå",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Elcykel",
+  "LEADERFOX",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53934500118794",
+    "title": "Default Title",
+    "sku": "K23/9/1/1/29/2/215",
+    "price": "22418.10",
+    "compareAtPrice": "24909.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53934500151562",
+    "title": "L / blue",
+    "sku": "K23/9/1/1/29/2/195",
+    "price": "22418.10",
+    "compareAtPrice": "24909.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / blue"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53934500184330",
+    "title": "XL / blue",
+    "sku": "K23/9/1/1/29/2/215",
+    "price": "22418.10",
+    "compareAtPrice": "24909.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / blue"
+     }
+    ]
+   }
+  ]
+ }
+}

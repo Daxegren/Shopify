@@ -1,0 +1,64 @@
+{
+ "id": "gid://shopify/Product/10665228173578",
+ "title": "Reflekterande klistermärken för cykel BOOKMAN Reflective Stickers for Bicycles, Black Flames",
+ "status": "ACTIVE",
+ "tags": [
+  "Bookman",
+  "Tillbehör",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53897015460106",
+    "title": "520",
+    "sku": "520",
+    "price": "69.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "520"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53897015492874",
+    "title": "521",
+    "sku": "521",
+    "price": "69.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 5,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "521"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53897015525642",
+    "title": "522",
+    "sku": "522",
+    "price": "69.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "522"
+     }
+    ]
+   }
+  ]
+ }
+}

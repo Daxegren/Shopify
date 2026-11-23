@@ -1,0 +1,69 @@
+{
+ "id": "gid://shopify/Product/10598564856074",
+ "title": "Elcykel Liv Embolden E+ 0 (2027), Atmosphere/Svart",
+ "status": "ACTIVE",
+ "tags": [
+  "Damcyklar",
+  "Elcykel",
+  "Liv",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53552275390730",
+    "title": "Default Title",
+    "sku": "5310004105",
+    "price": "77786.10",
+    "compareAtPrice": "86429.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53552275423498",
+    "title": "S / blue",
+    "sku": "5310004104",
+    "price": "77786.10",
+    "compareAtPrice": "86429.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "S / blue"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53552275456266",
+    "title": "M / blue",
+    "sku": "5310004105",
+    "price": "77786.10",
+    "compareAtPrice": "86429.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / blue"
+     }
+    ]
+   }
+  ]
+ }
+}

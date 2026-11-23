@@ -1,0 +1,94 @@
+{
+ "id": "gid://shopify/Product/10472289075466",
+ "title": "Viktplatta SPOKEY Blå, 30 mm, 10 kg",
+ "status": "ACTIVE",
+ "tags": [
+  "Konditionsträning & Fitness",
+  "Spokey",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848490447114",
+    "title": "944485",
+    "sku": "944485",
+    "price": "439.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "944485"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848490479882",
+    "title": "944484",
+    "sku": "944484",
+    "price": "299.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "944484"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848490512650",
+    "title": "944482",
+    "sku": "944482",
+    "price": "79.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "944482"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848490545418",
+    "title": "944483",
+    "sku": "944483",
+    "price": "129.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "944483"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848490578186",
+    "title": "944481",
+    "sku": "944481",
+    "price": "59.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "944481"
+     }
+    ]
+   }
+  ]
+ }
+}

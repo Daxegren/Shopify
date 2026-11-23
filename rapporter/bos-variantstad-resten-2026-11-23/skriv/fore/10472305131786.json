@@ -1,0 +1,49 @@
+{
+ "id": "gid://shopify/Product/10472305131786",
+ "title": "Figure skates FILA Eve Ice",
+ "status": "ACTIVE",
+ "tags": [
+  "Fila",
+  "Skridskor",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848521773322",
+    "title": "Default Title",
+    "sku": "010422050-31",
+    "price": "709.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848521806090",
+    "title": "31 / white",
+    "sku": "010422050-31",
+    "price": "769.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "31 / white"
+     }
+    ]
+   }
+  ]
+ }
+}

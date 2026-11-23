@@ -1,0 +1,52 @@
+{
+ "id": "gid://shopify/Product/10472334688522",
+ "title": "Fixie Excelsior Snatcher, Stålram, Svart",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Excelsior",
+  "price-change-job-active",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848810590474",
+    "title": "Default Title",
+    "sku": "02130064",
+    "price": "7532.10",
+    "compareAtPrice": "8369.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848810623242",
+    "title": "M / black",
+    "sku": "02130064",
+    "price": "7532.10",
+    "compareAtPrice": "8369.00",
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / black"
+     }
+    ]
+   }
+  ]
+ }
+}

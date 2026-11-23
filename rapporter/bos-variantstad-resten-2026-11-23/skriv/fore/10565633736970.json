@@ -1,0 +1,83 @@
+{
+ "id": "gid://shopify/Product/10565633736970",
+ "title": "Cykel Kona Lava Dome, Prism Dragonfly",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Kona",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53355713921290",
+    "title": "Default Title",
+    "sku": "B37LDBLMSIN03",
+    "price": "12365.10",
+    "compareAtPrice": "13739.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53355713954058",
+    "title": "S / blue",
+    "sku": "B37LDBLMSIN01",
+    "price": "12365.10",
+    "compareAtPrice": "13739.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "S / blue"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53355713986826",
+    "title": "M / blue",
+    "sku": "B37LDBLMSIN03",
+    "price": "12365.10",
+    "compareAtPrice": "13739.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / blue"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53355714019594",
+    "title": "L / blue",
+    "sku": "B37LDBLMSIN05",
+    "price": "12365.10",
+    "compareAtPrice": "13739.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / blue"
+     }
+    ]
+   }
+  ]
+ }
+}

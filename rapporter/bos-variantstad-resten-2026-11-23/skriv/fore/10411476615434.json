@@ -1,0 +1,66 @@
+{
+ "id": "gid://shopify/Product/10411476615434",
+ "title": "Kälke Stiga Pacer med Bromsar",
+ "status": "ACTIVE",
+ "tags": [
+  "Kälkar",
+  "Pulka",
+  "Stiga",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52586674684170",
+    "title": "black",
+    "sku": "74-6273-01",
+    "price": "389.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 9,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "black"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52586674716938",
+    "title": "pink",
+    "sku": "74-6273-07",
+    "price": "389.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 6,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "pink"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52586674749706",
+    "title": "green",
+    "sku": "74-6273-09",
+    "price": "359.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 5,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "green"
+     }
+    ]
+   }
+  ]
+ }
+}

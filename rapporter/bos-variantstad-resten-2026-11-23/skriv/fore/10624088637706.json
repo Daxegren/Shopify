@@ -1,0 +1,55 @@
+{
+ "id": "gid://shopify/Product/10624088637706",
+ "title": "Damcykel Liv Avail Advanced 1 (2027), Shell White",
+ "status": "ACTIVE",
+ "tags": [
+  "Damcykel",
+  "Damcyklar",
+  "Liv",
+  "price-change-job-active",
+  "På beställning",
+  "Racercykel",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53701395382538",
+    "title": "Default Title",
+    "sku": "1017039144",
+    "price": "46484.10",
+    "compareAtPrice": "51649.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53701395415306",
+    "title": "M / gray",
+    "sku": "1017039145",
+    "price": "46484.10",
+    "compareAtPrice": "51649.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / gray"
+     }
+    ]
+   }
+  ]
+ }
+}

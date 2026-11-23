@@ -1,0 +1,55 @@
+{
+ "id": "gid://shopify/Product/10676720173322",
+ "title": "Elcykel Fatbike Leader Fox Cody, 20 tum, Hopfällbar",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Elcykel",
+  "LEADERFOX",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket",
+  "Vikbar cykel"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53955504570634",
+    "title": "black",
+    "sku": "K25/9/8/2/2",
+    "price": "30041.10",
+    "compareAtPrice": "33379.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "black"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53955504603402",
+    "title": "green",
+    "sku": "K25/9/8/2/1",
+    "price": "30041.10",
+    "compareAtPrice": "33379.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "green"
+     }
+    ]
+   }
+  ]
+ }
+}

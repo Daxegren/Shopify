@@ -1,0 +1,53 @@
+{
+ "id": "gid://shopify/Product/10472261976330",
+ "title": "Hjälm Melon New York, XL/XXL 58–63 cm",
+ "status": "ACTIVE",
+ "tags": [
+  "Hjälm",
+  "Melon",
+  "price-change-job-active",
+  "sale",
+  "texter-klara",
+  "Tillbehör",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848419045642",
+    "title": "Default Title",
+    "sku": "MUA.P106M.XL",
+    "price": "1430.10",
+    "compareAtPrice": "1589.00",
+    "inventoryQuantity": 5,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848419078410",
+    "title": "XL / green",
+    "sku": "MUA.P106M.XL",
+    "price": "1259.10",
+    "compareAtPrice": "1399.00",
+    "inventoryQuantity": 4,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / green"
+     }
+    ]
+   }
+  ]
+ }
+}

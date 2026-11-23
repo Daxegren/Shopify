@@ -1,0 +1,50 @@
+{
+ "id": "gid://shopify/Product/10565562466570",
+ "title": "Knä- och armbågsskydd Boom Basic Double Pad Set",
+ "status": "ACTIVE",
+ "tags": [
+  "Boom",
+  "texter-klara",
+  "Tillbehör",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53355571052810",
+    "title": "Default Title",
+    "sku": "104298",
+    "price": "349.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53355571085578",
+    "title": "M / blue",
+    "sku": "104298",
+    "price": "329.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / blue"
+     }
+    ]
+   }
+  ]
+ }
+}

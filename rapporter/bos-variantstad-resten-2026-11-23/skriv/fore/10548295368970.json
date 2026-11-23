@@ -1,0 +1,54 @@
+{
+ "id": "gid://shopify/Product/10548295368970",
+ "title": "El-trehjuling Leader Fox Bormio",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Elcykel",
+  "LEADERFOX",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53243212300554",
+    "title": "white",
+    "sku": "K25/5/23/2",
+    "price": "26108.10",
+    "compareAtPrice": "29009.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "white"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53243212333322",
+    "title": "black",
+    "sku": "K25/5/23/1",
+    "price": "26108.10",
+    "compareAtPrice": "29009.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "black"
+     }
+    ]
+   }
+  ]
+ }
+}

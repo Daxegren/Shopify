@@ -1,0 +1,70 @@
+{
+ "id": "gid://shopify/Product/10682105528586",
+ "title": "Cykel Kona Coco (2027) 27,5 tum, Gloss Metallic Electric Blue",
+ "status": "ACTIVE",
+ "tags": [
+  "Damcyklar",
+  "Elcykel",
+  "Hybridcykel",
+  "Kona",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53981027762442",
+    "title": "Default Title",
+    "sku": "B36COBLSHIN01",
+    "price": "12365.10",
+    "compareAtPrice": "13739.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53981027795210",
+    "title": "M / blue",
+    "sku": "B36COBLSHIN03",
+    "price": "12365.10",
+    "compareAtPrice": "13739.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / blue"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53981027827978",
+    "title": "L / blue",
+    "sku": "B36COBLSHIN05",
+    "price": "12482.10",
+    "compareAtPrice": "13869.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / blue"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "gid://shopify/Product/10462191878410",
+ "title": "Hjälm BOBBIN Disco, silver",
+ "status": "ACTIVE",
+ "tags": [
+  "Bobbin",
+  "Hjälm",
+  "price-change-job-active",
+  "sale",
+  "Tillbehör",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52799903334666",
+    "title": "Default Title",
+    "sku": "BOB-A101103",
+    "price": "1367.10",
+    "compareAtPrice": "1519.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52799903367434",
+    "title": "M/L / silver",
+    "sku": "BOB-A101103",
+    "price": "674.10",
+    "compareAtPrice": "749.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M/L / silver"
+     }
+    ]
+   }
+  ]
+ }
+}

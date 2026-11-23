@@ -1,0 +1,70 @@
+{
+ "id": "gid://shopify/Product/10472435056906",
+ "title": "Damcykel Liv Avail Advanced 2 (2026), RosyBrown/OceanStorm",
+ "status": "ACTIVE",
+ "tags": [
+  "Damcykel",
+  "Damcyklar",
+  "Liv",
+  "price-change-job-active",
+  "På beställning",
+  "Racercykel",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52849938694410",
+    "title": "Default Title",
+    "sku": "1017032244",
+    "price": "38330.10",
+    "compareAtPrice": "42589.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52849938727178",
+    "title": "S / pink",
+    "sku": "1017032244",
+    "price": "33308.10",
+    "compareAtPrice": "37009.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "S / pink"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52849938759946",
+    "title": "M / pink",
+    "sku": "1017032245",
+    "price": "33308.10",
+    "compareAtPrice": "37009.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / pink"
+     }
+    ]
+   }
+  ]
+ }
+}

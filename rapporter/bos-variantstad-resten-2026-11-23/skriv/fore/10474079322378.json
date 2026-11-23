@@ -1,0 +1,54 @@
+{
+ "id": "gid://shopify/Product/10474079322378",
+ "title": "Cykel Kona Rove AL 650",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Gravelcykel",
+  "Kona",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52859282030858",
+    "title": "Default Title",
+    "sku": "B36RV6558",
+    "price": "16694.10",
+    "compareAtPrice": "18549.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52859282063626",
+    "title": "XL / gray",
+    "sku": "B36RV6558",
+    "price": "14651.10",
+    "compareAtPrice": "16279.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / gray"
+     }
+    ]
+   }
+  ]
+ }
+}

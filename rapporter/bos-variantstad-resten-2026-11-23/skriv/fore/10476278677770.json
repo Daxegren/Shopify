@@ -1,0 +1,50 @@
+{
+ "id": "gid://shopify/Product/10476278677770",
+ "title": "Hjälm CAIRN CLARKE, Matt Khaki",
+ "status": "ACTIVE",
+ "tags": [
+  "Cairn",
+  "Hjälm",
+  "Tillbehör",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52869646090506",
+    "title": "Default Title",
+    "sku": "030030040M",
+    "price": "539.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52869646123274",
+    "title": "L / green",
+    "sku": "030030040L",
+    "price": "539.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / green"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "id": "gid://shopify/Product/10472282587402",
+ "title": "Mountainbike Kona Process 134 CR/DL G3, 29 tum",
+ "status": "ACTIVE",
+ "tags": [
+  "cykel",
+  "Cyklar",
+  "Kona",
+  "Mountainbike",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848472457482",
+    "title": "Default Title",
+    "sku": "B36134CD06",
+    "price": "95813.10",
+    "compareAtPrice": "106459.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848472490250",
+    "title": "M / gray",
+    "sku": "B36134CD03",
+    "price": "84095.10",
+    "compareAtPrice": "93439.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / gray"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848472523018",
+    "title": "L / gray",
+    "sku": "B36134CD05",
+    "price": "84095.10",
+    "compareAtPrice": "93439.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / gray"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848472555786",
+    "title": "XL / gray",
+    "sku": "B36134CD06",
+    "price": "84095.10",
+    "compareAtPrice": "93439.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / gray"
+     }
+    ]
+   }
+  ]
+ }
+}

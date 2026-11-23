@@ -1,0 +1,70 @@
+{
+ "id": "gid://shopify/Product/10588452946186",
+ "title": "Elcykel Kona Dew-E, Gloss Metallic Dark Faux Raw",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Elcykel",
+  "Hybridcykel",
+  "Kona",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53499302379786",
+    "title": "Default Title",
+    "sku": "B37EDWGYEP5EUIN06",
+    "price": "41975.10",
+    "compareAtPrice": "46639.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499302412554",
+    "title": "XL / gray",
+    "sku": "B37EDWGYEP5EUIN06",
+    "price": "42371.10",
+    "compareAtPrice": "47079.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / gray"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499302445322",
+    "title": "L / gray",
+    "sku": "B37EDWGYEP5EUIN05",
+    "price": "36845.10",
+    "compareAtPrice": "40939.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / gray"
+     }
+    ]
+   }
+  ]
+ }
+}

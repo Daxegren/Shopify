@@ -1,0 +1,51 @@
+{
+ "id": "gid://shopify/Product/10462818500874",
+ "title": "Hjälm Limar Urbe, Matt Svart",
+ "status": "ACTIVE",
+ "tags": [
+  "Hjälm",
+  "Limar",
+  "Lime",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52805410160906",
+    "title": "Default Title",
+    "sku": "GCURBECEACL",
+    "price": "669.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52805410193674",
+    "title": "M / black",
+    "sku": "GCURBECEACM",
+    "price": "589.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / black"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "id": "gid://shopify/Product/10462824235274",
+ "title": "Aest Barnsparkcykel, blå",
+ "status": "ACTIVE",
+ "tags": [
+  "price-change-job-active",
+  "sale",
+  "Sparkcyklar",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52805419827466",
+    "title": "blue",
+    "sku": "105565",
+    "price": "2024.10",
+    "compareAtPrice": "2249.00",
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "blue"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52805419860234",
+    "title": "yellow",
+    "sku": "105568",
+    "price": "656.10",
+    "compareAtPrice": "729.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "yellow"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52805419893002",
+    "title": "green",
+    "sku": "105566",
+    "price": "656.10",
+    "compareAtPrice": "729.00",
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "green"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52805419925770",
+    "title": "pink",
+    "sku": "105567",
+    "price": "656.10",
+    "compareAtPrice": "729.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "pink"
+     }
+    ]
+   }
+  ]
+ }
+}

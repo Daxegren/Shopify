@@ -1,0 +1,84 @@
+{
+ "id": "gid://shopify/Product/10471199080714",
+ "title": "Elcykel Tenways CGO600 Pro, Avocado Green",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Elcykel",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "TENWAYS",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52845273940234",
+    "title": "Default Title",
+    "sku": "081301580038",
+    "price": "30671.10",
+    "compareAtPrice": "34079.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845273973002",
+    "title": "M / green",
+    "sku": "081301500006",
+    "price": "30671.10",
+    "compareAtPrice": "34079.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / green"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845274005770",
+    "title": "XL / green",
+    "sku": "081301580038",
+    "price": "26918.10",
+    "compareAtPrice": "29909.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / green"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451945017610",
+    "title": "TEB6P1580004",
+    "sku": "TEB6P1580004",
+    "price": "26918.10",
+    "compareAtPrice": "29909.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "TEB6P1580004"
+     }
+    ]
+   }
+  ]
+ }
+}

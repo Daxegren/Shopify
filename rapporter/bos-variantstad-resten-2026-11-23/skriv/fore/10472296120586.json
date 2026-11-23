@@ -1,0 +1,53 @@
+{
+ "id": "gid://shopify/Product/10472296120586",
+ "title": "Elcykel TENWAYS CGO600 Pro, Midnight Black",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Elcykel",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "TENWAYS",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848511516938",
+    "title": "Default Title",
+    "sku": "081301580045",
+    "price": "30671.10",
+    "compareAtPrice": "34079.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848511549706",
+    "title": "XL / black",
+    "sku": "081301580045",
+    "price": "26918.10",
+    "compareAtPrice": "29909.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / black"
+     }
+    ]
+   }
+  ]
+ }
+}

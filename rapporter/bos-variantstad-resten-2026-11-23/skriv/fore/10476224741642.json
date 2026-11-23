@@ -1,0 +1,55 @@
+{
+ "id": "gid://shopify/Product/10476224741642",
+ "title": "Elcykel Liv Tempt E+, Havsgrönt",
+ "status": "ACTIVE",
+ "tags": [
+  "Damcyklar",
+  "Elcykel",
+  "Liv",
+  "Mountainbike",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52869528879370",
+    "title": "Default Title",
+    "sku": "5550004203",
+    "price": "39698.10",
+    "compareAtPrice": "44109.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52869528912138",
+    "title": "L / green",
+    "sku": "5550004207",
+    "price": "34505.10",
+    "compareAtPrice": "38339.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / green"
+     }
+    ]
+   }
+  ]
+ }
+}

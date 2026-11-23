@@ -1,0 +1,51 @@
+{
+ "id": "gid://shopify/Product/10472287043850",
+ "title": "Handskar Paw Patrol för Barn, Storlek S",
+ "status": "ACTIVE",
+ "tags": [
+  "benskydd",
+  "SevenPolska",
+  "texter-klara",
+  "Tillbehör",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848483336458",
+    "title": "Default Title",
+    "sku": "34011",
+    "price": "129.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 5,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848483369226",
+    "title": "blue",
+    "sku": "34011",
+    "price": "109.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "blue"
+     }
+    ]
+   }
+  ]
+ }
+}

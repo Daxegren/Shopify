@@ -1,0 +1,54 @@
+{
+ "id": "gid://shopify/Product/10468727521546",
+ "title": "Elcykel Fatbike Leader Fox Brasa, 26 tum, Grå",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Elcykel",
+  "LEADERFOX",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52832159924490",
+    "title": "Default Title",
+    "sku": "K24/8/3/1/26/2/18",
+    "price": "32417.10",
+    "compareAtPrice": "36019.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832159957258",
+    "title": "L / gray",
+    "sku": "K24/8/3/1/26/2/20",
+    "price": "32417.10",
+    "compareAtPrice": "36019.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / gray"
+     }
+    ]
+   }
+  ]
+ }
+}

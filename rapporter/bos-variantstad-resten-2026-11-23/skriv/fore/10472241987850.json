@@ -1,0 +1,66 @@
+{
+ "id": "gid://shopify/Product/10472241987850",
+ "title": "Kälke Stiga Pacer",
+ "status": "ACTIVE",
+ "tags": [
+  "Pulka",
+  "Stiga",
+  "texter-klara",
+  "Velomarket",
+  "Vinterutrustning"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848375595274",
+    "title": "black",
+    "sku": "74-6263-01",
+    "price": "329.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 8,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "black"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848375628042",
+    "title": "pink",
+    "sku": "74-6263-07",
+    "price": "329.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 13,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "pink"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848375660810",
+    "title": "green",
+    "sku": "74-6263-09",
+    "price": "329.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 5,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "green"
+     }
+    ]
+   }
+  ]
+ }
+}

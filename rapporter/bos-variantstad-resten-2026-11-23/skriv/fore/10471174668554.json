@@ -1,0 +1,50 @@
+{
+ "id": "gid://shopify/Product/10471174668554",
+ "title": "Reflexklistermärken för Cyklar Bookman",
+ "status": "ACTIVE",
+ "tags": [
+  "Bookman",
+  "texter-klara",
+  "Tillbehör",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52845221019914",
+    "title": "273",
+    "sku": "273",
+    "price": "69.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 5,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "273"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845221052682",
+    "title": "275",
+    "sku": "275",
+    "price": "69.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 4,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "275"
+     }
+    ]
+   }
+  ]
+ }
+}

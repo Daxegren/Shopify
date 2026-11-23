@@ -1,0 +1,55 @@
+{
+ "id": "gid://shopify/Product/10488246829322",
+ "title": "Damcykel Liv Avail AR 1, 700x32c, Sandshell/Cold Night",
+ "status": "ACTIVE",
+ "tags": [
+  "Damcykel",
+  "Damcyklar",
+  "Liv",
+  "price-change-job-active",
+  "På beställning",
+  "Racercykel",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52935246905610",
+    "title": "Default Title",
+    "sku": "1017034185",
+    "price": "26072.10",
+    "compareAtPrice": "28969.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52935246938378",
+    "title": "M / beige",
+    "sku": "1017034185",
+    "price": "19871.10",
+    "compareAtPrice": "22079.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / beige"
+     }
+    ]
+   }
+  ]
+ }
+}

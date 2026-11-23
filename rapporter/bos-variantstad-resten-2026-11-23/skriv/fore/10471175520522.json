@@ -1,0 +1,50 @@
+{
+ "id": "gid://shopify/Product/10471175520522",
+ "title": "Reflekterande klistermärken Bookman Adventure Stickers, Grön",
+ "status": "ACTIVE",
+ "tags": [
+  "Bookman",
+  "texter-klara",
+  "Tillbehör",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52845222494474",
+    "title": "Default Title",
+    "sku": "491",
+    "price": "69.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 4,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845222560010",
+    "title": "491",
+    "sku": "491",
+    "price": "59.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "491"
+     }
+    ]
+   }
+  ]
+ }
+}

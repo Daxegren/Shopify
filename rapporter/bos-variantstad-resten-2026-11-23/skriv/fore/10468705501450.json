@@ -1,0 +1,68 @@
+{
+ "id": "gid://shopify/Product/10468705501450",
+ "title": "Fixiecykel 6KU Evian 2, 28 tum, Vit",
+ "status": "ACTIVE",
+ "tags": [
+  "6KU",
+  "Cyklar",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52832074727690",
+    "title": "Default Title",
+    "sku": "CB69E1019",
+    "price": "7145.10",
+    "compareAtPrice": "7939.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832074760458",
+    "title": "XL / white",
+    "sku": "CB68E1022",
+    "price": "7145.10",
+    "compareAtPrice": "7939.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / white"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832074793226",
+    "title": "S / white",
+    "sku": "CB69E1019",
+    "price": "7145.10",
+    "compareAtPrice": "7939.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "S / white"
+     }
+    ]
+   }
+  ]
+ }
+}

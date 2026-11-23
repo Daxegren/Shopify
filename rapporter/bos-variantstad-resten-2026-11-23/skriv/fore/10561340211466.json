@@ -1,0 +1,54 @@
+{
+ "id": "gid://shopify/Product/10561340211466",
+ "title": "Damcykel Kona Coco, 27,5 tum, Röd",
+ "status": "ACTIVE",
+ "tags": [
+  "Damcyklar",
+  "Hybridcykel",
+  "Kona",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53313521484042",
+    "title": "Default Title",
+    "sku": "B36COR05",
+    "price": "12365.10",
+    "compareAtPrice": "13739.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53313521516810",
+    "title": "L / Red",
+    "sku": "B36COR05",
+    "price": "12365.10",
+    "compareAtPrice": "13739.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / Red"
+     }
+    ]
+   }
+  ]
+ }
+}

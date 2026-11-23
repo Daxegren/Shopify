@@ -1,0 +1,53 @@
+{
+ "id": "gid://shopify/Product/10494941692170",
+ "title": "Damcykel Liv Allure CS 2 GB med remdrift",
+ "status": "ACTIVE",
+ "tags": [
+  "Damcyklar",
+  "Liv",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52985185992970",
+    "title": "Default Title",
+    "sku": "3005010114",
+    "price": "20411.10",
+    "compareAtPrice": "22679.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52985186025738",
+    "title": "M / purple",
+    "sku": "3005010115",
+    "price": "17918.10",
+    "compareAtPrice": "19909.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / purple"
+     }
+    ]
+   }
+  ]
+ }
+}

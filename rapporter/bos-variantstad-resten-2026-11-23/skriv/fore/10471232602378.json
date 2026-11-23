@@ -1,0 +1,127 @@
+{
+ "id": "gid://shopify/Product/10471232602378",
+ "title": "Rullskridskor Fila Houdini Pro",
+ "status": "ACTIVE",
+ "tags": [
+  "Fila",
+  "price-change-job-active",
+  "sale",
+  "texter-klara",
+  "Utomhusträning",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52845324140810",
+    "title": "Default Title",
+    "sku": "010620078-44",
+    "price": "3140.10",
+    "compareAtPrice": "3489.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845324173578",
+    "title": "40 / black",
+    "sku": "010620078-40",
+    "price": "3140.10",
+    "compareAtPrice": "3489.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "40 / black"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845324206346",
+    "title": "40.5 / black",
+    "sku": "010620078-40-5",
+    "price": "3140.10",
+    "compareAtPrice": "3489.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "40.5 / black"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845324239114",
+    "title": "41 / black",
+    "sku": "010620078-41",
+    "price": "3167.10",
+    "compareAtPrice": "3519.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "41 / black"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845324271882",
+    "title": "42.5 / black",
+    "sku": "010620078-42-5",
+    "price": "3167.10",
+    "compareAtPrice": "3519.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "42.5 / black"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845324304650",
+    "title": "43 / black",
+    "sku": "010620078-43",
+    "price": "3167.10",
+    "compareAtPrice": "3519.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "43 / black"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845324337418",
+    "title": "44 / black",
+    "sku": "010620078-44",
+    "price": "2753.10",
+    "compareAtPrice": "3059.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "44 / black"
+     }
+    ]
+   }
+  ]
+ }
+}

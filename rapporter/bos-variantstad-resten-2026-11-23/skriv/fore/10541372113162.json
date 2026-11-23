@@ -1,0 +1,54 @@
+{
+ "id": "gid://shopify/Product/10541372113162",
+ "title": "Hybridcykel Kona Dew, 29 tum, Niagra (Blå)",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Hybridcykel",
+  "Kona",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53214525423882",
+    "title": "Default Title",
+    "sku": "B37DWBLSHIN01",
+    "price": "11024.10",
+    "compareAtPrice": "12249.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53214525456650",
+    "title": "XL / blue",
+    "sku": "B37DWBLSHIN06",
+    "price": "9674.10",
+    "compareAtPrice": "10749.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / blue"
+     }
+    ]
+   }
+  ]
+ }
+}

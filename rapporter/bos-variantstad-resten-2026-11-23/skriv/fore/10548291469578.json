@@ -1,0 +1,53 @@
+{
+ "id": "gid://shopify/Product/10548291469578",
+ "title": "Cykel med extra låg ram LEADER FOX Ema 26\" Lady, Svart",
+ "status": "ACTIVE",
+ "tags": [
+  "Damcykel",
+  "Damcyklar",
+  "LEADERFOX",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53243192639754",
+    "title": "Default Title",
+    "sku": "K25/2/3/1/19",
+    "price": "9962.10",
+    "compareAtPrice": "11069.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53243192672522",
+    "title": "M / black",
+    "sku": "K25/2/3/1/17",
+    "price": "10115.10",
+    "compareAtPrice": "11239.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / black"
+     }
+    ]
+   }
+  ]
+ }
+}

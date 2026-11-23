@@ -1,0 +1,54 @@
+{
+ "id": "gid://shopify/Product/10472261878026",
+ "title": "Damcykel Liv Tempt 2, 29 tum",
+ "status": "ACTIVE",
+ "tags": [
+  "Damcykel",
+  "Damcyklar",
+  "Liv",
+  "Mountainbike",
+  "price-change-job-active",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848418914570",
+    "title": "Default Title",
+    "sku": "2201119285",
+    "price": "11996.10",
+    "compareAtPrice": "13329.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848418947338",
+    "title": "M / green",
+    "sku": "2201119285",
+    "price": "10529.10",
+    "compareAtPrice": "11699.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / green"
+     }
+    ]
+   }
+  ]
+ }
+}
