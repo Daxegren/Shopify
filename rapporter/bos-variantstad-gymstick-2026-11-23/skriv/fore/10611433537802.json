@@ -1,0 +1,230 @@
+{
+ "id": "gid://shopify/Product/10611433537802",
+ "title": "Pro Chrome Hantel 0,5kg - enkel",
+ "status": "ACTIVE",
+ "tags": [
+  "Gymstick",
+  "Hantlar",
+  "price-change-job-active",
+  "sale"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53632918257930",
+    "title": "0,5",
+    "sku": "61072-0,5",
+    "price": "71.10",
+    "compareAtPrice": "79.00",
+    "inventoryQuantity": 128,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "0,5"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632918290698",
+    "title": "1,5",
+    "sku": "61072-1,5",
+    "price": "125.10",
+    "compareAtPrice": "139.00",
+    "inventoryQuantity": 106,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "1,5"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632918323466",
+    "title": "10",
+    "sku": "61072-10",
+    "price": "656.10",
+    "compareAtPrice": "729.00",
+    "inventoryQuantity": 386,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "10"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632918356234",
+    "title": "1",
+    "sku": "61072-1",
+    "price": "89.10",
+    "compareAtPrice": "99.00",
+    "inventoryQuantity": 315,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "1"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632918389002",
+    "title": "2",
+    "sku": "61072-2",
+    "price": "170.10",
+    "compareAtPrice": "189.00",
+    "inventoryQuantity": 377,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "2"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632918421770",
+    "title": "3",
+    "sku": "61072-3",
+    "price": "233.10",
+    "compareAtPrice": "259.00",
+    "inventoryQuantity": 186,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "3"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632918454538",
+    "title": "4",
+    "sku": "61072-4",
+    "price": "296.10",
+    "compareAtPrice": "329.00",
+    "inventoryQuantity": 141,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "4"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632918487306",
+    "title": "5",
+    "sku": "61072-5",
+    "price": "359.10",
+    "compareAtPrice": "399.00",
+    "inventoryQuantity": 108,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "5"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632918520074",
+    "title": "6",
+    "sku": "61072-6",
+    "price": "422.10",
+    "compareAtPrice": "469.00",
+    "inventoryQuantity": 335,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "6"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632918552842",
+    "title": "7",
+    "sku": "61072-7",
+    "price": "476.10",
+    "compareAtPrice": "529.00",
+    "inventoryQuantity": 68,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "7"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632918585610",
+    "title": "8",
+    "sku": "61072-8",
+    "price": "557.10",
+    "compareAtPrice": "619.00",
+    "inventoryQuantity": 105,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "8"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632918618378",
+    "title": "9",
+    "sku": "61072-9",
+    "price": "611.10",
+    "compareAtPrice": "679.00",
+    "inventoryQuantity": 36,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "9"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632918651146",
+    "title": "SET",
+    "sku": "61072-SET",
+    "price": "9539.10",
+    "compareAtPrice": "10599.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "SET"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632918683914",
+    "title": "0",
+    "sku": "61072-0",
+    "price": "3149.10",
+    "compareAtPrice": "3499.00",
+    "inventoryQuantity": 24,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "0"
+     }
+    ]
+   }
+  ]
+ }
+}

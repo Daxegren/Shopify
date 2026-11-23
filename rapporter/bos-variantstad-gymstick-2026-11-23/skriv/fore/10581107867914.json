@@ -1,0 +1,95 @@
+{
+ "id": "gid://shopify/Product/10581107867914",
+ "title": "Hi-Impact Bumper Plate 10kg - enkel",
+ "status": "ACTIVE",
+ "tags": [
+  "Gymstick",
+  "price-change-job-active",
+  "sale",
+  "Viktplattor"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53461529166090",
+    "title": "10",
+    "sku": "BPHI-10",
+    "price": "620.10",
+    "compareAtPrice": "689.00",
+    "inventoryQuantity": 144,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "10"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461529198858",
+    "title": "15",
+    "sku": "BPHI-15",
+    "price": "764.10",
+    "compareAtPrice": "849.00",
+    "inventoryQuantity": 45,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "15"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461529231626",
+    "title": "20",
+    "sku": "BPHI-20",
+    "price": "1034.10",
+    "compareAtPrice": "1149.00",
+    "inventoryQuantity": 33,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "20"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461529264394",
+    "title": "25",
+    "sku": "BPHI-25",
+    "price": "1349.10",
+    "compareAtPrice": "1499.00",
+    "inventoryQuantity": 16,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "25"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461529297162",
+    "title": "5",
+    "sku": "BPHI-5",
+    "price": "377.10",
+    "compareAtPrice": "419.00",
+    "inventoryQuantity": 159,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "5"
+     }
+    ]
+   }
+  ]
+ }
+}

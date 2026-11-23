@@ -1,0 +1,94 @@
+{
+ "id": "gid://shopify/Product/10611415220490",
+ "title": "Aerobic Bar 10kg",
+ "status": "ACTIVE",
+ "tags": [
+  "Gymstick",
+  "price-change-job-active",
+  "sale"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53632896794890",
+    "title": "10",
+    "sku": "61051-10",
+    "price": "917.10",
+    "compareAtPrice": "1019.00",
+    "inventoryQuantity": 14,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "10"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632896827658",
+    "title": "3",
+    "sku": "61051-3",
+    "price": "359.10",
+    "compareAtPrice": "399.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "3"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632896860426",
+    "title": "4",
+    "sku": "61051-4",
+    "price": "476.10",
+    "compareAtPrice": "529.00",
+    "inventoryQuantity": 73,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "4"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632896893194",
+    "title": "6",
+    "sku": "61051-6",
+    "price": "593.10",
+    "compareAtPrice": "659.00",
+    "inventoryQuantity": 18,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "6"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632896925962",
+    "title": "8",
+    "sku": "61051-8",
+    "price": "728.10",
+    "compareAtPrice": "809.00",
+    "inventoryQuantity": 49,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "8"
+     }
+    ]
+   }
+  ]
+ }
+}

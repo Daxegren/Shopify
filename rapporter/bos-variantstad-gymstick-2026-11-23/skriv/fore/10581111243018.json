@@ -1,0 +1,126 @@
+{
+ "id": "gid://shopify/Product/10581111243018",
+ "title": "Viktskiva Gymstick Gummerad, 1,25–25 kg",
+ "status": "ACTIVE",
+ "tags": [
+  "Gymstick",
+  "price-change-job-active",
+  "sale",
+  "texter-klara",
+  "Viktplattor"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53461541486858",
+    "title": "1,25",
+    "sku": "RWP-1,25",
+    "price": "80.10",
+    "compareAtPrice": "89.00",
+    "inventoryQuantity": 727,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "1,25"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461541519626",
+    "title": "10",
+    "sku": "RWP-10",
+    "price": "638.10",
+    "compareAtPrice": "709.00",
+    "inventoryQuantity": 353,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "10"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461541552394",
+    "title": "15",
+    "sku": "RWP-15",
+    "price": "809.10",
+    "compareAtPrice": "899.00",
+    "inventoryQuantity": 292,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "15"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461541585162",
+    "title": "2,5",
+    "sku": "RWP-2,5",
+    "price": "161.10",
+    "compareAtPrice": "179.00",
+    "inventoryQuantity": 787,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "2,5"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461541617930",
+    "title": "20",
+    "sku": "RWP-20",
+    "price": "998.10",
+    "compareAtPrice": "1109.00",
+    "inventoryQuantity": 274,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "20"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461541650698",
+    "title": "25",
+    "sku": "RWP-25",
+    "price": "1196.10",
+    "compareAtPrice": "1329.00",
+    "inventoryQuantity": 56,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "25"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461541683466",
+    "title": "5",
+    "sku": "RWP-5",
+    "price": "305.10",
+    "compareAtPrice": "339.00",
+    "inventoryQuantity": 761,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "5"
+     }
+    ]
+   }
+  ]
+ }
+}

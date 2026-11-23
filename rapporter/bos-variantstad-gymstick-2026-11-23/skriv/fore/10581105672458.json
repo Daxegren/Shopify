@@ -1,0 +1,48 @@
+{
+ "id": "gid://shopify/Product/10581105672458",
+ "title": "Core Roller Gymstick, 45 och 90 cm",
+ "status": "ACTIVE",
+ "tags": [
+  "Gymstick",
+  "texter-klara"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53461524152586",
+    "title": "45",
+    "sku": "61110-45",
+    "price": "349.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 172,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "45"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461524185354",
+    "title": "90",
+    "sku": "61110-90",
+    "price": "599.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 392,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "90"
+     }
+    ]
+   }
+  ]
+ }
+}

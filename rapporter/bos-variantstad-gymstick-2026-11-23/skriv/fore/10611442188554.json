@@ -1,0 +1,48 @@
+{
+ "id": "gid://shopify/Product/10611442188554",
+ "title": "Viktväst 2,5kg",
+ "status": "ACTIVE",
+ "tags": [
+  "Gymstick",
+  "Viktvästor"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53632928612618",
+    "title": "2,5",
+    "sku": "61047-2,5",
+    "price": "349.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "2,5"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632928645386",
+    "title": "5",
+    "sku": "61047-5",
+    "price": "449.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 416,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "5"
+     }
+    ]
+   }
+  ]
+ }
+}

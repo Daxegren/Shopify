@@ -1,0 +1,124 @@
+{
+ "id": "gid://shopify/Product/10581107802378",
+ "title": "Heavy Bag 20kg",
+ "status": "ACTIVE",
+ "tags": [
+  "Gymstick",
+  "price-change-job-active",
+  "sale"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53461528903946",
+    "title": "20",
+    "sku": "61183-20",
+    "price": "854.10",
+    "compareAtPrice": "949.00",
+    "inventoryQuantity": 78,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "20"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461528936714",
+    "title": "30",
+    "sku": "61183-30",
+    "price": "1484.10",
+    "compareAtPrice": "1649.00",
+    "inventoryQuantity": 56,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "30"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461528969482",
+    "title": "45",
+    "sku": "61183-45",
+    "price": "2249.10",
+    "compareAtPrice": "2499.00",
+    "inventoryQuantity": 17,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "45"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461529002250",
+    "title": "CM",
+    "sku": "61183-CM",
+    "price": "224.10",
+    "compareAtPrice": "249.00",
+    "inventoryQuantity": 112,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "CM"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461529035018",
+    "title": "HS",
+    "sku": "61183-HS",
+    "price": "71.10",
+    "compareAtPrice": "79.00",
+    "inventoryQuantity": 15,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "HS"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461529067786",
+    "title": "WM",
+    "sku": "61183-WM",
+    "price": "476.10",
+    "compareAtPrice": "529.00",
+    "inventoryQuantity": 57,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "WM"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461529100554",
+    "title": "WMPRO",
+    "sku": "61183-WMPRO",
+    "price": "854.10",
+    "compareAtPrice": "949.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "WMPRO"
+     }
+    ]
+   }
+  ]
+ }
+}

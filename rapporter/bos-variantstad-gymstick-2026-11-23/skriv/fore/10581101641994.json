@@ -1,0 +1,124 @@
+{
+ "id": "gid://shopify/Product/10581101641994",
+ "title": "10kg Curved Bar",
+ "status": "ACTIVE",
+ "tags": [
+  "Gymstick",
+  "price-change-job-active",
+  "sale"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53461498691850",
+    "title": "10CURVED",
+    "sku": "OB-10CURVED",
+    "price": "2150.10",
+    "compareAtPrice": "2389.00",
+    "inventoryQuantity": 71,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "10CURVED"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461498855690",
+    "title": "15",
+    "sku": "OB-15",
+    "price": "1835.10",
+    "compareAtPrice": "2039.00",
+    "inventoryQuantity": 29,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "15"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461498921226",
+    "title": "20COM",
+    "sku": "OB-20COM",
+    "price": "4310.10",
+    "compareAtPrice": "4789.00",
+    "inventoryQuantity": 54,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "20COM"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461498986762",
+    "title": "20PRE",
+    "sku": "OB-20PRE",
+    "price": "3239.10",
+    "compareAtPrice": "3599.00",
+    "inventoryQuantity": 34,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "20PRE"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461499052298",
+    "title": "20",
+    "sku": "OB-20",
+    "price": "2267.10",
+    "compareAtPrice": "2519.00",
+    "inventoryQuantity": 120,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "20"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461499117834",
+    "title": "BH6",
+    "sku": "OB-BH6",
+    "price": "2915.10",
+    "compareAtPrice": "3239.00",
+    "inventoryQuantity": 11,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "BH6"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461499150602",
+    "title": "HB182",
+    "sku": "OB-HB182",
+    "price": "3347.10",
+    "compareAtPrice": "3719.00",
+    "inventoryQuantity": 20,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "HB182"
+     }
+    ]
+   }
+  ]
+ }
+}

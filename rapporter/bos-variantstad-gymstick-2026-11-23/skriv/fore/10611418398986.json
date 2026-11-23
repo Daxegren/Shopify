@@ -1,0 +1,95 @@
+{
+ "id": "gid://shopify/Product/10611418398986",
+ "title": "Bumper Plate 10kg - single",
+ "status": "ACTIVE",
+ "tags": [
+  "Gymstick",
+  "price-change-job-active",
+  "sale",
+  "Viktplattor"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53632900628746",
+    "title": "10",
+    "sku": "BP-10",
+    "price": "584.10",
+    "compareAtPrice": "649.00",
+    "inventoryQuantity": 39,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "10"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632900661514",
+    "title": "15",
+    "sku": "BP-15",
+    "price": "719.10",
+    "compareAtPrice": "799.00",
+    "inventoryQuantity": 44,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "15"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632900694282",
+    "title": "20",
+    "sku": "BP-20",
+    "price": "809.10",
+    "compareAtPrice": "899.00",
+    "inventoryQuantity": 22,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "20"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632900759818",
+    "title": "25",
+    "sku": "BP-25",
+    "price": "989.10",
+    "compareAtPrice": "1099.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "25"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632900792586",
+    "title": "5",
+    "sku": "BP-5",
+    "price": "413.10",
+    "compareAtPrice": "459.00",
+    "inventoryQuantity": 31,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "5"
+     }
+    ]
+   }
+  ]
+ }
+}

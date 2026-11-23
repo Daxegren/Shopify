@@ -1,0 +1,48 @@
+{
+ "id": "gid://shopify/Product/10581107245322",
+ "title": "Mössa Gymstick GS Beanie",
+ "status": "ACTIVE",
+ "tags": [
+  "Gymstick",
+  "texter-klara"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53461527527690",
+    "title": "BL",
+    "sku": "GS-BEA-BL",
+    "price": "179.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 107,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "BL"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461527560458",
+    "title": "R",
+    "sku": "GS-BEA-R",
+    "price": "179.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 118,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "R"
+     }
+    ]
+   }
+  ]
+ }
+}

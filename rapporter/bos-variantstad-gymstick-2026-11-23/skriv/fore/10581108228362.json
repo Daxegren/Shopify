@@ -1,0 +1,108 @@
+{
+ "id": "gid://shopify/Product/10581108228362",
+ "title": "Kinesiology Tape Gymstick, 5 m",
+ "status": "ACTIVE",
+ "tags": [
+  "Gymstick",
+  "texter-klara"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53461530116362",
+    "title": "BE",
+    "sku": "63026-BE",
+    "price": "99.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 1707,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "BE"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461530149130",
+    "title": "BL",
+    "sku": "63026-BL",
+    "price": "99.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 3953,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "BL"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461530181898",
+    "title": "CAM",
+    "sku": "63026-CAM",
+    "price": "99.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 1480,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "CAM"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461530214666",
+    "title": "FIN",
+    "sku": "63026-FIN",
+    "price": "79.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 77,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "FIN"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461530247434",
+    "title": "PI",
+    "sku": "63026-PI",
+    "price": "99.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 2766,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "PI"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461530280202",
+    "title": "TU",
+    "sku": "63026-TU",
+    "price": "99.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 2926,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "TU"
+     }
+    ]
+   }
+  ]
+ }
+}

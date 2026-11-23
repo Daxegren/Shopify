@@ -1,0 +1,63 @@
+{
+ "id": "gid://shopify/Product/10581107310858",
+ "title": "Keps Gymstick GS Snapback",
+ "status": "ACTIVE",
+ "tags": [
+  "Gymstick",
+  "texter-klara"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53461527658762",
+    "title": "BL",
+    "sku": "GS-CAP-BL",
+    "price": "249.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 116,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "BL"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461527691530",
+    "title": "R",
+    "sku": "GS-CAP-R",
+    "price": "249.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 5,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "R"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461527724298",
+    "title": "W",
+    "sku": "GS-CAP-W",
+    "price": "249.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 211,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "W"
+     }
+    ]
+   }
+  ]
+ }
+}

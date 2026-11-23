@@ -1,0 +1,49 @@
+{
+ "id": "gid://shopify/Product/10581109702922",
+ "title": "Power Vest 10kg",
+ "status": "ACTIVE",
+ "tags": [
+  "Gymstick",
+  "price-change-job-active",
+  "sale"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53461533163786",
+    "title": "Default",
+    "sku": "61048",
+    "price": "989.10",
+    "compareAtPrice": "1099.00",
+    "inventoryQuantity": 226,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461533196554",
+    "title": "20",
+    "sku": "61048-20",
+    "price": "1304.10",
+    "compareAtPrice": "1449.00",
+    "inventoryQuantity": 164,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "20"
+     }
+    ]
+   }
+  ]
+ }
+}

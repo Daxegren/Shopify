@@ -1,0 +1,124 @@
+{
+ "id": "gid://shopify/Product/10581106491658",
+ "title": "Fitness Bag 10kg",
+ "status": "ACTIVE",
+ "tags": [
+  "Gymstick",
+  "price-change-job-active",
+  "sale"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53461525758218",
+    "title": "10",
+    "sku": "62055-10",
+    "price": "764.10",
+    "compareAtPrice": "849.00",
+    "inventoryQuantity": 74,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "10"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461525790986",
+    "title": "15",
+    "sku": "62055-15",
+    "price": "854.10",
+    "compareAtPrice": "949.00",
+    "inventoryQuantity": 61,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "15"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461525823754",
+    "title": "20",
+    "sku": "62055-20",
+    "price": "989.10",
+    "compareAtPrice": "1099.00",
+    "inventoryQuantity": 46,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "20"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461525856522",
+    "title": "5",
+    "sku": "62055-5",
+    "price": "629.10",
+    "compareAtPrice": "699.00",
+    "inventoryQuantity": 80,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "5"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461525889290",
+    "title": "7,5",
+    "sku": "62055-7,5",
+    "price": "674.10",
+    "compareAtPrice": "749.00",
+    "inventoryQuantity": 33,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "7,5"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461525922058",
+    "title": "0",
+    "sku": "62055-0",
+    "price": "2699.10",
+    "compareAtPrice": "2999.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "0"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53819373748490",
+    "title": "30",
+    "sku": "62055-30",
+    "price": "1259.10",
+    "compareAtPrice": "1399.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "30"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "id": "gid://shopify/Product/10581107015946",
+ "title": "Glasvattenflaska Gymstick, 0,6 l",
+ "status": "ACTIVE",
+ "tags": [
+  "Gymstick",
+  "texter-klara"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53461527101706",
+    "title": "BL",
+    "sku": "61143-BL",
+    "price": "119.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 2544,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "BL"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461527134474",
+    "title": "PI",
+    "sku": "61143-PI",
+    "price": "119.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 58,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "PI"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461527167242",
+    "title": "TU",
+    "sku": "61143-TU",
+    "price": "119.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 186,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "TU"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "id": "gid://shopify/Product/10611406242058",
+ "title": "Active 10kg Vinyl Dumbbell Set",
+ "status": "ACTIVE",
+ "tags": [
+  "Gymstick",
+  "Hantlar",
+  "Viktset"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53632884474122",
+    "title": "10",
+    "sku": "72022-10",
+    "price": "319.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 209,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "10"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632884506890",
+    "title": "15",
+    "sku": "72022-15",
+    "price": "419.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "15"
+     }
+    ]
+   }
+  ]
+ }
+}

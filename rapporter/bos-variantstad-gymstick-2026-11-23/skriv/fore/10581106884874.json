@@ -1,0 +1,51 @@
+{
+ "id": "gid://shopify/Product/10581106884874",
+ "title": "Vikbar Gymmatta Gymstick, 300 x 120 x 5 cm",
+ "status": "ACTIVE",
+ "tags": [
+  "Gymstick",
+  "price-change-job-active",
+  "sale",
+  "texter-klara",
+  "Träningsmattor"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53461526774026",
+    "title": "BL",
+    "sku": "61205-BL",
+    "price": "1034.10",
+    "compareAtPrice": "1149.00",
+    "inventoryQuantity": 17,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "BL"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461526806794",
+    "title": "BLU",
+    "sku": "61205-BLU",
+    "price": "1034.10",
+    "compareAtPrice": "1149.00",
+    "inventoryQuantity": 54,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "BLU"
+     }
+    ]
+   }
+  ]
+ }
+}

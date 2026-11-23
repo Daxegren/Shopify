@@ -1,0 +1,125 @@
+{
+ "id": "gid://shopify/Product/10581110358282",
+ "title": "Pro PU Viktplatta 1,25kg / styck",
+ "status": "ACTIVE",
+ "tags": [
+  "Gymstick",
+  "price-change-job-active",
+  "sale",
+  "Viktplattor"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53461536211210",
+    "title": "1,25",
+    "sku": "PRO PU-1,25",
+    "price": "98.10",
+    "compareAtPrice": "109.00",
+    "inventoryQuantity": 47,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "1,25"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461536243978",
+    "title": "10",
+    "sku": "PRO PU-10",
+    "price": "584.10",
+    "compareAtPrice": "649.00",
+    "inventoryQuantity": 116,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "10"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461536276746",
+    "title": "15",
+    "sku": "PRO PU-15",
+    "price": "764.10",
+    "compareAtPrice": "849.00",
+    "inventoryQuantity": 76,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "15"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461536309514",
+    "title": "2,5",
+    "sku": "PRO PU-2,5",
+    "price": "179.10",
+    "compareAtPrice": "199.00",
+    "inventoryQuantity": 144,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "2,5"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461536342282",
+    "title": "20",
+    "sku": "PRO PU-20",
+    "price": "1079.10",
+    "compareAtPrice": "1199.00",
+    "inventoryQuantity": 74,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "20"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461536375050",
+    "title": "25",
+    "sku": "PRO PU-25",
+    "price": "1286.10",
+    "compareAtPrice": "1429.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "25"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461536407818",
+    "title": "5",
+    "sku": "PRO PU-5",
+    "price": "332.10",
+    "compareAtPrice": "369.00",
+    "inventoryQuantity": 93,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "5"
+     }
+    ]
+   }
+  ]
+ }
+}

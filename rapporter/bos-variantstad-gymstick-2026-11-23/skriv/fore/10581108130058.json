@@ -1,0 +1,125 @@
+{
+ "id": "gid://shopify/Product/10581108130058",
+ "title": "Järnviktskiva 1,25kg",
+ "status": "ACTIVE",
+ "tags": [
+  "Gymstick",
+  "price-change-job-active",
+  "sale",
+  "Viktplattor"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53461529657610",
+    "title": "1,25",
+    "sku": "IP-1,25",
+    "price": "71.10",
+    "compareAtPrice": "79.00",
+    "inventoryQuantity": 69,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "1,25"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461529690378",
+    "title": "10",
+    "sku": "IP-10",
+    "price": "503.10",
+    "compareAtPrice": "559.00",
+    "inventoryQuantity": 178,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "10"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461529723146",
+    "title": "15",
+    "sku": "IP-15",
+    "price": "719.10",
+    "compareAtPrice": "799.00",
+    "inventoryQuantity": 117,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "15"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461529755914",
+    "title": "2,5",
+    "sku": "IP-2,5",
+    "price": "152.10",
+    "compareAtPrice": "169.00",
+    "inventoryQuantity": 437,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "2,5"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461529788682",
+    "title": "20",
+    "sku": "IP-20",
+    "price": "899.10",
+    "compareAtPrice": "999.00",
+    "inventoryQuantity": 96,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "20"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461529821450",
+    "title": "5",
+    "sku": "IP-5",
+    "price": "269.10",
+    "compareAtPrice": "299.00",
+    "inventoryQuantity": 377,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "5"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461529854218",
+    "title": "RACK",
+    "sku": "IP-RACK",
+    "price": "1439.10",
+    "compareAtPrice": "1599.00",
+    "inventoryQuantity": 15,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "RACK"
+     }
+    ]
+   }
+  ]
+ }
+}

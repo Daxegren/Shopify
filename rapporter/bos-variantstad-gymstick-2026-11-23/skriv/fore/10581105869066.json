@@ -1,0 +1,63 @@
+{
+ "id": "gid://shopify/Product/10581105869066",
+ "title": "Chinsstång Gymstick Door Gym Bar, för Dörrkarm",
+ "status": "ACTIVE",
+ "tags": [
+  "Gymstick",
+  "texter-klara"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53461524611338",
+    "title": "BL",
+    "sku": "61029-BL",
+    "price": "259.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "BL"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461524644106",
+    "title": "Default",
+    "sku": "61029",
+    "price": "259.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 756,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461524676874",
+    "title": "WH",
+    "sku": "61029-WH",
+    "price": "259.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 556,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "WH"
+     }
+    ]
+   }
+  ]
+ }
+}

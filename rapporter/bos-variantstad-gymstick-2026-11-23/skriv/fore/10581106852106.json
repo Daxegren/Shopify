@@ -1,0 +1,66 @@
+{
+ "id": "gid://shopify/Product/10581106852106",
+ "title": "Hopfällbar Gymmatta Gymstick, 200 x 100 x 5 cm",
+ "status": "ACTIVE",
+ "tags": [
+  "Gymstick",
+  "price-change-job-active",
+  "sale",
+  "texter-klara",
+  "Träningsmattor"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53461526675722",
+    "title": "BL",
+    "sku": "61206-BL",
+    "price": "989.10",
+    "compareAtPrice": "1099.00",
+    "inventoryQuantity": 159,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "BL"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461526708490",
+    "title": "BLU",
+    "sku": "61206-BLU",
+    "price": "989.10",
+    "compareAtPrice": "1099.00",
+    "inventoryQuantity": 42,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "BLU"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461526741258",
+    "title": "MS",
+    "sku": "61206-MS",
+    "price": "989.10",
+    "compareAtPrice": "1099.00",
+    "inventoryQuantity": 132,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "MS"
+     }
+    ]
+   }
+  ]
+ }
+}

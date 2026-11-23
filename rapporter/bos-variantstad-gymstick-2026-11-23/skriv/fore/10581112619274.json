@@ -1,0 +1,78 @@
+{
+ "id": "gid://shopify/Product/10581112619274",
+ "title": "Vattenflaska Gymstick, 0,70 l",
+ "status": "ACTIVE",
+ "tags": [
+  "Gymstick",
+  "texter-klara"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53461544370442",
+    "title": "BL",
+    "sku": "61145-BL",
+    "price": "59.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 178,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "BL"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461544403210",
+    "title": "LI",
+    "sku": "61145-LI",
+    "price": "59.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 849,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "LI"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461544435978",
+    "title": "PI",
+    "sku": "61145-PI",
+    "price": "59.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 226,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "PI"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461544468746",
+    "title": "TU",
+    "sku": "61145-TU",
+    "price": "59.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 609,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "TU"
+     }
+    ]
+   }
+  ]
+ }
+}

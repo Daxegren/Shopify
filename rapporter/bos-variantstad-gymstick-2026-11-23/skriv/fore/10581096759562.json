@@ -1,0 +1,49 @@
+{
+ "id": "gid://shopify/Product/10581096759562",
+ "title": "Träningsmatta Gymstick Aktiv",
+ "status": "ACTIVE",
+ "tags": [
+  "Gymstick",
+  "texter-klara",
+  "Träningsmattor"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53461489778954",
+    "title": "BL",
+    "sku": "72004-BL",
+    "price": "159.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "BL"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461489811722",
+    "title": "PI",
+    "sku": "72004-PI",
+    "price": "159.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "PI"
+     }
+    ]
+   }
+  ]
+ }
+}
