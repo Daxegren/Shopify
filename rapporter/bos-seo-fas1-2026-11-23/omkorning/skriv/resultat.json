@@ -10,5 +10,21 @@
  "skidor": {
   "status": "verifierad",
   "fel": []
+ },
+ "skivstang-30-mm": {
+  "status": "verifierad",
+  "fel": []
+ },
+ "skivstang-50-mm": {
+  "status": "verifierad",
+  "fel": []
+ },
+ "viktskiva-30-31mm": {
+  "status": "verifierad",
+  "fel": []
+ },
+ "yogamatta": {
+  "status": "verifierad",
+  "fel": []
  }
 }
