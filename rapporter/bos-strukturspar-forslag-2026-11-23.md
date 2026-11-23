@@ -44,3 +44,26 @@ Avpublicering eller omdirigering av en kollektion görs av David i admin. Innan 
 ## D. fria-vikter
 
 Bred överkategori (172 köpbara). Vänta till fas 3 (intern länkning) och skriv navigeringstext då.
+
+## E. Tillägg efter Davids besked (2026-11-23): fyll kollektionerna innan något arkiveras
+
+David: Gorilla Sports-produkter hör hemma i BOS och kan ligga i kategorierna; arkivera och omdirigera bara när inga andra produkter, från något varumärke, passar. Jag har därför sökt i hela butiken (läsning, aktiva produkter med lager över 0) efter produkter som passar varje kollektion men inte når den. Kollektionerna styrs av taggar, så produkter med passande titel saknas när taggen inte finns. Det här är **förslag**: att lägga till taggar är en produktändring som kräver eget ja, och produkter med `price-change-job-active` ska behandlas enligt gällande regel.
+
+| Kollektion | I kollektionen i dag (köpbara) | Passande aktiva produkter med lager i butiken (urval) | Förslag |
+|---|---|---|---|
+| hantelset | 0 | minst 12 produkter med "Hantelset" i titeln: Tunturi (flera), Toorx, Gymstick och Gorilla Sports Norden ("Skivstång och Hantelset, 23 kg") | fyll via tagg; når med god marginal 5 |
+| power-rack | 3 | Tunturi Half Rack, BH Fitness (Power Rack, Power Cage, Power Cage med Lat Pull Down); Gorilla Sports Norden har 7 racks men alla är utkast med lager 0 | fyll via tagg (4 till, med BH Fitness och Half Rack); GS-racks aktiveras först om de ska säljas |
+| wall-ball-1 | 3 | Tunturi Väggboll 10 kg och Wall Ball 6 kg, Gymstick Wall Ball, Gorilla Sports Norden Wall Ball Paket | fyll via tagg |
+| battle-rope | 2 | Tunturi (3 rep, väggfäste, markankare), Gymstick Battle Rope Mount | fyll via tagg; avgör om tillbehör ska med |
+| plyobox | 3 | Tunturi (3), Gymstick (2) | fyll via tagg; når 8 |
+| sandsack | 2 | 3 Gorilla Sports Norden (Powerbag, Bulgarian Bag), inga andra märken | **för få**: slå ihop med viktsäckar/ta bort, om inte fler produkter aktiveras |
+| staende-boxningssack | 1 | Tunturi, Toorx, MAXXUS, Gorilla Sports Norden (Body Opponent Bag, E-Series); flera hänger | fyll via tagg, men håll isär stående och hängande säckar; granska titel för titel |
+| rak-bank | 3 | 30+ träningsbänkar (Tunturi, Hammer, Finnlo, Christopeit, BH Fitness m.fl.) | kollektionen är i praktiken **träningsbänkar**; byt regel/namn (kolla mot den befintliga träningsbank-kollektionen först så att de inte dubblerar varandra) |
+| bankpress | 1 | 2 Tunturi-bänkar | **för få**: slå ihop med träningsbänkar och omdirigera |
+| viktskivstall | 1 | 2 Gorilla Sports Norden-viktställ (varav ett redan i kollektionen) | **för få**: slå ihop med hantel-/skivställ eller aktivera utkast |
+| vattenflaska | 1 | Gymstick (3 flaskor, mycket lager), Trec, Nils Extreme, Elite, GS Shaker | fyll via tagg; cykelflaskhållare ska inte med |
+| boxningstillbehor | 2 | ca 30 boxningsprodukter (handskar, tassar, innerhandskar, väggfäste m.m.) från Tunturi, Toorx, Hammer, Gymstick | fyll via tagg; når med god marginal |
+
+Slutsats: av 12 kollektioner kan **9** fyllas så att de når fem köpbara, och **3** (sandsack, bankpress, viktskivstall) har för få passande produkter och är kandidater för arkivering/omdirigering enligt Davids regel (efter kontroll av Search Console och interna länkar). `rak-bank` är ett namn-/regelfall.
+
+Nästa steg: ett tagg-förslag per kollektion (lista över exakta produkter att tagga) som David godkänner före skrivning. Ingen ändring är gjord.
