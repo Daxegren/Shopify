@@ -1,0 +1,724 @@
+[
+ {
+  "produkt_id": "gid://shopify/Product/10581096759562",
+  "varianter": [
+   {
+    "fran_sku": "72004-BL",
+    "fran_namn": "BL",
+    "ny_sku": null,
+    "nytt_namn": "Svart"
+   },
+   {
+    "fran_sku": "72004-PI",
+    "fran_namn": "PI",
+    "ny_sku": null,
+    "nytt_namn": "Rosa"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10581101641994",
+  "varianter": [
+   {
+    "fran_sku": "OB-15",
+    "fran_namn": "15",
+    "ny_sku": null,
+    "nytt_namn": "15 kg"
+   },
+   {
+    "fran_sku": "OB-20",
+    "fran_namn": "20",
+    "ny_sku": null,
+    "nytt_namn": "20 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10581102231818",
+  "varianter": [
+   {
+    "fran_sku": "61070-15",
+    "fran_namn": "15",
+    "ny_sku": null,
+    "nytt_namn": "15 kg"
+   },
+   {
+    "fran_sku": "61070-20",
+    "fran_namn": "20",
+    "ny_sku": null,
+    "nytt_namn": "20 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10581104427274",
+  "varianter": [
+   {
+    "fran_sku": "61200-BL",
+    "fran_namn": "BL",
+    "ny_sku": null,
+    "nytt_namn": "Svart"
+   },
+   {
+    "fran_sku": "61200-BLU",
+    "fran_namn": "BLU",
+    "ny_sku": null,
+    "nytt_namn": "Blå"
+   },
+   {
+    "fran_sku": "61200-PI",
+    "fran_namn": "PI",
+    "ny_sku": null,
+    "nytt_namn": "Rosa"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10581105672458",
+  "varianter": [
+   {
+    "fran_sku": "61110-45",
+    "fran_namn": "45",
+    "ny_sku": null,
+    "nytt_namn": "45 cm"
+   },
+   {
+    "fran_sku": "61110-90",
+    "fran_namn": "90",
+    "ny_sku": null,
+    "nytt_namn": "90 cm"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10581105869066",
+  "varianter": [
+   {
+    "fran_sku": "61029-BL",
+    "fran_namn": "BL",
+    "ny_sku": null,
+    "nytt_namn": "Svart"
+   },
+   {
+    "fran_sku": "61029-WH",
+    "fran_namn": "WH",
+    "ny_sku": null,
+    "nytt_namn": "Vit"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10581106491658",
+  "varianter": [
+   {
+    "fran_sku": "62055-10",
+    "fran_namn": "10",
+    "ny_sku": null,
+    "nytt_namn": "10 kg"
+   },
+   {
+    "fran_sku": "62055-15",
+    "fran_namn": "15",
+    "ny_sku": null,
+    "nytt_namn": "15 kg"
+   },
+   {
+    "fran_sku": "62055-20",
+    "fran_namn": "20",
+    "ny_sku": null,
+    "nytt_namn": "20 kg"
+   },
+   {
+    "fran_sku": "62055-5",
+    "fran_namn": "5",
+    "ny_sku": null,
+    "nytt_namn": "5 kg"
+   },
+   {
+    "fran_sku": "62055-7,5",
+    "fran_namn": "7,5",
+    "ny_sku": null,
+    "nytt_namn": "7,5 kg"
+   },
+   {
+    "fran_sku": "62055-30",
+    "fran_namn": "30",
+    "ny_sku": null,
+    "nytt_namn": "30 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10581106819338",
+  "varianter": [
+   {
+    "fran_sku": "61207-BL",
+    "fran_namn": "BL",
+    "ny_sku": null,
+    "nytt_namn": "Svart"
+   },
+   {
+    "fran_sku": "61207-BLU",
+    "fran_namn": "BLU",
+    "ny_sku": null,
+    "nytt_namn": "Blå"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10581106852106",
+  "varianter": [
+   {
+    "fran_sku": "61206-BL",
+    "fran_namn": "BL",
+    "ny_sku": null,
+    "nytt_namn": "Svart"
+   },
+   {
+    "fran_sku": "61206-BLU",
+    "fran_namn": "BLU",
+    "ny_sku": null,
+    "nytt_namn": "Blå"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10581106884874",
+  "varianter": [
+   {
+    "fran_sku": "61205-BL",
+    "fran_namn": "BL",
+    "ny_sku": null,
+    "nytt_namn": "Svart"
+   },
+   {
+    "fran_sku": "61205-BLU",
+    "fran_namn": "BLU",
+    "ny_sku": null,
+    "nytt_namn": "Blå"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10581107015946",
+  "varianter": [
+   {
+    "fran_sku": "61143-BL",
+    "fran_namn": "BL",
+    "ny_sku": null,
+    "nytt_namn": "Svart"
+   },
+   {
+    "fran_sku": "61143-PI",
+    "fran_namn": "PI",
+    "ny_sku": null,
+    "nytt_namn": "Rosa"
+   },
+   {
+    "fran_sku": "61143-TU",
+    "fran_namn": "TU",
+    "ny_sku": null,
+    "nytt_namn": "Turkos"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10581107245322",
+  "varianter": [
+   {
+    "fran_sku": "GS-BEA-BL",
+    "fran_namn": "BL",
+    "ny_sku": null,
+    "nytt_namn": "Svart"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10581107310858",
+  "varianter": [
+   {
+    "fran_sku": "GS-CAP-BL",
+    "fran_namn": "BL",
+    "ny_sku": null,
+    "nytt_namn": "Svart"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10581107802378",
+  "varianter": [
+   {
+    "fran_sku": "61183-20",
+    "fran_namn": "20",
+    "ny_sku": null,
+    "nytt_namn": "20 kg"
+   },
+   {
+    "fran_sku": "61183-30",
+    "fran_namn": "30",
+    "ny_sku": null,
+    "nytt_namn": "30 kg"
+   },
+   {
+    "fran_sku": "61183-45",
+    "fran_namn": "45",
+    "ny_sku": null,
+    "nytt_namn": "45 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10581107867914",
+  "varianter": [
+   {
+    "fran_sku": "BPHI-10",
+    "fran_namn": "10",
+    "ny_sku": null,
+    "nytt_namn": "10 kg"
+   },
+   {
+    "fran_sku": "BPHI-15",
+    "fran_namn": "15",
+    "ny_sku": null,
+    "nytt_namn": "15 kg"
+   },
+   {
+    "fran_sku": "BPHI-20",
+    "fran_namn": "20",
+    "ny_sku": null,
+    "nytt_namn": "20 kg"
+   },
+   {
+    "fran_sku": "BPHI-25",
+    "fran_namn": "25",
+    "ny_sku": null,
+    "nytt_namn": "25 kg"
+   },
+   {
+    "fran_sku": "BPHI-5",
+    "fran_namn": "5",
+    "ny_sku": null,
+    "nytt_namn": "5 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10581108130058",
+  "varianter": [
+   {
+    "fran_sku": "IP-1,25",
+    "fran_namn": "1,25",
+    "ny_sku": null,
+    "nytt_namn": "1,25 kg"
+   },
+   {
+    "fran_sku": "IP-10",
+    "fran_namn": "10",
+    "ny_sku": null,
+    "nytt_namn": "10 kg"
+   },
+   {
+    "fran_sku": "IP-15",
+    "fran_namn": "15",
+    "ny_sku": null,
+    "nytt_namn": "15 kg"
+   },
+   {
+    "fran_sku": "IP-2,5",
+    "fran_namn": "2,5",
+    "ny_sku": null,
+    "nytt_namn": "2,5 kg"
+   },
+   {
+    "fran_sku": "IP-20",
+    "fran_namn": "20",
+    "ny_sku": null,
+    "nytt_namn": "20 kg"
+   },
+   {
+    "fran_sku": "IP-5",
+    "fran_namn": "5",
+    "ny_sku": null,
+    "nytt_namn": "5 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10581108228362",
+  "varianter": [
+   {
+    "fran_sku": "63026-BE",
+    "fran_namn": "BE",
+    "ny_sku": null,
+    "nytt_namn": "Beige"
+   },
+   {
+    "fran_sku": "63026-BL",
+    "fran_namn": "BL",
+    "ny_sku": null,
+    "nytt_namn": "Svart"
+   },
+   {
+    "fran_sku": "63026-CAM",
+    "fran_namn": "CAM",
+    "ny_sku": null,
+    "nytt_namn": "Kamouflage"
+   },
+   {
+    "fran_sku": "63026-PI",
+    "fran_namn": "PI",
+    "ny_sku": null,
+    "nytt_namn": "Rosa"
+   },
+   {
+    "fran_sku": "63026-TU",
+    "fran_namn": "TU",
+    "ny_sku": null,
+    "nytt_namn": "Turkos"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10581109702922",
+  "varianter": [
+   {
+    "fran_sku": "61048-20",
+    "fran_namn": "20",
+    "ny_sku": null,
+    "nytt_namn": "20 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10581110358282",
+  "varianter": [
+   {
+    "fran_sku": "PRO PU-1,25",
+    "fran_namn": "1,25",
+    "ny_sku": null,
+    "nytt_namn": "1,25 kg"
+   },
+   {
+    "fran_sku": "PRO PU-10",
+    "fran_namn": "10",
+    "ny_sku": null,
+    "nytt_namn": "10 kg"
+   },
+   {
+    "fran_sku": "PRO PU-15",
+    "fran_namn": "15",
+    "ny_sku": null,
+    "nytt_namn": "15 kg"
+   },
+   {
+    "fran_sku": "PRO PU-2,5",
+    "fran_namn": "2,5",
+    "ny_sku": null,
+    "nytt_namn": "2,5 kg"
+   },
+   {
+    "fran_sku": "PRO PU-20",
+    "fran_namn": "20",
+    "ny_sku": null,
+    "nytt_namn": "20 kg"
+   },
+   {
+    "fran_sku": "PRO PU-25",
+    "fran_namn": "25",
+    "ny_sku": null,
+    "nytt_namn": "25 kg"
+   },
+   {
+    "fran_sku": "PRO PU-5",
+    "fran_namn": "5",
+    "ny_sku": null,
+    "nytt_namn": "5 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10581111243018",
+  "varianter": [
+   {
+    "fran_sku": "RWP-1,25",
+    "fran_namn": "1,25",
+    "ny_sku": null,
+    "nytt_namn": "1,25 kg"
+   },
+   {
+    "fran_sku": "RWP-10",
+    "fran_namn": "10",
+    "ny_sku": null,
+    "nytt_namn": "10 kg"
+   },
+   {
+    "fran_sku": "RWP-15",
+    "fran_namn": "15",
+    "ny_sku": null,
+    "nytt_namn": "15 kg"
+   },
+   {
+    "fran_sku": "RWP-2,5",
+    "fran_namn": "2,5",
+    "ny_sku": null,
+    "nytt_namn": "2,5 kg"
+   },
+   {
+    "fran_sku": "RWP-20",
+    "fran_namn": "20",
+    "ny_sku": null,
+    "nytt_namn": "20 kg"
+   },
+   {
+    "fran_sku": "RWP-25",
+    "fran_namn": "25",
+    "ny_sku": null,
+    "nytt_namn": "25 kg"
+   },
+   {
+    "fran_sku": "RWP-5",
+    "fran_namn": "5",
+    "ny_sku": null,
+    "nytt_namn": "5 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10581112619274",
+  "varianter": [
+   {
+    "fran_sku": "61145-BL",
+    "fran_namn": "BL",
+    "ny_sku": null,
+    "nytt_namn": "Svart"
+   },
+   {
+    "fran_sku": "61145-PI",
+    "fran_namn": "PI",
+    "ny_sku": null,
+    "nytt_namn": "Rosa"
+   },
+   {
+    "fran_sku": "61145-TU",
+    "fran_namn": "TU",
+    "ny_sku": null,
+    "nytt_namn": "Turkos"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10581112652042",
+  "varianter": [
+   {
+    "fran_sku": "61144-PI",
+    "fran_namn": "PI",
+    "ny_sku": null,
+    "nytt_namn": "Rosa"
+   },
+   {
+    "fran_sku": "61144-TU",
+    "fran_namn": "TU",
+    "ny_sku": null,
+    "nytt_namn": "Turkos"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10611406242058",
+  "varianter": [
+   {
+    "fran_sku": "72022-10",
+    "fran_namn": "10",
+    "ny_sku": null,
+    "nytt_namn": "10 kg"
+   },
+   {
+    "fran_sku": "72022-15",
+    "fran_namn": "15",
+    "ny_sku": null,
+    "nytt_namn": "15 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10611415220490",
+  "varianter": [
+   {
+    "fran_sku": "61051-10",
+    "fran_namn": "10",
+    "ny_sku": null,
+    "nytt_namn": "10 kg"
+   },
+   {
+    "fran_sku": "61051-3",
+    "fran_namn": "3",
+    "ny_sku": null,
+    "nytt_namn": "3 kg"
+   },
+   {
+    "fran_sku": "61051-4",
+    "fran_namn": "4",
+    "ny_sku": null,
+    "nytt_namn": "4 kg"
+   },
+   {
+    "fran_sku": "61051-6",
+    "fran_namn": "6",
+    "ny_sku": null,
+    "nytt_namn": "6 kg"
+   },
+   {
+    "fran_sku": "61051-8",
+    "fran_namn": "8",
+    "ny_sku": null,
+    "nytt_namn": "8 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10611418398986",
+  "varianter": [
+   {
+    "fran_sku": "BP-10",
+    "fran_namn": "10",
+    "ny_sku": null,
+    "nytt_namn": "10 kg"
+   },
+   {
+    "fran_sku": "BP-15",
+    "fran_namn": "15",
+    "ny_sku": null,
+    "nytt_namn": "15 kg"
+   },
+   {
+    "fran_sku": "BP-20",
+    "fran_namn": "20",
+    "ny_sku": null,
+    "nytt_namn": "20 kg"
+   },
+   {
+    "fran_sku": "BP-25",
+    "fran_namn": "25",
+    "ny_sku": null,
+    "nytt_namn": "25 kg"
+   },
+   {
+    "fran_sku": "BP-5",
+    "fran_namn": "5",
+    "ny_sku": null,
+    "nytt_namn": "5 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10611433537802",
+  "varianter": [
+   {
+    "fran_sku": "61072-1,5",
+    "fran_namn": "1,5",
+    "ny_sku": null,
+    "nytt_namn": "1,5 kg"
+   },
+   {
+    "fran_sku": "61072-10",
+    "fran_namn": "10",
+    "ny_sku": null,
+    "nytt_namn": "10 kg"
+   },
+   {
+    "fran_sku": "61072-1",
+    "fran_namn": "1",
+    "ny_sku": null,
+    "nytt_namn": "1 kg"
+   },
+   {
+    "fran_sku": "61072-2",
+    "fran_namn": "2",
+    "ny_sku": null,
+    "nytt_namn": "2 kg"
+   },
+   {
+    "fran_sku": "61072-3",
+    "fran_namn": "3",
+    "ny_sku": null,
+    "nytt_namn": "3 kg"
+   },
+   {
+    "fran_sku": "61072-4",
+    "fran_namn": "4",
+    "ny_sku": null,
+    "nytt_namn": "4 kg"
+   },
+   {
+    "fran_sku": "61072-5",
+    "fran_namn": "5",
+    "ny_sku": null,
+    "nytt_namn": "5 kg"
+   },
+   {
+    "fran_sku": "61072-6",
+    "fran_namn": "6",
+    "ny_sku": null,
+    "nytt_namn": "6 kg"
+   },
+   {
+    "fran_sku": "61072-7",
+    "fran_namn": "7",
+    "ny_sku": null,
+    "nytt_namn": "7 kg"
+   },
+   {
+    "fran_sku": "61072-8",
+    "fran_namn": "8",
+    "ny_sku": null,
+    "nytt_namn": "8 kg"
+   },
+   {
+    "fran_sku": "61072-9",
+    "fran_namn": "9",
+    "ny_sku": null,
+    "nytt_namn": "9 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10611438420234",
+  "varianter": [
+   {
+    "fran_sku": "61142-BL",
+    "fran_namn": "BL",
+    "ny_sku": null,
+    "nytt_namn": "Svart"
+   },
+   {
+    "fran_sku": "61142-PI",
+    "fran_namn": "PI",
+    "ny_sku": null,
+    "nytt_namn": "Rosa"
+   },
+   {
+    "fran_sku": "61142-WH",
+    "fran_namn": "WH",
+    "ny_sku": null,
+    "nytt_namn": "Vit"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10611442188554",
+  "varianter": [
+   {
+    "fran_sku": "61047-2,5",
+    "fran_namn": "2,5",
+    "ny_sku": null,
+    "nytt_namn": "2,5 kg"
+   },
+   {
+    "fran_sku": "61047-5",
+    "fran_namn": "5",
+    "ny_sku": null,
+    "nytt_namn": "5 kg"
+   }
+  ]
+ }
+]

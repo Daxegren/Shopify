@@ -28,3 +28,23 @@ Gymstick-produkterna hanteras av `ftp-product-sync` (inte Velomarket-synken). **
 ## Rättelse 2026-11-23 (tillägg; ursprungstexten ovan är oförändrad)
 
 I analysen ovan står "BL = blå". Det är fel: **BL är svart och BLU är blå**. Båda finns på samma produkt (Air Track har varianterna BL, BLU och PI), och shakern med BL, PI och WH har handle `shakerflaska-600ml-svart`. Övriga koder som kunde verifieras: PI = rosa, WH = vit, TU = turkos (Cohesive Tape heter "Turkos"), BE = beige, CAM = kamouflage. CSV-filen `bos-variantnamn-gymstick-forslag-2026-11-23.csv` har den felaktiga tolkningen av BL och ska inte användas för skrivning. PR i `ftp-product-sync` använder de rättade koderna.
+
+## Gymstick-lista efter deploy (2026-11-23)
+
+Deployen av `sync-products` (PR 26) är gjord, så nya varianter får svenska namn. För **befintliga** varianter: `rapporter/bos-variantnamn-gymstick-forslag-2026-11-23.csv` (447 varianter i 94 produkter, rättad tolkning: BL = Svart) och `rapporter/bos-variantstad-gymstick-2026-11-23/plan.json` (körbar plan).
+
+| | Antal |
+|---|---|
+| Varianter med säkert förslag | **97** (28 produkter) |
+| varav färgkoder (BL → Svart, BLU → Blå, PI → Rosa, WH → Vit, TU → Turkos, BE → Beige, CAM → Kamouflage) | 31 |
+| varav tal + kg i viktprodukter (hantlar, viktskivor, bumper plates, aerobic bar m.fl.) och tal + cm som står i titeln (Core Roller 45 och 90 cm) | 66 |
+| Manuella (ingen säker tolkning) | 350 |
+
+Manuella är bland annat tal där enheten inte går att läsa ur titeln (Gummigolv "6", "8", "30", "40" är tjocklek i mm, inte cm; jag har uteslutit dem) och koder som "MS", "WM", "GB", "03BL", "1,25PU". Rätt namn finns i Gymsticks produktinformation (XLSX), som jag inte kan läsa härifrån. Variantvikterna i Shopify är 0 kg och kan inte användas som kontroll.
+
+Pris rörs inte.
+
+## Beslut som behövs
+
+1. **Godkänn de 97 namnen** (28 produkter): kanarie på en produkt, sedan resten, med före-fil och återläsning.
+2. **De 350 manuella:** de kräver Gymsticks XLSX. Ska jag lägga till en funktion i `ftp-product-sync` som läser variantnamn ur produktinformationen (PR), eller lämnar vi dem?
