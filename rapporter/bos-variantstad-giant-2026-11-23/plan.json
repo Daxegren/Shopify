@@ -1,0 +1,934 @@
+[
+ {
+  "produkt_id": "gid://shopify/Product/10523488387338",
+  "varianter": [
+   {
+    "fran_sku": "3009011118",
+    "fran_namn": "Default Title",
+    "ny_sku": "3009011115",
+    "nytt_namn": "M / Grå"
+   },
+   {
+    "fran_sku": "3009011118",
+    "fran_namn": "XL / gray",
+    "ny_sku": null,
+    "nytt_namn": "XL / Grå"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10488246632714",
+  "varianter": [
+   {
+    "fran_sku": "2206041185",
+    "fran_namn": "Default Title",
+    "ny_sku": null,
+    "nytt_namn": "M / Svart"
+   },
+   {
+    "fran_sku": "2206041187",
+    "fran_namn": "L / black",
+    "ny_sku": null,
+    "nytt_namn": "L / Svart"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10472333181194",
+  "varianter": [
+   {
+    "fran_sku": "1082012184",
+    "fran_namn": "Default Title",
+    "ny_sku": "1082012185",
+    "nytt_namn": "M / Svart"
+   },
+   {
+    "fran_sku": "1082012188",
+    "fran_namn": "XL / black",
+    "ny_sku": null,
+    "nytt_namn": "XL / Svart"
+   },
+   {
+    "fran_sku": "1082012184",
+    "fran_namn": "S / black",
+    "ny_sku": null,
+    "nytt_namn": "S / Svart"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10470924222730",
+  "varianter": [
+   {
+    "fran_sku": "2201130288",
+    "fran_namn": "Default Title",
+    "ny_sku": "2201130285",
+    "nytt_namn": "M / Brun"
+   },
+   {
+    "fran_sku": "2201130287",
+    "fran_namn": "L / brown",
+    "ny_sku": null,
+    "nytt_namn": "L / Brun"
+   },
+   {
+    "fran_sku": "2201130288",
+    "fran_namn": "XL / brown",
+    "ny_sku": null,
+    "nytt_namn": "XL / Brun"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10462199120138",
+  "varianter": [
+   {
+    "fran_sku": "2201126288",
+    "fran_namn": "Default Title",
+    "ny_sku": null,
+    "nytt_namn": "XL / Blå"
+   },
+   {
+    "fran_sku": "2201126287",
+    "fran_namn": "L / blue",
+    "ny_sku": null,
+    "nytt_namn": "L / Blå"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10472298119434",
+  "varianter": [
+   {
+    "fran_sku": "2201111215",
+    "fran_namn": "Default Title",
+    "ny_sku": null,
+    "nytt_namn": "M / Orange"
+   },
+   {
+    "fran_sku": "2201111285",
+    "fran_namn": "M / oranž",
+    "ny_sku": null,
+    "nytt_namn": "M / Orange"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10708319895818",
+  "varianter": [
+   {
+    "fran_sku": "1095020187",
+    "fran_namn": "Default Title",
+    "ny_sku": "1095020185",
+    "nytt_namn": "M / Svart"
+   },
+   {
+    "fran_sku": "1095020187",
+    "fran_namn": "L / black",
+    "ny_sku": null,
+    "nytt_namn": "L / Svart"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10487987044618",
+  "varianter": [
+   {
+    "fran_sku": "1119022144",
+    "fran_namn": "Default Title",
+    "ny_sku": null,
+    "nytt_namn": "S / Lila"
+   },
+   {
+    "fran_sku": "1119022147",
+    "fran_namn": "L / purple",
+    "ny_sku": null,
+    "nytt_namn": "L / Lila"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10502528336138",
+  "varianter": [
+   {
+    "fran_sku": "1119019185",
+    "fran_namn": "Default Title",
+    "ny_sku": "1119019184",
+    "nytt_namn": "S / Svart"
+   },
+   {
+    "fran_sku": "1119019185",
+    "fran_namn": "M / black",
+    "ny_sku": null,
+    "nytt_namn": "M / Svart"
+   },
+   {
+    "fran_sku": "1119019187",
+    "fran_namn": "L / black",
+    "ny_sku": null,
+    "nytt_namn": "L / Svart"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10472291369226",
+  "varianter": [
+   {
+    "fran_sku": "1119018217",
+    "fran_namn": "Default Title",
+    "ny_sku": null,
+    "nytt_namn": "L / Blå"
+   },
+   {
+    "fran_sku": "1119018215",
+    "fran_namn": "M / sinine",
+    "ny_sku": null,
+    "nytt_namn": "M / Blå"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10593839513866",
+  "varianter": [
+   {
+    "fran_sku": "5060018104",
+    "fran_namn": "Default Title",
+    "ny_sku": null,
+    "nytt_namn": "S / Grön"
+   },
+   {
+    "fran_sku": "5060018105",
+    "fran_namn": "M / green",
+    "ny_sku": null,
+    "nytt_namn": "M / Grön"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10635809849610",
+  "varianter": [
+   {
+    "fran_sku": "5332005188",
+    "fran_namn": "Default Title",
+    "ny_sku": "5332005184",
+    "nytt_namn": "S / Vit"
+   },
+   {
+    "fran_sku": "5332005188",
+    "fran_namn": "XL / white",
+    "ny_sku": null,
+    "nytt_namn": "XL / Vit"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10472254308618",
+  "varianter": [
+   {
+    "fran_sku": "2303704105",
+    "fran_namn": "Default Title",
+    "ny_sku": null,
+    "nytt_namn": "M / Grön"
+   },
+   {
+    "fran_sku": "2303704107",
+    "fran_namn": "L / green",
+    "ny_sku": null,
+    "nytt_namn": "L / Grön"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10476239454474",
+  "varianter": [
+   {
+    "fran_sku": "5090000207",
+    "fran_namn": "Default Title",
+    "ny_sku": "5090000205",
+    "nytt_namn": "M / Blå"
+   },
+   {
+    "fran_sku": "5090000204",
+    "fran_namn": "S / sinine",
+    "ny_sku": null,
+    "nytt_namn": "S / Blå"
+   },
+   {
+    "fran_sku": "5090000207",
+    "fran_namn": "L / sinine",
+    "ny_sku": null,
+    "nytt_namn": "L / Blå"
+   },
+   {
+    "fran_sku": "5090000208",
+    "fran_namn": "XL / sinine",
+    "ny_sku": null,
+    "nytt_namn": "XL / Blå"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10468777525514",
+  "varianter": [
+   {
+    "fran_sku": "5028032108",
+    "fran_namn": "Default Title",
+    "ny_sku": "5028032104",
+    "nytt_namn": "S / Blå"
+   },
+   {
+    "fran_sku": "5028032105",
+    "fran_namn": "M / blue",
+    "ny_sku": null,
+    "nytt_namn": "M / Blå"
+   },
+   {
+    "fran_sku": "5028032107",
+    "fran_namn": "L / blue",
+    "ny_sku": null,
+    "nytt_namn": "L / Blå"
+   },
+   {
+    "fran_sku": "5028032108",
+    "fran_namn": "XL / blue",
+    "ny_sku": null,
+    "nytt_namn": "XL / Blå"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10468767170826",
+  "varianter": [
+   {
+    "fran_sku": "1082008384",
+    "fran_namn": "Default Title",
+    "ny_sku": null,
+    "nytt_namn": "S / dark Grå"
+   },
+   {
+    "fran_sku": "1082008385",
+    "fran_namn": "M / dark gray",
+    "ny_sku": null,
+    "nytt_namn": "M / dark Grå"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10656692044042",
+  "varianter": [
+   {
+    "fran_sku": "1082011288",
+    "fran_namn": "Default Title",
+    "ny_sku": "1082011285",
+    "nytt_namn": "M / Vit"
+   },
+   {
+    "fran_sku": "1082011287",
+    "fran_namn": "L / white",
+    "ny_sku": null,
+    "nytt_namn": "L / Vit"
+   },
+   {
+    "fran_sku": "1082011288",
+    "fran_namn": "XL / white",
+    "ny_sku": null,
+    "nytt_namn": "XL / Vit"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10476211929354",
+  "varianter": [
+   {
+    "fran_sku": "1080014188",
+    "fran_namn": "Default Title",
+    "ny_sku": null,
+    "nytt_namn": "XL / Grön"
+   },
+   {
+    "fran_sku": "1080014187",
+    "fran_namn": "L / green",
+    "ny_sku": null,
+    "nytt_namn": "L / Grön"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10468772708618",
+  "varianter": [
+   {
+    "fran_sku": "1080004147",
+    "fran_namn": "Default Title",
+    "ny_sku": "1080004146",
+    "nytt_namn": "M/L / Svart"
+   },
+   {
+    "fran_sku": "1080004147",
+    "fran_namn": "L / black",
+    "ny_sku": null,
+    "nytt_namn": "L / Svart"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10472296186122",
+  "varianter": [
+   {
+    "fran_sku": "1079011217",
+    "fran_namn": "Default Title",
+    "ny_sku": "1079011215",
+    "nytt_namn": "M / Grön"
+   },
+   {
+    "fran_sku": "1079011216",
+    "fran_namn": "M/L / roheline",
+    "ny_sku": null,
+    "nytt_namn": "M/L / Grön"
+   },
+   {
+    "fran_sku": "1079011217",
+    "fran_namn": "L / roheline",
+    "ny_sku": null,
+    "nytt_namn": "L / Grön"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10476168020234",
+  "varianter": [
+   {
+    "fran_sku": "1080014184",
+    "fran_namn": "Default Title",
+    "ny_sku": null,
+    "nytt_namn": "S / Grön"
+   },
+   {
+    "fran_sku": "1080014185",
+    "fran_namn": "M / roheline",
+    "ny_sku": null,
+    "nytt_namn": "M / Grön"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10476123783434",
+  "varianter": [
+   {
+    "fran_sku": "1079014147",
+    "fran_namn": "Default Title",
+    "ny_sku": "1079014145",
+    "nytt_namn": "M / Blå"
+   },
+   {
+    "fran_sku": "1079014147",
+    "fran_namn": "L / blue",
+    "ny_sku": null,
+    "nytt_namn": "L / Blå"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10530207531274",
+  "varianter": [
+   {
+    "fran_sku": "1080018186",
+    "fran_namn": "Default Title",
+    "ny_sku": "1080018185",
+    "nytt_namn": "M / Grå"
+   },
+   {
+    "fran_sku": "1080018186",
+    "fran_namn": "M/L / hall",
+    "ny_sku": null,
+    "nytt_namn": "M/L / Grå"
+   },
+   {
+    "fran_sku": "1080018188",
+    "fran_namn": "XL / hall",
+    "ny_sku": null,
+    "nytt_namn": "XL / Grå"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10526099603722",
+  "varianter": [
+   {
+    "fran_sku": "830001404",
+    "fran_namn": "Default Title",
+    "ny_sku": "830001403",
+    "nytt_namn": "M"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10526099439882",
+  "varianter": [
+   {
+    "fran_sku": "830001439",
+    "fran_namn": "Default Title",
+    "ny_sku": null,
+    "nytt_namn": "L"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10526099407114",
+  "varianter": [
+   {
+    "fran_sku": "830001428",
+    "fran_namn": "Default Title",
+    "ny_sku": null,
+    "nytt_namn": "M"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10468743151882",
+  "varianter": [
+   {
+    "fran_sku": "1024020116",
+    "fran_namn": "Default Title",
+    "ny_sku": "1024020115",
+    "nytt_namn": "M / Lila"
+   },
+   {
+    "fran_sku": "1024020116",
+    "fran_namn": "M/L / purple",
+    "ny_sku": null,
+    "nytt_namn": "M/L / Lila"
+   },
+   {
+    "fran_sku": "1024020117",
+    "fran_namn": "L / purple",
+    "ny_sku": null,
+    "nytt_namn": "L / Lila"
+   },
+   {
+    "fran_sku": "1024020118",
+    "fran_namn": "XL / purple",
+    "ny_sku": null,
+    "nytt_namn": "XL / Lila"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10624087490826",
+  "varianter": [
+   {
+    "fran_sku": "1031028147",
+    "fran_namn": "Default Title",
+    "ny_sku": "1031028145",
+    "nytt_namn": "M / Grå"
+   },
+   {
+    "fran_sku": "1031028146",
+    "fran_namn": "M/L / gray",
+    "ny_sku": null,
+    "nytt_namn": "M/L / Grå"
+   },
+   {
+    "fran_sku": "1031028147",
+    "fran_namn": "L / gray",
+    "ny_sku": null,
+    "nytt_namn": "L / Grå"
+   },
+   {
+    "fran_sku": "1031028148",
+    "fran_namn": "XL / gray",
+    "ny_sku": null,
+    "nytt_namn": "XL / Grå"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10624087523594",
+  "varianter": [
+   {
+    "fran_sku": "1031029145",
+    "fran_namn": "Default Title",
+    "ny_sku": null,
+    "nytt_namn": "M / Brun"
+   },
+   {
+    "fran_sku": "1031029147",
+    "fran_namn": "L / brown",
+    "ny_sku": null,
+    "nytt_namn": "L / Brun"
+   },
+   {
+    "fran_sku": "1031029146",
+    "fran_namn": "M/L / brown",
+    "ny_sku": null,
+    "nytt_namn": "M/L / Brun"
+   },
+   {
+    "fran_sku": "1031029148",
+    "fran_namn": "XL / brown",
+    "ny_sku": null,
+    "nytt_namn": "XL / Brun"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10476166217994",
+  "varianter": [
+   {
+    "fran_sku": "1031023147",
+    "fran_namn": "Default Title",
+    "ny_sku": "1031023145",
+    "nytt_namn": "M / Svart"
+   },
+   {
+    "fran_sku": "1031023146",
+    "fran_namn": "M/L / black",
+    "ny_sku": null,
+    "nytt_namn": "M/L / Svart"
+   },
+   {
+    "fran_sku": "1031023147",
+    "fran_namn": "L / black",
+    "ny_sku": null,
+    "nytt_namn": "L / Svart"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10472484700426",
+  "varianter": [
+   {
+    "fran_sku": "1031003248",
+    "fran_namn": "Default Title",
+    "ny_sku": "1031003247",
+    "nytt_namn": "L / Grön"
+   },
+   {
+    "fran_sku": "1031003248",
+    "fran_namn": "XL / green",
+    "ny_sku": null,
+    "nytt_namn": "XL / Grön"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10676721189130",
+  "varianter": [
+   {
+    "fran_sku": "1074033108",
+    "fran_namn": "Default Title",
+    "ny_sku": "1074033105",
+    "nytt_namn": "M / Svart"
+   },
+   {
+    "fran_sku": "1074033106",
+    "fran_namn": "M/L / black",
+    "ny_sku": null,
+    "nytt_namn": "M/L / Svart"
+   },
+   {
+    "fran_sku": "1074033107",
+    "fran_namn": "L / black",
+    "ny_sku": null,
+    "nytt_namn": "L / Svart"
+   },
+   {
+    "fran_sku": "1074033108",
+    "fran_namn": "XL / black",
+    "ny_sku": null,
+    "nytt_namn": "XL / Svart"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10480047325450",
+  "varianter": [
+   {
+    "fran_sku": "1096021146",
+    "fran_namn": "M/L / gray",
+    "ny_sku": null,
+    "nytt_namn": "M/L / Grå"
+   },
+   {
+    "fran_sku": "1096021147",
+    "fran_namn": "L / gray",
+    "ny_sku": null,
+    "nytt_namn": "L / Grå"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10471057719562",
+  "varianter": [
+   {
+    "fran_sku": "1096036146",
+    "fran_namn": "Default Title",
+    "ny_sku": "1096036145",
+    "nytt_namn": "M / Svart"
+   },
+   {
+    "fran_sku": "1096036146",
+    "fran_namn": "M/L / black",
+    "ny_sku": null,
+    "nytt_namn": "M/L / Svart"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10468733223178",
+  "varianter": [
+   {
+    "fran_sku": "1096025247",
+    "fran_namn": "Default Title",
+    "ny_sku": "1096025246",
+    "nytt_namn": "M/L / Grå"
+   },
+   {
+    "fran_sku": "1096025247",
+    "fran_namn": "L / gray",
+    "ny_sku": null,
+    "nytt_namn": "L / Grå"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10472276492554",
+  "varianter": [
+   {
+    "fran_sku": "1096031107",
+    "fran_namn": "Default Title",
+    "ny_sku": "1096031106",
+    "nytt_namn": "M/L / Svart"
+   },
+   {
+    "fran_sku": "1096031107",
+    "fran_namn": "L / black",
+    "ny_sku": null,
+    "nytt_namn": "L / Svart"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10468774674698",
+  "varianter": [
+   {
+    "fran_sku": "1110002148",
+    "fran_namn": "Default Title",
+    "ny_sku": "1110002144",
+    "nytt_namn": "S / Svart"
+   },
+   {
+    "fran_sku": "1110002147",
+    "fran_namn": "L / black",
+    "ny_sku": null,
+    "nytt_namn": "L / Svart"
+   },
+   {
+    "fran_sku": "1110002148",
+    "fran_namn": "XL / black",
+    "ny_sku": null,
+    "nytt_namn": "XL / Svart"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10468774576394",
+  "varianter": [
+   {
+    "fran_sku": "1119005148",
+    "fran_namn": "Default Title",
+    "ny_sku": "1119005144",
+    "nytt_namn": "S / Vit"
+   },
+   {
+    "fran_sku": "1119005145",
+    "fran_namn": "M / white",
+    "ny_sku": null,
+    "nytt_namn": "M / Vit"
+   },
+   {
+    "fran_sku": "1119005147",
+    "fran_namn": "L / white",
+    "ny_sku": null,
+    "nytt_namn": "L / Vit"
+   },
+   {
+    "fran_sku": "1119005148",
+    "fran_namn": "XL / white",
+    "ny_sku": null,
+    "nytt_namn": "XL / Vit"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10471123321098",
+  "varianter": [
+   {
+    "fran_sku": "1077002108",
+    "fran_namn": "Default Title",
+    "ny_sku": "1077002105",
+    "nytt_namn": "M / Röd"
+   },
+   {
+    "fran_sku": "1077002107",
+    "fran_namn": "L / Red",
+    "ny_sku": null,
+    "nytt_namn": "L / Röd"
+   },
+   {
+    "fran_sku": "1077002108",
+    "fran_namn": "XL / Red",
+    "ny_sku": null,
+    "nytt_namn": "XL / Röd"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10468712087818",
+  "varianter": [
+   {
+    "fran_sku": "1089003245",
+    "fran_namn": "Default Title",
+    "ny_sku": "1089003247",
+    "nytt_namn": "L / Grön"
+   },
+   {
+    "fran_sku": "1089003248",
+    "fran_namn": "XL / green",
+    "ny_sku": null,
+    "nytt_namn": "XL / Grön"
+   },
+   {
+    "fran_sku": "1089003245",
+    "fran_namn": "M / green",
+    "ny_sku": null,
+    "nytt_namn": "M / Grön"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10507441799434",
+  "varianter": [
+   {
+    "fran_sku": "1119020287",
+    "fran_namn": "Default Title",
+    "ny_sku": "1119020284",
+    "nytt_namn": "S / Gul"
+   },
+   {
+    "fran_sku": "1119020285",
+    "fran_namn": "M / yellow",
+    "ny_sku": null,
+    "nytt_namn": "M / Gul"
+   },
+   {
+    "fran_sku": "1119020287",
+    "fran_namn": "L / yellow",
+    "ny_sku": null,
+    "nytt_namn": "L / Gul"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10471334543626",
+  "varianter": [
+   {
+    "fran_sku": "1031025144",
+    "fran_namn": "Default Title",
+    "ny_sku": null,
+    "nytt_namn": "S / Blå"
+   },
+   {
+    "fran_sku": "1031025146",
+    "fran_namn": "M/L / blue",
+    "ny_sku": null,
+    "nytt_namn": "M/L / Blå"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10471335461130",
+  "varianter": [
+   {
+    "fran_sku": "1041009114",
+    "fran_namn": "Default Title",
+    "ny_sku": null,
+    "nytt_namn": "S / Grön"
+   },
+   {
+    "fran_sku": "1041009115",
+    "fran_namn": "M / green",
+    "ny_sku": null,
+    "nytt_namn": "M / Grön"
+   },
+   {
+    "fran_sku": "1041009117",
+    "fran_namn": "L / green",
+    "ny_sku": null,
+    "nytt_namn": "L / Grön"
+   },
+   {
+    "fran_sku": "1041009118",
+    "fran_namn": "XL / green",
+    "ny_sku": null,
+    "nytt_namn": "XL / Grön"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10476218679562",
+  "varianter": [
+   {
+    "fran_sku": "1096021148",
+    "fran_namn": "Default Title",
+    "ny_sku": "1096021143",
+    "nytt_namn": "XS / Grå"
+   },
+   {
+    "fran_sku": "1096021145",
+    "fran_namn": "M / hall",
+    "ny_sku": null,
+    "nytt_namn": "M / Grå"
+   },
+   {
+    "fran_sku": "1096021148",
+    "fran_namn": "XL / hall",
+    "ny_sku": null,
+    "nytt_namn": "XL / Grå"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10472322138378",
+  "varianter": [
+   {
+    "fran_sku": "1096036148",
+    "fran_namn": "Default Title",
+    "ny_sku": "1096036143",
+    "nytt_namn": "XS / Svart"
+   },
+   {
+    "fran_sku": "1096036148",
+    "fran_namn": "XL / black",
+    "ny_sku": null,
+    "nytt_namn": "XL / Svart"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10461953425674",
+  "varianter": [
+   {
+    "fran_sku": "430000062",
+    "fran_namn": "Default Title",
+    "ny_sku": null,
+    "nytt_namn": "0.5 l"
+   },
+   {
+    "fran_sku": "430000064",
+    "fran_namn": "black (0064)",
+    "ny_sku": null,
+    "nytt_namn": "1.4 l"
+   }
+  ]
+ }
+]

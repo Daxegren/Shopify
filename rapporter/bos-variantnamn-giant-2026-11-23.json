@@ -1,0 +1,1775 @@
+{
+ "cykel-giant-anytour-cs-2-gb-stealth-chrome-3009011115": {
+  "id": "gid://shopify/Product/10523488387338",
+  "titel": "Stadscykel Giant AnyTour CS 2 GB med remdrift, XL",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "Hybridcykel",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53136727769354",
+    "title": "Default Title",
+    "sku": "3009011118",
+    "price": "19970.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53136727802122",
+    "title": "XL / gray",
+    "sku": "3009011118",
+    "price": "17531.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "cykel-giant-attend-rs-1-gts-svart-2206041185": {
+  "id": "gid://shopify/Product/10488246632714",
+  "titel": "Stadscykel Giant Attend RS 1 GTS",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "Herrcykel",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52935245889802",
+    "title": "Default Title",
+    "sku": "2206041185",
+    "price": "11123.10",
+    "inventoryQuantity": 3
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52935245922570",
+    "title": "L / black",
+    "sku": "2206041187",
+    "price": "4706.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "cykel-giant-roam-4-svart-1082012185": {
+  "id": "gid://shopify/Product/10472333181194",
+  "titel": "Hybridcykel Giant Roam 4, 700c, Svart",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "Hybridcykel",
+   "price-change-job-active",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848806854922",
+    "title": "Default Title",
+    "sku": "1082012184",
+    "price": "11303.10",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848806887690",
+    "title": "XL / black",
+    "sku": "1082012188",
+    "price": "11303.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848806920458",
+    "title": "S / black",
+    "sku": "1082012184",
+    "price": "9917.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "cykel-giant-talon-2-2027-29-eclipse-1095018187": {
+  "id": "gid://shopify/Product/10624088047882",
+  "titel": "Mountainbike Giant Talon 2, 29 tum, Eclipse",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "Mountainbike",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53701393645834",
+    "title": "Default Title",
+    "sku": "1095018187",
+    "price": "10529.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53701393678602",
+    "title": "XL / blue",
+    "sku": "1095018188",
+    "price": "10529.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "cykel-giant-talon-29-1-ge-hematite-2201130285": {
+  "id": "gid://shopify/Product/10470924222730",
+  "titel": "Mountainbike Giant Talon 1 GE, 29 tum",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "Mountainbike",
+   "price-change-job-active",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52844391858442",
+    "title": "Default Title",
+    "sku": "2201130288",
+    "price": "14867.10",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52844391891210",
+    "title": "L / brown",
+    "sku": "2201130287",
+    "price": "14867.10",
+    "inventoryQuantity": 5
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52844391923978",
+    "title": "XL / brown",
+    "sku": "2201130288",
+    "price": "13049.10",
+    "inventoryQuantity": 1
+   }
+  ]
+ },
+ "cykel-giant-talon-29-3-ge-sapphire-2201126285": {
+  "id": "gid://shopify/Product/10462199120138",
+  "titel": "Mountainbike Giant Talon 29 3 GE, 29 tum, Sapphire",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "Mountainbike",
+   "price-change-job-active",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52799993643274",
+    "title": "Default Title",
+    "sku": "2201126288",
+    "price": "11951.10",
+    "inventoryQuantity": 4
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52799993676042",
+    "title": "L / blue",
+    "sku": "2201126287",
+    "price": "11951.10",
+    "inventoryQuantity": 10
+   }
+  ]
+ },
+ "cykel-giant-talon-3-2022-27-5-amber-glow-2201111215": {
+  "id": "gid://shopify/Product/10472298119434",
+  "titel": "Mountainbike Giant Talon 3, 2022, Amber Glow",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "Mountainbike",
+   "price-change-job-active",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848513745162",
+    "title": "Default Title",
+    "sku": "2201111215",
+    "price": "9305.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451940659466",
+    "title": "M / oranž",
+    "sku": "2201111285",
+    "price": "9305.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "cykel-giant-talon-4-2027-29-svart-1095020185": {
+  "id": "gid://shopify/Product/10708319895818",
+  "titel": "Cykel GIANT Talon 4 (2027) 29\" Svart",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "Mountainbike",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/54085581111562",
+    "title": "Default Title",
+    "sku": "1095020187",
+    "price": "9935.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/54085581144330",
+    "title": "L / black",
+    "sku": "1095020187",
+    "price": "9935.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "cykel-giant-xtc-advanced-29-2-purple-haze-1119022144": {
+  "id": "gid://shopify/Product/10487987044618",
+  "titel": "Mountainbike Giant XTC Advanced 29 2, 29 tum, Purple Haze",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "Mountainbike",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52934859784458",
+    "title": "Default Title",
+    "sku": "1119022144",
+    "price": "41039.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52934859817226",
+    "title": "L / purple",
+    "sku": "1119022147",
+    "price": "36026.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "cykel-giant-xtc-slr-29-1-2026-abyss-black-1119019184": {
+  "id": "gid://shopify/Product/10502528336138",
+  "titel": "Mountainbike Giant XTC SLR 29 1, 29 tum, Svart",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "Mountainbike",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53023206244618",
+    "title": "Default Title",
+    "sku": "1119019185",
+    "price": "25415.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53023206277386",
+    "title": "M / black",
+    "sku": "1119019185",
+    "price": "22310.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53023206310154",
+    "title": "L / black",
+    "sku": "1119019187",
+    "price": "22310.10",
+    "inventoryQuantity": 1
+   }
+  ]
+ },
+ "cykel-giant-xtc-slr-29-2-2025-dark-jade-1119018215": {
+  "id": "gid://shopify/Product/10472291369226",
+  "titel": "Mountainbike Giant XTC SLR 29 2, 29 tum, Dark Jade",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "Mountainbike",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848497918218",
+    "title": "Default Title",
+    "sku": "1119018217",
+    "price": "19187.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53442841673994",
+    "title": "M / sinine",
+    "sku": "1119018215",
+    "price": "16838.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "elcykel-giant-explore-e-2-sta-alpine-green-5060018104": {
+  "id": "gid://shopify/Product/10593839513866",
+  "titel": "Elcykel Giant Explore E+ 2 STA, Alpine Green",
+  "status": "ACTIVE",
+  "tags": [
+   "Damcyklar",
+   "Elcykel",
+   "Giant",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53523581731082",
+    "title": "Default Title",
+    "sku": "5060018104",
+    "price": "61280.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53523581763850",
+    "title": "M / green",
+    "sku": "5060018105",
+    "price": "53441.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "elcykel-giant-fathom-e-2-2027-null-white-5332005184": {
+  "id": "gid://shopify/Product/10635809849610",
+  "titel": "Elcykel GIANT Fathom E+ 2 (2027) Null White",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Elcykel",
+   "Giant",
+   "Mountainbike",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53778901205258",
+    "title": "Default Title",
+    "sku": "5332005188",
+    "price": "48536.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53778901238026",
+    "title": "XL / white",
+    "sku": "5332005188",
+    "price": "42605.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "electric-bicycle-giant-explore-e-1-gts-misty-forest-2303704105": {
+  "id": "gid://shopify/Product/10472254308618",
+  "titel": "Elcykel Giant Explore E+ 1 GTS, Misty Forest",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Elcykel",
+   "Giant",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848406593802",
+    "title": "Default Title",
+    "sku": "2303704105",
+    "price": "49985.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848406626570",
+    "title": "L / green",
+    "sku": "2303704107",
+    "price": "57500.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "electric-bicycle-giant-talon-e-2026-29-electron-blue-5090000204": {
+  "id": "gid://shopify/Product/10476239454474",
+  "titel": "Elcykel Giant Talon E+, 29 tum, Electron Blue",
+  "status": "ACTIVE",
+  "tags": [
+   "Bicycles",
+   "Cyklar",
+   "Elcykel",
+   "Giant",
+   "Mountainbike",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52869552865546",
+    "title": "Default Title",
+    "sku": "5090000207",
+    "price": "42668.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451943969034",
+    "title": "S / sinine",
+    "sku": "5090000204",
+    "price": "37448.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451944165642",
+    "title": "L / sinine",
+    "sku": "5090000207",
+    "price": "37448.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451944231178",
+    "title": "XL / sinine",
+    "sku": "5090000208",
+    "price": "37448.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "electric-bicycle-giant-trance-x-advanced-e-elite-2-sea-sparkle-5028032105": {
+  "id": "gid://shopify/Product/10468777525514",
+  "titel": "Elcykel Giant Trance X Advanced E+ Elite 2, Sea Sparkle",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Elcykel",
+   "Giant",
+   "Mountainbike",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52832383467786",
+    "title": "Default Title",
+    "sku": "5028032108",
+    "price": "72179.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832383500554",
+    "title": "M / blue",
+    "sku": "5028032105",
+    "price": "72179.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832383533322",
+    "title": "L / blue",
+    "sku": "5028032107",
+    "price": "72179.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832383566090",
+    "title": "XL / blue",
+    "sku": "5028032108",
+    "price": "72179.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "flaskh-llare-giant-airway-sport-sidepull-l-svart-bl-490000099": {
+  "id": "gid://shopify/Product/10541369098506",
+  "titel": "Flaskhållare GIANT Airway Sport Sidepull (L), Svart/Blå",
+  "status": "ACTIVE",
+  "tags": [
+   "Flaska & Hållare",
+   "Giant",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53214521491722",
+    "title": "490000099",
+    "sku": "490000099",
+    "price": "109.00",
+    "inventoryQuantity": 14
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53214521524490",
+    "title": "490000095",
+    "sku": "490000095",
+    "price": "109.00",
+    "inventoryQuantity": 15
+   }
+  ]
+ },
+ "flaskh-llare-giant-gateway-5mm-svart-490000026": {
+  "id": "gid://shopify/Product/10472266334474",
+  "titel": "Flaskhållare Giant Gateway",
+  "status": "ACTIVE",
+  "tags": [
+   "Flaska & Hållare",
+   "Giant",
+   "På beställning",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848430285066",
+    "title": "Default Title",
+    "sku": "490000026",
+    "price": "49.00",
+    "inventoryQuantity": 58
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451942068490",
+    "title": "must",
+    "sku": "490000020",
+    "price": "79.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451942134026",
+    "title": "hall",
+    "sku": "490000026",
+    "price": "79.00",
+    "inventoryQuantity": 22
+   }
+  ]
+ },
+ "giant-roam-1-bicycle-charcoal-1082008384": {
+  "id": "gid://shopify/Product/10468767170826",
+  "titel": "Hybridcykel Giant Roam 1, 11 Växlar, Kolgrå",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "Hybridcykel",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52832346013962",
+    "title": "Default Title",
+    "sku": "1082008384",
+    "price": "18953.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832346046730",
+    "title": "M / dark gray",
+    "sku": "1082008385",
+    "price": "16631.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "giant-roam-3-cykel-shell-white-1082011285": {
+  "id": "gid://shopify/Product/10656692044042",
+  "titel": "Hybridcykel Giant Roam 3, 18 Växlar, Shell White",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "Hybridcykel",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53857305035018",
+    "title": "Default Title",
+    "sku": "1082011288",
+    "price": "12473.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53857305067786",
+    "title": "L / white",
+    "sku": "1082011287",
+    "price": "12473.10",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53857305100554",
+    "title": "XL / white",
+    "sku": "1082011288",
+    "price": "12599.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "gravel-bike-giant-revolt-1-2026-alpine-green-1080014185": {
+  "id": "gid://shopify/Product/10476211929354",
+  "titel": "Gravelcykel GIANT Revolt 1, Alpine Green",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "Gravelcykel",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52869507940618",
+    "title": "Default Title",
+    "sku": "1080014188",
+    "price": "26072.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52869507973386",
+    "title": "L / green",
+    "sku": "1080014187",
+    "price": "26072.10",
+    "inventoryQuantity": 1
+   }
+  ]
+ },
+ "gravel-bike-giant-revolt-x-advanced-pro-2-black-sea-sparkle-1080004146": {
+  "id": "gid://shopify/Product/10468772708618",
+  "titel": "Gravel bike GIANT Revolt X Advanced Pro 2, Black/Sea Sparkle",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "Gravelcykel",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52832365609226",
+    "title": "Default Title",
+    "sku": "1080004147",
+    "price": "58049.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832365641994",
+    "title": "L / black",
+    "sku": "1080004147",
+    "price": "50948.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "gravelbike-giant-revolt-1-2025-pale-olive-1079011215": {
+  "id": "gid://shopify/Product/10472296186122",
+  "titel": "Gravelcykel Giant Revolt 1, 2025, Ljus Olivgrön",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "Gravelcykel",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848511648010",
+    "title": "Default Title",
+    "sku": "1079011217",
+    "price": "23912.10",
+    "inventoryQuantity": 3
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451935678730",
+    "title": "M/L / roheline",
+    "sku": "1079011216",
+    "price": "20987.10",
+    "inventoryQuantity": 4
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451935744266",
+    "title": "L / roheline",
+    "sku": "1079011217",
+    "price": "20987.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "gravelbike-giant-revolt-1-2026-alpine-green-1080014184": {
+  "id": "gid://shopify/Product/10476168020234",
+  "titel": "Gravelcykel Giant Revolt 1, 700x38c, Alpine Green",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "Gravelcykel",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52869427429642",
+    "title": "Default Title",
+    "sku": "1080014184",
+    "price": "26072.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451946656010",
+    "title": "M / roheline",
+    "sku": "1080014185",
+    "price": "22886.10",
+    "inventoryQuantity": 1
+   }
+  ]
+ },
+ "gravelbike-giant-revolt-advanced-1-2025-ocean-twilight-1079014145": {
+  "id": "gid://shopify/Product/10476123783434",
+  "titel": "Gravelcykel GIANT Revolt Advanced 1, Ocean Twilight",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "Gravelcykel",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52869313134858",
+    "title": "Default Title",
+    "sku": "1079014147",
+    "price": "41282.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52869313167626",
+    "title": "L / blue",
+    "sku": "1079014147",
+    "price": "36233.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "gravelcykel-giant-revolt-0-2026-stealth-chrome-1080018185": {
+  "id": "gid://shopify/Product/10530207531274",
+  "titel": "Gravelcykel Giant Revolt 0, Stealth Chrome",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "Gravelcykel",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53172008681738",
+    "title": "Default Title",
+    "sku": "1080018186",
+    "price": "24839.10",
+    "inventoryQuantity": 3
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451946328330",
+    "title": "M/L / hall",
+    "sku": "1080018186",
+    "price": "25289.10",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451946361098",
+    "title": "XL / hall",
+    "sku": "1080018188",
+    "price": "25289.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "handskar-giant-cima-sf-ash-blue-830001403": {
+  "id": "gid://shopify/Product/10526099603722",
+  "titel": "Cykelhandskar Giant Cima SF, Ash Blue",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykelkläder",
+   "Giant",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53151800328458",
+    "title": "Default Title",
+    "sku": "830001404",
+    "price": "249.00",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53151800361226",
+    "title": "L",
+    "sku": "830001404",
+    "price": "219.00",
+    "inventoryQuantity": 1
+   }
+  ]
+ },
+ "handskar-giant-wisp-sf-m-rkbl-830001438": {
+  "id": "gid://shopify/Product/10526099439882",
+  "titel": "Cykelhandskar Giant Wisp SF, Mörkblå",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykelkläder",
+   "Giant",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53151799935242",
+    "title": "Default Title",
+    "sku": "830001439",
+    "price": "319.00",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53151799968010",
+    "title": "XL",
+    "sku": "830001440",
+    "price": "319.00",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53151800000778",
+    "title": "XXL",
+    "sku": "830001441",
+    "price": "319.00",
+    "inventoryQuantity": 2
+   }
+  ]
+ },
+ "handskar-giant-wisp-sf-svart-830001428": {
+  "id": "gid://shopify/Product/10526099407114",
+  "titel": "Cykelhandskar Giant Wisp SF, Svart",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykelkläder",
+   "Giant",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53151799804170",
+    "title": "Default Title",
+    "sku": "830001428",
+    "price": "319.00",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53151799836938",
+    "title": "XXL",
+    "sku": "830001431",
+    "price": "279.00",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53151799869706",
+    "title": "XL",
+    "sku": "830001430",
+    "price": "279.00",
+    "inventoryQuantity": 2
+   }
+  ]
+ },
+ "landsv-gscykel-giant-contend-ar-2-dark-iridescent-1024020118": {
+  "id": "gid://shopify/Product/10468743151882",
+  "titel": "Landsvägscykel Giant Contend AR 2, 700x32c, Dark Iridescent",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "price-change-job-active",
+   "På beställning",
+   "Racercykel",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52832233619722",
+    "title": "Default Title",
+    "sku": "1024020116",
+    "price": "22283.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832233652490",
+    "title": "M/L / purple",
+    "sku": "1024020116",
+    "price": "19556.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832233685258",
+    "title": "L / purple",
+    "sku": "1024020117",
+    "price": "19556.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832233718026",
+    "title": "XL / purple",
+    "sku": "1024020118",
+    "price": "19556.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "landsv-gscykel-giant-defy-advanced-0-2027-supernova-grey-1031028145": {
+  "id": "gid://shopify/Product/10624087490826",
+  "titel": "Landsvägscykel Giant Defy Advanced 0 (2027), Supernova Grey",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "price-change-job-active",
+   "På beställning",
+   "Racercykel",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53701390008586",
+    "title": "Default Title",
+    "sku": "1031028147",
+    "price": "54665.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53701390041354",
+    "title": "M/L / gray",
+    "sku": "1031028146",
+    "price": "54665.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53701390074122",
+    "title": "L / gray",
+    "sku": "1031028147",
+    "price": "54665.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53701390106890",
+    "title": "XL / gray",
+    "sku": "1031028148",
+    "price": "54665.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "landsv-gscykel-giant-defy-advanced-1-2027-obsidian-pulse-1031029144": {
+  "id": "gid://shopify/Product/10624087523594",
+  "titel": "Landsvägscykel GIANT Defy Advanced 1 (2027) Obsidian Pulse",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "price-change-job-active",
+   "På beställning",
+   "Racercykel",
+   "sale",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53701390139658",
+    "title": "Default Title",
+    "sku": "1031029145",
+    "price": "46484.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53701390172426",
+    "title": "L / brown",
+    "sku": "1031029147",
+    "price": "47645.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53701390205194",
+    "title": "M/L / brown",
+    "sku": "1031029146",
+    "price": "40805.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53701390237962",
+    "title": "XL / brown",
+    "sku": "1031029148",
+    "price": "46484.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "landsv-gscykel-giant-defy-advanced-2-2026-abyss-black-1031023145": {
+  "id": "gid://shopify/Product/10476166217994",
+  "titel": "Landsvägscykel Giant Defy Advanced 2, 700x32c, Abyss Black",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "price-change-job-active",
+   "På beställning",
+   "Racercykel",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52869422219530",
+    "title": "Default Title",
+    "sku": "1031023147",
+    "price": "39086.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52869422252298",
+    "title": "M/L / black",
+    "sku": "1031023146",
+    "price": "34298.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52869422285066",
+    "title": "L / black",
+    "sku": "1031023147",
+    "price": "34298.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "landsv-gscykel-giant-defy-advanced-2-bay-leaf-1031003247": {
+  "id": "gid://shopify/Product/10472484700426",
+  "titel": "Landsvägscykel Giant Defy Advanced 2, 700x32c, Bay Leaf",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "price-change-job-active",
+   "På beställning",
+   "Racercykel",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52850848301322",
+    "title": "Default Title",
+    "sku": "1031003248",
+    "price": "38690.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52850848334090",
+    "title": "XL / green",
+    "sku": "1031003248",
+    "price": "33965.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "landsv-gscykel-giant-propel-advanced-pro-0-axs-2027-obsidian-pulse-1074033105": {
+  "id": "gid://shopify/Product/10676721189130",
+  "titel": "Landsvägscykel Giant Propel Advanced Pro 0 AXS (2027)",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "price-change-job-active",
+   "På beställning",
+   "Racercykel",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53955508044042",
+    "title": "Default Title",
+    "sku": "1074033108",
+    "price": "93626.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53955508076810",
+    "title": "M/L / black",
+    "sku": "1074033106",
+    "price": "93626.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53955508109578",
+    "title": "L / black",
+    "sku": "1074033107",
+    "price": "93437.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53955508142346",
+    "title": "XL / black",
+    "sku": "1074033108",
+    "price": "93437.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "landsv-gscykel-giant-tcr-advanced-0-pc-frost-silver-1096021145": {
+  "id": "gid://shopify/Product/10480047325450",
+  "titel": "Landsvägscykel Giant TCR Advanced 0 PC",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "price-change-job-active",
+   "På beställning",
+   "Racercykel",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52890548764938",
+    "title": "Default Title",
+    "sku": "1096021146",
+    "price": "52613.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52890548797706",
+    "title": "M/L / gray",
+    "sku": "1096021146",
+    "price": "44711.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52890548830474",
+    "title": "L / gray",
+    "sku": "1096021147",
+    "price": "44711.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "landsv-gscykel-giant-tcr-advanced-2-pc-2025-carbon-1096036145": {
+  "id": "gid://shopify/Product/10471057719562",
+  "titel": "Landsvägscykel Giant TCR Advanced 2 PC storlek M/L, Carbon",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "price-change-job-active",
+   "Racercykel",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52844745851146",
+    "title": "Default Title",
+    "sku": "1096036146",
+    "price": "35207.10",
+    "inventoryQuantity": 3
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52844745883914",
+    "title": "M/L / black",
+    "sku": "1096036146",
+    "price": "36080.10",
+    "inventoryQuantity": 5
+   }
+  ]
+ },
+ "landsv-gscykel-giant-tcr-advanced-pro-0-di2-2025-mercury-1096025246": {
+  "id": "gid://shopify/Product/10468733223178",
+  "titel": "Landsvägscykel Giant TCR Advanced Pro 0 Di2",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "price-change-job-active",
+   "På beställning",
+   "Racercykel",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52832183550218",
+    "title": "Default Title",
+    "sku": "1096025247",
+    "price": "79550.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832183582986",
+    "title": "L / gray",
+    "sku": "1096025247",
+    "price": "69821.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "landsv-gscykel-giant-tcr-advanced-sl-0-da-2025-black-lava-1096031106": {
+  "id": "gid://shopify/Product/10472276492554",
+  "titel": "Landsvägscykel Giant TCR Advanced SL 0 DA",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "price-change-job-active",
+   "På beställning",
+   "Racercykel",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848447258890",
+    "title": "Default Title",
+    "sku": "1096031107",
+    "price": "141335.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848447291658",
+    "title": "L / black",
+    "sku": "1096031107",
+    "price": "124046.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "mountain-bike-giant-trance-x-2-29-metallic-black-1110002144": {
+  "id": "gid://shopify/Product/10468774674698",
+  "titel": "Mountainbike Giant Trance X 2, 29 tum, Metallsvart",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "Mountainbike",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52832372195594",
+    "title": "Default Title",
+    "sku": "1110002148",
+    "price": "49220.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832372228362",
+    "title": "L / black",
+    "sku": "1110002147",
+    "price": "43199.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832372261130",
+    "title": "XL / black",
+    "sku": "1110002148",
+    "price": "43199.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "mountain-bike-giant-xtc-advanced-29-2-black-shell-white-1119005144": {
+  "id": "gid://shopify/Product/10468774576394",
+  "titel": "Mountainbike Giant XTC Advanced 29 2, 29 tum, Svart och Shell White",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "Mountainbike",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52832371802378",
+    "title": "Default Title",
+    "sku": "1119005148",
+    "price": "35054.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832371835146",
+    "title": "M / white",
+    "sku": "1119005145",
+    "price": "30761.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832371867914",
+    "title": "L / white",
+    "sku": "1119005147",
+    "price": "30761.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832371900682",
+    "title": "XL / white",
+    "sku": "1119005148",
+    "price": "30761.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "mountainbike-giant-reign-advanced-2-29-sangria-carbon-1077002105": {
+  "id": "gid://shopify/Product/10471123321098",
+  "titel": "Mountainbike Giant Reign Advanced 2, 29 tum, Sangria/Carbon",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "Mountainbike",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52845058490634",
+    "title": "Default Title",
+    "sku": "1077002108",
+    "price": "71045.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845058523402",
+    "title": "L / Red",
+    "sku": "1077002107",
+    "price": "62360.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845058556170",
+    "title": "XL / Red",
+    "sku": "1077002108",
+    "price": "62360.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "mountainbike-giant-stance-29-2-misty-forest-1089003255": {
+  "id": "gid://shopify/Product/10468712087818",
+  "titel": "Mountainbike GIANT Stance 29 2, Misty Forest",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "Mountainbike",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52832104481034",
+    "title": "Default Title",
+    "sku": "1089003245",
+    "price": "29960.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832104513802",
+    "title": "XL / green",
+    "sku": "1089003248",
+    "price": "29960.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832104546570",
+    "title": "M / green",
+    "sku": "1089003245",
+    "price": "26297.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "mountainbike-giant-xtc-slr-29-2-2026-mineral-yellow-1119020284": {
+  "id": "gid://shopify/Product/10507441799434",
+  "titel": "Mountainbike Giant XTC SLR 29 2, 29 tum, Mineral Yellow",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "Mountainbike",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53049968689418",
+    "title": "Default Title",
+    "sku": "1119020287",
+    "price": "21311.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53049968722186",
+    "title": "M / yellow",
+    "sku": "1119020285",
+    "price": "18710.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53049968754954",
+    "title": "L / yellow",
+    "sku": "1119020287",
+    "price": "18710.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "pedaler-giant-pinner-comp-mtb-230000103": {
+  "id": "gid://shopify/Product/10470929334538",
+  "titel": "Pedaler Giant Pinner Comp MTB",
+  "status": "ACTIVE",
+  "tags": [
+   "Giant",
+   "Mountainbike",
+   "På beställning",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52844404801802",
+    "title": "Default Title",
+    "sku": "230000104",
+    "price": "629.00",
+    "inventoryQuantity": 3
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451946983690",
+    "title": "sinine",
+    "sku": "230000104",
+    "price": "489.00",
+    "inventoryQuantity": 7
+   }
+  ]
+ },
+ "road-bike-giant-defy-advanced-pro-0-2026-mariana-blue-1031025145": {
+  "id": "gid://shopify/Product/10471334543626",
+  "titel": "Road bike GIANT Defy Advanced Pro 0 (2026) Mariana Blue",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "price-change-job-active",
+   "På beställning",
+   "Racercykel",
+   "sale",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52845521699082",
+    "title": "Default Title",
+    "sku": "1031025144",
+    "price": "88127.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845521731850",
+    "title": "M/L / blue",
+    "sku": "1031025146",
+    "price": "76634.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "road-bike-giant-fastroad-ar-advanced-1-asphalt-green-1041009114": {
+  "id": "gid://shopify/Product/10471335461130",
+  "titel": "Cykel Giant FastRoad AR Advanced 1, 700x40c, Asfaltsgrön",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "Gravelcykel",
+   "price-change-job-active",
+   "På beställning",
+   "Racercykel",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52845522878730",
+    "title": "Default Title",
+    "sku": "1041009114",
+    "price": "32354.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845522911498",
+    "title": "M / green",
+    "sku": "1041009115",
+    "price": "28403.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845522944266",
+    "title": "L / green",
+    "sku": "1041009117",
+    "price": "28403.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845522977034",
+    "title": "XL / green",
+    "sku": "1041009118",
+    "price": "28403.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "road-bike-giant-tcr-advanced-0-pc-2025-frost-silver-1096021143": {
+  "id": "gid://shopify/Product/10476218679562",
+  "titel": "Maanteeratas GIANT TCR Advanced 0 PC, Frost Silver",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "price-change-job-active",
+   "På beställning",
+   "Racercykel",
+   "sale",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52869519048970",
+    "title": "Default Title",
+    "sku": "1096021148",
+    "price": "51335.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451947409674",
+    "title": "M / hall",
+    "sku": "1096021145",
+    "price": "45053.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451947442442",
+    "title": "XL / hall",
+    "sku": "1096021148",
+    "price": "45053.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "road-bike-giant-tcr-advanced-2-pc-2025-carbon-1096036144": {
+  "id": "gid://shopify/Product/10472322138378",
+  "titel": "Landsvägscykel Giant TCR Advanced 2 PC, 2025, Carbon",
+  "status": "ACTIVE",
+  "tags": [
+   "Cyklar",
+   "Giant",
+   "price-change-job-active",
+   "På beställning",
+   "Racercykel",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848785424650",
+    "title": "Default Title",
+    "sku": "1096036148",
+    "price": "35207.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848785457418",
+    "title": "XL / black",
+    "sku": "1096036148",
+    "price": "36071.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "saddle-bag-giant-shadow-dx-430000062": {
+  "id": "gid://shopify/Product/10461953425674",
+  "titel": "Sadelväska Giant Shadow DX",
+  "status": "ACTIVE",
+  "tags": [
+   "Cykelväska",
+   "Cykelväskor",
+   "Giant",
+   "På beställning",
+   "Sadel",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52798532419850",
+    "title": "Default Title",
+    "sku": "430000062",
+    "price": "269.00",
+    "inventoryQuantity": 8
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52798532452618",
+    "title": "black (0064)",
+    "sku": "430000064",
+    "price": "299.00",
+    "inventoryQuantity": 1
+   }
+  ]
+ },
+ "strumpor-liv-short-n-snug-f-r-dam-820000783": {
+  "id": "gid://shopify/Product/10475428872458",
+  "titel": "Strumpor Liv Short N Snug, Dam",
+  "status": "ACTIVE",
+  "tags": [
+   "Damcykel",
+   "Giant",
+   "strumpor",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52865368097034",
+    "title": "black",
+    "sku": "820000783",
+    "price": "79.00",
+    "inventoryQuantity": 3
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52865368129802",
+    "title": "black (0784)",
+    "sku": "820000784",
+    "price": "79.00",
+    "inventoryQuantity": 3
+   }
+  ]
+ }
+}
