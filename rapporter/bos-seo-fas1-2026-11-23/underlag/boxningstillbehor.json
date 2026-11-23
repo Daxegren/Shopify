@@ -1,0 +1,57 @@
+{
+ "handle": "boxningstillbehor",
+ "id": "gid://shopify/Collection/562680070410",
+ "titel": "Boxningstillbehör",
+ "regel": [],
+ "huvud_regex": "",
+ "antal_i_kollektionen": 13,
+ "antal_koopbara_alla": 2,
+ "antal_koopbara": 2,
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
+ "marken": [
+  [
+   "Gorilla Sports Norden",
+   2
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "hopprep",
+   2
+  ]
+ ],
+ "pris_min": 249.0,
+ "pris_max": 249.0,
+ "pris_median": 249.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [
+  [
+   "Hopprep Women's Health Speed Rope med Vikthandtag, 3 m",
+   249.0
+  ],
+  [
+   "Hopprep Women's Health, 275 cm",
+   249.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Hopprep Women's Health Speed Rope med Vikthandtag, 3 m",
+   249.0
+  ],
+  [
+   "Hopprep Women's Health, 275 cm",
+   249.0
+  ]
+ ],
+ "alla_titlar": [
+  "Hopprep Women's Health Speed Rope med Vikthandtag, 3 m",
+  "Hopprep Women's Health, 275 cm"
+ ]
+}

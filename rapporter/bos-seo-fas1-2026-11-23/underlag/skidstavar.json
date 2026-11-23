@@ -1,0 +1,80 @@
+{
+ "handle": "skidstavar",
+ "id": "gid://shopify/Collection/569054363914",
+ "titel": "Skidstavar",
+ "regel": [],
+ "huvud_regex": "",
+ "antal_i_kollektionen": 5,
+ "antal_koopbara_alla": 5,
+ "antal_koopbara": 5,
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
+ "marken": [
+  [
+   "Alpina",
+   3
+  ],
+  [
+   "Start",
+   2
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "skidstavar",
+   4
+  ],
+  [
+   "skidstav",
+   1
+  ]
+ ],
+ "pris_min": 309.0,
+ "pris_max": 2114.1,
+ "pris_median": 349.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [
+  [
+   "Skidstavar Alpina ST i Aluminium",
+   309.0
+  ],
+  [
+   "Skidstavar Alpina ST Plus",
+   329.0
+  ],
+  [
+   "Skidstav Alpina STP",
+   349.0
+  ],
+  [
+   "Skidstavar Start Track",
+   1358.1
+  ]
+ ],
+ "dyraste": [
+  [
+   "Skidstavar Start Winner Free",
+   2114.1
+  ],
+  [
+   "Skidstavar Start Track",
+   1358.1
+  ],
+  [
+   "Skidstav Alpina STP",
+   349.0
+  ]
+ ],
+ "alla_titlar": [
+  "Skidstav Alpina STP",
+  "Skidstavar Alpina ST Plus",
+  "Skidstavar Alpina ST i Aluminium",
+  "Skidstavar Start Track",
+  "Skidstavar Start Winner Free"
+ ]
+}

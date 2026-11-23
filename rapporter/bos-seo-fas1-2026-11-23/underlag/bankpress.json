@@ -1,0 +1,48 @@
+{
+ "handle": "bankpress",
+ "id": "gid://shopify/Collection/526982578442",
+ "titel": "Bänkpress",
+ "regel": [],
+ "huvud_regex": "",
+ "antal_i_kollektionen": 5,
+ "antal_koopbara_alla": 1,
+ "antal_koopbara": 1,
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
+ "marken": [
+  [
+   "Tunturi",
+   1
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "träningsbänk",
+   1
+  ]
+ ],
+ "pris_min": 2807.1,
+ "pris_max": 2807.1,
+ "pris_median": 2807.1,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [
+  [
+   "Träningsbänk Tunturi WB20 Basic Weight Bench",
+   2807.1
+  ]
+ ],
+ "dyraste": [
+  [
+   "Träningsbänk Tunturi WB20 Basic Weight Bench",
+   2807.1
+  ]
+ ],
+ "alla_titlar": [
+  "Träningsbänk Tunturi WB20 Basic Weight Bench"
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "handle": "viktskivstall",
+ "id": "gid://shopify/Collection/562613485834",
+ "titel": "Viktskivställ",
+ "regel": [],
+ "huvud_regex": "",
+ "antal_i_kollektionen": 5,
+ "antal_koopbara_alla": 1,
+ "antal_koopbara": 1,
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
+ "marken": [
+  [
+   "Gorilla Sports Norden",
+   1
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "viktställ",
+   1
+  ]
+ ],
+ "pris_min": 2649.0,
+ "pris_max": 2649.0,
+ "pris_median": 2649.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [
+  [
+   "Viktställ Svart, Vit eller Silver",
+   2649.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Viktställ Svart, Vit eller Silver",
+   2649.0
+  ]
+ ],
+ "alla_titlar": [
+  "Viktställ Svart, Vit eller Silver"
+ ]
+}

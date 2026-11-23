@@ -1,0 +1,98 @@
+{
+ "handle": "pjaxor",
+ "id": "gid://shopify/Collection/569053511946",
+ "titel": "Pjäxor",
+ "regel": [],
+ "huvud_regex": "",
+ "antal_i_kollektionen": 9,
+ "antal_koopbara_alla": 7,
+ "antal_koopbara": 7,
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
+ "marken": [
+  [
+   "Alpina",
+   6
+  ],
+  [
+   "Peltonen",
+   1
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "klassiska",
+   2
+  ],
+  [
+   "kombipjäxor",
+   1
+  ],
+  [
+   "barnpjäxor",
+   1
+  ],
+  [
+   "barnskidpjäxor",
+   1
+  ],
+  [
+   "skridskor",
+   1
+  ],
+  [
+   "skidåkningsteknik",
+   1
+  ]
+ ],
+ "pris_min": 1769.0,
+ "pris_max": 3770.1,
+ "pris_median": 2179.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [
+  [
+   "Barnskidpjäxor Alpina T 8 JR",
+   1769.0
+  ],
+  [
+   "Barnpjäxor Alpina T KID",
+   1779.0
+  ],
+  [
+   "Kombipjäxor Alpina T 8",
+   1849.0
+  ],
+  [
+   "Klassiska Pjäxor Alpina T 10, Svart",
+   2179.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Skidåkningsteknik pjäxor Alpina RACE SK (22)",
+   3770.1
+  ],
+  [
+   "Klassiska Skidor Peltonen Astra Wax med Basic-bindning",
+   3140.1
+  ],
+  [
+   "Skridskor Alpina T 40 2022",
+   2999.0
+  ]
+ ],
+ "alla_titlar": [
+  "Barnpjäxor Alpina T KID",
+  "Barnskidpjäxor Alpina T 8 JR",
+  "Klassiska Pjäxor Alpina T 10, Svart",
+  "Klassiska Skidor Peltonen Astra Wax med Basic-bindning",
+  "Kombipjäxor Alpina T 8",
+  "Skidåkningsteknik pjäxor Alpina RACE SK (22)",
+  "Skridskor Alpina T 40 2022"
+ ]
+}

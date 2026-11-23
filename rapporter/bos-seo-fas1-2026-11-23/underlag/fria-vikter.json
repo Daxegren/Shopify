@@ -1,0 +1,307 @@
+{
+ "handle": "fria-vikter",
+ "id": "gid://shopify/Collection/527683813642",
+ "titel": "Fria Vikter",
+ "regel": [],
+ "huvud_regex": "",
+ "antal_i_kollektionen": 273,
+ "antal_koopbara_alla": 172,
+ "antal_koopbara": 172,
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
+ "marken": [
+  [
+   "Tunturi",
+   55
+  ],
+  [
+   "Gorilla Sports Norden",
+   47
+  ],
+  [
+   "Toorx",
+   24
+  ],
+  [
+   "Gymstick",
+   21
+  ],
+  [
+   "Hammer",
+   15
+  ],
+  [
+   "Christopeit",
+   7
+  ],
+  [
+   "Gorilla Sports",
+   1
+  ],
+  [
+   "Rucanor",
+   1
+  ],
+  [
+   "Zipro",
+   1
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "viktskivor",
+   48
+  ],
+  [
+   "kettlebell",
+   32
+  ],
+  [
+   "hantel",
+   17
+  ],
+  [
+   "hantelset",
+   12
+  ],
+  [
+   "skivstång",
+   9
+  ],
+  [
+   "justerbar",
+   8
+  ],
+  [
+   "hantelstång",
+   4
+  ],
+  [
+   "hantel-",
+   4
+  ],
+  [
+   "bumper",
+   3
+  ],
+  [
+   "vinylhantel",
+   3
+  ]
+ ],
+ "pris_min": 39.0,
+ "pris_max": 12950.1,
+ "pris_median": 1439.1,
+ "antal_utan_pris_noll": 1,
+ "kg_i_titlar_min": 0.5,
+ "kg_i_titlar_max": 250.0,
+ "antal_titlar_med_kg": 135,
+ "billigaste": [
+  [
+   "Viktskivor BASIC Cement 1,25–15 kg, 51 mm",
+   39.0
+  ],
+  [
+   "Hantel Toorx i Neopren, Säljs Styckvis",
+   69.0
+  ],
+  [
+   "Pro Chrome Hantel 0,5kg - enkel",
+   79.0
+  ],
+  [
+   "Hexhantel Gymstick Pro",
+   79.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Hantelset Tunturi PU Pro, 10 Par, 2–12 kg",
+   12950.1
+  ],
+  [
+   "Skivstång Tunturi MX100 12,7–45,3 kg",
+   11654.1
+  ],
+  [
+   "Hantelset Tunturi Platinum Hex Rubber, 1–10 kg",
+   6799.0
+  ]
+ ],
+ "alla_titlar": [
+  "2kg Dumbbell Bar",
+  "Active 10kg Vinyl Dumbbell Set",
+  "Adjustable Dumbbell Set 15kg",
+  "Adjustable dumbbell stand HAMMER Stronglock",
+  "Barbell Pad Gymstick",
+  "Bumper Plates HiTemp Paket, 51 mm, 2 x 5–2 x 25 kg",
+  "Bumper Plates HiTemp, 51 mm, 5–25 kg",
+  "Bumper Plates PROFI, 5–25 kg",
+  "Curlbar Tunturi Olympic SpringCol, 50 mm, 120 cm",
+  "Golvskydd Gymstick Kettlebell Pad",
+  "Hantel Gymstick Quick-Lock Justerbar 2–36 kg",
+  "Hantel Gymstick Studio, 3 kg, Röd",
+  "Hantel Hammer Dumbbell Set, 10 kg, Järn",
+  "Hantel Hammer Dumbbell Set, 10 kg, Krom",
+  "Hantel Hammer Dumbbell Set, 15 kg",
+  "Hantel RUCANOR 2,25 kg 30x360 mm",
+  "Hantel TUNTURI Platinum Hex Gummibelagd Hantel, 37,5 kg",
+  "Hantel TUNTURI Platinum Hex Gummibelagd Hantel, 37,5 kg",
+  "Hantel Toorx Gjutjärn, 10 kg",
+  "Hantel Toorx Neoprene, Svart, 6 kg",
+  "Hantel Toorx i Neopren, Säljs Styckvis",
+  "Hantel Tunturi Platinum Hex Gummibelagd, 37,5 kg",
+  "Hantel Tunturi Platinum Hex Rubber, 10 kg",
+  "Hantel Tunturi Platinum Hex Rubber, 15 kg",
+  "Hantel Tunturi Platinum Hex Rubber, 6 kg",
+  "Hantel Tunturi Rapid Justerbar, 20 kg",
+  "Hantel Zipro HEX gummerad 2,5 kg, svart",
+  "Hantel- och Skivstångsset Christopeit 4-i-1, 20 kg",
+  "Hantel- och Skivstångsset Tunturi Vinyl 50 kg",
+  "Hantel- och Skivstångsset Tunturi, 20 kg, Järn",
+  "Hantel- och skivstångsset Christopeit 2-i-1, 15 kg",
+  "Hantelset Gymstick Vinyl, 15 kg",
+  "Hantelset TUNTURI 140kg Tri-Grip Hantelset",
+  "Hantelset Toorx Gjutjärn, 20 kg",
+  "Hantelset Tunturi 10 kg, 1 stång",
+  "Hantelset Tunturi Centuri Neopren med Ställ, 3 Par",
+  "Hantelset Tunturi PU Pro, 10 Par, 2–12 kg",
+  "Hantelset Tunturi Platinum Hex Rubber, 1–10 kg",
+  "Hantelset Tunturi Vinyl, 15 kg",
+  "Hantelset Tunturi Vinyl, 28 kg",
+  "Hantelset Tunturi med Skruvfästen, 15 kg",
+  "Hantelset Tunturi med Skruvlås, 20 kg",
+  "Hantelset Tunturi, 20 kg",
+  "Hantelställ Tunturi Dumbbell Tower",
+  "Hantelställsben Tunturi Pro Dumbbell Rack Stand",
+  "Hantelstång Gymstick 35 cm, 2 kg, 30 mm",
+  "Hantelstång Tunturi Bananformad, 38 cm, Krom",
+  "Hantelstång Tunturi Rapid Justerbar, 11 kg",
+  "Hantelstång Tunturi, 36 cm, med Skruvfästen",
+  "Hantlar TOORX Gjutjärnshantel 15 kg",
+  "Hantlar Tunturi Platinum Hex med Gummiöverdrag",
+  "Hexhantel Gymstick Pro",
+  "Hyllplan till Hantelställ Tunturi Pro, 2 st",
+  "Justerbar Hantel Hammer SmartLock med Vrid-och-lås-mekanism",
+  "Justerbar Hantel Hammer StrongLock 8.0, Upp till 23 kg",
+  "Justerbar Hantel Tunturi MX Select MX30 3,4–13,9 kg",
+  "Justerbar Hantel Tunturi MX Select MX85 5,6–38,6 kg Räfflad",
+  "Justerbar Hantel Tunturi MX55 4,5–24,9 kg",
+  "Justerbar Hantel Tunturi MX55 4,5–24,9 kg Räfflad",
+  "Justerbar Hantel Tunturi Selector Dumbbell 12,5 kg",
+  "Justerbar Hantel Tunturi Selector Dumbbell 25 kg",
+  "Kettlebell Christopeit 12 kg",
+  "Kettlebell Christopeit, 2 kg",
+  "Kettlebell Gymstick Competition",
+  "Kettlebell Gymstick Ergo",
+  "Kettlebell Gymstick Pro",
+  "Kettlebell Gymstick Quick-Lock Justerbar 4,5–13,5 kg",
+  "Kettlebell Gymstick i Vinyl",
+  "Kettlebell HAMMER Premium 16kg",
+  "Kettlebell HAMMER Premium 4kg",
+  "Kettlebell Hammer Premium 22 kg",
+  "Kettlebell Hammer Premium, 14 kg",
+  "Kettlebell Hammer Premium, 24 kg",
+  "Kettlebell TOORX Absolute Kettlebell, 12 kg",
+  "Kettlebell TUNTURI Platinum gjutjärn 8 kg",
+  "Kettlebell TUNTURI Vinyl 14kg, grå",
+  "Kettlebell Toorx 16 kg, Svart Gjutjärn med Gummibotten",
+  "Kettlebell Toorx Absolute, 20 kg",
+  "Kettlebell Toorx Olympic EVO, Gul, 16 kg",
+  "Kettlebell Toorx Olympic EVO, Lila, 18 kg",
+  "Kettlebell Toorx Olympic EVO, Lila, 20 kg",
+  "Kettlebell Toorx Pro Cross EVO, 12 kg",
+  "Kettlebell Toorx Vinyl, 12 kg",
+  "Kettlebell Toorx Vinyl, 18 kg",
+  "Kettlebell Toorx Vinyl, 20 kg",
+  "Kettlebell Tunturi 8 kg",
+  "Kettlebell Tunturi Competition, 8 kg",
+  "Kettlebell Tunturi PE 16 kg, PVC Fylld med Sand",
+  "Kettlebell Tunturi PE, 2 kg",
+  "Kettlebell Tunturi Platinum Competition, Tävlingsstandard",
+  "Kettlebell Tunturi Platinum Rubber, 4 kg",
+  "Kettlebell Tunturi Platinum i Gjutjärn, 4 kg",
+  "Kettlebell Tunturi, 24 kg, Svart",
+  "Kettlebellhandtag Tunturi Rapid Justerbart, 3,5 kg",
+  "Lyftstång HAMMER Skivstång, 183 cm, 250 kg, 50 mm",
+  "Lyftstång Tunturi Skivstång 30 mm, 180 cm, Skruv",
+  "Nackskydd Gymstick Barbell Pad Pro",
+  "Pro Chrome Hantel 0,5kg - enkel",
+  "Sangpomm CHRISTOPEIT Kettlebell 4kg",
+  "Sangpomm TOORX Vinyl Kettlebell, 10 kg",
+  "Skivstång Hammer Olympic Barbell, 50 mm",
+  "Skivstång Toorx Olympic Barbell, 180 cm, 50 mm",
+  "Skivstång Toorx Olympic Barbell, 220 cm, 20 kg",
+  "Skivstång Toorx Olympic Barbell, 220 cm, 50 mm",
+  "Skivstång Tunturi 30 mm, 120 cm, med Skruvlås",
+  "Skivstång Tunturi 30 mm, 165 cm, Nedre Huvud",
+  "Skivstång Tunturi 30 mm, 180 cm, Nedre Huvud",
+  "Skivstång Tunturi Barbell Bar, 30 mm, 165 cm",
+  "Skivstång Tunturi MX100 12,7–45,3 kg",
+  "Skivstångs- och Hantelset Gymstick, Vinyl, 60 kg",
+  "Skivstångsdyna Tunturi Pro Barpad Deluxe, Skum, Svart",
+  "Skivstångsskydd Hammer för Axlar",
+  "Snabbkoppling Hantel 22,5kg",
+  "Styrketräningsset TUNTURI Hantel- & Skivstångsset 20 kg",
+  "TOORX Olympic EVO Kettlebell, blå, 12 kg",
+  "TPU-hantel Gymstick Pro",
+  "TUNTURI PE Kettlebell 12kg",
+  "Viktplatta Hammer, 30 mm, 5 kg",
+  "Viktset Cement 30 kg med Håldiameter 26 mm",
+  "Viktskiva Toorx Bumper Plate Challenge, Grön, 10 kg",
+  "Viktskiva Toorx Bumper Plate Challenge, Röd, 25 kg",
+  "Viktskivor BASIC Cement 1,25–15 kg, 51 mm",
+  "Viktskivor BASIC Cement 30 kg, 31 mm",
+  "Viktskivor BASIC Cement 30 kg, 51 mm",
+  "Viktskivor Bumper Color 51 mm, 5–25 kg",
+  "Viktskivor Christopeit för SP 2000, 2 st",
+  "Viktskivor Christopeit, 2 x 5 kg, för SP 5000",
+  "Viktskivor Chrome 2 x 15 kg, 31 mm",
+  "Viktskivor Chrome 27,5 kg, 31 mm",
+  "Viktskivor Chrome 6 x 5 kg, 31 mm",
+  "Viktskivor GUMMI Gjutjärn, 2 x 10 kg och 2 x 5 kg",
+  "Viktskivor GUMMI Gjutjärn, 2 x 15 kg",
+  "Viktskivor GUMMI Gjutjärn, 27,5 kg",
+  "Viktskivor GUMMI Gjutjärn, 4 x 5 kg och 4 x 2,5 kg",
+  "Viktskivor Gummi Gjutjärn, 1,25–25 kg",
+  "Viktskivor IRON Black, 2 x 10 kg och 2 x 5 kg",
+  "Viktskivor IRON Black, 2 x 15 kg",
+  "Viktskivor IRON Silver 4 x 5 kg 2 x 2,5 kg 2 x 1,25 kg",
+  "Viktskivor IRON Silver, 2 x 10 kg och 2 x 5 kg",
+  "Viktskivor IRON Silver, 2 x 15 kg",
+  "Viktskivor IRON Silver, 6 x 5 kg",
+  "Viktskivor IRON Silver, Håldiameter 31 mm",
+  "Viktskivor Minivikt Set, Åtta Kromade Skivor, 5 kg",
+  "Viktskivor Movit Gjutjärn med Gummibeläggning, 30/31 mm, Set 2–40 kg",
+  "Viktskivor Neopren, Håldiameter 31 mm, 1–5 kg",
+  "Viktskivor OLYMPIA, Håldiameter 51 mm, 2 x 15 kg",
+  "Viktskivor OLYMPIA, Håldiameter 51 mm, 2 x 5 kg och 2 x 10 kg",
+  "Viktskivor OLYMPIA, Håldiameter 51 mm, 6 x 5 kg",
+  "Viktskivor PRO Trigrip, 17,5 kg",
+  "Viktskivor TRIGRIP Black, 2 x 10 kg och 2 x 5 kg",
+  "Viktskivor TRIGRIP Black, 2 x 15 kg",
+  "Viktskivor TRIGRIP Black, Håldiameter 31 mm",
+  "Viktskivor TRIGRIP Gjutjärn, 2 x 10 kg och 2 x 5 kg",
+  "Viktskivor TRIGRIP Gjutjärn, 2 x 15 kg",
+  "Viktskivor TRIGRIP Gjutjärn, 27,5 kg",
+  "Viktskivor TRIGRIP Gjutjärn, 4 x 5 kg och 4 x 2,5 kg",
+  "Viktskivor TRIGRIP Gjutjärn, 6 x 5 kg",
+  "Viktskivor TRIGRIP Gjutjärn, Håldiameter 31 mm",
+  "Viktskivor TRIGRIP Gjutjärn, Håldiameter 51 mm",
+  "Viktskivor TUNTURI Platinum Fractional Plates, Blå, 50mm, 2 x 2 kg",
+  "Viktskivor Trigrip 31 mm, 2 x 10 kg och 2 x 5 kg",
+  "Viktskivor Trigrip 31 mm, 2 x 15 kg",
+  "Viktskivor Trigrip 31 mm, 6 x 5 kg",
+  "Viktskivor Trigrip 51 mm, 1,25–25 kg",
+  "Viktskivor Trigrip 51 mm, 2 x 10 kg och 2 x 5 kg",
+  "Viktskivor Trigrip 51 mm, 2 x 15 kg",
+  "Viktskivor Trigrip 51 mm, 4 x 5 kg och 4 x 2,5 kg",
+  "Viktskivor Trigrip 51 mm, 6 x 5 kg, Gjutjärn med Gummi",
+  "Viktskivor Tunturi Aerobic Pump Plates, 2 x 10 kg",
+  "Vinylhantel Gymstick Pro",
+  "Vinylhantel Toorx, 3 kg, Mörkröd",
+  "Vinylhantel Toorx, Röd, 2 kg"
+ ]
+}

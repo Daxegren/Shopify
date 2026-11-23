@@ -1,0 +1,61 @@
+{
+ "handle": "sandsack",
+ "id": "gid://shopify/Collection/526983692554",
+ "titel": "Sandsäck",
+ "regel": [],
+ "huvud_regex": "",
+ "antal_i_kollektionen": 5,
+ "antal_koopbara_alla": 2,
+ "antal_koopbara": 2,
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
+ "marken": [
+  [
+   "Gorilla Sports Norden",
+   2
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "viktsäck",
+   1
+  ],
+  [
+   "powerbag",
+   1
+  ]
+ ],
+ "pris_min": 999.0,
+ "pris_max": 1099.0,
+ "pris_median": 1049.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": 20.0,
+ "kg_i_titlar_max": 30.0,
+ "antal_titlar_med_kg": 1,
+ "billigaste": [
+  [
+   "Powerbag Sandsäck Justerbar, 20 kg eller 30 kg",
+   999.0
+  ],
+  [
+   "Viktsäck Bulgarian Bag i Konstläder",
+   1099.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Viktsäck Bulgarian Bag i Konstläder",
+   1099.0
+  ],
+  [
+   "Powerbag Sandsäck Justerbar, 20 kg eller 30 kg",
+   999.0
+  ]
+ ],
+ "alla_titlar": [
+  "Powerbag Sandsäck Justerbar, 20 kg eller 30 kg",
+  "Viktsäck Bulgarian Bag i Konstläder"
+ ]
+}

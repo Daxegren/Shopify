@@ -1,0 +1,70 @@
+{
+ "handle": "rak-bank",
+ "id": "gid://shopify/Collection/526986903818",
+ "titel": "Rak Bänk",
+ "regel": [],
+ "huvud_regex": "",
+ "antal_i_kollektionen": 8,
+ "antal_koopbara_alla": 3,
+ "antal_koopbara": 3,
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
+ "marken": [
+  [
+   "Gorilla Sports Norden",
+   3
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "kabelstång",
+   2
+  ],
+  [
+   "träningsbänk",
+   1
+  ]
+ ],
+ "pris_min": 369.0,
+ "pris_max": 1699.0,
+ "pris_median": 409.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": 250.0,
+ "kg_i_titlar_max": 250.0,
+ "antal_titlar_med_kg": 1,
+ "billigaste": [
+  [
+   "Kabelstång med Gummikulor, 54 cm",
+   369.0
+  ],
+  [
+   "Kabelstång Rak och Roterande, 50 cm",
+   409.0
+  ],
+  [
+   "Träningsbänk Gorilla Sports, Rak, Svart, 250 kg Maxbelastning",
+   1699.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Träningsbänk Gorilla Sports, Rak, Svart, 250 kg Maxbelastning",
+   1699.0
+  ],
+  [
+   "Kabelstång Rak och Roterande, 50 cm",
+   409.0
+  ],
+  [
+   "Kabelstång med Gummikulor, 54 cm",
+   369.0
+  ]
+ ],
+ "alla_titlar": [
+  "Kabelstång Rak och Roterande, 50 cm",
+  "Kabelstång med Gummikulor, 54 cm",
+  "Träningsbänk Gorilla Sports, Rak, Svart, 250 kg Maxbelastning"
+ ]
+}

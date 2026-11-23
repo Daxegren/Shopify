@@ -1,0 +1,57 @@
+{
+ "handle": "battle-rope",
+ "id": "gid://shopify/Collection/562616893706",
+ "titel": "Battle Rope",
+ "regel": [],
+ "huvud_regex": "",
+ "antal_i_kollektionen": 5,
+ "antal_koopbara_alla": 2,
+ "antal_koopbara": 2,
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
+ "marken": [
+  [
+   "Gorilla Sports Norden",
+   2
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "battle",
+   2
+  ]
+ ],
+ "pris_min": 1129.0,
+ "pris_max": 1299.0,
+ "pris_median": 1214.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [
+  [
+   "Battle Rope med Fäste, 9–15 m och 3,8–5 cm",
+   1129.0
+  ],
+  [
+   "Battle Rope 15 m, Diameter 3,8 eller 5 cm",
+   1299.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Battle Rope 15 m, Diameter 3,8 eller 5 cm",
+   1299.0
+  ],
+  [
+   "Battle Rope med Fäste, 9–15 m och 3,8–5 cm",
+   1129.0
+  ]
+ ],
+ "alla_titlar": [
+  "Battle Rope 15 m, Diameter 3,8 eller 5 cm",
+  "Battle Rope med Fäste, 9–15 m och 3,8–5 cm"
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "handle": "pulkor",
+ "id": "gid://shopify/Collection/569540903178",
+ "titel": "Pulkor",
+ "regel": [],
+ "huvud_regex": "",
+ "antal_i_kollektionen": 12,
+ "antal_koopbara_alla": 11,
+ "antal_koopbara": 11,
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
+ "marken": [
+  [
+   "Stiga",
+   9
+  ],
+  [
+   "Velomarket",
+   1
+  ],
+  [
+   "Uniplast",
+   1
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "kälke",
+   4
+  ],
+  [
+   "babykälke",
+   4
+  ],
+  [
+   "styrkälke",
+   2
+  ],
+  [
+   "rattkälke",
+   1
+  ]
+ ],
+ "pris_min": 239.0,
+ "pris_max": 2114.1,
+ "pris_median": 469.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [
+  [
+   "Kälke Uniplast Salvo",
+   239.0
+  ],
+  [
+   "Kälke Stiga Pacer",
+   329.0
+  ],
+  [
+   "Kälke Stiga Pacer med Bromsar",
+   359.0
+  ],
+  [
+   "Kälke STIGA Pacer DUO, svart",
+   469.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Rattkälke Stiga Iconic, Rosa-Svart",
+   2114.1
+  ],
+  [
+   "Styrkälke Stiga Snowpower, Rosa",
+   1547.1
+  ],
+  [
+   "Styrkälke Stiga SnowPower, Svart och Grön",
+   1538.1
+  ]
+ ],
+ "alla_titlar": [
+  "Babykälke Stiga Cruiser Eco, Svart",
+  "Babykälke Stiga Cruiser, Grön",
+  "Babykälke Stiga Cruiser, Rosa",
+  "Babykälke Stiga Cruiser, Svart",
+  "Kälke STIGA Pacer DUO, svart",
+  "Kälke Stiga Pacer",
+  "Kälke Stiga Pacer med Bromsar",
+  "Kälke Uniplast Salvo",
+  "Rattkälke Stiga Iconic, Rosa-Svart",
+  "Styrkälke Stiga SnowPower, Svart och Grön",
+  "Styrkälke Stiga Snowpower, Rosa"
+ ]
+}

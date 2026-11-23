@@ -1,0 +1,92 @@
+{
+ "handle": "hopfallbar-gymutrustning",
+ "id": "gid://shopify/Collection/562663751946",
+ "titel": "Hopfällbar Gymutrustning",
+ "regel": [],
+ "huvud_regex": "",
+ "antal_i_kollektionen": 18,
+ "antal_koopbara_alla": 9,
+ "antal_koopbara": 9,
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
+ "marken": [
+  [
+   "ADO",
+   3
+  ],
+  [
+   "Romet",
+   2
+  ],
+  [
+   "COAST",
+   2
+  ],
+  [
+   "Fiido",
+   1
+  ],
+  [
+   "Italwin",
+   1
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "hopfällbar",
+   9
+  ]
+ ],
+ "pris_min": 7226.1,
+ "pris_max": 25721.1,
+ "pris_median": 21077.1,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [
+  [
+   "Hopfällbar Cykel Romet Jubilat Classic, 24 tum, Grön",
+   7226.1
+  ],
+  [
+   "Hopfällbar Elcykel ADO A20S Air, 20 tum, Grå",
+   19700.1
+  ],
+  [
+   "Hopfällbar Elcykel ADO A20S Air, 20 tum, Blå",
+   19700.1
+  ],
+  [
+   "Hopfällbar Elcykel Fiido M1 Pro, Grön",
+   19763.1
+  ]
+ ],
+ "dyraste": [
+  [
+   "Hopfällbar Elcykel ADO Air 20 PRO, Blå",
+   25721.1
+  ],
+  [
+   "Hopfällbar elcykel Coast Jifo Light, Honey",
+   23363.1
+  ],
+  [
+   "Hopfällbar Elcykel Coast Vybe Light, Dammblå",
+   23363.1
+  ]
+ ],
+ "alla_titlar": [
+  "Hopfällbar Cykel Romet Jubilat Classic, 24 tum, Grön",
+  "Hopfällbar Elcykel ADO A20S Air, 20 tum, Blå",
+  "Hopfällbar Elcykel ADO A20S Air, 20 tum, Grå",
+  "Hopfällbar Elcykel ADO Air 20 PRO, Blå",
+  "Hopfällbar Elcykel Coast Vybe Light, Dammblå",
+  "Hopfällbar Elcykel Fiido M1 Pro, Grön",
+  "Hopfällbar Elcykel Italwin K2 XL, Vit",
+  "Hopfällbar Elcykel Romet E-Wigry 1.0, 20 tum, Mörkgrå",
+  "Hopfällbar elcykel Coast Jifo Light, Honey"
+ ]
+}

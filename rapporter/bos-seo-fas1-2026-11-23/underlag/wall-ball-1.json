@@ -1,0 +1,74 @@
+{
+ "handle": "wall-ball-1",
+ "id": "gid://shopify/Collection/562537136394",
+ "titel": "Wall ball",
+ "regel": [],
+ "huvud_regex": "",
+ "antal_i_kollektionen": 8,
+ "antal_koopbara_alla": 3,
+ "antal_koopbara": 3,
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
+ "marken": [
+  [
+   "Gorilla Sports Norden",
+   2
+  ],
+  [
+   "Gymstick",
+   1
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "wall",
+   2
+  ],
+  [
+   "medicinboll",
+   1
+  ]
+ ],
+ "pris_min": 599.0,
+ "pris_max": 1629.0,
+ "pris_median": 599.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": 6.0,
+ "kg_i_titlar_max": 15.0,
+ "antal_titlar_med_kg": 2,
+ "billigaste": [
+  [
+   "Wall Ball PRO 1-10kg",
+   599.0
+  ],
+  [
+   "Medicinboll Gymstick Wall Ball",
+   599.0
+  ],
+  [
+   "Wall Ball Paket PRO 6kg 12kg 15kg",
+   1629.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Wall Ball Paket PRO 6kg 12kg 15kg",
+   1629.0
+  ],
+  [
+   "Wall Ball PRO 1-10kg",
+   599.0
+  ],
+  [
+   "Medicinboll Gymstick Wall Ball",
+   599.0
+  ]
+ ],
+ "alla_titlar": [
+  "Medicinboll Gymstick Wall Ball",
+  "Wall Ball PRO 1-10kg",
+  "Wall Ball Paket PRO 6kg 12kg 15kg"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "handle": "power-rack",
+ "id": "gid://shopify/Collection/562614141194",
+ "titel": "Power rack",
+ "regel": [],
+ "huvud_regex": "",
+ "antal_i_kollektionen": 6,
+ "antal_koopbara_alla": 3,
+ "antal_koopbara": 3,
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
+ "marken": [
+  [
+   "Tunturi",
+   3
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "rack",
+   2
+  ],
+  [
+   "knäböjsställ",
+   1
+  ]
+ ],
+ "pris_min": 6677.1,
+ "pris_max": 15497.1,
+ "pris_median": 9341.1,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [
+  [
+   "Rack Tunturi WT60 Power Rack",
+   6677.1
+  ],
+  [
+   "Knäböjsställ Tunturi PR60 Power Rack",
+   9341.1
+  ],
+  [
+   "Rack Tunturi RC20 Pro Power Rack, Base Rack",
+   15497.1
+  ]
+ ],
+ "dyraste": [
+  [
+   "Rack Tunturi RC20 Pro Power Rack, Base Rack",
+   15497.1
+  ],
+  [
+   "Knäböjsställ Tunturi PR60 Power Rack",
+   9341.1
+  ],
+  [
+   "Rack Tunturi WT60 Power Rack",
+   6677.1
+  ]
+ ],
+ "alla_titlar": [
+  "Knäböjsställ Tunturi PR60 Power Rack",
+  "Rack Tunturi RC20 Pro Power Rack, Base Rack",
+  "Rack Tunturi WT60 Power Rack"
+ ]
+}

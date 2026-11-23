@@ -1,0 +1,88 @@
+{
+ "handle": "skivstang-50-mm",
+ "id": "gid://shopify/Collection/526987264266",
+ "titel": "Skivstång 50mm",
+ "regel": [],
+ "huvud_regex": "",
+ "antal_i_kollektionen": 13,
+ "antal_koopbara_alla": 5,
+ "antal_koopbara": 5,
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
+ "marken": [
+  [
+   "Hammer",
+   2
+  ],
+  [
+   "Toorx",
+   2
+  ],
+  [
+   "Tunturi",
+   1
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "skivstång",
+   3
+  ],
+  [
+   "lyftstång",
+   1
+  ],
+  [
+   "curlbar",
+   1
+  ]
+ ],
+ "pris_min": 1511.1,
+ "pris_max": 5689.0,
+ "pris_median": 2589.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": 250.0,
+ "kg_i_titlar_max": 250.0,
+ "antal_titlar_med_kg": 1,
+ "billigaste": [
+  [
+   "Curlbar Tunturi Olympic SpringCol, 50 mm, 120 cm",
+   1511.1
+  ],
+  [
+   "Skivstång Toorx Olympic Barbell, 180 cm, 50 mm",
+   1925.1
+  ],
+  [
+   "Skivstång Toorx Olympic Barbell, 220 cm, 50 mm",
+   2589.0
+  ],
+  [
+   "Lyftstång HAMMER Skivstång, 183 cm, 250 kg, 50 mm",
+   3019.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Skivstång Hammer Olympic Barbell, 50 mm",
+   5689.0
+  ],
+  [
+   "Lyftstång HAMMER Skivstång, 183 cm, 250 kg, 50 mm",
+   3019.0
+  ],
+  [
+   "Skivstång Toorx Olympic Barbell, 220 cm, 50 mm",
+   2589.0
+  ]
+ ],
+ "alla_titlar": [
+  "Curlbar Tunturi Olympic SpringCol, 50 mm, 120 cm",
+  "Lyftstång HAMMER Skivstång, 183 cm, 250 kg, 50 mm",
+  "Skivstång Hammer Olympic Barbell, 50 mm",
+  "Skivstång Toorx Olympic Barbell, 180 cm, 50 mm",
+  "Skivstång Toorx Olympic Barbell, 220 cm, 50 mm"
+ ]
+}

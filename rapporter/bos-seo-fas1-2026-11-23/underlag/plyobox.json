@@ -1,0 +1,70 @@
+{
+ "handle": "plyobox",
+ "id": "gid://shopify/Collection/526983495946",
+ "titel": "Plyobox",
+ "regel": [],
+ "huvud_regex": "",
+ "antal_i_kollektionen": 6,
+ "antal_koopbara_alla": 3,
+ "antal_koopbara": 3,
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
+ "marken": [
+  [
+   "Gorilla Sports Norden",
+   3
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "plyobox",
+   2
+  ],
+  [
+   "plyo",
+   1
+  ]
+ ],
+ "pris_min": 2149.0,
+ "pris_max": 2249.0,
+ "pris_median": 2179.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [
+  [
+   "Plyobox i Tall och Poppel, 76 x 51 x 60,5 cm",
+   2149.0
+  ],
+  [
+   "Plyobox i plywood med handtag",
+   2179.0
+  ],
+  [
+   "Plyo Box Justerbar i Metall, 45–65 cm",
+   2249.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Plyo Box Justerbar i Metall, 45–65 cm",
+   2249.0
+  ],
+  [
+   "Plyobox i plywood med handtag",
+   2179.0
+  ],
+  [
+   "Plyobox i Tall och Poppel, 76 x 51 x 60,5 cm",
+   2149.0
+  ]
+ ],
+ "alla_titlar": [
+  "Plyo Box Justerbar i Metall, 45–65 cm",
+  "Plyobox i Tall och Poppel, 76 x 51 x 60,5 cm",
+  "Plyobox i plywood med handtag"
+ ]
+}
