@@ -12,6 +12,8 @@ Behörighet: write_files (eller write_products). Saknas den skriver Shopify vilk
   python3 wb_alt.py --ut ~/wb_alt --skriv                          (allt)
   python3 wb_alt.py --ut ~/wb_alt --utesluter-tagg price-change-job-active   (hoppa över produkter med taggen)
   python3 wb_alt.py --ut ~/wb_alt --bara-tagg price-change-job-active --skriv --max-produkter 10   (bara taggade produkter)
+  python3 wb_alt.py --ut ~/wb_alt --bara-las                       (bara läsa, till aktiva.jsonl)
+  python3 wb_alt.py --ut ~/wb_alt --aktiva-fil ~/wb_alt/aktiva.jsonl --skriv ...   (skriva ur en redan läst fil)
   python3 wb_alt.py --ut ~/wb_alt --aterstall ~/wb_alt/fore_alt.jsonl [--skriv]   (ångra: tom alt på de bilder vi skrev, bara om alt är oförändrad)
 """
 import argparse, json, os, sys, time
@@ -46,6 +48,12 @@ def att_gora(jsonl, uteslut_tagg=None, bara_tagg=None):
 
 
 def skriv_grupp(k, grupp):
+    """Skriver bara bilder som fortfarande saknar alt-text (läses om direkt före skrivning, så en gammal läsning kan inte
+    skriva över någons alt-text). Returnerar antalet skrivna."""
+    nu = {n["id"]: (n.get("alt") or "") for n in k.graphql(LASA, {"ids": [i for i, _, _ in grupp]})["nodes"] if n}
+    grupp = [g for g in grupp if nu.get(g[0]) == ""]
+    if not grupp:
+        return 0
     fel = k.graphql(SKRIV, {"f": [{"id": i, "alt": a} for i, a, _ in grupp]})["fileUpdate"]["userErrors"]
     if fel:
         raise Stopp(f"fileUpdate: {fel[:3]}")
@@ -53,6 +61,7 @@ def skriv_grupp(k, grupp):
     for (i, a, _), n in zip(grupp, r):
         if not n or (n.get("alt") or "") != a:
             raise Stopp(f"återläsning avviker för {i}: {n}")
+    return len(grupp)
 
 
 def kor(k, jobb, fore_fil, skriv=False, max_produkter=0, logg=print, sleep=time.sleep):
@@ -71,7 +80,7 @@ def kor(k, jobb, fore_fil, skriv=False, max_produkter=0, logg=print, sleep=time.
     skrivna = 0
     if skriv:
         for n in range(0, len(jobb), GRUPP):
-            skriv_grupp(k, jobb[n:n + GRUPP]); skrivna += len(jobb[n:n + GRUPP])
+            skrivna += skriv_grupp(k, jobb[n:n + GRUPP])
             if (n // GRUPP) % 25 == 0:
                 logg(f"  skrivna {skrivna} av {len(jobb)}")
             sleep(0.3)
@@ -111,6 +120,8 @@ def main():
     ap.add_argument("--skriv", action="store_true")
     ap.add_argument("--max-produkter", type=int, default=0)
     ap.add_argument("--utesluter-tagg", help="hoppa över produkter med den här taggen, t.ex. price-change-job-active")
+    ap.add_argument("--bara-las", action="store_true", help="läs bara alla aktiva produkter till aktiva.jsonl och avsluta (t.ex. med en läs-token, när bulkoperation inte tillåts för skriv-token)")
+    ap.add_argument("--aktiva-fil", help="använd en redan läst aktiva.jsonl i stället för att köra bulkoperation")
     ap.add_argument("--bara-tagg", help="ta bara produkter med den här taggen (t.ex. för en kanarie på prisjobbsprodukter)")
     ap.add_argument("--aterstall", metavar="FORE_FIL", help="ångra en tidigare körning ur dess före-fil (tom alt, bara om oförändrad)")
     a = ap.parse_args()
@@ -122,7 +133,9 @@ def main():
             print(f"att ångra {n}, hoppar över {h} (alt ändrad sedan vi skrev eller bild borta)" + ("" if a.skriv else " (torrkörning)"))
             return
         print("Läser alla aktiva produkter (bulkoperation) ...")
-        fil = kor_bulk(k, BULK, os.path.join(ut, "aktiva.jsonl"))
+        fil = os.path.expanduser(a.aktiva_fil) if a.aktiva_fil else kor_bulk(k, BULK, os.path.join(ut, "aktiva.jsonl"))
+        if a.bara_las:
+            print(f"Läste aktiva produkter till {fil}"); return
         jobb, antal_prod = att_gora(fil, a.utesluter_tagg, a.bara_tagg)
         print(f"Bilder utan alt-text: {len(jobb)} på {antal_prod} produkter")
         n, s = kor(k, jobb, os.path.join(ut, "fore_alt.jsonl"), a.skriv, a.max_produkter)

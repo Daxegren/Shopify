@@ -51,10 +51,15 @@ class T(unittest.TestCase):
         class Dalig(Fake):
             def graphql(self, q, v=None):
                 r = super().graphql(q, v)
-                if "nodes" in r: r["nodes"][0]["alt"] = "fel"
+                if "nodes" in r and self.alt: r["nodes"][0]["alt"] = "fel"
                 return r
         with self.assertRaises(W.Stopp):
             W.skriv_grupp(Dalig(), [("m1", "T", "p")])
+
+    def test_skriver_inte_over_alt_som_tillkommit_sedan_lasningen(self):
+        k = Fake(); k.alt = {"m1": "Någons text"}
+        self.assertEqual(W.skriv_grupp(k, [("m1", "T", "p"), ("m2", "T", "p")]), 1)
+        self.assertEqual((k.alt["m1"], k.alt["m2"]), ("Någons text", "T"))
 
     def test_utesluter_produkter_med_tagg(self):
         p = jsonl([{"id": "gid://shopify/Product/1", "title": "Tee", "tags": ["price-change-job-active"]},
