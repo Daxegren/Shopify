@@ -1,0 +1,37 @@
+{
+ "id": "gid://shopify/Product/10472299233546",
+ "title": "Viktskiva Toorx Bumper Plate Challenge, Grön, 10 kg",
+ "status": "ACTIVE",
+ "tags": [
+  "50mm",
+  "Konditionsträning & Fitness",
+  "texter-klara",
+  "Toorx",
+  "Velomarket",
+  "viktskivor"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848514892042",
+    "title": "green",
+    "sku": "DBCH-10",
+    "price": "769.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 8,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "green"
+     }
+    ]
+   }
+  ]
+ }
+}

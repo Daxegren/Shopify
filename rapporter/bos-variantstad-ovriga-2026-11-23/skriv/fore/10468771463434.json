@@ -1,0 +1,68 @@
+{
+ "id": "gid://shopify/Product/10468771463434",
+ "title": "Hantel HAMMER Compact Dumbbell PU 35 kg",
+ "status": "ACTIVE",
+ "tags": [
+  "Hammer",
+  "Hantlar",
+  "price-change-job-active",
+  "Professionell utrustning",
+  "På beställning",
+  "sale",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52832361447690",
+    "title": "Default Title",
+    "sku": "17435",
+    "price": "3554.10",
+    "compareAtPrice": "3949.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832361480458",
+    "title": "17431",
+    "sku": "17431",
+    "price": "3059.10",
+    "compareAtPrice": "3399.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "17431"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832361513226",
+    "title": "17435",
+    "sku": "17435",
+    "price": "3842.10",
+    "compareAtPrice": "4269.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "17435"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "id": "gid://shopify/Product/10468771004682",
+ "title": "Hantel HAMMER Compact Dumbbell PU 5 kg",
+ "status": "ACTIVE",
+ "tags": [
+  "Hammer",
+  "Hantlar",
+  "price-change-job-active",
+  "Professionell utrustning",
+  "På beställning",
+  "sale",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52832359973130",
+    "title": "17421",
+    "sku": "17421",
+    "price": "413.10",
+    "compareAtPrice": "459.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "17421"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832360005898",
+    "title": "17423",
+    "sku": "17423",
+    "price": "1412.10",
+    "compareAtPrice": "1569.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "17423"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832360038666",
+    "title": "17427",
+    "sku": "17427",
+    "price": "2240.10",
+    "compareAtPrice": "2489.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "17427"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832360071434",
+    "title": "17425",
+    "sku": "17425",
+    "price": "1826.10",
+    "compareAtPrice": "2029.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "17425"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832360104202",
+    "title": "17429",
+    "sku": "17429",
+    "price": "2645.10",
+    "compareAtPrice": "2939.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "CONTINUE",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "17429"
+     }
+    ]
+   }
+  ]
+ }
+}

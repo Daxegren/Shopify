@@ -1,0 +1,53 @@
+{
+ "id": "gid://shopify/Product/10472325349642",
+ "title": "Kettlebell Hammer Premium 22 kg",
+ "status": "ACTIVE",
+ "tags": [
+  "Hammer",
+  "Kettlebell",
+  "Konditionsträning & Fitness",
+  "price-change-job-active",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848791322890",
+    "title": "Default Title",
+    "sku": "17367",
+    "price": "1673.10",
+    "compareAtPrice": "1859.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848791355658",
+    "title": "17367",
+    "sku": "17367",
+    "price": "1475.10",
+    "compareAtPrice": "1639.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "17367"
+     }
+    ]
+   }
+  ]
+ }
+}

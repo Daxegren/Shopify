@@ -1,0 +1,56 @@
+{
+ "id": "gid://shopify/Product/10471179649290",
+ "title": "Damcykel Romet Art Deco Classic med Främre Korg, Beige",
+ "status": "ACTIVE",
+ "tags": [
+  "cykel",
+  "Cykelkorg",
+  "Damcykel",
+  "Damcyklar",
+  "price-change-job-active",
+  "På beställning",
+  "Romet",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52845231636746",
+    "title": "Default Title",
+    "sku": "28201496-C",
+    "price": "7298.10",
+    "compareAtPrice": "8109.00",
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845231669514",
+    "title": "M / beige",
+    "sku": "28181495-A",
+    "price": "6947.10",
+    "compareAtPrice": "7719.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / beige"
+     }
+    ]
+   }
+  ]
+ }
+}

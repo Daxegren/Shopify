@@ -1,0 +1,53 @@
+{
+ "id": "gid://shopify/Product/10472297300234",
+ "title": "Cykel Romet Vintage LTD D",
+ "status": "ACTIVE",
+ "tags": [
+  "cykel",
+  "Damcyklar",
+  "price-change-job-active",
+  "Romet",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848512860426",
+    "title": "Default Title",
+    "sku": "28201899-A",
+    "price": "8900.10",
+    "compareAtPrice": "9889.00",
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848512893194",
+    "title": "M / yellow",
+    "sku": "28181898-A",
+    "price": "7811.10",
+    "compareAtPrice": "8679.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / yellow"
+     }
+    ]
+   }
+  ]
+ }
+}

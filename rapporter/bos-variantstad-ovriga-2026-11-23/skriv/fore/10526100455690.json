@@ -1,0 +1,52 @@
+{
+ "id": "gid://shopify/Product/10526100455690",
+ "title": "Damcykel Romet Gazela 3, Vit",
+ "status": "ACTIVE",
+ "tags": [
+  "Damcyklar",
+  "price-change-job-active",
+  "Romet",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53151802163466",
+    "title": "Default Title",
+    "sku": "28191687-B",
+    "price": "8180.10",
+    "compareAtPrice": "9089.00",
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53151802196234",
+    "title": "L / white",
+    "sku": "28191687-B",
+    "price": "8180.10",
+    "compareAtPrice": "9089.00",
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / white"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "id": "gid://shopify/Product/10472334065930",
+ "title": "Gravelcykel Romet Finale, 16 Växlar, Gul",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Gravelcykel",
+  "price-change-job-active",
+  "Romet",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848808853770",
+    "title": "Default Title",
+    "sku": "28560409-A",
+    "price": "12788.10",
+    "compareAtPrice": "14209.00",
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848808886538",
+    "title": "M / yellow",
+    "sku": "28520408-A",
+    "price": "11222.10",
+    "compareAtPrice": "12469.00",
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / yellow"
+     }
+    ]
+   }
+  ]
+ }
+}

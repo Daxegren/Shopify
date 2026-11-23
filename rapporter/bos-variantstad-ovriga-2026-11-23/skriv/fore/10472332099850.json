@@ -1,0 +1,53 @@
+{
+ "id": "gid://shopify/Product/10472332099850",
+ "title": "Herrcykel Romet Wagant 7",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Herrcykel",
+  "price-change-job-active",
+  "Romet",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848805183754",
+    "title": "Default Title",
+    "sku": "28230604-D",
+    "price": "10088.10",
+    "compareAtPrice": "11209.00",
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848805216522",
+    "title": "M / Red",
+    "sku": "28190602-C",
+    "price": "8855.10",
+    "compareAtPrice": "9839.00",
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / Red"
+     }
+    ]
+   }
+  ]
+ }
+}

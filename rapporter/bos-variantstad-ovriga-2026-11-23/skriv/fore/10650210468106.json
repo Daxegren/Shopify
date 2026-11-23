@@ -1,0 +1,52 @@
+{
+ "id": "gid://shopify/Product/10650210468106",
+ "title": "Kettlebell HAMMER Premium 4kg",
+ "status": "ACTIVE",
+ "tags": [
+  "Hammer",
+  "Kettlebell",
+  "Konditionsträning & Fitness",
+  "price-change-job-active",
+  "sale",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53822881136906",
+    "title": "17360",
+    "sku": "17360",
+    "price": "1736.10",
+    "compareAtPrice": "1929.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "17360"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53822881169674",
+    "title": "17368",
+    "sku": "17368",
+    "price": "1754.10",
+    "compareAtPrice": "1949.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "17368"
+     }
+    ]
+   }
+  ]
+ }
+}

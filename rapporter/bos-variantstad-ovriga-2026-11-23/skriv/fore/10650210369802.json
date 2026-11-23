@@ -1,0 +1,66 @@
+{
+ "id": "gid://shopify/Product/10650210369802",
+ "title": "Viktplatta HAMMER Bumper Plate, Röd, 50mm, 2.5 kg",
+ "status": "ACTIVE",
+ "tags": [
+  "Hammer",
+  "Konditionsträning & Fitness",
+  "price-change-job-active",
+  "sale",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53822880514314",
+    "title": "Red",
+    "sku": "17050",
+    "price": "341.10",
+    "compareAtPrice": "379.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Red"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53822880547082",
+    "title": "gray",
+    "sku": "17051",
+    "price": "503.10",
+    "compareAtPrice": "559.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "gray"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53822880579850",
+    "title": "green",
+    "sku": "17052",
+    "price": "1835.10",
+    "compareAtPrice": "2039.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "green"
+     }
+    ]
+   }
+  ]
+ }
+}

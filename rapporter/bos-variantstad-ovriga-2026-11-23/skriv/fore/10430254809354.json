@@ -1,0 +1,37 @@
+{
+ "id": "gid://shopify/Product/10430254809354",
+ "title": "TOORX Olympic EVO Kettlebell, blå, 12 kg",
+ "status": "ACTIVE",
+ "tags": [
+  "Kettlebell",
+  "Konditionsträning & Fitness",
+  "price-change-job-active",
+  "sale",
+  "Toorx",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52657686937866",
+    "title": "blue",
+    "sku": "KCAE-12",
+    "price": "1538.10",
+    "compareAtPrice": "1709.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "blue"
+     }
+    ]
+   }
+  ]
+ }
+}

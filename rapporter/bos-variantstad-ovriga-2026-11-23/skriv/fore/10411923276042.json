@@ -1,0 +1,67 @@
+{
+ "id": "gid://shopify/Product/10411923276042",
+ "title": "Kettlebell TOORX Absolute Kettlebell, 12 kg",
+ "status": "ACTIVE",
+ "tags": [
+  "Kettlebell",
+  "Konditionsträning & Fitness",
+  "price-change-job-active",
+  "sale",
+  "Toorx",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52588319441162",
+    "title": "AKCA-12",
+    "sku": "AKCA-12",
+    "price": "1430.10",
+    "compareAtPrice": "1589.00",
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "AKCA-12"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52588319473930",
+    "title": "AKCA-10",
+    "sku": "AKCA-10",
+    "price": "692.10",
+    "compareAtPrice": "769.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "AKCA-10"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52588319506698",
+    "title": "AKCA-14",
+    "sku": "AKCA-14",
+    "price": "1601.10",
+    "compareAtPrice": "1779.00",
+    "inventoryQuantity": 5,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "AKCA-14"
+     }
+    ]
+   }
+  ]
+ }
+}

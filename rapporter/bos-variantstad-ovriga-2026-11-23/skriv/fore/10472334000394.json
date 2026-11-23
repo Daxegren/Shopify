@@ -1,0 +1,53 @@
+{
+ "id": "gid://shopify/Product/10472334000394",
+ "title": "Barncykel Romet Tom 12",
+ "status": "ACTIVE",
+ "tags": [
+  "Barncykel",
+  "Cyklar",
+  "price-change-job-active",
+  "Romet",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848808657162",
+    "title": "Red",
+    "sku": "2512638",
+    "price": "4166.10",
+    "compareAtPrice": "4629.00",
+    "inventoryQuantity": 8,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Red"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848808689930",
+    "title": "yellow",
+    "sku": "2512637",
+    "price": "4166.10",
+    "compareAtPrice": "4629.00",
+    "inventoryQuantity": 6,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "yellow"
+     }
+    ]
+   }
+  ]
+ }
+}

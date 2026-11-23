@@ -1,0 +1,67 @@
+{
+ "id": "gid://shopify/Product/10472300052746",
+ "title": "Sangpomm TOORX Vinyl Kettlebell, 10 kg",
+ "status": "ACTIVE",
+ "tags": [
+  "Kettlebell",
+  "Konditionsträning & Fitness",
+  "price-change-job-active",
+  "sale",
+  "Toorx",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848515285258",
+    "title": "Default Title",
+    "sku": "KRV-16",
+    "price": "1520.10",
+    "compareAtPrice": "1689.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848515318026",
+    "title": "KRV-16",
+    "sku": "KRV-16",
+    "price": "710.10",
+    "compareAtPrice": "789.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "KRV-16"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848515350794",
+    "title": "KRV-14",
+    "sku": "KRV-14",
+    "price": "710.10",
+    "compareAtPrice": "789.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "KRV-14"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "gid://shopify/Product/10650210664714",
+ "title": "Lyftstång HAMMER Skivstång, 183 cm, 250 kg, 50 mm",
+ "status": "ACTIVE",
+ "tags": [
+  "Hammer",
+  "Konditionsträning & Fitness",
+  "price-change-job-active",
+  "sale",
+  "Skivstång",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53822881366282",
+    "title": "17611",
+    "sku": "17611",
+    "price": "2717.10",
+    "compareAtPrice": "3019.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "17611"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53822881399050",
+    "title": "17613",
+    "sku": "17613",
+    "price": "5084.10",
+    "compareAtPrice": "5649.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "17613"
+     }
+    ]
+   }
+  ]
+ }
+}

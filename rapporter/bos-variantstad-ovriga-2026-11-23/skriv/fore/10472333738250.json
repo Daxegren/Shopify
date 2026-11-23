@@ -1,0 +1,52 @@
+{
+ "id": "gid://shopify/Product/10472333738250",
+ "title": "Damcykel Romet Orkan 1.0 D, Svart",
+ "status": "ACTIVE",
+ "tags": [
+  "Damcyklar",
+  "price-change-job-active",
+  "Romet",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848808001802",
+    "title": "Default Title",
+    "sku": "28170321-A",
+    "price": "7982.10",
+    "compareAtPrice": "8869.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848808034570",
+    "title": "M / black",
+    "sku": "28170321-A",
+    "price": "7010.10",
+    "compareAtPrice": "7789.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / black"
+     }
+    ]
+   }
+  ]
+ }
+}

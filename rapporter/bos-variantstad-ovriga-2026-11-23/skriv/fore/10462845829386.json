@@ -1,0 +1,66 @@
+{
+ "id": "gid://shopify/Product/10462845829386",
+ "title": "Hantel Toorx i Neopren, Säljs Styckvis",
+ "status": "ACTIVE",
+ "tags": [
+  "Hantlar",
+  "Konditionsträning & Fitness",
+  "texter-klara",
+  "Toorx",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52805467144458",
+    "title": "MN-2",
+    "sku": "MN-2",
+    "price": "129.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 5,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "MN-2"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52805467177226",
+    "title": "MN-3",
+    "sku": "MN-3",
+    "price": "189.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 4,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "MN-3"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52805467209994",
+    "title": "MN-1",
+    "sku": "MN-1",
+    "price": "69.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 7,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "MN-1"
+     }
+    ]
+   }
+  ]
+ }
+}

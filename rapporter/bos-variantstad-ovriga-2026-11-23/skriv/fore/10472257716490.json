@@ -1,0 +1,53 @@
+{
+ "id": "gid://shopify/Product/10472257716490",
+ "title": "Ungdomscykel ROMET Rambler R6.1 JR, 26\" blå",
+ "status": "ACTIVE",
+ "tags": [
+  "Barncykel",
+  "Cyklar",
+  "price-change-job-active",
+  "Romet",
+  "sale",
+  "ungdom",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848412098826",
+    "title": "Default Title",
+    "sku": "26170070-A",
+    "price": "6128.10",
+    "compareAtPrice": "6809.00",
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848412131594",
+    "title": "L / blue",
+    "sku": "26190069-A",
+    "price": "5381.10",
+    "compareAtPrice": "5979.00",
+    "inventoryQuantity": 4,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / blue"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "gid://shopify/Product/10526097735946",
+ "title": "Damcykel Romet Orkan D Lite, 28 tum, Lila och Rosa",
+ "status": "ACTIVE",
+ "tags": [
+  "Damcyklar",
+  "price-change-job-active",
+  "Romet",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53151795904778",
+    "title": "Default Title",
+    "sku": "2328544",
+    "price": "6065.10",
+    "compareAtPrice": "6739.00",
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53151795937546",
+    "title": "L / purple",
+    "sku": "2328542",
+    "price": "5318.10",
+    "compareAtPrice": "5909.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / purple"
+     }
+    ]
+   }
+  ]
+ }
+}

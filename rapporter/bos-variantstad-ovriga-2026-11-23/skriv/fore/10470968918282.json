@@ -1,0 +1,49 @@
+{
+ "id": "gid://shopify/Product/10470968918282",
+ "title": "Handledd- och ankelvikter TOORX Handleds-/Ankelvikter 2 x 2,0 kg",
+ "status": "ACTIVE",
+ "tags": [
+  "Konditionsträning & Fitness",
+  "Toorx",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52844528107786",
+    "title": "AHF-094",
+    "sku": "AHF-094",
+    "price": "229.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "AHF-094"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52844528140554",
+    "title": "AHF-093",
+    "sku": "AHF-093",
+    "price": "289.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 5,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "AHF-093"
+     }
+    ]
+   }
+  ]
+ }
+}

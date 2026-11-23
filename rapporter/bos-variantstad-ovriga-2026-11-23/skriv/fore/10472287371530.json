@@ -1,0 +1,50 @@
+{
+ "id": "gid://shopify/Product/10472287371530",
+ "title": "Hand- och fotvikter TOORX Hand-/fotvikter 2 x 0,5 kg",
+ "status": "ACTIVE",
+ "tags": [
+  "fotledsvikt",
+  "Konditionsträning & Fitness",
+  "Toorx",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848484352266",
+    "title": "AHF-071",
+    "sku": "AHF-071",
+    "price": "99.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 4,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "AHF-071"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848484385034",
+    "title": "AHF-072",
+    "sku": "AHF-072",
+    "price": "139.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 5,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "AHF-072"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "id": "gid://shopify/Product/10526100226314",
+ "title": "Hybridcykel Romet Wagant 4, 21 Växlar, Silver och Svart",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "hybridcykel",
+  "price-change-job-active",
+  "Romet",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53151801803018",
+    "title": "Default Title",
+    "sku": "28230583-A",
+    "price": "9575.10",
+    "compareAtPrice": "10639.00",
+    "inventoryQuantity": 4,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53151801835786",
+    "title": "L / silver",
+    "sku": "28210582-A",
+    "price": "9656.10",
+    "compareAtPrice": "10729.00",
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L / silver"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53151801868554",
+    "title": "XL / silver",
+    "sku": "28230583-A",
+    "price": "8396.10",
+    "compareAtPrice": "9329.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / silver"
+     }
+    ]
+   }
+  ]
+ }
+}

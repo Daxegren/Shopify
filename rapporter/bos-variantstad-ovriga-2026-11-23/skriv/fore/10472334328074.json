@@ -1,0 +1,52 @@
+{
+ "id": "gid://shopify/Product/10472334328074",
+ "title": "Damcykel Romet Orkan 2.0 D, Lila",
+ "status": "ACTIVE",
+ "tags": [
+  "Damcyklar",
+  "price-change-job-active",
+  "Romet",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848809869578",
+    "title": "Default Title",
+    "sku": "28170323-A",
+    "price": "8540.10",
+    "compareAtPrice": "9489.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848809902346",
+    "title": "M / purple",
+    "sku": "28170323-A",
+    "price": "7496.10",
+    "compareAtPrice": "8329.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M / purple"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "id": "gid://shopify/Product/10462781505802",
+ "title": "Yogamatta Toorx Antiglid, 173 x 60 cm, Grön-Grå",
+ "status": "ACTIVE",
+ "tags": [
+  "Konditionsträning & Fitness",
+  "texter-klara",
+  "Toorx",
+  "Velomarket",
+  "Yoga"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52805334368522",
+    "title": "Default Title",
+    "sku": "MAT-177",
+    "price": "229.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 9,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52805334401290",
+    "title": "MAT-177",
+    "sku": "MAT-177",
+    "price": "199.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 5,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "MAT-177"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "id": "gid://shopify/Product/10650210402570",
+ "title": "Justerbar Hantel Hammer SmartLock med Vrid-och-lås-mekanism",
+ "status": "ACTIVE",
+ "tags": [
+  "Hammer",
+  "Hantlar",
+  "Konditionsträning & Fitness",
+  "price-change-job-active",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53822880678154",
+    "title": "17358",
+    "sku": "17358",
+    "price": "5831.10",
+    "compareAtPrice": "6479.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "17358"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53822880710922",
+    "title": "17359",
+    "sku": "17359",
+    "price": "8144.10",
+    "compareAtPrice": "9049.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "17359"
+     }
+    ]
+   }
+  ]
+ }
+}

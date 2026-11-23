@@ -1,0 +1,54 @@
+{
+ "id": "gid://shopify/Product/10472258011402",
+ "title": "Hybridcykel Romet Wagant 1, 21 Växlar",
+ "status": "ACTIVE",
+ "tags": [
+  "Cyklar",
+  "Hybridcykel",
+  "price-change-job-active",
+  "På beställning",
+  "Romet",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848412590346",
+    "title": "Default Title",
+    "sku": "28230568-A",
+    "price": "7622.10",
+    "compareAtPrice": "8469.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53442841739530",
+    "title": "XL / hall",
+    "sku": "28230568-A",
+    "price": "6695.10",
+    "compareAtPrice": "7439.00",
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL / hall"
+     }
+    ]
+   }
+  ]
+ }
+}
