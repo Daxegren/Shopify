@@ -457,3 +457,7 @@ Vad hände: BEST OF SPORTS-skanningen visade att 82 % av bilderna i sidkällan s
 ## 2026-11-23: Variantnamn i BOS skrivs om av synken; ändra dem i synken, inte i butiken
 Vad hände: Före en tänkt namnrättning av 303 varianter (SKU eller engelska ord som namn) läste jag synkkoden (Lovable-projektet "BOS - Velomarket"). Den bygger variantnamnet av Velomarkets attribut (storlek, färg, vikt; annars SKU) och skickar `option1` med i varje variantuppdatering. Rättningar direkt i Shopify hade återställts vid nästa synk.
 Regel: läs hur ett flöde sätter ett fält innan fältet ändras i butiken. Variantnamn rättas via en översättnings- och override-tabell i synken.
+
+## 2026-11-23: Velomarket-synken matchar varianter på position, inte SKU
+Vad hände: Dubbla SKU:er, "Default Title"-varianter och priser som hör till en annan SKU fanns på sju Tunturi-produkter. Orsak: `shopify-bulk-sync` skriver SKU, namn, pris och streckkod till `existingVariants[i]` efter position, så en ändrad ordning eller ett saknat/tillkommet alternativ flyttar SKU:n till fel variant.
+Regel: variantnamn och variantstädning får inte planeras utan att först åtgärda matchningen (SKU först, position som reserv). Kontrollera hur ett flöde identifierar en rad innan fält skrivs på den.
