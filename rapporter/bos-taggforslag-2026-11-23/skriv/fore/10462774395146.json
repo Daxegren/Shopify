@@ -1,0 +1,22 @@
+{
+ "id": "gid://shopify/Product/10462774395146",
+ "title": "Boxningshandskar Hammer X-Shock 14 oz",
+ "handle": "boxing-gloves-hammer-x-shock-14oz-95315",
+ "status": "ACTIVE",
+ "tags": [
+  "Boxning",
+  "Hammer",
+  "Konditionsträning & Fitness",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52805303140618",
+    "price": "699.00",
+    "compareAtPrice": null
+   }
+  ]
+ }
+}

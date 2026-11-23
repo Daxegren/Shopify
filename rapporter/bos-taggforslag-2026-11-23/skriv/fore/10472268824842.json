@@ -1,0 +1,23 @@
+{
+ "id": "gid://shopify/Product/10472268824842",
+ "title": "Boxningshandskar Tunturi Allround Boxing Gloves, 12 oz",
+ "handle": "boxningshandskar-tunturi-allround-boxing-gloves-12oz-14tusbo012-1",
+ "status": "ACTIVE",
+ "tags": [
+  "Boxning",
+  "Fell",
+  "Konditionsträning & Fitness",
+  "texter-klara",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848440541450",
+    "price": "429.00",
+    "compareAtPrice": null
+   }
+  ]
+ }
+}

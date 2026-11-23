@@ -1,0 +1,26 @@
+{
+ "id": "gid://shopify/Product/10494687346954",
+ "title": "Hantelset Tunturi Centuri Neopren med Ställ, 3 Par",
+ "handle": "hantelset-med-st-ll-tunturi-centuri-neopren-hantelset-3-par-st-ll-22ctscl107-1",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Hantlar",
+  "Konditionsträning & Fitness",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52980949221642",
+    "price": "1331.10",
+    "compareAtPrice": "1479.00"
+   }
+  ]
+ }
+}

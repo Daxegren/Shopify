@@ -1,0 +1,21 @@
+{
+ "id": "gid://shopify/Product/10581112389898",
+ "title": "Hantelset Gymstick Vinyl, 15 kg",
+ "handle": "vinyl-dumbbell-set-15kg",
+ "status": "ACTIVE",
+ "tags": [
+  "Gymstick",
+  "Hantlar",
+  "texter-klara",
+  "Viktset"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53461543584010",
+    "price": "429.00",
+    "compareAtPrice": null
+   }
+  ]
+ }
+}

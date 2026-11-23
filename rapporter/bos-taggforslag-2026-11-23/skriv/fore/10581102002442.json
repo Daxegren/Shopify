@@ -1,0 +1,24 @@
+{
+ "id": "gid://shopify/Product/10581102002442",
+ "title": "Skivstångs- och Hantelset Gymstick, Vinyl, 60 kg",
+ "handle": "60-kg-vinyl-skivstangs-och-hantelset",
+ "status": "ACTIVE",
+ "tags": [
+  "Gymstick",
+  "Hantlar",
+  "price-change-job-active",
+  "sale",
+  "Skivstänger",
+  "texter-klara",
+  "Viktset"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53461501378826",
+    "price": "1844.10",
+    "compareAtPrice": "2049.00"
+   }
+  ]
+ }
+}

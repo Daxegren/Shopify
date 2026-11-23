@@ -1,0 +1,22 @@
+{
+ "id": "gid://shopify/Product/10472279539978",
+ "title": "Boxningshandskar Toorx Panther, Polyuretan, 10 oz",
+ "handle": "boxningshandskar-toorx-panther-boxing-gloves-10oz-bot-004",
+ "status": "ACTIVE",
+ "tags": [
+  "Boxning",
+  "Konditionsträning & Fitness",
+  "texter-klara",
+  "Toorx",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848463347978",
+    "price": "429.00",
+    "compareAtPrice": null
+   }
+  ]
+ }
+}

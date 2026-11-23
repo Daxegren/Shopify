@@ -1,0 +1,29 @@
+{
+ "id": "gid://shopify/Product/10462201446666",
+ "title": "Knäböjsställ Tunturi WT40",
+ "handle": "squat-rack-tunturi-wt40-17tswt4000",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Konditionsträning & Fitness",
+  "Pakethållare",
+  "price-change-job-active",
+  "sale",
+  "Skivstångsställning",
+  "squat",
+  "squat rack",
+  "squat stativ",
+  "texter-klara",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52800012484874",
+    "price": "5030.10",
+    "compareAtPrice": "5589.00"
+   }
+  ]
+ }
+}

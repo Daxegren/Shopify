@@ -1,0 +1,22 @@
+{
+ "id": "gid://shopify/Product/10472279605514",
+ "title": "Boxningshandskar Toorx Leopard, Polyuretan, 10 oz",
+ "handle": "boxningshandskar-toorx-leopard-boxing-gloves-10oz-bot-002",
+ "status": "ACTIVE",
+ "tags": [
+  "Boxning",
+  "Konditionsträning & Fitness",
+  "texter-klara",
+  "Toorx",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848463446282",
+    "price": "319.00",
+    "compareAtPrice": null
+   }
+  ]
+ }
+}

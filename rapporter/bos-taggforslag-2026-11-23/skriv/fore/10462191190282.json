@@ -1,0 +1,23 @@
+{
+ "id": "gid://shopify/Product/10462191190282",
+ "title": "Hantelset Tunturi med Skruvfästen, 15 kg",
+ "handle": "hantel-tunturi-hantelset-15kg-skruv-14tuscl235",
+ "status": "ACTIVE",
+ "tags": [
+  "Hantlar",
+  "Konditionsträning & Fitness",
+  "På beställning",
+  "texter-klara",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52799890686218",
+    "price": "709.00",
+    "compareAtPrice": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "gid://shopify/Product/10650165772554",
+ "title": "Fristående Boxningssäck Tunturi, 180 cm",
+ "handle": "frist-ende-boxningss-ck-tunturi-14tusbo096",
+ "status": "ACTIVE",
+ "tags": [
+  "Cykelväska",
+  "Konditionsträning & Fitness",
+  "price-change-job-active",
+  "sale",
+  "texter-klara",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53822721589514",
+    "price": "5939.10",
+    "compareAtPrice": "6599.00"
+   }
+  ]
+ }
+}

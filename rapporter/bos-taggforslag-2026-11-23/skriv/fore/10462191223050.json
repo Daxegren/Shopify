@@ -1,0 +1,23 @@
+{
+ "id": "gid://shopify/Product/10462191223050",
+ "title": "Hantelset Tunturi Vinyl, 15 kg",
+ "handle": "dumbbell-tunturi-vinyl-dumbbellset-15kg-14tuscl354",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Hantlar",
+  "Konditionsträning & Fitness",
+  "texter-klara",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52799890784522",
+    "price": "309.00",
+    "compareAtPrice": null
+   }
+  ]
+ }
+}

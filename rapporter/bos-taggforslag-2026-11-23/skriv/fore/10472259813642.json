@@ -1,0 +1,29 @@
+{
+ "id": "gid://shopify/Product/10472259813642",
+ "title": "Boxningssäck Tunturi Fristående, 69 x 69 x 170 cm, Svart",
+ "handle": "frist-ende-boxningss-ck-tunturi-free-stand-boxing-bag-14tusbo073-1",
+ "status": "ACTIVE",
+ "tags": [
+  "Boxning",
+  "boxningssäck",
+  "Boxningsutrustning",
+  "Cykelväska",
+  "Fell",
+  "Gymstick",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848415801610",
+    "price": "4931.10",
+    "compareAtPrice": "5479.00"
+   }
+  ]
+ }
+}

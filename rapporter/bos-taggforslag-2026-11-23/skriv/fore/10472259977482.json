@@ -1,0 +1,25 @@
+{
+ "id": "gid://shopify/Product/10472259977482",
+ "title": "Hantelset Tunturi Vinyl, 28 kg",
+ "handle": "dumbbell-tunturi-vinyl-dumbbellset-28kg-14tuscl358",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Gymstick",
+  "Hantlar",
+  "Konditionsträning & Fitness",
+  "texter-klara",
+  "Tunturi",
+  "Velomarket",
+  "Viktset"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848416129290",
+    "price": "609.00",
+    "compareAtPrice": null
+   }
+  ]
+ }
+}

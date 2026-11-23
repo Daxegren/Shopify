@@ -1,0 +1,20 @@
+{
+ "id": "gid://shopify/Product/10636662112522",
+ "title": "Stående Boxningssäck Body Opponent Bag",
+ "handle": "staende-boxningssack-body-opponent-bag",
+ "status": "ACTIVE",
+ "tags": [
+  "price-change-job-active",
+  "sale",
+  "texter-klara"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53782218539274",
+    "price": "7739.10",
+    "compareAtPrice": "8599.00"
+   }
+  ]
+ }
+}

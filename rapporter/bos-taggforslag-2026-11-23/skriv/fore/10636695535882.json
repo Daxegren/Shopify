@@ -1,0 +1,23 @@
+{
+ "id": "gid://shopify/Product/10636695535882",
+ "title": "Skivstång och Hantelset, 23 kg",
+ "handle": "2-in-1-barbell-och-hantlar",
+ "status": "ACTIVE",
+ "tags": [
+  "30mm",
+  "all products",
+  "price-change-job-active",
+  "sale",
+  "skivstångspaket med hantlar rak",
+  "texter-klara"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53782277128458",
+    "price": "1385.10",
+    "compareAtPrice": "1539.00"
+   }
+  ]
+ }
+}

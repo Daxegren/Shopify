@@ -1,0 +1,25 @@
+{
+ "id": "gid://shopify/Product/10472212332810",
+ "title": "Hantelset Tunturi med Skruvlås, 20 kg",
+ "handle": "hantel-tunturi-hantelset-20kg-skruv-14tuscl236-1",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Hantlar",
+  "Konditionsträning & Fitness",
+  "price-change-job-active",
+  "sale",
+  "texter-klara",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848142385418",
+    "price": "1367.10",
+    "compareAtPrice": "1519.00"
+   }
+  ]
+ }
+}

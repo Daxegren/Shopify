@@ -1,0 +1,24 @@
+{
+ "id": "gid://shopify/Product/10475374248202",
+ "title": "Hantelset Tunturi Neoprenhantlar med Ställ, 3 Par",
+ "handle": "hantlar-tunturi-neoprenhantlar-3-par-st-ll-14tuscl107",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Konditionsträning & Fitness",
+  "price-change-job-active",
+  "sale",
+  "texter-klara",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52865207992586",
+    "price": "1349.10",
+    "compareAtPrice": "1499.00"
+   }
+  ]
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "id": "gid://shopify/Product/10472283701514",
+ "title": "Hantelset Tunturi, 20 kg",
+ "handle": "dumbbells-tunturi-dumbbellset-20kg-14tuscl092",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Hantlar",
+  "Konditionsträning & Fitness",
+  "price-change-job-active",
+  "sale",
+  "texter-klara",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848474882314",
+    "price": "1520.10",
+    "compareAtPrice": "1689.00"
+   }
+  ]
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "id": "gid://shopify/Product/10472280391946",
+ "title": "Flaska Trec Shaker 050, 700 ml, Svart",
+ "handle": "flaska-trec-shaker-050-0-7-l-black-trec-team-12047",
+ "status": "ACTIVE",
+ "tags": [
+  "Flaska & Hållare",
+  "Konditionsträning & Fitness",
+  "texter-klara",
+  "Trec",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848465445130",
+    "price": "69.00",
+    "compareAtPrice": null
+   }
+  ]
+ }
+}

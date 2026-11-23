@@ -1,0 +1,25 @@
+{
+ "id": "gid://shopify/Product/10472261320970",
+ "title": "Träningsbox Tunturi Plyo Box Soft (EVA) 50/60/75 cm",
+ "handle": "tr-ningsbox-tunturi-plyo-box-soft-eva-50-60-75cm-14tuscf080",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Konditionsträning & Fitness",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848417898762",
+    "price": "3932.10",
+    "compareAtPrice": "4369.00"
+   }
+  ]
+ }
+}

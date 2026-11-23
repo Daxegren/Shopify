@@ -1,0 +1,23 @@
+{
+ "id": "gid://shopify/Product/10650174030090",
+ "title": "BH FITNESS Power Cage",
+ "handle": "bh-fitness-power-cage-g314",
+ "status": "ACTIVE",
+ "tags": [
+  "BH Fitness",
+  "Flaska & Hållare",
+  "Konditionsträning & Fitness",
+  "price-change-job-active",
+  "sale",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53822747476234",
+    "price": "6992.10",
+    "compareAtPrice": "7769.00"
+   }
+  ]
+ }
+}

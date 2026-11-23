@@ -1,0 +1,21 @@
+{
+ "id": "gid://shopify/Product/10472283865354",
+ "title": "Innerhandskar Tunturi för Boxning, Bomull, Svart",
+ "handle": "inner-gloves-tunturi-inner-gloves-14tusbo051-1",
+ "status": "ACTIVE",
+ "tags": [
+  "Boxningsutrustning",
+  "texter-klara",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848475177226",
+    "price": "89.00",
+    "compareAtPrice": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "gid://shopify/Product/10472261681418",
+ "title": "Rep Tunturi Pro Battle Rope med Skydd, 15 m",
+ "handle": "rep-tunturi-pro-battle-rope-med-skydd-15m-14tuscf084-1",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Konditionsträning & Fitness",
+  "price-change-job-active",
+  "sale",
+  "texter-klara",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848418554122",
+    "price": "2690.10",
+    "compareAtPrice": "2989.00"
+   }
+  ]
+ }
+}

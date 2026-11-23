@@ -1,0 +1,25 @@
+{
+ "id": "gid://shopify/Product/10475373429002",
+ "title": "Hantelset Tunturi 10 kg, 1 stång",
+ "handle": "hantelset-tunturi-hantelset-10-kg-1-st-ng-14tuscl101",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Gymstick",
+  "Hantlar",
+  "Konditionsträning & Fitness",
+  "texter-klara",
+  "Tunturi",
+  "Velomarket",
+  "Viktset"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52865205666058",
+    "price": "499.00",
+    "compareAtPrice": null
+   }
+  ]
+ }
+}

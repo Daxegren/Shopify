@@ -1,0 +1,24 @@
+{
+ "id": "gid://shopify/Product/10475369791754",
+ "title": "Träningsrep Tunturi Battle Rope 12 m",
+ "handle": "tr-ningsrep-tunturi-battle-rope-12m-14tuscf003",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Konditionsträning & Fitness",
+  "price-change-job-active",
+  "sale",
+  "texter-klara",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52865192296714",
+    "price": "1709.10",
+    "compareAtPrice": "1899.00"
+   }
+  ]
+ }
+}

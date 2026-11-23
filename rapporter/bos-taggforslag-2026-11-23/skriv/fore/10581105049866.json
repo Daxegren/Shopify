@@ -1,0 +1,30 @@
+{
+ "id": "gid://shopify/Product/10581105049866",
+ "title": "Boxningshandskar Gymstick Boxing Gloves",
+ "handle": "boxing-gloves-10oz",
+ "status": "ACTIVE",
+ "tags": [
+  "Boxning",
+  "Gymstick",
+  "texter-klara"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53461522186506",
+    "price": "389.00",
+    "compareAtPrice": null
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461522219274",
+    "price": "389.00",
+    "compareAtPrice": null
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461522252042",
+    "price": "389.00",
+    "compareAtPrice": null
+   }
+  ]
+ }
+}

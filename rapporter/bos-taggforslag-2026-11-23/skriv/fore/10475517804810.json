@@ -1,0 +1,22 @@
+{
+ "id": "gid://shopify/Product/10475517804810",
+ "title": "Boxningshandskar Toorx Jaguar, L/XL",
+ "handle": "boxningshandskar-toorx-jaguar-boxningshandskar-l-xl-bot-007",
+ "status": "ACTIVE",
+ "tags": [
+  "Boxning",
+  "Konditionsträning & Fitness",
+  "texter-klara",
+  "Toorx",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52865774289162",
+    "price": "289.00",
+    "compareAtPrice": null
+   }
+  ]
+ }
+}

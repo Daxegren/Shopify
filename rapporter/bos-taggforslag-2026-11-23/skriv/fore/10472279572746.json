@@ -1,0 +1,22 @@
+{
+ "id": "gid://shopify/Product/10472279572746",
+ "title": "Boxningshandskar Toorx Jaguar Boxing Gloves, S/M",
+ "handle": "boxningshandskar-toorx-jaguar-boxing-gloves-s-m-bot-006",
+ "status": "ACTIVE",
+ "tags": [
+  "Boxning",
+  "Konditionsträning & Fitness",
+  "texter-klara",
+  "Toorx",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848463413514",
+    "price": "289.00",
+    "compareAtPrice": null
+   }
+  ]
+ }
+}

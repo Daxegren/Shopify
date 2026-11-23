@@ -1,0 +1,25 @@
+{
+ "id": "gid://shopify/Product/10462848188682",
+ "title": "Hantelset Toorx Gjutjärn, 20 kg",
+ "handle": "hantlar-toorx-gjutj-rnshantel-20-kg-val-20dgn",
+ "status": "ACTIVE",
+ "tags": [
+  "Hantlar",
+  "Konditionsträning & Fitness",
+  "Mineraler",
+  "price-change-job-active",
+  "sale",
+  "texter-klara",
+  "Toorx",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52805470519562",
+    "price": "1529.10",
+    "compareAtPrice": "1699.00"
+   }
+  ]
+ }
+}

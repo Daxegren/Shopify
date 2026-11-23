@@ -1,0 +1,25 @@
+{
+ "id": "gid://shopify/Product/10480045424906",
+ "title": "Träningsbox Tunturi Plyo Box Wood 50/60/75 cm",
+ "handle": "tr-ningsbox-tunturi-plyo-box-wood-50-60-75cm-14tuscf078",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Konditionsträning & Fitness",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52890430800138",
+    "price": "2681.10",
+    "compareAtPrice": "2979.00"
+   }
+  ]
+ }
+}

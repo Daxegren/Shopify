@@ -1,0 +1,23 @@
+{
+ "id": "gid://shopify/Product/10472271184138",
+ "title": "Boxningshandskar Tunturi Allround, 14 oz, Konstläder",
+ "handle": "boxningshandskar-tunturi-allround-boxing-gloves-14oz-14tusbo013-1",
+ "status": "ACTIVE",
+ "tags": [
+  "Boxning",
+  "Boxningsutrustning",
+  "Fell",
+  "texter-klara",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848446865674",
+    "price": "429.00",
+    "compareAtPrice": null
+   }
+  ]
+ }
+}

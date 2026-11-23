@@ -1,0 +1,22 @@
+{
+ "id": "gid://shopify/Product/10611438649610",
+ "title": "Plyobox Gymstick Soft 3-in-1",
+ "handle": "soft-plyobox-3-in-1",
+ "status": "ACTIVE",
+ "tags": [
+  "Gymstick",
+  "Plyo Boxar",
+  "price-change-job-active",
+  "sale",
+  "texter-klara"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53632924647690",
+    "price": "2969.10",
+    "compareAtPrice": "3299.00"
+   }
+  ]
+ }
+}

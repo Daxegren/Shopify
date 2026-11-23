@@ -1,0 +1,26 @@
+{
+ "id": "gid://shopify/Product/10472260796682",
+ "title": "Väggboll Tunturi Wall Ball 10 kg, Grön",
+ "handle": "tunturi-wall-ball-10-kg-gr-n-14tuscf012-1",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Konditionsträning & Fitness",
+  "price-change-job-active",
+  "sale",
+  "texter-klara",
+  "Träningsboll",
+  "Träningsbollar",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848417046794",
+    "price": "1349.10",
+    "compareAtPrice": "1499.00"
+   }
+  ]
+ }
+}

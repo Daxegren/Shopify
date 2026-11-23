@@ -1,0 +1,26 @@
+{
+ "id": "gid://shopify/Product/10494881366282",
+ "title": "Hantelset Tunturi Platinum Hex Rubber, 1–10 kg",
+ "handle": "hantelset-tunturi-platinum-hex-rubber-dumbbells-1-10-kg-25tupla061",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Hantlar",
+  "price-change-job-active",
+  "Professionell utrustning",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52984063131914",
+    "price": "6119.10",
+    "compareAtPrice": "6799.00"
+   }
+  ]
+ }
+}

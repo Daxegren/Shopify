@@ -1,0 +1,29 @@
+{
+ "id": "gid://shopify/Product/10611438420234",
+ "title": "Shakerflaska Gymstick, 600 ml",
+ "handle": "shakerflaska-600ml-svart",
+ "status": "ACTIVE",
+ "tags": [
+  "Gymstick",
+  "texter-klara"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53632924320010",
+    "price": "69.00",
+    "compareAtPrice": null
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632924352778",
+    "price": "69.00",
+    "compareAtPrice": null
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632924385546",
+    "price": "0.00",
+    "compareAtPrice": null
+   }
+  ]
+ }
+}

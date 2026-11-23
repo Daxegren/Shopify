@@ -1,0 +1,19 @@
+{
+ "id": "gid://shopify/Product/10581110882570",
+ "title": "Boxningstassar Gymstick Punching Mitts",
+ "handle": "punching-mitts",
+ "status": "ACTIVE",
+ "tags": [
+  "Gymstick",
+  "texter-klara"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53461541028106",
+    "price": "389.00",
+    "compareAtPrice": null
+   }
+  ]
+ }
+}

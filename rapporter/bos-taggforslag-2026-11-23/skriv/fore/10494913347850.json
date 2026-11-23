@@ -1,0 +1,26 @@
+{
+ "id": "gid://shopify/Product/10494913347850",
+ "title": "Halvställ Tunturi HR60 Half Rack",
+ "handle": "half-rack-tunturi-hr60-25tshr6000",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Pakethållare",
+  "price-change-job-active",
+  "Professionell utrustning",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52984649482506",
+    "price": "8522.10",
+    "compareAtPrice": "9469.00"
+   }
+  ]
+ }
+}

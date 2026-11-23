@@ -1,0 +1,24 @@
+{
+ "id": "gid://shopify/Product/10635767382282",
+ "title": "Rack BH Fitness Power Rack",
+ "handle": "bh-fitness-power-rack-tr-ningsst-llning-g310",
+ "status": "ACTIVE",
+ "tags": [
+  "BH Fitness",
+  "Konditionsträning & Fitness",
+  "Pakethållare",
+  "price-change-job-active",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53778639192330",
+    "price": "5777.10",
+    "compareAtPrice": "6419.00"
+   }
+  ]
+ }
+}

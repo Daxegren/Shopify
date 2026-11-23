@@ -1,0 +1,24 @@
+{
+ "id": "gid://shopify/Product/10650173636874",
+ "title": "Träningsstation BH Fitness Power Cage och Lat Pull Down",
+ "handle": "j-ujaam-bh-fitness-power-cage-lat-pull-down-g315",
+ "status": "ACTIVE",
+ "tags": [
+  "BH Fitness",
+  "Flaska & Hållare",
+  "Konditionsträning & Fitness",
+  "price-change-job-active",
+  "sale",
+  "texter-klara",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53822747017482",
+    "price": "11609.10",
+    "compareAtPrice": "12899.00"
+   }
+  ]
+ }
+}

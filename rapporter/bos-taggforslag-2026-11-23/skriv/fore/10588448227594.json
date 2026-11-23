@@ -1,0 +1,20 @@
+{
+ "id": "gid://shopify/Product/10588448227594",
+ "title": "Shaker TREC Shaker 061, TREC TEAM, 0,7 l, mint",
+ "handle": "shaker-trec-shaker-061-trec-team-0-7-l-mint-5902114050979",
+ "status": "ACTIVE",
+ "tags": [
+  "Kosttillskott",
+  "Trec",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53499282063626",
+    "price": "59.00",
+    "compareAtPrice": null
+   }
+  ]
+ }
+}

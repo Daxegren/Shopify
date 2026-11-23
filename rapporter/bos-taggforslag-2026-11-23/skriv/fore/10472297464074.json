@@ -1,0 +1,22 @@
+{
+ "id": "gid://shopify/Product/10472297464074",
+ "title": "Flaska Trec Endurance 002, Orange",
+ "handle": "flaska-trec-endurance-002-orange-5902114039516",
+ "status": "ACTIVE",
+ "tags": [
+  "Flaska & Hållare",
+  "Konditionsträning & Fitness",
+  "texter-klara",
+  "Trec",
+  "Velomarket"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848513089802",
+    "price": "69.00",
+    "compareAtPrice": null
+   }
+  ]
+ }
+}
