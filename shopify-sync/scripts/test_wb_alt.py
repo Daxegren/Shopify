@@ -74,6 +74,13 @@ class T(unittest.TestCase):
         self.assertEqual(W.aterstall(k, f, skriv=True, sleep=lambda s: None), (2, 1))
         self.assertEqual((k.alt["m1"], k.alt["m2"], k.alt["m3"]), ("", "andrad av någon", ""))
 
+    def test_bara_tagg(self):
+        p = jsonl([{"id": "gid://shopify/Product/1", "title": "Tee", "tags": ["price-change-job-active"]},
+                   {"id": "gid://shopify/MediaImage/1", "alt": "", "__parentId": "gid://shopify/Product/1"},
+                   {"id": "gid://shopify/Product/2", "title": "Hoodie", "tags": []},
+                   {"id": "gid://shopify/MediaImage/2", "alt": "", "__parentId": "gid://shopify/Product/2"}])
+        self.assertEqual([i for i, _, _ in W.att_gora(p, bara_tagg="price-change-job-active")[0]], ["gid://shopify/MediaImage/1"])
+
 
 if __name__ == "__main__":
     unittest.main()

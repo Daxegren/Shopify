@@ -11,6 +11,7 @@ Behörighet: write_files (eller write_products). Saknas den skriver Shopify vilk
   python3 wb_alt.py --ut ~/wb_alt --skriv --max-produkter 10       (kanariefall)
   python3 wb_alt.py --ut ~/wb_alt --skriv                          (allt)
   python3 wb_alt.py --ut ~/wb_alt --utesluter-tagg price-change-job-active   (hoppa över produkter med taggen)
+  python3 wb_alt.py --ut ~/wb_alt --bara-tagg price-change-job-active --skriv --max-produkter 10   (bara taggade produkter)
   python3 wb_alt.py --ut ~/wb_alt --aterstall ~/wb_alt/fore_alt.jsonl [--skriv]   (ångra: tom alt på de bilder vi skrev, bara om alt är oförändrad)
 """
 import argparse, json, os, sys, time
@@ -23,7 +24,7 @@ LASA = '''query($ids:[ID!]!){nodes(ids:$ids){... on MediaImage{id alt}}}'''
 GRUPP = 20
 
 
-def att_gora(jsonl, uteslut_tagg=None):
+def att_gora(jsonl, uteslut_tagg=None, bara_tagg=None):
     """[(media_id, ny_alt, produkt)] för bilder utan alt, och räkning. Produkter med taggen uteslut_tagg hoppas över."""
     ut, produkter, sedda = [], set(), set()
     for nod, barn in las_jsonl(jsonl):
@@ -31,6 +32,8 @@ def att_gora(jsonl, uteslut_tagg=None):
         if not titel:
             continue
         if uteslut_tagg and uteslut_tagg in (nod.get("tags") or []):
+            continue
+        if bara_tagg and bara_tagg not in (nod.get("tags") or []):
             continue
         for b in barn:
             if b.get("id", "").startswith("gid://shopify/MediaImage") and not (b.get("alt") or "").strip():
@@ -108,6 +111,7 @@ def main():
     ap.add_argument("--skriv", action="store_true")
     ap.add_argument("--max-produkter", type=int, default=0)
     ap.add_argument("--utesluter-tagg", help="hoppa över produkter med den här taggen, t.ex. price-change-job-active")
+    ap.add_argument("--bara-tagg", help="ta bara produkter med den här taggen (t.ex. för en kanarie på prisjobbsprodukter)")
     ap.add_argument("--aterstall", metavar="FORE_FIL", help="ångra en tidigare körning ur dess före-fil (tom alt, bara om oförändrad)")
     a = ap.parse_args()
     ut = os.path.expanduser(a.ut); os.makedirs(ut, exist_ok=True)
@@ -119,7 +123,7 @@ def main():
             return
         print("Läser alla aktiva produkter (bulkoperation) ...")
         fil = kor_bulk(k, BULK, os.path.join(ut, "aktiva.jsonl"))
-        jobb, antal_prod = att_gora(fil, a.utesluter_tagg)
+        jobb, antal_prod = att_gora(fil, a.utesluter_tagg, a.bara_tagg)
         print(f"Bilder utan alt-text: {len(jobb)} på {antal_prod} produkter")
         n, s = kor(k, jobb, os.path.join(ut, "fore_alt.jsonl"), a.skriv, a.max_produkter)
         print(f"valda {n}, skrivna {s}" + ("" if a.skriv else " (torrkörning)"))
