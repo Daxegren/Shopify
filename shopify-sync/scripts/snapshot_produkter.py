@@ -56,6 +56,9 @@ def main():
             fore, efter = (json.load(open(os.path.expanduser(x), encoding="utf-8")) for x in a.jamfor)
             sk = jamfor(fore, efter)
             print(f"{len(fore)} produkter jämförda, {len(sk)} skillnader")
+            if sk:
+                from collections import Counter
+                print("  per typ:", dict(Counter(v for _, v in sk)))
             for pid, vad in sk[:20]:
                 print("  ", pid, vad)
             return
