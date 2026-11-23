@@ -1,0 +1,50 @@
+{
+ "id": "gid://shopify/Product/10462784880906",
+ "title": "Gymnastikboll TUNTURI Gymball 65cm, Anti-Burst, Blå",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Konditionsträning & Fitness",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52805340135690",
+    "title": "Default Title",
+    "sku": "14TUSFU345",
+    "price": "189.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 6,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52805340168458",
+    "title": "blue (U345)",
+    "sku": "14TUSFU345",
+    "price": "219.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 8,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "blue (U345)"
+     }
+    ]
+   }
+  ]
+ }
+}

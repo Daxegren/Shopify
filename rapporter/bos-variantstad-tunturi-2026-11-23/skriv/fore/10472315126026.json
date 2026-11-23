@@ -1,0 +1,40 @@
+{
+ "id": "gid://shopify/Product/10472315126026",
+ "title": "Kettlebell Tunturi Platinum Rubber, 4 kg",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Kettlebell",
+  "Konditionsträning & Fitness",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "texter-klara",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848658383114",
+    "title": "black",
+    "sku": "25TUPLA051",
+    "price": "1448.10",
+    "compareAtPrice": "1609.00",
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "black"
+     }
+    ]
+   }
+  ]
+ }
+}

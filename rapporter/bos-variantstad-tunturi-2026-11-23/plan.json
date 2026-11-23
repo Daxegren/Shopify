@@ -1,0 +1,526 @@
+[
+ {
+  "produkt_id": "gid://shopify/Product/10475982651658",
+  "varianter": [
+   {
+    "fran_sku": "14TUSCF011",
+    "fran_namn": "Default Title",
+    "ny_sku": "14TUSCF010",
+    "nytt_namn": "6 kg / Röd"
+   },
+   {
+    "fran_sku": "14TUSCF011",
+    "fran_namn": "14TUSCF011",
+    "ny_sku": null,
+    "nytt_namn": "8 kg / Blå"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10472213250314",
+  "varianter": [
+   {
+    "fran_sku": "14TUSCL362",
+    "fran_namn": "Default Title",
+    "ny_sku": "14TUSCL361",
+    "nytt_namn": "5 kg / Orange"
+   },
+   {
+    "fran_sku": "14TUSCL362",
+    "fran_namn": "yellow",
+    "ny_sku": null,
+    "nytt_namn": "10 kg / Gul"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10472214921482",
+  "varianter": [
+   {
+    "fran_sku": "14TUSFU285",
+    "fran_namn": "Default Title",
+    "ny_sku": "14TUSFU283",
+    "nytt_namn": "90 cm / Röd"
+   },
+   {
+    "fran_sku": "14TUSFU285",
+    "fran_namn": "black",
+    "ny_sku": null,
+    "nytt_namn": "75 cm / Svart"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10462784880906",
+  "varianter": [
+   {
+    "fran_sku": "14TUSFU345",
+    "fran_namn": "Default Title",
+    "ny_sku": "14TUSFU344",
+    "nytt_namn": "65 cm / Blå"
+   },
+   {
+    "fran_sku": "14TUSFU345",
+    "fran_namn": "blue (U345)",
+    "ny_sku": null,
+    "nytt_namn": "75 cm / Blå"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10411721261322",
+  "varianter": [
+   {
+    "fran_sku": "14TUSFU225",
+    "fran_namn": "Default Title",
+    "ny_sku": "14TUSFU221",
+    "nytt_namn": "S"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10468752720138",
+  "varianter": [
+   {
+    "fran_sku": "25TUPLA014",
+    "fran_namn": "Default Title",
+    "ny_sku": null,
+    "nytt_namn": "2 x 4 kg"
+   },
+   {
+    "fran_sku": "25TUPLA013",
+    "fran_namn": "25TUPLA013",
+    "ny_sku": null,
+    "nytt_namn": "2 x 3 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10588451602698",
+  "varianter": [
+   {
+    "fran_sku": "25TUPLA095",
+    "fran_namn": "Default Title",
+    "ny_sku": null,
+    "nytt_namn": "6 kg"
+   },
+   {
+    "fran_sku": "25TUPLA097",
+    "fran_namn": "25TUPLA097",
+    "ny_sku": null,
+    "nytt_namn": "10 kg"
+   },
+   {
+    "fran_sku": "25TUPLA096",
+    "fran_namn": "25TUPLA096",
+    "ny_sku": null,
+    "nytt_namn": "8 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10472259354890",
+  "varianter": [
+   {
+    "fran_sku": "14TUSBO068",
+    "fran_namn": "14TUSBO068",
+    "ny_sku": null,
+    "nytt_namn": "80 cm"
+   },
+   {
+    "fran_sku": "14TUSBO069",
+    "fran_namn": "14TUSBO069",
+    "ny_sku": null,
+    "nytt_namn": "100 cm"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10461917741322",
+  "varianter": [
+   {
+    "fran_sku": "14TUSFU125",
+    "fran_namn": "14TUSFU125",
+    "ny_sku": null,
+    "nytt_namn": "140 cm / Blå"
+   },
+   {
+    "fran_sku": "14TUSFU126",
+    "fran_namn": "blue",
+    "ny_sku": null,
+    "nytt_namn": "180 cm / Blå"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10475373560074",
+  "varianter": [
+   {
+    "fran_sku": "14TUSCF101",
+    "fran_namn": "14TUSCF101",
+    "ny_sku": null,
+    "nytt_namn": "Vit"
+   },
+   {
+    "fran_sku": "14TUSCF102",
+    "fran_namn": "14TUSCF102",
+    "ny_sku": null,
+    "nytt_namn": "Grön"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10462794776842",
+  "varianter": [
+   {
+    "fran_sku": "14TUSFU111",
+    "fran_namn": "Red",
+    "ny_sku": null,
+    "nytt_namn": "3 kg / Röd"
+   },
+   {
+    "fran_sku": "14TUSFU112",
+    "fran_namn": "blue",
+    "ny_sku": null,
+    "nytt_namn": "4 kg / Blå"
+   },
+   {
+    "fran_sku": "14TUSFU110",
+    "fran_namn": "green",
+    "ny_sku": null,
+    "nytt_namn": "2 kg / Grön"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10588451504394",
+  "varianter": [
+   {
+    "fran_sku": "25TUPLA093",
+    "fran_namn": "25TUPLA093",
+    "ny_sku": null,
+    "nytt_namn": "15 kg"
+   },
+   {
+    "fran_sku": "25TUPLA094",
+    "fran_namn": "25TUPLA094",
+    "ny_sku": null,
+    "nytt_namn": "20 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10588451635466",
+  "varianter": [
+   {
+    "fran_sku": "25TUPLA101",
+    "fran_namn": "25TUPLA101",
+    "ny_sku": null,
+    "nytt_namn": "12 kg"
+   },
+   {
+    "fran_sku": "25TUPLA103",
+    "fran_namn": "25TUPLA103",
+    "ny_sku": null,
+    "nytt_namn": "20 kg"
+   },
+   {
+    "fran_sku": "25TUPLA100",
+    "fran_namn": "25TUPLA100",
+    "ny_sku": null,
+    "nytt_namn": "8 kg"
+   },
+   {
+    "fran_sku": "25TUPLA102",
+    "fran_namn": "25TUPLA102",
+    "ny_sku": null,
+    "nytt_namn": "16 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10541372801290",
+  "varianter": [
+   {
+    "fran_sku": "25TUPLA071",
+    "fran_namn": "25TUPLA071",
+    "ny_sku": null,
+    "nytt_namn": "8 kg"
+   },
+   {
+    "fran_sku": "25TUPLA073",
+    "fran_namn": "25TUPLA073",
+    "ny_sku": null,
+    "nytt_namn": "12 kg"
+   },
+   {
+    "fran_sku": "25TUPLA070",
+    "fran_namn": "25TUPLA070",
+    "ny_sku": null,
+    "nytt_namn": "6 kg"
+   },
+   {
+    "fran_sku": "25TUPLA072",
+    "fran_namn": "25TUPLA072",
+    "ny_sku": null,
+    "nytt_namn": "10 kg"
+   },
+   {
+    "fran_sku": "25TUPLA075",
+    "fran_namn": "25TUPLA075",
+    "ny_sku": null,
+    "nytt_namn": "20 kg"
+   },
+   {
+    "fran_sku": "25TUPLA074",
+    "fran_namn": "25TUPLA074",
+    "ny_sku": null,
+    "nytt_namn": "16 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10472315126026",
+  "varianter": [
+   {
+    "fran_sku": "25TUPLA051",
+    "fran_namn": "black",
+    "ny_sku": null,
+    "nytt_namn": "4 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10470888276234",
+  "varianter": [
+   {
+    "fran_sku": "14TUSCL218",
+    "fran_namn": "14TUSCL218",
+    "ny_sku": null,
+    "nytt_namn": "130 cm"
+   },
+   {
+    "fran_sku": "14TUSCL219",
+    "fran_namn": "14TUSCL219",
+    "ny_sku": null,
+    "nytt_namn": "150 cm"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10411761336586",
+  "varianter": [
+   {
+    "fran_sku": "14TUSYO025",
+    "fran_namn": "blue",
+    "ny_sku": null,
+    "nytt_namn": "Blå"
+   },
+   {
+    "fran_sku": "14TUSYO026",
+    "fran_namn": "pink",
+    "ny_sku": null,
+    "nytt_namn": "Rosa"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10472215544074",
+  "varianter": [
+   {
+    "fran_sku": "14TUSYO007",
+    "fran_namn": "14TUSYO007",
+    "ny_sku": null,
+    "nytt_namn": "90 cm"
+   },
+   {
+    "fran_sku": "14TUSYO008",
+    "fran_namn": "14TUSYO008",
+    "ny_sku": null,
+    "nytt_namn": "40 cm"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10472289861898",
+  "varianter": [
+   {
+    "fran_sku": "14TUSCL454",
+    "fran_namn": "14TUSCL454",
+    "ny_sku": null,
+    "nytt_namn": "20 kg"
+   },
+   {
+    "fran_sku": "14TUSCL455",
+    "fran_namn": "14TUSCL455",
+    "ny_sku": null,
+    "nytt_namn": "28 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10462774690058",
+  "varianter": [
+   {
+    "fran_sku": "14TUSGA006",
+    "fran_namn": "14TUSGA006",
+    "ny_sku": null,
+    "nytt_namn": "125 cm"
+   },
+   {
+    "fran_sku": "14TUSGA005",
+    "fran_namn": "14TUSGA005",
+    "ny_sku": null,
+    "nytt_namn": "95 cm"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10406816186634",
+  "varianter": [
+   {
+    "fran_sku": "14TUSCL330",
+    "fran_namn": "black",
+    "ny_sku": null,
+    "nytt_namn": "4 kg / Svart"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10462852284682",
+  "varianter": [
+   {
+    "fran_sku": "25TUPLA001",
+    "fran_namn": "25TUPLA001",
+    "ny_sku": null,
+    "nytt_namn": "Svart / 5 kg"
+   },
+   {
+    "fran_sku": "25TUPLA006",
+    "fran_namn": "25TUPLA006",
+    "ny_sku": null,
+    "nytt_namn": "Grå / 5 kg"
+   },
+   {
+    "fran_sku": "25TUPLA007",
+    "fran_namn": "25TUPLA007",
+    "ny_sku": null,
+    "nytt_namn": "Grön / 10 kg"
+   },
+   {
+    "fran_sku": "25TUPLA008",
+    "fran_namn": "25TUPLA008",
+    "ny_sku": null,
+    "nytt_namn": "Gul / 15 kg"
+   },
+   {
+    "fran_sku": "25TUPLA004",
+    "fran_namn": "25TUPLA004",
+    "ny_sku": null,
+    "nytt_namn": "Svart / 20 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10472211448074",
+  "varianter": [
+   {
+    "fran_sku": "14TUSCL145",
+    "fran_namn": "14TUSCL145",
+    "ny_sku": null,
+    "nytt_namn": "5 kg"
+   },
+   {
+    "fran_sku": "14TUSCL147",
+    "fran_namn": "14TUSCL147",
+    "ny_sku": null,
+    "nytt_namn": "15 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10462201839882",
+  "varianter": [
+   {
+    "fran_sku": "14TUSCF058",
+    "fran_namn": "14TUSCF058",
+    "ny_sku": null,
+    "nytt_namn": "15 kg"
+   },
+   {
+    "fran_sku": "14TUSCF059",
+    "fran_namn": "14TUSCF059",
+    "ny_sku": null,
+    "nytt_namn": "20 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10472263844106",
+  "varianter": [
+   {
+    "fran_sku": "14TUSCL290",
+    "fran_namn": "14TUSCL290",
+    "ny_sku": null,
+    "nytt_namn": "0,5 kg / Orange"
+   },
+   {
+    "fran_sku": "14TUSCL291",
+    "fran_namn": "14TUSCL291",
+    "ny_sku": null,
+    "nytt_namn": "1,25 kg / Röd"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10411853414666",
+  "varianter": [
+   {
+    "fran_sku": "14TUSCL093",
+    "fran_namn": "14TUSCL093",
+    "ny_sku": null,
+    "nytt_namn": "0,5 kg (par)"
+   },
+   {
+    "fran_sku": "14TUSCL094",
+    "fran_namn": "14TUSCL094",
+    "ny_sku": null,
+    "nytt_namn": "1,25 kg (par)"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10472311357706",
+  "varianter": [
+   {
+    "fran_sku": "25TUPLA049",
+    "fran_namn": "blue",
+    "ny_sku": null,
+    "nytt_namn": "Blå / 2 x 2 kg"
+   },
+   {
+    "fran_sku": "25TUPLA046",
+    "fran_namn": "black",
+    "ny_sku": null,
+    "nytt_namn": "Vit / 2 x 0,5 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10588451471626",
+  "varianter": [
+   {
+    "fran_sku": "25TUPLA092",
+    "fran_namn": "25TUPLA092",
+    "ny_sku": null,
+    "nytt_namn": "10 kg"
+   },
+   {
+    "fran_sku": "25TUPLA091",
+    "fran_namn": "25TUPLA091",
+    "ny_sku": null,
+    "nytt_namn": "5 kg"
+   }
+  ]
+ }
+]

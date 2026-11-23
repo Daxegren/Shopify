@@ -1,0 +1,66 @@
+{
+ "id": "gid://shopify/Product/10462794776842",
+ "title": "Hantlar Tunturi Vinyl Dumbbells",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Konditionsträning & Fitness",
+  "På beställning",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52805359141130",
+    "title": "Red",
+    "sku": "14TUSFU111",
+    "price": "339.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 4,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Red"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52805359173898",
+    "title": "blue",
+    "sku": "14TUSFU112",
+    "price": "449.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 8,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "blue"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52805359206666",
+    "title": "green",
+    "sku": "14TUSFU110",
+    "price": "249.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "green"
+     }
+    ]
+   }
+  ]
+ }
+}

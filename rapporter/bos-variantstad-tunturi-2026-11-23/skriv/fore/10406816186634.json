@@ -1,0 +1,37 @@
+{
+ "id": "gid://shopify/Product/10406816186634",
+ "title": "Kettlebell Tunturi, 24 kg, Svart",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Kettlebell",
+  "Konditionsträning & Fitness",
+  "texter-klara",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52573822091530",
+    "title": "black",
+    "sku": "14TUSCL330",
+    "price": "239.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "black"
+     }
+    ]
+   }
+  ]
+ }
+}

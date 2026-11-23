@@ -1,0 +1,55 @@
+{
+ "id": "gid://shopify/Product/10472289861898",
+ "title": "Styrketräningsset Tunturi Hantel- & Skivstångsset",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Hantlar",
+  "Konditionsträning & Fitness",
+  "På beställning",
+  "Skivstång",
+  "skivstångspaket",
+  "Skivstångspaket - 30mm",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848492675338",
+    "title": "14TUSCL454",
+    "sku": "14TUSCL454",
+    "price": "639.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 4,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "14TUSCL454"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848492708106",
+    "title": "14TUSCL455",
+    "sku": "14TUSCL455",
+    "price": "799.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "14TUSCL455"
+     }
+    ]
+   }
+  ]
+ }
+}

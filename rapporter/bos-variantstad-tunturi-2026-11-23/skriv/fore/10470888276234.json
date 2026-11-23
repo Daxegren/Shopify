@@ -1,0 +1,50 @@
+{
+ "id": "gid://shopify/Product/10470888276234",
+ "title": "Lyftstång Tunturi Aerobic Pump Bar, 30 mm",
+ "status": "ACTIVE",
+ "tags": [
+  "Konditionsträning & Fitness",
+  "Pump",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52843867865354",
+    "title": "14TUSCL218",
+    "sku": "14TUSCL218",
+    "price": "299.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 4,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "14TUSCL218"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52843867898122",
+    "title": "14TUSCL219",
+    "sku": "14TUSCL219",
+    "price": "319.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 4,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "14TUSCL219"
+     }
+    ]
+   }
+  ]
+ }
+}

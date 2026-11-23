@@ -1,0 +1,54 @@
+{
+ "id": "gid://shopify/Product/10461917741322",
+ "title": "Gymnastikmatta Tunturi Fitnessmat Pro, Blå",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "price-change-job-active",
+  "sale",
+  "texter-klara",
+  "träningsmatta",
+  "Tunturi",
+  "Velomarket",
+  "Yogamattor"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52798146085130",
+    "title": "14TUSFU125",
+    "sku": "14TUSFU125",
+    "price": "548.10",
+    "compareAtPrice": "609.00",
+    "inventoryQuantity": 24,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "14TUSFU125"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52798146117898",
+    "title": "blue",
+    "sku": "14TUSFU126",
+    "price": "1367.10",
+    "compareAtPrice": "1519.00",
+    "inventoryQuantity": 12,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "blue"
+     }
+    ]
+   }
+  ]
+ }
+}

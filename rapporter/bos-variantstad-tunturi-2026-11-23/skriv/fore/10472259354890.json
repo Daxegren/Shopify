@@ -1,0 +1,56 @@
+{
+ "id": "gid://shopify/Product/10472259354890",
+ "title": "Boxningssäck Tunturi Classic Boxing Bag, inkl. kedja",
+ "status": "ACTIVE",
+ "tags": [
+  "Boxning",
+  "boxningssäck",
+  "Boxningsutrustning",
+  "Cykelväska",
+  "Fell",
+  "Kedja",
+  "price-change-job-active",
+  "sale",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848415146250",
+    "title": "14TUSBO068",
+    "sku": "14TUSBO068",
+    "price": "1637.10",
+    "compareAtPrice": "1819.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "14TUSBO068"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848415179018",
+    "title": "14TUSBO069",
+    "sku": "14TUSBO069",
+    "price": "1763.10",
+    "compareAtPrice": "1959.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "14TUSBO069"
+     }
+    ]
+   }
+  ]
+ }
+}

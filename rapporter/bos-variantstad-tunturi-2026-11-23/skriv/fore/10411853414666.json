@@ -1,0 +1,50 @@
+{
+ "id": "gid://shopify/Product/10411853414666",
+ "title": "Viktskivor Tunturi Plates Black, 30 mm",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Konditionsträning & Fitness",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52588160057610",
+    "title": "14TUSCL093",
+    "sku": "14TUSCL093",
+    "price": "49.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 9,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "14TUSCL093"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52588160090378",
+    "title": "14TUSCL094",
+    "sku": "14TUSCL094",
+    "price": "119.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 11,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "14TUSCL094"
+     }
+    ]
+   }
+  ]
+ }
+}

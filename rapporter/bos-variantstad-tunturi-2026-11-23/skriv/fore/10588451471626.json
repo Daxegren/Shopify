@@ -1,0 +1,52 @@
+{
+ "id": "gid://shopify/Product/10588451471626",
+ "title": "Viktväska Tunturi Platinum Bulgarian Bag, 5 och 10 kg",
+ "status": "ACTIVE",
+ "tags": [
+  "Cykelväska",
+  "Konditionsträning & Fitness",
+  "price-change-job-active",
+  "sale",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53499298152714",
+    "title": "25TUPLA092",
+    "sku": "25TUPLA092",
+    "price": "1340.10",
+    "compareAtPrice": "1489.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "25TUPLA092"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499298185482",
+    "title": "25TUPLA091",
+    "sku": "25TUPLA091",
+    "price": "656.10",
+    "compareAtPrice": "729.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "25TUPLA091"
+     }
+    ]
+   }
+  ]
+ }
+}

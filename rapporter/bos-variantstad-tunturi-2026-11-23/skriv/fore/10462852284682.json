@@ -1,0 +1,98 @@
+{
+ "id": "gid://shopify/Product/10462852284682",
+ "title": "Viktplatta Tunturi Platinum Bumper Plate, 50 mm",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Konditionsträning & Fitness",
+  "price-change-job-active",
+  "På beställning",
+  "sale",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52805477302538",
+    "title": "25TUPLA001",
+    "sku": "25TUPLA001",
+    "price": "395.10",
+    "compareAtPrice": "439.00",
+    "inventoryQuantity": 4,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "25TUPLA001"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52805477335306",
+    "title": "25TUPLA006",
+    "sku": "25TUPLA006",
+    "price": "1331.10",
+    "compareAtPrice": "1479.00",
+    "inventoryQuantity": 4,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "25TUPLA006"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52805477368074",
+    "title": "25TUPLA007",
+    "sku": "25TUPLA007",
+    "price": "1673.10",
+    "compareAtPrice": "1859.00",
+    "inventoryQuantity": 8,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "25TUPLA007"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52805477400842",
+    "title": "25TUPLA008",
+    "sku": "25TUPLA008",
+    "price": "1682.10",
+    "compareAtPrice": "1869.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "25TUPLA008"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52805477433610",
+    "title": "25TUPLA004",
+    "sku": "25TUPLA004",
+    "price": "1943.10",
+    "compareAtPrice": "2159.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "25TUPLA004"
+     }
+    ]
+   }
+  ]
+ }
+}

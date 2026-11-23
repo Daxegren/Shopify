@@ -1,0 +1,51 @@
+{
+ "id": "gid://shopify/Product/10411761336586",
+ "title": "Massagerulle Tunturi Yoga Foam Grid Roller, 33 cm",
+ "status": "ACTIVE",
+ "tags": [
+  "Massage",
+  "texter-klara",
+  "Tunturi",
+  "Velomarket",
+  "Yoga"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52587340923146",
+    "title": "blue",
+    "sku": "14TUSYO025",
+    "price": "179.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 9,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "blue"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52587340955914",
+    "title": "pink",
+    "sku": "14TUSYO026",
+    "price": "169.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 12,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "pink"
+     }
+    ]
+   }
+  ]
+ }
+}

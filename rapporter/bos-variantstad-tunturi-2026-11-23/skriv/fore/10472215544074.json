@@ -1,0 +1,52 @@
+{
+ "id": "gid://shopify/Product/10472215544074",
+ "title": "Massagerulle Tunturi Yoga Massage Roller",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Massage",
+  "texter-klara",
+  "Tunturi",
+  "Velomarket",
+  "Yoga"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848154050826",
+    "title": "14TUSYO007",
+    "sku": "14TUSYO007",
+    "price": "519.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 4,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "14TUSYO007"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848154083594",
+    "title": "14TUSYO008",
+    "sku": "14TUSYO008",
+    "price": "319.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 4,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "14TUSYO008"
+     }
+    ]
+   }
+  ]
+ }
+}

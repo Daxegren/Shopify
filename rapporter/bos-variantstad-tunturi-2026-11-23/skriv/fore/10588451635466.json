@@ -1,0 +1,84 @@
+{
+ "id": "gid://shopify/Product/10588451635466",
+ "title": "Kettlebell Tunturi Platinum Competition, Tävlingsstandard",
+ "status": "ACTIVE",
+ "tags": [
+  "Kettlebell",
+  "Konditionsträning & Fitness",
+  "price-change-job-active",
+  "sale",
+  "sync-skydd",
+  "texter-klara",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53499298513162",
+    "title": "25TUPLA101",
+    "sku": "25TUPLA101",
+    "price": "1421.10",
+    "compareAtPrice": "1579.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "25TUPLA101"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499298545930",
+    "title": "25TUPLA103",
+    "sku": "25TUPLA103",
+    "price": "1457.10",
+    "compareAtPrice": "1619.00",
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "25TUPLA103"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499298578698",
+    "title": "25TUPLA100",
+    "sku": "25TUPLA100",
+    "price": "1457.10",
+    "compareAtPrice": "1619.00",
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "25TUPLA100"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499298611466",
+    "title": "25TUPLA102",
+    "sku": "25TUPLA102",
+    "price": "1457.10",
+    "compareAtPrice": "1619.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "25TUPLA102"
+     }
+    ]
+   }
+  ]
+ }
+}

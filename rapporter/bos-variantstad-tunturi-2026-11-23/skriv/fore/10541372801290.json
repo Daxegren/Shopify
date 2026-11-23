@@ -1,0 +1,111 @@
+{
+ "id": "gid://shopify/Product/10541372801290",
+ "title": "Kettlebell Tunturi Platinum gjutjärn",
+ "status": "ACTIVE",
+ "tags": [
+  "Kettlebell",
+  "Konditionsträning & Fitness",
+  "Mineraler",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53214526341386",
+    "title": "25TUPLA071",
+    "sku": "25TUPLA071",
+    "price": "389.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "25TUPLA071"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53214526374154",
+    "title": "25TUPLA073",
+    "sku": "25TUPLA073",
+    "price": "589.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "25TUPLA073"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53214526406922",
+    "title": "25TUPLA070",
+    "sku": "25TUPLA070",
+    "price": "679.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "25TUPLA070"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53214526439690",
+    "title": "25TUPLA072",
+    "sku": "25TUPLA072",
+    "price": "679.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "25TUPLA072"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53214526472458",
+    "title": "25TUPLA075",
+    "sku": "25TUPLA075",
+    "price": "679.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "25TUPLA075"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53214526505226",
+    "title": "25TUPLA074",
+    "sku": "25TUPLA074",
+    "price": "679.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "25TUPLA074"
+     }
+    ]
+   }
+  ]
+ }
+}

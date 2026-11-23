@@ -1,0 +1,54 @@
+{
+ "id": "gid://shopify/Product/10462774690058",
+ "title": "Trampolin Tunturi Funhop",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Gymstick",
+  "Konditionsträning & Fitness",
+  "price-change-job-active",
+  "sale",
+  "Trampoliner",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52805303959818",
+    "title": "14TUSGA006",
+    "sku": "14TUSGA006",
+    "price": "1889.10",
+    "compareAtPrice": "2099.00",
+    "inventoryQuantity": 4,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "14TUSGA006"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52805303992586",
+    "title": "14TUSGA005",
+    "sku": "14TUSGA005",
+    "price": "710.10",
+    "compareAtPrice": "789.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "14TUSGA005"
+     }
+    ]
+   }
+  ]
+ }
+}

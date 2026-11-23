@@ -1,0 +1,49 @@
+{
+ "id": "gid://shopify/Product/10472263844106",
+ "title": "Viktskivor Tunturi Aerobic Plates",
+ "status": "ACTIVE",
+ "tags": [
+  "Konditionsträning & Fitness",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848424681738",
+    "title": "14TUSCL290",
+    "sku": "14TUSCL290",
+    "price": "69.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 4,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "14TUSCL290"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848424714506",
+    "title": "14TUSCL291",
+    "sku": "14TUSCL291",
+    "price": "149.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "14TUSCL291"
+     }
+    ]
+   }
+  ]
+ }
+}

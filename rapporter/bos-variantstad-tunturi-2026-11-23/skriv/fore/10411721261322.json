@@ -1,0 +1,95 @@
+{
+ "id": "gid://shopify/Product/10411721261322",
+ "title": "Träningshandskar Tunturi Fitness Gloves Pro Gel, Läder",
+ "status": "ACTIVE",
+ "tags": [
+  "Konditionsträning & Fitness",
+  "texter-klara",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52587138580746",
+    "title": "Default Title",
+    "sku": "14TUSFU225",
+    "price": "169.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52587138613514",
+    "title": "M",
+    "sku": "14TUSFU222",
+    "price": "149.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52587138646282",
+    "title": "L",
+    "sku": "14TUSFU223",
+    "price": "149.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52587138679050",
+    "title": "XL",
+    "sku": "14TUSFU224",
+    "price": "149.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XL"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52587138711818",
+    "title": "XXL",
+    "sku": "14TUSFU225",
+    "price": "149.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "XXL"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "id": "gid://shopify/Product/10472211448074",
+ "title": "Viktplatta Tunturi Rubber Plate, 30 mm",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Konditionsträning & Fitness",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848137765130",
+    "title": "14TUSCL145",
+    "sku": "14TUSCL145",
+    "price": "269.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 6,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "14TUSCL145"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848137797898",
+    "title": "14TUSCL147",
+    "sku": "14TUSCL147",
+    "price": "769.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 9,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "14TUSCL147"
+     }
+    ]
+   }
+  ]
+ }
+}

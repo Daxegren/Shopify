@@ -1,0 +1,53 @@
+{
+ "id": "gid://shopify/Product/10475373560074",
+ "title": "Handledsskydd Tunturi, Bomull",
+ "status": "ACTIVE",
+ "tags": [
+  "Extra vikter",
+  "Fell",
+  "texter-klara",
+  "tillbehör",
+  "Tunturi",
+  "Velomarket",
+  "Vikttillbehör"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52865205960970",
+    "title": "14TUSCF101",
+    "sku": "14TUSCF101",
+    "price": "129.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "14TUSCF101"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52865205993738",
+    "title": "14TUSCF102",
+    "sku": "14TUSCF102",
+    "price": "139.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "14TUSCF102"
+     }
+    ]
+   }
+  ]
+ }
+}

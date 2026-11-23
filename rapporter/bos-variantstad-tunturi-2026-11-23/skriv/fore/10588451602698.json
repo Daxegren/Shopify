@@ -1,0 +1,64 @@
+{
+ "id": "gid://shopify/Product/10588451602698",
+ "title": "Slam Ball Tunturi Platinum",
+ "status": "ACTIVE",
+ "tags": [
+  "Konditionsträning & Fitness",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53499298382090",
+    "title": "Default Title",
+    "sku": "25TUPLA095",
+    "price": "369.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499298414858",
+    "title": "25TUPLA097",
+    "sku": "25TUPLA097",
+    "price": "319.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "25TUPLA097"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499298447626",
+    "title": "25TUPLA096",
+    "sku": "25TUPLA096",
+    "price": "319.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "25TUPLA096"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "id": "gid://shopify/Product/10472214921482",
+ "title": "Träningsboll Tunturi Gymball",
+ "status": "ACTIVE",
+ "tags": [
+  "texter-klara",
+  "träningsboll",
+  "Träningsbollar",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848153002250",
+    "title": "Default Title",
+    "sku": "14TUSFU285",
+    "price": "179.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 5,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848153035018",
+    "title": "black",
+    "sku": "14TUSFU285",
+    "price": "139.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 9,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "black"
+     }
+    ]
+   }
+  ]
+ }
+}

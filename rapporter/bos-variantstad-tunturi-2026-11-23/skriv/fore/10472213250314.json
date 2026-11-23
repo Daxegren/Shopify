@@ -1,0 +1,52 @@
+{
+ "id": "gid://shopify/Product/10472213250314",
+ "title": "Viktväska Tunturi Strengthbag",
+ "status": "ACTIVE",
+ "tags": [
+  "Cykelväska",
+  "Cykelväskor",
+  "Fell",
+  "texter-klara",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848143958282",
+    "title": "Default Title",
+    "sku": "14TUSCL362",
+    "price": "729.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848143991050",
+    "title": "yellow",
+    "sku": "14TUSCL362",
+    "price": "799.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 1,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "yellow"
+     }
+    ]
+   }
+  ]
+ }
+}

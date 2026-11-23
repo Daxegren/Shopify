@@ -1,0 +1,53 @@
+{
+ "id": "gid://shopify/Product/10468752720138",
+ "title": "Hantlar Tunturi Platinum Hex med Gummiöverdrag",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Hantlar",
+  "Professionell utrustning",
+  "På beställning",
+  "texter-klara",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52832288309514",
+    "title": "Default Title",
+    "sku": "25TUPLA014",
+    "price": "449.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "Default Title"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832288342282",
+    "title": "25TUPLA013",
+    "sku": "25TUPLA013",
+    "price": "139.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "25TUPLA013"
+     }
+    ]
+   }
+  ]
+ }
+}

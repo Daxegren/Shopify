@@ -1,0 +1,54 @@
+{
+ "id": "gid://shopify/Product/10472311357706",
+ "title": "Viktskivor Tunturi Platinum Fractional Plates, 50 mm",
+ "status": "ACTIVE",
+ "tags": [
+  "30mm",
+  "Fell",
+  "Konditionsträning & Fitness",
+  "På beställning",
+  "Tunturi",
+  "Velomarket",
+  "Viktskiva",
+  "viktskivor"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52848570958090",
+    "title": "blue",
+    "sku": "25TUPLA049",
+    "price": "679.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "blue"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848570990858",
+    "title": "black",
+    "sku": "25TUPLA046",
+    "price": "399.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 3,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "black"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "gid://shopify/Product/10462201839882",
+ "title": "Viktplatta Tunturi Training Bumper Plate, 50 mm",
+ "status": "ACTIVE",
+ "tags": [
+  "Fell",
+  "Konditionsträning & Fitness",
+  "price-change-job-active",
+  "sale",
+  "Tunturi",
+  "Velomarket"
+ ],
+ "options": [
+  {
+   "name": "Variant"
+  }
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/52800014614794",
+    "title": "14TUSCF058",
+    "sku": "14TUSCF058",
+    "price": "1385.10",
+    "compareAtPrice": "1539.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "14TUSCF058"
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52800014647562",
+    "title": "14TUSCF059",
+    "sku": "14TUSCF059",
+    "price": "1628.10",
+    "compareAtPrice": "1809.00",
+    "inventoryQuantity": 2,
+    "inventoryPolicy": "DENY",
+    "selectedOptions": [
+     {
+      "name": "Variant",
+      "value": "14TUSCF059"
+     }
+    ]
+   }
+  ]
+ }
+}
