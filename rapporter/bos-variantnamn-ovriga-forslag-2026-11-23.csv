@@ -1,0 +1,72 @@
+marke;produkt;nuvarande_namn;nuvarande_sku;ny_sku;nytt_namn;pris;anmarkning
+Romet;Barncykel Romet Tom 12;Red;2512638;;Röd;4166.10;namn
+Romet;Barncykel Romet Tom 12;yellow;2512637;;Gul;4166.10;namn
+Romet;Damcykel Romet Art Deco Lux med Främre Korg, Blå;Default Title;28201500-B;;;9134.10;två SKU:er har samma storlek/attribut (28201500-B, 28201500-C) - manuell
+Romet;Damcykel Romet Art Deco Lux med Främre Korg, Blå;L / sinine;28201500-C;;;8558.10;två SKU:er har samma storlek/attribut (28201500-B, 28201500-C) - manuell
+Romet;Damcykel Romet Art Deco Classic med Främre Korg, Beige;Default Title;28201496-C;;;7298.10;två SKU:er har samma storlek/attribut (28201496-A, 28201496-C) - manuell
+Romet;Damcykel Romet Art Deco Classic med Främre Korg, Beige;M / beige;28181495-A;;M / Beige;6947.10;namn
+Romet;Damcykel Romet Art Deco Lux med Främre Korg;Default Title;28201502-C;;;9134.10;två SKU:er har samma storlek/attribut (2228550, 28201502-C) - manuell
+Romet;Damcykel Romet Art Deco Lux med Främre Korg;L / must;28201502-C;;;8558.10;två SKU:er har samma storlek/attribut (2228550, 28201502-C) - manuell
+Romet;Damcykel Romet Gazela 3, Vit;Default Title;28191687-B;28171685-A;M / Vit;8180.10;Default Title (28191687-B dubblett) blir 28171685-A
+Romet;Damcykel Romet Gazela 3, Vit;L / white;28191687-B;;L / Vit;8180.10;namn
+Romet;Damcykel Romet Orkan 1.0 D, Svart;Default Title;28170321-A;28190322-A;L / Svart;7982.10;Default Title (28170321-A dubblett) blir 28190322-A
+Romet;Damcykel Romet Orkan 1.0 D, Svart;M / black;28170321-A;;M / Svart;7010.10;namn
+Romet;Damcykel Romet Orkan 2.0 D, Lila;Default Title;28170323-A;28190324-A;L / Lila;8540.10;Default Title (28170323-A dubblett) blir 28190324-A
+Romet;Damcykel Romet Orkan 2.0 D, Lila;M / purple;28170323-A;;M / Lila;7496.10;namn
+Romet;Damcykel Romet Orkan D Lite, 28 tum, Lila och Rosa;Default Title;2328544;;S / Lila;6065.10;namn
+Romet;Damcykel Romet Orkan D Lite, 28 tum, Lila och Rosa;L / purple;2328542;;L / Lila;5318.10;namn
+Romet;Cykel Romet Vintage Eco D;Default Title;28200712-B;;;6020.10;två SKU:er har samma storlek/attribut (28200712-A, 28200712-B) - manuell
+Romet;Cykel Romet Vintage Eco D;L / valge;28200712-B;;;5282.10;två SKU:er har samma storlek/attribut (28200712-A, 28200712-B) - manuell
+Romet;Cykel Romet Vintage LTD D;Default Title;28201899-A;;L / Gul;8900.10;namn
+Romet;Cykel Romet Vintage LTD D;M / yellow;28181898-A;;M / Gul;7811.10;namn
+Romet;Hybridcykel Romet Wagant 4, 21 Växlar, Silver och Svart;Default Title;28230583-A;28190581-A;M / Silver;9575.10;Default Title (28230583-A dubblett) blir 28190581-A
+Romet;Hybridcykel Romet Wagant 4, 21 Växlar, Silver och Svart;L / silver;28210582-A;;L / Silver;9656.10;namn
+Romet;Hybridcykel Romet Wagant 4, 21 Växlar, Silver och Svart;XL / silver;28230583-A;;XL / Silver;8396.10;namn
+Romet;Hybridcykel Romet Wagant 6, 24 Växlar, Brun och Svart;Default Title;28190593-A;28210594-A;L / Brun;9152.10;Default Title (28190593-A dubblett) blir 28210594-A
+Romet;Hybridcykel Romet Wagant 6, 24 Växlar, Brun och Svart;M / brown;28190593-A;;M / Brun;8036.10;namn
+Romet;Gravelcykel Romet Finale, 16 Växlar, Gul;Default Title;28560409-A;;L / Gul;12788.10;namn
+Romet;Gravelcykel Romet Finale, 16 Växlar, Gul;M / yellow;28520408-A;;M / Gul;11222.10;namn
+Toorx;Hand- och fotvikter TOORX Hand-/fotvikter 2 x 0,5 kg;AHF-071;AHF-071;;2 x 0,5 kg;99.00;namn
+Toorx;Hand- och fotvikter TOORX Hand-/fotvikter 2 x 0,5 kg;AHF-072;AHF-072;;2 x 1 kg;139.00;namn
+Toorx;Handledd- och ankelvikter TOORX Handleds-/Ankelvikter 2 x 2,0 kg;AHF-094;AHF-094;;2 x 2 kg;229.00;namn
+Toorx;Handledd- och ankelvikter TOORX Handleds-/Ankelvikter 2 x 2,0 kg;AHF-093;AHF-093;;2 x 2,5 kg;289.00;namn
+Hammer;Hantel HAMMER Compact Dumbbell PU 35 kg;Default Title;17435;17433;35 kg;3554.10;Default Title (17435 dubblett) blir 17433
+Hammer;Hantel HAMMER Compact Dumbbell PU 35 kg;17431;17431;;30 kg;3059.10;namn
+Hammer;Hantel HAMMER Compact Dumbbell PU 35 kg;17435;17435;;40 kg;3842.10;namn
+Hammer;Hantel HAMMER Compact Dumbbell PU 5 kg;17421;17421;;5 kg;413.10;namn
+Hammer;Hantel HAMMER Compact Dumbbell PU 5 kg;17423;17423;;10 kg;1412.10;namn
+Hammer;Hantel HAMMER Compact Dumbbell PU 5 kg;17427;17427;;20 kg;2240.10;namn
+Hammer;Hantel HAMMER Compact Dumbbell PU 5 kg;17425;17425;;15 kg;1826.10;namn
+Hammer;Hantel HAMMER Compact Dumbbell PU 5 kg;17429;17429;;25 kg;2645.10;namn
+Toorx;Hantel Toorx i Neopren, Säljs Styckvis;MN-2;MN-2;;2 kg;129.00;namn
+Toorx;Hantel Toorx i Neopren, Säljs Styckvis;MN-3;MN-3;;3 kg;189.00;namn
+Toorx;Hantel Toorx i Neopren, Säljs Styckvis;MN-1;MN-1;;1 kg;69.00;namn
+Romet;Herrcykel Romet Wagant 7;Default Title;28230604-D;;XL / Röd;10088.10;namn
+Romet;Herrcykel Romet Wagant 7;M / Red;28190602-C;;M / Röd;8855.10;namn
+Romet;Hybridcykel Romet Wagant 1, 21 Växlar;Default Title;28230568-A;28210567-A;L / Grå;7622.10;Default Title (28230568-A dubblett) blir 28210567-A
+Romet;Hybridcykel Romet Wagant 1, 21 Växlar;XL / hall;28230568-A;;XL / Grå;6695.10;namn
+Hammer;Justerbar Hantel Hammer SmartLock med Vrid-och-lås-mekanism;17358;17358;;20 kg;5831.10;namn
+Hammer;Justerbar Hantel Hammer SmartLock med Vrid-och-lås-mekanism;17359;17359;;32 kg;8144.10;namn
+Hammer;Kettlebell HAMMER Premium 4kg;17360;17360;;4 kg;1736.10;namn
+Hammer;Kettlebell HAMMER Premium 4kg;17368;17368;;20 kg;1754.10;namn
+Hammer;Kettlebell Hammer Premium 22 kg;Default Title;17367;17369;22 kg;1673.10;Default Title (17367 dubblett) blir 17369
+Hammer;Kettlebell Hammer Premium 22 kg;17367;17367;;18 kg;1475.10;namn
+Toorx;Kettlebell TOORX Absolute Kettlebell, 12 kg;AKCA-12;AKCA-12;;12 kg;1430.10;namn
+Toorx;Kettlebell TOORX Absolute Kettlebell, 12 kg;AKCA-10;AKCA-10;;10 kg;692.10;namn
+Toorx;Kettlebell TOORX Absolute Kettlebell, 12 kg;AKCA-14;AKCA-14;;14 kg;1601.10;namn
+Hammer;Lyftstång HAMMER Skivstång, 183 cm, 250 kg, 50 mm;17611;17611;;183 cm;2717.10;namn
+Hammer;Lyftstång HAMMER Skivstång, 183 cm, 250 kg, 50 mm;17613;17613;;220 cm;5084.10;namn
+Toorx;Sangpomm TOORX Vinyl Kettlebell, 10 kg;Default Title;KRV-16;KRV-10;10 kg;1520.10;Default Title (KRV-16 dubblett) blir KRV-10
+Toorx;Sangpomm TOORX Vinyl Kettlebell, 10 kg;KRV-16;KRV-16;;16 kg;710.10;namn
+Toorx;Sangpomm TOORX Vinyl Kettlebell, 10 kg;KRV-14;KRV-14;;14 kg;710.10;namn
+Toorx;TOORX Olympic EVO Kettlebell, blå, 12 kg;blue;KCAE-12;;12 kg;1538.10;namn
+Romet;"Ungdomscykel ROMET Rambler R6.0 JR, 26"" grön";Default Title;26170022-A;;;6290.10;två SKU:er har samma storlek/attribut (26190023-A, 26190023-B) - manuell
+Romet;"Ungdomscykel ROMET Rambler R6.0 JR, 26"" grön";L / roheline;26190023-A;;;5525.10;två SKU:er har samma storlek/attribut (26190023-A, 26190023-B) - manuell
+Romet;"Ungdomscykel ROMET Rambler R6.1 JR, 26"" blå";Default Title;26170070-A;;M / Blå;6128.10;namn
+Romet;"Ungdomscykel ROMET Rambler R6.1 JR, 26"" blå";L / blue;26190069-A;;L / Blå;5381.10;namn
+Hammer;Viktplatta HAMMER Bumper Plate, Röd, 50mm, 2.5 kg;Red;17050;;2,5 kg;341.10;namn
+Hammer;Viktplatta HAMMER Bumper Plate, Röd, 50mm, 2.5 kg;gray;17051;;5 kg;503.10;namn
+Hammer;Viktplatta HAMMER Bumper Plate, Röd, 50mm, 2.5 kg;green;17052;;10 kg;1835.10;namn
+Toorx;Viktskiva Toorx Bumper Plate Challenge, Grön, 10 kg;green;DBCH-10;;10 kg;769.00;namn
+Toorx;Yogamatta Toorx Antiglid, 173 x 60 cm, Grön-Grå;Default Title;MAT-177;MAT-176;Grön-Grå;229.00;Default Title (MAT-177 dubblett) blir MAT-176
+Toorx;Yogamatta Toorx Antiglid, 173 x 60 cm, Grön-Grå;MAT-177;MAT-177;;Lila-Grå;199.00;namn

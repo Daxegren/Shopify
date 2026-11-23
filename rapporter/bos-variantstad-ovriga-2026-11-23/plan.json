@@ -1,0 +1,514 @@
+[
+ {
+  "produkt_id": "gid://shopify/Product/10472334000394",
+  "varianter": [
+   {
+    "fran_sku": "2512638",
+    "fran_namn": "Red",
+    "ny_sku": null,
+    "nytt_namn": "Röd"
+   },
+   {
+    "fran_sku": "2512637",
+    "fran_namn": "yellow",
+    "ny_sku": null,
+    "nytt_namn": "Gul"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10471179649290",
+  "varianter": [
+   {
+    "fran_sku": "28181495-A",
+    "fran_namn": "M / beige",
+    "ny_sku": null,
+    "nytt_namn": "M / Beige"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10526100455690",
+  "varianter": [
+   {
+    "fran_sku": "28191687-B",
+    "fran_namn": "Default Title",
+    "ny_sku": "28171685-A",
+    "nytt_namn": "M / Vit"
+   },
+   {
+    "fran_sku": "28191687-B",
+    "fran_namn": "L / white",
+    "ny_sku": null,
+    "nytt_namn": "L / Vit"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10472333738250",
+  "varianter": [
+   {
+    "fran_sku": "28170321-A",
+    "fran_namn": "Default Title",
+    "ny_sku": "28190322-A",
+    "nytt_namn": "L / Svart"
+   },
+   {
+    "fran_sku": "28170321-A",
+    "fran_namn": "M / black",
+    "ny_sku": null,
+    "nytt_namn": "M / Svart"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10472334328074",
+  "varianter": [
+   {
+    "fran_sku": "28170323-A",
+    "fran_namn": "Default Title",
+    "ny_sku": "28190324-A",
+    "nytt_namn": "L / Lila"
+   },
+   {
+    "fran_sku": "28170323-A",
+    "fran_namn": "M / purple",
+    "ny_sku": null,
+    "nytt_namn": "M / Lila"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10526097735946",
+  "varianter": [
+   {
+    "fran_sku": "2328544",
+    "fran_namn": "Default Title",
+    "ny_sku": null,
+    "nytt_namn": "S / Lila"
+   },
+   {
+    "fran_sku": "2328542",
+    "fran_namn": "L / purple",
+    "ny_sku": null,
+    "nytt_namn": "L / Lila"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10472297300234",
+  "varianter": [
+   {
+    "fran_sku": "28201899-A",
+    "fran_namn": "Default Title",
+    "ny_sku": null,
+    "nytt_namn": "L / Gul"
+   },
+   {
+    "fran_sku": "28181898-A",
+    "fran_namn": "M / yellow",
+    "ny_sku": null,
+    "nytt_namn": "M / Gul"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10526100226314",
+  "varianter": [
+   {
+    "fran_sku": "28230583-A",
+    "fran_namn": "Default Title",
+    "ny_sku": "28190581-A",
+    "nytt_namn": "M / Silver"
+   },
+   {
+    "fran_sku": "28210582-A",
+    "fran_namn": "L / silver",
+    "ny_sku": null,
+    "nytt_namn": "L / Silver"
+   },
+   {
+    "fran_sku": "28230583-A",
+    "fran_namn": "XL / silver",
+    "ny_sku": null,
+    "nytt_namn": "XL / Silver"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10472333574410",
+  "varianter": [
+   {
+    "fran_sku": "28190593-A",
+    "fran_namn": "Default Title",
+    "ny_sku": "28210594-A",
+    "nytt_namn": "L / Brun"
+   },
+   {
+    "fran_sku": "28190593-A",
+    "fran_namn": "M / brown",
+    "ny_sku": null,
+    "nytt_namn": "M / Brun"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10472334065930",
+  "varianter": [
+   {
+    "fran_sku": "28560409-A",
+    "fran_namn": "Default Title",
+    "ny_sku": null,
+    "nytt_namn": "L / Gul"
+   },
+   {
+    "fran_sku": "28520408-A",
+    "fran_namn": "M / yellow",
+    "ny_sku": null,
+    "nytt_namn": "M / Gul"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10472287371530",
+  "varianter": [
+   {
+    "fran_sku": "AHF-071",
+    "fran_namn": "AHF-071",
+    "ny_sku": null,
+    "nytt_namn": "2 x 0,5 kg"
+   },
+   {
+    "fran_sku": "AHF-072",
+    "fran_namn": "AHF-072",
+    "ny_sku": null,
+    "nytt_namn": "2 x 1 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10470968918282",
+  "varianter": [
+   {
+    "fran_sku": "AHF-094",
+    "fran_namn": "AHF-094",
+    "ny_sku": null,
+    "nytt_namn": "2 x 2 kg"
+   },
+   {
+    "fran_sku": "AHF-093",
+    "fran_namn": "AHF-093",
+    "ny_sku": null,
+    "nytt_namn": "2 x 2,5 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10468771463434",
+  "varianter": [
+   {
+    "fran_sku": "17435",
+    "fran_namn": "Default Title",
+    "ny_sku": "17433",
+    "nytt_namn": "35 kg"
+   },
+   {
+    "fran_sku": "17431",
+    "fran_namn": "17431",
+    "ny_sku": null,
+    "nytt_namn": "30 kg"
+   },
+   {
+    "fran_sku": "17435",
+    "fran_namn": "17435",
+    "ny_sku": null,
+    "nytt_namn": "40 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10468771004682",
+  "varianter": [
+   {
+    "fran_sku": "17421",
+    "fran_namn": "17421",
+    "ny_sku": null,
+    "nytt_namn": "5 kg"
+   },
+   {
+    "fran_sku": "17423",
+    "fran_namn": "17423",
+    "ny_sku": null,
+    "nytt_namn": "10 kg"
+   },
+   {
+    "fran_sku": "17427",
+    "fran_namn": "17427",
+    "ny_sku": null,
+    "nytt_namn": "20 kg"
+   },
+   {
+    "fran_sku": "17425",
+    "fran_namn": "17425",
+    "ny_sku": null,
+    "nytt_namn": "15 kg"
+   },
+   {
+    "fran_sku": "17429",
+    "fran_namn": "17429",
+    "ny_sku": null,
+    "nytt_namn": "25 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10462845829386",
+  "varianter": [
+   {
+    "fran_sku": "MN-2",
+    "fran_namn": "MN-2",
+    "ny_sku": null,
+    "nytt_namn": "2 kg"
+   },
+   {
+    "fran_sku": "MN-3",
+    "fran_namn": "MN-3",
+    "ny_sku": null,
+    "nytt_namn": "3 kg"
+   },
+   {
+    "fran_sku": "MN-1",
+    "fran_namn": "MN-1",
+    "ny_sku": null,
+    "nytt_namn": "1 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10472332099850",
+  "varianter": [
+   {
+    "fran_sku": "28230604-D",
+    "fran_namn": "Default Title",
+    "ny_sku": null,
+    "nytt_namn": "XL / Röd"
+   },
+   {
+    "fran_sku": "28190602-C",
+    "fran_namn": "M / Red",
+    "ny_sku": null,
+    "nytt_namn": "M / Röd"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10472258011402",
+  "varianter": [
+   {
+    "fran_sku": "28230568-A",
+    "fran_namn": "Default Title",
+    "ny_sku": "28210567-A",
+    "nytt_namn": "L / Grå"
+   },
+   {
+    "fran_sku": "28230568-A",
+    "fran_namn": "XL / hall",
+    "ny_sku": null,
+    "nytt_namn": "XL / Grå"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10650210402570",
+  "varianter": [
+   {
+    "fran_sku": "17358",
+    "fran_namn": "17358",
+    "ny_sku": null,
+    "nytt_namn": "20 kg"
+   },
+   {
+    "fran_sku": "17359",
+    "fran_namn": "17359",
+    "ny_sku": null,
+    "nytt_namn": "32 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10650210468106",
+  "varianter": [
+   {
+    "fran_sku": "17360",
+    "fran_namn": "17360",
+    "ny_sku": null,
+    "nytt_namn": "4 kg"
+   },
+   {
+    "fran_sku": "17368",
+    "fran_namn": "17368",
+    "ny_sku": null,
+    "nytt_namn": "20 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10472325349642",
+  "varianter": [
+   {
+    "fran_sku": "17367",
+    "fran_namn": "Default Title",
+    "ny_sku": "17369",
+    "nytt_namn": "22 kg"
+   },
+   {
+    "fran_sku": "17367",
+    "fran_namn": "17367",
+    "ny_sku": null,
+    "nytt_namn": "18 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10411923276042",
+  "varianter": [
+   {
+    "fran_sku": "AKCA-12",
+    "fran_namn": "AKCA-12",
+    "ny_sku": null,
+    "nytt_namn": "12 kg"
+   },
+   {
+    "fran_sku": "AKCA-10",
+    "fran_namn": "AKCA-10",
+    "ny_sku": null,
+    "nytt_namn": "10 kg"
+   },
+   {
+    "fran_sku": "AKCA-14",
+    "fran_namn": "AKCA-14",
+    "ny_sku": null,
+    "nytt_namn": "14 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10650210664714",
+  "varianter": [
+   {
+    "fran_sku": "17611",
+    "fran_namn": "17611",
+    "ny_sku": null,
+    "nytt_namn": "183 cm"
+   },
+   {
+    "fran_sku": "17613",
+    "fran_namn": "17613",
+    "ny_sku": null,
+    "nytt_namn": "220 cm"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10472300052746",
+  "varianter": [
+   {
+    "fran_sku": "KRV-16",
+    "fran_namn": "Default Title",
+    "ny_sku": "KRV-10",
+    "nytt_namn": "10 kg"
+   },
+   {
+    "fran_sku": "KRV-16",
+    "fran_namn": "KRV-16",
+    "ny_sku": null,
+    "nytt_namn": "16 kg"
+   },
+   {
+    "fran_sku": "KRV-14",
+    "fran_namn": "KRV-14",
+    "ny_sku": null,
+    "nytt_namn": "14 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10430254809354",
+  "varianter": [
+   {
+    "fran_sku": "KCAE-12",
+    "fran_namn": "blue",
+    "ny_sku": null,
+    "nytt_namn": "12 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10472257716490",
+  "varianter": [
+   {
+    "fran_sku": "26170070-A",
+    "fran_namn": "Default Title",
+    "ny_sku": null,
+    "nytt_namn": "M / Blå"
+   },
+   {
+    "fran_sku": "26190069-A",
+    "fran_namn": "L / blue",
+    "ny_sku": null,
+    "nytt_namn": "L / Blå"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10650210369802",
+  "varianter": [
+   {
+    "fran_sku": "17050",
+    "fran_namn": "Red",
+    "ny_sku": null,
+    "nytt_namn": "2,5 kg"
+   },
+   {
+    "fran_sku": "17051",
+    "fran_namn": "gray",
+    "ny_sku": null,
+    "nytt_namn": "5 kg"
+   },
+   {
+    "fran_sku": "17052",
+    "fran_namn": "green",
+    "ny_sku": null,
+    "nytt_namn": "10 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10472299233546",
+  "varianter": [
+   {
+    "fran_sku": "DBCH-10",
+    "fran_namn": "green",
+    "ny_sku": null,
+    "nytt_namn": "10 kg"
+   }
+  ]
+ },
+ {
+  "produkt_id": "gid://shopify/Product/10462781505802",
+  "varianter": [
+   {
+    "fran_sku": "MAT-177",
+    "fran_namn": "Default Title",
+    "ny_sku": "MAT-176",
+    "nytt_namn": "Grön-Grå"
+   },
+   {
+    "fran_sku": "MAT-177",
+    "fran_namn": "MAT-177",
+    "ny_sku": null,
+    "nytt_namn": "Lila-Grå"
+   }
+  ]
+ }
+]

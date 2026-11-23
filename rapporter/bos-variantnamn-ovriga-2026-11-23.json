@@ -1,0 +1,755 @@
+{
+ "barncykel-romet-tom-12-r-d-2512639": {
+  "id": "gid://shopify/Product/10472334000394",
+  "titel": "Barncykel Romet Tom 12",
+  "status": "ACTIVE",
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848808657162",
+    "title": "Red",
+    "sku": "2512638",
+    "price": "4166.10",
+    "inventoryQuantity": 8
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848808689930",
+    "title": "yellow",
+    "sku": "2512637",
+    "price": "4166.10",
+    "inventoryQuantity": 6
+   }
+  ],
+  "vendor": "Romet"
+ },
+ "bicycle-romet-art-deco-lux-with-front-basket-blue-28201500-b-1": {
+  "id": "gid://shopify/Product/10472332329226",
+  "titel": "Damcykel Romet Art Deco Lux med Främre Korg, Blå",
+  "status": "ACTIVE",
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848805544202",
+    "title": "Default Title",
+    "sku": "28201500-B",
+    "price": "9134.10",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451941609738",
+    "title": "L / sinine",
+    "sku": "28201500-C",
+    "price": "8558.10",
+    "inventoryQuantity": 1
+   }
+  ],
+  "vendor": "Romet"
+ },
+ "cykel-romet-art-deco-classic-med-fr-mre-korg-beige-28201496-a": {
+  "id": "gid://shopify/Product/10471179649290",
+  "titel": "Damcykel Romet Art Deco Classic med Främre Korg, Beige",
+  "status": "ACTIVE",
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52845231636746",
+    "title": "Default Title",
+    "sku": "28201496-C",
+    "price": "7298.10",
+    "inventoryQuantity": 3
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845231669514",
+    "title": "M / beige",
+    "sku": "28181495-A",
+    "price": "6947.10",
+    "inventoryQuantity": 2
+   }
+  ],
+  "vendor": "Romet"
+ },
+ "cykel-romet-art-deco-lux-med-fr-mre-korg-svart-2228551": {
+  "id": "gid://shopify/Product/10462795202826",
+  "titel": "Damcykel Romet Art Deco Lux med Främre Korg",
+  "status": "ACTIVE",
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52805360156938",
+    "title": "Default Title",
+    "sku": "28201502-C",
+    "price": "9134.10",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451941380362",
+    "title": "L / must",
+    "sku": "28201502-C",
+    "price": "8558.10",
+    "inventoryQuantity": 0
+   }
+  ],
+  "vendor": "Romet"
+ },
+ "cykel-romet-gazela-3-vit-28171685-a": {
+  "id": "gid://shopify/Product/10526100455690",
+  "titel": "Damcykel Romet Gazela 3, Vit",
+  "status": "ACTIVE",
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53151802163466",
+    "title": "Default Title",
+    "sku": "28191687-B",
+    "price": "8180.10",
+    "inventoryQuantity": 3
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53151802196234",
+    "title": "L / white",
+    "sku": "28191687-B",
+    "price": "8180.10",
+    "inventoryQuantity": 3
+   }
+  ],
+  "vendor": "Romet"
+ },
+ "cykel-romet-orkan-1-0-d-svart-28190322-a": {
+  "id": "gid://shopify/Product/10472333738250",
+  "titel": "Damcykel Romet Orkan 1.0 D, Svart",
+  "status": "ACTIVE",
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848808001802",
+    "title": "Default Title",
+    "sku": "28170321-A",
+    "price": "7982.10",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848808034570",
+    "title": "M / black",
+    "sku": "28170321-A",
+    "price": "7010.10",
+    "inventoryQuantity": 1
+   }
+  ],
+  "vendor": "Romet"
+ },
+ "cykel-romet-orkan-2-0-d-lila-28190324-a": {
+  "id": "gid://shopify/Product/10472334328074",
+  "titel": "Damcykel Romet Orkan 2.0 D, Lila",
+  "status": "ACTIVE",
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848809869578",
+    "title": "Default Title",
+    "sku": "28170323-A",
+    "price": "8540.10",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848809902346",
+    "title": "M / purple",
+    "sku": "28170323-A",
+    "price": "7496.10",
+    "inventoryQuantity": 2
+   }
+  ],
+  "vendor": "Romet"
+ },
+ "cykel-romet-orkan-d-lite-lila-rosa-2328544": {
+  "id": "gid://shopify/Product/10526097735946",
+  "titel": "Damcykel Romet Orkan D Lite, 28 tum, Lila och Rosa",
+  "status": "ACTIVE",
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53151795904778",
+    "title": "Default Title",
+    "sku": "2328544",
+    "price": "6065.10",
+    "inventoryQuantity": 3
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53151795937546",
+    "title": "L / purple",
+    "sku": "2328542",
+    "price": "5318.10",
+    "inventoryQuantity": 1
+   }
+  ],
+  "vendor": "Romet"
+ },
+ "cykel-romet-vintage-eco-d-vit-28200712-a": {
+  "id": "gid://shopify/Product/10471064273162",
+  "titel": "Cykel Romet Vintage Eco D",
+  "status": "ACTIVE",
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52844759646474",
+    "title": "Default Title",
+    "sku": "28200712-B",
+    "price": "6020.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451941871882",
+    "title": "L / valge",
+    "sku": "28200712-B",
+    "price": "5282.10",
+    "inventoryQuantity": 0
+   }
+  ],
+  "vendor": "Romet"
+ },
+ "cykel-romet-vintage-ltd-d-gul-28201899-a": {
+  "id": "gid://shopify/Product/10472297300234",
+  "titel": "Cykel Romet Vintage LTD D",
+  "status": "ACTIVE",
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848512860426",
+    "title": "Default Title",
+    "sku": "28201899-A",
+    "price": "8900.10",
+    "inventoryQuantity": 3
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848512893194",
+    "title": "M / yellow",
+    "sku": "28181898-A",
+    "price": "7811.10",
+    "inventoryQuantity": 2
+   }
+  ],
+  "vendor": "Romet"
+ },
+ "cykel-romet-wagant-4-silver-svart-28190581-a": {
+  "id": "gid://shopify/Product/10526100226314",
+  "titel": "Hybridcykel Romet Wagant 4, 21 Växlar, Silver och Svart",
+  "status": "ACTIVE",
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53151801803018",
+    "title": "Default Title",
+    "sku": "28230583-A",
+    "price": "9575.10",
+    "inventoryQuantity": 4
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53151801835786",
+    "title": "L / silver",
+    "sku": "28210582-A",
+    "price": "9656.10",
+    "inventoryQuantity": 3
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53151801868554",
+    "title": "XL / silver",
+    "sku": "28230583-A",
+    "price": "8396.10",
+    "inventoryQuantity": 1
+   }
+  ],
+  "vendor": "Romet"
+ },
+ "cykel-romet-wagant-6-brun-svart-28210594-a": {
+  "id": "gid://shopify/Product/10472333574410",
+  "titel": "Hybridcykel Romet Wagant 6, 24 Växlar, Brun och Svart",
+  "status": "ACTIVE",
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848807739658",
+    "title": "Default Title",
+    "sku": "28190593-A",
+    "price": "9152.10",
+    "inventoryQuantity": 4
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848807772426",
+    "title": "M / brown",
+    "sku": "28190593-A",
+    "price": "8036.10",
+    "inventoryQuantity": 2
+   }
+  ],
+  "vendor": "Romet"
+ },
+ "gravelbike-romet-finale-gul-28560409-a": {
+  "id": "gid://shopify/Product/10472334065930",
+  "titel": "Gravelcykel Romet Finale, 16 Växlar, Gul",
+  "status": "ACTIVE",
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848808853770",
+    "title": "Default Title",
+    "sku": "28560409-A",
+    "price": "12788.10",
+    "inventoryQuantity": 3
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848808886538",
+    "title": "M / yellow",
+    "sku": "28520408-A",
+    "price": "11222.10",
+    "inventoryQuantity": 3
+   }
+  ],
+  "vendor": "Romet"
+ },
+ "hand-och-fotvikter-toorx-hand-fotvikter-2-x-0-5-kg-ahf-071": {
+  "id": "gid://shopify/Product/10472287371530",
+  "titel": "Hand- och fotvikter TOORX Hand-/fotvikter 2 x 0,5 kg",
+  "status": "ACTIVE",
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848484352266",
+    "title": "AHF-071",
+    "sku": "AHF-071",
+    "price": "99.00",
+    "inventoryQuantity": 4
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848484385034",
+    "title": "AHF-072",
+    "sku": "AHF-072",
+    "price": "139.00",
+    "inventoryQuantity": 5
+   }
+  ],
+  "vendor": "Toorx"
+ },
+ "handledd-och-ankelvikter-toorx-handleds-ankelvikter-2-x-2-0-kg-ahf-094": {
+  "id": "gid://shopify/Product/10470968918282",
+  "titel": "Handledd- och ankelvikter TOORX Handleds-/Ankelvikter 2 x 2,0 kg",
+  "status": "ACTIVE",
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52844528107786",
+    "title": "AHF-094",
+    "sku": "AHF-094",
+    "price": "229.00",
+    "inventoryQuantity": 3
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52844528140554",
+    "title": "AHF-093",
+    "sku": "AHF-093",
+    "price": "289.00",
+    "inventoryQuantity": 5
+   }
+  ],
+  "vendor": "Toorx"
+ },
+ "hantel-hammer-compact-dumbbell-pu-35-kg-17434": {
+  "id": "gid://shopify/Product/10468771463434",
+  "titel": "Hantel HAMMER Compact Dumbbell PU 35 kg",
+  "status": "ACTIVE",
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52832361447690",
+    "title": "Default Title",
+    "sku": "17435",
+    "price": "3554.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832361480458",
+    "title": "17431",
+    "sku": "17431",
+    "price": "3059.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832361513226",
+    "title": "17435",
+    "sku": "17435",
+    "price": "3842.10",
+    "inventoryQuantity": 0
+   }
+  ],
+  "vendor": "Hammer"
+ },
+ "hantel-hammer-compact-dumbbell-pu-5-kg-17421": {
+  "id": "gid://shopify/Product/10468771004682",
+  "titel": "Hantel HAMMER Compact Dumbbell PU 5 kg",
+  "status": "ACTIVE",
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52832359973130",
+    "title": "17421",
+    "sku": "17421",
+    "price": "413.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832360005898",
+    "title": "17423",
+    "sku": "17423",
+    "price": "1412.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832360038666",
+    "title": "17427",
+    "sku": "17427",
+    "price": "2240.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832360071434",
+    "title": "17425",
+    "sku": "17425",
+    "price": "1826.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832360104202",
+    "title": "17429",
+    "sku": "17429",
+    "price": "2645.10",
+    "inventoryQuantity": 0
+   }
+  ],
+  "vendor": "Hammer"
+ },
+ "hantel-toorx-neoprenhantlar-gr-n-2-kg-mn-2": {
+  "id": "gid://shopify/Product/10462845829386",
+  "titel": "Hantel Toorx i Neopren, Säljs Styckvis",
+  "status": "ACTIVE",
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52805467144458",
+    "title": "MN-2",
+    "sku": "MN-2",
+    "price": "129.00",
+    "inventoryQuantity": 5
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52805467177226",
+    "title": "MN-3",
+    "sku": "MN-3",
+    "price": "189.00",
+    "inventoryQuantity": 4
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52805467209994",
+    "title": "MN-1",
+    "sku": "MN-1",
+    "price": "69.00",
+    "inventoryQuantity": 7
+   }
+  ],
+  "vendor": "Toorx"
+ },
+ "herrcykel-romet-wagant-7-r-d-28230604-d": {
+  "id": "gid://shopify/Product/10472332099850",
+  "titel": "Herrcykel Romet Wagant 7",
+  "status": "ACTIVE",
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848805183754",
+    "title": "Default Title",
+    "sku": "28230604-D",
+    "price": "10088.10",
+    "inventoryQuantity": 3
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848805216522",
+    "title": "M / Red",
+    "sku": "28190602-C",
+    "price": "8855.10",
+    "inventoryQuantity": 3
+   }
+  ],
+  "vendor": "Romet"
+ },
+ "hybridcykel-romet-wagant-1-gr-bl-28230568-a": {
+  "id": "gid://shopify/Product/10472258011402",
+  "titel": "Hybridcykel Romet Wagant 1, 21 Växlar",
+  "status": "ACTIVE",
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848412590346",
+    "title": "Default Title",
+    "sku": "28230568-A",
+    "price": "7622.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53442841739530",
+    "title": "XL / hall",
+    "sku": "28230568-A",
+    "price": "6695.10",
+    "inventoryQuantity": 0
+   }
+  ],
+  "vendor": "Romet"
+ },
+ "justerbar-hantel-hammer-smartlock-20-kg-17358": {
+  "id": "gid://shopify/Product/10650210402570",
+  "titel": "Justerbar Hantel Hammer SmartLock med Vrid-och-lås-mekanism",
+  "status": "ACTIVE",
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53822880678154",
+    "title": "17358",
+    "sku": "17358",
+    "price": "5831.10",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53822880710922",
+    "title": "17359",
+    "sku": "17359",
+    "price": "8144.10",
+    "inventoryQuantity": 2
+   }
+  ],
+  "vendor": "Hammer"
+ },
+ "kettlebell-hammer-premium-4kg-17360": {
+  "id": "gid://shopify/Product/10650210468106",
+  "titel": "Kettlebell HAMMER Premium 4kg",
+  "status": "ACTIVE",
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53822881136906",
+    "title": "17360",
+    "sku": "17360",
+    "price": "1736.10",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53822881169674",
+    "title": "17368",
+    "sku": "17368",
+    "price": "1754.10",
+    "inventoryQuantity": 2
+   }
+  ],
+  "vendor": "Hammer"
+ },
+ "kettlebell-hammer-premium-kettlebell-22-kg-17369": {
+  "id": "gid://shopify/Product/10472325349642",
+  "titel": "Kettlebell Hammer Premium 22 kg",
+  "status": "ACTIVE",
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848791322890",
+    "title": "Default Title",
+    "sku": "17367",
+    "price": "1673.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848791355658",
+    "title": "17367",
+    "sku": "17367",
+    "price": "1475.10",
+    "inventoryQuantity": 1
+   }
+  ],
+  "vendor": "Hammer"
+ },
+ "kettlebell-toorx-absolute-kettlebell-12-kg": {
+  "id": "gid://shopify/Product/10411923276042",
+  "titel": "Kettlebell TOORX Absolute Kettlebell, 12 kg",
+  "status": "ACTIVE",
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52588319441162",
+    "title": "AKCA-12",
+    "sku": "AKCA-12",
+    "price": "1430.10",
+    "inventoryQuantity": 3
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52588319473930",
+    "title": "AKCA-10",
+    "sku": "AKCA-10",
+    "price": "692.10",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52588319506698",
+    "title": "AKCA-14",
+    "sku": "AKCA-14",
+    "price": "1601.10",
+    "inventoryQuantity": 5
+   }
+  ],
+  "vendor": "Toorx"
+ },
+ "lyftst-ng-hammer-skivst-ng-183-cm-250-kg-50-mm-17611": {
+  "id": "gid://shopify/Product/10650210664714",
+  "titel": "Lyftstång HAMMER Skivstång, 183 cm, 250 kg, 50 mm",
+  "status": "ACTIVE",
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53822881366282",
+    "title": "17611",
+    "sku": "17611",
+    "price": "2717.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53822881399050",
+    "title": "17613",
+    "sku": "17613",
+    "price": "5084.10",
+    "inventoryQuantity": 1
+   }
+  ],
+  "vendor": "Hammer"
+ },
+ "sangpomm-toorx-vinyl-kettlebell-10-kg-krv-10": {
+  "id": "gid://shopify/Product/10472300052746",
+  "titel": "Sangpomm TOORX Vinyl Kettlebell, 10 kg",
+  "status": "ACTIVE",
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848515285258",
+    "title": "Default Title",
+    "sku": "KRV-16",
+    "price": "1520.10",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848515318026",
+    "title": "KRV-16",
+    "sku": "KRV-16",
+    "price": "710.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848515350794",
+    "title": "KRV-14",
+    "sku": "KRV-14",
+    "price": "710.10",
+    "inventoryQuantity": 2
+   }
+  ],
+  "vendor": "Toorx"
+ },
+ "toorx-olympic-evo-kettlebell-bla-12-kg": {
+  "id": "gid://shopify/Product/10430254809354",
+  "titel": "TOORX Olympic EVO Kettlebell, blå, 12 kg",
+  "status": "ACTIVE",
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52657686937866",
+    "title": "blue",
+    "sku": "KCAE-12",
+    "price": "1538.10",
+    "inventoryQuantity": 2
+   }
+  ],
+  "vendor": "Toorx"
+ },
+ "ungdomscykel-romet-rambler-r6-0-jr-26-gr-n-26190023-a": {
+  "id": "gid://shopify/Product/10472332198154",
+  "titel": "Ungdomscykel ROMET Rambler R6.0 JR, 26\" grön",
+  "status": "ACTIVE",
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848805347594",
+    "title": "Default Title",
+    "sku": "26170022-A",
+    "price": "6290.10",
+    "inventoryQuantity": 4
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451948491018",
+    "title": "L / roheline",
+    "sku": "26190023-A",
+    "price": "5525.10",
+    "inventoryQuantity": 2
+   }
+  ],
+  "vendor": "Romet"
+ },
+ "ungdomscykel-romet-rambler-r6-1-jr-26-bl-26170070-a": {
+  "id": "gid://shopify/Product/10472257716490",
+  "titel": "Ungdomscykel ROMET Rambler R6.1 JR, 26\" blå",
+  "status": "ACTIVE",
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848412098826",
+    "title": "Default Title",
+    "sku": "26170070-A",
+    "price": "6128.10",
+    "inventoryQuantity": 3
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848412131594",
+    "title": "L / blue",
+    "sku": "26190069-A",
+    "price": "5381.10",
+    "inventoryQuantity": 4
+   }
+  ],
+  "vendor": "Romet"
+ },
+ "viktplatta-hammer-bumper-plate-gr-n-50mm-10-kg-17052": {
+  "id": "gid://shopify/Product/10650210369802",
+  "titel": "Viktplatta HAMMER Bumper Plate, Röd, 50mm, 2.5 kg",
+  "status": "ACTIVE",
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53822880514314",
+    "title": "Red",
+    "sku": "17050",
+    "price": "341.10",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53822880547082",
+    "title": "gray",
+    "sku": "17051",
+    "price": "503.10",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53822880579850",
+    "title": "green",
+    "sku": "17052",
+    "price": "1835.10",
+    "inventoryQuantity": 2
+   }
+  ],
+  "vendor": "Hammer"
+ },
+ "viktplatta-toorx-bumper-plate-challenge-gr-n-50-mm-10-kg-dbch-10": {
+  "id": "gid://shopify/Product/10472299233546",
+  "titel": "Viktskiva Toorx Bumper Plate Challenge, Grön, 10 kg",
+  "status": "ACTIVE",
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848514892042",
+    "title": "green",
+    "sku": "DBCH-10",
+    "price": "769.00",
+    "inventoryQuantity": 8
+   }
+  ],
+  "vendor": "Toorx"
+ },
+ "yogamatta-toorx-yoga-mat-gr-n-gr-mat-176": {
+  "id": "gid://shopify/Product/10462781505802",
+  "titel": "Yogamatta Toorx Antiglid, 173 x 60 cm, Grön-Grå",
+  "status": "ACTIVE",
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52805334368522",
+    "title": "Default Title",
+    "sku": "MAT-177",
+    "price": "229.00",
+    "inventoryQuantity": 9
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52805334401290",
+    "title": "MAT-177",
+    "sku": "MAT-177",
+    "price": "199.00",
+    "inventoryQuantity": 5
+   }
+  ],
+  "vendor": "Toorx"
+ }
+}
