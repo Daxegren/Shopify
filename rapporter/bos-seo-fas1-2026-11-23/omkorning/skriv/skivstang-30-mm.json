@@ -1,0 +1,156 @@
+{
+ "fore": {
+  "id": "gid://shopify/Collection/526987133194",
+  "handle": "skivstang-30-mm",
+  "title": "Skivstång 30mm",
+  "updatedAt": "2026-11-23T12:36:18Z",
+  "descriptionHtml": "",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "skivstang-30mm",
+  "seo": {
+   "title": "Skivstång 30mm – Standardstänger för hemmagym - Köp här!",
+   "description": "Köp skivstång 30mm för hemmaträning. Smidig, prisvärd och stabil stång som passar standardvikter. Perfekt för nybörjare och hemmagym."
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": false,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "skivstång 30mm"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 10
+  }
+ },
+ "produkter_fore": {
+  "gid://shopify/Product/10636757467402": [
+   "ACTIVE",
+   [
+    "30mm",
+    "Tricepsstång",
+    "all products",
+    "skivstång 30mm",
+    "texter-klara"
+   ],
+   "1089.0"
+  ],
+  "gid://shopify/Product/10636756746506": [
+   "ACTIVE",
+   [
+    "30mm",
+    "Tricepsstång",
+    "skivstång 30mm",
+    "texter-klara"
+   ],
+   "1059.0"
+  ],
+  "gid://shopify/Product/10636738134282": [
+   "ACTIVE",
+   [
+    "30mm",
+    "Skivstång 130cm",
+    "all products",
+    "body pump",
+    "bodypump",
+    "bodypump-stång",
+    "skivstång 30mm",
+    "texter-klara"
+   ],
+   "489.0"
+  ],
+  "gid://shopify/Product/10636718244106": [
+   "ACTIVE",
+   [
+    "30mm",
+    "Skivstång 130cm",
+    "all products",
+    "body pump",
+    "bodypump",
+    "skivstång 30mm",
+    "skivstångskudde",
+    "texter-klara"
+   ],
+   "499.0"
+  ],
+  "gid://shopify/Product/10636616466698": [
+   "DRAFT",
+   [
+    "30mm",
+    "Skivstång",
+    "all products",
+    "skivstång 30mm"
+   ],
+   "22.32"
+  ],
+  "gid://shopify/Product/10472346779914": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Skivstång",
+    "Tunturi",
+    "Velomarket",
+    "skivstång 30mm",
+    "texter-klara"
+   ],
+   "499.0"
+  ],
+  "gid://shopify/Product/10472346747146": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Skivstång",
+    "Tunturi",
+    "Velomarket",
+    "skivstång 30mm",
+    "texter-klara"
+   ],
+   "689.0"
+  ],
+  "gid://shopify/Product/10472259256586": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Skivstång",
+    "Tunturi",
+    "Velomarket",
+    "skivstång 30mm",
+    "texter-klara"
+   ],
+   "629.0"
+  ],
+  "gid://shopify/Product/10411923341578": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Skivstång",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "skivstång 30mm",
+    "texter-klara"
+   ],
+   "1925.1"
+  ],
+  "gid://shopify/Product/10403787735306": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Skivstång",
+    "Tunturi",
+    "Velomarket",
+    "skivstång 30mm",
+    "texter-klara"
+   ],
+   "569.0"
+  ]
+ }
+}

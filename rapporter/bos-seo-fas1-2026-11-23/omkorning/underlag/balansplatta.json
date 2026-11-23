@@ -1,0 +1,96 @@
+{
+ "handle": "balansplatta",
+ "id": "gid://shopify/Collection/562667618570",
+ "titel": "Balansplatta",
+ "regel": [],
+ "huvud_regex": "",
+ "antal_i_kollektionen": 11,
+ "antal_koopbara_alla": 9,
+ "antal_koopbara": 9,
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
+ "marken": [
+  [
+   "Gorilla Sports Norden",
+   5
+  ],
+  [
+   "Toorx",
+   2
+  ],
+  [
+   "Gorilla Sports",
+   1
+  ],
+  [
+   "Tunturi",
+   1
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "balansplatta",
+   5
+  ],
+  [
+   "balanskudde",
+   3
+  ],
+  [
+   "träningsbräda",
+   1
+  ]
+ ],
+ "pris_min": 209.0,
+ "pris_max": 2060.1,
+ "pris_median": 359.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [
+  [
+   "Balansplatta Tunturi Air Stepper Pad, Grön",
+   209.0
+  ],
+  [
+   "Balanskudde med Slät Yta, 33 cm",
+   229.0
+  ],
+  [
+   "Träningsbräda Toorx Wooden Balance Board",
+   299.0
+  ],
+  [
+   "Balansplatta GS i Trä, 40 cm, Svart",
+   329.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Balanskudde Toorx Evo Ball Absolute, Svart",
+   2060.1
+  ],
+  [
+   "Balansplatta Movit i Skum, 40 x 50 cm",
+   659.0
+  ],
+  [
+   "Balansplatta GS i Termoplast, 47 x 40 cm",
+   579.0
+  ]
+ ],
+ "alla_titlar": [
+  "Balanskudde Toorx Evo Ball Absolute, Svart",
+  "Balanskudde med Gummipiggar, 33 cm",
+  "Balanskudde med Slät Yta, 33 cm",
+  "Balansplatta GS i Termoplast, 47 x 40 cm",
+  "Balansplatta GS i Trä, 40 cm, Svart",
+  "Balansplatta Movit i Skum, 40 x 50 cm",
+  "Balansplatta Tunturi Air Stepper Pad, Grön",
+  "Balansplatta med Handtag, 39,5 cm",
+  "Träningsbräda Toorx Wooden Balance Board"
+ ]
+}

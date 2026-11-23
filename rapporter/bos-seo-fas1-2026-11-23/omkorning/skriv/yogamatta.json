@@ -1,0 +1,173 @@
+{
+ "fore": {
+  "id": "gid://shopify/Collection/562669093130",
+  "handle": "yogamatta",
+  "title": "Yogamatta",
+  "updatedAt": "2026-11-05T16:10:34Z",
+  "descriptionHtml": "",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "yogamatta",
+  "seo": {
+   "title": "Yogamatta i olika storlekar och tjocklekar | Best Of Sports - köp här!",
+   "description": "Hitta yogamattor i olika storlekar och tjocklekar. Träna yoga, pilates och stretch med slitstarka och bekväma mattor från Best Of Sports."
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": false,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "yogamatta"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 12
+  }
+ },
+ "produkter_fore": {
+  "gid://shopify/Product/10636730237194": [
+   "DRAFT",
+   [
+    "yoga",
+    "yogamatta"
+   ],
+   "289.0"
+  ],
+  "gid://shopify/Product/10636701303050": [
+   "ACTIVE",
+   [
+    "all products",
+    "texter-klara",
+    "träningsmatta",
+    "yoga",
+    "yogamatta"
+   ],
+   "579.0"
+  ],
+  "gid://shopify/Product/10636670435594": [
+   "DRAFT",
+   [
+    "Yoga",
+    "all products",
+    "matta",
+    "träningsmatta",
+    "yogamatta"
+   ],
+   "5.08"
+  ],
+  "gid://shopify/Product/10636652085514": [
+   "ACTIVE",
+   [
+    "all products",
+    "texter-klara",
+    "träningsmatta",
+    "yoga",
+    "yogamatta"
+   ],
+   "379.0"
+  ],
+  "gid://shopify/Product/10636643565834": [
+   "ACTIVE",
+   [
+    "Yoga",
+    "all products",
+    "matta",
+    "texter-klara",
+    "träningsmatta",
+    "yogamatta"
+   ],
+   "599.0"
+  ],
+  "gid://shopify/Product/10636617122058": [
+   "ACTIVE",
+   [
+    "Nyhet",
+    "Yoga",
+    "all products",
+    "texter-klara",
+    "träningsmatta",
+    "yogamatta"
+   ],
+   "699.0"
+  ],
+  "gid://shopify/Product/10636616925450": [
+   "ACTIVE",
+   [
+    "Nyhet",
+    "Yoga",
+    "all products",
+    "texter-klara",
+    "träningsmatta",
+    "träningsmatta træningsmåtte",
+    "yogamatta"
+   ],
+   "699.0"
+  ],
+  "gid://shopify/Product/10636616696074": [
+   "ACTIVE",
+   [
+    "Nyhet",
+    "Yoga",
+    "texter-klara",
+    "träningsmatta",
+    "träningsmatta træningsmåtte",
+    "yogamatta"
+   ],
+   "549.0"
+  ],
+  "gid://shopify/Product/10472505868554": [
+   "ACTIVE",
+   [
+    "Cykelbelysning",
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "Yoga",
+    "Yogamattor",
+    "texter-klara",
+    "yogamatta"
+   ],
+   "369.0"
+  ],
+  "gid://shopify/Product/10472289665290": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "Yoga",
+    "Yogamattor",
+    "texter-klara",
+    "yogamatta"
+   ],
+   "349.0"
+  ],
+  "gid://shopify/Product/10472281440522": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "Yoga",
+    "texter-klara",
+    "yogamatta"
+   ],
+   "139.0"
+  ],
+  "gid://shopify/Product/10472281407754": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "Yoga",
+    "texter-klara",
+    "yogamatta"
+   ],
+   "139.0"
+  ]
+ }
+}

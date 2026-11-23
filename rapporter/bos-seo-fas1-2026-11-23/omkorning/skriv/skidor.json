@@ -1,0 +1,479 @@
+{
+ "fore": {
+  "id": "gid://shopify/Collection/569052987658",
+  "handle": "skidor",
+  "title": "Skidor",
+  "updatedAt": "2026-11-23T12:57:55Z",
+  "descriptionHtml": "",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "skidor",
+  "seo": {
+   "title": "Skidor för alpint, längd & freeride | Best of Sports",
+   "description": "Upptäck skidor för alpint, längdskidåkning och freeride. Stabilitet, precision och kvalitet för alla nivåer. Köp online hos Best of Sports."
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": false,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "skidor"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 35
+  }
+ },
+ "produkter_fore": {
+  "gid://shopify/Product/10472284717322": [
+   "DRAFT",
+   [
+    "Cykelväska",
+    "Peltonen",
+    "Skidor",
+    "Tillbehör",
+    "Velomarket"
+   ],
+   "429.0"
+  ],
+  "gid://shopify/Product/10605384499466": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Professionell utrustning",
+    "På beställning",
+    "Skidor",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "15489.0"
+  ],
+  "gid://shopify/Product/10548246675722": [
+   "ACTIVE",
+   [
+    "På beställning",
+    "SKS",
+    "Skidor",
+    "Tillbehör",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "659.0"
+  ],
+  "gid://shopify/Product/10494698881290": [
+   "ACTIVE",
+   [
+    "Barncykel",
+    "Skidor",
+    "Uniplast",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "189.0"
+  ],
+  "gid://shopify/Product/10494685446410": [
+   "ACTIVE",
+   [
+    "Barncykel",
+    "Peltonen",
+    "Skidor",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1718.1"
+  ],
+  "gid://shopify/Product/10494685380874": [
+   "ACTIVE",
+   [
+    "Omega",
+    "Rex",
+    "Skidor",
+    "Velomarket",
+    "Vinterutrustning",
+    "texter-klara"
+   ],
+   "269.0"
+  ],
+  "gid://shopify/Product/10494685348106": [
+   "ACTIVE",
+   [
+    "Rex",
+    "Skidor",
+    "Velomarket",
+    "Vinterutrustning",
+    "texter-klara"
+   ],
+   "169.0"
+  ],
+  "gid://shopify/Product/10475983339786": [
+   "ACTIVE",
+   [
+    "Klassiskt",
+    "NIS",
+    "Skidor",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1376.1"
+  ],
+  "gid://shopify/Product/10475980947722": [
+   "ACTIVE",
+   [
+    "Skidor",
+    "Skridskobindningar",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1385.1"
+  ],
+  "gid://shopify/Product/10475980226826": [
+   "ACTIVE",
+   [
+    "Alpina",
+    "Alpine",
+    "Klassiska pjäxor",
+    "Skidor",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1664.1"
+  ],
+  "gid://shopify/Product/10475368186122": [
+   "ACTIVE",
+   [
+    "Alpina",
+    "Alpine",
+    "Barncykel",
+    "Barnpjäxor",
+    "Klassiska pjäxor",
+    "Skidor",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1601.1"
+  ],
+  "gid://shopify/Product/10475367956746": [
+   "ACTIVE",
+   [
+    "Alpina",
+    "Alpine",
+    "Barncykel",
+    "Klassiska pjäxor",
+    "Kombiskidpjäxor",
+    "Skidor",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1592.1"
+  ],
+  "gid://shopify/Product/10475367760138": [
+   "ACTIVE",
+   [
+    "Alpina",
+    "Alpine",
+    "Klassiska pjäxor",
+    "Skidor",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1961.1"
+  ],
+  "gid://shopify/Product/10475367006474": [
+   "ACTIVE",
+   [
+    "Alpina",
+    "Alpine",
+    "Klassiska pjäxor",
+    "Skidor",
+    "Skridskopjäxor",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2699.1"
+  ],
+  "gid://shopify/Product/10472326136074": [
+   "ACTIVE",
+   [
+    "Alpina",
+    "Alpine",
+    "Klassiska pjäxor",
+    "På beställning",
+    "Skidor",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "3896.1"
+  ],
+  "gid://shopify/Product/10472314503434": [
+   "ACTIVE",
+   [
+    "Skidor",
+    "Velomarket",
+    "Vinterutrustning",
+    "Winter-Grip"
+   ],
+   "129.0"
+  ],
+  "gid://shopify/Product/10472314274058": [
+   "ACTIVE",
+   [
+    "Skidor",
+    "Velomarket",
+    "Vinterutrustning",
+    "Winter-Grip",
+    "texter-klara"
+   ],
+   "149.0"
+  ],
+  "gid://shopify/Product/10472288846090": [
+   "ACTIVE",
+   [
+    "Peltonen",
+    "På beställning",
+    "Skidor",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1736.1"
+  ],
+  "gid://shopify/Product/10472280064266": [
+   "ACTIVE",
+   [
+    "Skidor",
+    "Uniplast",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "149.0"
+  ],
+  "gid://shopify/Product/10472257814794": [
+   "ACTIVE",
+   [
+    "Rex",
+    "Skidor",
+    "Velomarket",
+    "Vinterutrustning",
+    "skid handskar",
+    "texter-klara"
+   ],
+   "279.0"
+  ],
+  "gid://shopify/Product/10472243003658": [
+   "ACTIVE",
+   [
+    "Klassiska skidor",
+    "NIS",
+    "Skidor",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "639.0"
+  ],
+  "gid://shopify/Product/10472242643210": [
+   "ACTIVE",
+   [
+    "Rex",
+    "Skidor",
+    "Velomarket",
+    "Vinterutrustning",
+    "skid handskar",
+    "texter-klara"
+   ],
+   "179.0"
+  ],
+  "gid://shopify/Product/10472242118922": [
+   "ACTIVE",
+   [
+    "Alpina",
+    "Alpine",
+    "Klassiska pjäxor",
+    "Racercykel",
+    "Skidor",
+    "Skridskopjäxor",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "3770.1"
+  ],
+  "gid://shopify/Product/10472242086154": [
+   "ACTIVE",
+   [
+    "Alpina",
+    "Alpine",
+    "Skidor",
+    "Velomarket",
+    "Vinterutrustning",
+    "skidstav",
+    "texter-klara"
+   ],
+   "329.0"
+  ],
+  "gid://shopify/Product/10472242053386": [
+   "ACTIVE",
+   [
+    "Alpina",
+    "Skidor",
+    "Skidstavar för vuxna",
+    "Velomarket",
+    "skidstav",
+    "texter-klara"
+   ],
+   "309.0"
+  ],
+  "gid://shopify/Product/10472241824010": [
+   "ACTIVE",
+   [
+    "Alpina",
+    "Alpine",
+    "Skidor",
+    "Skidstavar för vuxna",
+    "Velomarket",
+    "Vinterutrustning",
+    "skidstav",
+    "texter-klara"
+   ],
+   "349.0"
+  ],
+  "gid://shopify/Product/10472218820874": [
+   "ACTIVE",
+   [
+    "Skidor",
+    "Skidstavar för vuxna",
+    "Start",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "skidstav",
+    "texter-klara"
+   ],
+   "1358.1"
+  ],
+  "gid://shopify/Product/10472216822026": [
+   "ACTIVE",
+   [
+    "Skidor",
+    "Skidstavar för vuxna",
+    "Start",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "skidstav",
+    "texter-klara"
+   ],
+   "2114.1"
+  ],
+  "gid://shopify/Product/10471354958090": [
+   "DRAFT",
+   [
+    "Professionell utrustning",
+    "På beställning",
+    "Skidor",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "14390.1"
+  ],
+  "gid://shopify/Product/10471018561802": [
+   "ACTIVE",
+   [
+    "Barncykel",
+    "Peltonen",
+    "På beställning",
+    "Skidor",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "2150.1"
+  ],
+  "gid://shopify/Product/10471009026314": [
+   "ACTIVE",
+   [
+    "Klassiska pjäxor",
+    "Klassiska skidor",
+    "Peltonen",
+    "Skidor",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3140.1"
+  ],
+  "gid://shopify/Product/10468707172618": [
+   "ACTIVE",
+   [
+    "Alpina",
+    "Alpine",
+    "Klassiska pjäxor",
+    "På beställning",
+    "Skidor",
+    "Skidpjäxor",
+    "Velomarket",
+    "price-change-job-active",
+    "sale"
+   ],
+   "3896.1"
+  ],
+  "gid://shopify/Product/10462231167242": [
+   "ACTIVE",
+   [
+    "Barncykel",
+    "Peltonen",
+    "Skidor",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1718.1"
+  ],
+  "gid://shopify/Product/10411850432778": [
+   "ACTIVE",
+   [
+    "Isskor för skor",
+    "Skidor",
+    "Velomarket",
+    "Winter-Grip",
+    "texter-klara"
+   ],
+   "209.0"
+  ],
+  "gid://shopify/Product/10411721916682": [
+   "ACTIVE",
+   [
+    "Ask",
+    "Kästle",
+    "Skidor",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2240.1"
+  ]
+ }
+}

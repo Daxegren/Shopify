@@ -1,0 +1,194 @@
+{
+ "fore": {
+  "id": "gid://shopify/Collection/526987264266",
+  "handle": "skivstang-50-mm",
+  "title": "Skivstång 50mm",
+  "updatedAt": "2026-11-23T13:00:21Z",
+  "descriptionHtml": "",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "skivstang-50mm",
+  "seo": {
+   "title": "Skivstång 50mm – Stänger för styrketräning - Hemmagym",
+   "description": "Köp skivstång 50mm för seriös styrketräning. Hög kvalitet, stabil konstruktion och perfekt för både hemmagym och gym. Upptäck vårt sortiment!"
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": false,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "skivstång"
+    },
+    {
+     "column": "TITLE",
+     "relation": "CONTAINS",
+     "condition": "50 mm"
+    },
+    {
+     "column": "TITLE",
+     "relation": "CONTAINS",
+     "condition": "50mm"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 13
+  }
+ },
+ "produkter_fore": {
+  "gid://shopify/Product/10673179721994": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Skivstång",
+    "Velomarket",
+    "texter-klara"
+   ],
+   "5689.0"
+  ],
+  "gid://shopify/Product/10650210664714": [
+   "ACTIVE",
+   [
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Skivstång",
+    "Velomarket"
+   ],
+   "3019.0"
+  ],
+  "gid://shopify/Product/10636686197002": [
+   "DRAFT",
+   [
+    "50mm",
+    "skiv stång",
+    "skivstång",
+    "viktstång"
+   ],
+   "3442.0"
+  ],
+  "gid://shopify/Product/10636686033162": [
+   "DRAFT",
+   [
+    "50mm",
+    "skiv stång",
+    "skivstång",
+    "stång",
+    "viktstång"
+   ],
+   "3717.0"
+  ],
+  "gid://shopify/Product/10636685869322": [
+   "DRAFT",
+   [
+    "50mm",
+    "skiv stång",
+    "skivstång",
+    "stång",
+    "viktstång"
+   ],
+   "3717.0"
+  ],
+  "gid://shopify/Product/10636633637130": [
+   "DRAFT",
+   [
+    "50mm",
+    "Skivstång",
+    "TRYM",
+    "all products",
+    "skivstång 50mm"
+   ],
+   "146.35"
+  ],
+  "gid://shopify/Product/10636633473290": [
+   "DRAFT",
+   [
+    "50mm",
+    "Skivstång",
+    "TRYM",
+    "all products",
+    "skivstång 50mm"
+   ],
+   "141.21"
+  ],
+  "gid://shopify/Product/10636633342218": [
+   "ARCHIVED",
+   [
+    "50mm",
+    "Skivstång",
+    "TRYM",
+    "skivstång 50mm"
+   ],
+   "131.73"
+  ],
+  "gid://shopify/Product/10636633112842": [
+   "DRAFT",
+   [
+    "50mm",
+    "Skivstång",
+    "TRYM",
+    "all products",
+    "skivstång 50mm",
+    "teknik stång",
+    "teknikstång",
+    "teknikstången"
+   ],
+   "119.16"
+  ],
+  "gid://shopify/Product/10636613157130": [
+   "DRAFT",
+   [
+    "50/51mm",
+    "50mm",
+    "Lukadora",
+    "Skivstång",
+    "mens health",
+    "skivstång 50mm"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10515747963146": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Skivstång",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2330.1"
+  ],
+  "gid://shopify/Product/10472259584266": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Skivstång",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "skivstång 50mm",
+    "texter-klara"
+   ],
+   "1511.1"
+  ],
+  "gid://shopify/Product/10411923341578": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Skivstång",
+    "Toorx",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "skivstång 30mm",
+    "texter-klara"
+   ],
+   "1925.1"
+  ]
+ }
+}

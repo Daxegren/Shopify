@@ -1,0 +1,167 @@
+{
+ "handle": "skidor",
+ "id": "gid://shopify/Collection/569052987658",
+ "titel": "Skidor",
+ "regel": [],
+ "huvud_regex": "",
+ "antal_i_kollektionen": 35,
+ "antal_koopbara_alla": 28,
+ "antal_koopbara": 28,
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
+ "marken": [
+  [
+   "Alpina",
+   9
+  ],
+  [
+   "Rex",
+   4
+  ],
+  [
+   "Peltonen",
+   3
+  ],
+  [
+   "Winter-Grip",
+   3
+  ],
+  [
+   "Uniplast",
+   2
+  ],
+  [
+   "NIS",
+   2
+  ],
+  [
+   "Start",
+   2
+  ],
+  [
+   "SKS",
+   1
+  ],
+  [
+   "Velomarket",
+   1
+  ],
+  [
+   "Kästle",
+   1
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "skidstavar",
+   4
+  ],
+  [
+   "skidor",
+   3
+  ],
+  [
+   "barnskidor",
+   2
+  ],
+  [
+   "skidstav",
+   2
+  ],
+  [
+   "skidbindning",
+   2
+  ],
+  [
+   "klassiska",
+   2
+  ],
+  [
+   "skidhandskar",
+   2
+  ],
+  [
+   "stänkskärmar",
+   1
+  ],
+  [
+   "barnskidstavar",
+   1
+  ],
+  [
+   "klassisk",
+   1
+  ]
+ ],
+ "pris_min": 129.0,
+ "pris_max": 3770.1,
+ "pris_median": 1008.55,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [
+  [
+   "Ice cats ANTi SKid Sole Single, 41-46",
+   129.0
+  ],
+  [
+   "Vintergrepp Winter-Grip Anti Skid Sole Single, 35–40",
+   149.0
+  ],
+  [
+   "Skidor Uniplast Mini med bindningar, 41 cm",
+   149.0
+  ],
+  [
+   "Barnskidstavar Rex Apollo, Glasfiber",
+   169.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Skidåkningsteknik pjäxor Alpina RACE SK (22)",
+   3770.1
+  ],
+  [
+   "Klassiska Skidor Peltonen Astra Wax med Basic-bindning",
+   3140.1
+  ],
+  [
+   "Skridskor Alpina T 40 2022",
+   2699.1
+  ]
+ ],
+ "alla_titlar": [
+  "Barnpjäxor Alpina T KID",
+  "Barnskidor Peltonen Delta Jr med Basic-bindning",
+  "Barnskidor Peltonen Delta Jr med NNN Touring Basic",
+  "Barnskidpjäxor Alpina T 8 JR",
+  "Barnskidstavar Rex Apollo, Glasfiber",
+  "Ice cats ANTi SKid Sole Single, 41-46",
+  "Isskor ANTi SKid Sole Double, 41–46",
+  "Klassisk skidbindning NIS Performance CL",
+  "Klassiska Pjäxor Alpina T 10, Svart",
+  "Klassiska Skidor Peltonen Astra Wax med Basic-bindning",
+  "Kombipjäxor Alpina T 8",
+  "Skidbindning NIS Performance SK",
+  "Skidbindning NIS Touring Auto CL",
+  "Skidhandskar Rex Lahti",
+  "Skidhandskar Rex Marka",
+  "Skidor Kästle XAJR Crown",
+  "Skidor Uniplast Junior med bindningar för barn, 56 cm",
+  "Skidor Uniplast Mini med bindningar, 41 cm",
+  "Skidstav Alpina STP",
+  "Skidstav Rex Omega i Glasfiber",
+  "Skidstavar Alpina ST Plus",
+  "Skidstavar Alpina ST i Aluminium",
+  "Skidstavar Start Track",
+  "Skidstavar Start Winner Free",
+  "Skidåkningsteknik pjäxor Alpina RACE SK (22)",
+  "Skridskor Alpina T 40 2022",
+  "Stänkskärmar SKS Bluemels Style, 27,5–29 tum",
+  "Vintergrepp Winter-Grip Anti Skid Sole Single, 35–40"
+ ]
+}

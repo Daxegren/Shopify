@@ -1,0 +1,160 @@
+{
+ "fore": {
+  "id": "gid://shopify/Collection/569800786186",
+  "handle": "viktskiva-30-31mm",
+  "title": "Viktskiva - 30/31mm",
+  "updatedAt": "2026-11-23T11:33:48Z",
+  "descriptionHtml": "",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "viktskivor-30mm",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": false,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "viktskiva"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "30/31mm"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 8
+  }
+ },
+ "produkter_fore": {
+  "gid://shopify/Product/10636733972746": [
+   "ACTIVE",
+   [
+    "30/31mm",
+    "31mm",
+    "Vikter",
+    "Viktskiva",
+    "all products",
+    "cement",
+    "paket",
+    "texter-klara",
+    "trigrip",
+    "vikt",
+    "viktpaket",
+    "viktset",
+    "viktskivor"
+   ],
+   "499.0"
+  ],
+  "gid://shopify/Product/10636733284618": [
+   "ACTIVE",
+   [
+    "30/31mm",
+    "31mm",
+    "Vikter",
+    "Viktskiva",
+    "all products",
+    "cement",
+    "paket",
+    "texter-klara",
+    "vikt",
+    "viktpaket",
+    "viktset",
+    "viktskivor"
+   ],
+   "799.0"
+  ],
+  "gid://shopify/Product/10636684394762": [
+   "ACTIVE",
+   [
+    "30/31mm",
+    "31mm",
+    "Järn",
+    "Vikt",
+    "all products",
+    "texter-klara",
+    "viktplattor",
+    "viktskiva",
+    "viktskivor"
+   ],
+   "189.0"
+  ],
+  "gid://shopify/Product/10636645761290": [
+   "ARCHIVED",
+   [
+    "30/31mm",
+    "31mm",
+    "Järn",
+    "Viktskiva",
+    "vikt",
+    "viktplattor",
+    "viktskivor"
+   ],
+   "80.39"
+  ],
+  "gid://shopify/Product/10636645368074": [
+   "ARCHIVED",
+   [
+    "30/31mm",
+    "31mm",
+    "Järn",
+    "Viktskiva",
+    "vikt",
+    "viktplattor",
+    "viktskivor"
+   ],
+   "27.55"
+  ],
+  "gid://shopify/Product/10636645040394": [
+   "DRAFT",
+   [
+    "30/31mm",
+    "31mm",
+    "Järn",
+    "Viktskiva",
+    "all products",
+    "vikt",
+    "viktpaket",
+    "viktplattor",
+    "viktskivor"
+   ],
+   "80.39"
+  ],
+  "gid://shopify/Product/10636631802122": [
+   "ACTIVE",
+   [
+    "30/31mm",
+    "31mm",
+    "Järn",
+    "Vikt",
+    "all products",
+    "texter-klara",
+    "viktplatta",
+    "viktskiva",
+    "viktskivor"
+   ],
+   "99.0"
+  ],
+  "gid://shopify/Product/10636617875722": [
+   "ACTIVE",
+   [
+    "30/31mm",
+    "31mm",
+    "Järn",
+    "Nyhet",
+    "Viktskiva",
+    "all products",
+    "sync-skydd",
+    "texter-klara",
+    "viktplatta",
+    "viktskivor"
+   ],
+   "449.0"
+  ]
+ }
+}

@@ -1,0 +1,179 @@
+{
+ "fore": {
+  "id": "gid://shopify/Collection/562667618570",
+  "handle": "balansplatta",
+  "title": "Balansplatta",
+  "updatedAt": "2026-11-23T12:50:01Z",
+  "descriptionHtml": "",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "balansplatta",
+  "seo": {
+   "title": "Balansplatta för stabilitet och magträning | Best Of Sports",
+   "description": "Hitta balansplattor för bättre balans, styrka och magträning. Köp hållbara och ergonomiska plattor hos Best Of Sports. Stort utbud och snabb leverans."
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": false,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "balansplatta"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 11
+  }
+ },
+ "produkter_fore": {
+  "gid://shopify/Product/10636740591882": [
+   "DRAFT",
+   [
+    "all products",
+    "balans",
+    "balans platta",
+    "balansplatta",
+    "fotarbete"
+   ],
+   "4.95"
+  ],
+  "gid://shopify/Product/10636695306506": [
+   "ACTIVE",
+   [
+    "Balans",
+    "all products",
+    "balans platta",
+    "balans pude",
+    "balanskudde",
+    "balansplatta",
+    "balanspude",
+    "gymtillbehör",
+    "texter-klara",
+    "träningsmatta"
+   ],
+   "579.0"
+  ],
+  "gid://shopify/Product/10636685639946": [
+   "ACTIVE",
+   [
+    "all products",
+    "balans",
+    "balansdyna",
+    "balanskudde",
+    "balansplatta",
+    "dyna",
+    "kudde",
+    "texter-klara"
+   ],
+   "359.0"
+  ],
+  "gid://shopify/Product/10636685476106": [
+   "ACTIVE",
+   [
+    "all products",
+    "balans",
+    "balansdyna",
+    "balanskudde",
+    "balansplatta",
+    "dyna",
+    "fotarbete",
+    "kudde",
+    "texter-klara"
+   ],
+   "229.0"
+  ],
+  "gid://shopify/Product/10636684165386": [
+   "ACTIVE",
+   [
+    "all products",
+    "balans",
+    "balans platta",
+    "balansplatta",
+    "texter-klara"
+   ],
+   "379.0"
+  ],
+  "gid://shopify/Product/10636648251658": [
+   "DRAFT",
+   [
+    "Balans",
+    "balans platta",
+    "balans pude",
+    "balanskudde",
+    "balansplatta",
+    "balanspude"
+   ],
+   "52.6"
+  ],
+  "gid://shopify/Product/10636628525322": [
+   "ACTIVE",
+   [
+    "all products",
+    "balans",
+    "balans platta",
+    "balansplatta",
+    "gymtillbehör",
+    "rehab",
+    "texter-klara"
+   ],
+   "329.0"
+  ],
+  "gid://shopify/Product/10636618268938": [
+   "ACTIVE",
+   [
+    "Nyhet",
+    "all products",
+    "balans",
+    "balans pude",
+    "balansdyna",
+    "balanskudde",
+    "balansplatta",
+    "balanspude",
+    "gymtillbehör",
+    "texter-klara",
+    "träningstillbehör"
+   ],
+   "659.0"
+  ],
+  "gid://shopify/Product/10472300478730": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "balans",
+    "balanskudde",
+    "balansplatta",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2060.1"
+  ],
+  "gid://shopify/Product/10472299430154": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "balans",
+    "balansplatta",
+    "texter-klara"
+   ],
+   "299.0"
+  ],
+  "gid://shopify/Product/10472276656394": [
+   "ACTIVE",
+   [
+    "Konditionsträning & Fitness",
+    "Stepper",
+    "Tunturi",
+    "Velomarket",
+    "balansplatta",
+    "texter-klara"
+   ],
+   "209.0"
+  ]
+ }
+}

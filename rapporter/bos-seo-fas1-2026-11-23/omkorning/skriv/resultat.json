@@ -1,0 +1,14 @@
+{
+ "balansplatta": {
+  "status": "verifierad",
+  "fel": []
+ },
+ "pulkor": {
+  "status": "verifierad",
+  "fel": []
+ },
+ "skidor": {
+  "status": "verifierad",
+  "fel": []
+ }
+}

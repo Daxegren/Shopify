@@ -1,0 +1,206 @@
+{
+ "balansplatta": {
+  "id": "gid://shopify/Collection/562667618570",
+  "handle": "balansplatta",
+  "title": "Balansplatta",
+  "updatedAt": "2026-11-23T12:50:01Z",
+  "descriptionHtml": "",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "balansplatta",
+  "seo": {
+   "title": "Balansplatta för stabilitet och magträning | Best Of Sports",
+   "description": "Hitta balansplattor för bättre balans, styrka och magträning. Köp hållbara och ergonomiska plattor hos Best Of Sports. Stort utbud och snabb leverans."
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": false,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "balansplatta"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 11
+  }
+ },
+ "pulkor": {
+  "id": "gid://shopify/Collection/569540903178",
+  "handle": "pulkor",
+  "title": "Pulkor",
+  "updatedAt": "2026-11-23T12:51:33Z",
+  "descriptionHtml": "",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "pulkor",
+  "seo": {
+   "title": "Pulkor & Snowracers – Fartfylld vinteråkning - Köp här!",
+   "description": "Upptäck pulkor och snowracers hos Best Of Sports! Stabil konstruktion och ergonomiska handtag för säkra och roliga åk i backen för både barn och vuxna."
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": false,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "pulka"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 12
+  }
+ },
+ "skidor": {
+  "id": "gid://shopify/Collection/569052987658",
+  "handle": "skidor",
+  "title": "Skidor",
+  "updatedAt": "2026-11-23T12:57:55Z",
+  "descriptionHtml": "",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "skidor",
+  "seo": {
+   "title": "Skidor för alpint, längd & freeride | Best of Sports",
+   "description": "Upptäck skidor för alpint, längdskidåkning och freeride. Stabilitet, precision och kvalitet för alla nivåer. Köp online hos Best of Sports."
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": false,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "skidor"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 35
+  }
+ },
+ "skivstang-30-mm": {
+  "id": "gid://shopify/Collection/526987133194",
+  "handle": "skivstang-30-mm",
+  "title": "Skivstång 30mm",
+  "updatedAt": "2026-11-23T12:36:18Z",
+  "descriptionHtml": "",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "skivstang-30mm",
+  "seo": {
+   "title": "Skivstång 30mm – Standardstänger för hemmagym - Köp här!",
+   "description": "Köp skivstång 30mm för hemmaträning. Smidig, prisvärd och stabil stång som passar standardvikter. Perfekt för nybörjare och hemmagym."
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": false,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "skivstång 30mm"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 10
+  }
+ },
+ "skivstang-50-mm": {
+  "id": "gid://shopify/Collection/526987264266",
+  "handle": "skivstang-50-mm",
+  "title": "Skivstång 50mm",
+  "updatedAt": "2026-11-23T13:00:21Z",
+  "descriptionHtml": "",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "skivstang-50mm",
+  "seo": {
+   "title": "Skivstång 50mm – Stänger för styrketräning - Hemmagym",
+   "description": "Köp skivstång 50mm för seriös styrketräning. Hög kvalitet, stabil konstruktion och perfekt för både hemmagym och gym. Upptäck vårt sortiment!"
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": false,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "skivstång"
+    },
+    {
+     "column": "TITLE",
+     "relation": "CONTAINS",
+     "condition": "50 mm"
+    },
+    {
+     "column": "TITLE",
+     "relation": "CONTAINS",
+     "condition": "50mm"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 13
+  }
+ },
+ "viktskiva-30-31mm": {
+  "id": "gid://shopify/Collection/569800786186",
+  "handle": "viktskiva-30-31mm",
+  "title": "Viktskiva - 30/31mm",
+  "updatedAt": "2026-11-23T11:33:48Z",
+  "descriptionHtml": "",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "viktskivor-30mm",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": false,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "viktskiva"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "30/31mm"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 8
+  }
+ },
+ "yogamatta": {
+  "id": "gid://shopify/Collection/562669093130",
+  "handle": "yogamatta",
+  "title": "Yogamatta",
+  "updatedAt": "2026-11-05T16:10:34Z",
+  "descriptionHtml": "",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "yogamatta",
+  "seo": {
+   "title": "Yogamatta i olika storlekar och tjocklekar | Best Of Sports - köp här!",
+   "description": "Hitta yogamattor i olika storlekar och tjocklekar. Träna yoga, pilates och stretch med slitstarka och bekväma mattor från Best Of Sports."
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": false,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "yogamatta"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 12
+  }
+ }
+}

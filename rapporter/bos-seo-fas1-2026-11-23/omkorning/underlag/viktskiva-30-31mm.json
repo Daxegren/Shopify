@@ -1,0 +1,72 @@
+{
+ "handle": "viktskiva-30-31mm",
+ "id": "gid://shopify/Collection/569800786186",
+ "titel": "Viktskiva - 30/31mm",
+ "regel": [],
+ "huvud_regex": "",
+ "antal_i_kollektionen": 8,
+ "antal_koopbara_alla": 5,
+ "antal_koopbara": 5,
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
+ "marken": [
+  [
+   "Gorilla Sports Norden",
+   5
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "viktskivor",
+   5
+  ]
+ ],
+ "pris_min": 99.0,
+ "pris_max": 799.0,
+ "pris_median": 449.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": 5.0,
+ "kg_i_titlar_max": 40.0,
+ "antal_titlar_med_kg": 4,
+ "billigaste": [
+  [
+   "Viktskivor IRON Silver, Håldiameter 31 mm",
+   99.0
+  ],
+  [
+   "Viktskivor Neopren, Håldiameter 31 mm, 1–5 kg",
+   189.0
+  ],
+  [
+   "Viktskivor Movit Gjutjärn med Gummibeläggning, 30/31 mm, Set 2–40 kg",
+   449.0
+  ],
+  [
+   "Viktskivor PRO Trigrip, 17,5 kg",
+   499.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Viktskivor BASIC Cement 30 kg, 31 mm",
+   799.0
+  ],
+  [
+   "Viktskivor PRO Trigrip, 17,5 kg",
+   499.0
+  ],
+  [
+   "Viktskivor Movit Gjutjärn med Gummibeläggning, 30/31 mm, Set 2–40 kg",
+   449.0
+  ]
+ ],
+ "alla_titlar": [
+  "Viktskivor BASIC Cement 30 kg, 31 mm",
+  "Viktskivor IRON Silver, Håldiameter 31 mm",
+  "Viktskivor Movit Gjutjärn med Gummibeläggning, 30/31 mm, Set 2–40 kg",
+  "Viktskivor Neopren, Håldiameter 31 mm, 1–5 kg",
+  "Viktskivor PRO Trigrip, 17,5 kg"
+ ]
+}

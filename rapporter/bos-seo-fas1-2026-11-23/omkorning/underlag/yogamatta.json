@@ -1,0 +1,87 @@
+{
+ "handle": "yogamatta",
+ "id": "gid://shopify/Collection/562669093130",
+ "titel": "Yogamatta",
+ "regel": [],
+ "huvud_regex": "",
+ "antal_i_kollektionen": 12,
+ "antal_koopbara_alla": 8,
+ "antal_koopbara": 8,
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
+ "marken": [
+  [
+   "Gorilla Sports Norden",
+   4
+  ],
+  [
+   "Tunturi",
+   2
+  ],
+  [
+   "Toorx",
+   2
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "yogamatta",
+   5
+  ],
+  [
+   "träningsmatta",
+   3
+  ]
+ ],
+ "pris_min": 139.0,
+ "pris_max": 699.0,
+ "pris_median": 459.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [
+  [
+   "Yogamatta Toorx Yoga Mat, Grön",
+   139.0
+  ],
+  [
+   "Yogamatta Toorx Yoga Mat, Lila",
+   139.0
+  ],
+  [
+   "Yogamatta Tunturi Cork TPE Yoga Mat",
+   349.0
+  ],
+  [
+   "Yogamatta Tunturi 8 mm, Ljusblå",
+   369.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Träningsmatta Movit 190 x 100 cm",
+   699.0
+  ],
+  [
+   "Träningsmatta Movit 190 x 60 cm",
+   699.0
+  ],
+  [
+   "Yogamatta Kork 183x61x0,5 cm",
+   599.0
+  ]
+ ],
+ "alla_titlar": [
+  "Träningsmatta Movit 183 x 60 cm",
+  "Träningsmatta Movit 190 x 100 cm",
+  "Träningsmatta Movit 190 x 60 cm",
+  "Yogamatta Kork 183x61x0,5 cm",
+  "Yogamatta Toorx Yoga Mat, Grön",
+  "Yogamatta Toorx Yoga Mat, Lila",
+  "Yogamatta Tunturi 8 mm, Ljusblå",
+  "Yogamatta Tunturi Cork TPE Yoga Mat"
+ ]
+}

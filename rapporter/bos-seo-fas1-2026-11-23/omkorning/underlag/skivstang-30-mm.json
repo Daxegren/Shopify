@@ -1,0 +1,92 @@
+{
+ "handle": "skivstang-30-mm",
+ "id": "gid://shopify/Collection/526987133194",
+ "titel": "Skivstång 30mm",
+ "regel": [],
+ "huvud_regex": "",
+ "antal_i_kollektionen": 10,
+ "antal_koopbara_alla": 9,
+ "antal_koopbara": 9,
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
+ "marken": [
+  [
+   "Gorilla Sports Norden",
+   4
+  ],
+  [
+   "Tunturi",
+   4
+  ],
+  [
+   "Toorx",
+   1
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "skivstång",
+   6
+  ],
+  [
+   "tricepsstång",
+   2
+  ],
+  [
+   "lyftstång",
+   1
+  ]
+ ],
+ "pris_min": 489.0,
+ "pris_max": 1925.1,
+ "pris_median": 629.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [
+  [
+   "Skivstång PRO, 130 cm, 30 mm",
+   489.0
+  ],
+  [
+   "Skivstång 130 cm med Skivstångskudde, 30 mm",
+   499.0
+  ],
+  [
+   "Skivstång Tunturi 30 mm, 120 cm, med Skruvlås",
+   499.0
+  ],
+  [
+   "Skivstång Tunturi 30 mm, 180 cm, Nedre Huvud",
+   569.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Skivstång Toorx Olympic Barbell, 180 cm, 50 mm",
+   1925.1
+  ],
+  [
+   "Tricepsstång Parallell med Stjärnlås, 30 mm",
+   1089.0
+  ],
+  [
+   "Tricepsstång Parallell med Fjäderlås, 30 mm",
+   1059.0
+  ]
+ ],
+ "alla_titlar": [
+  "Lyftstång Tunturi Skivstång 30 mm, 180 cm, Skruv",
+  "Skivstång 130 cm med Skivstångskudde, 30 mm",
+  "Skivstång PRO, 130 cm, 30 mm",
+  "Skivstång Toorx Olympic Barbell, 180 cm, 50 mm",
+  "Skivstång Tunturi 30 mm, 120 cm, med Skruvlås",
+  "Skivstång Tunturi 30 mm, 180 cm, Nedre Huvud",
+  "Skivstång Tunturi Barbell Bar, 30 mm, 165 cm",
+  "Tricepsstång Parallell med Fjäderlås, 30 mm",
+  "Tricepsstång Parallell med Stjärnlås, 30 mm"
+ ]
+}
