@@ -461,3 +461,7 @@ Regel: läs hur ett flöde sätter ett fält innan fältet ändras i butiken. Va
 ## 2026-11-23: Velomarket-synken matchar varianter på position, inte SKU
 Vad hände: Dubbla SKU:er, "Default Title"-varianter och priser som hör till en annan SKU fanns på sju Tunturi-produkter. Orsak: `shopify-bulk-sync` skriver SKU, namn, pris och streckkod till `existingVariants[i]` efter position, så en ändrad ordning eller ett saknat/tillkommet alternativ flyttar SKU:n till fel variant.
 Regel: variantnamn och variantstädning får inte planeras utan att först åtgärda matchningen (SKU först, position som reserv). Kontrollera hur ett flöde identifierar en rad innan fält skrivs på den.
+
+## 2026-11-23: Färgkoden "BL" hos Gymstick är svart, inte blå
+Vad hände: I analysen av Gymsticks variantnamn föreslog jag att BL översätts till "Blå" utan att kontrollera. Vid bygget av PR i `ftp-product-sync` visade produkter med både BL och BLU (Air Track) och en shaker med handle `...svart` att BL är svart och BLU blå. Rättat före skrivning; inget skrevs i butiken med fel tolkning.
+Regel: verifiera varje kodtolkning mot minst en produkt som har både koden och en färg i titeln eller handle innan den används i en översättningstabell.

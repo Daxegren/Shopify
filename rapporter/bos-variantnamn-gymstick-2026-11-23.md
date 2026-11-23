@@ -24,3 +24,7 @@ Gymstick-produkterna hanteras av `ftp-product-sync` (inte Velomarket-synken). **
 ## Beslut som behövs
 
 1. Ska jag göra synkändringen (PR i `ftp-product-sync`) och ta fram en granskningsbar lista per produkt för talen?
+
+## Rättelse 2026-11-23 (tillägg; ursprungstexten ovan är oförändrad)
+
+I analysen ovan står "BL = blå". Det är fel: **BL är svart och BLU är blå**. Båda finns på samma produkt (Air Track har varianterna BL, BLU och PI), och shakern med BL, PI och WH har handle `shakerflaska-600ml-svart`. Övriga koder som kunde verifieras: PI = rosa, WH = vit, TU = turkos (Cohesive Tape heter "Turkos"), BE = beige, CAM = kamouflage. CSV-filen `bos-variantnamn-gymstick-forslag-2026-11-23.csv` har den felaktiga tolkningen av BL och ska inte användas för skrivning. PR i `ftp-product-sync` använder de rättade koderna.
