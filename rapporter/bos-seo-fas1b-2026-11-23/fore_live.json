@@ -1,0 +1,226 @@
+{
+ "hantelset": {
+  "id": "gid://shopify/Collection/562617745674",
+  "handle": "hantelset",
+  "title": "Hantelset",
+  "updatedAt": "2026-11-23T14:33:47Z",
+  "descriptionHtml": "",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "hantelset",
+  "seo": {
+   "title": "Hantelset – Kompletta set för styrka och muskelträning - Köp nu",
+   "description": "Köp hantelset hos Best Of Sports. Justerbara och fasta hantlar i olika vikter och material för effektiv och flexibel träning hemma eller på gym."
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "Justerbara hantelset"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "fasta hantlar paket"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 20
+  }
+ },
+ "boxningstillbehor": {
+  "id": "gid://shopify/Collection/562680070410",
+  "handle": "boxningstillbehor",
+  "title": "Boxningstillbehör",
+  "updatedAt": "2026-11-23T14:34:37Z",
+  "descriptionHtml": "",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "boxningstillbehor",
+  "seo": {
+   "title": "Boxningstillbehör – Handskar, Mitsar och Skyddsutrustning",
+   "description": "Upptäck boxningstillbehör för träning och sparring. Handskar, mitsar, wraps och skydd för säker och effektiv träning. Vi är proffs på kampsport!"
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "boxningtillbehör"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "boxningstillbehör"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 28
+  }
+ },
+ "power-rack": {
+  "id": "gid://shopify/Collection/562614141194",
+  "handle": "power-rack",
+  "title": "Power rack",
+  "updatedAt": "2026-11-23T14:34:03Z",
+  "descriptionHtml": "",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "power-rack",
+  "seo": {
+   "title": "Power rack – Stabil och säker styrketräning hemma och på gym",
+   "description": "Köp power racks hos Best Of Sports. Finns i olika modeller och storlekar, robusta och säkra för knäböj, bänkpress och styrketräning hemma eller på gym."
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "power rack"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "power cage"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 11
+  }
+ },
+ "plyobox": {
+  "id": "gid://shopify/Collection/526983495946",
+  "handle": "plyobox",
+  "title": "Plyobox",
+  "updatedAt": "2026-11-23T14:34:16Z",
+  "descriptionHtml": "",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "plyobox"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "plyo box"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 11
+  }
+ },
+ "vattenflaska": {
+  "id": "gid://shopify/Collection/526986674442",
+  "handle": "vattenflaska",
+  "title": "Vattenflaska",
+  "updatedAt": "2026-11-23T14:34:22Z",
+  "descriptionHtml": "",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "vattenflaska"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 12
+  }
+ },
+ "wall-ball-1": {
+  "id": "gid://shopify/Collection/562537136394",
+  "handle": "wall-ball-1",
+  "title": "Wall ball",
+  "updatedAt": "2026-11-23T14:34:12Z",
+  "descriptionHtml": "",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "wall-ball",
+  "seo": {
+   "title": "Wall Balls – Träningsredskap för funktionell styrka och uthållighet",
+   "description": "Upptäck våra wall balls för effektiv och varierad träning. Perfekta för styrka, kondition och funktionella övningar både hemma och på gymmet. Handla nu"
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "wall ball"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "wall balls"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "wallball"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 10
+  }
+ },
+ "battle-rope": {
+  "id": "gid://shopify/Collection/562616893706",
+  "handle": "battle-rope",
+  "title": "Battle Rope",
+  "updatedAt": "2026-11-23T14:34:15Z",
+  "descriptionHtml": "",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "",
+  "seo": {
+   "title": "Battle Rope – Effektiv helkroppsträning med slag- och vågrörelser",
+   "description": "Köp battle ropes hos Best Of Sports. Perfekt för kondition, styrka och explosiv träning. Flera längder och modeller för hem- och gymträning. Gratis frakt!"
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "battle rope"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "battlerope"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 8
+  }
+ }
+}

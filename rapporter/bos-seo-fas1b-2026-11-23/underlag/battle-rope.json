@@ -1,0 +1,84 @@
+{
+ "handle": "battle-rope",
+ "id": "gid://shopify/Collection/562616893706",
+ "titel": "Battle Rope",
+ "regel": [],
+ "huvud_regex": "",
+ "antal_i_kollektionen": 8,
+ "antal_koopbara_alla": 5,
+ "antal_koopbara": 5,
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
+ "marken": [
+  [
+   "Tunturi",
+   3
+  ],
+  [
+   "Gorilla Sports Norden",
+   2
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "battle",
+   2
+  ],
+  [
+   "träningsrep",
+   2
+  ],
+  [
+   "rep",
+   1
+  ]
+ ],
+ "pris_min": 1016.1,
+ "pris_max": 2690.1,
+ "pris_median": 1412.1,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [
+  [
+   "Battle Rope med Fäste, 9–15 m och 3,8–5 cm",
+   1016.1
+  ],
+  [
+   "Battle Rope 15 m, Diameter 3,8 eller 5 cm",
+   1169.1
+  ],
+  [
+   "Träningsrep Tunturi Battle Rope 9 m",
+   1412.1
+  ],
+  [
+   "Träningsrep Tunturi Battle Rope 12 m",
+   1709.1
+  ]
+ ],
+ "dyraste": [
+  [
+   "Rep Tunturi Pro Battle Rope med Skydd, 15 m",
+   2690.1
+  ],
+  [
+   "Träningsrep Tunturi Battle Rope 12 m",
+   1709.1
+  ],
+  [
+   "Träningsrep Tunturi Battle Rope 9 m",
+   1412.1
+  ]
+ ],
+ "alla_titlar": [
+  "Battle Rope 15 m, Diameter 3,8 eller 5 cm",
+  "Battle Rope med Fäste, 9–15 m och 3,8–5 cm",
+  "Rep Tunturi Pro Battle Rope med Skydd, 15 m",
+  "Träningsrep Tunturi Battle Rope 12 m",
+  "Träningsrep Tunturi Battle Rope 9 m"
+ ]
+}

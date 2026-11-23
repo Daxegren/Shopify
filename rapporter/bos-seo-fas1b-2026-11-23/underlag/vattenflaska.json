@@ -1,0 +1,88 @@
+{
+ "handle": "vattenflaska",
+ "id": "gid://shopify/Collection/526986674442",
+ "titel": "Vattenflaska",
+ "regel": [],
+ "huvud_regex": "",
+ "antal_i_kollektionen": 12,
+ "antal_koopbara_alla": 5,
+ "antal_koopbara": 5,
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
+ "marken": [
+  [
+   "Trec",
+   3
+  ],
+  [
+   "Gorilla Sports Norden",
+   1
+  ],
+  [
+   "Gymstick",
+   1
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "shaker",
+   2
+  ],
+  [
+   "flaska",
+   2
+  ],
+  [
+   "shakerflaska",
+   1
+  ]
+ ],
+ "pris_min": 59.0,
+ "pris_max": 99.0,
+ "pris_median": 69.0,
+ "antal_utan_pris_noll": 1,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [
+  [
+   "Shaker TREC Shaker 061, TREC TEAM, 0,7 l, mint",
+   59.0
+  ],
+  [
+   "Flaska Trec Endurance 002, Orange",
+   69.0
+  ],
+  [
+   "Flaska Trec Shaker 050, 700 ml, Svart",
+   69.0
+  ],
+  [
+   "Shaker 500 ml med Pulverfack, Svart",
+   99.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Shaker 500 ml med Pulverfack, Svart",
+   99.0
+  ],
+  [
+   "Flaska Trec Endurance 002, Orange",
+   69.0
+  ],
+  [
+   "Flaska Trec Shaker 050, 700 ml, Svart",
+   69.0
+  ]
+ ],
+ "alla_titlar": [
+  "Flaska Trec Endurance 002, Orange",
+  "Flaska Trec Shaker 050, 700 ml, Svart",
+  "Shaker 500 ml med Pulverfack, Svart",
+  "Shaker TREC Shaker 061, TREC TEAM, 0,7 l, mint",
+  "Shakerflaska Gymstick, 600 ml"
+ ]
+}

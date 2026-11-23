@@ -1,0 +1,88 @@
+{
+ "handle": "wall-ball-1",
+ "id": "gid://shopify/Collection/562537136394",
+ "titel": "Wall ball",
+ "regel": [],
+ "huvud_regex": "",
+ "antal_i_kollektionen": 10,
+ "antal_koopbara_alla": 5,
+ "antal_koopbara": 5,
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
+ "marken": [
+  [
+   "Gorilla Sports Norden",
+   2
+  ],
+  [
+   "Tunturi",
+   2
+  ],
+  [
+   "Gymstick",
+   1
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "wall",
+   2
+  ],
+  [
+   "medicinboll",
+   2
+  ],
+  [
+   "väggboll",
+   1
+  ]
+ ],
+ "pris_min": 539.1,
+ "pris_max": 1466.1,
+ "pris_median": 659.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": 6.0,
+ "kg_i_titlar_max": 15.0,
+ "antal_titlar_med_kg": 4,
+ "billigaste": [
+  [
+   "Wall Ball PRO 1-10kg",
+   539.1
+  ],
+  [
+   "Medicinboll Gymstick Wall Ball",
+   539.1
+  ],
+  [
+   "Medicinboll Tunturi Wall Ball, 6 kg, Röd",
+   659.0
+  ],
+  [
+   "Väggboll Tunturi Wall Ball 10 kg, Grön",
+   1349.1
+  ]
+ ],
+ "dyraste": [
+  [
+   "Wall Ball Paket PRO 6kg 12kg 15kg",
+   1466.1
+  ],
+  [
+   "Väggboll Tunturi Wall Ball 10 kg, Grön",
+   1349.1
+  ],
+  [
+   "Medicinboll Tunturi Wall Ball, 6 kg, Röd",
+   659.0
+  ]
+ ],
+ "alla_titlar": [
+  "Medicinboll Gymstick Wall Ball",
+  "Medicinboll Tunturi Wall Ball, 6 kg, Röd",
+  "Väggboll Tunturi Wall Ball 10 kg, Grön",
+  "Wall Ball PRO 1-10kg",
+  "Wall Ball Paket PRO 6kg 12kg 15kg"
+ ]
+}

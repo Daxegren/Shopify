@@ -1,0 +1,102 @@
+{
+ "handle": "hantelset",
+ "id": "gid://shopify/Collection/562617745674",
+ "titel": "Hantelset",
+ "regel": [],
+ "huvud_regex": "",
+ "antal_i_kollektionen": 20,
+ "antal_koopbara_alla": 15,
+ "antal_koopbara": 15,
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
+ "marken": [
+  [
+   "Tunturi",
+   11
+  ],
+  [
+   "Gymstick",
+   2
+  ],
+  [
+   "Gorilla Sports Norden",
+   1
+  ],
+  [
+   "Toorx",
+   1
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "hantelset",
+   13
+  ],
+  [
+   "skivstång",
+   1
+  ],
+  [
+   "skivstångs-",
+   1
+  ]
+ ],
+ "pris_min": 309.0,
+ "pris_max": 12950.1,
+ "pris_median": 1367.1,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": 10.0,
+ "kg_i_titlar_max": 140.0,
+ "antal_titlar_med_kg": 13,
+ "billigaste": [
+  [
+   "Hantelset Tunturi Vinyl, 15 kg",
+   309.0
+  ],
+  [
+   "Hantelset Gymstick Vinyl, 15 kg",
+   429.0
+  ],
+  [
+   "Hantelset Tunturi 10 kg, 1 stång",
+   499.0
+  ],
+  [
+   "Hantelset Tunturi Vinyl, 28 kg",
+   609.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Hantelset Tunturi PU Pro, 10 Par, 2–12 kg",
+   12950.1
+  ],
+  [
+   "Hantelset TUNTURI 140kg Tri-Grip Hantelset",
+   6605.1
+  ],
+  [
+   "Hantelset Tunturi Platinum Hex Rubber, 1–10 kg",
+   6119.1
+  ]
+ ],
+ "alla_titlar": [
+  "Hantelset Gymstick Vinyl, 15 kg",
+  "Hantelset TUNTURI 140kg Tri-Grip Hantelset",
+  "Hantelset Toorx Gjutjärn, 20 kg",
+  "Hantelset Tunturi 10 kg, 1 stång",
+  "Hantelset Tunturi Centuri Neopren med Ställ, 3 Par",
+  "Hantelset Tunturi Neoprenhantlar med Ställ, 3 Par",
+  "Hantelset Tunturi PU Pro, 10 Par, 2–12 kg",
+  "Hantelset Tunturi Platinum Hex Rubber, 1–10 kg",
+  "Hantelset Tunturi Vinyl, 15 kg",
+  "Hantelset Tunturi Vinyl, 28 kg",
+  "Hantelset Tunturi med Skruvfästen, 15 kg",
+  "Hantelset Tunturi med Skruvlås, 20 kg",
+  "Hantelset Tunturi, 20 kg",
+  "Skivstång och Hantelset, 23 kg",
+  "Skivstångs- och Hantelset Gymstick, Vinyl, 60 kg"
+ ]
+}

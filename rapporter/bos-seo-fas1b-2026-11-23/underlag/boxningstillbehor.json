@@ -1,0 +1,112 @@
+{
+ "handle": "boxningstillbehor",
+ "id": "gid://shopify/Collection/562680070410",
+ "titel": "Boxningstillbehör",
+ "regel": [],
+ "huvud_regex": "",
+ "antal_i_kollektionen": 28,
+ "antal_koopbara_alla": 17,
+ "antal_koopbara": 17,
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
+ "marken": [
+  [
+   "Toorx",
+   6
+  ],
+  [
+   "Tunturi",
+   4
+  ],
+  [
+   "Hammer",
+   3
+  ],
+  [
+   "Gorilla Sports Norden",
+   2
+  ],
+  [
+   "Gymstick",
+   2
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "boxningshandskar",
+   13
+  ],
+  [
+   "hopprep",
+   2
+  ],
+  [
+   "boxningstassar",
+   1
+  ],
+  [
+   "innerhandskar",
+   1
+  ]
+ ],
+ "pris_min": 89.0,
+ "pris_max": 699.0,
+ "pris_median": 389.0,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [
+  [
+   "Innerhandskar Tunturi för Boxning, Bomull, Svart",
+   89.0
+  ],
+  [
+   "Hopprep Women's Health Speed Rope med Vikthandtag, 3 m",
+   249.0
+  ],
+  [
+   "Hopprep Women's Health, 275 cm",
+   249.0
+  ],
+  [
+   "Boxningshandskar Toorx Jaguar, L/XL",
+   289.0
+  ]
+ ],
+ "dyraste": [
+  [
+   "Boxningshandskar Hammer X-Shock 12 oz",
+   699.0
+  ],
+  [
+   "Boxningshandskar Hammer X-Shock 10 oz",
+   699.0
+  ],
+  [
+   "Boxningshandskar Hammer X-Shock 14 oz",
+   699.0
+  ]
+ ],
+ "alla_titlar": [
+  "Boxningshandskar Gymstick Boxing Gloves",
+  "Boxningshandskar Hammer X-Shock 10 oz",
+  "Boxningshandskar Hammer X-Shock 12 oz",
+  "Boxningshandskar Hammer X-Shock 14 oz",
+  "Boxningshandskar Toorx Jaguar Boxing Gloves, S/M",
+  "Boxningshandskar Toorx Jaguar, L/XL",
+  "Boxningshandskar Toorx Leopard, 12 oz, Polyuretan",
+  "Boxningshandskar Toorx Leopard, Polyuretan, 10 oz",
+  "Boxningshandskar Toorx Panther, 12 oz, Polyuretan",
+  "Boxningshandskar Toorx Panther, Polyuretan, 10 oz",
+  "Boxningshandskar Tunturi Allround Boxing Gloves, 12 oz",
+  "Boxningshandskar Tunturi Allround, 14 oz, Konstläder",
+  "Boxningshandskar Tunturi Allround, 16 oz, Konstläder",
+  "Boxningstassar Gymstick Punching Mitts",
+  "Hopprep Women's Health Speed Rope med Vikthandtag, 3 m",
+  "Hopprep Women's Health, 275 cm",
+  "Innerhandskar Tunturi för Boxning, Bomull, Svart"
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "handle": "power-rack",
+ "id": "gid://shopify/Collection/562614141194",
+ "titel": "Power rack",
+ "regel": [],
+ "huvud_regex": "",
+ "antal_i_kollektionen": 11,
+ "antal_koopbara_alla": 8,
+ "antal_koopbara": 8,
+ "antal_ovriga_koopbara": 0,
+ "exempel_ovriga": [],
+ "ovriga_titlar": [],
+ "ovriga_med_pris": [],
+ "marken": [
+  [
+   "Tunturi",
+   5
+  ],
+  [
+   "BH Fitness",
+   3
+  ]
+ ],
+ "forsta_ord_i_titel": [
+  [
+   "rack",
+   3
+  ],
+  [
+   "knäböjsställ",
+   2
+  ],
+  [
+   "bh",
+   1
+  ],
+  [
+   "träningsstation",
+   1
+  ],
+  [
+   "halvställ",
+   1
+  ]
+ ],
+ "pris_min": 5030.1,
+ "pris_max": 15497.1,
+ "pris_median": 7757.1,
+ "antal_utan_pris_noll": 0,
+ "kg_i_titlar_min": null,
+ "kg_i_titlar_max": null,
+ "antal_titlar_med_kg": 0,
+ "billigaste": [
+  [
+   "Knäböjsställ Tunturi WT40",
+   5030.1
+  ],
+  [
+   "Rack BH Fitness Power Rack",
+   5777.1
+  ],
+  [
+   "Rack Tunturi WT60 Power Rack",
+   6677.1
+  ],
+  [
+   "BH FITNESS Power Cage",
+   6992.1
+  ]
+ ],
+ "dyraste": [
+  [
+   "Rack Tunturi RC20 Pro Power Rack, Base Rack",
+   15497.1
+  ],
+  [
+   "Träningsstation BH Fitness Power Cage och Lat Pull Down",
+   11609.1
+  ],
+  [
+   "Knäböjsställ Tunturi PR60 Power Rack",
+   9341.1
+  ]
+ ],
+ "alla_titlar": [
+  "BH FITNESS Power Cage",
+  "Halvställ Tunturi HR60 Half Rack",
+  "Knäböjsställ Tunturi PR60 Power Rack",
+  "Knäböjsställ Tunturi WT40",
+  "Rack BH Fitness Power Rack",
+  "Rack Tunturi RC20 Pro Power Rack, Base Rack",
+  "Rack Tunturi WT60 Power Rack",
+  "Träningsstation BH Fitness Power Cage och Lat Pull Down"
+ ]
+}
