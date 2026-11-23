@@ -1,0 +1,4437 @@
+{
+ "10kg-curved-bar": {
+  "id": "gid://shopify/Product/10581101641994",
+  "titel": "10kg Curved Bar",
+  "status": "ACTIVE",
+  "vendor": "Gymstick",
+  "tags": [
+   "Gymstick",
+   "price-change-job-active",
+   "sale"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53461498691850",
+    "title": "10CURVED",
+    "sku": "OB-10CURVED",
+    "price": "2150.10",
+    "inventoryQuantity": 71
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461498855690",
+    "title": "15",
+    "sku": "OB-15",
+    "price": "1835.10",
+    "inventoryQuantity": 29
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461498921226",
+    "title": "20COM",
+    "sku": "OB-20COM",
+    "price": "4310.10",
+    "inventoryQuantity": 54
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461498986762",
+    "title": "20PRE",
+    "sku": "OB-20PRE",
+    "price": "3239.10",
+    "inventoryQuantity": 34
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461499052298",
+    "title": "20",
+    "sku": "OB-20",
+    "price": "2267.10",
+    "inventoryQuantity": 120
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461499117834",
+    "title": "BH6",
+    "sku": "OB-BH6",
+    "price": "2915.10",
+    "inventoryQuantity": 11
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461499150602",
+    "title": "HB182",
+    "sku": "OB-HB182",
+    "price": "3347.10",
+    "inventoryQuantity": 20
+   }
+  ]
+ },
+ "4-station-multi-gym": {
+  "id": "gid://shopify/Product/10611414237450",
+  "titel": "4-Station Multi Gym",
+  "status": "ACTIVE",
+  "vendor": "Gymstick",
+  "tags": [
+   "Gymstick",
+   "Multistationer",
+   "price-change-job-active",
+   "sale"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53632893255946",
+    "title": "540M",
+    "sku": "PRO-540M",
+    "price": "101240.10",
+    "inventoryQuantity": 13
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632893288714",
+    "title": "514",
+    "sku": "PRO-514",
+    "price": "33902.10",
+    "inventoryQuantity": 8
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632893321482",
+    "title": "550M",
+    "sku": "PRO-550M",
+    "price": "134990.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632893354250",
+    "title": "505",
+    "sku": "PRO-505",
+    "price": "7010.10",
+    "inventoryQuantity": 11
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632893387018",
+    "title": "AB",
+    "sku": "PRO-AB",
+    "price": "5606.10",
+    "inventoryQuantity": 57
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632893419786",
+    "title": "ACH",
+    "sku": "PRO-ACH",
+    "price": "10196.10",
+    "inventoryQuantity": 11
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632893452554",
+    "title": "ACE",
+    "sku": "PRO-ACE",
+    "price": "5030.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632893485322",
+    "title": "DHR",
+    "sku": "PRO-DHR",
+    "price": "1610.10",
+    "inventoryQuantity": 8
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632893518090",
+    "title": "LM",
+    "sku": "PRO-LM",
+    "price": "539.10",
+    "inventoryQuantity": 13
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632893550858",
+    "title": "PBAR",
+    "sku": "PRO-PBAR",
+    "price": "377.10",
+    "inventoryQuantity": 45
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632893583626",
+    "title": "APR",
+    "sku": "PRO-APR",
+    "price": "10790.10",
+    "inventoryQuantity": 58
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632893616394",
+    "title": "511M",
+    "sku": "PRO-511M",
+    "price": "35072.10",
+    "inventoryQuantity": 6
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632893649162",
+    "title": "504",
+    "sku": "PRO-504",
+    "price": "7946.10",
+    "inventoryQuantity": 37
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632893681930",
+    "title": "510",
+    "sku": "PRO-510",
+    "price": "5957.10",
+    "inventoryQuantity": 26
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632893714698",
+    "title": "520",
+    "sku": "PRO-520",
+    "price": "8540.10",
+    "inventoryQuantity": 17
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632893780234",
+    "title": "515M",
+    "sku": "PRO-515M",
+    "price": "42092.10",
+    "inventoryQuantity": 3
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632893813002",
+    "title": "519M",
+    "sku": "PRO-519M",
+    "price": "40922.10",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632893878538",
+    "title": "DLH",
+    "sku": "PRO-DLH",
+    "price": "1331.10",
+    "inventoryQuantity": 46
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632893911306",
+    "title": "516",
+    "sku": "PRO-516",
+    "price": "35288.10",
+    "inventoryQuantity": 3
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632893976842",
+    "title": "FB",
+    "sku": "PRO-FB",
+    "price": "3122.10",
+    "inventoryQuantity": 90
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632894009610",
+    "title": "GB",
+    "sku": "PRO-GB",
+    "price": "1205.10",
+    "inventoryQuantity": 41
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632894042378",
+    "title": "507M",
+    "sku": "PRO-507M",
+    "price": "16946.10",
+    "inventoryQuantity": 27
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632894075146",
+    "title": "HG20.0",
+    "sku": "PRO-HG20.0",
+    "price": "40922.10",
+    "inventoryQuantity": 13
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632894140682",
+    "title": "509M",
+    "sku": "PRO-509M",
+    "price": "40922.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632894206218",
+    "title": "513M",
+    "sku": "PRO-513M",
+    "price": "39752.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632894238986",
+    "title": "522M",
+    "sku": "PRO-522M",
+    "price": "38582.10",
+    "inventoryQuantity": 4
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632894271754",
+    "title": "512M",
+    "sku": "PRO-512M",
+    "price": "43262.10",
+    "inventoryQuantity": 14
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632894370058",
+    "title": "HG20.0LEG",
+    "sku": "PRO-HG20.0LEG",
+    "price": "5840.10",
+    "inventoryQuantity": 9
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632894402826",
+    "title": "MS10.0",
+    "sku": "PRO-MS10.0",
+    "price": "35072.10",
+    "inventoryQuantity": 28
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632894435594",
+    "title": "MS20.0",
+    "sku": "PRO-MS20.0",
+    "price": "56717.10",
+    "inventoryQuantity": 39
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632894468362",
+    "title": "PLM",
+    "sku": "PRO-PLM",
+    "price": "755.10",
+    "inventoryQuantity": 46
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632894501130",
+    "title": "530M",
+    "sku": "PRO-530M",
+    "price": "60497.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632894533898",
+    "title": "502",
+    "sku": "PRO-502",
+    "price": "5840.10",
+    "inventoryQuantity": 12
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632894566666",
+    "title": "523M",
+    "sku": "PRO-523M",
+    "price": "40922.10",
+    "inventoryQuantity": 4
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632894599434",
+    "title": "524M",
+    "sku": "PRO-524M",
+    "price": "40922.10",
+    "inventoryQuantity": 5
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632894632202",
+    "title": "SLH",
+    "sku": "PRO-SLH",
+    "price": "431.10",
+    "inventoryQuantity": 27
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632894664970",
+    "title": "SS",
+    "sku": "PRO-SS",
+    "price": "3554.10",
+    "inventoryQuantity": 17
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632894697738",
+    "title": "508M",
+    "sku": "PRO-508M",
+    "price": "32156.10",
+    "inventoryQuantity": 25
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632894763274",
+    "title": "501",
+    "sku": "PRO-501",
+    "price": "6146.10",
+    "inventoryQuantity": 6
+   }
+  ]
+ },
+ "abbench": {
+  "id": "gid://shopify/Product/10611414958346",
+  "titel": "AbBench",
+  "status": "ACTIVE",
+  "vendor": "Gymstick",
+  "tags": [
+   "Gymstick",
+   "price-change-job-active",
+   "sale"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53632895484170",
+    "title": "AB",
+    "sku": "STR-AB",
+    "price": "1007.10",
+    "inventoryQuantity": 151
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632895516938",
+    "title": "BB",
+    "sku": "STR-BB",
+    "price": "2150.10",
+    "inventoryQuantity": 103
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632895549706",
+    "title": "BP7.0",
+    "sku": "STR-BP7.0",
+    "price": "3878.10",
+    "inventoryQuantity": 71
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632895582474",
+    "title": "CB",
+    "sku": "STR-CB",
+    "price": "2150.10",
+    "inventoryQuantity": 37
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632895615242",
+    "title": "FB",
+    "sku": "STR-FB",
+    "price": "2465.10",
+    "inventoryQuantity": 139
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632895648010",
+    "title": "FLB",
+    "sku": "STR-FLB",
+    "price": "1394.10",
+    "inventoryQuantity": 81
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632895680778",
+    "title": "HPR",
+    "sku": "STR-HPR",
+    "price": "5714.10",
+    "inventoryQuantity": 101
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632895713546",
+    "title": "HG2B",
+    "sku": "STR-HG2B",
+    "price": "7334.10",
+    "inventoryQuantity": 180
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632895746314",
+    "title": "HG3.0",
+    "sku": "STR-HG3.0",
+    "price": "9494.10",
+    "inventoryQuantity": 155
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632895779082",
+    "title": "HG4.0",
+    "sku": "STR-HG4.0",
+    "price": "14030.10",
+    "inventoryQuantity": 50
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632895811850",
+    "title": "HWR",
+    "sku": "STR-HWR",
+    "price": "2555.10",
+    "inventoryQuantity": 22
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632895844618",
+    "title": "MB",
+    "sku": "STR-MB",
+    "price": "3167.10",
+    "inventoryQuantity": 120
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632895910154",
+    "title": "MSR",
+    "sku": "STR-MSR",
+    "price": "6038.10",
+    "inventoryQuantity": 10
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632895975690",
+    "title": "MLR",
+    "sku": "STR-MLR",
+    "price": "6371.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632896008458",
+    "title": "MUH",
+    "sku": "STR-MUH",
+    "price": "971.10",
+    "inventoryQuantity": 51
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632896041226",
+    "title": "PR50",
+    "sku": "STR-PR50",
+    "price": "5714.10",
+    "inventoryQuantity": 40
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632896073994",
+    "title": "PSS",
+    "sku": "STR-PSS",
+    "price": "2825.10",
+    "inventoryQuantity": 28
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632896106762",
+    "title": "PROWR",
+    "sku": "STR-PROWR",
+    "price": "2582.10",
+    "inventoryQuantity": 15
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632896139530",
+    "title": "PUD",
+    "sku": "STR-PUD",
+    "price": "1403.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632896172298",
+    "title": "PR50PULL",
+    "sku": "STR-PR50PULL",
+    "price": "3365.10",
+    "inventoryQuantity": 20
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632896205066",
+    "title": "PS4.0",
+    "sku": "STR-PS4.0",
+    "price": "4751.10",
+    "inventoryQuantity": 79
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632896237834",
+    "title": "DR10",
+    "sku": "STR-DR10",
+    "price": "7595.10",
+    "inventoryQuantity": 18
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632896270602",
+    "title": "RPS",
+    "sku": "STR-RPS",
+    "price": "4670.10",
+    "inventoryQuantity": 29
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632896303370",
+    "title": "WR1",
+    "sku": "STR-WR1",
+    "price": "1502.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632896336138",
+    "title": "SHR",
+    "sku": "STR-SHR",
+    "price": "7559.10",
+    "inventoryQuantity": 123
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632896368906",
+    "title": "UB",
+    "sku": "STR-UB",
+    "price": "2690.10",
+    "inventoryQuantity": 41
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632896401674",
+    "title": "WB1",
+    "sku": "STR-WB1",
+    "price": "2159.10",
+    "inventoryQuantity": 17
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632896434442",
+    "title": "WB6.0",
+    "sku": "STR-WB6.0",
+    "price": "2690.10",
+    "inventoryQuantity": 41
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632896467210",
+    "title": "WB8.0",
+    "sku": "STR-WB8.0",
+    "price": "4958.10",
+    "inventoryQuantity": 29
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632896499978",
+    "title": "WB40",
+    "sku": "STR-WB40",
+    "price": "3401.10",
+    "inventoryQuantity": 118
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632896532746",
+    "title": "WPT8",
+    "sku": "STR-WPT8",
+    "price": "4085.10",
+    "inventoryQuantity": 5
+   }
+  ]
+ },
+ "aest-barnsparkcykel-bl-105565": {
+  "id": "gid://shopify/Product/10462824235274",
+  "titel": "Aest Barnsparkcykel, blå",
+  "status": "ACTIVE",
+  "vendor": "Velomarket",
+  "tags": [
+   "price-change-job-active",
+   "sale",
+   "Sparkcyklar",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52805419827466",
+    "title": "blue",
+    "sku": "105565",
+    "price": "2024.10",
+    "inventoryQuantity": 3
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52805419860234",
+    "title": "yellow",
+    "sku": "105568",
+    "price": "656.10",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52805419893002",
+    "title": "green",
+    "sku": "105566",
+    "price": "656.10",
+    "inventoryQuantity": 3
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52805419925770",
+    "title": "pink",
+    "sku": "105567",
+    "price": "656.10",
+    "inventoryQuantity": 2
+   }
+  ]
+ },
+ "balansplatta-gs-termoplast": {
+  "id": "gid://shopify/Product/10636695306506",
+  "titel": "Balansplatta GS i Termoplast, 47 x 40 cm",
+  "status": "ACTIVE",
+  "vendor": "Gorilla Sports Norden",
+  "tags": [
+   "all products",
+   "Balans",
+   "balans platta",
+   "balans pude",
+   "balanskudde",
+   "balansplatta",
+   "balanspude",
+   "gymtillbehör",
+   "texter-klara",
+   "träningsmatta"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53782276735242",
+    "title": "Ljusblå",
+    "sku": "100852-00059-0001",
+    "price": "579.00",
+    "inventoryQuantity": 738
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782276768010",
+    "title": "Ljusgrön",
+    "sku": "100852-00035-0001",
+    "price": "579.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782276800778",
+    "title": "Orange",
+    "sku": "100852-00036-0001",
+    "price": "579.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782276833546",
+    "title": "Mörkblå",
+    "sku": "100852-00030-0001",
+    "price": "579.00",
+    "inventoryQuantity": 676
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782276866314",
+    "title": "Rosa",
+    "sku": "100852-00037-0001",
+    "price": "579.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782276899082",
+    "title": "Svart",
+    "sku": "100852-00019-0001",
+    "price": "679.00",
+    "inventoryQuantity": 517
+   }
+  ]
+ },
+ "balansplatta-movit": {
+  "id": "gid://shopify/Product/10636618268938",
+  "titel": "Balansplatta Movit i Skum, 40 x 50 cm",
+  "status": "ACTIVE",
+  "vendor": "Gorilla Sports Norden",
+  "tags": [
+   "all products",
+   "balans",
+   "balans pude",
+   "balansdyna",
+   "balanskudde",
+   "balansplatta",
+   "balanspude",
+   "gymtillbehör",
+   "Nyhet",
+   "texter-klara",
+   "träningstillbehör"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53782163554570",
+    "title": "Svart",
+    "sku": "20040800",
+    "price": "659.00",
+    "inventoryQuantity": 304
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782163587338",
+    "title": "Blå",
+    "sku": "20040801",
+    "price": "659.00",
+    "inventoryQuantity": 132
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782163620106",
+    "title": "Grön",
+    "sku": "20040802",
+    "price": "659.00",
+    "inventoryQuantity": 111
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782163652874",
+    "title": "Orange",
+    "sku": "20040803",
+    "price": "659.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782163685642",
+    "title": "Lila",
+    "sku": "20040804",
+    "price": "659.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782163718410",
+    "title": "Gul",
+    "sku": "20040805",
+    "price": "659.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782163751178",
+    "title": "Röd",
+    "sku": "20040806",
+    "price": "659.00",
+    "inventoryQuantity": 131
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782163783946",
+    "title": "Rosa",
+    "sku": "20040807",
+    "price": "659.00",
+    "inventoryQuantity": 103
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782163816714",
+    "title": "Grå",
+    "sku": "20040808",
+    "price": "659.00",
+    "inventoryQuantity": 4
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782163849482",
+    "title": "Turkos",
+    "sku": "20040809",
+    "price": "659.00",
+    "inventoryQuantity": 220
+   }
+  ]
+ },
+ "barncykel-tabou-rocket-fr-20-bl-turkos-tab25-6720": {
+  "id": "gid://shopify/Product/10462813159690",
+  "titel": "Barncykel TABOU Rocket FR, 20\" blå-turkos",
+  "status": "ACTIVE",
+  "vendor": "Tabou",
+  "tags": [
+   "Cyklar",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "Taboo",
+   "Tabou",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52805399544074",
+    "title": "Default Title",
+    "sku": "TAB25-6720",
+    "price": "5516.10",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451943543050",
+    "title": "20 / sinine",
+    "sku": "TAB26-1370",
+    "price": "3212.10",
+    "inventoryQuantity": 1
+   }
+  ]
+ },
+ "barnrullskridskor-fila-x-one-svart-bl-r-d-010623130-l38": {
+  "id": "gid://shopify/Product/10472308211978",
+  "titel": "Barnrullskridskor Fila X-One",
+  "status": "ACTIVE",
+  "vendor": "Fila",
+  "tags": [
+   "Fila",
+   "price-change-job-active",
+   "sale",
+   "texter-klara",
+   "Utomhusträning",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848525050122",
+    "title": "Default Title",
+    "sku": "010623130-M35",
+    "price": "1682.10",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848525082890",
+    "title": "M / black",
+    "sku": "010623130-M35",
+    "price": "1475.10",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848525115658",
+    "title": "XL / black",
+    "sku": "010623130-XL41",
+    "price": "1475.10",
+    "inventoryQuantity": 1
+   }
+  ]
+ },
+ "bicycle-helmet-lazer-compact-blc2187885000": {
+  "id": "gid://shopify/Product/10486656270602",
+  "titel": "Bicycle helmet Lazer Compact",
+  "status": "ACTIVE",
+  "vendor": "Lazer",
+  "tags": [
+   "Cykelhjälm",
+   "Hjälm",
+   "Laser",
+   "Lazer",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52929880719626",
+    "title": "black",
+    "sku": "BLC2187885000",
+    "price": "509.00",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52929880752394",
+    "title": "white",
+    "sku": "BLC2187885001",
+    "price": "509.00",
+    "inventoryQuantity": 1
+   }
+  ]
+ },
+ "bicycle-kona-coco-2027-27-5-gloss-metallic-electric-blue-b36coblshin01": {
+  "id": "gid://shopify/Product/10682105528586",
+  "titel": "Cykel Kona Coco (2027) 27,5 tum, Gloss Metallic Electric Blue",
+  "status": "ACTIVE",
+  "vendor": "Kona",
+  "tags": [
+   "Damcyklar",
+   "Elcykel",
+   "Hybridcykel",
+   "Kona",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53981027762442",
+    "title": "Default Title",
+    "sku": "B36COBLSHIN01",
+    "price": "12365.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53981027795210",
+    "title": "M / blue",
+    "sku": "B36COBLSHIN03",
+    "price": "12365.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53981027827978",
+    "title": "L / blue",
+    "sku": "B36COBLSHIN05",
+    "price": "12482.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "bookman-reflexklisterm-rken-f-r-cyklar-vita-prickar-273": {
+  "id": "gid://shopify/Product/10471174668554",
+  "titel": "Reflexklistermärken för Cyklar Bookman",
+  "status": "ACTIVE",
+  "vendor": "Bookman",
+  "tags": [
+   "Bookman",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52845221019914",
+    "title": "273",
+    "sku": "273",
+    "price": "69.00",
+    "inventoryQuantity": 5
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845221052682",
+    "title": "275",
+    "sku": "275",
+    "price": "69.00",
+    "inventoryQuantity": 4
+   }
+  ]
+ },
+ "cykel-kona-coco-2025-27-5-r-d-b36cor01": {
+  "id": "gid://shopify/Product/10561340211466",
+  "titel": "Damcykel Kona Coco, 27,5 tum, Röd",
+  "status": "ACTIVE",
+  "vendor": "Kona",
+  "tags": [
+   "Damcyklar",
+   "Hybridcykel",
+   "Kona",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53313521484042",
+    "title": "Default Title",
+    "sku": "B36COR05",
+    "price": "12365.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53313521516810",
+    "title": "L / Red",
+    "sku": "B36COR05",
+    "price": "12365.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "cykel-kona-dew-2026-29-gloss-niagra-bl-b37dwblshin05": {
+  "id": "gid://shopify/Product/10541372113162",
+  "titel": "Hybridcykel Kona Dew, 29 tum, Niagra (Blå)",
+  "status": "ACTIVE",
+  "vendor": "Kona",
+  "tags": [
+   "Cyklar",
+   "Hybridcykel",
+   "Kona",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53214525423882",
+    "title": "Default Title",
+    "sku": "B37DWBLSHIN01",
+    "price": "11024.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53214525456650",
+    "title": "XL / blue",
+    "sku": "B37DWBLSHIN06",
+    "price": "9674.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "cykel-kona-lava-dome-2026-gloss-prism-dragonfly-b37ldblmsin00": {
+  "id": "gid://shopify/Product/10565633736970",
+  "titel": "Cykel Kona Lava Dome, Prism Dragonfly",
+  "status": "ACTIVE",
+  "vendor": "Kona",
+  "tags": [
+   "Cyklar",
+   "Kona",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53355713921290",
+    "title": "Default Title",
+    "sku": "B37LDBLMSIN03",
+    "price": "12365.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53355713954058",
+    "title": "S / blue",
+    "sku": "B37LDBLMSIN01",
+    "price": "12365.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53355713986826",
+    "title": "M / blue",
+    "sku": "B37LDBLMSIN03",
+    "price": "12365.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53355714019594",
+    "title": "L / blue",
+    "sku": "B37LDBLMSIN05",
+    "price": "12365.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "cykel-liv-allure-cs-2-gb-2026-deep-cove-3005010114": {
+  "id": "gid://shopify/Product/10494941692170",
+  "titel": "Damcykel Liv Allure CS 2 GB med remdrift",
+  "status": "ACTIVE",
+  "vendor": "Liv",
+  "tags": [
+   "Damcyklar",
+   "Liv",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52985185992970",
+    "title": "Default Title",
+    "sku": "3005010114",
+    "price": "20411.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52985186025738",
+    "title": "M / purple",
+    "sku": "3005010115",
+    "price": "17918.10",
+    "inventoryQuantity": 1
+   }
+  ]
+ },
+ "cykel-med-extra-l-g-ram-leader-fox-ema-26-lady-svart-k25-2-3-1-19": {
+  "id": "gid://shopify/Product/10548291469578",
+  "titel": "Cykel med extra låg ram LEADER FOX Ema 26\" Lady, Svart",
+  "status": "ACTIVE",
+  "vendor": "LEADERFOX",
+  "tags": [
+   "Damcykel",
+   "Damcyklar",
+   "LEADERFOX",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53243192639754",
+    "title": "Default Title",
+    "sku": "K25/2/3/1/19",
+    "price": "9962.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53243192672522",
+    "title": "M / black",
+    "sku": "K25/2/3/1/17",
+    "price": "10115.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "cykel-tabou-kinetic-1-0-bl-tab23-3011": {
+  "id": "gid://shopify/Product/10472292090122",
+  "titel": "Herrcykel Tabou Kinetic 1.0, 28 tum",
+  "status": "ACTIVE",
+  "vendor": "Tabou",
+  "tags": [
+   "Cyklar",
+   "Herrcykel",
+   "price-change-job-active",
+   "sale",
+   "Tabou",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848500408586",
+    "title": "Default Title",
+    "sku": "TAB23-3020",
+    "price": "8450.10",
+    "inventoryQuantity": 10
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848500441354",
+    "title": "XL / blue",
+    "sku": "TAB23-3020",
+    "price": "7415.10",
+    "inventoryQuantity": 7
+   }
+  ]
+ },
+ "damcykel-liv-avail-ar-2-2026-lavender-blush-1017035183": {
+  "id": "gid://shopify/Product/10488246796554",
+  "titel": "Damcykel Liv Avail AR 2, 700x32c, storlek S",
+  "status": "ACTIVE",
+  "vendor": "Liv",
+  "tags": [
+   "Damcykel",
+   "Damcyklar",
+   "Liv",
+   "price-change-job-active",
+   "På beställning",
+   "Racercykel",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52935246807306",
+    "title": "Default Title",
+    "sku": "1017035184",
+    "price": "23363.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52935246840074",
+    "title": "S / white",
+    "sku": "1017035184",
+    "price": "20510.10",
+    "inventoryQuantity": 1
+   }
+  ]
+ },
+ "damcykel-liv-tempt-2-29-ocean-wave-2201119284": {
+  "id": "gid://shopify/Product/10472261878026",
+  "titel": "Damcykel Liv Tempt 2, 29 tum",
+  "status": "ACTIVE",
+  "vendor": "Liv",
+  "tags": [
+   "Damcykel",
+   "Damcyklar",
+   "Liv",
+   "Mountainbike",
+   "price-change-job-active",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848418914570",
+    "title": "Default Title",
+    "sku": "2201119285",
+    "price": "11996.10",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848418947338",
+    "title": "M / green",
+    "sku": "2201119285",
+    "price": "10529.10",
+    "inventoryQuantity": 2
+   }
+  ]
+ },
+ "damcykel-liv-tempt-2-ge-ocean-wave-27-5-tum-2201135184": {
+  "id": "gid://shopify/Product/10474079518986",
+  "titel": "Damcykel Liv Tempt 2 GE, 27,5 tum",
+  "status": "ACTIVE",
+  "vendor": "Liv",
+  "tags": [
+   "Damcykel",
+   "Damcyklar",
+   "Liv",
+   "Mountainbike",
+   "price-change-job-active",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52859282522378",
+    "title": "Default Title",
+    "sku": "2201135184",
+    "price": "11897.10",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52859282555146",
+    "title": "M / green",
+    "sku": "2201135185",
+    "price": "10439.10",
+    "inventoryQuantity": 3
+   }
+  ]
+ },
+ "el-fatbike-leader-fox-brasa-26-gr-k24-8-3-1-26-2-20": {
+  "id": "gid://shopify/Product/10468727521546",
+  "titel": "Elcykel Fatbike Leader Fox Brasa, 26 tum, Grå",
+  "status": "ACTIVE",
+  "vendor": "LEADERFOX",
+  "tags": [
+   "Cyklar",
+   "Elcykel",
+   "LEADERFOX",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52832159924490",
+    "title": "Default Title",
+    "sku": "K24/8/3/1/26/2/18",
+    "price": "32417.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832159957258",
+    "title": "L / gray",
+    "sku": "K24/8/3/1/26/2/20",
+    "price": "32417.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "elcykel-kona-dew-e-gloss-metallic-dark-faux-raw-gr-b37edwgyep5euin01": {
+  "id": "gid://shopify/Product/10588452946186",
+  "titel": "Elcykel Kona Dew-E, Gloss Metallic Dark Faux Raw",
+  "status": "ACTIVE",
+  "vendor": "Kona",
+  "tags": [
+   "Cyklar",
+   "Elcykel",
+   "Hybridcykel",
+   "Kona",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53499302379786",
+    "title": "Default Title",
+    "sku": "B37EDWGYEP5EUIN06",
+    "price": "41975.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499302412554",
+    "title": "XL / gray",
+    "sku": "B37EDWGYEP5EUIN06",
+    "price": "42371.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499302445322",
+    "title": "L / gray",
+    "sku": "B37EDWGYEP5EUIN05",
+    "price": "36845.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "elcykel-leader-fox-swan-29-herr-bl-k23-9-1-1-29-2-175": {
+  "id": "gid://shopify/Product/10673181655306",
+  "titel": "Elcykel Leader Fox Swan Herr, 29 tum, Blå",
+  "status": "ACTIVE",
+  "vendor": "LEADERFOX",
+  "tags": [
+   "Cyklar",
+   "Elcykel",
+   "LEADERFOX",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53934500118794",
+    "title": "Default Title",
+    "sku": "K23/9/1/1/29/2/215",
+    "price": "22418.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53934500151562",
+    "title": "L / blue",
+    "sku": "K23/9/1/1/29/2/195",
+    "price": "22418.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53934500184330",
+    "title": "XL / blue",
+    "sku": "K23/9/1/1/29/2/215",
+    "price": "22418.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "elcykel-liv-amiti-e-4-clear-sky-5230005103": {
+  "id": "gid://shopify/Product/10598564757770",
+  "titel": "Elcykel Liv Amiti E+ 4, Clear Sky",
+  "status": "ACTIVE",
+  "vendor": "Liv",
+  "tags": [
+   "Damcyklar",
+   "Elcykel",
+   "Liv",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53552275063050",
+    "title": "Default Title",
+    "sku": "5230005105",
+    "price": "42407.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53552275095818",
+    "title": "M / blue",
+    "sku": "5230005105",
+    "price": "42407.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "elcykel-liv-embolden-e-0-2027-atmosphere-svart-5310004103": {
+  "id": "gid://shopify/Product/10598564856074",
+  "titel": "Elcykel Liv Embolden E+ 0 (2027), Atmosphere/Svart",
+  "status": "ACTIVE",
+  "vendor": "Liv",
+  "tags": [
+   "Damcyklar",
+   "Elcykel",
+   "Liv",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53552275390730",
+    "title": "Default Title",
+    "sku": "5310004105",
+    "price": "77786.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53552275423498",
+    "title": "S / blue",
+    "sku": "5310004104",
+    "price": "77786.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53552275456266",
+    "title": "M / blue",
+    "sku": "5310004105",
+    "price": "77786.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "elcykel-liv-tempt-e-2-ex-2027-tyrian-purple-5550006105": {
+  "id": "gid://shopify/Product/10708319994122",
+  "titel": "Elcykel LIV Tempt E+ 2 EX (2027) Tyrian Purple",
+  "status": "ACTIVE",
+  "vendor": "Liv",
+  "tags": [
+   "Damcyklar",
+   "Elcykel",
+   "Liv",
+   "Mountainbike",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/54085581603082",
+    "title": "Default Title",
+    "sku": "5550006105",
+    "price": "42857.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/54085581635850",
+    "title": "S / purple",
+    "sku": "5550006104",
+    "price": "42857.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/54085581668618",
+    "title": "L / purple",
+    "sku": "5550006107",
+    "price": "42857.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "elcykel-tenways-cgo009-midnight-black-081101544004": {
+  "id": "gid://shopify/Product/10494943723786",
+  "titel": "Elcykel Tenways CGO009, Midnight Black",
+  "status": "ACTIVE",
+  "vendor": "TENWAYS",
+  "tags": [
+   "Cyklar",
+   "Elcykel",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "TENWAYS",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52985211289866",
+    "title": "Default Title",
+    "sku": "081101544004",
+    "price": "34289.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451944624394",
+    "title": "TEB091570001",
+    "sku": "TEB091570001",
+    "price": "30095.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "elcykel-tenways-cgo600-pro-2025-avocado-green-081301540037": {
+  "id": "gid://shopify/Product/10471199080714",
+  "titel": "Elcykel Tenways CGO600 Pro, Avocado Green",
+  "status": "ACTIVE",
+  "vendor": "TENWAYS",
+  "tags": [
+   "Cyklar",
+   "Elcykel",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "TENWAYS",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52845273940234",
+    "title": "Default Title",
+    "sku": "081301580038",
+    "price": "30671.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845273973002",
+    "title": "M / green",
+    "sku": "081301500006",
+    "price": "30671.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845274005770",
+    "title": "XL / green",
+    "sku": "081301580038",
+    "price": "26918.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451945017610",
+    "title": "TEB6P1580004",
+    "sku": "TEB6P1580004",
+    "price": "26918.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "elcykel-tenways-cgo600-pro-2025-midnight-black-081301460043": {
+  "id": "gid://shopify/Product/10472296120586",
+  "titel": "Elcykel TENWAYS CGO600 Pro, Midnight Black",
+  "status": "ACTIVE",
+  "vendor": "TENWAYS",
+  "tags": [
+   "Cyklar",
+   "Elcykel",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "TENWAYS",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848511516938",
+    "title": "Default Title",
+    "sku": "081301580045",
+    "price": "30671.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848511549706",
+    "title": "XL / black",
+    "sku": "081301580045",
+    "price": "26918.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "elcykel-tenways-cgo600-pro-2025-sky-blue-081301540046": {
+  "id": "gid://shopify/Product/10471199342858",
+  "titel": "Elcykel Tenways CGO600 Pro, Himmelsblå",
+  "status": "ACTIVE",
+  "vendor": "TENWAYS",
+  "tags": [
+   "Cyklar",
+   "Elcykel",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "TENWAYS",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52845274562826",
+    "title": "Default Title",
+    "sku": "081301580044",
+    "price": "30671.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845274595594",
+    "title": "M / blue",
+    "sku": "081301500027",
+    "price": "26918.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845274628362",
+    "title": "XL / blue",
+    "sku": "081301580044",
+    "price": "26918.10",
+    "inventoryQuantity": 1
+   }
+  ]
+ },
+ "electric-bike-liv-tempt-e-2026-seafoam-green-5550004203": {
+  "id": "gid://shopify/Product/10476224741642",
+  "titel": "Elcykel Liv Tempt E+, Havsgrönt",
+  "status": "ACTIVE",
+  "vendor": "Liv",
+  "tags": [
+   "Damcyklar",
+   "Elcykel",
+   "Liv",
+   "Mountainbike",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52869528879370",
+    "title": "Default Title",
+    "sku": "5550004203",
+    "price": "39698.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52869528912138",
+    "title": "L / green",
+    "sku": "5550004207",
+    "price": "34505.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "electric-bike-liv-tempt-e-ex-2026-sandshell-5550001104": {
+  "id": "gid://shopify/Product/10471305838858",
+  "titel": "Elcykel Liv Tempt E+ EX, Sandshell",
+  "status": "ACTIVE",
+  "vendor": "Liv",
+  "tags": [
+   "Damcyklar",
+   "Elcykel",
+   "Liv",
+   "Mountainbike",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52845475299594",
+    "title": "Default Title",
+    "sku": "5550001104",
+    "price": "42407.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845475332362",
+    "title": "M / beige",
+    "sku": "5550001105",
+    "price": "42407.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845475365130",
+    "title": "XS / beige",
+    "sku": "5550001103",
+    "price": "42407.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "elektrolyt-trec-vitargo-electro-energy-citron-grapefruit-1050-g-13398": {
+  "id": "gid://shopify/Product/10472269676810",
+  "titel": "Elektrolyt TREC VITARGO ELECTRO ENERGY CITRON-GRAPEFRUIT 1050 g",
+  "status": "ACTIVE",
+  "vendor": "Trec",
+  "tags": [
+   "elektrolyt",
+   "Kosttillskott",
+   "På beställning",
+   "Trec",
+   "Trek",
+   "Velomarket",
+   "vätskeersättning"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848441426186",
+    "title": "Default Title",
+    "sku": "13398",
+    "price": "429.00",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451945279754",
+    "title": "13398",
+    "sku": "13398",
+    "price": "369.00",
+    "inventoryQuantity": 1
+   }
+  ]
+ },
+ "figure-skates-fila-eve-ice-010422050-30": {
+  "id": "gid://shopify/Product/10472305131786",
+  "titel": "Figure skates FILA Eve Ice",
+  "status": "ACTIVE",
+  "vendor": "Fila",
+  "tags": [
+   "Fila",
+   "Skridskor",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848521773322",
+    "title": "Default Title",
+    "sku": "010422050-31",
+    "price": "709.00",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848521806090",
+    "title": "31 / white",
+    "sku": "010422050-31",
+    "price": "769.00",
+    "inventoryQuantity": 1
+   }
+  ]
+ },
+ "fixie-bike-6ku-evian-2-cb62e1020-4": {
+  "id": "gid://shopify/Product/10468705501450",
+  "titel": "Fixiecykel 6KU Evian 2, 28 tum, Vit",
+  "status": "ACTIVE",
+  "vendor": "6KU",
+  "tags": [
+   "6KU",
+   "Cyklar",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52832074727690",
+    "title": "Default Title",
+    "sku": "CB69E1019",
+    "price": "7145.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832074760458",
+    "title": "XL / white",
+    "sku": "CB68E1022",
+    "price": "7145.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832074793226",
+    "title": "S / white",
+    "sku": "CB69E1019",
+    "price": "7145.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "fixie-excelsior-snatcher-black-02130066": {
+  "id": "gid://shopify/Product/10472334688522",
+  "titel": "Fixie Excelsior Snatcher, Stålram, Svart",
+  "status": "ACTIVE",
+  "vendor": "Excelsior",
+  "tags": [
+   "Cyklar",
+   "Excelsior",
+   "price-change-job-active",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848810590474",
+    "title": "Default Title",
+    "sku": "02130064",
+    "price": "7532.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848810623242",
+    "title": "M / black",
+    "sku": "02130064",
+    "price": "7532.10",
+    "inventoryQuantity": 3
+   }
+  ]
+ },
+ "fixiecykel-blb-la-piovra-atk-cbb2ag0030": {
+  "id": "gid://shopify/Product/10472237072650",
+  "titel": "Fixiecykel BLB La Piovra ATK, 700x26c",
+  "status": "ACTIVE",
+  "vendor": "BLB",
+  "tags": [
+   "BLB",
+   "Cyklar",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848362979594",
+    "title": "Default Title",
+    "sku": "CBB8AS0035",
+    "price": "16901.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848363012362",
+    "title": "L / green",
+    "sku": "CBB5AG0031",
+    "price": "14831.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848363045130",
+    "title": "CBB8AG0032",
+    "sku": "CBB8AG0032",
+    "price": "14831.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451945640202",
+    "title": "XL / hõbe",
+    "sku": "CBB8AS0035",
+    "price": "14831.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "frampaketh-llare-basil-portland-50408": {
+  "id": "gid://shopify/Product/10548232651018",
+  "titel": "Frampakethållare Basil Portland",
+  "status": "ACTIVE",
+  "vendor": "Basil",
+  "tags": [
+   "Basil",
+   "Pakethållare",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53242933182730",
+    "title": "Default Title",
+    "sku": "50408",
+    "price": "1538.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451946033418",
+    "title": "must",
+    "sku": "50410",
+    "price": "1358.10",
+    "inventoryQuantity": 3
+   }
+  ]
+ },
+ "g-stavar-gymstick-active-walker-110cm-gym72042110": {
+  "id": "gid://shopify/Product/10462193942794",
+  "titel": "Gåstavar Gymstick Active Walker",
+  "status": "ACTIVE",
+  "vendor": "Gymstick",
+  "tags": [
+   "Gymstick",
+   "texter-klara",
+   "Utomhusträning",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52799918768394",
+    "title": "GYM72042110",
+    "sku": "GYM72042110",
+    "price": "579.00",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52799918801162",
+    "title": "GYM72042115",
+    "sku": "GYM72042115",
+    "price": "579.00",
+    "inventoryQuantity": 1
+   }
+  ]
+ },
+ "gravelbike-kona-ouroboros-cr-dl-gloss-harbor-gray-green-b36orcd48-2": {
+  "id": "gid://shopify/Product/10468716478730",
+  "titel": "Gravelbike KONA Ouroboros CR/DL, Gloss Harbor Gray (Green)",
+  "status": "ACTIVE",
+  "vendor": "Kona",
+  "tags": [
+   "Cyklar",
+   "Gravelcykel",
+   "Kona",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52832111591690",
+    "title": "Default Title",
+    "sku": "B36ORCD48",
+    "price": "71441.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832111624458",
+    "title": "S / blue",
+    "sku": "B36ORCD50",
+    "price": "71441.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832111657226",
+    "title": "M / blue",
+    "sku": "B36ORCD52",
+    "price": "71441.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832111689994",
+    "title": "M/L / blue",
+    "sku": "B36ORCD54",
+    "price": "71441.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832111722762",
+    "title": "L / blue",
+    "sku": "B36ORCD56",
+    "price": "71441.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832111755530",
+    "title": "XL / blue",
+    "sku": "B36ORCD58",
+    "price": "71441.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "gravelcykel-kona-rove-al-2027-gloss-winter-sky-b37rvabl1shin48": {
+  "id": "gid://shopify/Product/10708320125194",
+  "titel": "Gravelcykel KONA Rove AL (2027) Gloss Winter Sky",
+  "status": "ACTIVE",
+  "vendor": "Kona",
+  "tags": [
+   "Cyklar",
+   "Gravelcykel",
+   "Kona",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/54085582061834",
+    "title": "Default Title",
+    "sku": "B37RVABL1SHIN50",
+    "price": "13715.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/54085582094602",
+    "title": "S / blue",
+    "sku": "B37RVABL1SHIN50",
+    "price": "13715.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "gravelcykel-kona-sutra-ltd-29-gloss-bone-vit-b36sulwhshfa48": {
+  "id": "gid://shopify/Product/10471133675786",
+  "titel": "Gravelcykel Kona Sutra LTD, 29 tum, Gloss Bone",
+  "status": "ACTIVE",
+  "vendor": "Kona",
+  "tags": [
+   "Cyklar",
+   "Gravelcykel",
+   "Kona",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52845090046218",
+    "title": "Default Title",
+    "sku": "B36SULWHSHFA50",
+    "price": "35243.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845090078986",
+    "title": "S / white",
+    "sku": "B36SULWHSHFA50",
+    "price": "31715.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845090111754",
+    "title": "M/L / white",
+    "sku": "B36SULWHSHFA54",
+    "price": "31715.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845090144522",
+    "title": "XL / white",
+    "sku": "B36SULWHSHFA58",
+    "price": "31715.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "gt1-0-treadmill": {
+  "id": "gid://shopify/Product/10581107343626",
+  "titel": "GT1.0 Treadmill",
+  "status": "ACTIVE",
+  "vendor": "Gymstick",
+  "tags": [
+   "Gymstick",
+   "Löpband",
+   "price-change-job-active",
+   "sale"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53461527757066",
+    "title": "GT1.0",
+    "sku": "TM-GT1.0",
+    "price": "6299.10",
+    "inventoryQuantity": 112
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461527789834",
+    "title": "GT10.0",
+    "sku": "TM-GT10.0",
+    "price": "23399.10",
+    "inventoryQuantity": 24
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461527822602",
+    "title": "GT3.0",
+    "sku": "TM-GT3.0",
+    "price": "9899.10",
+    "inventoryQuantity": 68
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461527855370",
+    "title": "GT5.0",
+    "sku": "TM-GT5.0",
+    "price": "13499.10",
+    "inventoryQuantity": 23
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461527888138",
+    "title": "GT7.0",
+    "sku": "TM-GT7.0",
+    "price": "19799.10",
+    "inventoryQuantity": 27
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461527920906",
+    "title": "GT8.0",
+    "sku": "TM-GT8.0",
+    "price": "20699.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461527986442",
+    "title": "GTPR",
+    "sku": "TM-GTPR",
+    "price": "13499.10",
+    "inventoryQuantity": 12
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461528019210",
+    "title": "PRO15.0",
+    "sku": "TM-PRO15.0",
+    "price": "35999.10",
+    "inventoryQuantity": 24
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461528051978",
+    "title": "PRO25.0",
+    "sku": "TM-PRO25.0",
+    "price": "44999.10",
+    "inventoryQuantity": 13
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53461528183050",
+    "title": "WPAD",
+    "sku": "TM-WPAD",
+    "price": "6209.10",
+    "inventoryQuantity": 214
+   }
+  ]
+ },
+ "gx3-0-crosstrainer": {
+  "id": "gid://shopify/Product/10611424854282",
+  "titel": "GX3.0 Crosstrainer",
+  "status": "ACTIVE",
+  "vendor": "Gymstick",
+  "tags": [
+   "Crosstrainers",
+   "Gymstick",
+   "price-change-job-active",
+   "sale"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53632908820746",
+    "title": "GX3.0",
+    "sku": "CT-GX3.0",
+    "price": "4949.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632908853514",
+    "title": "GX6.0",
+    "sku": "CT-GX6.0",
+    "price": "7469.10",
+    "inventoryQuantity": 5
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632908886282",
+    "title": "GX8.0",
+    "sku": "CT-GX8.0",
+    "price": "9899.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632908919050",
+    "title": "GX9.0",
+    "sku": "CT-GX9.0",
+    "price": "11249.10",
+    "inventoryQuantity": 62
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632908951818",
+    "title": "PRO20.0",
+    "sku": "CT-PRO20.0",
+    "price": "26099.10",
+    "inventoryQuantity": 35
+   }
+  ]
+ },
+ "gymnastikboll-zipro-anti-burst-gymnastics-ball-65cm-svart": {
+  "id": "gid://shopify/Product/10461406232842",
+  "titel": "Gymnastikboll Zipro, 65 cm, Svart",
+  "status": "ACTIVE",
+  "vendor": "Zipro",
+  "tags": [
+   "texter-klara",
+   "Träningsboll",
+   "Träningsbollar",
+   "Velomarket",
+   "Zipro"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52795210629386",
+    "title": "black",
+    "sku": "6413427",
+    "price": "239.00",
+    "inventoryQuantity": 2
+   }
+  ]
+ },
+ "handskar-paw-patrol-rosa-34010": {
+  "id": "gid://shopify/Product/10472287043850",
+  "titel": "Handskar Paw Patrol för Barn, Storlek S",
+  "status": "ACTIVE",
+  "vendor": "SevenPolska",
+  "tags": [
+   "benskydd",
+   "SevenPolska",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848483336458",
+    "title": "Default Title",
+    "sku": "34011",
+    "price": "129.00",
+    "inventoryQuantity": 5
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848483369226",
+    "title": "blue",
+    "sku": "34011",
+    "price": "109.00",
+    "inventoryQuantity": 2
+   }
+  ]
+ },
+ "hantlar-christopeit-2-x-3-kg-svart-30-1872": {
+  "id": "gid://shopify/Product/10472278163722",
+  "titel": "Hantlar CHRISTOPEIT 2 x 3 kg, svart",
+  "status": "ACTIVE",
+  "vendor": "Christopeit",
+  "tags": [
+   "Christopeit",
+   "Christopher",
+   "Konditionsträning & Fitness",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848456565002",
+    "title": "30-1872",
+    "sku": "30-1872",
+    "price": "439.00",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848456597770",
+    "title": "30-1873",
+    "sku": "30-1873",
+    "price": "589.00",
+    "inventoryQuantity": 3
+   }
+  ]
+ },
+ "helmet-melon-new-york-mua-p106m-ml": {
+  "id": "gid://shopify/Product/10472261976330",
+  "titel": "Hjälm Melon New York, XL/XXL 58–63 cm",
+  "status": "ACTIVE",
+  "vendor": "Melon",
+  "tags": [
+   "Hjälm",
+   "Melon",
+   "price-change-job-active",
+   "sale",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848419045642",
+    "title": "Default Title",
+    "sku": "MUA.P106M.XL",
+    "price": "1430.10",
+    "inventoryQuantity": 5
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848419078410",
+    "title": "XL / green",
+    "sku": "MUA.P106M.XL",
+    "price": "1259.10",
+    "inventoryQuantity": 4
+   }
+  ]
+ },
+ "hj-lm-bobbin-disco-silver-bob-a101102": {
+  "id": "gid://shopify/Product/10462191878410",
+  "titel": "Hjälm BOBBIN Disco, silver",
+  "status": "ACTIVE",
+  "vendor": "Bobbin",
+  "tags": [
+   "Bobbin",
+   "Hjälm",
+   "price-change-job-active",
+   "sale",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52799903334666",
+    "title": "Default Title",
+    "sku": "BOB-A101103",
+    "price": "1367.10",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52799903367434",
+    "title": "M/L / silver",
+    "sku": "BOB-A101103",
+    "price": "674.10",
+    "inventoryQuantity": 1
+   }
+  ]
+ },
+ "hj-lm-cairn-clarke-matt-khaki-030030040m": {
+  "id": "gid://shopify/Product/10476278677770",
+  "titel": "Hjälm CAIRN CLARKE, Matt Khaki",
+  "status": "ACTIVE",
+  "vendor": "Cairn",
+  "tags": [
+   "Cairn",
+   "Hjälm",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52869646090506",
+    "title": "Default Title",
+    "sku": "030030040M",
+    "price": "539.00",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52869646123274",
+    "title": "L / green",
+    "sku": "030030040L",
+    "price": "539.00",
+    "inventoryQuantity": 2
+   }
+  ]
+ },
+ "hj-lm-cairn-clarke-matt-white-vit-030030001l-1": {
+  "id": "gid://shopify/Product/10472292811018",
+  "titel": "Cykelhjälm Cairn Clarke med LED, Matt Vit",
+  "status": "ACTIVE",
+  "vendor": "Cairn",
+  "tags": [
+   "Cairn",
+   "Hjälm",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848505225482",
+    "title": "Default Title",
+    "sku": "030030001L",
+    "price": "549.00",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848505258250",
+    "title": "M / white",
+    "sku": "030030001M",
+    "price": "479.00",
+    "inventoryQuantity": 3
+   }
+  ]
+ },
+ "hj-lm-limar-urbe-matt-svart-gcurbeceacl": {
+  "id": "gid://shopify/Product/10462818500874",
+  "titel": "Hjälm Limar Urbe, Matt Svart",
+  "status": "ACTIVE",
+  "vendor": "Limar",
+  "tags": [
+   "Hjälm",
+   "Limar",
+   "Lime",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52805410160906",
+    "title": "Default Title",
+    "sku": "GCURBECEACL",
+    "price": "669.00",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52805410193674",
+    "title": "M / black",
+    "sku": "GCURBECEACM",
+    "price": "589.00",
+    "inventoryQuantity": 3
+   }
+  ]
+ },
+ "hjul-till-sparkcykel-versatyl-scooter-wheel-110mm-bl-105097": {
+  "id": "gid://shopify/Product/10471122436362",
+  "titel": "Sparkcykelhjul Versatyl, 110 mm",
+  "status": "ACTIVE",
+  "vendor": "Versatyl",
+  "tags": [
+   "price-change-job-active",
+   "sale",
+   "Sparkcyklar",
+   "texter-klara",
+   "Velomarket",
+   "Versatyl"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52845056000266",
+    "title": "blue",
+    "sku": "105097",
+    "price": "1484.10",
+    "inventoryQuantity": 4
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845056033034",
+    "title": "black",
+    "sku": "105096",
+    "price": "1484.10",
+    "inventoryQuantity": 2
+   }
+  ]
+ },
+ "hopf-llbar-el-fatbike-leader-fox-cody-20-svart-k25-9-8-2-2": {
+  "id": "gid://shopify/Product/10676720173322",
+  "titel": "Elcykel Fatbike Leader Fox Cody, 20 tum, Hopfällbar",
+  "status": "ACTIVE",
+  "vendor": "LEADERFOX",
+  "tags": [
+   "Cyklar",
+   "Elcykel",
+   "LEADERFOX",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket",
+   "Vikbar cykel"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53955504570634",
+    "title": "black",
+    "sku": "K25/9/8/2/2",
+    "price": "30041.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53955504603402",
+    "title": "green",
+    "sku": "K25/9/8/2/1",
+    "price": "30041.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "k-lke-stiga-pacer-svart-74-6263-01": {
+  "id": "gid://shopify/Product/10472241987850",
+  "titel": "Kälke Stiga Pacer",
+  "status": "ACTIVE",
+  "vendor": "Stiga",
+  "tags": [
+   "Pulka",
+   "Stiga",
+   "texter-klara",
+   "Velomarket",
+   "Vinterutrustning"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848375595274",
+    "title": "black",
+    "sku": "74-6263-01",
+    "price": "329.00",
+    "inventoryQuantity": 8
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848375628042",
+    "title": "pink",
+    "sku": "74-6263-07",
+    "price": "329.00",
+    "inventoryQuantity": 13
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848375660810",
+    "title": "green",
+    "sku": "74-6263-09",
+    "price": "329.00",
+    "inventoryQuantity": 5
+   }
+  ]
+ },
+ "kalke-stiga-pacer-med-bromsar-svart": {
+  "id": "gid://shopify/Product/10411476615434",
+  "titel": "Kälke Stiga Pacer med Bromsar",
+  "status": "ACTIVE",
+  "vendor": "Stiga",
+  "tags": [
+   "Kälkar",
+   "Pulka",
+   "Stiga",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52586674684170",
+    "title": "black",
+    "sku": "74-6273-01",
+    "price": "389.00",
+    "inventoryQuantity": 9
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52586674716938",
+    "title": "pink",
+    "sku": "74-6273-07",
+    "price": "389.00",
+    "inventoryQuantity": 6
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52586674749706",
+    "title": "green",
+    "sku": "74-6273-09",
+    "price": "359.00",
+    "inventoryQuantity": 5
+   }
+  ]
+ },
+ "kn-och-armb-gsskydd-boom-basic-double-pad-set-bl-104297": {
+  "id": "gid://shopify/Product/10565562466570",
+  "titel": "Knä- och armbågsskydd Boom Basic Double Pad Set",
+  "status": "ACTIVE",
+  "vendor": "Boom",
+  "tags": [
+   "Boom",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53355571052810",
+    "title": "Default Title",
+    "sku": "104298",
+    "price": "349.00",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53355571085578",
+    "title": "M / blue",
+    "sku": "104298",
+    "price": "329.00",
+    "inventoryQuantity": 1
+   }
+  ]
+ },
+ "kona-rove-al-650-cykel-matt-faux-raw-silver-b36rv6556": {
+  "id": "gid://shopify/Product/10474079322378",
+  "titel": "Cykel Kona Rove AL 650",
+  "status": "ACTIVE",
+  "vendor": "Kona",
+  "tags": [
+   "Cyklar",
+   "Gravelcykel",
+   "Kona",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52859282030858",
+    "title": "Default Title",
+    "sku": "B36RV6558",
+    "price": "16694.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52859282063626",
+    "title": "XL / gray",
+    "sku": "B36RV6558",
+    "price": "14651.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "landsv-gscykel-bottecchia-8avio-ultimate-shimano-105-di2-24v-c39-gloss-and-matt-black-59dd105639": {
+  "id": "gid://shopify/Product/10494945165578",
+  "titel": "Landsvägscykel Bottecchia 8avio Ultimate, Shimano 105 Di2",
+  "status": "ACTIVE",
+  "vendor": "Bottecchia",
+  "tags": [
+   "Bottecchia",
+   "Cyklar",
+   "price-change-job-active",
+   "På beställning",
+   "Racercykel",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52985232228618",
+    "title": "Default Title",
+    "sku": "59DD104939",
+    "price": "47285.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52985232261386",
+    "title": "S / black",
+    "sku": "59DD104939",
+    "price": "47744.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "landsv-gscykel-bottecchia-8avio-ultimate-ultegra-di2-24s-c15-vit-bl-59rd105615": {
+  "id": "gid://shopify/Product/10494945001738",
+  "titel": "Landsvägscykel BOTTECCHIA 8avio Ultimate - Ultegra Di2 24s - C15 Vit Blå",
+  "status": "ACTIVE",
+  "vendor": "Bottecchia",
+  "tags": [
+   "Bottecchia",
+   "Cyklar",
+   "price-change-job-active",
+   "På beställning",
+   "Racercykel",
+   "sale",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52985229672714",
+    "title": "Default Title",
+    "sku": "59RD104615",
+    "price": "68093.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52985229705482",
+    "title": "M / white",
+    "sku": "59RD105215",
+    "price": "59192.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52985229738250",
+    "title": "S / white",
+    "sku": "59RD104915",
+    "price": "59192.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52985229771018",
+    "title": "XL / white",
+    "sku": "59RD105815",
+    "price": "59192.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52985229803786",
+    "title": "XS / white",
+    "sku": "59RD104615",
+    "price": "59192.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "landsv-gscykel-bottecchia-aerospace-ultegra-di2-24s-b1-nero-lucido-65td851b1": {
+  "id": "gid://shopify/Product/10494945722634",
+  "titel": "Landsvägscykel Bottecchia Aerospace Ultegra Di2, Nero Lucido",
+  "status": "ACTIVE",
+  "vendor": "Bottecchia",
+  "tags": [
+   "Bottecchia",
+   "Cyklar",
+   "price-change-job-active",
+   "På beställning",
+   "Racercykel",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52985242681610",
+    "title": "Default Title",
+    "sku": "65TD847B1",
+    "price": "72818.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52985242714378",
+    "title": "M/L / black",
+    "sku": "65TD853B1",
+    "price": "72818.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "landsv-gscykel-f-r-dam-liv-avail-ar-1-2026-sandshell-cold-night-1017034184": {
+  "id": "gid://shopify/Product/10488246829322",
+  "titel": "Damcykel Liv Avail AR 1, 700x32c, Sandshell/Cold Night",
+  "status": "ACTIVE",
+  "vendor": "Liv",
+  "tags": [
+   "Damcykel",
+   "Damcyklar",
+   "Liv",
+   "price-change-job-active",
+   "På beställning",
+   "Racercykel",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52935246905610",
+    "title": "Default Title",
+    "sku": "1017034185",
+    "price": "26072.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52935246938378",
+    "title": "M / beige",
+    "sku": "1017034185",
+    "price": "19871.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "leader-fox-bormio-el-trehjuling-vit-k25-5-23-2": {
+  "id": "gid://shopify/Product/10548295368970",
+  "titel": "El-trehjuling Leader Fox Bormio",
+  "status": "ACTIVE",
+  "vendor": "LEADERFOX",
+  "tags": [
+   "Cyklar",
+   "Elcykel",
+   "LEADERFOX",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53243212300554",
+    "title": "white",
+    "sku": "K25/5/23/2",
+    "price": "26108.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53243212333322",
+    "title": "black",
+    "sku": "K25/5/23/1",
+    "price": "26108.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "liv-avail-advanced-1-2027-damcykel-shell-white-1017039144": {
+  "id": "gid://shopify/Product/10624088637706",
+  "titel": "Damcykel Liv Avail Advanced 1 (2027), Shell White",
+  "status": "ACTIVE",
+  "vendor": "Liv",
+  "tags": [
+   "Damcykel",
+   "Damcyklar",
+   "Liv",
+   "price-change-job-active",
+   "På beställning",
+   "Racercykel",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53701395382538",
+    "title": "Default Title",
+    "sku": "1017039144",
+    "price": "46484.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53701395415306",
+    "title": "M / gray",
+    "sku": "1017039145",
+    "price": "46484.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "meditationskudde-half-moon-zafu-cushion": {
+  "id": "gid://shopify/Product/10636660474122",
+  "titel": "Meditationskudde Half Moon Zafu, Sitthöjd 18 cm",
+  "status": "ACTIVE",
+  "vendor": "Gorilla Sports Norden",
+  "tags": [
+   "all products",
+   "half moon",
+   "kudde",
+   "meditationskudde",
+   "texter-klara",
+   "yoga",
+   "yogakudde",
+   "zafu"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53782216048906",
+    "title": "Svart",
+    "sku": "101157-00019-0001",
+    "price": "519.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782216081674",
+    "title": "Röd",
+    "sku": "101157-00136-0001",
+    "price": "519.00",
+    "inventoryQuantity": 4
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782216114442",
+    "title": "Lila",
+    "sku": "101157-00138-0001",
+    "price": "519.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782216147210",
+    "title": "Mörkblå",
+    "sku": "101157-00132-0001",
+    "price": "519.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782216179978",
+    "title": "Ljusblå",
+    "sku": "101157-00133-0001",
+    "price": "519.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782216212746",
+    "title": "Mörkgrön",
+    "sku": "101157-00137-0001",
+    "price": "519.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782216245514",
+    "title": "Ljusgrön",
+    "sku": "101157-00139-0001",
+    "price": "519.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782216278282",
+    "title": "Gul",
+    "sku": "101157-00135-0001",
+    "price": "519.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782216311050",
+    "title": "Orange",
+    "sku": "101157-00131-0001",
+    "price": "519.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782216343818",
+    "title": "Grå/Vit",
+    "sku": "101157-00134-0001",
+    "price": "519.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "meditationskudde-zafu-meditation-cushion": {
+  "id": "gid://shopify/Product/10636682199306",
+  "titel": "Meditationskudde Zafu, Sitthöjd 18 cm, Diameter 30 cm",
+  "status": "ACTIVE",
+  "vendor": "Gorilla Sports Norden",
+  "tags": [
+   "kudde",
+   "meditationskudde",
+   "texter-klara",
+   "yoga",
+   "yogakudde",
+   "zafu"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53782255108362",
+    "title": "Gul",
+    "sku": "101049-00135-0001",
+    "price": "599.00",
+    "inventoryQuantity": 82
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782255141130",
+    "title": "Lila",
+    "sku": "101049-00138-0001",
+    "price": "679.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782255173898",
+    "title": "Ljusgrön",
+    "sku": "101049-00139-0001",
+    "price": "599.00",
+    "inventoryQuantity": 133
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782255206666",
+    "title": "Svart",
+    "sku": "101049-00019-0001",
+    "price": "559.00",
+    "inventoryQuantity": 110
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782255239434",
+    "title": "Orange",
+    "sku": "101049-00131-0001",
+    "price": "679.00",
+    "inventoryQuantity": 147
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782255272202",
+    "title": "Mörkblå",
+    "sku": "101049-00132-0001",
+    "price": "679.00",
+    "inventoryQuantity": 38
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782255304970",
+    "title": "Ljusblå",
+    "sku": "101049-00133-0001",
+    "price": "569.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782255337738",
+    "title": "Röd",
+    "sku": "101049-00136-0001",
+    "price": "599.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782255370506",
+    "title": "Mörkgrön",
+    "sku": "101049-00137-0001",
+    "price": "599.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782255403274",
+    "title": "Vit",
+    "sku": "101049-00134-0001",
+    "price": "569.00",
+    "inventoryQuantity": 148
+   }
+  ]
+ },
+ "motionscykel-christopeit-al-1-svart-30-11062": {
+  "id": "gid://shopify/Product/10462768038154",
+  "titel": "Motionscykel Christopeit AL 1, Magnetbroms med 8 Nivåer, Svart",
+  "status": "ACTIVE",
+  "vendor": "Christopeit",
+  "tags": [
+   "Christopeit",
+   "Konditionsträning & Fitness",
+   "Motionscykel",
+   "price-change-job-active",
+   "sale",
+   "sync-skydd",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52805275484426",
+    "title": "gray",
+    "sku": "30-11062",
+    "price": "5336.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52805275517194",
+    "title": "30-1106A",
+    "sku": "30-1106A",
+    "price": "5336.10",
+    "inventoryQuantity": 3
+   }
+  ]
+ },
+ "mountain-bike-kona-process-153-dl-g3-gloss-jade-b36153d01": {
+  "id": "gid://shopify/Product/10469226316042",
+  "titel": "Mountainbike Kona Process 153 DL G3, Gloss Jade",
+  "status": "ACTIVE",
+  "vendor": "Kona",
+  "tags": [
+   "Cyklar",
+   "Kona",
+   "Mountainbike",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52835491971338",
+    "title": "Default Title",
+    "sku": "B36153D06",
+    "price": "60785.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52835492004106",
+    "title": "M / green",
+    "sku": "B36153D03",
+    "price": "60785.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52835492036874",
+    "title": "L / green",
+    "sku": "B36153D05",
+    "price": "60785.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52835492069642",
+    "title": "XL / green",
+    "sku": "B36153D06",
+    "price": "60785.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "mountain-bike-liv-pique-advanced-29-2-2025-golden-haze-1072003105": {
+  "id": "gid://shopify/Product/10468773691658",
+  "titel": "Mountainbike Liv Pique Advanced 29 2, 29 tum, Golden Haze",
+  "status": "ACTIVE",
+  "vendor": "Liv",
+  "tags": [
+   "Damcyklar",
+   "Liv",
+   "Mountainbike",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52832368722186",
+    "title": "Default Title",
+    "sku": "1072003107",
+    "price": "63863.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832368754954",
+    "title": "S / gold",
+    "sku": "1072003104",
+    "price": "56051.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832368787722",
+    "title": "M / gold",
+    "sku": "1072003105",
+    "price": "56051.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52832368820490",
+    "title": "L / gold",
+    "sku": "1072003107",
+    "price": "56051.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "mountainbike-kona-process-134-cr-dl-g3-29-satin-metallic-charcoal-purple-b36134cd01": {
+  "id": "gid://shopify/Product/10472282587402",
+  "titel": "Mountainbike Kona Process 134 CR/DL G3, 29 tum",
+  "status": "ACTIVE",
+  "vendor": "Kona",
+  "tags": [
+   "cykel",
+   "Cyklar",
+   "Kona",
+   "Mountainbike",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848472457482",
+    "title": "Default Title",
+    "sku": "B36134CD06",
+    "price": "95813.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848472490250",
+    "title": "M / gray",
+    "sku": "B36134CD03",
+    "price": "84095.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848472523018",
+    "title": "L / gray",
+    "sku": "B36134CD05",
+    "price": "84095.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848472555786",
+    "title": "XL / gray",
+    "sku": "B36134CD06",
+    "price": "84095.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "mountainbike-kona-process-134-gloss-metallic-faux-raw-gr-b36134gyshhk00": {
+  "id": "gid://shopify/Product/10588453306634",
+  "titel": "Mountainbike Kona Process 134, Metallic Faux Raw (Grå)",
+  "status": "ACTIVE",
+  "vendor": "Kona",
+  "tags": [
+   "Cyklar",
+   "Kona",
+   "Mountainbike",
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53499303133450",
+    "title": "Default Title",
+    "sku": "B36134GYSHHK01",
+    "price": "41975.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499303166218",
+    "title": "S / gray",
+    "sku": "B36134GYSHHK01",
+    "price": "36845.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499303198986",
+    "title": "M / gray",
+    "sku": "B36134GYSHHK03",
+    "price": "36845.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499303231754",
+    "title": "XL / gray",
+    "sku": "B36134GYSHHK06",
+    "price": "36845.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "multi-robust-viktstallning-svart-vit-silver": {
+  "id": "gid://shopify/Product/10636725387530",
+  "titel": "Viktställ Svart, Vit eller Silver",
+  "status": "ACTIVE",
+  "vendor": "Gorilla Sports Norden",
+  "tags": [
+   "all products",
+   "hantelställ",
+   "price-change-job-active",
+   "sale",
+   "skivstångställ",
+   "stativ",
+   "texter-klara",
+   "vikt stativ",
+   "vikt ställ",
+   "viktskivställ",
+   "viktstativ",
+   "viktställ"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53782635675914",
+    "title": "Vit",
+    "sku": "100194-00022-0001",
+    "price": "2429.10",
+    "inventoryQuantity": 135
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782635708682",
+    "title": "Svart",
+    "sku": "100053-00019-0001",
+    "price": "2384.10",
+    "inventoryQuantity": 55
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782635741450",
+    "title": "Silver",
+    "sku": "100053-00044-0001",
+    "price": "3059.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "reflekterande-klisterm-rken-f-r-barn-bookman-reflective-adventure-stickers-green-490": {
+  "id": "gid://shopify/Product/10471175520522",
+  "titel": "Reflekterande klistermärken Bookman Adventure Stickers, Grön",
+  "status": "ACTIVE",
+  "vendor": "Bookman",
+  "tags": [
+   "Bookman",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52845222494474",
+    "title": "Default Title",
+    "sku": "491",
+    "price": "69.00",
+    "inventoryQuantity": 4
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845222560010",
+    "title": "491",
+    "sku": "491",
+    "price": "59.00",
+    "inventoryQuantity": 3
+   }
+  ]
+ },
+ "reflekterande-klisterm-rken-f-r-cykel-bookman-reflective-stickers-for-bicycles-black-flames-520": {
+  "id": "gid://shopify/Product/10665228075274",
+  "titel": "Reflekterande Klistermärken för Cykel Bookman, Flammönster",
+  "status": "ACTIVE",
+  "vendor": "Bookman",
+  "tags": [
+   "Bookman",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53897014968586",
+    "title": "520",
+    "sku": "520",
+    "price": "69.00",
+    "inventoryQuantity": 3
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53897015001354",
+    "title": "521",
+    "sku": "521",
+    "price": "69.00",
+    "inventoryQuantity": 3
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53897015034122",
+    "title": "522",
+    "sku": "522",
+    "price": "69.00",
+    "inventoryQuantity": 3
+   }
+  ]
+ },
+ "reflekterande-klisterm-rken-f-r-cykel-bookman-reflective-stickers-for-bicycles-black-flames-521": {
+  "id": "gid://shopify/Product/10665228173578",
+  "titel": "Reflekterande klistermärken för cykel BOOKMAN Reflective Stickers for Bicycles, Black Flames",
+  "status": "ACTIVE",
+  "vendor": "Bookman",
+  "tags": [
+   "Bookman",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53897015460106",
+    "title": "520",
+    "sku": "520",
+    "price": "69.00",
+    "inventoryQuantity": 3
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53897015492874",
+    "title": "521",
+    "sku": "521",
+    "price": "69.00",
+    "inventoryQuantity": 5
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53897015525642",
+    "title": "522",
+    "sku": "522",
+    "price": "69.00",
+    "inventoryQuantity": 3
+   }
+  ]
+ },
+ "rullskridskor-fila-argon-84-lady-svart-magenta-010621215-37": {
+  "id": "gid://shopify/Product/10588451897610",
+  "titel": "Rullskridskor Fila Argon 84 Lady",
+  "status": "ACTIVE",
+  "vendor": "Fila",
+  "tags": [
+   "Damcykel",
+   "Fila",
+   "price-change-job-active",
+   "sale",
+   "texter-klara",
+   "Utomhusträning",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53499299332362",
+    "title": "Default Title",
+    "sku": "010621215-37-5",
+    "price": "2375.10",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499299365130",
+    "title": "37.5 / black",
+    "sku": "010621215-37-5",
+    "price": "2087.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499299397898",
+    "title": "38 / black",
+    "sku": "010621215-38",
+    "price": "2087.10",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499299430666",
+    "title": "38.5 / black",
+    "sku": "010621215-38-5",
+    "price": "2087.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499299463434",
+    "title": "39 / black",
+    "sku": "010621215-39",
+    "price": "2087.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499299496202",
+    "title": "40 / black",
+    "sku": "010621215-40",
+    "price": "2087.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499299528970",
+    "title": "40.5 / black",
+    "sku": "010621215-40-5",
+    "price": "2087.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53499299561738",
+    "title": "41 / black",
+    "sku": "010621215-41",
+    "price": "2087.10",
+    "inventoryQuantity": 1
+   }
+  ]
+ },
+ "rullskridskor-fila-houdini-pro-svart-vit-010620078-39": {
+  "id": "gid://shopify/Product/10471232602378",
+  "titel": "Rullskridskor Fila Houdini Pro",
+  "status": "ACTIVE",
+  "vendor": "Fila",
+  "tags": [
+   "Fila",
+   "price-change-job-active",
+   "sale",
+   "texter-klara",
+   "Utomhusträning",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52845324140810",
+    "title": "Default Title",
+    "sku": "010620078-44",
+    "price": "3140.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845324173578",
+    "title": "40 / black",
+    "sku": "010620078-40",
+    "price": "3140.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845324206346",
+    "title": "40.5 / black",
+    "sku": "010620078-40-5",
+    "price": "3140.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845324239114",
+    "title": "41 / black",
+    "sku": "010620078-41",
+    "price": "3167.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845324271882",
+    "title": "42.5 / black",
+    "sku": "010620078-42-5",
+    "price": "3167.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845324304650",
+    "title": "43 / black",
+    "sku": "010620078-43",
+    "price": "3167.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52845324337418",
+    "title": "44 / black",
+    "sku": "010620078-44",
+    "price": "2753.10",
+    "inventoryQuantity": 1
+   }
+  ]
+ },
+ "rullskridskor-fila-mizar-80-lady-svart-bl-fila-mizar80lady-blkblu-41": {
+  "id": "gid://shopify/Product/10470896173322",
+  "titel": "Rullskridskor Fila Mizar 80 Lady",
+  "status": "ACTIVE",
+  "vendor": "Fila",
+  "tags": [
+   "Damcykel",
+   "Fila",
+   "price-change-job-active",
+   "Rullskridskor",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52843905810698",
+    "title": "Default Title",
+    "sku": "FILA-MIZAR80LADY-BLKBLU-40.5",
+    "price": "2024.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52843905843466",
+    "title": "40.5 / black",
+    "sku": "FILA-MIZAR80LADY-BLKBLU-40.5",
+    "price": "1781.10",
+    "inventoryQuantity": 1
+   }
+  ]
+ },
+ "rullskridskor-legacy-pro-84-svart-gr-8026473450984": {
+  "id": "gid://shopify/Product/10494941495562",
+  "titel": "Rullskridskor LEGACY PRO 84, svart-grå",
+  "status": "ACTIVE",
+  "vendor": "Fila",
+  "tags": [
+   "Fila",
+   "price-change-job-active",
+   "sale",
+   "Utomhusträning",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52985181798666",
+    "title": "Default Title",
+    "sku": "8026473450984",
+    "price": "2312.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52985181831434",
+    "title": "44 / black",
+    "sku": "8026473451004",
+    "price": "2024.10",
+    "inventoryQuantity": 1
+   }
+  ]
+ },
+ "sadel-selle-monte-grappa-storica-svart-1978": {
+  "id": "gid://shopify/Product/10554354204938",
+  "titel": "Sadel Selle Monte Grappa Storica, Retrostil, Svart",
+  "status": "ACTIVE",
+  "vendor": "Selle Monte Grappa",
+  "tags": [
+   "price-change-job-active",
+   "Sadel",
+   "sale",
+   "Selle Monte Grappa",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53272255037706",
+    "title": "black",
+    "sku": "1978",
+    "price": "674.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53272255070474",
+    "title": "black (1977)",
+    "sku": "1977",
+    "price": "1439.10",
+    "inventoryQuantity": 1
+   }
+  ]
+ },
+ "sangpomm-christopeit-kettlebell-4kg-21-2547": {
+  "id": "gid://shopify/Product/10480054599946",
+  "titel": "Sangpomm CHRISTOPEIT Kettlebell 4kg",
+  "status": "ACTIVE",
+  "vendor": "Christopeit",
+  "tags": [
+   "Christopeit",
+   "Christopher",
+   "Kettlebell",
+   "Konditionsträning & Fitness",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52890684064010",
+    "title": "21-2547",
+    "sku": "21-2547",
+    "price": "289.00",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52890684096778",
+    "title": "21-2548",
+    "sku": "21-2548",
+    "price": "489.00",
+    "inventoryQuantity": 4
+   }
+  ]
+ },
+ "scooter-excelsior-retro-scooter-12-1-2-gul-02130231": {
+  "id": "gid://shopify/Product/10472294252810",
+  "titel": "Scooter EXCELSIOR Retro Scooter, 12 1/2\", gul",
+  "status": "ACTIVE",
+  "vendor": "Excelsior",
+  "tags": [
+   "Excelsior",
+   "price-change-job-active",
+   "sale",
+   "Sparkcyklar",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848509026570",
+    "title": "yellow",
+    "sku": "02130231",
+    "price": "3680.10",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848509059338",
+    "title": "blue",
+    "sku": "02130230",
+    "price": "3680.10",
+    "inventoryQuantity": 1
+   }
+  ]
+ },
+ "scooter-s-cool-flax-8-5-bl-svart-2519": {
+  "id": "gid://shopify/Product/10494919180554",
+  "titel": "Sparkcykel S'cool flaX 8.5",
+  "status": "ACTIVE",
+  "vendor": "S´COOL",
+  "tags": [
+   "price-change-job-active",
+   "sale",
+   "Sparkcyklar",
+   "S´COOL",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52984745984266",
+    "title": "blue",
+    "sku": "2519",
+    "price": "3275.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52984746017034",
+    "title": "Red",
+    "sku": "2518",
+    "price": "3275.10",
+    "inventoryQuantity": 1
+   }
+  ]
+ },
+ "snabbfaste-color-51mm": {
+  "id": "gid://shopify/Product/10636696224010",
+  "titel": "Viktlås Color Jaw Lock, 51 mm",
+  "status": "ACTIVE",
+  "vendor": "Gorilla Sports Norden",
+  "tags": [
+   "all products",
+   "jawlock",
+   "snabblås",
+   "texter-klara",
+   "viktlås",
+   "Viktlås 51mm"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53782278144266",
+    "title": "Guld",
+    "sku": "101005-00070-0075",
+    "price": "479.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782278177034",
+    "title": "Svart",
+    "sku": "101005-00019-0075",
+    "price": "479.00",
+    "inventoryQuantity": 83
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782278209802",
+    "title": "Blå",
+    "sku": "101005-00030-0075",
+    "price": "479.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782278242570",
+    "title": "Röd",
+    "sku": "101005-00038-0075",
+    "price": "479.00",
+    "inventoryQuantity": 77
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782278275338",
+    "title": "Silver",
+    "sku": "101005-00044-0075",
+    "price": "479.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "studsmatta-trampolin-100cm": {
+  "id": "gid://shopify/Product/10636696518922",
+  "titel": "Studsmatta Trampolin, 100 cm",
+  "status": "ACTIVE",
+  "vendor": "Gorilla Sports Norden",
+  "tags": [
+   "all products",
+   "fotarbete",
+   "price-change-job-active",
+   "sale",
+   "studsmatta",
+   "texter-klara",
+   "trampolin"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53782279258378",
+    "title": "Orange",
+    "sku": "100974-00043-0001",
+    "price": "1574.10",
+    "inventoryQuantity": 51
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782279291146",
+    "title": "Rosa",
+    "sku": "100974-00077-0001",
+    "price": "1619.10",
+    "inventoryQuantity": 3
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782279323914",
+    "title": "Blå",
+    "sku": "100974-00042-0001",
+    "price": "1709.10",
+    "inventoryQuantity": 42
+   }
+  ]
+ },
+ "stuntscooter-soke-go-turkos-1541": {
+  "id": "gid://shopify/Product/10472252309770",
+  "titel": "Stuntscooter SOKE GO! Turkos",
+  "status": "ACTIVE",
+  "vendor": "SOKE",
+  "tags": [
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "Scooters",
+   "SOKE",
+   "Sparkcyklar",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848396566794",
+    "title": "Default Title",
+    "sku": "1541-801220",
+    "price": "2231.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451947704586",
+    "title": "sinine",
+    "sku": "1541-801220",
+    "price": "1412.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "stuntsparkcykel-soke-pro-lila-r-d-1525": {
+  "id": "gid://shopify/Product/10515754385674",
+  "titel": "Stuntsparkcykel SOKE PRO, lila-röd",
+  "status": "ACTIVE",
+  "vendor": "SOKE",
+  "tags": [
+   "price-change-job-active",
+   "På beställning",
+   "sale",
+   "SOKE",
+   "Sparkcyklar",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53096642904330",
+    "title": "Default Title",
+    "sku": "1525",
+    "price": "2996.10",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451947999498",
+    "title": "1525-801113",
+    "sku": "1525-801113",
+    "price": "2087.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "styckv-ska-basil-magnolia-city-bag-7-l-17679": {
+  "id": "gid://shopify/Product/10472222425354",
+  "titel": "Handväska Basil Magnolia City Bag, 7 l",
+  "status": "ACTIVE",
+  "vendor": "Basil",
+  "tags": [
+   "Basil",
+   "Cykelväska",
+   "Hybridcykel",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848195961098",
+    "title": "Red",
+    "sku": "17679",
+    "price": "649.00",
+    "inventoryQuantity": 7
+   }
+  ]
+ },
+ "traningsmatta-yogamatt-movit-183x60cm": {
+  "id": "gid://shopify/Product/10636616696074",
+  "titel": "Träningsmatta Movit 183 x 60 cm",
+  "status": "ACTIVE",
+  "vendor": "Gorilla Sports Norden",
+  "tags": [
+   "Nyhet",
+   "texter-klara",
+   "träningsmatta",
+   "träningsmatta træningsmåtte",
+   "Yoga",
+   "yogamatta"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53782160703754",
+    "title": "Svart",
+    "sku": "20040605",
+    "price": "549.00",
+    "inventoryQuantity": 883
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782160736522",
+    "title": "Blå",
+    "sku": "20040606",
+    "price": "549.00",
+    "inventoryQuantity": 281
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782160769290",
+    "title": "Rosa",
+    "sku": "20040607",
+    "price": "549.00",
+    "inventoryQuantity": 145
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782160802058",
+    "title": "Röd",
+    "sku": "20040608",
+    "price": "549.00",
+    "inventoryQuantity": 351
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782160834826",
+    "title": "Grå",
+    "sku": "20040611",
+    "price": "549.00",
+    "inventoryQuantity": 93
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782160867594",
+    "title": "Turkos",
+    "sku": "20040612",
+    "price": "549.00",
+    "inventoryQuantity": 516
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782160900362",
+    "title": "Lila",
+    "sku": "20040609",
+    "price": "549.00",
+    "inventoryQuantity": 492
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782160933130",
+    "title": "Gul",
+    "sku": "20040615",
+    "price": "549.00",
+    "inventoryQuantity": 280
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782160965898",
+    "title": "Mörkgrön",
+    "sku": "20040610",
+    "price": "549.00",
+    "inventoryQuantity": 194
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782160998666",
+    "title": "Marinblå",
+    "sku": "20040613",
+    "price": "549.00",
+    "inventoryQuantity": 250
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782161031434",
+    "title": "Neon grön",
+    "sku": "20040614",
+    "price": "549.00",
+    "inventoryQuantity": 194
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782161064202",
+    "title": "Orange",
+    "sku": "20040616",
+    "price": "549.00",
+    "inventoryQuantity": 42
+   }
+  ]
+ },
+ "traningsmatta-yogamatt-movit-190x100cm": {
+  "id": "gid://shopify/Product/10636617122058",
+  "titel": "Träningsmatta Movit 190 x 100 cm",
+  "status": "ACTIVE",
+  "vendor": "Gorilla Sports Norden",
+  "tags": [
+   "all products",
+   "Nyhet",
+   "texter-klara",
+   "träningsmatta",
+   "Yoga",
+   "yogamatta"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53782162014474",
+    "title": "Svart",
+    "sku": "20040300",
+    "price": "699.00",
+    "inventoryQuantity": 1553
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782162047242",
+    "title": "Blå",
+    "sku": "20040301",
+    "price": "699.00",
+    "inventoryQuantity": 491
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782162080010",
+    "title": "Rosa",
+    "sku": "20040302",
+    "price": "699.00",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782162112778",
+    "title": "Röd",
+    "sku": "20040303",
+    "price": "699.00",
+    "inventoryQuantity": 276
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782162145546",
+    "title": "Grön",
+    "sku": "20040335",
+    "price": "699.00",
+    "inventoryQuantity": 362
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782162178314",
+    "title": "Grå",
+    "sku": "20040336",
+    "price": "699.00",
+    "inventoryQuantity": 640
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782162211082",
+    "title": "Marinblå",
+    "sku": "20040337",
+    "price": "699.00",
+    "inventoryQuantity": 826
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782162243850",
+    "title": "Turkos",
+    "sku": "20040381",
+    "price": "699.00",
+    "inventoryQuantity": 714
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782162276618",
+    "title": "Lila",
+    "sku": "20040383",
+    "price": "699.00",
+    "inventoryQuantity": 445
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782162309386",
+    "title": "Neon grön",
+    "sku": "20040473",
+    "price": "699.00",
+    "inventoryQuantity": 92
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782162342154",
+    "title": "Gul",
+    "sku": "20040474",
+    "price": "699.00",
+    "inventoryQuantity": 139
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782162374922",
+    "title": "Orange",
+    "sku": "20040475",
+    "price": "699.00",
+    "inventoryQuantity": 536
+   }
+  ]
+ },
+ "traningsmatta-yogamatt-movit-190x60cm": {
+  "id": "gid://shopify/Product/10636616925450",
+  "titel": "Träningsmatta Movit 190 x 60 cm",
+  "status": "ACTIVE",
+  "vendor": "Gorilla Sports Norden",
+  "tags": [
+   "all products",
+   "Nyhet",
+   "texter-klara",
+   "träningsmatta",
+   "träningsmatta træningsmåtte",
+   "Yoga",
+   "yogamatta"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53782161457418",
+    "title": "Svart",
+    "sku": "20040319",
+    "price": "699.00",
+    "inventoryQuantity": 4164
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782161490186",
+    "title": "Blå",
+    "sku": "20040320",
+    "price": "699.00",
+    "inventoryQuantity": 601
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782161522954",
+    "title": "Rosa",
+    "sku": "20040321",
+    "price": "699.00",
+    "inventoryQuantity": 416
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782161555722",
+    "title": "Röd",
+    "sku": "20040322",
+    "price": "699.00",
+    "inventoryQuantity": 304
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782161588490",
+    "title": "Grön",
+    "sku": "20040338",
+    "price": "699.00",
+    "inventoryQuantity": 711
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782161621258",
+    "title": "Grå",
+    "sku": "20040339",
+    "price": "699.00",
+    "inventoryQuantity": 886
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782161654026",
+    "title": "Marinblå",
+    "sku": "20040340",
+    "price": "699.00",
+    "inventoryQuantity": 1550
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782161686794",
+    "title": "Turkos",
+    "sku": "20040382",
+    "price": "699.00",
+    "inventoryQuantity": 835
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782161719562",
+    "title": "Lila",
+    "sku": "20040323",
+    "price": "699.00",
+    "inventoryQuantity": 663
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782161752330",
+    "title": "Neon grön",
+    "sku": "20040476",
+    "price": "699.00",
+    "inventoryQuantity": 217
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782161785098",
+    "title": "Gul",
+    "sku": "20040477",
+    "price": "699.00",
+    "inventoryQuantity": 174
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782161817866",
+    "title": "Orange",
+    "sku": "20040478",
+    "price": "699.00",
+    "inventoryQuantity": 329
+   }
+  ]
+ },
+ "vajerl-s-axa-resolute-12-180-59431895kc": {
+  "id": "gid://shopify/Product/10475619746058",
+  "titel": "Vajerlås AXA Resolute 12-180, 180 cm, 12 mm",
+  "status": "ACTIVE",
+  "vendor": "AXA",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "På beställning",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52866120220938",
+    "title": "Default Title",
+    "sku": "59431895KC",
+    "price": "309.00",
+    "inventoryQuantity": 39
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451942625546",
+    "title": "59431895SC",
+    "sku": "59431895SC",
+    "price": "269.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "vajerl-s-axa-resolute-15-180-59432895kc": {
+  "id": "gid://shopify/Product/10475619647754",
+  "titel": "Vajerlås AXA Resolute 15-180, 180 cm",
+  "status": "ACTIVE",
+  "vendor": "AXA",
+  "tags": [
+   "AXA",
+   "Cykellås",
+   "På beställning",
+   "texter-klara",
+   "Tillbehör",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52866120122634",
+    "title": "Default Title",
+    "sku": "59432895SC",
+    "price": "349.00",
+    "inventoryQuantity": 24
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53451942920458",
+    "title": "59432895SC",
+    "sku": "59432895SC",
+    "price": "299.00",
+    "inventoryQuantity": 7
+   }
+  ]
+ },
+ "viktplatta-spokey-bl-30-mm-10-kg-944485": {
+  "id": "gid://shopify/Product/10472289075466",
+  "titel": "Viktplatta SPOKEY Blå, 30 mm, 10 kg",
+  "status": "ACTIVE",
+  "vendor": "Spokey",
+  "tags": [
+   "Konditionsträning & Fitness",
+   "Spokey",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52848490447114",
+    "title": "944485",
+    "sku": "944485",
+    "price": "439.00",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848490479882",
+    "title": "944484",
+    "sku": "944484",
+    "price": "299.00",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848490512650",
+    "title": "944482",
+    "sku": "944482",
+    "price": "79.00",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848490545418",
+    "title": "944483",
+    "sku": "944483",
+    "price": "129.00",
+    "inventoryQuantity": 2
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52848490578186",
+    "title": "944481",
+    "sku": "944481",
+    "price": "59.00",
+    "inventoryQuantity": 2
+   }
+  ]
+ },
+ "women-s-road-bike-liv-avail-advanced-2-2026-rosybrown-oceanstorm-1017032243": {
+  "id": "gid://shopify/Product/10472435056906",
+  "titel": "Damcykel Liv Avail Advanced 2 (2026), RosyBrown/OceanStorm",
+  "status": "ACTIVE",
+  "vendor": "Liv",
+  "tags": [
+   "Damcykel",
+   "Damcyklar",
+   "Liv",
+   "price-change-job-active",
+   "På beställning",
+   "Racercykel",
+   "sale",
+   "texter-klara",
+   "Velomarket"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/52849938694410",
+    "title": "Default Title",
+    "sku": "1017032244",
+    "price": "38330.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52849938727178",
+    "title": "S / pink",
+    "sku": "1017032244",
+    "price": "33308.10",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/52849938759946",
+    "title": "M / pink",
+    "sku": "1017032245",
+    "price": "33308.10",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "yogabelte-gs": {
+  "id": "gid://shopify/Product/10636683018506",
+  "titel": "Yogabälte i bomull 260 cm",
+  "status": "ACTIVE",
+  "vendor": "Gorilla Sports Norden",
+  "tags": [
+   "all products",
+   "bälte",
+   "texter-klara",
+   "yoga",
+   "yoga bælte",
+   "yogabälte"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53782256419082",
+    "title": "Brun/Beige",
+    "sku": "101048-00084-0219",
+    "price": "239.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782256451850",
+    "title": "Grå",
+    "sku": "101048-00033-0219",
+    "price": "239.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782256484618",
+    "title": "Grön",
+    "sku": "101048-00034-0219",
+    "price": "239.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782256517386",
+    "title": "Svart",
+    "sku": "101048-00019-0219",
+    "price": "239.00",
+    "inventoryQuantity": 1
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782256550154",
+    "title": "Gul",
+    "sku": "101048-00032-0219",
+    "price": "239.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782256582922",
+    "title": "Orange",
+    "sku": "101048-00036-0219",
+    "price": "239.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782256615690",
+    "title": "Röd",
+    "sku": "101048-00038-0219",
+    "price": "239.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782256648458",
+    "title": "Lila",
+    "sku": "101048-00040-0219",
+    "price": "239.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782256681226",
+    "title": "Ljusblå",
+    "sku": "101048-00059-0219",
+    "price": "239.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782256713994",
+    "title": "Rosa",
+    "sku": "101048-00063-0219",
+    "price": "239.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "yogablock-gs": {
+  "id": "gid://shopify/Product/10636693831946",
+  "titel": "Yogablock GS i EVA-skum, 23,5 x 15 x 8 cm",
+  "status": "ACTIVE",
+  "vendor": "Gorilla Sports Norden",
+  "tags": [
+   "all products",
+   "block",
+   "texter-klara",
+   "yoga",
+   "yoga block",
+   "yogablock"
+  ],
+  "v": [
+   {
+    "id": "gid://shopify/ProductVariant/53782273982730",
+    "title": "Mörkblå",
+    "sku": "100813-00030-0001",
+    "price": "159.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782274015498",
+    "title": "Svart",
+    "sku": "100813-00001-0001",
+    "price": "159.00",
+    "inventoryQuantity": 8
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782274048266",
+    "title": "Röd",
+    "sku": "100813-00038-0001",
+    "price": "159.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782274081034",
+    "title": "Orange",
+    "sku": "100813-00036-0001",
+    "price": "159.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782274113802",
+    "title": "Rosa",
+    "sku": "100813-00037-0001",
+    "price": "159.00",
+    "inventoryQuantity": 35
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782274146570",
+    "title": "Ljusblå",
+    "sku": "100813-00030-0001",
+    "price": "99.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53782274179338",
+    "title": "Grön",
+    "sku": "100813-00035-0001",
+    "price": "159.00",
+    "inventoryQuantity": 59
+   }
+  ]
+ }
+}
