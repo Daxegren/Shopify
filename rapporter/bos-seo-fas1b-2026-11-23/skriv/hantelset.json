@@ -1,0 +1,330 @@
+{
+ "fore": {
+  "id": "gid://shopify/Collection/562617745674",
+  "handle": "hantelset",
+  "title": "Hantelset",
+  "updatedAt": "2026-11-23T14:33:47Z",
+  "descriptionHtml": "",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "hantelset",
+  "seo": {
+   "title": "Hantelset – Kompletta set för styrka och muskelträning - Köp nu",
+   "description": "Köp hantelset hos Best Of Sports. Justerbara och fasta hantlar i olika vikter och material för effektiv och flexibel träning hemma eller på gym."
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "Justerbara hantelset"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "fasta hantlar paket"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 20
+  }
+ },
+ "produkter_fore": {
+  "gid://shopify/Product/10636695535882": [
+   "ACTIVE",
+   [
+    "30mm",
+    "all products",
+    "fasta hantlar paket",
+    "price-change-job-active",
+    "sale",
+    "skivstångspaket med hantlar rak",
+    "texter-klara"
+   ],
+   "1385.1"
+  ],
+  "gid://shopify/Product/10636599329034": [
+   "ACTIVE",
+   [
+    "Hexagon",
+    "fasta",
+    "fasta hantlar",
+    "fasta hantlar paket",
+    "hantlar",
+    "hexagon hantlar",
+    "texter-klara"
+   ],
+   "259.0"
+  ],
+  "gid://shopify/Product/10636599099658": [
+   "ACTIVE",
+   [
+    "Hexagon",
+    "fasta hantlar",
+    "fasta hantlar paket",
+    "gummi hantlar",
+    "gummihantlar",
+    "hantlar",
+    "hexagon hantlar",
+    "hexagonhantlar",
+    "texter-klara"
+   ],
+   "499.0"
+  ],
+  "gid://shopify/Product/10636598935818": [
+   "ACTIVE",
+   [
+    "fasta hantlar",
+    "fasta hantlar paket",
+    "gummi hantlar",
+    "gummihantlar",
+    "hantlar",
+    "hexagon hantlar",
+    "hexagonhantlar",
+    "hexhantlar",
+    "texter-klara"
+   ],
+   "799.0"
+  ],
+  "gid://shopify/Product/10636598477066": [
+   "ACTIVE",
+   [
+    "fasta hantlar",
+    "fasta hantlar paket",
+    "gummi hantlar",
+    "gummihantlar",
+    "hantlar",
+    "hexagon hantlar",
+    "hexagonhantlar",
+    "hexhantlar",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "899.1"
+  ],
+  "gid://shopify/Product/10636598247690": [
+   "ACTIVE",
+   [
+    "fasta hantlar",
+    "fasta hantlar paket",
+    "gummi hantlar",
+    "gummihantlar",
+    "hantlar",
+    "hexagon hantlar",
+    "hexagonhantlar",
+    "hexhantlar",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1169.1"
+  ],
+  "gid://shopify/Product/10581112389898": [
+   "ACTIVE",
+   [
+    "Gymstick",
+    "Hantlar",
+    "Viktset",
+    "fasta hantlar paket",
+    "texter-klara"
+   ],
+   "429.0"
+  ],
+  "gid://shopify/Product/10581102002442": [
+   "ACTIVE",
+   [
+    "Gymstick",
+    "Hantlar",
+    "Skivstänger",
+    "Viktset",
+    "fasta hantlar paket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1844.1"
+  ],
+  "gid://shopify/Product/10494881366282": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "fasta hantlar paket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "6119.1"
+  ],
+  "gid://shopify/Product/10494687346954": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "fasta hantlar paket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1331.1"
+  ],
+  "gid://shopify/Product/10475374248202": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "fasta hantlar paket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1349.1"
+  ],
+  "gid://shopify/Product/10475373429002": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "Viktset",
+    "fasta hantlar paket",
+    "texter-klara"
+   ],
+   "499.0"
+  ],
+  "gid://shopify/Product/10472283996426": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "fasta hantlar paket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "12950.1"
+  ],
+  "gid://shopify/Product/10472283701514": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "fasta hantlar paket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1520.1"
+  ],
+  "gid://shopify/Product/10472259977482": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "Viktset",
+    "fasta hantlar paket",
+    "texter-klara"
+   ],
+   "609.0"
+  ],
+  "gid://shopify/Product/10472259223818": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Skivstång",
+    "Skivstångspaket - 30mm",
+    "Tunturi",
+    "Velomarket",
+    "fasta hantlar paket",
+    "price-change-job-active",
+    "sale",
+    "skivstångspaket"
+   ],
+   "6605.1"
+  ],
+  "gid://shopify/Product/10472212332810": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "fasta hantlar paket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1367.1"
+  ],
+  "gid://shopify/Product/10462848188682": [
+   "ACTIVE",
+   [
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Mineraler",
+    "Toorx",
+    "Velomarket",
+    "fasta hantlar paket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1529.1"
+  ],
+  "gid://shopify/Product/10462191223050": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "fasta hantlar paket",
+    "texter-klara"
+   ],
+   "309.0"
+  ],
+  "gid://shopify/Product/10462191190282": [
+   "ACTIVE",
+   [
+    "Hantlar",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "fasta hantlar paket",
+    "texter-klara"
+   ],
+   "709.0"
+  ]
+ }
+}

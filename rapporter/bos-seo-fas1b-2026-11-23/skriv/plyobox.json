@@ -1,0 +1,180 @@
+{
+ "fore": {
+  "id": "gid://shopify/Collection/526983495946",
+  "handle": "plyobox",
+  "title": "Plyobox",
+  "updatedAt": "2026-11-23T14:34:16Z",
+  "descriptionHtml": "",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "plyobox"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "plyo box"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 11
+  }
+ },
+ "produkter_fore": {
+  "gid://shopify/Product/10636740886794": [
+   "DRAFT",
+   [
+    "plyo",
+    "plyobox",
+    "price-change-job-active",
+    "sale"
+   ],
+   "5507.1"
+  ],
+  "gid://shopify/Product/10636740755722": [
+   "ACTIVE",
+   [
+    "Träplint",
+    "all products",
+    "box",
+    "hoppa",
+    "jump",
+    "plyo",
+    "plyobox",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1961.1"
+  ],
+  "gid://shopify/Product/10636719882506": [
+   "ACTIVE",
+   [
+    "all products",
+    "plyo",
+    "plyobox",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2024.1"
+  ],
+  "gid://shopify/Product/10636705956106": [
+   "ACTIVE",
+   [
+    "Träplint",
+    "all products",
+    "box",
+    "hoppa",
+    "jump",
+    "plyo",
+    "plyobox",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1934.1"
+  ],
+  "gid://shopify/Product/10636676104458": [
+   "ACTIVE",
+   [
+    "all products",
+    "plyo box",
+    "plyobox",
+    "price-change-job-active",
+    "sale",
+    "soft plyo box",
+    "texter-klara"
+   ],
+   "7352.1"
+  ],
+  "gid://shopify/Product/10636628853002": [
+   "ARCHIVED",
+   [
+    "plyo",
+    "plyo box",
+    "plyobox"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10611438649610": [
+   "ACTIVE",
+   [
+    "Gymstick",
+    "Plyo Boxar",
+    "plyobox",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2969.1"
+  ],
+  "gid://shopify/Product/10581112815882": [
+   "ACTIVE",
+   [
+    "Gymstick",
+    "Plyo Boxar",
+    "plyobox",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1304.1"
+  ],
+  "gid://shopify/Product/10480045424906": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "plyobox",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2681.1"
+  ],
+  "gid://shopify/Product/10472261320970": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "plyobox",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "3932.1"
+  ],
+  "gid://shopify/Product/10472261288202": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "plyobox",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2258.1"
+  ]
+ }
+}

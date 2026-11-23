@@ -1,0 +1,37 @@
+{
+ "title": "Shakerflaska Gymstick, 600 ml",
+ "status": "ACTIVE",
+ "tags": [
+  "Gymstick",
+  "texter-klara",
+  "vattenflaska"
+ ],
+ "variants": {
+  "nodes": [
+   {
+    "id": "gid://shopify/ProductVariant/53632924320010",
+    "sku": "61142-BL",
+    "price": "69.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 3295,
+    "inventoryPolicy": "DENY"
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632924352778",
+    "sku": "61142-PI",
+    "price": "69.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 1078,
+    "inventoryPolicy": "DENY"
+   },
+   {
+    "id": "gid://shopify/ProductVariant/53632924385546",
+    "sku": "61142-WH",
+    "price": "0.00",
+    "compareAtPrice": null,
+    "inventoryQuantity": 0,
+    "inventoryPolicy": "DENY"
+   }
+  ]
+ }
+}

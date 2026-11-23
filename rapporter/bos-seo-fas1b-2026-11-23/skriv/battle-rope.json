@@ -1,0 +1,147 @@
+{
+ "fore": {
+  "id": "gid://shopify/Collection/562616893706",
+  "handle": "battle-rope",
+  "title": "Battle Rope",
+  "updatedAt": "2026-11-23T14:34:15Z",
+  "descriptionHtml": "",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "",
+  "seo": {
+   "title": "Battle Rope – Effektiv helkroppsträning med slag- och vågrörelser",
+   "description": "Köp battle ropes hos Best Of Sports. Perfekt för kondition, styrka och explosiv träning. Flera längder och modeller för hem- och gymträning. Gratis frakt!"
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "battle rope"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "battlerope"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 8
+  }
+ },
+ "produkter_fore": {
+  "gid://shopify/Product/10636742328586": [
+   "ACTIVE",
+   [
+    "all products",
+    "battle rope",
+    "battlerope",
+    "fotarbete",
+    "price-change-job-active",
+    "rep",
+    "rope",
+    "sale",
+    "texter-klara",
+    "träningsrep"
+   ],
+   "1169.1"
+  ],
+  "gid://shopify/Product/10636724371722": [
+   "DRAFT",
+   [
+    "Väggfäste",
+    "all products",
+    "battle rope",
+    "battle rope-fäste",
+    "fäste",
+    "takfäste",
+    "upphängning"
+   ],
+   "279.0"
+  ],
+  "gid://shopify/Product/10636724207882": [
+   "DRAFT",
+   [
+    "battle rope",
+    "battlerope",
+    "fotarbete",
+    "gymtillbehör",
+    "price-change-job-active",
+    "sale"
+   ],
+   "1862.1"
+  ],
+  "gid://shopify/Product/10636723454218": [
+   "DRAFT",
+   [
+    "Battle Rope",
+    "all products",
+    "battlerope",
+    "fotarbete",
+    "price-change-job-active",
+    "rep",
+    "rope",
+    "sale"
+   ],
+   "1169.1"
+  ],
+  "gid://shopify/Product/10636636520714": [
+   "ACTIVE",
+   [
+    "all products",
+    "battle rope",
+    "battlerope",
+    "price-change-job-active",
+    "rep",
+    "sale",
+    "texter-klara",
+    "träningsrep"
+   ],
+   "1016.1"
+  ],
+  "gid://shopify/Product/10475369791754": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "battle rope",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1709.1"
+  ],
+  "gid://shopify/Product/10472261681418": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "battle rope",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "2690.1"
+  ],
+  "gid://shopify/Product/10472203518218": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "battle rope",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "1412.1"
+  ]
+ }
+}

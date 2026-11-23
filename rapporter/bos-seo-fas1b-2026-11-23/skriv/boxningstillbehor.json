@@ -1,0 +1,378 @@
+{
+ "fore": {
+  "id": "gid://shopify/Collection/562680070410",
+  "handle": "boxningstillbehor",
+  "title": "Boxningstillbehör",
+  "updatedAt": "2026-11-23T14:34:37Z",
+  "descriptionHtml": "",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "boxningstillbehor",
+  "seo": {
+   "title": "Boxningstillbehör – Handskar, Mitsar och Skyddsutrustning",
+   "description": "Upptäck boxningstillbehör för träning och sparring. Handskar, mitsar, wraps och skydd för säker och effektiv träning. Vi är proffs på kampsport!"
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "boxningtillbehör"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "boxningstillbehör"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 28
+  }
+ },
+ "produkter_fore": {
+  "gid://shopify/Product/10636714475786": [
+   "DRAFT",
+   [
+    "Boxning",
+    "Boxningspads",
+    "Pads",
+    "boxningstillbehör",
+    "slag",
+    "sparkar"
+   ],
+   "16.92"
+  ],
+  "gid://shopify/Product/10636714115338": [
+   "DRAFT",
+   [
+    "Boxningssäck",
+    "all products",
+    "boxning",
+    "boxningsboll",
+    "boxningstillbehör",
+    "kampsport",
+    "slag",
+    "säck"
+   ],
+   "12.85"
+  ],
+  "gid://shopify/Product/10636713361674": [
+   "DRAFT",
+   [
+    "all products",
+    "ankel",
+    "ankelvikt",
+    "ankelvikter",
+    "boxning",
+    "boxningstillbehör",
+    "fotled",
+    "fotledsvikt",
+    "fotvikt",
+    "handled",
+    "handledsvikt",
+    "handvikt",
+    "håndledvægt",
+    "jogga",
+    "konditions",
+    "löpning",
+    "viktmanchett",
+    "vristvikt"
+   ],
+   "7.88"
+  ],
+  "gid://shopify/Product/10636713197834": [
+   "DRAFT",
+   [
+    "Bokse bandage",
+    "Boksebandage",
+    "all products",
+    "boxarlindor",
+    "boxning",
+    "boxningslinda",
+    "boxningslindor",
+    "boxningstillbehör",
+    "handledslinda",
+    "handledslindor",
+    "kampsport",
+    "linda",
+    "lindor"
+   ],
+   "2.04"
+  ],
+  "gid://shopify/Product/10636712837386": [
+   "ARCHIVED",
+   [
+    "boxning",
+    "boxningshjälm",
+    "boxningstillbehör",
+    "hjälm",
+    "kampsport",
+    "sparring",
+    "sparringhjälm"
+   ],
+   "9.22"
+  ],
+  "gid://shopify/Product/10636649857290": [
+   "ACTIVE",
+   [
+    "all products",
+    "boxningslindor",
+    "boxningstillbehör",
+    "texter-klara"
+   ],
+   "99.0"
+  ],
+  "gid://shopify/Product/10636640715018": [
+   "DRAFT",
+   [
+    "Boxningstillbehör",
+    "fäste"
+   ],
+   "412.0"
+  ],
+  "gid://shopify/Product/10636627771658": [
+   "ACTIVE",
+   [
+    "TRYM",
+    "all products",
+    "boxningstillbehör",
+    "hopprep",
+    "texter-klara"
+   ],
+   "279.0"
+  ],
+  "gid://shopify/Product/10636627411210": [
+   "ACTIVE",
+   [
+    "TRYM",
+    "all products",
+    "boxningstillbehör",
+    "hopprep",
+    "texter-klara"
+   ],
+   "109.0"
+  ],
+  "gid://shopify/Product/10636615745802": [
+   "ACTIVE",
+   [
+    "Lukadora",
+    "boxningstillbehör",
+    "hopprep",
+    "texter-klara",
+    "womens health"
+   ],
+   "249.0"
+  ],
+  "gid://shopify/Product/10636615581962": [
+   "ACTIVE",
+   [
+    "Lukadora",
+    "boxningstillbehör",
+    "hopprep",
+    "texter-klara",
+    "womens health"
+   ],
+   "249.0"
+  ],
+  "gid://shopify/Product/10636614041866": [
+   "DRAFT",
+   [
+    "Lukadora",
+    "boxningstillbehör",
+    "hoppa",
+    "hopprep",
+    "mens health"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10636613746954": [
+   "DRAFT",
+   [
+    "Lukadora",
+    "boxningstillbehör",
+    "hopprep",
+    "womens health"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10581110882570": [
+   "ACTIVE",
+   [
+    "Gymstick",
+    "boxningstillbehör",
+    "texter-klara"
+   ],
+   "389.0"
+  ],
+  "gid://shopify/Product/10581105049866": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Gymstick",
+    "boxningstillbehör",
+    "texter-klara"
+   ],
+   "389.0"
+  ],
+  "gid://shopify/Product/10475517804810": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "boxningstillbehör",
+    "texter-klara"
+   ],
+   "289.0"
+  ],
+  "gid://shopify/Product/10472283865354": [
+   "ACTIVE",
+   [
+    "Boxningsutrustning",
+    "Tunturi",
+    "Velomarket",
+    "boxningstillbehör",
+    "texter-klara"
+   ],
+   "89.0"
+  ],
+  "gid://shopify/Product/10472279605514": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "boxningstillbehör",
+    "texter-klara"
+   ],
+   "319.0"
+  ],
+  "gid://shopify/Product/10472279572746": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "boxningstillbehör",
+    "texter-klara"
+   ],
+   "289.0"
+  ],
+  "gid://shopify/Product/10472279539978": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "boxningstillbehör",
+    "texter-klara"
+   ],
+   "429.0"
+  ],
+  "gid://shopify/Product/10472271184138": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Boxningsutrustning",
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "boxningstillbehör",
+    "texter-klara"
+   ],
+   "429.0"
+  ],
+  "gid://shopify/Product/10472270561546": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "boxningstillbehör",
+    "texter-klara"
+   ],
+   "699.0"
+  ],
+  "gid://shopify/Product/10472270102794": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "boxningstillbehör",
+    "texter-klara"
+   ],
+   "699.0"
+  ],
+  "gid://shopify/Product/10472268824842": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Tunturi",
+    "Velomarket",
+    "boxningstillbehör",
+    "texter-klara"
+   ],
+   "429.0"
+  ],
+  "gid://shopify/Product/10472254603530": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Boxningsutrustning",
+    "Fell",
+    "Tunturi",
+    "Velomarket",
+    "boxningstillbehör",
+    "texter-klara"
+   ],
+   "429.0"
+  ],
+  "gid://shopify/Product/10468720476426": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "boxningstillbehör",
+    "texter-klara"
+   ],
+   "429.0"
+  ],
+  "gid://shopify/Product/10468720378122": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Konditionsträning & Fitness",
+    "Toorx",
+    "Velomarket",
+    "boxningstillbehör",
+    "texter-klara"
+   ],
+   "319.0"
+  ],
+  "gid://shopify/Product/10462774395146": [
+   "ACTIVE",
+   [
+    "Boxning",
+    "Hammer",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "boxningstillbehör",
+    "texter-klara"
+   ],
+   "699.0"
+  ]
+ }
+}

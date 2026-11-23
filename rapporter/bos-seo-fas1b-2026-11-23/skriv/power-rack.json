@@ -1,0 +1,208 @@
+{
+ "fore": {
+  "id": "gid://shopify/Collection/562614141194",
+  "handle": "power-rack",
+  "title": "Power rack",
+  "updatedAt": "2026-11-23T14:34:03Z",
+  "descriptionHtml": "",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "power-rack",
+  "seo": {
+   "title": "Power rack – Stabil och säker styrketräning hemma och på gym",
+   "description": "Köp power racks hos Best Of Sports. Finns i olika modeller och storlekar, robusta och säkra för knäböj, bänkpress och styrketräning hemma eller på gym."
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "power rack"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "power cage"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 11
+  }
+ },
+ "produkter_fore": {
+  "gid://shopify/Product/10650174030090": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Flaska & Hållare",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "power rack",
+    "price-change-job-active",
+    "sale"
+   ],
+   "6992.1"
+  ],
+  "gid://shopify/Product/10650173636874": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Flaska & Hållare",
+    "Konditionsträning & Fitness",
+    "Velomarket",
+    "power rack",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "11609.1"
+  ],
+  "gid://shopify/Product/10636718113034": [
+   "DRAFT",
+   [
+    "Skivstångsställning",
+    "all products",
+    "chins",
+    "power rack",
+    "pullups",
+    "rack",
+    "squat",
+    "ställning",
+    "utan vikter"
+   ],
+   "528.0"
+  ],
+  "gid://shopify/Product/10636711297290": [
+   "DRAFT",
+   [
+    "Skivstångsställning",
+    "all products",
+    "power cage",
+    "rack",
+    "squat",
+    "ställning",
+    "utan vikter"
+   ],
+   "458.92"
+  ],
+  "gid://shopify/Product/10636665848074": [
+   "DRAFT",
+   [
+    "power cage",
+    "power rack",
+    "powercage",
+    "powerrack",
+    "price-change-job-active",
+    "sale",
+    "skivstångsställning",
+    "utan vikter"
+   ],
+   "20699.1"
+  ],
+  "gid://shopify/Product/10635767382282": [
+   "ACTIVE",
+   [
+    "BH Fitness",
+    "Konditionsträning & Fitness",
+    "Pakethållare",
+    "Velomarket",
+    "power rack",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "5777.1"
+  ],
+  "gid://shopify/Product/10494913347850": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Pakethållare",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "power rack",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "8522.1"
+  ],
+  "gid://shopify/Product/10472434073866": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Pakethållare",
+    "Professionell utrustning",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "power cage",
+    "power rack",
+    "powercage",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "9341.1"
+  ],
+  "gid://shopify/Product/10472225538314": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Pakethållare",
+    "På beställning",
+    "Tunturi",
+    "Velomarket",
+    "power cage",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "15497.1"
+  ],
+  "gid://shopify/Product/10462201446666": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Pakethållare",
+    "Skivstångsställning",
+    "Tunturi",
+    "Velomarket",
+    "power rack",
+    "price-change-job-active",
+    "sale",
+    "squat",
+    "squat rack",
+    "squat stativ",
+    "texter-klara"
+   ],
+   "5030.1"
+  ],
+  "gid://shopify/Product/10411677745418": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Gymstick",
+    "Konditionsträning & Fitness",
+    "Pakethållare",
+    "Racks & Burar",
+    "Skivstångsställning",
+    "Tunturi",
+    "Velomarket",
+    "power cage",
+    "power rack",
+    "powercage",
+    "price-change-job-active",
+    "sale",
+    "texter-klara"
+   ],
+   "6677.1"
+  ]
+ }
+}

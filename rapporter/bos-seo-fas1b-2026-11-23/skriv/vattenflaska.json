@@ -1,0 +1,152 @@
+{
+ "fore": {
+  "id": "gid://shopify/Collection/526986674442",
+  "handle": "vattenflaska",
+  "title": "Vattenflaska",
+  "updatedAt": "2026-11-23T14:34:22Z",
+  "descriptionHtml": "",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "vattenflaska"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 12
+  }
+ },
+ "produkter_fore": {
+  "gid://shopify/Product/10636728992010": [
+   "DRAFT",
+   [
+    "vattenflaska"
+   ],
+   "89.0"
+  ],
+  "gid://shopify/Product/10636692521226": [
+   "DRAFT",
+   [
+    "Shaker",
+    "proteinshaker",
+    "vattenflaska"
+   ],
+   "68.0"
+  ],
+  "gid://shopify/Product/10636682494218": [
+   "ACTIVE",
+   [
+    "dunk",
+    "flaska",
+    "gymtillbehör",
+    "texter-klara",
+    "vattenflaska"
+   ],
+   "199.0"
+  ],
+  "gid://shopify/Product/10636659491082": [
+   "DRAFT",
+   [
+    "vattenflaska"
+   ],
+   "61.0"
+  ],
+  "gid://shopify/Product/10636659360010": [
+   "DRAFT",
+   [
+    "shake",
+    "shaker",
+    "vattenflaska"
+   ],
+   "68.0"
+  ],
+  "gid://shopify/Product/10636648644874": [
+   "DRAFT",
+   [
+    "shake",
+    "shaker",
+    "vattenflaska"
+   ],
+   "4.05"
+  ],
+  "gid://shopify/Product/10636638847242": [
+   "ACTIVE",
+   [
+    "all products",
+    "dricka",
+    "dunk",
+    "flaska",
+    "texter-klara",
+    "vatenflaska",
+    "vatten",
+    "vattenflaska"
+   ],
+   "399.0"
+  ],
+  "gid://shopify/Product/10636625084682": [
+   "ACTIVE",
+   [
+    "all products",
+    "gymtillbehör",
+    "shake",
+    "shaker",
+    "texter-klara",
+    "vattenflaska"
+   ],
+   "99.0"
+  ],
+  "gid://shopify/Product/10611438420234": [
+   "ACTIVE",
+   [
+    "Gymstick",
+    "texter-klara",
+    "vattenflaska"
+   ],
+   "0.0"
+  ],
+  "gid://shopify/Product/10588448227594": [
+   "ACTIVE",
+   [
+    "Kosttillskott",
+    "Trec",
+    "Velomarket",
+    "vattenflaska"
+   ],
+   "59.0"
+  ],
+  "gid://shopify/Product/10472297464074": [
+   "ACTIVE",
+   [
+    "Flaska & Hållare",
+    "Konditionsträning & Fitness",
+    "Trec",
+    "Velomarket",
+    "texter-klara",
+    "vattenflaska"
+   ],
+   "69.0"
+  ],
+  "gid://shopify/Product/10472280391946": [
+   "ACTIVE",
+   [
+    "Flaska & Hållare",
+    "Konditionsträning & Fitness",
+    "Trec",
+    "Velomarket",
+    "texter-klara",
+    "vattenflaska"
+   ],
+   "69.0"
+  ]
+ }
+}

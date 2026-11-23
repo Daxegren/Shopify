@@ -1,0 +1,172 @@
+{
+ "fore": {
+  "id": "gid://shopify/Collection/562537136394",
+  "handle": "wall-ball-1",
+  "title": "Wall ball",
+  "updatedAt": "2026-11-23T14:34:12Z",
+  "descriptionHtml": "",
+  "sortOrder": "BEST_SELLING",
+  "templateSuffix": "wall-ball",
+  "seo": {
+   "title": "Wall Balls – Träningsredskap för funktionell styrka och uthållighet",
+   "description": "Upptäck våra wall balls för effektiv och varierad träning. Perfekta för styrka, kondition och funktionella övningar både hemma och på gymmet. Handla nu"
+  },
+  "image": null,
+  "ruleSet": {
+   "appliedDisjunctively": true,
+   "rules": [
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "wall ball"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "wall balls"
+    },
+    {
+     "column": "TAG",
+     "relation": "EQUALS",
+     "condition": "wallball"
+    }
+   ]
+  },
+  "productsCount": {
+   "count": 10
+  }
+ },
+ "produkter_fore": {
+  "gid://shopify/Product/10636737806602": [
+   "ACTIVE",
+   [
+    "all products",
+    "boll",
+    "price-change-job-active",
+    "sale",
+    "wall ball",
+    "wall balls",
+    "wallballs"
+   ],
+   "539.1"
+  ],
+  "gid://shopify/Product/10636688064778": [
+   "DRAFT",
+   [
+    "all products",
+    "boll",
+    "paket",
+    "wall ball",
+    "wall balls",
+    "wallballs"
+   ],
+   "162.74"
+  ],
+  "gid://shopify/Product/10636687933706": [
+   "ACTIVE",
+   [
+    "all products",
+    "boll",
+    "paket",
+    "price-change-job-active",
+    "sale",
+    "wall ball",
+    "wall balls",
+    "wallballs"
+   ],
+   "1466.1"
+  ],
+  "gid://shopify/Product/10636661162250": [
+   "DRAFT",
+   [
+    "boll",
+    "paket",
+    "price-change-job-active",
+    "sale",
+    "wall ball",
+    "wall balls",
+    "wallballs"
+   ],
+   "1259.1"
+  ],
+  "gid://shopify/Product/10636660998410": [
+   "DRAFT",
+   [
+    "boll",
+    "paket",
+    "price-change-job-active",
+    "sale",
+    "wall ball",
+    "wall balls",
+    "wallballs"
+   ],
+   "1349.1"
+  ],
+  "gid://shopify/Product/10636660834570": [
+   "DRAFT",
+   [
+    "boll",
+    "paket",
+    "price-change-job-active",
+    "sale",
+    "wall ball",
+    "wall balls",
+    "wallballs"
+   ],
+   "2519.1"
+  ],
+  "gid://shopify/Product/10636629180682": [
+   "ARCHIVED",
+   [
+    "price-change-job-active",
+    "sale",
+    "wall ball",
+    "wall balls",
+    "wallballs"
+   ],
+   "467.1"
+  ],
+  "gid://shopify/Product/10581112586506": [
+   "ACTIVE",
+   [
+    "Gymstick",
+    "Medicinbollar",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "wall ball"
+   ],
+   "539.1"
+  ],
+  "gid://shopify/Product/10475982651658": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Träningsboll",
+    "Träningsbollar",
+    "Tunturi",
+    "Velomarket",
+    "texter-klara",
+    "wall ball"
+   ],
+   "659.0"
+  ],
+  "gid://shopify/Product/10472260796682": [
+   "ACTIVE",
+   [
+    "Fell",
+    "Konditionsträning & Fitness",
+    "Träningsboll",
+    "Träningsbollar",
+    "Tunturi",
+    "Velomarket",
+    "price-change-job-active",
+    "sale",
+    "texter-klara",
+    "wall ball"
+   ],
+   "1349.1"
+  ]
+ }
+}

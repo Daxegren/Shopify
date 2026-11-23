@@ -1,0 +1,30 @@
+{
+ "hantelset": {
+  "status": "verifierad",
+  "fel": []
+ },
+ "boxningstillbehor": {
+  "status": "verifierad",
+  "fel": []
+ },
+ "power-rack": {
+  "status": "verifierad",
+  "fel": []
+ },
+ "plyobox": {
+  "status": "verifierad",
+  "fel": []
+ },
+ "vattenflaska": {
+  "status": "verifierad",
+  "fel": []
+ },
+ "wall-ball-1": {
+  "status": "verifierad",
+  "fel": []
+ },
+ "battle-rope": {
+  "status": "verifierad",
+  "fel": []
+ }
+}
