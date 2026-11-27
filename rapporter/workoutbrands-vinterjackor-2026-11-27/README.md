@@ -14,3 +14,9 @@ Se `forslag.csv` (med teckenantal) och `skrivplan.json`.
 - **Fynd:** `vinterjacka-kvinna` innehåller två sweatshirts med namnet "Parka" (UC Sweat Parka, Ladies Sweat Parka) som inte är vinterjackor. De är inte räknade i texten.
 - Texten för herr är oförändrad (stämmer i sak men har brutna meningar).
 - Före skrivning behövs enligt standarden en oberoende granskning av påståendena mot produkterna.
+
+## Skrivet 2026-11-27 (beskrivningar)
+- Oberoende granskning (separat agent, bara läsning mot Shopify): alla faktapåståenden OK; 33 köpbara jackor i dam, Urban Classics 28, Brandit 4, Forvert 1. Domen: godkänd att skriva. Två justeringar infördes: "minst 25" i stället för "minst 30" (liten marginal) och kategorinamnen "Vinterjacka - Herr" och "Vinterjacka - Kvinna" exakt som de heter.
+- Skrivet: `descriptionHtml` på `vinterjacka-kvinna` (kanarie, återläst) och `vinterjacka-man-och-kvinna` (återläst). SEO-fälten och produktantalet oförändrade (46 och 124).
+- Före-filer med den gamla texten (Under Armour-texten): `fore_beskrivning_vinterjacka-kvinna.html`, `fore_beskrivning_vinterjacka-man-och-kvinna.html`. Ångra: sätt descriptionHtml till filens innehåll.
+- Kvar: två sweatshirts ("UC Sweat Parka", "Ladies Sweat Parka") och barnjackor ligger i kollektionerna; beslut om att flytta ut dem väntar på David.
