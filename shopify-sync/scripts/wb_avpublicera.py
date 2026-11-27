@@ -24,7 +24,23 @@ AVPUBLICERA = '''mutation($id:ID!,$i:[PublicationInput!]!){ publishableUnpublish
 PUBLICERA = '''mutation($id:ID!,$i:[PublicationInput!]!){ publishablePublish(id:$id, input:$i){ userErrors{field message} } }'''
 
 
+WEBBSHOP_ID = "gid://shopify/Publication/93969055958"  # Webbshop på Workout Brands, kontrollerat 2026-11-27
+
+
 def hitta_webbshop(klient):
+    """Appen kan sakna read_publications (listan blir då tom); därför används det kontrollerade id:t som reserv."""
+    try:
+        for n in klient.graphql(PUBLIKATIONER)["publications"]["nodes"]:
+            apps = ((n.get("catalog") or {}).get("apps") or {}).get("nodes") or []
+            if any(a.get("title") == WEBBSHOP_APP for a in apps):
+                return n["id"]
+    except Stopp:
+        pass
+    print("Kunde inte slå upp publikationerna (read_publications saknas?); använder känt id för Webbshop:", WEBBSHOP_ID)
+    return WEBBSHOP_ID
+
+
+def _gammal_hitta_webbshop(klient):
     for n in klient.graphql(PUBLIKATIONER)["publications"]["nodes"]:
         apps = ((n.get("catalog") or {}).get("apps") or {}).get("nodes") or []
         if any(a.get("title") == WEBBSHOP_APP for a in apps):
