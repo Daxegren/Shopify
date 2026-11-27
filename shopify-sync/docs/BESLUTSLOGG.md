@@ -161,3 +161,4 @@ David beslutade att de kvarvarande aktiva produkterna utan texter-klara (281 av 
 ## 2026-11-08 (senare): svensk text även för tom/tunn källa (v1.12)
 
 David: "Skriv om dem så de har svensk text och följer vår struktur i största möjliga utsträckning" för produkter med tunn eller utländsk leverantörstext, främst de cirka 63 med tom källa. Ändrar tidigare regel (tom källa avvisas, R1/R3) enligt regelbok v1.12. Gäller inte blandade annonser eller dubbletter.
+| 2026-11-27 | Workout Brands: David svarade ja på (1) avpublicering av de 39 tomma kollektionerna (David gör det själv i admin; omdirigeringarna verifieras efteråt), (2) texter, SEO, filter, städning och omdirigeringar efter ja per batch, (3) att ta bort de gamla KVINNA/MAN-filtren och att hantera Southpole (alternativ ej valt: visa slutsålda eller omdirigera). `klader-till-dop-herr` väntar (kontroll i mätningen). Pris väntar till efter Black Friday-erbjudandena. | Workout Brands | David | Chatt 2026-11-27 |
