@@ -20,3 +20,8 @@ Se `forslag.csv` (med teckenantal) och `skrivplan.json`.
 - Skrivet: `descriptionHtml` på `vinterjacka-kvinna` (kanarie, återläst) och `vinterjacka-man-och-kvinna` (återläst). SEO-fälten och produktantalet oförändrade (46 och 124).
 - Före-filer med den gamla texten (Under Armour-texten): `fore_beskrivning_vinterjacka-kvinna.html`, `fore_beskrivning_vinterjacka-man-och-kvinna.html`. Ångra: sätt descriptionHtml till filens innehåll.
 - Kvar: två sweatshirts ("UC Sweat Parka", "Ladies Sweat Parka") och barnjackor ligger i kollektionerna; beslut om att flytta ut dem väntar på David.
+
+## Genomfört 2026-11-27: alternativ A (uteslutning på kollektionsnivå)
+- `vinterjacka-kvinna` (kanarie): uteslutning (ANY) av taggarna `kids` och `Hoodie`. Återläst: 46 → 44 produkter; UC Sweat Parka och Ladies Sweat Parka borta.
+- `vinterjacka-man-och-kvinna`: samma uteslutning. Återläst: 124 → 118 produkter; alla sex produkter (B Kids BW Parka, UC Sweat Parka, UC Girls Sweat Parka, UC Boys Basic Bubble Jacket, UC Boys Shiny Puffer Jacket With Hood, Ladies Sweat Parka) bekräftat utanför.
+- Produkter, taggar och priser rördes inte. Före-läge: `fore_regler.json`. Ångra: ta bort uteslutningsvillkoret (`conditionsToDelete`) på källorna 13766295880 och 13766328648.
