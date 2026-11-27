@@ -1,0 +1,6 @@
+{"kollektion":"gid://shopify/Collection/638981079368","handle":"southpole-herr","datum":"2026-11-27",
+ "regler_fore":{"matchning":"ALL","villkor":[{"kolumn":"VENDOR","relation":"EQUALS","varde":"Southpole"},{"kolumn":"VARIANT_INVENTORY","relation":"GREATER_THAN","varde":1}]},
+ "produkter_i_kollektionen_fore":0,
+ "southpole_produkter":{"totalt":134,"aktiva":25,"utkast":109,"arkiverade":0},
+ "andring":"ta bort lagervillkoret (VARIANT_INVENTORY > 1); behall vendor = Southpole",
+ "angra":"collectionUpdate med ruleSet: ALL, VENDOR EQUALS Southpole + VARIANT_INVENTORY GREATER_THAN 1"}
