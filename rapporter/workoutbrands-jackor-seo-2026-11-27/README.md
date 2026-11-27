@@ -9,3 +9,6 @@ Se `forslag.csv`.
 - **För få köpbara produkter:** `parkasjackor-herr` (10 varav cirka 5 köpbara; har meta, saknar titel), `lader-konstlader-jacka-kvinna` (4), `brandit-vinterjacka-dam` (5), `brandit-britannia-jacket-herr-dam-1` (5).
 - **Barn:** `jacka-pojke`, `jacka-flicka`: ej granskade här.
 - **Homepage-kollektionerna** (`vinterjacka-herr-homepage`, `vintertillbehor-homepage`): tekniska, rörs inte.
+
+## Skrivet 2026-11-27 (efter Davids ja)
+Alla sju skrivna: `var-jacka-herr` först som kanarie, därefter övriga sex i ett anrop. Återläst: titel och metabeskrivning exakt som i `forslag.csv`; `kamouflage-jackor-herr` och `brandit-vinterjacka-herr` behöll sina befintliga metabeskrivningar oförändrade. Före-läge: `fore_seo.json`. Ångra: sätt seo.title (och där den saknades före, seo.description) till null.
