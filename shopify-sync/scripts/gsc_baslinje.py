@@ -10,7 +10,7 @@ Skriver till --ut (standard ~/gsc_baslinje_<datum>/):
 Inloggning: din egen Google-inloggning i Cloud Shell (samma som gsc_export.py). Inga nycklar i filen.
   python3 gsc_baslinje.py sc-domain:workoutbrands.com
 """
-import argparse, csv, datetime as dt, json, os, sys
+import argparse, csv, datetime as dt, json, os, sys, time
 from urllib.parse import quote
 
 from gsc_export import session, API, PAGE
@@ -45,9 +45,21 @@ def hamta(s, site, dims, start, end, filt=None, tak=100000):
         body = {"startDate": str(start), "endDate": str(end), "dimensions": dims, "rowLimit": PAGE, "startRow": offset, "dataState": "final"}
         if filt:
             body["dimensionFilterGroups"] = [{"filters": [filt]}]
-        r = s.post(API.format(site=quote(site, safe="")), json=body, timeout=120)
-        if r.status_code != 200:
-            sys.exit(f"Fel {r.status_code} för {dims}: {r.text[:300]}")
+        r = None
+        for forsok in range(5):  # nya försök vid timeout, 429 och 5xx
+            try:
+                r = s.post(API.format(site=quote(site, safe="")), json=body, timeout=120)
+            except Exception as e:  # noqa
+                print(f"  nätverksfel ({e.__class__.__name__}), försök {forsok + 1}/5", flush=True)
+                time.sleep(5 * (forsok + 1))
+                continue
+            if r.status_code in (429, 500, 502, 503, 504):
+                print(f"  svar {r.status_code}, försök {forsok + 1}/5", flush=True)
+                time.sleep(10 * (forsok + 1))
+                continue
+            break
+        if r is None or r.status_code != 200:
+            sys.exit(f"Fel {r.status_code if r is not None else 'ingen kontakt'} för {dims}: {r.text[:300] if r is not None else ''}")
         del_ = r.json().get("rows", [])
         rader += del_
         if len(del_) < PAGE:
@@ -92,10 +104,11 @@ def main():
             rader.append(((grupp,), r))
     skriv(f"{ut}/sida_fraga_28d.csv", ["grupp", "sida", "fraga"], rader)
     print(f"  {len(rader)} rader")
-    print("Sidor per vecka (16 veckor)")
+    print("Sidor per vecka (16 veckor, bara kollektionerna i grupperna)")
     vr = []
+    alla = {"dimension": "page", "operator": "includingRegex", "expression": regex_for(andrade + kontroll)}
     for st, en in veckor(slut):
-        part = hamta(s, a.site, ["page"], st, en)
+        part = hamta(s, a.site, ["page"], st, en, alla)
         print(f"  {st}..{en}: {len(part)} sidor")
         vr += [((str(st),), r) for r in part]
     skriv(f"{ut}/vecka_sida.csv", ["veckostart", "sida"], vr)
