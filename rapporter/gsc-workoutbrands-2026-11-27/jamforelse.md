@@ -10,7 +10,7 @@ Veckovis, alla språkversioner av en kollektion summerade. "Före" = snitt av ve
 | Ändrade | 36 | 73 | 74 (+2 %) | 5 411 | 5 693 (+5 %) |
 | Kontroll | 5 | 8 | 6 (-21 %) | 445 | 334 (-25 %) |
 
-Viktad position, ändrade: 15,7 före (snitt av de fem veckorna: 17,0 / 15,6 / 14,7 / 15,5 / 16,3) mot 18,1 efter. Av 36 ändrade kollektioner fick 16 bättre position, resten sämre eller oförändrad.
+Viktad position, ändrade: cirka 16 före (veckorna: 17,0 / 15,6 / 14,7 / 15,5 / 16,3) mot 18,1 efter. Av 36 ändrade kollektioner fick 16 bättre position, resten sämre eller oförändrad.
 
 Sajten totalt per dag: cirka 13 600 visningar före, 15 400 efter 18 november (+13 %); klick oförändrade (cirka 105 till 110 per dag).
 
