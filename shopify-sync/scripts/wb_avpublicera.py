@@ -63,13 +63,13 @@ def las_kollektioner(klient, handles, pub):
     return ut
 
 
-def planera(handles, nu):
+def planera(handles, nu, tillat_produkter=False):
     att_gora, hoppas = [], []
     for h in handles:
         k = nu.get(h)
         if not k:
             hoppas.append((h, "finns inte i butiken"))
-        elif k["produkter"] != 0:
+        elif k["produkter"] != 0 and not tillat_produkter:
             hoppas.append((h, f"har {k['produkter']} produkter"))
         elif not k["publicerad"]:
             hoppas.append((h, "är redan inte publicerad på Webbshop"))
@@ -78,7 +78,7 @@ def planera(handles, nu):
     return att_gora, hoppas
 
 
-def kor(klient, pub, kolls, skriv, atgard, forvantat):
+def kor(klient, pub, kolls, skriv, atgard, forvantat, tillat_produkter=False):
     """Skriver en kollektion i taget och läser tillbaka. Stoppar vid första avvikelse."""
     klar = 0
     for h, kid in kolls:
@@ -86,7 +86,7 @@ def kor(klient, pub, kolls, skriv, atgard, forvantat):
             continue
         # läs om precis före skrivning: får fortfarande inte ha produkter (vid avpublicering)
         nu = klient.graphql(LAS_ID, {"id": kid, "p": pub})["collection"]
-        if forvantat is False and nu["productsCount"]["count"] != 0:
+        if forvantat is False and nu["productsCount"]["count"] != 0 and not tillat_produkter:
             raise Stopp(f"{h}: har fått produkter ({nu['productsCount']['count']}), stoppar.")
         svar = klient.graphql(atgard, {"id": kid, "i": [{"publicationId": pub}]})
         fel = list(svar.values())[0]["userErrors"]
@@ -108,6 +108,8 @@ def main():
     ap.add_argument("--skriv", action="store_true")
     ap.add_argument("--max", type=int, default=0, help="högst så här många kollektioner (kanariefall)")
     ap.add_argument("--aterstall", help="före-fil att publicera igen")
+    ap.add_argument("--tillat-produkter", action="store_true",
+                    help="tillåt kollektioner som har produkter (bara när de ersatts av en omdirigering till en huvudsida)")
     a = ap.parse_args()
     ut = os.path.expanduser(a.ut)
     os.makedirs(ut, exist_ok=True)
@@ -129,7 +131,7 @@ def main():
         sys.exit("--lista saknas.")
     handles = las_handles(os.path.expanduser(a.lista))
     nu = las_kollektioner(klient, handles, pub)
-    att_gora, hoppas = planera(handles, nu)
+    att_gora, hoppas = planera(handles, nu, a.tillat_produkter)
     print(f"{len(handles)} i listan: {len(att_gora)} att avpublicera, {len(hoppas)} hoppas över.")
     for h, skal in hoppas:
         print(f"  hoppar {h}: {skal}")
@@ -144,7 +146,7 @@ def main():
     if not a.skriv:
         print("Torrkörning: inget skrivs. Lägg till --skriv (börja med --max 1).")
         return
-    n = kor(klient, pub, att_gora, True, AVPUBLICERA, False)
+    n = kor(klient, pub, att_gora, True, AVPUBLICERA, False, a.tillat_produkter)
     print(f"KLART, {n} avpublicerade på Webbshop. Ångra: --aterstall {fore_fil} --skriv")
 
 
